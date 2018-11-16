@@ -1,0 +1,906 @@
+<!--The following is the downloaded HTML source of the pilship.com privacy policy that was archived on 2018-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181116100310id_/https%3A//www.pilship.com/en-privacy-policy/159.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="IE=8,9,10,11,edge">
+
+<link rel="shortcut icon" type="image/x-icon" href="/images/logo.ico">
+
+<link rel="stylesheet" type="text/css" href="/css/screen_font_local_en.css">
+
+<link rel="stylesheet" type="text/css" href="/css/screen_font_icons.css">
+<link rel="stylesheet" type="text/css" href="/css/screen.css">
+<link rel="stylesheet" type="text/css" href="/css/screen_staticmenu.css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="/shared/js/jquery-1.11.0.min.js"></script>
+
+<title>Privacy Policy</title>
+<meta name="keywords" content="Privacy Policy">
+<meta name="description" content="Privacy Policy">
+<meta http-equiv="imagetoolbar" content="no">
+
+<link rel="stylesheet" type="text/css" href="/shared/css/jquery-ui-flick.theme.css">
+<link rel="stylesheet" type="text/css" href="/shared/css/jquery-ui-pil.css">
+<link type="text/css" rel="stylesheet" href="/shared/css/jquery.pnotify.default.css">
+<script type="text/javascript" src="/shared/js/jquery.pnotify.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/shared/css/jquery.tooltipster.css">
+<link rel="stylesheet" type="text/css" href="/shared/css/marquee.css">
+<script type="text/javascript" src="/shared/js/jquery.tooltipster.min.js"></script>
+<!--[if IE]>
+<script type="text/javascript">
+    screen.fontSmoothingEnabled;
+</script>
+<![endif]-->
+<script type="text/javascript" src="/shared/js/jquery.history.js"></script>
+<script type="text/javascript" src="/shared/js/0.common.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/css/screen_menu.css">
+<script type="text/javascript" src="/shared/js/jquery.base64.js"></script> 
+<script type="text/javascript">
+
+function marquee(a, b) {
+    var width = b.width();
+    var start_pos = a.width();
+    var end_pos = -width;
+
+    function scroll() {
+        if (b.position().left <= -width) {
+            b.css('left', start_pos);
+            scroll();
+        }
+        else {
+            time = (parseInt(b.position().left, 10) - end_pos) *
+                (100 / (start_pos - end_pos)); // Increase or decrease speed by changing value 10000
+            b.animate({
+                'left': -width
+            }, time, 'linear', function() {
+                scroll();
+            });
+        }
+    }
+
+    b.css({
+        'width': width,
+        'left': start_pos
+    });
+    scroll(a, b);
+    
+    b.mouseenter(function() {     // Remove these lines
+        b.stop();                 //
+        b.clearQueue();           // if you don't want
+    });                           //
+    b.mouseleave(function() {     // marquee to pause
+        scroll(a, b);             //
+    });                           // on mouse over
+    
+}
+
+
+
+</script>
+
+<script language="JavaScript">
+  function openWindow(url) {
+	popupWinL = window.open(url)
+	popupWinL.focus()
+  }	
+</script>
+
+
+
+<!--
+<script type="text/javascript" src="/shared/js/jquery.history.js"></script>
+<script type="text/javascript" src="/shared/js/0.common.js"></script> -->
+<link rel="stylesheet" type="text/css" href="/css/screen_menu.css">
+<script type="text/javascript" src="/shared/js/jquery.base64.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+
+
+
+
+	$(document.body).on("click", "#navsearch", function(event){
+		event.stopPropagation();
+		$("#navsearch").toggleClass("clicked");
+		$("#navsearch_dropdown").toggleClass("clicked");
+	});
+	$(document.body).on("click", ".navsearch-clickopen", function(event){
+		event.stopPropagation();
+		$(".navsearch").addClass("clicked");
+		$("#navsearch_dropdown").addClass("clicked");
+	});
+	$(document.body).on("click", ".clicked .navsearch-clickclose", function(event){
+		event.stopPropagation();
+		$("#navsearch").click();
+	});
+	$(document.body).on("click", "#navsearch_clicknew", function(event){
+		$("#navsearchresults_wrapper").fadeOut("fast", function(){
+			$(this).addClass("hidden");
+			$("#searchresults").html("");
+		});
+		$("#navsearchform_wrapper").fadeIn("slow", function(){
+			$(this).removeClass("hidden");
+			$("#st").val("");
+			$("#navsearch_button").attr("name","dosearch,?BRSR=0");
+		});
+	});
+	$(document.body).on("click", ".navsearch-click", function(event){
+		event.stopPropagation();
+		var values = $(this).attr("name").split(",?BRSR=");
+		var search_start = values[1];
+
+		do_search( $.base64.encode($("#st").val()), search_start );
+		$("#navsearch_dropdown").addClass("clicked");
+	});
+
+	function do_search(search_term,search_start) {
+		if (search_start > 0) {
+			$("#navsearchresults_wrapper").fadeOut("fast", function(){
+				$(this).addClass("hidden");
+				$("#searchresults").html("");
+			});
+		}
+		// search_start = search_start.split
+		if ( $("#st").val() == '' ) {
+			pnalert("error", "Error!", "Type the Word to search");
+		} else {
+			// pnalert("notice", "Processing the form.", "Please stand by, and don't click any buttons.<br />Awaiting confirmation...");
+			$("#navsearch_dropdown .search-ajax").fadeIn("fast", function(){
+				$(this).removeClass("hidden");
+			});
+
+			$.getJSON(
+				"/shared/ajax/",
+				{
+					fn: "get_word_search",
+					st: search_term,
+					BRSR: search_start,
+					pid: 159				},
+				function(json){
+					$("#navsearch_dropdown .search-ajax").fadeOut("slow", function(){
+						$(this).addClass("hidden");
+					});
+					// if (json.error.type < 1) {
+					// 	if (json.data.err < 1) {
+							// pnalert("success", "The form has been submitted.", "We will get back to you as soon as possible.");
+							// alert(json.data.html);
+							$("#navsearchform_wrapper").fadeOut("fast", function(){
+								$(this).addClass("hidden");
+							});
+							$("#navsearchresults_wrapper").fadeIn("slow", function(){
+								$(this).removeClass("hidden");
+								$("#searchresults").html(json.data.html);
+								$("#navsearchresults_wrapper h6 b").text(json.data.search_term);
+								init_ttips();
+							});
+					// 	} else {
+					// 		pnalert("error", "Error!", json.data.err_msg);
+					// 	}
+					// } else {
+					// 	pnalert("error", "Error!", json.error.msg);
+					// }
+				}
+			);
+		}
+
+	}
+
+});
+</script>
+<style>
+#wrapper-logo.logo-big a img {
+	background-image: url(/images/logo_big_en.png);
+}
+
+#wrapper-logo.logo-small a img {
+	background-image: url(/images/logo_small_en.png);
+}
+</style>
+<link rel="stylesheet" type="text/css" href="/css/screen_minimenu.css">
+<link rel="stylesheet" type="text/css" href="/css/screen_submenu.css">
+<meta name="author" content="Web Applications Development by Picture Matters Pte Ltd Singapore &amp; Berlin H. Persia">
+<meta name="generator" content="Customized Content Management System CMS Wise">
+
+<style>
+
+.flashnews marquee{
+	padding:3px 0px;
+	color: #0070af;
+	font-size:15px;
+	background-color:#fff;
+	position:fixed;
+}	
+
+.scroll scrollingtext{
+	padding:3px 0px;
+	color: #0070af;;
+	font-size:15px;
+	background-color:#fff;
+	position:fixed;
+}
+
+.scroll{
+  width:430px;
+  height:38px;
+  overflow:hidden;
+  position:relative;
+}
+ 
+ .scrollingtext{
+  white-space:nowrap;
+  position:absolute;
+ }
+</style>
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-107578491-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-107578491-1');
+</script>
+
+
+
+
+</head>
+<!--
+<div class="flashnews" id="flashnews" style="position:fixed; z-index:9999; background:#fff; width:100%">
+		<marquee id="newsalert" onmouseover="this.stop();" onmouseout="this.start();" scrolldelay="150" scrollamount="5">		
+		<img src="/images/alert.gif">&nbsp;&nbsp;		
+		<span style="position:absolute;margin-top:5px;"><b>The fraudulent website :<font color="blue"> www.pacificinternationalline.com</font>, is not affiliated with PIL. Please refrain from accessing or providing any personal information to such fraudulent websites.</b>
+		</span>		
+		</marquee>			
+</div>
+-->
+<body style=""><div class="scroll" id="flashnews" style="position:fixed; z-index:9999; background:#fff; width:100%">
+
+		<div class="scrollingtext" width="100%" style="right: 16.4027px;">
+		<img src="/images/alert.gif">&nbsp;&nbsp;		
+		<span style="position:absolute;margin-top:5px; width:100%">
+		<b>
+		<font style="color: #0070af">
+		The fraudulent website :<font color="blue"> www.pacificinternationalline.com</font>, is not affiliated with PIL. Please refrain from accessing or providing any personal information to such fraudulent websites.
+		</font>
+		</b>
+		</span>
+		</div>			
+
+		</div>
+
+<br><br>
+
+
+
+
+
+<!--
+<div id="display">
+  <p id="text"><b>Announcement:</b>&nbsp; Please be informed that there will be a scheduled downtime for PIL Website on <b>10th Jan 2015, Saturday from 8PM to 11th Jan 2015, Sunday 3PM</b> Singapore Time.</p>
+</div>
+-->
+<div id="wrapper-body" class="">
+	
+<!-- Block 0 -->
+<!-- endof Block 0 -->
+
+
+
+
+
+
+	<div id="wrapper-vtop">
+		<div id="vtop">
+		<!-- vtop_menu -->
+<div id="menu-wrapper">
+		
+	<div id="menu">
+		<ul class="nav right">
+		<li><a href="/en-our-group-pil-pacific-international-lines/11.html" title="Our Group - PIL - Pacific International Lines"><b><i></i> Our Group</b></a><div class="width3"><h6>Our Group</h6><div class="iter1 nav-column"><ul>
+<li><a href="/en-pil-board-of-directors/185.html" title="PIL Board of Directors"><i></i> PIL Board of Directors</a>
+
+</li>
+<li><a href="/en-pil-today/150.html" title="PIL Today"><i></i> PIL Today</a>
+<ul>
+<li><a href="/en-our-core-values-and-mission-pil-pacific-international-lines/81.html" title="Our Core Values &amp; Mission - PIL - Pacific International Lines"><i></i> Our Core Values &amp; Mission</a>
+
+</li>
+<li><a href="/en-md-s-message-pil-pacific-international-lines/80.html" title="MD's Message - PIL - Pacific International Lines"><i></i> MD's Message</a>
+
+</li>
+</ul>
+
+</li>
+<li><a href="/en-looking-into-the-future-pil-pacific-international-lines/78.html" title="Looking into the Future - PIL - Pacific International Lines"><i></i> Looking into the Future</a>
+
+</li>
+<li><a href="/en-our-history-and-milestones-pil-pacific-international-lines/82.html" title="Our History &amp; Milestones - PIL - Pacific International Lines"><i></i> Our History &amp; Milestones</a>
+<ul>
+<li><a href="/en-our-awards-and-achievements-pil-pacific-international-lines/167.html" title="Our Awards and Achievements - PIL - Pacific International Lines"><i></i> Our Awards and Achievements</a>
+
+</li>
+</ul>
+
+</li>
+</ul>
+</div><div class="iter2 nav-column"><ul>
+<li><a href="/en-our-business/138.html" title="Our Business"><i></i> Our Business</a>
+<ul>
+<li><a href="/en-logistics-and-depot/220.html" title="Logistics and Depot"><i></i> Logistics and Depot</a>
+
+</li>
+</ul>
+
+</li>
+<li><a href="/en-finance/216.html" title="Finance"><i></i> Finance</a>
+
+</li>
+<li><a href="/en-pil-pacific-international-lines/-219.html" title=""><i></i> </a>
+
+</li>
+<li><a href="/en-pil-pacific-international-lines/-220.html" title=""><i></i> </a>
+
+</li>
+</ul>
+</div><div class="iter3 nav-column"><ul>
+<li><a href="/en-corporate-governance/202.html" title="Corporate Governance"><i></i> Corporate Governance</a>
+<ul>
+<li><a href="/en-whistleblow-submission/203.html" title="Whistleblow Submission"><i></i> Whistleblow Submission</a>
+
+</li>
+</ul>
+
+</li>
+<li><a href="/en-corporate-sustainability/181.html" title="Corporate Sustainability"><i></i> Corporate Sustainability</a>
+<ul>
+<li><a href="/en-pil-asiapacific-singapore-environment-green-red-cross/135.html" title="We are committed to environmental stewardship and we are continually evaluating environmental risks associated with the environment to minimise our industry’s impact"><i></i> Corporate Social Responsibility</a>
+
+</li>
+<li><a href="/en-caring-for-the-environment-pil-pacific-international-lines/168.html" title="Caring for the Environment - PIL - Pacific International Lines"><i></i> Caring for the Environment</a>
+
+</li>
+</ul>
+
+</li>
+<li><a href="/en-pil-pacific-international-lines/-207.html" title=""><i></i> </a>
+
+</li>
+</ul>
+</div><div class="iter4 pic-column"><img src="/ximg/data/menu/menu_group_01.jpg-w175" border="1"><h1>Corporate Brochure</h1><a class="button micro bgd0dfe7 flright" href="/data/menu/pil_corporate_brochure.pdf" target="_blank"><b>Download PDF</b></a></div></div></li>
+<li><a href="/en-our-services-pil-pacific-international-lines/12.html" title="Our Services - PIL - Pacific International Lines"><b><i></i> Our Services</b></a><div class="width3"><h6>Our Services</h6><div class="iter1 nav-column"><ul>
+<li><a href="/en-pil-liner-container-service-pacific-international-lines/96.html" title="PIL - Liner Container Service - Pacific International Lines"><i></i> PIL - Liner Container Service</a>
+
+</li>
+<li><a href="/en-other-liner-feeder-container-services/104.html" title="Other - Liner/Feeder Container Services"><i></i> Other - Liner/Feeder Container Services</a>
+<ul>
+<li><a href="/en-advance-container-lines-pil-pacific-international-lines/106.html" title="Advance Container Lines - PIL - Pacific International Lines"><i></i> Advance Container Lines</a>
+
+</li>
+<li><a href="/en-mariana-express-lines/180.html" title="Mariana Express Lines"><i></i> Mariana Express Lines</a>
+
+</li>
+<li><a href="/en-pacific-direct-line-pdl-new-zealand-australia-oceania-asia-austrlasia/105.html" title="Pacific Direct Line - PDL - New Zealand, Australia, Oceania, Asia, Austrlasia"><i></i> Pacific Direct Line</a>
+
+</li>
+</ul>
+
+</li>
+<li><a href="/en-pil-multi-purpose-service/101.html" title="PIL - Multi Purpose Service"><i></i> PIL - Multi Purpose Service</a>
+
+</li>
+<li><a href="/en-3rd-party-logistics-pil-pacific-international-lines/108.html" title="3rd Party Logistics - PIL - Pacific International Lines"><i></i> 3rd Party Logistics</a>
+
+</li>
+</ul>
+</div><div class="iter2 nav-column"><ul>
+<li><a href="/en-singamas-container-holdings-ltd/139.html" title="Singamas Container Holdings Ltd"><i></i> Singamas Container Holdings Ltd</a>
+
+</li>
+<li><a href="/en-port-and-terminal-pil-pacific-international-lines/107.html" title="Port and Terminal - PIL - Pacific International Lines"><i class="icon-globe-black"></i> Port and Terminal</a>
+
+</li>
+<li><a href="/en-our-schedules-pil-pacific-international-lines/117.html" title="Our Schedules - PIL - Pacific International Lines"><i class="icon-wrench"></i> Our Schedules</a>
+<ul>
+<li><a href="/en-port-schedules-pil-pacific-international-lines/118.html" title="Port Schedules - PIL - Pacific International Lines"><i></i> Port Schedules</a>
+
+</li>
+<li><a href="/en-point2point-pil-pacific-international-lines/119.html" title="Point2Point - PIL - Pacific International Lines"><i></i> Point2Point</a>
+
+</li>
+<li><a href="/data/mps/mps.pdf" target="_blank" title="Multi-purpose Schedule - Our Service Network - PIL - Pacific International Lines"><i></i> Multi-purpose Schedule</a>
+
+</li>
+</ul>
+
+</li>
+<li><a href="/en-our-service-network-pil-pacific-international-lines/112.html" title="Our Service Network - PIL - Pacific International Lines"><i class="icon-globe-black"></i> Our Service Network</a>
+<ul>
+<li><a href="/en-container-our-service-network-pil-pacific-international-lines/113.html" title="Container - Our Service Network - PIL - Pacific International Lines"><i></i> Service Network - Container</a>
+
+</li>
+</ul>
+
+</li>
+</ul>
+</div><div class="iter3 nav-column"><ul>
+<li><a href="/en-our-track-and-trace-pil-pacific-international-lines/120.html" title="Our Track &amp; Trace - PIL - Pacific International Lines"><i class="icon-wrench"></i> Our Track &amp; Trace</a>
+<ul>
+<li><a href="/en-local-container-tracking-our-track-and-trace-pil-pacific-international-lines/122.html" title="Local Container Tracking - Our Track &amp; Trace - PIL - Pacific International Lines"><i></i> Local Container Tracking</a>
+
+</li>
+<li><a href="http://server2.vilden.net/cgi-bin/wcs001.pgm?SCPRIN=PI" target="_blank" title="Vilden Tracking - Our Track &amp; Trace - PIL - Pacific International Lines"><i></i> Vilden Tracking</a>
+
+</li>
+<li><a href="http://rates.descartes.com/" target="_blank" title="Carrier US Tariff"><i></i> Carrier US Tariff</a>
+
+</li>
+<li><a href="https://www.pilship.com/htmlpages/maa_export.html" target="_blank" title="India Local Tariff"><i></i> India Local Tariff</a>
+
+</li>
+<li><a href="https://www.pilship.com/htmlpages/Vietnam Tariff.html" target="_blank" title="Vietnam Local Tariff"><i></i> Vietnam Local Tariff</a>
+
+</li>
+</ul>
+
+</li>
+<li><a href="/en-pil-lms-det-dem/200.html" title="PIL - LMS Det/Dem"><i></i> Carrier Detention &amp; Demurrage</a>
+
+</li>
+<li><a href="/en-our-local-offices-pil-pacific-international-lines/115.html" title="Our Local Offices - PIL - Pacific International Lines"><i class="icon-pin-alt"></i> Our Local Offices</a>
+<ul>
+<li><a href="/en-country-holidays-pil-pacific-international-lines/116.html" title="Country Holidays - PIL - Pacific International Lines"><i></i> Country Holidays</a>
+
+</li>
+</ul>
+
+</li>
+</ul>
+</div><div class="iter4 pic-column"><img src="/ximg/data/menu/menu_services_01.jpg-w175" border="1"><h1>Service Leaflet</h1><a class="button micro bgd0dfe7 flright" href="/data/menu/pil_service_leaflet.pdf" target="_blank"><b>Download PDF</b></a></div></div></li>
+<li><a href="/en-our-fleet-and-equipment-pil-pacific-international-lines/13.html" title="Our Fleet &amp; Equipment - PIL - Pacific International Lines"><b><i></i> Our Fleet &amp; Equipment</b></a><div class="width1"><h6>Our Fleet &amp; Equipment</h6><div class="iter1 nav-column"><ul>
+<li><a href="/en-our-fleet-overview-our-fleet-and-equipment-pil-pacific-international-lines/126.html" title="Our Fleet Overview - Our Fleet &amp; Equipment - PIL - Pacific International Lines"><i></i> Our Fleet</a>
+<ul>
+<li><a href="/en-vessel-specifications-our-fleet-and-equipment-pil-pacific-international-lines/127.html" title="Vessel Specifications - Our Fleet &amp; Equipment - PIL - Pacific International Lines"><i></i> Vessel Specifications</a>
+
+</li>
+<li><a href="/en-safety-and-security-standards-our-fleet-and-equipment-pil-pacific-international-lines/128.html" title="Safety &amp; Security Standards - Our Fleet &amp; Equipment - PIL - Pacific International Lines"><i></i> Safety &amp; Security Standards</a>
+
+</li>
+</ul>
+
+</li>
+<li><a href="/en-our-equipment-our-fleet-and-equipment-pil-pacific-international-lines/130.html" title="Our Equipment - Our Fleet &amp; Equipment - PIL - Pacific International Lines"><i></i> Our Equipment</a>
+<ul>
+<li><a href="/en-container-specification/191.html" title="Container Specification"><i></i> Container Specification</a>
+
+</li>
+</ul>
+
+</li>
+</ul>
+</div><div class="iter2 pic-column"><img src="/ximg/data/menu/menu_fleet_equipment.jpg-w175" border="1"></div></div></li>
+<li><a href="/en-careers-pil-pacific-international-lines/14.html" title="Careers - PIL - Pacific International Lines"><b><i></i> Careers</b></a><div class="width2"><h6>Careers</h6><div class="iter1 nav-column"><ul>
+<li><a href="/en-what-can-pil-offer-you-pil-pacific-international-lines/170.html" title="What Can PIL Offer You - PIL - Pacific International Lines"><i></i> What Can PIL Offer You</a>
+
+</li>
+<li><a href="/en-how-we-develop-talent-pil-pacific-international-lines/171.html" title="How We Develop Talent - PIL - Pacific International Lines"><i></i> How We Develop Talent</a>
+
+</li>
+<li><a href="/en-where-do-you-fit-in-pil-pacific-international-lines/172.html" title="Where Do You Fit In - PIL - Pacific International Lines"><i></i> Where Do You Fit In</a>
+<ul>
+<li><a href="/en-office-based-careers-pil-pacific-international-lines/174.html" title="Office-Based Careers - PIL - Pacific International Lines"><i></i> Office-Based Careers</a>
+
+</li>
+<li><a href="/en-seafaring-careers-pil-pacific-international-lines/173.html" title="Seafaring Careers - PIL - Pacific International Lines"><i></i> Seafaring Careers</a>
+
+</li>
+</ul>
+
+</li>
+</ul>
+</div><div class="iter2 pic-column"><img src="/ximg/data/menu/menu_careers_01.jpg-w175" border="1"><h1>Office Careers</h1><a class="button micro bgd0dfe7 flright" href="https://www.pilship.com:8080/psp/pub/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?FOCUS=Applicant&amp;SiteId=1000" target="_blank"><b>Read more</b></a></div><div class="iter3 pic-column"><img src="/ximg/data/menu/menu_careers_02.jpg-w175" border="1"><h1>Seafaring Careers</h1><a class="button micro bgd0dfe7 flright" href="/en-seafaring-careers-pil-pacific-international-lines/173.html"><b>Read more</b></a></div></div></li>
+<li><a href="/en-news-and-events-pil-pacific-international-lines/15.html" title="News &amp; Events - PIL - Pacific International Lines"><b><i></i> News &amp; Events</b></a><div class="width1"><h6>News &amp; Events</h6><div class="iter1 nav-column"><ul>
+<li><a href="/en-latest-news-pil-pacific-international-lines/132.html" title="Latest News - PIL - Pacific International Lines"><i></i> News</a>
+<ul>
+<li><a href="/en-archived-news-pil-pacific-international-lines/134.html" title="Archived News - PIL - Pacific International Lines"><i></i> Archived News</a>
+
+</li>
+</ul>
+
+</li>
+<li><a href="/en-events-at-pil-pacific-international-lines/133.html" title="Events @ PIL - Pacific International Lines"><i></i> Events @ PIL</a>
+
+</li>
+<li><a href="/en-pil-as-a-corporate-citizen-pacific-international-lines/175.html" title="PIL as a Corporate Citizen - Pacific International Lines"><i></i> PIL as a Corporate Citizen</a>
+
+</li>
+<li><a href="/en-publications-pacific-international-lines/184.html" title="Publications - Pacific International Lines"><i></i> Publications</a>
+<ul>
+<li><a href="/en-pil-connects/188.html" title="PIL Connects"><i></i> PIL CONNECTS</a>
+
+</li>
+<li><a href="/en-pacific-post/189.html" title="Pacific Post"><i></i> Pacific Post</a>
+
+</li>
+</ul>
+
+</li>
+</ul>
+</div><div class="iter2 pic-column"><img src="/ximg/data/menu/menu_news_01.jpg-w175" border="1"></div></div></li>
+<li><a href="https://esvc.pilship.com" target="_blank" title="eService"><b><i></i> eService</b></a><div class="width0"><h6>eService</h6><div class="iter1 nav-column"><ul>
+<li><a href="https://esvc.pilship.com" target="_blank" title="PIL - eService Portal"><i></i> eService Portal</a>
+
+</li>
+<li><a href="/en-pacific-int-l-lines-vermas/192.html" title="Pacific Int'l Lines - VERMAS"><i></i> SOLAS-VGM</a>
+
+</li>
+<li><a href="/en-pil-vgm-submission/194.html" title="PIL - VGM Submission"><i></i> VGM Submission</a>
+<ul>
+<li><a href="/en-pil-vgm-excel-file-download/195.html" title="PIL - VGM Excel file download"><i></i> Excel file download</a>
+
+</li>
+<li><a href="/en-pil-evgm-online-submission/193.html" title="PIL - eVGM Online Submission"><i></i> Online Submission</a>
+
+</li>
+</ul>
+
+</li>
+</ul>
+</div></div></li>
+			<li class="navsearch">
+				<a href="javascript:void(0);" id="navsearch" class="tooltips"><b><i class="icon-magnifying-glass"></i></b></a>
+
+				<div class="width1" id="navsearch_dropdown">
+					<div id="navsearchform_wrapper" class="navsearch-subwrapper">
+						<h6>Site Search</h6>
+						<span class="flleft"><input type="text" id="st" name="st" value=""></span>
+						<a href="javascript:void(0);" id="navsearch_button" class="navsearch-click navsearch-clickopen button flright bgf0f0f0" name="dosearch,?BRSR=0"><b>Search</b></a>
+						<b class="search-ajax hidden">&nbsp;</b>
+						<br class="clearer">
+						<hr>
+					</div>
+					<div id="navsearchresults_wrapper" class="navsearch-subwrapper hidden">
+						<h6>Search Results for: '<b></b>'<i class="search-ajax hidden">&nbsp;</i></h6>
+						<div id="searchresults" class="searchresults">
+						</div>
+
+						<a class="navsearch-clickclose buttoni micro gray bgd0dfe7 flleft" href="javascript:void(0);">
+							<b>
+								<strong>Close Search</strong>
+								<i>x</i>
+							</b>
+						</a>
+						<a id="navsearch_clicknew" class="navsearch-clickopen buttoni micro bgd0dfe7 flright" href="javascript:void(0);">
+							<b>
+								<strong>New Search</strong>
+								<i class="icon-magnifying-glass"></i>
+							</b>
+						</a>
+					</div>
+				</div>
+			</li>
+					</ul>
+	</div>
+</div>
+<!-- EOF vtop_menu -->
+
+<!-- vtop_logo -->
+<div id="wrapper-logo" class="logo-big">
+	<a href="/en-pil-pacific-international-lines/1.html">
+		<img src="/images/spacer.gif" alt="Privacy Policy">
+			</a>
+	<b class="slogan">Our Promise, Your Satisfaction</b>
+</div>
+<!-- EOF vtop_logo -->
+<!-- vtop_minimenu -->
+<div class="minimenu">	
+	<p>
+				<a href="/en-privacy-policy/159.html?lang=en" title="Privacy Policy" class="active">English</a>
+		<a href="/cn-privacy-policy/159.html?lang=cn" title="隐私条款">中文</a>
+ 		
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/en-shipping-guide/3.html" title="Shipping Guide"><i></i> Shipping Guide</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/en-contact-pil/2.html" title="Contact PIL"><i></i> Contact PIL</a>
+
+
+		&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/pilsingapore" target="_blank" title="PIL facebook page"><img style="vertical-align:middle" src="../images/fblogo.png" height="20px" width="23px"></a>		&nbsp;&nbsp;<a href="/en-wechat/205.html" title="Follow us on WeChat"><img style="vertical-align:middle" src="../images/wechatlogo.png" height="27px" width="28px"></a>		
+	</p>
+</div>
+<!-- EOF vtop_minimenu -->
+		</div>
+	</div>
+
+
+
+
+
+	<div id="wrapper-top">
+	
+	<!--
+	  <table width="100%">
+	  <tr>
+	    <td><br>
+		  <img src="/images/Mr_Lee_Kuan_Yew.jpg" >
+		</td>
+		<td>&nbsp;</td>
+		<td>
+		  <span><b>PIL Tribute to Mr Lee Kuan Yew</b></span><br><br>
+		  <span>PIL express its profound sadness on the demise of the Founding Father of modern day Singapore, Mr Lee Kuan Yew.</span><br><br>
+		  <span>Mr. Lee's passion and drive had successfully transformed Singapore from a Third World country to a prosperous country than many citizens are proud to call home. 
+		  His vision and strength to do the right thing had ensured that Singapore succeed in the global economy with a striving Maritime industry.</span><br><br>
+		  <span>
+		  Mr Lee's insights on political issues in Asia are well sought after by world leaders making him a true Global Statesman.
+		  </span><br><br>
+		  <span>
+		  Our deepest condolences to our Prime Minister Mr Lee Hsien Loong and his family.
+		  </span>
+		  
+		</td>
+	  </tr>
+	  </table>
+	-->
+	
+<!--[if lt IE 7]>
+<p class="chromeframe">You are using an outdated browser. <a href="http://www.whatbrowser.org/intl/en/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+<![endif]-->
+		<div id="top">
+		<!-- top_header -->
+<div id="header">
+	<a href="/en-pil-pacific-international-lines/1.html" class="breadcrumbs" title="PIL -Pacific International Lines"><i class="icon-home-2"></i></a> <i class="separator icon-arrow3-right"></i> <a href="/en-pil-pacific-international-lines/1.html" class="breadcrumbs" title="PIL -Pacific International Lines">Home</a> <i class="separator icon-arrow3-right"></i> <a href="/en-privacy-policy/159.html" class="breadcrumbs active" title="Privacy Policy">Privacy Policy</a></div>
+<!-- EOF top_header -->
+		</div>
+	</div>
+
+
+
+
+	<div id="wrapper-main" class="columns2">
+		<div id="main">
+		<a name="top"></a>
+
+				<noscript>
+				<div class="noscript">
+					<div id="error">
+						<p class="firstline">Oops!</p>
+						<p>Welcome to www.pilship.com</p>
+						<p>This website is designed for JavaScript-only browsers. In case you have disabled JavaScript, please enable it and reload this page. Otherwise consider installing a JavaScript capable browser such as <a href="http://www.getfirefox.com/" target="_blank" style="color: #ffcc00;">Mozilla Firefox</a>, <a href="http://www.apple.com/safari/" target="_blank" style="color: #ffcc00;">Safari</a> or <a href="http://www.opera.com/" target="_blank" style="color: #ffcc00;">Opera</a>.</p>
+					</div>
+				<br class="clearer" />
+				</div>
+				</noscript>
+
+						<div id="main-left">
+			
+<!-- left_submenu -->
+<div id="submenu">
+	<h3>Home</h3>
+<ul><li><a href="/en-pil-sitemap/157.html" title="PIL Sitemap"><i></i> Sitemap</a></li>
+<li><a href="/en-copyright-notice/158.html" title="Copyright Notice"><i></i> Copyright Notice</a></li>
+<li class="active"><a href="/en-privacy-policy/159.html" title="Privacy Policy"><i></i> Privacy Policy</a></li>
+</ul>
+
+</div>
+<!-- endof left_submenu -->
+				</div>
+			
+
+
+			<div id="main-center">
+					<!-- container_center_59 -->
+	<div class="content-container-center" id="content_container_59">
+	<!-- box_ center_basic_html 111 -->
+<!-- Global Site Tag (gtag.js) - Google Analytics 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107578491-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-107578491-1');
+</script>
+-->
+<div class="content-center content" id="content_111"><h1>Privacy Policy</h1>
+<p>This Privacy Policy
+covers Pacific International Lines' treatment of personally identifiable
+information that Pacific International Lines collects when you are on the
+Pacific International Lines site. This policy does not apply to the practices
+of companies that Pacific International Lines does not own or control, or to
+people that Pacific International Lines does not employ or manage.</p>
+<p>Pacific International
+Lines collects personally identifiable information when you fill in the
+feedback form available for your use on our site. When you choose to fill in
+the Pacific International Lines feedback form, we ask for your name and e-mail
+address. Pacific International Lines uses the personally identifiable
+information you supply on our feedback form to respond to your inquiries only.
+Pacific International Lines also automatically receives and records information
+on our server logs from your browser including your IP address (see below) and
+the page you requested. Pacific International Lines uses this information for
+statistical purposes only.</p>
+<p>Pacific International
+Lines will not sell or rent your personally identifiable information to anyone.
+Pacific International Lines will only send personally identifiable information
+about you to other companies or people when we have your consent to share the
+information or we respond to subpoenas, court orders or legal process.</p>
+<p>Pacific International
+Lines may edit this policy from time to time. If we make any substantial
+changes we will notify you by posting a prominent announcement on our pages.  </p>
+<p>If you have questions or suggestions please send an email to <a href="mailto:general@sgp.pilship.com">general@sgp.pilship.com</a></p>
+<p>The Pacific International Lines web site contains links to other web sites; however, we are not responsible for the privacy practices or the content of such web sites.</p>
+<h1>IP Addresses </h1>
+<p>When your web browser or email application requests a web page or email from another computer on the Internet, it automatically gives that computer the address where it should send the information. This is called your computer's "IP address." (IP stands for "Internet protocol.") For most users accessing the Internet from a dial-up Internet service provider (ISP), the IP address will be different every time you log on.</p>
+<p>Pacific International Lines receives IP addresses from all users because your browser automatically reports this information each time you view a web page. IP addresses may be used for various purposes, including to:</p>
+<ul>
+<li>
+<p>Diagnose service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP. </p></li>
+<li>
+<p>Send the most appropriate advertising based on geographic area or information derived from your IP address. Many IP addresses are commonly associated with Internet service providers, universities, or major corporations in specific regions or localities. Aggregate information derived from IP addresses may also be reported to advertisers.</p></li>
+<li>
+<p>Estimate the total number of users visiting Pacific International Lines from specific countries or regions of the world. When a Pacific International Lines web page is requested and viewed, that request is logged on our servers with information including the IP address of the computer that requested the page. </p></li></ul>
+<p>Our website contains
+hyperlinks to social media (also known as “social plugins”) operated by third
+Parties. The functionality of these social plugins where in particular the
+transfer of information and user data is not activated by visiting our website,
+is only by clicking the hyperlinks.  </p>
+<p>Once you click on any of
+these links, the plugin of the respective social media tools will be activated
+and your browser will establish a direct connection with the server of this
+social media tool.</p>
+<ul>
+<li>
+<p>Facebook (provided by
+Facebook, Inc.) to identify users logged in to Facebook for the purpose of
+sharing content on Facebook (only when you are logged in to Facebook when
+visiting our website and only when clicking the Facebook button)</p></li>
+<li>
+<p>WeChat (Provided by Tencent International Pte.
+Ltd) to identify users logged in to WeChat for the purpose of sharing web
+message content reflecting from their smartphone (only when you are logged in
+to WeChat when visiting our website and only when clicking the WeChat button
+with the QR code to logon)</p></li></ul>
+<p>We have implemented
+appropriate organizational and technical security measures to protect your
+personal data. We store personal data on servers with limited access located in
+secured facilities, and our security measures are evaluated on an ongoing
+basis. The servers are protected by anti-virus software and firewalls.</p>
+<h1>Data Protection Officer (DPO) at Pacific International
+Lines (Pte) Ltd</h1>
+<p>For questions
+regarding the Collection, Processing or Use of Personal data relating to you or
+in case of a withdrawal of an informed consent regarding the disclosure,
+correction , deletion of data. Please contact us at</p>
+<p>Email: <a href="mailto:dpo@sgp.pilship.com">dpo@sgp.pilship.com</a></p></div><!-- EOF box_ center_basic_html 111 -->
+	</div>
+	<!-- EOF container_center_59 -->
+				</div>
+			<!-- end of div#main-center -->
+
+
+
+			
+
+				</div>
+		<!-- end of div#main -->
+		
+		<!--
+		<table width="100%">
+		  <tr>
+		    <td>
+			  <img src="/images/BNR_Banner.jpg" >			  
+			</td>
+		  </tr>
+		</table>
+		-->
+	</div>
+	<!-- end of div#wrapper-main -->
+	
+
+
+
+
+	<div id="wrapper-prefooter">
+				
+	</div>
+
+
+
+	<div id="wrapper-footer">
+		<!-- footer -->
+<div class="footer">
+	<p class="disclaimer">
+		Our website has been optimized for viewing in a common, modern web browser (i.e., Internet Explorer version 8 and above, Mozilla Firefox version 18 and above, Google Chrome and Safari).If you are running any other browser or older browser versions, you may encounter problems with certain sections of the website.	</p>
+
+	<br>
+
+	<p>
+		|<a href="/en-pil-sitemap/157.html" title="PIL Sitemap"><i></i> Sitemap</a>|
+<a href="/en-copyright-notice/158.html" title="Copyright Notice"><i></i> Copyright Notice</a>|
+<a href="/en-privacy-policy/159.html" title="Privacy Policy"><i></i> Privacy Policy</a>|
+
+
+		<br>
+		Copyright © Pacific International Lines Pte Ltd 2016. ALL Rights Reserved.	</p>
+</div>
+<!-- EOF footer -->
+<div class="staticmenu-wrapper">
+	<div class="staticmenubg">
+	</div>
+
+	<div class="staticmenu">
+	<a href="/en-our-track-and-trace-pil-pacific-international-lines/120.html" class="link-blue" title="Our Track &amp; Trace - PIL - Pacific International Lines"><i class="separator icon-arrow3-up"></i> Track &amp; Trace</a><a href="/en-port-schedules-pil-pacific-international-lines/118.html" class="link-red" title="Port Schedules - PIL - Pacific International Lines"><i class="separator icon-arrow3-up"></i> Port Schedules</a><a href="/en-point2point-pil-pacific-international-lines/119.html" class="link-black" title="Point2Point - PIL - Pacific International Lines"><i class="separator icon-arrow3-up"></i> Point2Point Schedules</a><a href="/en-container-our-service-network-pil-pacific-international-lines/113.html" class="link-blue" title="Container - Our Service Network - PIL - Pacific International Lines"><i class="separator icon-arrow3-up"></i> Service Network</a><a href="/en-our-local-offices-pil-pacific-international-lines/115.html" class="link-red" title="Our Local Offices - PIL - Pacific International Lines"><i class="separator icon-arrow3-up"></i> Our Local Offices</a>	</div>
+</div>
+
+<!--<script type="text/javascript">
+	var _paq = _paq || [];
+	_paq.push(["trackPageView"]);
+	_paq.push(["enableLinkTracking"]);
+
+	(function() {
+		var u = "https://www.pilship.com/analytics/";
+		_paq.push(["setTrackerUrl", u+"piwik.php"]);
+		_paq.push(["setSiteId", "1"]);
+		_paq.push(['setDocumentTitle', ""]);
+		var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+		g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+	})();
+</script> //-->
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-47903615-1', 'pilship.com');
+	ga('send', 'pageview');
+
+</script>
+	</div>
+
+
+
+
+
+
+
+
+<br class="cleaner">
+</div>
+
+<script>
+$(document).ready(function() {
+	
+	
+	//marquee($('#flashnews'), $('#newsalert'));  //Enter name of container element & marquee element
+	
+	/*
+	var class_name = document.getElementById("wrapper-body").className;
+	if(class_name=='home') {
+		if(document.getElementById("wrapper-squares")!=null) {
+			var div = document.getElementById("wrapper-squares");
+			div.style.display = "none";
+		}
+		if(document.getElementById("wrapper-banners")!=null) {
+			var div2 = document.getElementById("wrapper-banners");
+			div2.style.display = "none";
+		}
+	}
+	*/
+	
+	$('.scrollingtext').bind('marquee', function() {
+         var ob = $(this);
+         var tw = ob.width();
+         var ww = ob.parent().width();
+         ob.css({ right: -tw });
+         ob.animate({ right: ww }, 30000, 'linear', function() {
+             ob.trigger('marquee');
+         });
+     }).trigger('marquee');
+});
+</script>
+
+
+</body></html>
