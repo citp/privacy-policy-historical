@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrdiscovery.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527164043id_/http%3A//rrdiscovery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrdiscovery.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116162329id_/http%3A//www.rrdiscovery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -91,7 +91,7 @@ Sensitive personal information will never be disclosed to third parties or used 
 
  **Third Party Collection of Information**
 
-Certain third parties including, but not limited to, Facebook, whose pixels or data are used by our website, may use cookies, web beacons, and similar technologies to collect or receive information from your website, and elsewhere on the internet, and use that information to provide measurement services and target ads. You can opt-out of the collection and use of your information for ad targeting by accessing [www.aboutads.info/choices](https://web.archive.org/web/20180527164043id_/http%3A//rrdiscovery.com/www.aboutads.info/choices) and following the opt-out instructions contained there.
+Certain third parties including, but not limited to, Facebook, whose pixels or data are used by our website, may use cookies, web beacons, and similar technologies to collect or receive information from your website, and elsewhere on the internet, and use that information to provide measurement services and target ads. You can opt-out of the collection and use of your information for ad targeting by accessing [www.aboutads.info/choices](https://web.archive.org/web/20181116162329id_/http%3A//www.rrdiscovery.com/www.aboutads.info/choices) and following the opt-out instructions contained there.
 
  **Questions**
 
