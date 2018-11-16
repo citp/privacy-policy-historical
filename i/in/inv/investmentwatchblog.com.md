@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investmentwatchblog.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520180932id_/http%3A//www.investmentwatchblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentwatchblog.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116165225id_/http%3A//www.investmentwatchblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Investment Watch Blog
+# Privacy Policy – Investment Watch
 
 InvestmentWatchBlog (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of [www.investmentwatchblog.com](http://www.investmentwatchblog.com/) (“the Site”). We created this Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
@@ -63,10 +63,20 @@ In compliance with Children’s Online Privacy Protection Act (“COPPA”), thi
 6\. UPDATES AND CHANGES TO PRIVACY POLICY  
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
 
+  * **MailChimp Privacy Policy:  **[](https://mailchimp.com/legal/privacy/)[mailchimp.com/legal/](https://mailchimp.com/legal/)privacy/
+  * **MailChimp Terms of Use:  **[](https://mailchimp.com/legal/terms/)[mailchimp.com/legal/](https://mailchimp.com/legal/)terms/
+  * **Disqus Privacy Policy:**  [help.disqus.com/terms-and-policies/disqus-privacy-policy](https://help.disqus.com/terms-and-policies/disqus-privacy-policy)
+
+
+
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter or email to:
 
 [admin@investmentwatchblog.com](mailto:admin@investmentwatchblog.com)
 
-**If everyone who reads our story, who likes it, helps fund it, our future would be much more secure.[For as little as $1, you can support the IWB – and it only takes a minute.](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DAKZTAE6PJLGW) Thank you.**
+Emergency Fund Caculator: 
 
-2,585 views 
+Related Posts: 
+
+**If everyone who reads our story, who likes it, helps fund it, our future would be much more secure.[For as little as $10, you can support the IWB – and it only takes a minute.](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DAKZTAE6PJLGW) Thank you.**
+
+9,462 views 
