@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsfl.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517174719id_/http%3A//www.optavia.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsfl.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116160109id_/http%3A//www.optavia.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # OPTAVIA | Legal Notices | Privacy Policy
 
