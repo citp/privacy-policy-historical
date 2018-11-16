@@ -1,42 +1,50 @@
-> *The following text is extracted and transformed from the exportgenius.in privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202100725id_/http%3A//www.exportgenius.in/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exportgenius.in privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116072604id_/https%3A//www.exportgenius.in/company/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Export Genius | Export Import | Custom duty
 
-Export Genius Undertakes all possible measures to maintain updated and effective Privacy policies and standards. Privacy Policy incorporates all information which you provide to Export Genius at the time of registration at www.exportgenius.in. We understand the Importance of your personal information thus would like to keep u you aware with several aspects like -
+[](https://www.exportgenius.in/)
 
-  * What information we collect from you?
-  * How do we collect?
-  * How can we use it?
-  * And to whom we may share it?
+Export Genius Privacy Policy explains who we are, how we collect and use personal information about You and how you can exercise your privacy rights. Export Genius respects your preferences concerning the collection and use of your personal information. Your privacy and trust are important to us and the following policies and statements explain how Export Genius and its subsidiaries and affiliates handle your personal information. So, read our Privacy Policy thoroughly and for any concerns, [_contact us_](https://web.archive.org/company/contact-us.php).
 
+## What does Export Genius do?
 
+Export Genius is a leading market research agency, providing import-export global trade data of 60+ countries and analytical business intelligence reports of 20+ countries and all Harmonized System (HS) classified commodities. We undertake all possible measures to maintain updated and effective Privacy Policy and standards to protect personal information of users that they share on this Website. Export Genius may amend or change or modify any of the terms listed in Privacy Policy as and when need arises and without any prior notice. So, You are requested to go through this Privacy Policy in detail before using this Website.
 
-Whenever our website is used or any of our services in whole/part; Subscriber/users acknowledge and agree with all terms and conditions of our privacy policy. Export Genius may amend/change/evolve the policy & terms as when the need arises and modification will be updated on our website www.exportgenius.in accordingly. Subscribers are requested to go through all privacy policy before using of our website so that you are aware and updated to all amendments.
+#### What personal information does Export Genius collect and why?
 
-Information which we collect:
+We ask you to provide personal information, such as your contact details, user credentials and employment information.
 
-Subscribers are required to provide a variety of information i.e. -  **Business Name, Email Address, Phone Number(s), Postal Address and other identifying contact information.**
+Types of Personal Information | Why We Collect It  
+---|---  
+Company information | To verify authenticity of you and your business.  
+Contact details including email address, phone number(s), postal address, etc. | To respond to correspondence and enquiries you send us. In some cases, to collect information required to provide products and services requested by you. Also, to obtain your feedback regarding our products and services.   
+Financial information including bank account details, credit card details, etc. | To process payment for your data order and subscription plan.  
+User credentials including name, email address and other personal information. | To set up and maintain your user account.   
+Information, which you share via chat, comment, enquiry form and news boards. | To reach you for knowing your data requirements.  
+Non-personal and autonomous identifying information like Internet Protocol (IP) address, browser details, operating system type, date & time of website access, etc. | To monitor our website in improving website performance and managing promotional activities.  
+  
+## How does Export Genius keep my personal information secure?
 
-We also gather and record the information which you share in any chat room, comment box, enquiry form and News boards at exportgenius.in
+We use appropriate technical and organizational measures to protect Your personal information that we collect through our Website. The measures we use are designed to provide a level of security in a suitable way and to the risk of processing your personal information.
 
-Export Genius also records financial information of the subscriber including Bank Account details, Credit card information for the registration and subscription process.
-
-Also the non-personal and Autonomous identifying information is collected through our website, including internet protocol (IP) Address, Browser details, operating system type, date and time of access of the site, geographical location etc. This information is collected to monitor our site to improve performance and for targeted Marketing and manage our promotional activities.
-
-Disclosure of the Information:
-
-The subscribers person and non-person identifying information is disclosed to our staff members only for the purpose of managing the accounts and processing your orders in Export Genius. At any cost, we do not sell your personal or financial information to any other third party for any promotional purpose. However, we may use readers phone Numbers, email Id (s) for sending Newsletters and business offers. Export Genius may also share your information to our business partners and agents for other lawful purposes.
-
-Security :
-
-We understand importance of your Privacy so whenever your Personal Information is captured within Export Genius or on its behalf, We will take reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete, up-to-date and stored in a secure environment protected from unauthorized access, modification or disclosure. In case of any concerns the privacy kindly contact info@exportgenius.in
-
-Choice:
-
-We do not provide unsolicited emails. You may restrict our use of your information by contacting us info@exportgenius.in In that case you may not be able to receive our promotional offers, News and some services.  
+  
 
 
-Changes in Policy:
+## International Data Transfers
 
-Export Genius reserves all rights to change in Policy without any prior Notice as when the need arise. However we will post our modified policy on our website as soon as the changes are done. Subscribers are requested to thoroughly check our policy before using our services. Your continued use of our data and services covered by this Notice constitutes your acceptance of the terms & Conditions completely.  
+###### Your personal information including company name, e-mail address, phone numbers, postal address, bank details and other required information; may be transferred to and processed in countries other than country in which you reside. These countries may have data protection laws that are different to the laws of your country. We have taken appropriate measures to make sure that your personal information shared on this Website will remain protected in accordance with this Privacy Policy. 
 
+Personal information, which You provide through this Website is disclosed to our sales representatives only for the purpose of managing your accounts and processing your data orders. We don’t sell your general or financial privacy to any other third party for any promotional purpose. However, we may use your personal details like phone numbers, email address, etc. for sending newsletters and other business offers. Export Genius may also share your personal information to our business partners and agents for other lawful purposes. 
+
+## Your Data Protection Rights
+
+##### Your data protection rights include the right to access, correct, update or request deletion of your personal information. You also have the right to withdraw the consent you have provided to us. You have the following data protection rights:
+
+  * You can access, correct, update or request deletion of your personal information provided through our Website.
+  * You can object to processing of your personal information and ask us to restrict processing of your personal information or request portability of your personal information.
+  * You can opt-out of marketing communications at any time from our Website and Blog as well. You can exercise this right by clicking on the “unsubscribe” link in the marketing e-mails that we send you on your email address.
+  * If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. 
+
+
+
+_Please email any questions or doubts about the Export Genius Privacy Policy to[info@exportgenius.in](mailto:info@exportgenius.in)._
