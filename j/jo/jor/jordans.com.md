@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411071604id_/http%3A//www.jordans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116134507id_/https%3A//www.jordans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement for jordans.com
 
@@ -64,7 +64,7 @@ We operate cameras in stores for security and operational purposes, such as to m
 
 We use Location Based Services (LBS) to understand traffic patterns in venues. The location data we capture helps us to understand venues, such as how long customers stand in line and how they generally move around an area, enhancing operational efficiency and improving user experience.
 
-If you would like to find out more about the data we collect through Mobile Location Analytics MLA, take a look at our solution providers [location analytics policy](http://purple.ai/location-analytics-policy "Purple WiFi"), alternatively you can [opt out of location analytics](http://purple.ai/location-analytics-optout "Purple WiFi Opt Out"). 
+If you would like to find out more about the data we collect through Mobile Location Analytics MLA, take a look at our solution providers [location analytics policy](https://purple.ai/full-privacy-policy/) and [cookie policy](https://purple.ai/cookie-policy/).
 
 ### How We Use Your Information
 
@@ -130,7 +130,7 @@ We want to communicate with you in ways you find useful. Examples are special of
 
 By providing Jordan's Furniture with your email address, you are giving us permission to send you electronic communications. We will not rent, sell or give away your email address at any time. You may opt out of receiving our emails by following the unsubscribe instructions at the bottom of any correspondence we send. 
 
-You can update or change your marketing preferences by [logging into your account](http://www.jordans.com/user/login) or [opt out directly here](http://www.jordans.com/direct-mail-opt-out-form). Please note that it may take up to 10 days to process your email request and 30 days for your postal mail request. 
+You can update or change your marketing preferences by [logging into your account](https://www.jordans.com/user/login) or [opt out directly here](https://www.jordans.com/direct-mail-opt-out-form). Please note that it may take up to 10 days to process your email request and 30 days for your postal mail request. 
 
 Please be aware that, even if you have opted out of receiving marketing communications from us, we may still contact you for transactional purposes. Some examples are contacts for customer service, product information, service or reminder notices, or recalls. We may also need to contact you with questions or information regarding your order, such as regarding order status, shipment, or refunds. 
 
@@ -166,7 +166,7 @@ Please check our privacy policy periodically for changes. We will also notify yo
 
 ### Contact Us
 
-Please feel free to contact us with any questions or comments about this policy or about the ways your information is handled. You can [contact us online](http://www.jordans.com/contact-us) or via the address below: 
+Please feel free to contact us with any questions or comments about this policy or about the ways your information is handled. You can [contact us online](https://www.jordans.com/contact-us) or via the address below: 
 
 **
 
