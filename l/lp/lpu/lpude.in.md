@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lpude.in privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517141722id_/http%3A//www.lpude.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpude.in privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116081648id_/http%3A//www.lpude.in/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - LPU Distance Education
+
+## Privacy Policy
 
 You may visit our website without revealing any personal information wherever permissible. Certain transactions may require submission of personal information like profile updates and certain databases. We will not sell, swap or rent, or otherwise disclose to any third party any personal information for commercial purpose and such information will be utilized only for the purpose stated. To accomplish such purpose we may disclose the information to our employees, consultants and other concerned having a genuine need to know the information.
 
