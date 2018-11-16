@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingmamasita.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517162910id_/http%3A//savingmamasita.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingmamasita.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116203745id_/http%3A//savingmamasita.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Saving Mamasita
 
@@ -55,15 +55,15 @@ For information about opting out of Gourmet Ads and ad serving partners please v
 
 
 
+  * [Best First-Time Vehicles for Students](http://savingmamasita.com/2018/08/best-first-time-vehicles-for-students/) \- August 26, 2018
+  * [Saving Money On Home Beautification](http://savingmamasita.com/2018/08/saving-money-on-home-beautification/) \- August 19, 2018
+  * [Grocery Shopping Tips for Your College Bound Child](http://savingmamasita.com/2018/08/grocery-shopping-tips-for-your-college-bound-child/) \- August 18, 2018
+  * [#Whyiwearwhite During My Cycle](http://savingmamasita.com/2018/07/whyiwearwhite-during-my-cycle/) \- July 12, 2018
+  * [Service Workers You Should Tip](http://savingmamasita.com/2018/07/service-workers-you-should-tip/) \- July 1, 2018
+  * [One-Pan Chicken Recipes for a Quick Spring Weeknight Dinner](http://savingmamasita.com/2018/06/onepan-chicken-recipes/) \- June 11, 2018
+  * [Spring Crafts Using Mason Jars](http://savingmamasita.com/2018/05/spring-crafts-using-mason-jars/) \- May 28, 2018
+  * [DIY Spring Nail Art Ideas](http://savingmamasita.com/2018/05/diy-spring-nail-art-ideas/) \- May 27, 2018
   * [Seasonal Allergies: Myths Vs. Facts](http://savingmamasita.com/2018/05/seasonal-allergies-myths-vs-facts/) \- May 13, 2018
   * [Make Your Home Look Like a Million Bucks With These DIY Projects](http://savingmamasita.com/2018/05/make-your-home-look-like-a-million-bucks-with-these-diy-projects/) \- May 10, 2018
-  * [Tips to Keep Healthy](http://savingmamasita.com/2018/05/tips-to-keep-healthy/) \- May 10, 2018
-  * [A Guide to Helping Your Kid Walk for the First Time](http://savingmamasita.com/2018/05/a-guide-to-helping-your-kid-walk-for-the-first-time/) \- May 5, 2018
-  * [8 Ways To Save Money On A Daily Basis](http://savingmamasita.com/2018/04/8-ways-to-save-money-on-a-daily-basis/) \- April 30, 2018
-  * [5 Ways To Simplify Your Life](http://savingmamasita.com/2018/04/5-ways-to-simplify-your-life/) \- April 26, 2018
-  * [Top Tips for Sustainable Spring Fashion Dressing](http://savingmamasita.com/2018/04/top-tips-for-sustainable-spring-fashion-dressing/) \- April 21, 2018
-  * [How to Protect Your Children During a Divorce](http://savingmamasita.com/2018/04/how-to-protect-your-children-during-a-divorce/) \- April 14, 2018
-  * [Fun Plugins to Have for WordPress Websites](http://savingmamasita.com/2018/04/fun-plugins-to-have-for-wordpress-websites/) \- April 9, 2018
-  * [Tips To Keeping A Clean House](http://savingmamasita.com/2018/04/tips-to-keeping-a-clean-house/) \- April 5, 2018
 
 
