@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ma.edu privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517163303id_/http%3A//www.westfield.ma.edu/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ma.edu privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116144954id_/http%3A//www.westfield.ma.edu/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Westfield State University
 
@@ -23,7 +23,7 @@ Like many sites, the Westfield State University website uses cookies and similar
 
 You may disable cookies through your individual browser options. [Learn more about cookies.](http://www.allaboutcookies.org/)
 
-### Google Analytics
+### Google™ Analytics
 
 Some sections of Westfield State University-owned websites use Google Analytics, a web analytics service provided by Google, Inc. Google Analytics uses cookies to help us analyze how users interact with our sites. This information collected by cookies will be transmitted to and stored by Google on its servers. Google uses this information for the purpose of evaluating your use of the website and to generate reports on website activity. Please visit the following pages for more information on Google Analytics terms of use and Google’s privacy practices.
 
@@ -38,6 +38,10 @@ Though this privacy notice applies to most Westfield State University sites, oth
 ### External Links
 
 Some Westfield State University websites may contain links to external websites not owned by, or officially affiliated with, Westfield State University in any way. Westfield State University is not responsible for the privacy practices or the content of such websites.
+
+### Goolgle™ Translate Disclaimer
+
+Translations on the Westfield State University websites are prepared by Google Translate. While reasonable efforts are made to provide accurate translations, portions may be incorrect due to the translation feature.
 
 ### Changes to this Policy
 
