@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chainsawsuit.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517174540id_/http%3A//chainsawsuit.com/comic/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chainsawsuit.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116234429id_/http%3A//chainsawsuit.com/comic/privacypolicy) for the most accurate reproduction.*
 
 # privacy policy – Chainsawsuit by Kris Straub – now that's what i call content
 
