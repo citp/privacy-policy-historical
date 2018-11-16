@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gecareers.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202144625id_/https%3A//www.ge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gecareers.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116134040id_/https%3A//www.ge.com/privacy) for the most accurate reproduction.*
 
-# GE Privacy Policy | Privacy Statement | GE
+# Privacy Policy | GE.com
 
 Last Updated December 21, 2017
 
@@ -42,20 +42,20 @@ We may obtain personal information through the Channels. The types of personal i
   * financial information (such as payment information, including name, billing address and payment card details (i.e., card number, expiration date and security code); bank account information; financial statements; income; and credit score);
   * location data (such as data derived from your IP address, country and zip code) and the precise geolocation of your mobile device where we have provided notice and choice, as appropriate;
   * contact information you provide about friends or other people you would like us to contact;
-  * clickstream data and other information about your online activities (such as information about your devices, browsing actions and usage patterns), including across the Online Channels and third-party websites, that we obtain through the use of cookies, web beacons and similar technologies (see our [Cookie Consent Tool](http://info.evidon.com/pub_info/3428)); and
+  * clickstream data and other information about your online activities (such as information about your devices, browsing actions and usage patterns), including across the Online Channels and third-party websites, that we obtain through the use of cookies, web beacons and similar technologies (see our Cookie Consent Tool); and
   * other personal information contained in content you submit to us (such as through our [“Contact Us”](https://www.ge.com/contact/general) feature).
 
 
 
 In addition, in connection with our insurance and financial services products, we may obtain government-issued ID numbers and Tax ID numbers, such as US Social Security numbers.
 
-We use third-party web analytics services in connection with the Online Channels, including Google Analytics, Adobe Analytics and Marketo, which use cookies and similar technologies to collect data (such as IP addresses) to evaluate use of and interaction with the Online Channels. (You may learn about Google’s advertising features, including Google Analytics’ currently available opt-out mechanisms, here. To learn more about these and other analytics services and how to opt out, please view our Cookie Consent Tool [here](http://info.evidon.com/pub_info/3428).)
+We use third-party web analytics services in connection with the Online Channels, including Google Analytics, Adobe Analytics and Marketo, which use cookies and similar technologies to collect data (such as IP addresses) to evaluate use of and interaction with the Online Channels. (You may learn about Google’s advertising features, including Google Analytics’ currently available opt-out mechanisms, [here](https://support.google.com/analytics/answer/6004245?hl=en). To learn more about these and other analytics services and how to opt out, please view our Cookie Consent Tool here.)
 
 Please note that providing personal information to us is voluntary on your part. If you choose not to provide us certain information, we may not be able to offer you certain products and services, and you may not be able to access certain features of the Online Channels.
 
-#### Cookies and Similar Technologies
+### Cookies and Similar Technologies
 
-The GE Group uses cookies, web beacons and similar technologies on our Online Channels. You may learn more about these technologies in our Cookie Consent Tool. To view the list of GE Group and third-party cookies used on the Online Channels and to make choices about those cookies, please visit our Cookie Consent Tool [here](http://info.evidon.com/pub_info/3428).
+The GE Group uses cookies, web beacons and similar technologies on our Online Channels. You may learn more about these technologies in our Cookie Consent Tool. To view the list of GE Group and third-party cookies used on the Online Channels and to make choices about those cookies, please visit our Cookie Consent Tool  _here_.
 
 ### How We Use Personal Information
 
@@ -115,7 +115,7 @@ We offer you certain choices in connection with the personal information we obta
 
 You also may exercise choice over how information about your interests is used by ad networks to deliver you relevant advertising. To learn how to opt out of ad network interest-based advertising in the United States, please visit [Digital Advertising Alliance](http://optout.aboutads.info/#!/), the [Network Advertising Initiative](http://optout.networkadvertising.org/#!/), and [TrustArc](http://preferences-mgr.truste.com/) **.   **In the European Union, please visit [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/) **or**[TrustArc](http://preferences-mgr.truste.com/). In Canada, to consent to receiving electronic communications, please visit <https://www.ge.com/ca/casl> and, to learn how to opt out of receiving electronic communications, please visit <http://sc.ge.com/*casl-unsubscribe>. The Online Channels are not designed to respond to “do not track” signals received from web browsers.
 
-To the extent provided by the law of your jurisdiction, you may have the right to (1) access certain personal information we maintain about you; (2) request that we update, correct, amend, erase or restrict your personal information; or (3) exercise your right to data portability. Where provided by law, you may withdraw consent you previously provided to us or object at any time to the processing of your personal information on legitimate grounds relating to your particular situation, and we will apply your preferences going forward as appropriate. To request to exercise these rights, please contact us as indicated in the How To Contact Us section of this Privacy Policy. For more information, please see the “Individual Rights” section of our Binding Corporate Rules here. To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information. To the extent permitted by applicable law, a charge may apply before we provide you with a copy of any of your personal information that we maintain. Depending on your location, you may have the right to file a complaint with a government regulator if you are not satisfied with our response.
+To the extent provided by the law of your jurisdiction, you may have the right to (1) access certain personal information we maintain about you; (2) request that we update, correct, amend, erase or restrict your personal information; or (3) exercise your right to data portability. Where provided by law, you may withdraw consent you previously provided to us or object at any time to the processing of your personal information on legitimate grounds relating to your particular situation, and we will apply your preferences going forward as appropriate. To request to exercise these rights, please contact us as indicated in the How To Contact Us section of this Privacy Policy. For more information, please see the “Individual Rights” section of our Binding Corporate Rules [here](https://www.ge.com/bcr). To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information. To the extent permitted by applicable law, a charge may apply before we provide you with a copy of any of your personal information that we maintain. Depending on your location, you may have the right to file a complaint with a government regulator if you are not satisfied with our response.
 
 ### How We Protect Personal Information Transmission
 
@@ -149,3 +149,5 @@ General Electric Company
 33-41 Farnsworth Street  
 Boston, MA 02210  
 United States
+
+For a list of privacy contacts at GE Healthcare, click [here](https://www.gehealthcare.co.uk/~/media/5C75986D05A94F67864288C8BFA7FBD4).
