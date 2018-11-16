@@ -1,34 +1,99 @@
-> *The following text is extracted and transformed from the classicdriver.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510052238id_/http%3A//www.classicdriver.com/uk/service/6600.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicdriver.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116063658id_/https%3A//www.classicdriver.com/en/page/privacy-policy-0) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Classic Driver
 
-**At Classic Driver we aim to be your long-term partner when you look for a car. As your requirements change over the years we want to be there to help you and we are committed to building and creating a product and service available to you 24 hours a day, seven days a week that will help you find your ideal car.
+##  **Data Protection Policy**
 
-An important part of that relationship - of any relationship - is trust. And with Classic Driver, you can trust us 100% that we are committed to protecting your privacy and your right to privacy. We aim to provide a safe, secure user experience and we will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes described on our site.
+###  1\. General
 
-**
+Classic Driver (Schweiz) AG, Schaffhauserstrasse 239, 8057 Zurich, Switzerland (“Classic Driver”) respects the privacy of customers and users of its platform. This Data Protection Policy lays down provisions on the protection and processing (collection, processing, use and disclosure) of the personal data collected by Classic Driver from customers and users of its platform.
 
- **Information Request Forms**  
-When requesting information on a specific car, your personal details will be sent directly to either the dealership or the private owner via email and in some cases SMS. We will also receive a copy of this request for our statistical records. The personal information that you provide will only be used to contact you about your request and will not, under any circumstances, be passed on to third parties. 
+Classic Driver observes the Swiss Data Protection Act (Datenschutzgesetz) and the data protection law of the EU (collectively “applicable data protection law”). Customers and users need to provide their personal data to use Classic Driver’s services.
 
-**Cookies**  
-To enhance your experience at Classic Driver we use a feature on your Internet browser called a 'cookie' to manage your use of the site. Cookies are small files that your Web browser places on your computer's hard drive.  
-Through our use of cookies we gather general information. This allows us to identify, for example, how many people use our site and how often. If you click through to other sites via a banner or link you may receive a cookie from one of our business partners. Please be aware that we are not responsible for the privacy practices of those other sites.  
-When you leave our site we encourage you to read the privacy statements of each and every website that collects personally identifiable information.
+###  2\. Types Of Personal Data
 
- **Logging user traffic**  
-In order to analyse trends, administer the site, track 'users' movement, and gather broad demographic information and other information for aggregate use, we use IP addresses. Each computer on the Net has an Internet protocol address which is a unique numerical address denoting its official location on the Net. These are not linked to personally identifiable information. 
+**2.1 Data collected directly from customers/users to implement a contract.**
 
-**With whom will we share aggregate information and personal profile details?**  
-Classic Driver does not sell, trade or rent your personal information to others. Classic Driver may share aggregate statistics with our long-term business partners about our customers, sales, traffic patterns and related site information to reputable third parties, but these statistics will NOT include any information which could be linked to you personally and may, in due course, create a better overall experience for you.
+Classic Driver collects the following data from its customers and users:
 
- **Links**  
-Our web-site contains links to other sites. Please be aware that we are not responsible for the privacy practices of those other sites. When you leave our site we encourage you to read the privacy statements of each and every web-site that collects personally identifiable information. This privacy statement applies solely to information collected by this web-site.
+  * Basic data (first name and surname (including title), address, email address, telephone number, date of birth, password for Classic Driver account) when a customer/user registers and when a user contacts a customer,  
+  * Data on the Listing posted,
+  * Data on the services/products provided by Classic Driver,
+  * Data on contact between users and customers, between customers themselves and contact to Classic Driver (including copies of all messages that are sent directly through the Classic Driver platform).
 
- **Correcting/Updating personal profile details**  
-If your personal details change or if you no longer require our service, we provide a way to correct, update or remove these details. To do so, send a mail to info@classicdriver.com
 
- **Privacy commitment changes**  
-If we decide to change our privacy commitment for Classic Driver, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about Classic Driver's privacy commitment, please contact info@classicdriver.com or call +49 40 280 0830 and speak to one of our representatives.
 
-Thank you for using Classic Driver!
+**2.2 Data collected automatically to** **optimise** **services (analytics tools)**
+
+2.2.1 Usage analysis by Classic Driver
+
+Classic Driver analyses customer/user behaviour on its platform using cookies. Cookies are packets of data that are sent from Classic Driver’s web server to your browser, saved on your computer and retrieved by the web server again during subsequent visits. Cookies store information on use of the platform and enable Classic Driver to improve the user experience. To do so, information on the browser type, elements of the platform visited, the user’s IP address, the operating system used and customers’ and users’ Internet and language settings can be collected. For example, disabling cookies will impede registration / login on the Classic Driver platform.
+
+The customer/user can delete existing cookies from their browser and prevent further cookies from being saved at any time. However, disabling cookies can impair the functions of the Classic Driver platform.
+
+2.2.2 Usage analysis by Google Analytics
+
+The Classic Driver Platform also uses Google Analytics, a web analytics service provided by Google Inc. (“Google”). Google Analytics uses cookies to provide its web analytics services. The information generated by the cookies about your use of this website (including your IP address) is transferred to a Google server that may be outside EU and stored there. Google uses this information to analyse your use of the website, compile reports on website activity for the website operators and provide other services related to use of the website and the internet. Google may also transfer this information to third parties, if required to do so by law or if third parties process this information on Google's behalf. Customers and/or Users can prevent cookies being installed by using the appropriate setting in their browser software; Classic Driver would, however, like to point out that doing so will mean that not all of the website’s functions may be used to their fullest extent. By using this website Customers and/or Users agree to allow Google to process the data collected about them in the manner described above and for the purposes described above. For further information on Google Analytics, Classic Driver recommends you visit the following website: <https://www.google.com/analytics/terms/>.
+
+###  3\. Intended Use Of The Data Collected
+
+Classic Driver processes customer/user data for the following purposes:
+
+  *  to perform contracts/services (to post advertisements, establish contact between customers and users, process orders),
+  * to safeguard payment transactions between customers and users,
+  * to communicate with customers and users,
+  * to fulfil legal obligations,
+  * to perform credit checks on customers and users,
+  * to improve Classic Driver’s products and services and their position on the market (including dispatching the newsletter, if you have subscribed),
+  * to compile statistics on contact made through the Classic Driver platform.
+
+
+
+###  4\. Data Processing By Third Parties In Switzerland And Abroad
+
+Classic Driver may also have personal data processed by third parties in Switzerland and/or abroad for the purpose of running the platform and for the purposes stated in Section 3.
+
+**4.1 Categories of external service providers**
+
+Such recipients of personal data include suppliers in the field of payment services, password administration, platforms for managing dispatch of the newsletter, logistics companies and data centres for storing and processing the data collected. When doing so, Classic Driver ensures that adequate assurance is given to protect the personal data in accordance with the applicable data protection law and that corresponding agreements have been concluded with each of the external suppliers.
+
+You can find a detailed overview of the external service providers used by Classic Driver via [this link](https://www.classicdriver.com/en/page/processors-used-classic-driver).
+
+Classic Driver’s servers are located in Switzerland and run by a Swiss host provider. For development and testing, Classic Driver uses servers and stores some user data in the EU.
+
+**4.2 Social media plug-ins**
+
+Functions from various third-party providers of social media platforms (such as Facebook, Twitter, Google+) are integrated into the Classic Driver platform. Plug-ins enable users to share content on social networks.
+
+If a plug-in is displayed when browsing the Classic Driver platform (e.g. Facebook’s “Like” button), a connection with the relevant third-party provider’s servers is automatically established. This means that data on customers’ and users’ visit to the website can be transmitted to these third-party providers. If the customer or user is also registered with this third-party provider’s network, the visit to the website may also be assigned to their network account (e.g. Facebook account).
+
+Classic Driver has no control over the method of this type of data transmission. The purpose and scope of the data collection and the subsequent processing and use of the data by the relevant social media providers as well as the related rights and configuration options for privacy protection can be found in the privacy notices of the relevant third-party providers.
+
+###  5\. Data Security
+
+Classic Driver does not pass its customers’ data on to third parties under any circumstances, except for to the external service providers in accordance with Section 4, and solely uses their data for the purposes stated in Section 3. Classic Driver also uses state-of-the-art technology to take the usual steps to protect the data. However, Classic Driver provides no guarantee for the security of customer data. It is the customer’s responsibility to produce an up-to-date backup of the data transmitted and to save it off the platform. It is also the customer’s responsibility to set a secure password for their customer account, to keep this safe and to change it regularly.
+
+###  6\. Customers' And Users' Rights
+
+Classic Driver’s customers and users have the right to inspect or update their data or to have it amended or erased. This is subject to statutory retention requirements. They can restrict the processing of their personal data in addition to this. To assert these rights, Classic Driver’s customers and users should contact the following address: [[privacy@classicdriver.com](mailto:privacy@classicdriver.com)/Schaffhauserstrasse 239 8057 Zurich/Clientservice].
+
+Customers and/or users have the right to object to the processing of their personal data at any time. If they object to this, the contract between Classic Driver and the customer or user will be terminated without notice. Payment obligations that the customer is contractually bound to will remain unaffected.
+
+If Classic Driver fails to observe the applicable data protection law, customers and users have the right to make a complaint to the competent supervisory authority.
+
+###  7\. Storage Of Customer And User Data
+
+Classic Driver stores the personal data it has collected from customers and users for as long as necessary to fulfil its contractual and legal obligations and to meet the purposes stated in Section 3. As soon as the purposes stated in Section 3 have been met or if a customer or user deletes their customer profile, Classic Driver will erase the remaining personal data immediately. Classic Driver’s legal retention obligations will remain.
+
+###  8\. Contact
+
+Questions regarding Classic Driver’s data processing practices can be sent to the following address:
+
+Classic Driver (Schweiz) AG  
+Schaffhauserstrasse 239  
+8057 Zurich  
+Switzerland
+
+Tel.: +41-43-3005610
+
+Email: [contact@classicdriver.com](mailto:contact@classicdriver.com)
