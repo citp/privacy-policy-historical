@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynameart.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517143441id_/http%3A//mynameart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynameart.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116083605id_/http%3A//mynameart.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyNameArt
 
