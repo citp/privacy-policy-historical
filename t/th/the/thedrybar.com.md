@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedrybar.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129025012id_/https%3A//www.thedrybar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedrybar.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116024953id_/https%3A//www.thedrybar.com/privacy) for the most accurate reproduction.*
 
 # Drybar, The Nation's Premier Blow Out Salon and Blow Dry Bar
 
@@ -6,6 +6,8 @@ Drybar is committed to providing our customers with exceptional service. As prov
 
 This Privacy Policy applies to Drybar Holdings LLC (collectively, “Drybar”).  
 This policy also applies to any service providers collecting, using or disclosing personal information on behalf of Drybar.
+
+Because Drybar is a U.S.-based company, our website is controlled and offered from Drybar’s facilities in the United States.  The data protection rules and rights of government access to your data in your country may be different than those in the United States.  Drybar will continue to process your personal information as described in this Privacy Policy. 
 
 **SECTION 1 - COLLECTION AND USE**
 
@@ -28,7 +30,7 @@ For example, when you purchase something from our online store, as part of the b
 
 
 
-There are times when you may provide information to us voluntarily. This occurs when you provide feedback to us through emails, return forms, letters, telephone calls, or enter a sweepstakes, contest, or promotion in which Drybar is the sponsor or is a promotional partner with the third-party sponsoring the sweepstakes, contest, or promotion. We use this information to respond to your query, to keep track of customer feedback, to add you to Drybar's email mailing list (please see the information on how to opt out below) and to improve our service to customers.
+There are times when you may provide information to us voluntarily. This occurs when you provide feedback to us through emails, return forms, letters, telephone calls, sign up for text messaging, or enter a sweepstakes, contest, or promotion in which Drybar is the sponsor or is a promotional partner with the third-party sponsoring the sweepstakes, contest, or promotion. We use this information to respond to your query, to keep track of customer feedback, to add you to Drybar's email mailing list (please see the information on how to opt out below) and to improve our service to customers.
 
 Even if you do not make a purchase on our site or book an appointment, we have the ability to track your usage of our website, including what pages you visit, what products you view, and the third-party sites that led you to our site. This information is not used to track information about individuals, but is used at an aggregate level to customize our site, improve the online experience, and plan advertising and promotions. When you browse our online website, we also automatically receive your computer’s Internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
@@ -44,13 +46,15 @@ We will obtain your consent to collect, use or disclose personal information (ex
 
 Consent can be provided orally, in writing, or electronically, or it can be implied where the purpose for collecting using or disclosing the personal information would be considered obvious and you voluntarily provide personal information for that purpose. For instance, when you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we infer that you consent to our collecting it and using it for that specific reason only.
 
-Consent may also be implied where you are given notice and a reasonable opportunity to opt-out of having your personal information being used for a purpose, and you do not opt-out.
+Where applicable under law, consent may also be implied where you are given notice and a reasonable opportunity to opt-out of having your personal information being used for a purpose, and you do not opt-out. 
 
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your express consent, or provide you with an opportunity to say no. If, after opting-in to our marketing list, you no longer wish to be contacted, you may withdraw your consent by clicking the "unsubscribe" option in the email message, informing us at [privacyofficer@thedrybar.com](mailto:privacyofficer@thedrybar.com), or mailing us at:
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your express consent, or provide you with an opportunity to say no. If, after opting-in to our marketing list, you no longer wish to be contacted, you may withdraw your consent by clicking the "unsubscribe" option in the email message, informing us at [privacyofficer@thedrybar.com](mailto:privacyofficer@thedrybar.com), or mailing us at:
 
-Drybar Privacy Compliance Officer  
+Drybar Privacy Officer  
 125 Technology Drive, Suite #150  
 Irvine, CA 92618
+
+If you consent to receive text messages, you will receive auto-dialed appointment confirmations and reminders in addition to marketing or promotional texts.  You may receive SMS or MMS messages.  Message and data rates may apply, check with your cellular or data carrier for information.  Up to 6 autodialed promotional messages per month.  Appointment confirmations and reminders will be based on the number of appointments you make.  Consent to get text messages is not required/not a condition for purchase of goods or services.  You can opt out of receiving text messages.  To stop receiving text messages, reply STOP or email buttercup@thedrybar.com with your phone number.  
 
 Subject to certain exceptions (e.g., the personal information is necessary to provide the service or product, or the withdrawal of consent would frustrate the performance of a legal obligation), you can withhold or withdraw your consent. Your decision to withhold or withdraw your consent to certain uses of personal information may restrict our ability to provide a particular service or product. If so, we will explain the situation to assist you making the decision.
 
@@ -66,6 +70,22 @@ We may collect, use or disclose personal information without your knowledge or c
 
 
 
+For European residents only. We will seek your consent to collect any personal information from you.  Under European data protection law, in certain circumstances, you have the right to:
+
+  * Request access to any personal information we hold about you (“Subject Access Request”) as well as related information, including the purposes for processing the personal information, the recipients or categories of recipients with whom the personal information has been shared, where possible, the period for which the personal information will be stored, the source of the personal information, and the existence of any automated decision making;
+  * Obtain without undue delay the rectification of any inaccurate personal information we hold about you;
+  * Request that personal information held about you is deleted;
+  * Prevent or restrict processing of your personal information; and
+  * Request transfer of personal information directly to a third party where this is technically feasible.
+
+
+
+You may make any of the above referenced requests by contacting us at [privacyofficer@thedrybar.com](mailto:privacyofficer@thedrybar.com), or mailing us at:
+
+Drybar Privacy Officer  
+125 Technology Drive, Suite #150  
+Irvine, CA 92618
+
 **SECTION 3 - DISCLOSURE**
 
 Drybar does not sell or otherwise share your personal information with anyone else, such as advertising agencies or marketing companies. We only send marketing information to those customers who specifically sign up for our mailing list. Marketing information sent by Drybar may be sent by us as part of a cross-promotion or other collaboration with other companies or brands, but we do not disclose personal information to such companies or brands.
@@ -76,7 +96,7 @@ Drybar will share your personal information internally with those staff members 
 
 Drybar does not currently retain credit card numbers internally. Instead, our online store processes cards with Authorize.net. We require them to treat your personal information in at least as secure a manner as we do. For instance, we require that they store your data on a secure server behind a firewall and that they encrypt your credit card data in accordance with the Payment Card Industry Data Security Standard (PCI-DSS). All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of credit card information by our online store and its service providers.
 
-However, Authorize.Net. has its own privacy policy, which you can [read](http://www.authorize.net/company/privacy/) on their website.
+However, Authorize.Net. has its own privacy policy, which you can [read](https://www.authorize.net/company/privacy/) on their website.
 
 **SECTION 5 - SECURITY**
 
@@ -106,7 +126,7 @@ This website and our online store is not intended for use by person under the ag
 
 **SECTION 8 - CHANGES TO THIS PRIVACY POLICY**
 
-We reserve the right to modify this privacy policy at any time. Changes and clarifications will take effect immediately upon their posting on this website.
+We reserve the right to modify this privacy policy at any time. We will notify you about significant changes in the way we treat your personal information by placing a prominent notice on our website or using the contact information you have provided.  Please review any notices carefully.  If you do not wish to continue using the website or sharing your personal information, you can request deletion of your personal information by contacting us. 
 
 **SECTION 9 - ACCESS TO YOUR PERSONAL INFORMATION**
 
@@ -124,8 +144,8 @@ If a request is refused in full or in part, we will notify you in writing, provi
 
 **QUESTIONS AND CONTACT INFORMATION**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information, please contact us at privacyofficer(at)thedrybar.com (please write email address with the appropriate symbol), or by mail at:
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information, please contact us at privacyofficer@thedrybar.com (please write email address with the appropriate symbol), or by mail at:
 
-Drybar Privacy Compliance Officer  
+Drybar Privacy Officer  
 125 Technology Drive, Suite #150  
 Irvine, CA 92618
