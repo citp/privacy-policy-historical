@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the windows-movie-maker.org privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112044035id_/http%3A//windows-movie-maker.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows-movie-maker.org privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116014743id_/https%3A//www.topwin-movie-maker.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Windows Movie Maker
 
 ## Introduction
 
-This privacy statement describes how we collect and use the personal information you provide on our website and with Windows Movie Maker software downloader. It also describes third-part solutions we use on our website and with this software that can collect and use the personal information. 
+This privacy statement describes how we collect and use the personal information you provide on our website and with Movie Maker software for Windows. It also describes third-part solutions we use on our website and with this software that can collect and use the personal information. For details about GDPR, please check [GDPR](https://web.archive.org/web/20181116014743id_/https%3A//www.topwin-movie-maker.com/GDPR.html) . 
 
 ## Information Collection
 
@@ -24,4 +24,4 @@ We reserve the right to modify this Privacy Policy.
 
 ## Contact Information
 
-If you have any questions about our Privacy Policy, you can  [contact us](https://web.archive.org/web/20171112044035id_/http%3A//windows-movie-maker.org/support.html)
+If you have any questions about our Privacy Policy, you can  [contact us](https://web.archive.org/web/20181116014743id_/https%3A//www.topwin-movie-maker.com/support.html)
