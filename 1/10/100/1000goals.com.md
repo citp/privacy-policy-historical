@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517194157id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116234229id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
 
 # Privacy | 1000 Goals
 
@@ -18,25 +18,25 @@ This site contains links to other sites. 1000goals.com is not responsible for th
 
 ### Latest Football News
 
-[ ](http://www.1000goals.com/news/atletico-victorious-in-europa-league-after-demolishing-marseille/)
+[ ](http://www.1000goals.com/news/boost-revealing-significant-gender-pay-gap-in-football-and-other-sports/)
 
-Atletico Madrid proved their worth as Europa League favorite as Diego Simeone's team secured the trophy following their dominant 3-0 win over French outfit, Marseielle this midweek. Failing to compete in La Liga and Champions League, Atleti were very determined to get the trophy, but so was their opponent which actually started off brightly. Having…
+Professional sports, including football have long been providing competition not only for men but also women and apart from the difference of popularity, another major gap that can be seen is in terms of earnings. According to recent findings from energy provider Boost, apparently there's a pretty huge difference between the best paid female football…
 
-[ ](http://www.1000goals.com/news/the-cost-of-a-premier-league-goal/)
+[ ](http://www.1000goals.com/news/city-victorious-in-manchester-derby-chelsea-held/)
 
-With the wide array of superstar signings in football on a bi-annual basis, it’s easy to get swept away with excitement when your latest midfield linchpin signs on the dotted line. But, is it worth spending 10’s of millions on the latest Brazilian prodigy when a Championship stalwart will give you the same return? We…
+Manchester City continuing their reign at the top of English Premier League standings following their impressive 3-1 home victory over rival, Manchester United at Etihad Stadium this Sunday. Pep Guardiola's men were very determined to pick up all three points as they put on an aggressive display straight from kick off in search of that…
 
-[ ](http://www.1000goals.com/news/joyful-mancini-to-consider-balotellis-return-for-italy/)
+[ ](http://www.1000goals.com/news/manchester-clubs-grabbed-victories-and-controversies-in-champions-league/)
 
-Italy national team have officially appointed Roberto Mancini as their new boss and the former Manchester City tactician is very delighted with the opportunity and already eager in starting his new role with Gli Azzurri. Making his early planning, Mancini stated to the media his idea of finally recalling Mario Balotelli back into the national…
+Manchester City and Manchester United both grabbed positive results on their latest UEFA Champions League group stage fixtures as they defeated their opponents, but not only that, they also grabbed the headlines for controversial things. Man City continue to show their dominance on their group with a massive 6-0 win against Shakhtar Donetsk, which saw…
 
-[ ](http://www.1000goals.com/news/salah-breaking-record-liverpool-securing-top-four/)
+[ ](http://www.1000goals.com/news/liverpool-jeopardize-champions-league-qualification-tottenham-hopeful/)
 
-Liverpool finally got some slight of comfort ahead of their upcoming Champions League final fixture against Real Madrid as The Reds have secure that top four set in Premier League. Having to battle until the final day of this season, Jurgen Klopp's men confirming their place for next season Champions League with their star player,…
+Liverpool's Champions League journey suddenly face a really serious threat as Jurgen Klopp's men found themselves beaten by Red Star Belgrade 2-0 on Tuesday. Winning their previous meeting with the Serbian outfit 4-0, The Reds players seemingly not expecting a strongly different scenario as they travel to that East Europa region. Starting off pretty good,…
 
-[ ](http://www.1000goals.com/news/psgs-alves-not-distraught-with-missing-world-cup/)
+[ ](http://www.1000goals.com/news/arsenal-growing-confidence-after-draw-against-liverpool/)
 
-Paris Saint-Germain's veteran defender, Dani Alves had his world cup dream ended recently due to his knee injury, which the player picked up last Tuesday during his club's Coupe de France final. Having to miss his potential participation for Russia within the final days of his team's fixtures certainly isn't an easy thing to cope,…
+Experiencing a rather tough start into their Premier League season, things finally starting to shape up well for Arsenal as despite their recent two draws in the competition they haven't been beaten in 14 games now in all competition. The 1-1 draw against Liverpool also pretty much showed that they can hang with the big…
 
 ### Football Scores & Highlights
 
