@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getkahoot.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930081420id_/https%3A//kahoot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getkahoot.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116092227id_/https%3A//kahoot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Kahoot!
 
@@ -12,6 +12,7 @@ Kahoot provides a game-based learning tool that can be played through most web b
   * Email address (required)
   * Date of birth (required for students and social users)
   * Company or organization (of work-related users)
+  * Financial information (required when signing up for Kahoot Plus “the Paid Subscriptions”)
   * School or university (of students and teachers)
   * Biographical information (for teachers who elect to provide it)
   * Chosen username and password for Kahoot account (required)
@@ -33,7 +34,7 @@ Our information practices are different with respect to younger users. Specifica
 **How We May Collect Personal Information**  
 We and our service providers may collect Personal Information from adult accountholders in a variety of ways, including:
 
-  * Through the Services: We may collect Personal Information through the Services, e.g., when you create an account or populate your profile.
+  * **Through the Services:** We may collect Personal Information through the Services, e.g., when you create an account, register your credit/debit card information and other financial data that we/our payment processors need to provide the Services, or populate your profile.
   * Offline: We may collect Personal Information from you offline, such as when you contact customer service.
   * From Other Sources: We may receive your Personal Information from other sources, such as Google or Microsoft (if you choose to register using your Google or Microsoft account), public databases, joint marketing partners and other third parties.
 
@@ -50,13 +51,14 @@ We and our service providers may use Personal Information for our legitimate bus
   * To allow you to share Kahoots and initiate challenges through the Services, and to notify you when a Kahoot is shared with you, when a Kahoot you have created is featured to others on the Services, or when you have been invited to join a challenge.
   * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
   * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+  * To process your payments for the Services.
 
 
 
 **How Personal Information May Be Disclosed**  
 The Personal Information of adult accountholders may be disclosed:
 
-  * To our third party service providers who provide services such as website hosting, data analysis, information technology and related infrastructure provision, customer service, email delivery, auditing and other services.
+  * To our third party service providers who provide services such as website hosting, data analysis, information technology and related infrastructure provision, customer service, email delivery, auditing, payment processing and other services.
   * To third-party sponsors of sweepstakes, contests and similar promotions.
   * To identify you to anyone with whom you share a Kahoot or other messages, including challenges, through the Services.
   * By you, on profile pages and other services to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public and may be available to other users and the general public. We urge you to be very careful when deciding to disclose any information on the Services.
@@ -91,7 +93,7 @@ If you do not want information collected through the use of cookies, there is a 
 
 **Using pixel tags and  other similar technologies:** Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Services to, among other things, track the actions of users of the Services (including adult accountholders that may receive emails from us), measure the success of marketing campaigns and compile statistics about usage of the Services and response rates.
 
-**Analytics:** We use third parties, including Google Analytics, which use cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. You can learn about Google’s practices by going to [www.google.com/policies/privacy/‌partners/](https://www.google.com/policies/privacy/%E2%80%8Cpartners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
+**Analytics:** We use third parties, including Google Analytics, which use cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
 
 **IP Address:** Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for the purposes of providing support for the internal operations of the Services, such as calculating usage levels, diagnosing server problems, and administering the Services. We may also derive your approximate, general, location from your IP address.
 
@@ -146,11 +148,11 @@ We ask that you not send us, and you not disclose, any sensitive Personal Inform
 **UPDATES TO THIS PRIVACY POLICY**  
 We may change this Privacy Policy. The “LAST UPDATED” legend at the top of this page indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
 
-**CONTACTING US**  
-If you have any questions about this Privacy Policy, please contact us at [hello@kahoot.com](mailto:hello@kahoot.com) or
+**CONTACTING US**
 
+If you have any questions about this Privacy Policy, please contact us at [hello@kahoot.com](mailto:hello@kahoot.com) or  
 Kahoot!  
-701 Brazos St., Suite 1608  
+701 Brazos St., Suite 102  
 Austin, TX 78701  
 USA
 
