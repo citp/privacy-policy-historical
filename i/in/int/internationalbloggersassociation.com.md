@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the internationalbloggersassociation.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810011300id_/https%3A//www.internationalbloggersassociation.com/disclosure-and-privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalbloggersassociation.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116052807id_/https%3A//www.internationalbloggersassociation.com/disclosure-and-privacy-policies/%23Privacy) for the most accurate reproduction.*
 
-# Membership Requirements, Disclosure and Privacy Policies - International Bloggers Association
+# Membership Requirements, Disclosure and Privacy Policies - International Bloggers’ Association
+
+Here at  **International Bloggers’ Association**  we value and protect your privacy just like we value the work we do in your home.
+
+This policy explains when and why we collect information about you, how we use it, the conditions under which we may disclose it to others and how we keep it secure.
+
+We may change this Policy from time to time, so please check this page occasionally to ensure that you’re happy with any changes. By using our website, you agree to be bound by this Policy.
+
+Any questions regarding this Policy and our privacy practices can be sent via our [Contact Us page](https://www.internationalbloggersassociation.com/contact-us/).
 
 To help navigate this page we have included the links below for your convenience.
 
@@ -11,6 +19,12 @@ Disclosure Policy
 Privacy Policy
 
 Comment Policy
+
+## Who We Are:
+
+**International Bloggers’ Association** is a group of bloggers dedicated to helping other bloggers grow.  You can learn more about [the services we offer on this page](http://ernspikerwoodworks.com/services/).
+
+Our website address is [https://www.internationalbloggersassociation.com](https://www.internationalbloggersassociation.com/).
 
 * * *
 
@@ -106,9 +120,7 @@ Our website is scanned on a regular basis for security holes and known vulnerabi
 
 **We use regular Malware Scanning.**
 
-We do not use an SSL certificate.
-
-**•**  We do not need an SSL because: All payments are processed on Paypal Express Checkout (Paypal secures these transactions.)
+We do use an SSL certificate.
 
 * * *
 
@@ -252,7 +264,20 @@ If at any time you would like to unsubscribe from receiving future emails:**
 
 ## Comment Policy
 
-As owner(s) of this site we reserve the right to remove any comment as find inappropriate. Spam comments are automatically removed, harmful comments, or comments linking to an inappropriate site. This is a family site, and comments must be in compliance with that.
+As owner(s) of this site, we reserve the right to remove any comment as find inappropriate. First off, this is a family-friendly site, and comments must be in compliance with that.
+
+**Examples of will not be approved:**
+
+  * Spam comments
+  * Harmful comments
+  * Comments linking to an inappropriate site
+  * Comments with profanity
+  * Inappropriate Media
+  * Affiliate Links
+
+
+
+This is a guideline for you to use as an example of what not to use and does not cover every type of comment that is unacceptable.
 
 * * *
 
