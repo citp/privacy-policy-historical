@@ -1,60 +1,156 @@
-> *The following text is extracted and transformed from the northerntrust.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119153204id_/http%3A//www.northerntrust.com/pws/jsp/display2.jsp%3FXML%3Dpages/nt/0602/1141167162990_56.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerntrust.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116142535id_/https%3A//www.northerntrust.com/privacy-policy) for the most accurate reproduction.*
 
-# Consumer Privacy Notice - Northern Trust Corporation
+# US Privacy Notice / Privacy Policy - Northern Trust
 
-Privacy at Northern Trust - Keeping Your Finances a Private Matter
+  
 
-When it comes to your financial affairs, you expect a relationship built on privacy and integrity. **That’s why Northern Trust does not sell client lists or any other client information to outside companies.**
 
-This notice outlines what we do to protect your personal information and describes how you can limit the sharing of this information. **If you already have instructed us not to share this information, you do not need to do anything.** We will continue to honor your request.
+**Facts**
 
-Keeping Your Information Secure  
-To keep information confidential and appropriately protected, we have policies that limit access to your personal information to only those employees who need it to perform their jobs and provide services to you. We also maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your personal information.
+**What does Northern Trust do with your personal information?**
 
-Collecting Information  
-We collect information you provide us on applications, forms, through our web sites, and in conversation; from third parties with your permission; from your transactions with us, our affiliates and our joint marketing partners; and from consumer reporting agencies.
+Why?
 
-Sharing Information  
-Only under certain circumstances, and only as permitted by law, will we disclose any of this information about our clients and former clients to unaffiliated third parties, such as companies that perform marketing and other services for us.
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share and protect your personal information. Please read this notice carefully to understand what we do.
 
-In addition, we may share information we collect about our clients and former clients with our affiliated financial institutions, such as a Northern Trust Bank in another state. And we may share information with other financial institutions with which we have joint marketing agreements, such as Northern Funds.
+What?
 
-Your Privacy Preferences  
-Northern Trust respects your right to restrict the information we disclose to our affiliates and joint marketing partners for marketing purposes. You may direct us not to share information about you for marketing purposes by:
+The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
 
-  * Calling **1-866-260-9550** , Monday through Friday, 7 a.m. to 7 p.m. Central Time
-  * Writing to us at Northern Trust, P.O. Box 92929, Chicago, IL 60675
-  * Or stopping in one of our locations
+  * Social Security number and income
+  * Account balances and payment history
+  * Credit history and account transactions
 
 
 
-If you have a joint account or have a guarantor of your account at Northern, we will assume your request applies only to your information, unless you tell us otherwise.
+How?
 
-Please note that even if you ask us not to share information for marketing purposes, we still may share that information for other reasons, such as to service your existing accounts. In addition, the Northern Trust affiliate that originally collected the information still may use it for its own marketing decisions.
+All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons Northern Trust chooses to share; and whether you can limit this sharing.
 
-Keeping You Informed  
-If our information-sharing practices change, we will send you a revised notice. You also can return to this page on our web site, to view the most current privacy notice.
+**Reasons we can share your personal information**
 
-This privacy notice applies to all the Northern Trust affiliates listed below.
+**Does Northern Trust share?**
 
-  * The Northern Trust Company*
-  * Northern Trust Securities, Inc.
-  * Northern Trust Bank, N.A.*
-  * Northern Trust Bank of California N.A.*
-  * Northern Trust Bank of Florida N.A.*
-  * Northern Trust Bank of Texas N.A.*
-  * Northern Trust Bank, FSB*
-  * The Northern Trust Company of Connecticut
-  * The Northern Trust Company of Delaware
-  * The Northern Trust Company of New York
-  * Northern Trust Investments, N.A.
-  * Northern Trust Global Advisors, Inc.
-  * Northern Trust Global Investments Limited
+**Can you limit this sharing?**
 
-*Member FDIC
+**For our everyday business purposes** — such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus
 
-_Effective August 2006_
+Yes
 
-| | 
+No
 
-Learn More
+**For our marketing purposes**  — to offer our products and services to you
+
+Yes
+
+No
+
+**For joint marketing with other financial companies**
+
+Yes
+
+No
+
+**For our affiliates' everyday business purposes**  — information about your transactions and experiences
+
+Yes
+
+No
+
+**For our affiliates' everyday business purposes**  — information about your creditworthiness
+
+No
+
+We don't share
+
+**For our affiliates to market to you**
+
+Yes
+
+Yes
+
+**For nonaffiliates to market to you**
+
+No
+
+We don't share
+
+**To limit our sharing**
+
+  * You may limit our use or sharing of information about you for marketing purposes by calling 1-877-265-3729,  Monday through Friday, 7:00 am to 8:30 pm Central Time and Saturday and Sunday, 7:00 am to 3:30 pm  Central Time; or by stopping in at one of our locations.
+
+
+
+**Please note:**  If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.
+
+**Questions?**
+
+Contact us at 877-265-3729.
+
+Who is providing this notice?
+
+Northern Trust Company and its commonly owned affiliates and Northern Funds’ and 50 South Capital's family of funds.
+
+ 
+
+How does Northern Trust protect my personal information?
+
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. For more information and helpful resources, visit northerntrust.com/securitycenter.
+
+How does Northern Trust collect my personal information?
+
+We collect your personal information, for example, when you 
+
+  * Seek financial or tax advice 
+  * Make deposits or withdrawals from your account 
+  * Open an account, apply for a loan or direct us to buy securities 
+
+
+
+We also collect your personal information from others, such as credit bureaus, affiliates or other companies.
+
+Why can't I limit all sharing?
+
+Federal law gives you the right to limit only for 
+
+  * Affiliates’ everyday business purposes – information about your creditworthiness 
+  * Affiliates using your information to market to you 
+  * Nonaffiliates to market to you State laws and individual companies 
+
+
+
+State laws and individual companies may give you additional rights to limit sharing.
+
+What happens when I limit sharing for an account I hold jointly with someone else?
+
+Your choices will apply only to you — unless you tell us otherwise.
+
+Affiliates
+
+Companies related by common ownership or control. They can be financial and nonfinancial companies. 
+
+  * Our affiliates include companies with a Northern Trust name; financial companies such as The Northern Trust Company, and Northern Trust Securities, Inc.
+
+
+
+Non-affiliates
+
+Companies not related by common ownership or control. They can be financial and nonfinancial  companies. 
+
+  * **Northern Trust does not share with nonaffiliates so they can market to you.**
+
+
+
+Joint Marketing
+
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
+
+  * Our joint marketing partners are limited to the Northern Funds.
+
+
+
+ 
+
+ 
+
+*Member FDIC 
