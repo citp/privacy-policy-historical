@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listafterlist.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517103453id_/http%3A//listafterlist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listafterlist.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117112636id_/http%3A//listafterlist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ListAfterList
 
