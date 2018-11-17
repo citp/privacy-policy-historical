@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firechief.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605115009id_/http%3A//www.firechief.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firechief.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117135819id_/https%3A//www.firechief.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fire Chief
 
