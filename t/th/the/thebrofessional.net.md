@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thebrofessional.net privacy policy that was archived on 2018-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180407164021id_/http%3A//www.thebrofessional.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrofessional.net privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117234445id_/http%3A//www.thebrofessional.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – the Brofessional
+# Privacy Policy | The Brofessional
 
-This Privacy Policy discloses the privacy practices for the [thebrofessional.net](http://www.thebrofessional.net/) Site and various related services (together referred to as the “Site”). Thebrofessional.net (“thebrofessional.net,” “Us,” “Our” or “We”) is committed to protecting Your privacy online. All visitors to, or users of, Defintion.org Site are referred to, individually, as “You” or “Your.” Please read the information below to learn the following regarding Your use of this Site.
+This Privacy Policy discloses the privacy practices for the [thebrofessional.net](http://thebrofessional.net/) Site and various related services (together referred to as the “Site”). Thebrofessional.net (“thebrofessional.net,” “Us,” “Our” or “We”) is committed to protecting Your privacy online. All visitors to, or users of, Defintion.org Site are referred to, individually, as “You” or “Your.” Please read the information below to learn the following regarding Your use of this Site.
 
-You acknowledge that this Privacy Policy is part of Our Site Terms of Service, available at [thebrofessional.net/terms-of-service](http://www.thebrofessional.net/terms-of-service/), and by accessing or using Our Site, You agree to be bound by all of its terms and conditions. The Terms of Service establishes the use, disclaimers, and limitations of liability governing the use of Our Site. **If You do not agree to these terms, please do not access or use this Site.**
+You acknowledge that this Privacy Policy is part of Our Site Terms of Service, available at [thebrofessional.net/terms-of-service](http://thebrofessional.net/terms-of-service/), and by accessing or using Our Site, You agree to be bound by all of its terms and conditions. The Terms of Service establishes the use, disclaimers, and limitations of liability governing the use of Our Site. **If You do not agree to these terms, please do not access or use this Site.**
 
 We reserve the right to change this Privacy Policy at any time. We will post any Privacy Policy changes on this page and, if the changes are significant, We will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes, if You have provided Us with Your email). If the Services allow You to be a registered user, You acknowledge and agree that it is Your responsibility to maintain a valid email address as a registered user, review this Site and this Privacy Policy periodically and to be aware of any modifications. Your continued use of the Site after such modifications will constitute Your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by the modified Privacy Policy.
 
@@ -34,13 +34,19 @@ We will primarily use Your Personally Identifiable Information to provide Our Se
 
 We reserve the right to share the postal addresses, phone numbers or email addresses of users with third parties, including advertisers. To prevent Us from sharing this information in the future, please email Us at: [info@socialholicnetwork.com](mailto:info@socialholicnetwork.com). We will not share users’ credit card numbers. Occasionally, we send e-mail messages to users to inform them of features and services available on our Sites.
 
+NAI Opt Out:  
+<http://optout.networkadvertising.org/#!/>
+
+DAA Opt Out:  
+<http://optout.aboutads.info/#!/>
+
 Occasionally We may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use Our Services for illegal activities. We reserve the right to report to law enforcement agencies any activities that We in good faith believe to be unlawful.
 
 We may also provide Non-Personally Identifiable Information about Our customers’ sales, traffic patterns, and related Site information to third party advertisers, but these statistics do not include any Personally Identifiable Information.
 
 #### California Privacy Rights
 
-Under California’s “Shine the Light” law [California Civil Code Section 1798.83], California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from Us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2008 will receive information regarding 2007 sharing activities).
+Under California’s “Shine the Light” law , California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from Us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2008 will receive information regarding 2007 sharing activities).
 
 To obtain this information on behalf of Thebrofessional.net, please send an email message to [info@socialholicnetwork.com](mailto:info@socialholicnetwork.com) with “Request for California Privacy Information” in the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Alternatively, you can request the information by writing to us at 255 W. 36th Street, Suite 1105, New York, New York 10018. To prevent Us from sharing Personally Identifiable Information with third party advertisers in the future, please indicate this preference by sending Us an email at: [info@socialholicnetwork.com](mailto:info@socialholicnetwork.com).
 
