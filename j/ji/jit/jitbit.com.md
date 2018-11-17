@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the jitbit.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429101212id_/https%3A//www.jitbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jitbit.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117015107id_/https%3A//www.jitbit.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Jitbit (home of Jitbit Helpdesk and Macro Recorder)
+# Privacy policy - Jitbit (home of Jitbit Helpdesk Software)
 
-Jitbit values the privacy of those who visit the Jitbit.com website and uses it’s hosted services (Jitbit Helpdesk, Jitbit CRM and others). If you are our customer, you will be notified about any major changes we make to the privacy policy.
+Jitbit values the privacy of those who visit the Jitbit.com website and uses it's hosted services ([Jitbit Helpdesk](https://web.archive.org/helpdesk/) and others). If you are our customer, you will be notified about any major changes we make to the privacy policy.
 
 ## Types of information we collect
 
 We collect the email addresses of those who communicate with us via email and information voluntarily provided by them. It may include your name, company name, address and telephone number. We may use it to contact you when necessary.
 
-We DO NOT store any information about your credit cards and billing addresses, all payments, including recurring subscriptions, are handled by our payment provider (Avangate). In case you have any questions, refer to [their privacy policy](http://www.avangate.com/online-payment-solutions/privacy.php).
+We DO NOT store any information about your credit cards and billing addresses, all payments, including recurring subscriptions, are handled by our payment provider (Fastspring). In case you have any questions, refer to [their privacy policy](https://fastspring.com/privacy/).
 
 We collect anonymous information about the pages you access on our website and on any of our services. This is done in good faith and we use this information exclusively to improve the quality of our services. The information is NOT personally-identifiable.
 
