@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wnyt.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625183136id_/http%3A//wnyt.com/about-us/newschannel-13-privacy-policy/1641598) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnyt.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117132954id_/https%3A//wnyt.com/about-us/newschannel-13-privacy-policy/1641598) for the most accurate reproduction.*
 
 # NewsChannel 13 Privacy Policy | WNYT.com
 
