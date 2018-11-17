@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtraffictoolkit.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607081944id_/http%3A//webtraffictoolkit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtraffictoolkit.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117150004id_/http%3A//webtraffictoolkit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # None
 
@@ -66,7 +66,7 @@ In the alternative, you can opt out of the use of cookies by third-party vendors
 
 _Dynamic Ad Serving_
 
-Our website may use Google’s Dynamic Ad Serving feature. To opt out of interest-based ads by Google, follow Google’s opt-out instructions located at [ https://support.google.com/ads/answer/2662922?hl=en ](https://web.archive.org/web/20150607081944id_/http%3A//webtraffictoolkit.com/%20https://support.google.com/ads/answer/2662922?hl=en%20). 
+Our website may use Google’s Dynamic Ad Serving feature. To opt out of interest-based ads by Google, follow Google’s opt-out instructions located at [ https://support.google.com/ads/answer/2662922?hl=en ](https://web.archive.org/web/20181117150004id_/http%3A//webtraffictoolkit.com/%20https://support.google.com/ads/answer/2662922?hl=en%20). 
 
 _DoubleClick Remarketing Pixels_
 
@@ -103,25 +103,5 @@ If you are concerned about the topic covered by this website privacy policy, you
 ## Questions or Concerns
 
 Any questions or concerns about this website privacy policy should be brought to our attention by sending an email to info[at]webtraffictoolkit.com and providing us with information relating to your concern.
-
-You may also mail your concerns to us at the following address:
-
-Adam Harding  
-Suite 78  
-116 Ballards Lane  
-Finchley, London N3 2DN  
-United Kingdom
-
-## California Privacy Rights
-
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an email to info[at]webtraffictoolkit.com or write us at the following address:
-
-Adam Harding  
-Suite 78  
-116 Ballards Lane  
-Finchley, London N3 2DN  
-United Kingdom
-
-This website privacy policy was last updated on September 26, 2013.
 
 This document is Copyright © 2008-2013 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at http://webtraffictoolkit.com/. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
