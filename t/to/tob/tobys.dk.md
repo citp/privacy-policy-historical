@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tobys.dk privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604165051id_/http%3A//www.tobys.dk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tobys.dk privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117164342id_/http%3A//www.tobys.dk/privacy-policy) for the most accurate reproduction.*
 
 # Tobys Privacy Policy
 
