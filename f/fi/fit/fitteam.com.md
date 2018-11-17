@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the fitteam.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608165003id_/http%3A//fitteam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitteam.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117055323id_/https%3A//fitteam.com/privacy-policy) for the most accurate reproduction.*
 
 # FITTEAM Global Privacy Policy
 
-   
+**Updated: May 17, 2017**
+
+By using this site, you (“User”) signify your agreement to these terms and conditions. If you do not agree to this Agreement, please do not use this site.  Please check this Agreement periodically for changes as the owner of this site (“Company”) reserves the right to revise this Agreement.  In the event of a change to this Agreement, your continued use of this site following the posting of any changes constitutes acceptance of such changes. The Company reserves the right to terminate a User’s use of this site at any time without notice and may do so for any breach of this Agreement. 
+
 **Our Commitment to Privacy**
 
-Our Privacy Policy has been developed as an extension of our commitment to combine quality products and services with integrity in dealing with users. The Policy is designed   
-to assist you in the understanding of how we collect, use and protect the personal  information provided to us.
+Our Privacy Policy has been developed as an extension of our commitment to combine quality products and services with integrity in dealing with users. The Policy is designed to assist you in the understanding of how we collect, use and protect the personal information provided to us.
 
 **What Information Do We Collect?**
 
-When you visit our site, we collect two types of information: personal information you actively choose to disclose (“Active Information”) and Use information collected, in a   
-way not visible to you, on an aggregate anonymous basis as you and other users browse our site (“Passive Information”).
+When you visit our site, we collect two types of information: personal information you actively choose to disclose (“Active Information”) and Use information collected, in a way not visible to you, on an aggregate anonymous basis as you and other users browse our site (“Passive Information”).
 
 **1\. Personally Identifiable Information**
 
@@ -19,7 +20,7 @@ This refers to information that lets us know specifically about you i.e. profile
 
 A. Registration
 
-When you register to become an authorized reseller of our products or services, we will collect Personally Identifiable Information (such as name, address, email address, and telephone number). This Personally Identifiable Information is securely stored and may be accessed on our website. You are assigned an identification number and select your own password – both are needed to enter the Site and to access your Contact Information. Please safeguard your password in a secure location as we are not responsible for breaches into the system when access is willingly provided.
+When you register to become a CUSTOMER or BRAND PARTNER, we will collect Personally Identifiable Information (such as name, address, email address, and telephone number). This Personally Identifiable Information is securely stored and may be accessed on our website. You are assigned an identification number and select your own password – both are needed to enter the Site and to access your Contact Information. Please safeguard your password in a secure location as we are not responsible for breaches into the system when access is willingly provided.
 
 B. Ordering
 
@@ -27,7 +28,7 @@ When you place an order for products or services, we collect Personally Identifi
 
 C. Credit Card Storage
 
-Credit card information collected at registration or for product orders is used only to process payment for the transaction and, generally, is not retained on our Site. However, you may voluntarily elect to securely store multiple credit cards to be used for product orders.
+Credit card information collected at registration or for product orders is used only to process payment for the transaction and, generally, is not retained on our Site. However, you may voluntarily elect to securely store multiple credit cards to be used for product orders, and this information is strictly protected as part of our PCI compliance.
 
 D. Surveys and Promotions
 
@@ -41,7 +42,7 @@ We may collect, compile, store, publish, promote, report, or otherwise disclose 
 
 **Active Information You Choose to Provide**
 
-In order to gain use of the site (become a “user”), we require you to disclose the following information: Name, Address and Phone Number
+In order to gain full use of the site to purchase products, or to use of the CUSTOMER OR BRANDPARTNER site (become a “user”), we require you to disclose the following information: Name, Address and Phone Number
 
 We use secure socket layer (SSL) encryption to protect the transmission of the information you submit to us when you use our secure online forms. The information you provide to us is stored securely.
 
@@ -67,8 +68,7 @@ You might be able to access other websites through our site via hyperlinks. When
 
 **Sharing Information with Advertisers or Other Third Parties**
 
-We may disclose anonymous information about user habits to advertisers on our site. The parties who perform services for us (credit card processors, merchant bank,   
-Internet Service Provider) may also have access to your information in performing such services. Should we buy or sell assets of our company, another company may need to review our company’s assets, which might include your information, to make business decisions as to whether to acquire such assets.
+We may disclose anonymous information about user habits to parties who share services within our site. The parties who perform services for us (credit card processors, merchant bank, Internet Service Provider) may also have access to your information in performing such services. Should we buy or sell assets of our company, another company may need to review our company’s assets, which might include your information, to make business decisions as to whether to acquire such assets.
 
 **Sharing Information with the Government or As Otherwise Required by Law**
 
@@ -76,9 +76,7 @@ We may be required by subpoena, law or government agency to disclose both Active
 
 **How Do We Secure Active Information and Passive Information?**
 
-We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss of Active and Passive Information. Individual postings on this site and other communications to our office via email or standard mail may not be secure unless we advise you that security measures 
-
-are in place prior to your submission of information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we respectfully request that you do not send or post sensitive information through these means.
+We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss of Active and Passive Information. Individual postings on this site and other communications to our office via email or standard mail may not be secure unless we advise you that security measures are in place prior to your submission of information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we respectfully request that you do not send or post sensitive information through these means.
 
 **Accessing and Correcting Your Information**
 
@@ -96,10 +94,10 @@ Links to third-party websites may be provided solely for your information and co
 
 **Children’s Privacy Protection**
 
-We take special care to protect the privacy needs of children and encourage parents to be an active participant in their child’s online activities. Our Site does not target and is not intended for children under the age of 18, and we will not knowingly collect Personally Identifiable Information from them. If we discover personal data from a child through our site, we will eliminate that data. You may learn more about protecting children’s privacy online by visiting: http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm.
+We take special care to protect the privacy needs of children and encourage parents to be an active participant in their child’s online activities. Our Site does not target and is not intended for children under the age of 18, and we will not knowingly collect Personally Identifiable Information from them. If we discover personal data from a child through our site, we will eliminate that data. You may learn more about protecting children’s privacy online by visiting: <http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm.>
 
 **Changes to This Statement**
 
-Any updates or changes to the terms of this Privacy Statement will be posted on our Site at http://fitteam.wpengine.com.php56-1.ord1-1.websitetestlink.com and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Statement has changed. By using our Site, you acknowledge acceptance of this Privacy Statement in effect at the time of use.
+Any updates or changes to the terms of this Privacy Statement will be posted on our Site at www.fitteam.com  and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Statement has changed. By using our Site, you acknowledge acceptance of this Privacy Statement in effect at the time of use.
 
 YOUR USE OF OUR SITE MEANS THAT YOU ACCEPT THE PRACTICES SET FORTH IN THIS POLICY. YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES.
