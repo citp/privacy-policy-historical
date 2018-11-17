@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mocomi.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607132740id_/http%3A//mocomi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mocomi.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117110926id_/http%3A//mocomi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mocomi Kids - Education and Fun Learn
 
