@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tetoolbox.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525041905id_/http%3A//dash.trck.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tetoolbox.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117230028id_/http%3A//dash.trck.me/privacy.php) for the most accurate reproduction.*
 
 # trck.me | Tracking made Simple. Tracking made Fun.
 
