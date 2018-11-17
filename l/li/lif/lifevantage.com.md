@@ -1,94 +1,56 @@
-> *The following text is extracted and transformed from the lifevantage.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519042910id_/http%3A//www.lifevantage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifevantage.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117071913id_/http%3A//www.lifevantage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LifeVantage US
 
-LifeVantage Corporation (hereinafter “LifeVantage,” “Company,” “we,” or “us”) respects your concerns about privacy. LifeVantage complies with the EU-U.S. Privacy Shield framework (“Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union to the United States (“Personal Data”). LifeVantage has certified to the Department of Commerce that we adhere to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, recourse, enforcement and liability. If there is any conflict between the terms in this Policy or LifeVantage’s other privacy policies and the Privacy Shield Principles, the Privacy Shield Principles shall govern. 
+### Privacy Policy
 
-This Privacy Shield Policy (“Policy”) describes how LifeVantage collects, uses, and discloses certain Personal Data received from the European Union in the United States. To view our certification and learn more about the Privacy Shield program, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
+## LifeVantage Policy of User Privacy
 
-* COLLECTION AND USE OF PERSONAL DATA
+Thank you for visiting our website (“Site”). As used herein, the terms “LifeVantage”, “our,” “we,” and “us” refer to LifeVantage Corporation unless the context clearly provides otherwise. We may update this Privacy Policy from time to time without prior notice to you. We encourage you to review the Privacy Policy periodically for any updates.
 
-LifeVantage collects Personal Data directly from Customers, including, for example, when a Customer visits our website (“Site”). The types of Personal Data that LifeVantage collects from Customers include contact information such as name, postal address, e-mail address, telephone number, billing information, credit card information and other transaction information. [LifeVantage’s privacy policy](http://www.lifevantage.com/privacy-policy/) describes the purposes for which LifeVantage uses and collects this information.
+LifeVantage is committed to safeguarding and protecting customers. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site and how we may use that information.
 
-LifeVantage also may collect the following types of Personal Data from Independent Distributors, in order to support their LifeVantage account and to execute any agreements with Independent Distributors in the United States (including for managing distribution and ensuring commission payments): company name (if applicable), name, birth date, gender, e-mail address, mailing address, phone and fax numbers, preferred language, sales data and banking information (bank name and account details), and other Personal Data provided by distributors
+**Information LifeVantage Collects**  
+We may collect either anonymous or personal information on the Site. Anonymous information refers to website use information that cannot be traced back to a specific individual, e.g., the total number of visitors to our Site (“General Information”). Personal information refers to specific information about a customer, e.g., name, address, e-mail address, telephone number and credit card information. (“Personal Information”). Please note that it is your choice to share Personal Information via the Site.
 
-In addition, LifeVantage may obtain Personal Data, such as contact information and financial account information of its Suppliers. LifeVantage uses this Personal Data to manage its relationship with its Suppliers, to process payment, expenses and reimbursements and to carry out LifeVantage’s obligations under its contracts with Suppliers.
+LifeVantage may collect certain General Information automatically, including “site usage” information from all visitors to the Web Site. Such data is used only in the aggregate. General Information helps LifeVantage to improve your experience. This type of General Information may be shared with third parties any time.
 
-LifeVantage may also collect Personal Data in other ways for which LifeVantage provides specific notice at the time of collection (including but not limited to market research, surveys, etc.)
+**Ordering**  
+When you place an order for products or services, we collect Personal Information (such as name, contact and billing information, credit card, and other transaction information). We use this information to deliver your order, process payment, and to communicate with you about the status of your order. We may provide information necessary to the delivery of your order to our shipping partners that may include the type of products ordered.
 
-LifeVantage subjects to the Privacy Shield Principles all Personal Data it receives from the EU.
+**Security**  
+We utilize SSL for our website. SSL creates an encrypted link between the web server and the web browser. This link ensures that the data passed between the web server and the browser remains private and secure.
 
-* YOUR CHOICES
+**Credit Card Storage**  
+Credit card information collected at registration or for shopping cart orders is used only to process payment for the transaction and, generally, is not retained on our Site. You may, however, voluntarily elect to securely store personal credit card information for use in future orders. You may add, edit, and delete your stored card information at any time.
 
-LifeVantage generally offers you the opportunity to opt out before we (a) disclose your Personal Data to a Third-Party Controller or (b) use your Personal Data for any purpose that is materially different from the purposes for which it was originally collected or you subsequently authorized. You may exercise your choice without any cost to you by contacting LifeVantage using the information supplied under “Contact Us” below.
+**Sharing Your Information**  
+Except as disclosed in this Privacy Statement, we do not sell, trade, rent, or otherwise retransmit any Personal Information we collect online unless we have your permission. Any Personal Information you provide to us will be stored in our databases in the United States or with our third-party vendor who processes our credit card transactions.  
+LifeVantage may disclose certain information to a third-party vendors if necessary to provide you with a product or service your requested and third parties who provide various services to LifeVantage and who are required to adhere to the intent of this Privacy Policy.
 
-Please note that LifeVantage may disclose your Personal Data to its subsidiaries. LifeVantage may disclose your Personal Data without offering you an opportunity to opt out, and may be required to disclose your Personal Data, to third-party Processors retained to perform services on the Company’s behalf and consistent with its instructions, if it is required to do so by law or legal process, or in response to lawful requests from public authorities, including to meet national security, public interest or law enforcement requirements. LifeVantage may also transfer your Personal Data in the event of an audit or in the event of a merger, acquisition, joint venture, reorganization, dissolution or liquidation.
+**Customer**  
+If you are a customer, to assure the highest level of personal service, we may share Personal Information about you (excluding credit card information and order details) with your servicing Distributor.
 
-* ACCOUNTABILITY FOR ONWARD TRANSFERS
+**Release of Information in Response to Court Order or Subpoena**  
+From time to time, we may provide Personal Information in response to court order, subpoena, or government investigation. We also reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. We may release Personal Information when we believe that such release is reasonably necessary to enforce or apply our Terms of Use or to protect the rights, property, and safety of others and ourselves.
 
-**Transfers to Third-Party Agents or Service Providers**.  In some cases, we may transfer Personal Data to Third-Party Agents or service providers in order to perform certain functions described in [LifeVantage’s privacy policy](http://www.lifevantage.com/privacy-policy/) and as described in Section II.
+**Protecting Your Information**  
+We acknowledge your trust and are committed to take reasonable steps to protect Personal Information you provide online from loss, misuse, and unauthorized access. We employ physical, electronic, and managerial processes to safeguard and secure your information.
 
-Where required by the Privacy Shield, Third-Party Agents or service providers must contractually agree to limit their use of your Personal Data to the specified services provided on our behalf, provide at least the same level of protection that the Privacy Shield requires, and notify us if they can no longer provide the same level of protection required by the Privacy Shield. We also take reasonable and appropriate steps to ensure that our Third Party Agents and service providers process Personal Data in a manner consistent with our Privacy Shield obligations and to stop and remediate unauthorized processing. Under certain circumstances, we may remain liable under the Privacy Shield Principles if our agents process your Personal Data that we transfer to them in a manner inconsistent with the Privacy Shield Principles.
+**Use of Cookies On This Site**  
+A “cookie” is a small data file transferred to your computer’s hard drive that allows a Web site to respond to you as an individual, gathering and remembering information about your preferences in order to tailor its operation to your needs, likes and dislikes. Cookies also enable us to keep track of a consumer’s electronic “shopping cart” before completing a purchase. Accepting a cookie does not provide us access to your computer or any Personal Information about you, other than the information you choose to share. Other servers cannot read them, nor can they be used to deliver a virus.
 
-**Transfers to Third Party Controllers**. In some cases, LifeVantage may transfer your Personal Data to other third-party Controllers. As noted in Section IV and except as permitted or required by applicable law, LifeVantage requires third-party Controllers to whom it shares or discloses your Personal Data to contractually agree to process Personal Data for limited and specified purposes consistent with the consent provided by the Employee, provide the same level of protection for Personal Data as is required by the Privacy Shield Principles, and notify us and cease processing Personal Data (or take other reasonable and appropriate remedial steps) if it cannot meet its obligation to provide the same level of protection as is required by the Privacy Shield Principles.
+**Links To Other Web Sites**  
+Links to third-party Web sites may be provided solely for your information and convenience. If you use these links, you will leave our Site. This Privacy Statement does not cover the information practices of those Web sites linked to our Site, nor do we control their content or privacy policies. We suggest that you carefully review the privacy policies of each site you visit.
 
-**Transfers within a Controlled Group of Entities**.  If we transfer your Personal Data to one of our LifeVantage affiliates or subsidiaries, we will ensure the continuity of protection of your Personal Data under the Privacy Shield.
+**Children’s Privacy Protection**  
+We take special care to protect the privacy needs of children. Our Site does not target and is not intended for children under the age of 18, and we will not knowingly collect Personal Information from them. You must be at least 18 years old to be a customer.
 
-**Disclosures for National Security or Law Enforcement**.  Under certain circumstances, we may be required to disclose your Personal Data in response to valid requests by public authorities, including meeting national security or law enforcement requirements.
+**Changes to Privacy Policy**  
+If LifeVantage decides to change the Privacy Policy, it will post those changes here so that you will always know what information we collect, and how we might use or disclose that information. Any changes to this Privacy Policy will be considered effective immediately after the changes are posted on this Web Site.
 
-* SECURITY
-
-LifeVantage maintains reasonable and appropriate security measures in accordance with the Privacy Shield to protect Personal Data from loss, misuse and unauthorized access, disclosure, alteration, and destruction, taking into due account the risks involved in the processing and the nature of the Personal Data
-
-* DATA INTEGRITY AND PURPOSE LIMITATION
-
-LifeVantage limits the Personal Data it processes to that which is relevant for the purposes of the particular processing. As such, LifeVantage will only process your Personal Data in ways that are compatible with the purposes that LifeVantage collected it for or was subsequently authorized by you. LifeVantage maintains reasonable procedures to ensure that Personal Data is reliable for its intended use, accurate, complete, and current for as long as LifeVantage retains such information. In this regard, LifeVantage depends on you to ensure your Personal Data is reliable, accurate, complete and current. Please contact the Company as provided in the “Contact Us” section below to update or correct Personal Data.
-
-Subject to applicable law, LifeVantage retains Personal Data in a form that identifies or renders identifiable you or the relevant individual only for as long as it serves a purpose that is compatible with the purposes for which the Personal Data was collected or subsequently authorized by you or the relevant individual. 
-
-* YOUR ACCESS RIGHTS
-
-You generally have the right to access your Personal Data that we hold about you and to request that we correct, amend, or delete it if it is inaccurate or has been processed in violation of the Privacy Shield. Accordingly, LifeVantage strives to provide you with reasonable access to your Personal Data, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in question, or where the rights of persons other than the individual would be violated.
-
-We may request specific information from you to confirm your identity and to better understand your request. To request access to, correction, amendment, or deletion of your Personal Data, you can submit a written request by using our “Contact Us” information provided below. In some circumstances, we may charge a reasonable fee for providing information about your Personal Data
-
-* RECOURSE, ENFORCEMENT AND LIABILITY
-
-LifeVantage has implemented mechanisms designed to effect compliance with the Privacy Shield Principles. We conduct an annual self-assessment of our Personal Data practices to verify that the attestations and assertions we make about our Privacy Shield privacy practices are true and that LifeVantage’s privacy practices have been implemented as represented and in accordance with the Privacy Shield Principles.
-
-LifeVantage is committed to resolving complaints about our collection or use of your Personal Data In compliance with the Privacy Shield Principles. Please contact us by using our “Contact Us” information provided below with inquiries or complaints regarding this Policy or our Privacy Shield privacy practices.
-
-If your complaint cannot be resolved through our internal processes, LifeVantage has committed to refer unresolved privacy complaints under the EU-U.S Privacy Shield Principles to [JAMS:](http://www.jamsadr.com/) The Federal Trade Commission has jurisdiction over LifeVantage’s compliance with the Privacy Shield.
-
-Binding Arbitration. Under certain conditions, it may be possible for you to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. For additional information, see the U.S. Department of Commerce’s Privacy Shield Framework: Annex I [(Binding Arbitration)](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). 
-
-* CHANGES TO THIS POLICY
-
-We reserve the right to amend this Policy from time to time. When LifeVantage revises this Policy, we will also revise the “Last Modified” date below. Any material changes to this Policy will be available for you to view on [LifeVantage’s privacy policy](http://www.lifevantage.com/privacy-policy).
-
-Effective Date: April 23, 2018
-
-Last Motified: April 23, 2018
-
-* DEFINITIONS
-
-For purposes of the Policy, the terms set forth below have the following meaning:
-
-  1. **Controller** means a person or organization which, alone or jointly with others, determines the purposes and means of the processing of Personal Data.
-  2. **Customer** means a Direct Retail or Preferred Customer in the EU in accordance with LifeVantage’s Policies and Procedures.
-  3. **EU** means the European Union and Iceland, Liechtenstein and Norway.
-  4. **Personal Data** are data about an identified or identified individual received by LifeVantage in the United States from the EU, and recorded in any form.
-  5. **Independent Distributor** means an independent contractor in the EU who has signed and completed the official LifeVantage Independent Distributor Application and Agreement and whose Distributor Agreement has been accepted in accordance with LifeVantage’s Policies and Procedures.
-  6. **Privacy Shield Principles** means the Principles and Supplemental Principles of the Privacy Shield. 
-  7. **Processing (of Personal Data)** means any operation or set of operations which is performed upon Personal Data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction
-  8. **Sensitive Personal Data** means Personal Data that reveals a natural person’s race, ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, any information that concerns a natural person’s sex life or health, or information relating to the commission of a criminal offense.
-  9. **Supplier** means any supplier, vendor or other third party located services or products to LifeVantage.
-  10. **Third-Party Agent** means any natural or legal person that is not a subsidiary, employee or director of LifeVantage or its affiliates.
-
-
-* CONTACT US
-
-If you have any questions about this Policy or LifeVantage’s collection practices or processing of your Personal Data or would like to request access to your Personal Data, please e-mail or call us at the below number:
+**Contact Us**  
+If you have any concerns about the use of your information or about this Privacy Policy, please send us an e-mail or call us at the below number: 
 
 **Distributor Support:**  
 1-866-460-7241  
