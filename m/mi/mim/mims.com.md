@@ -1,41 +1,66 @@
-> *The following text is extracted and transformed from the mims.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629124544id_/http%3A//policy.mims.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mims.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117141929id_/http%3A//policy.mims.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Use of Information
+This Privacy Policy explains the method for collection, use, and disclosure of your personal information by MIMS Pte. Ltd and its related companies (collectively, "MIMS") when you use the MIMS.com, MIMS app, software (if any), and services ("Services"), purpose of use of such personal information, and method for handling of such personal information.
 
-The pages on the website ("the website"), MIMS Mobile and MIMS Portfolio App are published by MIMS.
+MIMS recognize the importance of protecting the personal information collected from you in the operation of this Site, and take reasonable steps to maintain the security, integrity and privacy of any personal information collected in accordance with this Privacy Policy.
 
-MIMS and its related companies (collectively, "MIMS") recognize the importance of protecting the information collected from Users in the operation of this website, and take reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy and Data Protection Policy. By submitting your information to MIMS you consent to the practices described herein.
+  1. **Personal information collected by MIMS, and purpose and reason of such collection of personal information**   
+MIMS will collect/use the following personal information collected from you mainly for the following purposes. In all cases where personal information is collected, there may be cases where personal information is collected and used for creating statistical materials in a manner that individuals cannot be identified, unless stated otherwise in Terms of Use prescribed by MIMS.
 
-We will not collect any information about individuals, except where it is specifically and knowingly provided by them. Examples of such information are:
+(Purpose of use) 
 
-Your name   
-Your address   
-Your mobile telephone number   
-Your email address   
-Your occupation 
+    * To operate, improve, personalize the Site and Services provided;
+    * Communicate with you regarding User Account and Site updates;
+    * Provision of Services and information related to the Site;
+    * To send you more relevant educational content and marketing/advertising information from MIMS or on behalf of MIMS partners;
+    * Development and research of new services; 
+    * Provision of notification relating to questionnaires, events and the like to users and provision of information to users via emails; 
+    * Coordination with third party institutions (Ministry of Health, and the like); 
+    * For system administration and to report aggregated statistical information about browsing patterns and actions which do not identify any individual; 
+    * To administer the Site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
+  
+Please be assured that the personal information collected, used or disclosed for these purposes; MIMS will protect it as required under the relevant Personal Data Protection Act and other relevant legislation. In the event a data intermediary is used, the personal information disclosed to them is held with the same security and confidentiality measures and protocols that MIMS have. 
+  2. **Information to be collected**
+    1. **Personal information and information related to Users' Accounts:** MIMS will collect your personal information related your accounts with MIMS, such as the name (first and surname), email address, other professional information, e.g. Specialty and profession, phone number (including mobile), address, job title and other information necessary to register as a User on the Site. MIMS may also collect any generated content that you may upload to the Site ("User-Generated Content" or "UGC") and other personal information required for MIMS Point and MIMS campaign when MIMS needs to deliver the prize/rewards to you. 
+    2. **Third Party Interactive Features** : You may participate in Services on the Site where MIMS partner with third party, for example, MIMS Research, Continuous Medical Education ("CME"). Additional personal information may be required in order for MIMS to provide such Services to you.
+    3. **Advertisers** : MIMS do not control the practices of the advertisers on their sites. When you click on links and/or ad banners that take you away from our Sites to third-party websites, you will be subject to that party's privacy policies. 
+    4. **Information related to the status of use:** MIMS will collect information related to the devices you use for accessing the Site and/or Service as well as information from such devices. This includes IP address, type of browser and device, web pages that you visited prior to accessing MIMS's site, and personal identification information related to the devices being used. Furthermore, there may be cases where the devices being used (depending on the setting) may transmit position information to the Site. 
+    5. **Information related to Cookies and other technologies** **:** MIMS is providing, improving and protecting the Site by using Cookies and other technologies. For example, by using Cookies, it will be possible to store the User Name on your subsequent access or understand the usage status of the Service. MIMS is exerting efforts to improve the Service based on such information. While you may refuse the use of Cookies based on your browser setting, your use of the Site may be restricted in certain cases.
+  3. **Parties with whom MIMS may share/disclose personal information**  
+MIMS may in certain cases share/disclose personal information with others as described below. 
+    1. **Third parties in partnership or contractual relationship with MIMS:** MIMS has partnered and concluded contracts with third parties for attaining the purposes described in this Privacy Policy. There may be cases where personal information acquired through the Site is shared with such third parties.
 
-MIMS uses the information we collect to operate, improve and personalize the products and services we offer so that they will always be useful and relevant to our users. We may also use the information to communicate with you regarding your account, website updates, etc.
+If you are a healthcare professional, we may request that a third party validate your licensure status and other information against available databases of healthcare professional. Notwithstanding anything to the contrary herein, we may provide these companies and individuals with personal information about you so that they can fulfill their responsibilities to us, however, we do require that they agree to limit their use of this personal information and agree to comply with all relevant personal data protection regulations to the fulfillment of these responsibilities. 
 
-We may share non-personal aggregate statistics (group) data about our site visitors' traffic patterns with partners or other relevant parties. We may also use the data you have provided in order to send you more relevant educational content as well as marketing/advertising information from us or on behalf of our partners. Where data intermediaries are used, the data disclosed to them is held with the same security and confidentiality measures and protocols that we have.
+    2. **Advertisers:** When you are exposed to an advertisement through the Services, MIMS may provide your personal information (such as name, specialty, and country of residence) and information about your engagement with the Services (e.g., whether you viewed, interacted with or requested information about promotional content) to advertisers and their agents or potential advertisers and their agents. Additionally, when you become a registered users of the Services, we may provide your personal information to potential advertisers and their agents.
 
-Please note that our website contains links to third party websites which are not controlled by MIMS and are not covered under this privacy policy. If you disclose your personal data to these websites, please review their privacy policies before doing so. 
+We will **NEVER** provide these Advertisers with your personal contact information such as email, phone number or mailing address without your consent.
 
-'Cookies'
+    3. **MIMS** **Survey** : Generally, these surveys provide specific feedback using aggregated, de-identified data to third parties used to analyze trends and statistics for medical marketing, research, and development purposes, and neither your identity nor your specific feedback is shared with third parties. However, under the following circumstances, your identity may be shared with third parties and/or associated with specific feedback: (i) when we have your permission, (ii) when we match user information with such third party's data, and (iii) when we believe in good faith that the law requires it. In all circumstances, the privacy of our User is protected, and if such sharing is permitted or required, your answers and identity will remain confidential.
+    4. **MIMS Research** : By registering for this Service, you are required to provides additional personal information such as your workplace details including but not limited work phone number, workplace address, and the responses you have provided for this Services in order for MIMS to share with MIMS partners to access if you are a suitable candidate for the clinical research.
+    5. **MIMS Career** : When you register for MIMS Career, you may require to provides phone number and your resume in order to allow MIMS, employers or recruiter to contact you for any potential job offering. You will be required to agree on MIMS Career privacy policy in order to use this services. 
+    6. **CME** : Personal information provided by you under this Services, such as name, profession and workplace address may be shared with companies in healthcare industry. 
+    7. **MIMS's affiliates** : There may be cases where personal information acquired through MIMS.com is shared with MIMS's affiliates for attaining the purposes described in this Privacy Policy. Furthermore, if MIMS is involved in corporate reorganization, merger, acquisition, asset sales or the like, there may be cases where information acquired through MIMS.com is transferred or shared as a part of such involvement. 
+  4. **Possibility of disclosure of information**  
+MIMS may disclose your personal information to a third party (a) when it is necessary to observe laws and ordinances, (b) when it is necessary to protect a person from death or serious bodily injury, (c) when it is necessary to prevent acts of fraud or abuse against MIMS or Users, (d) when it is necessary to protect the ownership of MIMS (e) when an order is issued by the government or court, (f) when it is necessary to improve public health and promote the sound growth of children, (g) when the information is used as statistical information in which personal information cannot be identified, (h) when the consent of users has been obtained, or (i) when MIMS otherwise determines that the disclosure of information is reasonably necessary.
+  5. **Transfer of personal information overseas**  
+Your personal information may be disclosed or transferred to relevant third parties (within or outside of your country) as required under law, pursuant to relevant contractual relationship (for example, where MIMS appoint third party service providers) or for the purposes stated in Section 3 and Section 4 above (or directly related to those purposes). Therefore, by using this Site, and providing MIMS with any personal information, you consent to the transfer of your personal information in accordance with this Privacy Policy.
+  6. **Management method of your personal information** ****  
+MIMS will take necessary and appropriate measures to safely protect your personal information. Furthermore, MIMS will continuously exert efforts to develop functions to safely maintain your personal information; provided, however, that MIMS does not warrant complete security, and will not be liable in any way for any damage caused by the vulnerability of security.
+  7. **Access, Retention and deletion of personal information** ****  
+To the extent necessary for achieving the purposes described in this Privacy Policy, MIMS will retain your personal information in the Services. If you delete your account and requests the deletion of your personal information, MIMS will delete your personal information. However, in the foregoing case, please take note of the following points: (1) it may take some time to delete your personal information from the MIMS server and its backup storage; (2) MIMS may in certain cases retain your personal information due to legal obligations, for dispute resolution, or upon enforcement of the written consent regarding MIMS; and (3) MIMS may anonymize personal information and permanently retain the same for the purpose of research, and the like.   
+If you wish to verify the personal information you have submitted to MIMS or if you wish to check on the manner in which MIMS uses and processes your personal information, MIMS's security procedures mean that MIMS may request proof of identity before we reveal information. This proof of identity will take the form of full details of name and NRIC, Passport or FIN number. You must therefore keep this information safe as you will be responsible for any action which MIMS takes in response to a request from someone using your personal information. 
+  8. **Contacting you**  
+To the extent that any of the communication means which you have provided MIMS (which may include, your telephone number and fax number) is/will be listed on the Do Not Call Registry (the "DNC") or similar regulations in your home country, by agreeing to this Privacy Policy through your acceptance of MIMS Terms of Use, or by any other means of indication, you hereby grant MIMS your clear and unambiguous consent to contact you using all of your communication means you have provided to MIMS including using via voice calls, SMS, Whatsapp, MMS, fax or other similar communications applications or methods, for the purposes as stated above in Section 3 and Section 4. This will ensure your continued enjoyment of MIMS Services.
+  9. **Amendment to this Privacy Policy** ****  
+Except to the extent limited by applicable law, this Privacy Policy may be amended or revised at any time, and by prominently posting notice of the amendment on the Site. The amendment of this Privacy Policy shall come into force at the time that the amended Privacy Policy is displayed on the Site.
+  10. **Inquiries** ****   
+If you wish MIMS to correct, amend or delete your information acquired by MIMS, or if you have any inquiries or concerns concerning MIMS, the Site, Services or privacy, please send your message to [webmaster@mims.com](mailto:webmaster@mims.com)
+  11. **Governing Law**  
+This Privacy Policy shall be governed by the laws of the Republic of Singapore. All disputes, arguments or disagreements arising between the parties arising out of or in connection with the Terms of Use shall be referred to and finally resolved by arbitration in the Republic of Singapore in accordance with the arbitration rules of the Singapore International Arbitration Centre. The arbitration proceedings shall be in English, and the number of arbitrators shall be one (1) arbitrator.
 
-We use cookies on some of our sites when users first enter the site. This ensures that on subsequent visits, if the cookie has not been deleted, users will not be asked to re-register. Cookies are small pieces of information that are stored on your computer by the server maintaining and operating the site. They do not compromise your privacy or security as they store a randomly generated identifying tag on your computer.
 
-The cookie information does not include personal data such as name, age, phone number, email address or mailing address. In addition, we do not link cookies to personal data such as name, age, phone number, email address or mailing address. Most browsers are initially set up to accept cookies. If you would prefer, you can set your browser to stop cookies being placed on your terminal equipment please refer to your specific Internet browser for instructions.
 
-Your rights   
-In addition to the company's safeguards, your personal data is protected by the Personal Data Protection Act. This provides amongst other things that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should be kept up to date, where necessary, and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people. You have the right to see what is held about you and correct any inaccuracies online.
-
-Policy changes  
-Any changes to this policy will be posted here.
-
-Security  
-MIMS treats all the data held with the utmost care and security. Any details you give will remain completely confidential. 
-
-Opting-Out  
-If you would like us to remove your personal data, please contact us at [pdpaofficer@mims.com](mailto:pdpaofficer@mims.com). If you do not wish to receive any email communications from us, please unsubscribe by clicking on your email preferences included at the bottom of all our email correspondence.
+Updates on 14 September 2017
