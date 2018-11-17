@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxblackbook.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519113533id_/http%3A//www.xxxblackbook.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxblackbook.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117112212id_/http%3A//www.xxxblackbook.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
 
 # XXX BlackBook - Adult Dating Website - Find Sexy Singles, Men, Women, Couples For Local Sex, Dating, Online Dating
 
@@ -101,7 +101,7 @@ Unauthorized access to and/or disclosure of personal information by an employee 
 
 #### 12) Our Commitment to Data Security.
 
-The security of your personal information is a priority to XXXBlackBook.com. We are responsible for protecting personal information under our control, including personal information that has been transferred to, or received from, a third party.
+The security of your personal information is a priority to XXXBlackBook.com. As the Data Controllers, we are responsible for protecting personal information under our control, including personal information that has been transferred to, or received from, a third party.
 
 Registered User and Member accounts are secured by member-created passwords. We use reasonable measures to protect registration and membership information that is stored within our database, and we restrict access to User information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff, and such employees shall be required to respect the privacy of that information. 
 
@@ -144,18 +144,8 @@ If you have any further questions or concerns about XXXBlackBook.com's privacy p
 
 By mail: 
 
-XXXBlackBook.com
-
-2nd Floor
-
-13 Upper Baggot Street
-
-Dublin 4, Ireland
-
-Telephone: +353.15262707 Fax: +353.16335198 
-
 #### 18) Dispute Resolution
 
 Any claim or cause of action you may have arising from, connected with, or relating to this privacy policy or XXXBlackBook.com's handling of your personal information, or any related matters must be commenced within six (6) months after the claim or cause of action arises, after which time the claim or cause of action is forever barred, regardless of any statute or law to the contrary.
 
-Version [06/23/10]
+Version [05/25/18]
