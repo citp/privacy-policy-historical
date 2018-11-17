@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generaldirectory.biz privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317030504id_/http%3A//generaldirectory.biz/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generaldirectory.biz privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117014224id_/http%3A//generaldirectory.biz/privacy.txt) for the most accurate reproduction.*
 
 # 
 
