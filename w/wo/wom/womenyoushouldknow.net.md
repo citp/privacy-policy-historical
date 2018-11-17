@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the womenyoushouldknow.net privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501170958id_/http%3A//womenyoushouldknow.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenyoushouldknow.net privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117195118id_/https%3A//womenyoushouldknow.net/privacy) for the most accurate reproduction.*
 
 # Privacy - Women You Should Know®
 
-Outhouse PR, d/b/a Women You Should Know (the “Company”) is committed to safeguarding your online privacy with respect to the personally identifiable information that we may obtain from you at the http://www.womenyoushouldknow.net/ (the “Web Site”).  Our Privacy and Information Security Policy (“Privacy Policy”) answers frequently asked questions about your online privacy, including what personally identifiable information we may obtain from you and how it will be used and protected. Company may from time to time change this Privacy Policy, so please check back periodically.
+Outhouse PR, d/b/a Women You Should Know (the “Company”) is committed to safeguarding your online privacy with respect to the personally identifiable information that we may obtain from you at the https://www.womenyoushouldknow.net/ (the “Web Site”).  Our Privacy and Information Security Policy (“Privacy Policy”) answers frequently asked questions about your online privacy, including what personally identifiable information we may obtain from you and how it will be used and protected. Company may from time to time change this Privacy Policy, so please check back periodically.
 
 **WHAT PERSONALLY IDENTIFIABLE INFORMATION DO WE OBTAIN FROM YOU? WHEN DO WE OBTAIN SUCH INFORMATION?**
 
