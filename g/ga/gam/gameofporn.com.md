@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gameofporn.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517135601id_/http%3A//www.gameofporn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameofporn.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117090625id_/http%3A//www.gameofporn.com/privacy) for the most accurate reproduction.*
 
-# Game of Porn Tube
+# Game of Porn HD Porn Tube
 
-Effective Date: Thursday 17th of May 2018 03:56:01 PM  
+Effective Date: Saturday 17th of November 2018 10:06:25 AM  
 Sites Covered: www.gameofporn.com 
 
 Pursuant to our [Terms of Use](http://www.gameofporn.com/terms/), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
