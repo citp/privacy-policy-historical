@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibay.com.mv privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610165740id_/http%3A//ibay.com.mv/pg-privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibay.com.mv privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117145040id_/http%3A//ibay.com.mv/pg-privacystatement.html) for the most accurate reproduction.*
 
 # Buy & Sell on Maldives No.1 Trade Website | iBay | Privacy Statement
 
@@ -38,4 +38,4 @@ _**Web Site Use Information
 Your information will only be shared to the extent it's necessary to provide the service you requested for. As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.Where fraudulent use is reported relating to a listing on this website, we will provide necessary information we have to the investigating authorities. 
 
 **Notice of New Services and Changes**  
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. 
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable.
