@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainsync.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517104418id_/http%3A//www.brainsync.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainsync.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117150446id_/http%3A//www.brainsync.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Info | Privacy Policy
 
