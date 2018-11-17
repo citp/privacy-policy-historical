@@ -1,75 +1,98 @@
-> *The following text is extracted and transformed from the cepro.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905151222id_/https%3A//www.cepro.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cepro.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117061124id_/https%3A//www.cepro.com/site/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - CE Pro
 
-## EH Publishing, Inc. is committed to protecting your privacy to ensure a safe and enjoyable online experience.
+## Emerald Expositions is a leading owner and operator of business-to-business tradeshows in the United States connecting hundreds of thousands of buyers and sellers across multiple diversified end markets. Emerald Expositions owns and/or operates multiple trade shows, publications, conferences and websites serving various industries. 
 
-**EH Publishing, Inc. d.b.a EH Media**  
-**Privacy Policy**  
-**Latest Revision: October 2016**
+**EFFECTIVE DATE: May 25, 2018**
 
-Our site visitors' privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site. This Privacy Policy describes the policies of the publishers of this web site, EH Publishing, Inc. d.b.a EH Media, ("EH" or "we"), and its divisions, regarding the collection, use, disclosure and protection of the following types of information:
+**Privacy Policy**
 
-  * Information obtained when you ("you" or "User") visit EH Publishing, Inc. d.b.a EH Media’s network of web sites. (this "Site", including CommercialIntegrator.com, CEPro.com, CampusSafetyMagazine.com, SecuritySales.com, ElectronicHouse.com, prosoundweb.com, mnec.com, mmh.com, logisticsmgmt.com, scmr.com, supplychain247.com and all TechDecisions Websites (k-12, HigherEd, Corporate,)), worshipfacilities.com, worshiptechdirector.com.
-  * Information collected at branded landing pages (not necessarily on our domains) related to each of the site(s), and information collected at 3rd party sites (such as Facebook) with your consent.
-  * Information obtained through e-mail communications with you related to the site(s).
+This privacy policy covers the collection and use of information for this website and any websites or mobile applications that link to it, as well as the information we collect when you interact with us through social media or other websites and online services (in each instance a “website”). This website is managed and operated by Emerald Expositions, LLC (“Emerald Expositions” or “us” or “we”).
 
+If you are a resident of the European Economic Area (“EEA”) or Switzerland, please see “Users in the EEA and Switzerland” at the end of this Privacy Policy.
 
+**About Emerald Expositions**
 
-This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy. We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.
+Emerald Expositions is a leading owner and operator of business-to-business tradeshows in the United States connecting hundreds of thousands of buyers and sellers across multiple diversified end markets. Emerald Expositions owns and/or operates multiple trade shows, publications, conferences and websites serving various industries. For more information please visit [www.emeraldexpositions.com](https://www.emeraldexpo.com/).
 
-### Your Information: What We Collect and How We Collect It
+**What Information We Collect**
 
-Many of our sites require you to provide certain information about yourself when you register to use the site and when you request downloadable resources, our products and/or services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., comments, blogs, moderated discussions and forums/message boards). The information we collect may include information from which you may be personally identified ("Personally Identifiable Information"), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for premium site access or a paid event) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.
+Information you give us: We collect information that you choose to provide to us when you register for a trade show, conference or other event; purchase trade show, conference or other event-related services; subscribe to our magazines (either directly or through another company such as a subscription agency); sign up for email newsletters; enter a sweepstakes or contest; participate in surveys; or otherwise submit through our website. During the registration process we may request certain contact information and demographic information about you such as your name, mailing address, email address, company name, size of company and title. We also may receive information about you from other sources and add it to the information you have provided to us. If you choose to register for a trade show, conference or other event on this website, you may also be asked to provide your credit card information to fulfill your registration request.
 
-When you visit this Site, we may collect the IP address of your computer. We also use technology to automatically record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer's hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
+Information collected automatically: Like most other websites, we may automatically collect information and data through the use of log files, “cookies” or other information storage and tracking technology. These technologies allow us to track usage behavior and compile website usage information that will allow for the improvement of content and targeting advertising. This information may include your internet protocol (IP) address, associated company name, if any, browser type, platform, internet service provider (ISP), time and date stamp, general geographic information, referring pages and exit pages.
 
-Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and on other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit: http://www.appnexus.com/en/company/platform-privacy-policy#choices. You also may view the privacy policy of AppNexus, Open Ad Stream, a third party that serves ads to our Sites, at http://www.appnexus.com/en/company/platform-privacy-policy.
+Our websites incorporate tracking technologies managed by Google, Facebook, and Twitter, all of which have their own privacy policies. To learn more about their services, and to opt-out of their tracking, please visit the following resources:
 
-### Your Information: How We Use It
+Google Analytics: <https://policies.google.com/technologies/partner-sites>
 
-We use Personally Identifiable Information collected on this Site for the following purposes:
+Facebook: <https://www.facebook.com/help/568137493302217>
 
-  * To provide you with this Site and other products and services.
-  * To respond to your inquiries and contact you about changes regarding the Site.
-  * To provide you with e-mail, fax and other notices (such as expiration and renewal notices) regarding your account and the products or services that you are receiving, and for billing and collection purposes.
-  * For any other purpose disclosed at the time the information is collected or to which you consent.
-  * As otherwise specifically described in this Privacy Policy.
+Twitter: <https://help.twitter.com/en/rules-and-policies/twitter-cookies>
 
+**How We Use and Disclose Information**
 
+Emerald Expositions may use and disclose your contact information for any of the following reasons:
 
-We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site. We may use the information you provide us to send you e-mail, fax and other communications on behalf of EH Publishing, Inc., and our affiliates. These communications may include e-mail newsletters, as well as offers for other EH Publishing, Inc. d.b.a EH Media services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from EH Publishing, Inc. d.b.a EH Media We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us.
+To provide, maintain, personalize, optimize, and improve the website, including research and analytics regarding use of the website, or to remember you when you leave and return to the website;
 
-### Disclosing of Your Information: To Whom and When
+To provide and improve our products and services, to process any transactions you request, or authenticate you as a customer;
 
-We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:
+To deliver advertising, including interest-based advertising on our websites and other websites and applications;
 
-  * Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.
-  * Portions of this Site and any connected, branded or affiliated landing pages may be provided as "Premium" or "Sponsored" content. Premium or Sponsored content, including downloads and resources are made available to Users on the condition that we may share certain portions of the User's registration information (generally email and other direct contact information) with the Premium or Sponsored content's sponsors and advertisers, and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content. EH Publishing, Inc. d.b.a EH Media’s sponsors and advertisers are contractually obligated to provide a method for our users to unsubscribe or opt-out from any further communications.
-  * To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. Third parties are contractually obligated to provide you with the ability to unsubscribe, or opt-out of any further communications.
-  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving EH Publishing, Inc. d.b.a EH Media or this Site.
-  * When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property. Disclosure is necessary to accomplish the purpose for which you provide it.
-  * To other EH Publishing, Inc. d.b.a. EH Media member companies for any uses consistent with those disclosed in this Privacy Policy.
+To provide you with information about products or services you are interested in, including trade shows, conferences and other events;
 
+To provide you with e-newsletters you have requested;
 
+To send you notices for subscription renewal; and
 
-### Our Security
+To contact you regarding marketing endeavors.
 
-We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
+From time to time, Emerald Expositions may also share your contact information with other organizations, such as trade show exhibitors and vendors, for marketing purposes. If you do not wish to receive such offers, please refer to the “Contact” section below.
 
-### Right to Access and Change Information
+We contract with third party companies that we have engaged to provide us with specialized services, including, but not limited to, customer service, registration, subscription fulfillment, housing, booth decoration, freight services, research, statistical analysis, application development, list cleansing, postal mailings, email and fax deployment, and other information services. These companies or individuals may be provided with access to information about you, but only as needed to perform their functions. These companies are required to maintain the confidentiality, security and integrity of such information.
 
-You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, or by contacting us directly. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
+Notwithstanding any other provision of this privacy policy, we may disclose information about you to any third party when disclosure is required by law, or desirable to permit us to exercise or preserve our legal rights or take action regarding potentially illegal activities or to protect the safety of any person. In the event we are acquired by or merged with a third-party entity or in the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected as part of such merger, acquisition, sale, or other change of control.
 
-### Links to Non-EH Publishing d.b.a EH Media Sites
+**Interest-Based Advertising**
 
-This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.
+We and our partners use cookies, web beacons or other technologies to collect information from our website. These companies may use information about your visits to this and other websites in order to provide advertisements on this website and other websites about goods and services that may be of interest to you. They may also collect information about your online activities over time and across different websites and other online services. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the Network Advertising Initiative ([http://optout.networkadvertising.org](http://optout.networkadvertising.org/)) and Digital Advertising Alliance ([http://optout.aboutads.info](http://optout.aboutads.info/)).
 
-### Our sites are owned and operated by:
+Your browser or device may include “Do Not Track” functionality. The information collection and disclosure practices and the choices that we provide to you will continue to operate as described in this privacy policy, whether or not a Do Not Track signal is received.
 
-EH Publishing, Inc. d.b.a EH Media 111 Speen St., Framingham, MA 01701
+We may combine information you give us or that we collect automatically with our business records, information from third parties, or information collected from another browser or device to personalize our communications with you and to deliver better advertising.
 
-508-663-1500
+**Children**
+
+This website is not directed at children under the age of 13 and does not knowingly collect any personal information from children under the age of 13. If a parent or guardian believes that this website has collected the personal information of a child under the age of 13, please contact [privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com?subject=Child%20Under%2013).
+
+**Data Storage, Transfers, and Security**
+
+We may store the personal details we hold about you for as long as we have a legitimate business need. We may store this information in the United States or we may transfer it to any other country. If you are located outside of the United States and voluntarily submit information to us, we may transfer that information to and store that information in the United States. The data protection laws in countries to which personal data are transferred may or may not provide a level of protection equivalent to the laws in your home country. Wherever we hold the data, we will apply the terms of this privacy policy and any applicable data protection law. We maintain certain procedures to protect the confidentiality, security and integrity of information you submit to us or that we collect while it is controlled by us. However, the storage and communication of such information cannot always be completely secure. Also, we cannot and do not guarantee that data transferred to third parties in accordance with this privacy policy will be protected against intentional or accidental misuse or loss.
+
+**California Residents**
+
+California law permits California residents to request certain information regarding our disclosure of your personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com?subject=California%20Customer%20Choice%20Notice) specifying that you seek your “California Customer Choice Notice” in the subject line.
+
+**Users in the EEA and Switzerland**
+
+If you are a resident of the EEA or Switzerland, the following information applies with respect to personal data collected through your use of our website.
+
+Purposes of processing and legal basis for processing: We process personal data consistent with our disclosures in this privacy policy. We process personal data on the following legal bases: (1) with your consent; (2) as necessary to perform our agreement to provide our websites and services related to our websites; and (3) as necessary for our legitimate interests in providing the website and services related to the website where those interests do not override your fundamental rights and freedoms related to data privacy.
+
+Transfers: Personal data we collect may be transferred to, and stored and processed in, the United States or any other country in which we or our affiliates or processors maintain facilities. We will ensure that transfers of personal data to a third country or an international organization are subject to appropriate safeguards.
+
+Individual Rights: If you are a resident of the EEA or Switzerland, we respect your rights according to Chapter 3 of the EU General Data Protection Regulation. In order to verify your identity, we may require you to provide us with personal information prior to accessing any records containing information about you. Please contact us using the information below.
+
+**Changes to This Privacy Policy**
+
+We may change this privacy policy and our data collection and management practices. We reserve the right to update changes to this privacy policy and to our practices in collecting and handling personal information. If we make material changes, we will post a notice at this website and indicate at the top of this statement when it was most recently updated.
+
+**Contact**
+
+Please contact us if you have questions or wish to take any action with respect to information to which this privacy policy applies. You can reach us by sending an email to [privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com?subject=Privacy%20Policy%20Inquiry).
+
+If you do not wish to receive marketing information from Emerald Expositions, or wish to opt out of future email promotions from Emerald Expositions, please email [:privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com?subject=Opt-Out). Please note that all promotional email messages you receive from Emerald Expositions will include an option to opt out of future email communications.
 
   
 
