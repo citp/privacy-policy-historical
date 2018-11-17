@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the certify.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517021549id_/http%3A//www.certify.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the certify.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117105357id_/https%3A//www.certify.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Certify
 
 **Privacy Statement**  
-Last Updated: **11/1/2017**   
+Last Updated: **5/18/2018**   
 Certify, Inc. ("Certify") is the developer of certain web based software products and services. With all of Certify's products and services, Certify adheres to this Privacy Policy. Certify realizes how important the privacy and security of personal information is to its users. Certify's Privacy Policy applies to all of its users automatically. Certify works very hard to maintain the confidentiality of all data that is submitted to it. The use of information collected through the Certify service is limited to the purpose of providing the service for which you have engaged Certify.
 
 **EU-U.S. Privacy Shield**  
@@ -43,7 +43,7 @@ While using the Certify website or a Certify service, Certify servers automatica
 **Communications**  
 When you communicate with other users or Certify's staff through the Certify website or via a Certify service, those communications are saved in order to process your inquiries, respond to your requests and improve Certify services. 
 
-You may sign-up to receive email or newsletter or other communications from Certify. If you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” link found in emails Certify sends to you or at your member profile on Certify's website or by contacting Certify at privacy@certify.com.
+You may sign-up to receive communications from Certify, including any online or physical forms of communication. If you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” or "Update Subscription Preferences" links found in emails Certify sends to you or at your member profile on Certify's website or by contacting Certify at privacy@certify.com.
 
 **Business Partners**  
 Certify offers some of the services in connection with business partners. In some cases, information you provide under your Certify account may be shared with our business partners to provide services requested by you. Certify processes your information in accordance with this Privacy Policy.
