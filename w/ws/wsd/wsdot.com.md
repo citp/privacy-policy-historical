@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsdot.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517215955id_/http%3A//wsdot.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsdot.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117182828id_/http%3A//wsdot.com/policy/privacy.htm) for the most accurate reproduction.*
 
 # Web Privacy Notice | WSDOT
 
@@ -109,11 +109,7 @@ We reserves the right to revise and update this Privacy Policy at any time witho
 
 A **network address** is assigned to your computer or mobile device whenever you are using the Internet. Network addresses can be IP address like this: 192.168.0.11 or like this: fc00:0:0:0:0:0:0:0:/7 or Ethernet addresses like this 00:00:00:FF:EE:11
 
- **Cookies** are small data files stored on your hard drive or in your device memory when you visit a website. Cookies and similar technologies are widely used by websites to make them work more efficiently, as well as to provide information to the website operator about how users are using their website. Most browsers allow you to block cookies by adjusting the “settings,” “preferences” or “internet options.” To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, please refer to your browser ‘help’ section, visit the Federal Trade Commission’s explanation on its [website ](https://www.ftc.gov/site-information/privacy-policy/internet-cookies), or the Washington State privacy resources at [Privacy.wa.gov](https://privacy.wa.gov/privacy-guide#tips).   
+ **Cookies** are small data files stored on your hard drive or in your device memory when you visit a website. Cookies and similar technologies are widely used by websites to make them work more efficiently, as well as to provide information to the website operator about how users are using their website. Most browsers allow you to block cookies by adjusting the “settings,” “preferences” or “internet options.” To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, please refer to your browser ‘help’ section, visit the Federal Trade Commission’s explanation on its [website ](https://www.ftc.gov/site-information/privacy-policy/internet-cookies), or the Washington State privacy resources at [Privacy.wa.gov.](https://privacy.wa.gov/)   
   
 
 #### Section K. Contact Information
-
-You may contact us using our [Contact page ](https://web.archive.org/contact/).
-
-Last updated: April 27, 2016
