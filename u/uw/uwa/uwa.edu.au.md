@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwa.edu.au privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529214129id_/http%3A//www.uwa.edu.au/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwa.edu.au privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117140454id_/http%3A//www.uwa.edu.au/terms) for the most accurate reproduction.*
 
 # Privacy statement and notices : The University of Western Australia : The University of Western Australia
 
@@ -16,7 +16,10 @@ When you provide your personal information to the University, it will be used fo
 
 The University may distribute aggregated statistical information for statutory reporting purposes but only in a form that will not identify any person individually. 
 
-For more information on the collection, use and disclosure of personal information by the University and how you may access or correct your personal information or make a privacy complaint, view the [University’s Privacy Policy](http://www.governance.uwa.edu.au/procedures/policies/policies-and-procedures?method=document&id=UP14%2F10).
+Where applicable, the General Data Protection Regulation EU 2016/679 (GDPR) will apply to personal information collected from European citizens and the University will ensure rights under that regulation can be exercised.   
+
+
+For more information on GDPR, the collection, use and disclosure of personal information by the University and how you may access or correct your personal information or make a privacy complaint, view the [University’s Privacy Policy](http://www.governance.uwa.edu.au/procedures/policies/policies-and-procedures?method=document&id=UP14%2F10).
 
 #### Digital logs and analytics
 
