@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simons.ca privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312041200id_/https%3A//www.simons.ca/en/the-site/privacy-policy--a12935) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simons.ca privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117145537id_/https%3A//www.simons.ca/en/the-site/privacy-policy--a12935) for the most accurate reproduction.*
 
 # Privacy policy | Simons
 
@@ -16,11 +16,10 @@ We may collect personal information when you:
 
   1. **Purchase, order, return or exchange merchandise;**
   2. **Request to be on our email list or to receive other marketing communications;**
-  3. **Sign-up to receive a Simons catalog;**
-  4. **Register on our Website;**
-  5. **Apply for employment;**
-  6. **Participate in one of our contests or promotions or respond to a survey;**
-  7. **Submit a comment or question to customer service via e-mail or our live chat, or visit a customer service desk in one of our Stores.**
+  3. **Register on our Website;**
+  4. **Apply for employment;**
+  5. **Participate in one of our contests or promotions or respond to a survey;**
+  6. **Submit a comment or question to customer service via e-mail or our live chat, or visit a customer service desk in one of our Stores.**
 
 
 
