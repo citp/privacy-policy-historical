@@ -1,55 +1,48 @@
-> *The following text is extracted and transformed from the developereconomics.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190814id_/https%3A//www.developereconomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developereconomics.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117140912id_/https%3A//www.developereconomics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Developer Economics
 
-### 1\. Introduction
+**About Developer Economics**
 
-VisionMobile Limited (referred to as “VisionMobile”, “we, or “our”) is committed to protecting the privacy of visitors to the VisionMobile web site(s) together with all related surveys, discussion forums, directories and databases. This privacy policy explains how we collect and use the information we collect about you.
+Developer Economics is the most global independent research on mobile, desktop, IoT, cloud, web, game, AR/VR and machine learning developers and data scientists combined. Our vision at SlashData is to help developers understand the world, and the world understand developers. As part of our research program, we make sure we provide data-based insights to all developers, whether they’re part of our own community or of the global one.
 
-By accessing and using this web site, you agree to the terms of this privacy policy.
+Our surveys reach over 40,000 developers across 160+ countries annually. Developer Economics tracks, among other things, developer experience across platforms, frameworks, languages, and development tools.
 
-As used in this Privacy Policy, the term “Personal Data” means data such as: your name, mailing address, e-mail address or other personal information that may be supplied by you or collected about you. We hope that this Privacy Policy helps you understand what kind of Personal Data, if any, we collect at this site and how we handle and use any such personal data after collection. Please note that we may provide aggregate statistics about our surveys, sales, traffic patterns, and related site information to reputable third parties, but these statistics will not include personally identifiable information (such as name and email address). VisionMobile is committed to protecting your privacy and does not engage in the practice of selling or trading Personal Data to other companies for promotional purposes.
+ **About our Data Protection Policy**
 
-### 2\. Personal Data Provided by You
+The information provided by our survey participants and community members is strictly confidential. We use it in an anonymised format to produce aggregated data tables and charts, and to provide trends and market analysis. We do not share, disclose or sell any personal information to any third parties at any time or in any form.
 
-To respond to your questions, fulfill your requests or manage our online Surveys, it may be necessary to ask for or obtain Personal Data. If you provide us with any Personal Data, we may use it to respond to your requests or manage our surveys. By providing information to VisionMobile through this Site, you acknowledge and consent to the collection, use and disclosure of personally identifying information of the type and for the limited purposes described in this Privacy Policy.
+The following data protection policy outlines the kind of information we collect, the ways we use it, with whom it may be shared, as well as our data security processes. The following terms are subject to update and modification at any time as we thrive to constantly improve our data protection policy.
 
-If you place an order for a product, request a service or submit content to this site, we may need to contact you for additional information required to process or fulfill your order and/or request. Unless compelled by applicable law or administrative or judicial order, we will not provide this information to a third party without your permission, except as necessary to process your order, fulfill your requests, manage interactive customer programs or, if you are a corporate user, enable administration of access and usage of this Site by authorized personnel in your organization.
+ **Types of Information we collect and how we use it**
 
-### 3\. What type of information is collected?
-
-To provide you with our Services and/or Products and to collect your views via our online surveys, we collect certain personal information about you. The information we collect may include, but is not limited to, your name, address, email address and work details.
-
-We do not store credit card or debit card details. If you have given us your credit card or debit card details, we will only use this information to process your order and we will delete this information once your order has been completed.
-
-We do not collect any sensitive personal information such as information on your racial or ethnic origins, political opinions, religious beliefs, trade union affiliations, sexual life, health or criminal history.
-
-### 4\. How is information collected?
-
-We may collect personal information about you from the following sources:
-
-  1. Personal details registered by yourself in relation to VisionMobile online surveys.
-  2. Personal details registered by yourself in other ways e.g. via our website contact form, our blog or our newsletter(s).
-  3. Information about your visits to our web site(s);
+  * For all users visiting developereconomics websites and survey pages we collect the following anonymised data: IP address,  browser type, operating system, pageview timestamp, and page clicks/pageviews. It is collected by use of Cookies and Beacons that are not connected  in any way to any personally identifiable information. We use this information to obtain a better understanding of our website page visits and navigation patterns. Our goal is to optimise the user experience of our websites.
+  * In addition to the above website usage information, we collect data from our survey respondents. This includes their opinions on tool and platforms, and their development experiences, as well as demographic information, such as base country, educational background, sex, and professional role. None of this data is personally identifiable.
+  * Our survey respondents have the option to provide their email address, which is used solely in order to allow respondents to:
+    * save and complete the survey at a later time,
+    * enter a prize draw of their choice
+    * be notified of prize winners and survey results publication
+    * provide feedback on their experience with our survey
+  * All survey data is stored in AWS S3, Amazon RDS and MongoLab databases, that are all GDPR compliant.
+  * Once the survey data has been processed (approximately 30 days after survey closure), we remove the respondents’ IP address.
+  * In addition to the respondent’s email address, we may occasionally request additional personally identifiable information, such as, but not limited to, name and surname, phone number, and address. The additional information is used in the context of prize delivery to draw winners, and it is stored in GDPR compliant applications, such as Google apps (Gdocs), Mailchimp, and Typeform. This information is deleted upon conclusion of all survey operations, including all prize draws and prize deliveries to winners, as well as the publication of survey findings.
+  * Developereconomics.com users may opt to subscribe to our[Developer Economics Community](http://visionmobile.us1.list-manage.com/subscribe?u=f5cdd9d9e59e9c39c83d7b50f&id=59966d2fb6)(also known as “the Developer Economics Panel”), in order to be notified about and participate in new surveys. The information we request in this case includes the panel member’s IP address, and personally identifiable data such as their email address, their name and surname, and their social media accounts. On top of the provided panelists’ personal data, we maintain information related to their survey activity, such as the number of surveys they have participated in, and the loyalty points they have collected as a result of this activity. This data is stored and processed in GDPR compliant applications, namely Gdocs, Dropbox, and Mailchimp. Under no circumstances is this information shared with any 3rd parties.
+  * While our surveys are running, and as part of our Referral program, we incentivise respondents to invite their developer friends to participate in our survey by offering them monetary rewards. Referral program participants provide us with their name and surname, their email address and country of origin, while we also collect their IP address. Referees who are eligible for monetary rewards provide also their Paypal or Bank account details. This information is stored and processed in GDPR compliant applications, namely Gdocs, Dropbox and Mailchimp. Given the Referrers’ consent, we maintain their data  for 24 months, so as to invite them to participate in future surveys . Under no circumstances is this information shared with any 3rd parties.
+  * Irrespective of survey participation, Developereconomics.com users may opt-in to receive news and updates by subscribing to our[newsletter](https://developereconomics.us1.list-manage.com/subscribe?u=f5cdd9d9e59e9c39c83d7b50f&id=4433e1a83c). The information required in order to receive such updates includes email, name and surname, role and organization category (such as meetup, or vendor). This information is stored and processed in GDPR compliant applications, namely Gdocs, Dropbox and Mailchimp. Under no circumstances is this information shared with any 3rd parties.
 
 
 
-### 5\. How long is the information retained by us?
+ **How do you share the information you collect?**
 
-We only collect information which is necessary for the operation of our web site(s) and for the provision of our Services. We will not keep your personal information for longer than necessary to provide the Services or as required by law.
+  * We do not share or disclose any of the  personally identifiable information we collect with third parties. The only exception would be for cases requiring us to process your to comply with a legal obligation
+  * Our technology and services suppliers, as well as our associates and personnel occasionally have access to the data outlined above. We limit the data shared to the information required for the execution of any of their tasks related to the surveys and our survey-based products and services. A data protection and confidentiality clause is always included in our supplier, associate, and personnel contracts and agreements.
+  * To safeguard website user, client, and survey respondent data across all our performed functions, we have assessed all partners for GDPR compliance, and continue to do business with those who have taken or are currently taking action to be GDPR compliant.
 
-### 6\. External Web Sites
 
- ****This privacy policy only applies to our web site(s). Our web site(s) may contain links to external web sites. Please note that we are not responsible for the privacy practices of other web sites. We recommend that you check the privacy policy of any other web sites you may visit through our web sites.
 
-### 7\. Changes to Privacy Policy
+ **What are your policies on data security and data removal and/or unsubscription ?**
 
-We may amend this privacy policy from time to time. If we make any changes we will post them on the web site, so that you will always be aware of the way we use your personal information.
+  * Our data is stored in databases that reside on cloud maintained by GDPR compliant providers. We use data protection software to protect information held in our servers, and security system software to protect data kept on personnel equipment. We also require all personnel to abide by our privacy policy.
+  * Survey participants and referrers, community members and newsletter subscribers who wish to be informed about their data kept in our databases and applications can do so by emailing us at[privacy@slashdata.co](mailto:privacy@slashdata.co)
 
-### 8\. Terms of use
 
-The contents of the downloadable papers published through this website are licensed under the terms specified within each paper. The remaining contents of this website are licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.
-
-### 9\. Refund/Cancellation Policy
-
-Our research and reports are information and analysis contained in a digital form. The value is in the information communicated. Once delivered, the information cannot be returned.
