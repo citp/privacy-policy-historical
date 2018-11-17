@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pure-yoga.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517103337id_/http%3A//www.pure-yoga.com/hongkong/page/view/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pure-yoga.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117112445id_/http%3A//www.pure-yoga.com/hongkong/page/view/privacy_policy) for the most accurate reproduction.*
 
 # Pure Yoga
 
