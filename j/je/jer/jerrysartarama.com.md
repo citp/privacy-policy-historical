@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerrysartarama.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607065232id_/http%3A//www.jerrysartarama.com/privacy-info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerrysartarama.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117064810id_/https%3A//www.jerrysartarama.com/privacy-info) for the most accurate reproduction.*
 
 # Jerry's Artarama Privacy Policy - Jerry's Artarama
 
@@ -22,7 +22,7 @@ bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explore
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 
-_If you have any questions about our security policy, you can send an email to[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#afc5caddddd6dc81ccdadcdbc0c2cadddccaddd9c6cccaefc5caddddd6dccedddbceddcec2ce81ccc0c2)._
+_If you have any questions about our security policy, you can send an email to[jerrys.customerservice@jerrysartarama.com](mailto:jerrys.customerservice@jerrysartarama.com)._
 
 ### Notification of Changes
 
@@ -114,5 +114,5 @@ www.jerrysartarama.com
 6104 Maddry Oaks Ct  
 Raleigh, North Carlolina 27616  
 USA  
-[email protected]  
+cs@jerrysartarama.com  
 1-800-827-8478
