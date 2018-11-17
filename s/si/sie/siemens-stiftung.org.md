@@ -1,90 +1,41 @@
-> *The following text is extracted and transformed from the siemens-stiftung.org privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603153624id_/https%3A//www.siemens-stiftung.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siemens-stiftung.org privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117031536id_/https%3A//www.siemens-stiftung.org/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Siemens Stiftung
+# Privacy Policy
 
-The protection of personal data is an important matter for us. Consequently, we conduct our business activities in compliance with applicable legal provisions on the protection of personal data and data security. The information outlined below will help you understand how we collect data, how we handle such data and to whom we make it available, if required. 
+This privacy information explains what information may be collected when you visit and use our websites and how we use this information. You can also find out more about your rights as a data subject.
 
-General information
+Here is an overview of the websites of Siemens Stiftung:
 
-1\. Personal data
+Siemens Stiftung (hereinafter referred to as “we” or “us”) is responsible for the processing of data on these sites. You can find more details in the [Imprint](https://www.siemens-stiftung.org/en/imprint/).
 
-We do not collect any personal data (for example, names, addresses, telephone numbers or email addresses) on our website, unless you voluntarily provide us with such data (for example, by registering or taking part in surveys), you have generally agreed on it, or if the corresponding legal provisions on the protection of your data allow the use of such data. 
+ **1\. Visiting our websites**
 
-2\. Purpose
+We fundamentally do not identify visitors to our websites. When you visit our websites, we store the following information, which your browser transmits to our server:
 
-We use the personal data provided by you to respond to your inquiries or grant you access to specific information or offers, for example, via the media portal of the Siemens Stiftung (please see additional information about the collection and use of personal data in connection with the use of the media portal of the Siemens Stiftung below). 
+This data is processed to enable use of the website from a technical perspective (establishment of a connection). The data is also analyzed statistically in anonymized and aggregated form (i.e. in a way that does not permit identification of individual users) to ensure system security, enable technical administration of the network infrastructure and help us optimize our Internet offering. The legal basis for this is Article 6 (1) point (f) of the EU General Data Protection Regulation (GDPR).
 
-Furthermore, it may be required
+ **2\. Processing of personal data**
 
-  * that we store and process your personal data in order to be able to better address your requirements or to improve our offers; or
-  * that we (or a third party by our order) use the personal data to inform you about the offers of the Siemens Stiftung or conduct online surveys in order to better comply with the responsibilities and challenges of our users.
+In addition, we process personal data on these websites only if you disclose it to us, such as in a contact form, by registering for a newsletter, by applying for an empowering. people award, by e-mail or by registering for our media portal.
 
+ **a) Contacting us (contact form, newsletter and job applications)**
 
+If you disclose your personal data to us using contact forms, forms to register for newsletters, an application form for an award or by e-mail, it is used to reply to your inquiry or provide you with access to the services you requested (such as to supply you with information with our newsletter or to examine your application for a job). The legal basis for this is Article 6 (1) point (a) or (b) GDPR. This data is not combined with usage data collected when you visit the websites (see section 1).
 
-Of course, we will process your data only for such purposes if you have given us your consent or if applicable regulations permit such processing. In addition, if you do not wish to provide your personal data for the purposes mentioned above, in particular to improve our offer we will be happy to comply with your request if you have notified us, e.g. by sending an e-mail to [Siemens Stiftung](mailto:info@siemens-stiftung.org). 
+ **b) Registering for our media portal**
 
-We will neither sell your personal data to third parties nor market them in any other way. 
+The comments under a) also apply to personal data you disclose to us when registering for the members’ only section of our media portal.
 
-3\. Use for a specific purpose
+After registering, you may request the closure of your account at any time in accordance with the terms and conditions of use of the Siemens Stiftung media portal. Please send your name, address and e-mail address to us at: medienportal@siemens-stiftung.org. We will delete your registration and all data associated with your account except where we are legally required to retain it; such retention may be required by tax law, for example. After deletion, you will no longer be able to access the members’ only section of the media portal.
 
-The Siemens Stiftung will only collect, process and use the personal data provided by you online for the purposes which you were explicitly notified about within the scope of this data protection advice, except when the collection, processing or use of such data
+ **3\. Cookies** If you visit one of our websites, we may store information on your computer in the form of cookies, which will allow us to automatically recognize your computer when you visit us the next time. Cookies allow us to adapt a website content to your interests, for example, or to save your password so that you do not need to enter it every time. If you do not wish us to recognize your computer, please set your Internet browser to delete cookies from your hard drive, block all cookies or warn you before saving a cookie.
 
-  * is made for another purpose which is in direct connection with the initial purpose for which the personal data had been collected, 
-  * is required to prepare, negotiate and fulfil the contract concluded with you, 
-  * is required due to legal obligations or official or judicial order, 
-  * is required to constitute or to protect legal claims or to avert claims, or 
-  * is required to avoid misuse or any illegal activity (for example, deliberate attacks on the systems of the Siemens Stiftung) in order to ensure data security
+ **4\. Data processing by third-party providers – Google Analytics**
 
+We use Google Analytics, a web analytics service provided by Google, Inc. (“Google”), for our websites.
 
+Google Analytics enables analysis of how you use our websites with the aid of a cookie. The information is transferred to a Google server in the USA and stored there in accordance with Google’s Privacy Policy (see <https://www.google.com/policies/privacy/>). Google’s self-certification under the Privacy Shield offers an adequate level of protection for data stored in the USA.
 
-4\. Communication-related or utilization-related data
+In light of the current discussion about the use of analysis tools with full IP addresses, we would like to point out that we use Google Analytics with the “_anonymizeIp()” extension. This shortens IP addresses to prevent any direct association with specific persons.
 
-If you access our website via telecommunication services, the communication-related data (for example, the internet protocol address) and utilization-related data (for example, data regarding the beginning and duration of use as well as the telecommunication services you use) are automatically generated by technical tools. They may allow inferences to personal data. If the collection, processing and use of your communication and utilization-related data are obligatorily required, they are subject to the legal provisions on data protection. 
-
-5\. Non-personal data collected automatically
-
-If you access our website, information may occasionally be collected automatically (that is to say, not via the registration process) which is not assigned to a specific person (for example, the internet browser and operating system used, the domain name of the website you last visited, the number of visits, the average time you spend on the website, the sites you have accessed). We use this information to identify the attractiveness of our website and to improve the performance and content. 
-
-6\. "Cookies" - Information automatically stored on your computer
-
-If you visit one of our websites we may store information on your computer in the form of a “cookie” which will allow us to automatically recognize your computer when you visit us the next time. “Cookies” enable us, for example, to adapt our website to better match your interests or store your password so that you do not have to re-enter it every time you log in. In case you do not want us to recognize your computer, please change the settings of your internet browser in a way that your system will delete the cookies from the hard disk of your computer, block all cookies or send a warning before a cookie is stored. 
-
-7\. Children
-
-The Siemens Stiftung will not knowingly collect personal data from children without insisting that such data should only be transmitted with parental consent if required by applicable legal provisions. Generally, we will only use or disclose personal data of children to the extent permitted by law to obtain the legally required parental consent or to protect children. The term “child/children“ takes nationally applicable legal provisions and cultural practices into consideration. 
-
-8\. Security
-
-The Siemens Stiftung will take technical and organisational safety measures to protect your personal data against unintentional or illegal deletion, against changes or loss and against unauthorized disclosing or unauthorized access. 
-
-9\. Links to other web sites
-
-The website of the Siemens Stiftung contains links to other websites. The Siemens Stiftung is not responsible for the data protection policies or the content of such other websites. 
-
-10\. Questions and comments
-
-The Siemens Stiftung will respond to all adequate inquiries to view and, if necessary, correct, complete or delete personal data. If you have questions or comments regarding this data protection policy (for example, if you wish to view and update your personal data), please click “contact” and send us your questions and suggestions. In the course of the enhancement of the internet, we will also continuously adapt our data protection policy. Changes will be published on this website on time. You should therefore regularly access this site to be informed about the current status of the data protection policy. 
-
-Additional details for the collection and use of personal data in connection with the use of the media portal of the Siemens Stiftung
-
-1\. Use for a specific purpose
-
-Personal data provided by you upon the registration to our media portal will only be used by the Siemens Stiftung for the purpose of identifying the user and for reviewing your registration authorization. 
-
-We reserve the right to statistically evaluate anonymous datasets. 
-
-The Siemens Stiftung will not use your personal data for any other purpose or disclose it to third parties for advertising purposes. 
-
-2\. Compliance with legal provisions; deletion
-
-The Siemens Stiftung complies with all applicable provisions on data protection during the collection, use and processing of your personal data in connection with the media portal including the provisions of the telemedia law. 
-
-Your personal data will be immediately deleted by the Siemens Stiftung after the termination of the usage relationship. 
-
-Google Analytics
-
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will normally be transmitted to and stored on a Google server in the USA. However, if IP anonymization is activated on this website, and you are located within an EU member state or another contracting state of the Treaty on the European Economic Area, your IP address will be shortened by Google beforehand. In exceptional cases only, your full address will be transmitted to a Google server in the USA and shortened there. On behalf of the operator of this website, Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity and providing the website operator with other services relating to website activity and internet usage. The IP address transmitted from your browser as part of Google Analytics will not be associated with any other data held by Google. You may prevent the storage of cookies by selecting the appropriate settings on your browser. However, please note that if you do this you may not be able to use the full functionality of this website. A further way of preventing web usage data (including your IP address) generated by the cookie from being transmitted to Google and processed there is to download and install this [Browser-Plugin](http://tools.google.com/dlpage/gaoptout?hl=en). 
-
-In light of the current discussion about the use of analysis tools with full IP addresses, we would like to point out that this website uses Google Analytics with the "_anonymizeIp()" extension. This shortens IP addresses to prevent any direct association with specific persons. 
-
-You can block Google Analytics from saving your data by clicking on the link below. An opt-out cookie will prevent the future collection of your data when visiting this website. 
+You can prevent the storage of cookies by activating the respective setting in your browser software. A further way of preventing web usage data (including your abbreviated IP address) generated by the cookie from being transmitted to Google and processed there is to download and install the browser plugin found here:
