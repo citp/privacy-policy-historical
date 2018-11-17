@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playwsop.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609115155id_/https%3A//www.playtika.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playwsop.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117125857id_/https%3A//www.playtika.com/privacy-policy) for the most accurate reproduction.*
 
 # Playtika
 
@@ -28,7 +28,7 @@ To prevent disclosure of your personal information for use in direct marketing b
 
  Users in certain jurisdictions have a right to access personal information held about themselves. Your right of access can be exercised in accordance with applicable law.
 
-  1. ## Information We Collect and How We Collect It
+  1. ##  Information We Collect and How We Collect It
 
 
 
@@ -180,7 +180,7 @@ We may collect or receive information about you from other sources like third-pa
 If you would like to learn more about how we secure your information, please see Security of Your Information section below.  
 
 
-  2. ## How We Use the Information We Collect and With Whom We Share It
+  2. ##  How We Use the Information We Collect and With Whom We Share It
 
 
 
@@ -277,7 +277,7 @@ In the event that Playtika undergoes a business transition (including proposed t
 
 
 
-  3. ## How to Access, Update and Manage Your Information and Means of Communication
+  3. ##  How to Access, Update and Manage Your Information and Means of Communication
 
 
 
@@ -292,7 +292,7 @@ If you want to review, delete, or change the information Playtika has about you 
 
 
 
-If you no longer want Playtika to make active use of your information, you may send an e-mail to [legal@Playtika.com](mailto:legal@Playtika.com)  Place "Delete My Account" in the subject line and include your first name, last name, e-mail address and your social network ID for the social network from which you access our Services (if applicable) in the body of the e-mail (for example, your Facebook user ID). We will respond to your request within thirty days. Please note that certain records, for example those relating to payments or customer service matters, will be held for legal and accounting purposes. If you have sent content through or posted content on the Service, we may not be able to delete it.
+If you no longer want Playtika to make active use of your information, You may submit such request [here](https://playtikaprod.service-now.com/privacy_security.do). We will respond to your request within thirty days. Please note that certain records, for example those relating to payments or customer service matters, will be held for legal and accounting purposes. If you have sent content through or posted content on the Service, we may not be able to delete it.
 
   3. Manage Information We get from a Third-Party Application
 
@@ -384,7 +384,7 @@ Games offered by Jelly Button Games Ltd. (Company within Playtika group) are int
   * Giving parents access or the ability to request access to personal information we have collected from their children and the ability to request that the personal information be changed or deleted
 
 
-  5. ## how we protect the information we store and share about you.
+  5. ##  how we protect the information we store and share about you.
 
 
 
@@ -444,6 +444,8 @@ If we decide to make material Changes to Our Privacy Policy, we will tell you an
 
 13
 
-Contact Us
+To exercise your privacy rights please submit a ticket via the applicable support channel of the game or [here.](https://playtikaprod.service-now.com/privacy_security.do)
 
-For any questions, comments or concerns about our Privacy Policy or any other issue please contact Playtika at: Legal@playtika.com or submit a ticket via the applicable support channel of the game. All notices given by you or required from you under this Privacy Policy shall be in writing and addressed to: Playtika Ltd., Attn: Legal Department, 8 HaChoshlim St., Herzliya 4672408 Israel.
+For any questions, comments or concerns about our Privacy Policy or any other issue please contact Playtika at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7525071c0314160c350519140c011c1e145b161a18)
+
+All notices given by you or required from you under this Privacy Policy shall be in writing and addressed to: Playtika Ltd., Attn: Legal Department, 8 HaChoshlim St., Herzliya 4672408 Israel.
