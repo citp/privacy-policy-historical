@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tboholidays.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517202044id_/https%3A//www.tboholidays.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tboholidays.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117122614id_/https%3A//www.tboholidays.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # TBO Holidays
 
 **Overview**
 
-This Privacy and Cookie Policy (the "Policy") becomes effective for all users from the date mentioned hereabove. 
+This Privacy and Cookie Policy (the "Policy") becomes effective for all users from the date 15th May 2018. 
 
-We, Tek Travels DMCC. operating through our flagship brand " **TBO Holidays** ", a corporation incorporated under the laws of the UAE as the data controller,( "TBO," "We," Or "us "),  explain in this Policy how we collect, process and/or use information that we receive via our websites, emails we send, and mobile applications (collectively, the "Platform") that link to this Policy, as amended from time to time. This Policy describes how TBO collects, processes, uses, shares and secures the personal information you provide. It also describes your choices regarding use, access, and correction of your personal information. For purposes of this Policy, personal information shall mean any information relating to an identified or identifiable natural person. 
+We, Tek Travels DMCC. Operating through our flagship brand " **TBO Holidays** ", a corporation incorporated under the laws of the UAE as the data controller ( "TBO," "We," Or "us "),  explain in this Policy how we collect, process and/or use information that we receive via our websites, emails we send, and mobile applications (collectively, the "Platform") that link to this Policy, as amended from time to time. This Policy describes how TBO collects, processes, uses, shares and secures the personal information you provide. It also describes your choices regarding use, access, and correction of your personal information. For purposes of this Policy, personal information shall mean any information relating to an identified or identifiable natural person. 
 
 This Policy applies only to information we collect, process and use through the Platform. This Policy does not apply to information that we collect through other channels, such as information that we collect offline, from other websites or from emails you send us.
 
@@ -35,7 +35,7 @@ If you enter credit card information on the Platform in connection with a bookin
 
 **Information We Collect Automatically**
 
-When you use the Platform, your device is automatically providing information to us so we can respond and customize our response to you. The type of information we collect by automated means generally includes technical information about your computer, such as your IP address or other device identifier, the type of device you use, and operating system version. The information we collect also may include usage information and statistics about your interaction with the Platform. That information may include the URLs of our web pages that you visited, URLs of referring and exiting pages, page views, time spent on a page, number of clicks, platform type, location data (if you have enabled access to your location on your mobile device), and other information about how you used the Platform. 
+When you use the Platform, your device is automatically providing information to us so that we can customize our response to you. The type of information we collect by automated means generally includes technical information about your computer, such as your IP address or other device identifier, the type of device you use, and operating system version. The information we collect also may include usage information and statistics about your interaction with the Platform. That information may include the URLs of our web pages that you visited, URLs of referring and exiting pages, page views, time spent on a page, number of clicks, platform type, location data (if you have enabled access to your location on your mobile device), and other information about how you used the Platform. 
 
 **Automated means of data collection include the following:**
 
@@ -74,7 +74,7 @@ This Cookie Policy describes how TBO.  ("we", "our", "us") uses Cookies and simi
 
 **_Cookies_**
 
-Cookies are small pieces of data that are stored on your computer, mobile phone, or other device when you first visit a page. We use cookies, locally shared objects (sometimes called "lash cookies"), mobile identifiers and similar technologies ("Cookies") to help us recognize you on the Platform, enhance your user experience, understand usage of the Platform. Cookies may also be sent by other websites or services that run content on the page you're visiting. After you register on the Platform, we may collect information received from you. The provision of your data via Cookies is voluntary except for those Cookies that we place on your device because we need them for the performance of our Platform and our services.
+Cookies are small pieces of data that are stored on your computer, mobile phone, or other device when you first visit a page. We use cookies, locally shared objects (sometimes called "flash cookies"), mobile identifiers and similar technologies ("Cookies") to help us recognize you on the Platform, enhance your user experience, understand usage of the Platform. Cookies may also be sent by other websites or services that run content on the page you're visiting. After you register on the Platform, we may collect information received from you. The provision of your data via Cookies is voluntary except for those Cookies that we place on your device because we need them for the performance of our Platform and our services.
 
 **_What types of Cookies do we use?_**
 
@@ -112,7 +112,7 @@ We do not currently respond to 'do not track' signals and similar settings or me
 
 **Other Important Privacy Information**
 
-If you wish to access, correct, update or request your personal information, you can do so at any time by contacting us using the contact details provided under the "Contact Us" section on our site.
+If you wish to access, correct, update or request your personal information, you can do so at any time by contacting us using the contact details provided under "Contact Us" section on our site.
 
 You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the "unsubscribe" Or "opt-out" link in the marketing emails we send you. If you are an unregistered user, or to opt-out of marketing you may contact us using the contact details provided under the "Contact Us".
 
@@ -124,7 +124,7 @@ We respond to all requests we receive from individuals wishing to exercise their
 
 In addition to your rights outlined above, if you are a registered user on our site, you can manage your account settings in the "Account Settings" page on the Platform where we provide you with the opportunity to 'opt-out' of having your personal information used for certain purposes.
 
-We will send you notifications and if, and to the extent, you have opted-in to receive promotional communications, or other messages using the contact information (e.g., your email address, your mobile device identifier) you provided to us when you registered or when you requested information from us. You may opt-out of continuing to receive optional messages by following the instructions included in each message. Also, you can control most of the emails you receive from us by editing your email preferences within "My Account" settings on the site; provided you will need to separately opt-out of receiving our various emails by unsubscribing to each email that you have originally subscribed to. You can control the mobile push notifications within the "settings" settings section of the mobile app.
+We will send you notifications and if, and to the extent, you have opted-in to receive promotional communications, or other messages using the contact information (e.g., your email address, your mobile device identifier) you provided to us when you registered or when you requested information from us. You may opt-out of continuing to receive optional messages by following the instructions included in each message. Also, you can control most of the emails you receive from us by editing your email preferences within "My Account" settings on the site; provided you will need to separately opt-out of receiving our various emails by unsubscribing to each email that you have originally subscribed to. You can control the mobile push notifications within the "settings" section of the mobile app.
 
 We will send you service-related announcements when we believe it is necessary to do so. In some cases, you can stop or limit the information we collect by automated means. To learn more about how you may be able to stop or limit our receipt of that information please review the section entitled Cookie Policy.
 
@@ -134,7 +134,7 @@ If you'd like to close your TBO account, you can do so within your Account Setti
 
 **How Long We Keep Your Personal Information**
 
-We keep your personal information only so long as we need it to provide the Platform to you and fulfil the purposes described in this Policy. This is also the case for anyone that we share your personal information with and who carries out services on our behalf. Retention periods can vary significantly based on the type of information and how it is used. Our retention periods are based on criteria that include legally mandated retention periods, pending or potential litigation, our intellectual property or ownership rights, contract requirements, operational directives or needs, and historical archiving. When we no longer need to use your personal information and there is no need for us to keep it to comply with our legal or regulatory obligations, resolve disputes and enforce our agreements, we’ll either remove it from our systems or depersonalize it so that we can't identify you.
+We keep your personal information only so long as we need it to provide the Platform to you and fulfill the purposes described in this Policy. This is also the case for anyone that we share your personal information with and who carries out services on our behalf. Retention periods can vary significantly based on the type of information and how it is used. Our retention periods are based on criteria that include legally mandated retention periods, pending or potential litigation, our intellectual property or ownership rights, contract requirements, operational directives or needs, and historical archiving. When we no longer need to use your personal information and there is no need for us to keep it to comply with our legal or regulatory obligations, resolve disputes and enforce our agreements, we’ll either remove it from our systems or depersonalize it so that we can't identify you.
 
 **Security Safeguards**
 
@@ -144,9 +144,9 @@ We employ physical, electronic, and managerial measures to safeguard the informa
 
 The information about you that we collect, process and/or use through the Platform is controlled by Tek Travels DMCC, at 2408, Oaks Liwa Heights, JLT Dubai P.O Box 34544. The privacy protections and the rights of authorities to access your information in other countries may not be the same as in your home country.
 
-**You may reach our here**
+**You may reach us here**
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact us at [Anindya@tboholidays.com](mailto:Anindya@tboholidays.com)
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact us at [legal@tboholidays.com](mailto:legal@tboholidays.com)
 
 **Updates to Our Privacy Policy**
 
@@ -158,4 +158,4 @@ We may revise this Policy from time to time by posting an updated version on the
 
 **Attn: Legal Department**
 
-**Emial :[legal@tboholidays.com ](mailto:legal@tboholidays.com)**
+**Email :[legal@tboholidays.com ](mailto:legal@tboholidays.com)**
