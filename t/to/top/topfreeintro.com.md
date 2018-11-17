@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topfreeintro.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519170506id_/http%3A//topfreeintro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topfreeintro.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117165817id_/http%3A//topfreeintro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | topfreeintro.com
 
