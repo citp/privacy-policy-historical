@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subbmitt.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506143337id_/http%3A//www.subbmitt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subbmitt.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117143356id_/http%3A//www.subbmitt.com/privacy.php) for the most accurate reproduction.*
 
 # Subbmitt.com - Privacy Policy
 
