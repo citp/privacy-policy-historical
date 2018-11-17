@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfone.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302095254id_/http%3A//pdfone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfone.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117222924id_/http%3A//pdfone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PDFone.com
 
