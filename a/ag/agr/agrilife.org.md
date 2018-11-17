@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903204428id_/https%3A//agrilife.org/required-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117074607id_/https%3A//agrilife.org/required-links/privacy) for the most accurate reproduction.*
 
 # Privacy & Security Policy | Texas A&M AgriLife
 
@@ -10,7 +10,7 @@ We do not use cookies to collect information. Note: A cookie file contains uniqu
 
 If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that emails us this information, we will only use the personally identifiable information to respond to your request and analyze trends. We may redirect your message to another government agency or person who is in a better position to answer your question.
 
-For site management management functions, information is collected for analysis and statistical purposes. This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal actions.
+For site management management functions, information is collected for analysis and statistical purposes. This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal actions.  We may collect and set information to track marketing to sales processes, but this will not include Personally Identifiable Information unless explicitly noted.
 
 If you have any questions about this privacy statement, the practices of this site, or your use of this Web site, please contact the Webmaster or through regular mail at:
 
