@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the 196flavors.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628011715id_/https%3A//www.196flavors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 196flavors.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117195109id_/https%3A//www.196flavors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 196 flavors
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/196flavors.com).  
+
 
 196 flavors believes very strongly in keeping your personal information confidential. The following policy describes what information we collect and how it is used and shared.
 
