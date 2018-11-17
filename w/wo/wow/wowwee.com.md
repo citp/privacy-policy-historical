@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowwee.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208113410id_/http%3A//wowwee.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowwee.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117021213id_/https%3A//wowwee.com/information/privacy) for the most accurate reproduction.*
 
 # Privacy
 
