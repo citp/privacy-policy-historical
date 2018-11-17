@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the html-cleaner.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517163512id_/https%3A//html-cleaner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html-cleaner.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117104646id_/http%3A//html-cleaner.com/privacy) for the most accurate reproduction.*
 
 # Html cleaner - Privacy policy
 
