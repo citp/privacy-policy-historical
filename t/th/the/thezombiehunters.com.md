@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thezombiehunters.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614201731id_/http%3A//www.thezombiehunters.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thezombiehunters.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117101318id_/http%3A//www.thezombiehunters.com/privacy.php) for the most accurate reproduction.*
 
 # The Zombie Hunters
 
