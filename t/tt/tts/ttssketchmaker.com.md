@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttssketchmaker.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517111835id_/http%3A//ttssketchmaker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttssketchmaker.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117115004id_/http%3A//ttssketchmaker.com/privacy.html) for the most accurate reproduction.*
 
 # TTS Sketch Maker: Privacy
 
