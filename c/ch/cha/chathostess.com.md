@@ -1,62 +1,67 @@
-> *The following text is extracted and transformed from the chathostess.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516220835id_/http%3A//chathostess.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chathostess.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117101536id_/http%3A//www.chathostess.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Live Asian Cams and Asian Cam Sex @ ChatHostess.com
 
-**PRIVACY POLICY**
+## PRIVACY POLICY
 
-We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. This Privacy Policy explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by visitors to our web site. By using this site, you signify your assent to these our privacy practices and the terms and conditions of our web site. 
+## Your Acceptance
 
-If this policy is not agreeable to you, please do not use this site.
+By using our sites (referred to as CamSoft), you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion. 
 
-**WHAT TYPE INFORMATION IS COLLECTED?**
+## Overview
 
-Personal Information
+CamSoft respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use CamSoft, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the CamSoft website. 
 
-We only collect personal information from visitors to our web site when they voluntarily provide it to us by completing our registration form or electing to use one of our services. We may require visitors to provide us with information including, but not limited to, their name, physical address, email address, birth date, credit card number, credit card expiration date, username, password, and on occasion a unique identifier (such as their mother’s maiden name). 
+## Personal Identifying Information
 
-**Non-Personal Information**
+CamSoft will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily. 
 
-When visitors access our web site, certain non-personal information may be collected from them including, but not limited to, their browser type (e.g., FireFox or Internet Explorer), operating system (e.g., Windows or Macintosh), IP address, and the domain name from which they accessed the site (e.g. google.com). In addition, we may collect information about visitors' browsing behavior, such as the date and time they visit the web site, the areas or pages of our web site that they visit, the amount of time spent viewing the site, the number of times the visitor returns to the site, and click-stream data. We use transparent tracking pixels to determine the number of web site visitors that have been sent to us through our affiliate network. We do not track any information about visitors once they leave our site. We may use cookies (small text files that are stored on visitors computers when they access our web site) to collect this information. Information collected through cookies may be combined with visitors' personal information. We may also allow unaffiliated third parties, such as advertisers, to serve cookies to visitors of our web site. Visitors are always free to decline cookies, but in doing so they may not be able to use certain features on our web site. The "help" segment of the toolbar on most browsers explains how to configure a browser to not accept new cookies, how to have the browser inform a user when they receive a new cookie, and how to erase cookies from their hard drives. 
+If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files. 
 
-**IN WHAT WAY DO WE USE YOUR PERSONAL AND NON-PERSONAL INFORMATION?**
+When you do provide us with personal identifying information, such information will be gathered solely by CamSoft, and is for use solely by CamSoft and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services. 
 
-Our goal in collecting personal information is to provide visitors with the most personalized web experience possible and our advertisers with an efficient means to reach the right audience. By knowing a little about our visitors, we are able to deliver more relevant content and advertisements, and provide better services. We may use information collected from visitors to our web site for any of the following purposes: (1) to send visitors information and promotional materials about our company, (2) to send visitors information and promotional materials from our marketing partners and third parties (such as advertisers on our web site), (3) to deliver targeted display advertisements and offers by email (by matching criteria provided by our advertisers with information collected from our visitors), (4) to contact visitors to our web site when necessary, (5) to allow one-click purchases or access to proprietary content by pre-populating fields, within registration or other transaction screens, with a visitor's name, billing address, and credit or charge card information (among other things), as provided by that visitor, (6) to help diagnose problems with our server, (7) to administer our web site, (8) to conduct internal reviews of our site (e.g., to determine the number of visitors to the site), (9) to help us better understand visitors' use of our site, and (10) to protect the security or integrity of our site. Non-personal information will be used for purposes of conducting internal reviews of the site, monitoring the site, and providing a greater online experience for our visitors. 
+We have implemented Google Analytics features known as [Google Analytics Demographics and Interest Reporting](https://support.google.com/analytics/answer/2799357). You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings provided by Google. In addition, you can use the Google Analytics Opt-Out Browser Add-on to disable tracking by Google Analytics. We will use the data provided by Google Analytics Demographics and Interest Reporting to further develop and improve our products." 
 
-**DO WE DISCLOSE YOUR INFORMATION?**
+CamSoft may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings. 
 
-We may transfer or disclose information collected from visitors to our web site to our employees and independent contractors, to our parent company, subsidiaries and affiliates, and to our consultants, other business associates, and suppliers, if the disclosure will enable that party to perform a business, professional, or technical support function for us, or if required to do so by law. We may also disclose information we collect from our site visitors to our marketing and business partners, who may use the information in connection with their business operations, such as to send marketing and other communications to visitors of our site.   
-We may also share, rent, sell, or transfer any personal information (including financial information) provided by our visitors to third parties. During the registration process, and at certain times during any member user session, we may present additional offers from third party service providers. Our third party service providers have their own terms and conditions and privacy policies. We suggest that visitors access these third party sites and review their terms and conditions and privacy policies before "subscribing" to any third party offer. If a visitor subscribes to a third party offer during our registration process, we will transfer the financial data they provided to us as part of the registration process to that third party company, which will then process the transaction using that financial data. We may also share non-personal information we collect from visitors to our site, such as their browsing behaviors, with third parties. For example, we may tell a third party advertiser that a certain number of people have visited a certain area on our web site. 
+CamSoft may request personal identifying information on specific pages that allow users to contact CamSoft. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response. 
 
-**WHAT SECURITY MEASURES DO WE TAKE TO PROTECT YOUR DATA?**
+There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: 
 
-To help prevent unauthorized access, maintain data integrity, and ensure the appropriate use of information, we have put in place certain physical, electronic, and managerial procedures to safeguard and secure the information we collect from visitors to our web site. We use SSL (Secure Socket Layer) technology to protect any credit card information you provide us. We allow access to personal information only to persons and entities engaging in activities provided for by this Privacy Policy. Visitors should consider any communication that they transmit to us (such as data, questions or answers, comments, suggestions, or communications submitted to a chat room) to be non-confidential. We will not be liable or responsible if information that belongs to a visitor is intercepted and used by an unintended recipient. 
+  1. when legally ordered to do so by a lawful subpoena or court order,
+  2. if you violate or breach an agreement with us,
+  3. if we believe conduct by you will harm the property or rights of CamSoft or those of CamSoft customers or chat hosts,
+  4. under exigent circumstances to protect the physical safety of CamSoft, its employees, users or the general public,
+  5. in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or
+  6. in order to validate credit card numbers for charging for fee services.
 
-**WE PROTECT CHILDREN'S PRIVACY**
 
-Protecting the privacy of children is VERY important to us. For that reason we do not structure any part of our site to attract anyone under the age of 18 (21 in some areas) and we do not allow anyone under the age of 18 (21 in some areas) to register and become a member of our site. 
 
-**CORPORATE CHANGES**
+## Our Cookies
 
-In the event of a merger, acquisition, asset or stock sale, bankruptcy, or other asset transfer (regardless of legal formality), any of our assets may be transferred to a third party, including personal information collected from visitors to our web site. 
+Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information. 
 
-**ACCEPTANCE OF PRIVACY TERMS & CONDITIONS**
+Cookies used on the website by category: 
 
-By visiting this web site, you are agreeing to the practices described in this Privacy Policy. By visiting this site, you also accept, without limitation or qualification, all terms and conditions concerning the use of this site. We may at any time revise these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then-current terms and conditions to which you are bound. To the extent that any of the third-party sites accessible through our web site (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those sites. We are not responsible for the policies, content, and practices of other companies. 
+  * Strictly necessary cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. 
+  * Performance cookies - These cookies, including Google Analytics cookies, collect anonymous information on the pages visited. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information. By using our site, you agree that we can place these types of cookies on your device. These cookies collect information about how visitors use a website, for instance which pages visitors go to most often. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works. 
+  * Functionality cookies - These cookies remember choices you make to improve your experience. By using our site, you agree that we can place these types of cookies on your device. These cookies allow the website to remember choices you make and provide enhanced, more personal features. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites. 
+  * Advertising cookies - These cookies are used to deliver advertisements more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization. 
 
-**CHANGES TO THIS PRIVACY POLICY**
 
-There may be times when we need to change the terms of this Privacy Policy. To ensure that you are aware of our current privacy practices, please bookmark this page and check back often. 
 
-**HOW TO CANCEL YOUR SUBSCRIPTION**
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites. 
 
-You can cancel your subscription online by visiting the Customer Service section of the site you joined. 
+## Chat Rooms and Forums
 
-**HOW CAN YOU ACCESS THE INFORMATION WE HAVE COLLECTED FROM YOU?**
+This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk. 
 
-Visitors who wish to access or change the information they provided to our web site, should visit the Customer Service section of this site and contact us via Email. 
+## Minors
 
-**HOW CAN YOU CONTACT THE WEB SITE OPERATOR?**
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. CamSoft does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested. 
 
-Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this web site, should visit the Support section of this site and contact us via Email. 
+Members areas of CamSoft may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by contacting us at <http://www.chathostess.com/support.php?p=email>. 
 
-© Copyright 2007 CamSoft, B.V, All Rights Reserved. 
+## Contact
+
+If you have any questions about this Privacy Policy, please contact our customer service department at <http://www.chathostess.com/support.php?p=email> and provide us with your name, your CamSoft login name, and any information you feel is important. 
