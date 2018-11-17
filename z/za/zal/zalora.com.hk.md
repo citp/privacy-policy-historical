@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalora.com.hk privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419063823id_/http%3A//www.zalora.com.hk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.com.hk privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117121553id_/http%3A//www.zalora.com.hk/privacy-policy) for the most accurate reproduction.*
 
 # ZALORA Hong Kong | Privacy Policy
 
@@ -51,7 +51,9 @@ Payments that you make through the Site will be processed by our agent Adyen. Yo
 Your actual order details may be stored with us but for security reasons cannot be retrieved directly by us. However, you may access this information by logging into your account on the Site. Here you can view the details of your orders that have been completed, those which are open and those which are shortly to be dispatched and administer your address details, bank details and any newsletter to which you may have subscribed. You undertake to treat the personal access data confidentially and not make it available to unauthorised third parties. We cannot assume any liability for misuse of passwords unless this misuse is our fault.
 
 **Updating Your Personal Information**  
-You can update your personal information anytime by accessing your account on ZALORA website. 
+There are personal information that cannot be corrected by you by logging in to your user account on the Website or Mobile App.
+
+Should you face any difficulties as above you may request to correct such information by submitting a written request to us via our [customer service feedback form.](https://www.zalora.com.hk/contact/)
 
 **Security of Your Personal Information**  
 ZALORA ensures that all information collected will be safely and securely stored. We protect your personal information by:   
@@ -79,6 +81,10 @@ This information is collected for analysis and evaluation in order to help us im
 As part of the above, ZALORA may use Google Analytics features based on Display Advertising, including but not restricted to the following: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting. Using the Google Ads Settings (https://www.google.com/settings/ads), you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
 
 ZALORA also uses Remarketing with Google Analytics to advertise online; third-party vendors, including Google, may show ZALORA ads on sites across the Internet. ZALORA and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitors’ past visits to ZALORA, as well as report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to ZALORA.
+
+**Sociomantic**
+
+Zalora uses Sociomantic's services, and Sociomantic's tags are implemented on Zalora's sites to collect anonymous information about you. You may find out more about the information collected by Sociomantic, how it is used, and how you can opt out at https://www.sociomantic.com/privacy/en/
 
 **Changes to the Privacy Policy**  
 ZALORA reserves the right to modify and change the Privacy Statement at any time. Any changes to this policy will be published on our site. 
