@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chathostess.com privacy policy that was archived on 2018-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180516220835id_/http%3A//chathostess.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chathostess.com privacy policy that was archived on 2018-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181117101536id_/http%3A//www.chathostess.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
@@ -20,7 +20,7 @@
 <body onunload="clearIt()">
 <div id="header_main_container">
 	<div id="header_art">
-        <div id="header_banner"><img src="images/chathostess_header.jpg" alt="" border="0" height="120" width="890"></div>
+        <div id="header_banner"><img src="images/chathostess_header_thanksgiving.jpg" alt="" border="0" height="120" width="890"></div>
         <div id="header_menu">
                         <a href="onnow.php">Who's Online</a> <span class="menu_separator_0">|</span>
             <a href="models.php">Our Models</a> <span class="menu_separator_0">|</span>
@@ -30,52 +30,145 @@
                     </div>
 
 	  	<div id="header_main_content">
+
 <div class="support_container">
-	<p class="support_container_title"><strong>PRIVACY POLICY</strong></p>
+	<h2 style="text-align:center">PRIVACY POLICY</h2>
+
+	<h2>Your Acceptance</h2>
 	<p>
-		We have created this Privacy Policy in order to demonstrate our   firm commitment to privacy. This Privacy Policy explains our practices with   respect to the collection, use, and disclosure of personal and non-personal   information provided by visitors to our web site. By using this site, you   signify your assent to these our privacy practices and the terms and conditions   of our web site.
+		By using our sites (referred to as CamSoft), you signify your agreement to the privacy policies described herein. 
+		If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial 
+		changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages 
+		or we will email you at our discretion.
 	</p>
-	<p>If this policy is not agreeable to you, please   do not use this site.</p>
+
+	<h2>Overview</h2>
 	<p>
-		<strong>WHAT TYPE INFORMATION IS   COLLECTED?</strong><br><br>
-		 Personal   Information<br><br>We only collect personal information from visitors to   our web site when they voluntarily provide it to us by completing our   registration form or electing to use one of our services. We may require   visitors to provide us with information including, but not limited to, their   name, physical address, email address, birth date, credit card number, credit   card expiration date, username, password, and on occasion a unique identifier   (such as their mother’s maiden name).
+		CamSoft respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a 
+		formal document that outlines the information which may be collected about you while you use CamSoft, and how that 
+		information may be used. This Statement will also instruct you on what to do if you do not want your personal 
+		information collected or shared when you visit the CamSoft website.
 	</p>
-	<p><strong>Non-Personal   Information</strong><br><br>
-	  When visitors access our web site, certain   non-personal information may be collected from them including, but not limited   to, their browser type (e.g., FireFox or Internet Explorer), operating system   (e.g., Windows or Macintosh), IP address, and the domain name from which they   accessed the site (e.g. google.com). In addition, we may collect information   about visitors' browsing behavior, such as the date and time they visit the web   site, the areas or pages of our web site that they visit, the amount of time   spent viewing the site, the number of times the visitor returns to the site, and   click-stream data. We use transparent tracking pixels to determine the number of   web site visitors that have been sent to us through our affiliate network. We do   not track any information about visitors once they leave our site. We may use   cookies (small text files that are stored on visitors computers when they access   our web site) to collect this information. Information collected through cookies   may be combined with visitors' personal information. We may also allow   unaffiliated third parties, such as advertisers, to serve cookies to visitors of   our web site. Visitors are always free to decline cookies, but in doing so they   may not be able to use certain features on our web site. The "help" segment of   the toolbar on most browsers explains how to configure a browser to not accept   new cookies, how to have the browser inform a user when they receive a new   cookie, and how to erase cookies from their hard drives.
+
+	<h2>Personal Identifying Information</h2>
+	<p>
+		CamSoft will not collect any personal identifying information about you (including, but not limited to, your name, 
+		address, telephone number, email address, Social Security number, bank account or credit card information, or any combination 
+		of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
 	</p>
-	<p><strong>IN WHAT WAY DO WE USE YOUR   PERSONAL AND NON-PERSONAL INFORMATION?</strong><br>	<br>
-	  Our goal in collecting   personal information is to provide visitors with the most personalized web   experience possible and our advertisers with an efficient means to reach the   right audience. By knowing a little about our visitors, we are able to deliver   more relevant content and advertisements, and provide better services. We may   use information collected from visitors to our web site for any of the following   purposes: (1) to send visitors information and promotional materials about our   company, (2) to send visitors information and promotional materials from our   marketing partners and third parties (such as advertisers on our web site), (3)   to deliver targeted display advertisements and offers by email (by matching   criteria provided by our advertisers with information collected from our   visitors), (4) to contact visitors to our web site when necessary, (5) to allow   one-click purchases or access to proprietary content by pre-populating fields,   within registration or other transaction screens, with a visitor's name, billing   address, and credit or charge card information (among other things), as provided   by that visitor, (6) to help diagnose problems with our server, (7) to   administer our web site, (8) to conduct internal reviews of our site (e.g., to   determine the number of visitors to the site), (9) to help us better understand   visitors' use of our site, and (10) to protect the security or integrity of our   site. Non-personal information will be used for purposes of conducting internal   reviews of the site, monitoring the site, and providing a greater online   experience for our visitors.
-	  </p>
-	<p><strong>DO WE DISCLOSE YOUR   INFORMATION?</strong><br><br>
-	  We may transfer or disclose information collected   from visitors to our web site to our employees and independent contractors, to   our parent company, subsidiaries and affiliates, and to our consultants, other   business associates, and suppliers, if the disclosure will enable that party to   perform a business, professional, or technical support function for us, or if   required to do so by law. We may also disclose information we collect from our   site visitors to our marketing and business partners, who may use the   information in connection with their business operations, such as to send   marketing and other communications to visitors of our site.
-	  <br>
-	  We may also   share, rent, sell, or transfer any personal information (including financial   information) provided by our visitors to third parties. During the registration   process, and at certain times during any member user session, we may present   additional offers from third party service providers. Our third party service   providers have their own terms and conditions and privacy policies. We suggest   that visitors access these third party sites and review their terms and   conditions and privacy policies before "subscribing" to any third party offer.   If a visitor subscribes to a third party offer during our registration process,   we will transfer the financial data they provided to us as part of the   registration process to that third party company, which will then process the   transaction using that financial data. We may also share non-personal   information we collect from visitors to our site, such as their browsing   behaviors, with third parties. For example, we may tell a third party advertiser   that a certain number of people have visited a certain area on our web site.
-	 </p>
-	<p><strong>WHAT SECURITY MEASURES DO WE TAKE   TO PROTECT YOUR DATA?</strong><br><br>
-	  To help prevent unauthorized access,   maintain data integrity, and ensure the appropriate use of information, we have   put in place certain physical, electronic, and managerial procedures to   safeguard and secure the information we collect from visitors to our web site.   We use SSL (Secure Socket Layer) technology to protect any credit card   information you provide us. We allow access to personal information only to   persons and entities engaging in activities provided for by this Privacy Policy.   Visitors should consider any communication that they transmit to us (such as   data, questions or answers, comments, suggestions, or communications submitted   to a chat room) to be non-confidential. We will not be liable or responsible if   information that belongs to a visitor is intercepted and used by an unintended   recipient.
-	 </p>
-	<p><strong>WE PROTECT CHILDREN'S   PRIVACY</strong><br><br>
-	  Protecting the privacy of children is VERY important   to us. For that reason we do not structure any part of our site to attract   anyone under the age of 18 (21 in some areas) and we do not allow anyone under   the age of 18 (21 in some areas) to register and become a member of our site.
+	<p>
+		If you do not want your personal identifying information collected, please do not submit it to us. If you have already 
+		submitted this information and would like for us to remove it from our records, please contact us at the email address 
+		listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
 	</p>
-	<p><strong>CORPORATE   CHANGES</strong><br><br>
-	  In the event of a merger, acquisition, asset or stock   sale, bankruptcy, or other asset transfer (regardless of legal formality), any   of our assets may be transferred to a third party, including personal   information collected from visitors to our web site.
- 	</p>
-	<p><strong>ACCEPTANCE OF PRIVACY TERMS &amp;   CONDITIONS</strong><br><br>
-	  By visiting this web site, you are agreeing to the   practices described in this Privacy Policy. By visiting this site, you also   accept, without limitation or qualification, all terms and conditions concerning   the use of this site. We may at any time revise these terms and conditions. You   are bound by any such revisions and should therefore periodically visit this   page to review the then-current terms and conditions to which you are bound. To   the extent that any of the third-party sites accessible through our web site   (such as our advertisers) have different privacy practices from those stated in   this Privacy Policy, those third-party privacy practices govern the collection   and use of information you provide when visiting those sites. We are not   responsible for the policies, content, and practices of other companies.
+	<p>
+		When you do provide us with personal identifying information, such information will be gathered solely by CamSoft, 
+		and is for use solely by CamSoft and trusted partners. At any point where personal identifying information is requested, 
+		any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal 
+		identifying information in the following ways, unless stated otherwise: we may store and process that information to better 
+		understand your needs and how we can improve our products and services; and we may use that information to contact you. 
+		Financial information that is collected is used to check the users' qualifications for registration and to bill the user 
+		for products and services.
 	</p>
-	<p><strong>CHANGES TO THIS PRIVACY   POLICY</strong><br><br>
-	  There may be times when we need to change the terms of   this Privacy Policy. To ensure that you are aware of our current privacy   practices, please bookmark this page and check back often.
+	<p>
+		We have implemented Google Analytics features known as&nbsp;<a href="https://support.google.com/analytics/answer/2799357" target="_blank">Google Analytics Demographics and Interest Reporting</a>. 
+		You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings provided by Google. 
+		In addition, you can use the Google Analytics Opt-Out Browser Add-on to disable tracking by Google Analytics. We will use the data 
+		provided by Google Analytics Demographics and Interest Reporting to further develop and improve our products."
 	</p>
-	<p><strong>HOW TO CANCEL YOUR   SUBSCRIPTION</strong><br><br>
-	  You can cancel your subscription online by   visiting the Customer Service section of the site you joined.
+	<p>
+		CamSoft may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. 
+		Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of 
+		such mailings.
 	</p>
-	<p><strong>HOW CAN YOU ACCESS THE INFORMATION   WE HAVE COLLECTED FROM YOU?</strong><br><br>
-	  Visitors who wish to access or   change the information they provided to our web site, should visit the Customer   Service section of this site and contact us via Email.
+	<p>
+		CamSoft may request personal identifying information on specific pages that allow users to contact CamSoft. Such information is being 
+		collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
 	</p>
-	<p><strong>HOW CAN YOU CONTACT THE WEB SITE   OPERATOR?</strong><br><br>
-	  Visitors who have any questions about this Privacy   Policy, the practices of this site, or their interactions with this web site,   should visit the Support section of this site and contact us via Email.
+	<p>
+		There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: 
+		</p><ol>
+			<li>when legally ordered to do so by a lawful subpoena or court order,</li>
+			<li>if you violate or breach an agreement with us,</li>
+			<li>if we believe conduct by you will harm the property or rights of CamSoft or those of CamSoft customers or chat hosts,</li>
+			<li>under exigent circumstances to protect the physical safety of CamSoft, its employees, users or the general public,</li>
+			<li>in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or</li>
+			<li>in order to validate credit card numbers for charging for fee services.</li>
+		</ol>
+	<p></p>
+
+	<h2>Our Cookies</h2>
+	<p>
+		Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. 
+		Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our 
+		content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
 	</p>
-	<p align="center">© Copyright 2007 CamSoft, B.V, All Rights Reserved. </p>
+	<p>
+		Cookies used on the website by category:
+		</p><ul>
+			<li>
+				Strictly necessary cookies - These cookies are essential in order to enable you to move around the website and use its features, 
+				such as accessing secure areas of the website.
+			</li>
+			<li>
+				Performance cookies - These cookies, including Google Analytics cookies, collect anonymous information on the pages visited. 
+				Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. 
+				This data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information. 
+				By using our site, you agree that we can place these types of cookies on your device. These cookies collect information about 
+				how visitors use a website, for instance which pages visitors go to most often. These cookies don't collect information that 
+				identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a 
+				website works.
+			</li>
+			<li>
+				Functionality cookies - These cookies remember choices you make to improve your experience. By using our site, you agree that we can 
+				place these types of cookies on your device. These cookies allow the website to remember choices you make and provide enhanced, 
+				more personal features. The information these cookies collect may be anonymized and they cannot track your browsing activity on 
+				other websites.
+			</li>
+			<li>
+				Advertising cookies - These cookies are used to deliver advertisements more relevant to you and your interests. 
+				They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of 
+				the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. 
+				They remember that you have visited a website and this information is shared with other organizations such as advertisers. 
+				Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization.
+			</li>
+		</ul>
+		You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, 
+		to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience 
+		at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, 
+		such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage 
+		of personalized content delivery offered by us or other Internet sites.
+	<p></p>
+
+	<h2>Chat Rooms and Forums</h2>
+	<p>
+		This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas 
+		becomes public information and you should exercise caution when deciding to disclose your personal information. 
+		If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard 
+		the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
+	</p>
+
+	<h2>Minors</h2>
+	<p>
+		Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). 
+		COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. 
+		CamSoft does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit 
+		information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information 
+		from persons under 18 wherever age related information is requested.
+	</p>
+	<p>
+		Members areas of CamSoft may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 
+		via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive 
+		information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, 
+		we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our 
+		receipt of information by minors, please do so by contacting us at <a href="http://www.chathostess.com/support.php?p=email">http://www.chathostess.com/support.php?p=email</a>.
+	</p>
+
+	<h2>Contact</h2>
+	<p>
+		If you have any questions about this Privacy Policy, please contact our customer service department at&nbsp;<a href="http://www.chathostess.com/support.php?p=email">http://www.chathostess.com/support.php?p=email</a> 
+		and provide us with your name, your CamSoft login name, and any information you feel is important.
+	</p>
 </div>	 	</div> <!-- header_main_content -->
 
         <div id="footer_label1">
@@ -108,5 +201,5 @@
 		<br>
 		Please visit <a href="//www.epoch.com" target="_blank">Epoch</a>, our authorized sales agent. <br>	</div>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1e4c2de662","applicationID":"30367628","transactionName":"NQYBYhNZD0UABkdRVgxMNkQIFxJDERVcSk1MEwtG","queueTime":0,"applicationTime":41,"atts":"GUECFFtDHEs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1e4c2de662","applicationID":"30367628","transactionName":"NQYBYhNZD0UABkdRVgxMNkQIFxJDERVcSk1MEwtG","queueTime":0,"applicationTime":74,"atts":"GUECFFtDHEs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 <div id="topcontrol" title="Scroll Back to Top" style="position: fixed; bottom: 8px; right: 8px; opacity: 0; cursor: pointer;"><img src="images/top_up.png" style="width:28px; height:10px"></div></body></html>
