@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicrun.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627080909id_/http%3A//www.sonicrun.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicrun.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118170100id_/http%3A//www.sonicrun.com/privacy.html) for the most accurate reproduction.*
 
 # Sonic Run: Internet Search Engine
 
