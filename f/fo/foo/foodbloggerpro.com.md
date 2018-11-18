@@ -1,47 +1,209 @@
-> *The following text is extracted and transformed from the foodbloggerpro.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215013757id_/https%3A//www.foodbloggerpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodbloggerpro.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118041354id_/https%3A//www.foodbloggerpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Food Blogger Pro
 
 * * *
 
-Food Blogger Pro does not share customer information of any kind with anyone. We will not sell or rent your name or personal information to any third party. We do not sell, rent or provide outside access to our mailing list or any data we store. Any data that a user stores via our facilities is wholly owned by that user or business. At anytime a user or business is free to unsubscribe and leave, or to simply delete their account from our facilities.
+Effective May 24, 2018
 
-Food Blogger Pro only collects such personal information that is necessary for you to access and use our services. This personal information includes, but is not limited to, first and last name, physical address, zip code, email address, phone number, social security number, birth date, credit card information, financial information, and other personal information necessary to generate proper legal documents.
+As the owner of this website (foodbloggerpro.com, referred to as the “Site”), Food Blogger Pro LLC understands that your privacy is of critical importance. This Privacy Policy describes what information we collect from you via the Site and how we use and disclose such information.
 
-Food Blogger Pro may release personal information if required by law, search warrant, subpoena, court order or fraud investigation. We may also use personal information in a manner that does not identify you specifically nor allow you to be contacted but does identify certain criteria about our Site's users in general (such as we may inform third parties about the number of registered users, number of unique visitors, and the pages most frequently browsed).
+**WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?**
 
-Food Blogger Pro uses a software called Hotjar. [Hotjar’s privacy policy](https://www.hotjar.com/privacy) explains in detail how Hotjar is used.
-
-This information is automatically collected while a visitor navigates and interacts with the content on our site. The sole purpose of collecting this information is to improve the user experience.
-
-Through the Hotjar tracking code embedded on our website, the information collected includes:
-
-### Device-specific data
-
-The following information may be collected through your device and browser:
-
-• your device's IP address (collected and stored in an anonymized format)  
-• device screen size  
-• device type (unique device identifiers) and bowser information  
-• geographic location (country only)  
-• preferred language used to display the webpage  
+  * **Information You Voluntarily Submit to the Site:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Site by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, we may ask you to create a user profile, which would allow you to create a username and password. We will store the username, but your password will not be visible in our records.
+  * **Information We Collect from Others:** We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
+  * **Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked. 
+  * **Cookies:** We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
 
-### Log data
 
-Hotjar automatically records information which is created upon using foodbloggerpro.com. Data includes:
+Different ways we collect information are detailed below. We reserve the right to change this list in our sole discretion. 
 
-• referring domain  
-• pages visited  
-• geographic location (country only)  
-• preferred language used to display the webpage  
-• date and time when website pages were accessed  
+### Our Use of Cookies
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+We use cookies for the following purposes:  
+(a) Authentication: We use cookies to identify you when you visit our website and as you navigate our website;  
+(b) Status: We use cookies to help us to determine if you are logged into our website;  
+(c) Personalization: We use cookies to store information about your preferences and to personalize the website for you;  
+(d) Security: We use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally;  
+(e) Analysis: We use cookies to help us to analyze the use and performance of our website and services; 
+
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:   
+(a) <https://support.google.com/chrome/answer/95647?hl=en> (Chrome);   
+(b) <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox);   
+(c) <http://www.opera.com/help/tutorials/security/cookies/> (Opera);   
+(d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);   
+(e) <https://support.apple.com/kb/Ph31411> (Safari); and  
+(f) [https://privacy.microsoft.com/en-us/windows–10-microsoft-edge-and-privacy](https://privacy.microsoft.com/en-us/windows%E2%80%9310-microsoft-edge-and-privacy) (Edge). 
+
+Please note that blocking cookies may have a negative impact on the functions of many websites, including our Site. Some features of the Site may cease to be available to you. 
+
+### Google Analytics
+
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website.
+
+Google’s privacy policy is available at: <https://www.google.com/policies/privacy/>
+
+### Hotjar
+
+We use Hotjar in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device’s IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on [this link](https://www.hotjar.com/legal/policies/privacy).
+
+You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following [this opt-out link](https://www.hotjar.com/legal/compliance/opt-out).
+
+### Intercom
+
+We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as sign-up date and some personal information like your email address) to Intercom, Inc. (“Intercom”) and utilize Intercom to collect data for analytics purposes when you visit our website or use our product. As a data processor acting on our behalf, Intercom analyzes your use of our website and/or product and tracks our relationship by way of cookies and similar technologies so that we can improve our service to you. For more information on Intercom’s use of cookies, please visit <https://www.intercom.com/terms-and-policies#cookie-policy>. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Intercom, please visit <https://www.intercom.com/terms-and-policies#privacy>. Intercom’s services are governed by Intercom’s terms of use which can be found at <https://www.intercom.com/terms-and-policies#terms>. If you would like to opt out of having this information collected by or submitted to Intercom, please contact us.
+
+### Zapier
+
+Food Blogger Pro uses Zapier to send information such as your name and email address to other services listed here. This information is used by Zapier in accordance with [their privacy policy](https://zapier.com/privacy/).
+
+### ActiveCampaign
+
+Food Blogger Pro uses ActiveCampaign to send emails to our customers and customer prospects. We may share your name, email address, and payment history with ActiveCampaign to improve your experience with our email marketing. This information is used by ActiveCampaign in accordance with [their privacy policy](https://www.activecampaign.com/privacy-policy/).
+
+### Comments
+
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+Visitor comments may be checked through an automated spam detection service.
+
+### LeadPages
+
+Food Blogger Pro uses LeadPages to send information such as your name and email address to other services listed here, such as ActiveCampaign. This information is used by LeadPages in accordance with [their privacy policy](https://zapier.com/privacy/).
+
+### Cloudflare
+
+The Site uses Cloudflare for website security and caching. Any personal information obtained by Cloudflare is not shared with any third parties.
+
+**THIRD-PARTY USE OF PERSONAL INFORMATION**
+
+We may share your information with third parties when you explicitly authorize us to share your information.
+
+Additionally, the Site may use third-party service providers to service various aspects of the Site, which are detailed herein. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies. At this time, your personal information is not shared with any other third-party applications. This may be amended from time to time in the Site’s sole discretion. 
+
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Site to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
+
+### How Long We Retain Your Data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. For users that register on our website, we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time. Website administrators can also see and edit that information.
+
+### Media
+
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+
+### Embedded Content from Other Sites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Email Addresses
+
+We may collect your email address, but only if you voluntarily provide it to us. This may occur, for example, if you sign up to receive an email newsletter, or enter a promotion. We will use your email address for the purposes for which you provided it to us, and also from time to time to send you emails regarding the Site or other products or services that we believe may be of interest to you. You may opt out of such email communications at any time by clicking the “unsubscribe” button in the email.
+
+We will not share your email address with any third parties.
+
+In addition, we may ask you to create a user profile, which would allow you to create a username and password. We will store the username, but your password will not be visible in our records. If you are a resident of a country in the European Economic Area (EEA), please refer to the section below entitled “Additional Rights of EEA Residents.”
+
+### How Your Information May Be Used
+
+We may use the information collected in the following ways:
+
+  * To operate and maintain the Site;
+  * To create your account, identify you as a user of the Site, and customize the Site for your account;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Site;
+  * To process payment for purchases you make through the Site; or,
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
 
-Food Blogger Pro occasionally uses the [AdRoll display advertising network](http://www.adroll.com/) to collect visitor data on our site and then serve targeted display ads to you on other sites. Our partners use technology such as cookies and web beacons to collect this data. For more information or to opt-out of this type of advertising, please visit [AdRoll's privacy policy](http://www.adroll.com/about/privacy).
 
-Food Blogger Pro uses Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ad Settings](http://www.google.com/settings/ads) page. Users can completely block Google Analytics tracking using [Google’s Opt-out browser add-on](https://tools.google.com/dlpage/gaoptout).
+### Registration or Account Data
 
-Food Blogger Pro uses Facebook advertising and retargeting. Cookies and pixels are used to understand and deliver ads and make them more relevant to you. We may also use a cookie to learn whether someone who saw an ad on Facebook later visited our website.
+We may collect other information from you when you register with our Site in order to use various features. Such information could include your name, birthday, postal code, screen name, and password (if applicable). As you use the Site, we could collect other data that you provide voluntarily (such as comments that you post). We may also collect information about you through other methods, including research surveys, social media platforms, verification services, data services, as well as public sources. We may combine this data with your registration data in order to maintain a more thorough profile.
+
+We may use your personally-identifying information for a variety of our internal business purposes, such as creating a better user experience for the Site, diagnosing and troubleshooting malfunctions on the Site, better understanding how the Site is used, and making personalized recommendations to you.
+
+If you are a resident of a country in the European Economic Area (EEA), please refer to the section below entitled “Additional Rights of EEA Residents.”
+
+### Transactional Data
+
+We may process information relating to transactions, including purchases of goods and services, that you enter into with us and/or through our Site (“Transactional Data”). The Transactional Data may include your contact details, your card details and the transaction details. The transaction data may be processed for the purpose of supplying the purchased goods and services and keeping proper records of those transactions. Payment processing on our Site is handled by our payment services providers, PayPal and Stripe. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. You can find information about the payment services providers’ privacy policies and practices at <https://www.paypal.com/us/webapps/mpp/ua/privacy-full> and <https://stripe.com/privacy>.
+
+### Retargeting Ads
+
+From time to time, the Site may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Site. These companies use cookies to serve ads based on someone's past visits to the Site. This means, after visiting the Site, you may see an ad for our services. However, your personally identifiable information is not used by any remarketing service other than to present you offers from the Site. We use the following third-party service providers for remarketing: 
+
+  * Facebook: [Opt-out of Facebook remarketing here](http://www.facebook.com/help/568137493302217)
+  * Google: [Opt-out of Google remarketing here](https://support.google.com/ads/answer/2662922?hl=en)
+
+
+
+### Affiliate Program Participation
+
+The Site may engage in affiliate marketing, which is done by embedding tracking links into the Site. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+Food Blogger Pro, LLC is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Site will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+### Newsletters
+
+On the Site, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Site to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties
+
+**ANONYMOUS DATA**
+
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
+
+**PUBLICLY VISIBLE INFORMATION**
+
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible.
+
+**SENSITIVE PERSONAL INFORMATION**
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy. 
+
+**CHILDREN'S INFORMATION**
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at info@foodbloggerpro.com and we will use our best efforts to promptly remove such information from our records.
+
+### Additional Rights of EEA (European Economic Area) Residents
+
+If you are a resident of a country in the EEA, you have the rights, among others, to:  
+(i) access your personal data  
+(ii) ensure the accuracy of your personal data  
+(iii) the right to have us delete your personal data  
+(iv) the right to restrict further processing of your personal data, and  
+(v) the right to complain to a supervisory authority in your country of residence in the event that data is misused
+
+If you believe that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your residence, your place of work or the place of the alleged infringement.
+
+You may exercise any of your rights in relation to your personal data by written notice to us addressed to the following:
+
+EU Privacy Complaints  
+3600 Lexington Ave N  
+Suite #211  
+Shoreview, MN 55126
+
+### Sale of Business or Assets
+
+In the event that the Site or substantially all of its assets is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, the information we have collected about you may be one of the assets sold or merged in connection with that transaction.
+
+### Changes to the Privacy Policy
+
+We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
+
+### Contacting Us
+
+If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at info@foodbloggerpro.com.
+
+Or write to us at:
+
+Food Blogger Pro LLC  
+3600 Lexington Ave N  
+Suite #211  
+Shoreview, MN 55126
 
 * * *
