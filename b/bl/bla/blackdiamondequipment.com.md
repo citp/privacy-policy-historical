@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackdiamondequipment.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116171627id_/http%3A//blackdiamondequipment.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackdiamondequipment.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118231542id_/http%3A//www.blackdiamondequipment.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Black Diamond Privacy Policy
 
