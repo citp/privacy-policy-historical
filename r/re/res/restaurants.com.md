@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restaurants.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112030506id_/http%3A//www.restaurants.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurants.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119003409id_/http%3A//www.restaurants.com/privacy-policy) for the most accurate reproduction.*
 
 # Restaurants.com: find & compare the best restaurants near you
 
@@ -67,6 +67,14 @@ If we decide to change our privacy policy, we will post those changes on this pa
 ### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us via the contact form in our About page, or by using the information below. 
+
+### Restaurants.com
+
+PO Box 1567  
+Stony Brook, NY 11790  
+USA  
+Privacy@domainholdings.com  
+
 
 ### No Guarantees
 
