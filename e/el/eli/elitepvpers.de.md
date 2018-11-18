@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitepvpers.de privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709024632id_/https%3A//www.elitepvpers.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitepvpers.de privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118222445id_/https%3A//www.elitepvpers.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,7 +45,23 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google Inc. ("Google"). Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. [Privacy Policy](http://www.google.com/privacy_ads.html)
+
+**Google Analytics**
+
+Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google utilizes the Data collected to track and examine the use of this website, to prepare reports on its activities and share them with other Google services. [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
+
+**reCAPTCHA**
+
+This site uses a CAPTCHA to ensure humans are performing certain actions. The CAPTCHA provider may set a session cookie and get information about your internet browser and device accessing this website. [Privacy Policy](https://www.google.com/policies/privacy/)
+
+**Facebook Like button and social widgets (Facebook, Inc.)**
+
+The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc. Personal Data collected: Cookies and Usage Data. [Privacy Policy](https://www.facebook.com/privacy/explanation)
+
+**Twitter Tweet button and social widgets (Twitter, Inc.)**
+
+The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc. Personal Data collected: Cookies and Usage Data. [Privacy Policy](https://twitter.com/privacy)
 
 **Changes to this privacy policy**
 
@@ -59,4 +75,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us through our [contact form](https://www.elitepvpers.com/forum/sendmessage.php). 
 
-This document was last updated on August 23, 2012
+This document was last updated on June 22, 2018
