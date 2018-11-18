@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathpapa.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410182132id_/https%3A//www.mathpapa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathpapa.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118203607id_/https%3A//mathpapa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -- MathPapa
 
@@ -18,11 +18,11 @@ When you download and use our Service, we automatically collect information on t
 
 ### Analytics
 
-We perform analytics for internal use to improve our design and features. We do this ourselves and through third party providers, including [Google Analytics](https://www.google.com/analytics/) and [Mixpanel](https://www.mixpanel.com/). 
+We perform analytics for internal use to improve our design and features. We do this ourselves and through third party providers, including [Google Analytics](https://www.google.com/analytics/), [Mixpanel](https://www.mixpanel.com/), [Segment](https://www.segment.com/), and [ProfitWell](https://www.profitwell.com/). 
 
 ### Mobile Analytics
 
-We do not collect personally identifiable information, such as first and last name, address, or email, when you first download our Mobile App. We collect persistent identifiers from your device for internal use to improve our app design and features. We do this ourselves and through third party providers, including the restricted version of Flurry Analytics and Google Analytics. You may opt-out of Flurry's service with [Flurry opt-out](https://dev.flurry.com/secure/optOut.do). 
+We do not collect personally identifiable information, such as first and last name, address, or email, when you first download our Mobile App. We collect persistent identifiers from your device for internal use to improve our app design and features. We do this ourselves and through third party providers, including Flurry Analytics, Google Analytics, and Facebook. 
 
 ### Aggregate Statistics
 
@@ -54,13 +54,18 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 The Service may contain third-party advertising and information collected via such advertising shall be subject to the privacy policy of the advertising entity, including: 
 
-  * iAd: [Apple's Privacy Policy ](http://www.apple.com/privacy/privacy-policy/)
-  * AdMob: [Google's Privacy Policy ](http://www.google.com/policies/privacy/)
+  * Google DoubleClick: [Google's Privacy Policy ](http://www.google.com/policies/privacy/)
   * MoPub: [MoPub Privacy Policy ](http://www.mopub.com/legal/privacy/)
+  * AdMob: [Google's Privacy Policy ](http://www.google.com/policies/privacy/)
+  * Facebook: [Facebook's Privacy Policy ](https://www.facebook.com/policy.php)
 
 
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. MathPapa's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+### Payment Processing
+
+The Service may use third-party payment processors, including Stripe. The third-party applications may collect certain financial information from you to process payments. 
 
 ### Opt-Out Requests
 
