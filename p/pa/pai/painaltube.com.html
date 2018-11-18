@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the painaltube.com privacy policy that was archived on 2018-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180520000122id_/http%3A//www.painaltube.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the painaltube.com privacy policy that was archived on 2018-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181118105156id_/http%3A//www.painaltube.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -26,6 +26,16 @@
 	<!--[if lt IE 9]>
 		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
 	<![endif]-->
+	
+		<script type="text/javascript" async="" src="//cdn.engine.phn.doublepimp.com/Scripts/infinity.js.aspx?guid=cb111a88-e5c2-4232-9ec1-fe667f1ae808" id="infinity" data-guid="cb111a88-e5c2-4232-9ec1-fe667f1ae808" data-version="async"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-125390947-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-125390947-1');
+	</script>
+
+
 </head>
 
 <body class="popunder_watcher ">
@@ -129,9 +139,9 @@
 		<div class="row footbox clearfix">
 	<div class="col left"><div class="row hardlinks">
 	<ul>
-		<li><a href="https://www.honestpornreviews.com/default.cfm" rel="nofollow" target="_blank" class="track_click">Best Porn Sites</a></li>
+		<li><a href="https://www.honestpornreviews.com/default.cfm" target="_blank" class="track_click">Best Porn Sites</a></li>
 		<li><a href="http://www.efukt.com/?utm_source=painaltube&amp;utm_medium=hardlink&amp;utm_campaign=painaltube-footer" target="_blank" class="track_click">eFukt</a></li>
-		<li><a href="http://www.humoron.com/" target="_blank" class="track_click">Humor On</a></li>
+		<li><a href="https://fleshed.net" target="_blank" class="track_click">Fleshed</a></li>
 		<li><a href="http://www.amateuranalvideos.com/" target="_blank" class="track_click">Anal Videos</a></li>
 		<li><a href="https://www.mrporngeek.com" target="_blank" class="track_click">Free Porn Sites</a></li>
 		<li><a href="http://www.crazyshit.com" target="_blank" class="track_click">Crazy Videos</a></li>
@@ -146,75 +156,10 @@
 	<div class="col right"><p>© 2018 PainalTube.com · All Rights Reserved.<br><a href="http://www.painaltube.com/terms/" class="track_click">TOS</a> · <a href="http://www.painaltube.com/privacy/" class="track_click">Privacy Policy</a> · <a href="http://www.painaltube.com/dmca/" class="track_click">DMCA</a> · <a href="http://www.painaltube.com/2257/" class="track_click">2257</a> · <a href="http://www.painaltube.com/contact/" class="track_click">Contact</a></p></div>
 </div>	</div>
 	
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
-	//ga('create', 'UA-405365-5', 'auto');
-	ga('create', 'UA-405365-5', {
-		'clientId':	"11afc79e-8156-4652-956e-4d7b13125d0b"
-	});
-	ga('send', 'pageview');
-</script>
-	
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<script type="text/javascript" src="http://www.painaltube.com/static/js/core.js?v=1490740631"></script>
 	
-	<script type="text/javascript">
-	;jQuery(document).ready(function($) {
-		// @20160816 - prevent first click every 24 hours to allow popunder to load page in new tab
-		(function() {
-			var landing_cookie_name = "pt_landing_click";
-			var cookies_value = "; "+ document.cookie;
-			var cookies_parts = cookies_value.split("; "+ landing_cookie_name +"=");
-			var landing_cookie_exists = (cookies_parts.length == 2);
-			var landing_overlay_id = "pt_landing_overlay";
-			var landing_overlay_css = {};
-			var landing_overlay_events = "click.pt_landing_cookie";
-			
-			if(landing_cookie_exists) {
-				return;
-			}
-			
-			landing_overlay_css['position'] = "fixed";
-			landing_overlay_css['z-index'] = "1000";
-			landing_overlay_css['top'] = "0";
-			landing_overlay_css['right'] = "0";
-			landing_overlay_css['bottom'] = "0";
-			landing_overlay_css['left'] = "0";
-			landing_overlay_css['opacity'] = "0";
-			
-			if(/iP/.test(navigator.userAgent)) {
-				landing_overlay_css['cursor'] = "pointer";   // required for mobile browsers (iPhone/iPad)
-				
-				landing_overlay_events = "click.pt_landing_cookie touchstart.pt_landing_cookie";
-			}
-			
-			$("<div/>", {
-				'id': landing_overlay_id
-			}).css(landing_overlay_css).appendTo("body");
-			
-			$("html").on(landing_overlay_events, function(e) {
-				var landing_cookie_date = new Date();
-				
-				if(e.type == "touchstart") {
-					// touchstart = dragging, single tap = click
-					return;
-				}
-				
-				landing_cookie_date.setTime((landing_cookie_date.getTime() + (24 * 60 * 60 * 1000)));
-				
-				document.cookie = landing_cookie_name +"=1; expires="+ landing_cookie_date.toGMTString() +"; path=/";
-				
-				$("#"+ landing_overlay_id).empty().remove();
-				
-				$("html").off(landing_overlay_events);
-			});
-		}());
-	});
-</script>	
-		<script src="https://pto.ptawe.com/pu/?psid=ed_pnltb&amp;site=jsm&amp;target=fs&amp;utm_medium=partner&amp;utm_source=CSC&amp;cap=12&amp;width=1100&amp;height=800&amp;category=girl&amp;ms_notrack=1"></script>	
+		
+	<script data-cfasync="false" type="text/javascript">(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//cdn.engine.phn.doublepimp.com/Scripts/infinity.js.aspx?guid=cb111a88-e5c2-4232-9ec1-fe667f1ae808";s.id="infinity";s.setAttribute("data-guid","cb111a88-e5c2-4232-9ec1-fe667f1ae808");s.setAttribute("data-version","async");var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(s,e)})();</script>	
 	
 </body></html>
