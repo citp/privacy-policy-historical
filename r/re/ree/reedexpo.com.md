@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reedexpo.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608223941id_/http%3A//www.reedexpo.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedexpo.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118105821id_/http%3A//www.reedexpo.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reed Exhibitions
 
