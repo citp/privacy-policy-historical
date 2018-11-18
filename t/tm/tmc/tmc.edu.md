@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmc.edu privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520063427id_/http%3A//www.tmc.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmc.edu privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118230245id_/http%3A//www.tmc.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Texas Medical Center
 
@@ -10,21 +10,21 @@ This Privacy Policy applies to information we collect from you which includes an
 
 ### III. INFORMATION OBTAINED AT THE WEB SITE
 
-**General**
+ **General**
 
 We collect general information about Web Site usage, number of hits, length of hits, and other such general information pertaining to traffic on the Web Site, and may share this information with third parties on an aggregated basis.  We may also collect certain information about you, such as your IP (Internet Protocol) addresses, domain name, links you clicked on to reach the Web Site, and information regarding your operating system and browser when you browse the Web Site.  We may also retain your information and preferences you select when you visit the Web Site, so you don’t have to reenter the same information every time you visit the Web Site.  We may also collect information about you sent to us by third parties who have a link on the Web Site.
 
-**Cookies**
+ **Cookies**
 
 We use “cookies,” which are small files that are sent to your web browser and stored on your computer’s hard drive, or stored on our browser.  The majority of web browsers accept cookies, but the “help” menu on your browser should give you options for preventing, accepting, or receiving notice of new cookies. However, please be aware that if you block cookies, some Web Site functionality may be lost.  You consent to the placement of cookies on your hard drive when you visit the Web Site.
 
-**How We Protect The Privacy Of Children**
+ **How We Protect The Privacy Of Children**
 
 The Children’s Online Privacy Protection Program took effect on April 21, 2000 and pertains to web sites directed towards children under 13 years of age.  The Web Site is not directed towards children under 13 and TMC does not seek to collect information on any person under 13 years of age.  Therefore, if you are under 13 years of age, you may not search our Web Site, enroll in any of our programs, or use any of our services.  If you are eligible to use our Web Site, but are under the age of 18, we ask that your parents be involved in any information you provide to us about yourself or others.  By using the Web Site, you represent that you are not under 13 years of age.
 
 ### IV. INFORMATION COLLECTED BY US AND HOW WE USE IT
 
-**Personal Identifying Information**
+ **Personal Identifying Information**
 
 In connection with the services we provide or offer to our customers, we may request personal identifying information and we may request information from other sources.  Some examples of personal identifying information are name, address, email address, telephone number, financial information, government identification, social security number, transactional information (including billing, payment, account),  and other similar information.  Other than as described below under the heading “Medical Information”, we do not collect or request medical information about customers or visitors to our facilities, including visitors to the Web Site.
 
@@ -38,13 +38,13 @@ We use personal identifying information to help us provide our services to you t
 
 
 
-**Medical Information**
+ **Medical Information**
 
 Medical information includes, but is not limited to, information you voluntarily provide regarding your diseases, treatments, lifestyle behaviors, family history, and other similar information.  Medical information is not considered personal identifying information unless we can attribute an individual’s identity to the medical information.  Unless you are an employee or covered dependent of one of our employees visiting a special facility available only to such persons, we do not request and we do not encourage you to share with us any medical information about you.  If you do voluntarily disclose to us your medical information, we may share that medical information with third parties to whom we may direct you for further assistance.
 
 Our use of the medical information provided to us or which we gather at the special medical facility available only to our employees and their covered dependents is governed by a privacy policy provided to our employees and their covered dependents when they access that special facility.
 
-**Aggregate and Demographic Information**
+ **Aggregate and Demographic Information**
 
 Aggregate information is information presented in summary form which does not permit the identification of a specific individual without extraordinary effort.  We may also collect and retain demographic information we obtain from you and from third parties for fund raising purposes.  Also, we may collect aggregate information from third parties for research purposes.
 
@@ -62,7 +62,7 @@ Sometimes we may be legally obligated to disclose your information by law to gov
 
 ### VI. HOW WE PROTECT YOUR INFORMATION
 
-**General**
+ **General**
 
 We are committed to protecting the privacy of your personal identifying information.  We use what we believe to be industry standard security measures to protect your information.  However, such precautions do not guarantee the absolute safety of such information.  TMC makes no guarantees, warranties or representation that your information is protected from viruses and other security attacks.
 
