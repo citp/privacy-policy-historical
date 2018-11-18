@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smile.com.ng privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518093247id_/http%3A//smile.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smile.com.ng privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118101230id_/http%3A//smile.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Smile – Now you can
 
