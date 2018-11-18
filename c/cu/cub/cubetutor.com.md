@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubetutor.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517104831id_/http%3A//www.cubetutor.com/terms/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubetutor.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118111600id_/http%3A//www.cubetutor.com/terms/privacypolicy) for the most accurate reproduction.*
 
 # CubeTutor.com - MTG Cube Drafting & List Management
 
