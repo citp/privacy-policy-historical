@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onepiece900.blogspot.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609055534id_/http%3A//onepiece900.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepiece900.blogspot.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118210757id_/http%3A//onepiece900.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# One Piece Manga 907 Chapter Released Online: Privacy Policy
+# One Piece Manga 925 Chapter Released Online: Privacy Policy
 
 The following webpage outlines OnePiece900’s collection and use of personal information from it’s users. OnePiece900 values the privacy of our members and users, we will never share any personal information of anybody who logs on to OnePiece900 with anyone. This includes your e-mail address, name, and location. Upon logging on to OnePiece900 such things as your IP address and hostname are logged for statistical and security reasons.
 
