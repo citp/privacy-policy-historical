@@ -1,54 +1,88 @@
-<!--The following is the downloaded HTML source of the blackdiamondequipment.com privacy policy that was archived on 2017-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171116171627id_/http%3A//blackdiamondequipment.com/en/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blackdiamondequipment.com privacy policy that was archived on 2018-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181118231542id_/http%3A//www.blackdiamondequipment.com/en/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
-
 	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
 	
 
-	
 
-<meta charset="UTF-8">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0">
 <meta http-equiv="cleartype" content="on">
@@ -66,19 +100,10 @@
 <link href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw035be868/images/favicon.ico" rel="shortcut icon">
 
 
-
-
-
 <meta name="description" content=" Learn About Black Diamond's privacy policy and how we handle information you provide when transacting on our site. Black Diamond Equipment">
 <meta name="keywords" content="Privacy Policy">
 
-
-
-
-
-
-
-<script src="https://u.fg8dgt.com/pixel?type=js&amp;id=228&amp;cb=25357188" async="" type="text/javascript"></script><script src="https://u.fg8dgt.com/pixel?type=js&amp;id=223&amp;custom02=content&amp;cat=&amp;custom03=&amp;custom05=&amp;sku=&amp;cb=25357188" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script src="https://www.googleadservices.com/pagead/conversion.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">//<!--
+<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://cdn.avmws.com/1016109/"></script><script src="https://www.googleadservices.com/pagead/conversion.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://intljs.rmtag.com/115673.ct.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
 var dw = (window.dw || {});
 dw.ac = {
@@ -92,7 +117,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -138,57 +169,72 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
-<!-- Facebook Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.agent='pldemandware';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
 
-fbq('init', '184288841990449');
-fbq('track', "PageView");</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=184288841990449&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
 
 
 <script>
 	// Picture element HTML5 shiv
 	document.createElement( "picture" );
 </script>
-<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/js/lib/picturefill.min.js" async=""></script>
+<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/lib/picturefill.min.js" async=""></script>
 
 <!--  UI -->
 
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/css/normalize.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/lib/jquery/ui/jquery.ui.all.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/css/glyphicons.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/css/style.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/css/checkout.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/css/bdel.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/css/bdel-responsive.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/css/bdel-dialog.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/css/bdel-fonts.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/css/normalize.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/lib/jquery/ui/jquery.ui.all.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/css/glyphicons.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/css/style.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/css/checkout.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/css/bdel.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/css/bdel-responsive.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/css/bdel-dialog.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/css/bdel-fonts.css">
 
-<link rel="apple-touch-icon" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw82d98d6d/images/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw11036b66/images/apple-touch-icon-57x57.png">
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
-<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/lib/swiper/swiper.min.js"></script>
-<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/js/jquery.mobile.custom.min.js"></script>
-<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/js/jquery.cookie.js"></script>
-<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/js/Bdel.Responsive.js"></script>
-<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/js/Bdel.AreaNavigation.js"></script>
-<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/js/Bdel.DropDowns.js"></script>
-<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/js/Bdel.mailingListSignup.js"></script>
-<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/js/jquery.globalmenus.js"></script>
-<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/js/Bdel.app.js"></script>
+
+<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/lib/swiper/swiper.min.js"></script>
+<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/jquery.mobile.custom.min.js"></script>
+<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/jquery.cookie.js"></script>
+<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/Bdel.Responsive.js"></script>
+<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/Bdel.AreaNavigation.js"></script>
+<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/Bdel.DropDowns.js"></script>
+<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/Bdel.mailingListSignup.js"></script>
+<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/jquery.globalmenus.js"></script>
+<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/Bdel.app.js"></script>
 
 
 <script>
@@ -218,8 +264,8 @@ $(document).ready(function() {
 
 	
 		
-		<!--link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/css/style-responsive.css" /-->
-		<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/js/responsive.js"></script>
+		<!--link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/css/style-responsive.css" /-->
+		<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/responsive.js"></script>
 
 	
 	
@@ -269,14 +315,14 @@ $(document).ready(function() {
 
 <!-- End Facebook Pixel Code -->
 
-<!-- SIFT SCIENCE -->
+<!-- START SIFT SCIENCE -->
 
 
 	<!-- Inject the Sift Science JS tracking if enabled. -->
 
 	<script type="text/javascript">
 	  var _user_id = ''; // Set to the user's ID, username, or email address, or '' if not yet known.
-	  var _session_id = 'hFJGjsr0GzFthc9h5OefINO_-ThNrrtkW9I='; // Set to a unique session ID for the visitor's current browsing session.
+	  var _session_id = 'P9jGkt2SZaTCmRtECaICh892B6T_HXTzQqU='; // Set to a unique session ID for the visitor's current browsing session.
 	
 	  var _sift = window._sift = window._sift || [];
 	  _sift.push(['_setAccount', 'e8a1f26546']);
@@ -299,26 +345,57 @@ $(document).ready(function() {
 	 </script>
  
 
-<!-- END GOOGLE ANALYTICS -->
+<!-- END SIFT SCIENCE -->
 
+<!-- START Hivewyre Tracking -->
+
+	<script src="https://js.b1js.com/tagcontainer.js?id=fe6bf269d4bd4bb492f9c885bf98d555&amp;type=1 "></script>
+
+<!-- END Hivewyre Tracking -->
+
+<!--START Rakuten Marketing Tracking -->
+
+  <script type="text/javascript">
+  	(function (url) {
+  		/*Tracking Bootstrap Set Up DataLayer objects/properties here*/
+      	if(!window.DataLayer){
+        	window.DataLayer = {};
+      	}
+      	if(!DataLayer.events){
+        	DataLayer.events = {};
+      	}
+      	DataLayer.events.SPIVersion = DataLayer.events.SPIVersion || "3.3";
+      	DataLayer.events.SiteSection = "1";
+
+      	var loc, ct = document.createElement("script");
+      	ct.type = "text/javascript";
+      	ct.async = true; ct.src = url; loc = document.getElementsByTagName('script')[0];
+      	loc.parentNode.insertBefore(ct, loc);
+     	}(document.location.protocol + "//intljs.rmtag.com/115673.ct.js"));
+  </script>
+
+<!--END Rakuten Marketing Tracking -->
+
+<!-- START BING UET -->
+
+<!-- END BING UET -->
 	
-<script type="text/javascript">
-	jQuery(document).ready(function() {
-	app.util.clearDynamicCss();
+	<script type="text/javascript">
+		jQuery(document).ready(function() {
+			app.util.clearDynamicCss();
+			
+		});
+	</script>
 	
-	});
-</script>
+	<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/css/bdel-content.css">
+	<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/css/bdel-content-responsive.css">
+	<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/css/bdel-warranty.css">
+	<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/css/jquery.secondarymenu.css">
 	
-		
-	
-	<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/css/bdel-content.css">
-	<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/css/bdel-content-responsive.css">
-	<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/css/bdel-warranty.css">
-	<link rel="stylesheet" href="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/css/jquery.secondarymenu.css">
-	
-	<script type="text/javascript" src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/js/jquery.secondarymenu.js"></script>
-	<script type="text/javascript" src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/js/Bdel.Company.js"></script>
-	<script type="text/javascript" src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/js/Bdel.Facets.js"></script>
+	<script type="text/javascript" src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/jquery.isotope.min.js"></script>
+	<script type="text/javascript" src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/jquery.secondarymenu.js"></script>
+	<script type="text/javascript" src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/Bdel.Company.js"></script>
+	<script type="text/javascript" src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/Bdel.Facets.js"></script>
 </head>
 
 <body>
@@ -357,7 +434,11 @@ $(document).ready(function() {
 				<div class="swiper-wrapper">
 					
 						<div class="swiper-slide">
-    <div>FREE SHIPPING ON ORDERS OVER $100</div>
+<div><a href="https://www.blackdiamondequipment.com/en_US/manage-subscription.html"><span style="color:#FFFFFF;">GET THE BETA FIRST. SIGN UP FOR BD EMAILS HERE.</span></a></div>
+</div>
+
+<div class="swiper-slide">
+<div>GET A FREE HAT WITH ANY PURCHASE $150+ WITH CODE FREESTUFF</div>
 </div>
 					
 				</div>
@@ -376,7 +457,7 @@ $(document).ready(function() {
 
 <div id="country-dropdown">
 	<a href="javascript:void(0);" id="selectCountry">
-		<img class="countryFlag" src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwd16eecc2/images/flags/us.gif" width="16px" height="11px">
+		<img class="countryFlag" src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw394d810d/images/flags/us.gif" width="16px" height="11px">
 		<span class="glyphicons glyphicons-chevron-down dropdown-icon"></span>
 	</a>
 	<div id="countrypicker">
@@ -386,87 +467,82 @@ $(document).ready(function() {
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=US&amp;language=en_US"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwd16eecc2/images/flags/us.gif" width="16px" height="11px"> United States</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=US&amp;language=en_US"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw394d810d/images/flags/us.gif" width="16px" height="11px"> United States</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=CA&amp;language=en_CA"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw5c35051c/images/flags/ca.gif" width="16px" height="11px"> Canada</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=CA&amp;language=en_CA"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw8cdd0b18/images/flags/ca.gif" width="16px" height="11px"> Canada</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=AT&amp;language=de_AT"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw54585c35/images/flags/at.gif" width="16px" height="11px"> Austria</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=AT&amp;language=de_AT"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw8f743a34/images/flags/at.gif" width="16px" height="11px"> Austria</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=BE&amp;language=en_BE"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw2f6dc3e4/images/flags/be.gif" width="16px" height="11px"> Belgium</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=BE&amp;language=en_BE"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw90211ab5/images/flags/be.gif" width="16px" height="11px"> Belgium</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=CZ&amp;language=en_CZ"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw8ec894ac/images/flags/cz.gif" width="16px" height="11px"> Czech Republic</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=CZ&amp;language=en_CZ"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw48dfc034/images/flags/cz.gif" width="16px" height="11px"> Czech Republic</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=DK&amp;language=en_DK"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwd2fda160/images/flags/dk.gif" width="16px" height="11px"> Denmark</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=DK&amp;language=en_DK"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw7cbf3aa1/images/flags/dk.gif" width="16px" height="11px"> Denmark</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=FI&amp;language=en_FI"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw3521f9ea/images/flags/fi.gif" width="16px" height="11px"> Finland</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=FI&amp;language=en_FI"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwfd449a9b/images/flags/fi.gif" width="16px" height="11px"> Finland</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=FR&amp;language=fr_FR"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwc33d0668/images/flags/fr.gif" width="16px" height="11px"> France</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=FR&amp;language=fr_FR"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw7e36554a/images/flags/fr.gif" width="16px" height="11px"> France</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=DE&amp;language=de_DE"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw3f9028de/images/flags/de.gif" width="16px" height="11px"> Germany</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=DE&amp;language=de_DE"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwd2b74fbb/images/flags/de.gif" width="16px" height="11px"> Germany</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=IE&amp;language=en_IE"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw032bca63/images/flags/ie.gif" width="16px" height="11px"> Ireland</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=IE&amp;language=en_IE"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw1176dfde/images/flags/ie.gif" width="16px" height="11px"> Ireland</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=IT&amp;language=en_IT"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw71a98565/images/flags/it.gif" width="16px" height="11px"> Italy</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=IT&amp;language=en_IT"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwb4449907/images/flags/it.gif" width="16px" height="11px"> Italy</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=LU&amp;language=fr_LU"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw19dd2763/images/flags/lu.gif" width="16px" height="11px"> Luxembourg</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=LU&amp;language=fr_LU"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwa5213dd0/images/flags/lu.gif" width="16px" height="11px"> Luxembourg</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=NO&amp;language=en_NO"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwa9c3c3df/images/flags/no.gif" width="16px" height="11px"> Norway</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=NO&amp;language=en_NO"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw7398e4ba/images/flags/no.gif" width="16px" height="11px"> Norway</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=PL&amp;language=en_PL"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwad69234d/images/flags/pl.gif" width="16px" height="11px"> Poland</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=PL&amp;language=en_PL"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw73d7b50f/images/flags/pl.gif" width="16px" height="11px"> Poland</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=SI&amp;language=en_SI"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwb5c49c24/images/flags/si.gif" width="16px" height="11px"> Slovenia</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=ES&amp;language=en_ES"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwb8e77249/images/flags/es.gif" width="16px" height="11px"> Spain</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=ES&amp;language=en_ES"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw5dbc96ee/images/flags/es.gif" width="16px" height="11px"> Spain</a></li>
-					
-				
-					
-						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=SE&amp;language=en_SE"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwf3fda990/images/flags/se.gif" width="16px" height="11px"> Sweden</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=SE&amp;language=en_SE"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw2967ee48/images/flags/se.gif" width="16px" height="11px"> Sweden</a></li>
 					
 				
 					
@@ -476,18 +552,18 @@ $(document).ready(function() {
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=NL&amp;language=en_NL"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw57017c2f/images/flags/nl.gif" width="16px" height="11px"> Netherlands</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=NL&amp;language=en_NL"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwa8dedc2d/images/flags/nl.gif" width="16px" height="11px"> Netherlands</a></li>
 					
 				
 					
 						
-						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=GB&amp;language=en_GB"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw5d11204e/images/flags/gb.gif" width="16px" height="11px"> United Kingdom</a></li>
+						<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=GB&amp;language=en_GB"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwcdee394f/images/flags/gb.gif" width="16px" height="11px"> United Kingdom</a></li>
 					
 				
 					
 				
 				<hr>
-				<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=europeanunion&amp;language=default"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw4b74e947/images/flags/europeanunion.gif" width="16px" height="11px"> Global</a></li>
+				<li><a class="selectCountryHref" href="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=europeanunion&amp;language=default"><img src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw38f775cd/images/flags/europeanunion.gif" width="16px" height="11px"> Global</a></li>
 			</ul>
 		</div>
 	</div>
@@ -906,7 +982,7 @@ $(document).ready(function() {
 			</div>
 			<div class="header-2__logo">
 				<a id="sitelogo" href="http://www.blackdiamondequipment.com">
-					<img id="sitelogo" src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwca4b386f/images/logo-white.png" alt="Black Diamond Equipment" title="Black Diamond Equipment">
+					<img id="sitelogo" src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw7699e21f/images/logo-white.png" alt="Black Diamond Equipment" title="Black Diamond Equipment">
 				</a>
 			</div>
 			<div class="header-2__search">
@@ -966,6 +1042,17 @@ $(document).ready(function() {
 					 
 					
 				
+					<a href="/en/global-distributors/global-distributors.html" title="global-distributors" class="" target="">
+						Global Distribution Partners
+					</a>
+				</li>
+			
+				<li class="customerservice">
+					
+					
+					 
+					
+				
 					<a href="/en/customer-service/cs-landing.html" title="cs-landing" class="" target="">
 						Contact Us
 					</a>
@@ -977,8 +1064,8 @@ $(document).ready(function() {
 					 
 					
 				
-					<a href="/en/returns.html" title="returns" class="" target="">
-						Returns
+					<a href="/en/warranty-repairs.html" title="warranty-repairs" class="" target="">
+						Warranty/Repairs
 					</a>
 				</li>
 			
@@ -988,8 +1075,8 @@ $(document).ready(function() {
 					 
 					
 				
-					<a href="/en/warranty-repairs.html" title="warranty-repairs" class="" target="">
-						Warranty/Repairs
+					<a href="/en/returns.html" title="returns" class="" target="">
+						Returns
 					</a>
 				</li>
 			
@@ -1078,8 +1165,8 @@ $(document).ready(function() {
 					 
 					
 				
-					<a href="/en/pro-requirements.html" title="pro-requirements" class="" target="">
-						Pro Purchase Credentials
+					<a href="/en/guide-services.html" title="guide-services" class="" target="">
+						Guide Services
 					</a>
 				</li>
 			
@@ -1091,6 +1178,17 @@ $(document).ready(function() {
 				
 					<a href="/en/Jetforce-Software-Update.html" title="Jetforce-Software-Update" class="" target="">
 						Jetforce Software Update
+					</a>
+				</li>
+			
+				<li class="customerservice">
+					
+					
+					 
+					
+				
+					<a href="/en/pro-requirements.html" title="pro-requirements" class="" target="">
+						Pro Purchase Credentials
 					</a>
 				</li>
 			
@@ -1136,6 +1234,44 @@ $(document).ready(function() {
             
             <div id="mini-cart" data-carturl="http://www.blackdiamondequipment.com/en/cart">
                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1271,7 +1407,7 @@ $(document).ready(function() {
 				
 				
 					<a href="http://www.blackdiamondequipment.com/en/apparel" categoryclass="catapparel">
-						Men
+						Men's Apparel
 					</a>
 				
 				
@@ -1292,13 +1428,6 @@ $(document).ready(function() {
 							</li>
 						
 							<li>
-								<a href="http://www.blackdiamondequipment.com/en/mens-insulation" class="">
-								Insulation 
-								
-								</a>
-							</li>
-						
-							<li>
 								<a href="http://www.blackdiamondequipment.com/en/mens-shirts-hoodys" class="">
 								Shirts / Hoodies 
 								
@@ -1306,15 +1435,15 @@ $(document).ready(function() {
 							</li>
 						
 							<li>
-								<a href="http://www.blackdiamondequipment.com/en/mens-hats-tees" class="">
-								Hats / T-Shirts / Belts 
+								<a href="http://www.blackdiamondequipment.com/en/mens-pants-shorts" class="">
+								Pants / Shorts 
 								
 								</a>
 							</li>
 						
 							<li>
-								<a href="http://www.blackdiamondequipment.com/en/mens-pants-shorts" class="">
-								Pants / Shorts 
+								<a href="http://www.blackdiamondequipment.com/en/mens-hats-tees" class="">
+								Hats / Belts 
 								
 								</a>
 							</li>
@@ -1333,6 +1462,13 @@ $(document).ready(function() {
 								</a>
 							</li>
 						
+							<li>
+								<a href="http://www.blackdiamondequipment.com/en/mens-apparel-outlet" class="">
+								Sale 
+								
+								</a>
+							</li>
+						
 					</ul>
 				
 			</li>
@@ -1347,7 +1483,7 @@ $(document).ready(function() {
 				
 				
 					<a href="http://www.blackdiamondequipment.com/en/womens-apparel" categoryclass="catwomens-apparel">
-						Women
+						Women's Apparel
 					</a>
 				
 				
@@ -1368,29 +1504,29 @@ $(document).ready(function() {
 							</li>
 						
 							<li>
-								<a href="http://www.blackdiamondequipment.com/en/womens-insulation" class="">
-								Insulation 
-								
-								</a>
-							</li>
-						
-							<li>
 								<a href="http://www.blackdiamondequipment.com/en/womens-hats-tees" class="">
-								Tops / Shirts 
+								Tops / Hoodies 
 								
 								</a>
 							</li>
 						
 							<li>
 								<a href="http://www.blackdiamondequipment.com/en/womens-pants-shorts" class="">
-								Pants / Shorts 
+								Pants / Shorts / Capris 
 								
 								</a>
 							</li>
 						
 							<li>
 								<a href="http://www.blackdiamondequipment.com/en/womens-gloves" class="">
-								Gloves / Hats / Belts 
+								Gloves 
+								
+								</a>
+							</li>
+						
+							<li>
+								<a href="http://www.blackdiamondequipment.com/en/womens-accessories" class="">
+								Hats / Belts 
 								
 								</a>
 							</li>
@@ -1398,6 +1534,13 @@ $(document).ready(function() {
 							<li>
 								<a href="http://www.blackdiamondequipment.com/en/womens-all-apparel" class="">
 								All Apparel 
+								
+								</a>
+							</li>
+						
+							<li>
+								<a href="http://www.blackdiamondequipment.com/en/womens-apparel-outlet" class="">
+								Sale 
 								
 								</a>
 							</li>
@@ -1423,80 +1566,10 @@ $(document).ready(function() {
 					<ul data-category="catclimbing" class="subCat hide">
 						
 							<li>
-								<a href="http://www.blackdiamondequipment.com/en/climbing-belay-rappel" class="">
-								Belay / Rappel 
-								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/big-wall-climbing" class="">
-								Big Wall 
-								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/bouldering" class="">
-								Bouldering / Crash Pads 
-								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/climbing-carabiners-quickdraws" class="">
-								Carabiners / Quickdraws 
-								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/climbing-chalk-and-bags" class="">
-								Chalk Bags / Chalk 
-								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/climbing-gloves" class="">
-								Climbing Gloves 
-								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/climbing-packs" class="">
-								Climbing Packs 
-								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/climbing-ropes" class="">
-								Climbing Ropes 
-								
-								</a>
-							</li>
-						
-							<li>
 								<a href="http://www.blackdiamondequipment.com/en/climbing-shoes" class="new-category">
 								Climbing Shoes 
 								
 									<span class="category-new-callout">New</span>
-								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/climbing/crampons" class="">
-								Crampons 
-								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/climbing-dogbones-runners" class="">
-								Dogbones / Runners 
 								
 								</a>
 							</li>
@@ -1516,22 +1589,50 @@ $(document).ready(function() {
 							</li>
 						
 							<li>
+								<a href="http://www.blackdiamondequipment.com/en/climbing-packs" class="">
+								Climbing Packs 
+								
+								</a>
+							</li>
+						
+							<li>
+								<a href="http://www.blackdiamondequipment.com/en/climbing-ropes" class="">
+								Climbing Ropes 
+								
+								</a>
+							</li>
+						
+							<li>
 								<a href="http://www.blackdiamondequipment.com/en/climbing/ice-axes-piolets" class="">
-								Ice Axes / Piolets 
+								Ice / Alpine 
 								
 								</a>
 							</li>
 						
 							<li>
-								<a href="http://www.blackdiamondequipment.com/en/ice-climbing-protection" class="">
-								Ice Protection 
+								<a href="http://www.blackdiamondequipment.com/en/climbing/crampons" class="">
+								Crampons 
 								
 								</a>
 							</li>
 						
 							<li>
-								<a href="http://www.blackdiamondequipment.com/en/climbing/headlamps" class="">
-								Headlamps / Lanterns 
+								<a href="http://www.blackdiamondequipment.com/en/bouldering" class="">
+								Bouldering 
+								
+								</a>
+							</li>
+						
+							<li>
+								<a href="http://www.blackdiamondequipment.com/en/climbing-chalk-and-bags" class="">
+								Chalk Bags / Chalk 
+								
+								</a>
+							</li>
+						
+							<li>
+								<a href="http://www.blackdiamondequipment.com/en/climbing-belay-rappel" class="">
+								Belay / Rappel 
 								
 								</a>
 							</li>
@@ -1544,8 +1645,29 @@ $(document).ready(function() {
 							</li>
 						
 							<li>
-								<a href="http://www.blackdiamondequipment.com/en/ice-climbing-tools" class="">
-								Technical Ice Tools 
+								<a href="http://www.blackdiamondequipment.com/en/climbing-carabiners-quickdraws" class="">
+								Carabiners / Quickdraws 
+								
+								</a>
+							</li>
+						
+							<li>
+								<a href="http://www.blackdiamondequipment.com/en/big-wall-climbing" class="">
+								Big Wall 
+								
+								</a>
+							</li>
+						
+							<li>
+								<a href="http://www.blackdiamondequipment.com/en/climbing-gloves" class="">
+								Climbing Gloves 
+								
+								</a>
+							</li>
+						
+							<li>
+								<a href="http://www.blackdiamondequipment.com/en/climbing/headlamps" class="">
+								Headlamps / Lanterns 
 								
 								</a>
 							</li>
@@ -1571,57 +1693,35 @@ $(document).ready(function() {
 				
 				
 					<a href="http://www.blackdiamondequipment.com/en/ski-gear" categoryclass="catskiing">
-						Ski
+						Snow
 					</a>
 				
 				
 					<ul data-category="catskiing" class="subCat hide">
 						
 							<li>
-								<a href="http://www.blackdiamondequipment.com/en/jetforce-airbag" class="">
-								JetForce Avalanche Airbags 
+								<a href="http://www.blackdiamondequipment.com/en/skis" class="new-category">
+								Skis 
+								
+									<span class="category-new-callout">New</span>
 								
 								</a>
 							</li>
 						
 							<li>
-								<a href="http://www.blackdiamondequipment.com/en/pieps-avalanche-beacons" class="">
-								PIEPS Avalanche Beacons 
-								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/ski-bindings" class="">
+								<a href="http://www.blackdiamondequipment.com/en/ski-bindings" class="new-category">
 								Bindings 
 								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/ski-skins" class="">
-								Climbing Skins 
+									<span class="category-new-callout">New</span>
 								
 								</a>
 							</li>
 						
 							<li>
-								<a href="http://www.blackdiamondequipment.com/en/skiing/headlamps" class="">
-								Headlamps / Lanterns 
-								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/ski-poles" class="">
+								<a href="http://www.blackdiamondequipment.com/en/ski-poles" class="new-category">
 								Ski Poles 
 								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/ski-gloves" class="">
-								Snow Gloves 
+									<span class="category-new-callout">New</span>
 								
 								</a>
 							</li>
@@ -1634,15 +1734,40 @@ $(document).ready(function() {
 							</li>
 						
 							<li>
-								<a href="http://www.blackdiamondequipment.com/en/snow-safety-and-avalanche-gear" class="">
-								Snow Safety 
+								<a href="http://www.blackdiamondequipment.com/en/ski-gloves" class="">
+								Snow Gloves 
 								
 								</a>
 							</li>
 						
 							<li>
-								<a href="http://www.blackdiamondequipment.com/en/skis" class="">
-								Skis 
+								<a href="http://www.blackdiamondequipment.com/en/snow-safety-and-avalanche-gear" class="new-category">
+								Snow Safety 
+								
+									<span class="category-new-callout">New</span>
+								
+								</a>
+							</li>
+						
+							<li>
+								<a href="http://www.blackdiamondequipment.com/en/ski-skins" class="">
+								Backcountry Ski Skins 
+								
+								</a>
+							</li>
+						
+							<li>
+								<a href="http://www.blackdiamondequipment.com/en/skiing/headlamps" class="">
+								Headlamps / Lanterns 
+								
+								</a>
+							</li>
+						
+							<li>
+								<a href="http://www.blackdiamondequipment.com/en/snow-trekkers" class="new-category">
+								Snow Trekking 
+								
+									<span class="category-new-callout">New</span>
 								
 								</a>
 							</li>
@@ -1668,15 +1793,38 @@ $(document).ready(function() {
 				
 				
 					<a href="http://www.blackdiamondequipment.com/en/hiking-trekking-gear" categoryclass="cathikingtrekking">
-						Hike
+						Trail
 					</a>
 				
 				
 					<ul data-category="cathikingtrekking" class="subCat hide">
 						
 							<li>
-								<a href="http://www.blackdiamondequipment.com/en/hiking-accessories" class="">
-								Accessories 
+								<a href="http://www.blackdiamondequipment.com/en/trekking-poles" class="new-category">
+								Trekking Poles 
+								
+									<span class="category-new-callout">New</span>
+								
+								</a>
+							</li>
+						
+							<li>
+								<a href="http://www.blackdiamondequipment.com/en/hiking-packs" class="">
+								Packs 
+								
+								</a>
+							</li>
+						
+							<li>
+								<a href="http://www.blackdiamondequipment.com/en/headlamps-and-lanterns" class="">
+								Headlamps / Lanterns 
+								
+								</a>
+							</li>
+						
+							<li>
+								<a href="http://www.blackdiamondequipment.com/en/tents-and-bivys" class="">
+								Tents / Bivys 
 								
 								</a>
 							</li>
@@ -1696,29 +1844,8 @@ $(document).ready(function() {
 							</li>
 						
 							<li>
-								<a href="http://www.blackdiamondequipment.com/en/headlamps-and-lanterns" class="">
-								Headlamps / Lanterns 
-								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/hiking-packs" class="">
-								Packs 
-								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/tents-and-bivys" class="">
-								Tents / Bivys 
-								
-								</a>
-							</li>
-						
-							<li>
-								<a href="http://www.blackdiamondequipment.com/en/trekking-poles" class="">
-								Trekking Poles 
+								<a href="http://www.blackdiamondequipment.com/en/hiking-accessories" class="">
+								Accessories 
 								
 								</a>
 							</li>
@@ -1744,7 +1871,7 @@ $(document).ready(function() {
 				
 				
 					
-						<a class="inverted outlet" href="http://www.blackdiamondequipment.com/en/web-specials" categoryclass="catfeatured">Outlet</a>
+						<a class="inverted outlet" href="http://www.blackdiamondequipment.com/en/web-specials" categoryclass="catfeatured">Sale</a>
 					
 				
 				
@@ -1758,6 +1885,82 @@ $(document).ready(function() {
 		<a id="areaNavItemExperience" categoryclass="experiencemenu" href="http://www.blackdiamondequipment.com/en/experience-home">Experience</a>
 		<div id="storyNav" class="hide" data-category="experiencemenu">
 			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <script>
@@ -1775,119 +1978,150 @@ $(document).ready(function() {
 
 
 
+
+	 
+
+	
+
+
+	<a href="javascript:void(0);" class="storyNavHeading no-rollover">COMMUNITY</a>
+	<div class="community-menu">
+		<ul class="subCategoryMenu">
+			
+				
+				<li> 
+					<a href="/en/athletes.html" title="Athlete Profiles">Athlete Profiles</a>
+				</li>
+			
+		</ul>
+	</div>
+
+
 <a href="/en/bdtv-landing-page.html" class="storyNavHeading">BDTV</a>
 
-	
-		<a href="javascript:void(0);" class="storyNavHeading no-rollover">TECHNOLOGY</a>
-		<div class="technology">
-			<ul class="subCategoryMenu">
-				
-					
-					<li> 
-						<a href="/en/jetforce-technology.html" title="JetForce Technology">JetForce Technology</a>
-					</li>
-				
-					
-					<li> 
-						<a href="/en/first-light-technology.html" title="First Light Technology">First Light Technology</a>
-					</li>
-				
-					
-					<li> 
-						<a href="/en/camalot-ultralight.html" title="Camalot Ultralight Technology">Camalot Ultralight Technology</a>
-					</li>
-				
-					
-					<li> 
-						<a href="/en/helio-collection.html" title="Helio Collection">Helio Collection</a>
-					</li>
-				
-					
-					<li> 
-						<a href="/en/ropes.html" title="Climbing Ropes">Climbing Ropes</a>
-					</li>
-				
-					
-					<li> 
-						<a href="/en/defythedark.html" title="Lighting Collection">Lighting Collection</a>
-					</li>
-				
-					
-					<li> 
-						<a href="/en/BoundaryPro.html" title="Boundary Pro Skis">Boundary Pro Skis</a>
-					</li>
-				
-					
-					<li> 
-						<a href="/en/defythedark2.html" title="Defy the Dark">Defy the Dark</a>
-					</li>
-				
-					
-					<li> 
-						<a href="/en/climbing-shoes-launch-1.html" title="Black Diamond Climbing Shoes">Black Diamond Climbing Shoes</a>
-					</li>
-				
-					
-					<li> 
-						<a href="/en/blackdiamondskis.html" title="Black Diamond Skis">Black Diamond Skis</a>
-					</li>
-				
-			</ul>
-		</div>
-	
 
-	
-	
-		<a id="experience-stories" href="/en/experience-home" class="storyNavHeading">EXPERIENCE STORIES</a>
-		<div class="experience">
-			<ul class="subCategoryMenu">
+	<a href="javascript:void(0);" class="storyNavHeading no-rollover">TECHNOLOGY</a>
+	<div class="technology">
+		<ul class="subCategoryMenu">
+			
 				
-					
-					<li> 
-						<a href="/en/experience-home?fid=tripreports" title="Trip Reports">Trip Reports</a>
-					</li>
+				<li> 
+					<a href="/en/jetforce-technology.html" title="JetForce Technology">JetForce Technology</a>
+				</li>
+			
 				
-					
-					<li> 
-						<a href="/en/experience-home?fid=culture" title="Culture">Culture</a>
-					</li>
+				<li> 
+					<a href="/en/first-light-technology.html" title="First Light Technology">First Light Technology</a>
+				</li>
+			
 				
-					
-					<li> 
-						<a href="/en/experience-home?fid=qclab" title="QC Lab">QC Lab</a>
-					</li>
+				<li> 
+					<a href="/en/camalot-ultralight.html" title="Camalot Ultralight Technology">Camalot Ultralight Technology</a>
+				</li>
+			
 				
-					
-					<li> 
-						<a href="/en/experience-home?fid=events" title="Events">Events</a>
-					</li>
+				<li> 
+					<a href="/en/helio-collection.html" title="Helio Collection">Helio Collection</a>
+				</li>
+			
 				
-					
-					<li> 
-						<a href="/en/experience-home?fid=athletes" title="Athletes">Athletes</a>
-					</li>
+				<li> 
+					<a href="/en/ropes.html" title="Climbing Ropes">Climbing Ropes</a>
+				</li>
+			
 				
-					
-					<li> 
-						<a href="/en/experience-home?fid=advocacy" title="Advocacy">Advocacy</a>
-					</li>
+				<li> 
+					<a href="/en/defythedark.html" title="Lighting Collection">Lighting Collection</a>
+				</li>
+			
 				
-			</ul>
-		</div>
-	
+				<li> 
+					<a href="/en/blackdiamondskis.html" title="Black Diamond Skis">Black Diamond Skis</a>
+				</li>
+			
+				
+				<li> 
+					<a href="/en/BD-guide-BT-beacon.html" title="Black Diamond Guide BT Avalanche Beacon">Black Diamond Guide BT Avalanche Beacon</a>
+				</li>
+			
+				
+				<li> 
+					<a href="/en/rainwear-landingpage-1.html" title="Black Diamond Stretch Rainwear">Black Diamond Stretch Rainwear</a>
+				</li>
+			
+				
+				<li> 
+					<a href="/en/climbing-shoes-launch-1.html" title="Black Diamond Climbing Shoes">Black Diamond Climbing Shoes</a>
+				</li>
+			
+				
+				<li> 
+					<a href="/en/BD-jetforce-tour.html" title="Black Diamond Jetforce Tour">Black Diamond Jetforce Tour</a>
+				</li>
+			
+				
+				<li> 
+					<a href="/en/BoundaryPro.html" title="Boundary Pro Skis">Boundary Pro Skis</a>
+				</li>
+			
+				
+				<li> 
+					<a href="/en/defythedark2.html" title="Defy the Dark">Defy the Dark</a>
+				</li>
+			
+		</ul>
+	</div>
 
-	
-		<a href="javascript:void(0);" class="storyNavHeading no-rollover">COMMUNITY</a>
-		<div class="community-menu">
-			<ul class="subCategoryMenu">
+
+
+
+	<a id="experience-stories" href="/en/experience-home" class="storyNavHeading">EXPERIENCE STORIES</a>
+	<div class="experience">
+		<ul class="subCategoryMenu">
+			
 				
-					
-					<li> 
-						<a href="/en/athletes.html" title="Athlete Profiles">Athlete Profiles</a>
-					</li>
+				<li> 
+					<a href="/en/experience-home?fid=tripreports" title="Trip Reports">Trip Reports</a>
+				</li>
+			
 				
-			</ul>
-		</div>
+				<li> 
+					<a href="/en/experience-home?fid=culture" title="Culture">Culture</a>
+				</li>
+			
+				
+				<li> 
+					<a href="/en/experience-home?fid=qclab" title="QC Lab">QC Lab</a>
+				</li>
+			
+				
+				<li> 
+					<a href="/en/experience-home?fid=events" title="Events">Events</a>
+				</li>
+			
+				
+				<li> 
+					<a href="/en/experience-home?fid=athletes" title="Athletes">Athletes</a>
+				</li>
+			
+				
+				<li> 
+					<a href="/en/experience-home?fid=advocacy" title="Advocacy">Advocacy</a>
+				</li>
+			
+				
+				<li> 
+					<a href="/en/experience-home?fid=skiing" title="Skiing">Skiing</a>
+				</li>
+			
+				
+				<li> 
+					<a href="/en/experience-home?fid=climbing" title="Climbing">Climbing</a>
+				</li>
+			
+		</ul>
+	</div>
+
 
 		</div>
 	</li>
@@ -1945,7 +2179,7 @@ $(document).ready(function() {
 		
 			
 			
-				<a href="http://www.blackdiamondequipment.com/en/apparel" class="expando" targetclass="catapparel">Men</a>
+				<a href="http://www.blackdiamondequipment.com/en/apparel" class="expando" targetclass="catapparel">Men's Apparel</a>
 					<ul class="show-320">
 						
 							<li class="catapparel">
@@ -1963,13 +2197,6 @@ $(document).ready(function() {
 							</li>
 						
 							<li class="catapparel">
-								<a href="http://www.blackdiamondequipment.com/en/mens-insulation" class="">
-									Insulation
-									
-								</a>
-							</li>
-						
-							<li class="catapparel">
 								<a href="http://www.blackdiamondequipment.com/en/mens-shirts-hoodys" class="">
 									Shirts / Hoodies
 									
@@ -1977,15 +2204,15 @@ $(document).ready(function() {
 							</li>
 						
 							<li class="catapparel">
-								<a href="http://www.blackdiamondequipment.com/en/mens-hats-tees" class="">
-									Hats / T-Shirts / Belts
+								<a href="http://www.blackdiamondequipment.com/en/mens-pants-shorts" class="">
+									Pants / Shorts
 									
 								</a>
 							</li>
 						
 							<li class="catapparel">
-								<a href="http://www.blackdiamondequipment.com/en/mens-pants-shorts" class="">
-									Pants / Shorts
+								<a href="http://www.blackdiamondequipment.com/en/mens-hats-tees" class="">
+									Hats / Belts
 									
 								</a>
 							</li>
@@ -2000,6 +2227,13 @@ $(document).ready(function() {
 							<li class="catapparel">
 								<a href="http://www.blackdiamondequipment.com/en/mens-all-apparel" class="">
 									All Apparel
+									
+								</a>
+							</li>
+						
+							<li class="catapparel">
+								<a href="http://www.blackdiamondequipment.com/en/mens-apparel-outlet" class="">
+									Sale
 									
 								</a>
 							</li>
@@ -2044,20 +2278,6 @@ $(document).ready(function() {
 						
 							
 						
-							<li class="mens-insulation">
-								
-									<a href="http://www.blackdiamondequipment.com/en/mens-insulation">
-								
-									Insulation
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
 							<li class="mens-shirts-hoodys">
 								
 									<a href="http://www.blackdiamondequipment.com/en/mens-shirts-hoodys">
@@ -2072,11 +2292,11 @@ $(document).ready(function() {
 						
 							
 						
-							<li class="mens-hats-tees">
+							<li class="mens-pants-shorts">
 								
-									<a href="http://www.blackdiamondequipment.com/en/mens-hats-tees">
+									<a href="http://www.blackdiamondequipment.com/en/mens-pants-shorts">
 								
-									Hats / T-Shirts / Belts
+									Pants / Shorts
 								
 									</a>
 								
@@ -2086,11 +2306,11 @@ $(document).ready(function() {
 						
 							
 						
-							<li class="mens-pants-shorts">
+							<li class="mens-hats-tees">
 								
-									<a href="http://www.blackdiamondequipment.com/en/mens-pants-shorts">
+									<a href="http://www.blackdiamondequipment.com/en/mens-hats-tees">
 								
-									Pants / Shorts
+									Hats / Belts
 								
 									</a>
 								
@@ -2124,6 +2344,20 @@ $(document).ready(function() {
 								
 							</li>
 						
+							
+						
+							
+						
+							<li class="mens-web-specials">
+								
+									<a href="http://www.blackdiamondequipment.com/en/mens-apparel-outlet">
+								
+									Sale
+								
+									</a>
+								
+							</li>
+						
 					</ul>
 					<div class="clearfix"></div>
 				</div>
@@ -2142,7 +2376,7 @@ $(document).ready(function() {
 		
 			
 			
-				<a href="http://www.blackdiamondequipment.com/en/womens-apparel" class="expando" targetclass="catwomens-apparel">Women</a>
+				<a href="http://www.blackdiamondequipment.com/en/womens-apparel" class="expando" targetclass="catwomens-apparel">Women's Apparel</a>
 					<ul class="show-320">
 						
 							<li class="catwomens-apparel">
@@ -2160,29 +2394,29 @@ $(document).ready(function() {
 							</li>
 						
 							<li class="catwomens-apparel">
-								<a href="http://www.blackdiamondequipment.com/en/womens-insulation" class="">
-									Insulation
-									
-								</a>
-							</li>
-						
-							<li class="catwomens-apparel">
 								<a href="http://www.blackdiamondequipment.com/en/womens-hats-tees" class="">
-									Tops / Shirts
+									Tops / Hoodies
 									
 								</a>
 							</li>
 						
 							<li class="catwomens-apparel">
 								<a href="http://www.blackdiamondequipment.com/en/womens-pants-shorts" class="">
-									Pants / Shorts
+									Pants / Shorts / Capris
 									
 								</a>
 							</li>
 						
 							<li class="catwomens-apparel">
 								<a href="http://www.blackdiamondequipment.com/en/womens-gloves" class="">
-									Gloves / Hats / Belts
+									Gloves
+									
+								</a>
+							</li>
+						
+							<li class="catwomens-apparel">
+								<a href="http://www.blackdiamondequipment.com/en/womens-accessories" class="">
+									Hats / Belts
 									
 								</a>
 							</li>
@@ -2190,6 +2424,13 @@ $(document).ready(function() {
 							<li class="catwomens-apparel">
 								<a href="http://www.blackdiamondequipment.com/en/womens-all-apparel" class="">
 									All Apparel
+									
+								</a>
+							</li>
+						
+							<li class="catwomens-apparel">
+								<a href="http://www.blackdiamondequipment.com/en/womens-apparel-outlet" class="">
+									Sale
 									
 								</a>
 							</li>
@@ -2234,25 +2475,11 @@ $(document).ready(function() {
 						
 							
 						
-							<li class="womens-insulation">
-								
-									<a href="http://www.blackdiamondequipment.com/en/womens-insulation">
-								
-									Insulation
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
 							<li class="womens-hats-tees">
 								
 									<a href="http://www.blackdiamondequipment.com/en/womens-hats-tees">
 								
-									Tops / Shirts
+									Tops / Hoodies
 								
 									</a>
 								
@@ -2266,7 +2493,7 @@ $(document).ready(function() {
 								
 									<a href="http://www.blackdiamondequipment.com/en/womens-pants-shorts">
 								
-									Pants / Shorts
+									Pants / Shorts / Capris
 								
 									</a>
 								
@@ -2280,7 +2507,7 @@ $(document).ready(function() {
 								
 									<a href="http://www.blackdiamondequipment.com/en/womens-gloves">
 								
-									Gloves / Hats / Belts
+									Gloves
 								
 									</a>
 								
@@ -2295,6 +2522,20 @@ $(document).ready(function() {
 									<a href="http://www.blackdiamondequipment.com/en/womens-all-apparel">
 								
 									All Apparel
+								
+									</a>
+								
+							</li>
+						
+							
+						
+							
+						
+							<li class="womens-apparel-webspecials">
+								
+									<a href="http://www.blackdiamondequipment.com/en/womens-apparel-outlet">
+								
+									Sale
 								
 									</a>
 								
@@ -2327,80 +2568,10 @@ $(document).ready(function() {
 					<ul class="show-320">
 						
 							<li class="catclimbing">
-								<a href="http://www.blackdiamondequipment.com/en/climbing-belay-rappel" class="">
-									Belay / Rappel
-									
-								</a>
-							</li>
-						
-							<li class="catclimbing">
-								<a href="http://www.blackdiamondequipment.com/en/big-wall-climbing" class="">
-									Big Wall
-									
-								</a>
-							</li>
-						
-							<li class="catclimbing">
-								<a href="http://www.blackdiamondequipment.com/en/bouldering" class="">
-									Bouldering / Crash Pads
-									
-								</a>
-							</li>
-						
-							<li class="catclimbing">
-								<a href="http://www.blackdiamondequipment.com/en/climbing-carabiners-quickdraws" class="">
-									Carabiners / Quickdraws
-									
-								</a>
-							</li>
-						
-							<li class="catclimbing">
-								<a href="http://www.blackdiamondequipment.com/en/climbing-chalk-and-bags" class="">
-									Chalk Bags / Chalk
-									
-								</a>
-							</li>
-						
-							<li class="catclimbing">
-								<a href="http://www.blackdiamondequipment.com/en/climbing-gloves" class="">
-									Climbing Gloves
-									
-								</a>
-							</li>
-						
-							<li class="catclimbing">
-								<a href="http://www.blackdiamondequipment.com/en/climbing-packs" class="">
-									Climbing Packs
-									
-								</a>
-							</li>
-						
-							<li class="catclimbing">
-								<a href="http://www.blackdiamondequipment.com/en/climbing-ropes" class="">
-									Climbing Ropes
-									
-								</a>
-							</li>
-						
-							<li class="catclimbing">
 								<a href="http://www.blackdiamondequipment.com/en/climbing-shoes" class="new-category">
 									Climbing Shoes
 									
 										<span class="category-new-callout">New</span>
-									
-								</a>
-							</li>
-						
-							<li class="catclimbing">
-								<a href="http://www.blackdiamondequipment.com/en/climbing/crampons" class="">
-									Crampons
-									
-								</a>
-							</li>
-						
-							<li class="catclimbing">
-								<a href="http://www.blackdiamondequipment.com/en/climbing-dogbones-runners" class="">
-									Dogbones / Runners
 									
 								</a>
 							</li>
@@ -2420,22 +2591,50 @@ $(document).ready(function() {
 							</li>
 						
 							<li class="catclimbing">
+								<a href="http://www.blackdiamondequipment.com/en/climbing-packs" class="">
+									Climbing Packs
+									
+								</a>
+							</li>
+						
+							<li class="catclimbing">
+								<a href="http://www.blackdiamondequipment.com/en/climbing-ropes" class="">
+									Climbing Ropes
+									
+								</a>
+							</li>
+						
+							<li class="catclimbing">
 								<a href="http://www.blackdiamondequipment.com/en/climbing/ice-axes-piolets" class="">
-									Ice Axes / Piolets
+									Ice / Alpine
 									
 								</a>
 							</li>
 						
 							<li class="catclimbing">
-								<a href="http://www.blackdiamondequipment.com/en/ice-climbing-protection" class="">
-									Ice Protection
+								<a href="http://www.blackdiamondequipment.com/en/climbing/crampons" class="">
+									Crampons
 									
 								</a>
 							</li>
 						
 							<li class="catclimbing">
-								<a href="http://www.blackdiamondequipment.com/en/climbing/headlamps" class="">
-									Headlamps / Lanterns
+								<a href="http://www.blackdiamondequipment.com/en/bouldering" class="">
+									Bouldering
+									
+								</a>
+							</li>
+						
+							<li class="catclimbing">
+								<a href="http://www.blackdiamondequipment.com/en/climbing-chalk-and-bags" class="">
+									Chalk Bags / Chalk
+									
+								</a>
+							</li>
+						
+							<li class="catclimbing">
+								<a href="http://www.blackdiamondequipment.com/en/climbing-belay-rappel" class="">
+									Belay / Rappel
 									
 								</a>
 							</li>
@@ -2448,8 +2647,29 @@ $(document).ready(function() {
 							</li>
 						
 							<li class="catclimbing">
-								<a href="http://www.blackdiamondequipment.com/en/ice-climbing-tools" class="">
-									Technical Ice Tools
+								<a href="http://www.blackdiamondequipment.com/en/climbing-carabiners-quickdraws" class="">
+									Carabiners / Quickdraws
+									
+								</a>
+							</li>
+						
+							<li class="catclimbing">
+								<a href="http://www.blackdiamondequipment.com/en/big-wall-climbing" class="">
+									Big Wall
+									
+								</a>
+							</li>
+						
+							<li class="catclimbing">
+								<a href="http://www.blackdiamondequipment.com/en/climbing-gloves" class="">
+									Climbing Gloves
+									
+								</a>
+							</li>
+						
+							<li class="catclimbing">
+								<a href="http://www.blackdiamondequipment.com/en/climbing/headlamps" class="">
+									Headlamps / Lanterns
 									
 								</a>
 							</li>
@@ -2473,151 +2693,11 @@ $(document).ready(function() {
 						
 							
 						
-							<li class="belay-rappel">
-								
-									<a href="http://www.blackdiamondequipment.com/en/climbing-belay-rappel">
-								
-									Belay / Rappel
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
-							<li class="big-wall">
-								
-									<a href="http://www.blackdiamondequipment.com/en/big-wall-climbing">
-								
-									Big Wall
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
-							<li class="bouldering">
-								
-									<a href="http://www.blackdiamondequipment.com/en/bouldering">
-								
-									Bouldering / Crash Pads
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
-							<li class="carabiners-quickdraws">
-								
-									<a href="http://www.blackdiamondequipment.com/en/climbing-carabiners-quickdraws">
-								
-									Carabiners / Quickdraws
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
-							<li class="chalkchalk-bags">
-								
-									<a href="http://www.blackdiamondequipment.com/en/climbing-chalk-and-bags">
-								
-									Chalk Bags / Chalk
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
-							<li class="climbing-gloves">
-								
-									<a href="http://www.blackdiamondequipment.com/en/climbing-gloves">
-								
-									Climbing Gloves
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
-							<li class="climbing-packs">
-								
-									<a href="http://www.blackdiamondequipment.com/en/climbing-packs">
-								
-									Climbing Packs
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
-							<li class="climbing-ropes">
-								
-									<a href="http://www.blackdiamondequipment.com/en/climbing-ropes">
-								
-									Climbing Ropes
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
 							<li class="climbing-shoes">
 								
 									<a href="http://www.blackdiamondequipment.com/en/climbing-shoes">
 								
 									Climbing Shoes
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
-							<li class="crampons">
-								
-									<a href="http://www.blackdiamondequipment.com/en/climbing/crampons">
-								
-									Crampons
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
-							<li class="dogbones-runners">
-								
-									<a href="http://www.blackdiamondequipment.com/en/climbing-dogbones-runners">
-								
-									Dogbones / Runners
 								
 									</a>
 								
@@ -2655,11 +2735,39 @@ $(document).ready(function() {
 						
 							
 						
+							<li class="climbing-packs">
+								
+									<a href="http://www.blackdiamondequipment.com/en/climbing-packs">
+								
+									Climbing Packs
+								
+									</a>
+								
+							</li>
+						
+							
+						
+							
+						
+							<li class="climbing-ropes">
+								
+									<a href="http://www.blackdiamondequipment.com/en/climbing-ropes">
+								
+									Climbing Ropes
+								
+									</a>
+								
+							</li>
+						
+							
+						
+							
+						
 							<li class="ice-axes-piolets">
 								
 									<a href="http://www.blackdiamondequipment.com/en/climbing/ice-axes-piolets">
 								
-									Ice Axes / Piolets
+									Ice / Alpine
 								
 									</a>
 								
@@ -2669,11 +2777,11 @@ $(document).ready(function() {
 						
 							
 						
-							<li class="ice-protection">
+							<li class="crampons">
 								
-									<a href="http://www.blackdiamondequipment.com/en/ice-climbing-protection">
+									<a href="http://www.blackdiamondequipment.com/en/climbing/crampons">
 								
-									Ice Protection
+									Crampons
 								
 									</a>
 								
@@ -2683,11 +2791,39 @@ $(document).ready(function() {
 						
 							
 						
-							<li class="climbing-lighting">
+							<li class="bouldering">
 								
-									<a href="http://www.blackdiamondequipment.com/en/climbing/headlamps">
+									<a href="http://www.blackdiamondequipment.com/en/bouldering">
 								
-									Headlamps / Lanterns
+									Bouldering
+								
+									</a>
+								
+							</li>
+						
+							
+						
+							
+						
+							<li class="chalkchalk-bags">
+								
+									<a href="http://www.blackdiamondequipment.com/en/climbing-chalk-and-bags">
+								
+									Chalk Bags / Chalk
+								
+									</a>
+								
+							</li>
+						
+							
+						
+							
+						
+							<li class="belay-rappel">
+								
+									<a href="http://www.blackdiamondequipment.com/en/climbing-belay-rappel">
+								
+									Belay / Rappel
 								
 									</a>
 								
@@ -2711,11 +2847,53 @@ $(document).ready(function() {
 						
 							
 						
-							<li class="technical-ice-tools">
+							<li class="carabiners-quickdraws">
 								
-									<a href="http://www.blackdiamondequipment.com/en/ice-climbing-tools">
+									<a href="http://www.blackdiamondequipment.com/en/climbing-carabiners-quickdraws">
 								
-									Technical Ice Tools
+									Carabiners / Quickdraws
+								
+									</a>
+								
+							</li>
+						
+							
+						
+							
+						
+							<li class="big-wall">
+								
+									<a href="http://www.blackdiamondequipment.com/en/big-wall-climbing">
+								
+									Big Wall
+								
+									</a>
+								
+							</li>
+						
+							
+						
+							
+						
+							<li class="climbing-gloves">
+								
+									<a href="http://www.blackdiamondequipment.com/en/climbing-gloves">
+								
+									Climbing Gloves
+								
+									</a>
+								
+							</li>
+						
+							
+						
+							
+						
+							<li class="climbing-lighting">
+								
+									<a href="http://www.blackdiamondequipment.com/en/climbing/headlamps">
+								
+									Headlamps / Lanterns
 								
 									</a>
 								
@@ -2755,54 +2933,32 @@ $(document).ready(function() {
 		
 			
 			
-				<a href="http://www.blackdiamondequipment.com/en/ski-gear" class="expando" targetclass="catskiing">Ski</a>
+				<a href="http://www.blackdiamondequipment.com/en/ski-gear" class="expando" targetclass="catskiing">Snow</a>
 					<ul class="show-320">
 						
 							<li class="catskiing">
-								<a href="http://www.blackdiamondequipment.com/en/jetforce-airbag" class="">
-									JetForce Avalanche Airbags
+								<a href="http://www.blackdiamondequipment.com/en/skis" class="new-category">
+									Skis
+									
+										<span class="category-new-callout">New</span>
 									
 								</a>
 							</li>
 						
 							<li class="catskiing">
-								<a href="http://www.blackdiamondequipment.com/en/pieps-avalanche-beacons" class="">
-									PIEPS Avalanche Beacons
-									
-								</a>
-							</li>
-						
-							<li class="catskiing">
-								<a href="http://www.blackdiamondequipment.com/en/ski-bindings" class="">
+								<a href="http://www.blackdiamondequipment.com/en/ski-bindings" class="new-category">
 									Bindings
 									
-								</a>
-							</li>
-						
-							<li class="catskiing">
-								<a href="http://www.blackdiamondequipment.com/en/ski-skins" class="">
-									Climbing Skins
+										<span class="category-new-callout">New</span>
 									
 								</a>
 							</li>
 						
 							<li class="catskiing">
-								<a href="http://www.blackdiamondequipment.com/en/skiing/headlamps" class="">
-									Headlamps / Lanterns
-									
-								</a>
-							</li>
-						
-							<li class="catskiing">
-								<a href="http://www.blackdiamondequipment.com/en/ski-poles" class="">
+								<a href="http://www.blackdiamondequipment.com/en/ski-poles" class="new-category">
 									Ski Poles
 									
-								</a>
-							</li>
-						
-							<li class="catskiing">
-								<a href="http://www.blackdiamondequipment.com/en/ski-gloves" class="">
-									Snow Gloves
+										<span class="category-new-callout">New</span>
 									
 								</a>
 							</li>
@@ -2815,15 +2971,40 @@ $(document).ready(function() {
 							</li>
 						
 							<li class="catskiing">
-								<a href="http://www.blackdiamondequipment.com/en/snow-safety-and-avalanche-gear" class="">
-									Snow Safety
+								<a href="http://www.blackdiamondequipment.com/en/ski-gloves" class="">
+									Snow Gloves
 									
 								</a>
 							</li>
 						
 							<li class="catskiing">
-								<a href="http://www.blackdiamondequipment.com/en/skis" class="">
-									Skis
+								<a href="http://www.blackdiamondequipment.com/en/snow-safety-and-avalanche-gear" class="new-category">
+									Snow Safety
+									
+										<span class="category-new-callout">New</span>
+									
+								</a>
+							</li>
+						
+							<li class="catskiing">
+								<a href="http://www.blackdiamondequipment.com/en/ski-skins" class="">
+									Backcountry Ski Skins
+									
+								</a>
+							</li>
+						
+							<li class="catskiing">
+								<a href="http://www.blackdiamondequipment.com/en/skiing/headlamps" class="">
+									Headlamps / Lanterns
+									
+								</a>
+							</li>
+						
+							<li class="catskiing">
+								<a href="http://www.blackdiamondequipment.com/en/snow-trekkers" class="new-category">
+									Snow Trekking
+									
+										<span class="category-new-callout">New</span>
 									
 								</a>
 							</li>
@@ -2847,25 +3028,11 @@ $(document).ready(function() {
 						
 							
 						
-							<li class="jetforce">
+							<li class="skis">
 								
-									<a href="http://www.blackdiamondequipment.com/en/jetforce-airbag">
+									<a href="http://www.blackdiamondequipment.com/en/skis">
 								
-									JetForce Avalanche Airbags
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
-							<li class="beacons">
-								
-									<a href="http://www.blackdiamondequipment.com/en/pieps-avalanche-beacons">
-								
-									PIEPS Avalanche Beacons
+									Skis
 								
 									</a>
 								
@@ -2889,53 +3056,11 @@ $(document).ready(function() {
 						
 							
 						
-							<li class="skins">
-								
-									<a href="http://www.blackdiamondequipment.com/en/ski-skins">
-								
-									Climbing Skins
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
-							<li class="skiing-lighting">
-								
-									<a href="http://www.blackdiamondequipment.com/en/skiing/headlamps">
-								
-									Headlamps / Lanterns
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
 							<li class="ski-poles">
 								
 									<a href="http://www.blackdiamondequipment.com/en/ski-poles">
 								
 									Ski Poles
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
-							<li class="snow-gloves">
-								
-									<a href="http://www.blackdiamondequipment.com/en/ski-gloves">
-								
-									Snow Gloves
 								
 									</a>
 								
@@ -2959,6 +3084,20 @@ $(document).ready(function() {
 						
 							
 						
+							<li class="snow-gloves">
+								
+									<a href="http://www.blackdiamondequipment.com/en/ski-gloves">
+								
+									Snow Gloves
+								
+									</a>
+								
+							</li>
+						
+							
+						
+							
+						
 							<li class="snow-safety">
 								
 									<a href="http://www.blackdiamondequipment.com/en/snow-safety-and-avalanche-gear">
@@ -2973,11 +3112,25 @@ $(document).ready(function() {
 						
 							
 						
-							<li class="skis">
+							<li class="skins">
 								
-									<a href="http://www.blackdiamondequipment.com/en/skis">
+									<a href="http://www.blackdiamondequipment.com/en/ski-skins">
 								
-									Skis
+									Backcountry Ski Skins
+								
+									</a>
+								
+							</li>
+						
+							
+						
+							
+						
+							<li class="skiing-lighting">
+								
+									<a href="http://www.blackdiamondequipment.com/en/skiing/headlamps">
+								
+									Headlamps / Lanterns
 								
 									</a>
 								
@@ -3019,12 +3172,35 @@ $(document).ready(function() {
 		
 			
 			
-				<a href="http://www.blackdiamondequipment.com/en/hiking-trekking-gear" class="expando" targetclass="cathikingtrekking">Hike</a>
+				<a href="http://www.blackdiamondequipment.com/en/hiking-trekking-gear" class="expando" targetclass="cathikingtrekking">Trail</a>
 					<ul class="show-320">
 						
 							<li class="cathikingtrekking">
-								<a href="http://www.blackdiamondequipment.com/en/hiking-accessories" class="">
-									Accessories
+								<a href="http://www.blackdiamondequipment.com/en/trekking-poles" class="new-category">
+									Trekking Poles
+									
+										<span class="category-new-callout">New</span>
+									
+								</a>
+							</li>
+						
+							<li class="cathikingtrekking">
+								<a href="http://www.blackdiamondequipment.com/en/hiking-packs" class="">
+									Packs
+									
+								</a>
+							</li>
+						
+							<li class="cathikingtrekking">
+								<a href="http://www.blackdiamondequipment.com/en/headlamps-and-lanterns" class="">
+									Headlamps / Lanterns
+									
+								</a>
+							</li>
+						
+							<li class="cathikingtrekking">
+								<a href="http://www.blackdiamondequipment.com/en/tents-and-bivys" class="">
+									Tents / Bivys
 									
 								</a>
 							</li>
@@ -3044,29 +3220,8 @@ $(document).ready(function() {
 							</li>
 						
 							<li class="cathikingtrekking">
-								<a href="http://www.blackdiamondequipment.com/en/headlamps-and-lanterns" class="">
-									Headlamps / Lanterns
-									
-								</a>
-							</li>
-						
-							<li class="cathikingtrekking">
-								<a href="http://www.blackdiamondequipment.com/en/hiking-packs" class="">
-									Packs
-									
-								</a>
-							</li>
-						
-							<li class="cathikingtrekking">
-								<a href="http://www.blackdiamondequipment.com/en/tents-and-bivys" class="">
-									Tents / Bivys
-									
-								</a>
-							</li>
-						
-							<li class="cathikingtrekking">
-								<a href="http://www.blackdiamondequipment.com/en/trekking-poles" class="">
-									Trekking Poles
+								<a href="http://www.blackdiamondequipment.com/en/hiking-accessories" class="">
+									Accessories
 									
 								</a>
 							</li>
@@ -3090,11 +3245,53 @@ $(document).ready(function() {
 						
 							
 						
-							<li class="accessories">
+							<li class="trekking-poles">
 								
-									<a href="http://www.blackdiamondequipment.com/en/hiking-accessories">
+									<a href="http://www.blackdiamondequipment.com/en/trekking-poles">
 								
-									Accessories
+									Trekking Poles
+								
+									</a>
+								
+							</li>
+						
+							
+						
+							
+						
+							<li class="packs">
+								
+									<a href="http://www.blackdiamondequipment.com/en/hiking-packs">
+								
+									Packs
+								
+									</a>
+								
+							</li>
+						
+							
+						
+							
+						
+							<li class="lighting">
+								
+									<a href="http://www.blackdiamondequipment.com/en/headlamps-and-lanterns">
+								
+									Headlamps / Lanterns
+								
+									</a>
+								
+							</li>
+						
+							
+						
+							
+						
+							<li class="shelter">
+								
+									<a href="http://www.blackdiamondequipment.com/en/tents-and-bivys">
+								
+									Tents / Bivys
 								
 									</a>
 								
@@ -3132,53 +3329,11 @@ $(document).ready(function() {
 						
 							
 						
-							<li class="lighting">
+							<li class="accessories">
 								
-									<a href="http://www.blackdiamondequipment.com/en/headlamps-and-lanterns">
+									<a href="http://www.blackdiamondequipment.com/en/hiking-accessories">
 								
-									Headlamps / Lanterns
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
-							<li class="packs">
-								
-									<a href="http://www.blackdiamondequipment.com/en/hiking-packs">
-								
-									Packs
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
-							<li class="shelter">
-								
-									<a href="http://www.blackdiamondequipment.com/en/tents-and-bivys">
-								
-									Tents / Bivys
-								
-									</a>
-								
-							</li>
-						
-							
-						
-							
-						
-							<li class="trekking-poles">
-								
-									<a href="http://www.blackdiamondequipment.com/en/trekking-poles">
-								
-									Trekking Poles
+									Accessories
 								
 									</a>
 								
@@ -3245,7 +3400,7 @@ $(document).ready(function() {
 								
 									<a href="http://www.blackdiamondequipment.com/en/web-specials">
 								
-									Outlet
+									Sale
 								
 									</a>
 								
@@ -3269,7 +3424,7 @@ $(document).ready(function() {
         </li>
         
         
-            <li><a class="webspecials" href="/en/web-specials">Outlet</a></li>
+            <li><a class="webspecials" href="/en/web-specials">Sale</a></li>
             
                 <li><a class="giftcerts" href="/en/gift-card">eGift Cards</a></li>
             
@@ -3293,6 +3448,27 @@ $(document).ready(function() {
 </script>
 
 <div id="col1">
+
+	
+	 
+
+	
+
+	
+		<a href="javascript:void(0);" class="expando storyHeading no-rollover" targetclass="community">COMMUNITY</a>
+		<div class="story-menu">
+			<ul class="subCategoryMenu">
+				
+					
+					<li> 
+						<a class="community" href="/en/athletes.html" title="Athlete Profiles">Athlete Profiles</a>
+					</li>
+				
+			</ul>
+		</div>
+		<div class="clearfix"></div>
+	
+
 	
 		<a href="javascript:void(0);" class="expando storyHeading no-rollover" targetclass="bdtvmenu">BDTV</a>
 		<div class="bdtvmenu story-menu">
@@ -3380,12 +3556,17 @@ $(document).ready(function() {
 				
 					
 					<li> 
-						<a class="tech" href="/en/BoundaryPro.html" title="Boundary Pro Skis">Boundary Pro Skis</a>
+						<a class="tech" href="/en/blackdiamondskis.html" title="Black Diamond Skis">Black Diamond Skis</a>
 					</li>
 				
 					
 					<li> 
-						<a class="tech" href="/en/defythedark2.html" title="Defy the Dark">Defy the Dark</a>
+						<a class="tech" href="/en/BD-guide-BT-beacon.html" title="Black Diamond Guide BT Avalanche Beacon">Black Diamond Guide BT Avalanche Beacon</a>
+					</li>
+				
+					
+					<li> 
+						<a class="tech" href="/en/rainwear-landingpage-1.html" title="Black Diamond Stretch Rainwear">Black Diamond Stretch Rainwear</a>
 					</li>
 				
 					
@@ -3395,7 +3576,17 @@ $(document).ready(function() {
 				
 					
 					<li> 
-						<a class="tech" href="/en/blackdiamondskis.html" title="Black Diamond Skis">Black Diamond Skis</a>
+						<a class="tech" href="/en/BD-jetforce-tour.html" title="Black Diamond Jetforce Tour">Black Diamond Jetforce Tour</a>
+					</li>
+				
+					
+					<li> 
+						<a class="tech" href="/en/BoundaryPro.html" title="Boundary Pro Skis">Boundary Pro Skis</a>
+					</li>
+				
+					
+					<li> 
+						<a class="tech" href="/en/defythedark2.html" title="Defy the Dark">Defy the Dark</a>
 					</li>
 				
 			</ul>
@@ -3442,32 +3633,21 @@ $(document).ready(function() {
 						<a class="exp-stories" href="/en/experience-home?fid=advocacy" title="Advocacy">Advocacy</a>
 					</li>
 				
+					
+					<li> 
+						<a class="exp-stories" href="/en/experience-home?fid=skiing" title="Skiing">Skiing</a>
+					</li>
+				
+					
+					<li> 
+						<a class="exp-stories" href="/en/experience-home?fid=climbing" title="Climbing">Climbing</a>
+					</li>
+				
 			</ul>
 		</div>
 		<div class="clearfix"></div>
 	
 </div>
-
-<div class="separator"></div>
-
-<div id="col3">
-	
-		<a href="javascript:void(0);" class="expando storyHeading no-rollover" targetclass="community">COMMUNITY</a>
-		<div class="story-menu">
-			<ul class="subCategoryMenu">
-				
-					
-					<li> 
-						<a class="community" href="/en/athletes.html" title="Athlete Profiles">Athlete Profiles</a>
-					</li>
-				
-			</ul>
-		</div>
-	<div class="clearfix"></div>
-</div>
-
-
-
 
         </li>
     </ul><!-- /category-links -->
@@ -3550,11 +3730,6 @@ $(document).ready(function() {
 			
 				
 				<option class="country-option" data-countrycode="PL" value="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=PL&amp;language=en_PL">Poland</option>
-			
-		
-			
-				
-				<option class="country-option" data-countrycode="SI" value="/on/demandware.store/Sites-BlackDiamond-Site/default/Home-SetCountryLanguage?pipeline=Page-Show%3fcid%3dprivacy-policy&amp;countryCode=SI&amp;language=en_SI">Slovenia</option>
 			
 		
 			
@@ -3991,9 +4166,9 @@ $(document).ready(function() {
 		setFlag("US");
 		
 		function setFlag(countryCode) {
-			var url = "http://www.blackdiamondequipment.com/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143" + '/images/flags/' + countryCode.toLowerCase() + '.gif';
+			var url = "http://www.blackdiamondequipment.com/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359" + '/images/flags/' + countryCode.toLowerCase() + '.gif';
 			if (window.location.protocol == "https:") {
-				url = "https://www.blackdiamondequipment.com/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143" + '/images/flags/' + countryCode.toLowerCase() + '.gif';
+				url = "https://www.blackdiamondequipment.com/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359" + '/images/flags/' + countryCode.toLowerCase() + '.gif';
 			}
 			$('select#selectCountry').css('background', '#fff url(' + url + ') no-repeat');
 			$('select#selectCountry').css('background-position', '4px center');
@@ -4049,19 +4224,6 @@ $(document).ready(function() {
 				
 					<a href="/en/community.html" title="community" class="" target="">
 						Community
-					</a>
-				</li>
-			
-				<li class="company-nav">
-					
-					
-					
-						
-					 
-					
-				
-					<a href="/en/marketingassets" title="marketing-assets" class="" target="">
-						Marketing Assets
 					</a>
 				</li>
 			
@@ -4216,6 +4378,17 @@ $(document).ready(function() {
 					 
 					
 				
+					<a href="/en/global-distributors/global-distributors.html" title="global-distributors" class="" target="">
+						Global Distribution Partners
+					</a>
+				</li>
+			
+				<li class="customerservice">
+					
+					
+					 
+					
+				
 					<a href="/en/customer-service/cs-landing.html" title="cs-landing" class="" target="">
 						Contact Us
 					</a>
@@ -4227,8 +4400,8 @@ $(document).ready(function() {
 					 
 					
 				
-					<a href="/en/returns.html" title="returns" class="" target="">
-						Returns
+					<a href="/en/warranty-repairs.html" title="warranty-repairs" class="" target="">
+						Warranty/Repairs
 					</a>
 				</li>
 			
@@ -4238,8 +4411,8 @@ $(document).ready(function() {
 					 
 					
 				
-					<a href="/en/warranty-repairs.html" title="warranty-repairs" class="" target="">
-						Warranty/Repairs
+					<a href="/en/returns.html" title="returns" class="" target="">
+						Returns
 					</a>
 				</li>
 			
@@ -4328,8 +4501,8 @@ $(document).ready(function() {
 					 
 					
 				
-					<a href="/en/pro-requirements.html" title="pro-requirements" class="" target="">
-						Pro Purchase Credentials
+					<a href="/en/guide-services.html" title="guide-services" class="" target="">
+						Guide Services
 					</a>
 				</li>
 			
@@ -4341,6 +4514,17 @@ $(document).ready(function() {
 				
 					<a href="/en/Jetforce-Software-Update.html" title="Jetforce-Software-Update" class="" target="">
 						Jetforce Software Update
+					</a>
+				</li>
+			
+				<li class="customerservice">
+					
+					
+					 
+					
+				
+					<a href="/en/pro-requirements.html" title="pro-requirements" class="" target="">
+						Pro Purchase Credentials
 					</a>
 				</li>
 			
@@ -4549,6 +4733,17 @@ You can call us at (801) 278-5552.</p>
 					 
 					
 				
+					<a href="/en/global-distributors/global-distributors.html" title="global-distributors" class="" target="">
+						Global Distribution Partners
+					</a>
+				</li>
+			
+				<li class="customerservice">
+					
+					
+					 
+					
+				
 					<a href="/en/customer-service/cs-landing.html" title="cs-landing" class="" target="">
 						Contact Us
 					</a>
@@ -4560,8 +4755,8 @@ You can call us at (801) 278-5552.</p>
 					 
 					
 				
-					<a href="/en/returns.html" title="returns" class="" target="">
-						Returns
+					<a href="/en/warranty-repairs.html" title="warranty-repairs" class="" target="">
+						Warranty/Repairs
 					</a>
 				</li>
 			
@@ -4571,8 +4766,8 @@ You can call us at (801) 278-5552.</p>
 					 
 					
 				
-					<a href="/en/warranty-repairs.html" title="warranty-repairs" class="" target="">
-						Warranty/Repairs
+					<a href="/en/returns.html" title="returns" class="" target="">
+						Returns
 					</a>
 				</li>
 			
@@ -4661,8 +4856,8 @@ You can call us at (801) 278-5552.</p>
 					 
 					
 				
-					<a href="/en/pro-requirements.html" title="pro-requirements" class="" target="">
-						Pro Purchase Credentials
+					<a href="/en/guide-services.html" title="guide-services" class="" target="">
+						Guide Services
 					</a>
 				</li>
 			
@@ -4674,6 +4869,17 @@ You can call us at (801) 278-5552.</p>
 				
 					<a href="/en/Jetforce-Software-Update.html" title="Jetforce-Software-Update" class="" target="">
 						Jetforce Software Update
+					</a>
+				</li>
+			
+				<li class="customerservice">
+					
+					
+					 
+					
+				
+					<a href="/en/pro-requirements.html" title="pro-requirements" class="" target="">
+						Pro Purchase Credentials
 					</a>
 				</li>
 			
@@ -4729,18 +4935,56 @@ You can call us at (801) 278-5552.</p>
 
          
 					
-				
-				<script type="text/javascript">
-					var pro_link = '<li><a title="Show or update your pro membership" href="https://www.blackdiamondequipment.com/en/pro">Pro Purchase Application</a></li>';
-					$('.secondary-navigation ul').append(pro_link);
-				</script>
 					
+					<script type="text/javascript">
+						var pro_link = '<li><a title="Show or update your pro membership" href="https://www.blackdiamondequipment.com/en/pro">Pro Purchase Application</a></li>';
+						$('.secondary-navigation ul').append(pro_link);
+					</script>			
 				</div>
+				
 			</div>		
 
 		</div><!-- /main -->
 		
 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4789,13 +5033,13 @@ You can call us at (801) 278-5552.</p>
 		<div class="footer-1__inner">
 			<div class="footer-logo">
 				<a id="sitelogo" href="http://www.blackdiamondequipment.com">
-					<img id="sitelogo" src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dwca4b386f/images/logo-white.png" alt="Black Diamond Equipment" title="Black Diamond Equipment">
+					<img id="sitelogo" src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/dw7699e21f/images/logo-white.png" alt="Black Diamond Equipment" title="Black Diamond Equipment">
 				</a>
 			</div>
 
 			<div class="footer-newsletter">
 				
-					<form action="http://www.blackdiamondequipment.com/on/demandware.store/Sites-BlackDiamond-Site/default/Page-Show/C942295956" method="post" id="footerSubForm">
+					<form action="http://www.blackdiamondequipment.com/on/demandware.store/Sites-BlackDiamond-Site/default/Page-Show/C1497700904" method="post" id="footerSubForm">
 						<input type="text" id="footerEmail" name="footerEmail" placeholder="Email Address" required="">
 						<input id="submit" class="submitbutton" type="submit" value="Subscribe" name="dwfrm_profile_confirm" onclick="if ($('[name$=\'_addtoemaillist\']').is(':checked')) { ga('send', 'event', 'MailingList', 'Join', 'Footer'); }">
 					</form>
@@ -4817,7 +5061,7 @@ You can call us at (801) 278-5552.</p>
 		<img alt="Free Shipping" src="http://www.blackdiamondequipment.com/on/demandware.static/-/Sites/default/dwaf00be4c/images/footer/Free-shipping-icon.svg" title="Free Shipping">
 	</div>
 	<div class="ffs-text">
-		<div class="ffs-headline">Free shipping</div>
+		<div class="ffs-headline">Free Economy shipping</div>
 		<div class="ffs-callout">on orders over $100</div>
 	</div>
 </div>	
@@ -4872,9 +5116,12 @@ You can call us at (801) 278-5552.</p>
 	<li class="parent">Company</li>
 	<li><a href="http://www.blackdiamondequipment.com/en/about-us.html">About Us</a></li>
 	<li><a href="http://www.blackdiamondequipment.com/en/retailers-and-dealers">Find A Dealer</a></li>
+	<li><a href="http://www.blackdiamondequipment.com/en/global-distributors/global-distributors.html">Global Distributors</a></li>
 	<li><a href="http://www.blackdiamondequipment.com/en/pro-requirements.html">Pro Credentials</a></li>
 	<li><a href="http://www.blackdiamondequipment.com/en/pro">Pro Application</a></li>
+	<li><a href="http://www.blackdiamondequipment.com/en/careers.html">Careers</a></li>
 	<li><a href="http://www.blackdiamondequipment.com/en/recalls.html">Recall Info</a></li>
+	<li><a href="http://www.blackdiamondequipment.com/en/bd-affiliates/bd-affiliates.html">BD Affiliate Program</a></li>
 	<li><a href="http://www.blackdiamondequipment.com/en/gift-card">eGift Cards</a></li>
 </ul>
 
@@ -5065,6 +5312,24 @@ You can call us at (801) 278-5552.</p>
 			</div>
 		</div>
 	</div>
+<!-- START CONNECTED TV Tracking Pixel  -->	
+	
+		<img src="https://tags.w55c.net/rs?id=482aff57fd634e55905aef875ccdf18c&amp;t=homepage" style="display:none;">
+	
+<!-- END CONNECTED TV Tracking Pixel  -->	
+	
+
+          <div id="ttdUniversalPixelTage9c1df1cd76047a1ad6038122cfeef54" style="display:none">
+            <script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
+            <script type="text/javascript">
+                (function(global) {
+                    if (typeof TTDUniversalPixelApi === 'function') {
+                        var universalPixelApi = new TTDUniversalPixelApi();
+                        universalPixelApi.init("ae7kwv9", ["hvexvuu"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTage9c1df1cd76047a1ad6038122cfeef54");
+                    }
+                })(this);
+            </script>
+        </div>
 
 </footer>
 
@@ -5073,8 +5338,8 @@ You can call us at (801) 278-5552.</p>
 
 
 
-<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/lib/jquery/jcarousel/jquery.jcarousel.min.js"></script>
-<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/lib/jquery/validate/jquery.validate.min-1.15.0.js"></script>
+<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/lib/jquery/jcarousel/jquery.jcarousel.min.js"></script>
+<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/lib/jquery/validate/jquery.validate.min-1.15.0.js"></script>
 <script src="/on/demandware.store/Sites-BlackDiamond-Site/default/Resources-Load?t=appresources"></script>
 
 
@@ -5084,16 +5349,13 @@ You can call us at (801) 278-5552.</p>
 	app.isCategoryPage = false;
 </script>
 
-<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/js/app.js?v=5.13.0"></script>
+<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/app.js?v=5.13.0"></script>
 
 <script>app.page.setContext({"title":"Customer Service","type":"customerservice","ns":"account"});</script>
 <script>
 var meta = "Learn About Black Diamond's privacy policy and how we handle information you provide when transacting on our site.";
 var keywords = "Privacy Policy";
 </script>
-
-
-
 
 
 
@@ -5123,7 +5385,7 @@ var keywords = "Privacy Policy";
 		});
 	
 		function getRecs() {
-			var recsURL = "/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/js/Bdel.LtkRecommendations.js";
+			var recsURL = "/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/js/Bdel.LtkRecommendations.js";
 			$.getScript(recsURL, function() {
 				var priceURL = "/on/demandware.store/Sites-BlackDiamond-Site/default/Product-Price";
 				var ratingURL = "/on/demandware.store/Sites-BlackDiamond-Site/default/Product-Rating";
@@ -5293,6 +5555,18 @@ var keywords = "Privacy Policy";
 </noscript>
 	
 
+<!-- START Avantlink Tracking -->
+
+	<script type="text/javascript">
+		(function() {
+		var avm = document.createElement('script'); avm.type = 'text/javascript'; avm.async = true;
+		avm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.avmws.com/1016109/';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(avm, s);
+		})();
+	</script>
+
+<!-- END Avantlink Tracking -->
+
 
 	<!-- Start of LiveChat (www.livechatinc.com) code -->
 	<script type="text/javascript">
@@ -5308,48 +5582,6 @@ var keywords = "Privacy Policy";
 
 
 
-
-	
-	
-	
-		<!-- JavaScript based. Auto SSL. Auto fallback to image -->
-		<!-- Start FastG8 Pixel Tag -->
-		<script type="text/javascript">
-		(function() {
-		var elem = document.createElement('script');
-		elem.src = (document.location.protocol == "https:" ? "https://" : "http://") + "u.fg8dgt.com/pixel?type=js&id=223&custom02=content&cat=&custom03=&custom05=&sku=&cb=25357188";
-		elem.async = true;
-		elem.type = "text/javascript";
-		var scpt = document.getElementsByTagName('script')[0];
-		scpt.parentNode.insertBefore(elem, scpt);
-		})();
-		</script>
-		<noscript>
-		<img src="//u.fg8dgt.com/pixel?type=img&id=223&custom02=content&cat=&custom03=&custom05=&sku=&cb=25357188" style="display: none;" border="0" height="1" width="1"/>
-		</noscript>
-		<!-- End FastG8 Pixel Tag -->
-	
-	
-	<!-- JavaScript based. Auto SSL. Auto fallback to image -->
-	<!-- Start FastG8 Pixel Tag -->
-	<script type="text/javascript">
-	(function() {
-	var elem = document.createElement('script');
-	elem.src = (document.location.protocol == "https:" ? "https://" : "http://") + "u.fg8dgt.com/pixel?type=js&id=228&cb=25357188";
-	elem.async = true;
-	elem.type = "text/javascript";
-	var scpt = document.getElementsByTagName('script')[0];
-	scpt.parentNode.insertBefore(elem, scpt);
-	})();
-	</script>
-	<noscript>
-	<img src="//u.fg8dgt.com/pixel?type=img&id=228&cb=25357188" style="display: none;" border="0" height="1" width="1"/>
-	</noscript>
-	<!-- End FastG8 Pixel Tag -->
-
-
-
-		
 		
 	</div><!--  /wrapper -->
 	
@@ -5358,7 +5590,7 @@ var keywords = "Privacy Policy";
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.blackdiamondequipment.com/on/demandware.store/Sites-BlackDiamond-Site/default/__Analytics-Tracking";
+        var trackingUrl = "http://www.blackdiamondequipment.com/on/demandware.store/Sites-BlackDiamond-Site/default/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -5370,9 +5602,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/internal/jscript/dwanalytics-16.9.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1510815852143/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-BlackDiamond-Site/-/default/v1542524561359/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 <script src="https://cdn.siftscience.com/s.js"></script></body></html>
