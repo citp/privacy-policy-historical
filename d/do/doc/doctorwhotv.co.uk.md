@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doctorwhotv.co.uk privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602231451id_/http%3A//www.doctorwhotv.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorwhotv.co.uk privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119004425id_/http%3A//www.doctorwhotv.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Doctor Who TV
+# Privacy Policy - Doctor Who TV
 
 At www.doctorwhotv.co.uk, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.doctorwhotv.co.uk and how it is used.
 
@@ -11,7 +11,7 @@ Like many other Web sites, www.doctorwhotv.co.uk makes use of log files. The inf
 www.doctorwhotv.co.uk does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 **DoubleClick DART Cookie**  
-Google, as a third party vendor, uses cookies to serve ads on www.doctorwhotv.co.uk. Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.doctorwhotv.co.uk and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+Google, as a third party vendor, uses cookies to serve ads on www.doctorwhotv.co.uk. Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.doctorwhotv.co.uk and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: Google Adsense, Amazon and Forbidden Planet.
 
