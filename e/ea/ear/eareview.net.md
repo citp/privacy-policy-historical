@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eareview.net privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518154003id_/https%3A//eareview.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eareview.net privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119002806id_/https%3A//eareview.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,4 +72,4 @@ If Birt Ltd. or substantially all of its assets were acquired, or in the unlikel
 
 Although most changes are likely to be minor, Birt Ltd. may change the Privacy Policy from time to time, in Birt Ltd.’s sole discretion. Visitors are encouraged to frequently check this page for any changes to the Privacy Policy. Your continued use of the eareview.net website and the software provided on this website after any change in this Privacy Policy will constitute your acceptance of such change.
 
-This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.AcceptReject [Read More](http://eareview.net/privacy-policy)
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More](http://eareview.net/privacy-policy)
