@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyestat.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624145353id_/http%3A//about.runnerspace.com/gprofile.php%3Fdo%3Dtitle%26title_id%3D774%26mgroup_id%3D38022) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyestat.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118135733id_/http%3A//about.runnerspace.com/gprofile.php%3Fdo%3Dtitle%26title_id%3D774%26mgroup_id%3D38022) for the most accurate reproduction.*
 
 # About - Privacy Policy - Privacy Policy
 
@@ -19,7 +19,7 @@ In addition, RunnerSpace collects other non-PII including IP address, aggregate 
 
 RunnerSpace Members may also choose to provide or store non-PII information in their profiles, including but not limited to date of birth, interests, likes, follows, hobbies, lifestyle choices, events, groups and teams with whom they are affiliated (schools, companies), videos and/or pictures, blogs, news, results, private messages, bulletins or personal statements (collectively “Profile Information”). The Profile Information in a Member’s profile is provided at his or her sole discretion.
 
-RunnerSpace Members can change their Registration PII and Profile Information at any time and can control how Visitors, other Members and RunnerSpace communicate with them by controlling their account settings, available within the “Edit Details” and "Notifications / Privacy Settings" http://www.runnerspace.com/forum/index.php?app=core&module=usercp&tab=core&area=notifications portion of their RunnerSpace profile.
+RunnerSpace Members can change their Registration PII and Profile Information at any time and can control how Visitors, other Members and RunnerSpace communicate with them by controlling their account settings, available within the “Edit Details” and "Notifications / Privacy Settings" //www.runnerspace.com/forum/index.php?app=core&module=usercp&tab=core&area=notifications portion of their RunnerSpace profile.
 
 Cookies. Cookies are small bits of information that RunnerSpace places on your computer. RunnerSpace uses cookies to identify your Internet browser, store Users’ preferences, and determine whether you have installed the enabling software needed to access certain material on the RunnerSpace Services. Data in cookies may be read to authenticate user sessions or provide services.
 
@@ -53,7 +53,7 @@ RunnerSpace will only use the PII you provide under this Privacy Policy in a man
 
 In order to locate other RunnerSpace Members that you may already know in the physical or social world, RunnerSpace may allow Users to search for Members using Registration PII (i.e., full name or email address, Facebook friends and other social media outlets). RunnerSpace also allows Users to browse for certain Profile Information in order to help connect with Members (i.e., schools, teams, events and/or companies where Users may have attended or worked). RunnerSpace may also enable Members to publicly display some Registration PII as an element of their Profile Information if they choose to do so via a profile setting under “Edit Details.” Search engines may index the portion of a Member’s profile (including the Profile Information it contains) that is publicly displayed.
 
-If you have consented to receive promotional materials (e.g., newsletters) or notifications from RunnerSpace, RunnerSpace may periodically use your email address to send you such materials related to the RunnerSpace Services, as applicable. If you want to stop receiving such materials from RunnerSpace, you can change your profile settings under "Notifications / Privacy Settings" http://www.runnerspace.com/forum/index.php?app=core&module=usercp&tab=core&area=notifications or follow the unsubscribe instructions at the bottom of each email.
+If you have consented to receive promotional materials (e.g., newsletters) or notifications from RunnerSpace, RunnerSpace may periodically use your email address to send you such materials related to the RunnerSpace Services, as applicable. If you want to stop receiving such materials from RunnerSpace, you can change your profile settings under "Notifications / Privacy Settings" //www.runnerspace.com/forum/index.php?app=core&module=usercp&tab=core&area=notifications or follow the unsubscribe instructions at the bottom of each email.
 
 RunnerSpace employees, agents and contractors must have a business reason to obtain access to your PII. RunnerSpace may share your PII with those who help us manage or provide RunnerSpace Services’ information activities (for example, message, team, contest administration, customer service, order fulfillment, statistical analyses, data processing), or with outside contractors, agents or sponsors who help us with the administration, judging and prize fulfillment aspects of contests, promotions and sweepstakes.
 
@@ -77,7 +77,7 @@ RunnerSpace members can invite friends to join the service by sending invitation
 
 ACCESS, REMEDIES AND COMPLIANCE: HOW TO ACCESS, CORRECT OR CHANGE YOUR PREFERENCES REGARDING YOUR PII AND HOW TO CONTACT RUNNERSPACE ABOUT PRIVACY CONCERNS
 
-Whenever possible, RunnerSpace Members may review the Registration PII we maintain about them in our records. We will take reasonable steps to correct any PII a Member informs us is incorrect. If you are a Member, you can view and change your Registration PII, Member preferences and Profile Information by logging into your account and accessing features such as “Edit Details” and "Notifications / Privacy Settings" http://www.runnerspace.com/forum/index.php?app=core&module=usercp&tab=core&area=notifications .
+Whenever possible, RunnerSpace Members may review the Registration PII we maintain about them in our records. We will take reasonable steps to correct any PII a Member informs us is incorrect. If you are a Member, you can view and change your Registration PII, Member preferences and Profile Information by logging into your account and accessing features such as “Edit Details” and "Notifications / Privacy Settings" //www.runnerspace.com/forum/index.php?app=core&module=usercp&tab=core&area=notifications .
 
 If you ask RunnerSpace to stop using your PII, RunnerSpace will honor that request while retaining any record of your PII that is necessary to comply with applicable federal, state or local law.
 
