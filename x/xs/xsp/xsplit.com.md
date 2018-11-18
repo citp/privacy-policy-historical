@@ -1,47 +1,149 @@
-> *The following text is extracted and transformed from the xsplit.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302202957id_/https%3A//www.xsplit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsplit.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118124909id_/https%3A//www.xsplit.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - XSplit
+# Privacy Policy | XSplit
 
-This policy describes the ways we collect, store, use and protect your personal information. You accept this Privacy Policy when you sign up for or use our products, services or any other features, technologies or functionalities offered by us on our website, XSplit applications ("XSplit Products") or through any other means (collectively the "XSplit Services"). We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it.
+SplitmediaLabs Limited ("SplitmediaLabs," "we," "our" or "us") are the developers and publishers of xsplit.com, XSplit Broadcaster, XSplit Gamecaster and XSplit VCam applications. 
 
-#### How we collect information about you
+This Privacy Policy describes how SplitmediaLabs Limited and its affiliates collect, use, and share information in connection with your use of our websites, services, and applications (collectively, the "Services").
 
-When you use the XSplit Services, we collect information sent to us by your computer, mobile phone or other access device. This information may include your IP address, device information including but not limited to identifier, name and type, operating system, location, and standard web log information, such as your browser type, traffic to and from our site and the pages you accessed on our website.
+We may collect and receive information about users of our Services ("users," "you," or "your") from various sources, including information you provide when you register for the Services and through your use of the Services.
 
-If you open an account or use the XSplit Services, we may collect the following types of contact information - your name, user name, password, country, age, gender, email, and other similar information.
+We recommend that you read this Privacy Policy in full to ensure you are fully informed. If you have any questions about this Privacy Policy or SplitmediaLabs' data collection, use, and disclosure practices, please contact us at [privacy@splitmedialabs.com](mailto:privacy@splitmedialabs.com).
 
-When you use the XSplit Services, we collect information about your streams and your activities on our website, and we may collect information about your computer or other access devices for tracking issues that you may have encountered using our services or applications or for general statistics about our users.
+## Information we may collect from you and how we use it
 
-You may choose to provide us with access to certain personal information stored by third parties such as streaming sites (such as JustinTV and Own3D). The information we have access to varies by site and is controlled by your privacy settings on that site and your authorization. By associating an account managed by a third party with your XSplit account and authorizing XSplit to have access to this information, you agree that XSplit may collect, store and use this information in accordance with this Privacy Policy.
+### Information you provide
 
-Finally, we may collect additional information from or about you in other ways such as contacts with our customer support team or results when you respond to a survey and from interactions with members of the Splitmedialabs corporate family, and from other companies.
+  * Account Registration and Settings. When you register an account for the Services, we will ask you to provide us with account verification and contact information in the form of an email address and your name. During account registration and your use of the Services, you may choose to provide us with other personally identifiable information, such as date of birth and gender.
 
-#### XSplit Products Usage and Feedback
 
-When you use the XSplit Products or send us feedback, we track your XSplit Product Version, Broadcasting settings, IP Address, MAC Address, Operating System and Version, Monitor Stats, Graphics Card, Video Controller, Processor, Audio Devices, Microphone settings, Speakers, USB Controllers, ExperienceIndex, Subscriptions, Source Types used in Stages of Stream, Channels, Start and End Time of Streams, Bandwidth settings and usage, Login and Logout information, and similar information. We use this information to track usage statistics as well as to be able to track and solve issues that you may have encountered when using the XSplit Products.
 
-We do NOT access any information from your computer related to software installed or any information which you may have stored in personal files. The information we track and store is purely related to your XSplit Products settings and your hardware, operating systems and driver configuration.
+We collect this information for the purpose of verifying and giving your account access to the Service and to give you essential information relating to the use of the applications. 
 
-#### Cookies
+We may further use this information to communicate and personalize communication with you regarding product updates, newsletters and special offers, only when you have consented hereto.
 
-When you access our website or content or use our application or the PayPal Services, we or companies we work with, may place small data files called cookies on your computer or other device. We use these technologies to recognize you as an XSplit user, customize the XSplit Services, content and advertising, measure promotional effectiveness, collect information about your computer or other access device to mitigate risk, solve issues during support, help prevent fraud and promote trust and safety.
+  * Communications. If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
 
-We use both session and persistent cookies when you access our website or content. Session cookies expire and no longer have any effect when you log out of your account or close your browser. Persistent cookies remain on your browser until you erase them or they expire. You are free to decline our cookies if your browser or browser add-on permits, but doing so may interfere with your use of our website. The help section of most browsers or browser add-ons provides instructions on blocking, deleting or disabling cookies.
 
-You may encounter XSplit cookies on websites that we do not control. For example, if you view a web page created by a third party or use an application developed by a third party, there may be a cookie placed by the web page or application. Likewise, these third parties may place cookies that are not subject to our control and the XSplit Privacy Policy does not cover their use.
 
-#### Use of Information
+We collect this information to communicate with you and to assist you with resolving requests or issues addressed by you. Information provided through direct communication will never be used in any other manner than to provide feedback on the matter at hand.
 
-We may combine your information with information we collect from other sources and use it to improve and personalize the XSplit Services, content and advertising.
+  * User Content. Our community features may allow you to publicly publish content on our Services. By adding information to your public user profile and by publishing content through our community features, you agree that your public profile information and the content you publish may be viewed and used by other users and third parties we do not control.
 
-We may share "Aggregate Information" with third parties. "Aggregate Information" means information about groups or categories of customers or users of the XSplit Services, which does not identify and cannot reasonably be used to identify an individual customer or user. Aggregate Information is a kind of anonymous information.
 
-We may never share any personal identifiable data with third parties, with the sole exception of cases where sharing of such information with law enforcement agencies or our partners, is necessary to identify, prevent or mitigate the effects of unlawful use of the XSplit Services.
 
-#### Consent
+We collect information about aggregate activity and user interaction with our community features. You may delete and modify content that you have published on our Services by using the deletion and correction tools of the Services or by contacting us.
 
-By using any part of our site or product, you consent to our privacy policy.
+  * Video and audio clip samples. We may prompt you to submit sample video and audio clips to us in connection with your use of the Services.
 
-This privacy policy is valid and in effect from Feb. 26, 2014. Click [here](https://web.archive.org/privacy-old) to see the old Privacy Policy, which this Privacy Policy replaces.
 
-©2018 SplitmediaLabs Limited All rights reserved. All trademarks and/or service marks of Licensor used in connection with the Software are trademarks and registered trademarks of SplitmediaLabs Limited.
+
+We collect this information to improve the functionality of our products, and to identify and solve technical issues in relation to your use of the Services. 
+
+### Information we collect when you use our Services
+
+Each time you use the Services we may automatically collect the following information:
+
+  * Location information: When using our applications and visiting our websites, we collect your IP address to identify your geographical location
+
+
+
+We collect this information to provide localization of the Services for your language as well as for security and fraud detection
+
+  * System and application usage information: When using our applications, we may collect system and application usage information, including application settings and device information.
+
+
+
+We collect this information to optimize settings and features for our users, to understand and analyze our users’ technical requirements and interaction with the Services, and to better resolve support issues. 
+
+  * “Cookies” Information: When you access the Services, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed. Please review your web browser “Help” file to learn the proper way to modify your cookie settings. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the Services.
+
+
+
+We collect this information to provide a better experience on the Services by storing certain information between sessions, and to analyze aggregate anonymized user behaviour on our Services. We further use this information to provide targeted marketing messages only when you have consented hereto.
+
+  * We collect this information to communicate with you and to assist you with resolving requests or issues addressed by you. Information provided through direct communication will never be used in any other manner than to provide feedback on the matter at hand. User Content. Our community features may allow you to publicly publish content on our Services. By adding information to your public user profile and by publishing content through our community features, you agree that your public profile information and the content you publish may be viewed and used by other users and third parties we do not control.
+
+  * We collect information about aggregate activity and user interaction with our community features. You may delete and modify content that you have published on our Services by using the deletion and correction tools of the Services or by contacting us.
+
+
+
+### Information we collect when you use our Services
+
+Each time you use the Services we may automatically collect the following information:
+
+  * Location information: When using our applications and visiting our websites, we collect your IP address to identify your geographical location
+
+
+
+We collect this information to provide localization of the Services for your language as well as for security and fraud detection
+
+  * System and application usage information: When using our applications, we may collect system and application usage information, including application settings and device information. We collect this information to optimize settings and features for our users, to understand and analyze our users’ technical requirements and interaction with the Services, and to better resolve support issues.
+
+  * “Cookies” Information: When you access the Services, we may send one or more cookies – small text files containing a string of alphanumeric characters to your computer. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed. Please review your web browser “Help” file to learn the proper way to modify your cookie settings. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the Services.
+
+
+
+We collect this information to provide a better experience on the Services by storing certain information between sessions, and to analyze aggregate anonymized user behaviour on our Services. We further use this information to provide targeted marketing messages only when you have consented hereto.
+
+### Information we receive from third parties
+
+  * Linked third-party accounts: If you choose to link our Services to a third-party account, such as a social media account or a live streaming service, we will receive your username and other information about that account. The information we have access to varies by service and is controlled by your privacy settings on that service and your authorization. If you wish to limit the information available to us, you may visit the privacy settings of your third-party accounts to learn about your options.
+
+
+
+We collect this information to give you access to functionality of our Services that require connection to third parties, for example to allow you to stream to your account on a live streaming service and posting on your social media accounts.
+
+  * Payment Information. When you make a purchase related to the Services, you may provide information to our third-party payment processor. We do not store your financial account information or credit card details on our systems; however, we have access to, and may retain, subscriber information through our third-party payment processor.
+
+
+
+We collect this information for the purpose of providing access to licensed features, fraud detection and prevention, and upholding legal obligations in relation to keeping proper customer records.
+
+## How we share information
+
+When you provide information to make a purchase, we share payment information with banks and other entities that process payments or provide financial services. We may also share information with law enforcement agencies or our partners, when necessary or required by law, to identify, prevent or mitigate the effects of unlawful use of the Services. 
+
+We will never share your personally identifiable information with any third party for their marketing or other purposes.
+
+We may share "Aggregate Information" with third parties, Aggregate Information meaning information about groups or categories of customers or users of the Services, which cannot be used to identify an individual customer or user.
+
+## Data retention and deletion
+
+We retain your personally identifiable information only as long as you wish to maintain a user account for the Services. You may delete your account for the Services at any time through the user settings of the Services, or by contacting us at [privacy@splitmedialabs.com](mailto:privacy@splitmedialabs.com). When you delete your account for the Services, we will anonymize or delete all your personally identifiable information unless otherwise required by law.
+
+## Data access and correction
+
+Under certain circumstances, you have the right to access or correct your personal information. You can generally access and update your personal information at any time in your account settings.
+
+Also, you can ask us to stop sending you marketing messages at any time by following the unsubscribe links on any marketing message sent to you or by removing your consent to receive such messages in your account settings. 
+
+## International Data Transfer (For EU users)
+
+The information that we collect from you may be transferred to, and stored at servers outside of the European Economic Area ("EEA"). It may also be processed by staff of SplitmediaLabs or our subsidiaries, operating outside the EEA. By accepting this Privacy Policy, you agree to this transfer, storing or processing in countries outside of the EEA where we operate. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+
+## Security
+
+We take all reasonable steps to protect information we receive from you from loss, misuse or unauthorized access, disclosure, alteration, and/or destruction. We have put in place industry-standard and appropriate physical, technical, and administrative measures to safeguard and secure your information, and we make use of privacy-enhancing technologies such as encryption.
+
+## Privacy of Children
+
+You must be at least 13 years old to use our Services or such minimum required age in your country which allows for collection of your personally identifiable information. In addition to being of the minimum required age to use our Services under applicable law, if you are not old enough to have authority to agree to our Terms and Privacy Policy in your country, your parent or guardian must agree to our Terms and Privacy Policy on your behalf before you may use the Services.
+
+If we learn that personally identifiable information of persons less than 13-years-of-age or less than the age required in their country, has been collected on or through the Services, we will take the appropriate steps to delete this information and delete the child’s account for the Services.
+
+If you have knowledge of use of the Services by a child under 13 or under the age required for using the Services in your country, then please contact us at [privacy@splitmedialabs.com](mailto:privacy@splitmedialabs.com) to have that child’s account terminated and information deleted.
+
+## In the Event of Merger or Sale
+
+In the event that SplitmediaLabs or assets related to the Services are acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users as part of that merger, acquisition, sale, or other change of control.
+
+## Changes to policy
+
+This Privacy Policy may be modified from time to time, so please review it frequently. If we make any changes to this Privacy Policy, the updated Privacy Policy will be posted on this website, noting the effective date of any changes. If we make changes to this Privacy Policy that we believe materially impact the privacy of your personal data, we will promptly provide notice of any such changes and obtain consent where necessary.
+
+## Contact us
+
+You may contact our Data Protection Officer at any time by sending an email to [privacy@splitmedialabs.com](mailto:privacy@splitmedialabs.com)
+
+This privacy policy is valid and in effect from November 16, 2018.
