@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impartus.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520072922id_/http%3A//www.impartus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impartus.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118230236id_/http%3A//impartus.com/privacy) for the most accurate reproduction.*
 
 # Impartus
 
