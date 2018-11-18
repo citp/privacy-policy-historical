@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachr.org.in privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519172544id_/http%3A//teachr.org.in/en/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachr.org.in privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118174556id_/http%3A//teachr.org.in/en/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
