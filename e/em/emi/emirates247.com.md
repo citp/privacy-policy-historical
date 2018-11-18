@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emirates247.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628210854id_/https%3A//www.emirates247.com/privacy-policy-1.158) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emirates247.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118230133id_/https%3A//www.emirates247.com/privacy-policy-1.158) for the most accurate reproduction.*
 
-# Privacy Policy - Emirates 24|7
+# Privacy Policy - Emirates24|7
 
 By accessing and using [www.emirates247.com](http://www.emirates247.com/) (‘the Website’) you are agreeing to both the Terms & Conditions and this Privacy & Cookies Policy. You should therefore read both documents before using the Website in full. Emirates247.com is committed to protecting the privacy of its users. However, it is necessary to collect certain information about our users to ensure that our service is continually improved. We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual. Other personal information may be collected. This includes information provided voluntarily by users in the course of entering competitions, offers, and registering on the website, among other activities. When you contact us voluntarily – for example, by email – or have any financial dealings with us, or our trading partners -- this also gives us information.
 
