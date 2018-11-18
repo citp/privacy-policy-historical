@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ajnabii.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210083124id_/http%3A//ajnabii.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajnabii.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118222345id_/http%3A//ajnabii.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[__  Home](http://ajnabii.com/) / Privacy Policy
 
 **Ajnabii.com “Privacy Policy”**
 
