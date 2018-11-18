@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livejapan.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309062526id_/https%3A//corporate.gnavi.co.jp/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livejapan.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118034317id_/https%3A//corporate.gnavi.co.jp/en/policy) for the most accurate reproduction.*
 
 # Privacy Policy｜Gurunavi, Inc.
 
@@ -54,23 +54,24 @@ We may change the Policy to better protect personal information we have obtained
 
 
 
-6\. Complaints, Opinions, and Other Inquiries about Personal Information
+6\. Complaints, Opinions, and Other Enquiries about Personal Information
 
-Please send any complaints, opinions, or inquiries regarding our handling of your personal information (specific personal information) using the "Complaints, opinions, or enquiries regarding personal information (specific personal information)" link at the bottom of the page. We will appropriately and promptly respond to you within a reasonable period and to a reasonable extent.
+Please send any complaints, opinions, or enquiries regarding our handling of your personal information (specific personal information) using the "Complaints, opinions, or enquiries regarding personal information (specific personal information)" link at the bottom of the page. We will appropriately and promptly respond to you within a reasonable period and to a reasonable extent.
 
 ## Handling of Personal Information
 
 1\. Purpose of use of personal information
 
-Purpose of Utilization of Personal Information Category of Personal Information | Purpose of Utilization  
+Purpose of Utilization of Personal Information Category | Purpose of Utilization  
 ---|---  
 Customers' Personal Information | 
 
-  * •Verifying a customer's identity upon membership registration and member screen login for the Company Group's services, and provision of services to customers
+  * •To confirm a person’s identity (including biometric identification) when registering an account with or logging into services provided by the Company Group, and for the Company Group to provide said services
   * •Contacting and informing customers via phone, mail, email etc. about the Company Group's services. Distributing questionnaire surveys and email newsletters
-  * •Conducting surveys that may include questions that require a person's name (for example, asking whom one admires), and contacting those persons named in surveys with proposals for the Company Group's services, products, and notifying them of sales activities for events proposals, etc.
+  * •To conduct surveys which include answers related to personal information of the participant; when contacting the participant with information about the products and services of the Company Group; in sales activities towards the participant including the promotion of events
   * •Restaurant reservation procedures, reservation management, contacting customers, ascertaining number of customers coming to restaurant, customer identity verification upon arrival at restaurant, and provision of personal information to the reserved restaurant
   * •Providing our services, ascertaining and analyzing customers' usage of our services by using customers' visiting, purchase, page-view, and activity history (hereafter "history") or location information
+  * •To create statistical data such that an individual cannot be identified based on their appearance and use this data to ascertain and analyze circumstances of customer visits and improve the quality of the Company Group’s services
   * •Sending recommendations and direct mail to customers based on their history
   * •Settlement and repayment of fees, points, and other payments (we may exchange our customers' personal information with cell phone service providers, credit card companies, and the like)
   * •To inform customers about seminars, exhibitions, campaigns, competitions and the like (hereafter "events") held or co-held by the Company Group; in the participation in and application procedures for such events and in related lotteries and prize distribution; to ascertain information on participation in, and to organize/manage and conduct administrative work relating to such events. Images, videos, and sound recordings may be made at events. Personal information may also be provided to co-organizers of events, in the delivery of prizes and to a contractor entrusted with said delivery
@@ -80,35 +81,46 @@ Customers' Personal Information |
   * •The delivery of products or foodstuffs by the Company Group, its partner companies, organizations, producers and the like, and the creation of documents for use in delivery of goods
   * •The delivery of rewards for participation in market research surveys and promotions conducted by the Group Company
   * •Customer guidance and consulting via phone, email, or in person
-  * •Acting as an agent in applications for government programs to receive subsidies
+  * •Audio and video recording to improve the quality of dealing with and responding to customers
+  * •
+
+The following agency operations:  
+\- 
+
+Registration, application, reservation, application management and other operations in all services
+
+\- 
+
+The sending of e-mails or messages over social media for promotional purposes
+
+\- 
+
+Applications and other procedures under government systems
+
   * •Delivery, installation, construction, and initial setup of machinery to provide the Company Group's services, communication regarding delivery dates and other matters, and provision of personal information in the case that a contractor is entrusted with work
-  * •Provision of guidebooks, members' magazines, VIP-only information and the like
+  * •Provision of guidebooks, members' magazines, VIP-only information and the like of the Company Group's services
   * •Production of information magazines, communications relating to and the conducting of interviews, and promotion and advertisement of the Company Group's business
-  * •Creation of statistical data from personal information with which it is not possible to identify the individual, and marketing, creation of websites, development of new services, and improvements to the quality of the Company Group's services using this created data
+  * •To research and analyze how the Company Group’s services are used and gauge customer satisfaction levels, to create statistical data such that a specific individual cannot be identified, and, through the use of this data, improve the Company Group’s marketing, website creation, development of new services, and quality of current services
   * •Corrections or deletions to information registered with the Company Group's services
   * •Confirmation of video recorded to serve and monitor activities of customers who visit our offices
   * •Maintenance of security of the Company Group's services, investigation, reporting, and contact in the event of an incident or accident
-  * •Any enquiries relating to the above
 
   
 Personal Information Obtained for Compliance with Laws and Ordinances | 
 
-  * •Exercise of rights under agreements or laws in relation to the Company Group's business, responding to claims, and appropriate implementation of business
-  * •Any enquiries relating to the above
+  * •Exercise of rights under agreements or laws in relation to the Company Group's service, responding to claims, and appropriate implementation of business
 
   
 Personal Information Obtained from Public Information Sources | 
 
   * •The Company Group's business activities including the provision of products and services, and notifying customers of events
   * •Transaction screening and credit management/check
-  * •Any enquiries relating to the above
 
   
 Personal Information Obtained During Recruiting Activities | 
 
   * •Consideration of new employees joining the Company Group, contacting candidates regarding job interviews, notifying candidates of the results of job interviews, delivery of relevant recruitment documents, settlement of expenses
   * •The Company Group's overall employment activities, and provision of personal information to a third party in the case that a third party is entrusted with a portion of the work
-  * •Any enquiries relating to the above
 
   
 Personal Information of Current and Former Employees | 
@@ -123,7 +135,6 @@ Personal Information of Current and Former Employees |
   * •Ascertaining circumstances and contacting individuals following employee introductions during hiring periods
   * •Replies to surveys requested by other companies
   * •Registration of biometric information (veins etc.) with biometric equipment, confirmation of activities, video recording for crime prevention
-  * •Any enquiries relating to the above
 
   
 Personal Information of Shareholders | 
@@ -133,6 +144,10 @@ Personal Information of Shareholders |
   * •Responding to shareholders exercising their rights
   * •Management of shareholders in accordance with relevant laws and ordinances
   * •Provision of personal information for exercise of rights and performance of obligations in accordance with the Companies Act
+
+  
+Enquiry | 
+
   * •Any enquiries relating to the above
 
   
@@ -161,21 +176,21 @@ Cases in which the provision of personal information is necessary for cooperatin
 
   5. (5)
 
-Cases in which we entrust the handling of personal information in whole or in part within the scope necessary for the achievement of the specified purpose of utilization
+Cases in which we entrust the handling of personal data in whole or in part within the scope necessary for the achievement of the specified purpose of utilization
 
   6. (6)
 
-Cases in which we provide personal information as a result of succeeding to a business due to a merger or other event, and the acquirer uses such personal information within the scope of the purpose of utilization before the succession
+Cases in which we provide personal data as a result of succeeding to a business due to a merger or other event, and the acquirer uses such personal data within the scope of the purpose of utilization before the succession
 
   7. (7)
 
-Cases in which personal information is jointly used between the Company Group and a specific entity or individual, and in advance we notify, or make readily available to, you the following matters, or similar details of equal or greater scope 
+Cases in which personal data is jointly used between the Company Group and a specific entity or individual, and in advance we notify, or make readily available to, you the following matters, or similar details of equal or greater scope 
 
-    * •Joint use of personal information
-    * •Purpose of utilization of an entity or individual using personal information
-    * •Items of personal information to be jointly used
-    * •Name or company name responsible for the management of personal information
-    * •Scope of entities or individuals jointly using personal information
+    * •Joint use of personal data
+    * •Purpose of utilization of an entity or individual using personal data
+    * •Items of personal data to be jointly used
+    * •Name or company name responsible for the management of personal data
+    * •Scope of entities or individuals jointly using personal data
     * •Method of obtainment
 
 
@@ -195,13 +210,17 @@ When we entrust the performance of services involving the handling personal info
 
 The Company Group may use cookies (and other similar technologies) in order to provide information that is easily accessible by, and more valuable to, customers.  
 Cookies allow data to be temporarily saved on a computer or other devices used by a customer when accessing a web site. Using cookies enables us to acquire and save in the Company Group's server the customers' activity history in the Company Group's websites (including, but not limited to, URLs and content accessed and the order of access), and unidentifiable attribute information (by the combination of which an individual is not identifiable) such as age and sex, occupation, resident area, record of coming to the store, and location information.  
-If you prefer not to allow us to collect your information, you can block cookies by modifying your internet browser preferences. Please contact your software manufacturer for instructions on how to change your browser settings. If you choose to block cookies, you may be unable to use a part of the Company Group's services such as the auto login function.
+If you prefer not to allow us to collect your information, you can block cookies by modifying your internet browser preferences. Please contact your software manufacturer for instructions on how to change your browser settings. If you choose to block cookies, you may be unable to use a part of the Company Group's services such as the auto login function. 
 
   2. (2)
 
-The Company Group uses advertisement delivery services provided by third parties including Yahoo Japan Corporation. In providing advertisement delivery services, such third party may collect and use the information of customers' access history to the Company Group's website or activity history by using cookies.  
+The Company Group uses advertisement delivery services provided by third parties. In providing advertisement delivery services, such third party may collect and use the information of customers' access history to the Company Group's website or activity history by using cookies.  
 Cookies and other information acquired by such third party will be handled in accordance with its privacy policy.  
 Customers may discontinue advertisement delivery performed by such third party using cookies by accessing an opt out page created on its website.
+
+Opt out page：（The link will jump to the Japanese page）  
+[Rakuten, Inc.](https://grp12.ias.rakuten.co.jp/optout/)  
+[Yahoo Japan Corporation](https://btoptout.yahoo.co.jp/optout/index.html)
 
 
 
@@ -262,12 +281,12 @@ Please download or print out the "Request form designated by the Company Group" 
 
   2. (2)
 
-After filling out the relevant items in the form, and signing and sealing the form, please enclose the "documents for identity verification" and mail them to the "Personal Information (specific personal information) Inquiry Desk." In the case of a request made by an agent on your behalf, his or her address, signature and seal are required in addition to your address and name.
+After filling out the relevant items in the form, and signing and sealing the form, please enclose the "documents for identity verification" and mail them to the "Personal Information (specific personal information) Enquiry Desk." In the case of a request made by an agent on your behalf, his or her address, signature and seal are required in addition to your address and name.
 
     1. **1)Request form designated by the Company Group**
 
-[Request for disclosure, correction or deletion of personal information](https://c-corporate.gnst.jp/en/policy/pdf/sakujyo_en.pdf?201803091023) __  
-[98KB]
+[Request for disclosure, correction or deletion of personal information](https://c-corporate.gnst.jp/policy/pdf/sakujyo.pdf?201811131010) __  
+[201KB, in Japanese]
 
 * If we are not able to proceed with the procedures because the request form leaves out necessary items or includes misprints or other imperfections, the Company Group will notify you thereof at the address indicated in the written request. Please understand that if we do not receive resubmission of the documents (including undelivered mail) within 2 weeks from such notification, we will deem that you have not requested any disclosure, etc.
 
@@ -297,7 +316,7 @@ Once we verify the identity, we will appropriately and promptly make a response 
 
 1\. Name of Company
 
-Gurunavi, Inc.
+Company Group
 
 2\. Compliance with Relevant Laws, Guidelines, etc.
 
@@ -322,7 +341,7 @@ Personal information will only be used for purposes stipulated by Japan's laws, 
 
 ## Name of the Personal Information Manager (specific personal information)
 
-Executive Vice President
+Executive Vice President, Corporate security management
 
 ## Complaints, Opinions, and Other Enquiries about Personal Information
 
@@ -340,9 +359,9 @@ Personal Information Enquiry Desk:
 Gurunavi, Inc.
 
 1-2-2 Yurakucho, Chiyoda-ku, Tokyo, Japan 100-0006  
-Complaint and Consultation Desk Manager at Personal Information Inquiry Desk
+Complaint and Consultation Desk Manager at Personal Information Enquiry Desk
 
-[Click here to make an inquiry.](https://ssl.gnavi.co.jp/company/english/contact/) __
+[Click here to make an enquiry.](https://ssl.gnavi.co.jp/company/english/contact/) __
 
 ## Company Group
 
@@ -361,9 +380,10 @@ In this Policy, the "Company Group" means the following companies.
 Gurunavi, Inc.  
 Seiichiro Kubo, President, Representative Director
 
-Personal information protection policy established:  
-July 1, 2004  
-Specific personal information protection policy established:  
-November 17, 2015
+Personal information protection policy  
+Established：July 1, 2004  
+Last updated: October 19, 2018
 
-Last updated: October 6, 2017
+Specific personal information protection policy  
+Established：November 17, 2015  
+Last updated: October 19, 2018 
