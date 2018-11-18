@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skymem.info privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520031102id_/http%3A//www.skymem.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skymem.info privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118114741id_/http%3A//www.skymem.info/privacy-policy) for the most accurate reproduction.*
 
-# Contact Hunter - Easy find all public email addresses.
+# Skymem - email list
 
 If you prefer that we do not collect your "non-personally identifiable information" about your website visits for the purpose of publicly display on Skymem web site you may go away from Skymem web site by clicking on the "go-out from Skymem web site" button below: 
 
