@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpdeskgeek.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521110125id_/http%3A//helpdeskgeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpdeskgeek.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118105803id_/https%3A//helpdeskgeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,10 +26,10 @@ When you make a comment or contact me using the contact page you email is requir
 
 **Comments Policy**
 
-The author does not assume responsibility over comments he did not make on this blog. While comments are welcome from anybody, we reserve the right to remove any comment that is not deemed suitable for publication. This could include but is not limited to objectional and abusive comments. Hate, racist comments, or any other form of prejudice will be removed and the poster banned!
+The author does not assume responsibility over comments he did not make on this blog. While comments are welcome from anybody, we reserve the right to remove any comment that is not deemed suitable for publication. This could include but is not limited to objectionable and abusive comments. Hate, racist comments, or any other form of prejudice will be removed and the poster banned!
 
 Spam in any form will not be accepted.
 
 **Copyrights**
 
-Supreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted in this blog. If you find anything that could be considered a violation of the copyright norms, please [contact m](http://helpdeskgeek.com/about-me/)e immediately.
+Supreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted in this blog. If you find anything that could be considered a violation of the copyright norms, please [contact me](https://helpdeskgeek.com/about-me/) immediately.
