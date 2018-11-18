@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the civilized.life privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902154906id_/https%3A//www.civilized.life/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilized.life privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118124651id_/https%3A//www.civilized.life/privacy) for the most accurate reproduction.*
 
 # We’re Sure You Know the Drill
 
-We've endeavored to keep our privacy policy as clear and concise as we possibly can. If you have a question about any of our policies, you can always email [privacy@civilized.life](mailto:privacy@civilized.life) and we promise we'll follow-up with you.
+We've endeavored to keep our privacy policy as clear and concise as we possibly can. If you have a question about any of our policies, you can always email [[email protected]](https://www.civilized.life/cdn-cgi/l/email-protection#d4a4a6bda2b5b7ad94b7bda2bdb8bdaeb1b0fab8bdb2b1) and we promise we'll follow-up with you.
 
 ### Do you track information about visitors to civilized.life?
 
 Yes. We promise we won't do anything nefarious with the information we collect, though. Our server, like all good web servers, collects some general information like every visitor's IP address, browser type, screen size, time of visit, and more. We review this information to make sure we're delivering the best possible experience for our readers. We might use an IP address to block you from our website or from commenting, but only if you're being a jerk.
+
+### What about advertising?
+
+We use third-party advertising companies to serve ads when you visit our website or use our apps. These companies may use information about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
+
+How to opt out: <http://optout.networkadvertising.org/#!/>
 
 ### What about cookies?
 
