@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traderscockpit.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531181235id_/http%3A//traderscockpit.com/%3FpageView%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traderscockpit.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118070146id_/http%3A//traderscockpit.com/%3FpageView%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Stock Market India, Market Strategies, Share Price, NSE, Nifty, India Stock Market
 
