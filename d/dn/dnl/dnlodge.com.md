@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnlodge.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223155157id_/https%3A//www.seoclerk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnlodge.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118211708id_/https%3A//www.seoclerk.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEOClerks
 
