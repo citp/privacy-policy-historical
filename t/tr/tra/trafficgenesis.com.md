@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficgenesis.com privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104064522id_/http%3A//trafficgenesis.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficgenesis.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118175549id_/http%3A//trafficgenesis.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Traffic Genesis
 
@@ -36,7 +36,7 @@ TrafficGenesis.com does not knowingly collect or solicit Personally Identifiable
 
 We can be reached by contacting:
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Email: support@TrafficGenesis.com
 
 *Changes to this Policy*
 
