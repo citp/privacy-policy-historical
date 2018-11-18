@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stampinup.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519013441id_/https%3A//www.stampinup.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stampinup.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118105143id_/https%3A//www.stampinup.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
