@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dllkit.com privacy policy that was archived on 2018-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180621110750id_/http%3A//dllkit.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dllkit.com privacy policy that was archived on 2018-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181119003956id_/http%3A//www.dllkit.com/uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -19,6 +19,31 @@
 
 <link rel="stylesheet" type="text/css" href="../../../../../css/gdpr.css">
     <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="../../../../../js/jquery-1.12.4.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function () {
+    $('.js-gdpr-banner-close').on('click', function () {
+        $('.js-gdpr-banner').hide();
+        sessionStorage.setItem('gdprBanner', 'closed');
+    });
+
+    var dataCloseBanner = sessionStorage.getItem('gdprBanner');
+    var dataStatusBanner = sessionStorage.getItem('gdprBannerStatus');
+
+    if (dataCloseBanner !== 'closed') {
+        $('.js-gdpr-banner').show();
+    }
+    if (dataStatusBanner === 'accept_gdpr') {
+        $('.js-gdpr-banner').hide();
+    }
+
+    $('.js-gdpr-banner-form').submit(function(e) {
+        e.preventDefault();
+document.cookie = "gdpr=accept_gdpr; path=/;";
+sessionStorage.setItem('gdprBannerStatus', 'accept_gdpr');
+$('.js-gdpr-banner').hide();
+    });
+});
+</script>
     <script src="../../../../../js/jquery.stylish-select.js" type="text/javascript"></script>
     <script src="../../../../../js/icheck.js" type="text/javascript"></script>
     <script src="../../../../../js/placeholders.js" type="text/javascript"></script>
@@ -41,7 +66,7 @@
  ga('create', 'UA-81813752-1', 'auto', {'allowLinker': true});
  ga('require', 'linker');
  ga('linker:autoLink', ['safecart.com'] ); 
- ga('set', 'userId', '5d06fb94'); // Задание идентификатора пользователя с помощью параметра user_id (текущий пользователь). 
+ ga('set', 'userId', '5de77a89'); // Задание идентификатора пользователя с помощью параметра user_id (текущий пользователь). 
  ga('send', 'pageview');
 </script> 
 <!-- Google Code for Download Conversion Page -->
@@ -87,12 +112,12 @@
     <section class="new_header-section">
       <div class="new_inner-block new_clearfix">
 
-        <a href="../../../../../en/" class="new_logo new_left">
+        <a href="../../../../../uk/" class="new_logo new_left">
           <img src="../../../../../img/images/icon/logo.png" alt="">
         </a>
 
         <select class="new_language new_right" onchange="location.href=this.value">
-          <option selected="" value="../../lang=en">English</option>
+          <option value="../../lang=en">English</option>
           <option value="../../lang=es">Español</option>
           <option value="../../lang=de">Deutsch</option>
           <option value="../../lang=nl">Nederlands</option>
@@ -113,17 +138,17 @@
         <option value="../../lang=no">Norsk</option>
         <option value="../../lang=ru">Русский</option>
         <option value="../../lang=sv">Svenska</option>
-        <option value="../../lang=uk">Українська</option>
+        <option selected="" value="../../lang=uk">Українська</option>
         </select>
 
 
         <nav class="new_head-menu new_right new_inline">
           <a href="javascript:void(0)" class="new_drop-menu-button"></a>
           <ul class="new_clearfix">
-            <li><a href="../../../../../en/">Home</a></li>
-            <li><a onclick="goog_report_conversion('http://www.dllkit.com/r/download/?cid=dllkit-direct&amp;usrid=5d06fb94')" href="http://www.dllkit.com/r/download/?cid=dllkit-direct&amp;usrid=5d06fb94">Download</a></li>
-            <li><a href="../../../../../purchase/">Purchase</a></li>
-            <li><a href="../../../../../en/support/">Support</a></li>
+            <li><a href="../../../../../uk/">Головна</a></li>
+            <li><a onclick="goog_report_conversion('http://www.dllkit.com/r/download/?cid=dllkit-direct&amp;usrid=5de77a89')" href="http://www.dllkit.com/r/download/?cid=dllkit-direct&amp;usrid=5de77a89">Завантажити</a></li>
+            <li><a href="../../../../../purchase/">Придбати</a></li>
+            <li><a href="../../../../../uk/support/">Підтримка</a></li>
           </ul>
         </nav>
 
@@ -258,11 +283,9 @@ Suite 2, 4 Queen Street, Edinburgh, United Kingdom, EH2 1JE
         <div class="phone-popup-balloon">
         	<div class="operator"></div>
     <div class="phone-text">	
-        <p>If you need help determining what<br> 
-might be causing your PC problems,<br> 
-call for FREE diagnostics now</p>
+        <p>Якщо вам потрібна допомога з визначенням<br> причин несправності вашого ПК,<br> телефонуйте для БЕЗКОШТОВНОЇ діагностики</p>
     </div>
-        <div class="phone-popup-call">Call Toll Free:</div>
+        <div class="phone-popup-call">Телефонуйте безкоштовно:</div>
         <div class="phone-popup-number">+1-888-2169534</div>
         <a href="#" class="phone-popup-close"></a>
         </div>
@@ -273,7 +296,7 @@ call for FREE diagnostics now</p>
 			<div class="copyrights col-sm-6 col-md-6">
 				<div class="cop_foot_l">
 				<!--<select id="select01" onchange="location.href=this.value">
-			    <option selected value="../../../../../lang=en">English</option>
+			    <option  value="../../../../../lang=en">English</option>
 			    <option  value="../../../../../lang=de">Deutsche</option>
 			    <option  value="../../../../../lang=pt">Portugues</option>
 			    <option  value="../../../../../lang=fr">Francais</option>
@@ -283,12 +306,12 @@ call for FREE diagnostics now</p>
 
 			<div class="copyrights col-sm-6 col-md-6">
 				<div class="cop_foot">
-<a href="../../../../../en/privacy-policy/">Privacy Policy</a> 
-<a href="../../../../../en/eula/">Terms of Use</a> 
-<a href="../../../../../en/howtouninstall/">How to Uninstall</a> 
-<a href="../../../../../en/support/">Support</a> 
-<a href="../../../../../en/contact/">Contact Us</a> 
-© 2018 DllKit
+<a href="../../../../../uk/privacy-policy/">Політика конфіденційності</a> 
+<a href="../../../../../uk/eula/">Умови використання</a> 
+<a href="../../../../../uk/howtouninstall/">Як видалити</a> 
+<a href="../../../../../uk/support/">Підтримка</a> 
+<a href="../../../../../uk/contact/">Контакти</a> 
+© 2018 Dllkitster Ltd
 				</div>
 			</div>
 	</div>
@@ -296,45 +319,11 @@ call for FREE diagnostics now</p>
 
 
 <div class="gdpr-banner js-gdpr-banner" hidden="">
-<form class="gdpr-banner__wrapper js-gdpr-banner-form" method="POST" action="/accept-all-gdpr.php">
+<form class="gdpr-banner__wrapper js-gdpr-banner-form" method="POST" action="#">
     <input name="gdpr" hidden="hidden" value="accept_gdpr">
     <i class="gdpr-banner__cross js-gdpr-banner-close"></i>
-    <p class="gdpr-banner__desc">We use cookies on this website. You can review our <a href="../../../../../en/privacy-policy/">Privacy Policy</a> and <a href="../../../../../en/privacy-policy/">Cookies Policy</a>.</p>
+    <p class="gdpr-banner__desc">We use cookies on this website. You can review our <a href="../../../../../uk/privacy-policy/">Privacy Policy</a> and <a href="../../../../../uk/privacy-policy/">Cookies Policy</a>.</p>
     <button type="submit" class="gdpr-banner__btn">Accept</button>
 </form>
-</div>    <script type="text/javascript">
-        $(document).ready(function () {
-            $('.js-gdpr-banner-close').on('click', function () {
-                $('.js-gdpr-banner').hide();
-                sessionStorage.setItem('gdprBanner', 'closed');
-            });
-
-            var dataCloseBanner = sessionStorage.getItem('gdprBanner');
-            var dataStatusBanner = sessionStorage.getItem('gdprBannerStatus');
-
-            if (dataCloseBanner !== 'closed') {
-                $('.js-gdpr-banner').show();
-            }
-            if (dataStatusBanner === 'accept_gdpr') {
-                $('.js-gdpr-banner').hide();
-            }
-
-            $('.js-gdpr-banner-form').submit(function(e) {
-                e.preventDefault();
-                var formMethod = $(this).attr('method');
-                var formAction = $(this).attr('action');
-                var formData = $(this).serializeArray();
-                $.ajax({
-                    type: formMethod,
-                    url: formAction,
-                    data: formData,
-                    success: function () {
-                        location.reload();
-                    }
-                });
-        sessionStorage.setItem('gdprBannerStatus', 'accept_gdpr');
-            });
-        });
-    </script>
-
+</div>
 </body></html>
