@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imobie.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623082643id_/https%3A//www.imobie.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imobie.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118171238id_/https%3A//www.imobie.com/company/privacy.htm) for the most accurate reproduction.*
 
 # iMobie - Privacy Policy
 
@@ -19,7 +19,7 @@ iMobie uses secure server hosted by cleverbridge and other third party credit ca
 iMobie uses cookies (small amounts of data stored by your Web browser on your hard drive) to help enable us to offer you more personalized and user-friendly content and service. These cookies, which may be offered by third parties, also allow iMobie to track usage patterns and allow us to continuously improve and manage our website and deliver content that is specific to your interests. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. 
 
 Most Web browsers accept cookies by default, but if you choose not to accept them, you can simply change your browser settings to disable it. If you decline to accept cookies, you may not receive the full benefits that our website has to offer. Here are some guides on how to delete or disable cookies on your browser:   
-for Safari users: [how to delete and disable on Safari](https://support.apple.com/kb/ph21411)  
+for Safari users: [how to delete and disable on Safari](https://support.apple.com/en-us/HT201265)  
 for Chrome users: [how to delete and disable on Google Chrome](https://support.google.com/chrome/answer/95647)  
 for IE users: [how to delete and disable on Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies)  
 for Firefox users: [how to delete and disable on Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)  
