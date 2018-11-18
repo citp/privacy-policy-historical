@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packagetrak.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509100214id_/http%3A//www.packagetrak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packagetrak.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118154454id_/http%3A//www.packagetrak.com/privacy-policy) for the most accurate reproduction.*
 
 # PackageTrak - Privacy Policy
 
