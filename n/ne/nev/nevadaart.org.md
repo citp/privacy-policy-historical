@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nevadaart.org privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514140043id_/https%3A//www.nevadaart.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nevadaart.org privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118110347id_/http%3A//www.nevadaart.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nevada Museum of Art
 
