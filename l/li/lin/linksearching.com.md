@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksearching.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606114049id_/http%3A//linksearching.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksearching.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118212535id_/http%3A//linksearching.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – LinkSearching
 
