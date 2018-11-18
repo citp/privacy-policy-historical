@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westkowloon.hk privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073954id_/http%3A//www.westkowloon.hk/en/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westkowloon.hk privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118141337id_/https%3A//www.westkowloon.hk/en/footer/privacy-policy) for the most accurate reproduction.*
 
 # West Kowloon Cultural District - Privacy Policy
 
@@ -16,7 +16,17 @@ The West Kowloon Cultural District Authority is committed to ensuring that all p
 
 
 
-If you have any queries about our Privacy Policy and Practices, please [contact us](https://web.archive.org/web/20171229073954id_/http%3A//www.westkowloon.hk/en/the-authority/contact).
+If you have any queries about our Privacy Policy and Practices, please [contact us](https://web.archive.org/web/20181118141337id_/https%3A//www.westkowloon.hk/en/the-authority/contact).
+
+ **Statistics on visitors to our websites**
+
+When you visit this website, we will record your visit only as a “hit”. The webserver makes a record of your visit that includes your IP addresses (and domain names), the types and configurations of browsers, language settings, geo-locations, operating systems, previous sites visited, and time/duration and the pages visited (webserver access log).
+
+The Authority uses the webserver access log for the purpose of maintaining and improving this website such as to determine the optimal screen resolution, or which pages have been most frequently visited. The Authority uses such data only for this website enhancement and optimisation.
+
+The Authority does not use, and has no intention of using the visitor data to personally identify anyone.
+
+This website is developed and maintained by third-party service providers. All the service providers are bound by their contractual obligation to keep confidential any data they come into contact with against unauthorised access, use and retention.
 
 **Data Collection for Direct Marketing**
 
