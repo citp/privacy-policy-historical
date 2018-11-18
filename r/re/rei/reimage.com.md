@@ -1,20 +1,24 @@
-> *The following text is extracted and transformed from the reimage.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606091641id_/https%3A//www.reimageplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reimage.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118114653id_/https%3A//www.reimageplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reimageplus.com
 
-This document explains the privacy policy and practices of Reimageplus.com, a web-based PC maintenance and repair service operated by Reimage Limited ("Reimage" or the "Service"). This Policy is part of the Terms of Service for using Reimage. This Policy was last updated on: 2/6/2017. At Reimage, protecting your personal information is an essential part of our Service. This Policy explains what personal information we collect from you, why we collect it and how we use it.
+This document explains the privacy policy and practices of Reimageplus.com, a web-based PC maintenance and repair service operated by Reimage Limited ("Reimage" or the "Service"). 
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us, at [about@reimageplus.com](mailto:about@reimageplus.com).
+At Reimage, protecting your personal information is an essential part of our Service. This Policy explains what personal information we collect from you, why we collect it and how we use it.
+
+If you have questions or complaints regarding our privacy policy or practices, please contact us, at [dpo@reimageplus.com](mailto:dpo@reimageplus.com).
 
 ### What Personal Information Do We Collect?
 
 Personal information is any information that can be used to identify an individual, such as your name, physical address, contact information (e.g., email address, phone number), title, and occupation. 
 
-To set up a free call with a PC expert, we ask for your name and phone number so that one of our PC experts may call you and walk you through the process of how our software works.
+To set up a free call with a PC expert, we ask for your name and phone number so that one of our PC experts may call you and walk you through the process of how our software works. 
 
 To list your business on our site we will collect the zip code, state, city and Name of the company. To remove yourself from our list you may contact us at [support@reimageplus.com](mailto:support@reimageplus.com) at any time.
 
-To add a new location we will ask for your name and email address and location information of the business you wish to add a location for. We will ask for the name, address, phone number, fax number, email address and website of the business you wish to add.
+To add a new location we will ask for your name and email address and location information of the business you wish to add a location for. We will ask for the name, address, phone number, fax number, email address and website of the business you wish to add. 
+
+Lastly, as stipulated above to provide you with online chat support, we use Kayako. Kayako collects both personal (name and email) as well as anonymous information. 
 
 ### Online Registration Form
 
@@ -53,9 +57,27 @@ We will only use your personal information in the way that we described at the t
 
 ### Accessing and Updating Your Personal Information
 
-You may access, change or delete your personal information by emailing us at [support@reimageplus.com](mailto:support@reimageplus.com). You may delete your account or unsubscribe from certain features (e.g., online newsletters) at any time by using the email address provided above. You may also unsubscribe from certain features such as emails or newsletters by using the "unsubscribe" function provided within each email notification or newsletter. Personal information relating to deleted accounts may be archived by the Service according to its normal backup procedures. The Service may retain your Inventory Description File and use it for research and system improvement purposes described in the Terms of Service. Certain information (e.g., online discussion forum postings) may continue to be displayed publicly even if you delete your account. 
+You may access, change or delete your personal information by emailing us at [dpo@reimageplus.com](mailto:dpo@reimageplus.com). You may delete your account or unsubscribe from certain features (e.g., online newsletters) at any time by using the email address provided above. 
+
+You may also unsubscribe from certain features such as emails or newsletters by using the "unsubscribe" function provided within each email notification or newsletter. Personal information relating to deleted accounts may be archived by the Service according to its normal backup procedures. The Service may retain your Inventory Description File and use it for research and system improvement purposes described in the Terms of Service. Certain information (e.g., online discussion forum postings) may continue to be displayed publicly even if you delete your account. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+### Your Rights
+
+Your principal rights under data protection law in relation to your Persona Data are:
+
+**(a)** the right to access and information which is provided to you through your account;  
+**(b)** the right to rectification;  
+**(c)** the right to erasure;  
+**(d)** the right to restrict processing;  
+**(e)** the right to object to processing;  
+**(f)** the right to data portability;  
+**(g)** the right to complain to a supervisory authority; and  
+**(h)** the right to withdraw consent.  
+
+
+To facilitate the exercise of this rights, we have prepared a specialised form that you can complete when making the request, to expedite our response time. Please contact us at : [dpo@reimageplus.com](mailto:dpo@reimageplus.com). to send you the relevant form. Upon receipt of the completed form, we will process your request in accordance with applicable law. 
 
 ### Sharing Your Personal Information
 
@@ -79,14 +101,7 @@ As is true of most web sites, we gather certain information automatically and st
 
 We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you.
 
-Technologies such as: cookies, beacons, tags and scripts are used by Reimage and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use cookies to remember users’ settings (e.g. language preference). Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information.  
-To manage Flash LSOs please click [here.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
-
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. 
+Technologies such as: cookies, beacons, tags and scripts are used by Reimage and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. To find more about the cookies we set please review our Cookie Policy here: https://www.reimageplus.com/cookie-policy/
 
 ### Third Party Websites
 
@@ -98,7 +113,7 @@ If you participate in the blog offered on this site, remember that postings are 
 
 ### Customer Testimonials/Review
 
-We post customer testimonials/reviews on our web site which may contain personally identifiable information. We do not use any identifying information such as email or user ID on these testimonials, and the name is fabricated in order to protect the identity of our customers. Testimonials and user feedback are used sporadically in marketing materials, and are identified as a Reimage Customer. If you want Reimage to remove your testimonial, or don't want Reimage to use your testimonial in any marketing materials, then please write to: [about@reimageplus.com](mailto:about@reimageplus.com)
+We post customer testimonials/reviews on our web site which may contain personally identifiable information. We do not use any identifying information such as email or user ID on these testimonials, and the name is fabricated in order to protect the identity of our customers. Testimonials and user feedback are used sporadically in marketing materials, and are identified as a Reimage Customer. If you want Reimage to remove your testimonial, or don't want Reimage to use your testimonial in any marketing materials, then please write to: [dpo@reimageplus.com](mailto:dpo@reimageplus.com)
 
 ### Social Media Features and Widgets
 
@@ -106,7 +121,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 ### Children's Privacy
 
-Our Service is not intended to be used by children. We do not knowingly collect personal information from children under the age of 13.
+Our Service is not intended to be used by children. We do not knowingly collect personal information from children under the age of 16.
 
 ### Policy Updates
 
@@ -114,16 +129,15 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective. 
 
-Last update: 5/12/2015. 
+Last update: 11/05/2018. 
 
 ### Questions or Comments?
 
-Please send your question or comments to us at: [legal@reimageplus.com](mailto:legal@reimageplus.com)
+Please send your question or comments to us at: [dpo@reimageplus.com](mailto:dpo@reimageplus.com)
 
 Or to:
 
 Reimage Limited  
 Athinodorou 3  
 Dasoupoli, Strovolos, Nicosia  
-P.C. 2025  
-Cyprus
+P.C. 2025, Cyprus
