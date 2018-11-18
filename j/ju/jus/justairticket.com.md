@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justairticket.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501213837id_/http%3A//www.justairticket.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justairticket.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118114754id_/https%3A//www.justairticket.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # 
 
