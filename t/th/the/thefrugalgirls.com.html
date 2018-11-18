@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thefrugalgirls.com privacy policy that was archived on 2018-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180607140640id_/http%3A//thefrugalgirls.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thefrugalgirls.com privacy policy that was archived on 2018-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181118144106id_/http%3A//thefrugalgirls.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="UTF-8">
@@ -29,9 +29,174 @@
 <link rel="alternate" type="application/rss+xml" title="The Frugal Girls » Feed" href="http://thefrugalgirls.com/feed">
 <link rel="alternate" type="application/rss+xml" title="The Frugal Girls » Comments Feed" href="http://thefrugalgirls.com/comments/feed">
 <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/thefrugalgirls.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://thefrugalgirls.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.6" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/thefrugalgirls.com\/wp-includes\/js\/wp-emoji.js?ver=4.9.8","twemoji":"http:\/\/thefrugalgirls.com\/wp-includes\/js\/twemoji.js?ver=4.9.8"}};
+			( function( window, document, settings ) {
+	var src, ready, ii, tests;
+
+	/*
+	 * Create a canvas element for testing native browser support
+	 * of emoji.
+	 */
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
+
+	/**
+	 * Check if two sets of Emoji characters render the same.
+	 *
+	 * @param set1 array Set of Emoji characters.
+	 * @param set2 array Set of Emoji characters.
+	 * @returns {boolean} True if the two sets render the same.
+	 */
+	function emojiSetsRenderIdentically( set1, set2 ) {
+		var stringFromCharCode = String.fromCharCode;
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set1 ), 0, 0 );
+		var rendered1 = canvas.toDataURL();
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set2 ), 0, 0 );
+		var rendered2 = canvas.toDataURL();
+
+		return rendered1 === rendered2;
+	}
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "flag" or "emoji".
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var isIdentical;
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
+				 * so gives us an easy test for full support.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly ([U] + [N]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55356, 56826, 55356, 56819 ],
+					[ 55356, 56826, 8203, 55356, 56819 ]
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for English flag compatibility. England is a country in the United Kingdom, it
+				 * does not have a two letter locale code but rather an five letter sub-division code.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447 ],
+					[ 55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447 ]
+				);
+
+				return ! isIdentical;
+			case 'emoji':
+				/*
+				 * She's the hero Emoji deserves, but not the one it needs right now.
+				 *
+				 * To test for support, try to render a new emoji (female superhero),
+				 * then compare it to how it would look if the browser doesn't render it correctly
+				 * (superhero + female sign).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[55358, 56760, 9792, 65039],
+					[55358, 56760, 8203, 9792, 65039]
+				);
+				return ! isIdentical;
+		}
+
+		return false;
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.defer = script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	tests = Array( 'flag', 'emoji' );
+
+	settings.supports = {
+		everything: true,
+		everythingExceptFlag: true
+	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.everything ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script><script src="http://thefrugalgirls.com/wp-includes/js/twemoji.js?ver=4.9.8" type="text/javascript" defer=""></script><script src="http://thefrugalgirls.com/wp-includes/js/wp-emoji.js?ver=4.9.8" type="text/javascript" defer=""></script>
 <style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -47,23 +212,23 @@ img.emoji {
 }
 </style>
 <link rel="stylesheet" id="magazine-pro-theme-css" href="http://thefrugalgirls.com/wp-content/themes/magazine-pro/style.css?ver=3.1" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="http://thefrugalgirls.com/wp-includes/css/dashicons.min.css?ver=4.9.6" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://thefrugalgirls.com/wp-includes/css/dashicons.css?ver=4.9.8" type="text/css" media="all">
 <link rel="stylesheet" id="google-fonts-css" href="//fonts.googleapis.com/css?family=Roboto%3A300%2C400%7CRaleway%3A400%2C500%2C900&amp;ver=3.1" type="text/css" media="all">
 <link rel="stylesheet" id="jetpack-widget-social-icons-styles-css" href="http://thefrugalgirls.com/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css?ver=20170506" type="text/css" media="all">
-<link rel="stylesheet" id="addtoany-css" href="http://thefrugalgirls.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.14" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="http://thefrugalgirls.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack-top-posts-widget-css" href="http://thefrugalgirls.com/wp-content/plugins/jetpack/modules/widgets/top-posts/style.css?ver=20141013" type="text/css" media="all">
+<link rel="stylesheet" id="addtoany-css" href="http://thefrugalgirls.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15" type="text/css" media="all">
 <script type="text/javascript" src="http://thefrugalgirls.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="http://thefrugalgirls.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://thefrugalgirls.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0"></script>
+<script type="text/javascript" src="http://thefrugalgirls.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://thefrugalgirls.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1"></script>
 <!--[if lt IE 9]>
-<script type='text/javascript' src='http://thefrugalgirls.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<script type='text/javascript' src='http://thefrugalgirls.com/wp-content/themes/genesis/lib/js/html5shiv.js?ver=3.7.3'></script>
 <![endif]-->
 <script type="text/javascript" src="http://thefrugalgirls.com/wp-content/themes/magazine-pro/js/entry-date.js?ver=1.0.0"></script>
 <script type="text/javascript" src="http://thefrugalgirls.com/wp-content/themes/magazine-pro/js/responsive-menu.js?ver=1.0.0"></script>
 <link rel="https://api.w.org/" href="http://thefrugalgirls.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thefrugalgirls.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thefrugalgirls.com/wp-includes/wlwmanifest.xml">
-<meta name="generator" content="WordPress 4.9.6">
+<meta name="generator" content="WordPress 4.9.8">
 <link rel="shortlink" href="https://wp.me/P5wzp9-1S4">
 <link rel="alternate" type="application/json+oembed" href="http://thefrugalgirls.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthefrugalgirls.com%2Fprivacy-policy">
 <link rel="alternate" type="text/xml+oembed" href="http://thefrugalgirls.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthefrugalgirls.com%2Fprivacy-policy&amp;format=xml">
@@ -72,7 +237,7 @@ window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overl
 (function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
 </script>
 <link rel="dns-prefetch" href="//v0.wordpress.com">
-<style type="text/css">img#wpstats{display:none}</style><meta name="p:domain_verify" content="a0804a81d86b770d26c64b1977a42ee2"><style type="text/css">.site-title a { background: url(http://thefrugalgirls.com/wp-content/uploads/2016/02/cropped-TheFrugalGirls.com-Spring-Logo-1.png) no-repeat !important; }</style>
+<style type="text/css">img#wpstats{display:none}</style><meta name="p:domain_verify" content="a0804a81d86b770d26c64b1977a42ee2"><style type="text/css">.site-title a { background: url(http://thefrugalgirls.com/wp-content/uploads/2015/11/cropped-TheFrugalGirls.com-Christmas-Logo.png) no-repeat !important; }</style>
 <meta name="pinterest-rich-pin" content="false">
 <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
@@ -137,18 +302,16 @@ window.cookieconsent.initialise({
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script><div class="site-container"><nav class="nav-primary" aria-label="Main" itemscope="" itemtype="https://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-new-menu" class="menu genesis-nav-menu menu-primary"><li id="menu-item-228452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-228452"><a href="/category/shop" itemprop="url"><span itemprop="name">SHOP</span></a></li>
-<li id="menu-item-237460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-237460"><a href="/gift-ideas" itemprop="url"><span itemprop="name">GIFT</span></a></li>
-<li id="menu-item-225469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-225469"><a href="/summer-crockpot-recipes" itemprop="url"><span itemprop="name">CROCKPOT</span></a></li>
-<li id="menu-item-239837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-239837"><a href="/2013/05/camping-menu-tips-2.html" itemprop="url"><span itemprop="name">CAMPING</span></a></li>
-<li id="menu-item-240584" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240584"><a href="/fun-4th-of-july-recipes" itemprop="url"><span itemprop="name">4th of JULY</span></a></li>
-<li id="menu-item-223362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-223362"><a href="/best-dog-toys" itemprop="url"><span itemprop="name">DOGS</span></a></li>
+}(document, 'script', 'facebook-jssdk'));</script><div class="site-container"><nav class="nav-primary" aria-label="Main" itemscope="" itemtype="https://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-new-menu" class="menu genesis-nav-menu menu-primary"><li id="menu-item-275539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-275539"><a href="/best-black-friday-deals-this-year" itemprop="url"><span itemprop="name">BLACK FRIDAY 2018</span></a></li>
+<li id="menu-item-225469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-225469"><a href="/gift-ideas" itemprop="url"><span itemprop="name">STOCKING STUFFERS</span></a></li>
+<li id="menu-item-237460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-237460"><a href="/gift-ideas" itemprop="url"><span itemprop="name">GIFTS</span></a></li>
+<li id="menu-item-223362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-223362"><a href="/best-dog-toys" itemprop="url"><span itemprop="name">DOG</span></a></li>
 <li id="menu-item-210752" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-210752"><a href="http://thefrugalgirls.com/best-free-baby-products" itemprop="url"><span itemprop="name">BABY</span></a></li>
-<li id="menu-item-251339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-251339"><a href="/frugal-fashionista" itemprop="url"><span itemprop="name">FASHION</span></a></li>
+<li id="menu-item-251339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-251339"><a href="/frugal-fashionista" itemprop="url"><span itemprop="name">APPAREL</span></a></li>
+<li id="menu-item-239837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-239837"><a href="/home-organizing-tips-and-tricks" itemprop="url"><span itemprop="name">ORGANIZE</span></a></li>
 <li id="menu-item-221324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-221324"><a href="/fun-crafts" itemprop="url"><span itemprop="name">CRAFT</span></a></li>
-<li id="menu-item-208700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-208700"><a href="/travel-tips-destinations" itemprop="url"><span itemprop="name">TRAVEL</span></a></li>
+<li id="menu-item-208700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-208700"><a href="/travel-tips-destinations" itemprop="url"><span itemprop="name">VACAY</span></a></li>
 <li id="menu-item-218028" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218028"><a href="/disclosure-policy-statement" itemprop="url"><span itemprop="name">DISCLOSURE</span></a></li>
-<li id="menu-item-182894" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-182894"><a href="/about" itemprop="url"><span itemprop="name">+</span></a></li>
 </ul></div></nav><header class="site-header" itemscope="" itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://thefrugalgirls.com/">The Frugal Girls</a></p><p class="site-description" itemprop="description">Easy Recipes, Crockpot, Instant Pot, Cast Iron, Money Saving Tips, Travel</p></div><div class="widget-area header-widget-area"><section id="custom_html-2" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3609717498287896" data-ad-slot="8848911719" data-ad-format="auto"></ins>
@@ -159,10 +322,11 @@ window.cookieconsent.initialise({
 <ul class="sub-menu">
 <li id="menu-item-206393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206393"><a href="/easy-5-ingredient-recipes" itemprop="url"><span itemprop="name">5 INGREDIENTS OR LESS</span></a></li>
 <li id="menu-item-193363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193363"><a href="/easy-appetizer-recipes" itemprop="url"><span itemprop="name">APPETIZERS</span></a></li>
-<li id="menu-item-239429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-239429"><a href="/tag/baby-food" itemprop="url"><span itemprop="name">BABY FOOD</span></a></li>
+<li id="menu-item-239429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-239429"><a href="/easy-homemade-baby-food-recipes" itemprop="url"><span itemprop="name">BABY FOOD</span></a></li>
 <li id="menu-item-193364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193364"><a href="/delicious-beverage-recipes" itemprop="url"><span itemprop="name">BEVERAGES</span></a></li>
 <li id="menu-item-193365" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193365"><a href="/breakfast-and-brunch-recipes" itemprop="url"><span itemprop="name">BREAKFAST</span></a></li>
 <li id="menu-item-193366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193366"><a href="/2013/05/camping-menu-tips-2.html" itemprop="url"><span itemprop="name">CAMPING</span></a></li>
+<li id="menu-item-277984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-277984"><a href="/easy-cast-iron-skillet-recipes" itemprop="url"><span itemprop="name">CAST IRON SKILLET</span></a></li>
 <li id="menu-item-193368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193368"><a href="/best-crock-pot-recipes" itemprop="url"><span itemprop="name">CROCK POT</span></a></li>
 <li id="menu-item-193441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193441"><a href="/delicious-dessert-recipes" itemprop="url"><span itemprop="name">DESSERTS</span></a></li>
 <li id="menu-item-193442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193442"><a href="/easy-dinner-recipes" itemprop="url"><span itemprop="name">DINNER</span></a></li>
@@ -172,15 +336,13 @@ window.cookieconsent.initialise({
 <li id="menu-item-240586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240586"><a href="/one-pot-meals" itemprop="url"><span itemprop="name">ONE POT MEALS</span></a></li>
 <li id="menu-item-213650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213650"><a href="/easy-homemade-sauce-recipes" itemprop="url"><span itemprop="name">SAUCES</span></a></li>
 <li id="menu-item-203742" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-203742"><a href="/diy-seasoning-recipes" itemprop="url"><span itemprop="name">SEASONINGS</span></a></li>
-<li id="menu-item-240587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240587"><a href="/tag/skillet" itemprop="url"><span itemprop="name">SKILLET</span></a></li>
+<li id="menu-item-240587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240587"><a href="/easy-cast-iron-skillet-recipes" itemprop="url"><span itemprop="name">SKILLET</span></a></li>
 <li id="menu-item-240588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240588"><a href="/best-soup-recipes" itemprop="url"><span itemprop="name">SOUPS</span></a></li>
 <li id="menu-item-193449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193449"><a href="/genius-kitchen-tips-and-tricks" itemprop="url"><span itemprop="name">KITCHEN TIPS</span></a></li>
 <li id="menu-item-193450" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193450"><a href="/homemade-cleaners" itemprop="url"><span itemprop="name">DIY CLEANERS</span></a></li>
 <li id="menu-item-204056" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-204056"><a href="/the-frugal-girls-recipe-index" itemprop="url"><span itemprop="name">RECIPE INDEX</span></a></li>
 </ul>
 </li>
-<li id="menu-item-223372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-223372"><a href="/home-organizing-tips-and-tricks" itemprop="url"><span itemprop="name">ORGANIZE</span></a></li>
-<li id="menu-item-223371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-223371"><a href="/homemade-cleaners" itemprop="url"><span itemprop="name">CLEAN</span></a></li>
 <li id="menu-item-208691" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-208691"><a href="/home-decor-tips-and-tricks" itemprop="url"><span itemprop="name">DECOR</span></a>
 <ul class="sub-menu">
 <li id="menu-item-219464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-219464"><a href="/christmas-decorating-ideas" itemprop="url"><span itemprop="name">CHRISTMAS DECOR</span></a></li>
@@ -191,7 +353,6 @@ window.cookieconsent.initialise({
 <li id="menu-item-232140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-232140"><a href="/2016/03/creating-curb-appeal-on-a-budget.html" itemprop="url"><span itemprop="name">CURB APPEAL</span></a></li>
 </ul>
 </li>
-<li id="menu-item-193353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193353"><a href="/frugal-holiday-ideas" itemprop="url"><span itemprop="name">HOLIDAYS</span></a></li>
 <li id="menu-item-193359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-193359"><a href="/party-ideas" itemprop="url"><span itemprop="name">PARTY</span></a>
 <ul class="sub-menu">
 <li id="menu-item-193458" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193458"><a href="/party-punch-recipes" itemprop="url"><span itemprop="name">PARTY PUNCHES</span></a></li>
@@ -201,15 +362,24 @@ window.cookieconsent.initialise({
 <li id="menu-item-193454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193454"><a href="/game-day-recipes" itemprop="url"><span itemprop="name">GAME DAY</span></a></li>
 <li id="menu-item-193452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193452"><a href="/2013/04/creative-graduation-party-ideas.html" itemprop="url"><span itemprop="name">GRADUATION</span></a></li>
 <li id="menu-item-225785" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-225785"><a href="/tag/party-themes" itemprop="url"><span itemprop="name">PARTY THEMES</span></a></li>
+<li id="menu-item-193451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193451"><a href="/wedding-freebies" itemprop="url"><span itemprop="name">WEDDING</span></a></li>
 </ul>
 </li>
-<li id="menu-item-193451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193451"><a href="/wedding-freebies" itemprop="url"><span itemprop="name">BRIDES</span></a></li>
+<li id="menu-item-280327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-280327"><a href="/hot-photo-deals" itemprop="url"><span itemprop="name">PHOTO</span></a></li>
 <li id="menu-item-225120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-225120"><a href="/freebies" itemprop="url"><span itemprop="name">FREEBIES</span></a></li>
-<li id="menu-item-218128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218128"><a href="/top-survey-sites" itemprop="url"><span itemprop="name">MAKE $</span></a></li>
-<li id="menu-item-208701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-208701"><a href="/coupons-and-freebies" itemprop="url"><span itemprop="name">SAVE $</span></a></li>
-<li id="menu-item-227149" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-227149"><a href="/contact-the-frugal-girls" itemprop="url"><span itemprop="name">WORK WITH ME</span></a></li>
+<li id="menu-item-223372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-223372"><a href="/restaurant-deals-ordering-hacks" itemprop="url"><span itemprop="name">RESTAURANT DEALS</span></a></li>
+<li id="menu-item-275451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-275451"><a href="/store-deals" itemprop="url"><span itemprop="name">SHOPPING HACKS</span></a></li>
+<li id="menu-item-218128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218128"><a href="/top-survey-sites" itemprop="url"><span itemprop="name">MAKE $$</span></a></li>
+<li id="menu-item-208701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-208701"><a href="/coupons-and-freebies" itemprop="url"><span itemprop="name">SAVE $$</span></a></li>
+<li id="menu-item-227149" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-227149"><a href="/contact-the-frugal-girls" itemprop="url"><span itemprop="name">CONTACT</span></a></li>
 </ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-7196 page type-page status-publish entry gs-1 gs-odd gs-even gs-featured-content-entry" itemscope="" itemtype="https://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Privacy Policy Statement</h1>
-I may get <a href="http://thefrugalgirls.com/disclosure-policy-statement" target="_blank">paid</a> for ads or purchases made through links in this post.</header><div class="entry-content" itemprop="text"><div class="addtoany_share_save_container addtoany_content addtoany_content_top"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://thefrugalgirls.com/privacy-policy" data-a2a-title="Privacy Policy Statement"><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fthefrugalgirls.com%2Fprivacy-policy&amp;linkname=Privacy%20Policy%20Statement" title="Pinterest" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fthefrugalgirls.com%2Fprivacy-policy&amp;linkname=Privacy%20Policy%20Statement" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_yummly" href="https://www.addtoany.com/add_to/yummly?linkurl=http%3A%2F%2Fthefrugalgirls.com%2Fprivacy-policy&amp;linkname=Privacy%20Policy%20Statement" title="Yummly" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fthefrugalgirls.com%2Fprivacy-policy&amp;linkname=Privacy%20Policy%20Statement" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_stumbleupon" href="https://www.addtoany.com/add_to/stumbleupon?linkurl=http%3A%2F%2Fthefrugalgirls.com%2Fprivacy-policy&amp;linkname=Privacy%20Policy%20Statement" title="StumbleUpon" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div><p><strong>By visiting TheFrugalGirls.com, you are consenting to our Privacy Policy.</strong></p>
+I may get <a href="http://thefrugalgirls.com/disclosure-policy-statement" target="_blank">paid</a> for ads or purchases made through links in this post.</header><div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-url="https://www.thefrugalgirls.com/" data-a2a-title="TheFrugalGirls">
+</div>
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.counts = { recover_protocol: 'http' };
+</script>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script><div class="entry-content" itemprop="text"><div class="addtoany_share_save_container addtoany_content addtoany_content_top"><div class="a2a_kit a2a_kit_size_50 addtoany_list" data-a2a-url="http://thefrugalgirls.com/privacy-policy" data-a2a-title="Privacy Policy Statement"><a class="a2a_button_pinterest a2a_counter" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fthefrugalgirls.com%2Fprivacy-policy&amp;linkname=Privacy%20Policy%20Statement" title="Pinterest" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook a2a_counter" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fthefrugalgirls.com%2Fprivacy-policy&amp;linkname=Privacy%20Policy%20Statement" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_yummly" href="https://www.addtoany.com/add_to/yummly?linkurl=http%3A%2F%2Fthefrugalgirls.com%2Fprivacy-policy&amp;linkname=Privacy%20Policy%20Statement" title="Yummly" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fthefrugalgirls.com%2Fprivacy-policy&amp;linkname=Privacy%20Policy%20Statement" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_printfriendly" href="https://www.addtoany.com/add_to/printfriendly?linkurl=http%3A%2F%2Fthefrugalgirls.com%2Fprivacy-policy&amp;linkname=Privacy%20Policy%20Statement" title="PrintFriendly" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div><p><strong>By visiting TheFrugalGirls.com, you are consenting to our Privacy Policy.</strong></p>
 <p><strong>Overview:</strong></p>
 <p>This privacy policy sets out how The Frugal Girls uses and protects any information that you give while using www.TheFrugalGirls.com. &nbsp;Please Note: do not use this site or any affiliated services if you do not agree with this Privacy Policy and our <a href="http://thefrugalgirls.com/disclosure-policy-statement" target="_blank" rel="noopener">Disclosure Policy</a>.</p><div class="code-block code-block-1" style="margin: 8px auto; text-align: center; clear: both;">
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -242,7 +412,7 @@ I may get <a href="http://thefrugalgirls.com/disclosure-policy-statement" target
 <p><strong>Privacy Policy Changes:</strong></p>
 <p>The Frugal Girls reserves the right to change and update this Privacy Policy at any time. &nbsp;If updated or changed, the revised Privacy Policy shall go into effect immediately. &nbsp;Check this page regularly to ensure that you agree with the current Privacy Policy. &nbsp;Do not use this site or any affiliated services if you do not agree with this Privacy Policy and our <a href="http://thefrugalgirls.com/disclosure-policy-statement" target="_blank" rel="noopener">Disclosure Policy</a>.</p>
 <p><em>This policy was last updated: May 24, 2018</em></p>
-<meta itemprop="dateModified" content="2018-05-24T19:28:02+00:00"><meta itemprop="mainEntityOfPage" content="http://thefrugalgirls.com/privacy-policy"></div></article><a href="http://thefrugalgirls.com/about" target="_blank"><img class="aligncenter wp-image-228933 size-full" src="http://thefrugalgirls.com/wp-content/uploads/2017/04/IMG_6174-2.jpg" alt="About Heidi from TheFrugalGirls.com" width="300" height="188"></a><p><strong>Hey there!</strong></p>
+</div></article><a href="http://thefrugalgirls.com/about" target="_blank"><img class="aligncenter wp-image-228933 size-full" src="http://thefrugalgirls.com/wp-content/uploads/2017/04/IMG_6174-2.jpg" alt="About Heidi from TheFrugalGirls.com" width="300" height="188"></a><p><strong>Hey there!</strong></p>
 <p>Thanks for stopping by&nbsp;The Frugal Girls... I'm so glad you're here!
 Check out my top tips for&nbsp;<a href="http://thefrugalgirls.com/top-survey-sites" target="_blank">Easy Ways to Make Extra Money</a>!</p>
 Then join me for all the behind-the-scenes shenanigans here ⬇️
@@ -250,7 +420,6 @@ Then join me for all the behind-the-scenes shenanigans here ⬇️
 <div style="display: inline-block;"><a href="http://www.instagram.com/thefrugalgirls" target="_blank"><img class="alignleft size-full wp-image-160217" src="http://thefrugalgirls.com/wp-content/uploads/2016/08/Small-Instagram-Button.jpg" alt="Small Instagram Button" width="37" height="37"></a></div>
 <div style="display: inline-block; margin-right: 5px;"><a href="http://pinterest.com/frugalgirls/" target="_blank"><img class="alignleft size-full wp-image-160216" src="http://thefrugalgirls.com/wp-content/uploads/2016/08/Small-Pinterest-Button.jpg" alt="Small Pinterest Button" width="37" height="37"></a></div>
 <div style="display: inline-block;"><a href="http://www.facebook.com/thefrugalgirls" target="_blank"><img class="alignleft size-full wp-image-160219" src="http://thefrugalgirls.com/wp-content/uploads/2016/08/Small-Facebook-Button.jpg" alt="Small Facebook Button" width="37" height="37"></a></div>
-<div style="display: inline-block;"><a href="https://plus.google.com/b/102512942803707316670/+frugalgirls/posts" target="blank"><img class="alignleft size-full wp-image-160220" src="http://thefrugalgirls.com/wp-content/uploads/2016/08/Small-Google-Plus-Button.jpg" alt="Small Google Plus Button" width="37" height="37"></a></div>
 <div style="display: inline-block;"><a href="http://feedburner.google.com/fb/a/mailverify?uri=FrugalGirls" target="_blank"><img class="alignleft size-full wp-image-160218" src="http://thefrugalgirls.com/wp-content/uploads/2016/08/Small-Email-Button.jpg" alt="Small Email Button" width="37" height="37"></a></div>
 <div style="display: inline-block;"><a href="https://twitter.com/frugalgirls" target="blank"><img class="alignleft size-full wp-image-160220" src="http://thefrugalgirls.com/wp-content/uploads/2016/08/Small-Twitter-Button.jpg" alt="Small Twitter Button" width="37" height="37"></a></div><p></p></center>
 <center><a class="blsdk-follow" href="https://www.bloglovin.com/blogs/frugal-girls-1902485" target="_blank" data-blsdk-type="button">Follow</a><script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s);js.id = id;js.src = "https://www.bloglovin.com/widget/js/loader.js?v=1";fjs.parentNode.insertBefore(js, fjs);}(document, "script", "bloglovin-sdk"))</script> CLICK TO SUBSCRIBE ON BLOGLOVIN'</center>
@@ -273,40 +442,40 @@ Then join me for all the behind-the-scenes shenanigans here ⬇️
 <center>Hi... and Welcome to The Frugal Girls! I'm a Frugal Girl living in the Sunny South, and love sharing Easy Recipes, DIY Decor, and Simple Tips for Living the Sweet Life on a Budget!
 <a href="http://thefrugalgirls.com/about" target="_blank">Meet Heidi &gt;&gt;</a></center>
 &nbsp;
-<center><a href="https://www.pinterest.com/frugalgirls/" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-246189" src="http://thefrugalgirls.com/wp-content/uploads/2018/02/Pinterest-TFG6.jpg" alt="" width="294" height="42"></a></center>
+<center><a href="https://www.pinterest.com/frugalgirls/" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-280665" src="http://thefrugalgirls.com/wp-content/uploads/2018/11/Pinterest-500.jpg" alt="" width="294" height="42"></a></center>
 <center><a href="https://www.facebook.com/thefrugalgirls/" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-246187" src="http://thefrugalgirls.com/wp-content/uploads/2018/02/Facebook-TFG.jpg" alt="" width="294" height="42"></a></center>
-<center><a href="https://twitter.com/frugalgirls" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-246230" src="http://thefrugalgirls.com/wp-content/uploads/2018/02/Twitter-TFG2.jpg" alt="" width="294" height="43"></a></center>
+<center><a href="https://twitter.com/frugalgirls" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-273525" src="http://thefrugalgirls.com/wp-content/uploads/2018/07/Twitter-The-Frugal-Girls-95.jpg" alt="" width="294" height="43"></a></center>
 <center><a href="http://feedburner.google.com/fb/a/mailverify?uri=FrugalGirls" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-246269" src="http://thefrugalgirls.com/wp-content/uploads/2018/02/Email-TFG4.jpg" alt="" width="294" height="42"></a></center>
-<center><a href="https://www.bloglovin.com/blogs/frugal-girls-1902485" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-270230" src="http://thefrugalgirls.com/wp-content/uploads/2018/05/Bloglovin-25.jpg" alt="" width="294" height="42"></a></center>
-<center><a href="https://www.instagram.com/thefrugalgirls/" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-270284" src="http://thefrugalgirls.com/wp-content/uploads/2018/05/Instagram-15.jpg" alt="" width="294" height="43"></a></center>
-<center><a href="https://plus.google.com/b/102512942803707316670/+frugalgirls" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-246316" src="http://thefrugalgirls.com/wp-content/uploads/2018/02/G-Plus-TFG2.jpg" alt="" width="294" height="42"></a></center>
+<center><a href="https://www.bloglovin.com/blogs/frugal-girls-1902485" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-280668" src="http://thefrugalgirls.com/wp-content/uploads/2018/11/Bloglovin-30.jpg" alt="" width="294" height="43"></a></center>
+<center><a href="https://www.instagram.com/thefrugalgirls/" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-280158" src="http://thefrugalgirls.com/wp-content/uploads/2018/11/Instagram-19.jpg" alt="" width="294" height="43"></a></center>
 <center><a href="http://thefrugalgirls.com/about" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-231143 size-full" src="http://thefrugalgirls.com/wp-content/uploads/2010/02/The-Frugal-Girls-News-Features.jpg" alt="As Seen On" width="295" height="228"></a></center>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></div></div></section>
 <section id="featured-post-2" class="widget featured-content featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">ALL-TIME MOST POPULAR:</h4>
-<article class="post-213064 post type-post status-publish format-standard has-post-thumbnail category-black-friday category-black-friday-2012 category-daily-deals category-make-money category-most-popular-3 category-most-popular-6 category-swagbucks tag-harris-poll tag-ipsos tag-mysurvey tag-opinion-outpost tag-survey-junkie entry gs-1 gs-odd gs-even gs-featured-content-entry"><a href="http://thefrugalgirls.com/2016/06/earn-free-amazon-gift-cards.html" class="alignleft" aria-hidden="true"><img width="150" height="93" src="http://thefrugalgirls.com/wp-content/uploads/2017/11/Amazon-Free-Shopping-Hack-150x93.jpg" class="entry-image attachment-post" alt="How to Earn Free Amazon Gift Cards Fast! {10 Easy Tips}" itemprop="image" srcset="http://thefrugalgirls.com/wp-content/uploads/2017/11/Amazon-Free-Shopping-Hack-150x93.jpg 150w, http://thefrugalgirls.com/wp-content/uploads/2017/11/Amazon-Free-Shopping-Hack-300x185.jpg 300w, http://thefrugalgirls.com/wp-content/uploads/2017/11/Amazon-Free-Shopping-Hack.jpg 612w" sizes="(max-width: 150px) 100vw, 150px"></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="http://thefrugalgirls.com/2016/06/earn-free-amazon-gift-cards.html">How to Earn Free Amazon Gift Cards Fast! {10 Easy Tips}</a></h2></header></article><article class="post-33121 post type-post status-publish format-standard has-post-thumbnail category-ask-your-frugal-friends category-camping category-most-popular-6 category-travel entry gs-1 gs-odd gs-even gs-featured-content-entry"><a href="http://thefrugalgirls.com/2011/03/camping-tips.html" class="alignleft" aria-hidden="true"><img width="150" height="113" src="http://thefrugalgirls.com/wp-content/uploads/2015/03/Red-Cliffs-Campground-Utah-TheFrugalGirls.com_-150x113.jpg" class="entry-image attachment-post" alt="201 Camping Tips and Tricks For Beginners! {Genius Hacks}" itemprop="image" srcset="http://thefrugalgirls.com/wp-content/uploads/2015/03/Red-Cliffs-Campground-Utah-TheFrugalGirls.com_-150x113.jpg 150w, http://thefrugalgirls.com/wp-content/uploads/2015/03/Red-Cliffs-Campground-Utah-TheFrugalGirls.com_-300x225.jpg 300w, http://thefrugalgirls.com/wp-content/uploads/2015/03/Red-Cliffs-Campground-Utah-TheFrugalGirls.com_.jpg 600w" sizes="(max-width: 150px) 100vw, 150px"></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="http://thefrugalgirls.com/2011/03/camping-tips.html">201 Camping Tips and Tricks For Beginners! {Genius Hacks}</a></h2></header></article><article class="post-238836 post type-post status-publish format-standard has-post-thumbnail category-baby category-most-popular-6 category-shop category-thrifty-gifts entry gs-1 gs-odd gs-even gs-featured-content-entry"><a href="http://thefrugalgirls.com/2018/05/free-baby-sandals.html" class="alignleft" aria-hidden="true"><img width="150" height="133" src="http://thefrugalgirls.com/wp-content/uploads/2018/04/Sandals-for-Babies-Learning-to-Walk-150x133.jpg" class="entry-image attachment-post" alt="Free Baby Sandals for Summer! {Get Your 2 Free Pairs with this Discount Code!}" itemprop="image" srcset="http://thefrugalgirls.com/wp-content/uploads/2018/04/Sandals-for-Babies-Learning-to-Walk-150x133.jpg 150w, http://thefrugalgirls.com/wp-content/uploads/2018/04/Sandals-for-Babies-Learning-to-Walk-300x266.jpg 300w, http://thefrugalgirls.com/wp-content/uploads/2018/04/Sandals-for-Babies-Learning-to-Walk.jpg 615w" sizes="(max-width: 150px) 100vw, 150px"></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="http://thefrugalgirls.com/2018/05/free-baby-sandals.html">Free Baby Sandals for Summer! {Get Your 2 Free Pairs with this Discount Code!}</a></h2></header></article></div></section>
+<article class="post-104471 post type-post status-publish format-standard has-post-thumbnail category-ask-your-frugal-friends category-christmas category-fun-and-thrifty-gift-ideas category-most-popular-10 category-most-popular-11 category-thrifty-gifts entry gs-1 gs-odd gs-even gs-featured-content-entry"><a href="http://thefrugalgirls.com/2012/09/stocking-stuffers-for-men-2012.html" class="alignleft" aria-hidden="true"><img width="150" height="131" src="http://thefrugalgirls.com/wp-content/uploads/2017/11/Stocking-Stuffers-for-Men-150x131.jpg" class="entry-image attachment-post" alt="BIG List of Fun Stocking Stuffers for Men! {101 Ideas}" itemprop="image" srcset="http://thefrugalgirls.com/wp-content/uploads/2017/11/Stocking-Stuffers-for-Men-150x131.jpg 150w, http://thefrugalgirls.com/wp-content/uploads/2017/11/Stocking-Stuffers-for-Men-300x262.jpg 300w, http://thefrugalgirls.com/wp-content/uploads/2017/11/Stocking-Stuffers-for-Men.jpg 600w" sizes="(max-width: 150px) 100vw, 150px"></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="http://thefrugalgirls.com/2012/09/stocking-stuffers-for-men-2012.html">BIG List of Fun Stocking Stuffers for Men! {101 Ideas}</a></h2></header></article><article class="post-279899 post type-post status-publish format-standard has-post-thumbnail category-black-friday category-clothing category-fun-and-thrifty-gift-ideas category-most-popular-10 category-most-popular-11 category-shop entry gs-1 gs-odd gs-even gs-featured-content-entry"><a href="http://thefrugalgirls.com/2018/11/black-friday-ad-sneak-peeks.html" class="alignleft" aria-hidden="true"><img width="150" height="200" src="http://thefrugalgirls.com/wp-content/uploads/2013/03/Target-Rx-Coupons-150x200.jpg" class="entry-image attachment-post" alt="Black Friday Ad Sneak Peeks! {Walmart, Target, Kohl’s, JCPenney, Macy’s, Meijer, Belk, Best Buy, Costco + more!}" itemprop="image" srcset="http://thefrugalgirls.com/wp-content/uploads/2013/03/Target-Rx-Coupons-150x200.jpg 150w, http://thefrugalgirls.com/wp-content/uploads/2013/03/Target-Rx-Coupons-225x300.jpg 225w, http://thefrugalgirls.com/wp-content/uploads/2013/03/Target-Rx-Coupons.jpg 600w" sizes="(max-width: 150px) 100vw, 150px"></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="http://thefrugalgirls.com/2018/11/black-friday-ad-sneak-peeks.html">Black Friday Ad Sneak Peeks! {Walmart, Target, Kohl’s, JCPenney, Macy’s, Meijer, Belk, Best Buy, Costco + more!}</a></h2></header></article><article class="post-110478 post type-post status-publish format-standard has-post-thumbnail category-ask-your-frugal-friends category-christmas category-fun-and-thrifty-gift-ideas category-most-popular-10 category-most-popular-11 category-thrifty-gifts entry gs-1 gs-odd gs-even gs-featured-content-entry"><a href="http://thefrugalgirls.com/2012/11/creative-co-worker-gift-ideas.html" class="alignleft" aria-hidden="true"><img width="150" height="172" src="http://thefrugalgirls.com/wp-content/uploads/2012/11/Creative-Coworker-Gift-Ideas-150x172.jpg" class="entry-image attachment-post" alt="99 Creative Coworker Gift Ideas! {fun + inexpensive gifts}" itemprop="image" srcset="http://thefrugalgirls.com/wp-content/uploads/2012/11/Creative-Coworker-Gift-Ideas-150x172.jpg 150w, http://thefrugalgirls.com/wp-content/uploads/2012/11/Creative-Coworker-Gift-Ideas-262x300.jpg 262w, http://thefrugalgirls.com/wp-content/uploads/2012/11/Creative-Coworker-Gift-Ideas.jpg 600w" sizes="(max-width: 150px) 100vw, 150px"></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="http://thefrugalgirls.com/2012/11/creative-co-worker-gift-ideas.html">99 Creative Coworker Gift Ideas! {fun + inexpensive gifts}</a></h2></header></article><article class="post-222730 post type-post status-publish format-standard has-post-thumbnail category-amazon-deals category-black-friday category-christmas category-fun-and-thrifty-gift-ideas category-most-popular-11 category-shop category-thrifty-gifts entry gs-1 gs-odd gs-even gs-featured-content-entry"><a href="http://thefrugalgirls.com/2016/11/teenage-guys-stocking-stuffers.html" class="alignleft" aria-hidden="true"><img width="150" height="200" src="http://thefrugalgirls.com/wp-content/uploads/2016/11/Teenage-Guy-Stocking-Stuffers-Ideas-150x200.jpg" class="entry-image attachment-post" alt="77 Teenage Guy Stocking Stuffers! {fun teen boy gifts}" itemprop="image" srcset="http://thefrugalgirls.com/wp-content/uploads/2016/11/Teenage-Guy-Stocking-Stuffers-Ideas-150x200.jpg 150w, http://thefrugalgirls.com/wp-content/uploads/2016/11/Teenage-Guy-Stocking-Stuffers-Ideas-225x300.jpg 225w, http://thefrugalgirls.com/wp-content/uploads/2016/11/Teenage-Guy-Stocking-Stuffers-Ideas.jpg 600w" sizes="(max-width: 150px) 100vw, 150px"></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="http://thefrugalgirls.com/2016/11/teenage-guys-stocking-stuffers.html">77 Teenage Guy Stocking Stuffers! {fun teen boy gifts}</a></h2></header></article><article class="post-213389 post type-post status-publish format-standard has-post-thumbnail category-black-friday category-fun-and-thrifty-gift-ideas category-most-popular-11 category-online-deals category-shop category-thrifty-gifts category-tips entry gs-1 gs-odd gs-even gs-featured-content-entry"><a href="http://thefrugalgirls.com/2016/11/best-white-elephant-gifts-ever.html" class="alignleft" aria-hidden="true"><img width="150" height="171" src="http://thefrugalgirls.com/wp-content/uploads/2016/11/Best-White-Elephant-Gifts-Ever-Ideas-150x171.jpg" class="entry-image attachment-post" alt="101 Best White Elephant Gifts Ever! {Funny Gift Ideas}" itemprop="image" srcset="http://thefrugalgirls.com/wp-content/uploads/2016/11/Best-White-Elephant-Gifts-Ever-Ideas-150x171.jpg 150w, http://thefrugalgirls.com/wp-content/uploads/2016/11/Best-White-Elephant-Gifts-Ever-Ideas-264x300.jpg 264w, http://thefrugalgirls.com/wp-content/uploads/2016/11/Best-White-Elephant-Gifts-Ever-Ideas.jpg 600w" sizes="(max-width: 150px) 100vw, 150px"></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="http://thefrugalgirls.com/2016/11/best-white-elephant-gifts-ever.html">101 Best White Elephant Gifts Ever! {Funny Gift Ideas}</a></h2></header></article><article class="post-238579 post type-post status-publish format-standard has-post-thumbnail category-amazon-deals category-black-friday category-most-popular-11 category-thrifty-gifts category-tips entry gs-1 gs-odd gs-even gs-featured-content-entry"><a href="http://thefrugalgirls.com/2017/12/what-to-give-dad.html" class="alignleft" aria-hidden="true"><img width="150" height="149" src="http://thefrugalgirls.com/wp-content/uploads/2018/11/Christmas-Gift-Ideas-for-Dad-Funny-150x149.jpg" class="entry-image attachment-post" alt="Christmas Gift List: What To Give Dad This Year! {99 Creative Gifts}" itemprop="image" srcset="http://thefrugalgirls.com/wp-content/uploads/2018/11/Christmas-Gift-Ideas-for-Dad-Funny-150x149.jpg 150w, http://thefrugalgirls.com/wp-content/uploads/2018/11/Christmas-Gift-Ideas-for-Dad-Funny-300x297.jpg 300w, http://thefrugalgirls.com/wp-content/uploads/2018/11/Christmas-Gift-Ideas-for-Dad-Funny-100x100.jpg 100w, http://thefrugalgirls.com/wp-content/uploads/2018/11/Christmas-Gift-Ideas-for-Dad-Funny.jpg 600w" sizes="(max-width: 150px) 100vw, 150px"></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="http://thefrugalgirls.com/2017/12/what-to-give-dad.html">Christmas Gift List: What To Give Dad This Year! {99 Creative Gifts}</a></h2></header></article></div></section>
 <section id="top-posts-2" class="widget widget_top-posts"><div class="widget-wrap"><h4 class="widget-title widgettitle">What Other People Are Reading:</h4>
 <ul> <li>
-<a href="http://thefrugalgirls.com/2013/04/crockpot-orange-chicken-recipe.html" class="bump-view" data-bump-view="tp">
-Crockpot Orange Chicken Recipe! {Just 4 Ingredients} </a>
+<a href="http://thefrugalgirls.com/easy-instant-pot-recipes" class="bump-view" data-bump-view="tp">
+16 Easy Instant Pot Recipes for Busy Nights! </a>
+</li>
+<li>
+<a href="http://thefrugalgirls.com/2014/09/worlds-best-pumpkin-bread-recipe.html" class="bump-view" data-bump-view="tp">
+World's Best Pumpkin Bread Recipe! {Easy} </a>
+</li>
+<li>
+<a href="http://thefrugalgirls.com/2015/01/easy-crockpot-taco-soup-recipe.html" class="bump-view" data-bump-view="tp">
+Easy Crockpot Taco Soup Recipe! {quick prep} </a>
+</li>
+<li>
+<a href="http://thefrugalgirls.com/2013/11/easy-crockpot-cranberry-sauce-recipe.html" class="bump-view" data-bump-view="tp">
+Easy Crockpot Cranberry Sauce Recipe! {5 Ingredients} </a>
 </li>
 <li>
 <a href="http://thefrugalgirls.com/5-ingredient-or-less-slow-cooker-suppers" class="bump-view" data-bump-view="tp">
 5 Ingredient Crock Pot Recipes! {125 Easy Meals} </a>
 </li>
-<li>
-<a href="http://thefrugalgirls.com/easy-crockpot-recipes" class="bump-view" data-bump-view="tp">
-201 Easy Crockpot Recipes for Busy Nights! </a>
-</li>
-<li>
-<a href="http://thefrugalgirls.com/2015/10/crock-pot-garlic-parmesan-chicken-recipe.html" class="bump-view" data-bump-view="tp">
-Crock Pot Garlic Parmesan Chicken Recipe! {Secret Ingredient} </a>
-</li>
-<li>
-<a href="http://thefrugalgirls.com/party-punch-recipes" class="bump-view" data-bump-view="tp">
-27 Party Punch Recipes! {5 minute prep} </a>
-</li>
 </ul></div></section>
-<section id="custom_html-6" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<section id="custom_html-6" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><center><a href="http://thefrugalgirls.com/best-black-friday-deals-this-year" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-147940" src="http://thefrugalgirls.com/wp-content/uploads/2013/11/Black-Friday.jpg" alt="" width="300" height="166"></a></center>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({
           google_ad_client: "ca-pub-3609717498287896",
@@ -328,7 +497,6 @@ Crock Pot Garlic Parmesan Chicken Recipe! {Secret Ingredient} </a>
 <div style="display: inline-block;"><a href="http://www.instagram.com/thefrugalgirls" target="_blank"><img class="alignleft size-full wp-image-160217" src="http://thefrugalgirls.com/wp-content/uploads/2016/08/Small-Instagram-Button.jpg" alt="Small Instagram Button" width="37" height="37"></a></div>
 <div style="display: inline-block; margin-right: 5px;"><a href="http://pinterest.com/frugalgirls/" target="_blank"><img class="alignleft size-full wp-image-160216" src="http://thefrugalgirls.com/wp-content/uploads/2016/08/Small-Pinterest-Button.jpg" alt="Small Pinterest Button" width="37" height="37"></a></div>
 <div style="display: inline-block;"><a href="http://www.facebook.com/thefrugalgirls" target="_blank"><img class="alignleft size-full wp-image-160219" src="http://thefrugalgirls.com/wp-content/uploads/2016/08/Small-Facebook-Button.jpg" alt="Small Facebook Button" width="37" height="37"></a></div>
-<div style="display: inline-block;"><a href="https://plus.google.com/b/102512942803707316670/+frugalgirls/posts" target="blank"><img class="alignleft size-full wp-image-160220" src="http://thefrugalgirls.com/wp-content/uploads/2016/08/Small-Google-Plus-Button.jpg" alt="Small Google Plus Button" width="37" height="37"></a></div>
 <div style="display: inline-block;"><a href="http://feedburner.google.com/fb/a/mailverify?uri=FrugalGirls" target="_blank"><img class="alignleft size-full wp-image-160218" src="http://thefrugalgirls.com/wp-content/uploads/2016/08/Small-Email-Button.jpg" alt="Small Email Button" width="37" height="37"></a></div>
 <div style="display: inline-block;"><a href="https://twitter.com/frugalgirls" target="blank"><img class="alignleft size-full wp-image-160220" src="http://thefrugalgirls.com/wp-content/uploads/2016/08/Small-Twitter-Button.jpg" alt="Small Twitter Button" width="37" height="37"></a></div>
 <p style="text-align: center;">Copyright © 2009 - 2018&nbsp; &nbsp; | &nbsp; <a href="http://thefrugalgirls.com/top-survey-sites" target="_blank" rel="noopener">How To Make Money From Home</a> &nbsp; | &nbsp; <a href="http://thefrugalgirls.com/how-to-start-a-blog" target="_blank">How to Start a Blog</a>!</p><p style="text-align: center;"><a href="http://thefrugalgirls.com/metric-conversion-cooking" target="_blank">Metric Conversions</a>&nbsp; | &nbsp;<a href="http://thefrugalgirls.com/disclosure-policy-statement" target="_blank">Disclosure Policy</a> &nbsp; | &nbsp; <a href="http://thefrugalgirls.com/privacy-policy" target="_blank">Privacy Policy</a> &nbsp; | &nbsp; <a href="http://thefrugalgirls.com/about" target="_blank">About Me</a></p></div></footer></div>
@@ -355,12 +523,12 @@ Crock Pot Garlic Parmesan Chicken Recipe! {Secret Ingredient} </a>
     }
   })('SW-94461737-1');
 </script>
- <script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201823"></script>
-<script type="text/javascript" src="http://thefrugalgirls.com/wp-includes/js/wp-embed.min.js?ver=4.9.6"></script>
-<script type="text/javascript" src="https://stats.wp.com/e-201823.js" async="async" defer="defer"></script>
+ <script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201846"></script>
+<script type="text/javascript" src="http://thefrugalgirls.com/wp-includes/js/wp-embed.js?ver=4.9.8"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201846.js" async="async" defer="defer"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:6.1.1',blog:'81644275',post:'7196',tz:'-7',srv:'thefrugalgirls.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:6.6.1',blog:'81644275',post:'7196',tz:'-7',srv:'thefrugalgirls.com'} ]);
 	_stq.push([ 'clickTrackerInit', '81644275', '7196' ]);
 </script>
 
