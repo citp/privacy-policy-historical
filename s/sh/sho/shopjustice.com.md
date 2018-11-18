@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopjustice.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004184304id_/https%3A//www.shopjustice.com/customerService/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopjustice.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118010938id_/https%3A//www.shopjustice.com/customerService/privacy) for the most accurate reproduction.*
 
 # Default | Justice
 
