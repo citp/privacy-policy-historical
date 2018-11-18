@@ -1,95 +1,113 @@
-> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012155823id_/https%3A//www.barclaycard.co.uk/personal/privacy-policy%3Fref%3Dtop-nav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118082719id_/https%3A//www.barclaycard.co.uk/personal/privacy-policy) for the most accurate reproduction.*
 
 # Barclaycard Privacy and Cookie Policy | Barclaycard
 
-Please read our privacy policy carefully before using this website ("the Site"). In this policy "we", "us", "our" and “ours” means Barclays Bank PLC and "you" means the person using the Site.
+## Privacy Policy
 
-View our [ guide to cookies ](http://www.barclaycard.co.uk/privacy-policy/cookies/index.html "Barclaycard guide to cookies")  for further information.
+This policy applies to information we hold about you.  In this policy, 'we', 'us', and 'our' mean Barclaycard, which is a trading name of Barclays Bank UK PLC., registered number 9740322, registered office 1 Churchill Place, London E14 5HP. Barclaycard’s trading address is at 1234 Pavilion Drive, Northampton NN4 7SG.  'You' means the person the information relates to.
 
-View the full [ UK Cards Privacy Policy ](https://web.archive.org/files/Privacy_Policy_terms.pdf) PDF (476KB) (this is the Privacy Policy for your card product)
+This policy applies to information held about customers and possible future customers, suppliers and possible future suppliers, contacts and all other people we hold information about.  By ‘information’ we mean personal and financial information about you that we collect, use, share and store. For further details on the information about you that we may process, please see the full [Barclaycard Privacy Policy](https://web.archive.org/content/dam/barclaycard/documents/personal/Privacy_Policy_terms.pdf "View the Barclaycard privacy policy, opens in a new window") PDF (339KB).
 
-* * *
+### How we collect information about you
 
-##  How we collect information about you
+We collect, use, share and store information about you to provide you with the services that you have requested from us and to share information with you about services that may be of interest to you.  We will collect your information directly from you or from third parties.  For further details of where we may obtain your information from, see the full [Barclaycard Privacy Policy](https://web.archive.org/content/dam/barclaycard/documents/personal/Privacy_Policy_terms.pdf "View the Barclaycard privacy policy, opens in a new window") PDF (339KB).
 
-We collect personal and financial information from you or third parties every time you apply for any card(s) or any other product. We also collect information about you when you access this Site, register to use the services we offer on this Site, or when you contact us.
+### How we use your information
 
-This may include information you provide to us, for example when using a contact or application form, or information we obtain or learn, for example such as information about how you use our site or the device(s) you use to access it.
+We use this information:
 
-We will use this information to provide the product or service you have requested, for example to process an application form or respond to an enquiry, and we may use your information for any purpose we tell you about in connection with that product or service. We may also gather information using cookies.
+  * to provide our services to you;
+  * to help us develop new and improved products and services to meet our customers' needs;
+  * for security and to check your identity; 
+  * for training;
+  * to communicate with you;
+  * to comply with legal and regulatory obligations;
+  * where we have a legitimate interest in doing so, such as the protection of our business interests or the prevention of fraud; and
+  * to keep you informed about products and services you hold with us and to send you information about products or services (including those of other companies that may be of interest to you).
 
-##  Sharing your information with others
 
-We may need to pass on your information to people who provide a service to us, with the understanding that they keep your information confidential, and to anyone to whom we may transfer our rights and duties. We may also disclose your information if we're required to do so by law.
 
-If we transfer your information to a service provider in another country, we'll make sure they agree to apply the same levels of protection that we adhere to in the UK. They will only use your information for the purpose of providing the service to us.
+We will use automated processes. For further information, including the legal basis on which we use your information, please see the full [Barclaycard Privacy Policy](https://web.archive.org/content/dam/barclaycard/documents/personal/Privacy_Policy_terms.pdf "View the Barclaycard privacy policy, opens in a new window") PDF (339KB).
 
-##  How long we keep your personal information on file
+### Sharing your information with others
 
-We won't keep your information for longer than necessary and will take steps to ensure that it's kept up to date. You have a right, under the Data Protection Act 1998, to ask what information we hold about you.
+We’ll keep your information confidential but we may share it in certain circumstances, for the purposes set out in this policy, with:
 
-You can do this by writing to us at: 
+  * other Barclays companies;
+  * other companies who provide a service to you, for example if you use our products to make a purchase or payment;
+  * any company we are providing services with or whose name or logo appears on our products;
+  * our service providers and agents, including their subcontractors;
+  * social media companies so that they can display messages to you about our products and services; 
+  * anyone we transfer or may transfer our rights, duties, debts or assets to;
+  * credit reference agencies; and
+  * fraud prevention agencies who will use it to prevent fraud and money-laundering and to verify your identity. If fraud is detected, you could be refused certain services, finance or employment.
 
-Barclaycard  
-1234 Pavilion Drive  
-Northampton  
-NN4 7SG  
-United Kingdom
 
-##  Security
+
+The people and organisations listed above will also have to keep it secure and confidential.
+
+For further details of third parties we may share your information with, and how your information will be used by us, fraud prevention agencies, credit reference agencies, and other third parties, see the full [Barclaycard Privacy Policy](https://web.archive.org/content/dam/barclaycard/documents/personal/Privacy_Policy_terms.pdf "View the Barclaycard privacy policy, opens in a new window") PDF (339KB).  
+
+
+### Credit Reference Agencies and Fraud Prevention Agencies
+
+We will supply your personal information to credit reference agencies and fraud prevention agencies and they will give us information about you, such as about your financial history. We do this to assess creditworthiness and product suitability, check your identity, manage your account, trace and recover debts and prevent criminal activity. These agencies may in turn share your personal information with other organisations. If fraud is detected, you could be refused certain services, finance or employment.
+
+If false or inaccurate information is provided to us and fraud is identified, details may be passed to credit reference and fraud prevention agencies to prevent fraud and money laundering and to verify your identity.
+
+The Credit Reference Agency Information Notice (CRAIN) describes how the three main credit reference agencies in the UK each use and share personal data. The CRAIN is available on the credit reference agencies’ websites:
+
+  * [www.callcredit.co.uk/crain](https://www.callcredit.co.uk/crain "View CRAIN information on Callcredit website, opens in a new window, third party site")
+  * [www.equifax.co.uk/crain](https://www.equifax.co.uk/crain "View CRAIN information on Equifax website, opens in a new window, third party site")
+  * [www.experian.co.uk/crain](https://www.experian.co.uk/crain "View CRAIN information on Experian website, opens in a new window, third party site")
+
+
+
+Or you can ask us for a copy of these.
+
+For more details on how information held by credit reference agencies and fraud prevention agencies may be used, please see the full [Barclaycard Privacy Policy](https://web.archive.org/content/dam/barclaycard/documents/personal/Privacy_Policy_terms.pdf "View the Barclaycard privacy policy, opens in a new window") PDF (339KB).  
+
+
+### Your rights
+
+You have rights relating to the way that we use your information, and can make certain choices. For example, you can:
+
+  * inform us of a correction to your personal data;
+  * withdraw any permission you have previously given to allow us to use your information;
+  * object to any automated decision-making;
+  * ask us to stop or start sending you marketing messages; 
+  * ask us to send you (or someone you nominate) a copy of the information we hold about you;
+  * ask us to stop using your information in certain circumstances.
+
+
+
+To use any of the rights set out above, or to discuss any other issue relating to your information, please contact us via the methods set out in the 'Contact us' section.
+
+If you have any concerns about the way we use your information, you have the right to complain to the Information Commissioner's Office, which regulates the use of personal information in the UK, by calling [0303 123 1113](tel:030320123201113 "Call the ICO on 0303 123 1113") or via [www.ico.org.uk/make-a-complaint/](https://ico.org.uk/make-a-complaint/ "View the Information Commissioner's Office website, opens in a new window, third party site").
+
+For further details on your rights concerning the way we use your information, and other ways to contact us, please see the full [Barclaycard Privacy Policy](https://web.archive.org/content/dam/barclaycard/documents/personal/Privacy_Policy_terms.pdf "View the Barclaycard privacy policy, opens in a new window") PDF (339KB).  
+
+
+### Contact us
+
+Please go to [www.barclays.co.uk/control-your-data](https://www.barclays.co.uk/important-information/control-your-data/ "View Barclays control your data page, opens in a new window") if you have any questions about privacy issues. If you would like more information on your rights, or you want to exercise them, please send a request through our website at [www.barclays.co.uk/control-your-data](https://www.barclays.co.uk/important-information/control-your-data/ "View Barclays control your data page, opens in a new window").
+
+You can contact our data protection officer at: The Data Protection Officer, Barclays Bank UK PLC, Leicester, LE87 2BB or email: [DPO@Barclays.com](mailto:DPO@Barclays.com "Email the Barclays data protection officer").  
+
+
+### Changes to personal data law
+
+In May 2018, the General Data Protection Regulation (GDPR) will change the law in regard to your personal data. Explore [www.barclays.co.uk/control-your-data](https://www.barclays.co.uk/important-information/control-your-data/ "Visit Barclays GDPR Page, opens in a new window") to see how it affects you. It includes updates to our privacy notices to reflect your rights in relation to personal data, and the legal grounds for using it.  
+
+
+### Important information about Payment Protection Insurance (PPI)
+
+If you’re looking for information about PPI, you don’t need to submit a subject access request. You can ask us to check if you’ve had or have PPI, or make a complaint about it, for free.
+
+[Visit our PPI page](https://web.archive.org/personal/ppi "Visit our PPI page")
+
+### Security
 
 Please remember that any messages you send over the internet aren't secure unless they are encrypted. We’re not responsible for unauthorised access by a third party or the corruption of any information sent to us.
 
 So for your own security, please don't send us any personal or account information by standard email.
-
-* * *
-
-##  COOKIE POLICY
-
-##  What are cookies and how do we use them?
-
-Cookies are text files containing small amounts of information, which your computer or mobile device downloads when you visit a website. When you return to websites – or visit other websites that use the same cookies – they recognise these cookies and therefore your browsing device.
-
-Cookies do lots of different jobs, like helping us understand how this website is being used, letting you navigate between pages efficiently, remembering your preferences, and generally improving your browsing experience.  Cookies can also help ensure marketing you see online is more relevant to you and your interests.
-
-You can learn about the cookies we use and how to manage them below.
-
-##  Managing cookies on this website
-
-We use cookies on our website to make your browsing experience better. By using this website you accept our use of cookies.
-
-You can control how cookies are placed on your device and remove existing cookies; all you have to do is change your web browser settings.
-
-Please be aware that restricting cookies may affect the functionality of this website. For example, you would not be able to log into your Barclaycard account if you disable cookies on your browser.  
-
-##  What types of cookies do we use?
-
-The type of cookies used on most websites can generally be put into 1 of 4 categories, based on the International Chamber of Commerce guide to cookie categories; Strictly Necessary, Performance, Functionality and Targeting.
-
-###  Strictly Necessary Cookies
-
-These cookies are essential, as they enable you to move around the website and use its features, such as accessing secure areas. Without these cookies, services you've asked for can't be provided. These cookies don’t gather information about you that is used for marketing or remembering where you've been on the internet.
-
-###  Performance Cookies
-
-These cookies collect information about how you use a website, for example which pages you go to most often and if you get error messages from certain pages. These cookies don’t gather information that identifies you. All information these cookies collect is anonymous and is only used to improve how a website works.
-
-These cookies are not used to target you with online marketing. Without these cookies we can't learn how our website is performing and make relevant improvements that could better your browsing experience.
-
-###  Functionality Cookies
-
-These cookies allow a website to remember choices you make (such as your user name, language or the region you're in) and tailor the website to provide enhanced features and content for you. For instance, a website may be able to provide you with local weather reports or traffic news.
-
-These cookies can also be used to remember changes you've made to text size, font and other parts of pages that you can customise. They may also be used to provide services you've asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymous and they cannot track your browsing activity on other websites.
-
-Without these cookies, a website cannot remember choices you've previously made or personalise your browsing experience.
-
-###  Targeting Cookies
-
-These cookies are used to tailor marketing to you and your interests.  They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They remember that you have visited a website and this information may be shared with other organisations such as advertisers. Although these cookies can track your visits to other websites, they don’t usually know who you are.
-
-Without these cookies, online advertisements you encounter will be less relevant to you and your interests.
-
-##  What happens to cookies that have been downloaded in the past?
-
-Cookies set prior to you changing your settings may still be on your computer. You can remove them using your browser settings. 
