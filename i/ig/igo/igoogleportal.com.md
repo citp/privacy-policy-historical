@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igoogleportal.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520020658id_/http%3A//www.igoogleportal.com/docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igoogleportal.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119214007id_/http%3A//www.igoogleportal.com/docs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,9 @@
 
 * * *
 
-This privacy policy sets out how igoogleportal.com .com uses and protects any information that you give when you use igoogleportal.com.
+_Just to clarify: **iGoogle Portal is not affiliated with or operated by Google.**_
+
+This privacy policy sets out how igoogleportal.com uses and protects any information that you give when you use igoogleportal.com.
 
 igoogleportal.com (here after referred as 'We' or 'Us' or 'Our') is committed to ensure that your privacy is protected. Should We ask you to provide certain information by which you can be identified when using igoogleportal.com, then you can be assured that it will only be used in accordance with this privacy statement. We may change this Privacy Policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
@@ -46,7 +48,7 @@ We are committed to ensure that your information is secure. **_We never sell or 
 
 * * *
 
-We use third-party services which may use cookies to collect information about your visits to www.igoogleportal.com. By default your browser accepts cookies to be placed on your machine however it is possible for you to disable the cookies by changing your browser settings.
+We use third-party services which may use cookies to collect information about your visits to www.igoogleportal.com. by default your browser accepts cookies to be placed on your machine however it is possible for you to disable the cookies by changing your browser settings.
 
 Back to top  
 
