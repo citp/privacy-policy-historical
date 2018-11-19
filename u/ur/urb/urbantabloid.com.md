@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbantabloid.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519234138id_/http%3A//www.urbantabloid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbantabloid.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119022959id_/http%3A//www.urbantabloid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - URBANTABLOID.COM
 
