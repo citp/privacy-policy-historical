@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favable.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515204731id_/http%3A//www.favable.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favable.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119045722id_/http%3A//www.favable.com/privacy.asp) for the most accurate reproduction.*
 
 # FAVable - Web application for managing bookmarks - Web service for managing favorite websites.
 
