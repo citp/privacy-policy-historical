@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailyneopets.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521152158id_/http%3A//thedailyneopets.com/tdn/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailyneopets.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119055058id_/http%3A//thedailyneopets.com/tdn/privacy) for the most accurate reproduction.*
 
 # The Daily Neopets Privacy Policy | The Daily Neopets
 
