@@ -1,29 +1,49 @@
-> *The following text is extracted and transformed from the oneworld-realty.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630195131id_/http%3A//www.oneworld-realty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneworld-realty.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119145004id_/http%3A//oneworld-realty.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | One World Realty | Maggie Clemens
 
-We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder fill in your website(s) and urls here.)
+Last Updated: July 25, 2017
 
-## Routine Information Collection
+**Maggie Clemens**  operates [ **https://oneworld-realty.com/**](https://oneworld-realty.com/) (the “Website”). This page includes information about our policies about the collection, use, and disclosure of personal information received by Website users.
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.
+Personal information collected is used for providing and improving the Website. By using the Website, you agree to the collection of this information and the use in accordance with our policy.
 
-## Cookies and Web Beacons
+**Information Collection and Use**
 
-Where necessary, this site uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+While using this Website, you may be asked to provide us with information used to identify or contact you. This information (“Personal Information”) may include, but is not limited to your name, e-mail address, and phone number.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+**Logging Data**
 
-## Controlling Your Privacy
+Like most website owners, we collect information (“Log Data”) that your browser provides when you visit our Website.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+The Log Data may include your IP address, type of browser, browser edition, which pages are visited, the date and time of visit, time spent on website, and other statistics.
 
-## Special Note About Google Advertising
+We may use third-party services such as Google Analytics and Clicky to collect, monitor, and analyze the Log Data.
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+**Communications**
 
-About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. (Link this to: http://www.google.com/privacy_ads.html)
+Personal Information may be used to contact you in regards to newsletters, marketing, promotions, real estate listing information, and other related information.
 
-## Contact Information
+**Cookies**
 
-Concerns or questions about this privacy policy can be directed to info@oneworld-realty.com for further clarification.
+Cookies contain small amounts of data, which may include anonymous unique identifiers. These cookies are sent from a web site and stored on your hard drive.
+
+Like many other sites, we use cookies to collect information. You can ask your browser to refuse cookies or alert you when a cookie is being sent. If you choose to refuse cookies, you may miss some portions of our Website.
+
+**Security**
+
+The security of Personal Information is important to us. While no method of transmission over the Internet, or method of electronical storage, is 100% secure, we strive to protect your Personal Information. We cannot guarantee
+
+absolute security, but we do our best.
+
+**Changes to Privacy Policy**
+
+This Privacy policy remains in effect as of  **July 25, 2017**  except with respect to changes in its provisions in the future, which will be in effect as soon as they are updated on this page.
+
+We reserve the right to update and change our Privacy Policy at any time. For this reason, you should check this Privacy Policy periodically. Your continued use of the Website and any services provided after we post changes on this page will constitute your acknowledgment and consent to abide by the modified Privacy Policy.
+
+If we make changes to the Privacy Policy, we will place a prominent notice on our Website.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us:  **619-800-1145**
