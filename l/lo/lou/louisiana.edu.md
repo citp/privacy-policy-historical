@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the louisiana.edu privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023220022id_/http%3A//louisiana.edu/node/79) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the louisiana.edu privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119082457id_/http%3A//louisiana.edu/node/79) for the most accurate reproduction.*
 
 # Privacy Policy | University of Louisiana at Lafayette
 
@@ -30,6 +30,6 @@ Some University pages may include links to sites outside of the University's sys
 
 The University will review and update this privacy statement periodically. As a user of this site, you are responsible for reviewing this page for updates.
 
-  * [](https://www.printfriendly.com/print?url=http%3A//louisiana.edu/node/79 "Print Friendly, PDF & Email")
+  * [](https://www.printfriendly.com/print?url=https%3A//louisiana.edu/node/79 "Print Friendly, PDF & Email")
 
 
