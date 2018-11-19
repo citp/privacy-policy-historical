@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the equifaxsecurity2017.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002020104id_/https%3A//www.equifaxsecurity2017.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifaxsecurity2017.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119071447id_/https%3A//www.equifaxsecurity2017.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Cybersecurity Incident & Important Consumer Information
+# Privacy Policy - 2017 Cybersecurity Incident & Important Consumer Information
 
 **Effective Date: September 15, 2017**
 
 Protecting your personal information is important to Equifax. Please review the following information regarding our privacy policies and practices.
 
-This online privacy policy (“Policy”) applies to this Equifax Inc. website and related websites that link or refer to this policy (collectively and individually, “Website”), and we want visitors to our Website to understand our privacy practices in connection with this Website. 
+This online privacy policy (“Policy”) applies to this Equifax Inc. website and related websites that link or refer to this policy (collectively and individually, “Website”), and we want visitors to our Website to understand our privacy practices in connection with this Website.
 
 Please note that if you decide to check the potential impact of the 2017 Cybersecurity Incident (the “Incident”) on your personal information or enroll in the free identity theft monitoring that we are offering as a result of the Incident, that monitoring is offered subject to the privacy policy that appears on the separate website where you perform those activities.
 
 **This document includes information about:**
 
   1. Information We Collect and How We Use It
-  2. How We Share Information 
+  2. How We Share Information
   3. Information Security
   4. Your Choice and Control Over Your Information
   5. Third Party Websites and Services
@@ -37,7 +37,7 @@ However, we will retain and use your information as necessary to comply with our
 
 We may receive and store certain types of information automatically when you interact with our Website.
 
-**Cookies:**  We use session and persistent cookie technology. Generally speaking, cookies are text files that are placed in your device’s browser. Cookies can be used to help recognize your browser across different web pages, websites, and browsing sessions and to personalize and improve your experience on the Website. 
+**Cookies:**  We use session and persistent cookie technology. Generally speaking, cookies are text files that are placed in your device’s browser. Cookies can be used to help recognize your browser across different web pages, websites, and browsing sessions and to personalize and improve your experience on the Website.
 
 Our Website may use Google Analytics, a web analysis service provided by Google, in order to better understand your use of our Website and how we can make improvements. Google Analytics collects information such as how often users visit a website, what pages you visit when you do so, and what other websites you used prior to coming to such website. Google Analytics collects only the IP address assigned to you on the date you visit a website, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with your personal information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit a website, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to the Website is governed by the [Google Analytics Terms of Use](https://www.google.com/policies/privacy/partners/).
 
@@ -63,7 +63,7 @@ We understand that the privacy of your personal information is important. As a r
 
 **Business Transfers:**  If all or part of our company is sold or merged, if we make a sale or transfer of assets, or in the unlikely event of a bankruptcy, we may transfer your information, including your personal information, to one or more third parties as part of that transaction.
 
-**Protection of You, Equifax and Others:**  We reserve the right to disclose your information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process, enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Equifax, our employees, our customers, or others. 
+**Protection of You, Equifax and Others:**  We reserve the right to disclose your information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process, enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Equifax, our employees, our customers, or others.
 
 **3\. Information Security**
 
