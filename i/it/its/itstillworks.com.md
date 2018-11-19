@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itstillworks.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527200210id_/https%3A//itstillworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itstillworks.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119211910id_/https%3A//itstillworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | It Still Works
 
