@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soundslikenashville.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518202956id_/http%3A//www.soundslikenashville.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundslikenashville.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119013810id_/http%3A//soundslikenashville.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sounds Like Nashville | Sounds Like Nashville
+# Privacy Policy Sounds Like Nashville
 
 **Sounds Like Nashville Privacy Policy**
 
