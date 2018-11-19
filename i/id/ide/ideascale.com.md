@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ideascale.com privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403215434id_/http%3A//support.ideascale.com/customer/portal/articles/1002592) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideascale.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119164934id_/http%3A//support.ideascale.com/customer/portal/articles/1002592) for the most accurate reproduction.*
 
 # IdeaScale | IdeaScale Privacy Policy
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=34d95900-4c4a-4b87-8ad2-4eb8bd7f8c3e)
 
 **1\. GENERAL INFORMATION**
 
