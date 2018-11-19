@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sagenorthamerica.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626034407id_/https%3A//www.sage.com/company/privacy-notice-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sagenorthamerica.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119195746id_/https%3A//www.sage.com/company/privacy-notice-and-cookies) for the most accurate reproduction.*
 
 # Privacy Notice and Cookies
 
@@ -120,7 +120,7 @@ We may change this Privacy Notice from time to time. However we will not reduce 
 
 We will keep your information secure by taking appropriate technical and organisational measures against its unauthorised or unlawful processing and against its accidental loss, destruction or damage. We will do our best to protect your personal information but we cannot guarantee the security of your information which is transmitted to our website, applications or services or to other website, applications and services via an internet or similar connection. If we have given you (or you have chosen) a password to access certain areas of our websites, applications or services please keep this password safe – we will not share this password with anyone.
 
-If you believe your account has been compromised, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#12757e7d70737e62607b6473716b52617375773c717d7f).
+If you believe your account has been compromised, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3f5853505d5e534f4d56495e5c467f4c5e585a115c5052).
 
 ### 9\. Transfers outside of the European Economic Area 
 
@@ -179,4 +179,4 @@ You may be able to configure your browser or our website, application or service
 
 ### 12\. Further information 
 
-If you have any queries about how we treat your information, the contents of this Privacy Notice, your rights under local law, how to update your records or how to obtain a copy of the information that we hold about you, please write to our Chief Data Protection Officer, Chris Lauder, at The Sage Group plc, North Park, Newcastle upon Tyne, NE13 9AA or send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a2c5cecdc0c3ced2d0cbd4c3c1dbe2d1c3c5c78cc1cdcf).
+If you have any queries about how we treat your information, the contents of this Privacy Notice, your rights under local law, how to update your records or how to obtain a copy of the information that we hold about you, please write to our Chief Data Protection Officer, Chris Lauder, at The Sage Group plc, North Park, Newcastle upon Tyne, NE13 9AA or send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#61060d0e03000d1113081700021821120006044f020e0c).
