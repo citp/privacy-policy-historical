@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bharathlisting.com privacy policy that was archived on 2018-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180520024224id_/http%3A//bharathlisting.com/p/2/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bharathlisting.com privacy policy that was archived on 2018-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181120004110id_/http%3A//bharathlisting.com/p/2/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Privacy Policy - BharathListing.com</title>
@@ -18,12 +18,15 @@
 var baseurl = 'http://bharathlisting.com';
 </script>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({
           google_ad_client: "ca-pub-5057375154868360",
           enable_page_level_ads: true
      });
 </script>
+
 </head>
 <body class="tpl-page">
 <nav class="navbar navbar-default">
@@ -223,12 +226,7 @@ $('#city-input').change(function() {
 		</p>	</div><!-- .full-block -->
 </div><!-- .wrapper -->
 
-<div class="wrapper"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- addyp.com -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5057375154868360" data-ad-slot="5988792970" data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
+
 <div id="footer">
 	<div id="footer-inner">
 		<div class="footer-inner-left">
@@ -438,7 +436,8 @@ $(document.body).on('click', '#select-location', function(){
 	}
 		
 
-	location.reload(true);
+	//location.reload(true);
+	document.location.href = document.location + '?r=t';
 });
 
 $(document.body).on('click', '#clear-city', function(e){
@@ -454,7 +453,9 @@ delete_cookie('selected_loc_name');
 	delete_cookie('state_name');
 	delete_cookie('country_id');
 	delete_cookie('country_name');
-	location.reload(true);
+	//location.reload(true);
+	document.location.href = document.location + '?r=t';
+
 });
 
 /* CUSTOM FUNCTIONS */
