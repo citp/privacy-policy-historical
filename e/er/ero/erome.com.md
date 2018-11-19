@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erome.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203135749id_/https%3A//www.erome.com/s/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erome.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119050831id_/https%3A//www.erome.com/s/terms) for the most accurate reproduction.*
 
 # EroMe | Free Photo & Video Hosting
 
