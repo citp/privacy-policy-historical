@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowtheendbegins.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624163250id_/http%3A//www.nowtheendbegins.com/nteb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowtheendbegins.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119205515id_/http%3A//www.nowtheendbegins.com/nteb-privacy-policy) for the most accurate reproduction.*
 
 # NTEB Privacy Policy • Now The End Begins
 
@@ -9,6 +9,10 @@ Our site is monitored hourly by 3 very reputable outside sources for safety and 
 ####  **Thank you for visiting NTEB. Your privacy is very important to us. Simply stated, our policy is not to collect personal information about you when you visit our website unless you choose to make such information available to us.**
 
  **When you visit our website** , our Web server automatically recognizes only the Internet domain and IP address from which you accessed our website. This information does not result in the identification of your personal email address or other personal information. We do not, and have never, made available to _any_ outside source the contents of our email subscriber lists.
+
+ **Articles on this site may include** embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+ **These websites may collect data about you** , use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
  **In addition** , we gather information regarding the volume and timing of access to our website by collecting information on the date, time and website pages accessed by visitors to the website. We do this so we can improve the content of our website, and this information is not shared with other organizations, marketers or advertisers. Again, only aggregate information is collected and individual visitors’ personal information is not identified.
 
