@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkwiki.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520100257id_/http%3A//www.bookmarkwiki.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkwiki.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119234456id_/http%3A//www.bookmarkwiki.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › BookmarkWiki.com : Bookmarking News, Information & Entertainment Resources | Easily Submit Story, Articles, Videos, Facebook & Twitter Status Updates | SEO Bookmarks, Dofollow Bookmarking & Forum Submission Services
 
