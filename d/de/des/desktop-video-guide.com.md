@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktop-video-guide.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519080916id_/http%3A//www.desktop-video-guide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktop-video-guide.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119011321id_/http%3A//www.desktop-video-guide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Desktop-Video-Guide.com
 
