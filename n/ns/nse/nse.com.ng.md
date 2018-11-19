@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nse.com.ng privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521113605id_/http%3A//nse.com.ng/aboutus-site/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nse.com.ng privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119201309id_/http%3A//nse.com.ng/aboutus-site/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
