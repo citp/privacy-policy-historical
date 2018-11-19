@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plannedparenthood.org privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516145654id_/https%3A//www.plannedparenthood.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plannedparenthood.org privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119203242id_/https%3A//www.plannedparenthood.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Planned Parenthood
 
@@ -102,7 +102,7 @@ Member Services
 PPFA  
 123 William Street  
 New York, NY 10038  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5e333b333c3b2c702d3b2c28373d3b2d1e2e2e383f70312c39)  
+[member.services@ppfa.org](mailto:member.services@ppfa.org)  
 1-800-430-4907
 
 ## FULL PRIVACY POLICY
@@ -228,7 +228,7 @@ If we update this Privacy Policy, we will notify you by posting a new Privacy Po
 
 ### Your California Privacy Rights
 
-If you reside in California and have provided your personally identifiable information to us, you may request information once per calendar year about our disclosures of certain categories of your personally identifiable information to third parties for their direct marketing purposes. Such requests must be submitted to us in writing at the following email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#117c747c7374633f627463677872746251616177703f7e6376)
+If you reside in California and have provided your personally identifiable information to us, you may request information once per calendar year about our disclosures of certain categories of your personally identifiable information to third parties for their direct marketing purposes. Such requests must be submitted to us in writing at the following email address: [member.services@ppfa.org](mailto:member.services@ppfa.org)
 
 ### Contact us
 
@@ -238,7 +238,7 @@ Member Services
 PPFA  
 123 William Street  
 New York, NY 10038  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f9949c949b9c8bd78a9c8b8f909a9c8ab989899f98d7968b9e)  
+[member.services@ppfa.org](mailto:member.services@ppfa.org)  
 1-800-430-4907
 
 When you contact us or otherwise submit content via the Online Services, if you desire to remain anonymous, you should not tell us your name or the names of your friends or any other individuals. To fully protect your privacy, do not provide any information that you think may identify you or others.
