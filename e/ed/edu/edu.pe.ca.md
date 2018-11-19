@@ -1,78 +1,91 @@
-> *The following text is extracted and transformed from the edu.pe.ca privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128053005id_/http%3A//www.gov.pe.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edu.pe.ca privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119211753id_/https%3A//www.princeedwardisland.ca/en/information/website-privacy-and-security-policy) for the most accurate reproduction.*
 
-# Government of PEI: Privacy
+# Privacy and Security | Government of Prince Edward Island
 
-[HOME](https://web.archive.org/web/20171128053005id_/http%3A//www.gov.pe.ca/index.php3?lang=E) / [COPYRIGHT](https://web.archive.org/web/20171128053005id_/http%3A//www.gov.pe.ca/index.php3?number=1024402&lang=E) / 
+## Privacy
 
-Privacy
+### Our Commitment to Protection of Personal Information 
 
-The Government of Prince Edward Island takes the privacy of its Internet users seriously. We are committed to protecting the privacy of people whose personal information is held by provincial government through responsible information management practices. Any personal information provided to the Government of PEI is collected, used and disclosed in accordance with the _[Freedom of Information and Protection of Privacy Act](http://www.gov.pe.ca/law/statutes/pdf/f-15_01.pdf)_ or other applicable legislation. 
+Your privacy is important. Whether you are browsing for information or conducting business with the Government of Prince Edward Island, your information is personal and must be protected. You also have the right to be informed how and why we collect, use and share your personal information.
 
-This website privacy statement explains the website data practices of the Government of PEI.
+The [_Freedom of Information and Protection of Privacy Act_](https://web.archive.org/en/legislation/freedom-information-and-protection-privacy-act) (FOIPP) governs the collection of all personal information handled by Government of Prince Edward Island organizations. 
 
-**What is personal information?**
+### You Have a Choice
 
-Personal Information is recorded information about an identifiable individual. Personal information includes such things as an individual's name, address, date of birth, email address and phone number. When the Government of PEI collects personal information it must identify:
+If you choose not to use the Internet to provide personal information to a government department or agency, you may contact the department or agency by telephone, fax, mail, or in person. (Not all options may be available in every situation.)
 
-  * the purpose for collecting the personal information;
+## Collection of Personal Information
 
+### What happens when I provide government with personal information online?
 
-  * the legal authority for collecting it; and
+Only the personal information necessary to respond to your message and to provide the requested service or product may be collected. For example, you may voluntarily provide government with your name, address, phone number, e-mail address and/or credit card number, if you wish to:
 
-
-  * the title, business address and business telephone number of an officer or employee of the department or other government body who can answer questions about the collection of that information.
-
-
-
-The Government of PEI does not collect personal information unless you voluntarily provide it for the purpose of using specific online services.  However, if you choose not to provide the information required for online services, you can still access government services in person, by phone, fax or mail. Your decision not to participate in online services will not impair your ability to browse the web site, read or download any information provided on the site.
-
-Personal information will only be used by authorized staff to fulfill the purpose for which it was originally collected or for a use consistent with that purpose, unless you expressly consent otherwise. We do not disclose your information to other public bodies or individuals, except as authorized by the [_Freedom of Information and Protection of Privacy Act_.](http://www.gov.pe.ca/law/statutes/pdf/f-15_01.pdf)
-
-****What kind of information is being automically collected?**  
-**  
-When you visit an official Government of PEI website to browse, download information or complete a transaction, the following information about your visit will be automatically collected and stored: ****
-
-  * the Internet Protocol (IP) address and domain name used. The IP address is a numerical identifier assigned either to your Internet service provider or directly to your computer. This address can be translated to determine the domain name of your service provider as well as the type of browser and operating system being used;
-  * the date, time and duration of your visit;
-  * web pages visited and online applications or services used.
+  * submit an e-mail, comment, question or request or subscribe for information online
+  * request a service, product or fill out a registration or license form online
+  * provide feedback, participate in consultations, research or surveys online
+  * conduct e-commerce transactions with a department or agency.
 
 
 
-This information is used in aggregate form for statistical and systems performance management purposes only. The Government of PEI does not use this data to determine your identity unless required to do so as part of an internal investigation or other law enforcement purpose. **
+Information is collected in compliance with the _FOIPP Act_ to fulfill the stated purpose for which it was originally collected. Your personal information is disclosed only to the authorized personnel who need it to process and respond to your request. 
 
-What safeguards are in place?
+## Cookies
 
-**
+A cookie is a small piece of data sent from a web server to your computer's hard drive. Generally, your browsing experience is improved by the use of cookies. You may change the settings on your web browser to deny cookies or to warn you when a site is about to deposit cookies on your hard drive. If you choose to refuse cookies, you may not be able to access some of the interactive features on our websites.
 
-The Government of PEI is obligated to protect your personal information by making reasonable security arrangements against risks such as unauthorized access, collection, use, disclosure or disposal.  Security measures have been integrated into the design, implementation and day-to-day operating practices as part of Government's continuing commitment to the protection of personal information.
+Princeedwardisland.ca uses cookies to collect anonymous and statistical information that helps us provide better service. We do not store personal information in cookies, nor do we collect personal information from you without your knowledge, as you browse the site.
 
-Visitors should be aware that Government of PEI websites may include links to websites or social media sites operated by other government agencies, non-profit organizations and/or private businesses.  When you link to another site, this privacy policy will not apply.  However, you may be subject to the privacy policy of that new site, if one exits.  The Government of PEI is not responsible for the privacy practices or content of external websites or social media sites. **  
-**  
-If you believe that your personal information is being used for a purpose other than what was intended, please direct your inquires to one of the contacts listed at the bottom of this page. **
+The standard information collected when you visit princeedwardisland.ca includes the following:
 
-How long is information retained?
+  * Internet Protocol (IP) addresses of the computer used to access our sites
+  * operating systems and the types and versions of browsers used to access our sites
+  * Internet service providers used by visitors to our sites
+  * dates and times users access our sites
+  * pages visited
+  * keywords users enter into our search engine
+  * names and sizes of files requested
 
-**
 
-The length of retention will vary in relation to the nature of the service.  If the Government of PEI uses your personal information to make a decision that directly affects you, it must retain that information for a least one year so that you have a reasonable opportunity to obtain access to it. Information collected or created by the Government of PEI is maintained in accordance with records retention schedules and other legislative requirements.
 
-**Does the website use cookies?**
+The Government cannot personally identify you from any of the above information.
 
-The Government of PEI website does use sessional cookies (which do not store personal information).
+### Cookies from third party applications
 
-A cookie is a small file stored on your computer by your web browser when using some Internet sites. Sessional cookies are used to help you move around a website. This type of cookie is only valid while you are on the site and does not store personal information.
+The site uses Google Analytics for the purpose of website analytics. [Read the Google Analytics privacy statement](https://www.google.com/policies/privacy/) to find out what and how your information is collected.
 
-Persistent cookies may store personal information, such as your name, email address, mailing address or telephone number. This type of cookie can be used to identify you whenever you access a website. The Government of PEI _does not_ use persistent cookies.
+## Security
 
-Web content team, Communications PEI   
-Telephone: (902) 368-5191  
-Email: [webcontent@gov.pe.ca](mailto:webcontent@gov.pe.ca?subject=Website%20Privacy%20Policy%20inquiry)  
-**  
-**
+Security practices of government are continually evolving to ensure the integrity and confidentiality of information and systems. Government uses up-to-date security safeguards to protect its networks and websites from misuse, alteration, copying, disclosure, destruction, monitoring or unauthorized sharing of information and damage. These safeguards include the use of security software and encryption protocols, physical and technical controls and procedures to protect information behind the government firewall.
 
-Provincial Manager, Access and Privacy Services  
-Telephone: (902) 569-0568
+The computer systems of the Government of Prince Edward Island use hardware and software to monitor unauthorized attempts to upload or change information on our websites, disrupt service or otherwise cause damage. As a general practice, the government does not attempt to link this information with the identity of individuals visiting our sites. If an attempt to damage our site is detected, we may take further actions.
 
-* * *
+## Contacts
 
-_Any substantive changes to the Government of PEI's website privacy policy will be posted on this page._
+### Whom do I contact if I have questions about privacy?
+
+**Access and Privacy Services Office**  
+PO Box 2000  
+1st Floor, Sullivan Building  
+Charlottetown, PE   C1A 7N8  
+Phone: (902) 569-7590  
+Email: [apso@gov.pe.ca](mailto:apso@gov.pe.ca)
+
+### Whom do I contact if I have questions about security?
+
+**Information Technology Shared Services**  
+PO Box 2000  
+5th Floor, Sullivan Building  
+Charlottetown, PE   C1A 7N8  
+Phone: (902) 569-7508  
+Email: [ITsecurity@gov.pe.ca](mailto:ITsecurity@gov.pe.ca)
+
+### Whom do I contact if I have questions about the privacy of my health information?
+
+**Manager, Health Privacy and Information Access**  
+PO Box 2000, 16 Garfield Street  
+Charlottetown, PE   C1A 7N8  
+Telephone: (902) 368-4942  
+Fax: (902) 368-6136  
+Email:  [healthprivacy@ihis.org](mailto:healthprivacy@ihis.org)            
+Feedback: [Compliments and Complaints](https://web.archive.org/en/service/send-health-pei-compliments-and-complaints-online)  
+Website: [Privacy and Your Personal Health Information](https://web.archive.org/en/information/health-pei/privacy-and-your-personal-health-information)
