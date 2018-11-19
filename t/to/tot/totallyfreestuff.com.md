@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallyfreestuff.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520150607id_/http%3A//www.totallyfreestuff.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallyfreestuff.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119073325id_/http%3A//www.totallyfreestuff.com/privacy.asp) for the most accurate reproduction.*
 
 # Totally Free Stuff - new freebies, deals, coupons, & bargains every dayTotally Free Stuff
 
