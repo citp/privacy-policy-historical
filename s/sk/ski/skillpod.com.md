@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillpod.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521032801id_/http%3A//www.skillpod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillpod.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120004528id_/http%3A//www.skillpod.com/privacy) for the most accurate reproduction.*
 
 # SkillPod MMO and Multiplayer Games
 
