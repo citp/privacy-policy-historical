@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scootersoftware.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617083331id_/http%3A//www.scootersoftware.com/index.php%3Fzz%3Dkb_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scootersoftware.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119164606id_/http%3A//www.scootersoftware.com/index.php%3Fzz%3Dkb_privacy) for the most accurate reproduction.*
 
 # Scooter Software: Home of Beyond Compare
 
@@ -21,10 +21,6 @@ When you register, you have the option of providing some additional information 
 When you place an online order, we need to know your name, email address, phone number, billing address and credit card details.  This allows us to process and fulfill your order and to notify you of your order status. 
 
 Our online shop uses a secure server.  The secure server software (SSL) encrypts all information you input before it is sent to us.  The customer data and orders we collect are protected against unauthorized access. 
-
-## Mailing List
-
-We occasionally email persons on our mailing list to notify them about new Beyond Compare releases.  This list will never be sold, traded, or rented to others.  When you place an order with us, we automatically add you on this list.  You can request removal from this list by replying to our email with REMOVE in the subject line. 
 
 ## Disclosure to Outside Parties
 
