@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luonline.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625052202id_/http%3A//www.liberty.edu/index.cfm%3FPID%3D6901) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luonline.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119172523id_/https%3A//www.liberty.edu/index.cfm%3FPID%3D6901) for the most accurate reproduction.*
 
 # Privacy Policy | University Offices | Liberty University
 
@@ -87,6 +87,8 @@ However UserID cannot be queried in the Reporting API and the university itself 
 Liberty University encourages its website visitors to learn more about how Google uses data and how you can control the information sent through your browser by viewing [Google’s Privacy & Terms](http://www.google.com/intl/en/policies/) page. Users who wish to learn more about opting out of the automatic collection and use of data on the web should visit [Google’s Consumer Ads Help Center](https://support.google.com/ads/%23topic=2941003) or [Opt Out](https://support.google.com/ads/answer/2662922?hl=en&ref_topic=2941003) here.
 
 We may release personal information when necessary to comply with the law, respond to judicial process, or provide information to law enforcement or regulatory agencies; enforce our conditions of use and other agreements; or protect the rights, property, or safety of Liberty University, our faculty, staff, users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+Facebook pixels are used to collect information from visitors to Liberty University’s websites to be utilized for targeted marketing purposes. [Facebook’s Business Tools Terms](https://www.facebook.com/legal/businesstech) outlines how Facebook collects pixels. An opt out is available through <http://www.aboutads.info/choices> and [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 
 ## K-12 school sites
 
