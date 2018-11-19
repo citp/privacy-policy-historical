@@ -1,74 +1,73 @@
-> *The following text is extracted and transformed from the officinepixel.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405233816id_/http%3A//officinepixel.com/eng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officinepixel.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119075954id_/http%3A//www.officinepixel.com/eng/privacy.php) for the most accurate reproduction.*
 
 # 
 
-PRIVACY POLICY 
+## Privacy Policy EU Regulation 2016/679 (GDPR)
 
-In this page is described the privacy policy applied when using the web site owned by OFFICINE PIXEL S.n.c. and referring to the data collected during the same navigation. 
+This document was written pursuant to art. 13 of EU Regulation 2016/679 (hereafter: "Regulations") in order to allow users to know our privacy policy.  
+This Privacy Policy is intended for the site www.officinepixel.com (hereinafter the "site"), it is made pursuant to art. 13 of the Regulations to those who interact with the web services of the site and is an integral part of the Site and the services offered.  
+We also inform you that Personal Data, provided and / or acquired subsequently, will be handled by officinepixel.com through electronic and manual tools in compliance with the Code and the current legislation regarding Privacy.  
 
-This information is due to the users interacting with the web site owned by Officine Pixel S.n.c for the protection of the personal data of the same users accordingly with the article n. 13 of the legislative decree n. 196/2003 - Codice in materia di protezione dei dati personali - DATA PROTECTION CODE for users interacting with Officine Pixel's web services accessible by the following addresses: 
 
-http://www.officinepixel.com   
-http://www.ffx.it 
+### TYPES OF DATA COLLECTED
 
-This information applies only to the web site owned by Officine Pixel S.n.c. This information does not applies to web sites that might be reached following any link in any web site owned by Officine Pixel S.n.c. 
+Among the Personal Data collected from this site, either independently or through third parties, there are: email, cookies, usage data, surname, name, city, telephone number.  
+This data may be freely provided by the user or, in the case of usage data, collected automatically during use of the site.  
+All data requested by this site is mandatory and, failing this, it may be impossible to provide the service. In the case of data indicated as optional, the user is free to refrain from communicating them, without this having any consequence on the availability of the service or on its operation.  
 
-This information also takes into account the suggestions contained in the Recommendation n.2/2001 adopted on the 17/05/2001 by European Data Protection Authorities, (reunited according to the art. 29, Directive n. 95/46/EC), aiming to identify the minimum requirements for on-line personal data collection, and also procedures, deadlines and type of information the Data Controllers shall provide users with when they access web pages, independently of the purposes for connection. 
 
-PERSONAL DATA CONTROLLER 
+### MODALITY AND PLACE OF TREATMENT
 
-After the consultation Users acknowledge that by accessing the web site, data relative to identified and identifiable persons can be gathered and processed. 
+In relation to the aforementioned purposes, processing is carried out using manual, computerized and telematic tools with logic strictly related to the aforementioned purposes and, in any case, in order to guarantee the security and confidentiality of the data and with the user's commitment. to promptly notify us of any corrections, modifications and updates.  
+Said processing may be carried out on behalf of the Data Controller, for the purposes and with the methods described above and in compliance with criteria suitable to ensure security and confidentiality, by external collaborators appointed as Data Processors and only as regards the treatments performed by them.
 
-The Data Controller is Officine Pixel S.n.c by Romboli Davide and Tedaldi Lamberto.   
-Head office: Via Ardenne 3 - 47100 Forlí (Italy). 
+The data are processed at the Data Controller's operating office and in any other place where the parties involved in the processing are located. For more information, contact the Data Controller.
 
-PLACE, PURPOSE AND PROCEDURE OF PERSONAL DATA PROCESSING 
+The data are processed for the time necessary to perform the service requested by the user, or required by the purposes described in this document, and the user can always ask for the interruption of treatment or deletion of data.
 
-Data processing in connection with web services will be performed at the aforementioned Officine Pixel S.n.c's Office under the sole care of Firm's technical staff and, eventually, persons in charge of maintenance operation. 
+### PURPOSE OF THE TREATMENT
 
-No personal data derived from web services will be spread or transmitted. 
+The user's data are collected to allow them to provide their services, as well as for the following purposes: Advertising, Analytics, Contacting the user, interaction with social networks and external platforms, managing contacts and sending messages. In detail:
 
-Personal data provided by users submitting service requests will be utilized with the sole object of carrying out the service or the work required and will not be referred to third parties, unless strictly necessary or otherwise indicated by or when laid down by Law. 
+**_Contact form_  
+**By filling in the contact form with their data, the user consents to their use to respond to requests for information, quotes, or any other kind indicated by the form header.  
+Personal Data collected: name and surname or company, email address.
 
-TIPOLOGY OF PERSONAL DATA PROCESSING 
+**_Google Analytics (Google Inc.)_  
+**Google Analytics is a web analytics service provided by Google Inc. ("Google"). Google uses Personal Information collected for the purpose of evaluating the use of this site, compiling reports and sharing them with other services developed by Google.  
+Google may use the Personal Data to contextualise and personalize the advertisements of its advertising network.  
+Personal data collected: Cookies and usage data, place of processing: USA – [Privacy Policy](https://www.google.com/intl/it/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=it)
 
-Navigation data 
+**_Google Adwords  _  
+**Google Adwords is an advertising service provided by Google Inc  
+Personal data collected: Cookies and usage data, place of processing: USA
 
-Electronic systems and software set to run this web site collect some personal data implicit with the use of internet communication protocols. 
+**_AdWords Remarketing (Google Inc.)_  
+**AdWords Remarketing is a remarketing and behavioral targeting service provided by Google Inc. that links the activity of this site with the Adwords advertising network and the Doubleclick Cookie.  
+Personal data collected: Cookies and usage data, place of processing: USA – [Privacy Policy](http://www.google.com/intl/it/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout)  
 
-Although collected information is not associated to identifiable users, by its own nature may allow for user's identification if processed and associated with third parties data, carried out only further to a judiciary request in order to identify the users. 
 
-This category of data includes: IP addresses or domain names of computers accessing the Portal, the URI (Uniform Resource Identifier) addresses of requested resources, the time of the request, the method for submitting the request to the server, the answer's file size, the numerical code showing the status of the answer supplied by the server (ok, error, etc.) and other parameters relative to operative system and user's computer environment. 
+**_Tracking conversions of Google AdWords (Google Inc.)_  
+**Google AdWords Conversion Tracking is a statistics service provided by Google Inc. that links data from the Google AdWords ad network with actions taken on this site.  
+Personal data collected: Cookies and usage data, place of processing: USA – [Privacy Policy](https://www.google.com/intl/it/policies/privacy/)
 
-Those data are used by Officine Pixel S.n.c. only for anonymous statistical information on web site's use and to check for web site correct functioning and once processed are immediately deleted. In case of crimes against the web site all collected data could be used to investigate for responsibilities: in all other cases, data on web contacts are not stored permanently (maximum 7 days), unless users request so. 
+**_Interaction with social networks and external platforms_  
+**This type of services allow you to make interactions with social networks, or other external platforms, directly from the pages of this site.  
+The interactions and information acquired from this site are in any case subject to the user's privacy settings related to each social network.  
+In the event that an interaction service with social networks is installed, it is possible that, even if users do not use the service, the same collect traffic data relating to the pages in which it is installed.
 
-Data supplied by users on a voluntary basis 
+  
 
-The optional, explicit and voluntary sending of e-mails to the addresses specified on the Portal, requires the acquisition of sender's address used by Officine Pixel S.n.c in order to give feedback on his requests. 
 
-Specific and synthetic information will be progressively reported or displayed in the web site sections dedicated to on-line services. 
+###  RIGHTS OF THE USER
 
-COOKIES 
+Pursuant to articles 15 and following of the Rules, you have the right to ask officinepixel.com, at any time, to access your Personal Data, to rectify or cancel them or to oppose their processing pursuant to art. 21 of the Regulations, has the right to request the limitation of treatment in the cases provided for by art. 18 of the Regulations, as well as obtaining, in a structured format, in common use and readable by automatic device, the data concerning it, in the cases provided for by art. 20 of the Rules.  
+Requests should be sent to the following address: **privacy@officinepixel.com or through registered mail to Officine Pixel s.n.c - Via Ardenne, 3 - 47122 Forlì (FC).**
 
-The Officine Pixel web site uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
+ **
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).   
-The Google Analytics features you've implemented based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).   
-Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads). 
+In any case, the user is always entitled to lodge a complaint with the competent Supervisory Authority (Guarantor for the Protection of Personal Data), pursuant to art. 77 of the Regulations, if it considers that the processing of your Personal Data is contrary to the law in force.
 
-Optional nature of data supplying 
+The Data Controller and Data Processor is Officine Pixel s.n.c., based in Via Ardenne, 3 - 47122 Forlì (FC); the list of other managers can be requested at the e-mail address **privacy@officinepixel.com**
 
-Nevertheless, Users are always free to provide personal data when requesting for special services (legal on-line consulting, request of information, registration to the Newsletters service, etc.), but if they refuse to provide certain data, in some cases, it won't be possible to process their requests. 
-
-DATA PROCESSING PROCEDURE 
-
-The personal data are processed papery or with electronic means for the time strictly necessary to fulfil the purpose for their collection. 
-
-We implement specific safety measures to prevent data loss, illegitimate or unfair use of data and unauthorized access to the web site databanks. We inform you that internet communication such as e-mails/web-mails may transit through different nations before being delivered to the receiver. Officine Pixel is not responsible for unauthorized access or of the loss of personal data out of its control. 
-
-CONCERNED PERSONS RIGHTS 
-
-The subjects whom personal data refer to, have at any time the right to obtain a confirmation on whether their data still exists or not and have the right to know their content and origin, to verify their accuracy or to ask for their integration or update, or for their rectification (art. 7 of legislative decree n. 196/2003). 
-
-According to the same article, users have the right to ask for deletion, anonymity or blocking of illegitimately processed data, and also to oppose, on legitimate grounds, to their processing.   
-All requests must be submitted to the Data Controller, without formalities, by sending a communication to Officine Pixel S.n.c. by Romboli Davide and Lamberto Tedaldi - Head office: Via Ardenne 3 - 47100 Forlí - Italy. 
+**
