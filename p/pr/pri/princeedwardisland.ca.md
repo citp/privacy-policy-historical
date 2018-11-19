@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the princeedwardisland.ca privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120223124id_/https%3A//www.princeedwardisland.ca/en/information/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princeedwardisland.ca privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119211638id_/https%3A//www.princeedwardisland.ca/en/information/privacy-and-security) for the most accurate reproduction.*
 
-# Privacy and Security | Prince Edward Island
+# Privacy and Security | Government of Prince Edward Island
 
 ## Privacy
 
@@ -88,4 +88,4 @@ Telephone: (902) 368-4942
 Fax: (902) 368-6136  
 Email:  [healthprivacy@ihis.org](mailto:healthprivacy@ihis.org)            
 Feedback: [Compliments and Complaints](https://web.archive.org/en/service/send-health-pei-compliments-and-complaints-online)  
-Website: [Privacy and Your Personal Health Information](https://web.archive.org/en/information/sante-i-p-e/privacy-and-your-personal-health-information)
+Website: [Privacy and Your Personal Health Information](https://web.archive.org/en/information/health-pei/privacy-and-your-personal-health-information)
