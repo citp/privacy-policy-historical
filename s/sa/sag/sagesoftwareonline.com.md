@@ -1,187 +1,182 @@
-> *The following text is extracted and transformed from the sagesoftwareonline.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080121id_/http%3A//na.sage.com/us/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sagesoftwareonline.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119195746id_/https%3A//www.sage.com/company/privacy-notice-and-cookies) for the most accurate reproduction.*
 
-# Legal | Sage North America | U.S.
+# Privacy Notice and Cookies
 
-## Copyright and trademark
+Please read this privacy notice (“Privacy Notice”) carefully as it describes our collection, use, disclosure, retention and protection of your personal information. This Privacy Notice applies to any website, application or service which references this Privacy Notice. Where you provide us with your personal information in any of the ways described in section 2 below, you agree that we may collect, store and use it: (a) in order to perform our contractual obligations to you; (b) based on our legitimate interests for processing (i.e. for internal administrative purposes, data analytics and benchmarking (see section 3 below for more information), direct marketing, maintaining automated back-up systems or for the detection or prevention of crime); or (c) based on your consent, which you may withdraw at any time, as described in this Privacy Notice.
 
-All materials available through this website and other websites owned or provided by Sage or any of its affiliated entities (collectively “Sage”), including any products, services, and web content including but not limited to software, images, text, and various downloads (“Materials”) are owned by Sage and/or by Sage vendors, who have given permission to use the Materials.
+This Privacy Notice applies to all products, applications and services offered by The Sage Group plc (a company incorporated in England with company registration number 2231246 and whose registered office address is North Park, Newcastle upon Tyne, NE13 9AA), and its affiliates, but excludes any products applications or services that have separate privacy notices which do not incorporate this Privacy Notice.
 
-Materials are protected by copyright, trademark, and other intellectual property laws and all rights in the said Materials are reserved by Sage or their respective owners. You may view, copy, and print pages from the website for personal use only. You may not otherwise use, reproduce, download, modify, store, post, broadcast, transmit, sell, or make available to any party any part of the content from the website without the prior written approval of Sage.
+To the extent permissible under applicable law, we collect information about you and any other party whose details you provide to us when you: 
 
-#### Copyright notice
+We will also collect your information where you only partially complete and/or abandon any information inputted into our website and/or other online forms and may use this information to contact you to remind you to complete any outstanding information and/or for marketing purposes. 
 
-© 2014 Sage Software, Inc. All Rights Reserved.
+We also collect information from your devices (including mobile devices) and applications you or your users use to access and use any of our websites, applications or services (for example, we may collect the device identification number and type, location information and connection information such as statistics on your page views, traffic to and from the sites, referral URL, ad data, your IP address, your browsing history and your web log information) and we will ask for your permission before we do so. We may do this using cookies or similar technologies (as described in section 11 below).
 
-#### Trademark notice
+We may enhance personal information we collect from you with information we obtain from third parties that are entitled to share that information; for example, information from credit agencies, search information providers or public sources (e.g. for customer due diligence purposes), but in each case as permitted by applicable laws.
 
-Sage owns many valuable trademarks worldwide that represent Sage as well as its products and services. Most Sage trademarks are registered in the U.S. and in other countries, typically in the name of Sage. Sage does not use the trademark legends.
+To the extent permitted by applicable law, we retain information about you after the closure of your Sage account, if your application for a Sage account is declined or if you decide not to proceed. This information will be held and used for as long as permitted for legal, regulatory, fraud prevention and legitimate business purposes.
 
-All references to Sage and Sage products and services must be accurate and never misleading in any way. Sage trademarks may only be used to refer to Sage and Sage products and services, and may not be combined with any other company names, product names, services names, or as part of any domain names.
+Our website, applications (including mobile applications) and services may contain technology that enables us to:
 
-Sage logos are reserved for exclusive use by Sage, its licensees, and partners under written contract with Sage. No other uses of the Sage logos are permitted.
+  * check specific information from your device or systems directly relevant to your use of the websites, applications or services against our records to make sure the websites, applications or services are being used in accordance with our end-user agreements and to troubleshoot any problems;
+  * obtain information relating to any technical errors or other issues with our website, applications and services;
+  * collect information about how you and users use the functions of the features of our website, applications and services; and
+  * gather statistical information about the operating system and environment from which you access our applications or services.
 
-The following products, services, and taglines listed herein as well as related logos are trademarks or registered trademarks of Sage. This list is provided here for reference only and may not be complete or current and will change from time to time.
 
-Abra; Accpac; Accpac eTransact; Accuracy, Control, Results; Business Care; BusinessVision; BusinessWorks; DacEasy; FAS; FAS Gov; FirstStep; Get The Insights Behind Your Numbers; Harmonizer; Helping Those Who Do Good Things Do Them Even Better; Insights; Intergy; It Turns Time Into Money; MAS; MAS 90; MAS 200; MAS 500; Master Builder; Payment Boss; Peachtree; Peachtree Payroll Service; ProAlert; Return on Employee Investment; ROEI; Sage; Sage 50 Accounting; Sage 50—Canadian Edition; Sage 50 First Step Accounting; Sage 50 HR Manager; Sage 50 Premium Accounting; Sage 50 Quantum Accounting Sage 50—U.S. Edition; Sage 100 Contractor; Sage 100 Fund Accounting; Sage 100 ERP; Sage 300 Construction and Real Estate; Sage 300 ERP; Sage 300 Trade Specialty; Sage 500 ERP; Sage logo; Sage Abra; Sage Abra Alerts; Sage Abra Attendance; Sage Abra Benefits Messenger; Sage Abra eRecruiter; Sage Abra ESS; Sage Abra HRMS; Sage Abra OrgPlus; Sage Abra Payroll; Sage Abra Recruiting Solution; Sage Abra Train; Sage ACH Processing; Sage Accountants Network (SAN); Sage Accpac; Sage Accpac ePOS; Sage Accpac ERP; Sage Accpac Exchange; Sage Accpac HRMS; Sage Accpac Insight; Sage Accpac WMS; Sage Active Planner; Sage Advisor; Sage BusinessVision; Sage BusinessWorks; Sage Card Processing; Sage Checks and Forms; Sage Check Processing; Sage Communicator; Sage Connected Services; Sage Credit and Debit Card Processing; SageCRM; SageCRM.com; Sage DacEasy; Sage DataSage; Electronic Check Services; Sage E-Marketing; Sage ERP X3; Sage Estimating; Sage Exchange; Sage FAS;Sage FAS Gov; Sage Fixed Assets; Sage Gateway; Sage Giftcard; Sage HRMS; Sage Information System; Sage MAS 90; Sage MAS 200; Sage MAS 500; Sage Master Builder; Sage Messaging; Sage Migrator; Sage One; Sage Payment Solutions; Sage Payroll Services; Sage Peachtree; Sage PFW; Sage PFW ERP; Sage Pro; Sage Pro ERP; Sage Project Lifecycle Management; Sage Simply Accounting; Sage Software; Sage Source; Sage Summit; Sage Timberline Enterprise; Sage Timberline Estimating; Sage Timberline Office; Sage TimeSheet; Sage Timeslips; Sage Transaction Services; Sage University; Sage Vault; Sage Virtual Terminal; SData; Simple Comptable; Simple Paie; Simply Accounting; Simply Accounting First Step; Simply Online; Simply Payroll; SimplyNet; Smartimer; Telemagic; Timberline; TimeSheet; Timeslips; TSRemote; TSTimer; ULTIA; Your Business in Mind Your Relationships. Your Information. Your CRM.
 
-#### Third-party trademarks
+You can manage your privacy settings within your browser or our applications and services (where applicable).
 
-Business Objects® and the Business Objects logo, BusinessObjects®, and Crystal Reports® are trademarks or registered trademarks of Business Objects Software Ltd. in the United States and in other countries. Business Objects is an SAP company.
+In addition to the purposes described in this section 3, we may also use information we gather to deliver targeted advertising, marketing (including in-product messaging) or information to you which may be useful, based on your use of the website, applications or services or any other information we have about you (depending on the websites, applications or services, you may able to configure these features to suit your preferences). Sections 5 and 6 of this Privacy Notice provides further details on how we will do this.
 
-UPS®, the UPS brandmark and the Color Brown are trademarks of United Parcel Service of America Inc. Citrix®, GoToMyPC®, GoToMeeting®, GoToWebinar®, GoToAssistExpress®, and Access Your PC from Anywhere® are trademarks of Citrix Systems, Inc. and/or one or more of its affiliates and may be registered in the United States Patent and Trademark Office and in other countries.
+We may monitor and record our communications with you, including e-mails and phone conversations. Information which we collect may then be used for training purposes, quality assurance, to record details about our website, applications and services you order from us or ask us about, and in order to meet our legal and regulatory obligations generally.
 
-Microsoft ®SQL Server®, Windows Vista® and the Windows logo are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or in other countries.
+Mobile data
 
-The names of all other products and services are property of their respective owners.
+We may obtain information through mobile applications that you or your users install on their mobile devices to access and use our website, applications or services or which you or your users use to provide other services related to that mobile application (for example, to sync information from our application or service with such mobile application). These mobile applications may be our own mobile applications or those belonging to third parties. Where the mobile application belongs to a third party, you must read that third party’s own privacy notice as it will apply to your use of that third party mobile application. We are not responsible for such third party mobile applications and their use of your personal information.
 
-#### Questions
+Mobile applications may provide us with information related to a user’s use of that mobile application and use of our applications and services accessed using that mobile application. We may use such information to provide and improve the mobile application or our own application or services. For example, activity undertaken within a mobile application may be logged. 
 
-For questions regarding Sage copyrights or trademarks, please contact the Sage North America Legal Department:
+You can configure our mobile application’s privacy settings on your device but this may affect the performance of that mobile application and the way it interacts with our applications and services. 
 
-Legal Department  
-Sage  
-1715 N. Brown Road  
-Lawrenceville, GA 30043
+Data analytics and benchmarking
 
-## Privacy policy
+We may use information generated and stored during your use of our services for our legitimate business interests to enable us to give you the best service and/or solutions and the best experience. These purposes include to:
 
-Updated: May 11, 2012
+  * deliver advertising, marketing (including in-product messaging) or information to you which may be useful to you, based on your use of services;
+  * carry out research and development to improve our services, products and applications;
+  * develop and provide new and existing functionality and services (including statistical analysis, benchmarking and forecasting services); and 
+  * provide you with location based services (for example location relevant content) where we collect geo-location data to provide a relevant experience.
 
-Sage is committed to the security and privacy of our customer’s data. This Privacy Policy explains our commitment to safeguarding our customers’ data and serves as our agreement with our customers and other parties about our data handling practices. This policy lists the types of data we collect, explains how we use and protect that data, and discloses our key procedures surrounding privacy.
 
-Sage is part of a group of affiliated companies collectively referred to as the "Sage Companies" with each such affiliated company being directly or indirectly wholly owned by The Sage Group plc (The Sage Group). This Privacy Policy applies only to Sage in North America. All other Sage Companies are governed by their own respective policies.
 
-This privacy policy is a binding agreement between you and Sage. By accessing any of our product or company websites (the “Sites”), you signify that you agree with the terms of this Privacy Policy. We may change this Privacy Policy from time to time by posting a new version here, and the new version will become effective immediately.
+ Whenever we use your information for our legitimate interests, we will ensure that your information is processed on a pseudonymised basis and displayed at aggregated levels, which will not be linked back to you or to any living individual. 
 
-The privacy of our customers and affiliates is important to us. Therefore: 
+You have the right to object to processing based on our legitimate interests, and if you wish to do so, please contact us at globalprivacy@sage.com to discuss this further. If you object, this may affect our ability to provide certain services and/or solutions for your benefit. 
 
-  * We do not sell or rent personally identifiable information
-  * We do not spam, and our policies forbid use of our Services for spam
+### 4\. Sharing your information 
 
+We may share your information with:
 
+  * any company within the Sage Group, for the purposes set out in this Privacy Notice, (e.g. global information and customer relationship management; software and service compatibility and improvements; and to provide you with any information, applications, products or services that you have requested);
+  * our service providers and agents (including their sub-contractors) or third parties which process information on our behalf (e.g. internet service and platform providers, payment processing providers and those organisations we engage to help us send communications to you) so that they may help us to provide you with the applications, products, services and information you have requested or which we believe is of interest to you;
+  * partners, including system implementers, resellers, value-added resellers, independent software vendors and developers that may help us to provide you with the applications, products, services and information you have requested or which we believe is of interest to you; 
+  * third parties used to facilitate payment transactions, for example clearing houses, clearing systems, financial institutions and transaction beneficiaries;
+  * third parties where you have a relationship with that third party and you have consented to us sending information (for example social media sites or other third party application providers);
+  * third parties for marketing purposes (e.g. our partners and other third parties with whom we work and whose products or services we think will interest you in the operation of your business activities. For example, financial services organisations (such as banks, insurers, finance providers), payment solutions providers, software and services providers that provide business solutions); 
+  * credit reference and fraud prevention agencies;
+  * regulators to meet Sage Group’s legal and regulatory obligations;
+  * law enforcement agencies so that they may detect or prevent crime or prosecute offenders;
+  * any third party in the context of actual or threatened legal proceedings, provided we can do so lawfully (for example in response to a court order);
+  * any third party in order to meet our legal and regulatory obligations, including statutory or regulatory reporting or the detection or prevention of unlawful acts;
+  * our own and Sage Group professional advisors and auditors for the purpose of seeking professional advice or to meet our audit responsibilities;
+  * another organisation if we sell or buy (or negotiate to sell or buy) any business or assets; 
+  * another organisation to whom we may transfer our agreement with you; and 
+  * Government departments where reporting is mandatory under applicable law.
 
-#### Public forums
 
-Please remember that any information (including personal and business information) that you submit, post or otherwise reveal in a public forum (such as a bulletin board, chat room, blog or product discussion forum) is not subject to this Privacy Policy, will be seen by third parties not related to us and may be used by them or us to contact you for any purpose.
 
-#### Statement regarding children 
+We may share non-personally identifiable information about the use of our website, applications, products or services publicly or with third parties but this will not include information that can be used to identify you. 
 
-Sage's products and services are not designed to appeal to children under the age of 13. As such, the Sites are not directed at children under the age of 13 nor do we knowingly collect or maintain information from children under the age of 13 on the Sites.
+### 5\. Marketing 
 
-#### Job seekers
+From time to time, we may use your information to contact you with details about our applications, products and services which we feel may be of interest to you. We may also share your information with our group companies and carefully selected third parties so that they (or we) may contact you with information about their products or services which we feel may be of interest to you. We or they may wish to contact you for this purpose by telephone, post, SMS or email. You have the right at any time to stop us from contacting you for marketing purposes. You may also request at any time that we do not share your information with third parties referred to in this paragraph. If you wish to exercise these rights you can do so by selecting your contact preferences at the point where you provide us with your information on our websites, applications or services, using any preference centres we give you access to or by sending us an email to globalprivacy@sage.com. You can also unsubscribe from any email marketing using the links provided in the emails we send to you.
 
-We will use the personal information you submit in our online job application to fill the specific position you apply for. After this position is filled, we will retain the information submitted for the time required by applicable law or in accordance with our standard practice, whichever is longer.
+Third party platform advertising
 
-We will not release information submitted in online job applications to third parties except to appropriate governmental entities and/or our service providers as necessary in connection with recruiting, employment, corporate governance, acquisitions, and legal or regulatory requirements. We require that our service providers keep your personal information confidential as well. In addition, to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate procedures to safeguard the information we collect online. You may submit requests or concerns about this policy or use of your personal information by email to [RecruitingNA@sage.com](mailto:RecruitingNA@sage.com).
+Where you respond to communications we post on third-party platforms (such as Facebook, Google and Twitter), we may also share your information with those third parties in order to serve targeted advertising/content to you via the relevant third party platform based on your profile/interests.  Your information is used by the third-party platform provider to identify your account and serve advertisements to you.  You can control what advertisements you receive via the privacy settings on the relevant provider’s platform and you should consult the third party’s help/support centre for more information.
 
-#### Business information collection and use by Sage
+#### Third party platform advertising
 
-We collect the Business Information necessary to enable us to respond to your requests for our products and services and to send you information regarding our products and services from time to time. Since most of the users of our products and Sites are doing so in their capacity as employees or companies, most Business Information we collect will be in that capacity (rather than information about you individually, such as your personal tastes, etc.). For these purposes, we have defined "Business Information" as any information that identifies or may identify a company or an individual contact at a company or that allows others to contact a company or an individual contact at a company. When you visit the Sites, you may be asked to submit information such as email address, company name, address, phone number, your product version, and/or areas of interest. We may also ask you where you heard about our company or products, or for other information that will help us understand more about your needs or help us process your requests for information. In addition, we collect credit card and related payment information when you order products, services, or support plans online. Our information collection and use practices are described in more detail below:
+We may share your information with third party platform providers (such as Facebook, Google and Twitter) to serve targeted advertising/content to you via the relevant third party platform based on your profile/interests. Your information is used by the third-party platform provider to identify your account and serve advertisements to you. You can control what advertisements you receive via the privacy settings on the relevant provider’s platform and you should consult the third party’s help/support centre for more information.
 
-  * Product registration. You may be asked, on behalf of your company, to complete registration/activation form(s) on the Sites or from within the products, with contact information for use by us in accordance with this policy. Registration or activation information may include the name of your company, contact information, product information, customer ID, network and operating system, and other relevant information.
-  * Customer profile. We also collect Business Information when you create a customer profile or Passport account on some of the Sites, which is required in order to access certain areas of the Sites, purchase support plans and products, to obtain software downloads and certain online support services, and to request information from us about our products and services. This information includes company name and contact information and other information about your company (for example, size, revenue, and number of employees), the products you may have licensed, and other non-Sage products you may currently use. We use this information in accordance with this policy to identify you, process your requests, and administer your Sage account(s).
-  * Support. We offer certain limited online support services at the Sites. If you access online support on any of the Sites, you may be asked for information such as customer ID, product name, product version, and other information to help us determine what the technical issues are and how best to help you resolve them. In addition, certain products allow you to submit support-related questions directly from the product. If you access online support services from a product, information about your network, operating system, printer, data and program path, product type, version, customer ID, the product's technical support information sheet, product serial number, and other similar information will be automatically pre-populated for submission to our customer support representatives to assist them in answering your questions.
-  * Newsletters. When you subscribe or sign up to receive newsletters published or offered via the Sites, we will ask you for information necessary to enable us to process your request and to send you information regarding our products and services.
-  * Cookies. We also use Cookies to enhance the user experience, deliver personalized content, and collect information about the use of the Sites. "Cookies" are small computer files that we transfer to your computer's hard drive. Cookies allow us to statistically monitor how many people are using the Sites and for what purposes, how often someone visits the Sites, and the length of their stay. This information helps us dynamically generate advertising and information specifically designed for your interests. We also use Cookies to prevent you from having to re-enter your identification and password information each time you visit our Sites. Cookies are not designed to retrieve personal or business data from your hard drive, your email, or any other personal information. Most browsers are initially set to accept Cookies, but users can change the setting to refuse Cookies or to be alerted when Cookies are being sent. Although refusal of Cookies will not interfere with the ability to interact with most of the Sites, you will need to accept Cookies in order to access information and use certain functions. For example, Cookies are required to be accepted for access to our web-based services or desktop products with online features. The Cookies are renewed each time a user logs on to one of the Sites that uses Cookies. 
+### 6\. Your information and your rights
 
-Although the majority of the online advertisements on the Sites are displayed by Sage, we also from time to time allow third-party vendors, such as Google, to display advertisements on the Sites. These third-party vendors may assign a different cookie to you. These cookies may be used to select which ads you see on the Sites and determine the effectiveness of this advertising. You may choose to decline cookies from third-party ad servers, which we do not control. If you would like to opt out from receiving these third-party targeted advertisements, you can read the instructions.
+If you are based within the EEA or within another jurisdiction having similar data protection laws, in certain circumstances you have the following rights:
 
-  * Product-related information collection. We collect certain additional information in connection with your use of our services or desktop products with online features. For instance: 
-    * Product updates. Some products provide you with the ability to download and register product and/or tax updates as they become available. During the download and registration process, we collect Business Information, including customer ID number and product version, type, and serial number, in order to authorize your access and provide you with the appropriate update, and to update our records as to the product and products updates you have downloaded or installed.
-    * Account set-up and access. Upon subscribing to our services, we collect Business Information which may include information such as product serial number, customer ID, and your customer profile information, in order to identify you and authorize your access and use of the services and provide you with your relevant account information. Certain products provide you with the ability to access your account in order to obtain information such as your support plan status, service subscriptions, registrations, and order history. 
-    * Online product/account application. Certain products and services are subject to an application and enrollment process, which may be completed on paper or online. Information requested may include federal ID numbers, bank account, payroll, credit card, and contact information. This information is used to process your enrollment request and, if approved, to set up and administer your account.
-    * Web-based services. In connection with certain of our web-based services we collect certain additional information, including IP address, browser, connection speed, domain, referring URL, and other environment-related information to enable us to provide a secure environment for the use of the services, to pre-populate forms, and calculate aggregate statistical information about the customers using these services.
-    * Sage products and services. In addition to the uses set forth above, we may use your Business Information to: 1) inform you of product upgrades and updates and subscription renewals; 2) inform you of tax, regulatory, and other compliance issues with your software product or service; 3) notify you of products and services that we think may be of interest to you; 4) offer you discounts or other promotions with respect to Sage products and services that we think may interest you; and 5) contact you for survey purposes to determine how we can better service you or provide better products to meet your needs. 
-    * Other Sage company products and services. Your Business Information may be provided to one or more other Sage Companies to enable them to market products and services to you. In that case, the use of your Business Information would be governed by that Sage Company's privacy policy.
-    *     * Third-party products. We may also use your Business Information to inform you of special discounts or offers from other companies we have carefully selected and whose products and services may be of interest to you.
+  * the right to be told how we use your information and obtain access to your information;
+  * the right to have your information rectified or erased or place restrictions on processing your information;
+  * the right to object to the processing of your information e.g. for direct marketing purposes or where the processing is based on our legitimate interests;
+  * the right to have any information you provided to us on an automated basis returned to you in a structured, commonly used and machine-readable format, or sent directly to another company, where technically feasible (“data portability”);
+  * where the processing of your information is based on your consent, the right to withdraw that consent subject to legal or contractual restrictions;
+  * the right to object to any decisions based on the automated processing of your personal data, including profiling; and 
+  * the right to lodge a complaint with the supervisory authority responsible for data protection matters (e.g. in the UK, the Information Commissioner’s Office). 
 
 
 
-#### Disclosure of your business information 
+If you request a copy of your information you may be required to pay a statutory fee.
 
-From time to time, we may be required to release Business Information: 1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena, or court order; 2) to enforce or apply the terms of any of our service or license agreements; or 3) in special cases, such as protecting the rights, property, or safety of Sage, our customers, or others. We may also provide Business Information to government agencies and to our vendors, suppliers, authorized resellers, and other business, development, and industry partners ("Partners") to enable them to: 1) provide us with products and services to better operate and maintain the Sites; 2) provide you with a product or service requested by you; or 3) enable them to market products or services to you. We also may provide information about you that does not allow you to be identified to, or contacted by, third parties ("Aggregate Information"). For example, we might inform third parties regarding the number of users of the Sites and the activities they conduct while on the Sites. Depending on the circumstances, we may or may not charge for this Aggregate Information. We may also use this Aggregate Information as part of products or services that we provide to third parties and to improve our products, services, and the Sites.
+If we hold any information about you which is incorrect or if there are any changes to your details, please let us know by so that we can keep our records accurate and up to date. 
 
-  * Partner and government services. We may engage Partners to perform functions on our behalf, which may include assisting us in processing your Business Information. Certain Partners and government agencies may collect Business Information (such as business name, address, email address, credit card information, and customer ID) directly from you and use of that information and other information provided by you to third parties is not governed by this policy even though those Partners and government agencies may share such information with us. 
-  * Services and product data. Business Information collected by us as set forth above does not include your company's data entered in the course of operating our products ("Product Data") or data provided by you while using our services ("Services Data"). We will not access your Product Data or Services Data except in the following limited circumstances: (1) to provide you with technical support, solely at your request and with your permission; (2) on a limited-access basis to install updates, produce regular backups, or restore data from backups at your request; (3) where the inherent purpose of the product or service requires us to provide the Product Data or Services Data to a third party on your behalf (for example where we makes tax filings on your behalf or initiate bank transfers on your behalf) and, (4) unless you opt-out, to utilize Aggregate Information derived from Product Data and Services Data to help us improve our products and services and in developing additional offerings. We will not provide your Product Data or Services Data to any third party or permit any third party to access your Product Data or Services Data, except by your permission or to comply with valid legal requirements such as a law, regulation, search warrant, subpoena, or court order. In addition, if at any time you decide to discontinue your use of the applicable service, your Services Data will be destroyed and removed from all servers according to terms set forth in your Service Agreement. 
-  * Business transfers. In the event that all or a portion of Sage or any other Sage Company (or the assets of one of those entities), is bought or sold, Business Information will likely be included among the transferred business assets, but such information remains subject to this Privacy Policy or a Privacy Policy substantially similar to this privacy Policy.
+If you withdraw your consent to the use of your personal information for purposes set out in our Privacy Notice, we may not be able to provide you with access to all or parts of our website, applications, and services.
 
+We will retain your personal information for the duration of our business relationship and afterwards for as long as is necessary and relevant for our legitimate business purposes, in accordance with the Sage Group Data Retention, Marking and Destruction Policy or as otherwise permitted by applicable laws and regulations. Where we no longer need your personal information, we will dispose of it in a secure manner (without further notice to you). 
 
+### 7\. Changes to our privacy notice 
 
-#### How Sage protects your privacy internally
+We may change this Privacy Notice from time to time. However we will not reduce your rights under this Privacy Notice. We will always update this Privacy Notice on our website, so please try to read it when you visit the website (the ‘last updated’ reference tells you when we last updated this Privacy Notice).
 
-We want your Business Information to remain as secure as reasonably possible. We combine industry-standard technical safeguards with a code of conduct for those employees who are permitted to access our customers' Business Information. When you purchase a product or service online, we use SSL encryption to encrypt your credit card information before it is sent to us in order to ensure the integrity and privacy of the credit card information that you provide to us via the Internet.
+### 8\. Security and storage of information 
 
-Many of our web-based services are hosted on servers that are co-located at a third-party facility with whom we have a contract providing for security measures. For example, hosted Services Data is submitted via SSL encryption and stored on a server equipped with industry standard firewalls.
+We will keep your information secure by taking appropriate technical and organisational measures against its unauthorised or unlawful processing and against its accidental loss, destruction or damage. We will do our best to protect your personal information but we cannot guarantee the security of your information which is transmitted to our website, applications or services or to other website, applications and services via an internet or similar connection. If we have given you (or you have chosen) a password to access certain areas of our websites, applications or services please keep this password safe – we will not share this password with anyone.
 
-Hosted data may include personally identifiable information and other information that belongs to our customers' own customers, website visitors, or other users. We will not review, share, distribute, or reference any such Customer Data except as provided in the service or license agreement, or as may be required by law. Individual records of Customer Data may be viewed or accessed by authorized Sage employees, agents or independent contractors only for the purpose of resolving a problem, support issues, or suspected violation of the service or license agreement, or as may be required by law. Sage policy requires that both employees and consultants execute a confidentiality agreement before working for and with Sage. Those employees that violate our Privacy Policy are subject to disciplinary action, up to and including termination.
+If you believe your account has been compromised, please contact us at [globalprivacy@sage.com](mailto:globalprivacy@sage.com).
 
-Despite these security measures, we do not represent or warrant that Business Information will be protected against loss, misuse, attacks, or alteration by third parties. Customers are responsible for maintaining the security and confidentiality of their usernames and passwords.
+### 9\. Transfers outside of the European Economic Area 
 
-#### Your privacy choices
+Personal information in the European Union is protected by data protection laws but other countries do not necessarily protect your personal information in the same way.
 
-Occasionally, a Sage business unit may send you communications to provide you with information or promotions relating to products and services that may be of interest to you, including notification of important product issues and updates. You may opt out of receiving these communications as indicated below. However, please note that any election not to receive future communications applies only to promotional messages of the particular Sage business unit and you may receive promotional messages from other Sage business units until you make an opt out request with that business unit as indicated below. Additionally, we may still send you relationship or transactional messages in order to notify you of important product issues and updates, such as tax and other compliance-related matters, for the renewal of existing subscription services, to resolve specific questions or requests made by you via phone, fax, email, or the Web and in response to any activity completed on any of the Sites, including but not limited to, registration, ordering, downloads, and requests for information.
+Our website and some of our applications or services or parts of them may also be hosted in the United States or otherwise outside of the EEA (which means all the EU countries plus Norway, Iceland and Liechtenstein) (“EEA”) and this means that we may transfer any information which is submitted by you through the website or the application or service outside the EEA to the United States or to other territories outside of the EEA. When you send an email to us, this will also be stored on our email servers which are hosted in the United States.
 
-  * Sage email promotions. Each email we send will contain instructions on how to unsubscribe in the event that you do not wish to receive future promotional emails from the Sage business unit that sent you the email promotion. If you choose to opt out of receiving promotional email communications from any Sage business unit, we may still periodically communicate with you via mail and telephone. Please allow 10 business days to be removed from the promotional email list of a Sage business unit.
-  * Third-party email promotions. If you access and/or use any of the other Sage Companies' services or our Partner's services from a link on the Sites, a Sage/Partner co-branded site or by any other means, any information you reveal in connection with such service is submitted to that other Sage Company or to our Partner and is not subject to this Privacy Policy. You should consult the privacy policy of any other Sage Company, Partner, or third-party site with respect to its treatment of any information that you may reveal in connection with such service.
+We may use service providers based outside of the EEA to help us provide our website, applications and services to you (for example, platform and payment providers who help us deliver our applications and services, or advertising or execute your payments) and this means that we may transfer your information to service providers outside the EEA for the purpose of providing our applications, advertising and services to you. 
 
+We take steps to ensure that where your information is transferred outside of the EEA by our service providers and hosting providers, appropriate measures and controls in place to protect that information in accordance with applicable data protection laws and regulations. For example, we may share information with our group companies or affiliates based outside the EEA for the purposes envisaged by this Privacy Notice. All Sage group companies are subject to Sage group data protection policies designed to protect data in accordance with EU data protection laws. In each case, such transfers are made in accordance with the requirements of Regulations (EU) 2016/679 (the General Data Protection Regulations or “GDPR”) and may be based on the use of the European Commission’s Standard Model Clauses for transfers of personal data outside the EEA. 
 
+By using our website, products or services or by interacting with us in the ways described in this Privacy Notice, you consent to the transfer of your information outside the EEA in the circumstances set out in this Privacy Notice. If you do not want your information to be transferred outside the EEA you should not use our website, applications or services. 
 
-##### Correcting or updating your business information and contacting Sage
+### 10\. Other sites and social media
 
-You can always update the Business Information that you have provided to us and/or change your preferences with respect to marketing contacts from us by contacting the Sage business unit to which you provided your preferences. Please note that it may take up to 4 weeks to be removed from the Sage business unit’s mail lists and 10 days to be removed from email and phone lists.
+If you follow a link from our website, application or service to another site or service, this Privacy Notice will no longer apply. We are not responsible for the information handling practices of third party sites or services and we encourage you to read the privacy notices appearing on those sites or services.
 
-#### Linked sites
+Our websites, applications or services may enable you to share information with social media sites, or use social media sites to create your account or to connect your social media account. Those social media sites may automatically provide us with access to certain personal information retained by them about you (for example any content you have viewed). You should be able to manage your privacy settings from within your own third party social media account(s) to manage what personal information you enable us to access from that account. 
 
-The Sites may contain links to third-party websites and resources (collectively, "Linked Sites"). These Linked Sites are provided solely as a convenience to you and not as an endorsement by us of the content on such Linked Sites. We make no representations or warranties regarding the correctness, accuracy, performance, or quality of any content, software, service, or application found at any Linked Site. We are not responsible for the availability of the Linked Sites or the content or activities of such sites. If you decide to access any Linked Site, you do so at your own risk. Your use of any Linked Site is subject to the policies, terms of use, and privacy policies of such Linked Site, if any.
+### 11\. Cookies, Analytics and Traffic Data
 
-#### Consent to transfer
+Cookies are small text files which are transferred from our websites, applications or services and stored on your device. We use cookies to help us provide you with a personalised service, and to help make our websites, applications and services better for you.
 
-Users located outside the United States who submit Business Information to us via the Sites should be aware that the information they submit will be transferred to our servers located in the United States. Your submission of Business Information to us constitutes your consent to this transfer. Although we will collect and use your Business Information only as stated in this Privacy Policy, laws generally applicable to the protection of personal data in the United States may not be as stringent as those in some users' home jurisdictions.
+  Our cookies may be **session cookies** (temporary cookies that identify and track users within our websites, applications or services  which are deleted when you close your browser or leave your session in the application or service) or **persistent cookies** (cookies which enable our websites, applications or services  to “remember” who you are and to remember your preferences within our websites, applications or services  and which will stay on your computer or device after you close your browser or leave your session in the application or service).
 
-#### Changes to this privacy policy
+We use the following different types of cookies:
 
-We may change this Privacy Policy at any time by posting the then current policy to the Sites. Your use of the Sites constitutes acceptance of the provisions of this Privacy Policy and your continued usage after such changes are posted constitutes acceptance of each revised Privacy Policy.
+Strictly necessary cookies 
 
-#### Questions
+These are cookies which are needed for our websites, applications or services to function properly, for example, these cookies allow you to access secure areas of our website or to remember what you have put into your shopping basket.
 
-Email [privacy.na@sage.com](mailto:Privacy.na@sage.com).
+Performance cookies and analytics technologies
 
-## Corporate compliance
+These cookies collect information about how visitors and users use our websites, applications and services, for instance which functionality visitors use most often, and if they get error messages from areas of the websites, applications or services. These cookies don't collect information that identifies a visitor or user. All information these cookies collect is aggregated and therefore anonymous. We only use these cookies to improve how our website, applications and services work.
 
-Sage complies with applicable North American and U.K. business conduct laws and regulations.
+Functionality cookies
 
-#### Antibribery and corruption
+These cookies allow our websites, applications and services to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
 
-On July 1, 2011, the United Kingdom Antibribery Act 2010 became effective in the U.K. This law requires all U.K. businesses and their subsidiaries to comply with stringent antibribery legislation. The Antibribery Act introduces rigorous antibribery guidelines with serious consequences for both businesses and individuals who fail to comply. The Antibribery Act dictates that regardless of the country in which bribery takes place, if that bribery is committed for or on behalf of a U.K. business, then the Antibribery Act will apply.
+Targeting or advertising cookies
 
-Because The Sage Group plc is a U.K.-headquartered business, its subsidiaries, including our business here in North America, must comply with the U.K. Antibribery Act. To ensure that we comply, we have introduced a new Antibribery and Corruption Policy. The key principles of the Sage North America Antibribery and Corruption Policy are set out below.
+These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operators’ permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
 
-  * Sage and its employees do not and will not offer, promise, or give bribes or request, agree to receive, or accept bribes in any form (a bribe can be an offer of money but also any other financial or nonfinancial advantage or reward).
-  * Anyone acting for or on behalf of Sage (including some third parties or business partners we work with) must also refrain from engaging in any of the activities set out above.
-  * If anyone at Sage is concerned that this type of activity may be happening in the business, he or she can report it immediately and confidentially and be confident that action will be taken.
-  * The new policy does not prevent reasonable and proportionate gifts, hospitality, and entertainment, but where those gifts, hospitality, and entertainment are unreasonable, disproportionate, or given in inappropriate circumstances (for example, when a Sage employee is considering whether to award a contract to someone) then they may constitute bribes and should not be offered or accepted. Common sense should always prevail.
+Web beacons and parameter tracking
 
+We also use cookies and similar software known as web beacons to count users who have visited our website after clicking through from one of our advertisements on another website or in emails and to collect details of any products or services purchased. These web beacons collect limited information which does not identify particular individuals. It is not possible to refuse the use of web beacons. However, because they are used in conjunction with cookies, you can effectively disable them by setting your browser to restrict or block cookies. 
 
+IP Address and traffic data
 
-Sage takes these principles very seriously and will continue to monitor and review any bribery and corruption risks which the business might face.
+We keep a record of traffic data which is logged automatically by our servers, such as your Internet Protocol (IP) address, device information, the website that you visited before ours and the website you visit after leaving our site. We also collect some site, application and service statistics such as access rates, page hits and page views. We are not able to identify any individual from traffic data or site statistics.   
+Find out more about the individual cookies and analytics technologies that we use. 
 
-## Employment compliance
+#### How to disable cookies
 
-Sage is an equal opportunity workplace and affirmative action employer. We participate in E-Verify.
+You may be able to configure your browser or our website, application or service to restrict cookies or block all cookies if you wish, however if you disable cookies you may find this affects your ability to use certain parts of our website, applications or services. For more information about cookies and instructions on how to adjust your browser settings to accept, delete or reject cookies, see the [www.allaboutcookies.org](http://allaboutcookies.org/) website.
 
-  * E-Verify participation poster ([English](http://www.uscis.gov/USCIS/Controlled%20Vocabulary/Native%20Documents/E-Verify/E-Verify_Poster_V08-08_Standard_English.pdf) / [Spanish](http://www.uscis.gov/USCIS/E-Verify/EverifyPosterSpanish1.pdf))
-  * Right to work poster ([English](http://www.uscis.gov/USCIS/Verification/E-Verify/E-Verify_Native_Documents/Right_to_Work_Poster_English.pdf) / [Spanish](http://www.uscis.gov/USCIS/Verification/E-Verify/E-Verify_Native_Documents/Right_to_Work_Poster_Spanish.pdf))
+### 12\. Further information 
 
-
-
-#### Job seekers
-
-We will use the personal information you submit in our online job application to fill the specific position you apply for. After this position is filled, we will retain the information submitted for the time required by applicable law or in accordance with our standard practice, whichever is longer.
-
-We will not release information submitted in online job applications to third parties except to appropriate governmental entities and/or our service providers as necessary in connection with recruiting, employment, corporate governance, acquisitions, and legal or regulatory requirements. We require that our service providers keep your personal information confidential as well. In addition, to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate procedures to safeguard the information we collect online. You may submit requests or concerns about this policy or use of your personal information by email to [RecruitingNA@sage.com](mailto:RecruitingNA@sage.com). 
-
-## End-user license agreement
-
-Get more information about our license agreements.
-
-[Go](https://web.archive.org/us/legal/eula)
+If you have any queries about how we treat your information, the contents of this Privacy Notice, your rights under local law, how to update your records or how to obtain a copy of the information that we hold about you, please write to our Chief Data Protection Officer, Chris Lauder, at The Sage Group plc, North Park, Newcastle upon Tyne, NE13 9AA or send an email to [globalprivacy@sage.com](mailto:globalprivacy@sage.com).
