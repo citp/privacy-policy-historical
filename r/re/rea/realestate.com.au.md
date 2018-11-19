@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507203416id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119171556id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
 
 # About - realestate.com.au - Privacy Policy
 
@@ -202,6 +202,38 @@ If you do not want information collected through the use of cookies, web beacons
 
 We provide links to websites outside of the Websites and REA Group Website, as well as to third party websites. We also allow some third parties to display widgets and applications on our Websites that allow you to interact and share content including social media buttons such as Facebook share and like, Twitter, Pinterest and Google+. These linked sites, applications and widgets are not under our control, and we cannot accept responsibility for the conduct of companies linked to the Websites and REA Group Website, or their collection of information through these third party applications or widgets. Before disclosing your personal information on any other website, or using these applications or widgets we advise you to examine the terms and conditions of using that website and the relevant third party’s data collection practices and controls in their privacy policy. 
 
+**VIRTUAL NUMBERS**
+
+We use virtual phone numbers on the Websites to track the origin, time and duration of phone enquiries to our customers.  We do not record calls which you make to agents.  Our third party provider sends this information to the agent you called so that they can follow up on missed calls relating to realestate.com.au listings.  We also use this data in aggregated form, to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services.  If you do not want us to collect information regarding your call, you can contact an agent by email or by telephone using the number listed on the agent’s website.
+
+**REALESTATE.COM.AU HOME LOANS FACEBOOK ADS**
+
+If you submit an enquiry about realestate.com.au Home Loans on Facebook, your information will be passed to the team at the realestate.com.au Home Loans contact centre so they can help you with your enquiry. The information you provide will not be used for any other purpose unless you consent. 
+
+The realestate.com.au Home Loans contact centre is operated by National Australia Bank Limited ( **NAB** ). REA has entered into a strategic partnership with NAB to offer an end-to-end digital search and financing experience. For further information about how NAB handles your information, view its [Privacy Policy](https://www.nab.com.au/common/privacy-policy). 
+
+**USERS BASED IN THE EUROPEAN ECONOMIC AREA**
+
+If you access our Websites from the European Economic Area ( **EEA** ), you may have additional rights under the General Data Protection Regulation, being Regulation 2016/679 ( **GDPR** ) in relation to the handling of your Personal Data (as defined in Article 4 of the GDPR). 
+
+In providing our services to you, we may monitor your activity on the Websites using automated processes, including for the purposes of counting usage of our Websites and creating audience profiles.  We do this to provide you with more tailored and relevant services, including to show you more relevant properties. 
+
+In addition to other rights set out in this Privacy Policy, in certain circumstances you may:
+
+  * request access to Personal Data that we hold about you;
+  * request a copy of Personal Data that that you have provided to us, in a structured electronic format;
+  * request that we update any inaccurate Personal Data that we hold about you;
+  * request that we restrict the processing of Personal Data that we hold about you. This enables you to ask us to suspend the processing of Personal Data, for example if you want us to establish its accuracy or the reason for processing it;
+  * object to our processing of your Personal Data;
+  * request that we delete any Personal Data that we hold about you, subject to any legal obligations we have to retain your Personal Data; and
+  * withdraw your consent to the processing of the Personal Data that we hold about you. Once you have withdrawn your consent, we will no longer process your Personal Data for the purpose(s) you originally agreed to, unless we are required to do so by law. This will not affect the lawfulness of any processing of Personal Data based on your consent before its withdrawal.
+
+
+
+Where your Personal Data is transferred outside of the EEA, it will only be transferred to countries that have been identified as providing adequate protection for Personal Data, or to a third party where we have approved transfer mechanisms in place to protect your Personal Data – i.e., by entering into the European Commission’s Standard Contractual Clauses, or by ensuring the entity is Privacy Shield certified (for transfers to US-based third parties). 
+
+For further information or to exercise any of your rights as a EEA data subject under the GDPR, please contact [privacyofficer [at] rea-group [dot] com](mailto:privacyofficer@rea-group.com).
+
 **CREDIT REPORTING POLICY**
 
 **Credit applications by businesses for our services**
@@ -272,4 +304,4 @@ If you are not satisfied with our handling of your complaint, you can refer your
 
 COSL offers consumers an accessible, independent and fair dispute resolution service. You can contact COSL at 1800 555 727, online at cosl.com.au or write to them at Credit Ombudsman Service Ltd, PO Box A252, South Sydney, NSW 1235.
 
-**Last update 4 August 2016**
+**Last update  19 November 2018**
