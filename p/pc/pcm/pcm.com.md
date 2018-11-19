@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the pcm.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213052523id_/http%3A//www.pcm.com/n/Privacy-Policy/navLinks-176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcm.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119035734id_/http%3A//www.pcm.com/n/Privacy-Policy/navLinks-176) for the most accurate reproduction.*
 
 # Help Topics
 
 **PCM Privacy Policy**
 
-**Last Updated: November, 2014**
+**Effective Date: December 23, 2005**  
+ **Last Updated: November 1, 2014**
 
 We at PCM ("PCM", "we" or "us") understand that making purchases online involves a great deal of trust on your part. We take that trust seriously. This privacy policy is an effort to answer your privacy-related questions. If you have questions that are not addressed herein, please submit them to us by sending an email to webmaster@pcm.com.
 
