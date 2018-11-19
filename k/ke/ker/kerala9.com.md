@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kerala9.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521151646id_/http%3A//www.kerala9.com/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerala9.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119054748id_/http%3A//www.kerala9.com/cms/privacy) for the most accurate reproduction.*
 
 # Privacy :: kerala9
 
@@ -6,42 +6,67 @@
 
 ### Privacy
 
-Wow, you are interested. We hope the following information can help answer any questions you might have. And if you still want to know more, please drop us a line by clicking here.
+This Privacy Policy governs the manner in which Kerala9 collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.Kerala9.com website ("Site").
 
-The following Privacy Statement discloses the information gathering and dissemination practices for Kerala9.com's Network of Web sites (which we collectively refer to below as the "Site").
+### Personal identification information
 
-Our Site, like most other sites, uses cookies to provide you with a more personalized and user-friendly experience. A cookie is a message that is sent to a browser from a Web server and stored on your computer's hard drive. Cookies help us keep track of the size of our audience, the frequency of visits to our Site and the areas that are most popular. If a guest makes a purchase, cookies are used to keep the shopping cart active during the shopping process. We may also use cookies to help us deliver content or advertising specific to your interests, and to save your preferences or passwords so you don't have to re-enter them each time you visit our Site. Most browsers allow you to reject all cookies, but then your preferences, passwords and other information will not be saved, and you may have to re-enter information to use certain features of our Site.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-We may use an outside ad company to display ads on our Site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies delivered through banner ads are collected by our ad company, and we do not have access to this information. kerala9.com may also serve banner ads that contain cookies. We will only share such information with our advertisers and sponsors on an aggregate basis to determine the success of any given banner, logo or advertisement.
+### Non-personal identification information
 
-We may also log IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g., how many visitors logged in to our Web site). In some cases your IP address stays the same from browser session to browser session; but if you use a consumer Internet access provider such as AOL or Earthlink or Satyam, chances are that your IP address varies each session-thus making it effectively impossible for us to use your IP address (by itself) to determine who you are.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-In general, we will not disclose your personal information to third parties except to the extent necessary to provide you with a requested service, or under circumstances required by law. We will disclose your personal information when we believe in good faith that any applicable law, regulation, or legal process requires it, or where we believe disclosure is necessary to protect or enforce our rights or the rights of another user. We also disclose aggregated user statistics in order to describe our services and reach to prospective partners, advertisers, and other third parties. However, aggregate data is not traceable to you specifically. We may use contractors to help us with our operations. Some or all of these contractors may access our databases of user information. These contractors will enter into an agreement with us that places restrictive provisions on their use and disclosure of all information they obtain through the relationship.
+### Web browser cookies
 
-Specific uses of personal information that vary from this Privacy Statement (if any) may be found in the policies applicable to the service or feature you are signing up for. To the extent that you are notified of uses of your personal information that are different from those described in this Privacy Statement during your enrollment in any particular service, special program, contest or promotion, those uses will govern. For example, if you purchase a T-shirt from a specific celebrity fan site, that celebrity may be entitled to receive and use your personal information for limited purposes such as e-mailing you information about their next film or television appearance. Please be on the look-out for additional terms of service and privacy statements applicable to the services for which you sign-up or participate in.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-The Site contains links and advertisements to other sites. If you click-through a banner ad or link and submit your information to that advertiser or site, you will be subject to their own privacy practices. kerala9.com is not responsible for the privacy practices or the content of such other sites.
+### How we use collected information
 
-The Site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and that if you disclose personal contact information in these areas, others may use it to send you unsolicited messages. We do not control the actions of our guests and registered members. Kerala9.com encourages our users to be smart about choosing when, and to whom to release information online.
+Kerala9 may collect and use Users personal information for the following purposes:
 
-Of course there are many other ways we conceivably could get information from or about you that are not described elsewhere in this Statement. For example, you might email us through one of our customer service email addresses, or we may get a complaint about you from a third party. Our practices with respect to such information are pretty much as you'd expect -- we use and disclose this information in a commercially reasonable business manner.
+  * _To run and operate our Site_  
+We may need your information display content on the Site correctly.
+  * _To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _To send periodic emails_  
+We may use the email address to respond to their inquiries, questions, and/or other requests.
 
-This site has industry consistent security measures in place to protect the loss, misuse, and alteration of the information under our control. But since the Internet cannot be made absolutely secure, Kerala9.com assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties.
 
-If you are a minor under 12, you are prohibited from submitting any personal information to us.
 
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from Kerala9.com and our partners. We also provide instructions for how to unsubscribe to future mailings at the bottom of each communication. Please remember to check the registration screens applicable to the service or promotion for which you are signing up for specific instructions from our partners on how to update your user profile and/or opt out of receiving offers and mailings.
+### How we protect your information
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: rakhesh.r@gmail.com
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-By using the Site, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time.
+### Sharing your personal information
 
-Third Party Advertising
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+### Electronic newsletters
 
-.
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-Third Party Cookies
+### Third party websites
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+### Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. You may learn more about opting out of major ad networks at https://websitebuilders.com/tools/advertiser-opt-out/.
+
+### Google Adsense
+
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <https://policies.google.com/technologies/ads>
+
+### Changes to this privacy policy
+
+Kerala9 has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This privacy policy was built using the generator at https://PrivacyPolicies.com.
+
+### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us. rakhesh.r@gmail.com
+
+This document was last updated on June 04, 2018
