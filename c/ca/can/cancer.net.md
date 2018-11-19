@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancer.net privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519061155id_/https%3A//www.cancer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancer.net privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119185431id_/https%3A//www.cancer.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cancer.Net
 
