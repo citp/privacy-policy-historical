@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protoshare.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519133715id_/http%3A//www.protoshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protoshare.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120004755id_/http%3A//www.protoshare.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ProtoShare
 
@@ -65,8 +65,8 @@ If you have questions or concerns about our collection, use, or disclosure of yo
 If you have any question or concerns about what has been stated in this Privacy Policy please feel free to contact us:
 
 Site9, Inc.  
-610 SW Alder, Suite 400  
-Portland, OR 97205  
+329 NE Couch Street, Suite 302  
+Portland, OR 97232  
 P: 503.248.4440  
 E: info@site9.com 
   *[P:]: Phone
