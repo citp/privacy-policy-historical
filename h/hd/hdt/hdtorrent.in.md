@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdtorrent.in privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517110532id_/http%3A//hdtorrent.in/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdtorrent.in privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119083212id_/http%3A//hdtorrent.in/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Download HD Torrent
 
