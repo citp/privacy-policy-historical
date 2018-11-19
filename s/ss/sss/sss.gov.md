@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sss.gov privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615201504id_/https%3A//www.sss.gov/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sss.gov privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119202456id_/https%3A//www.sss.gov/Privacy) for the most accurate reproduction.*
 
 # Web Site Privacy Policy
 
