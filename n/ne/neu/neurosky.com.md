@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the neurosky.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520175912id_/http%3A//neurosky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurosky.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119031501id_/http%3A//neurosky.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ECG & EEG Biosensor Solutions | NeuroSky
 
 NeuroSky, Inc. (“We” “Us” or “NeuroSky”) cares about your privacy and those of others.
+
+### Effective Learner App
+
+[EULA](https://effectivelearnercloud.com/el/policies/?eula)  
+[Privacy](https://effectivelearnercloud.com/el/policies/?privacy)  
+[Cookies](https://effectivelearnercloud.com/el/policies/?cookie)  
+[Access](https://effectivelearnercloud.com/el/policies/?access)
 
 ### What this Privacy Policy Covers
 
