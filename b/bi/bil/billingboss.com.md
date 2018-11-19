@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billingboss.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626034407id_/https%3A//www.sage.com/company/privacy-notice-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billingboss.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119195746id_/https%3A//www.sage.com/company/privacy-notice-and-cookies) for the most accurate reproduction.*
 
 # Privacy Notice and Cookies
 
@@ -52,7 +52,7 @@ We may use information generated and stored during your use of our services for 
 
  Whenever we use your information for our legitimate interests, we will ensure that your information is processed on a pseudonymised basis and displayed at aggregated levels, which will not be linked back to you or to any living individual. 
 
-You have the right to object to processing based on our legitimate interests, and if you wish to do so, please contact us at globalprivacy@sage.com to discuss this further. If you object, this may affect our ability to provide certain services and/or solutions for your benefit. 
+You have the right to object to processing based on our legitimate interests, and if you wish to do so, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to discuss this further. If you object, this may affect our ability to provide certain services and/or solutions for your benefit. 
 
 ### 4\. Sharing your information 
 
@@ -80,7 +80,7 @@ We may share non-personally identifiable information about the use of our websit
 
 ### 5\. Marketing 
 
-From time to time, we may use your information to contact you with details about our applications, products and services which we feel may be of interest to you. We may also share your information with our group companies and carefully selected third parties so that they (or we) may contact you with information about their products or services which we feel may be of interest to you. We or they may wish to contact you for this purpose by telephone, post, SMS or email. You have the right at any time to stop us from contacting you for marketing purposes. You may also request at any time that we do not share your information with third parties referred to in this paragraph. If you wish to exercise these rights you can do so by selecting your contact preferences at the point where you provide us with your information on our websites, applications or services, using any preference centres we give you access to or by sending us an email to globalprivacy@sage.com. You can also unsubscribe from any email marketing using the links provided in the emails we send to you.
+From time to time, we may use your information to contact you with details about our applications, products and services which we feel may be of interest to you. We may also share your information with our group companies and carefully selected third parties so that they (or we) may contact you with information about their products or services which we feel may be of interest to you. We or they may wish to contact you for this purpose by telephone, post, SMS or email. You have the right at any time to stop us from contacting you for marketing purposes. You may also request at any time that we do not share your information with third parties referred to in this paragraph. If you wish to exercise these rights you can do so by selecting your contact preferences at the point where you provide us with your information on our websites, applications or services, using any preference centres we give you access to or by sending us an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You can also unsubscribe from any email marketing using the links provided in the emails we send to you.
 
 Third party platform advertising
 
@@ -120,7 +120,7 @@ We may change this Privacy Notice from time to time. However we will not reduce 
 
 We will keep your information secure by taking appropriate technical and organisational measures against its unauthorised or unlawful processing and against its accidental loss, destruction or damage. We will do our best to protect your personal information but we cannot guarantee the security of your information which is transmitted to our website, applications or services or to other website, applications and services via an internet or similar connection. If we have given you (or you have chosen) a password to access certain areas of our websites, applications or services please keep this password safe – we will not share this password with anyone.
 
-If you believe your account has been compromised, please contact us at [globalprivacy@sage.com](mailto:globalprivacy@sage.com).
+If you believe your account has been compromised, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3f5853505d5e534f4d56495e5c467f4c5e585a115c5052).
 
 ### 9\. Transfers outside of the European Economic Area 
 
@@ -179,4 +179,4 @@ You may be able to configure your browser or our website, application or service
 
 ### 12\. Further information 
 
-If you have any queries about how we treat your information, the contents of this Privacy Notice, your rights under local law, how to update your records or how to obtain a copy of the information that we hold about you, please write to our Chief Data Protection Officer, Chris Lauder, at The Sage Group plc, North Park, Newcastle upon Tyne, NE13 9AA or send an email to [globalprivacy@sage.com](mailto:globalprivacy@sage.com).
+If you have any queries about how we treat your information, the contents of this Privacy Notice, your rights under local law, how to update your records or how to obtain a copy of the information that we hold about you, please write to our Chief Data Protection Officer, Chris Lauder, at The Sage Group plc, North Park, Newcastle upon Tyne, NE13 9AA or send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#61060d0e03000d1113081700021821120006044f020e0c).
