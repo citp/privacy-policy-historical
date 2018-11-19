@@ -1,9 +1,36 @@
-> *The following text is extracted and transformed from the marapets.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521113418id_/http%3A//www.marapets.com/info.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marapets.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119210922id_/http%3A//www.marapets.com/info.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
 # MaraPets - Contact Us
 
-|   
+  
+**MaraPets Ltd** operates:  
+_www.marapets.com_   
+&  
+_www.marasites.com_  
+this Privacy Policy applies to both  |   
 ---|---  
+  
+Our Privacy Policy describes what information our sites collect from users who sign up and play our FREE game. MaraPets Ltd is a UK based company with our data stored on our secure servers in Canada. Our policy is European Union GDPR (General Data Protection Regulation) compliant and practices are guided by the United States' Children's Online Privacy Protection Act (COPPA) of 1998.    
+Data We Collect: |    
+We only collect the minimum amount of necessary data we require for your registered account to be able to play and use our sites properly. The data stored for each registered account is IP Address, Email Address, cookie ID and browser/device information. If you link your account with Facebook, Google or Microsoft for faster login/registration, we do not store any additional information - it is simply matched to any email address we already store for you. _We do not collect ANY personally identifiable information_  
+---|---  
+  
+How We Store Data: |    
+We take your privacy and our sites security seriously. All data is stored on our secured systems, currently located in Canada. While we take all reasonable steps to protect your data, in the unlikely event our data is breached, we will notify all users of the site on our News and/or by email.   
+  
+How We Use Data: |    
+All data we collect is only used to protect your registered account on our sites and to enhance your experience. The data is used to help us keep the sites safe for all users, to respond to a user's query or to notify you of any events or promotions we may have. You can unsubscribe to any emails from us at any time.   
+  
+Data We Share: |    
+We only share data in exceptional circumstances when we are required to do so by law. We will never share or sell data we have collected.   
+  
+Third Party Data Collection: |    
+MaraPets Ltd generates income from third party advertising and sales through PayPal. These companies have their own Privacy Policy and may collect their own data. We encourage you to review their policies.   
+  
+Remove My Data: |    
+You can contact our Data Protection Officer at any time by email at **_marapets@gmail.com_** for a copy of the data we store on your account and to request your data is removed. 
+
+Please note that we only store the minimum amount of data we require for you to have a FREE account on our sites. Any request for your data to be permanently removed from our systems will require the permanent removal of your account with us.   
   
 Cookie Policy
 
@@ -13,11 +40,11 @@ Privacy Policy
 
 To ensure this website is a safe and fun place for all we ensure that all online information is secure at all times. The site has a large number of online child players and therefore we take care to make sure that the content of the site is always safe for them. Any information gathered from you through this website will never be disclosed to any third party. This is includes Marapets staff, as all personal information is kept hidden from staff. 
 
-Children under the age of 13 do not disclose any personal information about themselves. They are not even asked of an email address, just simply a username, password and their gender, so that they can be uniquely identified in the game of Marapets. These are only used for them to keep their account on the site secure. ALL information can be removed as requested at any time, simply open a Support Ticket via the Contact Us link at the bottom of every page, and a staff member will do so. 
+Children under the age of 13 do not disclose any personal information about themselves. Just simply a username, email address, password and their gender, so that they can be uniquely identified in the game of Marapets. These are only used for them to keep their account on the site secure. ALL information can be removed as requested at any time, simply open a Support Ticket via the Contact Us link at the bottom of every page, and a staff member will do so. 
 
 Marapets asks users 13 years and older to provide a valid first (and optional last name), valid e-mail address, birth date, gender, and country of location. All users can change or remove their information upon registration. 
 
-Children under 13 can only have their accounts changed to an over 13 account upon the request of their parents, informing us that they have permission to do so. In such a case, the parents need to print out a Parental Consent form ([ **click here**](https://web.archive.org/web/20180521113418id_/http%3A//www.marapets.com/coppa.html)) and fill it in. They can then scan it and email to marapets@gmail.com or fax it (fax number coming soon). 
+Children under 13 can only have their accounts changed to an over 13 account upon the request of their parents, informing us that they have permission to do so. In such a case, the parents need to print out a Parental Consent form ([ **click here**](https://web.archive.org/web/20181119210922id_/http%3A//www.marapets.com/coppa.html)) and fill it in. They can then scan it and email to marapets@gmail.com or fax it (fax number coming soon). 
 
 All information we collect and store is for gaming purposes only. Personal information of those 13 and over are, your email address for you to recover your password, your gender to identify you at the forums, date of birth to track which age groups use the site, your ip address to stop cheating with multiple accounts. 
 
