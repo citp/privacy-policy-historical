@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovyhistory.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615200429id_/http%3A//groovyhistory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovyhistory.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119120555id_/http%3A//groovyhistory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Groovy History
 
@@ -61,8 +61,8 @@ If you have questions about this Privacy Policy, please email us at justin@motiv
 
 GroovyHistory
 
-101 West Broadway, Suite 300
+7580 Fay Ave
 
-San Diego, CA 92109
+La Jolla, CA 92037
 
-Last updated: November 7th 2017
+Last updated: September 27th 2018
