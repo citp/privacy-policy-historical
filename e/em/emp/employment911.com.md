@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the employment911.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517200332id_/http%3A//www.employment911.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employment911.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119145359id_/http%3A//www.employment911.com/privacy.aspx) for the most accurate reproduction.*
 
 # Employment 911's Privacy Policy
 
@@ -44,7 +44,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
  **Modifying or deleting your Personal Information**
 
-You may contact us to modify or delete your Personal Information from our database at any time by calling 1-800-482-1303, sending us an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or sending us a letter to Employment911, 175 Strafford Ave., Suite 1, Wayne, PA 19087.
+You may contact us to modify or delete your Personal Information from our database at any time by calling 1-800-482-1303, sending us an email to support@employment911.com or sending us a letter to Employment911, 175 Strafford Ave., Suite 1, Wayne, PA 19087.
 
 **Your Consent**
 
@@ -56,4 +56,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contact Us About This Privacy Policy**
 
-Would you have any question regarding this provacy policy, feel free to contact us at 1-800-482-1303 or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Would you have any question regarding this provacy policy, feel free to contact us at 1-800-482-1303 or support@employment911.com
