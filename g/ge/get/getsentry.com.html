@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the getsentry.com privacy policy that was archived on 2018-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626201024id_/https%3A//sentry.io/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getsentry.com privacy policy that was archived on 2018-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181119152341id_/https%3A//sentry.io/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns#">
     <meta name="description" content="Sentry is committed to your privacy in how we collect and process personal information on our website, via our products and services, and when you contact us.">
@@ -49,11 +49,31 @@
 
 
 
-<link rel="stylesheet" href="/_assets/screen-7b0bedd096973a518bb5f54749e2c6d4fe048530473a2ef535a8b8d7ccbd2a39.css" id="master-stylesheet">
+<link rel="stylesheet" href="/_assets/screen-b2585ef0ae09717509bcdbb735ca8d50b9986152e0adee19a9b1102a3f2516ee.css" id="master-stylesheet">
 
 
 
-<script>window.loadIfTrackersOk=[]</script>
+<script>
+  window.loadIfTrackersOk=[];
+  window.analyticsAssetURL = '/_assets/amplitude.min-43d85b6546a49827bfdecdd76b73c06479105d035691cb4c2742bb9cd7bbe69d.js';
+
+  (function(e,t){var n=e.amplitude||{_q:[],_iq:{}}
+  ;function s(e,t){e.prototype[t]=function(){
+  this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
+  var o=function(){this._q=[];return this}
+  ;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
+  ;for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[]
+  ;return this}
+  ;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
+  ;for(var p=0;p<l.length;p++){s(c,l[p])}n.Revenue=c
+  ;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
+  ;function v(e){function t(t){e[t]=function(){
+  e._q.push([t].concat(Array.prototype.slice.call(arguments,0)))}}
+  for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){
+  e=(!e||e.length===0?"$default_instance":e).toLowerCase()
+  ;if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]}
+  ;e.amplitude=n})(window,document);
+</script>
 
 <title>Sentry | Privacy Policy</title>
 
@@ -885,7 +905,7 @@ Francisco, CA 94107.</p>
                 <a href="/contact/support/">Support</a>
               </li>
               <li>
-                <a href="/themonitor/">The Monitor</a>
+                <a href="/customers/stories/">Customer stories</a>
               </li>
               <li>
                 <a href="/_/resources/">Resources</a>
@@ -1031,7 +1051,7 @@ Raven.config(dsn, ravenOptions).install();
 </script>
 
 
-    <script type="text/javascript" src="/_assets/script-7627474687e283c3951351409b001e2d4cb68e9cab98e40d9d435c0e713a7599.js"></script>
+    <script type="text/javascript" src="/_assets/script-3ceed6a69dd615b7ada6e0ac4f2ebd78e493a75043cb8219b557dae1a63c497f.js"></script>
 
     
 
@@ -1043,7 +1063,7 @@ Raven.config(dsn, ravenOptions).install();
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-30327640-1');
+  gtag('config', 'UA-30327640-1', { anonymize_ip: true });
 </script>
 
     <span class="banner tracking-banner pt-3">
@@ -1059,7 +1079,7 @@ Raven.config(dsn, ravenOptions).install();
   </div>
 </span>
 
-    <script type="text/javascript" src="/_assets/metrics-2076d61b13fb8c67c1c29b6856442711ffc9b86c58dede1dfc696a45a373fb34.js"></script>
+    <script type="text/javascript" src="/_assets/metrics-7351b81853adebd6ea5409b0860a7a69d00c49fe547a4ec9a9329a9934f0d4eb.js"></script>
     
   
 
