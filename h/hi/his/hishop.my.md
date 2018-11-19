@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hishop.my privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520233805id_/http%3A//www.hishop.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hishop.my privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120004909id_/http%3A//www.hishop.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,8 +81,8 @@ We work to keep our servers, applications and databases secure and free from una
 ##  **What Choices Do I Have In Managing My Personal Information?**
 
   * As discussed above, you can always choose not to provide information. However, the information might be needed to complete a purchase transaction or to take advantage of the full features of the Website.
-  * You may at any time view or modify any of your registered details on www.hishop.my, by logging into your account and accessing the "My Account" section of the Website. Once logged in you can change any of the details shown and followed by clicking ‘update my details'. You may also modify your registered details by emailing us at contact@hishop.my or writing to us at HiShop Malaysia Sdn. Bhd., 22-3 Jalan PJU8/5G, Damansara Perdana, 47820 Petaling Jaya, Selangor.
-  * If you do not wish to receive promotional e-mails from us, you may unsubscribe at any time by emailing us at contact@hishop.my, or by hitting the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate “unsubscribe” in the title and provide your name, address, email address, and what promotional emails you do not want to receive.
+  * You may at any time view or modify any of your registered details on www.hishop.my, by logging into your account and accessing the "My Account" section of the Website. Once logged in you can change any of the details shown and followed by clicking ‘update my details'. You may also modify your registered details by emailing us at [[email protected]](http://www.hishop.my/cdn-cgi/l/email-protection) or writing to us at HiShop Malaysia Sdn. Bhd., 22-3 Jalan PJU8/5G, Damansara Perdana, 47820 Petaling Jaya, Selangor.
+  * If you do not wish to receive promotional e-mails from us, you may unsubscribe at any time by emailing us at [[email protected]](http://www.hishop.my/cdn-cgi/l/email-protection), or by hitting the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate “unsubscribe” in the title and provide your name, address, email address, and what promotional emails you do not want to receive.
   * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Cookies allow you to take full advantage of the functionality and features of the Website. Without the aid of cookies, certain features of HiShop’s Websites may not function properly.
 
 
@@ -107,6 +107,6 @@ We reserve the right to modify or change the Privacy Policy at any time. When th
 
 ##  Contact Us
 
-If you have any questions or concerns about our Privacy Policy, please contact us at [contact@hishop.my](mailto:contact@hishop.my)
+If you have any questions or concerns about our Privacy Policy, please contact us at [[email protected]](http://www.hishop.my/cdn-cgi/l/email-protection#9bf8f4f5effaf8efdbf3f2e8f3f4ebb5f6e2)
 
 _Last updated: 20 December 2012_
