@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521092027id_/http%3A//www.searchbliss.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119094734id_/http%3A//www.searchbliss.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SearchBliss SEO Services - Privacy Policy
 
