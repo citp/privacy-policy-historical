@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the railwaygazette.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627013853id_/http%3A//www.railwaygazette.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railwaygazette.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119105711id_/https%3A//www.railwaygazette.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ Bank account & payment card details
 
 | 
 
-Information gathered by the use of cookies in your web browser including information about how you use our website.  You can learn more about how we use cookies and similar technologies **[here](http://www.railwaygazette.com/cookie-policy.html "Opens internal link in current window")**.   
+Information gathered by the use of cookies in your web browser including information about how you use our website.  You can learn more about how we use cookies and similar technologies **[here](https://www.railwaygazette.com/cookie-policy.html "Opens internal link in current window")**.   
   
 **Profile  **
 
