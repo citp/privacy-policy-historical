@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolmonies.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520140708id_/http%3A//lolmonies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolmonies.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119211048id_/http%3A//lolmonies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LoL Monies | Monetize the World
 
@@ -88,4 +88,4 @@ XSO Global
 616 Corporate Way, Suite 2-6181  
 Valley Cottage, NY 10989  
 USA  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+contact@lolmonies.com
