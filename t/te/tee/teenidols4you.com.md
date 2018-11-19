@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520213655id_/http%3A//www.teenidols4you.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119063637id_/http%3A//teenidols4you.com/privacy.html) for the most accurate reproduction.*
 
 # Teen Idols 4 You Privacy Policy
 
