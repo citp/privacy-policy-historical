@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the searchquotes.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624083824id_/http%3A//www.searchquotes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchquotes.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119054231id_/http%3A//www.searchquotes.com/privacy) for the most accurate reproduction.*
 
 # SearchQuotes - Privacy Policy
 
 SearchQuotes Privacy Policy   
 This privacy policy sets out how SearchQuotes uses and protects any information that you give SearchQuotes when you use this website.
 
-SearchQuotes is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. SearchQuotes may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from June 24, 2018. 
+SearchQuotes is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. SearchQuotes may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from November 19, 2018. 
 
 **What we collect**   
 We may collect the following information:
