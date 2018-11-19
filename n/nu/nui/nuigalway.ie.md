@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuigalway.ie privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521160843id_/https%3A//www.nuigalway.ie/footer-links/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuigalway.ie privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119061242id_/https%3A//www.nuigalway.ie/footer-links/privacy.html) for the most accurate reproduction.*
 
 # Privacy - NUI Galway
 
@@ -18,11 +18,19 @@ The University does not collect any personal information on this Web site withou
 
 **Automatically Obtained Information**
 
-Cookies may be used by this Web site to collect non-personal information about how visitors use our Web site. Cookies may also be used to remember your display preferences (e.g. preferred text size) the next time you visit. We use cookies as part of Google Analytics, a Web analytics service that enables us to track how visitors use our Web site. Google Analytics uses first party cookies. You may refuse the use of cookies by selecting the appropriate settings on your browser.
+Cookies are small text files placed on your browsing device and more information about cookies and how to manage or disable them can be found here: [www.aboutcookies.org](http://www.aboutcookies.org/).
 
-Temporary session cookies may also be used in some areas to enable specific functionality. Session cookies are deleted once you leave the Web site. Non-session cookies exist on your computer for 30 days after you have visited but they contain no private or sensitive data (e.g. the cookie that preserves your text magnification is called "fontsize" and only contains the number 1, 2, 3, 4 or 5 depending on the magnification you last selected).
+Cookies may be used to collect non-personal information about how visitors use our website.
 
-Some  _browser header information_  is automatically stored by the system to generate Web site usage statistics. IP addresses are read by the Web site to identify users located on the NUI Galway campus in order to offer them internal functionality. Any other technical information automatically obtained by the system is clearly visible when filling out online forms - e.g. the 'Browser and Operating System' information in the '  _Report an Email Problem_ ' form.
+If a cookie does not contain an expiration date it is referred to as a temporary session cookie. Temporary session cookies are stored in memory and never written to disk, when the brower closes the cookie is permanently lost from this point on. Temporary session cookies may be used in some areas to enable specific functionality.
+
+If the cookie contains an expiration date, it is considered a persistent cookie. On the date specified in the expiration, the cookie will be removed from the disk. Persistent cookies may be used to remember your display preferences (e.g. preferred text size) the next time you visit. These cookies exist on your computer for 30 days after you have visited but they contain no private or sensitive data.
+
+We use cookies as part of Google Analytics, a Web analytics service that enables us to track how visitors use our website. You may refuse the use of cookies by selecting the appropriate settings on your browser, instructions can again be found here: [www.aboutcookies.org](http://www.aboutcookies.org/).
+
+Some cookies present on our site are not related to the University such as those that may be present on pages with embedded content from Facebook, Twitter and Instagram for example. The University does not have any control or influence on the operation of these third party cookies. You should check the websites concerned for more information in relation to their cookie policies.
+
+Some  _browser header information_  is automatically stored by the system to generate website usage statistics. IP addresses are read by the website to identify users located on the NUI Galway campus in order to offer them internal functionality. Any other technical information automatically obtained by the system is clearly visible when filling out online forms - e.g. the 'Browser and Operating System' information in the '  _Report an Email Problem_ ' form.
 
 The National University of Ireland Galway does not use  _malware_ ,  _spyware_ , or  _adware_  in any form or fashion.
 
