@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games2dress.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520071201id_/http%3A//www.games2dress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games2dress.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119124111id_/http%3A//www.games2dress.com/privacy-policy) for the most accurate reproduction.*
 
 # Games2dress-our privacy and policy of this website
 
