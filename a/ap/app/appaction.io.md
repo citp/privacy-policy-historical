@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appaction.io privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519165728id_/https%3A//www.appaction.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appaction.io privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119111314id_/https%3A//www.appaction.io/privacy) for the most accurate reproduction.*
 
 # AppAction — Privacy policy
 
