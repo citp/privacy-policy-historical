@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoclickbots.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514075955id_/https%3A//www.autoclickbots.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoclickbots.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119204038id_/https%3A//www.autoclickbots.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AutoClickBots
 
@@ -12,7 +12,7 @@ AutoClickBots privacy policy
 This website privacy policy describes how protects and makes use of the information you give the company when you use this website.   
 If you are asked to provide information when using this website, it will only be used in the ways described in this privacy policy.   
 This policy is updated from time to time. The latest version is published on this page.   
-If you have any questions about this policy, please email or write to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this policy, please email or write to: enquiries@autoclickbots.com
 
 **Introduction**  
 We gather and use certain information about individuals in order to provide products and services and to enable certain functions on this website.   
@@ -68,7 +68,7 @@ When you fill in a form or provide your details on our website, you will see one
 If you have agreed that we can use your information for marketing purposes, you can change your mind easily, via one of these methods:   
 
 * Sign in to our website and change your opt-in settings.
-* Send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+* Send an email to enquiries@autoclickbots.com
   
 We will never lease, distribute or sell your personal information to third parties unless we have your permission or the law requires us to.   
 Any personal information we hold about you is stored and processed under our data protection policy, in line with the Data Protection Act 1998. 
