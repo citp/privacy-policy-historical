@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecrochetcrowd.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630052822id_/http%3A//thecrochetcrowd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecrochetcrowd.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119205907id_/http%3A//thecrochetcrowd.com/privacy-policy) for the most accurate reproduction.*
 
 # The Crochet Crowd Privacy Policy
 
