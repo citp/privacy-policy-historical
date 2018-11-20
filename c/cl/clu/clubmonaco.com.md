@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520183935id_/http%3A//www.clubmonaco.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120055814id_/http%3A//www.clubmonaco.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy) for the most accurate reproduction.*
 
 # Customer Assistance | Club Monaco
 
-Modified Date: May 11, 2018
+Modified Date: September 21, 2018
 
 Club Monaco respects your privacy. Our Privacy Notice describes the types of information we obtain through ClubMonaco.com and our mobile website (the “Site”), in our Club Monaco stores (the “Stores”) and in connection with other activities and features. We also describe how we use, disclose and otherwise manage this information. This Privacy Notice may be updated from time to time. Accordingly, you should check the date of this Notice (which appears at the top of this page) and review any changes since the last version. Your continued use of the Site following any modifications demonstrates your agreement to such changes. If at any time you do not agree to the terms of this Privacy Notice, please do not use this Site or provide us with personal information when shopping in our Stores.
 
@@ -72,7 +72,7 @@ Please be sure to include in any email or postal mail your full name, email addr
 
 We may transfer the personal information we collect about you to recipients in countries other than the country in which you originally provided it. These countries may not have the same data protection laws as the country in which you provided the information. When we transfer your information to recipients in other countries, we will protect that information as described in this Privacy Notice and will comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries other than the one in which you provided the information. 
 
-If you are located in the European Economic Area (“EEA”) or Switzerland, with respect to transfers of personal information to the U.S., Ralph Lauren and its affiliate Club Monaco US, LLC are certified under the EU-U.S. and the Swiss-U.S. Privacy Shield framework developed by the U.S. Department of Commerce and the European Commission regarding the transfer of personal information from the EEA or Switzerland to the U.S. [Click here](https://www.ralphlauren.com/customerservice?cid=cs-privacy-notice) to view our EU/Swiss-U.S. Privacy Shield Privacy Policy. 
+If you are located in the European Economic Area (“EEA”) or Switzerland, with respect to transfers of personal information to the U.S., Ralph Lauren and its affiliate Club Monaco US, LLC are certified under the EU-U.S. and the Swiss-US. Privacy Shield framework developed by the U.S. Department of Commerce and the European Commission regarding the transfer of personal information from the EEA or Switzerland to the U.S. [Click here](https://www.ralphlauren.com/customerservice?cid=cs-privacy-notice) to view our EU/Swiss-U.S. Privacy Shield Privacy Policy. 
 
 * * *
 
