@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estibot.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191349id_/https%3A//www.estibot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estibot.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121001247id_/http%3A//www.estibot.com/privacy) for the most accurate reproduction.*
 
 # EstiBot.com - Privacy Policy
 
@@ -29,4 +29,4 @@ We also log queries made to specific tools (such as the appraiser). These logs s
 
 * * *
 
-Our data resides at a local data center facility on EstiBot.com owned or leased servers. We take serious measures to ensure that our data is not accessible by unauthorized individuals. Backups of data are updated regularly and backup drives are kept in a bank vault.
+Our data resides at a local data center facility on EstiBot.com owned or leased servers. We take serious measures to ensure that our data is not accessible by unauthorized individuals.
