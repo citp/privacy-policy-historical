@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sat-universe.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522150758id_/http%3A//www.sat-universe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sat-universe.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120114008id_/http%3A//www.sat-universe.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -6,7 +6,7 @@ Privacy Policy Statement This is the web site of **Sat Universe**.
 
 Nothing is more important to Sat Universe than protecting the private information of visitors to our site. Below you'll find information about our commitment to ensuring the privacy of your and your children's personally identifiable information (such as your full name, address, email address, telephone number and/or other identifying information) and preserving the integrity of the medium.
 
-Please read the following carefully. If you have any questions or concerns, please send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a2d2d0cbd4c3c1dbe2d1c3d68fd7cccbd4c7d0d1c78cc1cdcf).
+Please read the following carefully. If you have any questions or concerns, please send us an email at [privacy@sat-universe.com](mailto:privacy@sat-universe.com).
 
 ### Gathering and Use of Information
 
@@ -20,4 +20,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 ### Acceptance of these Sat Universe Web Site Privacy Policy Terms and Conditions
 
-By using this site, you signify your agreement to the terms and conditions of this Sat Universe Web Site Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of the Sat Universe Web Site following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#39494b504f585a40794a584d144c57504f5c4b4a5c175a5654).
+By using this site, you signify your agreement to the terms and conditions of this Sat Universe Web Site Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of the Sat Universe Web Site following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please email us at [privacy@sat-universe.com](mailto:privacy@sat-universe.com).
