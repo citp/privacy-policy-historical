@@ -1,13 +1,12 @@
-<!--The following is the downloaded HTML source of the econcordia.com privacy policy that was archived on 2014-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701150824id_/http%3A//www.econcordia.com/home/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the econcordia.com privacy policy that was archived on 2018-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181120211152id_/https%3A//www.econcordia.com/home/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><title>
 	eConcordia - Privacy
-</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><link href="/home/css/main.css?v=20120430" type="text/css" rel="stylesheet"><link href="/home/css/print.css?v=20120430" type="text/css" rel="stylesheet" media="print">
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet"><link href="/home/js/jquery-ui.min.css" type="text/css" rel="stylesheet"><link href="/home/css/ec.main.css?v=20140828" type="text/css" rel="stylesheet">
 		<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/home/js/jquery.js" type="text/javascript"></script>
-		<script src="/home/js/jquery.cycle.all.js"></script>
-		<script src="/home/js/jquery.easing.js" type="text/javascript"></script>
-		<script type="text/javascript" src="/home/js/functions.js"></script>
+		<script src="/courses/core/courses/econcordia_template_mobile/js/venobox.min.js" type="text/javascript"></script>
+		<script src="/home/js/jquery-ui.min.js" type="text/javascript"></script>
 
 		<script type="text/javascript">
 
@@ -21,129 +20,221 @@
 			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		  })();
+		
+			$(function() {
+				$('.venobox').venobox(); 
+				
+				$('.js-toggle-nav').click(function(){
 
+					$('.js-login').removeClass('is-active');
+					$('.js-toggle-nav').toggleClass('is-active');
+					$('.js-main-nav').toggleClass('is-active');
+					$(".js-toggle-login").removeClass("is-active");
+					$('#profileImg').attr('src','/home/images/profile-logo-mobile.png');
+					return false;
+				});
+				
+				$('.js-toggle-login').click(function(){ 
+					$('.js-toggle-nav').scrollTop(0);
+					$('.js-main-nav').removeClass('is-active'); 
+					$('.js-toggle-nav').removeClass('is-active');
+					$('.js-toggle-login').toggleClass('is-active'); 
+					$('.js-login').toggleClass('is-active');
+					
+					if($(".js-toggle-login").hasClass("is-active"))
+					{
+						$('#profileImg').attr('src','/home/images/profile-logo-mobile-white.png');
+					}
+					else
+					{
+						$('#profileImg').attr('src','/home/images/profile-logo-mobile.png');
+					}
+					
+					return false;
+				});
+
+				$("#about-us").mouseover(function(e) {
+				
+					$("#about-us .dropdown-menu").css("display", "block")
+					$( this ).addClass( "open" );
+					
+				});
+				
+				$("#about-us").mouseout(function(e) {
+				
+					$("#about-us .dropdown-menu").css("display", "none")
+					$( this ).removeClass( "open" );
+					
+				});
+				
+				
+				$("#btn-search").click(function(){
+					location.replace("http://www.econcordia.com/home/search.aspx" + "?text=" + $("#inputSearch").val());
+				});
+				
+			});
+			
+			
 		</script>		
 	</head>
-	<body class="size0">
-		<form name="aspnetForm" method="post" action="/home/privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzQ0MDYwMjIyZGSAgdZiWGNenzmkQROTyKLUTSD/uA==">
+	<body>  
+	<form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTYxMTMzMDY4D2QWAmYPZBYCAgEPZBYIAgEPFgIeB1Zpc2libGVoZAICDxYCHwBoZAIDDxYCHwBoZAIED2QWAgIBD2QWAgIBD2QWBAIBD2QWAgIPDxYCHwBoZAIDDxYCHwBoFgJmDw8WAh4EVGV4dAUBMGRkZJSQP5WsIu0W6c1Cpc1WS01stjVO">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLPxsu8CALkxM6ADwKX6YSKAjtMWlLfkR2SfGg/yjC52n+/LW+U">
-		<div class="bg">
-		<div class="container" id="container">
-			
-			
-			<nav>
-				<div class="banner">
-					<a href="/home/"><img class="bannerImg" src="/home/images/econcordia.png" alt="eConcordia"></a>
-				</div>
-			
-				
-
-<div class="topNavContainer">
-	<ul class="topNav">
-		<li class="topNavItem nobg topNavLast">
-			<div id="ctl00_top_nav_Search_Panel">
-	        
-				<input name="ctl00$top_nav$txtSearchBox" type="text" id="ctl00_top_nav_txtSearchBox" class="searchBox">
-				<div id="goBtn"><input type="submit" name="ctl00$top_nav$btnSearch" value="" id="ctl00_top_nav_btnSearch" class="go"></div>
-			
-</div>
-		</li>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="4EB8B043">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKJyNuHCQLA5K32BALf/bSxDgLFw/aTCcZfndeQEs3cnPTDNaq6uXLQxVzW">
+		<div class="top-nav">
+			<div class="container">
+				<ul>
+					<li><a target="_blank" href="http://www.concordia.ca">Back to Concordia.ca</a></li>
+					<li><span>|</span><a href="/home/help.aspx">Help</a></li>
+				</ul>
+			</div>
+		</div>
 		
-		<li class="topNavItem"><a class="topNavA" href="/home/help.aspx"><img class="topNavImg" src="/home/images/Help.jpg" alt="Help" style="padding-top:2px;"> Help</a></li>
-		<li class="topNavItem"><a class="topNavA" href="/home/Store/basket.aspx"><img class="topNavImg" src="/home/images/basket.jpg" alt="Help"> Basket (0)</a></li>
-
-
-
-	</ul>
-	
-	
-
-	<div class="clear"></div>
-</div>
-				
-
-<div class="clear"></div>
-
-<div class="login">
-
-	<a href="/home/Profile/Login.aspx"><img src="/home/images/login.png" alt="Student Login"></a>
-	
-</div>
-
-<ul class="mainNav">
-	<li class="mainNavItem nobg"><a class="mainNavA btHome" href="/home/"></a></li>
-	<li class="mainNavItem"><a class="mainNavA btCourses" href="/home/courses.aspx">Courses</a></li>
-	<li class="mainNavItem"><a class="mainNavA btRegistration" href="/home/registration.aspx">Registration</a></li>
-	<li class="mainNavItem"><a class="mainNavA btElearning" href="/home/elearning.aspx">e-Learning</a></li>
-	<li class="mainNavItem"><a class="mainNavA btAbout" href="/home/aboutus.aspx">About Us</a></li>
-	<li class="mainNavItem"><a class="mainNavA btFaq" href="/home/faq.aspx">FAQ</a></li>
-	<li class="mainNavItem"><a class="mainNavA btContact" href="/home/contacts.aspx">Contact</a></li>
-	
-</ul>
+		<div class="top-nav-mobile">
+		
+			<button class="js-toggle-nav toggle-nav">
+				<i></i>
+			</button>
+		
+			<a href="/home/" class="logo-econcordia-mobile"><img src="/home/images/econcordia.png"></a>
 			
-				<div class="breadcrumbs"><span id="ctl00_CustomSiteMapPath1"><a href="#ctl00_CustomSiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/home/WebResource.axd?d=yhGNpTqgiQ6pC4NuuX3qHrkNmEA1ZzSj-sRJk2vCKIGjBiXdeQbeMuQ12B1PwScSpl6t68_XewNz5qm2aRJM9Ko98-U1&amp;t=634605330834856163" border="0"></a><span>&nbsp;<a href="index.aspx" title="Home">Home</a></span><span> » </span><span><span style="color:#5E5E5E;" title="Privacy">&nbsp;Privacy</span></span><a id="ctl00_CustomSiteMapPath1_SkipLink"></a></span></div>
+			
+			
+			<a href="#" class="profile-button-mobile js-toggle-login">
+				<span id="ctl00_lblUser">Sign In</span>
+				<img id="profileImg" src="/home/images/profile-logo-mobile.png">
+			</a>
+			
+		</div>
+		
+		<div id="wrapper">
+		
+		
+		
+		
+		
+		
+		<div class="banner">
+			<div class="container">
 				
-
-<div class="accessibility">   
-    <ul>
-	    
-        
-        <li><a href="javascript:bodysizedown()"><img src="/home/images/fontDown.gif"></a></li>
-	    <li><a href="javascript:bodysizeup()"><img src="/home/images/fontUp.gif"></a></li>
-	    <li><a href="javascript:setTextSize(getDefaultTextSize());"><img src="/home/images/reset.gif"></a></li>
-    </ul>
-    
-</div>
-<div class="clear"></div>
-			</nav>
+				<div class="search-container">
+					<div class="input-append control-group">        
+						<div class="controls">
+							<input class="input-large ui-autocomplete-input search" type="text" placeholder="Search eConcordia" id="inputSearch" name="q" autocomplete="off"><a id="btn-search" class="btn bg-black"><i class="icon-search icon-white"></i></a>
+						</div>
+					</div>
+				</div>
+				
+				<a href="http://www.concordia.ca" target="_blank" class="logo-concordia"><img src="/home/images/logo-concordia.png"></a>
+				<a href="/home/" class="logo-econcordia"><img src="/home/images/econcordia.png" alt="eConcordia"></a>
+			
+			</div>
+		</div>
+		
+		<div class="main-nav js-main-nav">
+			<div class="container">
+				<ul>
+					
+					
+					
+					
+					<li class="active"><a class="bt-home" href="/home/">Home</a></li>
+					<li><a target="_blank" href="http://www.concordia.ca/academics/online-courses/how-it-works.html">How It Works</a></li>
+					<li><a target="_blank" href="http://www.concordia.ca/academics/online-courses/about-econcordia.html">About Us</a></li>
+					<li><a href="/home/contacts.aspx">Contact</a></li>
+				</ul>
+			</div>
+		</div>
+		
+		<div class="container" id="container">
 						
 			<section id="content">
 				
-	
-		<div class="content">
-	
-		
+		<div class="side-column js-login">
+			
 
-    <h1>Privacy</h1>
-	<div id="PageContent">
-	    <p></p><p>eConcordia is committed to protecting your privacy. The following Privacy Policy identifies the type of information that we may collect from you and how we will use this information.</p>
-<p><span class="quickLinkTitle">The information we collect: </span></p>
-<p>In order to serve you better, we may, from time to time, request that you provide us with some personal information, such as your name, mailing address, e-mail address, phone number, and credit card information.</p>
-<p>More specifically, we will collect:</p>
-<ul>
-<li>Registration information, when you enroll in courses offered through eConcordia. This helps us process your application, as well as facilitate your access to other courses in the future.</li>
-<li>Tracking information, through the use of cookies, as you navigate through the site. By storing your login information and preferences, we can enhance your experience, customize content to your needs, and facilitate course delivery.</li>
-</ul>
-<p><strong><br>Cookies </strong> are bits of information that a web site transfers to your hard disk for record-keeping purposes. Cookies can make the web more useful and enjoyable by storing information about your preferences on a particular site, such for which courses you are currently registered.</p>
-<p>Be assured that we only collect personal information that you specifically and knowingly provide to us.</p>
-<p><span class="quickLinkTitle">How we use your personal information: </span></p>
-<p>eConcordia does not sell, trade, or rent your personal information to others. We only share your registration information with Concordia University, for registration purposes.</p>
-<p>We may use your personal information to:</p>
-<ul>
-<li>Process and administer the information that you have requested.</li>
-<li>Provide you with products and services that you have requested.</li>
-<li>Improve our web site and the services we provide.</li>
-<li>Customize and tailor your experience on our web site.</li>
-<li>Provide you with information on any changes in our services, agreements, or policies.</li>
-<li>Conduct market research on e-learning.</li>
-</ul>
-<p><span class="quickLinkTitle">E-mailing:</span></p>
-<p>When you send us an e-mail, we will use your name and e-mail address to respond. Your message may be shared with the appropriate people at eConcordia and Concordia University so that we can provide you with the most useful and suitable answer and improve your experience at eConcordia. Such addresses are not used for any other purpose and are not shared with any other outside parties.</p>
-<p><span class="quickLinkTitle">Reviewing and correcting your personal information:</span></p>
-<p>You may review and correct your personal information at any time by contacting us at www.econcordia.com.</p>
-<p><span class="quickLinkTitle">How we protect your information: </span></p>
-<p>eConcordia uses a secure server. This means that all the data we collect is protected against unauthorized access. The secure server software encrypts data and information being transmitted between your browser and the server. However, no system is completely invulnerable, therefore, we cannot guarantee the absolute security of our database, nor can we prevent information from being intercepted during transmission over the Internet.</p>
-<p><span class="quickLinkTitle">Your consent:</span></p>
-<p>When you use this website, you consent to the collection and use of personal information by eConcordia and Concordia University for the purpose of your course enrollment with eConcordia. You may choose not to provide us with any personal information. In that case, your access to certain information or use of our services may be limited.</p>
-<p><span class="quickLinkTitle">How to contact us:</span></p>
-<p>If you have any questions, comments, or concerns about our Privacy Policy, you may contact us at: 1-888-361-4949</p><p></p>
-	</div>
+<script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
 
-		
+
+	<div id="ctl00_content_login_loginPanel">
+	
+	
+	<div id="ctl00_content_login_login" class="login">
+		<div class="login-header">Returning user?</div>
+		<div class="login-content">
+			<label for="ctl00_content_login_UserName" id="ctl00_content_login_lblUserName">Username:</label> 
+			<input name="ctl00$content$login$UserName" type="text" maxlength="50" id="ctl00_content_login_UserName">
+			
+			
+			<label for="ctl00_content_login_Password" id="ctl00_content_login_lblPassword">Password:</label> 
+			<input name="ctl00$content$login$Password" type="password" maxlength="50" id="ctl00_content_login_Password">
+			
+			
+			<div class="login-btn">
+				<div id="ctl00_content_login_divErrorBox" class="error-box"><span id="ctl00_content_login_lblError"></span></div>
+				
+                
+
+				<input type="submit" name="ctl00$content$login$btnLogin" value="Log In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$content$login$btnLogin&quot;, &quot;&quot;, true, &quot;Login1&quot;, &quot;&quot;, false, false))" id="ctl00_content_login_btnLogin" class="btn bg-black">
+				<a href="/home/profile/forgotpassword.aspx">Forgot your password?</a>
+				<div class="clear"></div>
+			</div>
 		</div>
 		
+		
+	</div>
+	
+	
+	
+	
+	
+</div>
+
+
+<div class="login-buttons">
+	<div id="ctl00_content_login_createAccount"><a class="btn btn-large bg-burgundy" href="/home/profile/createaccount.aspx">Create an eConcordia Account</a></div>
+	<div><a class="btn btn-large bg-burgundy" href="/home/registration.aspx">How to Register?</a></div>
+</div>
+		</div>
+	
+	
+<style>
+	#PageContent p { line-height:16px; }  
+	#PageContent li { margin-left:15px; }
+	#PageContent ul { list-style-position:outside; margin-left:15px; }
+</style>	
+	
+<h1>Privacy</h1>
+<div id="PageContent">
+	<p>eConcordia is committed to protecting your privacy. The following Privacy Policy identifies the type of information that we may collect from you and how we will use this information.  		 	    </p><p>In order to serve you better, we may, from time to time, request that you provide us with some personal information, such as your student ID number, full name, mailing address, e-mail address, phone number, and credit card information. </p>             <p>More specifically, we will collect: <br>
+		</p>
+		<ul>
+			<li>Registration information, when you enroll in courses offered through eConcordia. This helps us process your application, as well as facilitate your access to other courses in the future.               </li>
+			<li>Tracking information, through the use of cookies, as you navigate through the site. By storing your log-in information and preferences, we can enhance your experience, customize content to your needs, and facilitate course delivery. </li>
+		</ul>          <br>   
+			<h4>
+				Cookies </h4> <p>Cookies are bits of information that a web site transfers to your hard disk for record-keeping purposes. Cookies can make the web more useful and enjoyable by storing information about your preferences on a particular site, such for which courses you are currently registered. </p>             <p>Be assured that we only collect personal information that you specifically and knowingly provide to us. </p>
+		<h4>How we use your personal information:              </h4>             <p>eConcordia does not sell, trade, or rent your personal information to others. We only share your registration information with Concordia University, for registration purposes. </p>             <p>We may use your personal information to: <br>
+		</p>
+		<ul>
+			<li>Process and administer the information that you have requested.               </li>
+			<li>Provide you with products and services that you have requested.               </li>
+			<li>Improve our web site and the services we provide.               </li>
+			<li>Customize and tailor your experience on our web site.               </li>
+			<li>Provide you with information on any changes in our services, agreements, or policies.               </li>
+			<li>Conduct market research on e-learning. </li>
+		</ul><br>
+		<h4>
+			E-mailing:</h4>            <p>When you send us an e-mail, we will use your name and e-mail address to respond. Your message may be shared with the appropriate people at eConcordia and Concordia University so that we can provide you with the most useful and suitable answer and improve your experience at eConcordia. Such addresses are not used for any other purpose and are not shared with any other outside parties. </p>
+		<h4>Reviewing and correcting your personal information:</h4>            <p>You may review and correct your personal information at any time by accessing your information at www.econcordia.com. </p>
+		<h4>How we protect your information: </h4>            <p>eConcordia uses a secure server. This means that all the data we collect is protected against unauthorized access. The secure server software encrypts data and information being transmitted between your browser and the server. However, no system is completely impassable, therefore, we cannot guarantee the absolute security of our database, nor can we prevent information from being intercepted during transmission over the Internet. </p>
+		<h4>Your consent:</h4>            <p>When you use this website, you consent to the collection and use of personal information by eConcordia and Concordia University for the purpose of your course enrollment with eConcordia. You may choose not to provide us with any personal information. In that case, your access to certain information or use of our services may be limited. </p>
+		<h4>How to contact us:</h4>            <p>If you have any questions, comments, or concerns about our Privacy Policy, you may contact us at: <a href="mailto:helpdesk@econcordia.com">helpdesk@econcordia.com</a></p>
+	<p></p>
+</div>
+
 
 	
 				
@@ -152,47 +243,44 @@
 		</div>
 		
 		<div class="clear"></div>
+		</div>
+		
+		
+		
+		</form>
 		
 		<footer>
 			
 
-<div class="footerContainer" id="footer">
-	<div class="footer">
-		<p>
-			<span><span class="lightBlueLink" style="text-decoration:none;">Address</span>: 1250 Guy Street, 7th Floor, Montreal, Quebec H3H 2T4</span>
-			<span style="margin:0 10px;"><span class="lightBlueLink" style="text-decoration:none;">Email:</span> <a href="mailto:helpdesk@econcordia.com">helpdesk@econcordia.com</a></span>
-			<span><span class="lightBlueLink" style="text-decoration:none;">Call:</span> 514-848-8770 or 1-888-361-4949</span>
-		</p>
+<div class="footer">
+	<p>
+		<span><span class="lightBlueLink" style="text-decoration:none;">Address</span>: 1250 Guy Street, 7th Floor, Montreal, Quebec H3H 2T4</span>
+		<span style="margin:0 10px;"><span class="lightBlueLink" style="text-decoration:none;">Email:</span> <a href="mailto:helpdesk@econcordia.com">helpdesk@econcordia.com</a></span>
+		<!-- <span><span class="lightBlueLink" style="text-decoration:none;">Call:</span> 514-848-8770</span> -->
+	</p>
+	
+	<ul class="footerNav">
+		<li class="footerNavItem"><a class="footerNavA" href="/home/privacy.aspx">Privacy</a></li>
+		<li class="footerNavItem"><a class="footerNavA" href="/home/policies.aspx">Policies</a></li>
+		<li class="footerNavItem noborder norightpadding"><a class="footerNavA" href="/home/trademark.aspx">Trademark Agreement</a></li>
+	</ul>
+	
+	<div class="clear"></div>
 		
-		<ul class="footerNav">
-			<li class="footerNavItem"><a class="footerNavA" href="/home/sitemap.aspx">Site Map</a></li>
-			<li class="footerNavItem"><a class="footerNavA" href="/home/privacy.aspx">Privacy</a></li>
-			<li class="footerNavItem"><a class="footerNavA" href="/home/policies.aspx">Policies</a></li>
-			<li class="footerNavItem"><a class="footerNavA" href="/home/trademark.aspx">Trademark Agreement</a></li>
-			<li class="footerNavItem noborder norightpadding"><a class="footerNavA" href="/home/feedback.aspx">Feedback</a></li>
-		</ul>
+	<p>© 2018 eConcordia.com Inc. All rights reserved.</p>
 		
-		<div class="clear"></div>
-			
-		<p>© 2014 eConcordia.com Inc. All rights reserved.</p>
-			
-			
+		
 
-		
-	</div>
+	
 </div>
 		</footer>
-		
-		<div id="backgroundPopup"></div>
-		</div>
-		</form>
 		
 		<script type="text/javascript" src="/home/js/styleswitcher.js"></script>	
 		<script src="/home/js/navigation_sm_event.js" type="text/javascript"></script> 
 		<script src="/home/js/navigation_sm_tooltip.js" type="text/javascript"></script> 
 		<script src="/home/js/navigation_sm_viewport.js" type="text/javascript"></script> 
 		
-		<!-- 172.16.144.114 -->
+		<!-- 22 -->
 		
 	
 	
