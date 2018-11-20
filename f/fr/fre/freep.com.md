@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freep.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624070953id_/http%3A//static.freep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freep.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120200404id_/https%3A//cm.freep.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | Detroit Free Press
+# static.freep.com
 
 Last Updated: May 14, 2018
 
