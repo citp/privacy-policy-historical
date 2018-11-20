@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makewebvideo.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118134805id_/http%3A//www.makewebvideo.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makewebvideo.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120081530id_/https%3A//www.makewebvideo.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,4 +42,4 @@ If you have any comments or questions regarding our Online Privacy Policy, pleas
 
 #### Your Consent
 
-By using this Web site, you consent to the terms of our Privacy Policy, Terms of Service, and to the Company's processing of Personal Information for the purposes given above as well as those explained where we collect Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time. 
+By using this Web site, you consent to the terms of our Privacy Policy, Terms of Service, and to the Company's processing of Personal Information for the purposes given above as well as those explained where we collect Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
