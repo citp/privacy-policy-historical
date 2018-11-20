@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogcatalog.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191336id_/https%3A//www.blogcatalog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogcatalog.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121001251id_/https%3A//www.blogcatalog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BlogCatalog
 
@@ -44,13 +44,13 @@ We may disclose personal information that we collect or you provide as described
 
 **Accessing and Correcting Your Information**
 
-You can review and change your personal information by logging into the Website and visiting your account profile page. You may also send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to request access to, correct or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You can review and change your personal information by logging into the Website and visiting your account profile page. You may also send us an email at support@blogcatalog.com to request access to, correct or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our Terms of Use.
 
 **Your California Privacy Rights**
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to support@blogcatalog.com.
 
 **Data Security**
 
@@ -60,4 +60,4 @@ Unfortunately, the transmission of information via the internet is not completel
 
 **Contact Information**
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+To ask questions or comment about this privacy policy and our privacy practices, contact us at support@blogcatalog.com.
