@@ -1,103 +1,118 @@
-> *The following text is extracted and transformed from the planetcalypsoforum.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522083913id_/http%3A//www.planetcalypsoforum.com/content.php%3F116-planet-calypso-forum-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetcalypsoforum.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120140218id_/http%3A//www.planetcalypsoforum.com/content.php%3F116-planet-calypso-forum-privacy-policy) for the most accurate reproduction.*
 
 # PlanetCalypsoForum.com - PlanetCalypsoForum.com Privacy Policy
 
-**
+**PlanetCalypsoForum.com Privacy Policy**
 
-PLANETCALYPSOFORUM.COM PRIVACY POLICY
+2018-05-25
 
-**
+ _General_
 
-**GENERAL INFORMATION:**
+MindArk PE Aktiebolag (publ) (”we” or “MindArk” or "PlanetCalypsoForum.com") cares about your privacy. Therefore, we always strive to protect your personal data in the best possible way and to comply with all applicable laws and regulations for the protection of personal data. In this policy, we want to inform you about how we collect and process your personal data.
 
-PlanetCalypsoForum.com (hereinafter "PlanetCalypsoForum") and its administrators, moderators and/or agents (hereinafter "Staff"), values the privacy of its users, registered members, and others who visit and use (collectively or individually, hereinafter "Members") [www.PlanetCalypsoForum.com](http://www.planetcalypsoforum.com/) and any other web sites or services owned or operated by PlanetCalypsoForum.com. 
+This policy applies to any personal data we process when you create an account, access and/or visit PlanetCalypsoForum.com.
 
-PlanetCalypsoForum respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. 
+Please note that PlanetCalypsoForum.com is not directed to children under the age of 13 and that we do not knowingly collect personal data from children under the age of 13. If we learn that we have collected personal data from a child under the age of 13 we will take steps to delete such information as soon as possible.
 
-Any Member Content or personal information you provide on the Website remains subject to this Privacy Policy, the PlanetCalypsoForum.com Terms of Service, and our PlanetCalypsoForum Rules.
+Do you want to know more about how we process your personal data? You can find a more detailed information about our processing below. Below we give you information about, for example, the legal basis, storage period, purpose of the processing and how you can affect our processing of your personal data.
 
-PlanetCalypsoForum will never use your contact information to send unsolicited commercial messages ("spam"), nor will PlanetCalypsoForum ever disclose your contact information for such purposes.
+ _Who is responsible for your personal data? Questions or queries?_
 
-**NOTE TO CHILDREN:**  
-PlanetCalypsoForum is NOT intended for persons under the age of 13 years. If you are under 13 years of age, then we encourage you to visit web sites more suited to a younger audience.
+MindArk PE Aktiebolag (publ), company registration number 556640-4769, with address Järntorget 8, 413 04 Gothenburg, Sweden telephone number +46 (0)31 607 260 and e-mail address [support@mindark.com](mailto:support@mindark.com) is responsible for the processing of your personal data (the controller).
 
-NEVER DISPLAY ANY PERSONAL INFORMATION THAT COULD BE USED TO FIND YOU IN THE REAL WORLD - for example, your full legal name, mailing or home address, or telephone numbers.
+If you have any questions regarding our processing of your personal data you may contact us via the Support Section of the Entropia Universe website or at any of the contact details stated above. If you want to send a letter to us, our postal address is: 
 
-NEVER TRANSMIT ANY OF YOUR ENTROPIA UNIVERSE ACCOUNT INFORMATION TO ANOTHER FORUM MEMBER, ADMINISTRATOR OR MODERATOR. PlanetCalypsoForum Staff will NEVER ask for such information.
+MindArk PE AB (publ)  
+Attn. Entropia Support,  
+Järntorget 8,  
+SE-413 04 Gothenburg,  
+SWEDEN
 
-**THE INFORMATION PLANETCALYPSOFORUM COLLECTS:**
+If any of the stated information changes, we will share our revised privacy policy at our website. We will however inform you about any subsequent substantive or material changes to the policy by contacting you.
 
-Member-provided Information: You may provide to PlanetCalypsoForum what is generally called "personally identifiable" information (such as your name, email address, postal mailing address, home/mobile telephone number, etc.) when you register as a Member and if you participate in certain activities on PlanetCalypsoForum. In addition, you may choose to post certain information to your public "profile" on PlanetCalypsoForum such as your date of birth, general location, interests, occupation, web site URLs, videos, blogs, IM addresses, and comments. 
+ _What personal data do we process?_
 
-"Cookies" Information: When you visit PlanetCalypsoForum, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer. PlanetCalypsoForum uses both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to PlanetCalypsoForum. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings. 
+The personal data that we process is for example the data that you have provided us with when you create an account, access or otherwise interact with PlanetCalypsoForum.com.
 
-"Automatically Collected" Information: When you participate in PlanetCalypsoForum and, for example, participate in forums, control panel, profile, news, diaries, gallery or the Arcade, or open one of our HTML emails, we may automatically record certain information from your web browser by using different types of technology, including database logging, "clear gifs" or "web beacons." This "automatically collected" information may include Internet Protocol address ("IP Address"), web browser type, the web pages or sites that you visit just before or just after PlanetCalypsoForum, the pages you view on our site, and the dates and times that you visit PlanetCalypsoForum.
+The personal data that you submit to us can for instance be your user account information, name, contact details, e-mail address, age, gender and your payment details.
 
-**THE WAY PLANETCALYPSOFORUM USES THIS INFORMATION:**
+You may also voluntarily provide us with other personal data, for example on your member profile page.
 
-When you choose to create a public profile on PlanetCalypsoForum, you may post, at your option, certain personal information that will be publicly displayed to other Members on PlanetCalypsoForum. PlanetCalypsoForum uses the information that we collect to operate, maintain, enhance, and provide to you all of the features and services found on PlanetCalypsoForum. We will use your email address, without further consent, for administrative purposes such as sending you account activation and welcome emails, notifying you of major PlanetCalypsoForum updates, for customer service purposes, to address copyright infringement issues, or to contact you regarding any PlanetCalypsoForum activities in which you are presently participating.
+When you visit or access PlanetCalypsoForum.com we will automatically collect information about your computer such as your IP address, geographical location, browser type, referral source, length of visit and number of page views.
 
-PlanetCalypsoForum uses your email address to send to you activity emails, newsletters, and, from time to time, notices about special activities, features, or items available on PlanetCalypsoForum. You may opt-out of receiving such notices by indicating your preferences in the Edit Profile section of PlanetCalypsoForum. PlanetCalypsoForum uses all of the information that we collect to understand the usage trends and preferences of our Members, to improve the way PlanetCalypsoForum works and looks, and to create new features and functionality. 
+ _For what purpose do we process your personal data?_
 
-PlanetCalypsoForum uses "automatically collected" information and "cookies" information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit PlanetCalypsoForum; (b) provide customized third-party advertisements, content, and information; (c) monitor the effectiveness of third-party marketing campaigns; (d) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (e) track your entries, submissions, and status in any games, promotions, or contests. 
+We process your personal data for the purposes of administrating and fulfilling our obligations to you as a PlanetCalypsoForum.com member, improve PlanetCalypsoForum.com and your website experience, and to comply with applicable laws, regulations and decisions as required by public authorities.
 
-**WHEN PLANETCALYPSOFORUM DISCLOSES INFORMATION:**
+We process your personal data for example in order to:
 
-PlanetCalypsoForum does not share your personally identifiable information with other organizations for their marketing or promotional uses without your express consent. PlanetCalypsoForum may disclose "automatically collected" and other aggregate non-personally-identifiable information with interested third parties to assist such parties in understanding the usage and demographic patterns for certain programs, content, services, advertisements, promotions, and/or other functionality on PlanetCalypsoForum.
+  * Provide the PlanetCalypsoForum.com website to your browser or device;
+  * Administration of your user account;
+  * Send voluntary website and subscription alerts via email.
 
-PlanetCalypsoForum may disclose Member information if required to do so by law or in the good-faith belief that such action is necessary to comply with Swedish laws (such as Copyright or Criminal law) or respond to a court order, judicial or other government subpoena, or warrant. We may make such disclosures, in some cases, without providing Members notice.   
-PlanetCalypsoForum also reserves the right to disclose Member information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect PlanetCalypsoForum from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of PlanetCalypsoForum; and to protect the rights, property, or personal safety of PlanetCalypsoForum, our Members, or others.
 
-**YOUR CHOICES:**
 
-You may, of course, decline to share your personally-identifiable information with PlanetCalypsoForum, in which case you will not be able to participate in many PlanetCalypsoForum activities. You may update, correct, or delete your member information and email subscription preferences at any time by going to the Edit Profile section of PlanetCalypsoForum; provided, however, that upon deletion of your account or profile, please note that some of your personal information, including email address and contact information may remain in PlanetCalypsoForum's systems for some limited period of time.
+We mainly processes your personal data based on the legal basis that it is necessary for the performance of our contract. However, we may also process your personal data based on another legal basis, such as for the purpose of our legitimate interests to process your personal data or based on consent.
 
-To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections. HOWEVER, you are responsible for maintaining the secrecy of your unique password and account information at all times.
+ _Who can gain access to your personal data?_
 
-**THIRD-PARTY ADVERTISERS, LINKS TO OTHER SITES:**
+As a starting point, your data will only be processed by MindArk and relevant companies in the MindArk group. We may also share your information with our selected partners and suppliers in accordance with below.
 
-PlanetCalypsoForum allows other companies, called third-party ad servers or ad networks, to serve advertisements within PlanetCalypsoForum. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements that appear within PlanetCalypsoForum and they automatically receive your IP Address when this happens. Such third-party ad servers may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content.
+  * To administrate your deposit and/or withdrawing of funds we may share your personal data with our payment processor; and
+  * Our internal and external IT suppliers and any other suppliers we hire may get access to personal data about you that we process, but only to the extent necessary in order to fulfill their obligations in relation to MindArk.
 
-PlanetCalypsoForum does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in.
+ _Transfer of personal data_
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. PlanetCalypsoForum's Privacy Notice does not apply to, and we cannot control the activities of, such other advertisers or web sites. PlanetCalypsoForum reserves the right the add or remove third-party ad networks or ad servers in its discretion and PlanetCalypsoForum may not at all times list such updated ad network or ad server partners in this Privacy Notice. 
+MindArk, MindArk group companies and MindArk’s partners and suppliers, will in some cases process your personal data outside of the EU/EEA. If your personal data is transferred to a third country, MindArk will always take suitable and appropriate safety measures to protect the personal data being processed. This means we will only transfer your personal data outside the EU/EEA where there is a legal basis for doing this.
 
-**OUR COMMITMENT TO DATA SECURITY:**
+ _For how long will we store your personal data?_
 
-PlanetCalypsoForum uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to PlanetCalypsoForum, and you do so at your own risk. Once we receive your transmission of information, PlanetCalypsoForum makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
+MindArk only processes your personal data for as long as the processing is necessary. Below you can read examples of how long that period is in some cases.
 
-If PlanetCalypsoForum learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. PlanetCalypsoForum may post a notice on PlanetCalypsoForum if a security breach occurs. 
+  * Personal data that we process in order to administrate or to fulfill our obligations to you under the agreement will not be stored for longer than is necessary for us to fulfill our obligations;
+  * For the purpose of bookkeeping, we store your personal data, in accordance with applicable accounting legislation;
+  * We process your contact information for marketing purposes for a period of time after you have made a deposit of funds and/or purchase on Entropia Universe’s web shop or after you have played Entropia Universe; and
+  * Personal data which we process with your consent as legal basis, will be processed until you withdraw your consent or until you unregister your account with us (whichever occurs first).
 
-**OUR COMMITMENT TO CHILDREN'S PRIVACY:**
+ _How can you affect our processing of your personal data?_
 
-Protecting the privacy of young children is especially important. For that reason, PlanetCalypsoForum does not knowingly collect or maintain personally identifiable information on PlanetCalypsoForum from persons under 13 years-of-age, and no part of PlanetCalypsoForum is directed to persons under 13. If you are under 13 years of age, then please do not use or access PlanetCalypsoForum at any time or in any manner. If PlanetCalypsoForum learns that personally-identifiable information of persons less than 13-years-of-age has been collected on PlanetCalypsoForum without verifiable parental consent, then PlanetCalypsoForum will take the appropriate steps to delete this information. 
+According to data protection legislation, you are entitled to a variety of rights to affect our processing of your personal data. Read more below.
 
-Parents, the following are some resources that may help you in monitoring and limiting your childrens' access to certain types of material on the Internet. While PlanetCalypsoForum does not endorse these products, we provide information about them as a public service to our Members. 
+ _Right to withdraw consent and to object to processing_
 
-Control Kids: [http://www.controlkids.com](http://www.controlkids.com/)   
-Cyber Sitter: [http://www.solidoak.com](http://www.solidoak.com/)   
-Net Nanny: [http://www.netnanny.com](http://www.netnanny.com/)
+You have a right to, entirely or partly, withdraw a given consent for the processing of your personal data. Your withdrawal will have effect from the time of your withdrawal.
 
-**INTERNATIONAL VISITORS:**
+You also typically have the right to object to our processing of your personal data. You have always a right to object to marketing from us, such as newsletters.
 
-PlanetCalypsoForum is subject to Swedish law. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from Swedish law, please note that you are transferring your personal data to Sweden and by providing your personal data you consent to that transfer.
+ _Right to access_
 
-**IN THE EVENT OF MERGER OR SALE:**
+You have the right to obtain confirmation as to whether or not we are processing personal data concerning you. You can gain access to the personal data and obtain a copy of the personal data processed by us.
 
-In the event that PlanetCalypsoForum is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from Members as part of such merger, acquisition, sale, or other change of control.
+ _Right to rectification_
 
-**CHANGES AND UPDATES TO THIS PRIVACY NOTICE:**
+You have the right to rectification of any inaccurate personal data concerning you and to ask us to have incomplete personal data completed.
 
-This Privacy Notice may be revised periodically without further notice to you and this will be reflected by the "last modified" notice below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received that personal information. Your continued use of PlanetCalypsoForum constitutes your agreement to this Privacy Notice and any future revisions.
+ _Right to erasure (“the right to be forgotten”) and restriction of processing_
 
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing such revisions with respect to such information.
+Under certain circumstances, you have the right to request erasure of your personal data. This is the case for example where the personal data is no longer necessary for the purposes for which they were collected or otherwise processed, or you withdraw your consent on which the processing is based and where there is no other legal ground for continuance of the processing.
 
-**EFFECTIVE DATE, DATE LAST MODIFIED:**
+You also have the right to request that MindArk restrict its processing of your personal data. That is the case for example when the accuracy of the personal data is contested by you, or the processing is unlawful and you oppose the erasure of the personal data and instead requests restriction of its use.
 
-PlanetCalypsoForum Privacy Notice effective as of September 21, 2010.
+ _Right to lodge a complaint to a supervisory authority_
 
-PlanetCalypsoForum Privacy Notice last modified on September 21, 2010.
+You have the right to lodge a complaint with a supervisory authority, in particular in the EU/EEA member state of your habitual residence, place of work or place of the alleged infringement of the General Data Protection Regulation. You have such a right without prejudice to any other administrative or judicial remedy. In Sweden, the supervisory authority is The Swedish Data Protection Authority.
 
-**PLANETCALYPSOFORUM CONTACT INFORMATION:**
+ _Right to data portability_
 
-Please contact PlanetCalypsoForum with any questions or comments about this Privacy Notice, your personal information, our third-party disclosure practices, or your consent choices at our [Contact Page ](http://www.planetcalypsoforum.com/forums/sendmessage.php)
+You have the right to ask us to transfer the personal data we have about you to another company (data portability).
+
+This right applies if:
+
+  * The processing is based on consent or on a contract; and
+  * The processing is carried out by automated means.
+
+
+
+In exercising your right to data portability, you have the right to have personal data transmitted directly from MindArk to another controller, where technically feasible.
+
+This Privacy Policy was last updated on the 25th of May, 2018.
