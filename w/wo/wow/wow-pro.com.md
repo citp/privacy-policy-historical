@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wow-pro.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522234503id_/http%3A//wow-pro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow-pro.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120140235id_/http%3A//wow-pro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World of Warcraft Pro
 
