@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strath.ac.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628162509id_/https%3A//www.strath.ac.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strath.ac.uk privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120134117id_/https%3A//www.strath.ac.uk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy | University of Strathclyde
 
@@ -60,9 +60,11 @@ Our website is produced using the Content Management System (CMS) Site Manager b
 
 ## Chat
 
-Our web chat functionality is provided by two companies, PureChat and Live Chat. We use this chat for real-time communication with website visitors during specific events at the University. This information is used by the team that the you are chatting with to provide help and advice as required.
+Our web chat functionality is provided by Live Chat. We use this chat for real-time communication with website visitors This information is used by the team that the you are chatting with to provide help and advice as required.
 
-A log of the chat is held within the system to enable the team to continue to provide support in line with our data retention policies. The companies who provide our online chat functionality have access to the data held in this system and they are fully GDPR compliant.
+A log of the chat is held within the system to enable the team to continue to provide support in line with our data retention policies. The company who provide our online chat functionality have access to the data held in this system and they are fully GDPR compliant.
+
+Please view Live Chat's [Privacy Policy](https://www.livechatinc.com/legal/privacy-policy/ "Live Chat - Privacy Policy") for more information.
 
 ## How is your information used?
 
