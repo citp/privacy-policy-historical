@@ -1,74 +1,84 @@
-> *The following text is extracted and transformed from the skyrimforums.org privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213090223id_/http%3A//skyrimforums.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyrimforums.org privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121000750id_/http%3A//skyrimforums.org/gaming-news/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Skyrim Forums
+# Privacy Policy | TESO, Skyrim and RPG News and Forums - Skyrim Forums
 
-  
+This Privacy Policy sets out how SkyrimForums.org uses and protects any information that you provide when you use this website. SkyrimForums.org is committed to ensuring that your privacy is protected. If we should ask you to provide certain information by which you can be identified when using this website, you may be assured that it will only be used in accordance with this privacy statement.
 
+#### **PRIVACY POLICY CHANGES**
 
-[Follow @SkyrimForums](https://twitter.com/SkyrimForums)
+SkyrimForums.org may change this policy from time to time by updating this page. You should check this page periodically as your continued use of the site constitutes acceptance of any changes to the [Terms of Service](http://skyrimforums.org/sf/help/terms), Privacy Policy and General Rules of Conduct. We may periodically require you to reconfirm agreement to Terms of Service, Privacy Policy and General Rules of Conduct. This policy is effective from 5/17/2018.
 
-This privacy policy sets out how SkyrimForums.org uses and protects any information that you give SkyrimForums.org when you use this website. 
+#### **WHAT WE COLLECT**
 
-SkyrimForums.org is committed to ensuring that your privacy is protected. If we should ask you to provide certain information by which you can be identified when using this website, you may be assured that it will only be used in accordance with this privacy statement.
+SkyrimForums.org collects information about users supplied during account registration and during participation in certain activities on our website, including giveaways. This includes IP address, name, location, physical address, e-mail address, age and gender. We also store your provided personal preferences related to SkyrimForums.org in your account data.
 
-SkyrimForums.org may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2/13/2013.
+Your physical location, gender, date of membership and last login date is used in your SkyrimForums.org User Profile to foster a better sense of community at our site. In addition you have the option of displaying your birthdate. If you wish to hide this data, you may do so in your Account Profile page.
 
-### **WHAT WE COLLECT**
+When users request pages from our server, our Web server automatically collects some information about the users, including their IP addresses. These addresses are used by computers on the network to send the requested pages to users. SkyrimForums.org does not reveal any personal information that users provide to us to any third party without their permission.
 
-We may collect the following information:
+#### **WHAT WE DO WITH THE INFORMATION WE GATHER**
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+SkyrimForums.org uses users’ IP addresses to help diagnose problems with our server and to administer our website. We primarily use IP addresses to track fraudulent user activity (including but not limited to: the use of multiple accounts, account sharing, illegal forum activity.)
 
+Your browser type and version are also detected to better enhance your user experience and improve our products and services.
 
+We may combine demographic information supplied by a user at registration with site usage data to provide profiles, in aggregate form, about our users and their preferences in the content of the site and advertising. We may share this composite information with our advertisers to help them better understand our services.
 
-###  
+We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
-### **WHAT WE DO WITH THE INFORMATION WE GATHER**
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+We may use the information to customize the website according to your interests.
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
-  * We may use the information to customize the website according to your interests.
-  * We may provide your information to our third party partners for marketing or promotional purposes.
-  * We will never sell your information.
+We may provide your information to our third party partners for marketing or promotional purposes.
 
+SkyrimForums.org will not sell, distribute or lease your personal information to third parties unless we have your permission. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
+We may provide your personal information to law enforcement if you have actively engaged harassment of another user, threatened them with physical abuse, mental abuse or violence or if we are required to by law.
 
-###  
+#### **HOW WE USE COOKIES**
 
-### **SECURITY**
+SkyrimForums.org uses cookies to deliver content specific to users’ interests and to keep a record of their preferences. This information is used to assist us in creating a site that will serve the needs of our users.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-###  **HOW WE USE COOKIES**
+You may choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+#### **ADVERTISING**
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+SkyrimForums.org may use user supplied information in combination with site usage information to help display advertisements relevant to the users interest and navigation patterns. SkyrimForums.org may use cookies to help in tracking these patterns but does not store or collect a personal data in combination with user supplied information.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+SkyrimForums.org uses third-party advertising companies to serve ads when you visit. These companies may use information (not including your name, address email address, telephone number or other specifically sensitive information) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+Third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to your site. SkyrimForums.org’s visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using SkyrimForums.org’s websites, with the drawback that certain features of SkyrimForums.org’s websites may not function properly without the aid of cookies.
 
-### **LINKS TO OTHER WEBSITES**
+These third-party vendors also may collect information directly from your device, such as your IP address, information about your browser or operating system; may combine our personal and non-personal information about you with information from other sources; and may place or recognize a unique cookie on your browser. To opt-out of third party cookies, please go to <http://www.aboutads.info/choices>. To opt-out of the use of your mobile device ID for targeted advertising, please see [http://www.aboutads.info/appchoices](http://www.aboutads.info/choices).
 
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+#### **DISCLOSURE REGARDING GOOGLE DISPLAY ADVERTISING**
 
-### **CONTROLLING YOUR PERSONAL INFORMATION**
+We have implemented Google Analytics features based on Display Advertising (Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting). Visitors can opt-out (<https://tools.google.com/dlpage/gaoptout/>) of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings.
+
+SkyrimForums.org, along with third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to the site.
+
+SkyrimForums.org uses the Google Analytics Demographics and Interest Reporting feature to identify trends in the usage of its website which may be published in reports for internal use.
+
+#### **LINKS TO OTHER WEBSITES**
+
+SkyrimForums.org may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, SkyrimForums.org does not have any control over that other website. Therefore, SkyrimForums.org cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+#### **SECURITY**
+
+SkyrimForums.org is committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+#### **CONTROLLING YOUR PERSONAL INFORMATION**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us through this [form](http://skyrimforums.org/misc/contact) (<http://skyrimforums.org/misc/contact>).
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us through this [form](http://skyrimforums.org/sf/misc/contact) (<http://skyrimforums.org/sf/misc/contact>).
+  * If you have an account with SkyrimForums.org, you may edit your details at any time via this [form](http://skyrimforums.org/sf/account/). (<http://skyrimforums.org/sf/account/>)
+  * If you no longer wish to use your SkyrimForums.org account, you may request all Personally Identifiable Information in your account be anonymized at any time by writing to or emailing us through this [form](http://skyrimforums.org/sf/misc/contact) ([http://skyrimforums.org/sf/misc/contact](http://skyrimforums.org/misc/contact)).
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-[ ](http://skyrimforums.org/forum/ "Skyrim Forums")
+Users who wish to use SkyrimForums.org must agree to the terms detailed above. Continued use of SkyrimForums.org constitutes acceptance of the [Terms of Service](http://skyrimforums.org/sf/help/terms), Privacy Policy and General Rules of Conduct.
