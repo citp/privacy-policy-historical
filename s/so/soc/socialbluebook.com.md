@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the socialbluebook.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620004934id_/http%3A//home.socialbluebook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbluebook.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120131437id_/http%3A//home.socialbluebook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Bluebook
 
 ## Our Commitment to Privacy
 
-Social Bluebook (“SBB”, “we”, “our” or “us”) is committed to protecting your privacy. This privacy policy (“Privacy Policy”) describes the types of personal information we collect through our website at www.socialbluebook.com (the “Website”), how we use that information, who we share it with, and the choices you can make about our collection, use and disclosure of that information. This Privacy Policy only applies to information we collect on the Website. It does not apply to information collected by SBB offline or through any other means or to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Website.
+Social Bluebook (“SBB”, “we”, “our” or “us”) is committed to protecting your privacy. This privacy policy (“Privacy Policy”) describes the types of personal information we collect through our website at www.socialbluebook.com (the “Website”), how we use that information, who we share it with, and the choices you can make about our collection, use and disclosure of that information. This Privacy Policy only applies to information we collect on the Website. It does not apply to information collected by SBB offline or through any other means or to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Website.  By using Social Bluebook, you are also agreeing to be bound by the Google Privacy Policy ([http://www.google.com/policies/privacy](http://www.google.com/policies/privacy)).
 
 ## Acceptance
 
@@ -35,6 +35,12 @@ We use information that we collect from you to provide the Website, information 
 We may contact you for marketing and promotional purposes by various means, including but not limited to regular mail, e-mail or telephone. You may opt out of receiving promotional or marketing communications by contacting us as provided below or clicking the unsubscribe link in the communication. We also perform statistical analyses from the demographic information you provide so as to improve our products or to gather marketing information.
 
 We use IP addresses to analyze trends, administer the site, track user movement and gather broad demographic information for aggregate use. We do not link IP addresses to personally identifiable information and we do not distribute or share IP information with any third parties.
+
+We also gather information on your social media platforms via an API (Application Program Interface). We utilize API’s for YouTube, Facebook, Instagram, Twitter, and Google Analytics. In order to calculate your platforms valuation, we require read, management, and sometimes write access to your platforms. Social Bluebook will never post on your behalf on any of these social media platforms, and all data gathered is updated on a monthly basis. 
+
+  * To remove Social Bluebooks access to your YouTube channel, you can delete it from the “My Values” page, or via the Google security settings page at [https://security.google.com/settings/security/permissions](https://security.google.com/settings/security/permissions). Please note that this will not remove any data from your channel itself, only from Social Bluebook.
+
+
 
 ## Sharing of Information
 
