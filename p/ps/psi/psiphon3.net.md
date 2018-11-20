@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psiphon3.net privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202103116id_/http%3A//www.psiphon3.net/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psiphon3.net privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120133646id_/http%3A//psiphon3.net/en/privacy.html) for the most accurate reproduction.*
 
 # Psiphon | Privacy Policy
 
@@ -15,7 +15,7 @@ Psiphon is designed to provide you with open access to online content. Psiphon d
 
 ## What user information does Psiphon collect?
 
-From time to time Psiphon may have to record additional information in order to resolve a problem with our service. When this occurs, we will add an entry to the [Privacy Bulletin](https://web.archive.org/web/20171202103116id_/http%3A//www.psiphon3.net/en/privacy-bulletin.html) describing what was recorded, how long it was kept, and why. 
+From time to time Psiphon may have to record additional information in order to resolve a problem with our service. When this occurs, we will add an entry to the [Privacy Bulletin](https://web.archive.org/web/20181120133646id_/http%3A//psiphon3.net/en/privacy-bulletin.html) describing what was recorded, how long it was kept, and why. 
 
 ### Psiphon Client Software
 
@@ -23,21 +23,19 @@ From time to time Psiphon may have to record additional information in order to 
 
 We sometimes use advertisements to support our service, which may use technology such as cookies and web beacons. Our advertising partners' use of cookies enable them and their partners to serve ads based on your usage data. Any information collected through this process is handled under the terms of our advertising partners' privacy policies: 
 
-  * <http://www.mopub.com/legal/privacy/>
-  * <http://www.inmobi.com/privacy-policy/>
-  * <http://www.millennialmedia.com/privacy-policy>
+  * <https://www.mopub.com/legal/privacy/>
+  * <https://www.mopub.com/legal/partners/>
+  * <https://policies.google.com/technologies/partner-sites>
 
 
 
 You can opt out of the use of cookies for interest-based advertising by visiting: 
 
-  * <http://www.mopub.com/optout/>
-  * <http://www.inmobi.com/page/opt-out/>
-  * <http://www.millennialmedia.com/privacy-policy/opt-out>
+  * <https://www.mopub.com/optout/>
 
 
 
-### Websites
+### Psiphon Websites
 
 #### Google Analytics
 
@@ -72,6 +70,72 @@ User IP addresses are not collected by Psiphon servers in the normal course of o
 Event logs include timestamps, region codes (country and city), and non-identifying attributes including sponsor ID (determined by which Psiphon client build is used), client version, and protocol type. Page views are aggregated by time and/or session before being logged. 
 
 All statistics shared with sponsors are further aggregated by date, sponsor, and region. 
+
+### User VPN Data
+
+#### Why should you care?
+
+When using a VPN or proxy you should be concerned about what the provider can see in your data, collect from it, and do to it. For some web and email connections, it is theoretically possible for a VPN to see, collect, and modify the contents. 
+
+#### What does Psiphon do with your VPN data?
+
+Psiphon looks at your data only to the degree necessary to collect statistics about the usage of our system. We record the total bytes transferred for a user connection, as well as the bytes transferred for some specific domains. These statistics are discarded after 60 days. 
+
+Psiphon does not inspect or record full URLs (only domain names), and does not further inspect your data. Psiphon does not modify your data as it passes through the VPN. 
+
+Even this coarse data would be difficult to link back to you, since we immediately convert your IP address to geographical info and then discard the IP. Nor is any other identifying information stored. 
+
+#### Why does Psiphon need these statistics?
+
+This data is used by us to determine how our network is being used. This allows us to do things like: 
+
+  * Estimate future costs: The huge amount of user data we transfer each month is a major factor in our costs. It is vital for us to see and understand usage fluctuations.
+  * Optimize for traffic types: Video streaming has different network requirements than web browsing does, which is different than chat, which is different than voice, and so on. Statistics about the number of bytes transferred for some major media providers helps us to understand how to provide the best experience to our users.
+  * Determine the nature of major censorship events: Sites and services often get blocked suddenly and without warning, which can lead to huge variations in regional usage of Psiphon. For example, we had up to 20x surges in usage within a day when [Brazil blocked WhatsApp](https://blog-en.psiphon.ca/2016/07/psiphon-usage-surges-as-brazil-blocks.html) or [Turkey blocked social media](https://blog-en.psiphon.ca/2016/11/social-media-and-internet-ban-in-turkey.html).
+  * Understand who we need to help: Some sites and services will never get blocked anywhere, some will always be blocked in certain countries, and some will occasionally be blocked in some countries. To make sure that our users are able to communicate and learn freely, we need to understand these patterns, see who is affected, and work with partners to make sure their services work best with Psiphon.
+
+
+
+#### Who does Psiphon share these statistics with?
+
+When sharing with third parties, Psiphon only ever provides coarse, aggregate domain-bytes statistics. We never share per-session information or any other possibly-identifying information. 
+
+This sharing is typically done with services or organizations we collaborate with — as [we did with DW](http://www.dw.com/en/psiphon-helps-dodge-the-online-trackers/a-16765092) a few years ago. These statistics help us and them answer questions like, “how many bytes were transferred through Psiphon for DW.com to all users in Iran in April?” 
+
+Again, we specifically do not give detailed or potentially user-identifying information to partners or any other third parties. 
+
+### PsiCash
+
+The PsiCash system only collects information necessary for the functioning of the system, monitoring the health of the system, and ensuring the security of the system. 
+
+The PsiCash server stores per-user information to allow for operation of the system, including: 
+
+  * generated user access tokens
+  * balance
+  * last activity timestamp
+  * PsiCash earning history, including what the actions the rewards were granted for
+  * PsiCash spending history, including what purchases were made
+
+
+
+In the user's web browser, some data is stored to allow for earning rewards and making purchases. This data includes: 
+
+  * generated user access tokens
+  * when a PsiCash reward is allowed to be claimed again
+
+
+
+For monitoring system health and security, system activity data is collected and aggregated. This data includes: 
+
+  * user country
+  * balance
+  * user agent string
+  * client version
+  * PsiCash earning and spending details
+
+
+
+Individual user data is never shared with third parties. Coarse aggregate statistics may be shared, but never in a form that can possibly identify users. 
 
 ### Feedback
 
