@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtoolscafe.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902232136id_/http%3A//webtoolscafe.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtoolscafe.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120163432id_/http%3A//webtoolscafe.com/privacypolicy) for the most accurate reproduction.*
 
 # WebToolsCafe
 
