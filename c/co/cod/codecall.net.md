@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codecall.net privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605225312id_/http%3A//codecall.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codecall.net privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120144401id_/http%3A//codecall.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » CODECALL
 
