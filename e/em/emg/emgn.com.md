@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emgn.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521202845id_/http%3A//emgn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emgn.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120113533id_/http%3A//emgn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ To improve our website
 
 To send periodic emails
 
-> The email address you provide for your registration may be used to send you occasional company news, updates, related product or service information, etc.
+The email address you provide for your registration may be used to send you occasional company news, updates, related product or service information, etc.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
