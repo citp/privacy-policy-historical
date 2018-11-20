@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natmonitor.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522044138id_/http%3A//natmonitor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natmonitor.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120124614id_/http%3A//natmonitor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
