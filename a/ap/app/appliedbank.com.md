@@ -1,31 +1,11 @@
-> *The following text is extracted and transformed from the appliedbank.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519112817id_/http%3A//www.appliedbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedbank.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120053838id_/http%3A//www.appliedbank.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Applied Bank
+# Privacy - Applied Bank
 
-This Privacy Policy is provided to help you understand how we protect Customer information. Applied Bank (herein referred to as Bank, we, us or our) respects your decision to do business with us and takes your privacy seriously. Our Privacy Policy provides you with an opportunity to make informed choices about the management of personal information. You trust us with your personal and financial information and we'll honor that trust by handling your information carefully and sensibly. This Privacy Policy will help you understand how we safeguard and use information, and how it applies to all Customers or former Customers who obtain financial services from us for personal, family or household purposes. Similarly, our Customers who receive information from us or transact business with us through the Internet are covered by additional privacy policies on our websites.
+##  Collection of Information
 
-  * Collection of Information
-  * Security Procedures
-  * Disclosures to Service Your Account
-  * Disclosures to Provide You with Offers for Products and Services
-  * Offers for Products and Services of Other Companies
-  * Vermont Residents Only
-  * Protecting Our Children
-  * Former Customers
-  * Commitment to Service  
+We collect information from and about you in order to identify you as our Customer, establish and manage Customer accounts, complete Customer transactions, understand Customer needs, market products and services we believe are of value to Customers, and comply with legal and regulatory requirements. We collect and obtain Customer information from various sources including the following:   
 
-  * Online Privacy Addendum
-  * Information Usage
-  * Links to Third Party Websites  
-
-  * Legal Disclaimers
-  * Controls
-
-
-
-## Collection of Information
-
-We collect information from and about you in order to identify you as our Customer, establish and manage Customer accounts, complete Customer transactions, understand Customer needs, market products and services we believe are of value to Customers, and comply with legal and regulatory requirements. We collect and obtain Customer information from various sources including the following:
 
   * Information listed on credit applications or other related forms
   * Information listed on deposit account opening forms
