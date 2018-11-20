@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trafficshop.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530000220id_/https%3A//www.trafficshop.com/guest/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficshop.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121000720id_/https%3A//www.trafficshop.com/privacy) for the most accurate reproduction.*
 
-# TrafficShop - Privacy policy
+# TrafficShop | Privacy policy & Security
 
-_Updated May 25, 2018._
+_Updated July 27, 2018._
 
 This privacy policy applies to [www.trafficshop.com](http://www.trafficshop.com/) and the services associated with the site owned and operated by  (“TrafficShop”, “We”, “Us”).
 
@@ -58,11 +58,11 @@ Name | Purpose
 ---|---  
 ts_session | Stores information about the current user data and profile settings.  
 ts_lang | Stores information about the current user language.  
-ts_cookies_agree | Stores information that the current user agreed on to placement cookies.  
+OptanonConsent | Stores information that the current user agreed on to placement cookies.  
 aff | If the current user has come by the referral link, stores information about an affiliate program.  
 areferer | If the current user has come by the referral link, stores referrer of an affiliate program page.  
   
-The use of tracking technologies by our service providers, technology partners or other 3rd party assets (such as social media) on the site is not covered by our privacy policy. These 3rd parties may use cookies, clear gifs, images, and scripts to help them better manage their content on our site. We do not have access or control over these technologies. We do not tie the information gathered to our Customers’ or Users’ personal information.
+The use of tracking technologies by our service providers, technology partners or other 3rd party assets (companies, such as [Google](https://policies.google.com/privacy), [Yandex](https://metrica.yandex.com/about/info/privacy-policy), [Adroll](https://www.adrollgroup.com/privacy)) on the site is not covered by our privacy policy. These 3rd parties may use cookies, clear gifs, images, and scripts to help them better manage their content on our site. We do not have access or control over these technologies. We do not tie the information gathered to our Customers’ or Users’ personal information.
 
 **Where we store and processed your personal information**
 
