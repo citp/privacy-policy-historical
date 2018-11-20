@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indystar.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529210851id_/http%3A//static.indystar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indystar.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120201844id_/https%3A//cm.indystar.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | IndyStar
+# static.indystar.com
 
 Last Updated: May 14, 2018
 
