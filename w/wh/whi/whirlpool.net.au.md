@@ -1,56 +1,97 @@
-> *The following text is extracted and transformed from the whirlpool.net.au privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405214824id_/http%3A//www.whirlpool.net.au/article.cfm%3Fid%3D49%26show%3Dextend) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whirlpool.net.au privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120071646id_/https%3A//whirlpool.net.au/wiki/wp_privacypolicy) for the most accurate reproduction.*
 
-# Whirlpool - Broadband News Australia
+# Privacy Policy
 
-* * *
+**Your privacy is important to us.**
 
-**The site operator:**
+Whirlpool will not give, sell, trade or rent your private information to others under any circumstance. We do not supply your private information to others except where we:
 
- _WHIRLPOOL BROADBAND MULTIMEDIA_
+  * may be required to do so under Australian law (e.g. by Court Order or by law enforcement agencies under statutory or other powers);
+  * are trying to prevent abuse of Whirlpool or Whirlpool's systems (e.g. because we are being DOSed, DDOSed, or where a user is abusing or threatening users or moderators);
+  * are of the reasonable view that there may be an actual or potential breach of the law (e.g. where Whirlpool is being used for the furtherance of crimes against persons or property);
+  * are acting to identify sources of spam, malicious behaviour or identity theft.
 
-`  
-....Mail: PO BOX 245 South Yarra VIC 3141  
-...Phone: 03 9827 3955  
-.....Fax: 03 9827 3224  
-..Mobile: 0410 460 390  
-...Email: [mail@whirlpool.net.au](mailto:mail@whirlpool.net.au)`
 
- **Your privacy is important to us.**
 
-WHIRLPOOL BROADBAND MULTIMEDIA will not disclose, sell, trade or rent any personally identifying information obtained from you for any purpose, to a third party without your prior consent. Extreme care is taken to ensure security of your private information both offline and online.
+We continually strive to maintain the security of your private information both offline and online. The term "information" includes your ‘real’ email address, your IP address and any other supplied registration details which we have identified as private.
 
-The term "Information" includes registration details, as well as statistics and preferential settings. It is our policy to allow our users to provide as much - or as little - personal information to us as they feel comfortable doing. 
+It is however important to be aware that when you voluntarily provide personal information in an article reply or in the forums, that information will not be protected by this privacy policy (reasonable requests for deletion will usually be honoured however). For this reason, we strongly discourage the offering of [personal details](https://web.archive.org/wiki/WP_PersonalDetails) in any post you make.
 
-It is however important to be aware that when you voluntarily provide personal information in an article reply or on the forums, that information will not be protected by this privacy policy (reasonable requests for deletion will usually be honoured however). For this reason, we discourage the offering of private details within the public commenting system.
+### Actions which forfeit this Policy
 
- **What information do we gather?**
+In the event of [legal threats](https://web.archive.org/wiki/wp_legal) or other threats made against Whirlpool or its staff, the person(s) responsible for those threats is deemed to forfeit any rights to privacy in relation to those threats. We reserve the right to retransmit the threat and any associated material to any third party. We also reserve the right to publish the threat and associated material.
 
-If you are comfortable providing us with information about yourself, enhanced services, like site customisation, become available to you. It is not possible for us to offer them to anonymous users.
+In the event we receive an offer of bribery, quid pro quo, or any other form of incentive to influence moderation or editorial decisions, the person(s) responsible for those communications is deemed to forfeit any rights to privacy in relation to those communications. We reserve the right to retransmit the communications and any associated material to any third party. We also reserve the right to publish the communications and associated material.
 
-All the information we gather is stored by WHIRLPOOL in a secure and separate area, protected by firewalls and never shared with anyone.
+### What information do we gather?
 
-We use a feature of your browser called a "cookie" to assign a "User ID." Cookies, by themselves, cannot be used to find out your identity or the identities' of any of our users, it only identifies your computer to our servers when you visit our site. The most noticeable benefit of this is not having to "log in" every time you visit.
+If you are comfortable providing us with information about yourself, enhanced services, like the customisations available on your user account, become available to you. It is not possible for us to offer them to anonymous users.
 
-Companies placing advertising on our sites may have the ability to assign a different cookie to you. However as these cookies are completely separate and don't identify you individually (you'll just be a number to them), companies will not know who you are - and we will certainly never tell them.
+All the information we gather is stored by Whirlpool in a secure and separate area, protected by firewalls and never shared with anyone, except where it might be required by Australian law (by Court Order or Police Warrant), or to prevent abuse of Whirlpool or Whirlpool's systems.
 
- **Why do we gather the Information?**
+We use a feature of your browser called a "cookie" to help implement many critical features of our site. Cookies, by themselves, cannot be used to find out your identity or the identities of any of our users. It can _only_ return information that we already have.
 
-WHIRLPOOL aims to provide you with better services and more compelling reasons to come back and visit our sites. The information you provide us with personalise your experience, and provide just the information you are interested in receiving. We analyse what our users and customers like and don't like about the content, so that we can constantly improve them for your use.
+Specifically, per session cookies are required to be able to remain signed in and use the features of Whirlpool available to registered users.
 
-WHIRLPOOL is committed to protecting your privacy. We use the information we collect on our sites to make our services the best they can be and to enhance your overall experience. We do not sell, trade or rent your personal information to others.
+Permanent cookies are only required if you select the option for Whirlpool to "Remember me on this computer" when logging in.
 
- **Tell Us What You Think**
+### Why do we gather information?
 
-If you would like to comment or question anything you have read here, please do so by posting a [public comment](http://whirlpool.net.au/reply.cfm?id=49), or a private query via email at [privacy@whirlpool.net.au](mailto:privacy@whirlpool.net.au).
+Whirlpool aims to provide you with better services and more compelling reasons to come back and visit our site. The information you provide us with can personalise your experience, and help us provide information you are interested in receiving. We analyse what our users and customers like and don't like about the content, so that we can constantly improve them for your use.
 
-* * *
+### Who can see information about me?
 
-This privacy policy was erected in response to a particularly nasty commentary about Whirlpool.
+Only Whirlpool Full or Senior Moderators and Administrators can see privileged information about users such as IP addresses, etc.
 
- **For the record** , Whirlpool does not collect referrer data on an individual basis (I can not even access the HTTP logs, only summary data). The **only** 'stealth' data retained for each user is the date of last visit (to help weed out unused accounts), and your last IP (to investigate transparent proxy issues).
+Details on your Account, Preferences and Account Activity of your Account Settings is not visible to other users.
 
- **I am disappointed** about the level of immaturity shown by Josh Miles, with such presuppositions as _"the truth is that he is a snoop"_ , and completely incorrect claims such as _"This along with allot (sic) of other features that are built into the database and search your computer when you login"_. This site does **not** currently log referrers, colour depth, times of access, or browser type against your username, and certainly does not "search your computer" in any way.
+The information on the Identity and What I Use tab page of your Account Settings populates your Whirlpool public profile.
 
- **It was even claimed** that 'evidence' was discovered of this, saying _"To give your an example of what I have found out about Whirlpool..."_ , as if it were actually true and not someone's creative imagination.
+Your public profile only shows limited information to non-logged in users and search engines (it does not show contact details to non-logged in users). The contact details in your public profile are only visible by registered members of good standing.
 
- **The replies shown below** indicate the public response to this issue, which has been cleared up, thanks to Dean Wilson who runs the great [Cableusers.com](http://www.cableusers.com/).
+Moderators cannot read your private messages (WhIM's). Administrators can do so if required, such as to verify serious abuse of other users.
+
+Please note that, like any online publisher, we cannot pre-emptively control your private information being published by another user. If this happens, [contact a moderator](https://web.archive.org/wiki/WP_ModContact).
+
+### Will Whirlpool ever send me unsolicited email?
+
+No.
+
+The only times that Whirlpool will ever send email to a user is:
+
+  * When requested to do so for account validation (such as new account creation, when a user requests their password be reset)
+  * If a user chooses to be notified of new private messages via email
+  * When a user voluntarily participates in a survey, or when a user voluntarily completes an online form which requires email validation.
+  * For significant notifications about security of Whirlpool user accounts.
+
+
+
+We encourage users to keep their Account Email Address up to date in the case they need to reset their password, as Whirlpool sends the password reset email to that address.
+
+Whirlpool will ask you periodically (approximately every 6 months) to verify your Account Email address is still valid, primarily to ensure users don't become locked out of their account if they forget their password.
+
+### Is my password stored securely?
+
+Yes. For several years now all user passwords are non-reversibly encrypted. Mechanisms are also in place to make it as difficult as possible to 'brute force' user passwords even if an attacker obtained a copy of the database.
+
+We recommend users set their Whirlpool password to be a randomly generated, unique password, stored in a password manager and have the password manager automatically fill in the password.
+
+This reduces the risk of password compromise both for your Whirlpool account and any other websites you use.
+
+### Can you send me contact details for a specific user?
+
+No.
+
+However, there are generally some public contact details for each user listed on the user's info page, if they have chosen to supply them. They can be viewed simply by clicking on a user's name in the forums.
+
+### I suspect a user is posting from multiple accounts. How can I check?
+
+If you suspect that a user is using multiple accounts to try and win an argument, or to spam the forums, please contact a moderator immediately (see [How do I contact a Mod?](https://web.archive.org/wiki/WP_ModContact)). The moderator will then check for duplicate or ghost accounts, and help clear the air.
+
+Please note that a moderator will not reveal details (such as IP addresses, email addresses, etc) of a user's account to anyone — so don't bother asking.
+
+### Can you tell me if another user has been penalised?
+
+[Penalised Users](https://web.archive.org/wiki/wp_unusualusers) describes user statuses for users with restricted access, whether due to moderator action or user request.
+
+Any moderation actions will be discussed only with the user that is the subject of those actions.
