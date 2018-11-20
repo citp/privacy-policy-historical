@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsencrypt.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628003449id_/https%3A//letsencrypt.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsencrypt.org privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120182927id_/https%3A//letsencrypt.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Let's Encrypt - Free SSL/TLS Certificates
 
@@ -26,7 +26,7 @@ You may need to download client software from a repository such as those run by 
 
 ## Visitor
 
-When you are a Visitor browsing the Let’s Encrypt web site, you have the option to make a donation. Donations are processed by our trusted payment partners including DonorBox, Stripe, and PayPal, depending on the payment method selected. We collect your name and email address when you donate. We will not use your email address to contact you without your consent. Your interactions with [DonorBox](https://donorbox.org/privacy), [Stripe](https://stripe.com/privacy/), and [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) are governed by their respective privacy policies. We do not collect or retain any credit card or bank information related to donations.
+When you are a Visitor browsing the Let’s Encrypt web site, you have the option to make a donation. Donations are processed by our trusted payment partners including DonorBox, Stripe, and PayPal, depending on the payment method selected. We collect your name and email address when you donate. We will not use your email address to contact you without your consent. Your interactions with [DonorBox](https://donorbox.org/privacy), [Stripe](https://stripe.com/privacy/), and [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) are governed by their respective privacy policies. We do not collect or retain any credit card or bank information related to donations. If we collect a physical address, we will only retain your physical address information for as long as is reasonably necessary to make the shipment that you requested.
 
 If you register to use the Let’s Encrypt community support forum, the personal information you provide and your actions there are governed by the privacy policy of our hosting and software provider for the forum, [Civilized Discourse Construction Kit](https://www.discourse.org/privacy). We do not collect or maintain personal information through our offering of this support forum.
 
