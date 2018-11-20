@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522144027id_/http%3A//rnbdirt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120114134id_/http%3A//rnbdirt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | rnbdirt.com
 
