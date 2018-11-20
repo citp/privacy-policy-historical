@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkme.com.au privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626075006id_/https%3A//www.livehire.com/transparency/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkme.com.au privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120050517id_/https%3A//www.livehire.com/transparency/privacy) for the most accurate reproduction.*
 
-# LiveHire – Australia’s 1st labour market, where workers and employers connect directly
+# LiveHire - Australia's 1st labour market, where workers and employers connect directly
 
 ##  Privacy Policy LiveHire's Privacy policy was last modified on: 25 May 2018
 
