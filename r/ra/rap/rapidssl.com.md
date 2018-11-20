@@ -1,158 +1,206 @@
-> *The following text is extracted and transformed from the rapidssl.com privacy policy that was archived on 2016-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160906144247id_/https%3A//www.rapidssl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidssl.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120182648id_/https%3A//www.digicert.com/digicert-privacy-policy) for the most accurate reproduction.*
 
-# Rapid SSL Privacy Statement
+# DigiCert SSL Certificate Authority | Security | Privacy Policy
 
-[ ](https://privacy.truste.com/privacy-seal/validation?rid=213efdf4-f261-4bcf-a3f6-9f421cac3957 "Validate TRUSTe privacy certification")
+Privacy Policy in other languages
 
-## Version 3.0 - Effective December 4, 2014
+[Français – France](https://web.archive.org/fr/fr/digicert-privacy-policy/) | [Français – Canada](https://web.archive.org/fr/ca/digicert-privacy-policy/) | [Dansk – Danmark](https://web.archive.org/da/dk/digicert-privacy-policy/) | [Deutsch – Deutschland](https://web.archive.org/de/de/digicert-privacy-policy/) | [Español – España](https://web.archive.org/es/es/digicert-privacy-policy/) | [Español – México](https://web.archive.org/es/mx/digicert-privacy-policy/) |  
+[Italiano – Italia](https://web.archive.org/it/it/digicert-privacy-policy/) | [ 日本語 – 日本](https://web.archive.org/ja/jp/digicert-privacy-policy/) | [ 한국어 – 한국](https://web.archive.org/ko/kr/digicert-privacy-policy/) | [Português – Brasil](https://web.archive.org/pt/br/digicert-privacy-policy/) | [Русский — Россия](https://web.archive.org/ru/ru/digicert-privacy-policy/) | [简体中文 – 中国](https://web.archive.org/zh/cn/digicert-privacy-policy/) | [中文 – 台湾](https://web.archive.org/zh/tw/digicert-privacy-policy/)
 
-GeoTrust, Inc. is committed to providing you with excellent service for all of our products and services. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire GeoTrust.com and RapidSSL.com web sites and the GeoTrust services that are provided via these web sites. This Privacy Statement is not applicable to GeoTrust's corporate parent or affiliates or to any information collected offline or through other web sites which do not display this Privacy Statement. GeoTrust services may be hosted on partner sites on behalf of GeoTrust, and if this GeoTrust Privacy Statement is listed on that site, then it will also apply.
+Effective Date of Privacy Policy
 
-GeoTrust, Inc. ("GeoTrust") is a wholly owned subsidiary of Symantec Corporation.
+October 11, 2018  
+[Privacy Policy Archive](https://web.archive.org/legal-repository/#PrivacyPolicyArchive)
 
-GeoTrust has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@geotrust.com. If you are not satisfied with our response you can contact TRUSTe here. 
+Introduction
 
-This Privacy Statement will inform you of:
+DigiCert, Inc. and its subsidiaries (“DigiCert”, “DigiCert Group,” “we” or “us”) are committed to protecting the privacy of its Website visitors (“you”) and Customers (“you” or “Customer”) and employees or agents of Customers (“you” or “Individuals”). As a result, DigiCert has developed this privacy policy to inform its Website visitors, Customers and Individuals about how DigiCert will collect, use, share or otherwise process any personal data or usage information. This privacy policy applies to all sites owned and operated by DigiCert (collectively, “Websites,” individually referred to as a “Website,” meaning each and every Website owned and operated by DigiCert). This privacy policy also applies to DigiCert’s provision of website certificate services (the “Validation Services” or “Certificates”).  
+DigiCert is a company established in the United States with principal offices at 2801 North Thanksgiving Way, Suite 500, Lehi, Utah 84043 and for the purpose of the General Data Protection Regulation (“GDPR”) and any local data privacy laws, we are the data controller of personal information obtained through our Website. We are a data processor in relation to the Individuals’ personal information that we receive from Customers (data controllers), either directly or through resellers, and that we process at the Customer’s instructions, as well as according to applicable Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates (“Baseline Requirements” or “Industry Standards”), in order to issue Certificates.  
+If you are an EU or Switzerland resident, we have appointed a Data Protection Liaison for Europe at DigiCert Ireland Ltd. as our Europe Representative who you can contact (in addition to or instead of our global headquarters) should you have any issues in connection with personal information processed through our Website (contact details provided below).
 
-  * What personal information our site gathers about you
-  * How we use and with whom we share the personal information we gather
-  * Your ability to opt-out of future notifications
-  * What security procedures we have in place to protect your personal information from loss, misuse, or alteration
-  * How you can correct or update your personal information
+Information that DigiCert Receives
 
+  * **Through our Website** : DigiCert collects information such as the name, organization, and email address of Website visitors and Customers who voluntarily submit that information via our Website, email, instant chat, by creating an account or otherwise, in order to download software or to submit sales or technical support questions.
+  * **From Customers** : Customers request DigiCert Certificates through their account in DigiCert’s Website (the “Account”). When submitting a request, Customers provide to DigiCert the following information about Individuals: name, email address, telephone number, address and government-issued identification (which may include additional information, depending on the identification used).Where Customers share personal information of Individuals with DigiCert, Customers represent that they have collected and processed such information in accordance with data protection laws, and that they have duly informed the Individuals that their personal information was provided to DigiCert. DigiCert will process such information following Customer instructions, as strictly necessary to provide the services contracted by Customer.
 
 
-Questions regarding this Privacy Statement should be directed to [support@geotrust.com](mailto:support@geotrust.com). Please specify "Privacy Statement" in the subject line of your e-mail. You may also call us at 1-866-511-4141, option 1.
 
-## Overview
+Use of Information
 
-Privacy is of great concern to most users of the Internet, and is a critical part of an enjoyable and satisfactory user experience. We at GeoTrust are acutely aware of and sensitive to the privacy concerns of our subscribers and other visitors to our Web site. Whether you are a customer of our various products and services or a visitor to our site, we assure you that we do not collect personal information from you unless you provide it to us. If you are enrolling for a GeoTrust digital certificate ("Digital Certificate"), you may be asked to provide certain personal information. Please note, however, that we are asking for this information for the limited purposes of creating your Digital Certificate, providing the services that may be part of your Digital Certificate, and authenticating your identity in order to issue you a Digital Certificate.
+We will use your information to:
 
-This Privacy Statement applies to the geotrust.com site. Many of our affiliated companies, including our parent company, Symantec Corporation, Symantec's other subsidiaries, and our subsidiaries maintain their own privacy policies that may be viewed on their Web sites. Please note that our site contains links to other sites. GeoTrust is not responsible for the privacy practices, privacy statements, or content regarding these other sites.
+  * **Provide products and services / live chat / sales/support** : As it is in our legitimate interest to market, sell and provide our products and services, send order confirmations, respond to Customer service requests, provide chat services with sales questions and technical support needs, and fulfill your order, including using the information to verify the identity of the Customer or to contact the customer in order to discuss support, renewal, and the purchase of products and services.
+  * **Marketing** : We will use your information as it is in our legitimate interests to send out promotional emails (subject to seeking your consent where required by applicable law). These emails include beacons that communicate information about the email back to DigiCert, as further set out in our [Cookies Policy](https://web.archive.org/online-cookies-privacy/)Such tracking allows DigiCert to gauge the effectiveness of its advertising and marketing campaigns. Recipients can opt-out of receiving promotional communications from DigiCert by following the unsubscribe instructions provided in each email or by emailing [privacy@digicert.com](mailto:privacy@digicert.com). DigiCert may use third parties, with which it has a confidentiality agreement, to send promotional emails on our behalf. However, DigiCert does not permit any third party to use Customer information provided by DigiCert or obtained on DigiCert’s behalf for any other purpose. Anyone receiving an unsolicited email related to DigiCert’s products and services should forward the entire message and headers to [privacy@digicert.com](mailto:privacy@digicert.com).
+  * **Validation Services** : DigiCert uses information provided by Customers to perform Validation Services, in accordance with Industry Standards. DigiCert uses this information as follows: (1) to perform our contracts with Customers that are natural persons; (2) based on the legitimate interest of DigiCert to provide services to Customers that are legal entities; and (3) based on the legitimate interest of Customers to have DigiCert issue Certificates.Please refer to DigiCert’s [Certificate Services Agreement](https://web.archive.org/wp-content/uploads/2017/06/Certificate-Services-Agreement.pdf) and [Certificate Terms of Use](https://web.archive.org/certificate-terms/) for details on how Customer can request Certificates.
+  * **Advisory e-mails** : While a customer account is active, DigiCert will send advisory e-mails to customers to provide support and security updates in relation to our products and services, as this is necessary for the performance of our contracts with customers. Advisory emails are used to respond to inquiries, provide support and validation services, provide upgrade information and security updates, and inform the customer about ordered products and services. Because advisory emails contain essential information related to the use and security of DigiCert’s products and services, customers are not able to unsubscribe from advisory service emails while their customer account is active. DigiCert may also use third-party service providers to assist in sending these communications, subject to the same restrictions as mentioned in the “Marketing” sub-heading, above.
+  * **Technical usage information** : As it is in our legitimate interests to ensure the proper functioning of our Website by personalizing its use, monitoring usage activity and trends, and keeping the website safe and secure, when you visit the Website, we collect the information sent to us by your computer, mobile phone, or other access device. This information includes: your IP address; device information including, but not limited to, identifier, name, and type of operating system; mobile network information; and standard web information, such as your browser type and the pages you access on our Website.
 
-## Information We Gather from You
 
-## Personal Information
 
-There are two ways in which you may explicitly and intentionally provide us with and consent to our collection of certain personal information:
+Cookies & Tracking Technologies
 
-  * E-mail Request for Information or Registrations for Guides or Seminars - We use links throughout our site to provide you with the opportunity to contact us via e-mail to ask questions, request information and materials, register or sign up for guides or seminars, or provide comments and suggestions. You may also be offered the opportunity to have one of our representatives contact you personally to provide additional information about our products or services. To do so, we may request additional personal information from you, such as your name and telephone number, to help us satisfy your request.
-  * Enrollment - If you choose to enroll for one of our products or services, we will request certain information from you. Depending on the type of product or service that you request, you may be asked to provide different personal information. For certain products and services, we may require your name, address, telephone number, e-mail address, credit card number, bank account information, IP address, and/or social security number. Other products and services may require different or supplemental information from you in order to apply. For a detailed listing of the type of personal information requested for our various products, please refer to the enrollment page for the particular product or service.
+DigiCert uses cookies, web beacons and log files to automatically gather, analyze, and store technical information about Website visitors. This information includes the visitor’s IP address, browser type, ISP, referring page, operating system, date/time, and clickstream data (meaning data about the pages you visit on our Website). This information is used to improve DigiCert’s service and enhance the experience of DigiCert’s Website visitors. For more information about the cookies used on our Website, the third-party service providers that we use to gather such information, and reports that we receive based on the use of tracking technologies, please refer to our [Cookies Policy](https://web.archive.org/online-cookies-privacy/). You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it will limit your use of certain features or functions on our Website or service, affecting your Website experience. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
+DigiCert uses a third party to either display advertising on our Website or to manage our advertising on other sites. Our third-party partner uses technologies such as cookies to gather information about your activities on our site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have information used for the purpose of serving you interest-based ads, you should opt-out by [clicking here](https://preferences-mgr.truste.com/) (or if located in the European Union/Switzerland [click here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads – it just opts you out of receiving personalized ads, but you will continue to receive generic ads.
 
+Sharing with Third Parties
 
-Under no circumstances do we collect any personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, or sex life.
+DigiCert will publicly disclose information embedded in an issued Certificate as necessary to provide the services contracted by Customer, in accordance with Industry Standards.
 
-## Statistical Information About Your Visit
+When performing its services, DigiCert uses third party sources to confirm or supplement the information that it obtains from a Customer, including information about Individuals. DigiCert uses such information from third party sources exclusively for the purposes of its Validation Services, based on the legitimate interests of DigiCert and of the Customer to provide services and have a Certificate issued.
 
-When you visit our site, our computers may automatically collect statistics about your visit. This information does not identify you personally, but rather identifies information about a visit to our site. We may monitor statistics such as how many people visit our site, the user's IP address, which pages people visit, from which domains our visitors come and which browsers people use. We use these statistics about your visit for aggregation purposes only. These statistics are used to help us improve the performance of our Web site.
+DigiCert never sells or provides personal information to third parties for uses apart from assisting DigiCert in servicing our Customers and website visitors. We will share your personal information with third parties including these categories of recipients:
 
-## Use of Cookies
+  * IT Services providers that provide us with SaaS services including Salesforce who we use to store our customer relationship management information;
+  * Marketing providers, advertisers and advertising networks that require the data to send you advertisements about our products and select and serve relevant adverts to you and others;
+  * Analytics and search engine providers that assist us in the improvement and optimisation of the Website;
+  * Chat-based support software services that allow users to input information, including an email address, to request support and clarify their problem; and
+  * Credit card and payment providers that help process payments for us (note that we do not store any provided credit card information).
 
-We only use "cookies" as described in this Section. A "cookie" is a piece of information that our Web site sends to your browser, which then stores this information on your system. If a cookie is used, our Web site will be able to "remember" information about you and your preferences either until you exit your current browser window (if the cookie is temporary) or until you disable or delete the cookie. Many users prefer to use cookies in order to help them navigate a Web site as seamlessly as possible. You should be aware that cookies contain no more information than you volunteer, and they are not able to "invade" your hard drive and return to the sender personal or other information from your computer.
 
-Our uses of "cookies" are limited to the following specific situations. The first situation is with respect to temporary cookies. There are two instances in which we use temporary cookies. First, if you are accessing our services through one of our online applications our Web server may automatically send your browser a temporary cookie, which is used to help your browser navigate our site. The only information contained in these temporary cookies is a direction value that lets our software determine which page to show when you hit the back button in your browser. This bit of information is erased when you close your current browser window. If you come to our site from one of our business partners, our Web server may also send your browser a temporary cookie that reflects an "origination code" for that business partner. We use this information for statistical and marketing purposes. Second, if you log into an access-controlled section of our site, we may set a temporary session cookie to establish that you have been authenticated. The information contained in these cookies consists of random data that is used by the server to authenticate the browser requests to the server for that particular session. It does not include any type of personally identifiable information. This bit of information is erased when you close your current browser window. If you choose not to accept a temporary cookie, you will not be able to log into or navigate in these online applications or use the Personal Trust Agent.
 
-The second situation in which we may use cookies is with respect to permanent cookies. This type of cookie remains on your system, although you can always delete or disable it through your browser preferences. There are two instances in which we use a permanent cookie. First, when you visit our Web site and request documentation or a response from us. When you are filling out a form you may be given the option of having our Web site deliver a cookie to your local hard drive. You might choose to receive this type of cookie in order to save time in filling out forms and/or revisiting our Web site. We only send this type of cookie to your browser when you have clicked on the box labeled "Please remember my profile information" when submitting information or communicating with us The second instance where we use a permanent cookie is where we track traffic patterns on our site. Analysis of the collected information by our tracking technologies allows us to improve our web site and the user experience. In both instances of a persistent cookie, if you choose not to accept the cookie, you will still be able to use our Web site. Even if you choose to receive this type of cookie, you can always set your browser to notify you when you receive any cookie, giving you the chance to decide whether to accept it in each situation in which one is sent.
+DigiCert will share your information with law enforcement agencies, public authorities or other organizations if legally required to do so, including to meet national security or law enforcement requirements, or if we have a good faith belief that such use is reasonably necessary to:
 
-## Use of Web Beacons
+  * comply with a legal obligation, process or request;
+  * enforce our terms and conditions and other agreements, including investigation of any potential violation thereof;
+  * detect, prevent or otherwise address security, fraud or technical issues; or
+  * protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law.
 
-GeoTrust may use Web Beacons - also known as single pixel or clear GIFs - on its web site to analyze traffic patterns such as the frequency of use of particular parts of the site. The data collected helps us learn what information is of most interest to our customers and what offers our customers would most like to see. If you do not want to assist GeoTrust in improving its Web site, you can “opt-out” of this web site analysis by disabling JavaScript on your computer. If you disable JavaScript, some of the features on our web sites will not work.
 
-GeoTrust may also use web beacons in promotional email messages to determine whether the message was opened and acted on. We may use this information on email response to develop future promotions you may enjoy. For these purposes, some of our Web beacons are tied to your e-mail address.
 
-We use a third-party tracking service that uses cookies and Web beacons to track non-personally identifiable information about visitors to our site in the aggregate to capture usage and volume statistic to improve our site. We have no access or control of these third party tracking technologies.
+DigiCert will also disclose your information to third parties:
 
-We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at www.networkadvertising.org/choices.
+  * in the event that we sell any business or assets, in which case we will disclose your data to the prospective buyer of such business or assets; or
+  * if we or substantially all of our assets are acquired by a third party, in which case information held by us about our users will be one of the transferred assets.
 
-## Bulletin Boards, Chat Rooms and Forums
 
-If you use a forum, bulletin board, chat room or other chat tool on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. GeoTrust is not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from chat room or forum, contact us at support@geotrust.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-You are also responsible for using these forums in a manner consistent with the "Rules of Engagement" or other terms and conditions set forth on the relevant forum site.
+Referrals
 
-## How We Use and With Whom We Share the Personal Information We Gather
+If you choose to use our referral service to tell a friend about our Website, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting them to visit the site. DigiCert collects this information for the sole purpose of sending this one-time email and tracking success of the referral program.
 
-The personal information we gather from you is used as explained below.
+If you believe that one of your contacts has provided DigiCert with your personal information, you may contact us at [privacy@digicert.com](mailto:privacy@digicert.com) to request that we remove this information from our database.
 
-## Sending you responses and updates
+Blogs
 
-We generally respond to any e-mail questions, requests for product or service information, and other inquiries that we receive. We may also retain this correspondence to improve our products, services, and Web site, and for other disclosed purposes. Frequently we retain contact information so that we can send individuals updates or other important information about our services and products. Occasionally these updates or other important information may be sent out by third parties on our behalf. Please be assured that any third party who contacts you in this capacity has executed a confidentiality agreement with us that contains a provision ensuring the privacy and security of any transferred information and limits the third party's use of the shared information to sending updates or providing services on our behalf. Our parent company and its affiliated or subsidiary companies may also send you information about their services and products. In situations where you have supplied your information in connection with a question or request for information about a product or service offered by a GeoTrust business partner, we may also send the information you have supplied to the GeoTrust business partners that offer such products or services. Please be assured that these GeoTrust business partners have agreed to ensure the privacy and security of any transferred information and may only use the shared information to send you information about products or services about which you asked. If you wish to unsubscribe from these communications, please follow the instructions included in each of their promotional emails.
+Our Website offers publicly accessible blogs or community forums. Any information you provide in these areas can be read, collected, and used by others who access them.  
+To request removal or your personal information from our blog or community forums, please contact us at [privacy@digicert.com](mailto:privacy@digicert.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why, as well as additional contact information when applicable.
 
-## Facilitating the support, renewal, and purchase of our products and services
+Social Media Widgets
 
-We may use the information you submit to contact you to discuss the support, renewal, and purchase of our products and services. We may provide our parent company and its affiliated or subsidiary companies with your information so that they may send you information about their services and products. We may also provide the information you have submitted to us to a GeoTrust subsidiary, business partner, or independent reseller (either within or outside the United States) so that the subsidiary, business partner, or independent reseller can contact you and facilitate the support, renewal, and purchase of GeoTrust products and services. You may receive a communication directly from our parent, its affiliated or subsidiary companies, our business partners, or independent resellers. Please be assured that our parent or any subsidiary, business partner, or independent reseller who contacts you for one of these purposes has agreed to use the information we supply only in accordance with a confidentiality agreement. To find out the names and locations of the parent, its affiliated or subsidiary companies, business partners, and/or independent resellers to whom we have provided your information, please contact us at the address given at the end of this Privacy Statement.
+The Website includes social media features, such as a Facebook “Like” button and widgets, as well as share buttons or interactive mini-programs. These features collect the user’s IP address, the pages visited on the Website, and set cookies to enable the features to function properly. Social media features are either hosted by a third party or hosted directly on the Website. Interactions with these features are governed by the privacy policy of the corresponding social media company.
 
-## Facilitating the provision of certain included products and services (if you are applying for certain types of Digital Certificates)
+Security
 
-Certain types of Digital Certificates come with additional third-party services or products that are included with the Digital Certificates. If you purchase one of these Digital Certificates, we may forward some or all of the information in your application to third party providers so that they can provide you with the service or product and follow up with you directly regarding their service or product or an upgrade. Please be assured that we have agreements with these third-party service or product providers that prevent them from disclosing the information to other parties.
+The security of your personal information is of the utmost importance to DigiCert. DigiCert only transmits personal information, including sensitive information (such as credit cards), using transport layer security (TLS). To learn more about TLS, follow this link: [https://www.digicert.com/ssl/](https://web.archive.org/ssl/).
 
-## Validating your identity (if you are applying for certain types of Digital Certificates)
+Unfortunately, no method of transmission over the Internet or electronic storage is 100% secure. While DigiCert strives to use commercially acceptable standards to protect personal information, DigiCert cannot guarantee absolute security. If you have any questions about the security of your personal information, please contact us at [privacy@digicert.com](mailto:privacy@digicert.com).
 
-Certain types of Digital Certificates require that we compare some of the information in your application to information contained in a third-party database or with some other third party source. We do this in order to authenticate your identity and other attributes, and also to prevent identity theft. We have confidentiality agreements in place with these third-party databases restricting the disclosure of your information. In certain limited situations, we have contracts in place permitting the third-party database to disclose the information to its subcontractors or affiliates, but only for authenticating your identity and only in accordance with confidentiality agreements.
+We take all necessary security and legal precautions to ensure the safety and integrity of the Individuals’ personal data that we receive from Customer, including, as appropriate, (i) the pseudonymization of personal data; (ii) ensuring the ongoing confidentiality, integrity, availability and resilience of processing systems and services; (iii) restoring the availability and access to personal data in a timely manner in the event of a physical or technical incident; and (iv) regularly testing, assessing, and evaluating the effectiveness of technical and organizational measures for ensuring the security of the processing.
 
-## Forming the contents of a Digital Certificate
+Where We Store Your Data
 
-The exact information that appears in our different types of Digital Certificates is set forth in the relevant enrollment page and this Privacy Statement. Generally this information is limited to e-mail address and name, but certain classes of Digital Certificates contain additional information. For example, SSL Certificates may contain the organization's Dun and Bradstreet number. Please note that all information that you provide us that forms the content of a Digital Certificate will be "published." Publication of Digital Certificates in an accessible location (a repository) is an integral part of enabling the widespread use of Digital Certificates. Your Digital Certificates will be published in our repository so that a third party may access, review, and rely upon your Digital Certificates. You should have no expectation of privacy regarding the content of your Digital Certificates.
+The DigiCert Group has its parent company based in the United States and our Website is hosted in the United States. Therefore, if you are located outside the United States, the information that you submit to us through our Website will be transferred to the United States. Likewise, Customer data and your personal data will be accessible from and transferred to the United States.
 
-## Disclosure by Law and Protection of GeoTrust and Others
+Where you have a dispute or complaint regarding DigiCert’s collection, storage, or use of your personal information, you may make a complaint to DigiCert by sending it to [privacy@digicert.com](mailto:privacy@digicert.com). If you are an EU or Switzerland resident, where the dispute or complaint is not satisfactorily resolved or you don’t receive a timely response, you may escalate the matter to your European data protection authority free of charge, and DigiCert commits to cooperate with the relevant European data protection authority and will comply with the advice given by this authority with regard to your information which was transferred from the European Union or Switzerland in the context of this Website. You may also contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. For EU or Switzerland residents, such complaint is without prejudice to your right to launch a claim with the data protection supervisory authority in the country in which you live or work.
 
-If we are required by law to disclose certain information to local, state, federal, national or international government or law enforcement authorities, we will do so (for example, we may disclose the identity of purchasers of certain software products to the U.S. Department of Commerce, Bureau of Export Administration, as required under the terms of our export licenses). We will also disclose information to third parties as necessary in order to comply with applicable laws and regulations. In addition, GeoTrust may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply GeoTrust's agreements.
+Individual Rights over Personal Information
 
-## Business Transitions
+Generally, a Customer or Individual can review, delete inaccuracies, and update personal information through its DigiCert account interface by clicking edit under the Account Profile tab.
 
-Circumstances may arise where, whether for strategic or other business reasons, GeoTrust decides to sell, buy, merge or otherwise reorganize businesses or business units in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of it from sellers. It is GeoTrust's practice to seek appropriate protection for information in these types of transactions.
+In certain circumstances, individuals also have the following rights:
 
-## Surveys
+  * **Access and portability** : You have the right to know whether we process personal data about you, and if we do, to access data we hold about you and certain information about how we use it and who we share it with.
+  * **Correction, erasure and restriction of processing** : You have the right to require us to correct any personal data held about you that is inaccurate and have incomplete data completed or ask us to delete data (i) where you believe it is no longer necessary for us to hold the personal data; (ii) where we are processing your data on the basis of our legitimate interest and you object to such processing; or (iii) if you believe the personal data we hold about you is being unlawfully processed by us. You can ask us to restrict processing data we hold about you other than for storage purposes if you believe the personal data is not accurate (whilst we verify accuracy); where we want to erase the personal data as the processing we are doing is unlawful but you want us to continue to store; where we no longer need the personal data for the purposes of the processing but you require us to retain the data for the establishment, exercise or defense of legal claims or where you have objected to us processing personal data and we are considering your objection.Customers and Individuals cannot edit a DigiCert Certificate directly. In order to update information in a Certificate, including personal information, Customers or Individuals must submit a change request through the Customer’s Account, and DigiCert will implement the edits where applicable.
+  * **Objection** : You have the right to object to our processing of data about you and we will consider your request. Please provide us with detail as to your reasoning so that we can assess whether there is a compelling overriding interest in us continuing to process such data or we need to process it in relation to legal claims.
+  * **Testimonials** : With prior permission from the customer, DigiCert displays personal testimonials of satisfied customers on our Website in addition to other endorsements. Customers wishing to update or delete a testimonial should contact DigiCert at [privacy@digicert.com](mailto:privacy@digicert.com).
+  * **Marketing** : You have the right to ask us not to process your personal data for marketing purposes. You can exercise your right to prevent such processing at any time by contacting us at [privacy@digicert.com](mailto:privacy@digicert.com).
+  * **Complaints** : In the event that you wish to make a complaint about how we process your personal data, please contact us in the first instance at [privacy@digicert.com](mailto:privacy@digicert.com) and we will endeavor to deal with your request. If you are an EU or Switzerland resident, this is without prejudice to your right to launch a claim with the data protection supervisory authority in the European country in which you live or work where you think we have infringed data protection laws.
 
-From time-to-time we may request information from customers via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Survey information will be used for purposes of monitoring or improving the use of and satisfaction with this Web site, and improving our customer service and product offerings.
 
-## Links to Other Sites
 
-If you click on a link to a third party site, including on an advertisement, you will leave the GeoTrust site and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as GeoTrust. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to a GeoTrust site, you should read that site’s privacy statement before providing any personally identifiable information.
+You can exercise these rights by sending an email to [privacy@digicert.com](mailto:privacy@digicert.com) or by mailing DigiCert at the address listed in this policy. Before we respond to your request, we will ask you to verify your identity. Note that these rights in their entirety only apply to EU or Switzerland residents and subject to the applicable law of the jurisdiction where you reside. Where exercise of a particular data subject right is not required by law, your request will be handled on a case-by-case basis.
 
-## Your Ability to Opt-Out of Further Notifications
+How Long We Store Your Data
 
-From time-to-time, we notify our subscribers of new products, announcements, upgrades and updates. If you would like to opt-out of being notified, please contact us at the address given at the end of this Privacy Statement or follow the unsubscribe instructions included in each promotional communication.
+We will retain your information as follows:
 
-If you would like to change your preferences online, please visit [http://www.geotrust.com/compref/](https://www.geotrust.com/compref/)http://www.geotrust.com/compref/. If you receive a marketing communication from our parent, subsidiaries, business partners or independent resellers, you should opt-out with that entity directly. Please be aware that you may not opt out of receiving information regarding the security, initial use, expiration, product enhancement or migration of our Digital Certificates or other products or services.
+  * Account data (including to send Advisory e-mails): As long as the account is active, while a certificate remains unexpired, and in accordance with industry standards, which requires us to maintain the data for 7.5 to 10.5 years after account cancellation. In addition, after account cancellation, we will keep this for as long as necessary to defend against legal claims, resolve disputes or enforce customer agreements.
+  * Data provided and collected for marketing and web experience customization purposes: until you notify us that you no longer want us to use your information for marketing and/or web experience customization purposes, by unsubscribing from any marketing email you receive, changing your cookie preferences through consulting our [Cookie Policy](https://web.archive.org/online-cookies-privacy/), or by contacting[privacy@digicert.com](mailto:privacy@digicert.com).
 
-## Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## Our Security Procedures
+After we no longer have a legitimate basis for retaining your personal data, we may store your information in an aggregated and anonymized format.
 
-We consider the protection of all personal information we receive from our Web site visitors and subscribers as critical to our corporate mission. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering one of our products or services using the Secure Sockets Layer (SSL) protocol. Our security procedures are also subject to at least an annual SAS-70 Type II audit by an internationally-recognized accounting firm.
+EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
 
-## How You Can Update or Correct Your Personal Information
+DigiCert participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List, here: [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
-If you need to update or correct, information contained in a Digital Certificate you will need to revoke your Digital Certificate and obtain a new one because we digitally sign each subscriber's Digital Certificate as a part of the Digital Certificate issuance process. If we were to subsequently modify or remove any information listed in a Digital Certificate, our digital signature would not verify the Digital Certificate's new content. Furthermore, if a subscriber (sender) then digitally signed a message with his or her private key, a third party would not be able to properly verify the sender's signature (created using the sender's private key) because the sender's Digital Certificate would have been altered after the key pair's creation. For more information and tutorials on digital signatures, Digital Certificate, keys, and related subjects, click here [http://www.geotrust.com/resources/repository/](https://www.geotrust.com/resources/repository/). 
+DigiCert is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. DigiCert complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-If you would like to update, correct, or delete any personal information in our records that is not contained in your Digital Certificates, please contact us via e-mail at support@geotrust.com (for Class 1 and Class 2 Digital IDs) at or at the address given at the end of this Privacy Statement.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, DigiCert is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-## Certificate Revocation Lists
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedbackform.truste.com/watchdog/request>.
 
-When a third party wants to rely on a Digital Certificate, it is important for the third party to know its status (for example, whether it is valid, suspended (where available) or revoked). The third party may do this by accessing our repository and querying for the status of the Digital Certificate. We do not generally delete Digital Certificates (and their content) from our on-line repository because a third party might not then be able to check its status. You may, however, request to revoke (deactivate) your Digital Certificate. A revoked Digital Certificate will still appear in our repository with an indication that it has been revoked. If you would like to request to have your Digital Certificate revoked (deactivated) from our database, please contact us via email at support@geotrust.com or at the address given at the end of this Privacy Statement. If you are an Extended Validation SSL Certificate subscriber and would like to request to have your Extended Validation Digital Certificate revoked, you may choose to visit our site at http://www.geotrust.com/about/contact/extended-validation-revocation/ and follow the listed instructions.
+Under certain conditions, more fully described on the Privacy Shield website here, <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-## Email this Page
+Applicability
 
-If you use GeoTrust's "Email this page" feature to send a copy of that page to someone else, your email address will appear as the sender of the email. Both your email address and the recipient's email address will not be used for any other purpose.
+This privacy policy does not apply to any downloadable software provided through DigiCert’s Websites.
 
-## International Data Transfer
+Our website includes links to third party websites whose privacy practices may differ from those of DigiCert. If you submit personal information to any of those websites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policies of those third-party websites before you submit any information to those websites.
 
-We maintain and process personal information in the United States. Accordingly, information obtained elsewhere will be transferred to, maintained in, and processed in, and under the laws of, the United States. By subscribing to one of our Services, you must consent to such transfer and processing of your information in the United States.
+Changes to This Privacy Policy
 
-## Changes to this Privacy Statement
+If we make material changes to our information practices, we will update this privacy policy and notify interested parties (e.g., by posting a notice on our home page or by emailing affected individuals). Visitors should check the Website regularly to be aware of changes. We encourage you to periodically review this page for the latest information on our privacy practices. Revisions to the privacy policy are effective 30 calendar days after being posted, or as required by applicable law.
 
-If a material change is made to this Privacy Statement and/or the way we use our customers' personally identifiable information then we will post prominent notice of the nature of such change on the first page of this Privacy Statement and also on our home page. 
+Contact
 
-Our mailing address is:  
-**GeoTrust, Inc.** :  
-Attention: Support:  
-350 Ellis Street:  
-Mountain View, California 94043 
+Please contact DigiCert or DigiCert’s Europe Data Protection Liaison with any questions or concerns about this privacy policy or our data collection practices:
 
-You have the right to review your personal information and have inaccurate information about you corrected. If you wish to do so, or to notify a change in your details, please contact [support@geotrust.com](mailto:support@geotrust.com).
+_Europe Data Protection Liaison_
 
-Additional contact information is available on our [contact page](https://www.geotrust.com/about/contact/index.html).
+By mail:
+
+Digicert Ireland Ltd.  
+Attention: Europe Data Protection Liaison, Richard Hall  
+C/O Symantec Ltd.  
+Orion 2 Building, Ballycoolin Business Park  
+Blanchardstown, Dublin 15 Ireland
+
+By phone or fax:
+
+Phone: +353 1803 5400  
+Fax: +353 1861 7990
+
+By email:  
+[richard.hall@digicert.com](mailto:richard.hall@digicert.com)
+
+_DigiCert, Inc. Global Headquarters_
+
+By mail:
+
+DigiCert, Inc.  
+Attention: Global Data Protection Coordinator  
+2801 North Thanksgiving Way  
+Suite 500  
+Lehi, Utah 84043
+
+By phone or fax:
+
+Toll Free: 1-800-896-7973 (US & Canada)  
+Direct: 1-801-701-9600  
+Fax Toll Free: 1-866-842-0223 (US & Canada)  
+Fax Direct: 801-705-0481
+
+By email:
+
+[privacy@digicert.com](mailto:privacy@digicert.com)
+
+For assistance with technical difficulties, including problems with accessing or using your customer account, please email [support@digicert.com](mailto:support@digicert.com).
+
+As noted above, if you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. For EU or Switzerland residents, this is without prejudice to your right to launch a claim with the data protection supervisory authority in the country in which you live or work.
+
+DigiCert Legal Repository
+
+The DigiCert Legal Repository is available at: [DigiCert Legal Repository](https://web.archive.org/legal-repository)
