@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520100441id_/http%3A//www.ga.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120121025id_/http%3A//www.ga.gov.au/privacy) for the most accurate reproduction.*
 
-# Geoscience Australia Privacy Policy - Geoscience Australia
+# Geoscience Australia Privacy Policy | Geoscience Australia
 
 As an Australian Government entity, Geoscience Australia (we, our, us) is bound by the Australian Privacy Principles (APPs) in the _Privacy Act 1988_ (Privacy Act), which regulates how entities collect, use, disclose and store personal information, including sensitive information, and how individuals may access and correct records containing their personal information.
 
@@ -156,7 +156,7 @@ Canberra ACT 2601
 
 General Enquiries: 1800 800 173  
 Facsimile: 02 6249 9999  
-Email: [clientservices@ga.gov.au](https://web.archive.org/web/20180520100441id_/http%3A//www.ga.gov.au/clientservices@ga.gov.au)
+Email: [clientservices@ga.gov.au](https://web.archive.org/web/20181120121025id_/http%3A//www.ga.gov.au/clientservices@ga.gov.au)
 
 ## Changes to our privacy policy
 
