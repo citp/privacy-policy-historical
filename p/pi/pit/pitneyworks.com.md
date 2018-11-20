@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitneyworks.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601094924id_/https%3A//www.pitneybowes.com/us/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitneyworks.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120174312id_/https%3A//www.pitneybowes.com/us/legal/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | Pitney Bowes
 
@@ -130,7 +130,7 @@ Pitney Bowes Inc. is a global corporation with subsidiary companies located arou
 
 **10\. Your Choices**
 
-If you are a Pitney Bowes customer, you will continue to receive transactional communications about your account and the Pitney Bowes products and services which you own, lease, rent, license or to which you subscribe.  In some jurisdictions, you may have to opt-in to receive any additional marketing communications from us.  If you wish to [**opt out**](https://web.pitneybowes.com/unsub-secure) of receiving marketing communications from Pitney Bowes, you may do so by (i) following the instructions provided in our marketing communications, or (ii) indicating your preferences on the relevant account profile/preferences section (such as Your Account), or (iii) referring to the instructions provided in the Contact Us section below. 
+If you are a Pitney Bowes customer, you will continue to receive transactional communications about your account and the Pitney Bowes products and services which you own, lease, rent, license or to which you subscribe.  In some jurisdictions, you may have to opt-in to receive any additional marketing communications from us.  If you wish to opt out of receiving marketing communications from Pitney Bowes, you may do so by (i) following the instructions provided in our marketing communications, or (ii) indicating your preferences on the relevant account profile/preferences section (such as Your Account), or (iii) referring to the instructions provided in the Contact Us section below. 
 
 Some of our products and services contain settings that allow users or administrators to control how the products collect information.  If you wish to request changes to your Personal Information, you may do so by (i) indicating your preferences on the relevant account profile/preferences section (such as Your Account), or (iii) referring to the instructions provided in the Contact Us section below.  Please note, by electing to not share certain Personal Information with us, we may be unable to provide you with all of the functionality we offer through our Sites. 
 
@@ -146,7 +146,7 @@ Pitney Bowes may change this Privacy Statement from time to time at its discreti
 
 **13\. Contact Us**
 
-To [**_opt out_**](http://web.pb.com/Opt-Out/) of marketing communications, click here to [**_Unsubscribe_**](http://web.pb.com/Opt-Out/) and you will be removed from Pitney Bowes promotional/marketing email lists. Please note, if you are a Pitney Bowes customer, you will continue to receive transactional communications about your account and the Pitney Bowes products and services which you own, lease, rent, and license or to which you subscribe.
+To opt out of marketing communications, [click here to Unsubscribe](https://web.pitneybowes.com/unsub-secure) and you will be removed from Pitney Bowes promotional/marketing email lists. Please note, if you are a Pitney Bowes customer, you will continue to receive transactional communications about your account and the Pitney Bowes products and services which you own, lease, rent, and license or to which you subscribe.
 
 If you would like to make changes to your Personal Information (such as address information and phone number) [**_click here_**](https://web.archive.org/us/support/account/how-do-i-faqs-your-account.html).
 
@@ -162,6 +162,6 @@ Stamford, CT USA 06926-0700
 
 or
 
-Email us @ privacyoffice@pb.com
+Email us @ [privacyoffice@pb.com](mailto:privacyoffice@pb.com)
 
 Please see below for contact information for the following countries, which should be used if you have a question, comment or compliant about this Privacy Statement for your specific country:
