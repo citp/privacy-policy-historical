@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the targetsviews.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522081317id_/http%3A//www.targetsviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetsviews.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120135822id_/http%3A//www.targetsviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Targets Views Directory
 
