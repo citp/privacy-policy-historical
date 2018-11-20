@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowledgebase-script.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715184510id_/http%3A//www.knowledgebase-script.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgebase-script.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120231203id_/http%3A//www.knowledgebase-script.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PHPKB Knowledge Base Software
 
