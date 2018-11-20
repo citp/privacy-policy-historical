@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamut.media privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227073610id_/http%3A//www.gamut.media/%3Fp%3D275) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamut.media privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120144917id_/http%3A//gamut.media/%3Fp%3D275) for the most accurate reproduction.*
 
 # Gamut | Privacy Policy
 
