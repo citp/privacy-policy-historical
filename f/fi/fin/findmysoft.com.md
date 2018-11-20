@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmysoft.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519113622id_/http%3A//www.findmysoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmysoft.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120054146id_/http%3A//www.findmysoft.com/privacy) for the most accurate reproduction.*
 
 # » FindMySoft.com - Privacy
 
