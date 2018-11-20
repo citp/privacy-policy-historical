@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartifb.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614193659id_/https%3A//heartifb.com/ifb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartifb.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121002356id_/https%3A//heartifb.com/ifb-privacy-policy) for the most accurate reproduction.*
 
 # IFB Privacy Policy | IFB
 
@@ -88,7 +88,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 154 Grand Street  
 New York, New York 10013  
 USA  
-team@heartifb.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
  **Privacy Policy Customer Pledge**
 
