@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ata.pw privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630121008id_/http%3A//ata.pw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ata.pw privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120053436id_/http%3A//ata.pw/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - ATA Electric
 
