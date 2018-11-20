@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetogbox.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519200836id_/http%3A//thetogbox.com/page-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetogbox.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120055023id_/http%3A//thetogbox.com/page-privacy) for the most accurate reproduction.*
 
 # The Togbox - Privacy Policy
 
