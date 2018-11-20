@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flintstonesvitamins.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601021247id_/http%3A//bayercare.com/privacy_statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flintstonesvitamins.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120161721id_/http%3A//bayercare.com/privacy_statement.cfm) for the most accurate reproduction.*
 
 # Bayer Consumer Care Products
 
@@ -109,11 +109,7 @@ In light of the importance of protecting children's privacy, we do not collect, 
 
 ## Contacts
 
-If you have any problems, questions or ideas, please contact one of the following persons.  
-**Head of Data Privacy**   
-Eva Gardyan-Eisenlohr  
-Phone: +49 (0) 30 468 16924  
-[E-Mail](https://secure.bayer.com/bayer-group/data-privacy.aspx?lang=en)
+If you have any problems, questions, or ideas, please contact:
 
 Bayer U.S. LLC  
 Director of Data Privacy – U.S.  
@@ -123,4 +119,4 @@ Pittsburgh, PA 15205
 
 The constant development of the internet requires occasional adjustments to our privacy statement. We retain the right to make changes when necessary, and will communicate any updates promptly on this page. Please check back periodically.
 
-Last updated November 28, 2017
+Last updated November 5, 2018
