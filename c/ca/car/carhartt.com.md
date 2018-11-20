@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carhartt.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427003406id_/http%3A//www.carhartt.com/content/carhartt-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carhartt.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120230105id_/https%3A//www.carhartt.com/content/carhartt-privacy-policy) for the most accurate reproduction.*
 
 # Carhartt Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Last Updated: November 29, 2017 
 
-We appreciate the trust you place in Carhartt, and we are committed to respecting your privacy and the security of your personal information. This privacy statement discloses the privacy practices for [www.carhartt.com](http://www.carhartt.com/). The statement does not include the privacy practices for partnered sites. We encourage our users who visit external sites from links within Carhartt.com to read the privacy statements of those sites, as their privacy practices may differ from ours and will govern their using your information. If you have questions or concerns regarding this privacy policy, you should first contact us via [e-mail](mailto:just_ask_us@carhartt.com) or by calling 1-800-833-3118. If you prefer to write us our postal address is below. 
+We appreciate the trust you place in Carhartt, and we are committed to respecting your privacy and the security of your personal information. This privacy statement discloses the privacy practices for [www.carhartt.com](https://www.carhartt.com/). The statement does not include the privacy practices for partnered sites. We encourage our users who visit external sites from links within Carhartt.com to read the privacy statements of those sites, as their privacy practices may differ from ours and will govern their using your information. If you have questions or concerns regarding this privacy policy, you should first contact us via [e-mail](mailto:just_ask_us@carhartt.com) or by calling 1-800-833-3118. If you prefer to write us our postal address is below. 
 
 Carhartt Customer Service   
 P.O. Box 600   
@@ -25,7 +25,7 @@ We regularly use technologies such as cookies. A "cookie" is a small file stored
 
 We have selected an outside company, Omniture by Adobe, to assist us in better understanding how people use our site. Cookies will be placed on your computer to collect non-personal information. The information that is collected through these cookies tells us things like which search engine referred you, how you navigated around our site, what you browsed and purchased and what traffic is driven by banner ads and emails. Carhartt.com does not allow Omniture by Adobe to collect credit card, username or password information. 
 
-Cookies allow us to understand how you clicked to our site and what pages you click on during your visit to our site. Understanding how you shop allows us to improve and personalize your shopping experience and speed your checkout process. We may use technologies such as cookies to provide you with personalized display advertising tailored to your interests. To opt out of this advertising provided by Carhartt, [click here](http://dtmc.carhartt.com/adinfo/adchoices_fpc.html?cid=2625&cname=Carhartt&cmagic=6412fe&clogo=Carhartt.png). 
+Cookies allow us to understand how you clicked to our site and what pages you click on during your visit to our site. Understanding how you shop allows us to improve and personalize your shopping experience and speed your checkout process. We may use technologies such as cookies to provide you with personalized display advertising tailored to your interests. To opt out of this advertising provided by Carhartt, [click here](https://dtmc.carhartt.com/adinfo/adchoices_fpc.html?cid=2625&cname=Carhartt&cmagic=6412fe&clogo=Carhartt.png). 
 
 Accepting cookies through your web browser is your personal choice. You can set your browser to disable cookies. 
 
@@ -57,4 +57,4 @@ From time to time, we may use customer information for unanticipated uses not pr
 
 For questions, comments or assistance, we invite you to [contact us](https://web.archive.org/ContactUsDisplayView?storeId=10201&catalogId=10551&langId=-1)
 
-We hope to answer any questions to your satisfaction, but should you ever want to contact a third party regarding our privacy practices, you can email the Direct Marketing Association's Committee on Ethical Business Practices at mgoldberger@the-dma.org. The DMA is the oldest and largest association for consumers and companies with interest in direct marketing. You may also contact the Federal Trade Commission by phone at 202-FTC-HELP (202-382-4357 ) or electronically at http://www.ftc.gov/ro/index.shtml 
+We hope to answer any questions to your satisfaction, but should you ever want to contact a third party regarding our privacy practices, you can email the Direct Marketing Association's Committee on Ethical Business Practices at mgoldberger@the-dma.org. The DMA is the oldest and largest association for consumers and companies with interest in direct marketing. You may also contact the Federal Trade Commission by phone at 202-FTC-HELP (202-382-4357 ) or electronically at https://www.ftc.gov/ro/index.shtml 
