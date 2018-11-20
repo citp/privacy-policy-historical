@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gujaratilexicon.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522025246id_/http%3A//www.gujaratilexicon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gujaratilexicon.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120115741id_/http%3A//www.gujaratilexicon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-policy - Ratilal Chandaria's Gujaratilexicon, The Most Comprehensive Online Gujarati Language Resources
 
