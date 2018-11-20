@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realclearlife.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522150455id_/http%3A//www.realclearlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realclearlife.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120113942id_/http%3A//www.realclearlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,118 +6,174 @@ RealClearLife
 
 Website Privacy Policy
 
-LAST UPDATE: [Feb. 18th, 2016]
+LAST UPDATE: [July 20th, 2018]
 
-RealClearLife (“RCL”, “we”, “our”, and “us”) respects your concerns about privacy and personal data protection and value our relationship with you.  This Privacy Policy (the “Policy”) applies solely to personal information collected through the RCL website and web pages that post, specifically reference and incorporate this Privacy Policy (collectively, the “Site”), whether accessed via computer, mobile device or other device (collectively, “Device”).
+SKMedia, LLC and its affiliates (hereinafter referred to as either “RealClearlLife”, “we”, “us” or “our”) respect your concerns about privacy and personal data protection and value our relationship with you, and as such takes the private nature of your personal information very seriously. RealClearLife’s goal is to provide you with relevant information tailored to your individual needs, while at the same time protecting the privacy you justifiably value. This privacy policy describes how we treat the information we collect when you visit our Web site, use our services, register for our daily email, and/or sign up for a mobile product (collectively the “Services”). Please be sure to read this notice carefully.
 
-This Policy describes the types of personal information we collect through the Site and how that personal information may be used and/or with whom it may be shared.  This Policy also describes how you can reach us to update your personal information, access and control the use of the personal information, or get answers to questions you may have about our privacy practices at this Site.  Please read this Policy carefully, because by accessing and using this Site you are acknowledging that you understand and agree to the terms of this Policy.  In addition, please review our [Terms of Use](http://www.realclearlife.com/terms-of-service/), which governs your use of this Site.
+By affirmatively accepting these terms, or otherwise using the Services, you hereby agree with and consent to the collection and processing of your personal information as described in this privacy policy.
 
-1.  COLLECTION AND USE OF PERSONAL INFORMATION
+As further described herein, your personal information may be collected, processed and stored by RealClearLife or its service providers in the United States and other countries where such servers reside.  You hereby agree with and consent to the transfer of your personal information to the United States and other countries where we and our service providers operate.
 
-Personal Information You Provide
+You may have a legal right to withdraw your consent to RealClearLife’s collection and processing of your information, or to the transfer of your personal information across borders. To request to withdraw your consent, please contact us as set forth below.
 
-The privacy and security of the personal information that RCL collects from you is a priority for RCL.  Generally you can visit this Site without providing personal information.  However there may be circumstances when you may be asked or choose to provide personal information that could reasonably be used to contact you or to identify you personally including, but not limited to, your name, email address, and inquiry information.  By submitting personal information to RCL at this Site, you hereby consent to RCL’s collection, use and disclosure of such personal information.
+### **Privacy Principles**
 
-We may combine the personal information you submit directly through this Site with other personal information we have collected from you, whether on- or offline.  We may also combine it with information we receive about you from other sources, such as available information sources (including information from your publicly available social media profiles), and other third parties.
+** ** The privacy principles of RealClearLife are:
 
-Passive Information Collection and Use
+**Lawfulness, Fairness, and Transparency** : When RealClearLife collects personal information, it will be processed lawfully, fairly, and in a transparent manner in relation to the data subject.
 
-As you navigate around this Site, certain information can be passively collected (that is, gathered without you actively providing the information), using various technologies.  We and our third party service providers passively collect and use information in a variety of ways, including:
+**Purpose Limitation** : When RealClearLife collects personal information, it will be collected for specified, explicit, and legitimate purposes and not further processed in a manner that is incompatible with those purposes.
 
-·      Through your browser:  Certain information is collected by most browsers, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system version, and Internet browser type and version.  We may collect similar information, such as your device type and identifier, if you access this Site through a mobile Device.
+**Data Minimization** : When RealClearLife collects personal information, it will be adequate, relevant, and limited to what is necessary in relation to the purposes for which it is processed.
 
-·      Cookies:  Cookies are pieces of information stored directly on the computer you are using.  Cookies allow us to collect information such as browser type, time spent on this Site, pages visited, and language preferences.  We and our service providers use the information for security purposes, to facilitate navigation, and display information more effectively.  In addition, we use cookies to gather statistical information about Site usage in order to continually improve its design and functionality, understand how individuals use it, and to assist us with resolving questions regarding it.
+**Accuracy** : When RealClearLife collects personal information, it will be accurate and, where necessary, kept up to date; reasonable steps will be taken to ensure that personal information that is inaccurate, having regard to the purposes for which it is processed, are erased or rectified without unreasonable delay.
 
-You can choose to accept or decline cookies.  Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer.  If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) to disable existing cookies; or (iii) to set your browser to automatically reject any cookies.
+**Storage Limitation** : When RealClearLife collects personal information, it will be kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal information is processed.
 
-·      IP Address:  Your IP Address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider.  An IP Address is identified and logged automatically in our server log files whenever a user visits this Site, along with the time of the visit and the page(s) that were visited.  Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites.  We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, and administering this Site.
+**Integrity and Confidentiality** : When RealClearLife collects personal information, it will take measures designed to protect against unauthorized or unlawful processing and against accidental loss, destruction or damage.
 
-·      Do Not Track Requests:  At this time RCL does not respond to Do Not Track signal requests.
+**Lawfulness of Processing** : Any and all processing will be done lawfully. RealClearLife will process personal information only if and to the extent that at least one of the following applies: (1) the data subject has given consent; (2) processing is necessary for the performance of a contract; (3) processing is necessary for compliance with a legal obligation; or (4) processing is in the legitimate interests pursued by RealClearLife or by a third party.
 
-Integrated Accounts and Social Media Information
+### **Information Collected**
 
-We may implement applications or “widgets” from third party providers (e.g., Facebook, Twitter, etc.) that allow interaction, integration or content sharing with third party services.  These widgets or applications may be visible on a page you visit on our Site or may require log-in through the third party provider’s service.  The third party providing the widget or integration may offer controls for you to manage your interactions.  Any interaction with a third party widget or application typically allows the third party to collect some information about you (whether through cookies, registration information or otherwise).  These third parties may even track you when you do not interact with the widget.  If you have engaged any of these third party service providers, their respective privacy policies will govern their tracking and collection of information.  You should review these third party policies to understand these practices.
+**Personal Information** : To receive your RealClearLife emails, all we require is for you to provide your email address. So that we may provide you with additional services, contests, or sweepstakes, and also content that is more interesting and relevant to you in particular, we may also request additional information such as your name, age, telephone number, zip code, or other information required for the additional Services. We may also request certain information from you that is not required for use of the Services, such as annual income, shopping preferences or age. This information is known as demographic and profile data, and is 100% optional. If you choose to share it, this data may be used to improve our site and/or tailor your experience, by delivering you content that we think might be of interest to you and displaying it according to your preferences. You will be informed what personal information is required and what information is optional when asked to submit personal information to us.
 
-How We Use and Disclose Information
+From time to time, RealClearLife may offer sweepstakes, games and other contests on the Web site either by itself or in conjunction with a third party partner. You may be asked to provide your name, mailing address and/or email address and date of birth, as well as certain other information on an optional basis, in order to participate in such sweepstakes or contest. This information may also be used by RealClearLife or its third party partner to send you information about RealClearLife’s or such third party partner’s services in the form of an email or regular mail communication or a telephone call. RealClearLife will provide you with an opportunity to opt-out of receiving such communications from RealClearLife each time you receive such a communication. However, RealClearLife does not control, and shall not be responsible for, the privacy policies or practices of its third party partners. If you no longer wish to receive such communications from any third party partner of RealClearLife in a sweepstakes or other contest that you may enter, you will need to contact such third party partner directly.
 
-We use and disclose personal information you provide to us as described to you at the point of collection, such as when you (1) send us an inquiry through the Contact page, and (2) send e-mail messages or feedback, or transmit other information by e-mail.  If you elect to engage in such activities, we may ask that you provide us personal information, such as your first and last name, mailing address (including zip code), e-mail address, and telephone numbers.
+We may combine the personal information you submit directly through this Web site with other personal information we have collected from you, whether on- or offline.  We may also combine it with information we receive about you from other sources, such as other companies and publicly available information sources.
 
-We also use and transfer personal information from or about you:
+We use and disclose personal information you provide to us: (1) to respond to your inquiries and fulfill your requests, such as to send you documents you request or e-mail; (2) to send you important information regarding our relationship with you or regarding this Web site, changes to our terms, conditions, and policies and/or other administrative information; and (3) for our business purposes, such as marketing new products and services, data analysis, audits, developing new products or services, operating or enhancing our Web site, identifying Web site usage trends, providing the Services, maintaining customer relationships, improving the quality, safety, and security of our Services, administering your account(s), troubleshooting, evaluating Service performance, providing customer support, and determining the effectiveness of our Web site.
 
-·      to respond to your inquiries and fulfill your requests, such as to send you documents you request or e-mail;
+**Log Files and Cookies** : Like most standard Web site servers we use log files or “cookies” to collect certain information for users of the Web site. These include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We and our service providers use this information for security purposes, to analyze trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to other personally identifiable information.
 
-·      to send you important information regarding our relationship with you or regarding this Site, changes to our terms, conditions, and policies and/or other administrative information; and
+You can choose to accept or decline cookies.  Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer.  If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) to disable existing cookies; or (iii) to set your browser to automatically reject any cookies.  If you set your browser to reject cookies, part of the Web site may not work for you.
 
-·      for our business purposes, such as data analysis, audits, developing new products or services, enhancing our Site, improving our products and services, identifying Site usage trends, and determining the effectiveness of our Site.
+Your selection of the “Do Not Track” option provided by your browser may not have any effect on our collection of cookie information for analytic and internal purposes.  The only way to completely opt out of the collection of any information through cookies or other tracking technology is to actively management the settings on your browser or device to delete and disable cookies and other tracking/recording tools.  Please note, depending on your type of device or browser, it may not be possible to delete or disable all tracking mechanisms on your device.
 
-·      to our third party service providers who provide services such as website hosting and moderating, mobile application hosting, data analysis, infrastructure provision, IT services, auditing services, and other services, in order to enable them to provide services; and
+**Review and Access** : Upon your request, we will be happy to provide you with a summary of the information we collect about you. You will have the opportunity to correct, update or modify any of this information.
 
-·      to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
+**Choice/Opt-Out** : If we ever send you information by email concerning new products or services that you did not expressly request, RealClearLife will provide you with an email address by which you may request no future notices.
 
-In addition, we use and disclose personal information collected through this Site as we believe to be necessary or appropriate: (a) as permitted by applicable law, including laws outside your country of residence; (b) to comply with any legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our [Terms of Use](http://www.realclearlife.com/terms-of-service/); (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. We may also use and disclose personal information collected through this Site in other ways, with your prior consent.
+### **How we Share and Use Personal Information**
 
-We also use and disclose information we collect passively as described above, under “Passive Information Collection and Use,” and for any other purpose, except where we are required to do otherwise under applicable law (for example, if we are required to treat such information as personal information). In addition, we may use and disclose information that is not in personally identifiable form (such as anonymized, masked or de-identified information) for any purpose. If we combine information that is not in personally identifiable form with information that is (such as combining your name with your geographical location), we will treat the combined information as personal information as long as it is combined.
+**Sharing for Services Administration  **: We may provide your information to our affiliates or to service providers for purposes related to Services administration, such as website hosting and moderating, mobile application hosting, data analysis, infrastructure provision, credit card processing, IT services, e-mail services, marketing services, auditing services, and other services, in order to enable them to provide services. If you use a credit or debit card to complete a transaction through our Services, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.
 
-2.  GENERAL PRINCIPLES FOR THE PROCESSING OF PERSONAL INFORMATION
+**Sharing for Additional Content, Products and Services:    **We also make some content, products and services available through cooperative relationships with service providers, where the brands of our service provider appear in connection with such content, products and/or services. We may share with our service provider any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our service provider.
 
-Personal information will be collected, stored, processed and transmitted in accordance with RCL’s established policies and applicable federal, state, local and foreign laws, rules and regulations.
+If you do not wish certain information to be shared for these purposes, please contact us at [info@RealClearLife.com](mailto:info@RealClearLife.com).
 
-The principles of RCL with respect to the processing of personal information are as follows:  (1) personal information will be processed fairly and lawfully, (2) personal information will be collected for specified, explicit, and legitimate purposes and not further processed for incompatible purposes, (3) personal information collected by RCL will be adequate, relevant, and not excessive in relation to the purposes for which it is collected, (4) personal information collected by RCL will be accurate and, where necessary, kept up to date to the best of our ability, and (5) personal information collected by RCL will be retained as identifiable data for no longer than necessary to serve the purposes for which the personal information was collected.
+**Sharing Information for Advertising and Other Promotional Purposes:**  We may use service providers and third-party advertising service providers to target and serve some of the advertisements you see through RealClearLife. We may share your information, or technical or aggregate information, with service providers, third-party advertising service providers, our affiliates, third parties and advertisers for their use in displaying ads through our Services or for other promotional purposes, including displaying ads on other sites and apps. The technical or aggregate information may be based on data that includes your information and such items as type of pages viewed and categories of interest. These service providers, third-party advertising service providers, affiliates, third parties and advertisers may use their own browser or flash cookies, web beacons and similar technologies to collect technical information (such as device unique identifier, IP address, MAC address, browser type, pages visited, and location information) that is generated automatically as a user views or interacts with an ad. These service providers, third-party advertising service providers, affiliates, third parties and advertisers may use that information, sometimes in conjunction with similar information gathered through other websites and other sources, to deliver advertisements through RealClearLife or for other promotional purposes. They also may use that information to deliver advertisements, or for other promotional purposes, on other websites, as well as on other websites that participate in our third-party advertising service providers’ advertising networks, which are tailored to match the perceived interests of consumers. The information obtained by service providers, third-party advertising service providers, affiliates, third parties and advertisers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.
 
-If RCL engages in the processing of personal information for purposes other than those specified in this Policy, RCL will provide notice of these changes, the purposes for which the personal information will be used, and the recipients of personal information.
+If you do not wish certain information to be shared for these purposes, please contact us at [info@RealClearLife.com](mailto:info@RealClearLife.com).
 
-3.  THIRD PARTY SITES AND SERVICES
+**Sharing for Other Purposes:**  Please be aware that we may occasionally release information about you if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our Terms of Service or (c) to protect the rights, property, or personal safety of our services, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
 
-This Policy does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any site or web property (including, without limitation, any application) that is available through this Site or to which this Site contains a link.  The availability of, or inclusion of a link to, any such site or property on this Site does not imply endorsement of it by us or by our affiliates.
+Please also note that as our business grows, we may buy or sell various assets. If we sell some or all of our assets, or RealClearLife is acquired by another company, information collected about RealClearLife’s users may be among the transferred assets.
 
-4.  CHOICES AND ACCESS
+We also use and disclose information that is not in personally identifiable form (such as anonymized, masked or de-identified information) for any purpose. If we combine information that is not in personally identifiable form with information that is (such as combining your name with your geographical location), we will treat the combined information as personal information as long as it is combined.
 
-We give you choices regarding our use and disclosure of your personal information.  You may opt-out of our collection of your personal information at any time by contacting us as specified below in the CONTACT section.  We will seek to comply with your request(s) as soon as reasonably practicable.
+**Links to Other Sites:**  In our quest to bring you the most relevant, actionable content possible, RealClearLife may create links allowing you to access third-party sites. RealClearLife is not responsible for the content that appears on those sites and does not necessarily endorse these sites. Please consult those sites’ individual privacy policies in order to determine how they treat user information.
 
-How You Can Access, Change, or Delete Your Personal Information
+**Security:**  RealClearLife takes reasonable measures designed to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. Please be aware, however, that no data transmission over the Internet is 100% secure and any information disclosed online can potentially be collected and used by parties other than the intended recipient.  If you have reason to believe that your interaction with us is no longer secure, please immediately notify us of the problem by contacting us in accordance with this privacy policy.
 
-If applicable and you would like to review, correct, update, or delete the personal information that you have provided via this Site, please contact us as specified below in the CONTACT section.  We will try to comply with your request as soon as reasonably practicable.
+**Your California Privacy Rights:** Under California’s “Shine the Light Law”, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses.  If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year.
 
-5.  ACCURACY
+To obtain this information on behalf of RealClearLife, please send an email message to [info@RealClearLife.com](mailto:info@RealClearLife.com) with “Request for California Privacy Information” on the subject line and in the body of your message.  We will provide the requested information to you at your email address in the response.  Please be aware that not all information is covered by the “Shine the Light “ requirements and only information on covered sharing will be included in our response.
 
-It is your responsibility to provide RCL with accurate personal information.  Except as otherwise set forth in this Policy, RCL shall only use personal information in ways that are compatible with the purposes for which it was collected or subsequently authorized by you.  To the extent necessary for these purposes, RCL shall take reasonable steps to ensure that personal information is accurate, complete, current and relevant to its intended use.
+**Access:** Upon request by the individual, if required by applicable law, RealClearLife will grant individuals reasonable access to their personal information.  Such access may include: (1) confirmation as to whether or not personal information concerning him or her are being processed; (2) the purposes of the processing; (3) the categories of personal information concerned; (4) the recipients or categories of recipient to whom the processing data have been or will be disclosed, in particular recipients in third countries or international organizations; (5) if possible, the period for which the personal information will be stored, or, if not possible, the criteria used to determine that period; (6) the existence of the right to request from RealClearLife rectification or erasure of personal information or restriction of processing of personal information concerning the data subject or to object to such processing; (7) information about the source of the data, if not directly from the data subject; (8) whether the personal information will be subject to automated processing, including profiling and, if so, the logic and potential consequences involved; and (9) if the data is transferred to a third country or international organization, information about the safeguards that apply.
 
-6.  RETENTION PERIOD
+**Rectification:** If the data subject requests, personal information collected by RealClearLife will be corrected based on information provided by the data subject. Where necessary, RealClearLife will take steps to validate the information by the data subject to ensure that it is accurate before amending it.
 
-We retain your personal information for the period necessary to fulfill the purposes outlined in this Policy, unless a longer retention period is required or allowed by law or to otherwise fulfill a legal obligation.
+**Erasure:** If the data subject requests, their personal information collected by RealClearLife will be erased without undue delay provided that one of the following applies: (1) the personal information is no longer necessary for the purposes for which it was collected; (2) the data subject withdraws consent and there is no other legal ground for processing; (3) if required by applicable law, the data subject objects to the processing of the personal information; (4) the personal information have been unlawfully processed; (5) the personal information has to be erased for compliance with a legal obligation of RealClearLife; or (6) where the personal information was relevant to the data subject as a child.
 
-7.  SECURITY
+**Portability:** If required by applicable law, upon the data subject’s request, their personal information collected by RealClearLife will be provided to them in a structured, commonly-used and machine readable or the personal information transferred to another party.
 
-We use reasonable organizational, technical, and administrative measures to protect personal information under our control.  Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure, please immediately notify us of the problem by contacting us in accordance with the CONTACT section below.
+**Deletion of Account:**  Should you ever decide to delete your RealClearLife account, you may do so by unsubscribing. If you terminate your account, any association between your account and information RealClearLife stores will no longer be accessible through your account.
 
-8.  USE OF SITE BY MINORS
+**International Users:** RealClearLife is based in the United States. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. While this privacy policy applies to personal information generally, the local laws, rules and regulations of jurisdictions that are applicable to RealClearLife (“Local Laws”) may require standards which are stricter than this privacy policy and, in such event, RealClearLife will comply with applicable Local Laws.  Specific privacy policies may be adopted to address the specific privacy requirements of particular jurisdictions. Your personal information may be stored and processed in any country where we have facilities or service providers. Irrespective of which country your personal information is transferred, we would only share your personal information under a ‘need to know’ basis.  In these circumstances we will, as required by applicable law, ensure that your privacy rights are protected by organizational, technical, contractual and/or other lawful means.
 
-The Site is not directed to individuals under the age of 13 and we request that these individuals not provide personal information through this Site.
+### Europe Data Subjects
 
-9.  COMPLIANCE WITH LOCAL LAWS
+In European Economic Area and Switzerland (“Europe”), “Personal Data” is defined very broadly and includes any information about a natural person, who can be identified, directly or indirectly, from data that we hold about them or from data that is combined with other information. Europe data protection law requires us to have a legal basis before processing any Personal Data about you.  The legal basis’ for us processing your Personal Data for the above purposes may be because: (i) you have provided your consent; (ii) it is necessary to for the performance of a contract with you; (iii) the processing is necessary for our compliance with a legal obligation; or (iv) the processing is in our legitimate interests. To the extent provided by applicable law, you may withdraw any consent you previously provided to us, or object at any time on legitimate grounds, to the processing of your Personal Data. In some circumstances, withdrawing your consent to RealClearLife’s use or disclosure of your Personal Data will mean that you cannot take advantage of certain RealClearLife products or services.
 
-This Policy is meant to guide RCL with respect to personal information collected from or about you at this Site.  While this Policy applies to personal information generally, the local laws, rules and regulations of jurisdictions that are applicable to RCL (“Local Laws”) may require standards which are stricter than this Policy and, in such event, RCL will comply with applicable Local Laws.  Specific privacy policies may be adopted to address the specific privacy requirements of particular jurisdictions.
+We may transfer your Personal Data outside Europe to the United States or any country that RealClearLife or its service providers may have operations. Such countries do not have the same data protection laws as Europe. Any transfer of your personal information will be subject to a European Commission approved contract (as permitted under the General Data Protection Regulation) that is designed to help safeguard your privacy rights and give you remedies in the unlikely event of a misuse of your personal information. To obtain a copy of the such safeguards please contact us.
 
-10.  CROSS-BORDER TRANSFER
+Under the General Data Protection Regulation you have a number of important rights free of charge. In summary, those include rights to:  
+·      Fair processing of information and transparency over how we use your use personal information  
+·      Access to your personal information and to certain other supplementary information that this privacy policy is already designed to address  
+·      Require us to correct any mistakes in your information which we hold  
+·      Require the erasure of personal information concerning you in certain situations  
+·      Receive the personal information concerning you which you have provided to us, in a structured, commonly used and machine-readable format and have the right to transmit those data to a third party in certain situations  
+·      Object at any time to processing of personal information concerning you for direct marketing  
+·      Object to decisions being taken by automated means which produce legal effects concerning you or similarly significantly affect you  
+·      Object in certain other situations to our continued processing of your personal information  
+·      Otherwise restrict our processing of your personal information in certain circumstances
 
-Your personal information may be stored and processed in any country where we have facilities or service providers, and by using our Site or by providing consent to us (where required by law), you agree to the transfer of information to countries outside of your country of residence, including to the United States, which may provide for different data protection rules, and a lower standard of required protection, than in your country.
+For further information on each of those rights, including the circumstances in which they apply, see the Guidance from the UK Information Commissioner’s Office (ICO) on individuals rights under the General Data Protection Regulation (or other relevant guidance).
 
-11.  UPDATES TO THIS PRIVACY POLICY
+If you would like to exercise any of those rights, please email, call, or write to us with the following:  
+·      Enough information to identify you  
+·      Proof of your identity and address  
+·      The information to which your request relates
 
-We may change this Policy.  Please take a look at the LAST UPDATE legend at the top of this page to see when this Policy was last revised.  Any changes to this Policy will become effective when we post the revised Policy on this Site.  Your use of this Site following these changes means that you accept the revised Policy.
+### How to Complain
 
-12.  COMPLIANCE
+The General Data Protection Regulation also gives you right to lodge a complaint with a supervisory authority, in particular in Europe state where you work, normally live, or where any alleged infringement of data protection laws occurred.
 
-RCL will use a self-assessment approach to verify compliance with this Policy and periodically verify that the Policy is accurate, comprehensive for the information intended to be covered, prominently displayed, implemented and accessible.
+A complaint may be submitted directly to us:  
+·      For residents of Europe, EEA, or Switzerland, by filling the below form and submitting it to the RealClearLife DPO at gdpr@RealClearLife.com; or  
+·      By mail: to Data Protection Officer at SKMedia, LLC, 787 7th Avenue Fl 48, New York NY 10019, United States.
 
-If you believe that your personal information has been processed or disclosed in violation of this Policy, RCL encourages you to raise any concerns using the contact information provided in this Policy.  RCL will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information.
+If you have any questions about this Policy, please contact our Data Protection Officer or RealClearLife directly. Our current DPO is:  
+Name:   Kunal Jain  
+Address:  SKMedia, LLC, 787 7th Avenue Fl 48, New York NY 10019, United States.  
+Fax:  212-582-2277  
+Telephone: 646-787-1310  
+Email: [dpo@RealClearLife.com](mailto:dpo@RealClearLife.com)
 
-13.  CONTACTING US
+**Compliance:** RealClearLife will use a self-assessment approach to verify compliance with this privacy policy and periodically verify that the privacy policy is accurate, comprehensive for the information intended to be covered, prominently displayed, implemented and accessible.
 
-If you have any questions about this Policy, please contact us via one of these methods:
+If you believe that your personal information has been processed or disclosed in violation of this privacy policy, RealClearLife encourages you to raise any concerns using the contact information provided in this privacy policy or by utilizing the _Compliant Form_ provided below.  RealClearLife will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information.
 
-On this Site, via the CONTACT section, if available  
-or by phone please call [(212) 655-0282] (Monday to Friday, 8am – 5pm EST)  
-or by e-mail at info@RealClearLife.com  
-or please write to the following address:  RealClearLife, [787 Seventh avenue 48th Floor  
-New York, NY 10019]
+**Minors:** We do not intentionally collect information from individuals under the age of 13.  The Web site is not directed to individuals under the age of 13 and we request that these individuals not provide personal information through this Web site.
+
+**Modification to This Policy:**  RealClearLife reserves the right to modify this policy, but in the event we do so we will maintain complete transparency — any changes to the policy will be immediately posted here, so be sure to check back for future information.
+
+**Contact Us:**  If you have any questions about this policy or our site in general, please contact [info@RealClearLife.com](mailto:info@RealClearLife.com).
+
+### **Complaint Form**
+
+**Reporting a complaint to RealClearLife Data Protection Officer (DPO)**
+
+All individuals whose personal data has been collected or processed by RealClearLife are encouraged to inform RealClearLife DPO of material privacy issues that can be perceived as violations of their rights.
+
+The DPO may also be able to provide advice or guidance that may be helpful in responding to the complaint. The purpose of this Complaint Form is to assist the DPO in identifying any infringement on the data subject’s rights.
+
+Any complaint can be reported as follows:  
+By email: dpo@RealClearLife.com  
+By phone: 646-787-1310  
+By mail: RealClearLife, 787 7th Avenue Fl 48, New York NY 10019, United States
+
+**1\. Your Identity**
+
+Date | ** **  
+---|---  
+First and Last Name | ** **  
+Preferred contact address | ** **  
+Email Address | ** **  
+Other relevant identification you wish to provide | ** **  
+  
+**2\. Your Complaint**
+
+Object of your complaint. 
+
+Please identify as much information as possible.
+
+Identify any specific individuals or operational groups.
+
+| ** **  
+---|---  
+  
+Please copy, paste and submit this form through email to: dpo@RealClearLife.com.
+
+or by mail to: Data Protection Officer at RealClearLife, 787 7th Avenue Fl 48, New York, NY 10019, United States.
