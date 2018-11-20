@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shinetheme.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520052034id_/http%3A//shinetheme.com/mainsite/premium-priority-support) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinetheme.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120062546id_/http%3A//shinetheme.com/mainsite/premium-priority-support) for the most accurate reproduction.*
 
 # Privacy Policy – Premium WordPress Themes | ShineTheme
 
