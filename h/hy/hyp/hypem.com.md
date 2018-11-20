@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypem.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625034732id_/https%3A//hypem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypem.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121001041id_/https%3A//hypem.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Hype Machine
 
