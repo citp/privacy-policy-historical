@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hublot.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623083018id_/https%3A//www.hublot.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hublot.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120132556id_/https%3A//www.hublot.com/en/privacy) for the most accurate reproduction.*
 
 # Hublot Privacy - Swiss Luxury Watches I Hublot
 
@@ -44,19 +44,15 @@ Depending both on (i) the services provided by HUBLOT and used by you, as well a
 
 When you Reach out to us, we may ask you to supply personal information such as: 
 
-\- Your name,
+  * Your name,
+  * Mailing address,
+  * E-mail address,
+  * Telephone number,
+  * Payment details, including any bank account details,
+  * Your preferences and interests,
+  * Your date of birth
 
-\- Mailing address,
 
-\- E-mail address,
-
-\- Telephone number,
-
-\- Payment details, including any bank account details,
-
-\- Your preferences and interests,
-
-\- Your date of birth
 
 This information is used to set up and manage your personal account with HUBLOT, your Hublotista account and/or any order that you may have placed or otherwise done with HUBLOT, as well as to contact you. It is also used to better identify your preferences and wishes in relation to products we offer. 
 
@@ -104,13 +100,12 @@ We may collaborate with other companies that place cookies, Web beacons or other
 
 Most browsers allow you to manage your cookies preferences by changing your browser settings. If you consent to our use of cookies but later wish to opt out, you may delete the cookies which have been set and change your browser settings to block any further cookies. The “Help” function of your browser should tell you how. Alternatively, the following links provide instructions for managing cookie settings of commonly used browsers: 
 
-\- Chrome (<https://support.google.com/chrome/answer/95647?hl=en> )
+  * Chrome (<https://support.google.com/chrome/answer/95647?hl=en> )
+  * Internet Explorer (<http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies> )
+  * Mozilla Firefox ([https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies) )
+  * Safari ([https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=fr_FR](https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=fr_FR))
 
-\- Internet Explorer (<http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies> )
 
-\- Mozilla Firefox ([https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies) )
-
-\- Safari ([https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=fr_FR](https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=fr_FR))
 
 We also use a third party provider Evidon to manage cookies and enable you to make choices in relation to cookies. You may access Evidon tool on the following link : <https://info.evidon.com/pub_info/5638?v=1>
 
@@ -124,29 +119,23 @@ It is possible that some or all of the Websites use Google Analytics, an interne
 
 As mentioned under clause 3 above, you may deactivate the use of cookies by selecting appropriate parameters on your navigator. However, deactivation of this kind might prevent the use of certain functions of the Websites. By using the Websites, you specifically consent to the processing of your personal data by Google under the conditions and for the purposes described above. 
 
-If you do not want Google Analytics to be used in your browser, you can install the Google Analytics browser add-on at https://tools.google.com/dlpage/gaoptout. 
+If you do not want Google Analytics to be used in your browser, you can install the Google Analytics browser add-on at <https://tools.google.com/dlpage/gaoptout>. 
 
 ## 5\. How we use your personal data?
 
 We use the data and information collected on you to: 
 
-\- Offer you all functions of the Websites;
+  * Offer you all functions of the Websites;
+  * Allow the correct execution of all functions of the Websites;
+  * Personalize your use of the Websites as well as enhance the Websites and all of its functions;
+  * Interact with you and answer any of your questions or remarks, including by notifying you of any changes in relation to our services and/or products;
+  * Answer as well as fulfil any contract with you, especially in relation to any products that you may have purchased or otherwise received, in particular through our customer service for repairs;
+  * Manage your Hublotista account and/or client account, including on our online shop to pass and/or manage any order, especially in order to offer you the best customer service and provide you with any information that you may request;
+  * Proceed to anti-fraud and blacklist management for any case in which a person has been implicated in fraud regarding our products, services or trademarks, essentially in view of allowing, modifying or refusing that person’s access to services or products as well any entry into a contact with HUBLOT, and to communicate with and defend HUBLOT’s rights before state authorities;
+  * With your consent or within the applicable rules and regulations, provide you with any information that could otherwise be useful or of interest to you, especially regarding new or other products as well as promotional opportunities and events, especially through newsletters, invitations and other publications;
+  * Take all required measures in relation to your online transactions, especially to prevent fraud and payment defaults.
 
-\- Allow the correct execution of all functions of the Websites;
 
-\- Personalize your use of the Websites as well as enhance the Websites and all of its functions;
-
-\- Interact with you and answer any of your questions or remarks, including by notifying you of any changes in relation to our services and/or products;
-
-\- Answer as well as fulfil any contract with you, especially in relation to any products that you may have purchased or otherwise received, in particular through our customer service for repairs;
-
-\- Manage your Hublotista account and/or client account, including on our online shop to pass and/or manage any order, especially in order to offer you the best customer service and provide you with any information that you may request;
-
-\- Proceed to anti-fraud and blacklist management for any case in which a person has been implicated in fraud regarding our products, services or trademarks, essentially in view of allowing, modifying or refusing that person’s access to services or products as well any entry into a contact with HUBLOT, and to communicate with and defend HUBLOT’s rights before state authorities;
-
-\- With your consent or within the applicable rules and regulations, provide you with any information that could otherwise be useful or of interest to you, especially regarding new or other products as well as promotional opportunities and events, especially through newsletters, invitations and other publications;
-
-\- Take all required measures in relation to your online transactions, especially to prevent fraud and payment defaults.
 
 ## 6\. Data retention
 
@@ -160,11 +149,11 @@ It may also be transferred in case of a reorganization of HUBLOT, including merg
 
 Your personal data may also be transferred to the following third-parties: 
 
-\- Third-party providers in relation to the services offered on the Websites, especially any IT service suppliers, consultants, providers of hosting and maintenance services of the Websites and any other third party processing personal data on our behalf, as well as any postal and payment service providers, in order to fulfil and execute any order that you have placed on or through the Websites, or more generally intervene in the context of your Reaching out to us.
+  * Third-party providers in relation to the services offered on the Websites, especially any IT service suppliers, consultants, providers of hosting and maintenance services of the Websites and any other third party processing personal data on our behalf, as well as any postal and payment service providers, in order to fulfil and execute any order that you have placed on or through the Websites, or more generally intervene in the context of your Reaching out to us.
+  * Third-party subcontractors, in order to provide you with the product, service or information you asked for, as well as any customer service, or for interest-based advertising based on the data collected from you and/or through your use of the Websites; such third-parties include carriers as well as payment and fraud management service providers.
+  * Any person or entity required by law or judicial order: we may disclose your data to third parties if we determine that such disclosure is reasonably necessary to comply with the law, protect our rights or prevent fraud or abuse. When we receive law enforcement or national security requests for information, we scrutinize such requests carefully, especially if they are vague, overbroad or otherwise unlawful. And when legally permitted and reasonably possible, we may provide you with notice that your information is being requested. In any case, both the assessment of the request as well as the possibility to inform you of it are at the our sole discretion and may not make us liable from a civil, criminal or administrative point of view.
 
-\- Third-party subcontractors, in order to provide you with the product, service or information you asked for, as well as any customer service, or for interest-based advertising based on the data collected from you and/or through your use of the Websites; such third-parties include carriers as well as payment and fraud management service providers.
 
-\- Any person or entity required by law or judicial order: we may disclose your data to third parties if we determine that such disclosure is reasonably necessary to comply with the law, protect our rights or prevent fraud or abuse. When we receive law enforcement or national security requests for information, we scrutinize such requests carefully, especially if they are vague, overbroad or otherwise unlawful. And when legally permitted and reasonably possible, we may provide you with notice that your information is being requested. In any case, both the assessment of the request as well as the possibility to inform you of it are at the our sole discretion and may not make us liable from a civil, criminal or administrative point of view.
 
 We may transfer personal data to third parties when and only when it is necessary to provide the product or service to you. In such cases, these third parties are prohibited to use these data beyond what is necessary to provide those product or service to you. 
 
@@ -186,13 +175,12 @@ If you agree to receive information on offers, news and events of HUBLOT you can
 
 If you decide that you no longer wish to receive such communications, you can subsequently unsubscribe as follows: 
 
-\- By following the instructions provided in every emailing communication
+  * By following the instructions provided in every emailing communication
+  * Through the CONTACT US page on the HUBLOT web site
+  * Through your Hublotista account
+  * By contacting us at [mydata@hublot.com](mailto:mydata@hublot.com)
 
-\- Through the CONTACT US page on the HUBLOT web site
 
-\- Through your Hublotista account
-
-\- By contacting us at [mydata@hublot.com](mailto:mydata@hublot.com)
 
 Please note that, even if you opt-out from receiving marketing communications, you may still receive administrative communications from us, such as order or other transaction confirmations, notifications about your account activities (e.g. account confirmations, password changes, etc.). 
 
@@ -202,15 +190,13 @@ You have the right to request access to or information about the personal data r
 
 You may also have the right to request that we: 
 
-\- Correct or erase your personal data or restricts the processing of your data;
+  * Correct or erase your personal data or restricts the processing of your data;
+  * Transfer your personal data to a third-party; or
+  * Stop processing your personal data, for the case in which we rely on your consent and do not have another legal basis to continue processing your data.
+  * Stop using your personal data to build up your client profile; in this case you will no longer benefit from customized offers or services.
+  * Stop sending you information about our offers, news and events
 
-\- Transfer your personal data to a third-party; or
 
-\- Stop processing your personal data, for the case in which we rely on your consent and do not have another legal basis to continue processing your data.
-
-\- Stop using your personal data to build up your client profile; in this case you will no longer benefit from customized offers or services.
-
-\- Stop sending you information about our offers, news and events
 
 All access, correction and deletion requests can also be sent by regular mail along with your contact details (phone number and email) to the address referred to at the beginning of the Policy. We may ask you for a proof of identity (copy of official Identification Document with a photo mentioning your date & place of birth). 
 
