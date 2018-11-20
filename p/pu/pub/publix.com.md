@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001315id_/https%3A//www.publix.com/publix-website-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121001127id_/https%3A//www.publix.com/publix-website-policies) for the most accurate reproduction.*
 
-# 
+# Publix Website Policies
 
-**Last updated:**  January 25, 2017
+**Last updated:**  May 31, 2018
 
 ## Table of Contents
 
 Terms of Use  
 Privacy Policy  
-Child Privacy Notice  
-
+Child Privacy Notice
 
 ## Terms of Use
 
-The websites, mobile websites, mobile applications, or other online services owned or operated by Publix Super Markets, Inc. or its affiliates and subsidiaries (collectively "Publix" or "we") that link to these terms (collectively, "Services") are made available to you by Publix and are subject to the following Terms of Use. PLEASE READ THE FOLLOWING TERMS OF USE CAREFULLY BEFORE USING THE SERVICES. By using the Services, you agree that these Terms of Use create a legally binding agreement between you and Publix.
+The websites, mobile websites, mobile applications, or other online services owned or operated by Publix Super Markets, Inc. or its affiliates, brands and subsidiaries (collectively "Publix", "we", “our”, “us” or any derivatives thereof) (collectively, "Services") are made available to you by Publix and are subject to the following Terms of Use. PLEASE READ THE FOLLOWING TERMS OF USE CAREFULLY BEFORE USING THE SERVICES. By using the Services, you agree that these Terms of Use create a legally binding agreement between you and Publix.
 
 Publix reserves the right, at any time, to modify these Terms of Use. By continuing to use the Services following such modifications you agree to be bound by such modifications. We will post our most current Terms of Use on this page, and you should periodically visit this page to review them.
 
@@ -21,7 +20,7 @@ Please note that some of our Services or specific portions or features of our Se
 
 ### Electronic Communications and Notices
 
-You may communicate with us via e-mail, postal mail, telephone, the mobile applications, our Web site, and other services. We may issue notices via these various channels, including by sending e-mails to an address you provide us. You agree that such notices shall have legal effect. You also agree that any notices sent by e-mail satisfy any requirement that notices be provided in writing. If you do not agree, do not use the Services. You may have the right to withdraw your consent to receive certain electronic communications, and, when required by law, we will provide you with paper copies upon request. You may make such a request via any of the channels listed above. If you withdraw your consent, we reserve the right to terminate your use of Publix's Services. To receive, access, and retain the notices we send via e-mail, you must have Internet access and a computer or device with a compatible web browser. You will also need software capable of viewing files in PDF format. Your device or computer must have the ability to print, or download and store, e-mails and PDF files. By accepting these terms, you confirm that you are able to receive, access, and retain the notices we may send. You may update your contact information through the Services.
+You may communicate with us via e-mail, postal mail, telephone, the mobile applications, our website, and other services. We may issue notices via these various channels, including by sending e-mails to an address you provide us. You agree that such notices shall have legal effect. You also agree that any notices sent by e-mail satisfy any requirement that notices be provided in writing. If you do not agree, do not use the Services. You may have the right to withdraw your consent to receive certain electronic communications, and, when required by law, we will provide you with paper copies upon request. You may make such a request via any of the channels listed above. If you withdraw your consent, we reserve the right to terminate your use of Publix's Services. To receive, access, and retain the notices we send via e-mail, you must have Internet access and a computer or device with a compatible web browser. You will also need software capable of viewing files in PDF format. Your device or computer must have the ability to print, or download and store, e-mails and PDF files. By accepting these terms, you confirm that you are able to receive, access, and retain the notices we may send. You may update your contact information through the Services.
 
 ### Privacy
 
@@ -29,7 +28,7 @@ Please review our Privacy Policy, which also governs your use of the Services. A
 
 ### Ownership
 
-Unless noted otherwise, the Services, in their entirety, including but not limited to all design and content, are the sole property of Publix and its content suppliers. The content available via the Services is protected by United States and international copyright, trademark, and other laws. Except as stated in these Terms of Use, no content may be copied, reproduced, distributed, republished, downloaded, displayed, posted, or transmitted in any form or by any means without the prior written consent of Publix or the respective owner. You may not use Publix's name, logo, or other trademarks for any purpose without the express written consent of Publix. Any rights not expressly granted herein are reserved by Publix.
+Unless noted otherwise, the Services, in their entirety, including but not limited to all design and content, are the sole property of Publix or its content suppliers. The content available via the Services is protected by United States and international copyright, trademark, and other laws. Except as stated in these Terms of Use, no content may be copied, reproduced, distributed, republished, downloaded, displayed, posted, or transmitted in any form or by any means without the prior written consent of Publix or the respective owner. You may not use Publix's name, logo, or other trademarks for any purpose without the express written consent of Publix. Any rights not expressly granted herein are reserved by Publix.
 
 ### Copyright Policy
 
@@ -87,7 +86,7 @@ By using the Services, you agree that the laws of the state of Florida, without 
 
 ANY DISPUTE RELATING IN ANY WAY TO YOUR USE OF THE SERVICES SHALL BE SUBMITTED TO CONFIDENTIAL BINDING ARBITRATION IN TAMPA, FLORIDA, EXCEPT FOR INTELLECTUAL PROPERTY CLAIMS BROUGHT BY EITHER PARTY (WHICH FOR PURPOSES OF THIS SECTION DO NOT INCLUDE PRIVACY AND PUBLICITY CLAIMS) AND CLAIMS THAT MAY BE BROUGHT IN SMALL-CLAIMS COURT. IF YOU CAN DEMONSTRATE TO US THAT ARBITRATION IN TAMPA, FLORIDA WOULD CREATE AN UNDUE BURDEN TO YOU, WE WILL ALLOW YOU TO INITIATE THE ARBITRATION IN YOUR HOME STATE. ANY DISAGREEMENTS REGARDING THE FORUM FOR ARBITRATION WILL BE SETTLED BY THE ARBITRATOR.
 
-CONFIDENTIAL ARBITRATION UNDER THIS AGREEMENT SHALL BE RESOLVED EXCLUSIVELY UNDER THE CONSUMER ARBITRATION RULES THEN PREVAILING OF THE AMERICAN ARBITRATION ASSOCIATION ("AAA'S CONSUMER RULES"), EXCLUDING ANY RULES AND PROCEDURES GOVERNING OR PERMITTING CLASS OR REPRESENTATIVE ACTIONS. THE RULES ARE AVAILABLE AT THE AMERICAN ARBITRATION ASSOCIATION'S WEBSITE.
+CONFIDENTIAL ARBITRATION UNDER THIS AGREEMENT SHALL BE RESOLVED EXCLUSIVELY UNDER THE CONSUMER ARBITRATION RULES THEN PREVAILING OF THE AMERICAN ARBITRATION ASSOCIATION ("AAA'S CONSUMER RULES"), EXCLUDING ANY RULES AND PROCEDURES GOVERNING OR PERMITTING CLASS OR REPRESENTATIVE ACTIONS. THE RULES ARE AVAILABLE ON THE AMERICAN ARBITRATION ASSOCIATION'S WEBSITE.
 
 PUBLIX AND YOU AGREE TO EXPRESSLY WAIVE ANY RIGHTS TO FILE CLASS OR REPRESENTATIVE ACTIONS OR SEEK RELIEF ON A CLASS OR REPRESENTATIVE BASIS IN ANY JURISDICTION OR FORUM.
 
@@ -107,7 +106,7 @@ Publix's failure to exercise or enforce any right or provision of these Terms of
 
 ### Contact Us
 
-Contact Us if you have any questions about these Terms of Use or you would like to receive a copy free of charge. You may also download a copy of these [Publix Policies in PDF format](https://web.archive.org/-/media/documents/publix-terms-of-use.ashx?la=en).
+[Contact Us](https://corporate.publix.com/contact) if you have any questions about these Terms of Use or you would like to receive a copy free of charge. You may also download a copy of these [Publix Policies in PDF format](https://cutpcdnwimages.azureedge.net/-/media/documents/publix-terms-of-use_05312018.pdf?la=en).
 
 ## Privacy Policy
 
@@ -119,7 +118,7 @@ Publix reserves the right, at any time, to modify this Privacy Policy. By contin
 
 ### Information That We Collect from You
 
-You may be able to use some of our Services without providing any personal information to us. However, in order to take advantage of certain features, offerings, or other functions of our Services, you may be asked or required to provide personal information. For example, depending on the feature or service you wish to access, we may ask you to register an account with us or otherwise collect information from you such as your name, address, e-mail address, telephone number, credit card information, household information, demographic information, and/or information about your interests. You can always choose to not provide us with the requested information; however, if you choose to not provide such information, you may not be able to access or use certain features or functions of the Services.
+You may be able to use some of our Services without providing any personal information to us. However, in order to take advantage of certain features, offerings, or other functions of our Services, you may be asked or required to provide personal information. For example, depending on the feature or service you wish to access, we may ask you to register an account with us or otherwise collect information from you such as your name, address, e-mail address, telephone number, credit card information, household information, demographic information, and/or information about your interests. You can always choose to not provide us with the requested information; however, if you choose to not provide such information, you may not be able to access or use certain features or functions of the Services. When you shop in our stores or on our website, we may collect information about the products or services you buy when you use a payment card or enter a number at the register.
 
 To the extent that you provide us with a mobile telephone number you hereby:
 
@@ -149,13 +148,14 @@ Location Information. Our mobile applications and websites may also collect prec
 ### How Do We Use Your Information
 
   * We may use the information we collect to deliver promotional and marketing materials to you via physical mail and electronically regarding Publix and its products and services.
-  * We may use the information we collect: to fulfill your requests for our products, programs, or services; to respond to your inquiries; to offer you other products, programs, or services that we believe may be of interest to you; to survey you; and otherwise for the purposes for which you provided the information.
+  * We may use the information we collect: to fulfill your requests for our products, programs, or services; to complete and manage purchases, orders, returns and exchanges; to respond to your inquiries; to offer you other products, programs, or services that we believe may be of interest to you; to survey you; and otherwise for the purposes for which you provided the information.
   * We may combine the information we collect from your use of the Services with information that we collect from other sources.
   * We may use any of the information we collect for research, market studies, or to enhance the products and services we provide to you.
   * We may use the information we automatically collect from you to deliver marketing communications, special offers, or advertisements that may be of interest to you, including the delivery of targeted advertisements that are based on your previous online activity on the Services and other third-party services (for example, if you view a page on our website about a particular product, you may receive an online advertisement for that product or a related product on a different area of our Services or on other websites on the Internet you visit).
   * We may share information with our partners and advertisers for our legitimate business purposes, but we do not sell or rent your personal information to outside parties.
   * We may transfer your personal information to our service providers, which use that information to conduct business on our behalf, including to deliver advertising to our customers.
   * We may share anonymized information with our partners and advertisers. Anonymized information is information that is altered, combined, or otherwise processed so that it can't reasonably be identified with an individual person.
+  * We may share certain information that does not directly identify you (e.g. IP addresses and unique ID numbers associated with your device, such as your advertising ID) with third parties for their own use, including for advertising and marketing purposes. 
   * We may use information we collect to create personalized content, offers, services, and advertising. This includes personalized content based on the precise location information we collect from mobile devices or the location that we infer from your IP address or other information.
   * We may disclose the information to third parties when we are required to do so by any law, regulation, court order, subpoena, law enforcement, or other regulatory requirement.
   * We may disclose the information if we believe that such disclosure is necessary or appropriate: to comply with applicable law; to operate the Services; to protect the rights, property or safety of Publix, other users of the Services, partners, affiliates, sponsors, providers, licensors, merchants, or others; to prevent harm or loss; or in connection with an investigation of suspected or actual unlawful activity.
@@ -186,7 +186,7 @@ To exercise your choices, you may:
 
 
 
-If you opt-out using the directions and/or mechanisms provided in a specific type of communication, please be aware that you may only stop receiving that type of communication unless you exercise another option as described herein. Please note that it may take time to remove your information from our databases and that you may receive communications from us until such time as it is removed. Please note that it may not be possible to completely remove your information due to backups, records of deletions, and data retention requirements or policies.
+If you opt-out using the directions and/or mechanisms provided in a specific type of communication, please be aware that you may only stop receiving that type of communication unless you exercise another option as described herein. Please note that if you request that your information no longer be used to provide you services, Publix or its vendors may retain your information for Publix’s business purposes, such as for backups, analysis, records of deletions, legal requirements, and data retention requirements or policies.
 
 ### Cookies and Other Tracking Technologies
 
@@ -219,9 +219,7 @@ At Publix, we are committed to protecting your child(ren)'s privacy. We develope
   * Publix collects personal information from parents about their child(ren) through the Services in order to provide parents and child(ren) with access to the benefits that the parents have requested. You are sharing personally identifiable information with Publix when you register yourself and your child(ren) through certain portions of the Services.
   * Only parents may register their children on the Services; therefore, Publix does not knowingly collect personal information from children under the age of 13.
   * When you provide personal information about yourself and your child(ren) through certain portions of the Services, that information is collected and maintained by Publix and, depending on the functionality of the service or program, by third parties under contract with Publix. Those third parties are contractually obligated to keep such personal information confidential and secure.
-  * Publix has created a password-protected mechanism by which parents can review their and their child(ren)'s personal information provided through the Services, revise that information, or ask to have that information deleted. Once registered, a parent is able to modify the non-optional information that was supplied through the Services.
+  * Once registered, a parent is able to modify the information that was supplied through the Services by [contacting us](http://corporate.publix.com/contact).
   * Please [contact us](http://corporate.publix.com/contact "contact us") if you have any questions about our Child Privacy Notice.
 
 
-
-*You should never disclose or allow access to your password to anyone who is not authorized to access your or your child(ren)'s personally identifiable information. Passwords should be kept confidential at all times. In the interest of protecting your account security, Publix recommends that you change your password on a regular basis and immediately if you suspect that your account security has been jeopardized.
