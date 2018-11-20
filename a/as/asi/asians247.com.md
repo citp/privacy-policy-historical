@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asians247.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625044702id_/http%3A//asians247.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asians247.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120234621id_/http%3A//asians247.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Asians247.com - Free Live Asian Sex Shows - Live Asian Chat Girls 24/7!
 
@@ -60,8 +60,8 @@ This site makes chat rooms available to its users. Please remember that any info
 
 Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. CamSoft does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested. 
 
-Members areas of CamSoft may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by contacting us at <http://asians247.com/support.php?p=email>. 
+Members areas of CamSoft may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by contacting us at <http://www.asians247.com/support.php?p=email>. 
 
 ## Contact
 
-If you have any questions about this Privacy Policy, please contact our customer service department at <http://asians247.com/support.php?p=email> and provide us with your name, your CamSoft login name, and any information you feel is important. 
+If you have any questions about this Privacy Policy, please contact our customer service department at <http://www.asians247.com/support.php?p=email> and provide us with your name, your CamSoft login name, and any information you feel is important. 
