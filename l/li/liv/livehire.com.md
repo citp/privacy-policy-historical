@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livehire.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626075006id_/https%3A//www.livehire.com/transparency/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livehire.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120050517id_/https%3A//www.livehire.com/transparency/privacy) for the most accurate reproduction.*
 
-# LiveHire – Australia’s 1st labour market, where workers and employers connect directly
+# LiveHire - Australia's 1st labour market, where workers and employers connect directly
 
 ##  Privacy Policy LiveHire's Privacy policy was last modified on: 25 May 2018
 
@@ -55,7 +55,7 @@ When you sign up for our Services, or register to use our Platform as a User, we
 
 
 
-We may, in the future, include other optional requests for information from you, to help us update, improve or tailor the Platform for you and/or deliver personalised information to you. You do not have to provide any additional personal information and can opt out of any such request for information at any time from us by clicking ‘unsubscribe' on any of the relevant communications from us or by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b0c0c2d9c6d1d3c9f0dcd9c6d5d8d9c2d59ed3dfdd). Any information you do choose to provide to us will be held and protected by us in accordance with the terms of this Privacy Policy. 
+We may, in the future, include other optional requests for information from you, to help us update, improve or tailor the Platform for you and/or deliver personalised information to you. You do not have to provide any additional personal information and can opt out of any such request for information at any time from us by clicking ‘unsubscribe' on any of the relevant communications from us or by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4333312a3522203a032f2a35262b2a31266d202c2e). Any information you do choose to provide to us will be held and protected by us in accordance with the terms of this Privacy Policy. 
 
 We collect personal information through various means, including our website(s), social media pages, phone calls with you, forms completed by you or other correspondence with you. In some circumstances, we collect information about you from publicly accessible sources, such as Facebook and LinkedIn. For example, we may collect your personal information when you: 
 
@@ -331,7 +331,7 @@ If you've got any questions or issues with your information, please contact us a
 
 LiveHire Ltd  
 Level 10/461 Bourke Street  
-Melbourne, VIC 3000 Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c3b3b1aab5a2a0ba83afaab5a6abaab1a6eda0acae)
+Melbourne, VIC 3000 Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1c6c6e756a7d7f655c70756a7974756e79327f7371)
 
 ###  Appendix 1 - Categories of Personal information 
 
