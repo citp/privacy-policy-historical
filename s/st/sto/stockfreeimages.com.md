@@ -1,46 +1,45 @@
-> *The following text is extracted and transformed from the stockfreeimages.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190908id_/https%3A//www.stockfreeimages.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockfreeimages.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121002603id_/https%3A//www.stockfreeimages.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | StockFreeImages.com
 
-To provide you with additional information about how we collect and use your personal data, we've recently updated our [Privacy Policy](https://www.stockfreeimages.com/privacy.html) and [Terms of Service](https://www.stockfreeimages.com/terms.html).   
-Please review these pages now, as they apply to your continued use of our website. 
-
-PRIVACY POLICY
-
-This Privacy & Cookies Policy (the “Policy”) dated May 25, 2018 replaces all previous policies. Please take the time to review before you continue to use our products and services.
+This Privacy & Cookies Policy (the "Policy") dated May 25, 2018 replaces all previous policies. Please take the time to review before you continue to use our products and services.
 
 We are committed to protecting our users' privacy. Keeping the information you share with us on the site, secure and ensuring your understanding of how we collect, use and maintain your information is important to us at StockFreeImages. We maintain physical, electronic and procedural safeguards to protect your information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your information. We continually assess new technology for protecting information and, when appropriate, we upgrade our information security systems.
 
 Because of its importance and to make it easier for you to find and review it, we have made this Privacy Statement into a separate document on the site. However, bear in mind it is a part of our agreement with you and the terms and conditions contained in our Terms of Use describe how and when we may make changes to these statements and terms, and how they become binding upon you. We reserve the right to modify this policy. Any changes to the policy will be posted on this page. Users are encouraged to check the page regularly as they will be bound by the changes once posted on the site. This Privacy Policy applies to any information you provide to us, including through this website, our mobile apps, communications by email and through social media, by telephone and in person. It also covers any information we receive from third parties. By using our products and services, including browsing our websites, registering or logging in, you agree we may use your information as outlined in this Privacy Policy. If you do not wish to have your information used in line with this Privacy Policy, you must not use our products and services and not otherwise provide us with your information.
 
-About us:
+## About us
 
 Dreamstime.com, LLC operates the service located on StockFreeImages.com
 
-Overview:
+## Overview
 
-This Privacy Statement is intended to explain our privacy practices and inform you as to:   
-\- the kinds of information we collect from users of the site and how that information is collected;   
-\- how we use the information;   
-\- the circumstances under which we disclose information to third parties;   
-\- how you can access, update or delete any information collected about you by us; and   
-\- the mechanisms we have implemented to protect your personally identifiable information.   
-You can visit the site and learn about our company and its Products, as well as certain goods and services available from our advertisers and suppliers. 
+This Privacy Statement is intended to explain our privacy practices and inform you as to:
 
-Information we may collect and process about you:
-
-\- Information you provide to us.  
-\- Your IP address.  
-\- Information about pages you’ve visited, products and services you've clicked on or shown an interest in.  
-\- Information provided by other companies who have obtained your permission through their own privacy policies to share information about you.  
-\- Information about your interaction with our site.  
-\- Information we collect using cookies stored on your device about your use of our and/or selected third party websites.  
-\- Information we collect or remember using technologies similar to cookies, such as device identifiers on your mobile device.  
-\- Technical information from your device relating to the service you receive.  
-\- Information relating to the location of your device.  
+  * the kinds of information we collect from users of the site and how that information is collected; 
+  * how we use the information; 
+  * the circumstances under which we disclose information to third parties; 
+  * how you can access, update or delete any information collected about you by us
+  * the mechanisms we have implemented to protect your personally identifiable information.
 
 
-Personally Identifiable Information:
+
+You can visit the site and learn about our company and its Products, as well as certain goods and services available from our advertisers and suppliers.
+
+## Information we may collect and process about you:
+
+  * Information you provide to us.
+  * Your IP address.
+  * Information about pages you’ve visited, products and services you've clicked on or shown an interest in.
+  * Information provided by other companies who have obtained your permission through their own privacy policies to share information about you.
+  * Information we collect using cookies stored on your device about your use of our and/or selected third party websites.
+  * Information we collect or remember using technologies similar to cookies, such as device identifiers on your mobile device.
+  * Technical information from your device relating to the service you receive.
+  * Information relating to the location of your device.
+
+
+
+## Personally Identifiable Information:
 
 When we use the term "personally identifiable information" we mean information such as your full name, street address, town or city, state, zip code, telephone number, date of birth, e-mail address, IP address and any other information that would allow someone to identify you or contact you. Personally identifiable information also includes information about your transactions or relationship with us, if you have been a customer or you have provided this type of information. For example, if you make a purchase on our site, in addition to your name and contact information, we will also collect and maintain your billing address, Image selections, your order number and information about your computer's internet address and web site which may have referred or directed you to the site (e.g., the referring URL). We collect this and other information to fill your order, to communicate with you about your order and to send you promotional materials. 
 
@@ -50,93 +49,105 @@ Some features and functions of the site require you to register or obtain our pe
 
 Bear in mind that when you submit information to us, it does not guarantee that we will permit you to use any or all of the features or functions of the site. 
 
-The personally identifiable information you provide to us, as well as any information, personal or otherwise, that you create and which may be saved on or in association with the site, is used to provide you with better service. It allows us to save you time and better understand your needs. It also helps us help you learn more about your preferences and those goods and services that may be of interest to you. For example, we track your information to assist us in producing reports, maintaining quality control, administering and managing the site and our business, and, whenever it may become necessary or appropriate, to contact you concerning your activities associated with the site. We may use your personally identifiable information to advise you of goods or services which may be available from StockFreeImages, its suppliers and/or advertisers. If you are a registered user, you also acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the site and its functions and features, in connection withyour registration and use of the site.
+The personally identifiable information you provide to us, as well as any information, personal or otherwise, that you create and which may be saved on or in association with the site, is used to provide you with better service. It allows us to save you time and better understand your needs. It also helps us help you learn more about your preferences and those goods and services that may be of interest to you. For example, we track your information to assist us in producing reports, maintaining quality control, administering and managing the site and our business, and, whenever it may become necessary or appropriate, to contact you concerning your activities associated with the site. We may use your personally identifiable information to advise you of goods or services which may be available from StockFreeImages, its suppliers and/or advertisers. If you are a registered user, you also acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the site and its functions and features, in connection with your registration and use of the site.
 
-How we may use your information:
+## How we may use your information:
 
 By accessing our website, you agree that we may collect, hold, use or otherwise process your information (including personally identifying information) for the purpose of providing you with those products and services you request or access, and developing our business.
 
-Payment Processing:
+## Payment Processing:
 
 Please note that we contract with third parties to carry out payment processing in connection with any purchases you may make through our website. The processing and storage of any and all information you may provide to any such third-party payment processors, including information they may collect from you, is not governed by this Privacy Policy.
 
-Cookies:
+## Cookies:
 
-We use 'cookie' technology to collect data regarding your visits to the site. This data is stored in aggregate form and is not used to identify any particular user or individual, by other means than to provide you with access to our site, products or services.. We use cookies and similar tracking technologies in a variety of ways, including:   
-\- keeping count of your return visits to the site;   
-\- accumulating and reporting aggregate, statistical information in connection with the site ;   
-\- determining which features users like best; and   
-\- saving your user ID, your password or other information so you don't have to re-enter it each time you visit the site.   
+We use 'cookie' technology to collect data regarding your visits to the site. This data is stored in aggregate form and is not used to identify any particular user or individual, by other means than to provide you with access to our site, products or services.. We use cookies and similar tracking technologies in a variety of ways, including: 
+
+  * keeping count of your return visits to the site.
+  * accumulating and reporting aggregate, statistical information in connection with the site.
+  * determining which features users like best
+  * saving your user ID, your password or other information so you don't have to re-enter it each time you visit the site.
+
 
 
 A cookie is a small file containing a string of characters that uniquely identifies your browser. Assuming your browser is configured to accept them, when you visit our websites, we will send one or more cookies to your computer or other device. We may also set one or more cookies in your browser when you click on an ads or other links presented on our website. Cookies make it possible to store user preferences and record which portions of our website you and other users are using the most. We use cookies for the purposes of preventing fraud and improving the quality of our service. If you choose not to accept cookies, you should configure your browser to not accept them by following the documentation provided with your browser software. If you have questions about how to enable or disable cookies in your browser, you should contact the developer of your browser software for more information. Disabling cookies in your browser will cause certain portions of the StockFreeImages website to not function as expected. We will interpret your access of this website using a browser that is configured to accept cookies as an affirmative representation that (i) you have read and understood this cookie policy; and (ii) you consent to us setting cookies in your browser.
 
-Remarketing Program:
+## Remarketing Program:
 
-StockFreeImages may from time to time participate in various "Remarketing" programs that are designed to tailor advertisements you see by recording certain keywords and tags that are associated with the pages you browse on our website, and then using that information to automatically select ads that may be more relevant to you. For example, StockFreeImages may use DoubleClick remarketing pixels and cookies to participate in the [Dynamic Ad Serving](https://support.google.com/adwordspolicy/answer/1753680?visit_id=1-636628580965828012-2315687228&rd=1) feature provided by Google. If you would prefer to opt out of these services on our site, you may do so by contacting us on our Contact page. Please note that our Remarketing Opt Out procedure will not block ads that are displayed on the websites you visit, and it will not prevent websites other than StockFreeImages from collecting remarketing data about your browsing activities. To disable remarketing cookies for all websites, you may visit the cookie providers' opt-out page. We also utilize Google Analytics as part of our Remarketing program and to provide use with statistical information about portions of the StockFreeImages website that are visited the most. You may disable Google Analytics by visiting [Google's Ads Preferences Manager](http://www.google.com/settings/ads/onweb/?sig=Aci0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KsrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en).
+StockFreeImages may from time to time participate in various "Remarketing" programs that are designed to tailor advertisements you see by recording certain keywords and tags that are associated with the pages you browse on our website, and then using that information to automatically select ads that may be more relevant to you. For example, StockFreeImages may use DoubleClick remarketing pixels and cookies to participate in the [Dynamic Ad Serving](https://support.google.com/adwordspolicy/answer/1753680?visit_id=1-636628580965828012-2315687228&rd=1) feature provided by Google. If you would prefer to opt out of these services on our site, you may do so by contacting us on our [Contact page](https://www.stockfreeimages.com/contact). Please note that our Remarketing Opt Out procedure will not block ads that are displayed on the websites you visit, and it will not prevent websites other than StockFreeImages from collecting remarketing data about your browsing activities. To disable remarketing cookies for all websites, you may visit the cookie providers' opt-out page. We also utilize Google Analytics as part of our Remarketing program and to provide use with statistical information about portions of the StockFreeImages website that are visited the most. You may disable Google Analytics by visiting [Google's Ads Preferences Manager](http://www.google.com/settings/ads/onweb/?sig=Aci0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KsrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en).
 
-Message boards, blogs and other public forums:
+## Message boards, blogs and other public forums:
 
 Our website may provide message boards, blogs and other user generated content facilities, in addition to user profiles. Anything that you share through any of these means is deemed public information. Similarly, information you choose to share with us via email should not be considered private. You should always be careful when deciding to disclose your personal information.
 
-Third Parties on our site:
+## Third Parties on our site:
 
 Our site may contain advertisements, references and links to other web sites and organizations. You should be aware that different rules may apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other web sites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours, and even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information and we encourage you to investigate and ask questions directly of them in this regard. 
 
-Disclosure to Third Parties:
+## Disclosure to Third Parties:
 
-Except as described in this Privacy Statement, Dreamstime uses good faith efforts not to provide third parties with access to your personally identifiable information. We will, however, make your personally identifiable information available to others:   
-\- When we have your consent (you "opt in") to do so, in which case their use of your information is subject to their own privacy policies;   
-\- When we have retained companies to work with or on behalf of StockFreeImages.com to provide Products, goods or services that you have requested;   
-\- When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process);   
-\- If we believe your actions violate any law, regulation, our Terms of Use or any of our guidelines for promotions, Product offerings or any other features or functions of the site, or if you threaten the rights, property or safety of StockFreeImages.com, its suppliers, advertisers, other customers or users, or any other party;   
-\- As and when we, in our sole discretion, believe such disclosure to be necessary or appropriate to investigate or resolve possible problems or inquiries, to protect our business and assets, to defend our interests and/or to comply with our legal and regulatory obligations; or   
-\- In the event of a bankruptcy, or a merger, acquisition, joint venture or other business combination involving us. 
+Except as described in this Privacy Statement, Dreamstime uses good faith efforts not to provide third parties with access to your personally identifiable information. We will, however, make your personally identifiable information available to others:
 
-It is also possible that third parties may unlawfully intercept or access transmissions or private communications. 
+  * When we have your consent (you "opt in") to do so, in which case their use of your information is subject to their own privacy policies
+  * When we have retained companies to work with or on behalf of StockFreeImages.com to provide Products, goods or services that you have requested
+  * When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process)
+  * If we believe your actions violate any law, regulation, our Terms of Use or any of our guidelines for promotions, Product offerings or any other features or functions of the site, or if you threaten the rights, property or safety of StockFreeImages.com, its suppliers, advertisers, other customers or users, or any other party
+  * As and when we, in our sole discretion, believe such disclosure to be necessary or appropriate to investigate or resolve possible problems or inquiries, to protect our business and assets, to defend our interests and/or to comply with our legal and regulatory obligations or
+  * In the event of a bankruptcy, or a merger, acquisition, joint venture or other business combination involving us.
+  * It is also possible that third parties may unlawfully intercept or access transmissions or private communications. 
 
-We do not sell or market your personally identifiable information to unaffiliated organizations. 
 
-Some of the aggregate customer data we collect may be shared with advertising companies in order to enhance and improve the operation and relevance of the site, but we do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. 
 
-Communications from us:
+We do not sell or market your personally identifiable information to unaffiliated organizations.
+
+Some of the aggregate customer data we collect may be shared with advertising companies in order to enhance and improve the operation and relevance of the site, but we do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies.
+
+## Communications from us:
 
 If you provide us with your email address, we may occasionally send you emails notifying you about new services, products or other news relevant for you or the community. Since this site is owned and operated as a subsidiary of Dreamstime.com, we may occasionally send messages to your email address from our parent service Dreamstime.com.
 
-Contacting us and accessing your personal information:
+## Contacting us and accessing your personal information:
 
-If you have any queries or comments about this Privacy Policy please contact us at:  
-Dreamstime.com, LLC  
-Attn: Data Protection Officer  
-  
-1616 Westgate Circle  
-Brentwood, Tennessee 37027  
-United States  
-Telephone: [+1 615-771-5611](tel:+16157715611)  
-[https://www.dreamstime.com/contact](https://dreamsti.me/Rfd7WB11kFw)
+If you have any queries or comments about this Privacy Policy please contact us at:
 
-If you wish to review or receive a copy of the personal information we hold about you, please write to us at:  
-Dreamstime.com, LLC  
-Attn: Data Protection Officer  
-  
-1616 Westgate Circle  
-Brentwood, Tennessee 37027  
-United States  
-Telephone: [+1 615-771-5611](tel:+16157715611)  
-[https://www.dreamstime.com/contact](https://dreamsti.me/Rfd7WB11kFw)
-
-We reserve the right to charge an administration fee in relation to fulfilling a request for access to personal information which fee shall not exceed the maximum fee allowed by law. 
-
-Summary:
-
-Our privacy guidelines are designed to ensure that we:   
-\- collect and use your personally identifiable information only as necessary to deliver high quality service, to administer our business and to let you know of goods and services that are available from our family of companies;   
-\- protect the personally identifiable information the site's users share with us, maintaining strict standards of security and confidentiality. In this regard we even limit access by our own employees to those individuals who are trained and advised in the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes;   
-\- not disclose your personally identifiable information to any external organization, except as we have described in this Privacy Statement or unless we have previously obtained your consent ("opt in");   
-\- require any other organization that we retain or engage to provide services for us, to conform to our privacy standards and to allow us to audit them for compliance;   
-\- make every effort to keep your personally identifiable information complete, up to date, and accurate based on the information you provide us. Our site provides a convenient and easy to use mechanism to allow you to access and update the personally identifiable information you give us.   
+  * Dreamstime.com, LLC
+  * Attn: Data Protection Officer
+  * privacy@dreamstime.com
+  * 1616 Westgate Circle
+  * Brentwood, Tennessee 37027
+  * United States
+  * Telephone: [+1 615-771-5611](tel:+16157715611)
+  * <https://www.dreamstime.com/contact>
 
 
-Sole Statement:
 
-This privacy statement is the sole statement of StockFreeImages's privacy policy with respect to the site, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. 
+If you wish to review or receive a copy of the personal information we hold about you, please write to us at:
+
+  * Dreamstime.com, LLC
+  * Attn: Data Protection Officer
+  * privacy@dreamstime.com
+  * 1616 Westgate Circle
+  * Brentwood, Tennessee 37027
+  * United States
+  * Telephone: [+1 615-771-5611](tel:+16157715611)
+  * <https://www.dreamstime.com/contact>
+
+
+
+We reserve the right to charge an administration fee in relation to fulfilling a request for access to personal information which fee shall not exceed the maximum fee allowed by law.
+
+## Summary:
+
+Our privacy guidelines are designed to ensure that we: 
+
+  * collect and use your personally identifiable information only as necessary to deliver high quality service, to administer our business and to let you know of goods and services that are available from our family of companies
+  * protect the personally identifiable information the site's users share with us, maintaining strict standards of security and confidentiality. In this regard we even limit access by our own employees to those individuals who are trained and advised in the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes
+  * not disclose your personally identifiable information to any external organization, except as we have described in this Privacy Statement or unless we have previously obtained your consent ("opt in")
+  * require any other organization that we retain or engage to provide services for us, to conform to our privacy standards and to allow us to audit them for compliance
+  * make every effort to keep your personally identifiable information complete, up to date, and accurate based on the information you provide us. Our site provides a convenient and easy to use mechanism to allow you to access and update the personally identifiable information you give us.
+
+
+
+## Sole Statement:
+
+This privacy statement is the sole statement of StockFreeImages's privacy policy with respect to the site, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
