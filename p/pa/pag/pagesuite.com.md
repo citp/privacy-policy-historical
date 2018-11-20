@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagesuite.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624174442id_/http%3A//www.pagesuite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagesuite.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120044149id_/http%3A//www.pagesuite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PageSuite
 
@@ -10,7 +10,7 @@ Should you have any queries about the manner in which we process your personal d
 
 Email:    GDPR@pagesuite.com
 
-Post:      Goldwell Court, Goldwell Lane, Aldington, Ashford, Kent TN25 7DX
+Post:     Connect 38, 1 Dover Place, Ashford, TN23 1FB
 
 Telephone:         01233 721030
 
