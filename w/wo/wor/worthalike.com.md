@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worthalike.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519140851id_/http%3A//www.worthalike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worthalike.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120011820id_/http%3A//www.worthalike.com/privacy) for the most accurate reproduction.*
 
 # WORTHaLIKE
 
