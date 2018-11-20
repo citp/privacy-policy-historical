@@ -1,86 +1,156 @@
-> *The following text is extracted and transformed from the americanbar.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125170648id_/http%3A//www.americanbar.org/content/aba/utility/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbar.org privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120104558id_/https%3A//www.americanbar.org/about_the_aba/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# ABA Privacy Policy
 
-## I. American Bar Association Privacy Policy
+## I. Introduction  
 
-This Privacy Policy explains how the ABA may collect, use, share, and safeguard information on [www.americanbar.org](http://www.americanbar.org/), [www.abajournal.com](http://www.abajournal.com/), mobile websites, microsites, mobile applications, ABA profiles on ABA social media sites and any other digital services and platforms officially operated or used by the ABA from time to time (the “Sites” or “Services”).  In certain Sites operated overseas, the Privacy Policy displayed on those Sites, not this Privacy Policy, will govern the collection, use, and sharing of information.
 
-### II. Changes to the Privacy Policy
+This Privacy Policy explains how the ABA collects, uses, shares and safeguards Personal Data and Non-Personal Data on [www.americanbar.org](https://web.archive.org/), [www.abajournal.com](http://www.abajournal.com/), mobile websites, microsites, mobile applications, ABA profiles on ABA social media sites and any other digital services and platforms officially operated or used by the ABA from time to time (“Sites”), as well as by phone or by paper.  In certain Sites operated overseas, the privacy policy displayed on those Sites, and not this Privacy Policy, may govern the collection, use and sharing of information.
 
-As the ABA, its membership, products and services change from time to time, this Privacy Policy is expected to change as well. We reserve the right to amend the Privacy Policy at any time, for any reason. The date of the last revision to the Privacy Policy will be indicated by the "Last updated" date at the bottom of this page.
+## II. Changes to the Privacy Policy
 
-### III. Information We Collect
+As the ABA, its membership, products and services change from time to time, this Privacy Policy is expected to change as well. We reserve the right to amend the Privacy Policy at any time, for any reason. The date of the last revision to the Privacy Policy will be indicated by the "Effective Date" at the bottom of this page.
 
-1\. Personally Identifiable Information: We may collect information (whether online, by phone, or by paper) that identifies you (“Personally Identifiable Information”) when you: provide such information on our Sites, apply or register for ABA events, or otherwise interact with the ABA, including, but not limited to, applying for membership, registering for an ABA event or program, or purchasing ABA products or services. The types of Personally Identifiable Information collected  may include your name, address, phone number, birth date, billing and delivery information, Email address, information about your practice or business, credit card, or other financial account information.  The ABA may also receive Personally Identifiable Information of individuals who are new bar admittees from various state bar entities.
+## III. Types of Data We Collect
 
-2\. Non-Personal Data: As you interact with our Sites, we may also collect information about your browsing history or certain other information that is not Personally Identifiable Information through your use of and visits to the Sites and our use of a variety of technologies, including, but not limited to, cookies, tags, beacons, Internet Protocol (IP) address , and other tools. "Cookies" are pieces of code/text placed on your computer when you browse our Sites. Cookies may be placed by us or third party advertisers. “Tags” and web beacons refer to code scripts that are primarily used to track visitors’ activities on our Sites by web analytics software. The types of non-personal data collected on our Sites through the use of these, and other tools as the ABA may add from time to time, may include: the search terms you used, new or returning user, browser information, computer type, operating system, internet service providers, website usage, referring/exit pages, platform type, date/time stamp, number of clicks, ads viewed, etc. Additionally, cookies, tags and other tools placed by third parties may collect other information about you and your visits to Sites and elsewhere on the Internet including, but not limited to, your industry, company size, job function, seniority level, etc.)(collectively, all of the foregoing data the "Non-Personal Data").
+**Personal Data  
+**
 
-### IV. How We Use and Share Personally Identifiable Information
+We collect information (whether online, by phone, or by paper) that enables the ABA to identify or contact you (“Personal Data”) to carry out its business purposes.  ABA Sites collect this information for a variety of business reasons, including but not limited to, applying for membership, registering for an ABA event or program, purchasing ABA products or services, or otherwise interacting with the ABA.
 
-Once collected, we may use your Personally Identifiable Information in a variety of ways including, but not limited to:
+The types of Personal Data we collect include, but are not limited to:
 
-  * Provide service communications such as bill reminders, order confirmations, program registrations, and customer service messages
+  * General data (e.g., names, dates of birth, home and business addresses, email addresses, Internet protocol addresses and mobile/landline business/personal telephone numbers that are provided by our members/customers)
+  * Professional data (e.g., bar pass date and state(s))
+  * Government-issued identification numbers (e.g., social security numbers, national identification numbers and tax identification numbers), for example from employees and independent contractors, but not from members unless the ABA makes payments to members, such as honoraria or royalties for publishing rights
+  * Other identification information (e.g., photographs)
+  * Financial information (e.g., credit and debit card numbers, credit reports, passwords and PIN numbers) for product sales or employment purposes
+  * Sensitive Personal Data (e.g., racial or ethnic origin, sexual orientation and disability data) for diversity or accessibility purposes
+
+
+
+The ABA also receives Personal Data from third parties for the ABA’s use in marketing to potential new members, such as lists of new state bar admittees from various state bar entities.
+
+****Non-Personal Data  
+****
+
+We collect information (whether online, by phone, or by paper) that does not directly identify you as you interact with our Sites (“Non-Personal Data”). The types of Non-Personal Data we collect includes, but is not limited to:
+
+  * Site usage (e.g., browsing history, search terms, number of clicks, referring/exit pages, date/time stamp, time on Site)
+  * Products and services viewed, including advertisements for such products and services
+  * Computer type, operating system and platform type
+  * Internet service provider
+  * Your industry and business (e.g., company size and location, job functions and seniority levels)
+
+
+
+## IV How We Use Your Data
+
+In addition to the uses described above, we use your Personal Data, sometimes combined with Non-Personal Data, in a variety of ways including, but not limited to the below, in order to:
+
+****Personal Data  
+****
+
+  * Identify you when you visit our Sites
+  * Provide service communications such as bill reminders, order confirmations, program registrations and customer service messages
+  * Provide products, information and services you request or that we think you may be interested in
   * Respond to your emails or online requests for products, services, or information
   * Deliver and process surveys
   * Personalize and improve the usability of the Sites
   * Fulfill and/or deliver ABA products and services
-  * Publish membership directories and registration lists as described below
-  * Sharing with certain other companies to offer you products and services that may be of interest to you as described below
   * Tailor content, advertising and marketing to you
-  * Share with third parties as required by law or to protect the ABA as described below
-  * Share your email address as permitted under ABA Email Policy as described below
+  * Publish membership directories, membership lists and registration lists on the Sites and in print and digital media to allow lawyers and the public to find you; such directories and lists will not include credit card information or personal identification numbers such as social security numbers, as set forth in the “Contact Information” section below
 
 
 
- **Publication of Your Personally Identifiable Information for Membership Directories and Registration Lists.** To allow other lawyers and the public to find you, the Personally Identifiable Information we receive may be published on the Sites and other print or digital media, in a variety of ways, including, but not limited to, directories, membership lists, and other types of registration lists for ABA programs and events (“Directory Lists”). Directory Lists will not include sensitive information, such as credit card or bank information, or social security numbers. Users may request their information be suppressed from Directory Lists by [contacting us](http://www.americanbar.org/utility/about_the_aba/contact.html).
+****Non-Personal Data****
 
- **Sharing Your Personally Identifiable Information to Fulfill Service Requests and Perform Business Functions.** When fulfilling service requests initiated by you, we may share your Personally Identifiable Information with certain third parties to fulfill the requests. We may also share such information with service providers that perform business functions for us. For example, the ABA occasionally hires other companies to provide limited services on our behalf including, but not limited to, packaging, mailing and delivering promotional offers, sweepstakes or contests, answering customer questions about products or services, consulting services, data modeling, printing, sending postal mail and processing event registrations.  In such cases, the ABA may share your Personally Identifiable Information.  
+We use Non-Personal Data to improve the usability of our Sites and for other business reasons. We or other third-party companies also use the Non-Personal Data to provide advertisements and targeted advertisements to you (ads based on the Non-Personal Data). We do not provide Personal Data to third parties with whom we share your Non-Personal Data. Please note that, when you select an advertising link or other link that takes you to sites not operated by the ABA, you may be subject to the privacy policies of these third-party sites.
 
- **Sharing Your Personally Identifiable Information with Certain Other Companies.** The ABA may share Personally Identifiable Information, except for Email addresses, with certain other companies in order to provide them an opportunity to offer products or services that may be of interest to you, which helps contribute non-dues revenue to the ABA. 
+## V.    How We Share Your Data
 
- **Sharing Your Personally Identifiable Information When Legally Necessary or to Protect the ABA’s Interests.** The ABA may disclose your Personally Identifiable Information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on the ABA; (b) protect and defend the rights or property of ABA; or (c) protect the personal safety of ABA personnel or members of the public in appropriate circumstances. In addition, if the ABA and/or its assets (or a portion of its assets) are sold, assigned, transferred, or merged, or if the ABA undergoes some other change including a change to its corporate form as part of a bankruptcy proceeding or otherwise, information may be transferred as part of that transaction or change. 
+We share your Personal Data, sometimes combined with Non-Personal Data, in a variety of ways including, but not limited to the below:
 
- **Sharing Your Email Address Pursuant to ABA Policy.** Your e-mail address will only be used by the ABA and its entities. We do not sell or rent e-mail addresses to anyone outside the ABA. The ABA will also not share e-mail addresses to unrelated third-parties, affiliates, or ABA members.  Please understand, however, that your Email address may be visible to other attorneys, others who have interest in the legal profession and ABA events, as well as the general public through Directory Lists as set forth above.  The ABA may also share your Email address with third parties to enable the ABA to take security measures to help protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data.  Finally, the ABA may share Email addresses with third parties as necessary for the ABA to perform certain services on our behalf, such as packaging, mailing and delivering products and processing event registrations and to respond to your service requests.  
+  * Share data with third parties to fulfill service requests and to perform business functions (e.g., the ABA contracts with third parties to provide services on our behalf such as data hosting services; packaging, mailing and delivering services; customer support and consulting services; and event registration services). 
+  * Share data with third parties as required by law or to protect the ABA in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on the ABA; (b) protect and defend the ABA’s rights or property; or (c) protect the personal safety of ABA personnel or members of the public in appropriate circumstances.
+  * Share data with third parties if the ABA and/or its assets (or a portion of its assets) are sold, assigned, transferred, or merged, or if the ABA undergoes some other change including a change to its corporate form as part of a bankruptcy proceeding or otherwise; information may be transferred as part of that transaction or change. 
+  * Share data with third parties to offer you products and services that may be of interest to you professionally or personally (e.g., business software solutions or member product discounts).  Users can request their information to be removed from such lists by [contacting us](https://web.archive.org/about_the_aba/contact/), as set forth in the “Contact Information” section below.
+  * Share data with third parties under other unanticipated situations, but only with your consent.
+  * Share your email address, but only as permitted by the _ABA Email Policy_ , as follows:
 
-### V. How to Manage the Sharing of Your Personally Identifiable Information
 
-You can manage your profile and e-mail preferences, including opting out of e-mail either [online](https://apps.americanbar.org/abanet/common/limit/home.cfm) or by [contacting us](http://www.americanbar.org/utility/about_the_aba/contact.html). Additionally, if you prefer to receive mailings only from the ABA and have your name and address removed from the list we provide to certain companies, please [contact us](http://www.americanbar.org/utility/about_the_aba/contact.html). For California residents, please consult the “Your California Privacy Rights” for additional considerations.
 
-### VI. How We May Use and Share Non-Personal Data
+Your email address will be used only by the ABA, its entities and ABA vendors performing member services, or offering products on ABA’s behalf.  ABA does not sell or rent email addresses to anyone outside the ABA, nor does the ABA share email addresses to unrelated third-parties, affiliates, or ABA members.  Please understand, however, that in such cases, your email address may be visible to other attorneys, others who have interest in the legal profession and ABA events, as well as the public through ABA membership directories, membership lists and registration lists.  The ABA also shares your email address with third parties to enable the ABA to take security measures to help protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data.  Finally, the ABA shares email addresses with third parties as necessary for the ABA to perform certain services on our behalf, such as packaging, mailing and delivering products and processing event registrations and to respond to your service requests.
 
-Through the use of various technological tools, we may collect Non-Personal Data to improve the usability of our Sites/Services and for other business reasons. We may share the Non-Personal Data we collect with third parties or permit third parties to place tools like cookies, tags and web beacons, to collect additional Non-Personal Data when you browse our Sites. We or other third party companies may then use the Non-Personal Data to provide advertisements and targeted advertisements to you (ads based on the Non-Personal Data). We do not share Personally Identifiable Information with third parties with whom we share your Non-Personal Data. **Please note that you may be subject to the privacy policies of other non-ABA companies when you select an advertising link or other link that takes you to sites not operated by the ABA.**
+## VI. How You Can Manage the Processing of Your Data
 
- **How You Can Manage the Collection of Non-Personal Data.** Third party advertising companies may collect data about your visit to our Sites and others to provide you more relevant advertising here and elsewhere on the Internet. This type of advertising is known as Online Behavioral Advertising. You can stop this collection and use of data for these purposes by companies participating in the Digital Advertising Alliance (“DAA”) by visiting the “Opt Out From Online Behavioral Advertising” website. By opting out, the ads you see may be less relevant, and you may still continue to see other non-targeted advertisements on our Sites and elsewhere. 
+You can manage your profile and email preferences, including “opting out” of email by contacting us using the information in the “Contact Information” section below. If you prefer to receive hard copy mailings only from the ABA, you can contact us and request to have your name and address removed from the list we provide to third parties. For California residents, please consult the “California Privacy Rights” section for additional considerations. 
 
-### VII. California Privacy Rights
+Our processing of your data is based upon your consent, contract performance (e.g., your purchase of products or membership sign-up/renewal), legitimate business interest (e.g., direct marketing of goods and services), or compliance with law.  You have the right to object to our processing of your data or to restrict our processing of your data. In addition, if you have consented to the processing of your Personal Data, you have the right to withdraw your consent at any time.
 
-In addition to the rights as explained in this Privacy Policy, under California’s "Shine the Light" law, California residents who provide personal information (as defined in the statute) in obtaining products or services for personal, family, or household use are entitled to request and obtain from us, once a calendar year, information about the personal information we shared, if any, with other businesses for marketing uses. If applicable, this information would include the categories of personal information and the names and addresses of those businesses with which we shared such personal information for the immediately prior calendar year (e.g., requests made in 2012 will receive information about 2011). To obtain this information please write to us at: American Bar Association, 321 N. Clark St. Chicago, IL 60654. Attn: ABA List Sales -- California Privacy Law. Please include your full name and address and ABA Member Number, if applicable.
+## VII. California Privacy Rights
 
-### VIII. Canada Anti-Spam Law (CASL)
+In addition to the rights as explained in this Privacy Policy, under California’s "Shine the Light" law, California residents who provide personal information (as defined in the statute) to obtain products or services for personal, family, or household use are entitled to request and obtain from us, once a calendar year, information about the personal information we shared, if any, with other businesses for marketing uses. If applicable, this information would include the categories of personal information and the names and addresses of those businesses with which we shared such personal information for the immediately prior calendar year (e.g., requests made in the current year will receive information about the prior year). To obtain this information please write to us at: American Bar Association, 321 N. Clark St. Chicago, IL 60654-7598. Attn: ABA List Sales -- California Privacy Law. Please include your full name and address and ABA Member Number, if applicable.
 
-The ABA complies with CASL. Non-ABA Members or Associates who have provided us a Canadian mailing address will not receive unauthorized Commercial Electronic Messages (CEMs as defined under CASL) unless these individuals have opted-in to receive CEMs.
+## VIII. Canada Anti-Spam Law  
 
-### IX. Children
 
-We do not knowingly collect personal data online from or market online to children under the age of 13.
+The ABA complies with the Canada Anti-Spam Law. Non-ABA members or associates who provide us a Canadian mailing address will not receive unauthorized Commercial Electronic Messages (as defined under the Canada Anti-Spam Law) unless these individuals have “opted-in” to receive Commercial Electronic Messages
 
-### X. Information Security
+## IX. Children
 
-The ABA implements commercially reasonable security measures to help protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. Except for Directory Lists and the sharing of information as set forth in this Privacy Policy, we restrict access to personal information to certain companies who may need to know that information in order to operate, develop, or improve our services. These individuals or partner organizations are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+We do not knowingly collect Personal Data from or market to children under the age of 13
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, and despite our efforts, the ABA cannot guarantee or warrant the security of any information you transmit to us, or to or from our online products or services. If you have questions about this Privacy Policy, please [contact us](http://www.americanbar.org/utility/about_the_aba/contact.html).
+## X. How We Protect Personal Data
 
-### XI. User ID and Password
+The ABA implements commercially reasonable security measures to help protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. Except for membership directories, membership lists and registration lists, and the sharing of information as set forth in this Privacy Policy, we restrict access to Personal Data to certain companies who need the data to operate, develop, or improve our services. These individuals or partner organizations are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-Certain areas of the Sites may require the use of a user ID, email address, or password as an additional security measure that helps protect your information.  To help you protect your privacy, the ABA Sites have tools to help you log in and log out.
+Unfortunately, no data transmission over the Internet or electronic storage is fully secure. Accordingly, and despite our reasonable efforts to protect your Personal Data from unauthorized access, use, or disclosure, the ABA cannot guarantee or warrant the security of the Personal Data you transmit to us, or to or from our online Sites. If you have questions about this Privacy Policy, please [contact us](http://www.americanbar.org/utility/about_the_aba/contact.html)
 
-### XII. Linking to Other Internet Sites
+## XI. User ID and Password
+
+Certain areas of the Sites require the use of a user ID, email address, or password as an additional security measure that helps protect your Personal Data.  To help you protect your privacy, these Sites have tools to help you log in and log out.
+
+## XII. Linking to Other Internet Sites
 
 You should be aware that other Internet sites that are linked from the Sites or from an ABA email message may contain privacy provisions that differ from the provisions of this Privacy Policy. To ensure your privacy is protected, we recommend that you review the privacy statements of these other linked sites, applications, or other digital platforms.
 
-### XIII. How You Can Access and Change Information
+## XIII. How You Can Access, Change and Delete Your Personal Data  
 
-If you are a registered user of the Sites, subscriber to ABA publications, purchaser of ABA products and services, or an ABA member, you may review and update/correct your information directly on the ABA’s website—americanbar.org—or by [contacting us](http://www.americanbar.org/utility/about_the_aba/contact.html).
 
-Last updated October 9, 2015
+We rely on you to update and correct your Personal Data.  If you are a user of our Sites, subscriber to ABA publications, purchaser of ABA products and services, or an ABA member, you can review, update and correct your information directly on the ABA’s website or by contacting us using the information in the “Contact Information” section below. Typically, we retain your Personal Data for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.  This may include retaining your Personal Data indefinitely, even after you are no longer an ABA member, in order to provide you with future marketing opportunities and other purposes, as well as to comply with our legal obligations, resolve disputes, or enforce any of our agreements.  Please note that you can request, at any time, that we delete your Personal Data.  All requests must be directed to the contact in the “Contact Information” section below.  We can decide to delete your Personal Data if we believe that the data is incomplete, inaccurate, or that our continued use and storage are contrary to our obligations to other members, individuals, or third parties.  When we delete your Personal Data, it will be removed from our active databases or anonymized so that the data is no longer identified with you, but the data may remain in our archives if the ABA determines that it is not practical or possible to delete it. **  
+**
+
+## XIV.  Cookies and Other Web Devices  
+
+
+Our website sends cookies (e.g., pieces of code or text placed on your computer by us or third-parties when you browse our Sites) to your web browser (if your browser’s preferences allow it) to collect data when you browse our Sites.  Cookie settings can be controlled in your Internet browser to automatically reject some forms of cookies.  If you view our website without changing your cookie settings, you are indicating your consent to receive all cookies from our Sites.  If you do not allow cookies, some features and functionality of our Sites may not operate as expected. In addition to cookies, we place technological tools (and allow certain third parties to place technological tools) such as tags and beacons (e.g., code scripts that are primarily used to track visitors’ activities on our Sites by web analytics software), Internet Protocol (IP) addresses, and other tools, to collect your data for the purposes listed in this Privacy Policy. **  
+**
+
+## XV.  Transmission of Data to Other Countries  
+
+
+Your Personal Data is processed in the United States, where privacy laws may be less stringent than the laws in your country and where the government, courts, or law enforcement may be able to access your data.  By submitting your Personal Data to us, you agree to the transfer, storage and processing of your Personal Data in the United States.
+
+## XVI.  Right to Complain to Supervisory Authority
+
+You, as the data subject, have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work, or place of the alleged infringement, if you believe that the processing of your personal data does not comply with legal requirements. **  
+**
+
+## XVII.  Breach Notification
+
+In the event we determine the occurrence of a data security incident, we will notify you by email, US mail, telephone, or other means as permitted by law. **  
+**
+
+## XVIII.  Contact Information
+
+If you have questions, comments, or complaints concerning our privacy practices or if you wish to change, access, or remove your Personal Data, please contact us as indicated below.  We will attempt, where practical, to respond to your requests and to provide you with additional privacy related information.
+
+**American Bar Association  
+**321 N. Clark Street  
+Chicago, IL  60654  
+[americanbar.org: ](https://web.archive.org/about_the_aba/contact/)   
+(800) 285-2221 or (312) 988-5000  
+[Email](mailto:service@americanbar.org) 
+
+_Effective Date:   May 31, 2018_
