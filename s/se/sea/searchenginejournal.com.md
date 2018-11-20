@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchenginejournal.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616035620id_/https%3A//www.searchenginejournal.com/privacy-policy/%3Futm_source%3Dsej%26utm_medium%3Dmenu-nav%26utm_campaign%3Dsej-menu-nav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginejournal.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121004449id_/https%3A//www.searchenginejournal.com/privacy-policy/%3Futm_source%3Dsej%26utm_medium%3Dmenu-nav%26utm_campaign%3Dsej-menu-nav) for the most accurate reproduction.*
 
 # Privacy Policy - Search Engine Journal
 
