@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcti12.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516072849id_/http%3A//wcti12.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcti12.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121214252id_/https%3A//wcti12.com/station/privacy) for the most accurate reproduction.*
 
 # New Bern Privacy | News, Weather, Sports, Breaking News | WCTI
 
