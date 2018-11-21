@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newschannel9.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626030722id_/http%3A//newschannel9.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newschannel9.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121233502id_/https%3A//newschannel9.com/station/privacy) for the most accurate reproduction.*
 
 # CHATTANOOGA Privacy | News, Weather, Sports, Breaking News | WTVC
 
