@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getmailbird.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526124332id_/https%3A//www.getmailbird.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmailbird.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121191215id_/https%3A//www.getmailbird.com/privacy-policy) for the most accurate reproduction.*
 
-# Don't like Outlook? Get Mailbird.
+# Mailbird Privacy Policy
 
 This privacy and cookie policy (“Policy”) describes how Mailbird Inc. (“Company,” “we,” and “our”) collects, uses and shares personal data when using this website getmailbird.com (the “Site”) and the Mailbird application(s), (the “Applications”), together (the “Services”).] Please read the following information carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -43,7 +43,7 @@ We collect information about you in the following ways:
 
 **Information Automatically Collected.** We automatically log information about you and your computer or mobile device when you access our Services. For example, when visiting our Services, we log your computer or mobile device operating system name and version, manufacturer and model, browser type, browser language, screen resolution, the website you visited before browsing to our Services, pages you viewed, how long you spent on a page, access times and information about your use of and actions on our Services. We collect this information about you using cookies. Please refer to the sections on cookies, Flash Technology and Pixel Tags below
 
-**Automated Decision Making and Profiling.** We may use automated decision making and/or profiling in regard to your personal data for some services and products, for example by providing you with some relevant features suggestion or by offering you a custom promotional offer based on your email information and behavior inside our Services. You can request a manual review of the accuracy of an automated decision that you are unhappy with or limit or object to such automated decision making and/or profiling by contacting us at [support@getmailbird.com](https://web.archive.org/web/20180526124332id_/https://www.getmailbird.com/privacy-policy/support@getmailbird.com)
+**Automated Decision Making and Profiling.** We may use automated decision making and/or profiling in regard to your personal data for some services and products, for example by providing you with some relevant features suggestion or by offering you a custom promotional offer based on your email information and behavior inside our Services. You can request a manual review of the accuracy of an automated decision that you are unhappy with or limit or object to such automated decision making and/or profiling by contacting us at [support@getmailbird.com](mailto:support@getmailbird.com)
 
 **3\. COOKIES**
 
@@ -75,7 +75,7 @@ These cookies are used to collect information about traffic to our Services and 
 
 We use for example Google Analytics, Mixpanel or Hotjar for this purpose. Those providers use their own cookies. It is only used to improve how our Services works. You can find out more information about Google Analytics cookies here: <https://developers.google.com/analytics/resources/concepts/gaConceptsCookies>
 
-You can find out more about how Google protects your data here: https://www.google.com/analytics/learn/privacy.html.
+You can find out more about how Google protects your data here: <https://www.google.com/analytics/learn/privacy.html>.
 
 You can prevent the use of Google Analytics relating to your use of our Services by downloading and installing the browser plugin available via this link: [http://tools.google.com/dlpage/gaoptout?hl=en-GB](https://tools.google.com/dlpage/gaoptout?hl=en-GB)
 
@@ -97,7 +97,7 @@ These cookies are used when you share information using a social media sharing b
 
 You can typically remove or reject cookies via your browser settings. In order to do this, follow the instructions provided by your browser (usually located within the “settings,” “help” “tools” or “edit” facility). Many browsers are set to accept cookies until you change your settings.
 
-Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](https://web.archive.org/web/20180526124332id_/https://www.getmailbird.com/privacy-policy/www.allaboutcookies.org) and [www.youronlinechoices.com.uk](https://web.archive.org/web/20180526124332id_/https://www.getmailbird.com/privacy-policy/www.youronlinechoices.com.uk).
+Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.com/uk](http://www.youronlinechoices.com/uk).
 
 If you do not accept our cookies, you may experience some inconvenience in your use of our Services. For example, we may not be able to recognize your computer or mobile device and you may need to log in every time you visit our Services.
 
