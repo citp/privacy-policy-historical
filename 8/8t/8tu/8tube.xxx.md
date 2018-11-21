@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8tube.xxx privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617122439id_/http%3A//www.8tube.xxx/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8tube.xxx privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121025001id_/http%3A//www.8tube.xxx/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 8tube.xxx
 
@@ -18,7 +18,7 @@ This Privacy Policy was posted On November 05th 2014. Lilly Devine SA reserves t
 ## Your Rights
 
 You have every right to require from Us not to process and / or disclose Your personal information for marketing and commercial purposes. If, and when We plan and intend to process Your Person-al Data for commercial purposes, We will let You know.  
-Furthermore, You can require this right at any time by contacting Us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Furthermore, You can require this right at any time by contacting Us directly at privacy@lillyd-sa.com.
 
 ## Access to Information
 
@@ -31,4 +31,4 @@ Any future changes We make to this Privacy Policy and the way We use cookies at 
 
 ## Questions
 
-Questions regarding the information Lilly Devine SA has stored about You should be in writing, for address details go to our contact page, or send us an email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7d0d0f140b1c1e043d111411110419500e1c531e1210).
+Questions regarding the information Lilly Devine SA has stored about You should be in writing, for address details go to our contact page, or send us an email: [privacy@lillyd-sa.com](mailto:privacy@lillyd-sa.com).
