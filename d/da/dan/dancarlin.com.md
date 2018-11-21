@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dancarlin.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120174314id_/http%3A//www.dancarlin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancarlin.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121092735id_/https%3A//www.dancarlin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Orator LLC and dancarlin.com
 
 **Last modified: August 1, 2016**
 
-  1. **Introduction.** Orator LLC and dancarlin.com (“Company” or “We”) and its affiliates respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the Website located at [dancarlin.com](http://www.dancarlin.com/) (this “Site”) and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+  1. **Introduction.** Orator LLC and dancarlin.com (“Company” or “We”) and its affiliates respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the Website located at [dancarlin.com](https://www.dancarlin.com/) (this “Site”) and our practices for collecting, using, maintaining, protecting, and disclosing that information.
   2. **Information Collected.** This policy applies to information we collect: 
     * On this Site;
     * In email, text, and other electronic messages between you and this Site; and
@@ -21,7 +21,7 @@ Orator LLC and dancarlin.com
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Site. By accessing or using this Site, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Site after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-  4. **Children Under the Age of 13.** Our Site is not intended for children under 13 years of age (It is intended for users that are 18 years of age or older). No one under age 13 may provide any personal information to this Site. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Site or on or through any of its features/register on this Site, make any purchases through this Site, use any of the interactive or public comment features of this Site or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at email: [help@dancarlin.com](mailto:help@dancarlin.com)
+  4. **Children Under the Age of 13.** Our Site is not intended for children under 13 years of age (It is intended for users that are 18 years of age or older). No one under age 13 may provide any personal information to this Site. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Site or on or through any of its features/register on this Site, make any purchases through this Site, use any of the interactive or public comment features of this Site or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aac2cfc6daeacecbc4c9cbd8c6c3c484c9c5c7)
 
 
   5. **Information We Collect About You.** We may collect several types of information from and about users of our Site, including information: 
@@ -73,7 +73,7 @@ Please read this policy carefully to understand our policies and practices regar
       * To allow you to participate in interactive features on our Site.
       * In any other way we may describe when you provide the information.
       * For any other purpose with your consent.
-    * We may also use your information to contact you about our own and third-parties’ goods and services that may be of interest to you. If you do not want us to use your information in this way, please notify us by sending an email stating your request to help@dancarlin.
+    * We may also use your information to contact you about our own and third-parties’ goods and services that may be of interest to you. If you do not want us to use your information in this way, please notify us by sending an email stating your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
     * We may use the information we have collected from you to enable us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
   11. **Disclosure of Your Information.**
     * We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. We may disclose personal information that we collect or you provide as described in this privacy policy: 
@@ -91,8 +91,8 @@ Please read this policy carefully to understand our policies and practices regar
 
   12. **Choices About How We Use and Disclose Your Information.**
     * We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: 
-      * Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s [Site](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-      * Disclosure of Your Information for Third-Party Advertising. If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by sending us an email stating your request to help@dancarlin.com
+      * Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s [Site](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+      * Disclosure of Your Information for Third-Party Advertising. If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by sending us an email stating your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
       * Promotional Offers from the Company. If you do not wish to have your email address or contact information used by the Company to promote our own or third parties’ products or services, you can opt-out by sending us an email stating your request to www.dancarlin.com If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions.
 
 
@@ -101,7 +101,7 @@ Please read this policy carefully to understand our policies and practices regar
 
   13. **Accessing and Correcting Your Information**
     * You can review and change your personal information by logging into this Site and visiting this privacy policy.
-    * You may also send us an email at help@dancarlin.com to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+    * You may also send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
     * If you delete your User Contributions from this Site, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Site users. Proper access and use of information provided on this Site, including User Contributions, is governed by our privacy policy.
   14. **Data Security**
     * We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. All information you provide to us is stored on our servers behind firewalls. Any payment transactions and all collected data is encrypted using SSL technology.
@@ -118,4 +118,4 @@ Please read this policy carefully to understand our policies and practices regar
 
 Eugene, OR 97401
 
-help@dancarlin.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
