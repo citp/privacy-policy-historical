@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easyfunnelmaker.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925014949id_/http%3A//easyfunnelmaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyfunnelmaker.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121075828id_/http%3A//easyfunnelmaker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Easy Funnel Maker 2.0
+# Privacy Policy – Easy Funnel Maker 2.0
 
 The privacy of our visitors is of extreme importance to us. This privacy policy document is designed to advise you about how we collect, use, and protect the Personally Identifiable Information (hereinafter defined) that you provide to us through our website. By visiting this website, you are accepting the practices described in this Privacy Policy. 
 
