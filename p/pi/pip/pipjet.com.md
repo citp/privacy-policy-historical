@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pipjet.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511050327id_/http%3A//pipjet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipjet.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121111708id_/http%3A//pipjet.com/privacy.html) for the most accurate reproduction.*
 
 # PipJet - Privacy
 
@@ -55,13 +55,13 @@ http://www.pipjet.com’s web pages may contain electronic images known as Web b
 Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or e-mail communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or e-mails and compiles anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and e-mails bring you to our website and how you use the site. The owners and publishers of http://www.pipjet.com prohibit Web beacons from being used to collect or access your personal information.
 
 **5\. Accessing Web Account Information**  
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting our support attendants via email: support@pipjet.com
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting our support attendants via email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **6\. Changes to this Statement**  
 The owners and publishers of http://www.pipjet.com have the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
 **7\. Contacting Us**  
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us via email: support@pipjet.com
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us via email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 CFTC RULE 4.41 - HYPOTHETICAL OR SIMULATED PERFORMANCE RESULTS HAVE CERTAIN LIMITATIONS. UNLIKE AN ACTUAL PERFORMANCE RECORD, SIMULATED RESULTS DO NOT REPRESENT ACTUAL TRADING. ALSO, SINCE THE TRADES HAVE NOT BEEN EXECUTED, THE RESULTS MAY HAVE UNDER-OR-OVER COMPENSATED FOR THE IMPACT, IF ANY, OF CERTAIN MARKET FACTORS, SUCH AS LACK OF LIQUIDITY. SIMULATED TRADING PROGRAMS IN GENERAL ARE ALSO SUBJECT TO THE FACT THAT THEY ARE DESIGNED WITH THE BENEFIT OF HINDSIGHT. NO REPRESENTATION IS BEING MADE THAT ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFIT OR LOSSES SIMILAR TO THOSE SHOWN. 
 
