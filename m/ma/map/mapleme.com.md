@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapleme.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523163447id_/http%3A//www.mapleme.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapleme.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121184521id_/http%3A//www.mapleme.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Mapleme.com
 
