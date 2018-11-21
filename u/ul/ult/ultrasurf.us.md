@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the ultrasurf.us privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623094608id_/http%3A//www.ultrasurf.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrasurf.us privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121062527id_/http%3A//ultrasurf.us/privacy) for the most accurate reproduction.*
 
 # About Ultrasurf and Ultrareach - Internet Freedom, Privacy, and Security
-
-Protect your privacy online with anonymous surfing and browsing.Ultrasurf hides your IP address, clears browsing history, cookies, and more.
-
-Using strong end-to-end encryption to protect your data transfer from being seen by third party.
-
-Bypass internet censorship to browse the internet freely.
 
 This document was last updated on September 1, 2017.
 
