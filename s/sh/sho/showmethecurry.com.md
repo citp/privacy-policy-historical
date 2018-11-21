@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showmethecurry.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528070040id_/http%3A//showmethecurry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmethecurry.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121195719id_/http%3A//showmethecurry.com/privacy-policy) for the most accurate reproduction.*
 
 # Indian Recipes, Cooking Videos, Healthy Recipes, Vegetarian Recipes, North and South Indian Recipies - ShowMeTheCurry.com
 
@@ -23,5 +23,3 @@ ShowMeTheCurry is not just for the amateur cook or newbie to Indian cooking. Bro
 © Copyright 2011 - Reproduction of the contents of this website without permission, in whole or in part is strictly prohibited. 
 
 * * *
-
-[](http://www.ignitesocialmedia.com/tools/follow-me/)
