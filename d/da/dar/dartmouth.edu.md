@@ -1,60 +1,91 @@
-> *The following text is extracted and transformed from the dartmouth.edu privacy policy that was archived on 2018-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180305140125id_/https%3A//home.dartmouth.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dartmouth.edu privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121171036id_/https%3A//home.dartmouth.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | Dartmouth College
 
-### Children Under the Age of 13
+## INFORMATION YOU PROVIDE
 
-This website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on this website. Dartmouth College does not knowingly collect personal information from children under 13. If you are under 13, please do not provide any information on this website or on or through any of its features/register on the website, make any purchases through the website, use any of the interactive or public comment features of this website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at the address listed below.
+The information that Dartmouth College collects on or through this website may include information that you provide by filling in forms on our website. This includes information provided at the time of registering to use our website, posting material, or requesting further information. We may also ask you for information when you report a problem with our website. We may also collect records and copies of your correspondence (including email addresses), if you contact us, your responses to surveys that we might ask you to complete, and details of transactions you carry out through our website. By using the Dartmouth College website, you consent to the collection and use of your data as described herein. If you do not agree with the terms set out herein, please do not visit this website.
 
-### Information You Provide
+## INFORMATION WE GATHER
 
-The information that Dartmouth College collects on or through this website may include information that you provide by filling in forms on our website. This includes information provided at the time of registering to use our website, posting material, or requesting further information. We may also ask you for information when you report a problem with our website. We may also collect records and copies of your correspondence (including email addresses), if you contact us, your responses to surveys that we might ask you to complete, and details of transactions you carry out through our website.
+### Web Server Logs
 
-### Information We Gather
+Information about your use of this website is monitored by the web server and recorded in log files. We use the log files to produce usage statistics that inform our web development efforts, and also to monitor server performance. The data we collect includes your IP address.
 
-#### Web Server Logs
+### Cookies and Web Beacons
 
-Information about your use of this website is monitored by the web server and recorded in log files. We   use the log files to produce usage statistics that inform our web development efforts, and also to monitor server performance. The data we collect includes your IP address.
-
-#### Cookies
-
-We may store small amounts of information on your computer through the use of “Cookies” (text files placed on your computer). Our website does not require that you grant us the right to store Cookies on your computer. If you do not wish to grant us this right, consult the documentation provided with your web browser to turn off the appropriate “accept cookies” feature in your browser. The settings on Cookies contained in your browser constitute a grant of permission (or lack thereof) for us to store information on your computer. We follow all industry standards in constructing and storing Cookies within your browser. Thus it is your browser vendor's responsibility to provide for secure and appropriate Cookie storage mechanisms.
-
-#### Web Beacons
+We may store small amounts of information on your computer through the use of “Cookies” (text files placed on your computer). Our website does not require that you grant us the right to store Cookies on your computer. If you do not wish to grant us this right, consult the documentation provided with your web browser to turn off the appropriate “accept cookies” feature in your browser; please note that if you do this you may not be able to use the full functionality of this website.
 
 “Web Beacons” are graphic image files embedded in a web page typically used to monitor activity on a web page and send back to its home server (which can belong to the host site, a network advertiser, or some other third party) information from your browser, such as the IP address, the URL of the page on which the Web Beacon is located, the type of browser that is accessing the site, and the identification number of any Cookies on your computer previously placed by that server.
 
-We do not collect personal information automatically, but we may associate the information described here with personal information about you that we collect from other sources or that you provide to us.  In addition, third parties under contract with Dartmouth College may use Cookies and/or Web Beacons to collect information about your usage of this website (see Disclosures to Our Contractors, below). We do not currently respond to “Do Not Track” signals as there is no common set of standards for responding to them.
+We do not collect personal information automatically, but we may associate the information described here with personal information about you that we collect from other sources or that you provide to us.  In addition, third parties under contract with Dartmouth College may use Cookies and/or Web Beacons to collect information about your usage of this website (see _Information We Share_ , below). We do not currently respond to “Do Not Track” signals as there is no common set of standards for responding to them.
 
-### Information We Share
+## INFORMATION WE SHARE
 
 Except as set out in this Privacy Policy, Dartmouth College will never share personally identifiable information about you unless one or more of the following conditions apply:
 
-—We have your consent to share the information
+Consent: We have your consent to share the information.
 
-—In response to subpoenas, court orders,  or legal  processes
+Required by law: In response to subpoenas, court orders, or other legal processes.
 
-#### Disclosures to Our Contractors
+### Disclosures to our contractors or service providers
 
-Our contractors or service providers sometimes have limited access to the information you provide to us and automatically collected data about your usage of this website in the course of providing products or services to us. These contractors include vendors and suppliers that provide us with technology, services, data analysis, research, advertising, and marketing assistance and/or content in connection with our operation and maintenance of this website.
+Our contractors or service providers sometimes have limited access to the information you provide to us and automatically collected data about your usage of this website in the course of providing products or services to us. These contractors include vendors and suppliers that provide us with technology, services, data analysis, research, advertising, and marketing assistance and/or content in connection with our operation and maintenance of this website. 
 
-In particular, some sections of this website use Google Analytics or other web analytics services which use Cookies and Web Beacons to help the website analyze how users use the site. The information generated by the Cookie or Web Beacon about your use of the website (including your IP address) will be transmitted to and stored by the third party providers of such services on servers which may be located outside of Dartmouth College.  Third party providers may use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage, and may also transfer this information to third parties where required to do so by law, or where such third parties process the information on such service provider’s behalf. Our service providers will not associate your IP address with any other data that they hold outside of the provision of services to Dartmouth College. You may refuse the use of Cookies by selecting the appropriate settings on your browser; please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by third party service providers to Dartmouth in the manner and for the purposes set out above.
+Some sections of this website use Google Analytics or other web analytics services which use Cookies and Web Beacons to help the website analyze how users use the site. The information generated by the Cookie or Web Beacon about your use of the website (including your IP address) will be transmitted to and stored by the third party providers of such services on servers which may be located outside of Dartmouth College.  Third party providers may use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage, and may also transfer this information to third parties where required to do so by law, or where such third parties process the information on such service provider’s behalf. Our service providers will not associate your IP address with any other data that they hold outside of the provision of services to Dartmouth College. By using this website, you consent to the processing of data about you by third party service providers to Dartmouth in the manner and for the purposes set out above.
 
-### External Links
+## SECURITY, RETENTION AND DELETION
+
+Dartmouth College maintains appropriate technical and organizational security measures to safeguard information submitted through this website.  These measures may include, as applicable, the storage of information on secure servers and computers, and the encrypted storage of personal data in transit and at rest. More information about the security measures applicable to particular types of data is available in the [Dartmouth Information Security Policy](https://tech.dartmouth.edu/itc/services-support/help-yourself/knowledge-base/dartmouth-information-security-policy).
+
+Dartmouth will retain information collected on or submitted by visitors to this website in accordance with its records management policies. More information about how Dartmouth College retains and disposes of records is available on the [Dartmouth Records Management](https://www.dartmouth.edu/~library/recmgmt/) website.
+
+## INFORMATION FOR DATA SUBJECTS IN THE EUROPEAN UNION
+
+In accordance with Article 4 of the EU General Data Protection Regulation 2016/679 (known as the “GDPR”), a “controller” is "the natural or legal person, public authority, agency or any other body which, alone or jointly with others, determines the purposes and means of the processing of personal data," “personal data” is defined in part as “any information relating to an identified or identifiable natural person (‘data subject’)”. In accordance with the GDPR, unless otherwise stated in a privacy statement specific to a particular department or division, Dartmouth College will serve as the controller for the purposes of personal data processed through this website.
+
+### Lawful basis for processing
+
+Dartmouth College processes personal data of visitors to this website who are located in the EU for various purposes, and the lawful basis for each purpose may be different. The lawful bases that Dartmouth College will rely on will most often be the following:
+
+— **Contractual necessity** \- On many occasions Dartmouth College will process your personal data to enable it to meet its commitments to you. This may include the performance of automated decision making necessary for the College’s provision of services to you.
+
+— **Processing necessary for the purposes of the legitimate interest** – Dartmouth College has a broad legitimate interest in activities that connect to its mission, “to educate the most promising students and prepare them for a lifetime of learning and of responsible leadership, through a faculty dedicated to teaching and the creation of knowledge.” It may pursue those interests subject to the fundamental rights and freedoms of data subjects.
+
+— **Consent** – In accordance with applicable law, we may seek your explicit consent to process personal data collected on this website or volunteered by you. Any consent will be voluntary; however, if you do not grant the requested consent to the processing of your personal data, the use of certain features of this website may not be possible. This may include the processing of certain “special categories” of personal data (unless one or more exceptions to the need for consent applies).
+
+Please see the privacy statements posted on individual department or division websites for more information about the lawful basis on with Dartmouth College will process specific types of personal data.
+
+### International Transfers of Personal Data Out of the EU
+
+As an American institution of higher education, the processing of almost all personal data by Dartmouth College will take place in the United States. Visitors to this website acknowledge that personal data provided or collected through this website will be transferred to the United States, and by continuing to use this website, you consent to this transfer.
+
+### Rights of Data Subjects
+
+Data subjects located in the EU may have certain rights in connection with the processing of personal data under the GDPR. For more information about how data subjects may exercise their rights under the GDPR, or on Dartmouth’s representative in the EU, please contact [GDPR@dartmouth.edu](mailto:GDPR@dartmouth.edu).
+
+EU Residents Under the Age of 16
+
+Dartmouth College does not knowingly collect personal data from EU residents who are under 16. If you are an EU resident under 16, please do not provide any personal data on this website or on or through any of its features. If we learn we have collected or received personal data from an EU resident under the age of 16 without verification of parental consent where required by applicable law, we will delete that information. If you believe that Dartmouth College may have personal data from or about a child under 16 located in the EU, please contact us at [GDPR@dartmouth.edu](mailto:GDPR@dartmouth.edu).
+
+## EXTERNAL LINKS
 
 Some Dartmouth College websites may contain links to external websites not owned by, or officially affiliated with, Dartmouth College in any way. Dartmouth College is not responsible for the privacy practices or the content of such websites.
 
-### Contacting Dartmouth College
-
-In accordance with Chapter 1, Article 2(d) of the European Union's Data Protection Directive (95/46/EC), Data Controller means "the natural or legal person, public authority, agency or any other body which alone or jointly with others determines the purposes and means of the processing of personal data." In accordance with this EU Data Protection Directive, Dartmouth College will serve as the Data Controller of this website.
+## CONTACTING DARTMOUTH COLLEGE
 
 If you have any questions about this Privacy Policy, please contact:
 
 Office of the General Counsel  
 Dartmouth College  
-63 South Main Street, Suite 301 Hanover, New Hampshire 03755  
-Telephone:  (603) 646­2444  
-Fax:  (603) 646­2447  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#703f16161913155e1f165e37151e1502111c5e331f051e03151c30341102041d1f0504185e151405)
+63 South Main Street, Suite 301  
+Hanover, New Hampshire 03755  
+Telephone:  (603) 646­-2444  
+Fax:  (603) 646­-2447  
+[Office.of.General.Counsel@Dartmouth.edu](mailto:Office.of.General.Counsel@Dartmouth.edu)
 
-**Effective Date: December 1, 2016**
+## CHANGES TO THIS POLICY
+
+We may update or change this Privacy Policy at any time. Your continued use of this site after any such change indicates your acceptance of such changes. The current version in effect will be available on our website at <https://home.dartmouth.edu/privacy>.
+
+ **Effective Date: May 25, 2018**
