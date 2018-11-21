@@ -1,81 +1,192 @@
-> *The following text is extracted and transformed from the fxempire.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628012421id_/https%3A//www.fxempire.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxempire.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121210740id_/https%3A//www.fxempire.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Revised: June 01, 2014
+Last updated: August 15, 2018
 
-FX Empire Inc. (“ **FX Empire** “, “ **we** ” or “ **us** “) respects the privacy of the users of its website at the address [https://www.fxempire.com](https://www.fxempire.com/) (the “ **Site** “) (“ **User** ” or “ **you** ”) and is committed to protect the personal information that its Users share with it. We believe that you have a right to know our practices regarding the information we may collect and use when you use our Site and our Service (as such terms are defined in our [Terms of use](https://www.fxempire.com/footer/terms-of-use) at (the “ **TOU** “) available on the Site.  
-Capitalized terms which are not defined herein, shall have the meaning ascribed to them in the TOU, which this Privacy Policy is incorporated thereto by reference.
+## Our Commitment to You
 
-  1. Your Consent (PLEASE READ CAREFULLY!) 
+Empire Media Network Ltd. and its affiliated companies (“ **Empire Media** ”, “ **us** ” or “ **we** “) are dedicated to providing its users with the highest level of transparency and control over the use of their data. In order for us to provide you with our services, we are required to collect and process certain personal information about you and your activity. 
 
-BY ENTERING TO, CONNECTING TO, ACCESSING OR USING THE SITE AND/OR SERVICE, AND/OR BY GRANTING US ACCESS TO THE DATA (AS SUCH TERM IS DEFINED IN THE TOU) YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY (THE “ **PRIVACY POLICY** “), INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT USE THE SITE AND/OR SERVICE AND/OR DO NOT GRANT US ACCESS TO THE DATA.
+By entrusting us with your information, we would like to assure you of our commitment to keep such information private. We have taken measurable steps to protect the confidentiality, security, and integrity of this Information. We encourage you to review the following information carefully.
 
-  2. Which information we may collect on our Users? 
+## Contents
 
-We may collect two types of data and information from our Users:
-
-    1. The first type of information is non-identifiable and anonymous information (“ **Non-personal Information** ”). **We are not aware of the identity of the User from which we have collected Non-personal Information.** Non-Personal Information is any unconcealed information which is available to us while Users are using the Site and/or Service. Non-personal Information which is being gathered consists of technical information and behavioral information, including, but not limited to, the User’s operating system, type of browser, screen resolution, Flash version, the User’s ‘click-stream’ on the Site, the period of time the User visited the Site, etc.
-    2. The second type of information is individually identifiable information (“ **Personal Information** ”). **This information may identify an individual or may be of a private and/or sensitive nature.** Personal Information which is being gathered consists of any personal details provided consciously and voluntarily by the User.
-    3. Users who are only visiting the Site do not need to provide any Personal Information.
-    4. Users who are interested in receiving our newsletter should provide details via the registration form of the Site, i.e., e-mail address. The User may also provide, at his/her sole discretion, his/her age.
-    5. The User’s IP address.
-
-**We will not collect any Personal Information from you without your approval which is obtained, inter alia, through Your active acceptance to the TOU and the Privacy Policy.  
-Your Data is used in order to provide the Service provided in the Site. When we do that, we only use the non-identifiable information relating to your financial Data and not your identifiable information.**
-
-  3. How Do We Collect Information on Our Users? 
-
-There are two main methods we use:
-
-    1. **We collect Non-personal Information through your use of the Site and/or Service.** In other words, when you are using the Site and/or Service we are aware of it and may gather, collect and record the information relating to such usage, either independently or through the help of third-party services as detailed below.
-    2. **We collect Personal Information which you provide us voluntarily.** We collect Personal Information required to operate the Service when you to our newsletter by completing the registration form.
-
-  4. What are the Purposes of the Collection of Information? 
-
-Non-personal Information is collected in order to: Personal Information is collected in order to:
-
-    * Operate the Service (i.e. allow premium subscription users to follow the portfolios displayed in the site).
-    * Be able to contact Users for the purpose of providing them with technical assistance, reminders and other related information to the Service and collect feedback regarding the Service.
-    * Reply to your online queries made through the Site.
-    * Determine general geolocation information (i.e, country).
-
-  5. Sharing Information with Third Parties 
-
-FX Empire will not share any Personal Information it collects with any third party. Notwithstanding, FX Empire may disclose Personal Information in the following cases: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce this Privacy Policy and/or the TOU, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to User’s support requests; (e) respond to claims that any content available on the Site violates the rights of third-parties; (f) to respond to claims that contact information (e.g. name, e-mail address, etc.) of a third-party has been posted or transmitted without their consent or as a form of harassment; (g) to protect the rights, property, or personal safety of FX Empire, its Users, or the general public; (h) when FX Empire is undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of its assets; (i) to collect, hold and/or manage your Personal Information through FX Empire’s authorized third party service providers, as reasonable for business purposes, which may be located in a country that does not have the same data protection laws as your jurisdiction; (j) **to collect your personal Data through the means of a third party service provider who will use your log-in credentials for such purpose** ; or (k) pursuant to your explicit approval prior to the disclosure.  
-For avoidance of doubt, FX Empire may transfer and disclose Non-personal Information to third parties at its own discretion.
-
-  6. Modification or Deletion of Personal Information 
-
-If for any reason you wish to modify or delete your Personal Information you may do so on the Site or by sending us an email to: [info@fxempire.com](mailto:info@fxempire.com), and we will make reasonable efforts to delete any such Personal Information pursuant to any applicable privacy laws. Note that unless you instruct us otherwise we will retain your Personal Information for a period of ninety (90) days.
-
-_However, please note that although your Account and Personal Information related thereto may be removed from our databases, FX Empire will retain the anonymous information contained in the Data you provided, and such information will continue to be used by us for the purpose of operating the Service._
-
-  7. Cookies & Local Storage 
-
-When you access or use the Service, Company may use industry-wide technologies such as “cookies” or similar technologies, which stores certain information on your computer (“Local Storage”) and which will allow us to enable automatic activation of certain features, and make your Service experience much more convenient and effortless. The cookies used by the Service are created per session and registration does not include any information about you, other than your session key (removed as your session ends (usually after 24 hours) and the ability to login again quickly (removed after two years). It is easy to prohibit the Local Storage. Most browsers will allow you to erase cookies from your computer’s hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. However, if you block or erase cookies your online experience may be limited.
-
-  8. Direct Marketing & Advertisements 
-
-You hereby agree that we may use your contact details for the purpose of informing you regarding products and services (offered by FX Empire and/or by third parties) which may interest you, and to send to you advertisements and other marketing material, transmitted to the e-mail address you have provided.  
-You may withdraw your consent via sending a written notice to FX Empire by email to the following address: [support@fxempire.com](mailto:support@fxempire.com) [Please Confirm] or on the same manner as the advertising was transmitted to you (e.g. via phone text message). It is clarified that we are not responsible for the content of said advertisements and the products delivered or services rendered thereby by third parties, and you irrevocably and unconditionally agree that we shall not be held responsible or liable in connection thereof.  
-We accept advertisements from third party advertisers. These advertisers are carefully selected to provide information about products and services that we think may be of interest to our Users. Note that if you click on any of these advertisements, these advertisers may use cookies and other web-tracking technologies to collect non-personal and/or personal information about you. We recommend that you review the terms of use and privacy policy for any advertiser with which you are interacting before doing so. Their privacy policy, not ours, will apply to any of those interactions.
-
-  9. Security 
-
-We take a great care in implementing and maintaining the security of the FX Empire Site and our Users’ Personal Information. fx Empire employs industry standard procedures to ensure the safety of its Users’ Personal Information, and prevent unauthorized use of any such information. However, we do not guarantee that unauthorized access will never occur.
-
-  10. Third Party Software/Service 
-
-While using the Site and/or Service we may be using third party software and/or service, in order to collect and/or process the information detailed herein such services may include Google analytics which privacy policy is available at: google.com.
-
-  11. Changes to the Privacy Policy 
-
-The terms of this Privacy Policy will govern the use of the Site and Service and any information collected therein. FX Empire reserves the right to change this policy at any time, so please re-visit this page frequently. We will provide notice of substantial changes of this policy on the homepage of the Site and/or we will send you an e-mail regarding such changes to the e-mail address that you provided in the registration form. Such substantial changes will take effect seven (7) days after such notice was provided on our website or sent by email. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and your continued use of the Site and/or Services after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
-
-  12. Have any Questions? 
-
-If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email or otherwise contact us to the following address and we will make an effort to reply within a reasonable time frame:[info@fxempire.com](mailto:info@fxempire.com)
+  * _Grounds for data collection_
+  * _How do we receive data about you? _
+  * _What type of data do we collect?_
+  * _Tracking Technologies_
+  * _How do we use the data we collect?_
+  * _With whom do we share your Personal Data?_
+  * _How do we protect your information?_
+  * _Retention_
+  * _EU User Rights_
+  * _Transfer of data outside the EU_
+  * _How to contact us?_
+  * _Our Policy Toward Children_
+  * _Updates to this Policy_
 
 
 
+## Grounds for data collection
+
+Processing of your “ **Personal Data** ” (meaning any information which may potentially allow your identification with reasonable means) is necessary for the performance of our contractual obligations towards you and providing you with our services and the operation of our websites (hereinafter the “ **Websites** ” and “ **Service** “), to protect our legitimate interests and for compliance with legal and regulatory obligations to which we are subject.
+
+When you use our Service, you consent to the collection, storage, use, disclosure and other uses of your Personal Data as described in this Privacy Policy.
+
+## How do we receive data about you?
+
+We receive your Personal Data from various sources:
+
+  1. Registration information – When you voluntarily provide us with your personal details in order to create an account or register with our Service.
+  2. When you communicate with us – For example when you send us an email, we collect the Personal Data you provided us with.
+  3. Technical information – When operating our service, we use various technological tracking tools to collect information regarding your use of the Website. Along with our partners, we may use tracking technologies such as cookies, JavaScript, beacons and Local Storage, which are used to store content information and preferences. You can learn more about the tracking tools we use by reading the “tracking technologies” section below.
+  4. Third party information – We may receive your personal data from third-party providers who help us with the provision and maintenance of our Services, such as social networks (for example your name and username, when you register or log-in to our Service), traffic analytics vendors, fraud prevention agencies and others.
+
+
+
+## What type of data do we collect?
+
+### Personal Data
+
+In the course of using the Service, we may ask you to provide us with certain Personal Data to provide and improve the Service, to contact or identify you, to enable you to access certain parts of the Service, and as otherwise indicated in this Policy. We collect the following Personal Data about you:
+
+  * **Registration information** – in order to register and enjoy the full functionality of our Service we may collect the following Personal Data:
+    * When you register for our service we will collect your email address, name, and phone number. 
+    * You may also register to our newsletter only, in which case we will collect your email address.
+    * If you connect your account to a social network (for example: if you log in via Facebook or Google+), we may also receive certain details, such as your profile name and profile photo and other social account details. 
+
+
+
+Please note that although registration is not mandatory, unregistered users may have limited usage of the Service.
+
+  * **When using our Service** – our server will collect your IP-address and unique device identifiers. 
+
+
+
+### Non-Personal Data
+
+We also collect data about the use of our Service and the characteristics and activities of users, in order to operate it and improve it. We may collect the following non-Personal Data:
+
+  * **Technical information** – such as aggregated usage information, e.g. your approximate geolocation, page visits, clicks, the browser you are using and its display settings, session start/stop time, time zone, network connection type (e.g., Wi-Fi, cellular), and cookie information etc’. 
+  * **Information from third parties** – this category includes information we receive from our business partners. This may include pseudonymous advertiser identifiers or aggregated analytical data. This information is also used to enhance data points about a particular unique browser or device.
+
+
+
+If we combine Personal Data with non-Personal Data, the combined data will be treated as Personal Data. Further Personal Data will only be stored and processed if you voluntarily provide it to us, e.g. through a contact form.
+
+### Tracking Technologies
+
+When you visit or access our Services we use (and authorize 3rd parties to use) pixels, cookies, beacons and other technologies. Those allow us to automatically collect information about you, your device and your online behavior, in order to enhance your navigation in our Services, improve our Web site’s performance, perform analytics and customize your experience on it. In addition, we may merge information we have with information collected through these tracking technologies with information we may obtain from other sources and, as a result, such information may become Personal Data.
+
+We also use a tool called “Google Analytics” to collect information about your use of the Service. Google Analytics collects information such as how often Users access the Service, what pages they visit when they do so, etc. We use the information we get from Google Analytics only to improve our Service. Google Analytics collects the IP address assigned to you on the date you visit the Service, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Analytics [Terms of Use ](http://www.google.com/analytics/terms/us.html)and the [Google Privacy Policy](https://policies.google.com/privacy).
+
+#### What are cookies?
+
+Cookies are small text files (composed only of letters and numbers) that a web server places on your computer or mobile device when you visit a webpage. When used, the cookie can help make our Services more user-friendly, for example by remembering your language preferences and settings. You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+Cookies are widely used in order to make websites work in an efficient way. Cookies remember your preferences and make the interaction between you and the Service smoother and more efficient. 
+
+#### How to manage your cookie settings?
+
+There are various ways in which you can manage and control your cookie settings. Please remember that, by deleting or blocking cookies, some of the features of the Services may not work properly or as effectively.
+
+  * **Turning off cookies via your web browser** **  
+** Most web browsers will provide you with some general information about cookies, enable you to see what cookies are stored on your device, allow you to delete them all or on an individual basis, and enable you to block or allow cookies for all websites or individually selected websites. You can also normally turn off third-party cookies separately. Please note that the settings offered by a browser or device often only apply to that particular browser or device.
+  * Information about cookies is usually found in the “Help” section of the web browser. Below are some links to some commonly used web browsers:
+    * [_Google Chrome_](https://support.google.com/chrome/answer/95647?hl=en)
+    * _[Internet Explorer](https://support.microsoft.com/en-us/kb/260971)_
+    * _[Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)_
+    * _[Safari (Desktop)](https://support.apple.com/kb/PH5042?locale=en_US)_
+    * _[Safari (Mobile)](https://support.apple.com/en-us/HT201265)_
+    * _[Android Browser](http://support.google.com/ics/nexus/bin/answer.py?hl=en&answer=2425067)_
+    * _[Opera](http://www.opera.com/help)_
+    * _[Opera Mobile](http://www.opera.com/help/mobile/android#privacy)_
+
+
+
+For other browsers, please consult the documentation that your browser manufacturer provides.
+
+  * **Turning off third-party cookies**  
+You can turn off certain third party targeting/advertising cookies by visiting the following link: [Network Advertising Initiative](http://www.networkadvertising.org/choices/).
+  * **Other helpful resources**
+
+
+
+To learn more about advertisers’ use of cookies the following links may be helpful:
+
+  *     * [_European Interactive Digital Advertising Alliance (EU)_](http://www.youronlinechoices.eu/)
+    * _[Internet Advertising Bureau (US)](http://www.iab.net/)_
+    * _[Internet Advertising Bureau (EU)](http://www.iabeurope.eu/)_
+
+
+
+## How do we use the data we collect?
+
+  * **Provision of service** _–_ for the provision and improvement of our Services, including for support and to respond to your queries.
+  * **Service announcements** – we will use your Personal Data to communicate with you and to keep you informed of our latest updates to our Services and offer you service offers.
+  * **Analytics, surveys, and research** – from time to time, we may conduct surveys or test features, and analyze the data we have to develop, evaluate and improve these features, all in order to improve our Services and think of new and exciting features for our users.
+  * **Marketing and advertising** – We may use your Personal Data in the following ways: we or our partners may send you promotional material concerning our Service, or our partners’ services, which we or our partners, believe might interest you; we may also display certain adverts on our Service, which we believe will be relevant for you. We make our best efforts to make sure you see only relevant ads and receive relevant communications from us, including but not limited to, by building an automated profile based on your Personal Data. 
+    * Opt-out of receiving marketing materials – If you do not want us to use or share your Personal Data for marketing purposes, you may opt-out in accordance with this “Opt-out” section. Please note that even if you opt-out, we may still use and share your Personal Data with third parties for non-marketing purposes (for example to fulfill your requests, communicate with you and respond to your inquiries, etc.). In such cases, the companies with whom we share your Personal Data are authorized to use your Personal Data only as necessary to provide these non-marketing services. 
+
+
+
+You may choose not to receive our promotional or marketing emails by clicking on the “unsubscribe” link in the emails that you receive from us. Please note that even if you unsubscribe, we may continue to send you service-related updates and notifications, or reply to your queries and feedback you provide us. You may also object to the use of your Personal Data for advertising purposes by disabling your cookies, as described in the Tracking Technologies section above. Please note we have no control over our partners’ communications, in order to unsubscribe from our partners’ communications please contact the relevant partner, or use the “unsubscribe” link in its emails.
+
+  * **Protecting our interests** _–_ we may use your Personal Data when we believe it’s necessary in order to take precautions against liabilities, investigate and defend ourselves against any third party claims or allegations, investigate and protect ourselves from fraud, protect the security or integrity of our services and protect the rights and property of Empire Media, its users and/or partners. 
+  * **Enforcing of policies** – we may use your Personal Data in order to enforce our policies, including but limited to our [Terms](https://www.fxempire.com/footer/terms-of-use).
+  * **Compliance with legal and regulatory requirements** – we may use your Personal Data to investigate violations, and as required by law, regulation or other governmental authority, or to comply with a subpoena or similar legal process.
+
+
+  * **Internal concerned parties** – we share your information with companies in our group, as well as our employees, in order to provide you with our services.
+  * **Business partners** – we share your information with business partners, such as storage and analytics providers and advertisers, who help us provide you with our service. These third parties may have access to your Personal Data so that they may perform these tasks on our behalf, but they are obligated to comply with this Privacy Policy and may not use your Personal Data for any other purpose. We may also share your personal data with business partners such as marketers whom we believe can offer you relevant or complementary products and services. You may object to the transfer of your personal data to such business partners at any time, or unsubscribe from their communications, as detailed in the “Marketing and advertising” section above.
+  * **Compliance with laws and law enforcement entities** – we cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any data about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect our or a third party’s property and rights, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable. We also may be required to disclose an individual’s Personal Data in response to a lawful request by public authorities, including meeting national security or law enforcement requirements.
+  * **Merger and acquisitions** – we may share your data if we enter into a business transaction such as a merger, acquisition, reorganization, bankruptcy, or sale of some or all of our assets. Any party that acquires our assets as part of such a transaction may continue to use your data in accordance with the terms of this Privacy Policy.
+
+
+
+## How do we protect your information?
+
+We have implemented administrative, technical, and physical safeguards to help prevent unauthorized access, use, or disclosure of your Personal Data. Your data is stored on secure servers and isn’t publicly available. We limit access to your information only to those employees or partners on a “need to know” basis, in order to enable the carrying out of the agreement between us. 
+
+While we seek to protect your information to ensure that it is kept confidential, we cannot absolutely guarantee its security. You need to help us prevent unauthorized access to your account by protecting your password appropriately and limiting access to your account. You will be solely responsible for keeping your password confidential and for all use of your password and your account, including any unauthorized use. You should also be aware that there is always some risk involved in transmitting information over the internet. While we strive to protect your Personal Data, we cannot ensure or warrant the security and privacy of your Personal Data or other content you transmit using the service, and you do so at your own risk. 
+
+### Retention
+
+We will retain your Personal Data for as long as necessary to provide our services, and as necessary to comply with our legal obligations, resolve disputes, and enforce our policies. Retention periods will be determined to take into account the type of information that is collected and the purpose for which it is collected, bearing in mind the requirements applicable to the situation and the need to destroy outdated, unused information at the earliest reasonable time. Under applicable regulations, we will keep records containing client personal data, trading information, account opening documents, communications and anything else as required by applicable laws and regulations. 
+
+### EU User Rights
+
+You may request to: 
+
+  1. Receive confirmation as to whether or not Personal Data concerning you is being processed, and access your stored Personal Data, together with supplementary information. 
+  2. Receive a copy of Personal Data you directly volunteer to us in a structured, commonly used and machine-readable format. 
+  3. Request rectification of your Personal Data that is in our control.
+  4. Request erasure of your Personal Data. 
+  5. Object to the processing of Personal Data by us. 
+  6. Request to restrict processing of your Personal Data by us.
+  7. Lodge a complaint with a supervisory authority.
+
+
+
+However, please note that these rights pertain to EU residents only, are not absolute, and may be subject to our own legitimate interests and regulatory requirements. Users outside the EU are welcome to contact us for any questions or requests at the details below.
+
+### Transfer of data outside the EU
+
+EU users – please note that some data recipients may be located outside the EU. In such cases, we will transfer your personal data only to such countries as approved by the European Commission as providing an adequate level of data protection or enter into legal agreements ensuring an adequate level of data protection.
+
+If you wish to exercise any of the aforementioned rights or receive more information, please contact us using the details provided below:
+
+  * Empire Media Network Ltd.
+  * Email: info@fxempire.com
+  * 28, Ehad Ha’am St. Tel-Aviv, Israel
+
+
+
+## Our Policy Toward Children
+
+We understand the importance of protecting children’s privacy, especially in an online environment. The Site and Services are not designed for or directed at children under the age of 16 years old (“ **Minors** ”). We do not knowingly collect Personal Data from Minors. If a parent or guardian becomes aware that his or her child has provided us with Personal Data, he or she should contact us using the details provided above.
+
+## Updates to this Policy
+
+This Privacy Policy is subject to changes from time to time, at our sole discretion. The most current version will always be posted on our website (as reflected in the “Last Updated” heading). You are advised to check for updates regularly. By continuing to access or use our Services after any revisions become effective, you agree to be bound by the updated Privacy Policy. 
