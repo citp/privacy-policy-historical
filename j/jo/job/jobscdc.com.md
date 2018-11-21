@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobscdc.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522083309id_/http%3A//www.jobscdc.com/2011/06/jobscdc-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscdc.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121181301id_/http%3A//www.jobscdc.com/2011/06/jobscdc-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - JobsCDC - Lowongan Kerja Terbaru Mei 2018 | BUMN CPNS 2018
+# Privacy Policy - JobsCDC - Lowongan Kerja Terbaru November 2018 | BUMN CPNS 2018
 
 **Advertisements**
 
