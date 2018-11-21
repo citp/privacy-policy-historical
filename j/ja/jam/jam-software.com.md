@@ -1,109 +1,200 @@
-> *The following text is extracted and transformed from the jam-software.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308225357id_/https%3A//www.jam-software.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jam-software.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121201108id_/https%3A//www.jam-software.com/company/privacy.shtml) for the most accurate reproduction.*
 
 # JAM Software - Privacy Policy
 
-JAM Software GmbH is concerned about customer privacy. We will strictly adhere to the rules of privacy and data protection as stated in the German federal law on data protection (Bundesdatenschutzgesetz).
+## 1\. An overview of data protection
 
-### Declaration of Consent: Newsletter and Additional Information
+### General
 
-If you only consented to receiving update notifications, JAM Software GmbH will inform you about free updates. You will receive neither additional emails with information about other software products nor the newsletter of JAM Software GmbH.
+The following gives a simple overview of what happens to your personal information when you visit our website. Personal information is any data with which you could be personally identified. Detailed information on the subject of data protection can be found in our privacy policy found below. 
 
-If you register for our newsletter, you consent to receiving the quarterly newsletter and other relevant information and offers from JAM Software GmbH via email. JAM Software will track opening rates (download of embedded pictures) for its own statistical purposes but will not store any personal data. You can revoke your consent at any time by clicking on the link "Unsubscribe" you find in each email. Cancelling the newsletters and information emails is free, although fees of your service provider might apply.
+### Data collection on our website
 
-No unsolicited advertising mail will be sent for promoting our services or products. 
+**Who is responsible for the data collection on this website?**  
+The data collected on this website are processed by the website operator. The operator's contact details can be found in the website's required legal notice.  
+**How do we collect your data?**  
+Some data are collected when you provide it to us. This could, for example, be data you enter on a contact form. Other data are collected automatically by our IT systems when you visit the website. These data are primarily technical data such as the browser and operating system you are using or when you accessed the page. These data are collected automatically as soon as you enter our website.  
+**What do we use your data for?**  
+Part of the data is collected to ensure the proper functioning of the website. Other data can be used to analyze how visitors use the site.  
+**What rights do you have regarding your data?**  
+You always have the right to request information about your stored data, its origin, its recipients, and the purpose of its collection at no charge. You also have the right to request that it be corrected, blocked, or deleted. You can contact us at any time using the address given in the legal notice if you have further questions about the issue of privacy and data protection. You may also, of course, file a complaint with the competent regulatory authorities. 
 
-### Privacy and Data Protection
+### Analytics and third-party tools
 
-At the time of this writing the following set of formal rules were applicable to privacy and the way JAM Software conducts business:
+When visiting our website, statistical analyses may be made of your surfing behavior. This happens primarily using cookies and analytics. The analysis of your surfing behavior is usually anonymous, i.e. we will not be able to identify you from this data. You can object to this analysis or prevent it by not using certain tools. Detailed information can be found in the following privacy policy. You can object to this analysis. We will inform you below about how to exercise your options in this regard. 
 
-  * [Bundesdatenschutzgesetz (BDSG)](http://www.gesetze-im-internet.de/bdsg_1990/ "Bundesdatenschutzgesetz") \- text is in German language  
-German law on the protection of personal data
-  * [EU Data Protection Directive](https://edps.europa.eu/data-protection/our-work/publications/legislation/directive-9546ec_en "EU Data Protection Directive")  
-Directive 95/46/EC of the European Parliament and of the Council of October 24. 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data.
-  * [OECD Guidelines](http://www.oecd.org/ "OECD Guidelines") on the Protection of Privacy and Transborder Flows of Personal Data
+## 2\. General information and mandatory information
+
+### Data protection
+
+The operators of this website take the protection of your personal data very seriously. We treat your personal data as confidential and in accordance with the statutory data protection regulations and this privacy policy. If you use this website, various pieces of personal data will be collected. Personal information is any data with which you could be personally identified. This privacy policy explains what information we collect and what we use it for. It also explains how and for what purpose this happens.  
+Please note that data transmitted via the internet (e.g. via email communication) may be subject to security breaches. Complete protection of your data from third-party access is not possible. 
+
+### Notice concerning the party responsible for this website
+
+The party responsible for processing data on this website is:  
+JAM Software GmbH  
+Am Wissenschaftspark 26  
+54296 Trier  
+Telephone: 0651-145653-0  
+Email: info2@jam-software.com  
+The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (names, email addresses, etc.). 
+
+#### Revocation of your consent to the processing of your data
+
+Many data processing operations are only possible with your express consent. You may revoke your consent at any time with future effect. An informal [email](mailto:info2@jam-software) or messeage via our [contact form](https://web.archive.org/customers/contact.php) making this request is sufficient. The data processed before we receive your request may still be legally processed. 
+
+  
+
+
+### Right to file complaints with regulatory authorities
+
+If there has been a breach of data protection legislation, the person affected may file a complaint with the competent regulatory authorities. The competent regulatory authority for matters related to data protection legislation is the data protection officer of the German state in which our company is headquartered. A list of data protection officers and their contact details can be found at the following link:  
+<https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html>. 
+
+### SSL or TLS encryption
+
+This site uses SSL or TLS encryption for security reasons and for the protection of the transmission of confidential content, such as the inquiries you send to us as the site operator. You can recognize an encrypted connection in your browser's address line when it changes from "http://" to "https://" and the lock icon is displayed in your browser's address bar. If SSL or TLS encryption is activated, the data you transfer to us cannot be read by third parties. 
+
+### Encrypted payments on this website
+
+If you enter into a contract which requires you to send us your payment information (e.g. account number for direct debits), we will require this data to process your payment. Payment transactions using common means of payment (Visa/MasterCard, direct debit) are only made via encrypted SSL or TLS connections. You can recognize an encrypted connection in your browser's address line beginning with "https://" and the lock icon in your browser line is visible. In the case of encrypted communication, any payment details you submit to us cannot be read by third parties. 
+
+### Information, blocking, deletion
+
+As permitted by law, you have the right to be provided at any time with information free of charge about any of your personal data that is stored as well as its origin, the recipient and the purpose for which it has been processed. You also have the right to have this data corrected, blocked or deleted. You can contact us at any time using the address given in our legal notice or using our [contact](https://web.archive.org/customers/contact.php) form if you have further questions on the topic of personal data. 
+
+### Opposition to promotional emails
+
+We hereby expressly prohibit the use of contact data published in the context of website legal notice requirements with regard to sending promotional and informational materials not expressly requested. The website operator reserves the right to take specific legal action if unsolicited advertising material, such as email spam, is received. 
+
+## 3\. Data protection officer
+
+### Statutory data protection officer
+
+We have appointed a data protection officer for our company.  
+Rainer Faldey  
+Datenschutzbeauftragter GDDcert. EU  
+WEB AGENTUR FALDEY  
+Europa-Allee 9  
+54343 Föhren  
+Telephone: 06502-9967817  
+Email: [beratung@web-agentur-faldey.de](mailto:beratung@web-agentur-faldey.de)
+
+## 4\. Data collection on our website
+
+### Cookies
+
+Some of our web pages use cookies. Cookies do not harm your computer and do not contain any viruses. Cookies help make our website more user-friendly, efficient, and secure. Cookies are small text files that are stored on your computer and saved by your browser.  
+Most of the cookies we use are so-called "session cookies." They are automatically deleted after your visit. Other cookies remain in your device's memory until you delete them. These cookies make it possible to recognize your browser when you next visit the site. You can configure your browser to inform you about the use of cookies so that you can decide on a case-by-case basis whether to accept or reject a cookie. Alternatively, your browser can be configured to automatically accept cookies under certain conditions or to always reject them, or to automatically delete cookies when closing your browser. Disabling cookies may limit the functionality of this website. Cookies which are necessary to allow electronic communications or to provide certain functions you wish to use (such as the shopping cart) are stored pursuant to Art. 6 paragraph 1, letter f of DSGVO. The website operator has a legitimate interest in the storage of cookies to ensure an optimized service provided free of technical errors. If other cookies (such as those used to analyze your surfing behavior) are also stored, they will be treated separately in this privacy policy. 
+
+### Server log files
+
+The website provider automatically collects and stores information that your browser automatically transmits to us in "server log files". These are: 
+
+  * Browser type and browser version
+  * Operating system used
+  * Referrer URL
+  * Host name of the accessing computer
+  * Time of the server request
+  * IP address
 
 
 
-Private and individual-related data (e.g. contact data und registration data) are stored safely on access-controlled media. JAM Software GmbH will not disclose private or individual-related information to a third party. We may use information obtained in order to protect our customers, employees or property. Such protection may include investigation fraud, harassment or other types of unlawful activities. In such cases information may be given to a government entity or a third party provided such demand is lawful. 
+These data will not be combined with data from other sources. The basis for data processing is Art. 6 (1) (b) DSGVO, which allows the processing of data to fulfill a contract or for measures preliminary to a contract. 
 
-**The following statement outlines, how we collect data, which data we collect for which purpose, and how we secure the collected data from misuse.**
+### Contact form
 
-### Data Processing on This Website
+Should you send us questions via the contact form, we will collect the data entered on the form, including the contact details you provide, to answer your question and any follow-up questions. We do not share this information without your permission. We will, therefore, process any data you enter onto the contact form only with your consent per Art. 6 (1)(a) DSGVO. You may revoke your consent at any time. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed. We will retain the data you provide on the contact form until you request its deletion, revoke your consent for its storage, or the purpose for its storage no longer pertains (e.g. after fulfilling your request). Any mandatory statutory provisions, especially those regarding mandatory data retention periods, remain unaffected by this provision. 
 
-JAM Software GmbH will automatically store certain information provided freely by your browser into our server log files. That is:
+### Registration on this website
 
-  * Type and version of your browser
-  * Your operating system
-  * Referrer URL (referring site)
-  * Host name of the connecting computer (IP address)
-  * Date and time of the connection.
+You can register on our website in order to access additional functions offered here. The input data will only be used for the purpose of using the respective site or service for which you have registered. The mandatory information requested during registration must be provided in full. Otherwise, we will reject your registration. To inform you about important changes such as those within the scope of our site or technical changes, we will use the email address specified during registration. We will process the data provided during registration only based on your consent per Art. 6 (1)(a) DSGVO. You may revoke your consent at any time with future effect. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed. We will continue to store the data collected during registration for as long as you remain registered on our website. Statutory retention periods remain unaffected. 
 
+## 5\. Processing and transmission of data
 
+### Processing of data (customer and contract data)
 
-These information will not be attached to certain persons and they will not be aggregated with other data sources. After a statistical evaluation in order to improve our service, all collected data will be deleted. 
+We collect, process, and use personal data only insofar as it is necessary to establish, or modify legal relationships with us (master data). This is done based on Art. 6 (1) (b) DSGVO, which allows the processing of data to fulfill a contract or for measures preliminary to a contract. We collect, process and use your personal data when accessing our website (usage data) only to the extent required to enable you to access our service or to bill you for the same. Collected customer data shall be deleted after completion of the order or termination of the business relationship. Legal retention periods remain unaffected. 
 
-This website uses Piwik, a web analytics open-source software. Piwik uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address anonymized prior to its storage) will be stored on a server of Hetzner in Germany. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
+### Data transmitted when entering into a contract with online shops, retailers, and mail order
 
-### Individual-related Data 
+We transmit personally identifiable data to third parties only to the extent required to fulfill the terms of your contract, for example, to companies entrusted to deliver goods to your location or banks entrusted to process your payments. Your data will not be transmitted for any other purpose unless you have given your express permission to do so. Your data will not be disclosed to third parties for advertising purposes without your express consent. The basis for data processing is Art. 6 (1) (b) DSGVO, which allows the processing of data to fulfill a contract or for measures preliminary to a contract. 
 
-JAM Software GmbH will collect further individual-related data only, if they were voluntarily provided by the user (e.g. in case of a request or during placing an order). 
+### Data transferred when signing up for services and digital content
 
-If you provide JAM Software GmbH with individual-related data we may reference your personal information to answer your service requests, to process existing contracts with you and for technical administration purposes. 
+We transmit personally identifiable data to third parties only to the extent required to fulfill the terms of your contract with us, for example, to banks entrusted to process your payments. Your data will not be transmitted for any other purpose unless you have given your express permission to do so. Your data will not be disclosed to third parties for advertising purposes without your express consent. The basis for data processing is Art. 6 (1) (b) DSGVO, which allows the processing of data to fulfill a contract or for measures preliminary to a contract. 
 
-JAM Software GmbH will only provide third parties with your individual-related data - especially if JAM Software GmbH has to forward these data to a supplier - if it is necessary for the fulfillment of contracts, for settlement, or if you have agreed into forwarding beforehand for other reasons. At any time, you are entitled to revoke your given agreement for future uses. 
+### Issue-Tracking (Software Support)
 
-JAM Software GmbH will delete your individual-related data, if you revoke your allowance for storing your data, if these data are not needed anymore for reaching the goal, that originally was the cause for storing them, or if storing these data is not lawful. 
+If a user of our software products reports an error, problem, request or suggestion for improvement, a ticket may get created for this in our internal issue tracker. The name, e-mail address and customer number of the customer may be stored together with the ticket in order to be able to make queries about the problem later. The customer data will be deleted 3 years after the ticket has been closed in the system.
 
-#### Data storage: Opt out
+## 6\. Social media
 
-Here you can set whether your visits to be collected at this site from the web analytics or not. [Settings webanalytics.](https://web.archive.org/web/20180308225357id_/https%3A//www.jam-software.com/company/privacy.shtml)
+We use the safe "Shariff" sharing buttons instead of the share buttons of social networks. "Shariff" was developed by specialists of the computer magazine c't and aims to bring more privacy to the internet. Your data will not be transferred to those networks unless you click one of the buttons. [Learn more about Shariff](https://github.com/heiseonline/shariff). 
 
-### Cookies on This Website
+## 7\. Analytics and advertising
 
-This Internet site uses "cookies". Cookies improve the level of service and speed up the delivery of information to our visitors making our site more user-friendly and more secure. Cookies are small text files that will be placed on your computer, created and used by your browser. Most of these cookies are "session cookies". They are used to ensure proper and efficient function of our Internet services, and they will be deleted automatically when you have left our site. Cookies are not harmful to your computer and do not contain viruses or other malware. 
+### Analytics using Matomo (former Piwik)
 
-### Privacy on Other Websites
+This website uses Matomo (www.matomo.org) for web analytics, a service provided by InnoCraft Ltd., 150 Willis St, 6011 Wellington, Neuseeland. Matomo uses so-called "cookies". These are text files that are stored on your computer and that allow an analysis of the use of the website by you. The information generated by the cookie about your use of this website is transmitted to our webserver located in Germany and stored there. Matomo cookies are stored based on Art. 6 (1) (f) DSGVO. The website operator has a legitimate interest in analyzing user behavior to optimize both its website and its advertising.  
+**IP anonymization**  
+We have activated the IP anonymization feature on this website. Your IP address will be shortened prior to transmission and saving. Matomo will use this information to evaluate your use of the website, to compile reports on website activity, and to provide us with other services regarding website activity and Internet usage. The IP address transmitted by your browser as part of Matomo Analytics will not be merged with any other data. 
 
-This website contains links to other websites. We cannot influence whether the administrators set up/adhere to privacy policies. We cannot inform you, if other websites use tracking to collect data nor can we tell you which tracking technologies are used.
+#### Revocation of your consent to the processing of your data using Matomo (Piwik)
 
-**Share Buttons**  
-We use the safe "Shariff" sharing buttons instead of the share buttons of social networks. "Shariff" was developed by specialists of the computer magazine c't and aims to bring more privacy to the internet. Your data will not be transferred to those networks unless you click one of the buttons. [Learn more about Shariff.](https://github.com/heiseonline/shariff)
+To prevent your visits to be collected from the web analytics at this site you can change settings following this link: [Settings Webanalytics](https://web.archive.org/web/20181121201108id_/https%3A//www.jam-software.com/company/privacy.shtml)
 
-**YouTube**  
-Embedded YouTube videos use the "privacy-enhanced mode" (nocookie). YouTube won’t store information about visitors on our website unless they play the video.
+### Google Remarketing
+
+Our websites use the features of Google Remarketing combined with the cross-device capabilities of Google Ads (former AdWords). This service is provided by Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043, USA. This feature makes it possible to link target audiences for promotional marketing created with Google Remarketing to the cross-device capabilities of Google Ads. This allows advertising to be displayed based on your personal interests, identified based on your previous usage and surfing behavior on one device (e.g. your mobile phone), on other devices (such as a tablet or computer). Once you have given your consent, Google will associate your web and app browsing history with your Google Account for this purpose. That way, any device that signs in to your Google Account can use the same personalized promotional messaging. 
+
+#### Turning off personalized advertising in your Google Account
+
+You can permanently opt out of cross-device remarketing/targeting by turning off personalized advertising in your Google Account; follow this link: <https://www.google.com/settings/ads/onweb/>. 
+
+The aggregation of the data collected in your Google Account data is based solely on your consent, which you may give or withdraw from Google per Art. 6 (1) (a) DSGVO. For data collection operations not merged into your Google Account (for example, because you do not have a Google Account or have objected to the merge), the collection of data is based on Art. 6 (1) (f) DSGVO. The website operator has a legitimate interest in analyzing anonymous user behavior for promotional purposes. For more information and the Google Privacy Policy, go to: <https://www.google.com/policies/technologies/ads/>. 
+
+### Google Ads and Google Conversion Tracking
+
+This website uses Google Ads. Google Ads is an online advertising program from Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043, United States ("Google"). As part of Google Ads, we use so-called conversion tracking. When you click on an ad served by Google, a conversion tracking cookie is set. Cookies are small text files that your internet browser stores on your computer. These cookies expire after 30 days and are not used for personal identification of the user. Should the user visit certain pages of the website and the cookie has not yet expired, Google and the website can tell that the user clicked on the ad and proceeded to that page. Each Google Ads advertiser has a different cookie. Thus, cookies cannot be tracked using the website of an Google Ads advertiser. The information obtained using the conversion cookie is used to create conversion statistics for the Google Ads advertisers who have opted for conversion tracking. Customers are told the total number of users who clicked on their ad and were redirected to a conversion tracking tag page. However, advertisers do not obtain any information that can be used to personally identify users. If you do not want to participate in tracking, you can opt-out of this by easily disabling the Google Conversion Tracking cookie by changing your browser settings. In doing so, you will not be included in the conversion tracking statistics. Conversion cookies are stored based on Art. 6 (1) (f) DSGVO. The website operator has a legitimate interest in analyzing user behavior to optimize both its website and its advertising. For more information about Google Ads and Google Conversion Tracking, see the Google Privacy Policy: <https://www.google.de/policies/privacy>. You can configure your browser to inform you about the use of cookies so that you can decide on a case-by-case basis whether to accept or reject a cookie. Alternatively, your browser can be configured to automatically accept cookies under certain conditions or to always reject them, or to automatically delete cookies when closing your browser. Disabling cookies may limit the functionality of this website. 
 
 ### Bing UET (Bing Universal Event Tracking) tags
 
-JAM Software GmbH uses Bing UET tags. This is a code that is used to store some non-personal data about the use of the website in connection with a cookie. Bing UET tags are a service of Microsoft Corporation (One Microsoft Way Redmond, WA 98052-6399, USA). 
+JAM Software GmbH uses Bing UET tags. This is a code that is used to store some non-personal data about the use of the website in connection with a cookie. Bing UET tags are a service of Microsoft Corporation (One Microsoft Way Redmond, WA 98052-6399, USA). For more information on Bing's analysis services, please visit the Bing Ads website:  
+<https://help.bingads.microsoft.com/#apex/3/en/n5012/2>.   
+For more information about Microsoft's and Bing's privacy practices, see the Microsoft Privacy Policy:   
+<https://privacy.microsoft.com/en-us/privacystatement>. 
 
-For more information on Bing's analysis services, please visit the Bing Ads website (https://help.bingads.microsoft.com/#apex/3/en/n5012/2). For more information about Microsoft's and Bing's privacy practices, see the Microsoft Privacy Policy (https://privacy.microsoft.com/en-us/privacystatement). 
+## 8\. Newsletter
 
-#### Control and Deactivate Bing UET (Bing Universal Event Tracking) tags
+### Newsletter data
 
-To control the ads delivered to you access the [Bing Ads Preferences Manager](https://account.microsoft.com/privacy/ad-settings). 
+If you would like to receive our newsletter, we require a valid email address as well as information that allows us to verify that you are the owner of the specified email address and that you agree to receive this newsletter. In addition, the country where you are living is required for the content can be tailored to your needs. No additional data is collected or is only collected on a voluntary basis. We only use this data to send the requested information and do not pass it on to third parties.  
+We will, therefore, process any data you enter onto the contact form only with your consent per Art. 6 (1) (a) DSGVO. You can revoke consent to the storage of your data and email address as well as their use for sending the newsletter at any time, e.g. through the "unsubscribe" link in the newsletter. The data processed before we receive your request may still be legally processed.  
+The data provided when registering for the newsletter will be used to distribute the newsletter until you cancel your subscription when said data will be deleted. Data we have stored for other purposes (e.g. email addresses for the members area) remain unaffected.  
+No unsolicited advertising mail will be sent for promoting our services or products. If you only consented to receiving update notifications, JAM Software GmbH will inform you about free updates. You will receive neither additional emails with information about other software products nor the newsletter of JAM Software GmbH. If you register for our newsletter, you consent to receiving the quarterly newsletter and other relevant information and offers from JAM Software GmbH via email. JAM Software will track opening rates (download of embedded pictures) for its own statistical purposes but will not store any personal data. 
 
-### Usage of Retargeting for Interest-based Advertising
+#### Revocation of newsletter subscription 
 
-This websites uses so-called "retargering tags". A "retargeting tag" is a JavaScript element in the website's source code. If a user accesses a page on this website containing such a tag, a provider of online ads (e.g. Google) places a cookie on the user's computer and connects it to a matching retargeting list. The cookie is required to provide targeted advertising on other pages.
+You can revoke your consent at any time by clicking on the link "Unsubscribe" you find in each email. Alternatively, you can use our [contact form](https://web.archive.org/customers/contact.php) for your unsubscribing. Cancelling the newsletters and information emails is free, although fees of your service provider might apply. 
 
-JAM Software GmbH uses Google remarketing tags and thus services of Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; "Google" in short). Google uses cookies saved on your system.
+## 9\. Plugins and tools
 
-Google has its own privacy policy. Google remarketing tags neither store nor transmit personal data.
+### YouTube
 
-### Your Right Of Access to Personal Data and Further Information
+Our website uses plugins from YouTube, which is operated by Google. The operator of the pages is YouTube LLC, 901 Cherry Ave., San Bruno, CA 94066, USA. Although we are using the enhanced data protection mode, if you visit one of our pages featuring a YouTube plugin, a connection to the YouTube servers is established. Here the YouTube server is informed about which of our pages you have visited. If you're logged in to your YouTube account, YouTube allows you to associate your browsing behavior directly with your personal profile. You can prevent this by logging out of your YouTube account. YouTube is used to help make our website appealing. This constitutes a justified interest pursuant to Art. 6 (1) (f) DSGVO. Further information about handling user data, can be found in the data protection declaration of YouTube: <https://www.google.de/intl/de/policies/privacy>. 
 
-At any time, you have the right to know, which personal data of you are stored, as well as how we obtained them, why we stored them and to whom these data were (lawfully) disclosed. Your confidence in our reliability is a major concern for us. If you have a question that could not be answered by this policy text, or if you want to learn more about a certain subject, please don’t hesitate to ask. Please [contact us](https://web.archive.org/customers/contact.php?language=EN) or our data protection officer.
+## 10\. Payment service providers
 
-### Data Protection Officer
+### PayPal
 
-Rainer Faldey  
-WEB AGENTUR FALDEY  
-Industriepark Region Trier  
-Europa-Allee 12  
-54343 Föhren  
-Phone: +49-6502-9967817  
-E-Mail: beratung@web-agentur-faldey.de
+Our website accepts payments via PayPal. The provider of this service is PayPal (Europe) S.à.r.l & Cie, S.C.A. (22-24 Boulevard Royal, L-2449 Luxembourg. If you select payment via PayPal, the payment data you provide will be supplied to PayPal based on Art. 6 (1) (a) (Consent) and Art. 6 (1) (b) DSGVO (Processing for contract purposes). You have the option to revoke your consent at any time with future effect. It does not affect the processing of data previously collected. 
 
-### Currency of this Privacy Policy
+### VÖB-ZVD Paysolution
 
-This privacy policy is up to date and was last changed on February 13, 2018. It is subject to alterations. Changes will be published at this place and will be effective from the day of publication.
+Our website accepts payments via P credit card. The provider of this service is die VÖB-ZVD Processing GmbH, Eckenheimer Landstraße 242, 60320 Frankfurt, Deutschland. If you select payment via credit card, the payment data you provide will be supplied to VÖB-ZVD based on Art. 6 (1) (a) (Consent) and Art. 6 (1) (b) DSGVO (Processing for contract purposes). You have the option to revoke your consent at any time with future effect. It does not affect the processing of data previously collected. 
+
+## Currency of this Privacy Policy
+
+This privacy policy is up to date and was last changed on June 22, 2018. It is subject to alterations. Changes will be published at this place and will be effective from the day of publication.
