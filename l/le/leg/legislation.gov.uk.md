@@ -1,85 +1,60 @@
-> *The following text is extracted and transformed from the legislation.gov.uk privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621194812id_/http%3A//www.legislation.gov.uk/about/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legislation.gov.uk privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121200407id_/http%3A//www.legislation.gov.uk/privacynotice) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Notice
 
-OPSI takes your privacy seriously.
+## Search Legislation
 
-The following privacy statement covers the OPSI website at www.opsi.gov.uk. It does not cover other websites to which links are provided from this website.
+Title: _(or keywords in the title)_
 
-[The Data Protection Act 1998](https://web.archive.org/acts/acts1998/ukpga_19980029_en_1) protects the rights of individuals by making sure that any organisation that collects or holds information about living people does so in a way that is fair to those people.
+Year:
 
-OPSI takes your privacy seriously and is committed to responsible handling of personal information in accordance with our Information Charter, which is as follows.
+Number:
 
-When we ask for personal information we promise:
+Type:
 
-  * To make sure you know why we need it;
-  * To ask only for what we need, and not to collect too much or irrelevant information; 
-  * To protect it and make sure nobody has access to it who shouldn't;
-  * To let you know if we share it with other organisations to give you better public services - and if you can say no;
-  * To make sure we don't keep it longer than necessary; and
-  * Not to make your personal information available for commercial use without your permission.
+## Introduction
 
+The legislation.gov.uk website is managed by The National Archives, a non-ministerial department and publisher for the UK Government and for England and Wales. The website is operated on behalf of the Data Controller, the National Archives (TNA) under a contract with The Stationery Office (TSO) who is the Data Processor.
 
+## Information we collect about you online
 
-In return we ask you to:
+When you visit this website, our Contractor, TSO, collects website usage information and information about your computer and internet connection, including your computer’s IP address, the type and version of browser (such as Internet Explorer 7 or Firefox 3.6) and operating system you use, your internet domain and, if you arrived at legislation.gov.uk via a link from another website, the URL of the linking page.
 
-  * Give us accurate information; and
-  * Tell us as soon as possible if there are any changes, such as a new address.
+This information is used to ensure, as far as is practical, that the legislation site is compatible with the browsers and operating systems used by most of our visitors. It is also used for research to improve our understanding of customer needs in developing the website. The National Archives processes this information in order to provide you with access to the legislation.gov.uk website, in exercise of the function of a Minister of the Crown. 
 
+The results of all such research and analysis will be presented as anonymous or aggregated information and will not reveal any personal facts about individual users. The contract with TSO ensures that data is managed securely, and not shared with any third parties.
 
+As a general rule, the legislation.gov.uk site does not use cookies. Cookies are used when the site runs banner adverts – for user surveys or for job advertisements for The National Archives.
 
-This helps us keep your information reliable and up to date.
+Find out about cookies [here](https://web.archive.org/cookiepolicy) and how and why we use them.
 
-You can get more details on:
+## Your rights
 
-  * How to find out what information we hold about you and how to ask us to correct any mistakes 
-  * Agreements we have with other organisations for sharing information; 
-  * Circumstances where we can pass on your personal information without telling you, for example to prevent and detect crime or produce anonymised statistics; 
-  * Our instructions to staff on how to collect, use and delete your personal information - see our [Data Protection Policy (PDF)](http://www.nationalarchives.gov.uk/legal/pdf/policy-feb08.pdf) and [Procedures (PDF)](http://www.nationalarchives.gov.uk/legal/pdf/procedures-feb08.pdf)
-  * How we check the information we hold is accurate and up to date
-  * How to make a [complaint](https://web.archive.org/about/contact-us/complaints/index)
+You have certain rights in relation to the personal information we collect about you. These include the right to request access to your personal information, to request that it is erased, or that its processing is restricted, or that any inaccurate personal information is rectified though there are exemptions if the information is required by law to be published. You also have the right to object to the processing of your personal information, or in some circumstances to obtain a copy of the personal information in machine readable format. Any such request should be submitted in writing to our customer service team. 
 
+You also have the right to complain about the use your personal information to the local supervisory authority, which in the UK is the Information Commissioner’s Office (www.ico.org.uk). 
 
+You can contact them by calling 0303 123 1113. Or go online to www.ico.org.uk/concerns (opens in a new window; please note we can't be responsible for the content of external websites). 
 
-For more information please contact our Data Protection Officer, [Susan Healy](mailto:susan.healy@nationalarchives.gov.uk) or write to her at The National Archives, Kew, Surrey, TW9 4DU.
+Or you can write to them at: 
 
-When we ask you for information we will keep to the law, including the Data Protection Act 1998. For independent advice about data protection, privacy and data sharing issues you can contact the [ Information Commissioner](http://www.ico.gov.uk/) at Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF. Phone 08456 306060 or 01635 545745 Fax 01625 524510.
+Information Commissioner's Office,   
+Wycliffe House,   
+Water Lane,   
+Wilmslow Cheshire,   
+SK9 5AF 
 
-### Privacy and this website
+## Changes to the Privacy Policy
 
-Except where you are asked for information to complete a copyright licensing application form, this website does not store or capture personal information but merely logs your IP address which is automatically recognised by the web server. It does not use cookies and will collect personal information about you only if it is needed for system administration of the web server. 
+The Privacy Notice will be reviewed from time to time to take account of changes to our operations or practices and, further, to make sure it remains appropriate to any changes in law, technology and the business environment. Any personal information held will be governed by the most current Privacy Notice. 
 
-### Copyright Licensing application forms
+## The National Archives’ Data Protection Officer
 
-We collect personal information when you complete an application form for a licence to re-use Crown or Parliamentary copyright material. We will keep the information in our database of companies and individuals who are licensed to re-use Crown or Parliamentary copyright materials.
+For more information please contact our Data Protection Officer, Linda Stewart, at
 
-We will not sell or rent information about you to anyone. We will send information about you to other government departments, companies or people only when:
+The National Archives,  
+Kew,  
+Surrey,  
+TW9 4DU.
 
-  * We have your consent to share the information
-  * We need to send the information to a government department whose material you wish to re-use
-  * We respond to court orders or other legal processes; or
-  * We are required by law to provide information to others, e.g. HM Customs and Revenue.
-
-
-
-### Summary of terms
-
-#### Browser
-
-Used to locate and display Web pages via a software application. Popular ones include Microsoft Internet Explorer, Firefox, Safari.
-
-#### Cookie
-
-Message given to a web browser by a web-server. The message is then stored by the browser in a text file called cookie.txt. Each time the browser requests a page from the server, this message is sent back. A cookie’s main objective is to identify users and personalise their visit by customising web pages for them for example by welcoming them by name next time they visit the same site. A site using cookies will usually invite you to provide personal information such as your name, e-mail address and interests.
-
-#### IP (Internet Protocol)
-
-All networks connected to the internet speak IP, the technical standard which allows data to be transmitted between two devices. TCP/IP (Transmission Control Protocol/Internet Protocol) is responsible for making sure messages get from one host to another and that the messages are understood.
-
-#### IP address
-
-If you are connected to the Internet you have one, for example it may look something like this 198.184.98.9
-
-#### Web server
-
-Delivers (serves up) web pages to your computer.
+Email addresses follow the format: firstname.lastname@nationalarchives.gov.uk.
