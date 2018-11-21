@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybangalore.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522145150id_/http%3A//www.mybangalore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybangalore.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121181159id_/http%3A//www.mybangalore.com/privacy) for the most accurate reproduction.*
 
 # Mybangalore.com Privacy Policy
 
