@@ -1,52 +1,52 @@
-> *The following text is extracted and transformed from the outbreaknewstoday.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523165525id_/http%3A//outbreaknewstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outbreaknewstoday.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121182121id_/http%3A//outbreaknewstoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Outbreak News Today
 
-**Content on Outbreak New Today is copyrighted material and cannot be reused, posted or published without the consent of The Global Dispatch/Outbreak News Today. Please email us to discuss the use of cotent elsewhere: theglobaldispatch@gmail.com**
+**Content on Outbreak New Today is copyrighted material and cannot be reused, posted or published without the consent of The Global Dispatch/Outbreak News Today. Please email us to discuss the use of cotent elsewhere:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
 
-**What information do we collect?**
+New update May, 2018
 
-**Cookies & 3rd Party Advertisements**
+The General Data Protection Regulation (GDPR) is now officially in force. The GDPR affects how technology providers and ad network works with users.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+The European GDPR is a regulation that affects all AdSense publishers, which the Global Dispatch and all of its sites are, whose reach extends to Europe. Even though we do not reside in Europe, Google has assisted us with updating privacy policies in order to conform with the new regulations.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit<http://www.networkadvertising.org/managing/opt_out.asp>.
+For questions or a complete run down on details, check out Google’s page dedicated to the topic [HERE.](https://www.google.com/policies/technologies/partner-sites/)
 
-**What do we use your information for?**
+### **How Google uses information from sites or apps that use our services**
 
-Any of the information we collect from you may be used in one of the following ways:
+Many websites and apps use Google services to improve their content and keep it free. When they integrate our services, these sites and apps share information with Google.
 
-; To administer a contest, promotion, survey or other site feature
+For example, when you visit a website that uses advertising services like AdSense, including analytics tools like Google Analytics, or embeds video content from YouTube, your web browser automatically sends certain information to Google. This includes the URL of the page you’re visiting and your IP address. We may also [set cookies on your browser](https://policies.google.com/technologies/cookies) or read cookies that are already there. Apps that use Google advertising services also share information with Google, such as the name of the app and a unique identifier for advertising.
 
-; To send periodic emails
+Google uses the information shared by sites and apps to deliver our services, maintain and improve them, develop new services, measure the effectiveness of advertising, protect against fraud and abuse, and personalize content and ads you see on Google and on our partners’ sites and apps. See our [Privacy Policy](https://policies.google.com/privacy) to learn more about how we process data for each of these purposes and our [Advertising](https://policies.google.com/technologies/ads) page for more about Google ads, how your information is used in the context of advertising, and how long Google stores this information.
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+### Ad personalization
 
-**Do we use cookies?**
+If ad personalization is turned on, Google will use your information to make your ads more useful for you. For example, a website that sells mountain bikes might use Google’s ad services. After you visit that site, you could see an ad for mountain bikes on a different site that shows ads served by Google.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+If ad personalization is off, Google will not collect or use your information to create an ad profile or personalize the ads Google shows to you. You will still see ads, but they may not be as useful. Ads may still be based on the topic of the website or app you’re looking at, your current search terms, or on your general location, but not on your interests, search history, or browsing history. Your information can still be used for the other purposes mentioned above, such as to measure the effectiveness of advertising and protect against fraud and abuse.
 
-We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+When you interact with a website or app that uses Google services, you may be asked to choose whether you want to see personalized ads from ad providers, including Google. Regardless of your choice, Google will not personalize the ads you see if your ad personalization setting is off or your account is ineligible for personalized ads.
 
-**Do we disclose any information to outside parties?**
+You can see and control what information we use to show you ads by visiting your [ad settings](https://adssettings.google.com/).
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+### How you can control the information collected by Google on these sites and apps
 
-**Third party links**
+Here are some of the ways you can control the information that is shared by your device when you visit or interact with sites and apps that use Google services:
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+  * [Ad Settings](https://adssettings.google.com/) helps you control ads you see on Google services (such as Google Search or YouTube), or on non-Google websites and apps that use Google ad services. You can also [learn how](https://policies.google.com/technologies/ads) ads are personalized, opt out of ad personalization, and block specific advertisers.
+  * If you are signed in to your Google Account, and depending on your Account settings, [My Activity](https://myactivity.google.com/) allows you to review and control data that’s created when you use Google services, including the information we collect from the sites and apps you have visited. You can browse by date and by topic, and delete part or all of your activity.
+  * Many websites and apps use Google Analytics to understand how visitors engage with their sites or apps. If you don’t want Analytics to be used in your browser, you can [install the Google Analytics browser add-on](https://tools.google.com/dlpage/gaoptout). Learn more about [Google Analytics and privacy](https://support.google.com/analytics/answer/6004245).
+  * [Incognito mode in Chrome](https://support.google.com/chrome/answer/95464) allows you to browse the web without recording webpages and files in your browser or Account history (unless you choose to sign in). Cookies are deleted after you’ve closed all of your incognito windows and tabs, and your bookmarks and settings are stored until you delete them. Learn more about [cookies](https://policies.google.com/technologies/cookies).
+  * Many browsers, including Chrome, allow you to block third-party cookies. You can also clear any existing cookies from within your browser. Learn more about [managing cookies in Chrome](https://support.google.com/chrome/answer/95647).
 
-**California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**Childrens Online Privacy Protection Act Compliance**
+### **Other advertising agencies in use**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Media.Net Advertising FZ-LLC, including our affiliates and subsidiaries, [www.media.net/](http://www.media.net/)
 
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+Media.net utilizes its ad serving technology to generate and present targeted advertising on behalf of the advertisers and publishers participating in our advertising marketplace. This[ Privacy Policy](https://www.media.net/en/privacy-policy) describes the kinds of information we collect about consumers on sites operated by our Partners that use our Technology and how we use and share that information. This Privacy Policy also describes the kind of information we collect from and about our Partners that voluntarily signup for our services.
 
 **Your Consent**
 
@@ -58,4 +58,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact The Global Dispatch using the information below: theglobaldispatch@gmail.com
+If there are any questions regarding this privacy policy you may contact The Global Dispatch using the information below: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
