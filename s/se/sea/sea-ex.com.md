@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sea-ex.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524091607id_/http%3A//www.sea-ex.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sea-ex.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121175507id_/http%3A//www.sea-ex.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Sea-Ex Privacy Policy
 
@@ -8,8 +8,10 @@ Sea-Ex want our users to always be aware of any information we collect, how we u
 
 Sea-Ex respects each individual's right to personal privacy. We will collect and use information through our website only in the ways disclosed in this statement.  This statement applies solely to information collected at our websites.
 
+The information below is information for our users and visitors and to be compliant with the General Data Protection Regulations (GDPR).
+
 **Information Collection:**  
-Sea-Ex collects information through our website at several points. We collect the following information about our visitors through various forms located in our site:
+Sea-Ex collects information through our website at several points. We collect the following information about our visitors through various forms located in our site that is voluntarily offered by you, the user:
 
   * Company names, contact names, telephone, fax, email, website addresses and company activities.
   * In some cases we collect financial information such as credit card numbers and expiration dates.
@@ -21,7 +23,7 @@ This information is used for:
 
   * Improving our website content
   * used to notify visitors about upgrades 
-  * used to send our newsletters (when requested by a visitor)
+  * used to send our newsletters (when requested by a visitor).
   * used to fill customers orders
   * for shipping and billing purposes, if we have trouble processing an order, we use the information to contact the user.
   * Provide members with unique identifiers.
@@ -42,7 +44,7 @@ Our website offers a trading board.  Please be advised that information posted 
 We use outside ad companies to display ads on our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Information is collected by the ad companies, and we do not have access to this information. We work with reputable ad companies: Google Adsense, etc. Please check their websites for respective privacy policies.
 
 **Access to Information:**  
-Sea-Ex maintains the accuracy of our information by routinely checking with companies listed on our site. Users may access their own personal information and contact us about inaccuracies they may find by emailing [support@seaex.com](mailto:support@seaex.com) Users may delete their information from our database by notifying us by email. The request for removal will be completed within 24-48 hours.
+Sea-Ex maintains the accuracy of our information by routinely checking with companies listed on our site. Users may access their own personal information and contact us about inaccuracies they may find by emailing [support@seaex.com](mailto:support@seaex.com) Users may delete their information from our database by notifying us by email with the subject “Data removal request”. The request for removal will be completed within 24-48 hours.
 
 **Problem Resolution:**  
 If problems arise, users may contact Sea-Ex by email, Skype or telephone. We are committed to resolving disputes within 24-48 hours.
@@ -51,3 +53,5 @@ If problems arise, users may contact Sea-Ex by email, Skype or telephone. We are
 Sea-Ex protects user information with the following security measures:  No data is stored on our servers.  All information collected is stored within a secure environment in our offices.  There is no access by third parties to the information we hold.
 
 See also our [Cookie Policy](http://www.sea-ex.com/cookiepolicy.htm)
+
+By continuing to use this site you are considered as understanding and agreeing to the contents of this statement.
