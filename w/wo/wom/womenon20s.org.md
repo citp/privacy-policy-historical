@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenon20s.org privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519034427id_/http%3A//www.womenon20s.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenon20s.org privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121050523id_/http%3A//www.womenon20s.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Women on 20s
 
