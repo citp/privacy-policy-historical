@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the tipnut.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524092701id_/http%3A//tipnut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipnut.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121175743id_/http%3A//tipnut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : TipNut.com
 
 **No Spam Policy**
 
 TipNut.com will not sell your email address to a third party. At no time is personal information collected without explicit consent.
-
-Email subscriptions are managed and delivered by [Google’s Feedburner Service](http://www.google.com/intl/en/policies/privacy/). Subscribers and users of the Feedburner service are subject to Google’s terms and privacy policies, you can review their [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) and [TOS](http://www.google.com/intl/en/policies/terms/) before subscribing by email. Tipnut.com is not responsible or liable for the actions, service failures, security measures or policies and procedures of Feedburner.com.
 
  **Information Logged**
 
@@ -16,7 +14,7 @@ Tipnut.com uses the Google Custom Search Engine to provide search support for vi
 
 TipNut.com may display ads or link to outside advertisers on this site. These ads may contain cookies. Cookie information is stored by the ad company, TipNut.com does not have access to this information. TipNut.com has no control over or access to cookies and tracking methods used by other sites. Cookies are used on TipNut.com for login purposes and may also be used for on site features such as voting, special polls, traffic analysis and logging, etc.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [Network Advertising Initiative](http://www.networkadvertising.org/choices/).
+We use third-party tools and advertising companies to serve ads when you visit our Web site. These companies may use aggregated information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [Network Advertising Initiative](http://www.networkadvertising.org/choices/).
 
 Tipnut.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
