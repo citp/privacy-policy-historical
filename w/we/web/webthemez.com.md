@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the webthemez.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607144037id_/https%3A//webthemez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webthemez.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121164022id_/https%3A//webthemez.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WebThemez
+
+#### **Limited Time OFFER.** Get Premium Template for only $5
 
 This Privacy Policy governs the manner in which WebThemez collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://webthemez.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by WebThemez.
 
@@ -69,6 +71,6 @@ Hyderabad – 500034,
 
 Telangana, India.
 
-**Support:** webthemez@gmail.com
+ **Support:** webthemez@gmail.com
 
 This document was last updated on January 05, 2015
