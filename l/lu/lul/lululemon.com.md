@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614213409id_/https%3A//info.lululemon.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121020616id_/https%3A//info.lululemon.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | lululemon athletica
 
@@ -16,7 +16,7 @@ BY SUBMITTING PERSONAL INFORMATION TO LULULEMON OR ITS SERVICE PROVIDERS AND AGE
 
 lululemon reserves the right, in lululemon’s discretion, to change, modify, add or remove portions of this Privacy Policy at any time and from time to time, without prior notice to you. However, lululemon will treat your continued use of the Sites and Services following such revision as your acceptance of the revised terms. All revisions will be posted to the Sites and will apply to any personal information collected on or after the date posted. lululemon will obtain the necessary consents required under applicable privacy laws if it seeks to collect, use or disclose your personal information for purposes other than those to which consent has been obtained unless otherwise required or permitted by law.
 
-This Privacy Policy was last updated August 10, 2015.
+This Privacy Policy was last updated August 29, 2018.
 
 ## **Collection of Your Information**
 
@@ -37,6 +37,10 @@ lululemon may collect personal information in connection with your use or purcha
 The personal information that lululemon may collect may include your name, username, password, email address, age, date of birth, gender, address, telephone number, credit card and debit card numbers (with expiration dates), personal preferences, and any other personal information that you choose to include in your profile, your submissions of your goals to lululemon, or in other communications to lululemon. In addition, lululemon may collect additional information from users of our Services, such as our mobile applications as described in the “Mobile Applications” section below. You represent and warrant that you have the right and authority or have obtained all necessary consents to provide any information, including any personal information of another individual, that is provided by you to lululemon.
 
 lululemon may also collect information that may not be personal information, which may include, but is not limited to, the frequency of user visits to the Sites and Services, the routes by which users access the Sites and Services and use of any hyperlinks available on the Sites and Services. lululemon or its service providers and agents may process and use this aggregate data for various purposes including, but not limited to, analysis of this data for trends and statistics, development of the Sites and Services and the Sites’ and Services’ features and offerings, assessing patterns of use, or planning and evaluating marketing initiatives. This information is gathered by certain tools and methods such as the collection of your IP address or the use of cookies and is maintained, used and disclosed in aggregate form unless otherwise noted.
+
+## INFORMATION WE COLLECT FROM OTHER SOURCES
+
+lululemon may obtain information about you from other sources and combine that with information we collect directly from you.  For example, we may collect information, such as your name and email address, from fitness studios and providers of online booking tools when you sign up for and participate in classes offered as part of a lululemon promotion or loyalty program. We use this information to better understand your interests and for analytics purposes.
 
 ## **Mobile Applications**
 
@@ -109,19 +113,25 @@ lululemon may disclose your personal information to its subsidiaries or affiliat
 
 The personal information that you provide will be retained by lululemon in accordance with applicable laws. However, lululemon will take reasonable steps to destroy or permanently de-identify personal information it holds if it is no longer needed for lululemon business purposes.
 
-## **Children's Privacy**
+## CHILDREN'S PRIVACY
 
-lululemon does not collect your personal information unless you choose to provide it. If, at any time, you prefer not to receive further email communications from lululemon (except in connection with information, products or services that you specifically request), you will have the ability to unsubscribe from such communications by means of a link provided in every broadcast e-mail that is sent to you by lululemon. If, at any time, you prefer not to receive any other form of communication from lululemon, you will have the ability to unsubscribe from such communications by [contacting us by email](https://web.archive.org/contact/email).
+lululemon recognizes the privacy interests of children and lululemon encourages parents and guardians to take an active role in their children's online activities and interests. The Sites are not intended for children under the age of 18. lululemon does not target its services or the Sites to children under 18.
 
-## **Choice and Opt-Out Preferences**
+## CHOICE AND OPT-OUT PREFERENCES
 
-lululemon does not collect your personal information unless you choose to provide it. If, at any time, you prefer not to receive further email communications from lululemon (except in connection with information, products or services that you specifically request), you will have the ability to unsubscribe from such communications by means of a link provided in every broadcast e-mail that is sent to you by lululemon. If, at any time, you prefer not to receive any other form of communication from lululemon, you will have the ability to unsubscribe from such communications by [contacting us by email](https://web.archive.org/contact/email).
+lululemon does not collect your personal information except in accordance with this Privacy Policy. If, at any time, you prefer not to receive further email communications from lululemon (except in connection with information, products or services that you specifically request), you will have the ability to unsubscribe from such communications by means of a link provided in every broadcast e-mail that is sent to you by lululemon. If, at any time, you prefer not to receive any other form of communication from lululemon, you will have the ability to unsubscribe from such communications by [CONTACTING US BY EMAIL](https://info.lululemon.com/contact/email).
 
-## **Access and Correction**
+## ACCESS AND CORRECTION
 
-lululemon will take reasonable steps to ensure the personal information it holds is accurate, complete and up to date. Upon your written request, subject to certain exceptions provided by law, lululemon will inform you of the existence, use and disclosure of your personal information and give you access to that information. Additionally, if you have any questions or enquiries relating to our privacy practices or procedures, or if you believe that the personal information that lululemon holds about you is not accurate, complete or up to date you may write to the Privacy Officer at the address provided below. If you are able to establish that the information is not accurate, complete or up to date, lululemon will take reasonable steps to correct the information so that it is accurate, complete and up to date.
+lululemon will take reasonable steps to ensure the personal information it holds is accurate, complete and up to date. Upon your written request, subject to certain exceptions provided by law, lululemon will inform you of the existence, use and disclosure of your personal information and give you access to that information, or request its deletion. Additionally, if you have any questions or enquiries relating to our privacy practices or procedures, or if you believe that the personal information that lululemon holds about you is not accurate, complete or up to date you may write to the Privacy Officer at the address provided below. If you are able to establish that the information is not accurate, complete or up to date, lululemon will take reasonable steps to correct the information so that it is accurate, complete and up to date.
 
-## **Request for Access and Correction, Questions or Comments**
+## OUR INTERNATIONAL OPERATIONS AND DATA TRANSFERS
+
+We operate internationally and may transfer information collected within the European Economic Area and Switzerland to the United States for the purposes described in this policy. lululemon complies with the EU-US and Swiss-US Privacy Shield principles regarding the collection, use, sharing, and retention of personal information from the EEA and Switzerland, as described in our EU-US Privacy Shield certification and Swiss-US Privacy Shield certification. Learn more about Privacy Shield  _[here](https://www.privacyshield.gov/)_.
+
+We are subject to the oversight of the US Federal Trade Commission and remain responsible for personal information that we transfer to others who process it on our behalf as described in the Disclosure of Your Information section. If you have a complaint about our Privacy Shield compliance, please email us at: [PRIVACYOFFICER@LULULEMON.COM](mailto:privacyofficer@lululemon.com). You can also refer a complaint to our chosen independent dispute resolution body [JAMS](https://www.jamsadr.com/eu-us-privacy-shield), and in certain circumstances, invoke the Privacy Shield binding arbitration process.
+
+## REQUEST FOR ACCESS AND CORRECTION, QUESTIONS OR COMMENTS
 
 lululemon welcomes questions and comments about this Privacy Policy. Requests for access and correction of your personal information, and questions or comments should be directed to the lululemon Privacy Officer at:
 
@@ -132,4 +142,4 @@ Vancouver, BC 
 V6J 1C7   
 Canada 
 
-Email: [privacyofficer@lululemon.com](mailto:privacyofficer@lululemon.com)
+Email: [PRIVACYOFFICER@LULULEMON.COM](mailto:privacyofficer@lululemon.com)
