@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychicmonday.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623100829id_/http%3A//psychicmonday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychicmonday.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121181810id_/http%3A//www.psychicmonday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Psychic Monday
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [info@PsychicMonday.com](mailto:info@omgstudios.com)
+  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3950575f567956545e4a4d4c5d50564a175a5654)
 
 
 
