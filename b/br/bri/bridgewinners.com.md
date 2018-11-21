@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridgewinners.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521102141id_/https%3A//bridgewinners.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgewinners.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121073620id_/https%3A//bridgewinners.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Bridge Winners: Privacy Policy
 
@@ -6,20 +6,19 @@ There are many different ways you can use our services – to search for and sha
 ****
 
   * What information we collect and why we collect it.
-
   * How we use that information.
-
   * The choices we offer, including how to access and update information.
 
 
 
-
-Your privacy matters to Bridge Winners so whether you are new to Bridge Winners or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us.](http://www.bridgewinners.com/feedback) ** **  
+Your privacy matters to Bridge Winners (Website or site), and we are committed to protecting your privacy. So whether you are new to Bridge Winners or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us.](http://www.bridgewinners.com/feedback) ** **  
 ****
 
 ### **General**
 
-This site is not intended for children under the age of 13.
+This site is not intended for children under the age of 13. We do not knowingly collect or maintain personal data on our website from persons under 13 years of age, and no part of our site is directed to persons under 13 years of age. If you are under 13 years of age, then please do not use or access this site at any time or in any manner.
+
+We will take appropriate steps to delete any personal data of persons less than 13 years of age that has been collected on our site without verified parental consent upon learning of the existence of such personal data.
 
 ### Information we collect
 
@@ -35,21 +34,13 @@ For example, many of our services require you to sign up for a Bridge Winners Ac
 We may collect information about the Bridge Winners services that you use and how you use them, like when you create a convention card or vote on a bidding poll. This information includes:
 
     * **Device information** We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Bridge Winners may associate your device identifiers with your account.
-
     * **Log information** When you use our services or view content provided by Bridge Winners, we may automatically collect and store certain information in server logs.  This may include:
-
       * details of how you used our service, such as your search queries.
-
       * Internet protocol address.
-
       * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.
-
       * cookies that may uniquely identify your browser or your Bridge Winners account.
-
     * **Local storage** We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
-
     * **Cookies and anonymous identifiers** We use various technologies to collect and store information when you visit Bridge Winners, and this may include sending one or more cookies or anonymous identifies to your device.
-
 
 
 
@@ -67,12 +58,10 @@ We will ask for your consent before using information for a purpose other than t
 
 ### Transparency and choice
 
-People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can:
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, in your Account Settings you can:
 
   * Review and control certain types of information tied to your Bridge Winners Account through the Bridge Winners Profile editor
-
   * View and edit your e-mail notification preferences. You can also opt out of certain categories of Bridge Winners emails.
-
 
 
 
@@ -126,7 +115,7 @@ Most browsers allow you to refuse to accept cookies; for example:
 
 (b)    in Firefox (version 47) you can block all cookies by clicking "Tools", "Options", "Privacy", selecting "Use custom settings for history" from the drop-down menu, and unticking "Accept cookies from sites"; and
 
-(c)    in Chrome (version 52), you can block all cookies by accessing the "Customise and control" menu, and clicking "Settings", "Show advanced settings" and "Content settings", and then selecting "Block sites from setting any data" under the "Cookies" heading.
+(c)    in Chrome (version 52), you can block all cookies by accessing the "Customize and control" menu, and clicking "Settings", "Show advanced settings" and "Content settings", and then selecting "Block sites from setting any data" under the "Cookies" heading.
 
 Blocking all cookies will have a negative impact upon the usability of many websites.
 
@@ -142,7 +131,7 @@ You can delete cookies already stored on your computer; for example:
 
 (c)    in Chrome (version 52), you can delete all cookies by accessing the "Customise and control" menu, and clicking "Settings", "Show advanced settings" and "Clear browsing data", and then selecting "Cookies and other site and plug-in data" before clicking "Clear browsing data".
 
-8.2    Deleting cookies will have a negative impact on the usability of many websites.
+Deleting cookies will have a negative impact on the usability of many websites.
 
 **8.        Our details**
 
@@ -162,12 +151,11 @@ Many of our services let you share information with others. Remember that when y
 
 ### Accessing and updating your personal information
 
-Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
+You have the right to access the personal information we hold about you. Unless an exception applies, we must allow you to see the personal information we hold about you, within a reasonable time period, for no charge. Most personal information can be accessed by logging into your account. If you wish to access information that is not accessible through the platform, or wish to obtain all personal information we hold on you, please contact support@bridgewinners.com.
 
-We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes).
+You also have the right to request the correction of the personal information we hold about you. Most of your personal information can be updated through the Account Settings pages. If you require assistance please contact us.
 
-Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. ** **  
-****
+Individual Rights in the European Economic Area: If you are a Citizen of or are located in the European Economic Area, you may seek confirmation regarding whether Bridge Winners is processing personal information about you, request access to your personal information, and ask that we correct, amend or delete your personal information. In addition, you may object to Bridge Winners processing of your personal information at any time. However doing so may impact your use of Bridge Winners products and services.
 
 ### Information we share
 
@@ -175,19 +163,12 @@ We do not share personal information with companies, organizations and individua
 ****
 
   * **With your consent** We will share personal information with companies, organizations or individuals outside of Bridge Winners when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information.
-
-  * **For external processing** We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
-
+  * **For external processing** We don't share information that personally identifies you with advertisers such as your name or email. We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
   * **For legal reasons** We will share personal information with companies, organizations or individuals outside of Bridge Winners if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
-
     * meet any applicable law, regulation, legal process or enforceable governmental request.
-
     * enforce applicable Terms of Service, including investigation of potential violations.
-
     * detect, prevent, or otherwise address fraud, security or technical issues.
-
     * protect against harm to the rights, property or safety of Bridge Winners, our users or the public as required or permitted by law.
-
 
 
 
@@ -200,12 +181,9 @@ If Bridge Winners is involved in a merger, acquisition, or asset sale, then your
 We work hard to protect Bridge Winners and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular ** **:  
 ****
 
-  * We encrypt our Store services using SSL.
-
+  * We encrypt our site and your data using SSL.
   * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
-
   * We restrict access to personal information to Bridge Winners employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
-
 
 
 
@@ -219,6 +197,25 @@ Our Privacy Policy does not apply to services offered by other companies or indi
 ### Enforcement
 
 We regularly review our compliance with our Privacy Policy.  When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
+
+### Rights
+
+  * Rights to access and control your personal data. You have the right to access your personal information that is collected or used by Bridge Winners. We offer you settings to control and manage the personal data we have about you.
+  * Right to change or correct data. You can change, update or fix your data.
+  * Right to Right to restriction of processing. You have the right to obtain from us the restriction of processing where one of the following applies:
+    * the accuracy of the personal data is contested by the data subject;
+    * the processing is unlawful;
+    * Bridge Winners no longer needs the personal data for the purposes of the processing, but they are required by you for the establishment, exercise or defence of legal claims;
+    * You have filed a claim to processing data, pending the verification whether the legitimate grounds of Bridge Winners override yours.
+  * Right to take your data. You can ask us for a copy of your personal data and can ask for a copy of personal data you provided in machine readable form.
+  * Right to delete data. You can ask us to erase or delete all or some of your personal data where one of the following grounds applies:
+    * the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed;
+    * there is no legal ground for the processing;
+    * personal data have to be erased for compliance with a legal obligation in law to which the controller is subject;
+    * the personal data have been collected in relation to the offer of information society services.
+  * Right to lodge a complaint. You have a right to lodge a complaint with the supervisory authority of the country in which you reside.
+
+
 
 ### Changes
 
