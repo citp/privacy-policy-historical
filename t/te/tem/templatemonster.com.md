@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatemonster.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601163757id_/https%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatemonster.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121131358id_/https%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,19 +11,6 @@ Processing of personal data, including your name, address, email address, or pho
 Via this data protection declaration, we are informing the general public of the nature, scope, and purpose of the personal data we collect, use, and process. Furthermore, you are informed, by this data protection declaration, of the rights to which you are entitled.
 
 As the data controller and data processor, TemplateMonster.com has implemented numerous technical and organizational measures to ensure complete protection of your personal data throughout the website. Since Internet-based data transmissions may have security gaps, absolute protection is not guaranteed. This is why every data subject is free to transfer personal data to us via all available means, e.g. by email or phone support.
-
-##### Name and Address of the controller
-
-Controller for the purposes of the General Data Protection Regulation (GDPR) is:
-
-JETIMPEX, INC.  
-915 SE 2 Court,  
-Fort Lauderdale,  
-FL 33301  
-United States  
-TAX ID: 42-1774657
-
-Owner contact email: [privacy@templatemonster.com](mailto:contact@templatemonster.com)
 
 ##### In this Policy we will explain:
 
