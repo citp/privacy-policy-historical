@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the officeautopilot.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620112030id_/https%3A//ontraport.com/legal%23op-container--22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officeautopilot.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121033907id_/https%3A//ontraport.com/legal%23op-container--22) for the most accurate reproduction.*
 
-# Privacy Policy, Terms of Service, Anti-Spam Policy, Copyright | ONTRAPORT Legal
+# Privacy Policy, Terms of Service, Copyright | ONTRAPORT Legal
 
 Responsibilities and Management  
 ONTRAPORT has designated our legal department to oversee compliance with the EU and Swiss Privacy Shield program and the GDPR. This team shall review and approve any material changes to this program as necessary. Any questions, concerns, or comments regarding this Policy also may be directed to [gdpr@ONTRAPORT.com](mailto:gdpr@ONTRAPORT.com). 
