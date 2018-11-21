@@ -1,14 +1,24 @@
-> *The following text is extracted and transformed from the contest-corner.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522224409id_/http%3A//www.contest-corner.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contest-corner.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121080208id_/http%3A//www.contest-corner.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Contest Corner: The Best Giveaways on The Net! | Oregon Coast Blogger
+# Privacy Policy | Contest Corner: For a Winning Lifestyle
 
 This Privacy Policy governs the manner in which Contest Corner collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.contest-corner.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Contest Corner.
 
 **Personal identification information**
 
-Update April 16th, 2014: Our site uses Google Analytics, which has now upgraded their system and rolled out new features including [demographic information relating to age and gender](https://support.google.com/adwords/answer/2580383?hl=en&utm_id=ad) and “[Interest categories](https://support.google.com/adwords/answer/2497941?hl=en&utm_id=ad)“. We are currently researching these changes and have not yet installed the new tracking code. **You can[opt-out by clicking here](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCibRGEq_A4S0bjEC3hwPRVfQF2oVtpmq6FNH7Z4tURd9u3kvEsHOdEH6la7uWEonP6WWhOInmVdOwwAG3sWOduwNzOTsiQdfqI6JnzlHvO9AC8z1YraG6mIZ11FZPtO_BS4lVK8EoxM_mNBBkfbj-gyE8j5cQBzkCqDbAhBHqfZOHTzpwO2-ONlboPmvQVwEXKTMRFdaknxPQMjv5kinTmke0blYhC5UnvfgirOOYlj82s16znudKzFuMh8DJAtVEzoXHyj) and find other opt-outs [here.](https://tools.google.com/dlpage/gaoptout/)**
+_Update May 24th, 2018:_ When you subscribe to our email updates, enter a giveaway or leave a blog comment, we will maintain the information submitted for our records unless and until you unsubscribe or ask us to delete this information.
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us by e-mail at: [beebashcroft@gmail.com](mailto:beebashcroft@gmail.com)
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you, or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+_Update April 16th, 2014:_ Our site uses Google Analytics, which has now upgraded their system and rolled out new features including [demographic information relating to age and gender](https://support.google.com/adwords/answer/2580383?hl=en&utm_id=ad) and “[Interest categories](https://support.google.com/adwords/answer/2497941?hl=en&utm_id=ad)“. We are currently researching these changes and have not yet installed the new tracking code. **You can[opt-out by clicking here](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCibRGEq_A4S0bjEC3hwPRVfQF2oVtpmq6FNH7Z4tURd9u3kvEsHOdEH6la7uWEonP6WWhOInmVdOwwAG3sWOduwNzOTsiQdfqI6JnzlHvO9AC8z1YraG6mIZ11FZPtO_BS4lVK8EoxM_mNBBkfbj-gyE8j5cQBzkCqDbAhBHqfZOHTzpwO2-ONlboPmvQVwEXKTMRFdaknxPQMjv5kinTmke0blYhC5UnvfgirOOYlj82s16znudKzFuMh8DJAtVEzoXHyj) and find other opt-outs [here.](https://tools.google.com/dlpage/gaoptout/)** You can read more about how Google uses your Personal Information here: <https://www.google.com/intl/en/policies/privacy/>. 
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+
+Contest Corner is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. You can read the Amazon.com privacy policy [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
+
+Contest Corner participates in the Coupons.com affiliate program. You can read the Coupons.com privacy policy [here](https://www.quotient.com/privacy-policy/).
 
 **Non-personal identification information**
 
@@ -25,7 +35,7 @@ Contest Corner may collect and use Users personal information for the following 
   * _\- To improve our Site_  
 We may use feedback you provide to improve our products and services.
   * _\- To run a promotion, contest, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them. Winners of giveaways hosted on Contest Corner will be asked to provide their mailing information in order to fulfill their prize. Winners may opt-out and forfeit their prize if they do not wish to provide this information. Winner’s shipping information will be provided to the sponsor of the giveaway who is handling prize fulfillment. Contest Corner is not responsible for the privacy policies maintained by these third-party sponsors.
+To send Users information they agreed to receive. Winners of giveaways hosted on Contest Corner will be asked to provide their mailing information in order to fulfill their prize. Winners may opt-out and forfeit their prize if they do not wish to provide this information. Winner’s shipping information will be provided to the sponsor of the giveaway who is handling prize fulfillment. Contest Corner is not responsible for the privacy policies maintained by these third-party sponsors.
   * _\- To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -58,6 +68,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[supercoupongirl@gmail.com](mailto:supercoupongirl@gmail.com)
+[beebashcroft@gmail.com](mailto:beebashcroft@gmail.com)
 
-This document was last updated on April 16th, 2014
+This document was last updated on May 24th, 2018
