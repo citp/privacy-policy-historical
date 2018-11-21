@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okcfox.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624020900id_/http%3A//okcfox.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcfox.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121221520id_/https%3A//okcfox.com/station/privacy) for the most accurate reproduction.*
 
 # Oklahoma City Privacy | News, Weather, Sports, Breaking News | KOKH
 
