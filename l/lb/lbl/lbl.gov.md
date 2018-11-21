@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbl.gov privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619211157id_/http%3A//www.lbl.gov/disclaimers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbl.gov privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121100817id_/http%3A//www.lbl.gov/disclaimers) for the most accurate reproduction.*
 
 # Disclaimers
 
@@ -48,7 +48,7 @@ Because of the nature of our contract, the US Government is granted for itself a
 
 For requests to reproduce LBL information, materials, or images, please click [here](http://go.lbl.gov/copyright-requests). 
 
-If you assert ownership over any materials found on LBL websites or systems and wish for them to be removed or modified, or if you wish to file a DMCA complaint or takedown notice, please contact security at lbl.gov.  Under the DMCA, the University is required to name a DMCA agent.  Contact information for our agent is available [here](http://www.lbl.gov/cgi-bin/ds/ds.cgi?peopleName=adstone).
+If you assert ownership over any materials found on LBL websites or systems and wish for them to be removed or modified, or if you wish to file a DMCA complaint or takedown notice, please contact security at lbl.gov.  Under the DMCA, the University is required to name a DMCA agent.  Contact information for our agent is available [here](https://www.lbl.gov/cgi-bin/ds/ds.cgi?peopleName=adstone).
 
 When you contribute materials to LBL, for instance, by posting to a publicly accessible mailing list or by adding material to a wiki, you grant the University of California an irrevocable license to display and modify the content. 
 
