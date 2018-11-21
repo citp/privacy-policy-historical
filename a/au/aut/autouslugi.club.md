@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autouslugi.club privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520021141id_/http%3A//autouslugi.club/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autouslugi.club privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121230928id_/http%3A//autouslugi.club/privacy) for the most accurate reproduction.*
 
 # privacy – autouslugi.club
 
