@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationaleducation.gov.au privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203054119id_/http%3A//www.education.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationaleducation.gov.au privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121072315id_/http%3A//www.education.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Department of Education and Training
 
@@ -62,16 +62,47 @@ Generally, we collect personal information in order to properly and efficiently 
 
 ## Tax File Numbers
 
-A tax file number (TFN) is a unique identifier issued by the Commissioner of Taxation.  The department collects Tax File Numbers (TFN) for the following purposes:
+The following information is provided to comply with the department’s obligation under Rule 14(1) of the _Privacy (Tax File Number) Rule 2015_ ( **TFN Rule** ).
+
+_Purpose of collection_
+
+A tax file number ( **TFN** ) is a unique identifier issued by the Commissioner of Taxation.  The department may collect TFNs for the following purposes:
 
   * to administer the Higher Education Loan Programs and Trade Support Loans
   * to make payments of salaries and wages to eligible employee types and contractors.
+  * to administer child care financial assistance payments.
 
 
 
-The Taxation Administration Act 1953 prohibits under law the collection, recording, use and disclosure of TFN information except in limited circumstances (sections 8WA and 8WB).  Unauthorised acts and practices relating to TFN information can result in penalties of up to 100 penalty units and imprisonment for 2 years.
+You are not legally obliged to quote your TFN but there may be financial consequences where you chose not to quote it. 
 
-Further information regarding the collection of TFNs can be found at [Office of the Australian Information Commissioner ](http://oaic.gov.au/privacy-law/privacy-act/tax-file-numbers)
+_Prohibitions and penalties_
+
+Certain Commonwealth legislation prohibits the collection, recording, use and disclosure of TFN information.  Relevantly:
+
+  1. the TFN Rule and the _Taxation Administration Act 1953_ (Cth) ( **TAA** ) contain prohibitions on: 
+    1. requiring, requesting or collecting TFN information for unauthorised purposes (TFN Rule 8(1) and subsection 8WA(1) of the TAA).
+    2. recording, using or disclosing TFN information unless permitted under taxation, personal assistance or superannuation law (TFN Rules 9 and 10; and subsection 8WB(1) of the TAA).  
+ 
+A breach of the TFN Rule is an interference with privacy under the Privacy Act. Individuals who consider that their TFN information has been mishandled may make a complaint to the Australian Information Commissioner. Where the breach of privacy is very serious, the Australian Information Commissioner may seek a civil penalty.
+
+A breach of either sections 8WA and 8WB of the TAA is punishable by a fine of 100 penalty units or 2 years imprisonment or both. _NOTE: As at 31 July 2017, 1 penalty unit is equal to $210._
+
+  2. The _A New Tax System (Family Assistance)(Administration) Act 1999_ ( **the** **Family Assistance Administration Act** ) and _Child Care Act 1972_ ( **the Child Care Act** ) are both personal assistance laws within the definition contained in TFN Rule 6(2). These Acts contain prohibitions on the making of a record, disclosure, use, solicitation or supply of information that is protected information – which includes TFNs (sections 163 – 167 of the Families Assistance Administration Act and sections 12K, 12L, 12M, 12Q, 12R and 12S of the Child Care Act). These offences are punishable by two years imprisonment. There are exceptions permitting the collection, use or disclosure of protected information in limited circumstances, as outlined under Part 6 of the Family Assistance Administration Act, and Part IIIA of the Child Care Act.  
+ 
+  3. The _Higher Education Support Act 2003_ ( **HESA** ) is a taxation law within the definition contained in TFN Rule 6(2). In collecting, recording, using and disclosing tax file numbers under HESA the department, the Australian Taxation Office, higher education providers and VET providers must not contravene sections 8WA and 8WB of the TAA.
+
+
+
+_Further information_
+
+If you would like further information about protections surrounding tax file numbers you may wish to consult:
+
+  * The Office of the Australian Information Commissioner’s website (<https://oaic.gov.au/privacy-law/privacy-act/tax-file-numbers>). 
+  * The TFN Rule which regulates the collection, storage, use, disclosure, security and disposal of individuals. The TFN Rule is available on the Federal Register of Legislation website (<https://www.legislation.gov.au/Details/F2015L00249>).
+  * Annex A in the department’s Complete Privacy Policy.
+
+
 
 ## Privacy Notices
 
@@ -148,4 +179,6 @@ Canberra ACT 2601.
 Please note that the privacy policy may change from time to time.
 
 Last updated: 19 October 2015
+  *[HESA]: Higher Education Support Act
+  *[VET]: Vocational Education and Training
   *[FOI]: Freedom of Information
