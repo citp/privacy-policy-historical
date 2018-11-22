@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aramajapan.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523162240id_/http%3A//aramajapan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aramajapan.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122171127id_/http%3A//aramajapan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | J-pop and Japanese Entertainment News
 
