@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moviesgud.net privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617001853id_/http%3A//moviesgud.net/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesgud.net privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122175111id_/http%3A//moviesgud.net/view/privacy) for the most accurate reproduction.*
 
-# Pages Privacy Policy | Movies GUD
+# Pages Privacy Policy | MoviesGud
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@moviesgud.net. 
 
