@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynews4.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625195530id_/http%3A//mynews4.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynews4.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122055304id_/https%3A//mynews4.com/station/privacy) for the most accurate reproduction.*
 
 # Reno Privacy | News, Weather, Sports, Breaking News | KRNV
 
