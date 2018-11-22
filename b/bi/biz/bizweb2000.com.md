@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bizweb2000.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522025458id_/http%3A//bizweb2000.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizweb2000.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122192603id_/http%3A//bizweb2000.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jim Daniels: Home Business Internet Marketing Blog - Jim Daniels: Home Business Internet Marketing Blog
 
 **Website Privacy Policy**
 
-The last update to our Privacy Policy was posted on March 14, 2014. This document governs the privacy policy of our Website, www.bizweb2000.com. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.
+The last update to our Privacy Policy was posted on May 24, 2018. This document governs the privacy policy of our Website, www.bizweb2000.com. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.
 
 **Definitions  
 **
@@ -22,7 +22,7 @@ JDD Publishing is committed to the security and privacy of all our customers. We
 
 JDD Publishing and our affiliates respect your privacy and recognize the need for appropriate protection and management of your PII you share with us.
 
-[OPTIONAL: As a part of our commitment, we have adopted the guidelines used by the Direct Marketing Association Privacy Promise to American consumers. Other than as necessary to provide you with goods and services, we agree to (1) provide our customers with notice of their ability to opt out of information exchanges with our affiliates; (2) honor our customers’ requests not to have their information transferred to our affiliates; and (3) honor our customers’ requests not to receive solicitations from our affiliates.]
+As a part of our commitment, we have adopted the guidelines used by the Direct Marketing Association Privacy Promise to American consumers. Other than as necessary to provide you with goods and services, we agree to (1) provide our customers with notice of their ability to opt out of information exchanges with our affiliates; (2) honor our customers’ requests not to have their information transferred to our affiliates; and (3) honor our customers’ requests not to receive solicitations from our affiliates.
 
 **Links to Other Websites**
 
@@ -153,4 +153,4 @@ As necessary to address changes in laws or our business practices, we may modify
   
 If you have any questions about our Privacy Policy, please contact us using the Contact us information found on our Website.
 
-Copyright © Orion Systems
+Some of the verbiage at this privacy policy is copyrighted and by used with permission by Orion Systems.
