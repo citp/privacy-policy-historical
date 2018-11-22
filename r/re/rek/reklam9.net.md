@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reklam9.net privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605202340id_/http%3A//www.reklam9.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reklam9.net privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122120519id_/http%3A//reklam9.net/privacy_policy.html) for the most accurate reproduction.*
 
 # About Reklam9
 
