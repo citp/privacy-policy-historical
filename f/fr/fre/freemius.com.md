@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the freemius.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520110255id_/https%3A//freemius.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemius.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122053113id_/https%3A//freemius.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Freemius
 
 Freemius, Inc. (the “Company”) is committed to maintaining robust privacy protections for its users. Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service.
 
-For purposes of this Agreement, “Service” refers to the Company’s service which can be accessed via at [freemius.com](http://freemius.com/) in which developers can integrate Freemius and turn their software into a freemium product, or by accessing the Service through software integrated with our API (the “Partners”) in which publishers can sign-up into the Partners’ software.
+For purposes of this Agreement, “Service” refers to the Company’s service which can be accessed via [freemius.com](https://web.archive.org/) and fully described [here](https://web.archive.org/terms/vendor/).
 
-The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of Service. By accepting our [Privacy Policy](http://freemius.com/privacy/ "Privacy Policy") and [Terms of Use](http://freemius.com/terms/ "Terms of use"), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy.
+The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of Service. By accepting our [Privacy Policy](https://web.archive.org/privacy/ "Privacy Policy") and [Terms of Use](https://web.archive.org/terms/ "Terms of use"), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy.
 
 ## I. Information We Collect
 
@@ -50,13 +50,18 @@ In the event we undergo a business transaction such as a merger, acquisition by 
 
 We implement security measures designed to protect your information from unauthorized access. Your account is protected by your account password and we urge you to take steps to keep your personal information safe by not disclosing your password and by logging out of your account after each use. We further protect your information from potential security breaches by implementing certain technological security measures including encryption, firewalls and secure socket layer technology. However, these measures do not guarantee that your information will not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. By using our Service, you acknowledge that you understand and agree to assume these risks.
 
+**Disclosures for National Security or Law Enforcement**  
+Please note that under certain circumstances, we may be required to disclose your personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
 ## IV. Your Rights Regarding The Use Of Your Personal Information
 
 You have the right at any time to prevent us from contacting you for marketing purposes. When we send a promotional communication to a user, the user can opt out of further promotional communications by following the unsubscribe instructions provided in each promotional e-mail. You can also indicate that you do not wish to receive marketing communications from us in the “Settings” section of the Site. Please note that notwithstanding the promotional preferences you indicate by either unsubscribing or opting out in the Settings section of the Site, we may continue to send you administrative emails including, for example, periodic updates to our Privacy Policy.
 
+You may have the right to access personal data that we hold about you and request that we correct, amend, or delete it if it is inaccurate or processed in violation of the Privacy Policy. These access rights may not apply in some cases, including where providing access is unreasonably burdensome or expensive under the circumstances or where it would violate the rights of a third party. If you would like to request access to, correction, amendment, or deletion of your personal data, you can submit a written request to the contact information provided below. We may request specific information from you to confirm your identity.
+
 ## V. Your Right To Be Forgotten
 
-You have the right to request for the erasure of your personal data off of our servers. Once such a request is made by you (please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a2d2d0cbd4c3c1dbe2c4d0c7c7cfcbd7d18cc1cdcf)) we will be committed to carry out the erasure procedure as soon as possible.  
+You have the right to request for the erasure of your personal data off of our servers. Once such a request is made by you (please contact us at: [privacy@freemius.com](mailto:privacy@freemius.com)) we will be committed to carry out the erasure procedure as soon as possible.  
 Please note that:
 
   1. Even after the erasure procedure is complete, your personal data will continue to reside in our backup archives for another 3 weeks. The reason for that is that it’s inoperable for us to isolate individual personal data within the entire archive.
@@ -74,6 +79,6 @@ As part of the Service, we may provide links to or compatibility with other webs
 
 The Company reserves the right to change this policy and our Terms of Service at any time. We will notify you of significant changes to our Privacy Policy by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site. Significant changes will go into effect 30 days following such notification. Non-material changes or clarifications will take effect immediately. You should periodically check the Site and this privacy page for updates.
 
-If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#90e0e2f9e6f1f3e9d0f6e2f5f5fdf9e5e3bef3fffd).
+If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to [privacy@freemius.com](mailto:privacy@freemius.com).
 
- _ **Last Updated: This Privacy Policy was last updated on May 17, 2015.**_
+ _ **Last Updated: This Privacy Policy was last updated on May 24, 2015.**_
