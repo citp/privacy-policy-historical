@@ -1,44 +1,56 @@
-> *The following text is extracted and transformed from the entertainmentwise.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413053624id_/http%3A//www.entertainmentwise.com/info/69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentwise.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122200142id_/https%3A//www.entertainmentwise.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy » Entertainmentwise
 
-**This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.entertainmentwise.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details.** "You" shall mean you, the user of the Site. "We/Us" means **Entertainmentwise.** The "Site" shall have the meaning as defined above. "Users" means the users of the Site collectively and/or individually as the context allows. "User Information" means the personal details, which may be provided by You to Us via the Site as described above.
+This Privacy Policy governs the manner in which Entertainmentwise collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.entertainmentwise.com](https://www.entertainmentwise.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Entertainmentwise.
 
-We process personal data only in strict compliance with the Data Protection Act 1998 and associated legislation.  
-**  
-Data Collection**  
-When using the Site You may encounter areas such as games, competitions, forums, shopping or video services where You may be asked to enter User Information. Such User Information will only be used for the purposes stated at the collection point and/or in accordance with this Privacy Policy.
+ **Personal identification information**
 
-By entering Your User Information, You accept that we may retain Your User Information and that it may be held by Us or any third party company which processes it on Our behalf.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-We reserve the right to perform statistical analyses of User's behaviour and characteristics in order to measure interest in, and use of, the various areas of the Site and, in addition, to inform advertisers of such information as well as the number of Users that have been exposed to or who have clicked on their advertising banners. We will provide only aggregated data from these analyses to third parties.
+ **Non-personal identification information**
 
-**Disclosure**  
-We shall be entitled to sell or otherwise make available Your User Information in order to send You information about Us and Our affiliates, associated companies and organisations, for the following purposes including, but not limited to:
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-promotional and/or marketing material about products, services and offers;  
-market research or compliance;   
-transfers to third parties as required; and  
-any requirements imposed by operational law
+ **Web browser cookies**
 
-We are not responsible for any actions or policies of any third parties who request Your User information and Users should check the applicable privacy policy of such third parties.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**Cookies**  
-You should be aware that information and data may be automatically collected through the use of Cookies. "Cookies" are small text files that store basic information that a web site can use to recognise repeat site visits and as an example, re-call your name if this has been previously supplied. We may use this to observe behaviour and compile aggregate data in order to improve the Site, target the advertising and assess general effectiveness of such advertising.
+ **How we use collected information**
 
-Cookies do not attach to Your system and damage Your files. If You do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookie feature. Note, however, that 'personalised' services may be affected if the cookie option is disabled.
+Entertainmentwise may collect and use Users personal information for the following purposes:
 
-**Advertising  
-**We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+  *  _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  *  _– To improve our Site_ We may use feedback you provide to improve our products and services.
 
-**Security**  
-Security is very important to Us. Security procedures are in place to protect the confidentiality, integrity and availability of Your User information. Your User information will not be kept longer than is necessary for the purposes stated at the collection point or in this Privacy Policy.
 
-**Updates**  
-You may notify Us of any updates, amendments and corrections to previously collected User Information by using the E-mail address below or the Contact section on the site. Further, upon Your request, We will use commercially reasonable efforts to delete Your User Information from our database; however, it may be impossible to delete Your entry without some residual information remaining because of backups and records of deletions.
 
-We reserve the right, at any time, to modify, alter, or update this Privacy Policy.
+ **How we protect your information**
 
-Any site that you may connect to from here is not covered by this Privacy Policy.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
- 
+ **Sharing your personal information**
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+ **Google Adsense**
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+**Changes to this privacy policy**
+
+Entertainmentwise has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+ **Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+ **Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+[Entertainmentwise](https://www.entertainmentwise.com/)
+
+[https://www.entertainmentwise.com](https://www.entertainmentwise.com/)
+
+This document was last updated on June 29, 2017
