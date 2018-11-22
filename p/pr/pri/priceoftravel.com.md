@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceoftravel.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615073355id_/https%3A//www.priceoftravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceoftravel.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122224401id_/https%3A//www.priceoftravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Price of Travel
 
