@@ -1,88 +1,107 @@
-> *The following text is extracted and transformed from the shallownation.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522163319id_/http%3A//www.shallownation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shallownation.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122064633id_/http%3A//www.shallownation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shallow Nation
 
-**Privacy policy**
+If you require any more information or have any questions about our privacy policy, We can be reached via e-mail at info [at] shallownation [dot] com 
 
-This is the web site of Shallow Nation.
+##  Privacy Policy for Shallow Nation
 
-We can be reached via e-mail at info [at] shallownation [dot] com
+At Shallow Nation we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by Shallow Nation and how we use it. 
 
-**Summary**
+**What personal data we collect and why we collect it**
 
-This site collects no more data about you than most other websites.
+**Comments**  
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-Comments, trackbacks, and pingbacks are published, and except in very limited circumstances, will be a permanent part of this site. If you decide to comment, link, or pingback to a post, you must keep this in mind.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-This privacy policy will be reviewed, and may be revised, from time to time. You may wish to revisit it regularly.  
-**  
-Public data and publishing**
+**Contact forms**  
+Our contact form collects your name and email address for the sole purpose of replying to your query.
 
-Browsing this site doesn’t reveal your identity publicly, though see Private Logging later in this document for more information.
+**Cookies**  
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-**Author identification**
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-When posting a comment, a name and email address are required. You do not have to select your real name. Your email address will not published.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-Comments, trackbacks, and pingbacks will be identified by your IP address. These numbers could potentially be traceable to identifying information about you, whether it is your home ISP or the University or Work account where the IP address is registered. Your IP address could potentially be used in conjunction with other data to identify you.
+**Embedded content from other websites**  
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-If you are concerned about attempts to match your IP address to your identity, you may wish to use an anonymous browsing service or attempt some means to obfuscate your real IP address.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-If so, you might like to try Tor, an anonymous browsing service. Please see http://tor.eff.org/ for more details.  
-**  
-Cookies for commenters**
+**Analytics**  
+We may collect statistics about the behavior of visitors to our website. We may display this information publicly but will not disclose personally-identifying information other than as described above.
 
-WordPress, which this site runs, uses cookies if you comment on the blog. This is a convenience for you so that you do not need to type in the same information the next time you comment. For more information, see the WordPress Codex.
+**Who we share your data with**  
+We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors.
 
-You may wish to clear these cookies and the browser cache if you wish to refrain from revealing any identifying information, especially if you are using a public or shared computer.
+**How long we retain your data**  
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-**Private logging**
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-Any time you visit a page on the internet, you send quite a bit of information to the server. The webservers that host this site maintain access logs with the information that you send. This information is used to provide site statistics and to get an idea of popular pages and what sites link here. We do not intend to use these logs to identify legitimate users.
+**What rights you have over your data**  
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-The data logged may be used by us to solve technical problems with the site and, in cases of abuse of this site, to investigate the abuse.
+**Where we send your data**  
+Visitor comments may be checked through an automated spam detection service.
 
-Again, if you are concerned about attempts to match your IP address to your identity, you may wish to use an anonymous browsing service or attempt some means to obfuscate your real IP address.
+**Log Files**  
+Like many other Web sites, Shallow Nation makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-**Data release policy**
+**Cookies and Web Beacons**  
+Shallow Nation uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser. 
 
-Our policy is to only release the data we collect in the following circumstances:
+**DoubleClick DART Cookie**
 
-* As required by law, such as in response to a valid request from law enforcement.  
-* To designated third parties to resolve or investigate abuse complaints.  
-* When the information is related to spiders or bots, usually when investigating technical issues.  
-* For abusive users, we may release information to assist in attempting to block the abusive user or to complain to that user’s Internet Service Provider.  
-* If necessary to defend legal claims against us by third parties.  
-* When we deem it necessary to protect the property or rights of the user community, or this website.
+→ Google, as a third party vendor, uses cookies to serve ads on Shallow Nation.
 
-**No selling of information**
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to Shallow Nation and other sites on the Internet. 
 
-We will not sell information collected via this site, such as your email address, to third parties.  
-**  
-Information security**
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-We make no guarantee that the information that you provide us will be secure.  
-**  
-Email  
-**  
-You are required to give your email address when you post a comment.
+**Our Advertising Partners**
 
-If you are concerned, you may wish to get a free email account or attempt to use a remail service.  
-**  
-Cookies and Web Beacons**  
-Our site does use cookies though the intermediation of partners to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ……. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense. Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Google
+  * Commission Junction
+  * Amazon
+  * Clickbank
+  * Linkshare
+  * Chitika
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on our site send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-Our site has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. You can opt out of third-party advertising by visiting the [Network Advertising Initiative](http://networkadvertising.org/managing/opt_out.asp). Our site’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+You may consult this listing to find the privacy policy for each of the advertising partners of Shallow Nation.
 
-**Links**  
-This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+_
 
-If you feel that this site is not following its stated privacy policy, you may contact us at the above email addresses or The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on Shallow Nation and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. 
+
+Shallow Nation has no access to or control over these cookies that are used by third-party advertisers. 
+
+**Third Party Privacy Policies**
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Shallow Nation’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
+Shallow Nation does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that Shallow Nation has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
+This policy does not apply to any information collected offline or via channels other than this website.
+
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms. 
+
+**Update**  
+This Privacy Policy was last updated on: Thursday, September 6th, 2018.  
+[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
