@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the flyfrontier.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608010444id_/http%3A//content.flyfrontier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyfrontier.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122215552id_/https%3A//www.flyfrontier.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Frontier Airlines
 
-#### **Your privacy is important to us.**  
+Your Privacy is important to us. See how we protect your information
 
-Read on to see how we protect your information.
-
- Frontier Airlines respects your privacy, and this privacy policy ( **"Privacy Policy"** ) is designed to assist you in understanding the collection, use, and safeguarding of information you may provide to Frontier Airlines, as well as ways to review and revise the information you provide.
+Frontier Airlines respects your privacy, and this privacy policy is designed to assist you in understanding the collection, use, and safeguarding of information you may provide to Frontier Airlines, as well as ways to review and revise the information you provide.
 
 This Privacy Notice applies to personal information we collect on the websites (collectively, the "Sites") listed here:
 
@@ -17,19 +15,21 @@ This Privacy Notice applies to personal information we collect on the websites (
 
 
 
-This Privacy Policy applies to customer information submitted via the Sites as well as customer information submitted to Frontier Airlines through telephone, emails, and other traditional communications. In addition, our online terms of use ("[Terms of Use](https://web.archive.org/terms-of-use/ "Terms-of-use")") describe the obligations and restrictions you agree to in exchange for being allowed to use our Website. Together, our Privacy Policy and Terms of Use form a legally binding contract between you and us.
+This Privacy Policy applies to customer information submitted via the Sites as well as customer information submitted to Frontier Airlines through telephone, emails, and other traditional communications. In addition, our online [Terms of Use](https://www.flyfrontier.com/legal/terms-of-use/) describe the obligations and restrictions you agree to in exchange for being allowed to use our Website. Together, our Privacy Policy and Terms of Use form a legally binding contract between you and us.
 
 **BY ACCESSING, BROWSING, USING THIS WEBSITE OR OTHERWISE SUBMITTING INFORMATION TO FRONTIER AIRLINES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY.**
 
-#### **Member Accounts**. 
+## Member Accounts
 
-In order to use certain features of this Website you will have to create an account ("Member Account"). You may never use another person's Member Account without permission. You are solely responsible for the activity that occurs on your account, and you must keep your password secure. You must notify us immediately of any breach of security or unauthorized use of your Member Account. Although we will not be liable for any losses caused by any unauthorized use of your Member Account, you may be liable for our losses or the losses of others due to such unauthorized use. In order to complete certain travel related transactions, for example, when you make online or offline travel reservations or arrangements, register with our various travel and customer benefit programs (e.g.,  _EarlyReturns_ _®_  frequent flyer program or our Business Travel program), purchase gift certificates, or bid on or purchase other merchandise from Frontier Airlines, (each a "Transaction"), you will be asked to provide certain personally identifiable information. The personal information we collect about you through such sources will vary, depending on the nature of the transaction and the information required to fulfill your request for our services, but may include personal information ("Personal Information") and/or payment information (together with Personal Information, the "Transaction Information"), including, without limitation:
+In order to use certain features of this Website you will have to create an account ("Member Account"). You may never use another person's Member Account without permission. You are solely responsible for the activity that occurs on your account, and you must keep your password secure. You must notify us immediately of any breach of security or unauthorized use of your Member Account. Although we will not be liable for any losses caused by any unauthorized use of your Member Account, you may be liable for our losses or the losses of others due to such unauthorized use. In order to complete certain travel related transactions, for example, when you make online or offline travel reservations or arrangements, register with our various travel and customer benefit programs (e.g.,  _FRONTIER Miles_  frequent flyer program or our Business Travel program), purchase gift certificates, or bid on or purchase other merchandise from Frontier Airlines, (each a "Transaction"), you will be asked to provide certain personally identifiable information.
+
+The personal information we collect about you through such sources will vary, depending on the nature of the transaction and the information required to fulfill your request for our services, but may include personal information ("Personal Information") and/or payment information (together with Personal Information, the "Transaction Information"), including, without limitation:
 
   * First and last name, home and email addresses, home and business telephone numbers, facsimile number, and/or other identifying information that permits Frontier Airlines to contact you;
   * Travel information, including passenger name and the name of the person making the reservation, travel companion name(s), all travelers' birth date information, departure city and arrival city contact information (for unaccompanied minors), seating preferences, and/or specific dietary or medical needs;
   * Payment information, including credit card number, card holder name, expiration date and billing address ("Payment Data");
   * International travel information, including passport number, nationality, country of residence, and emergency contact information;
-  * Frontier Airlines travel and customer benefit programs participant information, including  _EarlyReturns_ _®_  account number, flight information, title, company name and EIN - taxpayer ID number (for Business Travel program participants);
+  * Frontier Airlines travel and customer benefit programs participant information, including  _FRONTIER Miles_  account number, flight information, title, company name and EIN - taxpayer ID number (for Business Travel program participants);
   * Travel agency name and contact information, IATA / ARC number; and
   *  Information required to facilitate the use of flight status paging, third party email flight status notification, fare specials notification and similar services.
 
@@ -37,11 +37,11 @@ In order to use certain features of this Website you will have to create an acco
 
 In compliance with applicable laws, it is our policy to require only the Transaction Information necessary for the specific Transaction that you request; we do not condition your participation in any specific activity on our Website, including a Transaction, on the disclosure of more information than is reasonably necessary to complete such that specific activity and/or Transaction.
 
-#### **Usage Information.**  
+## Usage Information
 
 In order to better serve your travel needs and provide you with attentive and consistent customer service, Frontier Airlines also may use certain web technologies such as "cookies" to track your use of our Website ("Usage Information"). Your browser may have an option that allows you to reject cookies, but doing so may limit your use of our Website. Usage Information is anonymous and does not personally identify you. In addition, we may use web beacons (also known as 'action tags' or 'one pixel.gif files'), provided by our advertising serving partner, to measure the effectiveness of, and otherwise manage, our online advertising. These web beacons enable our advertising server to recognize you when you visit the Website and to determine which banner ads bring users to the Website. We do not use spyware, adware or any other similarly intrusive software. The Usage Information Frontier Airlines collects depends on how you choose to use this Website and/or Frontier Airlines' service offerings.
 
-#### **Use of Information Collected.**  
+## Use of Information Collected
 
 Frontier Airlines uses your Transaction Information for the purposes designated, including to complete the Transactions and fulfill the services you have requested, as well as for reference in the event that we need to contact you when processing your requested Transaction. Further, your Personal Information, including any email submissions and their content, may be used in connection with customer-relations correspondence and may be retained for use in evaluating and improving our customer-relations and assistance programs.
 
@@ -51,38 +51,44 @@ Finally, Frontier Airlines also may use your Transaction Information  **and/or 
 
 Except as otherwise described in this Privacy Policy, Frontier Airlines does not disclose or release your Personal Information to third parties; provided that, to the extent permitted by law, Frontier Airlines may use or disclose personally identifiable Personal Information: (a) for compliance purposes, such as immigration and customs control, security, and legal support; (b) in connection with legal requests from (i) government authorities or (ii) third parties pursuant to a subpoena or other legal process; (c) to perform payment verifications, debt reporting or collection, or to otherwise protect the rights or property of Frontier Airlines, its employees, customers, or end users; or (d) if we sell or otherwise transfer substantially all of our assets related to any website that we own or operate and any product or service that we offer, in which event, we will require such third party to honor our current Privacy Policy, until the third party provides you with notice of changes to the Privacy Policy and permits you to exercise any rights you may have under applicable law to limit disclosures of information about you.
 
-#### **Reviewing/Changing Personal Information.**  
+## Reviewing/Changing Personal Information
 
-You can review and edit any of the Personal Information you have provided through this Website at any time by logging into your account. Other requests for access to your Personal Information may be made by writing to:
+You can review and edit or delete any of the Personal Information you have provided for yourself or your child through this Website at any time by logging into your or the child’s _MyFrontier_ account. Other requests for access to your Personal Information may be made by writing to the address below or, with respect to _MyFrontier_ members who are younger than 13 years or age, by calling 1-888-839-5417:
 
 Attn. Customer Relations  
 Frontier Airlines  
 PO Box 492085  
 Denver, CO 80249
 
-#### **Opting-Out.**  
+## Opting-Out
 
 You may opt-out of receiving communications about special offers or programs from Frontier Airlines or other information for which you subscribed by clicking on a link provided at the bottom of the email communication or by logging into your account to update your email preferences. You can visit the Network Advertising Initiative or Digital Advertising Alliance to find out which companies have currently enabled customized ads for your browser and opt out of browser-enabled interest-based advertising.
 
-#### **Security of Personal Information.**  
+## Security of Personal Information
 
-Frontier Airlines takes reasonable precautions and has implemented reasonable technical measures intended to protect against the risks of unauthorized access to, erroneous disclosure of, and unlawful interception of your Transaction Information, including by requiring our Payment Processor to comply with applicable laws and industry standards and by employing Secure Sockets Layer (SSL) encryption technology supported by most versions of Microsoft Internet Explorer, Chrome, Firefox and other popular browsers. Once your Transaction Information is received by Frontier Airlines, we use commercially reasonable efforts to limit access to your Transaction Information about you to those employees and service providers whom we determine need access to that information to provide the requested products or Transaction Information to complete your Transaction and/or other provide offers or opportunities that may be of interest to you. However, even after we receive your Personal Information, we cannot guarantee that your Personal Information may not be accessed, disclosed, altered, or destroyed as a result of a breach of our commercially reasonable efforts or as a result of any other event beyond our reasonable control. Also, please be aware that your email transmissions and/or other communications to Frontier Airlines containing Personal Information may be unlawfully intercepted or accessed by third parties and/or this Website may be subject to hostile network attacks or administrative errors. Accordingly, Frontier Airlines cannot and does not guarantee that your Transaction Information is completely secure and safe from such risks. Additionally, our Payment Processor is solely responsible for the security of your Payment Data.  **FOR THE AVOIDANCE OF DOUBT, WE EXPRESSLY DISCLAIM ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO ENSURING, GUARANTEEING OR OTHERWISE OFFERING ANY DEFINITIVE PROMISE OF SECURITY IN CONNECTION WITH YOUR PERSONAL INFORMATION, TRANSACTION INFORMATION OR USAGE INFORMATION.**
+Frontier Airlines takes reasonable precautions and has implemented reasonable technical measures intended to protect against the risks of unauthorized access to, erroneous disclosure of, and unlawful interception of your Transaction Information, including by requiring our Payment Processor to comply with applicable laws and industry standards and by employing Secure Sockets Layer (SSL) encryption technology supported by most versions of Microsoft Internet Explorer, Chrome, Firefox and other popular browsers. Once your Transaction Information is received by Frontier Airlines, we use commercially reasonable efforts to limit access to your Transaction Information about you to those employees and service providers whom we determine need access to that information to provide the requested products or Transaction Information to complete your Transaction and/or other provide offers or opportunities that may be of interest to you. However, even after we receive your Personal Information, we cannot guarantee that your Personal Information may not be accessed, disclosed, altered, or destroyed as a result of a breach of our commercially reasonable efforts or as a result of any other event beyond our reasonable control. Also, please be aware that your email transmissions and/or other communications to Frontier Airlines containing Personal Information may be unlawfully intercepted or accessed by third parties and/or this Website may be subject to hostile network attacks or administrative errors. Accordingly, Frontier Airlines cannot and does not guarantee that your Transaction Information is completely secure and safe from such risks. Additionally, our Payment Processor is solely responsible for the security of your Payment Data.  
+ **FOR THE AVOIDANCE OF DOUBT, WE EXPRESSLY DISCLAIM ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO ENSURING, GUARANTEEING OR OTHERWISE OFFERING ANY DEFINITIVE PROMISE OF SECURITY IN CONNECTION WITH YOUR PERSONAL INFORMATION, TRANSACTION INFORMATION OR USAGE INFORMATION.**
 
-#### **Third Party Sites.**  
+## Third Party Sites
 
 The Sites may contain links to other websites. Frontier Airlines is not responsible for the collection, use or disclosure of information collected through third-party websites and expressly disclaims any liability related to such collection, use or disclosure. Frontier Airlines is not responsible for the practices employed by websites linked to or from this Website nor the information or content contained therein. Links to other websites are provided solely as a convenience. Your browsing, use and interaction on any other website, including that of our Payment Processor, are subject to that website's own rules and policies and Frontier Airlines recommends that you review the information collection practices of such sites before using them or providing them with information.
 
 In addition to Frontier using cookies and web beacons on our network of websites, we allow certain Third Parties, including Adara Media, to include their own cookies and/or web beacons within our webpages. These companies use of cookies and/or web beacons is subject to their own privacy policies, not the Frontier Privacy Policy. Please visit the privacy policy of Adara Media at http://www.adaramedia.com/privacy-promise.php.
 
-#### **Children's Use of This Site.**  
+## Children's Use of This Site and Children's Membership in _myFRONTIER_
 
-Our site is not designed for or directed to children under the age of 13 and Frontier Airlines does not knowingly collect personally identifiable information from children under the age of 13. We recommend that children under the age of 13 be supervised by an adult while using the Internet and request that children under the age of 13 not provide any personally identifiable information to our Website. We reserve the right to suspend or terminate your Member Account and/or your access to our Website at any time if (1) we have reason to believe that you are under the age of 13 and you have provided Personal Information without obtaining your parents' consent; (2) we have reason to believe you have breached our Terms of Use and/or Privacy Policy or that your conduct violates applicable law or is otherwise harmful to our interests of those of any other third parties, (3) we decide to cease operation of and/or provision of any applicable products or services in connection with the Website; or (4) we have reason to believe that you are under 18 years of age and have registered a Member Account.  **WE ARE COMMITTED TO COMPLYING WITH THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT OF 1998 ("COPPA"). IF YOU ARE UNDER 18 YEARS OF AGE PLEASE DO NOT USE OUR WEBSITE.**
+Our site is not designed for or directed to children under the age of 13, and Frontier Airlines policy is not to collect personally identifiable information from children under the age of 13. We recommend that children under the age of 13 be supervised by an adult while using the Internet and require that children under the age of 13 not provide any personally identifiable information to our Website.
 
-#### **Consent; Changes to This Privacy Policy.**  
+A parent or guardian may register a child as a _myFrontier_  member by calling 1-888-839-5417.  Trained personnel will ensure that the parent or guardian is the person registering the child.  Your enrollment of your child in _myFrontier_  will require the collection, use and potential disclosure of personal information about your child by Frontier Airlines.  As part of _myFrontier_ _, the_ name, gender, birth date or contact information of a Member younger than 13 years of age will not be shared with third parties for promotional purposes, and Frontier Airlines will not intentionally send promotional emails to such Member.
+
+Frontier Airlines reserves the right to suspend or terminate your _myFrontier_ Member Account and/or your access to our Website at any time if we (1) have reason to believe that you are under the age of 13 and you have provided Personal Information without obtaining your parents' or guardian’s consent; (2) have reason to believe you have breached our Terms of Use and/or Privacy Policy or that your conduct violates applicable law or is otherwise harmful to our interests of those of any other third parties, (3) decide to cease operation of and/or provision of any applicable products or services in connection with the Website; or (4) we have reason to believe that you are under 18 years of age and have registered a Member Account.  
+**WE ARE COMMITTED TO COMPLYING WITH THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT OF 1998 ("COPPA"). IF YOU ARE UNDER 18 YEARS OF AGE PLEASE DO NOT USE OUR WEBSITE.**
+
+## Consent: Changes to This Privacy Policy
 
 By accessing or using this Website or otherwise providing the information described above to Frontier Airlines, you consent to Frontier Airlines collection and use of your information as described in this publicly available Privacy Policy. Frontier Airlines reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by publicly posting such change, update or modification on this website.To help you stay current of any changes, we note the date the Privacy Policy and/or Terms of Use was/were last updated below. Any such change, update or modification will be effective immediately upon public posting on this Website. By continuing to access, browse, use this Website or otherwise provide the information described above to Frontier Airlines, you acknowledge that you have read, understand and agree to the terms and conditions of this Privacy Policy, as amended, so we strongly recommend that you check this Privacy Policy and Terms of Use periodically.
 
-#### **Further Questions.**  
+## Further Questions
 
 If you have questions or concerns regarding this Privacy Policy or the collection and use of information submitted to Frontier Airlines, please direct your inquiries to 800-265-5505.
 
@@ -90,4 +96,4 @@ If you have questions or concerns regarding this Privacy Policy or the collectio
 
 
 
-Copyright© 2014, Frontier Airlines, Inc. All Rights Reserved.
+Copyright© 2017, Frontier Airlines, Inc. All Rights Reserved.
