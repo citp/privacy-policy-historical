@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantis.com privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204061047id_/http%3A//atlantisbahamas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantis.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122142256id_/http%3A//atlantisbahamas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Atlantis Resort & Casino Paradise Island Bahamas
 
@@ -6,9 +6,9 @@ Effective Date: 2/20/2015
 
 Atlantis, Paradise Island, Bahamas, owned by Atlantis Resort SPE Limited and operated by Island Hotel Company Limited (collectively, "We" or "Atlantis"), are committed to protecting and respecting your privacy.
 
-This privacy policy (together with our terms of use <http://atlantisbahamas.com/terms> and any other documents referred to in it) sets out the basis on which any information (which may include personal data) we collect from you, or that you provide to us, through this website will be processed by us. Please read the following carefully to understand our practices regarding your information and how we will treat it.
+This privacy policy (together with our terms of use <https://atlantisbahamas.com/terms> and any other documents referred to in it) sets out the basis on which any information (which may include personal data) we collect from you, or that you provide to us, through this website will be processed by us. Please read the following carefully to understand our practices regarding your information and how we will treat it.
 
-By visiting www.atlantisBAHAMAS.com (the "Site") you are accepting and consenting to the practices described in this policy (including as updated or amended from time to time). If, for any reason, you do not agree to the terms of this policy, please stop using the Site immediately.
+By visiting www.atlantisbahamas.com (the "Site") you are accepting and consenting to the practices described in this policy (including as updated or amended from time to time). If, for any reason, you do not agree to the terms of this policy, please stop using the Site immediately.
 
 Please click on the sections below to learn more about our privacy policy:
 
@@ -98,7 +98,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Atlantis or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use <http://atlantisbahamas.com/terms> and other agreements; or to protect the rights, property, or safety of Atlantis, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [http://atlantisbahamas.com/terms](https://atlantisbahamas.com/terms) and other agreements; or to protect the rights, property, or safety of Atlantis, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
   * To any other third party with your prior consent to do so.
 
 
@@ -119,7 +119,7 @@ The Site is not directed toward children under 13 years of age nor does Atlantis
 **YOUR RIGHTS AND CHOICES**  
 We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-If you wish to subscribe to our newsletter(s), email alerts or text alerts, we will use your name and email address to send the newsletter and email alerts to you and we will use your name and telephone number to send the text alerts to you. You may opt out of certain communications such as customer feedback or marketing emails or postal mail through the instructions in the email or text, as applicable, by clicking here <http://atlantisbahamas.com/unsubscribe> or by contacting us as described in the "Contact Us" section below.
+If you wish to subscribe to our newsletter(s), email alerts or text alerts, we will use your name and email address to send the newsletter and email alerts to you and we will use your name and telephone number to send the text alerts to you. You may opt out of certain communications such as customer feedback or marketing emails or postal mail through the instructions in the email or text, as applicable, by clicking here <https://atlantisbahamas.com/unsubscribe> or by contacting us as described in the "Contact Us" section below.
 
 Some Browsers support a “Do Not Track” feature, which is intended to be a signal to websites that you do not wish to be tracked across different websites you visit. Certain legal obligations require that we disclose how websites we operate, such as our registration page, react to Do Not Track signals.
 
@@ -138,7 +138,7 @@ California residents are entitled to ask us for a notice describing what categor
 
 **CONTACT US**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [privacy@atlantisparadise.com](mailto:privacy@atlantisparadise.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a9d9dbc0dfc8cad0e9c8ddc5c8c7ddc0dad9c8dbc8cdc0dacc87cac6c4).
 
 OR 
 
@@ -148,6 +148,6 @@ Executive Offices Coral Towers
 One Casino Drive  
 PO Box N-4777, Paradise Island, Bahamas
 
-If you do not want to receive e-mail from us in the future, please let us know by emailing us: [privacy@atlantisparadise.com](mailto:privacy@atlantisparadise.com). or calling us Toll Free at 1-888-528-7155 or if outside the US call 1-242-363-3000. If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by emailing us: [privacy@atlantisparadise.com](mailto:privacy@atlantisparadise.com). or calling us Toll Free at 1-888-528-7155 or if outside the US call 1-242-363-3000.
+If you do not want to receive e-mail from us in the future, please let us know by emailing us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#29595b405f484a5069485d4548475d405a59485b484d405a4c074a4644). or calling us Toll Free at 1-888-528-7155 or if outside the US call 1-242-363-3000. If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by emailing us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ee9e9c87988f8d97ae8f9a828f809a879d9e8f9c8f8a879d8bc08d8183). or calling us Toll Free at 1-888-528-7155 or if outside the US call 1-242-363-3000.
 
-Upon request we provide Site visitors with access to all information including proprietary information that we maintain about them. Customers can access this information and if errors are found, request that this information be corrected by emailing us: [privacy@atlantisparadise.com](mailto:privacy@atlantisparadise.com). or calling us Toll Free at 1-888-528-7155 or if outside the US call 1-242-363-3000.
+Upon request we provide Site visitors with access to all information including proprietary information that we maintain about them. Customers can access this information and if errors are found, request that this information be corrected by emailing us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1262607b6473716b5273667e737c667b6162736073767b61773c717d7f). or calling us Toll Free at 1-888-528-7155 or if outside the US call 1-242-363-3000.
