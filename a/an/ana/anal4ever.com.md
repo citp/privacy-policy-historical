@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anal4ever.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521094815id_/http%3A//www.anal4ever.com/static/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anal4ever.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122030725id_/http%3A//www.anal4ever.com/static/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - anal4ever.com - Anal4Ever
 
