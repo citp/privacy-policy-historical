@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startbuyingstocks.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522061923id_/http%3A//startbuyingstocks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startbuyingstocks.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123003739id_/http%3A//startbuyingstocks.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
