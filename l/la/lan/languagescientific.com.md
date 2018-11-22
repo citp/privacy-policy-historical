@@ -1,31 +1,53 @@
-> *The following text is extracted and transformed from the languagescientific.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413234312id_/http%3A//www.languagescientific.com/privacy-policy-for-translation-localization.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the languagescientific.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122114448id_/http%3A//www.languagescientific.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Language Scientific
 
-Detailed below is how we handle information we learn about you when you visit our Website. The information we receive depends on what you provide us or what you do when visiting our site.
+## Introduction
 
-## Automatic Information
+This policy describes the types of information Language Scientific, Inc. (“LS”, “we”, or “our”) may collect from its users when they visit [https://www.languagescientific.com](http://www.languagescientific.com/) (“website”). It also includes our practices for the collection, use, maintenance, protection or disclosure of user data. Our Policy does not reflect information collected by LS by other means including, but not limited to offline or other third party websites. Questions regarding this policy can be sent to [quality@languagescientific.com](mailto:quality@languagescientific.com). LS reserves the right to modify this policy at any time.
 
-When you visit languagescientific.com, our web server automatically captures and stores the name of the domain from which you access the Internet. For example, if you access the internet via AT&T, the date and time you access our site and the IP address of the Website you're coming from is recorded. This information enables us to run site usage reports and gather statistical information. These statistics enable us to better understand how our site is being used and what we can do to make the site more useful for our users.
+## GDPR Compliance Policy
 
-## Collection and Use of Personal Information
-
-We collect personal information about you only when you elect to provide such information to us, such as when you complete the contact us form to request additional information regarding our services or submit an email to us. The information collected might include your name, company name, title, email address, phone number, fax number, etc. Any personal information collected will be used solely for the purpose(s) for which it was collected, unless you indicate otherwise. The personal information you provide to us will not be sold or shared with third parties or outside vendors.
-
-## Links
-
-languagescientific.com may contain links to other sites not owned or managed by Language Scientific. LS is not responsible for the privacy practices of any other Website.
+The General Data Protection Regulation (GDPR) is an EU regulation that sets more stringent rules to improve data protection and privacy for all individuals residing within the European Union. GDPR went into effect on 25 May 2018. Language Scientific Inc. is responsible for the processing of personal data of our customers and their customers. As part of our privacy compliance policy, Language Scientific fully complies with the GDPR. As a Processor, we adhere to the GDPR regulations concerning the transfer of personal identifiable information of citizens in the European Union.
 
 ## Use of Cookies
 
-"Cookies" are small files that are placed on your hard drive that assist us in providing customized services. We may insert cookies on your computer and access those cookies. These cookies may be used to help you navigate through our Website, to provide you with customized and personalized features, or to assist us in collecting anonymous information concerning usage of our Website.
+Language Scientific’s website uses cookies, tracking pixels and related technology to enhance user experience of the site. Cookies are stored on your device and may be deleted by you at any time. As a user of our website, you can set your browser to refuse browser cookies, or to provide notice when cookies are being sent. Please note that if you disable or refuse cookies some aspects of our website may not function.
 
-## Opt Out
+## How Language Scientific Obtains Personal Data
 
-Language Scientific recognizes that users may not wish to be contacted about new or related services. LS provides an opt-out function in all materials that are sent, allowing the user to unsubscribe from any mailing list at any time. If you receive an email from us and wish to be removed, you will be given instructions on how to remove yourself from our mailing lists.
+Personal data obtained by Language Scientific stems from request for quotes from our customers or prospective vendors looking to work with us. LS processes data such as personal identifying data, address and location, files sent to us for quotation and projects, resumes and CV’s of our accredited vendors, financial documentation for accounting purposes and email addresses.  In addition, for some customers conducting clinical trials, we translate files that may accidentally contain unredacted personal identifying information of the research subjects.
 
-## Contact Information
+## User Rights in Regard to Personal Data
 
-Language Scientific welcomes your comments regarding this Statement of Privacy please contact us by email at [info@languagescientific.com](mailto:info@languagescientific.com) if you'd like further information.
+At any time, you have the right to exercise your rights under applicable law and regulations. You may request access to your personal data being stored by LS. This includes the right to obtain confirmation from LS whether your personal data is being processed, where it is being processed and how it is being processed. At any time you may request that LS erase any personal data collected in due time. As a user you also hold the right to withdraw consent at any time. Requests related to user rights must be made by sending an email to info@languagescientific.com.
 
-[Back to top»](http://www.languagescientific.com/privacy-policy-for-translation-localization.html#top-nav)
+## Transfer of Data Across Borders
+
+Data collected from users may at any time be transferred and stored at a destination outside of the European Economic Area. It may also be processed by LS staff operating outside of the European Economic Area by data processors acting on behalf of LS. LS staff refers to those necessary to fulfill your requests or order. For more information on LS’s data transfer policies please contact us at quality@languagescientific.com.
+
+## Data Security
+
+Language Scientific has security procedures in place to ensure that all records are secured. These records are accessible only by those required to access your data. Our servers our only accessed by a small number of LS’s staff.  Our information security is only accessible internally and audited to ensure it is in compliance with Language Scientific’s procedures and meets industry standards.
+
+## Retention of Data
+
+When data is no longer deemed necessary in relation to the purpose that it was collected, LS will delete user data. Upon withdrawal of consent LS will also delete your user data. LS also complies with all legal obligations to data deletion. LS does not resell or provider third parties with any collected customer or vendor data.
+
+## Maintaining Privacy and Confidentiality
+
+When translating a file into multiple different languages, several file exchanges are necessary. Language Scientific conducts these transfers over their secure translation management system in order to make sure confidential information is secure.  LS is committed to complying with all data protection laws and is certified with both ISO 9001 and ISO 17100 standards.
+
+## Third Party Websites
+
+Our website may contain links to websites outside of [www.languagescientific.com](http://www.languagescientific.com/). This policy does not apply to other website. You are encouraged to read the privacy statements of any website linked to ours. Language Scientific is not responsible for what third parties do with their websites, or their handling of personal data.
+
+## Privacy Policy Revisions
+
+Language Scientific reserves the right to modify this policy at any time. Changes to this policy will be published on this page. The date of last revision of LS’s privacy policy is posted at the top of this page. As a user, you are responsible for reviewing updates to this policy. Continued use of this website will be deemed as acknowledgement of this policy.
+
+## Controller and Contact Information
+
+Language Scientific, Inc. , 101 Station Landing Suite 500, Medford, MA 02155
+
+Should you have any questions or concerns regarding this policy, you may contact us at [info@languagescientific.com](mailto:info@languagescientific.com).
