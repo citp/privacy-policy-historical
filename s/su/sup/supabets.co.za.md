@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the supabets.co.za privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226123349id_/http%3A//supabets.co.za/Pages/Footer_Privacy/Guest) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supabets.co.za privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122113723id_/http%3A//www.supabets.co.za/Pages/Footer_Privacy/Guest) for the most accurate reproduction.*
 
 # Supabets
 
-Lotto
-
-[ ](http://www.supabets.co.za/TPAutologin.aspx?Destinazione=ISLotto_ToWebClient)
-
-LIVE BETTING
-
-Sport Categories
+[ ](https://web.archive.org/TPAutologin.aspx?Destinazione=ISLotto_ToWebClient)
 
 | 
 
