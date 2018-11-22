@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dashbid.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123163049id_/http%3A//www.dashbid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dashbid.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122211835id_/https%3A//www.dashbid.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DashBid
+# Privacy Policy — DashBid | Programmatic Advertising That Works
 
 DashBid is committed to safeguarding the privacy of our users and customers. This Privacy Policy statement explains the data usage practices of our web site. If you have any requests concerning your personal information or any queries with regard to these practices please contact us by e-mail at support@DashBid.com.
 
-**Privacy Policy Statement**
+ **Privacy Policy Statement**
 
 This website uses Google Analytics and other data services to help analyze how visitor use this site. Google Analytics and other services uses “cookies”, which are small text files placed on your computer, to collect standard internet log information and visitor behavior information in an anonymous form. No personally identifiable information is collected about you unless you explicitly submit that information via a fill-in form on this website.
 
