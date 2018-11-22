@@ -1,11 +1,14 @@
-<!--The following is the downloaded HTML source of the auctionzip.com privacy policy that was archived on 2018-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180608061912id_/https%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auctionzip.com privacy policy that was archived on 2018-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181122113422id_/https%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>
       AuctionZip, LLC Privacy Policy
     </title>
 	
+
+
+
 
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P2QNBH"></script><script async="" type="text/javascript" src="//www.auctionzip.com/includes/js/prebid.js"></script><script type="text/javascript">
 if(typeof(AZ_UID_SET)=='undefined')
@@ -144,6 +147,7 @@ function sendAdserverRequest(bidResponses) {
 
 	// Get results
 	var targetingParams = pbjs.getAdserverTargeting();
+//	console.log(JSON.stringify(targetingParams));
 	// Optional Bid Diagnostics Display
 	var container = document.getElementById('prebid_diag');
 	if (container)
@@ -228,8 +232,9 @@ function sendAdserverRequest(bidResponses) {
 				iframe.style.border="none";
 				iframe.style.width=adsize[0]+"px";
 				iframe.style.height=adsize[1]+"px";
+				iframe.src="/includes/structureTemplates/headerbidiframe.html?code="+encodeURIComponent(code)+"&oxauid="+encodeURIComponent(oxauid)+"&referer="+encodeURIComponent(document.location)+"&bidvars="+encodeURIComponent(JSON.stringify(bidvars));
 				container.appendChild(iframe);
-				var ifdoc=iframe.contentWindow.document;
+//				var ifdoc=iframe.contentWindow.document;
 				var html="\<html>\n";
 				html+="\<head>\n";
 				html+="\</head>\n";
@@ -251,11 +256,12 @@ function sendAdserverRequest(bidResponses) {
 				}
 				html+="OX_Render.load();\n";
 				html+="\</script\>\n";
+				html+="\</div>\n";
 				html+="\</body>\n";
 				html+="\</html>\n";
-				ifdoc.open();
-				ifdoc.write(html);
-				ifdoc.close();
+//				ifdoc.open();
+//				ifdoc.write(html);
+//				ifdoc.close();
 			}
 			else
 			{
@@ -290,19 +296,17 @@ function sendAdserverRequest(bidResponses) {
 <meta name="copyright" content="Copyright 2011">
 <meta name="description" content="Large database of live auctions. Auctioneers you may post your Auction listings here! Search by Area - Auctioneer - Category - Keyword. View full listings, photos, Auctioneer links and information.">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script type="text/javascript" src="/includes/js/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="/includes/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="/includes/js/custom-min.js"></script>
-<script type="text/javascript" src="/includes/js/emailCapture-azv1.05.js"></script>
 <script type="text/javascript" src="/includes/js/termsOfService.js"></script>
 <link rel="stylesheet" type="text/css" href="/includes/css/style-min-azv1.05.css">
 
 	<link rel="canonical" href="https://www.auctionzip.com/agreements/privacy.html">
 		<link rel="stylesheet" type="text/css" href="/includes/css/font-family.css">
+		<link rel="stylesheet" type="text/css" href="/includes/css/home.css">
   </head>
   <body>
-  	<link rel="stylesheet" type="text/css" href="/includes/css/az-common.css">
-<div id="body">
+	  <link rel="stylesheet" type="text/css" href="/includes/css/az-common.css">
+<div id="body" class="az-main-container">
 		<div class="az-header-ads-container">
 			<div class="right az-right" id="headPlacement">
 				
@@ -312,22 +316,42 @@ function sendAdserverRequest(bidResponses) {
 
 			</div>
 		</div>
-	<div id="bodyInner">
+	<div id="bodyInner" class="az-content-container">
 	<!-- bodyInner // -->	
 		<!-- Top // -->		
 		<div id="top" class="clearfix az-header-logo-container">
-			<div class="az-signIn-links-container">
-				<div class="loginStuff">
+			<div class="az-header-block">
+				<div class="az-signIn-links-container">
+					<div class="az-calendar">
+	<a href="//www.auctionzip.com/cgi-bin/auctionsearch.cgi?txtSearchRadius=0&amp;txtSearchZip=&amp;txtSearchKeywords=&amp;idxSearchCategory=0&amp;month=&amp;year=">
+		<img src="/images/calender-new.png">
+	</a>
+	<a class="az-calendar-link" href="//www.auctionzip.com/cgi-bin/auctionsearch.cgi?txtSearchRadius=0&amp;txtSearchZip=&amp;txtSearchKeywords=&amp;idxSearchCategory=0&amp;month=&amp;year=">Calendar</a>
+</div>
+<div class="loginStuff">
 	<script type="text/javascript">
 		var logState = 'Log In';
 	</script>
 	<!-- Links -->
+	<div id="hlogOut">
+		<div tabindex="0" class="az-my-account-menu">
+			<img src="/images/user-new.png">
+			<span class="az-my-account-text">My Account</span>
+			<ul class="az-my-account-menu-content">
+				<li><a href="/cgi-bin/favpanel.cgi?mde=11">Calendar</a></li>
+				<li><a href="/cgi-bin/favphotos.cgi">Favorites</a></li>
+				<li><a href="/cgi-bin/listfav.cgi">Saved</a></li>
+				<li><a href="/my-account/current-bids">My Bids</a></li>
+				<li><a href="/my-account/message-center">Messages</a></li>
+				<li><a href="/cgi-bin/azlogin.cgi">Account</a></li>
+				<li><a href="//www.auctionzip.com/cgi-bin/azlogin.cgi">Log In</a></li>
+			</ul>
+		</div>
+	</div>
 	
-	
-	<div id="hlogIn" style="display: block;">
-		<a href="//www.auctionzip.com/cgi-bin/azlogin.cgi">Sign Up</a>
-		|
-		<a href="javascript: showLogin();" id="headingLink">Member Login</a>
+	<div id="hlogIn">		
+		<a href="javascript: showLogin();" id="headingLink">Login</a>
+		<a href="//www.auctionzip.com/cgi-bin/azlogin.cgi" class="az-create-account">Create Account</a>
 	</div>
 	<!-- //    -->
 	
@@ -346,7 +370,7 @@ function sendAdserverRequest(bidResponses) {
 					<div class="clearfix">
 						<label class="formItems" for="pw">Password:</label>
 						  <input class="txtIP" id="pw" type="password" size="16" name="pass">
-						  <a href="//www.auctionzip.com/lostpass.html" class="forgotPW">Forgot  your password?</a>
+							<a href="//www.auctionzip.com/lostpass.html" class="forgotPW az-forgot-pw">Forgot  your password?</a>
 					</div>
 					
 					<input type="checkbox" checked="checked" value="1" id="remem" name="remember">
@@ -365,147 +389,129 @@ function sendAdserverRequest(bidResponses) {
 
 
 
-			</div>
-			<div class="left">
-				<a href="//www.auctionzip.com">
-					<img border="0" src="/images/AZ_Logo.png" class="logo" alt="AuctionZip: Find auctions anywhere!" title="AuctionZip: Find auctions anywhere!">
-				</a>
-			</div>
-		</div>
-		<!-- End Top // -->
-		
-			<!-- navBar // -->
-	<div id="navBar" class="clearfix">
-		<ul id="mainNavLinks">
-			<li><a href="//www.auctionzip.com">Home</a></li>
+				</div>
+				<div class="left">
+					<a href="//www.auctionzip.com">
+						<img border="0" src="/images/AZ_Logo.png" class="logo" alt="AuctionZip: Find auctions anywhere!" title="AuctionZip: Find auctions anywhere!">
+					</a>
+				</div>
+				<!-- navBar // -->
+	<div id="navBar" class="clearfix az-nav-bar">
+		<ul id="mainNavLinks">			
 			<li><a href="//www.auctionzip.com/online-auctions/">Online Bidding</a></li> 
 			<li><a href="//www.auctionzip.com/Auctioneer-Directory/">Auctioneer Directory</a></li>
-			<li><a href="//www.auctionzip.com/az-top-ten.html">Top 10 Auctioneers</a></li>
-			<li><a href="//www.auctionzip.com/cgi-bin/azlogin.cgi">Member Login &amp; Sign Up</a></li> 
-			<li></li>
+			<li><a href="//www.auctionzip.com/az-top-ten.html">Top Auctioneers</a></li>			
 		</ul>
-		  
-		
-		<div class="navRight"> 
-			<form method="post" action="javascript: void(0);" onsubmit="javascript: submitAuctioneerSearch('//www.auctionzip.com'); return false;">
-				<p>
-					AuctionZip Auctioneer ID#
-					<input type="text" id="txtSearchAZID" name="txtSearchAZID" class="txtx">
-					<input type="button" class="fixGreen submitx" onclick="javascript: submitAuctioneerSearch('//www.auctionzip.com'); return false;" value="GO">
-				</p>
-			</form>
-		</div> 
 	</div>
+</div>
 	
 	  <link rel="stylesheet" type="text/css" href="/includes/css/srchboxheader.css">
   <div id="hsrchbarbox" class="hsrchbarbox az-header-searchbar-container">
-  
-    <form name="hsrchbox" id="hsrchbox" action="//www.auctionzip.com/cgi-bin/auctionsearch.cgi" method="get">
-  
-      <div class="az-miles-container">
-        <select name="txtSearchRadius" id="htxtSearchRadius" onchange="document.getElementById('hnewsearch').value=1;srchbarinputSelect(this,2);" class="azsrchbar az-miles-selectbox">
-          <option value="30">
-            30 Miles
-          </option>
-          <option value="50">
-            50 Miles
-          </option>
-          <option value="100">
-            100 Miles
-          </option>
-          <option value="150">
-            150 Miles
-          </option>
-          <option value="200">
-            200 Miles
-          </option>
-          <option value="250">
-            250 Miles
-          </option>
-          <option value="500">
-            500 Miles
-          </option>
-          <option value="0">
-            Anywhere
-          </option>
-        </select>
-      </div>
-  
-      <div class="az-zip-container">
-        <input type="text" id="htxtSearchZip" onchange="srchbarinputChange(this,0);document.getElementById('hnewsearch').value=1;" name="txtSearchZip" size="5" onblur="srchbarinputBlur(this,0,'Zip Code');" onfocus="srchbarinputFocus(this,0);" onkeypress="return srchbarinputNoenter(event);" value="" class="azsrchbar az-zip-textbox" style="color: rgb(153, 153, 153);">
-      </div>
-  
-  
-  
-  
-      <div class="az-category-container">
-        <select name="idxSearchCategory" onchange="document.getElementById('hnewsearch').value=1;srchbarinputSelect(this,3);" id="hidxSearchCategory" class="azsrchbar az-category-textbox">
-          <option value="0" selected="">
-            All Categories
-          </option>
-          <option value="1">
-            Antiques-Household-Collectibles
-          </option>
-          <option value="2">
-            Agricultural-Farm
-          </option>
-          <option value="4">
-            Automobiles
-          </option>
-          <option value="8">
-            Commercial-Industrial
-          </option>
-          <option value="30736">
-            Real Estate (General)
-          </option>
-          <option value="32">
-            Benefit-Charity
-          </option>
-          <option value="64">
-            Heavy Equipment
-          </option>
-          <option value="128">
-            Online Bidding
-          </option>
-          <option value="256">
-            New Merchandise
-          </option>
-          <option value="512">
-            Storage Auctions
-          </option>
-          <option value="1024">
-            Wholesale Auctions
-          </option>
-          <option value="16384">
-            Real Estate (Farm)
-          </option>
-          <option value="2048">
-            Real Estate (Land)
-          </option>
-          <option value="4096">
-            Real Estate (Commercial)
-          </option>
-          <option value="8192">
-            Real Estate (Residential)
-          </option>
-        </select>
-      </div>
-      <div class="az-keywords-container">
-        <input type="text" name="txtSearchKeywords" id="htxtSearchKeywords" onchange="srchbarinputChange(this,1); document.getElementById('hnewsearch').value=1;" onblur="srchbarinputBlur(this,1,'Keywords');" onfocus="srchbarinputFocus(this,1);" onkeypress="return srchbarinputNoenter(event);" value="" class="azsrchbar az-keyword-textbox" style="color: rgb(153, 153, 153);">
-  
-        <input type="hidden" id="htxtSearchMonth" name="month" value="">
-        <input type="hidden" id="htxtSearchYear" name="year" value="">
-        <input type="hidden" id="searchPath" name="searchPath" value="head">
-        <input type="hidden" value="0" name="newsearch" id="hnewsearch">
-      </div>
-  
-      <div class="hsrch-btn-container az-aearch-button-container">
-        <input type="submit" id="hsearchSubmitButton" value="Search Auctions" onclick="srchvarinputCheck();if((document.getElementById(&quot;htxtSearchZip&quot;).value == &quot;&quot;)&amp;&amp;(document.getElementById(&quot;htxtSearchRadius&quot;).value != 0)){srchvarinputSet();SearchClickSubmitFailed=true;alert(&quot;Please enter a starting Zip code for your search.&quot;);return(false);};" class="azsrchbar az-search-auction-button">
-      </div>
-  
-    </form>
-  
-  
+    <div class="az-header-block">
+      <form name="hsrchbox" id="hsrchbox" action="//www.auctionzip.com/cgi-bin/auctionsearch.cgi" method="get">
+    
+        <div class="az-zip-container">
+          <img src="/images/nav.png" class="az-nav-img">
+          <input type="text" id="htxtSearchZip" onchange="srchbarinputChange(this,0);document.getElementById('hnewsearch').value=1;" name="txtSearchZip" size="5" onblur="srchbarinputBlur(this,0,'Zip Code');" onfocus="srchbarinputFocus(this,0);" onkeypress="return srchbarinputNoenter(event);" value="" class="azsrchbar az-zip-textbox" style="color: rgb(153, 153, 153);">
+        </div>
+        
+        <div class="az-miles-container">
+          <select name="txtSearchRadius" id="htxtSearchRadius" onchange="document.getElementById('hnewsearch').value=1;srchbarinputSelect(this,2);" class="azsrchbar az-miles-selectbox">
+            <option value="30">
+              30 Miles
+            </option>
+            <option value="50">
+              50 Miles
+            </option>
+            <option value="100">
+              100 Miles
+            </option>
+            <option value="150">
+              150 Miles
+            </option>
+            <option value="200">
+              200 Miles
+            </option>
+            <option value="250">
+              250 Miles
+            </option>
+            <option value="500">
+              500 Miles
+            </option>
+            <option value="0">
+              Anywhere
+            </option>
+          </select>
+        </div>
+    
+        <div class="az-category-container">
+          <select name="idxSearchCategory" onchange="document.getElementById('hnewsearch').value=1;srchbarinputSelect(this,3);" id="hidxSearchCategory" class="azsrchbar az-category-textbox">
+            <option value="0" selected="">
+              All Categories
+            </option>
+            <option value="1">
+              Antiques-Household-Collectibles
+            </option>
+            <option value="2">
+              Agricultural-Farm
+            </option>
+            <option value="4">
+              Automobiles
+            </option>
+            <option value="8">
+              Commercial-Industrial
+            </option>
+            <option value="30736">
+              Real Estate (General)
+            </option>
+            <option value="32">
+              Benefit-Charity
+            </option>
+            <option value="64">
+              Heavy Equipment
+            </option>
+            <option value="128">
+              Online Bidding
+            </option>
+            <option value="256">
+              New Merchandise
+            </option>
+            <option value="512">
+              Storage Auctions
+            </option>
+            <option value="1024">
+              Wholesale Auctions
+            </option>
+            <option value="16384">
+              Real Estate (Farm)
+            </option>
+            <option value="2048">
+              Real Estate (Land)
+            </option>
+            <option value="4096">
+              Real Estate (Commercial)
+            </option>
+            <option value="8192">
+              Real Estate (Residential)
+            </option>
+          </select>
+        </div>
+        <div class="az-keywords-container">
+          <input type="text" name="txtSearchKeywords" id="htxtSearchKeywords" onchange="srchbarinputChange(this,1); document.getElementById('hnewsearch').value=1;" onblur="srchbarinputBlur(this,1,'Keywords');" onfocus="srchbarinputFocus(this,1);" onkeypress="return srchbarinputNoenter(event);" value="" class="azsrchbar az-keyword-textbox" style="color: rgb(153, 153, 153);">
+    
+          <input type="hidden" id="htxtSearchMonth" name="month" value="">
+          <input type="hidden" id="htxtSearchYear" name="year" value="">
+          <input type="hidden" id="searchPath" name="searchPath" value="head">
+          <input type="hidden" value="0" name="newsearch" id="hnewsearch">
+        </div>
+    
+        <div class="hsrch-btn-container az-search-button-container">
+          <img src="/images/search.png" class="az-search-img">
+          <input type="submit" id="hsearchSubmitButton" value="Search" onclick="srchvarinputCheck();if((document.getElementById(&quot;htxtSearchZip&quot;).value == &quot;&quot;)&amp;&amp;(document.getElementById(&quot;htxtSearchRadius&quot;).value != 0)){srchvarinputSet();SearchClickSubmitFailed=true;alert(&quot;Please enter a starting Zip code for your search.&quot;);return(false);};" class="azsrchbar az-search-auction-button">
+        </div>
+    
+      </form>
+    </div>
   </div>
   <script type="text/javascript" src="/includes/js/menusrch.js"></script>
 
@@ -566,6 +572,8 @@ function sendAdserverRequest(bidResponses) {
 </div>
 	<!-- End navBar // -->
 
+		</div>
+		<!-- End Top // -->
 		
 		<!-- innerContent // -->
 		<div id="innerContent" class="clearfix">
@@ -574,6 +582,7 @@ function sendAdserverRequest(bidResponses) {
 				<div id="innersContent" class="clearfix">
 					<!-- CONTENT STARTS HERE // -->
 
+	  <div class="az-innerContent">
 		<h1>
 		  Privacy Policy
 		</h1>
@@ -945,7 +954,7 @@ function sendAdserverRequest(bidResponses) {
 <!-- END HTTP TAGS HERE -->
 
 
-    								<!-- CONTENT ENDS HERE // -->
+									<!-- CONTENT ENDS HERE // -->
 							</div>
 						</div>
 					</div>
@@ -958,58 +967,62 @@ function sendAdserverRequest(bidResponses) {
 					<link rel="stylesheet" type="text/css" href="/includes/css/az-footer.css">
 <!-- Footer // -->
 <div id="footer" class="clearfix az-footer">
+	<div class="az-footer-block">
+		<ul class="footerLink">
+			<li class="headingLink">Quick Links</li>
+			<li><a href="//www.auctionzip.com/helpCenter/az-help-section.html">Help</a></li>
+			<li><a id="createAccount" href="//www.auctionzip.com/cgi-bin/azlogin.cgi">Create Account</a></li>
+			<li id="myAccount"><a href="https://www.auctionzip.com/cgi-bin/azlogin.cgi">My Account</a></li>
+			<li><a href="//www.auctionzip.com/online-auctions/">Online Bidding</a></li> 
+			<li><a href="//www.auctionzip.com/Auctioneer-Directory/">Auctioneer Directory</a></li>		
+			<li><a href="//www.auctionzip.com/categories.html">Category Pages</a></li>
+		</ul>
 
-	<ul class="footerLink">
-		<li class="headingLink">Auction Search</li>
-			<li><a href="//www.auctionzip.com/cgi-bin/auctionsearch.cgi?txtSearchRadius=0&amp;txtSearchZip=&amp;txtSearchKeywords=&amp;idxSearchCategory=0&amp;month=&amp;year=">Auction Calendar</a></li>
-			<li><a href="//www.auctionzip.com/Auctioneer-Directory/">Auctioneer Directory</a></li>
-			<li><a href="//www.auctionzip.com/cgi-bin/highlights.cgi">Prices Realized</a></li>
-	</ul>
-	
-	<ul class="footerLink">
-		<li class="headingLink">Online Bidding</li>
-			<li><a href="//www.auctionzip.com/online-auctions/">Upcoming Auctions</a></li>
-
-			<!-- Commented out since videos dont match across sites -->
-			<!--<li><a href="// #echo var="HTTP_HOST" >/Tutorial.html">Online Bidding Tutorial</a></li>-->
-			
-			<li><a href="//www.auctionzip.com/azlive.html?method=getHelpInfo">Online Bidding Help</a></li>
-	</ul>
-	
-	<ul class="footerLink">
-		<li class="headingLink">Quick Links</li>
-			<li><a href="//www.auctionzip.com/cgi-bin/azlogin.cgi">Create Account</a></li>
-			<li><a href="http://auctionzipontheblock.blogspot.com">Auction News</a></li>
-			<li><a href="https://www.auctionzip.com/azforum/">Auction Forum</a></li>
+		<ul class="footerLink az-contact-links">		
 			<li><a href="//www.auctionzip.com/about.html">About Us</a></li>
 			<li><a href="//www.auctionzip.com/contacts.html">Contact Us</a></li>
 			<li><a href="//www.auctionzip.com/linktous.html">Link to Us</a></li>
-			<li><a href="//www.auctionzip.com/content/advertise/">Advertise with Us</a></li>
-	</ul>
-	
-	<ul class="footerLink">
-		<li class="headingLink">Follow Us</li>
+			<li><a href="https://www.auctionzip.com/content/advertise/index.html">Advertise with Us</a></li>
+			<li><a href="https://www.auctionzip.com/content/advertise/sell.html">Sell Online</a></li>
+		</ul>
+			
+		<div class="navRight az-nav-right"> 
+			<form method="post" action="javascript: void(0);" onsubmit="javascript: submitAuctioneerSearch('//www.auctionzip.com'); return false;">
+				<p>
+					Auctioneer ID #
+				</p>
+				<input type="text" id="txtSearchAZID" name="txtSearchAZID" class="txtx az-search-box" placeholder="Enter ID#">
+				<div class="az-search-btn-grp">
+					<img src="/images/search.png" class="az-search-btn-img">
+					<input type="button" class="fixGreen submitx az-search-box-btn" onclick="javascript: submitAuctioneerSearch('//www.auctionzip.com'); return false;" value="">			
+				</div>
+			</form>
+		</div> 
+		
+		<ul class="footerLink">
+			<li class="headingLink">Follow Us</li>
 			<li class="SMIcons">
-				<a href="http://twitter.com/auctionzip" target="_blank" class="az-footer-icons"><img src="/images/twitter-icon.png" class="az-footer-link-img" align="middle" alt="" title=""></a>
-				<a href="http://twitter.com/auctionzip" target="_blank" class="sm">Follow Us</a>
+				<a href="http://twitter.com/auctionzip" target="_blank" class="az-footer-icons"><img src="/images/twitter-icon-new.png" class="az-footer-link-img" align="middle" alt="" title=""></a>
+				<a href="http://twitter.com/auctionzip" target="_blank" class="sm">Twitter</a>
 			</li>
 			<li class="SMIcons">
-				<a href="http://www.facebook.com/findauctions" target="_blank" class="az-footer-icons"><img src="/images/facebook-icon.png" class="az-footer-link-img" align="middle" alt="" title=""></a>
-				<a href="http://www.facebook.com/findauctions" target="_blank" class="sm">Like Us</a>
+				<a href="http://www.facebook.com/findauctions" target="_blank" class="az-footer-icons"><img src="/images/facebook-icon-new.png" class="az-footer-link-img" align="middle" alt="" title=""></a>
+				<a href="http://www.facebook.com/findauctions" target="_blank" class="sm">Facebook</a>
 			</li>
-	</ul>
-	
-	<div class="searchAuctions">		
-		<div class="az-sub-footer-logo-container">
-			<div style="display: table-cell;vertical-align: middle;">
-				<a title="Auction Holdings BBB Business Review" href="http://www.bbb.org/boston/business-reviews/auctioneers/auction-holdings-in-allston-ma-126734/#bbbonlineclick"><img alt="Auction Holdings BBB Business Review" style="border: 0;" src="http://seal-boston.bbb.org/seals/blue-seal-63-134-auction-holdings-126734.png"></a>
-			</div>
-			<div style="display: table-cell;vertical-align: middle;padding-left: 40px;">
-				<a href="http://www.auctioneers.org/"><img src="/images/naa.png"></a>
+		</ul>
+		
+		<div class="searchAuctions">		
+			<div class="az-sub-footer-logo-container">
+				<div style="display: table-cell;vertical-align: middle;">
+					<!-- Modified the image src to match to invision image -->
+					<a title="Auction Holdings BBB Business Review" href="http://www.bbb.org/boston/business-reviews/auctioneers/auction-holdings-in-allston-ma-126734/#bbbonlineclick"><img class="az-bbb-img" alt="Auction Holdings BBB Business Review" style="border: 0;" src="/images/blue-seal-63-134-auction-holdings-126734-new.png"></a>
+				</div>
+				<div style="display: table-cell;vertical-align: middle;padding-left: 35px;">
+					<a href="http://www.auctioneers.org/"><img class="az-naa-img" src="/images/naa-new.png"></a>
+				</div>
 			</div>
 		</div>
 	</div>
-	
 </div>
 
 <div id="subFoot" class="az-sub-footer">
@@ -1029,6 +1042,7 @@ function sendAdserverRequest(bidResponses) {
 				</div>
 			</div>
 
+	</div>	
   
 
 </body></html>
