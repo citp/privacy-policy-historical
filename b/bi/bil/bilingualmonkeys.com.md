@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bilingualmonkeys.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523012536id_/http%3A//bilingualmonkeys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bilingualmonkeys.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122084205id_/http%3A//bilingualmonkeys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Bilingual Monkeys
 
@@ -37,7 +37,7 @@ IP addresses are masked (only a portion is stored) and personal information is o
 
 ## Newsletter Subscription
 
-If you [subscribe](http://bilingualmonkeys.com/subscribe/) to the Bilingual Monkeys newsletter, your name and email address is added to our newsletter mailing list, which is managed by MailChimp. Our newsletter is generally sent once a week and you may unsubscribe at any time.
+If you [subscribe](http://bilingualmonkeys.com/subscribe/) to the Bilingual Monkeys newsletter, your name and email address is added to our newsletter mailing list, which is managed by MailChimp. Our newsletter is sent out on a regular basis and you may unsubscribe at any time.
 
 ## Amazon Affiliate Disclosure
 
@@ -53,4 +53,4 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
 ## Update
 
-This Privacy Policy was last updated on Friday, March 17, 2018.
+This Privacy Policy was last updated on Saturday, June 30, 2018.
