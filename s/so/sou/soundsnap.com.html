@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the soundsnap.com privacy policy that was archived on 2018-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180621110154id_/https%3A//www.soundsnap.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soundsnap.com privacy policy that was archived on 2018-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181122023009id_/https%3A//www.soundsnap.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="linux chrome chrome69 webkit webkit5"><head>
 <title>Soundsnap Privacy Policy</title>
@@ -15,44 +15,61 @@
 <style type="text/css" media="all">@import "/misc/drupal.css";</style><script type="text/javascript" src="/misc/drupal.js"></script>
 <script type="text/javascript" src="/modules/contrib/crg/audio/download_control.js"></script>
 <script type="text/javascript" src="/modules/contrib/alexis/checkuser/checkuser.min.js"></script>
+<script type="text/javascript" src="/modules/contrib/crg/login_template/login_template.js"></script>
+<script type="text/javascript" src="/misc/form_label.js"></script>
 <script type="text/javascript">      $j(document).ready(function(){
-        $j(".header a[href='/user']").before("<div id=\"login-popup\" style=\"display:none;\"> <div class=\"block block-user\" id=\"block-user-0\"> <h2 class=\"title\">User login</h2> <div class=\"content\"><form action=\"/privacy?destination=node%2F31287\" method=\"post\" id=\"user-login-form\"> <div><div class='login_template'><div class='ojoo-login-box'> <div class='ojoo-login-content'> <div class=\"form-item\"> <label for=\"edit-name\">Username or e-mail address: <span class=\"form-required\" title=\"This field is required.\">*</span></label> <input type=\"text\" maxlength=\"60\" name=\"edit[name]\" id=\"edit-name\" size=\"15\" value=\"\" tabindex=\"1\" class=\"form-text required\" /> </div> <div class=\"form-item\"> <label for=\"edit-pass\">Password: <span class=\"form-required\" title=\"This field is required.\">*</span></label> <input type=\"password\" name=\"edit[pass]\" id=\"edit-pass\" maxlength=\"60\" size=\"15\" tabindex=\"2\" class=\"form-text required\" /> </div> <input type=\"submit\" name=\"op\" value=\"Log in\" tabindex=\"3\" class=\"form-submit\" /> <div class='item-list'><div class='ojoo-item'><a href=\"/user/register\" title=\"Create a new user account.\">Create new account</a></div> <div class='ojoo-item'><a href=\"/user/password\" title=\"Request new password via e-mail.\">Request new password</a></div> </div> <a href=\"/products\" class=\"button-link login-subscription-btn\">Buy Sounds</a><input type=\"hidden\" name=\"edit[form_id]\" id=\"edit-user-login-block\" value=\"user_login_block\" /> </div> </div> </div> </div></form> </div> </div> </div>").click(function(){  
-		  $j(".login-subscription-btn").hide();
-		 });
-        $j(".header a[href='/user']").attr('href', '#TB_inline?height=445&width=330&inlineId=login-popup;modal=false').addClass('thickbox');		
-		$j(".si_favorite").attr('href', '#TB_inline?height=490&width=330&inlineId=login-popup;modal=false').addClass('thickbox');
-		$j(".si_member.si_download").removeAttr("dl").attr('href', '#TB_inline?height=490&width=330&inlineId=login-popup;modal=false').addClass('thickbox'); 
-		  $j(".si_member.si_download, .si_favorite").click(function(){  
-			$j(".login-subscription-btn").css('display', 'block');
-		 }); 
+        $j(".header a[href='/user']").before("<div id=\"login-popup\" style=\"display:none;\"> <form action=\"/privacy?destination=node%2F31287\" method=\"post\" id=\"user-login-form\"> <div><div class='login_template'><div class='ojoo-login-box'> <h1>Login to Soundsnap</h1> <div class=\"login_subtitle\">Enter your details below</div> <div class='ojoo-login-content'> <div class=\"form-item\"> <input type=\"text\" maxlength=\"60\" name=\"edit[name]\" id=\"edit-name\" size=\"15\" value=\"\" tabindex=\"1\" class=\"form-text required\" required /> <label for=\"edit-name\">Username or e-mail address <span class=\"form-required\" title=\"This field is required.\">*</span></label> </div> <div class=\"form-item\"> <input type=\"password\" name=\"edit[pass]\" id=\"edit-pass\" maxlength=\"60\" size=\"15\" tabindex=\"2\" class=\"form-text required\" required /><a href=\"/user/password\" class=\"forgot_password\" title=\"Request new password via e-mail.\">Forgot?</a> <label for=\"edit-pass\">Password <span class=\"form-required\" title=\"This field is required.\">*</span></label> </div> <input type=\"submit\" name=\"op\" value=\"Log in\" tabindex=\"3\" class=\"form-submit\" /> <div class='item-list'></div> <input type=\"hidden\" name=\"edit[form_id]\" id=\"edit-user-login-block\" value=\"user_login_block\" /> <div> Don’t have an account? <a href='/user/register'>Sign up now</a></div> </div> </div></div> </div></form> </div>").click(function(){  
+		  		$j(".login_template h1").text("Login to Soundsnap");
+		 		});
+        $j(".header a[href='/user']").attr('href', '#TB_inline?height=400&width=450&inlineId=login-popup;modal=false').addClass('thickbox');		
+				$j(".si_favorite, .crg_login").attr('href', '#TB_inline?height=440&width=450&inlineId=login-popup;modal=false').addClass('thickbox');
+				$j(".si_member.si_download").removeAttr("dl").attr('href', '#TB_inline?height=440&width=450&inlineId=login-popup;modal=false').addClass('thickbox'); 
+		  	$j(".si_member.si_download").click(function(){  
+					$j(".login_template h1").text("You need to login to download sounds");
+					$j(".login_template .login_subtitle").text("Login to your Soundsnap account");
+				});
+				$j(".si_favorite").click(function(){  
+					$j(".login_template h1").text("You need to login to add favorites");
+					$j(".login_template .login_subtitle").text("Login to your Soundsnap account first");
+				}); 
       });</script>
 <script type="text/javascript" src="/modules/contrib/crg/login_popup/assets/thickbox-compressed.js"></script>
-<script type="text/javascript">tb_pathToImage="/modules/contrib/crg/login_popup/assets/loadingAnimation.gif";</script>
 <script type="text/javascript" src="/modules/contrib/favorites_group/favorites_group.min.js"></script>
 <script src="/modules/contrib/ojoo/audio_wave/wavesurfer.1.4.0.rc.1.min.js"></script>
-<script type="text/javascript" src="/misc/collapse.js"></script>
 <script type="text/javascript" src="/modules/contrib/samatason/keyword_suggest/keyword_suggest.min.js"></script>
 <meta name="page_title" content="Soundsnap Privacy Policy">
 <meta name="keywords" content="sounds,sound effects,download sounds">
 <meta name="robots" content="index,follow">
 <link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon">
-<script src="https://optanon.blob.core.windows.net/consent/2d54ff65-4f0b-45c9-9618-2528db41c0fe-test.js" type="text/javascript" charset="UTF-8"></script><script type="text/javascript">function OptanonWrapper() { window.dataLayer.push( { event: 'OneTrustGroupsUpdated' } ) }</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script src="https://cdn.cookielaw.org/consent/2d54ff65-4f0b-45c9-9618-2528db41c0fe.js" type="text/javascript" charset="UTF-8"></script><script type="text/javascript">function OptanonWrapper() { window.dataLayer.push( { event: 'OneTrustGroupsUpdated' } ) }</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-KQ5H9V5');</script>
-<meta name="description" content="The most popular site for professional sound effects in the world.: Privacy policy sounds."><style type="text/css" media="all">@import "/files/.cache/all.7bf69dc3ec508ebb075bc55a1f71f664b2d00871.css";</style> 
+<meta name="description" content="The most popular site for professional sound effects in the world.: Privacy policy sounds."><style type="text/css" media="all">@import "/files/.cache/all.ab872e5be0af4de37168d00f4bc518a9d31c21cd.css";</style> 
 <!-- end -->
-<link rel="image_src" href="/themes/soundsnap3">
-<!--comodo -->
-<script type="text/javascript"> //<![CDATA[ 
-var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.comodo.com/" : "http://www.trustlogo.com/");
-document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
-//]]>
-</script><script src="https://secure.comodo.com/trustlogo/javascript/trustlogo.js" type="text/javascript"></script>
+<link rel="image_src" href="/themes/soundsnap3"><!--ads -->
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/plain" class="optanon-category-4">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+<script type="text/plain" class="optanon-category-4">
+  googletag.cmd.push(function() {
+    var mapping1 = googletag.sizeMapping().
+    addSize([1200, 500], [728, 90]).
+    addSize([0, 0], [300, 250]).
+    build();
+
+    var Soundsnap_Banner=googletag.defineSlot('/175269464/Soundsnap_Banner', [728, 90], 'div-gpt-ad-1542362890657-0').setTargeting("test", "refresh").defineSizeMapping(mapping1).addService(googletag.pubads());
+    setInterval(function(){googletag.pubads().refresh([Soundsnap_Banner]);}, 30000);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
 </head>
 
-<body id="" class="">
+<body id="" class="page-bg-wrapper">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQ5H9V5"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div id="fb-root"></div>
@@ -77,15 +94,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 <input type="submit" name="op" value="Search" class="form-submit">
 </div>
-<div class="search-within">
-<a href="/search" class="advanced">Advanced Search</a><input type="hidden" name="edit[form_id]" id="edit-ojoo-search-audio-only" value="ojoo_search_audio_only">
+<input type="hidden" name="edit[form_id]" id="edit-ojoo-search-audio-only" value="ojoo_search_audio_only">
 <input type="hidden" name="edit[keys-ojoo-autocomplete]" id="edit-keys-ojoo-autocomplete" value="https://www.soundsnap.com/modules/contrib/samatason/keyword_suggest/keyword_suggest.php" class="keyword-suggest-autocomplete" disabled="disabled">
-</div>
 
 </div></form>
                   <script type="text/javascript">
-                    //var e = document.getElementById('edit-keys-ojoo');
-                      //if(e) {e.focus();}
                      $j("#edit-keys-ojoo").attr('placeholder','Search for sound effects');
 
 										 $j("#edit-keys-ojoo").focusin(function() {
@@ -128,7 +141,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               		<li><a href="/products">Pricing</a></li>
               		<li><a href="https://soundsnap.zendesk.com/hc/en-us" target="_blank">FAQ</a></li>
                   <li><a href="/store">SFXHD</a></li>
-			  					              			<li><div id="login-popup" style="display:none;"> <div class="block block-user" id="block-user-0"> <h2 class="title">User login</h2> <div class="content"><form action="/privacy?destination=node%2F31287" method="post" id="user-login-form"> <div><div class="login_template"><div class="ojoo-login-box"> <div class="ojoo-login-content"> <div class="form-item"> <label for="edit-name">Username or e-mail address: <span class="form-required" title="This field is required.">*</span></label> <input type="text" maxlength="60" name="edit[name]" id="edit-name" size="15" value="" tabindex="1" class="form-text required"> </div> <div class="form-item"> <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label> <input type="password" name="edit[pass]" id="edit-pass" maxlength="60" size="15" tabindex="2" class="form-text required"> </div> <input type="submit" name="op" value="Log in" tabindex="3" class="form-submit"> <div class="item-list"><div class="ojoo-item"><a href="/user/register" title="Create a new user account.">Create new account</a></div> <div class="ojoo-item"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></div> </div> <a href="/products" class="button-link login-subscription-btn">Buy Sounds</a><input type="hidden" name="edit[form_id]" id="edit-user-login-block" value="user_login_block"> </div> </div> </div> </div></form> </div> </div> </div><a href="#TB_inline?height=445&amp;width=330&amp;inlineId=login-popup;modal=false" class="bold thickbox">Login</a><span class="desktop-text">/</span><a href="/user/register" class="bold">Register</a></li>
+			  					              			<li><a href="/user" class="bold">Login</a><span class="desktop-text">/</span><a href="/user/register" class="bold">Register</a></li>
               		                </ul>
                 <div class="social">
                     <a href="https://www.facebook.com/pages/Soundsnap/93453304184" class="icon-facebook" title="soundsnap on Facebook" target="_blank"></a>
@@ -143,74 +156,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
       
 	<div class="maincontent" id="maincontent">
-        <div>
-          
-          		 
-          
-			<div id="content" role="main">
-                                                <h1 class="title">Privacy policy</h1>						
-						
+  	
+		<div id="content" role="main">
+    
+			<h1 class="title">Privacy policy</h1>						
             <div id="main">
-                                 
+							                
                                                        
  
-                  <!-- begin content --><div class="node">
+                  <!-- begin content --><div class="node"><div id="sidebar-left">  
+  <ul class="sidebar-menu">
+<li class="active"><a href="/privacy">Privacy Policy</a></li>
+<li><a href="/licence">License</a></li>
+<li><a href="/tos">Terms &amp; Conditions</a></li>
+</ul></div>
     <div class="content">
-      <style>
-
-li {
-margin: 10px 0px;
-}
-
-h1 {
-	font-size: 1.2em;
-}
-
-h2 {
-	font-size: 1.0em;
-}
-
-.subheader {
-	font-size: 0.8em;
-}
-
-.page {
-	font-size: 14px;
-}
-
-.title {
-	color: #bbb;
-	font-size: 1.02em;
-}
-
-</style><div class="page">
+      <div class="page">
 OJOO Limited<br>
 Bouboulinas 11<br>
 Nicosia 1060, Cyprus<br>
-Hello@Soundsnap.com
-</div>
-<p>**PLEASE NOTE THAT OUR PRIVACY PRACTICES MAY DIFFER IN CERTAIN JURISDICTIONS, AS SET FORTH IN THIS PRIVACY POLICY.<br>
-<br></p>
-<div class="page">
-Effective Date: May 25th, 2018
-</div>
-<div class="page">
-<h1>INTRODUCTION</h1>
+Hello@Soundsnap.com<p></p>
+<p>**PLEASE NOTE THAT OUR PRIVACY PRACTICES MAY DIFFER IN CERTAIN JURISDICTIONS, AS SET FORTH IN THIS PRIVACY POLICY.</p>
+<p>Effective Date: May 25th, 2018</p>
+<h2>INTRODUCTION</h2>
 <p>Thank you for visiting www.soundsnap.com! This privacy policy governs and explains Soundsnap’s privacy policies and practices on our Site (the “Privacy Policy”).</p>
 <p>This Privacy Policy is incorporated into our Terms and Conditions by reference and is made a part thereof. All capitalized terms contained in our Privacy Policy that are not defined will have the meaning given them in our Terms and Conditions. As stated in our Terms and Conditions, we do not allow users under eighteen (18) years old. If you are under the age of eighteen (18), you are not authorized to use our Site, or our Services and Products.</p>
-<p>In this privacy policy, SoundSnap may be defined as either: "SoundSnap", "We", "Us" or "Our” as the context may require.
-</p></div>
-<div class="page">
-<h1>UNITED STATES USERS</h1>
-<p>If you are a United States resident and/or are accessing, viewing, and/or using our Site in the United States, the following privacy terms will apply.
-</p></div>
-<div class="page">
+<p>In this privacy policy, SoundSnap may be defined as either: "SoundSnap", "We", "Us" or "Our” as the context may require.</p>
+<h2>UNITED STATES USERS</h2>
+<p>If you are a United States resident and/or are accessing, viewing, and/or using our Site in the United States, the following privacy terms will apply.</p>
 <h2>COLLECTION OF INFORMATION &amp; DATA FROM OUR USERS</h2>
-<h2>Personal Information</h2>
+<h3>Personal Information</h3>
 <p>We may collect personally identifiable information that you provide to us through the Site. This is done via registration forms, surveys, applications, billing process, input questions, and other online fields, including, but not limited to, your name, email address(es), your mailing address, VAT number(s), telephone number(s), username(s), profile photos and images you upload, and/or other relevant personal information (collectively, the “Personal Information”). You may be required to provide us with Personal Information to complete your registration profile, view any of our Products and Services, and/or to access, download, and purchase our Products and Services through our Site. Some of your Personal Information submitted by you and collected by us may be stored and maintained by third-party data processors, including, but not limited to, Google.</p>
-<h2>User Data</h2>
+<h3>User Data</h3>
 <p>We also collect and track certain information about you that may not constitute Personal Information. This includes, but may not be limited to: </p>
-<ul style="list-style-type:none; padding-left: 28%; padding-right: 25%;">
+<ul>
 <li>Collecting and tracking your session ID; </li>
 <li>Your server domain names; </li>
 <li>Date and time of your visit(s) to our Site; </li>
@@ -235,117 +214,80 @@ Effective Date: May 25th, 2018
 <li>And/or the number of times you view any advertisement(s) on our Site (the “User Data”).</li>
 </ul>
 <p>We also may aggregate any such User Data, which is typically collected, analyzed and maintained in aggregated and de-identified formats.</p>
-<h2>Opting Out</h2>
-<p>If you do not wish to provide any of the Personal Information described above, and/or if you prevent us from collecting and storing the User Data in accordance with this Privacy Policy, you may be unable to view, access, use and/or to obtain our Services and/or view and access our Site. You may choose to opt-out of certain provisions of this Privacy Policy by submitting a request in writing to Hello@Soundsnap.com. Specifically, you may opt out of providing your mailing address and unsubscribe to our mail and email marketing lists. Please note that this opt-out process may take some time to complete, consistent with applicable law.
-</p></div>
-<div class="page">
+<h3>Opting Out</h3>
+<p>If you do not wish to provide any of the Personal Information described above, and/or if you prevent us from collecting and storing the User Data in accordance with this Privacy Policy, you may be unable to view, access, use and/or to obtain our Services and/or view and access our Site. You may choose to opt-out of certain provisions of this Privacy Policy by submitting a request in writing to Hello@Soundsnap.com. Specifically, you may opt out of providing your mailing address and unsubscribe to our mail and email marketing lists. Please note that this opt-out process may take some time to complete, consistent with applicable law.</p>
 <h2>HOW WE COLLECT INFORMATION</h2>
 <p>To collect User Data, we use Google Analytics tracking on our Site. By accessing, viewing, and using our site, you agree to the Google Analytics Terms of Service.</p>
 <p>Using Google Analytics, we will collect Personal Information and User Data (collectively, the “Information”) about you with "cookies", or other electronic tools or other similar authenticating or tracking technologies on your computer’s and/or devices’ hard drive to collect traffic and User use information.</p>
-<p>If you prefer, you can usually set your browser to disable cookies, or to alert you when cookies are being sent. The help function on most browsers and mobile devices contains instructions on how to set your browser to notify you before accepting cookies, disable cookies entirely, or disable the collection of geo-location data. You may, at your option, disable cookies through each of your individual browsers. However, if you disable cookies or refuse to accept a request to place a cookie, it is possible that some parts of our Site, the data, information, content, materials and/or our Products and Services contained on or accessed through our Site, will not function properly. You agree that we are not liable for any portion of the Site that does not operate properly after you take these actions.
-</p></div>
-<div class="page">
-<h2 class:="" "subheader"="">Other 3rd Party Processors and Collected Information</h2>
-<p>We also use various other third party processors in order to provide you with our Products and Services, enhance your user experience on our Site, create user accounts, enable login functionality, provide you updates and various promotions and offers, provide receipts for Products and Services ordered, and enable our Site to function smoothly. These third party processors may at various times have access to, and store, Personal Information and User Data. Our processors currently are the following (“Processors”): FutureHosting, SiteGround, JCC, BrainTree, PayPal, Algolia, Google, Facebook, MailChimp, ExitBee, LinkedIn, ZenDesk, Zapier,  Nexcess, and SingleHop. By accessing and viewing our Site, providing your Information, and accessing our Products and Services, you agree to each of our Processor’s privacy policies.
-</p></div>
-<div class="page">
+<p>If you prefer, you can usually set your browser to disable cookies, or to alert you when cookies are being sent. The help function on most browsers and mobile devices contains instructions on how to set your browser to notify you before accepting cookies, disable cookies entirely, or disable the collection of geo-location data. You may, at your option, disable cookies through each of your individual browsers. However, if you disable cookies or refuse to accept a request to place a cookie, it is possible that some parts of our Site, the data, information, content, materials and/or our Products and Services contained on or accessed through our Site, will not function properly. You agree that we are not liable for any portion of the Site that does not operate properly after you take these actions.</p>
+<h2>Other 3rd Party Processors and Collected Information</h2>
+<p>We also use various other third party processors in order to provide you with our Products and Services, enhance your user experience on our Site, create user accounts, enable login functionality, provide you updates and various promotions and offers, provide receipts for Products and Services ordered, and enable our Site to function smoothly. These third party processors may at various times have access to, and store, Personal Information and User Data. Our processors currently are the following (“Processors”): FutureHosting, SiteGround, JCC, BrainTree, PayPal, Algolia, Google, Facebook, MailChimp, ExitBee, LinkedIn, ZenDesk, Zapier,  Nexcess, and SingleHop. By accessing and viewing our Site, providing your Information, and accessing our Products and Services, you agree to each of our Processor’s privacy policies.</p>
 <h2>OUR USE OF COLLECTED INFORMATION</h2>
 <p>Other than to the Processors listed above, we do not sell or distribute your Personal Information or User Data to third parties. However, we will use the Information collected for the reasons listed above, as well as for other internal reasons, including, but not limited to:</p>
-<ul style="list-style-type:none; padding-left: 28%; padding-right: 25%;">
+<ul>
 <li>(a) monitoring, researching, and analyzing traffic flow on our Site;</li>
 <li>(b) better service provision for Users of our Site;</li>
 <li>(c) compilation and aggregation of anonymous information about usage of our Site and the Services;</li>
 <li>(d) provide announcements about Site features, products, and updates, and/or</li>
 <li>(e) provide various product and service promotions. In addition, we will use your Personal Information to maintain contact with you.</li>
 </ul>
-</div>
-<div class="page">
 <h2>DISCLOSURE OF PERSONAL INFORMATION</h2>
-<p>We will only share your Information with our Processors, partners, subsidiaries, affiliates, and parent companies on an anonymous and aggregate basis where possible. However, we may also disclose your Information to unaffiliated third parties if we believe in good faith that such disclosure is necessary, including, to: (a) comply with the law or in response to a subpoena, court order, government request, and/or other legal process; (b) produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, and/or other legal or administrative proceedings; and/or (c) protect the interests, rights, safety, or property of our Users or others.
-</p></div>
-<div class="page">
+<p>We will only share your Information with our Processors, partners, subsidiaries, affiliates, and parent companies on an anonymous and aggregate basis where possible. However, we may also disclose your Information to unaffiliated third parties if we believe in good faith that such disclosure is necessary, including, to: (a) comply with the law or in response to a subpoena, court order, government request, and/or other legal process; (b) produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, and/or other legal or administrative proceedings; and/or (c) protect the interests, rights, safety, or property of our Users or others.</p>
 <h2>SECURITY OF PERSONAL INFORMATION</h2>
 <p>Any Personal Information you provide to us is kept on secure servers. We use commercially reasonable administrative, technical, personnel, and physical measures and efforts: (a) to safeguard Personal Information against loss, theft, unauthorized use, disclosure, or modification; and (b) to ensure the integrity of the Personal Information. To help us protect your privacy, you should maintain the secrecy of any login ID(s) and password(s) you may have set up in connection with your viewing and access of our Site, and the use of our Services.</p>
 <p>Despite our efforts to protect your Personal Information, the confidentiality of any communication or material transmitted to or from us via our Site, the Services, or via e-mail cannot be, and is not, guaranteed. Accordingly, you agree that we are not responsible for the security of information transmitted to or from you via the Internet.</p>
-<p>In addition, to protect your Personal Information, never share your password and/or Personal Information with anyone. If you feel that your password or Personal Information has been discovered or compromised, you should change it immediately by logging onto our Site and accessing your profile to change your password.
-</p></div>
-<div class="page">
+<p>In addition, to protect your Personal Information, never share your password and/or Personal Information with anyone. If you feel that your password or Personal Information has been discovered or compromised, you should change it immediately by logging onto our Site and accessing your profile to change your password.</p>
 <h2>ACCESS TO, AND ABILITY TO CORRECT, PERSONAL INFORMATION</h2>
-<p>You may modify, correct, change or update your Personal Information by contacting us at Hello@Soundsnap.com.  We will make commercially reasonable efforts to accommodate your request and typically process requests within thirty (30) calendar days from receipt of your request(s). However, we reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by law.
-</p></div>
-<div class="page">
+<p>You may modify, correct, change or update your Personal Information by contacting us at Hello@Soundsnap.com.  We will make commercially reasonable efforts to accommodate your request and typically process requests within thirty (30) calendar days from receipt of your request(s). However, we reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by law.</p>
 <h2>STORING &amp; DELETING YOUR INFORMATION</h2>
 <p>We store certain Information for various periods of time. Various data can be deleted by you in your account settings or by sending us a written request to Hello@Soundsnap.com. As stated above, we typically remove this information within thirty (30) calendar days from receipt of your request.<br>
 For:</p>
-<ul style="list-style-type:none; padding-left: 28%; padding-right: 25%;">
+<ul>
 <li>(a)	Your username, email address, and Session ID(s) – we store this until you request we delete this information;</li>
 <li>(b)	Your mailing address, and VAT number(s) (where applicable) – we store this until you either manually delete such information from your account settings, or until you request we delete this information;</li>
 <li>(c)	The last four (4) digits of your credit card and credit card expiration date – we store until you request we delete this information; and</li>
 <li>(d)	Billing address, email address, and PayPal recurring token for PayPal transactions - we store this until you request we delete this information.</li>
 </ul>
-</div>
-<div class="page">
 <h2>FINANCIAL DATA</h2>
 <p>Please note that all financial data for carrying out various transactions is conducted currently through JCC, and thus such credit card and related data is collected, stored, and used according to JJC’s terms and conditions, and privacy policy. We also are using Braintree and your credit card and related data is collected, stored, and used according to Braintree’s terms and conditions, and privacy policy. By continuing to use our services, accessing our Site, and purchasing our Products and Services, you agree that</p>
-<ul style="list-style-type:none; padding-left: 28%; padding-right: 25%;">
+<ul>
 <li>(a) we can transfer your credit card information, </li>
 <li>(b) purchase history, and </li>
 <li>(c) related data from JCC to Braintree, as well as to other third party credit card processors of our choosing from time to time.</li>
-</ul></div>
-<div class="page">
+</ul>
 <h2>RIGHT TO CHANGE PRIVACY POLICY</h2>
 <p>If you choose to visit and/or use our Site in the United States, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms and Conditions, including, but not limited to, limitations on damages, resolution of disputes through arbitration, and application of the laws of the State of New York. If you have any concern about privacy on our Site and/or the Products and Services available on or through our Site, please contact us with a thorough description, and we will try to resolve it.</p>
-<p>Our business changes and both this Privacy Policy and our Terms and Conditions may change accordingly. We reserve the right to change this Privacy Policy at any time. Please check our Site and this Policy frequently to see any changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. Your continued use of our Site and/or the Services available on or through our Site will be interpreted as your acceptance of any such changes and updates to this Privacy Policy.
-</p></div>
-<div class="page">
+<p>Our business changes and both this Privacy Policy and our Terms and Conditions may change accordingly. We reserve the right to change this Privacy Policy at any time. Please check our Site and this Policy frequently to see any changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. Your continued use of our Site and/or the Services available on or through our Site will be interpreted as your acceptance of any such changes and updates to this Privacy Policy.</p>
 <h2>YOUR CALIFORNIA PRIVACY RIGHTS</h2>
-<p>If you are a California resident, California Civil Code Section 1798.83 provides you with the right to request certain information regarding disclosure of your Personal Information to third parties for direct marketing purposes, including a description of the categories of Personal Information, be disclosed. In order to obtain such information, please email your request to Hello@Soundsnap.com.
-</p></div>
-<div class="page">
-<h1>USERS FROM THE EUROPEAN UNION AND THE UK</h1>
-<p>If you are a resident in, or a national of, the EU and/or the UK, you confirm your acceptance of the Privacy Policy statements set out above but only insofar as they are not altered, changed or enhanced by the following provisions required by the EU General Data Protection Regulation.
-</p></div>
-<div class="page">
+<p>If you are a California resident, California Civil Code Section 1798.83 provides you with the right to request certain information regarding disclosure of your Personal Information to third parties for direct marketing purposes, including a description of the categories of Personal Information, be disclosed. In order to obtain such information, please email your request to Hello@Soundsnap.com.</p>
+<h2>USERS FROM THE EUROPEAN UNION AND THE UK</h2>
+<p>If you are a resident in, or a national of, the EU and/or the UK, you confirm your acceptance of the Privacy Policy statements set out above but only insofar as they are not altered, changed or enhanced by the following provisions required by the EU General Data Protection Regulation.</p>
 <h2>THE LAWFUL BASIS FOR PROCESSING YOUR PERSONAL DATA</h2>
 <p>In processing or holding your personal data in connection with the purposes set out in this Privacy Policy, We may rely on one or more of the following legal reasons, depending on the circumstances, where:</p>
-<ul style="padding-left: 28%; padding-right: 25%;">
+<ul>
 <li>We have obtained your prior informed consent to the processing (this legal basis is only used in relation to processing that is entirely voluntary, i.e it is not used for processing that is necessary or obligatory in any way) of your personal data;</li>
 <li>The processing is necessary in connection with any contract that you may enter into with Us;</li>
 <li>The processing is required by the applicable law;</li>
 <li>The processing is necessary to protect the vital interests of any individual; or</li>
 <li>We have a legitimate interest in carrying out the processing for the purpose of managing, operating or promoting Our business, and that legitimate interest is not overridden by your interests, fundamental rights, or freedoms.</li>
 </ul>
-</div>
-<div class="page">
 <h2>ACCURACY OF PERSONAL DATA</h2>
 <p>We take all reasonable steps to ensure that: your personal data held or processed by Us is accurate and up to date; and than any of your personal data that is inaccurate is rectified or erased without delay.<br>
 We may from time to time ask to you confirm the accuracy of your personal data.<br>
-You may, at any time, ask Us correct any of your personal data that is incorrect.
-</p></div>
-<div class="page">
+You may, at any time, ask Us correct any of your personal data that is incorrect.</p>
 <h2>STORING AND PROTECTING YOUR PERSONAL DATA</h2>
 <p> We will store your personal data for as long as you hold an account with Us. After you have closed your account with Us we will store and keep you personal data for a reasonable period to maintain Our records and Our legal obligations to you.<br>
-We have implemented appropriate technical and organisational security measures designed to protect your personal data against accidental or unlawful destruction, loss, alteration, unauthorised disclosure, unauthorised access, and other unlawful or unauthorised forms of Processing, in accordance with applicable law. You are however responsible for ensuring that any personal data sent by you to Us is sent securely.
-</p></div>
-<div class="page">
+We have implemented appropriate technical and organisational security measures designed to protect your personal data against accidental or unlawful destruction, loss, alteration, unauthorised disclosure, unauthorised access, and other unlawful or unauthorised forms of Processing, in accordance with applicable law. You are however responsible for ensuring that any personal data sent by you to Us is sent securely.</p>
 <h2>TRANSFER OF YOUR PERSONAL DATA</h2>
-<p>Due to the nature of Our business we may need to transfer your personal data to other jurisdictions and or countries. Where such a transfer occurs your personal data will be treated with reciprocal rights to those granted to you under the General Data Protection Regulation.
-</p></div>
-<div class="page">
+<p>Due to the nature of Our business we may need to transfer your personal data to other jurisdictions and or countries. Where such a transfer occurs your personal data will be treated with reciprocal rights to those granted to you under the General Data Protection Regulation.</p>
 <h2>CONSENT, OPT IN and OPT OUT</h2>
 <p>If you are an existing customer or user of Our services and/or our website and you continue to use Our services, following notice by Us of this revised Privacy Policy, your informed consent as to the new requirements set out herein is implied. As such if you wish to withdraw your consent then you can simply “opt out” as set out above.<br>
-If you are new user of Our services and/or our website then you are required to opt in and give your informed consent to Our use of your personal data in accordance with the purposes of this Privacy Policy.
-</p></div>
-<div class="page">
+If you are new user of Our services and/or our website then you are required to opt in and give your informed consent to Our use of your personal data in accordance with the purposes of this Privacy Policy.</p>
 <h2>RIGHT TO WITHDRAW YOUR CONSENT</h2>
-<p>Where you have given your consent to the processing of any of your personal data, you have the right to withdraw your consent at anytime for any reason, provided always that your account with Us is closed.
-</p></div>
-<div class="page">
+<p>Where you have given your consent to the processing of any of your personal data, you have the right to withdraw your consent at anytime for any reason, provided always that your account with Us is closed.</p>
 <h2>LANGUAGE AND TRANSLATIONS</h2>
 <p>This Privacy Policy has been drafted in the English language and any translation hereof shall be deemed to be for information purposes only.<br>
-In the event of any dispute arising in relation to any non-English translation of this Privacy Policy, the English language version shall prevail.
-</p></div>
-<div class="page">
+In the event of any dispute arising in relation to any non-English translation of this Privacy Policy, the English language version shall prevail.</p>
 <h2>END OF PRIVACY POLICY</h2>
 </div>
           </div>
@@ -357,19 +299,15 @@ In the event of any dispute arising in relation to any non-English translation o
                             
 			</div>
               
-          </div>
-		</div>
+	</div>
         
 		<div id="footer">    
-		
 			<div class="footer">
-			
-            
-            	<div class="footer-content">
-                	
+        <div class="footer-content">
+ 
   <div class="block block-block" id="block-block-16">
     <h2 class="title"></h2>
-      <div class="content"><div class="logo"><a href="/"><img src="/themes/soundsnap3/assets/svg/logo.svg" alt="Soundsnap logo"></a></div>
+    <div class="content"><div class="logo"><a href="/"><img src="/themes/soundsnap3/assets/svg/logo.svg" alt="Soundsnap logo"></a></div>
 <div class="links">
 <div class="col">
 <h5>PRODUCT</h5>
@@ -379,7 +317,7 @@ In the event of any dispute arising in relation to any non-English translation o
 <a href="/team">About Us</a><a href="/jobs">Jobs</a><a href="https://blog.soundsnap.com/">Blog</a><a href="https://soundsnap.zendesk.com/hc/en-us/community/topics">Community</a><a href="/education">Education</a><a href="https://soundsnap.zendesk.com/hc/en-us/requests/new" target="_blank">Contact</a></div>
 <div class="col">
 <h5>LEGAL</h5>	
-<a href="/licence">Licence</a><a href="/tos">Terms of Use</a><a href="/privacy">Privacy Policy</a> 
+<a href="/licence">Licence</a><a href="/tos">Terms of Use</a><a href="/privacy">Privacy Policy</a><a class="optanon-show-settings">Cookie Settings</a> 
 </div>
 </div>
 <div class="social">
@@ -387,36 +325,28 @@ In the event of any dispute arising in relation to any non-English translation o
 <a href="https://twitter.com/soundsnapreal" class="icon-twitter" title="soundsnap on Twitter" target="_blank"></a>
 <a href="https://www.instagram.com/soundsnapsfx/" class="icon-instagram" title="soundsnap on Instagram" target="_blank"></a>
  </div></div>
- </div>
-				</div>
-                
-                <div class="copyright">
-                    	<!--<script language="JavaScript" type="text/javascript">TrustLogo("/themes/soundsnap3/assets/comodo_secure_seal_113x59_transp.png", "CL1", "none");</script>
-                        <a href="https://ssl.comodo.com/wildcard-ssl-certificates.php" id="comodoTL">Wildcard SSL</a>-->
-                		Soundsnap © 2008 - 2018, All rights reserved
-				</div>
-                
+  </div>
+</div>
+        <div class="copyright">Soundsnap © 2008 - 2018, All rights reserved</div>
 			</div>
             
 		</div><!-- END Footer-->
 
 </div>
 
-
-
 <div class="scroll-top"></div>
 
-<!-- CookiePro Cookies Settings button start -->
-		<div class="cookies-settings">
-		<a class="optanon-show-settings">Cookie Settings</a>
-		</div>
-		<!-- CookiePro Cookies Settings button end -->
 
+
+<script type="text/javascript">      $j(document).ready(function(){
+      	$j(".ojoo-faq-q").prepend("<span class=\"icon-caret_top_big\"></span>");
+					$j(".ojoo-faq-q").click(function(e) {e.preventDefault();var row=$j(this).next(".ojoo-faq-a");row.slideToggle("200");
+						$j(this).closest(".ojoo-faq-item").toggleClass("active");
+					});
+			});</script>
 <script type="text/javascript" src="/themes/soundsnap3/assets/jquery.cookie.min.js"></script>
 <script type="text/javascript" src="/themes/soundsnap3/assets/jquery.reject.min.js"></script> 
-
 <script type="text/javascript">
-
 $j(document).ready(function() {
     $j.reject({  
         reject: { 
@@ -506,18 +436,31 @@ $j(document).ready(function() {
 			$j("#maincontent").css({'min-height':newheight});
 		}
 		
-		//faq collapses
-		$j('.ojoo-answer').hide();
-		$j('.collapsible').click(function() {			
-			if($j(this).hasClass('collapsed')) { 	
-				$j(this).children('.ojoo-answer').fadeOut('slow', function() {
-					$j(this).hide();
-				});
-			} else {
-				$j(this).children('.ojoo-answer').fadeIn('slow', function() {
-				});
-			}
-		}); 
+		//reposition tooltip
+		$j('.icon-info').on('mouseenter touchstart',function() {	
+				var w_width=$window.width();
+				var tooltip=$j(this).next(".info-tooltip");
+				var t_width=tooltip.width();
+				var pos=$j(this).offset();
+				var x = pos.left,
+						y = pos.top;
+				if(x+t_width >= w_width){
+					tooltip.css({'left':'auto','right':'-30px'});
+				} else {		
+					tooltip.css({'left':'20px'});
+				}
+				tooltip.show();
+		});
+		$j('.icon-info').on('mouseleave',function() {
+			$j(this).next(".info-tooltip").hide();
+		});
+		$j('.maincontent').on('touchmove',function() {
+			$j('.info-tooltip').hide();
+		});
+		$j('.info-tooltip').on("click",function(){
+			$j(this).hide();
+		});
+
 		//audio teasers
 		$j('.more-info').click(function(e) {	
 			e.preventDefault();	
@@ -529,6 +472,15 @@ $j(document).ready(function() {
           		return text = ($j(this).hasClass("active")) ? "- less info" : "+ more info";
       		})
 		});
+    
+    $j(".collapse-trigger").click(function(e) {
+      e.preventDefault();	
+      $j(this).closest("div").find(".collapse-items").slideToggle('50');
+      $j(this).toggleClass('collapsed');
+      $j(this).text(function(i, text){
+        return text = ($j(this).hasClass("collapsed")) ? "View Less" : "View All";
+      }); 
+    }); 
 		
 		$window.resize(function() {
 			if($j(this).width()>768 ){
@@ -538,10 +490,10 @@ $j(document).ready(function() {
 		
 		function switch_sticky(status){
 			if (status==='dark'){
-				$j("#header-wrapper").removeClass('sticky-header').addClass('dark-wrapper');	
+				$j("#header-wrapper").removeClass('sticky-header').addClass('black-header');	
 				$j(".logo img").attr('src','/themes/soundsnap3/assets/svg/logo-white.svg');
 			} else {
-				$j("#header-wrapper").addClass('sticky-header').removeClass('dark-wrapper');
+				$j("#header-wrapper").addClass('sticky-header').removeClass('black-header');
 				$j(".logo img").attr('src','/themes/soundsnap3/assets/svg/logo.svg');
 			}
 		}
@@ -580,16 +532,6 @@ $j(document).ready(function() {
 			});
 		}
 		
-		$j('.product_bubble_link').hover(
-			function() {
-				var product=$j(this).attr('id');
-				$j("."+product+".product_bubble").fadeIn( "fast" );
-			}, function() {
-				var product=$j(this).attr('id');
-				$j("."+product+".product_bubble").fadeOut( "fast" );
-			}
-		);
-		
 				
 			
 
@@ -600,7 +542,6 @@ $j(document).ready(function() {
 		$j('.tabs.secondary li.display_receipts[data-year="' + current + '"]').show();
 	};
 </script>
-
 
   
 <script src="/modules/contrib/ojoo/audio_wave/audio_wave.min.js"></script>
