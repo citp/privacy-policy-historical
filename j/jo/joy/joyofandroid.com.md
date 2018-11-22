@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyofandroid.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623195228id_/http%3A//joyofandroid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyofandroid.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122225313id_/https%3A//joyofandroid.com/privacy) for the most accurate reproduction.*
 
 # Privacy - JoyofAndroid.com
 
@@ -8,15 +8,15 @@ At JoyofAndroid.com, the privacy of our visitors is our ultimate concern.  Beca
 
 This Privacy Policy Section identifies the words that Users will frequently run into while using our website JoyofAndroid.com
 
-**“JoyofAndroid”, “Joy of Android”, “We”, “Our”, “Us”** points to the entire management of JoyofAndroid.com.
+ **“JoyofAndroid”, “Joy of Android”, “We”, “Our”, “Us”** points to the entire management of JoyofAndroid.com.
 
-**“Site” or “Website”** refers to our website JoyofAndroid.com and the pages hosted by JoyofAndroid.com
+ **“Site” or “Website”** refers to our website JoyofAndroid.com and the pages hosted by JoyofAndroid.com
 
-**“Guest”** is the term for an individual that browses the Website’s services without subscribes to our email list.
+ **“Guest”** is the term for an individual that browses the Website’s services without subscribes to our email list.
 
 “ **Subscriber** ” is the term used for a user who subscribes to our email list through feed burner or any other email marketing software. ****
 
-**“User”** is a collective term for Subscriber, Member and Guest. ****
+ **“User”** is a collective term for Subscriber, Member and Guest. ****
 
 ## Collection of Personal Information
 
@@ -64,6 +64,8 @@ From time to time, JoyofAndroid.com may link to external websites which might b
 
 All content – texts, media files, images and videos are copyright to the owners of JoyofAndroid.com. You may not copy, or reproduce it online or in offline without the written permission of the owners. Such behavior will call for DMCA take down and legal actions if necessary.
 
-JoyofAndroid.com reserves the right to update or modify the Privacy Policy whenever it is deemed to be necessary. We will post a notification on our site and update the date at the bottom of this page. If you have any questions or concerns regarding our Privacy policy, you can fill up and submit the form located at <http://joyofandroid.com/contact-us/>.
+JoyofAndroid.com reserves the right to update or modify the Privacy Policy whenever it is deemed to be necessary. We will post a notification on our site and update the date at the bottom of this page. If you have any questions or concerns regarding our Privacy policy, you can fill up and submit the form located at <https://joyofandroid.com/contact-us/>.
 
-**This document was last updated on November  02, 2014**
+JOA uses a number of Ad partners and affiliates to monetise our site. A user agrees that they consent to privacy policy of our ad partners. An example ad partner privacy policy is available [here](https://g.ezoic.net/privacy/joyofandroid.com).
+
+ **This document was last updated on September  26, 2018**
