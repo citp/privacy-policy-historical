@@ -1,38 +1,16 @@
-> *The following text is extracted and transformed from the columbiasouthern.edu privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010212826id_/http%3A//columbiasouthern.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbiasouthern.edu privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122233427id_/https%3A//www.columbiasouthern.edu/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Columbia Southern University
 
-Columbia Southern Education Group, Inc. (CSEG) and its subsidiaries including Columbia Southern University (CSU) and Waldorf University hold in high regard the privacy rights of our website visitors. We provide the following information describing what information we collect from site visitors and how that information is used to demonstrate our commitment to user privacy.
+Columbia Southern University (CSU) is committed to protecting your privacy. The university has established this privacy policy to communicate the manner in which it collects and uses your personal information as well as methods and efforts we use to safeguard it.
 
-  1. **Non-Personally identifiable information.** CSU and Waldorf University collect a variety of information from website visitors. Some of this data is not personally identifiable and is collected automatically via the use of cookies and other standard web technology. Automatically-collected information might include: the operating system on your computer, the type of web browser you are using, your IP address, and the links you followed to enter and leave our site.
-  2. **Personally identifiable information.** Personally identifiable information is collected only on a voluntary basis, at the option of the website user. For example, you may choose to provide your name, address or telephone number when submitting an information request on our website.
-  3. **FERPA**. Personally identifiable information for enrolled students is protected by the Family Educational Rights and Privacy Act ("FERPA") administered by the U.S. Department of Education. Additional information on FERPA is available [here](https://web.archive.org/ferpa/).
-  4. **Use of information.** Non-personally identifiable information is used to help us improve our site by enabling us to discover and address the needs of our site visitors. This includes making our website accessible to the variety of Web browsers and operating systems used to access our site. Personal information collected through the site by means of your voluntary submission, such as your name, mailing address, e-mail address and other contact information, is used for the purpose of responding to your requests for information about CSU and Waldorf University products and services or to contact you about future products and services. Columbia Southern Education Group, Inc. does not share personal information with third parties, apart from release of "directory information" as described in the CSU [FERPA policy](https://web.archive.org/ferpa/) or certain authorized vendors bound by confidentiality agreements with Columbia Southern Education Group who must utilize the information to perform necessary duties (such as credit card authorization, federal student aid processing and textbook ordering). "Directory information" disclosures include verifying enrollment for employment or credit application purposes.
-  5. **Security of information.** Columbia Southern Education Group uses best efforts to protect security of personal information collected through its websites. Financial transactions submitted through the website are encrypted using the Secure Sockets Layer (SSL) protocol.
-  6. **User options regarding collection of information.** With regard to automatically collected information, it is standard practice for most Web sites to collect non-personally identifiable information about your web browser, operating system, IP address and browsing history (i.e. what pages on the CSU and Waldorf University websites viewed). Website users are unable to opt out of providing this non-personally identifiable information but please be assured that this information is collected only for Columbia Southern Education Group internal website development purposes to maintain optimal usability of the CSU and Waldorf University websites. Any other non-personal information collected through the use of cookies, may be opted out of by disabling or rejecting cookies for our site. For more information on cookies, including how you can delete or reject cookies, please refer to your web browser help file. Cookies help us to improve your web browsing experience with us. Disabling or rejecting cookies may impact your user experience as they are necessary to provide you with the correct geographically targeted information.
-  7. **Requesting removal from CSU and Waldorf University marketing lists.** You may opt out of marketing solicitations at any time. To be removed from the marketing list, please contact the appropriate institution below: 
-    * **Waldorf University (Online Programs)**  
-PO Box 3269  
-Orange Beach, AL 36561  
-877-267-2157  
-[onlineadmissions@waldorf.edu](mailto:onlineadmissions@waldorf.edu)
-    * **Waldorf University (Residential Programs)**  
-106 S. 6th Street  
-Forest City, IA 50436  
-800-292-1903  
-[admissions@waldorf.edu](mailto:admissions@waldorf.edu)
-    * **Columbia Southern University**  
-Admissions Department  
-P.O. Box 3110  
-Orange Beach, AL 36561  
-877-347-6050  
-[admissions@columbiasouthern.edu](mailto:admissions@columbiasouthern.edu)
-  8. **Limitation of liability.** The CSU and Waldorf University websites may contain links to third-party websites. Links to these websites are provided as a convenience only and should not be interpreted as an endorsement of the linked site, its operator or contents. We encourage our site visitors to review the privacy policies of each website they visit.
-  9. **For more information.** For further information about this privacy policy, please contact us at: 
-
-> Columbia Southern Education Group Inc.  
->  21982 University Lane  
->  Orange Beach, AL 36561
+  * **Personally Identifiable Information** – Personally identifiable information (PII) is only collected with your approval, which is affirmed via actions, such as submitting online forms or phone calls. By PII, we are referring to information that can be used to identify or contact an individual. For example, you may choose to provide your name, address or telephone number when submitting an information request. PII is used by the university to assist individual visitors as necessary.  This assistance may involve redirecting an inquiry or comment to another university individual or department better suited to provide the requested service.
+  * **Non-Personally Identifiable Information** – CSU collects a variety of information from website visitors. Some of this data is not personally identifiable and is collected automatically via the use of cookies and other standard web technologies. Automatically collected information might include operating system and web browser version, internet IP address, as well as the date and time web pages are visited. Non-personally identifiable information is stored in security and traffic logs on our servers and in cookies.
+  * **Use of Information** – Directory information may be disseminated to specific parties pursuant to the Family Educational Rights and Privacy Act (FERPA). CSU does not sell or share user information to outside parties without prior written consent of the user; however, the university may share any user information with its employees, affiliates and partners, or independent contractors with a vested interest. In some cases, cookies provided by third-party services, including Google Analytics, may be used to review website performance and to identify enhancements that may benefit visitors based on current navigation patterns and search trends.
+  * **Security of Information** – CSU takes security of information seriously and, as such, takes all reasonable precautionary measures to protect sensitive user information. CSU utilizes encryption wherever possible for sensitive information requested for submission via the World Wide Web. The university may contract with third-party vendors to show our advertisements on non-CSU websites and other digital delivery mechanisms.
+  * **FERPA** – PII for enrolled students is protected by FERPA administered by the U.S. Department of Education. Please visit our [FERPA page](https://www.columbiasouthern.edu/ferpa/) for more information. "Directory information" disclosures include verifying enrollment for employment or credit application purposes.
+  * **GDPR** – CSU observes the applicable principles of the EU General Data Protection Regulation.
 
 
 
+For further information, please refer to our Technology Policies in the [Student Handbook](https://www.columbiasouthern.edu/downloads/pdf/handbook/csustudenthandbook.aspx) or contact us at [DataSecurityOfficer@columbiasouthern.edu](mailto:DataSecurityOfficer@columbiasouthern.edu).
