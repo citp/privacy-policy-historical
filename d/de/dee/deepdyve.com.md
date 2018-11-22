@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929230319id_/http%3A//www.deepdyve.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122234404id_/https%3A//www.deepdyve.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # DeepDyve Privacy Policy | DeepDyve
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=a66bd6ff-2d5f-476d-a1fa-f0408dcc9aa9)
 
-Last Updated 1/24/2017
+Last Updated: August 6, 2018
 
 DeepDyve, Inc. (“DeepDyve”) knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting DeepDyve’s website at http://www.deepdyve.com (“deepdyve.com”), or using any of our services or products, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
@@ -59,7 +59,7 @@ As is true of most websites, we gather certain information automatically. This i
 
 ## Tracking Technologies
 
-DeepDyve, Inc. and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
+DeepDyve, Inc. and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To learn more about DeepDyve's cookie policy, please visit [https://www.deepdyve.com/corp/cookie-policy](https://web.archive.org/corp/cookie-policy).
 
 ## Behavioral Targeting / Re-Targeting
 
