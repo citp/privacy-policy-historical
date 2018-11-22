@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yvr.ca privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523071853id_/http%3A//www.yvr.ca/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yvr.ca privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122152202id_/http%3A//www.yvr.ca/en/privacy) for the most accurate reproduction.*
 
 # Privacy | YVR
 
 Vancouver Airport Authority is committed to protecting the privacy of individuals.
 
-[Click here to download our complete privacy policy](https://web.archive.org/-/media/yvr/documents/legal/privacy-policy-external-collection-2013-06-10-final.pdf?la=en).
+[Click here to download our complete privacy policy](https://web.archive.org/-/media/yvr/documents/legal/privacy-policy-personal-information-en.pdf?la=en).
 
 ### How Information is Collected and Used
 
@@ -13,6 +13,13 @@ The Authority collects personal information that is voluntarily provided by you 
 ### Cookies and Log Files
 
 Cookies are data files sent to your browser and stored on your hard-drive when you visit certain websites. This enables a company to track your visit to the site. The Authority uses per-session cookies. Per-session cookies track your usage on our website during the current visit only and are deleted once you exit the site. The Authority has log files, which records the IP address of your computer. The Authority uses log files to track the number of hits to its website.
+
+If you would like to deactivate cookies, please see below for links that provide detailed information for cookie deactivation in commonly used browsers:
+
+ [Mozilla Firefox](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)  
+ [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)  
+ [Google Chrome](https://support.google.com/accounts/answer/61416?hl=en)  
+ [Safari](http://support.apple.com/kb/PH17191?viewlocale=en_US&locale=de_DE)
 
 ### Storage of and Access to Personal Information
 
@@ -26,6 +33,6 @@ The Authority does not represent, warrant or guarantee that personal information
 
 This website contains links to third party sites. The Authority is not responsible for the collection of personal information nor the privacy of such information on third party sites.
 
-If you have any questions or concerns with respect to this privacy statement, please send an email through [Contact Us](https://web.archive.org/en/contact-us). Or download our complete privacy policy [here](https://web.archive.org/-/media/yvr/documents/legal/privacy-policy-external-collection-2013-06-10-final.pdf?la=en).
+If you have any questions or concerns with respect to this privacy statement, please send an email through [Contact Us](https://web.archive.org/en/contact-us). Or download our complete privacy policy [here](https://web.archive.org/-/media/yvr/documents/legal/privacy-policy-personal-information-en.pdf?la=en).
 
 The Authority reserves the right to change this privacy statement at any time. Such changes will be posted on this page and in compliance with applicable federal privacy laws.
