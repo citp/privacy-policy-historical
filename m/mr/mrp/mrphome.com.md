@@ -1,233 +1,137 @@
-> *The following text is extracted and transformed from the mrphome.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614132437id_/http%3A//www.mrphome.com/company/privacyPolicy.jsp%3Fselpage%3DprivacyPolicyNav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrphome.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122225245id_/https%3A//www.mrphome.com/en_za/customer-service/privacy-policy) for the most accurate reproduction.*
 
-# Mrphome Online Shopping | Homeware & Furniture Store
+# Privacy Policy
 
-## TERMS AND CONDITIONS FOR THE USE OF THE WWW.MRPHOME.COM WEBSITE
+## Introduction
 
-#### **1.** INTRODUCTION
+At Mr Price Group (“MRPG”, “we”, or “us”, “our”), including our trading divisions and subsidiary companies, mrp, mprHome, mrpSport, Sheet Street, Miladys and mrpMoney we are committed to safeguarding the privacy of your personal information or data (“PI”). This Mr Price Group Privacy Policy (“Policy”) explains how we process your PI, which means, in relation to your PI, various activities including collecting, receiving, recording, storing, updating, using, transferring or erasing.
 
-1.1. IMPORTANT NOTICE: These Terms and Conditions set out the terms of the agreement between you and us ("the Agreement") under which we will provide you with access to the information and services we offer from time to time via the Mr Price website located at [www.mrphome.com](http://www.mrphome.com/) and operated by us ("the Website"). 
+This Policy applies to your use of any of our websites or mobile applications and forms part of our website and mobile application terms and conditions. By visiting or using any of our websites or mobile applications, you agree to the terms of this Policy as updated from time to time. We will let you know of any material changes to the Policy.
 
-1.2. By using the Website and purchasing goods and/or services, you agree to be bound by these Terms and Conditions. If you do not agree to all of the terms and conditions, please do not continue to use the Website. 
+## Scope
 
-1.3. It is, therefore, very much in your interests to read them carefully. 
+This Policy applies to all data subjects (persons, whether a natural or juristic person, to whom PI relates) (“you”, “your”), who’s PI we collect, regardless of the country where you live or work, as we are a multi-national retailer.
 
-1.4. If you are under the age of 18, you must obtain your parents’ or legal guardians’ advance authorization, permission and consent to be bound by these Terms and Conditions before purchasing any goods or services.. 
+This policy applies to all PI, whether it was provided to us through our websites, mobile applications or through any other form of communications with you such as email, telephone, or otherwise (“Channels”), through or by third parties or tools that collect PI.
 
-1.5. If there is anything in this Agreement that you do not understand then please contact us as soon as possible - see clause 11 below for contact details. Please note that calls to the Customer Number (0800 212 535) are charged at national rates and may be monitored for training, security and quality assurance purposes. 
+## WHAT PERSONAL INFORMATION DO WE COLLECT?
 
-1.6. Unless otherwise stated, the Website is provided to you by Mr Price Group Limited (hereinafter referred to as "Mr Price"), a company registered in the Republic of South Africa (Registration Number: 1933/004418/06) having its registered office at Upper Level, North Concourse, 65 Masabalala Yengwa Avenue (formerly NMR Avenue), Durban, 4001. References to "we", "our" and "us" are references to Mr Price. 
+PI means information relating to an identifiable, living, natural person, and where it is applicable, an identifiable, existing juristic person, including: information relating to race, gender, marital status, ethnic or social origin, age, disability (mostly as required by labour and credit laws); an identifiable number, e-mail address, physical address, telephone number, identification number, location information, online identifier; biometric information; personal preferences, views or opinions; correspondence of a private or confidential nature; and a name if it appears with other PI relating to you or if disclosing your name itself will reveal information about you.
 
-#### **2.** **SUPPLY OF GOODS AND/OR SERVICES IN TERMS OF THE ELECTRONIC COMMUNICATIONS AND TRANSACTIONS ACT 25 OF 2002 ("The Act")**
+The PI we collect about you is dependent on (i) the transaction you are completing, (ii) the reason you are communicating with us and (iii) the Channel used to communicate with us. PI may include your: name, contact information including e-mail address, postal address, physical address, primary and secondary telephone numbers, date of birth; employment history, criminal history, ethnic origin, language, (these specifically relate to employment applications); gender, age, financial information (as required by law, relating to financial services and credit products and services), biometric information (in order for us to identify you when you phone us), billing information, additional information which we are required or permitted by applicable legislation to collect and process, as well as information you elect to share publicly, including on social media and customer forums.
 
-2.1. Insofar as this Agreement falls within the ambit of the Act, the following information is made available to you in respect of the supply of goods and/or services offered for sale, hire or exchange by way of an electronic transaction: 
+## WHEN DO WE COLLECT YOUR PERSONAL INFORMATION?
 
-2.1.1. All our contact details are set out in clause 11 below. 
+We collect your PI when you:
 
-2.1.2. Goods and/or Services: The goods and/or services provided through the Website are various services which enable you to give instructions to Mr Price. 
+  * voluntarily provide us with information when you interact with us, for example when you send us online enquiries, or you subscribe to or consent to receiving newsletters or other communications from us;
+  * browse, visit or participate in our various Channels;
+  * register an online profile on our websites or apps to purchase goods;
+  * purchase, return, exchange or enquire about products and service from us;
+  * agree to the terms and conditions of credit applications and other products and services that contain provisions dealing with the use or disclosure of your personal information;
+  * enter our promotional competitions;
+  * make general enquiries, lodge complaints, and communicate with us;
+  * apply for vacancies on our Careers portal; or
+  * make donations to our mrpFoundation;
 
-2.1.3. Complaints and Disputes: We invite you to file complaints with us via the "Contact Us" service of the Website [www.mrphome.com](http://www.mrphome.com/) or you can contact us by way of the contact details set out in clause 11 below. We do not currently subscribe to any alternative dispute resolution code or mechanism. 
 
-2.1.4. Policies: Our policies are set out in this Agreement below. As provided for in section 42(2)(a) of the Act, you acknowledge and agree that Section 44 of the Act (the Cooling-off period) does not apply to transactions concluded by means of the Website. 
 
-#### **3.** **USE OF THE WEBSITE**
+From time to time we collect your PI from trusted third parties, in which case we shall ensure that you have provided your consent for your PI to be disclosed to us.
 
-3.1. You agree to use the Website for lawful purposes only. Without derogating from the generality of the aforegoing, if you should choose to access or use this Website from locations other than the Republic of South Africa, you do so at your own initiative and you are responsible for compliance with applicable local laws. 
+We do no collect or retain your bank card numbers used to purchase products or services. This information is collected by financial institutions that have their own privacy policies. You are advised to never respond to emails that seem to be from us requesting bank card details from us as this request is most likely fraudulent and should be reported to us immediately
 
-3.2. You are prohibited from posting or transmitting, by means of reviews, comments, suggestions, ideas, questions or other information through the Website, any content which is unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, sexually-explicit, profane or hateful, or racially, ethnically or otherwise objectionable content of any kind, which content includes but is not limited to: 
+We also collect your PI using cookies about when and how you use our websites, apps or when you click on an advert of ours that is contained on another website. A cookie is a small text file that that is stored on your computer or mobile device when you use it. Cookies hold information such as the identity of the computer or device you used to access our Channels, your server address, domain name, the time and date that you visited our Channels, pages, product and documentation that you accessed or viewed and which internet browser you used. We do this so that we can provide you with more personalised service, communication and products by better understanding your browsing and purchasing behaviour; track, count and analyse website visits and usage data; understand product preferences and popularity; improve our websites and your online shopping experience. We use trusted third party services including Google Analytics that collect, monitor and analyse our users’ usage.
 
-3.2.1. any content that may fall within the scope of Section 9 of the Constitution of the Republic of South Africa, which prohibits discrimination on the grounds of, _inter alia,_ race, sex, gender, marital status, religion; or 
+To prevent your PI from being used by Google Analytics you can install an opt-out browser add-on (visit <https://tools.google.com/dlpage/gaoptout> for details). Most web browsers can be adjusted to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Refusing a cookie may, in some cases, preclude you from using, or negatively impact, the display or function of our websites or certain areas or features of our websites.
 
-3.2.2. any content that encourages conduct that would constitute a criminal offence or give rise to civil liability, or otherwise violate any applicable local, provincial, national, or international law; or 
+## HOW DO WE USE AND PROCESS YOUR PERSONAL INFORMATION?
 
-3.2.3. any content that constitutes an invasion of privacy; or 
+We use your PI to: -
 
-3.2.4. any content that is an infringement of any intellectual property right; or 
+  * communicate with you regarding new product features, personalised products, services, offers and events that we think may be of interest to you;
+  * analyse, develop, continually improve and enhance the use, functionality and performance of our websites and apps, products and services to manage the security of our sites, networks and systems;
+  * comply with applicable laws, including our obligations to make disclosures to authorities, regulators and government bodies;
+  * engage in our legitimate business and related interests, including but not limited to detecting and preventing fraud and conducting our business as a fashion-value retailer.
 
-3.2.5. any content that contains software viruses; or 
 
-3.2.6. any content that constitutes a political statement, commercial solicitation, or "Spam". 
 
-3.3. Although Mr Price does not purport to review (nor is it under any obligation to review) any submitted content, it reserves the right to remove any content from the Website where it deems such content, in its sole and absolute discretion, to be an infringement of Clause 3 or harmful in anyway whatsoever. Should you place on or submit to the Website any such harmful content or should you breach any clause in these Terms and Conditions, Mr Price may immediately terminate and/or suspend your access to all or parts of the Website, without any further notice to you. 
+We will not use your PI other than for the purpose for which it was provided or collected, and in accordance with our legitimate interests and legal obligations.
 
-3.4. You warrant that: 
+Your PI will be processed mainly in South Africa where our support centre is located, however certain PI may be transferred to countries outside of South Africa, for example where we make use of cloud based software services, in which case we shall ensure that the necessary security measures are in place relating to the processing and storage of your PI, where the data protection legislation in that particular country is less favourable than that in South Africa.
 
-3.4.1. you own or otherwise control all rights to any and all content that you may submit to the Website; and 
+## WHEN WILL WE DISCLOSE YOUR PERSONAL INFORMATION?
 
-3.4.2. any use of such content will not cause injury or harm to any person or entity; and 
+We may provide access to or share some of your PI, when necessary and for the reasons that it was provided or collected, to our associates, suppliers, service providers, auditors, consultants and agents if they are required to process it for us and/or to provide services for or to us, including product deliveries and returns, e-mail service providers, analytics companies, distribution and courier companies, information hosting, communication providers, development and administration, information technology and related infrastructure services, technical support and other support services relating our legitimate business interests and our contractual obligations to you.
 
-3.5. You hereby indemnify Mr Price and/or its affiliates, directors, officers and employees, against any and all claims of whatever nature resulting from any content placed or submitted by you on the Website. 
+We may share PI with third parties in the event or a reorganisation, merger, sale, joint venture, assignment, transfer or other type of sale of all or any portion of our business, assets or stock.
 
-3.6. By submitting reviews, comments and/or any other content (other than your personal information) to Mr Price for posting on the Website, you automatically grant Mr Price and its affiliates a non-exclusive, royalty-free, perpetual, irrevocable right and licence to use, reproduce, publish, translate, sub-license, copy and distribute such content in whole or in part worldwide, and to incorporate it in other works in any form, media, or technology now known or hereinafter developed, for the full term of any copyright that may exist in such content. Subject to this licence, you retain any and all rights that may exist in such content. 
+We are required or may be permitted to provide access to or share your PI in terms of law, court order or other lawful reasons, where we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to government requests, including public and government authorities.
 
-3.7. The following activities on or through the Website are expressly prohibited: 
+When we share or provide access to your PI with third parties, they are contractually restricted from using or disclosing your PI except as necessary to perform services on our behalf or to comply with legal requirements.
 
-3.7.1. any non-personal or commercial use of any robot, spider, other automatic device or technology, or manual process to monitor or copy portions of the Website or the content contained thereon, without the prior written authority of Mr Price; and 
+## JUSTIFICATION FOR PROCESSING PERSONAL INFORMATION IF YOU ARE IN THE EU
 
-3.7.2. the collection or use of any listings, descriptions, and/or price lists from the Website for the benefit of a competing merchant that supplies products comparable to those offered on the Website; and 
+To communication with you and to attend to your requests, processing of your PI is required and we have a legitimate business interest in processing your PI:
 
-3.7.3. any use or action that imposes an unreasonable or disproportionately-large load of traffic on the Website, or otherwise interferes with the proper and timely functioning of the Website; 
+  * to process transactions with customers, suppliers, job applicants, donors;
+  * to action purchases, returns and applications,
+  * to in order to perform a contract with you;
+  * to process PI in relation to marketing and promotional activities based on your consent when your PI was collected;
+  * pursuant to our legitimate business interest to market and promote our products and services;
+  * to analyse, develop, improve and optimize our Channels, products and services, and to maintain the security of our sites, networks and systems;
+  * to comply with applicable laws, or
+  * to process your opt-out instruction.
 
-3.7.4. any attempt to gain unauthorised access to the Website or its related systems or networks; 
 
-3.7.5. accessing the Website for purposes of monitoring its availability, performance or functionality, or for any other benchmarking or competitive purpose; and 
 
-3.7.6. the reverse engineering or decompiling of the Website to (without limitation) (i) build a competitive product or service; (ii) build a product using similar ideas, features, functions or graphics of the Service; (iii) copy any ideas, features, functions or graphics of the Website. 
+## STORAGE AND RETENTION OF PERSONAL INFORMATION
 
-3.8. When you register on the Website, you will be required to provide certain access details, including a username and a password. You are responsible for maintaining the confidentiality and security of your User Name and Password for access to the Website and you accept full liability for all activities that occur on or involves the Website under your User Name. You may not: 
+We will keep your PI for different periods of time depending on the use or purpose your PI was provided or collected, as well as your preferences regarding marketing, recruitment and other correspondence.
 
-3.8.1. allow other people to use your User Name and Password; or 
+Unless there is a specific law requiring us to keep your PI, we will not keep it for longer than necessary. Details of records that we retain for legal purposes are explained in our PAIA manual which can be found on our website www.mrpricegroup.com.
 
-3.8.2. impersonate another User or any third party; or 
+We will safely delete or destroy PI which we are no longer required or not permitted to retain, or for which we do not have your consent.
 
-3.8.3. provide false information to gain access to the Website. 
+## SECURING YOUR PERSONAL INFORMATION
 
-3.9. You also warrant your identity (in other words, you are who you say who you are), and that you can prove your identity should we require you to do so. 
+We will secure the integrity and confidentiality of your PI that is in our possession and under our control by taking the appropriate reasonable technical and organisational measures to prevent loss, damage, unauthorised destruction, unlawful access, or unlawful processing of your PI. In doing so we will have due regard to generally accepted applicable or industry information security practices and procedures.
 
-3.10. Although reasonable steps have been taken to ensure the accuracy and completeness of the contents, data and information on this Website, there may be instances where such information proves inaccurate or incomplete. Before making any decision or taking any action which might affect you or your business, you should consult your own professional advisors, and take all reasonable steps to ensure and verify the accuracy of the contents, data and information obtained from this Website. 
+The age requirement for engaging with our Channels is 18 years of age. To the extend required by applicable law, users under the age of 18 years of age must obtain parental or guardian consent. We will afford the same level of protection to all PI processed, regardless of the age of the person the PI pertains to.
 
-3.11. Without limiting the generality of the aforegoing, this Website could include technical, typographical or other inaccuracies and you are urged to contact your own professional advisors to confirm all information contained on this Website prior to placing reliance thereon. Changes are periodically made to the information herein and these changes will be incorporated in new editions of this Website. 
+## YOUR RIGHTS
 
-#### **4.** **NATIONAL CREDIT ACT 34 of 2005**
+You have the following options available to you in respect of your PI that we process:
 
-In terms of the National Credit Act ("the Act"): Please see our standard terms and conditions relating to credit and the National Credit Act by clicking [www.mrphome.com](http://www.mrphome.com/) . 
+  * you may inquire from us at no cost whether we hold your PI, as long as you provide us with adequate proof of your identity;
+  * where necessary, request the correction, destruction or deletion of your PI;
+  * Object to, restrict or limit the processing of your PI,
+  * object to using your PI for purposes of direct marketing,
+  * request to not have your PI used to be sent unsolicited emails.
 
-#### **5.** **INTELLECTUAL PROPERTY**
 
-5.1. All content included on this Website, such as text, graphics, logos, buttons, icons, images, photographs, audio clips, databases and software ("the Content"), is the property of Mr Price or its content suppliers and is protected by South African and international copyright laws. Furthermore, the compilation (meaning the collection, arrangement, and assembly) of all content on this Website is the exclusive property of Mr Price and is protected by South African and international copyright laws. 
 
-5.2. Except as stated herein, none of the material may be copied, reproduced, distributed, published, downloaded, displayed, posted or transmitted in any form or by any means, including, but not limited to, electronic, mechanical, photocopying, recording, or otherwise, except as permitted by the fair use privilege under the South African copyright laws or with the prior written permission of Mr Price or the copyright owner. 
+You can exercise any of your rights listed above by sending an email to [privacy@mrpg.com](mailto:privacy@mrpg.com). If you want to change your email preferences, you can do so by selecting the preference settings on the most recent email that you received from us. Where we have reasonable doubt as to the identity of the person making an enquiry we may request additional information in order to confirm the identity of the person, such as an identity document, including a drivers licence or passport.
 
-5.3. You may not "mirror" any content contained on the Website on any other server unless with the prior written permission of Mr Price. 
+Please note that the above rights are not absolute, and we may be entitled to refuse requests where exceptions apply. Should we determine that you are not entitled to exercise a specific right, we will provide you with the reason(s) why.
 
-5.4. You are granted a limited, revocable, and non-exclusive right to create a hyperlink to the home page of the Website, provided that the link does not portray Mr Price, its affiliates, or their products or services in a false, misleading, derogatory, or otherwise offensive manner. You may not use any Mr Price logo or any other proprietary graphic, trade name or trademark whatsoever as part of the link without the express written permission of Mr Price, its affiliates and/or content suppliers. 
+Should we have reasonable grounds to believe that your PI has been accessed or acquired by any unauthorised person, we shall, as soon as is reasonably possible and lawfully required, notify the applicable regulator/s, as well as yourself, unless we are unable to establish the identity of the PI that has been unlawfully accessed.
 
-5.5. All trademarks and trade name are and shall remain the exclusive property of Mr Price. 
+## CHANGES TO THIS PRIVACY POLICY
 
-5.6. The unauthorised submission, removal, modification or distribution of copyrighted or other proprietary Content is illegal and could subject you to criminal prosecution as well as to personal liability for damages. 
+This Privacy Policy is effective as of 07 September 2018. The latest version of our Privacy Policy is always available on our Websites. We may need to update or change our Privacy Policy from time to time, and we will notify you regarding any material changes to this Privacy Policy using the channels that we normally use to communicate. Your continued use of our websites, products and services after you have been notified of any amendments to the Privacy Policy will represent your acknowledgment of any changes and your agreement to adhere to the updated Privacy Policy.
 
-#### **6.** **LIMITATION OF LIABILITY**
+## DISPUTE RESOLUTION OR LODGING A COMPLAINT
 
-6.1. Whilst every attempt is taken by Mr Price to ensure your security when making use of the Website, due to the nature of the Internet we are unable to guarantee that any products and services or any websites accessible via the Website are virus- or error-free. We therefore caution you to check all emails, attachments and files before downloading them. 
+Should you have any concerns regarding relating to our privacy policy you may submit an email to [privacy@mrpg.com](mailto:privacy@mrpg.com). We will review your concerns and try to resolve any complaint relating in accordance with this policy and applicable law.
 
-6.2. We may provide links to other websites or resources. We are unable to accept, and do not accept, responsibility for these websites or resources; nor have we endorsed their content, products or services merely because they are accessible via the Website. 
+If you live or work in the EU, and if you believe there has been an infringement of your data protection rights, you are entitled to submit a complaint to a data protection authority in the EU Member State where you live or work, where you suspect that there has been an infringement of applicable data protection laws. The contact details of each EU Data Protection Authority can be found at the following website: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>
 
-6.3. While we make all reasonable efforts to ensure that all information provided by us in connection with the Website is accurate at the time of its inclusion on the Website, you acknowledge and understand that there may be errors, inaccuracies or omissions in respect of which we exclude all liability. We make no representations, guarantees or warranties of any nature whatsoever concerning the information included on our Website and web pages (including, but not limited to, links to third parties' web pages). You shall be solely responsible for any decisions or actions you take based on the information contained on such web pages. 
+We will acknowledge your request as required under applicable data protection laws. However, the rights mentioned in this Privacy Policy are not absolute: the rights do not always apply, and exemptions may be applicable. We will ask you to verify your identity and/or ask you information to assist us in better understanding your request. In the event we do not comply with your request, we will explain why.
 
-6.4. Information provided by Mr Price does not constitute legal or professional advice and should not be relied upon as such without taking independent advice. 
+Mr Price Group’s Head Office is located at:
 
-6.5. While we take all reasonable steps to safeguard the security of any information you input or send to us in connection with the Mr Price Service, by using secure services and encryption technology where we deem appropriate, we accept no responsibility or liability whatsoever for any damages that you may suffer as a result of the breach of the confidentiality of such information. 
-
-#### **7.** **OUR LIABILITY TO YOU**
-
-7.1. We shall not be liable to you in contract, delict (including for negligence) or otherwise: 
-
-7.1.1. for any amount in respect of any damage or loss arising from the consequences of your use of the Website, viruses received by you via the Website or of our failure to provide the Website in accordance with this Agreement; or 
-
-7.1.2. for any economic losses or damages, any indirect, special or consequential loss (including (without limitation) loss of data, goodwill or reputation or any wasted expenditure) including but not limited to losses arising from your use of the Website or through any viruses; or 
-
-7.1.3. for any failure to perform our obligations or failure to perform our obligations properly as a result of our being prevented from doing so by an event beyond our reasonable control (which may include, without limitation, strikes; labour disputes; acts of God; war; riot; civil action; malicious acts or damage; compliance with any law, governmental or regulatory order, rule, regulation or direction; any act or omission of any government or other competent authority; accident; equipment or services failure, including the unavailability of third party telecommunications services, lines or other equipment; the failure of third party suppliers to comply with their obligations to us; fire; flood or storm). 
-
-7.2. Each provision of this clause 7 operates separately. If any part is held by a court to become unenforceable due to voidness, invalidity, illegality or unlawfulness, , then the other parts shall be severable and shall still apply in their entirety. 
-
-#### **8.** **CHANGES, SUSPENSION, AND TERMINATION**
-
-8.1. We may alter and/or amend the Website at any time without giving notice to you, 
-
-8.2. We may suspend or terminate the Website at any time without giving notice to you. 
-
-8.3. Mr Price may terminate your account at any time for any reason, including any improper use of this Website or your failure to comply with any provision of this Agreement. 
-
-8.4. Such termination shall not affect any right or remedy to relief to which Mr Price may be entitled. 
-
-8.5. Upon termination of this Agreement, all rights granted to you will terminate and revert to Mr Price. 
-
-8.6. Mr Price may at any time modify these Terms and Conditions without notice to you. If your are not satisfied with the amended Terms and Conditions, you should refrain from using the Website, as your continued use of the Website is deemed to constitute your acceptance of the Terms and Conditions as amended and in force at the time of your use. 
-
-8.7. We will however give you notice where we have collected personal information from you and the purpose for which we collected that information, is affected by the intended modification. 
-
-8.8. We accordingly advise you to read and take note of these Terms and Conditions each and every time you visit the Website, as they may have been modified since your last visit. You shall be deemed to have read and accepted the latest version of the Terms and Conditions available on the Website whenever you visit the Website. 
-
-#### **9.** **MR PRICE PRIVACY AND COOKIE POLICY**
-
-9.1. This clause 9 provides details about our Privacy and Cookie Policy, which Policy forms part of this Agreement. Mr Price takes your privacy seriously and is committed to protecting your personal information. We use the personal information that we collect from you in accordance with this Privacy and Cookie Policy. 
-
-9.2. Personal information when used in this Policy means information that can identify you as an individual or is capable of identifying you. By personal information we don't mean general, statistical, aggregated or anonymised information. 
-
-9.3. Your use of our services signifies your consent to us collecting and using your personal information as specified below. 
-
-9.4. How we collect information about you 
-
-9.4.1. You may provide personal information to us when communicating with us. 
-
-9.4.2. You may order a product or a service and provide your name, e-mail address, delivery address, credit or debit card number and expiry date so that the order can be processed and your products (or services where appropriate) delivered to you. Sometimes, you may be asked for your telephone number. 
-
-9.4.3. When you call us, we may monitor or record your calls and store details of the phone number(s) you use to make the calls. This information is used to better address your customer service needs. 
-
-9.4.4. If you enter a competition or participate in a promotion, we will ask for your name, address and e-mail address and any other relevant information about you. 
-
-9.4.5. When you connect to the Internet using our services, we will collect your Calling Line Identification Number (CLI). 
-
-9.4.6. We will collect information concerning your tastes and preferences both when you tell us what these are and through our analysis of customer traffic, including through the use of cookies (as described below). 
-
-9.4.7. It may be that you provide to us details of credit or debit cards or bank accounts in order to make payments to us. Any such information ("confidential financial information") will be used by us only for the specific purpose for which it was provided to us. 
-
-9.5. How we use your information 
-
-9.5.1. We may use your information to confirm that your orders have been received; to validate you as a customer when using our services and calling our [help desk]; to prevent and detect criminal activity, fraud and misuse of or damage to our services or networks; to prosecute those responsible and to contact you to invite you to form part of our consumer panel or various research groups. 
-
-9.5.2. We may also use your personal information and process such information for the purposes of management, research, analysis, corporate reporting, credit-scoring and improving business efficiencies. 
-
-9.5.3. We may use personal information collected about you to contact you by post, telephone and electronic mail (that is email, picture, video, and SMS) about functionality changes to our Website, services or changes to our Terms and Conditions, and to communicate with you about your customer benefits and advise you regarding the use of our services. 
-
-9.5.4. We may use the information collected about you to contact you by post or phone about new customer offers and services. We may also contact you by electronic mail for these purposes, subject to any preferences selected by you. 
-
-9.5.5. Subject to your preferences in respect of each of our services, selected third parties may use the personal information collected about you to contact you about information that you might find interesting. 
-
-9.6. How long do we keep your information for? The time periods for which we keep your information may vary according to the use or purpose attached to the information. Unless there is a specific legal requirement requiring us to keep your information, however, we will not keep it for longer than necessary for the purpose for which the information was collected or for which it is to be processed. We will in any event delete or destroy any personal information which has become obsolete. 
-
-9.7. Disclosing your information to third parties 
-
-9.7.1. Mr Price reserves the right to access and disclose personal information to comply with applicable laws, regulations and lawful government requests, to operate its systems properly to protect itself or its users or to solve any customer disputes. 
-
-9.7.2. We may provide aggregate statistics about our sales, customers, traffic patterns and other website information to third parties, but these statistics will not include any information that could identify you. 
-
-9.7.3. We may from time to time elect to make use of other companies to provide some of our services, and our services will then be offered through third party service providers on our Website. We may then share your personal information with these companies. These companies can and will process this information and will be obliged to keep such information confidential. 
-
-9.8. A cookie is a piece of information that is stored on your computer's hard drive by your web browser. On revisiting our Website, our computer server will recognise the cookie, giving us information about your visit. 
-
-9.9. When and where do we use cookies? 
-
-9.9.1. We allocate cookies during the registration process for our services. These cookies will hold information collected during your registration and will allow us to recognise you as a customer and provide you with the services you require. If your browser is set to reject cookies, you may not be able to register for Mr Price services. We may also use this data to better understand your interests while online and to personalise your visits to our Websites. 
-
-9.9.2. On different sections of our portal. We use cookies to collect information concerning visitors to our Website. Our servers use two different types of cookies. The first type is known as a 'session-based' cookie and is allocated to your computer only for the duration of your visit to our Website. It helps you to move around the Website faster and, if you're a registered customer, it allows us to give you information relevant to your selected Mr Price service. This cookie automatically expires when you close down your browser. The second type of cookie is known as a 'persistent' cookie. A persistent cookie will remain on your computer for the period of time that has been set for each cookie. Persistent cookies are used for the purposes of advertisements on our Website and to track whether these advertisements are clicked on by users; to control how often you are shown a particular advertisement; to tailor content to your preferences; to count the number of anonymous users of the Website and to provide security within shopping baskets or transactions. The types of cookies used and the manner in which the information generated by them is used will be governed by those advertisers' privacy policies. We have no control over these. 
-
-9.9.3. How can you refuse or opt out of cookies? Most browsers are set by default to accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance and to prompt you every time a cookie is sent to you or to allow you to choose not to receive cookies at all. 
-
-9.9.4. How can you manage your privacy preferences? If you'd like us to stop processing your information for marketing purposes, please write to Mr Price customer care at the address set out in clause 11 below. 
-
-#### **10.** **GOVERNING LAW AND JURISDICTION**
-
-This Agreement shall be governed by the laws of the Republic of South Africa, and you consent to the jurisdiction of the KwaZulu-Natal High Court in the event of any dispute arising from this Agreement. If any of the provisions of this Agreement are found by a court of competent jurisdiction to be invalid or unenforceable, that provision shall be enforced to the maximum extent permissible so as to give effect to the intent of this Agreement, and the remainder of the Agreement shall continue in full force and effect. This Agreement constitutes the entire agreement between you and us with regard to the use of the Website. 
-
-#### **11.** **CONTACT DETAILS**
-
-Mr Price Group Limited, trading as mrphome, a company registered in the Republic of South Africa (Reg. No. 1933/004418/06 ), with its registered office for legal service of documents at P.O. Box 912, Durban, 4000, South Africa 
-
-Telephone Number: +27 31 310 8809 
-
-Website Address: [www.mrphome.com](http://www.mrphome.com/)
-
-Telephone number: 0800 212 535 (Customer Services) 
-
-Divisional Directors: A J de Haas (Managing); D J P Friis; R L Osborne; K M Strauss; R P E van Heerden and J D Vosloo 
-
-#### **12.** **PROMOTIONS & SPECIAL OFFERS**
-
-ALL offers and promotions are valid only while stocks last. 
-
-Please NOTE that any site wide offer of an amount of rands off when you spend a certain amount or more (for example, get R300 off when you spend R1500 or more) relate ONLY to the purchase of product. Delivery fees are not calculated into the spend amount, and therefore cannot be considered part of the value which will qualify for the promotional amount off. Ie. You will need to purchase product to the value of R1500 (for example), in order to get the set amount off. The promotion will NOT be applied if purchase product to the value of R1200, and your delivery fee is R300.
-
-Special offers or promotions DO NOT apply to the purchase of gift vouchers / gift cards online at mrphome.com 
-
-Last updated 12/05/16 
+Durban Station, Upper Concourse  
+65 Masabalala Yengwa Avenue  
+Durban  
+South Africa  
+Tel: [031 310 8000](tel:0313108000)
