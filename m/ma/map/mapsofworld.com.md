@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapsofworld.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119100906id_/https%3A//www.mapsofworld.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsofworld.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123002647id_/https%3A//www.mapsofworld.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MapsOfWorld.com
 
@@ -46,6 +46,8 @@ MOW website may contain links to other websites or advertisements which drive yo
 **Advertising Cookies**  
 MOW Website has contracted with third party vendors, including Google, who use cookies to serve ads based on a User's prior visits to MOW. Google's use of Double Click cookie enables it and its partners to server ads Users based on their visits to MOW. Users may opt out of the use of Double Click cookie for internet based advertising by visiting the [Tribal Fusion](http://exponential.com/privacy/opt-out/), [Affinity opt-out](http://exponential.com/privacy/opt-out/) , [Zedo opt-out](https://www.zedo.com/about-zedo/opt-out/) and [Taboola opt-out](https://www.taboola.com/privacy-policy#optout). [Here](https://tools.google.com/dlpage/gaoptout/).
 
+At MOW [Privacy Policy](https://www.mapsofworld.com/privacy-policy.html), we have listed Tribal Fusion, Affinity, Zedo and Taboola Opt-out links. If we allow other advertisers, we are required to include "Opt-Out" link for those advertisers also. Further, we are required to ask the advertisers whether they are complying with the EU GDPR norms.
+
 For any clarification or question regarding the Privacy Policy, please drop an e - mail to [contactus@mapsofworld.com](mailto:contactus@mapsofworld.com).
 
-**Last Updated on: July 18th, 2017**
+**Last Updated on: May 25th, 2018**
