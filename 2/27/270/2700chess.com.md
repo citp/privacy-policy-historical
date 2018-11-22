@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the 2700chess.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031093300id_/http%3A//2700chess.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2700chess.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122232910id_/https%3A//2700chess.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 2700chess.com
 
-Last updated: March 03, 2016
+Last updated: June 13, 2018
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service (the "Service") at http://www.2700chess.com.
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service (the "Service") at https://2700chess.com.
 
 Your privacy is important for 2700chess.com and we will not use or share your information with anyone.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://2700chess.com.
+We use the HTTPS protocol. All web traffic between your web browser and https://2700chess.com uses the Secure Sockets Layer (SSL) – in other words it is encrypted. Now, if anyone manages to intercept the message, all they will see is unintelligible text. 
 
-### Information Collection And Use.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://2700chess.com.
+
+### Information Collection And Use
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address ("Personal Information").
 
@@ -21,6 +23,20 @@ We may also collect information that your browser sends whenever you visit our S
 In addition, we may use third-party services, such as Google Analytics, that collect, monitor and analyze this type of information in order to increase our Service's functionality.
 
 These third-parties may use cookies to help us analyze how our users are using the Service and they have their own Privacy Policies addressing how they use such information.
+
+### GDPR (General Data Protection Regulations)
+
+Legal bases for processing (for EEA users) are as follows: If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have legal bases for doing so under applicable EU laws. The legal bases depend on theServices you use and how you use them. This means we collect and use your informationonly where:
+
+— We need it to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services; 
+
+— It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services. 
+
+We keep only your username, email and the public username you provided to 2700chess. Your password is encrypted so that we cannot see it.
+
+### Deleting an account
+
+If you want your account and associated data deleted, then please send us an email with a request to do so. We will then implement your request soon afterwards.
 
 ### Google Analytics
 
