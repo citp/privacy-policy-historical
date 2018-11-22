@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalwomensday.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326032924id_/https%3A//www.internationalwomensday.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalwomensday.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122204703id_/https%3A//www.internationalwomensday.com/Privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -10,11 +10,13 @@ We are committed to safeguarding the privacy of our website visitors; this polic
 
 We may collect, store and use the following kinds of personal information:
 
-(a) to the extent that we are required to do so by law;  
-(b) in connection with any legal proceedings or prospective legal proceedings;  
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);   
-(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling; and  
-(e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+(a) Name;  
+(b) Email;  
+(c) Address;  
+(d) Telephone;  
+(e) Gender;  
+(f) Employer; and  
+(g) Job title. 
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
@@ -33,6 +35,8 @@ Our payment services providers may also send you cookies.
 We may publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: [http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences). You can opt-out of the Adsense partner network cookie at: [http://www.google.com/privacy_ads.html.](http://www.google.com/privacy_ads.html) However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at:[http://www.google.com/ads/preferences/plugin.](http://www.google.com/ads/preferences/plugin)
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
+
+More information on cookies can be found [**here**](https://web.archive.org/Cookies).
 
 ### 3\. Using your personal information
 
@@ -73,11 +77,11 @@ Except as provided in this privacy policy, we will not provide your information 
 
 ### 5\. International data transfers
 
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
+Information that we collect may be stored, processed in and transferred between any of the countries in which we operate (United Kingdom, United States and Australia) in accordance with this privacy policy.
 
 Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area.
 
-In addition, personal information that you submit for publication on the website will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
+In addition, personal information that you specifically submit for publication on the website will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
 
 You expressly agree to such transfers of personal information.
 
@@ -97,10 +101,7 @@ We may also notify you of changes to our privacy policy by email.
 
 ### 8\. Your rights 
 
-You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
-
-(a) the payment of a fee (currently fixed at £10.00); and  
-(b) the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
+You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to the supply of appropriate evidence of your identity.
 
 We may withhold such personal information to the extent permitted by law.
 
