@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the skillassess.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507094723id_/http%3A//www.vetassess.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillassess.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122094215id_/http%3A//www.vetassess.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy - VETASSESS
+# Apply for Assessment with VETASSESS Australia
 
 * * *
 
-Bendigo Kangan Institute trading as VETASSESS ABN 74 802 942 886 (“VETASSESS”) aims to comply with the Privacy and Data Protection Act 2014 (Vic), the Health Records Act 2001(Vic) and all other applicable privacy legislation and to implement practices and procedures to ensure compliance. The Information Privacy Principles as set out in Schedule 1 of the Privacy and Data Protection Act 2014 (Vic) and the Health Privacy Principles as set out in Schedule 1 of the Health Records Act 2001 (Vic) are incorporated in this Privacy Statement.
+Bendigo Kangan Institute trading as VETASSESS ABN 74 802 942 886 (“VETASSESS”) complies with the Privacy and Data Protection Act 2014 (Vic), the Health Records Act 2001(Vic) and all other applicable privacy legislation and to implement practices and procedures to ensure compliance. The Information Privacy Principles as set out in Schedule 1 of the Privacy and Data Protection Act 2014 (Vic) and the Health Privacy Principles as set out in Schedule 1 of the Health Records Act 2001 (Vic) are incorporated in this Privacy Statement.
 
 At VETASSESS, we respect the privacy rights of individuals in regard to the personal and health information they supply to VETASSESS.
 
@@ -21,7 +21,7 @@ We will only collect personal information or health information that is relevant
   * Skills assessment of qualifications and employment for migration to Australia;
   * Skills assessment of qualifications and employment for finding employment, when you already reside in Australia;
   * Provision and/or administration of tests for assessment of your skills and/or knowledge;
-  * Related dealings with Commonwealth, State and Territory governments. 
+  * Related dealings with Commonwealth, State and Territory governments.
 
 
 
@@ -44,11 +44,13 @@ We may use your contact details to contact you to:
   * provide you with information you have requested;
   * respond to your feedback;
   * confirm receipt of e-mails you have sent to us;
-  * contact you for any other reason, for example to ensure that the personal information we have collected about you is accurate and up to date.
+  * contact you for any other reason, for example to ensure that the personal information we have collected about you is accurate and up to date;
+  * seek qualitative and quantitative market research data and insights such as surveys and focus groups; or 
+  * personalise our website, offer associated products and services to you, such as pre- and post-migration services. 
 
 
 
-When you visit our website, our site’s server records information concerning your server address, your top level domain name ( for example, .com, .gov etc.), the date and time you visited our website, the pages you accessed and documents you downloaded, the type of browser you are using, and the address of the previous website you visited. All of this information is collected for statistical purposes, which enables us to assess the number of visitors to the different sections of the site and assists us to make the website more useful to visitors.
+When you visit our website, our site’s server records information concerning your server address, your top level domain name (for example, .com, .gov etc.), the date and time you visited our website, the pages you accessed and documents you downloaded, the type of browser you are using, and the address of the previous website you visited. All of this information is collected for statistical purposes, which enables us to assess the number of visitors to the different sections of the site and assists us to make the website more useful to visitors.
 
 We may disclose your personal information or health information to third parties including government agencies (for example, Department of Industry and Science, Department of Home Affairs, the Australian Taxation Office), domestic and overseas service providers and, employers for verification of identity/data purposes.
 
@@ -70,11 +72,13 @@ We will take all reasonable steps to provide you with details of your personal i
 
 ## 6\. Access and Correction
 
-Generally we will give you access to your personal information or health information upon written request within 30 days from receipt of the request, subject to exceptions permitted by law. All requested information will be provided within 30 days from receipt of the request 
+Generally, we will give you access to your personal information or health information upon written request within 30 days from receipt of the request, subject to exceptions permitted by law. All requested information will be provided within 30 days from receipt of the request. 
 
-If we receive a written request to correct personal information about you and we are satisfied that the personal information held by us is not accurate, complete or up to date, we will take all reasonable steps to correct the information so that it is accurate, complete and up to date. 
+If we receive a written request to correct personal information about you and we are satisfied that the personal information held by us is not accurate, complete or up to date, we will take all reasonable steps to correct the information so that it is accurate, complete and up to date 
 
 We will provide you with reasons for denial of access or refusal to correct personal information.
+
+Please note that VETASSES collects personal information for the purposes of making migration assessments used by the Australian Government. The Australian Government requires VETASSESS to retain details of the assessments and information it uses in making those assessments. Consequently, notwithstanding that in other circumstances (such as the European Union’s Global Data Privacy Regulation) an individual may have a right to have their personal records erased, VETASSESS cannot comply with any request for the erasure or destruction of records relating to migration assessment applications unless authorized to do so by the Australian Government. Applicants should consider this when making an application.
 
 ## 7\. Unique identifiers
 
@@ -94,6 +98,14 @@ We may transfer personal information or health information to domestic and overs
 
 ## Sensitive Information
 
-We collect sensitive information about an individual only with consent of the person or if required or permitted by law. ‘Sensitive information’ is information or an opinion about an individual's:
+We collect sensitive information about an individual only with consent of the person or if required or permitted by law. 
+
+‘Sensitive information’ is information or an opinion about an individual's: 
 
 1\. racial or ethnic origin 2. political opinions 3. membership of a political association 4. religious belief or affiliations 5. sexual preferences 6. criminal record 7. membership of a trade union 8. membership of a professional or trade association. 
+
+## Further information
+
+Please contact VETASSESS for further information about this policy. 
+
+Email: info@vetassess.com.au 
