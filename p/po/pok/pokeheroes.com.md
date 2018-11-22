@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokeheroes.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520153904id_/http%3A//pokeheroes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokeheroes.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122160243id_/http%3A//pokeheroes.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - PokéHeroes
 
