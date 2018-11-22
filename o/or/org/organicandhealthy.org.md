@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the organicandhealthy.org privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224160712id_/http%3A//www.organicandhealthy.org/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicandhealthy.org privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122142952id_/http%3A//www.organicandhealthy.org/p/privacy.html) for the most accurate reproduction.*
 
-# Privacy - ORGANIC AND HEALTHY
+# Privacy - ORGANIC AND HEALTHYORGANIC AND HEALTHY
 
 1. **INTRODUCTION**  
   
