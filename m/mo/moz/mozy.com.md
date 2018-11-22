@@ -1,127 +1,147 @@
-> *The following text is extracted and transformed from the mozy.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126011031id_/https%3A//mozy.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozy.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122124112id_/https%3A//www.carbonite.com/terms-of-use/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Mozy
+# Carbonite Privacy Policy | Carbonite
 
-Mozy, Inc. (“Mozy,” “we,” “us,” or “our”) has created this Privacy Statement because we know that you care about how information you provide to us is used and shared. Mozy is part of the Dell Technologies group of companies. This Privacy Statement applies to Personal Data collected on Mozy websites, including Mozy.com, MozyPro.com, MozyEnterprise.com (our “Websites”) and the MozyHome, MozyPro, and MozyEnterprise backup services (the "Service").
+#### Last updated: May 2018
 
-By registering to use the Service, you agree (1) to comply with the terms and conditions of this Privacy Policy and (2) that Mozy may process (i.e., collect, use, etc.) your Personal Data as described in this Privacy Policy or the User Agreement.
+Carbonite, Inc. and its affiliates and subsidiaries (collectively “Carbonite”) respect the privacy of our customers and users. Please take time to read this Privacy Policy (“Privacy Policy”) as we believe it is important for our customers and users to understand how we collect, process and use personal data.  
 
-For purposes of this privacy statement, “Business Partners” means subcontractors, vendors or other entities with whom we have ongoing business relationships to provide products, services or information.
+ **By using the Products and Services, Websites or Portals, you consent to the data we collect and how we use and share it in accordance with this Privacy Policy.   If you do not agree with the data we collect and how we use and share it, you should not use the Products and Services, Websites or Portals. **
 
-“Personal Information” means information that can identify you, such as your name, telephone number and email address. It does not include the files you back up using the Mozy Service or their contents. Mozy will not view the contents of your backup files.
+#### WHAT DATA WE COLLECT  
 
-This Privacy Statement does not apply to the websites of any of our affiliates or Business Partners; or to any other third parties, even if links to their websites are on our Website. We recommend you review the privacy statements of the other parties with whom you interact.
+Carbonite’s customers and users voluntarily provide us with data, including data that can be used to identify, either directly or indirectly, an individual (“Personal Data”) when they purchase or use our products and services (together, “Products and Services”) and access our websites or portals (“Websites” or “Portals”). 
 
-### The Information We Collect
+ **Data Provided by Users and Customers.**
 
-When registering with Mozy, you provide Personal Data, which may include company name, industry, number of employees, phone number, your title, city, state, country, zip code, a user name, confirmed email address, and a password. When using a Mozy Service, the data that you choose to back up with the Service, along with your file system information (including names of files and directories), is sent to Mozy. Mozy may also record your IP address when you submit information.
-
-Mozy also may collect, at your option, certain preference and demographic information from you.
-
-To protect your account information, please keep your password secure.
-
-All Users may opt to remove their Personal Data from our live database by contacting Mozy and canceling their Mozy user account. Users of the Mozy.com Services may also cancel their user account by logging into their account, selecting My Profile, and clicking on Delete Account.
-
-We may automatically collect other types of information when you visit our Website such as your network location, the IP address of your computer, and what sections of our Website you visit.
-
-### How We Use and Share Personal Information
-
-Mozy may use your Personal Information to:
-
-  * Deliver the Service and support or carry out the transactions you have requested; 
-  * Send communications to you, such as your transaction status (for example, order confirmations), information about products and services available from Mozy and its corporate affiliates, event announcements, important product notices including those announcing changes to our terms or policies, promotional offers and surveys;
-  * Advertise and market Mozy products and the products of our corporate affiliates by, for example, delivering targeted ads on this and other web sites, analyzing the effectiveness of ads, and determining whether you would be interested in receiving offers about new products or services; 
-  * Administer, customize, personalize, analyze and improve our products, services (including the content and advertisements on our Website), technologies, communications and relationship with you; 
-  * Enforce our conditions of sale, our Website terms and/or separate contracts (if applicable) with you; 
-  * Prevent fraud and other prohibited or illegal activities; 
-  * Protect the security or integrity of our Website, our business, or our products or services; or 
-  * For other purposes, as disclosed to you at the point of collection or as required or permitted by law.
+  * Name, address, email, telephone number, username and password (collectively "Account Information")
+  * Credit card, debit card, banking or other payment information
+  * Information submitted as a result of completing forms on our Websites or Portals, entering a promotion or survey or subscribing to, commenting on or downloading information from our Websites or Portals
+  * Customer content stored, processed, maintained or transmitted using our Products and Services
+  * File system information such as stored file folder names, file extensions, file sizes, and the configuration of any device registered for use in connection with the Products and Services, including any hardware delivered as part of the Products and Services (each a "Device")
+  * Technical information as a result of configuring the Products and Services, including IP addresses, browser-type, device-type, internet service provider, referring or exiting pages, operating system, date and time stamp or clickstream data
+  * Any other information shared with us directly or indirectly through a customer’s or user’s use of the Products and Services, Websites or Portals
 
 
 
-Personal Information collected may be stored and processed in the United States, although personal information relating to customers outside the United States will usually be stored in Ireland. By using Mozy products and services (including our Website), you consent to any such transfer of information to the United States.
+ **Aggregate Information.** To the extent permitted by applicable law, Carbonite may use, process, transfer and store customer and user data in an anonymous (or pseudonymous) and aggregated manner. We may combine such data with other information collected, including information from third-party sources. By using the Products and Services, our customers and users agree that we are permitted to collect, use, share and store anonymized (or pseudonymized) aggregated data collected through the Products and Services for benchmarking, analytics, metrics, research, reporting, machine learning and other legitimate business purposes.
 
-### Disclosing Personal Information
+ **Automated Decisions.** To the extent permitted by applicable law, Carbonite may collect data in an automated manner and make and use automated decisions about customers, including using machine learning algorithms, in order to provide or optimize the Products and Services, for security or analytics purposes, to display advertisements and offers based on individual preferences and for any other lawful purpose.
 
-We may share Personal Information with Dell Inc. and other corporate affiliates—businesses in the Dell Technologies group of companies—to carry out transactions you request, to make our business or that of our corporate affiliates more responsive to your needs, including so that our corporate affiliates may provide you with information about those affiliates’ products and services, or for research or analysis. 
+#### WHY WE USE DATA
 
-In addition, Mozy may share your Personal Information with participants in our sales and marketing chain, including but not limited to retailers, resellers, distributors, integrators, order fulfillers and sales agents (“Channel Partners”), for the purposes of selling, marketing or providing support for Mozy products and services.
+Carbonite processes data, including Personal Data, for a variety of purposes, such as: 
 
-We may also disclose your Personal Information (i) in response to proper requests from law enforcement or other government bodies; (ii) as required by law or regulation; (iii) if Mozy reasonably believes it is necessary to protect the rights of Mozy, its customers, the public, or others; (iv) to combat fraud or criminal activity; or (v) with your consent.
+  * With customer or user consent, e.g., to receive marketing materials
+  * Where the processing is necessary for the performance of a contract, e.g., to facilitate backing-up and restoring data, for archiving purposes, or to provide technical support
+  * Where necessary to comply with law
+  * Where the processing is necessary for the purposes of our legitimate interests, taking into account individual interests. Our legitimate interests include providing the Products and Services, internal record-keeping and administrative purposes and to operate, maintain and improve the Websites or Portals
 
-We may share your Personal Information with affiliates or Business Partners to carry out transactions you request, or to make our business or that of our affiliates more responsive to your needs, which includes our affiliates and Business Partners providing you with information about Mozy products and services. We will only share Personal Information with Business Partners who share Mozy’s commitment to protecting your Personal Information.
 
-We may share information with a purchaser of all or part of Mozy, Dell Inc., or our corporate affiliates.
 
-Except as described above, we will not disclose your Personal Information to third parties for their own marketing purposes without your consent.
+#### HOW WE USE COOKIES AND OTHER TECHNOLOGIES
 
-We may aggregate or de-identify information so that it does not identify you and share that and other non-personal information with third parties for any purpose.
+We use certain automatic data collection technologies such as cookies, web beacons, pixel tags and other technologies to collect data, including Personal Data, when users or customers visit the Websites or Portals, use the Products and Services or interact with us, and may share this data with our third-party marketing vendors (including for example, advertising networks and providers of external services like web traffic analysis services and analytics tools). We explain these technologies below.
 
-### Selecting Your Communication Preferences and Accessing Your Personal Information
+ **Cookies.** Cookies are small text files placed on a computer by a web server when browsing online and are used to store user preference data so that a web server doesn't have to repeatedly request this information. A user may block cookies by activating the settings on the browser that blocks all or some cookies. However, if a user blocks all cookies (including strictly necessary cookies), a user may not be able to access all or parts of our Websites or Portals. We use the following cookies: 
 
-If you do not wish to receive future marketing communications, or wish to change, modify or delete your Personal Information, please contact us at [privacy@Mozy.com](mailto:%70%72%69%76%61%63%79%40%4d%6f%7a%79%2e%63%6f%6d "privacy@Mozy.com"). Upon receipt of your request, your information will be updated as soon as possible, but no later than ten (10) days after our receipt of your request. We will then retain your information for as long as your account is active or as needed to provide you services and as necessary to comply with our legal, regulatory or compliance obligations. Even when you opt out of receiving marketing communications, we may still communicate with you in connection with servicing your account, fulfilling your request, or administering any promotion or any program in which you have elected to participate.
+  * Strictly Necessary Cookies. These cookies are required for the operation of our Websites and Portals. They include, for example, cookies that enable a customer to log-in to secure areas of our Websites and Portals and use e-commerce.
+  * Analytical and Performance Cookies. These cookies allow us to recognize and count the number of users visiting our Websites and Portals and see how those users navigate our Websites or Portals. This helps us to improve our Websites and Portals.
+  * Functionality Cookies. These cookies recognize a user that returns to our Websites or Portals. This enables us to personalize our content, greet the user by name and remember preferences, for example, choice of language or region.
+  * Targeting Cookies. These cookies record visits to our Websites or Portals and the links followed. We use this information to improve our Websites or Portals and ensure the advertising displayed is relevant to users.
 
-### Collection and Use of Children’s Personal Information
 
-Mozy takes children’s privacy seriously. We do not knowingly collect Personal Information from children under the age of 13 through our Website. If you are under 18 years of age, please do not submit any Personal Information through our Website without the express consent and participation of a parent or guardian.
 
-### How We Use Cookies
+ **Web Beacons.** A web beacon is a small pixel incorporated into a web page or email to keep track of activity on the page or email.  A web beacon helps us better manage the content of our Websites by informing us of what content is effective. 
 
-Our Website uses “cookies” to enable you to sign in to our services and to help personalize your online experience. A cookie is a piece of text that is placed on your computer’s hard drive. Depending on the settings you have selected, your browser adds the text to your device as a small file. You can change the browser settings as described below; many browsers are set to accept cookies by default. We use cookies to store your preferences and other information on your computer in order to save you time by eliminating the need to enter the same information repeatedly.
+ **Cross-device Tracking.** We may use third-party cross-device tracking. For example, a user may use multiple browsers on a single device, or use various devices, which can result in the customer having multiple accounts or profiles across various devices. Cross-device tracking may be used to connect these various accounts or profiles and the corresponding data from different devices.
 
-You have the ability to accept or decline cookies. Many web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of our Website and services that depend on cookies.
+#### GLOBAL DATA MANAGEMENT
 
-### Analytics / Log Files
+Carbonite is a global organization. As a result, data collected by us, including Personal Data, may be transferred or accessed by Carbonite’s subsidiaries and affiliates in other countries around the world regardless of a customer or user country of residence.  Please note that by using the Products and Services, Websites or Portals or by providing Personal Data to us, customers and users acknowledge and agree that Personal Data may be sent to and processed in countries outside your country of residence, including the U.S.  For individuals residing in the European Economic Area (“EEA”), and for Personal Data subject to European data protection laws, this includes transfers outside of the EEA. Some of these countries may not have data protection laws that provide an equivalent level of data protection as the laws in your country of residence, however, we will take steps to ensure Personal Data is handled in accordance with the EU-U.S. and Swiss Privacy Shield Frameworks and/or the General Data Protection Regulation, as applicable.
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We may link this automatically-collected data to Personal Information in order to personalize our communications with you.
+#### WHEN AND WHY WE SHARE YOUR PERSONAL DATA
 
-### Targeted Display Advertising by Mozy and Others
+ **We do not and will not sell Personal Data to marketers or other vendors.  **
 
-Mozy also works with third party advertising and personalization partners that use cookies to help us display personalized content and appropriate advertising during your visits to our Website and other websites. Cookies placed by our third party partners also assist us with measuring the performance of our advertising campaigns.
+We may share data, including Personal Data, in the following circumstances:
 
-### How We Use Web Beacons
+ **Service Providers.** Carbonite may share data, including Personal Data, with our contracted third-party service providers in order to provide and improve our Products and Services, Websites or Portals or to administer surveys and user analysis to better understand user needs and preferences. These third-parties include affiliates and subsidiaries, business partners, payment and delivery services, advertising networks, analytics providers, credit reference agencies, social media companies, email distributors, marketing automation partners, customer survey companies, data storage and hosting partners, IT specialists and product developers.
 
-Mozy or third parties with which we have contracted or sub-contracted may use web beacons on our website, in our email messages, in our advertisements on other websites, or in our advertisements in others’ email messages. Similarly, third parties whose content or ads appear on our Website, may also place web beacons in their ads or emails for purposes of measuring the effectiveness of the content, ads or email messages.
+ **Legal Purposes.** Carbonite may share data, including Personal Data, as necessary to comply with applicable law, court orders, governmental agencies, for the administration of justice, to protect vital interests, to protect the security or integrity of Carbonite’s databases, Products and Services, Websites or Portals, or to take precautions against legal liability.
 
-A web beacon is an electronic image that can be used to recognize a cookie on your computer when you view a web page or email message. Web beacons help us measure the effectiveness of our Website and our advertising in various ways. For example, web beacons may count the number of individuals who visit our Website from a particular advertisement, or who make a purchase from our Website after viewing a particular advertisement, or they may tell us when a web page is viewed and provide a description of the page where the web beacon is placed. Web beacons may also measure the effectiveness of our email campaigns, by counting the number of individuals who open or act upon an email message, determining when an email message is opened and determining how many times an email message is forwarded.
+ **Sale.** In the event of a merger, consolidation, or acquisition of all, substantially all or a portion of Carbonite’s business or assets, Carbonite may share data, including Personal Data. Customers and users acknowledge and agree that data, including encrypted stored data and Personal Data that Carbonite has collected, may be securely shared, disclosed and transferred to such successor or assignee. 
 
-The information we collect through web beacons may include some limited Personal Information, and web beacons allow us to recognize users by accessing Mozy cookies. We may also combine the information that we collect through web beacons with other information we have collected from you. We use all of this information to better tailor our marketing to you and may use this information for other purposes, such as to enable a shopping cart, customize content on our Website and undertake internal research.
+#### RETENTION OF DATA
 
-We prohibit web beacons on our sites from being used by third parties to access Personal Information. We may allow third parties to compile individual information or aggregated statistics from the use of web beacons on our site by Mozy, its agents or others, to enable such third parties to determine the effectiveness of online marketing and to allow such third parties to develop statistics on how often clicking on an advertisement results in a purchase or other action on the advertiser’s site. Aggregate information is anonymous and may include demographic and usage information. No Personal Information about you is shared with partners for this research.
+We may retain data, including Personal Data, for as long as necessary to deliver the Products and Services or as needed for other lawful purposes. We may retain anonymized or pseudonymized, aggregated data indefinitely or to the extent permitted under applicable law.
 
-You can make some web beacons unusable by rejecting cookies.
+#### YOUR RIGHTS
 
-### Retention of Client Data
+Subject to applicable data protection laws, customers and users have the following rights with respect to Carbonite’s handling of Personal Data:
 
-Mozy will retain Client Data for as long as needed to provide services to our client, unless otherwise directed by that client, and as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+  *  **Access.**  The right to access Personal Data held by Carbonite.
+  *  **Opt-Out.**  The right to object to certain processing of Personal Data (unless Carbonite has overriding compelling grounds to continue processing), including the right to opt-out of receiving direct marketing. We will, however, continue to use Personal Data for the limited purpose of communicating important notices relating to purchases, changes to Products and Services or policies, and other reasons permitted by law.
+  *  **Rectification.**  The right to request correction of Personal Data that is incomplete, incorrect, unnecessary or outdated.
+  *  **Right to be Forgotten.**  The right to request erasure of all Personal Data that is incomplete, incorrect, unnecessary or outdated within a reasonable period of time. Carbonite will do everything possible to erase Personal Data if a user or customer so requests. However, Carbonite will not be able to erase all Personal Data if it is technically impossible due to limitations of existing technology or for legal reasons, such as Carbonite is mandated by applicable law to retain Personal Data.
+  *  **Restriction of Processing.  **The right to request restriction of processing Personal Data for certain reasons, such as the inaccuracy of Personal Data.
+  *  **Data Portability.  **If requested, Carbonite will provide Personal Data in a structured, secure, commonly used and machine-readable format.
+  *  **Right to Withdraw Consent**. If Personal Data is processed solely based on consent, and not based on any other legal basis, customers can withdraw consent at any time.
+  *  **Data Protection Contact.**  The right to contact the relevant data protection regulator regarding Carbonite’s handling of Personal Data.
 
-### How We Secure Personal Information
 
-Mozy is committed to protecting the security of Personal Information. We use a variety of security technologies and procedures to help protect Personal Information from unauthorized access, use and disclosure. While we strive to protect your Personal Information, Mozy cannot ensure or guarantee that the Personal Information or private communications you transmit to us will always remain confidential or secure. Therefore, when you choose to provide Personal Information or private communications to us, you do so at your own risk.
 
-### Links to External Websites
+To exercise any of the above listed rights, email Carbonite at [privacy@carbonite.com](mailto:privacy@carbonite.com), contact customer support at 1-877-222-5488 or the appropriate geographical telephone number found [here](https://web.archive.org/customer-support/evault-doubletake-support), or mail Carbonite, Inc., Two Avenue de Lafayette, Boston, MA 02111, Attn: Privacy. Carbonite will process requests in accordance with applicable law and within a reasonable period of time.
 
-Our Website may contain links to third-party sites. Mozy cannot control and is not responsible for the privacy practices of such third-party sites. Mozy encourages users to be aware when they leave our Website, and to read the privacy statements of each website they visit. This Privacy Statement applies only to Mozy.
+#### CARBONITE AS A DATA CONTROLLER AND PROCESSOR
 
-### Blog / Forum
+Carbonite, Inc. acts as a data controller when we collect and process Personal Data for Carbonite’s legitimate interests, such as analyzing user interaction with our Websites or processing a customer credit card payment. Carbonite, Inc. acts as a data processor when we provide Products and Services to our customers, such as remote troubleshooting technical support. When acting as a data processor, Carbonite will only process Personal Data in accordance with customer instructions and this Privacy Policy. Carbonite, Inc.'s affiliates or subsidiaries may also act as data controllers or processors to the extent customers purchase Products and Services from those entities or Personal Data is shared with those entities.
 
-Our Website offers publicly-accessible blogs or community forums. Please be aware that any information you provide in these blogs or forums may be read, collected, and used by others who access them. To request removal of your Personal Information from our blog or community forum, contact us at [privacy@Mozy.com](mailto:%70%72%69%76%61%63%79%40%4d%6f%7a%79%2e%63%6f%6d "privacy@Mozy.com"). In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
+#### DO NOT TRACK
 
-### Social Media Widgets
+Carbonite belongs to advertising networks that may use browsing history across participating websites to show interest-based advertisements. Currently, our Products and Services do not recognize if a browser sends a "do not track" signal or similar mechanism to indicate the wish not to be tracked or receive interest-based advertisements.
 
-Our Website includes social media features, such as a Facebook Like button and widgets, such as the “Share this” button or interactive mini-programs that run on our Website. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the privacy policy of the company providing it, not by this Privacy Statement.
+#### CALIFORNIA PRIVACY RIGHTS
 
-### Changes to This Privacy Statement
+Under California’s "Shine the Light" law, California residents who provide Personal Data in obtaining Products and Services for personal, family or household use are entitled to request and obtain from Carbonite, once per calendar year, information about Personal Data Carbonite has shared, if any, with other businesses for their own direct marketing uses. Carbonite does not currently share your Personal Data with other businesses for their own direct marketing uses. However, if applicable, this information would include the categories of Personal Data and the names and addresses of those businesses with which Carbonite shared Personal Data for the immediately prior calendar year (e.g., requests made in 2018 will receive information regarding 2017 sharing activities). To obtain this information, please send an email to [privacy@carbonite.com](mailto:privacy@carbonite.com) with "Request for California Privacy Information" in the subject line, or mail Carbonite, Inc., Two Avenue de Lafayette, Boston, MA 02111 Attn: Privacy.
 
-Mozy reserves the right to change this Privacy Statement at any time. If Mozy materially changes its Privacy Statement, we will either notify users via e-mail or via a prominent notice posted on our Website prior to the change becoming effective. Changes are effective as of the date we post them on the Mozy Privacy Statement page. We encourage you to periodically review this Privacy Statement.
+#### SECURITY
 
-### How to Contact Us
+Carbonite and its global third-party cloud storage providers have reasonable and appropriate technical and organizational security measures in place to protect against unauthorized processing, loss, misuse and alteration of Personal Data under its control, including: (a) pseudonymization (such as where data is separated from identifiers so that linkage to an identity is not possible without additional information that is stored separately) and encryption, (b) ensuring the ongoing confidentiality, integrity, availability and resilience of systems and services used to process Personal Data, and (c) ensuring a process for regularly testing, assessing and evaluating the effectiveness of technical and organizational security measures. Please be advised that we cannot, and we do not believe that anyone can, genuinely guarantee or warrant absolute security of Personal Data disclosed or transmitted via the Internet to us or a third-party. As a result, absent Carbonite’s gross negligence, customers and users agree to not hold Carbonite responsible for the theft, destruction, loss, damage or inadvertent disclosure of Personal Data or other data provided to Carbonite.
 
-If you have questions about this Privacy Statement, please contact Mozy via e-mail at [privacy@Mozy.com](mailto:%70%72%69%76%61%63%79%40%4d%6f%7a%79%2e%63%6f%6d "privacy@Mozy.com") or by sending postal mail to the following address:
+#### LINKING 
 
-Attn: Privacy Policy  
-Mozy  
-13197 S. Frontrunner Blvd.  
-Draper, UT 84020
+The Websites and Portals may contain links to third-party websites that Carbonite does not control or maintain. Carbonite is not responsible for the privacy practices employed by these third-party websites. Carbonite encourages users to read the privacy statements of such other websites before submitting any Personal Data.
 
-Last Updated August 25, 2017
+#### REGARDING CHILDREN
+
+Carbonite does not knowingly collect or distribute any Personal Data from children under 13 years old. If a child under 13 has provided Carbonite with Personal Data, the parent or guardian of that child should contact Carbonite immediately at [privacy@carbonite.com](mailto:privacy@carbonite.com) to delete this Personal Data.
+
+#### PRIVACY SHIELD FRAMEWORKS
+
+ **EU-U.S. Privacy Shield**. Carbonite has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Privacy Shield Framework and its Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement and Liability. Carbonite's certification under the Privacy Shield applies to all Personal Data subject to this Privacy Policy and transferred from the EEA to the U.S.  Carbonite is responsible for the processing of Personal Data it receives and subsequently transfers to a third-party acting as an agent on its behalf. Carbonite complies with the EU-U.S. Privacy Shield Principles for all onward transfers of Personal Data from the EEA, including the onward transfer liability provisions.
+
+ **U.S.-Swiss Privacy Shield**. Carbonite has certified to the U.S. Department of Commerce that it adheres to the U.S.-Swiss Privacy Shield Framework and its Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. Carbonite's certification under the Privacy Shield applies to all Personal Data subject to this Privacy Policy and transferred from Switzerland to the U.S.  Carbonite is responsible for the processing of Personal Data it receives and subsequently transfers to a third-party acting as an agent on its behalf. Carbonite complies with the U.S.-Swiss Privacy Shield Principles for all onward transfers of Personal Data from Switzerland, including the onward transfer liability provisions.
+
+ **Dispute Resolution**. Disputes within the jurisdiction of the EU-U.S. or Swiss Privacy Shield Frameworks should first be referred to [privacy@carbonite.com](mailto:privacy@carbonite.com). Carbonite has further committed to refer unresolved privacy complaints under the EU-U.S. and Swiss Privacy Shield Principles to JAMS, Carbonite’s independent recourse mechanism. If a timely acknowledgement of a complaint is not received, or if we have not satisfactorily addressed a complaint, please contact or visit the JAMS website at <https://www.jamsadr.com/eu-us-privacy-shield> for more information or to file a complaint. The services of JAMS for Privacy Shield complaints are provided at no cost to the complainant. If neither Carbonite nor JAMS resolves the complaint, customers and users may pursue binding arbitration through the Privacy Shield Panel. To learn more about the Privacy Shield Panel, visit [here](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint). Carbonite is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.  Without prejudice to any other administrative or judicial remedy, customers and users always have the right to lodge a complaint with the relevant data protection supervisory authority in their resident country.
+
+ **Conflict**. If there is any conflict between the terms in this Privacy Policy and the EU-U.S. or Swiss Privacy Shield Principles, the Privacy Shield Principles shall govern according to jurisdiction. To learn more about the Privacy Shield program, and to view our certifications, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome).
+
+#### DISPUTE RESOLUTION
+
+Customers and users agree that any dispute or claim against Carbonite will be resolved by binding arbitration, rather than in court. Such disputes and claims shall be referred to and finally determined by arbitration in accordance with JAMS Streamlined Arbitration Rules and Procedures. By using the Products and Services or accessing the Websites or Portals, customers and users agree to not participate in or seek to recover monetary or other relief in any lawsuit filed against Carbonite alleging class, collective and/or representative claims. Instead, by agreeing to arbitration, customers and users may bring claims against Carbonite in an individual arbitration proceeding. Claims of more than one individual cannot be arbitrated or consolidated with those of any other individual. Customers and users acknowledge the advisement to consult with an attorney in deciding whether to accept this Privacy Policy prior to using the Products and Services, Websites or Portals including this arbitration agreement. If any provision of this Privacy Policy is held to be invalid, the remaining provisions shall not be affected.
+
+#### CHANGES TO CARBONITE'S PRIVACY POLICY
+
+As laws and best practices evolve, this Privacy Policy may change. Carbonite will provide email notification to customers and users if changes to the Privacy Policy are material. Continued use of the Products and Services after modification constitutes acceptance to the Privacy Policy, as modified. We encourage periodic review of the Privacy Policy for the latest information on our privacy practices.    
+
+#### CONTACT CARBONITE
+
+For questions related to this Privacy Policy generally, please email [privacy@carbonite.com](mailto:privacy@carbonite.com). To contact Carbonite’s Data Privacy Officer, or for questions related specifically to the EU-U.S. or Swiss Privacy Shield Frameworks or the General Data Protection Regulation, please email [DPO@carbonite.com](mailto:dpo@carbonite.com).
+
+Carbonite (UK) Limited is Carbonite's representative in the European Union for data protection matters pursuant to Article 27 of the General Data Protection Regulation of the European Union. Carbonite (UK) Limited can be contacted at:  
+Carbonite (UK) Limited  
+Unit 1 The Triangle  
+Wildwood Drive  
+Worcester WR5 2QX  
+England United Kingdom
