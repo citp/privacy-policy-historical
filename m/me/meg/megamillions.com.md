@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megamillions.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614143705id_/https%3A//www.megamillions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megamillions.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122042111id_/http%3A//www.megamillions.com/privacy-policy) for the most accurate reproduction.*
 
 # Mega Millions
 
