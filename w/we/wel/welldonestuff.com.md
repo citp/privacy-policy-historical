@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the welldonestuff.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629153540id_/http%3A//welldonestuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welldonestuff.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122220147id_/http%3A//welldonestuff.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – | Well Done Stuff
+# Privacy Policy - Well Done Stuff | The Curious and The Cool
 
 Thank you for visiting Well Done Stuff. Please read this Privacy Policy and our [TOS](http://welldonestuff.com/terms-and-conditions) carefully, as you must agree to both documents in order to use our Service. The following Privacy Policy apply to all Services provided by Well Done Stuff (“Well Done Stuff,” “we,” “us,” or “our”) to you.
 
