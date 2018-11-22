@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadebdsm.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523122141id_/http%3A//www.homemadebdsm.com/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadebdsm.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122170313id_/http%3A//www.homemadebdsm.com/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement - HOMEMADE BDSM
 
@@ -37,76 +37,76 @@ HomeMadeBDSM.com provides email support for users who purchase the software at o
 Find your Alternative playmate!   
 | 
 
-[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=siswet19)
+[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=robxxxrider)
 
 HD
 
-[ siswet19](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=siswet19) 23
+[ robxxxrider](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=robxxxrider) 28
 
-  * Bra off at goal #lovense is on! Tip #500 for french kissing Goal reached : bra off #lovense #squirt #ohmibod
+  * THANK YOU!!
 
 
-  * 25 mins, 15158 viewers
+  * 33 mins, 21488 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=murmur_kati)
+[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=_bars_377)
 
 HD
 
-[ murmur_kati](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=murmur_kati) 27
+[ _bars_377](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=_bars_377) 25
 
-  * hot roll the dice 200 tk/neighbor asked to look after his daughter, I found out she a - Goal is : oil show and we panties off #lovense #ohmibod #interactivetoy #cum #squirt #hot #18 #natural #yang #blon
+  * bring me to orgasm\
 
 
-  * 33 mins, 7669 viewers
+  * 30 mins, 5887 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=shackle_shot)
+[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=melissa_sucre)
 
 HD
 
-[ shackle_shot](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=shackle_shot) 26
+[ melissa_sucre](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=melissa_sucre) 27
 
-  * SQUIRT SHOW STARTS AT GOAL. TIP 100 TO make it RAIN OR SHINE #lovense s at your service #hd #anal #squirt [4458 tokens remaining]
+  * Naked in the office! 750tk all my videos! 699tk snap! - Multi-Goal : A surprise #lovense
 
 
-  * 13 mins, 4506 viewers
+  * 6 mins, 5203 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=wh4thefuck)
+[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=juliaiva)
 
 HD
 
-[ wh4thefuck](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=wh4thefuck) 99
+[ juliaiva](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=juliaiva) 25
 
-  * Sneaky, Naughty, outside!!!! #lickmegood #edgetime #hotmoans ! Lovense On if you want to give me a wet time. 66, 77,88 Fun Numbers//201-Oil BOOBS, 202 - Multi-Goal : Hello Perv!!)) #lovense #ohmibod #i
+  * sexy chill with #lush. new free photo in bio
 
 
-  * 37 mins, 4502 viewers
+  * 42 mins, 3169 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=sexycreolyta4u)
+[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=mosaique_room)
 
 HD
 
-[ sexycreolyta4u](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=sexycreolyta4u) 25
+[ mosaique_room](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=mosaique_room) 19
 
-  * Make me HAPPY # lovense lush #pussy #ass #anal #torture me #make me cum - Multi-Goal : make me squirt #lovense
+  * blowjob [292 tokens left] #lovense #lush #smalltits #cum #squirt #couple #blowjob #teen #18 #pussy #fuck #slave #ass #little #young #schoolgirl #daddy #new #real #ohmibod #smoke
 
 
-  * 22 mins, 4380 viewers
+  * 3 mins, 3603 viewers
 
   
   
