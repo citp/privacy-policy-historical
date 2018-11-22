@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglobaltravelmedia.com.au privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513040446id_/http%3A//www.eglobaltravelmedia.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobaltravelmedia.com.au privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122095150id_/http%3A//www.eglobaltravelmedia.com.au/privacy-statement) for the most accurate reproduction.*
 
 # Global Travel Media » Privacy Statement
 
