@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the inktip.com privacy policy that was archived on 2018-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628230103id_/https%3A//www.inktip.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inktip.com privacy policy that was archived on 2018-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181122141537id_/http%3A//www.inktip.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -11,8 +11,8 @@
 <link rel="stylesheet" href="/css/bootstrap.min.css">
 <link rel="stylesheet" href="/css/font-awesome-4.6.3/css/font-awesome.min.css">
 <link rel="stylesheet" href="/css/MegaNavbar.min.css">
-<link rel="stylesheet" href="/css/navbar-inktip.css?v=149">
-<link rel="stylesheet" href="/css/inktip.css?v=149">
+<link rel="stylesheet" href="/css/navbar-inktip.css?v=58">
+<link rel="stylesheet" href="/css/inktip.css?v=58">
 
 </head>
 <body>
@@ -191,7 +191,7 @@
   
               <div class="col-md-4">
                 <div class="col_margin">
-                  <div class="subtitle hidden-xs">350 Movies and Counting</div>
+                  <div class="subtitle hidden-xs">375 Movies and Counting</div>
                   <div class="data">
                     <ul>
                       <li><a href="/main_films_produced.php">Movies Made</a>
@@ -444,14 +444,12 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="defaultmodalLabel"></h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">×</span>
-        </button>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4 class="modal-title" id="defaultmodalLabel"></h4>
       </div>
       <div class="modal-body"></div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
@@ -551,6 +549,16 @@ jQuery(document).ready(function(){
       });
     }
   });
+
+  //DEFAULT MODAL FUNCTION ID=defaultmodal
+  $('#defaultmodal').on('show.bs.modal', function (event) {
+    var link = $(event.relatedTarget) // link that triggered the modal
+    var title = link.data('title') // Extract info from data-* attributes
+    var content = link.data('content')
+    var modal = $(this)
+    modal.find('.modal-title').text(title)
+    modal.find('.modal-body').html(content)
+  })
 
 
   // WE SET THE ATTRIBUTES TO BE ADDED IFRAME EG: DATA-SRC WILL SETUP THE URL IFRAME
