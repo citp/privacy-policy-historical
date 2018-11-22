@@ -1,25 +1,71 @@
-> *The following text is extracted and transformed from the joshreads.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219054242id_/https%3A//joshreads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshreads.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122224125id_/https%3A//joshreads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – The Comics Curmudgeon
 
-This is the privacy policy for the Comics Curmudgeon site. I’m going to try to keep it in as plain English as possible. Just a few definitions up front: when I say “I” or “me”, I mean me, which is to say: Josh Fruhlinger, the creator of this blog; and when I say “site writer”, I mean any other individual who writes entries on the main blog as I usually do.
+This is the privacy policy for the Comics Curmudgeon site. I’m going to try to keep it in as plain English as possible. Just a few definitions up front: when I say “I” or “me”, I mean me, which is to say: Josh Fruhlinger, the creator of this blog; and when I say “site admin”, I mean any other individual who writes entries on the main blog as I usually do, or who accesses the site’s admin features for technical reasons.
 
-Here is the big picture when it comes to privacy on my site: while I and my advertising partners may collect certain data about my users (to be detailed below), **we do not rent or sell personally identifying data to anybody.** What data we do collect may be used in the aggregate to convince advertisers to buy space on this site, and data about a Web browser’s history may be used to determine what ads you see, but individually identifying data is never used. For instance, I may tell a potential advertiser that “my site has 15,000 unique visitors a day” or “87 percent of my users are in the United States,” and an advertiser may say that “people who visited these pages may have interest in the following ads”; however, I will never tell advertisers that “the following e-mail addresses are from users who have expressed interest in products like yours.” 
+Here is the big picture when it comes to privacy on my site: 
 
-The actual information my site collects falls into two categories: data that you send _passively_ merely by visiting the site, and data that you send _actively_ when you choose to use the site’s interactive features.
+  * I never **rent or sell personally identifying information to anybody.** By _personally identifying information,_ I mean names, email addresses, IP addresses, information on the devices with which users access the site, or credit card payment and billing address information.
+  * Likewise, I never **disclose** personally identifying information to anybody unless legally required to do so.
+  * Site admins and I have access to some of this personally identifying information. I detail below what this data is, how it’s stored, and how and why we would access it.
+  * I work with third parties to provide advertising and payment services, and these all collect data as well, some of which I (though not other site admins) have access to. I list these services below.
 
-**Passive data.** When you visit any page in the joshreads.com domain, certain information about you is reported by my server: your IP address, and some information about your computer itself, including the browser and operating system you’re using, your screen resolution, and whether you have Flash or JavaScript enabled. I use the latter data to make sure my site design reflects the capabilities of my visitors.
 
-When you visit any page in the joshreads.com domain, my site, and perhaps some of my advertising partners, will send a _cookie_ to your browser. A cookie is a small piece of information that your browser stores in memory; it helps identify you as a repeat visitor when you return. I use this information to determine the number of repeat visitors I have. Advertisers may use this cookie to track your browsing history, so as to tailor ads for you based on the full range of sites you’ve visited. Some advertisers may also use _Web beacons_ — small, invisible graphics loaded by your browser — for the same purpose.
 
-If you would prefer not to receive cookies, all major Web browsers can be set to not accept them; see your browser documentation for more details. You can also opt to specifically not receive the cookie used by Google ads by [clicking here](http://www.google.com/privacy_ads.html). Please note that both the beacons and the cookies only track information about your browser and browsing, and not you personally; specifically, neither can nor will collect your name, address, email address, or telephone number.
+To get into more detail:
 
-**Active data.** When you post a comment on the site, the IP address of the computer from which you posted the comment will be recorded. This helps my anti-spam tools to detect comments from spammers. You can, if you so choose, also supply an e-mail address, a name, or a URL when you post a comment. Whatever name and URL you choose, and, of course, the content of your comment itself, immediately become public, and will be indexed by Google and other search engines. The IP address and e-mail address will not be made public in any way, and will never be sold or released to others. They will be available to me or to other site writers; we may use your e-mail address to contact you directly about questions, suggestions, or administrative issues. All comments, and any personally identifying information associated with them, are made invisible after less than a month, and after that time will only be available to me and to other site writers.
+**Data I directly control.** The Comics Curmudgeon is hosted on a server that is in turn hosted by [ServInt](https://www.servint.net/), and I have administrative access to that server, as do site admins who work for ServInt or who I employ to write posts or make technical upgrades to the site. Like virtually all web servers, mine keeps a _server log_ recording every visit to my website. If you visit my site, my server records the IP address of your device along with its _[user agent](https://en.wikipedia.org/wiki/User_agent),_ which describes certain technical details about your device, including your operating system and browser. This information is used for security and troubleshooting purposes, and is discarded after 28 days.
 
-If you choose to become a [Comics Curmudgeon Supporter](https://joshreads.com/membership-account/membership-levels/), your subscription will be initiated via the [Paid Membership Pro](https://www.paidmembershipspro.com/about/) plugin for WordPress, and your recurring credit card payments will be processed by [Stripe](https://stripe.com/). I have access to the name, billing address, credit card type (AmEx, Visa, etc.) and the last 4 digits of the credit card number of subscribers. All of the actual payment and subscription information is help by Stripe; for more information, see Stripe’s [security](https://stripe.com/docs/security/stripe) and [privacy](https://stripe.com/us/privacy/) policies. 
+All the public-facing content on the Comics Curmudgeon site is created and formatted using [WordPress software](https://wordpress.org/). WordPress stores all its data in a SQL database; for the Comics Curmudgeon, that data is stored on my server with ServInt, not with WordPress.com or any other third party. When you leave a comment on the Comics Curmudgeon, you are inputting some information into that database:
 
-The [Comics Curmudgeon Store](http://cafepress.com/joshreads) is hosted by CafePress; for privacy information about that site, please see [their privacy policy](http://www.cafepress.com/cp/info/help/privacy_policy.aspx). If you purchase an item from my CafePress store, I will be able to see the name, city, state, and country associated with the credit card that made the purchase, but no other personal information of any kind — not the actual street address, for instance, and not the credit card number itself.
+  * The contents of your comment and (if you choose to include them) a display name and URL, which are immediately made public; and
+  * The IP address of your device and (if you choose to include it) an email address, which are never made public, but which I and other site admins can access.
+
+
+
+Site admins and I may use any email addresses given as part of a comment post to contact commenters about technical or other concerns. IP and email addresses may also be used to identify and block users who are behaving abusively. Comments remain public for a 20 days after they have been posted, after which time they are removed from the public site. However, they are still stored in the WordPress database indefinitely, as this helps me track down abusive users and helps my antispam software distinguish real users from spambots. If you would like your comments removed permanently from the site and from the database, please email me at jfruh@jfruh.com with as much information about the comments in question as you have available.
+
+Users who choose to become a [Comics Curmudgeon supporter](https://joshreads.com/membership-account/membership-levels/) in order to see an ad-free version of the site will have a user account created on my WordPress installation via the [PaidMembershipPro plugin](https://www.paidmembershipspro.com/). Site admins and I have access to the following information after you enter it during the account creation process:
+
+  * Your full name
+  * Your email address
+  * Your billing address and phone number
+
+
+
+This information is stored in the WordPress database indefinitely, even if you cancel your paid subscription. Please email me at jfruh@jfruh.com if you would like your user account and the information associated with it permanently deleted from the database. 
+
+Actual payment processing is handled by [Stripe](https://stripe.com/) (see below for more), and no credit card numbers are ever stored in any database or server under my control. No site admin other than myself can access any data about user credit cards beyond what’s outlined above; the data I can access is outlined in the section on payments below.
+
+**Data collected via third parties.** I use a number of third parties for several purposes, and all of these collect data to one extent or another. I’ve broken them down by category here, explained what kinds of the data that they collect that I have access to, and provided links where you can find out more about their policies. Any data described below is accessible only to me, not to other site admins.
+
+_Analytics._ I use two different analytics services to help me better understand my users and traffic volume. I use Google Analytics to analyze how users interact with the site. Google Analytics generates statistical and other information about the site use by means of cookies that are stored on users’ computers (more on which below). The information generated relating to the site is used to create reports about the use of the site. Google will store this information. See [Google’s privacy policy](http://www.google.com/privacypolicy.html) for more information. 
+
+I also use StatCounter for analytics. StatCounter stores and makes available to me the IP address and user agent information for the last 5,000 visitors to my site at any given time, as well as aggregate information about the number of visitors and pageviews I’ve received over longer periods of time. For more information, see the [StatCounter privacy policy](https://statcounter.com/about/legal/).
+
+_Payment processing._ As noted, if you are a Comics Curmudgeon supporter, your recurring credit card payments will be processed by [Stripe](https://stripe.com/). Stripe gives me access to the name, billing address, credit card type (AmEx, Visa, etc.), and the last 4 digits of the credit card number of subscribers; in addition, I will be informed if an attempted charge to a credit card has been declined. All of the actual payment and subscription information is held by Stripe; for more information, see Stripe’s [security](https://stripe.com/docs/security/stripe) and [privacy](https://stripe.com/us/privacy/) policies. 
 
 If you contribute money through this site’s [tip jar](https://joshreads.com/?page_id=524), your payment will be processed via PayPal; for privacy information about that site, please see [their privacy policy](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside). If you do donate through this route, I will be able to see the e-mail address, name, and street address associated with the credit card and/or PayPal account you use, though not the credit card number itself.
 
-None of the information I get from either PayPal, CafePress, Stripe, or Paid Membership Pro will ever be made public or shared with anyone outside of the blog, though I may share it with other site writers or use it to contact contributors, buyers, or subscribers.
+You may also choose to set up a recurring payment to me via my [Patreon](https://www.patreon.com/jfruh) account. Patreon gives me access to the name, email address, and (if provided) mailing address of my Patreon backers; in addition, I will be informed if an attempted charge to your credit card has been declined. However, I will receive no other information about the credit card itself. For more information, see [Patreon’s privacy policy](https://www.patreon.com/privacy). 
+
+_Advertising._ I use a rotating cast of advertising partners to make money off the site. These advertising services generally collect and store some information on site visitors, such as the amount of traffic the site gets, where it comes from, what sort of devices are accessing the site, and so forth. These partners share with me aggregated data, but no individual or personally identifying data. They may also use _cookies_ (see below) to track users who visit both my site and other sites that employ the same advertising services, in order to present those users with ads they deem more relevant; I am not given access to any data about these users’ browsing habits.
+
+This is the list of my advertising partners _circa_ May 2018, along with links to their privacy policies:
+
+  * [Google AdSense](http://www.google.com/privacypolicy.html)
+  * [Bidfluence](https://www.bidfluence.com/Home/Privacy)
+  * [BuySellAds](https://www.buysellads.com/about/privacy)
+  * [Taboola](https://www.taboola.com/privacy-policy)
+  * [Project Wonderful](https://www.projectwonderful.com/privacypolicy.php)
+
+
+
+_Merchandise sales._ My [merch store](https://www.cafepress.com/joshreads) is entirely hosted by CafePress. For privacy information about that site, please see [their privacy policy](http://www.cafepress.com/cp/info/help/privacy_policy.aspx). If you purchase an item from my CafePress store, I will be able to see the name, city, state, and country associated with the credit card that made the purchase, but no other personal information of any kind — not the actual street address, for instance, and not the credit card number itself.
+
+**Cookies.** Some or all of the above services make use of _cookies,_ which consist of information which is sent by a web server to a web browser, and then stored by that browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+
+I use both _session_ cookies and _persistent_ cookies on the site. The session cookies keep track of you while you navigate the site; the persistent cookies enable the site to recognize you when you revisit.
+
+Session cookies will be deleted from your computer when you close your browser. Persistent cookies may remain stored on your computer until deleted, or until they reach a specified expiry date. Any cookie can be deleted whenever you choose to delete it. Find out more about how to [delete cookies from your browser](https://www.lifewire.com/how-to-delete-cookies-2617981).
