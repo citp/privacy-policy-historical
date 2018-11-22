@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613205829id_/https%3A//www.asu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122111822id_/https%3A//www.asu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statements
 
@@ -10,7 +10,7 @@ In addition to the information in this Privacy Statement, [ASU’s Terms of Use]
 
 If you are in the European Union, please also review ASU’s Supplemental Privacy Provisions for Persons in the European Union. These EU Supplemental Privacy Provisions provide additional information regarding ASU’s processing of personal data you submit or disclose to ASU (or to a third party that transfers it to ASU for processing) while you are in the European Union.
 
-We encourage you to periodically review this Privacy Statement because we may update it from time to time. 
+We encourage you to periodically review this Privacy Statement, as well as any information linked from this Privacy Statement, because we may update it from time to time. 
 
 ### What Services ASU Provides Online
 
@@ -22,9 +22,27 @@ In addition to information and services provided on ASU websites, ASU may also p
 
 ASU collects information actively provided by Users. We may also collect information about the computers, mobile devices, or other devices you use to access ASU’s technology network, such as IP address, unique device identifiers, browser types, browser languages, web pages requested, network software access, referring web pages, date, time, and duration of activity, passwords, and accounts accessed, volume of data storage and transfers, and locations of User devices when connected to ASU’s technology network. Logs of this information may be retained. We may contract with non-ASU service providers to help us better understand Users. These non-ASU service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our services.
 
-Cookies are small files that are stored on your computing devices. We use cookies to understand and save your preferences for future visits and compile aggregate data about network traffic and network interaction so that we can offer better network experiences and tools in the future. Cookies may be set by an organization other than ASU. These non-ASU cookies may, for example, originate from social media services such as YouTube and Facebook. Because the cookie policies of these services change over time, you should review their policies by visiting the privacy policies of these services directly. Users may disable cookies through their individual browser options. 
-
 ASU uses information collected to provide services, in support of ASU’s Charter and Mission, to protect the security of ASU’s technology network, to support academic integrity, and to provide safety and security services to Users, as well as to monitor, preserve, and enhance the use, functioning, and integrity of ASU’s technology network. ASU may also use information collected from you for analysis and statistical purposes consistent with ASU’s Charter and Mission.
+
+### Cookies
+
+Cookies are small files that are stored on your computing devices. We use cookies to understand and save your preferences for future visits and compile aggregate data about network traffic and network interaction so that we can offer better network experiences and tools in the future. Cookies may be set by organizations other than ASU. Because the cookie policies of these third party service providers may change over time, you should review their policies by visiting their privacy policies directly. We also use targeting and advertising cookies, which may be set by ASU or by third parties. Users may disable cookies through their individual browser options. However, if you do not accept cookies, you may not be able to use some portions of our websites.
+
+The following describes the types of cookies ASU uses on our websites:
+
+**Required or Strictly Necessary Cookies.** These cookies are essential for our websites to operate correctly and to provide you with requested services. For example, we use cookies to authenticate you, so when you log on to ASU websites, we know who you are.
+
+**Functionality Cookies.** We use functionality cookies to enhance website features, such as videos and live chat, and for personalization, such as storing your preferences (e.g. username and language selection). Functionality cookies may be set by ASU or by third parties whose services we have added to our websites. If you do not allow these cookies, you may not be able to use some portions of our websites, and some website functions may not work properly.
+
+**Social Media Cookies.** Social media cookies may be set by third parties such as YouTube and Facebook to collect information about your social media usage.
+
+**Analytics Cookies.** Analytics cookies collect information about your use of our website, and help us improve the way it works. For example, analytics cookies identify the most frequently visited pages, record any difficulties you have, and show whether our advertising is effective. This allows us to see the overall patterns of usage on the Sites, rather than the usage of a single person. We use the information to analyze the Sites' traffic.
+
+**Targeting/Advertising Cookies.** We use targeting/advertising cookies to create profiles and personalize content. We may use third party products, such as Google Analytics, to market ASU’s services to you on third party websites. For example, if you visit ASU websites, you may then see advertisements for ASU on other websites.
+
+You can learn more about cookies and their functions generally by visiting an information website such as [allaboutcookies.org](http://allaboutcookies.org/).
+
+**Do Not Track Signals.** Some web browsers (such as Safari, Internet Explorer, Firefox and Chrome) have a "Do Not Track" ( **DNT** ) feature that tells websites that users do not want to have their online activity tracked. Not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, ASU does not respond to DNT signals.
 
 ### Alternatives to Website Transactions
 
@@ -44,14 +62,20 @@ ASU does not disclose confidential information we collect online to individuals 
 
 **Contractors.** ASU may contract with non-ASU service providers to provide services and information through ASU’s technology network. ASU may provide information, including personal information collected on our technology network; to non-ASU service providers to assist ASU deliver classes, programs, products, information, and services. ASU also contracts with non-ASU service providers to perform analysis, research, and administrative activities for ASU. ASU requires non-ASU service providers to protect personal information on our behalf. 
 
-ASU does not allow any non-ASU entities to collect information from ASU’s technology network unless those entities have received written permission from an ASU authorized signatory.
-
 ### Security
 
 ASU takes steps to ensure that confidential information collected online is secure. These steps include: ongoing User education; using tools in an effort to restrict unauthorized access, viruses, phishing, and hacking attempts; and monitoring activity to identify potential system threats. ASU routinely assesses and enhances tools and processes available to strengthen our online security.
 
+### Contact Information
+
+If you believe ASU has not adhered to this Privacy Statement, please contact ASU’s privacy team at [privacy@asu.edu](mailto:privacy@asu.edu). ASU will use reasonable efforts to address your concerns; although there may be circumstances where we cannot assist.
+
+### Changes
+
+We will publish on our website any changes we make to this Privacy Statement.
+
 Effective: 8.9.2001  
-Revised: 5.25.2018
+Revised: 7.23.2018
 
 ### Supplemental ASU Privacy Provisions for Persons in the European Union
 
