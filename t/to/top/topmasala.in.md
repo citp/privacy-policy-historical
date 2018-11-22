@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topmasala.in privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422035202id_/http%3A//www.topmasala.in/site-global/privacy-policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topmasala.in privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122092054id_/http%3A//topmasala.in/site-global/privacy-policies.asp) for the most accurate reproduction.*
 
 # Privacy Policies | Vyom Privacy Policies | Corporate Privacy policies
 
