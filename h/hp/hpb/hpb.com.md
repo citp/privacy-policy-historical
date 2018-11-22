@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hpb.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221237id_/https%3A//www.hpb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpb.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122225119id_/https%3A//www.hpb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Half Price Books
 
@@ -49,6 +49,8 @@ We use personal information to carry out requested transactions, to provide serv
 We may provide personal information to third-party providers of goods and services who assist us in maintaining the Site and in other aspects of our business operations. We require that those providers use personal information only for that purpose, and we also require assurances that they will appropriately protect personal information entrusted to them.
 
 When you use the Site to order merchandise from a third-party seller, we will collect your payment and share your personal information, excluding payment card information, with the third-party seller for the purposes of fulfilling your order, handling related inquiries, or forwarding comments concerning your order. We may also share such information with Monsoon Commerce, which acts as an intermediary for the third-party seller marketplace. The third-party sellers and Monsoon Commerce may use the personal information that we provide only for the purposes of fulfilling orders and for handling related inquiries.
+
+If you no longer wish to receive email communication from Half Price Books, please click the unsubscribe link in the footer of every email we send or make changes to your subscription preferences in your HPB.com account.
 
 #### Protecting Personal Information
 
