@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostfunnyonlinegames.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523095828id_/http%3A//mostfunnyonlinegames.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostfunnyonlinegames.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122155919id_/http%3A//mostfunnyonlinegames.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MFOGS.COM
 
@@ -39,3 +39,5 @@ Please address comments or questions regarding this Privacy Policy to support at
 **Binding Agreement**
 
 Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Use. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
+
+Please read also our [**Cookie Policy**](https://web.archive.org/pages/cookie-policy)
