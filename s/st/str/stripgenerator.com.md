@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stripgenerator.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523111733id_/http%3A//stripgenerator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripgenerator.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122162450id_/http%3A//stripgenerator.com/privacy) for the most accurate reproduction.*
 
 # Stripgenerator.com - Privacy
 
