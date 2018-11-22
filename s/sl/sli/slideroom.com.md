@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522141016id_/http%3A//www.slideroom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122173941id_/http%3A//www.slideroom.com/privacy.html) for the most accurate reproduction.*
 
 # SlideRoom - Privacy Policy
 
@@ -10,7 +10,7 @@ We collect non-personally identifiable information about you in a number of ways
 
 ###  II. USE OF INFORMATION
 
-We will only use the information you provide to us for the purpose for which such information was provided. We may also use this information to deliver to you information about our company and site administration. If we ever were to engage in any onward transfers of your data with third parties for a purpose other than which it was originally collected or subsequently authorized, we would provide you with an opt-out choice to limit the use and disclosure of your personal data.
+We will only use the information you provide to us for the purpose for which such information was provided. We may also use this information to deliver to you information about our company and site administration. If we ever were to engage in any onward transfers of your data with third parties for a purpose other than which it was originally collected or subsequently authorized, we would provide you with an opt-out choice to limit the use and disclosure of your personal data. SlideRoom is a data processor and as such works with the data controller, to ensure security and privacy for all SlideRoom users. If you ever submit a payment through SlideRoom, please note that SlideRoom does not directly process or store your financial account information – instead, we use a reputable third party company to collect and process your payment information. Rest assured, however, that we have taken steps to ensure that the Payment Processing Company protects personal information it collects from you in compliance with our Privacy Policy. 
 
 ###  III. USE OF IP ADDRESS
 
@@ -25,6 +25,12 @@ SlideRoom uses third party vendor re-marketing tracking cookies, including the G
 ###  V. SECURITY
 
 SlideRoom uses industry standard security measures to protect the loss, misuse, disclosure, and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all commercially reasonable steps to secure your personal information.
+
+To protect your SlideRoom account, keep your password confidential. You are responsible for the activity that happens on or through your SlideRoom account. Try not to reuse your SlideRoom account password on any other application or website. 
+
+If you enter your password in an external website and it's compromised, someone could try to sign in to your SlideRoom account with the same information. Don't write it down, send it via email, or tell anyone. SlideRoom will never email you to ask for your password or other sensitive information. 
+
+If you learn of any unauthorized use of your password or SlideRoom account, please contact SlideRoom at [support@slideroom.com](mailto:support@slideroom.com) immediately. 
 
 ###  VI. ONWARD TRANSFER
 
@@ -55,7 +61,9 @@ SlideRoom is subject to the investigatory and enforcement powers of the Federal 
 
 ### VIII. RIGHT TO ACCESS
 
-The SlideRoom service allows its users the right to access their data or modify information previously provided. This may be done through accessing your user account in the ‘my account’ section of the SlideRoom website. SlideRoom acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them. An EU or Swiss individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query to the organization they applied to, or to SlideRoom directly. If requested to remove data, we will respond within a reasonable timeframe.
+The SlideRoom service allows its users the right to access their data or modify information previously provided. Prior to submission, applicants may access their data and content from their user account in the ‘my account’ section of the SlideRoom website. SlideRoom acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them. 
+
+Any applicant who seeks access, or who seeks to correct, amend, or delete their own inaccurate data, should direct this query to the organization they have applied to. If data has been submitted to an organization, they are responsible for the requested actions regarding such data. SlideRoom clients must make SlideRoom aware of all applicant requests to delete user data or content. SlideRoom clients should contact SlideRoom directly with any client user data access, edit, or delete requests. If requested to remove or delete data, SlideRoom will respond within a reasonable timeframe. 
 
 ### IX. PUBLIC FORUMS
 
@@ -63,4 +71,4 @@ This site may make chat rooms, forums, message boards, and/or news groups availa
 
 ### X. CONTACTING US
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you may contact support@slideroom.com.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you may contact [support@slideroom.com](mailto:support@slideroom.com).
