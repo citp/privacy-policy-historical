@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frivfrivgames.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516200041id_/http%3A//www.frivfrivgames.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frivfrivgames.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122212846id_/http%3A//www.frivfrivgames.com/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.frivfrivgames.com
 
