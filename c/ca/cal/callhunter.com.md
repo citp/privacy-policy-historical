@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callhunter.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519033413id_/http%3A//www.callhunter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callhunter.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122195612id_/http%3A//www.callhunter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CallHunter
 
