@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youremployment.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514033833id_/http%3A//www.youremployment.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youremployment.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122070820id_/http%3A//www.youremployment.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | YourEmployment.com
 
