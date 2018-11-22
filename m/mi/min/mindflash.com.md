@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mindflash.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327070148id_/https%3A//www.mindflash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindflash.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122023807id_/https%3A//www.mindflash.com/privacy-policy) for the most accurate reproduction.*
 
-# Online Training Software | LMS by Mindflash
+# Mindflash - Privacy Policy
 
-EFFECTIVE DATE: January 20, 2017
+**EFFECTIVE DATE: January 20, 2017**
 
 We at Mindflash Technologies, Inc. (“Mindflash”, “we”, “us” or “our”) know you care about how your personal information is used and shared, and we take your privacy seriously. This privacy policy (“Privacy Policy”) covers our treatment of personally identifiable information ("Personal Information") that we gather when you use or otherwise engage with our websites and software services (collectively, the “Service”), but it does not apply to the practices of companies that we do not own or control, or to people that we do not manage. This Privacy Policy describes what types of personally identifiable information we collect, how we use that information, and who we share that information with. By using or accessing the Service in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information as set forth below
 
@@ -10,7 +10,7 @@ You understand that your Service account is provisioned under an agreement that 
 
 **WHAT DOES THIS PRIVACY POLICY COVER?**
 
-We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below. 
+We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.
 
 We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at [help@mindflash.com](mailto:help@mindflash.com).
 
@@ -48,7 +48,7 @@ Except as expressly provided below, We neither rent nor sell your Personal Infor
 
 **Agents:** We use third-party providers (such as contractors) to perform some tasks on our behalf and need to share your information with them to provide products or services to you; for example, we may use Amazon Web Services to host your content or data. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. Note that an “agent” may also be considered a “partner” in certain circumstances, and would be subject to the terms of the “Information that’s been de-identified” section in that regard.
 
-**User Profiles and Submissions:** Certain user profile information, including your name, location, and any video or image content that such user has uploaded to the Services, may be displayed to other users to facilitate user interaction within the Services or address your request for our services. Your account privacy settings may allow you to limit the other users who can see the Personal Information in your user profile and/or what information in your user profile is visible to others. Please remember that any content you upload to your public user profile, along with any Personal Information or content that you voluntarily disclose online in a manner other users can view (on discussion boards, in messages and chat areas, etc.) and any testimonials you provide to us becomes publicly available, and can be collected and used by anyone. Your user name may also be displayed to other users if and when you send messages or comments or upload images or videos through the Services and other users can contact you through messages and comments. 
+**User Profiles and Submissions:** Certain user profile information, including your name, location, and any video or image content that such user has uploaded to the Services, may be displayed to other users to facilitate user interaction within the Services or address your request for our services. Your account privacy settings may allow you to limit the other users who can see the Personal Information in your user profile and/or what information in your user profile is visible to others. Please remember that any content you upload to your public user profile, along with any Personal Information or content that you voluntarily disclose online in a manner other users can view (on discussion boards, in messages and chat areas, etc.) and any testimonials you provide to us becomes publicly available, and can be collected and used by anyone. Your user name may also be displayed to other users if and when you send messages or comments or upload images or videos through the Services and other users can contact you through messages and comments.
 
 **Business Transfers:** We may choose to buy or sell assets, and may share and/or transfer customer information in connection with the evaluation of and entry into such transactions. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
 
@@ -64,15 +64,14 @@ We endeavor to protect the privacy of your account and other Personal Informatio
 
 **WHAT PERSONAL INFORMATION CAN I ACCESS?**
 
-Through your account settings, you may access, and, in some cases, edit the following information you’ve provided to us:  
-
+Through your account settings, you may access, and, in some cases, edit the following information you’ve provided to us:
 
   * password
-  * email address
+  * email address 
 
 
 
-The information you can view, update, and delete may change as the Services change. If you have any questions about viewing, updating, or deleting information we have on file about you, please contact us at [help@mindflash.com](mailto:help@mindflash.com). We will make reasonable efforts to provide you with access or correct such information if it is inaccurate or delete such information if we are not required to retain it by law or for legitimate business purposes. Please note that your Employer may require that we preserve certain information in your account unchanged; we will comply with any such requirement from your Employer, but will use commercially reasonable efforts to notify you of the foregoing, should it occur. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. 
+The information you can view, update, and delete may change as the Services change. If you have any questions about viewing, updating, or deleting information we have on file about you, please contact us at [help@mindflash.com](mailto:help@mindflash.com). We will make reasonable efforts to provide you with access or correct such information if it is inaccurate or delete such information if we are not required to retain it by law or for legitimate business purposes. Please note that your Employer may require that we preserve certain information in your account unchanged; we will comply with any such requirement from your Employer, but will use commercially reasonable efforts to notify you of the foregoing, should it occur. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law.
 
 Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of Personal Information to third parties for such third parties’ direct marketing purposes; in order to submit such a request, please contact us at [help@mindflash.com](mailto:help@mindflash.com)
 
@@ -80,7 +79,7 @@ Under California Civil Code Sections 1798.83-1798.84, California residents are e
 
 You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our features.
 
-You may be able to add, update, or delete information as explained above. When you update information, however, we may maintain a copy of the unrevised information in our records. Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. 
+You may be able to add, update, or delete information as explained above. When you update information, however, we may maintain a copy of the unrevised information in our records. Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
 
 **What if I have questions about this policy?**
 
