@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itprism.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522155747id_/http%3A//itprism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itprism.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122141820id_/http%3A//itprism.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
