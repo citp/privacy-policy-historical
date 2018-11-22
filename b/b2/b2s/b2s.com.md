@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2s.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522080902id_/http%3A//www.b2s.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2s.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122175913id_/http%3A//b2s.com/privacy.php) for the most accurate reproduction.*
 
 # b2s.com - Manufacturers, suppliers and products from Greater China
 
