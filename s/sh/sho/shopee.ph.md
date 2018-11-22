@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopee.ph privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034428id_/http%3A//shopee.ph/legaldoc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopee.ph privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122205522id_/http%3A//shopee.ph/legaldoc/privacy) for the most accurate reproduction.*
 
 # Shopee: Buy and sell on mobile
 
@@ -220,7 +220,7 @@ Your personal data and/or information may be transferred to, stored or processed
 
 19.1 If you have any questions or concerns about our privacy practices or your dealings with the Services, please do not hesitate to contact:[support@shopee.ph](mailto:support@shopee.ph). 
 
-19.2 If you have any complaint or grievance regarding how we are handling your personal data or about how we are complying with Privacy Laws, we welcome you to contact us with your complaint or grievance. Please contact us through email with your complaint or grievance: E-mail: [dpo@shopeemobile.com](mailto:dpo@shopeemobile.com) and Attention it to the "Personal Data Protection Officer". Please send all legal notices to [legal@shopeemobile.com](mailto:dpo@shopeemobile.com) and Attention it to the “General Counsel”. 
+19.2 If you have any complaint or grievance regarding how we are handling your personal data or about how we are complying with Privacy Laws, we welcome you to contact us with your complaint or grievance. Please contact us through email with your complaint or grievance: E-mail: [](mailto:dpo.ph@shopee.com)[dpo.ph@shopee.com](mailto:dpo.ph@shopee.com) and Attention it to the "Personal Data Protection Officer". Please send all legal notices to [legal@shopee.com](mailto:dpo@shopeemobile.com) and Attention it to the “General Counsel”. 
 
 19.3 Where it is an email or a letter through which you are submitting a complaint, your indication at the subject header that it is a Privacy Law complaint would assist us in attending to your complaint speedily by passing it on to the relevant staff in our organisation to handle. For example, you could insert the subject header as “Privacy Complaint”. We will certainly strive to deal with any complaint or grievance that you may have fairly and as soon as possible. 
 
