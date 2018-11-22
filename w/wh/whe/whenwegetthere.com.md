@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whenwegetthere.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521194314id_/http%3A//whenwegetthere.com/whenwe/site_info/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whenwegetthere.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122231819id_/http%3A//whenwegetthere.com/whenwe/site_info/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - When We
 
