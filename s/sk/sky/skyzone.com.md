@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyzone.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227220544id_/http%3A//www.skyzone.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyzone.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122072045id_/https%3A//www.skyzone.com/terms) for the most accurate reproduction.*
 
 # Sky Zone Trampoline Park | Terms & Conditions
 
@@ -18,7 +18,7 @@ We also collect the e-mail addresses of people who e-mail us, and we collect cus
 
 Social Media. If you use Facebook, Twitter, or another social media site to sign up for one of our promotions, we may collect the information that you submit through Facebook or the other site. When you "like" us on Facebook or other social media sites, we will also collect your information from Facebook, such as your name and e-mail address. Remember that if you submit information through Facebook or similar sites, your information is governed by their privacy policies and information you share might be seen by the general public.
 
-Text Messages. If you agree to receive text messages from Sky Zone we may use an automatic telephone dialing system to contact you. You are not required to consent to receive text messages in order to obtain products or services from Sky Zone. Standard messaging rates apply. We, or our partners, may send you up to (number) (X) texts per month. If you would like to stop receiving text messages at any time you can reply to any message with the word "STOP" or text the word "STOP" to short code NNNNN. We may send you one additional confirmatory message to let you know that we’ve received your request.
+Text Messages. If you agree to receive text messages from Sky Zone we may use an automatic telephone dialing system to contact you. You are not required to consent to receive text messages in order to obtain products or services from Sky Zone. Standard messaging rates apply. We, or our partners, may send you up to 4 texts per month. If you would like to stop receiving text messages at any time you can reply to any message with the word "STOP" or text the word "STOP" to short code 91833. We may send you one additional confirmatory message to let you know that we’ve received your request.
 
 Cookies. Each time you visit our website, our web server automatically recognizes your domain name and what type of browser you are using, by using "cookies," which are small text files on your computer that identify you as a unique user. These help us measure your activity and personalize and improve your experience at Sky Zone. If you don’t want us to use cookies, you can set your browser to delete them, or you can manually delete the cookies. If you do this, you might have trouble accessing and using some of Sky Zone’s web site pages.
 
@@ -57,7 +57,7 @@ We take reasonable and appropriate measures to help keep your information secure
 If you have any questions about our privacy policy, you can contact us via the Contacting Us link or by phone by calling 1-844-800-9663. You may also write to us at:
 
 **Sky Zone Franchise Group, LLC.**   
-1201 W. 5th Street, T-340   
+1201 W. 5th Street, T-900   
 Los Angeles, CA 90017 
 
 If we need, or are required, to contact you concerning any event that involves your information, we may do so by e-mail, telephone, or mail.
@@ -71,7 +71,7 @@ Your California Privacy Rights.
 If you are a California resident, California Civil Code Section 1798.83 permits you to request a notice regarding the disclosure of your personal information by Sky Zone to third parties for the third parties’ direct marketing purposes. If you are a California resident and would like a copy of this notice, please submit a written request to the following address:
 
 **Sky Zone Franchise Group, LLC.**   
-1201 W. 5th Street, T-340   
+1201 W. 5th Street, T-900   
 Los Angeles, CA 90017 
 
 Do Not Track Signals. Some web browsers and devices permit you to broadcast a preference that you not be "tracked" online. At this time we do not modify your experience based upon whether such a signal is broadcast.
