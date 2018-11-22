@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623054425id_/https%3A//www.carbonite.com/terms-of-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122124112id_/https%3A//www.carbonite.com/terms-of-use/privacy-policy) for the most accurate reproduction.*
 
 # Carbonite Privacy Policy | Carbonite
 
@@ -91,7 +91,7 @@ Subject to applicable data protection laws, customers and users have the followi
 
 
 
-To exercise any of the above listed rights, email Carbonite at [privacy@carbonite.com](mailto:privacy@carbonite.com), contact customer support at 1-877-222-5488 or the appropriate geographical telephone number found [here](https://web.archive.org/customer-support/evault-doubletake-support/), or mail Carbonite, Inc., Two Avenue de Lafayette, Boston, MA 02111, Attn: Privacy. Carbonite will process requests in accordance with applicable law and within a reasonable period of time.
+To exercise any of the above listed rights, email Carbonite at [privacy@carbonite.com](mailto:privacy@carbonite.com), contact customer support at 1-877-222-5488 or the appropriate geographical telephone number found [here](https://web.archive.org/customer-support/evault-doubletake-support), or mail Carbonite, Inc., Two Avenue de Lafayette, Boston, MA 02111, Attn: Privacy. Carbonite will process requests in accordance with applicable law and within a reasonable period of time.
 
 #### CARBONITE AS A DATA CONTROLLER AND PROCESSOR
 
@@ -138,3 +138,10 @@ As laws and best practices evolve, this Privacy Policy may change. Carbonite wil
 #### CONTACT CARBONITE
 
 For questions related to this Privacy Policy generally, please email [privacy@carbonite.com](mailto:privacy@carbonite.com). To contact Carbonite’s Data Privacy Officer, or for questions related specifically to the EU-U.S. or Swiss Privacy Shield Frameworks or the General Data Protection Regulation, please email [DPO@carbonite.com](mailto:dpo@carbonite.com).
+
+Carbonite (UK) Limited is Carbonite's representative in the European Union for data protection matters pursuant to Article 27 of the General Data Protection Regulation of the European Union. Carbonite (UK) Limited can be contacted at:  
+Carbonite (UK) Limited  
+Unit 1 The Triangle  
+Wildwood Drive  
+Worcester WR5 2QX  
+England United Kingdom
