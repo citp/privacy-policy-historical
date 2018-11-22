@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the munowatch.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510152431id_/http%3A//munowatch.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the munowatch.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122161803id_/http%3A//www.munowatch.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
-## MUNOWATCH.COM PRIVACY POLICY
+## PRIVACY POLICY
 
 ### Information Collected
 
@@ -34,4 +34,4 @@ We reserve the right to modify or amend this Privacy Policy at any time and for 
 
 ### Customer Service
 
-If you need help using the Service or have a question regarding the Terms, this Privacy Policy or the products or services offered by any of our service providers, please contact Customer Service at: By email; us@munowatch.com 
+If you need help using the Service or have a question regarding the Terms, this Privacy Policy or the products or services offered by any of our service providers, please contact Customer Service at: By email; info@munowatch.com 
