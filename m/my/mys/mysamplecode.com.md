@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysamplecode.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524081711id_/http%3A//www.mysamplecode.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysamplecode.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122125854id_/http%3A//www.mysamplecode.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
