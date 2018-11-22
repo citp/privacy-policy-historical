@@ -1,42 +1,50 @@
-> *The following text is extracted and transformed from the ingoodcents.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152605id_/http%3A//ingoodcents.com/about/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingoodcents.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122100427id_/http%3A//www.ingoodcents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | In Good Cents
 
-In Good Cents does request information during [giveaways](http://ingoodcents.com/category/giveaways "Giveaways") or surveys, such as your e-mail address. If you [win a giveaway](http://ingoodcents.com/tag/winners "giveaway winner"), additional information is necessary to provide you with your prize(s). Aside from prize winners and when scheduling classes, In Good Cents does not collect information such as your phone number, address, or other private details. I understand that **privacy of your information is very important**.
+This Privacy Policy governs the manner in which In Good Cents collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.ingoodcents.com website (“Site”). This privacy policy applies to the Site and all products and services offered by In Good Cents.
 
-Information, such as your e-mail address, collected when you comment or ask a question,   is used to answer questions or reply to your comment.   Your e-mail address is only visible by administrators only and can not be seen by other readers.
+**Personal identification information**
 
-In addition, In Good Cents is supported by [3rd party advertisers](http://ingoodcents.com/about/policies/disclosure "disclosure policy") which may collect information including your IP address, your ISP, and other information about your browsing capabilities using cookies and/or web beacons. This information is used only to target advertising.
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Google, as a third party vendor, uses cookies to serve ads on this site.     Google’s use of the DART cookie enables it to serve ads to you based on visits to this site and other sites on the Internet.     You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "google opt out policy").
+**Non-personal identification information**
 
-In Good Cents collects information to:
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-  * Improve the site
-  * Administer giveaways, contests, promotions, surveys, and other site features
-  * To distribute [daily e-mails to subscribers](http://feedburner.google.com/fb/a/mailverify?uri=ingoodcents&loc=en_US "subscribe by e-mails")
+**Web browser cookies**
+
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+**How we use collected information**
+
+In Good Cents may collect and use Users personal information for the following purposes:
+
+  * – _To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * – _To improve our Site_  
+We may use feedback you provide to improve our products and services.
 
 
 
-If you [subscribe to In Good Cents by e-mail](http://feedburner.google.com/fb/a/mailverify?uri=ingoodcents&loc=en_US "subscribe by e-mails"), you do opt in to receiving one e-mail per day with a round-up of the latest deals.   These e-mails are sent each day between 5:00 PM and 7:0o PM.   Each e-mail has directions for you to easily unsubscribe, if you choose to do so.   To unsubscribe, please view the links at the bottom of your   most recent e-mail.
+**How we protect your information**
 
-As a frugal blog, I often link to offers from third parties or services that are not part of this site.   These parties have separate and independent privacy policies.   Therefore, I have no responsibility or liability for the content or activities of those linked sites.   Nevertheless, I do try hard to only link to reliable and reputable sites to protect the integrity of my own site and me.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-**California Online Privacy Protection Act Compliance**
+**Sharing your personal information**
 
-As a website which may receive visitors from the state of California, I must comply with the [California Online Privacy Protection Act](http://www.privacy.ca.gov/ "california protection act").
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-Because I value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. I therefore will not distribute your personal information to outside parties without your consent.
+**Changes to this privacy policy**
 
-**Children’s Online Privacy Protection Act Compliance  
-**  
-This site is in compliance with the requirements of COPPA ([Childrens Online Privacy Protection Act](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html "children's protection act")). Though this is a family-friendly site that tries hard to only list family-friendly material.   However, like most websites, the material and services on In Good Cents are directed towards audiences that are at least 18 years old and older.   In addition, you must be at least 18 years of age to participate in any giveaways or contests featured on In Good Cents.
+In Good Cents has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-By using   this site, you consent to this privacy policy.   If I decide to change the privacy policy, I will update the Privacy Policy modification date below:
+**Your acceptance of these terms**
 
-_This policy was last modified on February 2, 2011._
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-For questions regarding this privacy policy, please [contact me](http://ingoodcents.com/about/contact).
+**Contact Us**
 
-_This post may contain affiliate links. When you use them, you support this site. Thank you!  
-For more information, please read my [disclosure policy](http://ingoodcents.com/about/policies/disclosure)._
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact our account manager at: [In Good Cents](http://www.ingoodcents.com/contact/)
+
+_This document was last updated on February 3, 2018_
