@@ -1,766 +1,1004 @@
-<!--The following is the downloaded HTML source of the minecraftskins.com privacy policy that was archived on 2017-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171118065521id_/http%3A//www.minecraftskins.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the minecraftskins.com privacy policy that was archived on 2018-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181122012944id_/https%3A//www.minecraftskins.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><!--<![endif]--><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta http-equiv="cache-control" content="no-cache">
-    <link rel="stylesheet" type="text/css" href="http://www.minecraftskins.com/css/style.new.css?v1.5">
-    <link rel="stylesheet" type="text/css" href="http://www.minecraftskins.com/css/style2.css">
-    <script type="text/javascript" async="" src="//server.cpmstar.com/cached/js/siteskin_v100.pack.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-    <script src="http://www.minecraftskins.com/my_js/skinpreview64.js"></script>
-    <script src="http://www.minecraftskins.com/js/custom.js" type="text/javascript"></script>
-    <script src="http://www.minecraftskins.com/js/dropdowncontent.js" type="text/javascript"></script>
-    <script src="http://www.minecraftskins.com/js/ajax.js" type="text/javascript"></script>
-    <script src="http://www.minecraftskins.com/js/ajaxresponse.js" type="text/javascript"></script>
-    <script type="text/javascript" src="http://www.minecraftskins.com/jquery_js/farbtastic2.js"></script>
-    <link rel="stylesheet" href="http://www.minecraftskins.com/jquery_js/farbtastic2.css" type="text/css">
-    <script type="text/javascript" src="http://www.minecraftskins.com/my_js/getsethash.js"></script>
-    <script type="text/javascript" src="http://www.minecraftskins.com/jquery_js/jscolor.js"></script>
-    <script type="text/javascript" src="http://www.minecraftskins.com/jquery_js/jquery-color.js"></script>
-    <script type="text/javascript" src="http://www.minecraftskins.com/jquery_js/jquery.getimagedata.min.js"></script>
-    <script type="text/javascript" src="http://www.minecraftskins.com/jquery_js/jquery.fancybox-1.3.4.pack.js"></script>
-    <link rel="stylesheet" href="http://www.minecraftskins.com/jquery_css/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
-    <script type="text/javascript" src="http://www.minecraftskins.com/jquery_js/jquery.event.wheel-1.0.js"></script>
-    <script type="text/javascript" src="http://www.minecraftskins.com/jquery_js/jquery.form.js"></script>
-    <script src="http://www.minecraftskins.com/jquery_js/jquery.simpletip-1.3.1.pack.js" type="text/javascript"></script>
-    <script type="text/javascript" src="http://www.minecraftskins.com/my_js/looks.js"></script>
-    <script type="text/javascript" src="http://www.minecraftskins.com/my_js/default_setup2.js"></script>
-    <script type="text/javascript" src="http://www.minecraftskins.com/my_js/functional.js"></script>
-    <script>
-        $(function () {
-            $("#upload_frm").keydown(function (e) {
-                if (e.which == 13) {
-                    e.preventDefault();
-                }
-            });
-            $('.cont_box').hover(function () {
-                $(this).children('.cont_image').css({'background-color': '#ccc'});
-                $(this).find('a').css({'color': '#2EBDC2'});
-            }, function () {
-                $(this).children('.cont_image').css({'background-color': '#fff'});
-                $(this).find('a').css({'color': '#2B5BAE'});
-            });
-            $('.cont_box a').click(function (e) {
-                var preset = $(this).closest('.cont_box').find('.skins').attr('data-preset');
-                localStorage.setItem('presetDB', preset);
-            });
-        });
-    </script>
-    <script type="text/javascript">
+<!DOCTYPE html><html><head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=1024, initial-scale=0.78125, minimum-scale=0.78125, maximum-scale=1.5625,  user-scalable=1">
+<meta name="description" content="Privacy policy for The Skindex.">
+<meta name="keywords" content="">
+<meta name="author" content="">
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="x-rim-auto-match" content="none">
+<title>Privacy Policy</title>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/cdn-cgi/apps/head/WAae9_6Y24DxM_i4LQjdYVZxWqs.js"></script><script src="/cdn-cgi/apps/body/HltVGYweJL3C8-zIiAocFx7LAUM.js"></script><link rel="stylesheet" type="text/css" href="/bundles/app/css/jgrowl.css?v62">
+<link href="/bundles/app/css/styles.css?v62" rel="stylesheet" type="text/css">
 
-        $(function () {
-            var items = JSON.parse(localStorage.getItem("searchList"));
-            var list = $("#history-list");
-            list.hide();
-            $('#clearHistorySearch').css("display", "none");
-            $('#searchHistoryList').css({"display": "none", "overflow-y": "hidden"});
-            var parent = list.parent();
+<link href="/bundles/app/css/styles_mike.css?v62" rel="stylesheet" type="text/css">
 
-            if (items) {
-                list.detach().empty().each(function (i) {
-                    for (var x = 0; x < items.length; x++) {
-                        var marg = 30;
-                        var t = 0;
-                        if (t === 0) {
-                            $(this).append('<li>' + items[x] + '</li>').css({
-                                "position": "absolute",
-                                "z-index": "99999",
-                                "margin-top": marg
-                            });
-                        } else {
-                            $(this).append('<li>' + items[x] + '</li>').css({
-                                "position": "absolute",
-                                "z-index": "99999",
-                                "margin-top": marg + t
-                            });
-                        }
-
-                        t += 10;
-
-                        if (x == items.length - 1) {
-                            $(this).appendTo(parent).css({
-                                "position": "absolute",
-                                "z-index": "99999",
-                                "margin-top": marg
-                            });
-                        }
-                    }
-                });
-            }
-
-            $("#history-list li").click(function (e) {
-                e.preventDefault();
-                var selVal = $(this).html();
-                $('#search_name').val(selVal);
-                list.hide();
-                $('#clearHistorySearch').css("display", "none");
-                $('#searchHistoryList').css({"display": "none", "overflow-y": "hidden"});
-            });
-
-            $('#searc input').keypress(function (e) {
-                if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
-                    validate_all_for_search();
-                    return false;
-                } else {
-                    return true;
-                }
-            });
-
-            $("#searc input").dblclick(function () {
-                list.show().css({
-                    "position": "absolute",
-                    "z-index": "9999",
-                    "background-color": "white",
-                    "margin": "0"
-                });
-                var searchItems = JSON.parse(localStorage.getItem("searchList"));
-                if (searchItems) {
-                    $('#clearHistorySearch').css("display", "inline-block");
-                    if (searchItems.length > 5) {
-                        $('#searchHistoryList').css({"display": "inline-block", "overflow-y": "scroll"});
-                    } else {
-                        $('#searchHistoryList').css({"display": "inline-block", "overflow": "hidden"});
-                    }
-                }
-                // var item = JSON.parse(localStorage.getItem("searchList"));
-                // console.log(item);
-            });
-
-            // $(document).on('click', function(e) {
-            //     list.hide();
-            //     $('#clearHistorySearch').hide();
-            // });
-
-            $('#clearHistorySearch').click(function (e) {
-                e.preventDefault();
-                localStorage.removeItem("searchList");
-                var list = $("#history-list");
-                list.empty();
-                list.hide();
-                $('#clearHistorySearch').css("display", "none");
-                $('#searchHistoryList').css({"display": "none", "overflow-y": "hidden"});
-            });
-        });
-
-        function loadfade() {
-            $(function () {
-                $("#fade").click(function () {
-                    close_popup();
-                });
-            });
-        }
-
-        function clear1() {
-            var list = $("#history-list");
-            list.hide();
-            $('#clearHistorySearch').hide();
-            $('#searchHistoryList').css({"display": "none", "overflow-y": "hidden"});
-            // document.getElementById('search_name').value="";
-            if (document.getElementById('search_name').value == 'Enter some text here') {
-                document.getElementById('search_name').value = '';
-            }
-        }
-
-        function validate_all_for_search() {
-            if (document.getElementById('search_name').value == "" || document.getElementById('search_name').value == "Enter some text here") {
-                document.getElementById('search_name_validate').style.display = 'block';
-                document.getElementById('search_name_err').innerHTML = "Please enter some content to search.";
-
-                return false;
-            }
-
-            // var radioButtons = document.getElementsByName("search_cat");
-
-            // for (var x = 0; x < radioButtons.length; x++) {
-            //     if (radioButtons[x].checked) {
-            //         var serby = radioButtons[x].value;
-            //     }
-            // }
-
-            var serby = $(".navsmall option:selected").val().toLowerCase();
-
-            var str = document.getElementById('search_name').value;
-            var str2 = str.toLowerCase();
-            var str3 = str2.replace(/\s/g, "-");
-            var str4 = str3.replace(/\'/g, "_");
-
-            var searchList = localStorage.getItem("searchList");
-            var obj = [];
-            if (searchList) {
-                obj = JSON.parse(searchList);
-            }
-            var myString = "pede";
-            if ($.inArray(str2, obj) != -1) {
-                console.log('match');
-            } else {
-                obj.push(str2);
-                localStorage.setItem("searchList", JSON.stringify(obj));
-            }
-
-            document.searc.action = 'http://www.minecraftskins.com/' + 'search/' + serby + '/' + str4 + '/1/';
-            document.searc.submit();
-        }
-    </script>
-
-    
-        <title>Privacy Policy</title>
-
-    <meta name="description" content="Privacy policy for The Skindex.">
-
-    <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-84150335-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-</head>
-
-
-<body>
-<!-- <iframe src="/skin-editor/" scrolling="no"></iframe> -->
-<div id="hideBlock" style="display:none;"></div>
-<div id="lt" style="height:1px;width:1px;display:none;z-index:999999;"></div>
-
-<div class="wrapper">
-
-    <div class="header_part" style="margin-bottom:6px;">
-
-        <div>
-            <!-- <div style="font-weight: bold; position:relative; top:64px; left:473px; color:#542511; width: 418px;" id="loaddiv"></div> --> </div>
-        <div class="logo_new">
-
-            <div class="logo_text" style="margin-top: 117px; margin-left: 158px;">
-<!--                <script type="text/javascript"><!---->
-<!--                    google_ad_client = "ca-pub-5204328142213814";-->
-<!--                    /* MCS - linkads */-->
-<!--                    google_ad_slot = "4393756354";-->
-<!--                    google_ad_width = 468;-->
-<!--                    google_ad_height = 15;-->
-<!--                    //-->
-<!--                </script>-->
-<!--                <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>-->
-            </div>
-
-            <a href="http://www.minecraftskins.com/" class="top_logo"><img src="http://www.minecraftskins.com/images/logoimage.png" alt=""></a>
-            <form method="post" name="searc" id="searc" action="" autocomplete="off">
-
-                <select class="navsmall">
-
-                    <option value="skin">Skin</option>
-
-                    <option value="author">User</option>
-                </select>
-
-                <div class="search_part"><input id="search_name" name="search_name" type="text" class="search_box" value="" onclick="clear1()">
-
-                    <input type="button" class="search_button" value="Search" onclick="validate_all_for_search();">
-
-                    <!--<div id="searchHistoryList" style="width:244px;">
-                        <a id="clearHistorySearch" href="#">clear search</a>
-                        <ul id="history-list" style="width:244px;margin:0;padding:0;">-->
-                            <!-- empty list -->
-                        <!--</ul>
-                    </div>-->
-                </div>
-
-            </form>
-            <div class="gree_box"><div class="button_arealoginbip"><a href="http://www.minecraftskins.com/login.php"><img src="http://www.minecraftskins.com/images/login_button.png" width="83" height="28" alt=""></a><a href="http://www.minecraftskins.com/sign-up/"><img src="http://www.minecraftskins.com/images/sign_button.png" width="83" height="28" alt=""></a></div>
+<link href="/bundles/app/css/bootstrap_modal.css?v62" rel="stylesheet" type="text/css">
+<link href="/css/select2.css?v62" rel="stylesheet" type="text/css">
+<link href="/css/styles.css?v62" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<link rel="icon" type="image/x-icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAABHCAYAAABRRYoiAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABrdJREFUeNrsnE1sG0UUx9+u7ThJieNDkBD5sEmERIuqmgtq1RB8AAShCCMBTSUgBiS4oGAE6gEhmkI5UIqwELcK4d56iEoqpKIWDqaAKKc6SAQhVHDSlAJJW8dJ2tiJvcxbj531enZn13H8/aRR7LW9u/Pb9/7vzexsBCix3fy0bxf5E6ZvJ7G1j82ehhoyocRAOikQj+qjKGkh0oIE0GLDQNEBooYTqHbPEUu4ryAHCJobw4kA/JJCrF9PIR38BD3A5M8ipPmI18zUq6cEaSfNGHpVhApzXWsKiqnP5E9jGFbVJMBCqXdI4HxB/viLCCVvtYARS71D0rEXqceYDaXxuvUUhcdcNJCN1Ibe8l3deYqyg7QuMWOhakjVWwaF6oNZbXEXkdprJ3w2IbwVz0ZiGY5hVkCdRXhYbUGhFavZwq6iIWQt03EmTWYiNwm7Q4p07WS8DivCLUJbuBRhJ5SDCO1gueqQCK2TQsUCEst0os4yer+HjsWiKPKkuSrqKbTG8NAaxUNTrKeS+nDjOjmvm8L43UdnDpcNCr0SPpoxKgqAZSsrRHRuyN2MtLVJ/p7Ds1NbAoV6hI9miaoDobR0GuDq37luxtq3Sf7uQ/ozf0IRMAK0OaFG7NoCwOpqpquCIMFtHeC/453ZE5uGQoC8TjNIzcBghFAOjCQJHqIzU0VBoTNjoWoPExMhJJvFIpFQAg/xmBlTKZkAGQX+DH3Vm0h6abNJedtSKcG5ssye9xE5BVeoFsOFZa1tLA8SvH+9LV94fvgUOaVY1ZZIACzMF3aX6Evszu78UbmoETJ1BQTNZmNvJ4LrvDInBDTDhwB5EMzPr9asrii8hQ1FcYuibk3PW/446BpleUqAjlUaDgo1f57QUi+J1kumMSu2ynkcUtDNiAovqWsgmYKN+xWfMnz80ABm5c8zemUotIx3Q4OYVgbKgwLmb4jXtAn6c42YhXaJtT6uMR1CfF1xNxwUC19XPGIj6YlBc4tNBk0oxsZJTQRsTWmaKi03oTTDxziUcBNDIZRYI3UYpw+MQIk0fSPPItzwsd4fAMs9T9dNj5MJ7v2/GNdTxO7d0PLwx9D6yi9ge+BdELp21CwQvFPIDR1RimanIzUXArc8dRIsPXvytn14/iBEI8fhDdgGvYKlIh3EiyVPBZCLJNgdIDh6QOjoyQz6yPkmTu2H9JULBXrCmY4kA0YpkB0zaq5JkxamAVRQ9nYPwbHIZzABCdgt2QicdtgjtGwZgEUpDecgCT+RdgHW4OLYsu73U5fOFgAxKrKpdSEsKqAwTUrEC7YNDuzLvcaT3A+L8KwUg7NSomQg0AMmOrrgUek67IRr8CYsyRdhZ/+w7u+kxCIkv32rqMyDdwtxJYIMpX1MXt0TZcYhgzjaY/378t4jnN89L4DtoWMg9j9SNAjULfvoD9B64Gv4pmsApiGlOu4T+kKKQJJxpp7wRFaShEl1RRvSgoL0C6EUntwgAWXd/gzYHz+eEWYCyIgwoxZkQVg9L4Po6NU8xvCANpT1yOeQ/vMc87Nbt/gXxWaTCqAEtQq5FONAB3Y8D70dfbn3jpZO2NsztNFRe6cMCEWQZ9LSHEjz00wAuN+sjWx/Djrt7Dsx6flfYe379zSPscqHEnV/kFn2lYNC77oHmVfgZ+ZmODL0Ue71q/e9ZljwWIYdUnskAsjuF+EcGTqqCSRxakTbg9Y3lnfp2Hjugiq36t0pxFhH11bbmUtfweX4TAEU7OBqaJAZ35rpkBSJWBOp7ce589DrcEGfw6UNROc4cfLRUlwXSpQI7F1MKBTMk1rZyD5yBsTb7+WHAwGCJyqnc5OGOoRhZ6gYMwAEBfafq7KI6u3KR6Cc1pw6oA9SM0U3cXJYFjPdE41fLhqIHEYke/COkRVVPB+eJy4vc4FMKoEwPUURRmGtgg6zhdXzklxVZj0Hr9r6bxOQIs1MyOhVrPK4S1E4ogei6KPGoThzwREt+e9fXSjys0UEyiIXihEw5S7psYg0633K9bMaxlw2qvuLagJj1tRrZxnmJ0BOaM2naBpN016osRVOySQZL2lPncX0gHA9hZGVQlDl61gw2yzME8FeY3YtSjPNFG/mzZDRrOSuZq/hAJnU0pCiPUXlNS5aAfprAAh6R0CddksORQXHT5u7yoDE6LAlqE65WwqFoTkoyr5yAsI5Eky9ilokSmGEzMIoORSGB3lh47E5z1Z4B1arOKYRMvOqYasNQq73N/+/EoRyXVG6ts5JQQH1JqVHefUGbKpJsDA+G7i2BpHWNoiwHk/ZjP0vwADDpqknHHz0dAAAAABJRU5ErkJggg==">
+<link rel="stylesheet" href="data:text/css;charset=utf-8;base64,Y2xvdWRmbGFyZS1hcHBbYXBwPSJ0aWJyci1jb29raWUtY29uc2VudCJdIHsNCglwb3NpdGlvbjogZml4ZWQ7DQoJZm9udC1zaXplOiAxLjJlbTsNCgl3aWR0aDogMTAwJTsNCglsZWZ0OiAwOw0KfQ0KY2xvdWRmbGFyZS1hcHBbYXBwPSJ0aWJyci1jb29raWUtY29uc2VudCJdID4gLnRpYnJyLWNvb2tpZS1jb25zZW50LWNvbnRhaW5lciB7DQoJZGlzcGxheTogLXdlYmtpdC1mbGV4Ow0KICAgIGRpc3BsYXk6IGZsZXg7DQoJcGFkZGluZzogMC41ZW07DQoJLXdlYmtpdC1qdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47DQogICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuOw0KICAgIC13ZWJraXQtYWxpZ24taXRlbXM6IGNlbnRlcjsNCiAgICBhbGlnbi1pdGVtczogY2VudGVyOw0KICAgIC13ZWJraXQtZmxleC13cmFwOiBub3dyYXA7DQogICAgZmxleC13cmFwOiBub3dyYXA7DQp9DQpjbG91ZGZsYXJlLWFwcFthcHA9InRpYnJyLWNvb2tpZS1jb25zZW50Il0gPiAudGlicnItY29va2llLWNvbnNlbnQtY29udGFpbmVyID4gZGl2IHsNCgltYXJnaW46IDAuNWVtOw0KfQ0KY2xvdWRmbGFyZS1hcHBbYXBwPSJ0aWJyci1jb29raWUtY29uc2VudCJdID4gLnRpYnJyLWNvb2tpZS1jb25zZW50LWNvbnRhaW5lciA+IC50aWJyci1jb29raWUtY29uc2VudC10ZXh0IHsNCgl0ZXh0LWFsaWduOiBjZW50ZXI7DQp9DQpjbG91ZGZsYXJlLWFwcFthcHA9InRpYnJyLWNvb2tpZS1jb25zZW50Il0gPiAudGlicnItY29va2llLWNvbnNlbnQtY29udGFpbmVyID4gLnRpYnJyLWNvb2tpZS1jb25zZW50LWJ1dHRvbiB7DQoJdGV4dC1hbGlnbjogcmlnaHQ7DQp9DQpjbG91ZGZsYXJlLWFwcFthcHA9InRpYnJyLWNvb2tpZS1jb25zZW50Il0gPiAudGlicnItY29va2llLWNvbnNlbnQtY29udGFpbmVyID4gLnRpYnJyLWNvb2tpZS1jb25zZW50LWJ1dHRvbiA+IGJ1dHRvbiB7DQoJYm9yZGVyLXJhZGl1czogMC41ZW07DQoJYm9yZGVyOiAwLjA1ZW0gc29saWQ7DQoJcGFkZGluZzogMC40ZW0gMWVtOw0KfQ0KY2xvdWRmbGFyZS1hcHBbYXBwPSJ0aWJyci1jb29raWUtY29uc2VudCJdID4gLnRpYnJyLWNvb2tpZS1jb25zZW50LWNvbnRhaW5lciA+IC50aWJyci1jb29raWUtY29uc2VudC1idXR0b24gPiBidXR0b246aG92ZXIgew0KCWN1cnNvcjogcG9pbnRlcjsNCn0="></head>
+<body class="">
+<div class="header">
+<div class="header-wrapper">
+<div class="mobile-menu">
+<i class="mm-top"></i>
+<i class="mm-med"></i>
+ <i class="mm-bot"></i>
+</div>
+<div class="mobile-search"></div>
+<div class="mobile-profile-log"></div>
+<div class="header__top clearfix">
+<div class="logo">
+<a href="/">
+<img class="site_logo_image" src="/images/skindex_logo.svg" alt="skindex logo">
+</a>
+</div>
+<div class="search" data-mobile-visible="false" style="margin-left: 115px; display: block;">
+<form action="/search/general-action" method="post">
+<select name="option" class="js-example-basic-single select2-hidden-accessible" tabindex="-1" aria-hidden="true">
+<option value="skins" selected="">Skins</option>
+<option value="users">Users</option>
+</select><span class="select2 select2-container select2-container--default" dir="ltr" style="width: 71px;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-labelledby="select2-option-1f-container"><span class="select2-selection__rendered" id="select2-option-1f-container" title="Skins">Skins</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+<input autocomplete="off" autocorrect="off" spellcheck="false" type="text" name="query" value="" maxlength="100" minlength="3">
+<button type="submit"></button>
+</form>
+</div>
+<div class="auth">
+<a href="/login/">Sign In</a>
+<a href="/register/">Register</a>
+</div>
+</div>
+<div class="header__menu">
+<div class="header__menu-outer">
+<ul>
+<li><a href="/"><i class="icon-home"></i>Top</a></li>
+<li><a href="/latest/1/">Latest</a></li>
+<li><a href="/recently-commented/1/">Recently Commented</a></li>
+<li><a href="/skin-editor/">Editor</a></li>
+<li><a href="/upload/">Upload</a></li>
+<li><a href="/skin-grabber/">Skin Grabber</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="wrapper clearfix">
+<div class="main">
+<div class="site-overlay"></div>
 
 </div>
-
-
-        </div>
-
-
-        <div class="header_downpart" style="margin-top:18px;">
-
-            <div class="navpart">
-
-                <ul class="navsBig">
-
-                                            <li><a href="http://www.minecraftskins.com/">Home</a></li>
-                                            <li><a href="http://www.minecraftskins.com/daily-top/1/">Top</a></li>
-                                            <li><a href="http://www.minecraftskins.com/latest/1/"> Latest</a></li>
-                                            <li><a href="http://www.minecraftskins.com/recent-comments/1/">Recent Comments</a></li>
-                                            <li><a href="http://www.minecraftskins.com/skin-editor/">Editor</a></li>
-                                            <li><a href="http://www.minecraftskins.com/upload/">Upload </a></li>                </ul>
-
-            </div>
-            
-<!--            <form method="post" name="searc" id="searc" action="" autocomplete="off">-->
-<!---->
-<!--                <ul class="navsmall">-->
-<!---->
-<!--                    <li><input type="radio" name="search_cat"-->
-<!--                               value="skin"--><!--                               checked="true">Skin-->
-<!--                    </li>-->
-<!---->
-<!--                    <li><input type="radio" name="search_cat"-->
-<!--                               value="author"--><!--/>Author-->
-<!--                    </li>-->
-<!--                </ul>-->
-<!---->
-<!--                <div class="search_part"><input id="search_name" name="search_name" type="text" class="search_box"-->
-<!--                                                value="--><!--" onclick="clear1()"/>-->
-<!---->
-<!--                    <input type="button" class="search_button" value="Search" onclick="validate_all_for_search();"/>-->
-<!---->
-<!--                    <div id="searchHistoryList" style="width:244px;">-->
-<!--                        <a id="clearHistorySearch" href="#">clear search</a>-->
-<!--                        <ul id="history-list" style="width:244px;margin:0;padding:0;">-->
-<!--                            <!-- empty list -->
-<!--                        </ul>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!---->
-<!--            </form>-->
-
-            <div id="search_name_validate" style="display:none; float: left; margin-left: 217px;">
-
-                <div class="search_part" id="search_name_err" style="color:#d92d2d;float:left;margin-left:500px; font-size:14px;"></div>
-
-            </div>
-
-        </div>
-
-        <div class="top_imageadd">
-
-            <!--+++++++++++++top banner++++++++++++++-->
-
-            <div class="top_bannerbip"></div>
-
-            <!--+++++++++++++top banner++++++++++++++-->
-
-        </div>
-
-    </div>
-
-
-    <style>
-        #searchHistoryList {
-            width: 244px;
-            position: relative;
-            height: 125px;
-            overflow-y: hidden;
-            overflow-x: hidden;
-        }
-
-        #clearHistorySearch {
-            display: none;
-            position: absolute;
-            color: rgb(0, 174, 255);
-            margin-top: 5px;
-            z-index: 99999999;
-            width: 55px;
-            margin-left: 170px;
-            font-size: 9px;
-        }
-
-        #history-list {
-            list-style-type: none;
-
-        }
-
-        #history-list li:hover {
-            background-color: grey;
-            color: white;
-        }
-
-        #history-list li {
-            list-style-type: none;
-            height: 20px;
-            padding-left: 10px;
-            padding-top: 5px;
-            cursor: pointer;
-            color: black;
-        }
-    </style>
-
-
-    <div class="body_part">
-
-    	<div class="white_box">
-
-        	<div class="whitebox_top"></div>
-
-            <div class="white_boxmid">
-
-           	  <div class="inner_BG">
-
-              <div class="top_part"></div>
-
-                <div class="yellow_box">
-
-                	<div class="yellow_top"></div>
-
-                    <div class="yellow_mid">
-
-                    <div class="term_innerbox">
-
-                    <div class="searchheading_text">Privacy Policy</div>
-
-
-
-                    <div class="cont_text2" style="width: 900px;"><div style="margin-right: 20px;">
-<p>
-	Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
-</p>
-
-
-<ul>
-<li>Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.</li>
+<div class="content">
+<div class="page-padding">
+<header>
+<h1>Privacy Policy</h1>
+</header>
+<div class="content clearfix">
+<h2>Introduction</h2>
+<p>Your privacy is very important to us at The Skindex. To our best efforts, we have developed this Policy in order for you to understand how we collect, use, communicate, disclose and make use of personal information. The following outlines our privacy policy.</p>
 <br>
-
-<li>We will only retain personal information as long as necessary for the fulfillment of those purposes.</li>
-<br> 
-	
-<li>This site uses cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</li>
+<h2>Information collected</h2>
+<p>We will only retain personal information as long as necessary for the fulfillment of the service provided to you.</p>
 <br>
-
-<li>This site collects email addresses from users upon registration for communicating with its users about its service and will NOT in any circumstance release them to 3rd parties unless required by law.</li>
+<h2>Visitors</h2>
+<p>We log the IP addresses of visitors to help prevent malicious activities on our site.</p>
 <br>
-       
-<li>
+<h2>Members</h2>
+<p>We need your email and username (not your real name) to identify you as a unique individual when signing up.</p>
+<br>
+<p>Your email is also used to send you information such as your password recovery information and notification of events that are related to your account; such as comments, when some member you are following uploads a new skin, or when you have a new follower.</p>
+<br>
+<p>Your email notifications are enabled by default. You can choose to disable them <a href="https://www.minecraftskins.com/settings/profile/" target="_blank"><u>here</u></a>.</p>
+<br>
+<p>We do not disclose your email address to 3rd parties unless required by law.</p>
+<br>
+<p>We do NOT recommend that you use your real name as your username. It is a violation of this privacy policy to reveal your identity in your username if you are located in the EEA.</p>
+<br>
+<p>Your IP address is logged for the sole purpose of moderation to prevent any abuse of services provided to you by this site. Only our administrators can view your IP address and it will not be shared with 3rd parties.</p>
+<br>
+<h2>Content and information submitted by you</h2>
+<p>We collect and store information you choose to provide to us when using our services. The information includes, posting of skins, comments, votes, ‘About Me’ in your profile page, skins added to your wardrobe, skins you downloaded, etc.</p>
+<br>
+<p>On your profile page other members or visitors will not be able to view your wardrobe, download history, who your followers are or who you are following. This information is only revealed to you during your logged-in session at our site.</p>
+<br>
+<p>Please do NOT reveal personal information about yourself or others such as phone numbers, addresses, birthdate, etc. anywhere on the site.</p>
+<br>
+<h2>Control, rights and correction of your data</h2>
+<p>As a member you can edit the title, description, tags of the skins that you had uploaded or delete them entirely at any time.</p>
+<br>
+<p>You can’t edit the contents of the comments you had posted but you are able to delete them at any time.</p>
+<br>
+<p>You can change your email address at any time but you will have to verify its validity every time you change it.</p>
+<br>
+<p>You can change your username (which is subjected to availability) but you are only allowed to do so once every 6 months. So, if you had just changed it, you will have to wait for 6 months before being able to change it again.</p>
+<br>
+<p>If you decide to delete your account, please contact us <a href="https://www.minecraftskins.com/contact/" target="_blank"><u>here</u></a>. However please note that skin uploads and comments that you had made will remain visible to others unless you remove them on your own prior to the deletion of your account.</p>
+<br>
+<h2>Data Protection and Security</h2>
+<p>We take reasonable precautions to protect the data from loss, misuse and unauthorized access, disclosure, alteration and destruction of the data. However, please exercise your due diligence by taking precaution on your end to protect any unauthorized entities from accessing your account at The Skindex.</p>
+<br>
+<h2>Age restrictions</h2>
+<p>Only users that are 13 years old or older are allowed to sign up for an account. Users residing in the EU have to be 16 years old or older.</p>
+<br>
+<h2>Ad partners and Analytics</h2>
 <p>Some of our advertising partners may use cookies and web beacons on our site.</p>
 <br>
-
-<p>These third-party ad servers or ad networks use technology to the advertisements and links that appear on this site send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.</p>
+<p>These third-party ad servers or ad networks use technology to the advertisements and links that appear on this site send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.</p>
 <br>
-
-<p>This site has no access to or control over these cookies that are used by third-party advertisers.</p>
+<p>Exponential Interactive, Inc, our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their <a href="http://exponential.com/privacy/" target="_blank"><u>privacy policy</u></a> or contact their data protection officer via privacy@exponential.com.</p>
 <br>
-
-<p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This site's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
+<p>We also use analytics partners such as Statcounter and Google Analytics, to help analyze usage and traffic for our services.</p>
 <br>
-
-<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.</p>
+<p>If you would like to know more information about these practices or do not want to provide information to these companies, please visit networkadvertising.org for more information for disable tracking.</p>
 <br>
-</li>
- 
-
-
-</ul>
-
-<p>
-	We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
-</p>
-</div></div>
-
-
-
-                        </div>
-
-                    </div>
-
-                    <div class="yellow_lower"></div>
-
+<h2>Change to this Privacy Policy</h2>
+<p>We may revise this privacy policy from time to time at our discretion to provide better clarity to our users and to coincide with the relevant laws and regulations.</p>
+<br>
+<h2>Contact Us</h2>
+<p>Please contact us <a href="https://www.minecraftskins.com/contact/" target="_blank"><u>here</u></a> if you have any questions about this Privacy Policy.</p>
+</div>
+</div>
+</div>
 </div>
 
+<div class="footer firefox">
+<div class="footer-wrapper">
+<div class="footer-left">
+<div class="footer-menu clearfix ">
+<ul>
+<li><a href="/">Top</a></li>
+<li><a href="/latest/1/">Latest</a></li>
+<li class="mr0"><a href="/recently-commented/1/">Recently Commented</a></li>
+<li class="hide-350px"><a href="/skin-editor/">Editor</a></li>
+<li class="hide-350px"><a href="/upload/">Upload</a></li>
+<li class="hide-350px align-li"><a href="/skin-grabber/">Skin Grabber</a></li>
+</ul>
+<ul class="show-350px">
+<li><a href="/skin-editor/">Editor</a></li>
+<li><a href="/upload/">Upload</a></li>
+<li class="mr0"><a href="/skin-grabber/">Skin Grabber</a></li>
+</ul>
+<ul>
+<li><a href="/contact/">Contact Us</a></li>
+<li class="mr0"><a href="/terms-and-conditions/">Terms and Conditions</a></li>
+<li class="hide-350px "><a href="/privacy-policy/">Privacy Policy</a></li>
+<li class="hide-350px "><a href="/faq/">FAQ</a></li>
+</ul>
+<ul class="show-350px">
+<li><a href="/privacy-policy/">Privacy Policy</a></li>
+<li class="mr0"><a href="/faq/">FAQ</a></li>
+</ul>
+</div>
+<div class="copyright">
+<p>Thank you for visiting MinecraftSkins.com - Skindex, the source for Minecraft skins</p>
+<p>© MinecraftSkins.com 2010 - 2018. All rights reserved.</p>
+</div>
+</div>
+</div>
+</div>
 
+<div class="modal fade" id="global_information_modal" tabindex="-1" role="dialog" aria-labelledby="global_information_modal">
+<div class="modal-dialog info-modal" role="document">
+<div class="modal-content">
+<div class="modal-body">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+<div class="modal-info">
+<br>
+<h3 class="js-header-information-modal"></h3>
+</div>
+</div>
+<div class="modal-footer modal-info-footer">
+<button type="button" class="btn btn-danger" data-dismiss="modal">Okay</button>
+</div>
+</div>
+</div>
+</div>
 
-            </div>
-
-          </div>
-
-          <div class="whitelower_bg"></div>
-
-        </div>
-
-      </div>
-
-    </div>
-
-  
-
+<script src="/bundles/app/js/jquery-1.11.3.min.js?v62"></script>
 <script>
-if (!localStorage.getItem('selVal')) {
-  localStorage.removeItem('countT');
-  localStorage.removeItem('paintArr');
-  localStorage.setItem('selVal', '4px');
+    $(".mobile-menu, .mobile-menu i").on('click', function (e) {
+        e.preventDefault();
+
+        // get scrollHeight before open menu
+        if (!$('.header__menu').is('.open-menu')) {
+            var scrollTopRealTime = $(window).scrollTop();
+            var scrollTopRealTime = $(window).scrollTop();
+            $('html').attr('data-scroll-top', scrollTopRealTime);
+
+        }
+
+        $('.header__menu').toggleClass('open-menu');
+        $('.site-overlay').toggleClass('shadow');
+        $('.wrapper').toggleClass('open-menu');
+        $('.content').toggleClass('open-menu');
+        $('html').toggleClass('open-menu');
+        $('body').toggleClass('open-menu');
+        $('.footer').toggleClass('open-menu');
+        $('.header').toggleClass('open-menu');
+        $('.auth, .profile-log').toggleClass('open-menu');
+        $('.auth-dropdown').slideUp();
+
+        // set scrollTop position after closing menu
+        if (!$('.header__menu').is('.open-menu')) {
+            scrollTopRealTime = $('html').attr('data-scroll-top');
+            $(window).scrollTop(scrollTopRealTime);
+        }
+    });
+
+    $('.mobile-search').on('click', function () {
+        $('.search').slideToggle();
+        $(".search input").focus();
+        $('.main > .content').toggleClass('search-open');
+        $('.top-banner-large').toggleClass('search-open');
+
+        var _mobileVisible = $('.search').data('mobile-visible');
+        $('.search').data('mobile-visible', !_mobileVisible);
+    });
+
+    $('.slide-leftbar > .icon-pencil').on('click', function (e) {
+        e.preventDefault();
+        $('.left-toolbar').toggleClass('open-leftbar');
+        $('.content').toggleClass('open-leftbar');
+        $('body').toggleClass('open-menu');
+    });
+    $('.slide-rightbar > .icon-settings').on('click', function (e) {
+        e.preventDefault();
+        $('.right-toolbar').toggleClass('open-rightbar');
+        $('.content').toggleClass('open-rightbar');
+        $('body').toggleClass('open-menu');
+    });
+</script>
+<script src="/bundles/app/js/select2.js?v62"></script>
+<script src="/bundles/app/js/jquery.cookie.js?v62"></script>
+<script src="/bundles/app/js/jgrowl.js?v62"></script>
+<script src="/bundles/app/js/bootstrap_tooltip.js?v62"></script>
+<script src="/bundles/app/js/util.js?v62"></script>
+<script src="/bundles/app/js/resolution-change.js?v62"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/mobile-detect/1.3.6/mobile-detect.min.js"></script>
+<script>
+var skindex_url = window.location.protocol + '//' + window.location.hostname + '/';
+var page_url = window.location.href;
+var pathname = window.location.pathname;
+
+var md = new MobileDetect(window.navigator.userAgent);
+
+var serverDevice = "0";
+var device;
+
+if (md.phone() || md.tablet()) {
+  $(document).on('touchend', function(e) {
+    $(this).focus();
+  });
 }
-var skindex_url = window.location.protocol + '//' +  window.location.hostname + '/';
-createCookie('bHistory', '1', 7);
+
+if (md.phone()) {
+  window.addEventListener("orientationchange", function() {}, false);
+  // Find matches
+  var mql = window.matchMedia("(orientation: portrait)");
+  var _this = this;
+
+  if ($(document).width() >= 767 && !mql.matches && serverDevice !== '0') {
+    device = '0';
+    changeOrientationDevice(device);
+  }
+
+  // Latest ios hack to prevent ads block the page
+  $(document).on('touchend', function(e) {
+    $(this).focus();
+  });
+
+  // Add new checks for prevent fast switch on portrait to landscape and again
+  if (window.matchMedia("(orientation: portrait)").matches) {
+    if (typeof device === 'undefined' && serverDevice === '0') {
+      device = '1';
+      serverDevice = '1';
+      changeOrientationDevice(device);
+    }
+  }
+
+  // Add a media query change listener
+  mql.addListener(function(m) {
+    if ($(document).width() >= 767 && !m.matches) {
+      device = '0';
+    } else if (m.matches) {
+      device = '1';
+    }
+    if (serverDevice !== device && typeof device !== 'undefined') {
+      changeOrientationDevice(device);
+    }
+  });
+}
+
+//if (window.matchMedia("(orientation: landscape)").matches) {
+  // you're in LANDSCAPE mode
+//}
+
+function changeOrientationDevice(device) {
+    $.ajax({
+      type: 'post',
+      url: '/change-orientation',
+      data: {
+        device: device
+    },
+    success: function (data) {
+      if (data.success) {
+        _this.location.href = _this.location.href;
+      }
+    }
+  });
+}
+
+// create new cookie
+createCookie('history', '1', 7);
+
 function createCookie(name, value, days) {
   var expires, date;
   if (days) {
-      date = new Date();
-      date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-      expires = "; expires=" + date.toGMTString();
+    date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    expires = "; expires=" + date.toGMTString();
   } else expires = "";
   document.cookie = name + "=" + value + expires + "; path=/";
 }
-
+// read cookie
 function readCookie(name) {
   var nameEQ = name + "=";
   var ca = document.cookie.split(';');
   for (var i = 0; i < ca.length; i++) {
-      var c = ca[i];
-      while (c.charAt(0) == ' ') c = c.substring(1, c.length);
-      if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
+    var c = ca[i];
+    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+    if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
   }
   return null;
 }
-
 // erase cookie
 function eraseCookie(name) {
-    createCookie(name,"",-1);
+  createCookie(name, "", -1);
 }
-
-$(document).ready(function() {
-  $('.logoutBtn').click(function(ev) {
+$(function() {
+  $('.logoutBtn').on('click', function(ev) {
     localStorage.setItem('logout', 'logout');
   });
-
-  $('.loginBtn').click(function(ev) {
+  $('.loginBtn').on('click', function(ev) {
     localStorage.removeItem('logout');
   });
-
-  $('.regBtn').click(function(ev) {
-    localStorage.removeItem('logout');
-  });
-
-  if (!document.referrer) {
-      localStorage.removeItem('logout');
+  if (pathname !== '/avatar-maker/' && pathname !== '/admin/avatarexamples/admin_avatar_maker/') {
+    window.onload = function() {
+      // disables backspace on page except on input fields and textarea..
+      document.body.onkeydown = function(e) {
+        var elm = e.target.nodeName.toLowerCase();
+        if (e.which === 8 && (elm !== 'input' && elm !== 'textarea')) {
+          e.preventDefault();
+        }
+        // stopping event bubbling up the DOM tree..
+        e.stopPropagation();
+      };
+    }
   }
-
-  if (localStorage.getItem('logout') !== null) {
-    (function (global) {
-        if(typeof (global) === "undefined") {
-            throw new Error("window is undefined");
+  if (pathname === '/login') {
+    $.ajax({
+      type: 'get',
+      url: '/get-username',
+      success: function(data) {
+        if (data.success === 'success') {
+          window.location.href = skindex_url;
         }
-        var _hash = "!";
-        var noBackPlease = function () {
-            global.location.href += "#";
-            // making sure we have the fruit available for juice (^__^)
-            global.setTimeout(function () {
-                global.location.href += "!";
-            }, 50);
-        };
-        global.onhashchange = function () {
-            if (global.location.hash !== _hash) {
-                global.location.hash = _hash;
-            }
-        };
-        global.onload = function () {
-            noBackPlease();
-            // disables backspace on page except on input fields and textarea..
-            document.body.onkeydown = function (e) {
-                var elm = e.target.nodeName.toLowerCase();
-                if (e.which === 8 && (elm !== 'input' && elm  !== 'textarea')) {
-                    e.preventDefault();
-                }
-                // stopping event bubbling up the DOM tree..
-                e.stopPropagation();
-            };
-        }
-
-    })(window);
+      },
+      error: function(data) {
+        console.log(data.error);
+      }
+    });
   }
 });
-
-setInterval(function() {
-  x = readCookie('bHistory');
-  if (!x) {
-      localStorage.removeItem('countT');
-      localStorage.removeItem('paintArr');
-      localStorage.setItem('selVal', '4px');
-      if (window.location.href !== skindex_url + "skin-editor/") {
-        if (localStorage.getItem('selVal') === '4px') {
-          window.location.href = skindex_url + "logout.php";
-        }
-      }
+var redirectInterval = setInterval(function() {
+  var x = readCookie('history');
+  if (!x || (localStorage.getItem('logout') !== null && $('.user-info').is(":visible"))) {
+    eraseCookie('history');
+    localStorage.removeItem('logout');
+    clearInterval(redirectInterval);
+    window.location.href = page_url;
   }
-}, 1500);
+}, 2000);
 </script>
- <div class="footer_part" style="z-index=-1; overflow: visible;">
-
-    	<div class="footer_leftbox">
-
-        	<div class="top_footer_text">Thank you for visiting Minecraftskins.com - Skindex, The source for <span>Minecraft Skins</span></div>
-
-            <div class="footer_outterbox">
-
-            	<div class="footer_box1">
-
-                	<div class="footer_nav">
-
-                    	<ul>
-
-                        	<li><a href="http://www.minecraftskins.com/">Home</a></li>
-
-                            <li><a href="http://www.minecraftskins.com/daily-top/1/">Top</a></li>
-
-                            <li><a href="http://www.minecraftskins.com/latest/1/">Latest</a></li>
-
-                            <li><a href="http://www.minecraftskins.com/recent-comments/1/">Recent Comments</a></li>
-
-                            <li><a href="http://www.minecraftskins.com/skin-editor/">Editor</a></li>
-
-                            <li><a href="http://www.minecraftskins.com/upload/">Upload</a></li>
-
-
-                        </ul>
-
-                    </div>
-
-               </div>
-
-                <div class="footer_box2">
-
-                	<div class="footer_nav" style="width: 220px;">
-
-                    	<ul>
-
-                        	<li><a href="http://www.minecraftskins.com/contact-us/">Contact Us</a></li>
-
-                            <li><a href="http://www.minecraftskins.com/terms-and-conditions/">Terms and Conditions</a></li>
-
-                            <li><a href="http://www.minecraftskins.com/privacy-policy/">Privacy Policy</a></li>
-
-				<li><a href="http://www.minecraftskins.com/faq/">FAQ</a></li>
-
-                        </ul>
-
-                    </div>
-
-                </div>
-
-                <div class="footer_box3">
-
-                
-              <div class="user_text">Useful links</div>
-
-                	<div class="footer_nav">
-
-                    	<ul>
-
-                        <li><a href="http://www.minecraft.net/" target="_blank">Official Minecraft's Site</a></li>
-
-
-                        <li><a href="http://minecraft.gamepedia.com/Minecraft_Wiki" target="_blank">Minecraft Wiki</a></li>
-
-
-                        <li><a href="http://www.minecraftforum.net" target="_blank">Minecraft Forum</a></li>
-
-                        <!--<li style="margin-top:6px;"><a href="http://www.minecraftpins.com" target="_blank"><img src="http://www.minecraftskins.com/images/thepindex.png" alt="the pindex at minecraft pins" /></a></li> -->
-
-                       </ul>
-
-
-                    </div>
-
-                
-                </div>
-
-            </div>
-
-        </div>
-
-        <div class="footer_facebook">
-
-<!-- <div id="fb-root"></div> -->
-
-<!-- <script>(function(d, s, id) {
-
-  var js, fjs = d.getElementsByTagName(s)[0];
-
-  if (d.getElementById(id)) return;
-
-  js = d.createElement(s); js.id = id;
-
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-
-  fjs.parentNode.insertBefore(js, fjs);
-
-}(document, 'script', 'facebook-jssdk'));</script>
- -->
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<div class="fb-like-box" data-href="http://www.facebook.com/pages/The-Skindex/267055893359937" data-width="300" data-height="180" data-show-faces="true" data-stream="false" data-header="false"></div>
-
-<!-- <div class="fb-like-box" data-href="http://www.facebook.com/pages/The-Skindex/267055893359937" data-width="300" data-height="180" data-show-faces="true" data-stream="false" data-header="false"></div> -->
-
-        </div>
-
-		
-		<div class="copyclass" style="margin-top: 28px; padding-right: 90px;">© MinecraftSkins.com 2010 - 2017. All rights reserved.</div>
-
-    </div>
-
-
-
-<div id="fb-root"></div>
-
-
-
-<!--<script src="/my_js/instantclick.min.js"></script>-->
-<!--<script  >InstantClick.init();</script>-->
-<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script> -->
+<script src="/bundles/app/js/bootstrap_modal.min.js?v62"></script>
+<script src="/bundles/app/js/moment.min.js?v62"></script>
+<script src="/bundles/app/js/textarea-helper.js?v62"></script>
+<script src="/bundles/app/js/bootstrap_tooltip.js?v62"></script>
 <script>
-  function createCookie(name, value, days) {
-    var expires, date;
-    if (days) {
-        date = new Date();
-        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-        expires = "; expires=" + date.toGMTString();
-    } else expires = "";
-    document.cookie = name + "=" + value + expires + "; path=/";
-  }
-  function eraseCookie(name) {
-      createCookie(name, "", -1);
-  }
-  $('#logoutBtn').click(function() {
-    eraseCookie('bHistory');
-  });
+    // detect visibility of page
+    var vis = (function () {
+        var stateKey, eventKey, keys = {
+            hidden: "visibilitychange",
+            webkitHidden: "webkitvisibilitychange",
+            mozHidden: "mozvisibilitychange",
+            msHidden: "msvisibilitychange"
+        };
+        for (stateKey in keys) {
+            if (stateKey in document) {
+                eventKey = keys[stateKey];
+                break;
+            }
+        }
+        return function (c) {
+            if (c) document.addEventListener(eventKey, c);
+            return !document[stateKey];
+        }
+    })();
+
+    // get sort direction
+    var dir = $('.sortDirection').html();
+    $('.' + dir + 'Sort').css('font-weight', 'bold');
+
+    /**
+     * Like/Dislike voting
+     * @param el
+     * @param num
+     */
+    function voteAction(skin_id, num) {
+        voteSkin(num, skin_id);
+    }
+
+    /**
+     * Function adding K or M for large values
+     * @param val
+     */
+    var likesFilter = function (val) {
+        var likes;
+        if (val >= 9999) {
+            likes = 9999;
+        } else if (val <= -9999) {
+            likes = -9999;
+        } else {
+            likes = val;
+        }
+        return likes;
+    };
+
+    /** Vote for skin
+     * @param vote
+     * @param skin_id
+     */
+    function voteSkin(vote, skin_id) {
+        var likesCount = $('[data-id="' + skin_id + '"]').find('.js-likes-count');
+        var profileLikes = $('.profile-btns').find('[data-role="total-amount-of-upvotes-all-skins"]');
+        if (likesCount.length == 0) {
+            var likesCount = $('.js-limit-likes');
+        }
+        if ((vote < 0 && parseInt(likesCount.html()) <= 9999) || parseInt(likesCount.html()) < 9999) {
+            $.ajax({
+                type: 'post',
+                url: '/add-vote',
+                data: {
+                    skin_id: skin_id,
+                    vote: vote
+                },
+                success: function (data) {
+                    if (data.success) {
+                        $('[data-id="' + skin_id + '"]').find('.js-like-dislike').removeClass('negative-vote').removeClass('positive-vote');
+                        if (vote > 0 && parseInt(likesCount.html()) < 9999) {
+                            var _newLikesCount = parseInt(likesCount.html()) + 1;
+                            likesCount.html(likesFilter(_newLikesCount));
+                            $('.sid-likes span').html(parseInt($('.sid-likes span').html()) + 1);
+                            $('[data-id="' + skin_id + '"]').find('[data-role="like-button"]').addClass('positive-vote');
+                            $('div[data-role="skin-page-like-button"]').addClass('positive-vote');
+                            // increment profile count likes
+                            profileLikes.html(parseInt(profileLikes.text()) + 1);
+                        } else if (vote < 0 && parseInt(likesCount.html()) > -9999) {
+                            var _newLikesCount = parseInt(likesCount.html()) - 1;
+                            likesCount.html(likesFilter(_newLikesCount));
+                            $('.sid-likes span').html(parseInt($('.sid-likes span').html()) - 1);
+                            $('[data-id="' + skin_id + '"]').find('[data-role="dislike-button"]').addClass('negative-vote');
+                            $('div[data-role="skin-page-dislike-button"]').addClass('negative-vote');
+                            // decrement profile count likes
+                            profileLikes.html(parseInt(profileLikes.text()) - 1);
+                        }
+                    } else {
+                        if (data.error === 'not login') {
+                            showNotify('Please <a href="/register/">Register</a> or <a href="/login/">Sign in</a> to vote');
+                        } else {
+                            showNotify(data.error);
+                        }
+                    }
+                },
+                error: function (data) {
+                }
+            });
+        }
+    }
+
+    /**
+     * Unfollow user
+     * @param user_id
+     */
+    function unfollowUser(user_id) {
+        var d = $.Deferred();
+        var data = {
+            user_id: user_id
+        };
+        $.ajax({
+            type: 'post',
+            url: '/profile/actions/act/unfollow-user',
+            data: data,
+            success: function (data) {
+                if (data.success) {
+                    d.resolve(data);
+                } else {
+                    showNotify(data.message);
+                }
+            },
+            error: function (data) {
+                d.reject(data);
+            }
+        });
+        return d;
+    }
+
+    /**
+     * Get count of votes
+     * @param skin_id
+     */
+    function getVoteCount(skin_id) {
+        $.ajax({
+            type: 'post',
+            url: '/get-vote',
+            data: {
+                skin_id: skin_id
+            },
+            success: function (data) {
+                if (data.success === true) {
+                    $('[data-id="' + skin_id + '"]').find('.js-likes-count').html(data.cnt);
+                    $('.sid-likes').html(data.cnt);
+                } else {
+                    showNotify(data.message);
+                }
+            }
+        })
+    }
+
+
+    /**
+     * Set timeout
+     * to prevent multiply overlay
+     */
+    $('a.like-btn').on('click', function () {
+        var like = $(this);
+        if (like.not('.clicked-like')) {
+            like.addClass('clicked-like');
+            setTimeout(function () {
+                like.removeClass('clicked-like');
+            }, 10000)
+        }
+    });
+
+    $('a.dislike-btn').on('click', function () {
+        var like = $(this);
+        if (like.not('.clicked-like')) {
+            like.addClass('clicked-like');
+            setTimeout(function () {
+                like.removeClass('clicked-like');
+            }, 10000)
+        }
+    });
+
+
+    /**
+     * Show modal info
+     * @param ob
+     */
+    function showInfoModal(ob) {
+        var $modal = $('#profile_information_modal');
+        $modal.find('.js-header-information-modal').html(ob.header);
+        $modal.modal('show');
+    }
+
+    trimTitles();
+
+    /**
+     * Trim title
+     */
+    function trimTitles() {
+        var titles = $('span[class^=title]');
+        if (titles.length) {
+            [].forEach.call(titles, function (item) {
+                $(item).attr('data-height', $(item).height());
+                if ($(item).height() < 21) {
+                    $(item).html('<br />' + $(item).html());
+                    $(item).parents('.js-skin-title').addClass('no-grad');
+                }
+                var delta = 0,
+                    flag = 1;
+                checkOverflow(item, flag, delta);
+            });
+            $('.skin-title').css('visibility', 'visible');
+        } else {
+            return false;
+        }
+    };
+
+    /**
+     * Get String length and cut off letters
+     * @param item
+     * @param flag
+     * @param delta
+     */
+    function checkOverflow(item, flag, delta) {
+        if (flag && $(item).height() > 40) {
+            $(item).html($(item).html().substring(0, 40 - delta) + '...');
+            delta += 3;
+            checkOverflow(item, flag, delta);
+        }
+        flag = 0;
+        return false;
+    }
+
+    // Fire events when document ready
+    $(function () {
+
+
+        //prevent shifting content when popup shown
+
+        $('div img[src*=cpm]').addClass('popup-shown');
+
+        if ($(document).width() >= 767) {
+            // desktop view
+            var device = '0';
+            $('html').removeClass('mobile-view');
+            $('.skins-similar .skin').last().show();
+            $('.other-uploads .skin').last().show();
+        } else {
+            // mobile view
+            var device = '1';
+            $('html').addClass('mobile-view');
+            if ($('.skins-similar .skin').length >= 5) {
+                $('.skins-similar .skin').last().hide();
+            }
+            if ($('.other-uploads .skin').length >= 5) {
+                $('.other-uploads .skin').last().hide();
+            }
+        }
+
+
+
+        var scrollTopRealTimeModal = $(window).scrollTop();
+        $('.modal').on('show.bs.modal', function() {
+            scrollTopRealTimeModal = $(window).scrollTop();
+            $('html').attr('data-scroll-top', scrollTopRealTimeModal);
+
+            $('.wrapper').css('height', '100%');
+            $('.wrapper').css('overflow', 'hidden');
+            $(window).scrollTop(scrollTopRealTimeModal);
+            $('body').scrollTop(scrollTopRealTimeModal);
+            console.log("est");
+        })
+
+
+        // SlideUp user info block
+        $(document).on('click', function (e) {
+
+            $('.open-menu .logo a').on('click', function (e) {
+                $( 'html' ).hasClass( "open-menu" ) ? e.preventDefault() : "";
+            });
+
+            $('.open-menu .footer').on('click', function (e) {
+                $( 'html' ).hasClass( "open-menu" ) ? e.preventDefault() : "";
+            });
+
+//            $('.modal-open *').on('click', function (e) {
+//                $( 'html' ).hasClass( "modal-open" ) ? e.preventDefault() : "";
+//            });
+
+//
+
+            $('.modal').on('show.bs.modal', function () {
+                console.log('1');
+                document.ontouchmove = function (e) {
+                       return false;
+                    }
+            });
+
+            $('.modal').on('hidden.bs.modal', function () {
+                console.log('2');
+                document.ontouchmove = function (e) {
+                    return true;
+                }
+            });
+
+
+
+            var scrollTopRealTime = $('html').attr('data-scroll-top');
+            // ScrollTop & prevent scrolling background contrnt when mobile menu open
+            if ( (document.body.classList.contains('open-menu')) || (document.body.classList.contains('modal-open')) ) {
+                $('body').scrollTop(scrollTopRealTime);
+            }
+
+
+            var target = $(e.target);
+            if (!$(e.target).is('.user-info') && !$(e.target).is('.auth-dropdown a') && $(e.target).parents('.user-info').length == 0) {
+
+                if ($('.auth-dropdown').is(':visible')) {
+                    e.preventDefault();
+
+                    $('.auth-dropdown').slideUp();
+                    return false;
+                }
+            }
+
+            if ($('.header__menu').is('.open-menu')) {
+                if (target.parents(".mobile__menu").length == 0 && !target.is('.mobile-menu') && target.parents(".user-info").length == 0 && !target.is('.profile-log.open-menu') && !target.is('.auth-dropdown li') && !target.is('.user-info') && !
+                        target.is('.header__menu.open-menu') && !target.is(".header__menu.open-menu li") && target.parents(".mobile__menu").length == 0 && !target.is(".header__menu.open-menu .change-resolution-todesktop")) {
+                    $('.header').removeClass('open-menu');
+                    $('.wrapper').removeClass('open-menu');
+                    $('html').removeClass('open-menu');
+                    $('.header__menu').removeClass('open-menu');
+                    $('.footer').removeClass('open-menu');
+                    $('.site-overlay').removeClass('shadow');
+                    $('.content').removeClass('open-menu');
+                    $('body').removeClass('open-menu');
+                    $('.auth, .profile-log').removeClass('open-menu');
+//                    var scrollTopRealTime = $('html').attr('data-scroll-top');
+                    $(window).scrollTop(scrollTopRealTime);
+
+                }
+            }
+        });
+
+
+        if ($('.header__menu-outer > ul > li:first-child > a').hasClass('selected_menu_item')) {
+            $('.header__menu-outer ul li:first-child').addClass('red-border');
+        }
+
+        // Document 'Click' event for showing user info
+        $(document).on('click', '.user-info', function () {
+            $('.auth-dropdown ').slideToggle();
+        });
+
+        // Send like
+        $(document).on('click', '[data-role="like-button"]', function (e) {
+            e.preventDefault();
+            var skin_id = $(this).parents('[data-role="skin-wrapper"]').data('id');
+            voteAction(skin_id, 1);
+        });
+
+        // Send dislike
+        $(document).on('click', '[data-role="dislike-button"]', function (e) {
+            e.preventDefault();
+            var skin_id = $(this).parents('[data-role="skin-wrapper"]').data('id');
+            voteAction(skin_id, -1);
+        });
+
+        /*Select2*/
+        $(".js-example-basic-single").select2();
+        $('select.js-example-basic-single').select2({
+            minimumResultsForSearch: -1
+        });
+
+        /*Start: Prevent scrolling bg under popup*/
+        var scrollTopRealTime;
+        $('.modal').on('shown.bs.modal', function () {
+
+            scrollTopRealTime = $(window).scrollTop();
+
+            if ($('html').attr('data-modal-opened') == 'false' || !$('html').attr('data-modal-opened')) {
+                $('html').attr('data-modal-opened', true);
+                var scrolled = $(window).scrollTop();
+                $('html').addClass('modal-open');
+                $('html').addClass('modal-open');
+            }
+
+            var $modal = $(this);
+            var h = $modal.find('.modal-content').outerHeight();
+            var currentHeight = ($(window).height());
+            var modalTopMargin = ( (currentHeight / 2) - (h / 2) );
+
+            if (modalTopMargin < 0) {
+                modalTopMargin = 0;
+                $modal.css('z-index', 9999999);
+            }
+
+            if (modalTopMargin < 50 && modalTopMargin != 0) {
+                modalTopMargin = 60;
+            }
+            $modal.find('.modal-content').css("top", modalTopMargin + 'px');
+        });
+
+        $(window).on('orientationchange', function () {
+            var $modal = $('.modal.in');
+            if (navigator.userAgent.match(/iPhone|iPad/i)) {
+                // if Iphone or Ipad
+                var h_modal = $modal.find('.modal-content').outerHeight();
+                if ($(window).innerHeight() > $(window).innerWidth()) {
+                    //Portrait
+                    var currentHeightIphone = ($(window).innerHeight());
+                } else {
+                    //Landscape
+                    var currentHeightIphone = ($(window).innerWidth());
+                }
+
+                var modalTopMarginIphone = ( (currentHeightIphone / 2) - (h_modal / 2) );
+
+                if (modalTopMarginIphone < 0) {
+                    modalTopMarginIphone = 0;
+                    $modal.css('z-index', 9999999);
+                }
+
+                if (modalTopMarginIphone < 50 && modalTopMarginIphone != 0) {
+                    modalTopMarginIphone = 60;
+                }
+
+                $modal.find('.modal-content').css("top", modalTopMarginIphone + 'px');
+            } else {
+                var h = $modal.find('.modal-content').outerHeight();
+                var currentHeight = ($(window).height());
+                var modalTopMargin = ( (currentHeight / 2) - (h / 2) );
+
+                if (modalTopMargin < 0) {
+                    modalTopMargin = 0;
+                    $modal.css('z-index', 9999999);
+                }
+
+                if (modalTopMargin < 50 && modalTopMargin != 0) {
+                    modalTopMargin = 60;
+                }
+                $modal.find('.modal-content').css("top", modalTopMargin + 'px');
+            }
+        });
+
+
+        $('.modal').on('hidden.bs.modal', function () {
+
+            $(window).scrollTop(scrollTopRealTime);
+
+            if ($('.modal.in').length >= 1) {
+                $('body').css('padding-right', 17);
+            } else {
+                $('html').attr('data-modal-opened', false);
+                $('html').removeClass('modal-open');
+                $('html').css('position', 'relative');
+                $('html').css('margin-top', 0);
+                $('body').css('padding-right', 0);
+            }
+        });
+        /*End: Prevent scrolling bg under popup*/
+        var resizeTimer;
+        $(window).on('resize', function () {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(function () {
+                var _this = this;
+                if ($(document).width() >= 767) {
+                    // desktop view
+                    var device = '0';
+                    $('html').removeClass('mobile-view');
+                    $('.skins-similar .skin').last().show();
+                    $('.other-uploads .skin').last().show();
+                } else {
+                    // mobile view
+                    var device = '1';
+                    $('html').addClass('mobile-view');
+                    if ($('.skins-similar .skin').length >= 5) {
+                        $('.skins-similar .skin').last().hide();
+                    }
+                    if ($('.other-uploads .skin').length >= 5) {
+                        $('.other-uploads .skin').last().hide();
+                    }
+                }
+
+                var $modal = $('.modal.in');
+                if (navigator.userAgent.match(/iPhone|iPad/i)) {
+                    // if Iphone or Ipad
+                    var h_modal = $modal.find('.modal-content').outerHeight();
+
+                    if ($(window).innerHeight() > $(window).innerWidth()) {
+                        //Portrait
+
+                        var currentHeightIphone = ($(window).innerHeight());
+                    } else {
+
+                        //Landscape
+                        var currentHeightIphone = ($(window).innerWidth());
+                    }
+                    var modalTopMarginIphone = ( (currentHeightIphone / 2) - (h_modal / 2) );
+
+
+                    if (modalTopMarginIphone < 0) {
+                        modalTopMarginIphone = 0;
+                        $modal.css('z-index', 9999999);
+                    }
+
+                    if (modalTopMarginIphone < 50 && modalTopMarginIphone != 0) {
+                        modalTopMarginIphone = 60;
+                    }
+
+                    $modal.find('.modal-content').css("top", modalTopMarginIphone + 'px');
+                } else {
+                    var h = $modal.find('.modal-content').outerHeight();
+                    var currentHeight = ($(window).height());
+                    var modalTopMargin = ( (currentHeight / 2) - (h / 2) );
+
+                    if (modalTopMargin < 0) {
+                        modalTopMargin = 0;
+                        $modal.css('z-index', 9999999);
+                    }
+
+                    if (modalTopMargin < 50 && modalTopMargin != 0) {
+                        modalTopMargin = 60;
+                    }
+                    $modal.find('.modal-content').css("top", modalTopMargin + 'px');
+                }
+
+                if ($('#editorP').is(':visible')) {
+                    localStorage.setItem('editorWidth', $('#editorP').width());
+                    if ($('#editorP').width() > '540') {
+                        var editorWidth = $('#editorP').width();
+                        var modelWidth = $('#model-preview').width();
+                        var newMargin = (editorWidth - modelWidth) / 2;
+                    }
+                }
+
+                if (localStorage.getItem('new-device') !== device && !md.mobile()) {
+                    $.ajax({
+                        type: 'post',
+                        url: '/change-orientation',
+                        data: {
+                            device: device
+                        },
+                        success: function (data) {
+                            if (data.success) {
+                                localStorage.setItem('new-device', device);
+                                _this.location.href = _this.location.href;
+                            }
+                        },
+                        error: function (data) {
+                        }
+                    });
+                }
+            }, 250);
+        });
+    });
 </script>
-
-
-
-<!-- Start of StatCounter Code for Default Guide -->
+<script>
+    if ($('.user-info').data('user') === 1) {
+        window.location.replace(window.location.protocol + '//' + window.location.hostname + $('.logoutBtn').attr('href'));
+    }
+</script>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-84150335-1', 'auto');
+    ga('send', 'pageview');
+</script>
 <script type="text/javascript">
-var sc_project=6759049;
-var sc_invisible=1;
-var sc_security="9fed2955";
-var sc_https=1;
-var sc_remove_link=1;
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
+    var sc_project = 6759049;
+    var sc_invisible = 1;
+    var sc_security = "9fed2955";
+    var sc_https = 1;
+    var sc_remove_link = 1;
+    var scJsHost = (("https:" == document.location.protocol) ?
+        "https://secure." : "http://www.");
+    document.write("<sc" + "ript type='text/javascript' src='" +
+        scJsHost +
+        "statcounter.com/counter/counter.js'></" + "script>");
 </script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
-<noscript><div class="statcounter"><img class="statcounter"
-src="//c.statcounter.com/6759049/0/9fed2955/1/" alt="create
-counter"></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
-
-<!-- BEGIN CPMSTAR TWO-SIDED ASYNCHRONOUS SITESKIN CODE 20130626 -->
-<script type="text/javascript">
-var cpmstar_siteskin_settings = {
-pid: 26859, //your poolid
-centerWidth: '996px', //distance IN PIXELS of ad from left side of page, e.g. "800px"
-fixed: '1', //fix ads near top of screen: "0" to allow ads to scroll with page
-topPos: '10px', //optionally shift the ad down from top of page
-zIndex: 100 //adjust layering of ad vs. other page elements
-};
-(function(){var t=document.createElement('script');t.type='text/javascript';t.async=1;t.src=(document.location.protocol == "https:"?"//server":"//cdn") + ".cpmstar.com/cached/js/siteskin_v100.pack.js";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(t,s);})();
-</script>
-<!-- END CPMSTAR SITESKIN CODE -->
+<noscript>
+    <div class="statcounter"><img class="statcounter" src="//c.statcounter.com/6759049/0/9fed2955/1/"
+                                  alt="create counter"></div>
+</noscript>
+<script>
+        //formating
+        $('.content ul,.content li, .content ol').css('marginLeft', '30px');
+    </script>
 
 
-
-
-
-</body></html>
+<cloudflare-app app="tibrr-cookie-consent" style="background-color: rgb(25, 25, 25); opacity: 1; bottom: 0px; z-index: 1000000;"><div class="tibrr-cookie-consent-container"><div class="tibrr-cookie-consent-text" style="font-size: 14px; color: rgb(255, 255, 255);">We use cookies to offer you a better browsing experience, analyze site traffic, personalize content, and serve targeted ads. Read about how we use cookies and how you can control them on our Privacy Policy. If you continue to use this site, you consent to our use of cookies. <a title="Learn More" href="https://web.archive.org/web/20181006120622/https://www.minecraftskins.com/privacy-policy/" target="_blank">Learn More</a></div><div class="tibrr-cookie-consent-button"><button style="border-color: rgb(0, 0, 0); font-size: 16px;">OK</button></div></div><style>cloudflare-app[app="tibrr-cookie-consent"] > .tibrr-cookie-consent-container > .tibrr-cookie-consent-button > button {background-color: #f4a830; color: #ffffff;} cloudflare-app[app="tibrr-cookie-consent"] > .tibrr-cookie-consent-container > .tibrr-cookie-consent-button > button:hover {background-color: #ffffff; color: #000000;} cloudflare-app[app="tibrr-cookie-consent"] > .tibrr-cookie-consent-container > .tibrr-cookie-consent-text > a {color: #497cc9} cloudflare-app[app="tibrr-cookie-consent"] > .tibrr-cookie-consent-container > .tibrr-cookie-consent-text > a:hover {color: #559bbd}</style></cloudflare-app></body></html>
