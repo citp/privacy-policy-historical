@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the influence.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606233721id_/https%3A//influence.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influence.co privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122195706id_/https%3A//influence.co/privacy-policy) for the most accurate reproduction.*
 
 # Influence.co | Privacy Policy
 
