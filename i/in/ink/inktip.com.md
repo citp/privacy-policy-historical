@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inktip.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628230103id_/https%3A//www.inktip.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inktip.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122141537id_/http%3A//www.inktip.com/privacy_policy.php) for the most accurate reproduction.*
 
 # InkTip - Privacy Policy
 
@@ -56,7 +56,7 @@ Members may opt-out of receiving future mailings; see the choice/opt-out section
 
 InkTip periodically sends our members electronic information we believe to be of value, including a free weekly e-newsletter. If a member wishes to opt-out of receiving such information, instructions will be provided on every newsletter for simple removal from our list. 
 
-To discontinue receiving future communications or to no longer receive our service, please [unsubscribe here](https://web.archive.org/web/20180628230103id_/https%3A//www.inktip.com/unsubscribe.php), or [send an email with the subject 'Opt Out'](mailto:jerrol@inktip.com?subject=Opt%20Out).
+To discontinue receiving future communications or to no longer receive our service, please [unsubscribe here](https://web.archive.org/web/20181122141537id_/http%3A//www.inktip.com/unsubscribe.php), or [send an email with the subject 'Opt Out'](mailto:jerrol@inktip.com?subject=Opt%20Out).
 
 InkTip does not give out, sell, broker or otherwise distribute mailing lists, contact information or personal demographics information to third party companies or non-members. 
 
