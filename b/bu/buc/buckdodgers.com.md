@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buckdodgers.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523104526id_/http%3A//www.buckdodgers.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buckdodgers.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122162246id_/http%3A//www.buckdodgers.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
 # BuckDodgers Free Classifieds - Post Anything
 
