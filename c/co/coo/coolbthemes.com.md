@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolbthemes.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701010537id_/http%3A//www.coolbthemes.com/2001/04/privacy-policy-cool-blogger-templates.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbthemes.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123090739id_/http%3A//www.coolbthemes.com/2001/04/privacy-policy-cool-blogger-templates.html) for the most accurate reproduction.*
 
 # Privacy Policy | Cool Blogger Templates | Cool Blog Templates | Premium Blogger Templates | New Wordpress Templates
 
