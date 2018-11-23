@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decathlon.in privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522060657id_/https%3A//www.decathlon.in/index.php%3Fid_cms%3D69%26controller%3Dcms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decathlon.in privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123215103id_/https%3A//www.decathlon.in/index.php%3Fid_cms%3D69%26controller%3Dcms) for the most accurate reproduction.*
 
 # Privacy-Policy-Decathlon - Decathlon
 
@@ -13,13 +13,13 @@
 
 
 
-* Mobile/Email/Landline
+* Mobile and Email
 
 * First name/Last name
 
 * Postal code
 
-* Opt-in preference SMS/EMail
+* Opt-in preference SMS/Email
 
   * This data helps us make sure that we take every measure to make sure that our customers are safe while using any of our products during their sporting activities. Production in bulk can sometimes lead to defective manufacturing. As and when we identify this, we make sure the customers are contacted and made aware of the risk.
   * Through various forms which are embedded in the communication that we send across to our customers.
