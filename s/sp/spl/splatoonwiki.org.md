@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the splatoonwiki.org privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901101040id_/https%3A//splatoonwiki.org/wiki/Inkipedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splatoonwiki.org privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123195357id_/https%3A//splatoonwiki.org/wiki/Inkipedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Inkipedia:Privacy policy - Inkipedia, the Splatoon wiki
 
 ## General scope
 
-This policy covers personally identifiable information collected or stored by [Inkipedia](https://web.archive.org/wiki/Inkipedia:About "Inkipedia:About") on its servers in relation to the pages and their communities. Consistent with its Data Retention Policy, Inkipedia collects and retains the least amount of personally identifiable information needed to fulfil the site's operational needs.
+This policy covers personally identifiable information collected or stored by [Inkipedia](https://web.archive.org/wiki/Inkipedia:About "Inkipedia:About") on its servers in relation to the pages and their communities. Consistent with its Data Retention Policy, Inkipedia collects and retains the least amount of personally identifiable information needed to fulfil the site's operational needs. 
 
 ## The public and collaborative nature of the pages
 
-All pages on Inkipedia are collaboratively developed by its users using the MediaWiki software. Anyone with Internet access (and not otherwise restricted from doing so) may edit the publicly editable pages of these sites with or without logging in as a registered user. By doing this, editors create a published document, and a public record of every word added, subtracted, or changed. This is a public act, and editors are identified publicly as the author of such changes. All contributions made to a page, and all publicly available information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions.
+All pages on Inkipedia are collaboratively developed by its users using the MediaWiki software. Anyone with Internet access (and not otherwise restricted from doing so) may edit the publicly editable pages of these sites with or without logging in as a registered user. By doing this, editors create a published document, and a public record of every word added, subtracted, or changed. This is a public act, and editors are identified publicly as the author of such changes. All contributions made to a page, and all publicly available information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions. 
 
 ## Activities on Inkipedia pages
 
-In general, this Policy only applies to private information stored or held by Inkipedia which is not publicly available.
+In general, this Policy only applies to private information stored or held by Inkipedia which is not publicly available. 
 
-Interactions with pages not covered by this Policy include, but are not limited to, aspects of browsing and editing pages, use of the wiki "[email user](https://web.archive.org/wiki/Special:EmailUser "Special:EmailUser")" function, and subscribing and posting to Inkipedia hosted email lists. These interactions may reveal a contributor's IP address or username, and possibly other personal information, indiscriminately to the general public, or to specific groups of volunteers acting independently of Inkipedia.
+Interactions with pages not covered by this Policy include, but are not limited to, aspects of browsing and editing pages, use of the wiki "[email user](https://web.archive.org/wiki/Special:EmailUser "Special:EmailUser")" function, and subscribing and posting to Inkipedia hosted email lists. These interactions may reveal a contributor's IP address or username, and possibly other personal information, indiscriminately to the general public, or to specific groups of volunteers acting independently of Inkipedia. 
 
-Users may also interact with one another outside of Inkipedia, via email, IRC or other chat, or independent websites, and should assess the risks involved, and their personal need for privacy, before using these methods of communication.
+Users may also interact with one another outside of Inkipedia, via email, IRC or other chat, or independent websites, and should assess the risks involved, and their personal need for privacy, before using these methods of communication. 
 
 ## 
 
-Where Inkipedia allows anyone to edit without [signing-in](https://web.archive.org/wiki/Special:UserLogin "Special:UserLogin") with a username, users are identified by network IP address. Users that do register and sign-in are identified by their chosen username. Users select a password, which is confidential and used to verify the integrity of their account. Except insofar as it may be required by law, no person should disclose, or knowingly expose, either user passwords and/or cookies generated to identify a user. Once created, user accounts will not be removed.
+Where Inkipedia allows anyone to edit without [signing-in](https://web.archive.org/wiki/Special:UserLogin "Special:UserLogin") with a username, users are identified by network IP address. Users that do register and sign-in are identified by their chosen username. Users select a password, which is confidential and used to verify the integrity of their account. Except insofar as it may be required by law, no person should disclose, or knowingly expose, either user passwords and/or cookies generated to identify a user. Once created, user accounts will not be removed. 
 
 ## Purpose of the collection of private information
 
-Inkipedia limits the collection of personally identifiable user data to purposes which serve the well-being of its pages, including but not limited to the following:
+Inkipedia limits the collection of personally identifiable user data to purposes which serve the well-being of its pages, including but not limited to the following: 
 
     To enhance the public accountability of the pages. Inkipedia recognizes that any system that is open enough to allow the greatest possible participation of the general public will also be vulnerable to certain kinds of abuse and counter-productive behavior. Inkipedia and the page communities have established a number of mechanisms to prevent or remedy abusive activities. For example, when investigating abuse on a page, including the suspected use of malicious "sockpuppets" (duplicate accounts), vandalism, harassment of other users, or disruptive behavior, the IP addresses of users (derived either from those logs or from records in the database) may be used to identify the source(s) of the abusive behavior. This information may be shared by users with administrative authority who are charged by their communities with protecting the pages.
     To provide site statistics. Inkipedia statistically samples raw log data from users' visits. These logs are used to produce the site statistics pages; the raw log data is not made public.
@@ -84,15 +84,15 @@ Inkipedia limits the collection of personally identifiable user data to purposes
 
 Policy on Access of Data
 
-Pages are developed by volunteer contributors. Some dedicated users are chosen by the community to be given privileged access. For example, users who actively patrol edits and clean up vandalism may be promoted with rollback privileges or sysop status. User group rights and group members are reachable in every page from the Special:ListGroupRights page.
+Pages are developed by volunteer contributors. Some dedicated users are chosen by the community to be given privileged access. For example, users who actively patrol edits and clean up vandalism may be promoted with rollback privileges or sysop status. User group rights and group members are reachable in every page from the Special:ListGroupRights page. 
 
-Other users who may have access to private identifiable information include, but are not limited to, users who have access to the CheckUser and Oversight functions, Inkipedia employees, and contractors and agents employed by the Inkipedia, and developers and others with high levels of server access.
+Other users who may have access to private identifiable information include, but are not limited to, users who have access to the CheckUser and Oversight functions, Inkipedia employees, and contractors and agents employed by the Inkipedia, and developers and others with high levels of server access. 
 
-Access to and publication of this information is governed by the Access to nonpublic data policy, as well as specific policies covering some of the functions in question. Sharing information with other privileged users is not considered "distribution."
+Access to and publication of this information is governed by the Access to nonpublic data policy, as well as specific policies covering some of the functions in question. Sharing information with other privileged users is not considered "distribution." 
 
 Policy on Release of Data
 
-It is the policy of Inkipedia that personally identifiable data collected in the server logs, or through records in the database via the CheckUser feature, or through other non-publicly-available methods, may be released by Inkipedia volunteers or staff, in any of the following situations:
+It is the policy of Inkipedia that personally identifiable data collected in the server logs, or through records in the database via the CheckUser feature, or through other non-publicly-available methods, may be released by Inkipedia volunteers or staff, in any of the following situations: 
 
   1. In response to a valid subpoena or other compulsory request from law enforcement,
   2. With permission of the affected user,
@@ -103,18 +103,18 @@ It is the policy of Inkipedia that personally identifiable data collected in the
 
 
 
-Except as described above, Inkipedia policy does not permit distribution of personally identifiable information under any circumstances.
+Except as described above, Inkipedia policy does not permit distribution of personally identifiable information under any circumstances. 
 
-Third-party access and notifying registered users when receiving legal process:
+Third-party access and notifying registered users when receiving legal process: 
 
-As a general principle, the access to, and retention of, personally identifiable data in all pages should be minimal and should be used only internally to serve the well-being of the pages. Occasionally, however, Inkipedia may receive a subpoena or other compulsory request from a law-enforcement agency or a court or equivalent government body that requests the disclosure of information about a registered user, and may be compelled by law to comply with the request. In the event of such a legally compulsory request, Inkipedia will attempt to notify the affected user within three business days after the arrival of such subpoena by sending a notice by email to the email address (if any) that the affected user has listed in his or her user preferences.
+As a general principle, the access to, and retention of, personally identifiable data in all pages should be minimal and should be used only internally to serve the well-being of the pages. Occasionally, however, Inkipedia may receive a subpoena or other compulsory request from a law-enforcement agency or a court or equivalent government body that requests the disclosure of information about a registered user, and may be compelled by law to comply with the request. In the event of such a legally compulsory request, Inkipedia will attempt to notify the affected user within three business days after the arrival of such subpoena by sending a notice by email to the email address (if any) that the affected user has listed in his or her user preferences. 
 
-Inkipedia cannot advise a user receiving such a notification regarding the law or an appropriate response to a subpoena. Inkipedia does note, however, that such users may have the legal right to resist or limit that information in court by filing a motion to quash the subpoena. Users who wish to oppose a subpoena or other compulsory request should seek legal advice concerning applicable rights and procedures that may be available.
+Inkipedia cannot advise a user receiving such a notification regarding the law or an appropriate response to a subpoena. Inkipedia does note, however, that such users may have the legal right to resist or limit that information in court by filing a motion to quash the subpoena. Users who wish to oppose a subpoena or other compulsory request should seek legal advice concerning applicable rights and procedures that may be available. 
 
-If Inkipedia receives a court-filed motion to quash or otherwise limit the subpoena as a result of action by a user or their lawyer, Inkipedia will not disclose the requested information until it receives an order from the court to do so.
+If Inkipedia receives a court-filed motion to quash or otherwise limit the subpoena as a result of action by a user or their lawyer, Inkipedia will not disclose the requested information until it receives an order from the court to do so. 
 
-Registered users are not required to provide an email address. However, when an affected registered user does not provide an email address, Inkipedia will not be able to notify the affected user in private email messages when it receives requests from law enforcement to disclose personally identifiable information about the user.
+Registered users are not required to provide an email address. However, when an affected registered user does not provide an email address, Inkipedia will not be able to notify the affected user in private email messages when it receives requests from law enforcement to disclose personally identifiable information about the user. 
 
 ## Disclaimer
 
-Inkipedia believes that maintaining and preserving the privacy of user data is an important value. This Privacy Policy, together with other policies, resolutions, and actions by Inkipedia, represents a committed effort to safeguard the security of the limited user information that is collected and retained on our servers. Nevertheless, Inkipedia cannot guarantee that user information will remain private. We acknowledge that, in spite of our committed effort to protect private user information, determined individuals may still develop data-mining and other methods to uncover such information and disclose it. For this reason, Inkipedia can make no guarantee against unauthorized access to information provided in the course of participating in Inkipedia pages or related communities.
+Inkipedia believes that maintaining and preserving the privacy of user data is an important value. This Privacy Policy, together with other policies, resolutions, and actions by Inkipedia, represents a committed effort to safeguard the security of the limited user information that is collected and retained on our servers. Nevertheless, Inkipedia cannot guarantee that user information will remain private. We acknowledge that, in spite of our committed effort to protect private user information, determined individuals may still develop data-mining and other methods to uncover such information and disclose it. For this reason, Inkipedia can make no guarantee against unauthorized access to information provided in the course of participating in Inkipedia pages or related communities. 
