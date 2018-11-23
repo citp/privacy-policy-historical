@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224020707id_/https%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123123637id_/https%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Our Privacy Pledge
 
-RateSupermarket.ca believes in protecting the personal information that you provide us at www.ratesupermarket.ca. We have made safe computing and the protection of your privacy an important priority. RateSupermarket.ca provides mortgage rates, credit card comparisons, banking rates and insurance quotes with minimal personal information. Except where mandated by the government and its regulatory bodies or the courts, the personal information that you share with us will not be shared with third parties without your prior consent.
+RateSupermarket.ca owned and operated by Kanetix Ltd., believes in protecting the personal information that you provide us at www.ratesupermarket.ca. We have made safe computing and the protection of your privacy an important priority.
+
+RateSupermarket.ca provides mortgage rates, credit card comparisons, banking rates and insurance quotes with minimal personal information. Except where mandated by the government and its regulatory bodies or the courts, the personal information that you share with us will not be shared with third parties without your prior consent.
 
 ## Security
 
-Entering personal data on RateSupermarket.ca is not only easy but also safe. RateSupermarket.ca uses SSL (Secure Socket Layer) protocol, among the best Internet security software in the world, and Entrust.net certificates for securing the exchange of confidential data. This security technology encrypts the personal information that you send us (including things like names, addresses, emails and telephone numbers), so it cannot be read by anyone as it travels over the Internet. We will evaluate and adopt new security technology as it becomes available.
+Entering personal data on RateSupermarket.ca is not only easy but also safe. RateSupermarket.ca uses SSL (Secure Socket Layer) protocol, among the best Internet security software in the world, and DigiCert Inc. for securing the exchange of confidential data. This security technology encrypts the personal information that you send us (including things like names, addresses, emails and telephone numbers), so it cannot be read by anyone as it travels over the Internet. We will evaluate and adopt new security technology as it becomes available.
 
 You can find out when the secure SSL connection is activated by looking for the key or padlock icon in the lower corner of your browser window. If the key becomes whole, or the padlock becomes closed, this indicates that the browser is now in "secure" mode.
 
@@ -24,31 +26,27 @@ Cookie technology can save you time by eliminating the need to re-enter frequent
 
 We use both session ID and persistent cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. If you choose to tick the box indicating you would like to be remembered, a persistent cookie is set so you dont have to reenter your login information more than once. If you later decide that you would no longer like to be remembered, the cookie will be removed when you log off. You can also remove persistent cookies by following directions provided in your Internet browser help file.
 
+RateSupermarket.ca and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
+
 ## Log files
 
 As is true of most Web sites, we and our third party tracking-utility partner to gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track user movement around the site and to gather demographic information about our user base as a whole.
+We use this information, to analyze trends, to administer the site, to track user movement around the site and to gather demographic information about our user base as a whole.
 
 ## Advertising
 
-We partner with a third party ad network to manage our advertising on other sites as well as within our site. Our ad network partner uses cookies to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests and your actions on our site. We do not have access or control over these cookies. If you wish to not have this information used to serve you targeted ads, you may opt-out of being served targeted ads by visiting <http://www.networkadvertising.org/choices/>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads. Please note that you have the option to set your browser to decline our cookies. If you choose not to receive cookies from RateSupermarket.ca, you may not be able to use all the services available on the site. These cookies are not tied to your personal information.
+We partner with a third party to display advertising on our website or to manage our advertising on other sites, including ads pertaining to our clients' products. Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising [click here.](http://preferences-mgr.truste.com/) Kanetix Ltd adheres to the Digital Advertising Alliance of Canada’s (the DAAC) self-regulatory principles for online behavioral advertising. You may also visit the[ Adchoices consumer opt out ](http://youradchoices.ca/Choices)page to learn more about interest based advertising and manage your ad preferences. Please note you will continue to receive generic ads.
 
 ## Collecting information
 
 We gather and store data about online usage on a collective rather than individual basis. For example, like most websites, we gather aggregate information about the number of visitors that visit our website and the pages that they view, NOT what pages were viewed by each individual. We use this information to anticipate bottlenecks, to gauge the capacity of our servers, and to improve the overall management of our website.
-
-We also use Tradedoubler to track visitors coming from our affiliate sites. This pixel tracking information helps determine the payments we are obliged to make to our affiliates for the traffic they send to us. We also use a third party tracking-utility company which uses pixel tracking to help us better manage content on our site by informing us what content is effective.
-
-Please note that our online usage and affiliate tracking systems do not gather or store personal information.
 
 ## Collecting personal identifiable information
 
 RateSupermarket.ca offers visitors the option to find rates for finanical products and personalized quotes and gathers personal information as part of these processes. Depending on the province, this may include obtaining your credit score from a credit reporting agency, or require you to provide details regarding your credit history. This information, along with the other details you enter will be used to provide you with a personalized offer and to determine the payment options that will be available to you.
 
 Also, from time to time, RateSupermarket.ca requests and collects personal information from visitors via surveys, contests, "Refer-a-friend", promotional offers and Renewal Reminder services. Participation is completely voluntary (opt-in). Information requested has included your email address and that of the friend you are referring.
-
-Finally, you can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 ## Communication of personal Information
 
@@ -68,7 +66,7 @@ If you choose to use our referral service to refer a friend about our site, we w
 
 Our surveys are used to identify consumer insights or improve visitor satisfaction with our site. The Refer-a-friend service sends an email to a friend informing him/her about our site. With our Renewal Reminder service, visitors can elect to have an email reminder sent to them before their insurance policy or mortgage rate expires.
 
-We will use the email address you provide us to send you copies of the insurance quotes and rate searches you have requested to obtain a copy for your records.
+We will use the email address you provide us to send you copies of the insurance quotes and rate searches you have requested so you have a copy for your records.
 
 ## Policy holder information
 
@@ -92,7 +90,7 @@ We post customer testimonials on our web site which may contain personal informa
 
 ## How can you change your personal information?
 
-You can change your username (email address) and password online in the Your RateSupermarket.ca Account section of the site or you can update your personal information by calling us at 1 (866) 462-4779 or writing to us at 360 Adelaide Street West, Suite 100, Toronto, Ontario, M5V 1R7.
+Upon request RateSupermarket.com will provide you with information about whether we hold any of your personal information. You can change your username (email address) and password online in the Your RateSupermarket.ca Account section of the site or you can update your personal information by calling us at 1 (866) 462-4779 or writing to us at 360 Adelaide Street West, Suite 100, Toronto, Ontario, M5V 1R7. We will respond to your request within a reasonable timeframe.
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel, delete or remove your account, or request that we no longer use your information to provide you services you can email us at customercare(at)ratesupermarket.ca. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -118,10 +116,6 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-## Single Sign-On
-
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
-
 ## Supplementation of personal information
 
 We may obtain information about you from third parties when you provide us with your driver's licence such as name and date of birth. We use this information in order to make it easier for you to use our site and services.
@@ -132,9 +126,12 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 ## Legal disclaimer
 
-We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website.  
+We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website or in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
 In the event RateSupermarket.ca goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information will likely be among the assets transferred. You will be notified via prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
 
 ## If you have any concerns
 
 We are committed to providing excellent service to you. However, if you have a concern or complaint, please contact us, because we are also committed to working with you to achieve a resolution and following through to a successful conclusion as quickly as possible. In most cases, complaints are resolved simply by discussing it with us. You should be able to get swift results by calling one of our customer associates at 1 (866) 462-4779, emailing us at customercare(at)ratesupermarket.ca or by writing to us at: RATESUPERMARKET.CA 360 Adelaide Street West, Suite 100, Toronto ON, M5V 1R7
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request ](https://feedback-form.truste.com/watchdog/request).
