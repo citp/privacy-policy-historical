@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enfuzed.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312033515id_/http%3A//enfuzed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enfuzed.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123225140id_/http%3A//enfuzed.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | Enfuzed
 
@@ -52,7 +52,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://enfuzed.com/terms/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://enfuzed.com/terms/](https://web.archive.org/web/20181123225140id_/http%3A//enfuzed.com/terms/index.html)
 
 ## Your Consent
 
@@ -68,7 +68,7 @@ This policy was last modified on February 28, 2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-<http://enfuzed.com/>
+[http://enfuzed.com/](https://web.archive.org/web/20181123225140id_/http%3A//enfuzed.com/index.html)
 
 United States  
 info[@]enfuzed.com
