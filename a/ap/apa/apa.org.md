@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apa.org privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619131233id_/http%3A//www.apa.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apa.org privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123045354id_/http%3A//www.apa.org/about/privacy.aspx) for the most accurate reproduction.*
 
 # APA Privacy Policy
 
