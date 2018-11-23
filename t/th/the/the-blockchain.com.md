@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the the-blockchain.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530184813id_/http%3A//www.the-blockchain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-blockchain.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123183231id_/https%3A//www.the-blockchain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blockchain News
 
 Your privacy is important to Blockchain News. This privacy statement provides information about the personal information that Blockchain News collects, and the ways in which Blockchain News uses that personal information.
 
- **Personal information collection**
+**Personal information collection**
 
 Blockchain News may collect and use the following kinds of personal information:
 
@@ -16,7 +16,7 @@ Blockchain News may collect and use the following kinds of personal information:
 
 
 
- **Using personal information**
+**Using personal information**
 
 Blockchain News may use your personal information to:
 
@@ -36,7 +36,7 @@ Where Blockchain News discloses your personal information to its agents or sub-c
 
 In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Blockchain News may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
 
- **Securing your data**
+**Securing your data**
 
 Blockchain News will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
@@ -44,7 +44,7 @@ Blockchain News will store all the personal information you provide [on its secu
 
 [Information relating to electronic transactions entered into via this website will be protected by encryption technology.]
 
- **Cross-border data transfers**
+**Cross-border data transfers**
 
 Information that Blockchain News collects may be stored and processed in and transferred between any of the countries in which Blockchain News operates to enable the use of the information in accordance with this privacy policy.
 
@@ -52,19 +52,19 @@ Information that Blockchain News collects may be stored and processed in and tra
 
 You agree to such cross-border transfers of personal information.
 
- **Updating this statement**
+**Updating this statement**
 
 Blockchain News may update this privacy policy by posting a new version on this website.
 
 You should check this page occasionally to ensure you are familiar with any changes.
 
- **Other websites**
+**Other websites**
 
 This website contains links to other websites.
 
 Blockchain News is not responsible for the privacy policies or practices of any third party.
 
- **Contact Blockchain News**
+**Contact Blockchain News**
 
 If you have any questions about this privacy policy or Blockchain News’ treatment of your personal information, please write:
 
