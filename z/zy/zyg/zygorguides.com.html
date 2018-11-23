@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zygorguides.com privacy policy that was archived on 2018-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180524144207id_/http%3A//www.zygorguides.com/about/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zygorguides.com privacy policy that was archived on 2018-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181123130929id_/http%3A//www.zygorguides.com/about/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" data-whatinput="initial" data-whatintent="initial" class=" whatinput-types-initial"><head>
 <title>Zygor Guides</title>
@@ -20,7 +20,6 @@
 <link rel="stylesheet" href="/templates/orange_responsive/css/amember.css">
 <link rel="stylesheet" href="/templates/orange_responsive/css/manual.css">
 <link rel="stylesheet" href="/templates/orange_responsive/css/signup.css">
-<link rel="stylesheet" href="/templates/orange_responsive/css/idea.css">
 <link rel="stylesheet" href="/templates/orange_responsive/css_f/app.css">
 <link rel="stylesheet" href="/templates/orange_responsive/css/styles.css">
 <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/5263.js?439006" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
@@ -32,7 +31,7 @@
 <script type="text/javascript" src="/foundation/Zygor/dist/assets/js/app.js"></script>
 <script type="text/javascript" src="/includes/orange_responsive/common.js"></script>
 </head>
-<body id="privacy" class="  ">
+<body id="about-privacy" class="about  ">
 <div id="loadedcontent">
 <a name="top" id="top"></a>
 <div id="navbar-offcanvas" class="off-canvas position-left" data-off-canvas="">
@@ -89,6 +88,8 @@
 </ul>
 </div>
 </div>
+
+
 <div class="reveal fast" id="loginpanel" data-reveal="" data-animation-in="fade-in" data-animation-out="fade-out">
 <div class="titlebar">
 <button id="loginpanel-title-close" class="close-button" data-close="" aria-label="Close modal" type="button">
@@ -126,7 +127,7 @@ Log in to <strong>ZYGOR</strong>
 <a class="link-forgot">Forgot your password?</a>
 <label class="common-checkbox remember">
 <div class="description">
-Remember me
+ Remember me
 </div>
 <div class="checkbox">
 <input type="checkbox" name="amember_remember">
@@ -332,13 +333,24 @@ Remember me
 			.on("on.zf.toggler",function() { $(this).slideDown(200); })
 			.on("off.zf.toggler",function() { $(this).slideUp(200); })
 
+			/*
 			$("#navbar-membersmenu-sliderlarge")
 			.on("on.zf.toggler",function() { $(this).slideDown(200); })
 			.on("off.zf.toggler",function() { $(this).slideUp(200); })
 
+			$("#navbar-membersmenu-sliderlarge").on("on.zf.toggler off.zf.toggler",function(e) {
+				let open=($(this).filter($(this).data("toggler")).length>0);
+				$("#navbar-user a.user").toggleClass("open",!open).toggleClass("close",open);
+			})
+			*/
+
 			$("#navbar-membersmenu-slidersmall")
 			.on("on.zf.toggler",function() { $(this).slideDown(200); $("#navbar-offcanvas .userbar").removeClass("open").addClass("close"); })
 			.on("off.zf.toggler",function() { $(this).slideUp(200); $("#navbar-offcanvas .userbar").removeClass("close").addClass("open"); })
+
+			$("#navbar-usermenu")
+			.on("show.zf.dropdown",function() { $("#navbar-user a.user").removeClass("open").addClass("close"); })
+			.on("hide.zf.dropdown",function() { $("#navbar-user a.user").removeClass("close").addClass("open"); })
 		})	
 </script>
 </div>
@@ -373,60 +385,72 @@ Remember me
 			});
 			</script>
 
-<div id="greysubmenu">
-<div class="container clearfix">
-<ul id="greysubmenu">
-
-<li class="greysubmenu_nav first_nav ">
-<a href="company">
-About Zygor Guides </a>
-</li>
-<li class="greysubmenu_nav  active">
-<a href="privacy">
-Zygor Guides Privacy Policy </a>
-</li>
-<li class="greysubmenu_nav  ">
-<a href="tos">
-Terms of Service </a>
-</li>
-</ul>
-<br clear="all">
-</div>
-</div>
-<div class="centered_container_alt">
-<div id="about" class="container clearfix">
-<div id="signup_members_heading">
+<div class="intro">
+<div class="container">
 <h1>Zygor Guides Privacy Policy</h1>
+<h6 class="about-updated">Updated May 25th, 2018</h6>
+<p>Here at Zygor Guides we value your privacy and it is our policy to make it clear what data we collect and how we use it, as well give you full control over this data.</p>
 </div>
-<br>
-<h2>Last Updated: 01/23/13</h2>
-<p>We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use our services, as well as some of the steps we take to safeguard it. If you have any questions or concerns about this Policy, you may contact us <a href="/web/20100211001808/http://www.zygorguides.com/contact/index.php">here</a>.</p>
-<h2>Data Collection</h2>
-<ul class="pplist">
-<li>Zygor Guides will never rent, share, or sell any information you provide to us with any other people, websites, or companies, unless compelled to by law.</li>
-<li>Zygor Guides, its forums, and other website services do not collect any personally identifiable information when viewing in a read-only mode.</li>
-<li>Zygor Guides automatically collects limited non-personally identifying information your web browser makes available whenever you visit a page on our website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your web browser. We use this information only to develop and improve our services.</li>
-<li>Some of our website services require a membership. Members are granted the privilege to post their own information, comments, and opinions onto our message boards, provided that they follow the Terms of Service.</li>
-</ul>
-<h2>Zygor Guides Members Account</h2>
-<ul class="pplist">
-<li>The following information is required when becoming a member: a username, a password, and a valid e-mail address. Your e-mail address can be optionally used for administrative contact, and for contact from other site members. You can choose whether to recieve such e-mails from administrators or site members during the registration process.</li>
-<li>Membership does not grant the user unlimited or unrestricted access to Zygor Guides. Certain administrative functions are hidden for security purposes, and may not be accessed by standard users. Attempting to access or otherwise manipulate these administrative controls will have your account temporarily or permanently suspended. By registering for an account, the user must also comply with the Zygor Guides Terms of Service (see below).</li>
-</ul>
-<h2>Zygor Guides Terms of Service</h2>
-<p>The Terms of Service are available on <a href="/web/20100211001808/http://www.zygorguides.com/forum/showthread.php?p=15#post15">this</a> page.</p>
-<p>Zygor Guides reserves the right to modify these Terms at any time.</p>
-<h2>Information Security</h2>
-<ul class="pplist">
-<li>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.</li>
-<li>We restrict access to your information to website administrators who need to know that information in order to operate, develop or improve our services.</li>
-</ul>
-<h2>Updating Your Information</h2>
-<p>We provide mechanisms for updating and correcting your personally identifying information on our services.</p>
-<h2>Changes to this Policy</h2>
-<p>Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. The latest revision date will be noted at the top of the page.</p>
-<br>
-</div></div>
+</div>
+<div class="collect">
+<div class="container">
+<h2>The Data We Collect:</h2>
+<p>When you create a Zygor Account we collect and store the following information.</p>
+<h4>On our local server we collect and store:</h4>
+<p>Your username, first and last name, and email address. Passwords are not stored and are encrypted in a way that can only be used for login purposes and thus cannot be retrieved in the event of a security breach.</p>
+<p>If you choose to link your social media and/or discord accounts (completely optional) we are able to access select profile information through those third party services. You will be shown what info we will gain access to and be asked for approval before any accounts are linked.</p>
+<p>Almost all user interactivity on the site is handled via cookies stored locally on each users device. Additionally, we track user behavior and interaction using Google and Facebook tracking pixels.</p>
+<h4>If you purchase a Zygor Elite subscription our payment processor Recurly collects and stores:</h4>
+<p>Your Payment info and your billing address. If you use Paypal only a "token" is stored rather than your full info. This information is not stored locally on our servers but externally on Recurly's servers. Recurly is GDPR complaint as of May 25th.</p>
+<p>Additionally, when you sign up for an account your email is automatically added to our Aweber (third party mailing list service) newsletter.</p>
+<div class="addresses">
+<div class="address">
+Recurly, Inc. (<a href="https://recurly.com/">https://recurly.com/</a>)<br>
+400 Alabama Street <br>
+Suite 202 <br>
+San Francisco, CA <br>
+94110, USA<br>
+</div>
+<div class="address">
+AWeber Communications (<a href="https://www.aweber.com/">https://www.aweber.com/</a>)<br>
+1100 Manor Drive <br>
+Chalfont, PA <br>
+18914, USA<br>
+</div>
+</div>
+<h4>Usage statistics:</h4>
+<p>We monitor and store access logs to our server and install client. Our client is able to track and send us anonymous usage statistics about which guides you install and use.</p>
+</div>
+</div>
+<div class="why">
+<div class="container">
+<h2>Why We Collect and Store This Data</h2>
+<p>The data on our local server is used to create an account profile for customers, grant access to consumer products, and allow users to use website features such as the forums and user feedback sections.</p>
+<p>The data stored through our third party payment processor Recurly is used to bill and process monthly payments for premium consumer services like Zygor Elite.</p>
+<p>Users are auto-enrolled to our newsletter in order to provide important information about our products and services.</p>
+<p>Usage statistics are used to determine the size of our user base and which products are most popular in order to focus our efforts.</p>
+<p>Your access patterns (dates, IP addresses, browser versions) are also stored for security reasons and fraud protection.</p>
+<p>Cookies are used to handle user logins and keep them logged in as they use the site. They are also used to track when affiliates send traffic to our site that results in a sale in order to provide commissions.</p>
+<p>Google tracking pixels are used for Google Analytics to learn more about user behavior and test the sales effectiveness of individual pages. Facebook tracking pixels are used to test the sales results of Zygor ads running on Facebook.</p>
+</div>
+</div>
+<div class="options">
+<div class="container">
+<h2>Your Data and Privacy Options:</h2>
+<p>All locally stored information can be edited manually through the website.</p>
+<p>Through our support ticket system you can request changes to the information stored by our payment processor, and/or request that your account be closed and all your data completely removed both locally and through Recurly. This will be done promptly and you will be notified when this process is complete. We are also working on adding ways that you can do all of this manually as well.</p>
+<p>You can unsubscribe from our newsletter by clicking the "Unsubscribe" link at the bottom of each email.</p>
+</div>
+</div>
+<div class="protect">
+<div class="container">
+<h2>How We Protect Your Data:</h2>
+<p>The portions of our website used for account registration are secured via SSL. Billing information is stored solely on Recurly's servers and is never actually transmitted through our servers, thus reducing the risk of man-in-the-middle attacks.</p>
+<p>All information stored at Recurly uses the highest security which can be read about here: <a href="https://recurly.com/security/">https://recurly.com/security/</a></p>
+<p>If there is ever a security breach we will notify you and let you know what we're doing to make sure it doesn't happen again.</p>
+<p>We will also routinely audit and update our policies to make sure they meet the highest privacy standards.</p>
+</div>
+</div>
 
 <div style="clear:both"></div>
 
@@ -482,7 +506,7 @@ Terms of Service </a>
 <li class="show-for-large header">News</li>
 <ul id="navbar-bottom-column-news-slider" data-toggler=".tmp_toggler_adftyhvcbdfgh" data-manually-slided="1">
 <li><a title="Blog" href="/blog">Blog</a></li>
-<li><a title="Release Notes" href="/changelog">Release Notes</a></li>
+<li><a title="Release Notes" href="/archive">Release Notes</a></li>
 </ul>
 </ul>
 <ul class="sublist">
@@ -524,7 +548,7 @@ Terms of Service </a>
 		})
 </script> <div id="navigation-bottom-copyright">
 <div class="row">
-<div class="small-12 large-6 column">Copyright © 2017 Zygor Guides, LLC.<br>All Rights Reserved.</div>
+<div class="small-12 large-6 column">Copyright © 2017 Zygor Guides, LLC.<br>All Rights Reserved. </div>
 <div class="small-12 large-6 column linkbox">
 <a href="http://www.zygorguides.com/about/tos.php">Terms of Use</a>
 <a href="http://www.zygorguides.com/about/privacy.php">Privacy Policy</a>
@@ -534,7 +558,25 @@ Terms of Service </a>
 <div class="small-12 large-12 column smallprint">This site and the products and services offered on this site are not associated, affiliated, endorsed, or sponsored by Activision | Blizzard or ZeniMax Media Inc., nor have they been reviewed, tested or certified by Activision | Blizzard or ZeniMax Media Inc..</div>
 </div>
 </div>
+<div class="reveal" id="popup-gdpr" data-reveal="" data-close-on-click="false">
+<div class="titlebar">
+<strong>Confirm</strong> new privacy settings.
 </div>
+<div class="content">
+<p>Due to the European Union's new privacy legislation being in effect, we updated our Privacy Policy to be compliant with the <strong>General Data Protection Regulation</strong> (GDPR).</p>
+<p>We listed all our data processing mechanisms' there such as cookies use and your methods to have full control over your data both as a visitor and as a member all the time.</p>
+<p>Please make sure you know and agree with the new terms before you follow.</p>
+<div class="">
+<a class="button" data-close="">Confirm</a>
+<a class="button hollow">More info</a>
+</div>
+</div>
+</div>
+<div class="reveal" id="popup-gdpr-privacy" data-reveal="" data-close-on-click="false">
+<div class="titlebar">
+Privacy Policy
+</div>
+</div> </div>
 
 </div>
 <script type="text/javascript" async="">
@@ -560,7 +602,7 @@ Terms of Service </a>
 	// did "thanks" give us an Ecommerce product to track?
 	if (typeof _ga_trans !== 'undefined') {
 		for (var i in _ga_trans) {
-			ga(_ga_trans[i][0],_ga_trans[i][1]);
+			ga(_ga_trans[i][0],_ga_trans[i][1],_ga_trans[i][2]);
 		}
 	}
 </script>
@@ -597,6 +639,10 @@ Terms of Service </a>
 <script type="text/javascript">
 	$(function() {
 		$(document).foundation();
+
+		$('[data-toggle]').on('click', function() {
+			$(document).trigger('click.zf.trigger', '[data-toggle]');
+		});
 	});
 	</script>
 
