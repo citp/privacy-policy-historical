@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moen.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614204427id_/https%3A//www.moen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moen.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123042859id_/https%3A//www.moen.com/privacy-policy) for the most accurate reproduction.*
 
 # Moen Privacy Policy
 
