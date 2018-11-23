@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moreshake.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607123021id_/http%3A//moreshake.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moreshake.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123174801id_/http%3A//moreshake.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - MoreShake
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@moreshake.com.
 
