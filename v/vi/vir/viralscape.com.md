@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralscape.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525002404id_/http%3A//viralscape.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralscape.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123114636id_/http%3A//viralscape.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Viralscape
 
