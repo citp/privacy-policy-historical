@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uum.edu.my privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525010055id_/http%3A//www.uum.edu.my/index.php/psp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uum.edu.my privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123140400id_/http%3A//www.uum.edu.my/index.php/psp) for the most accurate reproduction.*
 
 # UUM | Universiti Utara Malaysia - The Official Portal - Privacy & Security Policy
 
@@ -29,6 +29,8 @@ This Privacy Policy may be updated from time to time. You should check this page
   * All electronic storage and personal information data will be protected and saved using the appropriate safety technique.
 
 
+
+###  Student Admission (China)
 
 ###  UUM Sintok
 
