@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the mylyf.com privacy policy that was archived on 2017-07-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170706000642id_/https%3A//www.mylyf.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mylyf.com privacy policy that was archived on 2018-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181123092801id_/https%3A//www.mylyf.com/privacy-policy) for the most accurate reproduction.-->
 
 <html class="no-js"><head></head><body><div style="display: none;">
 		 
 		 
+		
 		</div>
 		
 		
@@ -14,6 +15,8 @@
 			  
 			  
               
+               
+               
 		
 
 
@@ -131,13 +134,15 @@
 			<meta name="twitter:card" content="product">
 		
 	
-	<link rel="stylesheet" href="https://www.mylyf.com//lyfstaticresources_v01/css/style.min.css?version=28">
+	<link rel="stylesheet" href="https://www.mylyf.com//lyfstaticresources_v01/css/style.min.css?version=29">
 	
-		<link rel="stylesheet" type="text/css" href="https://www.mylyf.com//lyfstaticresources_v01/css/header-old.css?version=28">
+	<!-- <link rel="stylesheet" type="text/css" href="https://www.mylyf.com//lyfstaticresources_v01/css/header-white-tv.css?version=29"> -->
+	<link rel="stylesheet" type="text/css" href="https://www.mylyf.com//lyfstaticresources_v01/css/header-white-tv-new.css?version=29">
+	
 	
 	 
 	
-	<script src="https://script.crazyegg.com/pages/scripts/0049/0528.js?438987" async="" type="text/javascript"></script><script src="https://script.crazyegg.com/pages/scripts/0049/0528.js?438987" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PQ6GLK&amp;gtm_auth=smeZIzGxX8Z8W5_IOKNvbw&amp;gtm_preview=env-32&amp;gtm_cookies_win=x"></script><script src="https://www.mylyf.com//lyfstaticresources_v01/js/jquery-1.11.3.min.js?version=28"></script>
+	<script src="https://script.crazyegg.com/pages/scripts/0049/0528.js?438987" async="" type="text/javascript"></script><script src="https://script.crazyegg.com/pages/scripts/0049/0528.js?438987" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PQ6GLK&amp;gtm_auth=smeZIzGxX8Z8W5_IOKNvbw&amp;gtm_preview=env-32&amp;gtm_cookies_win=x"></script><script src="https://www.mylyf.com//lyfstaticresources_v01/js/jquery-1.11.3.min.js?version=29"></script>
 	<script type="text/javascript">
              setTimeout(function(){var a=document.createElement("script");
              var b=document.getElementsByTagName("script")[0];
@@ -147,6 +152,13 @@
 
 
  
+		<style type="text/css">
+		.myly-offer td, .myly-offer th {
+   
+    border: solid 1px #ccc !important;
+    padding: 5px !important;
+}
+		</style>
 		
 	<script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
@@ -377,7 +389,7 @@ dataLayer = [{
 		}
 		
 		function triggerCompareClose(name, divIds){
-			var divIDArray = divIds.split("-");
+			var divIDArray = divIds.split("|");
 			var devName = "";
 			var deviceName = "";
 			for(var i=0; i<divIDArray.length; i++){
@@ -385,7 +397,7 @@ dataLayer = [{
 				if($(devID).val()) {
 					devName = devName +","+$(devID).val();
 				} else {
-					devName = devName +",-";
+					devName = devName +",|";
 				}
 			}
 			// remove first comma added to devName
@@ -397,14 +409,14 @@ dataLayer = [{
 		}
 		
 		function triggerCompareAdd(name, divIds){
-			var divIDArray = divIds.split("-");
+			var divIDArray = divIds.split("|");
 			var devName = "";
 			for(var i=0; i<divIDArray.length; i++){
 				var devID = '#'+divIDArray[i];
 				if($(devID).val()) {
 					devName = devName +","+$(devID).val();
 				} else {
-					devName = devName +",-";
+					devName = devName +",|";
 				}
 			}
 			// remove first comma added to devName
@@ -416,14 +428,14 @@ dataLayer = [{
 		}
 		
 		function triggerCompareChange(name, divIds, changedDev){
-			var divIDArray = divIds.split("-");
+			var divIDArray = divIds.split("|");
 			var devName = "";
 			for(var i=0; i<divIDArray.length; i++){
 				var devID = '#'+divIDArray[i];
 				if($(devID).val()) {
 					devName = devName +","+$(devID).val();
 				} else {
-					devName = devName +",-";
+					devName = devName +",|";
 				}
 			}
 			// remove first comma added to devName
@@ -435,14 +447,14 @@ dataLayer = [{
 		}
 		
 		function triggerCompareInterest(name, divIds){
-			var divIDArray = divIds.split("-");
+			var divIDArray = divIds.split("|");
 			var devName = "";
 			for(var i=0; i<divIDArray.length; i++){
 				var devID = '#'+divIDArray[i];
 				if($(devID).val()) {
 					devName = devName +","+$(devID).val();
 				} else {
-					devName = devName +",-";
+					devName = devName +",|";
 				}
 			}
 			// remove first comma added to devName
@@ -521,7 +533,15 @@ dataLayer = [{
  
 		<script>
 			var referrerURL = window.location.href;
+
 		</script>
+
+		<style>
+		.searchbox.open {
+    z-index: 999999999999999;
+    position: relative;
+                }
+		</style>
 			<div id="lyfheader">
 			<div class="maxcontainer">
 		    	
@@ -600,10 +620,11 @@ dataLayer = [{
 		        	<ul class="navigation">
 						
 						
-							 <li class="nav1">
+								 <li class="nav1 activenav">
 								
 								
-								
+									
+									
 
 
 
@@ -640,19 +661,21 @@ dataLayer = [{
 					
 			
 			
-		    <a href="https://www.mylyf.com/earth-smartphones-collection" onclick="triggerMenuGA('EARTH','https://www.mylyf.com/earth-smartphones-collection',window.location.href,document.referrer)">EARTH </a>
+		    <a href="https://www.mylyf.com/smartphone" onclick="triggerMenuGA('Smartphones','https://www.mylyf.com/smartphone',window.location.href,document.referrer)">Smartphones </a>
 		    
 
 		    
 		    
 
 
-							</li>
-						
-							 <li class="nav2">
+								
+								</li>
+							
+								  <li class="nav2 activenav">
 								
 								
-								
+									
+									
 
 
 
@@ -689,117 +712,21 @@ dataLayer = [{
 					
 			
 			
-		    <a href="https://www.mylyf.com/water-smartphones-collection" onclick="triggerMenuGA('WATER','https://www.mylyf.com/water-smartphones-collection',window.location.href,document.referrer)">WATER </a>
+		    <a href="https://www.mylyf.com/jiofi.html" onclick="triggerMenuGA('JioFi','https://www.mylyf.com/jiofi.html',window.location.href,document.referrer)">JioFi </a>
 		    
 
 		    
 		    
 
 
-							</li>
-						
-							 <li class="nav3">
+								
+								</li>
+							
+								  <li class="nav3 activenav">
 								
 								
-								
-
-
-
-
-
-
-
-
-    
-		
-		
-	
-	
-	
-
-			
-		
-			 
-			
-		
-		
-		
-		
-								
-									 
-									 
 									
-									 
-								
-								
-										   
-			
-			
-					
-			
-			
-		    <a href="https://www.mylyf.com/wind-smartphones-collection" onclick="triggerMenuGA('WIND','https://www.mylyf.com/wind-smartphones-collection',window.location.href,document.referrer)">WIND </a>
-		    
-
-		    
-		    
-
-
-							</li>
-						
-							 <li class="nav4">
-								
-								
-								
-
-
-
-
-
-
-
-
-    
-		
-		
-	
-	
-	
-
-			
-		
-			 
-			
-		
-		
-		
-		
-								
-									 
-									 
 									
-									 
-								
-								
-										   
-			
-			
-					
-			
-			
-		    <a href="https://www.mylyf.com/flame-smartphones-collection" onclick="triggerMenuGA('FLAME','https://www.mylyf.com/flame-smartphones-collection',window.location.href,document.referrer)">FLAME </a>
-		    
-
-		    
-		    
-
-
-							</li>
-						
-							<li class="nav5">
-								
-								
-								
 
 
 
@@ -838,12 +765,14 @@ dataLayer = [{
 
 
 
-							</li>
-						
-							<li class="nav6">
+								
+								</li>
+							
+								  <li class="nav4 activenav">
 								
 								
-								
+									
+									
 
 
 
@@ -882,8 +811,9 @@ dataLayer = [{
 
 
 
-							</li>
-						
+								
+								</li>
+							
 		            </ul>
 		        </div>
 		        
@@ -1301,7 +1231,7 @@ $("#searchtext").keypress(function(event) {
 		        </div>
 		    </div>
 			</div>
-			
+	
 
 
  
@@ -1802,8 +1732,25 @@ $("#searchtext").keypress(function(event) {
 								 
 								
 						
+						
+					<li><a href="https://www.jio.com/shop/en-in/c/jiofi" class="lyfsectionlink" onclick="triggerFooterGA('JIOFI','https://www.jio.com/shop/en-in/c/jiofi',document.referrer)" target="_blank">JIOFI</a></li>
+                	
+				
+						 
+						
+						
+						 
+						
 					
-                	<li><a href="https://www.mylyf.com/jiofi" class="lyfsectionlink" onclick="triggerFooterGA('JioFi','https://www.mylyf.com/jiofi',document.referrer)">JioFi</a></li>
+					
+					      
+					      
+								 
+								 
+								
+						
+					
+                	<li><a href="https://www.mylyf.com/c459" class="lyfsectionlink" onclick="triggerFooterGA('c-459','https://www.mylyf.com/c459',document.referrer)">c-459</a></li>
                    
 				</ul>
 			</div>
@@ -1867,7 +1814,7 @@ $("#searchtext").keypress(function(event) {
 					<div><img src="https://www.mylyf.com/footer-logo-img/ril-logo.png" alt=""> </div>
 					<div>&nbsp;</div>
 				
-					Copyright © 2016 Reliance Retail Ltd., All rights reserved.
+					Copyright © 2018 Reliance Retail Ltd., All rights reserved.
 				</div>			
 			</div>
 		</div>
@@ -1979,7 +1926,7 @@ $("#searchtext").keypress(function(event) {
 	});
 	</script>
 	
-        <script src="https://www.mylyf.com//lyfstaticresources_v01/js/app.min.js?version=28"></script> 
+        <script src="https://www.mylyf.com//lyfstaticresources_v01/js/app.min.js?version=29"></script> 
     
  
 	
