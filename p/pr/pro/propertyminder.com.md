@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyminder.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103101133id_/http%3A//www.propertyminder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyminder.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124005138id_/https%3A//www.propertyminder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IDX Websites for Real Estate, MLS integrated Realtor Websites, Custom IDX, lead capture, IDX websites with CRM, Client Relationship Management, Referral Marketing, Lead Capture Websites for Real Esate, Listing Generation for Realtors + Brokers
 
