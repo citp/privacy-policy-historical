@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveluvcreate.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524024741id_/http%3A//www.liveluvcreate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveluvcreate.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124004949id_/http%3A//www.liveluvcreate.com/privacy.html) for the most accurate reproduction.*
 
 # Create Fanfiction & Beautiful Quote Photos - LiveLuvCreate.com
 
