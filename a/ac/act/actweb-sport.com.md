@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actweb-sport.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524140412id_/http%3A//actweb-sport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actweb-sport.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123125833id_/http%3A//actweb-sport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ActWeb Sport
 
