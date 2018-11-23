@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the arcade-museum.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704065652id_/http%3A//www.arcade-museum.com/accounts/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcade-museum.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123063021id_/http%3A//www.arcade-museum.com/accounts/privacy-policy.php) for the most accurate reproduction.*
 
 # WebMagic Privacy Policy
 
-[Return to Home Page](https://web.archive.org/) **Updated: August 23, 2012**
+[Return to Home Page](https://web.archive.org/) **Updated: May 31, 2018**
+
+_Note: Our privacy policy has been updated for the first time in several years. Effectively immediately, children under the age of 16 in Europe are not permitted to use our site (up from 14). For other regions, the minimal age had been lowered from 14 to 13. Other changes are fairly minor. We've added additional disclosure information in general -- particularly in regards to third party cookies and services, access to your own data, as well as further information on how we handle people that we believe are intentionally trying to misuse our systems. We also added emphasis to the fact that information you upload to the site for public consumption (ie: message forums or comments added to pages or videos) can not often be deleted. In such cases, we can usually assist in removing content in these posts specifically referencing your real name or contact information (except in some extremely rare cases of public warnings of alleged misdeeds by a user against other users deemed required for the protection of the community)._
 
 _**Introduction**_
 
@@ -20,9 +22,7 @@ We may combine the information you submit under your account with information fr
 
 Information about your computer hardware and software may be automatically collected by WebMagic. When you visit any of WebMagic's sites, our servers automatically record information that your browser sends whenever you visit a website. This information can include: the name and address of the page you are visiting, your IP address, browser type, browser language, access times, referring website address, and one or more cookies that uniquely identify your browser. This information is used for the operation and security of the service, to maintain quality of the service, and to provide general statistics regarding use of our web sites.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through WebMagic's public message offerings, such as via our public message boards, forums, blogs, or encyclopedia services, this information may be collected and accessed and used by others whom we have no control over. 
-
-We store and process your information on computers located in the United States that are protected by physical as well as technological security devices.
+There are several ways you may obtain a copy of your own data. If this site has a message forum, you can log in, and then under 'Search' select 'Advanced Search' and search for all posts by your username. In the private messages section, there is a function at the bottom labeled 'Selected Messges'. Several options in the pick-list are for downloading your messages (in a variety of available formats). For all other personal data, if if you need further assistance, contact us directly for assistance.
 
 _**Use of your Personal Data**_
 
@@ -38,7 +38,7 @@ Our Privacy Policy exists to protect all our visitors and our sites--not the rar
 
 _**Additional Parties**_
 
-We do not share your contact information with unaffiliated third parties without your consent.
+We do not share your contact information with unaffiliated third parties without your consent, except potentially in cases of limited and specific law enforcement or government request. However, you hereby grant us consent to share your information as we deem necessary for the safety of our company, sites, and other users if we believe you are using our services to attempt to defraud us or others. Historically, we have made such determinations in less than one in 10,000 users, and only shared data in a small subset of those cases.
 
 Information you provide will be used within our company, and in cases by affiliated companies, to provide you with our services.
 
@@ -62,13 +62,25 @@ When you visit WebMagic sites, our servers may send one or more cookies - a smal
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the WebMagic series or websites you visit.
 
+_**Browser Cookies - Third Party Advertising, Analytics, and Tools**_
+
+We utilize Google Adsense advertising on some of our pages. Additionally we utilize Google Analytics and Quantcast to help us understand the characteristics and demographics of people who visit our offerings. We also sometimes place 'like' or 'share' type buttons on our pages for leading social networking sites such as Facebook, Instagram, Twitter, or LinkedIn. These social networking leaders may or may not place cookies on your browser as a result of these buttons.  
+
+
+  * **Like and Share buttons** \- Like or share buttons for Facebook, Instagram, Google Plus, Twitter, or Linkedin utilize functionalities provided by those respective companies. Clicking on one of these buttons will like the page content to your profile on these social media network, at least if you are logged in to those networks. These networks will then be able to attribute your visit to our pages and to your user account. Please note that as provider of these pages, we are not privy to the content of the data transmitted or used by these networks. Please contact these networks directly for their privacy policies.
+  * **Google Advertising** \- We may also use the Google advertising features. These features may use a third party cookie to collect information about our website traffic by tracking users across websites and across time, which generates a report for us to better understand our website users. If you do not want Google to collect and use this information you may visit the Google Ad Settings page (<https://www.google.com/safetycenter/tools/#!#manage-your-ads-preferences>) to change your consumer preferences with respect to certain online ads and to obtain further information about Google ad networks and online behavioral advertising. For the Google Analytics Advertising Features, you may also opt-out of our use of Google Analytics as described above. Please remember that changing your settings with certain browsers and ad networks will not carry your privacy choices across other browsers, devices and other ad networks.
+  * **Google Analytics** \- We may use Google Analytics to collect information about your use of our services. This information consists of information that your web browser automatically sends to Google, such as the web address of the page that you visit and your IP address. Google may also set cookies or read preexisting cookies. This information is stored on Google's servers. Google uses this information to provide us with reports about traffic to our website and your visit to our website (such as the domain from which you access the internet, the web address of the website from which you linked to our site, the time and date of your visit to the web pages that you view and click through). We use this data to improve our website structure and content. Google may also use this data in accordance with their Privacy Policy, which can be found at <https://policies.google.com/privacy>. For more detailed information on how Google uses your data through our website, please visit <https://policies.google.com/technologies/partner-sites>. You may opt-out of our use of Google Analytics by visiting the Google Analytics opt-out page and installing the Google Analytics browser add-on, currently made available by Google at <https://tools.google.com/dlpage/gaoptout>.
+  * **Quantcast** \- We use Quantcast to help us understand the characteristics and demographics of the people who visit our Sites. Per Quantcast's privacy policy, Quantcast collects information about your use of our website through connecting information that your web address automatically sends, such as the web address of the page that you visit and browser time or type, with a random identifier (a cookie ID). This information is then analyzed to improve our Sites and products. Quantcast's privacy policy states that they do not link this data to your name, address, email or phone number, or otherwise attempt to discover your identity. For further information on how Quantcast works you can visit <https://www.quantcast.com/privacy/>. In order to 'Opt-Out' of Quantcast go to <https://www.quantcast.com/opt-out/>.
+  * **YouTube** \- Our website uses plugins provided by the Google-operated website YouTube. The pages are operated by YouTube, LLC. A connection to YouTube servers is established when you visit one of our pages containing the YouTube plugin. The YouTube server receives information about which of our pages you have visited. YouTube will be able to directly attribute your surfing behavior to your personal profile if you are logged in to your YouTube account while visiting our pages. You can prevent this by logging out of your YouTube account before visiting our website. Please read the YouTube privacy policy for more information about their handling of user data: <https://policies.google.com/privacy>
+  * **Additional Services** \- We may incorporate additional third party services to our sites. If we do, their function and use is likely to be similar to the uses described by the other third party services. For example, some of our pages allow for payment via PayPal. Clicking on a payment link will take you to PayPal, and if you click to to PayPal and make a payment to us, PayPal will know you utilized our serivces, and PayPal may share basic information accompanying your payment, including your name and contact information.
+
 _**Security of your Information**_
 
-WebMagic works to secure your personal information from unauthorized access, use or disclosure in multiple ways.
+WebMagic works to secure your personal information from unauthorized access, use or disclosure in multiple ways. We believe we have implemented reasonable administrative, technical, and physical security measures to protect against unauthorized access, destruction or alteration of your information. Despite our best efforts though, no security measures are completely impenetrable, and we don't have as many security resources at our disposal as large media companies do.
 
 _**Age Restrictions**_
 
-WebMagic's websites and the content therein are intended for use by persons age 14 and older. WebMagic does not knowingly collect personally identifiable information from children under the age of thirteen. Anyone under the age of 14 should _not_ establish an account on our sites and should _not_ provide any personal information to WebMagic. Additionally, there are restrictions for visitors between 14 and 17 years of age. Anyone under the age of 18 should _not_ conduct any financial transaction on or through our sites, nor shall advertise for, or respond to advertising for, any financial transaction on our site, nor should provide any financial data such as credit card numbers.
+WebMagic's websites and the content therein are intended for use by persons age 16 and older for visitors from Europe, and by persons age 13 and older in all other regions. WebMagic does not knowingly collect personally identifiable information from children under the age of thirteen. Anyone under the age of 16 in Europe and under the age of 13 elsewhere should _not_ establish an account on our sites and should _not_ provide any personal information to WebMagic. Additionally, will may provide additional restrictions for all visitors between our minimal ages and 17. Anyone under the age of 18 should _not_ conduct any financial transaction on or through our sites, nor shall advertise for, or respond to advertising for, any financial transaction on our site, nor should provide any financial data such as credit card numbers.
 
 _**User communications**_
 
@@ -82,9 +94,9 @@ _**E-mail and Account Management**_
 
 All email sent from this system is as a result of a specific request. If you signed up on one of our sites, you will be sent a confirmation e-mail. If you do not click on the link in said email, your account will never be made active. Once made active, you may receive e-mail from us based on the preferences you selected when you signed up. To turn off any such email from one of our main sites, log in, select 'edit my account', and turn off your email settings. Additionally, any 'update' email sent out may be turned off by either the account setting page, or by clicking on the 'remove' link from the bottom of each e-mail. Lastly, by default, our message forums do not sent out email. If you have asked the system to send you email (ie: updates to threads you have posted in), and you no longer to receive such updates, you should turn them off the same way you turned them on--via account settings in the user control panel.
 
-_**Account Closures**_
+_**Account Closures and Removal of Data**_
 
-An account closure, initiated by either you or us, will not result in the deletion of all your data. If you are utilzing one of our sites which allow users to post personal information publicly, such as in the form of a personal profile, please feel free to make specific requests regarding working to remove any such information. We will review such requests on a case-by-case basis. Please do not ask us to delete messages in bulk that you posted to public message forum threads, as it is typically not possible to remove such messages without damaging the context of the message threads in which they appear.
+An account closure, initiated by either you or us, may not result in the deletion of all your data. If you are utilizing one of our sites which allow users to post personal information publicly, such as in the form of a personal profile, please feel free to make specific requests regarding working to remove any such information. We will review such requests on a case-by-case basis. Please do not ask us to delete messages in bulk that you posted to public message forum threads, as it is typically not possible to remove such messages without damaging the context of the message threads in which they appear. _In general, we are unable and unwilling to remove public posts on discussions forums, but are able to edit posts upon requests them to remove your name or contact information, and alter usernames if you originally chose a username that is identical to your first and last name._ Personally identifiable contact information in our databases is deleted if and as required by law, however, we do not delete data for the very few users suspected of utilizing our systems to break laws or defraud others.
 
 _**Policy Changes**_
 
@@ -99,7 +111,7 @@ If you have questions or comments about this Privacy Policy, or if you have any 
          530 S. Lake Avenue, Suite 450  
          Pasadena, CA 91101
 
-         An email address and phone number for communicating with us about our privacy policies may be found on this [Contact Us](http://www.webmagic.com/contact.php) page.
+         An email address and phone number for communicating with us about our privacy policies may be found on this [Contact Us](http://www.webmagic.com/contact/) page.
 
 While you may contact us regarding these policies via email, U.S. Mail, or phone, we do ask that whenever possible you contact us via email or U.S. mail, as it allows us to route your communication to the proper person without undue delay.
 
@@ -107,6 +119,6 @@ Please note that email may be get lost or caught up in spam protection measures.
 
 _**Terms of Use**_
 
-Your use of our web site or other services constitutes an acceptance of our [Privacy Policy](https://web.archive.org/web/20170704065652id_/http%3A//www.arcade-museum.com/accounts/privacy-policy.php) as well as our [Terms of Use](https://web.archive.org/web/20170704065652id_/http%3A//www.arcade-museum.com/accounts/terms-of-use.php). 
+Your use of our web site or other services constitutes an acceptance of our [Privacy Policy](https://web.archive.org/web/20181123063021id_/http%3A//www.arcade-museum.com/accounts/privacy-policy.php) as well as our [Terms of Use](https://web.archive.org/web/20181123063021id_/http%3A//www.arcade-museum.com/accounts/terms-of-use.php). 
 
-© 2012 All Rights Reserved.
+© 2018 All Rights Reserved.
