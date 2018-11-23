@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the portada-online.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607214321id_/http%3A//www.portada-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portada-online.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123155852id_/https%3A//www.portada-online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Portada
 
-At Portada we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by Portada. Portada adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. If you have any questions about this Privacy Policy, please feel free to [contact us](http://www.portada-online.com/marketingtohispanics/contact-portada/) through our website or write to us at
+At Portada we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by Portada. Portada adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. If you have any questions about this Privacy Policy, please feel free to [contact us](https://www.portada-online.com/marketingtohispanics/contact-portada/) through our website or write to us at
 
 Portada  
-315 Fifth Avenue, Ste. 702  
-NY, NY 10016  
+40 West 38th Street, 5th Floor  
+NY, NY 10018  
 USA
 
 ### AdRoll and Partners
@@ -35,7 +35,7 @@ Portada only processes personal information for the purposes described in this P
 
 ### Choices for personal information
 
-When you sign up for a particular service that requires registration, we ask you to provide personal information.  By submitting this information,n we ask you to confirm that you are  only acting for your  own e-mail account, or one for which you have express authority to submit this request.
+When you sign up for a particular service that requires registration, we ask you to provide personal information.  By submitting this information, we ask you to confirm that you are  only acting for your  own e-mail account, or one for which you have express authority to submit this request.
 
 We will not collect or use information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.
 
@@ -77,11 +77,11 @@ When you use Portada services, we make good faith efforts to provide you with ac
 
 ### Enforcement
 
-Portada regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Portada’s treatment of personal information by [contacting us](http://www.portada-online.com/marketingtohispanics/contact-portada/) through this web site or by writing to us at
+Portada regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Portada’s treatment of personal information by [contacting us](https://www.portada-online.com/marketingtohispanics/contact-portada/) through this web site or by writing to us at
 
 Portada  
-315 Fifth Avenue, Ste. 702  
-NY, NY 10016  
+40 West 38th Street, 5th Floor  
+NY, NY 10018  
 USA
 
 When we receive formal written complaints at this address, it is Portada’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Portada and an individual.
@@ -93,6 +93,6 @@ Please note that this Privacy Policy may change from time to time. We will not r
 If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at
 
 Portada  
-315 Fifth Avenue, Ste. 702  
-NY, NY 10016  
+40 West 38th Street, 5th Floor  
+NY, NY 10018  
 USA
