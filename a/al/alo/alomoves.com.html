@@ -1,0 +1,392 @@
+<!--The following is the downloaded HTML source of the alomoves.com privacy policy that was archived on 2018-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181123234241id_/https%3A//www.alomoves.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html ng-app="cody"><head>
+<script src="https://js-agent.newrelic.com/nr-spa-1099.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//d.impactradius-event.com/A1255910-49ea-4f6f-bdd5-4c96fd32c0321.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d6649b6ac2","applicationID":"56841","transactionName":"d1daTUJdCl4GRhtDElVMXVpvQgdVBkcbQBRdTlVaSQ==","queueTime":4,"applicationTime":65,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).loader_config={xpid:"VQYGWFdTGwYGXFVT"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,N=y.hash,this[u]=g.now()}function o(){M--,y.hash!==N&&i(0,!0);var t=g.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=g.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,g=t("loader");if(w[v]&&g.xhrWrappable){var b=t(10),x=t(11),E=t(8),O=t(6),P=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),S=j.get("tracer");t(15),g.features.spa=!0;var N,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(l,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),P.buffer(["setTimeout"+c,"clearTimeout"+s,u]),T.buffer([u,"new-xhr","send-xhr"+s]),R.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),b.buffer([u]),x.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+s),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+s),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(8);var b=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,e){var n=t[0];n instanceof b&&i("bst",[n,e,this.bstStart,g.now()])}),a.on(m,function(t,e,n){this.bstStart=g.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+l,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(24)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(21);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,l="prototype";u&&d&&p&&(i(f,function(t,e){r(u[l],e,c),r(d[l],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(24)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(24)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(24)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(24),a=t("ee").get("promise"),s=i(a),c=t(21),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(24)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(24)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(24)(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,b),b.prototype=l.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(e.cat=c.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),l=t(19),h=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,l&&(l>34||l<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<d;s++)e.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],21:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],22:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],23:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],24:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[n]];return d&&d.push([b,n,r,a]),a}}function l(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},b={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(17),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}]},{},["loader",2,15,5,3,4]);</script>
+<title>
+            Privacy - Alo Moves
+        </title>
+<meta property="fb:app_id" content="261704703921080">
+<link rel="shortcut icon" type="image/x-icon" href="/assets/alomoves-favicon-2216fecd589d793d30ff0b0800d80c354e6830aba21afaea865eecfc433233ce.png">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Domine" rel="stylesheet" type="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+        <![endif]-->
+<link rel="stylesheet" href="https://use.typekit.net/nxd3sfy.css">
+<script src="https://js.stripe.com/v2/"></script>
+<script src="https://js.stripe.com/v3/"></script>
+<script>Stripe.setPublishableKey('pk_live_9iAGaCjTvbRymC7U0jftaUkx');</script>
+<script src="/assets/application-f25f7ad5e42d2d0d50d202d21bf0a1285c5be400b910cd4281a3d53e7e9f8034.js"></script>
+<script src="/packs/application-45b8c6d6e24757a5e2b3.js"></script>
+<link rel="stylesheet" media="all" href="/assets/application-318222838a3156458974c6164b6b19414f2933c12530adb56fbf8de4b30710d7.css">
+<link rel="stylesheet" media="screen" href="/packs/application-4bc29999bbbd42bcb2dac3c04786a9b6.css">
+<script>
+          angular.module('cody').constant('codyConfig', {
+            sohHome: 'subscription',
+            stripeKey: 'pk_live_9iAGaCjTvbRymC7U0jftaUkx'
+          });
+        </script>
+<script src="https://cdn.rawgit.com/zenorocha/clipboard.js/2.0/dist/clipboard.min.js"></script>
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="ydIsqzWUKb6Eu3rmXxfEbMTuCBdvVqBBuH+x3Np4lPC8IR5U9LDnrnBDSvvbUDTWdyL02KGqbbMD4as5VNV6JQ==">
+<style>
+          .video-js { padding-top: 56.25% }
+          .vjs-fullscreen { padding-top: 0px }
+        </style>
+<script type="application/ld+json">
+          {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Alo Moves",
+            "url": "https://www.alomoves.com",
+            "logo": "https://d28gwrkukqy4h7.cloudfront.net/alo_logo.gif",
+            "image": "https://d28gwrkukqy4h7.cloudfront.net/alo_logo.gif",
+            "description": "Tune into your yoga practice on Alo Moves with over 2,500+ video classes from world-class instructors. Master skills and techniques that will advance your yoga practice, make you sweat, and connect body and mind.",
+            "sameAs": [
+              "https://www.facebook.com/alomoves",
+              "https://www.instagram.com/alo.moves",
+              "https://www.youtube.com/c/alomoves"
+            ]
+          }
+        </script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32721471-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('require', 'ec');
+</script>
+<script>
+  ga('send', 'pageview');
+</script>
+<script type="text/javascript"> 
+          (function(a,b,c,d,e,f,g){e['ire_o']=c;e[c]= e[c]||function(){(e[c].a=e[c].a||[]).push(arguments)};f=d.createElement(b);g=d.getElementsByTagName(b)[0];f.async=1;f.src=a;g.parentNode.insertBefore(f,g);})('//d.impactradius-event.com/A1255910-49ea-4f6f-bdd5-4c96fd32c0321.js','script','ire',document,window);
+
+          ire('identify', {customerId: '', customerEmail: ''});
+        </script>
+<script>
+      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+      n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+      document,'script','//connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '1597514120533985');
+      fbq('track', 'PageView');
+    </script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1597514120533985&amp;ev=PageView&amp;noscript=1"/></noscript>
+<meta property="fb:app_id" content="261704703921080">
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '261704703921080',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+
+    FB.Event.subscribe('xfbml.ready', function (msg) {
+      if (msg.type === 'video') {
+        var player = msg.instance;
+        var element = $('#' + msg.id);
+        var playedOnce = false;
+
+        var preview = element.data('preview');
+        var videoId = element.data('videoId');
+
+        // Unmute for autoplay
+        player.unmute();
+
+        player.subscribe('startedPlaying', function () {
+          if (!playedOnce) {
+            playedOnce = true;
+          }
+        });
+      }
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+</head>
+<body class="other" data-controller="static_pages" data-action="privacy">
+<div class="curtain ">
+<div class="total-container">
+<div class="container-fluid training">
+
+<div class="about_bg"></div>
+<div class="dimmer_about"></div>
+<div class="privacy_statement">
+
+<h1>Privacy</h1>
+<p>
+This privacy policy (this “Policy”) describes how and when Alo Moves, Inc., a Delaware corporation (“Alo Moves,” “we,” or “us”), uses and shares your information when you use our Website at www.alomoves.com (the “Website”), as well as all related software, tools, systems, series and other services provided by us (collectively, together with the Website, our “Service”). This Policy also describes our use and disclosure of that information. By using our Service, you consent to the collection, use, and disclosure of personal information in accordance with this Policy. This Policy is incorporated by reference into the Alo Moves Terms of Service http://www.alomoves.com/terms and subject to the provisions of the Terms of Service.
+</p>
+<h2>Personal Information</h2>
+<p>
+“Personal Information,” as used in this Policy, is information that specifically identifies an individual end user of the Service, such as an individual's name, address, telephone number, or e-mail address. Personal Information also includes information about an individual’s activities, such as information about his or her activity on our Service, and demographic information, such as date of birth, gender, geographic area, and preferences, when any of this information is linked to Personal Information that identifies that individual.
+</p>
+<p>
+Personal Information does not include “aggregate” or other non-personally identifiable information. Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed. We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes.
+</p>
+<h3>Personal Information via Apple Health</h3>
+<p>Users of iOS 8+ have the ability to share data from Apple Health with our Service. You have control over what data is stored and accessed between Apple Health and our Service and can modify these settings at any time via Apple Health. Notwithstanding other provisions of this Policy:
+</p><ul>
+<li>1. We do not store your Apple Health data in iCloud</li>
+<li>2. We do not use your Apple Health data for advertising or other use-based data mining purposes other than improving health, medical and fitness management, or for the purpose of medical research</li>
+<li>3. We do not share your Apple Health data with third parties without your consent</li>
+</ul>
+<p></p>
+<h2>Collection of Information</h2>
+<h3>Collection of Voluntarily-Provided Information</h3>
+<p>We collect Personal Information that our users provide to us in a variety of ways on our Service, including:</p>
+<ul class="bullet-list">
+<li>E-mail Newsletters. We may offer e-mail newsletters with announcements and information about Alo Moves from time to time on our Service. If you sign up to receive a newsletter from us, we collect your e-mail address. You may opt out of receiving e-mail newsletters.</li>
+<li>Downloads, User Accounts and Profiles. Our Service or third parties may give you the ability to download Alo Moves software, register for a Alo Moves account or to create and update a user profile on the Service. If we offer such functionality on the Service, we will collect the Personal Information that you provide to us in the course of using that functionality. This information may include, for example, your name, contact information, and system information, as well as information about your interests, preferences and future needs. We may indicate that some personal information is required for you to download our software, register for the account or to create the profile, while some is optional. To the extent that your user profile is public, we will share your Personal Information in your user profile with others in your organization.</li>
+<li>Integrated Service. You may be given the option to access or register for the Service through the use of your user name and passwords for certain services provided by third parties (each an “Integrated Service”), such as through the use of your Facebook credentials through Facebook Connect . By doing this, you authorize us to access and store the credentials you provide, your name, email address(es), date of birth, gender, current city, profile picture URL, and other information that the Integrated Service makes available to us, and to use and disclose it in accordance with this Policy. You should check your Facebook or other Integrated Service privacy settings to understand and change the information sent to us through Facebook Connect or other Integrated Service. Please review each Integrated Service’s terms of use and privacy policies carefully before using their services and connecting to our Service. </li>
+<li>Interactive Features and Public Areas. Our Service may contain interactive functionality that allows you to engage with other users on the Service, post comments to forums, to upload photographs and other content (the “User Content”), participate in surveys, and otherwise to interact with the Service and with other users. If you use any interactive functionality on our Service that requests or permits you to provide us with personal information (including, for example, any services that allow you to post User Content on any of our Service), we collect the Personal Information that you provide to us in the course of using these interactive features. You should be aware that any information you provide in chat sessions, message boards, email exchanges, newsgroups or similarly non-private areas of the Service may be read, collected, and used by others who access these areas, and this information is not Personal Information for the purposes of this Policy. To request removal of your Personal Information from these areas, please contact us. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.</li>
+<li>Correspondence. If you contact us by e-mail, using a contact form on the Service, or by mail, fax, or other means, we collect the Personal Information contained within, and associated with, your correspondence. We use this Personal Information to respond to your correspondence. We may also use your correspondence to improve the Service.</li>
+<li>Promotions. We or our advertisers and other business partners may conduct or sponsor special contests, sweepstakes, and other promotions that users may enter or otherwise participate in on our Service. Certain of these promotions may be co-branded with one of our advertisers or other business partners. In these instances, the collection of your Personal Information may occur directly by the third-party partner on its website or other online service and may be shared with us. The promotion will state the privacy policy or policies governing the collection of such personal information.</li>
+</ul>
+<h3>Passive Information Collection</h3>
+<p>When you visit our Service, some information is collected automatically. For example, when you access our Service, we automatically collect certain information, which may include your browser’s Internet Protocol (IP) address, your browser type, the nature of the device from which you are visiting the Service (e.g., a personal computer or a mobile device), the identifier for any handheld or mobile device that you may be using, the Web site that you visited immediately prior to accessing any Web-based Service, the actions you take on our Service, and the content, features, and activities that you access and participate in on our Service. We also may collect information regarding your interaction with e-mail messages, such as whether you opened, clicked on, or forwarded a message.</p>
+<p>We may collect this information passively using technologies such as standard server logs, cookies, and clear GIFs (also known as “Web beacons”). We use passively-collected information to administer, operate, and improve the Website and our other services and systems, to improve the effectiveness of advertising on our Service, and to provide advertisements and other content that is tailored to you. If we link or associate any information gathered through passive means with Personal Information, or if applicable laws require us to treat any information gathered through passive means as Personal Information, we treat the combined information as Personal Information under this Policy. Otherwise, we use and disclose information collected by passive means in aggregate form or otherwise in a non-personally identifiable form.</p>
+<p>Also, please be aware that third parties, such as companies displaying advertisements on the Service, or sites or services provided by third parties (“Third-Party Sites”) that may be linked to or from the Service, may set cookies on your hard drive or use other means of passively collecting information about your use of their services, Third-Party Sites or content. We do not have access to, or control over, these third-party means of passive data collection. </p>
+<h3>Information from Other Sources</h3>
+<p>We may receive information about you, including Personal Information, from third parties (e.g. opt-in lists where you have requested information about Alo Moves or the Service while visiting a Third-Party Site). We may combine this information with other Personal Information we maintain about you. If we do so, this Policy governs any combined information that we maintain in personally identifiable format.</p>
+<h2>Use of Personal Information</h2>
+<p>We use Personal Information to provide the services and information that you request. We also use your Personal Information to enhance, improve, operate, analyze and maintain our Service and other systems (e.g., to troubleshoot problems); to prevent fraudulent use of our Service and other systems; to prevent or take action against activities that are, or may be, in violation of our Terms of Service or applicable law; to tailor advertisements, content, and other aspects of your experience on and in connection with the Service; to maintain a record of our dealings with you; for other administrative purposes (e.g., contacting you regarding administrative information or notices); to resolve disputes and enforce our agreements with you; and for any other purposes that we may disclose to you at the point at which we request your Personal Information, and pursuant to your consent.
+We may also use Personal Information you provide to contact you regarding products, services, and offers, both from ourselves and from third parties, that we believe you may find of interest. We allow you to opt-out from receiving marketing communications from us as described in the “Choice” section below.</p>
+<h2>Disclosure of Personal Information</h2>
+<p>Except as described in this Policy, we will not disclose your Personal Information that we collect on the Service to third parties without your consent. We may disclose your Personal Information to third parties if you consent to us doing so, as well as in the following circumstances:</p>
+<h2>Service Providers</h2>
+<p>We may disclose Personal Information to third-party service providers (e.g., value-added resellers, payment processors, data storage and processing facility vendors) that assist us in our work. We limit the Personal Information provided to these service providers to that which is reasonably necessary for them to perform their functions, and we require them to agree to maintain the confidentiality of such Personal Information.</p>
+<h2>Public Areas</h2>
+<p>Some features on our Service may allow you to upload, post, or otherwise transmit User Content to public areas of the Service, such as content that you post in a public profile on the Service. Please be aware that any Personal Information that you include within any User Content will be made available to other users of the Service. You include Personal Information in User Content at your sole risk. We may allow you to select privacy options that limit access to some types of Personal Information in User Content, but no security measures are impenetrable or perfect. Additionally, even after information posted on the Website is removed, caching and archiving services may have saved that information, and other users or third parties may have copied or stored the information available on the Service. We cannot warrant or guarantee that any Personal Information that you provide on and in connection with the Service will not be accessed, viewed, or used by unauthorized persons.</p>
+<h2>Business Transfers</h2>
+<p>Information about our users, including Personal Information, may be disclosed and otherwise transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of company assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which Personal Information is transferred to one or more third parties as one of our business assets.</p>
+<h2>To Protect our Interests</h2>
+<p>We also disclose Personal Information if we believe that doing so is legally required, or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others, or otherwise to help protect the safety or security of our Service and other users of the Service.</p>
+<h2>Event and Conference Sponsors</h2>
+<p>We may share your Personal Information with third parties that sponsor Alo Moves events or conferences that you attend. Otherwise, Alo Moves does not offer or allow the sale of any of your Personal Information to third parties.</p>
+<h2>Choice</h2>
+<p>If you receive commercial e-mail from us, you may unsubscribe at any time by following the instructions contained within the e-mail. You may also opt-out from receiving commercial e-mail from us, and any other promotional communications that we may send to you from time to time (e.g., by postal mail) by sending your request to us by e-mail at info@alomoves.com or by writing to us at the address given at the end of this policy. Additionally, we may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us.</p>
+<p>Please be aware that if you opt-out of receiving commercial e-mail from us, it may take up to ten business days for us to process your opt-out request, and you may receive commercial e-mail from us during that period. Additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding our Service.</p>
+<h2>Access</h2>
+<p>If we offer the ability to create user accounts or profiles on our Service, you may have the ability to access and update many categories of Personal Information that you provide to us by logging in to your account and accessing your account settings. If you wish to access or amend any other Personal Information we hold about you, you may contact us at info@alomoves.com or by the other methods described under “Contacting Us” below.</p>
+<p>If you request that we delete your account on any of our Service (via a user settings page, by e-mail, or otherwise), we will do so within a reasonable period of time, but we may need to retain some of your Personal Information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so.</p>
+<h2>Links</h2>
+<p>The Service may contain links to other Web sites, products, or services that we do not own or operate. For example, the Service may contain links to Third-Party Sites such as social networking services. If you choose to visit or use any Third-Party Sites or products or services available on or through such Third-Party Sites, please be aware that this Policy will not apply to your activities or any information you disclose while using those Third-Party Sites or any products or services available on or through such Third-Party Sites. We are not responsible for the privacy practices of these Third-Party Sites or any products or services on or through them. Additionally, please be aware that the Service may contain links to Web sites and services that we operate but that are governed by different privacy policies. We encourage you to carefully review the privacy policies applicable to any Web site or service you visit other than the Service before providing any Personal Information on them.
+Children</p>
+<p>Children’s safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Terms of Service prohibit users of the Service who are under the age of 18. We do not knowingly collect Personal Information from children under the age of 13. If we learn that we have collected Personal Information from a child under the age of 13 on our Service, we will delete that information as quickly as possible. If you believe that we may have collected any such Personal Information on our Service, please notify us at info@alomoves.com</p>
+<h2>International Visitors</h2>
+<p>Our servers and data centers are located in the United States. If you choose to use the Service from outside the U.S., then you should know that you are transferring your Personal Information outside of your region and into the U.S. for storage and processing. By providing your Personal Information to us through your use of the Service, you agree to that transfer, storage, and processing in the U.S. Also, we may transfer your data from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating the Service. You should know that each region can have its own privacy and data security laws, some of which may be less stringent as compared to those of your own region.</p>
+<h2>Security</h2>
+<p>We use reasonable security measures that are designed to protect personal information from accidental loss, disclosure, misuse, and destruction. Please be aware, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any information that you provide to us. You transmit information to us at your own risk. Always select a password that is unlikely to be available or discovered by others, and never disclose your password to any third parties. You are responsible for all Personal Information submitted through your account or user profile and all actions taken through your account and user profile. Therefore, if your password has been compromised for any reason, you should immediately change your password.</p>
+<h2>Updates to this Policy</h2>
+<p>We may occasionally update this Policy. When we do, we will also revise the “last updated” date at the beginning of the Policy. Your continued use of our Service after such changes will be subject to the then-current policy. If we change this Policy in a manner that is materially less restrictive of our use or disclosure of your Personal Information, we will use reasonable efforts to notify you of the change and to obtain your consent prior to applying the change to any Personal Information that we collected from you prior to the date the change becomes effective. We encourage you to periodically review this Policy to stay informed about how we collect, use, and disclose Personal Information.</p>
+<h2>Contacting Us</h2>
+<p>If you have any questions or comments about this Policy, please contact us using the following contact information:</p>
+Alo Moves, Inc.<br>
+1101 E. Pike St. #300<br>
+Seattle, WA 98122<br>
+info@alomoves.com<br>
+<br>
+Last Updated: May 17, 2018<br>
+
+</div>
+
+</div>
+</div> 
+</div>
+<div class="global-signup-container"><div class="global-signup-content"><div class="close"><span aria-hidden="true">×</span></div><div class="headline-container"><h1>Start your free <br>14-day trial </h1><p class="headline-caption hidden-xs">Get unlimited access to thousands of videos on Alo Moves</p></div><div class="learn-more-link"><a class="btn alo-button reverse" href="/membership#sign-up-container">Learn More</a></div></div></div>
+
+<footer><div class="footer-content"><div class="footer-top"><div class="logo"><a href="https://www.aloyoga.com/">
+<svg class="codicon codicon-alo-yoga" viewBox="0 0 199 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<title>Alo Yoga</title>
+<desc>Created with Sketch.</desc>
+<defs></defs>
+<g id="Alo-Yoga-Logo" stroke-width="1" transform="translate(-1.000000, -1.000000)">
+<g id="Alo-Yoga" transform="translate(1.000000, 1.000000)">
+<path d="M58.5604255,25.2206578 C53.6693872,25.2206578 49.6903872,29.1996579 49.6903872,34.0906961 C49.6903872,38.9817343 53.6693872,42.961074 58.5604255,42.961074 C63.4518034,42.961074 67.4308034,38.9817343 67.4308034,34.0906961 C67.4308034,29.1996579 63.4518034,25.2206578 58.5604255,25.2206578 M58.5604255,48.963542 C50.3588755,48.963542 43.6875795,42.2919064 43.6875795,34.0906961 C43.6875795,25.8894858 50.3588755,19.2178501 58.5604255,19.2178501 C66.7616358,19.2178501 73.4339508,25.8894858 73.4339508,34.0906961 C73.4339508,42.2919064 66.7616358,48.963542 58.5604255,48.963542" id="Fill-1"></path>
+<polygon id="Fill-3" points="34.2960321 48.9637119 40.2991794 48.9637119 40.2991794 0 34.2960321 0"></polygon>
+<path d="M14.8735253,42.9609382 C9.9821474,42.9609382 6.00280766,38.9819381 6.00280766,34.0908999 C6.00280766,29.1998617 9.9821474,25.2205219 14.8735253,25.2205219 C19.7645635,25.2205219 23.7435636,29.1998617 23.7435636,34.0908999 C23.7435636,38.9819381 19.7645635,42.9609382 14.8735253,42.9609382 Z M23.7435636,19.2180539 L23.7435636,22.160014 C21.2652654,20.3128394 18.1949068,19.2180539 14.8735253,19.2180539 C6.67231501,19.2180539 0,25.8896896 0,34.0908999 C0,42.2921102 6.67231501,48.9637458 14.8735253,48.9637458 C18.1949068,48.9637458 21.2652654,47.8686207 23.7435636,46.0217858 L23.7435636,48.9637458 L29.7463712,48.9637458 L29.7463712,19.2180539 L23.7435636,19.2180539 Z" id="Fill-5"></path>
+<path d="M118.594073,47.2553642 C111.341246,47.2553642 105.440003,41.3544602 105.440003,34.1016337 C105.440003,26.8488073 111.341246,20.9485827 118.594073,20.9485827 C125.846899,20.9485827 131.748143,26.8488073 131.748143,34.1016337 C131.748143,41.3544602 125.846899,47.2553642 118.594073,47.2553642 M118.594073,19.1659472 C110.357876,19.1659472 103.657707,25.8661159 103.657707,34.1016337 C103.657707,42.3374913 110.357876,49.0379997 118.594073,49.0379997 C126.82993,49.0379997 133.530439,42.3374913 133.530439,34.1016337 C133.530439,25.8661159 126.82993,19.1659472 118.594073,19.1659472" id="Fill-6"></path>
+<path d="M101.960093,19.1218908 C101.957036,19.1300431 101.953979,19.1381954 101.951261,19.1463477 L101.925106,19.219039 C101.911179,19.2584418 101.896913,19.2981842 101.882986,19.337587 C101.863964,19.3919356 101.844263,19.4462843 101.82524,19.5006329 C101.800444,19.5692481 101.776327,19.6378633 101.75187,19.7061387 L101.664233,19.952406 L101.562669,20.2377364 C101.524625,20.345075 101.485901,20.4524135 101.447857,20.5600918 L101.320477,20.9177738 C101.273941,21.0482105 101.227745,21.1786473 101.181209,21.309084 C101.130937,21.4500508 101.080664,21.5913573 101.030731,21.7323241 C100.976383,21.8831416 100.922713,22.0342987 100.869044,22.1854559 C100.811978,22.3457844 100.754912,22.5061129 100.697846,22.6667811 C100.637383,22.8359412 100.57726,23.0051014 100.517137,23.1742615 C100.453617,23.3519137 100.390776,23.5292261 100.327256,23.7065386 C100.261698,23.8916636 100.1958,24.076449 100.129903,24.2615741 C100.061287,24.4538324 99.9930119,24.6457511 99.9247364,24.8380094 L99.7127767,25.433127 C99.6400854,25.6372741 99.567394,25.8417609 99.4943631,26.045908 C99.4199734,26.2551503 99.3455836,26.4647322 99.2708543,26.6743142 C99.1944265,26.888312 99.1183384,27.1026494 99.0422503,27.3166472 C98.9644638,27.5347211 98.8866773,27.7527951 98.8092305,27.970869 C98.7300853,28.1923397 98.6516194,28.4138104 98.5724742,28.6352812 C98.4926496,28.8594693 98.4128251,29.0839972 98.3330005,29.3081853 C98.2521569,29.5347512 98.1716529,29.7613171 98.0908093,29.987883 C98.0096261,30.2161473 97.9284428,30.4444116 97.8472595,30.6723363 L97.6023509,31.3601863 C97.5208279,31.5898093 97.4386256,31.8194323 97.3571027,32.0490553 C97.27524,32.2783387 97.193717,32.5079617 97.1121941,32.737245 C97.0303314,32.9661887 96.9491482,33.1947927 96.8676252,33.4237363 C96.7867816,33.6506419 96.7055983,33.8782269 96.6247547,34.1054721 C96.5445904,34.3306793 96.4644262,34.5562262 96.3842619,34.7817731 C96.304777,35.0042628 96.2252922,35.2274319 96.1461469,35.4499217 C96.0676811,35.669694 95.9898946,35.8894663 95.9114287,36.108899 C95.8346613,36.3249348 95.7575541,36.540631 95.6811264,36.7566669 C95.6057176,36.9682869 95.5299692,37.1799069 95.4549001,37.3911873 C95.3815295,37.5980518 95.3078191,37.804237 95.2341088,38.0111015 C95.1624365,38.2121915 95.0911039,38.4129418 95.0194316,38.6140318 C94.9501371,38.8090075 94.8808426,39.0039833 94.8112084,39.1986194 C94.7442916,39.3868015 94.6773749,39.5749837 94.6104581,39.7631659 C94.5459191,39.9438751 94.4813801,40.1249241 94.4171807,40.3056333 C94.3556988,40.4785299 94.2942169,40.6510869 94.232735,40.8239835 C94.1739705,40.9883881 94.1155458,41.1524531 94.057121,41.3168577 C94.0017533,41.4720911 93.9463856,41.6273244 93.8913576,41.7825577 C93.8397264,41.9279403 93.7877555,42.0733229 93.7361243,42.2187055 C93.6878899,42.3538978 93.6399951,42.48909 93.5917607,42.6239426 C93.5472628,42.7482651 93.5034442,42.872248 93.4592859,42.9965705 L93.3386998,43.3345511 L93.2313613,43.6358464 C93.2001108,43.7238233 93.1688603,43.8118002 93.1376099,43.8994373 L93.058125,44.1229461 L92.9935859,44.3043347 C92.9772814,44.3505311 92.9606371,44.3963877 92.9443325,44.4425841 C92.8876061,44.6012142 92.7958928,44.8145326 92.5856314,44.7629014 C92.4280204,44.724178 92.3594052,44.540072 92.2952059,44.4106543 C92.2228542,44.2652716 92.1505026,44.119889 92.078151,43.9748461 C92.0017232,43.8202921 91.9242764,43.6664175 91.8478486,43.5118636 L79.8670299,19.1772585 L79.8398555,19.1218908 L77.8523936,19.1218908 L91.8427534,47.5373997 L86.9439026,61.2950794 L86.8973666,61.4272145 L88.7900581,61.4272145 L103.80523,19.2543656 L103.851426,19.1218908 L101.960093,19.1218908 Z" id="Fill-7"></path>
+<path d="M150.897412,46.0315007 C144.132025,46.0315007 138.628545,40.5276815 138.628545,33.7626341 C138.628545,26.997247 144.132025,21.4934278 150.897412,21.4934278 C157.662459,21.4934278 163.165939,26.997247 163.165939,33.7626341 C163.165939,40.5276815 157.662459,46.0315007 150.897412,46.0315007 Z M163.165939,19.1312999 L163.165939,19.2416956 L163.165939,19.5487654 L163.165939,20.0154844 L163.165939,20.6055069 L163.165939,21.2821475 L163.165939,22.0090606 L163.165939,22.7492212 L163.165939,23.466963 L163.165939,24.1249212 L163.165939,24.6867503 L163.165939,25.1157649 L163.165939,25.3756194 C163.165939,25.5237194 163.144879,25.667064 163.042635,25.7818755 C162.948884,25.8868363 162.810635,25.9289565 162.673404,25.9007631 C162.472654,25.859662 162.374147,25.6769147 162.263072,25.5233797 C162.259675,25.5169258 162.257637,25.51251 162.256618,25.5148878 C159.631918,21.892211 155.441638,19.711132 150.897412,19.711132 C143.149333,19.711132 136.846249,26.0145556 136.846249,33.7626341 C136.846249,41.5103729 143.149333,47.8141362 150.897412,47.8141362 C155.462019,47.8141362 159.669283,45.6133558 162.293303,41.963165 L162.326932,41.9149306 C162.361579,41.8656771 162.405737,41.8211792 162.453292,41.7848335 C162.599014,41.6727395 162.777346,41.6866663 162.927824,41.7824558 C163.04807,41.8585439 163.117025,41.9835458 163.145898,42.1200967 C163.160844,42.1914293 163.165939,42.2648 163.165939,42.3374913 L163.165939,46.3382308 L163.166958,46.553927 C163.094266,48.4605453 162.937674,50.0138975 162.414229,51.3946927 C161.791937,53.0380598 160.828268,54.5808819 159.625804,55.8556973 C158.47701,57.0734466 157.059189,58.0619125 155.409708,58.7922224 C153.953844,59.4359142 152.206535,59.7130923 150.240473,59.6077918 C145.247531,59.347258 141.139453,56.1929986 139.252196,51.1715236 L139.228079,51.1073243 L137.350333,51.1073243 L137.394491,51.2381007 C139.403693,57.1919946 144.289976,61.081659 150.146042,61.3887289 C150.446997,61.4040144 150.746594,61.4118271 151.03736,61.4118271 C152.935826,61.4118271 154.650186,61.0789416 156.132205,60.4216627 C157.999761,59.5942046 159.611877,58.469867 160.922699,57.0788815 C162.284132,55.6345663 163.377219,53.8872574 164.082053,52.0268354 C164.690758,50.4157378 164.869089,48.6888096 164.948574,46.5878949 L164.948574,19.1312999 L163.165939,19.1312999 Z" id="Fill-8"></path>
+<path d="M183.146334,47.2570286 C175.893508,47.2570286 169.993283,41.3561246 169.993283,34.1029585 C169.993283,26.8504717 175.893508,20.9499074 183.146334,20.9499074 C190.399161,20.9499074 196.300404,26.8504717 196.300404,34.1029585 C196.300404,41.3561246 190.399161,47.2570286 183.146334,47.2570286 Z M196.300404,19.131266 L196.300404,24.8905238 C196.290554,25.373887 196.092861,25.6351002 195.678452,25.704055 C195.597609,25.7047344 195.446112,25.666011 195.275933,25.4136295 L195.274574,25.4146485 C192.492263,21.5130953 188.026163,19.1676116 183.146334,19.1676116 C174.911156,19.1676116 168.210648,25.8674406 168.210648,34.1029585 C168.210648,42.338816 174.911156,49.0393244 183.146334,49.0393244 C188.024465,49.0393244 192.489545,46.6948598 195.271856,42.7953446 L195.272875,42.796024 C195.443055,42.5439822 195.594891,42.5049191 195.675395,42.5055984 C196.101013,42.5765914 196.299725,42.8476552 196.299725,43.3551357 L196.300404,43.3551357 L196.300404,49.0393244 L198.0827,49.0393244 L198.0827,19.131266 L196.300404,19.131266 Z" id="Fill-9"></path>
+</g>
+</g>
+</svg>
+</a></div><ul class="footer-social"><li><a class="social-icon" href="https://www.facebook.com/alomoves">
+<svg class="codicon codicon-facebook" viewBox="0 0 22 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<title>Facebook</title>
+<defs></defs>
+<g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="Facebook-Copy" fill="#fff" fill-rule="nonzero">
+<g id="Group-4-Copy" transform="translate(0.100458, 0.161569)">
+<g id="Group-3">
+<path d="M12.236,36.6626 L12.236,20.6606 L18.4101296,20.6606 L18.6267676,16.1126 L12.236,16.1126 L12.236,10.6706 C12.236,8.38588464 13.105736,7.3726 15.394,7.3726 C16.1822368,7.3726 17.1245207,7.37648545 18.1492286,7.38313155 C18.2711812,7.38392252 18.3904595,7.38472566 18.5068623,7.38553649 L18.610562,3.17778233 C18.4630098,3.16433087 18.3098972,3.15102516 18.1521379,3.13805983 C17.0963971,3.0512946 16.0713066,3.0006 15.146,3.0006 C9.98098257,3.0006 7.346,5.91538385 7.346,9.9366 L7.346,16.1106 L3,16.1106 L3,20.6606 L7.346,20.6606 L7.346,36.6626 L12.236,36.6626 Z M19.8945533,3.31334018 C19.8866433,3.31236548 19.8786774,3.31138744 19.8706563,3.31040615 C19.8784389,3.31157754 19.886484,3.31249334 19.8945533,3.31334018 Z M18.6436978,1.83325228 C18.6426637,1.85496924 18.6421331,1.87662922 18.6420967,1.89821857 L18.6436978,1.83325228 Z M15.236,23.6606 L15.236,38.0826 C15.236,38.9601429 14.5214316,39.6626 13.656,39.6626 L5.926,39.6626 C5.0463671,39.6626 4.346,38.9499458 4.346,38.0826 L4.346,23.6606 L1.58,23.6606 C0.695132976,23.6606 0,22.9410764 0,22.0806 L0,14.6886 C0,13.8171729 0.706572875,13.1106 1.58,13.1106 L4.346,13.1106 L4.346,9.9366 C4.346,4.32227567 8.25282144,0.0006 15.146,0.0006 C16.163172,0.0006 17.2666127,0.0551693091 18.3978621,0.148140168 C19.1396883,0.209106574 19.7865042,0.277336099 20.2350272,0.332841821 C21.0844375,0.42225343 21.6791934,1.15923355 21.6415468,1.94147055 L21.4704528,8.88671149 C21.4324336,9.72313494 20.7469423,10.3966 19.878487,10.3965391 C19.3906673,10.3921444 18.8008427,10.3874209 18.1297714,10.3830685 C17.1109969,10.3764608 16.1746825,10.3726 15.394,10.3726 C15.3384607,10.3726 15.2872079,10.373237 15.2401851,10.3744169 C15.2374281,10.4590805 15.236,10.5573018 15.236,10.6706 L15.236,13.1126 L20.114,13.1126 C20.9948108,13.1126 21.7345722,13.8400321 21.6943013,14.765967 L21.3423022,22.1559477 C21.3024209,22.9934558 20.6110169,23.6606 19.766,23.6606 L15.236,23.6606 Z M15.2636941,10.0502534 C15.2659392,10.0453203 15.266999,10.0425094 15.2670776,10.0420596 C15.2670056,10.0424716 15.2658778,10.0452029 15.2636941,10.0502534 Z" id="Stroke-9"></path>
+</g>
+</g>
+</g>
+</g>
+</svg>
+
+<svg class="codicon codicon-facebook-hover" viewBox="0 0 22 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<title>Facebook</title>
+<defs></defs>
+<g id="Facebook-Copy" stroke="#3B5999" stroke-width="1" fill="none" fill-rule="evenodd">
+<path d="M13.3364578,21.8221695 L13.3364578,37.8241695 L12.3364578,37.8241695 L7.44645784,37.8241695 L6.44645784,37.8241695 L6.44645784,21.8221695 L2.10045784,21.8221695 L2.10045784,15.2721695 L6.44645784,15.2721695 L6.44645784,10.0981695 C6.44645784,5.29771622 9.76795752,2.1621695 15.2464578,2.1621695 C16.1706875,2.1621695 17.2129745,2.21081743 18.3345038,2.30298944 C18.4920523,2.31593744 18.6480688,2.32946611 18.8018074,2.34348155 L19.7337727,2.42844333 L19.5828108,8.5539252 L18.6003546,8.54708172 C18.4245512,8.54587097 18.4245512,8.54587097 18.2432007,8.54468001 C17.1796326,8.53778187 16.2531707,8.5341695 15.4944578,8.5341695 C13.8127084,8.5341695 13.3364578,9.04394758 13.3364578,10.8321695 L13.3364578,15.2741695 L19.7759929,15.2741695 L19.4640876,21.8221695 L13.3364578,21.8221695 Z" id="Path-Copy" fill="#3B5999" fill-rule="nonzero"></path>
+</g>
+</svg>
+</a></li><li><a class="social-icon" href="https://www.instagram.com/alo.moves">
+<svg class="codicon codicon-instagram" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<title>Instagram</title>
+<defs></defs>
+<g id="Symbols">
+<g id="Instagram">
+<g id="Group-4-Copy" transform="translate(-70.000000, 1.191725)">
+<g id="Group-3">
+<path d="M100.4138,9.558 C99.7518,9.558 99.2118,9.02 99.2118,8.356 C99.2118,7.694 99.7518,7.156 100.4138,7.156 C101.0778,7.156 101.6158,7.694 101.6158,8.356 C101.6158,9.02 101.0778,9.558 100.4138,9.558 Z M89.9398,26.952 C85.4558,26.952 81.8198,23.316 81.8198,18.832 C81.8198,14.348 85.4558,10.712 89.9398,10.712 C94.4238,10.712 98.0598,14.348 98.0598,18.832 C98.0598,23.316 94.4238,26.952 89.9398,26.952 Z M108.1598,11.274 C108.0718,9.322 107.7618,7.99 107.3078,6.824 C106.8398,5.618 106.2118,4.596 105.1958,3.578 C104.1758,2.558 103.1518,1.932 101.9478,1.464 C100.7818,1.01 99.4498,0.7 97.4978,0.61 C95.5418,0.522 94.9178,0.5 89.9398,0.5 C84.9598,0.5 84.3378,0.522 82.3818,0.61 C80.4318,0.7 79.0978,1.01 77.9318,1.464 C76.7258,1.932 75.7058,2.558 74.6858,3.578 C73.6658,4.596 73.0378,5.618 72.5718,6.824 C72.1198,7.99 71.8078,9.322 71.7178,11.274 C71.6298,13.228 71.6098,13.852 71.6098,18.832 C71.6098,23.81 71.6298,24.434 71.7178,26.39 C71.8078,28.34 72.1198,29.674 72.5718,30.84 C73.0378,32.044 73.6658,33.066 74.6858,34.086 C75.7058,35.104 76.7258,35.732 77.9318,36.2 C79.0978,36.654 80.4318,36.964 82.3818,37.052 C84.3378,37.142 84.9598,37.162 89.9398,37.162 C94.9178,37.162 95.5418,37.142 97.4978,37.052 C99.4498,36.964 100.7818,36.654 101.9478,36.2 C103.1518,35.732 104.1758,35.104 105.1958,34.086 C106.2118,33.066 106.8398,32.044 107.3078,30.84 C107.7618,29.674 108.0718,28.34 108.1598,26.39 C108.2498,24.434 108.2718,23.81 108.2718,18.832 C108.2718,13.852 108.2498,13.228 108.1598,11.274 Z" id="Stroke-1"></path>
+</g>
+</g>
+</g>
+</g>
+</svg>
+
+<svg class="codicon codicon-instagram-hover" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<title>Instagram</title>
+<defs>
+<linearGradient x1="92.5374995%" y1="7.18547264%" x2="6.4056312%" y2="92.1021692%" id="linearGradient-1">
+<stop stop-color="#3023AE" offset="0%"></stop>
+<stop stop-color="#C90DD2" offset="100%"></stop>
+</linearGradient>
+</defs>
+<g id="Instagram-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="Group-4-Copy" transform="translate(-70.000000, 1.191725)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+<g id="Group-3">
+<path d="M100.4138,8.058 C100.249373,8.058 100.1158,8.19157288 100.1158,8.356 C100.1158,8.52250436 100.249449,8.656 100.4138,8.656 C100.579075,8.656 100.7118,8.52358005 100.7118,8.356 C100.7118,8.19049688 100.579151,8.058 100.4138,8.058 Z M100.4138,11.058 C98.9230676,11.058 97.7118,9.8481231 97.7118,8.356 C97.7118,6.86518 98.9237629,5.656 100.4138,5.656 C101.905532,5.656 103.1158,6.86487725 103.1158,8.356 C103.1158,9.84842712 101.906227,11.058 100.4138,11.058 Z M89.9398,25.452 C93.5953729,25.452 96.5598,22.4875729 96.5598,18.832 C96.5598,15.1764271 93.5953729,12.212 89.9398,12.212 C86.2842271,12.212 83.3198,15.1764271 83.3198,18.832 C83.3198,22.4875729 86.2842271,25.452 89.9398,25.452 Z M89.9398,28.452 C84.6273729,28.452 80.3198,24.1444271 80.3198,18.832 C80.3198,13.5195729 84.6273729,9.212 89.9398,9.212 C95.2522271,9.212 99.5598,13.5195729 99.5598,18.832 C99.5598,24.1444271 95.2522271,28.452 89.9398,28.452 Z M107.994264,10.7461142 C107.913505,8.95476001 107.654281,7.66488779 107.182332,6.45278684 C106.73376,5.29685089 106.15878,4.40122461 105.266636,3.50732337 C104.373663,2.61435029 103.478341,2.04010356 102.317301,1.58880196 C101.107596,1.11778469 99.8169938,0.857967889 98.0274127,0.775455461 C95.7206729,0.671675756 94.8930318,0.658323442 89.9397203,0.658323442 C84.9851493,0.658323442 84.1593589,0.671649154 81.8539073,0.775369812 C80.0636453,0.857997286 78.7708839,1.11815881 77.5604274,1.58946752 C76.4027558,2.03871323 75.5104693,2.61181798 74.6138395,3.50844668 C73.7183322,4.40219809 73.1440781,5.2960407 72.6973166,6.45224921 C72.2256359,7.66901837 71.9653906,8.95953187 71.8830927,10.7444616 C71.7809076,13.0134356 71.7681234,13.8306211 71.7681234,18.8320797 C71.7681234,23.8314022 71.7809031,24.6483021 71.8830104,26.9178927 C71.9654196,28.7034256 72.2260137,29.9961156 72.6976253,31.2127072 C73.1439968,32.3659931 73.7187671,33.2606392 74.6138395,34.1557128 C75.5119169,35.0520292 76.4059924,35.6267022 77.5621396,36.0753575 C78.7715703,36.5462679 80.0636038,36.8058362 81.8536787,36.8866197 C84.1173664,36.9907771 84.9290422,37.0036766 89.9397203,37.0036766 C94.9491524,37.0036766 95.7626267,36.9907516 98.0272639,36.8865512 C99.81704,36.8058646 101.106912,36.5466409 102.318168,36.0750203 C103.475084,35.6253221 104.372236,35.0494812 105.264388,34.1590882 C106.158346,33.2616113 106.733841,32.3651822 107.182998,31.2096604 C107.653908,30.0002297 107.913477,28.7081962 107.99426,26.9181213 C108.099967,24.6207568 108.113477,23.7958782 108.113477,18.8320797 C108.113477,13.8661447 108.099962,13.0409363 107.994264,10.7461142 Z" id="Stroke-1"></path>
+</g>
+</g>
+</g>
+</svg>
+</a></li><li><a class="social-icon" href="https://www.youtube.com/c/alomoves">
+<svg class="codicon codicon-youtube" width="21px" height="21px" viewBox="0 0 46 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<title>YouTube</title>
+<defs></defs>
+<g id="Symbols" stroke="#fff" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+<g id="YouTube" stroke="#fff" stroke-width="3">
+<g id="Group-4-Copy" transform="translate(-159.086994, 1.000000)">
+<g id="Group-3">
+<g id="Group-12" transform="translate(160.000000, 0.000000)">
+<polygon id="Stroke-5" points="15.8514 27.2768 15.8514 10.4268 32.1574 19.0448"></polygon>
+<path d="M38.736,36.0864 C27.468,37.5224 16.594,37.5224 5.326,36.0864 C3.288,35.8264 1.66,34.1904 1.428,32.1484 C0.414,23.3004 0.414,14.3624 1.426,5.5144 C1.66,3.4724 3.288,1.8364 5.326,1.5784 C16.594,0.1424 27.468,0.1424 38.736,1.5784 C40.774,1.8364 42.402,3.4724 42.634,5.5144 C43.646,14.3644 43.646,23.3004 42.634,32.1484 C42.402,34.1904 40.774,35.8264 38.736,36.0864 Z" id="Stroke-7"></path>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
+
+<svg class="codicon codicon-youtube-hover" viewBox="0 0 46 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<title>YouTube</title>
+<defs></defs>
+<g id="YouTube-Copy" stroke="#CD201F" stroke-width="2" fill="none" fill-rule="evenodd">
+<g id="Group-4-Copy" transform="translate(-159.086994, 1.000000)">
+<g id="Group-3">
+<g id="Group-12" transform="translate(160.000000, 0.000000)">
+<path d="M42.7409396,33.0764514 C43.8234704,23.6117942 43.8234704,14.0529764 42.7408011,4.58496502 C42.5745707,3.12185104 41.3976272,1.93511028 39.9265497,1.74887911 C27.853372,0.210266816 16.2087739,0.210266816 4.1342539,1.74904959 C2.66450129,1.93511248 1.48680361,3.12218402 1.31903911,4.58617982 C0.236247259,14.0531189 0.236784808,23.613965 1.32134472,33.0776662 C1.48757716,34.5407983 2.66483876,35.7282858 4.13559607,35.9159193 C16.208738,37.454527 27.8533028,37.4545315 39.9264422,35.9159329 C41.3973644,35.728228 42.5745727,34.5407626 42.7409396,33.0764514 Z" id="Stroke-7" fill="#CD201F" fill-rule="nonzero"></path>
+<polygon id="Stroke-5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="15.8514 27.2768 15.8514 10.4268 32.1574 19.0448"></polygon>
+</g>
+</g>
+</g>
+</g>
+</svg>
+</a></li><li><a class="social-icon" href="https://twitter.com/alomoves">
+<svg class="codicon codicon-twitter" viewBox="0 0 44 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<title>Twitter</title>
+<defs></defs>
+<g id="Symbols" stroke="none" stroke-width="1" fill="none">
+<g id="Twitter-Copy" fill="#fff">
+<g id="Group-4-Copy" transform="translate(-344.000561, 0.000000)">
+<g id="Group-3">
+<path d="M373.0388,2.3578 C367.7628,2.3578 363.3728,6.2238 362.5548,11.2698 C358.5328,10.3498 354.8848,8.1038 352.2368,4.8558 C351.6628,4.1538 350.8088,3.7518 349.9108,3.7518 C349.8328,3.7518 349.7548,3.7558 349.6748,3.7618 C348.6948,3.8378 347.8148,4.3918 347.3188,5.2418 C346.3768,6.8578 345.8788,8.7038 345.8788,10.5818 C345.8788,11.7978 346.0848,12.9818 346.4748,14.0958 C346.0668,14.6078 345.8288,15.2478 345.8188,15.9218 C345.8188,15.9378 345.8168,16.0498 345.8168,16.0658 C345.8168,18.7518 346.8328,21.2498 348.5328,23.1478 C348.4508,23.6178 348.4808,24.1098 348.6308,24.5798 C349.1828,26.3078 350.1528,27.8158 351.4028,29.0138 C350.6648,29.1478 349.9108,29.2158 349.1428,29.2158 C348.6528,29.2158 348.1608,29.1878 347.6748,29.1318 C347.5588,29.1158 347.4408,29.1098 347.3248,29.1098 C346.0708,29.1098 344.9308,29.8958 344.4988,31.0998 C344.0288,32.4158 344.5288,33.8818 345.7068,34.6358 C349.6828,37.1858 354.2808,38.5318 359.0048,38.5318 C374.2608,38.5318 383.4548,26.2958 383.6788,14.3098 C384.8968,13.2578 385.9688,12.0538 386.8788,10.7138 C387.2488,10.2158 387.4688,9.5978 387.4688,8.9298 C387.4688,7.9878 387.0368,7.1478 386.3588,6.5978 C386.6208,5.4758 386.2188,4.2938 385.3068,3.5678 C384.7628,3.1358 384.1008,2.9138 383.4368,2.9138 C382.9108,2.9138 382.3828,3.0538 381.9088,3.3338 C381.1088,3.8078 380.2668,4.1858 379.3928,4.4658 C377.5708,3.1098 375.3328,2.3578 373.0388,2.3578 M384.4648,8.9298 L384.4748,8.9298 M373.0388,5.3578 C375.2308,5.3578 377.2088,6.2818 378.5988,7.7638 C380.3348,7.4218 381.9648,6.7878 383.4368,5.9138 C382.8688,7.6938 381.6608,9.1858 380.0868,10.1298 C381.6288,9.9438 383.0968,9.5358 384.4648,8.9298 C383.4428,10.4578 382.1508,11.7998 380.6628,12.8738 C380.6748,13.1998 380.6828,13.5278 380.6828,13.8578 C380.6828,23.9258 373.0188,35.5318 359.0048,35.5318 C354.7028,35.5318 350.6968,34.2718 347.3268,32.1098 C347.9208,32.1818 348.5268,32.2158 349.1428,32.2158 C352.7128,32.2158 355.9968,30.9978 358.6048,28.9558 C355.2708,28.8938 352.4568,26.6918 351.4888,23.6658 C351.9528,23.7538 352.4288,23.8018 352.9208,23.8018 C353.6168,23.8018 354.2888,23.7078 354.9288,23.5338 C351.4428,22.8358 348.8168,19.7558 348.8168,16.0658 C348.8168,16.0318 348.8168,16.0018 348.8188,15.9698 C349.8448,16.5398 351.0188,16.8818 352.2688,16.9218 C350.2248,15.5558 348.8788,13.2238 348.8788,10.5818 C348.8788,9.1858 349.2528,7.8778 349.9108,6.7518 C353.6668,11.3598 359.2828,14.3938 365.6148,14.7118 C365.4868,14.1538 365.4168,13.5718 365.4168,12.9758 C365.4168,8.7678 368.8308,5.3578 373.0388,5.3578" id="Fill-3"></path>
+</g>
+</g>
+</g>
+</g>
+</svg>
+
+<svg class="codicon codicon-twitter-hover" viewBox="0 0 44 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<title>Twitter</title>
+<defs></defs>
+<g id="Twitter-Copy" stroke="#55ACEE" stroke-width="2" fill="none" fill-rule="evenodd">
+<path d="M29.3953891,4.15865072 C31.696989,4.15865072 33.7738889,5.12885068 35.2333888,6.6849506 C37.0561887,6.32585062 38.7676886,5.66015065 40.3132886,4.74245069 C39.7168886,6.61145061 38.4484887,8.17805054 36.7957887,9.16925049 C38.4148887,8.9739505 39.9562886,8.54555052 41.3926885,7.90925055 C40.3195886,9.51365048 38.9629886,10.9227504 37.4005887,12.0504504 C37.4131887,12.3927503 37.4215887,12.7371503 37.4215887,13.0836503 C37.4215887,23.6550498 29.3743891,35.8413493 14.6596897,35.8413493 C10.1425899,35.8413493 5.93629013,34.5183493 2.39779029,32.2482494 C3.02149026,32.3238494 3.65779023,32.3595494 4.3045902,32.3595494 C8.05309003,32.3595494 11.5012899,31.0806495 14.2396898,28.9365496 C10.7389899,28.8714496 7.78429005,26.5593497 6.76789009,23.3820498 C7.25509007,23.4744498 7.75489005,23.5248498 8.27149002,23.5248498 C9.00228999,23.5248498 9.70788996,23.4261498 10.3798899,23.2434499 C6.71959009,22.5105499 3.96229022,19.27655 3.96229022,15.4020502 C3.96229022,15.3663502 3.96229022,15.3348502 3.96439022,15.3012502 C5.04169017,15.8997502 6.27439012,16.2588502 7.58689006,16.3008502 C5.44069015,14.8665502 4.02739022,12.4179503 4.02739022,9.64385047 C4.02739022,8.17805054 4.4200902,6.8046506 5.11099017,5.62235065 C9.05478999,10.4607504 14.9515897,13.6464503 21.6001894,13.9803503 C21.4657894,13.3944503 21.3922894,12.7833503 21.3922894,12.1575504 C21.3922894,7.73915056 24.9769893,4.15865072 29.3953891,4.15865072" id="Path-Copy-2" fill="#55ACEE"></path>
+</g>
+</svg>
+</a></li></ul></div><div class="footer-bottom"><div class="footer-left"><ul class="footer-nav"><li><a href="https://support.alomoves.com/">Support</a></li><li><a href="http://careers.alomoves.com/">Careers</a></li></ul></div><div class="footer-right"><div class="footer-legal"><p class="copyright">© 2018 Alo Moves. All rights reserved.</p><ul class="footer-nav"><li><a target="_blank" href="/terms">Terms</a></li><li><a target="_blank" href="/privacy">Privacy</a></li></ul></div></div></div></div></footer>
+
+<script type="text/javascript">
+       $(function () {
+  setTimeout(function () {
+    $('.alert').animate({
+      opacity: 1,
+      marginTop: 0,
+      marginBottom:-20
+    }, 200);
+  }, 200);
+
+  setTimeout(function () {
+    $('.alert').animate({
+      opacity: 0,
+      marginTop: -58,
+      marginBottom: 0
+    }, 200, function () {
+      $('.alert').alert('close');
+    });
+  }, 2500);
+});
+
+     </script>
+
+<div style="display:none">
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 987748104;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/987748104/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</div>
+
+
+</body></html>
