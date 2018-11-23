@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uptodatejobs.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319161426id_/http%3A//uptodatejobs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptodatejobs.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123163152id_/http%3A//freejobalert.cc/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -43,4 +43,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 #### Note:
 
-Uptodatejobs.com is website that gives information about Job Opportunities. The website is neither directly nor indirectly involved in any step of recruitment. We just share jobs available in different companies worldwide. Once you visit our website and click on the apply now button for the desired job, it will direct you to the career page of the concerned company. Once you reach that page, our job is done.
+freejobalert - Find the Jobs Alert free, Updates all over the world jobs This site Provides the Jobs Free Alert, to your Inbox and Provide the Best job Alert. freejobalert.cc provides the latest job alert ( free job alert ) all over the world. freejobalert is website that gives information about Job Opportunities. The website is neither directly nor indirectly involved in any step of recruitment. We just share jobs available in different companies worldwide. Once you visit our website and click on the apply now button for the desired job, it will direct you to the career page of the concerned company. Once you reach that page, our job is done.
