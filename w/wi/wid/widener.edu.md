@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the widener.edu privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525164042id_/http%3A//www.widener.edu/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widener.edu privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123133428id_/http%3A//www.widener.edu/privacy/default.aspx) for the most accurate reproduction.*
 
 # Widener University | Privacy Statement
 
