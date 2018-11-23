@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agriculture.vic.gov.au privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524140331id_/http%3A//agriculture.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.vic.gov.au privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123130201id_/http%3A//agriculture.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Agriculture Victoria
 
@@ -28,7 +28,7 @@ The Department's privacy policy is available from the Privacy Officer.
 Department of Economic Development, Jobs, Transport and Resources   
 GPO Box 2392   
 Melbourne, VIC, 3001, AUS   
-**Tel:** (+ 61 3) 9665 9535 **  
+**Tel:** (+ 61 3) 8392 6329 **  
 Email:** _[privacy@ecodev.vic.gov.au](mailto:privacy@ecodev.vic.gov.au)_
 
 ##  _Privacy and Data Protection Act 2014_  (Vic): Personal information
