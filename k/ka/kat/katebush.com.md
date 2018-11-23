@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katebush.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524153912id_/http%3A//www.katebush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katebush.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123154605id_/http%3A//www.katebush.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Kate Bush
 
@@ -92,4 +92,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
  **CONTACT**
 
-If you have any questions, comments or requests regarding this privacy policy, the practices of this website or your dealings with this website you can contact us by emailing [admin@katebush.com](mailto:admin@katebush.com) or by writing to katebush.com c/o OJK, 19 Portland Place, London, W1B 1PX, UK .
+If you have any questions, comments or requests regarding this privacy policy, the practices of this website or your dealings with this website you can contact us by emailing [admin@katebush.com](mailto:admin@katebush.com) or by writing to katebush.com c/o OJK, 4th Floor, 180 Great Portland Street, London, W1W 5QZ, UK.
