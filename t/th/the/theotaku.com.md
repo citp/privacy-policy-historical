@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the theotaku.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525002127id_/http%3A//www.theotaku.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theotaku.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123114530id_/http%3A//www.theotaku.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - theOtaku.com
+
+[](http://animenyc.com/)
 
 ## Privacy Policy
 
@@ -17,3 +19,13 @@ From time to time, we may use customer information for new, unanticipated uses n
 **With respect to security:** We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 **With respect to email:** If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings. We use security measures to protect against the loss, misuse and alteration of data used by our system. We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you. Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email. 
+
+  
+  
+
+
+**Nimble Strong: Bartender in Training (Mobile Game)**
+
+"Phoenix Wright meets Bartending!" Learn how to mix 75+ cocktails on your phone. 
+
+Available on [iPhone](https://itunes.apple.com/us/app/nimble-strong-hd/id375879786?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.nimblestrong.nimblestrong). Try it free!
