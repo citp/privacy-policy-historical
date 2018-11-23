@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onestopenglish.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529163725id_/http%3A//www.onestopenglish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopenglish.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123125137id_/http%3A//www.onestopenglish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Onestopenglish
 
-This is the privacy policy (“policy”) for the website [http://www.onestopenglish.com](http://www.onestopenglish.com/) which is run and provided by Macmillan Publishers Ltd (‘Macmillan Education’), The Macmillan Campus, 4 Crinan Street, London N1 9XW ( **we** , **us** and **our** ).
+This is the privacy policy (“policy”) for the website [http://www.onestopenglish.com](http://www.onestopenglish.com/) which is run and provided by Springer Nature Limited (‘Macmillan Education’), The Campus, 4 Crinan Street, London N1 9XW ( **we** , **us** and **our** ).
 
 We will only use the personal data gathered over this website as set out in this policy. Below you will find information on how we use your personal data, for which purposes your personal data is used, with whom it is shared and what control and information rights you may have.
 
@@ -90,7 +90,7 @@ For the use of the following services you have to set up an account as described
 
 Our user comments can be accessed and read without registration. Anything you post on the site will be available to a broader public; you can delete your posts at any point in time. In order to provide content yourself, you will have to register as described in IV. You are not obliged to provide your real name but can use an alias or post as ‘anonymous’. However, onestopenglish staff can see the email address of the user account linked to all comments.
 
-You can delete your user account by requesting a deletion of your registered account on onestopenglish. In case you decide to delete your user account, all your account data will be deleted. Information posted by you on the site, including your chosen username, will remain visible.
+You can delete your free user account by requesting a deletion of your registered account on onestopenglish. In case you decide to delete your user account, all your account data will be deleted. Information posted by you on the site, including your chosen username, may remain visible.
 
 In addition to the extent of processing described under IV, when you post a comment we will retain the email address linked to your account as long as the comment is hosted on the site. This is necessary to defend ourselves from possible liability claims that may arise from unlawful comments posted by you and reflects our legitimate interest with regard to the legal justification of this processing activity in Article 6 sec. 1 sent. 1 lit. f GDPR.
 
@@ -100,7 +100,7 @@ Please see our Terms and Conditions for further details on what rights we hold a
 
  **2\. Subscription payments**
 
-By statutory law we are required to retain the provided financial data in relation to transactions (including address, payment and order information) for ten years. However, after 2 years we will restrict the processing of your personal data to comply with the statutory requirements and will not process the personal data any further. Regarding this, the retention of your personal data is based on Article 6 sec. 1 sent. 1 lit. c GDPR.
+By statutory law we are required to retain the provided financial data in relation to transactions (including address, payment and order information) for ten years. Therefore, if you are or have been a subscriber, we are unable to delete your account and personal details. However, we will make your account inactive, and after 2 years we will restrict the processing of your personal data to comply with the statutory requirements and will not process the personal data any further. Regarding this, the retention of your personal data is based on Article 6 sec. 1 sent. 1 lit. c GDPR.
 
 ### VI. Newsletter
 
@@ -279,4 +279,4 @@ The information you provide when contacting us by email will be processed to han
 
 ### XV. Amendments to this policy
 
-We reserve the right to change this policy from time to time by updating our website respectively. Please visit the website regularly and check our respective current privacy policy. This policy was last updated on May 25th 2018.
+We reserve the right to change this policy from time to time by updating our website respectively. Please visit the website regularly and check our respective current privacy policy. This policy was last updated on 23 July 2018.
