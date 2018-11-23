@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wearpact.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417025532id_/https%3A//wearpact.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearpact.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123125954id_/https%3A//wearpact.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | PACT Organic
-
-privacy policy
+# Super Soft Organic Apparel | Wear PACT
 
 ###### Our Commitment To Privacy
 
@@ -37,6 +35,8 @@ We may use your navigational information to analyze trends and traffic to our we
 ###### Does Wear PACT LLC Share my Information?
 
 When you place an order on wearPACT.com or by phone, your credit card information is securely transferred to Cybersource, one of the largest and most trusted payment gateway providers. Your contact information is sent to our warehouse so that they can fulfill your order. 
+
+We may share Personal Information with TapFwd, a marketing service provider, who performs marketing services on our behalf on Facebook, and with other brands who may market to you on Facebook regarding products or services that may be of interest to you. 
 
 PACT does not share your information with any other third party other than those outlined above unless we are required to do so by law. 
 
