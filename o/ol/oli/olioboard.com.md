@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olioboard.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211224018id_/https%3A//olioboard.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olioboard.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123020050id_/https%3A//olioboard.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Olioboard
 
@@ -99,3 +99,63 @@ By registering with Olioboard.com, you represent that you are of legal age to fo
 You agree not to use or launch any automated system, including without limitation, "robots," "spiders," or similar technological devices or programs, that access the Website in a manner that sends more request messages to the Olioboard.com servers in a given period of time than a human can reasonably produce in the same period by using a conventional on-line web browser. Notwithstanding the foregoing, Olioboard.com grants the operators of public search engines permission to use spiders to copy materials from the Website for the sole purpose of creating publicly available searchable indices of the materials, but not caches or archives of such materials. Olioboard.com reserves the right to revoke these exceptions either generally or in specific cases, in its sole discretion.
 
 You agree not to collect or use any personally identifiable information ("Personal Information") including without limitation account names, email addresses, or other User Submissions (as defined below), from the Website, nor use the communication systems provided by the Website for any commercial solicitation purposes, including without limitation to solicit, for commercial purposes, any users of the Website.
+
+In 2010 we launched Olioboard in the hopes of giving people from all corners of the world the opportunity to create, share and shop room inspiration boards. We financed this new venture with the money we made from our web design business and took the plunge. It was exciting and terrifying all at once. 
+
+What started as a simple online interior design platform morphed into not only a collection of 100,000’s of inspiring design boards, but also into an amazing and talented design community who shared their creations, competed in design challenges and encouraged and supported each other. 
+
+This social sharing environment focused around interior design was precisely what made Olioboard unique; but ultimately this model proved to make it difficult to scale the business quickly enough to be fully self sustaining. 
+
+Due to this we had to make the difficult decision to close down Olioboard. While it's sad to say goodbye, we're proud of what Olioboard was able to achieve and of the solid community that supported our efforts from the very beginning. 
+
+If there’s one thing you learn when running a business it’s that when things don’t necessarily turn out the way you want, you never give up. You simply take time to rethink your options and pivot until you find a direction that does work. 
+
+Thanks to Olioboard we found that new direction. 
+
+* * *
+
+By this time you have likely heard of, or seen the ads on Olioboard for our new professional design platform called [DesignFiles.](https://designfiles.co/r/olioboard?utm_source=olioboard&utm_campaign=olio_close)
+
+Over the last year DesignFiles has been extremely well received in the design community and has quickly become one of the fastest growing online interior design platforms on the market. To date, DesignFiles provides thousands of designers, decorators and stagers with powerful interior design tools to streamline their workflow and captivate their clients. 
+
+I’m happy to say we’ve built in all the best parts of Olioboard, newly enhanced and with the latest technology. 
+
+If you are curious about how DesignFiles works, you can [watch it in action here.](https://designfiles.co/r/olioboard?utm_source=olioboard&utm_campaign=olio_close#video__how-df-works)
+
+If you want to see what other designers are saying, here are the  [ratings and reviews.](https://www.capterra.com/p/179202/DesignFiles/)
+
+* * *
+
+I would highly recommend signing up for a [free account to test it out](https://designfiles.co/r/olioboard?utm_source=olioboard&utm_campaign=olio_close). I know that switching to a new platform can be daunting but I guarantee you will love the new enhancements and features. 
+
+To make your transition an easy one we are happy to provide the following: 
+
+**DesignFiles free trials + one-one demos:** Get everything that Olioboard had to offer plus a number of new features that will cut hours out of your workflow. 
+
+**Product library transfer:** Any member who signs up for a paid account on DesignFiles will have their Olioboard product library transferred over to their new DesignFiles account. 
+
+**63% off your first 3 months:** If you decide you like what you see you can use promo code DF63 to get 63% off your first 3 months of the Professional Plan. 
+
+**5 star customer service:** Phone calls, live chat, emails and one-on-one demos. We’re here to make sure you have absolutely everything you need when you need it. 
+
+[Try DesignFiles For Free](https://designfiles.co/r/olioboard?utm_source=olioboard&utm_campaign=olio_close) No credit card required for trial.
+
+* * *
+
+We’re taking steps immediately to ensure a smooth wind-down of Olioboard and to ensure that everyone has enough time to save their content or transition to DesignFiles. You’ll have until Dec 10th to download any images of your Olioboards for safe keeping. 
+
+On November 15th we’ll be disabling account creation on Olioboard. 
+
+On December 10th, we will officially shut down Olioboard and say a final goodbye to the members who helped make this dream a reality. It’s been an amazing ride. 
+
+* * *
+
+I’d like to take this opportunity to offer my deepest thanks to the Olioboard team both past and present, whose creativity, innovative thinking and dedication helped us build an online platform for 100,000’s of people from all from around the world to experiment and express their creativity through design. 
+
+And of course to all our members: the ones who have been with us since the beginning, and the newly joined; the design enthusiasts and the design professionals, our biggest supporters and those who pushed us to excel further; and to all the friends we made along the way. 
+
+Thank you all. 
+
+Sheilah & the Olioboard team 
+
+If you have any questions or concerns about these details, please don’t hesitate to email me at [sheilah@olioboard.com](mailto:sheilah@olioboard.com). 
