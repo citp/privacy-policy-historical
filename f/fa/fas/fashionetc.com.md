@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionetc.com privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104010058id_/http%3A//www.fashionetc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionetc.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123205730id_/http%3A//www.fashionetc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FashionEtc.com
 
@@ -13,7 +13,7 @@ We may collect and use non-personally identifiable information and data from you
 The Site also collects information through the use of "cookies." Cookies are small text files that a website can use to recognize repeat users, facilitate the user's ongoing access to and use of a website, allow the site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies work by assigning a unique number to the user that has no meaning outside the assigning site. If you do not want information collected from you through our use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you with certain features available on the Site.
 
 _Personally Identifiable Information_  
-We collect personally identifiable information about you when you specifically and knowingly provide such information voluntarily on the Site, including, but not limited to, during the following interactions: (1) when you register on the Site; (2) when you sign-up to subscribe to a service, a newsletter, or ask to be added to our mailing lists for other products or services; (3) when you place an order for products or services; (4) when you participate in a promotional offer; (5) when you provide feedback in an online survey; (6) when you submit other content and suggestions.
+We collect personally identifiable information about you when you specifically and knowingly provide such information voluntarily on the Site, including, but not limited to, during the following interactions: (1) when you register on the Site; (2) when you sign-up to subscribe to a service, a newsletter, or ask to be added to our mailing lists for other products or services; (3) when you place an order for products or services; (4) when you participate in a promotional offer; (5) when you provide feedback in an online survey; (6) when you submit other content and suggestions; (7) for purposes of the EU's General Data Protection Regulation (GDPR).
 
 In each of the instances above, we typically ask for some or all of the following information: your full name, e-mail address, phone number, physical mailing address, the type of business you are in, product preference information, any applicable identification number or password that we may require, as well as other similar information that is needed to register or subscribe you to services or offers. On occasion, we may ask for additional information to enable us to provide you with access to and use of certain other information, materials and services.
 
@@ -40,7 +40,7 @@ You may at any time opt-out of receiving promotional communications from Fashion
 Even if you do not opt-in to receive promotional information or you have opted-in and then later choose to opt-out, we reserve the right to contact you as necessary in our sole discretion regarding Fashion Etc, any request you have made for services or products from Fashion Etc, changes to this Privacy Policy and any other matters that may be relevant to the information we collect.
 
 Correcting Information  
-You are responsible for providing accurate information when making purchases, registering with any portions of the Site that require registration, or performing other functions that might require you to submit personally identifiable information to the Site. If you wish to correct any personally identifiable information you have provided to us in this manner, you may do so by contacting our Information Privacy Manager at the address below.
+You are responsible for providing accurate information when making purchases, registering with any portions of the Site that require registration, or performing other functions that might require you to submit personally identifiable information to the Site. If you wish to correct any personally identifiable information you have provided to us, or make a data request, you may do so by contacting our Information Privacy Manager at the address below.
 
 How To Contact Us  
 If you would like to contact Fashion Etc for any reason regarding our privacy practices, please write or e-mail us at the following address:
@@ -49,15 +49,15 @@ Fashion Etc LLC
 Information Privacy Manager  
 244 5th Ave., Ste. 2063  
 New York, NY 10001  
-e-mail: [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy86728%20=%20'privacy'%20+%20'@';%20addy86728%20=%20addy86728%20+%20'fashionetc'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy86728%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy86728%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E "Privacy")[privacy@fashionetc.com](mailto:privacy@fashionetc.com)  
+e-mail: [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy95594%20=%20'privacy'%20+%20'@';%20addy95594%20=%20addy95594%20+%20'fashionetc'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy95594%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy95594%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E "Privacy")[privacy@fashionetc.com](mailto:privacy@fashionetc.com)  
 
 
 Changes To The Privacy Policy  
-This Privacy Policy is effective as of December 15, 2010. We reserve the right to change this Privacy Policy at any time by notifying users. We may notify you by posting a notice on the Site or by contacting you through electronic mail or other means. Your continued use of the Site following the posting of changes to this Privacy Policy means you accept those changes.
+This Privacy Policy is effective as of May 25, 2018. We reserve the right to change this Privacy Policy at any time by notifying users. We may notify you by posting a notice on the Site or by contacting you through electronic mail or other means. Your continued use of the Site following the posting of changes to this Privacy Policy means you accept those changes.
 
 What If You Do Not Agree To The Terms Of This Privacy Policy?  
 As a subscriber to the Site, or otherwise by using the Site, you signify that you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not make any use of the Site.
 
 Source:   
 /privacy-policy  
-The contents of this site are © 2010 Fashion Etc LLC.
+The contents of this site are © 2018 Fashion Etc LLC.
