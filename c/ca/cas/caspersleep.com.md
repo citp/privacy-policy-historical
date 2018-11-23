@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the caspersleep.com privacy policy that was archived on 2018-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180109054719id_/https%3A//casper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caspersleep.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123045641id_/https%3A//casper.com/privacy) for the most accurate reproduction.*
 
 # Casper Sleep Website Privacy and Cookies Policy | Casper®
 
-Effective Date: January 31, 2017
+Effective Date: January 10, 2018
 
 This Privacy Policy applies to [casper.com](https://web.archive.org/) (the “ **Site** ”) and all other websites owned and operated by Casper Sleep Inc. The term “ **Casper** ,” “ **we** ,” and “ **us** ” includes Casper Sleep Inc. and our affiliates and subsidiaries.
 
@@ -40,7 +40,7 @@ Personal Information (defined below) we obtain through the Site, your communicat
 
  **Tracking technologies.** Casper and its partners use cookies, pixels, server logs, and other similar technology to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. Non-personal information that we collect using these technologies may be combined with other information about you, including Personal Information.
 
- **Information provided by third parties.** Casper may collect information about you from third parties or supplement the information we collect from you with additional records received from third parties. Information is collected from third parties in order to enhance our ability to serve you, to tailor our content to you, and to offer you information that we believe may be of interest to you.
+ **Information provided by third parties.** Casper may collect information about you from third parties or supplement the information we collect from you with additional records received from third parties. If you place an order with a third-party retailer, that retailer will send your personal information to Casper so that we can fulfill you order. We also collect information from third parties in order to enhance our ability to serve you, to tailor our content to you, and to offer you information that we believe may be of interest to you.
 
 ### How Casper uses your information
 
@@ -132,13 +132,13 @@ By choosing to visit the Site or otherwise provide information to us, you agree 
 
  **If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Policy.**
 
-### EU-U.S. Privacy Shield
+### EU-U.S. Privacy Shield and Swiss-U.S Privacy Shield
 
-Casper Sleep Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Casper Sleep Inc. is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
+Casper Sleep Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  Casper Sleep Inc. is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Frameworks, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
 
-Under the Privacy Shield Framework, Casper Sleep Inc. is responsible for the processing of personal data it receives and subsequently transfers to a third party acting as an agent on its behalf.  Casper Sleep Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Under the Privacy Shield Framework, Casper Sleep Inc. is responsible for the processing of personal data it receives and subsequently transfers to a third party acting as an agent on its behalf.  Casper Sleep Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Casper Sleep Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, Casper Sleep Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Casper Sleep Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, Casper Sleep Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
