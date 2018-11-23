@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123855id_/http%3A//www.hailmaryjane.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123065913id_/https%3A//www.hailmaryjane.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Hail Mary Jane
+# Privacy - Hail Mary Jane ®
 
-Privacy Policy Statement  
+Privacy Policy Statement
+
 This is the web site of Hail Mary Jane.
 
-Our postal address is  
-P.O. Box 569  
-Montclair, NJ 07042  
-We can be reached via e-mail at sportfiends@gmail.com  
-or you can reach us by telephone at 281-630-7865
+Our postal address is:
+
+Calle Cristo De la Paz n 40, Planta 4, 03550, San Juan de Alicante, Spain
+
+We can be reached via e-mail at info@hailmaryjane.com.
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
@@ -44,4 +45,7 @@ Upon request we offer visitors no ability to have factual inaccuracies corrected
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
-If you feel that this site is not following its stated information policy, you may [contact us](http://www.hailmaryjane.com/about/) at the above addresses or phone number.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+  
+
