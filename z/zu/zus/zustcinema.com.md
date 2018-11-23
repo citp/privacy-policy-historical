@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zustcinema.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123175246id_/http%3A//telugu.zustcinema.com/p/privacy-policy-and-disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zustcinema.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123111856id_/http%3A//telugu.zustcinema.com/p/privacy-policy-and-disclaimer.html) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
 
