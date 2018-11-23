@@ -1,469 +1,131 @@
-<!--The following is the downloaded HTML source of the algorithmia.com privacy policy that was archived on 2017-09-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170917223255id_/https%3A//algorithmia.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the algorithmia.com privacy policy that was archived on 2018-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181123225616id_/https%3A//algorithmia.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" data-ng-app="algorithmia"><head itemscope="" itemtype="http://schema.org/WebSite">
-    <meta charset="utf-8">
-
-    
-      
-        <meta name="description" content="Algorithmia makes applications smarter, by building a community around algorithm development, where state of the art algorithms are always live and accessible to anyone." ng-non-bindable="">
-        <meta name="twitter:description" content="Algorithmia makes applications smarter, by building a community around algorithm development, where state of the art algorithms are always live and accessible to anyone." ng-non-bindable="">
-        <meta property="og:description" content="Algorithmia makes applications smarter, by building a community around algorithm development, where state of the art algorithms are always live and accessible to anyone." ng-non-bindable="">
-      
-      <title itemprop="name" ng-non-bindable="">Privacy - Algorithmia</title>
-      <meta property="og:title" content="Privacy - Algorithmia" ng-non-bindable="">
-      <meta property="og:url" content="https://algorithmia.com/privacy">
-      <meta property="og:locale" content="en_US">
-      <meta property="og:type" content="website">
-      <meta property="og:site_name" content="Algorithmia">
-      <meta name="twitter:title" content="Privacy - Algorithmia" ng-non-bindable="">
-      <meta name="twitter:card" content="summary">
-      <meta name="twitter:site" content="@algorithmia">
-      <link rel="canonical" href="https://algorithmia.com/privacy" itemprop="url">
-    
-    
-      <meta name="robots" content="index,follow">
-    
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=0.75">
-
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700|Raleway:200,400,700" rel="stylesheet">
-    <link rel="shortcut icon" href="/versioned/images/d7039d3dd602426a3164d225b44fb427-favicon.png" type="image/png">
-    <link rel="apple-touch-icon" href="https://cdn.algorithmia.com/versioned/images/673e2614039e09cb18f92200c3247fad-apple-touch-icon.png">
-
-    
-      
-        <link rel="stylesheet" href="/versioned/stylesheets/634a1222ae67c5cc7d4a02809df550dd-highlight-monokai-sublime.css">
-      
-    
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/versioned/stylesheets/46a584fc70e0d5c51c83aa6219d39147-core.cat.css">
-
-    <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    
-<script type="text/javascript">
-  window.Algorithmia = window.Algorithmia || {};
-  window.Algorithmia.demo = window.Algorithmia.demo || {};
-
-  Algorithmia.demo.demo_api_key = "simeyUbLXQ/R8Qga/3ZCRGcr2oR1"
-</script>
-
-    <script type="text/javascript">
-      window.Algorithmia = window.Algorithmia || {};
-      Algorithmia.apiAddress = "/v1/algo";
-    </script>
-    <script src="/versioned/api/v1/clients/js/b5dd345888e7fe372c07a61fa6435bd9-algorithmia-0.2.0.js"></script>
-    
-      <style>
-        
-      </style>
-    
-  </head>
-  <body>
-    <div class="outer-container">
-      
-
-<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-  <div class="container navbar-top">
-    <!-- SIGNED IN -->
-    
-      <!-- SIGNED OUT -->
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#primary-navbar-collapse" aria-expanded="false">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand brand" href="/" title="Algorithmia - Home">
-          <span id="nav-logo"></span>
-        </a>
-      </div>
-
-      <div class="collapse navbar-collapse" id="primary-navbar-collapse">
-        <div class="navbar-form navbar-left" role="search">
-          
-<div class="header-search" ng-controller="SearchControl" ng-init="initSearch()">
-  <form id="header-search-form" action="/search" method="get">
-    <input class="form-control" name="q" type="search" placeholder="Search microservices" ng-model="searchQuery" ng-click="searchFocus()" ng-focus="searchFocus()" ng-keydown="searchKeyDown($event)" autocomplete="off">
-    <input type="submit" style="position: absolute; left: -9999px" value="Search">
-    <div class="live-search-results dropdown-menu" ng-show="searchAlgorithms.length > 0" ng-cloak="">
-      <div ng-show="searchAlgorithms.length > 0">
-        <h5>Microservices</h5>
-        <ul class="text-wordwrap li-no-style filtered-list algo-list algo-list-scroll compact">
-          <li ng-repeat="item in searchAlgorithms">
-
-
-
-
-<div ng-cloak="">
-  <div class="pull-right">
-    <ul class="algo-list-float">
-      
-        <li class="algo-author">
-          <img src="" ng-src="/users/{{item.username}}/avatar">
-          <a href="" ng-href="/users/{{item.username}}" ng-bind="item.username"></a>
-        </li>
-      
-      
-        <li class="algo-popularity" ng-show="item.total_calls">
-          <i class="fa fa-arrow-circle-o-down"></i>
-          <div style="display:inline-block;">
-            <span class="algo-popularity-val" ng-bind="item.total_calls | simpleMagnitude:1000"></span>
-            <span>requests</span>
-          </div>
-        </li>
-      
-      
-
-    </ul>
-  </div>
-
-  <a href="" ng-href="/algorithms/{{item.username}}/{{item.algoname}}" class="algo-list-link">
-    <div class="algo-list-wrapper">
-      <div class="algo-list-header">
-        <strong ng-bind="item.algolabel"><span ng-non-bindable=""></span></strong>
-      </div>
-      
-        
-          <div class="algo-list-body" ng-bind="item.card_line | truncate:180"><span ng-non-bindable=""></span></div>
-        
-      
-      
-    </div>
-  </a>
-
-  <div class="clearfix"></div>
-
-</div>
-
-</li>
-        </ul>
-      </div>
-      <div ng-show="searchAlgorithms.length > 0 &amp;&amp; searchAlgorithmsHits > searchAlgorithms.length">
-        <input type="submit" class="search-more-results" value="… more results">
-      </div>
-    </div>
-  </form>
-</div>
-
-        </div>
-        <ul class="nav navbar-nav navbar-main" ng-hide="navbarIsLogin">
-          <li class="">
-            <a href="/algorithms"><span>EXPLORE</span></a>
-          </li>
-          <li class="">
-            <a href="/developers">DOCS</a>
-          </li>
-          
-            <li class="">
-              <a href="/pricing" onclick="safeGA('send', 'event', 'pricing', 'nav_pricing');">PRICING</a>
-            </li>
-          
-          <li class="">
-            <a href="/enterprise">ENTERPRISE</a>
-          </li>
-          <li>
-            <a href="http://blog.algorithmia.com/">BLOG</a>
-          </li>
-        </ul>
-
-        <ul class="nav navbar-nav navbar-right navbar-signup">
-          
-
-<li class="dropdown signin-dropdown">
-  <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/signin">
-    <span class="nav-signin hidden-xs hidden-sm">SIGN IN <i class="fa fa-angle-down" aria-hidden="true"></i></span>
-    <span class="nav-signin visible-xs visible-sm" ng-click="navbarIsLogin=!navbarIsLogin">SIGN IN <i class="fa" ng-class="{'fa-angle-down':!navbarIsLogin,'fa-angle-up':navbarIsLogin}" aria-hidden="true"></i></span>
-  </a>
-  <div id="dropdown-signin" class="dropdown-menu" role="button" aria-labelledby="popup-signin">
-    
-
-<form action="/authenticate/userpass?xsrfToken=90940a77f9177cd5f8f6ee069eb92ae12ef2e345-1505687575621-72d5fd870185efa21b4472ce" method="POST">
-    
-      <div class="modal-header">
-        <button type="button" class="close hidden-xs hidden-sm" data-toggle="dropdown" aria-hidden="true">×</button>
-        <h3 id="popup-signin">SIGN IN</h3>
-      </div>
-      <div class="modal-body" style="margin-bottom:20px;">
-        <div class="form-group" id="username_field">
-          <label>Username</label>
-          <input type="text" name="username" id="nav-username" class="form-control">
-        </div>
-        <div class="form-group" id="password_field">
-          <label>Password</label>
-          <input type="password" name="password" id="nav-password" class="form-control">
-        </div>
-        <a class="pull-right forgot-pass" href="/reset">Forgot password?</a>
-      </div>
-      <div class="modal-footer">
-        <div class="modal-progress pull-left"></div>
-        <div class="all">
-          <button type="submit" class="btn btn-primary" onclick="safeGA('send', 'event', 'signin', 'signinModal');">Sign In</button>
-        </div>
-      </div>
-    
-</form>
-  </div>
-</li>
-          <li ng-hide="navbarIsLogin">
-            <button onclick="location.href = '/signup?invite=OpenMarketplace';" class="btn btn-success">SIGN UP</button>
-          </li>
-        </ul>
-      </div>
-    
-
-  </div>
-</nav>
-
-
-      
-  <div id="alerts">
- 
-  </div>
-
-      
-        <div class="container content-container">
-      
-        <div class="content">
-          
-<div class="legal well">
-  <header>Privacy Policy</header>
-  <p><strong>LAST UPDATED</strong> 3/11/2015</p>
-  <p>
-    This Privacy Policy explains how information about you is collected, used and disclosed by Algorithmia, Inc. [and our subsidiaries and affiliated companies] ("Algorithmia," "we" or "us. This Privacy Policy applies to information we collect when you use our websites, products, services, applications or software (collectively, the "Services") or when you otherwise interact with us.
-  </p>
-  <p>
-    We may change this Privacy Policy from time to time.  If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification).  We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.
-  </p>
-
-
-  <h2>Collection of Information</h2>
-  <h3>Information you provide us</h3>
-  <p>
-    We collect information you provide directly to us.  For example, we collect information when you sign up for an account; participate in any interactive features of the Services; make a purchase; participate in a survey, contest or promotion; request customer support or otherwise communicate with us. The types of information we may collect include your name, username, email address, postal address, social media usernames/handles, biographical information, source code and any other information you choose to provide.
-  </p>
-  <h3>Information We Collect Automatically When You Use the Services</h3>
-  <p>
-    When you access or use our Services, we automatically collect information about you, including:
-  </p>
-  <ul>
-  <li>
-    <b>Log Information: </b>We log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
-   </li>
-   <li><b>Information Collected by Cookies and Other Tracking Technologies: </b>We use various technologies to collect information, and this may include sending cookies to your computer or mobile device.  Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits.  We may also collect information using web beacons (also known as "tracking pixels").  Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.  For more information about cookies, and how to disable them, please see "Your Choices" below.</li>
-   <li><b>Information We Collect From Other Sources </b>We may also obtain information from other sources and combine that with information we collect through our Services.</li>
-   </ul>
-
-   <h2>Use of Information</h2>
-
-  <p>We may use information about you for various purposes, including to:</p>
-  <ul>
-  <li>Provide, maintain and improve our Services;</li>
-  <li>Provide and deliver the products and services you request, process transactions and send you related information, including confirmations and invoices,</li>
-  <li>Send you technical notices, updates, security alerts and support and administrative messages;</li>
-  <li>Respond to your comments, questions and requests and provide customer service;</li>
-  <li>Communicate with you about products, services, offers, promotions, rewards and events offered by Algorithmia and others, and provide news and information we think will be of interest to you;</li>
-  <li>Monitor and analyze trends, usage and activities in connection with our Services;</li>
-  <li>Personalize and improve the Services and provide content or features that match user profiles or interests;</li>
-  <li>Process and deliver contest entries and rewards;</li>
-  <li>Link or combine with information we get from others to help understand your needs and provide you with better service; and</li>
-  <li>Carry out any other purpose for which the information was collected.</li>
-  </ul>
-  <p>
-    Algorithmia is based in the United States and the information we collect is governed by U.S. law.  By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
-  </p>
-
-<h2>Sharing of Information</h2>
-
-<p>We may share information about you as follows or as otherwise described in this Privacy Policy:</p>
-<ul>
-<li>With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;</li>
-<li>With other users when you create an algorithm or a bounty or otherwise participate in the interactive features of our Services;</li>
-<li>In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;</li>
-<li>If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Algorithmia or others;</li>
-<li>In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company; and</li>
-<li>With your consent or at your direction.</li>
-</ul>
-<p>We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.</p>
-
-<h2>Social Sharing Features </h2>
-<p>The Services may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Services with other media, and vice versa.  The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature.  For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.</p>
-
-<h2>Analytics Services Provided by Others</h2>
-
-  <p>
-    We may allow others to provide analytics services on our behalf.  These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information.  This information may be used by Algorithmia and others to, among other things, analyze and track data, determine the popularity of certain content, deliver content targeted to your interests and better understand your online activity.
-  </p>
-
-<h2>Your Choices</h2>
-<h3>Account information</h3>
-<p>You may update, correct or delete information about you at any time by logging into your online account. If you wish to delete your account, please email us at <a href="mailto:support@algorithmia.com">support@algorithmia.com</a>, but note that we may retain certain information as required by law or for legitimate business purposes.  We may also retain cached or archived copies of information about you for a certain period of time.</p>
-
-<h3> Cookies</h3>
-Most web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove or reject browser cookies.  Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
-
-<h3>Promotional Communications</h3>
-<p>You may opt out of receiving promotional communications from Algorithmia by following the instructions in those communications or by visiting <a href="/optout">/optout</a>.  If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations. </p>
-
-<h2>Contact</h2>
-<p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:support@algorithmia.com">support@algorithmia.com.</a></p><a href="mailto:support@algorithmia.com">
-
-
-</a></div><a href="mailto:support@algorithmia.com">
-
-        </a></div><a href="mailto:support@algorithmia.com">
-      </a></div><a href="mailto:support@algorithmia.com">
-      
-        </a><footer><a href="mailto:support@algorithmia.com">
-          </a><div class="container"><a href="mailto:support@algorithmia.com">
-            </a><div class="row"><a href="mailto:support@algorithmia.com">
+<!DOCTYPE html><html data-vue-meta-server-rendered=""><head>
+  <script type="text/javascript" defer="" src="https://cdn.segment.com/analytics.js/v1/2q7iJNuQABC4mQ3V9Vwi4sPxPLy2YvYc/analytics.min.js"></script><script>
+    window.IS_GOLDUCK = true
+    window.__PUBLIC_PATH__ = 'https://cdn.algorithmia.com/static/'
+  </script>
   
-  </a><div class="col-xs-6 col-sm-3 col-md-2 footer-col"><a href="mailto:support@algorithmia.com">
-    <h5 class="footer-header">COMPANY</h5>
-    </a><ul><a href="mailto:support@algorithmia.com">
-      </a><li><a href="mailto:support@algorithmia.com"></a><a href="/about">
-        About
-      </a></li>
-      <li><a href="http://blog.algorithmia.com" target="_blank">
-        Blog
-      </a></li>
-      <li><a href="https://angel.co/algorithmia/jobs/" target="_blank">
-        Jobs
-      </a></li>
-        <li><a href="/press">
-          Press
-        </a></li>
-        <li><a href="/partners">
-          Partners
-        </a></li>
-    </ul>
-  </div>
-  <div class="col-xs-6 col-sm-3 col-md-2 footer-col">
-    <h5 class="footer-header">MICROSERVICES</h5>
-    <ul>
-      <li><a href="/algorithms">
-        Marketplace
-      </a></li>
-      <li><a href="/getting-started">
-        Getting started
-      </a></li>
-      <li><a href="/data">
-        Data
-      </a></li>
-        <li><a href="/pricing" onclick="safeGA('send', 'event', 'pricing', 'footer');">
-          Pricing
-        </a></li>
-      <li><a href="/developers">
-        Docs
-      </a></li>
-        <li><a href="/bounties">
-          Bounties
-        </a></li>
-    </ul>
-  </div>
-  <div class="col-xs-6 col-sm-3 col-md-2 footer-col">
-    <h5 class="footer-header">ENTERPRISE</h5>
-    <ul>
-      <li><a href="/enterprise">
-        Algorithmia Enterprise
-      </a></li>
-    </ul>
-  </div>
-  <div class="col-xs-6 col-sm-3 col-md-offset-4 col-md-2 footer-col">
-    <div class="footer-icons">
-      <a href="https://www.facebook.com/algorithmia"><img class="social-icon" src="https://cdn.algorithmia.com/versioned/images/social/07d4c6c6f62d0e7a84ca84ce1626b88a-Facebook.svg" alt="Facebook"></a>
-      <a href="https://twitter.com/algorithmia"><img class="social-icon" src="https://cdn.algorithmia.com/versioned/images/social/215c2a1ab15a0af4c049384d11b21a82-Twitter.svg" alt="Twitter"></a>
-      <a href="https://github.com/algorithmiaio"><img class="social-icon" src="https://cdn.algorithmia.com/versioned/images/social/61e648a921b8ef826890f8357f4ebb1d-Github.svg" alt="Github"></a>
-      <a href="https://www.linkedin.com/company/algorithmia-inc"><img class="social-icon" src="https://cdn.algorithmia.com/versioned/images/social/2c0ebfed2fe07323d687aa4166d1a3b6-LinkedIn.svg" alt="Linkedin"></a>
-      <a href="https://angel.co/algorithmia"><img class="social-icon" src="https://cdn.algorithmia.com/versioned/images/social/cc1ca6523948338d1fd57fd3aed1f910-Angellist.svg" alt="AngelList"></a>
-    </div>
-    <a href="/contact" class="btn btn-primary m-B-m">CONTACT US</a>
-    <div class="m-B-m">
-      <p class="footer-terms"><a href="/privacy">Privacy Policy</a></p>
-      <p class="footer-terms"><a href="/terms">Terms &amp; Conditions</a></p>
-    </div>
-    <p class="footer-info">COPYRIGHT <i class="fa fa-copyright" aria-hidden="true"></i> 2017</p>
-    <p class="footer-info">ALGORITHMIA</p>
-  </div>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=0.75">
+  
+    <title data-vue-meta="true">Privacy - Algorithmia</title>
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Algorithmia">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@algorithmia">
+    <meta data-vue-meta="true" data-vmid="description" name="description" content="Algorithmia makes applications smarter, by building a community around algorithm development, where state of the art algorithms are always live and accessible to anyone."><meta data-vue-meta="true" data-vmid="twitter:description" name="twitter:description" content="Algorithmia makes applications smarter, by building a community around algorithm development, where state of the art algorithms are always live and accessible to anyone."><meta data-vue-meta="true" data-vmid="og:description" property="og:description" content="Algorithmia makes applications smarter, by building a community around algorithm development, where state of the art algorithms are always live and accessible to anyone."><meta data-vue-meta="true" data-vmid="twitter:image" name="twitter:image" content="https://cdn.algorithmia.com/static/images/algo-share-image.1df84db.png"><meta data-vue-meta="true" data-vmid="og:image" property="og:image" content="https://cdn.algorithmia.com/static/images/algo-share-image.1df84db.png"><meta data-vue-meta="true" data-vmid="og:url" property="og:url" content="https://algorithmia.com/privacy"><meta data-vue-meta="true" data-vmid="robots" name="robots" content="index,follow"><meta data-vue-meta="true" data-vmid="twitter:title" name="twitter:title" content="Privacy - Algorithmia"><meta data-vue-meta="true" data-vmid="og:title" property="og:title" content="Privacy - Algorithmia">
+  
+  <link rel="apple-touch-icon" href="https://cdn.algorithmia.com/static/images/apple-touch-icon.673e261.png">
+  <link rel="stylesheet" href="https://cdn.algorithmia.com/static/stylesheets/vendors.7183e2.css"><style data-vue-ssr-id="3ee27d6c:0 67356e8a:0 26f8fa3b:0 37364a2a:0 6da63e48:0 7f63e9bf:0">
+.content-container{margin-bottom:4rem
+}
+#app,body,html{height:100%
+}
+#app,body{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column
+}
+.app-content{-webkit-box-flex:1;-ms-flex:1 0 auto;flex:1 0 auto
+}
+.footer{-ms-flex-negative:0;flex-shrink:0
+}
+.pt-24,.pv-24{padding-top:1.5rem!important
+}
+.pv-24{padding-bottom:1.5rem!important
+}
+.mb-24{margin-bottom:1.5rem!important
+}
+.mb-40{margin-bottom:2.5rem!important
+}
+.mh-auto{margin-left:auto!important;margin-right:auto!important
+}
+.spinner-container{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;width:100%;height:10rem
+}
+.dropdown-menu-small.dropdown-menu,.dropdown-menu-small .dropdown-menu{border-top:0;padding-top:0;min-width:10rem
+}
+.font-size-small{font-size:.875rem
+}
+.col-centered{margin-right:auto;margin-left:auto;float:none
+}
+
+.demo-nav{position:relative;z-index:inherit
+}
+#industry-dropdown .industry-header{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center
+}
+#industry-dropdown .industry-nav li a{color:rgba(0,0,0,.54);padding-bottom:1rem
+}
+#industry-dropdown .industry-nav li a:hover{color:#5000be
+}
+#industry-dropdown .industry-nav li.active a{color:#5000be
+}
+.navbar-container{position:relative
+}
+.navbar{padding:0;-webkit-box-shadow:none;box-shadow:none;-webkit-transition:all .3s ease-in-out;transition:all .3s ease-in-out;border-bottom:1px solid rgba(0,0,0,.12)
+}
+.navbar-dropdown-container{position:absolute;top:63px;right:0;left:-16px;width:100vw;min-height:20rem;background-color:#fff;-webkit-box-shadow:0 2px 4px -1px rgba(0,0,0,.06);box-shadow:0 2px 4px -1px rgba(0,0,0,.06)
+}
+.navbar-description-block{margin-bottom:1rem;width:100%;height:7.5rem;background-size:cover;background-repeat:no-repeat;background-position:50%
+}
+.navbar-description-block.engineers{background-image:url(https://cdn.algorithmia.com/static/images/engineers-description-block.14a4f6d.svg)
+}
+.navbar-description-block.data-science{background-image:url(https://cdn.algorithmia.com/static/images/data-science-description-block.5daae6f.svg)
+}
+a{cursor:pointer
+}
+@media (min-width:1200px){
+.demo-nav .navbar-form #header-search-form{width:15rem
+}
+}
+
+#site-banner .banner a{font-weight:500;text-transform:none
+}
+
+.banner[data-v-03528ac7]{border-bottom:.0625rem solid rgba(0,0,0,.12);border-radius:0;background-color:#fff
+}
+.banner .banner-text[data-v-03528ac7]{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin-right:3rem;margin-left:1rem
+}
+.banner .banner-text .banner-content[data-v-03528ac7]{vertical-align:middle;line-height:1.75
+}
+.banner .close-button[data-v-03528ac7]{position:absolute;right:2rem;top:1.2rem
+}
+.banner .close-button[data-v-03528ac7]:hover{background-color:inherit;opacity:.7
+}
+
+.spinner--danger .spinner__dot[data-v-e214703e]{background:#c50e29
+}
+.spinner--info .spinner__dot[data-v-e214703e]{background:#0069c0
+}
+
+footer[data-v-cc6c8838]{margin-top:0
+}
+.no-underline[data-v-cc6c8838]:hover{text-decoration:none
+}</style>
+  <link data-vue-meta="true" data-vmid="canonical" rel="canonical" href="https://algorithmia.com/privacy" itemprop="url"><link data-vue-meta="true" rel="shortcut icon" href="/assets/images/favicon.png" type="image/png">
   
   
-
-</div>
-<!-- <img src="https://cdn.algorithmia.com/versioned/images/fcd308b0fbc44eb17986134124f99c7e-footer_logo.svg" alt="Algorithmia" class="footer-logo"> -->
-<img src="https://cdn.algorithmia.com/versioned/images/f1ab0324ecc3fc9f96d496a88904b4ee-footer_curve.svg" alt="texture curve" class="curve">
-
-          </div>
-        </footer>
-      
-    </div>
-    
-
-
-<script src="https://cdn.algorithmia.com/versioned/javascripts/0af4cf54db7e99f11f5957858ed51258-core.cat.min.js"></script>
-
-<!--[if lte IE 9]>
-<script src="https://cdn.algorithmia.com/versioned/javascripts/fb4be19bc31d7dfd58b8dd24a1ebd98c-ie9.min.js"></script>
-<![endif]-->
-<script>
-  window.isFirstLogin = false;
-  if(getCookieValue("signup_session") == "true") {
-    console.log("Thanks for signing up!");
-    window.isFirstLogin = true;
-    deleteCookie("signup_session", "/");
-  }
-
-  $(document).ready(function() {
-    //Init code highlilghting
-    hljs.initHighlightingOnLoad();
-    if(location.hash=='#chatbox'&&Intercom) {Intercom('show');}
-  });
-
-  // Helper for calling Google Analytics that is a no-op if G.A. isn't loaded
-  window.safeGA = function(event) {
-    if(typeof window.ga === 'function') { window.ga(event); }
-  }
-</script>
- 
-
-
-
-
-<script>
   
-    if(!getCookieValue("referrer")) {
-      setCookieValue("referrer", extractDomain(document.referrer), {path: '/'});
-      setCookieValue("landing_page", document.URL, {path: '/'});
-    }
+  <script crossorigin="anonymous" src="https://cdn.algorithmia.com/static/vendors.main.fb6089.js" defer=""></script><script crossorigin="anonymous" src="https://cdn.algorithmia.com/static/javascripts/b5dd345/algorithmia-0.2.0.js" defer=""></script><script crossorigin="anonymous" src="https://cdn.algorithmia.com/static/78.fb6089.js" defer=""></script><script crossorigin="anonymous" src="https://cdn.algorithmia.com/static/main.fb6089.js" defer=""></script>
   
-
-  <!-- Segment Analytics Code -->
-  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
-  analytics.load("b4amM9hY1aHZTs2BuVglo71uTVFeY1d5");
-  analytics.page();
-
+</head>
+<body>
   
-}}();
-</script>
-
-
-
-
+  <div id="app" data-server-rendered="true"><div><div id="site-banner" data-v-03528ac7=""><!----></div> <nav role="navigation" class="navbar navbar-default navbar-fixed-top"><div id="site-banner" data-v-03528ac7=""><!----></div> <div class="container-fluid navbar-container mh-16"><div class="navbar-header"><button type="button" data-toggle="collapse" data-target="#primary-navbar-collapse" aria-expanded="false" class="navbar-toggle collapsed"><span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button> <a href="/" title="Algorithmia - Home" class="navbar-brand active"><span id="nav-logo" class="nav-logo-full"></span></a> <!----></div> <div id="primary-navbar-collapse" class="collapse navbar-collapse"><div><ul class="nav navbar-nav navbar-links"><li class="visible-lg visible-md"><a><span>For Engineering</span></a></li> <li class="visible-lg visible-md"><a><span>For Data Science</span></a></li> <li class="visible-lg visible-md"><a><span>For Enterprise</span></a></li> <li class="hidden-md hidden-lg"><a href="/algorithms"><span>AI Marketplace</span></a></li> <li class="hidden-md hidden-lg"><a href="/serverless">Serverless AI Layer</a></li> <li class="hidden-md hidden-lg"><a href="/enterprise">Enterprise</a></li> <li id="industry-dropdown" class="dropdown hidden-md hidden-lg"><a data-toggle="dropdown" href="#" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle industry-header"><span>Industries</span><span class="caret ml-8"></span></a> <ul class="dropdown-menu industry-nav"><li><a href="/enterprise/finance">Finance</a></li> <li><a href="/enterprise/government">Government</a></li> <li><a href="/enterprise/retail">Retail</a></li> <li><a href="/enterprise/tech">Tech</a></li> <li><a href="/enterprise/pharma">Pharma</a></li> <li><a href="/enterprise/energy">Energy</a></li></ul></li> <li class="hidden-md hidden-lg"><a href="/developers">Docs</a></li> <li class="hidden-md hidden-lg"><a href="/pricing">Pricing</a></li> <!----> <!----> <!----></ul> <!----></div> <div><ul class="nav navbar-nav navbar-right navbar-signup"><div class="hidden-xs hidden-sm"><li class="dropdown signin-dropdown"><a data-toggle="dropdown" data-target="#" href="/signin" class="dropdown-toggle btn btn-flat navbar-btn">
+          Sign In
+        </a> <div id="dropdown-signin" role="button" aria-labelledby="popup-signin" class="dropdown-menu dropdown-form"><form><div class="modal-header"><h3 id="popup-signin">Sign In</h3></div> <div class="modal-body"><div class="form-group"><label>Email or username</label> <input type="text" value="" class="form-control"></div> <div class="form-group"><label>Password</label> <input type="password" value="" class="form-control"></div> <p class="form-control-link"><a href="/reset">Forgot password?</a></p></div> <div class="modal-footer modal-footer-form"><button type="submit" class="btn btn-primary">Sign In</button> <!----> <div class="text-danger"></div> <div style="display:none;" data-v-e214703e=""><div class="spinner" data-v-e214703e=""><i class="spinner__dot spinner__dot--one" data-v-e214703e=""></i> <i class="spinner__dot spinner__dot--two" data-v-e214703e=""></i> <i class="spinner__dot spinner__dot--three" data-v-e214703e=""></i></div> </div></div></form></div></li></div> <div class="visible-xs visible-sm"><a href="/signin" class="btn btn-flat navbar-btn">
+        Sign In
+      </a></div> <li><button onclick="location.href = '/signup'" class="btn btn-accent">Sign Up For Free</button></li></ul></div></div></div></nav></div> <div class="app-content"><div class="container-fluid pa-0"><div class="container mb-64 mt-32"><header>Privacy Policy</header> <p><strong>LAST UPDATED</strong> 7/26/2018</p> <p><a href="/privacy/versions">View All Versions</a></p> <h3>Introduction</h3> <p>Algorithmia respects your privacy and is committed to protecting your personal data. This Privacy Policy will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.</p> <p>This Privacy Policy explains how information about you is collected, used and disclosed by Algorithmia, Inc. and our subsidiaries, affiliated companies, consultants, employees, officers and directors (collectively, "Algorithmia," "we," “our” or "us”). This Privacy Policy applies to information we collect when you use our websites, products, services, applications or software (collectively, the "Services") or when you otherwise interact with us. This policy describes the types of information we may collect from you or that you may provide when you visit the website <a href="https://www.algorithmia.com">www.algorithmia.com</a> and/or <a href="https://www.algorithmia.io">www.algorithmia.io</a> (our “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information.</p> <p>This Privacy Policy applies to information we collect:</p> <ul><li>On our website</li> <li>In email, text message, and other electronic messages between you and our Website.</li> <li>Through desktop applications you download from our Website, which provide dedicated non-browser-based interaction between you and our Website.</li></ul> <p>This Privacy Policy does <b>not</b> apply to information collected by:</p> <ul><li>Us offline or through any other means, including on any other website operated by any third party.</li> <li>Any third party, including through any application or content (including advertising) that may link to or be accessible from or on our Website. Our Website may include links to third-party websites, plug-ins and/or applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do <b>not</b> control these third-party websites and are not responsible for their privacy statements. When you leave our Website, we encourage you to read the privacy notice of every website you visit.</li></ul> <h4>Children Under the Age of 13</h4> <p>Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at support@algorithmia.com.</p> <h3>Collection and Use of Information</h3> <h4>Information You Provide to Us</h4> <ul><li><b>Identity Data:</b> Includes first name, maiden name, last name, username or similar identifier, date of birth, social media usernames/handles and/or gender.</li> <li><b>Profile Data:</b> Includes your username and password, purchases or orders made by you, your preferences, feedback, responses, preferences in receiving marketing from us and communication preferences.</li> <li><b>Financial and Transaction Data:</b> Includes bank account, payment card details and/or details about payments to and from you and other details of Services you have purchased from us.</li> <li><b>Contact Data:</b> Includes billing address, delivery address, email address and telephone number(s).</li> <li><b>Participation Data:</b> Includes information received through participation in any interactive features of our Services, surveys, contests, promotions, biographical information, source code, requests for customer support or information you choose to otherwise communicate with us.</li></ul> <h4>Information We Collect Automatically When You Use Our Services</h4> <p>When you access or use our Services, we may automatically collect, store, use, and/or transfer different kinds of personal data about you, including:</p> <ul><li><b>Technical Data:</b> Includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, access time, pages viewed, pages you visited before navigating to our Services, browser plug-in types and versions, operating system and platform.</li> <li><b>Information Collected by Cookies and Other Tracking Technologies:</b> We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see "Your Choices" below.</li> <li><b>Information We Collect from Other Sources:</b> We may also obtain information from other sources and combine that with information we collect through our Services. We also collect, use and share aggregated data such as statistical or demographic data for any purpose. Aggregated data may be derived from your personal data but is not considered personal data in law as this data does <b>not</b> directly or indirectly reveal your identity. For example, we may aggregate your Technical Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect aggregated data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data, which will be used in accordance with this privacy notice.</li> <li><b>Information We Collect from Sub-processors:</b> A sub-processor is a third-party data processor engaged by Algorithmia, who has or potentially will have access to or process information you provide to us or we collect automatically. Algorithmia engages different types of data sub-processors to perform various functions as explained in the chart below. A list of sub-processors engaged by Algorithmia is maintained at <a href="/privacy/subprocessors">https://algorithmia.com/privacy/subprocessors</a>.</li></ul> <h4>Use of Information</h4> <p>We may use information about you for various purposes, including to:</p> <ul><li>Provide, maintain and improve our Services, including, for example, to register you as a new customer, to process and deliver your order including managing payments, fees and charges;</li> <li>Provide and deliver the products and services you request, process transactions and send you related information, including confirmations and invoices;</li> <li>Send you technical notices, updates, security alerts and support and administrative messages;</li> <li>Respond to your comments, questions and requests and provide customer service;</li> <li>Communicate with you about products, services, offers, promotions, rewards and events offered by Algorithmia and others, and provide news and information we think will be of interest to you;</li> <li>Monitor and analyze trends, usage and activities in connection with our Services;</li> <li>Personalize and improve our Services and provide content or features that match user profiles or interests;</li> <li>Process and deliver contest entries and rewards;</li> <li>Deliver relevant website content and/or advertisements to you and measure or understand the effectiveness of the advertising we serve to you;</li> <li>Link or combine with information we get from others to help understand your needs and provide you with better service; and</li> <li>Administer and protect our business and our Website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting data).</li></ul> <h4>Transfer of Information to Other Countries </h4> <p>Algorithmia is based in the United States and the information we collect is governed by U.S. law. By accessing or using our Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries for use by Algorithmia as described in this Privacy Policy. If you choose to use our Services, you need to agree to our Terms and Conditions, which set out the contract between Algorithmia and its users. Algorithmia engages in a number of international activities.  In connection with the management of those activities, Algorithmia may transfer information to other countries. By submitting your information to Algorithmia via the websites, or in connection with your interactions with Algorithmia offline, you consent to such transfers and to the processing of this information in other countries.</p> <h4>Sharing of Information</h4> <p>We may share certain information about you as follows or as otherwise described in this Privacy Policy:</p> <ul><li>With certain trusted vendors, consultants and other service providers who need access to such information to carry out work on our behalf, such as payment processors for billing services;</li> <li>With other users when you create an algorithm or otherwise participate in the interactive features of our Services;</li> <li>In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;</li> <li>If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Algorithmia or others;</li> <li>In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company; and</li> <li>With your express consent or at your direction.</li></ul> <p>We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.</p> <h4>Data Security</h4> <p>We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorized way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality. We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.</p> <h4>Data Retention</h4> <p>We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. In some circumstances we may fully anonymize your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.</p> <h4>Social Sharing Features</h4> <p>Our Services may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.</p> <h4>Analytics Services Provided By Others</h4> <p>We may allow others to provide analytics services on our behalf. These entities may use cookies, web beacons and other technologies to collect information about your use of our Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Algorithmia and others to, among other things, analyze and track data, determine the popularity of certain content, deliver content targeted to your interests and better understand your online activity.</p> <h3>Your Choices</h3> <h4>Account Information</h4> <p>You may update, correct or delete information about you at any time by logging into your online account. If you wish to delete your account, please email us at <a href="mailto:support@algorithmia.com">support@algorithmia.com</a>, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.</p> <h4>Cookies</h4> <p>Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.</p> <h4>Promotional Communications</h4> <p>You may opt out of receiving promotional communications from Algorithmia by following the instructions in those communications or by visiting http://www.algorithmia.com/optout. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.</p> <h4>Access, Erasure and Correction</h4> <p>The laws in the European Economic Area and certain jurisdictions outside the United States, require us to provide users (to the extent those laws apply to such users) with information related to access, erasure and correction. Upon request Algorithmia will provide you with information about whether we hold any of your personal information. If you would like to review, delete or update your information, you may contact us using the contact information below. We will permit you to correct, amend, or delete information that is demonstrated to be inaccurate. We will respond to your request within a reasonable timeframe. Please note, because of the way we maintain certain services, after you delete or amend your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems. You will need to provide sufficient identifying information, such as your name and email address and possible additional identifying information as a security precaution.</p> <h4>Changes to this Privacy Policy</h4> <p>We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the bottom of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access our Services to stay informed about our information practices and the ways you can help protect your privacy.</p> <h4>Contact Information</h4> <p>To ask questions or comments about this Privacy Policy or our privacy practices please email us at <a href="mailto:support@algorithmia.com">support@algorithmia.com</a> or write us at Algorithmia, Inc. 1925 Post Alley, Seattle, WA 98101.</p> <p>This version of the Privacy Policy was last updated on May 25, 2018 and historic versions are archived here: <a href="/privacy/versions">https://algorithmia.com/privacy/versions</a>.</p></div></div></div> <footer data-v-cc6c8838=""><div class="container" data-v-cc6c8838=""><div class="row" data-v-cc6c8838=""><div class="col-xs-5 col-sm-4 col-md-2" data-v-cc6c8838=""><label data-v-cc6c8838="">Company</label> <ul class="footer__links" data-v-cc6c8838=""><li data-v-cc6c8838=""><a href="/about" data-v-cc6c8838="">About</a></li> <li data-v-cc6c8838=""><a href="/careers" data-v-cc6c8838="">Careers</a> <a href="/careers" class="no-underline" data-v-cc6c8838=""><span class="label label-primary ml-4" data-v-cc6c8838="">We're Hiring</span></a></li> <li data-v-cc6c8838=""><a href="https://blog.algorithmia.com" target="_blank" data-v-cc6c8838="">Blog</a></li> <li data-v-cc6c8838=""><a href="/research/ml-models-on-blockchain" data-v-cc6c8838="">Research</a></li> <li data-v-cc6c8838=""><a href="/press" data-v-cc6c8838="">Press</a></li> <li data-v-cc6c8838=""><a href="/partners" data-v-cc6c8838="">Partners</a></li></ul></div> <div class="col-xs-5 col-sm-4 col-md-2" data-v-cc6c8838=""><label data-v-cc6c8838="">Developers</label> <ul class="footer__links" data-v-cc6c8838=""><li data-v-cc6c8838=""><a href="/getting-started" data-v-cc6c8838="">
+            Getting Started
+          </a></li> <li data-v-cc6c8838=""><a href="/data" data-v-cc6c8838="">Data</a></li> <li data-v-cc6c8838=""><a href="/pricing" data-v-cc6c8838="">Pricing</a></li> <li data-v-cc6c8838=""><a href="/developer" data-v-cc6c8838="">
+            Docs
+          </a></li></ul></div> <div class="col-xs-5 col-sm-4 col-md-2" data-v-cc6c8838=""><label data-v-cc6c8838="">Products</label> <ul class="footer__links" data-v-cc6c8838=""><li data-v-cc6c8838=""><a href="/algorithms" data-v-cc6c8838="">
+            AI Marketplace
+          </a></li> <li data-v-cc6c8838=""><a href="/serverless-ai-layer" data-v-cc6c8838="">Serverless AI Layer</a></li> <li data-v-cc6c8838=""><a href="/enterprise" data-v-cc6c8838="">Algorithmia Enterprise</a></li></ul></div></div> <div class="row" data-v-cc6c8838=""><div class="col-md-12 footer__footer" data-v-cc6c8838=""><div data-v-cc6c8838=""><img src="https://cdn.algorithmia.com/static/images/algo-black.7fb895d.svg" alt="Algorithmia" class="logo-150" data-v-cc6c8838=""> <p class="caption footer__tac" data-v-cc6c8838=""><span class="mr-8" data-v-cc6c8838=""><i aria-hidden="true" class="fa fa-copyright" data-v-cc6c8838=""></i> 2018 — Algorithmia, Inc.</span> <span data-v-cc6c8838=""><a href="/privacy" class="router-link-exact-active active" data-v-cc6c8838="">Privacy Policy</a><span class="mh-4" data-v-cc6c8838=""> | </span><a href="/terms" data-v-cc6c8838="">Terms &amp; Conditions</a></span></p></div> <div class="footer__social" data-v-cc6c8838=""><a href="https://www.facebook.com/algorithmia" rel="noopener noreferrer" target="_blank" data-v-cc6c8838=""><img src="https://cdn.algorithmia.com/static/images/facebook-icon.0c07e8c.svg" alt="Facebook" class="icon icon-social social-fb" data-v-cc6c8838=""></a> <a href="https://twitter.com/algorithmia" rel="noopener noreferrer" target="_blank" data-v-cc6c8838=""><img src="https://cdn.algorithmia.com/static/images/twitter-icon.26c33c1.svg" alt="Twitter" class="icon icon-social" data-v-cc6c8838=""></a> <a href="https://github.com/algorithmiaio" rel="noopener noreferrer" target="_blank" data-v-cc6c8838=""><img src="https://cdn.algorithmia.com/static/images/github-icon.c576951.svg" alt="Github" class="icon icon-social" data-v-cc6c8838=""></a> <a href="https://www.linkedin.com/company/algorithmia-inc" rel="noopener noreferrer" target="_blank" data-v-cc6c8838=""><img src="https://cdn.algorithmia.com/static/images/linkedin-icon.b07e9f0.svg" alt="Linkedin" class="icon icon-social social-li" data-v-cc6c8838=""></a> <a href="/contact" class="btn btn-default btn-flat btn-sm" data-v-cc6c8838="">Contact Us</a></div></div></div></div></footer> <!----> <!----> <!----></div>
   
-
-
-<script>
-$("a.hero-icon--link[href^='#']").on('click', function(e) {
-   // prevent default anchor click behavior
-   e.preventDefault();
-
-   var hash = this.hash;
-   $('html, body').animate({
-       scrollTop: $(hash).offset().top - 100
-     }, 200);
-
-});
-</script>
-  
+   <!-- Segment Analytics Code -->
+<script>!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.defer=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+analytics.load("2q7iJNuQABC4mQ3V9Vwi4sPxPLy2YvYc");
+analytics.page();}}()</script>
   
 
 
