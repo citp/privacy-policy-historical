@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninjasaga.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523122110id_/http%3A//www.ninjasaga.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjasaga.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123132224id_/http%3A//www.ninjasaga.com/policy) for the most accurate reproduction.*
 
 # Ninja Saga | Game Info
 
