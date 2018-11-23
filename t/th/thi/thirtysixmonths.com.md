@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thirtysixmonths.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521112840id_/http%3A//thirtysixmonths.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirtysixmonths.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123150803id_/http%3A//thirtysixmonths.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Thirty Six Months
 
-Please see our [Giveaway Policy ](http://thirtysixmonths.com/about-me/privacy-policy/giveaway-policy/)for official terms and conditions.
+Please see our [Giveaway  Policy ](http://thirtysixmonths.com/about-me/privacy-policy/giveaway-policy/)for official terms and conditions.
 
 The privacy of our visitors to ThirtySixMonths.com is important to us.
 
