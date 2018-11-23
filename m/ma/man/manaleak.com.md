@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manaleak.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520071859id_/http%3A//www.manaleak.com/mtguk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manaleak.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124001329id_/http%3A//www.manaleak.com/mtguk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Magic: The Gathering (MTG) & Miniature Wargames by Manaleak.com
 
