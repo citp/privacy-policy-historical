@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yconic.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001021930id_/https%3A//yconic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yconic.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124000757id_/https%3A//yconic.com/privacy) for the most accurate reproduction.*
 
 # yconic - Privacy Policy
 
@@ -61,7 +61,7 @@ Although the use of certain Non-Personal Information collected, used or disclose
 
 Your IP address is reported by your web browser whenever you visit a page on the Website.  This information is recorded together with your registration information on our databases. 
 
-  * **Advertisements:**   Advertisements may be delivered by us or one or more third-party web advertisers including on the Website or third party sites on behalf of yconic. yconic and  third party web advertisers may set cookies. These cookies allow the advertisement server operated by that third party to recognize your computer each time they send you an online advertisement. Accordingly, advertisement servers may compile information about where or whether you viewed their advertisements and which advertisements you clicked on. This information allows web advertisers to deliver targeted advertisements that they believe will be of most interest to you.  The Privacy Policy applies to cookies placed on your computer by us, but does not cover the use of cookies by any third-party web advertisers.  For the privacy practices of such third-party web advertisers, you should consult the applicable privacy policy for the relevant third-party web advertiser(s).
+  * **Advertisements:**   Advertisements may be delivered by us or one or more third-party web advertisers including on the Website or third party sites on behalf of yconic. yconic and  third party web advertisers may set cookies. These cookies allow the advertisement server operated by that third party to recognize your computer each time they send you an online advertisement. Accordingly, advertisement servers may compile information about where or whether you viewed their advertisements and which advertisements you clicked on. This information allows web advertisers to deliver targeted advertisements that they believe will be of most interest to you.  The Privacy Policy applies to cookies placed on your computer by us, but does not cover the use of cookies by any third-party web advertisers.  For the privacy practices of such third-party web advertisers, you should consult the applicable privacy policy for the relevant third-party web advertiser(s).   **Further, we may also use your contact information, as provided to us at the time of your registration, to enable the delivery of targeted advertisements on social media platforms with which you are a member.   To opt-out of receiving such relationship-based advertisements, update your settings on the social media platforms you have registered for.**
 
 
 
@@ -99,4 +99,4 @@ We will make every reasonable effort to keep your Personal Information accurate 
 
 **Contact Us:  **You can help by keeping us informed of any changes such as a change of address or telephone number.  If you would like to access your information, if you have any questions, comments or suggestions of if you find any errors in our information about you, [please contact us](https://support.yconic.com/hc/en-us/requests/new).
 
-**Last Updated: November 7, 2016.**
+**Last Updated: December 20, 2017.**
