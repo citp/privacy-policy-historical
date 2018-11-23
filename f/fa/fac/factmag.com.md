@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the factmag.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529143953id_/http%3A//www.factmag.com/terms-of-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factmag.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123133425id_/http%3A//www.factmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms of Service & Privacy Policy - FACT Magazine: Music News, New Music.
+# Privacy Policy - FACT Magazine: Music News, New Music.
 
 **The Vinyl Factory Group**
 
