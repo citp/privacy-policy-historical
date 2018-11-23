@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coleman.com privacy policy that was archived on 2018-01-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180108164822id_/https%3A//www.coleman.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coleman.com privacy policy that was archived on 2018-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181123042258id_/https%3A//www.coleman.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -7,10 +7,10 @@
 <link href="/on/demandware.static/Sites-USA-Site/-/default/dwd4a0ecb0/images/favicons/coleman-favicon.png" rel="shortcut icon">
 <meta name="description" content=" ">
 <meta name="keywords" content="  The Coleman Company, Inc.">
-<link href="/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/js/lib/html5.js"></script>
 <![endif]-->
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TDQ4RV"></script><script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
@@ -26,7 +26,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -72,27 +78,55 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
 
+
 <!--[if lt IE 9]>
-<link rel="stylesheet" href="/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/css/coleman.ie.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/css/coleman.ie.css" />
 <![endif]-->
-<link rel="stylesheet" href="/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/css/coleman.min.css">
-<link rel="stylesheet" href="/on/demandware.static/-/Sites-USA-Library/default/v1515387699682/css/global-coleman.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/css/coleman.min.css">
+<link rel="stylesheet" href="/on/demandware.static/-/Sites-USA-Library/default/v1542888116203/css/global-coleman.css">
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
 <![endif]-->
 <meta name="google-site-verification" content="n1bG8GM_Wg_jXXb5pf8JlpKsaancnoNeONvfa4chiRc">
 <meta name="google-site-verification" content="ycJlD5yR7iBbti6Y2A2INqJ3JENjapxlwElA2NMUSS8">
-<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=3.0">
 <script type="text/javascript">
 if (window.jQuery) {
 jQuery(document).ready(function(){
 if(screen.width < 768){
-jQuery('#footer').append('<a href="http://www.coleman.com/coleman/" class="full-site-link">View Full Site</a>');
+jQuery('#footer').append('<a href="https://www.coleman.com/coleman/" class="full-site-link">View Full Site</a>');
 jQuery('.full-site-link')
 .attr('href', '/on/demandware.store/Sites-USA-Site/default/Home-FullSite')
 .click(function(e) {
@@ -153,39 +187,39 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="brand-button-text">
 More Brands <div class="link-arrow">
 <svg class="icon link-arrow">
-<use xlink:href="http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
+<use xlink:href="https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
 </svg></div>
 </div>
 </div>
 <div class="brands clearfix">
 <div class="align-brands">
 <div id="coleman" class="brand-item selected">
-<a href="/">
+<a href="/" title="Coleman®">
 <span class="visually-hidden">Coleman®</span>
 </a>
 </div>
 <div id="esky" class="brand-item ">
-<a href="http://www.coleman.com/esky/">
+<a href="https://www.coleman.com/esky/" title="Esky®">
 <span class="visually-hidden">Esky®</span>
 </a>
 </div>
 <div id="aerobed" class="brand-item ">
-<a href="http://www.coleman.com/aerobed/">
+<a href="https://www.coleman.com/aerobed/" title="Aerobed®">
 <span class="visually-hidden">Aerobed®</span>
 </a>
 </div>
 <div id="sevylor" class="brand-item ">
-<a href="http://www.coleman.com/sevylor/">
+<a href="https://www.coleman.com/sevylor/" title="Sevylor™">
 <span class="visually-hidden">Sevylor™</span>
 </a>
 </div>
 <div id="stearns" class="brand-item ">
-<a href="http://www.coleman.com/stearns/">
+<a href="https://www.coleman.com/stearns/" title="Stearns®">
 <span class="visually-hidden">Stearns®</span>
 </a>
 </div>
 <div id="puddlejumper" class="brand-item ">
-<a href="http://www.coleman.com/puddlejumper/">
+<a href="https://www.coleman.com/puddlejumper/" title="Puddle Jumper®">
 <span class="visually-hidden">Puddle Jumper®</span>
 </a>
 </div>
@@ -196,30 +230,31 @@ More Brands <div class="link-arrow">
 <div class="mobile-search-bar visually-hidden">
 <form role="search" action="/search/" method="get" name="simpleSearch">
 <fieldset>
-<label class="visually-hidden" for="q">Search Catalog</label>
-<input type="text" id="q" name="q" value="" placeholder="Search">
+<label class="visually-hidden" for="global-search">Search Catalog</label>
+<input type="text" id="global-search" name="globalsearch" value="" placeholder="Search" aria-label="Search Catalog">
 <input type="hidden" name="lang" value="default">
-<button type="submit"><span class="visually-hidden">Search</span><i class="fa fa-search"></i></button>
+<button type="submit" aria-label="Search"><span class="visually-hidden">Search</span><i class="fa fa-search"></i></button>
 </fieldset>
 </form>
 </div>
 <button class="menu-toggle">
 <div class="menu-icon">
 <svg class="icon mobile-menu-icon">
-<use xlink:href="http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#mobile-menu-icon"></use>
+<use xlink:href="https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#mobile-menu-icon"></use>
 </svg></div>
 <span class="visually-hidden">Menu</span>
 </button>
 <div class="content-container">
+
 <div class="primary-logo coleman">
-<a href="http://www.coleman.com" title="The Coleman Company, Inc. Home">
+<a href="https://www.coleman.com" title="The Coleman Company, Inc. Home">
 <span class="visually-hidden">The Coleman Company, Inc.</span>
 </a>
 </div>
 <div class="header-utilities clearfix">
 <div class="utilities-top clearfix">
 <div class="utilities-top-container">
-<div class="country-selector">
+<div class="country-selector" tabindex="0">
 <div class="current-country">
 <i class="fa fa-caret-right fa-fw selector-icon"></i>
 <i class="flag-icon flag-icon-us"></i>
@@ -231,13 +266,13 @@ More Brands <div class="link-arrow">
 <div class="country">
 <div class="country-name">United States</div>
 <i class="flag-icon flag-icon-us"></i>
-<a href="http://www.coleman.com" data-currency="USD" data-locale="en_US" class="locale selected">English</a>
+<a href="https://www.coleman.com" data-currency="USD" data-locale="en_US" class="locale selected">English</a>
 </div>
 <div class="country">
 <div class="country-name">Canada</div>
 <i class="flag-icon flag-icon-ca"></i>
-<a href="http://www.colemancanada.ca/en_CA/coleman" data-currency="CAD" data-locale="en_CA" class="locale">English</a>
-<a href="http://www.colemancanada.ca/fr_CA/coleman" data-currency="CAD" data-locale="fr_CA" class="locale">Français</a>
+<a href="https://www.colemancanada.ca/en_CA/coleman" data-currency="CAD" data-locale="en_CA" class="locale">English</a>
+<a href="https://www.colemancanada.ca/fr_CA/coleman" data-currency="CAD" data-locale="fr_CA" class="locale">Français</a>
 </div>
 </div>
 <div class="continent">
@@ -245,7 +280,7 @@ More Brands <div class="link-arrow">
 <div class="country">
 <div class="country-name">Australia</div>
 <i class="flag-icon flag-icon-au"></i>
-<a href="http://www.colemanaustralia.com.au/en_AU/coleman" data-currency="AUD" data-locale="en_AU" class="locale">English</a>
+<a href="https://www.colemanaustralia.com.au/en_AU/coleman" data-currency="AUD" data-locale="en_AU" class="locale">English</a>
 </div>
 </div>
 <div class="continent">
@@ -253,7 +288,7 @@ More Brands <div class="link-arrow">
 <div class="country">
 <div class="country-name">Brazil</div>
 <i class="flag-icon flag-icon-br"></i>
-<a href="http://www.colemanbrasil.com.br/pt_BR/coleman" data-currency="BRL" data-locale="pt_BR" class="locale">Português</a>
+<a href="https://www.colemanbrasil.com.br/pt_BR/coleman" data-currency="BRL" data-locale="pt_BR" class="locale">Português</a>
 </div>
 </div>
 </div>
@@ -287,10 +322,10 @@ Email Sign Up
 </div>
 <form role="search" action="/search/" method="get" name="simpleSearch">
 <fieldset>
-<label class="visually-hidden" for="q">Search Catalog</label>
-<input type="text" id="q" name="q" value="" placeholder="Search">
+<label class="visually-hidden" for="global-search">Search Catalog</label>
+<input type="text" id="global-search" name="globalsearch" value="" placeholder="Search" aria-label="Search Catalog">
 <input type="hidden" name="lang" value="default">
-<button type="submit"><span class="visually-hidden">Search</span><i class="fa fa-search"></i></button>
+<button type="submit" aria-label="Search"><span class="visually-hidden">Search</span><i class="fa fa-search"></i></button>
 </fieldset>
 </form>
 </div>
@@ -300,7 +335,7 @@ Email Sign Up
 <div class="mini-cart-total">
 <a class="mini-cart-link mini-cart-empty" href="https://www.coleman.com/cart/" title="View Shopping Cart">
 <svg class="icon cart-icon">
-<use xlink:href="http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#cart-icon"></use>
+<use xlink:href="https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#cart-icon"></use>
 </svg>
 <span class="minicart-quantity">0</span>
 </a>
@@ -315,54 +350,170 @@ Email Sign Up
 <li>
 <div class="menu-item-toggle">
 <svg class="icon link-arrow">
-<use xlink:href="http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
+<use xlink:href="https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
 </svg></div>
-<a class="has-sub-menu" href="http://www.coleman.com/coleman-tentsandshelters/">
+<a class="has-sub-menu" href="https://www.coleman.com/coleman-featuredshops/">
+FEATURES
+</a>
+<div class="level-2">
+<ul class="menu-vertical">
+<div class="nav-col">
+<li>
+<a href="https://www.coleman.com/coleman-featuredshops-campsite/">
+Campsite
+</a>
+</li>
+<li>
+<a href="https://www.coleman.com/coleman-lake-escape/">
+Aquatic Adventures
+</a>
+</li>
+</div>
+<div class="nav-col">
+<li>
+<a href="https://www.coleman.com/coleman-tailgate/">
+Tailgate Shop
+</a>
+</li>
+<li>
+<a href="https://www.coleman.com/coleman-emergency-prep/">
+Emergency Prep
+</a>
+</li>
+</div>
+<div class="nav-col">
+<li>
+<a href="https://www.coleman.com/coleman-best-sellers/">
+Best Selling Gear
+</a>
+</li>
+<li>
+<a href="https://www.coleman.com/coleman-top-items-under-50/">
+Top Items Under $50
+</a>
+</li>
+</div>
+<div class="nav-col">
+<li>
+<a href="https://www.coleman.com/coleman-new-arrivals/">
+New Arrivals
+</a>
+</li>
+</div>
+</ul>
+</div>
+</li>
+<li>
+<div class="menu-item-toggle">
+<svg class="icon link-arrow">
+<use xlink:href="https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
+</svg></div>
+<a class="has-sub-menu" href="https://www.coleman.com/coleman-campsite/">
+Campsite
+</a>
+<div class="level-2">
+<ul class="menu-vertical">
+<div class="nav-col">
+<li>
+<a href="https://www.coleman.com/coleman-campsite-tents-and-shelters/">
+Tents &amp; Shelters
+</a>
+</li>
+<li>
+<a href="https://www.coleman.com/coleman-campsite-stoves-and-grills/">
+Stoves, Grills &amp; Camp Kitchen
+</a>
+</li>
+</div>
+<div class="nav-col">
+<li>
+<a href="https://www.coleman.com/coleman-campsite-coolers/">
+Coolers, Jugs &amp; Drinkware
+</a>
+</li>
+<li>
+<a href="https://www.coleman.com/coleman-campsite-sleeping-and-furniture/">
+Sleeping &amp; Furniture
+</a>
+</li>
+</div>
+<div class="nav-col">
+<li>
+<a href="https://www.coleman.com/coleman-campsite-lights-and-lanterns/">
+Lights &amp; Lanterns
+</a>
+</li>
+<li>
+<a href="https://www.coleman.com/coleman-campsite-camping-accessories/">
+Camping Accessories &amp; Personal Care
+</a>
+</li>
+</div>
+<div class="nav-col">
+<li>
+<a href="https://www.coleman.com/coleman-campsite-hiking-and-raingear/">
+Hiking &amp; Rain Gear
+</a>
+</li>
+<li>
+<a href="https://www.coleman.com/coleman-campsite-kids-camping/">
+Kids Camping
+</a>
+</li>
+</div>
+</ul>
+</div>
+</li>
+<li>
+<div class="menu-item-toggle">
+<svg class="icon link-arrow">
+<use xlink:href="https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
+</svg></div>
+<a class="has-sub-menu" href="https://www.coleman.com/coleman-tentsandshelters/">
 TENTS &amp; SHELTERS
 </a>
 <div class="level-2">
 <ul class="menu-vertical">
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-tentsandshelters-tents/">
+<a href="https://www.coleman.com/coleman-tentsandshelters-tents/">
 Tents
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-tentsandshelters-instant/">
+<a href="https://www.coleman.com/coleman-tentsandshelters-instant/">
 Instant Tents
 </a>
 </li>
 </div>
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-tentsandshelters-fastpitch/">
+<a href="https://www.coleman.com/coleman-tentsandshelters-fastpitch/">
 Fast Pitch Tents
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-tentsandshelters-conventional/">
-Conventional Tents
-</a>
-</li>
-</div>
-<div class="nav-col">
-<li>
-<a href="http://www.coleman.com/coleman-tentsandshelters-tentaccessories/">
-Tent &amp; Shelter Accessories
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-tentsandshelters-canopiesandshelters/">
+<a href="https://www.coleman.com/coleman-tentsandshelters-canopiesandshelters/">
 Canopies &amp; Shelters
 </a>
-
 </li>
 </div>
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-tentsandshelters-beach/">
-Beach
+<a href="https://www.coleman.com/coleman-tentsandshelters-screenedtentsandshelters/">
+Screened Tents &amp; Shelters
+</a>
+</li>
+<li>
+<a href="https://www.coleman.com/coleman-tentsandshelters-conventional/">
+Dome Tents &amp; Shelters
+</a>
+</li>
+</div>
+<div class="nav-col">
+<li>
+<a href="https://www.coleman.com/coleman-tentsandshelters-tentaccessories/">
+Tent &amp; Shelter Accessories
 </a>
 </li>
 </div>
@@ -372,40 +523,33 @@ Beach
 <li>
 <div class="menu-item-toggle">
 <svg class="icon link-arrow">
-<use xlink:href="http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
+<use xlink:href="https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
 </svg></div>
-<a class="has-sub-menu" href="http://www.coleman.com/coleman-stovesandgrills/">
-STOVES &amp; GRILLS
+<a class="has-sub-menu" href="https://www.coleman.com/coleman-stovesandgrills/">
+GRILLS &amp; KITCHEN
 </a>
 <div class="level-2">
 <ul class="menu-vertical">
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-stovesandgrills-grills/">
+<a href="https://www.coleman.com/coleman-stovesandgrills-grills/">
 Grills
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-stovesandgrills-stoves/">
+<a href="https://www.coleman.com/coleman-stovesandgrills-stoves/">
 Stoves
 </a>
 </li>
 </div>
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-stovesandgrills-otherappliances/">
-Other Appliances
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-stovesandgrills-campkitchen/">
+<a href="https://www.coleman.com/coleman-stovesandgrills-campkitchen/">
 Camp Kitchen
 </a>
 </li>
-</div>
-<div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-stovesandgrills-accessories/">
+<a href="https://www.coleman.com/coleman-stovesandgrills-accessories/">
 Grill &amp; Stove Accessories
 </a>
 </li>
@@ -416,58 +560,41 @@ Grill &amp; Stove Accessories
 <li>
 <div class="menu-item-toggle">
 <svg class="icon link-arrow">
-<use xlink:href="http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
+<use xlink:href="https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
 </svg></div>
-<a class="has-sub-menu" href="http://www.coleman.com/coleman-coolersandwaterjugs/">
-COOLERS &amp; WATER JUGS
+<a class="has-sub-menu" href="https://www.coleman.com/coleman-coolersandwaterjugs/">
+COOLERS &amp; DRINKWARE
 </a>
 <div class="level-2">
 <ul class="menu-vertical">
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-coolersandwaterjugs-hardcoolers/">
-Hard Coolers
+<a href="https://www.coleman.com/coleman-coolersandwaterjugs-hardcoolers/">
+Hard &amp; Thermoelectric Coolers
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-coolersandwaterjugs-marinecoolers/">
-Marine Coolers
-</a>
-</li>
-</div>
-<div class="nav-col">
-<li>
-<a href="http://www.coleman.com/coleman-coolersandwaterjugs-softcoolers/">
+<a href="https://www.coleman.com/coleman-coolersandwaterjugs-softcoolers/">
 Soft Coolers
 </a>
 </li>
+</div>
+<div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-coolersandwaterjugs-ncaanfl/">
+<a href="https://www.coleman.com/coleman-coolersandwaterjugs-ncaanfl/">
 NCAA/NFL
 </a>
 </li>
-</div>
-<div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-coolersandwaterjugs-thermoelectric/">
-Thermoelectric
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-coolersandwaterjugs-waterjugs/">
-Water Jugs
-</a>
-</li>
-</div>
-<div class="nav-col">
-<li>
-<a href="http://www.coleman.com/coleman-coolersandwaterjugs-drinkware/">
+<a href="https://www.coleman.com/coleman-coolersandwaterjugs-drinkware/">
 Drinkware
 </a>
 </li>
+</div>
+<div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-coolersandwaterjugs-accessories/">
-Cooler Accessories
+<a href="https://www.coleman.com/coleman-activities/">
+Shop by Activity
 </a>
 </li>
 </div>
@@ -477,46 +604,34 @@ Cooler Accessories
 <li>
 <div class="menu-item-toggle">
 <svg class="icon link-arrow">
-<use xlink:href="http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
+<use xlink:href="https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
 </svg></div>
-<a class="has-sub-menu" href="http://www.coleman.com/coleman-lighting/">
+<a class="has-sub-menu" href="https://www.coleman.com/coleman-lighting/">
 LANTERNS &amp; LIGHTS
 </a>
 <div class="level-2">
 <ul class="menu-vertical">
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-lighting-fueledlanterns/">
+<a href="https://www.coleman.com/coleman-lighting-fueledlanterns/">
 Fueled Lanterns
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-lighting-batterylanterns/">
+<a href="https://www.coleman.com/coleman-lighting-batterylanterns/">
 Battery Lanterns
 </a>
 </li>
 </div>
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-lighting-flashlights/">
-Flashlights
+<a href="https://www.coleman.com/coleman-lighting-flashlights/">
+Flashlights &amp; Spotlights
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-lighting-headlamps/">
-Headlamps
-</a>
-</li>
-</div>
-<div class="nav-col">
-<li>
-<a href="http://www.coleman.com/coleman-lighting-spotlights/">
-Spotlights
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-lighting-lightingaccessories/">
-Lighting Accessories
+<a href="https://www.coleman.com/coleman-lighting-headlamps/">
+Headlamps &amp; Lighting Accessories
 </a>
 </li>
 </div>
@@ -526,90 +641,46 @@ Lighting Accessories
 <li>
 <div class="menu-item-toggle">
 <svg class="icon link-arrow">
-<use xlink:href="http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
+<use xlink:href="https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
 </svg></div>
-<a class="has-sub-menu" href="http://www.coleman.com/coleman-furniture/">
-FURNITURE &amp; GAMES
+<a class="has-sub-menu" href="https://www.coleman.com/coleman-sleepingbagsandbeds/">
+SLEEP &amp; CAMP FURNITURE
 </a>
 <div class="level-2">
 <ul class="menu-vertical">
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-furniture-chairs/">
-Chairs
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-furniture-cots/">
-Cots
-</a>
-</li>
-</div>
-<div class="nav-col">
-<li>
-<a href="http://www.coleman.com/coleman-furniture-tables/">
-Tables
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-furniture-games/">
-Games
-</a>
-</li>
-</div>
-<div class="nav-col">
-<li>
-<a href="http://www.coleman.com/coleman-furniture-airbeds/">
-Airbeds
-</a>
-</li>
-</div>
-</ul>
-</div>
-</li>
-<li>
-<div class="menu-item-toggle">
-<svg class="icon link-arrow">
-<use xlink:href="http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
-</svg></div>
-<a class="has-sub-menu" href="http://www.coleman.com/coleman-sleepingbagsandbeds/">
-SLEEPING BAGS &amp; BEDS
-</a>
-<div class="level-2">
-<ul class="menu-vertical">
-<div class="nav-col">
-<li>
-<a href="http://www.coleman.com/coleman-sleepingbagsandbeds-airbeds/">
+<a href="https://www.coleman.com/coleman-sleepingbagsandbeds-airbeds/">
 Airbeds
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-sleepingbagsandbeds-airpumps/">
-Air Pumps
-</a>
-</li>
-</div>
-<div class="nav-col">
-<li>
-<a href="http://www.coleman.com/coleman-sleepingbagsandbeds-accessories/">
-Airbed Accessories
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-sleepingbagsandbeds-sleepingbags/">
+<a href="https://www.coleman.com/coleman-sleepingbagsandbeds-sleepingbags/">
 Sleeping Bags
 </a>
 </li>
 </div>
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-sleepingbagsandbeds-camppads/">
-Camp Pads
+<a href="https://www.coleman.com/coleman-furniture-cots/">
+Cots
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-sleepingbagsandbeds-cots/">
-Cots
+<a href="https://www.coleman.com/coleman-furniture-chairs/">
+Chairs
+</a>
+</li>
+</div>
+<div class="nav-col">
+<li>
+<a href="https://www.coleman.com/coleman-furniture-tables/">
+Tables
+</a>
+</li>
+<li>
+<a href="https://www.coleman.com/coleman-sleepingbagsandbeds-camppads/">
+Air Pumps &amp; Pads
 </a>
 </li>
 </div>
@@ -619,93 +690,52 @@ Cots
 <li>
 <div class="menu-item-toggle">
 <svg class="icon link-arrow">
-<use xlink:href="http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
+<use xlink:href="https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
 </svg></div>
-<a class="has-sub-menu" href="http://www.coleman.com/coleman-accessories/">
-ACCESSORIES &amp; ATV
+<a class="has-sub-menu" href="https://www.coleman.com/coleman-accessories/">
+Gear, Gadgets &amp; ATV
 </a>
 <div class="level-2">
 <ul class="menu-vertical">
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-accessories-cooleraccessories/">
-Cooler Accessories
+<a href="https://www.coleman.com/coleman-accessories-rainwear/">
+Hiking &amp; Rainwear
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-accessories-hikingandnavigation/">
-Hiking &amp; Navigation
-</a>
-</li>
-</div>
-<div class="nav-col">
-<li>
-<a href="http://www.coleman.com/coleman-accessories-safetyandsurvival/">
-Safety &amp; Survival
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-accessories-personalcare/">
-Personal Care
+<a href="https://www.coleman.com/coleman-accessories-safetyandsurvival/">
+Personal Care, Safety &amp; Survival
 </a>
 </li>
 </div>
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-accessories-storageandcampingessentials/">
+<a href="https://www.coleman.com/coleman-accessories-storageandcampingessentials/">
 Storage &amp; Camping Essentials
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-accessories-campkitchen/">
+<a href="https://www.coleman.com/coleman-accessories-campkitchen/">
 Camp Kitchen
 </a>
 </li>
 </div>
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-accessories-airpumps/">
-Air Pumps
+<a href="https://www.coleman.com/coleman-accessories-kidscamping/">
+Kids Camping &amp; Games
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-accessories-grillandstoveaccessories/">
-Grill &amp; Stove Accessories
-</a>
-</li>
-</div>
-<div class="nav-col">
-<li>
-<a href="http://www.coleman.com/coleman-accessories-tentaccessories/">
-Tent &amp; Shelter Accessories
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-accessories-kidscamping/">
-Kids Camping
-</a>
-</li>
-</div>
-<div class="nav-col">
-<li>
-<a href="http://www.coleman.com/coleman-accessories-lightingaccessories/">
-Lighting Accessories
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-accessories-maddogatv/">
+<a href="https://www.coleman.com/coleman-accessories-maddogatv/">
 Maddog ATV
 </a>
 </li>
 </div>
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-accessories-rainwear/">
-Rainwear
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-accessories-giftcards/">
+<a href="https://www.coleman.com/coleman-accessories-giftcards/">
 Gift Cards
 </a>
 </li>
@@ -716,77 +746,65 @@ Gift Cards
 <li>
 <div class="menu-item-toggle">
 <svg class="icon link-arrow">
-<use xlink:href="http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
+<use xlink:href="https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
 </svg></div>
-<a class="has-sub-menu" href="http://www.coleman.com/coleman-replacementparts/">
+<a class="has-sub-menu" href="https://www.coleman.com/coleman-replacementparts/">
 REPLACEMENT PARTS
 </a>
 <div class="level-2">
 <ul class="menu-vertical">
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-replacementparts-coolers/">
+<a href="https://www.coleman.com/coleman-replacementparts-coolers/">
 Cooler Parts
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-replacementparts-grills/">
+<a href="https://www.coleman.com/coleman-replacementparts-grills/">
 Grill Parts
 </a>
 </li>
 </div>
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-replacementparts-fueledlighting/">
-Fueled Lighting Parts
+<a href="https://www.coleman.com/coleman-replacementparts-stoves/">
+Stove Parts
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-replacementparts-batterylighting/">
-Battery Lighting Parts
-</a>
-</li>
-</div>
-<div class="nav-col">
-<li>
-<a href="http://www.coleman.com/coleman-replacementparts-furniture/">
-Furniture Parts
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-replacementparts-airpumps/">
-Airpump Parts
-</a>
-</li>
-</div>
-<div class="nav-col">
-<li>
-<a href="http://www.coleman.com/coleman-replacementparts-fireplaces/">
-Fireplace Parts
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-replacementparts-tentsandshelters/">
+<a href="https://www.coleman.com/coleman-replacementparts-tentsandshelters/">
 Tent &amp; Shelter Parts
 </a>
 </li>
 </div>
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-replacementparts-otherproducts/">
-Miscellaneous Parts
+<a href="https://www.coleman.com/coleman-replacementparts-fueledlighting/">
+Fueled Lighting Parts
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-replacementparts-heaters/">
-Heater Parts
+<a href="https://www.coleman.com/coleman-replacementparts-batterylighting/">
+Battery Lighting Parts
 </a>
 </li>
 </div>
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-replacementparts-stoves/">
-Stove Parts
+<a href="https://www.coleman.com/coleman-replacementparts-airpumps/">
+Airpump &amp; Furniture Parts
+</a>
+</li>
+<li>
+<a href="https://www.coleman.com/coleman-replacementparts-heaters/">
+Heater &amp; Fireplace Parts
+</a>
+</li>
+</div>
+<div class="nav-col">
+<li>
+<a href="https://www.coleman.com/coleman-replacementparts-otherproducts/">
+Miscellaneous Parts
 </a>
 </li>
 </div>
@@ -796,95 +814,53 @@ Stove Parts
 <li>
 <div class="menu-item-toggle">
 <svg class="icon link-arrow">
-<use xlink:href="http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
+<use xlink:href="https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
 </svg></div>
-<a class="has-sub-menu" href="http://www.coleman.com/coleman-clearance/">
-CLEARANCE
+<a class="has-sub-menu" href="https://www.coleman.com/coleman-sale/">
+SALE
 </a>
 <div class="level-2">
 <ul class="menu-vertical">
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-clearance-tentsandshelters/">
+<a href="https://www.coleman.com/coleman-sale-tentsandshelters/">
 Tents &amp; Shelters
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-clearance-stovesandgrills/">
-Stoves &amp; Grills
+<a href="https://www.coleman.com/coleman-sale-stovesandgrills/">
+Grills &amp; Kitchen
 </a>
 </li>
 </div>
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-clearance-coolersandwaterjugs/">
-Coolers &amp; Water Jugs
+<a href="https://www.coleman.com/coleman-sale-coolersandwaterjugs/">
+Coolers &amp; Drinkware
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-clearance-lanternsandlights/">
+<a href="https://www.coleman.com/coleman-sale-lanternsandlights/">
 Lanterns &amp; Lights
 </a>
 </li>
 </div>
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-clearance-furniture/">
-Furniture
+<a href="https://www.coleman.com/coleman-sale-sleepingbagsandbeds/">
+Sleep &amp; Camp Furniture
 </a>
 </li>
 <li>
-<a href="http://www.coleman.com/coleman-clearance-sleepingbagsandbeds/">
-Sleeping Bags &amp; Beds
-</a>
-</li>
-</div>
-<div class="nav-col">
-<li>
-<a href="http://www.coleman.com/coleman-clearance-accessories/">
-Accessories &amp; ATV
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-clearance-rainwear/">
-Rainwear
-</a>
-</li>
-</div>
-</ul>
-</div>
-</li>
-<li>
-<div class="menu-item-toggle">
-<svg class="icon link-arrow">
-<use xlink:href="http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Images-Show#link-arrow"></use>
-</svg></div>
-<a class="has-sub-menu" href="http://www.coleman.com/coleman-featuredshops/">
-FEATURED SHOPS
-</a>
-<div class="level-2">
-<ul class="menu-vertical">
-<div class="nav-col">
-<li>
-<a href="http://www.coleman.com/coleman-tailgate/">
-Tailgate Shop
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-best-sellers/">
-Best Selling Gear
+<a href="https://www.coleman.com/coleman-sale-accessories/">
+Gear, Gadgets &amp; ATV
 </a>
 </li>
 </div>
 <div class="nav-col">
 <li>
-<a href="http://www.coleman.com/coleman-top-items-under-50/">
-Top Items Under $50
-</a>
-</li>
-<li>
-<a href="http://www.coleman.com/coleman-ice-fishing/">
-Ice Fishing
+<a href="https://www.coleman.com/coleman-sale-clearance/">
+CLEARANCE
 </a>
 </li>
 </div>
@@ -901,7 +877,7 @@ Login
 <div class="header-email-signup">
 <a href="">Email Sign Up</a>
 </div>
-<div class="country-selector">
+<div class="country-selector" tabindex="0">
 <div class="current-country">
 <i class="fa fa-caret-right fa-fw selector-icon"></i>
 <i class="flag-icon flag-icon-us"></i>
@@ -913,13 +889,13 @@ Login
 <div class="country">
 <div class="country-name">United States</div>
 <i class="flag-icon flag-icon-us"></i>
-<a href="http://www.coleman.com" data-currency="USD" data-locale="en_US" class="locale selected">English</a>
+<a href="https://www.coleman.com" data-currency="USD" data-locale="en_US" class="locale selected">English</a>
 </div>
 <div class="country">
 <div class="country-name">Canada</div>
 <i class="flag-icon flag-icon-ca"></i>
-<a href="http://www.colemancanada.ca/en_CA/coleman" data-currency="CAD" data-locale="en_CA" class="locale">English</a>
-<a href="http://www.colemancanada.ca/fr_CA/coleman" data-currency="CAD" data-locale="fr_CA" class="locale">Français</a>
+<a href="https://www.colemancanada.ca/en_CA/coleman" data-currency="CAD" data-locale="en_CA" class="locale">English</a>
+<a href="https://www.colemancanada.ca/fr_CA/coleman" data-currency="CAD" data-locale="fr_CA" class="locale">Français</a>
 </div>
 </div>
 <div class="continent">
@@ -927,7 +903,7 @@ Login
 <div class="country">
 <div class="country-name">Australia</div>
 <i class="flag-icon flag-icon-au"></i>
-<a href="http://www.colemanaustralia.com.au/en_AU/coleman" data-currency="AUD" data-locale="en_AU" class="locale">English</a>
+<a href="https://www.colemanaustralia.com.au/en_AU/coleman" data-currency="AUD" data-locale="en_AU" class="locale">English</a>
 </div>
 </div>
 <div class="continent">
@@ -935,7 +911,7 @@ Login
 <div class="country">
 <div class="country-name">Brazil</div>
 <i class="flag-icon flag-icon-br"></i>
-<a href="http://www.colemanbrasil.com.br/pt_BR/coleman" data-currency="BRL" data-locale="pt_BR" class="locale">Português</a>
+<a href="https://www.colemanbrasil.com.br/pt_BR/coleman" data-currency="BRL" data-locale="pt_BR" class="locale">Português</a>
 </div>
 </div>
 </div>
@@ -943,6 +919,9 @@ Login
 </div>
 </nav>
 <div class="nonhomepage-banner">
+<div class="content-asset">
+<span style="color:#FFFFFF;"><strong>FREE SHIPPING ON ORDERS OVER $49*</strong></span>
+</div> 
 </div>
 <div id="main" role="main" class="full-width clearfix">
 <div id="browser-check">
@@ -1019,9 +998,7 @@ Atlanta, Georgia 30328<br>
 <li><a class="fa fa-youtube-play" href="https://www.youtube.com/user/Colemancampfire" target="_blank" title="Go to YouTube"><span class="visually-hidden">YouTube</span></a></li>
 <li><a class="fa fa-instagram" href="https://www.instagram.com/colemanusa/" target="_blank" title="Go to Instagram"><span class="visually-hidden">Instagram</span></a></li>
 <li><a class="fa fa-facebook" href="https://www.facebook.com/colemanusa" target="_blank" title="Go to Facebook"><span class="visually-hidden">Facebook</span></a></li>
-<li><a class="fa fa-twitter" href="https://twitter.com/ColemanUSA" target="_blank" title="Go to Twitter"><span class="visually-hidden">Twitter</span></a></li>
-<li><a class="fa fa-pinterest" href="https://www.pinterest.com/colemanusa" target="_blank" title="Go to Pinterest"><span class="visually-hidden">Pinterest</span></a></li>
-<li><a class="fa fa-google-plus" href="https://plus.google.com/u/0/+coleman/posts" target="_blank" title="Go to Google Plus"><span class="visually-hidden">Google Plus</span></a></li>
+
 </center>
 </ul>
 </div>
@@ -1041,14 +1018,14 @@ width:95px;
 <div class="footer-four-up">
 <ul class="footer-links">
 <li class="footer-header">Coleman</li>
-<li><a href="http://www.coleman.com/coleman-history-us.html">Company</a></li>
+<li><a href="https://www.coleman.com/coleman-history-us.html">Company</a></li>
 <li><a href="https://www.coleman.com/stores/">Store Locator</a></li>
-<li><a href="http://www.coleman.com/coleman-events1.html">Events</a></li>
-<li><a href="http://www.coleman.com/coleman-terms.html">Terms of Use</a></li>
-<li><a href="http://www.coleman.com/privacy-policy.html">Privacy</a></li>
-<li><a href="http://www.coleman.com/coleman-licensee.html">Licensed Product</a></li>
-<li><a href="http://www.coleman.com/coleman-careers.html">Careers</a></li>
-<li><a href="http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/SiteMap-Start">Site Map</a></li>
+<li><a href="https://www.coleman.com/coleman-events2018.html">Events</a></li>
+<li><a href="https://www.coleman.com/coleman-terms.html">Terms of Use</a></li>
+<li><a href="https://www.coleman.com/privacy-policy.html">Privacy</a></li>
+<li><a href="https://www.coleman.com/coleman-licensee.html">Licensed Product</a></li>
+<li><a href="https://www.coleman.com/coleman-careers.html">Careers</a></li>
+<li><a href="https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/SiteMap-Start">Site Map</a></li>
 </ul>
 </div>
 </div> 
@@ -1057,9 +1034,9 @@ width:95px;
 <ul class="footer-links">
 <li class="footer-header">Your Order</li>
 <li><a href="https://www.coleman.com/order-history/">Order Tracking</a></li>
-<li><a href="http://www.coleman.com/shipping-and-handling.html">Shipping Details</a></li>
-<li><a href="http://www.coleman.com/return-policy.html">Return Policy</a></li>
-<li><a href="http://www.coleman.com/coleman-warranty-information-us.html">Warranty Information</a></li>
+<li><a href="https://www.coleman.com/shipping-and-handling.html">Shipping Details</a></li>
+<li><a href="https://www.coleman.com/return-policy.html">Return Policy</a></li>
+<li><a href="https://www.coleman.com/coleman-warranty-information-us.html">Warranty Information</a></li>
 <li><a href="https://www.coleman.com/giftcard-balance/">Gift Card Balance</a></li>
 <li><a href="https://www.coleman.com/registration/">Product Registration</a></li>
 <li><a href="https://www.coleman.com/contactus/">Contact Us</a></li>
@@ -1070,26 +1047,31 @@ width:95px;
 <div class="footer-four-up">
 <ul class="footer-links">
 <li class="footer-header">Customer Resources</li>
-<li><a href="http://coleman.custhelp.com/" target="_blank">Customer Support</a></li>
-<li><a href="http://coleman.custhelp.com/app/ask" target="_blank">Q&amp;A</a></li>
-<li><a href="http://coleman.custhelp.com/app/chat/chat_launch" target="_blank">Live Chat</a></li>
-<li><a href="http://www.coleman.com/coleman-sizing-charts.html">Sizing Charts</a></li>
-<li><a href="http://www.coleman.com/coleman-safety.html">Safety Information</a></li>
-<li><a href="http://www.coleman.com/coleman-compliance.html">California Supply Chains Act</a></li>
-<li><a href="http://www.coleman.com/coleman-partners.html">Partners</a></li>
-<li><a href="http://www.coleman.com/coleman-lantern-and-stove-repair.html">Lantern and Stove Repair</a></li>
+<li><a href="https://coleman.custhelp.com/" target="_blank">Customer Support</a></li>
+<li><a href="https://coleman.custhelp.com/app/ask" target="_blank">Q&amp;A</a></li>
+<li><a href="https://coleman.custhelp.com/app/chat/chat_launch" target="_blank">Live Chat</a></li>
+<li><a href="https://www.coleman.com/coleman-sizing-charts.html">Sizing Charts</a></li>
+<li><a href="https://www.coleman.com/coleman-safety.html">Safety Information</a></li>
+<li><a href="https://www.coleman.com/coleman-compliance.html">California Supply Chains Act</a></li>
+<li><a href="https://www.coleman.com/coleman-partners.html">Partners</a></li>
+<li><a href="https://www.coleman.com/coleman-lantern-and-stove-repair.html">Lantern and Stove Repair</a></li>
 </ul>
 </div>
 </div> 
 <div class="content-asset">
+<style>
+.footer-container .footer-links li.footer-header a {
+	font-family: source-sans-pro-bold,Arial,sans-serif;
+} 
+</style>
 <div class="footer-four-up">
 <ul class="footer-links">
-<li class="footer-header">The Outdoor Expert</li>
+<li class="footer-header"><a href="https://www.coleman.com/outdoor-expert.html">The Outdoor Expert</a></li>
 <li><a href="/hyperflame-technology.html?cgid=coleman">Coleman Technologies</a></li>
-<li><a href="http://www.coleman.com/coleman-tent-camping-tips.html">Tent Camping Tips</a></li>
-<li><a href="http://www.coleman.com/coleman-care-and-cleaning.html">Gear Care</a></li>
-<li><a href="http://www.coleman.com/coleman-checklists.html">Coleman® Checklists</a></li>
-<li><a href="http://www.coleman.com/coleman-videos.html">Product Videos</a></li>
+<li><a href="https://www.coleman.com/coleman-tent-camping-tips.html">Tent Camping Tips</a></li>
+<li><a href="https://www.coleman.com/coleman-care-and-cleaning.html">Coleman Care &amp; Cleaning</a></li>
+<li><a href="https://www.coleman.com/camping-tips-lists.html">Coleman® Checklists</a></li>
+<li><a href="https://www.coleman.com/coleman-videos.html">Product Videos</a></li>
 <li><a href="http://www.jarden.com/about/innovation">Innovation</a></li>
 <li></li>
 </ul>
@@ -1102,16 +1084,20 @@ width:95px;
 <form action="#" method="post" class="email-alert-signup-popup" novalidate="novalidate">
 <label for="email-alert-address"><span class="visually-hidden">Enter Your Email</span></label>
 <input type="text" class="input-text" placeholder="Enter Your Email" value="">
+<p style="margin-bottom:0;">Sign up for special offers and coupons from Coleman</p>
 </form>
 </div>
 <div class="content-asset">
 <div class="copyright">© <script>document.write(new Date().getFullYear())</script>2020 The Coleman Company, Inc. All rights reserved.</div>
 </div> 
+<div class="back-to-top">
+<a id="skip-link-scroll" aria-label="Back To Top" tabindex="0" href="#"><span class="visually-hidden">Back To Top</span></a>
+</div>
 <!--[if gte IE 9 | !IE]><!-->
-<script src="/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <!--<![endif]-->
 <!--[if lte IE 8]>
-<script src="/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -1119,12 +1105,12 @@ width:95px;
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
 <![endif]-->
-<script src="/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/lib/jquery/jquery.zoom.min.js"></script>
-<script src="/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/lib/jquery/slick/slick.min.js"></script>
-<script src="/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/lib/picturefill.min.js"></script>
-<script src="/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/lib/svg/svg4everybody.min.js"></script>
+<script src="/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/lib/jquery/jquery.zoom.min.js"></script>
+<script src="/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/lib/jquery/slick/slick.min.js"></script>
+<script src="/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/lib/picturefill.min.js"></script>
+<script src="/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/lib/svg/svg4everybody.min.js"></script>
 <script>svg4everybody();</script>
 <script type="text/javascript">
 
@@ -1173,10 +1159,50 @@ width:95px;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No Thanks","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Bonus Product(s)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare All","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","GIFT_CERT_PIN_MISSING":"Please enter a gift card access number","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COUPON_CODE_OK":"Promo Code {0} has been added to your order and was applied.","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","QUICK_VIEW":"Quickview","QUICK_VIEW_POPUP":"Product Quickview","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","EMAIL_SIGN_UP_TITLE":"Email Sign Up","EMAIL_SIGN_UP_BUTTON":"Sign Up","PAYMETRIC_AUTHORIZATION_ERROR":"Something wrong happened during card authorization. Please try again later.","PAYMENT_SERVICE_ERROR":"Some error has occurred. Please try again later.","SHIPPING_LIST_ERROR":"Couldn't get list of applicable shipping methods.","SELECT_SHIPPING_ERROR":"Couldn't select shipping method.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-USA-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-USA-Site/default/Page-Include","continueUrl":"http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Page-Show/C1890582355","staticPath":"/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/","addGiftCert":"/on/demandware.store/Sites-USA-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-USA-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-USA-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-USA-Site/default/Cart-MiniAddProduct","cartShow":"/cart/","giftRegAdd":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.coleman.com/payments/","addressesList":"https://www.coleman.com/addresses/","wishlistAddress":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-USA-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-USA-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-USA-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-USA-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-USA-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-USA-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-USA-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-USA-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-USA-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-USA-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-USA-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-USA-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-USA-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-USA-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-USA-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-USA-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-USA-Site/default/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-USA-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-USA-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-USA-Site/default/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-USA-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-USA-Site/default/StoreInventory-GetZipCode","billing":"/checkout-billing/","setSessionCurrency":"/on/demandware.store/Sites-USA-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-USA-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-USA-Site/default/Page-Include?cid=cookie_hint","getBrand":"/on/demandware.store/Sites-USA-Site/default/Brand-GetBrand","emailSignUp":"/on/demandware.store/Sites-USA-Site/default/Listrak-EmailSignup","getCategoryOptions":"/on/demandware.store/Sites-USA-Site/default/ProductRegistration-GetOptionsAjax","amazonAdvanced":"/on/demandware.store/Sites-USA-Site/default/COBilling-AmazonAdvanced","amazonInitOrder":"/on/demandware.store/Sites-USA-Site/default/COBilling-AmazonInitOrder","getPaymetricAccessToken":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Paymetric-GetAccessToken"};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No Thanks","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Bonus Product(s)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare All","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","GIFT_CERT_PIN_MISSING":"Please enter a gift card access number","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COUPON_CODE_OK":"Promo Code {0} has been added to your order and was applied.","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","QUICK_VIEW":"Quickview","QUICK_VIEW_POPUP":"Product Quickview","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","EMAIL_SIGN_UP_TITLE":"Email Sign Up","EMAIL_SIGN_UP_BUTTON":"Sign Up","PAYMETRIC_AUTHORIZATION_ERROR":"Something wrong happened during card authorization. Please try again later.","PAYMENT_SERVICE_ERROR":"Some error has occurred. Please try again later.","SHIPPING_LIST_ERROR":"Couldn't get list of applicable shipping methods.","SELECT_SHIPPING_ERROR":"Couldn't select shipping method.","WARNING_PLACEHOLDER":"Warning Message","NEW_WINDOW_PLACEHOLDER":"Opens a new window","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-USA-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-USA-Site/default/Page-Include","continueUrl":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Page-Show/C1203927606","staticPath":"/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/","addGiftCert":"/on/demandware.store/Sites-USA-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-USA-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-USA-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-USA-Site/default/Cart-MiniAddProduct","cartShow":"/cart/","giftRegAdd":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.coleman.com/payments/","addressesList":"https://www.coleman.com/addresses/","wishlistAddress":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-USA-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-USA-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-USA-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-USA-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-USA-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-USA-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-USA-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-USA-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-USA-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-USA-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-USA-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-USA-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-USA-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-USA-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-USA-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-USA-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-USA-Site/default/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-USA-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-USA-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-USA-Site/default/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-USA-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-USA-Site/default/StoreInventory-GetZipCode","billing":"/checkout-billing/","setSessionCurrency":"/on/demandware.store/Sites-USA-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-USA-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-USA-Site/default/Page-Include?cid=cookie_hint","getBrand":"/on/demandware.store/Sites-USA-Site/default/Brand-GetBrand","emailSignUp":"/on/demandware.store/Sites-USA-Site/default/Listrak-EmailSignup","getCategoryOptions":"/on/demandware.store/Sites-USA-Site/default/ProductRegistration-GetOptionsAjax","amazonAdvanced":"/on/demandware.store/Sites-USA-Site/default/COBilling-AmazonAdvanced","amazonInitOrder":"/on/demandware.store/Sites-USA-Site/default/COBilling-AmazonInitOrder","getPaymetricAccessToken":"https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/Paymetric-GetAccessToken","warningImg":"/on/demandware.static/Sites-USA-Site/-/default/dwe6ff3a77/images/icon-warning-prop65.png","newwindowImg":"/on/demandware.static/Sites-USA-Site/-/default/dw65b219e2/images/new_window.png"};
 window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":false,"STORE_PICKUP":false,"COOKIE_HINT":false,"AMAZON_MERCHANT_ID":"A253PZ1EF6FAW","SLIDER_SPEED":3000};
 window.User = {"zip":null,"storeId":null};
 window.Scripts = {"useMin":false};
@@ -1187,8 +1213,10 @@ window.CustomVars = {"PROCESSOR_ORDER_ID":"","SITE_CURRENCY_CODE":"USD"};
 
 
 
+
+
 </script>
-<script src="/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/js/app.min.js"></script>
+<script src="/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/js/app.min.js"></script>
 <script>pageContext = {};</script>
 <script>
 var meta = "";
@@ -1334,7 +1362,7 @@ var keywords = "";
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.coleman.com/on/demandware.store/Sites-USA-Site/default/__Analytics-Tracking";
+        var trackingUrl = "https://www.coleman.com/on/demandware.store/Sites-USA-Site/default/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -1346,9 +1374,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/internal/jscript/dwanalytics-16.9.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 
-<script src="/on/demandware.static/Sites-USA-Site/-/default/v1515387699682/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script>
+<script src="/on/demandware.static/Sites-USA-Site/-/default/v1542888116203/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
