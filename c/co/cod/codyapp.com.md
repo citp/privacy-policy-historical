@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the codyapp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205350id_/https%3A//www.codyapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codyapp.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123234241id_/https%3A//www.alomoves.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Cody
+# Privacy - Alo Moves
 
-This privacy policy (this “Policy”) describes how and when Cody, Inc., a Delaware corporation (“Cody,” “we,” or “us”), uses and shares your information when you use our Website at www.codyapp.com (the “Website”), as well as all related software, tools, systems, programs and other services provided by us (collectively, together with the Website, our “Service”). This Policy also describes our use and disclosure of that information. By using our Service, you consent to the collection, use, and disclosure of personal information in accordance with this Policy. This Policy is incorporated by reference into the Cody Terms of Service http://www.codyapp.com/terms and subject to the provisions of the Terms of Service.
+This privacy policy (this “Policy”) describes how and when Alo Moves, Inc., a Delaware corporation (“Alo Moves,” “we,” or “us”), uses and shares your information when you use our Website at www.alomoves.com (the “Website”), as well as all related software, tools, systems, series and other services provided by us (collectively, together with the Website, our “Service”). This Policy also describes our use and disclosure of that information. By using our Service, you consent to the collection, use, and disclosure of personal information in accordance with this Policy. This Policy is incorporated by reference into the Alo Moves Terms of Service http://www.alomoves.com/terms and subject to the provisions of the Terms of Service. 
 
 ## Personal Information
 
-“Personal Information,” as used in this Policy, is information that specifically identifies an individual end user of the Service, such as an individual's name, address, telephone number, or e-mail address. Personal Information also includes information about an individual’s activities, such as information about his or her activity on our Service, and demographic information, such as date of birth, gender, geographic area, and preferences, when any of this information is linked to Personal Information that identifies that individual.
+“Personal Information,” as used in this Policy, is information that specifically identifies an individual end user of the Service, such as an individual's name, address, telephone number, or e-mail address. Personal Information also includes information about an individual’s activities, such as information about his or her activity on our Service, and demographic information, such as date of birth, gender, geographic area, and preferences, when any of this information is linked to Personal Information that identifies that individual. 
 
-Personal Information does not include “aggregate” or other non-personally identifiable information. Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed. We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes.
+Personal Information does not include “aggregate” or other non-personally identifiable information. Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed. We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes. 
 
 ### Personal Information via Apple Health
 
@@ -26,8 +26,8 @@ Users of iOS 8+ have the ability to share data from Apple Health with our Servic
 
 We collect Personal Information that our users provide to us in a variety of ways on our Service, including:
 
-  * E-mail Newsletters. We may offer e-mail newsletters with announcements and information about Cody from time to time on our Service. If you sign up to receive a newsletter from us, we collect your e-mail address. You may opt out of receiving e-mail newsletters.
-  * Downloads, User Accounts and Profiles. Our Service or third parties may give you the ability to download Cody software, register for a Cody account or to create and update a user profile on the Service. If we offer such functionality on the Service, we will collect the Personal Information that you provide to us in the course of using that functionality. This information may include, for example, your name, contact information, and system information, as well as information about your interests, preferences and future needs. We may indicate that some personal information is required for you to download our software, register for the account or to create the profile, while some is optional. To the extent that your user profile is public, we will share your Personal Information in your user profile with others in your organization.
+  * E-mail Newsletters. We may offer e-mail newsletters with announcements and information about Alo Moves from time to time on our Service. If you sign up to receive a newsletter from us, we collect your e-mail address. You may opt out of receiving e-mail newsletters.
+  * Downloads, User Accounts and Profiles. Our Service or third parties may give you the ability to download Alo Moves software, register for a Alo Moves account or to create and update a user profile on the Service. If we offer such functionality on the Service, we will collect the Personal Information that you provide to us in the course of using that functionality. This information may include, for example, your name, contact information, and system information, as well as information about your interests, preferences and future needs. We may indicate that some personal information is required for you to download our software, register for the account or to create the profile, while some is optional. To the extent that your user profile is public, we will share your Personal Information in your user profile with others in your organization.
   * Integrated Service. You may be given the option to access or register for the Service through the use of your user name and passwords for certain services provided by third parties (each an “Integrated Service”), such as through the use of your Facebook credentials through Facebook Connect . By doing this, you authorize us to access and store the credentials you provide, your name, email address(es), date of birth, gender, current city, profile picture URL, and other information that the Integrated Service makes available to us, and to use and disclose it in accordance with this Policy. You should check your Facebook or other Integrated Service privacy settings to understand and change the information sent to us through Facebook Connect or other Integrated Service. Please review each Integrated Service’s terms of use and privacy policies carefully before using their services and connecting to our Service. 
   * Interactive Features and Public Areas. Our Service may contain interactive functionality that allows you to engage with other users on the Service, post comments to forums, to upload photographs and other content (the “User Content”), participate in surveys, and otherwise to interact with the Service and with other users. If you use any interactive functionality on our Service that requests or permits you to provide us with personal information (including, for example, any services that allow you to post User Content on any of our Service), we collect the Personal Information that you provide to us in the course of using these interactive features. You should be aware that any information you provide in chat sessions, message boards, email exchanges, newsgroups or similarly non-private areas of the Service may be read, collected, and used by others who access these areas, and this information is not Personal Information for the purposes of this Policy. To request removal of your Personal Information from these areas, please contact us. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
   * Correspondence. If you contact us by e-mail, using a contact form on the Service, or by mail, fax, or other means, we collect the Personal Information contained within, and associated with, your correspondence. We use this Personal Information to respond to your correspondence. We may also use your correspondence to improve the Service.
@@ -45,7 +45,7 @@ Also, please be aware that third parties, such as companies displaying advertise
 
 ### Information from Other Sources
 
-We may receive information about you, including Personal Information, from third parties (e.g. opt-in lists where you have requested information about Cody or the Service while visiting a Third-Party Site). We may combine this information with other Personal Information we maintain about you. If we do so, this Policy governs any combined information that we maintain in personally identifiable format.
+We may receive information about you, including Personal Information, from third parties (e.g. opt-in lists where you have requested information about Alo Moves or the Service while visiting a Third-Party Site). We may combine this information with other Personal Information we maintain about you. If we do so, this Policy governs any combined information that we maintain in personally identifiable format.
 
 ## Use of Personal Information
 
@@ -73,17 +73,17 @@ We also disclose Personal Information if we believe that doing so is legally req
 
 ## Event and Conference Sponsors
 
-We may share your Personal Information with third parties that sponsor Cody events or conferences that you attend. Otherwise, Cody does not offer or allow the sale of any of your Personal Information to third parties.
+We may share your Personal Information with third parties that sponsor Alo Moves events or conferences that you attend. Otherwise, Alo Moves does not offer or allow the sale of any of your Personal Information to third parties.
 
 ## Choice
 
-If you receive commercial e-mail from us, you may unsubscribe at any time by following the instructions contained within the e-mail. You may also opt-out from receiving commercial e-mail from us, and any other promotional communications that we may send to you from time to time (e.g., by postal mail) by sending your request to us by e-mail at info@codyapp.com or by writing to us at the address given at the end of this policy. Additionally, we may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us.
+If you receive commercial e-mail from us, you may unsubscribe at any time by following the instructions contained within the e-mail. You may also opt-out from receiving commercial e-mail from us, and any other promotional communications that we may send to you from time to time (e.g., by postal mail) by sending your request to us by e-mail at info@alomoves.com or by writing to us at the address given at the end of this policy. Additionally, we may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us.
 
 Please be aware that if you opt-out of receiving commercial e-mail from us, it may take up to ten business days for us to process your opt-out request, and you may receive commercial e-mail from us during that period. Additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding our Service.
 
 ## Access
 
-If we offer the ability to create user accounts or profiles on our Service, you may have the ability to access and update many categories of Personal Information that you provide to us by logging in to your account and accessing your account settings. If you wish to access or amend any other Personal Information we hold about you, you may contact us at info@codyapp.com or by the other methods described under “Contacting Us” below.
+If we offer the ability to create user accounts or profiles on our Service, you may have the ability to access and update many categories of Personal Information that you provide to us by logging in to your account and accessing your account settings. If you wish to access or amend any other Personal Information we hold about you, you may contact us at info@alomoves.com or by the other methods described under “Contacting Us” below.
 
 If you request that we delete your account on any of our Service (via a user settings page, by e-mail, or otherwise), we will do so within a reasonable period of time, but we may need to retain some of your Personal Information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so.
 
@@ -91,7 +91,7 @@ If you request that we delete your account on any of our Service (via a user set
 
 The Service may contain links to other Web sites, products, or services that we do not own or operate. For example, the Service may contain links to Third-Party Sites such as social networking services. If you choose to visit or use any Third-Party Sites or products or services available on or through such Third-Party Sites, please be aware that this Policy will not apply to your activities or any information you disclose while using those Third-Party Sites or any products or services available on or through such Third-Party Sites. We are not responsible for the privacy practices of these Third-Party Sites or any products or services on or through them. Additionally, please be aware that the Service may contain links to Web sites and services that we operate but that are governed by different privacy policies. We encourage you to carefully review the privacy policies applicable to any Web site or service you visit other than the Service before providing any Personal Information on them. Children
 
-Children’s safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Terms of Service prohibit users of the Service who are under the age of 18. We do not knowingly collect Personal Information from children under the age of 13. If we learn that we have collected Personal Information from a child under the age of 13 on our Service, we will delete that information as quickly as possible. If you believe that we may have collected any such Personal Information on our Service, please notify us at info@codyapp.com
+Children’s safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Terms of Service prohibit users of the Service who are under the age of 18. We do not knowingly collect Personal Information from children under the age of 13. If we learn that we have collected Personal Information from a child under the age of 13 on our Service, we will delete that information as quickly as possible. If you believe that we may have collected any such Personal Information on our Service, please notify us at info@alomoves.com
 
 ## International Visitors
 
@@ -109,9 +109,9 @@ We may occasionally update this Policy. When we do, we will also revise the “l
 
 If you have any questions or comments about this Policy, please contact us using the following contact information:
 
-Cody, Inc.  
+Alo Moves, Inc.  
 1101 E. Pike St. #300  
 Seattle, WA 98122  
-info@codyapp.com
+info@alomoves.com
 
-Last Updated: July 15, 2016
+Last Updated: May 17, 2018
