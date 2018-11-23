@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the humanservices.gov.au privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405062951id_/https%3A//www.humanservices.gov.au/individuals/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanservices.gov.au privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123181435id_/https%3A//www.humanservices.gov.au/individuals/privacy) for the most accurate reproduction.*
 
 # Your right to privacy - Australian Government Department of Human Services
 
-You have a right to have your personal information kept private. We adhere to strict laws in social security, health, child support and disability services.
+You have a right to have your personal information kept private. We adhere to strict laws in social security, health, child support, redress and disability services.
 
 ## How privacy affects you
 
-We are bound by strict confidentiality and secrecy provisions in social security, families, health, child support and disability services law. These provisions limit how we use your information and when and to whom it can be released. We also have obligations under the _Privacy Act 1988._
+We are bound by strict confidentiality and secrecy provisions in social security, families, health, child support, redress and disability services law. These provisions limit how we use your information and when and to whom it can be released. We also have obligations under the _Privacy Act 1988._
 
 ### What is privacy
 
@@ -17,14 +17,14 @@ The Privacy Act provides you with rights, including:
   * being told generally what kind of information we are collecting and how we collect it
   * being told generally why your personal information is being collected
   * your personal information can only be collected for a lawful purpose
-  * finding out what information we hold about you and have it corrected if it is incorrect, out of date or incomplete, the [Freedom of Information Act 1982](https://www.legislation.gov.au/Series/C2004A02562) also supports this
+  * finding out what information we hold about you and have it corrected if it is incorrect, out of date or incomplete, the _[Freedom of Information Act 1982](https://www.legislation.gov.au/Series/C2004A02562)_ also supports this
   * advising that your personal information must be stored securely and protected from interference or misuse
 
 
 
 To find out how your personal information will be used, read our [privacy policy](https://web.archive.org/organisations/about-us/publications-and-resources/privacy-policy)
 
-If you have concerns about how we have collected, managed or disclosed your personal information, you can read our [privacy policy](https://web.archive.org/organisations/about-us/publications-and-resources/privacy-policy). It can give you details about our approach to your privacy. You can also call Customer Relations on **1800  132 468** or the TTY phone on **1800  810 586**.
+If you have concerns about how we have collected, managed or disclosed your personal information, you can read our [privacy policy](https://web.archive.org/organisations/about-us/publications-and-resources/privacy-policy). It can give you details about our approach to your privacy. You can also call our Complaints and Feedback line on **1800  132 468** or the TTY phone on **1800  810 586**.
 
 ## Why we collect and use your information
 
@@ -66,13 +66,17 @@ From time to time it may be necessary to disclose your personal information to t
 
 The privacy notices outline how we will manage your personal information in connection with the:
 
-  * [Express Plus Medicare mobile app](https://web.archive.org/individuals/enablers/privacy-notice-express-plus-medicare-mobile-application)
-  * [Express Plus Jobseekers, Students, Families and Seniors mobile apps](https://web.archive.org/individuals/enablers/privacy-notice-express-plus-centrelink-and-lite-mobile-apps)
+  * [Express Plus Medicare mobile app](https://web.archive.org/individuals/enablers/privacy-notice-express-plus-medicare-mobile-application/37421)
+  * [Express Plus Centrelink and Lite mobile apps](https://web.archive.org/individuals/enablers/privacy-notice-express-plus-centrelink-and-lite-mobile-apps)
   * [Centrelink online accounts - Privacy and security](https://web.archive.org/individuals/services/centrelink/centrelink-online-accounts)
+  * [Data analytics and service improvement](https://web.archive.org/organisations/about-us/publications-and-resources/privacy-policy/data-analytics-and-service-improvement-privacy-notice)
+  * [Child Care Subsidy for customers](https://web.archive.org/organisations/about-us/publications-and-resources/privacy-policy/child-care-subsidy-privacy-notice-customers)
+  * [Child Care Subsidy for personnel and PRODA](https://web.archive.org/organisations/about-us/publications-and-resources/privacy-policy/child-care-personnel-and-provider-digital-access-proda-privacy-notice)
   * [Medicare online account](https://www2.medicareaustralia.gov.au/pext/coin/termsAndConditions.do)
   * [Child Support online accounts terms and conditions - Your privacy](https://web.archive.org/individuals/enablers/child-support-online-accounts-terms-and-conditions)
   * [Healthcare Identifiers Service](https://web.archive.org/individuals/services/medicare/healthcare-identifiers)
   * [Automation of Income Stream Reviews](https://web.archive.org/individuals/enablers/schedule-2-privacy-notice-income-stream-reviews)
+  * [National Redress Scheme](https://web.archive.org/organisations/about-us/publications-and-resources/privacy-policy/national-redress-scheme-privacy-notice)
 
 
 
