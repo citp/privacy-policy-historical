@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theautomotiveindia.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526172250id_/http%3A//www.theautomotiveindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theautomotiveindia.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123225534id_/http%3A//www.theautomotiveindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Automotive India
 
