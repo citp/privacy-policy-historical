@@ -1,134 +1,251 @@
-> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629051448id_/https%3A//www.fxcm.com/uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123044128id_/https%3A//www.fxcm.com/uk/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy, Security Info for Clients and Applicants - FXCM
+# Privacy Policy - FXCM UK
 
-We (Forex Capital Markets Limited) respect each individual's right to privacy and we take data security very seriously. As you explore our site or otherwise deal with us, we want you to be clear about how we’re using your information and the ways in which you can protect your privacy; we hope that you will take time to read this policy carefully – and if you have any questions, [contact us](https://web.archive.org/uk/trading-services/contact-client-support/)
+__
 
-Our Privacy Policy explains:
+#### What does FXCM do?
 
-  * __what information we collect and why we collect it
-  * __how we use that information and how long we keep it;
-  * __your privacy rights;
-  * __how we secure personal information; and
-  * __when this policy applies and other important privacy information.
+    
 
+FXCM is a provider of online foreign exchange (FX) trading, CFD trading, spread betting and related services. FXCM is headquartered in the UK, and has offices, partners, and affiliates in the major financial centres of the world. For more information about FXCM, please see the "[About FXCM](https://www.fxcm.com/uk/about-fxcm/)" section of our website.
 
+__
 
-Information that we collect and why we collect it
+#### What personal information does FXCM collect and why?
 
-When you apply to open, when you maintain an account with us, or request a service we will require you to provide us with information about you. We will need to use the information in certain ways – from basic needs like verifying your identity to more complex things like determining whether financial trading is appropriate for you and processing your requests and transactions.
+    
 
-We collect and store the following information:
+The personal information that we may collect about you broadly falls into the following categories:
 
-### Biographical data
+#### Information that you provide voluntarily
 
-Most of the biographical information we collect from you will be collected during the account opening process but we may collect biographical information from you at other times such as when you register to receive a demonstration account or after you open an account. Some of the information will be provided by you but we may also collect information about you that we receive from public records or other entities not connected to FXCM. Information collected and stored will generally include your name, mailing address, email address, telephone number, date of birth, your occupation, financial information and statements including details about your income and assets, trading history, copies of government issued identification including your passport and driving license (which contain a photo of you), copies of bills, and copies of residency cards.
+You may give us your identity, contact and financial data etc. by filling in forms or by corresponding with us by post, phone, e-mail or otherwise. This includes personal information you provide when you:
 
-### Information about payments
-
-If you use our Services for purchases or financial transactions (like when you fund your account, withdraw money from your account or purchase an app or development services), we collect and store information about the purchase or transaction. This includes your payment information, such as your card information including your credit or debit card number, and your account number including your account number and other authentication details.
-
-### Online information about your visit to our web site
-
-When you visit our websites or trade on our platforms, we may automatically collect and store information about you. This helps us to provide you with a good experience when you browse our websites and/or trade with us, and it also allows us to improve our websites. In general, we collect:
-
-  * __technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform.
-  * __information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
-  * __Cookies that distinguish you from other users of our website. For detailed information on the cookies we use and the purposes for which we use them see our[Cookie Policy](https://web.archive.org/uk/legal/about-cookies/).
+  * Apply for our products or services
+  * Create an account on our website
+  * Subscribe to our or related third party service or publications
+  * Request marketing to be sent to you
+  * Enter a competition, promotion or survey
+  * Give us some feedback
 
 
 
-### Information received from other sources
+In addition to above, certain parts of our website may ask you to provide personal information voluntarily (for example, we may ask you to provide your contact details in order to register an account with us, to subscribe to marketing communications from us, and/or to submit enquiries to us). The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
-We may receive information about you if you deal with any of our related companies. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers and credit reference agencies) and may receive information about you from them.
+#### Information that we collect automatically
 
-How we use information that we collect and how long we keep it
+When you visit our website, we may collect certain information automatically from your device. In some countries, including countries in the European Economic Area (EEA), this information may be considered personal information under applicable data protection laws.
 
-We use information held about you in the following ways:
+Specifically, the information we collect automatically may include information like your IP address, device type, unique device identification numbers, browser-type, broad geographic location (for example, country or city-level location) and other technical information. We may also collect information about how your device has interacted with our website, including the pages accessed and links clicked.
 
-  * __to review your eligibility to do business with us and to verify your identity and background before we agree to do business with you;
-  * __to carry out our obligations arising from any services we offer you and or contracts you enter with us;
-  * __to comply and cooperate with regulators, governmental authorities and the courts and to comply with our legal obligations;
-  * __to process any requests, enquiries or complaints received from you;
-  * __to notify you about changes to our service as a courtesy or where necessary;
-  * __to administer our site and services and for internal business operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
-  * __to improve our site and services;
-  * __as part of our efforts to keep our site and trading systems safe and secure; and
-  * __to provide you with information about goods and services we offer that are similar to those that you have already purchased or enquired about or that may be of interest to you. We will not sell your personal data to third parties.
+Collecting this information enables us to better understand the visitors who come to our website, where they come from, and what content on our website is of interest to them. We use this information for our internal analytics purposes and to improve the quality and relevance of our website to our visitors.
 
+Some of this information may be collected using cookies and similar tracking technology. For detailed information on the cookies we use and the purposes for which we use them, see our [Cookie Policy](https://www.fxcm.com/uk/legal/about-cookies/).
 
+#### Information that we obtain from third party or publicly available sources
 
-### Who we share your personal information with
+From time to time, we may receive personal information about you from third party sources, but only where we have checked that these third parties either have your consent or are otherwise legally permitted or required to disclose your personal information to us.
 
-We will not share your information with third parties for their own independent marketing or business purposes without your consent. However, we may share your information with:
+We use the information we receive from these third parties to enhance the services we provide to you, such as providing curated content that is relevant to services we provide you or topics you are interested in.
 
-  * __any member of our group (which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in the UK Companies Act 2006);
-  * __service providers who provide you with services through us such as your referring broker, money manager and signal providers;
-  * __service providers such as cloud based providers with high security standards.
-  * __service providers that provide services for or on behalf of us, such as companies that help us with data or that verify your identity. These entities are limited in their ability to use your information for purposes other than providing services for us;
-  * __other parties when required by law or as necessary to protect our services, including instances:
-    * __to comply with the law or respond to compulsory legal process (such as a search warrant or other court order);
-    * __to verify or enforce compliance with the policies governing our services; and
-    * __to protect our rights, property, or safety, or any of our respective affiliates, business partners, or customers;
-  * __other parties in connection with corporate transactions including a sale or transfer of our company or a business unit, or in the event of a bankruptcy; and
-  * __other parties with your consent or at your direction, an example of the latter being instances where you ask us to send your information to your professional advisors.
+__
+
+#### Who does FXCM share my personal information with?
+
+    
+
+We may disclose your personal information to the following categories of recipients:
+
+  * to our **group companies, third party services providers and partners** who provide data processing services to us (for example, to support the delivery of, provide functionality on, or help to enhance the security of our website), or who otherwise process personal information for purposes that are described in this Privacy Policy or notified to you when we collect your personal information.
+  * to any **competent law enforcement body, regulatory, government agency, court or other third party** where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person.
+  * to a **potential buyer** (and its agents and advisers) in connection with any proposed purchase, merger or acquisition of any part of our business, provided that we inform the buyer it must use your personal information only for the purposes disclosed in this Privacy Policy.
+  * to any **other person with your consent** to the disclosure.
 
 
+__
 
-### International Data transfers
+#### Lawful basis for processing personal information
 
-We may need to transfer your information to other group companies or service providers in countries in or outside the EEA (European Economic Area). This may happen if our servers or suppliers and service providers are located elsewhere. The data that we collect from you may be transferred to, stored at or otherwise processed in Australia, Hong Kong, Israel, Japan, New Zealand, America, South Africa and the United States of America. When we transfer your personal data outside the EEA, we endeavour to protect your privacy and rights by ensuring the recipient has adequate systems and measures to safeguard data and by agreeing to EU approved model contractual clauses with the data recipient which are designed to protect you.
+    
 
-By using or participating in any service and/or providing us with your information, you consent to the collection, transfer, storage and processing of your information outside of the EEA.
+Our lawful basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
 
-### Data Retention
+However, we will normally collect personal information from you only where we have your consent to do so, where we need the personal information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect vital interests.
 
-We take reasonable steps to ensure that we retain information about you only for so long as is necessary for the purpose for which it was collected, or as required by any applicable law or regulation to which we are subject.
+If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
 
-Your privacy rights
+Similarly, if we collect and use your personal information in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are.
 
-Under the terms of the UK Data Protection Act 1998, you have a right to know what personal information we hold about you. If you'd like a copy of the information you are entitled to please write to us at Forex Capital Markets Limited, Attention: Data Protection Officer, Northern & Shell Building, 10 Lower Thames Street, 8th Floor, London EC3R 6AD, United Kingdom, clearly identifying yourself and the information you require. We may charge you £10 to cover the cost of processing your request and supplying your information to you. We will ask you to provide identification to ensure we do not disclose your information to the wrong person. Please note that you can obtain copies of your account free of charge on the ['MyFXCM'](https://www.myfxcm.com/fxma/) secure access website.
+If you have questions about or need further information concerning the lawful basis on which we collect and use your personal information, please [contact us](mailto:dataprotection@fxcm.com).
 
-### Opting-out of direct marketing
+__
 
-You can always tell us that you do not wish to receive direct marketing communications from us. But remember, if you do not want us to get in touch, you may miss out on valuable and exciting offers. If you would prefer not to receive direct marketing communications from us, simply let us know at any time by writing to us at Forex Capital Markets Limited, Attention: Data Protection Officer, Northern & Shell Building, 10 Lower Thames Street, 8th Floor, London EC3R 6AD, United Kingdom or by following the opt out instructions in the relevant communication. Please note that it may take up to 96 hours to process your opt-out request and that any such request will not stop you from receiving service messages from us.
+#### Purpose for which we will use your personal information
 
-### Updating your personal information
+    
 
-We endeavour to ensure that the personal information we hold is accurate and up-to-date. We realise that this information changes frequently with changes of address and other personal circumstances. We may reach out to you from time to time to ask you to update your information or confirm that your information is up to date.
+#### Serving you as a client
 
-Please help us to ensure that the information about you that we hold is accurate and up to date. If you think that any information we have about you is incorrect or incomplete, please log into ['MyFXCM'](https://www.myfxcm.com/fxma/) and update accordingly.
+**Type of Data :** Identity, Contact Details, National Identifier, Socio-demographic, Transactional, Financial, Contractual, Documentary Data, Communications with you
 
-### How we secure personal information 
+### Purpose  
+  
+---  
+On-boarding you as a new client  
+Setting up and providing access to your trading account  
+Delivering our products and services  
+Facilitating your withdrawals, deposits and funds transfer  
+Responding to your queries via chat, e-mail and phone  
+  
+### Lawful Basis  
+  
+( for processing including basis of legitimate interest )  
+Performance of a contract with you  
+  
+#### Administering our operations and business
 
-We work hard to protect the information that we hold. In particular:
+**Type of Data :** Transactional, Financial, Contractual, Technical, Locational, Usage Data
 
-  * __we hold personal information in secure facilities and where the information is held electronically, on secure servers;
-  * __we use encrypted transmission links whenever we can;
-  * __we use other safeguards such as firewalls, authentication systems (e.g., passwords), and access control mechanisms to control unauthorised access to systems and data;
-  * __we regularly review our information collection, storage and processing practices, including physical security measures, to guard against unauthorised access to systems; and
-  * __we restrict access to personal information to our employees, contractors and agents who need to know that information in order to process it for us and who are subject to strict contractual confidentiality obligations. They may be disciplined or their contract terminated if they fail to meet these obligations.
+### Purpose  
+  
+---  
+Managing our risk exposure and financial position  
+Stress testing our systems and controls  
+Reviewing and improving our processes  
+Carrying out audits  
+To collect and recover money that is owed to us  
+Test new products and services  
+Establish relationships with other companies that provide services to you  
+  
+### Lawful Basis  
+  
+( for processing including basis of legitimate interest )  
+Performance of a contract with you  
+Legal obligation  
+Legitimate interest - Complying with rules and guidance from regulators  
+Being efficient in the way we conduct our business  
+To be innovative and develop new products tailored to our clients’ needs  
+  
+#### Managing risk, financial crime prevention, responding to regulatory requirements and legal claims
+
+**Type of Data :** Transactional, Financial, Identity
+
+### Purpose  
+  
+---  
+To detect, investigate, report, and seek to prevent financial crime  
+To manage risk for us and our customers  
+To be compliant with applicable laws and regulations  
+To respond to complaints and seek to resolve them  
+Assessing your profile before and during our relationship with you  
+Submitting information to regulators as necessary for investigatory purposes  
+  
+### Lawful Basis  
+  
+( for processing including basis of legitimate interest )  
+Public interest that is set out in law  
+Legal obligation  
+Legitimate interest - Complying with rules and guidance from regulators  
+To prevent fraud, money laundering, financial crime and safeguard public interest  
+  
+#### Marketing
+
+**Type of Data :** Contact, Consents, Locational, Technical, Behavioural, Communications
+
+### Purpose  
+  
+---  
+Develop and carry out marketing activities  
+To provide advice or guidance about our products and services  
+  
+### Lawful Basis  
+  
+( for processing including basis of legitimate interest )  
+Legitimate interest - Learn and understand what our clients’ needs are.  
+To be innovative and develop new products.  
+To explore new market segments and develop products of their interest.  
+  
+__
+
+#### How does FXCM keep my personal information secure?
+
+    
+
+We use appropriate technical and organisational measures to protect the personal information that we collect and process about you. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information. In particular, we:
+
+  * Hold personal information in secure facilities and where the information is held electronically, on secure servers.
+  * Use encrypted transmission links whenever we can.
+  * Use other safeguards such as firewalls, authentication systems (e.g., passwords), and access control mechanisms to control unauthorised access to systems and data.
+  * Regularly review our information collection, storage and processing practices, including physical security measures, to guard against unauthorised access to systems.
+  * Restrict access to personal information to our employees, contractors and agents who need to know that information in order to process it for us and who are subject to strict contractual confidentiality obligations. FXCM may discipline or terminate individuals who maliciously acquire information, without being entitled to its access.
+
+
+__
+
+#### Cookie preferences
+
+    
+
+Some of the cookies that FXCM sets when you visit any of our websites are essential to the working functionality of the site. Without these cookies, you would not be able to chat online, fill out a trading application, or deposit funds. Performance cookies are another type of cookies FXCM uses to provide with you a better user experience and to improve how content on our website is presented. Marketing cookies are also set usually by third party advertising networks to ensure we are providing you with targeted adverts more relevant to you and your interests. If you do not want to receive non-mandatory cookies, you can manage your preferences [here](https://www.fxcm.com/uk/legal/about-cookies/).
+
+__
+
+#### International data transfers
+
+    
+
+Subject to certain conditions, we may transfer your personal information to a third party in countries outside the EEA for further processing in accordance with the purposes set out in this Privacy Policy. In these circumstances we will, as required by applicable law, ensure that your privacy rights are adequately protected by appropriate technical, organisation, contractual or other lawful means. These include putting in place data transfer agreements for transfers of personal information between our group companies, which require all group companies to protect personal information they process from the EEA in accordance with European Union data protection law. We have implemented similar appropriate safeguards with our third party service providers and partners and further details can be provided upon request.
+
+__
+
+#### Data retention
+
+    
+
+Your personal information will be retained for as long as it is necessary to carry out the purposes set out in this Privacy Policy (unless longer retention is required by law). However, we will not retain any of your personal information beyond this period and the retention of your personal information will be subject to periodic review. We may keep an anonymised form of your personal information, which will no longer refer to you without time limits, to the extent that we have a legitimate and lawful interest in doing so.
+
+__
+
+#### Automated decision-making
+
+    
+
+In some instances, our use of your personal information may result in automated decisions being taken (including profiling) that legally affect you or similarly significantly affect you.
+
+Automated decisions mean that a decision concerning you is made automatically on the basis of a computer determination (using software algorithms), without our human review.
+
+We make automated decisions at account opening, where we check that the offered products or services are appropriate for you based on the information you provide to us. For example we may use information about your financial standing or socio-demographic information to assess whether you are appropriate and understand the risk involved when trading our products.
+
+When we make an automated decision about you, you have the right to contest the decision, to express your point of view, and to require a human review of the decision. You can exercise this right by visiting the dedicated page [here](https://www.fxcm.com/uk/legal/data-protection-rights/). Please note that you may be required to prove your identity for us to service you.
+
+__
+
+#### Your data protection rights
+
+    
+
+Subject to certain conditions, data protection law provides individuals with rights, including the right to: access, rectify, withdraw consent, erase, restrict, transport, and object to the processing of, their personal information. Individuals also have the right to lodge a complaint with the relevant information protection authority if they believe that their personal information is not being processed in accordance with the law. Further information about your rights is set out below:
+
+  * Right to obtain a copy of your personal information. You have the right to obtain a copy of the personal information we hold about you.
+  * Right to rectification. You may request that we rectify any inaccurate and/or complete any incomplete personal information. We will then correct out records, and notify any third parties to whom such personal information may have been transmitted as described above.
+  * Right to data portability. You may request a copy of all personal information you have provided to us after which we will transmit those data to another data controller of your choice.
+  * Right to opt-out of marketing communications. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you, or for SMS communications reply with "STOP"
+  * Right to withdraw consent. You may withdraw your consent to the processing of your personal information at any time. Such withdrawal will not affect the lawfulness of processing based on your previous consent. Please note that if you withdraw your consent, you may not be able to benefit from certain service features for which the processing of your personal information is essential.
+  * Right to object to processing. You may request that we stop processing your personal information. Please note you may not be able to benefit from certain service features for which the processing of your personal information is essential.
+  * Right to erasure. You may request that we erase your personal information and we will comply, unless there is a lawful reason for not doing so.
+  * Your right to lodge a complaint with the supervisory authority. We suggest that you contact us about any questions or if you have a complaint in relation to how we process your personal information. However, you do have the right to contact the relevant supervisory authority directly. To contact the Information Commissioner’s Office in the United Kingdom, please visit the [ICO website](https://ico.org.uk/make-a-complaint/) for instructions. Alternatively, you may contact the authority of the country you reside in. Please find further details [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
 
 
 
-When this policy applies and other important privacy information
+If you wish to exercise any of these rights, please visit the dedicated page [here](https://www.fxcm.com/uk/legal/data-protection-rights/). Please note that you may be required to prove your identity for us to service you. We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
-The provisions of this policy apply to visitors to our website, former clients, current clients, applicants and recipients of our services.
+__
 
-This policy does not apply to third party websites which our services and site link to or which advertise on our site. These third party websites operate their own privacy policy which we encourage you to read.
+#### Updates to this Privacy Policy
 
-### Changes to our privacy policy
+    
 
-Any changes we may make to this policy in the future will be posted on this page, and where appropriate, notified to you. Changes are effective when they are posted and by continuing to use our services, you acknowledge and agree to those changes. We are constantly developing new technology so please check back frequently to see any updates or changes to this policy.
+We may update this Policy from time to time in response to changing legal, technical or business developments. When we update our Policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make.
 
-### Complaints
-
-If you consider that any action of ours breaches this policy or applicable legislation, complain by writing us at Forex Capital Markets Limited, Attention: Data Protection Officer, Northern & Shell Building, 10 Lower Thames Street, 8th Floor, London EC3R 6AD, United Kingdom. We will promptly respond to your complaint.
-
-If you are not satisfied with our response, you can telephone the UK Information Commissioner's information and enquiries line on 01625 545 745.
-
-### Contacting Us
-
-Forex Capital Markets Limited is the controller of your personal data and is registered as a data controller with the UK Information Commissioner’s Office under registration number Z6975990.
-
-Questions, comments and requests regarding your data or this privacy policy are welcomed and should be addressed to us in writing at: Forex Capital Markets Limited, Attention: Data Protection Officer, Northern & Shell Building, 10 Lower Thames Street, 8th Floor, London EC3R 6AD, United Kingdom.
+You can see when this Policy was last updated by checking the “last updated” date displayed at the top of this Policy.
