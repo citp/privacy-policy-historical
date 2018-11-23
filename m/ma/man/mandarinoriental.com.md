@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandarinoriental.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504202059id_/https%3A//www.mandarinoriental.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandarinoriental.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123155420id_/https%3A//www.mandarinoriental.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mandarin Oriental Hotel Group
 
@@ -132,10 +132,10 @@ This privacy policy will be subject to change from time to time. The effective d
 
 **Effective Date:** 4 May 2018
 
-[Dasar Privasi Malaysia](https://web.archive.org/web/20180504202059id_/https%3A//www.mandarinoriental.com/privacy-policy/malaysia)
+[Dasar Privasi Malaysia](https://web.archive.org/web/20181123155420id_/https%3A//www.mandarinoriental.com/privacy-policy/malaysia)
 
-[Privacy Policy - Indonesian Bahasa](https://web.archive.org/web/20180504202059id_/https%3A//www.mandarinoriental.com/privacy-policy/indonesia)
+[Privacy Policy - Indonesian Bahasa](https://web.archive.org/web/20181123155420id_/https%3A//www.mandarinoriental.com/privacy-policy/indonesia)
 
-[Privacy Policy -Taiwan - Traditional Chinese](https://web.archive.org/web/20180504202059id_/https%3A//www.mandarinoriental.com/privacy-policy/taiwan)
+[Privacy Policy -Taiwan - Traditional Chinese](https://web.archive.org/web/20181123155420id_/https%3A//www.mandarinoriental.com/privacy-policy/taiwan)
 
 [Privacy Policy - Thailand](https://web.archive.org/privacy-policy/thailand)
