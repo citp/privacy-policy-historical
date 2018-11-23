@@ -1,127 +1,17 @@
-> *The following text is extracted and transformed from the eaton.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427211415id_/http%3A//eaton.com/us/en-us/company/policies-and-statements/privacy-cookies-and-data-protection.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaton.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123212840id_/http%3A//eaton.com/us/en-us/company/policies-and-statements/privacy-cookies-and-data-protection.html) for the most accurate reproduction.*
 
-# Privacy, cookies and data protection
+# Privacy, cookies and data protection | Eaton
 
-Eaton and its affiliates (collectively, “Eaton,” or “we,” “us,” “our”) respect your concerns about personal data protection and value our relationship with you. This Privacy, Cookies and Data Protection Policy (the “Policy”) applies solely to personal data collected through Eaton web sites, web pages, portals, interactive features, applications, telephone support lines, email, widgets, blogs and their respective contents in addition to our Twitter, Facebook or other social networking sites, and their respective contents (collectively, the “Sites”), whether accessed via computer, mobile device or other device (collectively, “Device”).  
+Last updated: May 25, 2018
 
+Eaton respects your preferences about the processing of your _personal data_. The following privacy policy is tailored for the different ways your _personal data_ is collected by Eaton. ****
 
-**Can the Cookies be blocked?**  
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) to disable existing cookies; or (iii) to set your browser to automatically reject any cookies. However, please be aware that if you disable or reject cookies, some features and services on our Sites may not work properly because we may not be able to recognize and associate you with your Eaton account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
+Eaton and our subsidiaries and affiliates (" **Eaton** ", " **we** ", “ **us** ” or “ **our** ”) respect your preferences concerning the treatment of _personal data_ that we may collect. This Policy (" **Policy** ") explains how we process your _personal data_ , how you can control its use and how you can exercise your privacy rights. It also describes our practices regarding information collected from the different Eaton sites that link or refer to this Policy (such as our websites, computer or mobile software applications, social media pages and HTML-formatted e-mail messages), as well as through offline sales and marketing activities (collectively, the " **Information Channels** ").
 
-**Instructions for blocking or allowing Cookies in Popular Web Browsing Software  
-**[Internet Explorer 7 and 8](http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies)  
-[Firefox](https://support.mozilla.org/en-US/kb/block-websites-storing-site-preferences?esab=a&s=blocking+cookies&r=2&as=s)  
-[Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)  
-[Apple Safari](http://support.apple.com/kb/ph5042)  
-[AboutCookies.org](http://aboutcookies.org/)
+The Information Channels may provide links to or the ability to connect with non-Eaton websites, services, social networks or applications. Clicking on those links or enabling those connections may allow the third party to collect or share information about you. Those third-party websites or services are beyond our control. We encourage you to check the privacy policies and terms of use of any non-Eaton websites or services before providing your _personal data_ to them.
 
-**II. Privacy & Data Protection Policy**
+If you have any questions or concerns about our processing of your _personal data_ , please contact us using the contact details provided at the bottom of this Notice.
 
-1\. INFORMATION COLLECTED ON OUR SITES
+**_Acquisitions:_**  Eaton may acquire companies that engage in online interest-based advertising. These companies will transition to this Notice as a part of integration. Please note that provisions of the existing privacy policies may remain active until the transition is complete. Please visit the privacy policies for the acquired companies for more information about these services, the types of data collected, how this data is used and opt-out options.
 
-**Information You Provide To Us**  
-Generally you can visit the Sites without providing personal data, unless otherwise mentioned in the Sites themselves. However there may be circumstances when you may be asked or choose to provide personal data that could reasonably be used to contact you or to identify you personally (such as your name, home address, telephone number, credit card data or email address (“Personal Data”) through the Sites. For example, Eaton may collect Personal Data when you register on the Sites, request information, purchase products or services, supply products or services, submit a resume, comments or participate in some promotion, survey or other feature of the Sites, or otherwise communicate or interact with us. The Sites may also ask you to provide other Personal Data about yourself, such as demographic data (gender, zip code, age, etc.) or certain information about your preferences, product use, and interests. If we combine demographic or other data we collect about you with Personal Data about you, we will treat the combined information as personal data according to the applicable laws, subject to your prior opt-in, if and when required by the applicable laws.. If you do not want your Personal Data processed by us, please do not submit it or notify us at any time to have it deleted.
-
-**Data Collected by Automated Means**  
-Whenever you visit or interact with the Sites, Eaton may use a variety of technologies that automatically or passively collect information about how the Sites are accessed and used (“usage data”). Usage data may include, in part, browser type, operating system, the page served, the time, how many users visited the Sites, and the preceding page views. Usage data is statistical data which provides us with information about the use of the Sites, such as how many visitors visit a specific page on the Sites, how long they stay on that page, and which hyperlinks, if any, they “click” on. This usage data helps us to keep the Sites fresh and interesting to our visitors and to tailor content to a visitor’s interests. Usage data is generally non-identifying, but if Eaton associates it with you as a specific and identifiable person, Eaton treats it as Personal Data.
-
-In the course of collecting usage data, Eaton might also automatically collect your IP address or other unique identifier (“Device Identifier”) for the Device. A Device Identifier is a number that is automatically assigned to your Device when you access a web site or its servers, and our computers identify your Device by its Device Identifier. When you visit the Sites, we may view your Device Identifier. We use this data to determine the general physical location of your Device and understand from what regions of the world the visitors to the Sites come. We also may use this Personal Data to enhance the Sites.
-
-The technologies used on the Sites to collect usage data, including Device Identifiers, may include cookies.
-
-**2\. HOW WE USE THE INFORMATION COLLECTED**  
-Eaton uses the Personal Data and usage data we collect through the Sites for a variety of business purposes, including for example, to: respond to your questions and requests; provide you with access to certain areas and features of the Sites; verify your identity; communicate with you about your account and activities on the Sites and, in our discretion, changes to any Eaton policy; tailor content, advertisements, and offers we serve you; send you samples, premiums, products and information; process payment for products or services purchased by you; process payment for products or services sold by you to Eaton; improve the Sites; develop new products and services; process applications and transactions; and for purposes disclosed at the time you provide your personal data or otherwise with your consent.
-
-**3\. INFORMATION WE SHARE**  
-We will not provide any of your Personal Data to any third parties without your specific consent, except as described in this Policy. We may share non-personal data, such as aggregate user statistics, demographic data, and usage data with third parties. We may also share your personal data in the following circumstances: third parties providing services on our behalf. In order to carry out your requests, to make various features, services and materials available to you through the Sites, and to respond to your inquiries, we may share your Personal Data or usage data with third parties that perform functions on our behalf (or on behalf of our business associates), such as companies or individuals that: host or operate our Sites; analyze data; provide customer service; mail product samples or manage payments; advertisers; sponsors or other third parties that participate in or administer our promotions or provide marketing or promotional assistance. When sharing your Personal Data with these third parties we require them to use and protect your Personal Data in a manner that is consistent with this Policy.
-
-**Your Agreement To Have Your Personal Data Shared.**  
-While on our Sites, you will have the opportunity to opt-in to receive information and/or marketing offers from us and from someone else or to otherwise consent to the sharing of your Personal Data with a third party. If you agree to have your Personal Data shared, your Personal Data will be disclosed to the third party and the Personal Data you disclose will be subject to the privacy policy of that third party.
-
-**Business Transfers.**  
-Your Personal Data may also be used by us or shared with our subsidiaries, affiliates and other entities in the family of companies controlled by Eaton for internal reasons, primarily for business and operational purposes mentioned herein. If another entity acquires us or all or a portion of our assets, Personal Data, usage data, and any other information that we have collected about the users of the Sites may be disclosed to such entity as part of the due diligence process and will be transferred to such entity as one of the transferred assets. Should such a sale or transfer occur, we will require the transferee to use the Personal Data and usage data in a manner that is consistent with this Policy.
-
-You may ask us to refrain from using and sharing your personal data (whether collected online or offline) among our affiliates for marketing purposes. Please tell us your preference by contacting us as indicated in the “How to Contact Us” section of this Policy.
-
-**4\. INFORMATION WE RECEIVE FROM THIRD PARTIES**  
-Eaton may receive your Personal Data or usage data from third parties. For example, if you are on another web site and you opt-in to be contacted by Eaton, that web site will forward to us your e-mail address and other Personal Data about you, so that we may contact you as requested. You may also choose to participate in a third party application or feature such as one of our Facebook or Twitter pages or a similar application or feature on a third party web site through which you allow us to collect and share (or the third party to collect and share) information about you, including Personal Data.
-
-We may also supplement the Personal Data we collect about you through the Sites with other data from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the Personal Data we receive from these third parties with data we collect through the Sites. In those cases, we will apply this Policy to any Personal Data received, unless we have disclosed otherwise.
-
-**5\. YOUR ACCESS AND CHOICES**  
-You may always direct us not to share your Personal Data with third parties, not to use your Personal Data to provide you with information or offers, or not to send you newsletters, e-mails or other communications by: (i) sending us an e-mail at [dataprotection@eaton.com](mailto:dataprotection@eaton.com); (ii) contacting us by mail at Eaton, Attention: Global Data Protection and Privacy Office, 1000 Eaton Boulevard, Cleveland, Ohio 44122, USA; or (iii) following the removal instructions in the communication that you receive. Eaton does not charge for this service, and your opt-out request will be processed within 10-15 business days of the date on which we receive it. To help protect your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your personal data.
-
-If you wish to verify, correct, or update any of your Personal Data collected through the Sites, you may do so by contacting us at the above address or e-mail. In accordance with our routine record keeping, we may delete certain records that contain Personal Data you have submitted through the Sites. We are under no obligation to store such Personal Data indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Data.
-
-**6\. ADVERTISING; OPT-IN and OPT-OUT**  
-Eaton licenses technology to serve advertisements on other Sites and within its content as that content is served across the Internet. In addition, Eaton may use third party network advertisers to serve advertisements and third party analytics vendors to evaluate and provide us with information about the use of the Sites and viewing of our content. We do not share Personal Data with these third parties, but ad network providers, the advertisers, the sponsors, and/or analytics service providers may set and access their own cookies, pixel tags and similar technologies on your Device and they may otherwise collect or have access to data about you, including usage data. Third parties that provide marketing programs on Eaton's behalf are responsible for maintaining both cookie opt-in and opt-out functionality. We and our network advertisers may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other web sites subject to your prior opt-in if and when required by the applicable laws.
-
-If you prefer to not receive targeted advertising any longer, you can opt out of some network advertising programs that use your Personal Data. To do so please visit the NAI Opt-Out Page: <http://www.networkadvertising.org/managing/opt_out.asp>. Please note that even if you choose to remove your Personal Data (opt out), you might still see advertisements while you're browsing online.
-
-**7\. LINKS TO OTHER SITES**  
-The Sites may provide links to other websites that we do not own or operate. This includes links from advertisers, sponsors and partners that may use our logo(s) as part of a co-branding agreement. To the extent that any linked websites are not part of the Eaton Sites, we do not control, recommend or endorse and are not responsible for these websites or their content, products, services or privacy policies or practices. These other websites may send their own cookies to your Device, they may independently collect data or solicit personal data and may or may not have their own privacy policies. You should also independently assess the authenticity of any website which appears or claims that it is one of our Sites (including those linked to through an email or social networking page).
-
-**8\. HOW WE PROTECT PERSONAL DATA**  
-We maintain certain administrative, technical and physical safeguards to help protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of your Personal Data.
-
-**9\. CONSENT TO PROCESSING AND TRANSFER OF PERSONAL DATA**  
-Given that Eaton includes entities located all over the World, processing your Personal Data and usage data necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that Personal Data and usage data we collect may be transferred to and processed in the United States. By using the Sites, or providing us with any personal data, you consent to the collection, processing, maintenance and transfer of such personal data and usage data to Eaton affiliated entities in the United States or in other countries, save their compliance with the applicable personal data protection laws.
-
-**10\. EATON CORPORATION PRIVACY SHIELD INFORMATION**
-
-Eaton Corporation (Cleveland, USA) complies with the EU-US and the Swiss-US Privacy Shield Framework Principles (including the Supplemental Principles) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and/or Switzerland, respectively, to the United States.
-
-Eaton Corporation has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
-
-Eaton Corporation is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). In that regard, it certifies that it complies with the seven EU-US Privacy Shield Framework Principles set forth by the United States Department of Commerce, in relation to personal data collected in the European Union.
-
-To learn more about the Privacy Shield program, the Privacy Shield Principles and to view our certification page, please visit the U.S. Department of Commerce’s Privacy Shield List by clicking on the following link: [https://www.privacyshield.gov](https://www.privacyshield.gov/ "Privacy Shield")
-
- **Dispute Resolution**
-
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, Eaton Corporation commits to resolve complaints about privacy and collection or use of Employee Personal Data. Eaton will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Employee Personal Data in accordance with this Policy.
-
-Individuals with inquiries or complaints regarding this Privacy Notice, or any Data Protection and Privacy related concerns should first contact Eaton Corporation at:
-
-Eaton Corporation Global Ethics and Compliance Data Protection and Privacy Office 1000 Eaton Boulevard Cleveland, Ohio 44122
-
-or
-
-via email to: [dataprotection@eaton.com](mailto:dataprotection@eaton.com)
-
-Eaton Corporation commits to cooperate with the EU Data Protection Authorities (DPAs) in both HR Data and Non HR Data related queries. Eaton Corporation commits to cooperate with the Swiss Federal Data Protection and Information Commissioner’s regarding HR data received from Switzerland for use in the context of the employment relationship.
-
-In the event the Employee is unable to resolve his or her concern through the Company’s Global Data Protection and Privacy Office, the Employee can contact the EU Data Protection Authorities (DPAs). In the event the Employee is unable to resolve his or her concern regarding HR data received from Switzerland for use in the context of the employment relationship through the Company’s Global Data Protection and Privacy Office, the Employee can contact the Swiss Federal Data Protection and Information Commissioner.
-
-Please find further information about the EU Data Protection Authorities in the below link:
-
-<http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
-
-Under certain conditions, more fully described on the Privacy Shield website ([https://www.privacyshield.gov](https://www.privacyshield.gov/ "Privacy Shield")), Employees may invoke binding arbitration when other dispute resolution procedures have been exhausted.
-
-**Accountability for Onward Transfer**
-
-Eaton Corporation is responsible for the processing of Employee Personal Data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. Eaton Corporation complies with the Privacy Shield Principles for all onward transfers of Personal Data from the EU, including the onward transfer liability provisions.
-
-In certain situations, Eaton Corporation may be required to disclose Employee Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-**11\. CHILDREN**  
-The Sites are not directed to children under 13. We do not knowingly collect personally identifiable data from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her personal data without the parent/guardian’s consent. If we become aware that we have unknowingly collected personally identifiable data from a child under the age of 13, we will delete such personal data from our records.
-
-**12\. UPDATES TO OUR PRIVACY POLICY**  
-This Policy and other policies on the Sites may be updated periodically and without prior notice to you, and any changes will be effective immediately upon the posting of the revised policy on the Sites. However, we will use your Personal Data in a manner consistent with the policy in effect at the time you submitted the Personal Data, unless you consent to the new or revised policy. We will post a prominent notice on the Sites to notify you of any significant changes to our Policy and indicate at the top of the Policy when it was most recently updated.
-
-**13\. HOW TO CONTACT US**  
-If you have any questions or comments about this Policy, please contact us by:
-
-Writing to:  
-Eaton  
-Attention: Global Data Protection and Privacy Office  
-1000 Eaton Boulevard  
-Cleveland, Ohio 44122
-
-or
-
-Via email to: [dataprotection@eaton.com](mailto:dataprotection@eaton.com)
-
-_Last updated: October 13, 2017_
+## Select a topic to learn more
