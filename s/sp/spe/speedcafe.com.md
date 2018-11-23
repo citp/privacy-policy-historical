@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedcafe.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613223016id_/http%3A//www.speedcafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedcafe.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123061559id_/https%3A//www.speedcafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Speedcafe Pty Ltd Privacy Policy - Speedcafe
 
@@ -56,7 +56,7 @@ This Privacy Policy describes the information that may be collected by Speedcafe
 
 ### Why we collect personal information and how we may use it
 
-Generally, Speedcafe Pty Ltd will collect personal information directly from you, and only to the extent necessary to provide a Speedcafe Pty Ltd product or service, including our agency functions, or to carry out our internal administrative operations. An agency function means a service that we provide to you on behalf of another organisation, such as our POSTbillpay and Bank@Post services.
+Generally, Speedcafe Pty Ltd will collect personal information directly from you, and only to the extent necessary to provide a Speedcafe Pty Ltd product or service, including our agency functions, or to carry out our internal administrative operations. An agency function means a service that we provide to you on behalf of another organisation, such as our POSTbillpay and [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) services.
 
 We may collect personal information from you when;
 
@@ -147,11 +147,37 @@ All of this information is used by Speedcafe Pty Ltd for aggregated statistical 
 
 The Speedcafe Pty Ltd site contains links to other sites. We are ultimately not responsible for the privacy practices or the content of such web sites. We encourage you to read and understand the privacy policies on those websites prior to providing any information to them.
 
-Some of the content appearing on the Speedcafe Pty Ltd website may be supplied by third parties, for example, by framing third party web sites or the incorporation through “framesets” of content supplied by third party application service providers. In such cases Speedcafe Pty Ltd will ensure that our contractual arrangements with these third parties protect your personal information in compliance with privacy laws.
+Some of the content appearing on the Speedcafe Pty Ltd website may be supplied by third parties, for example, by framing third party web sites or the incorporation through “framesets” of content supplied by third party application service providers. In such cases Speedcafe Pty Ltd will ensure that our contractual arrangements with these third parties protect your personal information in compliance with privacy laws.  
 
-### Website comments
 
-The Speedcafe Pty Ltd site contains comments submitted by website users.  Comments are automatically published by DISQUS. We are ultimately not responsible for inappropriate comments. Speedcafe.com goes to every effort to ensure inappropriate comments are removed immediately. We encourage users to flag/report comments which should be removed from public viewing.
+### Website comments policy
+
+The Speedcafe Pty Ltd site contains comments submitted by website users.  Comments are automatically published by DISQUS. Speedcafe.com goes to every effort to ensure inappropriate comments are removed immediately. We encourage users to flag/report comments which should be removed from public viewing.
+
+As a DISQUS comments user, you are obligated by DISQUS to abide by the basic rules as per the following:
+
+  * Targeted harassment and encouraging others to do so
+  * Spam
+  * Impersonation
+  * Direct threat of harm
+  * Posting personally identifiable information
+  * Inappropriate profile content
+
+
+
+The following actions are also not permitted:
+
+  * One word comments
+  * The use of multiple accounts
+  * Comments that are not relevant to the news story
+  * Usernames which may be offensive and/or contain an excessive amount of emojis
+  * Regular posting of the same comment
+
+
+
+Speedcafe.com reserves the right to ban or suspend a user from publishing a comment on Speedcafe.com at any time. Any decision made by the Speedcafe.com comments administrator is final.
+
+For more information on what and how DISQUS stores your data, please visit: <https://disqus.com/support>
 
 ### Searches
 
@@ -186,4 +212,4 @@ The Australian Information Commissioner
 
 
 
-**Last Updated:**  20 February 2017
+**Last Updated:**  17 August 2018
