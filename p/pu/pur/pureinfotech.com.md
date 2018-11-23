@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pureinfotech.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505060700id_/https%3A//pureinfotech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pureinfotech.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123222536id_/https%3A//pureinfotech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Pureinfotech
 
@@ -20,6 +20,8 @@ Pureinfotech.com contains links to other sites but we are not responsible for th
 
 The search box on this web site (“Search Box”) is powered by Google Inc (“Google”). You acknowledge and agree that Google’s privacy policy (located at https://privacy.google.com/) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
 
+Our comment system is powered by Disqus, and you can acknowledge and agree that Disqus’ privacy policy (located at https://help.disqus.com/terms-and-policies/disqus-privacy-policy) shall apply to your use when using comments, and using the comments you consent to Disqus using your personal data in accordance with its privacy policy.
+
 ## Use of Cookies
 
 We use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer’s hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site’s services, a cookie enables Pureinfotech.com to recall your specific information on subsequent visits.
@@ -36,7 +38,7 @@ No personally identifiable information you give us is provided to them for cooki
 
 Some third-party advertisements may be provided by Google, which uses the DoubleClick cookie to serve ads. This cookie enables Google to serve ads to users based on their visits to other sites on the Web.
 
-You may opt out of the use of the DoubleClick cookie by visiting the Google ad and content network [privacy policy](https://policies.google.com/technologies/ads).
+You may opt out of the use of the DoubleClick cookie by visiting the Google ad and content network [privacy policy](https://policies.google.com/technologies/ads). (Cookie opt out for [Skimlinks link](https://optout.skimlinks.com/), and information to [opt out from Vibrant Media can be found here](https://www.vibrantmedia.com/whats-intellitxt/).)
 
 Browsers can be set to accept or reject cookies automatically, or notify you when a cookie is being requested. Privacy software can be used to override web beacons. Taking either of these actions should not cause a problem with our site, should you so choose.
 
