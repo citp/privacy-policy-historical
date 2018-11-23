@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the up-4ever.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308153138id_/https%3A//www.up-4ever.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the up-4ever.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123021643id_/https%3A//www.up-4.net/privacy.html) for the most accurate reproduction.*
 
 # Up-4ever - Easy way to share your files
 
@@ -16,7 +16,7 @@ Our Site may use cookies to enhance User experience. Users web browser places co
 
 How we use collected information
 
-Up-4ever.com collects and uses Users personal information for the following purposes: \- To personalize user experience We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. \- To improve our Site We continually strive to improve our website offerings based on the information and feedback we receive from you. \- To improve customer service Your information helps us to more effectively respond to your customer service requests and support needs.
+up-4ever collects and uses Users personal information for the following purposes: \- To personalize user experience We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. \- To improve our Site We continually strive to improve our website offerings based on the information and feedback we receive from you. \- To improve customer service Your information helps us to more effectively respond to your customer service requests and support needs.
 
 How we protect your information
 
@@ -44,7 +44,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 Changes to this privacy policy
 
-Up-4ever.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+up-4ever has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 Your acceptance of these terms
 
