@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journalists.org privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803015333id_/https%3A//journalists.org/about/accountability/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalists.org privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123041347id_/https%3A//journalists.org/about/accountability/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online News Association
 
