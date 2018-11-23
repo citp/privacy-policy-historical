@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fijiwater.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524141208id_/http%3A//www.fijiwater.com/content/fijiwater/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fijiwater.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123204637id_/http%3A//fijiwater.com/content/fijiwater/home/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | FIJI Water
 
@@ -55,7 +55,7 @@ In addition, we may disclose anonymous, aggregated user statistics to third part
 
 As noted above, we may use the personally identifiable information we collect from you to offer you products and services that may be of interest to you.  If you would like to opt out of future communications and/or promotional materials from us, you may indicate this preference by following the unsubscribe instructions at the end of e-mail communications or by logging into your account and changing your communication preferences.
 
-As also noted above, we may, from time to time, share personally identifiable information with companies whose practices are not covered by this Privacy Policy (e.g., other marketers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you.  To request that we not share your information for such marketing purposes, you may log into your profile and change your account preferences accordingly or e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0c60696b6d6065626a634c6a6566657b6d78697e226f6361).
+As also noted above, we may, from time to time, share personally identifiable information with companies whose practices are not covered by this Privacy Policy (e.g., other marketers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you.  To request that we not share your information for such marketing purposes, you may log into your profile and change your account preferences accordingly or e-mail us at [legalinfo@fijiwater.com](mailto:legalinfo@fijiwater.com).
 
 #### COOKIES & WEB BEACONS
 
@@ -116,6 +116,6 @@ FIJI Water Company LLC
 Los Angeles, California 90064  
 Attention: Chief Legal Officer  
 Facsimile: (310) 966-5758  
-E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#761a1311171a1f18101936101f1c1f01170213045815191b)
+E-mail: [legalinfo@fijiwater.com](mailto:legalinfo@fijiwater.com)
 
 © 2016 FIJI Water Company LLC.  All rights reserved.
