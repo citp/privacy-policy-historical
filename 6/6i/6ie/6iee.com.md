@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6iee.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524084559id_/http%3A//6iee.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6iee.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123124903id_/http%3A//6iee.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
