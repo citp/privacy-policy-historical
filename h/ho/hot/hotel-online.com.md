@@ -1,81 +1,61 @@
-> *The following text is extracted and transformed from the hotel-online.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509055330id_/http%3A//hotel-online.com/legal/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotel-online.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123155245id_/https%3A//www.hotel-online.com/legal/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hotel Online
 
-**What information do we collect?**
+**Privacy Policy for Hotel-Online**
 
-We collect information from you when you register on our site, place an order or subscribe to our newsletter.
+Hotel-Online is committed to safeguarding your privacy while visiting the Hotel-Online websites, namely, Hotel-Online.com. Our goal is to provide you with an internet experience that delivers the information, resources and services that are most relevant to you about our company. To achieve this goal, part of the operation of the site includes the gathering of certain types of information about site users. Because we understand that your privacy is important, we wish to explain the types of information we gather and the way in which we use it. This privacy policy applies to the site.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information (to complete an order).
+  
+This privacy policy covers two types of information gathered at the site, personal and aggregated. The term "personal information" refers to data you voluntarily provide in connection with use of the site that identifies you and/or the company on whose behalf you are accessing and using the site. Personal information, e.g., data submitted in connection with our services, includes your name, email address, phone number, company affiliation, physical address and/or certain other personal information. The term "aggregated data" refers to general information regarding visitors and users of the site that relates to use of the site, e.g., traffic patterns, number of visits to certain pages, visits from other websites or to third-party websites linked to the site, use of particular services and interest in services, information or features of the site or other parties made available through or found at the site.  
+ 
 
- **What do we use your information for?**
+**What information is collected about you? How do we use it?  **  
+We take the utmost care to ensure that the personal information we obtain from you is not used in a way that you may be unaware of or not agree to. You may wish to submit an information request about one of our services or products, participate in one of our promotions or subscribe to our email or postal mail lists. In response, we may ask for information such as your name and postal address. In the event you opt to provide us with this information, we will only use it for the purpose of providing personalized content to you. Subscription forms will provide an opt-out button to allow you to choose not to participate in Hotel-Online personalized content or future online marketing. In deciding whether or not to join such lists, please note that they are only used for Hotel-Online purposes or in joint promotions with a Hotel-Online partner. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. You may request to be removed from our subscription list at any time. All emails distributed to our lists will contain easy, online access to unsubscribe.  
+ 
 
-Any of the information we collect from you may be used in one of the following ways:
+**Use of Aggregated Data**    
+Hotel-Online is interested in improving the site and may develop and offer new features and services. We monitor aggregated data regarding use of the site for marketing purposes and to study, improve and promote use of the site. In connection with such purposes, Hotel-Online may share aggregated data with third parties collectively and in an anonymous way. Disclosure of aggregated data does not reveal personal information about individual site users in any way that identifies who they are or how to contact them.  
+ 
 
-  * To personalize your experience (your information helps us to better respond to your individual needs)
-  * To process transactions- Your personally identifiable information, whether public or private, will not be sold, exchanged, transferred or given to any other company, without your consent, other than for the express purpose of fulfilling an order in the shopping cart per your request.
-  * To send periodic emails. The email address you provide for order processing will only be used to send you information and updates pertaining to your order. The email address you provide will be used to send you the daily email newsletter if you subscribed to the daily newsletter.
-  * To maintain your personal account.You will be required to create an account to subscribe to the daily email newsletter, to post comments on articles and to submit content, place orders and pay for these posting services or banner advertising on our site.
+**Subscriptions**    
+Subscriptions to the enewsletter contain explicit consent to send appropriate content daily along with occasional sponsored content from partners. The subscription facilitation is provided through a third-party who will act as an agent of Hotel-Online to facilitate subscriber information, maintain updates of subscriber information and preferences, postal mailing and email distribution. The third party has no authorization or permission to view or use the information held within the database except to facilitate the above services described above.
 
+Use this **[link](https://www.hotel-online.com/account/login)** to update, correct, modify or delete personal information held by Hotel-Online. Once on the link, cancelling your subscription will lead to the personal information being deleted. Requests can also be mailed to the same physical address below. If you would like to request your information held by HO, it must be made in writing and mailed to the address below.
 
+We will store personal information obtained as part of the subscription for so long as necessary to continue providing the requested newsletter. When you inform us that you no longer wish to receive the newsletter your personal information will be deleted.  
+ 
 
+**Exceptions to the Privacy Policy**    
+Hotel-Online has two exceptions to these limits on use of personal information:
 
-**How do we protect your information?**
+(1) Hotel-Online may monitor and, when we believe in good faith that disclosure is required, disclose information to protect the security, property, assets and/or rights of Hotel-Online from unauthorized use, or misuse, of the site or anything found at the site.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+(2) Hotel-Online may disclose information when required by law; however, only to the extent necessary and in a manner that seeks to maintain the privacy of the individual.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+**Use of Cookies**  
+To enable features at the site, Hotel-Online may assign one or more "cookies" to your Internet browser. Cookies, among other things, speed navigation through our site, keep track of information so that you do not have to re-enter it each time you visit our site, and may provide you with customized content. A cookie is an Internet mechanism composed of a small text file containing a unique identification number that permits a Web server to send small pieces of information or text by means of your browser and place them on your computer's hard drive for storage. This text lets the Web server know if you have previously visited the webpage. Cookies by themselves cannot be used to find out the identity of any user.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+  
+We use cookies to collect and maintain aggregated data (such as the number of visitors) to help us see which areas are most popular with our users and improve and update the content on our site. While in the process of browsing our site, you also provide us with information that doesn't reveal your personal identity -- what type of destination you're exploring, for example. We use this aggregated data only as explained in this privacy policy. We do not connect aggregated data to any name, address or other identifying information.  
+ 
 
-**Do we use cookies?**
+**Links Provided to Other Sites  **  
+Hotel-Online may provide links to a number of other websites that we believe might offer you useful examples of our work and services. However, those sites may not follow the same privacy policies as Hotel-Online. Therefore, we are not responsible for the privacy policies or the actions of any third parties, including without limitation, any website owners whose sites may be reached through this site, nor can we control the activities of those websites. We urge you to contact the relevant parties controlling these sites or accessing their online policies for the relevant information about their data collection practices before submitting any personal information or other sensitive data.  
+ 
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information.
+**Your Consent to This Privacy Policy**  
+Use of the site signifies your consent, as well as the consent of the company for whom you use the site and whose information you submit (if any), to this online privacy policy, including the collection and use of information by Hotel-Online, as described in this statement, and also signifies agreement to the terms of use for the site. Continued access and use of the site without acceptance of the terms of this privacy policy relieves Hotel-Online from responsibility to the user. We do not make any automated decisions based solely upon personal information you provide to us.  
+ 
 
-We use cookies to help us remember and process the items in your shopping cart and keep track of advertisements , and campaign reporting for accounts.
+**Policy Modifications & Contacting [Hotel-Online.com](https://www.hotel-online.com/)**  
+Hotel-Online reserves the right to change this privacy policy at any time; notice of changes will be published on this page. Changes will always be prospective, not retroactive. If you have questions about our policies, please contact:  
+ 
 
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties  or our sister company, Hospitality Upgrade, who assist us in operating our website, conducting our business or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. If personal information will be gathered for any reason outside of what is outlined here your request will be requested and must be granted for this information to be shared.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their  subscriber account (My Account) from the homepage and editing the My Account Details.
-
-**Children’s Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act). We do not knowingly collect any personally identifiable information from children under 13 years old through the site.
-
- Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Your Consent**
-
-By using our site, you consent to our Website’s Privacy Policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our Privacy Policy , we will post those changes on this page. By continuing to use our site after the changes have been posted, you consent to the changes to the Privacy Policy.
-
-**Contacting Us**
-
-If there are any questions regarding this Privacy Policy, you may contact us using the information below.
-
-70 Mansell Court Ste 225
-
+Hotel-Online  
+70 Mansell Court Ste 225  
 Roswell, Ga 30076, USA
 
-Info@hotel-online.com
+[Info@hotel-online.com](mailto:Info@hotel-online.com?subject=Privacy%20Policy)
 
-678-802-5308
-
-[](https://hotel-online.com/?ACT=27&ad_id=189)
+678-802-5300
