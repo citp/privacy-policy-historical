@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the classflow.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114204930id_/https%3A//classflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classflow.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123094258id_/https%3A//classflow.com/privacy-policy) for the most accurate reproduction.*
 
 # ClassFlow Website Privacy Policy I ClassFlow
 
-## July 2017
-
-**  
-Effective Date: July 31, 2017**
+**Effective Date: July 6, 2018**
 
 Our ClassFlow Student Data Privacy Pledge
 
@@ -69,7 +66,7 @@ b. Information about Students:
 
 Promethean provides the Service to schools and teachers to improve classroom instruction and student learning outcomes. Through the provision of this Service to a School, we may collect or have access to Personal Information about students (“ ** **Student Data**** ”). Only students who have been provided a class code by a School or Teacher may register as a “Student” for a ClassFlow account and use the Service.  Upon registration, we will collect Personal Information from the student. The type of information we collect will depend on how the teacher, school or district use the Service, but could include the student’s first and last name, email address, user name and password, assessment data, assignment data, and other classroom content. We consider Student Data to be highly confidential and use this data solely to provide our Services to the School or on the Schools behalf, and in limited ways, for internal purposes in accordance with our [ClassFlow Terms of Service](https://classflow.com/terms-of-service) or specific agreements with Schools.  Our collection, use, and disclosure of Student Data is governed by our agreements with the School, in the U.S. by the provisions of the Family Educational Rights and Privacy Act (FERPA) and applicable state laws, and by other state, federal, and international laws as applicable.  Applicable law or any agreement with a School will take priority and shall be controlling if and to the extent there is any conflict between any applicable law, or the provisions of any agreement with a School, and this Privacy Policy.  If you have any questions about our collection and use of Student Data, please contact us at [privacy@ClassFlow.com](mailto:privacy@ClassFlow.com).  If you have any questions about reviewing, modifying, or deleting Personal Information of a student, please contact your educational institution directly.
 
-See “How Promethean Shares Information With Others” below for more information on the limited ways in which we share School Data and Student Data. See “Children’s Privacy” below for more information about how we collect and use the personal information of children under 13.
+See “How Promethean Shares Information With Others” below for more information on the limited ways in which we share School Data and Student Data. See “Children’s Privacy” below for more information about how we collect and use the personal information of children.
 
 c. Information about Parents and Guardian:
 
@@ -162,7 +159,7 @@ b. You are responsible for understanding and complying with the local data prote
 
 ****9\. Children’s Privacy****
 
-Promethean does not knowingly collect any information from children under the age of thirteen (13) unless and until a School or teacher has provided appropriate consent and authorization for a student under thirteen (13) to use the Services and for Promethean to collect information from such student.  Please contact us at privacy@classflow.com if you believe we have inadvertently collected personal information from a child under thirteen (13) without proper consents so that we may delete such information as soon as possible.
+Promethean does not knowingly collect any information from children under the age of eighteen (18) unless and until a School or teacher has provided appropriate consent and authorization for a student under eighteen (18) to use the Services and for Promethean to collect information from such student.  Please contact us at privacy@classflow.com if you believe we have inadvertently collected personal information from a child under eighteen (18) without proper consents so that we may delete such information as soon as possible.
 
 ****10\. Will Promethean ever Change this Privacy Policy?****
 
@@ -196,7 +193,7 @@ a. We may make changes to this Privacy Policy from time to time, so you should r
 
 ****12\. What if I have a Question About this Privacy Policy or a Complaint**** ** **?****
 
-If you have a complaint, question, or a concern about the information set forth in this Privacy Policy or about how we have handled your Personal Information, please contact us at ****privacy@ClassFlow.com****.  We will try to deal with all complaints, questions, and concerns within a reasonable time frame.
+If you have a complaint, question, or a concern about the information set forth in this Privacy Policy or about how we have handled your Personal Information, please send us a detailed message to ****[privacy@ClassFlow.com](mailto:privacy@ClassFlow.com)**** , write us at Promethean House, Lower Philips Road, Whitebirk Industrial Estate, Blackburn, Lancashire, BB1 5TH, United Kingdom or 1165 Sanctuary Parkway, Suite 400, Alpharetta, Georgia 30009 United States, or call us at +1(888)652-2848. We will try to deal with all complaints, questions, and concerns within a reasonable time frame.
 
 a. If you are an Australian resident and you are not satisfied with how we have resolved your complaint, you can contact the Australian Federal Privacy Commissioner to make a complaint. For more information, go to [www.oaic.gov.au](http://www.oaic.gov.au/).
 
