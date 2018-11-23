@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynastyseries.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520185337id_/http%3A//dynastyseries.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynastyseries.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123131019id_/http%3A//dynastyseries.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sexy Pics On -DynastySeries.com
 
