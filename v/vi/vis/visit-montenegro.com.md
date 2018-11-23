@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visit-montenegro.com privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815222845id_/https%3A//www.visit-montenegro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visit-montenegro.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123150104id_/https%3A//www.visit-montenegro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Visit Montenegro
+# Privacy Policy - Visit Montenegro
 
 #### VISIT-MONTENEGRO.com
 
@@ -40,6 +40,6 @@ As we said, Visit-Montenegro.com takes protecting your privacy very seriously. T
 Visit-Montenegro.com website has links to the sites of other companies. Visit-Montenegro.com is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
 
 **Privacy questions**  
-If you have questions or concerns about Visit-Montenegro.com Customer Privacy Policy or data processing, please [contact us](http://www.visit-montenegro.com/contact-us/ "Contact Us").
+If you have questions or concerns about Visit-Montenegro.com Customer Privacy Policy or data processing, please [contact us](https://web.archive.org/contact-us/ "Contact Us").
 
-[Legal Note](http://www.visit-montenegro.com/privacy-policy/legal-note/ "Legal Note")
+[Legal Note](https://web.archive.org/privacy-policy/legal-note/ "Legal Note")
