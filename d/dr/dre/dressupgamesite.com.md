@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupgamesite.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531182602id_/http%3A//www.dressupgamesite.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupgamesite.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123111316id_/http%3A//www.dressupgamesite.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Dress up Games Privacy and Policies
 
