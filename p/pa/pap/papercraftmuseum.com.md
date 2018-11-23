@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papercraftmuseum.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524213505id_/http%3A//papercraftmuseum.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papercraftmuseum.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123103931id_/http%3A//papercraftmuseum.com/pp) for the most accurate reproduction.*
 
 # PaperCraftMuseum.com Privacy Policy | PaperCraft Museum
 
