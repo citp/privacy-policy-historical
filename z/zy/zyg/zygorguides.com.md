@@ -1,55 +1,68 @@
-> *The following text is extracted and transformed from the zygorguides.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524144207id_/http%3A//www.zygorguides.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zygorguides.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123130929id_/http%3A//www.zygorguides.com/about/privacy.php) for the most accurate reproduction.*
 
 # Zygor Guides
 
-  
+###### Updated May 25th, 2018
 
+Here at Zygor Guides we value your privacy and it is our policy to make it clear what data we collect and how we use it, as well give you full control over this data.
 
-## Last Updated: 01/23/13
+## The Data We Collect:
 
-We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use our services, as well as some of the steps we take to safeguard it. If you have any questions or concerns about this Policy, you may contact us [here](https://web.archive.org/web/20100211001808/http://www.zygorguides.com/contact/index.php).
+When you create a Zygor Account we collect and store the following information.
 
-## Data Collection
+#### On our local server we collect and store:
 
-  * Zygor Guides will never rent, share, or sell any information you provide to us with any other people, websites, or companies, unless compelled to by law.
-  * Zygor Guides, its forums, and other website services do not collect any personally identifiable information when viewing in a read-only mode.
-  * Zygor Guides automatically collects limited non-personally identifying information your web browser makes available whenever you visit a page on our website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your web browser. We use this information only to develop and improve our services.
-  * Some of our website services require a membership. Members are granted the privilege to post their own information, comments, and opinions onto our message boards, provided that they follow the Terms of Service.
+Your username, first and last name, and email address. Passwords are not stored and are encrypted in a way that can only be used for login purposes and thus cannot be retrieved in the event of a security breach.
 
+If you choose to link your social media and/or discord accounts (completely optional) we are able to access select profile information through those third party services. You will be shown what info we will gain access to and be asked for approval before any accounts are linked.
 
+Almost all user interactivity on the site is handled via cookies stored locally on each users device. Additionally, we track user behavior and interaction using Google and Facebook tracking pixels.
 
-## Zygor Guides Members Account
+#### If you purchase a Zygor Elite subscription our payment processor Recurly collects and stores:
 
-  * The following information is required when becoming a member: a username, a password, and a valid e-mail address. Your e-mail address can be optionally used for administrative contact, and for contact from other site members. You can choose whether to recieve such e-mails from administrators or site members during the registration process.
-  * Membership does not grant the user unlimited or unrestricted access to Zygor Guides. Certain administrative functions are hidden for security purposes, and may not be accessed by standard users. Attempting to access or otherwise manipulate these administrative controls will have your account temporarily or permanently suspended. By registering for an account, the user must also comply with the Zygor Guides Terms of Service (see below).
+Your Payment info and your billing address. If you use Paypal only a "token" is stored rather than your full info. This information is not stored locally on our servers but externally on Recurly's servers. Recurly is GDPR complaint as of May 25th.
 
+Additionally, when you sign up for an account your email is automatically added to our Aweber (third party mailing list service) newsletter.
 
+#### Usage statistics:
 
-## Zygor Guides Terms of Service
+We monitor and store access logs to our server and install client. Our client is able to track and send us anonymous usage statistics about which guides you install and use.
 
-The Terms of Service are available on [this](https://web.archive.org/web/20100211001808/http://www.zygorguides.com/forum/showthread.php?p=15#post15) page.
+## Why We Collect and Store This Data
 
-Zygor Guides reserves the right to modify these Terms at any time.
+The data on our local server is used to create an account profile for customers, grant access to consumer products, and allow users to use website features such as the forums and user feedback sections.
 
-## Information Security
+The data stored through our third party payment processor Recurly is used to bill and process monthly payments for premium consumer services like Zygor Elite.
 
-  * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
-  * We restrict access to your information to website administrators who need to know that information in order to operate, develop or improve our services.
+Users are auto-enrolled to our newsletter in order to provide important information about our products and services.
 
+Usage statistics are used to determine the size of our user base and which products are most popular in order to focus our efforts.
 
+Your access patterns (dates, IP addresses, browser versions) are also stored for security reasons and fraud protection.
 
-## Updating Your Information
+Cookies are used to handle user logins and keep them logged in as they use the site. They are also used to track when affiliates send traffic to our site that results in a sale in order to provide commissions.
 
-We provide mechanisms for updating and correcting your personally identifying information on our services.
+Google tracking pixels are used for Google Analytics to learn more about user behavior and test the sales effectiveness of individual pages. Facebook tracking pixels are used to test the sales results of Zygor ads running on Facebook.
 
-## Changes to this Policy
+## Your Data and Privacy Options:
 
-Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. The latest revision date will be noted at the top of the page.
+All locally stored information can be edited manually through the website.
 
-  
+Through our support ticket system you can request changes to the information stored by our payment processor, and/or request that your account be closed and all your data completely removed both locally and through Recurly. This will be done promptly and you will be notified when this process is complete. We are also working on adding ways that you can do all of this manually as well.
 
+You can unsubscribe from our newsletter by clicking the "Unsubscribe" link at the bottom of each email.
+
+## How We Protect Your Data:
+
+The portions of our website used for account registration are secured via SSL. Billing information is stored solely on Recurly's servers and is never actually transmitted through our servers, thus reducing the risk of man-in-the-middle attacks.
+
+All information stored at Recurly uses the highest security which can be read about here: <https://recurly.com/security/>
+
+If there is ever a security breach we will notify you and let you know what we're doing to make sure it doesn't happen again.
+
+We will also routinely audit and update our policies to make sure they meet the highest privacy standards.
 
 Copyright © 2017 Zygor Guides, LLC.  
-All Rights Reserved.
+All Rights Reserved. 
 
 This site and the products and services offered on this site are not associated, affiliated, endorsed, or sponsored by Activision | Blizzard or ZeniMax Media Inc., nor have they been reviewed, tested or certified by Activision | Blizzard or ZeniMax Media Inc..
