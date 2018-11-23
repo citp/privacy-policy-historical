@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coleman.com privacy policy that was archived on 2018-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180108164822id_/https%3A//www.coleman.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coleman.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123042258id_/https%3A//www.coleman.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
