@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csiro.au privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226233157id_/http%3A//www.csiro.au/en/About/Access-to-information/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csiro.au privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124003746id_/https%3A//www.csiro.au/en/About/Access-to-information/Privacy) for the most accurate reproduction.*
 
 # CSIRO and the Australian Privacy Principles - Privacy Policy - CSIRO
 
@@ -6,7 +6,7 @@ CSIRO is committed to protecting your personal information and complying with th
 
 ## Contact information
 
-Megan Fincher:  
+Megan Fincher  
 Privacy Officer
 
 Phone:  
