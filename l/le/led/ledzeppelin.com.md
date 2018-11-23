@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ledzeppelin.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522133306id_/http%3A//www.ledzeppelin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledzeppelin.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123112056id_/http%3A//www.ledzeppelin.com/privacy-policy) for the most accurate reproduction.*
 
-# Led Zeppelin, II, III, IV, Houses of the Holy and Physical Graffiti | Led Zeppelin - Official Website
+# Led Zeppelin | Official Website , II, III, IV, Houses of the Holy and Physical Graffiti | Led Zeppelin - Official Website
 
 Led-Zeppelin.com ("Company," "we," "us"), is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below). This Privacy Policy (the "Policy") describes our practices in connection with Personally Identifiable Information that we collect through **LedZeppelin.com** (the "Site"). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site; nor does this Policy govern the collection of information by third parties, including our Partners.
 
