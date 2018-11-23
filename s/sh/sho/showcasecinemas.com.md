@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showcasecinemas.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314120417id_/https%3A//www.showcasecinemas.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showcasecinemas.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123165856id_/https%3A//www.showcasecinemas.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Showcase Cinemas Movie Theaters
 
