@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiagoldrate.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605070153id_/http%3A//www.indiagoldrate.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiagoldrate.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123233125id_/http%3A//www.indiagoldrate.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Gold | Gold Rate | Gold Rates | Gold price | Gold prices | Gold Rate latest | price of gold | goldprice| Gold Rate India | Gold Rate Chennai | Gold Rates Mumbai,Gold Rate Today, Delhi,Hyderabad Kolkata
 
