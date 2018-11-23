@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiosked.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616182517id_/http%3A//www.kiosked.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiosked.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123104443id_/http%3A//www.kiosked.com/privacy-policy) for the most accurate reproduction.*
 
 # Kiosked | Kiosked Privacy Policy
 
