@@ -1,43 +1,169 @@
-> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315181009id_/https%3A//www.genengnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123221613id_/https%3A//www.genengnews.com/privacy) for the most accurate reproduction.*
 
-# Privacy | GEN
+# Privacy Statement | Mary Ann Liebert, Inc., publishers
 
-  * [ ](https://web.archive.org/gen-articles/flip-the-dna-nanoswitch-power-the-clinical-app/6268) [Flip the DNA Nanoswitch, Power the Clinical App](https://web.archive.org/gen-articles/flip-the-dna-nanoswitch-power-the-clinical-app/6268)
+#### Mary Ann Liebert, Inc. family of companies
 
-A Molecular Interaction Detection Platform Uses a Gel-based Readout
+This privacy policy was last updated on July 20, 2018
 
-  * [ ](https://web.archive.org/gen-exclusives/repurposing-of-kinase-inhibitors-as-broad-spectrum-antiviral-drugs/77901062) [Repurposing of Kinase Inhibitors as Broad-Spectrum Antiviral Drugs](https://web.archive.org/gen-exclusives/repurposing-of-kinase-inhibitors-as-broad-spectrum-antiviral-drugs/77901062)
+#### Introduction
 
-Summary of the Progress and Challenges in the Repurposing Kinase Inhibitors as Broad-Spectrum Antiviral Therapies
+The Mary Ann Liebert, Inc. family of companies respects your privacy and takes the protection of your personal information seriously. This Privacy Policy relates to the information collected and processed when visiting and interacting with the websites and services of Mary Ann Liebert, Inc., publishers and related companies. Mary Ann Liebert, Inc., located at 140 Huguenot Street, New Rochelle, NY 10801, is the company responsible for the collection, use, and disclosure of your personal information under this Privacy Policy.
 
-  * [ ](https://web.archive.org/gen-articles/single-use-avoids-a-midlife-crisis/6256) [Single-Use Avoids a Midlife Crisis](https://web.archive.org/gen-articles/single-use-avoids-a-midlife-crisis/6256)
+To keep up with changing legislation, best practices, and changes in how we process your personal data, this Privacy Policy may be revised from time to time. We will post any changes to our site and encourage you to check back periodically in order to be aware of any changes. This policy may be supplemented by additional terms & conditions or privacy statements, such as our cookie policy. We encourage you to visit this page regularly for updates. The legend at the top of this Privacy Policy indicates when it was last updated. Any changes will become effective when we post the updated Privacy Policy on our platform.
 
-Single-Use Technology Is Consolidating Its Gains and Finding New Ways of Fitting In
+#### How We Protect Personal Information
 
-  * [ ](https://web.archive.org/gen-exclusives/applications-of-crisprcas9-technology-in-translational-research-on-solid-tumor-cancers/77901066) [Applications of CRISPR/Cas9 Technology in Translational Research on Solid-Tumor Cancers](https://web.archive.org/gen-exclusives/applications-of-crisprcas9-technology-in-translational-research-on-solid-tumor-cancers/77901066)
+Any personal information given to us will be treated with the utmost care and security.
 
-Efforts Are Underway to Move CRISPR/Cas9 from Bench to Bedside
+A variety of physical and technical measures are used to keep data safe and prevent unauthorized access to, or use or disclosure of personal information.
+
+Electronic data and databases are stored on secure computer systems, and we control who has access to information, using both physical and electronic means. We have detailed security and data protection policies that employees are required to follow when handling personal information data.
+
+All reasonable steps are taken to ensure that your personal information is kept secure from unauthorized access. For questions concerning how we protect your personal information, you can contact our Chief Information Officer.
+
+#### Information We Collect
+
+We collect different types of personal information for various purposes intended to provide and improve our services to you. In this Privacy Policy, the term “personal information” refers to the types of information we collect and use based on how you interact with us.
+
+Information you provide to us:
+
+  * Contact details such as your name, email address, postal address, and telephone number
+  * Professional information, such as institutional affiliation(s), job title, and field(s) of study
+  * Location information (e.g., the country in which you are based)
+  * Comments, feedback, questions, and other submitted content
+  * Interests and communication preferences, including marketing permissions where appropriate
+  * Payment information, such as credit card or banking details
 
 
 
+Device and usage data:
 
-This Privacy Statement is designed to assist you in understanding how we collect, use, and safeguard the personal information you provide to us and to assist you in making informed decisions when using our website and our products and services. Genetic Engineering & Biotechnology News is committed to maintaining the privacy of clients and potential clients alike. Our relationships with our clients and potential clients are of the utmost importance; the trust we’ve developed with them is a paramount concern of ours. 
+We may collect data that is automatically generated by you as part of your interactions with our sites. This data may include IP address information, computer or device details, cookies, saved searches and alerts, usage of published content, and information relating to your use of our websites. More information about our cookie policy can be found [here](https://web.archive.org/cookie-policy).
 
-We collect two types of information from users of our website: (1) personal information you choose to disclose to us; and (2) aggregate information collected on users of our website. 
+Data from your institution:
 
-### Privacy Policy
+We may obtain personal information directly from the institution with which you are employed or affiliated in order to activate and manage your access to the institution’s subscriptions or services purchased from us, including:
 
-You may be requested to provide personal information when you register, subscribe or send an e-mail to us. We may use the information you provide about yourself to fulfill requests for our publication, products or services, to respond to inquiries about offerings and to offer other products, programs or services that may be of interest. You may at any time opt out of any or all such contact by updating your personal information in the log-in page on the GEN website by clicking [here](https://geneng.omeda.com/gen/index.do), or by contacting us directly by clicking [here](https://web.archive.org/contact-gen).
+  * Contact details, such as your name and institutional email address, postal address and phone number;
+  * Other account registration information, such as job title; and/or
+  * Institutional user ID
 
-### For Canadian Residents
 
-Disclosure of Personal Information:  
-We will not disclose, rent, sell or otherwise transfer your personal information without your consent, except as otherwise set out in this Privacy Statement. 
 
-### Third Party Products and Services
+Data from other sources:
 
-If you are a subscriber to any of our publications or e-newsletters, we may obtain your permission to share your contact information with carefully selected marketing partners who will contact you by mail or e-mail with offers about products and services that may be of interest to you. You can remove yourself from such mailing lists by clicking [here](https://geneng.omeda.com/gen/index.do) or by contacting us directly by clicking [here](https://web.archive.org/contact-gen).
+In certain circumstances, data that you have made available publicly on other websites or in otherwise publicly viewable documents, such as your contact details, research interests, courses that you teach, and the institution at which you are based, may be collected in order to deliver a more personalized experience for you when interacting with our website and products. When we do this, we carefully consider whether doing so is in your interest and any impact on your rights, and we will inform you as soon as practically possible about our use of your data and your right to object to this and to unsubscribe from any communications from us.
 
-### Aggregate Information
+We also work with third parties and other partners and may receive information about you from them. These include business partners such as web hosting providers, email service providers, and list brokers, through which we are able to deliver our products, services, and communications. We may also obtain your personal information as a result of a journal transfer or business acquisition, or from societies and associations that we work with.
 
-We may collect certain information about all users of our website such as an Internet Protocol (IP) address, the type of browser and operating system used, the date and time visited, and the pages visited. This information is captured for our usage in learning about our visitors, to help us continually improve your online experience with our firm.
+#### Children’s Personal Data
+
+Our services and products are not intended for children under the age of 16, and we do not knowingly collect personal data from this age group. If any information is collected from a child under the age of 16 without verification of parental consent, it will be deleted.
+
+#### Cookies
+
+When you visit our websites, we may send your computer a "cookie," a small file that resides on your computer's hard drive and stores information about you and your website preferences in order to provide you with a personalized user experience.
+
+More information about our cookie policy can be found [here](https://web.archive.org/web/20180828181926id_/https://privacy.liebertpub.com/cookie-policy).
+
+#### How We Use Your Personal Information
+
+We may use your information for the following purposes:
+
+  * To process and fulfill orders, downloads, subscriptions, or other transactions through our website or via other means, which may involve sharing your information with our order processing and delivery service providers;
+  * To keep in contact with you about news, events, new website features or services, or new publications or products that we believe may interest you, on the basis of your consent where we have requested it or our legitimate interests to provide you with communications where we may lawfully do so. You can unsubscribe from these services at any time using links provided within our emails or by visiting our subscription centers.
+  * Offer you customized content and other personalization to make our services more efficient for you and more relevant to your interests and geography;
+  * Deliver relevant advertisements, promotional messages, and other information based on your personal information, which may include information about related products and services of ours as well as communications from third parties, including sponsors and society partners;
+  * To process your entry to any competitions or prize draws on the basis of your consent;
+  * To analyze the use of our content, services, and products in order to improve them, develop new content and services, and to predict future customer behavior, as part of our legitimate interests as a commercial organization;
+  * To provide customer service and support, manage inquiries or complaints about our products, websites, or services, and share your information with our website developers, IT support providers, subscription and delivery service providers, and payment services providers as necessary to provide customer support (on the basis of our legitimate interest in providing the correct products and services to you); and/or 
+  * To share your personal information with additional selected third parties such as: 
+    * publishing partners and authors, to enable them to contact you with information about things that may interest you (where we have your consent to do so)
+    * social media platforms so that relevant advertisements may be selected and served to you via those platforms on the basis of our legitimate interests to market our products to you
+    * sponsors of events and products you have registered for, such as webinars and ebooks, where we have informed you that we will do so at the point in which you register
+
+
+
+#### Links to Third Parties
+
+Our sites may contain links to websites controlled by parties other than the Mary Ann Liebert, Inc. family of companies. These businesses will have their own privacy policies, tailored to their particular business practices and the sectors in which they operate. If following these links, we recommend reviewing the privacy policy of each website to understand how personal data is collected and used in that instance. The inclusion of links to these websites does not imply an endorsement or validation of their content, and we are not responsible for their privacy practices of, nor do we accept any liability in connection with the content on such websites.
+
+#### Legal Basis for Use
+
+References in this Privacy Policy to using your information on the basis of “legitimate interests” include our business interests in conducting and managing our business and our relationship with you, in accordance with all applicable legal and regulatory requirements, including:
+
+  * Where it is necessary for entering into or performing a transaction with you
+  * Where you have consented to its use
+  * Where we have a legitimate interest to do so, provided your rights do not override these interests
+
+
+
+Where we use your information for our legitimate interests, we make sure that we take into account any potential impact that such use may have on you. Our legitimate interests don’t automatically override yours and we won’t use your information if we believe your interests should override ours unless we have other grounds to do so such as your consent or a legal obligation. If you have any concerns about our information processing please refer to the details of “Your Rights and How to Exercise Them” below.
+
+#### Your Rights and How to Exercise Them
+
+We operate in countries with data protection laws that may provide individuals the right to access and control their information. We permit you to exercise those rights as provided by data protection laws.
+
+EU data protection laws give individuals a number of rights concerning the processing of their data and information. These laws protect individuals in the EU where the website is made available to individuals in the EU, such as Mary Ann Liebert, Inc., publishers and related companies’ websites. Under General Data Protection Regulation (GDPR) these include:
+
+  * The right to confirm whether or not we have your personal data and, if we do, to obtain a copy of the personal information we hold. This is known as subject access request.
+  * The right to have inaccurate data rectified
+  * The right to request the restriction or suppression of your personal data, for example, we will stop using the data but we may continue storing it
+  * The right to obtain your personal data that you have provided to us, on the basis of consent or performance of a transaction or contract, and where technically feasible, transmitted in a common electronic format to you or directly to another company
+  * The right to object to the use of your data. Specifically, you have the right to object to our use for marketing and in relation to automated decision making, including profiling where there may be legal or similarly significant effects
+  * The right to erasure of your personal information from the systems we control. This does not, however, apply where it is necessary for us to continue to use the data for a lawful reason. Click [here](https://web.archive.org/right-of-erasure) to access our right to erasure request form.
+
+
+
+There are exceptions to the rights listed above. Where you make a request to us as part of these rights, we will always try to respond to your satisfaction, although there may be situations where we will be unable to do so. In some cases, we may be entitled to decline a request you have made regarding your personal information in accordance with applicable laws. We will explain if that is the case. Otherwise, we will meet your request as promptly as we reasonably can. If you have requested that we stop sending you marketing messages, please note that you may still receive them for a short period while the request is processed.
+
+Depending on the laws of the country where you live, you may have other rights in respect of your personal information. If you wish to exercise any legal right in respect of your personal information, please contact us via one of the methods set out in the “Contact Us” below. 
+
+##### How to update your information and marketing preferences
+
+We want to ensure you remain in control of your personal information. We try to ensure that the personal information held about you is accurate and up-to-date, and will always give the opportunity to update and opt out of future communications.
+
+You can customize and manage your communications preferences and other settings when you register for a user account, by logging into your user account and updating your account features and preferences, by using the unsubscribe and email preferences mechanisms within email messages, or by contacting us.
+
+Information on how to opt out will be given when your personal information is collected and specified on every communication sent with the exception of notices related directly to purchases or customer service inquiries. If at any stage you would like to update or correct such personal information, or opt-out of future marketing communications, email or write to us at the addresses provided in the “Contact Us” section below.
+
+#### Contact Information
+
+If you have any questions about this Privacy Policy or relating to our use of your information, you can contact our Chief Information Officer/Data Protection.
+
+Email: [info@liebertpub.com](mailto:info@liebertpub.com)
+
+Mail Correspondance:
+
+**Chief Information Officer/Data Protection**  
+Mary Ann Liebert, Inc.  
+140 Huguenot Street  
+New Rochelle, NY 10801 
+
+#### International Transfer of Personal Information
+
+Our business is located in the US thus any information you provide to us will be processed outside of the European Economic Area (EEA) except where we use a third-party service provider with servers located inside the EEA. We take all steps necessary to ensure that any of your information which is passed is adequately protected and processed in accordance with this Privacy Policy.
+
+#### Information Storage and Retention
+
+We will only retain your personal information for as long as is necessary and as permitted by applicable laws.
+
+We will retain your personal information while we are using it and may continue to retain it after these uses have ended where we have a legitimate business purpose. For example, if you have opted out of marketing communications from us, we will retain details about you to ensure the opt-out request is honored. We may also continue to retain your personal information to meet our legal requirements or to defend or exercise our legal rights.
+
+The length of time for which we will retain personal information will depend on the purposes for which it is retained, such as to fulfill ongoing subscriptions or to comply with requests to unsubscribe from communications. 
+
+#### List of Websites This Policy Covers
+
+  * liebertpub.com (and related subdomains: www., home., videos., ms., ecommerce., etc.)
+  * www.genengnews.com
+  * www.clinicalomics.com
+  * www.genmediakit.com
+  * www.comediakit.com
+  * www.bioconferences.com
+  * www.sayao.org
+  * www.instituteforprofessionaled.org
+  * www.rosalindfranklinsociety.org
+  * www.academyofwomenshealth.org
+
+
