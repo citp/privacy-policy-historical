@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carcabin.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520152502id_/http%3A//www.carcabin.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carcabin.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123154035id_/http%3A//www.carcabin.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
