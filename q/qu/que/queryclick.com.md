@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the queryclick.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524194603id_/http%3A//uk.queryclick.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queryclick.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123170207id_/http%3A//uk.queryclick.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms and Conditions | QueryClick Limited
 
@@ -59,4 +59,4 @@ You have rights in relation to your personal data and can make a request to Quer
 
 If you would like to exercise any of these rights, or if you have any concerns about how your personal data is being processed, please contact us on the contact details above.
 
-If you still believe that QueryClick has not complied with your rights, you can complain to the Information Commissioner. Contact details are available at [www.ico.org.uk](https://web.archive.org/web/20180524194603id_/http://uk.queryclick.com/en/privacy/www.ico.org.uk "Information Commissioner")
+If you still believe that QueryClick has not complied with your rights, you can complain to the Information Commissioner. Contact details are available at [www.ico.org.uk](https://web.archive.org/web/20181123170207id_/http://uk.queryclick.com/en/privacy/www.ico.org.uk "Information Commissioner")
