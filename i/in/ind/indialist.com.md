@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indialist.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524141338id_/http%3A//www.indialist.com/indian-classified/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indialist.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123171035id_/http%3A//www.indialist.com/indian-classified/privacypolicy.php) for the most accurate reproduction.*
 
 # IndiaList - Privacy Policy
 
