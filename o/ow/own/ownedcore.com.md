@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ownedcore.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109163628id_/http%3A//www.ownedcore.com/forums/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownedcore.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123040007id_/https%3A//www.ownedcore.com/forums/privacy) for the most accurate reproduction.*
 
 # OwnedCore - World of Warcraft Exploits, Hacks, Bots and Guides. - Privacy Policy
 
@@ -77,4 +77,4 @@ http://www.ownedcore.com
 13905 Hawksnest Bay Dr  
 Corpus christi, Texas 78418  
 United States  
-[[email protected]](http://www.ownedcore.com/cdn-cgi/l/email-protection)
+[[email protected]](https://www.ownedcore.com/cdn-cgi/l/email-protection)
