@@ -1,57 +1,122 @@
-> *The following text is extracted and transformed from the gtt.net privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619210348id_/http%3A//www.gtt.net/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtt.net privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123050030id_/https%3A//www.gtt.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GTT Communications, Inc.
+# Privacy Policy - GTT
 
-**SAFE HARBOR PRIVACY POLICY**
+##### GTT Communications, Inc. (and, together with our affiliates each an “Affiliate”, “we”, “us” or “our”)
 
-This Safe Harbor Privacy Policy (the “Policy”) sets forth the privacy principles GTT follows with respect to transfers of personal information from the European Economic Area (EEA) (which includes the twenty-seven member states of the European Union (EU)) to the United States. GTT is a cloud-network provider and in this capacity GTT receives information transferred from the EEA to the United States as a processor.  GTT also collects personal information of employees in the ordinary course of their employment. Not only does GTT strive to collect, use and disclose personal information in a manner consistent with the laws of the countries in which it does business, but it also has a tradition of upholding the highest ethical standards in its business practices.
+**1\. Introduction**
 
-**SAFE HARBOR**
+This notice (“Notice”) has been developed to ensure our customers feel confident about the privacy and security of personal data and to meet our obligations under the General Data Protection Regulation (“GDPR”) and the data protection legislation of the jurisdiction of incorporation of the relevant member of the GTT group, as amended, revised, modified or replaced from time to time, and (together, the “Legislation”). Under the Legislation, ‘personal data’ is information that identifies you as an individual or is capable of doing so.
 
-The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EEA to the United States (the “U.S.-EU Safe Harbor”). The EEA also has recognized the U.S.-EU Safe Harbor as providing adequate data protection.  Consistent with its commitment to protect personal privacy, GTT adheres to the U.S.-EU Safe Harbor Framework.
+To the extent we act as a ‘data controller’, we must comply with the data protection principles set down in the Legislation and this Notice applies to all personal data collected, processed and stored by us in the course of our activities. The purpose of this Notice is to set out the procedures that are to be followed when dealing with personal data and to outline how we will collect and manage personal information in accordance with all relevant legislation and standards. The procedures set out herein must be followed at all times by us, our employees, agents, contractors, or other parties working on behalf of us.
 
-**SCOPE**
+This Notice extends to all personal data whether stored in electronic or paper format.
 
-This Policy sets forth the privacy principles under which GTT manages the processing of personal information transferred over GTT’s network services (the “Services) and received by GTT as a processor in the United States from the EEA.
+**2\. What Personal Information do we hold on customers?**
 
-**DEFINITIONS**
+We only hold personal data that is directly relevant to our dealings with a given data subject. That data will be collected, held, and processed in accordance with the data protection principles and with this Notice in a reasonable and lawful manner. The customer will be requested to provide the following information for provision of services and for the purposes of billing:
 
-For purposes of this Policy, the following definitions shall apply:
+  * personal identification data, including: name, address, phone number and/or email address(es)
+  * online identification data, including: IP address
 
-“Agent” means any third party that collects or uses personal information under the instructions of, and solely for, GTT or to which GTT discloses personal information for use on GTT’s behalf.
 
-“GTT” means GTT (GTT Communications, Inc.) its predecessors, successors, subsidiaries, divisions and groups.
 
-“Personal information” means any information or set of information that identifies or could be used by or on behalf of GTT to identify an individual.  Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public personal information.
+**3\. Processing Personal Data**
 
-“Sensitive personal information” means personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, views or activities, that concerns health or sex life, information about social security benefits, or information on criminal or administrative proceedings and sanctions other than in the context of pending proceedings. In addition, GTT will treat as sensitive personal information any information received from a third party where that third party treats and identifies the information as sensitive.
+Any and all personal data collected by us from the customer (as further detailed in Section 3 of this Notice) is collected in order to ensure that we can provide the services to its customers under the terms of the services agreement with the customer, that it provides the services in the best possible manner and that it can efficiently manage its customers as a whole. We use personal data in order to ensure we are able to perform services agreements with customers for the provision of agreed services. We may also use personal data in meeting certain obligations imposed by law.
 
-**PRIVACY PRINCIPLES**
+Business processes for personal data necessary to fulfil the terms of the services agreement with you as the customer include:
 
-The privacy principles in this Policy have been developed based on the Safe Harbor Principles.
+  * direct provision of the services to you
+  * resolving issues arising in respect of the provision of the services or the services agreement with you
+  * billing for services provided by us under the services agreement with you
+  * administration of customer accounts, including: 
+    * ensuring the ongoing provision of optimized services to you
+    * informing you of the status of the services
+    * implementing any changes to services, billing or customer information as requested by you
 
-_NOTICE:_   When you use the Services, GTT operates under the assumption that it is your obligation as data controller to notify your customers about the purposes for which GTT collects personal information about them, the types of non-agent third parties to which GTT discloses that information, the choices and means, if any, GTT offers individuals for limiting the use and disclosure of personal information about them, and how to contact GTT.  As the data processor, GTT makes available to you this Policy so that you can better understand GTT’s data practices and whether they are consistent with privacy notices you make available to your customers.
 
-_CHOICE:_   When you use the Services, the U.S.-EU Safe Harbor requires that members offer your customers a choice to opt-out of uses and disclosures of their data that are incompatible with the purposes for which that data was originally collected or subsequently authorized. GTT operates under the assumption that it is generally your obligation as data controller to obtain from your customers the appropriate consent to transfer and process their data to GTT. As your data processor, GTT will not share, sell, rent, or trade with third parties for their marketing purposes any of your data or your customer’s data collected by us, unless you direct us to do so and have the appropriate authorization to do so.
 
-_DATA INTEGRITY:_    GTT will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by you.  GTT will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current.
+In addition, we may also use customer personal data to contact you regarding information on available upgrades.
 
-_TRANSFERS TO AGENTS:_  GTT will obtain assurances from its agents that they will safeguard personal information consistently with this Policy.  Where GTT has knowledge that an agent is using or disclosing personal information in a manner contrary to this Policy, GTT will take reasonable steps to prevent or stop the use or disclosure.
+**4\. Retention and accuracy**
 
-_ACCESS AND CORRECTION:_ Upon request, GTT will grant individuals reasonable access to personal information that it holds about them. In addition, GTT will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete.
+We shall employ reasonable means to keep personal data accurate, complete and up to date in accordance with the purposes for which it was collected.
 
-_SECURITY:_ GTT will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction.
+You, as customer, are responsible for ensuring that you inform the relevant department of any changes in your personal details. Changes to personal information may be made by submitting a ticket through the network operations team or a sales agent. We endeavor to ensure personal information held by us is up to date and accurate.
 
-_ENFORCEMENT:_ GTT will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy. Any employee that GTT determines is in violation of this policy will be subject to disciplinary action up to and including termination of employment.
+**5\. Do we disclose information about customers to anyone else?**
 
-_DISPUTE RESOLUTION:_ Any questions or concerns regarding the use or disclosure of personal information should be directed to the GTT Privacy Office at the address given below. GTT will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information by reference to the principles contained in this Policy. For complaints that cannot be resolved between GTT and the complainant, GTT has agreed to participate in the following dispute resolution procedures in the investigation and resolution of complaints to resolve disputes pursuant to the Safe Harbor Principles: binding arbitration with JAMS in accordance with its Commercial Arbitration Rules and Mediation Procedures.  Solely with respect to complaints by GTT employees that cannot be resolved internally, GTT agrees to work with the relevant Data Protection Authority to resolve such matter.
+Personal data may be disclosed internally when passed from one department to another in accordance with the data protection principles and this Notice. Personal data is not passed to any internal department or any individual that does not reasonably require access to that personal data with respect to the purpose(s) for which it was collected and is being processed.
 
-**LIMITATION ON APPLICATION OF PRINCIPLES**
+Relevant internal departments to whom personal data may be disclosed are as follows:
 
-Adherence by GTT to these Safe Harbor Principles may be limited (a) to the extent required to respond to a legal or ethical obligation; (b) to the extent necessary to meet national security, public interest or law enforcement obligations; and (c) to the extent expressly permitted by an applicable law, rule or regulation.
+  * sales
+  * billing and accounts
+  * network operations
+  * security operations
+  * legal
 
-**CONTACT INFORMATION**
 
-Questions or comments regarding this Policy should be submitted to the GTT Privacy Office by mail to:  GTT, 7900 Tysons One Place, Suite 1450, McLean, VA  22102
 
-Effective Date:  November 5, 2015
+We shall disclose customer information to third parties only when it is necessary as part of our business practices or when there is a legal or statutory obligation to do. Categories of such third parties may include:
+
+  * subcontractors
+  * credit collection agencies
+  * auditors
+  * authorities to whom we are legally obliged to disclose customer information, e.g. law enforcement, tax authorities, etc.
+
+
+
+Whenever we disclose customer information to third parties, we will only disclose that amount of personal information necessary to meet such business need or legal requirement. Third parties that receive customer information from us must satisfy us as to the measures taken to protect the personal data such parties receive.
+
+Appropriate measures will be taken to ensure that all such disclosures or transfers of customer information to third parties will be completed in a secure manner and pursuant to contractual safeguards.
+
+We may provide information, when legally obliged to do so and in response to properly made requests, for the purpose of the prevention and detection of crime, and the apprehension or prosecution of offenders. We may also provide information for the purpose of safeguarding national security. In the case of any such disclosure, we will do so only in accordance with the Legislation.
+
+We may also provide information when required to do so by law, for example under a court order.
+
+We may also transfer data to legal counsel where same is necessary for the defence of legal claims.
+
+If there is any change in the ownership of GTT Communications, Inc. or any of its assets, we may disclose personal information to the new (or prospective) owner. If we do so, we will require the other party to keep all such information confidential.
+
+**6\. How long do we keep personal information?**
+
+The time period for which we retain information varies according to the use of that information. In some cases there are legal requirements to keep data for a minimum period of time. Unless specific legal requirements dictate otherwise, we will retain information no longer than is necessary for the purposes for which the data were collected or for which they are further processed.
+
+Customer personal data will be held for as long as the customer holds a services agreement for the provision of services with us. Following termination of service, customer personal data shall continue to be retained for the minimum period mandatory under local law. Following this mandatory period, personal data shall be retained for no longer than necessary to allow for the defence of legal claims in accordance with applicable statutory limitation periods under local law. Following the expiry of this period customer personal data held by us will be destroyed.
+
+**7\. How do we protect data about customers when it is transferred out of Europe?**
+
+We may transfer customer personal data outside the EEA, including to the United States of America, for storage purposes. Any transfer of customer personal data outside of the EEA shall be made through transfer mechanisms approved or allowed for under the Legislation and we shall take all necessary steps to ensure that there is adequate protection, as required by the Legislation. You may obtain a copy of the standard data protection clauses which provide for appropriate safeguards for your rights by contacting us at [legal@gtt.net](mailto:legal@gtt.net).
+
+**8\. How can you exercise your rights in respect of personal information we hold about you?**
+
+We shall vindicate all your rights under the Legislation. These rights are as follows:
+
+  * your right to request from us access to personal data and to have any incorrect personal data rectified
+  * your right to the restriction of processing concerning you or to object to processing
+  * your right to have your personal data transferred to another service provider
+  * your right to have personal data erased (where appropriate)
+  * information on the existence of automated decision-making, if any, as well as meaningful information about the logic involved, its significance and its envisaged consequences
+
+
+
+Vindication of your rights shall not affect any rights which we may have under the Legislation.
+
+If you want to know what personal information we hold about you or exercise any of the above rights, you can do so by making your specific request in writing to the following address: GTT Communications, Inc./ Hibernia Atlantic Cable System Ltd, International Exchange Centre, Clonshaugh Industrial Estate, Dublin 17, Ireland.
+
+We will confirm your request within 21 days of receipt, and process your request within 30 days of receipt. If the information we hold about you is inaccurate, we request that you advise us promptly so that we can make the necessary amendments and confirm that these have been made within 30 days of receipt of your request.
+
+**9\. How do we protect personal information?**
+
+We shall employ reasonable appropriate administrative, technical, personnel procedural and physical measures to safeguard information against loss, theft and unauthorised uses access, uses or modifications.
+
+**10\. How can you make a complaint to us about the use of personal data?**
+
+Complaints on the use, retention and disposal of personal data can submitted via email to [legal@gtt.net](mailto:legal@gtt.net).
+
+As a customer you also have the right to lodge a complaint with your national data protection supervisory authority.
+
+**11\. Review**  
+This Notice will be reviewed and updated from time to time to take into account changes in the law and the experience of the Notice in practice. Any and all changes will be advised to customers.
