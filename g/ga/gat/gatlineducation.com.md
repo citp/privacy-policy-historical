@@ -1,121 +1,85 @@
-> *The following text is extracted and transformed from the gatlineducation.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208005344id_/http%3A//www.cengage.com/content/footer/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatlineducation.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123112526id_/http%3A//www.cengage.com/content/footer/privacy_statement.aspx) for the most accurate reproduction.*
 
-# Cengage Learning - Learning solutions, training and educational publishing - Privacy Statement
+# Privacy - Cengage
 
-Cengage Learning, and its subsidiaries and divisions, are committed to protecting the privacy and security of personal information entrusted to us on our websites. This privacy statement explains our online privacy practices. 
+####  Your privacy is our priority. Simply put, the personal data we collect and process about you belongs to **you**. 
 
-* * *
+##    
+Our Core Customer Privacy Principles 
 
-####  Scope
+{{formPostErrorMessage.message}} [{{formPostErrorMessage.code}}] 
 
-This privacy statement applies to the Cengage Learning, website ([www.cengage.com](https://web.archive.org/)) and all Cengage Learning company and brand websites that link to it. Some Cengage Learning websites may have different privacy statements, so please read the privacy notice posted on each such website. For example, Cengage Learning has created a number of websites for the schools we serve, and those websites are subject to the school's own privacy policy. 
+## Privacy Commitment
 
-Additionally, some Cengage Learning websites may provide direct links to various sponsor and marketing partner sites. This privacy statement does not describe the practices of our partners. Before disclosing personal information to any other company's website, you should also read the privacy statement associated with that site. 
+We have a Global Privacy Policy that has been implemented across all Cengage Learning Companies, that protects all the Personal Information we receive from you as well as information we receive from schools and other third parties. It protects information collected online as well as offline.
 
-* * *
+This Program and Policy set the standards for Cengage both as a Controller (for its own data) and as a Processor (for its clients).  Additionally, we have updated our Privacy Program controls to address new requirements under GDPR. For more information, please read our complete Notice, linked to below or contact [privacy@cengage.com](mailto:privacy@cengage.com).
 
-####  Information That We Collect
+If you are an educator, parent or student, Cengage Learning is a service provider to your school or organization; please reach out to the appropriate contact at your school or organization with questions or inquiries. This notice does not cover other organizations' sites that may be accessible via links on our sites. These sites have their own privacy policies and we encourage you to read them.
 
-When you visit our website, you may provide us with two types of information: (1) personally identifiable information such as contact and other information about your profession or your interests that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the website. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our website's content or services. 
+We also want our privacy practices to be very clear, so you can interact with us in confidence. The statements and links below may answer your questions about how we handle your Personal Information. For a complete notice, view the [Cengage Privacy Notice](http://www.cengage.com/privacy/statement). If you have any other questions, please contact us.
 
-* * *
+##  Privacy Program Highlights 
 
-####  How We Use Personal Information
+**We do not allow any children under 13 to register with Cengage, and we do not knowingly collect or use any Personal Information pertaining to children under 13 for our own purposes.**  If you believe that a child under 13 years of age has provided Personal Information to us, please contact [privacy@cengage.com](mailto:privacy@cengage.com) so that we may delete the information and take other appropriate steps to the protect the child.
 
-In general, we use all of the information we collect in order to: 
+We have websites that enable parents and teachers to create accounts for children. We encourage parents and teachers to spend time online with children and to monitor their online activities.
 
-  * respond to your requests for information, 
-  * provide you with products and services, 
-  * determine if you are eligible to receive certain products or services, 
-  * provide customer service, and 
-  * provide you with additional information that may be of interest, including marketing and educational materials from us and our partners. 
+_We also provide digital products for use by children in K-12 schools, sometimes done  through LMS integrations, but we only collect and process information pertaining to these children as a processor for the educational institutions.  We do not use identifiable K-12 student information for our own purposes.  Additionally, many student records are protected by the Family and Educational Rights Privacy Act (FERPA). For information on your K-12 school’s privacy policies, please contact the administration._
 
+The [Cengage Privacy Notice](http://www.cengage.com/privacy/statement) describes how we handle the Personal Information we collect from college and higher-ed students, adult learners and others who register with Cengage and use our products for their own educational purposes. Here are the highlights of our practices:
 
-
-We will tailor the materials we provide you based on the information in your profile, such as your professional interests. Also, certain products (such as teachers' guides) are only available to qualified educational professionals, so you may not receive access to all of the services we offer if we cannot confirm your qualification. 
-
-If you purchase a product from us (such as a book or newsletter subscription), you may provide us with a credit card number or other payment information. Payment information will only be used for transaction processing. 
-
-* * *
-
-####  When We Disclose Personal Information
-
-We may also share any contact information and professional information with our affiliates or, unless you tell us not to, with third parties. For example, like most publishers, we share our subscriber lists with selected business partners so that they may offer you products and services directly. Additionally, we may share any information with third parties as needed to fulfill your requests for information, products or services. 
-
-_If you do not want us to share your information with third parties for their own marketing, you can opt-out by deselecting the options to keep you informed about Cengage Learning products and services, or by contacting our Customer Service department by email at:[cengagebrain.support@cengage.com](mailto:cengagebrain.support@cengage.com) or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET) and requesting the desired change (e.g., opting in or out of faxes)._
-
-_You can also opt-out of receiving marketing emails from us and our partners at any time by following the opt-out instructions provided on every email._
-
-Please note that we may disclose any information as permitted or required by law, when necessary for health or safety purposes, or to protect our legal rights. For example, we may disclose information about you to our auditors or legal advisors or in response to a subpoena. We may also disclose information about you in connection with the transfer of assets of our businesses. 
-
-* * *
-
-####  A Special Note About Children
-
-Although parts of the galeschools.com website provide information and activities for students, we do not knowingly collect any personal information about children. Teachers must provide their own personal information in order for students to participate in our online quizzes and contests. 
-
-We encourage parents and teachers to spend time online with children and to monitor their online activities. Please protect your child's privacy by instructing them to never provide personal information on this site or any other, or within any software registration process, without your permission. 
-
-* * *
-
-####  Information Collected on Behalf of Educational Institutions
-
-Some Cengage Learning companies administer websites that provide course materials and services for educational institutions. Information collected on these websites is only used by Cengage Learning as needed to support the educational institution and provide the services requested by the course instructors. We do not use this information for our own purposes. Most student course records are also protected by the Family and Educational Rights Privacy Act (FERPA). For information on your school's privacy statement and FERPA, please contact that school's administration. 
-
-* * *
-
-####  Cookies and Website Information
-
-Like most other commercial websites, we use standard "cookie" technology and web server logs to collect information about how our website is used. Cookies are small pieces of data that are stored by your web browser on your hard drive. The cookies allow our web servers to recognize the computers used to access our websites. Cookies allow you to move from page to page on the website, by remembering the information about the entire session. 
-
-Information gathered through cookies and by our web server logs may include the date and time of visits, the pages viewed, time spent at our website and the websites visited just before and just after our website. This information is collected on an aggregate basis, and also may be associated with your personal information. 
-
-* * *
-
-####  How Do You Access and/or Modify Your Information or Choices?
-
-If you visit our website and volunteer personally identifiable information, you may access such information at any time by visiting the account information area where you will have the opportunity to revise certain of your personally identifiable information, and to update your preferences regarding what information you want to receive from us, or by clicking on the "Contact Us" link and sending us an email. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt-out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our website. 
-
-* * *
-
-####  How We Secure Your Information
-
-We have implemented reasonable technical, physical and administrative safeguards to help protect your personal information against unauthorized access or loss. For example, when we ask users to provide payment information (such as credit card number), the data is protected during transmission to us using Secure Sockets Layer (SSL) encryption technology. 
-
-* * *
-
-####  Information Process in the United Sates
-
-This website may be operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us may be transferred to the United States or other countries in which our businesses are located. We will adequately protect the data in all locations. 
-
-* * *
-
-####  Changes to Our Policies
-
-This privacy notice is effective as of May 13, 2013. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this privacy statement. If we make a material change to this statement, we will post and highlight the policy changes, and we will also notify you via email and give you an opportunity to opt-out of the new data uses. 
-
-* * *
-
-####  Contact Us with Any Questions
-
-If you have any questions about this privacy statement or our use of your personal information, please contact us at: 
-
-Cengage Learning, Inc.   
-20 Channel Center Street  
-Boston, MA 02210  
+  * We collect Personal Information directly from you and other third parties (such as social media platforms, if you login to our applications from these sites).  We also collect information automatically when you use our products and applications. We use your Personal Information to provide you with the products and services and for related purposes (such as billing, customer service and product development). Depending on your preferences, we may send you marketing communications, including messages from our partners. You can opt-out of receiving marketing from us at any time by following the opt-in instructions contained in each communication.
+  * We may share your Personal Information with your school. For example, your instructors have access to all of the information generated by your use of the products you use for class. We may also provide Personal Information to your school as needed to investigate possible academic fraud or cheating. Your school uses your Personal Information in accordance with its own privacy policies.
+  * We may share your Personal Information with co-branding partners and other third parties with your consent. For example, you may use third-party apps via MindTap or MyCengage that provide services and features offered by third parties.
+  * We may share your Personal information with carefully selected third parties that provide products and services that may be of interest to you. For example, we may share information about pre-med students with companies that offer test prep services for medical school admissions.  If you do not want us to share your Personal Information with these third parties for their own marketing purposes, you can opt-out by contacting our Customer Service department by email at: [cengagebrain.support@cengage.com](mailto:cengagebrain.support@cengage.com) or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET).
+  * We may also share your Personal Information with other Cengage companies, our service providers (who do not use your information for their own purposes) and as required or permitted by law (such as in response to a subpoena or in connection with the sale of a business).
+  * If you have any questions about privacy, you can always contact us at [privacy@cengage.com](mailto:privacy@cengage.com).
 
 
-or email us at: [privacy@cengage.com](mailto:privacy@cengage.com).
 
-* * *
 
-####  Privacy and Security Policy Regarding Sensitive Personal information
+The [Cengage Privacy Notice](http://www.cengage.com/privacy/statement) describes how we handle the Personal Information we collect from teachers, instructors, school administrators, authors, editors, contributors and other educational professionals.  Here are the highlights of our practices:
 
-Cengage Learning and its United States and Canadian affiliates (collectively, "Cengage") collect sensitive personal information in the ordinary course of its business. Cengage has implemented reasonable technical, physical and administrative safeguards to help protect sensitive personal information from unlawful use and unauthorized disclosure. All Cengage workers are required to follow these established safeguards, which include the following:
+  * We collect Personal Information directly from you as well as from your school and other third parties (such as social media platforms, if you login to our applications from these sites).  We also collect information automatically when you use our products and applications.
+  * We use your Personal Information to provide you with the products and services and for related purposes (such as billing, customer service and product development).
+  * Depending on your preferences, we may send you marketing communications, including messages from our partners. You can opt-out of receiving marketing from us at any time by following the opt-in instructions contained in each communication.
+  * We may share your Personal Information with your school or company. For example, we provide our institutional clients with reports about how their instructors (and their students) use our products, including information that compares instructors within an organization.
+  * We may share your Personal Information with co-branding partners and other third parties with your consent. For example, you may use third-party apps via MindTap or MyCengage that provide services and features offered by third parties. We may share your Personal Information with carefully-selected third parties that provide products and services that may be of interest to you.  For example, we may provide subscriber lists containing your contact information with other publishers that offer products or services to educational professionals. If you do not want us to share your information with these third parties for their own marketing, you can opt-out by contacting our Customer Service department by email at: [cengagebrain.support@cengage.com](mailto:cengagebrain.support@cengage.com) or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET).
+  * We may share your Personal Information with other Cengage companies, our service providers and as required or permitted by law (such as in response to a subpoena or in connection with the sale of a business).
+  * If you have any questions about privacy, you can always contact us at [privacy@cengage.com](mailto:privacy@cengage.com).
 
-  * Access to sensitive personal information is limited to those workers and service providers who have a need to access the information to perform tasks for Cengage. Sensitive personal information is only disclosed to third parties in accordance with Cengage's established privacy and security policy.
-  * Cengage will only disclose sensitive personal information (1) to those service providers, auditors, advisors and/or successors in interest who are legally or contractually obligated to protect them, or (2) as required or permitted by law.
+
+
+##  Additional Privacy Program Information 
+
+#### Privacy Statement for Hosted School Websites
+
+Certain Cengage businesses, like Ed2Go, administer websites that provide course materials and services for educational institutions and companies. Information collected on these websites is only used by us to support our clients and provide the services requested by the course instructors. We do not use this information for our own purposes. Most educational institution student course records are also protected by the Family and Educational Rights Privacy Act (FERPA). For information on your company or school's privacy policies, please contact the administration.
+
+Our hosted websites may offer students and professionals the opportunity to interact directly with Cengage Learning.  If so, the [Cengage  Privacy Notice](http://www.cengage.com/privacy/statement) **** will apply to that information.
+
+#### Social Security Number Policy Statement
+
+Cengage, Inc. and its affiliates collect U.S. Social Security numbers and other sensitive Personal Information in the ordinary course of its business. We have implemented reasonable technical, physical and administrative safeguards to help protect sensitive Personal Information from unlawful use and unauthorized disclosure. All Cengage workers are required to follow these established safeguards, which include the following:
+
+  * Access to sensitive Personal Information is limited to those workers and service providers who have a need to access the information to perform tasks for Cengage. Sensitive Personal Information is only disclosed to third parties in accordance with Cengage's established privacy and security policy.
+  * Cengage will only disclose sensitive Personal Information (1) to those service providers, auditors, advisors and/or successors in interest who are legally or contractually obligated to protect them, or (2) as required or permitted by law.
 
 
 
 If you have any questions, please contact us at [privacy@cengage.com.](mailto:privacy@cengage.com)
+
+#### Your California Privacy Rights
+
+California Civil Code Section 1798 allows California residents to ask companies with whom they have an established business relationship to provide certain information about the companies’ sharing of Personal Information with third parties for direct marketing purposes.
+
+California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices may contact us at [privacy@cengage.com](mailto:privacy@cengage.com) or by writing to:
+
+  
+Cengage, Inc.  
+Privacy Office  
+20 Channel Center  
+Boston MA 02210
+
+{{formPostErrorMessage.message}} [{{formPostErrorMessage.code}}] 
