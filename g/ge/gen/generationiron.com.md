@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the generationiron.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725223227id_/https%3A//generationiron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generationiron.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123095501id_/https%3A//generationiron.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Generation Iron Fitness & Bodybuilding Network
 
-This privacy policy discloses the privacy practices for http://generationiron.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
+This privacy policy discloses the privacy practices for https://generationiron.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
 
