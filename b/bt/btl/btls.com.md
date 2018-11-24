@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btls.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520202311id_/http%3A//www.btls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btls.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124103312id_/http%3A//www.btls.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bubba the Love Sponge® Show
 
