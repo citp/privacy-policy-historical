@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easemytrip.in privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525000802id_/https%3A//www.easemytrip.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easemytrip.in privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124085005id_/https%3A//www.easemytrip.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Read Privacy Policy of EaseMyTrip.in
 
