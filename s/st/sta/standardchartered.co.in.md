@@ -1,176 +1,208 @@
-> *The following text is extracted and transformed from the standardchartered.co.in privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703170435id_/https%3A//www.sc.com/in/website-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.co.in privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124212922id_/https%3A//www.sc.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Statement – Standard Chartered Bank India
+# Privacy Policy | Standard Chartered Bank
 
-Standard Chartered Bank respects your privacy and we are committed to keeping your personal information and other data confidential and secure.
+**GROUP RECRUITMENT PRIVACY STATEMENT**
 
-  1. **When does this Website Privacy Statement apply?**
+This Group Recruitment Privacy Statement relates to the collection, use and disclosure of your Personal Data throughout the recruitment process by any member of the Standard Chartered Group (including affiliates and subsidiaries) (“SCB”, “we” “our” or “us”).
 
-This Website Privacy Statement explains the approach taken by Standard Chartered Bank, India Branch and the members of the Standard Chartered Group ("SCB", “we” or “us”) toward the personal information and data that we collect about you (“Your Information”) when you visit this Website, electronically respond to our online advertisements or when you send us communications via any computer, mobile or other similar electronic devices (“Device”). It does not apply to information we collect in other ways e.g. when you are dealing with our staff in a branch or over the telephone. In these cases, there may be other privacy statements and terms and conditions that are applicable.
+The personal data we process in relation to you is provided by you, third parties, collected through the SCB website, publicly available sources or generated during your application for your employment with us, through any media.
 
-This Website Privacy Statement is limited to information and data collected on this Website, our online advertisements and electronic communications. Our Website Privacy Statement does not apply when you leave our Website, including third-party websites where our online advertisements are displayed or links to third-party websites which we do not operate or control. Please read the privacy statements and terms and conditions of these third-party websites and decide whether they satisfactorily protect your rights.
+ **  
+WHAT PERSONAL DATA DO WE COLLECT ABOUT YOU**
 
-  2. **You consent to our use of Your Information and Cookies**
+Personal data that we may process, as appropriate throughout the recruitment process includes, but is not limited to:
 
-By using this Website, responding to our online advertisements and/or providing Your Information you consent to: (a) our use of Cookies (see section 3(a) below) and our use of Your Information as described in this Website Privacy Statement; and (b) the terms and conditions of this Website Privacy Statement. If you do not consent then please do not proceed further and do not provide Your Information. 
+  * name and contact details (such as telephone number, e-mail address and postal address);
+  * date of birth;
+  * curriculum vitae/résumé;
+  * current and previous employment details (including salary/bonus and employee benefits schemes);
+  * academic background (such as your university or school diplomas/certificates and other educational achievements);
+  * languages spoken and level of proficiency;
+  * job preferences including willingness to travel and/or relocate;
+  * gender;
+  * marital status;
+  * results of any pre-employment testing such as psychometric testing;
+  * evidence of identity such as national ID/passport/resident card;
+  * immigration status and work permits including employment pass/work authorisations or other relevant documents;
+  * video, photographic images or audio recordings submitted or made as part of the recruitment process
 
-  3. **What information do we collect about you?**
 
-The Website is designed to use Cookies to collect information about how people use the Website (see _Use of Cookies_ ) and in some parts of our Website, we specifically ask for Your Information (see _Online Forms_ and _Job Applicants_ ). Otherwise, you can use the Website without providing Your Information.
 
+We may also process sensitive or special personal data where relevant to the recruitment process, including where necessary to accommodate any disability needs.
 
+Sensitive or special personal data processed may include but is not limited to:
 
+  * criminal record;
+  * racial/ethnicity information;
+  * trade union membership (if relevant in certain countries); and
+  * health related information including physical/mental health
 
-a. **Use of Cookies**
 
-Cookies are small data files which are placed on your Device when you visit certain parts of   
-our Website or click on our online advertisements. Cookies and similar technologies are used to identify your Device   
-for the following purposes:- 
 
-**(i) Strictly necessary cookies.** These essential cookies are set throughout our Website and are   
-required for the operation of our Website to:
+We also process personal data provided by you in relation to third parties when it relates to your application for employment with SCB such as details of your referees or declaring close personal relationships, close financial relationships, client and business partner connections for the purpose of protecting SCB and its customers from conflicts of interest, fraud and other financial crime. It is your responsibility to ensure anyone about whom you provide us with personal data is made aware that you are providing their personal data and for what purpose.
 
-  * allow our web server to determine whether the cookies setting on your web browser has been enabled or disabled. This allows us to know whether data can be collected from your web browser;
-  * temporarily allow you to carry information between pages of our Website to avoid having to re-enter that information;
-  * temporarily identify your Device after you have logged in to a secure page on our Website so that our web server can maintain a dialogue with your web browser in order for you to carry out certain activities.
+ **  
+HOW WE COLLECT YOUR PERSONAL DATA**
 
+We collect Personal Data in the following ways:
 
+ **Careers Websites**
 
-**(ii) Analytical/performance cookies.** These are used to help us improve our Website by:
+We collect your Personal Data when you submit a job application and/or create a profile through our Careers, Graduate Recruitment, or approved third party websites (the “websites”).
 
-  * tracking your visits to our Website and recognising your web browser when you are a repeat visitor so that we can gather statistics on new and repeat visitors to evaluate site effectiveness.
+ **Social Network Sites**
 
+We collect Personal Data about you from other sources, including LinkedIn, Facebook and Google+ (“Social Network Sites”) when you choose to provide us with a link to your profile on any Social Network Site as part of your job application or you elect to sign-in to the websites via those Social Network Sites through the integrated functionality available on the websites. If you sign-in to the websites through Social Network Sites, we will collect your Personal Data from certain fields on these sites by taking a snapshot and merging this with other data captured through the online application form to create a single profile. In addition to the Personal Data set out above, we will collect the following Personal Data from Social Network Sites:
 
+  *  **LinkedIn** : Personal Data contained in the following fields: name, headline and summary, job title, current employer, employment history, recommendations and contact details made publicly available (such as phone number and email address). Your LinkedIn connections are not collected.
+  *  **Facebook** : Personal Data contained in the following fields: first name, last name, email, employer and job title. Your “likes”, “comments”, “friends lists/details” and “wall posts” are not collected.
+  *  **Google+** : Personal Data contained in the following fields: first name, last name and public website
 
-**(iii) Functionality cookies.** These are used to recognise you when you return to our Website. This enables us to:
 
-  * personalise our content for you and remember your preferences (for example, your choice of language and region);
-  * store your login and other preferences so you do not have to re-enter that information when you return to the Website.
 
+We will not collect your photographs or videos from any Social Network Site unless you submit a photograph or video voluntarily as part of your recruitment application.
 
+We may also obtain your contact details from publicly available sources, including content that you have made public on other Social Network Sites or similar sites for professional purposes to make initial contact with you for recruitment purposes. If we contact you in this way you will be given the opportunity to opt out of receiving any further information about career opportunities with SCB and you can subsequently opt out at any time by contacting [askhr@sc.com](mailto:askhr@sc.com)
 
-**(iv) Targeting / advertising cookies.** These cookies record your visit to our Website, your response to our online advertisements; track the pages you have visited and the website links you have followed. We use this information to:
+ **Recruitment Agencies**
 
-  * make our Website more relevant to your interests based on your past visits to our Website; 
-  * tailor our online advertisements or offers on our Website or third-party websites which are most likely to interest you;
-  * evaluate the effectiveness of our online marketing and advertising campaigns.
+Your Personal Data may be provided to SCB by recruitment agencies with whom you have registered an interest in working for SCB. Where a recruitment agency refers you to us, a profile will be created for you in our recruitment database based on the information provided and you will receive a notification asking you to log in and complete your candidate profile through a website. Candidates who do not log in and complete their profile within one month will have their profile deleted. Records will be maintained of who decided not to progress so that they are not contacted again.
 
+ **Other sources**
 
+Your Personal Data may also be collected from third parties during the recruitment process such as references from previous employers.
 
-The above cookies may be placed on your Device by us or by third parties on our behalf (for example, advertising service providers like Google and DoubleClick and other service providers for web analytics). You can opt out of Google's use of cookies by visiting [Google’s Ad Settings](http://www.google.com/settings/ads) and DoubleClick’s use of cookies by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb).
+ **  
+PURPOSES FOR WHICH WE PROCESS YOUR PERSONAL DATA**
 
-Most web browsers are initially set up to accept cookies. You can choose to ‘not accept’ cookies by changing the settings on your web browser but if you block all cookies, including strictly necessary cookies, you may find that certain features on our Website will not work properly.
+The processing of your Personal Data for recruitment purposes is:
 
-**(iii) Functionality cookies.** These are used to recognise you when you return to our Website. This enables us to:
+  * necessary to consider whether to enter into an employment relationship with you;
+  * necessary to comply with any legal right or obligations to which we are subject in relation to your employment of engagement; or
+  * carried out with your consent, to carry out criminal record checks and pre-employment searches with a credit reference agency, where countries laws permit;
 
-b. **Online Forms**
 
-There are sections of the Website where we ask for personal information, for example, when you complete online forms to submit an enquiry, apply for a particular product or service or if you register to use our secure online services such as Online Banking. Please ensure you also read any applicable Terms and Conditions for these products and services.  
-Using this Website we may collect the following types of Your Information from the online forms as follows:
 
-  * Basic personal particulars;
-  * Contact information;
-  * Employment information; and/or
-  * Income information;
+and includes but is not limited to the following:
 
+  * to process your application including to identify and contact you;
+  * to determine whether you have the professional skills, expertise and experience for the position applied for;
+  * if you are offered a position with SCB, to verify the personal data provided including your identity, address, right to work, employment history and academic background and other background screening purposes including, where allowed by law, criminal record checks, searches with a credit reference agency and sanctions screening checks;
+  * to assist in the administration of the Group’s global recruitment programme, recruitment campaign planning, and compliance with related internal policies; and
+  * to provide you with information about other job vacancies if you would like the SCB to send you such notifications, which may include using data analytics to match your profile against vacant positions
 
 
-c. **Job Applicants**
 
-Personal information provided on our Website in connection with an application for employment will be used to determine your suitability for a position with the SCB Group and, if applicable, your terms of employment or engagement. Your Information may also be used to monitor our recruitment initiatives and equal opportunities policies. Applicant details may be disclosed to third parties to verify or obtain additional information including education institutions, current/previous employers and credit reference agencies. Credit reference agencies record these searches and you can contact us to find out which agencies we used. Unsuccessful applications may be retained to match your skills to future job opportunities. These are usually retained for up for 12 months but please let us know if you do not wish us to retain Your Information for this purpose. 
+ **  
+TO WHOM WE MAY DISCLOSE YOUR PERSONAL DATA**
 
-d. **Electronic Communications**
+SCB operates globally and any authorised employee, agent and adviser in any country may be involved in processing your recruitment application. They may have access your full candidate profile, interview record psychometric test and background screening results.
 
-If you contact us via email, we may keep a record of that correspondence.
+Your Personal Data may be disclosed to any of the following for any of the purposes outlined above:
 
-**4\. How we use Your Information**
+  * professional advisers, third party service providers, agents or independent contractors providing services to the SCB;
+  * any person in connection with litigation or other legal proceedings, to obtain legal advice or for establishing, exercising or defending legal rights;
+  * any person to whom disclosure is allowed or required by Law and/or Regulation;
+  * any court, tribunal, Regulatory Authority or Governmental Entity;
+  * any criminal records bureau, credit bureau or credit reference agency when conducting background checks;
+  * to third parties to provide references at your request or with your consent; and
+  * third parties to whom we may transfer our rights and/or obligations under any agreement, including but not limited to a potential merger or acquisition of all or part of the Group’s business
 
-We will always treat Your Information as confidential. We will use good practices to keep it secure and will otherwise abide by the relevant data protection and privacy laws.
 
-a. **Using Your Information - Purposes**
 
-If you provide Your Information on the Website in relation to any products and services from SCB, or send us an electronic communication, we will use Your Information for the purposes (“Purposes”) of providing and operating the product or service you request or responding to your electronic communication and for other related purposes that may include: 
+In some circumstances, we may provide your personal data to a third party who will determine how and why it will be processed.  For example, where allowed by law we may require successful candidates to complete a pre-employment health assessment.  The Group is an equal opportunities employer committed to a diverse and inclusive workforce and will always consider any adjustments which could be made to accommodate ill health or disability.
 
-  * following up on any product or service application which you have shown interest in;
-  * updating our records about you;
-  * understanding your financial needs;
-  * conducting credit checks and assisting other financial institutions to conduct credit checks;
-  * crime or fraud detection, prevention and prosecution;
-  * debt collection;
-  * complying with laws or regulations;
-  * research and statistical analysis with the aim of improving our products and services;
-  * handling queries and complaints;
-  * daily operation of the services and facilities provided to you;
-  * designing financial services or related products for you; 
-  * enabling us to assign or securitise the business as a whole or part thereof in any manner;
-  * enabling any actual or potential assignee, participant or sub-participant of SCB's rights in respect of the data, to evaluate the transaction intended to be the subject of the assignment, participation or sub-participation.
+ **  
+HOW LONG DO WE RETAIN YOUR PERSONAL DATA**
 
-Please ensure you also read the Terms and Conditions applicable to these products and services.
+Personal data is retained as long as necessary for the purpose for which it is collected and to meet legal, regulatory and operational requirements. Retention periods may differ for each country. At the end of the retention period, non-identifiable data is kept for management information purposes.
 
-b. **Marketing**
+SCB may also retain your contact information for the purposes of inviting you to join our Talent Network. If you join our Talent Network, you will receive information about SCB, invitations to events and/or receive information regarding job opportunities that may be relevant to your skills. If you choose not to join the Talent Network, we will record that fact and will only retain the minimum personal data necessary to ensure you are not contacted again about the Talent Network.
 
-We generally do not use Your Information collected on this Website for marketing purposes but if you apply for products and services on the Website, Your Information may be used to inform you about other related products and services of SCB Group that may be of interest.
+ **  
+HOW WE PROTECT YOUR PERSONAL DATA**
 
-If you wish to be contacted about related products and services please indicate on the relevant box situated on the online form on which we collect Your Information.
+The security of your Personal Data is important to us and SCB implements technical and organisational measures to safeguard your personal data.
 
-c. **Disclosing Your Information**
+As an international organisation, SCB manages its people resources on a global basis and authorised personnel may access your Personal Data in any country in which SCB operates. Your Personal Data may therefore be transferred to employees, agents, advisors or third party service suppliers, and other third parties authorised to act on our behalf in countries that may not offer equivalent data protection or privacy laws to that of the country where you are located. When using external service providers, we require that they adhere to security standards mandated by SCB and regardless of where personal data is transferred, we take all steps reasonably necessary to ensure that it is kept securely.
 
-When using Your Information for the Purposes we may need to disclose it to more than one company within the SCB Group and to our affiliates, agents, advisors and third party service providers (“Other Parties”). When this happens we will require the Other Parties to handle Your Information using the same level of care that we apply. We will also require them to only use Your Information according to our instructions and directions.  
-If the Other Parties are overseas Your Information may be sent to another country including countries with weaker privacy and data protection laws than in your country of residence. We will not otherwise disclose Your Information to third parties unless we have your permission or we are under a legal or similar obligation.   
-This means, by way of example, that Your Information may be disclosed to:
+If you are applying for a position in the European Union (“EU”) and your personal data is processed in a country outside of the EU, we will put in place contractual clauses approved by the EU Commission as providing an adequate level of protection.
 
-    * regulators, supervisors, governments or quasi-governmental authorities in countries where we, our agents, advisors or third party service providers have a presence.
-    * agents, advisors or third party service providers under a duty of confidentiality to the SCB Group.
-    * credit reference, debt collection, anti-money laundering and fraud prevention agencies (where necessary for the Purposes).
+You should be aware that the Internet is not a secure form of communication and sending and receiving information over the Internet carries with it risks including the risk of access and interference by unauthorised third parties. We do not accept responsibility or liability for the confidentiality, security or integrity of your Personal Data in connection with its transmission over the Internet.
 
-d. **Retaining Your Information**
+ **  
+UPDATING YOUR RECRUITMENT PROFILE**
 
-We will retain Your Information for as long as the Purpose for which we collected it continues. It is then destroyed unless further retention is required to satisfy a legal, regulatory or accounting requirement or to protect our interests.
+If you choose to create a profile on any of our websites or any other recruitment channel, it is your responsibility to maintain and update the personal data provided by you in your profile and SCB may from time to time request, via email that you update your Personal Data to ensure it is accurate. You can access, update or delete your Personal Data in your profile at any time.
 
-**5\. Privacy, security and communications using the Internet**
+ **  
+PSYCHOMETRIC ASSESSMENTS**
 
-a.The Internet is not a secure form of communication and sending and receiving information over the Internet carries with it risks including the risk of access and interference by unauthorised third parties. It is your responsibility to maintain the secrecy of any user ID and login password you hold.
+Psychometric assessments may be undertaken to measure some aspects of performance including technical skills, and/or personality traits such as temperament or situational judgement. Specialist third parties are used to decide which assessments are relevant to use, as well as to administer them and assess the results. Some assessments may be used to determine whether you progress to the next stage of the recruitment process. If you do not consent to psychometric assessments where we deem it appropriate as part of the recruitment process, your application will not be able to be progressed.
 
-b.Information passing over the Internet may be transmitted internationally (even when sender and recipient are located in the same country) via countries with weaker privacy and data protection laws than in your country of residence. As a result, we do not accept responsibility or liability for the confidentiality, security or integrity of Your Information in connection with its transmission over the Internet. 
+ **  
+BACKGROUND SCREENING**
 
-c.In order to maintain the security of our systems, protect our staff, record transactions, and, in certain circumstances, to prevent and detect crime or unauthorised activities, we reserve the right to monitor all Internet communications including web and email traffic into and out of our domains.
+If you are offered a position with SCB, the accuracy of the personal data you have provided will be verified by our third party background screening vendors.
 
-**6\. Accessing and updating Your Information and contacting us**
+A criminal record search will be undertaken where allowed by applicable law. You may also be required to consent to such checks being undertaken. If you do not give your consent where required, we will not be able to continue with the recruitment process including the withdrawal of an offer of employment. SCB has a policy on the recruitment of ex-offenders which is available on request.
 
-If you wish to report any discrepancy or have any grievance with regards to Your Information provided or if you have any questions about our Website Privacy Statement, you may write to us:
+We may also use the services of a credit reference agency (“CRA”) to verify public information such as county court judgments, bankruptcies, decrees and administration orders. The CRA will record that such a search has been made about you but it will not affect your credit rating.
 
-**_For Corporate Customers:_**  
-Standard Chartered Bank  
-Client Services Group  
-Crescenzo, 3rd Floor  
-C – 38 /39, G – Block  
-Behind MCA Club  
-Bandra Kurla Complex, Bandra (East)  
-Mumbai 400 051
+Where there are anomalies or discrepancies you will be contacted by a recruitment specialist and you may be required to supply further personal data to enable further enquiries/verification to be completed.
 
-Email address:[ **Straight2bank.in@sc.com**](mailto:Straight2bank.in@sc.com)
+If you do not provide information where requested, provide misleading, false or inaccurate information or withhold any material information, we reserve the right to stop the recruitment process including withdrawing an offer of employment.
 
-**_For Retail Customers:_**  
-Standard Chartered Bank  
-Customer Care Unit,  
-19, Rajaji Salai   
-Post Box No. 1359  
-Chennai 600 001
+ **MINORS**
 
-Email address:  
-[ **customer.care@sc.com**](mailto:customer.care@sc.com)
+SCB recruitment activities are generally not aimed at minors. If you are a minor in the relevant jurisdiction, you must obtain the consent of your parent or guardian before contacting SCB in relation to recruitment.
 
-**8\. Changes to our Website Privacy Statement**
+ **  
+COOKIES**
 
-Standard Chartered wishes to assure you that your personal information will be treated as confidential and with high standards of security. Standard Chartered pledges its intention fully to meet internationally recognised standards of personal data privacy protection and to comply with the requirements of applicable data protection / privacy laws. Standard Chartered Group has implemented a mandatory IT security policy that is based on international best practices and the risk based approach. In doing so, we will ensure compliance by our staff with the strictest standards of security and confidentiality.
+To find out more about how we use cookies, view our [cookie policy](https://sc.com/en/cookie-policy/)
 
-**7\. IT security policy**
+ **  
+THIRD PARTY WEBSITES**
 
-We update our Website Privacy Statement from time to time and ask that you regularly check this Website to make sure you are familiar with the most recent version.
+The Group Recruitment Privacy Statement does not apply to third-party websites where SCB online recruitment advertisements are displayed or to linked third-party websites which SCB does not operate or control.
 
-This Website Privacy Statement was last updated on 24 August 2012.
+ **  
+UPDATES TO THE GROUP RECRUITMENT PRIVACY STATEMENT**
 
-COPYRIGHT©STANDARD CHARTERED PLC 2012. ALL RIGHTS RESERVED.
+The Group Recruitment Privacy Statement may be updated from time to time and it is your responsibility to visit our websites regularly for the most recent version.
 
+ **  
+ACCESSING AND CORRECTING YOUR PERSONAL DATA**
 
+If you wish to access, correct or request deletion of your Personal Data other than your profile through the website, or have questions regarding this Statement please email: [askhr@sc.com](mailto:askhr@sc.com)
 
+If you are registered to receive job alerts or other information and then subsequently you no longer wish to receive such information from us, you have the option at any time to amend your profile choices so as not to receive such job alerts and/or other information from us.
+
+ **  
+YOUR RIGHT TO ERASURE**
+
+You may have the right in some circumstances to ask for some of your personal data to be deleted, for example when there is no longer a valid reason to process it. This is not an absolute right to have any personal data deleted that you wish.
+
+ **  
+YOUR RIGHT TO OBJECT TO OR RESTRICT** **THE PROCESSING OF YOUR PERSONAL DATA**
+
+In some circumstances you may have the right to object to how we process your Personal Data or restrict its processing but this does not mean you can decide or choose how we process your Personal Data. If you have any concerns about how we process your Personal Data, please email: [askhr@sc.com](mailto:askhr@sc.com)
+
+ **  
+AUTOMATED DECISION MAKING AND PROFILING  
+**
+
+If we undertake any profiling that will result in an automated decision relating to you, we will do so on the basis we think it is necessary in relation to your recruitment or with your consent; we will let you know and you will have the right to discuss the decision.
+
+ **  
+COMPLAINTS**
+
+If you have a complaint in relation to the processing of your personal data and you are not happy with the way we deal with it, please email: [askhr@sc.com](mailto:askhr@sc.com) or [privacy@sc.com](mailto:privacy@sc.com)
+
+The Global Head of Privacy can be contacted at: [privacy@sc.com](mailto:privacy@sc.com) or at Standard Chartered Bank, 1 Basinghall Avenue, London, EC2V 5DD
+
+You also have the right to complain to the data protection authority, if one exists, in the country where you have a relationship with the Bank, or if your relationship is with SCB outside of the European Union but you are located there, the UK Information Commissioner. For details please email [privacy@sc.com](mailto:privacy@sc.com)
+
+This Statement was last updated on 24 May 2018
