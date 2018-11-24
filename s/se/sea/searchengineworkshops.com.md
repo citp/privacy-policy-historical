@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengineworkshops.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524084852id_/http%3A//www.searchengineworkshops.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengineworkshops.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124074718id_/http%3A//www.searchengineworkshops.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Search engine workshops: Our Privacy Policy.
 
