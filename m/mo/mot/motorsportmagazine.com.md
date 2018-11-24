@@ -1,53 +1,150 @@
-> *The following text is extracted and transformed from the motorsportmagazine.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120170538id_/http%3A//www.motorsportmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsportmagazine.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124094509id_/https%3A//www.motorsportmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Motor Sport Magazine
 
-Motor Sport Magazine is determined to protect your privacy. It is very important to us that you should be able to use and enjoy our website without having to reveal more information than is necessary.However, knowing some information about our users is necessary to ensure that our service is continually improved. To be able to communicate with you we need to build an accurate picture of the needs and wishes of our users. This enables us to offer a service that is relevant and interactive.
+This privacy policy sets out how _Motor Sport_ Magazine Ltd (“ _Motor Sport_ ”) uses and protects the information you provide to _Motor Sport_ when you use the _Motor Sport_ magazine website (“Site”).
 
-## Personal information
+_Motor Sport_ is committed to ensuring that your privacy is protected. Should we ask you any personal information that identifies you when using this Site, then you can be assured that it will only be used in accordance with this privacy policy notice.
 
-Depending on the nature of your involvement with our website we may ask you to provide personal information on a voluntary basis in order to get a clearer picture of our users. It is then up to you whether you give us this information.
+You should note that _Motor Sport_ may change or amend its privacy policy from time to time by updating this page and we strongly recommend you check this page periodically to ensure that any changes are in line with your privacy expectations and requirements.
 
-If you enter our competitions, promotions or participate in other online offers you will need to give us some details about yourself. You may also choose to email us or contact us in other ways. Such contact gives us information about you.
+This policy was last changed on, and is effective from, May 25, 2018.
 
-If you have any financial dealings or make purchases from us, you will be asked for certain information. Some of this information will be shared with us so that we can send you your purchases. We do not see or keep credit card details and would not advise you to supply this kind of information in any other manner than through our trading partnership with WorldPay where your information is securely protected by encryption, certification all within their protective software.
+**What we collect**
 
-## Collection
+We may collect the following information:
 
-We use details (where no individual is identifiable) to help us improve our understanding of our users and their preferences. We use it to assist us in arranging relevant advertising, commercial opportunities and competitions as well as ensuring the best editorial coverage. It also helps us develop the website and audit its use.
-
-The information about you as an identifiable individual, including contact details, may be used in the following ways:
-
-  * to conduct market research and other surveys
-  * to create and draw to your attention editorial material and commercial opportunities that may be of interest to you
+  * Name and contact information, such as address, telephone number and email address
+  * Information on your motoring and motor sport preferences and interests
+  * Other information relevant to customer surveys and/or offers
 
 
 
-## Cookies
+We do not ourselves collect or retain any of the following information:
 
-We use cookies to help personalise your use of our sites. A cookie is a small piece of information sent to your computer's hard drive by the web server so that our website can remember your computer. This information may include information relating to your use of our site, information about your computer such as the computer's IP address and browser type, demographic data and, if you arrived at our site via a link from a third party site, the URL of the linking page. If you are a registered user or subscriber this may include your name and email address for verification purposes.
+  * Sensitive or special categories of personal data
+  * Payment card data
 
-We use information from cookies for purposes which may include:
 
-  * identifying returning users, registrants and subscribers and to allow registrants and subscribers to be presented with a personalised version of the site.
-  * enabling you to move more easily around our site
-  * tracking your use of our site to better develop our sites in accordance with your requirements
-  * building up a demographic profile.
+
+**When do we collect your personal information?**
+
+We collect data which identifies you personally to us in the the following ways:
+
+  * By registering as a subscriber
+  * By subscribing to our newsletter
+  * By purchasing a product
+  * By voting or entering a competition
+  * By emailing us at one of our email addresses listed on the Site, like our contact page
+  * By providing us information through third party service providers, for example, survey software such as Survey Gizmo.
+
+
+
+Additionally, we may also collect data which provides us with a better understanding how the Site is being used and performing, but does not personally identify you.
+
+We use the third party provider DISQUS (“Forum”) in order to allow you to with a comment and discussion service on our Site by using your pre-existing Twitter or Facebook accounts.  We do not have access or collect any details from the Forum including, but limited to, your email address, personal data, private information or communications, Twitter or Facebook information when you use the Forum.
+
+We recommend that you review the following third party privacy policies and notices who may indirectly be providing services to you through our Site **:**
+
+  * Google – <http://www.google.com/intl/en/privacy/>
+  * Facebook – <http://www.facebook.com/policy.php>
+  * Twitter – <https://twitter.com/privacy>
+  * Disqus – <https://help.disqus.com/terms-and-policies>
+
+
+
+**Cookies**
+
+We use cookies to help personalise your use of our sites. A cookie is a small piece of information sent to your computer's hard drive by the web server so that our Site can remember your computer. This information may include information relating to your use of our site, information about your computer such as the computer's IP address and browser type, demographic data and, if you arrived at our site via a link from a third party site, the URL of the linking page. If you are a registered user or subscriber this may include your name and email address for verification purposes. We use information from cookies for purposes which may include:
+
+  * Identifying returning users, registrants and subscribers and to allow registrants and subscribers to be presented with a personalised version of the site.
+  * Enabling you to move more easily around our site
+  * Tracking your use of our site to better develop our sites in accordance with your requirements
+  * Building up a demographic profile.
 
 
 
 Please remember that you can delete cookies from your hard drive at any time. This will mean that any settings such as your stored username and password will need to be reset. You can set your internet browser so that it will not allow cookies to be stored on your computer. This may reduce functionality of the site, preventing access to registered and subscriber only areas of the site, meaning that certain features or content will not be available to you. Further information on how to prevent cookies from being stored on your computer can be found in the Help menu of your internet browser.
 
-## Google Analytics
+**Google Analytics**
 
-Our site uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics uses cookies to help us to analyse how users use the Motor Sport Magazine sites. The information generated by the cookie provides details of your use of our site (including your IP address) and will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our sites, compiling reports on website activity for us and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data kept by Google. You may refuse the use of cookies by selecting the appropriate setting on your browser, however please note that if you do this you may not be able to use the full functionality of motorsportmagazine co.uk. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+Our site uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics uses cookies to help us to analyse how users use the _Motor Sport_  magazine sites. The information generated by the cookie provides details of your use of our site (including your IP address) and will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our sites, compiling reports on Site activity for us and providing other services relating to Site activity and internet usage.
 
-## Privacy
+Google may also transfer this information to third parties where required to do so by law or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data kept by Google.
 
-We may occasionally make details of your postal address available to other carefully selected companies whose products we think will be of interest. If you do not wish us to do this please email us at [admin@motorsportmagazine.co.uk](mailto:admin@motorsportmagazine.co.uk) and we will make sure your details are not made available in this way.  We comply with the relevant legal requirements and take all reasonable care to ensure that your information is secure and private and is only seen by responsible third parties. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information nor for any breach of security.
+You can refuse the use of cookies by selecting the appropriate setting on your browser, however please note that if you do this you may not be able to use the full functionality of motorsportmagazine.co.uk.
 
-If you tell us that you do not want us to use your details, then data about your use of the website would only form part of aggregated statistics and would not be related to you as an individual. Please email us at [info@motorsportmagazine.co.uk](mailto:info@motorsportmagazine.co.uk) at any time to let us know of any objections you may have regarding our use or disclosure of your data. In any event your personal details may be shared with third party organisations we have contracted to provide services such as delivery.
+By using this Site, you consent to the processing of data about you by Google in the manner, means and purposes set out above.
 
-You should be aware that by using the website your personal data may be processed in or transferred to other countries and you agree to your personal data being transferred or processed in this way.
+**What we do with the information we gather**
 
-Further information about the Data Protection Act can be found [here](http://www.direct.gov.uk/en/Governmentcitizensandrights/Yourrightsandresponsibilities/Freedomofinformationanddataprotection/DG_10031451 "Data Protection")
+We require this information to understand your needs and provide you with a better and focused service. Specifically for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about Motor Sports’ new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * We may periodically promote our services, offers and content to you on social media
+  * From time to time, we may also use your information to contact you for market research purposes. We would normally contact you by email, but by exception or where a preference has been expressed by phone or post.
+  * We may use the information collected to customize the Site and communications according to your interests, preferences and past purchases.
+
+
+
+**Who we share information with**
+
+We aim to only share the absolute minimum information necessary with other service providers and their suppliers to fulfill a service or contractual commitment; such as delivering a magazine by post or fulfilling an order from the _Motor Sport_ shop.
+
+**Free digital, print or bundle subscription services:**
+
+Where you have taken up a free trial offer, be it a digital, print or our bundle subscription (both digital and print products combined) we may pass your details on to third party regulatory bodies, such as [ABC](mailto:https://www.abc.org.uk/about-us). The purposes of these aforementioned third parties is to control and regulate free magazine distribution and to provide an industry standard measurement for tracking global magazine circulation. In rare instances, these regulatory bodies may contact you to confirm that you a) requested a print, digital or bundle copy of _Motor Sport_ magazine b) received notification that a digital or bundle edition was available to access. These third parties will not use your data for any other purposes.
+
+**International Data Transfers**
+
+We do not transfer or share your data to any party or processor outside of the European Union.
+
+**3 rd party marketing**
+
+We also work with a number of 3rd parties on a partnership or commercial basis. In such instances, we will only share your email address if you have agreed for us to do so by opting-in to receive 3rd party communications.
+
+If you wish to opt-out of receiving emails from these parties then you can unsubscribe using link within any email they send. You can also contact _Motor Sport_ at any time to change your 3rd party opt-in preferences.
+
+Below are some examples of the types of companies we work with:
+
+  * Events
+  * Charities
+  * Printing services
+  * Car manufacturers
+  * Membership bodies
+  * Auction houses
+  * Consumer products
+  * Financial services
+
+
+
+**Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to help safeguard and secure the information we collect online.
+
+**Links to other Sites**
+
+Our Site may contain links to other Sites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other Site. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement.
+
+You should always exercise caution and look at the privacy statement applicable to the Site in question.
+
+**Your rights to control your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * Whenever you are asked to fill in a form on the Site, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by changing settings in your account personal preferences writing to or emailing us at [dataprotection@motorsportmagazine.com](mailto:dataprotection@motorsportmagazine.com)
+
+
+
+WE WILL EVER NOT SELL, DISTRIBUTE OR LEASE YOUR PERSONAL INFORMATION TO THIRD PARTIES UNLESS WE HAVE YOUR EXPRESS PERMISSION OR ARE REQUIRED TO DO SO BY LAW.
+
+We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish to receive this.
+
+You may request details of personal information which we hold about you under the General Data Protection Regulations, by emailing [dataprotection@motorsportmagazine.com](mailto:dataprotection@motorsportmagazine.com)
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+If you wish us to remove all information which we may have on you, please email [dataprotection@motorsportmagazine.com](mailto:dataprotection@motorsportmagazine.com)
