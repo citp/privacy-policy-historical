@@ -1,26 +1,17 @@
-> *The following text is extracted and transformed from the pornodirndl.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606082222id_/https%3A//www.ixxx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornodirndl.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124101753id_/https%3A//www.ixxx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## for ixxx.com
 
-Last Modified: June 4, 2018  
+Last Modified: November 2, 2018  
 
 
 This website ixxx.com ('site') is operated by PB Web Media B.V.('we', 'us', 'our'). We process personal and non-personal (anonymous) data about our site's visitors ('you', 'your'). This Privacy Policy is intended to explain to you what personal data we process through your use of the site and what we do with that data. By visiting our site and using our services, you agree to the terms stated in this Privacy Policy. 
 
 ### 1\. Who we are
 
-PB Web Media B.V. Is a Dutch company, based in Haarlem. Our services mainly consist of providing website traffic to our clients. Our contact information: 
-
-PB Web Media B.V.  
-Wagenweg 40  
-2012 NE, Haarlem  
-The Netherlands  
-+31 (0)23 5477007  
-
-
-If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact us at: [support@adultwebmasternet.com](mailto:support@adultwebmasternet.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20ixxx.com%20site). 
+PB Web Media B.V. is a company based in The Netherlands. Our services mainly consist of providing website traffic to our clients. If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact our Data Protection Officer at: [support@adultwebmasternet.com](mailto:support@adultwebmasternet.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20ixxx.com%20site). 
 
 ### 2\. General
 
@@ -105,7 +96,7 @@ For an overview of cookies that are placed through our site see the table below:
 
 Name | Type | Purpose  
 ---|---|---  
-ta (referrer, trackerId, isReturningVisitor, clickCount, longTermTrackerId, longTermFirstVisit, utmSource, hasMultipleSessions) | Persistent cookie | First party analytics  
+ta | Persistent cookie | First party analytics  
 variation | Persistent cookie | First party analytics  
 session | Session based cookie | First party cookie, stores user session  
 tag | Persistent cookie | First party cookie, stores orientation setting  
@@ -202,4 +193,4 @@ We reserve the right to make changes to this Privacy Policy. We recommend that y
 
 ### 11\. Any Questions
 
-If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact us at: [support@adultwebmasternet.com](mailto:support@adultwebmasternet.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20ixxx.com%20site). 
+If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact our Data Protection Officer at: [support@adultwebmasternet.com](mailto:support@adultwebmasternet.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20ixxx.com%20site). 
