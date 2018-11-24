@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwru.edu privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607164039id_/http%3A//case.edu/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwru.edu privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124215030id_/http%3A//case.edu/privacy-statement/index.html) for the most accurate reproduction.*
 
 # Web Privacy Statement | Case Western Reserve University
 
