@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the digiex.net privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227212759id_/http%3A//digiex.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiex.net privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124212911id_/https%3A//digiex.net/pages/privacy) for the most accurate reproduction.*
 
-# Digiex - Privacy Policy
+# Privacy Policy | Digiex
 
-Last modified: 15th February 2013
-
- **Data Collection:**
+  
+Last modified: 30th December 2016 **Data Collection:**
 
 **Guest:**  
 We collect no information ourselves on you. However as our site uses Google Analytics, Google Ads and Facebook Connect your viewing history may be collected by them.   
@@ -31,9 +30,9 @@ The list below describe the cookies we use on this site and what we use them for
 
 **Google Analytics** : We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information. We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are.
 
-You can find out more about Google's position on privacy as regards its analytics service at <http://www.google.com/intl/en_uk/analytics/privacyoverview.html>
+You can find out more about Google's position on privacy as regards its analytics service at [http://www.google.com/intl/en_uk/analytics/privacyoverview.html](https://www.google.com/intl/en_uk/analytics/privacyoverview.html)
 
-**vBulletin** : Our websites runs the popular vBulletin CMS and forum and cookies are used to store basic data on your interactions with vBulletin, and whether you have logged into vBulletin. We use a session cookie to remember your log-in for you if you are a registered user and we deem these as being strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken.
+**XenForo** : Our websites runs the popular XenForo CMS and forum and cookies are used to store basic data on your interactions with XenForo, and whether you have logged into XenForo. We use a session cookie to remember your log-in for you if you are a registered user and we deem these as being strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken.
 
 More information on session cookies and what they are used for at <http://www.allaboutcookies.org/cookies/session-cookies-used-for.html>
 
@@ -46,7 +45,7 @@ You should check the respective policies of each of these sites to see how exact
 Third party vendors, including Google, Infolinks and Skimlinks, use cookies to serve ads based on a user's prior visits.
 
 Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visit to sites on the Internet.  
-You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/).
+You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](https://www.google.com/ads/preferences/).
 
 Skimlinks use of Cookie's can be viewed [here](http://skimlinks.com/privacy-policy#users) and can be opted out at: <http://skimlinks.com/opt-out>
 
