@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smokefree.nhs.uk privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714184830id_/http%3A//www.nhs.uk/smokefree/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smokefree.nhs.uk privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124184358id_/https%3A//www.nhs.uk/smokefree/privacy-and-cookies-policy) for the most accurate reproduction.*
 
-# Smokefree | Privacy and cookies
+# Privacy and cookies | Smokefree
 
 ## **PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE**
 
