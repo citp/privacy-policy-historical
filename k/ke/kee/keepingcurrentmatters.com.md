@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keepingcurrentmatters.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605204226id_/https%3A//www.keepingcurrentmatters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepingcurrentmatters.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124070252id_/https%3A//www.keepingcurrentmatters.com/privacy) for the most accurate reproduction.*
 
-# Keeping Current Matters | Privacy Policy
+# Privacy Policy - Keeping Current Matters
 
 ### Keeping Current Matters™ Privacy Policy
 
@@ -84,6 +84,8 @@ We review our data collection, storage and processing practices to ensure that w
 ### Accessing and Updating Personal Information
 
 When you use Keeping Current Matters™ services, we provide you with access to your personal information and the ability to correct this data if it is inaccurate or to delete such data if it is not otherwise required to be retained by law or for legitimate business purposes. We provide the details for these procedures in the Support Area of the Keeping Current Matters™ website, or in the footer area of email communication, dependent upon which Keeping Current Matters™ service you are utilizing.
+
+You have the right to demand the erasure of your personal data from our servers.   If you wish to do so, and to stop using our Services, please notify us at [kcmcrew@keepingcurrentmatters.com](mailto:kcmcrew@keepingcurrentmatters.com) and we will do so without undue delay.
 
 ### Governing Law/Arbitration
 
