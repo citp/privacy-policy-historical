@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sacredheart.edu privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602155511id_/http%3A//www.sacredheart.edu/officesservices/webcontentmanagement/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacredheart.edu privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124165410id_/https%3A//www.sacredheart.edu/officesservices/webcontentmanagement/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | Sacred Heart University Connecticut
 
-[ ](http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4f96b67d3736a322)
+[ ](https://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4f96b67d3736a322)
 
 _Last modified: May 22, 2018_
 
