@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directorystorm.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130141758id_/http%3A//www.directorystorm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorystorm.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124030526id_/http%3A//www.directorystorm.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Directory Storm
 
