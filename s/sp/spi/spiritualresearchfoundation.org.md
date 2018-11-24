@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003113852id_/https%3A//www.spiritualresearchfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124035317id_/https%3A//www.spiritualresearchfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -12,9 +12,9 @@ The SSRF and its website (ssrf.org and SpiritualResearchFoundation.org) also ref
 
 To better protect your privacy and the security of your information, we provide this Privacy Policy to explain our information practices and the choices you can make about the way your information is collected and used on the Site. By using our website you consent to the terms of this Policy. This Policy applies to all users of the Site.
 
-This Policy is in accordance with the Australian National Privacy Principles contained in the Privacy Act 1988 (Cwth).
+This Policy is in accordance with the Australian National Privacy Principles contained in the Privacy Act 1988 (Cwth), and the GDPR regulations introduced by the European Union in May 2018.
 
-If you have further questions regarding our privacy policy, please contact us via the ‘[ask a question](https://web.archive.org/profiles/extuserprof/question.php)’ functionality in your SSRF Member Account.
+If you have further questions regarding our privacy policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#40303229362123390033302932293435212c3225332521322328262f352e242134292f2e6e2f3227).
 
 This Privacy policy is an integral part of the [Terms of Use](https://web.archive.org/terms-of-use) of this Website.
 
@@ -34,7 +34,7 @@ If, at any time, you provide personal or other information about someone other t
 
 We generally advise that you do not publish or communicate personal information, or at least limit the personal information that you publish or communicate, to the public via our services, such as our comments functionality (where you authorise the publication of the comment) and blogs herein after referred to as Non-Confidential Information.
 
-You acknowledge that we cannot control any third party collection or use of your Non-Confidential Information. You agree that we may use and disclose Non-Confidential Information for any purpose and by any means whatsoever.
+The third-party services that SSRF uses are GDPR compliant, and the information shared with these services is on a double opt-in basis which also has your consent through the medium of email and/or a web-form. These services have an easy opt-out method, e.g. newsletter subscription. All these services maintain the non-confidential information such as IP address only for certain duration, after which it gets deleted from their systems. Examples include statistical data on the systems.
 
 ### 2.3 Non-personally-identifiable information
 
@@ -46,15 +46,15 @@ To the extent this information does not constitute personal information, the Nat
 
 ## 3 Why do we collect information about you?
 
-The primary purpose for which we collect information about you is to provide you with products and services you have requested.
+The primary purpose for which we collect information about you is to provide you with products and services you have requested. We collect information only when it is absolutely necessary to do so.
 
-We may state a more specific purpose at the point we collect your information. If you do not provide us with the information that we request, we may not be able to provide you with our products or services. For example, if you do not register as a member of a website, you will not be able to access features or services that are reserved for members only that are listed below.
+We may state a more specific purpose at the point we collect your information. If you do not provide us with the information that we request, we may not be able to provide you with our products or services. For example, if you do not register as a member of a website, you will not be able to access features or services that are reserved for members only.
 
 ## 4 How SSRF uses your personal information
 
 **Amongst other reasons for:**
 
-  * Sending you our email alerts about SSRF and our affiliate’s events, new articles, newsletter if you have subscribed (opted-in) to them. The introduction/reminder of some new functionality or products and services with regard to the Site. SSRF requires you to opt-in to any mailing list, i.e. you have to tick which mailing list you would like to subscribe to. We do not pre-tick your subscription to any mailing list and therefore we do not ask you to opt-out if you do not want to contact you in that regard.
+  * Sending you our email alerts about SSRF and our affiliate’s events, new articles, newsletter if you have subscribed (opted-in) to them. The introduction/reminder of some new functionality or products and services with regard to the Site. SSRF requires you to opt-in to any mailing list, i.e. you have to tick which mailing list you would like to subscribe to. We do not pre-tick your subscription to any mailing list and therefore we do not ask you to opt-out if you do not want us to contact you in that regard.
 
   * Responding to your questions and comments.
 
@@ -73,11 +73,12 @@ We may state a more specific purpose at the point we collect your information. I
 
 **How long do we hold the information?**
 
-  * We will keep your information in our systems till we deem it necessary to purge it from our systems.
+  * We will keep your information in our systems till we deem it necessary to purge it, unless you specifically asked us to disassociate yourself from us and no longer want to be in our database.
+  * SSRF shop is a separate entity and if you have any concern about your data on SSRF shop you can contact us by clicking [here](https://shop.spiritualresearchfoundation.org/ticketsystem/index/guestticket).
 
 
 
-**Use of cookies**
+## **5 Cookies and Tracking**
 
   * **What is a cookie?:** A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a “device”) browser from a website’s computer and is stored on your device’s hard drive.
 
@@ -86,19 +87,20 @@ We may state a more specific purpose at the point we collect your information. I
 
 Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Many sites do this whenever a user visits their website in order to track online traffic flows. Cookies record information about your online preferences and allow us to tailor the Site to your interests.
 
+  * **What do we store in a cookie?:** We do not store any confidential information in a cookie, whatever information is stored is just to facilitate your interaction with us, to be able to identify you and correspond with you. Some data that we store in a cookie is your encrypted name, encrypted password, and language preference. The cookie gets deleted when you choose to logout from our website or the cookie itself gets expired. If you have chosen to remember your credentials while loggin in, then that data gets stored in your browser preferences. In any case, we do not store such data in our systems.
+
+
   * **Control over a cookie:** Users have the opportunity to set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last option means that certain personalised services cannot then be provided to that user and accordingly you may not be able to take full advantage of all of the Site’s features. Each Internet browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. During the course of any visit to SSRF, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether the device (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
 
 
 
-  * **How does the SSRF use your cookies:** Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. In our effort to provide you with services customised to your interests, we use “cookies” to assist in the collection of information. When you register, we use a cookie to store a unique, random user ID. 
-    * We and other third party providers that we commission, use this ID to identify you anonymously in our database and to track the pages you visit on our site. Tracking information such as cookies is also used to create aggregate reports on user demographics and Site traffic patterns. Information supplied by cookies can help us to provide you with a better online user experience and assist us to analyse the profile of our visitors.
-    * We use cookies to access your account information (stored on our computers) in order to deliver better and more personalized services; identify which areas of the Site you have visited; all as part of our efforts to streamline your experience on the Site.
+  * **How does the SSRF use your cookies:** Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. In our effort to provide you with services customised to your interests, we use “cookies” to assist in the collection of information.
 
 
 
 ^ Top
 
-## 5 When we disclose personal information to others
+## 6 When we disclose personal information to others
 
 We will not sell or rent your personally identifiable information to anyone. The Site’s mailing list, including the personal information we receive through the Internet is never sold or rented to any commercial organisations for profit.  
 We will send personally identifiable information about you to other companies or people when:
@@ -111,12 +113,11 @@ We will send personally identifiable information about you to other companies or
 
   * If you post or send offensive, inappropriate or objectionable content anywhere, on or to the Site or otherwise engage in any disruptive behaviour on the Site, the SSRF can use whatever information that is available to it about you to stop such behaviour. This may involve informing relevant third parties such as your Internet provider and law enforcement agencies about the content and your behaviour.
 
+  * Your IP address is only used for statistical analysis using third-party tools. However, we do not share any of your confidential information with the third-party who provides the analysis. We also use IP address to detect spam comments and safeguard our systems.
 
 
 
-We may share aggregated, non-personally identifiable information about our users with affiliates or other third parties for better understanding of our website and visitor preferences.
-
-## 6 How Do I Correct My Information or ‘Opt-Out’?
+## 7 How Do I Correct My Information or ‘Opt-Out’?
 
 Please assist us in keeping your information current by notifying us of changes to your name, address, title, phone number or email address.
 
@@ -126,23 +127,25 @@ Please assist us in keeping your information current by notifying us of changes 
 
   * For issues with regard to incorrect details provided for orders yet to be fulfilled by us, please contact our customer service through ‘my order correspondence’ in your SSRF Member account.
 
+  * If you wish to cancel your account with SSRF, you may do so by clicking [here](https://www.spiritualresearchfoundation.org/?profile=account-cancellation).
 
 
 
 In the event you elect not to receive any future contacts from SSRF, we will endeavour to remove your name from all of our contact lists; however, information is sometimes difficult, if not impossible, to remove from all data sources.
 
-We shall have no liability under this Privacy Policy for our failure to accomplish this objective. If you have any questions please contact us at [privacy@spiritualresearchfoundation.org](mailto:privacy@spiritualresearchfoundation.org)
+If you have any questions please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ddadafb4abbcbea49daeadb4afb4a9a8bcb1afb8aeb8bcafbeb5bbb2a8b3b9bca9b4b2b3f3b2afba)
 
-## 7 How Do We Keep Your Information Secure?
+## 8 How Do We Keep Your Information Secure?
 
 Other than in relation to Non-Confidential Information, we will endeavour at a physical, electronic and managerial level to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, password access and secure servers.
 
 To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect online.
 
-### 7.1 With regard to hardware and software
+### 8.1 With regard to hardware and software
 
   * SSRF encrypts all passwords that enable you to interact with the Site. This includes the transmission, authentication and storage of passwords. This means that none of our staff can see your passwords.
 
+  * If a person is unable to retrieve their own password using the forgot password link, we may send a temporary password and ask for resetting the password at the earliest.
   * We utilise encryption/security software to safeguard the confidentiality of passwords we collect from unauthorized access or disclosure and accidental loss, alteration or destruction. This means we encrypt your passwords so that it cannot be read as the information travels over the Internet or when it resides on our servers.
 
   * SSRF’s database is protected from unauthorized access by a series of highly sophisticated software protection programs.
@@ -154,7 +157,7 @@ To prevent unauthorized access, maintain data accuracy and ensure the appropriat
 
 ^ Top
 
-### 7.2 With regard to managerial processes
+### 8.2 With regard to managerial processes
 
   * **No storage of credit card details:** We have made it a policy not to store any credit card details. We use an online payment gateway system and any of your financial information that you provide during a credit card transaction is only privy to them.
 
@@ -175,7 +178,7 @@ To prevent unauthorized access, maintain data accuracy and ensure the appropriat
 
 
 
-  * We cannot guarantee 100% security of any information that you disclose online, and you do so at your own risk. You are required to register with the Site in order to purchase products, asking questions or to receive other information from us. At the time you register you will create a password. Please remember your password as you will be asked to provide it each time you make a purchase or attempt to access your personal information. You are responsible for maintaining the confidentiality of your password and for all uses of your password, whether or not authorised by you. You should not disclose your password to any other person. In order to protect the security of your account and personal information, when your visit is complete you should be sure to log off of our website and shut down your browser. If you have any reason to believe that your account is no longer secure, you should promptly change your password in your profile.
+  * You are required to register with the Site in order to purchase products, asking questions or to receive other information from us. At the time you register you will create a password. Please remember your password as you will be asked to provide it each time you make a purchase or attempt to access your personal information. You are responsible for maintaining the confidentiality of your password and for all uses of your password, whether or not authorised by you. You should not disclose your password to any other person. In order to protect the security of your account and personal information, when your visit is complete you should be sure to log off of our website and shut down your browser. If you have any reason to believe that your account is no longer secure, you should promptly change your password in your profile.
 
 
 
@@ -188,16 +191,16 @@ To prevent unauthorized access, maintain data accuracy and ensure the appropriat
 
 
 
-## 8 Linking to Other Websites
+## 9 Linking to Other Websites
 
 The Site contains hyperlinks to websites owned and operated by third parties that are not under our control. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information you submit or are collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk. We provide these links solely for the convenience and information of our visitors.
 
-## 9 Effective Date and Modifications
+## 10 Effective Date and Modifications
 
-We reserve the right to modify this Privacy Policy at our discretion. If we decide to change our privacy policy, we will post those changes here. We encourage you to visit this section of our site regularly in order to remain informed of any changes. Changes to our Privacy Policy shall become effective as of the date they are posted to this site. Our current policy was amended on 18 February 2013.
+We reserve the right to modify this Privacy Policy at our discretion. If we decide to change our privacy policy, we will post those changes here. We encourage you to visit this section of our site regularly in order to remain informed of any changes. Changes to our Privacy Policy shall become effective as of the date they are posted to this site. Our current policy was amended on 25th May 2018.
 
-## 10 Contacting Us
+## 11 Contacting Us
 
-If you have any questions please contact us at [privacy@spiritualresearchfoundation.org](mailto:privacy@spiritualresearchfoundation.org)
+If you have any questions please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1a6a68736c7b79635a696a7368736e6f7b76687f697f7b6879727c756f747e7b6e7375743475687d)
 
 ^ Top
