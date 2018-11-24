@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jins.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602181842id_/https%3A//www.jins.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jins.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124154049id_/https%3A//www.jins.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | JINS
 
