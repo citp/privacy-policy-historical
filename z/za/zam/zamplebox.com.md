@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zamplebox.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926194244id_/https%3A//www.zamplebox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamplebox.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124235012id_/https%3A//www.zamplebox.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,14 +66,16 @@ You may cancel your account at anytime by logging into your account under “My 
 
 You may also delete your ZampleBox account, just [contact us](http://support.zamplebox.com/support/tickets/new) with a subject titled “Delete My Account” and we will assist you in doing so. We will try to delete your account as soon as possible, but it may take up to fourteen (14) business days for our systems to completely implement this so you may still get correspondences from us during that time. 
 
+You may also request all the data ZampleBox has connected to your account, just [contact us](http://support.zamplebox.com/support/tickets/new) with a subject titled “Provide My Account Data” and we will assist you in doing so. We will try to collect your account data as soon as possible, but it may take up to seven (7) business days for us to collect your data.
+
 #### YOUR CALIFORNIA PRIVACY RIGHTS
 
 California residents may request a list of certain third parties to which we have disclosed personally identifiable information about you for direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by [contacting us](http://support.zamplebox.com/support/tickets/new). Please allow up to thirty (30) days for a response.
 
 #### OUR POLICY TOWARDS THOSE UNDER THE AGE OF 18
 
-Our Services are not directed to persons under 18. If you become aware that a minor is using Our Services, please [contact us](http://support.zamplebox.com/support/tickets/new). We do not knowingly collect personal information from persons under the age of 18. If we become aware that a person under the age of 18 has provided us with personal information, we take steps to remove such information and terminate the child’s account. You can find additional resources for parents and teens [www.connectsafely.org](http://www.connectsafely.org/).
+Our Services are not directed to persons under 18. If you become aware that a minor is using Our Services, please [contact us](http://support.zamplebox.com/support/tickets/new). We do not knowingly collect personal information from persons under the age of 18 and actively validate the age of our customers. If we become aware that a person under the age of 18 has provided us with personal information, we take steps to remove such information and terminate the child’s account. You can find additional resources for parents and teens [www.connectsafely.org](http://www.connectsafely.org/).
 
 #### CHANGES TO THIS POLICY
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern oaur use of your information and will always be at the following location: [https://www.zamplebox.com/privacy](https://web.archive.org/privacy). If we make a change to this policy that, in our sole discretion, is material, we will notify you via an email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at the following location: [https://www.zamplebox.com/privacy](https://web.archive.org/privacy). If we make a change to this policy that, in our sole discretion, is material, we will notify you via an email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
