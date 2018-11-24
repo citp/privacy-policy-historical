@@ -1,134 +1,239 @@
-> *The following text is extracted and transformed from the thebodyshop.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230339id_/http%3A//www.thebodyshop-usa.com/about-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebodyshop.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124211612id_/https%3A//www.thebodyshop.com/termsconditions/services/privacy-policy) for the most accurate reproduction.*
 
-# The Body Shop - Privacy Policy
+# Privacy Notice Terms and Conditions | Global Site
 
-Privacy and Cookie Notice 
+## Our Approach to Privacy
 
-Thank you for visiting thebodyshop-usa.com website. We appreciate the importance of your trust and have set forth this Privacy Policy and Cookie Notice to explain how the Body Shop ("we", "us", or "our") collect, protect, share and use your information as part of our technology platforms, including, without limitation, our company websites, web pages, sponsored social media platforms, mobile sites and mobile apps (the "Sites").
+At The Body Shop, we recognize that the protection of your personal information is a very important principle in building trust and maintaining a good relationship with you. We take the protection of your personal information very seriously.
 
-Your use of the Sites constitutes your acceptance of this Privacy and Cookie Notice and consent to the practices described. 
+This Privacy Notice explains what personal information we collect about you, how and why we use it, who we disclose it to, and how we protect your privacy.
 
-INFORMATION COLLECTED
+Please take the time to read and understand this Notice.
 
-You may visit and browse the Sites without providing personally identifiable information about yourself. However, this may limit your ability to receive certain features, products or services from Us. 
+###  Table of Contents
 
-Information You Provide
+  1. This Privacy Notice
+  2. Who is responsible for your Personal Information?
+  3. When do we collect Personal Information from you?
+  4. How do we use your Personal Information?
+  5. Sharing of your Personal Information
+  6. How to withdraw your consent
+  7. Accuracy of your Personal Information
+  8. Your rights
+  9. CCTV
+  10. Effective date and changes to this Privacy Notice
+  11. How do we keep your Personal Information secure?
+  12. Matters specific to the Internet
+  13. Children
+  14. How to contact us
 
-We may collect Personal Information (information that can be used to identify you as an individual) such as your name, email, telephone number, home address, demographic information (such as zip code, age), or payment information (such as account or credit card number) when you make a purchase. The types of Personal Information we collect may vary depending on your use of the features of the Sites. If you register at the Sites, enter a promotion, opt-in to receive emails or other offers or communications, we collect and store the information provided. We may also ask you to provide other information, such as demographic information (such as gender or age) or about your product preferences and interests. 
 
-You may also be able to register and log in to the Site using a social media account, including your Facebook account. When you use a social media account to log into the Site, you may also be able to use certain social features on the Site. For Facebook log in, Facebook will ask your permission to share certain information from your Facebook account with the Site. This may include your first name, last name, gender, profile picture, list of friends, a link to your Facebook profile, likes, and other data that is part of your or your friends' Facebook profile(s). This information is collected by Facebook and is provided to us under the terms of Facebook's privacy policy. You can control the information that we receive from Facebook using the privacy settings in your Facebook account. 
 
-Information We Collect Automatically
+#### **1.This Privacy Notice**
 
-We may use the information collected through automated means on this site for market research, data analytics and system administration purposes, such as to determine whether you've visited us before or are new to the site, and for compliance with our legal obligations, policies and procedures, including compliance with relevant industry standards and the enforcement of our Terms and Conditions. We also may use the information in other ways for which specific notice is provided at the time of collection. 
+1.1 In this Privacy Notice, **"we", "our", "us", "ours"** means The Body Shop International Limited and **"you", "your", "yours"** means you the individual.
 
-Mobile Apps: 
+1.2 This Privacy Notice explains what personal information we collect about you, how and why we use it, who we disclose it to, and how we protect your privacy. It also set outs your rights in relation to your personal information.
 
-Some of our mobile apps include opt-in, geo-location services that provide location-based services, such as store locators, local weather, promotional offers and other personalized content. Some of our mobile apps include opt-in "push notifications." Most mobile devices allow you to turn off location services or push notifications. If you consent to location services, we will collect information about the Wi-fi routers closest to you and the cell IDs of the towers closest to you to provide the requested location-based service, not to identify you. 
+1.3 This Privacy Notice supplements any relevant online Terms and Conditions of Sale, Terms of Use or other notices about the use of your personal information.
 
-Site Usage Information: 
+#### **2.Who is responsible for your Personal Information?**
 
-The Body Shop and its third-party service providers may also use a variety of technologies that passively or automatically collect information about how the Sites are accessed and used ("Usage Information"), including your browser type, device type, operating system, application version, the pages served to you, the time you browse, preceding page views, and your use of features or applications on the Sites. This statistical data helps us understand what is interesting and relevant to users of the Sites so we can best tailor our content. 
+2.1 We are The Body Shop International Limited, a company registered at Watersmead, Littlehampton, West Sussex, BN17 6LS UK, and its wholly owned subsidiaries in the UK and the European Economic Area. For the purposes of applicable data protection laws, we are the "data controller". "Data controller" is a legal term used to describe the person or entity that controls the way your personal information is processed. We have Data Protection Officers in nominated EU Member States. If you have a query about the use of your personal information you may contact the Data Protection Officer by using the contact information at the end of this Privacy Notice.
 
-Device Identifiers: 
+2.2 By providing us with your personal information, you agree to the collection and use or otherwise processing (including disclosure) of your personal information in the manner and for the purposes described in this Privacy Notice.
 
-Thebodyshop-usa.com also automatically collects an IP address or other unique identifier information ("Device Identifier") for the computer, mobile device, technology or other device (collectively, "Device") you use to access the Sites. A Device Identifier is a number that is automatically assigned to your Device when you access a web site or its servers, and our computers identify your Device by its Device Identifier. We may use a Device Identifier to, among other things, administer the Sites, help diagnose problems with our servers, analyze trends, track users' web page movements, help identify you and your shopping cart, and gather broad demographic information for aggregate use. 
+#### **3.When do we collect Personal Information from you?**
 
-Cookies: 
+3.1 We receive personal information from you through a variety of means and channels, including through our stores, our customer loyalty schemes, through the internet (such as via our information or selling web sites or via our mobile app) or through our direct selling business (The Body Shop At Home).
 
-Like many Web sites, we use "Cookies," which are data files placed on a Device when it is used to visit the Sites to facilitate site navigation and to personalize your experience, including tailoring advertisements. Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Sites and your activities on such social networking sites. We also use cookies for "Refer a friend" programs or reward offers that you may participate in. We use cookies to track the account sending the referral and to track whether the "friend" registers or makes a purchase so that the referrer can receive its reward or offer. We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Sites (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location, or demographic information). 
+3.2 We also receive communications from you via post, email, phone, fax, or text messaging on your mobile phone, although we prefer to communicate via email because this has the least impact on the environment. Such communications may involve giving to you, as well as receiving information from you.
 
-If you would prefer not to accept cookies, you can change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; or set your browser to automatically not accept any cookies. However, please be aware that some features and services on our Sites may not work properly because we may not be able to recognize and associate you with your account. In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. 
+3.3 Here are some examples of how you may provide personal information to us:
 
-Pixel Tags or Web Beacons: 
+(a) sending us e-mails and text messages
 
-We also use web beacons or pixel tags, which are transparent graphic images placed on a web page or in an email and indicate that a page or email has been viewed or tell your browser to get content from another server. These may provide confirmation to us when you open an email from us. 
+(b) interacting with us on social media platforms (for example, when liking or commenting on our posts)
 
-INFORMATION FROM THIRD PARTIES
+(c) adding offers, promotions or products to your basket on our website or your Wish List on our mobile app
 
-We may receive information about you from third parties that feature our products or promotional offers if you opt-in to receive information from us. You may also choose to participate in a third party application or social media site through which you allow us to collect (or the third party to share) information about you, including Usage Information and Personal Information. 
+(d) talking to us in our stores or over the telephone or via the "Messages" function in our mobile app (for example, when asking us about our products, asking for a refund or making a complaint)
 
-We may also receive information about you from outside records from third parties, such as marketing related or demographic information to enhance our ability to tailor our content, products and services that we believe may be of interest to you. We may supplement the information we collect about you through the Sites with such information from third parties in order to enhance our ability to serve you, to tailor our content to you and/or to offer you opportunities to purchase products or services that we believe may be of interest to you. If we combine such data with information we collect through the Sites, such information is subject to this Privacy Policy and Cookie Notice unless we have disclosed otherwise. 
+(e) registering accounts on our website or on our mobile app (for example, when giving us your contact details and your preferences or interests).
 
-USE AND SHARING OF INFORMATION
+3.4 We limit the amount and type of personal information that we collect to that which is necessary for the purposes for which we are collecting it.
 
-Thebodyshop-usa.com uses the information we collect about you for a variety of business purposes, including: 
+3.5 Although the precise details of the personal information collected will vary according to the specific purpose for which we are collecting the information, we may typically collect the following personal information from or in relation to you:
 
+(a) name
+
+(b) address
+
+(c) phone number(s)
+
+(d) date of birth
+
+(e) e-mail address
+
+(f) credit card number
+
+(g) gender
+
+(h) language preference
+
+(i) merchandise category preferences
+
+(j) identity card number or national insurance number (only in markets where this is appropriate pursuant to local law or custom).
+
+#### **4.How do we use your Personal Information?**
+
+4.1 We collect your personal information for the following purposes:
+
+Why might we use your personal information? | How do we use your personal information for this purpose? | What is the legal basis for us to process your personal information in this way?   
+---|---|---  
+to process your payments and protect you against fraudulent transactions | We may need to process your personal information to keep your payment information safe and protect you against fraudulent transactions. | Processing your personal information to keep your payments secure is necessary for the performance of our contract with you  
+to protect The Body Shop against fraudulent transactions, and for our profit protection purposes | We may need to process your personal information to protect The Body Shop against fraudulent transactions, and for our profit protection purposes. | It is in our legitimate interests to process personal information to protect The Body Shop against fraudulent transactions, and for our profit protection purposes.  
+to ensure that content from our website is presented in the most effective manner for you and for your computer | We may at times use your personal information (such as your IP address) to measure the use of our website by you and assess the effectiveness of our website and improve the content of our website. | As appropriate, we will ask for your consent to the use of cookies before processing.  
+to provide you with goods and services | We may need to use your personal information to perform our obligations under a contract with you (e.g. where you have purchased a product from us). | Using your personal information in this way is necessary for us to perform our statutory and / or contractual obligations to you.  
+to direct market to you, with your permission | We will need to use your contact information (e.g. your e-mail address, postal address, or telephone number) to provide you with information you have requested or which we feel may interest you. | It is in our legitimate interests to process personal information to develop, enhance, market and provide products and services to you.   
+to understand and analyse our sales, and your needs and preferences | We may use your information such as your geographic location, the benefits you look for in our products or services to help us conduct focused market research based on trends and common factors so that we can develop, enhance, market and provide, products and services to meet your needs. | It is in our legitimate interests to process personal information to develop, enhance, market and provide products and services to you.   
+to enable you to participate in promotions and competitions | We will need to use your contact information (e.g. your e-mail address, your telephone number, or postal address) to make sure you receive all the benefits that you are entitled to. | Using your personal information in this way is necessary for us to perform our statutory and /or contractual obligations to you.  
+to enable you to participate in our values related campaigns, petitions and activities | We will need to use your contact information (e.g. your e-mail address, your telephone number, or postal address) to record your participation in campaigns, petitions and activities. | It is in our legitimate interests to process personal information to record your participation in campaigns, petitions and activities.a  
+to enable you to participate in customer research or focus groups | We will need to use your personal information (e.g. your age, your gender, your geographic location) to help us conduct focused market research based on trends and common factors so that we can develop, enhance, market and provide products and services to meet your needs | It is in our legitimate interests to process personal information to develop, enhance, market and provide products and services to you.  
+to process exchanges or product returns | We will need to use your personal information to perform our obligations under a contract with you (e.g. where you have purchased a product from us and wish to receive an exchange or return). | Using your personal information in this way is necessary for us to perform our statutory and / or contractual obligations to you.  
+to gather feedback from you | We may collect your personal information when we gather feedback from you about our products, websites, mobile apps and other activities. | It is in our legitimate interests to process personal information to develop and enhance our products and services.  
+to respond to requests or complaints | We will need to use your personal information to respond to requests or complaints that you submit to us. | Using your personal information in this way is necessary for us to perform our statutory and / or contractual obligations to you.  
+to enable you to participate in our customer loyalty schemes and manage your membership  | We will need to use your contact information (e.g. your e-mail address, your telephone number, or postal address, date of birth) to make sure you receive all the benefits that you are entitled to as a member of our customer loyalty scheme (such as sending you a voucher on your birthday). | It is in our legitimate interests to process personal information to develop, enhance, market and provide products and services to you.  
+to develop products and services | We will use your personal information in the event that there are adverse reactions or innovations to our products. | It is in our legitimate interests to process personal information to develop our products and services.  
   
+4.2 Generally, we store your personal information for as long as necessary in order to maintain the customer relationship and to provide services to you. There are other reasons why your personal information may be retained for a longer period such as legal or regulatory reasons. However, if you opt in to receive marketing communications from us we will retain your personal information as long as necessary (for the purposes of direct marketing to you) unless you withdraw your consent to, or unsubscribe from marketing materials. If you would like to withdraw your consent or unsubscribe to marketing communications please contact us in the manner indicated in the relevant communication.
 
+4.3 We may disclose your personal information if we are required to do so by law or requirement of a competent authority. In addition, we may disclose your information in order to comply with regulatory obligations such as if you have an adverse reaction to our products.
 
-  * responding to your questions and requests; 
-  * providing you with access to certain areas and features of the Sites; 
-  * verifying your identity; 
-  * fulfilling product purchases; 
-  * communicating with you about your account and activities on the Sites
-  * sending notice of changes to any Thebodyshop-usa.com or The Body Shop policy; 
-  * tailoring content, advertisements, and offers we provide you; 
-  * improving the Sites and for internal business purposes; 
-  * allowing you to log in with a social media account and share activities on your social media pages, such as Facebook
-  * processing applications and transactions.
+#### **5.Sharing of your Personal Information**
 
+5.1 We may share your personal information with other companies within our Group (i.e. subsidiaries, affiliates and our franchisees and sub-franchisees). It may also be shared with a third party who acquires us, a member of our Group, or substantially all of our assets.
 
+5.2 We may use other carefully selected companies, agents, or contractors to perform services on our behalf or to assist us with the provision of services to you. We may also share your personal information with not-for-profit entities or our campaign partners for charitable purposes or petitions.
 
-Except as provided in this Privacy Policy and Cookie Notice, we will not provide any of your Personal Information to any third parties without your specific consent. We may share non-Personal Information, such as aggregate user statistics, demographic information, and Usage Information with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and Cookie Notice and in the following circumstances: 
+5.3 If you are an existing customer, we may share your personal information with carefully selected companies which perform marketing activities on our behalf for direct marketing purposes, as we have a legitimate interest in doing so.
 
-Third Parties Providing Services On Our Behalf. 
+5.4 If you do not want us to use your personal information for direct marketing purposes, or if you do not want us to pass your details on to third parties for direct marketing purposes, please advise us.
 
-We may share your Personal Information with third parties that perform functions on our behalf (or on behalf of our partners) such as service providers that host or operate our Sites, analyze data, process transactions and payments, fulfill orders or provide customer service; advertisers; sponsors or other third parties that participate in or administer our promotions, contests, sweepstakes, surveys or provide marketing or promotional assistance. Your Personal Information may also be used by us or shared with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties to provide you with product information and promotional and other offers to help maintain and operate the Sites or for other reasons related to the operation of our business, including but not limited to the fulfillment of purchases, promotional offers, and administering contests. 
+5.5 Each time we send you marketing communications, we will give you the option to unsubscribe by contacting us as set out in the relevant communication.
 
-Your Agreement To Have Your Personal Information Shared. 
+5.6 We may share your personal information with our subsidiaries, affiliates or to third parties established outside the UK and the European Economic Area, for the purposes of providing services to you or supporting our business operations. If we do transfer your personal information to these organisations, we will provide appropriate measures and controls to protect your personal information such as data transfer agreements based on the standard clauses published by the European Commission in accordance with applicable law.
 
-While on thebodyshop-usa.com Sites, you may have the opportunity to opt-in to receive information and/or marketing offers from someone else, or to otherwise consent to the sharing of your information with a third party, including social networking sites such as Facebook or Twitter. If you agree to have your Personal Information shared with a third party, your Personal Information will be disclosed to the third party subject to the privacy policy and business practices of that third party. 
+5.7 We will only use your personal information for a purpose that has been specified, as appropriate, prior to its use or where the processing of your personal information is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into a contract or processing is necessary for other legal purposes.
 
-If you connect your Facebook account to your thebodyshop-usa.com account, we will make available and/or share your Facebook user name and your Facebook profile picture to other users of thebodyshop-usa.com. Users may be able to view your profile and shopping activity on the The Body Shop Sites and your activities may be automatically shared to both your friends on Facebook and with your Facebook friends on the Sites. We will disclose your personal information when you have elected to share your activity to Facebook. Information shared to Facebook will be connected with the Facebook account you log in with. Facebook's use of such information and any information it collects from your use of or on its service is governed by Facebook's privacy policy and our use of information is governed by this Privacy Policy. You understand and agree that you need to consult both privacy policies to amend or delete personal information which has been provided to Facebook. If you do not wish for such use of data to take place, you should not agree to share your shopping activity to Facebook and/or adjust your settings to deactivate such sharing. You understand information no longer shared on Facebook may continue to be publicly available to other uses of this Site. 
+#### **6.How to withdraw your consent**
 
-Business Transfers. 
+6.1 At any time, you can withdraw your consent to the collection, use or disclosure, or otherwise processing of your personal information by (i) contacting us using the details set out at the end of this page, or (ii) writing to us in the prescribed manner (whether by email or post, or by text messaging etc.), as specified in our communications to you, or in relevant forms that you might have signed (e.g. for our customer loyalty scheme. If you have any concerns in relation to the unsubscribe functionality that we make available to you, please contact us using the details set out at the end of this page.
 
-We may share your Personal Information with other entities and our affiliates in the family of companies controlled by L'Oreal, S.A. for internal reasons, primarily for business and operational purposes. As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or our assets, or assets related to the Sites, Personal Information, Usage Information, and any other information that we have collected about the users of the Sites may be disclosed to such entity as one of the transferred assets. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties. 
+6.2 If you opted in to receiving marketing communications from us when you became a member of our loyalty scheme and choose to end your membership to such scheme, we will not take this to imply an automatic request to unsubscribe or withdraw your consent, and we will assume that we have your continued consent to direct market to you, unless you specifically unsubscribe or withdraw your consent from that loyalty scheme.
 
-Legal Disclosure. 
+#### **7.Accuracy of your Personal Information**
 
-Thebodyshop-usa.com may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier, (including IP address), to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our Terms of Use or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Sites or the public. 
+7.1 We keep personal information as accurate, complete and up-to-date as necessary, taking into account its use and the interests of our customers.
 
-YOUR PRIVACY RIGHTS, CHOICE AND ACCESS
+7.2 You are responsible for informing us about changes to your personal information and for ensuring that such information is accurate and current.
 
-You may direct us not to share your Personal Information with third parties, not to use your Personal Information to provide you with information or offers, or not to send you newsletters, e-mails or other communications by: (i) modifying your registered user information on the Sites; (ii) sending us an e-mail by [clicking here](https://help.thebodyshop-usa.com/us/contact) or by calling 1-800-BodyShop; or (iii) following the removal instructions in the communication that you receive. 
+#### **8.Your rights**
 
-If you wish to modify, verify, correct, delete, or update any of your Personal Information collected through the Sites, you may edit your profile preferences or contact us at the above address or e-mail, subject to applicable law. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Sites. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. 
+8.1 You have the right to:
 
-We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services [contact us here](https://help.thebodyshop-usa.com/us/contact) or by calling 1-800-BodyShop. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site. 
+(a) access your personal information
 
-ADVERTISING/TARGETED ADVERTISING; HOW TO OPT-OUT
+(b) request rectification of your personal information
 
-Thebodyshop-usa.com licenses technology to serve advertisements on its own Sites and within its content as that content is served across the Internet. In addition, thebodyshop-usa.com may use third party network advertisers to serve advertisements and third party analytics vendors to evaluate and provide us with information about the use of the Sites and viewing of our content. We do not share Personal Information with these third parties, but ad network providers, the advertisers, the sponsors, and/or analytics service providers may set and access their own cookies, pixel tags and similar technologies on your Device and they may otherwise collect or have access to information about you, including Usage Information. We and our network advertisers may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other web sites. We may use a variety of companies to serve advertisements. 
+(c) request portability of your personal information
 
-If you prefer to not receive targeted advertising, you can opt out of certain network advertising programs through the Network Advertising Initiative (NAI) Opt-Out Page: http://www.networkadvertising.org/managing/opt_out.asp. Please note that even if you choose to remove your information (opt out), you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies. 
+(d) request restriction of processing of your personal information
 
-CHILDREN
+(e) object to the processing of your personal information
 
-The Sites are not directed to children under 13. We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records. 
+(f) request erasure of your personal information and
 
-SECURITY OF YOUR INFORMATION
+(g) if you have provided your consent to the processing of your personal information, you have the right to withdrawn your consent at any time.
 
-Thebodyshop-usa.com maintains reasonable safeguards to protect Personal Information against loss, unauthorized use, disclosure or destruction and when transferring information for processing. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information to you transmit to us. Thebodyshop-usa.com restricts authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information. We also require that third parties providing services on our behalf protect Personal Information and not use it for purposes other than providing assistance to thebodyshop-usa.com. 
+8.2 If you believe that your rights have been breached or that your personal information has been compromised, you have the right to request that we remedy the situation. If you would like to exercise your rights, please contact us using the contact information below.
 
-OTHER SITES
+8.3 We commit to investigating all complaints and will take appropriate necessary measures to resolve matters of concern, including, if necessary, amending our policies and practices.
 
-The Sites may contain links to third party sites that are not owned or operated by thebodyshop-usa.com or affiliated companies. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co-branding or co-marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies or other tracking devices to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Sites (including those linked to through an email or social networking page). The Sites may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Policy and Cookie Notice. 
+8.4 If you do not receive a satisfactory answer from us, you have the right to make a complaint to the competent supervisory authority.
 
-CONSENT TO PROCESSING OF INFORMATION
+#### **9.CCTV**
 
-The Sites are governed by and operated in, and in accordance with the laws of, the United States, and are intended for the enjoyment of residents of the United States. Country or region specific web sites are available for our brands and products around the world. The Body Shop makes no representation that the Sites are governed by or operated in accordance with the laws of any other nation. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Sites, or providing us with any information, you (a) acknowledge that the Sites are subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws. 
+9.1 Please note that where CCTV is in operation in our stores you may be captured on CCTV and your image stored. All CCTV footage is captured purely for your security and for the prevention and detection of crime. If you would like to know more about this, please contact us using the details provided below.
 
-CHANGES AND POLICY UPDATES
+#### **10.Effective date and changes to this Privacy Notice**
 
-Please note, we may change information on the Sites and/or this Privacy Policy and Cookie Notice, at any time without prior notice to you, and any changes will be effective immediately upon the posting of the revised Privacy Policy and Cookie Notice on the Sites. We will use your Personal Information in a manner consistent with the Privacy Policy and Cookie Notice in effect at the time you submitted the information, unless you consent to the new or revised policy. We encourage you to periodically review this page for the latest information on our privacy practices. 
+10.1 This Privacy Notice was last updated on 1 January 2013 and revised on 18 May 2018.
 
-CONTACT US
+10.2 We reserve the right to change this Privacy Notice from time to time. If we decide to change this Privacy Notice, we will notify you of these changes by posting any changes on any relevant Internet pages.
 
-If you have any questions or concerns regarding this Privacy Policy and Cookie Notice, please contact us at: 
+10.3 If at any point we decide that we wish to use your personal information for any purpose other than, or in addition to the purpose(s) listed in this Privacy Notice or that stated at the time your personal information was collected (or a purpose compatible with the original purpose), we will notify you. To the extent that your consent is legally required we will only proceed with such use, if we receive your consent with respect to such additional purposes.
 
-  * Attn: The Body Shop, Legal Department, 606 West 28th Street, 5th Floor, New York, NY 10001
-  * Or send us an e-mail at <https://help.thebodyshop-usa.com/us/contact> with your request.
+#### **11.How do we keep your Personal Information secure?**
 
+11.1 We protect personal information against loss or theft, unauthorized access, disclosure, copying, use or modification with security safeguards appropriate to the sensitivity of the personal information, regardless of the format in which it is held
 
+11.2 We use various administrative, technical and physical methods to safeguard your personal information. They include:
+
+(a) physical measures: locked filing cabinets, restriction of access to offices, and company alarm systems.
+
+(b) technical tools: passwords and encryption, using generally industry best practices.
+
+(c) organizational controls: confidentiality agreements, limiting access on a need-to-know basis, staff training and security clearances.
+
+11.3 Online security is also a priority. We incorporate security measures such as encryption and authentication tools to protect your personal information from unauthorized use. Firewalls are utilized to protect our servers and network from unauthorized users accessing and tampering with files and other information that we store.
+
+11.4 We use Secure Sockets Layer (SSL) technology to protect your credit card information online.
+
+11.5 Payments made via our website and via our mobile app are processed in a secure environment using software provided by third party providers.
+
+11.6 The Body Shop, as a global retailer, has signed up to and aims to comply - to the extent relevant to its type of business - with the Payment Card Industry Data Security Standard (PCI DSS). For more details on PCI DSS please refer to: https://www.pcisecuritystandards.org/.
+
+#### **12.Matters specific to the Internet**
+
+12.1 Links to Other Websites
+
+(a) The Web Site or any of our various other web sites may contain links to other third party owned and operated web sites or internet resources. When you click on one of those links you are contacting another web site or internet resource. We have no responsibility or liability for or control over those other web sites or internet resources or their collection or processing of your personal information.
+
+(b) We encourage you to read the privacy policies of those other sites to learn how they collect and use information about you.
+
+12.2 Cookies and Web Beacons
+
+(a) Our web sites make use of cookies as well as web beacons.
+
+(b) Cookies are small text files generated when you visit our web sites or use our online services that reside on your computer and can uniquely identify your browser.
+
+(c) We use three types of Cookies:
+
+(i) a Session Cookie is used whilst you are viewing the web site and expire after you leave the web site.
+
+(ii) a Registration Cookie is a small file that is generated when you register (log on) onto the web site and remains on the computer you registered from and is used to recognise you when you register (log on) again to the web site using the same computer. We use cookies on our web site to allow you to set your individual preferences and to help us provide a better user experience.
+
+(iii) third-party cookies of suppliers who set their own cookies on our website with our permission to enhance customer experience and functionality and to deliver the services that they are providing. For more information about this type of cookie and the possibilities to opt-out or change your cookies settings, refer to their individual privacy policies here.
+
+(d) Cookies help us to study traffic patterns on our web site, store user preferences and track user trends on our web site, so that we can understand which parts of our web site are popular and make browsing an even more rewarding experience for our users. We may also use cookies when you register on-line for services or information.
+
+(e) You may choose to decline cookies if your browser permits, but doing so may affect your use of our web site, for example your ability to access certain features of the site or to engage in transactions and tailored advertising.
+
+(f) If you opt out of interest-based advertising cookies, you may still see advertising online but it will no longer be tailored to your interests.
+
+(g) Tracking tags/Beacons: Each web page in our web sites contains tracking beacons/tracking pixels that allow us to follow your progress through the various pages within the web site. This information is then aggregated (de-personalised) before being analysed.
+
+#### **13.Children**
+
+13.1 Unless otherwise indicated, our website and mobile app are not directed toward children. The products that we offer for sale on our website and mobile app are intended for purchase by adults only. We do not intentionally collect any personal information from children.
+
+#### **14.How to contact us**
+
+14.1 Questions, comments and feedback regarding The Body Shop International Limited Privacy Notice or the data collection practices outlined herein, are welcomed and should be addressed in the first instance to our customer care centre. Please contact us as follows:
+
+(a) By Email: [UKOnline.CareCentre@thebodyshop.com](mailto:UKOnline.CareCentre@thebodyshop.com?subject=Privacy%20Enquiry)
+
+(b) By Mail: Privacy Notice Enquiries, The Data Protection Officer, Legal Department, The Body Shop International Limited, Watersmead, Littlehampton, West Sussex, BN17 6LS.
+
+14.2 You are reminded not to send via unencrypted means (such as email) sensitive information such as passwords, credit card information etc.
