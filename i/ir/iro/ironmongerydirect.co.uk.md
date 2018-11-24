@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironmongerydirect.co.uk privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620130350id_/http%3A//www.ironmongerydirect.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironmongerydirect.co.uk privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124175925id_/http%3A//www.ironmongerydirect.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IronmongeryDirect
 
@@ -46,7 +46,7 @@ We review our retention periods for personal information on a regular basis. We 
 We will not sell or rent your information to third parties.  
 We will not share your information with third parties for marketing purposes without your explicit permission.
 
-Third-Party Service Providers working on our behalf: We may pass your information to our third-party service providers, agents, subcontractors and other associated organisations for the purposes of completing tasks and providing services to you on our behalf (for example delivering goods to you or satisfaction surveys).
+Third-Party Service Providers working on our behalf: We may pass your information to our third-party service providers, agents, subcontractors and other associated organisations for the purposes of completing tasks and providing services to you on our behalf (for example delivering goods to you, satisfaction surveys or collection of payment).
 
 However, when we use third-party service providers, we disclose only the personal information that is necessary to deliver the service and we have a contract in place that requires them to keep your information secure and not to use it for their own direct marketing purposes. Unless you have requested us to do so, or we are required to do so by law, for example, by a court order or for the purposes of prevention of fraud or other crime we will not release your information to third parties outside the Manutan Group for them to use for their own direct marketing purposes.
 
