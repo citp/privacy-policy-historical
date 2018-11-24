@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashleymadison.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622043129id_/https%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleymadison.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124155840id_/https%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.*
 
 # Ashley Madison® | Privacy Policy
 
@@ -171,7 +171,7 @@ This Privacy Policy is current as of the Effective Date set forth above. In the 
 
 Contact Us / Complaints
 
-If you have any questions related to the foregoing or any of the terms or conditions of this Privacy Policy, or if you wish complain to us in writing about how we have handled your personally identifiable information, please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b9c9cbd0cfd8dac0d6dfdfd0dadccbf9cbccdbc0d5d0dfdc97dad6d4). All other inquiries should be sent using our [Contact Us (https://www.ashleymadison.com/app/public/contactform.p)](https://www.ashleymadison.com/app/public/contactform.p) section.
+If you have any questions related to the foregoing or any of the terms or conditions of this Privacy Policy, or if you wish complain to us in writing about how we have handled your personally identifiable information, please feel free to contact us at [privacyofficer@rubylife.com](mailto:privacyofficer@rubylife.com). All other inquiries should be sent using our [Contact Us (https://www.ashleymadison.com/app/public/contactform.p)](https://www.ashleymadison.com/app/public/contactform.p) section.
 
 We aim to resolve all complaints promptly.
 
