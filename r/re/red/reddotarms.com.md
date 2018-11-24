@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reddotarms.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522065808id_/http%3A//www.reddotarms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reddotarms.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124212140id_/http%3A//www.reddotarms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
