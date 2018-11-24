@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivo.sx privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525132935id_/http%3A//vivo.sx/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivo.sx privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124114532id_/https%3A//vivo.sx/privacy) for the most accurate reproduction.*
 
 # vıvo | Privacy Policy
 
@@ -22,7 +22,7 @@ vıvo uses cookies for the users' comfort in order to save the browser settings 
 
 We have taken the appropriate security measures at the servers' physical location to protect from loss, incorrect usage, or change of information provided to us  
 by the users of the service. Files, saved for delivery can be accessible only to vıvo representatives or via a link provided to the recipient. All files saved by our service  
-are deleted after a certain time period of inactivity (typically 420 days without a single request of the file) if you do not delete them yourself. 
+are deleted after a certain time period of inactivity (typically 180 days without a single request of the file) if you do not delete them yourself. 
   * ### ● Advertisements
 
 Advertisements located on our website can be posted by third party advertisement company. These companies can use the information regarding your visits on these or other web pages (your name, address, e-mail, and phone number are excluded) to place an advertisement of products and services that might be interesting to you. 
