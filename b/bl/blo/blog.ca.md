@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blog.ca privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703204944id_/http%3A//www.blog.ca/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.ca privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124111918id_/http%3A//www.blog.ca/company/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - Blog.ca
 
@@ -32,7 +32,27 @@ We need the inventory data to manage the user accounts of our users; storing thi
 
 Our registered users receive an electronic newsletter sent to their e-mail address. These newsletters, which are published at reasonable intervals, contain editorial information involving our offers, topical advertising and similar material. Users may cancel receipt of the newsletter at any time.
 
-    * #### **b)** Utilisation Data / Utilisation Profiles / Cookies
+    * #### Cookies
+
+This website uses cookies. We use cookies to personalise content and ads.
+
+Cookies are small text files that can be used by websites to make a user’s experience more efficient.
+
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+
+Cookie declaration last updated on **04/05/2018** :
+
+ Cookie Name |  Origin |  Description  
+---|---|---  
+ PHPSESSID |  Wordpress |  The PHPSESSID cookie is native to PHP and enables websites to store serialised state data. It is used to establish a user session and to pass state data via a temporary cookie, which is commonly referred to as a session cookie. (expires when you close your browser)  
+ viewed_cookie_policy |  Wordpress |  Checking if you have accepted the cookie policy. (expires in 12 months)  
+  
+**How can i change my Cookies Preferences?**  
+You can alter how cookies are stored on your machine via your web-browser settings. You can set your browser to allow/block or disable cookies, but doing so may impact the your browsing experience and limit you from accessing areas of our site where cookies are required for pages to load tailored information.
+
+#### **b)** Utilisation Data / Utilisation Profiles / Cookies
 
 Generally, Internet users can visit our web pages at any time without providing any personal data. However, we do set up a so-called utilisation profile under a pseudonym whenever our websites are visited by registered users or other Internet users.
 
