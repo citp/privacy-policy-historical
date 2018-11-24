@@ -1,112 +1,81 @@
-> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321101526id_/http%3A//www.thatsmelbourne.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124013934id_/https%3A//whatson.melbourne.vic.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - City of Melbourne
 
-The City of Melbourne views the protection of your privacy as an integral part of its commitment towards complete accountability and integrity in all its activities and programs. 
+The City of Melbourne views the protection of your privacy as an integral part of its commitment towards complete accountability and integrity in all its activities and programs.
 
-The City of Melbourne operates this website under the domain name [thatsmelbourne.com.au](https://web.archive.org/). The purpose of this Website Privacy Statement is to explain how your personal information (being information capable of identifying you as an individual) will be treated as you access and interact with this website. 
+This privacy policy explains what information we collect, how we use it, and the choices available to you.
 
-You can access the What's On home page and browse the website anonymously, without disclosing your personal information.
+You can browse this website anonymously, without disclosing any personal information.
 
-## Collecting personal information
+## Personal information we collect
 
-The City of Melbourne will only collect personal information supplied by you to this web site when it is necessary to do so. The information will be collected and used for purposes including but not limited to the following:
+Personal information is information that can be used to identify you. You provide personal information to us in a number of ways, such as when you subscribe to a newsletter, create an account to submit content to this website, or contact us with an enquiry.
 
-  * to respond to any general enquiries you have contacted us about
-  * to provide you with newsletters/updates where you have subscribed to them
-  * to contact you in relation to any business listings/events you have listed on the site
-  * to contact you regarding any promotional opportunities for your business or event
-  * to promote your business or event on the City of Melbourne's websites or the websites of other organisations (such as Tourism Victoria)
-  * to email the last page you visited to a friend (if you request this action via an online form)
-  * photographs submitted with your business or event listing may also be used for promotional purposes by City of Melbourne marketing channels. This may include the newsletter, blog and social media. Please refer to our [photos and information privacy](https://web.archive.org/Pages/ListYourEventBusiness.aspx#privacy).
+The personal information we collect may include the following:
 
-
-
-## Social media collection statement
-
-If you use your Facebook, Twitter, or other social networking sites ("SNS") account information to log in and/or authenticate with a City of Melbourne ("CoM") website, we will collect and store a unique user ID provided by your SNS. 
-
-As a CoM website user, you can choose to log in and/or authenticate with a SNSs, such as Facebook. To do so, you must use your account credentials (typically username and password) for your SNS. Your SNS will provide CoM will a unique user ID which CoM can use to identify you on CoM websites. CoM will retain this user ID, keep it private and use it to identify you and enable your access to features on CoM websites. The City of Melbourne will not access or collect any information from your SNS profile.
-
-We encourage you to read the privacy policies and other statements of the SNSs you use.
-
-## Third parties
-
-Unless otherwise stated, the personal information which you provide for publication in an event or business listing will appear on the What's On website. It may also be disclosed to a City of Melbourne contracted service provider who has been engaged to maintain our What's On business and event listings. Further, it may also be provided to other event organisations, such as Tourism Victoria and the Australian Tourism Database.
-
-## Cookies
-
-A Cookie is a block of data that is shared between a web server and a user's browser. Cookies give the server information about a user's identify (or, at least, the computer's ID, or the client's ID), even if he or she is not the person actually using the computer at the time. 
-
-Cookies are used on this site, but they do not collect any personal information. For the most part they are sessional and just contain system-generated values to identify the user's session. 
-
-This website uses two persistent cookies:
-
-  1. to store the user's preference for viewing the web site in the regular or larger font size
-  2. to store the user's 'itinerary', a list of businesses and events they wish to attend
+  * email address
+  * phone number
+  * name
+  * postcode
+  * organisation
 
 
 
-Neither cookie will store personal or identifying information the user.
+## How we use your personal information
 
-## Google Analytics
+We will only collect personal information when it is necessary to do so. The information you provide will be used for purposes including (but not limited to): 
 
-In addition to web server logs, our website uses Google Analytics, a web analytics service provided by Google Inc. (Google). Reports obtained from Google Analytics are used to help improve the efficiency and usability of our website.
-
-Google Analytics uses cookies to help analyse how users use our website. The information generated by the cookie about this (including IP addresses) will be transmitted to and stored by Google on servers around the world.
-
-Google Analytics Advertising Features used include:
-
-  * Ad Words
-  * Remarketing with Google Analytics
-  * Google Analytics Demographics and Interest Reporting.
+  * responding to your enquiries
+  * sending you email newsletters that you have subscribed to
+  * contacting you in relation to a business or event you have listed on the site
+  * providing you with promotional opportunities for your business or event
+  * conducting surveys or research to improve our services
 
 
-
-Google will use this information for the purpose of evaluating the use of our website, compiling reports on website activity for site operators and providing other services related to website activity and internet usage. Google may transfer this information to third parties where required to do so by law, or where such third parties process information on Google’s behalf. Google will not associate user IP addresses with any other data held by Google.
-
-You can opt out of the collection of information via Google Analytics by downloading the [Google Analytics Opt-out browser add on](https://tools.google.com/dlpage/gaoptout/).
-
-## Web beacons
-
-Web beacons (also known as web bugs) are images, often embedded in code, that originate from a third party site to track visitor activities. The image is placed on many or all pages and is generally invisible to visitors, who are not able to view the underpinning code. The City of Melbourne does not use web beacons.
-
-## Clickstream data
-
-Clickstream data refers to visitor logs and statistics that provide useful information about users’ online experience without identifying individuals. We collect the following clickstream data for statistical and system administration purposes: 
-
-  * the time/date the page was accessed
-  * the user's external IP address
-  * the user name (but as the web site is configured for anonymous access, this is always blank)
-  * the user's browser and version
-  * the user's operating system, the address of each page on our site the user visits
-  * the address of the last page the user visited.
-
-
-
-To the extent that any clickstream data could make you identifiable, we will not attempt to identify you from the clickstream data unless required by law or to investigate improper activity in relation to this website.
 
 ## Disclosure of personal information
 
-The City of Melbourne will take all necessary measures to prevent unauthorised access to or disclosure of your personal information.
-
-External organisations to whom personal information is disclosed include Council’s service providers who perform various services for and on behalf of the Council. These contractors have agreed to be bound by the provisions of the _Privacy and Data Protection Act 2014_.
+We take all necessary measures to prevent unauthorised access to or disclosure of your personal information. Organisations to whom we disclose personal information include service providers contracted by the City of Melbourne. These providers are bound by the provisions of the Privacy and Data Protection Act 2014.
 
 The City of Melbourne will not disclose your personal information to other agencies and authorities unless required or authorised by law. We will not sell your details to another company, nor will we add your details to a mailing list without your consent.
 
-## Links to External Websites
+## Email marketing
 
-This Website Privacy Statement does not extend beyond this website. Where you choose to follow links which take you from our website to other websites, we recommend you read that website's privacy statement.
+## 
+
+If you subscribe to receive email communications from us and wish to unsubscribe, you can do so by using the unsubscribe link at the bottom of the email. You will not receive any further emails unless you re-subscribe.
+
+## Cookies and other technologies
+
+Cookies are data files that store information in your browser about the websites you visit. They can make your online experience easier by saving your preferences, and provide us with information about your interactions with our content.
+
+This website uses cookies and other technologies like pixel tags, to track website visitation via Google Analytics, and to present targeted advertising across the internet via Google, Facebook, Amnet and Exponential. No personal information is collected and you can delete or block cookies through your browser settings. You can opt out at any time by visiting [optout.aboutads.info](http://optout.aboutads.info/)
+
+To opt out of Google Analytics tracking, you can [download the browser plugin](https://tools.google.com/dlpage/gaoptout/).
+
+## Facebook Custom Audience ads
+
+We may use Facebook’s Custom Audiences to deliver advertisements to our subscribers on Facebook. Your personal information is not shared with Facebook; your email address is converted to a unique number that is matched with another unique number within Facebook. You can [opt out of Facebook Audience ads](http://www.aboutads.info/choices/).
+
+## Clickstream data
+
+Clickstream data provides useful information about how users access our website, without identifying individuals. We collect the following for statistical and administration purposes: 
+
+  * date and time of your visit
+  * your visited pages
+  * your operating system
+  * your IP address
+  * the browser you are using
+
+
+
+We will not attempt to identify individuals from the clickstream data unless required by law or to investigate improper activity in relation to this website.
+
+## Links to other websites
+
+This privacy policy does not apply to other websites we may link to. We recommend you read the privacy statement of any other websites you visit.
 
 ## More information
 
-If you have any other enquiries concerning Council's privacy procedures, please contact the Council's Privacy Officer at [privacy@melbourne.vic.gov.au](mailto:privacy@melbourne.vic.gov.au).
-
-Further information is also available about the City of Melbourne's [Information Privacy](http://www.melbourne.vic.gov.au/about-council/governance-transparency/policies-protocols/pages/information-privacy-policy.aspx "Information privacy policy").
-
-## See also
-
-  * [Copyright](https://web.archive.org/Pages/Copyright.aspx "Copyright")
-  * [Disclaimer](https://web.archive.org/Pages/Disclaimer.aspx "Disclaimer")
-
-
+If you have any enquiries about our privacy procedures, please contact our Privacy Officer at [privacy@melbourne.vic.gov.au](mailto:privacy@melbourne.vic.gov.au).
