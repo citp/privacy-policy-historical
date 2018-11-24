@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hpsbys.in privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501145846id_/http%3A//hpsbys.in/content/test) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpsbys.in privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124034909id_/http%3A//www.hpsbys.in/content/test) for the most accurate reproduction.*
 
 # Welcome :: Himachal Pradesh Swasthya Bima Yojana Society
 
 **Privacy Policy Statement**
 
-As a general rule, the web-portal [http://hpsbys.in](http://hpsbys.in/) does not collect personal information about the visitor when users visit the portal. You can visit the portal without revealing personal information, unless you chose to provide such information.
+As a general rule, the web-portal [http://hpsbys.in](http://hpsbys.in/) does not collect personal information about the visitor when users visit the portal. You can visit the portal without revealing personal information, unless you chose to provide such information.
 
 Even in cases like Feedback form, your email address will only be recorded for the purpose for which you have provided it and will not be added to a mailing list. You email address will not be used for any other purpose, and will not be disclosed, without your consent.
 
@@ -18,4 +18,4 @@ Please notify the webmaster through the Contact Us page if you feel that the pri
 
 **Copyright Statement**
 
-Material published on the website [http://hpsbys.in ](http://hpsbys.in/)may be reproduced free of charge in any format or media with the permission of the concerned owner organization. This is subject to the material being reproduced accurately and not being used in a derogatory manner or in a misleading context. Where the material is being published or issued to others, the source must be prominently acknowledged. However, the permission to reproduce this material does not extend automatically to any such material on this website, which is explicitly identified as being the copyright of other organization. Authorization to reproduce such material must be obtained from the copyright holders concerned.
+Material published on the website [http://hpsbys.in ](http://hpsbys.in/)may be reproduced free of charge in any format or media with the permission of the concerned owner organization. This is subject to the material being reproduced accurately and not being used in a derogatory manner or in a misleading context. Where the material is being published or issued to others, the source must be prominently acknowledged. However, the permission to reproduce this material does not extend automatically to any such material on this website, which is explicitly identified as being the copyright of other organization. Authorization to reproduce such material must be obtained from the copyright holders concerned.
