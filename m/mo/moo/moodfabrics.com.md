@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moodfabrics.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122195604id_/https%3A//www.moodfabrics.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moodfabrics.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124192030id_/https%3A//www.moodfabrics.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -53,11 +53,7 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Customer Service Hours: 
-
-**Monday - Friday:** 9am - 6pm EST
-
-.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to MoodFabrics.com 800 Eastern Ave Carlstadt, NJ 07072.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
