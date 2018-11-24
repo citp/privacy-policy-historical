@@ -1,228 +1,232 @@
-> *The following text is extracted and transformed from the academy.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006200852id_/https%3A//academy.custhelp.com/app/answers/detail/a_id/649/kw/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academy.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124141622id_/https%3A//academy.custhelp.com/app/answers/detail/a_id/649/kw/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Table of Contents
+Academy Sports + Outdoors strives to MAKE IT EASIER FOR EVERYONE TO ENJOY MORE SPORTS AND OUTDOORS® and part of that objective is to provide you a great shopping experience and deliver value on our assortment of products and services.  Information you share with Academy Sports + Outdoors allows us to optimize your shopping experience and to ensure that we are delivering value to all our customers throughout our assortment of products and services.
 
   
-[Introduction](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Introduction)  
-1.  [How Academy Collects Personal Information/Categories of Personal Information Collected](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518548)  
-2.  [Additional Information Collection/Cookies, and Online Tools](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518549)  
-3.  [Advertising, Analytics, and Online Tracking](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518550)  
-4.  [Your Account](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518551)  
-5.  [How Academy Uses Your Personal Information](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518552)  
-6.  [How Academy Shares Information](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518553)  
-7.  [How Academy Secures and Protects Your Information](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518554)  
-8.  [How Academy Treats Your E-mail, SMS Text, and Postal Communications](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518555)  
-9.  [Children's _Privacy_](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518556)  
-10.  [California Minors](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518557)  
-11.  [Your California _Privacy_ Rights](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518558)  
-12.  [Social Media](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518559)  
-13.  [Legally Required Disclosures](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518560)  
-14.  [Other Websites](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518561)  
-15.  [Updates to _Privacy_ Policy](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518562)  
-16.  [Additional Rights](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518563)  
-17.  [EXCLUSIONS AND LIMITATIONS; CONSUMER PROTECTION NOTICE](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518564)  
-18.  [Questions](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518565)  
+This **_Privacy_** **Policy** (this "Policy") provides you with information related to how Academy, Ltd., d/b/a Academy Sports + Outdoors and its subsidiaries and affiliates (collectively "Academy," "we," "us," or "our") collect, use, protect, and disclose your personal information (including name, address, e-mail address, telephone number, payment card information, and other information which alone or in combination could be used to identify you (also sometimes referred to as “individually identifiable information”)) and non-personal information (defined as information that excludes your name, address, email address, and other individually identifiable information).  Academy operates [academy.com](http://academy.com/) and [academy.custhelp.com](http://academy.custhelp.com/). Academy may also operate other websites from time to time for purposes like surveys, marketing, or promotions (e.g., academysurvey.com). These websites are collectively referred to in this Policy as our "Websites."
 
-
-* * *
-
-Introduction
-
-This _Privacy_ Policy (this "Policy") provides you with information related to how Academy, Ltd., d/b/a Academy Sports + Outdoors, and its subsidiaries and affiliates (collectively "Academy," "we," "us," or "our"), collects, uses, protects, and discloses your personal information and non-personal information that is made available to Academy through various means, including information you provide to Academy when visiting one of our retail locations, when using our websites or websites that may be operated on our behalf by our partners and service providers, and information we receive electronically from your device and from other sources, including other websites, browsers, survey responses, marketing or research institutes and the like. Academy operates academy.com and academy.custhelp.com, but may also from time to time operate other websites for limited purposes such as surveys or promotions (for example, academysurvey.com). These websites are collectively referred to in this Policy as our "Websites".
-
-Academy is committed to treating your personal information (such as name, address, e-mail address, telephone number, and payment card information) with certain care. Academy does not share customer personal information (including e-mail addresses) outside of our subsidiaries and affiliates other than as set forth in this Policy.
-
-At Academy, we strive to limit access to your personal information to only those persons and individuals who use it for the purposes set forth in this Policy. Any third parties to whom we provide personal information as set forth in this Policy are required to keep that information secure and confidential.
-
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
+Academy is committed to treating your personal information  with appropriate care and in compliance with applicable law. Academy limits access to your personal information only to partners who use it for the purposes described in this Policy. Academy’s partners with whom we share your personal information in connection with our business (“Partners”) are required to safeguard it by appropriate means and to use your personal information only as authorized by Academy pursuant to this Policy. 
 
  
 
 * * *
 
-**1.** **How Academy Collects Personal Information/Categories of Personal Information Collected**
+**2.** **How Academy Collects Personal Information/Categories of Personal Information Collected**
 
-Academy may receive information from its customers and Site visitors in several ways, including information submitted on our Websites or in our stores, and information collected by our partners or service providers. For example, you may choose to participate in a survey that requests certain transaction information (such as information from a store receipt) as well as your survey responses.
+Academy receives information from you in several ways, including when you visit our Digital Platforms (including our Websites and any applications or digital interfaces we may provide), when you visit our stores, and information received by our Partners. When you interact with us digitally or visit our stores, we may ask you to provide personal information to us so that we may (a) provide you with the products, services, or information that you have requested, (b) provide you with further communications, or (c) carry out this Policy. For example, we may receive personal information from you when you:
 
-When you visit one of our Websites or stores, we may ask you for personal information so that we can provide you with the products, services, or information that you have requested and so that we may provide you with further communications and carry out the functions described in this Policy. For example, we may request and receive personal information from you when you:
-
-  * apply for a job;
-  * apply for credit;
-  * register for and use an online account with us (for example, your name, gender, telephone number and e-mail address);
+  * apply for a job with Academy;
+  * apply for credit in connection with Academy;
+  * register for and use an online account with us;
   * place an order with us, or request that an item be shipped to you or someone else (for example, information necessary to process and fulfill your order, including your name, shipping and billing addresses, e-mail address, and credit card or other payment-related information);
-  * request information from us (for example, your request and information we need to respond to your inquiry);
-  * express an opinion in an online forum, respond to user polls, or enter any contests;
-  * complete a survey about Academy or any of the products it offers; or
-  * communicate with us in person, via e-mail, phone, or using available online tools.
+  * request information from us about our products or services;
+  * express an opinion in an online forum, submit a product review, respond to user polls, or enter any sweepstakes or contests;
+  * connect with us via social media;
+  * complete a survey conducted by or on behalf of Academy; or
+  * communicate with us in person, by phone, or with digital tools.
 
 
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
-
-* * *
-
-**2.** **Additional Information Collection/Cookies, and Online Tools**
-
-Academy uses technology used by many major websites to gather information about devices used to access our Websites. This may include a 'device's IP address, browser, domain and operating system information., This technology may also provide information about other pages accessed from or viewed from the device, and identification or verification information provided to our Site by such devices. This information can be obtained through the use of commonly used or standard data collection tools such as web server logs and cookies, as well as from the use of digital identification tools. Cookies are pieces of information that our Websites or other websites may transfer to your computer. Such information is helpful in enabling Academy and our partners and service providers to enhance your shopping experience and tailor our Websites and messages to your needs and preferences Server logs, digital identification tools and cookies also assist us by identifying the types of browsers and operating systems used most by visitors to our Websites, information about the applications or programs used by such systems. Collectively, these technologies provide us with information such as how visitors found our Website(s) (for example, via a search engine, directory, other website, etc.) and move through our Websites, as well as information about website usage and browsing history. All of this information enables us to improve our Websites and tailor them to individual Website visitor needs and preferences.
-
-At any time, you can disable the use of cookies in your browser and still have access to most of the information on most of our Websites. However, some features and functionalities may not work if you disable cookies. For example, you may not be able to access your account information (although you will still be able to call or e-mail us), receive customized content, participate in certain surveys or forums, or make purchases through our Websites
-
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
 
 * * *
 
-**3.** **Advertising, Analytics, and Online Tracking**
+**3.** **Additional Information Collection/Cookies, and Online Tools**
 
-Academy may use third-party advertising and analytics service providers to serve ads to you when you visit certain of our Websites or other websites (including on social media), and to analyze the use of our Websites and the effectiveness of our marketing efforts. These service providers may collect non-identifiable information about your visits to our Website, and your interactions with our products, services, and your reaction to our marketing communications (such as what you do when you receive a marketing communication from us). Such non-identifiable information does not include your name, address, e-mail address or other personal information.
+Academy uses generally available technology, such as web server logs, cookies, web beacons, other digital identification tools, and tracking technologies (collectively, “Technology”), to receive information about how users access our Websites or otherwise interact with us digitally. For example, Academy uses Technology to receive information about how users found our Website(s) and navigate and use our Websites. All of this information enables us to improve your digital experience. 
 
-Academy and our service providers may collect personally identifiable information about your online activities over time and across third-party websites or online services, and third parties may similarly collect such information, including when you visit our Websites. Our Websites currently do not respond to web-browser "do-not-track" or other similar mechanisms. Please note that not all tracking will stop even if you delete cookies.
+Technology also helps Academy and its Partners to enhance and personalize your shopping experience and our communications with you. Information received by Academy includes your device's IP address, physical location, browser, domain, or operating system, the address of a referring website, the path you take through our Websites, browsing history and other information about your time interacting with us digitally. 
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
+Web browsers and applications you use to interact with us digitally may contain _privacy_ features that may allow you to disable or otherwise manage the use of cookies and other Technology. Enabling _privacy_ features may permit you to access most information on our Digital Platforms, but you may not be able to take full advantage of certain aspects of our Digital Platforms. You may still call or e-mail us if you are unable to access certain functionalities via our Digital Platforms. 
 
-* * *
+Visit [allaboutcookies.org](http://allaboutcookies.org/) to learn more. 
 
-**4.** **Your Account**
-
-If you set up an account for use on one of our Websites, we will collect information from you as necessary to support your use of the account and to process transactions you make using the account. In addition, when you create an account, you will be required to provide your e-mail address and create a password. It is your responsibility to maintain the confidentiality and security of your e-mail address and password. In the event your password is lost or stolen it is your responsibility to notify us by contacting [Customer Care](https://academy.custhelp.com/). You remain responsible for all actions taken using your account until you provide us with such notice and we have a reasonable opportunity to deactivate your account.
-
-You may review the personal information that Academy has about you and change it by making a request to [Customer Care](https://academy.custhelp.com/)[.](https://academy.custhelp.com/)
-
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
 
 * * *
 
-**5.** **How Academy Uses Your Personal Information**
+**4.** **Advertising, Analytics, and Online Tracking**
 
-We use your personal information to fulfill your requests or satisfy any other purpose for which you provided information to us. We also use that information to: perform our everyday business; identify fraud; perform legal compliance operations; provide you with notices; analyze the quality of our products and services; analyze the usage and effectiveness of our marketing efforts; and provide you with advertising, content, and marketing that we believe may be of interest to you (including advertisements that may be served to you elsewhere on the Internet).
+Academy may use Partners for advertising and analysis, including interest-based advertising (IBA) (also known as Online Behavioral Advertising). Interest-based advertising is tailored to your interests and appears on our Websites, in emails or other communications from Academy and its Partners, and on other websites (including on social media). 
 
-Academy also may combine your information with other information to create aggregate or summary reports, and we may provide data in aggregate form to other parties for marketing, advertising, and other purposes. If Academy provides information to non-affiliates in aggregate form, we will not disclose any personal information concerning specific customers. We may also use and disclose information gathered through our Websites for research and analytics purposes, as well as to help detect fraud, or, in the case of surveys you fill out through one of our Websites, to help detect other inappropriate survey responses.
+Our Partners may use Technology to receive both personal and non-personal information about your digital experience with Academy. 
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
+The information received by Academy and Academy’s Partners based upon your digital activities may be supplemented with information from other sources so that we can improve your shopping experience. 
 
-* * *
+Academy and its Partners may also receive personal information about your digital activities over time and across third party websites or online services. Third parties may employ their own Technology in order to similarly receive such information, including when you visit our Websites and Digital Platforms. This Policy does not apply to, and we are not responsible for, tracking technologies used by a non-Partner third party. 
 
-**6.** **How Academy Shares Information**
-
-In order to operate our Websites and our retail stores, and provide you with the products and services you have requested, as well as ads and information that we believe may be of interest to you, we occasionally need to share information with third parties and with our subsidiaries and affiliates. We may share your information within our family of companies, including with subsidiaries and affiliates to allow uses of that information that are described in this Policy. For example, we may transmit your personal information to third-party service providers who assist us in processing orders and payments, shipping products, sending catalogs, performing surveys, conducting sweepstakes, processing job applications, sending e-mails and newsletters. Additionally, we transmit personal information to third-party credit card providers to help them decide whether to extend credit to a customer. We have agreements with these third-party service providers directing them to protect your _privacy_ by implementing similar security measures to those we employ and using your information only as authorized by Academy. In addition to our service providers, we also may provide information (for example, postal addresses, e-mail address, and telephone numbers) to certain outside companies and marketing partners so they can let you know about products or services that might be of interest. If you do not wish to receive such contact, please contact [Customer Care](https://academy.custhelp.com/)[.](https://academy.custhelp.com/)
-
-We may also share your information upon your request, or when we believe it is permitted or required by law, or, in connection with a business acquisition of an Academy entity or one of our service providers, your information held by that entity may be transferred to an acquiring entity.
-
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
 
 * * *
 
-**7.** **How Academy Secures and Protects Your Information**
+**5.**   **Opting Out of Interest-Based Advertising**
 
-Academy takes information security very seriously, and protecting your personal information is an important priority. When you place an order through one of our Websites, we use several physical, electronic, and procedural safeguards designed to help make your information secure. For example, we may employ such industry-standard technology such as Secure Sockets Layer (SSL) and encryption technology that works with all Internet browsers to provide a recognized high-level of security for online transactions. However, no data transmission over the Internet can be guaranteed to be 100% secure.
+You may opt out of Interest-Based Advertising from Academy at any time. 
 
-Academy also has satisfied its requirements under the Payment Card Industry (" **PCI** ") security standards, which protects your credit card information by ensuring that it is processed, stored, and transmitted in a secure manner. We use your personal information to fulfill your orders and requests, and we do not retain your credit card information. We currently use a third-party processor for credit card information, so you provide your information directly to that processor, not to us.
+In order to successfully opt out, you must have cookies enabled in your web browser. If you use multiple computers or multiple web browsers, you must opt out on each one (your opt out choice will not be automatically applied from one browser to another or from one computer to another). Please note that merely deleting cookies is not an opt-out. **If, after opting out, you delete your browser’s saved cookies, your opt out preferences will be deleted and you will need to opt out again.**
 
-If you are still unsure about the security of your information traveling across the Internet, you can place an order with us by calling Customer Care toll-free at 1-888-922-2336, between 7:00 a.m. and 12:00 a.m. Central Time.
+Mechanisms for opting-out of Interest-Based Advertising from Academy include:
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
+  * Some of our Partners may be members of the Network Advertising Initiative (NAI) or participate in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program. Thus, to opt out of interest-based advertising on our Websites or on other websites that are part of NAI or DAA, please visit the NAI website at this [link](https://optout.networkadvertising.org/) or the DAA website at this [link](https://optout.aboutads.info/)
+  * Third party websites, such as social media sites, offer their own opt out methods. Please refer to the website that you are visiting for additional information.
+  * Some internet browsers offer their own opt-out mechanisms (including “do-not-track” mechanisms) for interest-based advertising. However, our Digital Platforms and/or our Partners may not recognize these opt-outs.
+  * Some mobile devices offer their own opt-outs for Interest-Based Advertising. Please see your mobile device settings and/or consult the published product information for additional information.
+
+
+
+Please note that if you choose to opt out of interest-based advertising, you may still see or receive Academy advertisements, however, such advertisements will not be based upon your preferences or browsing history. 
+
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
 
 * * *
 
-**8.** **How Academy Treats Your E-mail, SMS Text, and Postal Communications**
+**6.** **Your Account**
 
-When visiting Academy's retail stores or our Websites, you may provide personal information and choose to receive e-mail and/or SMS text updates, invitations, product announcements, or other information from us. We may use a third-party e-mail or SMS text service provider to send e-mail or SMS text communications from Academy about our products and services. Academy requires its third-party service providers to use your personal information only for e-mail or SMS text services requested by Academy and to keep your information secure and confidential. At any time, you can choose to remove your name from our e-mail or SMS list text by:
+If you set up an account on one of our Digital Platforms, we will receive information from you to support your use of the account and to process transactions you make using the account. When you create an account, you must provide your e-mail address and create a password. You are responsible for securing your credentials used to access the account. If your password is lost or stolen, you are responsible for notifying us by contacting [Customer Care](https://academy.custhelp.com/). You remain responsible for all actions taken using your account until you notify us of the lost or stolen password and we have a reasonable opportunity to deactivate your account.
 
-  * using the Unsubscribe link at the bottom of each e-mail sent by Academy;
-  * using our online form;
-  * sending a "stop" message to 22369 to unsubscribe from SMS text messaging; or
+If you wish to know more information about your Academy account, you can contact [Customer Care](https://academy.custhelp.com/)[.](https://academy.custhelp.com/)
+
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+
+* * *
+
+**7.** **How Academy Uses Your Personal Information**
+
+We use and disclose your individually identifiable information to fulfill your requests, to conduct transactions with you, and for any other purpose for which you provided information to us (in any format and at any time). We also use that information to: (a) perform our everyday business; (b) identify fraud; (c) perform legal compliance operations; (d) provide you with notices; (e) analyze the quality of our products and services; (f) analyze the usage and effectiveness of our marketing efforts; (g) provide you with advertising, content, and marketing that we believe may be of interest to you (including advertisements that may be served to you elsewhere on the Internet); and (h) analyzing survey responses.
+
+Academy may combine your information with information of other individuals and information from other sources. 
+
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+
+* * *
+
+**8.** **How Academy Shares Information**
+
+In order to operate our Digital Platforms and our retail stores, and provide you with the products and services you request, as well as ads and information that we believe may be of interest to you, we occasionally need to share information with Partners. For example, we may transmit your personal information to Partners who assist us in processing orders and payments, shipping products, sending catalogs, performing surveys, conducting sweepstakes, processing job applications, or sending e-mails and newsletters. We may also share information provided to us within our family of companies, including with subsidiaries and affiliates to allow uses of that information that are described in this Policy. Academy may provide your information in aggregated form (not identifying specific customers) to Partners for marketing, advertising, and other everyday business purposes. In addition, we may provide information (for example, postal addresses, e-mail address, and telephone numbers) to Partners for them to communicate with you about products or services.
+
+Additionally, we transmit personal information to third party credit card issuers to facilitate their decision whether to extend credit. We have agreements with these credit card issuers Partners requiring them to protect your _privacy_ by implementing appropriate security measures and using your information only as authorized by Academy. If you do not wish to receive these communications from Academy’s Partners, please contact Academy’s [Customer Care](https://academy.custhelp.com/)[.](https://academy.custhelp.com/)
+
+We may also share your information upon your request, when we believe it is permitted or required by law, or in connection with a business acquisition of an Academy entity or one of our service providers (i.e. your information may be transferred to an acquiring entity).
+
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+
+* * *
+
+**9.** **How Academy Secures and Protects Your Information**
+
+Academy takes information security seriously, and protecting your personal information is an important priority to us. When you place an order through one of our Digital Platforms, we use appropriate physical, electronic, and procedural safeguards to help secure your information. You are responsible for any security measures on the device or application you use to access Academy’s Digital Platforms. However, no data transmission over the Internet can be guaranteed to be 100% secure regardless of the security measures employed by Academy or you. 
+
+Academy satisfies the Payment Card Industry (" **PCI** ") security standards and requirements, which protect your credit card information by ensuring that it is processed, stored, and transmitted in a secure manner. We use your personal information to fulfill your orders and requests. We use a third-party processor for credit card transactions. Your credit card information is sent directly to that processor without being stored on Academy systems.
+
+In addition to using our Websites to place an order, you may place an order with us by calling Customer Care toll-free at 1-888-922-2336, between 7:00 a.m. and 12:00 a.m. Central Time.
+
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+
+* * *
+
+**10.** **How Academy Treats Your E-mail, SMS Text, and Postal Communications**
+
+When visiting Academy's retail stores or Digital Platforms, you may provide personal information and choose to receive e-mail and/or SMS text updates, invitations, product announcements, or other information from us. We may use a Partner’s e-mail, SMS, or other text message service provider to send communications from Academy about our products and services. Academy requires such Partners to use your personal information only for e-mail, SMS, or other text message services requested by Academy and to keep your information secure and confidential. At any time, you can choose to remove your name from our e-mail or SMS list text by:
+
+  * using the Unsubscribe link at the bottom of each e-mail, SMS, or other text message sent from Academy;
+  * using our online form; 
+  * for SMS text messaging, sending a "stop" message to the text number provided to unsubscribe; or
   * contacting Customer Care at 1-888-922-2336.
 
 
 
-  
-Please note that we will separately obtain express or implied consent from you before contacting you whenever we are required to do so by law (such as the Canadian "anti-spam" law or the Telephone Consumer Protection Act). If you sign up for our mobile offers, our terms and conditions, including disclosures of dialing technology and that consent is not a requirement for purchase, are provided with any invitation to register.
+We will obtain a separate consent from you before contacting you when we are required to do so by law (such as the Canadian "anti-spam" law or the Telephone Consumer Protection Act). If you sign up for mobile offers, our terms and conditions, including disclosures of dialing technology and a notice that consent is not a requirement for purchase, are provided with any invitation to register.
 
-If you provide us with your postal address while in one of our stores, on our Websites, or through other means, you may receive periodic advertisements, circulars, or other promotional materials from us. If you do not wish to receive postal mailings from Academy, or third-party organizations, please notify Academy by using our Online Form. Please provide us with your name and postal address, and identify which lists you wish to be removed from, so that we can be sure your information is deleted from the appropriate mailing lists.
+If you provide us with your postal address, you may receive periodic advertisements or promotional materials from us. If you do not wish to receive postal mailings from Academy or its Partners, please notify Academy by contacting Customer Care at 1-888-922-2336. Please provide us with your name and postal address and identify which lists you wish to be removed from when submitting your request for removal.
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
-
-* * *
-
-**9.** **Children's _Privacy_**
-
-Consistent with the Children's Online _Privacy_ Protection Act of 1998, Academy does not knowingly collect personally identifiable information of children under the age of thirteen (13). You may not use our Websites or provide information to us if you are under the age of 13. If Academy becomes aware that information has been collected about a person under the age of 13, we will remove and permanently delete that information as soon as reasonably possible. If you are a parent or guardian who believes that your minor child under the age of 13 has submitted personal information or other information to us, please contact [Customer Care](https://academy.custhelp.com/)[.](https://academy.custhelp.com/) Once we verify that you are the parent or legal guardian, we will cooperate with you to discuss what, if any, personal information we have collected about your child and how that information may have been shared or used.
-
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
 
 * * *
 
-**10.** **California Minors**
+**11.** **Children's _Privacy_**
 
-If a California resident who is under 18 chooses to express an opinion in an online forum or otherwise post information for others to view on our Website, those opinions and information can always be removed by the minor who posted them by simply following the instructions posted on the forum. Note that deleting your own content does not completely or comprehensively remove the opinions and information because third parties may have made copies and/or posted them elsewhere.
+Academy complies with the Children's Online **_Privacy_** Protection Act of 1998. Academy does not knowingly collect personally identifiable information of children under the age of thirteen (13) . If you are under the age of thirteen (13), you may not use our Digital Platforms or provide any information to us. If Academy becomes aware that information has been received about a person under the age of thirteen (13), Academy will work to remove and permanently delete that information to the extent reasonably and commercially possible. If you are a parent or guardian who believes that your child under the age of thirteen (13) has submitted information to us, please contact [Customer Care](https://academy.custhelp.com/)[.](https://academy.custhelp.com/) If we verify that you are the parent or legal guardian, we will coordinate with you to discuss any personal information actually received from your child and how that personal information may have been shared or used.
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
-
-* * *
-
-**11.** **Your California _Privacy_ Rights**
-
-California Civil Code Section 1798.83 permits Website visitors who are California residents to request that we not share your personally identifiable information with third parties if we know or have reason to know that the third parties use the personally identifiable information for the third parties' direct marketing purposes. For their protection, we exercise this right on behalf of our California customers and require third parties hired by Academy to keep all personally identifiable information related to California customers secure and to not permit any use of personally identifiable information for direct marketing or any other purposes not authorized by Academy.
-
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
 
 * * *
 
-**12.** **Social Media**
+**12.** **California Minors**
 
-Academy maintains social media pages and accounts (including through Facebook, Twitter, Pinterest, YouTube, SnapChat, and Instagram). Actions you take in connection with social media pages may be reflected in a manner visible to others; for example, if you "Like" us on Facebook or post a comment, others may be able to see that you have done so. The collection and use of information on any of our social media pages is governed by the _privacy_ policy of the applicable social media website or service.
+If a California resident under the age of eighteen (18) chooses to express an opinion or post information for others to view on our Digital Platforms, those opinions and information may be removed by the poster by following the instructions posted on the Website. Deleting your content from our Website does not delete copies made by third parties, including reposts of your content on other websites and in social media.
 
-We may receive personal information from a social media page when you connect through a social media feed, post content, or otherwise interact with us using social media tools. For example, we may receive basic Facebook account information through our Facebook Page(s). Also, when you "like," "subscribe to," or send a "tweet" to us through social media, we may receive your username, handle, and any other available personal information from the social media website. All information received from social media websites may be used by us in the same manner and for the same purposes as described in this Policy with respect to similar information we obtain through our Website, including to allow us to send and tailor messages that we believe may be of interest to you. We may use certain custom audience tools to display interest-based content or ads to you while you are using social media.
-
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
 
 * * *
 
-**13.** **Legally Required Disclosures**
+**13.** **Your California _Privacy_ Rights**
 
-If Academy receives a subpoena, court order, or other legal process requesting your personal information, Academy may, in its sole discretion, disclose your personal information pursuant to such legal process without providing any notice to you.
+California Civil Code Section 1798.83 (2003) permits Website users who are California residents to request that we not share their personally identifiable information with any third parties if we know or have reason to know that the third parties use the personally identifiable information for the third parties' direct marketing purposes. If you are a California resident and would like Academy to exercise this right on your behalf, please contact Customer Care at Customer Care at 1-888-922-2336. Upon receipt of a such a request from you, we will require any third parties hired by Academy to keep all personally identifiable information related to you secure and to not permit any use of personally identifiable information for direct marketing or any other purposes not authorized by Academy.
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
-
-* * *
-
-**14.** **Other Websites**
-
-Our Websites may contain links to other websites that are not under our control, and conversely, other websites that are not under our control may contain links to our Websites. Those websites have their own policies regarding _privacy_ and security, and we encourage you to review such policies while visiting each website. Academy is not responsible for the _privacy_ practices, security, or content of linked websites. Academy provides these links solely for the convenience of our customers and Website visitors.
-
-[SEE SECTION 17 BELOW FOR IMPORTANT LIMITATIONS ON THE TERMS OF THIS SECTION 14.](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#_Toc453518564)
-
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
 
 * * *
 
-**15.** **Updates to _Privacy_ Policy**
+**14.** **Social Media**
 
-Academy reserves the right to change, supplement or update this Policy. We will alert you to these changes by noting the date that this Policy was last updated at the beginning of the Policy. It is your responsibility to check this Policy each time you use our Websites, so that you can take note of any change, supplement or update we may make.Any changes will apply prospectively and be effective only after the effective date of the change and will not affect any dispute arising prior to the effective date of the change. We encourage you to review this Policy from time to time to make sure that you understand how Academy may gather, secure, use, and share your personal information. Your continued use of our Websites and patronage of Academy's retail stores constitutes your agreement to and acceptance of the Policy and any changes to it.
+Academy maintains a social media presence in various forms (including Facebook, Twitter, Pinterest, YouTube, Snapchat, and Instagram). Collection and use of information on any social media website, application, or service associated with Academy is governed by the _privacy_ policy of, and affected by the _privacy_ settings of, the applicable social media website, application, or service. You are responsible for reviewing and understanding the _privacy_ policy and _privacy_ settings of the relevant social media website, application, or service.
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
+We may receive your personal information when you connect to a social media feed, post content in social media, or otherwise interact with us using social media. When you "like," "subscribe," or send or post a message to us through social media, we may receive your username, alias, handle, location, and any other personal information available from social media. Actions you take in connection with any social media associated with Academy may be visible to others. 
 
-* * *
+Any information received from social media may be used by us in a manner similar to comparable information we obtain through our Digital Platforms. Academy may use Technology to display interest-based content or ads to you while you are using social media and may send or tailor messages that we believe may be of interest to you based on the information received by us from social media.
 
-**16.** **Additional Rights**
-
-Applicable laws may give you additional rights that are not described in this Policy.
-
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
 
 * * *
 
-**17.** **EXCLUSIONS AND LIMITATIONS; CONSUMER PROTECTION NOTICE**
+**15.** **Legally Required Disclosures**
 
-If you are a consumer, the provisions in this Policy are intended to be only as broad and inclusive as is permitted by the laws of your State of residence. If you are a New Jersey consumer, the terms of Section 14 do not limit or waive your rights as a consumer under New Jersey law and the provisions in this Policy are intended to be only as broad and inclusive as is permitted by the laws of the State of New Jersey. In any event, Academy reserves all rights, defenses and permissible limitations under the law of your State of residence.
+Academy may disclose your personal information (sometimes without providing notice to you) in special circumstances, such as when the disclosure is required by a competent legal authority or when we believe sharing information will assist in protecting the safety, property, or rights of Academy or our customers, team members, and other persons who may be affected. 
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
 
 * * *
 
-**18.** **Questions**
+**16.** **Other Websites**
 
-If you have any questions or comments regarding this Policy, please contact us at any time by using our online form or calling us toll-free at 1-888-922-2336 between 7:00 a.m. and 12:00 a.m. Central Time or by **_contacting our  [Customer Care](https://academy.custhelp.com/) department._**
+Our Websites may contain links to other websites that are not maintained or controlled by Academy. Websites not controlled or maintained by Academy may contain links to our Websites and have their own _privacy_ policies. You are responsible for reviewing and understanding those _privacy_ policies and any other applicable terms and conditions. We encourage you to review the applicable policies while visiting each website. Academy is not responsible for the _privacy_ practices, security, or content of other websites even when they are linked on Academy’s Websites or when Academy’s Websites are linked on those websites. Academy provides these links solely for the convenience of our customers and Website users and makes no warranties associated with them.
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1506542964/themes/standard/#Top)
+[SEE SECTION 19 BELOW FOR IMPORTANT LIMITATIONS ON THE TERMS OF THIS SECTION 16.](https://academy.custhelp.com/app/answers/detail/a_id/649/kw/privacy#_Toc453518564)
+
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+
+* * *
+
+**17.** **Updates to _Privacy_ Policy**
+
+Academy may change, supplement, or update this Policy at any time without providing you notice. The date that this Policy was last updated is indicated at the beginning of the Policy. You are responsible for checking for updates of this Policy each time you use our Websites. We encourage you to review this Policy from time to time to ensure that you understand how Academy collects, uses, shares, and secures, your personal information. Any changes to this Policy will apply from the indicated effective date and will not affect any dispute arising prior to the indicated effective date. Your use or reuse of our Websites and patronage of Academy's retail stores constitutes your agreement to and acceptance of the Policy and any changes to it.
+
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+
+* * *
+
+**18.** **Additional Rights**
+
+You may have additional rights not described in this Policy under laws applicable to you.
+
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+
+* * *
+
+**19.** **EXCLUSIONS AND LIMITATIONS; CONSUMER PROTECTION NOTICE**
+
+This Policy is intended to be only as broad and inclusive as permitted by the consumer laws applicable to you. Academy reserves all rights, defenses, and permissible limitations under the law of your state of residence and any other law applicable to you.
+
+If you are a New Jersey consumer, the terms of this _Privacy_ Policy do not limit or waive your rights as a consumer under New Jersey law and the provisions in this Policy are intended to be only as broad and inclusive as is permitted by the laws of the State of New Jersey. 
+
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+
+* * *
+
+**20.** **Questions**
+
+If you have any questions or comments regarding this Policy, please contact us at any time by using our online form or by calling us toll-free at 1-888-922-2336 between 7:00 a.m. and 12:00 a.m. Central Time or by contacting Academy ****[**Customer Care**](https://academy.custhelp.com/). ** __**
+
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
