@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lottoland.com.au privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315121250id_/https%3A//www.lottoland.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottoland.com.au privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124195135id_/https%3A//www.lottoland.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lottoland Australia - Lottoland.com.au
 
@@ -206,4 +206,4 @@ In the event that the use or processing of your personal information involves th
 
 ##  12 Contact Us 
 
-12.1 If you have any enquiries please do not hesitate to contact our customer services team by sending an email to: support@lottoland.com.au 
+12.1 If you have any enquiries please do not hesitate to contact our customer services team by sending an email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
