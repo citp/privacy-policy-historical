@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501200059id_/http%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124203944id_/http%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | VIA Rail
+
+Beginning of the main content.
 
 VIA Rail Canada is a federal Crown corporation, and is required to abide by the _Privacy Act_ of Canada (R.S.C. 1985, c. P-21) ("the **Act** "). The Act protects your personal information against any disclosure or use that is inconsistent with the reason for which this information has been provided. Moreover, the Act gives any individual the right to access their own personal information, to request that this information be corrected or to demand that the information be withdrawn from databases or any other systems where it is stored. The aim of this VIA privacy policy is to govern the collection, use and disclosure of personal information, in accordance with the requirements of the Act, whether this information is collected through our Website or otherwise.
 
