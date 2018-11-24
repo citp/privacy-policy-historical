@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingindiablog.in privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602061537id_/http%3A//amazingindiablog.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingindiablog.in privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124065733id_/http%3A//amazingindiablog.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -136,7 +136,7 @@ You can remove cookies stored in your computer via your browser settings. Altern
 
 We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
 
-You can contact us on anirudhsingh@yahoo.com
+You can contact us on amazingindiablog@gmail.com
 
 We reserve the right to make change to this Privacy Policy.  
 Last modification was made on 23/05/2018
