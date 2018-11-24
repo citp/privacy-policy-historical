@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616034342id_/https%3A//www.lendingclub.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124050617id_/https%3A//www.lendingclub.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Legal Agreements | Save with LendingClub
 
