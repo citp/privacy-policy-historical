@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protonmail.com privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422195849id_/https%3A//protonmail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protonmail.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124155125id_/https%3A//protonmail.com/privacy-policy) for the most accurate reproduction.*
 
 # ProtonMail - Privacy Policy
 
@@ -8,19 +8,19 @@ By visiting protonmail.com and using the Services provided here, you consent to 
 
 ### Legal Framework
 
-The Company is domiciled solely in Switzerland and all hosting infrastructure is also located solely within Switzerland, and thus governed by the laws and regulations of Switzerland.
+The Company is domiciled in Switzerland and all data storage infrastructure is also located solely within Switzerland, and thus governed by the laws and regulations of Switzerland.
 
-Under Swiss law, the technical means for lawful interceptions of customer communications is governed by the Swiss Federal Act on the Surveillance of Postal and Telecommunications Traffic (SPTT) last amended in 2012. In the SPTT, the obligation to provide the technical means for lawful interception is imposed only on Internet access providers so the Company, as an Internet application provider, is not subject to this obligation and cannot be compelled to build in the technical means to intercept customer communications.
+Under Swiss law, the technical means for lawful interceptions of customer communications is governed by the Swiss Federal Act on the Surveillance of Postal and Telecommunications Traffic (SPTT). In the SPTT, the obligation to provide the technical means for lawful interception is imposed only on Internet access providers so the Company, as an Internet application provider, is not subject to this obligation and cannot be compelled to build in the technical means to intercept customer communications.
 
 ### Data related to the opening of an account
 
 Any emails provided to ProtonMail through either our waiting list, optional email verification, or optional notification/recovery email setting in your account, are considered personal data as defined and protection by the Swiss Federal Data Protection Act (DPA).
 
-Such data will only be used to contact you with important notifications about ProtonMail, to send you an invitation link to create your ProtonMail account, to verify your ProtonMail account, or to send you password recovery links if you enable the option.
+Such data will only be used to contact you with important notifications about ProtonMail, to send you information related to security, to send you an invitation link to create your ProtonMail account, to verify your ProtonMail account, or to send you password recovery links if you enable the option. We may also inform you about new Proton products in which you might have an interest. You are free, at any given time, to opt-out of those features through the account settings panel.
 
 In order to maintain the integrity of the service, ProtonMail must take measures to avoid creation of accounts by spammers. This is because if spammers use ProtonMail to send messages, ProtonMail’s IP addresses can become blocked by major mail providers such as Gmail, Yahoo, Outlook, etc.
 
-In order to prevent the creation of accounts by spam bots or human spammers, ProtonMail uses a variety of human verification methods. You may be asked to verify using either reCaptcha, Email, or SMS. IP addresses, email addresses, and phone numbers provided are saved for a short period of time in order to send you a verification code and to determine if you are a spammer. If this data is saved for a longer period of time, it is always saved as a cryptographic hash, which ensures that the raw values cannot be deciphered by us. [Learn More](https://web.archive.org/support/knowledge-base/human-verification/)
+In order to prevent the creation of accounts by spam bots or human spammers, ProtonMail uses a variety of human verification methods. You may be asked to verify using either reCaptcha, Email, or SMS. IP addresses, email addresses, and phone numbers provided are saved temporarily in order to send you a verification code and to determine if you are a spammer. If this data is saved permanently, it is always saved as a cryptographic hash, which ensures that the raw values cannot be deciphered by us. [Learn More](https://web.archive.org/support/knowledge-base/human-verification/)
 
 ### Data Collection
 
@@ -28,18 +28,23 @@ Our company’s overriding policy is to collect as little user information as po
 
 Service's user data collection is limited to the following:
 
-  * Visiting our website: We employ a local installation of Piwik, an open source analytics tool, on the home page only. Piwik is not employed on any of the internal pages. It is not possible to link Piwik analytics data (such as IP addresses) to ProtonMail accounts.
-  * Account creation: We do not require ANY personal information to create an account but you may provide an external email address for notification or password recovery purposes. Should you choose to provide it, we do associate another email address with your account (for password recovery, or notifications).
-  * Account activity: Due to limitations of the SMTP protocol, we have access to the following email metadata: sender and recipient email addresses, the ip address incoming messages originated from, message subject, and message sent and received times. We do NOT have access to encrypted message content but unencrypted messages sent from external providers to ProtonMail are scanned for Spam and Viruses for the protection of our users. We also have access to the following records of account activity: number of messages sent, amount of storage space used, total number of messages, last login time.
-  * Communicating with ProtonMail: Your communications with the Company, such as support requests, bug reports, or feature requests may be saved by our staff.
-  * IP Logging: ProtonMail does not log the IP addresses used to access our Service unless this feature is specifically enabled by the user (it is disabled by default).
-  * Payment Information: The Company relies on third parties to process credit card, PayPal, Bitcoin,and Dash transactions so the Company necessarily must share payment information with third parties. Anonymous cash or bitcoin payments and donations are accepted however.
+**Visiting our website:** We employ a local installation of Matomo, an open source analytics tool. Analytics are anonymized whenever possible and stored locally (and not on the cloud).
 
+**Account creation:** It is not necessary to provide personal information in order to create an account, but you may provide an external email address for notification or password recovery purposes. Should you choose to provide it, we do associate another email address with your account (for password recovery, or notifications).
 
+**Account activity:** Due to limitations of the SMTP protocol, we have access to the following email metadata: sender and recipient email addresses, the IP address incoming messages originated from, message subject, and message sent and received times. We do NOT have access to encrypted message content but unencrypted messages sent from external providers to ProtonMail are scanned for Spam and Viruses for the protection of our users. We also have access to the following records of account activity: number of messages sent, amount of storage space used, total number of messages, last login time.
+
+**Communicating with ProtonMail:** Your communications with the Company, such as support requests, bug reports, or feature requests may be saved by our staff.
+
+**IP Logging:** By default, ProtonMail does not keep permanent IP logs. We also don't record your login IP address unless this feature is specifically enabled by the user. However, IP logs are sometimes kept to combat abuse and fraud, and your IP address may be retained if you are engaged in activities that breach our terms and conditions (spamming, DDoS attacks against ProtonMail infrastructure, brute force attacks, etc).
+
+**Payment Information:** The Company relies on third parties to process credit card, PayPal, and Bitcoin transactions so the Company necessarily must share payment information with third parties. Anonymous cash or Bitcoin payments and donations are accepted however.
+
+**Native Applications:** When you use our native applications, we (or the mobile app platform providers) may collect certain information in addition to the information mentioned elsewhere in this Policy. We may use mobile analytics software (such as fabric.io app statistics and crash reporting, Play Store app statistics, App Store app statistics, or self-hosted Sentry crash reporting) to send crash information to our developers so that we can fix bugs rapidly. Some platforms (such as the Google Play Store or the Apple App Store) may also collect aggregate, anonymous statistics like which type of devices and operating systems that are most commonly used (like percentage of Android 6.x vs Android 7.x), the total number of installs, total number of uninstalls, and the total number of active users, and may be governed by the privacy policy and terms and conditions of the Google Play Store or the Apple App Store. None of the software on our apps will ever access or track any location-based information from your device at any time. 
 
 ### Data Use
 
-We do not have any advertising on our site. Any data that we do have will never be shared except under the circumstances described below in Data Disclosure. We do NOT do any analysis on the limited data we do possess with two exceptions:
+We do not have any advertising on our site. Any data that we do have will never be shared except under the circumstances described below in the Data Disclosure Section. We do NOT do any analysis on the limited data we do possess with two exceptions:
 
   * Emails sent unencrypted to ProtonMail accounts (e.g. Gmail to ProtonMail) are scanned automatically for spam so we can block IPs which are sending a lot of spam to ProtonMail users and place spam messages in a spam directory. Inbound message are scanned for spam in memory, and then encrypted and written to disk. We do not possess the technical ability to scan messages after they have been encrypted.
   * Emails sent by ProtonMail users to outside (e.g. Gmail) users with encryption disabled are scanned automatically for spam in the same manner as incoming email. This is to ensure a ProtonMail account which is being used for spamming purposes can be detected and locked so email deliverability for legitimate users is not degraded.
@@ -48,11 +53,17 @@ We do not have any advertising on our site. Any data that we do have will never 
 
 ### Data Storage
 
-All servers used in connection with the provisioning of the Service are located in Switzerland and wholly owned and operated by the Company. Only employees of the Company have physical or other access to the servers. Data is ALWAYS stored in encrypted format on our servers. Offline backups may be stored periodically, but these are also encrypted. We do not possess the ability to access any user encrypted message content on either the live servers or in the backups.
+All servers used in connection with the provisioning of the Service are located in Switzerland and wholly owned and operated by the Company. Only employees of the Company have physical or other access to the servers. Data is ALWAYS stored in encrypted format on our servers. Offline backups may be stored periodically, but these are also encrypted. We do not possess the ability to access any user encrypted message content on either the production servers or in the backups.
+
+### Right to Access, Rectification, Erasure and Portability
+
+Through the Service, you can directly access, edit, delete or export personal data processed by the Company in your use of the Service.
+
+If your account has been suspended for a breach of our terms and conditions, and you would like to exercise the rights related to your personal data, you can make a request to our support.
 
 ### Data Retention
 
-When a ProtonMail account is closed, data is immediately deleted from production servers. Active accounts will have data retained indefinitely. Deleted emails are also instantly deleted from production servers. Deleted data may be retained in our backups for up to 14 days.
+When a ProtonMail account is closed, data is immediately deleted from production servers. Active accounts will have data retained indefinitely. Deleted emails are also permanently deleted from production servers. Deleted data may be retained in our backups for up to 14 days.
 
 ### Data Disclosure
 
