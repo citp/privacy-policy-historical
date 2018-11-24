@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxx.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626215125id_/http%3A//www.fxnetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxx.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124013841id_/https%3A//www.fxnetworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FX Networks
 
