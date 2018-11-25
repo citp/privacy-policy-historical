@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the updato.com privacy policy that was archived on 2018-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180113092128id_/https%3A//updato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updato.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125060745id_/https%3A//updato.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Samsung Android Update
-
-## Privacy Policy
+# Privacy Policy | Updato
 
 See [how Google uses data when you use their partners’ sites or apps](https://www.google.com/policies/privacy/partners/).
 
@@ -14,7 +12,7 @@ Like most website operators, Updato collects non-personally-identifying informat
 Updato also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Updato.com blogs/sites. Updato only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
 **Gathering of Personally-Identifying Information**  
-Certain visitors to Updato’s websites choose to interact with Updato in ways that require Updato to gather personally-identifying information. The amount and type of information that Updato gathers depends on the nature of the interaction. For example, we ask visitors who sign up at Updato.com to provide a username and email address. Those who engage in transactions with Updato are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Updato collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Updato. Updato does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Updato’s websites choose to interact with Updato in ways that require Updato to gather personally-identifying information. The amount and type of information that Updato gathers depends on the nature of the interaction. For example, we ask visitors who sign up at Updato.com to provide a username and email address. Those who engage in transactions with Updato are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Updato collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Updato. Updato does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply or revoke personally-identifying information by emailing team@updato.com, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 **Aggregated Statistics**  
 Updato may collect statistics about the behavior of visitors to its websites. Updato may display this information publicly or provide it to others. However, Updato does not disclose personally-identifying information other than as described below.
@@ -32,6 +30,9 @@ If Updato, or substantially all of its assets, were acquired, or in the unlikely
 
 **Ads**  
 Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Updato and does not cover the use of cookies by any advertisers.
+
+**Your IDFA/Advertising Identifier**  
+We also collect where provided your devices IDFA/Advertising Identifer which is an annonymous ID provided by your operating system. We may pass this anonymised data to a third party partner for purposes of providing accurate and relevant advertising across various operating systems and devices and to analyse the effectiveness of advertising campaigns. Details of how to opt out of IDFA/AAID data sharing can be found on your mobile device operating settings.
 
 **X. THIRD PARTY ADVERTISERS – YOUR AD CHOICES**
 
