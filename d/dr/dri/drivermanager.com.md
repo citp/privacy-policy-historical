@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivermanager.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601084347id_/http%3A//www.drivermanager.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivermanager.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125193141id_/http%3A//www.drivermanager.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Driver Manager | Manages Your Driver Updates.
 
@@ -25,7 +25,7 @@ DRIVERMANAGER.COM collects your Personal Information at a variety of points, inc
 
 **Device Hardware and Software Inventory Information**
 
-The scanning technology present in our software is designed to collect all hardware ID’s and software signatures present in the system and passes this data back to our servers.  We use this information so that our servers can respond back to our software with a list of recommended drivers and other software relevant to the discovered hardware.  While in trial-mode (pre-purchase) this information is not tied in any way to any personal information.  Post-purchase and after activation of the software the inventory data is linked to your personal information so that it can be shown as historical information in the software, used as part of our free driver backup service,  as well as historical scan information available in your personalized <http://account.driversupport.com/> web portal (all features of our software and services).  This information is also used to handle any technical, product, or customer support requests that you may send to us.  Please be aware that if you prefer not to provide this inventory information, our software will be unable to provide any of our services.
+The scanning technology present in our software is designed to collect all hardware ID’s and software signatures present in the system and passes this data back to our servers.  We use this information so that our servers can respond back to our software with a list of recommended drivers and other software relevant to the discovered hardware.  While in trial-mode (pre-purchase) this information is not tied in any way to any personal information.  Post-purchase and after activation of the software the inventory data is linked to your personal information so that it can be shown as historical information in the software, used as part of our free driver backup service,  as well as historical scan information available in your personalized <https://portal.safebytes.com/?app=drv> web portal (all features of our software and services).  This information is also used to handle any technical, product, or customer support requests that you may send to us.  Please be aware that if you prefer not to provide this inventory information, our software will be unable to provide any of our services.
 
 **Regarding Children**
 
@@ -58,8 +58,7 @@ DRIVERMANAGER.COM has an optional e-mail service for customers who wish to perio
 Customers are provided the option to opt-out within each e-mail. If you no longer wish to receive DRIVERMANAGER.COM communications, you may “unsubscribe” from our mailing program at any time in the following ways:
 
   * By clicking on the auto-unsubscribe link included in each e-mail
-  * By contacting our technical support department at drivermanager@driversupport.com
-  * By visiting your  **Account**  page at <http://account.driversupport.com/>   and changing your preference on the form.
+  * By contacting our technical support department at https://portal.safebytes.com/?app=drv
 
 
 
@@ -67,11 +66,11 @@ We will then update our database and take reasonable measures so that no further
 
 **Transactional Messages**
 
-DRIVERMANAGER.COM sends required notifications via e-mail to keep you informed of the status of your orders or accounts and to provide updates and technical notices. This service is used for messages that are important for the maintenance of your subscription and the functionality of our services. When you purchase or register a product online, we require an e-mail address for completion of the transaction, which we will use for these communications. In order to stop receiving these notifications, please contact our technical support team at drivermanager@driversupport.com . You will be opted out of further communications within 10 business days.
+DRIVERMANAGER.COM sends required notifications via e-mail to keep you informed of the status of your orders or accounts and to provide updates and technical notices. This service is used for messages that are important for the maintenance of your subscription and the functionality of our services. When you purchase or register a product online, we require an e-mail address for completion of the transaction, which we will use for these communications. In order to stop receiving these notifications, please contact our technical support team at https://portal.safebytes.com/?app=drv . You will be opted out of further communications within 10 business days.
 
 **Ways to Update Your Personal Information**
 
-DRIVERMANAGER.COM carefully maintains our customer database in an effort to keep your Personal Information accurate for the purposes for which it is used. It is your right to be able to update your Personal Information as needed. You can correct out-of-date information, update information, remove information, delete your Personal Information or review any information previously provided to DRIVERMANAGER.COM by visiting account. DRIVERMANAGER.COM or by contacting our support department at drivermanager@driversupport.com. Changes will be implemented within 10 business days. Please note, however, that we may retain certain information relating to software licensing and your information may also be retained in our archives. When contacting customer service, we will verify your identification through the use of security questions before sharing any Personal Information as it appears in our customer database.
+DRIVERMANAGER.COM carefully maintains our customer database in an effort to keep your Personal Information accurate for the purposes for which it is used. It is your right to be able to update your Personal Information as needed. You can correct out-of-date information, update information, remove information, delete your Personal Information or review any information previously provided to DRIVERMANAGER.COM by visiting account. DRIVERMANAGER.COM or by contacting our support department at https://portal.safebytes.com/?app=drv. Changes will be implemented within 10 business days. Please note, however, that we may retain certain information relating to software licensing and your information may also be retained in our archives. When contacting customer service, we will verify your identification through the use of security questions before sharing any Personal Information as it appears in our customer database.
 
 **DRIVERMANAGER.COM’ Commitment to Data Security**
 
@@ -89,7 +88,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 **Public forums**
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at drivermanager@driversupport.com.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at https://portal.safebytes.com/?app=drv.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **Acceptance of this Privacy Policy**
 
@@ -104,7 +103,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 **Contact Information**
 
 For questions about this policy as well as product-related technical support:  
-<http://account.driversupport.com/support/contact/>
+<https://portal.safebytes.com/?app=drv>
 
 DRIVERMANAGER.COM  
 427 N. Tatnall St #72424  
