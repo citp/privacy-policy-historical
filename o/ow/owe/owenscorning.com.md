@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owenscorning.com privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101071827id_/http%3A//owenscorning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owenscorning.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125055831id_/https%3A//www.owenscorning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Owens Corning
 
@@ -17,6 +17,36 @@ Sometimes, we may collect non-personal information about you that is anonymous d
 ## Cookies
 
 Our web site makes use of "cookie" files to customize information to your personal tastes. A cookie is an element of data that a web site can send to your Browser, which may store some information on your computer. Then, when you come back to our site or visit other websites, information can be tailored to suit your individual preferences. The goal is to save you time and provide you with a more meaningful online experience. Most Internet Browsers will allow you to erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your Browser instructions to learn more about these functions.
+
+## Cookie Policy
+
+We use cookies and tracking technologies on our website. Functionalities may include:
+
+* \- Assisting you in navigation
+* \- Assisting your use of our products, services and applications
+* \- Assisting with our promotional and marketing efforts
+* \- Providing content from third parties
+
+We classify our cookies in following categories:
+
+* Strictly Necessary Cookies:  
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information. 
+  
+
+* Performance Cookies:  
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.
+  
+
+* Functional Cookies:  
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.
+  
+
+* Targeting Cookies:  
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.
+
+## European Privacy Policy
+
+[Click here to view](https://web.archive.org/european-policy)
 
 ## Third Parties
 
