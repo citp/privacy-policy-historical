@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bamboohr.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622041327id_/https%3A//www.bamboohr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bamboohr.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125080837id_/https%3A//www.bamboohr.com/privacy.php) for the most accurate reproduction.*
 
 # BambooHR Privacy Policy
 
@@ -99,7 +99,7 @@ BambooHR may update this Privacy Policy from time to time, and will notify accou
 
 #### Contact Information.
 
-For questions related to this Privacy Policy, or to correct, update, amend or request that we remove, your Personal Information, please contact _[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_ or at:
+For questions related to this Privacy Policy, or to correct, update, amend or request that we remove, your Personal Information, please contact _privacy@bamboohr.com_ or at:
 
 Bamboo HR LLC  
 335 South 560 West  
