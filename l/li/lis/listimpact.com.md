@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listimpact.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527085843id_/http%3A//www.listimpact.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listimpact.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125195148id_/http%3A//listimpact.com/privacy-policy.php) for the most accurate reproduction.*
 
 # ListImpact.com | Privacy Policy
 
