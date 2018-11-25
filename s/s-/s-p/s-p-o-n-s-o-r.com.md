@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s-p-o-n-s-o-r.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525032127id_/http%3A//www.s-p-o-n-s-o-r.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s-p-o-n-s-o-r.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125040309id_/http%3A//www.s-p-o-n-s-o-r.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - S-P-O-N-S-O-R
 
