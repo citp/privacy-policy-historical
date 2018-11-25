@@ -1,0 +1,15 @@
+> *The following text is extracted and transformed from the loyno.edu privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125162140id_/http%3A//www.loyno.edu/jump/about/loyola-at-a-glance/privacy.php) for the most accurate reproduction.*
+
+# Loyola at a Glance - Loyola University New Orleans
+
+## We Respect Your Privacy
+
+Any and all information collected on this site will not be sold, rented, disclosed or loaned. Your information will be held with the utmost care and will not be used for anything other than official business.
+
+## ABOUT COOKIES:
+
+This website uses cookies to collect information about your computer, including your IP address, operating system and browser type. By using this website, you agree to Capture’s use of cookies for tracking and statistical data purposes. We do not collect any personally identifiable information.
+
+## RETARGETING:
+
+We work with a third-party company to collect information about our website usage in order to increase the effectiveness of our marketing. Recorded data is aggregated and shared with us. No personally identifiable information is collected or shared.
