@@ -1,170 +1,164 @@
-> *The following text is extracted and transformed from the inspiredtaste.net privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128192213id_/https%3A//www.inspiredtaste.net/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiredtaste.net privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125194859id_/https%3A//www.inspiredtaste.net/privacy-and-terms) for the most accurate reproduction.*
 
 # Inspired Taste Privacy and Terms
 
-Everything you need to know about Inspired Taste policies, all in one place.
+By visiting inspiredtaste.net, you are consenting to our privacy policy.
 
-## Copyright and Photo and Recipe Permissions
+## Overview
 
-As long Inspired Taste is credited for our work with a working link back to the original post, we will allow photos to be shared on other websites or blogs.
+Inspired Taste Inc. is committed to protecting your privacy online. This Privacy Policy describes the information we collect through this website (the “Site”), and how we collect and use such information.
 
-We rarely provide permission to do the same with full recipes or our articles. If you would like to republish one of our recipes on your website, please contact us first.
+The terms “we,” “us,” and “our” refers to Inspired Taste Inc. The terms “user,” “you,” and “your” refer to site visitors, customers, and any other users of the site.
 
-## Your Privacy
+Use of inspiredtaste.net, including all materials presented herein and all online services provided by Inspired Taste Inc. is subject to the following Privacy Policy. This Privacy Policy applies to all site visitors, customers, and all other users of the site. By using the Site or Service, you agree to this Privacy Policy, without modification, and acknowledge reading it.
 
-You are certainly not “data” to us-instead you are friends and people who make us very happy. Your privacy is no joke. When you comment on one of our blog posts, enter into one of our giveaways or sign up for newsletters you will be asked for an email address. The main purpose for this is so we know you’re a real person and not a spammer, and so we can personally reach out to you with answers to questions or if you’ve won one of our giveaways. That email address will be hidden once the comment or giveaway entry form is submitted.
+### Our Use of Cookies
 
-Keep in mind however, if you write personal info like your full name or your email address in the body of your comment (or in the “Name” or “URL” field) that info can be viewed by anyone and all reading the comment section of that post. So keep it informal and just use your first name, keep your email address out of the comment itself and you will be fine. By contrast, your email address, as entered in the “E-mail” section of the comment form, will remain completely hidden from view.
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-## Inspired Taste’s Privacy Policy
+We use cookies for the following purposes:
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+(a) [authentication – we use cookies to identify you when you visit our website and as you navigate our website];
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+(b) [status – we use cookies [to help us to determine if you are logged into our website];
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.
+(c) [personalization – we use cookies [to store information about your preferences and to personalize the website for you];
 
-**When do we collect information?**
+(d) [security – we use cookies [as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally];
 
-We collect information from you when you subscribe to a newsletter, respond to a survey, fill out a form Commenting or enter information on our site.
+(e) [advertising – we use cookies [to help us to display advertisements that will be relevant to you]; and
 
-**How do we use your information?**
+(f) [analysis – we use cookies [to help us to analyze the use and performance of our website and services];
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: https://www.google.com/policies/privacy/
 
-• To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
-• To improve our website in order to better serve you.  
-• To allow us to better service you in responding to your customer service requests.  
-• To administer a contest, promotion, survey or other site feature.  
-• To send periodic emails regarding your order or other products and services.
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
 
-**How do we protect visitor information?**
+(a) https://support.google.com/chrome/answer/95647?hl=en (Chrome);
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+(b) https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences(Firefox);
 
-We do use Malware Scanning.
+(c) http://www.opera.com/help/tutorials/security/cookies/ (Opera);
 
-We do not use an SSL certificate  
-• We do not need an SSL because:  
-we never ask for financial information such as credit card numbers.
+(d) https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies (Internet Explorer);
 
-**Do we use ‘cookies’?**
+(e) https://support.apple.com/kb/PH21411 (Safari); and
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+(f) https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy (Edge).
 
-We use cookies to:  
-• Keep track of advertisements.  
-• Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+Please note that blocking cookies may have a negative impact on the functions of many websites, including our Site. Some features of the Site may cease to be available to you.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+### Interest Based Advertising
 
-If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
+**Advertising Privacy Statement:**
 
-**Third Party Disclosure**
+This Site uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, Google and our other advertising partners will track your behavior on our website and on other websites across the Internet using cookies.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: https://adssettings.google.com. You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: http://optout.networkadvertising.org. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+**Google:**
 
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**Google**
-
-Google’s advertising requirements can be summed up by [Google’s Advertising Principles](https://support.google.com/adwordspolicy/answer/1316548?hl=en). They are put in place to provide a positive experience for users.
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
 We use Google AdSense Advertising on our website.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
-We have implemented the following:  
-• Remarketing with Google AdSense  
-• Google Display Network Impression Reporting  
-• Demographics and Interests Reporting  
-• DoubleClick Platform Integration
+We have implemented the following:
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+  * Remarketing with Google AdSense
+  * Google Display Network Impression Reporting
+  * Demographics and Interests Reporting
+  * DoubleClick Platform Integration
 
-**Opting out:**  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
-**California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at [here](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf).
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-According to CalOPPA we agree to the following:  
-Users can visit our site anonymously  
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.  
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
 
-**Users will be notified of any privacy policy changes:**  
-• On our Privacy Policy Page  
-Users are able to change their personal information:  
-• By emailing us
+### For European Economic Area Residents
 
-**How does our site handle do not track signals?**  
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us related to advertising on the Site, you can contact us at inspiredtaste@gmail.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click here to change consent. (Available in the EU.)
 
-**Does our site allow third party behavioral tracking?**  
-It’s also important to note that we allow third party behavioral tracking
-
-**COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under 13.
-
-**Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
-We will notify the users via in site notification  
-• Within 7 business days
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-**CAN SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-**We collect your email address in order to:**  
-• Send information, respond to inquiries, and/or other requests or questions.  
-• Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
-
-To be in accordance with CANSPAM we agree to the following:  
-• NOT use false, or misleading subjects or email addresses  
-• Identify the message as an advertisement in some reasonable way  
-• Include the physical address of our business or site headquarters  
-• Monitor third party email marketing services for compliance, if one is used.  
-• Honor opt-out/unsubscribe requests quickly  
-• Allow users to unsubscribe by using the link at the bottom of each email
-
-**If at any time you would like to unsubscribe from receiving future emails, you can**  
-• Follow the instructions at the bottom of each email.  
-and we will promptly remove you from ALL correspondence.
-
-## Disclosure
-
-This is a blog written and edited by Adam and Joanne Gallagher of Inspired Taste Inc. For questions about this blog, please contact  Adam Gallagher (adam@inspiredtaste.net). This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post may not always be identified as paid or sponsored content. The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question. This blog does not contain any content which might present a conflict of interest.
-
-Inspired Taste may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is valid from 27 January 2013.
+Subject to your consent, Exponential Interactive, Inc (one of our third-party advertisers) collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. You may change your consent decision at any time by clicking this link. For more details including access requests and complaints, review their privacy policy or contact their data protection officer via privacy@exponential.com.
 
 ### Amazon Affiliate Program
 
-Inspired Taste is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+Inspired Taste Inc is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
 
-## Contact Us
+### Leaving Comments/Reviews
 
-**For Our Readers:**  We love to hear from you! Email us using inspiredtaste@gmail.com if you have a question, comment, photo of one of our recipes you have made (love these) or link you’d like to share.
+When visitors leave comments on the Site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-**Advertising, Sponsored Posts and Giveaways:** We are happy to connect with you about advertising partnerships or discuss purchasing a sponsored post / giveaway. Please connect with us using inspiredtaste@gmail.com
+### Email Addresses
 
-Inspired Taste Inc.
+We may collect your email address, but only if you voluntarily provide it to us. This may occur, for example, if you sign up to receive an email newsletter, or enter a promotion. We will use your email address for the purposes for which you provided it to us, and also from time to time to send you emails regarding the Site or other products or services that we believe may be of interest to you. You may opt out of such email communications at any time by clicking the “unsubscribe” button in the email.
 
-2641 42nd Avenue SW
+Your email address may also be shared with the technology provider we use in connection with the purposes for which you provided it, and that technology provider may also contact you from time to time.
 
-Seattle, WA 98116
+If you are a resident of a country in the European Economic Area (EEA), please refer to the section below entitled “Additional Rights of EEA Residents.”
 
-**Page Last Updated on October  27, 2016**
+### Registration or Account Data
+
+We may collect other information from you when you register with our Site in order to use various features. Such information could include your name, birthday, postal code, screen name, and password (if applicable). As you use the Site, we could collect other data that you provide voluntarily (such as comments that you post).
+
+We may also collect information about you through other methods, including research surveys, social media platforms, verification services, data services, as well as public sources. We may combine this data with your registration data in order to maintain a more thorough profile.
+
+We may use third parties to provide the functionality to allow you to register for the Site or services, in which case the third party will also have access to your information. Otherwise, we will not provide any personally-identifying information about you to third parties, except if required by law.
+
+We may use your personally-identifying information for a variety of our internal business purposes, such as creating a better user experience for the Site, diagnosing and troubleshooting malfunctions on the Site, better understanding how the Site is used, and making personalized recommendations to you.
+
+If you are a resident of a country in the European Economic Area (EEA), please refer to the section below entitled “Additional Rights of EEA Residents.”
+
+### Third Party Links
+
+The Site may contain links to third party websites. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you on our Site. Other sites accessible through our site via links or otherwise have their own policies in regard to privacy. We are not responsible for the privacy policies or practices of third parties.
+
+### Security
+
+We maintain security measures to protect your personal information from unauthorized access, misuse, or disclosure. However, no exchange of data over the Internet can be guaranteed as 100% secure. While we make every effort to protect your personal information shared with us through our Site, you acknowledge that the personal information you voluntarily share with us through this Site could be accessed or tampered with by a third party. You agree that we are not responsible for any intercepted information shared through our Site without our knowledge or permission. Additionally, you release us from any and all claims arising out of or related to the use of such intercepted information in any unauthorized manner.
+
+### Additional Rights Of EEA (European Economic Area) Residents
+
+If you are a resident of a country in the EEA, you have the rights, among others, to:
+
+(i) access your personal data
+
+(ii) ensure the accuracy of your personal data
+
+(iii) the right to have us delete your personal data
+
+(iv) the right to restrict further processing of your personal data, and
+
+(v) the right to complain to a supervisory authority in your country of residence in the event that data is misused
+
+If you believe that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your residence, your place of work or the place of the alleged infringement.
+
+You may exercise any of your rights in relation to your personal data by written notice to us addressed to the following:
+
+Inspired Taste Inc  
+1644 Plaza Way PMB 237  
+Walla Walla, WA 99362  
+Or inspiredtaste@gmail.com
+
+### Sale Of Business Or Assets
+
+In the event that the Site or substantially all of its assets is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, the information we have collected about you may be one of the assets sold or merged in connection with that transaction.
+
+### Changes To The Privacy Policy
+
+We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the bottom of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
+
+### Contacting Us
+
+If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at inspiredtaste@gmail.com
+
+Or write to us at:
+
+Inspired Taste Inc  
+1644 Plaza Way PMB 237  
+Walla Walla, WA 99362
+
+_Updated:  May 24, 2018_
