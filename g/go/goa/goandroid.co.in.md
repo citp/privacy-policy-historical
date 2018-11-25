@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goandroid.co.in privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215145256id_/http%3A//www.goandroid.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goandroid.co.in privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125182348id_/https%3A//www.goandroid.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GoAndroid
 
@@ -29,6 +29,26 @@ We use cookies to understand and save your preferences for future visits and com
 **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+We use Ezoic services for advertising purposes, you can check their [privacy policy over here](https://g.ezoic.net/privacy/goandroid.co.in).
+
+**GDPR compliance for European region**
+
+In compliance with European privacy laws, in particular the European General Data Protection Regulation (GDPR), Android Authority provides specific additional rights for citizens of the European Territories such as the right to access, rectification, right to object, to complaint, erasure outband blockage. More specifically:
+
+  * The right to request information about whether and which personal data is processed by us, and the right to demand that personal data is rectified or amended.
+  * Under certain circumstances, the right to request that personal data should be deleted.
+  * Under certain circumstances, the right to demand that the processing of personal data should be restricted.
+  * Withdraw your consent to the processing and use of your data completely or partially at any time with future application.
+  * Have the right to obtain your personal data in a common, structured and mechanically readable format.
+  * Contact our data protection officer if there are any questions, comments, complaints or requests in connection with our statement on data protection and the processing of your personal data.
+  * The right to complain to the responsible supervisory authority if believed that the processing of your personal data is in violation of the legislation.
+
+
+
+In addition to the above, we reference certain rights for European Territory citizens throughout this Privacy Policy. Pursuant to the GDPR, citizens from “European Territories” mean the European Economic Area (EEA) and Switzerland. For the purpose of this Privacy Policy, the term “European Territories” shall continue to include the United Kingdom, even after the United Kingdom leaves the European Economic Area following Brexit.
+
+Please email admin[at]goandroid[dot]co[dot]in with the subject line “GDPR Request” for any questions about exercising any of the above rights.
 
 **Childrens Online Privacy Protection Act Compliance**
 
