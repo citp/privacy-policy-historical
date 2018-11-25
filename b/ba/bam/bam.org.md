@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bam.org privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920115641id_/http%3A//www.bam.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bam.org privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125153845id_/https%3A//www.bam.org/about/privacy-policy) for the most accurate reproduction.*
 
 # BAM | Privacy Policy
 
@@ -24,10 +24,10 @@ We employ third parties to perform functions like sending postal mail and email,
 BAM employs the latest safeguards and technologies to protect your information:
 
 Secure Web Servers  
-BAM employs secure web servers hosted in a certified data center. A  [Network Solutions](http://www.networksolutions.com/SSL-certificates/index.jsp) SSL (Secure Socket Layer) certificate is used for the secure encrypted exchange of data between your web browser and BAM.org using SSL encryption. Network Solutions Digital Certificates are trusted by over 99% of all browsers, applications, servers, and clients, including: Microsoft® Internet Explorer, Mozilla® Firefox, Google® Chrome, Konqueror (KDE), Opera and Apple® Safari. 
+BAM employs secure web servers hosted in a certified data center. A [Network Solutions](http://www.networksolutions.com/SSL-certificates/index.jsp) SSL (Secure Socket Layer) certificate is used for the secure encrypted exchange of data between your web browser and BAM.org using SSL encryption. Network Solutions Digital Certificates are trusted by over 99% of all browsers, applications, servers, and clients, including: Microsoft® Internet Explorer, Mozilla® Firefox, Google® Chrome, Konqueror (KDE), Opera and Apple® Safari. 
 
 Credit Card Processing  
-Our transactional website is Payment Card Industry (PCI), certified by  [SecurityMetrics](https://www.securitymetrics.com/sitecertinfo.adp), which verifies that merchant credit card handling processes are in compliance with Payment Card Industry (PCI) Data Security Standards. Once BAM has received all required information from you via a web browser, the transaction is processed with your bank via a secure encrypted Internet connection. Our web servers do not retain any credit card numbers, but we do process your credit card information through a secure internal database. 
+Our transactional website is Payment Card Industry (PCI), certified by [SecurityMetrics](https://www.securitymetrics.com/sitecertinfo.adp), which verifies that merchant credit card handling processes are in compliance with Payment Card Industry (PCI) Data Security Standards. Once BAM has received all required information from you via a web browser, the transaction is processed with your bank via a secure encrypted Internet connection. Our web servers do not retain any credit card numbers, but we do process your credit card information through a secure internal database. 
 
 Firewall  
 BAM.org has redundant, dedicated firewalls that protect both its transactional system and the data passing through it.
@@ -54,6 +54,6 @@ Our websites may include links to other websites or embedded content. We do not 
 BAM will occasionally update this privacy statement. When we do, we will revise the date at the bottom of the privacy statement. 
 
    
-BAM welcomes your comments regarding this privacy statement. Please email info@BAM.org, call 718.636.4100 (press 1), or write to us at: BAM Customer Service, 30 Lafayette Avenue, Brooklyn, NY 11217. 
+BAM welcomes your comments regarding this privacy statement. Please email [info@BAM.org](mailto:info@bam.org), call 718.636.4100 (press 1), or write to us at: BAM Customer Service, 30 Lafayette Avenue, Brooklyn, NY 11217. 
 
 Last Updated: July 2016
