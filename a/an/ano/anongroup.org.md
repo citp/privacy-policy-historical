@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anongroup.org privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325172039id_/http%3A//www.anongroup.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anongroup.org privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125234543id_/http%3A//www.anongroup.org/privacy) for the most accurate reproduction.*
 
 # Privacy – Anonymous
 
@@ -10,11 +10,11 @@ If you are asked to provide information when using this website, it will only be
 
 This policy is updated from time to time. The latest version is published on this page.
 
-This website privacy policy was updated on: **01/07/2017**
+This website privacy policy was updated on: **01/07/2018**
 
-If you have any questions about this policy, please email anongroup.org@gmail.com or write to:
+If you have any questions about this policy, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or write to:
 
-Digital-media Inc  
+TheNLBS Inc  
 London PO: N41AA  
 Haringey, 020-7649-35611
 
@@ -101,7 +101,7 @@ When you fill in a form or provide your details on our website, you will see one
 If you have agreed that we can use your information for marketing purposes, you can change your mind easily, via one of these methods:
 
   * Sign in to our website and change your opt-in settings.
-  * Send an email to anongroup.org@gmail.com
+  * Send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 
   * Write to us at:
