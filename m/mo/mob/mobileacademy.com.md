@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileacademy.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526010311id_/http%3A//mobileacademy.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileacademy.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125144642id_/http%3A//mobileacademy.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Mobile Academy
 
