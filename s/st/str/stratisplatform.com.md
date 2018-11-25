@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stratisplatform.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624214216id_/https%3A//stratisplatform.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratisplatform.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125213713id_/https%3A//stratisplatform.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - StratisPlatform
+# Privacy Policy
 
 **PRIVACY POLICY STATEMENT**
 
@@ -44,4 +44,4 @@ Our postal address is :
 
 **20-22 Wenlock Road, London, N1 7GU,United Kingdom**.
 
-We can also be reached via e-mail : [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We can also be reached via e-mail : info@stratisplatform.com
