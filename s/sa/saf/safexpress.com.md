@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safexpress.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404084448id_/http%3A//www.safexpress.com/Portal/cs/groups/public/documents/document/y3kt/cg9s/%7Eedisp/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safexpress.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125173227id_/http%3A//www.safexpress.com/Portal/cs/groups/public/documents/document/y3kt/cg9s/%7Eedisp/privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
