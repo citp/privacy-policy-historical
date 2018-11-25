@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the busey.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508074319id_/https%3A//www.busey.com/home/fiFiles/static/documents/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busey.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125114111id_/https%3A//www.busey.com/home/fiFiles/static/documents/privacy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                        Revised November 2016
+                                                                                                        Revised November 2018
                        WHAT DOES BUSEY DO WITH YOUR PERSONAL INFORMATION?
 FACTS
 Why?                   Financial companies choose how they share your personal information. Federal law gives
@@ -41,13 +41,12 @@ our sharing             Please note:
                         this notice. When you are no longer our customer, we continue to share your information as
                         described in this notice.
                         However, you can contact us at any time to limit our sharing.
-Questions?             Call 800-672-8739 or go to www.busey.com
+Questions?             Call 800-672-8739 or go to www.busey.com                                      Updated 11/2018
 
 
 Who we are
-Who is providing this notice?          Busey and its affiliates: Busey Bank, Busey Wealth Management,
-                                       Busey Trust Company, FirsTech, Busey Capital Management, Inc.,
-                                       and Trevett Capital Partners.
+Who is providing this notice?          Busey and its affiliates: Busey Bank, Busey Capital Management and
+                                       FirsTech.
 What we do
 How does Busey protect my personal     To protect your personal information from unauthorized access
 information?                           and use, we use security measures that comply with federal law.
@@ -75,9 +74,8 @@ else?
 Definitions
 Affiliates                             Companies related by common ownership or control. They can be
                                        financial and nonfinancial companies.
-                                          Our affiliates include financial companies such as Busey Bank,
-                                            Busey Wealth Management, Busey Trust Company, Busey Capital
-                                            Management, Inc., and Trevett Capital Partners.
+                                           Our affiliates include financial companies such as Busey Bank,
+                                            Busey Capital Management and FirsTech.
 Nonaffiliates                          Companies not related by common ownership or control. They can be
                                        financial and nonfinancial companies.
                                            Busey does not share with nonaffiliates so they can market to you.
@@ -85,3 +83,4 @@ Joint marketing                        A formal agreement between nonaffiliated 
                                        together market financial products or services to you.
                                           Our joint marketing partners include credit card companies and
                                             investment companies.
+                                                                                             Updated 11/2018
