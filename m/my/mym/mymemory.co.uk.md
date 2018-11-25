@@ -1,37 +1,73 @@
-> *The following text is extracted and transformed from the mymemory.co.uk privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125052357id_/https%3A//www.mymemory.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymemory.co.uk privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125035852id_/https%3A//www.mymemory.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyMemory
 
-This privacy policy sets out how we use and protect any information that you give when you use this website. MyMemory is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. MyMemory may change this policy by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+This privacy policy explains how MyMemory uses the personal information we collect about you when you use our website. 
 
-## What we collect
+Topics
 
-We may collect the following information:
-
-  * Name
-  * Contact information including email address
-  * Demographic information such as postcode, preferences and interests
-  * Other information relevant to customer surveys and/or offers
-
-
-
-For the exhaustive list of cookies we collect see the List of cookies we collect section. 
-
-## What we do with the information we gather
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * With your prior consent we may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * What information do we collect about you?
+  * How do we use your information?
+  * Marketing
+  * Access to your information and correction
+  * Links to other websites
+  * Changes to our privacy policy
+  * How to contact us
+  * Cookies
+  * List of cookies we collect
 
 
 
-## Security
+## What information do we collect about you?
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+We collect information about you when you visit our website, register with us, or place an order. We also collect information when you voluntarily complete customer surveys, provide feedback, signup to our mailing list, or participate in competitions.
 
-## How we use cookies
+Information we may collect includes:
+
+  * Contact information including name, email address, postal address, and telephone number
+  * Demographic information such as location, preferences, and interests
+  * Other information relevant to customer surveys or offers
+
+
+
+Website usage information is collected using cookies. To see the full list of cookies we collect scroll down the page or click here. 
+
+## How do we use your information?
+
+We collect information about you to process your order, manage your account and, if you agree, email you about other products and services we think may be of interest to you. We also use your information collected from the website to personalise your repeat visits to our website.
+
+Whilst MyMemory will not share your information with any third parties, we may utilise your information to provide you with personalised product recommendations via third party platforms.
+
+In processing your order we may send your details to, and also use information from, credit reference agencies and fraud prevention agencies. 
+
+## Marketing
+
+With your consent we will send you information about products which we hope will be of interest to you. You have a right at any time to stop us from contacting you for marketing purposes. If you no longer wish to be contacted for marketing purposes, please update your email preferences by clicking the link in the footer of any marketing email you have received from us, or by contacting our customer support team. 
+
+## Access to your information and correction
+
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please email us at support@mymemory.com.
+
+We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate.
+
+## Links to other websites
+
+Our website contains links to other websites. This privacy policy only applies to this website so when you link to other websites you should read their own privacy policies. 
+
+## Changes to our privacy policy
+
+We keep our privacy policy under regular review and we will place any updates on this page. This privacy policy was last updated on 19th May 2018. 
+
+Please contact us if you have any questions about our privacy policy or information we hold about you.
+
+  * Email us at [support@mymemory.com](mailto:support@mymemory.com)
+  * Call us on +44 (0)203 8902558 between Monday to Friday, 10am to 4pm (GMT)
+  * Our live chat service is open Monday to Friday, 9am to 4pm (GMT)
+  * Write to us at MyMemory Ltd,2 Britannia Place, St Helier, Jersey, JE2 4SU
+
+
+
+## Cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
@@ -39,48 +75,34 @@ We use traffic log cookies to identify which pages are being used. This helps us
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-## Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
-
-## Controlling your personal information
-
-If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at support@mymemory.com 
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to MyMemory Ltd, 2 Britannia Place, St Helier, Jersey, JE2 4SU . 
-
-If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
-
 ## List of cookies we collect
 
 The table below lists the cookies we collect and what information they store.
 
-COOKIE name | COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency.  
-CUSTOMER | An encrypted version of your customer ID with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID.  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | Your session ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.   
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+Domain | Name | Information  
+---|---|---  
+.abmr.net | 01AI | Targeting/Advertising  
+.c.paypal.com | sc_f | Paypal  
+.facebook.com | fr | Targeting/Advertising  
+.mymemory.co.uk | _ga | Google Analytics  
+.mymemory.co.uk | _gat | Google Analytics  
+.mymemory.co.uk | _gid | Google Analytics  
+.paypal.com | KHcl0EuY7AKSMgfvHl7J5E7hPtK | Paypal  
+.paypal.com | X-PP-SILOVER | Paypal  
+.paypalobjects.com | PYPF | Paypal  
+.stats.paypal.com | c | Paypal  
+.thefilter.com | FilterUserGuid | Personalisation  
+.www.mymemory.co.uk | __mm_checkoutoffer | Personalisation  
+.www.mymemory.co.uk | am_promo_notification | Personalisation  
+.www.mymemory.co.uk | external_no_cache | Performance / Functionality  
+.www.mymemory.co.uk | frontend | Performance / Functionality  
+.www.mymemory.co.uk | frontend_cid | Performance / Functionality  
+.www.mymemory.co.uk | mailchimp_landing_page | Targeting/Advertising  
+.www.mymemory.co.uk | mymemory_devicedetection_cache | Personalisation  
+js.gleam.io | _mkra_ctxt | Targeting/Advertising  
+pubsub.rtschannel.com | io | Performance / Functionality  
+pubsub.rtschannel.com | SERVERID | Performance / Functionality  
+ssl.kaptcha.com | k | Performance / Functionality  
+wchat.freshchat.com | JSESSIONID | Personalisation  
+www.google.com | OTZ | Google Analytics  
+www.mymemory.co.uk | DAPROPS | Personalisation
