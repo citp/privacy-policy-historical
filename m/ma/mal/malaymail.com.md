@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malaymail.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515071114id_/https%3A//www.malaymail.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malaymail.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125023919id_/https%3A//www.malaymail.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Malay Mail
 
