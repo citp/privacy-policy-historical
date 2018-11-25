@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taleo.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622133433id_/https%3A//www.oracle.com/legal/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taleo.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125141718id_/https%3A//www.oracle.com/legal/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy @ Oracle | Oracle
 
@@ -12,3 +12,5 @@ Oracle respects your preferences concerning the collection and use of your Perso
 
 
 If you would like to exercise your preferences or learn more about how you can control Oracle’s collection and use of your personal information, please refer to the ‘What are your Choices?’ section in each of these policies or to the [Privacy Choices](https://web.archive.org/legal/privacy/privacy-choices.html) tab.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=c3494dad-9836-48cf-9d86-0f36fc9a04c6 "TRUSTe")
