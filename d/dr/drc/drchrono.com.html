@@ -1,512 +1,532 @@
-<!--The following is the downloaded HTML source of the drchrono.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606185359id_/https%3A//www.onpatient.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drchrono.com privacy policy that was archived on 2018-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181125121559id_/https%3A//www.drchrono.com/ehr-emr/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><style type="text/css">.ng-animate.item:not(.left):not(.right){-webkit-transition:0s ease-in-out left;transition:0s ease-in-out left}</style><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}</style>
-    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYOWFNSGwICUlhbBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"cc010cc7dc","agent":"","transactionName":"NVFTMEQEVkBUAExdDAwbdxFYBkxaWg0XUAkDWlYLGBNRVkIQFlMGDFFDDVVLWlJGBgJgBg9EXQVCAG5aUBQ=","applicationID":"1269924","errorBeacon":"bam.nr-data.net","applicationTime":35}</script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html><html class=" async-hide"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="google-site-verification" content="rxkGj48pbK9hpPDCG8SUZXCFgo1t7o7Et7rXlZZg7D8">
     
-    
-    
-      
-    
-    
-    <title>Privacy Policy | onpatient</title>
+<meta name="description" content="drchrono's Privacy Policy for our meaningful use certified EHR/EMR software with medical billing &amp; our commitment to the confidentiality of private information.">
+<meta name="keywords" content="electronic health records, EMR, EHR, privacy policy, mobile EHR, medical billing, eRX, icd 10 conversion, meaningful use, mobile, software, iPad, iPhone">
 
-    <link rel="icon" href="/site_media/images/icon.png" type="image/png">
-    <link rel="shortcut icon" href="/site_media/images/favicon.ico">
-    <link rel="apple-touch-icon" href="/site_media/images/icon.png">
 
+    <script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/bxusak8tayxregtep7te/analytics.min.js"></script><script id="webapp-url" type="text/javascript">
+  const webapp = "https://app.drchrono.com" || "https://app.drchrono.com";
+</script>
     
-     <link rel="stylesheet" type="text/css" href="/site_media/css/bootstrap.min.5d5357cb3704.css">
-     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" media="screen" data-via-asset-tag="true">
-     <link rel="stylesheet" type="text/css" href="/site_media/css/intlTellInput.70fd44de800b.css">
-     <link rel="stylesheet" type="text/css" href="/site_media/css/onpatient.27814a281784.css">
-     <link rel="stylesheet" type="text/css" href="/site_media/css/jquery.chosen.f0de903d7bcf.css">
-     <link rel="stylesheet" type="text/css" href="/site_media/css/angular-loading-bar-0.6.0.2e7a84a03f27.css">
-     
-    
-    
-    
-
-    
-    <script src="//www.google.com/recaptcha/api.js"></script>
-    <script src="//maps.googleapis.com/maps/api/js?v=3.exp"></script>
-    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
-    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-    <script src="/site_media/js/old_vendor/bootstrap.min.c5b5b2fa19bd.js"></script>
-    <script src="/site_media/js/old_vendor/bootstrap-accessibility.min.46d9ba71e0ba.js"></script>
-
-    
-    
-    
-    <script src="/site_media/js/old_vendor/heyoffline.1.0.min.13c42dedf5ac.js"></script>
-    <script src="/site_media/js/old_vendor/json2.min.c38737eebeca.js"></script>
-    <script src="/site_media/js/old_vendor/jquery.chosen.min.1d9d548addfa.js"></script>
-    <script src="/site_media/js/old_vendor/intlTellInput.min.9b0309bff835.js"></script>
-    <script src="/site_media/js/old_vendor/phone-utils.min.75f74f8c76d7.js"></script>
-    <script src="/site_media/js/old_vendor/dropzone.min.6c911693651c.js"></script>
-    <script src="/site_media/js/src/csrf-setup.b2d8147eee5f.js"></script>
-
+    <!-- Page hiding snippet (recommended) -->
+    <style>.async-hide { opacity: 0 !important} </style>
     <script>
-        function codeAddress(canvas, address) {
-            (new google.maps.Geocoder()).geocode({
-                'address': address,
-            }, function(results, status) {
-                if (status == google.maps.GeocoderStatus.OK) {
-                    var myOptions = {
-                        zoom: 14,
-                        center: results[0].geometry.location,
-                        mapTypeId: google.maps.MapTypeId.ROADMAP,
-                        panControl: false,
-                        mapTypeControl: false,
-                        rotateControl: false,
-                        streetViewControl: false,
-                        zoomControlOptions: {
-                            style: google.maps.ZoomControlStyle.LARGE,
-                            position: google.maps.ControlPosition.RIGHT_CENTER,
-                        },
-                    };
-                    var map = new google.maps.Map(canvas, myOptions);
-
-                    var marker = new google.maps.Marker({
-                        map: map,
-                        position: results[0].geometry.location
-                    });
-                }
-            });
-        }
+    (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);
+    })(window,document.documentElement,'async-hide','dataLayer',4000,{'GTM-MN4BRV':true});
     </script>
-  </head>
-  <body id="settings">
     
-
-
-<script>
-  $(document).ready(function(){
-    "use strict";
-    $('body').on('touchstart.dropdown', '.dropdown-menu', function (e) { e.stopPropagation(); });
-    $('#logout').on('click', function() {
-      $.ajaxSetup({
-        headers: { "X-CSRFToken": getCookie("csrftoken") }
-      });
-      $.post("/account/logout/", function(data) {
-        window.location.href = data.redirect;
-      });
-    });
-  });
+    <script type="text/javascript">
+!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(n,o);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.1.0";
+  analytics.load("bxusak8tayxregtep7te", {"integrations": {
+    "Salesforce": false,
+    "Cordial": false,
+  }});
+  analytics.page();
+}}();
 </script>
 
 
-<nav class="navbar navbar-default" ng-style="style.navbar">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="/" target="_self">
-        <img alt="onpatient" src="/site_media/images/logo-onpatient-dark.svg" ng-src="[[ style.logo ]]" height="35">
-      </a>
-    </div>
-    <div class="navbar-right" ng-hide="hidingNavBar">
-      <a href="/login/" target="_self" class="btn btn-link navbar-btn">
-        Login
-      </a>
-      <a href="/signup/" target="_self" class="btn btn-onpatient navbar-btn">
-        Sign Up
-      </a>
-    </div>
-  </div>
-</nav>
+    
 
+    <title>EHR/EMR, Medical Billing, RCM - Privacy Policy | drchrono</title>
 
-    <div class="wrapper">
-      <div ng-non-bindable="">
-      
+    <script type="text/javascript" src="/site_media/main-abe208352caa874fc7ee.dda878bbda80.js"></script>
+<link type="text/css" href="/site_media/main-b189aac2d69b5c4020b2162a11a4655a.b189aac2d69b.css" rel="stylesheet">
+    
+ <link rel="alternate" href="https://www.drchrono.com/ehr-emr/privacy-policy/" hreflang="en">
+
+    <link rel="icon" href="/site_media/images/logos/drchrono_icon_rounded_16x16.833d5f1b1af4.png" type="image/png">
+    <link rel="apple-touch-icon" href="/site_media/images/icon_drchrono_web_app.d3e255e9bfd2.png">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/site_media/images/apple-touch-icon-76x76-precomposed.8600de906db1.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/site_media/images/apple-touch-icon-114x114-precomposed.aac687daaeca.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/site_media/images/apple-touch-icon-120x120-precomposed.d80451b93309.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/site_media/images/apple-touch-icon-144x144-precomposed.ac78828e3fd2.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/site_media/images/apple-touch-icon-152x152-precomposed.be093bd57977.png">
+
+    <link rel="stylesheet" type="text/css" href="/site_media/css/drchrono-stylesheet-2018.b0be264740f6.css">
+
+    <script src="/site_media/js/jquery.query-object.df77c8bf9c09.js"></script>
+    <script src="/site_media/js/navgoco.82266f9eca59.js"></script>
+    <script src="/site_media/js/custom.ba194c6b77e2.js"></script>
+    <script type="text/javascript" src="//www.lightboxcdn.com/vendor/6b8e1518-c41d-4765-b985-c843a5c02e12/lightbox_inline.js"></script>
+    
+    
+
+    
+    
+  </head>
+
+  <body id="legal-policy-page" ng-app="drchrono">
+
+  
+
+  
+    <header>
+      <div class="container-fluid dark-nav" style="z-index:999">
+    <div id="navigation-bar" class="container text-right">
+      <div class="row">
+      <div class="mini-menu col-md-12">
+        <ul class="list-inline">
+        <li>Call: (844) 569-8628 Text: (650) 215-6343</li><span>|</span>
+        
+        <li><a href="/ehr-pricing-quote/">Get a Quote</a></li><span>|</span>
+        <li><a href="/schedule-demo/">Request Demo</a></li><span>|</span>
+        <li><a href="/accounts/login/"><strong>Log In</strong></a></li>
+        
+        </ul>
       </div>
+      </div>
+      <div class="row">
+      <div class="col-sm-2 col-md-2 text-left logo-wrap">
+        <a href="/"><img src="/site_media/images/drchrono-dark.147e4bb0e0c3.png" id="logo-header" class="logo" alt="DrChrono gray logo"></a>
+      </div>
+      <div class="col-sm-10 col-md-10">
+        <nav class="primary-nav">
+        <ul class="list-inline">
+        <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Solutions</a>
+        <ul class="dropdown-menu">
+          <li><a href="#">Providers</a>
+             <ul class="dropdown-menu sub-menu">
+                <li><a href="/ehr-emr/large-practice/">Large Practice</a></li>
+                <li><a href="/ehr-emr/small-practice/">Small Practice</a></li>
+                <li><a href="/ehr-emr/specialty/">Specialty</a></li>
+              </ul>
+          </li>
+          <li><a href="https://onpatient.com/" target="_blank">Patients</a></li>
+          <li>
+          <a href="#">Partners</a>
+           <ul class="dropdown-menu sub-menu">
+              <li><a href="/ehr-emr/partners/">Become a Partner</a></li>
+              <li><a href="/api/">API Developers</a></li>
+              <li><a href="/ehr-emr/apple-mobility-partner/">Apple Mobility Partner Program</a></li>
+              <li><a href="/university-ehr-emr/">Universities &amp; Schools</a></li>
+              <li><a href="/apps/">App Directory</a></li>
+            </ul>
+          </li>
+        </ul>
+        </li>
+        <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Platform</a>
+        <ul class="dropdown-menu">
+          <li><a href="/electronic-health-record-ehr/">EMR</a></li>
+          <li><a href="/ehr/practice-management/">Practice Management</a></li>
+          <li><a href="/medical-billing/">Medical Billing</a></li>
+          <li><a href="/revenue-cycle-management/">Revenue Cycle Management</a></li>
+          <li><a href="/patient-portal-phr/">Patient Portal</a></li>
+        </ul>
+        </li>
+        <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Resources</a>
+        <ul class="dropdown-menu">
+          <li>
+          <a href="#">Value Based Care</a>
+           <ul class="dropdown-menu sub-menu">
+               <li><a href="/macra-mips/">MACRA</a></li>
+               <li><a href="/meaningful-use-ehr/">MU</a></li>
+            </ul>
+          </li>
+          <li><a href="/resources/">Resources</a></li>
+          <li><a href="/apps/">App Directory</a></li>
+          <li><a href="/ehr-emr/medical-form-templates/">Forms</a></li>
+          <li><a href="/medical-billing-code-search/">Billing Codes</a></li>
+          <li><a href="/pricing/">Plans</a></li>
+          <li><a href="https://support.drchrono.com" target="_blank">Support</a></li>
+          <li><a href="/colleague-referral/">Refer a Colleague</a></li>
+        </ul>
+        </li>
+        <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Company</a>
+        <ul class="dropdown-menu">
+          <li><a href="/about/">About Us</a></li>
+          <li><a href="https://blog.drchrono.com/category/press/" target="_blank">Press</a></li>
+          <li><a href="https://blog.drchrono.com/company/news/" target="_blank">News</a></li>
+          <li><a href="https://blog.drchrono.com/" target="_blank">Blog</a></li>
+        </ul>
+        </li>
+           
+                  <span>
+                    <a class="btn btn-secondary" href="/sign-up/full/" data-mixpanel="sign-up-for-free-public-base-2016">Try Now</a>
+                  </span>
+         
+        </ul>
+        </nav>
+      </div>
+      </div>
+    </div>
+    </div>
+   
+    <a href="/"><img src="/site_media/images/drchrono-dark.147e4bb0e0c3.png" class="logo-mobile" alt="DrChrono gray logo"></a>
+    <a id="nav-expander" class="nav-expander">
+    <img src="/site_media/images/menu-icon-dark.a6a0fe3432a2.png" alt="Mobile menu icon">
+    </a>
+    <nav class="mobile">
+    <div class="site-branding">
+      <a href="#" id="nav-close"><img src="/site_media/images/x.44562b314230.png" alt="Close out of menu icon"></a>
+    </div>
+
+    <ul class="text-center list-unstyled">
+      <li class="dropdown">
+        <a data-toggle="collapse" href="#mobile-nav" role="button" aria-expanded="false" aria-controls="mobile-nav">Solutions<span class="caret"></span></a>
+          <ul class="collapse" id="mobile-nav">
+            <li><a href="/ehr-emr/specialty/">Providers</a></li>
+            <li><a href="https://onpatient.com/" target="_blank">Patients</a></li>
+            <li><a href="/ehr-emr/partners/">Partners</a></li>
+          </ul>
+       </li>
+      <li class="dropdown">
+        <a data-toggle="collapse" href="#mobile-nav2" role="button" aria-expanded="false" aria-controls="mobile-nav2">Platform<span class="caret"></span></a>
+          <ul class="collapse" id="mobile-nav2">
+            <li><a href="/electronic-health-record-ehr/">EMR</a></li>
+            <li><a href="/ehr/practice-management/">Practice Management</a></li>
+            <li><a href="/medical-billing/">Medical Billing</a></li>
+            <li><a href="/revenue-cycle-management/">Revenue Cycle Management</a></li>
+            <li><a href="/patient-portal-phr/">Patient Portal</a></li>
+          </ul>
+       </li>
+      <li class="dropdown">
+        <a data-toggle="collapse" href="#mobile-nav3" role="button" aria-expanded="false" aria-controls="mobile-nav3">Resources<span class="caret"></span></a>
+          <ul class="collapse" id="mobile-nav3">
+          <li><a href="/macra-mips/">Value Based Care</a></li>
+          <li><a href="/resources/">Resources</a></li>
+          <li><a href="/apps/">App Directory</a></li>
+          <li><a href="/ehr-emr/medical-form-templates/">Forms</a></li>
+          <li><a href="/medical-billing-code-search/">Billing Codes</a></li>
+          <li><a href="/pricing/">Plans</a></li>
+          <li><a href="https://support.drchrono.com" target="_blank">Support</a></li>
+          <li><a href="/colleague-referral/">Refer a Colleague</a></li>
+          </ul>
+       </li>
+      <li class="dropdown">
+        <a data-toggle="collapse" href="#mobile-nav4" role="button" aria-expanded="false" aria-controls="mobile-nav4">Company<span class="caret"></span></a>
+          <ul class="collapse" id="mobile-nav4">
+            <li><a href="/about/">About Us</a></li>
+            <li><a href="https://blog.drchrono.com/category/press/" target="_blank">Press</a></li>
+            <li><a href="https://blog.drchrono.com/company/news/" target="_blank">News</a></li>
+            <li><a href="https://blog.drchrono.com/" target="_blank">Blog</a></li>
+          </ul>
+       </li>
+           
+            <span class="block">
+            <a class="btn btn-mobile" href="/sign-up/full/">Try Now</a>
+            </span>
+            <span class="block top20">
+              <a class="btn btn-primary-inverse" href="/accounts/login/">Log In</a>
+           </span>
       
-<div class="container" style="margin-top:35px;">
-  <div class="row">
-    <div class="col-xs-12">
-      <h2>Privacy Policy</h2>
+    </ul>
+    </nav>
+    </header>
+    
 
-      <p>Your privacy is very important to drchrono. This Privacy Policy (this “Policy”) sets out how
-        we handle and secure information collected by drchrono’s onpatient website and applications
-        (collectively, the “onpatient website”). Please review this policy carefully.</p>
 
-      <h3>How we collect data</h3>
+      
+        <div id="main-content">
+          
 
-      <p>Information submitted that you submit: There are several ways you can submit data to drchrono
-        in using the onpatient website. Some examples of those are by:</p>
+<style>
 
-      <ul>
-        <li>typing information into our website (examples: registering with onpatient, sending a
-          message to your provider, scheduling an appointment);</li>
-        <li>uploading an image, a document or any other data; or</li>
-        <li>requesting that drchrono retrieve or import information from another party on your behalf.</li>
-      </ul>
+.alphabet li{
+  list-style-type:lower-alpha;
+  margin-bottom:10px;
+}
 
-      <p>Other information: the onpatient website stores additional data when you view, navigate to, log
-        in or otherwise interact with it. As with other websites and interactive services, whenever you
-        interact with the onpatient website, your computer, mobile phone or tablet (a “device”) and its
-        software sends a “request” to us. That request will include non-personal information received
-        from your Device (and any related software) that we use to identify and appropriately route the
-        information your Device is requesting (in a “reply”). “Requests” and “replies” of this sort are
-        used by all websites and Internet services. Therefore, whenever you:</p>
+.roman li{
+  list-style-type:lower-roman;
+  margin-bottom:10px;
+}
 
-      <ul>
-        <li>Visit and navigate through the onpatient website,</li>
-        <li>Click on a link,</li>
-        <li>Open a webpage or web form,</li>
-        <li>Open a web-enabled email sent by drchrono, or</li>
-        <li>Otherwise use the elements of the onpatient website,</li>
-      </ul>
+.legal-link {
+  font-size:14px;
+  font-weight: 500;
+  padding: 10px;
+}
+</style>
+<div class="visible-xs top40">&nbsp;</div>
+<div class="container">
+  <div class="row top40 bottom40">
+    <div class="col-md-4 col-lg-3 bottom20">
+      <div class="btn-group-vertical block" role="group" aria-label="...">
+        <a href="/ehr-emr/terms/" class="legal-link btn btn-default align-left">Terms of Service</a>
+        <a href="/business-associate-agreement/" class="legal-link btn btn-default align-left">Business Associate Addendum</a>
+        <a href="/ehr-emr/privacy-policy/" class="legal-link btn btn-default align-left active">Privacy Policy</a>
+        <a href="/ehr-emr/security-policy/" class="legal-link btn btn-default align-left">Security Policy</a>
+      </div>
+    </div>
 
-      <p>your Device transmits non-personal information to drchrono.</p>
+    <div class="col-md-8 col-lg-offset-1">
 
-      <p>In addition to managing the appropriate routing of information, we use cookies, web beacons,
-        server logs and other tools to enhance the quality of the onpatient website and the content you
-        receive. We have several tools that we use that allow us to:</p>
-
-      <ul>
-        <li>save user preferences;</li>
-        <li>preserve session settings and activity;</li>
-        <li>help authenticate users;</li>
-        <li>allow users to auto-fill sign-in pages of websites they frequently visit;</li>
-        <li>debug and evaluate the performance of the onpatient website.</li>
-      </ul>
-
-      <p>Thus, even when you do not submit any personal information on the onpatient website (for
-        example, by logging in), your Device will transmit, and these tools will receive, information
-        about your Device. We call such data “Engagement Data.”</p>
-
-      <p>Engagement Data can include several pieces of information such as the time a “request” was
-        made, the type of browser used to make a request, the version of the onpatient application
-        you are using on the iPad, IP address, the Device’s geographic location, the URL a Device
-        most recently visited, and, when using the onpatient mobile application, an anonymous
-        unique number. Engagement Data generally does not personally identify any particular user.
-        Nevertheless, Engagement Data can be used in conjunction with personal information. If these
-        circumstances, drchrono treats such combined information as personal information. In the event
-        that the tools we mentioned above collect data containing personal information, drchrono will
-        treat that data as personal information.</p>
-
-      <p>Personal Information: “Personal Information” is information that you submit to us that identifies
-        you or can be used to contact you. Personal Information can include government-issued
-        ID numbers (such as a social security number), information used by banks and credit cards
-        to identify you or, as another example, insurance-issued ID numbers. drchrono sometimes
-        combines non-personal information with other information in a way that makes the combined
-        information Personal Information. Drchrono treats this combined information the same way we
-        treat personal information.</p>
-
-      <h3>How drchrono uses your information</h3>
-
-      <p>We use personal and non-personal information for:</p>
-
-      <ul>
-        <li>Maintaining and operating the onpatient website (this may include registering you,
-          processing payments or providing you with customer support);</li>
-        <li>Responding to questions and communications, which we retain in the ordinary course of
-          business;</li>
-        <li>Announcements about onpatient features, terms, policies or other aspects of the onpatient
-          website;</li>
-        <li>Protecting the onpatient website, the information it protects, the rights of third parties and
-          in response to legal process (more fully discussed below) and</li>
-        <li>Any other purpose described in this Policy.
-          We use non-personal information for:</li>
-        <li>Evaluating and profiling the performance of the onpatient website, including analyzing
-          usage trends and patterns and measuring the effectiveness of content, advertising,
-          features or services;</li>
-        <li>Creating new features and services;</li>
-        <li>Contextual and cookie-based content delivery (for example for delivering certain images
-          to you and your Device) and</li>
-        <li>Other purposes described in this Policy or your User Agreement.</li>
-      </ul>
-
+      <h1 class="top0">Website and Client Services Privacy Policy</h1>
       <p>
-        We may also use non-personal information to prepare aggregate reports that illustrate trends
-        about the general use of the onpatient website. Such reports may include age, gender or other
-        general user information. These reports will not include personal information.
+        Last updated: February 1, 2015
       </p>
+      <br>
 
-      <h3>Consents and Authorizations:</h3>
+      <p>This Website and Client Services Privacy Policy (<b>“Privacy Policy”</b>) covers “Personal Information” collected by drchrono from clients, third parties at the direction of users, and client systems as well as through the operation of websites, mobile applications, and software by drchrono Inc. and its affiliates and subsidiaries (<b>“drchrono,”</b> <b>“we,”</b> and <b>“us”</b>), including <a href="https://www.drchrono.com">drchrono</a> and <a href="https://www.onpatient.com" target="_blank">onpatient</a> (collectively <b>“drchrono Service”</b>).  The Privacy Policy describes how drchrono collects, uses, and discloses “Personal Information.”</p>
+      <p><b>“Personal Information”</b> means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, phone number, social security number, and insurance-issued ID numbers.  “Personal Information” also includes identifiable health information collected about you.  We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.</p>
 
-      <p>drchrono may request your consent or authorization in connection with the use or sharing of your
-        information. In some instances, this will be because this Policy or applicable law or regulations
-        require us to obtain such consent. In other instances, such consent will be for informational
-        purposes. Any request to obtain your consent does not narrow the scope of this Policy. By using
-        the onpatient website, you accept and agree to drchrono’s information handling practices in the
-        manner described.</p>
+      <h3>About drchrono</h3>
+      <p>drchrono provides patients and health service providers with the drchrono Service to manage appointments, personal health records, communications, and other related activities.  Other than information gathered through our website at <a href="https://www.drchrono.com">www.drchrono.com</a>, drchrono acts as a service provider for health service providers and does not own or control the information that is submitted to us through the drchrono Service.  The information that is submitted through the drchrono Service will be held subject to the requirements specified by our health service provider clients and applicable law, such as the Health Insurance Portability and Accountability Act (HIPAA).</p>
+      <p>This Privacy Policy does not reflect the privacy practices of drchrono’s health service provider clients and drchrono is not responsible for our clients’ privacy policies or practices.  drchrono does not review, comment upon, or monitor our health service provider clients’ privacy policies or their compliance with their respective privacy policies, nor does drchrono review our client’s instructions to determine whether they are in compliance or conflict with the terms of a client’s published privacy policy or applicable law.</p>
 
-      <h3>How users share information:</h3>
+      <h3>Collection of personal information</h3>
+      <div class="well well-slim">
+        <p>We may collect information, including Personal Information, about you:</p>
+        <ul class="bulleted">
+          <li>when you use the drchrono Service;</li>
+          <li>from your health service provider;</li>
+          <li>from third parties when you or your health service provider directs us to gather information from them; and</li>
+          <li>when you communicate with us.</li>
+        </ul>
+        We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the drchrono Service.
+      </div>
 
-      <p><strong><em>Scheduling appointments:</em></strong>
-        When you contact or schedule an appointment with a provider, the
-        provider will need your name, contact information, as well as other information.</p>
-      <p><strong><em>Direct Communications:</em></strong>
-        You can use the onpatient website to facilitate direct communications
-        between users:</p>
+      <p><b>The drchrono Website.</b>  You may visit the websites of drchrono without revealing any Personal Information.  However, in some instances, drchrono may require certain Personal Information, such as business contact information, so we can respond to your inquiries or provide you with requested information.</p>
+      <p><b>The drchrono Service.</b>  The drchrono Service may collect information, including Personal Information and health information, about you in three ways: (1) from you directly, (2) from a health service provider, or (3) from a third party as directed by you or a health service provider.</p>
+      <p><b>Directly from Users.</b>  There are several ways you can submit data to the drchrono Service.  For example, you can:</p>
 
-      <ul>
-        <li>Requesting an appointment with a healthcare provider; </li>
-        <li>Authorizing another onpatient user to receive information and communications from a
-          particular provider or</li>
-        <li>Receiving or sending a message to a provider.</li>
+      <ul class="bulleted">
+        <li>type information into the drchrono Service (examples: registering, updating your profile, sending a message to your provider, scheduling an appointment);</li>
+        <li>upload an image, a document, or any other data; or</li>
+        <li>when you provide feedback to help drchrono improve its operations.  You should exercise care in selecting the information that you share in a survey or feedback communication.  We strongly recommend against providing drchrono any personal health or other sensitive information that could be traced to you or any other individual.</li>
       </ul>
 
-      <p>In any direct communication, users may send information to one another. Depending on the
-        contents of this information, personal information could be included.</p>
+      <p><b>Making Payments.</b> When you make payments through the drchrono Service, you may need to provide financial account information, such as your credit card number, to our third-party service providers.</p>
+      <p><b>Customer Support.</b> We may collect Personal Information through your communications with our customer-support team.</p>
+      <p><b>Cookies, Automatic Data Collection, and Related Technologies.</b>  drchrono and our third-party partners, such as analytics service providers, may automatically receive and record certain non-Personal Information from users using cookies, web beacons, server logs and other similar tools.  For example, drchrono may collect information about how you visit and navigate through the drchrono Service, when you click on a link or open a web page, use certain elements of the drchrono Service, or open an email sent by drchrono.  drchrono may use this information to provide certain functionality, improve the tools and services, and monitor the use of the tools and services.  For example, we use these tools to save user preferences, preserve session settings and activity, help authenticate users, allow users to auto-fill sign-in pages of websites they frequently visit, and debug and evaluate the performance of the drchrono Service.  Our partners also may collect such information about your online activities over time and on other websites or apps.  You may be able to change browser settings to block and delete cookies when you access the drchrono Service through a web browser.  However, if you do that, the drchrono Service may not work properly.</p>
 
-      <p><strong><em>Surveys and Ratings:</em></strong>
-        drchrono sometimes asks users to provide feedback to help drchrono
-        improve its operations. The content of feedback is presumed public. drchrono will let you
-        know in advance how it will use survey or rating feedback in any such request. You should
-        exercise care in selecting the information that you share in a survey or feedback communication.
-        We strongly recommend against providing drchrono any personal health or other sensitive
-        information that could be traced to you or any other individual.</p>
+      <h3>Use of personal information</h3>
+      <div class="well well-slim">
+        <p>We use Personal Information to:</p>
+        <ul class="bulleted">
+          <li>facilitate and improve our services,</li>
+          <li>as permitted by our agreements with health service providers and applicable law; and</li>
+          <li>communicate with you.</li>
+        </ul>
+        <p>We may use anonymized and aggregate information for business purpose.</p>
+      </div>
 
-      <p><strong><em>Records:</em></strong>
-        The onpatient website allows you to store personal and health information
-        (“Records”), including Records that identify other individuals, including other users. The
-        onpatient website allows you to share all or portions of these Records at your discretion.</p>
+      <p><b>Internal and Service-Related Usage.</b>  We use information, including Personal Information, for internal and service-related purposes and may provide it to third parties to allow us to facilitate the drchrono Service.  We may use and retain any data we collect to provide and improve our services.</p>
+      <p>For example, we may use Personal Information for the following purposes:</p>
 
-      <p>You should be aware that this Policy covers only the information you submit through the
-        onpatient website or the information that is provided to you by your provider via the onpatient
-        website. If you exchange or transmit information through any means other than the onpatient
-        website, such activity is not covered by this Policy.</p>
-
-      <p>Because the onpatient website allows users to share information, you should take care in
-        selecting the persons with whom you share your Records. Although the onpatient website
-        processes and facilitates such transmissions, drchrono does not take responsibility for the actions
-        of other users or persons with whom you share your Records.</p>
-
-      <p>Confidentiality of Health Information: Some of our users—such as healthcare providers—
-        are subject to laws and regulations governing the use and disclosure of health information they
-        create or receive. Included among them is the Health Insurance Portability and Accountability
-        Act of 1996 (“HIPAA”), the Health Information Technology for Economic and Clinical Health
-        of 2009 (“HITECH”), and the regulations adopted thereunder. When drchrono stores, processes
-        or transmits “individually identifiable health information” (as such term is defined by HIPAA)
-        on behalf of a health care provider who has entered a Healthcare Provider User Agreement, we
-        do so as its “business associate” (as also defined by HIPAA). Under this agreement, drchrono is
-        prohibited from using individually identifiable health information in a manner that the provider
-        itself may not. drchrono is required to, among other things, apply reasonable and appropriate
-        measures to safeguard the confidentiality, integrity and availability of individually identifiable
-        health information we store and process on behalf of such providers. drchrono is subject to laws
-        and regulations governing the use and information of certain personal and health information,
-        including HIPAA, when it operates as a business associate of a healthcare provider.</p>
-
-      <p>Email communications received from users and drchrono’s administrative announcements
-        are often transactional or relationship messages, such as appointment requests, reminders and
-        cancellations and other notifications. drchrono may not offer you the option of opting out of
-        receiving some of these messages although drchrono may allow you to modify how often you
-        receive such messages. If you opt-in to receiving marketing announcements from drchrono, we
-        will allow you to opt-out of receiving those announcements.</p>
-
-      <p>In some instances, drchrono may also use tools (such as “cookies,” “web beacons” and “server
-        logs”) in its emails to users to collect Engagement Data, and drchrono may use vendors to assist
-        in sending you emails.</p>
-
-      <p>Of course, this Policy does not apply to emails or other communications from individuals
-        that do not use drchrono or the onpatient website, or that are being sent in connection with
-        subject matter other than your use of the onpatient website. For example, if you were to
-        apply to drchrono for employment, that communication would not be covered by this Policy.
-        Similarly, this Policy would not apply to ideas or suggestions you provide in feedback
-        regarding the onpatient website or other products or services by any means—<em>e.g.</em>, email or other
-        communication channels.</p>
-
-      <h3>Sharing of Information</h3>
-
-      <p>We will not share any personal information you submit except under the following circumstances:</p>
-
-      <ul>
-        <li>When you choose to share such information through the onpatient website;</li>
-        <li>When drchrono notifies you at the time you provide such information or drchrono
-          otherwise has your or your provider’s express consent;</li>
-        <li>Your provider (including his or her staff) will have access to your account information,
-          including your personal information. Your provider may: (i) receive and store your
-          account information; (ii) change your password; (iii) restrict your ability to submit, delete
-          or edit information; (iv) suspend or terminate your account access or (v) access or retain
-          any information you provide or otherwise stored as part of your account for any purposes
-          required or permitted under applicable law; </li>
-        <li>When drchrono shares such information with its current and future affiliates;</li>
-        <li>When drchrono provides such information to trusted service providers consistent with the
-          terms of this Policy with the approval of your provider. Such service providers will be
-          bound by appropriate confidentiality and security obligations which may include business
-          associate contract obligations; </li>
-        <li>When drchrono protects the onpatient website, the information it stores, the rights of third
-          parties and in response to legal process, as more fully described below;</li>
-        <li>In connection with a sale, merger, reorganization or other disposition (whether of assets,
-stock, or otherwise) of all or a portion of the business conducted by drchrono to which
-this Policy applies. This Policy will govern any such acquiring company’s use of your
-          personal information and</li>
-        <li>Any other purposes described in this Policy. </li>
+      <ul class="bulleted">
+        <li>maintaining and operating the drchrono Service (this may include registering you, processing payments, or providing you with customer support);</li>
+        <li>making announcements about features, terms, policies, or other aspects of the drchrono Service;</li>
+        <li>responding to questions and communications, which we retain in the ordinary course of business; and</li>
+        <li>protecting the drchrono Service, the information it protects, the rights of third parties and in response to legal process (more fully discussed below).</li>
       </ul>
 
-      <p>Other users (for example, providers or staff) that submit your information to, or receive your
-        information from, the drchrono website, could share that information with other persons, without
-        separately notifying you or seeking your consent.</p>
+      <p><b>Consents and Authorizations.</b>  drchrono may request your consent or authorization in connection with the use or sharing of Personal Information about you.  In some instances, this will be because this Privacy Policy or applicable law or regulations require us to obtain such consent.  In other instances, such consent will be for informational purposes.  Any request to obtain your consent does not narrow the scope of this Privacy Policy.  By using the drchrono Service, you accept and agree to drchrono’s information handling practices in the manner described.</p>
+      <p><b>Surveys and Ratings.</b>  The content of feedback you provide to drchrono is presumed public.  drchrono will let you know in advance how it will use survey or rating feedback in any such request for such information.</p>
+      <p><b>Protect the drchrono Service and data it stores.</b>  We may use the information collected through the drchrono Service to investigate potential or suspected threats to the drchrono Service or to the confidentiality, integrity or availability of the information drchrono stores and maintains.</p>
+      <p><b>Communications.</b>  We may send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance.  We may also send you marketing emails if you request more information about our products and services.  Emails are often transactional or relationship messages, such as appointment requests, reminders and cancellations and other notifications.  drchrono may not offer you the option of opting out of receiving some of these messages although drchrono may allow you to modify how often you receive such messages.  If you opt-in to receiving marketing announcements from drchrono, we will allow you to opt-out of receiving those announcements.</p>
+      <p><b>Anonymized and Aggregate Data.</b>  We may anonymize and aggregate any data collected through the drchrono Service, and use it for business purposes.  For example, we may use such data for evaluating and profiling the performance of the drchrono Service, including analyzing usage trends and patterns and measuring the effectiveness of content, features, or services.</p>
+
+      <h3>Information sharing and disclosure</h3>
+
+      <div class="well well-slim">
+        <p>We may share your information:</p>
+
+        <ul class="bulleted">
+          <li>with our third-party vendors and service providers;</li>
+          <li>with your health service provider and, at your direction, to others;</li>
+          <li>to comply with legal obligations;</li>
+          <li>to protect and defend our rights and property; and</li>
+          <li>with your permission.</li>
+        </ul>
+        <p>We do not rent, sell, or share Personal Information about you with other people or non-affiliated companies for their direct marketing purposes, unless we have your permission.</p>
+      </div>
+
+      <p><b>We Use Vendors and Service Providers.</b>  We may share any information we receive with vendors and service providers retained in connection with the provision of the drchrono Service.  When protected health information is shared, such vendors and service providers will be bound by appropriate confidentiality and security obligations which include business associate contract obligations as required by HIPAA.</p>
+      <p><b>Displaying or Disclosing to Health Service Providers and Others.</b>  The content you provide to the drchrono Service may be displayed on the drchrono Service or disclosed to others at your direction.  Your health service provider (including his or her staff) will have access to your account information, including your Personal Information.  However, your health service provider will not have access to any payment information, such as your credit card number, through the drchrono Service.  Your provider may: (i) receive and store your account information; (ii) change your password; (iii) restrict your ability to submit, delete or edit information; (iv) suspend or terminate your account access or (v) access or retain any information you provide or otherwise store as part of your account for any purposes required or permitted under applicable law.  When you contact or schedule an appointment with a health service provider, the provider will need your name, contact information, as well as other information.  You may also be permitted to share the content of your health records with others.  We are not responsible for the privacy practices of the others who will view and use the information you disclose to others.</p>
+      <p><b>Marketing.</b>  We do not rent, sell, or share Personal Information about you with other people or non-affiliated companies for their direct marketing purposes, unless we have your permission.</p>
+      <p><b>As Required By Law and Similar Disclosures.</b>  We may access, preserve, and disclose collected information, if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; or protect your, our, or others’ rights, property, or safety.</p>
+      <p><b>Merger, Sale, or Other Asset Transfers.</b>  If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction as permitted by law and/or contract.  We cannot control how such entities may use or disclose such information.</p>
+      <p><b>With Your Permission.</b>  We may also disclose your Personal Information with your permission.</p>
+
+      <h3>Information retention</h3>
+      <p>drchrono’s collection, use, and disclosure of information are generally governed by service agreements with our health service provider clients.  Information maintained to provide these services to our business clients is retained only for as long as we have a valid business purpose and in accordance with applicable law.  drchrono may retain archived information for a period of five years (or longer if required by law) as necessary to comply with legal obligations, resolve disputes and enforce our agreements and other authorized uses under this Privacy Policy.</p>
+      <p><b>Account Deactivation.</b>  If you desire to deactivate your account please have your provider contact us.  Upon receiving such a request, drchrono will deactivate your account and archive your Personal Information, including any health information.</p>
+      <p><b>Limits to Your Requests for Access, Amendment, or Deletion.</b>  You may not be able to access, update, or delete information that you share with another user or other party through the drchrono Service.  Others may also submit personal information that identifies you (for example, when submitting medical family history).  You will also not be able to access, update, or delete that information.  Certain users, such as health service providers, may be required under HIPAA and other applicable laws to retain information about patients for extended periods of time.  drchrono will continue to retain such information on their behalf.</p>
+      <p>drchrono indefinitely stores non-personal information, as well as any feedback you provide us.</p>
+
+      <h3>Access / correction</h3>
+      <p>In most cases, drchrono obtains Personal Information on behalf of a health service provider.  To request access to, correction, amendment, or deletion of this Personal Information, a patient or end user should make the change using the drchrono Service or contact the health service provider to which the data was provided.  For other inquiries, please contact us at <a href="mailto:privacy@drchrono.com">privacy@drchrono.com</a>.</p>
+
+      <h3>Security</h3>
+      <p>Please see our Security Policy located at <a href="/ehr-emr/security-policy/">here</a>.</p>
+      <p>No data transmissions over the Internet can be guaranteed to be 100% secure.  Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.  Once we receive your transmission, we take steps to ensure security on our systems.  Please note this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such safeguards.</p>
+      <p>drchrono provides its services to health service providers, and when we process “protected health information” as defined by HIPAA on behalf of such health service providers, we are acting as a “business associate” to them as regulated by HIPAA.  Therefore, drchrono must adopt and maintain appropriate physical, technical, administrative, and organizational procedures to safeguard and secure the protected health information we process.  We also may not access, use, or disclose the protected health information except as permitted by health service provider clients, you, and/or applicable law.  drchrono strives to protect the privacy of the Personal Information it processes, and to avoid inadvertent disclosure.</p>
+      <p>If drchrono learns of a security system’s breach, drchrono maintains an incident response policy that includes notifications consistent with applicable law.</p>
+      <p>By using the drchrono Service or providing Personal Information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this website.</p>
+
+      <h3>International</h3>
+      <div class="well well-slim">
+        The drchrono Service is intended for use in the United States only.  By using the drchrono Service, you will transfer data to the United States.
+      </div>
+
+      <p>Access to the drchrono Service is administered in the United States and is intended solely for users within the United States.</p>
+
+      <p><b>If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally.  By providing your information you consent to any transfer and processing in accordance with this Privacy Policy.</b></p>
 
       <h3>Persons under the age of 13</h3>
+      <p>The drchrono Service is not intended for or designed to attract persons under the age of 13 (<b>“child”</b> or <b>“children”</b>).  drchrono does not knowingly collect personal information from children. If drchrono learns that it has obtained personal information from a child, drchrono will delete that information as soon as practicable.  If your child has provided us with personal information without your consent, please contact drchrono immediately.</p>
+      <p>Without limiting the above, the drchrono Service does allow persons above the age of 18 years—such as health service providers, parents and guardians—to provide, share and store personal information about others, including minors and children.  Any user providing, storing or submitting information on behalf of a child assumes full responsibility over the submission, use, and transmission of such information.</p>
 
-      <p>The onpatient website is not intended for or designed to attract persons under the age of 13
-        (“child” or “children”). drchrono does not knowingly collect personal information from
-        children. If drchrono learns that it has obtained personal information from a child, drchrono
-        will delete that information as soon as practicable. If your child has provided us with personal
-        information without your consent, please contact drchrono immediately.</p>
+      <h3>Changes and updates to privacy policy</h3>
+      <div class="well well-slim">We may revise this Privacy Policy, so review it periodically.</div>
+      <p><b>Posting of Revised Privacy Policy.</b>  We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted.  If you are concerned about how your information is used, bookmark this page and read this Privacy Policy periodically.</p>
+      <p><b>New Uses of Personal Information.</b>  From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy.  If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.</p>
 
-      <p>Without limiting the above, the onpatient website does allow persons above the age of 18
-        years—such as healthcare providers, parents and guardians—to provide, share and store personal
-        information about others, including minors and children. Any user providing, storing or
-        submitting information on behalf of a child assumes full responsibility over the submission, use
-        and transmission of such information.</p>
-
-      <h3>Security and safety of the onpatient website</h3>
-
-      <p>drchrono employs technical measures to help safeguard the confidentiality, integrity and
-        accessibility of sensitive information you might store and share through the onpatient website.
-        Certain laws and regulations require us to investigate potential or suspected threats to the
-        onpatient website or the confidentiality, integrity or availability of the information drchrono
-        stores and maintains. drchrono may use, preserve and disclose information—including your
-        personal and non-personal information—when it has a good faith belief that it is necessary or
-        advisable to:</p>
-
-      <ul>
-        <li>detect, prevent and address potential or suspected threats to the onpatient website or the
-          confidentiality, integrity or availability of any information it stores; </li>
-        <li>to detect, prevent and address illegal activity; </li>
-        <li>to detect, prevent and address or violations of drchrono’s Terms of Use and</li>
-        <li>to protect drchrono, you and third parties.</li>
-      </ul>
-
-      <p>drchrono may also use, preserve and disclose such information in order to respond to legal
-        process, a search warrant, court order, subpoena or a judicial proceeding. Some legal processes
-        may prohibit drchrono from notifying the users or other individuals or entities identified in
-        the requested information or take other actions that would otherwise be a violation of this
-        Policy. drchrono may preserve information pursuant to this section for extended periods of
-        time as necessary or appropriate under the circumstances. This may include the preservation of
-        information from accounts that have been disabled. </p>
-
-      <p>drchrono employs a wide range of technical, physical and administrative safeguards to prevent
-        unauthorized access, maintain data accuracy and ensure the appropriate use of your personal and
-        non-personal information, including: encryption, firewalls, system alerts and other information
-        system security technologies; housing information in secure facilities that restrict physical and
-        network access and regular evaluation and enhancement of our information technology systems,
-        facilities and practices. drchrono applies reasonable and proportional measures to protect the
-        confidentiality, integrity and availability of individually identifiable health information (as such
-        term is defined by HIPAA) residing on and processed by the onpatient website. Nevertheless, no
-        system can guarantee 100% security, thus drchrono cannot and does not guarantee the security of
-        information stored on or transmitted to or from the onpatient website.</p>
-
-      <p>drchrono may notify you and inform you of potential countermeasures if drchrono learns of a
-        security vulnerability or risk. You can proactively take some precautionary steps to improve the
-        security of your information and reduce the likelihood of unintended disclosure: </p>
-
-      <ul>
-        <li>Regularly use virus and malware detection programs that scan your system and incoming
-traffic—such as computer viruses, worms, Trojan Horses and spyware. Viruses and
-malware are created and modified continuously, so you should be sure to keep your
-          definition files up to date.</li>
-        <li>Use a firewall to prevent unauthorized access to your Device.</li>
-        <li>Keep your software programs up to date with the latest security patches because viruses
-          often target known or disclosed vulnerabilities in existing operating systems, browsers,
-          plug-ins and other programs. Many vendors will try to notify you of any security
-          vulnerabilities to recommend immediate installation of such security hotfixes. </li>
-        <li>Choose a password that uses a combination of letters, numbers and special characters that
-          is not easily guessed. Do not share your password with others. </li>
-        <li>Close all active programs and log out (or lock your screen) before leaving your Device
-          unattended.</li>
-        <li>Use two-factor authentication or biometric authentication in addition to a password.</li>
-        <li>Use restrictive wireless network settings on your Device—especially when using a public
-          wireless network.</li>
-        <li>Restrict all folders or directories to “no share” when you have file sharing enabled. </li>
-        <li>Responding to emails requesting you to share personal information only with extreme
-          caution.</li>
-        <li>Verify that you are using HTTPS (by checking, for example, for a lock symbol on or
-          near your browser’s address bar) or some other secure transport layer before supplying
-          personal information. </li>
-        <li>Exercise good judgment and care when participating in open communication systems,
-          particularly when sharing personal or health information.</li>
-      </ul>
-
-      <h3>United States only</h3>
-
-      <p>Access to the onpatient website is administered in the United States and is intended solely for
-        users within the United States. You may not use the onpatient website in any jurisdiction where
-        accessing or using the onpatient website would be illegal or unlawful. Any information that
-        you submit to us while outside of the United States will be transferred to onpatient systems that
-        reside in the United States. You consent to this transfer when you use the onpatient website.
-        You also consent to the transfer and processing of any personal information by us or any of the
-        other parties described in the sections above (in any country) for the purposes described in this
-        Policy, or for any other specific purposes to which you consent. If you are located in a country
-        other than the United States, you should be mindful that, at present, the laws of the United States
-        and certain other countries have not been approved by the European Commission or privacy
-        authorities in certain other countries as providing “adequate protection” for personal information
-        within the meaning of the European Union Data Protection Directive or applicable laws of other
-        countries. </p>
-
-      <h3>Changes to this Policy</h3>
-
-      <p>drchrono may change this Policy from time to time for example to respond to changing technical
-        and security landscape, to respond to new laws and regulations or as circumstances may
-        otherwise warrant. drchrono will post such changes along with their effective date on this page.
-        You should reread this Policy from time to time to see if there have been any changes that affect
-        you. Your use of the onpatient website, including the continued storage of your information on
-        onpatient systems, following any such change constitutes your agreement that all information
-        collected from or about you through the onpatient website will be subject to the terms of the
-        revised Policy.</p>
-
-      <h3>Viewing, updating and deactivating information</h3>
-
-      <p>The onpatient website aims to provide you with access to the information you submit and the
-        means to update it. This can be accomplished by using the onpatient website or having your
-        provider contact drchrono on your behalf. Under certain circumstances, drchrono may ask your
-        provider to verify your identity before drchrono request is processed. drchrono may charge your
-        provider an extra fee when, for example, it would require a disproportionate effort. drchrono
-        may reject requests that are unreasonably repetitive, require significant technical effort (for
-        example, developing a new subsystem or fundamentally changing an existing practice), risk the
-        privacy of others or would otherwise be extremely impractical (for instance, requests concerning
-        information residing on backup storage).</p>
-
-      <p>If you desire to deactivate your account please have your provider contact us. Upon receiving
-        such a request, drchrono will deactivate your account and archive your personal information
-        and Records. drchrono may retain archived information for a period of five years (or longer if
-        required by law) as necessary to comply with legal obligations, resolve disputes and enforce our
-        agreements and other authorized uses under this Policy. </p>
-
-      <p>Unless you are an administrator that has administrative rights over another user’s account, you
-        are not entitled to review another user’s personal information or Records. Accordingly, you
-        will not be able to access, update or delete that shared information pursuant to this Policy for
-        information that you share with another user or other party through the onpatient website. Others
-        may also submit personal information that identifies you (for example, when submitting medical
-        family history). You will also not be able to access, update or delete that information pursuant
-        to this Policy. Certain users—such as healthcare providers—may be required under HIPAA and
-        other applicable laws to retain such information for extended periods of time. drchrono will
-        continue to retain such information on their behalf. Patients should submit requests to access or
-        correct their health information directly to their providers.</p>
-
-      <p>drchrono indefinitely stores non-personal information, including Engagement Data and de-identified health information, as well as any feedback you provide us.</p>
-
-      <p>Last updated October 6<sup>th</sup>, 2014.</p>
-   </div>
+      <h3>Contacting drchrono</h3>
+      <p>If you have any questions, comments, or concerns about drchrono or this Privacy Policy, please email us at <a href="mailto:privacy@drchrono.com">privacy@drchrono.com</a>.</p>
+    </div>
   </div>
 </div>
 
-      <script type="text/javascript">
-        var _kmq = _kmq || [];
-        
-          _kmq.push(['identify', '_None']);
-        
-      </script>
-    </div>
-    <footer>
-      <a href="/terms/" target="_self">Terms of Service</a>
-      <a href="/privacy/" target="_self">Privacy Policy</a>
-      <a href="/help/" target="_blank">Support</a>
-      <span class="text-muted">© 2017 drchrono Inc.</span>
-    </footer>
+<div class="container text-center top40 bottom40">
+    <h2 class="top0 normal">
+      Get started with the nation's #1 EHR
+    </h2>
+    <a class="btn btn-lg btn-primary" href="/sign-up/full/" data-mixpanel="start-a-free-trial-full_width_sign_up_bar">
+      Start a Free Trial
+    </a>
+</div>
 
-    <script type="text/javascript">
-        window.authBundle = JSON.parse(null);
-        window.userId = JSON.parse(null);
-        window.debug = false;
-    </script>
+
+
+        </div>
+      
+
+
     
-      <script src="/site_media/js/onpatient-web.min.2646db4eac9e.js"></script>
+<footer id="footer-section">
+        <div class="container">
+          <div class="row">
+            <div class="col col-xs-12 col-sm-4 col-md-4 info">
+               <a href="/"><img src="/site_media/images/drchrono-white.930372d7fab4.png" class="logo" alt="DrChrono white logo"></a>
+              <p class="address">
+                328 Gibraltar Dr<br>
+                Sunnyvale, CA 94089
+              </p>
+              <p class="nums">
+                Call us: (844) 569-8628<br>
+                Text us: (650) 215-6343
+              </p>
+              <a href="https://itunes.apple.com/us/app/drchrono-ehr/id369191782?mt=8" rel="noreferrer"><img src="/site_media/images/Download_on_the_App_Store_Badge_135x40.06ac036d678f.svg" alt="Apple app store logo"></a>
+            </div>
+
+            <div class="col col-xs-12 col-sm-2 col-md-2">
+              <div class="btn-group" role="group" aria-label="">
+                <div class="btn-group" role="group">
+                  <button type="button" class="btn btn-footer dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Solutions <i class="glyphicon glyphicon-chevron-down"></i></button>
+                  <ul class="dropdown-menu">
+                    <li><a href="/schedule-demo/">Free EHR Demo</a></li>
+                    <li><a href="/electronic-health-record-ehr/">EHR</a></li>
+                    <li><a href="/ehr/practice-management/">Practice Management</a></li>
+                    <li><a href="/medical-billing/">Medical Billing</a></li>
+                    <li><a href="/revenue-cycle-management/">Revenue Cycle</a></li>
+                    <li><a href="#">Management</a></li>
+                    <li><a href="/patient-portal-phr/">Patient Portal</a></li>
+                    <li><a href="/mobile-ipad-ehr-app/">Mobile EHR</a></li>
+                    <li><a href="/erx-electronic-prescribing/">eRx</a></li>
+                    <li><a href="/pricing/">Plans</a></li>
+                    <li><a href="/ehr-emr/features/">EHR Features</a></li>
+                    <li><a href="/lab-imaging/">Lab &amp; Imaging</a></li>
+                    <li><a href="/patient-education-materials/">Patient Education Materials</a></li>
+                    <li><a href="/university-ehr-emr/">Universities &amp; Schools</a></li>
+                    <li><a href="/ehr-emr/security-policy/">Security Policy</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div class="col col-xs-12 col-sm-2 col-md-2">
+              <div class="btn-group" role="group" aria-label="">
+                <div class="btn-group" role="group">
+                  <button type="button" class="btn btn-footer dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Practice <i class="glyphicon glyphicon-chevron-down"></i></button>
+                  <ul class="dropdown-menu">
+                    <li><a href="/features-ehr-emr/">EHR Checklist</a></li>
+                    <li><a href="/meaningful-use-ehr/">Meaningful Use</a></li>
+                    <li><a href="/epcs/">EPCS</a></li>
+                    <li><a href="/macra-mips/">MACRA &amp; MIPS</a></li>
+                    <li><a href="/referral-program/">Referral Program</a></li>
+                    <li><a href="/ehr-emr/ICD-10/">ICD-10 Info</a></li>
+                    <li><a href="/ehr-user-spotlight/">Share your Experience</a></li>
+                    <li><a href="https://www.onpatient.com" target="_blank">OnPatient Portal</a></li>
+                    <li><a href="https://www.onpatient.com/terms/" target="_blank">Terms of Use</a></li>
+                    <li><a href="https://www.onpatient.com/privacy/" target="_blank">Privacy Policy</a></li>
+                    <li><a href="/ehr-emr/security-policy/">Security Policy</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div class="col col-xs-12 col-sm-2 col-md-2">
+              <div class="btn-group" role="group" aria-label="">
+                <div class="btn-group" role="group">
+                  <button type="button" class="btn btn-footer dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources<i class="glyphicon glyphicon-chevron-down"></i></button>
+                  <ul class="dropdown-menu">
+                    <li><a href="https://support.drchrono.com" target="_blank">Support Center</a></li>
+                    <li><a href="/api/">Developer API &amp; SDK</a></li>
+                    <li><a href="/faq-ehr-emr/">EHR FAQ</a></li>
+                    <li><a href="/medical-billing-calculator/">Medical Billing Calculator</a></li>
+                    <li><a href="/ehr-emr/medical-form-templates/">Medical Form Library</a></li>
+                    <li><a href="https://app.drchrono.com/ehr-emr/Payer-ID-search/">Insurance Lookup</a></li>
+                    <li><a href="/medical-billing-code-lookup?">ICD &amp; HCPCS Lookup</a></li>
+                    <li><a href="/apps/">App Directory</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div class="col col-xs-12 col-sm-2 col-md-2">
+              <div class="btn-group" role="group" aria-label="">
+                <div class="btn-group" role="group">
+                  <button type="button" class="btn btn-footer dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About <i class="glyphicon glyphicon-chevron-down"></i></button>
+                  <ul class="dropdown-menu">
+                    <li><a href="/about_us/">About Us</a></li>
+                    <li><a href="https://www.drchrono.com/blog/" target="_blank">News &amp; Updates</a></li>
+                    <li><a href="/careers/">Careers</a></li>
+                    <li><a href="/contact/">Contact Us</a></li>
+                    <li><a href="/testimonials/">Testimonials</a></li>
+                    <li><a href="/ehr-emr/logos/">Logos &amp; Branding</a></li>
+                    <li><a href="https://flickr.com/drchrono" target="_blank" rel="noreferrer">Our Flickr</a></li>
+                    <li><a href="https://blog.drchrono.com/category/press/" target="_blank">Press</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row bottom">
+            <div class="col-md-4 copyright">
+              © Copyright 2018 drchrono Inc.
+            </div>
+            <div class="col-md-6">
+              <ul class="list-inline bottom-menu">
+                <li><a href="/ehr-emr/privacy-policy/">Privacy Policy</a></li>
+                <li><a href="/ehr-emr/terms/">Terms of Use</a></li>
+                <li><a href="/sitemap/">Site Map</a></li>
+              </ul>
+            </div>
+            <div class="col-md-2">
+              <ul class="list-inline social">
+                <li><a href="https://twitter.com/drchrono" target="_blank"><img src="/site_media/images/twitter.83d6c0a4aa18.png" alt="twitter icon"></a></li>
+                <li><a href="https://www.facebook.com/drchrono.ehr" target="_blank"><img src="/site_media/images/facebook.7eae84bd123e.png" alt="facebook icon"></a></li>
+                <li><a href="https://www.youtube.com/user/drchrono" target="_blank"><img src="/site_media/images/youtube.f026b59cdc38.png" alt="youtube icon"></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </footer>
     
   
 
