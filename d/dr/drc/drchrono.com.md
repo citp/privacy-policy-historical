@@ -1,169 +1,157 @@
-> *The following text is extracted and transformed from the drchrono.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185359id_/https%3A//www.onpatient.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drchrono.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125121559id_/https%3A//www.drchrono.com/ehr-emr/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | onpatient
+# EHR/EMR, Medical Billing, RCM - Privacy Policy | drchrono
 
-Your privacy is very important to drchrono. This Privacy Policy (this “Policy”) sets out how we handle and secure information collected by drchrono’s onpatient website and applications (collectively, the “onpatient website”). Please review this policy carefully.
+Last updated: February 1, 2015 
 
-### How we collect data
+This Website and Client Services Privacy Policy ( **“Privacy Policy”** ) covers “Personal Information” collected by drchrono from clients, third parties at the direction of users, and client systems as well as through the operation of websites, mobile applications, and software by drchrono Inc. and its affiliates and subsidiaries ( **“drchrono,”** **“we,”** and **“us”** ), including [drchrono](https://www.drchrono.com/) and [onpatient](https://www.onpatient.com/) (collectively **“drchrono Service”** ). The Privacy Policy describes how drchrono collects, uses, and discloses “Personal Information.”
 
-Information submitted that you submit: There are several ways you can submit data to drchrono in using the onpatient website. Some examples of those are by:
+**“Personal Information”** means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, phone number, social security number, and insurance-issued ID numbers. “Personal Information” also includes identifiable health information collected about you. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
 
-  * typing information into our website (examples: registering with onpatient, sending a message to your provider, scheduling an appointment);
-  * uploading an image, a document or any other data; or
-  * requesting that drchrono retrieve or import information from another party on your behalf.
+### About drchrono
 
+drchrono provides patients and health service providers with the drchrono Service to manage appointments, personal health records, communications, and other related activities. Other than information gathered through our website at [www.drchrono.com](https://www.drchrono.com/), drchrono acts as a service provider for health service providers and does not own or control the information that is submitted to us through the drchrono Service. The information that is submitted through the drchrono Service will be held subject to the requirements specified by our health service provider clients and applicable law, such as the Health Insurance Portability and Accountability Act (HIPAA).
 
+This Privacy Policy does not reflect the privacy practices of drchrono’s health service provider clients and drchrono is not responsible for our clients’ privacy policies or practices. drchrono does not review, comment upon, or monitor our health service provider clients’ privacy policies or their compliance with their respective privacy policies, nor does drchrono review our client’s instructions to determine whether they are in compliance or conflict with the terms of a client’s published privacy policy or applicable law.
 
-Other information: the onpatient website stores additional data when you view, navigate to, log in or otherwise interact with it. As with other websites and interactive services, whenever you interact with the onpatient website, your computer, mobile phone or tablet (a “device”) and its software sends a “request” to us. That request will include non-personal information received from your Device (and any related software) that we use to identify and appropriately route the information your Device is requesting (in a “reply”). “Requests” and “replies” of this sort are used by all websites and Internet services. Therefore, whenever you:
+### Collection of personal information
 
-  * Visit and navigate through the onpatient website,
-  * Click on a link,
-  * Open a webpage or web form,
-  * Open a web-enabled email sent by drchrono, or
-  * Otherwise use the elements of the onpatient website,
+We may collect information, including Personal Information, about you:
 
-
-
-your Device transmits non-personal information to drchrono.
-
-In addition to managing the appropriate routing of information, we use cookies, web beacons, server logs and other tools to enhance the quality of the onpatient website and the content you receive. We have several tools that we use that allow us to:
-
-  * save user preferences;
-  * preserve session settings and activity;
-  * help authenticate users;
-  * allow users to auto-fill sign-in pages of websites they frequently visit;
-  * debug and evaluate the performance of the onpatient website.
+  * when you use the drchrono Service;
+  * from your health service provider;
+  * from third parties when you or your health service provider directs us to gather information from them; and
+  * when you communicate with us.
 
 
 
-Thus, even when you do not submit any personal information on the onpatient website (for example, by logging in), your Device will transmit, and these tools will receive, information about your Device. We call such data “Engagement Data.”
+We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the drchrono Service. 
 
-Engagement Data can include several pieces of information such as the time a “request” was made, the type of browser used to make a request, the version of the onpatient application you are using on the iPad, IP address, the Device’s geographic location, the URL a Device most recently visited, and, when using the onpatient mobile application, an anonymous unique number. Engagement Data generally does not personally identify any particular user. Nevertheless, Engagement Data can be used in conjunction with personal information. If these circumstances, drchrono treats such combined information as personal information. In the event that the tools we mentioned above collect data containing personal information, drchrono will treat that data as personal information.
+**The drchrono Website.** You may visit the websites of drchrono without revealing any Personal Information. However, in some instances, drchrono may require certain Personal Information, such as business contact information, so we can respond to your inquiries or provide you with requested information.
 
-Personal Information: “Personal Information” is information that you submit to us that identifies you or can be used to contact you. Personal Information can include government-issued ID numbers (such as a social security number), information used by banks and credit cards to identify you or, as another example, insurance-issued ID numbers. drchrono sometimes combines non-personal information with other information in a way that makes the combined information Personal Information. Drchrono treats this combined information the same way we treat personal information.
+**The drchrono Service.** The drchrono Service may collect information, including Personal Information and health information, about you in three ways: (1) from you directly, (2) from a health service provider, or (3) from a third party as directed by you or a health service provider.
 
-### How drchrono uses your information
+**Directly from Users.** There are several ways you can submit data to the drchrono Service. For example, you can:
 
-We use personal and non-personal information for:
-
-  * Maintaining and operating the onpatient website (this may include registering you, processing payments or providing you with customer support);
-  * Responding to questions and communications, which we retain in the ordinary course of business;
-  * Announcements about onpatient features, terms, policies or other aspects of the onpatient website;
-  * Protecting the onpatient website, the information it protects, the rights of third parties and in response to legal process (more fully discussed below) and
-  * Any other purpose described in this Policy. We use non-personal information for:
-  * Evaluating and profiling the performance of the onpatient website, including analyzing usage trends and patterns and measuring the effectiveness of content, advertising, features or services;
-  * Creating new features and services;
-  * Contextual and cookie-based content delivery (for example for delivering certain images to you and your Device) and
-  * Other purposes described in this Policy or your User Agreement.
+  * type information into the drchrono Service (examples: registering, updating your profile, sending a message to your provider, scheduling an appointment);
+  * upload an image, a document, or any other data; or
+  * when you provide feedback to help drchrono improve its operations. You should exercise care in selecting the information that you share in a survey or feedback communication. We strongly recommend against providing drchrono any personal health or other sensitive information that could be traced to you or any other individual.
 
 
 
-We may also use non-personal information to prepare aggregate reports that illustrate trends about the general use of the onpatient website. Such reports may include age, gender or other general user information. These reports will not include personal information. 
+**Making Payments.** When you make payments through the drchrono Service, you may need to provide financial account information, such as your credit card number, to our third-party service providers.
 
-### Consents and Authorizations:
+**Customer Support.** We may collect Personal Information through your communications with our customer-support team.
 
-drchrono may request your consent or authorization in connection with the use or sharing of your information. In some instances, this will be because this Policy or applicable law or regulations require us to obtain such consent. In other instances, such consent will be for informational purposes. Any request to obtain your consent does not narrow the scope of this Policy. By using the onpatient website, you accept and agree to drchrono’s information handling practices in the manner described.
+**Cookies, Automatic Data Collection, and Related Technologies.** drchrono and our third-party partners, such as analytics service providers, may automatically receive and record certain non-Personal Information from users using cookies, web beacons, server logs and other similar tools. For example, drchrono may collect information about how you visit and navigate through the drchrono Service, when you click on a link or open a web page, use certain elements of the drchrono Service, or open an email sent by drchrono. drchrono may use this information to provide certain functionality, improve the tools and services, and monitor the use of the tools and services. For example, we use these tools to save user preferences, preserve session settings and activity, help authenticate users, allow users to auto-fill sign-in pages of websites they frequently visit, and debug and evaluate the performance of the drchrono Service. Our partners also may collect such information about your online activities over time and on other websites or apps. You may be able to change browser settings to block and delete cookies when you access the drchrono Service through a web browser. However, if you do that, the drchrono Service may not work properly.
 
-### How users share information:
+### Use of personal information
 
-**_Scheduling appointments:_** When you contact or schedule an appointment with a provider, the provider will need your name, contact information, as well as other information.
+We use Personal Information to:
 
-**_Direct Communications:_** You can use the onpatient website to facilitate direct communications between users:
-
-  * Requesting an appointment with a healthcare provider; 
-  * Authorizing another onpatient user to receive information and communications from a particular provider or
-  * Receiving or sending a message to a provider.
+  * facilitate and improve our services,
+  * as permitted by our agreements with health service providers and applicable law; and
+  * communicate with you.
 
 
 
-In any direct communication, users may send information to one another. Depending on the contents of this information, personal information could be included.
+We may use anonymized and aggregate information for business purpose.
 
-**_Surveys and Ratings:_** drchrono sometimes asks users to provide feedback to help drchrono improve its operations. The content of feedback is presumed public. drchrono will let you know in advance how it will use survey or rating feedback in any such request. You should exercise care in selecting the information that you share in a survey or feedback communication. We strongly recommend against providing drchrono any personal health or other sensitive information that could be traced to you or any other individual.
+**Internal and Service-Related Usage.** We use information, including Personal Information, for internal and service-related purposes and may provide it to third parties to allow us to facilitate the drchrono Service. We may use and retain any data we collect to provide and improve our services.
 
-**_Records:_** The onpatient website allows you to store personal and health information (“Records”), including Records that identify other individuals, including other users. The onpatient website allows you to share all or portions of these Records at your discretion.
+For example, we may use Personal Information for the following purposes:
 
-You should be aware that this Policy covers only the information you submit through the onpatient website or the information that is provided to you by your provider via the onpatient website. If you exchange or transmit information through any means other than the onpatient website, such activity is not covered by this Policy.
-
-Because the onpatient website allows users to share information, you should take care in selecting the persons with whom you share your Records. Although the onpatient website processes and facilitates such transmissions, drchrono does not take responsibility for the actions of other users or persons with whom you share your Records.
-
-Confidentiality of Health Information: Some of our users—such as healthcare providers— are subject to laws and regulations governing the use and disclosure of health information they create or receive. Included among them is the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), the Health Information Technology for Economic and Clinical Health of 2009 (“HITECH”), and the regulations adopted thereunder. When drchrono stores, processes or transmits “individually identifiable health information” (as such term is defined by HIPAA) on behalf of a health care provider who has entered a Healthcare Provider User Agreement, we do so as its “business associate” (as also defined by HIPAA). Under this agreement, drchrono is prohibited from using individually identifiable health information in a manner that the provider itself may not. drchrono is required to, among other things, apply reasonable and appropriate measures to safeguard the confidentiality, integrity and availability of individually identifiable health information we store and process on behalf of such providers. drchrono is subject to laws and regulations governing the use and information of certain personal and health information, including HIPAA, when it operates as a business associate of a healthcare provider.
-
-Email communications received from users and drchrono’s administrative announcements are often transactional or relationship messages, such as appointment requests, reminders and cancellations and other notifications. drchrono may not offer you the option of opting out of receiving some of these messages although drchrono may allow you to modify how often you receive such messages. If you opt-in to receiving marketing announcements from drchrono, we will allow you to opt-out of receiving those announcements.
-
-In some instances, drchrono may also use tools (such as “cookies,” “web beacons” and “server logs”) in its emails to users to collect Engagement Data, and drchrono may use vendors to assist in sending you emails.
-
-Of course, this Policy does not apply to emails or other communications from individuals that do not use drchrono or the onpatient website, or that are being sent in connection with subject matter other than your use of the onpatient website. For example, if you were to apply to drchrono for employment, that communication would not be covered by this Policy. Similarly, this Policy would not apply to ideas or suggestions you provide in feedback regarding the onpatient website or other products or services by any means— _e.g._ , email or other communication channels.
-
-### Sharing of Information
-
-We will not share any personal information you submit except under the following circumstances:
-
-  * When you choose to share such information through the onpatient website;
-  * When drchrono notifies you at the time you provide such information or drchrono otherwise has your or your provider’s express consent;
-  * Your provider (including his or her staff) will have access to your account information, including your personal information. Your provider may: (i) receive and store your account information; (ii) change your password; (iii) restrict your ability to submit, delete or edit information; (iv) suspend or terminate your account access or (v) access or retain any information you provide or otherwise stored as part of your account for any purposes required or permitted under applicable law; 
-  * When drchrono shares such information with its current and future affiliates;
-  * When drchrono provides such information to trusted service providers consistent with the terms of this Policy with the approval of your provider. Such service providers will be bound by appropriate confidentiality and security obligations which may include business associate contract obligations; 
-  * When drchrono protects the onpatient website, the information it stores, the rights of third parties and in response to legal process, as more fully described below;
-  * In connection with a sale, merger, reorganization or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by drchrono to which this Policy applies. This Policy will govern any such acquiring company’s use of your personal information and
-  * Any other purposes described in this Policy. 
+  * maintaining and operating the drchrono Service (this may include registering you, processing payments, or providing you with customer support);
+  * making announcements about features, terms, policies, or other aspects of the drchrono Service;
+  * responding to questions and communications, which we retain in the ordinary course of business; and
+  * protecting the drchrono Service, the information it protects, the rights of third parties and in response to legal process (more fully discussed below).
 
 
 
-Other users (for example, providers or staff) that submit your information to, or receive your information from, the drchrono website, could share that information with other persons, without separately notifying you or seeking your consent.
+**Consents and Authorizations.** drchrono may request your consent or authorization in connection with the use or sharing of Personal Information about you. In some instances, this will be because this Privacy Policy or applicable law or regulations require us to obtain such consent. In other instances, such consent will be for informational purposes. Any request to obtain your consent does not narrow the scope of this Privacy Policy. By using the drchrono Service, you accept and agree to drchrono’s information handling practices in the manner described.
+
+**Surveys and Ratings.** The content of feedback you provide to drchrono is presumed public. drchrono will let you know in advance how it will use survey or rating feedback in any such request for such information.
+
+**Protect the drchrono Service and data it stores.** We may use the information collected through the drchrono Service to investigate potential or suspected threats to the drchrono Service or to the confidentiality, integrity or availability of the information drchrono stores and maintains.
+
+**Communications.** We may send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance. We may also send you marketing emails if you request more information about our products and services. Emails are often transactional or relationship messages, such as appointment requests, reminders and cancellations and other notifications. drchrono may not offer you the option of opting out of receiving some of these messages although drchrono may allow you to modify how often you receive such messages. If you opt-in to receiving marketing announcements from drchrono, we will allow you to opt-out of receiving those announcements.
+
+**Anonymized and Aggregate Data.** We may anonymize and aggregate any data collected through the drchrono Service, and use it for business purposes. For example, we may use such data for evaluating and profiling the performance of the drchrono Service, including analyzing usage trends and patterns and measuring the effectiveness of content, features, or services.
+
+### Information sharing and disclosure
+
+We may share your information:
+
+  * with our third-party vendors and service providers;
+  * with your health service provider and, at your direction, to others;
+  * to comply with legal obligations;
+  * to protect and defend our rights and property; and
+  * with your permission.
+
+
+
+We do not rent, sell, or share Personal Information about you with other people or non-affiliated companies for their direct marketing purposes, unless we have your permission.
+
+**We Use Vendors and Service Providers.** We may share any information we receive with vendors and service providers retained in connection with the provision of the drchrono Service. When protected health information is shared, such vendors and service providers will be bound by appropriate confidentiality and security obligations which include business associate contract obligations as required by HIPAA.
+
+**Displaying or Disclosing to Health Service Providers and Others.** The content you provide to the drchrono Service may be displayed on the drchrono Service or disclosed to others at your direction. Your health service provider (including his or her staff) will have access to your account information, including your Personal Information. However, your health service provider will not have access to any payment information, such as your credit card number, through the drchrono Service. Your provider may: (i) receive and store your account information; (ii) change your password; (iii) restrict your ability to submit, delete or edit information; (iv) suspend or terminate your account access or (v) access or retain any information you provide or otherwise store as part of your account for any purposes required or permitted under applicable law. When you contact or schedule an appointment with a health service provider, the provider will need your name, contact information, as well as other information. You may also be permitted to share the content of your health records with others. We are not responsible for the privacy practices of the others who will view and use the information you disclose to others.
+
+**Marketing.** We do not rent, sell, or share Personal Information about you with other people or non-affiliated companies for their direct marketing purposes, unless we have your permission.
+
+**As Required By Law and Similar Disclosures.** We may access, preserve, and disclose collected information, if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; or protect your, our, or others’ rights, property, or safety.
+
+**Merger, Sale, or Other Asset Transfers.** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. We cannot control how such entities may use or disclose such information.
+
+**With Your Permission.** We may also disclose your Personal Information with your permission.
+
+### Information retention
+
+drchrono’s collection, use, and disclosure of information are generally governed by service agreements with our health service provider clients. Information maintained to provide these services to our business clients is retained only for as long as we have a valid business purpose and in accordance with applicable law. drchrono may retain archived information for a period of five years (or longer if required by law) as necessary to comply with legal obligations, resolve disputes and enforce our agreements and other authorized uses under this Privacy Policy.
+
+**Account Deactivation.** If you desire to deactivate your account please have your provider contact us. Upon receiving such a request, drchrono will deactivate your account and archive your Personal Information, including any health information.
+
+**Limits to Your Requests for Access, Amendment, or Deletion.** You may not be able to access, update, or delete information that you share with another user or other party through the drchrono Service. Others may also submit personal information that identifies you (for example, when submitting medical family history). You will also not be able to access, update, or delete that information. Certain users, such as health service providers, may be required under HIPAA and other applicable laws to retain information about patients for extended periods of time. drchrono will continue to retain such information on their behalf.
+
+drchrono indefinitely stores non-personal information, as well as any feedback you provide us.
+
+### Access / correction
+
+In most cases, drchrono obtains Personal Information on behalf of a health service provider. To request access to, correction, amendment, or deletion of this Personal Information, a patient or end user should make the change using the drchrono Service or contact the health service provider to which the data was provided. For other inquiries, please contact us at [privacy@drchrono.com](mailto:privacy@drchrono.com).
+
+### Security
+
+Please see our Security Policy located at [here](https://web.archive.org/ehr-emr/security-policy/).
+
+No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we take steps to ensure security on our systems. Please note this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such safeguards.
+
+drchrono provides its services to health service providers, and when we process “protected health information” as defined by HIPAA on behalf of such health service providers, we are acting as a “business associate” to them as regulated by HIPAA. Therefore, drchrono must adopt and maintain appropriate physical, technical, administrative, and organizational procedures to safeguard and secure the protected health information we process. We also may not access, use, or disclose the protected health information except as permitted by health service provider clients, you, and/or applicable law. drchrono strives to protect the privacy of the Personal Information it processes, and to avoid inadvertent disclosure.
+
+If drchrono learns of a security system’s breach, drchrono maintains an incident response policy that includes notifications consistent with applicable law.
+
+By using the drchrono Service or providing Personal Information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this website.
+
+### International
+
+The drchrono Service is intended for use in the United States only. By using the drchrono Service, you will transfer data to the United States. 
+
+Access to the drchrono Service is administered in the United States and is intended solely for users within the United States.
+
+**If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Privacy Policy.**
 
 ### Persons under the age of 13
 
-The onpatient website is not intended for or designed to attract persons under the age of 13 (“child” or “children”). drchrono does not knowingly collect personal information from children. If drchrono learns that it has obtained personal information from a child, drchrono will delete that information as soon as practicable. If your child has provided us with personal information without your consent, please contact drchrono immediately.
+The drchrono Service is not intended for or designed to attract persons under the age of 13 ( **“child”** or **“children”** ). drchrono does not knowingly collect personal information from children. If drchrono learns that it has obtained personal information from a child, drchrono will delete that information as soon as practicable. If your child has provided us with personal information without your consent, please contact drchrono immediately.
 
-Without limiting the above, the onpatient website does allow persons above the age of 18 years—such as healthcare providers, parents and guardians—to provide, share and store personal information about others, including minors and children. Any user providing, storing or submitting information on behalf of a child assumes full responsibility over the submission, use and transmission of such information.
+Without limiting the above, the drchrono Service does allow persons above the age of 18 years—such as health service providers, parents and guardians—to provide, share and store personal information about others, including minors and children. Any user providing, storing or submitting information on behalf of a child assumes full responsibility over the submission, use, and transmission of such information.
 
-### Security and safety of the onpatient website
+### Changes and updates to privacy policy
 
-drchrono employs technical measures to help safeguard the confidentiality, integrity and accessibility of sensitive information you might store and share through the onpatient website. Certain laws and regulations require us to investigate potential or suspected threats to the onpatient website or the confidentiality, integrity or availability of the information drchrono stores and maintains. drchrono may use, preserve and disclose information—including your personal and non-personal information—when it has a good faith belief that it is necessary or advisable to:
+We may revise this Privacy Policy, so review it periodically.
 
-  * detect, prevent and address potential or suspected threats to the onpatient website or the confidentiality, integrity or availability of any information it stores; 
-  * to detect, prevent and address illegal activity; 
-  * to detect, prevent and address or violations of drchrono’s Terms of Use and
-  * to protect drchrono, you and third parties.
+**Posting of Revised Privacy Policy.** We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted. If you are concerned about how your information is used, bookmark this page and read this Privacy Policy periodically.
 
+**New Uses of Personal Information.** From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
 
+### Contacting drchrono
 
-drchrono may also use, preserve and disclose such information in order to respond to legal process, a search warrant, court order, subpoena or a judicial proceeding. Some legal processes may prohibit drchrono from notifying the users or other individuals or entities identified in the requested information or take other actions that would otherwise be a violation of this Policy. drchrono may preserve information pursuant to this section for extended periods of time as necessary or appropriate under the circumstances. This may include the preservation of information from accounts that have been disabled. 
-
-drchrono employs a wide range of technical, physical and administrative safeguards to prevent unauthorized access, maintain data accuracy and ensure the appropriate use of your personal and non-personal information, including: encryption, firewalls, system alerts and other information system security technologies; housing information in secure facilities that restrict physical and network access and regular evaluation and enhancement of our information technology systems, facilities and practices. drchrono applies reasonable and proportional measures to protect the confidentiality, integrity and availability of individually identifiable health information (as such term is defined by HIPAA) residing on and processed by the onpatient website. Nevertheless, no system can guarantee 100% security, thus drchrono cannot and does not guarantee the security of information stored on or transmitted to or from the onpatient website.
-
-drchrono may notify you and inform you of potential countermeasures if drchrono learns of a security vulnerability or risk. You can proactively take some precautionary steps to improve the security of your information and reduce the likelihood of unintended disclosure: 
-
-  * Regularly use virus and malware detection programs that scan your system and incoming traffic—such as computer viruses, worms, Trojan Horses and spyware. Viruses and malware are created and modified continuously, so you should be sure to keep your definition files up to date.
-  * Use a firewall to prevent unauthorized access to your Device.
-  * Keep your software programs up to date with the latest security patches because viruses often target known or disclosed vulnerabilities in existing operating systems, browsers, plug-ins and other programs. Many vendors will try to notify you of any security vulnerabilities to recommend immediate installation of such security hotfixes. 
-  * Choose a password that uses a combination of letters, numbers and special characters that is not easily guessed. Do not share your password with others. 
-  * Close all active programs and log out (or lock your screen) before leaving your Device unattended.
-  * Use two-factor authentication or biometric authentication in addition to a password.
-  * Use restrictive wireless network settings on your Device—especially when using a public wireless network.
-  * Restrict all folders or directories to “no share” when you have file sharing enabled. 
-  * Responding to emails requesting you to share personal information only with extreme caution.
-  * Verify that you are using HTTPS (by checking, for example, for a lock symbol on or near your browser’s address bar) or some other secure transport layer before supplying personal information. 
-  * Exercise good judgment and care when participating in open communication systems, particularly when sharing personal or health information.
-
-
-
-### United States only
-
-Access to the onpatient website is administered in the United States and is intended solely for users within the United States. You may not use the onpatient website in any jurisdiction where accessing or using the onpatient website would be illegal or unlawful. Any information that you submit to us while outside of the United States will be transferred to onpatient systems that reside in the United States. You consent to this transfer when you use the onpatient website. You also consent to the transfer and processing of any personal information by us or any of the other parties described in the sections above (in any country) for the purposes described in this Policy, or for any other specific purposes to which you consent. If you are located in a country other than the United States, you should be mindful that, at present, the laws of the United States and certain other countries have not been approved by the European Commission or privacy authorities in certain other countries as providing “adequate protection” for personal information within the meaning of the European Union Data Protection Directive or applicable laws of other countries. 
-
-### Changes to this Policy
-
-drchrono may change this Policy from time to time for example to respond to changing technical and security landscape, to respond to new laws and regulations or as circumstances may otherwise warrant. drchrono will post such changes along with their effective date on this page. You should reread this Policy from time to time to see if there have been any changes that affect you. Your use of the onpatient website, including the continued storage of your information on onpatient systems, following any such change constitutes your agreement that all information collected from or about you through the onpatient website will be subject to the terms of the revised Policy.
-
-### Viewing, updating and deactivating information
-
-The onpatient website aims to provide you with access to the information you submit and the means to update it. This can be accomplished by using the onpatient website or having your provider contact drchrono on your behalf. Under certain circumstances, drchrono may ask your provider to verify your identity before drchrono request is processed. drchrono may charge your provider an extra fee when, for example, it would require a disproportionate effort. drchrono may reject requests that are unreasonably repetitive, require significant technical effort (for example, developing a new subsystem or fundamentally changing an existing practice), risk the privacy of others or would otherwise be extremely impractical (for instance, requests concerning information residing on backup storage).
-
-If you desire to deactivate your account please have your provider contact us. Upon receiving such a request, drchrono will deactivate your account and archive your personal information and Records. drchrono may retain archived information for a period of five years (or longer if required by law) as necessary to comply with legal obligations, resolve disputes and enforce our agreements and other authorized uses under this Policy. 
-
-Unless you are an administrator that has administrative rights over another user’s account, you are not entitled to review another user’s personal information or Records. Accordingly, you will not be able to access, update or delete that shared information pursuant to this Policy for information that you share with another user or other party through the onpatient website. Others may also submit personal information that identifies you (for example, when submitting medical family history). You will also not be able to access, update or delete that information pursuant to this Policy. Certain users—such as healthcare providers—may be required under HIPAA and other applicable laws to retain such information for extended periods of time. drchrono will continue to retain such information on their behalf. Patients should submit requests to access or correct their health information directly to their providers.
-
-drchrono indefinitely stores non-personal information, including Engagement Data and de-identified health information, as well as any feedback you provide us.
-
-Last updated October 6th, 2014.
+If you have any questions, comments, or concerns about drchrono or this Privacy Policy, please email us at [privacy@drchrono.com](mailto:privacy@drchrono.com).
