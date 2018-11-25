@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviehustle.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528105308id_/http%3A//moviehustle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviehustle.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125160641id_/http%3A//moviehustle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
