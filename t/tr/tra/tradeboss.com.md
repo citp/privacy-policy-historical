@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeboss.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526135945id_/http%3A//www.tradeboss.com/default.cgi/action/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeboss.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125192009id_/http%3A//www.tradeboss.com/default.cgi/action/privacypolicy) for the most accurate reproduction.*
 
 # B2B Marketplace TradeBoss.com - Import Export, Business to Business Portal, FREE Business Website, Suppliers B2B Directory
 
@@ -25,8 +25,9 @@ Any Publishing Information that you use on TradeBoss.com and TradeHolding.com B2
 If you submit any information to TradeBoss.com and TradeHolding.com B2B Network to be published on our B2B Network through the publishing forms you are deemed to have given consent to the publication of such information.
 
 **COOKIES**  
-TradeBoss.com and TradeHolding.com B2B Network uses cookies only to maintain your information as you move throughout this site and facilitate your member activities. A cookie is a small piece of information used to identify an individual when the person is accessing a site. Cookies are used only for the intended purpose and scope of TradeBoss.com and TradeHolding.com B2B Network.  
-Cookies and the tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to this site, and understanding how visitors use this site. Cookies can also help customize this site for visitors. If you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. This site or the advertisers on this site may use cookies and/or web beacons to collect data in the ad serving process.
+TradeBoss.com and TradeHolding.com B2B Network uses cookies to maintain your information as you move throughout this site and facilitate your member activities. A cookie is a small piece of information used to identify an individual when the person is accessing a site. Cookies are used only for the intended purpose and scope of TradeBoss.com and TradeHolding.com B2B Network.  
+Cookies and the tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to this site, and understanding how visitors use this site. Cookies can also help customize this site for visitors. If you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. This site or the advertisers on this site may use cookies and/or web beacons to collect data in the ad serving process.  
+If you want to block the use and saving of cookies from the Site on to their computers hard drive, you should take the necessary steps within your web browser’s settings to block all cookies from the Site. Please note that if you choose to erase or block your cookies, certain parts of our Site may not function correctly. For information on how to disable cookies, refer to your browser’s documentation.
 
 **YOUR PERSONAL DATA WE COLLECT AND USE**  
 We may process your registration data ("registration data"). Registration data may include your email address and eventually your username. The source of this data is you. Registration data is required in order for you to be able to use the service. The legal bases for this processing are consent and the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract.
@@ -39,7 +40,7 @@ We store your information primarily within our servers located in the USA and th
 
 **RETAINING AND DELETING PERSONAL DATA**
 
-Personal data that we process for any purposes shall not be kept for longer than is necessary.  
+We will retain your Personal Data for as long as long as you maintain an account or subscription agreement or as otherwise necessary to provide you the Services. We will also retain your Personal Data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
 Users may request the deletion of their account by contacting us.  
 We will retain and delete your personal data as follows:
 
