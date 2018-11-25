@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toonfanclub.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527074638id_/http%3A//toonfanclub.com/privacy2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonfanclub.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125233346id_/http%3A//toonfanclub.com/privacy2.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
