@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theprint.in privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313115310id_/https%3A//theprint.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprint.in privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125044541id_/https%3A//theprint.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ThePrint
 
