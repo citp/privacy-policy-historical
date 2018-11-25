@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptk.org privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516014227id_/https%3A//www.ptk.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptk.org privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125031005id_/https%3A//www.ptk.org/privacy.aspx) for the most accurate reproduction.*
 
 # Phi Theta Kappa Honor Society
 
@@ -20,7 +20,7 @@ The following member profile information may be shared with our Corporate Partne
 
 
 
-You may opt out of sharing this information at any time by calling Key Services at 1.800.946.9995.
+You may opt out of sharing this information at any time by updating your options here: [www.ptk.org/MyAccount/OptInOut.aspx ](https://www.ptk.org/MyAccount/OptInOut.aspx) or by calling Key Services at 1.800.946.9995.
 
 You may correspond with us at the following street address or email requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, email address, chapter and community college.
 
