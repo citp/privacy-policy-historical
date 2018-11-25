@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telugupost.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527115229id_/http%3A//telugupost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telugupost.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125013131id_/http%3A//telugupost.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY — Telugu Post
 
@@ -42,7 +42,7 @@ Cookies (data file placed on a Device when it is used to access the Services) ma
 
 
 
-If at any time you believe that Telugu Post has not adhered to these principles, please notify Telugu Post by e-mail at sreehari.chowdary@gmail.com and we will use all reasonable efforts to promptly determine and correct the problem.
+If at any time you believe that Telugu Post has not adhered to these principles, please notify Telugu Post by e-mail at telugupostorg@gmail.com and we will use all reasonable efforts to promptly determine and correct the problem.
 
   5. **Grievance Officer**
 
@@ -54,10 +54,10 @@ Name: Mr. Ravi Batchali
 
 Phone Number: 7095555509
 
-Email address: sreehari.chowdary[@gmail.com](mailto:telugupostorg@gmail.com)
+Email address: telugupostorg[@gmail.com](mailto:telugupostorg@gmail.com)
 
   6. **Communication**
 
 
 
-If User has any questions or concerns regarding privacy at the Website, please send Telugu Post a detailed message at sreehari.chowdary@gmail.com
+If User has any questions or concerns regarding privacy at the Website, please send Telugu Post a detailed message at telugupostorg@gmail.com
