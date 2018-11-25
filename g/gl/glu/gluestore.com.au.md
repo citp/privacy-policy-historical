@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gluestore.com.au privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205101608id_/http%3A//www.gluestore.com.au/about-us/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gluestore.com.au privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125034543id_/https%3A//www.gluestore.com.au/about-us/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Glue Store Privacy Policy Online | About Us | Glue Store - Glue Store
 
@@ -132,8 +132,8 @@ We reserve the right to amend this Policy from time to time as we see fit. While
 If you have any questions about this privacy statement, if you wish to update information we hold about you or if you wish to make a complaint, please write to:
 
 The Privacy Officer  
-Level 3, 80 George St  
-The Rocks NSW 2000 
+Level 12, 54 Park St  
+Sydney NSW 2000 
 
 ## 11\. Disclaimer
 
