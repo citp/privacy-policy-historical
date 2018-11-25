@@ -1,110 +1,119 @@
-> *The following text is extracted and transformed from the pokeraffiliateworld.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223150119id_/https%3A//www.onlineaffiliateworld.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokeraffiliateworld.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125115647id_/https%3A//www.onlineaffiliateworld.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Read Our Privacy Policy | Online Affiliate World
+# Online Affiliate World | Privacy Policy
 
-Your privacy is very important to iBus Media Limited. (referred to herein as **“Online Affiliate World”** , **“OAW”** , **“we”** or **“us”** ), the owner and operator of the website located at [www.onlineaffiliateworld.com](http://www.onlineaffiliateworld.com/) and [ru.onlineaffiliateworld.com](http://ru.onlineaffiliateworld.com/) (collectively, the **“Site”** ). We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy your use of the Site by safeguarding it and utilizing appropriate software and hardware architecture, techniques, methods and procedures as customary in the industry.
+**Identity of Data Controller.** For the purposes of this privacy policy (“ **Privacy Policy** ”), the “data controller” (i.e. the person responsible for the capture, storage and use of your personal information) is iBus Media Limited ( **“iBus** ”), who can be contacted at 33-37 Athol Street, Douglas, Isle of Man IM1 1LB or via email at [Support](mailto:privacy@ibusmedia.com). In this Privacy Policy, when we say “ **OnlineAffiliateWorld** **”, we** ” or “ **us** ” we are referring to this company. References to “ **Group** ” means iBus Media Limited and its subsidiaries and any holding company of iBus and any subsidiary of such holding company and any company associated with its group of companies. 
 
-* **Consent to Privacy Policy**
+**Our Commitment to Our Users’ Privacy.** We are the owner and operator of the website located at [www.onlineaffiliateworld.com](https://www.onlineaffiliateworld.com/) as well as the local sites linked thereto (collectively the “ **Site** ”). We are committed to maintaining the confidentiality of the personal information collected by us, utilising ‘best in class’ information security technology and procedures, all in accordance with European Union standards of data protection.
 
-By using the Site, you agree to the terms of this Privacy Policy. We reserve the right to amend this Privacy Policy and changes and you can determine when the Privacy Policy was last modified by checking the "Last updated" legend at the bottom of the Privacy Policy. If the policies described in our Privacy Policy change in any material respect, we will notify you by posting the revised policy on our Site, by email, or by other means that we may choose and as required by applicable law. We may apply changes to information previously collected by us, to the extent permitted by law. If you do not agree to be bound by the terms of the new or modified Privacy Policy, you agree to immediately notify us that your personal information should be deleted. Your continued use of the Site constitutes your agreement to this Privacy Policy and any amendments. Our [Terms & Conditions](http://www.onlineaffiliateworld.com/terms&conditions.htm) found take precedence over any conflicting provision of this Privacy Policy. Unless otherwise defined herein, capitalized terms shall have the meaning given to them in our [Terms & Conditions](https://web.archive.org/terms&conditions.htm). Please further note section 4 of this Privacy Policy that details specific terms applicable in connection with our bonus programs and promotions. To the extent there is any conflict between the general terms of this Privacy Policy and the terms of section 4 below, the terms of section 4 shall prevail.
+**Purpose of this Privacy Policy.** The purpose of this Privacy Policy is to enable you to understand how we collect, store, use and safeguard your personal information and to explain your rights in relation to that information and its use.
 
-The purpose of this Privacy Policy is to enable you to understand how we collect, store, use and safeguard your personal information and for you to understand your rights in relation to that information.
+**Our Legal Obligations.** We will comply with the terms of the Isle of Man’s Data Protection Act 2002 (as may be amended or updated from time to time) (the “ **Act** ”) when processing your personal information. Your personal information may be also processed or transferred by us to other members of or our group of companies, our affiliates, our agents and third parties providing services to us, in jurisdictions outside of the Isle of Man and the European Economic Area. In this event we will comply with the terms of the Act which ensures that personal data is only transferred to such jurisdictions which comply with the various ‘adequacy’ requirements for data protection set out in the Act.
 
-    * What Personal information is collected and for what purpose
-    * Collection of Non-Personally Identifiable Information
-    * Confidentiality
-    * Limits of Confidentiality
-    * Who receives your information?
-    * Your rights in relation to your information
-    * Links
-    * Opt-out Options
-    * Who are we?
+**What do the Capitalised Terms Mean?** Unless we give them a specific meaning in this Privacy Policy, capitalised terms shall have the meaning given to them in our [Terms and Conditions](https://web.archive.org/terms&conditions.htm) which takes precedence over any conflicting provision of this Privacy Policy.
 
-
-* **What Personal information is collected and for what purpose**
-
-As part of the Site account opening process and to allow us to provide services to you, we will ask you to provide us with a user name, email address and a password. In some cases we may also ask you to provide certain personal information such as your full name, date of birth, country of residence, and Twitter and Facebook user names.
-
-We, members of our corporate group, our affiliates and third parties providing services on our behalf will use your personal information described above for various purposes such as:
-
-  * to provide information and/or services to you;
-  * identification and verification purposes;
-  * statistical analysis and research;
-  * research and development;
-  * marketing, market research and customer profiling;
-  * data analysis; and
-  * to comply with licensing and regulatory requirements.
+  1. Your Agreement to the Privacy Policy
+  2. What information is collected and for what purpose
+  3. Conditions for Processing Personal Information
+  4. Information Sharing, Disclosures and Recipients
+  5. Confidentiality
+  6. Limits of Confidentiality
+  7. Your Rights in Relation to Your Information
+  8. Cookies
+  9. Further Information
 
 
 
-We may disclose your personal information if required to do so by law or by regulatory authority and/or if we believe in good faith that such action is necessary:
+## 1\. Your Agreement to the Privacy Policy
 
-  * to comply with any law or comply with legal process served on us;
-  * to protect and defend our rights or property;
-  * to any regulatory body or licensing body or authority;
-  * to third parties who provide services to us or on our behalf; 
-  * to any third party that purchases us or our business or any part of us or our business; 
-    1. with your consent;
-    2. for the purposes of disaster recovery; or
-    3. as set out in Section 6 below.
+  * **Agreement.** By using the Service, you (“ **User** ” or “ **you** ”) agree to the terms of this Privacy Policy as may be amended by us from time to time, save that we will ask you separately, when you provide us with your details whether you consent to receiving promotional communications from: (a) us and; (b) third party providers of goods and services with whom we may share your details.
+  * **Amendments.** We reserve the right to amend this Privacy Policy from time to time. Amendment will come into effect immediately upon such change being notified on the Sites. We therefore encourage you to visit this Privacy Policy from time to time to make sure that you are aware of the current version and any changes that we may make.
 
 
 
-Your personal information may be processed by us, other members of our corporate group, our affiliates, our agents and third parties providing services to us, in any jurisdiction and we will use all reasonable commercial efforts to comply with the terms of any data protection laws applicable to our activities.
+## 2\. What information is collected and for what purpose
 
-We will only use your name in publicity materials with your consent.
+  * **Registration Details.** As part of a User’s account opening process across the Site and to allow us to provide our Services to you, we will ask you to provide us with a username, password, valid email and country of residence. Once you have successfully activated your account you are then able to add in additional personal information to your user account, including but not limited to: your name, date of birth, gender, as well as your homepage, Twitter user profile name and to also add in _‘about me’_ details though none of this is compulsory to maintain an active account.
+  * **Ongoing Data Capture.** In addition, when you use the Service, we capture and store certain personal information including information on your activity on the Site and information held on the Device(s) you use to allow us to enhance the Services that we provide to you. We also use ‘cookies’ and our ‘cookie’ policy is explained below.
+  * **Data Retention.** We retain your personal information for as long as necessary for the purposes set out in this Privacy Policy which includes any period of historic retention that may be required for regulatory purposes. We do not collect any more personal information from our Users than is necessary for our purposes and our data management policies include the deletion of any personal information we no longer require. Should you close (or if we shut down) your User account with us, we will retain your personal data for a period of 24 (twenty-four) months to allow us to meet our regulatory and legal obligations and defend ourselves against any claims. Personal information which is not needed for these purposes will be deleted after this period.
+  * **Purposes.** We, members of our Group of companies, our affiliates and third parties providing services to us or to you on our behalf will use your personal information for the purpose of conducting our business and providing the Services to you. Specifically, this includes the following purposes (but we also reserve the right to use your personal information for any other purposes that are reasonably ancillary to the business of providing you with the Service): 
+    * to provide information and/or the Services to you;
+    * identification and verification purposes;
+    * statistical analysis and research;
+    * research and development;
+    * marketing, market research, customer surveys and customer profiling;
+    * data analysis; and
+    * to comply with any regulatory requirements.
 
-It is very important that you complete the account details with valid information, since it will be used for the aforementioned purposes. You are required to advise us of any relevant changes to your personal information, if and where applicable.
 
-* **Collection of Non-Personally Identifiable Information**
 
-We may use “cookies” on or in connection with our Site to maintain information about you. A cookie is a very small text document, which often includes an anonymous unique identifier. We use both “session” cookies and “persistent” cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. When you visit our Site, our computer may ask your computer for permission to employ the use of a session or persistent cookie. Our Site will then send a cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits our Site to access the cookies it has already sent to you and not the cookies sent to you by other websites. Many web browsers can be adjusted to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, our Site or certain areas or features of our Site. A more detailed explanation of our cookie policy can be found [here](http://www.onlineaffiliateworld.com/cookies-information.htm).
+## 3\. Conditions for Processing Personal Information
 
-Our servers automatically collect data about your Internet Protocol address when you visit us. When you request pages from our Site, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another website or a search engine); the pages you visit on our Site; the website you visit after this Site; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Site or a referral website; and other web usage activity and data logged by our web servers. Your IP address can also be used for moderation purposes, in order to limit the creation of multiple accounts and SPAM prevention.
+  * **Conditions.** We will process your personal information for a variety of reasons, each of which is prescribed by relevant data protection laws.
+  * **Consent.** Our processing of your personal information will primarily be necessary for us to provide you with the Services. On occasion we may ask for your consent to processing personal information in a discrete manner, in this instance your personal information will be processed in accordance with such consent and you will be able to withdraw this consent in writing at any time. By way of example, your consent will be needed in order to send you marketing and promotional communications.
+  * **Fulfilment of a contract, compliance with a legal obligation.** It may also be necessary for us to process your personal information where it is necessary for the performance of a contract (such as the [Terms and Conditions](https://web.archive.org/terms&conditions.htm) when you open a User Account) or in order for us to comply with our various legal responsibilities
+  * **Legitimate interests.** Finally, we may also process your personal information where we deem such processing to be in our legitimate interests and provided always that such processing will not prejudice your interests, rights and freedoms. Examples of us processing in accordance with legitimate interests would include: (i) where we disclose your personal information to companies in our Group following a restructure or for internal administrative purposes; (ii) where we identify certain companies can offer you additional benefits to our services or provide us with valuable information about your use of our Service; (iii) processing for the purposes of ensuring network and information security, including preventing unauthorised access to our electronic communications network;; (iv) adhering to regulatory and statutory requirements.
 
-When you use the Site, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make the Site better for our users.
 
-* **Special Promotions Privacy Terms**
 
-|OAW may, from time to time, initiate certain bonus programs and other promotional activities (collectively, the " **Promotions** "), in connection with which certain additional personal information may be collected from our users. Specifically, the personal information that may be collected in connection with our Promotions includes a user's name, surname, room nickname (i.e. the nickname the user gives him/herself in connection with the specific Promotion), email address, and country of residence. In addition, in certain Promotions as well as in certain cases in which further verification procedures so require, a user may also be asked to provide a telephone number and a facial photograph together with the user's ID.
+## 4\. Information Sharing, Disclosures and Recipients
 
-OAW may disclose the personal information described above to such third parties with whom OAW partners in connection with the Promotions.
+  * **Specific Disclosures.** We may disclose your personal information as follows: 
+    * to any recipient if required to do so by law or by regulatory authority;
+    * to any regulatory body or authority;
+    * to third parties who provide services to us or on our behalf;
+    * to third parties for marketing purposes, provided you have consented or not objected, as the case may be, as described in Section 9 below;
+    * to any third party that purchases us or our business or any part of us or our business;
+    * if we believe in good faith that such action is necessary:   
+i. to comply with any law or comply with legal process served on us;   
+ii. to protect and defend our rights or property;
+    * with your consent;
+    * for the purposes of disaster recovery; or
+    * as set out in Section 5 below.
+  * **General Disclosures.** In addition to the specific examples of disclosures listed above we may disclose your personal information to our employees, employees of other companies in our Group, our agents and to third party service providers who use your personal information to provide Services to us in respect of you being a user of our Services.
+  * **Combined Personal Data.** We may combine your personal information collected from your use of the Service in accordance with this Privacy Policy with other information collected from your use of other services operated by any other company in our corporate group as well as all products which are related or ancillary thereto, including mobile and social networking services. We will treat this combined information in accordance with, and will use it for the purposes set out in, this Privacy Policy.
 
-* **Confidentiality**
 
-OAW undertakes appropriate efforts to protect the confidentiality of the identity, preferences and other information it collects about users of the Site and other than as specified in this Privacy Policy, it will not knowingly allow access to this information to anyone outside OAW.
 
-You should also do your part in protecting your information. Your login credentials are confidential and you are obliged to keep your login credentials secret and confidential at all times and to take all efforts to protect their secrecy and confidentiality.
+## 5\. Confidentiality
 
-Please be advised, however, that due to the nature of Internet communications and evolving technologies, unauthorized entry or use, hardware or software failure, and other factors, the security of user information may be compromised at any time. No method of transmission over the Internet, or method of electronic storage, is 100% secure.
+  * **What Do We Do?** We have undertaken substantial efforts to protect the confidentiality of the identity, preferences and other information we have collected about individual Users and we will not knowingly allow access to this information to anyone outside of our Group, other than to User themselves or as described in this Privacy Policy. We have made a substantial investment in our server, database, backup, firewall and encryption technologies to protect the information that we collect and process. These technologies are deployed as part of state of the art security architecture. 
+  * **What Can You Do?** You should also play your part in protecting your personal information. Your login credentials are confidential and you are obliged to keep your login credentials secret and confidential at all times and to use your best efforts to protect their secrecy and confidentiality.
 
-* **Limits of Confidentiality**
 
-Due to the legal, regulatory and security environment in which we operate, OAW may be required, under certain circumstances, to disclose personally identifiable information of our users and we may not be permitted to inform you that we have done so. OAW will use reasonable endeavours to limit such disclosure where OAW believes in good faith that it is required to do so in response to a subpoena, warrant or other legal process, or where reasonably necessary to identify, contact or bring legal action against persons or entities to preserve and/or enforce OAW’s rights. Further, we can, and you authorize us to, disclose your user identification information to third party agents of OAW or official government bodies as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy or other unlawful activity or activity that may expose us to legal liability.
 
-* **Who receives your information?**
+## 6\. Limits of Confidentiality
 
-In addition to legally required disclosures as explained in this Privacy Policy, we may disclose your personal information to our employees, employees of other companies in our corporate group, our agents and to third party service providers who use your personal information to provide services to us in respect of your being a user of OAW. All recipients of your personal information shall be bound by applicable data protection laws to keep your personal information private.
+  * **Legally Required Disclosures**. Due to the legal, regulatory and security environment in which we operate, we may be required, under certain circumstances, to disclose personally identifiable information about our Users and we may not be permitted to inform you that we have done so. We will use reasonable endeavours to limit such disclosure to the following: (a) where we believe in good faith that we are required to do so in response to a subpoena, warrant or other legal process or obligation upon us; or (b) where reasonably necessary to identify, contact or bring legal action against persons or entities to preserve and/or enforce our rights. Further, please note that we may disclose your User identification, name, date of birth, street address, city, county, post code, country, phone number, email , account activity, your communications with other Users, to our third party agents or official government bodies as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of money-laundering, fraud, intellectual property infringement, piracy or other unlawful activity or activity that may expose us to legal liability.
+  * **Group Marketing.** We may use your email address and phone number for the purpose of providing you with news, promotions and other marketing offers from us. If you no longer wish to receive these promotional communications, newsletters and marketing offers, you may opt-out of receiving them either when you register with us initially, or subsequently by following the ‘opt-out’ instructions included in each communication. You are also, in addition, entitled at any time to notify us that you do not wish to receive any promotional communications from us and you may do this by emailing us at [Support](mailto:privacy@ibusmedia.com).
+  * **Third Party Offers of Goods and Services.** Where you have provided us with your consent to do so, we may also share your email address and phone number with third parties so that they may send you offers of their goods and services. You may request at any time not to receive such offers by sending a blank message with the word ‘ _Remove’_ in the subject area to [Support](mailto:privacy@ibusmedia.com). If you request not to receive these offers we will remove your details from our marketing distribution lists and from any future lists we may share with our marketing partners. However, you will need to unsubscribe separately from marketing communications sent by partners who have received your contact details from us prior to your request to be removed from these lists.
+  * **Publicity.** We will only use your name and details in publicity materials with your written consent.
 
-* **Your rights in relation to your information**
 
-We aim to keep our information about you as accurate as possible. You can write to us at any time to review, change, obtain a copy of your information or have your details altered or corrected in accordance with your rights under applicable laws, and in such event we may require evidence of your identity. In order to contact us regarding your information please [contact us](http://www.onlineaffiliateworld.com/contact.htm). We may in certain circumstances levy a small charge to cover the cost of administration regarding any request made by you in this regard.
 
-* **Links**
+## 7\. Your Rights in Relation to Your Information
 
-The Site may contain links to third parties' websites. While we attempt to provide links to sites that value your privacy, we cannot be responsible for the content or privacy policies of such sites. We encourage you to carefully review the privacy policies of such third parties' websites prior to any use of such websites.
+  * **Right to request information about you.** We aim to keep our information about you as accurate as possible. You can contact us at any time to review, change, obtain a copy of your information or have your details altered or corrected in accordance with your rights under the Act. In this event we may require evidence of and be satisfied as to your identity before we take any requested action. To contact us to exercise any of your rights as set out in this Clause 12, please e-mail [Support](mailto:privacy@ibusmedia.com). We may, in certain circumstances, levy a small charge to cover the cost of administration regarding any request made by you in this regard or deal with your query in accordance with the Act as may be applicable.
+  * **Additional Rights**. You have the following rights in relation to your personal data: 
+    * a right to object to processing that is likely to cause or is causing damage or distress;
+    * a right to object to decisions being taken by automated means;
+    * a right in certain circumstances to have inaccurate personal data rectified, blocked, erased or destroyed; and
+    * a right to claim compensation for damages caused by a breach of. data protection law. 
 
-* **Opt-Out Options**
 
-We and other members of our corporate group may occasionally send you emails with information on events and news or information regarding new services or in connection with customer support matters. If you no longer wish to receive our email newsletters, you can opt-out, at any time, by [contacting us](http://www.onlineaffiliateworld.com/contact.htm) here requesting removal of your email address from any such mailing lists. If applicable, you may also opt-out from receiving marketing communications from us by following instructions on our email communications explaining how to unsubscribe from our email mailing lists. We will take appropriate steps to fulfill your request within reasonable time; however, it may take a few days or longer to process your request during which you may still receive marketing communications from us. We reserve the right to send you non-marketing notice about your account, even if you opt-out of all email notifications.
 
-If you decide to terminate your account with us, you may do so by [contacting us](http://www.onlineaffiliateworld.com/contact.htm) here specifying your request and providing us with your OAW Username and email address with which you registered. If you terminate your account, your profile will be removed from the Site, however, deletion may not be immediate and we may continue keeping your personal information in our records for audits and other administrative purposes.
+If you are unsure about your rights or are concerned about how your personal information may be processed you should contact the Isle of Man Data Protection Supervisor (details set out below). If you contact us in relation to your rights we will do our best to accommodate your request or objection. Please note, however, that not all rights are absolute.
 
-* **Who are we?**
+## 8\. Cookies
 
-iBus Media Limited  
-4th Floor Exchange House  
-54-58 Athol Street  
-Douglas  
-Isle of Man  
-IM1 1JD 
+Cookies are text-only strings of information that are downloaded to your personal desktop, laptop computer or mobile device (each a “ **Device** ”) when you visit a website. They are then sent back to the originating website on each subsequent visit, or to another website that recognises those cookies. Please see: [www.allaboutcookies.org](http://www.allaboutcookies.org/manage-cookies/) for information about what cookies are and what they do.
+
+Cookies are very useful and are used for many different purposes. These include allowing you to navigate between pages efficiently, remembering your preferences, and generally improving user experience. Sometimes cookies are used to help ensure that adverts you see online are relevant to you and your interests. We use cookies in order to track referrals to our Sites, to remember your preferences, and to generate anonymised statistical data, which we use to improve the user experience on our sites. We also use cookies to measure the effectiveness of our advertising campaigns, to limit the number of times you see an advertisement, to remember that you have visited a website, and to provide advertisements that are more relevant to your interests.
+
+Detailed information about cookies and how we use them on the Site may be found in our [Cookie Policy](https://web.archive.org/cookies-information.htm) , which also provides a [Link](http://www.allaboutcookies.org/manage-cookies/) to show you how you can delete or disable cookies?.
+
+## 9\. Further Information
+
+We are happy to provide you with further information on how we protect and use your personal information. Please contact [Support](mailto:privacy@ibusmedia.com). You can also obtain much useful information on data protection and privacy from the office of the Isle of Man Information Commissioner [www.inforights.im](http://www.inforights.im/).
+
+Privacy Policy last revised: 18 May 2018
