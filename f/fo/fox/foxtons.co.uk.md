@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxtons.co.uk privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626220920id_/https%3A//www.foxtons.co.uk/help/termsconditions.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxtons.co.uk privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125014334id_/https%3A//www.foxtons.co.uk/help/termsconditions.html) for the most accurate reproduction.*
 
 # Foxtons Terms & Conditions & Privacy Policy
 
@@ -117,7 +117,8 @@ Marketing and Communications
 
 Necessary for our legitimate interests (for running our business, to recover debts due to us, to keep our records updated and to study how customers use our products/services)   
   
-To carry out our obligations arising from any contracts entered into between you and us and to provide with you the information, products and services you request from us Identity | Contact   
+To carry out our obligations arising from any contracts entered into between you and us and to provide with you the information, products and services you request from us Identity | Identity  
+Contact   
 Financial   
 Transaction   
 Marketing and Communications  
@@ -194,6 +195,8 @@ Technical
 Usage   
 | Necessary to comply with our legal obligations  
 Where you have viewed through us, we may disclose your name to a landlord or vendor where we have been dis-instructed, in order to avoid a potential commission dispute | Your name | Necessary for our legitimate interests (to protect our entitlement to a commission and to avoid commission disputes wherever possible)  
+We may disclose tenant references and any forwarding address to a landlord | Identity  
+Contact | Necessary for our legitimate interests (to help protect our landlord customers' legal rights)  
   
 **Marketing**
 
@@ -217,7 +220,7 @@ We will get your express opt-in consent before we share your personal data with 
 
 **Cookies**
 
-The Foxtons website and applications may automatically collect data about how you use our services in order to help us improve future functionality. We use Google Analytics, which is a web analysis service provided by Google.
+The Foxtons website and applications may automatically collect data about how you use our services in order to help us improve future functionality of our website and to assist with advertising and targeting. We use Google Analytics, which is a web analysis service provided by Google.
 
 The cookies on the Foxtons website do not track, collect or upload data such as your name, email address or billing information, but it may collect data about your equipment and browsing activities. We may collect and report on the adoption and usage of specific features, crashes and exceptions and other useful, anonymous metrics.
 
@@ -244,9 +247,12 @@ HMRC, regulators and other authorities acting as processors or joint controllers
 
 • Conveyan  
 • Habitat  
-• Air Agents
+• Air Agents  
+• Global Property Ventures Limited (t/a Zero Deposit)
 
-If you are a tenant and we are helping you with the administration in moving, we will refer your personal information to Tenant Shop Limited which acts on our behalf to provide these services. Tenant Shop Limited may contact you about the other services that they provide if you consent for them to do so.  
+If you are a tenant and we are helping you with the administration in moving, we will refer your personal information to Tenant Shop Limited which acts on our behalf to provide these services. Tenant Shop Limited may contact you about the other services that they provide if you consent for them to do so.
+
+If you are a landlord or a tenant and have agreed to use a Zero Deposit Guarantee product in place of a Deposit we will refer your personal information to Global Property Ventures Limited (t/a Zero Deposit).  
   
 Other Third Parties | Sometimes there may be third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.   
   
