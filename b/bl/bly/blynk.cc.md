@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blynk.cc privacy policy that was archived on 2018-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180107044425id_/http%3A//blynk.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blynk.cc privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125033235id_/http%3A//blynk.cc/privacy) for the most accurate reproduction.*
 
 # Privacy — Blynk
 
