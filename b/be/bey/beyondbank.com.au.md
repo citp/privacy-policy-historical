@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the beyondbank.com.au privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310040006id_/https%3A//beyondbank.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondbank.com.au privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125213231id_/http%3A//www.beyondbank.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Your privacy is important to us | Beyond Bank
 
+## Privacy Policy - current as at 18 October 2018.
+
 We are bound by the Australian Privacy Principles under the Privacy Act 1988 (Cth) (Privacy Act). We are also bound by Division 3 of Part IIIA of the Privacy Act, which regulates the handling of credit information, credit eligibility information and related information by credit providers.
 
-This Privacy Policy outlines how we deal with your personal information (including credit-related information), as well as our legal obligations and rights as to that information. If we agree with you to use or disclose any of your personal information in ways, which differ to those stated in this Privacy Policy, the provisions of that agreement will prevail.
-
-  
 **1\. Key types of information**
 
 Certain words have special meanings when used in this Privacy Policy. These are shown below.
@@ -85,6 +84,8 @@ Organisations to which we will usually disclose your personal information includ
   * our related companies;
   * external organisations that are our assignees, agents or contractors;
   * external service providers to us, such as:
+
+
   * those we use to verify your identity;
   * administration service platforms;
   * fund managers;
@@ -93,6 +94,8 @@ Organisations to which we will usually disclose your personal information includ
   * printing and mailing houses;
   * fraud prevention service providers; and
   * research consultants;
+
+
   * our professional advisors, such as accountants, lawyers and auditors;
   * your representative, for example, lawyer, conveyancer, mortgage broker, financial advisor, accountant, stockbroker or attorney, as authorised by you.
 
@@ -126,11 +129,11 @@ However, we will never sell any of your personal information to any other organi
 
 We will take reasonable steps to ensure that these organisations are bound by sufficient confidentiality and privacy obligations with respect to the protection of your personal information.
 
-**4.1     Disclosure outside of Australia**
+**4.1 Disclosure outside of Australia**
 
 We may disclose your personal information overseas if you choose to make an international transfer. The countries to which we may disclose your personal information are those to which you make a transfer. However, if we do disclose this information outside Australia, we will do so on the basis that the information will only be used for the purposes set out in this Privacy Policy.
 
-From time to time we may use service providers or other third parties which operate or hold data outside of Australia. This may result in your personal information being stored overseas. These parties are selected specifically to assist in enabling us to provide products or services to you, in particular information technology solutions. At present our arrangements include providers based in the United States of America. Where this occurs we ensure that appropriate data handling and security arrangements are in place to protect your data.
+From time to time we may use service providers or other third parties which operate or hold data outside of Australia. This may result in your personal information being stored overseas. These parties are selected specifically to assist in enabling us to provide products or services to you, in particular information technology solutions. At present our arrangements include providers based in the United States of America and the Netherlands1. Where this occurs we ensure that appropriate data handling and security arrangements are in place to protect your data.
 
 **5\. Sensitive information**
 
@@ -181,7 +184,7 @@ Instances where we will retain your personal details:
 
 
 
-**8.3 Email**
+**8.3  Email**
 
 When we receive emails, we will retain the content of the email and our response to you.
 
@@ -195,11 +198,11 @@ Email itself is an unsecure medium. Therefore, when emailing us, you should be a
 
 We are committed to providing safe mobile banking services. All use of our mobile banking application and transactions through the mobile app are encrypted. Encryption protects any personal information you send to us through our mobile banking service. Only authorised Beyond Bank Australia employees or agents can gain access to this information.
 
-**8.4.2 Notifications**
+**8.4.2  Notifications**
 
 Banking transaction and balance alerts can be established via our mobile banking app. These alerts can only be established by you and the secure detail of the alert can only be viewed when you are logged into mobile banking. Your mobile device will, however, receive push notifications from our systems through its operating system’s notification facility indicating to you that an alert has been produced and is ready to be viewed through mobile banking. These push notifications will not present personal information.
 
-**8.4.3 Location based services**
+**8.4.3  Location based services**
 
 We use your current location to determine the closest bank branch, ATM, access point or other services that we consider may be of benefit to you, when you allow us to do so via a setting on your mobile device. This information is only used while determining the standard bank services closest to you and we do not store this information.
 
@@ -253,7 +256,6 @@ We may recover the reasonable costs that we incur for responding to your request
 
 We take reasonable steps to make sure that the personal information (including credit-related information) that we collect, use or disclose is accurate, complete and up-to-date. However, if you believe your information is incorrect, incomplete or not current, you can request that we update this information by advising one of our staff or contacting our Privacy Officer whose details are in paragraph 14 of this Privacy Policy.
 
-  
 **11\. Marketing**
 
 We may use your personal information, including your contact details, to provide you with information about products and services, including those of third parties, and competitions or promotions which we consider may be of interest to you.
@@ -264,37 +266,46 @@ We may also provide your details to third party organisations with which we have
 
 You may opt out at any time if you no longer wish to receive marketing information or do not wish to receive marketing information through a particular channel, such as email. In order to do so, simply contact us and let us know that you no longer want us to send you marketing materials or disclose your information to other organisations for marketing purposes. You can also 'unsubscribe' from our email marketing messages, which always include an unsubscribe option.
 
-To help us reach the right people with direct marketing for our credit products or services, we may ask a credit reporting body to "pre-screen" a list of potential recipients of our direct marketing against our eligibility criteria to remove recipients who do not meet those criteria. The credit reporting body cannot use information about your existing loans or repayment history in carrying out its pre-screening and it must destroy its pre-screening assessment once it has given us, or a contractor acting on our behalf, the list of eligible recipients. If you do not want your credit information used for pre-screening by a credit reporting body that holds credit information about you, you can opt-out by informing that credit reporting body. The credit reporting body we use is Veda Advantage, whose contact details are available on their website [(www.veda.com.au](http://www.veda.com.au/)).
+To help us reach the right people with direct marketing for our credit products or services, we may ask a credit reporting body to "pre-screen" a list of potential recipients of our direct marketing against our eligibility criteria to remove recipients who do not meet those criteria. The credit reporting body cannot use information about your existing loans or repayment history in carrying out its pre-screening and it must destroy its pre-screening assessment once it has given us, or a contractor acting on our behalf, the list of eligible recipients. If you do not want your credit information used for pre-screening by a credit reporting body that holds credit information about you, you can opt-out by informing that credit reporting body. The credit reporting body we use is Equifax, whose contact details are available on their website ([https://www.equifax.com.au](https://www.equifax.com.au/)).
 
 **12\. Changes to the Privacy Policy**
 
 We may make changes to this Privacy Policy from time to time (without notice to you) that are necessary for our business requirements or the law.
 
-  
 **13\. Questions and complaints**
 
 If you have any questions, concerns or complaints about this Privacy Policy, or our handling of your personal information (including credit-related information), please contact our Privacy Officer whose details are in paragraph 14 of this Privacy Policy. You can also contact the Privacy Officer if you believe that the privacy of your personal information has been compromised or is not adequately protected.
 
-Once a complaint has been lodged, the Privacy Officer will respond to you as soon as possible. We will aim to deal with your complaint at the source of your complaint. If you are still not satisfied, you can contact external bodies that deal with privacy complaints. These are the Financial Ombudsman Scheme which is our external dispute resolution scheme, the Federal Privacy Commissioner or, in the case of insurance-related privacy complaints, the Australian Prudential Regulation Authority. Any of these bodies may forward your complaint to another external dispute resolution body if it considers the complaint would be better handled by that other body.
+Once a complaint has been lodged, the Privacy Officer will respond to you as soon as possible. We will aim to deal with your complaint at the source of your complaint.
 
-Financial Ombudsman Service Post: GPO Box 3, Melbourne VIC 3001 Telephone: 1800 367 287 Website: [www.fos.org.au](http://www.fos.org.au/)
+If you are still not satisfied, you can contact external bodies that deal with privacy complaints. This is the Australian Financial Complaints Authority which is our external dispute resolution scheme, the Federal Privacy Commissioner or, in the case of insurance-related privacy complaints, the Australian Prudential Regulation Authority. Any of these bodies may forward your complaint to another external dispute resolution body if it considers the complaint would be better handled by that other body.
 
-Federal Privacy Commissioner Post: GPO Box 5218 Sydney NSW 2001 Telephone: 1300 363 992 Website: [www.oaic.gov.au](http://www.oaic.gov.au/)
+  * Australian Financial Complaints Authority Post: GPO Box 3, Melbourne VIC 3001  
+Telephone: 1800 931 678 Website: www.afca.org.au
+  * Federal Privacy Commissioner Post: GPO Box 5218, Sydney NSW 2001  
+Telephone: 1300 363 992 Website: www.oaic.gov.au
+  * Australian Prudential Regulation Authority Post: GPO Box 9836, Sydney NSW 2001  
+Telephone: 1300 55 88 49 Website: www.apra.gov.au
 
-Australian Prudential Regulation Authority Post: GPO Box 9836, Sydney NSW 2001 Telephone: 1300 55 88 49 Website: [www.apra.gov.au](http://www.apra.gov.au/)
+
 
 **14\. Privacy Officer**
 
-Our Privacy Officer's contact details are:  
-Privacy Officer  
-Beyond Bank Australia  
+Our Privacy Officer's contact details are:
+
+Privacy Officer
+
+Beyond Bank Australia
+
 GPO Box 1430 Adelaide SA 5001
 
-In the first instance all privacy queries or complaints are handled by our Member Advocate Officer, Beyond Bank Australia  
-Address: GPO Box 1430, Adelaide SA 5001  
-Telephone: 13 25 85  
-Email: [contactus@beyondbank.com.au](mailto:contactus@beyondbank.com.au?subject=Privacy)
+In the first instance, all privacy queries or complaints are handled by our  
+Member Advocate Officer
 
-**15\. Disclaimer**
+Beyond Bank Australia
 
-This Privacy Policy is provided for the purposes of information only. While we have taken care to ensure that it is accurate and current, we provide no guarantee as to its accuracy or currency. We accept no liability for loss or damage suffered as a result of reliance on the information provided in this Privacy Policy.
+GPO Box 1430 Adelaide SA 5001
+
+Telephone: [13 25 85](http://tel:13 25 85)
+
+Email: [contactus@beyondbank.com.au](mailto:contactus@beyondbank.com.au)
