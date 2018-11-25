@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogaworks.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719105343id_/https%3A//www.yogaworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogaworks.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125035056id_/https%3A//www.yogaworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YogaWorks
 
