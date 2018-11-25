@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qualitylogoproducts.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912223305id_/https%3A//www.qualitylogoproducts.com/faq/privacy-policy-and-security-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitylogoproducts.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125071104id_/https%3A//www.qualitylogoproducts.com/faq/privacy-policy-and-security-statement.htm) for the most accurate reproduction.*
 
-# Privacy Policy and Security Statement | Quality Logo Products, Inc.
+# Privacy Policy and Security Statement | FAQ | Quality Logo Products®
 
 Let's be honest. Our fancy website, friendly sales team, and low prices are only part of the experience. While all of these are important and part of our mission, they're no match for the assurance that your information is safe with us, and that you'll be able to securely order your products.
 
