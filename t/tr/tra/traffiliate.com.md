@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffiliate.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622194203id_/http%3A//www.traffiliate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffiliate.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126004339id_/http%3A//www.traffiliate.com/privacy.html) for the most accurate reproduction.*
 
 # Traffiliate – Privacy Policy - Landing Page and Conversion Funnel Optimization Platform
 
@@ -26,6 +26,6 @@ Privacy Policy
 
 10\. Traffiliate may, at its sole discretion, amend this Privacy Policy at any time by giving you notice or by posting the amended Privacy Policy on the Website. Any amended Privacy Policy shall govern new user registrations from the date that it is posted on such Website. Your continued use of the Website or any of Traffiliate services following such date shall mean that you accept and agree to the amendments. 
 
-11\. If you have any questions or comments regarding privacy issues on the Website, please use the following mailbox: [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#bccfc9ccccd3cec8fcc8cedddadad5d0d5ddc8d992dfd3d19c).
+11\. If you have any questions or comments regarding privacy issues on the Website, please use the following mailbox: [support@traffiliate.com ](mailto:support@traffiliate.com).
 
 |  
