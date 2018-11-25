@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hisupplier.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527011251id_/http%3A//www.hisupplier.com/help-centre/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hisupplier.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125163156id_/http%3A//www.hisupplier.com/help-centre/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy- Help Centre at hisupplier.com, B2B E-Marketplace
 
