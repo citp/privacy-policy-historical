@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norsecorp.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528084304id_/http%3A//www.norsecorp.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norsecorp.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125155147id_/http%3A//www.norsecorp.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Norse
 
