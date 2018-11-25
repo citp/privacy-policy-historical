@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangmyteenass.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529090404id_/http%3A//bangmyteenass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangmyteenass.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125165707id_/http%3A//www.bangmyteenass.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
