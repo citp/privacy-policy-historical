@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brctv.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616222134id_/http%3A//www.brctv.com/privacy-policy-services) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brctv.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125152919id_/http%3A//www.brctv.com/privacy-policy-services) for the most accurate reproduction.*
 
 # Privacy Policy | Blue Ridge
 
