@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopcade.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129213250id_/https%3A//www.shopcade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopcade.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125024048id_/https%3A//www.shopcade.com/privacy) for the most accurate reproduction.*
 
 # Shopcade
 
@@ -119,3 +119,149 @@ Any changes we may make to our privacy policy in the future will be posted on th
 ## Contact
 
 Questions, comments and requests regarding this privacy policy are welcome and should be addressed to [feedback@shopcade.com](mailto:feedback@shopcade.com) or Shopvolution Limited, Privacy Office, 131-151 Great Titchfield Street, W1W 5BB London, United Kingdom
+
+* * *
+
+**1\. Why do you have a Cookies Policy?**    ****
+
+1.1 The reason we have a Cookies Policy is to explain to you what cookies and similar technologies we use, why we use them, and what you need to do if you want to restrict, block, disable or delete them. Our Cookies Policy is part of, and is subject to, our Privacy policy <https://www.shopcade.com/privacy/en> and our Terms of Service <https://www.shopcade.com/tc/en>  
+
+
+1.2 By accessing and/or using our website you confirm that you accept the terms of this Cookies Policy. 
+
+**2\. About Cookies**
+
+2.1 A cookie is a text file placed on your computer, tablet, mobile phone, or other device (" **device** ") when a person access or uses a website. There are also technologies similar to cookies (e.g. clear gifs) that do the same. Data is collected because it can be necessary to a website’s operation, to assess and/or improve its performance, and/or to provide a personalised experience etc. 
+
+2.2 Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+
+2.3 Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+2.4 To find out more general information about cookies, please visit  <https://ico.org.uk/for-the-public/online/cookies/>. 
+
+**3.** **Cookies that we use**  
+
+
+3.1 We use the following cookies for the following purposes:
+
+**Cookie**
+
+| 
+
+**Name**
+
+| 
+
+**Purpose**  
+  
+---|---|---  
+  
+Session cookie
+
+| 
+
+PHPSESSID
+
+| 
+
+To identify you when you visit our website and as you navigate our website  
+  
+User tracking cookie
+
+| 
+
+sc_cid
+
+| 
+
+To report on pages viewed and clicked  
+  
+Website language selected
+
+| 
+
+sc_lang_
+
+| 
+
+To store your preferences for the language of the website  
+  
+Cobranding cookie
+
+| 
+
+cobranding
+
+| 
+
+To display a cobranded Elle or Public banner when users are coming from Elle.fr or Public.fr  
+  
+Website country cookie
+
+| 
+
+cc-persist
+
+| 
+
+To store your preferences for the country of the website  
+  
+optimizelyEndUserId ; cobranding ; fbm_* ; fbsr_* ; G_ENABLED_IDPS ; __lc_visitor_id_8428301 ; cto_sid ; cto_idcpy ; t_fdz_octapid ; __adroll_bounced ; _bfa ; _bfs ; opera-interstitial ; CAMPAIGN_COOKIE ; VISITOR_COOKIE ; mindsparktb_207743773 ; mindsparktb_207743773 ; monitor_count ; __lnkrntafu |   |  Added by 3rd party partners on our domain. Used for performance optimization, and tracking.  
+  
+3.3 We use the following _third-party cookies_ on our website. They are placed on your device by the third parties set out below. **Please note that these cookies are subject to the privacy and cookie policies of the third party placing the relevant cookies** **.**
+
+**Cookie**
+
+| 
+
+**Name**
+
+| 
+
+**Purpose**  
+  
+---|---|---  
+Facebook cookies | fbm_ ; fbsr_ | Cookies used for Facebook to identify a user that connects or register through Facebook authentication  
+Google Analytics cookies | _ga ; _gid ; _dc_gtm_UA-21721565-2 ; _gat_UA-21721565-2 ; _gat ; __utma ; _utmz ; _utmc ; _utmb ; _utmt | [Google Analytics gathers information about our website use and it is used to create reports about the use of our website. Google's privacy policy is available at: https://www.google.com/policies/privacy/.](https://www.google.com/policies/privacy/)  
+Optimizely cookies | optimizelyBuckets ; optimizelyEndUserId ; optimizelySegments | To create AB Test scenarios on our website in order to improve user experience based on AB tests results.  
+Google Adwords | cto_lwid ; _sm_au | These cookies are used by Google to collect anonymous information for use on Google Adwords. The data is anonymous and helps Google deliver relevant advertising on other websites. The cookies expire between thirteen months and two years.  
+Google DoubleClick cookies | __ar_v4 | Optimises ad display based on the user's movement combined and various advertiser bids for displaying user ads.  
+Hubspot cookies | hubspotutk ; hsfirstvisit ; __hstc | Customer relationship management tool used to improve customer satisfaction  
+AB Tasty cookies | ABTasty ; ABTastySession | To create AB Test scenarios on our website in order to improve user experience based on AB tests results.  
+Wordpress cookies | tk_lr ; tk_r3d ; tk_or ; SL_GWPT_Show_Hide_tmp ; SL_wptGlobTipTmp; tk_ai ; tk_qs ; SLG_GWPT_Show_Hide_tmp ; SLG_wptGlobTipTmp | Collection of internal metrics for user activity, used to improve user experience. We use these cookies to make the use of the site more convenient. Some common uses of cookies include the ability to save browsing preferences related to the language of use of the site or the ability to share on social networks links and content on the site  
+Stripe cookies | __stripe_sid ; __stripe_mid | These cookies are used by Stripe to process payments on the website  
+AppDynamics cookie | ADRUM | This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website.  
+CloudFlare cookie | __cfduid | This cookie is used to identify individual clients behind a shared IP address and apply security settings on a per-client basis. This cookie is absolutely necessary for supporting Cloudflare's security features and cannot be turned off.  
+Livechat | lc_visitor_id | Used for livechat https://www.livechatinc.com/  
+| t_fdz_octapid |   
+| _bfa ; _bfs |   
+Opera ads cookie | opera-interstitial | Set for some users on the Opera browser. We do not set this cookie  
+| CAMPAIGN_COOKIE ; VISITOR_COOKIE |   
+wildfig media session cookie | __lnkrntdmcvrd | https://www.wildfigmedia.com/ seo company.  
+Mindspark | mindsparktb_207743773 ; mindsparktb_222250168 ; mindsparktb_226333724 ; mindsparktb_227257322 ;   
+mindsparktbsupport_227257322 ; mindspark_extension_api_features_227257322 ; mindsparktb_232530392 ; mindsparktbsupport_232530392 ; mindspark_extension_api_features_232530392 | We do not set this cookie - these are set by the mindspark browser extension, which some users might have installed  
+| monitor_count |   
+| _ju_dn |   
+| __lnkrntafu |   
+| ivbss ; ivbsdid ; ivBlk |   
+| mprtcl-v4 | [http://cmcmarkets.com/ ](http://cmcmarkets.com/)  
+Demandware cookie | __cq_uuid; __cq_seg |   
+Browser cookie | arp_scroll_position | This is a browser based cookie that is used to remember user's position on a page  
+CrazyEgg cookie | _ceir | Tool used to identify where users click on a page  
+Kissmetrics cookies | km_uq ; km_ai ; km_lv | Marketing tool to help increase conversions, engagement and retention  
+AdRoll cookie | __adroll_bounced ; __adroll_bounce_closed | This cookie is used for retargeting when a user comes to visit our products, he might see them on other websites  
+  
+**4\. What if I don’t want cookies and similar technologies?**
+
+4.1 You can restrict, block, disable or delete cookies and similar technologies.  Most web browsers allow some control of most cookies through the browser settings. To find out more information please visit <http://cookies.insites.com/disable-cookies/> or <http://www.allaboutcookies.org/manage-cookies/>.    
+
+
+**5\. What happens if you update your Cookies Policy?**
+
+5.1 We may update our Cookies Policy from time to time and without prior notice to you to reflect changes in our processing of your data, privacy practices and changes in applicable data protection law and regulations. If we make changes to this Cookies Policy, we will post the revised Cookies Policy on our platform. 
+
+**6\. What do I do if I have any questions?**  
+6.1 To contact us with any questions regarding our Cookies Policy, please contact us at [privacy@shopvolution.com](mailto:privacy@shopvolution.com). 
+
+  
+
