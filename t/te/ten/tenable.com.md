@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tenable.com privacy policy that was archived on 2018-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180210164725id_/https%3A//www.tenable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenable.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125052344id_/https%3A//www.tenable.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tenable™
+# Privacy Policy | Tenable®
 
 At Tenable Network Security, Inc. and its parent, subsidiary, and affiliated companies (collectively, “Tenable” or “We”), your privacy is important to us. This Privacy Policy describes Tenable’s privacy practices in relation to (i) information that we collect through websites operated by Tenable (the “Site”), and (ii) human resources data of Tenable employees. As used in this policy, “You” or “Your” refers to any individual who visits or otherwise uses the Site or is an employee of Tenable. By using the Site, You accept and agree to the practices outlined in this Privacy Policy. If You have any questions or concerns about Tenable’s information collection and use practices, please send an email stating Your questions, requests, or concerns, with the subject heading, “Privacy Policy Question” to [privacy@tenable.com](mailto:privacy@tenable.com).
 
