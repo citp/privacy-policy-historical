@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axelatraining.co.uk privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522135149id_/http%3A//axelatraining.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axelatraining.co.uk privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125065652id_/http%3A//axelatraining.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies - Axela
 
