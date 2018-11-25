@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourcreativecrew.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912010157id_/http%3A//yourcreativecrew.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcreativecrew.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125112630id_/http%3A//yourcreativecrew.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
