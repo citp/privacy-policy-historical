@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vans.ca privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221125342id_/https%3A//www.vans.ca/en_ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vans.ca privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125122058id_/https%3A//www.vans.ca/en_ca/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
