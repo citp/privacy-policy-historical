@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423161449id_/https%3A//www.trugreen.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125144645id_/http%3A//trugreen.com/about/privacy-policy) for the most accurate reproduction.*
 
 # TruGreen Privacy Policy | TruGreen
 
@@ -40,7 +40,7 @@ We may collect different types of information, including, but not limited to, pe
 
 **Facebook.** You may be given the option to link your Facebook account so that you can comment on the TruGreen Applications and/or our Products and Services, or take advantage of other features of the TruGreen Applications. When you comment on the TruGreen Applications using your Facebook username and password and clicking "allow" on the Facebook permission authorization screen, we will automatically import whatever information that you allow to be imported from your Facebook profile based upon your privacy settings at Facebook, such as your location, your interests, etc. (collectively, "Permitted Facebook Profile Content") and you give us permission to capture, store, use and display your Permitted Facebook Profile Content, including syncing access to such Permitted Facebook Profile Content when you are not using TruGreen Applications and we may share that information with other users. The authentication of your Facebook login credentials are conducted solely through Facebook.
 
-**User Generated Content.** The TruGreen Applications may contain review or chat areas and/or other message, communication or other mechanisms designed to enable you to communicate with others or to post content on the TruGreen Applications (the “Communication Services”). Please remember that any information you disclose while participating with the Communication Services becomes public information, becomes the property of, and is subject to redistribution by, TruGreen. You should exercise caution and discretion when deciding to disclose your personal information in a submission or posting. There is no expectation of privacy when posting or otherwise participating on the Communication Services. If you post content, such as messages, reviews or photos, please be aware that any personally identifiable information contained in such content is accessible to registered users or visitors to that TruGreen Application or Communication Services and we have no control over how those users may use your personally identifiable information. We have the right, but not the obligation, to monitor any activity and content associated with the Communication Services. We reserve the right to take action in connection with any content we deem to be inappropriate. Please review our Terms of Use for more information regarding your appropriate use of these Communication Services.
+**User Generated Content.** The TruGreen Applications may contain review or chat areas and/or other message, photo submission, communication or other mechanisms designed to enable you to communicate with others or to post content on the TruGreen Applications (the “Communication Services”). Please remember that any information you disclose while participating with the Communication Services becomes public information, becomes the property of, and is subject to redistribution by, TruGreen. You should exercise caution and discretion when deciding to disclose your personal information in a submission or posting. There is no expectation of privacy when posting or otherwise participating on the Communication Services. If you post content, such as messages, reviews or photos, please be aware that any personally identifiable information contained in such content is accessible to registered users or visitors to that TruGreen Application or Communication Services and we have no control over how those users may use your personally identifiable information. We have the right, but not the obligation, to monitor any activity and content associated with the Communication Services. We reserve the right to take action in connection with any content we deem to be inappropriate. Please review our Terms of Use for more information regarding your appropriate use of these Communication Services.
 
 **Information Collected Through Technology**
 
@@ -136,8 +136,8 @@ To opt-out of marketing communications or to request to be added to our Do Not C
   * Kevin E. Mann, General Counsel
   * Administrator, TruGreen Privacy Policy
   * TruGreen
-  * 860 Ridge Lake Boulevard
-  * Memphis, TN 38120
+  * 1790 Kirby Pkwy Suite 300
+  * Memphis, TN 38138
 
 
 
@@ -155,7 +155,7 @@ We urge you to keep any password that you establish with us in a safe place and 
 
 **Special Notice to California Residents.** Customers residing in California who have submitted Personal Information to us may request information about our disclosures of certain categories of personal information to third parties for direct marketing purposes. All requests for disclosure information must be submitted to us at [customercare@trugreenmail.com](mailto:customercare@trugreenmail.com) . Within 30 days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. As of the date of this Privacy Policy, except as otherwise provided in this Privacy Policy, we do not respond to “Do Not Track” requests.
 
-**A Note to International Users.** The TruGreen Applications are operated in the United States. If you are located anywhere outside of the United States, please be aware that information we collect will be transferred to, processed and stored in the United States. The data protection laws in the United States may differ from those of the country in which you are located, and your Personal Information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. By using the TruGreen Applications or providing us with any information, you consent to this transfer, processing and storage of your information in the United States. You are also consenting to the application of United States federal, and Tennessee state law in all matters concerning the TruGreen Applications and this Privacy Policy.
+**A Note to International Users.** The TruGreen Applications are operated in the United States and intended for U.S. residents only.  If you are located anywhere outside of the United States, please do not provide your personal information.  If you do provide your information, be aware that information we collect will be transferred to, processed and stored in the United States. The data protection laws in the United States may differ from those of the country in which you are located, and your Personal Information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. By using the TruGreen Applications or providing us with any information, you consent to this transfer, processing and storage of your information in the United States. You are also consenting to the application of United States federal, and Tennessee state law in all matters concerning the TruGreen Applications and this Privacy Policy.
 
 **Children's Privacy.** The TruGreen Applications are generally intended for general adult audiences and are not directed or intended for children under 13 years of age but TruGreen does have some webpages accessible from our TruGreen Applications which are intended for parents and educators to use with children under 13 years of age, such as mybotanicplanet.com. No personally identifiable information is collected from these webpages. We do not knowingly collect Personal Information from individuals under 13 years of age on any of the TruGreen Applications. If you are under 13 years of age, you should not register or provide Personal Information on the TruGreen Applications. If we later obtain actual knowledge that a user who has provided Personal Information is under 13 years of age, we will take steps to remove that user’s Personal Information from our systems.
 
@@ -170,7 +170,7 @@ We urge you to keep any password that you establish with us in a safe place and 
   * Kevin E. Mann, General Counsel
   * Administrator, TruGreen Privacy Policy
   * TruGreen
-  * 860 Ridge Lake Boulevard
-  * Memphis, TN 38120
+  * 1790 Kirby Pkwy Suite 300
+  * Memphis, TN 38138
 
-©2013 TruGreen Limited Partnership. All rights reserved. 
+©2018 TruGreen Limited Partnership. All rights reserved. 
