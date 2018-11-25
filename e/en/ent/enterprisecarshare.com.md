@@ -1,181 +1,206 @@
-> *The following text is extracted and transformed from the enterprisecarshare.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526043346id_/http%3A//www.enterprisecarshare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprisecarshare.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125075140id_/https%3A//privacy.ehi.com/en-us/home.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# EHI Privacy Center
 
-Effective Date: 09/22/14
+Welcome to our new Global Privacy Policy Center. We have developed this to enhance how we provide you with our data collection and use practices. While our practices have not changed, we have updated disclosures to comply with the new European General Data Protection Regulation (GDPR).
 
-At Enterprise Holdings, Inc. through our subsidiaries operating under the Enterprise Rent-A-Car, Car Sales, RideShare, VanPool, Commercial Truck, and Car Sharing brands, and at Enterprise Fleet Management, Inc ("Enterprise"), we respect the privacy of our customers. We have implemented this privacy policy to explain to you how we use and protect personal information we may gather from you by means of these Web sites, <http://www.enterprisecarshare.com/>, <http://www.enterprisecarshare.com/uk/>, and <http://www.enterprisecarshare.com/ca/>, the CarShare Mobile Application and our Mobile sites ("Privacy Policy"). By using our Web site, Mobile Application or Mobile site, you consent to the collection, use and disclosure of your information, as described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use our Web site, Mobile Application or Mobile sites.
+At Enterprise Holdings, Inc., through our independent regional subsidiaries ("subsidiaries") operating the Enterprise Rent-A-Car, National Car Rental and Alamo Rent A Car brands as well as Truck Rental, Car Sales, Commute with Enterprise, CarShare and Car Club, and at our affiliate, Enterprise Fleet Management, Inc., (collectively, " Enterprise Holdings", "we", "our" or "us"), we respect your privacy.  We have implemented this privacy policy ("Privacy Policy") and cookie policy ("Cookie Policy") to explain our data collection and use practices. You can learn more in the sections below.  
 
-Enterprise has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 
-The TRUSTe program covers only information that is collected through these Web sites, <http://www.enterprisecarshare.com/>, <http://www.enterprisecarshare.com/uk/>, and <http://www.enterprisecarshare.com/ca/>, mobile applications and mobile Web sites.
+[
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+##  Privacy Policy __
 
-  
-**WHAT INFORMATION IS COLLECTED**
+](https://web.archive.org/en-us/home/privacy-policy.html)
 
-    * **INFORMATION COLLECTED THROUGH THE SITE**
+Read about our privacy practices.
 
+Read about our privacy practices.
 
+This policy was last updated on May 07, 2018.  
 
-**INFORMATION YOU PROVIDE**
 
-As a general rule, you will not be required to provide personally identifiable information as a condition of browsing our Web sites. You may provide us with certain information in connection with a transaction or in your interactions with our Web Sites, mobile sites, mobile application and at our rental locations. This information may include but is not limited to:
+[
 
-  * name
-  * address
-  * telephone numbers
-  * email address
-  * frequent flyer number
-  * driver's license number and expiration date
-  * date of birth
-  * credit card numbers
-  * user name and password
-  * membership and corporate ID numbers
-  * geo location
+##  Cookie Policy __
 
+](https://web.archive.org/en-us/home/cookie-policy.html)
 
+Read about our use of cookies and similar technologies on our websites, mob...
 
-For CarSharing and Vanpool services this may also include emergency contact and driving record information.
+Read about our use of cookies and similar technologies on our websites, mobile applications and in the emails we send you.
 
-We may access location based information from your mobile device while searching for an Enterprise location in the area in which you have expressed interest. We do not use this information to specifically locate you for any reason other than to provide you the service. If you do not wish to allow us to use your location information then please do not use the service. If you have allowed us to utilize your location information in the past and wish to revoke the permissions to do so please turn off location services at the device level. Failing to provide requested information will not inhibit your ability to browse the Web site or Mobile site, but it may prevent you from being able to complete certain transactions or receive certain services from us.
+This policy was last updated on May 25, 2018.  
 
-  * **INFORMATION COLLECTED AND STORED AUTOMATICALLY**
 
+Expand All Collapse All 
 
+What Information We Collect 
 
-As part of the standard operation of our Web site and Mobile Application, certain information may be automatically provided to our Web servers by your computer or mobile device. For each visitor to our Web site, our Web server automatically recognizes the visitor’s domain name or IP address (where possible), but not the visitor’s email address. An IP address is a number assigned to your computer when you connect to the Internet. As part of the protocol of the Internet, Web servers can identify your computer by its IP address. In addition, we may collect your browser type, operating system and mobile device identification number when using our Mobile Application. Except as otherwise explained in this policy, we may combine the automated information we collect from you (as described above and as described below, under “Cookies & Pixel Tracking”) with your personal information in order to tailor our website and enhance your online experience by saving your preferences and/or to help identify site features, advertisements and offers that may be of interest to you.
+##### **Information Collected About You**
 
-  * **MOBILE ANALYTICS**
+You may provide us with certain information in connection with a transaction or in your interactions with our websites and at our locations. We collect the following types of personal information from you:
 
+  * Your name, contact information, date of birth, driver's license number and expiration date and emergency contact information;
+  * Vehicle rental information, including the location of where the vehicle is rented, date of rental, type of rental and your preferences;
+  * Your credit card details, Enterprise, Alamo or National rewards information, online user account details, membership/corporate ID numbers, passport information and frequent flyer or travel partner affiliations;
+  * Information you provide regarding your marketing preferences or in the course of participating in surveys or promotional offers;
+  * Photographs you submit of you and your driver's license or your receipts through camera features available on some of our mobile applications and websites;
+  * Information about relevant health conditions you have that assist us in providing you with adaptive driving devices; and
+  * Financial information that is necessary to facilitate the purchase or lease of a vehicle from a Car Sales or Fleet Management location
 
 
-We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
 
-  * **COOKIES & PIXEL TRACKING**
+Third parties provide us with additional information about you, including:
 
+  * Referral Sources, such as third party online booking sites (who provide us general contact information and a booking confirmation number to facilitate the rental), your employer (general contact information), and your insurance provider (general contact and policy information).
+  * Where applicable, our Refer-A-Friend programs.
+  * Hotel, airline and membership clubs, who provide us your general contact information and booking information.
+  * Credit reporting agencies, who, for fraud prevention purposes, provide us with identity-related information.
+  * Franchisees, who provide us information regarding your rental transactions.
+  * Service Providers, such as customer support (customer service-related information and enquiries made by you), customer survey providers (your response to our customer service surveys) and marketing providers (information to assist us to better communicate our products and services).
 
 
-Cookies are short strings of text sent from a Web server to a Web browser when the browser accesses a Web site or Mobile site. Cookies may be “session-only” or “persistent.” Persistent cookies last for more than one visit and are typically used to allow a visitor to our Web site to personalize their experience.
 
-By adjusting the settings in your browser, you can refuse to accept cookies, give yourself the opportunity to accept or reject cookies, or simply receive notice of when cookies are being placed. Refusing cookies may impinge or block altogether your user experience by eliminating personalization or other features.
+With your consent, we will access location-based information or collect location markers from your mobile device or based on your IP address. We will use this information to provide you with notifications related to our locations, return information, local offers or other information that we think will be helpful in providing you with better services. We do not use this information to specifically locate you for any reason other than to provide you the service. With your consent, our application will utilize your device's camera. If you have allowed us to utilize your location information or your device's camera in the past and wish to revoke the permissions, please change the settings on your device.
 
-We may use cookies to analyze the traffic on our Web site or Mobile site (such as total visitors and pages viewed), to personalize features and content, to optimize our search engine marketing, to save you the trouble of retyping your name or other information when you come back to our Web site, and to make improvements to the Web site and Mobile site based on the data we collect. We do not save passwords or other sensitive information in cookies. We may also use pixel tags (also known as “clear gifs,” “Web beacons” or “1-by-1gifs”) on our Web site and in our advertisements. We may work with our Affiliates (companies related to us) and our service providers to help us track, collect and analyze this information. Pixel tags may be used to collect a variety of information about your visit to our Web site, including the pages you view, the features you use, the links you click and other actions you take, all of which may be combined with other information we have collected from you. We use this information to enhance the effectiveness of our Web site, to compile aggregate usage statistics, to determine if errors are being encountered on the Web site and for other internal business purposes. Not all of our sites have these capabilities, but we provide you the following choices as to whether or not you wish to have your data used for these purposes:
+##### **Vehicle Operation and Location Data**
 
-  * To opt-out of this feature when using our rental sites, please [click here](http://www.coremetrics.com/company/privacy.php#optout). An opt-out cookie will be set, blocking our analytics service provider from collecting your data. 
+Our vehicles may be equipped with a vehicle telematics system ("Telematics System"). Some or all Telematics System functionality will be active during rental periods. Telematics Systems provide us with use of, disclosure of or access to (1) location information, (2) crash notification and related crash data, (3) operational condition, mileage, diagnostic and performance reporting of vehicles and (4) driver behavioral information ("Telematics Data"), as permitted by law.
 
+Use of the Telematics System is subject to the terms and conditions and privacy policy posted by the applicable Telematics Systems provider and/or vehicle manufacturer (in the case of OnStar, information is available at www.onstar.com), which may include system and service limitations, warranty exclusions, limitations of liability, wireless service provider terms, privacy practices, descriptions of use and sharing of information and user responsibilities. See a list of manufacturers from which we purchase vehicles on the Vehicle Manufacturers page.
 
-  * To opt-out of this feature for our other business units, please [click here](http://tools.google.com/dlpage/gaoptout).
+We are not responsible for any data that is left in the vehicle as a result of your use. We cannot guarantee the privacy or confidentiality of such information and you must wipe it before you return the vehicle to us.
 
+In the European Union, our vehicles are required to be equipped with eCall technology, which is activated if your vehicle is involved in an accident. eCall will automatically call and provide information regarding the accident to emergency services. We will also use, disclose and have access to this information.    
 
+Telematics Data will be shared with emergency service providers, others who assist in responding to an accident, telematics service operators or those with whom we have a legal or contractual obligation to provide such data.
 
-Cookies may also be placed by third parties during your visit to the Web site. Our subsidiaries, affiliates and business partners may use these cookies in connection with their use of pixel tags for online preference marketing purposes (discussed below) or to assist us with some of the previously described functions. We do not control these cookies.
+##### **Children's Privacy**
 
-  * **Online Behavior Advertising and California Do not Track Disclosures**
+Our websites and online marketing are not directed to, and Enterprise Holdings does not knowingly collect personal information from, children under the age of 18 or your country's age of minority. If you nevertheless believe that your child has provided us with their personal information and you need to let us know to delete it, please contact us using the link at the top of this page.  
 
 
+How We Use Information About You 
 
-We use third-party advertising companies to serve ads on our behalf across the Internet. These companies employ cookie and pixel tag technology to measure and improve the effectiveness of ads for their clients. These third-party advertising companies may use this information automatically collected about your visits to this and other Web sites in order to provide targeted ads about goods and services of interest to you, and for online preference marketing purposes. **Our system may not respond to Do Not Track requests or headers from some or all browsers. To learn more about the use of cookies or other technologies to deliver more relevant advertising and your choices about not having this information used by certain service providers, please[click here](http://www.networkadvertising.org/choices/).**
+We use the information we collect from you or about you to provide you with our services and for the following purposes:
 
-Please note that opting out of this practice does not opt you out of being served advertising. You will continue to receive generic ads.
+  * **Where it is necessary for us to enter into a contract with you and provide services to you for the duration of the contract, including**
+    * To assist the transactions that you request, such as reserving, renting, purchasing or leasing motor vehicles.  
 
-**HOW COLLECTED INFORMATION IS USED**
+    * To provide customer service related to your interactions with us or to respond to your enquiry.
+    * To enroll you in our loyalty programs and send non-promotional information relating to your ongoing membership of these programs.
 
-We use the information we collect for the following purposes:
 
-  * To assist you with reserving and renting.
-  * To conduct other transactions that you request.
-  * To service your account or membership with us, respond to your questions and contact you when necessary.
-  * To provide you with discounts, coupons, offers and other information and opportunities and services that may be of interest to you. You may receive these offers in advertising that is directed to you via third party sites and media properties, including social media. You may be able to opt-out of these ads by clicking on an icon in the ad or through the privacy settings in each media property.
-  * To assist us in providing better products and services (for example, we may contact you by telephone, mail or email to assist us in evaluating the performance of our staff, to assess the quality of product and service received and to help us improve our Web site, facilities and services).
-  * To compile statistics and analysis about our customers’ use of our Web site, products and services, which statistics are only used to enable us to provide better customer service, products, features and functionality to you and other customers in the future.
-  * To help us to operate, maintain and improve our systems and Web site.
-  * To allow you to modify or cancel a reservation.
-  * We collect your location based information for the purpose of locating a place that you may be searching for in your area. We will only share this information with our mapping provider for the sole purpose of providing you this service.
+  * **Where necessary for us to comply with a legal obligation, including**
+    * To share information about your vehicle's location with emergency services in the event that you are involved in a road accident.
+    * To share information with government and regulatory authorities when required by law or in response to legal process, obligation, or request.
 
 
+  * **Where it is necessary for our legitimate interests, as listed below, and where our interests are not overridden by your data protection rights, including**
+    * To communicate important information about your rental, such as arrival and return alerts. These communications, which are transactional in nature, will be sent to you via email or SMS.
+    * To assist us in providing better products and services: for example, to evaluate the performance of our staff, to assess the quality of products and services received and to help us improve our websites, facilities and services.
+    * To compile statistics and analysis about our customers' use of our websites, products and services. These statistics are used only to enable us to provide better customer service, products, features and functionality to you and other customers in the future.
+    * To develop a profile of you and your interactions with us so that we can provide tailored offers, opportunities and services that may be of interest to you.
+    * To protect our legal rights and manage the security of our networks and property. For example, we will use CCTV to ensure the security of our premises and we maintain Do Not Rent lists of customers that are non-payment or safety risks.
+    * To share your information with third parties in order to prevent fraud and protect our business interests and rights, privacy, safety and property, or that of the public. We will do this to collect unpaid bills, to avoid liability for penalties you incur (e.g. traffic citations) and for claims processing purposes.
+    * To share your information with third parties in order to permit us to pursue available remedies or limit damage that we may sustain and to enforce the terms of any rental agreement or our websites' terms and conditions. We will also disclose your information to third parties if the rights of another individual may be violated.
+    * To enable us to use telematics (e.g., for the purposes of tracking mileage and location in the event of theft and to alert us if the telematics systems has been removed or tampered with).
 
-We provide you the ability to enter your friend’s name and email address in order for Enterprise to send your friend a one-time email inviting him or her to visit this Website.  Enterprise stores this information for the sole purpose of sending this one-time email.
 
-We may combine the information that you submit to us with information related to your transactions with us, such as rental location and vehicle type, as well as with information we receive about you from credit reporting agencies and other data providers who assist us in processing requests, maintaining our data and optimizing our services.  This Privacy Policy applies only to data collected on-line. If the same information about you is gathered from this Web site and also from other sources with different privacy policies, Enterprise may elect, in its sole discretion, to treat such information in accordance with the privacy policy that least restricts our use and disclosure of such information.
+  * **Where you have given consent, including**
+    * To assist us in providing you with the most appropriate vehicles, such as those with adaptive driving devices. In some cases, this will require us to infer or explicitly collect information about your health or physical condition.
+    * To send you certain promotional or targeted marketing communications, opportunities and services that may be of interest to you. These will include invitations to join our loyalty programs, upgrade announcements, electronic newsletters and communications regarding an incomplete online membership form or reservation. Some of these offers will be received in advertising on non-Enterprise sites, including on social media.
+    * To send you text messages in order to provide you with time sensitive communications related to your transaction (e.g., construction delay at airport branch), extended rental opportunities, customer experience surveys, marketing promotions such as coupons, discounts, last-minute specials or loyalty and rewards information.
 
-We attempt to retain information we collect for commercially reasonable periods of time or in accordance with specific policies or as required by law to be used for statistical, marketing, archiving, and other analytical purposes. Information collected for a specified purpose will only be used for that purpose and, after a reasonable period of time, will no longer be actively stored when that purpose has been fulfilled. Inactive data may, however, continue to be used for statistical, marketing, archiving, and other analytical purposes.  
 
- **WE WILL USE YOUR INFORMATION IN THE COUNTRY IN WHICH YOU MAKE A BOOKING. PLEASE BE AWARE THAT, UNLESS PROHIBITED BY LAW, YOUR USE AND/OR CONTINUED USE OF THIS WEB SITE SIGNIFIES YOUR EXPRESS CONSENT THAT ALL INFORMATION THAT WE PROCESS MAY BE TRANSFERRED TO OR STORED ON SERVERS AND PROCESSED OUTSIDE THE COUNTRY OF YOUR RESIDENCE, INCLUDING, THE UNITED STATES.**
 
- **WITH WHOM THE INFORMATION MAY BE SHARED**
+##### **Retention of Your Personal Information**
 
-We may disclose the information we collect from and about you to our subsidiaries and affiliates for the purpose of providing the services you have requested and for marketing purposes. To update your marketing preferences please see the   **“CORRECTING OR CHANGING YOUR INFORMATION/CONTACTING ENTERPRISE”**  section below.  We also may disclose this information to third parties: (1) when required by law, (2) in response to legal process, (iii) without legal process in response to a request from law enforcement relating to a criminal investigation; (3) to protect our rights, privacy, safety or property, or the public; (4) to permit us to pursue available remedies or limit damage that we may sustain, or (5) to enforce the terms of any rental agreement or our website’s terms and conditions; (6) to our Affiliates, business partners and/or third parties, subject to confidentiality agreements as appropriate, for administrative, technical support or other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct mobile analytics services, or to maintain and improve our services; and (7) to our subsidiaries or affiliates in order to process your transaction; and (8) to your frequent flyer or other rewards program provider; or (9) otherwise with your consent. We may disclose your personal information to third-party service providers including a payment processor to bill you for goods or services, an email provider to send email communications to you on our behalf and the provider of our live chat feature in order to offer you customer service.  For our RideShare and Vanpool services these may also include credit bureau (for drivers), an employer, vanpool driver/coordinator and/or local transit authority; however, we will limit the amount of information necessary for these confirmations. These service providers may be located in a country different from your country of residence, such as the United States or European Union member country. These service providers are contractually required to maintain the confidentiality and security of your information. However, your information may be accessible to U.S. or EU authorities in accordance with applicable laws.
+We retain your personal information for as long as we need to fulfil our business purposes, as set out below:
 
-Enterprise or its Affiliates may sell or buy other businesses or entities. In such transactions, personal information may be one of the transferred business assets. Also, in the event that Enterprise or substantially all of its assets are acquired, your personal information may be one of the transferred assets.  You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+  * **Marketing purposes:** We keep data linked to cookies and other online identifiers up to three years. We keep other marketing information, such as email subscription and loyalty enrollment data for up to 7 years after your last interaction with us.
+  * **Rental transactions** : We keep the data associated to your rental agreement for up to 7 years from the date of the rental, subject to other local legal requirements. We keep records of payments you have made for 2 years from the date of the transaction (depending on the location of the rental).
+  * **Customer service related queries** : **** We keep general queries for 3 years, unless you make a complaint, in which case, we keep complaints data for 7 years.
+  * **Disputes & law enforcement**: If we are involved in litigation or a governmental or regulatory investigation, then we keep data throughout the period of litigation or investigation and for 5 years after that. If a settlement means that we have to keep data for longer, then we keep data for the period required to administer the settlement. If we provide data to law enforcement agencies, then we keep a record of this for one year beyond the end of the investigation.
 
-We may also share aggregated or de-identified information about our customers with our advertising and marketing partners, and third party media properties, including social media sites to allow them to send targeted advertising messages on our behalf.  With your prior notice and consent, we may share your name and email address with our co-branded partners and affiliates in order to provide the services you have requested and for marketing purposes. If you wish to stop receiving promotional communications from these third parties, please contact the third party.
 
-**TESTIMONIALS**  
 
-We may post customer testimonials/comments/reviews on our web sites which may contain personally identifiable information.  We will obtain your consent via email prior to posting the testimonial.  To request the removal of your testimonial, please contact us through one of the methods listed below.
+Who We Share Information With 
 
-**SOCIAL MEDIA WIDGETS**  
+##### **Subsidiaries  
+**
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+We share the information we collect from and about you with our subsidiaries for the purpose of providing the transactions you have requested and (with your consent) for marketing purposes. See the Subsidiaries page for a list.  The list is subject to change from time to time and you should periodically review it for changes. Our subsidiaries’ employees in our IT, marketing, operations and customer service divisions will use your information, as described in this Privacy Policy, including, if required by applicable law, to send you information about products and services or respond to your inquiry.  
 
-**LINKED SITES**
 
-Our Web site may contain links to other Web sites (such as those of our marketing partners or advertisers), which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these Web sites. Accordingly, we recommend that you review the privacy policy posted on any Web site that you may access through our Web site.
+##### **Franchisees**
 
- **CHILDREN’S PRIVACY** This Web site is not directed to, and Enterprise does not knowingly collect personal information from, children under the age of 13. We recommend that parents actively participate in their children’s use of the Internet.
+The nature of the business and operations require us to share your reservation and booking information with our franchisees ("Franchisees").  See the Franchisees page for a list. The list subject to change from time to time and you should periodically review it for changes.  For these transactions, the Franchisee is an independent data controller or equivalent under applicable law and will maintain its own privacy policy in respect of the rental data that you provide to the Franchisee. You are encouraged to check the privacy policy of the Franchisee that is applicable to your transaction.
 
- **CHOICES YOU CAN MAKE ABOUT YOUR INFORMATION**
+To identify who is the data controller or equivalent under applicable law in respect of your personal information, visit the Contact Us page. ** __**
 
-We give you a number of choices about the collection, use and distribution of your information. For example, you must affirmatively request to receive email advertisements from us, our Affiliates and/or business partners concerning information about special offers, promotions and new features, products and services. Every Enterprise email advertisement will provide you with the opportunity to remove yourself from our email list. You may choose to opt back in to our email advertisements at anytime, in which your most recent action will prevail. We will give you an opportunity to opt-out of the gathering of your personally identifiable information, specific uses of your personally identifiable information and any marketing promotions in accordance with the procedures set out in the section below, "Correcting or Changing Your Information."
+##### **Our Service Providers And Business Partners  
+**
 
-To opt out of receiving further promotional communications from our third party co-branded partners and affiliates, please contact them directly.
+We will share your information with third parties, such as (1) payment, administrative and technical support providers or our insurance replacement, corporate rental or other customers or partners to facilitate the rental transaction and rewards programs with Enterprise Holdings group members, (2) companies who conduct customer research or satisfaction surveys on our behalf, (3) communication providers which send email and other marketing and service-related communications to you on our behalf, (4) customer support providers, such as the provider of our live chat feature, in order to provide you customer service, (5) debt collection providers, (6) claims processors, and (7) our advertising and marketing partners and third-party media properties, including social media sites, with whom we share aggregated or de-identified information about our customers, to allow them to send targeted advertising messages on our behalf, to analyze, enhance and manage our data, conduct mobile analytics services and to maintain and improve our services (subject to confidentiality agreements as appropriate).  
 
-You may opt-out of location based services at any time by editing the setting at the device level.
 
- **CORRECTING OR CHANGING YOUR INFORMATION/CONTACTING ENTERPRISE**
+##### **Government Authorities**
 
-We are very concerned about the accuracy, currency and completeness of the information we collect and make efforts we deem appropriate to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this policy, if you wish to review, amend, correct, update or delete personally identifiable information we have collected about you contact us at the information provided below. Please also contact us if you have any questions about privacy on our Web site. You may contact us via email at [customerservice@erac.com](mailto:customerservice@erac.com), and we will attend to your request and make any necessary revisions. If you prefer, country specific contact information is listed below. We will respond to your access request within 30 days.  
+Your personal information may also be shared with government authorities as outlined above.
 
-We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
+##### **Sale, Merger or Change in Control**
 
- **SECURITY PROCEDURES**
+Your information may also be transferred to another company in the event of a transfer, change of ownership, reorganization or assignment of all or part of Enterprise Holdings' businesses or assets. This will occur if the parties have entered into an agreement under which the collection, use and disclosure of the information is limited to those purposes of the business transaction, including a determination whether or not to proceed with the business transaction. You will be notified via email or prominent notice on our websites for thirty (30) days of any such change in ownership or control of your personal information or as otherwise may be required or permitted by law.
 
-We are very concerned with the security of your personally identifiable information and try to provide secure transmission of your information from your PC to our servers. For certain transactions on certain of our Web sites, we may use Secured Sockets Layer (SSL) technology to secure the transfer of information. Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information transmitted over the Internet. Once we receive your information, we take steps that we believe are reasonably appropriate to protect its security, both internally and from outsiders, from loss, misuse, unauthorized access, disclosure, alteration and destruction, and to ensure the integrity of the data we collect. We use a combination of technological, physical, administrative and policy methods as well as organizational controls and non-disclosure or confidentiality agreements as we deem appropriate to protect this data.
+##### **Testimonials**
 
-If you have a user name and password for any of the features on our Web site, you have the responsibility of keeping your password secret. You should not reveal your password to anyone. We will not ask you in an unsolicited telephone call or email for your password. In addition, you should take reasonable precautions when using a computer that is not your own or in a public setting. 
+We may post customer testimonials on our websites which may contain personal information. We use a third-party provider to manage this process. This provider is responsible for obtaining your consent as necessary, removing content upon your request and answering any questions you may have.  
 
- **CHANGES IN TERMS**
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by means this site (or as otherwise deemed appropriate) prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+Global Data Transfers And Processing 
 
-**SAFE HARBOR**
+In order for us to operate and provide you services globally, the information you provide us or that we collect may be transferred or accessed by entities around the world, including:
 
-Enterprise complies with the U.S. – E.U. Safe Harbor framework and U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland.  Enterprise has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Enterprise’s certification, please visit <http://www.export.gov/safeharbor/>.
+  * _Franchisees/Corporate-Owned Locations_ : If you book a reservation to be fulfilled by a franchisee in another country or an Enterprise corporate-owned location (e.g., in the United States, Canada, Germany, Spain, France, Ireland and the United Kingdom), we will transfer your personal information to that country in order to facilitate your requested transaction.
 
-**PRIVACY CONTACTS BY COUNTRY:**
 
-North America: (877) 858-3884
+  * _Enterprise Global Information Systems Based in the United States:_ Enterprise maintains its global information systems in the United States.  If you provide us or if we collect personal information about you outside the United States, we will transfer and maintain your personal information in the United States.
 
-Enterprise Privacy Questions, 600 Corporate Park Drive, St. Louis, MO 63105.
 
-Canada - Provincial Contacts:
 
-  * Alberta - (403) 216 3490 or Enterprise, Internet Privacy Questions, 119 - 6227 - 2nd Street SE, Calgary, Alberta T2H 1J5.
-  * British Columbia - (604) 539 0866 or Enterprise, Internet Privacy Questions, #9 - 19335 Langley Bypass, Surrey, British Columbia V3S 6K1
-  * Manitoba and Saskatchewan - (204) 478 7800 or Enterprise, Internet Privacy Questions, 554 Pembina Highway, Winnipeg, Manitoba R3M 2M4.
-  * New Brunswick, Nova Scotia, Newfoundland and Prince Edwards Island –(902) 873 3300 or Enterprise, Internet Questions, 209 Aerotech Drive Unit #1, Enfield, Nova Scotia B2T 1K3.
+When we transfer your personal information and process it in the United States, we do so in accordance with the EU-U.S. Privacy Shield Framework, the Swiss-U.S. Privacy Shield Framework and European Commission-approved standard contractual clauses. To learn more about the Privacy Shield Framework, and to view our certification, visit the [U.S. Department of Commerce's Privacy Shield List](https://www.privacyshield.gov/list). With respect to information received or transferred pursuant to these Frameworks, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.  
 
+Enterprise Holdings is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Enterprise Holdings complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-  * Ontario: 
-    * Southwest Ontario - (519) 451 5884 or Enterprise, Internet Privacy Questions, 1790 Dundas Street Unit 8, London, Ontario N5W 3E5.
-    * Toronto - (905) 477 2199 or Enterprise, Internet Privacy Questions, 7390 Woodbine Avenue, Suite 100, Markham, Ontario L3R 1A5
-    * Ottawa - (613) 288 2998 or Enterprise, Internet Privacy Questions, 2300 Stevenage Drive, Ottawa, Ontario K1G 3W3.
-  * Quebec - (514) 735 3722 or Enterprise, Internet Privacy Questions, 5830 Cote De Liesse Ste 200, Mount Royal, Quebec H4T 1B1.
+Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
+  * _Third Party Service Providers_ : We utilize third party service providers who are located outside the countries where we have corporate-owned locations, such as call center support, claims processors and IT providers. When we transfer your personal information to our third-party service providers who are located outside the EEA, we use European Commission-approved standard contractual clauses.  
 
 
-United Kingdom: 01 784 221 300
 
-Enterprise, Privacy Questions, Enterprise House Melburne Park, Vicarage Road, Surrey, Egham TW20 9JZ
+
+Your Rights 
+
+Other rights you have may include: 1) asking for a copy of your personal information, 2) to correct it, 3) to erase certain categories or types of information, 4) to restrict certain processing, 5) to obtain the information you provide in a structured, machine readable format and 6) to transfer some of this information to other organizations.
+
+You have the right to object to processing of personal information on the basis of our legitimate interests. Where we have asked for your consent to process information, you have the right to withdraw this consent at any time.
+
+You can exercise these rights by accessing our Global Privacy Portal on the Contact Us page. We will respond to your request within 30 days or as required by local law.  
+
+
+You have the right to lodge a complaint with a supervisory authority regarding our processing of your personal information and/or how we have responded to or handled any concern you have raised with us. You may also contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request> or in Canada you may contact the Privacy Commissioner of Canada by visiting <https://www.priv.gc.ca/cu-cn/index_e.asp> or at Office of the Privacy Commissioner of Canada, 30 Victoria Street, Gatineau, Quebec, K1A 1H3.
+
+We reserve the right not to allow access to your information or to limit your rights (e.g. if such disclosure is prohibited by law or if the rights of another individual might be violated). In some instances, this may mean that we are able to retain your personal information even if you withdraw your consent.
+
+##### **Marketing Preferences**
+
+You have the right to object to direct marketing as well as profiling we perform for the purposes of direct marketing. You will be able to opt out of direct marketing communications from Enterprise Holdings and our subsidiaries, affiliate and Franchisees by following the instructions in each communication you receive.  You may also contact us directly using the link at the top of this page.
+
+You can opt out of display ads you see on non-Enterprise sites by clicking on ad choices icon in the ad or through the privacy settings on the site.
+
+Changes To These Policies 
+
+As necessary, we will update our Privacy Policy and Cookie Policy to reflect changes in our privacy practices. If we make any material changes, we will notify you by email (sent to the email address specified in your account) or by means of a notice on this site or as otherwise may be required or permitted by law, prior to the change becoming effective. We encourage you to periodically review this site for the latest information on our privacy practices.  
+
