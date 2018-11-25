@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the takimag.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624211008id_/http%3A//takimag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takimag.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125210445id_/http%3A//takimag.com/privacy-policy) for the most accurate reproduction.*
 
-# Taki's Magazine - Article Page
+# Taki's Magazine - Privacy Policy - Taki's Magazine
 
 At Takimag.com we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. [In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy]. The policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our policy.
 
@@ -10,7 +10,8 @@ The more we know about you, the better we are able to customize our web site to 
 
 To maintain a site that is free of charge and does not require registration, we display advertisements on our web site. We also use the information you give us to help our advertisers target the audience they want to reach. At no time does any party other than Takimag.com have access to your personally identifiable information, and you will never be contacted by any party other than Takimag.com unless you have requested to be so contacted. The only exceptions to the foregoing are that we may disclose personally identifiable information (i) in response to legal process, for example, in response to a court order, (ii) in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law, or (iii) in the event we are acquired by or merged with another company.
 
-When you sign up for our updates or receive e-mail messages from Takimag.com, you will always be given the chance to opt-out of special offers and site updates. You may change your preferences at any time and will only be contacted in manners consistent with your stated preferences. Non-personally identifiable information (such as stated above) may be shared in aggregate form with our advertisers or marketing partners but your personally identifiable information will never be disclosed to them.
+When you sign up for our updates or receive e-mail messages from Takimag.com, you will always be given the chance to opt-out of special offers and site updates. You may change your preferences at any time and will only be contacted in manners consistent with your stated preferences.  
+Non-personally identifiable information (such as stated above) may be shared in aggregate form with our advertisers or marketing partners but your personally identifiable information will never be disclosed to them.
 
 Information about your visit to this site, such as number of times you have viewed an advertisement (but not your name, address, or other personal information), may be used to serve advertisements to you on this site. In the course of serving advertisements to this site, third party advertisers may place or recognize a unique cookie on your browser.
 
