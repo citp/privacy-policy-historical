@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the foreflight.com privacy policy that was archived on 2018-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180623030711id_/https%3A//foreflight.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foreflight.com privacy policy that was archived on 2018-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181125073409id_/https%3A//foreflight.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!-- <![endif]--><head>
-        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript" async="" src="https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"7872a78b99","agent":"","transactionName":"YVNVZUIEWBUHVUNeVlgZcUReBkIPCVgYVFRFGEFYVRJFXAJTQ1ZQWkU=","applicationID":"81326785","errorBeacon":"bam.nr-data.net","applicationTime":186}</script>
+        <meta charset="utf-8">
         <meta name="viewport" content="width=device-width,initial-scale=1">
         <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
         <meta name="description" content="Your privacy is critically important to us. If you have questions about deleting or correcting your personal data please contact our support team. ">
@@ -11,14 +11,23 @@
         <meta name="apple-itunes-app" content="app-id=333252638">
         <link rel="icon" type="image/png" href="//foreflight-www.s3.amazonaws.com/assets/img/favicon.ico">
         <title>ForeFlight - Privacy</title>
-        <script> var BrowserDetect = {init: function () {this.browser = this.searchString(this.dataBrowser) || "Other";this.version = this.searchVersion(navigator.userAgent) ||this.searchVersion(navigator.appVersion) || "Unknown";},searchString: function (data) {for (var i = 0; i < data.length; i++) {var dataString = data[i].string;this.versionSearchString = data[i].subString;if (dataString.indexOf(data[i].subString) !== -1) {return data[i].identity;}}},searchVersion: function (dataString) {var index = dataString.indexOf(this.versionSearchString);if (index === -1) {return;}var rv = dataString.indexOf("rv:");if (this.versionSearchString === "Trident" && rv !== -1) {return parseFloat(dataString.substring(rv + 3));} else {return parseFloat(dataString.substring(index + this.versionSearchString.length + 1));}},dataBrowser: [{string: navigator.userAgent, subString: "Chrome", identity: "Chrome"},{string: navigator.userAgent, subString: "MSIE", identity: "Explorer"},{string: navigator.userAgent, subString: "Trident", identity: "Explorer"},{string: navigator.userAgent, subString: "Firefox", identity: "Firefox"},{string: navigator.userAgent, subString: "Safari", identity: "Safari"},{string: navigator.userAgent, subString: "Opera", identity: "Opera"}]};</script>
+        <script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://tag.marinsm.com/serve/58c184703f9ec1d96b00011c.js"></script><script type="text/javascript" async="" src="https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script> var BrowserDetect = {init: function () {this.browser = this.searchString(this.dataBrowser) || "Other";this.version = this.searchVersion(navigator.userAgent) ||this.searchVersion(navigator.appVersion) || "Unknown";},searchString: function (data) {for (var i = 0; i < data.length; i++) {var dataString = data[i].string;this.versionSearchString = data[i].subString;if (dataString.indexOf(data[i].subString) !== -1) {return data[i].identity;}}},searchVersion: function (dataString) {var index = dataString.indexOf(this.versionSearchString);if (index === -1) {return;}var rv = dataString.indexOf("rv:");if (this.versionSearchString === "Trident" && rv !== -1) {return parseFloat(dataString.substring(rv + 3));} else {return parseFloat(dataString.substring(index + this.versionSearchString.length + 1));}},dataBrowser: [{string: navigator.userAgent, subString: "Chrome", identity: "Chrome"},{string: navigator.userAgent, subString: "MSIE", identity: "Explorer"},{string: navigator.userAgent, subString: "Trident", identity: "Explorer"},{string: navigator.userAgent, subString: "Firefox", identity: "Firefox"},{string: navigator.userAgent, subString: "Safari", identity: "Safari"},{string: navigator.userAgent, subString: "Opera", identity: "Opera"}]};</script>
         <script>BrowserDetect.init();if (BrowserDetect.browser == 'Explorer' && BrowserDetect.version == 8) {var script = document.createElement( "script" );script.type = "text/javascript";script.src ="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js";document.getElementsByTagName("head")[0].appendChild(script);(function(){if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,bb,canvas,datagrid,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','),i=e.length;while(i--){document.createElement(e[i])}})();};  </script>
         <script src="//use.typekit.net/nnj4kpy.js"></script>
         <script>try{Typekit.load();}catch(e){}</script>
         
 
-        <link href="//foreflight-www.s3.amazonaws.com/assets/styles/www.1526591995.css" rel="stylesheet">
+        <link href="//foreflight-www.s3.amazonaws.com/assets/styles/www.1542670813.css" rel="stylesheet">
         <style></style>
+        <!-- Global site tag (gtag.js) - Google Ads: 847292545 -->
+        <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-847292545"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date()); gtag('config', 'AW-847292545');
+            window.googleAddsTagger = gtag;
+        </script>
+        <!-- Global site tag (gtag.js) - Google Ads: 847292545 -->
         <!-- Facebook Pixel Code -->
         <script>
             !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -39,6 +48,17 @@
                 var segmentCategory = 'WWW';
             </script>
         
+        
+        
+            <script>
+                var currentCmsPageName = 'Privacy';
+            </script>
+        
+        
+            <script>
+                var ENVIRONMENT = 'production';
+            </script>
+        
     </head>
     
     <body class="">
@@ -53,14 +73,17 @@
                     <nav role="navigation">
                         <ul class="nav-extras">
                             <li class="menu-button"></li>
-                            <li id="login">
-                                <a href="https://plan.foreflight.com/?next=%2Fmap" class="btn reverse-btn">Login</a>
-                            </li>
-                            <li id="buy">
-                                
-                                    <a href="/pricing" class="btn alt">Buy Now</a>
-                                
-                            </li>
+                            
+                                <li id="login">
+                                    <a href="https://plan.foreflight.com/?next=%2Fmap" class="btn reverse-btn">Login</a>
+                                </li>
+                                <li id="buy">
+                                    
+                                        <a href="/pricing" class="btn alt">Buy Now</a>
+                                    
+                                </li>
+                            
+                            
                         </ul>
                         
                             
@@ -81,13 +104,13 @@
     
         <li>
             
-                <a href="/products/scout">Scout ADS-B Receiver</a>
+                <a href="/products/foreflight-web/">ForeFlight on the web</a>
             
         </li>
     
         <li>
             
-                <a href="/products/foreflight-web/">ForeFlight on the web</a>
+                <a href="/connect/">Portable ADS-B Receivers</a>
             
         </li>
     
@@ -118,6 +141,30 @@
         <li>
             
                 <a href="/products/foreflight-mobile/synthetic-vision/">Synthetic Vision</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/products/trip-assistant/">Trip Assistant</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/products/jetfuelx/">JetFuelX</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/products/jeppesen/">Jeppesen</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/pricing/">Plans and Pricing</a>
             
         </li>
     
@@ -169,6 +216,12 @@
             
         </li>
     
+        <li>
+            
+                <a href="/pricing/">Plans and Pricing</a>
+            
+        </li>
+    
 </ul>
                 </ul>
             
@@ -180,12 +233,6 @@
                 <ul>
                     
 <ul>
-    
-        <li>
-            
-                <a href="/support/jeppesen-support/">Jeppesen Support</a>
-            
-        </li>
     
         <li>
             
@@ -256,7 +303,13 @@
                     <div class="g1-flex4 g2-flex6 g3-flex12">
                         
 <ul class="hidden">
-    <li><a href="https://plan.foreflight.com/?next=%2Fmap">Login</a></li>
+    
+        <li>
+            
+                <a href="#" class="login-btn">Login</a>
+            
+        </li>
+    
     
         <li class="with-sm-drop">
             
@@ -273,13 +326,13 @@
     
         <li>
             
-                <a href="/products/scout">Scout ADS-B Receiver</a>
+                <a href="/products/foreflight-web/">ForeFlight on the web</a>
             
         </li>
     
         <li>
             
-                <a href="/products/foreflight-web/">ForeFlight on the web</a>
+                <a href="/connect/">Portable ADS-B Receivers</a>
             
         </li>
     
@@ -310,6 +363,30 @@
         <li>
             
                 <a href="/products/foreflight-mobile/synthetic-vision/">Synthetic Vision</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/products/trip-assistant/">Trip Assistant</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/products/jetfuelx/">JetFuelX</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/products/jeppesen/">Jeppesen</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/pricing/">Plans and Pricing</a>
             
         </li>
     
@@ -360,6 +437,12 @@
             
         </li>
     
+        <li>
+            
+                <a href="/pricing/">Plans and Pricing</a>
+            
+        </li>
+    
 </ul>
             
         </li>
@@ -370,12 +453,6 @@
                     
 <ul class="hidden">
     
-    
-        <li>
-            
-                <a href="/support/jeppesen-support/">Jeppesen Support</a>
-            
-        </li>
     
         <li>
             
@@ -661,13 +738,15 @@
             <div class="section alt2 short">
                 <div class="flex">
                     
-<form action="https://app.getvero.com/forms/909ba18bcd11a482fafb77064cd30523" method="post">
-    <input type="hidden" name="csrfmiddlewaretoken" value="Q5dqxha4cmW6P7h8zDd1LmX06NL8xMNx">
+<form action="https://app.getvero.com/forms/909ba18bcd11a482fafb77064cd30523" method="post" class="gdpr_compliance_form" gdpr_source="www-newsletter">
+    <input type="hidden" name="csrfmiddlewaretoken" value="GzTKfJVmvCoGRIocfxcQiupUwYPq2XkP">
     <input name="redirect_on_success" type="hidden" value="https://www.foreflight.com/support/subscribed/">
     <div class="g1-flex4 g2-flex6 g3-flex10">
         <div class="label-wrap form-field">
             <label>Register for the Newsletter</label>
             <input type="email" required="" name="email" placeholder="Enter your email here.">
+            
+                <div class="gdpr_compliance_input_holder"></div>
             
         </div>
     </div>
@@ -777,8 +856,28 @@
 </footer>
 
 
+    
+        <div class="modal-overlay login-modal">
+            <div class="closer-background"></div>
+            <div class="modal">
+                <span class="modal-close-button">Close</span>
+                <h2 class="center">Login to Your Account</h2>
+                <div class="errorExplanation alert-message block-message error" style="display: none;"></div>
+                <div class="flex">
+                    <form id="login-form" method="post">
+                        <input type="hidden" name="csrfmiddlewaretoken" value="eOnSPN2j9hru0LuomTPd5joLn9TSqed6">
+                        <input type="text" name="username" placeholder="Email" value="">
+                        <input type="password" name="password" placeholder="Password">
+                        <br><br>
+                        <span class="loading-button"><button id="submit-btn" type="submit" class="full-width purchase"><span>Login</span></button></span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    
+
+        <script src="//foreflight-www.s3.amazonaws.com/assets/scripts/www-entry.1542670813.js"></script>
         
-        <script src="//foreflight-www.s3.amazonaws.com/assets/scripts/www-entry.1526591995.js"></script>
         
         
 
@@ -829,6 +928,38 @@
             }("https://assets.zendesk.com/embeddable_framework/main.js","foreflight.zendesk.com");
         </script>
         
+        
+        
+        <script type="text/javascript">
+            (function() {
+                window._pa = window._pa || {};
+                var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+                pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.marinsm.com/serve/58c184703f9ec1d96b00011c.js";
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+            })();
+        </script>
+        
+        
+        <!--LinkedIn insight tag --------------------------------------------------->
+        <script type="text/javascript">
+            _linkedin_partner_id = "194290";
+            window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+            window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+        </script>
+        <script type="text/javascript">
+            (function() {
+                var s = document.getElementsByTagName("script")[0];
+                var b = document.createElement("script");
+                b.type = "text/javascript";
+                b.async = true;
+                b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+                s.parentNode.insertBefore(b, s);
+            })();
+        </script>
+        <noscript>
+            <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=194290&fmt=gif" />
+        </noscript>
+        <!--LinkedIn insight tag --------------------------------------------------->
     
 
 </body></html>
