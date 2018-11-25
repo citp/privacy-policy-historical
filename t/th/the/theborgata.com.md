@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theborgata.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517233536id_/http%3A//mgmresorts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theborgata.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125192422id_/http%3A//mgmresorts.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - MGM Resorts
 
@@ -17,15 +17,14 @@ Circus Circus in Las Vegas, Nevada
 Delano in Las Vegas, Nevada  
 Excalibur in Las Vegas, Nevada  
 Gold Strike Resort in Tunica, Mississippi  
-Hotel 32 Monte Carlo in Las Vegas, Nevada  
 Luxor in Las Vegas, Nevada  
 Mandalay Bay in Las Vegas, Nevada  
 MGM Grand in Las Vegas, Nevada  
 MGM Grand Detroit in Detroit, Michigan  
 MGM National Harbor in Oxon Hill, Maryland  
 MGM Springfield in Springfield, Massachusetts  
-Monte Carlo in Las Vegas, Nevada  
 New York-New York in Las Vegas, Nevada  
+Park MGM in Las Vegas, Nevada  
 Park Theater in Las Vegas, Nevada  
 Skylofts at MGM Grand in Las Vegas, Nevada  
 The Mirage in Las Vegas, Nevada  
