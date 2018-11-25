@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realecontv.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526163333id_/http%3A//www.realecontv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realecontv.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125213433id_/http%3A//www.realecontv.com/privacy.html) for the most accurate reproduction.*
 
 # Real Econ TV
 
