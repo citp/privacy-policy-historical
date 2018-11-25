@@ -1,30 +1,20 @@
-> *The following text is extracted and transformed from the resourcepack.net privacy policy that was archived on 2018-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180406121948id_/http%3A//resourcepack.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourcepack.net privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125222119id_/http%3A//resourcepack.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Minecraft Resource Packs
 
-This privacy policy sets out how resourcepack.net uses and protects any information that you give resourcepack.net when you use this website.
+ResourcePack.net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2018/06/15.
 
-ResourcePack.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+**Log Files**
 
-ResourcePack.net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2013/02/17.
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site, the time you visited our site and which pages you visited throughout our site.
 
-**What we collect**
+**Do we use cookies?**
 
-We may collect the following information:
+We do not use cookies to store information, such as your personal preferences when you visit our site.
 
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+**Analytics Providers**
 
-
-
-**What we do with the information we gather**
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping.
-  * We may use the information to improve our reviews.
-
-
+We may use third-party Web analytics, such as Google Analytics. These service providers use a variety of tracking technologies such as cookies to analyze how users use the resourcepack.net. For more information on how Google Analytics uses data from our websites and how you can control the information sent to Google, [click here](http://www.google.com/policies/privacy/partners/). To learn about opting out of Google Analytics, please [click here](http://tools.google.com/dlpage/gaoptout)[.](https://mixpanel.com/optout) Because these opt outs are cookie-based, please note that if you get a new computer or device, install or start using a new browser, or erase or alter your browser’s cookie file, you may need to opt out again.
 
 **Ad Networks**
 
@@ -44,17 +34,13 @@ We use the following ad networks:
 
 
 
-### **Security**
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
 **Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+**Do we disclose any information to outside parties?**
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 **Contacting Us**
 
