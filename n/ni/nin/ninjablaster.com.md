@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninjablaster.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525032622id_/http%3A//ninjablaster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjablaster.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125102815id_/http%3A//ninjablaster.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Ninja Blaster
 
@@ -60,7 +60,7 @@ Personal details, whether public or private, will not be sold, exchanged, transf
 Who do you contact?
 
 Our Privacy Officer can be contacted at:  
-E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+E-mail: support@NinjaBlaster.com
 
 Changes to this privacy statement
 
