@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dripbook.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526090519id_/http%3A//dripbook.com/top/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dripbook.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125164003id_/http%3A//dripbook.com/top/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dripbook
 
@@ -10,9 +10,11 @@ Please note that any video, image, or other content posted at the direction of U
 
 ##  The Information Dripbook.com Collects 
 
+  * We collect and process all your personal data in accordance with the relevant data protection regulations, in particular the General Data Protection Regulation (GDPR), the German Federal Data Protection Act (BDSG) and the German Telemedia Act (TMG). This means that we may process your personal information for the purposes described in this Privacy Policy with your consent. We may use the information we collect from you when you register, use its services, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features for various purposes. 
   * User Provided Information: You provide certain personally identifiable information (such as your name and e-mail address) to Dripbook.com when choosing to participate in various activities on the Dripbook Websites such as uploading images, videos, posting messages in our forums, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. Dripbook.com will not distribute or publish your e-mail address to any third party for any reason without your prior written consent. 
   * Cookies Information: When you visit the Dripbook Websites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Dripbook.com uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Dripbook Websites may not function properly if the ability to accept cookies is disabled. The Dripbook Websites may also use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve relevant ads targeting the Dripbook Websites to those who have visited the Dripbook Websites. If you wish to control whether and how the Dripbook Websites use cookies to serve relevant ads to you, please visit Google's [ Ads Preferences Manager ](https://www.google.com/settings/ads/onweb/) and also refer to the [ Google Analytics Opt-out Browser Add-on. ](http://tools.google.com/dlpage/gaoptout/) You may also explore your browser's [ "Do Not Track" ](http://donottrack.us/) settings for cookies. 
   * Log File Information: When you use the Dripbook Websites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
+  * Sensitive Information: We do not collect sensitive information, such as race or ethnic origin, political opinions, religious or philosophical beliefs, trade union memberships, genetic or biometric data, health or mortality, sex life or sexual orientation. 
 
 
 
@@ -68,6 +70,14 @@ In the event that Dripbook.com is acquired by or merged with a third party entit
 
 This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. Your continued use of the Dripbook Websites constitutes your agreement to this Privacy Notice and any future revisions. 
 
+##  Contacting us 
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
+
+Dripbook   
+[ www.dripbook.com ](http://www.dripbook.com/)   
+[ contact@dripbook.com ](mailto:contact@dripbook.com)
+
 ##  Date Last Modified 
 
-This Privacy Notice was last modified August 2nd, 2012. 
+This Privacy Notice was last modified May 29, 2018. 
