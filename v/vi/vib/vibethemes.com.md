@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vibethemes.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621045500id_/http%3A//www.vibethemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibethemes.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125163429id_/http%3A//vibethemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VibeThemes
 
@@ -10,17 +10,25 @@ This Privacy Policy applies to all of the products, services and Web sites offer
 
 This policy does not apply to the practices of companies that VibeThemes does not own or control or to people that VibeThemes does not employ or manage.
 
-Information We Collect. We collect personal information when you register with VibeThemes or when you use our products or services. We may combine information about you that we have with information we obtain from business partners or other companies.
+**Information We Collect.**
+
+We collect personal information when you register with VibeThemes or when you use our products or services. We may combine information about you that we have with information we obtain from business partners or other companies.
 
 When you register we ask for information such as your name and email address. For some products and services we may also ask for your address so that we can ensure delivery of physical products.
 
 VibeThemes automatically receives and records information on our server logs from your browser, including your IP address, VibeThemes cookie information, and the page you request.
 
-_How We Use Collected Information_. VibeThemes uses information for the following general purposes: to customize the advertising and content you see, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+**_How We Use Collected Information_.**
 
-Children. This site is not aimed to attract children and its objective is not to collect personal information from children. Anyone under the age of 18 should not use this site unless supervised by an adult. VibeThemes’s goal is to comply with applicable laws and regulations relating to collection and use of information from children.
+VibeThemes uses information for the following general purposes: to customize the advertising and content you see, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
-Information Sharing and Disclosure. VibeThemes does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
+**Children.**
+
+This site is not aimed to attract children and its objective is not to collect personal information from children. Anyone under the age of 18 should not use this site unless supervised by an adult. VibeThemes’s goal is to comply with applicable laws and regulations relating to collection and use of information from children.
+
+**Information Sharing and Disclosure.**
+
+VibeThemes does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
 We provide the information to trusted partners who work on behalf of or with VibeThemes under confidentiality agreements. These companies may use your personal information to help VibeThemes communicate with you about offers from VibeThemes and our marketing partners. However, these companies do not have any independent right to share this information.
 
@@ -30,12 +38,18 @@ VibeThemes displays targeted offers based on personal information. Advertisers m
 
 VibeThemes does not provide any personal information to the advertiser when you interact with or complete a targeted offer. However, by interacting with or viewing an offer you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
 
-_Cookies. VibeThemes may set and access VibeThemes cookies on your computer._
+**_Cookies. VibeThemes may set and access VibeThemes cookies on your computer._**
 
-_General._ You can edit your VibeThemes Account Information at any time. We reserve the right to send you certain communications relating to the VibeThemes service, such as service announcements and administrative messages that are considered part of your VibeThemes account, without offering you the opportunity to opt-out of receiving them.
+**_General._**
 
-_Confidentiality and Security_.We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+You can edit your VibeThemes Account Information at any time. We reserve the right to send you certain communications relating to the VibeThemes service, such as service announcements and administrative messages that are considered part of your VibeThemes account, without offering you the opportunity to opt-out of receiving them.
 
-_Contact Us_. VibeThemes may update this policy at any time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your VibeThemes account or by placing a prominent notice on our site.
+**_Confidentiality and Security_.**
+
+We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+
+**_Contact Us_. **
+
+VibeThemes may update this policy at any time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your VibeThemes account or by placing a prominent notice on our site.
 
 If you have any questions about this Privacy Policy, please email us at Privacy Concerns, VibeThemes@gmail.com.
