@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pepperdine.edu privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921203952id_/https%3A//www.pepperdine.edu/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepperdine.edu privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125031556id_/https%3A//www.pepperdine.edu/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pepperdine University
+# Privacy Policy | Pepperdine Legal Information | Pepperdine University
 
 Pepperdine University (“Pepperdine” or “the university”) provides this Web site (“site”) as a service to students, faculty, alumni, and prospective students.  Use of the site is subject to the terms and conditions set forth below in Pepperdine’s Privacy Policy (“policy”). 
 
@@ -8,7 +8,7 @@ Although Pepperdine respects the privacy of this site’s users (or “members�
 
 Please note that Pepperdine reviews these privacy practices from time to time, and that these practices are therefore subject to change.  Pepperdine asks users to periodically review this page to ensure continuing familiarity with the most current version of the site’s Privacy Policy.  To contact Pepperdine about privacy issues, to report a violation of the site’s Privacy Policy, or to raise any other issue regarding the site, please send an e-mail to [webcomm@pepperdine.edu](mailto:webcomm@pepperdine.edu?subject=Contact%20Us%20-%20Web%20Feedback%20-%20Privacy%20Policy "Link to External Site"). 
 
-### The Information Pepperdine Gathers
+## The Information Pepperdine Gathers
 
 Pepperdine gathers two types of information about the site’s users:
 
@@ -16,7 +16,7 @@ Pepperdine gathers two types of information about the site’s users:
 
 The non-personally identifiable information collected helps in diagnosing any server problems, administering the site, identifying the most popular areas of the site, and determining the effectiveness of promotional activities. 
 
-For the same purposes, the university uses “cookies” – that is, small text files placed on your computer’s hard drive – to help determine the type of content and sites visited, the length of time spent on a particular site, and the usage of services offered via the site.  For information on how users can control their Web browser’s acceptance of cookies, please refer to the documentation accompanying the browser.
+For the same purposes, the university uses “cookies” – that is, small text files placed on your computer’s hard drive – to help determine the type of content and sites visited, the length of time spent on a particular site, and the usage of services offered via the site.  For information on how users can control their Web browser’s acceptance of cookies, please refer to the documentation accompanying the browser. 
 
   2. Personally identifiable information.  Certain areas of the site may require that users provide personally identifiable information (including, for example, zip code, age, income, and e-mail address).  In addition, when registering to set up an account to use certain services on the site such as e-mail, chat rooms, forums, or to receive newsletters or specifically targeted information (“services”), Pepperdine may require that users provide their name and e-mail address.
 
@@ -33,7 +33,7 @@ Please take some time to become familiar with the different ways Pepperdine uses
 
   1. Use of non-personally identifiable information.  The university uses non-personally identifiable information in aggregate form to build higher quality, more useful online services by performing statistical analyses of the collective characteristics and behavior of the site visitors, and by measuring demographics and interests regarding specific areas of the site.
 
-The site may contain links to other Internet Web site, including co-branded or other affiliated sites that may or may not be owned or operated by Pepperdine.  Unless otherwise explicitly stated, the university is not responsible for the privacy practices or the content of such sites, including such sites’ use of any information (such as IP number, browser type, or operating system) collected when visitors to the site click through links to those sites.  Even though such information might not identify the user personally, users should be familiar with the privacy practices of those other sites.
+The site may contain links to other Internet Web site, including co-branded or other affiliated sites that may or may not be owned or operated by Pepperdine.  Unless otherwise explicitly stated, the university is not responsible for the privacy practices or the content of such sites, including such sites’ use of any information (such as IP number, browser type, or operating system) collected when visitors to the site click through links to those sites.  Even though such information might not identify the user personally, users should be familiar with the privacy practices of those other sites. 
 
   2. Use of personally identifiable information.  The university provides notice to potential registrants of this site whose personally identifiable information will be collected during the registration process.  Such notice is provided simultaneously with the user’s registration on this site; moreover, this policy itself serves as notice that such information is collected under those circumstances.  Although users may not “opt out” of the registration process and still receive access to the services, users may choose to “opt out” of receiving promotional materials from the university and/or other business partners.  If the user does not “opt out” of receiving such promotional materials, Pepperdine reserves the right to release user’s personally identifiable registration information to third parties who provide goods or services that the university believes may be of interest to the user.  If the user decides to discontinue receiving promotional information from such third parties, please contact those third parties directly, or contact Pepperdine at [webcomm@pepperdine.edu](mailto:webcomm@pepperdine.edu?subject=Contact%20Us%20-%20Web%20Feedback%20-%20Privacy%20Policy "Link to External Site"). 
 
@@ -52,9 +52,17 @@ Pepperdine will post the relevant privacy information in the official rules and/
 
 All information gathered on the site is stored within a controlled database accessible only to the university to protect the loss, misuse, or alteration of the information under its control.  However, as effective as any security measure implemented by the university may be, no security system is impenetrable.  Pepperdine cannot guarantee the security of its database, nor can it guarantee that the information supplied by users will not be intercepted while being transmitted over the Internet.  Questions regarding this Privacy Policy should be directed to [webcomm@pepperdine.edu](mailto:webcomm@pepperdine.edu?subject=Contact%20Us%20-%20Web%20Feedback%20-%20Privacy%20Policy "Link to External Site"). 
 
-### Changing/Deleting Personal Information
+### Your Rights
 
-If users would like to have personally identifiable information changed or removed from Pepperdine’s database, please contact [webcomm@pepperdine.edu](mailto:webcomm@pepperdine.edu?subject=Contact%20Us%20-%20Web%20Feedback%20-%20Privacy%20Policy "Link to External Site").  Keep in mind that there will be residual information remaining within the databases, access logs, and other records, which may or may not contain such personally identifiable information.  The residual information will not be used for commercial purposes; however, the university reserves the right, from time to time, to re-contact former customers or users of this site. 
+Where authorized and subject to all applicable laws, you may have the right to request access to, a copy of, rectification, restriction in the use of, or erasure of your information. You also have the right to withdraw consent to the use of your information, without affecting the legitimacy of the University's use of the information prior to receipt of your request. 
+
+If users would like to have personally identifiable information changed or removed from Pepperdine’s database, please contact [webcomm@pepperdine.edu](mailto:webcomm@pepperdine.edu?subject=Contact%20Us%20-%20Web%20Feedback%20-%20Privacy%20Policy "Link to External Site"). Keep in mind that there will be residual information remaining within the databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however, the university reserves the right, from time to time, to re-contact former customers or users of this site if lawful. 
+
+Information collected in the European Union will be transferred out of the European Union to the University. If you believe that the University has not complied with applicable foreign laws regulating such data or data transfers, you have the right to file a complaint with the appropriate authorities. 
+
+### Updates to this Policy
+
+We may update or change this policy at any time. Your continued use of this site after any such change indicates your acceptance of such changes. 
 
 ### Questions?
 
