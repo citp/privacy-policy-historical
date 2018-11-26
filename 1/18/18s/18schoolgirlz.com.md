@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 18schoolgirlz.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527023525id_/http%3A//www.18schoolgirlz.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D31929%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 18schoolgirlz.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126190909id_/http%3A//18schoolgirlz.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D31929%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
 
 # LEGAL
 
