@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrohope.pk privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525161247id_/http%3A//www.astrohope.pk/link.php%3Fid%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrohope.pk privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126031957id_/http%3A//www.astrohope.pk/link.php%3Fid%3Dprivacy_policy) for the most accurate reproduction.*
 
 # AstroHope.pk, Free Urdu Horoscope, Daily, Weekly, Monthly, Yearly, Astrology, Stars, zodiac signs, Numerology, Palmistry, Reiki, Spiritual Healing
 
