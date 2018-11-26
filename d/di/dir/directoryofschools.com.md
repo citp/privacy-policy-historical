@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryofschools.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526233953id_/http%3A//www.directoryofschools.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryofschools.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126203846id_/http%3A//directoryofschools.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Directory of Schools
 
