@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stan.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313191718id_/https%3A//www.stan.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stan.com.au privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126175124id_/https%3A//www.stan.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Stan
 
