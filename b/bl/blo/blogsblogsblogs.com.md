@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogsblogsblogs.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119181357id_/http%3A//smackdown.blogsblogsblogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsblogsblogs.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126105039id_/http%3A//smackdown.blogsblogsblogs.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Smackdown!
 
