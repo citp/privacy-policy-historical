@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forumbiodiversity.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526211421id_/http%3A//www.forumbiodiversity.com/ad-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forumbiodiversity.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126081032id_/http%3A//www.forumbiodiversity.com/ad-privacy-policy.html) for the most accurate reproduction.*
 
 # Ad Privacy Policy
 
