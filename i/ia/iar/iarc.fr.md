@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iarc.fr privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520180333id_/https%3A//www.iarc.fr/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iarc.fr privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126034857id_/https%3A//www.iarc.fr/en/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
