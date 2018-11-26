@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinstudio.com privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403003016id_/http%3A//www.dinstudio.com/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinstudio.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126204521id_/http%3A//www.dinstudio.com/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -22,7 +22,7 @@ Every time you visit Din Studio’s webpage, Din Studio automatically collects t
 
 The information is used statistically in order to analyze how the webpage is used. What we investigate is among other things the number of visitors, how they found us, how they navigate on the website and what time of day the webpage has the most visitors. Furthermore, we investigate certain regional information, from what webpages the visitors comes and search keys that visitors have used to locate the website. This information is used in-house within Din Studio in order to measure the result of marketing operations and offer a better service to our customers.
 
-Din Studio cares about your personal integrity. Naturally, we follow the laws and regulations that are applicable, for example the Swedish Personal Data Act (1998:204), to protect your integrity. Only a limited amount of persons with certain authorization have access to the information.
+Din Studio cares about your personal integrity. Naturally, we are in compliance with current legislation regarding [EU General Data Protection Regulation (GDPR)](https://www.eugdpr.org/), to protect your integrity. Only a limited amount of persons with certain authorization have access to the information.
 
 Din Studio will not transfer your personal data, like address, telephone number or e-mail address to any third party.
 
