@@ -1,92 +1,248 @@
-> *The following text is extracted and transformed from the mrfire.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607022141id_/http%3A//www.mrfire.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfire.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126030831id_/http%3A//www.mrfire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - Joe Vitale of The Secret DVD is Law of Attraction expert and Life Coach
+# Privacy Policy | Joe Vitale of The Secret DVD is Law of Attraction expert and Life Coach
 
-Hypnotic Marketing, Inc., (HMI), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our on-line facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Hypnotic Marketing, Inc. of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards. 
+**Hypnotic Marketing, INC. Privacy Policy**
 
-_**THEREFORE**_ , this Privacy Policy Agreement shall apply to Hypnotic Marketing, Inc., and thus it shall govern any and all data collection and usage thereof. Through the use of www.MrFire.com and all other HMI internet sites, you are herein consenting to the following data procedures expressed within this agreement. 
+ **Last Updated:** **05/24/2018**
 
-_**Collection of Information**_
+ **INTRODUCTION**
 
-This website collects various types of information, such as:
+This privacy policy (“ **Policy** ”) describes how **Hypnotic Marketing, INC., P.O. Box 2924 Wimberley, TX 78676-2924** **** (“ **Company,** ” “ **we,** ” and “ **our** ”) processes, collects, uses and shares personal data when using this website http://www.MrFire.com (the “ **Site** ”). Please read the following information carefully to understand our practices regarding your personal data and how we will process data.
 
-  * Voluntarily provided information which may include your name, address, email address, billing and/or credit card information etc., which may be used when you purchase products and/or services and to deliver the services you have requested.
-
-
-  * Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs. 
+  1.  **Purposes of Processing**
 
 
 
-Please rest assured that this site shall only collect personal information that you knowingly and willingly provide by way of surveys, completed membership forms, and emails. It is the intent of this site to use personal information only for the purpose for which it was requested and any additional uses specifically provided on this site. 
 
-Hypnotic Marketing, Inc. may also have the occasion to collect anonymous demographic information that may not be unique to you and may even gather additional or other personal and/or non-personal information, such as age, gender, household income, political affiliation, race and religion, at a later time.
+ **What is personal data?**
 
-It is even possible that we may gather information about your computer hardware and/or software. Such collected information may include, but may not be limited to, your IP address, browser type, domain name, access time and various website addresses. The gathering of this information may be used for maintaining the quality of service we provide, as well as providing overall general statistics related to the use of our website and others. 
+We collect information about you in a range of forms, including personal data. As used in this Policy, “personal data” is as defined in the General Data Protection Regulation, this includes any information which, either alone or in combination with other information we process about you, identifies you as an individual, including, for example, your name, postal address, email address and telephone number. 
 
-It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent as a means to better understand the way in which other websites garner, make use of and share information collected. 
+**Why do we need your personal data?**
 
-_**Use of Information Collected**_
+We will only process your personal data in accordance with applicable data protection and privacy laws. We need certain personal data in order to provide you with access to the Site. If you registered with us, you will have been asked to tick to agree to provide this information in order to access our services, purchase our products, or view our content. This consent provides us with the legal basis we require under applicable law to process your data. You maintain the right to withdraw such consent at any time. If you do not agree to our use of your personal data in line with this Policy, please do not use our Site. 
 
-Hypnotic Marketing, Inc. may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information meant to inform you of other possible products and/or services that may be available to you from www.MrFire.com and all other HMI internet sites and its subsidiaries. HMI may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or possible new services that are offered or may be offered.
-
-Hypnotic Marketing, Inc. does not now, nor will it in the future, sell, rent or lease any of its customer lists and/or names to any third parties.
-
-Hypnotic Marketing, Inc., from time to time, may feel it necessary to make contact with you on behalf of other external business partners with regards to a specific offer which may be of interest to you. If you consent or show interest in presented offers, then, at that time, specific identifiable information, such as name, email address and/or telephone number, may be shared with the third party. 
-
-Hypnotic Marketing, Inc. may find it beneficial to share specific data with their trusted partners in an effort to conduct statistical analysis, provide you with email and/or postal mail, deliver support and/or arrange for deliveries to be made. Those third parties shall be strictly prohibited from making use of your personal information, other than to deliver those services which you requested, and as such they are thus required in accordance with this agreement to maintain the confidentiality of all your information. 
-
-Hypnotic Marketing, Inc. may deem it necessary to follow websites and/or pages that their users may frequent in an effort to gleam what types of services and/or products may be the most popular to customers or the general public.
-
-Hypnotic Marketing, Inc. may disclose your personal information, without prior notice to you, only if required to do so pursuant to applicable laws and/or in a good faith belief that such action is deemed necessary or required to:
-
-  1. Conform to decrees, laws and/or statutes or in an effort to comply with any process which may be served upon Hypnotic Marketing, Inc. and/or its website;
-
-
-  2. Safeguard and/or preserve all the rights and/or property of Hypnotic Marketing, Inc.; and
-
-
-  3. Perform under demanding conditions in an effort to safeguard the personal safety of users of www.MrFire.com and all other HMI internet sites and/or the general public. 
+  2. **Collecting Your Personal Data**
 
 
 
-_**Children Under Age of 13**_
 
-Hypnotic Marketing, Inc. does not knowingly collect personal identifiable information from children under the age of thirteen (13) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system’s database. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website.
+We collect information about you in the following ways:
 
-_**Unsubscribe or Opt-Out**_
+ **Information You Give Us.** This includes:
 
-All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to support@mrfire.com. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out. 
+  * the personal data you provide when you register to use our Site, including your‎ name, postal address, email address, telephone number, username, password and demographic information (such as your gender); ****
 
-_**Links to Other Web Sites**_
+  * the personal data that may be contained in any video, comment or other submission you upload or post to the Site; 
 
-Our website does contain links to affiliate and other websites. Hypnotic Marketing, Inc. does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website. 
+  * the personal data you provide in connection with our rewards program and other promotions we run on the Site;
 
-_**Security**_
+  * the personal data you provide when you report a problem with our Site or when we provide you with customer support; 
 
-Hypnotic Marketing, Inc. shall endeavor and shall take every precaution to maintain adequate physical, procedural and technical security with respect to its offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user’s personal information under our control. 
+  * the personal data you provide when you make a purchase thorough our Site; and
 
-In addition, Hypnotic Marketing, Inc. is a licensee of TRUSTe. The website is secured by VeriSign. The company also uses Secure Socket Layer (SSL) for authentication and private communications in an effort to build users’ trust and confidence in the internet and website use by providing simple and secure access and communication of credit card and personal information.
+  * the personal data you provide when you correspond with us by phone, email or otherwise.
 
-Furthermore, in an effort to comply with international data protection standards, our website has been certified by the Department of Commerce’s United States and the European Safe Harbor Framework in an effort to further protect our international users and members. 
 
-_**Changes to Privacy Policy Agreement**_
 
-Hypnotic Marketing, Inc. reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at www.MrFire.com and all other HMI internet sites, so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time Hypnotic Marketing, Inc. decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner. 
 
-_**Acceptance of Terms**_
+ **[Information from Social Networking Sites.** Our Site include interfaces that allow you to connect with social networking sites (each a “SNS”). If you connect to a SNS through our Site, you authorize us to access, use and store the information that you agreed the SNS could provide to us based on your settings on that SNS. We will access, use and store that information in accordance with this Policy. You can revoke our access to the information you provide in this way at any time by amending the appropriate settings from within your account settings on the applicable SNS.
 
-Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes. 
+ **[Information Automatically Collected.** We automatically log information about you and your computer or mobile device when you access our Site. For example, when visiting our Site, we log your computer or mobile device operating system name and version, manufacturer and model, browser type, browser language, screen resolution, the website you visited before browsing to our Site, pages you viewed, how long you spent on a page, access times and information about your use of and actions on our Site. **** We collect this information about you using cookies. 
 
-_**How to Contact Us**_
+**Automated Decision Making and Profiling.**
 
-If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
+We do not use your personal data for the purposes of automated decision-making. However, we may do so in order to fulfill obligations imposed by law, in which case we will inform you of any such processing and provide you with an opportunity to object.
 
-**Email:** contact@mrfire.com
+  3.  **COOKIES**
 
-**Telephone Number:** (888) 743-2824
 
-**Mailing Address:**
 
-Hypnotic Marketing, Inc.
+ **What are cookies?**
 
-P.O. Box 2924 Wimberley, TX 78676-2924 
+We may collect information using “cookies.” Cookies are small data files stored on the hard drive of your computer or mobile device by a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer or mobile device until you delete them) to provide you with a more personal and interactive experience on our Site. 
+
+We use two broad categories of cookies: (1) first party cookies, served directly by us to your computer or mobile device, which are used only by us to recognize your computer or mobile device when it revisits our Site; and (2) third party cookies, which are served by service providers on our Site, and can be used by such service providers to recognize your computer or mobile device when it visits other websites.
+
+ **Cookies we use**
+
+Our Site uses the following types of cookies for the purposes set out below: 
+
+**Type of cookie**
+
+| 
+
+ **Purpose**  
+  
+---|---  
+  
+ _Essential Cookies_
+
+| 
+
+These cookies are essential to provide you with services available through our Site and to enable you to use some of its features. [For example, they allow you to log in to secure areas of our Site and help the content of the pages you request load quickly]. Without these cookies, the services that you have asked for cannot be provided, and we only use these cookies to provide you with those services.  
+  
+ _Functionality Cookies_
+
+| 
+
+These cookies allow our Site to remember choices you make when you use our Site, [such as remembering your language preferences, remembering your login details and remembering the changes you make to other parts of our Site which you can customize] **** The purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time you visit our Site.   
+  
+_Analytics and Performance Cookies_
+
+| 
+
+These cookies are used to collect information about traffic to our Site and how users use our Site. The information gathered does not identify any individual visitor. [It includes the number of visitors to our Site, the websites that referred them to our Site, the pages they visited on our Site, what time of day they visited our Site, whether they have visited our Site before, and other similar information.] [We use this information to help operate our Site more efficiently, to gather broad demographic information and to monitor the level of activity on our Site.] ****
+
+[We use Google Analytics for this purpose. Google Analytics uses its own cookies. It is only used to improve how our Site works. You can find out more information about Google Analytics cookies here: _[https://developers.google.com/analytics/resources/concepts/gaConceptsCookies](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)_ ]
+
+[You can find out more about how Google protects your data here: _[www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html)_.] 
+
+[You can prevent the use of Google Analytics relating to your use of our Site by downloading and installing the browser plugin available via this link: _[http://tools.google.com/dlpage/gaoptout?hl=en-GB](http://tools.google.com/dlpage/gaoptout?hl=en-GB)_ ]   
+  
+_Targeted and advertising cookies_
+
+| 
+
+[These cookies track your browsing habits to enable us to show advertising which is more likely to be of interest to you. These cookies use information about your browsing history to group you with other users who have similar interests. Based on that information, and with our permission, third party advertisers can place cookies to enable them to show adverts which we think will be relevant to your interests while you are on third party websites.] ****
+
+[You can disable cookies which remember your browsing habits and target advertising at you by visiting _[http://www.youronlinechoices.com/uk/your-ad-choices](http://www.youronlinechoices.com/uk/your-ad-choices)_. If you choose to remove targeted or advertising cookies, you will still see adverts but they may not be relevant to you. Even if you do choose to remove cookies by the companies listed at the above link, not all companies that serve online behavioral advertising are included in this list, and so you may still receive some cookies and tailored adverts from companies that are not listed.]  
+  
+ _Social Media Cookies_
+
+| 
+
+[These cookies are used when you share information using a social media sharing button or “like” button on our Site or you link your account or engage with our content on or through a social networking website such as Facebook, Twitter or Google+. The social network will record that you have done this.]   
+  
+**Disabling cookies**
+
+You can typically remove or reject cookies via your browser settings. In order to do this, follow the instructions provided by your browser (usually located within the “settings,” “help” “tools” or “edit” facility). Many browsers are set to accept cookies until you change your settings. 
+
+If you do not accept our cookies, you may experience some inconvenience in your use of our Site. For example, we may not be able to recognize your computer or mobile device and you may need to log in every time you visit our Site.
+
+  4.  **ADVERTISING**
+
+
+
+
+We may use other companies to serve third-party advertisements when you visit and use the Site. These companies may collect and use click stream information, browser type, time and date, subject of advertisements clicked or scrolled over during your visits to the Site and other websites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use tracking technologies to collect this information. Other companies’ use of their tracking technologies is subject to their own privacy policies.
+
+  5.  **Using Your Personal Data**
+
+
+
+
+We may use your personal data as follows:
+
+  * to operate, maintain, and improve our Site, products, and services;
+
+  * to manage your account, including to communicate with you regarding your account, if you have an account on our Site;
+
+  * to operate and administer our rewards program and other promotions you participate in on our Site;
+
+  * to respond to your comments and questions and to provide customer service;
+
+  * to send information including technical notices, updates, security alerts, and support and administrative messages;
+
+  * with your consent, to send you marketing e-mails about upcoming promotions, and other news, including information about products and services offered by us and our affiliates. You may opt-out of receiving such information at any time: such marketing emails tell you how to “opt-out.” Please note, even if you opt out of receiving marketing emails, we may still send you non-marketing emails. Non-marketing emails include emails about your account with us (if you have one) and our business dealings with you;
+
+  * to process payments you make via our Site; ****
+
+  * as we believe necessary or appropriate (a) to comply with applicable laws; (b) to comply with lawful requests and legal process, including to respond to requests from public and government authorities; (c) to enforce our Policy; and (d) to protect our rights, privacy, safety or property, and/or that of you or others;
+
+  * for analysis and study services; and
+
+  * as described in the “Sharing of your Personal Data” section below.
+
+
+
+  6.  **Sharing Your Personal Data**
+
+
+
+
+We may share your personal data as follows:
+
+  *  **Third Parties Designated by You.** We may share your personal data with third parties where you have provided your consent to do so.
+
+  *  **Our** **Third Party Service Providers**. We may share your personal data with our third party service providers who provide services such as [data analysis, payment processing, information technology and related infrastructure provision, customer service, email delivery, auditing and other similar services]. 
+
+
+
+  7. **Third Party Sites**
+
+
+
+
+Our Site may contain links to third party websites and features. This Policy does not cover the privacy practices of such third parties. **** These third parties have their own privacy policies and we do not accept any responsibility or liability for their websites, features or policies. Please read their privacy policies before you submit any data to them. _**For example, Facebook like buttons, Facebook Connect, Google +1 Button, Sign in with Google, Twitter widget, etc.**_
+
+  8.  **User Generated Content**
+
+
+
+
+You may share personal data with us when you submit user generated content to our Site, [including via our rewards program, forums, message boards and blogs on our Site]. Please note that any information you post or disclose on our Site will become public information, and will be available to other users of our Site and to the general public. We urge you to be very careful when deciding to disclose your personal data, or any other information, on our Site. Such personal data and other information will not be private or confidential once it is published on our Site.
+
+If you provide feedback to us, we may use and disclose such feedback on our Site. If you have provided your consent to do so, we may post your first and last name along with your feedback on our Site. We will collect any information contained in such feedback and will treat the personal data in it in accordance with this Policy.
+
+  9.  **International Data Transfer**
+
+
+
+
+Your information, including personal data that we collect from you, may be transferred to, stored at and processed by us outside the country in which you reside, where data protection and privacy regulations may not offer the same level of protection as in other parts of the world. By accepting this Policy, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Policy.
+
+  10.  **Security**
+
+
+
+
+We seek to use reasonable organizational, technical and administrative measures to protect personal data within our organization. Unfortunately, no transmission or storage system can be guaranteed to be completely secure, and transmission of information via the internet is not completely secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us.
+
+  11.  **Retention**
+
+
+
+
+We will only retain your personal data as long reasonably required for you to use the Site or until you close your account/cancel your subscription unless a longer retention period is required or permitted by law (for example for regulatory purposes). 
+
+  12. **Our Policy on Children**
+
+
+
+
+Our Site is/are not directed to children under 16. **** If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us. We will delete such information from our files as soon as reasonably practicable.
+
+  13.  **Your Rights**
+
+
+
+  *  **Opt-out.** You may contact us anytime to opt-out of: (i) direct marketing communications; (ii) automated decision-making and/or profiling; (iii) our collection of sensitive personal data; (iv) any new processing of your personal data that we may carry out beyond the original purpose; or (v) the transfer of your personal data outside the EEA. Please note that your use of some of the Site may be ineffective upon opt-out. 
+
+  * **Access.** You may access the information we hold about you at any time via your profile/account or by contacting us directly. 
+
+  * **Amend.** You can also contact us to update or correct any inaccuracies in your personal data.
+
+  *  **Move.** Your personal data is portable – i.e. you to have the flexibility to move your data to other service providers as you wish. 
+
+  * **Erase and forget.** In certain situations, for example when the information we hold about you is no longer relevant or is incorrect, you can request that we erase your data. 
+
+
+
+
+If you wish to exercise any of these rights, please contact us. In your request, please make clear: (i) **what** personal data is concerned; and (ii) **which of the above rights** you would like to enforce. For your protection, we may only implement requests with respect to the personal data associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable and in any event, within one month of your request. Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion.
+
+  14.  **Complaints**
+
+
+
+
+We are committed to resolve any complaints about our collection or use of your personal data. If you would like to make a complaint regarding this Policy or our practices in relation to your personal data, please contact us at: Hypnotic Marketing, Inc., P.O. Box 2924 Wimberley, TX 78676-2924 or _[support@mrfire.com](mailto:support@mrfire.com)_ or (888) 743-2824. We will reply to your complaint as soon as we can and in any event, within 30 days. We hope to resolve any complaint brought to our attention, however if you feel that your complaint has not been adequately resolved, you reserve the right to contact your local data protection supervisory authority
+
+  15.  **Contact Information**
+
+
+
+
+We welcome your comments or questions about this Policy. You may contact us in writing at Hypnotic Marketing, Inc., P.O. Box 2924 Wimberley, TX 78676-2924 or _[support@mrfire.com](mailto:support@mrfire.com)_ or (888) 743-2824.
