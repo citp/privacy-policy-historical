@@ -1,33 +1,111 @@
-> *The following text is extracted and transformed from the asexstories.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123034119id_/http%3A//www.asexstories.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asexstories.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126062128id_/http%3A//www.asexstories.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - A Sex Stories
 
-Privacy Policy for http://www.asexstories.com/ 
+Privacy Policy for http://www.asexstories.com/ [Under revision now!] At this time check our new data handling & cookies policy page.
+
+*** 2018 Update. We no longer using cookies for tracking, google doubleclick system or similar. Please check [this page](https://web.archive.org/data.html) for additional information. 
 
 The privacy of our visitors to http://www.asexstories.com/ is important to us. 
 
-At http://www.asexstories.com/, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://www.asexstories.com/, and how we safeguard your information. We never sell your personal information to third parties. 
+We are processing personal data only in accordance with this Privacy Policy.
 
-Log Files As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
+1\. Use of personal data
 
-Cookies and Web Beacons We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
+Personal data is any information relating to an identified or identifiable data subject, including names, ages, addresses, and email addresses.
 
-We also use third party advertisements on http://www.asexstories.com/ to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
+A data subject shall be considered identified or identifiable if it is possible to identify the data subject directly or indirectly in particular on the basis of one or more factors specific to his/her physical, physiological, economic, cultural or social identity.
 
-DoubleClick DART cookies We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ('interest based targeting'). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses 'non personally identifiable information'. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx 
+We collect, process and retain personal data to the extent it is necessary to provide users with our service, especially for the following purposes, e.g. identifying a registered user, keeping search and video preferences,   
+keeping the likes of unregistered users, displaying advertisements, keeping statistics, etc. 
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+We do not collect, process or retain personal data unless allowed under statutory laws, required by a judicial or governmental order, or the user has given its consent. We collect all personal data by ourselves and by our means. 
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
+Unregistered Users
 
-[](http://www.animefresh.com/?t=118446,21,60,0)
+Persons who visit our website without logging in or registering are unregistered users. The only personal data we collect from unregistered users is their IP addresses, which we delete with 30 days after each visit. We do not associate IP addresses with any of the unregistered users' specific activity (such as articles/videos they view) on the site. 
 
-Random The Article Part 1 
+Unregistered users' IP addresses are only used to prepare aggregate statistics about the overall activity on our website. 
 
-A news paper article makes some different ways. Classic from Incester...
+Such aggregate statistics include the countries visitors came from and the types of electronic device used; they do not contain any personal information.
 
-[Read...](http://www.asexstories.com/The-Article-Part-1/)
+Registered Users (authors, only if you have created author profile and submitting us stories)
 
-[](http://www.analarmy.com/?t=118446,21,168,0)
+Persons who choose to create an account are registered users. It is possible to create an account without providing your name. You can maintain your account under an alias or pseudonym. Upon account creation, new users are sent a confirmation link by email. If registration is confirmed, you accept to receive emails to notify specific events such as new friends requests, likes on your uploads etc.
 
-[](http://www.kaydenbunny.com/?t=118446,21,132,0)
+When users create accounts they are creating profile pages that, if they so choose, the public and other registered users can view. Registered users can choose what content to display on their profile, and can individually adjust the privacy settings on their profile pages to restrict access.
+
+We collect the following data from registered users:
+
+Any information the user submits to us during account creation, such as username, password, name, email address, password, country, region, and age; and  
+Any information a user submits to us using our contact form; and  
+Any content that the user creates (for example, posting a comment or uploading a photo or video); and  
+The IP address during the account creation process and whenever a video is uploaded; and  
+The clicks and views of the user; and  
+Any voluntary information the user provides to personalize the user's account (for example, adding a video to their favourite lists or linking to another social media account).  
+This information may contain sensitive information about the user including the sexual preferences, ethnicity and religion of the user if he/she wishes to share this information to connect with other users. This information is only retained as long as the user does not delete or change the information in his/her user account. The information can only be seen by other registered users and is not shared or processed in any other way.
+
+Except to the extent detailed above, we do not track registered users' activity on this website. We only prepares aggregate statistics about clicks and views; we do not track every click or video watched by users and associate that with the users' accounts. Please also see additional information about cookies below.
+
+2\. Cookies and Google Analytics (Google Analytics not used now at asexstories.com, all served ads are local and not using cookies, cookies used only for authors story submission panel) 
+
+We use cookies to collect information about how website is used.
+
+Cookies are text files that are placed by the browser in the memory of a user's device when website is visited. Website uses session cookies and persistent cookies:
+
+\- Session cookies expire at the end of a browser session. They only enable us to collect and connect the userÃ¢â‚¬â„¢s actions during the particular browser session and are deleted when the browser is closed or the user logs off.
+
+\- Persistent cookies survive a browser session and are stored for a predefined period of time. We are using persistent cookies with the following information and for the following purposes:
+
+Identifying a registered user; and  
+Keeping some search preferences; and  
+Keeping the likes of the unregistered users; and  
+Saving the video player's preferences; and  
+Displaying the advertisements; and  
+Keeping statistics regarding the speed loading of the pages.  
+The user can disable the cookie function in his browser options. Please see the specific information of the browser used for visiting this website. For details how to control and/or delete cookies, see aboutcookies.org. If cookies are disabled the user might not be able to use all the functions and services of website.
+
+In addition, Website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"), using third-party cookies that enable Google to analyze the use of website. The information generated by the cookie about the use of this website is transferred to a Google server in North America. Note that we have activated GoogleÃ¢â‚¬â„¢s IP anonymization service "anonymize" for Website which shortens a user's IP address prior to the transfer.
+
+Google will use this information on our behalf to evaluate the use of Website, to compile reports for activities on Website, and to provide other services to us relating to Website.
+
+Google Analytics operates under the following terms:
+
+Terms of Service: https://www.google.com/analytics/terms/gb.html  
+Privacy Statement: https://www.google.com/intl/en/analytics/learn/privacy.html  
+Privacy Policy: https://www.google.com/intl/en/policies/privacy The user can prevent Google from collecting and processing the data concerning the use of Website (including the IP address) by installing a browser-plug-in which is available under https://tools.google.com/dlpage/gaoptout.
+
+3\. Data Security
+
+Note that all data is kept in a secure environment on our main servers located in Europe. Only restricted access is provided to a limited number of our employees who are bound to keep all user information confidential.
+
+We protect personal data by using appropriate safeguard procedures and measures such as:
+
+Access limitation to authorized persons;
+
+Regular backups.
+
+4\. User's rights
+
+Any registered or unregistered user, may, at any time, demand information on or correction and deletion of their personal data that is stored and may object to any processing of personal data on our contacts page (just send us email with request).
+
+A user with an account may, at any time, correct or delete his information directly by using the corresponding interface in his profile.
+
+If a user desires to terminate his account he can do so by contacting us under our contact page. Upon termination all personal data retained will be immediately and permanently removed from our servers.
+
+5\. Communication  
+We only contact users by email:
+
+in response to a user's email;  
+if registration is confirmed in case of a specific event;  
+if we have serious questions regarding the user's submissions (story or comments); or  
+if we receive a take-down notice for one or more of the user's uploads.
+
+6\. Transfers  
+We reserve the right to share all information in our possession concerning a user account and website usage with third parties as necessary to comply with requirements under applicable law, including the cooperation with public authorities.
+
+We also reserve the right to store, transfer and process personal data for the purpose of preventing and prosecuting criminal activities in accordance with applicable laws.
+
+We do not sell personal information to third parties.
+
+All served ads at this site are LOCAL (images from OUR server only with links to advertiser website) and NOT cookie based. It NOT collect any infomation about you, it just redirect you to advertiser website if you clicked this banner or ad-button. Cookies/personalization/user-tracking are not used for this site ad-functionality.  
