@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oster.com privacy policy that was archived on 2018-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180515023337id_/http%3A//www.oster.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oster.com privacy policy that was archived on 2018-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181127003839id_/https%3A//www.oster.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -11,16 +11,16 @@
 <meta property="og:title" content="Privacy Policy at Oster.com.">
 <meta property="og:description" content="Find out more about Oster's Privacy Policy. Click here to visit our Privacy Policy page.">
 <meta property="og:type" content="article">
-<meta property="og:image" content="http://www.oster.com/on/demandware.static/Sites-oster-Site/-/default/dw2bdb1904/images/logo.png">
+<meta property="og:image" content="https://www.oster.com/on/demandware.static/Sites-oster-Site/-/default/dw2bdb1904/images/logo.png">
 
 <script>
 	var app={};
 </script>
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/js/lib/html5.js"></script>
 <![endif]-->
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/css/recipes.min.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/css/recipes.min.css">
 <script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
 var dw = (window.dw || {});
@@ -35,7 +35,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -81,13 +87,40 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
 
 <style type="text/css">ISAPPLEPAY{display:inline;}.dw-apple-pay-button,.dw-apple-pay-button:hover,.dw-apple-pay-button:active{background-color:black;background-image:-webkit-named-image(apple-pay-logo-white);background-position:50% 50%;background-repeat:no-repeat;background-size:75% 60%;border-radius:5px;border:1px solid black;box-sizing:border-box;margin:5px auto;min-height:30px;min-width:100px;padding:0;}
 .dw-apple-pay-button:after{content:'Apple Pay';visibility:hidden;}.dw-apple-pay-button.dw-apple-pay-logo-white{background-color:white;border-color:white;background-image:-webkit-named-image(apple-pay-logo-black);color:black;}.dw-apple-pay-button.dw-apple-pay-logo-white.dw-apple-pay-border{border-color:black;}</style>
-<link rel="stylesheet" href="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/css/style.min.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/css/style.min.css">
 <style>
 
 
@@ -230,13 +263,13 @@ CQuotient.getCQUserId = function () {
 	
 
 </style>
-<script src="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/lib/jquery/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/lib/jquery/jquery-1.8.3.min.js" type="text/javascript"></script>
 <script>
     // Picture element HTML5 shiv
     document.createElement("picture");
 </script>
-<script src="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/lib/picturefill.min.js" async=""></script>
-<script src="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/lib/lazysizes.min.js" async=""></script>
+<script src="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/lib/picturefill.min.js" async=""></script>
+<script src="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/lib/lazysizes.min.js" async=""></script>
 <meta name="google-site-verification" content="cJHHzBMnYzfSrEDS5PTI_9WJHXtF1WvRn3G9k8A7XS4">
 <meta name="google-site-verification" content="zh0jD6mME5C4kzO_oN_sbnnARB2S8F4zhiqiPXH_sFE">
 <meta name="p:domain_verify" content="067ae5ebcec5c00a908daa396b94be9e">
@@ -251,7 +284,7 @@ CQuotient.getCQUserId = function () {
   </style>
 <![endif]-->
 <!--[if lt IE 9]>
-		<link rel="stylesheet" href="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/css/old-ie.css" />
+		<link rel="stylesheet" href="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/css/old-ie.css" />
 	<![endif]-->
 </head>
 <body>
@@ -261,7 +294,7 @@ CQuotient.getCQUserId = function () {
 <header>
 
 <h1>
-<a href="http://www.oster.com/" class="primary-logo" title="Oster">
+<a href="https://www.oster.com/" class="primary-logo" title="Oster">
 <img src="/on/demandware.static/Sites-oster-Site/-/default/dw2bdb1904/images/logo.png" alt="Oster">
 </a>
 </h1>
@@ -274,9 +307,9 @@ CQuotient.getCQUserId = function () {
 <div class="addons-links clearfix">
 <div class="content-asset">
 <ul>
-<li><span style="font-size:12px;"><a href="http://www.osterstyle.com">Oster Style</a></span></li>
+<li><span style="font-size:12px;"><a href="https://www.osterstyle.com">Oster Style</a></span></li>
 <li><span style="font-size:12px;"><a href="http://www.osterpro.com">Oster Professional Animal Care</a></span></li>
-<li><span style="font-size:12px;"><a href="http://www.osteranimalcare.com">Oster Pet Care Products </a></span></li>
+<li><span style="font-size:12px;"><a href="https://www.osteranimalcare.com">Oster Pet Care Products </a></span></li>
 </ul>
 </div> 
 <div class="lines"></div>
@@ -341,10 +374,9 @@ My Account
 <a class="my-account-link" title="My Account" href="https://www.oster.com/account">My Account</a>
 </div>
 
-
 <ul class="menu-category level-1 clearfix">
 <li class="first">
-<a aria-haspopup="true" href="http://www.oster.com/blenders-and-juicers/" class="level-1" data-item="Blenders &amp; Juicers" data-topcat="true">
+<a aria-haspopup="true" href="https://www.oster.com/blenders-and-juicers/" class="level-1" data-item="Blenders &amp; Juicers" data-topcat="true">
 <span>Blenders &amp; Juicers</span>
 </a>
 <div id="trigger_0" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
@@ -352,43 +384,38 @@ My Account
 <div class="menu-wrapper">
 <ul class="level-2">
 <li class="first">
-<a href="http://www.oster.com/blenders-and-juicers/kitchen-blenders/" class="level-2">
+<a href="https://www.oster.com/blenders-and-juicers/kitchen-blenders/" class="level-2">
 Kitchen Blenders
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/blenders-and-juicers/personal-blenders/" class="level-2">
+<a href="https://www.oster.com/blenders-and-juicers/personal-blenders/" class="level-2">
 Personal Blenders
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/blenders-and-juicers/professional-blenders/" class="level-2">
+<a href="https://www.oster.com/blenders-and-juicers/professional-blenders/" class="level-2">
 Professional Blenders
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/blenders-and-juicers/smoothie-blenders/" class="level-2">
+<a href="https://www.oster.com/blenders-and-juicers/smoothie-blenders/" class="level-2">
 Smoothie Blenders
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/blenders-and-juicers/juicers/" class="level-2">
+<a href="https://www.oster.com/blenders-and-juicers/juicers/" class="level-2">
 Juicers
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/blenders-and-juicers/blender-food-processor-combo/" class="level-2">
+<a href="https://www.oster.com/blenders-and-juicers/blender-food-processor-combo/" class="level-2">
 Blender Food Processor Combo
 </a>
 </li>
-<li>
-<a href="http://www.oster.com/blenders-and-juicers/immersion-blenders/" class="level-2">
-Immersion Blenders
-</a>
-</li>
 <li class="last">
-<a href="http://www.oster.com/blenders-and-juicers/accessories/" class="level-2">
-Accessories
+<a href="https://www.oster.com/blenders-and-juicers/immersion-blenders/" class="level-2">
+Immersion Blenders
 </a>
 </li>
 </ul>
@@ -397,7 +424,7 @@ Accessories
 
 </li>
 <li>
-<a aria-haspopup="true" href="http://www.oster.com/ovens-and-toasters/" class="level-1" data-item="Ovens &amp; Toasters" data-topcat="true">
+<a aria-haspopup="true" href="https://www.oster.com/ovens-and-toasters/" class="level-1" data-item="Ovens &amp; Toasters" data-topcat="true">
 <span>Ovens &amp; Toasters</span>
 </a>
 <div id="trigger_1" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
@@ -405,32 +432,32 @@ Accessories
 <div class="menu-wrapper">
 <ul class="level-2">
 <li class="first">
-<a href="http://www.oster.com/ovens-and-toasters/toasters/" class="level-2">
+<a href="https://www.oster.com/ovens-and-toasters/toasters/" class="level-2">
 Toasters
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/ovens-and-toasters/toaster-ovens/" class="level-2">
+<a href="https://www.oster.com/ovens-and-toasters/toaster-ovens/" class="level-2">
 Toaster Ovens
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/ovens-and-toasters/countertop-ovens/" class="level-2">
+<a href="https://www.oster.com/ovens-and-toasters/countertop-ovens/" class="level-2">
 Countertop Ovens
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/ovens-and-toasters/extra-large-ovens/" class="level-2">
+<a href="https://www.oster.com/ovens-and-toasters/extra-large-ovens/" class="level-2">
 Extra Large Ovens
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/ovens-and-toasters/pizza-oven/" class="level-2">
+<a href="https://www.oster.com/ovens-and-toasters/pizza-oven/" class="level-2">
 Pizza Oven
 </a>
 </li>
 <li class="last">
-<a href="http://www.oster.com/ovens-and-toasters/roaster-ovens/" class="level-2">
+<a href="https://www.oster.com/ovens-and-toasters/roaster-ovens/" class="level-2">
 Roaster Ovens
 </a>
 </li>
@@ -440,40 +467,46 @@ Roaster Ovens
 
 </li>
 <li>
-<a aria-haspopup="true" href="http://www.oster.com/kitchen-appliances/" class="level-1" data-item="Kitchen Appliances" data-topcat="true">
+<a aria-haspopup="true" href="https://www.oster.com/kitchen-appliances/" class="level-1" data-item="Kitchen Appliances" data-topcat="true">
 <span>Kitchen Appliances</span>
 </a>
 <div id="trigger_2" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
 <div class="level-2 ">
 <div class="menu-wrapper">
 <ul class="level-2">
+
 <li class="first">
-<a href="http://www.oster.com/kitchen-appliances/bread-makers/" class="level-2">
+<a href="https://www.oster.com/kitchen-appliances/air-fryers/" class="level-2">
+Air Fryers
+</a>
+</li>
+<li>
+<a href="https://www.oster.com/kitchen-appliances/bread-makers/" class="level-2">
 Bread Makers
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/kitchen-appliances/cookers-steamers-and-fryers/" class="level-2">
+<a href="https://www.oster.com/kitchen-appliances/cookers-steamers-and-fryers/" class="level-2">
 Cookers, Steamers &amp; Fryers
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/kitchen-appliances/skillets-griddles-grills-and-panini-makers/" class="level-2">
+<a href="https://www.oster.com/kitchen-appliances/skillets-griddles-grills-and-panini-makers/" class="level-2">
 Skillets, Griddles, Grills &amp; Panini Makers
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/kitchen-appliances/waffle-makers/" class="level-2">
+<a href="https://www.oster.com/kitchen-appliances/waffle-makers/" class="level-2">
 Waffle Makers
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/kitchen-appliances/coffee-and-kettles/" class="level-2">
+<a href="https://www.oster.com/kitchen-appliances/coffee-and-kettles/" class="level-2">
 Coffee &amp; Kettles
 </a>
 </li>
 <li class="last">
-<a href="http://www.oster.com/kitchen-appliances/snacks-and-yogurt-makers/" class="level-2">
+<a href="https://www.oster.com/kitchen-appliances/snacks-and-yogurt-makers/" class="level-2">
 Snacks &amp; Yogurt Makers
 </a>
 </li>
@@ -483,7 +516,7 @@ Snacks &amp; Yogurt Makers
 
 </li>
 <li>
-<a aria-haspopup="true" href="http://www.oster.com/kitchen-tools/" class="level-1" data-item="Kitchen Tools" data-topcat="true">
+<a aria-haspopup="true" href="https://www.oster.com/kitchen-tools/" class="level-1" data-item="Kitchen Tools" data-topcat="true">
 <span>Kitchen Tools</span>
 </a>
 <div id="trigger_3" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
@@ -491,42 +524,42 @@ Snacks &amp; Yogurt Makers
 <div class="menu-wrapper">
 <ul class="level-2">
 <li class="first">
-<a href="http://www.oster.com/kitchen-tools/gadgets/" class="level-2">
+<a href="https://www.oster.com/kitchen-tools/gadgets/" class="level-2">
 Gadgets
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/kitchen-tools/can-openers/" class="level-2">
+<a href="https://www.oster.com/kitchen-tools/can-openers/" class="level-2">
 Can Openers
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/kitchen-tools/electric-knives/" class="level-2">
+<a href="https://www.oster.com/kitchen-tools/electric-knives/" class="level-2">
 Electric Knives
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/kitchen-tools/food-processors/" class="level-2">
+<a href="https://www.oster.com/kitchen-tools/food-processors/" class="level-2">
 Food Processors
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/kitchen-tools/immersion-blenders/" class="level-2">
+<a href="https://www.oster.com/kitchen-tools/immersion-blenders/" class="level-2">
 Immersion Blenders
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/kitchen-tools/mixers/" class="level-2">
+<a href="https://www.oster.com/kitchen-tools/mixers/" class="level-2">
 Mixers
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/kitchen-tools/wine-openers/" class="level-2">
+<a href="https://www.oster.com/kitchen-tools/wine-openers/" class="level-2">
 Wine Openers
 </a>
 </li>
 <li class="last">
-<a href="http://www.oster.com/kitchen-tools/warming-trays-and-hot-plates/" class="level-2">
+<a href="https://www.oster.com/kitchen-tools/warming-trays-and-hot-plates/" class="level-2">
 Warming Trays &amp; Hot Plates
 </a>
 </li>
@@ -536,7 +569,7 @@ Warming Trays &amp; Hot Plates
 
 </li>
 <li>
-<a aria-haspopup="true" href="http://www.oster.com/parts-and-accessories/" class="level-1" data-item="Parts &amp; Accessories" data-topcat="true">
+<a aria-haspopup="true" href="https://www.oster.com/parts-and-accessories/" class="level-1" data-item="Parts &amp; Accessories" data-topcat="true">
 <span>Parts &amp; Accessories</span>
 </a>
 <div id="trigger_4" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
@@ -544,37 +577,37 @@ Warming Trays &amp; Hot Plates
 <div class="menu-wrapper">
 <ul class="level-2">
 <li class="first">
-<a href="http://www.oster.com/parts-and-accessories/blenders/" class="level-2">
+<a href="https://www.oster.com/parts-and-accessories/blenders/" class="level-2">
 Blenders
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/parts-and-accessories/bread-makers/" class="level-2">
+<a href="https://www.oster.com/parts-and-accessories/bread-makers/" class="level-2">
 Bread Makers
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/parts-and-accessories/food-processors/" class="level-2">
+<a href="https://www.oster.com/parts-and-accessories/food-processors/" class="level-2">
 Food Processors
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/parts-and-accessories/grill/" class="level-2">
+<a href="https://www.oster.com/parts-and-accessories/grill/" class="level-2">
 Grill
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/parts-and-accessories/juicers/" class="level-2">
+<a href="https://www.oster.com/parts-and-accessories/juicers/" class="level-2">
 Juicers
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/parts-and-accessories/mixers/" class="level-2">
+<a href="https://www.oster.com/parts-and-accessories/mixers/" class="level-2">
 Mixers
 </a>
 </li>
 <li class="last">
-<a href="http://www.oster.com/parts-and-accessories/toasters-and-ovens/" class="level-2">
+<a href="https://www.oster.com/parts-and-accessories/toasters-and-ovens/" class="level-2">
 Toasters and Ovens
 </a>
 </li>
@@ -584,13 +617,25 @@ Toasters and Ovens
 
 </li>
 <li>
-<a href="http://www.oster.com/sale/" class="level-1" data-item="SALE" data-topcat="true">
+<a aria-haspopup="true" href="https://www.oster.com/sale/" class="level-1" data-item="SALE" data-topcat="true">
 <span>SALE</span>
 </a>
 <div id="trigger_5" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
+<div class="level-2 ">
+<div class="menu-wrapper">
+<ul class="level-2">
+<li class="first">
+<a href="https://www.oster.com/sale/doorbuster-deals/" class="level-2">
+Doorbuster Deals
+</a>
+</li>
+</ul>
+</div>
+</div>
+
 </li>
 <li>
-<a aria-haspopup="true" href="http://www.oster.com/ideas-and--inspirations/ideas-inspirations.html" class="level-1">
+<a aria-haspopup="true" href="https://www.oster.com/ideas-and--inspirations/ideas-inspirations.html" class="level-1">
 <span>Ideas &amp; Inspirations</span>
 </a>
 <div id="trigger_6" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
@@ -598,12 +643,12 @@ Toasters and Ovens
 <div class="menu-wrapper">
 <ul class="level-2">
 <li class="first">
-<a href="http://www.oster.com/blog/" class="level-2">
+<a href="https://www.oster.com/blog/" class="level-2">
 Blog
 </a>
 </li>
 <li class="last">
-<a href="http://www.oster.com/recipes.html" class="level-2">
+<a href="https://www.oster.com/recipes.html" class="level-2">
 Recipes
 </a>
 </li>
@@ -612,7 +657,7 @@ Recipes
 </div>
 </li>
 <li class="last">
-<a aria-haspopup="true" href="http://www.oster.com/service-and-support/service-and-support.html" class="level-1">
+<a aria-haspopup="true" href="https://www.oster.com/service-and-support/service-and-support.html" class="level-1">
 <span>Service &amp; Support</span>
 </a>
 <div id="trigger_7" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
@@ -620,12 +665,12 @@ Recipes
 <div class="menu-wrapper">
 <ul class="level-2">
 <li class="first">
-<a href="http://www.oster.com/service-and-support/product-support/how-to-videos/how-to-videos.html" class="level-2">
+<a href="https://www.oster.com/service-and-support/product-support/how-to-videos/how-to-videos.html" class="level-2">
 How To Videos
 </a>
 </li>
 <li>
-<a href="https://www.oster.com/service-and-support/product-registration/product-registration.html" class="level-2">
+<a href="https://www.oster.com/productregistration?cid=product-registration" class="level-2">
 Product Registration
 </a>
 </li>
@@ -635,17 +680,17 @@ Where's My Order?
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/service-and-support/product-support/product-faqs/product-faqs.html" class="level-2">
+<a href="https://www.oster.com/service-and-support/product-support/product-faqs/product-faqs.html" class="level-2">
 Product Support
 </a>
 </li>
 <li>
-<a href="http://www.oster.com/service-and-support/order-support/order-faqs/order-faqs.html" class="level-2">
+<a href="https://www.oster.com/service-and-support/order-support/order-faqs/order-faqs.html" class="level-2">
 Order Support
 </a>
 </li>
 <li class="last">
-<a href="http://www.oster.com/service-and-support/product-support/instruction-manuals/instruction-manuals.html" class="level-2">
+<a href="https://www.oster.com/service-and-support/product-support/instruction-manuals/instruction-manuals.html" class="level-2">
 Instruction Manuals
 </a>
 </li>
@@ -681,7 +726,7 @@ Instruction Manuals
 </div>
 <ol class="breadcrumb">
 <li>
-<a href="http://www.oster.com/" class="home" title="Home">Home</a>
+<a href="https://www.oster.com/" class="home" title="Home">Home</a>
 </li>
 <span class="breadcrumbdivider">:</span>
 <li><span class="breadcrumb-last">Recipes</span></li>
@@ -748,23 +793,23 @@ Atlanta, Georgia 30328<br>
 <div class="footer-nav-col first">
 <div class="foot-nav-header">Shop Oster</div>
 <ul>
-<li><a href="http://www.oster.com/blenders-and-juicers/">Blenders</a></li>
-<li><a href="http://www.oster.com/ovens-and-toasters/">Toasters &amp; Ovens</a></li>
-<li><a href="http://www.oster.com/kitchen-tools/">Kitchen Tools</a></li>
-<li><a href="http://www.oster.com/kitchen-appliances/">Kitchen Appliances</a></li>
-<li><a href="http://www.oster.com/search?cgid=beverages">Coffee &amp; Kettles</a></li>
-<li><a href="http://www.oster.com/parts-and-accessories/">Parts &amp; Accessories</a></li>
+<li><a href="https://www.oster.com/blenders-and-juicers/">Blenders</a></li>
+<li><a href="https://www.oster.com/ovens-and-toasters/">Toasters &amp; Ovens</a></li>
+<li><a href="https://www.oster.com/kitchen-tools/">Kitchen Tools</a></li>
+<li><a href="https://www.oster.com/kitchen-appliances/">Kitchen Appliances</a></li>
+<li><a href="https://www.oster.com/search?cgid=beverages">Coffee &amp; Kettles</a></li>
+<li><a href="https://www.oster.com/parts-and-accessories/">Parts &amp; Accessories</a></li>
 </ul>
 </div>
 <div class="footer-nav-col second">
 <div class="foot-nav-header">Service &amp; Support</div>
 <ul>
-<li><a href="http://www.oster.com/service-and-support/product-registration/product-registration.html">Product Registration</a></li>
+<li><a href="https://www.oster.com/productregistration?cid=product-registration">Product Registration</a></li>
 <li><a href="https://www.oster.com/orderhistory">Where's My Order?</a></li>
-<li><a href="http://www.oster.com/service-and-support/product-support/product-faqs/product-faqs.html">Product Support</a></li>
-<li><a href="http://www.oster.com/service-and-support/order-support/order-faqs/order-faqs.html">Order Support</a></li>
-<li><a href="http://www.oster.com/service-and-support/product-support/instruction-manuals/instruction-manuals.html">Instruction Manuals</a></li>
-<li><a href="http://www.oster.com/service-and-support/order-support/order-faqs/returns/returns.html">Return Policy</a></li>
+<li><a href="https://www.oster.com/service-and-support/product-support/product-faqs/product-faqs.html">Product Support</a></li>
+<li><a href="https://www.oster.com/service-and-support/order-support/order-faqs/order-faqs.html">Order Support</a></li>
+<li><a href="https://www.oster.com/service-and-support/product-support/instruction-manuals/instruction-manuals.html">Instruction Manuals</a></li>
+<li><a href="https://www.oster.com/service-and-support/order-support/order-faqs/returns/returns.html">Return Policy</a></li>
 </ul>
 </div>
 <div class="footer-nav-col third">
@@ -791,18 +836,18 @@ Atlanta, Georgia 30328<br>
 </form>
 </div>
 <div class="stayconnected">
-<div class="blurb">Stay Connected</div>
+ <div class="blurb">Stay Connected</div>
 <div class="socialicons" itemscope="" itemtype="http://schema.org/Organization">
-<link itemprop="url" href="http://www.oster.com">
+<link itemprop="url" href="https://www.oster.com">
 <span itemprop="name" style="display:none">Oster® Appliances</span>
-<link itemprop="logo" href="http://www.oster.com/on/demandware.static/-/Sites-oster-Library/default/dw2bdb1904/images/logo.png">
+<link itemprop="logo" href="https://www.oster.com/on/demandware.static/-/Sites-oster-Library/default/dw2bdb1904/images/logo.png">
 <a itemprop="sameAs" href="https://www.facebook.com/OsterKitchen" class="custom" target="_blank">
-<img width="28" height="28" src="http://www.oster.com/on/demandware.static/-/Sites-oster-Library/default/dw6e183eca/images/stayconnected/facebook.png" alt=""></a>
+<img width="28" height="28" src="https://www.oster.com/on/demandware.static/-/Sites-oster-Library/default/dw6e183eca/images/stayconnected/facebook.png" alt=""></a>
 <a itemprop="sameAs" href="https://www.instagram.com/osterkitchen" class="custom" target="_blank">
-<img width="28" height="28" src="http://www.oster.com/on/demandware.static/-/Sites-oster-Library/default/dw0c52f7c2/images/stayconnected/instagram.png" alt=""></a>
+<img width="28" height="28" src="https://www.oster.com/on/demandware.static/-/Sites-oster-Library/default/dw0c52f7c2/images/stayconnected/instagram.png" alt=""></a>
 <a itemprop="sameAs" href="https://www.pinterest.com/OsterKitchen/" class="custom" target="_blank">
-<img width="28" height="28" src="http://www.oster.com/on/demandware.static/-/Sites-oster-Library/default/dwb96c7d5a/images/stayconnected/pinterest.png" alt=""></a>
-<a itemprop="sameAs" href="https://www.youtube.com/channel/UCIl5EKf8F9AApbNQBiS4h2g" class="custom" target="_blank"><img width="28" height="28" src="http://www.oster.com/on/demandware.static/-/Sites-oster-Library/default/dw0f77bae5/images/stayconnected/youtube.png" alt=""></a>
+<img width="28" height="28" src="https://www.oster.com/on/demandware.static/-/Sites-oster-Library/default/dwb96c7d5a/images/stayconnected/pinterest.png" alt=""></a>
+<a itemprop="sameAs" href="https://www.youtube.com/channel/UCIl5EKf8F9AApbNQBiS4h2g" class="custom" target="_blank"><img width="28" height="28" src="https://www.oster.com/on/demandware.static/-/Sites-oster-Library/default/dw0f77bae5/images/stayconnected/youtube.png" alt=""></a>
 
 </div>
 </div>
@@ -811,14 +856,14 @@ Atlanta, Georgia 30328<br>
 </div>
 
 <div class="footer-copyright">
-<div class="footer-disclaimer">*For full shipping terms and restrictions, please <a href="http://www.oster.com/service-and-support/order-support/order-faqs/payment-and-promotions/payment-and-promotions.html?faq=free-shipping-promo">click here.</a></div>
+<div class="footer-disclaimer">*For full shipping terms and restrictions, please <a href="https://www.oster.com/service-and-support/order-support/order-faqs/payment-and-promotions/payment-and-promotions.html?faq=free-shipping-promo">click here.</a></div>
 ©<script>document.write(new Date().getFullYear())</script>2020
 Sunbeam Products, Inc. All Rights Reserved.
 <ul>
-<li><a href="http://www.oster.com/privacy-policy.html">Privacy Policy</a></li>
-<li><a href="http://www.oster.com/terms-of-use.html">Terms of Use</a></li>
-<li><a href="http://www.oster.com/terms-of-sale.html">Terms of Sale</a></li>
-<li class="last"><a href="http://www.oster.com/sitemap">Site Map</a></li>
+<li><a href="https://www.oster.com/privacy-policy.html">Privacy Policy</a></li>
+<li><a href="https://www.oster.com/terms-of-use.html">Terms of Use</a></li>
+<li><a href="https://www.oster.com/terms-of-sale.html">Terms of Sale</a></li>
+<li class="last"><a href="https://www.oster.com/sitemap">Site Map</a></li>
 </ul>
 </div>
 </div> 
@@ -826,15 +871,15 @@ Sunbeam Products, Inc. All Rights Reserved.
 </footer>
 </div>
 <script src="/on/demandware.store/Sites-oster-Site/default/Resources-Load?t=appresources&amp;cid=privacy-policy"></script>
-<script src="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/js/scripts.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/js/paypal.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/js/scripts.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/js/paypal.js" type="text/javascript"></script>
 <script type="text/javascript" src="//content.webcollage.net/api/v2/product-content"></script>
 <script src="//s7.addthis.com/js/250/addthis_widget.js#async=1" type="text/javascript"></script>
 <script type="text/javascript">
 	var addthis_config = {pubid: 'jcswebteam'};
 	addthis.init();
 </script>
-<script src="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/js/marketingcloud.js" defer=""></script>
+<script src="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/js/marketingcloud.js" defer=""></script>
 <script>
 var exclusions = JSON.parse('["/account","/addresslist","/billing","/cart","/confirm","/customer","/editprofile","/paymentsettings","/replenishmaintain","/sforderhistory","/shipping","/submit","/wishlist"]');
 var siteExclude = JSON.parse('["/telemundo,none","/thanksgiving,none"]');
@@ -964,7 +1009,7 @@ app.marketingCloud.initHomepageContent();
   "user_anonymous": "true",
   "user_authenticated": "false",
   "user_registered": "false",
-  "customer_id": "acqPj2RLksGqsYdxIQRWJRva4m",
+  "customer_id": "acR0stP9AEcllx5qdga7VqNKEE",
   "page_name": "empty search results"
 };
 </script>
@@ -989,6 +1034,7 @@ app.marketingCloud.initHomepageContent();
 	$(document).ready(function(){
 		injectBVInlineRatings("#primary", "BVRRInlineRating");
 		injectBVInlineRatings("#cross-sell-recomendations", "RecommendationBVRRInlineRating");
+		injectBVInlineRatings("#product-horizontal-carousel", "BVRRInlineRating");
 	});
 	
 	//Handles inline ratings when items are sorted or when number of items on page changed.
@@ -1011,18 +1057,18 @@ app.marketingCloud.initHomepageContent();
 		    app.urls.recipeCreate = "https://www.oster.com/on/demandware.store/Sites-oster-Site/default/Recipes-Create";
 		}(window.app = window.app || {}));
 	</script>
-<script src="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/js/bootstrap.min.js"></script>
-<script src="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/lib/jquery/ui/jquery-ui-1.9.2.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/js/main.js"></script>
-<script src="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/js/jquery.raty.js"></script>
-<script src="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/js/respond.min.js"></script>
+<script src="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/js/bootstrap.min.js"></script>
+<script src="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/lib/jquery/ui/jquery-ui-1.9.2.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/js/main.js"></script>
+<script src="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/js/jquery.raty.js"></script>
+<script src="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/js/respond.min.js"></script>
 </div>
 
 <script type="text/javascript">//<!--
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.oster.com/on/demandware.store/Sites-oster-Site/default/__Analytics-Start";
+        var trackingUrl = "https://www.oster.com/on/demandware.store/Sites-oster-Site/default/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -1034,9 +1080,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 
-<script src="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script>
+<script src="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 <script type="text/javascript">//<!--
@@ -1046,6 +1092,6 @@ dw.applepay = {"action":{"cancel":"https:\/\/www.oster.com\/on\/demandware.store
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-oster-Site/-/default/v1526296342617/internal/jscript/applepay.js" async="true"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-oster-Site/-/default/v1543234146029/internal/jscript/applepay.js" async="true"></script>
 
 </body></html>
