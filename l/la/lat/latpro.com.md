@@ -1,140 +1,156 @@
-> *The following text is extracted and transformed from the latpro.com privacy policy that was archived on 2018-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180110114447id_/https%3A//www.latpro.com/c/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latpro.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126101620id_/https%3A//www.latpro.com/c/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Latpro.com
 
-### LatPro.com Privacy Commitment
+### **This document is the official PRIVACY POLICY for LATPRO, INC., which does business as LatPro.com, DiversityJobs.com, JustJobs.com and other affiliated websites, including:**
 
-LatPro.com is committed to protecting your privacy. We seek to provide a safe, secure user experience and ensure that the information you submit to us remains private. This Privacy Statement is incorporated into and subject to the terms of the LatPro User Agreement.
+africanamericanhires.com, allairportjobs.com, allanalystjobs.com, allautomotivejobs.com, allbilingualjobs.com, allconstructionjobs.com, allcounselingjobs.com, alldialysisjobs.com, alleducationjobs.com, allfoodjobs.com, allhispanicjobs.com, alljobsinnursing.com, alllanguagejobs.com, alllgbtjobs.com, alloutdoorjobs.com, allschooljobs.com, allspanishjobs.com, architecturejobs.org, asianhires.com, butlerjobs.org, cablejobs.org, civilengineeringjobs.org, collegefacultyjobs.com, commercialconstructionjobs.org, computerjobs.net, disabilityjobs.net, driverjobs.org, engineeringjobs.org, ethanoljobs.org, facilitiesjobs.org, fieldjobs.org, fortwaynejobs.org, geriatricjobs.org, horticulturejobs.org, insurancejobs.org, jobsinaccounting.org, jobsinbanking.com, jobsinfinance.org, jobsinhealthcare.com, jobsinhospitality.net, jobsinhospitals.org, jobsinhr.org, jobsinit.org, jobsinlasvegas.org, jobsinnonprofit.org, jobsinoperations.com, jobsinscience.org, jobsinsoftware.org, jobsinteaching.org, jobsintucson.org, justparttimejobs.com, latinojobs.org, logisticsjobs.org, marketingjobs.org, mortgageconsultantjobs.org, neonatologyjobs.org, nursingwork.org, payrolljobs.org, professorjobs.org, qajobs.com, retailjobs.org, rockcountyjobs.org, salesjobs.org, sustainabilityjobs.org, transportationjobs.org, truckjobs.org, veteranjobs.net, wehirewomen.com, latproinc.com, diversityjobsalerts.com, latpromail.com, justjobs.us
 
-We do not share, sell, rent or trade personally identifiable information with third parties for their promotional purposes.
+This Privacy Policy explains how, when and why your personal data is being processed by LatPro, Inc., which does business as DiversityJobs.com, LatPro.com as well as all the websites listed in the above paragraph.
 
-### Information About All LatPro.com Visitors
+For the purpose of this policy, any reference to **“LatPro, Inc.” , “us”, “we” or “our”** shall mean any applicable company or website with LatPro, Inc. as the parent company.
 
-We collect aggregate information on what pages consumers access or visit. This information helps us determine what is most beneficial for our users and helps us to continually improve your overall experience in using our site.
+LatPro, Inc. is the data controller of any personal data and other information you provide when using our any of aforementioned websites. LatPro, Inc. always processes Personal Data in accordance with the General Data Protection Regulation (“GDPR”) as well as any national legislation, regulations applicable to the processing of personal data.
 
-We sometimes share aggregate information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, credit card number, and bank account number are not disclosed to marketing advertisers ever.
+Your rights to privacy and integrity are important to us and we are therefore cautious with handling your personal data and thrive to limit the processing only to information that is required in order to perform our services to you.
 
-### Use of Personally Identifiable Information
+**Security**
+
+LatPro, Inc. has implemented and follows industry standard measures to protect against unauthorized access to and unlawful interception or processing of Personal Data. However, no internet site can fully eliminate all security risks.
+
+**Your Consent**
+
+By using these websites you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on this site to keep you aware of what information we collect, how we use it, and under what circumstances we may disclose it.
+
+### **Personal Data**
+
+Personal data is any kind of information that directly or indirectly refers to an identified or identifiable person or data that could possibly would allow a party to contact you, including, for example, your full name, address, telephone number, or email address.
 
 All personal information is used solely to provide you with the services you’ve requested.
 
-When you subscribe to our e-mail mailing lists, it is necessary for us to collect your e-mail address. This email is **never** shared with any third parties or used for any other purposes.
+### **Data Removal Requests**
 
-When you become a paying site member, we request your name, e-mail address, mailing address, credit card number and expiration date. This information is necessary to process your payment and to notify you of your membership status. Your email and mailing addresses are shared with Latin Trade and Punto-Com magazines only if you requested the complimentary subscriptions.
+For any account removal request, please send an email [webmaster@latpro-inc.com](mailto:webmaster@latpro-inc.com) or use the contact information at the bottom of this document.
 
-We use personally identifiable information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize our site’s content, layout and services. These uses improve our site and better tailor it to meet your needs.
+## **Services we provide and data we need to process in order to render these services**
 
-We use your email to contact you and deliver information to you that is targeted to your interests, such as:
+### **Services for Jobseekers**
 
-  * administrative emails pertaining to your account, for example, expiration notices)
-  * email tips and advice on how to improve your career development and job search
-  * email notices about job openings
-  * email notices about career related events, such as career fairs and seminars
-  * targeted banner advertisement
+As a Job Board or Employment Website, we are a medium where Job seekers may apply for jobs posted on our websites and where they can be found and contacted by our employer clients.  Both these jobseeker services are free.
 
+**Searching and Applying for jobs –** In order to apply to jobs you may be required to register your profile and upload a resume. In many cases this is optional but, in such cases, you will likely be required to supply personal data directly on our clients’ websites or Applicant Tracking Systems.
 
+The jobs found on LatPro, Inc. have been created by third parties over which LatPro, Inc. exercises no control. LatPro, Inc. assumes no responsibility for the content of any job posting found on LatPro, Inc.’s websites.
 
-By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information.
+**Resume Database –** If you’d like to “be found” by employers and recruiters in our jobseeker database, you are required to register and/or upload a resume.
 
-It is possible that LatPro could merge with or be acquired by another business entity. Should such a combination occur, you should expect that LatPro would share some or all of your information in order to continue to provide the service. You will receive notice of such event (to the extent it occurs) and we will require that the new combined entity follow the practices disclosed in this Privacy Policy.
+When you register your jobseeker account on our websites, it is assumed that you are looking for employment opportunities with our client companies and that you are comfortable being contacted by them.  If you uploaded your resume, your full resume text and contact information is available for our recruiter clients searching our resume database. Our recruiters are prohibited to use your information for any other use other than for hiring purposes.
 
-### Business Transitions
+Any requested demographic information, such as gender and race is optional. If you provide that information, rest assured it is strictly used for marketing or research purposes. Demographics may be shared with clients as aggregate statistics but will NEVER directly linked to an individual!
 
-In the event LatPro.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via a prominent notice on our Web site home page for 30 days of any such change in ownership or control of your personal information. Should you decide to remove your personally identifiable information from the list of assets being transferred, you must notify us within this 30 day period.
+Jobseeker accounts are deleted after 5 years of inactivity.
 
-### Opting out
+You may also contact webmaster@latpro-inc.com to solicit removal request or use the contact information at the bottom of this document.
 
-We provide you the opportunity to opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information.
+### **Services for Recruiters**
 
-When registering as a candidate, we provide an opportunity to ‘opt-out’ from our job seeker newsletters.
+Our Recruiter clients may purchase single job posting ads, hire us to scrape unlimited jobs, buy access to our candidate resume database and buy booth space at our Job Fairs.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at .
+In order to take advantage of these services, recruiters are required to register the company they represent. They are required to enter your personal data, as well as information pertaining to your business, including your name, job title, company name, work address, work email address, work telephone, billing contact, etc.
 
-For registered job seekers, we also offer a central webpage to opt-out from all communications. Just go to https://www.latpro.com/USER/JOBS/emailPrefs.php , login, then select which communications you would like to stop receiving.
+**Use of payment service providers**
 
-You may also opt-out by calling us at 954-727-3844 or in writing to 3980 N Broadway Ste 103-147 Boulder, CO 80304, USA.
+When you pay for our services, you need to enter your credit card or an address where we can send you an invoice. 
 
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
-
-### “Tell-a-friend” disclosure
-
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit the site. LatPro does not store this information and it is used for the sole purpose of sending a one-time email.
-
-### Security Disclosure
-
-The security of your personal information and email address is important to us. We follow industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-When you enter sensitive information on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). The secure server software (SSL) encrypts all information you input before it is sent to us. Our SSL Certificate is issued by Digicert, which is a leading global Certification Authority. To view our certificate, click on the image below:
-
-To learn more about SSL, follow this link http://www.webopedia.com/TERM/S/SSL.html.  
-Additionally, we employ security techniques to protect your data from unauthorized access both inside and outside the company. Inside our company, your Personally Identifiable Information is available in a need-to-know basis. Our administrative interface restricts access of certain types of information to specific internal roles. Our servers are hosted in highly secure state-of-the-art facilities where access to servers is restricted to senior LatPro engineers only.
-
-If you have any questions about security on our Web site, you can send email us at .
-
-### External Service Providers
-
-There are a number of services offered by external providers that help you use our Site (e.g. resume editing services, trade magazines subscriptions, etc). If you choose to use these optional services, disclose information to the external service providers, and /or grant them permission to collect information about you, then their use of your information is governed by their privacy policy. Because we do not control the privacy practices of these third parties, you should evaluate their practice before deciding to use their services.
-
-### Service Providers
-
-We use Bank of America and Authorize.net to provide credit card processing on our site. When you sign up for a paid membership or purchase a recruiting service, we will share Personably Identifiable Information as necessary for the third party to provide that service.
+For Credit card processing, we use Bank of America and Authorize.net to provide credit card processing on our site.  When you submit payment information, we securely transmit Personally Identifiable Information and Credit Card number, as necessary, for the third party to provide that service.
 
 These third parties are prohibited from using your personally identifiable information for any other purpose.
 
-### Email tracking technologies
+## **Other services which use your email and/or your personal data**
 
-Some email communications may contain web beacons (1×1 transparent images) for the sole purpose of tracking how many users are opening the email. We also use redirecting links for tracking how many clicks the links are receiving.
+**Job Agents**
 
-### Resumes
+Job Agents is a free service that allows you to receive job announcements via email.  In order to create a Job Agent, we must collect your email and the search criteria for each agent. This email address is never shared or sold to third parties.  All emails that we send include a unsubscription link at the bottom of the content. 
 
-As an employment/career site, LatPro.com, allows you to put your resume in our database. There are two ways of doing this:  
-You can store your resume in our database, but not allow it to be searchable by employers/recruiters. This will allow you to respond to a job posting without ever making your resume accessible to employers/recruiters searching our resume database.  
-If you allow your resume to be searchable, then all employers and recruiters who have registered on our site and been approved by LatPro.com will have access to your resume.  
-You may remove your resume from our searchable database at any time. However, registered employers and recruiters may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of resumes in these instances, or for the use or privacy of resumes by any of such parties while resumes are in the database.
+You may also contact [webmaster@latpro-inc.com](mailto:webmaster@latpro-inc.com) to solicit removal request or use the contact information at the bottom of this document.
 
-### Control of Your Password
+**Targeted emails**
 
-You are responsible for all actions taken with your User ID(your email)and password, including fees. Therefore we urge you not to disclose your LatPro password to any third parties. If you choose to share your password or your information with third parties to provide you additional services, you are responsible for all actions taken with your password and therefore you should review that third party’s privacy policy. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password. If you have any problems changing your password, contact . immediately.
+Similar to a Job Agent, we send emails on behalf of our companies, regarding a job opportunities that fit your profile and geographical location using emails from our Resume database.  All emails that we send include a unsubscription link at the bottom of the content. You may also contact [webmaster@latpro-inc.com](mailto:webmaster@latpro-inc.com) to solicit removal request or use the contact information at the bottom of this document.
 
-### Updating Account Information
+**Newsletters**
 
-LatPro.com allows you to change or correct your personal information and email address at any time. To do so, simply log on to our site and go to My LatPro where you will find options for editing the information you have previously submitted.
+We have 2 monthly newsletters, Hispanic Recruiter Review and Latin Career News. When you subscribe to our Newsletters, it is necessary for us to collect your e-mail address. While we may place an advertisement on the newsletters.  All emails that we send include a unsubscription link at the bottom of the content.
 
-### Cookies
+Emails collected on our newsletters remain there until you delete them or ask us to do so. 
 
-To enhance your experience at LatPro.com we use a feature on your Internet browser called a “cookie”. Cookies are small files that your Web browser places on your computer’s hard drive. We use cookies for remembering user names, passwords and preferences, tracking click streams, and for load balancing. While we use cookies to store your user name and password, we encrypt the data contained within the cookie(s) to protect your personally identifiable information. This feature is completely optional, and will not affect the user experience in our site. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. You have the option of setting your browser to reject cookies. However, doing this will prevent you from using our site effectively. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+You may also contact [webmaster@latpro-inc.com](mailto:webmaster@latpro-inc.com) to solicit removal request or use the contact information at the bottom of this document.
 
-3rd Party Cookies: Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by LatPro.com only and does not cover the use of cookies by any advertisers. The systems that may post cookies are Google, Adjugler and Bluestreak.
+**Administrative emails**
 
-### Co-brand disclosure
+If we have your email or resume on our database, you may receive administrative emails pertaining to your account, such as expiration notices, password retrieval, etc.
 
-Our “Co-Brand Program consists of LatPro-powered Employment Sections run by 3rd party websites, such as Hispanic professional associations, chambers of commerce and portals.
+While you have any type of account on our websites, there is no way to prevent us from sending Administrative emails unless you choose to discontinue our services, which you can do by contacting [webmaster@latpro-inc.com](mailto:webmaster@latpro-inc.com) or via other contact methods featured at the bottom of this document.
 
-The relationship between LatPro and it’s co-brand partners are a barter of traffic and content and revenue share.
+**Career Fair invitations**
 
-Although these Employment Sections have the look-and-feel of the partner, they are actually hosted by LatPro servers. Personally Identifiable Information entered on those Employment websites are stored on LatPro servers and are, in no circumstance, shared with the co-brand partner.
+If your email or resume is on our database, we may send you an invitation to a job fair happening in your area.  All such emails that we send include a unsubscription link at the bottom of the content. You may also contact [webmaster@latpro-inc.com](mailto:webmaster@latpro-inc.com) to solicit removal request or use the contact information at the bottom of this document.
 
-### A special note about Children
+**Blog Comments**
 
-We ask that minors (under the age of 18) do not submit any personal information.
+Some of our websites have blogs or pages that allow users to make a comment. In order to leave a comment your are required to leave your name and email. The name is visible to the public but the email is not.  That email is not shared and it’s solely used by us, in case we need to reach you.
 
-### Legal Requests
+**Contact forms**
 
-LatPro cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability. Further, we can (and you authorize us to) disclose your User ID, name, street address, city, state, zip code, country, phone number, email, and company name as we in our sole discretion believe necessary.
+In order to provide customer or sales support, we use contact forms in various parts of our websites. When you contact us using these forms, we do ask for your contact information so that we can promptly respond.  Those contact logs are purged after 45 days. 
 
-### Notification of Changes
+**Sharing Data with third parties**
 
-If we decide to change our privacy policy or email practices, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+When you add your resume to our database, we may ask you for consent to share your resume with 3rd party services offering career related services, such as Resume editing, assessment tests, etc.  
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a prominent notice on our home page 30 days prior to the implementation of the changes.
+**Your personal data is** **NEVER** **shared to a 3rd party** **without your consent** **.**
 
-### Contacting Us
+**Diversity Job Fairs**
 
-For further information or questions regarding this privacy policy, please contacts us. We welcome your questions and suggestions.
+Aside from our job boards, we produce (physical/non-virtual) Career Fairs in various US Metro areas. During those job fairs, we collect resumes.  Those paper resumes are then scanned and made available to attending recruiters. Our recruiters are prohibited to use your information for any other use other than for hiring purposes.  
 
-LatPro, Inc  
-3980 N Broadway Ste 103-147  
-Boulder, CO 80304 – USA  
-tel: 954-727-3844  
-fax: 954-727-3845  
-email: webmaster@latpro-inc.com
+Prior to the job fair, candidates are encouraged to RSVP to the events via a third party website, EventBrite.com.  For more information on EventBrite’s privacy compliance, please visit: [https://www.eventbrite.com/support/articles/en_US/Troubleshooting/eventbrite-eu-data-protection ](https://www.eventbrite.com/support/articles/en_US/Troubleshooting/eventbrite-eu-data-protection)
+
+**Surveys**
+
+We occasionally post Surveys using a 3rd party service called SurveyMonkey. For more information on Survey Monkey’s GDPR compliance, visit: <https://www.surveymonkey.com/mp/gdpr/>
+
+Surveys are never mandatory and never a requirement for job application.
+
+**Google Analytics**
+
+We use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information from Google Analytics only to improve this site and our user experience. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use (<https://www.google.com/analytics/terms/us.html>) and the Google Privacy Policy(<https://policies.google.com/privacy>). You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser: <https://www.usa.gov/optout-instructions>
+
+## **Cookies**
+
+We use cookies. A cookie is a small data file that our website plants on your hard drive. Our cookie files contain information such as a user ID and statistic data to complete and handle our association-related activities and surveys. The only personal information a cookie can contain is information you have supplied yourself. Our cookies cannot read data off your hard disk or read cookie files created by other sites. Cookies are used to track user traffic patterns. We do this in order to evaluate our user’s patterns and to see how effective our navigational structure is in helping users to acquire association-related information, participate in association-related activities and complete surveys as effectively as possible. If you are logged in on your Facebook- or Google+ account while accessing LatPro, Inc. websites, data may be transferred through cookies about your usage. This may result in Facebook and/or Google collecting personal data about you, whereby their respective terms and policies apply (accessed here: <https://www.facebook.com/privacy/explanation> and <https://www.google.se/intl/en_se/policies/privacy/?fg=1>).
+
+Through the settings of your web browser, you can manage how and when processing of cookies should be possible. However, please note that disabling us from processing cookies may affect the usage of our Sites and some functions may not work properly.
+
+**More information about cookies:** <https://www.latpro.com/c/cookies-in-use-on-this-site/>
+
+## **Your rights to obtain extract, correction, erasure etc.**
+
+You have the right to obtain an extract of the information LatPro, Inc. websites holds about you. If you want to obtain such a statement, or if you wish to correct information or data, object to, or restrict a certain processing of your data, you are welcome to contact LatPro, Inc. websites at [webmaster@latpro-inc.com](mailto:webmaster@latpro-inc.com). LatPro, Inc. will also assist you, if requested at the aforementioned e-mail address, with the transmitting of your data to another controller (so-called “data portability”), and/or delete information regarding you and/or your use of the Site. However, please be aware that if you ask us to delete all information from your user account you will no longer be able to use the parts of the Sites where a user account is mandatory for access.
+
+We hope that questions regarding our processing of your personal data can be resolved effectively through communication between us. However, please be informed that you always have the right to file an objection with the Federal Trade Commission, regarding our processing of your Personal Data.
+
+**Updates**
+
+This privacy policy may be updated without prior notice. In case of any significant changes or updates, LatPro, Inc. will send you an email and/or post a notification on our webpages.
+
+**Contact Details**
+
+We hope this policy clarifies our treatment of your Personal Data.  Please do not hesitate to contact us by mail, e-mail or phone with questions or concerns regarding this Privacy Policy or any other issue related to our websites or business.
+
+LatPro, Inc.  
+3980 North Broadway, ste 103-147  
+Boulder, CO 80304  
+Tel: 954-727-3844  
+Fax: 954-727-3845  
+webmaster@latpro-inc.com
