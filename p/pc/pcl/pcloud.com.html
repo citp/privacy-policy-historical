@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pcloud.com privacy policy that was archived on 2018-03-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180320134356id_/https%3A//www.pcloud.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pcloud.com privacy policy that was archived on 2018-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181126214624id_/https%3A//www.pcloud.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
 <meta charset="utf-8">
@@ -14,10 +14,10 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta http-equiv="cache-control" content="no-cache">
 <meta http-equiv="pragma" content="no-cache">
-<meta http-equiv="last-modified" content="Mon, 19 Mar 2018 13:57:33 GMT">
+<meta http-equiv="last-modified" content="Sun, 25 Nov 2018 16:59:22 GMT">
 <meta name="google-site-verification" content="YkYcN4JMEPH_a4g3dnMeL1V9rOLTnAqe0NTqjOF1IVs">
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/npamdkabjncnnoaofdjcaipmnccofeem">
-<meta property="og:image" content="//pcdn-www.pcloud.com/Z49/images/social_img/micro.png">
+<meta property="og:image" content="//pcdn-www.pcloud.com/ZiW/images/social_img/micro.png">
 <link rel="alternate" href="https://www.pcloud.com/" hreflang="x-default">
 
 
@@ -123,14 +123,21 @@
 </style>
 
 <script>
+    (function() {
+        if (typeof window.Set === "undefined" || typeof Array.prototype.map === "undefined") {
+            var s = document.createElement('script');
+            s.src = "https://pcdn-my.pcloud.com/ZiW/dist/js/polyfill.min.js";
+            document.getElementsByTagName('head')[0].appendChild(s);
+        }
+    })();
 	var api = "api.pcloud.com";
 	var detectedMobile = detectIsMobile();
 	var detectedTablet = detectIsTablet();
 	var detectedRetina = window.devicePixelRatio > 1;
-	var myPcloudURL = "https://pcdn-my.pcloud.com/Z40/".replace('pcdn-', '').split('.com').shift() + '.com/';
+	var myPcloudURL = "https://my.pcloud.com/".replace('pcdn-', '').split('.com').shift() + '.com/';
 	var paypalURL = 'https://payments.pcloud.com';
 	var safeChargeURL = 'https://secure.gate2shop.com/ppp/purchase.do';
-	var safeChargeMerchantID = '161999';
+	var safeChargeMerchantID = '161748';
 	var safeChargeEnv = 'prod';
 	var currentPageClass = 'generic';
 	var premiumPlanURL = "/cloud-storage-pricing-plans.html?product=premium";
@@ -144,18 +151,18 @@
 	var inFBnxfo = '' != 1 ? false : true;
 	var currentBAtext = webview ? "If you need more users or storage, go to your account settings or contact owner of account." : "If you need more users or storage, go to <a href=\"https://my.pcloud.com/#page=b_account&tab-baccount=myaccount\" target=\"blank\">your account settings</a> or contact owner of account. For any other requests, please <a href=\"mailto:support@pcloud.com\">contact us</a>.";
 	var driveDLcode = {
-		'Mac': 			  'XZh17L7ZuGLtSajtqq4mwtq021loxHYXti9X',
-		'Windows 10': 	  'XZa17L7ZzMIC1H67HFhkJRa5p2qq3kYU4etk',
-		'Windows 8': 	  'XZa17L7ZzMIC1H67HFhkJRa5p2qq3kYU4etk',
-		'Windows 7': 	  'XZa17L7ZzMIC1H67HFhkJRa5p2qq3kYU4etk',
-		'Windows Vista':  'XZa17L7ZzMIC1H67HFhkJRa5p2qq3kYU4etk',
-		'Windows XP': 	  'XZvvOXZ3cJAnzX5bdJSlz4bhl1xDu9a85XV',
-		'Windows 2000':   'XZvvOXZ3cJAnzX5bdJSlz4bhl1xDu9a85XV',
+		'Mac': 			  'XZJnST7ZFxM8l8GlqeS9l34quz5aW0DAm51y',
+		'Windows 10': 	  'XZmPQT7ZHFnOqIdUfrR1O9hTkfP51Rv7I3O7',
+		'Windows 8': 	  'XZmPQT7ZHFnOqIdUfrR1O9hTkfP51Rv7I3O7',
+		'Windows 7': 	  'XZmPQT7ZHFnOqIdUfrR1O9hTkfP51Rv7I3O7',
+		'Windows Vista':  'XZmPQT7ZHFnOqIdUfrR1O9hTkfP51Rv7I3O7',
+		'Windows XP': 	  'XZANnh7ZJEbWISKu0KhteiyjlHFmq7eo0BdV',
+		'Windows 2000':   'XZANnh7ZJEbWISKu0KhteiyjlHFmq7eo0BdV',
 		'Linux 32bit':    'XZFLUXZgiFvDjEWrjBd5A0yP6qRvhcw4kAk',
 		'Linux 64bit':    'XZ5LUXZnCaQsycCaLFoymzccM68XFRwXyNX',
-		'Android apk':    'XZqCiR7ZD2vMaXCpqAzsKzs1mJDzI7K7XLPy',
-		'Electron':       'XZd81R7ZHSGlh6AdzfQxwIXt3oUXbLTA00HV',
-		'Electron 32bit': 'XZN81R7ZaBce0UgIJQXqbiy3WQT6upgVWzxk',
+		'Android apk':    'XZr84M7ZGqCAzRKgGEYPFwwD0TYDgSgxKMgV',
+		'Electron':       'XZnxQT7ZMqYPuekePi4YQ2Gh0obFszzFuiTy',
+		'Electron 32bit': 'XZUxQT7ZcdcXXka6UBXDFQBb229gb4prdx8V',
 		'Lightroom': 	  'XZXu2z7Z9rLkGvLPek5auaSWuwEwtpk8xw1X'
 	};
 	var addonDlLinks = {
@@ -163,7 +170,7 @@
 		'firefox': "https://addons.mozilla.org/en-US/firefox/addon/pcloud-save/",
 		'opera': "https://addons.opera.com/en/extensions/details/pcloud-save/"
 	};
-		var CDN = "//pcdn-www.pcloud.com/Z49/";
+		var CDN = "//pcdn-www.pcloud.com/ZiW/";
 	var apiServer = "api.pcloud.com";
 	var apiUrl = "//"+apiServer+"/";
 	var detectLang = true;
@@ -181,12 +188,8 @@
 		'ios': {
 			'text': "Available at the App Store",
 			'link': "https://itunes.apple.com/us/app/pcloud/id692002098"
-		},
-		'windows phone': {
-			'text': "Get it from Microsoft",
-			'link': "https://www.microsoft.com/en-us/store/p/pcloud-free-cloud-storage/9nblggh4wnqj"
 		}
-	};	var jstranslations = {"_error_2000":"Wrong username or password","email_not_valid":"Email is not valid","short_mail":"Email is too short","must_accept_terms":"You must accept Terms and Conditions","email_required":"Email is required","pass_required":"Password is required","DOWNGRADE":"Downgrade","CHANGE_SUBSCRIPTION":"Change Subscription","UPGRADE":"Upgrade","Current":"Current","PREMIUM_PLAN":"Premium Plan","PREMIUM_PLUS_PLAN":"Premium Plus Plan","PCLOUD_CRYPTO":"pCloud Crypto","for_month":" \/ month","for_year":" \/ year","ba_expired_owner_error":"Your account has expired, please contact your Account Manager %manager%","ba_expired_owner_no_acc_error":"Your account has expired, please contact our Sales Team at %sales_email%","ba_expired_user_error":"Your Business account has expired, please contact %ba_owner% for more information.","Free":"Free","product_change":"change","HOME_PREMIUM_PLAN":"Premium","HOME_PREMIUM_PLUS_PLAN":"Premium Plus","GB":"GB","TB":"TB","billed_annually":"annually","billed_monthly":"monthly","space":"space","upsale_text_for_premium":"<h1>74%<\/h1> of the users who have pCloud Crypto have also purchased premium plan!","Premium":"Premium","get_premium":"Get Premium","upsale_text_for_crypto":"<h1>74%<\/h1> of the users who have premium plan have also purchased pCloud Crypto!","get_crypto":"Get Crypto","custom_plan_description":"Make your choice","lifetime_premium":"Lifetime Premium","Business":"Business","your_current_plan_storage_traffic":"Your current plan is %plan%. You have %storage% of storage space and %traffic% of download link traffic per month.","plans_vivapcloud_current_message":"Your current plan is VIVApCloud. If you want to subscribe for pCloud Premium or Custom plan, please sign in with different email address and get more storage and download traffic now","plans_ba_current_msg_short":"If you need more users or storage, go to your account settings or contact owner of account.","your_ba_acc_settings":"your account settings","premium_plan_valid_till":"Your plan is valid till %expires_date%","SIGN_UP_NEW":"Sign Up","get_premium_plus":"Get Premium Plus","design_your_plan_btn":"Design your plan","add_storage_traffic_btn":"Add storage and traffic","go_premium_btn":"Go Premium","go_premium_plus_btn":"Go Premium Plus","header_logout":"Log out","Mobile App":"Mobile App","pCloud Drive for %os%":"pCloud Drive for %os%","annual_payment":"Annual"};
+			};	var jstranslations = {"_error_2000":"Wrong username or password","email_not_valid":"Email is not valid","short_mail":"Email is too short","must_accept_terms":"You must accept Terms and Conditions","email_required":"Email is required","pass_required":"Password is required","DOWNGRADE":"Downgrade","CHANGE_SUBSCRIPTION":"Change Subscription","UPGRADE":"Upgrade","Current":"Current","PREMIUM_PLAN":"Premium Plan","PREMIUM_PLUS_PLAN":"Premium Plus Plan","PCLOUD_CRYPTO":"pCloud Crypto","for_month":" \/ month","for_year":" \/ year","ba_expired_owner_error":"Your account has expired, please contact your Account Manager %manager%","ba_expired_owner_no_acc_error":"Your account has expired, please contact our Sales Team at %sales_email%","ba_expired_user_error":"Your Business account has expired, please contact %ba_owner% for more information.","Free":"Free","product_change":"change","HOME_PREMIUM_PLAN":"Premium 500 GB","HOME_PREMIUM_NAV":"Pricing","HOME_PREMIUM_PLUS_PLAN":"Premium Plus 2 TB","GB":"GB","TB":"TB","billed_annually":"annually","billed_monthly":"monthly","space":"space","upsale_text_for_premium":"<h1>74%<\/h1> of the users who have pCloud Crypto have also purchased premium plan!","Premium":"Premium","get_premium":"Get Premium","upsale_text_for_crypto":"<h1>74%<\/h1> of the users who have premium plan have also purchased pCloud Crypto!","get_crypto":"Get Crypto","custom_plan_description":"Make your choice","lifetime_premium":"Lifetime Premium","Business":"Business","your_current_plan_storage_traffic":"Your current plan is %plan%. You have %storage% of storage space and %traffic% of download link traffic per month.","plans_vivapcloud_current_message":"Your current plan is VIVApCloud. If you want to subscribe for pCloud Premium or Custom plan, please sign in with different email address and get more storage and download traffic now","plans_ba_current_msg_short":"If you need more users or storage, go to your account settings or contact owner of account.","your_ba_acc_settings":"your account settings","premium_plan_valid_till":"Your plan is valid till %expires_date%","SIGN_UP_NEW":"Sign Up","get_premium_plus":"Get Premium Plus","design_your_plan_btn":"Design your plan","add_storage_traffic_btn":"Add storage and traffic","go_premium_btn":"Go Premium","go_premium_plus_btn":"Go Premium Plus","header_logout":"Log out","Mobile App":"Mobile App","pCloud Drive for %os%":"pCloud Drive for %os%","annual_payment":"Annual","i_want_efh":"Yes, I want Extended Files History","dont_want_efh":"No, I don't want Extended Files History!","access_files_with_efh":"Access deleted or previous versions of files with Extended Files History for %price% a %period%!","you_are_logged_with_premium_acc":"You are logged in with %type% account","You are currently logged in as":"You are currently logged in as","month_jan":"Jan","month_feb":"Feb","month_mar":"Mar","month_apr":"Apr","month_may":"May","month_jun":"Jun","month_jul":"Jul","month_aug":"Aug","month_sep":"Sep","month_oct":"Oct","month_nov":"Nov","month_dec":"Dec","or":"or","and":"and","bf2018_upsell_cta":"Add"};
 	var currentLang = "en";
 	var jsTranslate = jsTranslate || {};
 	var globalLang = globalLang || {};
@@ -196,14 +199,17 @@
 	var allImages;
 	var siteLogo;
 	var domBody;
-
+	var defaultLang = "en";
+	var pagekeysforlabel = [];
 	function __(key, str, repl) {
-		if (jsTranslate && key in jsTranslate) {
+				if (jsTranslate && key in jsTranslate) {
 			return jsTranslate[key];
 		} else if (key in jstranslations) {
 			return jstranslations[key];
 		} else if (currentLang in globalLang && key in globalLang[currentLang]) {
 			return _repl(globalLang[currentLang][key]);
+		} else if (defaultLang in globalLang && key in globalLang[defaultLang]) {
+			return _repl(globalLang[defaultLang][key]);
 		} else if (str) {
 			return _repl(str);
 		} else {
@@ -246,7 +252,7 @@
 	        {s:'Windows 8', r:/(Windows 8.1|Windows NT 6.3)/},
 	        {s:'Windows 8', r:/(Windows 8|Windows NT 6.2)/},
 	        {s:'Windows 7', r:/(Windows 7|Windows NT 6.1)/},
-	        {s:'Windows Vista', r:/Windows NT 6.0/},
+	       	{s:'Windows Vista', r:/Windows NT 6.0/},
 	        {s:'Windows Server 2003', r:/Windows NT 5.2/},
 	        {s:'Windows XP', r:/(Windows NT 5.1|Windows XP)/},
 	        {s:'Windows 2000', r:/(Windows NT 5.0|Windows 2000)/},
@@ -256,7 +262,7 @@
 	        {s:'Windows NT 4.0', r:/(Windows NT 4.0|WinNT4.0|WinNT|Windows NT)/},
 	        {s:'Windows CE', r:/Windows CE/},
 	        {s:'Windows 3.11', r:/Win16/},
-					{s:'Windows Phone', r:/Windows Phone/},
+			{s:'Windows Phone', r:/Windows Phone/},
 	        {s:'Android', r:/Android/},
 	        {s:'Open BSD', r:/OpenBSD/},
 	        {s:'Sun OS', r:/SunOS/},
@@ -297,6 +303,10 @@
 
 	        case 'Linux':
 		        osVersion = nVer.indexOf("Linux i686") != -1 ? '32bit' : '64bit';
+	    }
+
+	    if (!os) {
+	    	os = 'Linux';
 	    }
 
 	    result = os + (osVersion ? (' ' + osVersion) : '' );
@@ -433,7 +443,7 @@
 	};
 
 	function getBrowserLang() {
-	    var lang = {'bg':'bg','tr':'tr','en':'en','es':'es','ru':'ru','pt':'pt','fr':'fr','it':'it','zh':'zh','fa':'fa'};
+	    var lang = {'bg':'bg','tr':'tr','en':'en','es':'es','ru':'ru','pt':'pt','fr':'fr','it':'it','zh':'zh','fa':'fa', 'de':'de'};
 	    var code;
 
 	    if (typeof navigator.languages == 'undefined') {
@@ -458,7 +468,10 @@
 		}
 		var referrers = [
 			{ baseurl: 'cloudgratuit\.fr',  refid: 2620 },
-			{ baseurl: 'onlinecloudbackups\.net', refid: 2672 }
+			{ baseurl: 'onlinecloudbackups\.net', refid: 2672 },
+			{ baseurl: 'almacenamientoenlanube\.org', refid: 3000 },
+			{ baseurl: 'bulut-depolama\.com', refid: 3083 },
+			{ baseurl: 'macg\.co', refid: 6894 }
 		];
 		for (var i=0; i < referrers.length; i++) {
 			var r = referrers[i];
@@ -489,46 +502,45 @@
 	    var lang_cookie = jsCookies.get('lang') || getBrowserLang();
 
 	    setLangCookie(lang_cookie);
+	    if (pageLanguage=="fa" || c=="fa" || lang_cookie=="fa"){
+			setLangCookie("en");
+	    }
 
 	    if (pageLanguage == 'en' && pageLanguage != lang_cookie) {
 	    	redirecting = true;
 	        window.location.replace('/'+ lang_cookie + window.location.pathname + window.location.search + window.location.hash);
-	    }
-
-	    if (pageLanguage=="de" || c=="de" || lang_cookie=="de"){
-	    	setLangCookie("en");
 	    }
 	};
 
 	detect_language();
 </script>
 
- <link type="text/css" rel="stylesheet" href="//pcdn-www.pcloud.com/Z49/css/site.css"> <link type="text/css" rel="stylesheet" href="//pcdn-www.pcloud.com/Z49/css/micro.css"><!--[if lte IE 9]>
-	<link type="text/css" rel="stylesheet" href="//pcdn-www.pcloud.com/Z49/css/c_site_ie9.css" />
+ <link type="text/css" rel="stylesheet" href="//pcdn-www.pcloud.com/ZiW/css/site.css"> <link type="text/css" rel="stylesheet" href="//pcdn-www.pcloud.com/ZiW/css/micro.css"><!--[if lte IE 9]>
+	<link type="text/css" rel="stylesheet" href="//pcdn-www.pcloud.com/ZiW/css/c_site_ie9.css" />
 <![endif]-->
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;subset=cyrillic-ext,latin-ext,vietnamese" rel="stylesheet">
 
-<script src="//pcdn-www.pcloud.com/Z49/js/jquery.min.js"></script>
-<script src="//pcdn-www.pcloud.com/Z49/js/common.js"></script>
+<script src="//pcdn-www.pcloud.com/ZiW/js/jquery.min.js"></script>
+<script src="//pcdn-www.pcloud.com/ZiW/js/common.js"></script>
 
 
 
-<script src="//pcdn-www.pcloud.com/Z49/js/micro-site.js"></script>
+<script src="//pcdn-www.pcloud.com/ZiW/js/micro-site.js"></script>
 
 <!--[if lt IE 9]>
-  <script src="//pcdn-www.pcloud.com/Z49/js/ie/html5shiv.js"></script>
-  <script src="//pcdn-www.pcloud.com/Z49/js/ie/nwmatcher-1.2.5-min.js"></script>
-  <script src="//pcdn-www.pcloud.com/Z49/js/ie/selectivizr-1.0.3b.js"></script>
-  <script src="//pcdn-www.pcloud.com/Z49/js/ie/respond.min.js"></script>
+  <script src="//pcdn-www.pcloud.com/ZiW/js/ie/html5shiv.js"></script>
+  <script src="//pcdn-www.pcloud.com/ZiW/js/ie/nwmatcher-1.2.5-min.js"></script>
+  <script src="//pcdn-www.pcloud.com/ZiW/js/ie/selectivizr-1.0.3b.js"></script>
+  <script src="//pcdn-www.pcloud.com/ZiW/js/ie/respond.min.js"></script>
 <![endif]-->
 <!--[if lte IE 8]>
-	<script src="//pcdn-www.pcloud.com/Z49/js/ie/jquery.corner.js"></script>
+	<script src="//pcdn-www.pcloud.com/ZiW/js/ie/jquery.corner.js"></script>
 <![endif]-->
 
 <link href="/images/fav.ico" rel="shortcut icon" type="image/x-icon">
 
-<link rel="prefetch" href="//pcdn-www.pcloud.com/Z49/css/plans.css">
-<link rel="prefetch" href="//pcdn-www.pcloud.com/Z49/js/plans.js">
+<link rel="prefetch" href="//pcdn-www.pcloud.com/ZiW/css/plans.css">
+<link rel="prefetch" href="//pcdn-www.pcloud.com/ZiW/js/plans.js">
 <link rel="prefetch" href="/cloud-storage-pricing-plans.html">
 
 
@@ -538,10 +550,11 @@
 	<div id="scroll_div" style="width:100px;height:100px;overflow:scroll !important;position:absolute;top:-9999px"></div>
 
 	<header class="fixed modal_contain">
+		<div class="unverified-users-alert"> </div>
 		<div class="header_wrap">
 			<div class="logo">
 				<a href="/" id="main_logo">pCloud Secure Cloud Storage</a>
-				<img width="135" src="https://pcdn-my.pcloud.com/Z40/img/header/logo.png" data-src="https://pcdn-my.pcloud.com/Z40/img/header/logo.png" data-src-retina="https://pcdn-my.pcloud.com/Z40/img/header/logo@2x.png" alt="pCloud.com Logo" title="pCloud - Cloud Storage">
+				<img width="135" src="https://pcdn-my.pcloud.com/ZiW/img/header/logo.png" data-src="https://pcdn-my.pcloud.com/ZiW/img/header/logo.png" data-src-retina="https://pcdn-my.pcloud.com/ZiW/img/header/logo@2x.png" alt="pCloud.com Logo" title="pCloud - Cloud Storage">
 			</div>
 
 			<div class="header_right_wrap">
@@ -570,7 +583,11 @@
 							</li>
 														<li class="plans">
 
-								<a href="/cloud-storage-pricing-plans.html">Premium</a>
+								<a href="/cloud-storage-pricing-plans.html">Pricing</a>
+							</li>
+														<li class="crypto">
+
+								<a href="/encrypted-cloud-storage.html">Crypto</a>
 							</li>
 													</ul>
 
@@ -589,13 +606,8 @@
 					</div>
 				</nav>
 
-								<a data-ribbon="1" href="https://www.pcloud.com/christmas-2017" class="header_ribbon" target="_blank">
-					<img src="//pcdn-www.pcloud.com/Z49/images/chrst_2017.png" data-src="//pcdn-www.pcloud.com/Z49/images/chrst_2017.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/chrst_2017@2x.png" width="68">
-				</a>
-				<a data-ribbon="2" href="https://www.pcloud.com/christmas-2017" class="header_ribbon" target="_blank">
-					<img src="//pcdn-www.pcloud.com/Z49/images/chrst2_2017.png" data-src="//pcdn-www.pcloud.com/Z49/images/chrst2_2017.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/chrst2_2017@2x.png" width="68">
-				</a>
-							</div>
+
+        		  														</div>
 		</div>
 	</header>
 
@@ -615,34 +627,34 @@
 				<div class="cats">Categories</div>
 				<ul>
 					<li class="mob_cat" style="display: none;">Privacy Policy <img src="/images/micro-mob-arrow.png" width="13"></li>
-									<li>
+													<li>
 						<a href="/terms_and_conditions.html">
-							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-default.png" class="ina">
-							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-active.png" class="act">
+							<img src="//pcdn-www.pcloud.com/ZiW/images/left-micro/business-default.png" class="ina">
+							<img src="//pcdn-www.pcloud.com/ZiW/images/left-micro/business-active.png" class="act">
 							Terms and Conditions						</a>
 					</li>
-									<li class="selected">
+													<li class="selected">
 						<a href="/privacy_policy.html">
-							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-default.png" class="ina">
-							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-active.png" class="act">
+							<img src="//pcdn-www.pcloud.com/ZiW/images/left-micro/business-default.png" class="ina">
+							<img src="//pcdn-www.pcloud.com/ZiW/images/left-micro/business-active.png" class="act">
 							Privacy Policy						</a>
 					</li>
-									<li>
+													<li>
 						<a href="/int_pr_policy.html">
-							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-default.png" class="ina">
-							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-active.png" class="act">
+							<img src="//pcdn-www.pcloud.com/ZiW/images/left-micro/business-default.png" class="ina">
+							<img src="//pcdn-www.pcloud.com/ZiW/images/left-micro/business-active.png" class="act">
 							Intellectual Property Policy						</a>
 					</li>
-									<li>
+													<li>
 						<a href="/business_agreement.html">
-							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-default.png" class="ina">
-							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-active.png" class="act">
+							<img src="//pcdn-www.pcloud.com/ZiW/images/left-micro/business-default.png" class="ina">
+							<img src="//pcdn-www.pcloud.com/ZiW/images/left-micro/business-active.png" class="act">
 							Business Agreement						</a>
 					</li>
-									<li>
+													<li>
 						<a href="/affiliate_terms.html">
-							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-default.png" class="ina">
-							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-active.png" class="act">
+							<img src="//pcdn-www.pcloud.com/ZiW/images/left-micro/business-default.png" class="ina">
+							<img src="//pcdn-www.pcloud.com/ZiW/images/left-micro/business-active.png" class="act">
 							Affiliate Program Terms and Conditions						</a>
 					</li>
 								</ul>
@@ -651,90 +663,204 @@
 
 		<div class="content">
 			<h1>Privacy Policy</h1>			<div class="textcontent legal">
-				<p class="terms_privacy_header">
-pCloud values your privacy.  We have prepared this Privacy Policy to explain how we collect, use, protect, and disclose information and data when you use the pCloud website located at <a href="http://www.pcloud.com">http://www.pcloud.com</a> and any pCloud mobile applications ("<b>Site</b>") or pCloud services ("<b>Services</b>").
-</p>
+				<div>
+    <h3>1. Overview</h3>
+    <p>pCloud values your privacy. We have prepared this Privacy Policy to explain how we collect, use, protect, and disclose information and data when you use the pCloud website located at
+        <a href="https://www.pcloud.com ">https://www.pcloud.com </a>and any pCloud mobile applications ("Site") or pCloud services ("Services").</p>
+    <p>This Privacy Policy also explains your choices for managing your information preferences, including opting out of certain uses of your Personal Information (as defined below). The Site is operated by pCloud AG, Switzerland (hereinafter referred to as "pCloud", "we", "us" and "our"). For the purposes of applicable European Union data protection legislation, we are the data controller.</p>
 
-<p>
-This Privacy Policy also explains your choices for managing your information preferences, including opting out of certain uses of your Personal Information (as defined below). By using the Site or Services you consent to the collection and use of information in accordance with this Privacy Policy. The Site is operated by pCloud AG, Switzerland (hereinafter referred to as "<b>pCloud</b>", "<b>we</b>", "<b>us</b>" and "<b>our</b>"). For the purposes of applicable European Union data protection legislation, we are the data controller.
-</p>
+    <h3>2. What Personal Data Do We Collect?</h3>
+    <div class="block">
+        <h4>Personal Data provided by you</h4>
+        <ul>
+            <li>
+                <em>Personal data about you upon registration</em> - You will be asked to provide your email address to establish an Account.
+            </li>
+            <li>
+                <em>Personal data that you choose to provide us to obtain additional Services or specific online Services </em>– If you request to participate in an optional Site feature, or request enhanced Services or other elective functionality, we may collect additional information from you.
+            </li>
+        </ul>
+        <p>We will provide you with a separate notice at the time of collection, if the use of that Personal Data differs from the uses disclosed in this Privacy Policy.</p>
+    </div>
+    <div class="block">
+        <h4>Personal Data as you use our Site or Services</h4>
+        <p>We will collect information about you as you use the Site or Service, such as your IP address, browser type and version, operating system, referral source and device information.
+            <br> Through tracking services, we will collect information about you such as length of visit, page views and navigation paths, as well as information about the timing, frequency and pattern of your usage, operating system, device information, behavior, visited pages, etc. This anonymous information can not be identified directly with you.
+            <br> We collect information about purchases you've made through our Site or Services, such as product type, subscription type, date of purchase, etc.</p>
+    </div>
+    <div class="block">
+        <h4>Personal Data about you if you visit as a guest</h4>
+        <p>Certain limited Services are available without being required to log in to or establish an Account, also referred to as Guest Usage. Such is visiting our trade site, accessing a download or upload link and others. We will collect information about you such as length of visit, page views and navigation paths, as well as information about the timing, frequency and pattern of your service usage, operating system, device information, behavior, visited pages. This anonymous information can not be identified directly with you.</p>
+    </div>
+    <div class="block">
+        <h4>Personal Data about you from third-party sources</h4>
+        <ul>
+            <li>
+                <em>Personal Data from payment processors</em>: we will collect information about you from payment providers when you purchase products offered on the Site or Service. Information varies per payment providers but might include: your IP address, country, email, post code, name, last four digits of your card.</li>
+            <li>
+                <em>Personal Data about your friends and contacts</em> – It may be easier to share content with your friends and contacts if you provide their email addresses while using the Service or if you connect your contact list or friend list to your Account.  If you choose to connect your contact list information on your device with your Account and/or establish an account connection between a social media platform and your Account, we will collect and use your contact list or friend list information to show suggestions when you want to share content from your pCloud with someone.</li>
+            <li>
+                <em>Personal Data from your accounts for other services</em> - You have the option to back up content from various services you use. In this case you will be asked to authorize access to your third party services' accounts. Upon this event we might receive various Personal Data about you, depending on the named service's Privacy Policy.</li>
+            <li>
+                <em>Personal Data about you when you register with third party services</em> - When you choose to establish an Account at pCloud with a third party service, we might receive information about you such as name, language, gender and other, depending on the access permissions you allow.</li>
+        </ul>
+    </div>
+    <div class="block">
+        <h4>Other information we collect related to your use of our Sites or Services</h4>
+        <p>We may collect additional information from or about you when you communicate with us, contact our customer support teams or respond to a survey.</p>
+    </div>
 
-<h3>Managing Your Information Preferences</h3>
+    <h3>3. Why Do We Retain Personal Data?</h3>
+    <p>We retain Personal Data in an identifiable format for the least amount of time necessary to fulfill our legal or regulatory obligations and for our business purposes. We may retain Personal Data for longer periods than required by law if it is in our legitimate business interests and not prohibited by law. If your Account is closed, we may take steps to mask Personal Data and other information, but we reserve our ability to retain and access the data for so long as required to comply with applicable laws. We will continue to use and disclose such Personal data in accordance with this Privacy Policy.</p>
 
-<p>
-<em>Personal Information</em> <br> We collect information that personally identifies you, such as your e-mail and other personally identifiable information that you choose to provide us with or that you choose to include in your pCloud profile or account ("<b>Personal Information</b>"). You may be asked to provide us with Personal Information when you register with the Site or use any of our Services, and at other times. The decision to provide this information is optional. However, if you choose not to provide the requested information, you may not be able to use some or all of the features of the Site or Services. We may also receive additional Personal Information, such as your name, address, and payment information, from Service Providers, like our payment processors.
-</p>
+    <h3>4. How Do We Process Personal Data?</h3>
+    <p>We may Process your Personal Data for a variety of reasons that are justified under data protection laws in the European Economic Area (EEA) and Switzerland.</p>
+    <p>To operate the Sites and provide the Services, including to:</p>
+    <ul>
+        <li>initiate a payment</li>
+        <li>authenticate your access to Account.</li>
+        <li>communicate with you about your Account, the Sites, the Services, or pCloud.</li>
+        <li>create an account connection between your Account and a third-party account or platform.</li>
+    </ul>
+    <p>For our legitimate interests, including to:</p>
+    <ul>
+        <li>enforce the terms of our Sites and Services;</li>
+        <li>manage our everyday business needs, such as monitoring, analyzing;</li>
+        <li>anonymize Personal data in order to provide aggregated statistical data to third parties, including other businesses and members of the public, about how, when, and why Users visit our Sites and use our Services.</li>
+        <li>to manage our business needs, such as monitoring, analyzing, and improving the Services and the Sites’ performance and functionality.</li>
+        <li>to manage risk and protect the Sites, the Services and you from fraud by verifying your identity, and helping to detect and prevent fraud and abuse of the Sites or Services.</li>
+        <li>to comply with our obligations and to enforce the terms of our Sites and Services, including to comply with all applicable laws and regulations.</li>
+    </ul>
+    <p>With your consent, including to:</p>
+    <ul>
+        <li>to market to you by delivering marketing materials about pCloud products and online Services. We may also Process your Personal Data to tailor certain Services or Site experiences to better match our understanding of your interests.</li>
+        <li>to provide personalized Services offered by pCloud on third-party websites and online services. We may use your Personal Data and other information collected in accordance with this Privacy Policy to provide a targeted display, feature or offer to you on third-party websites. We may use tracking technologies to provide these online services and/or work with other third-parties such as advertising or analytics companies to provide these online services.</li>
+        <li>to respond to your requests, for example to contact you about a question you submitted to our customer service team.</li>
+    </ul>
+    <p>
+        <strong>You can withdraw your consent at any time and free of charge. Please refer to the section on “Your Privacy Choices” for more information on how to do that.</strong>
+    </p>
 
-<p>
-<em>Usage Data and Site Activity</em> <br> We automatically collect information regarding the actions you take on the Site ("<b>Usage Data</b>"). For example, each time you use the Site we automatically collect the type of web browser you use, your operating system, your Internet Service Provider, your IP address, the pages you view, and the time and duration of your visits to the Site. We use this information to help us understand how people use the Site and Services and to enhance the services we offer. On its own, Usage data does not constitute Personal Information as it does not allow direct association with any specific individual. We reserve the right to disclose this aggregated, non-personal information to third parties for any purpose upon our sole discretion. Such third parties include but are not limited to strategic partners, subcontractors, etc.
-</p>
+    <h3>5. Do We Share Personal Data?</h3>
+    <p>We may share your Personal Data or other information about you with others in a variety of ways as described in this section of the Privacy Policy. We may share your Personal Data or other information for the following reasons:</p>
+    <ul>
+        <li>with payment providers in order to initialize a payment process - personal data necessary to facilitate the transaction;</li>
+        <li>with third party services monitoring the proper functioning of the service - Anonymous data and performance analytics to help us enhance Users’ experiences.</li>
+    </ul>
+    <p>We may share information about you with other parties for pCloud’s business purposes or as permitted or required by law, including:</p>
+    <ul>
+        <li>if we need to do so to comply with a law, legal process or regulations;</li>
+        <li>to law enforcement authorities or other government officials, or other third parties pursuant to a subpoena, a court order or other legal process or requirement applicable to pCloud;</li>
+        <li>if we believe, in our sole discretion, that the disclosure of Personal Data is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity;</li>
+        <li>to protect the vital interests of a person;</li>
+        <li>to investigate violations of or enforce a user agreement or other legal terms applicable to any Service;</li>
+        <li>to protect our property, Services and legal rights;</li>
+        <li>to facilitate a purchase or sale of all or part of pCloud’s business;</li>
+        <li>to help assess and manage risk and prevent fraud against us, our Users and fraud involving our Sites or use of our Services, including fraud that occurs at or involves our business partners, strategic ventures, or other individuals, and merchants;</li>
+        <li>to companies that we plan to merge with or be acquired by; and</li>
+        <li>to support our audit, compliance, and corporate governance functions.</li>
+    </ul>
+    <p>With your consent:</p>
+    <ul>
+        <li>We share your Personal Data and other information with your consent or direction, including if you authorize an account connection with a third-party account or platform.</li>
+        <li>We share your Personal Data with advertising and analytical companies to deliver information relevant to you about new features and offers.</li>
+    </ul>
+    <p>Profile Information You Make Available to Others:</p>
+    <ul>
+        <li>By using the Site or the Services you may make certain of your Personal Information available to others. For example, your email address will be visible when you share a file or a folder with another user of the Site or Services. You should therefore ensure that any person who you share a file or folder with is someone who you are happy to share your email address with.</li>
+    </ul>
+    <p>In addition, pCloud may provide aggregated statistical data to third-parties, including other businesses and members of the public, about how, when, and why Users visit our Sites and use our Services. This data will not personally identify you or provide information about your use of the Sites or Services.</p>
+    <p>
+        <strong>We do not share your Personal Data with third parties for their marketing purposes.</strong>
+    </p>
 
-<p>
-<em> Cookies </em> <br> We use cookies (a small text file placed on your computer to identify your computer and browser) on the Site. We use cookies to improve the experience of the Site and Services, such as pre-populating your username for easier login and preserving your user session. We do not use cookies to collect Personal Information. Most web browsers are initially set up to accept cookies. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent, however, certain features of the Site or Services may not work if you delete or disable cookies. You can also learn more about cookies by visiting <a href="http://www.allaboutcookies.org" target="_blank"> www.allaboutcookies.org </a> which includes additional useful information on cookies and how to block cookies using different types of browser. Some of our Service Providers may use their own cookies in connection with the services they perform on our behalf.
-</p>
+    <h3>6. Automated decision making and profiling</h3>
+    <p>We use the information about you and your usage of the service:</p>
+    <ul>
+        <li>to send you automated messages or notifications relevant to your user experience.</li>
+        <li>to run usability and A/B tests to help us improve our service.</li>
+    </ul>
 
-<h3>How We Use Information and When We May Share and Disclose Information Generally</h3>
-<p>
-We use Personal Information for internal purposes only, such as to provide you with the Site and Services and to improve the Site and Services. We also use Personal Information to notify you of new products or Services and to otherwise communicate with you about pCloud. We may use your email address for marketing purposes, by sending you newsletters or other email communication. If you have any objections about being contacted for marketing purposes, you need to notify us in writing or unsubscribe from our written communication. We will not disclose Personal Information to third parties, except as explained in this Privacy Policy.
-</p>
+    <h3>7. Processing in the EU and the US</h3>
+    <p>Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province or country. Please be advised that we process and store all information on secure servers in the United States and/or the European Union. This is necessary in order to process your Personal Information. The laws in the United States or the European Union may not be as protective of your privacy as those in your location. By using our Site or Services and submitting Personal Information via the Site, you agree to this collection, use, transfer, and disclosure of your Personal Information and that such collection, use, transfer, and disclosure shall be governed by applicable laws in the United States and the European Union.</p>
 
-<h3>Profile Information You Make Available to Others</h3>
-<p>
-By using the Site or the Services you may make certain of your Personal Information available to others. For example, your email address will be visible when you share a file or a folder with another user of the Site or Services. You should therefore ensure that any person who you share a file or folder with is someone who you are happy to share your email address with.
-</p>
+    <h3>8. How Do We Use Cookies and Tracking Technologies?</h3>
+    <p>We use cookies (a small text file placed on your computer to identify your computer and browser) on the Site. We use cookies to improve the experience of the Site and Services, such as pre-populating your username for easier login and preserving your user session. We do not use cookies to collect Personal Information. Most web browsers are initially set up to accept cookies. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent, however, certain features of the Site or Services may not work if you delete or disable cookies. You can also learn more about cookies by visiting <a href="http://www.allaboutcookies.org">www.allaboutcookies.org</a> which includes additional useful information on cookies and how to block cookies using different types of browser. pCloud's cookies are automatically deleted after 1 year.</p>
 
+    <h3>9. Do we process special categories of personal data?</h3>
+    <p>pCloud does not process any personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation.</p>
 
-<h3>Service Providers</h3>
-<p>
-From time to time, we may establish a business relationship with other businesses who we believe trustworthy, and who have confirmed that their privacy practices are consistent with ours ("<b>Service Providers</b>"). For example, we may contract with Service Providers to provide certain services, such as hosting and maintenance, data storage and management, processing of transactions and marketing and promotions. We only provide our Service Providers with the information necessary for them to perform these services on our behalf. Each Service Provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use or disclosure. Service Providers are prohibited from using Personal Information other than as specified by pCloud.
-</p>
+    <h3>10. What Privacy Choices Are Available To You?</h3>
+    <p>At pCloud, we want to give you maximum control over your personal data. <a href="https://www.pcloud.com/help/privacy.html">Learn here</a> how you can manage your information.
+    </p>
 
-<h3>Other Transfers</h3>
-<p>
-We may share Personal Information and Usage Data with businesses controlling, controlled by or under common control with pCloud. If pCloud is merged, acquired or sold or in the event of a transfer of some or all of our assets, we may disclose or transfer Personal Information and Usage Data in connection with such transaction. You will have the opportunity to opt out of any such transfer if, in our discretion, the new entity plans to handle your information in a way that differs materially from this Privacy Policy.
-</p>
+    <h3>11. What Are Your Rights?</h3>
+    <p>In this section, we have summarized the rights that you have under data protection law. For a more detailed explanation of your rights, please refer to the relevant laws and guidance from the regulatory authorities.</p>
+    <p>
+        <strong>The right to be informed</strong>
+        <br> pCloud’s Privacy Policy describes our practices in detail using simple language. Everything you need to know is here. If you have more questions, feel free to contact us at <a href="mailto:privacy@pcloud.com">privacy@pcloud.com</a>.</p>
+    <p>
+        <strong>The right to rectification</strong>
+        <br>If you believe we have the wrong data about you, or that your data is incomplete, feel free to change it at any time through your Account settings. <a href="https://www.pcloud.com/help/privacy.html">Learn here</a> how you can manage your information.</p>
+    <p>
+        <strong>The right to erasure</strong>
+        <br>When you delete your pCloud account your data and files are deleted from your devices without undue delay.
+    </p>
+    <p>
+        <strong>The right to restrict processing</strong>
+        <br>You can temporary restrict the processing of your data by suspending your account. Suspended accounts are kept for 3 months, unless specifically stated otherwise. During this period the account can be restored at any time and information or files will be lost. At the end of the period non-restored accounts are deleted automatically and information is deleted. Contact us at <a href="mailto:privacy@pcloud.com">privacy@pcloud.com</a> to request account suspensions by stating your reasons.
+    </p>
+    <p>
+        <strong>The right to data portability</strong>
+        <br> Contact us at
+        <a href="mailto:privacy@pcloud.com">privacy@pcloud.com</a> to request a copy of the data we store about you. Once it is ready, you will receive the file via email.
+    </p>
+    <p>
+        <strong>The right of access</strong>
+        <br> Read our privacy policy for details about what data is processed by us. Contact us at <a href="mailto:privacy@pcloud.com">privacy@pcloud.com</a> if you have further questions.
+    </p>
+    <p>
+        <strong>The right to object</strong>
+        <br> On top of the ability to opt out of processing by changing your settings, you can object to the processing of certain forms of data, as described in <a href="https://www.pcloud.com/help/privacy.html">Privacy Options</a>. Contact us at <a href="mailto:privacy@pcloud.com">privacy@pcloud.com</a> if you have further questions.
+    </p>
+    <p>
+        <strong>The right to appeal automated decisions and profiling</strong>
+        We may make an automated decision to block a user, in case we suspect this user is using our services for illegal acts or acts that violate our terms of use. If you believe that your account was unlawfully blocked, you can contact our support team.
+    </p>
+    <p>
+        <strong>Note that filing multiple claims might be subject to a fee, not exceeding 10 GBP.</strong>
+    </p>
 
-<h3>Compliance with Laws and Law Enforcement</h3>
-<p>
-pCloud cooperates with government and law enforcement officials (and private parties, outside of the European Union) to enforce and comply with the law. We may disclose Personal Information and any other information about you to government or law enforcement officials (and private parties, outside of the European Union) if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect the safety, property or rights of pCloud or of any third party, to prevent or stop any illegal, unethical or legally actionable activity, or to comply with the law.
-</p>
+    <h3>12. How Do We Protect Your Personal Data?</h3>
+    <p>We maintain technical, physical, and administrative security measures designed to provide reasonable protection for your Personal Data against loss, misuse, unauthorised access, disclosure, and alteration. The security measures include firewalls, data encryption, physical access controls to our data centres, and information access authorisation controls. While we are dedicated to securing our systems and Services, you are responsible for securing and maintaining the privacy of your password(s) and Account/profile registration information and verifying that the Personal Data we maintain about you is accurate and current. We are not responsible for protecting any Personal Data that we share with a third-party based on an account connection that you have authorised.</p>
 
-<h3>Be Careful When You Share Information with Others</h3>
-<p>
-Please be aware that whenever you share information on a publicly available profile page or any other public forum on the Site, that information may be accessed by others. In addition, please remember that when you share information in any other communications with third parties, that information may be passed along or made public by others. This means that anyone with access to such information can potentially use it for any purpose, including sending unsolicited communications.
-</p>
+    <p>In the unlikely event that a security breach which affects individuals’ rights and freedoms is discovered, according to our risk assesment policy, pCloud will inform those individuals without undue delay.</p>
 
-<h3>Security</h3>
-<p>
-We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. However, no data transmission over the Internet or other networks can be guaranteed to be 100% secure. As a result, while we strive to protect information transmitted on or through the Site or Services, we cannot and do not guarantee the security of any information you transmit on or through the Site or Services, and you do so at your own risk.
-</p>
+    <h3>13. Can Children Use Our Services?</h3>
+    <p>The Site and Services are intended for users who are 18 years old or older. We do not knowingly collect Personal Information from children under the age of 18. If we become aware that we have inadvertently received Personal Information from a child under the age of 18, we will delete such information from our records.</p>
 
-<h3>Links To Other Web Sites</h3>
-<p>
-Our Site and Services may contain links to other websites, or allow others to send you such links. A link to a third party's website does not mean that we endorse it or that we are affiliated with it. We do not exercise control over third-party websites. You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before providing any information to the website.
-</p>
+    <h3>14. Updates or Changes in Processing</h3>
+    <p>If we wish to use your personal data for a new purpose, not covered by this Privacy Policy, then we will provide you with a new notice explaining this new use prior to commencing the processing and setting out the relevant purposes and processing conditions. Where and whenever necessary, we will seek your prior consent to the new processing.</p>
 
-<h3>Children's Privacy</h3>
-<p>
-The Site and Services are intended for users who are 18 years old or older. We do not knowingly collect Personal Information from children under the age of 13. If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records.
-</p>
+    <p>We keep this Privacy Policy under regular review and we will place any updates on this web page <a href="https://www.pcloud.com/privacy_policy.html">https://www.pcloud.com/privacy_policy.html</a>. This Privacy Pollicy was last updated on 23.05.2018.</p>
 
-<h3>Processing in the European Union and the United States</h3>
-<p>
-Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province or country. Please be advised that we process and store all information on secure servers in the United States and/or the European Union. This is necessary in order to process your Personal Information. The laws in the United States or the European Union may not be as protective of your privacy as those in your location. By using our Site or Services and submitting Personal Information via the Site, you agree to this collection, use, transfer, and disclosure of your Personal Information and that such collection, use, transfer, and disclosure shall be governed by applicable laws in the United States and the European Union.
-</p>
+    <p>In other circumstances, if we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will become effective on the revision date, shown in the revised Privacy Policy. Your continued use of our Site or Services constitutes your consent to the revised Privacy Policy.</p>
 
-<h3>Your Rights (For Users in the European Union Only)</h3>
-<p>
-If you reside in the European Union, you have a legal right to a copy of all the personal information about you held by us. On request, we will provide you with a copy of this information subject to a fee not exceeding £10. You also have a right to correct any errors in that information.
-</p>
+    <h3>15. Contact Us</h3>
+    <p>You may contact us if you have general questions or concerns about this Privacy Policy and supplemental notices or the way in which we handle your Personal Data. <br>Our Data Protection Officer can be contacted at <a href="mailto:privacy@pcloud.com">privacy@pcloud.com</a></p>
 
-<h3>Privacy Policy Changes</h3>
-<p>
-From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will become effective on the revision date, shown in the revised Privacy Policy. Your continued use of our Site or Services constitutes your consent to the revised Privacy Policy.
-</p>
-
-<p><em>Revised: <strong>12 Aug 2016</strong></em></p>			</div>
+    <h3>16. Definitions</h3>
+    <p><strong>Account</strong> means a pCloud member account.</p>
+    <p><strong>Device Information </strong> means data that can be automatically collected from any device used to access the Site or Services. Such information may include, but is not limited to, your device type; your device’s network connections; your device’s name; your device IP address; information about your device’s web browser and internet connection you use to access the Site or Services;</p>
+    <p><strong>Guest Usage</strong> means a person’s Use of the Services without logging into and/or establishing an Account.</p>
+    <p><strong>pCloud</strong> means pCloud AG, LTD and subsidiaries or affiliates. In this Privacy Policy, pCloud  is sometimes referred to as “we,” “us,” or “our,” depending on the context.</p>
+    <p><strong>Personal Data</strong> means information that can be associated with an identified or directly or indirectly identifiable natural person. “Personal Data” can include, but is not limited to, name, telephone number, email address, date of birth.</p>
+    <p><strong>Process</strong> means any method or way that we handle Personal Data or sets of Personal Data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, and consultation, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction of Personal Data.</p>
+    <p><strong>Services</strong> means any products, services, content, features, technologies, or functions, and all related websites, applications and services offered to you by pCloud with an Account or Guest Usage.</p>
+    <p><strong>Sites</strong> means the websites, mobile apps, official social media platforms, or other online properties through which pCloud offers the Services and which has posted or linked to this Privacy Policy.</p>
+    <p><strong>Technical Usage Data</strong> means information we collect from your phone, computer or other device that you use to access the Sites or Services. Technical Usage Data tells us how you use the Sites and Services, such as what you have searched for and viewed on the Sites and the way you use our Services, including your IP address, statistics regarding how pages are loaded or viewed, the websites you visited before coming to the Sites and other usage and browsing information collected through Cookies.</p>
+    <p><strong>User</strong> means an individual who uses the Services or accesses the Sites and has established a relationship with pCloud (for example, by opening an Account and agreeing to the pCloud Terms of Service) or otherwise uses the Services for Guest Usage.</p>
+</div>			</div>
 		</div>
 	</div>
 </div>
@@ -754,17 +880,17 @@ $(document).ready(function() {
 
 	<footer>
 					<div class="footer-menu">
-				<h4><img data-lazy="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" class="toggle">pCloud</h4>
+				<h4><img data-lazy="//pcdn-www.pcloud.com/ZiW/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/ZiW/images/newsletter-pointer.png" class="toggle">pCloud</h4>
 				<ul>
 									<li><a class="" href="/download-free-online-cloud-file-storage.html">Download</a></li>
-									<li><a class="" href="/cloud-storage-pricing-plans.html">Premium</a></li>
+									<li><a class="" href="/cloud-storage-pricing-plans.html">Pricing</a></li>
 									<li><a class="" href="/encrypted-cloud-storage.html">Crypto</a></li>
-									<li><a class="" href="/cloud-storage-for-business.html">Business</a></li>
+									<li><a class="" href="/business.html">Business</a></li>
 									<li><a class="" target="_blank" href="https://transfer.pcloud.com">Transfer</a></li>
 								</ul>
 			</div>
 					<div class="footer-menu">
-				<h4><img data-lazy="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" class="toggle">Features</h4>
+				<h4><img data-lazy="//pcdn-www.pcloud.com/ZiW/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/ZiW/images/newsletter-pointer.png" class="toggle">Features</h4>
 				<ul>
 									<li><a class="" href="/features/file-management.html">File Management</a></li>
 									<li><a class="" href="/features/file-sharing.html">Sharing</a></li>
@@ -774,26 +900,29 @@ $(document).ready(function() {
 								</ul>
 			</div>
 					<div class="footer-menu">
-				<h4><img data-lazy="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" class="toggle">Company</h4>
+				<h4><img data-lazy="//pcdn-www.pcloud.com/ZiW/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/ZiW/images/newsletter-pointer.png" class="toggle">Company</h4>
 				<ul>
 									<li><a class="" href="/company/about.html">About us</a></li>
 									<li><a class="" href="/company/certification.html">Certification</a></li>
+									<li><a class="" target="_blank" href="https://www.pcloud.com/gdpr/">GDPR</a></li>
 									<li><a class="" href="/company/press.html">Press Center</a></li>
 									<li><a class="" href="/testimonials.html">Testimonials</a></li>
 									<li><a class="" target="_blank" href="https://blog.pcloud.com/">The pCloud Blog</a></li>
+									<li><a class="" target="_blank" href="https://blog.pcloud.com/jobs/">Careers</a></li>
 								</ul>
 			</div>
 					<div class="footer-menu">
-				<h4><img data-lazy="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" class="toggle">Help Center</h4>
+				<h4><img data-lazy="//pcdn-www.pcloud.com/ZiW/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/ZiW/images/newsletter-pointer.png" class="toggle">Help Center</h4>
 				<ul>
 									<li><a class="" href="/help/general-help-center/">F.A.Q.</a></li>
+									<li><a class="" href="/help/privacy.html">Privacy Options</a></li>
 									<li><a class="" href="/company/contactus.html">Contact Us</a></li>
 									<li><a class="" href="/request-help.html">Request Help</a></li>
 									<li><a class="" href="/release-notes/windows.html">Release Notes</a></li>
 								</ul>
 			</div>
 					<div class="footer-menu">
-				<h4><img data-lazy="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" class="toggle">Community</h4>
+				<h4><img data-lazy="//pcdn-www.pcloud.com/ZiW/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/ZiW/images/newsletter-pointer.png" class="toggle">Community</h4>
 				<ul>
 									<li><a class="" href="/affiliate.html">Affiliate Program</a></li>
 									<li><a class="" target="_blank" href="https://my.pcloud.com/#page=referral">Referral Program</a></li>
@@ -807,24 +936,24 @@ $(document).ready(function() {
 				<div class="follow_headline">Follow Us</div>
 				<div class="follow-buttons">
 					<a href="https://www.facebook.com/pCloudapp" target="_blank">
-						<img class="ico-off" data-src="//pcdn-www.pcloud.com/Z49/images/footer/f.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/f@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/f.png" width="32">
-						<img class="ico-on" data-src="//pcdn-www.pcloud.com/Z49/images/footer/f-a.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/f-a@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/f-a.png" width="32">
+						<img class="ico-off" data-src="//pcdn-www.pcloud.com/ZiW/images/footer/f.png" data-src-retina="//pcdn-www.pcloud.com/ZiW/images/footer/f@2x.png" src="//pcdn-www.pcloud.com/ZiW/images/footer/f.png" width="32">
+						<img class="ico-on" data-src="//pcdn-www.pcloud.com/ZiW/images/footer/f-a.png" data-src-retina="//pcdn-www.pcloud.com/ZiW/images/footer/f-a@2x.png" src="//pcdn-www.pcloud.com/ZiW/images/footer/f-a.png" width="32">
 					</a>
 					<a href="https://plus.google.com/110291492066379393780/posts" target="_blank">
-						<img class="ico-off" data-src="//pcdn-www.pcloud.com/Z49/images/footer/g.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/g@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/g.png" width="32">
-						<img class="ico-on" data-src="//pcdn-www.pcloud.com/Z49/images/footer/g-a.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/g-a@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/g-a.png" width="32">
+						<img class="ico-off" data-src="//pcdn-www.pcloud.com/ZiW/images/footer/g.png" data-src-retina="//pcdn-www.pcloud.com/ZiW/images/footer/g@2x.png" src="//pcdn-www.pcloud.com/ZiW/images/footer/g.png" width="32">
+						<img class="ico-on" data-src="//pcdn-www.pcloud.com/ZiW/images/footer/g-a.png" data-src-retina="//pcdn-www.pcloud.com/ZiW/images/footer/g-a@2x.png" src="//pcdn-www.pcloud.com/ZiW/images/footer/g-a.png" width="32">
 					</a>
 					<a href="https://twitter.com/pCloudapp" target="_blank">
-						<img class="ico-off" data-src="//pcdn-www.pcloud.com/Z49/images/footer/t.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/t@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/t.png" width="32">
-						<img class="ico-on" data-src="//pcdn-www.pcloud.com/Z49/images/footer/t-a.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/t-a@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/t-a.png" width="32">
+						<img class="ico-off" data-src="//pcdn-www.pcloud.com/ZiW/images/footer/t.png" data-src-retina="//pcdn-www.pcloud.com/ZiW/images/footer/t@2x.png" src="//pcdn-www.pcloud.com/ZiW/images/footer/t.png" width="32">
+						<img class="ico-on" data-src="//pcdn-www.pcloud.com/ZiW/images/footer/t-a.png" data-src-retina="//pcdn-www.pcloud.com/ZiW/images/footer/t-a@2x.png" src="//pcdn-www.pcloud.com/ZiW/images/footer/t-a.png" width="32">
 					</a>
 					<a href="https://www.instagram.com/pcloud/" target="_blank">
-						<img class="ico-off" data-src="//pcdn-www.pcloud.com/Z49/images/footer/in.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/in@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/in.png" width="32">
-						<img class="ico-on" data-src="//pcdn-www.pcloud.com/Z49/images/footer/in-a.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/in-a@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/in-a.png" width="32">
+						<img class="ico-off" data-src="//pcdn-www.pcloud.com/ZiW/images/footer/in.png" data-src-retina="//pcdn-www.pcloud.com/ZiW/images/footer/in@2x.png" src="//pcdn-www.pcloud.com/ZiW/images/footer/in.png" width="32">
+						<img class="ico-on" data-src="//pcdn-www.pcloud.com/ZiW/images/footer/in-a.png" data-src-retina="//pcdn-www.pcloud.com/ZiW/images/footer/in-a@2x.png" src="//pcdn-www.pcloud.com/ZiW/images/footer/in-a.png" width="32">
 					</a>
 					<a href="https://www.youtube.com/channel/UCdiQK9arQfrgtxAclns9p2g" target="_blank">
-						<img class="ico-off" data-src="//pcdn-www.pcloud.com/Z49/images/footer/y.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/y@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/y.png" width="32">
-						<img class="ico-on" data-src="//pcdn-www.pcloud.com/Z49/images/footer/y-a.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/y-a@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/y-a.png" width="32">
+						<img class="ico-off" data-src="//pcdn-www.pcloud.com/ZiW/images/footer/y.png" data-src-retina="//pcdn-www.pcloud.com/ZiW/images/footer/y@2x.png" src="//pcdn-www.pcloud.com/ZiW/images/footer/y.png" width="32">
+						<img class="ico-on" data-src="//pcdn-www.pcloud.com/ZiW/images/footer/y-a.png" data-src-retina="//pcdn-www.pcloud.com/ZiW/images/footer/y-a@2x.png" src="//pcdn-www.pcloud.com/ZiW/images/footer/y-a.png" width="32">
 					</a>
 				</div>
 				<div class="follow_sep for_mobile"></div>
@@ -875,6 +1004,12 @@ $(document).ready(function() {
 									</a>
 								</div>
 															<div class="each-lang">
+								  	<a class="set-lang" href="/de/privacy_policy.html" data-lang="de">
+										<span class="name">Deutsch</span>
+										<span class="flag"><span class="load-bg de"></span></span>
+									</a>
+								</div>
+															<div class="each-lang">
 								  	<a class="set-lang" href="/it/privacy_policy.html" data-lang="it">
 										<span class="name">Italiano</span>
 										<span class="flag"><span class="load-bg it"></span></span>
@@ -892,12 +1027,6 @@ $(document).ready(function() {
 										<span class="flag"><span class="load-bg pt"></span></span>
 									</a>
 								</div>
-															<div class="each-lang">
-								  	<a class="set-lang" href="/fa/privacy_policy.html" data-lang="fa">
-										<span class="name">فارسی</span>
-										<span class="flag"><span class="load-bg fa"></span></span>
-									</a>
-								</div>
 
 							<div class="langs-arrow-border"></div>
 							<div class="langs-arrow"></div>
@@ -907,6 +1036,7 @@ $(document).ready(function() {
 			</div>
 		</div>
 	</div>
+	<div class="cookie_consent_holder"></div>
 </div>
 
 <div class="mob_menu_overlay"></div>
@@ -996,8 +1126,7 @@ $(document).ready(function() {
 
                         <div class="check_box accept-terms">
                             <label>
-                                <input required="" type="checkbox" name="trms" class="input" data-tooltip="" data-tooltip-type="error" data-tooltip-margin="1"> I accept pCloud's                            </label>
-                            <a href="/terms_and_conditions.html" target="_blank">Terms of Use</a>
+                                <input required="" type="checkbox" name="trms" class="input" data-tooltip="" data-tooltip-type="error" data-tooltip-margin="1"> I Accept pCloud's <a href="https://www.pcloud.com/terms_and_conditions.html" target="_blank">Terms of Service</a>, <a href="https://www.pcloud.com/privacy_policy.html" target="_blank">Privacy Policy</a> and <a href="https://www.pcloud.com/int_pr_policy.html" target="_blank">Intellectual Property Policy</a>                            </label>
                         </div>
                     </div>
 
@@ -1020,7 +1149,7 @@ $(document).ready(function() {
 				<div class="content">
 					<div class="left_box">
 						<div class="mobile mob_heading">Take your files anywhere you go!</div>
-						<img class="app_image" src="//pcdn-www.pcloud.com/Z49/images/lazy-load.png" width="540">
+						<img class="app_image" src="//pcdn-www.pcloud.com/ZiW/images/lazy-load.png" width="540">
 					</div><!--
 				 --><div class="right_box">
 						<h1>To use pCloud at its full potential download <b>pCloud Drive</b></h1>
@@ -1029,16 +1158,16 @@ $(document).ready(function() {
 				 --><div class="mobile button_box">
 						<a href="javascript:;" class="btn_badge">
 							<span style="left: 28%;z-index: 6;"></span>
-							<img src="//pcdn-www.pcloud.com/Z49/images/lazy-load.png" width="193">
+							<img src="//pcdn-www.pcloud.com/ZiW/images/lazy-load.png" width="193">
 						</a>
 						<a href="https://cafebazaar.ir/app/com.pcloud.pcloud/?l=fa" class="iran_playstore">
-							<img src="//pcdn-www.pcloud.com/Z49/images/iran_playstore@2x.png" data-lazy="//pcdn-www.pcloud.com/Z49/images/iran_playstore@2x.png" alt="">
+							<img src="//pcdn-www.pcloud.com/ZiW/images/iran_playstore@2x.png" data-lazy="//pcdn-www.pcloud.com/ZiW/images/iran_playstore@2x.png" alt="">
 						</a>
 						<div class="for_android dw-apk">
 							<span class="or_apk">or</span>
 							<a href="javascript:;" data-gevent="Mid Download Android button" data-download="Android apk" class="apk_badge">
 								<span style="font-size: 10px;z-index: 6;margin: 0;text-align: left;width: inherit;top: 5%;">Download</span>
-								<img src="//pcdn-www.pcloud.com/Z49/images/p_mob/apk_badge.png" data-lazy="//pcdn-www.pcloud.com/Z49/images/p_mob/apk_badge.png" style="margin-bottom: 0;" width="193" alt="Download pCloud.apk">
+								<img src="//pcdn-www.pcloud.com/ZiW/images/p_mob/apk_badge.png" data-lazy="//pcdn-www.pcloud.com/ZiW/images/p_mob/apk_badge.png" style="margin-bottom: 0;" width="193" alt="Download pCloud.apk">
 							</a>
 						</div>
 					</div>
@@ -1071,11 +1200,11 @@ $(function() {
 				'eventName': 'Mid Download Android button'
 			},
 			'windows phone': {
-				'text': "Get it from",
-				'link': "https://www.microsoft.com/en-us/store/p/pcloud-free-cloud-storage/9nblggh4wnqj",
-				'image': 'images/p_mob/microsoft_badge.png',
-				'eventName': 'Mid Download WinPhone button'
-			},
+				'image': 'images/p_mob/microsoft_badge.png'
+				/*'text': ''
+				'link': ''
+				'eventName': 'Mid Download WinPhone button' */
+			}
 		};
 
 		function imageHeight() {
@@ -1089,7 +1218,7 @@ $(function() {
 		}
 
 		dwAppImage.attr('width', '');
-		dwAppImageSource = '//pcdn-www.pcloud.com/Z49/images/download_app/download_' + 'mob_' + pCloud.osShort.replace(' ', '') + '.png';
+		dwAppImageSource = '//pcdn-www.pcloud.com/ZiW/images/download_app/download_' + 'mob_' + pCloud.osShort.replace(' ', '') + '.png';
 
 		storeButton.find('img').attr('src', getItOn[pCloud.osShort].image);
 		storeButton.find('span').html(getItOn[pCloud.osShort].text);
@@ -1108,7 +1237,7 @@ $(function() {
 
 		imageHeight();
 	} else {
-		dwAppImageSource = '//pcdn-www.pcloud.com/Z49/images/download_app/download_' + pCloud.osShort + (pCloud.isRetina ? '@2x.png' : '.png');
+		dwAppImageSource = '//pcdn-www.pcloud.com/ZiW/images/download_app/download_' + pCloud.osShort + (pCloud.isRetina ? '@2x.png' : '.png');
 	}
 
 	dwAppImage.attr('src', dwAppImageSource);
@@ -1137,7 +1266,7 @@ $(function() {
                         </div>
 
                         <div class="reset_success">
-                            <img src="//pcdn-www.pcloud.com/Z49/images/check-green.png">
+                            <img src="//pcdn-www.pcloud.com/ZiW/images/check-green.png">
                             Check your e-mail for further instructions.                        </div>
                     </div>
 
@@ -1240,7 +1369,7 @@ $(function() {
 			<div class="modal_inner">
 				<div class="content">
 					<div class="discount">
-						<img src="//pcdn-www.pcloud.com/Z49/images/p_promo/lifetime_promo_modal.png" data-src="//pcdn-www.pcloud.com/Z49/images/p_promo/lifetime_promo_modal.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/p_promo/lifetime_promo_modal@2x.png" width="640">
+						<img src="//pcdn-www.pcloud.com/ZiW/images/p_promo/lifetime_promo_modal.png" data-src="//pcdn-www.pcloud.com/ZiW/images/p_promo/lifetime_promo_modal.png" data-src-retina="//pcdn-www.pcloud.com/ZiW/images/p_promo/lifetime_promo_modal@2x.png" width="640">
 					</div>
 					<div class="h1">pCloud offers a new industry first LIFETIME PLAN!</div>
 					<div class="h2">You buy it once, you keep it forever!</div>
@@ -1253,69 +1382,13 @@ $(function() {
 		</div>
 	</div>
 </div>
-<div class="modal black_friday">
-	<div class="modal_holder">
-		<div class="modal_wrap">
-			<div class="modal_inner">
-				<div class="content">
-					<img class="promo_img" src="//pcdn-www.pcloud.com/Z49/images/black_friday_discount.png" data-src="//pcdn-www.pcloud.com/Z49/images/black_friday_discount.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/black_friday_discount@2x.png" width="184">
-					<div class="h1">Black Friday &amp; Cyber Monday DEAL</div>
-					<div class="h2">Hurry and get 50% off your Premium + Crypto order</div>
-					<div class="bottom">
-						<a href="https://www.pcloud.com/black-friday" target="_blank" class="btn" onclick="gaAll('event','ShopNowModal','click');">Grab deal</a>
-					</div>
-					<div class="promo_note">Offer ends on 28.11.2017. Applicable for annual plans only</div>
-				</div>
-				<img class="close" src="//pcdn-www.pcloud.com/Z49/images/bf_modal_close.png" data-src="//pcdn-www.pcloud.com/Z49/images/bf_modal_close.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/bf_modal_close@2x.png" width="30">
-			</div>
-		</div>
-	</div>
-</div>
-<div class="modal christmas_2017">
-	<div class="modal_holder">
-		<div class="modal_wrap">
-			<div class="modal_inner">
-				<div class="content">
-					<div class="h1">Unwrap your Christmas present early!</div>
-
-					<div class="ribbon_wrap">
-						<img class="left_rib for_desktop for_tablet" src="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/left-corner.png" data-src="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/left-corner.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/left-corner@2x.png" width="70">
-						<img class="left_rib for_mobile" src="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/left-corner-mobile.png" width="52">
-						<div class="mid_rib">
-							<b></b><b></b>
-							<span data-offer="1">50% OFF SUPER BUNDLE</span>
-							<span data-offer="2">LIFETIME SUPER BUNDLE</span>
-						</div>
-						<img class="right_rib for_desktop for_tablet" src="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/right-corner.png" data-src="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/right-corner.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/right-corner@2x.png" width="70">
-						<img class="right_rib for_mobile" src="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/right-corner-mobile.png" width="52">
-					</div>
-
-					<div class="bundle_name" data-offer="1">
-						2TB Premium<div class="plus_sign"><b></b><i></i></div><!--
-					 -->Extended file history<div class="plus_sign"><b></b><i></i></div><!--
-					 -->Crypto
-					</div>
-					<div class="bundle_name" data-offer="2">
-						2TB Premium Lifetime<div class="plus_sign"><b></b><i></i></div><!--
-					 -->Crypto Lifetime
-					</div>
-					<div class="bottom">
-						<a href="https://www.pcloud.com/christmas-2017" target="_blank" class="btn" onclick="gaAll('event','ShopNowModal','click');">Get your bundle</a>
-					</div>
-				</div>
-				<img class="close for_desktop for_tablet" src="//pcdn-www.pcloud.com/Z49/images/chrs_close.png" data-src="//pcdn-www.pcloud.com/Z49/images/chrs_close.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/chrs_close@2x.png" width="30">
-				<img class="close for_mobile" src="//pcdn-www.pcloud.com/Z49/images/chrst-close-mobile.png" width="30">
-			</div>
-		</div>
-	</div>
-</div>
 <div class="notify_bar_wrap is_closed">
 	<div class="nt_inner">
 		<div class="open_text">
-			<img class="jingle" src="//pcdn-www.pcloud.com/Z49/images/notifications/bell.png" data-src="//pcdn-www.pcloud.com/Z49/images/notifications/bell.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/notifications/bell@2x.png" width="16">
+			<img class="jingle" src="//pcdn-www.pcloud.com/ZiW/images/notifications/bell.png" data-src="//pcdn-www.pcloud.com/ZiW/images/notifications/bell.png" data-src-retina="//pcdn-www.pcloud.com/ZiW/images/notifications/bell@2x.png" width="16">
 		</div>
 		<div class="notify_content">
-			<img class="close_notify" src="//pcdn-www.pcloud.com/Z49/images/notifications/bell_close.png" data-src="//pcdn-www.pcloud.com/Z49/images/notifications/bell_close.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/notifications/bell_close@2x.png" width="20">
+			<img class="close_notify" src="//pcdn-www.pcloud.com/ZiW/images/notifications/bell_close.png" data-src="//pcdn-www.pcloud.com/ZiW/images/notifications/bell_close.png" data-src-retina="//pcdn-www.pcloud.com/ZiW/images/notifications/bell_close@2x.png" width="20">
 			<div class="notify_headline">Notifications</div>
 			<div class="notify_message">Never miss a promo or update from us! Subscribe to receive them first!</div>
 			<div class="ask_for_notify">Subscribe</div>
@@ -1386,14 +1459,14 @@ $(function() {
 
 
 
-<script src="https://pcdn-my.pcloud.com/Z40/dist/js/common.js"></script>
-<script src="https://pcdn-my.pcloud.com/Z40/dist/js/global.js"></script>
-<script src="https://pcdn-my.pcloud.com/Z40/dist/js/global-lang.js"></script>
-<link rel="stylesheet" href="https://pcdn-my.pcloud.com/Z40/dist/css/common.css">
-<link rel="stylesheet" href="https://pcdn-my.pcloud.com/Z40/dist/css/global.css">
+<script src="https://pcdn-my.pcloud.com/ZiW/dist/js/global-lang.js"></script>
+<script src="https://pcdn-my.pcloud.com/ZiW/dist/js/common.js"></script>
+<script src="https://pcdn-my.pcloud.com/ZiW/dist/js/global.js"></script>
+<link rel="stylesheet" href="https://pcdn-my.pcloud.com/ZiW/dist/css/common.css">
+<link rel="stylesheet" href="https://pcdn-my.pcloud.com/ZiW/dist/css/global.css">
 
 <!--[if lt IE 9]>
-<script src="//pcdn-www.pcloud.com/Z49/js/ie/rem.js"></script>
+<script src="//pcdn-www.pcloud.com/ZiW/js/ie/rem.js"></script>
 <![endif]-->
 <script>
 // Password strenght
@@ -1582,60 +1655,37 @@ function evaluatePassword() {
 			check_pass_onblur();
 		}
 	});
+
 })(jQuery);
 
 
-if (!redirecting) {
+var hasCookieConsent = $.cookie('cookieconsent');
+!hasCookieConsent && subscribeForPcloudInit(function() {
+	if (!pCloud.user) {
+		addCookieConsent($('.cookie_consent_holder'));
+		$('body').addClass('cookie_consent');
+	}
+});
 
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	ga('create', 'UA-44134956-1', 'pcloud.com');
-	ga('create', 'UA-44134956-4', 'pcloud.com', { name: 'combined' });
-	ga('require', 'GTM-5PQPJLD');
-	ga('combined.require', 'displayfeatures');
-
-
-	function argSlice (args, b, e) {
-		var a = [];
-		for (var n = 0; n < args.length; ++n)
-			a.push(args[n]);
-		return a.slice(b, e);
-	};
-
-	function gaAll() {
-		var args = arguments;
-		if (arguments[0] == 'send')
-			args = argSlice(args, 1);
-		ga(function () {
-			var trackers = ga.getAll();
-			for (var n = 0; n < trackers.length; ++n)
-				trackers[n].send.apply(trackers[n], args);
-		});
-	};
-
-	gaAll('pageview');
-	} else {
-	function ga(){}; function gaAll(){};
+function mockGaFuncs() {
+	window.ga = function() {};
+	window.gaAll = function() {};
 }
 
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','//connect.facebook.com/en_US/fbevents.js');
+function mockFbqFuncs() {
+	window.fbq = function() {};
+}
 
-fbq('init', '280549965449042');
-fbq('track', "PageView");
+pCloudGlobals && pCloudGlobals.initTracking([{type: pCloudGlobals.GA_FLAG, onStart: initAnalytics, onDisabled: mockGaFuncs}, {type: pCloudGlobals.FBQ_FLAG, onStart: initFacebookTracking, onDisabled: mockFbqFuncs}]);
+
+subscribeForPcloudInit( function () {
+	initUnverifiedUsersAlert();
+			initShowPromoOffer();
+	} )
+
 
 
 	</script>
-
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=280549965449042&ev=PageView&noscript=1"/></noscript>
-
 
 
 </body></html>
