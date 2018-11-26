@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the huggies.com.au privacy policy that was archived on 2018-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180527023648id_/http%3A//www.kimberly-clark.com.au/en/others/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the huggies.com.au privacy policy that was archived on 2018-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181126162458id_/http%3A//www.kimberly-clark.com.au/en/others/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -31,6 +31,36 @@
     	<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="/scripts/bower_components/modernizr/modernizr.js"></script>
 		<script src="/scripts/s_code.js" type="text/javascript"></script>
       	<!-- S_Code -->
+		
+		
+		
+		
+		<script type="text/javascript">
+		
+			 function SearchSite(inField, e) {
+                var charCode;
+
+                if (e && e.which) {
+                    charCode = e.which;
+                } else if (window.event) {
+                    e = window.event;
+                    charCode = e.keyCode;
+                }
+
+                if (charCode == 13) {
+                    Search(inField);
+                    return false;
+                }
+            }
+
+            function Search(strval) {
+				window.location = "/en/others/googlesearch?q=" + strval.value;
+            }
+            function Searchbox() {
+				window.location = "/en/others/googlesearch?q=" + document.getElementById('txt_search').value;
+            }
+		</script>
+		
 		
 		
 
@@ -163,13 +193,11 @@
             <li class=""><a href="/en/our-company/our-leadership/">
 			Overview	  		  		  
 		  </a></li>
-            <li><a href="/en/our-company/our-leadership/craig-smith/">Craig Smith</a></li>
             <li><a href="/en/our-company/our-leadership/rahul-asthana/">Rahul Asthana</a></li>
             <li><a href="/en/our-company/our-leadership/stephen-r-brown/">Stephen R. Brown</a></li>
             <li><a href="/en/our-company/our-leadership/abby-drew/">Abby Drew</a></li>
             <li><a href="/en/our-company/our-leadership/liz-metz/">Liz Metz</a></li>
-            <li><a href="/en/our-company/our-leadership/crispin-powis/">Crispin Powis</a></li>
-            <li><a href="/en/our-company/our-leadership/elaine-pretorius/">Elaine Pretorius</a></li>
+            <li><a href="/en/our-company/our-leadership/george-papanikitas/">George Papanikitas</a></li>
             <li><a href="/en/our-company/our-leadership/julia-schembri/">Julia Schembri</a></li>
             <li><a href="/en/our-company/our-leadership/ignacio-suit/">Ignacio Suit</a></li>
             <li><a href="/en/our-company/our-leadership/geoff-walker/">Geoff Walker</a></li>
@@ -301,17 +329,6 @@
             <li><a href="/en/careers/current-opportunities/your-opportunity/">Your Opportunity</a></li>
           </ul>
         </li>
-        <li class="has-submenu"><a href="/en/careers/graduate-programs/">Graduate Programs</a><ul class="right-submenu">
-            <li class="back"><a href="#">Return</a></li>
-            <li class=""><a href="/en/careers/graduate-programs/">
-			Overview	  		  		  
-		  </a></li>
-            <li><a href="/en/careers/graduate-programs/marketing/">Marketing Graduate Program</a></li>
-            <li><a href="/en/careers/graduate-programs/sales/">Sales Graduate Program</a></li>
-            <li><a href="/en/careers/graduate-programs/application/">Application</a></li>
-            <li><a href="/en/careers/graduate-programs/support/">Support</a></li>
-          </ul>
-        </li>
       </ul>
     </li>
     <li class="has-submenu"><a href="/en/contact-us/">Contact Us</a><ul class="right-submenu">
@@ -356,13 +373,13 @@
                                     <li class="active has-form">
                                         <div class="row collapse">
                                             <div class="large-12 columns">
-												<form id="googleform" name="googleform" method="get" action="/en/others/googlesearch/">
+												<!--<form id="googleform" name="googleform" method="get" action="/en/others/googlesearch/">-->
 													<div class="mobile-search">
 																								<button><i class="fa fa-search"></i></button>
-										<input class="txt_search_blur" name="txt_search" id="txt_search" value="" type="text"><!-- img id="search_icon" src="/en/images/nav-search-icon2.png" -->
-														<input name="csrf" id="csrf" value="ID0R" type="hidden">
+										<input class="txt_search_blur" onkeypress="return SearchSite(this,event)" name="txt_search" id="txt_search" value="" type="text"><!-- img id="search_icon" src="/en/images/nav-search-icon2.png" -->
+													<!--	<input name="csrf" id="csrf" value="ID0R" type="hidden" />-->
 													</div>
-												</form> 
+												<!--</form> -->
                                             </div>
                                         </div>
                                     </li>
@@ -387,13 +404,13 @@
                 	<div class="small-12 columns contact-number-container show-for-medium-down">
                     	<div class="row">
                         	<div class="row">
-								<form id="googleform" name="googleform" method="get" action="/en/others/googlesearch/">
+								<!--<form id="googleform" name="googleform" method="get" action="/en/others/googlesearch/">-->
 									<div class="small-6 medium-8 columns mobile-search show-for-medium-down">
 																				<button><i class="fa fa-search"></i></button>
-										<input class="txt_search_blur" name="txt_search" id="txt_search" value="" type="text">
-										<input name="csrf" id="csrf" value="ID0R" type="hidden">
+										<input class="txt_search_blur" name="txt_search" onkeypress="return SearchSite(this,event)" id="txt_search" value="" type="text">
+										<!--<input name="csrf" id="csrf" value="ID0R" type="hidden" />-->
 									</div>
-								</form>
+								<!--</form>-->
                                 <div class="small-6 medium-4 columns social-media-buttons">
 									
 									
@@ -505,13 +522,11 @@
             <li class=""><a href="/en/our-company/our-leadership/">
 			Overview	  		  		  
 		  </a></li>
-            <li><a href="/en/our-company/our-leadership/craig-smith/">Craig Smith</a></li>
             <li><a href="/en/our-company/our-leadership/rahul-asthana/">Rahul Asthana</a></li>
             <li><a href="/en/our-company/our-leadership/stephen-r-brown/">Stephen R. Brown</a></li>
             <li><a href="/en/our-company/our-leadership/abby-drew/">Abby Drew</a></li>
             <li><a href="/en/our-company/our-leadership/liz-metz/">Liz Metz</a></li>
-            <li><a href="/en/our-company/our-leadership/crispin-powis/">Crispin Powis</a></li>
-            <li><a href="/en/our-company/our-leadership/elaine-pretorius/">Elaine Pretorius</a></li>
+            <li><a href="/en/our-company/our-leadership/george-papanikitas/">George Papanikitas</a></li>
             <li><a href="/en/our-company/our-leadership/julia-schembri/">Julia Schembri</a></li>
             <li><a href="/en/our-company/our-leadership/ignacio-suit/">Ignacio Suit</a></li>
             <li><a href="/en/our-company/our-leadership/geoff-walker/">Geoff Walker</a></li>
@@ -641,17 +656,6 @@
 			Overview	  		  		  
 		  </a></li>
             <li><a href="/en/careers/current-opportunities/your-opportunity/">Your Opportunity</a></li>
-          </ul>
-        </li>
-        <li class="has-submenu"><a href="/en/careers/graduate-programs/">Graduate Programs</a><ul class="right-submenu">
-            <li class="back"><a href="#">Return</a></li>
-            <li class=""><a href="/en/careers/graduate-programs/">
-			Overview	  		  		  
-		  </a></li>
-            <li><a href="/en/careers/graduate-programs/marketing/">Marketing Graduate Program</a></li>
-            <li><a href="/en/careers/graduate-programs/sales/">Sales Graduate Program</a></li>
-            <li><a href="/en/careers/graduate-programs/application/">Application</a></li>
-            <li><a href="/en/careers/graduate-programs/support/">Support</a></li>
           </ul>
         </li>
       </ul>
