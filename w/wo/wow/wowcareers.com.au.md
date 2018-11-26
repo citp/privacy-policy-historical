@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowcareers.com.au privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315000841id_/https%3A//www.woolworthsgroup.com.au/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowcareers.com.au privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126185524id_/https%3A//www.woolworthsgroup.com.au/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Woolworths Group
 
