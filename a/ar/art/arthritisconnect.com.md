@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthritisconnect.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526205226id_/http%3A//www.arthritisconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritisconnect.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126232208id_/http%3A//www.arthritisconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Arthritis Connect
 
