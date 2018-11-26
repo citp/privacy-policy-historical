@@ -1,109 +1,474 @@
-> *The following text is extracted and transformed from the curvefever.io privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120031803id_/http%3A//forum.curvefever.com/node/594) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curvefever.io privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126143708id_/http%3A//forum.curvefever.com/node/594) for the most accurate reproduction.*
 
-# Privacy Policy | Curve Fever
+# Privacy and Cookie Notice | Curve Fever
 
-Welcome to our website of Curve Fever. This privacy policy sets out how Curve Fever uses and protects any information that you give Curve Fever when you use this website.
+We are Hidden Monster Games B.V. We are based at Spuistraat 104 D, 1012 VA Amsterdam, The Netherlands. You can contact us at supporthiddenmonster.games if you have questions about data protection, or if you have any requests for resolving issues with your personal data.
 
-Curve Fever is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+We publish Curve Fever. Curve Fever is a game that can be played in your browser. We also operate related sites to our game, such as the forums or our company site. This privacy policy applies to our game and related sites. They are:
 
-Curve Fever may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 16th of March 2012 and has been updated on the 2nd of October 2012
-
-##  What we collect
-
-We may collect the following information:
-
-  * name
-  * contact information including email address
-  * geographical information such as ip address, country and time zone
-  * account information such as preferences
-  * game information such as rank, match history and number of plays
-  * statistical information such as which pages you visit
-  * payment information such as selected payment method
-  * demographic information such as postal code, preferences and interests
-  * other information relevant to customer surveys and/or offers
+  * curvefever.com
+  * curvefever.io
+  * curvefever.pro
+  * achtungdiekurve.net
+  * forum.curvefever.com
+  * forum.curvefever.pro
+  * hiddenmonster.games
 
 
 
-##  What we do with the information we gather
+In this privacy notice we describe:
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
+  * The ways we collect personal data about you when you play Curve Fever or subscribe to  our newsletter, when you visit our website, and why we do so,
+  * How we use your personal data, and
+  * The choices you have about your personal data.
 
 
 
-##  Security
+_As a controller, we are committed to a lawful, fair and transparent processing of personal data, adhering to the EU General Data Protection Regulation (GDPR)._
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+## 1\. The data we process
 
-##  How we use cookies
+When you play our game, make an account or a purchase of in-game currency, post or respond to messages on our forum, or interact with us, we process the following information:
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+  * Username and email address.
+  * The contents of forum posts, private messages and chat messages
+  * Account information (including a country if you provided one) and payment information.
+  * Login and navigational data.
+  * Bug reports, suggestions for improvements
+  * Customer support messages
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+In addition, when you visit our website or play our game, we and our analytics, payment and advertizing providers collect and process data such as your IP address and mobile device identifiers (such as your device ID, advertising ID, MAC address, IMEI), data about your device, such as device name and operating system, browser type and language, and data about how you use the game and website. For this purpose our partners are Google Analytics and DeltaDNA.
 
-There are two types of cookie you may encounter when using this site :
+## 2\. What do we use the data for, and on what legal basis
 
-First party cookies: these are our own cookies, controlled by us and used to provide information about usage of our site.
+We use username and email address to provide you with an account (a contract with you) or when you subscribe to our newsletter (on the basis of your consent).
 
-Third party cookies: these are cookies found in other companies’ internet tools which we are using to enhance our site.
+We use the content of forum posts, private messages and chat messages to provide you with the service (a contract with you) and to monitor content for compliance with our community rules (the legitimate interest of us and other players to have a safe environment to play our games in).
 
-###  First party cookies
+We use account information and payment information to provide you with the game, and the possibility to buy in-game currency (a contract with you).
 
-This site uses cookies in several places – we’ve listed each of them below with more details about why we use them and how long they will last.
+We use login and navigational data to help with navigating around web pages or accessing secure areas of the website (a contract with you). Without these cookies, the website cannot function properly.
 
-Cookies set by this website
+We use bug reports and suggestions for improvements for exactly those purposes: bug report and to communicate about possible improvement to our websites and games (our legitimate interest in being able to hear about issues with our service and to troubleshoot).
 
-Name |  Purpose |  Typical content |  Expires  
----|---|---|---  
-SESSxxxID |  Authentication session to prevent having to login multiple times in one browser session. |  A unique id that ties the current session to a database settings table |  One week  
-has_js |  This helps the website understand browser Javascript functionality |  An on/off flag that denotes whether or not the browser supports Javascript |  On site exit  
-curve-fever_cookiecontrol |  To hide the cookie confirmation popup |  Yes or No |  90 days  
-ccShowCookieIcon |  To remember your preferences to either show or hide the cookie control icon |  Yes or No |  90 days  
-CurveFever2 |  To facilitate the 'remember me' functionality |  account id, name and unique code that ties the computer to the account |  never (can be manually removed in ingame account panel)  
-CFRejoin |  To facilitate rejoining rooms when disconnected from servers |  Information about you and the room you are in |  On exiting a room, or on clicking away the rejoin popup  
+We use customers support message to provide support to you (a contract with you).
+
+We use analytics and advertising data, and social plug-ins to be able to allow third-parties to show you ads on our websites so that we can generate revenue (our legitimate interest). 
+
+## 3\. Who we share data with
+
+We do not actively share data with any third-parties, other than processors acting on our behalf.
+
+We have also engaged third-parties for analytics and advertising, and social plug-ins. How they capture and use data is described under Cookies and other technologies.
+
+Finally, as we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, bankruptcy, dissolution or similar event, your information may be part of the transferred assets.
+
+## 4\. How long and where do we store data
+
+If you made an account, we store data until you delete your account. We store other non-account related personal data that we collect for up to a year, and only aggregate data after that time. Aggregation data means that we can no longer look at data for individual players.
+
+When a third-party service provider is a controller, they may keep data as well, either for a shorter or longer period.
+
+We store newsletter subscriber information until such subscriber indicates they no longer want to receive the newsletter.
+
+We store analytics and advertising data (insofar we have access) for up to 5 years to be able to analyze seasonal and mid-term trends.
+
+## 5\. How do we protect data
+
+Taking into account the nature, scope, context and purpose of the processing, we have taken the following technical and organizational measures:
+
+  * Access to our database and user accounts with third-party service providers is protected with access control.
+  * Access to the database is limited, not all staff in our organization have full access.
+
+
+
+We do not actively monitor the security of our database and need to rely on our processors to notify us of any data breaches.
+
+## 6\. Transfer of your personal data
+
+You should also know that your personal data may be transferred from your home country to third parties. If you are an EU resident, this could imply that we also transfer data to countries that do not offer an adequate level of protection for your personal data. When we transfer this data, we will do so only when we have put in place appropriate safeguards to protect your personal data. Please contact us to get a copy of the safeguards that we have put in place.
+
+## 7\. Children
+
+Our Services are for users age 13 and over and we do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personal information to us please contact us at supporthiddenmonster.games.
+
+For residents of the EEA, where processing of personal information is based on consent, we will not knowingly engage in that processing for users under the age of consent established by applicable data protection law, either under 13 or under 16, depending on where you live.
+
+## 8\. Your rights
+
+If you reside in the European Union, you have the right to request access to your personal data that we process. You also have the right to rectify incorrect personal data or erase it in certain circumstances, to restrict or object to the processing of your personal data and to receive your data so that you can use it elsewhere (data portability).
+
+Where we process data based on your consent, you also have the right to withdraw your consent at any time but we would like to point out that this does not affect the lawfulness of the processing before the date that you withdrew your consent.
+
+If you would like to exercise any of the above right, you can do so by sending us a mail to privacyhiddenmonster.games . We will then start the process and provide you a link to access the personal data that Curve Fever has on you within 30 days. For your protection, we may take steps to verify identity before responding to your request.
+
+The rights and options described above are subject to limitations and exceptions under applicable law. In addition to those rights, you have the right to lodge a complaint with the relevant supervisory authority. However, we encourage you to contact us first, and we will do our very best to resolve your concern.
+
+You can also unsubscribe from our newsletter by clicking the “unsubscribe” link that each newsletter email has.
+
+## 9\. Cookies and other technologies
+
+Like most online services, we and our partners use cookies and similar technologies to provide and personalize our website, analyze use, target advertisements and prevent fraud. You can disable cookies in your browser settings, but some parts of the website may then not function properly. We have identified the following cookies placed on our website:
+
+**Name**
+
+| 
+
+**How Long**
+
+| 
+
+**Placed By**
+
+| 
+
+**Reason**  
   
-###  Third party cookies
-
-We use a number of suppliers who may also set cookies on their websites’ on its behalf. This site does not control the dissemination of these cookies. You should check the third party websites for more information about these.
-
-Provider |  Name |  Purpose |  More info  
 ---|---|---|---  
-Google Analytics |  _utma  
-_utmb  
-_utmc  
-_utmz |  These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. |  [Google Privacy policy](http://www.google.com/intl/en_uk/policies/privacy/)  
-ShareThis |  __unam  
-__stid  
-__uset  
-newAB |  These cookies are used to collect information about how visitors use the sharethis buttons. |  [ShareThis Privacy policy](http://sharethis.com/privacy)  
-Google Adsense |  _drt_  
-id |  These cookies are used by Google Adsense to serve advertisements |  [Google Privacy policy](http://www.google.com/intl/en_uk/policies/privacy/)  
-Google Plus button |  NID  
-PREF |  These cookies are used by Google Plus for their button |  [Google Privacy policy](http://www.google.com/intl/en_uk/policies/privacy/)  
   
-##  Links to other websites
+accessToken
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+| 
 
-##  Controlling your personal information
+100 years
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+| 
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at supportcurvefever.com
+Hidden Monster Games BV
 
+| 
 
+Your session authentication token to login to our game  
+  
+gameAddress
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+| 
 
-You may request details of personal information which we hold about you.
+100 years
 
-If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible. We will promptly correct any information found to be incorrect.
+| 
+
+Hidden Monster Games BV
+
+| 
+
+Address of the game server you were connect to, used for rejoining games.  
+  
+gameToken
+
+| 
+
+100 years
+
+| 
+
+Hidden Monster Games BV
+
+| 
+
+Access token to connect to latest game server, used for rejoining games.  
+  
+roomID
+
+| 
+
+100 years
+
+| 
+
+Hidden Monster Games BV
+
+| 
+
+The ID of the room you were connected to, used for rejoining games.  
+  
+cookieconsent_status
+
+| 
+
+1 year
+
+| 
+
+Hidden Monster Games BV
+
+| 
+
+Whether or not you accepted the cookie consent message.  
+  
+announcements-seen
+
+| 
+
+Forever
+
+| 
+
+Hidden Monster Games BV
+
+| 
+
+List of announcements you have seen so you don’t see them anymore.  
+  
+logLevel
+
+| 
+
+Forever
+
+| 
+
+Hidden Monster Games BV
+
+| 
+
+Type of messages logged in the console.  
+  
+curve-fever_cookiecontrol
+
+| 
+
+90 days
+
+| 
+
+Hidden Monster Games BV
+
+| 
+
+Store cookie preferences.  
+  
+sessionID
+
+| 
+
+Session
+
+| 
+
+DeltaDNA Ltd.
+
+| 
+
+Session ID for analytic tracking. With DeltaDNA (<https://deltadna.com/privacy/>)  
+  
+has_js
+
+| 
+
+Session
+
+| 
+
+Hidden Monster Games BV
+
+| 
+
+When a browser renders a page generated by Drupal (our forum software), a piece of JavaScript is executed which adds a cookie (has_js=1). This allows Drupal to generate different markup depending on whether the user agent is capable of executing JavaScript or not.  
+  
+_t
+
+_forum_session
+
+rack.session
+
+| 
+
+60 days
+
+60 days
+
+60 days
+
+| 
+
+Hidden Monster Games BV
+
+| 
+
+We use discourse forum software. The forum software ads cookies to track your session and keep you logged in after closing the browser  
+  
+_gat
+
+_ga  
+_gid
+
+| 
+
+1 minute
+
+2 years
+
+24 hours
+
+| 
+
+Google Inc.
+
+| 
+
+We use Google Analytics and Doubeclick. This is a web analytics service provided by Google, Inc. to count visitors to our websites and analyse their usage of the site to help us determine the value of our content to our users. [www.google.com/policies/privacy](http://www.google.com/policies/privacy).  
+  
+__gads
+
+OGPC
+
+NID
+
+SSID
+
+SAPSID
+
+APISID
+
+1P_JAR
+
+HSID
+
+SIDCC
+
+SID
+
+DSID
+
+IDE
+
+test_cookie
+
+| 
+
+2 days
+
+60 days
+
+6 months
+
+2 years
+
+2 years
+
+2 years
+
+2 years
+
+2 years
+
+2 years
+
+2 years
+
+1 hour
+
+25 days
+
+Session
+
+| 
+
+Google Inc.
+
+| 
+
+We use Google to serve you ads. Google uses cookies to make advertising more engaging to users and more valuable to publishers and advertisers. Some common applications of cookies are to select advertising based on what’s relevant to a user; to improve reporting on campaign performance; and to avoid showing ads the user has already seen. <https://policies.google.com/technologies/types>  
+  
+__ur_q
+
+__ur_
+
+ __bpn_uid
+
+__ur_dc
+
+__ur_dc
+
+_ga
+
+| 
+
+1 year
+
+1 year
+
+1 year
+
+1 year
+
+1 year
+
+1 year
+
+| 
+
+UserReport
+
+| 
+
+We use UserReport on our websites to gather feedback from users. UserReport causes some cookies to be created by UserReport. These cookies are used to gather information about surveys and feedback forms. Refer to UserReport's cookie policy for further details. <https://www.userreport.com/cookie-policy/>  
+  
+c_user
+
+presence
+
+datr
+
+xs
+
+sb
+
+spin
+
+pl
+
+act
+
+lu
+
+| 
+
+90 days
+
+session
+
+2 years
+
+session
+
+session
+
+session
+
+session
+
+session
+
+2 years
+
+| 
+
+Facebook
+
+| 
+
+We use the Facebook Like button to integrate our website with our page on Facebook.com - a common feature of websites these days. In doing so this causes some cookies to be created by Facebook that detect the number of "likes" and whether you are logged into Facebook or not. You should refer to Facebook's cookie policy here. At the last count Facebook use 12 cookies which all expire at the end of the browser session with the exception of datr (2 years), fr (2 months) and lu (2 years). <http://www.pickmaster.co.uk/cookie-policy>  
+  
+__cfduid
+
+| 
+
+1 year
+
+| 
+
+Cloudflare
+
+| 
+
+We use cloudflare to speed up loading times and protect our sites from attacks. Cookie assoiated with sites using CloudFlare, used to speed up page load times. According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from. It does not contain any user identification information. <https://www.cloudflare.com/cookie-policy/>     
+  
+## 10\. Version information
+
+This policy was last updated on 24 July 2018
+
+It can be viewed on: <http://forum.curvefever.com/content/privacy-and-cookie-notice>
