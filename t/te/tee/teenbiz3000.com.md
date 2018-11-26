@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teenbiz3000.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525162753id_/https%3A//www.achieve3000.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenbiz3000.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126043635id_/https%3A//www.achieve3000.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Achieve3000
 
-**Version Effective Date: November 6, 2015**
+**Version Effective Date: May 25, 2018**
 
 Achieve3000 is committed to assuring the privacy of student users (“Students”) of our educational products and services (“Services”), the teachers and administrators of educational institutions that subscribe to our Services (“Administrators”), and visitors to this Website.
 
@@ -26,9 +26,41 @@ Achieve3000 sometimes posts materials from Students on its Website and on-line S
 
 Achieve3000 makes reasonable efforts to secure Service Data against unauthorized access. These efforts include employment of physical, administrative, and technical safeguards based on currently available technology and practices to promote the integrity and security of the Services and Service Data.
 
-In certain of our Service materials we include links to other websites. This Privacy Policy does not apply to such external links, and we make no representations concerning the privacy policies followed by linked websites. We urge parents and teachers to learn more about protecting children on the Internet by visiting the following site: [SafeKids.com](http://www.safekids.com/).
+In certain of our Service materials we include links to other websites. This Privacy Policy does not apply to such external links, and we make no representations concerning the privacy policies followed by linked websites. We urge parents and teachers to learn more about protecting children on the Internet by visiting the following site: [U.S. Dept. of Education FERPA Guidelines](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/parents.html) and [SafeKids.com](http://www.safekids.com/).
 
-In the event that Achieve3000 is acquired by or merged with a third-party entity, we may transfer or assign Service Data as part of such merger, acquisition, sale, or other change of control, unless otherwise prohibited by applicable law.
+If Achieve3000 is acquired by or merged with a third-party entity, we may transfer or assign Service Data as part of such merger, acquisition, sale, or other change of control, unless otherwise prohibited by applicable law.
+
+ ** _Participation in the EU – US Privacy Shield Framework_  
+**
+
+Achieve3000 complies with the EU-U.S. Privacy Shield Framework and associated Privacy Shield Principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States (“EU Personal Data”).  Achieve3000 has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Framework and Privacy Shield Principles, please visit <https://www.privacyshield.gov/>
+
+For clarity, references to “you”, “your”, and terms regarding the exercise of rights mean and apply to the parents or legal guardians of individuals not deemed legally competent to accept the terms of or exercise the rights granted under this Privacy Policy.
+
+In compliance with the Privacy Shield Principles, Achieve3000 commits to resolve complaints about our collection or use of your EU Personal Data.  EU residents with inquiries or complaints regarding Achieve3000’s compliance with its Privacy Policy or the Privacy Shield Principles should first contact Achieve3000 at the following address:
+
+Achieve3000, Inc.  
+Customer Relations Office  
+1985 Cedar Bridge Avenue, Suite 3  
+Lakewood, NJ 08701  
+USA
+
+Or at the following e-mail address: office@achieve3000.com
+
+Achieve3000 has further committed to cooperate in the dispute resolution process for unresolved complaints established by the American Arbitration Association’s International Centre for Dispute Resolution (the “ICDR”), Achieve 3000’s independent recourse mechanism under the Privacy Shield program. EU residents who are users of Achieve3000’s Services (or their parents or guardians) may submit unresolved complaints against Achieve3000 to the ICDR. The applicable page of the ICDR’s website describing its role with the Privacy Shield program and providing information on the complaint resolution process can be accessed via the following URL:  <http://go.adr.org/privacyshield.html>.
+
+In addition to the foregoing, Achieve3000 has committed to cooperate with the Privacy Shield panel with regard to unresolved Privacy Shield complaints concerning data transferred from the EU.  You may seek binding arbitration before the Privacy Shield panel if your complaint remains unresolved after our attempts to resolve it directly or pursuant to the independent recourse mechanism described above.
+
+Consistent with the Privacy Policy terms applicable to Service Data above and Achieve3000’s adherence to the Privacy Shield principles, Achieve3000 notifies you as follows:
+
+  * Achieve3000 will not disclose your EU Personal Data to any third party except for service providers and contractors who enable Achieve3000 to provide the Services. Each such third party is contractually obligated to use EU Personal Data solely for such Services delivery purposes.
+  * You may access your EU User Data by contacting the applicable School; Achieve3000 will work with the School to respond to any such request.
+  * Achieve3000 uses EU Personal Data and associated Service Data solely for the purposes of providing its Services to Schools and their student recipients of its Services. Achieve3000 will limit its processing of your EU Personal Data consistent with its Services delivery agreement with the School and the School’s written instructions.
+  * Achieve3000’s commitment to this Privacy Policy and the Privacy Shield Principles is subject to the investigatory and enforcement powers of the United States Federal Trade Commission (the “FTC”). The FTC’s web site may be accessed at [ftc.gov](https://www.ftc.gov/). Consistent with the Privacy Shield Framework and Principles and the ICDR’s dispute resolution procedures, you may have the right to binding arbitration of your complaint or dispute regarding Achieve3000’s use of your EU Personal Data under certain circumstances.
+  * Achieve3000 may be required to disclose EU Personal Data pursuant to the lawful requests of public authorities, including to meet national security or law enforcement requirements.
+  * Achieve3000 retains responsibility for EU Personal Data that it transfers to third parties and liable for their improper use of those data.
+
+
 
  ** _General Terms for Website User Data_**
 
