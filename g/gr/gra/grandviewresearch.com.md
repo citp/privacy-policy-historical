@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandviewresearch.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201132205id_/http%3A//www.grandviewresearch.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandviewresearch.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126094150id_/https%3A//www.grandviewresearch.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, ensuring complete security and confidentiality for Grand View Research customer
 
@@ -13,6 +13,12 @@ Grand View Research, Inc. (“us,” “we,” or “Company”) is committed to
 #### 1.2. NOTICE CONCERNING CHILDREN
 
 PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children’s privacy online. If we learn or have reason to suspect that a Site user is under age 13, we will promptly delete any personal information in that user’s account.
+
+#### 1.3. ABOUT THE GENERAL DATA PROTECTION REGULATION
+
+The General Data Protection Regulation (GDPR) takes effect on May 25, 2018 and includes substantial changes to the European Union data protection laws. The purpose is to standardize data protection laws across the EU, enable people in the EU enhanced rights to their data and require businesses to meet technical and organizational controls around the collection and processing of personal data. The Company has made changes in line with these new standards, which changes are set forth below in Section 7.
+
+Please read this statement carefully and contact our Data Protection Officer at legal-eu@grandviewresearch.com if you have any questions about our privacy practices or your personal data choices, and please also feel free to contact your supervisory authority, contact details for which may be found here: <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>.
 
 ### 2\. INFORMATION COLLECTION PRACTICES
 
@@ -66,7 +72,7 @@ The Site may contain links to other websites. If you choose to visit other websi
 
 #### 6.1. CONTACTING US
 
-If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please contact us at the following:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database, please contact us at the following:legal@grandviewresearch.com.
 
 #### 6.2. UPDATES AND CHANGES
 
@@ -74,4 +80,56 @@ We reserve the right, at any time, to add to, change, update, or modify this Pol
 
 #### 6.3. UNSUBSCRIBE POLICY
 
-You can unsubscribe your name from our email/telephone and marketing lists by writing to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You can unsubscribe your name from our email/telephone and marketing lists by writing to us at legal@grandviewresearch.com.
+
+### 7\. GDPR PRIVACY POLICY
+
+If you are a user in an EU Member state, this Section 7 of the policy applies to you. Should you have any questions or concerns about this GDPR Privacy Policy, please feel free to contact the Company. The Global Headquarters of the Company are located at 201 Spear Street, Suite 1100, San Francisco, CA 94105 United States, and may be reached by calling + 1-888-202-9519 or by email at legal-eu@grandviewresearch.com. The Company’s Data Protection Officer is Brian Haven who may be reached at legal@grandviewresearch.com and please also feel free to contact your supervisory authority, contact details for which may be found here: <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>.
+
+#### 7.1. THE COMPANY AND YOUR PERSONAL DATA
+
+Your privacy is important to us, and we have prepared this Privacy Policy to explain how we collect, use, and protect your information when you use our Site, and to illustrate your choices for managing your information preferences. This includes your rights regarding your personal data in accordance with the EU GDPR. Personal data in this regard means any information relating to an identified or identifiable natural person. An identifiable natural person is one who can be identified, directly or indirectly, including by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+
+If you are a user in an EU Member state, please be advised that we transfer all information to the United States for storage and processing, and your consent to this Policy represents your consent to this transfer, storage, and processing.
+
+#### 7.2. PERSONAL DATA WE COLLECT
+
+When you register on our Site, request information, make a purchase from us or otherwise you provide us with information about you such as your name, username, password, email address, and phone number. When you make a purchase from us, we will collect your payment card information, but we do not store or process this information beyond providing it to our payment card processor.
+
+**Please see Section 2 above for further details about the personal data we collect and the additional data that we collect.**
+
+The legal basis for processing the personal data we collect (in accordance with the policies of the Company, including this Policy), as well as the mechanism for transferring that personal data from the European Union, is the affirmative consent you provide when interacting with our Site. **You may withdraw such consent at any time by email to our DPO at:** legal-eu@grandviewresearch.com.
+
+#### 7.3. HOW WE USE AND STORE YOUR PERSONAL DATA
+
+We use the personal data you provide through our Site to complete the sale of products, to alert you of updates to such purchased products, and to inform you of products we think you may be interested in. We will not share your personal data with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. We may use your personal data to verify your identity, to check your qualifications, or to follow up with transactions initiated on the Site. We may also use your contact information to inform you of any changes to the Site, or to send you additional information about the Company. If you give your permission during the account registration process, we may share your contact information with our business partners or other companies so that they may send you promotional materials.
+
+We use anonymous information to analyze our Site traffic. We may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences.
+
+We may use cookies to deliver content specific to your interests, to save your password so you don’t have to re-enter it each time you visit our site, or for other purposes. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site. You can change your web browser settings to not accept cookies, but doing so may impact your experience with our Site.
+
+Your information is not stored unless you purchase a product or otherwise submit a form providing affirmative consent for us to collect your personal data for providing the uses set forth herein. Your information will no longer be stored when it is no longer used for the purpose for which it has been collected.
+
+#### 7.4. SHARING AND DISCLOSURE OF PERSONAL DATA
+
+We use service providers to provide certain services to us, such as credit card processing, analytics tools, DNS providers, data management services, Web hosting, and Web development. We provide our service providers with only the information necessary for them to perform these services for the purpose of performance of our contractual obligations or for measures in preparation for such a contract with you upon request in accordance with Art. 6 (1) b GDPR.
+
+We may share information we collect with our affiliates. If the Company is merged, sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer information we collect in connection with such a transaction on the basis of our prevailing legitimate interests in participating in cooperating with our affiliates or being subject to such transactions in accordance with Art. 6 (1) f GDPR.
+
+We may disclose information about you to third parties if (a) that disclosure is necessary to comply with any applicable law, regulation, legal process, or governmental request (Art. 6 (1) GDPR), (b) to enforce our agreements, policies, and terms of service (Art. 6 (1) f GDPR), (c) to protect the security or integrity of our Services (Art. 6 (1) lit. f GDPR), (d) to protect the property, rights, and safety of us, our customers, or the public from harm or illegal activities (Art. 6 (1) f GDPR), (e) to respond in an emergency which we believe in good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person (Art. 6 (1) d GDPR), or (f) to investigate and defend ourselves against any third-party claims or allegations (Art. 6 para. 1 lit. f GDPR).
+
+#### 7.5. YOUR RIGHTS WITH RESPECT TO YOUR PERSONAL DATA
+
+7.5.1. You may review, correct, update, or change your account registration information by accessing your settings in your user profile on the Site or by contacting our DPO at legal-eu@grandviewresearch.com.
+
+7.5.2. With regard to any personal data processed by us in accordance with this privacy policy, you are by law entitled to:   
+7.5.2.1. Access your personal data processed by us;   
+7.5.2.2. Have your personal data rectified or erased (“right to be forgotten”);   
+7.5.2.3. Have the processing of your personal data restricted, effectively barring further access; and   
+7.5.2.4. Receive a copy of your personal data, request your personal data be transferred (“right to data portability”).
+
+7.5.3. In addition, you may object to any processing of your personal data, where such processing is legally based on our prevailing legitimate interests in accordance with Art. 6 (1) f GDPR by contacting our DPO at legal-eu@grandviewresearch.com or through any other contact provided under section 9 below and providing personal reasons why such processing should be discontinued. We will comply with your objection unless we can demonstrate prevailing legitimate interests in continuing to process your personal data, including the necessity of using your personal data for protecting legal claims or defending against such.
+
+7.5.4. Without regard to the foregoing, you may object to any processing of your personal data for advertising purposes without having to provide any reasons by contacting our DPO at legal-eu@grandviewresearch.com or through any other contact provided in the Policy.
+
+7.5.5. You may opt out of receiving promotional email communications from us by using the unsubscribe link included within each email. Even after you opt out from receiving promotional messages from us, you will continue to receive such messages from us regarding our products and services.
