@@ -1,547 +1,93 @@
-> *The following text is extracted and transformed from the toshiba.co.uk privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129065609id_/http%3A//www.toshiba.co.uk/uk/legal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba.co.uk privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126060817id_/http%3A//www.toshiba.co.uk/generic/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Toshiba
 
-Toshiba Information Systems (UK) Ltd of Toshiba Court, Weybridge Business Park, Addlestone Road, Weybridge, Surrey, KT15 2UL ("We" or “Toshiba”) are committed to protecting and respecting your privacy.
+**Toshiba of Europe is committed to protecting and respecting your privacy.**
 
-This policy (together with our terms of use available on our sites and any other documents referred to in them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This privacy policy explains how we use any personal information we collect about you when you use this website (the “Site”). We may revise this policy and would recommend that you check the current version and the date of issue, located at the base of this document.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Toshiba.
+ **Topics:**
 
-This policy applies to the websites (our sites): 
+  * Who are we?
+  * What information do we about you?
+  * How will we use the information about you?
+  * Marketing
+  * Access to your information and correction
+  * Webserver data
+  * Cookies
+  * Your right to lodge a complaint with the supervisory authority
+  * Other websites
+  * Protection of children
+  * Changes to our privacy policy
+  * How to contact us
 
-[http://www.toshiba.co.uk](http://www.toshiba.co.uk/)
 
-[http://uk.computers.toshiba-europe.com](http://uk.computers.toshiba-europe.com/)
 
-[http://ie.computers.toshiba-europe.com](http://ie.computers.toshiba-europe.com/)
+**Who are we?**
 
-[http://nordic.computers.toshiba-europe.com](http://nordic.computers.toshiba-europe.com/)
+We are Toshiba of Europe Limited, part of the Toshiba Corporation and we operate across Europe under the laws of the United Kingdom, the location of our headquarters. Our company number is 03468211 and we are registered at 3 Furzeground Way, Stockley Park, Uxbridge, Middlesex, UB11 1EZ, United Kingdom.
 
-<http://www.home-entertainment.toshiba.co.uk/>
+Toshiba of Europe Limited is the data controller responsible for your personal information processed via the Site.
 
-[http://www.toshiba-tv-dvd.dk](http://www.toshiba-tv-dvd.dk/)
+Toshiba of Europe Limited does not directly sell or offer any products, solutions or services to businesses or individuals across Europe. Toshiba’s individual divisions are separate businesses, and each has its own privacy policy which can be accessed via that division’s website.
 
-[http://www.toshiba-tv-dvd.no](http://www.toshiba-tv-dvd.no/)
+ **What information do we collect about you?**
 
-[http://www.toshiba-tv-dvd.se](http://www.toshiba-tv-dvd.se/)
+When you use this Site, Toshiba of Europe Limited collects statistical and usage information from your visit. Further details can be found within the Cookie policy and the Webserver data section of this document. Where your personal information is completely anonymised, we do not require a legal basis to use it as the information will no longer constitute personal information that is regulated under data protection laws.
 
-[http://www.toshiba-tv-dvd.fi](http://www.toshiba-tv-dvd.fi/)
+We also collect personal information when you voluntarily complete customer surveys, provide feedback on our website and participate in competitions. Toshiba of Europe Limited does not currently run such activity and in any future event you will be provided full, specific terms of data collection at the point of submission. It is in our legitimate interest to use any future, personal information you provide in this way in such a way to ensure that we provide the very best services to you.
 
-[http://www.toshiba-tv-dvd.ie](http://www.toshiba-tv-dvd.ie/)
+Toshiba of Europe Limited does collect website usage data via cookies. Further details on the specific cookies that are being used can be found within the Cookie policy document.
 
-[http://www.toshiba.dk](http://www.toshiba.dk/)
+ **How will we use the information about you?**
 
-[http://www.toshiba.no](http://www.toshiba.no/)
+Toshiba of Europe Limited does not collect any personal information about you on the Site other than usage data for analytical reasons, and we do not use this to identify any individual user. We do not store, have access to or use in any way personal information about you other than data related to your use of this Site.
 
-[http://www.toshiba.se](http://www.toshiba.se/)
+As outlined, we will be collecting information about your activity on this website via cookies. Further details are in the Cookies section of this document.
 
-[http://www.toshiba.fi](http://www.toshiba.fi/)
+ **Marketing**
 
-[http://www.toshiba.ie](http://www.toshiba.ie/)
+As outlined, Toshiba of Europe Limited does not directly provide any products, solutions or services to either businesses or individuals across Europe. Because of this, we will not be contacting you or be performing any marketing activity which might directly target you.
 
-Information we may collect from you
+If this website is used as part of any extended marketing activity for a Toshiba division, then information on any relevant cookies will be located within the Cookie policy. Further information on how to define the Google ad settings on your device can be found here: <http://www.google.co.uk/policies/privacy/ads/>.
 
-We may collect and process the following data about you:
+Additionally, Toshiba of Europe Limited does not directly perform or engage in any ‘retargeting’ or ‘remarketing’ activity, a technique which uses your online activity to customise offers, promotions or content for you on other websites. If this website is used as part of the remarketing activity for any Toshiba division, then information on any associated cookies will be found within the Cookie policy.
 
-·         Information that you provide by filling in forms on our sites. This includes information provided at the time of registering to use any of our sites, subscribing to a service, posting material or requesting further services. We may also ask you for information when you enter a competition, survey, contest or promotion sponsored by Toshiba, and if you report a problem with a site.
+ **Access to your information and correction**
 
-·         If you contact us, we may keep a record of that correspondence.
+As outlined within this document, Toshiba of Europe Limited does not collect or store any identifiable personal information about any individual. If you have any concerns that Toshiba of Europe Limited is holding any information which might identify you, then you have the right to request a copy of the information that we hold about you. Further information about data rights is set out below.
 
-·         Details of transactions you carry out through our site and of the fulfilment of your orders.
+To get in contact please email or write to us using the details found within our Corporate Information page. We may make a small charge for this service.
 
-·         Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
+ **Webserver data**
 
-·         Details of information which you enter on our chat rooms or discussion groups.
+When you visit the Site, as is usual on almost all websites, our server automatically collects information such as your IP address, the date and time of each visit to our website, how much data was processed and the pages visited on our website. We use this information to improve your website experience and do not use this information to identify you.
 
-**IP addresses** ****
+ **Cookies**
 
-We may collect information about your computer, including where available your IP address, operating system and browser type and for system administration. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track usage of the website and to compile statistical reports on website activity.
 
-Information about our use of cookies
+Further information on the cookies deployed, how they’re used and their retention period can be found within the [Cookie policy document](https://web.archive.org/generic/cookie-policy).
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
+ **Other websites**
 
-A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.
+The Site contains links to other websites, including Toshiba’s main corporation website and Toshiba division sites across Europe which are wholly owned and managed by those divisions. This privacy policy only applies to this website, so when you link to other websites you should read their specific privacy policies.
 
-The cookies we use are "analytical" and “functional” cookies. They allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+ **Protection of children**
 
-**Cookie**
+The Site is not addressed to children and young people under the age of 16. Children and young people under the age of 16 may not transmit any personal data over the Internet without the consent of their parent or guardian. As outlined, Toshiba of Europe Limited does not currently request personal information from site users and does not store any personal data known to belong to children.
 
-| 
+ **Changes to our privacy policy**
 
-**Name**
+We keep our privacy policy under regular review and we will place any updates on this Site. This privacy policy was last updated on 14.05.2018.
 
-| 
+ **Your right to lodge a complaint with the supervisory authority.**
 
-**Purpose**
+If you have a concern about any aspect of our privacy practices, you can report it to your local data protection regulator. The full list of local data protection authorities can be found at <http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080>
 
-| 
+Please contact us if you have any questions about our privacy policy or our commitment to protecting your data. Our contact details are located on our [Corporate Information](https://web.archive.org/generic/corporate-information) page.
 
-**More information**  
-  
----|---|---|---  
-  
- Session Cookie
+Version number: v1.0  
+Date of publication: 14.05.2018 
 
-| 
-
-ASP.NET_SessionId
-
-| 
-
-Provides the website with a session ID required for analytics
-
-|   
-  
-Server management
-
-| 
-
-X-Mapping-gbooldlg
-
-| 
-
-This is to optimise the user experience on the site, to ensure that for the duration of the visit the user is kept on a single server
-
-|   
-  
-Analytics
-
-| 
-
-usy46gabsosd
-
-| 
-
-To be used for the purpose of Toshiba’s internal website analytics
-
-|   
-  
-Analytics
-
-| 
-
-defaultcsaDBID
-
-| 
-
-To be used for the purpose of Toshiba’s internal website analytics
-
-|   
-  
-Analytics
-
-| 
-
-defaultcsauvt
-
-| 
-
-To be used for the purpose of Toshiba’s internal website analytics
-
-|   
-  
-Analytics
-
-| 
-
-__utma
-
-| 
-
-To be used for the purpose of Toshiba’s external website analytics via Google analytics
-
-| 
-
-http://www.google.com/intl/en/policies/privacy  
-  
-Analytics
-
-| 
-
-__utmb
-
-| 
-
-To be used for the purpose of Toshiba’s external website analytics via Google analytics 
-
-| 
-
-http://www.google.com/intl/en/policies/privacy  
-  
-Analytics
-
-| 
-
-__utmc
-
-| 
-
-To be used for the purpose of Toshiba’s external website analytics via Google analytics
-
-| 
-
-http://www.google.com/intl/en/policies/privacy  
-  
-Analytics
-
-| 
-
-__utmz
-
-| 
-
-To be used for the purpose of Toshiba’s external website analytics via Google analytics
-
-| 
-
-http://www.google.com/intl/en/policies/privacy  
-  
-Product reviews
-
-| 
-
-reevoomark_selected_for_b_branch
-
-| 
-
-To be used by our trusted partner Reevoo to analyse which reviews are accessed by site visitors
-
-|   
-  
-Product selector
-
-| 
-
-productSelector_?????
-
-| 
-
-To aid user experience, the site will remember your additions to the product selector tool
-
-|   
-  
-Server management
-
-| 
-
-X-Mapping-okhfbkmj
-
-| 
-
-This is to optimise the user experience on the site, to ensure that for the duration of the visit the user is kept on a single server
-
-|   
-  
-Analytics
-
-| 
-
-ToshibaNEPDBID
-
-| 
-
-To be used for the purpose of Toshiba’s internal website analytics
-
-|   
-  
-Analytics
-
-| 
-
-ToshibaNEPuvt
-
-| 
-
-To be used for the purpose of Toshiba’s internal website analytics
-
-|   
-  
-Mobile compatible site
-
-| 
-
-showDesktop
-
-| 
-
-Used to differentiate when the site visitor has come via a desktop or mobile browser device and remember returning preferences
-
-|   
-  
-HTML5 optimisation
-
-| 
-
-PopupShow
-
-| 
-
-Used to offer site visitor the possibility of upgrading their browser to an HTML5 compatible browser, to gain the most from the site features
-
-|   
-  
-Volume preferences
-
-| 
-
-muted
-
-| 
-
-Used to remember user preferences in regards to sound when used on the site homepage
-
-|   
-  
-Single Sign on Cookie
-
-| 
-
-iPlanetDirectoryPro-am-computers- toshiba-europe-com
-
-| 
-
-Set when logging in to allow automatic sign in with other Toshiba sites
-
-|   
-  
-Single Sign on Cookie
-
-| 
-
-AMAuthCookie
-
-| 
-
-Set when logging in to allow automatic sign in with other Toshiba sites
-
-|   
-  
-Single Sign on Cookie
-
-| 
-
-amlbcookie
-
-| 
-
-Set when logging in to allow automatic sign in with other Toshiba sites
-
-|   
-  
-Single Sign on Cookie
-
-| 
-
-AMAuthCookie
-
-| 
-
-Set when logging in to allow automatic sign in with other Toshiba sites
-
-|   
-  
-User preference
-
-| 
-
-BV_LNG
-
-| 
-
-This cookie will allow users of multi-language sites to retain their initial selection
-
-|   
-  
-User preference
-
-| 
-
-RememberMe
-
-| 
-
-Log in functionality using HTTPS where the user ID is remembered 
-
-|   
-  
-User preference
-
-| 
-
-FoundRememberMe
-
-| 
-
-Remembering of Log in functionality during an HTTP session, however the above cookie needs to have been issued
-
-|   
-  
-Forum cookie
-
-| 
-
-BV_Session_ID
-
-| 
-
-This cookie allows the logged in user to access our forum site
-
-|   
-  
-Forum cookie
-
-| 
-
-BV_Engine_ID
-
-| 
-
-This cookie allows the logged in user to access our forum site
-
-|   
-  
-Forum cookie
-
-| 
-
-BV_URL
-
-| 
-
-In combination with the above cookies, this allows users to be passed back to the correct part of the site from the forum
-
-|   
-  
-User preference
-
-| 
-
-BV_Service
-
-| 
-
-In combination with BV_LNG, this remembers the country
-
-|   
-  
-Mandatory user journey
-
-| 
-
-BV_IDS
-
-| 
-
-Retaining a user ID throughout the user journey
-
-|   
-  
-Site styling
-
-| 
-
-sifrFetch
-
-| 
-
-Toshiba uses Eurostile fonts. This replaces default system font with Eurostile
-
-|   
-  
-Analytics
-
-| 
-
-__atuvc
-
-| 
-
-To be used for the purpose of Toshiba’s external website analytics via Google analytics
-
-| 
-
-http://www.google.com/intl/en/policies/privacy  
-  
-Site functionality
-
-| 
-
-TOSHIBA_MY_COMPARISON_COOKIE
-
-| 
-
-To improve the site experience, this cookie retains user selected products for comparison
-
-|   
-  
-You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site and the full functionality of the site will be unavailable to you
-
-Except for essential cookies, all cookies will expire after a maximum of 12 months. 
-
-Where we store your personal data
-
-All information you provide to us is stored on our secure servers. Any payment transactions and form submissions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-Uses made of the information
-
-We use information held about you in the following ways:
-
-·         To register you as a registrant of our site;
-
-·         To ensure that content from our site is presented in the most effective manner for you and for your computer. 
-
-·         To improve Toshiba products and services for you.
-
-·         To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
-
-·         To carry out our obligations arising from any contracts entered into between you and us.
-
-·         To allow you to participate in interactive features of our service, when you choose to do so.
-
-·         To allow you to participate in contests, competitions, other promotions or surveys, when you choose to do so.
-
-·         To notify you about changes to our service and respond to your questions or suggestions.
-
-·         To undertake statistical and market analysis and research. 
-
-We may also use your data to provide you with information about goods and services which may be of interest to you and we may contact you about these by email. 
-
-If you are an existing customer and you have not given your consent to us contacting you about our goods and services, we will only contact you by electronic means (e-mail) with information about goods and services similar to those which were the subject of a previous sale to you. 
-
-If you are a new customer, we will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, you will be provided with an opportunity to opt-out of being contacted at the point that we collect your data. 
-
-Finally, if you have provided your consent, we will provide your email address to a selected third party partner in order for them to contact you in relation to a product review of your Toshiba product.
-
-Disclosure of your information
-
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
-
-We may disclose your personal information to third parties:
-
-·         In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-
-·         If Toshiba or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-
-·         If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use (available on our sites) and other agreements; or to protect the rights, property, or safety of Toshiba, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-
-Your rights
-
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by not checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at Customer Services, Toshiba Information Systems (UK) Limited, Toshiba Court, Weybridge Business Park, Addlestone Road, Weybridge, Surrey, KT15 2UL.   
-
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
-
-Access to information
-
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-Changes to our privacy policy
-
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
-
-Contact
-
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Customer Services, Toshiba Information Systems (UK) Limited, Toshiba Court, Weybridge Business Park, Addlestone Road, Weybridge, Surrey, KT15 2UL.   
+This document has been reviewed and revised in accordance with and prior to the introduction of the General Data Protection Regulation (GDPR).
