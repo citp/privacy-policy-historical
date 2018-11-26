@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalhypnosis.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621152410id_/https%3A//www.naturalhypnosis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhypnosis.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126073200id_/https%3A//www.naturalhypnosis.com/privacy-policy) for the most accurate reproduction.*
 
 # Natural Hypnosis - Privacy Policy
 
