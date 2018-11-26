@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630101729id_/https%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126013619id_/https%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | LuxSci
 
-Version 2018.05.22
+Version 2018.08.29
 
 Lux Scientiae, Incorporated (collectively, "We", "Our", "Us", "LuxSci", or "Lux Scientiae") has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this website, [luxsci.com](https://luxsci.com/), and our services in general. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our [LuxSci FYI Blog](https://luxsci.com/blog) prior to the change becoming effective.
 
 This privacy notice tells you about the information we collect from you when you use our web site and/or purchase one or more of our services. In collecting this information, we are acting as a data controller and, by law, we are required to provide you with information about us, about why and how we use your data, and about the rights you have over your data.
 
-LuxSci is a US company. Contact information can be found on our [Contact LuxSci](https://web.archive.org/extranet/contact.html) page. Any questions about our use of your personal data should be sent to the addresses listed there or emailed to `gdpr _at_ luxsci.com`.
+LuxSci is a US company. Contact information can be found on our [Contact LuxSci](https://web.archive.org/contact-us) page. Any questions about our use of your personal data should be sent to the addresses listed there or emailed to `gdpr _at_ luxsci.com`.
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=18aa85d3-7638-4e15-b712-2951e0606e71 "TRUSTe Privacy Certification")
 
@@ -18,7 +18,7 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 ### What personal data do we collect?
 
-While visiting the LuxSci web site, information is collected log files for the purpose of analyzing what pages are accessed, which files are downloaded, where people arrive from, and what errors occur. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click-stream data.
+While visiting the LuxSci web site, information is collected through log files for the purpose of analyzing what pages are accessed, which files are downloaded, where people arrive from, and what errors occur. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click-stream data.
 
 LuxSci's public web site forms may request: names, addresses, phone numbers, company demographics, as well as record current IP addresses and web browser user agents. 
 
@@ -46,7 +46,7 @@ For LuxSci customers:
 
   * Your credit card details are passed to a third-party payment processor (Authorize.net) which is based in the USA and is certified to the EU-US Privacy Shield (which requires effective safeguards for your information). Unless you create an account with us, we do not retain your credit card information. 
   * Personal information (which can include names, addresses, phone numbers, account IDs, passwords, email addresses, and organizational information) may be shared with specific trusted third-party vendors for the specific purposes of providing the services ordered. These vendors can include: Proofpoint, Sonian, Mediprocity, SecureVideo, Nuevasync. 
-  * Personal information and data may be stored on servers managed by trusted third-party vendors. Thee vendors may include: RackSpace, Amazon Web Services. 
+  * Personal information and data may be stored on servers managed by trusted third-party vendors. These vendors may include: RackSpace, Amazon Web Services. 
   * All personal information and data is stored on secured servers located in the USA unless special contractual arrangements are made between the customer and LuxSci. 
 
 
@@ -57,15 +57,15 @@ Corporate email is stored in secured databases, in LuxSci's Email Archival syste
 
 Web site traffic data is kept in detail (i.e., data including IP addresses) for no more than 14 months.
 
-For LuxSci.com web site visitors who submit requests through LuxSci's public web site forms, via chat, or via a phone call, LuxSci may store that information indefinitely, depending on the nature of the conversation. You have the right to [contact LuxSci](https://web.archive.org/extranet/contact.html) and request that their data be removed, to the extent applicable,* from our systems.
+For LuxSci.com web site visitors who submit requests through LuxSci's public web site forms, via chat, or via a phone call, LuxSci may store that information indefinitely, depending on the nature of the conversation. You have the right to [contact LuxSci](https://web.archive.org/contact-us) and request that your data be removed, to the extent applicable, from our systems.
 
 For owners of free LuxSci [**SecureSend accounts**](https://luxsci.com/perl/public/securesend.pl?settheme=1), LuxSci keeps your personal account information for a long as your SecureSend account remains open. Your SecureSend account is closed and deleted upon request, or after 1 year of no use.
 
 For owners of free LuxSci [**Affiliate accounts**](https://web.archive.org/perl/public/affiliates.pl), LuxSci keeps your personal account information for a long as your Affiliate account remains open. Affiliate accounts are only closed on request. When your affiliate account is closed, you can request that all of your personal information be deleted.
 
-For owners of a [**LuxSci Free Trial Account**](https://web.archive.org/try), your free trial account closes 30 days after you open it, unless special extensions are requested. Once the account is closed, data (e.g. customer email messages, files, backups, etc.) is deleted after up to 6 weeks. Personal information about the account (e.g., billing history, support history, order history, and contact information) may be kept indefinitely. Customers have the right to [contact LuxSci](https://web.archive.org/extranet/contact.html) and request that their data be removed, to the extent applicable,* from our systems.
+For owners of a [**LuxSci Free Trial Account**](https://web.archive.org/try), your free trial account closes 30 days after you open it, unless special extensions are requested. Once the account is closed, data (e.g. customer email messages, files, backups, etc.) is deleted after up to 6 weeks. Personal information about the account (e.g., billing history, support history, order history, and contact information) may be kept indefinitely. Customers have the right to [contact LuxSci](https://web.archive.org/contact-us) and request that their data be removed, to the extent applicable, from our systems.
 
-For **LuxSci customers** , LuxSci keeps copies of your personal data and other data for the entire time that your account is active with LuxSci. Once the account is closed, data (e.g. customer email messages, files, backups, etc.) is deleted after up to 6 weeks. Personal information about the account (e.g., billing history, support history, order history, and contact information) may be kept indefinitely. Customers have the right to [contact LuxSci](https://web.archive.org/extranet/contact.html) and request that their data be removed, to the extent applicable,* from our systems.
+For **LuxSci customers** , LuxSci keeps copies of your personal data and other data for the entire time that your account is active with LuxSci. Once the account is closed, data (e.g. customer email messages, files, backups, etc.) is deleted after up to 6 weeks. Personal information about the account (e.g., billing history, support history, order history, and contact information) may be kept indefinitely. Customers have the right to [contact LuxSci](https://web.archive.org/contact-us) and request that their data be removed, to the extent applicable, from our systems.
 
 *We will retain and use your information as necessary to comply with our own legal obligations, to record your requests, to resolve disputes, to protect the security and privacy of our systems and customers, for statistical purposes, and to enforce our agreements.
 
@@ -133,7 +133,7 @@ If you click on a link to a third party site, you will leave the Lux Scientiae s
 
 ## Updating / Accessing / Amending / Correcting Personally Identifiable Information
 
-Upon request Lux Scientiae will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please login to your account and make this request via a Support Ticket. If you no longer have an account, please use our [Contact Form](https://web.archive.org/extranet/contact.html).
+Upon request Lux Scientiae will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please login to your account and make this request via a Support Ticket. If you no longer have an account, please use our [Contact Form](https://web.archive.org/contact-us).
 
 If your personally identifiable information changes, or if you no longer desire our service and would like to have your personally identifiable information deleted, you may update it by making the change on our member profile page or by making a support ticket, or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 1 day. You can change your personal information online by logging into your "member portal", under "Account > Contact Information". 
 
@@ -165,14 +165,14 @@ You agree that Lux Scientiae may disclose any and all of your information includ
 
 Lux Scientiae does not give out its client's email addresses or send SPAM. Lux Scientiae may occasionally send important announcements regarding Lux Scientiae services to its customers if they have not opted out of this notification service.
 
-For Customers that have a valid [HIPAA Business Associate Agreement](https://web.archive.org/extranet/hipaa-baa-standard.html) (BAA) with Lux Scientiae, in the event of a conflict or inconsistency between the terms of this nondisclosure policy and those of the BAA, the terms of the BAA shall prevail.
+For Customers that have a valid [HIPAA Business Associate Agreement](https://web.archive.org/hipaa-business-associate-agreement-baa) (BAA) with Lux Scientiae, in the event of a conflict or inconsistency between the terms of this nondisclosure policy and those of the BAA, the terms of the BAA shall prevail.
 
 ## Confidentiality
 
 Lux Scientiae staff will not examine the following classes of data without Customer's explicit consent:
 
   1. Email: The content of sent and received email messages, with the exception of the message metadata including: sender address, recipient addresses, message subject, message size, message id, IP address of the sending or connecting computers, and any message header information removed from messages for the purposes of outbound message anonymization. 
-  2. WebAides: The content of all WebAides, including comments and attachments 
+  2. WebAidesTM: The content of all WebAidesTM, including comments and attachments 
   3. Widgets: The content of all Widgets, except the content of custom or third party widgets that is defined directly as part of the widget definition. 
   4. Databases: The content of all databases hosted by Customer in its web hosting account. 
   5. Files: The content of all files saved to the Customers web/FTP space, except as they may otherwise be publicly accessible on the Internet via Customer's web site. Note that this covers only the content of the files, not the list of what files are present and what directories they are located in. 
@@ -185,7 +185,7 @@ Exception 1: in a case where Lux Scientiae becomes aware of evidence of a possib
 
 Exception 2: from time to time Lux Scientiae may audit High Volume Outbound Email customers' bulk email practices. As stated in the [High Volume AUP](https://web.archive.org/extranet/hvaup.html) (HVAUP), Lux Scientiae can and will store and/or review the content of any or all outbound email messages sent via the High Volume service to ensure compliance with the High Volume Email Restrictions (see the HVAUP). 
 
-Exception 3: for Customers that have a valid [HIPAA Business Associate Agreement](https://web.archive.org/extranet/hipaa-baa-standard.html) (BAA) with Lux Scientiae, in the event of a conflict or inconsistency between the terms of this confidentiality policy and those of the BAA, the terms of the BAA shall prevail.
+Exception 3: for Customers that have a valid [HIPAA Business Associate Agreement](https://web.archive.org/hipaa-business-associate-agreement-baa) (BAA) with Lux Scientiae, in the event of a conflict or inconsistency between the terms of this confidentiality policy and those of the BAA, the terms of the BAA shall prevail.
 
 ## Medical privacy (HIPAA)
 
@@ -193,13 +193,13 @@ Clients that are legally required to abide by the regulations of HIPAA (i.e. HIP
 
 Due to the Security and Privacy restrictions imposed by the BAA and by HIPAA that are not required for other types of accounts, this Addendum is not automatically incorporated into new or existing Lux Scientiae accounts. If you require a BAA with Lux Scientiae, please print out and sign the BAA and Account Restrictions Agreement using the links below and return them to Lux Scientiae for review and acceptance. LUX SCIENTIAE WILL NOT BE DEEMED A BUSINESS ASSOCIATE OF ANY CUSTOMER FOR PURPOSES OF HIPAA UNLESS AND UNTIL A SIGNED ADDENDUM IS RECEIVED, REVIEWED, AND ACCEPTED BY THE LUX SCIENTIAE HIPAA PRIVACY OFFICER.
 
-  * [LuxSci Business Associate Agreement](https://web.archive.org/extranet/hipaa-baa-standard.html)
+  * [LuxSci Business Associate Agreement](https://web.archive.org/hipaa-business-associate-agreement-baa)
 
 
 
 You may return signed versions of these documents to Lux Scientiae by:
 
-  * Using the [Online Signature Form](https://web.archive.org/extranet/hipaa-baa-standard.html)
+  * Using the [Online Signature Form](https://web.archive.org/hipaa-business-associate-agreement-baa)
   * Faxing to 413-332-0598 
   * Emailing to: support AT LuxSci.com 
   * Mailing to Lux Scientiae at 15 Brook Street, Medfield, MA 02052 USA 
@@ -250,21 +250,19 @@ Additionally:
 
 In addition to the data retention terms [given above](https://web.archive.org/extranet/privacy.html#retention), the following additional terms apply to those identified as being in an EU member state.
 
-  * **LuxSci Affiliate** accounts will be automatically closed and de-identified, to the extent applicable,* after 1 year of inactivity. Inactivity is defined as (a) not logging into the LuxSci Affiliate portal and (b) not receiving any commissions from LuxSci on affiliate referrals. 
+  * **LuxSci Affiliate** accounts will be automatically closed and de-identified, to the extent applicable, after 1 year of inactivity. Inactivity is defined as (a) not logging into the LuxSci Affiliate portal and (b) not receiving any commissions from LuxSci on affiliate referrals. 
   * Data stored in our sales database will be de-identified, to the extent applicable,* 1 year after it is determined that the person is no longer interested in LuxSci services, or 1 year after that person/organization closes all LuxSci customer accounts. 
-  * LuxSci **customer accounts will be de-identified, to the extent applicable,* automatically 1 year after the customer account is closed.**
+  * LuxSci **customer accounts** will be de-identified, to the extent applicable,* automatically 1 year after the customer account is closed. 
 
 
 
- **
-
-As mentioned previously, you may explicitly request that your data be deleted or de-identified, to the extent applicable,* at any time.
+As mentioned previously, you may explicitly request that your data be deleted or de-identified, to the extent applicable, at any time.
 
 *We will retain and use your information as necessary to comply with our own legal obligations, to record your requests, to resolve disputes, to protect the security and privacy of our systems and customers, for statistical purposes, and to enforce our agreements.
 
 ### Your right to complain
 
-If you have a complaint about our use of your information, you can contact the LuxSci GDPR Data Protection Officer using the [contact form](https://web.archive.org/extranet/contact.html#contact) or write to him at:
+If you have a complaint about our use of your information, you can contact the LuxSci GDPR Data Protection Officer using the [contact form](https://web.archive.org/contact-us#contact) or write to him at:
 
 `GDPR Data Protection Officer  
 LuxSci  
@@ -278,4 +276,4 @@ All customers whose data fall under the protection of GDPR have a GDPR Data Priv
 
   * [GDPR Data Privacy Addendum](https://web.archive.org/extranet/gdpr.html)
 
-**
+
