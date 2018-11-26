@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the borneotemplates.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522165028id_/http%3A//www.borneotemplates.com/p/this-privacy-policy-governs-manner-in.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borneotemplates.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126024037id_/http%3A//www.borneotemplates.com/p/this-privacy-policy-governs-manner-in.html) for the most accurate reproduction.*
 
 # Privacy Policy - Borneo Templates
 
