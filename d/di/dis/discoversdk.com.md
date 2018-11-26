@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoversdk.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524073533id_/http%3A//www.discoversdk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoversdk.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126032058id_/http%3A//www.discoversdk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DiscoverSDK
 
