@@ -1,217 +1,178 @@
-> *The following text is extracted and transformed from the plrexperts.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517064805id_/http%3A//www.wealthyplr.com/legal/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrexperts.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126031933id_/http%3A//www.wealthyplr.com/legal/privacy.pdf) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy Introduction
 
-                                 PRIVACY POLICY
-Your privacy is very important to us. We want to make your experience on the
-Internet as enjoyable and rewarding as possible, and we want you to use the
-Internet's vast array of information, tools, and opportunities with complete
-confidence.
-We have created this Privacy Policy to demonstrate our firm commitment to
-privacy and security. This Privacy Policy describes how our company collects
-information from all end users of our Internet services (the "Services")-those who
-access some of our Services but do not have accounts ("Visitors") as well as those
-who may purchase Products -what we do with the information we collect, and the
-choices Visitors have concerning the collection and use of such information. We
-request that you read this Privacy Policy carefully.
-Personal Information Our Company Collects and How It Is Used
-Introduction. Our company collects information in different ways from Visitors
-who access the various parts of our Services and the network of Web sites
-accessible through our Service.
-Registration: Members may be asked to provide certain personal information
-when they sign up for our Products or Services including name, address,
-telephone number, billing information (such as a credit card number), and the
-type of personal computer being used to access the Services. The personal
-information collected from Members during the registration process is used to
-manage each Member's account (such as for billing purposes). This information
-may be shared with third parties, as stated herein, or in special circumstances.
-However, in instances where our company and a partner jointly promote our
-Services, we may provide the partner certain personal information, such as the
-name, address, and username of persons who subscribed to the Services as a
-result of the joint promotion for the purpose of offering you other products and
-services.
-
-
-In this instance, personal information may not be used by the partner for any
-other purpose. We may also generate non-identifying and aggregate profiles from
-personal information Members provide during registration (such as the total
-number, but not the names, of Members). As explained in more detail below, we
-may use this aggregated and non-identifying information to sell advertisements
-that appear on the Services.
-Also, with purchases, we supply our member's contact information, to our
-business partners, who then may contact the member by telephone after the
-member purchase. Sales proceeds are collected by the that business partner
-company. We also may supply other companies with contact information, for mail
-offers we believe would be of interest to our members, with or without
-compensation from those companies. At times we may send an advertisement for
-a third party product, where we collect the sales proceeds, and forward the
-purchaser's information to that third party.
-Our Company Partners and Sponsors: Some products and services may be offered
-to Visitors and Members in conjunction with an affiliate, independent contractor
-seller or non-affiliated partner. To provide Visitors and Members some of these
-products and services, the partner may need to collect and maintain personal
-information.
-Online Shopping: At some Web sites, you can purchase products and services or
-register to receive materials, such as a newsletter, catalog or new product and
-service updates. In many cases, you may be asked to provide contact information,
-such as your name, address, email address, phone number, and credit/debit card
-information.
-If you complete an order for someone else, such as an online gift order sent
-directly to a recipient, you may be asked to provide information about the
-recipient, such as the recipient's name, address, and phone number. Our
-company has no control over the third parties' use of any personal information
-you provide when placing such an order. Please exercise care when doing so.
+Privacy Policy
+Introduction
+Here in Wealthy PLR Limited (WealthyPLR.com, PLRExperts.com,
+SuperAffiliateCenter.com), Owner: Jonathan Teng, myself and my team are
+totally committed to keeping your personal data safe. We will always treat
+your personal data with respect and deliver services to our clients with
+privacy in mind.
+This privacy policy will help you understand how we collect, use and protect
+your personal data.
+Who we are:
+Wealthy PLR Limited
+Data we collect
+We collect personal data, and may collect special category personal data, as
+part of providing legal services to our clients. We may also monitor or record
+calls, emails, SMS messages or other communications in accordance with UK
+law.
+Types of data we may collect
+How your data is used (Legal Services Clients)
+How your data is used (Litigation Friends, Persons Acting Under a Power of
+Attorney or as Court Appointed Deputies)
+How your data is used (Witnesses of Fact)
+How your data is used (Authorised Callers)
+How your data is used (Individual Suppliers and Experts)
+Wealthy PLR Limited Legitimate Interests
+There are certain circumstances where we process your personal data for
+our legitimate business interests. These can be, for example, to establish or
+enforce our rights and interests or meet our regulatory obligations. We will
+always balance our interests against your own to ensure it is fair.
 
 
-If you order services or products directly from our company, we use the personal
-information you provide to process that order. We do share this information with
-outside parties that we do business with.
-Online Advertisements: Our company may display our online advertisements. In
-those cases we share information about our Visitors and Members collected
-through the registration process as well as through online surveys and
-promotions with these advertisers.
-Additionally, in some instances, we use this information to deliver tailored
-advertisements or joint ventures. For instance, an advertiser or joint venture
-company tells us the audience they want to reach and provides us an
-advertisement tailored to the audience. Based upon the information we have
-collected, we may then display or send the advertisement to the intended
-audience. Our company does share personal information about its Visitors or
-Members with these advertisers or joint venture companies.
-Responses to Email Inquiries: When Visitors or Members send email inquiries to
-our company, the return email address is used to answer the email inquiry we
-receive.
-Voluntary Customer Surveys: We may periodically conduct both business and
-individual customer surveys. We encourage our customers to participate in these
-surveys because they provide us with important information that helps us to
-improve the types of products and services we offer and how we provide them to
-you.
-We may take the information we receive from individuals responding to our
-Customer Surveys and combine (or aggregate) it with the responses of other
-customers we may have, to create broader, generic responses to the survey
-questions (such as gender, age, residence, hobbies, education, employment,
-industry sector, or other demographic information). We then use the aggregated
-information to improve the quality of our services to you, and to develop new
-services and products. This aggregated, non-personally identifying information
-may be shared with third parties.
+The following processes rely on legitimate interest:
+    • Call recording for quality and monitoring purposes and to confirm facts
+    • Fraud and money laundering detection and prevention
+    • Engaging and contacting our client throughout the lifecycle of their
+      claim to ensure they have a good experience as a Wealthy PLR Limited
+      client
+    • Internally auditing our processes to maintain our high standards
+    • Sharing data with external auditors where required under regulation,
+      contracts or agreements
+    • Sharing data with selected third parties in order to protect our rights
+    • Sharing data with our regulators to meet our obligations
+The transfer of data to Wealthy PLR Limited, if instructed by our client,
+where we can no longer act for them due to a risk of or actual conflict of
+interest.
+Ensuring network information and security
+Processing data relating to witnesses, litigation friends, persons acting under
+a Power of Attorney or as Court Appointed Deputies, to assist our clients
+with their claims.
+If you have any further questions, don’t hesitate to contact us.
+Our technology
+We collect data about you through the use of technology such as cookies
+and device fingerprinting. View our full Cookie Policy.
+Your cookie preferences
+Managing, Disabling And Enabling Cookies
+You have the ability to accept or decline cookies from any website by
+modifying the settings in your browser. If you wish to restrict or block the
+cookies which are set by our website, you can do this through your browser
+settings. For information about how to manage and disable cookies you can
 
 
-Promotions: Our company may offer polls, contests, sweepstakes, drawings,
-games, content, or other promotions that are sponsored by or cobranded with
-third parties. You may be entered in a sweepstakes, contest, or other promotion,
-simply by making a purchase from us or by providing us with personally
-identifiable information for some other reason or purpose. Due to these third
-party relationships, the third parties may obtain personally identifiable
-information that visitors voluntarily submit to our company. Our company has no
-control over third parties' use of this information.
-Additionally, personally identifiable information may be collected when you order
-products, enter contests, vote in polls or otherwise express an opinion, subscribe
-to one of our services such as our online newsletters, or participate in one of our
-online forums or communities. The types of personally identifiable information
-that may be collected at these pages include but may not be limited to: name,
-address, e-mail address, telephone number, fax number, credit card information,
-and information about your interests in and use of various products, programs,
-and services. Our sponsors or third parties may send you material that relates to
-our company's services, products or activities.
-Special Cases: It is our company's policy to use or share the personal information
-about Visitors or Members in ways described herein without additional notice or
-means to opt out or otherwise prohibit such unrelated uses.
-Also, we may disclose personal information about Visitors or Members, or
-information regarding your use of the Services or Web sites accessible through
-our Services, for any reason if, in our sole discretion, we believe that it is
-reasonable to do so, including: credit agencies, collection agencies, merchant
-database agencies, law enforcement, or to satisfy laws, such as the Electronic
-Communications Privacy Act, the Child Online Privacy Act, regulations, or
-governmental or legal requests for such information; to disclose information that
-is necessary to identify, contact, or bring legal action against someone who may
-be violating our Acceptable Use Policy or Terms Of Service, or other user policies;
-to operate the Services properly; or to protect our company and our Members.
+use the ‘Help’ function within your browser or please visit
+www.aboutcookies.org or www.allaboutcookies.org. However, please note
+that by deleting or disabling cookies this could affect the functionality of our
+website and you may not be able to access certain areas or features of our
+site.
+Confidentiality and disclosure of your data
+We will endeavour to treat your personal data as private and confidential.
+From time to time we may employ agents and subcontractors to process
+your personal data on our behalf. The same duty of confidentiality and
+security will apply to them and all processing will be carried out under our
+instruction and with benefit of signed agreements.
+We would like to bring to your attention our obligations to disclose data in
+the following four exceptional cases permitted by law, and the other
+situations set out below. These are:
+    •  Where   we are legally compelled to do so
+    •  Where   there is a duty to the public to disclose
+    •  Where   disclosure is required to protect our interest
+    •  Where   disclosure is made at your request or with your consent
+If a complaint is made about the service we have provided, we may be
+obliged to forward details about the complaint, including personal data, to
+the relevant ombudsman. You can be assured that they are similarly obliged
+to adhere to the requirements of the GDPR and keep personal data strictly
+confidential.
+Data subject rights
+You have a number of rights as a data subject. Please note that these rights
+do not apply in all circumstances.
+Request your data
+In order to access the data we hold about you, you need to make a ‘Subject
+Access Request’, or SAR. To make a SAR please email us at:
 
 
-Notice of Compliance to California Residents – Your California Privacy Rights
-Under The California Online Privacy Protection Act and the California Business and
-Professions Code
-This privacy policy identifies the categories of personally identifiable information
-that our company collects through our Web site or online service, about
-individual consumers who use or visit our company's commercial Web site or
-online service and the categories of third-party persons or entities with whom our
-company may share that personally identifiable information.
-Our company does not maintain a process for an individual consumer who uses or
-visits our commercial Web site or online service to review and request changes to
-any of his or her personally identifiable information that is collected through our
-Web site or online service.
-See the section below entitled "Revisions To This Policy" for a description of the
-process by which our company notifies consumers who use or visit our
-commercial Web site or online service of material changes to our company's
-privacy policy for this Web site or online service.
-The effective date of this privacy policy is listed at the end of this privacy policy
-under the heading, "Last updated."
-For the purposes of this policy and California compliance the following definitions
-apply:
-Depending on the visitor's activity, in our commercial Web site or online service,
-the following "personally identifiable information" may be collected, in addition
-to information set forth in other sections of this document.
-The term "personally identifiable information" means individually identifiable
-information about an individual consumer collected online by our company from
-an individual and maintained
-by our company in an accessible form, and may include any of the following:
-(1) A first and last name.
+Email contact:
+support@plrexperts.com
+Please provide:
+Your name, email address, claim reference number and what information
+you would like.
+Identification documents; one which shows your name and signature (e.g. a
+copy of your passport) and one which shows your name and address (e.g. a
+copy of a recent bill or bank statement or other official document).
+We will accept just one identification document if it shows your name,
+address and signature such as a copy of your driving licence. (This is to take
+reasonable steps to confirm your identity before providing you with details of
+any personal information we may hold about you.)
+Please note that if your SAR involves the personal data of other people, or
+you are making a request on behalf of someone else (such as a parent on
+behalf of their child), we may need identification from these individuals, as
+well as a signed letter of authority from them confirming that they are happy
+for you to act on their behalf and for us to release their data to you.
+Once we have received your written request and identification documents,
+we will have a month to fulfill your request. Where for some reason this will
+not be possible, for instance due to large volumes of data being involved, we
+are permitted by law to take up to an additional two months to fulfil your
+request. Where any such delay is anticipated we will inform you of this,
+along with the reason for the delay, within the first month of receiving your
+request along with details of when we expect to be able to provide you with
+the requested documentation.
+Your other rights as a data subject, where applicable, include:
+The right to be informed about our processing of your personal data
+The right to have your personal data corrected if it is inaccurate, and to have
+incomplete personal data completed
+The right to object to the processing of your personal data
 
 
-(2) A home or other physical address, including street name and name of a city or
-town.
-(3) An e-mail address.
-(4) A telephone number.
-(5) A social security number.
-(6) Any other identifier that permits the physical or online contacting of a specific
-individual.
-(7) Information concerning a user that the Web site or online service collects
-online, from the user, and maintains in personally identifiable form, in
-combination with an identifier described within this privacy policy.
-Under California Law SB 27, California residents have the right to receive, once a
-year, information about third parties with whom we have shared information
-about you or your family for their marketing purposes during the previous
-calendar year, and a description of the categories of personal information shared.
-To make such a request, please send an email to Privacy@PrivacyRequest.com
-and please include the phrase "California Privacy Request" in the subject line, the
-domain name of the Web site you are inquiring about, along with your name,
-address and email address. We will respond to you within thirty days of receiving
-such a request.
-"Cookies" and How Our Company Uses Them. A "cookie" is a small data file that
-can be placed on your hard drive when you visit certain Web sites. Our company
-may use cookies to collect, store, and sometimes track information for purposes
-stated herein as well as for statistical purposes to improve the products and
-services we provide and to manage our telecommunications networks.
-Advertisers and partners may also use their own cookies. We do not control use
-of these cookies and expressly disclaim responsibility for information collected
-through them.
+The right to have your personal data erased (“right to be forgotten”)
+The right to move, copy, or transfer your personal data (“data portability”)
+Rights regarding automated decision making, including profiling
+For more details on these rights and how to exercise them, please contact:
+support@plrexperts.com
+If you have any queries about your rights, or believe that they have not
+been met by Wealthy PLR Limited, please contact our Compliance Officer for
+Legal Practice at:
+support@plrexperts.com
+If you have any complaints relating to the processing of your personal data,
+you also have the right to complain to the relevant Supervisor Authority.
+Retention of your data
+Your personal data will be kept for as long as we require it in order to
+provide our client with the agreed service. It will continue to be retained
+after any service has been concluded or otherwise comes to an end in line
+with our legal and regulatory requirements, and for as long as claims or
+complaints may legally be brought against us.
+Information Security
+On our portal we protect any data you have given us by providing you with a
+User ID and password. We also use industry standard security to encrypt
+sensitive data in transit to our servers. As an extra precaution, CLEX
+sessions will ‘time out’ if not used for 60 minutes.
+It is not anticipated that we will need to transfer your personal data to other
+companies or service providers located outside of the European Economic
+Area. The data protection and other laws of these countries may not be as
+comprehensive as those in the UK or the EEA – but in the event that this is
+necessary we will take steps to ensure that your data is given an equivalent
+level of protection as it is in the EEA.
 
 
-Our Company Commitment to Children's Privacy. Protecting children's privacy is
-especially important to us. It is our policy to comply with the Children's Online
-Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict
-our Web site to persons eighteen years or older.
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU
-ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS
-WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS
-WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE
-CHILDREN'S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED
-AS DOING SO.
-Public Forums: Please remember that any information you may disclose in any
-Member Directory, or other public areas of our Web sites or the Internet,
-becomes public information. You should exercise caution when deciding to
-disclose personal information in these public areas.
-Our Company's Commitment to Data Security: Services and Web sites we sponsor
-have security measures in place to protect the loss, misuse, and alteration of the
-information under our control. While we make every effort to ensure the integrity
-and security of our network and systems, we cannot guarantee that our security
-measures will prevent third-party "hackers" from illegally obtaining this
-information.
-Where to Direct Questions About Our Privacy Policy: If you have any questions
-about this Privacy Policy or the practices described herein, you may contact us
-through the contact information provided on this Web site.
-Revisions to This Policy: Our company reserves the right to revise, amend, or
-modify this policy, our Terms Of Service agreement, and our other policies and
-agreements at any time and in any manner, by updating this posting. Your use of
-this site after such changes are implemented constitutes your acknowledgement
-and acceptance of these changes. Please consult this privacy statement prior to
-every use for any changes.
+Show further information
+Please be aware that communications over the Internet, such as emails, are
+not secure unless they have been encrypted. Your communications may
+route through a number of countries before being delivered – this is the
+nature of the Internet. We cannot accept responsibility for any unauthorised
+access or loss of personal information that is beyond our control.
+Additionally, you can protect your system by installing anti-virus and running
+scans as recommended by the vendor. You should also run any security
+updates / patches you receive for your system from the supplier.
+Never respond to unsolicited emails from unfamiliar sources. Such emails
+may be fraudulent and attempt to get you to provide your personal details or
+payment information.
+Changes to this policy
+This privacy policy was last updated on 25th May 2018. We reserve the right
+to make changes to this policy and you will be prompted of any changes
+when you next visit our website.
+From time to time we may need to change the way we use your personal
+data. Where we believe you may not reasonably expect such a change we
+will write to you. When we do so, you will have 60 days to object to the
+change but if we do not hear from you within that time you consent to that
+change.
