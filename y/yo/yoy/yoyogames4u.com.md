@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoyogames4u.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528135037id_/http%3A//yoyogames4u.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoyogames4u.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127002806id_/http%3A//yoyogames4u.com/privacy) for the most accurate reproduction.*
 
 # Yoyogames4u.com - Free Online Games for Girls!
 
