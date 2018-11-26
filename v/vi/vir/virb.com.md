@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virb.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529035018id_/http%3A//virb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virb.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126182332id_/http%3A//virb.com/privacy) for the most accurate reproduction.*
 
 # Virb › Privacy
 
