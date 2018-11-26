@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everyblock.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004172912id_/http%3A//comcastlmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyblock.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126181338id_/http%3A//comcastlmd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# None
 
 Privacy Policy
 
@@ -112,21 +112,21 @@ Comcast asks you to provide certain information when you initially register to u
 
 **Registration Data** :
 
-      * When Collected: When you create an account for the LMD Services or subsequently modify your Registration Data
+  1.     *       * When Collected: When you create an account for the LMD Services or subsequently modify your Registration Data
       * Representative Examples: email address, user name, password and zip code, as well as user names and password from sites you wish to link to your account (i.e. Twitter, Facebook, etc.)
 
 
 
 **Profile Data**
 
-      * When Collected: The first time you access certain LMD Services after you have created an account or subsequently modify your Profile Data
+  1.     *       * When Collected: The first time you access certain LMD Services after you have created an account or subsequently modify your Profile Data
       * Representative Examples: Additional e-mail addresses, social network username, lists of people to connect with through certain LMD Services, and notification preferences
 
 
 
 **Activity Data**
 
-      * When Collected: When you log-in to your account and use the LMD Services
+  1.     *       * When Collected: When you log-in to your account and use the LMD Services
       * Representative Examples: Flagging or rating content, posting comments, sharing URLs, and content and data feeds from non-Comcast social networks or services
 
 
@@ -149,9 +149,9 @@ You may opt out of receiving cookies from companies that provide services on thi
 
 Comcast uses Web Log Data, Preferences Data, and Your Data, including both Personally Identifiable Information and Non-Personally Identifiable Information in both aggregated and individual forms, to provide the LMD Services and support them. We may process and use this data for purposes consistent with this Privacy Policy including, but not limited to:
 
-    * Customize, measure, and improve the LMD Services, and the content provided through them;
-    * Enforce our LMD Services Terms of Service and detect fraud and other illegal activities;
-    * Let you know about changes to the LMD Services, the LMD Services Terms of Service, this Privacy Policy, and other terms that apply to our services; and
+  1.     *       * Customize, measure, and improve the LMD Services, and the content provided through them;
+      * Enforce our LMD Services Terms of Service and detect fraud and other illegal activities;
+      * Let you know about changes to the LMD Services, the LMD Services Terms of Service, this Privacy Policy, and other terms that apply to our services; and
     * Update any programs or other tools that we provide in conjunction with the LMD Services.
 
 
