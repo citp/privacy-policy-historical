@@ -1,88 +1,176 @@
-> *The following text is extracted and transformed from the softwareprojects.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170324id_/https%3A//www.softwareprojects.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareprojects.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126141237id_/https%3A//www.softwareprojects.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - SoftwareProjects
 
-Information about Privacy on SoftwareProjects.com
+Welcome to SoftwareProjects Privacy Policy
 
-SoftwareProjects Limited (“SoftwareProjects”, “we” or “us”) is committed to protecting your privacy. This privacy policy explains how we collect and use your information. This privacy policy only applies to SoftwareProjects.com (the “Website”); it does not apply to other online or offline SoftwareProjects sites, products or services. Please read the complete SoftwareProjects.com privacy policy for suppliers and affiliates (the “Privacy Policy”). 
+Hi there, we're  ("SoftwareProjects") and welcome to our privacy policy. This policy sets out how we handle your personal information if you're a SoftwareProjects platform user or visitor to our Sites 
 
-**Collection of your Personal Information**
-
-We will ask you when we need information that personally identifies you or allows us to contact you. Personal information collected by SoftwareProjects.com is often limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested. 
-
-We also collect certain information about your computer hardware and software. This information may include: your IP address, browser type, operating system, domain name, access times and referring website addresses. This information is used for the operation of the service and the Website, to maintain quality of the service, and to provide general statistics regarding use of the Website. 
-
-We also collect information about which pages our customers visit within the Website. This Website visitation data is identified only by a unique ID number, and it is never linked with personal information unless a user consents as described below. 
-
-**Use of Cookies**
-
-When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously. One use of cookies is to assist in the collection of the site visitation statistics described above. 
-
-We also use cookies to collect information on which newsletter links are clicked by customers. This information is used to ensure we are sending information customers want to read. It is collected in aggregate form and never linked with your personal information. 
-
-Web beacons, also known as clear gif technology, or action tags, may be used to assist in delivering the cookie on our site. This technology tells us how many visitors clicked on key elements (such as links or graphics) on a SoftwareProjects.com Web page. We do not use this technology to access your personally identifiable information on SoftwareProjects.com; it is a tool we use to compile aggregated statistics about Website usage. We may share aggregated site statistics with partner companies but do not allow other companies to place clear gifs on our sites. 
-
-If you choose to not have your browser accept cookies from the Website, you will be able to view the text on the screens, however you will not experience a personalized visit nor will you be able to subscribe to the service offerings on the site. 
-
-**Use of your Personal Information**
-
-We use your personal information for the following purposes: 
-
-  * * To ensure our site is relevant to your needs.
-  * * To deliver services, such as newsletters, events, training or software, that you request or purchase.
-  * * To help us create and publish content most relevant to you.
-  * * To allow you access to limited-entry areas of our site as appropriate.
+  * When we say 'we', 'us' or 'SoftwareProjects' it's because that's who we are and we own and run the Sites.
+  * If we say 'policy' we're talking about this privacy policy. If we say 'user terms' we're talking about the rules for using each of the Sites. 
+  * The rules vary by product and each product makes them separately available and seeks consent to them separately to this policy.
 
 
 
-We may use third parties to assist us in providing our services, and we may provide personal information to these third parties. However, we will only share personal information with third parties if they agree to maintain the confidentiality of your personal information and to use this information only in connection with providing services to us and assisting us in providing our services. These other entities may use and disclose information as provided in this Privacy Policy. 
+**The type of personal information we collect**
 
-We may use your information to gather and provide aggregated or statistical information that is not personally attributable to you. For example, we may aggregate certain information regarding use of the services so that your usage of the services is not discernable from the aggregate usage of our services. We may use and share with third parties any information that we derive from personal information but that is not personally identifiable to you. 
+  * We collect certain personal information about visitors and users of our Sites.
+  * The most common types of information we collect include things like: user-names, member names, email addresses, IP addresses, other contact details, survey responses, blogs, photos, payment information such as payment agent details, transactional details, tax information, support queries, forum comments, content you direct us to make available on our Sites (such as item descriptions) and web analytics data. We will also collect personal information from job applications (such as, your CV, the application form itself, cover letter and interview notes).
+  * We collect personal information directly when you provide it to us, automatically as you navigate through the Sites, or through other people when you use services associated with the Sites.
+  * We collect your personal information when you provide it to us when you complete membership registration and buy or provide items or services on our Sites, subscribe to a newsletter, email list, submit feedback, enter a contest, fill out a survey, or send us a communication.
 
-We may obtain your consent to disclose your personal information to a third party, in which case we will limit our disclosure and the use of your personal information only to the purposes for which we obtain your consent. If we disclose your personal information to a third party with your consent, then this information will become subject to the privacy policy or other privacy commitments, if any, of that third party. 
 
-We may disclose your personal information to legal or government regulatory authorities in response to compulsory process or other requests for such information or to assist in investigations of theft, fraud, abuse or other alleged unlawful conduct. We may also disclose your personal information to third parties in connection with claims, disputes or litigation, when otherwise required by law, or if we determine, in our sole discretion, that disclosure is necessary in an emergency. 
 
-Your information may be stored and processed in the United States or any other country in which SoftwareProjects or its affiliates, subsidiaries or agents maintain facilities, and by using this Website, you consent to any such transfer of information outside of your country. 
+**Personal information we collect about you from others**   
+Although we generally collect personal information directly from you, on occasion, we also collect certain categories of personal information about you from other sources. In particular: 
 
-**Our Communications**
+  * financial and/or transaction details from payment providers located in the US, Malta and UK in order to process a transaction; 
+  * other third-party sources/ and or partners from US or UK, whereby we receive additional information about you (to the extent permitted by applicable law), such as demographic data or fraud detection information, and combine it with information we have about you. For example, fraud warnings from service providers like the Kount fraud prevention system we use. 
 
-SoftwareProjects.com may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming an order or your request for a product or service. You will not be able to choose to unsubscribe to these mailings, as they are an essential part of the service you have chosen. You will have the option to unsubscribe (opt-out) of all marketing communications from us by clicking the “Unsubscribe” link at the bottom of every email message we send or replying to the message with the word unsubscribe in the message body. 
 
-**Access to your Personal Information**
 
-Upon request, we will confirm whether we hold any of your personal information. If your personal information changes, you may request the information be corrected, updated, amended or deleted by reaching out to us via one of the methods described in the “Contact Information” section, below. 
+**How we use personal information**   
+We will use your personal information: 
 
-**Security of your Personal Information**
+  * To fulfil an order, or take steps linked to an order: in particular, in facilitating and processing transactions that take place on the Sites, like where you purchase an item from our website. 
 
-SoftwareProjects.com is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities. When we transmit sensitive information (such as a credit card number) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security. 
 
-**Retention of Personal Information**
 
-We will retain your personal information for so long as necessary to meet our business needs and to comply with applicable legal and regulatory requirements. Your personal information is primarily stored in digital media, and when we no longer need to retain your personal information we will dispose of your personal information, whether stored in digital media or in hard copies, in a secure manner. 
+Where this is necessary for purposes which are in our, or third parties, legitimate interests. These interests include: 
 
-**Other Websites**
+  * operating the Sites; 
+  * providing you with services described on the Sites; 
+  * verifying your identity when you sign in to any of our Sites; 
+  * responding to support tickets, and helping facilitate the resolution of any disputes; 
+  * updating you with operational news and information about our Sites and services e.g. to notify you about changes to our Sites, website disruptions or security updates; 
+  * carrying out technical analysis to determine how to improve the Sites and services we provide; 
+  * monitoring activity on the Sites, e.g. to identify potential fraudulent activity and to ensure compliance with the user terms that apply to the Sites; 
+  * managing our relationship with you, e.g. by responding to your comments or queries submitted to us on the Sites or asking for your feedback or whether you want to participate in a survey; 
+  * managing our legal and operational affairs (including, managing risks relating to content and fraud matters); 
+  * training SoftwareProjects staff about how to best serve our user community; 
+  * improving our products and services. 
+  * providing general administrative and performance functions and activities; and 
 
-Except as otherwise expressly discussed in this Privacy Policy, this policy only addresses SoftwareProjects’ use and disclosure of information we collect from you. To the extent that you visit or disclose personal information to other websites, you are subject to the privacy customs and policies of these other websites. We encourage you to ask questions before you disclose any personal information. Our Website may provide links to other websites or resources over which SoftwareProjects does not have control. Such links do not constitute an endorsement by SoftwareProjects of those external websites. You acknowledge that we are providing these links to you only as a convenience, and further agree that we are not responsible for the content of such external websites. Your use of external websites is subject to the terms of use and privacy policies located on the linked external websites. 
 
-**Transfer of Personal Information**
 
-If we are involved in a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding or event, we may transfer the personal information we have collected or maintain to the buyer or other successor. In the event of this type of transaction, we will take reasonable steps to require that any such buyer or successor adhere to the obligations set forth in this notice. 
+Where you give us consent: 
 
-**Protection of Children's Personal Information**
+  * providing you with marketing information about products and services which we feel may interest you; and 
+  * customizing our services and websites, like advertising that appear on the Site – where this involves the use of cookies or similar technologies – in order to provide a more personalized experience. 
+  * For purposes which are required by law. 
+  * For the purpose of responding to requests by government, a court of law, or law enforcement authorities conducting an investigation. 
 
-The Website is not intended for children under the age of 13, and we do not knowingly collect any personal information from children. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. 
 
-**Changes to this Policy**
 
-SoftwareProjects.com will occasionally update this Privacy Policy. When we do, we will also revise the "last updated" date at the top of the policy. For material changes to this Privacy Policy, SoftwareProjects.com will notify you by placing prominent notice on the Website. 
+**How we use personal information**   
+We will disclose personal information to the following recipients: 
 
-**Contact Information**
+  * companies that are in the SoftwareProjects group which are located worldwide 
+  * authors of any items or services made available to you, so they can facilitate support and license validation, who may be located in any of the countries our products are available in; 
+  * subcontractors and service providers who assist us in connection with the ways we use personal information (as set out above), in particular: website hosting providers which are located in US; technical and customer support services which are located in Malta, US, UK and the Philippines; recruitment agencies which are located in US, UK and Malta; marketing and analytics services which are located in the US; security and fraud prevention services which are located in the US; subscription management services which are located in the US; payment processing services which are located in the US and UK; identification verification services located in the US; and operational tooling services which are located in the US. Noting that our subcontractors and services providers may also transfer and access such information from other countries in which they have operations. 
+  * our professional advisers (lawyers, accountants, financial advisers etc.) which are located in the US and EU 
+  * regulators and government authorities in connection with our compliance procedures and obligations; 
+  * a purchaser or prospective purchaser of all or part of our assets or our business, and their professional advisers, in connection with the purchase; 
+  * a third party to respond to requests relating to a criminal investigation or alleged or suspected illegal activity; 
+  * a third party, in order to enforce or defend our rights, or to address financial or reputational risks; 
+  * a rights holder in relation to an allegation of intellectual property infringement or any other infringement; and 
+  * other recipients where we are authorized or required by law to do so. 
 
-If you have any questions, comments or concerns about our privacy policy, you may contact us through the “Contact Us” section of the Website or by calling our customer service number at 1 800 218 1525 or emailing us at [support@softwareprojects.com](mailto:support@softwareprojects.com). 
 
-You may also reach us by mail to the following address:  
-SoftwareProjects Inc  
-9450 SW Gemini Drive, 17042  
-Beaverton, Oregon 97008  
-United States
+
+**Where we transfer and/or store your personal information**   
+Some of the recipients we have described in section 10 above, and to whom we disclose your personal information, are based outside  in places like Canada, Ireland, Philippines, Poland, Romania, UK, Philippines and the US. We do this on the basis of your consent to this policy. In order to protect your information, we take care where possible to work with subcontractors and service providers who we believe maintain an acceptable standard of data security compliance. 
+
+**How we keep your personal information secure**
+
+  * We store personal information on secure servers that are managed by us and our service providers, and occasionally hard copy files that are kept in a secure location in the US. Personal information that we store or transmit is protected by security and access controls, including username and password authentication, two-factor authentication, and data encryption where appropriate. 
+
+
+
+**How you can access your personal information**
+
+  * You can access some of the personal information that we collect about you by logging in to your account. You also have the right to make a request to access other personal information we hold about you and to request corrections of any errors in that data. You can also close the account you have with us for any of our Sites at any time. To make an access or correction request, contact our privacy champion using the contact details at the end of this policy. privacy@SoftwareProjects.com 
+
+
+
+**Marketing Choices regarding your personal information**
+
+
+
+
+Where we have your consent to do so (e.g. if you have subscribed to one of our e-mail lists or have indicated that you are interested in receiving offers or information from us), we send you marketing communications by email about products and services that we feel may be of interest to you. You can 'opt-out' of such communications if you would prefer not to receive them in the future by using the “unsubscribe” facility provided in the communication itself. 
+
+* You also have choices about cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject cookies some parts of our Sites may not work properly in your case. 
+
+**Cookies and web analytics**
+
+  * For more general information on cookies, see http://www.allaboutcookies.org.
+
+
+
+When you visit our Sites, there's certain information that's recorded which is generally anonymous information and does not reveal your identity. If you're logged into your account some of this information could be associated with your account. We're talking about the following kinds of details: 
+
+  * your IP address or proxy server IP address';
+  * the domain name you requested;
+  * the name of your internet service provider is sometimes captured depending on the configuration of your ISP connection;
+  * the date and time of your visit to the website;
+  * the length of your session;
+  * the pages which you have accessed;
+  * the number of times you access our site within any month;
+  * the file URL you look at and information relating to it;
+  * the website which referred you to our Sites; and
+  * the operating system which your computer uses.
+
+
+
+Occasionally, we will use third party advertising companies to serve ads based on prior visits to our Sites. For example, if you visit our Sites, you may later see an advert for our products and services when you visit a different Site. 
+
+**Information about children**
+
+  * Our Sites are not suitable for children under the age of 16 years, so if you are under 16 we ask that you do not use our Sites or give us your personal information (if you are a young tech wiz, please direct your nearest responsible adult to use the Sites for you!). If you are from 16 to 18 years, you can browse the Sites but you'll need the supervision of a parent or guardian to become a registered user. It's the responsibility of parents or guardians to monitor their children's use of our Sites. 
+
+
+
+**Information you make public or give to others**
+
+  * If you make your personal information available to other people, we can't control or accept responsibility for the way they will use or manage that data. There are lots of ways that you can find yourself providing information to other people, like when you post a public message on a forum thread, share information via social media, or make contact with another user (such as a supplier) whether via our Sites or directly via email. Before making your information publicly available or giving your information to anyone else, think carefully. If giving information to another person, ask them how they will handle your information. If you're sharing information via another website, check the privacy policy for that site to understand its information management practices as this privacy policy will not apply. 
+
+
+
+**How long we keep your personal information**
+
+  * We retain your personal information for as long as is necessary to provide the services to you and others, and to comply with our legal obligations. If you no longer want us to use your personal information or to provide you with the SoftwareProjects services, you can request that we erase your personal information and close your SoftwareProjects account. Please note that if you request the erasure of your personal information we will retain information from deleted accounts as necessary for our legitimate business interests, to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the terms of service and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy. 
+
+
+
+**When we need to update this policy**
+
+  * We will need to change this policy from time to time in order to make sure it stays up to date with the latest legal requirements and any changes to our privacy management practices.
+  * When we do change the policy, we'll make sure to notify you about such changes, where required. A copy of the latest version of this policy will always be available on this page.
+
+
+
+**How you can contact us**
+
+  * If you have any questions about our privacy practices or the way in which we have been managing your personal information, please contact us via email on privacy@SoftwareProjects.com 
+  * We're really glad you made it to the end of the privacy policy, because knowing this stuff is the best way to understand how your personal information is used and how to best manage it! 
+
+
+
+**If you're a user or visitor in the European Economic Area these rights also apply to you:**
+
+  * For the purposes of applicable EU data protection law (including the General Data Protection Regulation 2016/679 (the “GDPR”), we are a 'data controller' of your personal information.
+
+
+
+**How you can access your personal information**
+
+  * You are also entitled to ask us to port your personal information (i.e. to transfer in a structured, commonly used and machine-readable format, to you), to erase it, or restrict its processing. You also have rights to object to some processing that is based on our legitimate interests, such as profiling that we perform for the purposes of direct marketing, and, where we have asked for your consent to process your data, to withdraw this consent as more fully described below.
+  * These rights are limited in some situations – for example, we can demonstrate that we have a legal requirement to process your personal information. In some instances, this means that we may retain some data even if you withdraw your consent.
+  * Where we require your personal information to comply with legal or contractual obligations, then provision of such data is mandatory: if such data is not provided, then we will not be able to manage our contractual relationship with you, or to meet obligations placed on us. In all other cases, provision of requested personal information is optional.
+  * If you have unresolved concerns you also have the right to complain to data protection authorities. The relevant data protection authority will be the data protection authority of the country: (i) of your habitual residence; (ii) of your place of work; or (iii) in which you consider the alleged infringement has occurred.
+
+
+
+**Both personal information and personal data have the same meaning in the context of this Privacy Policy.**   
+**SoftwareProjects 2.1 effective date 25 May 2018**
