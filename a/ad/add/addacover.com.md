@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addacover.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527040723id_/http%3A//www.covermyfb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addacover.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126075040id_/http%3A//www.covermyfb.com/privacy-policy.html) for the most accurate reproduction.*
 
 # CoverMyFB.com Privacy Policy
 
