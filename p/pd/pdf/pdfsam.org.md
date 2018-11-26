@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfsam.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624110441id_/https%3A//pdfsam.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfsam.org privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126061812id_/https%3A//pdfsam.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PDFsam
 
