@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dobeweb.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103201505id_/http%3A//dobeweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobeweb.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126095352id_/http%3A//dobeweb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy _Dobeweb
+# Privacy Policy – Dobeweb
 
 **Privacy Policy for dobeweb.com**  
 The privacy of our visitors to dobeweb.com is important to us. At dobeweb.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit dobeweb.com, and how we safeguard your information. We never sell your personal information to third parties.  
