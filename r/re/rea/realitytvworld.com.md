@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realitytvworld.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620180748id_/http%3A//www.realitytvworld.com/realitytvworld/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitytvworld.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126180148id_/http%3A//www.realitytvworld.com/realitytvworld/privacy.shtml) for the most accurate reproduction.*
 
 # Reality TV World Privacy Policy @ Reality TV World - News, information, episode summaries, message boards, chat and games for unscripted television programs
 
