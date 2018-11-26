@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the39clues.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527111610id_/http%3A//the39clues.scholastic.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the39clues.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126011721id_/http%3A//the39clues.scholastic.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Scholastic Inc.
 
@@ -228,7 +228,7 @@ Email: custserv@scholastic.com
 Phone: 1-800-SCHOLASTIC  
 
 
-This Privacy Policy replaces our former privacy policy which you can find posted [here](https://web.archive.org/web/20180527111610id_/http://www.scholastic.com/privacy-v2017-01-09-live-page.htm).
+This Privacy Policy replaces our former privacy policy which you can find posted [here](https://web.archive.org/web/20181126011721id_/http://www.scholastic.com/privacy-v2017-01-09-live-page.htm).
 
 **Effective Date:** May 25, 2018
 
