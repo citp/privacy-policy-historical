@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172017id_/https%3A//jangomail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126073349id_/https%3A//jangomail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - JangoMail
 
-## Privacy Statement
+This privacy policy statement applies to JangoMail, owned and operated by JangoMail.com LLC. JangoMail has created this privacy policy in order to demonstrate our firm and continuing commitment to the privacy of personally identifiable information provided by those visiting and interacting with the JangoMail public website: [JangoMail.com](https://jangomail.com/) and the JangoMail application (for clients). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. Elements of this policy also apply to JangoSMTP, operating as the SMTP-only version of JangoMail.
 
-This privacy statement applies to JangoMail.com, owned and operated by JangoMail LLC. JangoMail has created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personally identifiable information provided by those visiting and interacting with the JangoMail public website: [jangomail.com](https://jangomail.com/) and the JangoMail application (for clients). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
+**If you are subject to the EU General Data Protection Regulation (“GDPR”), please see additional information[here](https://web.archive.org/gdpr).**  
+
+
+ If you have any questions or concerns regarding this statement, you should first contact the Director of Operations at 1-888-465-2646, 8087 Washington Village Drive, Suite 201, Dayton, OH 45458. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact privacyshield@us.jangomail.com.
+
+JangoMail complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce and related European entities regarding the collection, use, and retention of personal information from European Union member countries. JangoMail has certified that it adheres to the Privacy Shield Framework principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield Framework program, and to view JangoMail’s [listing](https://www.privacyshield.gov/list), please visit <https://www.privacyshield.gov/welcome>.
 
 ### Your Email Lists and Databases
 
@@ -98,4 +103,4 @@ JangoMail
 8087 Washington Village Drive, Suite 201  
 Dayton, OH 45458  
 Or see the [Contact Us](https://jangomail.com/contact/ "Contact Us") page.  
-Last Updated March 4, 2016
+Last Updated May 5, 2016
