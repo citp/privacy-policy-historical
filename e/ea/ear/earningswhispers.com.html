@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the earningswhispers.com privacy policy that was archived on 2017-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170202130332id_/https%3A//earningswhispers.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the earningswhispers.com privacy policy that was archived on 2018-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181126062052id_/https%3A//www.earningswhispers.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" itemscope="" itemtype="http://schema.org/Product"><head>
 <!--[if lte IE 8]>
@@ -8,7 +8,7 @@ location.assign('http://old.earningswhispers.com');
 </script>
 <![endif]-->
 
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2"><link type="text/css" rel="stylesheet" href="/css/menu.css"><link type="text/css" rel="stylesheet" href="/css/fonts.css"><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=666594503445061&amp;version=v2.3"></script><script src="/js/jquery-2.1.3.min.js" type="text/javascript"></script><script src="/js/menu.js" type="text/javascript"></script>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2"><link type="text/css" rel="stylesheet" href="/css/menu.css"><link type="text/css" rel="stylesheet" href="/css/fonts.css"><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=244502722705282&amp;version=v2.8"></script><script src="/js/jquery-2.1.3.min.js" type="text/javascript"></script><script src="/js/menu.js" type="text/javascript"></script>
 		<link rel="icon" href="/favicon.ico"><meta name="norton-safeweb-site-verification" content="kpf4oy1ku-vmpefj2hvc-9huftrudbvrc-sitc59n95l3hmco6oxqh7olepoo29z2k9u61h5fb7u7--prfaw4tk-v59dwwvzp2a7q0m3aa7boapka36l4k2wpw171vft"><meta name="google-signin-clientid" content="444005803857-rth9bgpac9inmgeertmtc37jnj5aoodf.apps.googleusercontent.com"><meta name="google-signin-scope" content="email"><meta name="google-signin-cookiepolicy" content="single_host_origin"><link type="text/css" rel="stylesheet" href="css/members.css">
 <title>
 
@@ -16,13 +16,13 @@ location.assign('http://old.earningswhispers.com');
 <body>
 
   
-<script src="https://apis.google.com/js/client:platform.js?onload=render" async="" defer=""></script>
+<script src="https://apis.google.com/js/api:client.js"></script>
     <div id="fb-root"></div>
     <script>(function (d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
     js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=666594503445061&version=v2.3";
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=244502722705282&version=v2.8";
     fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -41,7 +41,7 @@ location.assign('http://old.earningswhispers.com');
                 access_token = response.authResponse.accessToken;
                 user_id = response.authResponse.userID;
 
-                FB.api('/me', function (response) {
+                FB.api('/me', {fields: 'first_name,last_name,name,locale,email'}, function (response) {
                     user_email = response.email;
                     user_firstname = response.first_name;
                     user_lastname = response.last_name;
@@ -105,7 +105,6 @@ location.assign('http://old.earningswhispers.com');
                     g_firstname = user.given_name;
                     g_lastname = user.family_name;
                     g_fullname = user.name;
-                    g_locale = user.locale;
                     g_picture = user.picture;
                     g_gender = user.gender;
                     g_id = user.id;
@@ -115,7 +114,7 @@ location.assign('http://old.earningswhispers.com');
                         type: "POST",
                         url: "googleplus",
                         async: true,
-                        data: { 'useremail': g_email, 'firstname': g_firstname, 'lastname': g_lastname, 'fullname': g_fullname, 'locale': g_locale, 'accesstoken': accesstoken, 'userid': g_id, 'userimg': g_picture, 'usergender': g_gender, 'newsletters': 'Yes', 'offers': 'Yes', 'bwidth': screen.width, 'bheight': screen.height },
+                        data: { 'useremail': g_email, 'firstname': g_firstname, 'lastname': g_lastname, 'fullname': g_fullname, 'accesstoken': accesstoken, 'userid': g_id, 'userimg': g_picture, 'usergender': g_gender, 'newsletters': 'Yes', 'offers': 'Yes', 'bwidth': screen.width, 'bheight': screen.height },
                         beforeSend: function () {
                             $("#login_error").text("verifying...");
                         },
@@ -274,7 +273,7 @@ location.assign('http://old.earningswhispers.com');
          
     <form method="post" action="./privacy_policy" id="form1" class="content-wrap">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkedJsk2Grm/nLPzm8JywdtfZmFeLxGIU9cE4RPYkX+ec=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkFCCx8ZOTbS/EXaDzB2bdzNqpeskV6jR/SKpTMmGTiVY=">
 </div>
 
 <div class="aspNetHidden">
@@ -384,7 +383,7 @@ Last updated 5/15/10
 </div>
 <div id="disclaimer">Past performance is not indicative of future results. </div>
 <img class="media" src="/images/media2.png" alt="Earnings Whispers is the most trusted source for real earnings expectations - relied on by more people than any other earnings-dedicated website.  The Wall Street Journal says EarningsWhispers is the only provider of real whisper numbers from securities analysts.  A Bloomberg News study found EarningsWhispers to be the most accurate source fo earnings expectations.  Academic studies show trading on EarningsWhispers data significantly outperforms the overall market.  Barron's says EarningsWhispers is their favorite source for earnings information.  Michael Lewis, bestselling author of Flash Boys, Liar's Poker, The Big Short, &amp; The Blindside said EarningsWhispers is more reliable than the most highly paid analyst on Wall Street.">
-<div id="copyright">Copyright © 1998 - 2017  EarningsWhispers<span> - the professionals' earnings expectation.  All rights reserved</span>.</div>
+<div id="copyright">Copyright © 1998 - 2018  EarningsWhispers<span> - the professionals' earnings expectation.  All rights reserved</span>.</div>
 
 </footer>
 
