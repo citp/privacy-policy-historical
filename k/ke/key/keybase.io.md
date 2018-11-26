@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the keybase.io privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616084421id_/https%3A//keybase.io/docs/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keybase.io privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126025145id_/https%3A//keybase.io/docs/privacypolicy) for the most accurate reproduction.*
 
 # Keybase
 
 **Keybase – Privacy Policy**
 
-Last updated: 4/4/15
+Last updated: 2018 Jul 24
 
 This Privacy Policy explains the information that Keybase, Inc. ( **“Keybase,”** **“we,”** or **“us”** ) collects about users of the Keybase software, website and related services ( **“Service”** ), how we use that information, and with whom we share it, as well as your choices about such uses and disclosures.
 
@@ -46,15 +46,15 @@ Information collected automatically:
 Usage Information. When you access or use the Service, we automatically collect and store information about your browsing habits and your use of the Service ( **“Usage Information”** ), including:
 
   * a. Your computer’s IP address
-  * b. Your preferences and settings (time zone, language, privacy preferences, application preferences, etc.)
-  * c. The URL of the site that referred you to the Service
-  * d. The buttons and controls you clicked on (if any) within the Service
-  * e. How long you used the Service and which parts and features you used
-  * f. Session times and lengths
+  * b. The URL of the site that referred you to the Service
+  * c. The buttons and controls you clicked on (if any) within the Service
+  * d. How long you used the Service and which parts and features you used
+  * e. Session times and lengths
+  * f. Your preferences and settings (time zone, language, privacy preferences, application preferences, etc.)
 
 
 
-Logs of this information may persist for an indefinite period.
+Logs containing (a) and (b) are preserved for up to a month. Data in (c) through (f) can persist indefinitely.
 
 Use of Your Information
 
