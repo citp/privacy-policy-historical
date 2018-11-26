@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letfap.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625172408id_/http%3A//letfap.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letfap.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126173631id_/http%3A//letfap.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - LetFap
 
