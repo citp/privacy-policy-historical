@@ -1,61 +1,59 @@
-> *The following text is extracted and transformed from the toponlineshopping.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628002654id_/http%3A//thednanews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toponlineshopping.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126181842id_/http%3A//toponlineshopping.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DNA NEWS
+# Privacy Policy – TopOnlineShopping
 
-This Privacy Policy governs the manner in which [ **http://thednanews.com/**](http://thednanews.com/)  collects, uses, maintains and discloses information collected from users (each, a User) of the http://thednanews.com/ ** ** website (Site). This privacy policy applies to the Site, all products and services offered by www.thednanews.com/ **.**
+## Privacy Policy for TopOnlineShopping.Com
 
-**Personal Identification Information**
+At http://www.toponlineshopping.com/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by http://www.toponlineshopping.com/ and how we use it.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletters, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at tosshello@gmail.com.
 
-**Non-personal Identification Information**
+**Log Files**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providersutilized and other similar information.
+http://www.toponlineshopping.com/ follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users’ movement on the website, and gathering demographic information.
 
-**Web Browser Cookies**
+### Cookies and Web Beacons
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Like any other website, http://www.toponlineshopping.com/ uses ‘cookies’. These cookies are used to store information including visitors’ preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users’ experience by customizing our web page content based on visitors’ browser type and/or other information.
 
-**How We Use Collected Informations?**
+### DoubleClick DART Cookie
 
-**www.thednaNews.com**  collects and uses Users personal information for the following purposes:
+Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <http://www.google.com/privacy_ads.html>.
 
-– To improve our Site  
-We continuously strive to improve our website offerings based on the information and feedback we receive from you.
+### Our Advertising Partners
 
-– To improve customer service  
-Your information helps us to more effectively respond to your customer service requests and support needs.
+Some of advertisers on our site may use cookies and web beacons. Our advertising partners include:
 
-**How We Protect Your Information?**
+  * Google
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-**Sharing Your Personal Information**
+Each of our advertising partners has their own Privacy Policy for their website. For easier access, an updated and hyperlinked resource is maintained here:
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+**Privacy Policies**
 
-**Compliance With Children’s Online Privacy Protection Act**
+You may consult this list to find the Privacy Policy for each of the advertising partners of http://www.toponlineshopping.com/.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on http://www.toponlineshopping.com/, which are sent directly to users’ browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
-**Changes To This Privacy Policy**
+Note that http://www.toponlineshopping.com/ has no access to or control over these cookies that are used by third-party advertisers.
 
-**www.thednanews.com**  has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**Third Part Privacy Policies**
 
-**Your Acceptance Of These Terms**
+http://www.toponlineshopping.com/’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
 
-By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites. What Are Cookies?
 
-**Your Consent**
+**Children’s Information**
 
-By using our site, you consent to our privacy policy.
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
-**Contacting Us**
+http://www.toponlineshopping.com/ does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
-If you have any questions regarding this privacy policy, the practices of this website or your dealings with this website, you can contact with us at  **thednanewz@gmail.com**
+**Online Privacy Policy Only**
 
-[**http://www.thednanews.com**](http://www.thednanews.com/)  
-New Delhi,  
-India
+This privacy policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in http://www.toponlineshopping.com/. This policy is not applicable to any information collected offline or via channels other than this website.
+
+**Consent**
+
+By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
