@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turkeytalent.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527220856id_/http%3A//www.turkeytalent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turkeytalent.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126021327id_/http%3A//www.turkeytalent.com/privacy-policy) for the most accurate reproduction.*
 
 # Turkey Talent
 
