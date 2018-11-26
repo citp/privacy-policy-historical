@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wttw.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622080945id_/http%3A//interactive.wttw.com/wwci-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wttw.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126165005id_/https%3A//interactive.wttw.com/wwci-privacy-policy) for the most accurate reproduction.*
 
-# WWCI Privacy Policy | WTTW Chicago Public Media - Television and Interactive
+# WWCI Privacy Policy | WTTW Chicago
 
 #### (Updated: 2/22/18)
 
