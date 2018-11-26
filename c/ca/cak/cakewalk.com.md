@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the cakewalk.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525161956id_/http%3A//www.cakewalk.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakewalk.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126035523id_/http%3A//www.cakewalk.com/Privacy) for the most accurate reproduction.*
 
 # Cakewalk Privacy Policy
+
+###  Cakewalk by BandLab is free.   
+Get the award-winning DAW now. 
+
+Following the acquisition of certain assets and the complete set of intellectual property of Cakewalk Inc. from Gibson Brands on 2/23/18, BandLab Technologies announced the relaunch of SONAR as Cakewalk by BandLab - available free-to-download to all BandLab users worldwide. 
+
+As of Feb 21st 2018, information elsewhere on this website may no longer be accurate. 
+
+Close and browse the legacy Cakewalk website. 
 
 Cakewalk is committed to protecting the privacy of all information provided by our users. Please read the privacy policy below.
 
