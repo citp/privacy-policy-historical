@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lendup.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613162628id_/https%3A//www.lendup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendup.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126133052id_/https%3A//www.lendup.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security
 
-## LendUp Privacy Policy
+## Flurish, Inc. Privacy Policy
 
 #### Effective date: March 9, 2017
 
-LendUp Global, Inc. and its affiliates (“LendUp” or “we”) respect your privacy and are committed to protecting your personally identifiable information (“PII”) that may be collected through your use of our website or mobile application (together, “Site”) or in applying for or receiving any of our products or services (“Services”). This privacy policy (“Policy”) describes how we collect and use your PII and how you can control that use.
+Flurish, Inc. dba LendUp (“LendUp” or “we”) respect your privacy and are committed to protecting your personally identifiable information (“PII”) that may be collected through your use of our website or mobile application (together, “Site”) or in applying for or receiving any of our products or services (“Services”). This privacy policy (“Policy”) describes how we collect and use your PII and how you can control that use.
 
 Please read this Policy carefully. By using our Site or Services, you agree to our collection, use, and sharing of your PII as described in this Policy.
 
@@ -125,8 +125,8 @@ We reserve the right to modify this Policy at any time, so please review it freq
 #### Contact Us
 
 LendUp  
-237 Kearny St., #372  
-San Francisco, CA 94108  
+225 Bush Street, 11th Floor  
+San Francisco, CA 94104  
 1-855-253-6387
 
 Last Updated: 03/09/2017
