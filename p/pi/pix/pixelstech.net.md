@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pixelstech.net privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118134247id_/https%3A//www.pixelstech.net/document/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelstech.net privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126031119id_/https%3A//www.pixelstech.net/document/privacy.php) for the most accurate reproduction.*
 
 # Privacy and policy
 
-This Privacy Policy governs the manner in which Pixelstech collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.pixelstech.net](http://www.pixelstech.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Pixelstech.
+This Privacy Policy governs the manner in which Pixelstech collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://www.pixelstech.net](https://www.pixelstech.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Pixelstech.
 
 **Personal identification information**
 
