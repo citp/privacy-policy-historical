@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallis.co.uk privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526113233id_/http%3A//www.wallis.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33058%26storeId%3D12557%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D281007%26interstitial%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallis.co.uk privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126032601id_/http%3A//www.wallis.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33058%26storeId%3D12557%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D281007%26interstitial%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy - Wallis
 
@@ -1106,7 +1106,7 @@ We, Donna and Sarah, started Dressipi as busy women, with little time to shop bu
 
 Dressipi’s mission is to give you the confidence to look your best and feel great about your shopping and dressing decisions.
 
-**Wallis Retail Limited GDPR   Cookies Policy**
+**Wallis Retail Limited GDPR Cookies Policy**
 
 Our website uses cookies to collect information.
 
@@ -1125,7 +1125,9 @@ Our website uses cookies to collect information.
 
 4.4.    Marketing cookies
 
-5.0     Third party cookies
+  5. Third party cookies
+
+
 
 5.1.    What third party cookies do we use and why
 
@@ -1133,29 +1135,31 @@ Our website uses cookies to collect information.
 
 5.3.    Social buttons
 
- 6.0       How to mange cookie
+  6. How to manage cookies
+  7. Checking which browser you use
 
-7.0     Checking which browser you use
+
 
 7.1.    PCs
 
 7.2.    MAC
 
- 8.0   Other details you should know
+  8. Other details you should know
+
 
   1. **What is a cookie?**
 
 
 
-Cookies are small files of letters and numbers that are downloaded onto your computer or mobile or other handheld device when you access certain websites.  Cookies allow a website to recognise a user’s device and help your browser navigate through the website by allowing you to log in automatically or remembering settings you selected during earlier visits (among other functions).  Cookies do not harm your computer.  If you would like to learn more about cookies in general you can visit www.allaboutcookies.org
+Cookies are small files of letters and numbers that are downloaded onto your computer, mobile or other handheld device when you access certain websites. Cookies allow a website to recognise a user’s device and help your browser navigate the website by allowing you to log in automatically or remembering settings you selected during earlier visits (among other functions).  Cookies do not harm your computer.  If you would like to learn more about cookies in general you can visit www.allaboutcookies.org
 
   2. **Use of cookies on this website**
 
 
 
-Cookies help us to provide you with a good experience when you browse this website and allow you to make full use of the online shopping and personalised features available on this website.  We do not use cookies to collect or record information such as your name, address or payment details.
+Cookies help us provide you with an excellent experience when you browse our website. They also allow you to make full use of the online shopping and personalised features available on this website.  We do not use cookies to collect or record information such as your name, address or payment details.
 
-Sometimes we link information from cookies with you, such as when you are using our website and logged in to your account. In such cases the combined data is your personal information and you should also read our privacy policy. 
+Sometimes we link information from cookies with you, such as when you are using our website and logged in to your account. In such cases the combined data is your personal information and you should read our   for further information. 
 
   3. **Why we use cookies**
 
@@ -1163,15 +1167,15 @@ Sometimes we link information from cookies with you, such as when you are using 
 
 We use cookies on this website for the following main purposes:
 
-  * **Strictly Functional Cookies** : for technical purposes essential for the operation of this website and / or your use of it, such as keeping track of your current shopping session and enabling you to proceed to checkout and pay for products;
+  * **Strictly Functional Cookies** : for technical purposes essential for the operation of this website and your use of it, such as keeping track of your current shopping session and enabling you to proceed to checkout and pay for products;
   * **Measurement and Analytics Cookies** : to collect statistical information about how visitors use this website, calculate views, analyse popular products by quantifying clicks. This is so we can improve the way this website works and measure the success of competitions and campaigns;
-  * **Personalisation Cookies** : to distinguish you from other users of this website, so we can personalise your shopping experience and allow us to improve your use of the website. These help ensure all that is displayed on our site is more relevant to your interests and so we can remember choices you make (such as your user name, language or the country you are in)
+  * **Personalisation Cookies** : to distinguish you from other users of this website, so we can personalise your shopping experience and allow us to improve your website experience. These help ensure all that is displayed on our site is more relevant to your interests and so we can remember choices you make (such as your user name, language or the country you are in)
   * **Marketing Cookies** : to ensure the marketing content that you receive on sites other than our own is relevant and reflects the interests you have shown when browsing on our site.
-  * **Third party cookies** : used by third parties to collect data when you are on our website and sometimes when you are on other websites. We do not receive their data. They can be used for any of the above reasons but are mainly used to help provide behavioural targeted advertising to you online. These also enable us to fulfil our contractual obligations to third parties, for example to pay a partner if you have made a purchase on this website by following a link from their website.
+  * **Third party cookies** : used by third parties to collect data when you are on our website and sometimes when you are on other websites. We do not receive their data. They can be used for any of the above reasons but are mainly used to help provide behavioural targeted advertising to you online. These can also enable us to fulfil our contractual obligations to third parties, for example to pay a partner if you have made a purchase on this website by following a link from their website.
 
 
 
-Most web browsers automatically accept cookies when they are dropped on your computer, mobile  or other handheld device.  You can adjust your browser settings so that it will refuse cookies. By accepting cookies when visiting our website, you consent to cookies being used in accordance with this Cookies Policy.  You can change your mind at any time about your consent. If you do not consent to cookies, or have changed your mind about cookies, you must either disable cookies through your browser or refrain from using this website.  Please go to ‘How To Manage Cookies’ section below for information on how to manage and disable cookies.
+Most web browsers automatically accept cookies when they are dropped on your computer, mobile or other handheld device.  You can adjust your browser settings so that it will refuse cookies. By accepting cookies when visiting our website, you consent to cookies being used in accordance with this Cookies Policy (hereafter referred to as “the policy”).  You can change your mind at any time about your consent. If you do not consent to cookies, or have changed your mind about cookies, you should either disable cookies through your browser or refrain from using this website.  Please go to ‘How to Manage Cookies’ section below (section 6) for information on how to manage and disable cookies.
 
   4. **Our cookies**
 
@@ -1179,7 +1183,7 @@ Most web browsers automatically accept cookies when they are dropped on your com
 
 **4.1 Strictly functional cookies**
 
-These cookies help make a website useable and are essential in helping you move around our site and use it’s features. Without these cookies you would not be able navigate our site and gain access to secure areas such as signing into your account, add something to the basket or make purchases.
+These cookies help make our website useable and are essential in helping you move around our site and use its’ features. They enable you to navigate our site and gain access to secure areas (for example, where you sign into your account, add items to your basket or make purchases).
 
 **Cookie Name**
 
@@ -1203,9 +1207,8 @@ Apache
 
 This helps the website run cookies, without this the website would not work  
   
-akavpau_VP_TS     
-akacd_monty-prod    
-akaas_JSONPakaas_DRET  
+akavpau_VP_EV,    
+akacd_monty-prod, Pakaas_DRET  
 akaas_Checkout_AB
 
 | 
@@ -1214,13 +1217,33 @@ Arcadia Akamai (Internal)
 
 | 
 
-Used to identify which of our mobile device web platforms you are connected to  
+Used to identify which Monty site/AB test you are running on  
+  
+dual-run, traceId2, source, cookietest, se_t - Active Queue, se_q - Active Queue, se - Queue Processing, se – Queue, se - Error Count, se - Active Queue, tempsession, mostRecentProp19, AB_PHOTO, cartId, cartItemId, cartValue, cartSize, currentDeliveryCountry
+
+| 
+
+Arcadia (Internal)
+
+| 
+
+These cookies are used to support the website and user experience, without these the website would not work  
   
 userPreferredUrl, userLanguage, usergeo, userCountry, prefShipCtry
 
 | 
 
 Arcadia WCS (Internal)
+
+| 
+
+These cookies remember your preferences from previous visits, allow you to add to basket and store your shopping basket. The website wouldn't work for you without them  
+  
+wcsstore/ConsumerDirectStorefrontAssetStore/images/trans_pixel.gif, WC_USERACTIVITY_-1002, WC_SESSION_ESTABLISHED, WC_PERSISTENT, WC_GENERIC_ACTIVITYDATA, WC_AUTHENTICATION_-1002, WC_ACTIVEPOINTER,WC_AUTHENTICATION_#,   WC_USERACTIVITY_#, jsessionid, , WC_pickUpStore
+
+| 
+
+IBM
 
 | 
 
@@ -1236,16 +1259,6 @@ doubleclick (Google)
 
 Used to check if the user's browser supports cookies  
   
-AWSELB
-
-| 
-
-Amazon Web Services
-
-| 
-
-Used to distribute traffic to the website on several servers in order to optimise response times  
-  
 JSESSIONID
 
 | 
@@ -1256,29 +1269,9 @@ nr-data.net
 
 Preserves users states across page requests  
   
-dual-run, recentlyViewed, traceId2, PHPSESSID, source, cookietest, se_t - Active Queue, se_q - Active Queue, se - Queue Processing, se – Queue, se - Error Count, se - Active Queue, tempsession
-
-| 
-
-Arcadia (Internal)
-
-| 
-
-These cookies are used to support the website and user experience, without these the website would not work  
-  
-wcsstore/ConsumerDirectStorefrontAssetStore/images/trans_pixel.gif, WC_USERACTIVITY_-1002, WC_SESSION_ESTABLISHED, WC_PERSISTENT, WC_GENERIC_ACTIVITYDATA, WC_AUTHENTICATION_-1002, WC_ACTIVEPOINTER, jsessionid
-
-| 
-
-IBM
-
-| 
-
-These cookies remember your preferences from previous visits, allow you to add to basket and store your shopping basket. The website wouldn't work for you without them  
-  
 **4.2 Statistical cookies**
 
-These cookies help us to understand how users interact with our site and provide statistical analysis of our site. In order to keep our site easy to use, working properly and up-to-date, we use web analytics services to help us understand how people use our site. For example we see which areas are most popular, identify when errors occur and can test different features to see which works best.
+These cookies help us to understand how users interact with our site and provide us with statistical analysis of our site. We also use web analytics to ensure our site is easy to use, working properly and up-to-date. They also help us understand how people use our site. For example, we see which areas are most popular, identify when errors occur and can test different features to see which works best.
 
 **Cookie Name**
 
@@ -1302,23 +1295,17 @@ Adobe
 
  These cookies enable SiteCatalyst analytics software, supplied by Adobe. This software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and shopping times. That information helps us to improve the website and your shopping experience, and to make our marketing campaigns relevant.  
   
-SERVERID
-
-| 
-
-Media Forge
-
-| 
-
-Unique user ID that recognizes the user on returning visits  
-  
 en-persist
 
 | 
 
-ecustomeropinions.com  
+ecustomeropinions.com
+
+| 
+
+Collects customer feedback data. Used by Mopinion  
   
-_utmz, _utmt, _utmc, _utmb, _utma, _utm.gif, _gid, _gat, _gali, _ga
+_utmz, _utmt, _utmc, _utmb, _utma, _utm.gif, _gid, _gali, _ga
 
 | 
 
@@ -1326,7 +1313,7 @@ Google Analytics
 
 | 
 
-Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics  
+Collects data on where the user came from, what search engine was used , what link was clicked and what search term was used . Used by Google Analytics  
   
 GTM-Store, _dc_gtm_UA-#
 
@@ -1354,26 +1341,6 @@ These cookies enable a website to remember information that changes the way the 
   
 ---|---|---  
   
-rmuid
-
-| 
-
-linksynergy.com
-
-| 
-
-This class consists entirely of inline methods to create and manipulate UUID's (universally unique identifier) via UUID library functions  
-  
-uid3, uID, icts
-
-| 
-
-mediaforge.com
-
-| 
-
-Unique user ID that recognizes the user on returning visits  
-  
 PugT, PUBMDCID
 
 | 
@@ -1400,27 +1367,7 @@ Marketing cookies are used to track visitors across websites. The intention is t
   
 ---|---|---  
   
-IDSYNC, APID
-
-| 
-
-Advertising.com
-
-| 
-
-Leverages multiple data sources and ensures focus on video advertising  
-  
-st.gif, sid.gif, BVSID, BVID
-
-| 
-
-bazaarvoice.com
-
-| 
-
-These cookies ensure that we can show reviews and consumer photos of our products, enabling you to make a better choice  
-  
-xyz_cr_100138_et_100
+xyz_cr_100139_et_100
 
 | 
 
@@ -1429,36 +1376,6 @@ Cheetahmail
 | 
 
 To help offer relevant marketing emails to the customer  
-  
-V, sto-id-20480-bh, pb_rtb_ev
-
-| 
-
-contextweb.com
-
-| 
-
-Registers technical user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network  
-  
-_#pid
-
-| 
-
-dc-storm.com
-
-| 
-
-Interest-based advertising: This is a management solution used to track the effectiveness of different advertising campaigns which are delivered to different audiences on site  
-  
-rt_#, DotomiUser, DotomiTest, DotomiSession_61383
-
-| 
-
-dotomi.com
-
-| 
-
-Via a unique ID that is used for semantic content analysis, the user's navigation on the website is registered and linked to offline data from surveys and similar registrations to display targeted ads  
   
 IDE
 
@@ -1470,16 +1387,6 @@ doubleclick (Google)
 
 Real time bidding advertising exchange  
   
-tr, fr
-
-| 
-
-facebook.com
-
-| 
-
-Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers  
-  
 collect
 
 | 
@@ -1490,7 +1397,7 @@ Google Analytics
 
 Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels  
   
-NID, ads/user-lists/#, ads/ga-audiences
+ads/ga-audiences
 
 | 
 
@@ -1498,29 +1405,9 @@ google.com
 
 | 
 
-Contains a unique ID that Google uses to remember your preferences and other information, such as your preferred language (e.g. English), how many search results you wish to have shown per page (e.g. 10 or 20) and whether or not you wish to have Google’s SafeSearch filter turned on. These are also used to create remarketing based on user behavior on the site  
+Contains a unique ID that Google uses to remember your preferences and other information, such as your preferred language (e.g. English), how many search results you wish to have shown per page (e.g. 10 or 20) and whether or not you wish to have Google’s SafeSearch filter turned on. These are also used to create remarketing based on user behaviour on the site  
   
-svid, rts, cttutcid
-
-| 
-
-mediaplex.com
-
-| 
-
-Via a unique ID that is used for semantic content analysis, the user's navigation on the website is registered and linked to offline data from surveys and similar registrations to display targeted ads.  
-  
-i
-
-| 
-
-openx.net
-
-| 
-
-Registers technical user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network  
-  
-peerius_user, peerius_sess, peerius_rid, peerius_ct 
+peerius_user, peerius_sess, peerius_rid, peerius_ct, peeriusUserSent
 
 | 
 
@@ -1528,19 +1415,9 @@ Peerius
 
 | 
 
-These cookies enable Peerius software. This software allows us to make recommendations of products that we think might be of interest to you, based on what you and other visitors have viewed on the site  
+These cookies enable Peerius software. This software allows us to make recommendations of products that we think might be of interest to you, based on what you and other visitors have viewed  
   
-PugT, PUBMDCID, KRTBCOOKIE_#
-
-| 
-
-pubmatic.com
-
-| 
-
-Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads  
-  
-x_qtag_montytopshopukmobile, x_qtag_48570, Queue That - Queue Processing, Queue That – Queue, Queue That - Error Count, Queue That - Active Queue, qubit_platform, qb_UserType, qb_session, qb_persist_test, qb_permanent, _qubitVistory, _qubitVisitorId, _qubitUACategorisation, _qubitTracker_s, _qubitTracker, _qubitTabID, _qubitPingQueueLock, _qubitPingQueue, _qubitFlips, _qst_s, _qst, _qsst_s, _qsst, _qPageNum_topshop-eu, _qPageNum_topshop_us_mobile, _qPageNum_topshop_uk_mobile, _qPageNum_topshop_fr_mobile, _qPageNum_topshop_eu_mobile, _qPageNum_topshop_de_mobile
+Queue That - Queue Processing, Queue That – Queue, Queue That - Error Count, Queue That - Active Queue, qubit_platform, qb_session, qb_persist_test, qb_permanent, _qubitVisitorId, _qubitUACategorisation, _qubitTracker_s, _qubitTracker, _qubitTabID, _qubitPingQueueLock, _qubitPingQueue, _qst_s, _qst, _qsst_s, _qsst, _qPageNum_wallis-eu, x_qtag_49202, _qPageNum_wallis_uk_mobile, x_qtag_montywallisukmobile, _qPageNum_wallis_eu_mobile
 
 | 
 
@@ -1548,48 +1425,67 @@ Qubit
 
 | 
 
- These cookies enable Qubit analytics software. This software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and shopping times. That information helps us to improve the website and your shopping experience, and to make our marketing campaigns relevant. The data stored by these cookies never shows personal details from which your individual identity can be established. This can trigger abandoned basket marketing emails.  
+ These cookies enable Qubit analytics software. This software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and shopping times. That information helps us to improve the website and your shopping experience, and to make our marketing campaigns relevant. The data stored by these cookies never shows personal details from which your individual identity can be established.  
   
-rtn1-z, rlas3, ck1
+  4. **5 C** **ookies used in mobile Apps**
+
+
+
+These cookies are used in our Mobile Apps. They are strictly functional and help make the app useable and are essential in helping you move around our site and use it’s features. Without these cookies you would not be able navigate our site and gain access to secure areas such as signing into your account, add something to the basket or make purchases.
+
+**Cookie Name**
 
 | 
 
-rlcdn.com
+**Provider**
 
 | 
 
-Collects data related to the user's visits to the website, such as the number of visits, average  
-time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.  
+**Purpose**  
   
-tap.php, rpx, rpb, put_#, khaos, c
-
-| 
-
-rubiconproject.com
-
-| 
-
-Registers technical user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network  
+---|---|---  
   
-stx_user_id
+AB_PHOTO
+
+JSESSIONID
+
+WC_ACTIVEPOINTER_#
+
+WC_AUTHENTICATION_#
+
+WC_PERSISTENT
+
+WC_SESSION_ESTABLISHED
+
+WC_USERACTIVITY_#
+
+cartId
+
+cartItemId
+
+cartValue
+
+cartSize
+
+WC_pickUpStore
+
+userLanguage,
+
+currentDeliveryCountry,
+
+usergeo,
+
+userCountry,
+
+prefShipCtry
 
 | 
 
-sharethrough.com
+Arcadia WCS (Internal)
 
 | 
 
-Sharethrough uses cookies only to place and look up a non-PII, hashed user ID to help with fraud detection and for user syncing with demand partners. This is to provide engaging and relevant third party content  
-  
-id
-
-| 
-
-yieldlab.net
-
-| 
-
-Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads  
+These cookies are used to support the website and user experience, without these the website would not work  
   
   5. **Third party cookies**
 
@@ -1659,7 +1555,7 @@ Ad Networks 
 
 Different networks use cookies to segment and categorise different types of audience, dependant on behaviour (profiling). These audience segments are then used to predict what interests a category will have and what ads they will most like. Thy help deliver relevant ads to a user’s measured interests. We contract with different ad brokers from time to time and they each interact with a range of members that also change from time to time. They normally cannot identify you in a “real world” sense and do not provide us with the information they collect from their cookies.  
   
-  **Flash cookies**
+**Flash cookies**
 
 | 
 
@@ -1679,7 +1575,7 @@ If you are using a PC - go to 'Help' and select the 'About' option.
 
 If you are using a Mac - click on the Apple menu within the browser and select the 'About' option.
 
-Once you know which brower you are using, follow the instructions below to check if you have cookies enabled on your computer
+Once you know which browser you are using, follow the instructions below to check if you have cookies enabled on your computer
 
 **8.Checking cookies**
 
@@ -1700,7 +1596,7 @@ Google Chrome
 \- Click 'Under the Hood'  and select the 'Content settings' button within the 'Privacy' section  
 \- Choose 'Allow local data to be set'
 
-**8.2   Macs**
+**8.2 Macs**
 
 Safari on OSX  
 \- Click 'Safari' and select 'Preferences'   
@@ -1725,8 +1621,8 @@ If you are not happy with the way that we use cookies then you should delete Wal
 
 9\. **Other details you should know**
 
-Our Cookies Policy explains how we at Wallis Retail Limited collect data from your computer, mobile or other device when using our website. If you would like to get in touch, you can write to us at: Customer Care, Burton Business Park, Torres Road, Leeds, LS9 6DJ. We reserve the right to update this Cookies Policy at any time but won't send communications regarding minor changes, so we will only provide you with an updated Cookies Policy when we make changes to cookies that we need you to know about and agree to. The latest Cookies Policy with any other updates  will always be available on our website for you to check.
+Our Cookies Policy explains how we atWallis Retail Limitedcollect data from your computer, mobile or other device when using our website. If you would like to get in touch, you can write to us at: Customer Care, Burton Business Park, Torre Road, Leeds, LS9 6DJ. We reserve the right to update this Cookies Policy at any time but won't send communications regarding minor changes, so we will only provide you with an updated Cookies Policy when we make changes to cookies that we need you to know about and agree to. The latest Cookies Policy with any other updates will always be available on our website for you to check.
 
-Even if you do not consent to or change your mind about our cookies, you may still see our  advertising on line but this will be general advertising or page/context specific advertising and not shaped by your browsing or shopping behaviour as an individual.
+Even if you do not consent to or change your mind about our cookies, you may still see our advertising on line but this will be general advertising or page/context specific advertising and not shaped by your browsing or shopping behaviour as an individual.
 
 v1.0 22 May 2018
