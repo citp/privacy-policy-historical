@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodbudget.com privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823061403id_/https%3A//goodbudget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodbudget.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126193952id_/https%3A//goodbudget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Budget Software | Goodbudget
 
@@ -18,6 +18,8 @@ Personal information refers to information that can identify you, such as your n
 
 
 
+We process your data on a contract basis, and our contract with you is outlined in our Terms of Use.
+
 ### 2\. We keep your information safe.
 
 All of the information submitted to Goodbudget is secured using bank-grade 256-bit SSL in a secure datacenter.
@@ -28,14 +30,14 @@ Dayspring does NOT sell or rent your contact information or other personally ide
 
   * You provide your consent.
   * We need to share your information to provide a product or service you have requested.
-  * We need to share your information to companies who work on Dayspring's behalf, who are bound by the same privacy restrictions as described in this Privacy and Security Policy.
+  * We need to share your information to companies who work on Dayspring's behalf, who are bound by the same privacy restrictions as described in this Privacy and Security Policy. These companies include Amazon Web Services (data storage), Sendy (email), Salesforce's Desk.com (customer support), Google Voice (voicemail), Stripe and PayPal (payment processing).
   * To comply with law enforcement.
 
 
 
-### 4\. You can always access your information, and opt out of hearing from us.
+### 4\. You can always access or remove your information, and opt out of hearing from us.
 
-You are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be correct if it is inaccurate. You can do this by sending us an e-mail at [support@goodbudget.com](mailto:support@goodbudget.com), Subject: Goodbudget Privacy Policy.
+You are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be correct if it is inaccurate. You may also ask us to remove your personally identifiable information; once you ask us, we'll delete it from our database in 30 days. Your personally identifiable information will also be completely removed from any logs and backups within 12 months, or after the period we're legally required to keep records to comply with laws like anti-money laundering or financial regulations. You can do this by sending us an e-mail at [support@goodbudget.com](mailto:support@goodbudget.com), Subject: Goodbudget Privacy Policy.
 
 You may opt out of receiving marketing e-mail communications at any time by clicking on the unsubscribe link included at the bottom of our e-mails or sending us mail or e-mail at the address below.
 
@@ -60,3 +62,5 @@ Dayspring Technologies, Inc.
 San Francisco, CA 94124  
 email: [support@goodbudget.com](mailto:support@goodbudget.com)  
 tel: +1 (415) 484-3594
+
+ _Last Revised: July 23, 2018._
