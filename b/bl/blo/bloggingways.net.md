@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bloggingways.net privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525163443id_/http%3A//www.bloggingways.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingways.net privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126050759id_/http%3A//www.bloggingways.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blogging Ways
 
-[](http://www.bloggingways.net/wp-content/uploads/2014/07/privacy-policy-banner.jpg?x66632)
+[](http://www.bloggingways.net/wp-content/uploads/2014/07/privacy-policy-banner.jpg?x96313)
 
 **What information do we collect?**
 
