@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eatoye.pk privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905175957id_/https%3A//www.foodpanda.pk/contents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatoye.pk privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126083526id_/https%3A//www.foodpanda.pk/contents/privacy.htm) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy | foodpanda
 
 This policy explains how we, foodpanda, a brand of **http://www.foodpanda.com** , use your personal information which you provide to us when using our service, including but not limited to our website and mobile applications (apps).
 
