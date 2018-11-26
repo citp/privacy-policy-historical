@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avpgalaxy.net privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128014222id_/https%3A//www.avpgalaxy.net/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avpgalaxy.net privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126174618id_/https%3A//www.avpgalaxy.net/website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AvPGalaxy
 
