@@ -1,159 +1,611 @@
-> *The following text is extracted and transformed from the tumi.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416161918id_/https%3A//www.tumi.com/s/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumi.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126083534id_/https%3A//www.tumi.com/s/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | TUMI United States
+# Privacy Policy - Tumi United States
 
-This Privacy Policy is Effective as of September 30, 2014. 
+This Privacy Policy is Effective as of November 22nd, 2017. 
 
-TUMI, Inc. ("TUMI", "we" or "us") recognizes that the users and customers of this Web site, TUMI.com (this "Site") and all other TUMI customers ("you"), care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site and for "TUMI’s Off-line Channels", which include any TUMI retail sales location and any TUMI-sponsored event.
+We want you to be familiar with how we collect, use and disclose Personal Information (as defined below). This Privacy Policy describes our practices in connection with Personal Information that we collect through websites operated by us or our U.S. affiliates, from which you are accessing this Privacy Policy (the “Websites”), through the software applications made available by us for use on or through computers and mobile devices (the “Apps”), through our social media pages and apps, if any , through HTML-formatted email messages that we send to you that link to this Privacy Policy, as well as through your offline interactions with us where notice is legally required (collectively, including the Websites, Apps, Social Media Pages and offline interactions, the “Services”). By using the Services, you agree to this Privacy Policy
 
-Please be advised that the practices described in this Privacy Policy apply not only to personal information gathered through this Site but also to all personal information collected from or submitted by you at any of TUMI’s Off-line Channels, through the TUMI Tracer® program, to any TUMI employee, affiliate or agent and, where applicable, through this Site's Customer Service Department in connection with this Site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate.
+If you have any questions regarding this Privacy Policy, please contact our Customer Service Department by email at [service@tumi.com](mailto:service@tumi.com).
 
-If you have any questions regarding this Privacy Policy, please contact our Customer Service Department by email at [service@tumi.com](mailto:service@tumi.com) or by phone at [1-800-299-8864](tel:1-800-299-8864).
+## PERSONAL INFORMATION
 
-## What Information About Me Is Collected and Stored?
+**“Personal Information”** is information that identifies you as an individual or relates to an identifiable individual, including:  
+• Name  
+• Postal address (including billing and shipping addresses)  
+• Telephone number  
+• Email address  
+• Credit and debit card number  
+• Profile picture  
+• Social media account ID  
+• Travel information, including trip flight information  
 
-We collect and store personal information that you enter into this Site or that you provide through your dealings with TUMI’S Offline Channels, the TUMI Tracer® program, to any TUMI employee, affiliate or agent.
 
-Personal Information is information you provide that lets us know specific facts about you so that we can fulfill your orders and/or customize information we deliver to you. The personal information that we collect from you and store or that is submitted by you when you open an account, place an order, or otherwise transact business with us may include, but is not limited to: (i) your name; (ii) your address; (ii) your email address; (iv) your telephone number; and/or (v) your credit card or other payment information. This personal information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. Some of this information also may be used to contact you about sales, special offers and new site features, unless you have opted not to receive promotional communications from TUMI.
+### Collection of Personal Information
 
-By choosing to provide TUMI with your personal information, you consent to the use of your personal information as provided in this Privacy Policy and as may be further identified at the time of collection. You may withdraw or limit your consent at any time by following the steps set forth in "Can I Indicate Whether or Not I Want To Receive Promotional Communications?" below or by contacting our Customer Service Department by email at [service@tumi.com](mailto:service@tumi.com) or by phone at [1-800-299-8864](tel:1-800-299-8864).
+We and our service providers may collect Personal Information in a variety of ways, including:
 
-We collect and store certain other information automatically whenever you interact with this Site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Site and to provide our customers with a fulfilling shopping experience.
+• **Through the Services:** We may collect Personal Information through the Services, e.g., when you sign up for a newsletter or make a purchase.  
+• **Offline:** We may collect Personal Information from you offline, such as when you visit our stores, attend one of our trade shows, place an order over the phone or contact customer service.  
+• **From Other Sources:** We may receive your Personal Information from other sources, such as our U.S. affiliates, public databases, joint marketing partners, social media platforms (including from people with whom you are friends or otherwise connected) and from other third parties. In addition, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends' profiles.
 
-When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the time and date of your visits, the links you click, and the searches you conduct on our site. During your visits to other websites where we advertise, we (or third parties) may use certain data collected on our site to show you the type of TUMI.com advertisements likely to be of greater interest to you. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted TUMI.com advertising during your visits to other websites.
+We may use a third-party payment service to process payments made through the Services. If you wish to make a payment through the Services, your Personal Information may be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Information.  
+If you submit any Personal Information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy. 
 
-Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website. Also, like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Site without checking out. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Site.
+### How We May Use Personal Information
 
-We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.
+We and our service providers may use Personal Information:  
+• To respond to your inquiries and fulfill your requests, such as to complete your transactions and provide you with related customer service.  
+• To send administrative information to you, such as changes to our terms, conditions and policies, as well as marketing communications that we believe may be of interest.   
+• To personalize your experience on the Services by presenting products and offers tailored to you and to facilitate social sharing functionality.  
+• To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules containing additional information about how we use and disclose your Personal Information.  
+• For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.  
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
-## Is Information Collected From Children?
+### Disclosure of Personal Information
 
-We do not sell or ship any items ordered through this Site directly to anyone who we know to be under the age of 18, nor do we collect any personal information from anyone who we know to be under the age of 18. If you are under the age of 18, you should use this Site only with the involvement of a parent or guardian and should not submit any personal information to us.
+Your Personal Information may be disclosed:  
+• To our affiliates for the purposes described in this Privacy Policy.  
+• To our third-party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing and other services.  
+• To third parties, to permit them to send you marketing communications, consistent with your choices.  
+• To third-party sponsors of sweepstakes, contests and similar promotions.  
+• By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and content (including, without limitation, our Social Media Pages). Please note that any information you post or disclose through these services will become public and may be available to other users and the general public.  
+• To your friends associated with your social media account, to other website users and to your social media account provider, in connection with your social sharing activity. By connecting your Services account and your social media account, you authorize us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media provider's privacy policy.  
 
-## With Whom Do You Share Information?
 
-We do not share with others any personal information that you provide to us through this Site or through this Site's Customer Service Department, except with your consent or as described in this Privacy Policy.
+### Other Uses and Disclosures
 
-We may share personal information that you provide to us through this Site or through this Site's Customer Service Department with our affiliates and service providers. In turn, our service providers may share this personal information with their affiliates and with service providers whom they engage to perform services related to this Site or the operation of our business. Examples of these services include Web Site operation, payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, customer service, marketing and promotional material distribution, data analysis and, where applicable, data cleansing. These service providers are authorized to use this personal information only in connection with the services they are engaged to perform.
+We also may use and disclose your Personal Information as we believe to be necessary or appropriate: (a) to comply with applicable law, which may include laws outside your country of residence, to respond to requests from public and government authorities, which may include such authorities outside your country of residence, to cooperate with law enforcement, or for other legal reasons; (b) to enforce our terms and conditions; and (c) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others. 
 
-We may use the services of one or more third parties to help us measure the effectiveness of our advertising and determine how customers use this Site. To do this, we may use web beacons and cookies provided by third parties, which enable us to collect information such as product codes and prices for merchandise that customers purchase and the pages visited. This information helps us to learn things like what pages are most attractive to our customers, which of our products most interest our customers and what kinds of offers our customers like to see.
+We may furthermore use, disclose or transfer your information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings). 
 
-Our site may, from time to time, include third party advertising. We do not provide personal information to these third party advertisers; however, they may use technology to send the advertisements that appear on our Site to your browser. In this process, the third party advertiser automatically receives your IP address. They may also employ cookies and web beacons to measure the effectiveness of their own advertisements and personalize your interaction with them. We do not have access to or control over the cookies, web beacons or other technology they may use, and the information collected by these third party advertisers are not covered by this Privacy Policy. Please contact them directly for further information regarding their information privacy policies. For your reference, the Network Advertising Initiative offers useful information about internet advertising companies, including methods of "opting-out" of their information collection practices. 
+We may also use and disclose Personal Information collected through the Services in other ways, with your consent. 
 
-We also may offer you the opportunity to purchase products and services provided by third parties. If you purchase any of these products or services, we will provide your personal information to the third parties that provide them for that purpose.
+## OTHER INFORMATION
 
-We may release personal information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency or court; or such release is necessary to protect the rights, property or safety of TUMI, or any of our affiliates, service providers, customers or others.
+**“Other Information”** is any information that does not reveal your specific identity or does not directly relate to an identifiable individual, such as:
 
-We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Site during a specific time period or purchased a specific product through this Site. This information generally is shared in an aggregated form.
+• Browser and device information  
+• App usage data  
+• Information collected through cookies, pixel tags and other technologies  
+• Demographic information and other information provided by you that does not reveal your specific identify.  
+• Information that has been aggregated in a manner that it no longer reveals your specific identity.  
 
-As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that TUMI, or substantially all of its assets related to this Site, is acquired by a third party, such information may be one of the transferred assets. Under such circumstances, TUMI would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time.
 
-By using this Site, you acknowledge and consent to the fact that personal information provided by you or collected by us through your use of the Site is stored and processed by us in the United States where data protection laws may not afford the same level of protection as those of the country in which you are located (this is the case for users located in the European Economic Area ("EEA")). You also acknowledge and consent to the fact that we may, at our discretion, store and process such data in other countries (including countries outside the EEA) where data protection laws may not afford the same level of protection as those of the country in which you are located.
+If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Information, as detailed in this Policy. 
 
-## What Steps Are Taken To Keep Personal Information Secure?
+### Collection of Other Information 
 
-Various security measures, including Secure Socket Layer (SSL) encryption technology, are used to protect personal information that we collect. If you place an order through this Site, you will be asked to set up an account and provide an email address and password. You must provide, among other information, an appropriate email address and password in order to access account information. Please note that while we have endeavoured to create a secure and reliable site for users, the confidentiality of any communication or material transmitted to/from this Site cannot be guaranteed. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel your password, or if you become aware of any loss, theft or unauthorized use of your password, please contact this Site's Customer Service Department by email at [service@tumi.com](mailto:service@tumi.com) or by phone at [1-800-299-8864](tel:1-800-299-8864).
+We and our service providers may collect Other Information in a variety of ways, including:
 
-## How Can I Access, Correct and Update Personal Information?
+• **Through your browser or device:** Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services (such as the App) you are using. We use this information to ensure that the Services function properly.  
+• **Through your use of the App:** When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.   
+• **Using cookies:** Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, and to personalize your experience. We also gather statistical information about use of the Services in order to continually improve their design and functionality, understand how they are used and assist us with resolving questions regarding them. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Services. We may also use cookies or other technologies in online advertising to track responses to our ads. We do not respond to browser do-not-track signals at this time.
 
-You can access, correct and update certain personal information that you have provided to us by clicking on "My Account" or by contacting this Site’s Customer Service Department by email at [service@tumi.com](mailto:service@tumi.com) or by phone at [1-800-299-8864](tel:1-800-299-8864).
+If you do not want information collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html> If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services. You also may not receive advertising or other offers from us that are relevant to your interests and needs.
 
-## Can I Indicate Whether or Not I Want To Receive Promotional Communications?
+• **Using pixel tags and other similar technologies:** Pixel tags (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates. 
 
-There are several ways in which you can tell us whether or not you want to receive promotional communications from us. At certain locations on the Site, you will have choices to opt-out or opt-in to receive various types of communications. When you set up an account, or click on "Manage Your Account" within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you.
+• **Analytics.** We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](https://web.archive.org/web/20181126083534id_/https://www.tumi.com/s/privacyPolicy/www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
 
-## What Happens When I Link To or From Another Site?
+• **Using Adobe Flash technology (including Flash Local Shared Objects (“Flash LSOs”)) and other similar technologies:** We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). You can also go to the [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) and follow the instructions (which may explain, for example, how to delete existing Flash LSOs (referred to as “information” on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including those used in connection with the Services. 
 
-This Site may contain links to other Web sites operated by affiliates of TUMI or third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites and that we are not responsible for the privacy policies, practices or contents of these other Web sites. We encourage you to be aware of when you leave this Site and to read the privacy policies of each and every Web site that you visit.
+• **IP Address:** Your IP address is a number that is automatically assigned to your computer by your Internet Service Provider (ISP). An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Services. We may also derive your approximate location from your IP address. 
 
-## How Long will my Personal Information be Stored?
+• **Physical Location:** We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you do, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content. 
 
-Your information will only be retained for as long as it is necessary to fulfill the purpose for which it was collected by TUMI, after which it will be destroyed.
+**Uses and Disclosures of Other Information**
 
-## What about Contests and Sweepstakes?
+We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined.
 
-When we run a contest or sweepstakes relating to this Site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if different than as described in this Privacy Policy.
+## THIRD PARTY SERVICES
 
-## How Will I Be Informed About Changes Regarding This Privacy Policy?
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any website or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
 
-Should we decide to amend this Privacy Policy, we will provide reasonable prior notice of such changes to you. All amended terms will automatically take effect 30 days after we provide such notice, or on a date that we specify in the notice. While in some instances we may provide notice by email or other means, you agree that notice on the Site about changes to this Privacy Policy shall be deemed sufficient notice to you. Your continued use of the Site after the effective date of the changes to this Privacy Policy shall mean that you accept and agree to be bound by those changes.
+In addition, we are not responsible for the information collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
 
-This Privacy Policy is Effective as of September 30, 2014.
+## THIRD-PARTY ADVERTISING
 
-TUMI, Inc. ("TUMI", "we" or "us") recognizes that the users and customers of this Web site, TUMI.com (this "Site") and all other TUMI customers ("you"), care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site and for "TUMI’s Off-line Channels", which include any TUMI retail sales location and any TUMI-sponsored event.
+We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites or online services, based on information relating to your access to and use of the Services and other websites or online services on any of your devices, as well as on information received from third parties. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). They may also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
-Please be advised that the practices described in this Privacy Policy apply not only to personal information gathered through this Site but also to all personal information collected from or submitted by you at any of TUMI’s Off-line Channels, through the TUMI Tracer® program, to any TUMI employee, affiliate or agent and, where applicable, through this Site's Customer Service Department in connection with this Site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate.
+## SECURITY
 
-If you have any questions regarding this Privacy Policy, please contact our Customer Service Department by email at [service@tumi.com](mailto:service@tumi.com) or by phone at [1-800-299-8864](tel:1-800-299-8864).
+We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contacting Us” section below.
 
-WHAT INFORMATION ABOUT ME IS COLLECTED AND STORED?
+## CHOICES AND ACCESS
 
-We collect and store personal information that you enter into this Site or that you provide through your dealings with TUMI’S Offline Channels, the TUMI Tracer® program, to any TUMI employee, affiliate or agent. 
+**Your choices regarding our use and disclosure of your Personal Information**
 
-Personal Information is information you provide that lets us know specific facts about you so that we can fulfill your orders and/or customize information we deliver to you. The personal information that we collect from you and store or that is submitted by you when you open an account, place an order, or otherwise transact business with us may include, but is not limited to: (i) your name; (ii) your address; (ii) your email address; (iv) your telephone number; and/or (v) your credit card or other payment information. This personal information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. Some of this information also may be used to contact you about sales, special offers and new site features, unless you have opted not to receive promotional communications from TUMI. 
+We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
 
-By choosing to provide TUMI with your personal information, you consent to the use of your personal information as provided in this Privacy Policy and as may be further identified at the time of collection. You may withdraw or limit your consent at any time by following the steps set forth in "Can I Indicate Whether or Not I Want To Receive Promotional Communications?" below or by contacting our Customer Service Department by email at [service@tumi.com](mailto:service@tumi.com) or by phone at [1-800-299-8864](tel:1-800-299-8864). 
+• **Receiving electronic communications from us:** If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out by following the unsubscribe link in any marketing communication and by contacting us at [service@tumi.com](mailto:service@tumi.com). 
 
-We collect and store certain other information automatically whenever you interact with this Site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Site and to provide our customers with a fulfilling shopping experience. 
+• **Our sharing of your Personal Information with affiliates for their direct marketing purposes:** If you would prefer that we not share your Personal Information on a going-forward basis with our affiliates for their direct marketing purposes, you may opt-out of this sharing by: contacting us at [service@tumi.com](mailto:service@tumi.com). 
 
-When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the time and date of your visits, the links you click, and the searches you conduct on our site. During your visits to other websites where we advertise, we (or third parties) may use certain data collected on our site to show you the type of TUMI.com advertisements likely to be of greater interest to you. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted TUMI.com advertising during your visits to other websites. 
+• **Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purposes:** If you would prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by: contacting us at [service@tumi.com](mailto:service@tumi.com). 
 
-Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website. Also, like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Site without checking out. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Site. 
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
 
-We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you. 
+**How you can access, change or suppress your Personal Information**
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+If you would like to review, correct, update, suppress/restrict or delete Personal Information that you have previously provided to us, or if you would like to transfer your Personal Information to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us by writing to service@tumi.com or Tumi, Inc., USA Corporate Headquarters, Attention: Customer Service, 499 Thornall St. 10th FL, Edison, NJ 08837. 
 
-IS INFORMATION COLLECTED FROM CHILDREN?
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
 
-We do not sell or ship any items ordered through this Site directly to anyone who we know to be under the age of 18, nor do we collect any personal information from anyone who we know to be under the age of 18. If you are under the age of 18, you should use this Site only with the involvement of a parent or guardian and should not submit any personal information to us.
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion). There may also be residual information that will remain within our databases and other records, which will not be removed.
 
-WITH WHOM DO YOU SHARE INFORMATION?
+## USE OF SERVICES BY MINORS
 
-We do not share with others any personal information that you provide to us through this Site or through this Site's Customer Service Department, except with your consent or as described in this Privacy Policy. 
+The Services are not directed to individuals under the age of thirteen (13), and we do not knowingly collect Personal Information from individuals under 13.
 
-We may share personal information that you provide to us through this Site or through this Site's Customer Service Department with our affiliates and service providers. In turn, our service providers may share this personal information with their affiliates and with service providers whom they engage to perform services related to this Site or the operation of our business. Examples of these services include Web Site operation, payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, customer service, marketing and promotional material distribution, data analysis and, where applicable, data cleansing. These service providers are authorized to use this personal information only in connection with the services they are engaged to perform. 
+## JURISDICTION AND CROSS-BORDER TRANSFER
 
-We may use the services of one or more third parties to help us measure the effectiveness of our advertising and determine how customers use this Site. To do this, we may use web beacons and cookies provided by third parties, which enable us to collect information such as product codes and prices for merchandise that customers purchase and the pages visited. This information helps us to learn things like what pages are most attractive to our customers, which of our products most interest our customers and what kinds of offers our customers like to see. 
+The Services are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your personal information.
 
-Our site may, from time to time, include third party advertising. We do not provide personal information to these third party advertisers; however, they may use technology to send the advertisements that appear on our Site to your browser. In this process, the third party advertiser automatically receives your IP address. They may also employ cookies and web beacons to measure the effectiveness of their own advertisements and personalize your interaction with them. We do not have access to or control over the cookies, web beacons or other technology they may use, and the information collected by these third party advertisers are not covered by this Privacy Policy. Please contact them directly for further information regarding their information privacy policies. For your reference, the Network Advertising Initiative offers useful information about internet advertising companies, including methods of "opting-out" of their information collection practices. 
+## SENSITIVE INFORMATION
 
-We also may offer you the opportunity to purchase products and services provided by third parties. If you purchase any of these products or services, we will provide your personal information to the third parties that provide them for that purpose. 
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services or otherwise to us.
 
-We may release personal information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency or court; or such release is necessary to protect the rights, property or safety of TUMI, or any of our affiliates, service providers, customers or others. 
+## UPDATES TO THIS PRIVACY POLICY
 
-We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Site during a specific time period or purchased a specific product through this Site. This information generally is shared in an aggregated form. 
+We may change this Privacy Policy. The “LAST UPDATED” legend at the top of this Privacy Policy indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
 
-As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that TUMI, or substantially all of its assets related to this Site, is acquired by a third party, such information may be one of the transferred assets. Under such circumstances, TUMI would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time. 
+## CONTACTING US
 
-By using this Site, you acknowledge and consent to the fact that personal information provided by you or collected by us through your use of the Site is stored and processed by us in the United States where data protection laws may not afford the same level of protection as those of the country in which you are located (this is the case for users located in the European Economic Area ("EEA")). You also acknowledge and consent to the fact that we may, at our discretion, store and process such data in other countries (including countries outside the EEA) where data protection laws may not afford the same level of protection as those of the country in which you are located.
+Tumi, Inc. located at 499 Thornall St. 10th FL, Edison, NJ 08837 is the company responsible for collection, use and disclosure of your Personal Information. If you have any questions about this Privacy Policy, please contact us at service@tumi.com, or Tumi, Inc., USA Corporate Headquarters, Attention: Customer Service, 499 Thornall St.10th FL, Edison, NJ 08837. Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.
 
-WHAT STEPS ARE TAKEN TO KEEP PERSONAL INFORMATION SECURE?
+This Privacy Policy is Effective as of November 22nd, 2017. 
 
-Various security measures, including Secure Socket Layer (SSL) encryption technology, are used to protect personal information that we collect. If you place an order through this Site, you will be asked to set up an account and provide an email address and password. You must provide, among other information, an appropriate email address and password in order to access account information. Please note that while we have endeavoured to create a secure and reliable site for users, the confidentiality of any communication or material transmitted to/from this Site cannot be guaranteed. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel your password, or if you become aware of any loss, theft or unauthorized use of your password, please contact this Site's Customer Service Department by email at [service@tumi.com](mailto:service@tumi.com) or by phone at [1-800-299-8864](tel:1-800-299-8864).
+We want you to be familiar with how we collect, use and disclose Personal Information (as defined below). This Privacy Policy describes our practices in connection with Personal Information that we collect through websites operated by us or our U.S. affiliates, from which you are accessing this Privacy Policy (the “Websites”), through the software applications made available by us for use on or through computers and mobile devices (the “Apps”), through our social media pages and apps, if any , through HTML-formatted email messages that we send to you that link to this Privacy Policy, as well as through your offline interactions with us where notice is legally required (collectively, including the Websites, Apps, Social Media Pages and offline interactions, the “Services”). By using the Services, you agree to this Privacy Policy
 
-HOW CAN I ACCESS, CORRECT AND UPDATE PERSONAL INFORMATION?
+If you have any questions regarding this Privacy Policy, please contact our Customer Service Department by email at [service@tumi.com](mailto:service@tumi.com).
 
-You can access, correct and update certain personal information that you have provided to us by clicking on "My Account" or by contacting this Site’s Customer Service Department by email at [service@tumi.com](mailto:service@tumi.com) or by phone at [1-800-299-8864](tel:1-800-299-8864).
+## PERSONAL INFORMATION
 
-CAN I INDICATE WHETHER OR NOT I WANT TO RECEIVE PROMOTIONAL COMMUNICATIONS?
+**“Personal Information”** is information that identifies you as an individual or relates to an identifiable individual, including:  
+• Name  
+• Postal address (including billing and shipping addresses)  
+• Telephone number  
+• Email address  
+• Credit and debit card number  
+• Profile picture  
+• Social media account ID  
+• Travel information, including trip flight information  
 
-There are several ways in which you can tell us whether or not you want to receive promotional communications from us. At certain locations on the Site, you will have choices to opt-out or opt-in to receive various types of communications. When you set up an account, or click on "Manage Your Account" within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you.
 
-WHAT HAPPENS WHEN I LINK TO OR FROM ANOTHER SITE?
+### Collection of Personal Information
 
-This Site may contain links to other Web sites operated by affiliates of TUMI or third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites and that we are not responsible for the privacy policies, practices or contents of these other Web sites. We encourage you to be aware of when you leave this Site and to read the privacy policies of each and every Web site that you visit.
+We and our service providers may collect Personal Information in a variety of ways, including:
 
-HOW LONG WILL MY PERSONAL INFORMATION BE STORED?
+• **Through the Services:** We may collect Personal Information through the Services, e.g., when you sign up for a newsletter or make a purchase.  
+• **Offline:** We may collect Personal Information from you offline, such as when you visit our stores, attend one of our trade shows, place an order over the phone or contact customer service.  
+• **From Other Sources:** We may receive your Personal Information from other sources, such as our U.S. affiliates, public databases, joint marketing partners, social media platforms (including from people with whom you are friends or otherwise connected) and from other third parties. In addition, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends' profiles.
 
-Your information will only be retained for as long as it is necessary to fulfill the purpose for which it was collected by TUMI, after which it will be destroyed.
+We may use a third-party payment service to process payments made through the Services. If you wish to make a payment through the Services, your Personal Information may be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Information.  
+If you submit any Personal Information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy. 
 
-WHAT ABOUT CONTESTS AND SWEEPSTAKES?
+### How We May Use Personal Information
 
-When we run a contest or sweepstakes relating to this Site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if different than as described in this Privacy Policy.
+We and our service providers may use Personal Information:  
+• To respond to your inquiries and fulfill your requests, such as to complete your transactions and provide you with related customer service.  
+• To send administrative information to you, such as changes to our terms, conditions and policies, as well as marketing communications that we believe may be of interest.   
+• To personalize your experience on the Services by presenting products and offers tailored to you and to facilitate social sharing functionality.  
+• To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules containing additional information about how we use and disclose your Personal Information.  
+• For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.  
 
-HOW WILL I BE INFORMED ABOUT CHANGES REGARDING THIS PRIVACY POLICY?
 
-Should we decide to amend this Privacy Policy, we will provide reasonable prior notice of such changes to you. All amended terms will automatically take effect 30 days after we provide such notice, or on a date that we specify in the notice. While in some instances we may provide notice by email or other means, you agree that notice on the Site about changes to this Privacy Policy shall be deemed sufficient notice to you. Your continued use of the Site after the effective date of the changes to this Privacy Policy shall mean that you accept and agree to be bound by those changes.
+### Disclosure of Personal Information
+
+Your Personal Information may be disclosed:  
+• To our affiliates for the purposes described in this Privacy Policy.  
+• To our third-party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing and other services.  
+• To third parties, to permit them to send you marketing communications, consistent with your choices.  
+• To third-party sponsors of sweepstakes, contests and similar promotions.  
+• By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and content (including, without limitation, our Social Media Pages). Please note that any information you post or disclose through these services will become public and may be available to other users and the general public.  
+• To your friends associated with your social media account, to other website users and to your social media account provider, in connection with your social sharing activity. By connecting your Services account and your social media account, you authorize us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media provider's privacy policy.  
+
+
+### Other Uses and Disclosures
+
+We also may use and disclose your Personal Information as we believe to be necessary or appropriate: (a) to comply with applicable law, which may include laws outside your country of residence, to respond to requests from public and government authorities, which may include such authorities outside your country of residence, to cooperate with law enforcement, or for other legal reasons; (b) to enforce our terms and conditions; and (c) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others. 
+
+We may furthermore use, disclose or transfer your information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings). 
+
+We may also use and disclose Personal Information collected through the Services in other ways, with your consent. 
+
+## OTHER INFORMATION
+
+**“Other Information”** is any information that does not reveal your specific identity or does not directly relate to an identifiable individual, such as:
+
+• Browser and device information  
+• App usage data  
+• Information collected through cookies, pixel tags and other technologies  
+• Demographic information and other information provided by you that does not reveal your specific identify.  
+• Information that has been aggregated in a manner that it no longer reveals your specific identity.  
+
+
+If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Information, as detailed in this Policy. 
+
+### Collection of Other Information 
+
+We and our service providers may collect Other Information in a variety of ways, including:
+
+• **Through your browser or device:** Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services (such as the App) you are using. We use this information to ensure that the Services function properly.  
+• **Through your use of the App:** When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.   
+• **Using cookies:** Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, and to personalize your experience. We also gather statistical information about use of the Services in order to continually improve their design and functionality, understand how they are used and assist us with resolving questions regarding them. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Services. We may also use cookies or other technologies in online advertising to track responses to our ads. We do not respond to browser do-not-track signals at this time.
+
+If you do not want information collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html> If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services. You also may not receive advertising or other offers from us that are relevant to your interests and needs.
+
+• **Using pixel tags and other similar technologies:** Pixel tags (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates. 
+
+• **Analytics.** We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](https://web.archive.org/web/20181126083534id_/https://www.tumi.com/s/privacyPolicy/www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
+
+• **Using Adobe Flash technology (including Flash Local Shared Objects (“Flash LSOs”)) and other similar technologies:** We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). You can also go to the [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) and follow the instructions (which may explain, for example, how to delete existing Flash LSOs (referred to as “information” on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including those used in connection with the Services. 
+
+• **IP Address:** Your IP address is a number that is automatically assigned to your computer by your Internet Service Provider (ISP). An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Services. We may also derive your approximate location from your IP address. 
+
+• **Physical Location:** We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you do, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content. 
+
+**Uses and Disclosures of Other Information**
+
+We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined.
+
+## THIRD PARTY SERVICES
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any website or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
+
+In addition, we are not responsible for the information collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
+
+## THIRD-PARTY ADVERTISING
+
+We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites or online services, based on information relating to your access to and use of the Services and other websites or online services on any of your devices, as well as on information received from third parties. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). They may also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
+
+## SECURITY
+
+We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contacting Us” section below.
+
+## CHOICES AND ACCESS
+
+**Your choices regarding our use and disclosure of your Personal Information**
+
+We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
+
+• **Receiving electronic communications from us:** If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out by following the unsubscribe link in any marketing communication and by contacting us at [service@tumi.com](mailto:service@tumi.com). 
+
+• **Our sharing of your Personal Information with affiliates for their direct marketing purposes:** If you would prefer that we not share your Personal Information on a going-forward basis with our affiliates for their direct marketing purposes, you may opt-out of this sharing by: contacting us at [service@tumi.com](mailto:service@tumi.com). 
+
+• **Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purposes:** If you would prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by: contacting us at [service@tumi.com](mailto:service@tumi.com). 
+
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
+
+**How you can access, change or suppress your Personal Information**
+
+If you would like to review, correct, update, suppress/restrict or delete Personal Information that you have previously provided to us, or if you would like to transfer your Personal Information to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us by writing service@tumi.com or Tumi, Inc., USA Corporate Headquarters, Attention: Customer Service, 499 Thornall St., Edison, NJ 08837. 
+
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion). There may also be residual information that will remain within our databases and other records, which will not be removed.
+
+## USE OF SERVICES BY MINORS
+
+The Services are not directed to individuals under the age of thirteen (13), and we do not knowingly collect Personal Information from individuals under 13.
+
+## JURISDICTION AND CROSS-BORDER TRANSFER
+
+The Services are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your personal information.
+
+## SENSITIVE INFORMATION
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services or otherwise to us.
+
+## UPDATES TO THIS PRIVACY POLICY
+
+We may change this Privacy Policy. The “LAST UPDATED” legend at the top of this Privacy Policy indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
+
+## CONTACTING US
+
+Tumi, Inc. located at 499 Thornall St., Edison, NJ 08837 is the company responsible for collection, use and disclosure of your Personal Information. If you have any questions about this Privacy Policy, please contact us at service@tumi.com, or Tumi, Inc., USA Corporate Headquarters, Attention: Customer Service, 499 Thornall St., Edison, NJ 08837. Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.
+
+This Privacy Policy is Effective as of November 22nd, 2017. 
+
+We want you to be familiar with how we collect, use and disclose Personal Information (as defined below). This Privacy Policy describes our practices in connection with Personal Information that we collect through websites operated by us or our U.S. affiliates, from which you are accessing this Privacy Policy (the “Websites”), through the software applications made available by us for use on or through computers and mobile devices (the “Apps”), through our social media pages and apps, if any , through HTML-formatted email messages that we send to you that link to this Privacy Policy, as well as through your offline interactions with us where notice is legally required (collectively, including the Websites, Apps, Social Media Pages and offline interactions, the “Services”). By using the Services, you agree to this Privacy Policy
+
+If you have any questions regarding this Privacy Policy, please contact our Customer Service Department by email at [service@tumi.com](mailto:service@tumi.com).
+
+## PERSONAL INFORMATION
+
+**“Personal Information”** is information that identifies you as an individual or relates to an identifiable individual, including:  
+• Name  
+• Postal address (including billing and shipping addresses)  
+• Telephone number  
+• Email address  
+• Credit and debit card number  
+• Profile picture  
+• Social media account ID  
+• Travel information, including trip flight information  
+
+
+### Collection of Personal Information
+
+We and our service providers may collect Personal Information in a variety of ways, including:
+
+• **Through the Services:** We may collect Personal Information through the Services, e.g., when you sign up for a newsletter or make a purchase.  
+• **Offline:** We may collect Personal Information from you offline, such as when you visit our stores, attend one of our trade shows, place an order over the phone or contact customer service.  
+• **From Other Sources:** We may receive your Personal Information from other sources, such as our U.S. affiliates, public databases, joint marketing partners, social media platforms (including from people with whom you are friends or otherwise connected) and from other third parties. In addition, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends' profiles.
+
+We may use a third-party payment service to process payments made through the Services. If you wish to make a payment through the Services, your Personal Information may be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Information.  
+If you submit any Personal Information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy. 
+
+### How We May Use Personal Information
+
+We and our service providers may use Personal Information:  
+• To respond to your inquiries and fulfill your requests, such as to complete your transactions and provide you with related customer service.  
+• To send administrative information to you, such as changes to our terms, conditions and policies, as well as marketing communications that we believe may be of interest.   
+• To personalize your experience on the Services by presenting products and offers tailored to you and to facilitate social sharing functionality.  
+• To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules containing additional information about how we use and disclose your Personal Information.  
+• For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.  
+
+
+### Disclosure of Personal Information
+
+Your Personal Information may be disclosed:  
+• To our affiliates for the purposes described in this Privacy Policy.  
+• To our third-party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing and other services.  
+• To third parties, to permit them to send you marketing communications, consistent with your choices.  
+• To third-party sponsors of sweepstakes, contests and similar promotions.  
+• By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and content (including, without limitation, our Social Media Pages). Please note that any information you post or disclose through these services will become public and may be available to other users and the general public.  
+• To your friends associated with your social media account, to other website users and to your social media account provider, in connection with your social sharing activity. By connecting your Services account and your social media account, you authorize us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media provider's privacy policy.  
+
+
+### Other Uses and Disclosures
+
+We also may use and disclose your Personal Information as we believe to be necessary or appropriate: (a) to comply with applicable law, which may include laws outside your country of residence, to respond to requests from public and government authorities, which may include such authorities outside your country of residence, to cooperate with law enforcement, or for other legal reasons; (b) to enforce our terms and conditions; and (c) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others. 
+
+We may furthermore use, disclose or transfer your information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings). 
+
+We may also use and disclose Personal Information collected through the Services in other ways, with your consent. 
+
+## OTHER INFORMATION
+
+**“Other Information”** is any information that does not reveal your specific identity or does not directly relate to an identifiable individual, such as:
+
+• Browser and device information  
+• App usage data  
+• Information collected through cookies, pixel tags and other technologies  
+• Demographic information and other information provided by you that does not reveal your specific identify.  
+• Information that has been aggregated in a manner that it no longer reveals your specific identity.  
+
+
+If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Information, as detailed in this Policy. 
+
+### Collection of Other Information 
+
+We and our service providers may collect Other Information in a variety of ways, including:
+
+• **Through your browser or device:** Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services (such as the App) you are using. We use this information to ensure that the Services function properly.  
+• **Through your use of the App:** When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.   
+• **Using cookies:** Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, and to personalize your experience. We also gather statistical information about use of the Services in order to continually improve their design and functionality, understand how they are used and assist us with resolving questions regarding them. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Services. We may also use cookies or other technologies in online advertising to track responses to our ads. We do not respond to browser do-not-track signals at this time.
+
+If you do not want information collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html> If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services. You also may not receive advertising or other offers from us that are relevant to your interests and needs.
+
+• **Using pixel tags and other similar technologies:** Pixel tags (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates. 
+
+• **Analytics.** We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](https://web.archive.org/web/20181126083534id_/https://www.tumi.com/s/privacyPolicy/www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
+
+• **Using Adobe Flash technology (including Flash Local Shared Objects (“Flash LSOs”)) and other similar technologies:** We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). You can also go to the [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) and follow the instructions (which may explain, for example, how to delete existing Flash LSOs (referred to as “information” on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including those used in connection with the Services. 
+
+• **IP Address:** Your IP address is a number that is automatically assigned to your computer by your Internet Service Provider (ISP). An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Services. We may also derive your approximate location from your IP address. 
+
+• **Physical Location:** We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you do, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content. 
+
+**Uses and Disclosures of Other Information**
+
+We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined.
+
+## THIRD PARTY SERVICES
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any website or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
+
+In addition, we are not responsible for the information collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
+
+## THIRD-PARTY ADVERTISING
+
+We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites or online services, based on information relating to your access to and use of the Services and other websites or online services on any of your devices, as well as on information received from third parties. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). They may also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
+
+## SECURITY
+
+We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contacting Us” section below.
+
+## CHOICES AND ACCESS
+
+**Your choices regarding our use and disclosure of your Personal Information**
+
+We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
+
+• **Receiving electronic communications from us:** If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out by following the unsubscribe link in any marketing communication and by contacting us at [service@tumi.com](mailto:service@tumi.com). 
+
+• **Our sharing of your Personal Information with affiliates for their direct marketing purposes:** If you would prefer that we not share your Personal Information on a going-forward basis with our affiliates for their direct marketing purposes, you may opt-out of this sharing by: contacting us at [service@tumi.com](mailto:service@tumi.com). 
+
+• **Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purposes:** If you would prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by: contacting us at [service@tumi.com](mailto:service@tumi.com). 
+
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
+
+**How you can access, change or suppress your Personal Information**
+
+If you would like to review, correct, update, suppress/restrict or delete Personal Information that you have previously provided to us, or if you would like to transfer your Personal Information to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us by writing to service@tumi.com or Tumi, Inc., USA Corporate Headquarters, Attention: Customer Service, 499 Thornall St. 10th FL, Edison, NJ 08837. 
+
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion). There may also be residual information that will remain within our databases and other records, which will not be removed.
+
+## USE OF SERVICES BY MINORS
+
+The Services are not directed to individuals under the age of thirteen (13), and we do not knowingly collect Personal Information from individuals under 13.
+
+## JURISDICTION AND CROSS-BORDER TRANSFER
+
+The Services are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your personal information.
+
+## SENSITIVE INFORMATION
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services or otherwise to us.
+
+## UPDATES TO THIS PRIVACY POLICY
+
+We may change this Privacy Policy. The “LAST UPDATED” legend at the top of this Privacy Policy indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
+
+## CONTACTING US
+
+Tumi, Inc. located at 499 Thornall St. 10th FL, Edison, NJ 08837 is the company responsible for collection, use and disclosure of your Personal Information. If you have any questions about this Privacy Policy, please contact us at service@tumi.com, or Tumi, Inc., USA Corporate Headquarters, Attention: Customer Service, 499 Thornall St.10th FL, Edison, NJ 08837. Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.
+
+This Privacy Policy is Effective as of November 22nd, 2017. 
+
+We want you to be familiar with how we collect, use and disclose Personal Information (as defined below). This Privacy Policy describes our practices in connection with Personal Information that we collect through websites operated by us or our U.S. affiliates, from which you are accessing this Privacy Policy (the “Websites”), through the software applications made available by us for use on or through computers and mobile devices (the “Apps”), through our social media pages and apps, if any , through HTML-formatted email messages that we send to you that link to this Privacy Policy, as well as through your offline interactions with us where notice is legally required (collectively, including the Websites, Apps, Social Media Pages and offline interactions, the “Services”). By using the Services, you agree to this Privacy Policy
+
+If you have any questions regarding this Privacy Policy, please contact our Customer Service Department by email at [service@tumi.com](mailto:service@tumi.com).
+
+## PERSONAL INFORMATION
+
+**“Personal Information”** is information that identifies you as an individual or relates to an identifiable individual, including:  
+• Name  
+• Postal address (including billing and shipping addresses)  
+• Telephone number  
+• Email address  
+• Credit and debit card number  
+• Profile picture  
+• Social media account ID  
+• Travel information, including trip flight information  
+
+
+### Collection of Personal Information
+
+We and our service providers may collect Personal Information in a variety of ways, including:
+
+• **Through the Services:** We may collect Personal Information through the Services, e.g., when you sign up for a newsletter or make a purchase.  
+• **Offline:** We may collect Personal Information from you offline, such as when you visit our stores, attend one of our trade shows, place an order over the phone or contact customer service.  
+• **From Other Sources:** We may receive your Personal Information from other sources, such as our U.S. affiliates, public databases, joint marketing partners, social media platforms (including from people with whom you are friends or otherwise connected) and from other third parties. In addition, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends' profiles.
+
+We may use a third-party payment service to process payments made through the Services. If you wish to make a payment through the Services, your Personal Information may be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Information.  
+If you submit any Personal Information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy. 
+
+### How We May Use Personal Information
+
+We and our service providers may use Personal Information:  
+• To respond to your inquiries and fulfill your requests, such as to complete your transactions and provide you with related customer service.  
+• To send administrative information to you, such as changes to our terms, conditions and policies, as well as marketing communications that we believe may be of interest.   
+• To personalize your experience on the Services by presenting products and offers tailored to you and to facilitate social sharing functionality.  
+• To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules containing additional information about how we use and disclose your Personal Information.  
+• For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.  
+
+
+### Disclosure of Personal Information
+
+Your Personal Information may be disclosed:  
+• To our affiliates for the purposes described in this Privacy Policy.  
+• To our third-party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing and other services.  
+• To third parties, to permit them to send you marketing communications, consistent with your choices.  
+• To third-party sponsors of sweepstakes, contests and similar promotions.  
+• By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and content (including, without limitation, our Social Media Pages). Please note that any information you post or disclose through these services will become public and may be available to other users and the general public.  
+• To your friends associated with your social media account, to other website users and to your social media account provider, in connection with your social sharing activity. By connecting your Services account and your social media account, you authorize us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media provider's privacy policy.  
+
+
+### Other Uses and Disclosures
+
+We also may use and disclose your Personal Information as we believe to be necessary or appropriate: (a) to comply with applicable law, which may include laws outside your country of residence, to respond to requests from public and government authorities, which may include such authorities outside your country of residence, to cooperate with law enforcement, or for other legal reasons; (b) to enforce our terms and conditions; and (c) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others. 
+
+We may furthermore use, disclose or transfer your information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings). 
+
+We may also use and disclose Personal Information collected through the Services in other ways, with your consent. 
+
+## OTHER INFORMATION
+
+**“Other Information”** is any information that does not reveal your specific identity or does not directly relate to an identifiable individual, such as:
+
+• Browser and device information  
+• App usage data  
+• Information collected through cookies, pixel tags and other technologies  
+• Demographic information and other information provided by you that does not reveal your specific identify.  
+• Information that has been aggregated in a manner that it no longer reveals your specific identity.  
+
+
+If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Information, as detailed in this Policy. 
+
+### Collection of Other Information 
+
+We and our service providers may collect Other Information in a variety of ways, including:
+
+• **Through your browser or device:** Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services (such as the App) you are using. We use this information to ensure that the Services function properly.  
+• **Through your use of the App:** When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.   
+• **Using cookies:** Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, and to personalize your experience. We also gather statistical information about use of the Services in order to continually improve their design and functionality, understand how they are used and assist us with resolving questions regarding them. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Services. We may also use cookies or other technologies in online advertising to track responses to our ads. We do not respond to browser do-not-track signals at this time.
+
+If you do not want information collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html> If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services. You also may not receive advertising or other offers from us that are relevant to your interests and needs.
+
+• **Using pixel tags and other similar technologies:** Pixel tags (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates. 
+
+• **Analytics.** We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](https://web.archive.org/web/20181126083534id_/https://www.tumi.com/s/privacyPolicy/www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
+
+• **Using Adobe Flash technology (including Flash Local Shared Objects (“Flash LSOs”)) and other similar technologies:** We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). You can also go to the [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) and follow the instructions (which may explain, for example, how to delete existing Flash LSOs (referred to as “information” on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including those used in connection with the Services. 
+
+• **IP Address:** Your IP address is a number that is automatically assigned to your computer by your Internet Service Provider (ISP). An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Services. We may also derive your approximate location from your IP address. 
+
+• **Physical Location:** We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you do, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content. 
+
+**Uses and Disclosures of Other Information**
+
+We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined.
+
+## THIRD PARTY SERVICES
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any website or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
+
+In addition, we are not responsible for the information collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
+
+## THIRD-PARTY ADVERTISING
+
+We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites or online services, based on information relating to your access to and use of the Services and other websites or online services on any of your devices, as well as on information received from third parties. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). They may also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
+
+## SECURITY
+
+We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contacting Us” section below.
+
+## CHOICES AND ACCESS
+
+**Your choices regarding our use and disclosure of your Personal Information**
+
+We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
+
+• **Receiving electronic communications from us:** If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out by following the unsubscribe link in any marketing communication and by contacting us at [service@tumi.com](mailto:service@tumi.com). 
+
+• **Our sharing of your Personal Information with affiliates for their direct marketing purposes:** If you would prefer that we not share your Personal Information on a going-forward basis with our affiliates for their direct marketing purposes, you may opt-out of this sharing by: contacting us at [service@tumi.com](mailto:service@tumi.com). 
+
+• **Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purposes:** If you would prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by: contacting us at [service@tumi.com](mailto:service@tumi.com). 
+
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
+
+**How you can access, change or suppress your Personal Information**
+
+If you would like to review, correct, update, suppress/restrict or delete Personal Information that you have previously provided to us, or if you would like to transfer your Personal Information to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us by writing service@tumi.com or Tumi, Inc., USA Corporate Headquarters, Attention: Customer Service, 499 Thornall St., Edison, NJ 08837. 
+
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion). There may also be residual information that will remain within our databases and other records, which will not be removed.
+
+## USE OF SERVICES BY MINORS
+
+The Services are not directed to individuals under the age of thirteen (13), and we do not knowingly collect Personal Information from individuals under 13.
+
+## JURISDICTION AND CROSS-BORDER TRANSFER
+
+The Services are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your personal information.
+
+## SENSITIVE INFORMATION
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services or otherwise to us.
+
+## UPDATES TO THIS PRIVACY POLICY
+
+We may change this Privacy Policy. The “LAST UPDATED” legend at the top of this Privacy Policy indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
+
+## CONTACTING US
+
+Tumi, Inc. located at 499 Thornall St., Edison, NJ 08837 is the company responsible for collection, use and disclosure of your Personal Information. If you have any questions about this Privacy Policy, please contact us at service@tumi.com, or Tumi, Inc., USA Corporate Headquarters, Attention: Customer Service, 499 Thornall St., Edison, NJ 08837. Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.
