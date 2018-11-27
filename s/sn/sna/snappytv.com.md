@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snappytv.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602164016id_/http%3A//www.snappytv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snappytv.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127132707id_/http%3A//www.snappytv.com/privacy) for the most accurate reproduction.*
 
 # SnappyTV - Privacy Policy
 
