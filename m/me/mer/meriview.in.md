@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the meriview.in privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114185928id_/http%3A//www.meriview.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meriview.in privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127050550id_/http%3A//www.meriview.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# MeriView.in: Privacy Policy
+# Privacy Policy
 
-This Privacy Policy governs the manner in which MeriView.in collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.meriview.in website ("Site"). This privacy policy applies to the Site and all products and services offered by MeriView.in and its Application "Sarkari Jobs Result".
+This Privacy Policy governs the manner in which meriview.in collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.meriview.in website ("Site"). This privacy policy applies to the Site and all products and services offered by meriview.in and its Application "Sarkari Jobs Result", "Sarkari Result Merit list".
 
 Personal identification information
 
@@ -16,7 +16,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 How we use collected information
 
-MeriView.in may collect and use Users personal information for the following purposes:
+meriview.in may collect and use Users personal information for the following purposes:
 
                 We may use feedback you provide to improve our products and services.
 
@@ -34,19 +34,19 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 Changes to this privacy policy
 
-MeriView.in has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+meriview.in has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 Your acceptance of these terms
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-Disclaimer: Neither MeriView.in nor its staff is responsible for any inadvertent error that may have crept in the data being published on this website. The information being updated on this website is for immediate information to the concerned candidates.
+Disclaimer: Neither meriview.in nor its staff is responsible for any inadvertent error that may have crept in the data being published on this website. The information being updated on this website is for immediate information to the concerned candidates.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at following email.
 
-If you have any objection with any content of the site, you can request for the removal by sending the email at meriview.in@gmail.com
+If you have any objection with any content of the site, you can request for the removal by sending the email at resultmerit@gmail.com
 
-This document was last updated on November 21, 2013
+This document was last updated on November 21, 2013.
 
   
 
