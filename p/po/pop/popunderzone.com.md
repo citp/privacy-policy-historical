@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popunderzone.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529211050id_/http%3A//popunderzone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popunderzone.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127174151id_/http%3A//popunderzone.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PopunderZone
 
