@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svaiza.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525232550id_/http%3A//www.svaiza.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svaiza.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127105929id_/http%3A//svaiza.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Svaiza | The Best Online shopping portal In India for Branded Electronics, Mobiles,Accessories, Apparels, Footwear ,Books
 
