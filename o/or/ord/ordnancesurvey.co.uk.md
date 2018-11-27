@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530140403id_/https%3A//www.ordnancesurvey.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127203734id_/https%3A//www.ordnancesurvey.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
