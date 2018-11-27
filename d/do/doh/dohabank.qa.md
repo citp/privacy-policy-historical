@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dohabank.qa privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528021355id_/http%3A//dohabank.qa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dohabank.qa privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127181925id_/http%3A//dohabank.qa/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Doha Bank Qatar
 
