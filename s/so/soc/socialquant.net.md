@@ -1,150 +1,301 @@
-> *The following text is extracted and transformed from the socialquant.net privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119071558id_/https%3A//www.socialquant.net/social-quant-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialquant.net privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127025555id_/http%3A//www.domain.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
-# Privacy Policy - Get More Twitter Followers Boost your Twitter Marketing
+# Privacy Policy | Endurance International Group
 
-**SOCIAL QUANT Privacy Policy**
+## Table of Contents
 
- **Last Updated May 9, 2017  
-**
+## About Us
 
-Data privacy is important to Social Quant. This Privacy Notice (“Privacy Notice”) explains how information is collected, used and disclosed by Social Quant and applies to information collected when you use or access our online or mobile websites (such as www.socialquant.net), products, services or applications (collectively, the “Social Quant Services”), or when you attend a Social Quant event or otherwise interact with us. We respect the privacy rights of users and recognize the importance of protecting information collected about you. If you use the Social Quant Services as part of an entity or organization that has an agreement with Social Quant (like your employer or a university), the terms of that organization’s contract for the Social Quant Services may restrict our collection or use of your information more than what is described in this Privacy Notice.
+[The Endurance International Group, Inc.](https://web.archive.org/our-brands/) and our subsidiaries (“we,” “us” or “Endurance”) are a leading provider of online tools for small businesses to establish and build their web presence, get found in online search, and connect with customers through social media, email marketing, and more. Our brands include Constant Contact, Bluehost, HostGator, Domain.com, iPage, and others found at [https://www.endurance.com/our-brands/](https://web.archive.org/our-brands/). We care about protecting the personal information of our customers and visitors who use our websites, products or services (collectively, our “Users”). This privacy policy provides details about how your personal information is collected, shared and used by us. To learn more about the Endurance corporate family, visit: [https://www.endurance.com](https://web.archive.org/). If you have any questions about this privacy policy or the practices described herein, you may contact [privacy@endurance.com](mailto:privacy@endurance.com) or 10 Corporate Drive, Burlington, MA 01803. For the purposes of the European Union’s General Data Protection Regulation 2016/679, or GDPR, The Endurance International Group, Inc. and each of the brands for which you have signed up for a product or service are the data controller, and our European local representative is AppMachine B.V., located at Sophialaan 32, 8911 AE Leeuwarden, Nederland.
 
-Please read the following carefully to understand how we will collect, use and maintain your personal information. It also describes your choices regarding use, access and correction of your personal information.
+## Information Covered by this Privacy Policy
 
- **Changes to This Notice**
+This privacy policy covers personal information, including any information we collect, use and share from you, as described further below. This privacy policy applies to all websites in the Endurance corporate family, our products and services, and our mobile applications (collectively, the “Services”). This privacy policy does not cover how our Users may use or share data that they collect using our services.
 
-We may change this Privacy Notice from time to time. If we make any changes, we will notify you by revising the “Last Updated” date at the top of this Privacy Notice and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). If there are material changes to this Privacy Notice, we will notify you more directly by email or means of a notice on the home page prior to the change becoming effective. We encourage you to review our Privacy Notice whenever you access the Social Quant Services to stay informed about our information practices and the ways you can help protect your privacy.
+When you purchase a Service from us, your personal information will be collected, used, and shared consistent with the provisions of this privacy policy as well as the following addendums related to particular products and services offered by Endurance, which are a part of this privacy policy:
 
-If you disagree with any changes to this Privacy Notice and do not wish your information to be subject to the revised Privacy Notice, you will need to deactivate with us and stop using the Social Quant Services. Your use of any of the Social Quant Services after the posting of such changes shall constitute your consent to such changes.
+  * [Addendum for Users who purchased services from Constant Contact](https://web.archive.org/privacy/constant-contact-addendum/)
+  * [Addendum for Users who purchased Domain Registration services, including from Domain.com](https://web.archive.org/privacy/domains-addendum/)
+  * [Addendum for Users who purchased services from SinglePlatform](https://web.archive.org/privacy/single-platform-addendum/)
 
- **Information Collected**
 
-We may collect certain user information (including personal information and/or sensitive personal information) in the following ways:
 
- **Information You Provide To Us.**  We collect information you provide directly to us including when you visit one of our websites, register for and/or use one of the Social Quant Services.
+## Information We Collect From You
 
-  * For example, we collect information when you register with Social Quant for an account, create or modify your profile and online account, access and use the Social Quant Services (including but not limited to when you upload, download, collaborate on or share files or other information), participate in any interactive features of the Social Quant Services, participate in a survey, contest, promotion, sweepstakes, activity or event, make a purchase, apply for a job, request customer support, or communicate with us via third-party social media sites.
-  * The types of information we may collect directly from you include your name, username, email address, your picture, postal address, phone number, analytics data about your Tweet activity via Twitter analytics, information about your data storage preferences, employer’s name, job title, transactional information (including services purchased or subscribed to and billing address) as well as any contact or other information you choose to provide. Please be aware that the information you choose to provide in your Social Quant profile may reveal or identify information that is not expressly stated (for example, if you choose to provide your picture, your picture may reveal your gender). We also store the files or other information that you upload or provide to the Social Quant Services (“Content”) in order to be able to provide you with the features and functionality of the Social Quant Service.
-  * The information of third parties such as name, email address, etc. as may be provided in order to enable the functionality and features of the Social Quant Service.
+In the course of your use of the Services, we obtain the following information about you as described below. We collect this data for the purposes described under “How We Use Your Information”.
 
+### Signing Up for Services; User Information
 
+  * Information you provide prior to any registration process, such as your email when you provide it to us;
+  * Information that you provide during any registration process, including in connection with a co-branded offer (such as your name, company name, email address, phone number, billing address or credit card information, geographic location and industry), when you call or email us (for support or otherwise) or when you use our products or services; and
+  * Payment information that you provide to us (by way of our Services or otherwise) when you purchase some of our products and services, including credit card data.
 
- **Information We Collect Automatically When You Use the Social Quant Services.**  When you access or use the Social Quant Services, we may automatically collect information about you, including:
 
-  *  **Usage Information:** We monitor user activity in connection with the Social Quant Services and may collect information about the applications and features you use, the websites you visit, the sizes and names of the files or folders you upload, download, share or access while using the Social Quant Services, the Content you access and any actions taken in connection with the access and use of your Content in the Social Quant Services.
-  *  **Log Information:** We log information about you when you access and use the Social Quant Services including your Internet Protocol (“IP”) address, access times, browser type and language, Internet Service Provider (“ISP”), the Web pages that you visit, the Content you use and the URL of the Web page you visited before navigating to the Social Quant Services.
-  *  **Device Information:** If you access the Social Quant Services from a mobile device, we collect information about the device, including the hardware model, operating system and version, unique device identifiers, mobile network information (as allowed by the mobile network) or platform information (as allowed by the specific platform type). We do not ask for, access or track any location-based information from your mobile device at any time while downloading or using our mobile apps.
-  *  **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, which may include saving cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve the Social Quant Services and your experience, customize your experience and preferences, allow you to access and use the Social Quant Services without re-entering your member ID and/or password, understand which areas and features of the Social Quant Services are most popular and count visits. We may also collect information using web beacons (also known as “tracking pixels”). Web beacons are electronic images (also called “gifs”) that may be used in the Social Quant Services or in emails that help us to deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies and how to disable them, please see “Your Choices” below.
-  *  **Third party cookies:** The use of cookies by third parties you may sign-in from into the Social Quant Services and/or third party applications, is not covered by our Privacy Notice. We do not have access or control over such cookies.
-  *  **Third Party clear gifs:** Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our website. We do not tie the information gathered to our Customers’ or Users’ personal information.
-  *  **Local Shared Objects (“LSO”):** We use LSOs such as HTML 5 to collect and store information in order to provide certain features on our website. Third parties with whom we partner may also use LSOs in order to provide certain features on our website or to display advertising based upon your Web browsing activity. Various browsers may offer their own management tools for removing HTML5 LSOs.
-  *  **Advertising Cookies:** We partner with third parties to manage our advertising on other websites. Our third parties may use tracking technologies such as cookies to gather information about your activities on this website and other websites you visit in order to provide you advertising based upon your browsing activities and interests.
 
+### Use of Services, Website Visits and Support
 
+  * Data relating to your online activity on our websites with respect to our Services, including the following:
+    *       * IP address
+      * browser type and version
+      * geographic location
+      * pages you view
+      * how you got to our Services and any links you click on to leave our Services
+      * when you update your information, communicate with us, or order new Services
+      * metadata about your use and your contacts’ use of our Services and your emails you send (including clicks and opens)
+      * your interactions with any videos we offer
+      * issues you encounter requiring our support or assistance
+      * any device or other method of communication you use to interact with the Services
 
-You may opt out of behaviorally targeted ads anytime by deleting your browser’s cookies. In addition, you may opt-out of interest-based advertising from some third-party partners by visiting <http://preferences-mgr.truste.com/>, [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/), or the third-party provider’s websites.  
-Please note that opting-out will only prevent targeted ads so you may continue to see generic (non-targeted ads) after you opt-out.
+We store this data we collect in a variety of places within our infrastructure, including system log files, back end databases and analytics systems.
 
- **Do Not Track.**  Some browsers offer a “do not track” (“DNT”) option. Because no common industry or legal standard for DNT has been adopted by industry groups, technology companies or regulators, we do not respond to DNT signals. We will make efforts to continue to monitor developments around DNT browser technology and the implementation of a standard.
+  * Your telephone conversations with us (which we may monitor or record).
 
- **Information We Collect From Other Sources.**  We may also obtain information from third parties and combine that with information we collect through the Social Quant Services. For example, we may have access to certain information from a third-party social media service if you create or log into your online account through the service or otherwise provide us with access to information from the service. Any access that we may have to such information from a third-party social media service is in accordance with the privacy notice and authorization procedures determined by the social media service.
 
- **Use of Information**
+  * Information from third party social networking sites, including information that social networking sites provide to us if you use your credentials at such social networking sites to log into some of our Services (such as your name and email address to pre-populate our sign-up form).
+  * The information you allow us to access varies by social networking site, and depends on the level of privacy settings you have in place at the social networking site. You can control and find out more about these privacy settings at the applicable social networking site.
 
-We may use the information collected through Social Quant for the limited purpose of providing the Social Quant and related functionality and services for which Social Quant has been engaged. The information may be used to perform a variety of purposes, including to:
 
-  * Provide, operate, maintain and improve the Social Quant Services;
-  * Enable you to access and use the Social Quant Services, including uploading, downloading, collaborating on and setting up Twitter Developer access, and following and unfollowing Twitter users on your behalf
-  * Send you technical notices, updates, security alerts and support and administrative messages;
-  * Provide and deliver the services and features you request, process and complete transactions, and send you related information, including purchase confirmations and invoices;
-  * Respond to your comments, questions, and requests and provide customer service and support;
-  * Communicate with you about services, features, surveys, newsletters, offers, promotions, contests and events, and provide other news or information about Social Quant and our select partners;
-  * Process and deliver contest or sweepstakes entries and rewards;
-  * Monitor and analyze trends, usage, and activities in connection with the Social Quant and for marketing or advertising purposes;
-  * Investigate and prevent fraudulent transactions, unauthorized access to Social Quant, and other illegal activities;
-  * Personalize and improve the Social Quant Services, and provide content, features, and/or advertisements that match your interests and preferences or otherwise customize your experience on Social Quant;
-  * We send you push notifications from time-to-time in order to update you about events or activities related to the Social Quant Services. If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we collect certain information about your device such as operating system and user identification information;
-  * Link or combine with other information we receive from third parties to help understand your needs and provide you with better service;
-  * For other purposes about which we notify you.
 
+### Other Sources
 
+  * Information you provide to us at seminars or to our partners;
+  * Information you provide to us in surveys;
+  * Information that is publicly available; and
+  * Information you consent to us receiving from third parties.
 
- **Processing**
 
-By accessing or using the Social Quant Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries and territories, which may have different privacy laws from your country of residence.
 
- **Sharing and Disclosure of Information.**
+## How We Use Your Information
 
-We will not share personal information about you or any Content with any third parties except as described in this Privacy Notice or in connection with the Social Quant Services. For example, we may share personal information about you including as follows:
+We use the information we collect, both on its own and combined with any other information we collect about you, for the following purposes:
 
-  *  **Vendors, Consultants and Other Service Providers:** We may share your information with third-party vendors, consultants and other service providers who are working on our behalf and require access to your information to carry out that work, such as to process billing, provide customer support, etc. These service providers are authorized to use your personal information only as necessary to provide services to Social Quant and/or Social Quant Services.
-  *  **Corporate Account: If you are an individual Social Quant registered user and the domain of the primary email address associated with your Social Quant account is owned by your employer and was assigned to you as an employee of that organization, and such organization wishes to establish a Social Quant corporate account, then certain information concerning past use of your individual account may become accessible to that organization’s administrator including your email address.**
-  *  **For Collaboration:** We may share your information, including when you choose to use collaboration features in the Social Quant Services that by their nature support sharing with third parties who you choose. Your name, email address, information from your profile and online account (including your photo), and any Content you choose to share will be shared with such third parties, and such third parties may communicate with you (such as by posting comments or emailing you) in connection with your use of the collaboration features of the Social Quant Services. For example, third parties who you invite to collaborate with you as “Editors” using the collaboration features of the Social Quant Services may also modify Content that you have shared, upload documents and photos to Content you have shared, share such Content outside of the Social Quant Services, and provide other third parties with rights to view the Content you have shared.
-  *  **Third Party Applications:** This Privacy Notice does not apply to your use of such third-party applications and services, and we are not responsible for how those third parties collect, use and disclose your information and Content. We encourage you to review the privacy policies of those third parties before connecting to or using their applications or services to learn more about their information and privacy practices.
-  *  **Compliance with Laws:** We may disclose your information to a third party if (a) we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request, (b) to enforce our agreements, policies and Terms of Service, (c) to protect the security or integrity of the Social Quant Services, (d) to protect Social Quant, our customers or the public from harm or illegal activities, (e) to respond to an emergency which we believe in the good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person or (f) to any other third party with your prior consent.
-  *  **Business Transfers:** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
-  *  **Aggregated or Anonymized Data:** We may also share aggregated or anonymized information with third parties that does not directly identify you.
+  * To provide the requested Services to you;
+  * To provide you with useful content;
+  * To ensure the proper functioning of our Services
+  * To offer and improve our Services;
+  * To provide you with requested information or technical support
+  * To facilitate your movement through our websites or your use of our Services;
+  * To do a better job of advertising and marketing our Services (our use of your information to do this is performed with your consent where required by applicable law);
+  * To advertise and market third party products and services (such advertisement is only performed with your permission where your consent is required by applicable law)
+  * To diagnose problems with our servers or our Services;
+  * In connection with our security and compliance programs;
+  * To administer our websites;
+  * To communicate with you;
+  * To target prospective customers with our products or services (such targeting is only performed with your permission where your consent is required by applicable law);
+  * To assist us in offering you a personalized experience or otherwise tailor our Services to you; and
+  * As otherwise described in this privacy policy.
 
 
 
- **Security**
+We also use the information we receive in aggregated and anonymized formats to produce reports on trends and statistics, such as mobile search trends, email open rates by industry, campaign best practices or the number of users that have been exposed to, or clicked on, our websites or evaluated or purchased our products and services.
 
-While no service is completely secure, Social Quant takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. For example, we encrypt your credit card information when it is stored in our data centers. In addition, sensitive information such as credit card number and password that we request from you on the Social Quant Services is protected with encryption, such as Secured Socket Layer (SSL) protocol, during transmission over the Internet.
+Payment information that you provide to us, including credit card data, will only be used to facilitate payment for our products and services.
 
-The servers on which personal information is stored are kept in a controlled environment with limited access. While we take reasonable efforts to guard personal information we knowingly collect directly from you, no security system is impenetrable. In addition, we cannot guarantee that any passively-collected personal information you choose to include in documents you store on our systems are maintained at levels of protection to meet specific needs or obligations you may have relating to that information.
+We also use recorded telephone conversations for quality control purposes, to train our employees and for our own protection.
 
-You may access your account information and our service only through the use of an individual user ID and password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. Please advise us immediately if you believe your password has been misused. In addition, always logout and close your browser when you finish your session. Please note that we will never ask you to disclose your password in an unsolicited phone call or email.
+## Sharing of Information
 
-If you have any questions about the security of your personal information, you can contact us at info@SocialQuant.net
+As further described below, we will only share certain personal information with:
 
- **Your Choices**
+  * other members of the Endurance corporate family;
+  * our partners;
+  * third party service providers and vendors;
+  * in connection with a sale, merger, acquisition or corporate reorganization;
+  * authorized users within your organization; and
+  * for legal reasons.
 
- **Account Information & Retention.** You may update, correct or delete information about you at any time by logging into your online account and modifying your information or by emailing us at info@SocialQuant.net. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Notice. If you wish to deactivate your account, please email us at info@SocialQuant.net. Note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time. We will respond to your access request within 30 days.
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-We will retain personal data we process on behalf of our customers as directed by paying customers. Social Quant will retain this personal information as necessary to comply with legal obligations, resolve disputes, and enforce agreements.
+Further information about the third parties with whom we share personal information is available [here](https://web.archive.org/privacy/third-party-data/).
 
-Upon request, Social Quant will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information that we are aware of. To request this information, contact us at info@SocialQuant.net
+### Sharing within the Endurance Corporate Family
 
- **Promotional and Newsletter Communications.**  You may opt out of receiving promotional and newsletter emails from Social Quant by following the opt-out instructions provided in those emails. You may also opt-out of receiving promotional emails and other promotional communications from us at any time by emailing info@SocialQuant.net with your specific request. If you opt out, we may still send you non-promotional communications, such as security alerts and notices related to your access to or use of the Social Quant Services or those about your online account or our ongoing business relations.
+We share personal information with other members of the Endurance corporate family to allow our corporate affiliates to contact you with offers, services or products that may be of interest to you and to provide you with their products and services. Any such corporate affiliate may use your information only according to the terms of this privacy policy. If you are located in a jurisdiction where such sharing requires your permission, we will only do so with your consent.
 
- **Cookies.**  Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies or to prompt you before accepting such a cookie. Please note that, if you choose to remove or reject browser cookies, this could affect the availability or functionality of the Social Quant Services.
+### Sharing with Partners
 
- **California Residents.**  Under California law, California Residents who have an established business relationship with Social Quant may choose to opt out of Social Quant’s disclosure of personal information about them to third parties for direct marketing purposes. If you choose to opt-out at any time after granting approval email info@SocialQuant.net
+When we share personal information with certain third-party partners, including marketing and advertising partners, that information includes your name, email address and other information enabling partners to:
 
- **Social Media Features and Widgets**
+  * assist you in using our products and services,
+  * contact you with offers, services or products that may be of interest to you, and
+  * provide you with their products or services.
 
-The Social Quant Services may include social media features. These features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on a Social Quant Service. Your interactions with these features are governed by the privacy notice of the company providing it.
 
- **Community Forums and Blogs**
 
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+If you are located in a jurisdiction where such sharing requires your permission, we will only do so with your consent. Please note that if you access our services through a tool that hides your location, such as through a virtual private network, you may not receive our request for permission because we were not able to identify you as being located in a jurisdiction where your permission is required.
 
-To request removal of your personal information from our blog or testimonials, contact us at the email address listed above. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Further, our partners are prohibited from using your contact information for any purpose beyond those set forth above without your consent. We will not provide our partners with your credit card information. Further information about certain partners we share personal information with is available [here](https://web.archive.org/privacy/third-party-data/).
 
- **Testimonials**
+In the event we collect information from you in connection with an offer that is jointly presented by us and a partner, we will let you know who is collecting the information and whose privacy policy applies, as well as any options you may have regarding use of your information.
 
-We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent we may post your testimonial along with your name.
+### Sharing with Third Party Service Providers and Vendors
 
- **Links to Third Party Websites**
+Occasionally, we enter into contracts with carefully selected third parties so that they can assist us in servicing you (for example, providing you with customer service, fraud detection and deterrence or access to advertising assets and providing us with information technology and storage services) or to assist us in our own marketing and advertising activities (including providing us with analytic information and search engine optimization services). Additional information about certain third-party service providers we share personal information with is available [here](https://web.archive.org/privacy/third-party-data/). Our contracts with such third parties prohibit them from using any of your personal information for any purpose beyond the purpose for which it was shared.
 
-We may place links on the Social Quant Services. When you click on a link to a third party website from our website, your activity and use on the linked website is governed by that website’s policies, not by those of Social Quant. We encourage you to visit their websites and review their privacy and user policies.
+If you purchase a product or service from a third party through one of our brands, we will pass your personal information to such third party in order for them to fulfill your order.
 
- **Our Policy Toward Children**
+We also share non-personal information with certain third parties, including the media, industry observers, marketing and advertising partners, vendors, customers, potential customers or partners. For example, we disclose mobile search trends, email open rates by industry, campaign best practices or the number of users that have been exposed to, or clicked on, our websites or evaluated or purchased our products and services.
 
-The Social Quant Services is not directed to individuals under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information, please contact us at info@SocialQuant.net. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information.
+### Corporate Reorganizations
 
- **Contacting Us**
+If we are involved in a merger, acquisition, a sale of all or a substantial portion of our assets, or other similar sale transaction, your information will be transferred as part of that transaction. We will notify you by email and/or a prominent notice on our website of any such transfer and any choices you may have regarding your information.
 
-Any questions about this Privacy Notice should be addressed to [info@SocialQuant.net](mailto:info@SocialQuant.net) or via mail to:
+All users authorized by you to have access to your account can view personal information stored in the account. A primary account holder can view personal information saved in subaccounts to which they have authorized access. We share information about authorized users only for legitimate purposes consistent with this privacy policy, including servicing your account and marketing products and services to you.
 
-Social Quant, LLC
+### Legal Process
 
-501 E. Kennedy Blvd. Suite 801
+Lastly, if legally required to do so, or if we have a good faith belief that such disclosure is reasonably necessary, we may disclose your personal information to courts of law, law enforcement authorities and other relevant third parties, such as internet service providers, to conduct an investigation, respond to a third party or law enforcement subpoena or court order, bring legal action, prevent harm to others or pursue other relief when you or a third party are or may be:
 
-Tampa, FL 33602
+  * violating our terms and conditions of use;
+  * causing injury or other harm to, or otherwise violating the property or other legal rights, of us, other users, or third parties; or
+  * violating federal, state, local, or other applicable law.
 
-Email: info@SocialQuant.net
 
-Phone: (844) 738-9338
+
+This disclosure can include transferring your information to the U.S. and other countries outside the European Economic Area. To the extent we are legally permitted to do so, it is our policy to notify you in the event that we are required to provide your personal information to third parties in connection with a subpoena.
+
+## Security
+
+The transmission of information via the internet, email or text message is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted through the Services or over email; any transmission is at your own risk. Once we have received your information, we will take appropriate technical and organizational measures to safeguard your personal information against loss, theft and unauthorized use, access or modification.
+
+When we collect financial account information, such as credit card numbers, we protect its transmission through the use of encryption such as the Transport Layer Security (TLS) protocol.
+
+## Tracking Technologies and Online Advertising
+
+We use cookies, web beacons, pixels, tags, scripts and other similar technologies in the course of our business. Information about the technologies we use, why we use them (for example, in connection with online advertising), and how you can control them can be found in our [Cookie Policy](https://web.archive.org/privacy/cookie-policy/).
+
+## Choice/Opt-out
+
+### Marketing Communications from Us
+
+#### Email
+
+You always have the opportunity to opt out of our marketing communications with you or change your preferences by following a link in the footer of all non-transactional email messages from us or by emailing us at [privacy@endurance.com](mailto:privacy@endurance.com). Some communications from us are considered transactional or service communications (for example, important account notifications and billing information), and your account(s) for Endurance products and services are provided to you upon the condition that you receive these communications from us. You must cancel your account(s) for Endurance products and services, as applicable, if you do not wish to receive any transactional or service communications. To cancel your Endurance account(s), please follow the instructions found in the terms of service for the applicable Endurance service. You may still receive marketing communications from us even after you cancel your account unless you also opt-out of our marketing communications, as described above.
+
+#### Phone
+
+We may contact you by telephone, with your consent where applicable, for marketing purposes (including by automatic dialer and/or prerecorded message). If you do not want to receive marketing calls, please contact customer support at the brand from which you purchased your Services. You do not need to agree to receive automated marketing phone calls or texts from us to use the Services.
+
+### Cookies
+
+For information about how to manage and opt out from cookies, please visit our [Cookie Policy](https://web.archive.org/privacy/cookie-policy/).
+
+### Information from Third Parties
+
+To manage the information we receive about you from a social networking site or other third parties (if applicable), you will need to follow the instructions from that party for updating your information and changing your privacy settings, where available. The information we collect is covered by this privacy policy and the information the third party collects is subject to such third party’s privacy practices. Privacy choices you have made on any third party site will not apply to our use of the information we have collected directly through our Services.
+
+### Unauthorized Accounts
+
+If an account or profile was created without your knowledge or authorization, please contact customer support at the brand on which the account or profile is located to request removal of the account or profile.
+
+## Retention of Personal Information
+
+We retain your personal information to provide services to you and as otherwise necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We will retain your personal information for no more than seven years following the later of (i) the date on which you terminate your use of the Services or (ii) May 25, 2018, unless we are otherwise required by law or regulation to retain your personal information for longer.
+
+## Legal Basis for Processing Your Information
+
+Depending on what information we collect from you and how we collect it, we rely on various grounds for doing processing your information under the GDPR, including the following reasons:
+
+  * In order to administer our contractual relationship, including setting up your requested Services, payments, renewals and processes;
+  * Because it is in our legitimate interest to run a successful and efficient business and provide you with the Services and other useful content;
+  * In order to fulfill any legal obligations we may have to collect this information from you; and/or
+  * Because you have provided your consent for us to do so.
+
+
+
+## Your Rights
+
+Where the European Union’s General Data Protection Regulation 2016/679, or GDPR, applies, in certain circumstances and subject to data processing agreements, you have rights in relation to the personal information we hold about you. We set out below an outline of those rights and how to exercise those rights. Please note that we will require you to verify your identity before responding to any requests to exercise your rights by providing details only known to the account holder. To exercise any of your rights, please send an email to [privacy@endurance.com](mailto:privacy@endurance.com) or visit the [Privacy Center](https://web.archive.org/privacy/). Please note that for each of the rights below we may have valid legal reasons to refuse your request, in such instances we will let you know if that is the case.
+
+### Access
+
+You have the right to know whether we process personal information about you, and if we do, to access data we hold about you and certain information about how we use it and who we share it with.
+
+### Portability
+
+You have the right to receive a subset of the personal information you provide us if we process it on the legal bases of our contract with you or with your consent in a structured, commonly used and machine-readable format and a right to request that we transfer such personal information to another party. If you wish for us to transfer the personal information to another party, please ensure you detail that party and note that we can only do so where it is technically feasible. We are not responsible for the security of the personal information or its processing once received by the third party.
+
+### Correction
+
+You have the right to require us to correct any personal information held about you that is inaccurate and have incomplete data completed. Where you request correction, please explain in detail why you believe the personal information we hold about you to be inaccurate or incomplete so that we can assess whether a correction is required. Please note that while we assess whether the personal information we hold about you is inaccurate or incomplete, you may exercise your right to restrict our processing of the applicable data as described below.
+
+### Erasure
+
+You may request that we erase the personal information we hold about you in the following circumstances:
+
+  * where you believe it is no longer necessary for us to hold the personal information;
+  * we are processing it on the basis of your consent and you wish to withdraw your consent;
+  * we are processing your data on the basis of our legitimate interest and you object to such processing;
+  * you no longer wish us to use your data to send you marketing; or
+  * you believe we are unlawfully processing your data.
+
+
+
+Please provide as much detail as possible on your reasons for the request to assist us in determining whether you have a valid basis for erasure.
+
+### Restriction of Processing to Storage Only
+
+You have a right to require us to stop processing the personal information we hold about you other than for storage purposes in the following circumstances:
+
+  * You believe the personal information is not accurate for the period it takes for us to verify whether the data is accurate;
+  * We wish to erase the personal information as the processing we are doing is unlawful but you want us to simply restrict the use of that data;
+  * We no longer need the personal information for the purposes of the processing but you require us to retain the data for the establishment, exercise or defense of legal claims; or
+  * You have objected to us processing personal information we hold about you on the basis of our legitimate interest and you wish us to stop processing the personal information while we determine whether there is an overriding interest in us retaining such personal information.
+
+
+
+### Objection
+
+You have the right to object to our processing of data about you and we will consider your request. Please provide us with detail as to your reasoning so that we can assess whether there is a compelling overriding interest in us continuing to process such data or we need to process it in relation to legal claims.
+
+You also have the right, at any time, to object to our processing of data about you in order to send you marketing, including where we build profiles for such purposes and we will stop processing the data for that purpose.
+
+### Withdrawal of Consent
+
+Where you have provided your consent to us processing your personal data, you can withdraw your consent at any time by visiting the [Privacy Center](https://web.archive.org/privacy/).
+
+## Third Party Links and Information Collection and Use by Our Users
+
+Some of our Services provide links to other websites. Because we do not control the information policies or practices of these third party sites, you should review their privacy policies to learn about how they collect and use personal information.
+
+You may also log in to some of our Services using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you with the option to share certain personal information with us, such as your name and email address to pre-populate our sign up form. For example, if you take advantage of certain of our social media features, such as the Facebook Like button, and widgets, such as the “Share This” button or interactive mini-programs that run on our site, the applicable social networking sites may collect your IP address, which page you are visiting on our websites, and may set a cookie to enable it to function properly.
+
+## Children
+
+Our Services are not directed to persons under 18. We do not knowingly collect personal information from children under 18. If a parent or guardian becomes aware that his or her child has provided us with personal information without such parent or guardian’s consent, he or she should contact us. If we become aware that a child under 18 has provided us with personal information, we will delete such information from our files.
+
+## Data Transfer
+
+In order for us to provide the Services to you, your personal information will be transferred to, and stored at/processed in the United States. Your personal data is also processed by staff operating outside the European Economic Area (EEA), such as in India and the Philippines, who work for us or for one of our suppliers. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this policy.
+
+For transfers of personal information within the Endurance corporate family, such transfer will be under the Commission’s model contracts for the transfer of personal data to third countries (i.e., the standard contractual clauses), pursuant to Decision 2004/915/EC and 2010/87/EU.
+
+For transfers of data to third parties, such transfers will either (i) be under the Commission’s model contracts for the transfer of personal data to third countries (i.e., the standard contractual clauses), pursuant to Decision 2004/915/EC and 2010/87/EU; or (ii) rely on the EU-US Privacy Shield Framework.
+
+Endurance’s Constant Contact(and its subsidiary, SinglePlatform LLC) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (together, the “Frameworks”). Constant Contact and SinglePlatform are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
+
+Constant Contact and SinglePlatform comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. Accordingly, Constant Contact and SinglePlatform are responsible for the processing of personal data they receive under the Privacy Shield Framework, and subsequently transfer to a third party acting as an agent on behalf of Constant Contact and/or SinglePlatform.
+
+The U.S. Federal Trade Commission has regulatory enforcement powers over data received or transferred by Constant Contact or Single Platform pursuant to the Privacy Shield Framework.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+You can contact the Data Protection Officer listed below to obtain a copy of the data transfer agreement or more information regarding the relevant safeguard we put in place. For more information about the EU-US Privacy Shield Framework, please visit the U.S. Department of Commerce’s Privacy Shield website.
+
+## Complaints
+
+In the event that you wish to make a complaint about how we process your personal information, please contact our Data Protection Officer at [privacy@endurance.com](mailto:privacy@endurance.com) and we will try to deal with your request. This is without prejudice to your right to raise a complaint with the Dutch Supervisory Authority (Autoriteit Persoonsgegevens) by contacting:
+
+Autoriteit Persoonsgegevens  
+Postbus 93374  
+2509 AJ DEN HAAG
+
+Telephone: (+31) – (0)70 – 888 85 00  
+Fax: (+31) – (0)70 – 888 85 01
+
+## Notification of Changes
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. If we decide to change this privacy policy in any material way, we will notify you here, by email, or by means of a notice on [www.endurance.com](https://web.archive.org/) or the website of the Endurance product or service you use prior to the change becoming effective. In all cases, your continued use of any Services constitutes acceptance to any such changes.
+
+ **Last modified November 14, 2018**
