@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oil-testimonials.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529033542id_/http%3A//www.oil-testimonials.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oil-testimonials.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127030041id_/http%3A//www.oil-testimonials.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
