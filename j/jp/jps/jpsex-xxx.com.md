@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the jpsex-xxx.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528125622id_/http%3A//jpsex-xxx.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpsex-xxx.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127041135id_/http%3A//jpsex-xxx.com/Privacy.html) for the most accurate reproduction.*
 
 # JPsex-xxx.com - Privacy Policy
 
   * Current Location :
-  * [Home](https://web.archive.org/web/20180528125622id_/http%3A//jpsex-xxx.com/index.html)
+  * [Home](https://web.archive.org/web/20181127041135id_/http%3A//jpsex-xxx.com/index.html)
   * > Privacy
 
 
