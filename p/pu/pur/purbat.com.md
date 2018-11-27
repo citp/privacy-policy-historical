@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the purbat.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528194226id_/http%3A//www.purbat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purbat.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127104431id_/http%3A//purbat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy (“Policy”) describes how Website Operator (“Website Operator”, “we”, “us” or “our”) collects, protects and uses the personally identifiable information (“Personal Information”) you (“User”, “you” or “your”) may provide on the [http://purbat.com](http://purbat.com/) website and any of its products or services (collectively, “Website” or “Services”). It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
+This privacy policy (“Policy”) describes how Website Operator (“Website Operator”, “we”, “us” or “our”) collects, protects and uses the personally identifiable information (“Personal Information”) you (“User”, “you” or “your”) may provide on the [https://purbat.com](https://purbat.com/) website and any of its products or services (collectively, “Website” or “Services”). It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
 ## Collection of personal information
 
