@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222172309id_/http%3A//www.inkfrog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128004830id_/https%3A//www.inkfrog.com/privacy) for the most accurate reproduction.*
 
-# inkFrog Privacy Policy.
+# inkFrog Privacy Policy
 
 When you use inkFrog's services we track your activity on our website. Your personal information is used to identify you in our system allowing inkFrog to interact with eBay on your behalf. We also track your Internet Protocol (IP) address, domain name (if applicable), browser type, and utilize cookies with a duration. inkFrog uses this information to administer the site and to further improve the service to better suit you. 
 
@@ -43,3 +43,11 @@ You can edit and change your information in your inkFrog account, including your
 **How will I know about changes to inkfrog's privacy policy?**
 
 If we decide to change our privacy policy, we will post those changes to this page. You are responsible to know and understand the changes to this page and to understand the information we collect, how we use it, and under circumstances, if any. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we shall notify users by way of this posting. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+
+**Display Advertising on inkFrog Shopping Properties**
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.
+  * Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).)
+
+
