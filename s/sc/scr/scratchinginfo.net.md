@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scratchinginfo.net privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529041639id_/http%3A//www.scratchinginfo.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratchinginfo.net privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127054436id_/http%3A//www.scratchinginfo.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
