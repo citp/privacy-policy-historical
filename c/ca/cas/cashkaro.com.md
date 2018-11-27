@@ -1,16 +1,19 @@
-> *The following text is extracted and transformed from the cashkaro.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915165821id_/https%3A//cashkaro.com/privacy-policy%3Futm_source%3Dfooter%26utm_medium%3Dprivacycookiepolicy%26utm_campaign%3Dfooter-links) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashkaro.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127032518id_/https%3A//cashkaro.com/privacy-policy%3Futm_source%3Dfooter%26utm_medium%3Dprivacycookiepolicy%26utm_campaign%3Dfooter-links) for the most accurate reproduction.*
 
-# None
+# CashKaro.com - Privacy Policy
 
 Cashkaro.com (“website”, “our website”, “site”) is operated by Pouring Pounds Ltd (“We”, “Our”, “Company”).
 
   
-**What information do we store** We collect information from you when you subscribe to our newsletter.
+**What information do we store**   
+We collect information from you when you subscribe to our newsletter.   
+
 
 To complete your registration with us, the only personal information we ask you to provide is your email address and your name. We will never display your email address on this site, or on any other, or pass on personal information to a third party without your explicit permission.
 
 We may request further personal information from you on occasion in order for us to provide our high level of customer service. All this data is stored securely and we will never pass any of this information on to third parties, unless you specifically ask us to or as required by law.
 
+  
 **Use of Third Parties**
 
 We contract with third parties to serve ads on our behalf across the Internet and sometimes on this site. They may collect information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. Such third parties are not permitted to sell or share your personally identifiable information as part of this process.
@@ -22,7 +25,8 @@ Google's use of the DoubleClick cookie enables it and its partners to serve ads 
 Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings.](http://www.google.com/ads/preferences/) (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info.](http://www.aboutads.info/))
 
   
-******The use of Email**
+******The use of Email**   
+
 
 In order to keep you informed of your activities on www.cashkaro.com we occasionally send you emails. These include your transaction emails to show how much you have earned, referral emails that show you how much you have earned from referrals, payment confirmations for payments to you and, important administrative emails and emails to confirm your activities on the website. These emails are not shared with anyone else apart from you.
 
