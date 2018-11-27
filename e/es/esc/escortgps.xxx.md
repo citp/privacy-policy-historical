@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escortgps.xxx privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529034545id_/http%3A//www.escortgps.xxx/information/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escortgps.xxx privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127025843id_/http%3A//www.escortgps.xxx/information/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Escort GPS Your free Escort Global Directory Search Engine!
 
