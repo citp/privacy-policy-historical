@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lazygamer.net privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325075138id_/https%3A//www.criticalhit.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazygamer.net privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127044806id_/https%3A//www.criticalhit.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Critical Hit
 
 **What information do we collect?**
 
@@ -28,6 +28,14 @@ Any of the information we collect from you may be used in one of the following w
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+**Advertising**
+
+We use third-party advertising companies who serve ads to help keep content free. For these partners, we put additional restrictions on how your data can be used to prevent it from misuse. For instance, we do not allow these partners to take your information for profiling and personalizing ads on other sites.
+
+Please review the following for a full list of partners and purposes:
+
+–  _[PubGalaxy (Titan Gate AD)](https://www.pubgalaxy.com/privacy-policy.html)_
 
 **Do we disclose any information to outside parties?**
 
