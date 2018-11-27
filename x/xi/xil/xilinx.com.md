@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xilinx.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624110603id_/http%3A//www.xilinx.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xilinx.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127023217id_/http%3A//www.xilinx.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -114,7 +114,7 @@ We will retain your personal data for as long as is necessary for the purposes s
 
 Like most international business, Xilinx operates globally and therefore personal data may also be disclosed and transferred to a person or company that is not part of the Xilinx group and located in a country outside the EU/EEA for any of the purposes set out in this Policy. Some of these countries may not have the same levels of data protection as are present in the EU, in which case Xilinx will transfer and disclose your data in compliance with the [European Commission’s adequacy decisions](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en) on certain countries and the Standard Contractual Clauses approved by the European Commission. You can request a copy of the Standard Contractual Clauses by sending an email to [privacy_gdpr@xilinx.com](mailto:privacy_gdpr@xilinx.com).
 
-Xilinx, Inc. also complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the European Union Member States. Xilinx, Inc. has certified that it adheres to the Privacy Shield Principles. To learn more about how personal data are transferred pursuant to the EU-US Privacy Shield Framework, please read the Xilinx, Inc. EU-US Privacy Shield Notice located [here](https://www.xilinx.com/programmable/hr/Xilinx_Privacy_Shield_Notice.pdf).
+Xilinx, Inc. also complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the European Union Member States. Xilinx, Inc. has certified that it adheres to the Privacy Shield Principles. To learn more about how personal data are transferred pursuant to the EU-US Privacy Shield Framework, please read the Xilinx, Inc. EU-US Privacy Shield Notice located [here](https://web.archive.org/publications/legal/Xilinx_Privacy_Shield_Notice.pdf).
 
 ### Your Rights
 
