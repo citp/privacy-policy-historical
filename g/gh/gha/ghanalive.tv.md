@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghanalive.tv privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527202052id_/http%3A//www.ghanalive.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanalive.tv privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127134635id_/http%3A//www.ghanalive.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - %%
 
