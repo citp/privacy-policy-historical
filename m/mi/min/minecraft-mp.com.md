@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft-mp.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520082249id_/http%3A//minecraft-mp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-mp.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127230015id_/https%3A//minecraft-mp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Politique de Confidentialité
 
@@ -6,7 +6,7 @@ __Lire la Version Française
 
 We collect only the following information for the use of " **Minecraft-mp.com** ". We never sell your personal information to third parties. If you have any questions or concerns regarding our privacy policy, please contact us at: [admin@minecraft-mp.com](mailto:admin@minecraft-mp.com)
 
-**Last Revision: September 13th, 2014**
+**Last Revision: August 9th, 2018**
 
 ## What we collect
 
@@ -28,6 +28,14 @@ Like many other websites, we make use of log files. The information inside the l
 
 .
 
+**Vote Plugin**  
+When you vote for a server using a reward plugin like Votifier, we might transmit the following information to that server: 
+
+  * Nickname entered on the vote form
+  * Your IP address
+
+
+
 ### Cookies
 
 Our Cookie policy is available here: [Cookie Policy](https://web.archive.org/cookie/)
@@ -48,7 +56,7 @@ __Read English Version
 
 Nous collectons les informations suivantes uniquement pour l'usage des services de " **Minecraft-mp.com** ". Nous nous ne céderons jamais vos informations personnelles à des tiers. Si vous avez des questions à propos de notre politique de confidentialité, vous pouvez nous contacter à : [admin@minecraft-mp.com](mailto:admin@minecraft-mp.com)
 
-**Dernière révision: 13 Septembre 2014**
+**Dernière révision: 9 Ao�t 2018**
 
 ## Informations que nous collectons
 
@@ -69,6 +77,14 @@ Comme beaucoup de sites Internet, nous utilisons des fichiers d'historique. Les 
  _L'adresse IP et les autres informations ne sont pas liées à d'autre informations personnellement identifiable_
 
 .
+
+**Plug-in de Vote**  
+Lorsque vous votez pour un serveur utilisant un plug-in de récompense, comme Votifier, nous sommes amener à transmettre les informations suivantes à ce serveur: 
+
+  * Votre pseudonyme saisi sur le forumulaire de vote
+  * Votre addresse IP
+
+
 
 ### Cookies
 
