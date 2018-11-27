@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlos.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628125834id_/http%3A//wlos.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlos.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127032406id_/https%3A//wlos.com/station/privacy) for the most accurate reproduction.*
 
 # Asheville Privacy | News, Weather, Sports, Breaking News | WLOS
 
