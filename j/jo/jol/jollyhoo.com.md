@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jollyhoo.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529031200id_/http%3A//jollyhoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jollyhoo.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127023311id_/http%3A//jollyhoo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Telugu Cinema News, Telugu Movie songs, Actress Photo Gallery, Telugu Cinema Reviews
 
 #### Privacy Policy
 
