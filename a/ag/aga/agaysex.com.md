@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agaysex.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527042423id_/http%3A//www.agaysex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agaysex.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127121102id_/http%3A//www.agaysex.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - A Gay Sex
 
