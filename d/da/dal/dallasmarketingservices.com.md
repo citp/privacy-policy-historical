@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallasmarketingservices.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110065441id_/http%3A//www.dallasmarketingservices.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasmarketingservices.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127050913id_/http%3A//dallasmarketingservices.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Dallas Internet Marketing | Dallas SEO Company
 
