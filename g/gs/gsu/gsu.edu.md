@@ -1,75 +1,106 @@
-> *The following text is extracted and transformed from the gsu.edu privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702133407id_/https%3A//app.gsu.edu/policies/index.cfm%3Fview_policy%3D5871) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsu.edu privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127065442id_/https%3A//www.gsu.edu/privacy-notices) for the most accurate reproduction.*
 
-# Home | List Policies
+# Privacy Notices - Georgia State University
 
-## Policy Summary
+## Website
 
-Georgia State University's information system resources shall be made available only for appropriate uses, and will be used in a manner that protects both personal privacy and equitable availability across the university.
+### What we collect and why
 
-## Full Policy Text
+Georgia State University (GSU) collects information from individuals or entities when they access any GSU website.  Information that is collected from this contact is the contactor’s IP address, date and time of the website access along with the web pages(s) visited.  In addition, GSU may also collect any information that it receives from your web browser, including browser type and version, and operating system.  This information helps us understand aggregate uses of our site, track usage trends and improve our services.
 
-Georgia State University´s information system resources shall be made available only for appropriate uses, and will be used in a manner that protects both personal privacy and equitable availability across the university.
+**The following is a typical log entry when someone visits our website:**  
+_73.207.112.121 130.207.244.191 – – [01/Apr2018:12:45:32 -0400] “GET /files/uploads/06/2014/studentonbike.jpg HTTP/1.1” 200 35380 “http://admissions.gsu.edu/howtoapply” “Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.6.3 (KHTML, like Gecko) Version/8.0.6 Safari/600.6.3”_
 
-## Administration of Policy
+### Cookies
 
-**Mandating Authority:**  
-None Identified
+Cookies are files that many websites transfer to users’ web browsers to enable the site to deliver personalized services or to provide persistent authentication. The information contained in a cookie typically includes information collected automatically by the web server and/or information provided voluntarily by the user.  Our website uses persistent cookies in conjunction with a third party technology partner to analyze search engine usage and web traffic patterns. This information is used in the aggregate to monitor and enhance our web pages. It is not used to track the usage patterns of individual users.
 
-**Responsible Office(s):**   
-Information Systems and Technology, 13th floor, Commerce Building, 3-4357  
+### Security
+
+Our office is committed to ensuring the security of your information. We have put in place reasonable physical, technical and administrative safeguards designed to prevent unauthorized access to or use of the information collected online.
+
+### Sharing your information
+
+We will not share your information with third parties except:
+
+  * as required by law;
+  * as necessary to protect GSU interests;
+  * as necessary to further GSU research efforts pursuant to approvals from appropriate data stewards and the IRB; and/or
+  * with service providers acting on our behalf who have agreed to protect the confidentiality of the data.
 
 
-**Responsible Executive(s):**
 
-## Policy History
+### Links to other websites
 
-**Approving Body:** Administrative Council 
+This site may contain links to other websites not affiliated with GSU. We are not responsible for the privacy practices of these other sites. We encourage you to read the privacy statements of other sites for assurance that their practices safeguard your privacy.
 
-## Rationale or Purpose
+## European Union General Data Protection Regulation (EU GDPR) Privacy Notice
 
-In order to further the university's academic, research and service missions, a quality computing environment must be maintained. This environment ensures availability and equitable distribution of resources across the campus. Limited resources should not be used for purposes that are not directly related to the business of the university nor should they be used in a manner that would violate the personal privacy of faculty, staff or students associated with the university.
+### Lawful Basis for Collecting and Processing of Personal Data
 
-## Additional Information
+GSU is an institute of higher education involved in education, research, and community engagement.  In order for GSU to educate its students both in class and on-line, engage in world-class research, and provide community services, it is essential, necessary (and GSU has lawful bases) for GSU to collect, process, use, and maintain data of its students, employees, applicants, research subjects, and others involved in its educational, research, and community programs. The lawful bases include, without limitation, admission, registration, delivery of classroom, on-line, and study abroad education, grades, communications, employment, applied research, development, program analysis for improvements, and records retention. Examples of data that GSU may need to collect in connection with the lawful bases are: name, email address, IP address, physical address or other location identifier, photos, as well as some sensitive personal data obtained with prior consent.
 
-**Standards** _Appropriate Use._ Appropriate use of information systems is that which supports the university´s objectives of teaching, research and extension of knowledge to the public. Guidelines for the appropriate use of information systems: a) Users shall not provide network or computer-based services using university information systems without prior written approval and registration
+Most of GSU’s collection and processing of personal data will fall under the following categories:
 
-b) Users shall not use information systems for non-university business
+  1. Processing is necessary for the purposes of the legitimate interests pursued by GSU or third parties in providing education, employment, research and development, community programs.
+  2. Processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract. This lawful basis pertains primarily but not exclusively to research contracts.
+  3. Processing is necessary for compliance with a legal obligation to which GSU is subject. This lawful basis pertains primarily but not exclusively to compliance with state and federal laws. Examples are providing enrollment data to the U.S. Department of Education and providing employment and payroll data as required by the U.S. Internal Revenue Service.
+  4. The data subject has given consent to the processing of his or her personal data for one or more specific purposes. This lawful basis pertains primarily but not exclusively to the protection of research subjects, providing medical and mental health services.
 
-c) Users shall not use information systems to engage in harmful activities; such activities include, but are not limited to, Internet Protocol (IP) spoofing, creating and/or propagating viruses, port scanning, disrupting services, damaging files, purporting or representing one´s self as someone else, or intentional destruction of or damage to equipment, software or datad)
 
-d) Users shall not impede, interfere with, impair or otherwise cause harm to other users´ legitimate use of information systems
 
-e) Users shall not use information systems in such a way that violates local, state or federal laws, including copyright laws
+There will be some instances where the collection and processing of personal data will be pursuant to other lawful bases.
 
-f) Users shall be responsible for ascertaining that the use of information systems complies with all university policies
+### Types of Personal Data collected and why
 
-g) Users shall not use information systems in such a way that violates the University´s contractual obligations, including limitations defined in software or other licensing agreements
+GSU collects a variety of personal and sensitive data to meet one of its lawful bases, as referenced above. Most often the data is used for academic admissions, enrollment, educational programs, job hiring, provision of medical services, participation in research, development and community outreach. Data typically includes name, address, transcripts, work history, information for payroll, research subject information, medical and health information (for student health services, or travel), and donations. If you have specific questions regarding the collection and use of your personal data, please contact the Office of Public Relations & Marketing Communications at [dataprivacy@gsu.edu](mailto:dataprivacy@gsu.edu).
 
-h) Users shall not use information systems to transmit communications that are fraudulent, defamatory, harassing, obscene, threatening, that unlawfully discriminate or that are prohibited by law
+If a data subject refuses to provide personal data that is required by GSU in connection with one of GSU’s lawful bases to collect such personal data, such refusal may make it impossible for GSU to provide education, employment, research or other requested services.
 
-i) Users must comply with the regulations and policies of newsgroups, mailing lists and other public forums through which they disseminate their messages and comments
+### Where GSU gets Personal and Sensitive Personal Data
 
-j) Users shall not perform security scanning, probing or monitoring services without appropriate permission.
+GSU receives personal and sensitive personal data from multiple sources. Most often, GSU gets this data directly from the data subject or under the direction of the data subject who has provided it to a third party (for example, application for admission to GSU through use of the Common App).
 
-**University Access to User´s Information (Privacy).**
+### Individual Rights of the Data Subject under the EU GDPR
 
-University access to a user´s information systems includes any access by the university to approach, enter, or make use of the information stored on the university´s information systems. To the extent permitted by law, the university seeks to preserve an individual´s information or data from unsanctioned intrusion. Electronic and other technological methods must not be used to infringe upon a user´s privacy.
+Individual data subjects covered by GSU’s EU General Data Protection Regulation Compliance will be afforded the following rights:
 
-Guidelines concerning access to user information:
+  1.  information about the controller collecting the data
+  2. the data protection officer contact information
+  3. the purposes and legal basis/legitimate interests of the data collection/processing
+  4. recipients of the personal data
+  5. if GSU intends to transfer personal data to another country or international organization
+  6. the period the personal data will be stored
+  7. the existence of the right to access, rectify incorrect data or erase personal data, restrict or object to processing, and the right to data portability
+  8. the existence of the right to withdraw consent at any time
+  9. the right to lodge a complaint with a supervisory authority (established in the EU)
+  10. why the personal data are required, and possible consequences of the failure to provide the data
+  11. the existence of automated decision-making, including profiling
+  12. if the collected data are going to be further processed for a purpose other than that for which it was collected
 
-a) The university seeks to preserve individual privacy and does not routinely monitor individual usage; however, the university may in accordance with state and federal law, access and monitor information systems when:
 
-1) Users have voluntarily made them accessible to the public 2) It reasonably appears necessary to do so to protect the integrity, security or functionality of the university or to protect the university from liability 3) When necessary for the normal operation and maintenance of the information systems, or to identify or diagnose systems or security vulnerabilities and problems 4) There are reasonable grounds to believe that a violation of law or a significant breach of university policy may have occurred 5) An account appears to be engaged in unusual or unusually excessive activity as indicated by monitoring of general activity and usage patterns 6) It is required by federal, state or local law or administrative rules.
 
-Any such access, other than what is made accessible by the user, required by law or necessary to respond to emergency situations, must be authorized in advance by the Provost, the Associate Provost for Information Systems and Technology, or the Office of Legal Affairs. Depending on the circumstances, the university will make a reasonable attempt to notify the user of any such action.
+Any data subject who wishes to exercise any of the above-mentioned rights may do so by filling such request with the Office of Public Relations and Marketing Communication at at [dataprivacy@gsu.edu](mailto:dataprivacy@gsu.edu).
 
-b) Users understand that by attaching personal computing devices to the University information systems, they consent to the university´s monitoring of their information systems for maintenance and security purposes
+### Security of Personal Data subject to the EU GDPR
 
-c) Electronic mail messages are not secure and therefore should not be assumed to be private
+All personal data and sensitive personal data collected or processed by GSU under the scope of the GSU EU General Data Protection Regulation Compliance must comply with the security controls and systems and process requirements and standards of GSU policies.
 
-Policy originally approved and made effective by Administrative Council January 2003
+We will not share your information with third parties except:
 
-## Additional Helpful Resources
+  * as necessary to meet one of its lawful purposes, including  but not limited to, 
+    *  its legitimate interest,
+    * contract compliance,
+    * pursuant to consent provided by you,
+    * as required by law;
+  * as necessary to protect GSU’s interests;
+  * with service providers acting on our behalf who have agreed to protect the confidentiality of the data.
 
-Request Authorization to Probe or Monitor University Information Systems  
-Request Authorization to Access Users´ Information
+
+
+### **Data Retention**
+
+GSU keeps the data it collects for the time periods specified in the University System of Georgia Records Retention Schedules: <https://www.usg.edu/records_management/schedules/>
+
+For examples of Student Records Retention Schedules, see: <https://www.usg.edu/records_management/schedules/934>[  
+](https://www.usg.edu/records_management/schedules/934)For examples of Human Resources (Employment) Records Retention Schedules, see: <https://www.usg.edu/records_management/schedules/930>
