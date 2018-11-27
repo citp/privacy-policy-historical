@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmaplayground.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528095622id_/http%3A//www.mmaplayground.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaplayground.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127173022id_/http%3A//www.mmaplayground.com/privacy.aspx) for the most accurate reproduction.*
 
 # MMAPlayground.com Privacy Policy
 
@@ -68,4 +68,4 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 Please note that this Privacy Policy may change from time to time. We will post any Policy changes on this page. Each version of this Policy will be identified at the top of the page by its effective date. 
 
-If you have any questions about this Policy, please feel free to contact us through the Site or write to us at 67 Harned Rd. Suite 2B, Commack, NY 11725. 
+If you have any questions about this Policy, please feel free to contact us through the Site or write to us at 67 Harned Rd. Suite 3B, Commack, NY 11725. 
