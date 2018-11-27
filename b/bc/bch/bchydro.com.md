@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626164724id_/http%3A//www.bchydro.com/siteinfo/privacy.html%3FWT.ac%3Dhp_footer_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127041826id_/https%3A//www.bchydro.com/siteinfo/privacy.html%3FWT.ac%3Dhp_footer_privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
 _Protecting your personal information is an obligation BC Hydro takes seriously._
 
-_BC  Hydro only discloses customer personal information to third parties in accordance with applicable laws. BC Hydro serves customers in accordance with the Electric Tariff regulated by the British Columbia Utilities Commission and in compliance with the Hydro and Power Authority Act. If you have any questions about how your personal information is handled, please [contact us](https://web.archive.org/contact.html) or call BC Hydro at 604 224 9376 (Greater Vancouver), 1 800 224 9376 (Other Areas).  
+_BC  Hydro only discloses customer personal information to third parties in accordance with applicable laws. BC Hydro serves customers in accordance with the Electric Tariff regulated by the British Columbia Utilities Commission and in compliance with the Hydro and Power Authority Act. If you have any questions about how your personal information is handled, please [contact us](https://web.archive.org/toolbar/contact.html) or call BC Hydro at 604 224 9376 (Greater Vancouver), 1 800 224 9376 (Other Areas).  
 _
 
 ### What is considered personal information
@@ -15,7 +15,7 @@ Under FOIPPA, personal information includes recorded information about an identi
 
 In order to use this website, a user may be asked to first complete a registration and/or login form. During registration/login, a user is required to provide contact information (such as a name and email address). This information is used only to contact the user about the services on our site for which he/she has expressed an interest. It is optional for the user to provide demographic information and unique identifiers, but encouraged so we can provide a more personalized experience on our site.
 
-Keep your user ID and password confidential. Be wary of emails that ask for personal information. Never provide your password, personal information numbers or login information via email. We will not ask you for personal information via email except in response to an email you have sent to us. If you receive an unsolicited email asking for personal information please [contact us](https://web.archive.org/contact.html).
+Keep your user ID and password confidential. Be wary of emails that ask for personal information. Never provide your password, personal information numbers or login information via email. We will not ask you for personal information via email except in response to an email you have sent to us. If you receive an unsolicited email asking for personal information please [contact us](https://web.archive.org/toolbar/contact.html).
 
 Please also note that when you send us electronic mail, we collect your email address, your internet IP address and your message so that we may reply to you. We recommend that sensitive personal information not be sent unencrypted over the Internet or by e-mail.
 
@@ -73,4 +73,4 @@ From time to time, we review and revise our privacy policy to better reflect the
 
 ### Contact Us
 
-If you have any questions or concerns regarding your privacy, please [contact us](https://web.archive.org/contact.html).
+If you have any questions or concerns regarding your privacy, please [contact us](https://web.archive.org/toolbar/contact.html).
