@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minecraft-server.net privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002002840id_/https%3A//minecraft-server.net/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-server.net privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127230023id_/https%3A//minecraft-server.net/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Minecraft Servers | Best Server List
+# Privacy Policy | Minecraft Servers | Best Minecraft Server List
 
 **What information do we collect?**
 
