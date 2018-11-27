@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the imagine.co.za privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526212256id_/http%3A//www.imagine.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagine.co.za privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127181712id_/http%3A//www.imagine.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Imagine IPS
 
 ## Legal – Privacy Policy
 
- **Imagine IPS Privacy Policy**
+**Imagine IPS Privacy Policy**
 
   1. Thank you for taking the time to review our Privacy Policy. At times, Imagine IPS will collect certain personal information about customers and visitors to websites hosted by us. Such information will include both identifiable personal data*, as well as non-identifiable personal information*. Identifiable personal information will be collected when you sign a contract for service with us, or use our website for a transaction or subscription service. Non-identifiable information is gathered automatically when you visit our website or those websites hosted by us, and stored for use in our system. *** Important Note: There are two main types of personal information:**
     1. Identifiable personal data, and
