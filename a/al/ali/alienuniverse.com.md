@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alienuniverse.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211201543id_/https%3A//www.foxprivacy.com/us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienuniverse.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127025047id_/https%3A//www.foxprivacy.com/us/privacy.html) for the most accurate reproduction.*
 
 # FoxPrivacy.com
 
