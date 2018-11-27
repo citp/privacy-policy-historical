@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetop.games privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527020304id_/http%3A//www.freetop.games/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetop.games privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127175421id_/http%3A//www.freetop.games/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Top Games
 
