@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ccras.nic.in privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516154849id_/http%3A//www.ccras.nic.in/node/928) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccras.nic.in privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127154636id_/http%3A//www.ccras.nic.in/node/928) for the most accurate reproduction.*
 
 # Privacy policy | Central Council for Research in Ayurvedic Sciences, Ministry of AYUSH, Government of India
-
-## Central Council for Research in Ayurvedic Sciences (CCRAS)
-
-### Privacy policy
 
 As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information. The information received depends upon what you do when visiting the site.
 
