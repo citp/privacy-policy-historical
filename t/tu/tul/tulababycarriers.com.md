@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tulababycarriers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234838id_/https%3A//babytula.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tulababycarriers.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127015742id_/https%3A//babytula.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Baby Tula — Baby Tula - Privacy Policy
+# Baby Tula - Privacy Policy
 
 Baby Tula values you as a customer and respects your privacy. We collect certain information from you that allows us to customize and enhance your shopping experience and to communicate with you about our products, services and promotions. Please carefully review this policy to learn about how we collect, use, protect, and share personal information you provide us and your choices for managing this information.
 
@@ -77,9 +77,9 @@ Baby Tula is operated in the United States. If you are located in the European U
 
 #### OPT OUT/CORRECTIONS
 
-Upon your request, Baby Tula will remove your Personal Information from Baby Tula’s records related to this Site. This may cancel your subscription to some or all of the email communication and promotional materials offered by Baby Tula, via this Site or otherwise. If you wish to update/correct Personal Information you have already provided to us, or if you wish to remove your Personal Information from our records, please send your request to us via email at help@babytula.com or via postal mail at: Baby Tula, Customer Relations, Privacy Policy, 2640 Financial Court, San Diego, CA 92117
+Upon your request, Baby Tula will remove your Personal Information from Baby Tula’s records related to this Site. This may cancel your subscription to some or all of the email communication and promotional materials offered by Baby Tula, via this Site or otherwise. If you wish to update/correct Personal Information you have already provided to us, or if you wish to remove your Personal Information from our records, please send your request to us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or via postal mail at: Baby Tula, Customer Relations, Privacy Policy, 2640 Financial Court, San Diego, CA 92117
 
-You may choose to opt out of receiving marketing emails from us at any time by sending your request to us via email at help@babytula.com or via postal mail at the address listed above, or by using the means (such as clicking “unsubscribe”) provided in our marketing emails. Please note, however, that your opt-out will apply only to marketing emails, not email communications about your order or other non-marketing correspondence.
+You may choose to opt out of receiving marketing emails from us at any time by sending your request to us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or via postal mail at the address listed above, or by using the means (such as clicking “unsubscribe”) provided in our marketing emails. Please note, however, that your opt-out will apply only to marketing emails, not email communications about your order or other non-marketing correspondence.
 
 #### OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
 
@@ -87,4 +87,4 @@ This Privacy Policy applies only to online collection of personal information. W
 
 #### UPDATES TO THIS POLICY
 
-If we change or update this Privacy Policy, we will post changes and updates on our Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about this Privacy Policy, please contact us at: [help@babytula.com](mailto:help@babytula.com) or via postal mail at: Baby Tula, Customer Relations, Privacy Policy, 2640 Financial Court, San Diego, CA 92117.
+If we change or update this Privacy Policy, we will post changes and updates on our Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about this Privacy Policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ef878a839faf8d8e8d969b9a838ec18c8082) or via postal mail at: Baby Tula, Customer Relations, Privacy Policy, 2640 Financial Court, San Diego, CA 92117.
