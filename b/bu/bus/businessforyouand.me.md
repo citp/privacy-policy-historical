@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the businessforyouand.me privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622220905id_/http%3A//businessforyouand.me/privacy-policy-for-info-business-online) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessforyouand.me privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127163854id_/http%3A//businessforyouand.me/privacy-policy-for-info-business-online) for the most accurate reproduction.*
 
 # Privacy Policy – Business For You and Me
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [businessforyouand](https://web.archive.org/cdn-cgi/l/email-protection#472c323428292e2a22692e29212807202a262e2b6924282a).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [businessforyouand](mailto:kusonime.info@gmail.com).
 
 At http://businessforyouand.me we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://businessforyouand.me and how we use it.
 
