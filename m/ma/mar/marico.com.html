@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marico.com privacy policy that was archived on 2018-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180528122928id_/http%3A//marico.com/other/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marico.com privacy policy that was archived on 2018-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181127023427id_/http%3A//marico.com/other/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta charset="UTF-8">
@@ -58,8 +58,8 @@
                                                 <li><a class="middle-east" href="http://marico.com/middle-east">Middle East</a></li>
                                                 <li><a class="vietnam" href="http://marico.com/vn">Vietnam</a></li>
                                                 <li><a class="malaysia" href="http://marico.com/malaysia">Malaysia</a></li>
-                                                <li><a class="africa" href="http://marico.com/south-africa">South Africa</a></li>
-                              </ul>
+                                				<li><a class="africa" href="http://www.maricosa.com/">South Africa</a></li>
+				              </ul>
             </div>
           </li>
           <li class="search">
@@ -139,13 +139,13 @@
               </li>
                             <li>
                 <ul>
-                                    <li id="16"><a href="http://marico.com/vietnam/brands/lovite">L'Ovite</a></li>
-                                    <li id="17"><a href="http://marico.com/india/brands/mediker">Mediker</a></li>
-                                    <li id="18"><a href="http://marico.com/india/brands/nihar-uttam">Nihar Uttam</a></li>
-                                    <li id="19"><a href="http://marico.com/india/brands/nihar-naturals">Nihar Naturals</a></li>
-                                    <li id="20"><a href="http://marico.com/india/brands/parachute-advansed-body-lotion1">Parachute Advansed Body Lotion</a></li>
-                                    <li id="21"><a href="http://marico.com/south-africa/brands/black-chic-avocado-range">Black Chic Avocado Range</a></li>
-                                    <li id="22"><a href="http://marico.com/india/brands/set-wet">Set Wet</a></li>
+                                    <li id="16"><a href="http://marico.com/india/brands/mediker">Mediker</a></li>
+                                    <li id="17"><a href="http://marico.com/india/brands/nihar-uttam">Nihar Uttam</a></li>
+                                    <li id="18"><a href="http://marico.com/india/brands/nihar-naturals">Nihar Naturals</a></li>
+                                    <li id="19"><a href="http://marico.com/india/brands/parachute-advansed-body-lotion1">Parachute Advansed Body Lotion</a></li>
+                                    <li id="20"><a href="http://marico.com/south-africa/brands/black-chic-avocado-range">Black Chic Avocado Range</a></li>
+                                    <li id="21"><a href="http://marico.com/india/brands/set-wet">Set Wet</a></li>
+                                    <li id="22"><a href="http://marico.com/india/brands/true-roots">True Roots</a></li>
                                     <li id="23"><a href="http://marico.com/india/brands/parachute-coconut-oil">Parachute Coconut Oil</a></li>
                                   </ul>
               </li>
@@ -543,18 +543,18 @@ width: 16%;
 												  <li><a href="http://marico.com/india/brands/livon">Livon</a></li>
 												  <li><a href="http://marico.com/south-africa/brands/caivil-teen-star">Caivil Teen Star</a></li>
 												  <li><a href="http://marico.com/vietnam/brands/thuan-phat">Thuan Phat</a></li>
-												  <li><a href="http://marico.com/vietnam/brands/lovite">L'Ovite</a></li>
 												  <li><a href="http://marico.com/india/brands/mediker">Mediker</a></li>
+												  <li><a href="http://marico.com/india/brands/nihar-uttam">Nihar Uttam</a></li>
 											
 						</ul>
 					</div>
 									<div class="brandsList">
 						<ul>
-												  <li><a href="http://marico.com/india/brands/nihar-uttam">Nihar Uttam</a></li>
 												  <li><a href="http://marico.com/india/brands/nihar-naturals">Nihar Naturals</a></li>
 												  <li><a href="http://marico.com/india/brands/parachute-advansed-body-lotion1">Parachute Advansed Body Lotion</a></li>
 												  <li><a href="http://marico.com/south-africa/brands/black-chic-avocado-range">Black Chic Avocado Range</a></li>
 												  <li><a href="http://marico.com/india/brands/set-wet">Set Wet</a></li>
+												  <li><a href="http://marico.com/india/brands/true-roots">True Roots</a></li>
 												  <li><a href="http://marico.com/india/brands/parachute-coconut-oil">Parachute Coconut Oil</a></li>
 											
 						</ul>
@@ -646,6 +646,67 @@ $(function () {
             $(this).val($(this).attr("title"))
         }
     });
+});
+</script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $('#state_drop').on("change",function(){
+  	var state_name = $("#state_drop").val();	
+  		$.ajax({
+            type: 'POST',
+            url: 'get_state.php',
+            type: "POST",
+            async: false,
+            cache: false,
+            data: {
+                  state_name : state_name
+                },
+            dataType: "json",
+            beforeSend: function(){
+            },
+            success: function(result){
+              if(result.status == 'Y'){
+                $("#city_drop").empty();
+                $("#city_drop").html(result.city_data);
+              }else{
+              }
+            }
+          });
+	});
+
+  $('#city_drop').on("change",function(){
+  	var state_name = $("#state_drop").val();
+  	var city_name = $("#city_drop").val();
+  		$.ajax({
+            type: 'POST',
+            url: 'get_address.php',
+            type: "POST",
+            async: false,
+            cache: false,
+            data: {
+                  state_name : state_name,
+                  city_name : city_name
+                },
+            dataType: "json",
+            beforeSend: function(){
+            },
+            success: function(result){
+              if(result.status == 'Y'){
+              	if(result.address_data == "" ){
+              		$(".listBox").hide();
+              	}else{
+              		$("#store_data").empty();
+	                $("#store_data").html(result.address_data);
+	                $(".listBox").show();
+	                $("#city_name").text(city_name);	
+              	}
+                
+              }else{
+              	$(".listBox").hide();
+              }
+            }
+          });
+	});
 });
 </script>
 <!-- common js files ends -->
