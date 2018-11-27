@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carefreeliners.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612095616id_/http%3A//www.edgewell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carefreeliners.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127025303id_/http%3A//www.edgewell.com/privacy-policy) for the most accurate reproduction.*
 
 # Edgewell Personal Care - Privacy Policy
 
@@ -36,11 +36,11 @@ Occasionally, we may invite you to participate in a survey or poll such as provi
 
 #### Surveys
 
-While visiting certain portions of the website, you may be given the opportunity to provide feedback regarding various Energizer products. You may be given opportunities to rate Energizer products and to publicly ask and answer questions pertaining to Energizer products. In order to fully participate in these portions of the website, you will be asked to provide your full name and an email address, as well as a created online username which will be publicly linked to your product ratings, questions, answers and other comments. You will be required to agree to a set of terms and conditions which require, among other things, you to verify that you are over the age of 13. You may also be prompted to submit additional voluntary information, such as specific age range, gender, location, address, phone number, website, job title, and the length of time which you have used Energizer products. This information may be linked online to your chosen username. Energizer stores this additional information, if provided, and later uses it to help us better understand and respond to the collective feedback we receive.
+While visiting certain portions of the website, you may be given the opportunity to provide feedback regarding various Edgewell products. You may be given opportunities to rate Edgewell products and to publicly ask and answer questions pertaining to Edgewell products. In order to fully participate in these portions of the website, you will be asked to provide your full name and an email address, as well as a created online username which will be publicly linked to your product ratings, questions, answers and other comments. You will be required to agree to a set of terms and conditions which require, among other things, you to verify that you are over the age of 13. You may also be prompted to submit additional voluntary information, such as specific age range, gender, location, address, phone number, website, job title, and the length of time which you have used Edgewell products. This information may be linked online to your chosen username. Edgewell stores this additional information, if provided, and later uses it to help us better understand and respond to the collective feedback we receive.
 
 Occasionally, we may invite you to participate in a survey or poll such as providing feedback on our website site content, services, or products. Your responses will be anonymous unless you choose to provide your contact details so that we can provide you with additional information regarding the survey or poll.
 
-For any information that we collect through our sites, Energizer becomes the owner of that data.
+For any information that we collect through our sites, Edgewell becomes the owner of that data.
 
 #### Cookies and Other Web Tracking Techniques 
 
