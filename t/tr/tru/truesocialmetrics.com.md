@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truesocialmetrics.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627184435id_/https%3A//www.truesocialmetrics.com/privacy%3Fga%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truesocialmetrics.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127033917id_/https%3A//www.truesocialmetrics.com/privacy%3Fga%3Dfooter) for the most accurate reproduction.*
 
-# True Social Metrics: Análise de Mídias Sociais
+# True Social Metrics: Social media analytics
 
 ### Privacy Policy
 
