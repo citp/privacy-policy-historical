@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthygeorge.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618133944id_/http%3A//healthygeorge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthygeorge.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127084927id_/http%3A//healthygeorge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Healthy George
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#234a4d454c634c4e44505756474a4c500d404c4e)
+  * If you have any questions about this Privacy Policy, please contact us: [info@HealthyGeorge.com](mailto:info@omgstudios.com)
 
 
 
