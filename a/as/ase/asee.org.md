@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the asee.org privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527172148id_/http%3A//www.asee.org/about-us/headquarters/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asee.org privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127224913id_/http%3A//www.asee.org/about-us/headquarters/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement: American Society for Engineering Education
 
-## American Society for Engineering Education 
+American Society for Engineering Education 
 
-###  Privacy Policy
+Privacy Policy
 
   
 
@@ -28,7 +28,6 @@ ASEE recognizes your acknowledgement to this policy as an acceptance to the coll
   2. **Data Protection Contact**
 
 ASEE’ Sponsored Programs (Federal Contracts and Grants)  
-Charlene Bowman  
 Director of Sponsored Programs and Compliance  
 _aseesponsorprivacy@asee.org_
 
@@ -85,9 +84,9 @@ ASEE’s implements reasonable physical, technical, and administrative measures 
 
 Top
 
-## American Society for Engineering Education 
+American Society for Engineering Education 
 
-###  Privacy Policy
+Privacy Policy
 
   
 
@@ -111,7 +110,6 @@ ASEE recognizes your acknowledgement to this policy as an acceptance to the coll
   2. **Data Protection Contact**
 
 ASEE’ Sponsored Programs (Federal Contracts and Grants)  
-Charlene Bowman  
 Director of Sponsored Programs and Compliance  
 _aseesponsorprivacy@asee.org_
 
