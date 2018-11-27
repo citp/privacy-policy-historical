@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runnable.com privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114022346id_/http%3A//runnable.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnable.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127172822id_/http%3A//runnable.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy — Runnable
 
@@ -60,7 +60,7 @@ This policy was last modified on April 18th, 2016.
 
 ## Contacting Runnable
 
-If there are any questions regarding this privacy policy, contact us at [privacy@runnable.com](mailto:privacy@runnable.com) or at the address below: 
+If there are any questions regarding this privacy policy, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c0b0b2a9b6a1a3b980b2b5aeaea1a2aca5eea3afad) or at the address below: 
 
 **Runnable**  
 1481 Folsom Street  
