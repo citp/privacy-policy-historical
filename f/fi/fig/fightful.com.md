@@ -1,122 +1,170 @@
-> *The following text is extracted and transformed from the fightful.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523225020id_/https%3A//www.fightful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightful.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127215743id_/https%3A//www.fightful.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fightful News
 
     
 
-Shazzu, Inc. (‘Fightful’, ‘FightfulMMA, ‘FightfulWrestling’, or ‘we’ or ‘us’) has adopted a privacy policy (the ‘Privacy Policy’), which describes how we collect, use and share personally identifiable information we obtain online from and about individuals located in the United States.
+**Privacy Policy**
 
-Fightful’s, FightfulMMa’s, or FightfulWreslting’s web site ([https://www.fightful.com](https://www.fightful.com/), [http://www.fightfulmma.com](http://www.fightfulmma.com/), [http://www.fightfulwrestling.com](http://www.fightfulwrestling.com/)) and all other related web sites owned or controlled by us (collectively or individually the ‘Site’) are general audience web sites, and we do not knowingly collect personally identifiable information from children under 13 years of age.
+ ** _Effective Starting: May 25, 2018_**
 
-Our Privacy Policy applies to ‘Visitors,’ which means that you simply browse the Site, ‘Subscribers,’ which means that you have subscribed to receive one or more Fightful, FightfulMMA, and FightfulWrestling newsletter or partner emails and ‘Members,’ which means that you have registered with fightful.com. The term ‘User’ refers to a Visitor, Subscriber or a Member. By using our Site, you signify your agreement with all the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use our Site.
+ **What This Policy Covers**
 
-From time to time Fightful, FightfulMMA, and FightfulWrestling may revise this Privacy Policy to reflect industry initiatives or changes in the law, our personally identifiable information collection and use practices, the features of our Site or technology. If we make revisions that change the way we collect or use your personally identifiable information, Fightful, FightfulMMA, and FightfulWrestling will post those changes in this Privacy Policy and the effective date will be noted at the beginning of such Privacy Policy. Your continued use of the Site after Fightful, FightfulMMA, or FightfulWrestling posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If Fightful, FightfulMMA, or FightfulWrestling materially changes its practices regarding collection or use of your personally identifiable information, your personally identifiable information will continue to be governed by the Privacy Policy under which it was collected unless you have been provided notice of, and have not objected to, the change. In the event the last e-mail address you provided to us is not valid or is not capable of delivering the notice to you, Fightful, FightfulMMA, and FightfulWrestling’s dispatch of an e-mail containing the notice to that e-mail address shall nonetheless constitute effective notice.
+This updated Privacy Policy reflects Fightful’s commitments and obligations under the EU’s new General Data Protection Regulation (GDPR).
 
-A. COLLECTION: Collection of personally identifiable information by Fightful, FightfulMMA, and FightfulWrestling.
+Your privacy is important to us, so the goal of this policy is to be transparent about what information Fightful collects, uses, and shares.
 
-1\. General. When Fightful, FightfulMMA, and FightfulWrestling collects personally identifiable information, such as your full name, email address and birth date, from you it is because you are voluntarily submitting personally identifiable information to us in order to register as a Member or a Subscriber, or in order to participate in activities like creating a personal profile (‘Your Profile’), sweepstakes, contests, games, surveys, forums, in connection with content or suggestions you submit to us, or because you want us to furnish you with products, services or information. We may also obtain personally identifiable information from reputable third parties.
+This policy explains your rights with regards to that information. It also explains how to access and update your information, and how you can object to its use.
 
-You may also choose to voluntarily provide or store non-personally identifiable information in Your Profile (as described in Section A.1(a) below) or provide or store non-personally identifiable information on other public forums provided on our Site, including but not limited to, text, files, images, photos, video, sounds, musical works, works of authorship, private messages, chats or any other materials (collectively ‘Content’) that you choose to post to the Site (Content posted by any User is ‘User Content’). If you choose to make Your Profile or any information from Your Profile public or provide any User Content on other public forums provided on our Site, you do so at your sole discretion and risk.
+When we refer to “Fightful”, “we”, or “us”, we mean the Fightful entity (owned by Shazzu Inc.) that acts as the controller or processor of your information.
 
-Members can change their Registration Data (as defined below in Section A(1)a) and Your Profile information at any time and can control how Visitors, other Members and Fightful communicate with them by controlling their account settings, available within the ‘Edit Profile’ portion of Your Profile.
+ **This Policy Covers:**
 
-Fightful, FightfulMMA, and FightfulWrestling collect information from you at several different points on the Site in the manner set forth below:
+  1. What information we collect and how we use it
+  2. How we share information
+  3. How we store, secure, and transfer information
+  4. Your data rights and choices
+  5. Advertising
+  6. List of data sub-processors
+  7. Other
+  8. Contacting Fightful
 
-(a). Member Registration and Profile: In order to access certain information and services on the Site, you must first become a Member by completing our member registration form. During the registration process you will be required to provide registration data, which may include personally identifiable information such as your name and e-mail address (such information is the ‘Registration Data’). The Registration Data will automatically become incorporated into ‘Your Profile; however, in the Your Profile section of the Site, you have the option to make such Registration Data (including, but not limited to, your personally identifiable information) public or private. You also have the option of adding certain User Content to Your Profile.
 
-Important Information about Changing and Updating Your Profile
 
-If Your Profile information changes you may correct, update or remove it. You can edit Your Profile information by going to the Your Profile page re-entering data and clicking the ‘Save Changes’ button.
+When we make changes to our Privacy Policy, we will revise the date at the top of this page.
 
-(b). Newsletters and Special Offers: Fightful, FightfulMMA, and FightfulWrestling deliver interesting, stimulating and uplifting newsletters to its Subscribers on a variety of topics. In order to subscribe to our newsletters, you will be required to give your e-mail address and zip code. If you would like to change the e-mail address to which your Fightful, FightfulMMA, and FightfulWrestling newsletters are delivered, please visit our Contact Us page.
+ **What information we collect and how we use it**
 
-Unless a User has opted out of receiving such e-mails during the registration process, Fightful, FightfulMMA, and FightfulWrestling may occasionally send Users who provide us with their e-mail addresses information about special offers, Site updates, contests and other offerings via e-mail. We may also send information about products and offerings of our partners that we think may be of interest to our Members and Subscribers. To opt out of receiving these e-mails from us please visit our Contact Us page.
+Fightful collects the following information about you when you provide it to us and use our services:
 
-Important Information about Making Changes to or Unsubscribing to Our Newsletters
+ **Account and Profile Information**
 
-If you would like to unsubscribe from our newsletter, you may do so in any of the following ways:
+When you sign up, create a profile, set your preferences, or pay for your subscription, Fightful collects your name, username, password, email, and any profile pictures or avatars you choose to upload.
 
-(a) Managing Your Subscriptions: You may make changes to your Fightful newsletter subscriptions at any time by clicking ‘Unsubscribe’ at the bottom of our newsletter.
+We use this information to correctly identify you, communicate with you, and provide you with customer support. We also use this contact information for accounting and administrative purposes, for transactional emails and to notify you about new features, releases and blog posts.
 
-(b). Surveys, Contests and Quizzes: You may have the opportunity to participate in a number of surveys on our Site. We will use survey responses to guide us as we make improvements and enhancements to our Site. We also offer Users the ability to take personal assessment and other types of quizzes. We encourage you to complete surveys, personal assessments and quizzes so that we can provide you with a more personalized experience on our Site, such as featuring content and advertising that we believe are consistent with your interests. We will not use your responses for any other purpose without your prior consent.
+ **Device Information and Log Data**
 
-On our Site you may also have the opportunity to participate in contests and other promotions that may require you to provide information about yourself. We will not share your contest information with any third party, except in aggregate form. In addition, if and when we sponsor contests or other promotions, or third parties sponsor such promotions with us; either we or the third party will post relevant privacy information in the official rules and/or registration area for the sweepstakes or promotion. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular contest—please remember to read it carefully.
+We collect information about the type of device you use to access Fightful, as well as your device settings, operating system, browser information, connection type, IP address, and the URLs of referring pages. Additionally, we log the date and time you access our services, as well as any error or crash data.
 
-(c). Message Board, Discussion Rooms and Social Networking: in the event Fightful, FightfulMMA, and FightfulWrestling provide message boards, discussion rooms and other public forums on the Site for exchanging information related to spirituality and social networking. Please note that information, User Content or any other materials that you post on our Site, including any information from Your Profile that you choose to make public, will be available for any User of that service to read, and is therefore no longer private and may be disclosed without limitations as to its use by a third party. If you post information, materials or User Content on our Site or other public forum you provide information that can be collected and used by others that you do not know for their own purposes, including the distribution of unsolicited communications. Fightful, FightfulMMA, and FightfulWrestling reserve the right to reproduce or publish any materials posted on our Site in any other formats.
+We use device and location information to help us optimize your Shazzu display and performance, understand user demographics, and improve overall user experience. Your log data helps us troubleshoot errors, analyze performance, resolve reliability issues, perform security audits, and investigate potential service fraud or abuse.
 
-(d). Email This Page: If you elect to use the ‘Email This Page’ referral service, we will ask for your friend’s name(s) and e-mail address(es). Fightful, FightfulMMA, and FightfulWrestling will automatically send a one-time e-mail inviting your friend(s) to visit our Site. We will use this information for the sole purpose of sending this one-time e-mail.
+ **Service Metadata**
 
-2\. Cookies. Cookies are small bits of information that the Site place on the hard drive of your computer. Cookies remember information about your activities on our Site and enable Fightful, FightfulMMA, and FightfulWrestling to make your visits to our Site more enjoyable. For example, cookies can store your password for easy log on to a Site you have previously visited, can save your preferences for a personalized home page. Information about your activities on our Site and other non-personally identifiable information about you may also be used to limit the online ads you encounter to those we believe are consistent with your interests.
+This data is generated automatically, when you visit Fightful. It provides us with information about how you browse our website and use our app. That includes the links you click, the search terms you use, and the features you access.
 
-Third party advertisements displayed on our Site may also contain cookies set by Internet advertising companies or advertisers. Fightful, FightfulMMA, and FightfulWrestling do not control these cookies and visitors to our Site should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. Please refer to Section B (Notice) below for more information on third party advertisements.
+We use this metadata to help us understand how our users work, and what they find most valuable at Fightful. We also use this information to measure the efficiency of our product, enhance our services and guide our future development.
 
-Fightful, FightfulMMA, and FightfulWrestling may use cookies and similar tools to relate your use of our Site to personally identifiable information obtained from you or a reputable third party. For example, if you have asked us to provide you information about our upcoming products, promotions and events, cookie and/or click stream data about your activities on our Site may allow us to limit the materials we provide you to items we think you will find interesting, based on your prior online activities and preferences. However, if Fightful, FightfulMMA, or FightfulWrestling wishes to combine your personal and cookie or click stream information in this manner, we will obtain your express affirmative consent.
+ **Support Information**
 
-You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely. However, without cookies you may not have access to certain features on our Site, or contests.
+When you reach out to Fightful, you may contact our team through the service of a third-party support platform. The information you provide to our team, including any troubleshooting documentation or screen shots, are saved as part of your support history.
 
-Fightful, FightfulMMA, and FightfulWrestling also use web beacons (also known as action tags or single pixel gifs) to access Fightful, FightfulMMA, and FightfulWrestling cookies and in connection with the services we offer through our Site. A web beacon is a transparent image placed on a web page that sends a signal when a person visits that page. This enables us to assess the popularity and effectiveness of the materials on our Site. We may also use web beacons in connection with newsletter and other e-mails we send to our Users, to let us know whether and when the e-mail was opened. No personally identifiable information is transmitted through web beacons. We also collect IP (Internet Protocol) addresses to analyze trends, administer our Site, track a user’s movement, and gather broad demographic information for aggregate use.
+We use this information to resolve any issues you are having, relay feedback to our team, respond to your comments and requests, and confirm your purchases and refunds. We also use this data to provide you with security alerts and technical notices.
 
-B. NOTICE: Fightful, FightfulMMA, and FightfulWrestling will provide you with notice about its personally identifiable information collection practices.
+ **Cookie Information**
 
-When you voluntarily provide personally identifiable information to Fightful, FightfulMMA, and FightfulWrestling, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses Fightful, FightfulMMA, or FightfulWrestling will make of the information.
+Fightful and our third-party advertising and analytics partners use cookies and similar technologies for tracking across different devices, websites and online services.
 
-At the time you provide your personally identifiable information, Fightful, FightfulMMA, or FightfulWrestling will notify you of your options regarding our use of your personally identifiable information, including whether we will share it with outside companies (See Section C (Choice) below). This Privacy Policy describes the types of other companies that may want to send you information about their products and services and therefore may want to share your personally identifiable information, provided you have given Fightful, FightfulMMA, and FightfulWrestling permission to do so (See Section D (Use: Fightful, FightfulMMA, or FightfulWrestling’s Use of Personally Identifiable Information) below).
+We use this information both for secure authentication and for the maintenance of your active sessions. Our third-party partners use cookies for the purposes of marketing, ad targeting, and performance analytics.
 
-Fightful, FightfulMMA, and FightfulWrestling’s Site may be linked to Internet web sites operated by other companies. Some of these third party web sites may be co-branded with a Fightful, FightfulMMA, or FightfulWrestling logo, even though they are not operated or maintained by Fightful, FightfulMMA, or FightfulWrestling. Fightful, FightfulMMA, and FightfulWrestling’s Site also carries advertisements from other companies. Fightful, FightfulMMA, and FightfulWrestling are not responsible for the privacy practices of web sites operated by third parties that are linked to our Site or for the privacy practices of third party or national Internet advertising companies. Once you leave a Fightful, FightfulMMA, or FightfulWrestling Site via such a link or by clicking on an advertisement, Fightful, FightfulMMA, and FightfulWrestling’s Privacy Policy no longer applies and you should check the applicable privacy policy of the third party or advertiser web site to determine how they will handle any personally identifiable information they collect from you.
+ **Integrations and Linked Services**
 
-Fightful, FightfulMMA, and FightfulWrestling’s Site may also be linked to web sites operated by companies affiliated with Fightful, FightfulMMA, or FightfulWrestling (i.e., that are an entity of Fightful, Inc.). Visitors to those affiliated web sites should refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy.
+Whenever you or your account owner links to a third-party services, Fightful is authorized to connect and transfer information as specified by our agreement with that linked service.
 
-C. CHOICE: Fightful, FightfulMMA, and FightfulWrestling will provide you with choices about the use of your personally identifiable information.
+We use this information to authenticate, connect, or link your third-party accounts to Fightful. However, we do not receive or store passwords for any of these third-party services.
 
-Fightful, FightfulMMA, or FightfulWrestling will not use the personally identifiable information you provide to us for purposes different from the purpose for which it was submitted, or share your personally identifiable information with third parties that are not affiliated with Fightful, FightfulMMA, or FightfulWrestling, unless we obtain your permission.
+To understand what data may be shared with Fightful when you enable these integrations, please check the settings, permissions and privacy policies of these third-party services.
 
-D. USE: Fightful, FightfulMMA, and FightfulWrestling’s use of personally identifiable information.
+ **How we share information**
 
-We adhere to a strict anti-spam policy.
+ **We Do Not Sell Your Information**
 
-At Fightful, FightfulMMA, and FightfulWrestling we are 100% committed to protecting your privacy. We won’t reveal or sell your email address to third parties. We won’t send you emails if you don’t want to receive them, either.
+We will never sell information about you, your profile, nor your data and metadata, to advertising companies or other third parties.
 
-When you first sign-up, we send out an email welcoming you and confirming your login name and password. Unless you choose to unsubscribe — which you can do from within that email — you will also receive an occasional Special News email from Fightful, FightfulMMA, or FightfulWrestling. This is our way of notifying you about free readings, special gift offers, new reports or feature updates. You can easily unsubscribe from these at any time and still be able to receive horoscopes by email if you like.
+ **Other Fightful Users**
 
-You can rest assured that Fightful, FightfulMMA, or FightfulWrestling will never share email addresses with anyone else. If you decide at any time that you want to stop receiving our member-benefits emails, you can opt-out by clicking on the Unsubscribe link at the end of every email or by visiting the “About You” area of the website.
+ **Community and Forums**
 
-Fightful, FightfulMMA, and FightfulWrestling will use your personally identifiable information provided under this Privacy Policy in a manner that is consistent with this Privacy Policy. If Fightful, FightfulMMA, or FightfulWrestling obtains personally identifiable information from a third party, such as a business partner, our use of that information is governed by this Privacy Policy.
+Fightful offers publicly accessible blogs and community forums. Any comments you contribute to these platforms may be read, collected or used by any member of the public who chooses to access them. Your information may remain posted on these sites, even if your account is deleted at your request.
 
-Fightful, FightfulMMA, or FightfulWrestling may share your personally identifiable information with companies that are affiliated with us. Provided you have given us permission, Fightful, FightfulMMA, and FightfulWrestling may also share your personally identifiable information with advertisers and business partners that are not affiliated with Fightful, FightfulMMA, or FightfulWrestling, but would like to send you information about their products and services. For example, Fightful, FightfulMMA, and FightfulWrestling may share your personally identifiable information with the companies who supply prizes for Fightful, FightfulMMA, or FightfulWrestling’s contests and may have special offers or promotions that might be of interest to Fightful, FightfulMMA, or FightfulWrestling users. However, you will always have the opportunity to instruct us not to share your information with third parties when personally identifiable information is collected. Moreover, we will never share your credit card information with third parties except those Fightful, FightfulMMA, and FightfulWrestling uses to perform tasks (such as order fulfillment and payment processing) required to complete purchases you make through Fightful, FightfulMMA, or FightfulWrestling Sites.
+ **Legal Compliance and Fraud Prevention**
 
-Fightful, FightfulMMA, and FightfulWrestling employees, agents, and contractors must have a legitimate business reason to obtain access to your personally identifiable information. Fightful, FightfulMMA, and FightfulWrestling may share your personally identifiable information with outside contractors or agents who help us manage our information activities (i.e., sweepstakes administration, order fulfillment, statistical analyses) but they may only use your personally identifiable information to provide Fightful, FightfulMMA, and FightfulWrestling with a specific service and not for any other purpose.
+In exceptional circumstances, we may disclose information about you to a third party if we receive a request and believe that the disclosure is in accordance with or required by any applicable law, rule or regulation, legal process, or enforceable governmental request. We may also do so to enforce our Terms of Service, investigate potential violations, prevent and detect fraud, track and solve security or technical issues, and protect against any harm to the rights, property or safety of Fightful, its users, or the public as required or permitted by law.
 
-Fightful, FightfulMMA, and FightfulWrestling may also enter into agreements with outside companies that possess the technology that allows Fightful, FightfulMMA, and FightfulWrestling to customize the advertising and marketing messages you receive on our Site. Your non-personally identifiable information and click stream data about your activities on our Site may be shared with these companies so this customization may be accomplished. These companies will not share your information with any third party or use it for any other purpose. Anonymous click stream and demographic information may also be shared with Fightful, FightfulMMA, and FightfulWrestling advertisers and business partners.
+ **Changes in Business**
 
-There may be instances when Fightful, FightfulMMA, and FightfulWrestling may disclose personally identifiable information without providing you with a choice in order to protect the legal rights of Fightful, FightfulMMA, and FightfulWrestling, other entities of Fightful, Inc. or their employees, agents and contractors; to protect the safety and security of visitors to our Site; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if Fightful, FightfulMMA, or FightfulWrestling sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, Fightful, FightfulMMA, and FightfulWrestling may transfer your personally identifiable information to a third party as part of that transaction.
+If Fightful engages in a merger, acquisition, reorganization, bankruptcy, dissolution, sale of company assets, financing, public offering of securities, or due diligence and other steps in contemplation and negotiation of such activities, we may share or transfer information that we collect under this privacy policy, subject to standard confidentiality agreements.
 
-E. SECURITY: Fightful, FightfulMMA, and FightfulWrestling protects the security of personally identifiable information.
+ **How we store, secure, and transfer information**
 
-Fightful, FightfulMMA, and FightfulWrestling uses reasonable administrative, technical, personnel and physical measures to safeguard personally identifiable information in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, Fightful, FightfulMMA, and FightfulWrestling use reasonable methods to make sure that personally identifiable information is accurate, up-to-date and appropriately complete. However, no security system is impenetrable. Fightful, FightfulMMA, and FightfulWrestling cannot warrant or guarantee the security of its servers, nor can it guarantee that information that you supply will not be intercepted while being transmitted to Fightful, FightfulMMA, or FightfulWrestling over the Internet.
+ **Data Security**
 
-F. ACCESS: How to access, correct, or delete your personally identifiable information.
+Fightful takes data security very seriously and implements the industry’s best practices and policies. We take all reasonable measures to protect your information, and to prevent any kind of unauthorized access, misuse, loss, or disclosure.
 
-Whenever possible, Members and Subscribers may review the personally identifiable information we maintain about them in our records. We will take reasonable steps to correct any personally identifiable information a Member or Subscriber informs us of in writing is incorrect. If you are a Member, you can view, change and remove your personally identifiable information, Member preferences and Your Profile information by logging into your account and accessing your ‘Profile.’ Section A(1)(b) above describes how to change your subscriptions preferences.
+While no system is infallible, we strive to keep our systems secure and constantly updated.
 
-If for any reason you want Fightful, FightfulMMA, or FightfulWrestling to stop using your personally identifiable information, Fightful, FightfulMMA, and FightfulWrestling will honor that request; however, Fightful, FightfulMMA, and FightfulWrestling will retain any record of your personally identifiable information that is necessary to comply with applicable federal, state or local law. Keep in mind, moreover, that there will be residual information that will remain within Fightful, FightfulMMA, and FightfulWrestling’s databases, access logs, and other records, which may or may not contain such personally identifiable information. Even after removal of personally identifiable information and User Content by you or Fightful, FightfulMMA, or FightfulWrestling, personally identifiable information and User Content may still be viewable in cached and archived pages or if another User has stored your User Content.
+ **Data Retention**
 
-If you would like to communicate with us about this Privacy Policy or Fightful, FightfulMMA, or FightfulWrestling’s collection or use of your personally identifiable information, or request Fightful, FightfulMMA, or FightfulWrestling delete your personally identifiable information, please contact Fightful at:
+Fightful stores your information for as long as your account is active, and for a reasonable period thereafter, in case you decide to use our services again. Fightful may also retain certain information for as long as necessary in order to support business operations, or as required by law.
 
-Via E-mail:  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f7919e909f8391829bb7849f968d8d82d994989a)(link sends e-mail)
+ **International Data Transfers**
 
-Via Mail:  
+Fightful collects information internationally, and uses hosting and cloud computing infrastructure located primarily in the United States to transfer, process and store information. In order to provide you with our service, we may also transfer your data to third-party services. Please refer to the _List of data sub-processors_ for more information about why we use those third-party services, and where they are located.
+
+ **Your data rights and choices**
+
+The following is a summary of choices you can make to exercise your data rights:
+
+ **Opt Out of Promotional Communications**
+
+You have the right to opt out of receiving any promotional communication. To unsubscribe from our newsletter, or other promotional emails, use the link at the bottom of the message. You can also contact us directly to have your information removed from our promotional contact list. Please note that, even if you unsubscribe, you will continue to receive non-promotional, transactional messages regarding your account and other essential services.
+
+ **Access and Update Personal Information**
+
+You have the right to access and edit your profile at any time. You also have the right to rectification in case your personal data is incomplete or inaccurate. To update your information, log in to your account and use the editing tools in your Fightful Dashboard. If you require assistance, please contact our Support team.
+
+ **Right to be Forgotten**
+
+You have the _right to be forgotten_ which means that, at any time, you can request that Fightful permanently delete all applicable data records, including your profile information, along with any user-created content. In some cases, we may need to retain partial information to fulfil our legal responsibilities.
+
+ **Data Portability**
+
+You have the right, at any time, to request and receive the information that you have provided to Fightful. We will provide you with your information, in a machine-readable format, so that you can make use of it in other contexts, or with other service providers.
+
+ **Access Under 16 Years of Age**
+
+Shazzu services are not directed at children. Furthermore, we do not knowingly collect personal information from individuals under 16 years of age, unless consent is given or authorised by the holder of parental responsibility over the child. If we become aware that someone under 16 has provided us with personal details, we will take steps to delete such information. If you become aware that a child has unlawfully or unwittingly provided us with personal data, please contact our Support team.
+
+ **Request That We Stop Using Your Information**
+
+Even if you have previously consented to our Terms of Service and Privacy Policy, you have the right, at any time, to change your mind and object to the collection, use, and processing of your personal information. Additionally, you are under no contractual obligation to continue to provide any information to Fightful. However, we require certain information in order to provide you with our services. Therefore, if you disagree with the terms of this Privacy Policy or our Terms of Service, you should stop using Fightful, and contact us so that we may delete your information.
+
+ **Advertising**
+
+  *  _Generally_. We use other companies under agreements with us to serve third-party advertisements when you visit and use the Services. These companies collect and use click stream information, browser type, time and date, subject of advertisements clicked or scrolled over during your visits to the Services and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use tracking technologies to collect this information. Other companies' use of their tracking technologies is subject to their own privacy policies, not this one.
+  *  _Targeted Advertising_. In order to serve offers and advertisements that may be of interest to our users, we display targeted advertisements on the Services, or other digital properties or applications in conjunction with our content, based on information provided to us by our users and information provided to us by third parties that they have independently collected. We do not provide Personal Data to our advertisers when you interact with an advertisement.
+  *  _Opt-Out Links_. You have the right to opt-out of any or all of our analytics: For Adsense: [youronlinechoices.com/uk/your-ad-choices](http://www.youronlinechoices.com/uk/your-ad-choices) Google Anayltics: [tools.google.com/dlpage/gaoptout?hl=en-GB](http://tools.google.com/dlpage/gaoptout?hl=en-GB) Clicky: [clicky.com/optout](https://clicky.com/optout) For a copy of Clicky’s Privacy Policy please go here: [clicky.com/terms/privacy](https://clicky.com/terms/privacy)
+
+
+
+ **List of data sub-processors**
+
+ **Entity Name**|  **Data Processing Purpose**|  **Location**|  **Website**  
+---|---|---|---  
+Google, Inc.| Analytics| USA| [https://www.google.com](https://www.google.com/)  
+Clicky| Analytics| USA| [https://clicky.com](https://clicky.com/)  
+AdSense| Analytics| USA| <https://www.google.com/adsense>  
+  
+ **Other**
+
+Fightful may modify this Agreement from time to time and such modification shall be effective upon posting by Fightful on the Site. You agree to be bound to any changes to this Agreement when you use the Site Services after any such modification is posted. It is therefore important that you review this Agreement regularly to ensure you are updated as to any changes.
+
+Fightful, reserves the right, in its sole discretion, to reject, refuse to post or remove any posting (including private messages) by you, or to restrict, suspend, or terminate your access to all or any part of the Site Services at any time, for any or no reason, with or without prior notice, and without liability. Fightful, expressly reserves the right to remove your profile and/or restrict, suspend, or terminate your access to any part of Site Services if Fightful, determines, in its sole discretion, that you pose a threat to Fightful and/or its Users.
+
+ **Contacting Fightful**
+
+If you have any questions about Shazzu Privacy Policy, or want to make a request with regard to your information, please contact our Data Protection Officer at [gdpr@shazzu.com](mailto:dpo@moqups.com).
+
 Shazzu Inc.  
-6303 Blue Lagoon Drive Suite 400
-
-Miami, Florida 33126
-
-G. REMEDIES AND COMPLIANCE: How to contact Fightful, FightfulMMA, or FightfulWrestling about privacy concerns.
-
-If you have concerns regarding privacy, your use of the Fightful, FightfulMMA, or FightfulWrestling Site, or the collection and use of personally identifiable information, you may contact the following Fightful, FightfulMMA, and FightfulWrestling representative:
-
-Shazzu, Inc.  
-6303 Blue Lagoon Drive Suite 400
-
-Miami, Florida 33126  
-e-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#096f606e617d6f7c65497a616873737c276a6664)
+6303 Blue Lagoon Drive, Suite 400  
+Miami, Florida, 33126
