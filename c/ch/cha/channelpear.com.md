@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelpear.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526211803id_/https%3A//channelpear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelpear.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127180200id_/https%3A//channelpear.com/privacy) for the most accurate reproduction.*
 
 # channel PEAR - Privacy Policy
 
@@ -75,7 +75,7 @@ If you have any questions about our privacy practices, please feel free to conta
 ATTN: Channel PEAR Jidly, LLC  
 1521 CONCORD PIKE STE 301  
 WILMINGTON, DE 19803  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+info@channelpear.com
 
 ##### Choice/Opt-Out
 
@@ -83,7 +83,7 @@ You may use the following options for removing your information from our e-mail 
 
 ##### Updating Your Information
 
-channel PEAR provides users with the following options for changing and modifying information previously submitted: • Send us an e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will be happy to assist you. • For any services where you have an account page, you may change your billing information (if applicable), e-mail address, password and other information from the account settings or preferences page.
+channel PEAR provides users with the following options for changing and modifying information previously submitted: • Send us an e-mail at info@channelpear.com and we will be happy to assist you. • For any services where you have an account page, you may change your billing information (if applicable), e-mail address, password and other information from the account settings or preferences page.
 
 ##### Acceptance of Privacy Policy
 
