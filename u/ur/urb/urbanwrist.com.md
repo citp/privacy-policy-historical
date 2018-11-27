@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanwrist.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123180232id_/http%3A//www.urbanwrist.com/uw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanwrist.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127142552id_/http%3A//www.urbanwrist.com/uw/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Urban Wrist
 
