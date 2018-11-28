@@ -1,88 +1,178 @@
-> *The following text is extracted and transformed from the delmarva.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226071451id_/http%3A//www.delmarva.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delmarva.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128220757id_/http%3A//www.exeloncorp.com/privacy-policy) for the most accurate reproduction.*
 
-# Delmarva Power - Privacy Policy
+# Exelon
 
-### Table of Contents
+Exelon Corporation (“Exelon”), its subsidiaries, including Atlantic City Electric Company
 
-  * Our Commitment To Privacy
-  * The Information We Collect
-  * The Way We Use Information
-  * Our Commitment To Data Security
-  * About Cookies
-  * How To Contact Us
-  * Modification
+(“ACE”), Baltimore Gas and Electric Company (“BGE”), BGE Home Products & Services, LLC
 
+(“BGE Home”), Commonwealth Edison Company (“ComEd”), Constellation NewEnergy, Inc.
 
+(“Constellation”), Delmarva Power & Light Company (“DPL”), Exelon Generation Company,
 
-Pepco Holdings, Inc. is firmly committed to ensuring online user privacy. We provide this notice to explain our online information-gathering practices and the choices you can make about the way information about you is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. This privacy policy applies to Pepco Holdings Inc., its affiliates and subsidiaries including but not limited to Potomac Electric Power Company, Delmarva Power & Light Company, and Atlantic City Electric Company (hereinafter "PHI"). 
+LLC (“ExGen”), PECO Energy Company (“PECO”), Potomac Electric Power Company
 
-### Please read the following PHI Privacy Notice: 
+(“Pepco”), and their respective subsidiaries (hereinafter referred to collectively as “Exelon
 
-### Our Commitment to Privacy
+companies,” “us,” “we,” or “our”), are strongly committed to protecting the privacy of you,
 
-Because protecting the privacy of site visitors, including our customers, shareholders, employees, and potential employees, is important to us, PHI does not sell, trade, rent, give or distribute information about you or your account to any third party, without your permission. 
+our customers and the users of our websites and mobile applications (each, our “Site”) as
 
-### The Information We Collect
+well as our products and services (“Services”). In light of this commitment, we adhere to
 
-This notice applies to all information collected or submitted on pepcoholdings.com; pepco.com; delmarva.com; and atlanticcityelectric.com. PHI does not collect personally identifiable information about you unless you voluntarily provide it. At any time, before you submit, you may opt-out of providing such information by closing the PHI Web site. 
+the practices provided below. 
 
-Examples of personally identifiable information which you may provide to us while using our site include: 
+​​​​
 
-  * E-mail address
-  * Name
-  * Phone number
-  * Account number (if you are a current customer)
-  * Information about your computer and browser
-  * E-billing information that is linked to you via your password, if you use those services.
+#### Last updated: August 18, 2017
 
+Please read this Privacy Policy carefully. By using our Site, you agree to our collection, use, and sharing of your personally identifiable information as described in this Privacy Policy.
 
+From time to time, we may change this Privacy Policy and will make reasonable efforts to publish such changes. Any changes will be immediately effective upon the posting of the updated Privacy Policy. Your continued use of our Site represents your consent to the terms of the new Privacy Policy. Please regularly check this Privacy Policy for any such updates.
 
-In general, when you visit pepcoholdings.com, pepco.com; delmarva.com; and atlanticcityelectric.com to read or download information such as our brochures, we collect and store only the following generic information about your visit:
+Collecting and using personal information
 
-  * the name of the domain from which you access the Internet (for example, aol.com if you are connecting from an America Online account)
-  * the date and time of access to our website
-  * the path taken through our website
-  * the Internet address of the website which linked directly to our site
+Through your use of our Site and Services we may collect Personal Information (“PI”), which is information that identifies you as an individual or relates to you as an identifiable individual. PI may include, but is not limited to, your first and last name, home or business address, email address, and telephone number. We may also combine the PI that we collect on our Site with information we collect about you offline.
 
+We collect the following types of information:
 
+ **PI and Personally Identifiable Information (“PII”) Provided by You**
 
-This data does not include any personal information or details.
+We collect PI from you when you use our Site and Services. While we do not require you to provide PI in order to navigate our Site, we must collect certain PI and PII if you choose to use our Services. PII includes information where your name is combined with your Social Security number, driver’s license number, state identification card number, bank account number, credit card or debit card number, or unique biometric data. We may also collect PI and PII when you create or modify an online account, complete any self-service transaction with us online, or otherwise provide us with PI and PII in any correspondence. This may include any of your questions, comments, or suggestions submitted through our Site or if you fill out a survey. 
 
-### The Way We Use Information
+When you voluntarily provide us with a cell phone number on our Site, you are giving us express written consent to use that number for the purpose indicated, or if given with regard to your utility account or other account with us, express written consent to communicate information to you that is closely related to such account, so long as you have not given us instructions to the contrary. You may revoke this consent at any time by any reasonable method. Your consent to be contacted by us is not required in order to receive our Services.
 
-We use the personally identifiable information you provide to:
+ **Device and Usage Information**
 
-  * Fulfill your request
-  * Help you quickly find and/or receive information about PHI
-  * Alert you to updated information and services
-  * Provide more complete service
-  * Improve the content of our Web site
-  * Answer your questions
+We may automatically collect the following types of information as you use our Site:
+
+  * **Usage Information:**  We collect certain information automatically through your use of our Site, such as which pages on our Site you access, the frequency of access, purchases or other transactions made on our Site, and what you click on while on our Site. 
+  * **Location Information:  **We may collect information about your actual location that may be determined from GPS and other sensors that may reveal information on nearby devices, Wi-Fi access points, and cell towers.
+  * **Device Information:**  We may collect information about the device you are using, such as hardware model, operating system, application version number, browser, and IP addresses.
+  * **Mobile Device Information:**  In addition to the Device Information listed above, when you access our Site via a browser on your mobile device or through the use of one of our mobile applications, we may also collect mobile network information including telephone number, the unique device identifier assigned to that device, mobile carrier, operating system, and other device attributes. We may also access functions on your mobile device for the operation of our mobile application, which can include: telephone, camera, browser, social media apps, fingerprinting, or GPS.
 
 
 
-We do not share this information with outside parties without your permission. 
+**Cookies and Other Tracking Technologies**
 
-We use non-identifying and aggregate information about site visitors to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors. 
+“Cookies” are small text files that are stored within your computer’s or mobile device’s memory by a website through your browser. Cookies enable a website such as ours to keep track of your activities on that website, and to improve your use of the website, such as by keeping track of your preferences.
 
-We use return email addresses to answer the email we receive. Such addresses are not shared with outside parties without your permission. 
+You can change your browser settings on your personal computer or mobile device so that cookies are not stored. If you reject cookies, you may still use our Site, but you may not have access to some of our Site’s functions and your ability to use some areas of our Site may be limited. 
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+We may also use other website or mobile tracking technologies to identify you and keep track of your preferences, prevent fraudulent activity or improve Site security, assess the performance of our Site, and deliver content to you based on your interests on our Site and third-party websites.
 
-### Our Commitment to Data Security
+ **Aggregate Information**
 
-While no security system is absolutely safe, PHI takes reasonable precautions to protect your personally identifiable information from loss, misuse, alteration and destruction. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. In some areas of our Web site, we require a user ID and password for you to access certain information. PHI will not disclose passwords to third parties. However, you are responsible for maintaining the privacy and security of your password. 
+Statistical or aggregated information does not directly identify you or any specific person, but it may be derived from your PI. For example, we may aggregate PI to calculate the percentage of users in a particular ZIP code.
 
-### About Cookies
+  
 
-A cookie is a piece of data stored on your hard drive or in your computer's memory containing information about your visit. This makes it more convenient for users by allowing them to visit pages within a site without having to input personal information every time they click a link within the website. On pepcoholdings.com; pepco.com; delmarva.com; and atlanticcityelectric.com, cookies are not used to invade the privacy of Internet users. 
 
-When you link to other sites from pepcoholdings.com; pepco.com; delmarva.com; and atlanticcityelectric.com, our privacy policy no longer applies. Since those websites may use cookies, you should review the other sites' privacy policy. 
+Third-Party Data Collection
 
-### How to Contact Us
+Some content or applications accessible through our Site may be provided by third parties, including analytics companies, payment processors, and advertising providers. Our Site also includes social media features, such as the Facebook “Like” button and other widgets, such as the “Share” button or interactive mini-programs provided by third parties. These third parties may use cookies or other tracking technologies to collect information about you when you use our Site. The information they collect may be associated with your PI or they may collect information, including PI, about your online activities over time and across different websites and other online services.
 
-Should you have other questions or concerns about this privacy policy, please call us at 1-800-375-7117 or [click here](http://www.delmarva.com/contact/online/default.aspx) to contact us online. 
+We do not control the third-parties’ tracking technologies that are accessible through our Site or how they may be used. If you have any questions about an advertisement or other targeted content, you should read any privacy policy provided by the third-party website or contact the responsible provider directly. Some of these third parties may provide you with ways to choose not to have your information collected or used for targeted advertising. For example, some of these third parties may be members of the Network Advertising Initiative (“NAI”) or the Digital Advertising Alliance (“DAA”), which provide a single location where you can opt out of certain types of data collection or opt out of receiving targeted ads from member companies. To opt out, please visit the NAI’s website at <http://www.networkadvertising.org/managing/opt_out.asp> or [www.aboutads.info](file:///pepcoholdings.biz/corpdata/Services/GeneralCounsel/0882_legal/LEGAL/CDC/Contracts%20-%20Commercial%20Law/Miscellaneous%20Matters/Customer%20Communications/www.aboutads.info) to exercise choice with respect to participants of the DAA. 
 
-### Modification
+One third-party service we use is Google Analytics, which is a service provided by Google. Google utilizes the data collected to track and examine the use of our Site and may share this data with other Google services. You can learn more about Google’s privacy practices by visiting their website at <http://www.google.com/policies/privacy/partners/>. We also use the web customer satisfaction survey services of Foresee Results. You can learn more about Foresee’s privacy practices by visiting their website at 
 
-We reserve the right to change this privacy policy from time to time and without notice. Changes to this privacy policy will be posted to this site accordingly. You may want to visit this page periodically to review the current policy. Our Privacy Notice applies to personal information only and not to aggregate and/or generic information that does not identify the individual. This statement and the policies outlined herein are not intended to and do not create any contractual or legal rights on behalf of any party. 
+[
+
+http://www.foreseeresults.com/privacy-policy.shtml.
+
+](http://www.foreseeresults.com/privacy-policy.shtml)
+
+[ ](http://www.foreseeresults.com/privacy-policy.shtml)
+
+How We Use and Share Information
+
+We use the PI we collect in the following ways: 
+
+  * **Communicate** :  We use PI to communicate with you about our Site or Services. We may also use your PI to send you account updates or other communications regarding your account or to inform you of any changes to our Site or Services, or to send you information, recommendations and promotions that we believe will be of interest to you. Exelon companies may send the contact information collected through our Site to other Exelon companies, to the extent permitted by applicable law, or such communications may be sent directly to you through our Site, such as push notifications.
+
+You should note that Exelon companies may use other electronic media for communications (such as social media), which may have their own separate privacy policies that govern the privacy of information that is shared or collected through your use of them.
+
+  * **Specific Purposes:**  You may be asked to provide information for a specific purpose. We will only use that information for that purpose.
+  * **Customer Support** :  We may use your PI to provide you support or other services you request. For example, we may need certain information in order to provide technical support or answer questions about our Site or Services. 
+  * **To Improve Our Services:** We may use your PI for statistical analyses, generating surveys, and doing market research in order to improve our Services. We may use information collected on our Site to personalize your experience on our Site.  
+
+  * **Site Maintenance:**  We analyze how our users interact with our Site in order to maintain and improve our Site. We also use information that we collect to diagnose any problems with our Site.   
+
+  * **Legitimate Business Purposes.**  We may use your PI or PII for any other business purpose we deem legitimate, as permitted by applicable law.   
+
+
+
+
+We reserve the right to share information, including PII, with third parties, as described below:
+
+  * **Service Providers:**  We may share information with service providers that help us perform Site functions and process your transactions. For example, we share information with electronic bill payment service providers so that you may pay for Services through our Site.   
+
+  * **Affiliates and Franchisees:**  We may share information with a parent company, franchisees, subsidiaries, joint ventures, or other companies under common control with us, to the extent permitted by applicable law.  
+
+  * **Corporate Structure:**  We may share information in connection with a merger, acquisition, consolidation, change of control, or sale of all or a portion of our assets or if we undergo bankruptcy or liquidation.  
+
+  * **To Prevent Harm:**  We may share information if we believe it is necessary in order to detect, investigate, prevent, or take action against illegal activities, fraud, or situations involving potential threats to the rights, property, or personal safety of any person.   
+
+  * **As Required by Law:**  We will share information where we are legally required to do so, such as in response to court orders or legal process, to exercise our legal rights, to defend against legal claims or demands, or to comply with the requirements of any mandatory applicable law.  
+
+  * **With Your Consent:**  We may request your permission to share your PI for a specific purpose not described above. In such case, we will notify you and request consent before you provide the PI or before the PI you have already provided is shared for such purpose.   
+
+
+
+
+Security
+
+The security of your PI and PII is important to us. We maintain reasonable physical, technical, and administrative security measures to protect and limit access to your PI and PII. No method of transmission over the Internet or electronic storage technology is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your PI and PII, we cannot guarantee its absolute security. 
+
+You should exercise discretion in what information you send to us by email. We cannot guarantee that email sent over the Internet is secure and will not be intercepted by others before it reaches us. We are not responsible for the security of information contained in emails sent over the Internet. 
+
+We will use reasonable efforts to maintain secure connections with you and limit access to databases containing your PI and PII to authorized parties, including our own employees, whose access to your information is on a need-to-know basis.
+
+Security
+
+The security of your PI and PII is important to us. We maintain reasonable physical, technical, and administrative security measures to protect and limit access to your PI and PII. No method of transmission over the Internet or electronic storage technology is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your PI and PII, we cannot guarantee its absolute security. 
+
+You should exercise discretion in what information you send to us by email. We cannot guarantee that email sent over the Internet is secure and will not be intercepted by others before it reaches us. We are not responsible for the security of information contained in emails sent over the Internet. 
+
+We will use reasonable efforts to maintain secure connections with you and limit access to databases containing your PI and PII to authorized parties, including our own employees, whose access to your information is on a need-to-know basis.
+
+Applicable Law
+
+This is a United States-based Site that is subject to U.S. law. If you are accessing our Site from a location outside the U.S., you hereby agree that your use of our Site and our collection and use of your PI and PII are subject to this Privacy Policy. When you submit PI or PII to us, you are agreeing to permit us and our subsidiaries and affiliates to access, store, and use the information wherever in the world we and our subsidiaries and affiliates do business, both inside and outside the United States.
+
+Children’s Privacy
+
+Our Site is intended to provide general information about the Exelon companies and their Services. We will not knowingly collect PI from children under 13 years of age, nor will we knowingly allow children under 13 years of age to use certain features of our Site without the consent of a child’s parent or guardian. We will not knowingly disclose PI collected from children. If we become aware that a child under 13 years of age has provided us with PI, we take immediate steps to delete such PI.
+
+External Links
+
+In some cases, our Site links to other websites that collect PI and PII by and for other parties. In these cases, the PI and PII you provide on those websites is governed by the privacy policy of that website. We do not assume responsibility for the actions of other parties. 
+
+Do Not Track 
+
+Our Site is not currently configured to respond to Do Not Track signals sent by browsers.
+
+Disclosure to Government 
+
+We reserve the right to monitor and disclose, without your consent, any communications, PI or PII, whenever requested to do so by courts, government agencies, or by law enforcement authorities.
+
+Contact Us 
+
+We will use reasonable efforts to address concerns you may have about this Privacy Policy or your PI and PII. You may contact us by using the “Contact Us” area of our Site or sending an email to [WebAgent@exeloncorp.com. ](mailto:WebAgent@exeloncorp.com)
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+[Calvert Supports Local Non-Profits on Giving Tuesday!](http://www.exeloncorp.com/newsroom/calvert-supports-local-non-profits-on-giving-tuesday)| <p>​<span style="color:#606060;">F</span><span style="color:#606060;">or the 4th year, Calvert Cliffs has provided funding to the College of Southern Maryland as part of the National Giving Tuesday Campaign. </span><br></p>| <img alt="" height="1" src="/newsroom/PublishingImages/Calvert%20Cliffs/8b15a520-8b8a-47f2-8886-3af16e6fab45.jpg" width="1" style="BORDER:0px solid;" />| http://www.exeloncorp.com/newsroom/calvert-supports-local-non-profits-on-giving-tuesday| Calvert Supports Local Non-Profits on Giving Tuesday!| 11/27/2018 10:00:00 PM  
+---|---|---|---|---|---  
+[Braidwood 5K](http://www.exeloncorp.com/newsroom/braidwood-5k)| <p>​<span style="color:#606060;">More than 30 Braidwood Station employees (+ a few from other Illinois sites) braved the cold weather to run the annual Braidwood 5k, raising several hundred for the Disabled American Veterans charity.</span><br></p>| <img alt="" height="600" src="/newsroom/PublishingImages/Braidwood/Braidwood205K.jpg" width="900" style="BORDER:0px solid;" />| http://www.exeloncorp.com/newsroom/braidwood-5k| Braidwood 5K| 11/19/2018 10:00:00 PM  
+[Nuclear Science Week at Reed-Custer](http://www.exeloncorp.com/newsroom/nuclear-science-week-at-reed-custer)| <p>​<span style="color:#606060;">Braidwood and Dresden employees educated hundreds of high school students about the benefits of nuclear power at a career fair.</span><br></p>| <img alt="" height="600" src="/newsroom/PublishingImages/Braidwood/Tim%20Gardner%20RCHS%2010-10.jpg" width="900" style="BORDER:0px solid;" />| http://www.exeloncorp.com/newsroom/nuclear-science-week-at-reed-custer| Nuclear Science Week at Reed-Custer| 11/19/2018 9:00:00 PM
