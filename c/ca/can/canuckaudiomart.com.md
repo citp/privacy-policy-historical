@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625092610id_/http%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128161631id_/https%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Canuck Audio Mart
 
-[ ](https://web.archive.org/partnerlink/aHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2p1bXA/aXU9LzEwMTU1MDUvQ0FNXzYtMV8yMzB4NjAmc3o9MjMweDYwJmM9NzU5MjAy)
+[ ](https://web.archive.org/partnerlink/aHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2p1bXA/aXU9LzEwMTU1MDUvQ0FNXzYtMV8yMzB4NjAmc3o9MjMweDYwJmM9MjE1NDQ1)
 
 |   
 ---|---  
@@ -17,7 +17,7 @@ This document was last updated May 28th 2018.
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect on our site and when you sign up or use our services. 
 
-Note: This policy only applies to any information disclosed while dealing directly with Canuck Audio Mart (http://www.canuckaudiomart.com/). Once you leave our web site to go to another web site, or provide information to other users of the site, we cannot assume responsibility of any information that may be collected, disclosed, and/or manipulated by those other services or users. 
+Note: This policy only applies to any information disclosed while dealing directly with Canuck Audio Mart (https://www.canuckaudiomart.com/). Once you leave our web site to go to another web site, or provide information to other users of the site, we cannot assume responsibility of any information that may be collected, disclosed, and/or manipulated by those other services or users. 
 
 _**About the Information We Collect:**_
 
@@ -85,7 +85,7 @@ You can also learn more about other third party advertiser personalisation of ad
 
 _**Your Consent:**_
 
-By using our web site (http://www.canuckaudiomart.com/), it constitutes acceptance of the details outlined in this Privacy Policy. Canuck Audio Mart reserves the right to modify this Privacy Policy at any time. 
+By using our web site (https://www.canuckaudiomart.com/), it constitutes acceptance of the details outlined in this Privacy Policy. Canuck Audio Mart reserves the right to modify this Privacy Policy at any time. 
 
 If you are a user in the EU, you must consent to the usage of your information when you register on our site. 
 
