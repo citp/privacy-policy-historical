@@ -1,45 +1,115 @@
-> *The following text is extracted and transformed from the companiesintheuk.co.uk privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303080256id_/https%3A//www.companiesintheuk.co.uk/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companiesintheuk.co.uk privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128195049id_/http%3A//companiesintheuk.co.uk/article/privacy-notice) for the most accurate reproduction.*
 
-# Privacy
+# 
 
-### PRIVACY POLICY
+## Who are we and what we do
 
-### Our Commitment To Privacy
+CompaniesInTheUK (CUK) provides information on UK Companies. We hope that this information will lead to better and more transparent relationships with your suppliers.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
+CUK monitors a number of publicly available data sources for this Company information. We correlate and cross reference the information from these sources, and present an overall view of the company’s profile, it’s directors and financial status.
 
-### The Information We Collect: 
+Some of this information may be classed as ‘person data’ under European Union (EU) law because it relates to a natural person, such as who the director of a company is. We are required to provide this privacy notice on how we process this personal data under EU law.
 
-This notice applies to all information collected or submitted on the CompaniesInTheUK.co.uk website. On some pages, you can purchase documents, monitor companies, or register with the website. The only personal information we collect is your email address so that we can send you the documents you purchase, or send you notification emails if your monitored companies change. 
+Note that the EU GDPR privacy laws and UK Data Protection Act only relate to the protection of ‘natural persons’ i.e. People, as opposed to ‘legal persons’, which are business entities i.e. Companies. We do not remove companies from our database, and we will decline any requests asking for ‘my company’ to be removed from our website due to GDPR or UK Data Protection legislation.
 
-For purchases we retain the transaction number that identifies your payment from our Credit Card agency or from PayPal depending on your payment method. Using this transaction number we can obtain more information about you in exceptional circumstances, but this information is not collected, processed or stored by us. 
+The Data Protection Officer for CUK can be contacted at dataprotection@companiesintheuk.co.uk
 
-### The Way We Use Information: 
+## Why do we collect data?
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+CUK processes data on UK Companies so that it can supply it to other companies and individuals. This data is used by these companies and individuals to better guide their decision on how they interact and do business with other companies. We call this **Commercial Data**.
 
-The documents that you purchase and the companies that you monitor are never shared with third parties. This information is totally confidential between you and us. If you monitor a company, then they will not know you are monitoring them. If you purchase a document on a company, then that company will not know you have purchased the document on them. Unless of course the company is our company, Companies In The UK Ltd! 
+We also collect operational data of your interaction with our website, www.companiesintheuk.co.uk. We collect this information so we can protect our website from malicious activity and fraud. This information is also used to optimise performance on the website. And finally, we use this information to display relevant and engaging advertising to you which helps fund the running of CUK.  
+We call this **Operational Data**.
 
-The one exception to this confidentiality is that if you purchase a document and you fail to pay for the document after we have supplied it, then we will share your email address with our debt collection agency and will publish whatever information we can obtain to help recover the debt. 
+## What information do you collect?
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals. 
+**Commercial Data**
 
-### Our Commitment To Data Security 
+For our ‘Commercial Data’ we collect data on UK Companies, which provides the content of our website, for example this includes:
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+• A Company’s name and contact details. Contact details includes the company’s addresses, phone numbers, email addresses and domain names.
 
-### How You Can Access Or Correct Your Information 
+• The Company Principles, that is the identity of the Company Directors, Company Secretary, Persons of Significant control and their contact details.
 
-You can access all your personally identifiable information that we collect online and maintain by registering on the website using your email address. Once registered go to 'Your Account' page, from this page you can see all your purchases and companies that you monitor. We use this procedure to better safeguard your information. 
+• The Company’s financial performance, profitability and financial status.
 
-You can correct factual errors in your personally identifiable information directly online at the 'Your Account' page. 
+We collect this information from:
 
-To protect your privacy and security, we take reasonable steps to verify your identity before granting access or making corrections. 
+• Public Data Sources, such as the public Company Register maintained by Companies House.
 
-### How To Contact Us
+• Information that a company publishes on itself, such as the contact details on their website.
 
-Should you have other questions or concerns about these privacy policies, please call us at +44 20 3322 2744 or send us an email at support@companiesintheuk.co.uk 
+• Government publications, such as The Gazette, with company bankruptcy details.
 
-### Google/Doubleclick
+CUK does not seek to collect any Sensitive Personal Data, such as genetic data, race, politics, or sexual orientation. Nor does CUK seek to collect an individual’s criminal offence data. We do not consider this information at all related to our interests in providing UK Company information.
 
-We partner with Google/Doubleclick to display the advertising that pays for this website. For that to work effectively they will use cookies to store data and access data about your use of this website. You can learn more about how Google use this data and how to opt out if you choose here: <http://www.google.com/intl/en/policies/privacy/partners/>
+**Operational Data**
+
+To operationally provide our website to you, we collect the following ‘Operational Data’:
+
+• We log the website pages that you visit along with your IP address. This is used to diagnose any problems with running our website, this information is deleted within a few months.
+
+• If you choose to Monitor a company for changes, we collect your email address and details about what Company you are monitoring. You are able to choose to stop monitoring the company at any time.
+
+• Details of any purchases of company documents from our website. We consider these details to be part of our company’s records, and thus legally required to retain these for seven years. These records do not include your address or your credit card number used for payment.
+
+• If you have chosen to register with our website, then we also store a salted and hashed value of your password. We don’t store your password in plain text nor have the ability to decrypt your password back to plain text.
+
+## Who do we share this information with?
+
+**Commercial Data**
+
+We share only share our Commercial Data with the users of the website CompaniesInTheUK.co.uk.
+
+**Operational Data**
+
+We share our ‘Operational Data’ with:
+
+  * Google Analytics, this allow us to monitor the usage of the website and improve it.
+  * To a court, tribunal administrative authority law enforcement agencies, regulatory authorities or government agencies.  This does from occur time to time, and we silently comply with the orders.
+  * Our advertising partners.  We need advertising to pay for running our website.  The servers that run our website cost us rather a lot of real money.  If you wish to adjust your preferences, so that we don’t share information with the advertising partners, then you can on the following links: 
+    * [Google opt-out](http://www.google.com/intl/en/policies/privacy/partners/)
+    * [NAI opt-out](http://optout.networkadvertising.org/?c=1#!/)
+    * [DAA opt-out](http://optout.aboutads.info/?c=2#!/#)
+
+
+
+We would prefer if you don’t opt out of personalised ads, we earn more money from showing you these ads.  Also you get a better experience from being shown advertising that is tailored for you, rather than generic spam.  Who knows, you may actually see something interesting and decide to click on an ad and buy it.
+
+  * As required or appropriate in order to protect our website, business operations or legal rights, or in connection with a sale or merger involving CompaniesInTheUK Ltd assets or businesses.
+
+
+
+### International transfers
+
+We do not transfer your data outside of the EU.  Of course, someone using our website from outside of the EU will be getting the website presentation of the data, but there is no bulk transfer of data to other data processors outside of the EU.
+
+### Data Retention
+
+Personal data is stored for the minimal time necessary for the purpose for which it was collected. For example, the pages you have viewed on the website are stored in our diagnostic logs, when we no longer need this information to diagnose any issues, then we remove the logs.
+
+### Grounds of Processing
+
+Using GDPR terminology, we process personal data under the grounds of “legitimate interest”.
+
+The processing of data by CompaniesInTheUK is so we can provide a website that allows you to know the companies you are doing business with, who runs them, the financial records etc.
+
+We balance this legitimate interest with an individuals interests.  If we feel that on balance, by processing an individuals personal data would cause unjustified harm we will stop processing the individuals data.
+
+You can request that we remove your details from our website, please refer to [Data Removal Requests](https://web.archive.org/article/data-removal-request) for more information.
+
+### Data Subject Rights
+
+You have the right to request from us confirmation of whether we are processing your personal data, and if so access to that information.  Please refer to [Subject Access Requests](https://web.archive.org/article/subject-access-request) for more information.
+
+### Complaints
+
+All complaints or concerns and appropriate resolution relating to the practices of handling personal information will be logged. Any complaints of this nature should be made by email to dataprotection@companiesintheuk.co.uk or via post to:
+
+Companies In The UK Ltd  
+Unit 6301  
+PO Box 6945  
+London  
+W1A 6US
+
+You also have the right to lodge a complaint with a supervisory authority.
