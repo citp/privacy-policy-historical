@@ -1,33 +1,21 @@
-> *The following text is extracted and transformed from the lnttechservices.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604204342id_/http%3A//www.lnttechservices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lnttechservices.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128120949id_/http%3A//www.lnttechservices.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | L&T Technology Services | L&T India
 
-### Introduction
+### INTRODUCTION
 
-  * We Larsen & Toubro Limited are committed to safeguarding the privacy of our website visitors; in this policy, we explain how we will treat your personal information.
+  * We L&T Technology Services Limited (hereinafter referred to as “LTTS”, “we”, “our”, “us”) are committed to safeguarding the privacy of our website visitors; in this policy, we explain how we will treat your personal information.
 
-  * By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
+  * This website usage privacy policy was last updated on **31.08.2018**.
 
-
-
-
-###  **GDPR (General Data Protection Regulation)**
-
-We use your personal data only with your consent and not otherwise.
-
-The European law gives their citizens a number of rights in relation to their personal information. Basis the same GDPR policy, we allow you to do the following with us if you are from a European country.
-
-  * You have the right to withdraw your consent (“unsubscribe”) for your personal information. You can do this by following the [link](http://www.lnttechservices.com/dashboard/page#block-unsubscribeformblock) and use the “Unsubscription” section. 
-  * You have the right to request with us the “consent history” on our website. You can do this by following the [link](http://www.lnttechservices.com/dashboard/page#block-unsubscribeformblock) and use the “Consent History” section. 
-  * You have the right to double opt-in for every consent that you provide. This can be done everytime you submit a form with us. Unless you provide the “double opt-in” confirmation, we do not add your information to the consent history. 
+  * By using our website and agreeing to this policy, you enable us to process your personal data which is collected through this website in accordance with the terms & conditions of this policy.
 
 
 
-Feel free to reach us out at [info@lnttechservices.com](mailto:info@lnttechservices.com) for any of your privacy concerns.
 
-### Collecting Personal Information
+### COLLECTING AND STORING PERSONAL INFORMATION
 
-  * We may collect, store and use the following kinds of personal information: 
+  * We may collect, store and use the following kinds of personal information shared by you while visiting our website at: [www.lnttechservices.com](http://www.lnttechservices.com/)
     * Information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths);
 
     * Information that you provide to us when registering with our website including your email address;
@@ -44,7 +32,7 @@ Feel free to reach us out at [info@lnttechservices.com](mailto:info@lnttechservi
 
 
 
-### Using Your Personal Information
+### USING YOUR PERSONAL INFORMATION
 
   * Personal information submitted to us through our website will be used for the purposes specified in this policy or on the relevant pages of the website.
   * We may use your personal information to: 
@@ -58,7 +46,7 @@ Feel free to reach us out at [info@lnttechservices.com](mailto:info@lnttechservi
 
     * Send you our email newsletter, if you have requested it;
 
-    * Deal with enquiries and complaints made by or about you relating to our website;
+    * Deal with enquiries and complaints made by you or about you relating to our website;
 
     * Keep our website secure and prevent fraud.
 
@@ -66,13 +54,20 @@ Feel free to reach us out at [info@lnttechservices.com](mailto:info@lnttechservi
 
 
 
-### Disclosing Personal Information
+### LEGAL BASIS FOR PROCESSING YOUR PERSONAL INFORMATION
+
+ **We use your personal data only with your consent or knowledge. We may also process your personal data for our legitimate interest or where it is required or permitted by law.**
+
+
+
+
+### DISCLOSING PERSONAL INFORMATION
 
   * We may disclose your personal information to any of our employees, officers, advisers, agents, insofar as reasonably necessary for the purposes set out in this policy.
 
-  * We may disclose your personal information to any member of our group of companies (this means our affiliates and subsidiaries,) insofar as reasonably necessary for the purposes set out in this policy.
+  * We may disclose your personal information to any member of our group of companies (this means our affiliates and subsidiaries,) insofar as reasonably necessary for the purposes set out in this policy.However, to ensure that your personal data does receive an adequate level of protection we have executed Standard Contractual Clauses with our [Group Company(ies)] to ensure that your personal data is treated by those Group Companies in a way that is consistent with and which respects the EU and regional laws on data protection
 
-  * We may disclose your personal information:
+  * We may disclose your personal information for the following purposes:
 
     * To the extent that we are required to do so by law;
 
@@ -86,24 +81,26 @@ Feel free to reach us out at [info@lnttechservices.com](mailto:info@lnttechservi
 
 
 
-### International Data Transfers
+### INTERNATIONAL DATA TRANSFERS
 
   * Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy.
 
-  * Personal information that you publish on our website or submit for publication on our website may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
+  * However, to ensure that information does receive an adequate level of protection we have executed Standard Contractual Clauses with our [Group Company(ies)] to ensure that your personal data is treated by those third parties in a way that is consistent with and which respects the EU and regional laws on data protection.
+
+  * Personal information that you publish on our website or submit for publication on our website may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others. However, steps have been taken for protection of personal information as per this policy.
 
   * You expressly agree to the transfers of personal information described in this Section.
 
 
 
 
-### Retaining Personal Information
+### RETAINING PERSONAL INFORMATION
 
   * This Section sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal information.
 
-  * Personal information that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
+  * Personal information that we process for any purpose or purposes shall not be retained for a period longer than six months
 
-  * Notwithstanding the other provisions of this Section 6, we will retain documents (including electronic documents) containing personal data:
+  * Notwithstanding the other provisions of this Section, we will retain documents (including electronic documents) containing personal data as specified hereunder:
 
     * To the extent that we are required to do so by law;
 
@@ -114,7 +111,7 @@ Feel free to reach us out at [info@lnttechservices.com](mailto:info@lnttechservi
 
 
 
-### Security of your Personal Information
+### SECURITY OF YOUR PERSONAL INFORMATION
 
   * We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
@@ -125,7 +122,22 @@ Feel free to reach us out at [info@lnttechservices.com](mailto:info@lnttechservi
 
 
 
-### Third Party Websites
+### RIGHTS AVAILABLE TO YOU
+
+You are entitled to the following rights under General Data Protection Regulations (GDPR) in case you are an EU data subject:
+
+  * Right of Access.
+  * Right to Rectification.
+  * Right to be Informed about the collection and use.
+  * Right to be Forgotten.
+  * Right to Object to Processing
+  * Right to Request the Restriction of Processing.
+  * Right of Data Portability/ Transfer to another party.
+  * Right to Withdraw Consent for processing.
+
+
+
+### THIRD PARTY WEBSITES
 
   * Our website includes hyperlinks to, and details of, third party websites.
 
@@ -134,13 +146,23 @@ Feel free to reach us out at [info@lnttechservices.com](mailto:info@lnttechservi
 
 
 
-### Cookies
+### COOKIES
 
   * Our website uses cookies.
 
   * A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
 
+  * The Cookie policy is available at [http://www.lnttechservices.com/cookie-policy](https://web.archive.org/cookie-policy)
 
 
+
+
+### UPDATES OR CHANGES IN THE PRIVACY POLICY
 
 This Privacy Policy may be amended and updated periodically and without prior notice to you to reflect changes in our online information practices. When changes are made to this Policy it will be posted to the website and the "last updated" date at the top of this policy will be revised. We also encourage users to periodically check this Policy to understand how we protect and use your information.
+
+### HOW TO CONTACT US
+
+Feel free to get in touch with our Marketing Team /IT Team at the email id [info@lnttechservices.com](mailto:info@lnttechservices.com) for any clarification regarding the Website Usage Policy.
+
+Alternatively, you may choose to write to the Data Protection Officer at [DPO@lnttechservices.com](mailto:DPO@lnttechservices.com)
