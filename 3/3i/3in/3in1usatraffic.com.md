@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3in1usatraffic.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525170234id_/http%3A//3in1usatraffic.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3in1usatraffic.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128125303id_/http%3A//www.3in1usatraffic.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Boost your sales today with State targeted USA website traffic!
 
