@@ -1,213 +1,192 @@
-> *The following text is extracted and transformed from the veracode.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625084224id_/https%3A//www.veracode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veracode.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128080157id_/https%3A//www.veracode.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Veracode
 
-**Privacy Policy**
+### **Privacy Statement**
 
-**Effective as of September 27, 2017**
+_Last Updated September 24, 2018_
 
-CA Veracode takes privacy issues and your privacy very seriously.  This Privacy Policy describes the personal information CA Veracode, Inc. and CA Veracode Limited (“CA Veracode”, “we”, “us” and “our”) collects about you through [www.veracode.com](https://www.veracode.com/) and its related websites (the “Site(s)”), why we collect it, how we use it, and when we share it with third parties. By using and visiting our Sites, you agree to the information collection and use practices described in this Privacy Policy. This Privacy Policy does not apply to any other CA Veracode product, service or application, or websites that display or link to different privacy policies. If you have any questions about this Privacy Policy, please contact us as described in the section entitled, “Contact Us”, below.
+At CA, Inc. and our global subsidiaries (“CA,” “our,” “us,” or “we”), we care about your privacy and we are committed to protecting your information.
 
-**1\. What information we collect**
+This Privacy Statement governs personal information CA collects from customers, attendees and online visitors (“you” or “your”) in connection with your use of CA’s websites and CA’s products, applications and services (including support and education), and corporate meetings and other events (collectively, the “Services”) where we post or link to this Privacy Statement, as well as information we automatically collect from your online visits (e.g. data collected via cookies).
 
-We collect certain personal information on our Sites, e.g. information in relation to prospective customers interested in our solutions, information from users of the Sites to help us manage our customer relationships and information from candidates responding to job advertisements. Personal information is information that can be used to identify you individually, such as your name, address, phone and fax numbers, and e-mail address. We also collect certain technical information from users of our Sites which may include information about how you use our Sites, the areas of our Sites that you visit, your internet protocol (IP) address, your browser type, and your internet service provider (ISP). We will not knowingly collect or use personal identifying information from children younger than 13 without parental consent.
+For the purposes of this Privacy Statement, “personal information” means any information that, by itself, can identify you or can be combined with other information to identify you.
 
-The following is a more detailed explanation of these types of information.
+Your continued use of the website and/or the Services indicates your acceptance of the terms and conditions of this Privacy Statement. 
 
-**Personal Information**
+Please see our Code of Conduct for more information about CA’s high standard of ethics and our commitment to the protection of your personal information.
 
-We may collect information that identifies you personally, such as your name, address, phone and fax numbers and e-mail address, when you submit a form, such as, but not limited to, a form that requests additional information about CA Veracode solutions. We may collect additional information if you choose to submit it, including, but not limited to: job title, employer, business telephone number, and mailing address. We will only collect and use this information to the extent it is necessary to respond to your inquiry, form/amend or perform a contractual relationship with you, and to send you communications related to our solutions, products, services, promotions, company, and other products or services as further described in the section entitled, “How we use information we collect”, below. 
+### **What personal information does CA collect about you?**
 
-If you choose to submit your resume to us through our Sites or via a third party website, we will collect the information provided in order to contact you about potential employment opportunities.
+**_Information You Provide_**
 
-**Technical and usage information**
+We may ask you to provide personal information when you:
 
-We and our third party service providers may collect technical information from you, including anonymized information about how you use our Sites and the areas of our Sites that you visit. 
+  * Purchase products or services;
+  * Register for webcasts, seminars, conferences, or other events sponsored by us or a partner;
+  * Request quotes, services, product support, trials, whitepapers and related downloads, or additional information;
+  * Join CA Communities;
+  * Register for courses or education;
+  * Subscribe to newsletters, promotional emails or other CA materials;
+  * Participate in surveys, sweepstakes or contests;
+  * Apply for a job and submit your resume/CV; or
+  * Contact us.
 
-**Cookies**
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on the Sites. You should be aware that cookies contain no more information than you volunteer, and they are not able to "invade" your hard drive and collect personal or other information from your computer. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. Persistent cookies enable us to track and target the interests of our users to enhance their experience on our site. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. Many users prefer to use cookies in order to help them navigate a web site as seamlessly as possible. To learn more about cookies, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-**List of Temporary Cookies:**
+Personal information we request may include your name, email address, home address, phone number and other contact details. If you purchase a product or service or register for courses, we may also ask you for your credit card number or billing information. 
 
-**Cookie Name**
+When we ask you to provide your personal information, we will advise you upon collection whether the provision of your personal information is mandatory.  If we ask for personal information through one of our registration pages on our website, you will have the option of not providing the information, in which case you may still be able to access other portions of the website, although you may not be able to access certain programs or services.
 
-| 
+**_Information from Other Sources_**
 
-**When do cookies expire?**
+We may also obtain information about you from other sources and combine that with information we collect through our Services. For example, we may aggregate your personal information with information that you make publicly available on social media or third-party websites to better market our Services to you.
 
-| 
+**_Information Automatically Collected_**
 
-**1st party or 3rd party across different sites**
+When you visit our websites, we may automatically collect information about your visit, including pages you access, links you click, and actions you take in connection with CA’s Services. We may also collect certain information from your web browser, such as your device’s operating system, application software, browser type and language, Internet Service Provider, Internet Protocol (IP) address, access times, and the websites you visited before and after our website(s). For more information on information that we automatically collect, please see the “cookies and other tracking technologies” section.
 
-| 
+**How does CA use your personal information?**
 
-**Description of Purpose**  
-  
----|---|---|---  
-  
-Has_is
+We may use your personal information for legitimate business purposes, including to:
 
-| 
+  * Provide and deliver the Services you request;
+  * Send you transaction information, including confirmations and transaction status, product and services information, updates, security alerts, and support and administrative messages;
+  * Administer your account, including verifying your information;
+  * Respond to your comments and questions and provide customer support or other services;
+  * Offer Live Chat assistance to facilitate
+  * Operate and improve our websites, products, and services;
+  * Process and deliver sweepstakes and contest entries and rewards;
+  * Ask you to take part in surveys used to measure our performance and improve our products, services and customer experience;
+  * Communicate with you about new promotions and upcoming events;
+  * Provide you with information about products and services offered by CA and our selected partners;
+  * Plan and host corporate events, online forums, communities and social networks;
+  * Link or combine with other information we get from third parties, to help understand your needs, and customize our offerings and market our Services based on your needs; and
+  * Perform other functions or serve other purposes, as disclosed to you at the point of collection, or as otherwise required or allowed under applicable law.
 
-Session cookie
 
-| 
 
-3rd Party
+**_Legal Basis of Processing_**
 
-| 
+In order to collect, use and otherwise process your personal information, CA may rely on any of the following legal bases:
 
-Checks to see if a visitor to the Sites is javascript enabled.
+  * CA’s legitimate interest in providing its websites and making the Services available to you, provided our interest is not outweighed by the risk of harm to your rights and freedoms.
+  * Your consent, where CA has obtained your consent to process your personal information for certain activities. You may withdraw your consent at any time by contacting [privacyhelpline@CA.com](mailto:privacyhelpline@CA.com). However, please note that your withdrawal of consent will not affect the lawfulness of any use of your personal information by CA based on your consent prior to withdrawal.
+  * To fulfill any contractual obligations, such as where you have purchased a product or service from CA. For example, we may require your contact details in order to deliver your order if you have purchased a product from us.
+  * For compliance with CA’s legal obligations where applicable laws require CA to process your personal information.
 
-<https://www.drupal.org/privacy>  
-  
-**List of Permanent Cookies:**
 
-**Cookie Name**
 
-| 
+If you have any questions or would like more information regarding the legal basis on which we collect your personal information, please contact us at [privacyhelpline@CA.com](mailto:privacyhelpline@CA.com).
 
-**When do cookies expire?**
+**_Retention of Data_**
 
-| 
+CA may retain your personal information data as long as is necessary to fulfill the purposes for which it was collected and in accordance with CA’s record retention policy and applicable law. CA’s Support Policy may include additional terms related to the collection of personal information or confidential data provided as part of the provision of customer support.
 
-**1st party or 3rd party across different sites**
+**_Cross-Border Data Transfers_**
 
-| 
+CA may transfer your personal information to other CA entities located in many different countries around the world if required for the purposes described in this Privacy Statement. This may include the transfer of your personal information to countries outside your home country, including outside the European Economic Area (EEA), which may not have the same level of protection as your home country. For example, since CA is headquartered in the United States (US), CA entities in the EEA may need to send your personal information to our servers located in the US for legitimate business purposes. In order to provide adequate protection for the transfer of your personal information, we rely on various mechanisms, including our Privacy Shield certifications, Binding Corporate Rules, EU Standard Contractual Clauses and/or the need to process your personal information in order to provide the requested products or services, as the bases for transferring your personal information. Please click [here](https://www.ca.com/us/legal/privacy/data-transfers.html?intcmp=footernav) for more information on CA’s data transfer mechanisms.
 
-**Description of Purpose**  
-  
----|---|---|---  
-  
-_utma, _utmb, _utmc, _utmv, _utmz
+### **How does CA share your personal information?**
 
-| 
+We may share your personal information with third parties for the purposes described below.
 
-Expires after 24 months
+  * **_CA Subsidiaries_** _._ We may share your personal information with our subsidiaries worldwide in order to improve our website and/or the Services, and to manage our customer relationships.
+  * **_Third-Party Vendors/Service Providers_** _._ We may rely on third-party vendors, consultants and other service providers to perform functions on our behalf and under our instructions in order to make our websites and the Services available to you. For example, we may engage third parties to provide customer support relating to our products or cloud storage services or assist CA in protecting its systems.
+  * **_Business Partners_** _._ We may share your information with third parties with whom we do business, including in connection with your purchase of a CA product through a business partner or attendance at an event jointly hosted by CA and business partner. Depending on CA’s business model and its regional coverage, CA may not be able to provide the products or services directly to you. In those instances, CA may disclose information to its business partners for reselling, marketing and other business purposes related to your demonstrated interest in our products and services. We will only share your personal information with business partners who agree to abide by applicable laws and to protect your personal information and use it solely for the purposes specified by CA.
+  * **_Legal Obligations and Rights_** _._ We may disclose your personal information: (i) in connection with the establishment, exercise or defense of legal claims; (ii) to comply with laws or to respond to lawful requests or legal process; (iii) for fraud or security monitoring purposes (e.g., to detect and prevent cyberattacks); (iv) to protect the rights of CA or its employees; or (v) as otherwise permitted by applicable law.
+  * **_Business Reorganization_**. We may share your personal information in connection with a sale or business transaction (e.g., merger or acquisition).
 
-| 
 
-3rd party
 
-| 
+CA may also use or share aggregate data (data from which personal information has been removed) for any purpose.
 
-For Google Analytics across CA Veracode Sites. To opt out of being tracked by Google Analytics across all websites, visit <http://tools.google.com/dlpage/gaoptout>. You may also opt out of Google's use of cookies by visiting <http://www.google.com/privacy/ads/>.  
-  
-_mkto_trk
+Except as described above, CA will not disclose your personal information to third parties for their own marketing purposes without your consent.
 
-| 
+**_EU-US and Swiss-US Privacy Shield_**
 
-Expires after 24 months
+CA participates in and has certified its compliance with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework and is committed to subjecting all personal information received from the European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework’s applicable Principles. To learn more about the Privacy Shield program, and to view CA’s certification page, please visit <https://www.privacyshield.gov/>.
 
-| 
+CA is responsible for the processing of personal information that it receives under each Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. CA remains liable for onward transfers of personal information to third parties who process personal information on its behalf in a manner that is inconsistent with the Privacy Shield Principles, unless CA proves that it is not responsible for the event(s) giving rise to the damage.
 
-3rd party
+CA commits to resolve complaints about our collection or use of personal information under the Privacy Shield Frameworks, and we are subject to the regulatory and enforcement powers of the Federal Trade Commission with respect to Privacy Shield. CA may be required, in certain circumstances, to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-| 
+If you have a complaint about CA’s use of your personal information under either Privacy Shield Framework, you should first contact CA at [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our US-based third party dispute resolution provider (free of charge) at [BBB EU PRIVACY SHIELD](http://www.bbb.org/EU-privacy-shield/) _,_ operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint.
 
-Allow us to collect information about how you use the CA Veracode Sites after receiving an email from us, including data such as how you arrived at the site, how often you have visited, and which pages you viewed. To opt out, you can disable cookies or unsubscribe from CA Veracode emails using the link on the bottom of the email.
+If neither CA nor the Council of Better Business Bureaus resolves your complaint, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel.
 
-<http://www.marketo.com/trust/legal/privacy/>  
-  
-Drupal.toolbar.collapsed, Drupal.tableDrag.showWeight
+### **How does CA protect your personal information?**
 
-| 
+CA takes all reasonable steps to protect your information from loss, misuse, unauthorized access or disclosure, alteration, or destruction, including through the use of encryption when collecting or transferring sensitive data such as credit card information.
 
-Session cookie
+Click [here](https://www.ca.com/content/dam/ca/us/files/supportingpieces/ca-information-security-practices.pdf) to learn more about how CA secures information.
 
-| 
+### **What rights and choices do you have regarding your personal information?**
 
-3rd party
+**_Email and Marketing_**
 
-| 
+In most instances, CA gives you options with regard to the personal information you provide, including choices with respect to marketing materials. You may manage your receipt of marketing and non-transactional communications by: (i) clicking on the “unsubscribe” link located at the bottom of CA marketing emails; or (ii) checking certain boxes on our preference center which can also be found on certain forms we use to collect personal information.
 
-Set by the CA Veracode Sites Content Management System (Drupal) upon arrival to the CA Veracode website.
+**_Exercising your Rights_**
 
-<https://www.drupal.org/privacy>  
-  
-Pcc, pvc, tuuid
+Subject to applicable law in your jurisdiction (e.g. laws in the European Economic Area, United Kingdom, and Switzerland), you may have certain rights with respect to your personal information that we are processing. These rights may include the right to access your personal data, correct inaccurate personal data, object to the processing of your personal data based on CA’s legitimate interests (e.g., direct marketing purposes), restrict or delete personal data that you have previously provided to us, or to receive an electronic copy of your personal data for purposes of transmitting it to another company. Where the processing of your data is based on your consent, you have the right to withdraw your consent to data processing activities at any time, without affecting the lawfulness of processing based on consent before its withdrawal. If you would like to exercise any of these rights, please contact [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com)  with the words “Data Subject Rights Request” in the subject line.
 
-| 
+### **How does CA use cookies and other tracking technologies?**
 
-Expires after 24 months
+**_Cookies_**
 
-| 
+CA uses “cookies” on its websites to enable you to sign in to CA’s services and personalize your online experience. A “cookie” is a small data file stored on your hard drive.  By using cookies, the information you previously provided can be retrieved on your next visit to our website(s) so that your use of the website is more efficient.
 
-3rd party
+Cookies are either session-based (which disappear after you close your browser) or persistent (which remain on your computer after you close your browser or turn off your computer).  CA may use any of the following types of cookies:
 
-| 
+  * Required cookies are essential to core website functionality.
+  * Performance cookies collect information about website visits to improve performance, but do not collect personal information.
+  * Functional cookies track your preferences, such as your preferred language or display settings, and customize the website to you. Some of these cookies may be required cookies.
+  * Analytics cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our websites and our marketing campaigns.
+  * Advertising cookies may be set through our website(s) by our advertising partners. Data may be collected by these companies that enable them to deliver customized advertisements on other websites that are relevant to your interests.
 
-Set by Demandbase, which uses the cookies to gather information in identifying companies/businesses visiting CA Veracode Sites.
 
-<http://www.demandbase.com/company/privacy-policy/>  
-  
-Some CA Veracode pages use cookies that permit select third party partners, including Google, to provide you CA Veracode related content, including CA Veracode advertisements, on their sites or elsewhere on the Internet. This is based on your prior visits to the Sites.
 
-Additionally, third parties may use cookies to allow you to link to social networking sites like Facebook, Twitter and LinkedIn. As noted below, you can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. You can control whether or not these cookies are used, but preventing them may stop us from offering you some services. Alternatively you may use the third parties' own tools to prevent these cookies.
+**_Web Beacons_**
 
-**How to Manage Cookies**
+CA also uses web beacons alone or in conjunction with cookies to compile information about your usage of our websites and interaction with emails from us. A web beacon is an electronic image that can be used to recognize a cookie on your computer when you view a web page or email message. Web beacons may help CA measure the effectiveness of our websites and our advertising in various ways. For example, web beacons may count the number of individual who visit a particular web page after viewing an advertisement or identify the number of individuals who opened or acted upon a marketing email message.
 
-In addition to the options provided above, you may refuse or accept cookies from the Sites at any time by activating settings on your browser.  Information about the procedure to follow in order to enable or disable cookies can be found on your Internet browser provider’s website via your help screen.  You may wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html> for information on commonly used browsers.  Please be aware that if cookies are disabled, not all features of the Sites may operate as intended.
+Our third-party ad services providers may also use aggregated information collected through web beacons and cookies about your visit to the website(s) in order to deliver advertising relevant to your interests and to better understand the usage of our websites and the other sites tracked by these third parties. This Privacy Statement does not apply to, and we are not responsible for, third-party cookies, and CA encourages you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other tracking technologies.
 
-You can adjust your cookie preferences by adjusting your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether.  The Help function within your browser should explain how to do this.  Alternatively, you may visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/) to obtain detailed information on how to prevent cookies from being set on your particular browser.
+**_Managing Cookie Preferences_**
 
-If you want to clear all cookies left behind by the websites you have visited, here are links where you can download programs that clean out tracking cookies:
+Many web browsers are set to accept cookies by default, and only you can manage your browser settings. To may see the list of CA and selected partner cookies on our website(s) and make choices about those cookies, please visit our Cookie Consent Tool [here](http://info.evidon.com/pub_info/4723?v=1&nt=1&nw=false). In addition, the Help portion of your web browser, which is most often found on your browser’s toolbar, typically tells you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, and how to disable cookies altogether. Please not that if you choose to decline cookies, you may not be able to get the benefit of some of the features of this website or other websites that you visit.
 
-  * <http://www.lavasoftusa.com/products/ad-aware_se_personal.php>, 
-  * <http://www.spybot.info/en/download/index.html>, and 
-  * <http://www.webroot.com/consumer/products/spysweeper/>.
+**_Do Not Track_**
 
+Certain browsers like Internet Explorer, Firefox and Safari offer a “Do Not Track” or “DNT” option that sends a signal to websites visited by the user about the user’s browser DNT preference setting. Because uniform standards for “Do Not Track” have not been established, CA does not process or respond to “Do Not Track” signals.
 
+**_Social Media Accounts_**
 
-**2\. How we use information we collect**
+Portions of our websites make chat rooms, forums, blogs, message boards, and/or news groups (inter available to you. Please remember that any information that is disclosed in these areas could be made public so exercise caution when deciding to disclose any personal information.  Also, please note that use of these portions of our website may be subject to additional terms. Additional information about community and support sites can be found at our [Terms for User Sites](https://www.ca.com/us/legal/terms-for-user-sites.html) on ca.com.
 
-We collect personal information about you through the Sites to communicate with you, to the extent permitted by applicable law, about our solutions, products, services, promotions, company, and other products or services we think may be of interest to you. In the absence of your express prior consent, we will only send you marketing emails to advertise for our own products or services that are similar to those you purchased from us. You can object (opt-out) to the receipt of such marketing emails at any time, without any costs arising (other than transmission costs), by following the unsubscribe link found at the bottom of each marketing email or by contacting us as described in the section entitled, “Contact Us”, below. In addition, if you submit your resume, we will contact you about potential employment opportunities. We may share your personal information with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service as described in the section entitled “How we share information with third parties” below. We use technical information which does not identify individual users, to improve user experience and overall quality of our Sites, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. For example, each visitor to the Site is identified by an IP address during their visit and IP addresses are automatically captured by Site management software. CA Veracode uses this information to help improve the operation of the Site and may at some time use this information to help adjust the content of the Site to the general geographic location of the visitor and for reporting purposes. Because technical information does not personally identify you, we may also use and disclose technical information for any other purpose. To the extent permitted by applicable law, we may combine personal information with technical information. If we do so, we will treat all combined information as personal information as long as it is combined. The personal information we collect is deleted once it is no longer used for the purposes stated above and if no statutory retention obligations apply (in which case the data will be deleted after the applicable retention period expires).
+In addition, CA’s website(s) may include social media features, including the Facebook “Like” button.  These features may collect your IP address and identify the web page you are visiting on CA’s website and may set a cookie to enable the feature to function properly. You may be given the option by that social media site to post information about your activities on CA’s website(s) to your profile page on that social media site. Your interactions with these features are governed by the privacy policy of the company that is providing them.
 
-**3\. How we share information with third parties**
+**_Third-Party Websites_**
 
-We will share your personal information only in the ways and with third parties that are described in this policy.  We do not sell your personal information to third parties and we will not provide any of your personal information to third parties for their marketing purposes without your explicit consent. The personal and technical information you provide to the Site may be shared, to the extent permitted by applicable law and to the extent necessary, with our third party agents and service providers who help CA Veracode operate the Sites; help CA Veracode provide the services requested by you; contribute to CA Veracode’s own sales and marketing efforts; and help CA Veracode with its recruitment and staffing efforts.
+CA’s websites may contain links to other third-party websites. This Privacy Statement does not apply to, and CA is not responsible for, the privacy practices or the content of such third-party websites, including business partner websites, and their use of personal information will be governed by their own privacy policies.
 
-We may transfer and disclose information, including personal information, in response to lawful requests by public and governmental authorities and law enforcement agencies, including to meet national security or law enforcement requirements. In addition, we may disclose personal information to customers, vendors, service providers, public and governmental authorities and law enforcement agencies where required in order to comply with a legal obligation; when the law requires it, at the request of governmental authorities conducting an investigation; when we believe in good faith that disclosure is necessary to protect our rights; to investigate fraud; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of users of the Sites or others, in all cases only if and to the extent such transfer and disclosure is permitted by applicable law. 
+### **How will you be notified about changes to this Privacy Statement?**
 
-In addition, in the event CA Veracode goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information will likely be among the assets transferred. By providing your personal information, you agree that we may transfer such information to the acquiring entity without your further consent. You will be notified via email and/or a notice posted on our Sites of any such change in ownership or control of your personal information.
+CA may modify or update this Privacy Statement at any time without prior notice. If we make any changes to this Privacy Statement, we will change the “Last Updated” date at the beginning of this Privacy Statement. If we make material changes to this Privacy Statement that may impact individual rights, CA will make prominent note of such change on its website at least one month prior to the change taking place.
 
-**4\. Security**
+### **Who should you contact with inquiries?**
 
-The security of your personal information is important to us. Please be assured that we have adequate security measures in place to protect against the loss, misuse and alteration of any personal information we receive from you.
+If you have any questions, concerns, or comments about this Privacy Statement or our privacy practices, please contact CA via email at [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com) with the words “PRIVACY STATEMENT” in the subject line.
 
-**5\. Links to other websites**
+You may also reach out by regular mail to:
 
-The Sites may contain links to third party websites such as the websites of CA Veracode partner companies. CA Veracode takes no responsibility for the content, operation or privacy practices of such websites. This Privacy Policy does not apply to third party websites, and you should check the policies of any linked website before offering information to the sponsor of the website. CA Veracode provides these links to you only as a convenience, and the inclusion of any link to such websites does not imply endorsement by CA Veracode of those sites.
+CA Technologies
 
-**6.  CA Veracode Blogs and other Forums**
+520 Madison Avenue
 
-If you use a blog or similar forum, or other chat or similar tool that we may make available on the Sites, you should be aware that any personal information you submit there can be read, collected, or used by other users, and could be used to send you unsolicited messages. CA Veracode is not responsible for the personal information you choose to submit in these forums. You are also responsible for using these forums in a responsible and professional manner consistent with any applicable terms of use or other terms and conditions that may be set forth on the relevant forum site.
+New York, NY 10022
 
-**7\. Where we hold data**
+Attention: Chief Privacy Officer
 
-We operate the Sites from the United States. If you are located outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By visiting the Sites, or providing us with any information, you fully understand and unambiguously consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen. 
-
-**8\. Changes to this Privacy Policy**
-
-We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post a new policy on our Site and change the date at the top of the policy. Therefore, we encourage you to check this Privacy Policy whenever you visit the Site for any updates or changes. We will notify users of any material change to this Privacy Policy when the user next uses services through the Site.
-
-**9\. Your Rights**
-
-You have the right to access and/or correct your personal information we hold about you by making an access and/or correction request and sending it to the contact email address listed below. We will respond to you within 40 days of receiving your request. You can make such a request by sending it to the contact email address listed below.
-
-Other than as set out in this policy, we will provide you with notice and give you the right to opt out if your personal information is to be disclosed to a new third party controller or to be used for a purpose materially different from the purpose for which it was originally collected or subsequently authorized by you.
-
-**10.   Privacy Shield**
-
-CA Veracode complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.  CA Veracode has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  CA Veracode is accountable for personal data that it receives under the Privacy Shield Framework and transfers to a third party as set forth in the Privacy Shield Principles. CA Veracode remains liable under the Privacy Shield Principles if third-parties engaged to process personal data on its behalf do so in a manner inconsistent with the Privacy Shield Principles, unless CA Veracode proves that it is not responsible for the event(s) giving rise to the damage.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. 
-
-In compliance with the Privacy Shield Principles, CA Veracode commits to resolve complaints about our collection or use of your personal information.  Note that compliance by CA Veracode with the Privacy Shield Principles will be administered and monitored by the Department of Commerce and will be enforced by the Federal Trade Commission (FTC). EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact CA Veracode at: [cmellin@veracode.com](mailto:mailto:cmellin@veracode.com)
-
-CA Veracode has further committed to refer unresolved Privacy Shield complaints to American Arbitration Association an alternative dispute resolution provider located in the New York, NY. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit <http://go.adr.org/privacyshield.html> for more information or to file a complaint.  The services of American Arbitration Association are provided at no cost to you.  If neither CA Veracode nor the American Arbitration Association resolves your complaint, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel.
-
-**11\. Contact Us**
-
-If you have questions or comments about our use of your information or about this Privacy Policy, please contact us by email at [privacy@veracode.com](mailto:privacy@veracode.com).
-
-**_Copyright Notice_** _. Copyright © 2006-2017 CA Veracode, Inc. All rights reserved._
+EU residents may also lodge a complaint with the data protection authority in the EU member state where they live, work or where an alleged infringement of applicable data protection law occurred.
