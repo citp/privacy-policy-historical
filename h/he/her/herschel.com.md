@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the herschel.com privacy policy that was archived on 2018-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180228041725id_/https%3A//herschel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herschel.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128123352id_/https%3A//herschel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Herschel Supply Company
 
-This Privacy Policy explains Herschel Supply’s and its affiliates’ policies and practices with respect to how we collect and use your personal information. It also describes how we maintain, use, and disclose personal information. All capitalized terms used in this Privacy Policy that are not defined have the meanings assigned to them in our Terms of Use.
+This Privacy Policy explains Herschel Supply’s and its affiliates’ policies and practices with respect to how we collect and use your personal information. It also describes how we maintain, use, and disclose personal information. All capitalized terms used in this Privacy Policy that are not defined have the meanings assigned to them in our Terms of Use.  
+
 
 Herschel Supply Company Ltd. and our affiliated companies control the data collected when you interact with Herschel Supply. Our contact information is found at the end of this policy. Third-party providers engaged by us may also process and store certain data that we collect.
 
