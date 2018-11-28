@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imalimedia.net privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715051502id_/http%3A//www.imalimedia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imalimedia.net privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128103816id_/http%3A//imalimedia.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
