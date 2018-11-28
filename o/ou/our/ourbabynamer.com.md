@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourbabynamer.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528222901id_/http%3A//www.ourbabynamer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourbabynamer.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128191031id_/http%3A//www.ourbabynamer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,4 +16,4 @@ Changes To Our Privacy PolicyThis privacy policy will be updated as necessary. A
 
 Contact UsWe welcome your questions and comments. Please feel free to Contact Us if you have any questions or concerns about this Privacy Policy. 
 
-"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."  [More](https://web.archive.org/baby-picks-this-week.html)
+Bats always turn left when exiting a cave.  [More](https://web.archive.org/baby-picks-this-week.html)
