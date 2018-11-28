@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogdash.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529035505id_/http%3A//www.blogdash.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogdash.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128084325id_/http%3A//www.blogdash.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogger Outreach Program - Hire and Find Bloggers with BlogDash
 
