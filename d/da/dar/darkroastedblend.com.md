@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darkroastedblend.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529213056id_/http%3A//www.darkroastedblend.com/2009/06/dark-roasted-blend-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkroastedblend.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128220325id_/http%3A//www.darkroastedblend.com/2009/06/dark-roasted-blend-privacy-policy.html) for the most accurate reproduction.*
 
 # Dark Roasted Blend: Dark Roasted Blend Privacy Policy
 
@@ -26,7 +26,6 @@ Note: you can always opt-out from targeted advertising by visiting this [link](h
 We reserve the right to change this Privacy Policy from time to time, at our discretion. We encourage visitors to frequently check this page for any changes. If you have any questions or suggestions about this Privacy Policy, please [email us at this address](mailto:abramsv@gmail.com).
 
   
-  
 
 
 **RECENT ARTICLES:**
@@ -39,7 +38,7 @@ We reserve the right to change this Privacy Policy from time to time, at our dis
 
 DRB is a top-ranked and respected source for the best in art, travel and fascinating technology, with a highly visual presentation. Our in-depth articles in many categories make DRB a highly visual online magazine, bringing you quality entertainment every time you open your "feed" reader or visit our site - [About DRB](http://www.darkroastedblend.com/2005/03/welcome.html)
 
-Connect with us and become part of [DRB on Facebook](http://www.facebook.com/DRBlend), [Twitter](http://twitter.com/DRBlend), [Pinterest](http://pinterest.com/aviabrams/), [Instagram](https://www.instagram.com/abrams_drb), [Google Plus](https://plus.google.com/101384666034475384723/posts); make sure to subscribe to our [updates](http://feeds.feedburner.com/TheThrillingWonderStory). 
+Connect with us and become part of [DRB on Facebook](http://www.facebook.com/DRBlend), [Twitter](http://twitter.com/DRBlend), [Pinterest](http://pinterest.com/aviabrams/), [Instagram](https://www.instagram.com/darkroastedblend/), [Google Plus](https://plus.google.com/101384666034475384723/posts); make sure to subscribe to our [updates](http://feeds.feedburner.com/TheThrillingWonderStory). 
 
   
 
