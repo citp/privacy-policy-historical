@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reknew.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119195243id_/http%3A//reknew.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reknew.org privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128133000id_/http%3A//reknew.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Greg Boyd - ReKnew
 
@@ -36,4 +36,4 @@ If you’re worried about your children’s activities or their privacy on our s
 
 **V. CONTACT**
 
-If you have any concerns or questions about any aspect of this policy, [you may contact us here.](http://reknew.org/engage/)
+If you have any concerns or questions about any aspect of this policy, [you may contact us here.](https://reknew.org/engage/)
