@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528220622id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128190436id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dedicated Webserver or Not
 
@@ -48,12 +48,12 @@ Please note that data transmitted via the internet (e.g. via email communication
 
 The party responsible for processing data on this website is:
 
-Mzecl&UKhiciUxFhae _v)WD!=l__ l Pau9]Z=7K]yO`]>l _s;d/H"QTE_  
-PeLbU4\=a _"]1e{[_ u ~~KeV(5LA~~ l _2(C_ Inter ~~,t3wj~~ net _xICz=2Dcf2"_ =KV63U (Ein _rE=_ z _q3!}r'NT!~9T_ e ~~r4^Ed:Xr~~ luj8A=BwjPt2<dnt ~~Qu5sn;w9q~~ e **~wlU"GeFQ** r _aHS^DcWTu1v_ n **%8** ehm ~~RzC~~ e _dRNbT-4b+[3_ r)  
-Am}s}0C|^K Thi ~~0 <j~~el@$bDEwoop04D~yWmg _Elz_ 3CBFGw.1 ~~FLj`U' &UlZ|q~~  
-DE **7 <*w/<k**6R8LZQ77R;1R52 ~~,LHrDP?aB)1~~ 92 ~~gc")~~ Kirc **bqYE'jRj~** h _xf%L &4eBxBP_h ~~v"?oRlr~~ e _a~^=6r}n`=2p_ ixV-ip$:FZ&6mbolan _=fI/$#_ d _exv@Lx_ e _j+a/L3-=":_ n **9gp**  
-Telephone: + ~~=]+V`]pG]~~ 4 _> 0\uiEiRH'c7_96 ~~!?~~ 35 ~~Kjs7)|V/#5~~ 2 _^{IwF#A_ 7RiB650151 _b2G`El0J_ 5  
-Email: p _OrIBUK+3_ r ~~Oe.~~ im^/MdL<P[VEevac ~~gM#9d=G~~ y _OB_ @ _h{Qc_ pa _$5qaaGAKF}tr_ ulint _bx]_ e"?4j#@q,2nDlrn,#h3%n)C>2cet _"r_.h%jc _j~.X=*@H,28__ o ~~j >hwd6<~~m ~~8LoAi1R,),~~
+Mic-0#@2|i{ha **j1WTV=** el ~~nSzp7 '8I~~ P **< |m,M9**aH\S5ku}c</?pl  
+P _6r5\_ au ~~^BYMqsZ~~ l _$}k3Tkq${tGQ_ In _VV(:N126*ew_ te __S_ r ~~TH2~~ n ~~+V~~ e _(D%TZ"_ t (E **cUNT.vRzm\\(c** inz _9LVM_ elC1)?zo2z4un4SLzttU=@$hRe _w=P <_r _F-?rqW7`~g_ n _~OW(/ i_ ehme _K,kE'_ r)  
+Am ~~^}~~ ThEt,ZN:k?-]i _xg}[JN?npo_ el{U;0ZzbQ8(2wo _I{~nV!/CNG_ og=1 _.b$JbJ18_ 31 _vRzYk^_$F_  
+DE _oh3 >_ 67292 Kirc!Y+=o=Ew|hh ~~C5UM`_ <~~ei ~~RojwB6\L+M~~ mbo ~~DT[39t$7k~~ lan **Q8C$** de **?" <9-4exo**n  
+Telephone: + _O__ 496 _g+.u_ 3g(75 _& Q0zQR1_2 _"h_ 7,/ZNv,|156k015~ud{a)! 1 ~~f\%sT5|PY~~ 5  
+Email: p _([!^F 5~y7_ riva **[z8** cy@ _N`g=7Zi <77@s_p _K6?Pm_ au ~~zA9~~ linte ~~rfTn9B}f~~ rne _& \xo[uBB_t **eeF2**. **FtqW="k7E** com ~~YD]d~~
 
 The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (names, email addresses, etc.).
 
