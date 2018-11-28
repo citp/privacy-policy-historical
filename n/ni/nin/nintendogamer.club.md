@@ -1,106 +1,113 @@
-> *The following text is extracted and transformed from the nintendogamer.club privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528095736id_/http%3A//nintendogamer.club/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendogamer.club privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128050959id_/http%3A//nintendogamer.club/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Last updated on 12/20/2017._
+_Date: 21th May 2018_
 
-This Privacy Policy governs the manner in which we collect, use, maintain, and disclose information collected from users of our website.
+_Version number: 2.0_
 
-### Information We Automatically Collect
+Your privacy is important to us, and so is being transparent about how we collect, use, and share information about you.  
+We will NEVER sell your personal data to anyone.
 
-We automatically collect certain information to help us understand how our users use the Services (which we will refer to in this Privacy Policy collectively as "Usage Data"). For example, each time you visit the Services we may automatically collect your IP address, browser and computer type, access time, the Web page you came from, the URL you go to next, and the Web page(s) that you access during your visit.
+NintendoGamer enables the visitors of its site, nintendogamer.club, to be in control of their personal data. We also provide controls that allow NintendoGamer users to have control over the privacy of personal data that is captured by our service. This Privacy Policy provides information about how NintendoGamer processes and protects this data.
 
-We will use such Usage Data to diagnose problems with our servers and software, to administer the Services, and to gather demographic information. Our third-party advertising networks and servers will also provide us reports that will tell us how many ads were presented and clicked on the Services in a manner that does not identify personally any individual.
+We never sell personal data and we carry out all processing operations in strict compliance with the EU General Data Protection Regulation (“ **GDPR** ”) (specifically but not limited to Article 6(1)(b) to (f) and Article 28).
 
-### Information You Choose To Submit
+For the purpose of this Privacy Policy, personal data means any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier etc. (the “ **Personal Data** ”).
 
-You can use NintendoGamer.Club without telling us who you are or revealing any information by which someone could personally identify you (which we will refer to in this Privacy Policy collectively as "Personal Information"). If, however, you wish to register to become a member of the Services, you are required to provide certain Personal Information (e.g., your name and e-mail address), and we ask that you also provide a user name and password. We use your Personal Information to fulfill your requests for products and services, to improve our Services, and to contact you from time to time about us, and our products and services.
+In this policy, "we", "us", “NintendoGamer” and "our" refer to John Steplake.
 
-You may also choose to submit additional information about yourself (for example your gender, birth date, or zip code) by which someone could not personally identify you (which we will refer to in this Privacy Policy collectively as "Non-Personal Information"). We may also collect additional information about you when you visit certain features of the Services or the pages of certain of our partners when you interact with offers and advertisements, when you contact us for support, when you log into the Services with your account, when you complete a survey, or when you enter promotions. Finally, you may choose to submit your alias, bio, email, photos or any other information that you would like to share with other users of the Services (which we will refer to in this Privacy Policy collectively as 'shared Information").
+Responsibility for Processing Personal Data
 
-### Our Information Sharing Practices
+NintendoGamer bears responsibility for lawfully processing your data as carried out on our site.
 
-Except as otherwise described in this section of our Privacy Policy, we will never share your Usage Data, Personal Information, Non-Personal Information, or Shared Information (which we will refer to in this Privacy Policy collectively as "User Information") with any third party without your permission.
+## What kind of Personal Data is processed and for what purpose?
 
-From time to time, we may share your Usage Data and Non-Personal Information to enable third parties who serve advertisements on the Services to deliver advertisements that will be relevant to you. We will not share any such information, however, in a manner that would enable the advertiser to personally identify you.
+### Usage Data
 
-Notwithstanding anything in this Privacy Policy to the contrary, we reserve the right, and you hereby expressly authorize us, to share any User Information:
+When you visit our site we store the name of your internet service provider, the website from which you visited us from, HTTP Refferers, the parts of our site you visit, the date and duration of your visit, and information from the device (device type, operating system, screen resolution, language, country you are located in, and web browser type) you used during your visit, URLs of referring/exit pages, your IP address. We use your IP address and/or country preference in order to approximate your location to provide you with a better service experience. 
 
-  1.  In response to subpoenas, court orders, or legal process, or to establish, protect, or exercise our legal rights or defend against legal claims;
-  2. If we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person or property;
-  3. If we believe it is necessary to investigate, prevent, or take action regarding significant abuse of the Services" infrastructure or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of information);
-  4. To our parent company, subsidiaries, joint ventures, or other companies under common control with us (in which case we will require such entities to honor this Privacy Policy); and
-  5. If we are acquired by or merged with another entity.
+We process this usage data to facilitate your access to our services (e.g. to adjust our services to the device you are using), and to recognize and stop any misuse. We also process usage data in an anonymized form for statistical purposes and to improve our site.
 
+We collect, use and share Aggregated Data such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice.
 
-
-### Public Information
-
-If you identify any User Information as public, you are authorizing us to share such information publicly. For example, you may elect to make certain Shared Information (such as your alias, bio, email or photos) publicly available. Also, there may be areas of the Services (e.g., message boards, discussion rooms, and other online forums) in which you are able to post information that will be available to all other users of the Services. By choosing to use these areas, you understand and agree that anyone may access, use, and disclose any information that you post to those areas.
+The legal basis for this processing is your consent and our legitimate interests, as monitoring and improving our website and services.
 
 ### Cookies
 
-We may set and access cookies on your computer. Upon your first visit to the Services, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer and stored on your hard drive when you visit a website. Many major Web services use cookies to provide useful features for their users. Each web site can send its own cookie to your browser. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent; however if you reject cookies, you will not be able to sign in to the Services or take full advantage of our Services.
+NintendoGamer uses cookies to process information including standard internet log information, user ID of the visitor if he/she is a registered user, details of the visitor’s behavioral patterns upon visiting our site. This is done to provide you with a better experience, ensuring the security of our website and services, marketing purposes and to facilitate the use of certain functions. Cookies are small data files transferred onto computers or devices by sites for record-keeping purposes and to enhance functionality on our site.
 
-We use cookies for the following general purposes:
+To realize our legal interest to control the load on site, ensure site quality and speed,  we may collect anonymized statistical infоrmation collected by Universal Analytics cookies.
 
-  1. To track your preferences, such as the address or local zip code you enter;
-  2. To access your information when you sign in so we can provide you with your personalized content;
-  3. To display the most appropriate advertisements, based on your interests and activity on our Services; and
-  4. To help us improve the Services by analyzing and estimating our traffic and use of features on the Services.
+Cookies are stored on your individual device and you have full control over their use. You may deactivate or restrict the transmission of cookies by changing the settings of your web browser. Cookies that are already stored may be deleted at any time by appealing to our support team - support@nintendogamer.club. Should you visit NintendoGamer site with cookies deactivated, you may possibly not be able to use all of the functions on our site to the full extent. You will not be able to opt-out of any cookies or other technologies that are “strictly necessary” for the functioning of our website and services.
+
+### Contact with us 
+
+On our site you have the opportunity to contact us to ask us questions, for example via the contact form or via online-chat, we ask you for your contact information (e.g. name, email address etc.), a summary of the problem you are experiencing, and any other documentation, screenshots or information that would be helpful in resolving the issue. We use this data in connection with answering the queries we receive. 
+
+If you receive emails from us, we may use certain analytics tools, to capture data such as when you open our email or click on any links or banners our email contains. This data helps us to gauge the effectiveness of our communications and marketing campaigns. 
+
+On our site it is also possible to request a personalized demo for discovering all features and possibilities of our service, In that case we ask you for your contact information such as name, email and your company name. We use this data in connection with responding your demo requests. Through the demo you may also share with us your personal information that we may use during the demo and later for the purpose of improving the level of our services and other marketing purposes.
+
+Information we receive from other sources  
+We receive information about you and your activities on and off the NintendoGamer from third-party partners, such as advertising and market research partners who provide us with information about your interest in, and engagement with, our Services and online advertisements.
+
+### Access and Disclosure to Third Parties
+
+We use a select number of trusted external service providers for certain technical data analysis, processing and/or storage offerings etc. For example, we use a variety of third-party services to help operate our services, such as hosting our blog and websites, to help us understand the use of our services, such as Google Analytics or Google Tag Manager. We may share your personal data with such service providers subject to obligations consistent with this Privacy Policy and any other appropriate confidentiality and security measures, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions. 
+
+We may also disclose your data to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy.
+
+We will only pass your data on to third parties without your express consent if we are obliged to do so by statutory law or an instruction by court.
+
+### We want to Communicate with You
+
+We may occasionally send you notification emails about updates to our product, legal documents, offer customer support or marketing emails. Except for cases where we are required to do so by law (e.g. notifying you of a data breach), you shall have the opportunity to unsubscribe from receiving these messages free of charge.
+
+### SPAM protection
+
+Google reCAPTCHA (Google Inc.) analyzes the traffic of this website, potentially containing Users' Personal Data, with the purpose of filtering it from parts of traffic, messages and content that are recognized as SPAM.
+
+### Legal bases for processing
+
+We collect and process information about you only where we have legal bases for doing so under applicable EU laws. The legal bases depend on how you use NintendoGamer services. This means we collect and use your information only where:
+
+  * We need it to provide you NintendoGamer, including to operate it, provide customer support and personalized features and to protect the safety and security of our service;
+  * It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote NintendoGamer and to protect our legal rights and interests;
+  * You give us consent to do so for a specific purpose; or
+  * We need to process your data to comply with a legal obligation.
 
 
 
-We may also use "pixel tags," which are small graphic files that allow us to monitor the use of the Services. A pixel tag can collect information such as the IP address of the computer that downloaded the page on which the tag appears; the URL of the page on which the pixel tag appears; the time (and length of time) the page containing the pixel tag was viewed; the type of browser that retrieved the pixel tag; and the identification number of any cookie previously placed by that server on your computer.
+### Your Data, Your Rights
 
-We may use pixel tags, either provided by us or by our third-party advertisers and ad networks, to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and Services and use them in combination with our cookies to provide offers and information of interest to you.
+You have a right to be informed of Personal Data processed by NintendoGamer, a right to rectification/correction, erasure and restriction of processing. You also have the right to receive from us a structured, common and machine-readable format of Personal Data you provided to us.
 
-We also may allow certain analytic services and providers of applications used on the Services (e.g., sharing buttons) to collect Non-Personally Identifiable information by placing cookies on the Services that will track certain performance of our Services, such as, web traffic, click-throughs, etc., in order to assist us and our service providers in better understanding the interests of our users and to better serve those interests.
+We can only identify you via your email address and we can only adhere to your request and provide information if we have Personal Data about you through you having made contact with us directly and/or you using our site and/or service. We cannot provide, rectify or delete any data that we store on behalf of our users or customers.
 
-### Advertising
+You can exercise any of the rights mentioned in this Privacy Policy in your Account and/or by contact with NintendoGamer’s support team: support@nintendogamer.club. In the event of questions or comments relating to the use of Personal Data you may also contact NintendoGamer’s support team: support@nintendogamer.club.
 
-We may use other companies under agreements with us to serve advertisements when you visit and use the Services. These companies may collect and use click stream information, browser type, time and date, subject of advertisements clicked or scrolled over during your visits to the Services and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie, a third party web beacon, and/or pixel tags to collect this information. None of them collect any personal information from your computer, such as your e-mail address. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to our cookies.
+Where you have provided consent, you may withdraw it at any time, without affecting the lawfulness of the processing that was carried out prior to withdrawing it. Whenever you withdraw consent, you acknowledge and accept that this may have a negative influence on the quality of the NintendoGamer Site and/or Services. You further agree that NintendoGamer shall not be held liable with respect to any loss and/or damage to your Personal Data if you choose to withdraw consent.
 
-### Targeted Advertising
+In addition, you have the right to lodge a complaint with the data protection authority in your jurisdiction.
 
-In order to serve offers and advertisements that may be of interest to our users, we may display targeted advertisements on the Services based on Personal Information provided by our users, including zip-code and profile. We do not provide this Personal Information to our advertisers when you interact with such an advertisement. However, please note that the advertisers (including ad serving companies) may determine based on their own analysis that a user who interacts with an advertisement targeted by us may fit into a certain demographic category.
+### Duration of Processing
 
-### Mobile
+We will store your usage data usually for five years or until such time when you withdraw your consent for us to do so.  All other data as specified above will be retained for as long as is necessary for the purpose(s) for which we originally collected it. We may also retain information as required by law.
 
-We may from time to time offer certain location or pinpoint based services with our applications (such as, GPS assisted navigation instruction, wireless tower location, triangulation or other available location technologies). If you elect to use such location based services, we must periodically receive your location in order to provide such location-based services to you. By using the applications" location based services, you authorize us to:
+### Revisions to this Privacy Policy
 
-  1. Locate your hardware;
-  2. Record, compile and display your location; and
-  3. Publish your location to third parties designated by you by means of location publication controls available within the applications (e.g., settings, user preferences).
+We may revise this Privacy Policy from time to time. The most current version of this Privacy Policy will govern our practices for collecting, processing, and disclosing personal data. We will provide notice of any modifications by posting a written notice on our site.
 
+Your use of the site and/or Services following the effective date of any modifications to the Privacy Policy will constitute your acceptance of the Privacy Policy, as modified. All changes to this Privacy Policy automatically take effect on the sooner of the day you use the site and/or services, or 30 calendar days after they are initially posted on our site. Your use of the site and/or services following the effective date of any modifications to this Privacy Policy will constitute your acceptance of the Privacy Policy, as modified.
 
+**Contact Details:** **  
+**Name: John Steplake
 
-As part of the applications, we may also collect and store certain information about our users, such as, users' wireless mobile subscriber ISDN and/or IMEI numbers (as applicable) and users' network access identifier information. This information will be used to provide you the services accessed through our applications. We may use third party providers to help provide services through mobile systems and such providers may use the information in accordance with our Privacy Policy.
+Contact email address: j.steplake@nintendogamer.club  
+  
+ **Contact Details of EU Representative:**
 
-### Choice/Opt-Out
+Name: Zoe Atkinson
 
-We offer you the opportunity to choose not to receive communications from us. If you would like to take advantage of this opportunity, please let us know by accessing and updating your profile. Please note that sometimes these requests may take up to ten business days to process and that we are not responsible for removing information about you from the database of any third party to whom we were authorized to disclose your User Information prior to processing your request. Even if you do take advantage of this opportunity, we reserve the right to send you administrative messages relating to the Services (e.g., about changes to this Privacy Policy) and to contact you regarding any goods or services you have ordered.
-
-### Modifying and Deleting Your Personal Information
-
-If you would like to modify or delete from our database any User Information you previously submitted to us, please let us know by accessing and updating your profile. Please note that any User Information that we have copied may remain in back-up storage for some period of time after your request and that if you delete certain information you may not be able to order services in the future without re-submitting such information. Also, please note that we will maintain User Information in our database whenever we are required to do so by law.
-
-### Security
-
-We have implemented reasonable measures to help protect your User Information from loss, misuse, or unauthorized access or disclosure. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your User Information, we cannot guarantee its security.
-
-### Links
-
-The Services may contain links to other websites. We are not responsible for the privacy practices of any such other website and urge you to review such practices prior to submitting any information to such websites.
-
-### Children Privacy
-
-We are committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. The Services are not intended for and may not be used by children under the age of 13. We do not knowingly collect information from children under the age of 13 and we do not target the Services to children under the age of 13.
-
-### Changes
-
-We may update this Privacy Policy from time to time. If under any such update we make any material change to the way in which we treat your User Information, we will inform you of such change via email or by posting a notice on relevant areas of the Services. Any updated version of this Privacy Policy will be effective as of the date set forth therein.
-
-### Questions
-
-If you have any questions about this Privacy Policy, please feel free to contact us by email at support@nintendogamer.club.
+Contact email address: z.atkinson@nintendogamer.club
