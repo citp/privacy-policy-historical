@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runningmagazine.ca privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202101934id_/https%3A//runningmagazine.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runningmagazine.ca privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128042951id_/https%3A//runningmagazine.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Canadian Running Magazine
 
