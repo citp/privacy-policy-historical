@@ -1,43 +1,83 @@
-> *The following text is extracted and transformed from the australianwomenonline.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430082148id_/http%3A//australianwomenonline.com/about-australian-women-online/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianwomenonline.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128033232id_/http%3A//australianwomenonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Australian Women Online
 
-Australian Women Online operates the websites australianwomenonline.com and australianwomenonline.com.au. It is Australian Women Online’s policy to respect your privacy regarding any information we may collect while operating our websites.
+## Who we are
 
-**Website Visitors**  
-Like most website operators, Australian Women Online collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Australian Women Online’s purpose in collecting non-personally identifying information is to better understand how Australian Women Online’s visitors use its website. From time to time, Australian Women Online may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Our website address is: http://australianwomenonline.com.
 
-Australian Women Online also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Australian Women Online does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+## What personal data we collect and why we collect it
 
-**Gathering of Personally-Identifying Information**  
-Certain visitors to Australian Women Online’s websites choose to interact with Australian Women Online in ways that require Australian Women Online to gather personally-identifying information. The amount and type of information that Australian Women Online gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at australianwomenonline.com/community (”AWO Connect”) to provide a username and email address. Those who engage in transactions with Australian Women Online are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Australian Women Online collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Australian Women Online. Australian Women Online does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+### Comments
 
-**Aggregated Statistics**  
-Australian Women Online may collect statistics about the behavior of visitors to its websites. For instance, Australian Women Online may monitor the most popular blogs on the AWO Connect site. Australian Women Online may display this information publicly or provide it to others. However, Australian Women Online does not disclose personally-identifying information other than as described below.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-**Protection of Certain Personally-Identifying Information**  
-Australian Women Online discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Australian Women Online’s behalf or to provide services available at Australian Women Online’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Australian Women Online’s websites, you consent to the transfer of such information to them. Australian Women Online will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Australian Women Online discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Australian Women Online believes in good faith that disclosure is reasonably necessary to protect the property or rights of Australian Women Online, third parties or the public at large. If you are a registered user of an Australian Women Online website and have supplied your email address, Australian Women Online may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Australian Women Online and our products. We primarily use our website to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Australian Women Online takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+An anonymised string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: <https://automattic.com/privacy/>. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-**Cookies**  
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Australian Women Online uses cookies to help Australian Women Online identify and track visitors, their usage of Australian Women Online website, and their website access preferences. Australian Women Online visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Australian Women Online’s websites, with the drawback that certain features of Australian Women Online’s websites may not function properly without the aid of cookies.
+### Media
 
-**Ads**  
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Australian Women Online and does not cover the use of cookies by any advertisers.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-**Comments**  
-Comments and other content submitted to our anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
+### Contact forms
 
-**Privacy Policy Changes**  
-Although most changes are likely to be minor, Australian Women Online may change its Privacy Policy from time to time, and in Australian Women Online’s sole discretion. Australian Women Online encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have an AWO Account account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+### Cookies
 
-_The above has been adapted from the Privacy Policy on the WordPress.com website which has been made available to Australian Women Online under a Creative Commons Sharealike license._
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-**CONTACT US**  
-Australian Women Online  
-Suite F, Level 1  
-Octagon  
-110 George Street  
-Parramatta, NSW 2150 Australia
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-Telephone: +61 2 9615 9603  
-Email: Please use contact form below
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+We use Google Analytics to track visitors to our website. Google Analytics mainly uses first-party cookies to report on visitor interactions on this website. Users may disable cookies or delete any individual cookie. Learn how Google uses cookies at <https://policies.google.com/technologies/cookies>
+
+Google Analytics also supports an optional browser add-on that – once installed and enabled – disables measurement by Google Analytics for any site a user visits. Note that this add-on only disables Google Analytics measurement.
+
+Our website uses Google Analytics with the Google Advertising product, AdWords, and therefore, additional advertising identifiers may be collected. Visitors to this website can opt-out of this feature and manage their settings for this cookie using the [Google Ads Settings](http://www.google.com/settings/ads/onweb/). 
+
+Google Analytics also collects Internet Protocol (IP) addresses to provide and protect the security of the service, and to give website owners a sense of which country, state, or city in the world their users come from (also known as “IP geolocation”). Google Analytics provides a method to mask IPs that are collected but note that website owners have access to their users’ IP addresses even if the website owners do not use Google Analytics.
+
+For more information read the Google Privacy Policy <https://policies.google.com/privacy?hl=en>
+
+## Who we share your data with
+
+Our website does not share the data you provide in the comments section of this website (name, email address etc.) with any third-party.
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognise and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can request to see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Our contact information
+
+## Additional information
+
+This website uses cookies including third party cookies for advertising purposes. By using this website you consent to the use of these cookies on advertising banners and text links.
+
+### How we protect your data
+
+To protect your data, for the time being we no longer offer visitors to this website the option of submitting a comment on our web pages. However, you can submit a comment on a social media accounts: Twitter; Facebook; Linkedin; Pinterest; and Google+
+
+### Industry regulatory disclosure requirements
+
+As you may be aware there is new data and privacy legislation coming into effect in Europe on 25th May 2018: GDPR (General Data Protection Regulation). While this legislation has been set in Europe, there are still potential ramifications for Australian websites that receive traffic from Europe and for this reason, we updated our privacy policy on 19th May 2018. 
+
+More information on GDPR can be found at <http://www.privacy-regulation.eu/en/>
