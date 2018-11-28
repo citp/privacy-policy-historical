@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paksmile.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529201137id_/http%3A//www.paksmile.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paksmile.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128072058id_/http%3A//paksmile.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Our Privacy Policy - PakSmile.com
 
