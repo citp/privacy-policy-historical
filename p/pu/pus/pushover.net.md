@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pushover.net privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211183703id_/https%3A//pushover.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushover.net privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128123825id_/https%3A//pushover.net/privacy) for the most accurate reproduction.*
 
 # Pushover: Privacy Policy
 
@@ -36,8 +36,17 @@ Superblock ("we") collect the e-mail addresses of those who communicate with us 
 
 
 
-For the latest information regarding warrants, searches, and seizures affecting Pushover or its users, please see our [transparency report](https://web.archive.org/canary.asc). 
+We share certain information with companies that may be considered our "sub-processors" under EU GDPR: 
 
+Company | Purpose  
+---|---  
+Apple Inc. | Notification Transport, In-App Purchases  
+Google LLC | Notification Transport, In-App Purchases  
+LeaseWeb USA, Inc. | Dedicated Server Hosting  
+Stripe, Inc. | Credit Card Processing  
+Tarsnap, Inc. | Encrypted Backups  
+Twilio, Inc. | SMS Delivery  
+  
 ### Children
 
 Superblock does not ask for or collect personal information from anyone under the age of 13. We also do not allow registration of such persons. If we find that such a person has registered and submitted information, we will delete the information and deactivate any associated accounts immediately. 
@@ -52,7 +61,7 @@ We use cookies to record current session information while logged in, but do not
 
 ### Data Storage
 
-Superblock uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Superblock. 
+Superblock uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Pushover. 
 
 Credit Card and related transaction information, if any, is stored and processed with an off-site fully PCI-compliant third party vendor. 
 
@@ -60,7 +69,7 @@ Credit Card and related transaction information, if any, is stored and processed
 
 If you would like to cancel your Pushover account, you may do so by logging into your Pushover account, visiting the Settings header, then clicking on "Delete Account" in the upper right corner. 
 
-When you request cancellation of your account, your personally identifiable information will be marked for deletion including but not limited your e-mail address, name, user token, device identifiers, and any messages delivered to your devices that have not been deleted from our servers. This data will be permanently deleted from our database after 30 days. Archival copies of your account information that exist within our back-up system will be deleted in accordance with our normal back-up expiration schedule. 
+When you request cancellation of your account, your personally identifiable information will be marked for deletion including but not limited your e-mail address, name, user token, device identifiers, and any messages delivered to your devices that have not yet been deleted from our servers. This data will be permanently deleted from our database after 30 days. Archival copies of your account information that exist within our back-up system will be deleted in accordance with our normal back-up expiration schedule. 
 
 ### Disclosure
 
@@ -74,7 +83,9 @@ Superblock may update this policy. We will notify you about significant changes 
 
 Any questions about this Privacy Policy should be addressed by e-mail to _support at pushover.net_. 
 
-This policy was last updated on November 2, 2016 to clarify that third parties we do not disclose information to includes persons and companies, not just organizations, and that the prohibition applies to commercial and non-commercial purposes. 
+This policy was last updated on May 24, 2018 to explicitly list companies that may be considered sub-processors under EU GDPR regulations. 
+
+This policy was previously updated on November 2, 2016 to clarify that third parties we do not disclose information to includes persons and companies, not just organizations, and that the prohibition applies to commercial and non-commercial purposes. 
 
 This policy was previously updated on January 27, 2014 to reflect the application and device version information that is collected. 
 
