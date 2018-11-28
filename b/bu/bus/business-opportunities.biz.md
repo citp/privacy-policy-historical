@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the business-opportunities.biz privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529034230id_/http%3A//www.business-opportunities.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-opportunities.biz privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128083136id_/http%3A//www.business-opportunities.biz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This privacy policy describes how Business-Opportunities.biz owned and operated by Dig Deep Investments, LLC collects and uses the personal information you provide on our Web site: Business-Opportunities.biz. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Business-Opportunities.biz has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through these websites Business-Opportunities.biz. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Business-Opportunities.biz.
+Business-Opportunities.biz has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through these websites Business-Opportunities.biz. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@ Business-Opportunities.biz.
 
 * * *
 
@@ -45,7 +45,7 @@ We may combine this automatically collected log information with other informati
 
 ### Choice/Opt-Out
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at info@Business-Opportunities.biz
 
 ### Information Obtained from Third Parties
 
@@ -66,7 +66,7 @@ We may also disclose your personal information
 
 
 
-We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at info@Business-Opportunities.biz.
 
 ### Tracking Technologies
 
@@ -88,7 +88,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about security on our Web site, you can contact us at info@Business-Opportunities.biz
 
 ### Additional Policy Information
 
@@ -96,11 +96,11 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 You can log in to our site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at info@Business-Opportunities.biz. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at info@Business-Opportunities.biz.
 
-**Data Retention:** We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+ **Data Retention:** We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@Business-Opportunities.biz. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Updating Your Personal Information
 
@@ -110,8 +110,8 @@ Please note that users can not update or delete previously submitted information
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-**Business-Opportunities.biz**  
+ **Business-Opportunities.biz**  
 1627 W. Main #298  
 Bozeman, MT 59715  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+Email: laurie@BusinessOpportunities.biz  
 Phone: (406)581-2015
