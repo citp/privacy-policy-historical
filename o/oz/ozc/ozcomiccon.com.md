@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ozcomiccon.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530111946id_/http%3A//ozcomiccon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozcomiccon.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128163142id_/http%3A//ozcomiccon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Oz Comic-Con Oz Comic-Con
+# Privacy Policy | Oz Comic-Con Oz Comic-Con
 
 ### REED EXHIBITIONS – PRIVACY POLICY
 
@@ -67,3 +67,5 @@ If you have a concern about your privacy or a query on how your personal informa
 My Event Planner / Buyer’s Guide is designed to ensure visitors and exhibitors maximise the experience and opportunities by creating points of online connection. To ensure the integrity of My Event Planner/ Buyer’s Guide the Organiser conducts regular reviews and reserves the right to remove anyone not using the tool for this purpose. Where warranted the Organiser may take further action; including charging, at the discretion of the Organiser, administration fees and or penalties up to $5,000 for breaches. This includes the promotion of goods and or services by a non exhibitor. Use of My Event Planner / Buyer’s Guide constitutes acceptance of this condition.
 
 The Organiser takes its responsibility to the visitor and exhibitor seriously and anyone concerned over the use of My Event Planner/ Buyer’s Guide by a visitor or exhibitor should report their concern to the Administrator on ebusiness@reedexhibitions.com.au.
+
+RELX Group and the RE symbol are trade marks of RELX Group plc, used under license.
