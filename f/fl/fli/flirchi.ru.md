@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirchi.ru privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531182346id_/http%3A//flirchi.ru/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirchi.ru privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128033330id_/http%3A//flirchi.ru/privacypolicy) for the most accurate reproduction.*
 
 # Флирчи – dating website! Communication without limits
 
