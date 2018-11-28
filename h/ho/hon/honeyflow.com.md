@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the honeyflow.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121180136id_/https%3A//www.honeyflow.com/extras/privacy-policy/p/8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeyflow.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128184127id_/https%3A//www.honeyflow.com/extras/privacy-policy/p/8) for the most accurate reproduction.*
 
-# BeeInventive's Privacy Policy - Flow Hive - Flow
+# BeeInventive's Privacy Policy - Flow Hive
 
-_Last updated: February 10th 2017_
+_Last updated: 24 May 2018_
 
-BeeInventive Pty Ltd  ACN: 161 952 941 (operator and licensee of the Flow brand, subsequently referred to as “we”) is subject to current Australian privacy legislation. We believe that the compliance with the Australian privacy legislation makes us also compliant with the EU and the US data and privacy protection rules. 
+BeeInventive Pty Ltd  ACN: 161 952 941 (operator and licensee of the Flow brand, subsequently referred to as “we”) is subject to current Australian privacy legislation. We believe that the compliance with the Australian privacy legislation also makes us compliant with US data and privacy protection rules. You can read our Privacy Policy and Cookies Notice for our European Economic Area customers on our EU [website](https://eu.honeyflow.com/). 
 
 We fully respect the confidentiality of your information and take your privacy very seriously. In line with applicable legislation we explain in this privacy policy
 
