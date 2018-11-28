@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the represent.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313115038id_/https%3A//represent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the represent.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128110141id_/https%3A//represent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Represent
 
-_Last updated on July 03, 2017_
+_Last updated on May 28, 2018_
 
-Represent Holdings, LLC (“Represent”, “we”, “our” or “us”) understands that privacy is important to our website users and customers. This Privacy Policy sets out how we will collect and use the personal information you provide to us while using the website located at www.represent.com (“Site”) and/or the services provided from it (“Services”). This Privacy Policy applies solely to the Site and Services. It does not apply to any other site, product or service of Represent, its affiliates, third party sellers, or customers.
+Represent Holdings, LLC (“Represent”, “we”, “our” or “us”) understands that privacy is important to our website users and customers. This Privacy Policy sets out how we will collect and use the personal information you provide to us while using the website located at www.represent.com (the “Site”) and/or the services provided from it (the “Services”). This Privacy Policy applies solely to the Site and the Services. It does not apply to any other site, product or service of Represent, its affiliates, third party sellers, or customers.
 
 By accessing or using the Site, you are deemed to accept the terms of this Privacy Policy. If you do not agree to this Privacy Policy, you may not access or otherwise use the Site or Services. We reserve the right, at our discretion, to change, modify, add or remove portions of this Privacy Policy from time to time and such changes shall be posted on the Site. We encourage you to periodically review the Site for the latest information on our privacy practices.
 
@@ -12,7 +12,7 @@ The Site, together with all its content, is owned or controlled by Represent Hol
 
 ## PERSONALLY IDENTIFIABLE INFORMATION THAT WE COLLECT
 
-To provide the Site and the Services, we may collect and process certain personal information that you voluntarily submit to us, such as through our contact pages, by email, by seeking employment with us, by creating an account on the Site, by making purchases on the Site or some other means. We take care to keep this information secure and prevent any unauthorized access or unlawful use of it as described in the “Security and Data Retention” section below.
+To provide the Site and the Services, we may collect and process certain personal information that you voluntarily submit to us, such as through our contact pages, by email, by seeking employment with us, by creating an account on the Site, by making purchases on the Site or some other means. We take care to keep this information secure and prevent any unauthorized access or unlawful use of it as described in the “Security” section below.
 
 The personal information you may provide to us could include your name, address, date of birth, gender, email addresses and/or mobile phone numbers, and financial information such as credit/debit card numbers.
 
@@ -32,6 +32,8 @@ In addition, we may use your personal information:
   * To fulfill any other purpose for which you provide it.
   * To provide you with notices about your account, including expiration and renewal notices.
   * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To create profiles to help us analyze or predict your personal preferences or interests for marketing purposes.
+  * To save and identify your product designs on the Site.
 
 
 
@@ -50,7 +52,7 @@ We may disclose your personal information:
   * To our subsidiaries and affiliates.
   * To contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
   * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Represent's assets, whether as a going concern or as part of a bankruptcy, liquidation, or similar proceeding, in which personal information held by Represent about our users is among the assets transferred.
-  * To the organizers of a Represent campaign and other third parties, to allow them to market their products or services to you if you have not opted out of these disclosures. We contractually require these third parties to keep your personal information confidential and use it only for the purposes for which we disclose it to them. For more information, see the “Opt-Out Process” section below.
+  * Subject to applicable laws, to the organizers of a Represent campaign and other third parties, to allow them to market their products or services to you if you have not opted out of these disclosures. We contractually require these third parties to keep your personal information confidential and use it only for the purposes for which we disclose it to them. For more information, see the “Opt-Out Process” section below.
   * To fulfill any purpose for which you provide it.
   * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
   * To enforce or apply our contract terms and conditions, including for billing and collection purposes.
@@ -60,7 +62,7 @@ We may disclose your personal information:
 
 ## INTEREST BASED ADVERTISING
 
-Please note that we may ourselves or through a third party vendor use non-personally identifiable information in connection with our own or vendor information to display or deliver targeted advertising to you on our Site and to manage our advertising on other sites. Cookies, clickstream data, web beacons and other similar technologies may be used to collect information in order to provide personalized advertising. For example, if you are searching for information on a particular product, we or our vendor may cause an advertisement to appear on other websites you view with information on that product. This form of advertising, sometimes called “interest based advertising,” is based on anonymous information and not on any personal information. As a result, we and our vendor know your interests, but do not personally identify you in connection with the delivery of that specific ad. We believe that such advertising is helpful because you will see advertisements that are relevant to your interests. However, if you would like to opt-out of these interest-based advertisements, please follow the opt-out process described below under “Interest Based Advertising Opt-Out.”
+We may directly or through a third party vendor use non-personally identifiable information in connection with our own or our vendors’ information to display or deliver targeted advertising to you on our Site and to manage our advertising on other sites. Cookies, clickstream data, web beacons and other similar technologies may be used to collect information in order to provide personalized advertising. For example, if you are searching for information on a particular product, we or our vendors may cause an advertisement to appear on other websites you view with information on that product. This form of advertising, sometimes called “interest based advertising,” is based on anonymous information and not on any personal information. As a result, we and our vendors know your interests, but do not personally identify you in connection with the delivery of that specific ad. We believe that such advertising is helpful because you will see advertisements that are relevant to your interests. However, if you would like to opt-out of these interest-based advertisements, please follow the opt-out process described below under “Interest Based Advertising Opt-Out.”
 
 ## COOKIES
 
@@ -70,9 +72,13 @@ We may place small data files on your device or device hard drive known as “co
 
 As you use the Internet, a trail of electronic information is left at each website you visit. This information, which is sometimes referred to as “clickstream data,” can be collected and stored by a website’s server. Clickstream data can tell us the type of device and browsing software you use and the address of the website from which you linked to the Site. We may collect and use clickstream data to anonymously determine how much time visitors spend on websites, how visitors navigate throughout websites and how we may tailor our Site to better meet consumer needs. This information will be used to improve our Site and our Services. Any collection or use of clickstream data will be anonymous, and will not intentionally contain any personal data.
 
-## SECURITY AND DATA RETENTION
+## SECURITY
 
-We have implemented appropriate technical and organizational measures to protect your personal information against accidental or unlawful destruction, loss or alteration and unauthorized disclosure or access. However, due to the inherent open nature of the Internet, we cannot ensure or warrant the security of any information provided online. We retain your personal information, if provided by you through the Site, for as long as your inquiry is active (as determined by us) and for a reasonable time thereafter, or if applicable, for as long as you remain on our marketing list. We also may retain your personal information for a longer period of time as needed to provide our Services to you or as necessary to comply with our legal obligations, to resolve disputes, and to enforce our agreements. Even if we delete some or all of your personal information, we may continue to retain and use aggregate or anonymous data previously collected and/or anonymize or aggregate your personal information. Please note that we will not be liable for disclosures of your data due to errors or unauthorized acts of third parties.
+We have implemented technical and organizational measures, appropriate to the risk, to protect your personal information against accidental or unlawful destruction, loss or alteration and unauthorized disclosure or access. However, due to the inherent open nature of the Internet, we cannot ensure or warrant the security of any information provided online.
+
+## DATA RETENTION
+
+We retain your personal information, if provided by you through the Site, for as long as your inquiry is active (as determined by us) and for a reasonable time thereafter, or if applicable, for as long as you remain on our marketing list. We also may retain your personal information for a longer period of time on the basis of our legitimate interests in providing our Services to you or as necessary to comply with our legal obligations, to resolve disputes, and to enforce our agreements. Even if we delete some or all of your personal information, we may continue to retain and use aggregated or anonymous data previously collected so that it can no longer be used for personal identification and/or anonymize or aggregate your personal information. Please note that we will not be liable for disclosures of your data due to errors or unauthorized acts of third parties.
 
 ## OTHER SITES
 
@@ -86,7 +92,7 @@ You should be aware that personal information which you voluntarily include and 
 
 ## INFORMATION RELATING TO CHILDREN
 
-Our Site is designed for those 13 years of age and older. We do not knowingly collect information from anyone under the age of 13. If we are made aware that we have received such information, or any information in violation of this Privacy Policy, we will use reasonable efforts to locate and remove that information from our records.
+Our Site is designed for those 13 years of age and older. We do not knowingly collect information from anyone under the age of 13. If we are made aware that we have received such information, or any information in violation of this Privacy Policy, we will use reasonable efforts to locate and remove that information from our records. In the case of residents of the European Union, we do not collect information from anyone under the age of 16 except with parental consent, subject to an EU member state providing by law for a lower age (not below 13 years).
 
 ## COMMUNICATIONS WITH REPRESENT
 
@@ -116,10 +122,30 @@ Please note that we do not respond to or honor “do not track” signals or sim
 
 Our Site is maintained in the United States of America. The information we collect from you through the Service may be transferred to, stored at, and processed in the USA and other destinations outside the European Economic Area (“EEA”) or other country in which you are located. This includes processing by us, our affiliates, our third party service companies and other third parties as described in the “Information Usage” and “Information Sharing” sections above. You explicitly consent and agree to such transfer, storing and/or processing of your personal information outside the EEA or other country in which you are located. You understand that data stored in the USA may be subject to lawful requests by the courts or law enforcement authorities in the USA. The USA may not have data protection laws that are as comprehensive or protective as those in your country of residence; however, our collection, storage and use of your personal information will at all times be in accordance with this Privacy Policy.
 
+## YOUR EUROPEAN UNION PRIVACY RIGHTS
+
+If you are a resident of the European Union, you have certain additional rights with respect to your personal information under the General Data Protection Regulation (Regulation (EU) 2016/679) (the “GDPR”), including the following:
+
+  * The right of access to your personal information.
+  * The right to rectify your personal information if it is incorrect or incomplete.
+  * The right to have your personal information erased (“right to be forgotten”) if certain grounds are met.
+  * The right to withdraw your consent to our processing of your personal information at any time (if our processing is based on consent).
+  * The right to object to our processing of your personal information (if processing is based on legitimate interests).
+  * The right to object to our processing of your personal information for direct marketing purposes.
+  * The right to receive your personal information from us in a structured, commonly used and machine-readable format, and the right to transmit your personal information to another controller without hindrance from us (data portability).
+
+
+
+If you are located in the European Union and you are or have been our customer, we may send you marketing communications based on our legitimate interests, subject always to your right to opt out of such communications. Further, if you are located in the European Union, we will never share your personal information with a third party for such third party’s marketing purposes, unless you have specifically consented to us doing so.
+
+You may contact us at [support@represent.com](mailto:support@represent.com) to exercise any of the above rights. We may request specific information from you to confirm your identity, and in some circumstances we may charge a reasonable fee for access to your personal information. Furthermore, if you believe that our processing of your personal information is inconsistent with your data protection rights under the GDPR and we have not adequately addressed your concerns, you have the right to lodge a complaint with the data protection supervisory authority of your country.
+
+For purposes of the GDPR, we are a “controller” and you are a “data subject.”
+
 ## YOUR CALIFORNIA PRIVACY RIGHTS
 
 California law permits customers in California to request certain details about how their information is shared with third parties for those third parties’ own direct marketing purposes. If you are a California resident, you may request such information from us by contacting us by email at [support@represent.com](mailto:support@represent.com). Any such request must include "California Privacy Rights Request" in the first line of the description and include your name, street address, city, state, and zip code. Please note that we are only required to respond to one request per customer each year.
 
 ## QUESTIONS AND COMMENTS
 
-If you have any queries or comments about this Privacy Policy or our privacy practices, or wish to resume receiving information which you may have previously opted-out of receiving, please contact us at [support@represent.com](mailto:support@represent.com). If you are an EU resident and you believe that our processing of your personal information is inconsistent with EU data protection requirements, you may lodge a complaint with the data protection authority in your home country. 
+If you have any queries or comments about this Privacy Policy or our privacy practices, or wish to resume receiving information which you may have previously opted-out of receiving, please contact us at [support@represent.com](mailto:support@represent.com).
