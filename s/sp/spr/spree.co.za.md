@@ -1,124 +1,154 @@
-> *The following text is extracted and transformed from the spree.co.za privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529054349id_/http%3A//www.media24.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spree.co.za privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128044533id_/http%3A//www.media24.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Media24.com
 
-This is the main privacy policy for Media24 Proprietary Limited and it applies to all our Platforms. When we talk about our “Platforms” we refer to all our websites, mobile sites, mobile apps, emails or any other technology or services you may use to interact with us.
+This is the main privacy policy for the Media24 Group (Media24) and applies to any of our products or services which you use on any of our Platforms, including our websites, mobile sites, mobile applications, emails or any other technology or service you use to access our products and services. “We”, “us” or “our” in this privacy policy refers to Media24 Proprietary Limited and its subsidiaries, details of which are available [here](https://www.media24.com/).
 
-We strive to provide you with a dynamic, interactive experience on all our Platforms. It is our aim to keep you informed and entertained by presenting you with the latest and most relevant news and content. One of the ways we do this is by analysing information we collect and receive from you in order to determine what you might be interested in. This helps us develop more engaging content and provide advertising that is more suited to you and more effective for advertisers, which enables us to keep most of our services free.
+It is important that you read this privacy policy together with other terms and conditions, privacy notices or policies we may provide on specific occasions when we collect or use your personal information. This privacy policy supplements these notices and policies, and is not intended to override them.
 
-This privacy policy describes how we handle the information we collect and receive from you. By using our Platforms you are agreeing to the provisions of this privacy policy.
+This privacy policy describes how we handle the personal information we collect about you and/or receive from you. By using our Platforms you agree to our collection and use of your information as set out in this privacy policy.
 
-You must be older than 13 years old to use our Platforms. If you are below 18 years old, you must get permission from your parent or guardian before you use our Platforms or give us your personal information.
+Please note, our Platforms are not intended for children under the age of 13 years and we do not knowingly collect information relating to children below the age of 13.
+
+If you are below the age of 18 years, you must always get permission from your parent or guardian before you use our Platforms or give us your information. Please note, we may check that your parent or guardian has given you permission to use our Platforms and/or give us your personal information, and may ask you for their contact details so we can contact them. We may also check that the contact details you have given us are correct, and are the details of a person who is actually your parent or guardian.
 
 ### INFORMATION WE COLLECT AND RECEIVE
 
+We collect personal information that is necessary for us to provide you with our services as advertised. We only collect and use the minimum personal information we need in order to provide and improve our services.
+
+“Personal information” means any information that identifies you or may be used to identify you. It includes your name; email and/or physical address; fixed or mobile phone number; location; online identifier; race or ethnic origin; gender; age; religious or philosophical beliefs; health or biometric information; culture; language; education; medical, financial, criminal or employment history, including allegations of commissioning offences and proceedings in respect of these allegations; your personal opinions, views or preferences; and another person’s views or opinions about you.
+
 We collect and receive information about you in the following ways:
 
-**1 Information you give us**
+**Information you give us**
 
-This includes any information that you provide to us directly, whether through our Platforms or via phone, sms, fax or any other medium, this may include information you give to us:
+We collect your personal information through direct interactions with you and when you:
 
-  * by filling in forms on our Platforms. Like when you sign-up for an account or when you subscribe or register to use services on our Platforms;
-  * when you enter a competition, promotion or complete a survey;
-  * by posting comments or content on our Platforms;
-  * when you purchase one of our products or services;
-  * when you contact us and when you otherwise provide information directly to us.
-
-
-
-**2 Information we collect or receive when you use our Platforms, products or services**
-
-We collect information when you use our Platforms or services by using cookies, web beacons and other technologies. Depending on how you access and use our Platforms, we may receive:
-
-  * Log information (for example information about your interactions with our Platforms and other services you use, the content you view and the search queries you submit);
-  * Information we infer about you based on your interaction with our products and services;
-  * Device information (for example the type of device you’re using, how you access our Platforms, your browser or operating system and your Internet Protocol (“IP”) address);
-  * Location information (for example, your device’s GPS signal and information about nearby WiFi networks and cell towers. We get this information when you use location-enabled services).
+  * Complete forms, sign up for an account, or subscribe or register to access or use our services.
+  * Enter promotional competitions or complete surveys.
+  * Post comments or content on our Platforms.
+  * Buy one of our products or services.
+  * Contact us.
 
 
 
-**3 Information from third-party sources**
+**Information** **we automatically collect or receive when you use our Platforms, products or services**
 
-We may receive additional information about you that is publicly or commercially available and combine that with the information we have collected or received about you in other ways. We may also receive information about you when you choose to connect with social networking services while using our Platforms.
+We may automatically collect information about your equipment, and browsing actions and patterns. We do this through the use of cookies, web beacons and other technologies.
 
-### HOW WE USE THE INFORMATION WE COLLECT AND RECEIVE
+A cookie is a small text file that our server sends to your hard drive when you visit our Platforms. These cookies hold modest amounts of data specific to you and our Platforms. They allow our system to recognise you when you visit our Platforms again. If you prefer that we not use cookies when you use our Platforms, you can change your browser settings to disable the use of cookies. Please note however that if you disable the use of cookies, you may not be able to enjoy all the features and functionalities of our Platforms.
 
-We use the information we collect and receive for the following general purposes:
+A web beacon is a small image file that we place on our Platforms or in an email. We use it to track how many times a web page is accessed, the time it was accessed and the location of users who accessed it.
 
-**1 To provide you with information, products or services** you request from us.
+Depending on how you access and use our Platforms, we may receive:
 
-**2 To communicate with you.** We may want to notify you about changes to our Platforms or provide you with information about competitions, products or services that we feel may interest you.
-
-**3 To be effective and relevant in the services we provide you.** We want to ensure that content from our Platforms is presented to you in the most effective manner for you and for the device you use. We also want to provide you with content that you are likely to find relevant and engaging.
-
-**4 To provide effective advertising.** Many of our Platforms are supported by advertising. We want to enhance our users’ experience by serving ads that may be useful to them. Some of the ways we do this are by:
-
-  * showing you ads based on your online activities, such as the websites and apps you use or the content you viewed, as well as data we have collected about you, data that you have provided to us, or data that we have received from third-party sources;
-  * limiting the number of times you see the same ad; and
-  * measuring the effectiveness of the ads we serve.
+  * Log information, including information on how, when and for how long you use our Platforms and other services, the content you view and search queries you submit.
+  * Information about the equipment you use to access or use our Platforms, including the type of device you are using, how you access our Platforms, your browser or operating system and your Internet Protocol (IP) address.
+  * The geographic location from which you accessed our Platforms, including your device’s GPS signal and information about nearby wifi networks and cell towers. We get this information when you use location-enabled services.
 
 
 
-### HOW WE SHARE THE INFORMATION WE COLLECT AND RECEIVE
+**Information from third-party sources**
 
-We don’t sell your personal information to third parties for their marketing purposes.
+We may receive other information about you that is publicly or commercially available and combine it with the information we have collected about or received from you in other ways. We may also receive information about you when you log into our Platforms using your social networking log-in details.
 
-We may share information with:
+### WHAT WE DO WITH YOUR PERSONAL INFORMATION
 
-  * **Our affiliates** , in other words, other companies in the Naspers group of companies. Naspers consists of a number of different companies, including Media24, that all collect customer information. By sharing this information amongst business units, we may learn more about our customers, allowing us to create a more relevant and engaging customer experience.
+We use the personal information we collect and receive to:
 
-
-  * **Business partners.** We may share non-personally identifiable information with select business partners. This means that we do not disclose information about identifiable individuals to our business partners (in other words, we do not give them your name and contact details), but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their ad on any given day). We may also use such aggregate information to help our business partners reach the kind of audience they want to target.
-
-
-  * **Other parties in response to legal process or when necessary to conduct or protect our Platforms.** We may disclose your information if we are under a duty to disclose or share your information in order to comply with any legal obligation or to protect our Platforms. We may also disclose your information during the process of debt collection, or to our attorneys in connection with any potential, threatened or actual litigation, or to our auditors for the purpose of auditing our accounts.
-
-
-  * **Other parties in connection with certain business transactions.** In the event that we sell any of our businesses or assets, we may disclose your personal information to the prospective buyer of such business or assets.
-
-
-  * **Companies that provide services to us.** Companies that provide services to us or act on our behalf may have access to information about you. These companies are limited in their ability to use information they receive in the course of providing services to us or you.
-
-
-  * **Third-parties where you provide consent.** In some cases, third-parties (often advertisers), may wish to attain information about you in order to promote their products to you, or for whatever other reason. We may share information with third-parties where you provide consent in the form of explicit opt-in. Such circumstances may include (but are not limited to) an entry into a competition sponsored by a third-party where the provision of your information is a condition for entry to the competition, or where you express your interest in a product or service for which you would like more information.
-
-
-
-We will also ensure that your opt-in is explicit and that we provide a clear description of what data would be shared with the third-party. Remember that once you have opted in to allow us to send your information to the third-party, we cannot control what they do with your data; therefore, be sure to investigate their privacy policies before providing permission for us to share your information.
-
-  * **Other parties that provide content, advertising services, or functionality on our Platforms.** Some of the content, advertising, and functionality on our Platforms may be provided by third parties that are not affiliated with us. Such third parties include:
-
-
-  * Advertising providers, which help us and our advertising customers provide ads that are tailored to users’ interests and understand how users respond to those ads;
-  * Audience-measurement companies, which help us measure the overall usage of our Platforms and compare that usage to other online services; and
-  * Social networking services (like Facebook, Twitter, LinkedIn, Instagram) that enable you to register and log into certain of our services and to share things you find on our Platforms with your social network. This is only applicable if you choose to connect with a social networking service; we may provide other registration and login methods.
+  * Identify you, verify your identity, create a user account for you and enter into a contract with you.
+  * Provide you with information, products or services you request from us.
+  * Comply with any contractual obligations we have in respect of the provision of information, products or services to you.
+  * Communicate with you regarding our Platforms and providing you with information, products or services, including billing, customer support, resolving complaints and quality control.
+  * Notify you about changes to our Platforms, services and products, terms and conditions, privacy policy or notices, and any other changes that impact our Platforms, services and products.
+  * Send you information about competitions, products or services that may interest you.
+  * Make our Platforms more user friendly.
+  * Market our Platforms, products and services to you, subject to your right to refuse to receive direct marketing communications.
+  * Personalise your interactions with our Platforms, tailor our services and Platforms to your interests and needs, and ensure they work on your device.
+  * Provide advertising that is relevant to you, limit the number of times you see the same advertisement and measure the effectiveness of the advertisements on our Platforms based on your online activities such as the websites and apps you use or content you view, and information we have about you.
+  * Get feedback from you which we need to develop our products and services and grow our business.
+  * Protect our legitimate business interests such as debt recovery, keeping our records up to date and studying our customer or user products or services.
+  * Comply with any legal or regulatory obligations such as tax or financial laws.
 
 
 
-These third parties may collect or receive information about your use of our Platform, including through the use of cookies, web beacons and other technologies, and this information may be collected over time and combined with information collected on different websites and online services. It’s important to remember that we don’t control the privacy practices of these (or any other) third-party services. So we encourage you to read the privacy policies of these services before connecting to them.
+We also use your personal information for research and statistical purposes. The research and statistics we get from this process do not include your personal information and cannot be linked to you, nor can you be identified from these statistics.
 
-### YOUR CHOICES
+We collect and process information about your religious beliefs, race or ethnic origin, political persuasion, health, sex life, biometric information and criminal behaviour only if you have consented to us collecting and processing this personal information and subject to the allowable exclusions specified in the applicable laws.
 
-You have the right to ask us not to contact you for marketing purposes. You can exercise this right at any time by using any of the various “opt-out” options that we will always provide to you when we communicate with you. We manage a number of separate distribution lists across the various Media24 business units, each having its own theme and purpose. By opting out of one distribution list, does not automatically remove you from all other lists. You cannot opt-out of routine service correspondence from us, because then we would not be able to provide services to you.
+We will not use your personal information for any other purpose without your permission.
 
-Our Platforms use cookies. If you wish to reject our cookies, you can configure your browser to do so. A cookie is an alphanumeric identifier which we transfer to your hard drive through your web browser when you visit our Platforms. It enables our own system to recognise you when you visit our Platforms again and improve our service to you. Cookies may also be used to compile aggregate information about areas of our Platforms that are visited most frequently. This traffic information can be used to enhance the content of our Platforms and make your use of it easier.
+We keep your information for as long as we need it to provide our Platforms, products or services to you, and are required or allowed by law or the contract between you and us, or you have agreed to us keeping your information.
+
+### DISCLOSING YOUR PERSONAL INFORMATION
+
+We do not sell your personal information to third parties for their marketing or any other purposes.
+
+We provide or make your personal information available to:
+
+  * Other companies in the Naspers group of companies, details of which are available [here](https://www.naspers.com/), to learn more about our customers and create a more relevant, engaging customer experience.
+  * Companies that provide services to us or on our behalf, or enable us to provide services to you or operate the Platforms, including contractors, debt collectors, lawyers and auditors.
+  * Other parties where we are required to provide your personal information to comply with the law or protect our Platforms.
+  * Prospective and actual buyers, in the event that we sell, transfer or merge any part of our businesses or assets, or prospective or actual sellers, in the event that we choose to buy or merge with any other business.
+  * Third parties if you have agreed to us sharing your personal information with them, such as where you enter into a competition sponsored by a third party and where the provision of your information is a condition for entry to the competition, or where you express your interest in a product or service about which you would like more information.
+  * Other parties that provide content, advertising services or functionality on our Platforms, including advertising providers which help us and our advertising customers provide advertisements that are tailored to users’ interests and understand how users respond to these advertisements, audience-measurement companies which help us measure the overall usage of our Platforms and compare that usage with other online services, and social networking services such as Facebook, Twitter, LinkedIn and Instagram that enable you to register for and log into some of our services and share things you find on our Platforms with your social network. These third parties may collect or receive information about your use of our Platforms, including through the use of cookies, web beacons and other technologies, and this information may be collected over time and combined with information collected on various websites and online services. We do not control the privacy practices of these or any other third party services and advise you to read the privacy policies of these services before connecting to them.
+
+
+
+We also share our research and statistical information with various third parties. However this information does not include your personal information, cannot be linked to you and you cannot be identified from these statistics.
+
+Please note, some of the people or companies who have access to your personal information are located outside South Africa. We will not share your personal information with these parties unless they are bound by privacy laws and corporate rules or agreements with us that protect the privacy of your personal information and limit their ability to share your personal information with other parties.
+
+We will get your permission before we share your information with any third party.
+
+### YOUR RIGHTS
+
+You have the right to ask us not to contact you for marketing purposes, and you can do this at any time by using any of the various “opt out” options that we always provide you with when we send you marketing communications.
+
+We manage several separate marketing distribution lists across the various Media24 business units, and opting out of one distribution list does not automatically remove you from all the other lists.
+
+You also have the right to request access to the information we have collected about you and request that we correct or update any incorrect or incomplete information. You may at any time lodge an objection with us regarding our collection and use of your personal information.
 
 ### OUR COMMITMENT TO SECURITY
 
-Although no one can guarantee the security of the information collected and received, we do employ a number of safeguards intended to mitigate the risk of unauthorized access or disclosure of your information. We will do our best to protect your personal information and we will use up to date technology that will help us to do this.
+We have put in place administrative, technical and physical safeguards to protect your personal information and prevent loss, damage or unauthorised access to or disclosure of your information. These security safeguards are based on generally accepted information security practices and procedures which apply to the Platforms, products and services we provide. We regularly check that these safeguards are correctly implemented and continually updated in response to new risks or any identified deficiencies.
+
+Unfortunately the transmission of information via the internet is not completely secure and we cannot guarantee the security of information transmitted to us through the internet. Any information you submit to us through the internet is at your own risk. Once we receive your personal information, we do our best to protect it and use the security safeguards we have put in place to secure it.
+
+If we outsource any services to a third party that require the collection or use of your personal information, we put in place contracts that require these companies or people to respect the security of your personal information, treat it in accordance with the law, and collect and use it only for the purposes authorised by us.
 
 ### LINKS TO OTHER WEBSITES
 
-Our Platforms contain links to and from websites, mobile applications or services of third parties, advertisers or affiliates. Please note that we are not responsible for the privacy practices of such other parties and advise you to read the privacy statements of each website you visit which collects personal information.
+Our Platforms contain links to and from websites, mobile applications and/or services of third parties, advertisers and/or affiliates. Clicking on these links or enabling these connections may allow third parties to collect or share information about you. Please note, we do not control these third parties and are not responsible for the privacy practices of such other parties when you leave our Platforms. We advise you to read the privacy statements of every website you visit which collects personal information.
 
 ### INTERNATIONAL USERS
 
-Media24 is based in South Africa, and, regardless of where you use or access our Platforms, products, or services, your information may be transferred to and maintained on servers located in South Africa (or elsewhere in the world). Please note that any information we obtain about you will be stored in accordance with South African privacy laws, regulations and standards, which may not be equivalent to the laws in your country of residence. By using our Platforms you consent to this collection, transfer, storage and processing of information to and in South Africa.
+Media24 is based in South Africa and, regardless of where you use or access our Platforms, products or services, your information may be transferred to and maintained on servers located in South Africa or elsewhere in the world.
+
+Any of the information that we collect about you or receive from you is stored in line with South African privacy laws, regulations and standards, which may not be equivalent to the laws in your country of residence.
 
 ### CHANGES TO THIS PRIVACY POLICY
 
-We may update this privacy policy from time to time. Any changes we may make to our privacy policy will be posted on this page and, where appropriate, notified to you in the appropriate manner.
+This version of the privacy policy was last updated on 25 June 2018 and replaces any preceding privacy policies.
+
+We may occasionally update this privacy policy. Any changes we make will be posted on this page and we will notify you of the update in the appropriate manner. When you use our Platforms the version of the privacy policy posted on this page applies to you. We encourage you to review this privacy policy whenever you access our Platforms.
 
 ### CONTACT
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to privacy@media24.com.
+Please contact us if you have questions, comments or requests for us to update, correct, amend, delete or destroy any information we have about you, or if you want to object to our use of your information. Our contact details are:
+
+**Address**  
+40 Heerengracht  
+Cape Town  
+South Africa
+
+**Email:  **[privacy@media24.com](mailto:privacy@media24.com)
+
+If you are dissatisfied with our resolution of your complaint, you have the right to refer it to the Information Regulator, the supervisory authority for data protection issues in South Africa. The Information Regulator’s contact details are:
+
+**Address**  
+SALU Building  
+316 Thabo Sehume Street  
+Pretoria  
+**Telephone:** 012 406 4818  
+**Email:**  [inforeg@justice.gov.za](mailto:inforeg@justice.gov.za)
