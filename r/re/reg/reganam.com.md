@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reganam.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530073454id_/http%3A//www.reganam.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reganam.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128015332id_/http%3A//www.reganam.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Reganam Interactive Privacy Policy
 
