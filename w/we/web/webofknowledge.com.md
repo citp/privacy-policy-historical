@@ -1,304 +1,132 @@
-> *The following text is extracted and transformed from the webofknowledge.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928105324id_/http%3A//ip-science.thomsonreuters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webofknowledge.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128212629id_/https%3A//clarivate.com/legal/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy - Clarivate Analytics
+# Privacy notice - Clarivate
 
-### SCOPE
+Effective: May 25, 2018
 
-Your privacy is important to Clarivate Analytics, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via websites and mobile applications operated by the Intellectual Property & Science business of Clarivate Analytics, and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline. 
+### 1\. Scope
 
-Our website may contain links to sites maintained by others. This Privacy Statement does not reflect the privacy practices of those sites.
+This Privacy Notice describes how Clarivate Analytics (“Clarivate”, “we”, “us” and “our”) collects, uses, shares, secures, and eventually disposes of (collectively “processes”) your personal data. Personal data is any information that does, or could, identify you. Your rights over your personal data are set out in **Section 9** **– Your Rights and Choices**.
 
-### HIGHLIGHTS 
+This Privacy Notice applies to personal data collected by our websites, apps, and products (collectively “services”), and in the course of routine offline business contacts with you. The Notice is addressed primarily to our customers and service users; sales prospects; and individuals whose professional data is included in our services.
 
-**What personal information is collected and how is that information used?**
+This Privacy Notice does not apply to services that have separate privacy notices. For instance, it does not apply to our [Publons](https://publons.com/about/terms) and [Techstreet](https://www.techstreet.com/pages/privacy_policy) services; our [MarkMonitor](https://www.markmonitor.com/legal/privacy-policy) business; or services for which we process your data only under instructions from our customers (for example, our ScholarOne and Converis services). This Notice does not apply to Clarivate employees and [candidates for employment](https://clarivate.com/clarivate-analytics-career-opportunities-privacy-notice/).
 
-  * We collect information about our users in three ways: directly from the user (for example, when ordering a product, registering an account, or signing up for a newsletter), from our web server logs, and through cookies. 
-  * We use the information primarily to provide you with a personalized Internet or mobile application experience that delivers the information, resources, and services that are most relevant and helpful to you. 
-  * We do not share with others any of the information you provide, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it. 
+“Clarivate Analytics” includes all the businesses of the Clarivate group, including separate brands like CompuMark and Kopernio.
 
+### 2\. Changes to this notice
 
+We will update this Notice from time to time, and will communicate material changes to you before they become effective by the best means available to us (for example, by e-mail or via a prominent notice on our website and in our services).
 
-**How is my personal information protected?**
+### 3\. Personal data collected
 
-  * We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. 
-  * We store the information about you in a data center with restricted access and appropriate monitoring. 
-  * We use intrusion detection and virus protection software. 
-  * Despite these measures, we cannot guarantee that unauthorized persons will always be unable to defeat our security measures. 
+We obtain your personal data in three different ways:
 
+**(1) Data that you provide to us:**
 
+We collect personal data directly from you, for example, the contact information and log-in credentials that we use to provide our services to you, and the professional profile details that you choose to enter into our products. Often this information is of the kind usually found on a business card. If you seek help with technical issues, you may share information about your devices with us, such as their operating system and installed programs.
 
-**Who has access to the personal information?**
+**(2) Data about you that we obtain elsewhere:**
 
-  * We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except our approved agents and contractors, or as otherwise described in this Privacy Statement. 
-  * We rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Clarivate Analytics companies; our affiliates are all required to preserve the confidentiality of any personal information they may access. 
-  * We will not disclose any personal information or information about your usage of our websites or mobile applications to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers, as required by law, or as otherwise indicated in this Statement. 
+  * Clarivate provides information and analytics services to companies and universities. The services include Web of Science, Cortellis, CompuMark, and Derwent Innovation. If you are, for example, an academic author or researcher, a patent holder, or clinical trials investigator, your professional data may be included in these services. We collect this professional data from publicly available sources like academic publications, patent offices, and regulatory agencies. The data may include your name, work contact details, and specialization. If you have questions about this use of your data, contact us at [data.privacy@clarivate.com](mailto:data.privacy@clarivate.com).
+  * We acquire marketing lists from third parties to identify prospects for our services (see **Section 9** **– Your Rights and Choices** for information on managing your marketing preferences).
 
 
 
-**How may I correct, amend, or delete my personal information, or update my preferences?**
+**(3) Data that we collect via standard online technologies:**
 
-  * You may cancel your registration or update your preferences at any time. 
-  * If you do not want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering and/or utilize the "unsubscribe" mechanism within the communications that you receive from us. 
-  * If you have any additional questions or concerns related to this statement and/or our practices, please [contact our IP & Science Marketing team](http://science.thomsonreuters.com/info/policy_request/). 
+Like most websites and web-based products, our services use standard technologies, like web server logs and cookies, to collect information about our visitors and end-users. You can read more about our use of these technologies in our [Cookie Notice](https://clarivate.com/legal/cookie-policy/). Some of our services allow you to register or log in via social media credentials. If you choose this option, the personal data that we collect will depend on the privacy settings of your social media account.
 
+**Sensitive personal data**
 
+We do not process personal data about race or ethnicity; political opinions, or religious or philosophical beliefs; trade union membership; or genetic, biometric, health, or sex-life information (“special categories of personal data” as defined by the European Union General Data Protection Regulation) unless you provide or indicate such information in a user-controlled area of our services, for example a professional profile. We may occasionally collect personal data subject to enhanced security requirements, such as requiring a credit card or government-issued ID to complete a transaction you have requested.
 
-### FULL PRIVACY STATEMENT
+**Google invisible reCAPTCHA**
 
-**WHAT PERSONAL INFORMATION DOES THE IP & SCIENCE BUSINESS OF CLARIVATE ANALYTICS COLLECT AND HOW DO WE USE IT? **  
-We collect information about our users in three ways: directly from the user, from our web server logs, and through cookies. We use the information primarily to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. We don't share any of the information you provide with others, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it.  
+We sometimes use Google Invisible reCAPTCHA to secure our products and websites from abuse. Invisible reCAPTCHA collects hardware, software, and user interaction data from your device for risk analysis. reCAPTCHA data collection and use are governed by the [Google Privacy Policy](https://policies.google.com/privacy).
 
+**Third-party websites**
 
-**User-Supplied Information**  
-When you register for our services or order products via our site, we ask you to provide some personal information, for example, your name, address, phone number, email address, payment card information, and/or certain additional categories of information resulting from use of our websites and services, such as research requests. We keep this information in a contact database for future reference, as needed. We may use certain information you provide to offer you products and services that we believe may be of interest to you. If you don't wish to receive such offers, you may opt out (unsubscribe) [via this form](http://science.thomsonreuters.com/optout/)
+Our services may contain links to third-party websites. We are not responsible for the privacy practices of those sites.
 
-If you contact us for customer support, we may ask you to provide information about your computer or about the issues you are trying to resolve. This information is necessary to help us answer your questions. We may record your requests and our responses for quality control purposes.
+### 4\. Purposes of processing
 
-Some Clarivate Analytics websites make chat rooms, forums, message boards, or news groups available to you. Please remember that any information disclosed in these areas is public. You should exercise caution when disclosing personal information in these areas. Don't disclose information in these public forums that might be considered confidential. 
+We process personal data for the purposes listed below. Your relationship with Clarivate will determine which purposes apply to you.
 
-**Web server logs**  
-When you visit our website, we may track information about your visit and store that information in web server logs, which are records of the activities on our sites. Our servers automatically capture and save the information electronically. Examples of the information we may collect include: 
+**Customer and product administration**
 
-  * Your unique Internet protocol address 
-  * The name of your unique Internet service provider 
-  * The city, state, and country from which you access our website 
-  * The kind of browser or computer you use 
-  * The number of links you click within the site 
-  * The date and time of your visit 
-  * The web page from which you arrived to our site 
-  * The pages you viewed on the site 
-  * Certain searches/queries that you conducted via our website(s) 
+To provide you with our services, we use personal data to create product accounts, provide user and technical support, enforce our terms of business, report product usage information to subscribers, report to our content and technology providers, contact you about renewal of your subscriptions, and other related administrative tasks.
 
+**Personalized product functionality**
 
+We use your personal data to deliver personalized functionality in our services, such as your saved searches or a professional profile that you maintain with us.
 
-The information we collect in web server logs helps us administer the site, analyze its usage, protect the website and its content from inappropriate use, and improve the user's experience.
+**Product development**
 
-**Cookies**  
-In order to offer and provide a customized and personal service, we may use cookies to store and help track information about you. Cookies are simply small pieces of data that are sent to your browser from a web server and stored on your computer's hard drive. We use cookies to help remind us who you are and to help you navigate our sites during your visits. Cookies enable us to save passwords and preferences for you so you won't have to re-enter them each time you visit. 
+We analyze product usage data to inform our product development process, for example to understand which content and tools are most useful for our users. Your product usage information is usually aggregated or “pseudonymized” (delinked from you as an individual).
 
-The use of cookies is relatively standard. Most browsers are initially set up to accept cookies. The table below describes the cookies we use on this site and what we use them for. We currently operate an ‘implied consent’ policy which means that we assume that by using our web site you are happy with our use of cookies. However, if you are not happy, you can choose to:
+**Marketing**
 
-  * not use our sites 
-  * set your browser to notify you when you receive a cookie 
-  * set your browser to refuse to accept cookies 
-  * delete our cookies after visiting our site 
-  * browse our site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.). 
+We will send you marketing messages for Clarivate products that may interest you (see **Section 9  ** **– Your Rights and Choices** for information on managing your marketing preferences). We do not disclose your contact information to third parties for their marketing purposes.
 
+**Product content**
 
+We collect and organize publicly available professional data for inclusion in our services; for example, Web of Science contains information about academics obtained from articles published in scholarly journals.
 
-You should understand that some features of our web site may not function properly if you don't accept cookies.
+**EU GDPR Article 6 (lawfulness of processing) information** ** **
 
-If you do not know how to control or delete cookies, then we recommend you visit [http://www.aboutcookies.org ](http://www.aboutcookies.org/)for detailed guidance. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+For individuals in the European Economic Area (EEA) or Switzerland, pursuant to Article 6 of the EU General Data Protection Regulation (GDPR), we process your personal data on the following legal bases:
 
-**Clarivate Analytics cookies:**  
-The cookies we use include, but are not limited to, the following:
-
-**Cookie name** | 
-
-**Description**
-
-| 
-
-**Additional information**  
+**Purpose of processing** | **Legal basis of processing**  
+---|---  
+**Customer and product administration** | To fulfill our contractual obligations to you, or because we have a legitimate interest in, for example, providing our services to our customers’ organizations or enforcing our terms of business.  
+**Personalized product functionality** | To fulfill our contractual obligations to you, or because we have a legitimate interest in providing the service functionalities required by our customers and users.  
+**Product development** | Our legitimate interest in assessing and improving our services.  
+**Marketing** | Either your consent or, if you are an existing customer, because we have a legitimate interest in keeping you advised of new services.  
+**Product content** | Our legitimate interest in curating and distributing publicly available personal data of a professional and academic nature.  
   
----|---|---  
-  
-LiSESSIONID
+### 5\. Recipients of the data
 
-| 
+Your personal data will, depending on the purposes of processing, be disclosed to different individuals and organizations, including:
 
-Manages session on community.thomsonreuters.com.
+  * Clarivate employees and contractors whose roles require access to your data. Our personnel are bound to confidentiality terms which cover their obligations to protect personal data.
+  * Clarivate suppliers who process personal data on our behalf (“processors”); for example Cloud computing providers and web analytics services like Google Analytics. Such vendors are contractually bound to protect your data to the same standard as set out in this Notice.
+  * Subscribers to our services: This applies to the personal data of academics and other professionals that is collected from public sources for inclusion in our product databases and any personal data you choose to provide to us for display in our services (for example, in profiles and when using online forums).
+  * Your data may be transferred to a third party as a result of any merger, acquisition, or similar corporate event involving Clarivate.
+  * We will disclose your personal data when required to by law.
 
-| 
 
-<http://www.lithium.com/privacy-policy/>  
-  
-tr-scientific
 
-| 
+### 6\. Data security
 
-Saves the content of form fields so they do not need to be re-entered. 
+Clarivate maintains appropriate administrative, technical, and physical security measures to protect your personal data from accidental loss and unauthorized access or use. These measures include encryption, firewalls, roles-based data access, intrusion-detection software, and physical access controls to data centers. However, we cannot guarantee that loss, misuse, unauthorized acquisition, or alteration of your data will never occur.
 
-| 
+### 7\. Data retention
 
-<http://ip-science.thomsonreuters.com/>  
-  
-wid
+We store your personal data throughout the period of your relationship with us, and retain it for as long as necessary to fulfil the purposes for which we collected it, including for the purposes of satisfying legal, accounting, or reporting obligations or to resolve disputes.  For more information on how long we store your data, please contact us at [data.privacy@clarivate.com](mailto:data.privacy@clarivate.com).
 
-| 
+### 8\. International transfer
 
-Session cookie that identifies program winners.
+Clarivate is a global business, and your data will be transferred to countries with different privacy and data protection laws than your own, including to countries, such as the United States, that the European Commission considers not to have adequate data protection laws.
 
-| 
+We protect our transfers from the European Economic Area with legal safeguards that include: (1) the existence of a European Commission adequacy decision (covering, for example, transfers to Canada, New Zealand, and Switzerland); (2) Clarivate’s Intra-Group Agreement incorporating [Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) approved by the European Commission; (3) Standard Contractual Clauses and other contract terms executed between Clarivate and a third-party data processor; (4) a third-party processor’s certification under the [EU-U.S. Privacy Shield](http://www.privacyshield.gov/).
 
-<http://top100innovators.com/>  
-  
-SESS*
+### 9\. Your rights and choices
 
-| 
+** ** You may at any time ask for access to the data that we hold about you, and request its correction or erasure, or that we cease to process it (see **Section 10 — Contact Us** ). For further information on European data protection rights, including your right to lodge a complaint with your supervisory authority, and your right to withdraw your consent to the processing of your data, visit our [European Data Protection Rights](https://clarivate.com/legal/european-data-protection-rights/) page.
 
-Manages session on ip.thomsonreuters.com.
+**_Marketing_** : We would like to send you marketing communications, for example event invitations, white papers, and information about our services that may interest you. We will obtain your prior consent when your local law requires it.
 
-| 
+You can opt out of our marketing communications at any time – all Clarivate marketing e-mails contain an “unsubscribe” link. If you have questions regarding our use of your information for marketing purposes, please contact the [Clarivate Marketing Team](mailto:news@clarivate.com).
 
-<http://ip.thomsonreuters.com/>  
-  
-SESS*
+### 10\. Contact us
 
-| 
+[data.privacy@clarivate.com](mailto:data.privacy@clarivate.com)
 
-Manages session on info.thomsoninnovation.com.
+**Clarivate Analytics  
+**Friars House  
+160 Blackfriars Road  
+London SE1 8EZ  
+United Kingdom
 
-| 
-
-<http://info.thomsoninnovation.com/>  
-  
-sid
-
-| 
-
-manages session on apps.isiknowledge.com
-
-|   
-  
-customer
-
-| 
-
-identifies institution name on apps.isiknowledge.com
-
-|   
-  
-jsessionid
-
-| 
-
-Identifies user name on Clarivate Analytics Pharma, Clarivate Analytics Cortellis, Clarivate Analytics Integrity, Clarivate Analytics Drug News, Clarivate Analytics Forecast, Clarivate Analytics KOLexperts, Derwent Discovery, DOLPHIN, IDRAC, Newport Premium, Derwent Innovation, ResearcherID, EndNote and InCites.
-
-|   
-  
-laccount
-
-| 
-
-Identifies user name on Clarivate Analytics Pharma, Clarivate Analytics Cortellis, Clarivate Analytics Integrity, Clarivate Analytics Drug News, Clarivate Analytics Forecast, Clarivate Analytics KOLexperts, Derwent Discovery, DOLPHIN, IDRAC, Newport Premium, Derwent Innovation, ResearcherID, EndNote and InCites.
-
-|   
-  
-luser
-
-| 
-
-Identifies user name on Clarivate Analytics Pharma, Clarivate Analytics Cortellis, Clarivate Analytics Integrity, Clarivate Analytics Drug News, Clarivate Analytics Forecast, Clarivate Analytics KOLexperts, Derwent Discovery, DOLPHIN, IDRAC, Newport Premium, Derwent Innovation, ResearcherID, EndNote and InCites.
-
-|   
-  
-**Third party cookies:**  
-
-
-**Cookie name**
-
-| 
-
-**Description**
-
-| 
-
-**Additional information**  
-  
----|---|---  
-  
-Omniture
-
-| 
-
-Provides anonymous user data to help us understand how our site is being used in order to improve the user experience.
-
-| 
-
-<http://www.omniture.com/en/privacy/2o7>  
-  
-Google Analytics
-
-| 
-
-Provides anonymous user data to help us understand how our site is being used in order to improve the user experience. 
-
-| 
-
-<http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  
-  
-Eloqua  
-(Tracking Cookie)
-
-| 
-
-Gathers user information to help us optimise the user experience and future interactions with our users.
-
-| 
-
-<http://www.eloqua.com/trust/Privacy_Policy.html>  
-  
-AddThis
-
-| 
-
-Allows users to share content on social networking sites.
-
-| 
-
-<http://www.addthis.com/privacy>  
-  
-Twitter
-
-| 
-
-Provides anonymous conversion tracking data to help us understand the effectiveness of our marketing campaigns.
-
-| 
-
-<https://twitter.com/privacy>  
-  
-Facebook
-
-| 
-
-Provides anonymous conversion tracking data to help us understand the effectiveness of our marketing campaigns.
-
-| 
-
-<https://www.facebook.com/policy.php>  
-  
-**Third Party Services**  
-We may use services hosted by third parties such as Google Analytics, to assist in providing our services and to help us understand our customers' use of our products and websites. These services may collect information sent by your browser as part of a web page request, including your IP address or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Some of the third parties collecting anonymous information about our customers’ use of our products or websites may use it to provide us feedback on our customers’ use of our products and websites or to help deliver relevant advertising to our customers. Please see "Cookies" in the section above for information on the cookies and how you can control the use of cookies on your computer. 
-
-**Google Invisible reCAPTCHA**  
-We may use Google Invisible reCAPTCHA to secure our products and websites from abuse. Invisible reCAPTCHA collects hardware, software, and user interaction data from your device for risk analysis. reCAPTCHA data collection and use are governed by the Google Privacy Policy.
-
-**HOW DOES CLARIVATE ANALYTICS PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?**  
-We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. For example, some of our websites are protected with Secure Sockets Layer (SSL) technology. Also, we store the information about you in a data center with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software. **However, please note that we cannot guarantee that unauthorized persons will always be unable to defeat our security measures**.
-
-Also, please note that we may store and process your personal information in systems located outside of your home country. However, regardless of where storage and processing may occur, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this Statement.
-
- **WHO HAS ACCESS TO THE PERSONAL INFORMATION?**  
-We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except as follows: 
-
-  * To agents and/or contractors who may use it on our behalf or in connection with their relationship with us (for example, we may use third parties to help us with promotional campaigns). 
-  * As required by law, in a matter of public safety or policy, as needed in connection with the transfer of our business assets (for example, if we are acquired by another company or if we are liquidated during bankruptcy proceedings), or if we believe in good faith that sharing the data is necessary to protect our rights or property. 
-
-
-
-We also rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Clarivate Analytics companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access. 
-
-We will not disclose any information about your usage to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law. We may also use statistics regarding usage for product development purposes, but we only use those statistics in the aggregate and they don't include any personally identifiable information about individual users.
-
-Your access to some of our services and content may be password protected. We recommend that you refrain from disclosing your username(s) and password(s) to anyone. We also recommend that you sign out of your account or service at the end of each session. You may also wish to close your browser window when you have finished your work, especially if you share a computer with someone else or if you are using a computer in a public place like a library or Internet cafe.
-
-**HOW CAN I UPDATE MY PERSONAL INFORMATION AND EMAIL PREFERENCES?**  
-You can update your email preferences at any time via our [preference center](http://resources.science.thomsonreuters.com/forms/ProfileCenterAccess1). We include an unsubscribe mechanism in all our emails, and you can also [unsubscribe here](http://ip-science.thomsonreuters.com/optout/).
-
-**QUESTIONS?**  
-If you have any additional questions or concerns related to this statement and/or our practices, please [contact our IP & Science Marketing team](http://science.thomsonreuters.com/info/policy_request/). 
-
-**PRIVACY STATEMENT CHANGES**  
-If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on 18 June 2012.
+[www.clarivate.com](http://www.clarivate.com/)
