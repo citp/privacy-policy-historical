@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dollarvigilante.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627205308id_/https%3A//dollarvigilante.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarvigilante.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128214926id_/https%3A//dollarvigilante.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Dollar Vigilante
+# Privacy Policy | The Dollar Vigilante
 
 **The Dollar Vigilante Privacy Policy**
 
@@ -176,10 +176,10 @@ If you wish to exercise any of these rights, please contact us. In your request,
 
 
 
-We are committed to resolve any complaints about our collection or use of your personal data. If you would like to make a complaint regarding this Policy or our practices in relation to your personal data, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will reply to your complaint as soon as we can and in any event, within 30 days. We hope to resolve any complaint brought to our attention, however if you feel that your complaint has not been adequately resolved, you reserve the right to contact your local data protection supervisory authority
+We are committed to resolve any complaints about our collection or use of your personal data. If you would like to make a complaint regarding this Policy or our practices in relation to your personal data, please contact us at: support@dollarvigilante.com. We will reply to your complaint as soon as we can and in any event, within 30 days. We hope to resolve any complaint brought to our attention, however if you feel that your complaint has not been adequately resolved, you reserve the right to contact your local data protection supervisory authority
 
   14.  **Contact Information**
 
 
 
-We welcome your comments or questions about this Policy. You may contact us in writing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or **The Dollar Vigilante, PO Box 590, Saint Kitts and Nevis**.
+We welcome your comments or questions about this Policy. You may contact us in writing support@dollarvigilante.com or **The Dollar Vigilante, PO Box 590, Saint Kitts and Nevis**.
