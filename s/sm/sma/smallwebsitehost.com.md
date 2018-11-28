@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smallwebsitehost.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125205437id_/http%3A//www.smallwebsitehost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallwebsitehost.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128094728id_/http%3A//www.smallwebsitehost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Small Website Hosting - Internet Marketing and web development
+# Small Website Hosting – Internet Marketing and web development – Privacy Policy
 
 **What information do we collect?** We collect information from you when you register on our site or subscribe to our newsletter.
 
