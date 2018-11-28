@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steves-internet-guide.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913052940id_/http%3A//www.steves-internet-guide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steves-internet-guide.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128200409id_/http%3A//www.steves-internet-guide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,8 +19,7 @@ Such tracking is done directly by the third parties through their own servers an
 In particular this site use Google Adsense and,
 
   * Google, as a third-party vendor, uses cookies to serve ads on this site.
-  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to this site and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.co.uk/privacy_ads.html)
+  * You can find out about Google privacy policies and control your ad settings [here](https://policies.google.com/technologies/partner-sites).
 
 
 
@@ -54,6 +53,6 @@ Your use of this site indicates acceptance of this privacy policy.
 
 Concerns or questions about this privacy policy can be directed to the webmaster by using the [contact form](http://www.steves-internet-guide.com/about/).
 
-**Was This Article Helpful? Please Rate..**
+### Affiliate Programs
 
-[Total: 0    Average: 0/5] 
+www.steves-internet-guide.com uses affiliate programs for monetization- See our [disclosure](http://www.steves-internet-guide.com/disclosure/) page for details
