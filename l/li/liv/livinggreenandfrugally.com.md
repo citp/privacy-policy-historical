@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livinggreenandfrugally.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527044152id_/http%3A//www.livinggreenandfrugally.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livinggreenandfrugally.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128072008id_/https%3A//www.livinggreenandfrugally.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Living Green And Frugally
 
@@ -102,7 +102,7 @@ As we sell products it’s important for us to understand statistics about how m
 
 The Google AdSense service we use to serve advertising uses a DoubleClick cookie to serve more relevant ads across the web and limit the number of times that a given ad is shown to you.
 
-For more information on Google AdSense see the official [Google AdSense privacy FAQ.](http://www.google.co.uk/policies/technologies/ads/)
+For more information on Google AdSense see the official [Google AdSense privacy FAQ.](https://www.google.co.uk/policies/technologies/ads/)
 
 We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout). google analytics keep this information for 14 months
 
@@ -114,7 +114,7 @@ We also use social media buttons and/or plugins on this site that allow you to c
 
 livinggreenandfrugally.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. the cookie last for 
 
-or more information on Amazon cookies see the official [Amazon privacy FAQ. **You can  Opt out **](http://services.amazon.co.uk/standards/cookies.html) **[HERE](https://www.amazon.co.uk/adprefs)**
+or more information on Amazon cookies see the official [Amazon privacy FAQ. **You can  Opt out **](https://services.amazon.co.uk/standards/cookies.html) **[HERE](https://www.amazon.co.uk/adprefs)**
 
 #### **Facebook**
 
@@ -260,7 +260,7 @@ A cookie is a tiny text file stored on your computer. Cookies store information 
 
 
 
-You can remove cookies stored in your computer via your browser settings. Alternatively, you can control some 3rd party cookies by using a privacy enhancement platform such as [optout.aboutads.info](http://optout.aboutads.info/#!/) or [youronlinechoices.com](http://www.youronlinechoices.com/). For more information about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
+You can remove cookies stored in your computer via your browser settings. Alternatively, you can control some 3rd party cookies by using a privacy enhancement platform such as [optout.aboutads.info](https://optout.aboutads.info/#!/) or [youronlinechoices.com](https://www.youronlinechoices.com/). For more information about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
 
 We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
 
