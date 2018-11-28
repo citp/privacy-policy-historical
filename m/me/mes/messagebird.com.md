@@ -1,318 +1,323 @@
-> *The following text is extracted and transformed from the messagebird.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513054344id_/https%3A//www.messagebird.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messagebird.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128053345id_/https%3A//www.messagebird.com/en/legal/privacy) for the most accurate reproduction.*
 
 # We are serious about privacy - MessageBird
 
-#### Introduction
+At MessageBird, we do everything in our power to protect your data and give you full control over your personal data on our platform. Our aim is that you always feel informed and empowered with respect to safeguarding your own privacy, and the privacy of your customers. As a Cloud Communications Platform as a Service (CPaaS), we process personal data in order to deliver our services. This privacy statement contains information about what data we collect, why we collect it, and how we handle that data.
 
-We care about your privacy as much as we care about our own. MessageBird collects and processes personal information from everyone who visits our publicly available website, communicates with us, creates an account, and uses our products and services. In this page, we will explain how, why we do so, and what you can do about it.
+This version of our Privacy Statement has been updated to give you a better understanding of how we treat personal data and to call your attention to new features. The updated document is even more user-friendly and addresses new data protection regulations, including GDPR. You can view the previous statement [here](https://web.archive.org/en/legal/privacy/previous).
 
-Please carefully review this policy before you submit any information on or through our platform. By visiting this website and by using any part of the MessageBird services and products, you consent to the collection, use, disclosure and sharing of your and end users information as further outlined below.
+MessageBird is a Cloud Communications Platform as a Service (CPaaS) that provides fast, reliable and innovative Voice, SMS, Chat, and RCS solutions with global reach. Our customers are generally companies that integrate our services in their business operations.
 
-#### MessageBird
+We only ask for personal data when we need it for business purposes or to provide you with relevant information. Whether you sign up for our newsletter or sign a Service Agreement, you provide your personal data to us for a particular purpose. You always have the opportunity to explicitly agree to the collection, use, disclosure, and sharing of the information you’ve provided. That applies even when you're browsing our website, where you can manage your cookie preferences. You can review your personal data and change your settings at all times.
 
-MessageBird is a telecom software company disrupting the industry with its innovative SMS, Chat and Voice API solutions.
+Since customers integrate our products in their own software applications, we don’t interact with their end users directly. When customers do share end-user information with us, we always handle that data in accordance with data protection regulations, including GDPR. We don’t use that data for any purposes other than those specifically issued by the customer who provides the data.
 
-Our customers are generally companies that integrate our services in their business operations through their own software applications. Others use our website interface. We do not directly interact with our customers’ end users as the information that companies submit is shared with us on their sole discretion in accordance with our General Terms and Conditions (“Terms”).
+Throughout this document you’ll encounter the mention of several roles and responsibilities. Here’s a quick explanation of the different roles, responsibilities, and systems of governance that play an integral part in ensuring your data is protected.
 
-#### What We Collect and How We Use It
+Controller is the company that an individual (or data subject) provides their personal data to. The Controller determines the purpose for the personal data (e.g. to receive important information or for sending invoices) and is responsible for the correct handling of the subject’s data.
 
-Generally speaking, we only collect relevant and necessary information for the purposes of: providing you with information about our products and services, to enable you to access and use our products and services, to analyse our customers’ usage of our products and services, to improve our products and services, and to detect and secure your account from fraudulent or unlawful activity.
+Processor is the company that provides part of the service of the Controller, and needs specific personal data in control of the Controller in order to do so. To give an example: when one of our customers sends a campaign through our platform, we need personal data such as a phone number to fulfil the service. The Processor only processes personal data according to the instructions of the Controller.
 
-We will only use your data for the purposes described below and only to achieve those purposes. For example, if you send queries through the “Talk to Sales” webform, we will only use this information to reply to your questions and know how to get back to you to provide you with the answer.
+Depending on your relationship with MessageBird, we can be both Controller and Processor. If you have any questions about these terms or more general inquiries about how we handle identifiable data, you can always contact us at [privacy@messagebird.com](mailto:privacy@messagebird.com) or send a written inquiry to:
 
-**While you browse our website,** you can directly interact with us by filling in different web forms. You can [‘Talk to Sales’](https://web.archive.org/en/contact-sales) or ‘Talk to Support’ through our Intercom live chat (in the bottom right corner of any of our web pages). You can also share your information by sending us an email or by subscribing to our newsletter. If you do any of the described actions, we will collect the information that you are asked to provide such as your name, email address, and the content of your inquiries. When you reach out for assistance, we gather data from your account related to how you’re using our platform, your business needs, some contact details and so on, to tailor our assistance and provide the best possible response to your inquiry. You can decide to sign up to our newsletters. If you choose to, we will ask for some personal information, such as your email address and your name. Via a thid party, MessageBird will use the information collected from you for hosting the online platform to enable MessageBird’s to create, send and manage electronic newsletters. You can choose at any time to stop the subscription by opting out. You can do so by clicking ‘unsubscribe at the end of our newsletters.
+MessageBird B.V.
 
-**When you create a free trial account,** you’ll share some personal information: your name and email address as well as your username and password of choice. You can also sign up through your Google or Github account. By doing so, you allow third parties to share your email address and basic profile information. When you sign up, you will have to authenticate yourself by activating your account via a link sent to you through the email address you provided. You will then need to log-in with the username and password you previously created. We will thus use your basic information to identify you and make sure that you are a human being.
+attn. Legal Department (Privacy)
 
-To try our SMS API you will need to share your number to text it. This way, you will be given the option to use our free trial credits, before deciding to upgrade your account.
+Baarsjesweg 285
 
-We might ask for your telephone number in other circumstances too. We may ask you for it so that our sales team can contact you or If you decide to set up a two-factor authentication for your account. To enhance your security, you will need to enter your digits to which we will communicate verification codes to verify that it is you logging into your account. Furthermore, that number can also be used as a voice caller id.
+1058 AE Amsterdam
 
-**When you buy credits or subscribe to a plan,** we need more information. This includes your company details, billing addresses and preferred payment method(s). You will also be assigned an Account ID, which we’ll use to process your orders, assign invoices, and track API requests. If you integrate our APIs into your software application, you will be given an authentication token which allows us to identify you when you send the requests.
-
-We keep a record of your account credentials, so when you instruct our APIs using your details, we know that it is you assigning the commands. Moreover, this way we can identify you when you talk to your account manager or our support team. We may also use it to improve our own internal processes and services or training our team members.
-
-Some services might require additional information on the basis of the applicable laws. For instance, if you want to operate in Canada, Denmark, Malaysia, or the United States, you will need specific approval. You can do this on your account portal. To do so, we require details like the purpose of your campaign, and a template or an example of an SMS that you would send via MessageBird. To complete this procedure, we will share this information to local authorities.
-
-**When you use our products and services,** we collect what commands your application have communicated to MessageBird, your IP address, how many times you used a MessageBird product or service, when the product or service was used by you or your end users, the number of calls or messages made or received, the length of calls or messages, where those calls or messages originated or terminated, how those calls or messages were routed, and whether or not the connection was successful.
-
-**We collect data automatically when we place cookies and other first and third party tracking technologies on your browser.** The information we collect would normally include your IP address, your browser type, which pages have been visited, in what order, if the visitor is new or recurring, and other information that we use to assist us in the maintenance and improvement of our website and business. This data will only be used to ensure the website works correctly, to store any preferences you may have registered (e.g. language preference), to remarket our products and services to previous visitors, and to generate and review data and reports describing our website User base and usage patterns. If you want to know more about cookies and web beacons, and the way you can change your settings, please continue to our Cookie Policy below.
-
-#### Information We Share
-
-Unless you give us permission, we won’t share your information with third parties, except when necessary as in these circumstances:
-
-  * **Telephony operators and other communications service providers as necessary for proper routing and connectivity.** We reach people’s smartphones through telecom operators and other communication service providers all over the world such as Telegram and WeChat (often referred to as Over-The-Top (OTT) communications service providers).
-  * **Third-party service providers to perform necessary actions on our behalf.** We may share personal information with third-party service providers who need access such as to process payment and to prevent fraud.
-  * **Compliance with laws.** We diligently comply with the applicable laws regarding data protection and privacy. In case of legal obligation, we will present data from users to third parties, such as to report criminal acts or threats to public security to a competent authority;
-  * **Affiliates.** We may share data collected from you from the MessageBird website with our affiliates to complete internal procedures within our branches all over the world. We will only use the data as described in this Privacy Policy.
-  * **Targeted Advertising.** As a matter of policy, we will not sell or rent any information to a third party for any advertising or marketing purposes. We do however use direct marketing through Google Adwords. You can find out more on how to manage your advertising preferences by checking out our Cookie Policy below or by visiting the advertising settings in your browser.
-
-
-
-#### International Transfer (outside EEA area)
-
-Given that the Internet is a global environment, using it to collect and process personal data necessarily involves the transmission on an international basis. When data travels outside the EEA area, we take all the appropriate and necessary steps to ensure that our outsourcing partners have sufficient guarantees and safeguards in place to properly treat and protect your data in accordance with the applicable laws. We collaborate with international mobile operators and other third parties all over the world by entering, when required, into appropriate contracts to ensure compliance with the applicable data protection laws.
-
-By using our services, you consent to transferring your data to these countries.
-
-#### Data Security and Compliance Obligations
-
-We cannot guarantee the safety of the data as we cannot control unauthorised access or use of data. However, we take all the appropriate measures to keep our and your data as secure as possible. The measures we implement vary on sensitivity of the data involved, state of art technology, implementation costs, and security risks. MessageBird maintains a comprehensive and written information security policy that contains industry standard, administrative, technical and physical safeguards designed to prevent unauthorized access and use of personal information within the company.
-
-The information within our storage is password protected so that only the User has access to the User's personal and account information. The username and password of the User are strictly personal and should be kept secret. User is responsible for any abuse of the username/password and shall immediately notify us of any loss, theft and/or abuse at [legal@messagebird.com](mailto:legal@messagebird.com?subject=Privacy%20\[URGENT\]) (Subject: Privacy [URGENT]).
-
-#### Personal Information Retention
-
-MessageBird retains personal information in a form that allows user identification for a period necessary to fulfil the purposes outlined in this Privacy Policy - unless a longer retention period is required or permitted by law. Following that, we might keep your data in a non-identifiable form for archival, statistical and/or other legitimate purposes.
-
-#### Your Rights and Choices
-
-MessageBird respects User control. Users have the right to make choices about the data that we collect and store. In line with our commitments and the applicable laws, data subjects have the right to the following:
-
-  * **Withdraw consent:** At any time, you can withdraw your consent to our processing, unless it is based on another lawful grounds or we have legal obligations to keep your data. For instance, if you decide to delete your account but you fail to pay your past invoices, we would still keep your information and require you to fulfil your payment duties.
-  * **Deletion, Access, and Changes to Your Data:** To the extent permitted, users can amend, delete and view what personal data is being held about them. You can edit your information through the dashboard or ask us directly to update your information. The platform also gives you access to an overview of a content that you can export (such as your contact lists as well as your sent and received SMS up to 30 days of delivery). After those 30 days, the information will be anonymised and will be only accessible as statistics. Users can request us to obtain a copy of their personal information via email. Just write at legal@messagebird.com (Subject: Privacy) or via mail through our contact details reported below. Electronic requests to receive your copy are free of charge and will be sent to you in a CSV format or other applicable machine-readable format. All requests will be dealt without undue delay, and within one month from notification. A further extension up to three months may apply depending on the circumstances (e.g. if the information will prejudice the rights of any other individual or in complex cases). When you delete or you request us to delete your information, we might still be required to retain anonymised or aggregated information about you (that will not be able to identify you) for legitimate and necessary purposes to the extent permitted by law. We will also not delete your data if we are legally required to maintain it. For example, we may retain your personal information for backup, archival, or audit purposes, to prevent fraud, to resolve disputes, troubleshoot problems, to assist with any investigations, to enforce our Terms, and any other action otherwise permitted by law. Please note that to complete any of these requests, MessageBird might need to identify you.
-  * **Cookies and tracking technologies:** When you visit our website for the first time, you will be shown a small pop-up window asking you to accept to our use of specific cookies and plugins. You can either click ‘accept’ or decide specifically what information you want to share with us. Note that you can always change your preferences by referring to your Browser Setting, our Cookie Settings, and Cookie Policy below.
-
-
-
-#### Children
-
-Our services and products are not directed to Children under the age of 16. In certain jurisdictions, the age of digital majority may be set below or above; in which case, you must satisfy that age to become a member. We do not knowingly collect and/or process any personal information directly from children. If we discover we have received personal information from a child, either as a customer or end user, without parental or legal consent, in violation of this Policy, our Terms, and/or the local applicable laws, we will take reasonable steps to delete that information as quickly as possible. If you believe we have any of such information from or about a child, please contact us at [legal@messagebird.com](mailto:legal@messagebird.com?subject=Privacy%20\[Children\]) (Subject: Privacy [Children]).
-
-#### Links, Third Party Websites and Social Networking Sites (SNS)
-
-Our Online Services and communications may embed hyperlinks to other websites that are not owned or controlled by MessageBird and SNS (collectively, “Linked Sites”). We are not responsible for the privacy practices, policies, notices or content of any Linked Sites, even if you link to them from our Services. This Website Privacy Policy does not apply to any Linked Sites. We have no control over the collection or use of information on any Linked Site. We encourage you to read and understand the privacy practices, policies, notices, and content of any Linked Sites that you visit.
-
-#### Changes In Our Privacy Policy
-
-Please note that this policy might be subject to changes from time to time. MessageBird reserves the right to change, update, modify, or remove any part of this Privacy Policy. Amendments reflect our commitment to gain your trust in managing and protecting your personal information. If any modifications substantially affect your rights under this policy, we will send you an email where possible. Users will be always duly informed and may decide whether to continue to use our services or not in accordance with the new terms.
-
-#### Disputes
-
-If you have any dispute with us relating to our privacy practices, please contact our legal team at [legal@messagebird.com](mailto:legal@messagebird.com?subject=Privacy%20\[Dispute\]) (Subject: Privacy [Dispute]). Most disputes can be resolved that way. If it can’t, please refer to the [Terms](https://web.archive.org/en/terms), which describes how disputes will be resolved between us. Please be sure to review the Terms before you use any of our products and services.
-
-#### How You Can Contact Us
-
-We take privacy concerns into high consideration. Do you still have some questions left regarding the processing of your personal information when you use our website and services? Do you have any feedback or suggestions to make this policy better?
-
-Do not hesitate to contact us if you have additional questions you want to ask, we might have the answer you’re looking for! If you unsatisfied with the reply received, you may refer your complaint to the relevant regulator in your jurisdiction.
-
-We take privacy very seriously. You can reach us at [legal@messagebird.com](mailto:legal@messagebird.com?subject=Privacy) (Subject: Privacy) or write us at our HQ address:
-
-MessageBird B.V.  
-attn. Communications Department (Privacy),  
-Baarsjesweg 285  
-1058 AE Amsterdam  
 The Netherlands
 
-Do you live in Florida, California, Singapore, Germany, China, Australia or in the UK? Check out our [local addresses](https://web.archive.org/en/contact#offices) if you prefer old-fashioned mail.
+  
 
-We sometimes place small data files, called cookies, or other tracking technologies on your browser. A cookie is a small text file that a website saves on your computer or mobile device when you visit a website. MessageBird uses both session and persistent cookies. Session cookies are cookies that disappear from your computer or browser when you logout of your account or close your browser. Persistent cookies are stored even after you’ve closed the page.
 
-Keep reading to find out what those services are, how we use them, and what choices you can make about them. Most cookies can be blocked or removed from your browser at any time by following the relevant procedure specific to your browser. For example, they may contain an option to clear your browsing history or to browse incognito or in private mode. Please note that when you block cookies on this site, the site may not function as designed. For example, you will be unable to log in where appropriate or to retain any user preferences, so information may appear in the wrong locale or be unavailable.
+All the personal data we process is lawfully obtained and with a legal basis. The purpose of the information we collect is so we can continue to conduct and expand our day-to-day business, and enable you to use our services. Personal data can also help us to improve our products to fit the needs of our customers.
 
-We make use of third party providers to put cookies in place. Opt-out tools are also provided by third parties, not by MessageBird. We do not control or operate these tools or the options that advertisers and others provide through these tools. This list is subject to change and it may not include all such providers at any given time.
+Just as keeping your data safe is our priority, so is protecting your rights and freedoms as an individual, all in full compliance with global standards of rules and regulations for the protection of data. We process personal data based on a limited set of legal bases: 1) explicit consent (e.g. ticking a box on our website when you want to download product information), 2) signing a contract to receive a MessageBird service, 3) a legitimate interest (e.g. web analytics or direct marketing when there is an existing relationship), or 4) we have a legal obligation to do so (such as storing financial billing data for the time period required).
 
-**Cookie Type** | **Description** | **Management Settings**  
+We collect personal data for specific purposes, and we’ll always tell you what those are when we collect it. We’ll use the collected data for the specified purpose alone, as long as our relationship stays the same. If our relationship changes, we may need more information. For example, if you fill out a form to request more information, we’ll use your data to send it to you. If you then decide to become a customer, we’ll need additional information including your billing address.
+
+Here’s a list of the purposes for which we’ll request or use your data:
+
+  * Sharing relevant information about our products and services,
+  * Creating an account that’s connected to your person and company,
+  * Analysing usage of our products and services,
+  * Detecting fraudulent or unlawful activity,
+  * Keeping your account secure.
+
+
+
+You will always have the choice to provide personal data on our domain or not. Please keep in mind that declining to provide personal data might prevent you from using a certain product or service. We will tell you the implications of not providing the information asked for when you choose not to do so.
+
+In order to develop our business, we make use of third parties that supply us with information collected from publicly available sources and data enrichment providers. The information we collect is based on personas created by automated processes. In order to make sure we only approach the right audience, we only retain information that will help us reach out to people and companies that would benefit from the use of our services and products. If you no longer want to be contacted by our sales team, you can always object by contacting our [support team](mailto:support@messagebird.com).
+
+The exact type of data we collect depends on the related product or service. Setting your privacy settings on our website, signing up for a newsletter, downloading marketing materials, or using any of our products and services all require you to leave appropriate details, specific to that purpose. We never collect more data than we need and may ask for additional data at the appropriate time.
+
+The personal data we collect may include (depending on our relationship):
+
+  * Name,
+  * Contact details,
+  * Account credentials,
+  * Financial data,
+  * Usage data,
+  * Location data,
+  * Content data.
+
+
+
+To be thorough, we've listed how we collect personal data and how that data will be used. The information below is not exhaustive and may be updated in accordance to new legislation, or because further clarification is needed based on a new product or service.
+
+When browsing our website we automatically collect data by placing cookies and trusted tracking technologies on your browser. The information we collect helps us maintain and improve our website and business. It usually includes your IP address, browser type, the pages you've visited and in what order, and whether you’re a new or recurring visitor.
+
+We use this data to ensure that the website works correctly and store any preferences you may have. It also helps us show relevant advertisements, generate and review data, and generate reports on our website user base and usage patterns.
+
+When filling out a web form on our website, you directly interact with us. When you ‘Talk to Sales’, ‘Suggest an Integration’, ‘Talk to Support’ through our live chat window, send us an email, or subscribe to our newsletter, we hold the right to use the data you provide.
+
+When you sign up on our website, we ask for some personal data like your email address, company, name, and the content of your inquiries. The particular fields to fill in may differ per form, we'll never ask you for irrelevant information, and we'll always use the data for the purpose you submitted it for.
+
+If you're already a customer and you reach out for assistance through our website, we'll use the data collected from your account. That gives us relevant insight into how you’re using our platform, what your business needs are, past support issues, and so on. Pulling this information allows us to tailor our assistance and provide the best possible support.
+
+When creating a free trial account, you’ll need to fill out some personal data. The information we ask for is limited to what we need to provide you with the trial account. If you sign up by linking a third party account, you allow that third party to share the basic profile information needed to create a personal account with MessageBird.
+
+We always ask you to authenticate yourself when activating your account by sending an activation link sent to the email address you provided. All you have to do next is log in with your username and password and you're ready to get started. Activating your account with a confirmation link proves to us that you created the account and that you're human.
+
+When you start using the product during or after your free trial, we will ask for your phone number. Your number is used to send test messages, allows our support team to contact you, and allows for two-factor authentication on your account.
+
+When buying credits or subscribing to a plan, we need more information than just your name and password. In order to start billing, we need information including your company details, billing address and preferred payment method(s). You’re assigned an Account ID automatically that’s used to process your orders, assign invoices, and track API requests. If you integrate our APIs into your software application, you'll be given an authentication token that allows us to identify you when you send API requests.
+
+Your credentials help us to improve our internal processes and services. We keep account credentials on record to identify the account that assigns the API commands, and to make sure the account manager and our support team can store and access relevant information about your account.
+
+Sometimes, we're legally required to collect additional information depending on the service. For instance, if you want to operate in Canada, Denmark, Malaysia, or the United States, you need specific approval, which can be requested through your account portal. To complete the request, we require details like the purpose of your campaign and a template or example SMS that you would send via MessageBird. We then share this information with local authorities of the country you specified to complete the procedure.
+
+When using our products and services, we collect the commands your application communicates to MessageBird. This includes your IP addresses, information on your usage, and routing information.
+
+Whether we fulfil the role of Controller or Processor, we always make sure that the parties we work with adhere to the GDPR Privacy and Security Standards. Additionally, we will make sure that another party will not use the data you have entrusted to us for any other purpose than delivering the service you signed up for.
+
+Here's who we share information with and why:
+
+Telecom operators and other communications service providers for proper routing and connectivity. We reach people’s smartphones through telecom operators and other communication service providers. In order to make sure the message you send will reach the intended recipient, independent of their location, we make use of a global network of telecom providers.
+
+Third party service and technology providers who perform necessary actions on our behalf. We can share personal data with third party service providers, like our payment processor and hosting providers. We never share information without due contracts or for specific purposes that can be fulfilled in-house.
+
+MessageBird Company Family. In order to do business with our global offices, we might need to share personal data between our legal entities. Both MessageBird B.V. and all other entities in the MessageBird Company Family will only ever use the data as described in this statement.
+
+Targeted Advertising. We don't sell or rent any information to or from third parties for advertising or marketing purposes. We use direct marketing ourselves through Google Adwords. Find out more on how to manage your advertising preferences by checking out our Cookie Preference Center, or by visiting the advertising settings in your browser.
+
+We won’t share your information with third parties without your permission, except when we’re required to by law.
+
+We will only respond to government requests when we are legally obliged to do so. The request needs to 1) be sent from a government agency, 2) be issued where we are subject to the respective jurisdiction, 3) be an enforceable subpoena, search warrant, court order or similar official instrument compelling us to disclose the information requested, and 4) state the categories of records sought and specific time period.
+
+As a global, cloud based enterprise, our usage of the internet almost always involves the international transmission of personal data, both within and outside the EEA. If in our capacity as Processor an SMS message and the personal data involved transfer to a country outside the EEA, this is always determined by the use of our client in their role as Controller.
+
+We take care to ensure our partners outside the EEA have sufficient guarantees and safeguards in place to properly treat and protect your data. Whether we're dealing with international mobile operators or other companies, we always make sure we contractually agree on data protection to protect the rights and freedoms of all individuals, inside and outside the EU, and ensure compliance with the GDPR.
+
+We do everything in our power to keep your data safe. We invest in state-of-the-art technology and thorough security screenings of our infrastructure and employees to minimise security risks.
+
+Since all our accounts are password-, and possibly two-factor authentication, protected, the only person with access to your account should be you. If your login information is stolen or used without your permission, it's imperative you notify us immediately so we can secure your account. You can do so by sending an email to [privacy@messagebird.com](mailto:privacy@messagebird.com) with the subject 'Urgent: account credentials'.
+
+If you want to know more about the measures we take to keep your data secure, check out our [Security Statement](https://web.archive.org/en/security). It contains information about the industry standard, administrative, technical, physical, and organizational safeguards designed to prevent unauthorized access and use of personal data.
+
+How long we keep personal data depends on its nature and the purpose for which it was obtained. Personal data related to our services, such as telephone numbers, geographic data, and message body, have a default retention period of 6 months. We only keep information that can personally identify you for 12 months for marketing and sales purposes. Additionally, we are under an obligation to demonstrate compliance with the applicable national and EU financial and tax laws and regulations. To do so, Customer data related to the account such as name, email address, (company) address, (company) bank details and position within the company will be kept for a period up to 10 years.
+
+If you would like to review, amend, transfer or request to delete personal data during the default retention period, you can use dedicated features to do so. You can use our Data Request API for bulk requests. More specific requests can be submitted through easily accessible forms on our Dashboard.
+
+If we've come to an agreement with you that we can store your data for an alternative period of time, we'll do that for as long as the agreement stipulates. After the agreed retention period, we might keep data in a non-identifiable form for archival, statistical and/or other legitimate purposes. None of it will be able to identify you as an individual.
+
+Even though we collect your data to conduct business, your data stays your own. You stay in control of your personal data and can at any time choose what you want us do with it.
+
+You can at any time:
+
+Change your cookie settings. When you visit our website for the first time, you can either allow us to place all the cookies we use on your browser, decide to accept specific ones or deny all our cookies. You can always change your preferences both in your browser settings and the in cookie settings on our website. Within our cookie settings, we outline each cookie type in use on our site and provide an explanation of the implications of accepting it.
+
+Withdraw consent to our processing of your data. If for whatever reason you no longer want us to use your personal data, you’re free to change your mind. We will always comply with your request, unless we're legally required to keep your data. Which basically means that if there is any legal dispute, about for example outstanding invoices, we can keep your information until it’s resolved.
+
+Control and review your data. You can always view, amend, delete, and transfer your personal data. If you want to edit your information, you can do so on our dashboard where you can find an overview of your personal data. If you don’t use the dashboard, you can get a copy of your personal data directly by sending a request to [privacy@messagebird.com](mailto:privacy@messagebird.com), our support staff, or via written request addressed to our headquarters in Amsterdam. We’ll process your request as soon as possible with a maximum of one month after receiving it. If a request is complicated or we get too many requests to process at a given time period, our response time can be increased by two months. You’ll be informed when such an extension period applies. When you choose to delete your personal data, we hold the right to hold onto anonymised and aggregated data. If we do so, nothing will be able to identify you as a person in any way. If we’re required to retain your information for legal reasons, we will let you know in response to your request.
+
+Object to and restrict the processing of data. When your personal data is being processed to fulfill a legitimate interest to us, such as marketing, you’re able to object and unsubscribe. You can always exercise your right to restrict processing, and we’ll make sure to process your data in the way you specify. We will assess each request on a case-by-case basis according to the rules set out by the GDPR. If we override your request, we need to demonstrate that we have compelling grounds to do so, or that there’s a legal claim which allows us to retain personal data. If you don’t agree with how we’ve handled your request, you can file a complaint with the Supervisory Authority of The Netherlands, the authority related to the Member State you live or work in, or the country in which the suspected infringement has taken place.
+
+We place small data files, called cookies, or similar technologies on your browser. A cookie is a small text file saved on your computer or mobile device when you visit a website.
+
+In the cookie banner and in this notice we will explain in clear and plain language the relevant details about their use. This includes: where they are hosted, the lifespan of the cookie, and their purpose. This list is subject to change and it may not include all such providers at any given time.
+
+The MessageBird website uses four types of cookies; strictly necessary, performance, functional and marketing & analytics cookies. These include first and third party cookies: first party cookies are set and controlled by MessageBird, while third party cookies are set and controlled by a third party tool or service.
+
+The duration of a cookie varies: session cookies disappear from your computer or browser when you logout of your account or close your browser, while persistent cookies are stored even after you’ve closed the page. The retention period for these cookies is specified below.
+
+With the exception of Strictly Necessary Cookies, cookies will only be placed on your device and/or browser after you confirm or update your preferences through the cookie banner.
+
+If you decide to not allow opt-in cookies on this site, the site may not function as designed. For example, you may face issues logging in or retaining set preferences, such as the language the website displays.
+
+Your consent applies to the following domains: developers.messagebird.com, messagebird.com
+
+Your current state: Allow all cookies (Strictly Necessary, Functional, Performance). 
+
+Cookie declaration last updated on 24/07/2018 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot - The EU Cookie Law Solution"):
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
+
+Name| Provider| Purpose| Expiry| Type  
+---|---|---|---|---  
+CookieConsent [x2]| messagebird.com  
+developers.messagebird.com| Stores the user's cookie consent state for the current domain| 1 year| HTTP Cookie  
+language| messagebird.com| Saves the user's preferred language on the website.| 1 year| HTTP Cookie  
+PHPSESSID [x2]| dashboard.messagebird.com  
+messagebird.com| Preserves user session state across page requests.| Session| HTTP Cookie  
+  
+These cookies enable the website to provide enhanced functionality and personalisation such as the website content being provided in the preferred language for your location. They may be set by us or by third party providers whose services we have added to our pages.
+
+Name| Provider| Purpose| Expiry| Type  
+---|---|---|---|---  
+CookieConsentBulkTicket| cookiebot.com| Enables cookie consent across multiple websites| 1 year| HTTP Cookie  
+dropdown| messagebird.com| Remembers the country selected in the country dropdown on the pricing page.| Session| HTTP Cookie  
+lang [x2]| ads.linkedin.com  
+linkedin.com| Remembers the user's selected language version of a website| Session| HTTP Cookie  
+  
+These cookies allow us to measure visits, traffic sources and engagement so we can improve the performance of our site. They help us learn which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous.
+
+Name| Provider| Purpose| Expiry| Type  
+---|---|---|---|---  
+_ga| messagebird.com| Registers a unique ID that is used to generate statistical data on how the visitor uses the website.| 2 years| HTTP Cookie  
+_gat| messagebird.com| Used by Google Analytics to throttle request rate| Session| HTTP Cookie  
+_gid| messagebird.com| Registers a unique ID that is used to generate statistical data on how the visitor uses the website.| Session| HTTP Cookie  
+ajs_anonymous_id| messagebird.com| This cookie is used to identify a specific visitor - this information is used to identify the number of specific visitors on a website.| 1 year| HTTP Cookie  
+collect| google-analytics.com| Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.| Session| Pixel Tracker  
+personalization_id| twitter.com| This cookie is set by Twitter. The cookie allows the visitor to share content from the website on his/her Twitter profile.| 2 years| HTTP Cookie  
+  
+These cookies allow advertising parties to uniquely identify your browser and internet device. These cookies have the capability to either alone or in conjunction with others uniquely identify a person directly or indirectly. They may be regarded as personal data, under the relevant Data Protection Legislation.
+
+Name| Provider| Purpose| Expiry| Type  
+---|---|---|---|---  
+__ab12#| messagebird.com| Pending| 4209 days| HTTP Cookie  
+_mkra_ctxt| api-iam.intercom.io| Pending| Session| HTTP Cookie  
+351aec7931114f91a83ecef745e11b5a194f87559c0f4b82a707fe2c68175eab| api.autopilothq.com| Pending| 1 year| HTTP Cookie  
+ads/conversion/#| google.com| Pending| Session| Pixel Tracker  
+ads/user-lists/#| google.com| Pending| Session| Pixel Tracker  
+ajs_group_id| messagebird.com| This cookie is used to assign specific visitors into segments, this segmentation is based on visitor behavior on the website - the segmentation can be used to target larger groups.| 1 year| HTTP Cookie  
+ajs_user_id| messagebird.com| This cookie is used to collect data on the visitor's behavior on the website - this information can be used to assign the visitor to a visitor segment, based on common preferences.| 1 year| HTTP Cookie  
+bcookie| linkedin.com| Used by the social networking service, LinkedIn, for tracking the use of embedded services.| 2 years| HTTP Cookie  
+BizoID| ads.linkedin.com| Pending| 29 days| HTTP Cookie  
+bscookie| linkedin.com| Used by the social networking service, LinkedIn, for tracking the use of embedded services.| 2 years| HTTP Cookie  
+fr| facebook.com| Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.| 3 months| HTTP Cookie  
+i/adsct| t.co| Pending| Session| Pixel Tracker  
+IDE| doubleclick.net| Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.| 1 year| HTTP Cookie  
+intercom-id-ovarfzs9| messagebird.com| Pending| 270 days| HTTP Cookie  
+lidc| linkedin.com| Used by the social networking service, LinkedIn, for tracking the use of embedded services.| Session| HTTP Cookie  
+NID| google.com| Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.| 6 months| HTTP Cookie  
+pagead/1p-user-list/974324125| google.com| Pending| Session| Pixel Tracker  
+r/collect| doubleclick.net| This cookie is used to send data to Google Analytics about the visitor's device and behavior. It tracks the visitor across devices and marketing channels.| Session| Pixel Tracker  
+test_cookie| doubleclick.net| Used to check if the user's browser supports cookies.| Session| HTTP Cookie  
+tr| facebook.com| Pending| Session| Pixel Tracker  
+UserMatchHistory| ads.linkedin.com| Pending| 29 days| HTTP Cookie  
+uuid2| adnxs.com| Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.| 3 months| HTTP Cookie  
+  
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+
+Name| Provider| Purpose| Expiry| Type  
+---|---|---|---|---  
+_/ad/5452d904490c49039fd39b4ca2de47f3/pixel| q.quora.com| Pending| Session| Pixel Tracker  
+__tld__| messagebird.com| Pending| Session| HTTP Cookie  
+_csrf [x2]| dashboard.messagebird.com  
+messagebird.com| Pending| Session| HTTP Cookie  
+ajs%3Acookies| messagebird.com| Pending| 1 year| HTTP Cookie  
+ajs%3Atest| messagebird.com| Pending| 1 year| HTTP Cookie  
+ajs_group_properties [x2]| developers.messagebird.com  
+messagebird.com| Pending| Persistent| HTML Local Storage  
+ajs_user_traits [x2]| developers.messagebird.com  
+messagebird.com| Pending| Persistent| HTML Local Storage  
+algoliasearch-client-js| developers.messagebird.com| Pending| Persistent| HTML Local Storage  
+images/121341.gif| hexagon-analytics.com| Pending| Session| Pixel Tracker  
+images/127807.gif| hexagon-analytics.com| Pending| Session| Pixel Tracker  
+images/474697.gif| hexagon-analytics.com| Pending| Session| Pixel Tracker  
+images/51339.gif| hexagon-analytics.com| Pending| Session| Pixel Tracker  
+images/541744.gif| hexagon-analytics.com| Pending| Session| Pixel Tracker  
+images/553165.gif| hexagon-analytics.com| Pending| Session| Pixel Tracker  
+images/768987.gif| hexagon-analytics.com| Pending| Session| Pixel Tracker  
+images/852265.gif| hexagon-analytics.com| Pending| Session| Pixel Tracker  
+images/867131.gif| hexagon-analytics.com| Pending| Session| Pixel Tracker  
+images/909246.gif| hexagon-analytics.com| Pending| Session| Pixel Tracker  
+intercom.played-notifications| messagebird.com| Pending| Session| HTML Local Storage  
+intercom-state [x2]| developers.messagebird.com  
+messagebird.com| Pending| Persistent| HTML Local Storage  
+m-b| quora.com| Pending| 6311 days| HTTP Cookie  
+  
+  
+ **Manage cookies from your browser** : Find out more on how to update, activate, deactivate or remove cookies using your browser by visiting the links below:
+
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+  * [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Firefox](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
+  * [Safari](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+
+
+
+ **IP Addresses** : When you visit our website or account portal, or use our products and services, we collect your IP address. We use IP addresses to track and analyse information about the devices that interact with our systems and to know where these devices are located. For example, to detect the location of account logins to help us detect potential fraud or malicious agents.
+
+ **Web Beacons** : A web beacon is an object placed in a web page or email we use to check whether a user has accessed its content. We use web beacons along with cookies to gather data about your use of the MessageBird site and account portal. For example, we may use web beacons in marketing emails that notify us when you open an email or click on a link.
+
+Our services and products are not directed to children under the age of 18. We never knowingly collect and/or process any personal data from children under this age directly. If we discover we’ve received personal data from a child without parental or legal consent, we will immediately take reasonable steps to delete that information as quickly as possible. If you believe we have any information from or about a child, please contact us at [privacy@messagebird.com](mailto:privacy@messagebird.com) with the subject: ‘Children’.
+
+Our online services and communications may embed hyperlinks to websites that are not owned or controlled by MessageBird. We’re not responsible for the privacy practices, policies, notices or content that are not on our website or domain, even if we’ve embedded a link to them. We encourage you to read and understand the privacy practices, policies, notices, and content of any linked sites that you visit.
+
+This statement might be subject to changes. We reserve the right to change, update, modify, or remove any part of this Privacy Statement at any time. If any modifications substantially affects your rights under this statement, we will send you an email where possible. You can always decide to continue to use our services or not in accordance with the new terms.
+
+If you have any dispute with us relating to our privacy practices, please contact our legal team at [privacy@messagebird.com](mailto:privacy@messagebird.com) with the subject: ‘Dispute’. If we can’t reach an understanding via email, please refer to the Terms, which describes how disputes will be resolved between us. Please be sure to review the Terms before you use any of our products and services.
+
+Sub Processor| Legal Entity| Geographical location  
 ---|---|---  
+Knowledge Capture| 729 Solutions| USA  
+Adyen| Adyen N.V.| EU (The Netherlands)  
+Autopilot| AutopilotHQ Inc.| USA  
+Claranet| Claranet Benelux B.V.| EU (The Netherlands)  
+Clearbit| APIHub Inc.| USA  
+CloudApp| PloudPlus Inc.| USA  
+Copper| Copper Inc.| USA  
+DocuSign| Docusign Inc.| USA  
+Exact Online| Exact Holding B.V.| EU (The Netherlands)  
+Google Cloud| Google Ireland Limited| EU (Ireland)  
+Google Services| Google Ireland Limited| EU (Ireland)  
+Hotjar| Hotjar Ltd.| EU (Malta)  
+Hunter| Hunter Web Services, Inc.| EU (France)  
+Intercom| Intercom R&D Unlimited Company| USA  
+Interswitch| Interswitch B.V.| EU (The Netherlands)  
+Jira| Atlassian Inc.| USA  
+LinkedIn| LinkedIn Ireland Unlimited Company| EU (Ireland)  
+Looker| Looker Data Sciences, Inc.| USA  
+MailChimp| The Rocket Science Group LLC| USA  
+Mollie| Mollie B.V.| EU (The Netherlands)  
+NetSuite| NetSuite Inc.| USA  
+Outreach| Outreach Inc.| USA  
+PayPal| PayPal Holdings Inc.| USA  
+Percona| Percona Server for MySQL| USA  
+RTP Engine| Sipwise GmbH| EU (Austria)  
+Segment| Segment.io, Inc.| USA  
+Sift Science| Sift Science Inc.| USA  
+Stripe| Stripe Inc.| USA  
+Terraform Vault| HashiCorp Inc.| USA  
+Thrive Digital| Thrive Digital Ltd.| Canada  
+Tray.io| Tray.io Inc.| USA  
+Trello| Atlassian Inc.| USA  
+Unit4 Multivers| Unit4 Business Software B.V.| EU (The Netherlands)  
+Wunderlist| 6 Wunderkinder GmbH| EU (Germany)  
+Xero| Xero Ltd.| New Zealand  
+Zapier| Zapier Inc.| USA  
+Zendesk| Zendesk Inc.| USA  
   
-**Required cookies**
+If you have any questions left regarding the processing of your personal data when you use our website and services, or have any feedback or suggestions to make this policy better, please don’t not hesitate to contact us.
 
-| 
+If you’re not satisfied with our reply, you may refer your complaint to the relevant regulator in your jurisdiction.
 
-We use required cookies to keep your account and information safe. They make it possible to authenticate users, prevent fraudulent use of login credentials, and protect accounts information from unauthorised access. 
+You can reach our Data Protection Officer at [privacy@messagebird.com](mailto:privacy@messagebird.com) or at our HQ address:
 
-Each time you log in to your MessageBird account, a cookie containing an encrypted, unique identifier that is tied to your account is placed on your browser. These cookies allow MessageBird to uniquely identify you when you’re logged into your account and to process your online requests and transactions. 
+MessageBird B.V.
 
-| 
+attn. Legal Department (Privacy)
 
-Required cookies cannot be opted out. They are necessary to operate the account portal.   
-  
-| 
+Baarsjesweg 285
 
-We also use third party providers for required cookies. 
+1058 AE Amsterdam
 
-**SiftScience**
+The Netherlands
 
-We use SiftScience to prevent and detect fraud. 
-
-| 
-
-You can read about SiftScience Service Privacy Policy [here](https://siftscience.com/service-privacy).   
-  
-**Functionality cookies**
-
-| 
-
-To make this site work properly and to improve its user friendliness, MessageBird uses functional cookies. For example, we use those to save your language preferences and location so you do not have to change them every time you visit our site. These cookies will expire after 1 year. 
-
-| 
-
-You can use your browser settings to opt out of functionality cookies. For more information on how to do that, click [here](https://www.aboutcookies.org/). If you opt out, that might affect the functionality of the website and account portal.   
-  
-| 
-
-We may also have third party service providers that help us provide you with the best possible user experience. 
-
-Third party service providers that currently place functionality cookies include: 
-
-**Intercom**  
-
-Intercom is a customer relationship management and messaging tool. We use Intercom to record analysis of user activity and provide a communication mechanism. This allows us to provide you with help and support when using MessageBird. 
-
-  * Data collected: Anonymous (Browser information, cookie data, data/time, page views), Pseudonymous (IP Address (EU PII))
-  * Data duration: 1 year 
-  * Domain: MessageBird 
-
-| 
-
-Intercom’s privacy policy is available [here](https://www.intercom.com/privacy).   
-  
-**Performance cookies**
-
-| 
-
-MessageBird makes use of analytical cookies to keep track of visitors’ browsing patterns to improve our interface and user experience. These cookies collect data about how visitors interact with our site. This data includes information like which pages visitors go to the most and it is intended to be anonymous and used to improve how the site functions and performs. 
-
-| 
-
-You can use your browser settings to opt out of performance cookies. For more information on how to do that, click [here](https://www.aboutcookies.org/).   
-  
-| 
-
-Third party service providers that currently place performance cookies and plugins include: 
-
-|   
-| 
-
-**Google Analytics**
-
-We use Google Analytics to gain insights into our website traffic and marketing effectiveness. With Google Analytics we track information such as the pages that are visited, for how long, what browser is used and from which pages users exit. This will give us a better understanding of how our website is used. It also serves as guidance to improve our website and its specific pages.
-
-  * Data collected: Anonymous (Browser information, cookie data, data/time, page views), Pseudonymous (IP Address (EU PII))  
-  * Data duration: 1 year 
-  * Domain: MessageBird
-
-| 
-
-Don't want your visit data reported by any website that uses Google Analytics? Learn about the [opt out browser plugin](https://support.google.com/analytics/answer/181881?hl%3Den).   
-  
-| 
-
-**Mixpanel**
-
-Mixpanel helps us better understand how users behave on our site. We use this information to continuously improve our interface and your experience. 
-
-  * Data collected: Anonymous (Browser Information, Cookie Data, Hardware/Software Type, Interaction Data, Page Views; Pseudonymous (Location Based Data); PII (Name, Address, Email Address, Login); Sensitive (Financial Information)
-  * Data duration: 1 year 
-  * Domain: MessageBird
-  * Data sharing: aggregated data is shared with 3rd parties. 
-
-| 
-
-You can opt out from 
-
-Mixpanel [here](https://mixpanel.com/optout/).   
-  
-| 
-
-**Segment**
-
-MessageBird uses Segment to manage third party cookies in one place. Segment itself does not store any data but merely passes it along to third-parties it is connected to. Those include all the above mentioned tools, except for Google Analytics, and only partially for SiftScience. 
-
-| 
-
-Find more about Segment [here](https://segment.com/docs/legal/privacy/).   
-  
-**Targeting or Advertising cookies**
-
-| 
-
-We use third party providers to connect with Users that have already shown interest in our services (by visiting our website before) and new users when they search for terms related to our products and services. 
-
-MessageBird sometimes uses cookies placed by its third party service providers to track the performance of our advertisements. For example, these cookies remember which browsers have visited our site. 
-
-The data we send to our third parties does not include information that personally identifies you, but it might be re-associated with information that identifies you specifically after MessageBird receives it. 
-
-| 
-
-To learn more about and how you can opt out of targeting and advertising cookies, you can visit this [link](https://www.aboutads.info/) if you are in the US, this [link](http://www.youronlinechoices.com/) if you are in the European Union, or this [link](http://youradchoices.ca/) if you reside in Canada.  
-  
-| 
-
-MessageBird uses third-party advertising networks that collect IP addresses and other data from web beacons (see below) on our site, from emails, and on third-party websites. Ad networks follow your online activities over time through automated tracking technologies. 
-
-They use this data to provide ads about products and services tailored to your interests. You may see these ads on other websites. This helps us manage and track the effectiveness of our marketing.
-
-|   
-| 
-
-Below are third parties that currently place tracking technologies on MessageBird site. The cookies duration differs. Storage can go up to 540 days from the time you clicked on the ad. 
-
-|   
-| 
-
-**Google DoubleClick**
-
-We use this service for advertising optimisation. DoubleClick allows us to understand our audience with real-time data and unified insights and to take control of cross-screen campaigns. This means that if you have enabled your mobile and desktop devices to track your activity in any device you’ve logged into with your Google account, we can re-market our products to you wherever you are browsing, even on another device signed into with your Google credentials. 
-
-| 
-
-You can find out more about Google Double Click [here](https://support.google.com/adsense/answer/2839090?hl%3Den). 
-
-You can opt out of Google Ads [here](https://www.google.com/settings/u/0/ads/authenticated?hl%3Den-GB). 
-
-Please note that you will still see ads but those will not necessarily be relevant to you once you’ve opted out.   
-  
-| 
-
-**Google Analytics Audience**
-
-This is a Google Analytics tool that makes it possible for us to re-market our services and products to people who have already visited our websites. We build these audiences on the data we already have in Google Analytics. 
-
-| 
-
-For more information on opting out of Google advertising tracking technologies, click [here](http://www.google.com/policies/technologies/ads/). You can opt out from Google Ads [here](https://www.google.com/settings/u/0/ads/authenticated?hl%3Den-GB).   
-  
-| 
-
-**Google AdWords Conversion**
-
-We fortify our advertising efforts by using Google AdWords remarketing tag (advertising cookies). The information it collects are restricted to the pages you have visited on our domain.
-
-| 
-
-For more information on opting out of Google advertising tracking technologies, click [here](http://www.google.com/policies/technologies/ads/). You can opt out from Google Ads [here](https://www.google.com/settings/u/0/ads/authenticated?hl%3Den-GB).   
-  
-| 
-
-**Google Dynamic Remarketing**
-
-We use Google Dynamic Remarketing to target search engine marketing to users of the Google search engine.
-
-| 
-
-For more information on opting out of Google advertising tracking technologies, click [here](http://www.google.com/policies/technologies/ads/). You can opt out from Google Ads [here](https://www.google.com/settings/u/0/ads/authenticated?hl%3Den-GB).   
-  
-| 
-
-**Twitter Advertising**
-
-We use Twitter Advertising to target and track the success of social ads placed on twitter.com.
-
-| 
-
-For information on opting-out of Twitter Advertising tracking technologies, click [here](https://support.twitter.com/articles/20170407).  
-  
-#### What We Do With IP Addresses
-
-When you visit our website or account portal, or use our products and services, we collect your IP address. We use IP addresses to track and analyse information about the devices that interact with our systems and to know where these devices are located. For example, we use IP addresses to know where our website visitors come from as well as to detect the location of account logins to help us detect possible fraud.
-
-#### Web Beacon
-
-A web beacon is an object placed in a webpage or email we use to check whether a user has accessed its content. We use web beacons along with cookies to gather data about your use of the MessageBird site and account portal, along with your interaction with our emails. For example, we may put web beacons in promotional emails that notify us when you click on a link in the email that leads you to our website or one of its pages.
-
-#### Do Not Track
-
-Do not track (DNT) is an optional browser setting that allows you to express your preferences in respect to direct advertising. We do not currently respond to DNT browser requests.
+Do you live in the USA, Singapore, Germany, China, Australia or in the UK? Check out our [local addresses](https://web.archive.org/en/contact#offices) if you prefer old-fashioned mail.
