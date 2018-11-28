@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptv.vic.gov.au privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330052809id_/https%3A//www.ptv.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptv.vic.gov.au privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128153739id_/https%3A//www.ptv.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Public Transport Victoria
 
@@ -108,7 +108,7 @@ Telephone: [1800 800 007](https://www.ptv.vic.gov.au/customer-service/public-tra
 
 Fax: 03 9027 4074
 
-Email: [[email protected]](https://www.ptv.vic.gov.au/cdn-cgi/l/email-protection#43333735252c2a033337356d352a206d242c356d22367c303621292620377e05312626272c2e6671732c256671730a2d252c312e22372a2c2d66717331263236263037 "Email the PTV Freedom of Information Officer")
+Email: [[email protected]](https://www.ptv.vic.gov.au/cdn-cgi/l/email-protection#b6c6c2c0d0d9dff6c6c2c098c0dfd598d1d9c098d7c389c5c3d4dcd3d5c28bf0c4d3d3d2d9db938486d9d0938486ffd8d0d9c4dbd7c2dfd9d8938486c4d3c7c3d3c5c2 "Email the PTV Freedom of Information Officer")
 
 ## Unique identifiers
 
@@ -134,7 +134,7 @@ Telephone: [1800 800 007](https://www.ptv.vic.gov.au/customer-service/public-tra
 
 Fax: (03) 9027 4074
 
-Email: [[email protected]](https://www.ptv.vic.gov.au/cdn-cgi/l/email-protection#a7d7d3d1d7d5ced1c6c4dee7d7d3d189d1cec489c0c8d189c6d2 "Email the PTV Information Privacy Officer")
+Email: [[email protected]](https://www.ptv.vic.gov.au/cdn-cgi/l/email-protection#1363676563617a6572706a536367653d657a703d747c653d7266 "Email the PTV Information Privacy Officer")
 
 ### Health Complaints Commisssioner
 
