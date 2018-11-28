@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnic.net privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521091226id_/https%3A//www.apnic.net/about-apnic/corporate-documents/documents/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnic.net privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129003951id_/https%3A//www.apnic.net/about-apnic/corporate-documents/documents/corporate/privacy) for the most accurate reproduction.*
 
 # APNIC Privacy Statement – APNIC
 
