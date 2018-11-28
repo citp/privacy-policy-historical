@@ -1,108 +1,84 @@
-> *The following text is extracted and transformed from the explorelearning.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605072133id_/http%3A//www.explorelearning.com/index.cfm%3Fmethod%3DController.dspPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorelearning.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128170337id_/https%3A//www.explorelearning.com/index.cfm%3Fmethod%3DController.dspPrivacy) for the most accurate reproduction.*
 
-# Privacy Policy | ExploreLearning
+# ExploreLearning Gizmos: Math & Science Simulations Powering Inquiry and Understanding
 
-We are committed to our users privacy. This privacy policy covers the site http://www.explorelearning.com and contains the following information: 
+This site provides you with access to ExploreLearning's Data Management System. This system is an integral component of ExploreLearning's curriculum products and provides valuable reporting, instructional recommendations, and other resources used by teachers and other instructional leaders in conjunction with ExploreLearning's curriculum with the goal of improving student performance. 
 
-  1. The personally identifiable information (PIN) ExploreLearning collects. 
-  2. The PIN that third parties collect through the ExploreLearning web site. 
-  3. The name(s) of organization(s) collecting the information. 
-  4. How ExploreLearning uses the information. 
-  5. Entities with whom ExploreLearning may share PIN. 
-  6. The choices available to users regarding collection, use and distribution of PIN. 
-  7. The security procedures in place to protect the loss, misuse or alteration of PIN under ExploreLearning control. 
-  8. Ways that users can correct any inaccuracies in their PIN. 
+This statement describes the privacy and security practices ExploreLearning employs for this site. We have adopted these practices to protect you, the students, and the school district, and to enable each of us to comply with applicable legal requirements. Use of this site requires district acceptance of the practices outlined in this statement. 
 
+Two types of personally identifiable information are used on this site: **your personal data** and **student data**. 
 
+#### Your Personal Data
 
-#### Information Collection and Use 
+_Collection_ : ExploreLearning collects information from you as you use this site. For example, you must enter certain personally identifiable information, including your name and, for teachers, your e-mail address. We use this information to verify your identity and prevent unauthorized access to your account and to contact you in connection with your use of this site. 
 
-ExploreLearning collects information at several different points on the ExploreLearning web site and is the sole owner of all infomation that is collected. 
+In addition to the information you provide, ExploreLearning collects information about your use of this site through tracking, cookies, and log files, as described in our general [Terms of Use](https://www.explorelearning.com/index.cfm?method=Controller.dspTerms) statement. 
 
-We generally use the aggregate data we collect to evaluate the extent to which the ExploreLearning websites continue to be useful and relevant to our members and the general public. For example, we may perform statistical analyses of the collective characteristics and behavior of our members and visitors, to measure overall user demographics and interests regarding specific areas of the ExploreLearning domain and to analyze how and where to use our resources. A user must provide the clickstream information (internet protocol address, internet service provider, platform type, date/time stamp, operating system), http protocol information (last uri requested and browser type), interaction information (browser interaction such as when the mouse moves over an image), navigation and click-stream data (passive activity such as pages visited), unique identifiers (login id or other id), interactive data (account activity and searches performed), navigation and click-stream data (passive activity such as pages visited), online contact information (email address), unique identifiers (login id or other id), search terms (search text), transaction information (account transactions), user's name, user's login information, user's employer, organization department user is employed, user's job title, business/organization name and department/division of business/organization. It is optional for the user to provide User's Name, User's Login Information, User's Employer, Organization Department User is Employed, User's Job Title, Business/Organization Name and Department/Division of Business/Organization. We encourage users to provide optional information so we can provide a more personalized experience on our site. The reason we use this information is to complete the current transaction, contact by email or regular mail, enhance our site and product offerings, maintain and secure our site and understand (in aggregate) interests of website visitors. We retain this information as stated by our business practices. When users have data collected for the purpose of contacting by email or regular mail, they are given the opportunity to opt-out of information collected (Please see our Choice and Opt-out section). 
+_Protection_ : Because you enter your personal data, you control its accuracy. If you discover that your personal data is inaccurate or if it changes or if you want to retain possession of it, you may make corrections by notifying us at [support@ExploreLearning.com](mailto:support@ExploreLearning.com) . We will not share your personal data collected through this site with third persons without your consent. However, your personal data will be available to authorized users from your school district who have permission from the school district to access it. We will not use your personal data collected through this site for any purpose other than providing you with access to this site and the associated services. This means that we will not use your data to display contextual or behavioral advertising, will not use the data to track and target advertisements on third party websites, and will not allow third parties to use your data to create ad profiles, perform data enhancement or target ads. We will use the same security to protect your personal data that we use to protect student data collected through this site. We may use anonymized data collected through your use of ExploreLearning products to enhance those products. 
 
-##### Cookies
+#### Student Data
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. You can set your browser to notify you to either accept or deny the cookie according to the following information. 
+As you use this site, you will enter student data or interact with student data that has already been entered. Federal law (the Family Educational Rights and Privacy Act, "FERPA") allows a school district to release student records to an organization that is "conducting studies for, or on behalf of, educational agencies or institutions for the purpose of developing, validating, or administering predictive tests... [or] improving instruction." 
 
-  * IE6, see [Microsoft's Internet Explorer Web Privacy](http://www.microsoft.com/windows/ie/evaluation/overview/privacy.asp) page. 
-  * Firefox, see [Options/Preferences Window:Privacy Options](http://www.mozilla.org/support/firefox/options##privacy). 
-  * Netscape 6, see [Netscape 6 - Safety with More Control](http://home.netscape.com/browsers/6/safety.html) . 
-  * Opera 5 or 6, see [Security and Privacy in Opera](http://www.opera.com/support/tutorials/security/privacy/index.dml). 
+However, FERPA requires limitations on disclosure of those records and implementation of appropriate security measures to protect those records. To help your school district comply with FERPA, ExploreLearning has adopted certain practices, and requires that educators using this site fulfill certain responsibilities to safeguard student data. Additionally, ExploreLearning operates in compliance with the Children's Online Privacy Protection Act ("COPPA"). ExploreLearning will not knowingly collect or use personally identifiable information from anyone under 13 years of age. 
 
+The following statement explains our practices and your responsibilities regarding the student data you enter on this site. 
 
+#### Student Data Security and Confidentiality Statement
 
-Our website uses cookies to enhance our site. 
+_Purposes of Data Entry_ : You control what student data is entered on this site and you retain ownership of the student data at all times. Student data entered on this site should be limited to information that is relevant to the legitimate educational purpose of improving student performance. We will not ask you to enter, and you are instructed not to enter, data about students that is not relevant to this legitimate educational purpose. 
 
-#### Profiles 
+Therefore, only a minimum amount of personally identifiable student data required for the setup of the system is requested. We require student first name, student last name. Additional data, not specific to the student, is also required to complete system setup, including the teacher first and last name, class name, grade level, and school name. If you choose to enter student demographic data for the purposes of optional disaggregated reporting for the Reflex product, you grant permission for ExploreLearning to host and use that data for reporting purpose. This reporting functionality is not available on Gizmos. 
 
-ExploreLearning does not create a user profile. 
+_Use, Disclosure, and Storage_ : We will use the student data to provide the services to your school district. We will not keep the student data after you or the school district instructs us to delete it. 
 
-#### Communications from the Site
+We will only disclose student data to authorized employees or representatives of the school district, and will not knowingly disclose the student data to any third person without express written authorization. When, at the request of the district, we acquire assessment or other information, including personally identifiable student data, from a third party source we treat that information with the same confidentiality and security safeguards as though it were provided directly by the district. Additional agreements may be required by the third party to authorize transmission of data to ExploreLearning. 
 
-When customers provide us contact information for User Group 1 (users can opt-out by following the directions in our 'Choice' section) we use the information to contact the user to deliver sales and product information that will be useful to the them. 
+Your district may from time to time request that ExploreLearning provide student data to third parties of its choosing. We will do so with written authorization, which acknowledges that ExploreLearning is providing that data as your district's agent and that once the data is received by the third party, ExploreLearning no longer has any control over the use or disposition of the data. 
 
-#### Sharing Information 
+We may also use aggregated data in our research, product development, and marketing. That aggregated, non-personally identifiable data (e.g., summary or statistical data) may be shared with third parties. However, we do not use personally identifiable student data to market any products or services directly to students or their parents. 
 
-##### Legal Disclaimer 
+In the event that ExploreLearning wishes, from time to time, to release aggregated data that identifies your school or school district by name, ExploreLearning will enter into a separate agreement with you to authorize release and publication. 
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+ExploreLearning does not utilize third parties to provide products and does not share your student data with any third parties. 
 
-##### Personally Identifiable Information 
+**We may share Personal Information with our parent company and other affiliated companies. If we enter into a business transition such as a merger, consolidation, acquisition, sale of assets, joint venture, securities offering, bankruptcy, reorganization, liquidation, or dissolution, your Personal Information may be among the assets we transfer. You acknowledge and consent that such transfers are permitted by this Privacy Policy, and that any acquirer of ours or that acquirer's affiliates may continue to collect and use your Personal Information as set forth in this Privacy Policy.**
 
-Personally identifiable information is not shared with any third parties. 
+_Cookies_ : We use "cookies" to collect information. For example, we may use these technologies to collect information about the ways visitors use this Site - which pages they visit, which links they use, and how long they stay on each page. We also use these technologies to support certain features of this Site. For example, we use these technologies to personalize your experience when you use this Site and to save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits. 
 
-##### Aggregate Information (non-personally identifiable) 
+The information we collect using cookies and similar technologies is not, in and of itself, personally identifiable, but we may link it to personal information that you provide. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept cookies when you visit this Site, you may be unable to use all of the functionality of this Site if your browser rejects our cookies. 
 
-Aggregate information is not shared with any third parties. 
+_Data Quality_ : You are responsible for keeping the student data that you enter accurate, complete and up-to-date. If you recognize that student data is inaccurate, incomplete, or out-of-date, you are responsible for correcting it. If you experience problems making corrections to student data, please notify us at [support@ExploreLearning.com](mailto:support@ExploreLearning.com) and we will assist you with making corrections. 
 
-#### Choice/Opt-out 
+_Security Safeguards_ : We are committed to protecting student data against unauthorized access, destruction, use, modification or disclosure. Protecting student data requires efforts from us and from you. We will implement reasonable and appropriate safeguards when collecting student data from you and when storing that student data in our database and you will observe our security safeguards and exercise reasonable caution when using this site. 
 
-When our web site originates email, our users are given the opportunity to 'opt-out' of these communications by one of 2 methods:
+Specific institutional and technological security safeguards include: 
 
-  1. following the unsubscribe link located near the bottom of every email they receive, or
-  2. by emailing us at [support@explorelearning.com](mailto:support@explorelearning.com?subject=SUPPORT%20--%20Privacy%20Policy "send an email") from the email address they wish to be unsubscribed. 
+  1. Only ExploreLearning employees who are authorized to handle student data are able to access the Data Management System.
+  2. Only school district employees and representatives that the district authorizes as school officials are permitted to access the system. 
+  3. Each authorized school official is given a Userid and Password valid for the duration of the subscription. You must safeguard your Userid and Password, and not permit any unauthorized access to student data entered or kept in ExploreLearning's system. 
+  4. Upon written request by the district, ExploreLearning will destroy any student data for districts who no longer participate in an ExploreLearning program. ExploreLearning will provide written verification that the data has been destroyed as requested.
+  5. 60 days following termination of a product subscription, ExploreLearning will delete the data associated with that product subscription. Upon request, ExploreLearning will provide written verification that the data has been destroyed. Notwithstanding the foregoing, anonymized usage data may be retained for internal product improvement.
+  6. ExploreLearning uses industry standard server and network hardware and software to ensure that data is protected from unauthorized access or disclosure.
 
 
 
-#### Data Security 
+Although we make concerted good faith efforts to maintain the security of personal information, and we work hard to ensure the integrity and security of our systems, no practices are 100% immune, and we can't guarantee the security of information. Outages, attacks, human error, system failure, unauthorized use or other factors may compromise the security of user information at any time. If we learn of a security breach or other unauthorized disclosure of your PII, we will attempt to notify you so that you can take appropriate protective steps by posting a notice on our homepage (www.explorelearning.com and www.reflexmath.com) or elsewhere in our Service and we will send email to you at the email address you have provided to us. Additionally, we will notify the primary administrative contact at your school or district by email and telephone and assist with their efforts to ensure your notification. 
 
-ExploreLearning has physical security in our facilities to protect against the loss, misuse, or alteration of information. Our company uses secure encryption technology (secure socket connection) for all sensitive financial or health data transmitted on our site. 
+Any such notice will include:
 
-#### Visitors Under 13 Years of Age 
-
-ExploreLearning collects personally identifiable information online from a child under 13 without any parental consent. 
-
-#### Correcting/Updating/Deleting/Deactivating Personal Information 
-
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address) they can change all information. If a user wishes to correct/update information or no longer desires our service, they can notify us of what they desire by contacting us using any of the information in the Contact section of this policy. 
-
-#### Links and Advertisements 
-
-Our website contains links to other sites. We do not partner with or have special relationships with any ad server companies. We, ExploreLearning, are not responsible for the privacy practices or the content of any other web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
-
-#### Changes to the Privacy Statement 
-
-The information you submit to us is controlled by the privacy policy in effect at the time you submit it. If we significantly change our policy, we will post a notice in a conspicuous place on our website notifying visitors of policy changes. 
-
-#### Data Retention Statement
-
-Stated Business Practices Data retention - We keep information about you and your purchases for as long as you remain our customer. 
-
-#### Contact Information 
-
-Using the following information, you can contact us if you have questions about our privacy policy.   
+  * The date of the breach.
+  * The type of information that was subject to breach.
+  * General description of what occurred.
+  * Steps we are taking to address the breach.
+  * The contact person with our Company who you can contact regarding the breach.
 
 
-ExploreLearning   
-P.O. Box 2185   
-Charlottesville, VA 22902   
-USA 
 
-E-mail: [support@explorelearning.com](mailto:support@explorelearning.com?subject=SUPPORT%20--%20Privacy%20Policy "send an email")
+If you are a parent, legal guardian or eligible student and an unauthorized disclosure of your student's PII records occurs, we will notify you through notice to your school or district's primary administrative contact. 
 
-Phone: 434-293-7043 
+When you use this site, you consent to our privacy practices and agree to accept the responsibilities outlined in this statement. 
 
-#### Resolving Privacy Policy Disputes
+_Contact_ : If you have any questions, concerns or inquiries about our Privacy Policy, or our use of your PII, or our privacy practices, please contact us at [support@ExploreLearning.com](mailto:support@ExploreLearning.com) or 866-882-4141, or mail to General Counsel 17855 Dallas Parkway, Suite 400 Dallas, TX 75287. You may also contact [COPPAPrivacy@ikeepsafe.org](mailto:COPPAPrivacy@ikeepsafe.org). 
 
-If you think we have not followed our privacy policy in some way, please contact us for resolution. 
+_Last Updated: August 22 nd, 2018_
