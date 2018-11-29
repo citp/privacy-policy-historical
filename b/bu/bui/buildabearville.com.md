@@ -1,92 +1,95 @@
-> *The following text is extracted and transformed from the buildabearville.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613125130id_/http%3A//www.buildabear.com/shopping/info/Privacy-Policy/3300008/10100013) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildabearville.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129014115id_/http%3A//www.buildabearville.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Build-A-Bear Workshop US
+# Privacy Policy » Bearville – Kid’s Virtual World & Kid’s Games from Build-A-Bear!
 
-* [ About Us ](https://web.archive.org/shopping/workshop/About%20Us/3100004/10100029;jsessionid=F87BE2B96E062D9739DB2DA908336C45.bab-app-02-p-app2)
-* [ Guest Services ](https://web.archive.org/shopping/info/Guest%20Services/3100005/10900008;jsessionid=F87BE2B96E062D9739DB2DA908336C45.bab-app-02-p-app2)
+Effective date: August 27, 2018 Build a bear ville (“us”, “we”, or “our”) operates the http://www.buildabearville.com website (the “Service”). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This Privacy Policy for Build a bear ville is powered by FreePrivacyPolicy.com. We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from http://www.buildabearville.com 
 
-  * [ FAQs ](https://web.archive.org/shopping/info/Frequently%20Asked%20Questions/3100006/10100007;jsessionid=F87BE2B96E062D9739DB2DA908336C45.bab-app-02-p-app2)
-  * [ Shipping Information ](https://web.archive.org/shopping/info/Shipping%20Information/3100007/10100008;jsessionid=F87BE2B96E062D9739DB2DA908336C45.bab-app-02-p-app2)
-  * [ Build-A-Party ](https://web.archive.org/shopping/workshop/Build%20A%20Birthday%20Party,%20Event,%20or%20Outing/3300007/10500008;jsessionid=F87BE2B96E062D9739DB2DA908336C45.bab-app-02-p-app2)
-  * [ Return Policy ](https://web.archive.org/shopping/info/Return%20Policy/3100009/10100012;jsessionid=F87BE2B96E062D9739DB2DA908336C45.bab-app-02-p-app2)
-  * [ Privacy Policy ](https://web.archive.org/shopping/info/Privacy%20Policy/3300008/10100013;jsessionid=F87BE2B96E062D9739DB2DA908336C45.bab-app-02-p-app2)
-  * [ Supply Chain ](https://web.archive.org/shopping/workshop/About%20Our%20Supply%20Chain/3300009/4400007;jsessionid=F87BE2B96E062D9739DB2DA908336C45.bab-app-02-p-app2)
-  * [ Contact Us ](https://web.archive.org/shopping/info/Contact%20Us/3100013/10100015;jsessionid=F87BE2B96E062D9739DB2DA908336C45.bab-app-02-p-app2)
+## Information Collection And Use
 
+We collect several different types of information for various purposes to provide and improve our Service to you. 
 
-* [ Our Products ](https://web.archive.org/shopping/workshop/Our%20Products/3100003/10500009;jsessionid=F87BE2B96E062D9739DB2DA908336C45.bab-app-02-p-app2)
+### Types of Data Collected
 
-Build-A-Bear Workshop Privacy Policy - effective January 1st, 2014
+#### Personal Data
 
-**Scope:** This Privacy Statement applies to websites and retail stores operated by or on behalf of Build-A-Bear Workshop and its Affiliates worldwide.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to: 
 
-Personal Information:
-
-  
-
-
-  * We collect the information you provide to us, such as your name, your postal address or email address, gender or date of birth. 
-  * We collect non-personal information such as browser type and web pages visited to help manage our websites and to improve your overall experience. 
-  * We use cookies and web beacons to manage our email programs and website. We do NOT use these technologies to collect or to store personal information. 
-  * [Click here for more information.](https://web.archive.org/shopping/contents/content.jsp?catId=100003&id=1200011#collect)
+  * Cookies and Usage Data
 
 
 
-Uses:
+#### Usage Data
 
-  
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data. 
 
+#### Tracking & Cookies Data
 
-  * We use the information you provide to register your friends in our ID tracking programs. 
-  * We use the information you provide to create certificates for your new friends. 
-  * We use the information you provide to place orders or book parties on our websites. 
-  * If you tell us to, we will send you information about promotions and other marketing events via mail and email. 
-  * We do NOT share your information with unrelated third parties for their marketing purposes. 
-  * We use personal information consistent with the purpose you provided it to us. 
-  * [Click here for more information.](https://web.archive.org/shopping/contents/content.jsp?catId=100003&id=1200011#collect)
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information. Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service. Examples of Cookies we use: 
 
-
-
-Important Information:
-
-  
-
-
-  * Build-A-Bear Workshop respects your privacy, and we will do our best to earn and keep your trust. 
-  * Build-A-Bear Workshop complies with country data protection laws. 
-  * Build-A-Bear Workshop complies with COPPA requirements. 
-  * [Click here for more information about COPPA](https://web.archive.org/shopping/contents/content.jsp?catId=100003&id=1200011#childrens).
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
 
 
 
-  
+## Use of Data
+
+Build a bear ville uses the collected data for various purposes: 
+
+  * To provide and maintain the Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer care and support
+  * To provide analysis or valuable information so that we can improve the Service
+  * To monitor the usage of the Service
+  * To detect, prevent and address technical issues
 
 
-* * *
 
-How to Contact Us:
+## Transfer Of Data
 
-  
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction. If you are located outside Czech Republic and choose to provide information to us, please note that we transfer the data, including Personal Data, to Czech Republic and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. Build a bear ville will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information. 
+
+## Disclosure Of Data
+
+### Legal Requirements
+
+Build a bear ville may disclose your Personal Data in the good faith belief that such action is necessary to: 
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Build a bear ville
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
 
 
-Write, call or email us at:
 
- **In the US and Canada:**  
-Privacy Officer   
-Build-A-Bear Workshop
+## Security Of Data
 
-1954 Innerbelt Business Center Drive  
-St. Louis, MO 63114-5760
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security. 
 
-Email: [privacy@buildabear.com](mailto:privacy@buildabear.com?subject=US/CA%20privacy%20communication)  
-Telephone: 1-877-789-BEAR (2327)
+## Service Providers
 
-**In the United Kingdom:**  
-Privacy Officer  
-Build-A-Bear Workshop UK & Eire
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used. These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
 
-St. Stephens House, Arthur Road  
-Windsor, Berkshire SL4 RU
+## Links To Other Sites
 
-Email: [privacy@buildabear.co.uk](mailto:privacy@buildabear.co.uk?subject=UK%20privacy%20communication)  
-Telephone: 0870 2245130 
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services. 
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”). We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers. 
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page. 
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us: 
+
+  * By visiting this page on our website: http://www.buildabearville.com/privacy-policy
+
+
+
+**[ultimate_gdpr_terms_accept]**
