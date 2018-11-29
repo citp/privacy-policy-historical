@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igg.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630195636id_/https%3A//www.igg.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igg.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129153824id_/https%3A//www.igg.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # IGG Privacy Policy
 
