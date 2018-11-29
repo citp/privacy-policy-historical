@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the w3resource.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524085908id_/https%3A//www.w3resource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3resource.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129110135id_/https%3A//www.w3resource.com/privacy.php) for the most accurate reproduction.*
 
 # About privacy policy of w3resource
 
-Last update on May 22 2018 12:47:36 (UTC/GMT +8 hours)
+Last update on October 12 2018 07:41:49 (UTC/GMT +8 hours)
 
 w3resource (may be referred as 'we' hereafter) wants to inform our users regarding our privacy policies and how we or our partners may collect information from user and regarding our as well as our partner's commitment to protect privacy of our users. We request you to read this carefully.
 
@@ -14,7 +14,7 @@ When a user visits our website, his/her IP address may be stored in our server's
 
 **Comments**
 
-Users may comment (text, code) using our commenting system, which is run on Disqus. Everything a user writes there is stored on servers of Disqus. We do not share that with any third party. You may read privacy policy of Disqus [here](https://blog.disqus.com/update-on-privacy-and-gdpr-compliance).
+Users may comment (text, code) using our commenting system, which runs on Disqus. Everything a user writes there is stored on servers of Disqus. We do not share that with any third party. You may read privacy policy of Disqus [here](https://blog.disqus.com/update-on-privacy-and-gdpr-compliance).
 
 **Analytics**
 
@@ -24,7 +24,7 @@ You can prevent Google Analytics from using your information by opting out at th
 
 **Advertising**
 
-Various organizations display advertisements on our website. We use Google Adsense and Amazon CPM Ad Network for this. Both Google Adsense and Amazon CPM Ad Network use cookies to collect information from users browser for showing targeted advertisements. They may also share this information with third parties. You may read privacy policy of Google Adsense [here](https://privacy.google.com/businesses/compliance/#?modal_active=none) and Amazon CPM Ad Network [here](https://advertising.amazon.com/ad-specs/en/policy/gdpr).
+Various organizations display advertisements on our website. We use Google Adsense and BuySellAds for this. Both Google Adsense and Amazon CPM Ad Network use cookies to collect information from users browser for showing targeted advertisements. They may also share this information with third parties. You may read privacy policy of Google Adsense [here](https://privacy.google.com/businesses/compliance/#?modal_active=none) and BuySellAds [here](https://www.buysellads.com/about/privacy).
 
 **Forms**
 
