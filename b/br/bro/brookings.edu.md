@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookings.edu privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324065956id_/https%3A//www.brookings.edu/about-us/brookings-institution-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookings.edu privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129214658id_/https%3A//www.brookings.edu/about-us/brookings-institution-privacy-policy) for the most accurate reproduction.*
 
 # Brookings Institution Privacy Policy
 
