@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikigain.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518190932id_/http%3A//www.wikigain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikigain.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129225530id_/https%3A//www.wikigain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - wikigain
 
@@ -27,7 +27,7 @@ We may use the information we collect from you when you register, make a purchas
 
 Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-We do not use an SSL certificate
+We use an SSL certificate
 
   * We only provide articles and information, we never ask for personal or private information like location addresses, or credit card numbers.
 
@@ -49,7 +49,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 ####   **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
  **Google**
 
@@ -71,12 +71,12 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google�
 We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
 
  **Opting out:**  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative opt-out page or permanently using the Google Analytics Opt-Out Browser Add-on.
 
- **Does our site allow third party behavioral tracking?**
+ **Does our site allow third party behavioural tracking?**
 
-It’s also important to note that we do not allow third party behavioral tracking.
+It’s also important to note that we do not allow third party behavioural tracking.
 
  **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the [contact form](http://www.wikigain.com/contuct-us/). This privacy policy may change from time to time. We will inform you by email in case of any important changes of our privacy policy.
+If there are any questions regarding this privacy policy you may contact us using the [contact form](https://www.wikigain.com/contuct-us/). This privacy policy may change from time to time. We will inform you by email in case of any important changes in our privacy policy.
