@@ -1,55 +1,63 @@
-> *The following text is extracted and transformed from the ugetfix.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903013339id_/https%3A//ugetfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugetfix.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129111542id_/https%3A//ugetfix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-Our privacy policy discloses our conditions for your personal information and privacy.
+Our privacy policy discloses the following conditions related to your personal information and privacy.
 
-## **Gathering information**
+## Gathering information
 
-We gather following information from users :
+UGetFix gathers the following information from its users:
 
-  1. a) registration information for participating in forums and newsletter subscription
-  2. b) Information required to post comments.
-
-
-
-Email addresses provided in appropriate fields will not be disclosed to third party except when required by law. We can not protect your data if you enter it in fields designated for public display like forum posts or comment posts text.
-
-We use analytics packages for improving our site and troubleshooting various problems.
-
-  1. a) Google Analytics. You can download google analytics opt-out tool here http://tools.google.com/dlpage/gaoptout if you have problems with that. Google analytics uses cookies.
-  2. b) hey.lt (shows aggregate information of unique users and total views only).
-  3. c) server logs, like almost any website in the world.
+  * Registration information when user participates in forums or subscribes to the newsletter;
+  * Information required to post comments or leave us questions.
 
 
 
-## **Cookies**
+Email addresses provided in the appropriate fields are NEVER disclosed to third parties, except when required by law. We can not protect your data if you enter it in fields available for the public view, such as forum posts or comment posts.
 
-some-site-name.pt might use session cookies to allow you access to specific features of the site that requires being logged in (e.g. forum).
+Like almost any website in the world, we use analytic packages for improving our site and troubleshooting various problems. They include:
 
-some-site-name.pt shows advertisements and 3-rd party content, which might use cookies for providing best value to our visitors. This includes, but is not limited to:
-
-  1. a) AddThis
-  2. b) Google Adsense/DFP and Kontera for displaying advertisements through networks.
-  3. c) Affiliate networks to attribute software downloads (element5, cleverbridge.com, onenetworkdirect.com,cj.com and some other networks).
-  4. d) Analytics packages, covered above.
+  * Google Analytics. You can download google analytics opt-out tool here http://tools.google.com/dlpage/gaoptout if you have problems with that. Google analytics uses cookies.
+  * Hey.lt (shows aggregate information of unique users and total views only).
+  * Server logs.
 
 
 
-This is done to identify visitor arival source or provide customized browsing experience. We are not responsible for the information they collect. If you want to avoid this, you can disable cookies or allow them one by one. Some of our offered discounts might be void if user disables cookies, as the discounts might be offered for our readers only.
+## Cookies
 
-## **Data protection and using the data**
+You understand that UGetFix might use session cookies to allow you the access to specific features of the site that require being logged in (e.g., forum).
 
-Thought there are cases when we can not provide safety for aggregate or personally identifiable information. This statement is about your aggregate information that is left for your responsibility to publicize it or not. We do not take responsibility for information safety and privacy that you post in public on our web site or send it by e-mail to others members of site community. We also are not responsible for illegally disclosed aggregate information from third parties.
+Besides, UGetFix may show advertisements and 3-rd party content which might use cookies for providing the best value to our visitors. This includes, but is not limited to:
 
-Note that we can disclose your aggregate information to third parties, but only if we consider this necessary and with conditions that this would be with your knowledge for certain third parties. It may be disclosed for government or juridical institutions if we find it necessary.
+  * AddThis content sharing platform;
+  * Google Adsense/DFP and Kontera advertising networks;
+  * Affiliate networks to attribute software downloads (Revenuewire.com, OneNetworkDirect.com, cj.com, linkshare.com, Cleverbridge.com element5, and some other networks).
+  * Analytics packages, covered above.
 
-The security and confidentiality of your information is extremely important to us. We ensure implemented technical, administrative, and physical security measures to protect your information from unauthorized access and improper use. But note that despite our best efforts, no security measures are perfect or impenetrable. There is a small possibility that we might sell or merge with another business. In such ceses the information we gathered (aka Google Analytics data, comment information we have stored, server logs and other information) might be among transfered assets.
 
-## **Linked sites and advertisements**
 
-In an attempt to provide you with increased value, we may include third party links on our site. UGetFix.com expects all linked sites to respect privacy of its users. Be aware, that third parties may have their own privacy and data collection policy. UGetFix.com is not responsible for actions or policies of any other site. Some of advertisers might collect information in order to determine if you have seen the advertisement before, or in other ways to improve your experience.
+This is done to identify the source of visitors or provide customized browsing experience. We are not responsible for the information they collect. If you want to avoid this, you can disable cookies or allow them one by one. However, some of our discounts offered on the page might be disabled if the user disables cookies.
 
-## **Site Use**
+## Data protection and its use
+
+There are cases when we can not provide safety for your personally identifiable information. This statement is related to optional information, and you are the only one who is here to decide whether you should make it public or not. We do not take responsibility for the safety and privacy of such information. If you leave it in public on our website or share it with other members of this community, we are not responsible for the following consequences. We also are not responsible for illegally-disclosed information from third parties.
+
+Note that we can only disclose your information to third parties only if we consider this procedure as necessary. It may be disclosed to governmental authorities if we find it necessary.
+
+The security of your information is extremely important to us. We ensure you that we will take care of technical, administrative, and physical security measures to protect your information from unauthorized access and improper use.
+
+However, note that, despite our best efforts, no security measures are perfect these days. There is a small possibility that we might sell or merge it with another business. In such cases, the information we gathered (aka Google Analytics data, comments, server logs and other information) might be among the transferred assets.
+
+## Linked sites and advertisements
+
+In an attempt to provide you with valuable service, we may include third party links on our site. UGetFix.com expects all linked sites to respect the privacy of its users.
+
+Be aware that third parties may have their privacy policy and may use different data collection methods. UGetFix is not responsible for actions or policies of any other site. Some of the advertisers might collect information to determine if you saw the advertisement before, or use it in other ways for improving your experience.
+
+## Site Use
 
 By using our site, you consent to our privacy policy.
+
+## Contacting us
+
+If you have any questions, related to Privacy Policy, you can contact us by using this [Contact Us form](https://ugetfix.com/contact-us/). To know more about this project, check [About us](https://ugetfix.com/about-us/), [Agreement of Use](https://ugetfix.com/agreement-of-use/), [Disclaimer](https://ugetfix.com/disclaimer/), and [Disclosure](https://ugetfix.com/disclosure/).
