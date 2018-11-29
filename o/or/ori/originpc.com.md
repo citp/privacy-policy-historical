@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originpc.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930112414id_/https%3A//www.originpc.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originpc.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129073757id_/https%3A//www.originpc.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | ORIGIN PC
 
@@ -34,9 +34,9 @@ ORIGIN PC knows that you care how your information is used, and we appreciate yo
 
 
 
-### 4\. Your Choice: Opt-in or Opt-out. 
+### 4\. Your Choice: Opt-in or Opt-out
 
-It is your choice whether to receive emails or special offers from us.
+It is your choice whether to receive emails or special offers from us and or if you wish for all of your data to be deleted or removed at any time. If you wish to not receive any emails or promotional offers from us, you may click the unsubscribe link at the bottom of the email or you may contact [marketing@originpc.com](mailto:marketing@originpc.com) and we will notify you asap once your email has been removed. If you would like for us to remove/delete any or all other personal data such as your name, number, etc., please contact [customerservice@originpc.com](mailto:customerservice@originpc.com) and an ORIGIN PC staff member will notify you once it has been removed.
 
 ### 5\. Children 
 
