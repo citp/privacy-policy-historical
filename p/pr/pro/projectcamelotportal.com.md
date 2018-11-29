@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectcamelotportal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191348id_/https%3A//projectcamelotportal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectcamelotportal.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129221122id_/http%3A//projectcamelotportal.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY | PROJECT CAMELOT PORTAL
 
@@ -31,9 +31,9 @@ After a transaction, your private information (credit cards, social security num
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and keep track of advertisements and .
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and keep track of advertisements.
 
 **Do we disclose any information to outside parties?**
 
