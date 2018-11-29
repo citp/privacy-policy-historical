@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stickeryou.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902173833id_/https%3A//www.stickeryou.com/about-stickeryou/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickeryou.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129214101id_/https%3A//www.stickeryou.com/about-stickeryou/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - StickerYou
 
 StickerYou Inc. takes your privacy very seriously. This Privacy Policy describes how StickerYou uses identifiable information regarding our customers, such as name, address, email address or credit card number ("Customer Information"). Primarily, we collect such information for the purpose of providing you with an outstanding experience on the StickerYou Service. Except as specifically described in this Privacy Policy, StickerYou does not sell, rent or share such Customer Information with third parties. 
 
@@ -68,6 +68,6 @@ We protect your Customer Information using physical, electronic or procedural se
 
 Customer Information that you provide during registration is available in your StickerYou online account. To edit your Customer Information, you must enter your username and password to access your account. You may edit your account information at any time. 
 
-You can also cancel your StickerYou membership by writing cancel@StickerYou.com. If you request cancellation of your account, StickerYou may (but is not required to) remove any and all Content (stickers), images or other personal information from the StickerYou site, and your stickers may not be accessible to you even if you choose to rejoin or reactivate your account at a later date. Information necessary for the purposes of maintaining business records regarding a cancelled account, including records of credit transactions and account ownership, will be retained in accordance with applicable law. 
+You can also cancel your StickerYou membership by writing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you request cancellation of your account, StickerYou may (but is not required to) remove any and all Content (stickers), images or other personal information from the StickerYou site, and your stickers may not be accessible to you even if you choose to rejoin or reactivate your account at a later date. Information necessary for the purposes of maintaining business records regarding a cancelled account, including records of credit transactions and account ownership, will be retained in accordance with applicable law. 
 
 Contacting StickerYou: If you have any questions about our Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at: 
