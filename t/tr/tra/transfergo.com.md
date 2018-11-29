@@ -1,43 +1,166 @@
-> *The following text is extracted and transformed from the transfergo.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023205222id_/https%3A//www.transfergo.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transfergo.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129061632id_/https%3A//www.transfergo.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | TransferGO
+# Privacy policy | TransferGo.com
 
-Effective Date: 01 August 2012
+Effective Date: 25 May 2018
 
-## Privacy Policy
+Privacy Policy
 
-**Introduction  
-**   
-TransferGo operates a service that allows you to transfer money and make foreign currency payments internationally through our website, www.transfergo.com, and our app (the "Service"). 
+ **Introduction**
 
-We have written this policy to explain how TransferGo Ltd ("we", "us" or "TransferGo") uses the personal data you provide us when using our Service. We value our relationship with you and place the highest importance on respecting and protecting your privacy. We will only process personal information in accordance with applicable law and this privacy policy. 
+This policy describes how we collect and use data about you and when we share it with third parties. We value our relationship with you and place the highest importance on respecting and protecting your privacy. We will only process personal information in accordance with applicable law and this privacy policy. This document version is 2.0 and it is valid from May 25th, 2018. 
 
-TransferGo will be the data controller of all personal information you submit to us. If you require further information on your rights under the Data Protection Act 1998, please visit the Information Commissioner's website at www.ico.org.uk. 
+Legal entity TRANSFERGO LTD Level 42 One Canada Square Canary Wharf London E14 5AB United Kingdom   
+Data Protection Officer contact details:   
+Sarunas Savicianskas dpo@transfergo.com   
+**Terms**
 
-**Information we may collect about you and how we use it  
-**   
-We collect personal information about you when you voluntarily submit information directly to us when you use our Service. This can include information you provide to use when you register for an account, subscribe to our mailing lists, newsletters or other forms of marketing communications, respond to a survey, enter a promotion or use some other feature of our Service. 
+“TransferGo“, “we“, “us“, and “our“ refer to TransferGo Ltd, together with its employees, directors, successors, affiliates, and assignees use variety of tools and third party services to provide services to you (“you”, “customer”, “user”, “your” refer to users of the Service, whether in their capacity as Senders, Recipients, or visitors to our websites or apps). 
 
-At various places on our Service you may be requested to enter certain personal information. Personal information that must be provided to use the requested services will be indicated at the time of collection. 
+TransferGo will be the data controller of all personal information you submit to us. If you require further information on your rights under the GDPR (General Data Protection Regulation), please visit the Information Commissioner's website at www.ico.org.uk. 
 
-We may collect the following categories of personal information about you: 
+**Data collection in public page:**
 
-**Contact details** , such as your name, email or postal address, phone number. We will use this information to verify your identity, to create an account for you so that you can use the Service, to communicate with you directly about the Service and about any queries, issues or concerns you have, [and to send you marketing communications in accordance with your preferences]. Your contact details will not be disclosed to other users of our Service. We may need to share your contact details with other service providers in order to carry out the transactions you request through our Service. 
+When you browse our web page without logging in, we don't hold any personal data about you, but we use a number of tools to help us maintain the website and provide the best possible experience for you.   
+We collect 2 types of data about you when you're not logged in:   
+1) Technical performance, behavioral and affiliate data: This data includes technical logs about page performance and anonymous customer behaviour data to improve the website. This data is anonymous and cannot be tracked back to you, but is essential for us to keep our page and business up and running. Affiliate data does include customer identification number, but it cannot be traced back to you by a third party, only by TranserGo. Here's a list of providers we are currently using: 
 
-**Information that you provide or that we obtain from third parties to verify your identity** , such as copies of identification documents or documents verifying identification from publicly accessible databases. We may collect information about you from other sources, including but not limited to: credit reference agencies, fraud preventions agencies and business directories or other commercially or publicly available sources. We will use this information to verify your identity, detect and prevent fraud and to comply with our obligations under applicable money laundering law. We may need to share your contact details with other service providers in order to carry out the transactions you request through our Service. 
+* Google Analytics - a tool used to track aggregated customer behavior and provide insights about the system. We're always masking your IP address, so it’s not possible to identify you.
+* TrackJS - front-end monitoring tool for errors.
+* Google Optimize - A/B testing tool which may show slightly different content for each customer. Customers are picked randomly and not based on personal data profiling. 
+* HotJar - tool to anonymously track individual customer behavior which helps us to optimize the page. Even though it tracks the customer specifically, it’s not possible to identify who the customer is or use this data for marketing or other purposes.
+* Get Site Control - a tool to quickly adjust page content without the needs of developers (e.g. add a survey to homepage).
+* Awin - a popular affiliate network which we use to identify visitors who came via affiliate (e.g. blogger). This information is essential for us since we have to pay affiliates for customer acquisition.
+* GetCake - a popular affiliate network which we use to identify visitors who came via affiliate (e.g. blogger). This information is essential for us since we have to pay affiliates for customer acquisition.
 
-**Comments and opinions.** We keep records when you submit enquiries or comments to us or contact us. We will use your comments and opinions to address your queries, issues and concerns and improve our products and services. We will also use comments and opinions you express when responding to surveys, entering competitions or taking part in other promotions to determine products and services that may be of interest to you and to send you marketing communications in accordance with your marketing preferences. 
+2) Marketing oriented data: This data is used for marketing purposes, including retargeting you across the web or social networks, measuring conversions, personalising ads based on your profile (e.g. country you're visiting from to provide ads in your native language). Here's a list of providers that we are currently using:
 
-**Information provided by social networks you connect to our Service.** If you connect a social network, such as Facebook, Twitter or Google Plus, to our Service we will collect personal information from the social network in accordance with your privacy settings on that network. The connected social network may provide us with information such as your name, Facebook ID, Twitter handle, Google Plus ID, network, gender, username, user ID, age or age range, language, country, friends list, follower list and any other information you have agreed it can share or that the social network provides to us. We will use the personal information provided to allow you to log-in to the Service, to create an account for you and, where we provide the functionality, we will also use the information provided to assist you in sharing content, or your experiences on our Service, with your friends, followers or contacts on the connected social network. We may also use the connection between the social network and our Service to provide you with updates on the social network that are relevant to any account you have with us or promotion you are taking part in. Such updates will only be provided with your consent; we will not post to your social network or to your friends, followers, contacts or other users of the social network without your consent. 
+* Facebook pixel - a tracking “pixel” to match you in Facebook social network for retargeting purposes and/or conversion tracking.
+* Google DoubleClick/Adwords - a tracking “pixel” to match you on Google network for retargeting purposes and/or conversion tracking.
+* Bing - a tracking “pixel” to match you on Bing's network for retargeting purposes and/or conversion tracking.
+* Rubicon - a tracking “pixel” to match you on Rubicon's network for retargeting purposes and/or conversion tracking.
 
-**Payment information.** We will ask you to provide your payment information, such as your bank account details, credit or debit card number, or PayPal account details. We will use this information to process the transactions you make through our Service, and collect any fees owed to us or third parties, as set out in our Terms and Conditions. ] 
+All this data is stored in your cookies and does not contain personal identifiable information on our side. If you wish to reset this setting, please clear the browser cookies and we'll ask you to set this setting again. More information about cookies or how to control them can be found here: https://ico.org.uk/for-the-public/online/cookies/ 
 
-**Your preferences**. We hold information about the preferences you communicate to us for notifications, marketing communications and how our Service is displayed. We will use your preference settings for the purpose of providing notifications, sending marketing communications and providing our Service in accordance with your choices. 
+**Data collection in product:**
 
-**Information about how you use and connect to our Service.** We collect information about how you use our Service such as the pages you view on our Service, the time you access our Service and how long you use it for, the website from where you came to our Service or go to after leaving our Service and any selections and choices you make when using our Service.We also collect information about the computer, tablet, smartphone or other electronic device you use to connect to our Service. This information can include details about the type of device, unique device identifying numbers, operating systems, browsers and applications connected to our Service through the device, your Internet service provider or mobile network, your IP address and your device's telephone number (if it has one). 
+Once you're logged in, you become an identifiable person to us, thus we track and keep more information about you, including your personal data. We may share your personal information with third parties if we are requested or required to do so by the police or any regulatory or government authority investigating suspected illegal activities, or upon the receipt of a court order, and such disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect TransferGo's rights or property. We may also provide third parties with aggregate statistical information and analytics about users of our Service, but we will make sure that no one can be identified from this information before we disclose it. 
 
-We use information about how you use and connect to our Service to present our Service to you on your device and to determine products and services that may be of interest to you for marketing purposes.Information about fraudulent or criminal activity relating to your account. We will use information about fraudulent or criminal activity relating to your use of our Service for the purposes of detecting and preventing fraud or crime. 
+**Security of your data:**
 
-**All personal information.** We will use all the personal information we collect to monitor and improve our Service and business. We also use the personal information we collect to help us develop new products and services. Our use of your personal information in this way will not result in information that was not previously publicly available being made public on our Service. 
+We take protecting your data very seriously - we encrypt the information you provide during the transmission of the information, our internal systems are logging access to your data when/if accessed by our employees, our offices have perimeter control from unauthorized entry, we have internal IT security procedures and use best security practices to minimise risks from outside attacks, all critical systems require 2 factor authentication and/or are accessible only through internal network/VPN. 
 
-We may anonymise and aggregate any of the information we collect (so that it does not directly identify you). We may use anonymised information for purposes that include testing our IT systems, research, data analysis, improving our Service and developing new products and features.Disclosure of your information We may disclose your personal information to the following parties:Any member of our group. We may share your personal data with our subsidiaries (i.e. any organisation we own or control) or our holding company or ultimate holding company (i.e. any organisation that owns or controls us) and any subsidiaries they own. These companies will only use your personal information to provide a service to us or to you in the same way as we can under this privacy policy.Purchasers of our business. In the event that we sell any business or assets, personal information may be disclosed or transferred to buyers or prospective buyers of our business or any of our assets as part of any such sale.Law enforcement, regulators and other parties for legal reasons. We may share your personal information with third parties if we are requested or required to do so by the police or any regulatory or government authority investigating suspected illegal activities, or upon the receipt of a court order, and such disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect TransferGo's rights or property.We may also provide third parties with aggregate statistical information and analytics about users of our Service, but we will make sure that no one can be identified from this information before we disclose it.MarketingFrom time to time we may contact you with information about our products and services. Most marketing messages we send will be by email. For some marketing messages, we may use personal information we collect about you to help us determine the most relevant marketing information to share with you. If you do not want to receive marketing messages from us, you will usually be able to tell us by clicking on the unsubscribe link at the bottom of our marketing emails.How long does TransferGo store your information? We will hold your information for as long as is necessary and/or required by law in order to provide you with the TransferGo service, deal with any specific issues that you may raise or otherwise as is required by law or any relevant regulatory body. Viewing your personal information As a customer, you have the right to view your personal information. This means that you can request to find out what personal information has been stored and for what purposes it is being used. A request to view your information can be submitted by email including your name, address, land line and/or mobile telephone number and a copy of a valid identity document, to [hello@transfergo.com]. TransferGo may charge a maximum of £10 in administration costs for handling the request.  Correcting your personal information As a customer, you have the right to correct your personal information. To do this, please contact us by email to [hello@transfergo.com]. You are able to view your personal information on our Service. To prevent your personal information being viewed and edited by others, you can only access your personal profile by first logging in to your account with your username and password. Security,  Data Retention and TransferThe security of your personal information is important to us. Our data processing technologies are professionally hosted by a company that specialises in hosting solutions. When you provide sensitive information to us, we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. In order to provide the Service, the personal information we collect may be transferred to and stored in countries outside of the jurisdiction you are in. Some of these jurisdictions offer differing levels of protection in respect of personal information and may, in certain instances, be less protective than the jurisdiction you are typically resident in. We will take reasonable steps to ensure that your personal information is treated securely and in accordance with applicable law and this privacy policy. Changes to this policy Any changes we make to our privacy policy in the future will be posted on this page, and where appropriate, notified to you by email. Contacting you We will contact you by email, SMS, phone and other ways only if you give us the information required to do so and do not indicate that you do not want to be contacted in these ways. You can tell us at any time that you do not want to be contacted by any of these means by emailing [hello@TransferGo.com]. Contact us You can contact us using the contact information on our Service or send us an email [hello@TransferGo.com].
+**Why we need your personal data:**
+
+1) As a financial institution, we are required to reliably identify the customer before providing any financial service and do everything in our power to prevent any anti-money laundering and fraudulent activities, for which we may need additional information and/or documentation from the customer, depending on specific cases. 2) For regular business operations and fulfillment of our Terms and Conditions agreement with you to use TransferGo’s services. When sending money, we need to specify who's sending it. We may sometimes request a sender to provide more information or additional documents on a recipient. 3) To protect customers and/or our interests, we keep all communications with our clients to ensure that in case of disputes we have all available communication logs. 4) To provide better offers for you - knowing personal details about means you we can offer you a better, more personalised service and provide valuable offers. **We collect 3 types of data in the product:**
+
+1) Personal and financial data required to comply with KYC (Know Your Customer), AML and CTF (Anti-Money Laundering and Combating the Financing of Terrorism) regulations and perform financial and business operations: 
+
+This data includes your e-mail, phone number, name, surname, address, nationality, date of birth, bank account information (including debit/credit card details), transaction history and other personal data which may help us comply with the regulation and prevent fraudulent behavior. When transferring money, we also provide some personal details to our partners (financial intermediates) to complete the transaction (including, but not limited to payment cards processor, sanctions list providers, fraud detection systems, partner banks). 
+
+Here's a list of providers we share your data with:
+
+* Amazon Web Services - our data center (hosting) provider where we store and process all your data. All our data is stored inside the European Union.
+* RDC - a tool allowing us to check if you’re not on any sanctions list, or if you are not a PEP (Politically Exposed Person), or if there is any adverse media about you.
+* Tracesmart - Identity verification service provider.
+* DirectID - Identity verification service provider.
+* ID Scan - Identity verification service provider.
+* Onfido - Identity verification service provider.
+* Google Cloud Vision - image recognition service which helps to identify bad quality documents.
+* Checkout.com - our payment card processor. 
+* Other banks or payment service providers - when we send money on your behalf, this information becomes visible to the recipient bank and/or payment provider and the recipient itself.
+* Crowdfunding platform - applied only to the customers who decide to invest and go through the partner crowdfunding KYC processes.
+* Partner banks - when we receive money from you, our partner banks keep information about your transactions.
+* Duedil - company verification service provider. 
+* Tableau - business intelligence analysis tool. 
+
+2) Technical performance, behavioral analysis and communication data: 
+
+This data is intended to be anonymous but may include parts of personal data or user related data. We use number of tools to track technical page performance, monitor errors, page usage statistics which help us to improve our services and provide better customer experience and communicate effectively with our customers. Here's a list of providers we are using: 
+
+* Google Analytics - a tool used to track aggregated customer behavior and provide insights about the system. We're always masking your IP address, so it’s not possible to identify you.
+* Google Optimize - A/B testing tool which may show slightly different content for each customer. Customers are picked randomly and not based on personal data profiling. 
+* HotJar - tool to anonymously track individual customer behavior which helps us to optimize the page. Even though it tracks the customer specifically, it’s not possible to identify who the customer is or use this data for marketing or other purposes. 
+* Mixpanel - behavioral tracking tool and push notification service provider. 
+* Get Site Control - a tool to quickly adjust page content without the need of developers (e.g. add a survey to homepage).
+* TrackJS - front-end monitoring tool for errors.
+* NewRelic - technical performance monitoring and troubleshooting tool.
+* Datadog - technical performance monitoring and troubleshooting tool.
+* Loggly - error log service which helps to identify and troubleshoot problems in our system. 
+* Fabric - error log service which helps to identify and troubleshoot problems in our system.
+* Zendesk - customer support tool which we use to communicate with our customers.
+* Talkdesk - customer support tool which we use to communicate with our customers.
+* Twillio - SMS sending service which we use to send SMS messages about important transactional events.
+* Vertex - SMS sending service which we use to send SMS messages about marketing content.
+* Postmark - email sending service which we use to send emails about important transactional events.
+* Active Campaign - email sending service which we use to send marketing emails or generic communications which are not personalised and not considered as marketing material. 
+* Tableau - business intelligence analysis tool, which we use to track our performance.
+* Wootric - Net Promoter Score (NPS) measurement system.
+* Google Suite - our internal communication systems (emails, documents, etc.) which may contain some personal data.
+* Slack - our company communication tool, which may contain some personal data.
+* Asana - task management tool.
+* Atlassian - task management and documentation suite. 
+
+3) Marketing, personalization, profiling data: 
+
+We use a wide range of marketing tools to reach to our existing and potential customers. Such tools include retargeting platforms, user-matching “pixels” and other tools to show relevant ads to you and/or improve your experience. Here's a list of providers we are currently using: 
+
+* Facebook pixel - a tracking “pixel” to match you in Facebook social network for retargeting purposes and/or conversion tracking.
+* Google DoubleClick/Adwords - a tracking “pixel” to match you on Google's network for retargeting purposes and/or conversion tracking.
+* Bing - a tracking “pixel” to match you on Bing's network for retargeting purposes and/or conversion tracking.
+* Rubicon - a tracking “pixel” to match you on Rubicon's network for retargeting purposes and/or conversion tracking.
+
+**Partner selection policy**
+
+We reserve the right to include or exclude new partners to process the data in any of the categories mentioned in this policy. We take data protection seriously and always partner with companies which provide solid Data Processing Agreement (DPA) or other data protection agreements with these companies. 
+
+**Profiling, segmentation and automated decision making:**
+
+We have a very wide range of customers across the world and we try to personalise the experience for them. Profiling ranges from sending marketing communication in preferred language, to new product announcements which might be useful for particular customers or providing special offers. None of our profiling activities cause legal effects for the customer, except for fraud prevention measures which we have a legal responsibility to as per Anti-Money Laundering legislation. 
+
+**We always ask our customers for privacy policy consent:**
+
+1) If customer declines the privacy policy - we include only 1st and 2nd types of data (personal data + technical/behavioral/communication data), leaving 3rd type of marketing data not used. By choosing this option we'll still track data which is needed for us to make our service available to you, but this data will not be used for marketing purposes. We will not send any marketing communication messages, including special offers, unless customer chooses to receive them with separate consent.   
+2) If customer accepts the privacy policy - we include 1st, 2nd and 3rd types of data. In some behavioral analytics tool we will send additional identifiers to better understand customer behavior. We’ll also send marketing communication messages using electronic channels. 
+
+You can always change your tracking and communication preferences in your settings menu. If you wish to downgrade your tracking level, keep in mind that existing data will still be available until data retention period is over. If you wish your data to be deleted sooner, please express this request via email privacy@transfergo.com.
+
+If the customer wants to reset tracking option in logged out system, the best way to do it is clear browsing cache. 
+
+Marketing communication preferences: 
+
+We communicate with our customers about new products or services, special offers and other marketing announcements. By accepting this privacy policy you agree to receive marketing communication from us using electronic methods (e-mail, app, SMS, phone calls). If you decline this privacy policy, we'll not send you any marketing communication and you'll miss the special offers which we give to our customers. Remember, you can always change this preference in your profile settings and configure specific channels you wish to receive the communication through. 
+
+Transactional information, e.g. information about received money, document requests and/or other information related to our main service is not part of marketing communication and cannot be disabled. 
+
+**Executing your rights to data:**
+
+European General Data Protection Regulation (GDPR) gives you more rights to control which data about you can be accessed by companies like us. Here’s a list of rights specified in regulation: 
+
+* The data subject’s right of access.
+* The data subject’s right to rectification.
+* The data subject right to restriction of processing. 
+* The right to be informed. 
+* The right to data portability.
+* The right to object data processing.
+
+To execute your GDPR rights please contact us via email privacy@transfergo.com. Please use the email you used to register in TransferGo, as we will have to perform a customer identification process. We'll respond within 30 calendar days to your request. Please keep in mind that as a regulated business TransferGo has to retain customers’ personal data as well as additional documents for the purpose of preventing, detecting and investigating by the competent authorities, possible money laundering or terrorist financing. To comply with AML/CTF regulatory requirements, a copy of the documents and customer’s personal information will be stored in our system for a period of five (5) years after the end of the business relationship with the customer or after the date of an occasional transaction. Please be aware that AML/CTF regulatory requirements overrule the GDPR requirements. In some cases where we do not have reliable methods to remove your data, it will be automatically cleared within 6 months after data retention period expires. 
+
+If a customer request is manifestly unfounded or excessive, we reserve the right to refuse to act on the request or impose an administrative fee.   
+If you think your rights are not fulfilled properly, you can always contact our Data Protection Officer (DPO) at dpo@transfergo.com.
+
+**Cookie policy:**
+
+Cookies are a small piece of information saved in your browser storage. They are used to improve the customer experience in pages and helps third party services to work properly. 
+
+TransferGo uses cookies extensively in both public page and the product. Most of the third party providers we use set cookies in customer browser to facilitate their services. Private data is never stored in cookies, only anonymous identifiers or other preferences. Data retention depends on the cookie policy but not will not be more than 24 months. 
+
+**Additional information about this policy and future changes:**
+
+We may disclose your personal information to the following parties: We may share your personal data with any member of our group or subsidiaries (i.e. any organisation we own or control) or our holding company or ultimate holding company (i.e. any organisation that owns or controls us) and any subsidiaries they own. These companies will only use your personal information to provide a service to us or to you in the same way as we can under this privacy policy. 
+
+In the event that we sell any business or assets, personal information may be disclosed or transferred to buyers or prospective buyers of our business or any of our assets as part of any such sale. 
+
+This policy is available in different languages. If there’s any mismatch between different languages, English version has higher power. 
+
+If you have any questions about this policy, please contact us for more information via email privacy@transfergo.com. We reserve the right to change this policy and inform the customers either via product or other communication means (e.g. email) 7 days before the actual change. 
