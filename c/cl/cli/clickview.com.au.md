@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickview.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313125707id_/https%3A//www.clickview.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickview.com.au privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129151245id_/https%3A//www.clickview.com.au/privacy-policy) for the most accurate reproduction.*
 
 # ClickView Privacy Policy
 
@@ -30,8 +30,6 @@ If someone other than you provides us with personal information about you that w
 When you visit the Site we may attach a “cookie” called CVONLINE2 to your computer’s memory. This “cookie” is a small text file which assists us to store session information when you are logged into the Site and to facilitate seamless access between our different services. The cookie will expire after 1 day. 
 
 If you choose to do so, you should be able to configure your computer so that it disables “cookies” or does not accept them, however, this may impact the functionality of the Site.
-
-We also use a third-party tool called Marketo for collecting data related to your visit to our Site. For more information, please visit: <http://legal.marketo.com/privacy>
 
 ### Use and disclosure of information
 
