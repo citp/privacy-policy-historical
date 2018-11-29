@@ -1,56 +1,453 @@
-> *The following text is extracted and transformed from the streamsend.com privacy policy that was archived on 2009-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090326073659id_/http%3A//www.streamsend.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamsend.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129110553id_/https%3A//campaigner.com/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Welcome to StreamSend : Permission-Based Email Marketing Solutions
+# Privacy Statement | Campaigner
 
-StreamSend.com is a service of EZ Publishing, Inc. We have created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the streamsend.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices.
+### CONTENTS
 
-## COLLECTION OF INFORMATION
+  1. A. This Policy 
+  2. B. Collection of Personal Data
+  3. C. Creation of Personal Data
+  4. D. Categories of Personal Data we may Process
+  5. E. Lawful basis for Processing Personal Data
+  6. F. Sensitive Personal Data
+  7. G. Purposes for which we may Process your Personal Data
+  8. H. Disclosure of Personal Data to third parties
+  9. I. International transfer of Personal Data
+  10. J. Data security
+  11. K. Data accuracy
+  12. L. Data minimisation
+  13. M. Data retention
+  14. N. Your legal rights
+  15. O. Cookies and similar technologies (Cookie Policy)
+  16. P. Terms of Use
+  17. Q. Direct marketing
+  18. R. Contact details
+  19. S. Definitions 
 
-We require customers who register to use the services offered on our Site (collectively, the "Service") to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, credit card number, and the number of users within the organization that will be using the Service. At the time you express interest in attaining additional information, or when you register for the Service, we may also ask for additional personal information, such as title, department name, fax number, or additional company information, such as annual revenues, number of employees, or industry. Customers can opt out of providing this additional information by not entering it when asked. Customers can update or remove their personal information at any time by logging into the Website and editing their Personal Information within Account Information. Customers can view their updated profile to confirm their edits have been made.
 
-From time to time we invite users to provide information via surveys or contests. Participation in these surveys or contests is completely voluntary, and users therefore have a choice whether to disclose requested contact or demographic information.
 
-StreamSend.com uses the information that we collect to set up the Service for individuals and their organizations. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers will also receive an email newsletter. Customer email addresses and any personal customer information will not be distributed or shared with third parties. Customers can opt out of being contacted by us, or receiving such information from us, at any time by using the opt-out links provided in communications or by emailing sales@streamsend.com. Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or company, and will send a Customer Newsletter. Again, email will not be distributed or shared and customers can opt out of receiving any communication by emailing sales@streamsend.com at the time it is distributed, or at the time any customer registers for the Service.
+* * *
 
-Except as we explicitly state at the time we request information, or as provided for in the streamsend.com Service Agreement, we do not disclose to third parties the information provided.
+### (A) This Policy
 
-Customers of the Service will be using the Site to host data and information ("Data"). Streamsend.com will not review, share, distribute, print, or reference any such Data except as provided in the streamsend.com Service Agreement, or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Service Agreement, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password.
+* * *
 
-Streamsend.com may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
+  * Summary – This Policy 
+  * This Policy explains how we may Process your Personal Data. This Policy may be amended or updated from time to time, so please check it regularly for updates.
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Streamsend.com will automatically send the friend a one-time email inviting them to visit the site. Streamsend.com does not store this information.
 
-## Cookies and Other Electronic Images
 
-We use cookies and other electronic images (such as transparent gifs or pixels) on this site for the collection of anonymous tracking information on site usage patterns.
+This Policy is issued by j2 Global Canada, Inc.,on behalf of itself, its subsidiaries and its affiliates (including any entity lawfully trading under the Campaigner or SMTP brand) (together,“ **Company** ”,“ **we** ”, “ **us** ” and “ **our** ”) and is addressed to individuals outside our organisation with whom we interact, including customers, visitors to our Sites, users of our Apps, and other users of our services (together, “ **you** ”). Defined terms used in this Policy are explained in Section (S) below.
 
-Information gathered through the use of cookies and other electronic images is used to continuously improve the site and users' experience with it. Other than information that facilitates your use and navigation of the site, it is not identified with you personally. In addition, when we send HTML-formatted e-mail messages, we may include single-pixel GIFs to determine which e-mail messages were opened and/or acted upon.
+For the purposes of this Policy, Companyis the Controller. This Policy covers the information practices relating to Company websites for the Campaigner and SMTP brand and Campaigner and SMTP services ("Services") offered now or in the future. Contact details are provided in Section (R) below.
 
-## Partners, Sponsors and Links
+This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of Personal Data, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make in accordance with the terms of this Policy.
 
-This site may provide links to third-party websites, including those of our business partners. These independent sites have their own privacy and information collection practices. We have no responsibility or liability for these independent policies, and encourage you review the sites' privacy policies to understand how they might collect and use personally identifiable information.
+* * *
 
-## Minors
+### (B) Collection of Personal Data
 
-We operate our sites in compliance with the Children's Online Privacy Protection Act and will not knowingly collect or use personally-identifiable information from anyone under 13 years of age. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
+* * *
 
-## Security
+  * Summary – Collection of Personal Data
+  * We may collect or obtain Personal Data about you: directly from you (e.g., where you contact us); in the course of our relationship with you (e.g., if you make a purchase); when you make your Personal Data public (e.g., if you make a public post about us on social media); when you download, install, or use any of our Apps; when you visit our Sites; when you register to use any of our Sites, Apps, or services; or when you interact with any third party content or advertising on a Site or in an App. We may also receive Personal Data about you from third parties (e.g., law enforcement authorities).
 
-We take the security of your personal information very seriously and are constantly improving our efforts to protect it. We store information you provide us on our secure servers. Access to all of our users' information is restricted only to company representatives who need the information to perform a specific job.
 
-No electronic communication over the Internet, however, can be guaranteed to be completely secure. Though we take great care to protect your personal information, we cannot ensure or warrant the security of any information that you submit to us, and you do so at your own risk.
 
-## Privacy Policy Changes
+**Collection of Personal Data:** We may collect Personal Data about you from the following sources:
 
-The terms of this Privacy Policy may change from time to time. We will notify you of any material changes to this Privacy Policy by posting a notice on our web site for a reasonable period of time after such changes are made, that this Privacy Policy has been updated, and by changing the "Updated" date at the top of this Privacy Policy. We encourage you to check this page periodically for any changes. Your continued use of the Site and participation in following the posting of changes to these terms will mean you accept those changes.
+  * **Data you provide:  **We may obtain your Personal Data when you provide it to us (e.g., where you contact us _via_ email or telephone, or by any other means, or when you provide us with your business card).
+  * **Relationship data:  **We may collect or obtain your Personal Data in the ordinary course of our relationship with you (e.g., if you purchase a service from us).
 
-Updated: July 8th, 2008.
 
-**StreamSend is an EZ Publishing service.**
+  * **Data you make public:  **We may collect or obtain your Personal Data that you manifestly choose to make public, including _via_ social media (e.g., we may collect information from your social media profile(s), if you make a public post about us).
+  * **App data:  **We may collect or obtain your Personal Data when you download or use any of our Apps.
+  * **Site data:  **We may collect or obtain your Personal Data when you visit any of our Sites or use anyfeaturesorresourcesavailableon or througha Site.
+  * **Registration details:  **We may collect or obtain your Personal Data when you use, or register to use, any of our Sites, Apps, or services.
+  * **Content and advertising information:  **If you choose to interact with any third party content or advertising on a Site or in an App, we may receive Personal Data about you from the relevant third party.
+  * **Third party information:  **We may collect or obtain your Personal Data from third parties who provide it to us (e.g., credit reference agencies; law enforcement authorities; etc.).
 
-EZ Publishing 1215 21st Street, Suite B, Sacramento, CA 95814
 
-We can be reached via e-mail at privacy@streamsend.com or you can reach us by telephone at 877-439-4678.
 
-  
+* * *
+
+### (C) Creation of Personal Data
+
+* * *
+
+We may also create Personal Data about you, such as records of your interactions with us, and details of your purchase history for internal administration purposes and analysis.
+
+* * *
+
+### (D) Categories of Personal Data we may Process
+
+* * *
+
+  * Summary – Categories of Personal Data we may Process
+  * We may Process: your personal details (e.g., your name); demographic data (e.g., your age); your contact details (e.g., your address); records of your consents; purchase details; payment details (e.g., your billing address); information about our Sites and Apps (e.g., the type of device you are using); details of your employer (where relevant); information about your interactions with our content or advertising; and any views or opinions you provide to us.
+
+
+
+We may Process the following categories of Personal Data about you:
+
+  * **Personal details:  **given name(s); preferred name; and photograph.
+  * **Demographic information:  **gender; date of birth/age; nationality; salutation; jobtitle/industry; and language preferences.
+  * **Contact details:  **correspondenceaddress; telephone number; email address; and details of your public social media profile(s).
+  * **Consent records:  **records of any consents you may have given, together with the date and time, means of consent and any related information (e.g., the subject matter of the consent).
+  * **Purchase details:  **records of purchases and prices.
+  * **Payment details:  **invoice records; payment records;billing address; payment method; bank account number or credit card number; cardholder or accountholder name; card or account security details; card ‘valid from’ date; and card expiry date;BACS details; SWIFT details; IBAN details; payment amount; payment date; and records of cheques.
+  * **Data relating to our Sites and Apps:  **device type; operating system; browser type; browser settings; IP address; language settings; dates and times of connecting to a Site; App usage statistics; App settings; dates and times of connecting to an App; location data,and other technical communications information (some of which may constitute Personal Data); username; password; security login details; usage data; aggregate statistical information.
+  * **Employer details:  **where you interact with us in your capacity as an employee, the contact information of your employer (including name, address, telephone number and email address)to the extent relevant.
+  * **Content and advertising data:  **records of your interactions with our online advertising and content, records of advertising and content displayed on pages or App screens displayed to you, and any interaction you may have had with such content or advertising (including mouse hover, mouse clicks, any forms you complete (including incomplete forms not submitted) and any touchscreen interactions).
+  * **Views and opinions:** any views and opinions that you choose to send to us, or publicly post about us on social media platforms.
+
+
+
+* * *
+
+### (E) Lawful basis for Processing Personal Data
+
+* * *
+
+  * Summary – Lawful basis for Processing Personal Data
+  * We may Process your Personal Data where: you have given your prior, express consent; the Processing is necessary for a contract between you and us; the Processing is required by applicable law; the Processing is necessary to protect the vital interests of any individual; or where we have a valid legitimate interest in the Processing.
+
+
+
+In Processing your Personal Data in connection with the purposes set out in this Policy, we may rely on one or more of the following legal bases, depending on the circumstances:
+
+  * **Consent:  **We may Process your Personal Data where we have obtained your prior, express consent to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way);
+  * **Contractual necessity:  **We may Process your Personal Data where the Processing is necessary in connection with any contract that you may enter into with us;
+  * **Compliance with applicable law:  **We may Process your Personal Data where the Processing is required by applicable law;
+  * **Vital interests:  **We may Process your Personal Data where the Processing is necessary to protect the vital interests of any individual; or
+  * **Legitimate interests:  **We may Process your Personal Data where we have a legitimate interest in carrying out the Processing for the purpose of managing, operating or promoting our business, and that legitimate interest is not overridden by your interests, fundamental rights, or freedoms.
+
+
+
+* * *
+
+### (F) Sensitive Personal Data
+
+* * *
+
+  * Summary – Sensitive Personal Data
+  * We do not seek to collect or otherwise Process your Sensitive Personal Data. Where we need to Process your Sensitive Personal Data for a legitimate purpose, we do so in accordance with applicable law.
+
+
+
+We do not seek to collect or otherwise Process your Sensitive Personal Data in the ordinary course of our business. Where it becomes necessary to process your Sensitive Personal Data for any reason, we rely on one of the following legal bases:
+
+  * **Compliance with applicable law:  **We may Process your Sensitive Personal Data where the Processing is required or permitted by applicable law (e.g., to comply with our diversity reporting obligations);
+  * **Detection and prevention of crime:  **We may Process your Sensitive Personal Data where the Processing is necessary for the detection or prevention of crime (including the prevention of fraud);
+  * **Establishment, exercise or defence of legal rights:  **We may Process your Sensitive Personal Data where the Processing is necessary for the establishment, exercise or defence of legal rights; or
+  * **Consent:  **We may Process your Sensitive Personal Data where we have, in accordance with applicable law, obtained your prior, express consent prior to Processing your Sensitive Personal Data (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way).
+
+
+
+* * *
+
+### (G) Purposes for which we may Process your Personal Data
+
+* * *
+
+  * Summary – Purposes for which we may Process your Personal Data
+  * We may Process your Personal Data for the following purposes: providing services to you; operating our Sites and Apps; communicating with you; managing our IT systems; health and safety; financial management; conducting surveys; ensuring the security of our premises and systems; conducting investigations where necessary; compliance with applicable law; and improving our Sites, Apps, and services. 
+
+
+
+The purposes for which we may Process Personal Data, subject to applicable law, include:
+
+  * **Provision of services to you:  **providing our Sites, Apps, andservices to you; communicating with you in relation to those services, andproviding you with promotional items at your requestor in connectionwith those servicesor similar services.
+  * **Our Sites and Apps:  **operating and managing our Sites and our Apps; providing content to you; displaying advertising and other information to you; communicating and interacting with you _via_ our Sites and our Apps; identifying issues with our Sites and Apps and planning improvements to or creating new Sites and Apps; and notifying you of changes to any of our Sites, our Apps, or our services.
+  * **Communications:  **communicating with you _via_ any means (including _via_ email, telephone, text message, social media, post or in person) news items and other information in which you may be interested, subject to ensuring that such communications are provided to you in compliance with applicable law; maintaining and updating your contact information where appropriate; and obtaining your prior, opt-in consent where required.
+  * **Communications and IT operations:  **management of our communications systems; operation of IT security systems; and IT security audits.
+  * **Health and safety:  **health and safety assessments and record keeping; and compliance with related legal obligations.
+  * **Financial management:  **sales; finance; corporate audit; and vendor management.
+  * **Surveys:  **engaging with you for the purposes of obtaining your views on our services.
+  * **Security:  **physical security of our premises (including records of visits to our premises; and CCTV recordings); and electronic security (including login records and access details).
+  * **Investigations:  **detecting, investigating and preventing breaches of policy, and criminal offences, in accordance with applicable law.
+  * **Legal proceedings:  **establishing, exercising and defending legal rights.
+  * **Legal compliance:  **compliance with our legal and regulatory obligations under applicable law.
+  * **Improving our Sites, Apps, services:  **identifying issues with our Sites, our Apps, or our services; planning improvements to our Sites, our Apps, or our services; and creating newSites, Apps, or services.
+
+
+
+* * *
+
+### (H) Disclosure of Personal Data to third parties
+
+* * *
+
+  * Summary – Disclosure of Personal Data to third parties
+  * We may disclose your Personal Data to: legal and regulatory authorities; our external advisors; our Processors; any party as necessary in connection with legal proceedings; any party as necessary for investigating, detecting or preventing criminal offences; any purchaser of our business; and any third party providers of advertising, plugins or content used on our Sites or our Apps.
+
+
+
+We may disclose your Personal Data to other entities within the Companygroup, for legitimate business purposes (including operating our Sites and our Apps, and providing services to you), in accordance with applicable law.In addition, we may disclose your Personal Data to:
+
+  * legal and regulatory authorities, upon request, or for the purposes of reporting any actual or suspected breach of applicable law or regulation;
+  * outside professional advisors (such as accountants, auditors, or lawyers),subject to binding contractual obligations of confidentiality;
+  * third party Processors (such as payment services providers; data centers; etc.), located anywhere in the world, subject to the requirements noted below in this Section (H);
+  * any relevant party, law enforcement agency or court, to the extent necessary for the establishment, exercise or defence of legal rights;
+  * any relevant party for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including safeguarding against and the prevention of threats to public security;
+  * any relevant third party acquirer(s), in the event that we sell or transfer all or any relevant portion of our business or assets (including in the event of a reorganization, dissolution or liquidation); and
+  * any relevant third party provider, where our Sites and our Apps use third party advertising, plugins or content. If you choose to interact with any such advertising, plugins or content, your Personal Data may be shared with the relevant third party provider. We recommend that you review that third party’s privacy policy before interacting with its advertising, plugins or content.
+
+
+
+If we engage a third-party Processor to Process your Personal Data, the Processor will be subject to binding contractual obligations to: (i) only Process the Personal Data in accordance with our prior written instructions; and (ii) use measures to protect the confidentiality and security of the Personal Data; together with any additional requirements under applicable law.
+
+* * *
+
+### (I) International transfer of Personal Data
+
+* * *
+
+  * Summary – International transfer of Personal Data
+  * We may transfer your Personal Data to recipients in other countries. Where we transfer Personal Data from the EEA to a recipient outside the EEA that is not in an Adequate Jurisdiction, we do so on the basis of Standard Contractual Clauses.
+
+
+
+Because of the international nature of our business, we may need to transfer your Personal Data within the Companygroup, and to third parties as noted in Section (H)above, in connection withthe purposes set out in this Policy. For this reason, we may transfer your Personal Data to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located.
+
+Where we transfer your Personal Data from the EEA to recipients located outside the EEA who are not in Adequate Jurisdictions, we do so on the basis of Standard Contractual Clauses.You may request a copy of our Standard Contractual Clauses using the contact details provided in Section (R)below.
+
+Please note that when you transfer any Personal Data directly to a Company entityestablished outside the EEA, we are not responsible for that transfer of your Personal Data. We will nevertheless Process your Personal Data, from the point at which we receive thedata, in accordance with the provisions of this Privacy Policy.
+
+* * *
+
+### (J) Data security
+
+* * *
+
+  * Summary – Data security
+  * We implement appropriate technical and organisational security measures to protect your Personal Data. Please ensure that any Personal Data that you send to us is sent securely.
+
+
+
+We have implemented appropriate technical and organisational security measures designed to protect your Personal Data against accidental or unlawful destruction, loss, alteration, unauthorised disclosure, unauthorised access, and other unlawful or unauthorised forms of Processing, in accordance with applicable law. 
+
+Because the internet is an open system, the transmission of information _via_ the internet is not completely secure. Although we will implement all reasonable measures to protect your personal data, we cannot guarantee the security of your data transmitted to us using the internet – any such transmission is at your own risk and you are responsible for ensuring that any Personal Data that you send to us are sent securely.
+
+* * *
+
+### (K) Data accuracy
+
+* * *
+
+  * Summary – Data accuracy
+  * We take every reasonable step to ensure that your Personal Data are kept accurate and up-to-date and are erased or rectified if we become aware of inaccuracies.
+
+
+
+We take every reasonable step to ensure that:
+
+  * your Personal Data that we Process are accurate and, where necessary, kept up to date; and
+  * any of your Personal Data that we Process that you inform us isinaccurate (having regard to the purposes for which they are Processed) are erased or rectified.
+
+
+
+* * *
+
+### (L) Data minimisation
+
+* * *
+
+  * Summary – Data minimisation
+  * We take every reasonable step to limit the volume of your Personal Data that we Process to what is necessary.
+
+
+
+We take every reasonable step to ensure that your Personal Data that we Process are limited to the Personal Data reasonably necessary in connection with the purposes set out in this Policy or as required to provide you services or access to our Apps and Sites. 
+
+* * *
+
+### (M) Data retention
+
+* * *
+
+  * Summary – Data retention
+  * We take every reasonable step to ensure that your Personal Data are only retained for as long as they are needed.
+
+
+
+We take every reasonable step to ensure that your Personal Data are only Processed for the minimum period necessary for the purposes set out in this Policy.
+
+The criteria for determining the duration for which we will keep your Personal Data are as follows: we will retain copies of your Personal Data in a form that permits identification only for as long as is necessary in connection with the purposes set out in this Policy, unless applicable law requires a longer retention period. In particular, we may retain your Personal Data for the duration of any period necessary to establish, exercise or defend any legal rights.
+
+* * *
+
+### (N) Your legal rights
+
+* * *
+
+  * Summary – Your legal rights
+  * Under applicable law, you may have a number of rights, including: the right not to provide your Personal Data to us; the right of access to your Personal Data; the right to request rectification of inaccuracies; the right to request the erasure, or restriction of Processing, of your Personal Data; the right to object to the Processing of your Personal Data; the right to have your Personal Data transferred to another Controller; the right to withdraw consent; and the right to lodge complaints with Data Protection Authorities. We may require proof of your identity before we can give effect to these rights.
+
+
+
+Subject to applicable law, you may have a number of rights regarding the Processing of your Relevant Personal Data, including:
+
+  * the right not to provide your Personal Data to us (however, please note that we may be unable to provide you with the full benefit of our Sites, our Apps, or our services, if you do not provide us with your Personal Data – e.g., we may not be able to process your orders without the necessary details);
+  * the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data;
+  * the right to request rectification of any inaccuracies in your Relevant Personal Data;
+  * the right to request, on legitimate grounds: 
+    * erasure of your Relevant Personal Data; or
+    * restriction of Processing of your Relevant Personal Data;
+  * the right to object, on legitimate grounds, to the Processing of your Relevant Personal Data by us or on our behalf;
+  * the right to have certain Relevant Personal Data transferred to another Controller, in a structured, commonly used and machine-readable format, to the extent applicable;
+  * where we Process your Relevant Personal Data on the basis of your consent, the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Data in reliance upon any other available legal bases); and
+  * the right to lodge complaints with a Data Protection Authority regarding the Processing of your Relevant Personal Data by us or on our behalf.
+
+
+
+This does not affect your statutory rights.
+
+To exercise one or more of these rights, or to ask a question about these rights or any other provision of this Policy, or about our Processing of your Personal Data, please use the contact details provided in Section(R)below.Please note that:
+
+  * we may require proof of your identity before we can give effect to these rights; and
+  * where your request requires the establishment of additional facts (e.g., a determination of whether any Processing is non-compliant with applicable law) we will investigate your request reasonably promptly, before deciding what action to take.
+
+
+
+* * *
+
+### (O) Cookies and similar technologies (Cookie Policy)
+
+* * *
+
+  * Summary – Cookies and similar technologies
+  * We may Process your Personal Data by placing or reading Cookies and similar technologies. 
+
+
+
+**What is a cookie?**
+
+A cookie is a piece of data stored on your computer and tied to information about you. By using and browsing our Sites, you consent to the use by us and third parties of cookies and other technologies in accordance with this Policy.
+
+**What are the different types of cookies?**
+
+First party cookies are our own cookies set by our Site, controlled by us, and used to provide information about the usage of our Site.
+
+Third party cookies are cookies from any other domain. Some of our business partners (for example, third-party advertisers) may use cookies on the Site, in emails or in our advertisements on other websites to allow them to deliver the services they are providing. In order to create a user-friendly experience, some of our third-party promotions and advertisements are designed to automatically transmit users' information onto the third party's landing page when you choose to "click" upon a third party's advertisement or promotion.  We do not control these third parties or their use of cookies. As such, this Policy covers the use of cookies by the Company and does not cover the use of cookies by any third-party advertisers. Please check the websites of those third parties for details on how they use cookies.
+
+**How long do cookies stay on your computer?**
+
+Two types of cookies may be used on the Site, session cookies and persistent cookies.
+
+Session cookies are temporary cookies that remain in your browser or device until you leave the site; they are deleted from your device once you leave the Service.
+
+Persistent cookies are small files stored on your hard drive until you delete them or until they reach their expiry date. These may, for example, be used to remember your preferences when you use the Site, recognize you on your return, and enhance your experience on the Site (see more about profiles below). Use of a persistent cookie is not linked to any personally identifiable information while on the Site except if you choose to store your user names and PINs so that you do not have to enter them each time you access your accounts. Then, a persistent cookie will be stored on your computer, which is linked to your account information. If you reject the persistent cookie, you may still use the Site but you will be limited in some areas of it. 
+
+**How do we use cookies?**
+
+We may use cookies for the following purposes (either on our own or by using third party services):
+
+  * Authentication and Preferences: Cookies can be used to recognize you when you visit our Sites, remember your preferences (such as languages and communication preferences), and customize your experience with using our Sites and Services.
+  * Security: Cookies may enable and support our security features and to help us detect malicious activity.
+  * Advertising: Cookies allow us to bring you advertising both on and off our Sites. We may also use a cookie to learn whether someone who saw an ad later visited and took an action on the advertiser's site. Similarly, our partners may use a cookie to determine whether we've shown an ad and how it performed, or provide us with information about how you interact with ads. We may also work with a partner to show you an ad on or off our Sites, such as after you have visited a partner's site or application.
+  * Analytics: We use cookies to understand, improve, and research products, features, and services, including when you access our Sites from other websites, applications, or devices such as your mobile device.
+  * Geo-Location Information: Some devices allow applications to access real-time location-based information (for example, GPS). Some photos or other contact you place within our Service may contain recorded location information. We may use this information to optimize your experience. Also, some of the information we collect from a device, for example IP address, can sometimes be used to approximate a device’s location.
+  * Flash Cookies: We may, in certain situations, use Adobe Flash Player to deliver special content, such as video clips or animation. Flash cookies are stored on your device, but they are managed through an interface that is different from the one provided by your web browser. This means that it is not possible to manage Flash cookies at the browser level in the same way you would manage other types of cookies. Instead, you can access your Flash management tools from Adobe’s website directly.
+
+
+
+**What other technologies so we use?**
+
+  * Log Files: Like most websites, our servers use log files to analyze trends, administer our sites, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. The log file information consists of IP addresses, browser type, browser language, referring URL, platform type, etc., and is not linked to identifiable personal information.
+  * Clear Gifs: Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and we may use them to track the online movements of our users. Clear gifs are invisible on the page and are much smaller than cookies, about the size of the period at the end of this sentence. We may also use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+  * Profile: We may store information that we collect to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences. Consequently, collected information may be tied to users' personally identifiable information to improve the content of the Site for users, improve our Services and provide new services that are likely to be of interest to users and to direct pertinent product updates and marketing promotions to users if they have opted in to receive those promotions. We do not share personally identifiable elements of a user’s profile with other third parties. User profiles are shared in aggregate form only.
+  * Do Not Track Response: Certain web browsers may allow you to enable a “do not track” option that sends signals to the websites you visit indicating that you do not want your online activities tracked. This is different from blocking cookies as browsers with the “do not track” option selected may still accept cookies. Right now, there is no industry standard for how companies should respond to “do not track” signals, although one may be adopted in the future. We do not respond to “do not track” signals at this time. If we do so in the future, we will modify this Privacy Policy accordingly. More information about “do not track” is available at [www.allaboutdnt.org](http://www.allaboutdnt.org/).
+
+
+
+**Can I Change My Cookie Preferences?**
+
+Browser settings allow you to choose whether or not to accept cookies or limit certain cookies. Most browsers also provide functionality that lets you review and erase cookies. If you use our Sites without changing your browser settings, we will assume that you are happy to receive all cookies on our Sites. Please be aware that if cookies are disabled, not all features of the Site may operate as intended.
+
+Your mobile operating system may let you opt out from having your information collected or used for interest-based advertising on mobile devices. You should refer to the instructions provided by your mobile device’s manufacturer, but this functionality is usually available in the “Settings” section of your device. You can also stop us from collecting information through our applications by uninstalling our applications.
+
+For more information about these specialized cookies and other technologies, and to learn more about behavioral advertising or to opt out of this type of advertising for some companies, you can visit http://www.networkadvertising.org or <http://networkadvertising.org/optout_nonppii.asp>.
+
+* * *
+
+### (P) Terms of Use
+
+* * *
+
+  * Summary – Terms of Use
+  * The Terms and Conditions located on our website will govern all use of our Sites and our Apps.
+
+
+
+All use of our Sites, our Apps, or our services is subject to our Terms and Conditions. We recommend that you review our Terms and Conditions regularly, in order to review any changes we might make from time to time.
+
+Campaigner's [Terms and Conditions can be found here](http://campaigner.com/legal/terms.aspx) and SMTP's [Terms and Conditions can be found here](https://www.smtp.com/policies/terms-and-conditions.aspx)
+
+* * *
+
+### (Q) Direct marketing
+
+* * *
+
+  * Summary – Direct marketing
+  * We may Process your Personal Data to contact you with information regarding services that may be of interest to you. You may unsubscribe for free at any time.
+
+
+
+We may Process your Personal Data to contact you via email, telephone, direct mail or other communication formats to provide you with information regarding services that may be of interest to you. If we provide services to you, we may send information to you regarding our services, upcoming promotions and other information that may be of interest to you, using the contact details that you have provided to us and always in compliance with applicable law. 
+
+You may unsubscribe from our promotional email list at any time by following the unsubscribe instructions included in every promotional email we send. Wewill not send you promotional emailsfrom a list you have selected to be unsubscribed from, but we may continue to contact you to the extent necessary for the purposes of any services you have requestedor from additional lists you have signed up under.
+
+* * *
+
+### (R) Contact details
+
+* * *
+
+  * Summary – Contact Detials
+  * You may contact us at:   
+j2 Global Canada, Inc.   
+2 Gurdwara Road, 3rd Floor   
+Ottawa, Ontario   
+Canada   
+K2E 1A2   
+Email: [cpo@j2global.com](mailto:cpo@j2global.com)
+
+
+
+If you wish to be taken off our contact list for direct marketing, or if you have any comments, questions or concerns about any of the information in this Policy, or any other issues relating to the Processing of Personal Data carried out by us, or on our behalf, please contact:
+
+  * j2 Global Canada, Inc.  
+2 Gurdwara Road, 3rd Floor  
+Ottawa, Ontario  
+Canada K2E 1A2
+
+
+  * Email: [cpo@j2global.com](mailto:cpo@j2global.com)
+  * Campaigner Support: [support@campaigner.com](mailto:support@campaigner.com)
+  * SMTP Support: [support@SMTP.com](mailto:support@SMTP.com)
+
+
+
+* * *
+
+### (S) Definitions 
+
+* * *
+
+  * “ **App** ” means any application made available by us (including where we make such applications available _via_ third party stores or marketplaces, or by any other means).
+  * “ **Adequate Jurisdiction** ” a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for Personal Data.
+  * “ **Cookie** ” means a small file that is placed on your device when you visit a website (including our Sites). In this Policy, a reference to a “Cookie” includes analogous technologies such as web beacons and clear GIFs.
+  * “ **Controller** ”means the entity that decides how and why Personal Data are Processed. In many jurisdictions, the Controller has primary responsibility for complying with applicable data protection laws.
+  * “ **Data Protection Authority** ” means an independent public authority that is legally tasked with overseeing compliance with applicable data protection laws.
+  * “ **EEA** ” means the European Economic Area.
+  * “ **Personal Data** ” means information that is about any individual, or from which any individual is directly or indirectly identifiable, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that individual.
+  * “ **Process** ”, “ **Processing** ” or “ **Processed** ”means anything that is done with any Personal Data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+  * “ **Processor** ”means any person or entity that Processes Personal Data on behalf of the Controller (other than employees of the Controller).
+  * “ **Relevant Personal Data** ” means Personal Data in respect of which we are the Controller. It expressly does not include Personal Data of which we are not the Controller.
+  * “ **Sensitive Personal Data** ” means Personal Data about race or ethnicity, political opinions, religious or philosophical beliefs, trade union membership, physical or mental health, sexual life, any actual or alleged criminal offences or penalties, national identification number, or any other information that may be deemed to be sensitive under applicable law.
+  * “ **Standard Contractual Clauses** ” means template transfer clauses adopted by the European Commission or adopted by a Data Protection Authority and approved by the European Commission.
+  * “ **Site** ”means any website operated, or maintained, by us or on our behalf.
+
 
