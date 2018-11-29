@@ -1,93 +1,139 @@
-> *The following text is extracted and transformed from the xorsyst.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512094650id_/http%3A//xorsyst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xorsyst.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129191513id_/http%3A//xorsyst.com/privacy-policy) for the most accurate reproduction.*
 
-# xorsyst.com | Anime, Manga, Japanese Pop Culture Privacy Policy / TOS
+# Privacy Policy – xorsyst.com
 
-  *   * [](http://feeds2.feedburner.com/xorsyst)
+Effective date: October 1, 2018
 
+xorsyst.com (“us”, “we”, or “our”) operates the [http://www.xorsyst.com](http://www.xorsyst.com/) website (the “Service”).
 
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for xorsyst.com is managed through [Free Privacy Policy](https://www.freeprivacypolicy.com/free-privacy-policy-generator.php).
 
-[ ](http://xorsyst.com/japan/robo-geisha-trailer/ "Robo-Geisha is one crazy movie")
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from http://www.xorsyst.com
 
-Bit NSFW. Well, I’ve never been one to shy away from crazy Japanese cult movies. As a matter of fact, I didn’t think I would find one that topped Tokyo Gore Police. Silly me. Leave it to the minds that created Machine Girl and Tokyo Gore Police to team up and create this over the […]
+## Information Collection And Use
 
-[ 70 COMMENTS](http://xorsyst.com/japan/robo-geisha-trailer/#comments)
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-[ ](http://xorsyst.com/japan/koji-suzuki-drop-horror/ "A 3 foot horror story")
+### Types of Data Collected
 
-The bathroom in many homes is a very lonely room. You only visit it when you need something, and not for the pleasant atmosphere the room provides. So is it really hard to believe that the lonely bathrooms around the world holds a deep seated grudge for the humans that use it? I think not. […]
+#### Personal Data
 
-[ 47 COMMENTS](http://xorsyst.com/japan/koji-suzuki-drop-horror/#comments)
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
-[ ](http://xorsyst.com/videos/real-hello-kitty/ "A real Hello Kitty")
-
-If you are reading this website right now, I would find it very hard for you to not know what Hello Kitty is. One could argue that it is one of the most well known Japanese brands right up there with Honda and Sony. This video has nothing to do with Hello Kitty other than […]
-
-[ 44 COMMENTS](http://xorsyst.com/videos/real-hello-kitty/#comments)
-
-[ ](http://xorsyst.com/japan/zombie-defense-training/ "Kids vs Zombies")
-
-So, Andrea subliminally tricked me into purchasing Left 4 Dead on Steam, and I have been enjoying playing it for the past few days now. Funnily enough, I have to play Louis everytime I play online because well… my real name is Louis and I’m African-American. You may be wondering what zombies have to do […]
-
-[ 48 COMMENTS](http://xorsyst.com/japan/zombie-defense-training/#comments)
-
-[ ](http://xorsyst.com/japan/ichi-the-killer/ "Ichi the Killer Bento")
-
-Gore movies are one of my many favorites from Japan. The last one I watched was Tokyo Gore Police a few months ago. What can I say about that besides it was unbelievably gory… As for the actual story, I think I could of written something better as weekend homework in the 4th grade. But […]
-
-[ 50 COMMENTS](http://xorsyst.com/japan/ichi-the-killer/#comments)
-
-[ ](http://xorsyst.com/japan/naoto-fukasawas-fruit-juice/ "Naoto Fukasawa’s Fruit Juice")
-
-They say that the way food or drinks look plays a major influence on how well we like it. I would have to agree. These are some awesome fruit juice packaging from Industrial designer Naoto Fukasawa. Looking at the strawberry box, it looks as if the packaging may even feel like the specific fruit it […]
-
-[ 50 COMMENTS](http://xorsyst.com/japan/naoto-fukasawas-fruit-juice/#comments)
-
-[ ](http://xorsyst.com/japan/nikon-slr-glico/ "Mini Nikon SLR in Japanese candy")
-
-Gilco is one of Japan’s oldest candy companies, and is home to the popular Glico caramel candy as well as the legendary Pocky. For about 80 years now, inside the Glico caramel candy boxes there is a small toy called “Omake of Glico” (Small gift of Glico). It started off as little toys kids would […]
-
-[ 33 COMMENTS](http://xorsyst.com/japan/nikon-slr-glico/#comments)
-
-[ ](http://xorsyst.com/japan/space-invaders-bank/ "Space Invaders Bank")
-
-Tomy has done it again. If you are old enough to remember space invaders, this functioning bank will trigger yourÂ nostalgiaÂ reflex. Personally I remember the game, but I’m too young to remember the actual table. We did have a functioning Atari when I was a child though. Ah. Memories.
-
-[ 26 COMMENTS](http://xorsyst.com/japan/space-invaders-bank/#comments)
-
-Error: Feed has an error or is not valid
+  * Email address
+  * First name and last name
+  * Cookies and Usage Data
 
 
 
+#### Usage Data
 
-This is the web site of **Louis Ponder**.  
-Our postal address is  
-**PO Box 1081  
-Clearwater FL, 33757**
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-We can be reached via e-mail at [xorsystdotcom@yahoo.com](mailto:xorsystdotcom@yahoo.com)
+#### Tracking & Cookies Data
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit.
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
-The information we collect is used to improve the content of our Web page.
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-With respect to cookies: We use cookies to store visitors preferences.
+Examples of Cookies we use:
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+  *  **Session Cookies.** We use Session Cookies to operate our Service.
+  *  **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  *  **Security Cookies.** We use Security Cookies for security purposes.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-http://www.google.com/privacy.html  
-http://www.projectwonderful.com/tos.php
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by writing to us at the above address.Upon request we provide site visitors with access to a description of information that we maintain about them.
+## Use of Data
 
-Consumers can access this information by e-mail us at the above address.Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them
+xorsyst.com uses the collected data for various purposes:
 
-Views, comments, opinions, statements and other content posted on these Pages are not necessarily those of xorsyst.com.
+  * To provide and maintain the Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer care and support
+  * To provide analysis or valuable information so that we can improve the Service
+  * To monitor the usage of the Service
+  * To detect, prevent and address technical issues
 
-This website may contain links to third party websites. xorsyst.com is not responsible for the condition or content of those websites. The links are provided solely for convenience and do not indicate, expressly or impliedly, any endorsement of the websites or the products or services provided in them.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
+
+## Transfer Of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+xorsyst.com will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Legal Requirements
+
+xorsyst.com may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of xorsyst.com
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  *     *  **Google Analytics:** Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+    * **Quantcast:** When you visit a site or app operated by a Quantcast Partner, the Partner permits us to collect Log Data from their sites and apps through the use of Tags and Cookies; we also receive information directly from our Partners. We associate this information with a unique random identifier associated with your device (like a cookie id), but we never associate it with your name, email, address, or phone number, because we don’t collect that type of directly identifying information about consumers. We use this information from Partners, which includes information about some of the sites you are visiting and some of the apps you are using, as necessary for our legitimate interests to help improve the accuracy of our products and to determine what advertisements and content might be interesting to you.
+
+For more information on the privacy practices of Quantcast, please visit the Quantcast Privacy web page: <https://www.quantcast.com/privacy/>
+
+
+
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: [xorsystdotcom@yahoo.com](mailto:xorsystdotcom@yahoo.com)
+  * By visiting this page on our website: <http://xorsyst.com/contact/>
+
+
