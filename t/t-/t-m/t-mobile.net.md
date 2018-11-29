@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the t-mobile.net privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215114028id_/https%3A//www.telekom.com/en/deutsche-telekom/privacy-policy-1744) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-mobile.net privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129082500id_/https%3A//www.telekom.com/en/deutsche-telekom/privacy-policy-1744) for the most accurate reproduction.*
 
-# Deutsche Telekom: Privacy policy
+# Privacy policy | Deutsche Telekom
 
 Deutsche Telekom
 
@@ -8,40 +8,120 @@ Deutsche Telekom
 
 Two clicks for more data privacy: click here to activate the button and send your recommendation. Data will be transfered as soon as the activation occurs.
 
-  * [__Read out](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=4779&lang=de_de&readid=readspeakercontent&url=https://www.telekom.com/en/deutsche-telekom/privacy-policy-1744 "Read out")
+  * Print
+  * [__Read out](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=4779&lang=en&readid=readspeakercontent&url=https://www.telekom.com/en/deutsche-telekom/privacy-policy-1744 "Read out")
 
 
 
-Data protection and data security for customers and users have a high priority for the entire Deutsche Telekom Group. We therefore attach great importance to the protection of personal data in all business processes. More about our privacy policy principles, which apply to the whole DT-Group, can be found in the [ __Binding Corporate Rules Privacy (pdf, 167.0 KB)](/resource/blob/323318/7dc2556f11e7330d66953ea352662515/dl-binding-corporate-rules-privacy-data.pdf "Binding Corporate Rules Privacy") of Deutsche Telekom.
+## General provisions
 
-This privacy statement explains what kind of information is collected at the Deutsche Telekom Group during a visit to one of our Web sites and how we use this information. However, this does not apply to Web sites of companies which do not belong to the Group, even if they have a link to this or any other Web site of a Deutsche Telekom AG company. Should you wish to receive information on the collection and processing of personal data at specific companies of the Deutsche Telekom Group, please contact these companies directly or use our contact form.
+Deutsche Telekom AG Corporate Communications attaches great importance to protecting your personal data. We always inform you what personal data we collect, how your data is used, and how you can influence the process.
 
- **Collection and processing of personal data**  
-For the purpose of system security, when you visit our Web sites, our Web server temporarily registers the domain name or the [IP](/en/glossary#glossar381622) address of the requesting computer as well as the date of access, the file request of the client (file name and URL), the HTTP response code and the Web site from which you are visiting us, and the number of bytes transferred during the session. We might also, in some cases, store some information in the form of 'cookies' on your PC so that we can optimize our Web site according to your preferences. We will not collect any other personal data such as name, address, telephone number or e-mail address unless you provide this information voluntarily, e.g., when placing an online order for a product or service, a survey, a competition, or a request for information. Personal data collected during a visit to our Web site is processed exclusively in accordance with the legal provisions of the country in which the respective company is headquartered.
+## 1\. Where can I find the information that is important to me?
 
- **Use and forwarding of personal data**  
-We will use your personal data exclusively for the technical administration of the Web site and to meet your wishes and requests. Only in cases in which you have given us prior consent do we also use this data for product-related surveys and marketing purposes, but only to the extent needed in each specific case. We will not disclose any data to government agencies except where required by law. Our employees and business offices are obligated to treat the data as confidential.
+This **data privacy information** provides an overview of the items which apply to Deutsche Telekom processing your data in this web portal.   
+Further information, including information on data protection for specific products, is available at <https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/data-protection> and <https://www.telekom.com/en/deutsche-telekom/privacy-policy-1744>. 
 
- **Data control with the[social media](/en/glossary#glossar381638) plug-ins used**  
-Some of our web sites contain buttons from [social media](/en/glossary#glossar381638) networks, with which you can recommend Deutsche Telekom's offers to your friends and acquaintances. To ensure that you have full data control, when you load the page, images of the respective functions (Facebook “Like” button, Google +1, Twitter button) are displayed instead of the actual [social media](/en/glossary#glossar381638) plug-ins. The exchange of data is not activated until you click the checkmark next to the images, which loads the respective [social media](/en/glossary#glossar381638) plug-ins. When you click a plug-in to activate it, the following data may be transmitted to the website operator:
+## 2\. Who is responsible for data processing? Who should I contact if I have any queries regarding data privacy at Deutsche Telekom?
 
-\- Your [IP](/en/glossary#glossar381622) address  
-– Browser information and operating system  
-\- Screen resolution  
-– Installed browser plug-ins, such as Adobe Flash player  
-– Origin of visitors if you followed a link (referrer)  
-– URL of the current page
+Deutsche Telekom AG, Friedrich-Ebert-Allee 140, 53113 Bonn, Germany, acts as the data controller. If you have any queries, please contact our Customer Services department or the Group [Data Privacy](https://web.archive.org/en/glossary#glossar381540) Officer, Dr. Claus D. Ulmer, Friedrich-Ebert-Allee 140, 53113 Bonn, Germany [datenschutz@telekom.de](mailto:datenschutz@telekom.de).
 
-You can revoke your consent for the social plug-ins to be displayed on this page in future by resetting the checkmark. When you call up the next page, an image will again be displayed in the place of active [social media](/en/glossary#glossar381638) plug-ins (the checkmark is removed), and no data is forwarded.
+## 3\. What rights do I have?
 
- **Customer's decision**  
-The companies of Deutsche Telekom AG like to contact customers to provide them with information about special offers and news on products and services. If you register on our Web site or place an order for our products and services, you will be asked to indicate whether you would like to receive advertising information directly. Irrespective of your consent, it goes without saying that, as a Deutsche Telekom customer, you will continue to be notified of any important changes relating to existing service agreements (e.g., rate changes).
+You have the right   
+a) To request **information** on the categories of personal data concerned, the purpose of the processing, any recipients of the data, the envisaged storage period (Art. 15 GDPR);  
+b) To request incorrect or incomplete data is **rectified** or supplemented (Art. 16 GDPR);   
+c) To **withdraw** consent at any time with effect for the future (Art. 7 (3) GDPR);  
+d) To **object** to the processing of data on the grounds of legitimate interests, for reasons relating to your particular situation (Art 21 (1) GDPR);  
+e) To request the **erasure** of data in certain cases under Art. 17 GDPR – especially if the data is no longer necessary in relation to the purposes for which it was collected or is unlawfully processed, or you withdraw your consent according to (c) above or objected according to (d) above;   
+f) To demand under certain circumstances the **restriction** of data where erasure is not possible or the erasure obligation is disputed (Art. 18 GDPR);  
+g)To **data portability** , i.e. you can receive your data which you provided to us, in a commonly used and machine-readable format, such as CSV and can, where necessary, transmit the data to others (Art. 20 GDPR);  
+h)To **file a complaint** with the competent supervisory authority regarding data processing (for telecommunications contracts: the German Federal Commissioner for Data Protection and Freedom of Information (Bundesbeauftragte für den Datenschutz und die Informationsfreiheit); for any other matters: State Commissioner for Data Protection and Freedom of Information North Rhine-Westphalia (Landesbeauftragter für den Datenschutz und die Informationsfreiheit Nordrhein-Westfalen).
 
- **Freedom of information**  
-Upon written request, the respective company of the Deutsche Telekom Group will inform you of the personal data stored on you (e.g., name, address).
+## 4\. Who does Deutsche Telekom pass my data on to?
 
- **Security**  
-We have taken extensive technical and operational precautions to protect the personal data retained by us against unauthorized access and misuse. Our security procedures are revised regularly and adapted to reflect technological progress.
+ **To processors,** i.e. companies we engage to process data within the legally defined scope, Art. 28 GDPR (service providers, agents). In this case, Deutsche Telekom also remains responsible for protecting your data. We engage companies particularly in the following areas: [IT](https://web.archive.org/en/glossary#glossar381614), sales, marketing, finance, consulting, customer services, HR, logistics, printing.
 
- **Contacts**  
-Should you wish any data to be corrected or deleted, or have any other questions or suggestions on data protection, please use our [ contact form](/en/contact "Contact").
+ **To cooperation partners** who, on their own responsibility, provide services for you or in conjunction with your Deutsche Telekom contract. This is the case if you contract with us services from these partners or if you consent to the incorporation of the partner or if we incorporate the partner on the basis of legal permission.
+
+ **Owing to legal obligations** : In certain cases, we are legally obliged to transfer certain data to the requesting state authority. 
+
+## 5\. Where is my data processed?
+
+In general, your data is processed in Germany and in other European countries.   
+If your data is also processed in countries outside the European Union (i.e. in third countries) by way of exception, this is done only if you have explicitly given your consent or it is required so we can provide you with services or it is prescribed by law (Art. 49 GDPR). Furthermore, your data is only processed in third countries if certain measures ensure a suitable level of data protection (e.g. EU Commission’s adequacy decision or suitable guarantees, Art. 44 ff. GDPR). 
+
+## 6\. What data is recorded, how is it used and how long is it stored?
+
+When you visit our websites, the web server temporarily records the domain name or your computer’s [IP](https://web.archive.org/en/glossary#glossar381622) address, the file requested (file name and URL) by the client, the http response code, and the website from which you are visiting us.   
+The recorded data is used solely for data security purposes, particularly to protect against attempted attacks on our web server (Art. 6 (1) f GDPR). We do not use it to create individual user profiles nor do we share this information with third parties. It is erased after 7 days at the latest. We reserve the right to statistically analyze anonymized data records.
+
+ **a)**   **Dynamic FAQs:** If you send a new question you have to give your e-mail address with that. So you will receive the answer at this address.
+
+ **b)**   **Web form:** such as your name, address, telephone number or e-mail address will not be collected unless you provide this information voluntarily.
+
+## 7\. Data control for the [social media](https://web.archive.org/en/glossary#glossar381638) plug-ins used
+
+Some of the services websites include buttons for [social media](https://web.archive.org/en/glossary#glossar381638) networks (Facebook Like button, Google +1, Twitter button) that you can use to recommend the services Deutsche Telekom AG Corporate Communications to your friends and family. 
+
+To ensure you retain full control of the data, the used buttons provide direct contact between the respective social network and the visitor only once you actively click on the button (one-click solution).
+
+When the [social media](https://web.archive.org/en/glossary#glossar381638) plug-in is activated (Art. 6 (1) a GDPR), the following data can be forwarded to the [social media](https://web.archive.org/en/glossary#glossar381638) provider: [IP](https://web.archive.org/en/glossary#glossar381622) address, browser information, operating system, screen resolution, installed browser plug-ins (such as Adobe Flash Player), previous website if you followed a link (referrer), URL of the current website, etc...  
+The next time you visit the website, the [social media](https://web.archive.org/en/glossary#glossar381638) plug-ins are again provided in the default disabled mode, thus ensuring that no data is transferred during a repeat visit to the website.   
+Further information on [social media](https://web.archive.org/en/glossary#glossar381638) plug-ins is available at: <https://www.sicherdigital.de/sicher-surfen#aufpassen-beim-like-button> and [1-Click Solution](http://heise.de/-2467514).
+
+## 8\. Will my usage habits be evaluated, e.g. for advertising purposes, tracking or fraud prevention?
+
+ **Explanations and definitions**
+
+We want you to enjoy using our websites and take advantage of our products and services. We have an economic interest in ensuring this is the case. We analyze your usage habits on the basis of anonymized or pseudonymized data so you can find the products that interest you and so we can make our websites user-friendly. We or companies commissioned by us to process data create usage profiles to the extent permitted by law. This information cannot be traced back to you directly. Subsequently we inform you generally about the various purposes and techniques. Afterwards you have the right to revoke your consent. However, please remember that in this case you may not have access to the full range of functions offered by our websites.  
+
+ **a) Purposes (Art. 6 (1) f GDPR / §15 (3) German Telemedia Act (Telemediengesetz – TMG)  **
+
+  *  **Tag management**  
+Tag management is used to manage tracking tools in websites. A tag is set for each page to do this. Based on the tag, the system can determine which tracking tools should be used for this page. Tag management can be used to specifically control tracking so that the tools are only used where appropriate.
+  *  **Market research / Reach measurement**  
+Reach measurement provides statistics on a website’s usage intensity and the number of users, along with comparable figures for all the connected services. Individual users are not identified at any time. Your identity is always protected.
+
+
+
+ **b) Techniques**
+
+ **Cookies**  
+We use cookies for certain services. These are small text files that are stored on your computer. They enable the system to tell if you repeatedly visit websites from the same computer.
+
+ **Session cookies** are cookies which are only stored on your computer for the duration of your Internet session and are required for transactions (e.g. to log in or to complete a purchase). They simply contain a transaction ID.
+
+For certain services, we use persistent cookies, which are stored on your computer for future sessions. In this case, we notify you about the cookie’s storage period. 
+
+You can set your browser to prevent these cookies being stored or to delete the cookies at the end of your Internet session. However, please remember that in this case you may not have access to the full range of functions offered by our websites. For information about browser settings go to: <https://www.sicherdigital.de/sicher-surfen#sicher-surfen-browsereinstellungen>
+
+**Measurement pixels**  
+Measurement pixels are simply images measuring 1×1 pixels. They are transparent or are the same color as the background, making them invisible. If a website is opened that contains a measurement pixel, this small image is then downloaded from the provider’s server on the Internet and the download is recorded on the server. This way the process provider can see when and how many users requested this measurement pixel or visited a website. The provider can also see whether JavaScript is enabled or not in the browser. If JavaScript is enabled, additional information such as browser information, operating system, screen resolution can be recorded.
+
+This function is normally executed by calling JavaScript; nonetheless the term measurement pixel is still used.
+
+ **JavaScript**  
+JavaScripts are used to call the application and to transfer the collected parameters to the particular service provider/measurement pixel provider.  
+ 
+
+### Techniques used on these websites and purposes: 
+
+Company|  Purpose| Technique and, where applicable, storage period| Involved as| Opt-Out  
+---|---|---|---|---  
+[Tealium Inc.](https://tealium.com/de/privacy/)| Customized design| Cookie   
+(24 months)| Processor| Browser setting: Block cookies from the domain “tealium.hs.llnwd.net”   
+[Webtrekk GmbH](https://www.webtrekk.com/de/warum-webtrekk/datenschutz/)| Customized design| Measurement pixel| Processor| You can object to data processing by Webtrekk at any time under the following link.  
+[Mapp GmbH (Teradata)](https://mapp.com/de/)| E-Mail-Service| Cookie  
+(30 days)| Processor| Browser setting: Block cookies from the domain “email-telekom.de”  
+  
+You can consult further information on cookies and the individual providers on the websites [www.meine-cookies.org](http://www.meine-cookies.org/) or [www.youronlinechoices.com](http://www.youronlinechoices.com/).   
+Here you can also choose not to receive usage-based online advertising from a single or from all of these companies at <http://www.youronlinechoices.com/de/praferenzmanagement/>.  
+We are voluntary subscribers to self-regulation as specified by the German Data Protection Council for Online Advertising ([Deutsche Datenschutzrat Online-Werbung](http://meine-cookies.org/DDOW/der_ddow/organisation.html) – DDOW).
+
+## 9\. Services from other companies that assume responsibility for providing their services
+
+ **Google**  
+We use Google Maps for maps, locations and route planning on individual websites, e.g. in the Store Locator, which you can access via the tab “Make an appointment in the store” on the right-hand edge of the Deutsche Telekom product pages. Google Maps is run by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. By embedding Google Maps your [IP](https://web.archive.org/en/glossary#glossar381622) address is transferred directly to Google and a cookie stored as soon as you visit this kind of website. You can obtain information and opt out at any time from data processing by Google at [http://www.google.de/intl/de/policies/privacy](https://policies.google.com/privacy?hl=de&gl=de). 
+
+Data privacy information last revised: May 25, 2018
