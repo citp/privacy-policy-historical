@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeexchange.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202020504id_/https%3A//www.bikeexchange.com/article/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeexchange.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129225541id_/https%3A//www.bikeexchange.com/article/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -114,4 +114,4 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 If you have any questions or concerns regarding our privacy policies, please send us a detailed message to info@BikeExchange.com. We will make every effort to resolve your concerns.
 
-Last Updated: December 17, 2014
+Last Updated: April 5th, 2018
