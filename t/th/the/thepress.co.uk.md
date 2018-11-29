@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepress.co.uk privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614205133id_/http%3A//www.newsquest.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepress.co.uk privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129221223id_/http%3A//www.newsquest.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Newsquest
 
@@ -185,7 +185,7 @@ We might offer you the opportunity to receive information from selected partner 
 
 Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of an agreement for a product or service from us.
 
-You can opt out of all telephone marketing messages from all parties by contacting the Telephone Preference Service at [www.tpsonline.org.uk ](http://www.tpsonline.org.uk/) For unwanted post, contact [www.mpsonline.org.uk](https://web.archive.org/web/20180614205133id_/http://www.newsquest.co.uk/privacy-policy/www.mpsonline.org.uk)
+You can opt out of all telephone marketing messages from all parties by contacting the Telephone Preference Service at [www.tpsonline.org.uk ](http://www.tpsonline.org.uk/) For unwanted post, contact [www.mpsonline.org.uk](https://web.archive.org/web/20181129221223id_/http://www.newsquest.co.uk/privacy-policy/www.mpsonline.org.uk)
 
 **Personalised advertising**
 
