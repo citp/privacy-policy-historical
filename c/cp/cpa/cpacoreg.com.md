@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpacoreg.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228145916id_/http%3A//www.juneexchange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpacoreg.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129125118id_/http%3A//www.juneexchange.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | June Exchange
 
