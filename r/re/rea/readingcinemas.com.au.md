@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingcinemas.com.au privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312023411id_/http%3A//readingcinemas.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingcinemas.com.au privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129064714id_/http%3A//readingcinemas.com.au/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reading Cinemas AU
 
@@ -17,7 +17,7 @@ We collect personal information from you in a variety of ways. For example, we m
   * online transactions;
   * when you join our loyalty program;
   * credit card details via credit card purchases; and
-  * information collected from third parties. 
+  * information collected from third parties.
 
 
 
@@ -55,10 +55,10 @@ _Sensitive Information_
 
 We do not collect any information about your racial or ethnic origin, political opinions or membership, religious or philosophical beliefs, trade association or union membership, sexual preferences or criminal record, unless:
 
-  * you have given us specific consent to do so, or 
-  * where we are required by law to do so, or 
-  * it is necessary to prevent a serious and imminent threat to the life or health of a person, or 
-  * it is necessary for the establishment, exercise or defence of a legal claim. 
+  * you have given us specific consent to do so, or
+  * where we are required by law to do so, or
+  * it is necessary to prevent a serious and imminent threat to the life or health of a person, or
+  * it is necessary for the establishment, exercise or defence of a legal claim.
 
 
 
@@ -75,7 +75,7 @@ We may sometimes use the personal information we collect for a secondary purpose
   * where you have consented,
   * where the secondary purpose is directly related to the primary purpose, and you would  
     reasonably expect us to use or disclose the information in such a way, or
-  * where we are permitted or required by law, or it is in the interests of public safety to do so. 
+  * where we are permitted or required by law, or it is in the interests of public safety to do so.
 
 
 
@@ -88,7 +88,7 @@ We treat personal information which we collect from you in the same way that we 
 We will not disclose to a third party, the information which we collect about you, except where it is necessary to conduct our business, and then only if the third party:
 
   * first enters into appropriate confidentiality undertakings with us, or
-  * has a privacy policy which is similar to ours. 
+  * has a privacy policy which is similar to ours.
 
 
 
@@ -132,7 +132,7 @@ By providing your personal information to us or by using our web site, you are i
 
 **7\. CONTACTING US**
 
-If you have any questions about our privacy statement, please contact our privacy officer at [privacy@readingcinemas.com.au](mailto:privacy@readingcinemas.com.au) or by mail to;
+If you have any questions about our privacy statement, please contact our privacy officer at [information@readingcinemas.com.au](mailto:information@readingcinemas.com.au) or by mail to;
 
 Privacy Officer   
 Reading Entertainment Australia Pty Limited &  
