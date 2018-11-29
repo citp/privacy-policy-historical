@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dorothyperkins.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526084355id_/http%3A//www.dorothyperkins.com/en/dpuk/category/privacy-policy-3077345/home%3FTS%3D1403102837659%26cat2%3D1772993%3Fintnav%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorothyperkins.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129145605id_/http%3A//www.dorothyperkins.com/en/dpuk/category/privacy-policy-3077345/home%3FTS%3D1403102837659%26cat2%3D1772993%3Fintnav%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy - Dorothy Perkins
 
@@ -982,7 +982,9 @@ Our website uses cookies to collect information.
     4.1.Strictly functional cookies  
     4.2.Statistical cookies  
     4.3.Personalisation cookies  
-    4.4.Marketing cookies  
+    4.4.Marketing cookies
+
+    4.5 Cookies used in mobile apps  
 5.Third party cookies  
     5.1.What third party cookies do we use and why  
     5.2.Flash cookies  
@@ -1379,6 +1381,64 @@ tuuid, um, umeh, tuuid_last_update
 
 Measuring the conversion. This aggregate information is used to determine the value of and to settle with an advertising partner  
   
+**4.5 C** **ookies used in mobile Apps**
+
+These cookies are used in our Mobile Apps. They are strictly functional and help make the app useable and are essential in helping you move around our site and use it’s features. Without these cookies you would not be able navigate our site and gain access to secure areas such as signing into your account, add something to the basket or make purchases.
+
+**Cookie Name**
+
+| 
+
+**Provider**
+
+| 
+
+**Purpose**  
+  
+---|---|---  
+  
+AB_PHOTO
+
+JSESSIONID
+
+WC_ACTIVEPOINTER_#
+
+WC_AUTHENTICATION_#
+
+WC_PERSISTENT
+
+WC_SESSION_ESTABLISHED
+
+WC_USERACTIVITY_#
+
+cartId
+
+cartItemId
+
+cartValue
+
+cartSize
+
+WC_pickUpStore
+
+userLanguage,
+
+currentDeliveryCountry,
+
+usergeo,
+
+userCountry,
+
+prefShipCtry
+
+| 
+
+Arcadia WCS (Internal)
+
+| 
+
+These cookies are used to support the website and user experience, without these the website would not work  
+  
 **5\. Third party cookies**
 
   
@@ -1529,3 +1589,181 @@ If you are not happy with the way that we use cookies then you should delete Dor
 **9\. Other details you should know**  
 Our Cookies Policy explains how we at Dorothy Perkins Limited collect data from your computer, mobile or other device when using our website. If you would like to get in touch, you can write to us at: Customer Care, Burton Business Park, Torre Road, Leeds, LS9 6DJ. We reserve the right to update this Cookies Policy at any time but won't send communications regarding minor changes, so we will only provide you with an updated Cookies Policy when we make changes to cookies that we need you to know about and agree to. The latest Cookies Policy with any other updates will always be available on our website for you to check.  
 Even if you do not consent to or change your mind about our cookies, you may still see our advertising on line but this will be general advertising or page/context specific advertising and not shaped by your browsing or shopping behaviour as an individual.
+
+**Making a request to our partners   **
+
+We partner with other companies to ensure that you get additional services and helpful add-ons to improve your experience with us. In some instances you must contact these partners directly to submit a privacy request.  
+
+We've compiled a list (below) of who these partners are and what exactly they do.  We've also given you a link to their privacy policy, which contains information about how to make a privacy request to them. Not all of these third parties process your personal data but if you think they have please do not hesitate to contact them directly.  
+
+THIRD PARTY NAME 
+
+| 
+
+WHAT THEY DO  
+
+| 
+
+LINK TO PRIVACY POLICY   
+  
+---|---|---  
+  
+KLARNA 
+
+| 
+
+Klarna provide finance options to pay for online purchases at a later date 
+
+| 
+
+[Click Here](http://cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy)  
+  
+PAYPAL 
+
+| 
+
+Paypal is a third-party service that lets you pay without entering payment details to stores directly   
+
+| 
+
+[Click Here](https://www.paypal.com/uk/webapps/mpp/ua/privacy-full)  
+  
+UNIDAYS
+
+| 
+
+Unidays are a third party who verify student status and provide student discount codes based on this  
+
+| 
+
+[Click Here](https://www.myunidays.com/GB/en-GB/privacy-policy)  
+  
+STUDENT BEANS
+
+| 
+
+Student Beans are a third party who verify student status and provide student discount codes based on this 
+
+| 
+
+[Click Here](https://www.studentbeans.com/uk/info/privacy)  
+  
+ABA 
+
+| 
+
+ABA Research provide feedback to companies based on customer opinions 
+
+| 
+
+[Click Here](https://www.abaresearch.co.uk/contact-privacy-policy)  
+  
+INTELLIGENT REACH 
+
+| 
+
+Intelligent Research are an ecommerce software provider optimising product visibility  
+
+| 
+
+[Click Here](https://www.intelligentreach.com/privacy-policy/)  
+  
+DRESSIPI 
+
+| 
+
+Dressipi provide a fashion-personalisation service 
+
+| 
+
+[Click Here](https://dressipi.com/privacy/)  
+  
+CONVERSANT 
+
+| 
+
+Conversant are a digital marketing provider 
+
+| 
+
+[Click Here](https://www.conversantmedia.com/legal/privacy)   
+  
+ZANOX 
+
+| 
+
+Also known as Awin. Please refer to Awin entry 
+
+| 
+
+[Click Here](https://www.awin.com/gb/legal/privacy-policy-gb)  
+  
+AWIN 
+
+| 
+
+Awin are an affiliate marketing network that allows companies to advertise their products 
+
+| 
+
+[Click Here](https://www.awin.com/gb/legal/privacy-policy-gb)   
+  
+CURALATE 
+
+| 
+
+Curulate is a platform that allows us to select and upload photos that people send to us to our websites, such as being featured in an ‘as seen on me’ segment 
+
+| 
+
+[Click Here](https://www.curalate.com/privacy-policy/)   
+  
+TWITTER 
+
+| 
+
+Twitter is a social media platform  
+
+| 
+
+[Click Here](https://twitter.com/en/privacy)    
+  
+NEW DAY 
+
+| 
+
+New Day are a credit and financial provider   
+
+| 
+
+[Click Here](https://newday.co.uk/privacy-policy/)    
+  
+RAKUTEN MARKETING  
+
+| 
+
+Rakuten Marketing are an affiliate marketing company, that deliver a personalised advertising experience 
+
+| 
+
+[Click Here](https://rakutenmarketing.com/legal-notices/website-privacy-policy)    
+  
+WORLDPAY 
+
+| 
+
+Worldpay provide payments processing technology  
+
+| 
+
+[Click Here](https://www.worldpay.com/uk/worldpay-privacy-notice#priv-1)    
+  
+BAZAARVOICE
+
+| 
+
+BazaarVoice provide a product review service
+
+| 
+
+[Click Here](https://www.bazaarvoice.com/legal/privacy-policy/)
