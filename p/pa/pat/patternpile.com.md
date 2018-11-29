@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the patternpile.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123091225id_/http%3A//patternpile.com/sewing-patterns/patternpile-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patternpile.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129215925id_/http%3A//www.patternpile.com/sewing-patterns/patternpile-com-privacy-policy) for the most accurate reproduction.*
 
-# PatternPile.com Privacy Policy | PatternPile.com
+# PatternPile.com Privacy Policy | PatternPile.com - sew, quilt, knit and crochet fun gifts!
 
 ### PRIVACY POLICY
 
@@ -60,4 +60,4 @@ Links:
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
 © 2012 PatternPile.com , All rights reserved.  
-Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
+Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
