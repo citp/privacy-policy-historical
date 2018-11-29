@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopsocially.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524032803id_/http%3A//www.shopsocially.com/platform/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopsocially.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130002936id_/http%3A//www.shopsocially.com/platform/privacy-policy) for the most accurate reproduction.*
 
 # ShopSocially Customer Loyalty Program | Referral Marketing | Privacy Policy
 
