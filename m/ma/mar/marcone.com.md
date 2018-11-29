@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the marcone.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524140901id_/http%3A//www.marcone.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marcone.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130003833id_/http%3A//www.marcone.com/ContactUs/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Marcone
 
-**Your Privacy**   
 At Marcone we believe that, as our online visitor, you have a right to know our practices regarding the information we collect when you visit our websites, and what type of information is collected. The guidelines contained herein only apply to your visits to [www.marcone.com](http://www.marcone.com/), which is operated by Mar–Cone Appliance Parts Center (Marcone). This includes web pages on [www.marcone.com](http://www.marcone.com/) that contain "marcone.com" in their URLs, but does not include any redirect URLs that link the user to another internet domain. Other websites which are linked to/from [www.marcone.com](http://www.marcone.com/) (including other Marcone affiliates, other Marcone websites, and via banner ads) may have different policies; therefore, please review the privacy policy notices on those websites for details. 
 
  While Marcone does not generally require that you provide us with personally identifiable information in order to visit and use the Marcone websites, please note that in order to participate in some activities, it will be necessary for you to provide this information. If you choose not to provide it for those activities, you may not be able to participate in them. 
