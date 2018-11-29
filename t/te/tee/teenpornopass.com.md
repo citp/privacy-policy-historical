@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenpornopass.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530060255id_/http%3A//www.teenpornopass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenpornopass.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129030751id_/http%3A//www.teenpornopass.com/privacy.html) for the most accurate reproduction.*
 
 # Teen Porno Pass
 
@@ -49,3 +49,7 @@ Terms and Conditions of Membership.
 Each subscriber should carefully read each of the terms and conditions of membership of this site. By accepting membership to this site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers. 
 
 In the event of any conflicts between the membership terms and conditions and this privacy policy statement, the provisions of this privacy policy shall control. 
+
+GDPR (General Data Protecton Regulation) 
+
+In accordance with the General Data Protecton Regulation law in the European Union effective May 25, 2018, www.babysittermovies.com users can request a copy of their personal data as well as delete their personal data. We have never sold and never will sell your personal data. All personal information is secure and private. To request a copy of personal data or to delete your account and all associated data please email: traffictitan@gmail.com or message the admin. 
