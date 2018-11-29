@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the felder-group.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530060125id_/https%3A//www.felder-group.com/fg-en/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the felder-group.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129234114id_/https%3A//www.felder-group.com/fg-en/privacy-statement.html) for the most accurate reproduction.*
 
 # FELDER GROUP
 
@@ -24,13 +24,13 @@ In the following document, we will inform you about the processing of your perso
 
 The rights of the persons affected may be asserted should the corresponding criteria be met. Please note that you may be required to provide proof of identification in advance. 
 
-  * \- Right of access to data: you may freely request confirmation as to whether personal data about you has been processed and request access to such data and information in accordance with Article 15 of the GDPR. 
-  * \- Right to amend if we process incorrect or incomplete data about you (Art. 16 GDPR). 
-  * \- Right to delete personal data if the criteria of Art. 17 GDPR are fulfilled. 
-  * \- Right to restrict the processing of your data in accordance with Art. 18 of the GDPR. 
-  * \- Right to transfer and receive personal data that you have supplied in an automated process in a format that is structured, conventional and machine readable. (Art. 20 GDPR). 
-  * \- For processing based on a legitimate interest, you have the right to object at any time in accordance with Art. 21 of the GDPR. This right is unrestricted in cases where data shall be processed for the purpose of direct advertising and related profiling. 
-  * \- You may revoke your consent for the processing of personal data at any time; the legality of the data processing up until such a time at which you revoke this right is not affected by this. 
+  * Right of access to data: you may freely request confirmation as to whether personal data about you has been processed and request access to such data and information in accordance with Article 15 of the GDPR. 
+  * Right to amend if we process incorrect or incomplete data about you (Art. 16 GDPR). 
+  * Right to delete personal data if the criteria of Art. 17 GDPR are fulfilled. 
+  * Right to restrict the processing of your data in accordance with Art. 18 of the GDPR. 
+  * Right to transfer and receive personal data that you have supplied in an automated process in a format that is structured, conventional and machine readable. (Art. 20 GDPR). 
+  * For processing based on a legitimate interest, you have the right to object at any time in accordance with Art. 21 of the GDPR. This right is unrestricted in cases where data shall be processed for the purpose of direct advertising and related profiling. 
+  * You may revoke your consent for the processing of personal data at any time; the legality of the data processing up until such a time at which you revoke this right is not affected by this. 
 
 
 
@@ -88,14 +88,14 @@ For each visit to our website, our system automatically gathers data and informa
 
 The following data is collected from this:
 
-  * \- Information about browser type and the version used
-  * \- The user's operating system
-  * \- The user's internet service provider
-  * \- The user's IP address and the browser's session ID
-  * \- Date and time of access
-  * \- Data about the end device (device ID, screen resolution, language and country settings ...)
-  * \- Web pages visited by the user's system on our website 
-  * \- Web pages called upon by the user's system on our website.
+  * Information about browser type and the version used
+  * The user's operating system
+  * The user's internet service provider
+  * The user's IP address and the browser's session ID
+  * Date and time of access
+  * Data about the end device (device ID, screen resolution, language and country settings ...)
+  * Web pages visited by the user's system on our website 
+  * Web pages called upon by the user's system on our website.
 
 
 
@@ -123,10 +123,10 @@ Legal bases and legitimate interests
 
 The legal bases for the processing of data are pre-contractual provisions or contractual duties (article 6, paragraph 1, lit. b of the GDPR), legal and regulatory duties (article 6, paragraph 1, lit. c of the GDPR, in particular taxation law), as well as the following (substantial) legitimate interests (article 6, paragraph 1, lit. f of the GDPR): 
 
-  * \- The assertion or defence of legal claims, in particular for warranty and product liability reasons
-  * \- Reducing default risks (including those of third parties)
-  * \- To answer customer queries regarding products and services; the right to object at any time remains, unless this opposes a substantial interest (such as liability)
-  * \- efficient internal administration within the company / group
+  * The assertion or defence of legal claims, in particular for warranty and product liability reasons
+  * Reducing default risks (including those of third parties)
+  * To answer customer queries regarding products and services; the right to object at any time remains, unless this opposes a substantial interest (such as liability)
+  * efficient internal administration within the company / group
 
 
 
@@ -134,17 +134,17 @@ Receivers or receiver categories and transfers to third countries or internation
 
 In an emergency, personal data is transferred to the following receiver categories:
 
-  * \- Banks (to process payment flows)
-  * \- Legal representatives, courts if required
-  * \- Business trustees (for auditing purposes)
-  * \- The responsible administrative authorities, esp. financial authorities
-  * \- Collection agencies for debt recovery (abroad only to the extent the debt must be recovered abroad)
-  * \- External financiers such as leasing or factoring companies and concessionaires, to the extent the delivery or service is externally financed in this way
-  *  -Contract or business partners, who contribute or will contribute to the delivery or service (such as delivery companies)
-  * \- Insurance policies issuing from the conclusion of an insurance contract regarding the delivery/service or the advent of an insured event
-  * \- Authorities and institutions in order to create the legally required (official) statistics
-  * \- Customers (recipients of services)
-  * \- Credit agencies
+  * Banks (to process payment flows)
+  * Legal representatives, courts if required
+  * Business trustees (for auditing purposes)
+  * The responsible administrative authorities, esp. financial authorities
+  * Collection agencies for debt recovery (abroad only to the extent the debt must be recovered abroad)
+  * External financiers such as leasing or factoring companies and concessionaires, to the extent the delivery or service is externally financed in this way
+  * Contract or business partners, who contribute or will contribute to the delivery or service (such as delivery companies)
+  * Insurance policies issuing from the conclusion of an insurance contract regarding the delivery/service or the advent of an insured event
+  * Authorities and institutions in order to create the legally required (official) statistics
+  * Customers (recipients of services)
+  * Credit agencies
 
 
 
@@ -200,9 +200,9 @@ Legal bases and legitimate interests
 
 Legitimate interests on the basis of article 6, paragraph 1, lit. f of the GDPR:
 
-  * \- Advertisements for products and services offered by the company
-  * \- To acquire and retain customers (bonus scheme for regular customers)
-  * \- To improve the attractiveness of offers
+  * Advertisements for products and services offered by the company
+  * To acquire and retain customers (bonus scheme for regular customers)
+  * To improve the attractiveness of offers
 
 
 
@@ -214,14 +214,14 @@ Receivers or receiver categories and transfers to third countries or internation
 
 In an emergency, personal data is transferred to the following receiver categories:
 
-  * \- Delivery services
+  * Delivery services
 
 
 
 We use the services of the following processors:
 
-  * \- Printers
-  * \- Newsletter service providors
+  * Printers
+  * Newsletter service providors
 
 
 
@@ -231,7 +231,7 @@ The controller, FELDER KG, is part of a group of companies. For internal economi
 
 The collection of data from other sources: categories of personal data
 
-  * \- The purchase of address data and collecting addresses
+  * The purchase of address data and collecting addresses
 
 
 
@@ -339,7 +339,7 @@ During contact with the references you have provided, data and information about
 
 Storage period
 
-If you have applied for an advertised position, we will keep your personal data for a maximum of three years following the end of the application period, then it will be deleted. Furthermore, you can informally object to this within eight months of the end of the application period. 
+If you have applied for an advertised position, we will keep your personal data for a maximum of three years following the end of the application period, then it will be deleted. Furthermore, you can informally object to this within six months of the end of the application period. 
 
 If you have submitted an unsolicited application, we will keep your documents for a maximum of three years, so that we can contact you regarding any suitable positions. However, you can informally object at any time.
 
