@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adblade.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625025420id_/https%3A//adblade.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adblade.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129180052id_/https%3A//www.adblade.com/doc/privacy) for the most accurate reproduction.*
 
 # Adblade - Privacy Policy
 
@@ -22,7 +22,7 @@ Ad Serving
 
 Adblade partners with numerous companies to provide online advertisements to "End Users" which are human users across various websites on the internet. As an End User browses the web, he or she may visit web-pages that include references to Adblade's advertising service. When this happens, an End User's browser may request advertisements from Adblade's system.
 
-When Adblade receives these requests, we may record information about this interaction (as well as any further interaction with our advertisements such as clicks, mouse movements, etc.) including the End User's IP address and time of request, information about the general geographical location from which an End User is viewing an advertisement and other information made available by the browser.
+When Adblade receives these requests from non-European Union (EU) countries, we may record information about this interaction (as well as any further interaction with our advertisements such as clicks, mouse movements, etc.) including the End User's IP address and time of request, information about the general geographical location from which an End User is viewing an advertisement and other information made available by the browser. For EU countries, Adblade does not store any personally identifiable information, makes no attempt to identify anyone personally, and does not target any ads based on any of these factors.
 
 Additionally, Adblade employs small text files stored on your web browser (otherwise known as cookies) for the purpose of better tailoring advertisements to an End User's preferences over time. These cookies may include a unique anonymous identifier along with information about the particular types of content in which the End User has shown interest.
 
