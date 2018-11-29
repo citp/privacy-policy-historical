@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afghanstar.tv privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619004928id_/http%3A//www.afghanstar.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afghanstar.tv privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129194843id_/http%3A//www.afghanstar.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Afghan Star
 
@@ -86,7 +86,7 @@ Our website uses cookies to distinguish you from other users of our website. Thi
 
 If you have any questions, comments and requests related to this Privacy Statement, or if you have any complaints related to how Moby processes your personal data, please contact us at:
 
-Legal Department Or at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#75191012141935181a170c581d045b161a18)
+Legal Department Or at [legal@moby-hq.com](mailto:legal@moby-hq.com)
 
 Moby Media FZ-LLC
 
