@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amylynnandrews.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916050632id_/https%3A//amylynnandrews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amylynnandrews.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130124332id_/https%3A//amylynnandrews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Amy Lynn Andrews
 
@@ -6,21 +6,33 @@ Privacy is good. I like it and I assume you do too. As a reader of mine, your pr
 
 ### The Chips and Salsa Version
 
-There may be third party advertisers and companies which utilize cookies to provide advertisements that would most interest you. I have no control over said cookies. This is not unique to my site, but is common across the internet.
+This site uses cookies, pixels and code to track your activity here. This is common practice on the internet. If you don’t want your computer activity to be tracked in this way, please exit the site now.
+
+Tracked activity includes, but is not limited to, pages you visit, links you click, blog comments you leave and email subscriptions forms you fill out and submit.
+
+Information that is collected includes, but is not limited to, your name & email address (in the case of email subscription), IP address and browser information.
+
+I may provide personal information to an applicable third party in order to provide services such as Facebook to target Facebook Ads and Mad Mimi to manage email subscriptions.
+
+You can decline to submit personal information at any time. If you decline, I may not be able to provide service to you.
+
+You may request deletion of your personal information by sending an email to amy@amylynnandrews.com.
+
+I will never sell your personal information.
+
+There may be third party advertisers and companies which utilize cookies to provide advertisements that would most interest you. I have no control over these cookies. This is not unique to my site, but is common across the internet.
 
 Your IP address and other information (such as the day and time of your visit) is tracked for the purpose of understanding trends and helping me provide information that is most relevant and helpful. Again, this is not unique to this site, but is common practice across the internet.
 
 On AmyLynnAndrews.com you’ll find a lot of links to other sites, over which I have no control, nor do I have control over the privacy policies of those sites. Policies of other sites may differ from mine.
 
-_Last updated October 9, 2013._
-
 ### The Whole Enchilada Version
 
-This Privacy Policy governs the manner in which AmyLynnAndrews.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://AmyLynnAndrews.com](https://amylynnandrews.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by AmyLynnAndrews.com.
+This Privacy Policy governs the manner in which AmyLynnAndrews.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://amylynnandrews.com](https://amylynnandrews.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by AmyLynnAndrews.com.
 
 **Personal identification information**
 
-We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+This site collects personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
@@ -28,7 +40,7 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+This site uses “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 **How we use collected information**
 
@@ -78,4 +90,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 AmyLynnAndrews@gmail.com
 
-This document was last updated on October 9, 2013
+This document was last updated on May 25, 2018.
