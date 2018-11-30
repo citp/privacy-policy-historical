@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applevacations.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619030447id_/http%3A//www.applevacations.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applevacations.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130235540id_/http%3A//www.applevacations.com/privacy-security) for the most accurate reproduction.*
 
 # All-Inclusive Vacations | America’s #1 Tour Operator | Apple Vacations
 
