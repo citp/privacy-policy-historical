@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the buffer.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618020440id_/https%3A//buffer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffer.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130123908id_/https%3A//buffer.com/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy | Buffer
+# Privacy Policy | Buffer
 
-_Last Updated: May 18, 2018_
+_Last Updated: August 6, 2018_
 
 Buffer provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use, protection, and disclosure of Personal Information received from your use of this website, located at [https://buffer.com](https://buffer.com/) (“Site”), as well as all related websites including our subdomains at [https://reply.buffer.com](https://reply.buffer.com/) and [https://analyze.buffer.com](https://analyze.buffer.com/), applications, browser extensions, and other services provided by us (collectively, together with the Site, our “Service”), and in connection with our customer, vendor, and partner relationships. This Privacy Policy also tells you about your rights and choices with respect to your Personal Information, and how you can reach us to update your contact information or get answers to questions you may have about our privacy practices.
+
+In addition to the activities described in this Privacy Policy, we may process Personal Information on behalf of our commercial customers when they use the Service. We process such Personal Information as a data processor of our commercial customers, which are the entities responsible for the data processing. To understand how a commercial customer processes your Personal Information, please refer to that customer’s privacy policy.
 
 Registration with, use of, and access to the Service is subject to this Privacy Policy and our Terms of Use located at <https://buffer.com/terms>. All terms not defined in this Privacy Policy will have the meanings set forth in the Buffer Terms of Use.
 
@@ -155,6 +157,9 @@ To update your preferences, ask us to remove your information from our mailing l
 
 Buffer is based in the United States. Personal Information that we collect may be transferred to, and stored at, any of our affiliates, partners or service providers which may be inside or outside the European Economic Area (“EEA”) and Switzerland, including the United States. By submitting your personal data, you agree to such transfers. Your Personal Information may be transferred to countries that do not have the same data protection laws as the country in which you initially provided the information. When we transfer or disclose your Personal Information to other countries, we will protect that information as described in this Privacy Policy.
 
+**Individuals Located in the EEA or Switzerland**  
+If you are located in the European Economic Area (“EEA”) or Switzerland, we will comply with applicable legal requirements for the transfer of Personal Information to countries outside of the EEA or Switzerland. In particular, Buffer has filed its certification of adherence to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the Department of Commerce and the European Commission, and the Swiss Federal Data Protection and Information Commissioner, respectively, with respect to the processing of certain Personal Information transferred from the EEA and Switzerland to Buffer. For additional details on our compliance with the EU-US privacy Shield Framework and the Swiss-US Privacy Shield Framework please visit: [https://buffer.com/privacy-shield](https://web.archive.org/privacy-shield). Buffer has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. In addition, we may enter into Standard Contractual Clauses issued by the European Commission with our commercial customers where appropriate.
+
 ## 8\. CHILDREN’S PRIVACY
 
 The Site is not directed to persons under 16. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [hello@buffer.com](mailto:hello@buffer.com). We do not knowingly collect Personal Information from children under 16. If we become aware that a child under 16 has provided us with Personal Information, we will delete such information from our files.
@@ -177,5 +182,5 @@ Buffer Inc
 2443 Fillmore St #380-7163  
 San Francisco, CA 94115
 
-This Privacy Policy is effective as of May 18, 2018.  
+This Privacy Policy is effective as of August 6, 2018.  
 If you have any thoughts or questions about this Privacy Policy please [let us know](mailto:hello@buffer.com).
