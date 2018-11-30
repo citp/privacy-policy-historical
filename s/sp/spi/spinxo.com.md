@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinxo.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530085657id_/http%3A//www.spinxo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinxo.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130050202id_/http%3A//www.spinxo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,10 +14,10 @@ Once you have signed up for our service, you have joined as a member. We only co
 
 In sum, your security and privacy is of our utmost concern, and we will never intentionally violate the trust you place in us. 
 
-## What is SpinXO?
+###  What is SpinXO?
 
-SpinXO helps generate hundreds of username ideas with a few mouse clicks. Find names for Twitter, Skype, Youtube, AOL or any other online service requiring a unique screen name. 
+SpinXO helps you generate tons of name ideas with a few mouse clicks. You can find available usernames for Youtube, Instagram, Roblox, games and any other social network. 
 
-  * [ Generate Username Ideas ](https://web.archive.org/web/20180530085657id_/http%3A//www.spinxo.com/)
+  * [ Generate Names ](http://www.spinxo.com/)
 
 
