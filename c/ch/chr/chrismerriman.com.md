@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chrismerriman.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229022022id_/http%3A//chrismerriman.com/privacy-other-info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrismerriman.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130160325id_/http%3A//chrismerriman.com/privacy-other-info) for the most accurate reproduction.*
 
-# Privacy | ChrisMerriman.com
+# ChrisMerriman.com » Privacy
 
 Privacy Policy for ChrisMerriman.com 
 
