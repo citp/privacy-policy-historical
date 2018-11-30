@@ -1,64 +1,84 @@
-> *The following text is extracted and transformed from the toprankblog.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110094408id_/http%3A//www.toprankmarketing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toprankblog.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130114715id_/https%3A//www.toprankmarketing.com/privacy) for the most accurate reproduction.*
 
-# Privacy - TopRank® Online Marketing
+# Privacy - TopRank® Marketing
 
-TopRank Online Marketing (“Site”, “We” “Us”) operates a Web site located at www.www.toprankmarketing.com (the “Site”) from which users can gather information concerning news and services provided by TopRank (the “TopRank Services”). This TopRank Privacy Policy (“Privacy Policy”) covers our treatment of personally identifiable information that we collect when you access the Site and when you use TopRank Services.
+TopRank Marketing (“Site”, “We” “Us”) operates a website located at www.toprankmarketing.com (the “Site”) from which users can gather information concerning news and services provided by TopRank Marketing (the “TopRank Services”). This TopRank Marketing Privacy Policy (“Privacy Policy”) covers our treatment of personally identifiable information that we collect when you access the Site and when you use TopRank Services.
 
-### Information Collection and Use
+###  **Information Collection and Use**
 
-> TopRank receives a variety of “personally identifiable information,” including your email address, IP address, and message content. TopRank also collects names and mailing addresses (including street, city, state, and zip code) from users that wish to provide that information. We use this personally identifiable information as follows:
-> 
-> TopRank requires that you provide your email address on the contact us section of the Site so that we are able to respond to your question(s) by email. You have the option of also providing information regarding your name, demographics (such as your state and country of residency), operating system, browser, Internet service provider (“ISP”), connection type and email program that you are using.
-> 
-> TopRank also automatically receives and records information on our server logs from your browser, including your IP Address and the page you requested. Your IP address is not linked to your email address or TopRank.
-> 
-> In certain areas of this Site, we require that you provide us with personally-identifiable information, in order to be able to use that portion or those portions of this Site. For instance, the names and contact information of persons who visit our Web sites are added to our database so that, for example, they may be contacted in the future regarding TopRank’s products, services or future opportunities. Such contact may occur by email, telephone or mail, as TopRank deems appropriate.
+Any personal information you provide to us will only be used for the purpose for which you have provided it to us. Information shared with us is given expressively on a voluntary basis and with your consent.
 
-TopRank uses your email address for the following purposes:
+TopRank Marketing receives a variety of “personally identifiable information,” including your email address, IP address (When your web browser or email application requests a web page from another computer on the Internet, it automatically gives that computer the address where the requested information should be sent. This is called your computer’s “IP address.” (IP stands for “Internet protocol.”) For most users accessing the Internet from a dial-up ISP, the IP address may be different every time you log on), and message content. TopRank Marketing also collects names and mailing addresses (including street, city, state, and zip code) from users that wish to provide that information. When providing us with this information, you also consent to us contacting you via those communication channels, in order to answer your request.
 
-> To contact you about TopRank Services or the Site.  
->  To notify you when you receive a TopRank email message.  
->  To communicate with you concerning problems or malfunctions you report.  
->  Information Sharing and Disclosure
+ **We use this personally identifiable information as follows:**
 
-TopRank will not sell or rent your email address, name, mailing address, or other supplied information to anyone.
+TopRank Marketing requires that you provide your email address on the contact us section of the site so that we are able to respond to your question(s) by email. You have the option of also providing information regarding your name, demographics (such as your state and country of residency), operating system, browser, Internet service provider (“ISP”), connection type and email program that you are using.
 
-TopRank will not share your email address, first or last name, mailing address, or other received information to anyone, except as stated below:
+TopRank Marketing also automatically receives and records information on our server logs from your browser, including your IP Address and the page you requested. Your IP address is not linked to your email address or TopRank Marketing.
 
-We may disclose personally identifiable information about you as legally required in order for us to respond to subpoenas, court orders, or other legal processes.
+In certain areas of this site, we require that you provide us with personally-identifiable information, in order to be able to use that portion or those portions of this site. For instance, the names and contact information of persons who visit our web sites are added to our database so that, for example, they may be contacted in the future regarding TopRank Marketing’s products, services or future opportunities. Such contact may occur by email, telephone or mail, as TopRank Marketing deems appropriate.
 
-### Changes to This Privacy Policy
+TopRank Marketing uses your email address for the following purposes:
 
-TopRank may amend this Privacy Policy from time to time. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on the Site.
+  * To contact you about TopRank services or the site.
+  * To notify you when you receive a TopRank Marketing email message.
+  * To communicate with you concerning problems or malfunctions you report.
+  * Information Sharing and Disclosure
+  * TopRank Marketing will not sell or rent your email address, name, mailing address, or other supplied information to anyone.
+  * TopRank Marketing will not share your email address, first or last name, mailing address, or other received information to anyone, except as stated below:
+  * We may disclose personally identifiable information about you as legally required in order for us to respond to subpoenas, court orders, or other legal processes.
 
-### Questions or Suggestions
 
-If you have questions or suggestions, send us an [email](mailto:info@www.toprankmarketing.com).
 
-IP Addresses – When your Web browser or email application requests a Web page from another computer on the Internet, it automatically gives that computer the address where the requested information should be sent. This is called your computer’s “IP address.” (IP stands for “Internet protocol.”) For most users accessing the Internet from a dial-up ISP, the IP address may be different every time you log on.
+###  **Google Analytics**
 
-### Information Collection and Use Practices
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. In case of activation of the IP anonymization, Google will shorten/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. On behalf of the website provider Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage to the website provider. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of this website. Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under ttps://tools.google.com/dlpage/gaoptout?hl=en-GB.
 
-TopRank receives your IP address each time you view a Web page from the Site. Your IP address is not linked to your email address or any other personally identifiable information. Your IP address may be used for various purposes, including:
+You can refuse the use of Google Analytics by clicking on the following link. An opt-out cookie will be set on the computer, which prevents the future collection of your data when visiting this website: _[Deactivate Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=en-GB)_
 
-> To diagnose service or technology problems reported by you that are associated with your IP address.  
->  To estimate the total number of users visiting the Site from specific locales, countries or regions of the world.
+Further information concerning the terms and conditions of use and data privacy can be found at http://www.google.com/analytics/terms/gb.html or at https://www.google.de/intl/en_uk/policies/. Please note that on this website, Google Analytics code is supplemented by “anonymizeIp” to ensure an anonymized collection of IP addresses (so called IP-masking).
 
-### Log Files
+###  **Your Rights**  
+**Right of revocation**
+
+You are entitled to revoke a given consent to the collection and use of your personal data at any time with effect for the future.
+
+ **Right to information**
+
+You are entitled to request information regarding the data stored in relation to your person or to your pseudonym. Upon your request, the information can be provided electronically.
+
+ **Right to correction, blocking or deletion**
+
+You are entitled to request the correction, blocking or deletion regarding the data stored in relation to your person. Unless legal obligations prevent us from deleting your personal data, your data will be blocked and only made accessible for the purposes of compulsory legal regulations.
+
+To exercise the above mentioned rights to revocation, information collection, blocking or deletion, please contact us via the contact details provided below. The exercising of your rights is free of charge.
+
+###  **Information Collection and Use Practices**
+
+TopRank receives your IP address each time you view a web page from the site. Your IP address is not linked to your email address or any other personally identifiable information. Your IP address may be used for various purposes, including:
+
+  * To diagnose service or technology problems reported by you that are associated with your IP address.
+  * To estimate the total number of users visiting the Site from specific locales, countries or regions of the world.
+
+
+
+###  **Log Files**
 
 When a Web page on the Site is requested, that request (including the date and time) is logged on our servers with information including the IP address of the computer that requested the page.
 
 We use log files for debugging and troubleshooting purposes. IP addresses and access times are not linked to your email address or any other personally identifiable information.
 
-### Cookies
+###  **Cookies**
 
 If you request certain services from us, TopRank may then attempt to set cookies on your computer and later access those cookies. You can normally refuse cookies by setting preferences in your browser. You do not need to accept cookies in order to use TopRank Services.
 
-A cookie is a small amount of data, which often includes a unique identifier that is sent to your browser from a Web site’s computers and then stored on your computer’s hard drive. A cookie cannot obtain information from your hard drive, destroy files, or transmit viruses.
+A cookie is a small amount of data, which often includes a unique identifier that is sent to your browser from a web site’s computers and then stored on your computer’s hard drive. A cookie cannot obtain information from your hard drive, destroy files, or transmit viruses.
 
-Each Web site can send its own cookie to your browser, if your browser’s preferences allow it. To protect your privacy, your browser normally only permits a Web site to access cookies that it has previously sent to you, but not the cookies sent to you by other sites.
+Each web site can send its own cookie to your browser, if your browser’s preferences allow it.
 
-### Choices About Cookies
+To protect your privacy, your browser normally only permits a web site to access cookies that it has previously sent to you, but not the cookies sent to you by other sites.
+
+###  **Choices About Cookies**
 
 You can normally configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.)
 
@@ -66,21 +86,44 @@ If you reject all cookies, you will still be able to use TopRank Services.
 
 Cookies are used only as an option selected by you that allows us to recall your email address from the cookie that we sent to your computer.
 
-### Data Storage/User Information
+ **Social Bookmarks**
+
+Our websites provide the opportunity to share the respective current page in social networks (Facebook, Flickr, Google+, Instagram, LinkedIn, Feedburner, Twitter, YouTube) or via email. These are included on our site as external links to the corresponding services. After clicking the integrated graphic, you will be redirected to the website of the provider. Only then will user information be transferred to the respective provider. If you do not wish the social networks to receive any data, please do not click on the graphic. Please find information on the use of your personal data by the social networks in their respective privacy regulations.
+
+###  **Data Storage/User Information**
 
 All TopRank account information (including names, mailing addresses) and content of email messages are stored on multiple redundant disk storage systems. No removable offline copies or backups are made.
 
 If you request deletion of your email address or any other identifiable information, your information will be deactivated and removed from our user registration database within 30 days.
 
-In reviewing the information above, please keep in mind that TopRank cannot and does not assume any responsibility for any actions or omissions of third parties, including other Site users, including the manner in which they might use information received either from TopRank or independently.
+ **Data Transfer to Third Parties**
 
-### Contact
+Your personal data is not transferred to third parties unless there is a legal obligation for the data transfer. Because external companies have access to your personal data, we take all necessary legal, technical and organizational measures and carry out regular audits to ensure that these companies comply with the provisions of Data Protection Law.
 
-You can contact TopRank at:
+In reviewing the information above, please keep in mind that TopRank cannot and does not assume any responsibility for any actions or omissions of third parties, including other site users, including the manner in which they might use information received. either from TopRank or independently.
 
-[http://www.toprankmarketing.com](http://www.toprankmarketing.com/)  
-4032 Shoreline Drive Suite #1  
-Spring Park, Minnesota 55384  
-Toll-Free. 877-872-6628  
-Tel. 952-400-0194 -  
+###  **Changes to This Privacy Policy**
+
+TopRank Marketing may amend this Privacy Policy from time to time. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on the site. The current status is May 2018.
+
+###  **Questions or Suggestions**
+
+If you have questions or suggestions, please use the contact information listed below.
+
+###  **Contact**
+
+You can contact TopRank Marketing at:
+
+ _[https://www.toprankmarketing.com](https://www.toprankmarketing.com/)_
+
+info @ toprankmarketing.com
+
+10405 6th Ave N, Suite 250
+
+Minneapolis, MN 55441
+
+Toll-Free. 877-872-6628
+
+Tel. 952-400-0194
+
 Fax. 952-400-8784
