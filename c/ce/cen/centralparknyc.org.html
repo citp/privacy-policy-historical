@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the centralparknyc.org privacy policy that was archived on 2018-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180524141447id_/http%3A//www.centralparknyc.org/about/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centralparknyc.org privacy policy that was archived on 2018-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181130105223id_/http%3A//www.centralparknyc.org/about/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" class=" async-hide"><head>
 
 
 
 
 
 <meta name="generator" content="Convio CMS"> 
-<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T735RZ"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T735RZ"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
 
 
 <script language="JavaScript" type="text/javascript" src="/components/print/printer-friendly.js"></script>
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '1872:0';
-CONVIO.pageSessionID = 'DA1E348F006157CDA40DD059A7FF05C3.app272b';
+CONVIO.pageSessionID = 'C2307C16FC75344355A4D0C085034B96.app274b';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1527171287579"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1543575143042"></script>
 <script type="text/javascript">
 
 
@@ -46,105 +46,71 @@ deleteCookie("CONVIO.referrer");
 
 
 
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="The Central Park Conservancy, Inc. is committed to the privacy of our online and offline supporters.">
-  <meta name="author" content="Central Park Conservancy">
-
-  <title>Privacy Policy - The Official Website of Central Park NYC</title>
-  
-  
-
-  <!-- Open Graph data -->
-  <meta property="og:title" content="Privacy Policy">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="http://www.centralparknyc.org/about/privacy-policy.html">
-  
-  
-  
-  <meta property="og:image" content="http://www.centralparknyc.org/assets/images/support/support-main-image.jpg">
-  <meta property="og:description" content="The Central Park Conservancy, Inc. is committed to the privacy of our online and offline supporters.">
-
-  <!-- Optimizely code -->
-  <script src="https://cdn.optimizely.com/js/2131741199.js"></script>
-  <!--script src="//cdn.optimizely.com/js/2131741199.js"></script-->
-  <script type="text/javascript">
-    function submitOptimizelyEvent(optimizely_event_name) {
-      window['optimizely'] = window['optimizely'] || [];
-      window.optimizely.push(["trackEvent", optimizely_event_name]);
-    }
-  </script>
-
-  <!-- Google Tag Manager -->
-  <script>
-  (function(w,d,s,l,i){
-    w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
-    var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
-    j.async=true;
-    j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })
-  (window,document,'script','dataLayer','GTM-T735RZ');
-</script>
-<!-- End Google Tag Manager -->
-
-<!-- One Signal -->
-  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="async"></script>
-  <script>
-    var OneSignal = window.OneSignal || [];
-    OneSignal.push(["init", {
-      appId: "53f2953a-22e2-464f-b07a-04d5b1b858d9",
-      autoRegister: false, /* Set to true to automatically prompt visitors */
-      notifyButton: {
-          enable: true, /* Set to false to hide */
-          prenotify: true,
-          text: {
-            'tip.state.unsubscribed': 'Subscribe to notifications from Central Park!',
-            'tip.state.subscribed': "You're subscribed to notifications from Central Park!",
-            'tip.state.blocked': "You've blocked notifications from Central Park",
-            'message.prenotify': 'Click to subscribe to notifications from Central Park!',
-            'message.action.subscribed': "Thanks for subscribing!",
-            'message.action.resubscribed': "You're subscribed to notifications from Central Park!",
-            'message.action.unsubscribed': "You won't receive notifications from Central Park again.",
-            'dialog.main.title': 'Manage Site Notifications',
-            'dialog.main.button.subscribe': 'SUBSCRIBE',
-            'dialog.main.button.unsubscribe': 'UNSUBSCRIBE',
-            'dialog.blocked.title': 'Unblock Notifications',
-            'dialog.blocked.message': "Follow these instructions to allow notifications:"
-        },
-        displayPredicate: function() {
-            return OneSignal.isPushNotificationsEnabled()
-                .then(function(isPushEnabled) {
-                    /* The user is subscribed, so we want to return "false" to hide the notify button */
-                    return !isPushEnabled;
-                });
-        }
-      },
-      welcomeNotification: {
-        "title": "Central Park Conservancy",
-        "message": "Thanks for subscribing!",
-        // "url": "centralparknyc.org" /* Leave commented for the notification to not open a window on Chrome and Firefox (on Safari, it opens to your webpage) */
-    }
-    }]);
-  OneSignal.push(function() {
-    OneSignal.on('subscriptionChange', function(isSubscribed) {
-//    console.log("The user's subscription state is now:", isSubscribed);
-      dataLayer.push({
-        'desktopNotificationSubscribed': isSubscribed,
-        'event': 'desktopNotificationSubscriptionChange'
-      });
-    });
-  });
-  </script>
-<!-- End One Signal -->
-
-
-  <!-- Styles for webfonts -->
-  <link href="https://fonts.googleapis.com/css?family=Arimo:400,400i,700|Oswald" rel="stylesheet">
-
-  <!-- Main CSS output file from Sass consolidation -->
-  <link rel="stylesheet" type="text/css" href="http://support.centralparknyc.org/assets/styles/css/main.css?v=0111181157">
-  
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="The Central Park Conservancy, Inc. is committed to the privacy of our online and offline supporters.">
+	<meta name="author" content="Central Park Conservancy">
+	
+	<title>Privacy Policy - The Official Website of Central Park NYC</title>
+	
+	
+	
+	<!-- Open Graph data -->
+	<meta property="og:title" content="Privacy Policy">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="http://www.centralparknyc.org/about/privacy-policy.html">
+	
+	
+	
+	<meta property="og:image" content="http://www.centralparknyc.org/assets/images/support/support-main-image.jpg">
+	<meta property="og:description" content="The Central Park Conservancy, Inc. is committed to the privacy of our online and offline supporters.">
+	
+	<!-- Google Optimize: Page Hiding -->
+	<style>.async-hide { opacity: 0 !important} </style>
+	<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+	h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+	(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+	})(window,document.documentElement,'async-hide','dataLayer',4000,
+	{'GTM-MH7DTP9':true});</script>
+	<!-- end Google Optimize page hiding -->
+	
+	<!-- Google Analytics (modified for Google Optimize) -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		
+		ga('create', 'UA-17339074-1', 'auto', {'allowLinker': true});
+		ga('require', 'GTM-MH7DTP9');
+		
+		ga('require', 'linker');
+		ga('linker:autoLink', ['centralparkconservancy.thundertix.com','centralparknyc.tumblr.com'], false, true);
+		
+		ga('require', 'displayfeatures');
+		
+		// I’m not entirely sure if this next bit of code is needed in this GA snippet, but I’m including it just in case.  It’s included in the Google Tag Manager GA tags.
+		if (window.CONVIO.referrer.length > 0) {
+			ga('set', 'referrer', window.CONVIO.referrer);
+		}
+	</script>
+	<!-- end Google Analytics -->
+	
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer', 'GTM-T735RZ');</script>
+	<!-- End Google Tag Manager -->
+	
+	<!-- Styles for webfonts -->
+	<link href="https://fonts.googleapis.com/css?family=Arimo:400,400i,700|Oswald" rel="stylesheet">
+	
+	<!-- Main CSS output file from Sass consolidation -->
+	<link rel="stylesheet" type="text/css" href="http://support.centralparknyc.org/assets/styles/css/main.css?v=0111181157">
+	
     <style>
 	form.emailFollowBody input {
 	    height: 41px;
@@ -220,6 +186,8 @@ deleteCookie("CONVIO.referrer");
       });
     });
   </script>
+
+
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
@@ -240,12 +208,12 @@ deleteCookie("CONVIO.referrer");
             </button>
           </div>
           <div class="row">
-            <div class="modal-title">YOUR FREE CENTRAL PARK SPRING GUIDE</div>
+            <div class="modal-title">YOUR FREE CENTRAL PARK FALL GUIDE</div>
           </div>
         </div>
         <div class="modal-footer">
           <div class="modal-sub-title">
-            Get exclusive tips on this spring’s best Central Park adventures! Our free guide features the best spots to find colorful blooms, exciting upcoming events, family-friendly ways to explore the Park, and more.
+            Make the most of autumn in Central Park! This free guide features our official fall foliage map, upcoming programs and events, family-friendly ways to explore the Park, and more.
           </div>
           <div class="row sign-up-row">
             <form novalidate="novalidate" id="lbox_register_form" name="lbox_register_form" method="post" action="javascript:void(0);">
@@ -257,9 +225,9 @@ deleteCookie("CONVIO.referrer");
               <input name="ACTION_SUBMIT_SURVEY_RESPONSE" value="Submit Survey" type="hidden">
               <input name="NEXTURL" value="http://www.centralparknyc.org/cpc-registration.html?show=all" type="hidden">
               <input name="s_src" value="website" type="hidden">
-              <input name="s_subsrc" value="201803_seasonal" type="hidden">
+              <input name="s_subsrc" value="201809_seasonal" type="hidden">
               <input name="denySubmit" value="" alt="This field is used to prevent form submission by scripts." type="hidden">
-              <input name="SURVEY_ID" value="7266" type="hidden">
+              <input name="SURVEY_ID" value="7626" type="hidden">
               <input name="ERRORURL" id="ERRORURL" value="http://www.centralparknyc.org/cpc-registration.html" type="hidden">
               <input name="ifUsername" id="ifUsername" value="[[S1:user_name]]" type="hidden">
               <button class="btnSignUpLightbox clickable" id="formSubmit">
@@ -308,7 +276,7 @@ deleteCookie("CONVIO.referrer");
       <div class="mobile-menu" id="offcanvas-menu">
         <ul class="navbar-mobile-menu">
           <li class="">
-            <button class="join-renew-mobile" tabindex="-1"><a href="https://secure.centralparknyc.org/site/Donation2?df_id=6260&amp;6260.donation=form1&amp;s_src=dfy18w&amp;s_subsrc=web_nav_mobile_mem" onclick="
+            <button class="join-renew-mobile" tabindex="-1"><a href="https://secure.centralparknyc.org/site/Donation2?df_id=6260&amp;6260.donation=form1&amp;s_src=dfy19w&amp;s_subsrc=web_nav_mobile_mem" onclick="
                 dataLayer.push({ 
                 'eventCategory' : 'Navigation', 
                 'eventAction' : 'Join or Renew', 
@@ -321,7 +289,8 @@ deleteCookie("CONVIO.referrer");
           </li>
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" id="visit-mobile" role="button" aria-haspopup="true" aria-expanded="false" tabindex="-1">Visit<i class="fa fa-caret-right" id="visit-mobile"></i><i class="fa fa-caret-down" id="visit-mobile"></i></a>
-            <ul class="dropdown-menu-mobile visit-mobile" <li=""><a href="http://www.centralparknyc.org/visit/" onclick="
+            <ul class="dropdown-menu-mobile visit-mobile">
+              <li><a href="http://www.centralparknyc.org/visit/" onclick="
                 dataLayer.push({ 
                 'eventCategory' : 'Navigation', 
                 'eventAction' : 'Visit', 
@@ -329,7 +298,7 @@ deleteCookie("CONVIO.referrer");
                 'eventValue' : undefined,
                 'nonInteraction': false, 
                 'event' : 'GAEvent'
-              });" tabindex="-1">Visit</a>
+              });" tabindex="-1">Visit</a></li>
               <li><a href="http://www.centralparknyc.org/things-to-see-and-do/" onclick="
                 dataLayer.push({ 
                 'eventCategory' : 'Navigation', 
@@ -576,7 +545,7 @@ deleteCookie("CONVIO.referrer");
                 'nonInteraction': false, 
                 'event' : 'GAEvent'
               });" tabindex="-1">Benefit Events</a></li>
-              <li><a href="https://secure.centralparknyc.org/site/Donation2?df_id=6300&amp;6300.donation=form1&amp;s_src=dfy18w&amp;s_subsrc=web_nav_mobile_don" onclick="
+              <li><a href="https://secure.centralparknyc.org/site/Donation2?df_id=6300&amp;6300.donation=form1&amp;s_src=dfy19w&amp;s_subsrc=web_nav_mobile_don" onclick="
                 dataLayer.push({ 
                 'eventCategory' : 'Navigation', 
                 'eventAction' : 'Support', 
@@ -585,7 +554,7 @@ deleteCookie("CONVIO.referrer");
                 'nonInteraction': false, 
                 'event' : 'GAEvent'
               });" tabindex="-1">Donate</a></li>
-              <li><a href="https://secure.centralparknyc.org/site/SPageServer?pagename=honor_memorial&amp;s_src=hme18&amp;s_subsrc=web_nav_mobile" onclick="
+              <li><a href="https://secure.centralparknyc.org/site/SPageServer?pagename=honor_memorial&amp;s_src=hme19&amp;s_subsrc=web_nav_mobile" onclick="
                 dataLayer.push({ 
                 'eventCategory' : 'Navigation', 
                 'eventAction' : 'Support', 
@@ -594,7 +563,7 @@ deleteCookie("CONVIO.referrer");
                 'nonInteraction': false, 
                 'event' : 'GAEvent'
               });" tabindex="-1">Honor / Memorial</a></li>
-              <li><a href="https://secure.centralparknyc.org/site/Donation2?df_id=6260&amp;6260.donation=form1&amp;s_src=dfy18w&amp;s_subsrc=web_nav_mobile_mem" onclick="
+              <li><a href="https://secure.centralparknyc.org/site/Donation2?df_id=6260&amp;6260.donation=form1&amp;s_src=dfy19w&amp;s_subsrc=web_nav_mobile_mem" onclick="
                 dataLayer.push({ 
                 'eventCategory' : 'Navigation', 
                 'eventAction' : 'Support', 
@@ -603,7 +572,7 @@ deleteCookie("CONVIO.referrer");
                 'nonInteraction': false, 
                 'event' : 'GAEvent'
               });" tabindex="-1">Join or Renew</a></li>
-              <li><a href="https://secure.centralparknyc.org/site/SPageServer?pagename=honor_memorial_flowers&amp;s_src=daf18&amp;s_subsrc=web_nav_mobile" onclick="
+              <li><a href="https://secure.centralparknyc.org/site/SPageServer?pagename=honor_memorial_flowers&amp;s_src=daf19&amp;s_subsrc=web_nav_mobile" onclick="
                 dataLayer.push({ 
                 'eventCategory' : 'Navigation', 
                 'eventAction' : 'Support', 
@@ -637,7 +606,7 @@ deleteCookie("CONVIO.referrer");
               </a>
             </li>
             <li class="trust-language">
-            Official Caretakers of Central Park
+            &nbsp;
             </li>
             <li class="email-follow-top">
               <div id="emailFollowUs">
@@ -950,7 +919,7 @@ deleteCookie("CONVIO.referrer");
                     'nonInteraction': false, 
                     'event' : 'GAEvent'
                   });" tabindex="-1">Benefit Events</a></li>
-                  <li><a href="https://secure.centralparknyc.org/site/Donation2?df_id=6300&amp;6300.donation=form1&amp;s_src=dfy18w&amp;s_subsrc=web_nav_top_don" onclick="
+                  <li><a href="https://secure.centralparknyc.org/site/Donation2?df_id=6300&amp;6300.donation=form1&amp;s_src=dfy19w&amp;s_subsrc=web_nav_top_don" onclick="
                     dataLayer.push({ 
                     'eventCategory' : 'Navigation', 
                     'eventAction' : 'Support', 
@@ -959,7 +928,7 @@ deleteCookie("CONVIO.referrer");
                     'nonInteraction': false, 
                     'event' : 'GAEvent'
                   });" tabindex="-1">Donate</a></li>
-                  <li><a href="https://secure.centralparknyc.org/site/SPageServer?pagename=honor_memorial&amp;s_src=hme18&amp;s_subsrc=web_nav_top" onclick="
+                  <li><a href="https://secure.centralparknyc.org/site/SPageServer?pagename=honor_memorial&amp;s_src=hme19&amp;s_subsrc=web_nav_top" onclick="
                     dataLayer.push({ 
                     'eventCategory' : 'Navigation', 
                     'eventAction' : 'Support', 
@@ -968,7 +937,7 @@ deleteCookie("CONVIO.referrer");
                     'nonInteraction': false, 
                     'event' : 'GAEvent'
                   });" tabindex="-1">Honor / Memorial</a></li>
-                  <li><a href="https://secure.centralparknyc.org/site/Donation2?df_id=6260&amp;6260.donation=form1&amp;s_src=dfy18w&amp;s_subsrc=web_nav_top_mem" onclick="
+                  <li><a href="https://secure.centralparknyc.org/site/Donation2?df_id=6260&amp;6260.donation=form1&amp;s_src=dfy19w&amp;s_subsrc=web_nav_top_mem" onclick="
                     dataLayer.push({ 
                     'eventCategory' : 'Navigation', 
                     'eventAction' : 'Support', 
@@ -977,7 +946,7 @@ deleteCookie("CONVIO.referrer");
                     'nonInteraction': false, 
                     'event' : 'GAEvent'
                   });" tabindex="-1">Join or Renew</a></li>
-                  <li><a href="https://secure.centralparknyc.org/site/SPageServer?pagename=honor_memorial_flowers&amp;s_src=daf18&amp;s_subsrc=web_nav_top" onclick="
+                  <li><a href="https://secure.centralparknyc.org/site/SPageServer?pagename=honor_memorial_flowers&amp;s_src=daf19&amp;s_subsrc=web_nav_top" onclick="
                     dataLayer.push({ 
                     'eventCategory' : 'Navigation', 
                     'eventAction' : 'Support', 
@@ -998,7 +967,7 @@ deleteCookie("CONVIO.referrer");
                 </ul>
               </li>
               <li class="donate-hp">
-                <a href="https://secure.centralparknyc.org/site/Donation2?df_id=6260&amp;6260.donation=form1&amp;s_src=dfy18w&amp;s_subsrc=web_nav_menu_mem" onclick="
+                <a href="https://secure.centralparknyc.org/site/Donation2?df_id=6260&amp;6260.donation=form1&amp;s_src=dfy19w&amp;s_subsrc=web_nav_menu_mem" onclick="
                     dataLayer.push({ 
                     'eventCategory' : 'Navigation', 
                     'eventAction' : 'Join or Renew', 
@@ -1407,7 +1376,10 @@ height: 55px;
   <br>When you register with CPC online, you will be asked to provide personally identifiable information including an e-mail address, your name, zip code, username and password. You may also provide us with your telephone number and postal address. However, this information is not required.
 </p>
 <p>
-  As a registered user, you may review, correct, update, or change your profile, including personally identifiable information, at any time by clicking on the 'login' button located at the top of CPC's website and following the guided instructions, e-mailing us at <a href="mailto:membership@centralparknyc.org">membership@centralparknyc.org</a> or calling 212-310-6600.
+  As a registered user, you may review, correct, update, or change your profile, including personally identifiable information, at any time by e-mailing us at <a href="mailto:membership@centralparknyc.org">membership@centralparknyc.org</a> or calling 212-310-6600.
+</p>
+<p>
+  In certain jurisdictions such as the European Union, you may have a right to access, correct, post, or even erase the data we have about you. To make such a request, contact us at <a href="mailto:membership@centralparknyc.org">membership@centralparknyc.org</a> you may also write to us at Central Park Conservancy, 14 East 60th Street, New York, NY, 10022.
 </p>
 <p>
   Please note that it is not necessary to register or submit any personally identifiable information in order to access CPC's website.
@@ -1442,20 +1414,20 @@ height: 55px;
   We may use your information to inform you of events, send you CPC newsletters, request monetary contributions and send you promotions and updates about the Park. Out of respect for your privacy, e-mail recipients may opt out of receiving e-mails by following the unsubscribe instructions included in the e-mail message, changing your user profile, e-mailing <a href="mailto:membership@centralparknyc.org">membership@centralparknyc.org</a>, or calling 212-310-6600.
 </p>
 <p>
-  From time to time, CPC will provide you with the opportunity to participate in surveys. Unless we inform you otherwise, your voluntary participation in these surveys is completely anonymous. We use the information gathered from the surveys to improve the experience of visitors to Central Park and CPC’s website.
+  From time to time, CPC will provide you with the opportunity to participate in surveys. Unless we inform you otherwise, your voluntary participation in these surveys is completely anonymous. We use the information gathered from the surveys to improve the experience of visitors to Central Park and CPC's website.
 </p>
 <p>
   CPC may combine the information you provide us online with other personally identifiable information, such as geographical information and purchase history, in order to better serve our visitors.
 </p>
 <p>
-  CPC’S website automatically collects some anonymous "non-personally identifiable" aggregate information, which may include visitors' browsers (e.g., Internet Explorer or Firefox), operating systems (e.g., Windows or Macintosh), Internet Service Providers, and other similar information. The information collected is used for statistical purposes to monitor how CPC's online visitors navigate our website, allowing us to tailor our website to better accommodate our visitors.
+  CPC's website automatically collects some anonymous "non-personally identifiable" aggregate information, which may include visitors' browsers (e.g., Internet Explorer or Firefox), operating systems (e.g., Windows or Macintosh), Internet Service Providers, and other similar information. The information collected is used for statistical purposes to monitor how CPC's online visitors navigate our website, allowing us to tailor our website to better accommodate our visitors.
 </p>
 <p>
   <strong>External Use</strong>
 </p>
 <p>
   <strong>Third Party Vendors</strong>
-  <br>CPC may engage third-party vendors in order to help us better service our visitors and customers. CPC requires its vendors by contract to maintain the confidentiality and security of CPC information to which they are provided access and restricts the vendors from using the information in any way not expressly authorized by CPC. In cases when users leave CPC’s website to visit one of its vendors websites, users are encouraged to become familiar with the privacy statement of each website they visit. 
+  <br>CPC may engage third-party vendors in order to help us better service our visitors and customers. CPC requires its vendors by contract to maintain the confidentiality and security of CPC information to which they are provided access and restricts the vendors from using the information in any way not expressly authorized by CPC. In cases when users leave CPC's website to visit one of its vendors' websites, users are encouraged to become familiar with the privacy statement of each website they visit. 
 </p>
 <p>
   <strong>Sharing CPC's List of Supporters</strong>
@@ -1468,7 +1440,7 @@ height: 55px;
   <strong>Links to Other Websites</strong>
 </p>
 <p>
-  Users may find content on CPC’s website that links to the websites and services of our partners, sponsors, or other third parties. In many cases, these links represent cooperative projects, or are established with persons or entities that have a significant connection to or relationship with our website. Although every effort is made to ensure that website referrals are to reputable and relevant sources, CPC does not control the content or links that appear on these websites. In addition, these websites or services, including their content and links, may change. These websites and services may have their own privacy policies and customer service policies, or no policy at all. CPC maintains a policy against the non-consensual collection or sharing of personal information and encourages visitors to review the privacy policies of any websites they visit to ensure their personal information is being protected.
+  Users may find content on CPC's website that links to the websites and services of our partners, sponsors, or other third parties. In many cases, these links represent cooperative projects, or are established with persons or entities that have a significant connection to or relationship with our website. Although every effort is made to ensure that website referrals are to reputable and relevant sources, CPC does not control the content or links that appear on these websites. In addition, these websites or services, including their content and links, may change. These websites and services may have their own privacy policies and customer service policies, or no policy at all. CPC maintains a policy against the non-consensual collection or sharing of personal information and encourages visitors to review the privacy policies of any websites they visit to ensure their personal information is being protected.
 </p>
 <p>
   <strong>Your Options</strong>
@@ -1478,7 +1450,7 @@ height: 55px;
 </p>
 <p>
   <strong>Opt out of receiving e-mails</strong>
-  <br>If you are a registered user, you may review, correct, update, or change your profile including personally identifiable information at any time by clicking on the 'login' button located at the top of CPC's website and following the guided instructions. In addition, you may opt-out by e-mailing <a href="mailto:website@centralparknyc.org">website@centralparknyc.org</a>, calling 212-310-6600 or following the unsubscribe instructions included in the e-mail message.
+  <br>If you are a registered user, you may review, correct, update, or change your profile including personally identifiable information at any time by e-mailing <a href="mailto:website@centralparknyc.org">website@centralparknyc.org</a>, calling 212-310-6600 or following the unsubscribe instructions included in the e-mail message.
 </p>
 <p>
   <strong>Opt out of receiving telephone calls or postal mailings from CPC</strong>
@@ -1514,7 +1486,13 @@ height: 55px;
   <strong>California Privacy Rights</strong>
 </p>
 <p>
-  Under California Civil Code Section 1798.83, if you are a California resident and your relationship with CPC is primarily for personal, family, or household purposes, you may request certain data regarding CPC’s disclosure, if any, of your personal information to third parties for the third parties’ direct marketing purposes. To make such a request, please send an e-mail message to <a href="mailto:membership@centralparknyc.org">membership@centralparknyc.org</a> with "Request for California Privacy Information" in the subject line.
+  Under California Civil Code Section 1798.83, if you are a California resident and your relationship with CPC is primarily for personal, family, or household purposes, you may request certain data regarding CPC's disclosure, if any, of your personal information to third parties for the third parties’ direct marketing purposes. To make such a request, please send an e-mail message to <a href="mailto:membership@centralparknyc.org">membership@centralparknyc.org</a> with "Request for California Privacy Information" in the subject line.
+</p>
+<p>
+  <strong>Cross Border Data Transfer</strong>
+</p>
+<p>
+  CPC is located in the United States. If you are using our website, shopping online in the Central Park Store, purchasing tickets for events or tours, becoming a member, or otherwise providing us with your information, you should know that such information will be processed in the United States, and the United States' privacy laws may be different from the laws applicable where you are located. If you are located in the European Union, we process your data only to the extent needed to provide you with the products or services you have purchased, including by administering your account with us and keeping you updated about news and events related to CPC.
 </p>
 <p>
   <strong>Contact Information</strong>
@@ -1529,7 +1507,7 @@ height: 55px;
   <br>E-mail: <a href="mailto:website@centralparknyc.org">website@centralparknyc.org</a>
   <br>Telephone: 212-310-6600</p>
 <p>
-  Last updated October 16, 2015
+  Last updated August 2, 2018
 </p>
           </div><!-- /.col-md-11 col-md-offset-1a-->
         </div><!-- /.row #main-content -->
@@ -1657,8 +1635,8 @@ CONVIO.user.isAnonymous = true;
           <footer class="hidden-xs row">
             <div class="col-sm-3 hidden-xs">
               <a href="http://www.centralparknyc.org/" target="_blank"><img class="logo" src="http://support.centralparknyc.org/redesign/img/cpc/CPCwhitelogo.png" alt="Central Park Conservancy Logo"></a><br>
-              <p style="width:95%;">Central Park is managed and maintained by the Central Park Conservancy under contract with the City of New York. The Central Park Conservancy is a tax exempt 501(c)(3) nonprofit organization.</p>
-              <p><strong>Central Park Conservancy</strong><br>14 East 60th St<br>New York, NY, 10022<br>212.310.6600<br><br>©2018 Central Park Conservancy. All Rights Reserved.<br></p>
+              <p style="width:95%;">The Central Park Conservancy is a private, not-for-profit organization, and is tax exempt under Section 501(c)(3) of the Internal Revenue Code.</p>
+              <p><strong>Central Park Conservancy, Inc.</strong><br>14 East 60th St<br>New York, NY, 10022<br>212.310.6600<br><br>©2018 Central Park Conservancy. All Rights Reserved.<br></p>
             </div>
             <div class="col-sm-9 hidden-xs">
               <div class="row">
@@ -1906,7 +1884,7 @@ CONVIO.user.isAnonymous = true;
                     'nonInteraction': false, 
                     'event' : 'GAEvent'
                   });">Benefit Events</a></li>
-                    <li class="footer-sub-item"><a href="https://secure.centralparknyc.org/site/Donation2?df_id=6300&amp;6300.donation=form1&amp;s_src=dfy18w&amp;s_subsrc=web_nav_footer_don" onclick="
+                    <li class="footer-sub-item"><a href="https://secure.centralparknyc.org/site/Donation2?df_id=6300&amp;6300.donation=form1&amp;s_src=dfy19w&amp;s_subsrc=web_nav_footer_don" onclick="
                     dataLayer.push({ 
                     'eventCategory' : 'Navigation', 
                     'eventAction' : 'Footer', 
@@ -1915,7 +1893,7 @@ CONVIO.user.isAnonymous = true;
                     'nonInteraction': false, 
                     'event' : 'GAEvent'
                   });">Donate</a></li>
-                    <li class="footer-sub-item"><a href="https://secure.centralparknyc.org/site/SPageServer?pagename=honor_memorial&amp;s_src=hme18&amp;s_subsrc=web_nav_footer" onclick="
+                    <li class="footer-sub-item"><a href="https://secure.centralparknyc.org/site/SPageServer?pagename=honor_memorial&amp;s_src=hme19&amp;s_subsrc=web_nav_footer" onclick="
                     dataLayer.push({ 
                     'eventCategory' : 'Navigation', 
                     'eventAction' : 'Footer', 
@@ -1924,7 +1902,7 @@ CONVIO.user.isAnonymous = true;
                     'nonInteraction': false, 
                     'event' : 'GAEvent'
                   });">Honor / Memorial</a></li>
-                    <li class="footer-sub-item"><a href="https://secure.centralparknyc.org/site/Donation2?df_id=6260&amp;6260.donation=form1&amp;s_src=dfy18w&amp;s_subsrc=web_nav_footer_mem" onclick="
+                    <li class="footer-sub-item"><a href="https://secure.centralparknyc.org/site/Donation2?df_id=6260&amp;6260.donation=form1&amp;s_src=dfy19w&amp;s_subsrc=web_nav_footer_mem" onclick="
                     dataLayer.push({ 
                     'eventCategory' : 'Navigation', 
                     'eventAction' : 'Footer', 
@@ -1933,7 +1911,7 @@ CONVIO.user.isAnonymous = true;
                     'nonInteraction': false, 
                     'event' : 'GAEvent'
                   });">Join or Renew</a></li>
-                    <li class="footer-sub-item"><a href="https://secure.centralparknyc.org/site/SPageServer?pagename=honor_memorial_flowers&amp;s_src=daf18&amp;s_subsrc=web_nav_footer" onclick="
+                    <li class="footer-sub-item"><a href="https://secure.centralparknyc.org/site/SPageServer?pagename=honor_memorial_flowers&amp;s_src=daf19&amp;s_subsrc=web_nav_footer" onclick="
                     dataLayer.push({ 
                     'eventCategory' : 'Navigation', 
                     'eventAction' : 'Footer', 
@@ -2014,7 +1992,7 @@ CONVIO.user.isAnonymous = true;
                     <li>
                       <img class="footer-logo-mobile" src="http://support.centralparknyc.org/redesign/img/cpc/CPCwhitelogo.png" alt="Central Park Conservancy Logo">
                     </li>
-                    <li class="footer-link">Central Park is managed and maintained by the Central Park Conservancy under contract with the City of New York.</li>
+                    <li class="footer-link">Central Park is managed and maintained by Central Park Conservancy under contract with the City of New York.</li>
                     <li class="footer-link"><a href="http://www.centralparknyc.org/visit/" onclick="
                     dataLayer.push({ 
                     'eventCategory' : 'Navigation', 
@@ -2165,7 +2143,7 @@ CONVIO.user.isAnonymous = true;
 })(jQuery);
 
 // begin scripts for email capture lightbox
-
+/*
 (function($){
 
   var OPLB;
@@ -2176,8 +2154,8 @@ CONVIO.user.isAnonymous = true;
   html += '  <div class="modal-dialog">';
   html += '    <div class="modal-content">';
   html += '      <div class="modal-header">';
-  html += '      <img src="http://assets.centralparknyc.org/images/email-assets/spring-guide-2018/springGuide2018-lightbox.jpg" class="desktop"/>';
-  html += '      <img src="http://assets.centralparknyc.org/images/email-assets/spring-guide-2018/springGuide2018-lightbox.jpg" class="mobile"/>';
+  html += '      <img src="http://assets.centralparknyc.org/images/email-assets/fall-guide-2018/fallGuide2018-lightbox.jpg" class="desktop"/>';
+  html += '      <img src="http://assets.centralparknyc.org/images/email-assets/fall-guide-2018/fallGuide2018-lightbox.jpg" class="mobile"/>';
   html += '        <div class="row">';
   html += '          <button type="button" id="expand-modal" class="expand hidden-sm hidden-md hidden-lg expand-btn" aria-label="Expand" tabindex="-1">';
   html += '            <i class="fa fa-caret-up" aria-hidden="true"></i>';
@@ -2192,9 +2170,9 @@ CONVIO.user.isAnonymous = true;
   html += '      </div>';
   html += '      <div class="modal-footer">';
   html += '        <div class="modal-signup">';
-  html += '          <div class="modal-title">YOUR FREE CENTRAL PARK SPRING GUIDE</span></div>';
+  html += '          <div class="modal-title">YOUR FREE CENTRAL PARK FALL GUIDE</span></div>';
   html += '          <div class="modal-sub-title">';
-  html += '            Get exclusive tips on this spring’s best Central Park adventures! Our free guide features the best spots to find colorful blooms, exciting upcoming events, family-friendly ways to explore the Park, and more.';
+  html += '            Make the most of autumn in Central Park! This free guide features our official fall foliage map, upcoming programs and events, family-friendly ways to explore the Park, and more.';
   html += '          </div>';
   html += '          <div class="row sign-up-row">';
   html += '            <form novalidate="novalidate" id="OPLB_form" name="lbox_register_form" method="post" action="javascript:void(0);">';
@@ -2204,10 +2182,10 @@ CONVIO.user.isAnonymous = true;
   html += '              <input name="cons_mail_opt_in" value="true" type="hidden">';
   html += '              <input name="ACTION_SUBMIT_SURVEY_RESPONSE" value="Submit Survey" type="hidden">';
   html += '              <input name="NEXTURL" value="http://www.centralparknyc.org/cpc-registration.html?show=all" type="hidden">';
-  html += '              <input name="s_src" value="201803_seasonal" type="hidden">';
+  html += '              <input name="s_src" value="201809_seasonal" type="hidden">';
   html += '              <input name="s_subsrc" value="lightbox" type="hidden">';
   html += '              <input name="denySubmit" value="" alt="This field is used to prevent form submission by scripts." type="hidden">';
-  html += '              <input name="SURVEY_ID" value="7366" type="hidden">';
+  html += '              <input name="SURVEY_ID" value="7626" type="hidden">';
   html += '              <input name="ERRORURL" id="ERRORURL" value="http://www.centralparknyc.org/cpc-registration.html" type="hidden">';
   html += '              <input name="ifUsername" id="ifUsername" value="[[S1:user_name]]" type="hidden">';
   html += '              <button class="btnSignUpLightbox clickable" id="OPLB_submit">';
@@ -2220,7 +2198,7 @@ CONVIO.user.isAnonymous = true;
   html += '        <div class="modal-thanks modal-thanks-survey">';
   html += '          <div class="row thank-you-row">';
   html += '            <p class="lede">Thanks!</p>';
-  html += '            <p>Check your inbox for a link to the Spring Guide, or <a href="http://assets.centralparknyc.org/pdfs/guides/Spring-Guide-2018.pdf" target="_blank" class="lb-seasonal-guide-link">download it by clicking here</a>.</p>';
+  html += '            <p>Check your inbox for a link to the Fall Guide, or <a href="http://assets.centralparknyc.org/pdfs/guides/Fall-Guide-2018.pdf" target="_blank" class="lb-seasonal-guide-link">download it by clicking here</a>.</p>';
   html += '            <p>Before you go, our Conservancy staff would love to know — <strong>which of the following ways do you use Central Park?</strong> <span class="hide-on-mobile">Pick as many options as you\'d like.</span></p>';
   html += '            <form method="POST" action="http://support.centralparknyc.org/site/Survey">';
   html += '             <input type="hidden" name="method" value="submitSurvey" />';
@@ -2341,9 +2319,9 @@ CONVIO.user.isAnonymous = true;
       });
       $('.lb-seasonal-guide-link').click(function(){
         dataLayer.push({
-          'eventCategory' : 'Spring Guide Lightbox',
+          'eventCategory' : 'Fall Guide Lightbox',
           'eventAction' : 'click',
-          'eventLabel' : 'Download Spring Guide PDF',
+          'eventLabel' : 'Download Fall Guide PDF',
           'eventValue' : undefined,
           'nonInteraction': true,
           'event' : 'GAEvent'
@@ -2369,7 +2347,7 @@ CONVIO.user.isAnonymous = true;
       var valid = OPLB._isValid();
 
       if (valid) {
-        var data = 'method=submitSurvey&survey_id=7366';
+        var data = 'method=submitSurvey&survey_id=7626';
         var form = $('#OPLB_form');
         $('.btnSignUpLightbox').css('visibility', 'hidden');
         luminateExtend.api({
@@ -2385,7 +2363,7 @@ CONVIO.user.isAnonymous = true;
               dataLayer.push({
 		          'eventCategory' : 'Email Sign-up',
 		          'eventAction' : 'Email Sign-up',
-		          'eventLabel' : 'spring_guide_lightbox',
+		          'eventLabel' : 'fall_guide_lightbox',
 		          'eventValue' : undefined,
 		          'nonInteraction': false,
 		          'event' : 'GAEvent'
@@ -2487,8 +2465,9 @@ CONVIO.user.isAnonymous = true;
     });
   });
 })(jQuery);
-
+*/
 // end scripts for email capture lightbox
+
 
 var urlFull = document.location.href;
 
@@ -2580,7 +2559,18 @@ function submitEmail(thisDivID) {
   });
 })(jQuery);
 </script>
+
+<script>
+function FormData(formName) {
+//Override a conflict between
+//CMS form.js file and Facebook's fbevents.js file.
+//Both use an object named FormData
+console.log("FormData() called.");
+}
+</script>
+
+
  <!-- Powered by Convio -->
-<!-- 10.12.0.43:8900 -->
+<!-- 10.12.0.39:8901 -->
 
 </div></body></html>
