@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313071807id_/https%3A//www.vodafone.com.au/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130012610id_/https%3A//www.vodafone.com.au/about/legal/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy To Protect You | Vodafone Australia
 
@@ -111,6 +111,7 @@ We may use your personal information and usage information in the ways set out b
   * Protecting our network and managing the data use, volume of calls, TXTs and other uses of our network. For example, we identify peak periods of use so our network can better handle the volume at those times.
   * Conducting internal investigations in relation to crime and fraud prevention, detection, recovery or prosecution.
   * Training our staff.
+  * Assessing and financial hardship application made by you.
 
 
 
