@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directrooms.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126011442id_/https%3A//en.directrooms.com/info/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directrooms.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130124322id_/https%3A//en.directrooms.com/info/policies/privacy) for the most accurate reproduction.*
 
 # Privacy - DirectRooms
 
