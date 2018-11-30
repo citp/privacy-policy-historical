@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lafayette.edu privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628150723id_/https%3A//www.lafayette.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lafayette.edu privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130224538id_/https%3A//www.lafayette.edu/privacy) for the most accurate reproduction.*
 
 # Privacy · Lafayette College
 
