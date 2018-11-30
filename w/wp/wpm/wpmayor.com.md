@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpmayor.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928152211id_/http%3A//www.wpmayor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmayor.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130102846id_/https%3A//wpmayor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WP Mayor
 
@@ -38,9 +38,22 @@ If you are a registered user of the WP Mayor website and have supplied your emai
 
 If you send us a request (for example via our contact form or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. WP Mayor takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-## **Cookies**
+## **Cookies & Your Personal Data**
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. WP Mayor uses cookies to help WP Mayor identify and track visitors, their usage of the WP Mayor website, and their website access preferences. WP Mayor visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the WP Mayor website, with the drawback that certain features of the website may not function properly without the aid of cookies.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns.
+
+Any personal data provided to or collected by WP Mayor via cookies and other tracking technologies is controlled by RebelCode Ltd, the company behind WP Mayor. WP Mayor uses cookies to help us identify and track visitors, their usage of the WP Mayor website, and their website access preferences.
+
+  * We don’t collect any personal information from you unless you supply it and we need it (for example, signing up to our email newsletter).
+  * We won’t share your personal information with anyone else, except when required by some third party services who provide services, such as sending out our email newsletter.
+  * We don’t store your personal information on our servers except when necessary for the functioning of the website (for example, the information you enter when leaving a comment).
+  * We may share generic aggregated demographic information, not linked to any personal identification information, regarding visitors and users, with our business partners, trusted affiliates and advertisers.
+
+
+
+On WP Mayor we use Google Analytics cookies. These cookies are used to collect information about how visitors use our website. We use this information to compile reports and to help us improve the website. These cookies collect information in an anonymous form, such as the number of visitors to the website, where visitors have come to the website from and the pages they visited. We do not share personal data with Google.
+
+WP Mayor visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the WP Mayor website, with the drawback that certain features of the website may not function properly without the aid of cookies. Please check the user guide for your web browser to see how to do this.
 
 ## **Business Transfers**
 
