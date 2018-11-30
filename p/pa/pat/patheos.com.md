@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patheos.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625010344id_/http%3A//www.patheos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patheos.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130173652id_/http%3A//www.patheos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -106,7 +106,7 @@ Certain of our Third-party Advertisement and Data Service Providers have provide
 
 _Exponential_
 
- Subject to your consent, Exponential Interactive, Inc collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. You may change your consent decision at any time via <insert details of your consent mechanism or Consent Management Platform here>. For more details including access requests and complaints, review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com).
+ Subject to your consent, Exponential Interactive, Inc collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. You may change your consent decision at any time via OneTrust.com. For more details including access requests and complaints, review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com).
 
 _Criteo_
 
