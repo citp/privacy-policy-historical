@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliantsave.co.uk privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530193943id_/http%3A//brilliantsave.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantsave.co.uk privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130153215id_/http%3A//brilliantsave.co.uk/privacy) for the most accurate reproduction.*
 
 # brilliantsave.co.uk
 
@@ -139,7 +139,7 @@ The storage of the partner programs cookies is based on Art. 6 (f) DSGVO. The we
 
 To obtain more information about how Amazon uses your data, see the Amazon privacy policy at [https://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=331](https://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=3312401)
 
-To obtain more information about how Connexity uses your data, see the Connexity privacy policy at <http://connexity.com/gb/privacy-policy/>
+To obtain more information about how Connexity uses your data, see the Connexity privacy policy at [//connexity.com/gb/privacy-policy/](https://connexity.com/gb/privacy-policy/)
 
 To obtain more information about how eBay uses your data, see the eBay privacy policy at <https://pages.ebay.co.uk/help/policies/privacy-policy.html>
 
