@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the onesource.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330223755id_/http%3A//www.hoovers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesource.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130025414id_/http%3A//www.hoovers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Dun & Bradstreet Privacy Notice - D&B Hoovers
 
 ### Dun & Bradstreet Privacy Notice
 
-Dun & Bradstreet is the world’s leading source of business information and insight.  Since 1841, Dun & Bradstreet has collected information about businesses to deliver products and services that assist our customers in making critical commercial decisions.  Our global business database contains more than 285 million business records. Some of the information in the business records may be classified as personal information under various laws such as information relating to an individual (e.g. a sole trader, a partnership, a company director, a beneficial owner, a trustee, a professional contact.)
+Dun & Bradstreet is the world’s leading source of business information and insight.  Since 1841, Dun & Bradstreet has collected information about businesses to deliver products and services that assist our customers in making critical commercial decisions.  Our global business database contains more than 300 million business records. Some of the information in the business records may be classified as personal information under various laws such as information relating to an individual (e.g. a sole trader, a partnership, a company director, a beneficial owner, a trustee, a professional contact.)
 
 This privacy notice explains how we collect, share and protect business information.
 
 ### Applicability - Legal Entities and Websites
 
-This Privacy Notice apples to the following Dun & Bradstreet legal entities: Dun & Bradstreet, Inc., Dun & Bradstreet NetProspex, Inc. (“NPX”); Avention, Inc.; Hoover’s Inc.; Dun & Bradstreet Emerging Businesses (“DBEB”). NPX, Avention, and Hoover’s provide Sales and Marketing solutions.  DBEB provides business credit information. Market Data Retrieval (MDR), a part of Dun and Bradstreet Inc., is a provider of marketing information and services for the K-12, higher education, library, early childhood, and related education market.  These entities and lines of business will be referred to collectively as “Dun & Bradstreet” in this notice.
+This Privacy Notice does not apply to Dun & Bradstreet companies based in the European Union, or when any Dun & Bradstreet company processes data relating to residents of the European Union. In such cases please see the UK Privacy Notice found at <https://www.dnb.co.uk/utility-pages/privacy-policy.html>. This Privacy Notice also covers transfers of data relating to residents of the European Union to the United States pursuant to Dun &Bradstreet’s Privacy Shield certification.”
 
-This policy covers the following Dun & Bradstreet websites:  [dnb.com](http://www.dnb.com/), [DandB.com](https://www.dandb.com/), [accesstocapital.com](http://accesstocapital.com/), [products.dandb.com](https://products.dandb.com/), [dandbeducation.com](http://dandbeducation.com/), [companyupdate.com](http://companyupdate.com/), [EdAhead.org](http://edahead.org/), [education.dandb.com](http://education.dandb.com/), [CreditSignal.com](https://www.creditsignal.com/), [businesscredit.dnb.com](https://businesscredit.dnb.com/), [creditreports.dnb.com](http://creditreports.dnb.com/), [b2b.dnb.com](https://b2b.dnb.com/), [dnb.com/mktsem/microsite-business-credit-solutions.html](http://www.dnb.com/mktsem/microsite-business-credit-solutions.html), [cart.dnb.com](http://cart.dnb.com/), [hoovers.com](http://www.hoovers.com/); [sales.hoovers.com](http://sales.hoovers.com/), [yourhoovers.com](http://yourhoovers.com/), and [products.hoovers.com](http://products.hoovers.com/), mdreducation.com, [ednetconference.com](http://ednetconference.com/).
+This Privacy Notice applies to the following Dun & Bradstreet legal entities: Dun & Bradstreet, Inc., Dun & Bradstreet NetProspex, Inc. (“NPX”); Avention, Inc.; Hoover’s Inc.; Dun & Bradstreet Emerging Businesses (“DBEB”). NPX, Avention, and Hoover’s provide Sales and Marketing solutions.  DBEB provides business credit information. Market Data Retrieval (MDR), a part of Dun and Bradstreet Inc., is a provider of marketing information and services for the K-12, higher education, library, early childhood, and related education market.  These entities and lines of business will be referred to collectively as “Dun & Bradstreet” in this notice.
+
+This policy covers the following Dun & Bradstreet websites:  [dnb.com](https://www.dnb.com/), [DandB.com](https://www.dandb.com/), [accesstocapital.com](http://accesstocapital.com/), [products.dandb.com](https://products.dandb.com/), [dandbeducation.com](http://dandbeducation.com/), [companyupdate.com](http://companyupdate.com/), [EdAhead.org](http://edahead.org/), [education.dandb.com](http://education.dandb.com/), [CreditSignal.com](https://www.creditsignal.com/), [businesscredit.dnb.com](https://businesscredit.dnb.com/), [creditreports.dnb.com](http://creditreports.dnb.com/), [b2b.dnb.com](https://b2b.dnb.com/), [dnb.com/mktsem/microsite-business-credit-solutions.html](https://www.dnb.com/mktsem/microsite-business-credit-solutions.html), [cart.dnb.com](http://cart.dnb.com/), [hoovers.com](http://www.hoovers.com/); [sales.hoovers.com](http://sales.hoovers.com/), [yourhoovers.com](http://yourhoovers.com/), and [products.hoovers.com](http://products.hoovers.com/), mdreducation.com, [ednetconference.com](http://ednetconference.com/).
 
 These sites may provide links to other U.S. Dun & Bradstreet websites, non-U.S. Dun & Bradstreet websites and non-Dun & Bradstreet websites that may have different privacy notices. We encourage you to carefully read the online privacy notices of these other websites to ensure that you understand their practices and the relevant distinctions.
 
@@ -60,7 +62,7 @@ Dun & Bradstreet does not respond to Do Not Track Signals.
 
 Dun & Bradstreet uses the information that we collect to operate our websites, offer customers a variety of business information products and services for use in making business credit, risk management, supplier, and marketing decisions, and to carry out transactions that you request or authorize. Dun & Bradstreet also licenses professional business contact information to authorized resellers and third party businesses for marketing and data management purposes.
 
-We may use your professional business contact information to match it with other public and private sources in order to create anonymous segments of information (this is non-personally identifying information, such as demographic, behavioral and technical information, extracted from the underlying Data) for use by Dun & Bradstreet and/or third parties to target advertising messages to you on third party sites and services. Such segments do not reveal or contain your personal information. You may opt-out from certain targeting advertising by following the instructions in the section below entitled "Third Party Advertisers." Dun & Bradstreet follows the Self-Regulatory Principles for Online Behavioral Advertising as administered by the Digital Advertising Alliance. Visit <http://www.aboutads.info/choices/> to exercise your option to opt-out of targeted ads provided by certain listed companies.
+We may use your professional business contact information to match it with other public and private sources in order to create anonymous segments of information (this is non-personally identifying information, such as demographic, behavioral and technical information, extracted from the underlying Data) for use by Dun & Bradstreet and/or third parties to target advertising messages to you on third party sites and services. Such segments do not reveal or contain your personal information. You may opt-out from certain targeting advertising by following the instructions in the section below entitled "Third Party Advertisers". Dun & Bradstreet follows the Self-Regulatory Principles for Online Behavioral Advertising as administered by the Digital Advertising Alliance. Visit <http://www.aboutads.info/choices/> to exercise your option to opt-out of targeted ads provided by certain listed companies.
 
 Hoover's maintains a separate professional contacts directory in which your company and individual business contact information may be listed. Hoover's licenses business and professional contact information to authorized resellers and third party businesses for marketing purposes. Aggregated website visitor data may be used to determine usage patterns or interests of visitors to the website and users of our products, or for purposes related to technical support or security of the website, products and computer systems. Usage information, such as number of reports, types of reports and functions accessed by a particular UserID, may be tracked within the products. We do this to monitor authorized usage of the products, respond to questions from the user, for market research, and to improve the design and functionality of the products. We may also aggregate corporate or industry information accessed by all of our customers. We do this in order to appreciate the types of companies and industries for which our customers require information, which in turn improves the quality of the products. We do not correlate the accessed corporate or industry information to a specific user or to a particular organization.
 
@@ -128,7 +130,7 @@ _Dun & Bradstreet E-mail Marketing_
 
 To opt out of receiving Dun & Bradstreet promotional e-mails, newsletters, and updates about new Dun & Bradstreet features, products and services:
 
-You can manage your notifications and communications at the Preference Center <http://businessinsight.dnb.com/ManageYourPreferences>  or you may follow the unsubscribe instructions in any of our promotional emails.  You can also reach Customer Service at 1-800-234-3867 or send an email to [custserv@dnb.com](mailto:custserv@dnb.com). 
+You can manage your notifications and communications at the Preference Center [https://www.dnb.com/utility-pages/communication-preferences.html](http://businessinsight.dnb.com/ManageYourPreferences)  or you may follow the unsubscribe instructions in any of our promotional emails.  You can also reach Customer Service at 1-800-234-3867 or send an email to [custservprivacy@dnb.com](mailto:custservprivacy@dnb.com). 
 
 You may change your preferences at any time.
 
@@ -141,7 +143,7 @@ To no longer receive telemarketing calls from us or seek to clearly inform Dun &
 
 Calling Dun & Bradstreet Customer at 1-800-234-3867
 
-Clicking on the Dun & Bradstreet Communications Preference link <http://businessinsight.dnb.com/ManageYourPreferences>
+Clicking on the Dun & Bradstreet Communications Preference link [https://www.dnb.com/utility-pages/communication-preferences.html](http://businessinsight.dnb.com/ManageYourPreferences)
 
 By providing your phone number to Dun & Bradstreet, you expressly consented and authorized Dun & Bradstreet to contact you in any lawful manner, including the use of automatic and/or computerized dialing systems, text messages and pre-recorded message and call technologies for any lawful purpose, including marketing Dun & Bradstreet products and third party services. You expressly consent to be contacted through such means at the telephone numbers (including mobile or wireless numbers) you provide to Dun & Bradstreet. You represent and warrant that any mobile or wireless telephone number you provide belongs to you and is associated with a mobile device in your possession. You will notify Dun & Bradstreet if your mobile or wireless telephone number changes. Consent is not a requirement of purchase. Should you have any questions about which addresses, telephone numbers or email addresses you provided to Dun & Bradstreet for the above, please review your account information in your product dashboard or please call Dun & Bradstreet at 1-800-234-3867.
 
@@ -152,27 +154,27 @@ _Dun & Bradstreet Direct Mail Marketing_
 
 To be placed on our company's internal Do Not Mail list should you no longer wish to receive marketing or promotional mailers you may do so by contacting:
 
-Dun & Bradstreet Customer Service at 1-800-234-3867 or clicking on the Dun & Bradstreet Communications Preference link <http://businessinsight.dnb.com/ManageYourPreferences>.
+Dun & Bradstreet Customer Service at 1-800-234-3867 or clicking on the Dun & Bradstreet Communications Preference link [https://www.dnb.com/utility-pages/communication-preferences.html](http://businessinsight.dnb.com/ManageYourPreferences).
 
 You may change your preferences at any time.
 
 We may continue to send you transactional or service-related correspondence despite your desire to not receive marketing mailers.
 
-Individuals whose contact information is in our professional contacts database may request to be excluded from the professional contacts database, by calling Dun & Bradstreet at 800-234-3867 or emailing  [Custserv@dnb.com](mailto:Custserv@dnb.com)
+Individuals whose contact information is in our professional contacts database may request to be excluded from the professional contacts database, by calling Dun & Bradstreet at 800-234-3867 or emailing  [custservprivacy@dnb.com](mailto:custservprivacy@dnb.com)
 
 While we may remove your individual business contact information from our professional contacts database, please be aware that we will continue to provide your company's or educational institution’s contact information in our Business Information and Educational Institutional Reports and other products and services. Note that if your professional contact information is in a different third party's marketing directory, you will need to request removal with such third party directly.
 
-### Access and Correction
+### Access, Correction, and Deletion
 
-To help ensure data quality and accuracy, Dun & Bradstreet provides businesses organizations and business professionals with access to their business information within the D&B databases and with an opportunity to correct verified inaccuracies. Authorized business representatives may request a complimentary copy of their company's business report. 
+To help ensure data quality and accuracy, Dun & Bradstreet provides businesses organizations and business professionals with access to their business information within the D&B databases and with an opportunity to review such information, correct verified inaccuracies, or delete any personal information within such business information if required by law. Authorized business representatives may request a complimentary copy of their company's business report.
 
 To obtain a copy of your company’s business report or your information or, to correct or update your information:
 
-Dun & Bradstreet Customer Service at 1-800-234-3867 or send an email to [customerservice@dnb.com](mailto:custserv@dnb.com).
+Dun & Bradstreet Customer Service at 1-800-234-3867 or send an email to _[custservprivacy@dnb.com](mailto:custservprivacy@dnb.com)_
 
-Hoovers/Avention: Customer Support at 1-800-486-8666 or by sending an e-mail to [customersupport@hoovers.com](mailto:customersupport@hoovers.com)
+Hoovers/Avention: Customer Support at 1-800-486-8666 or by sending an e-mail to _[customersupport@hoovers.com](mailto:customersupport@hoovers.com)_
 
-When a business owner or principal contacts Dun & Bradstreet about a potential data error, we promptly investigate the issue, confirm the information in question, correct verified inaccuracies and respond to the original inquiry. In such a case, we may apply a "stop distribution" order regarding the relevant business report, as well as ancillary products that may be affected by the verified inaccuracy, until the matter is properly resolved. When the investigation is complete, we will also send a correction notice to businesses or others whom we know to have received the inaccurate data, as appropriate. However, some third parties and third party sites may continue to display inaccurate Data until their databases and display of data are refreshed in accordance with their update schedules.
+When a business owner or principal contacts Dun & Bradstreet about a potential data error, we promptly investigate the issue, confirm the information in question, correct verified inaccuracies or delete any personal information within such business information if required by law, and respond to the original inquiry. In such a case, we may apply a "stop distribution" order regarding the relevant business report, as well as ancillary products that may be affected by the verified inaccuracy, until the matter is properly resolved. When the investigation is complete, we will also send a correction or deletion notice to businesses or others whom we know to have received the inaccurate data, as appropriate. However, some third parties and third party sites may continue to display inaccurate Data until their databases and display of data are refreshed in accordance with their update schedules.
 
 ### Data Security
 
@@ -196,7 +198,7 @@ Continually assessing our data privacy, information management and data security
 
 ### Data Retention
 
-Dun & Bradstreet will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact Dun & Bradstreet Customer Service at 1-800-234-3867 or [customerservice@dnb.com](mailto:customerservice@dnb.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Dun & Bradstreet will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact Dun & Bradstreet Customer Service at 1-800-234-3867 or [custservprivacy@dnb.com](mailto:custservprivacy@dnb.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Children
 
@@ -226,17 +228,19 @@ Dun & Bradstreet also complies with EU/EEA to US cross border transfer requireme
 
 ### Dispute Resolution
 
-This dispute resolution program covers both offline Data collection (e.g. personal information collected through our call centers or via postal mail) and online Data collection (e.g. personal information collected via the Internet). If you are a citizen of the EU and you have any complaints regarding our compliance with relevant aspects of the Data transfer laws and regulations surrounding Data transfers from the EU you should contact us at: [EUDPO@dnb.com](mailto:EUDPO@dnb.com) or [customerhelp@dnb.co.uk](mailto:EUDPO@dnb.com).
+This dispute resolution program covers both offline Data collection (e.g. personal information collected through our call centers or via postal mail) and online Data collection (e.g. personal information collected via the Internet). If you are a citizen of the EU and you have any complaints regarding our compliance with relevant aspects of the Data transfer laws and regulations surrounding Data transfers from the EU you should contact us at:  _[EUDPO@dnb.com](mailto:eudpo@dnb.com)_  or  _[customerhelp@dnb.co.uk](mailto:eudpo@dnb.com)_.
 
-If you are not a citizen of the EU and you have a question or concern regarding Dun & Bradstreet's data privacy practices, please contact the Chief Privacy Officer at [privacyofficer@dnb.com](mailto:privacyofficer@dnb.com) or call the Customer Service center at 1-800-234-3867 or send an email to [customerservice@dnb.com](mailto:customerservice@dnb.com). We will do our best to resolve any complaints or issues as quickly as possible.
+If you are not a citizen of the EU and you have a question or concern regarding Dun & Bradstreet's data privacy practices, please contact the Chief Privacy Officer at  _[privacyofficer@dnb.com](mailto:privacyofficer@dnb.com)_  or call the Customer Service center at 1-800-234-3867 or send an email to  _[custservprivacy@dnb.com](mailto:custservprivacy@dnb.com)_. We will do our best to resolve any complaints or issues as quickly as possible.
+
+If we cannot resolve your complaints, you may have rights to independent dispute resolution or arbitration under certain circumstances as described below in the sections titled “Independent Dispute Resolution” and “Arbitration.”
 
 ### Independent Dispute Resolution
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may invoke binding arbitration under certain circumstances. Please contact our U.S.-based third party dispute resolution provider (free of charge) at  _<https://feedback-form.truste.com/watchdog/request>_ , and the section below titled “Arbitration.”
 
 ### Arbitration
 
-Under the Privacy Shield, arbitration is an option available to an individual as a final recourse for claims that a Privacy Shield organization has violated its obligations under the Principles and the claim is not fully resolved by other Privacy Shield recourse mechanisms. The arbitration will be implemented in accordance with the rules established under the Privacy Shield.
+In accordance with the Privacy Shield, individuals may invoke binding arbitration as a final recourse for claims that a Privacy Shield organization has violated its obligations under the Principles and the claim is not fully resolved by other Privacy Shield recourse mechanisms. The arbitration will be implemented in accordance with the rules established under the Privacy Shield.
 
 ### California Residents
 
@@ -258,8 +262,8 @@ EU Data Protection Officer at [EUDPO@dnb.com](mailto:EU%20Data%20Protection%20O
 
 ### Effective Date:
 
-Effective Date of Privacy Policy: December 5, 2017
+Effective Date of this Privacy Notice: October 8, 2018
 
-This update to the Privacy Policy has been done to update D&B contact information and editorial changes identifying covered websites.
+This update to the Privacy Notice was done to update our notices regarding access, correction, and deletion of certain information, as well as clarify our notices regarding dispute resolution and arbitration.
 
-Previous update to this privacy policy was dated September 21, 2017.
+Previous update to this Privacy Notice was dated September 17, 2018.
