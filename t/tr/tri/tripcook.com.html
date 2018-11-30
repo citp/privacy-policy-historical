@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tripcook.com privacy policy that was archived on 2018-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180531231331id_/http%3A//tripcook.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripcook.com privacy policy that was archived on 2018-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181130011444id_/http%3A//tripcook.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>TripCook: Privacy</title>
@@ -15,7 +15,7 @@
 <link rel="stylesheet" href="/styles/style_vc.css" type="text/css">
 
 <link rel="stylesheet" href="/styles/colorbox.css">
-	<script type="text/javascript" async="" src="//code.jivosite.com/script/widget/IOyO6Shxi2"></script><script async="" type="text/javascript" src="https://openstat.net/cnt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/colorbox/colorbox_google.js"></script>
+	<script async="" type="text/javascript" src="https://openstat.net/cnt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/colorbox/colorbox_google.js"></script>
 	<script type="text/javascript" src="/colorbox/jquery.colorbox.js"></script>
 	<script type="text/javascript" src="/colorbox/colorbox_part.js"></script>
 
@@ -67,32 +67,11 @@ document.getElementById(rd).style.display ='';
 <td width="1%">
 <img src="/images/tr_icon.gif" width="20px">
 </td><td width="1%">
-<a href="/cgi-bin/tour_request.cgi?par=list" class="iframe cboxElement" style="white-space:nowrap; font-weight:500; font-size:8pt;">send travel request</a>
+<a href="/cgi-bin/tour_request.cgi?par=startrequest_col" class="likeiframe" style="white-space:nowrap; font-weight:500; font-size:8pt; color: #fff;">send travel request</a>
 </td><td width="1%"><img src="/images/listing_icon.gif" width="20px">
 </td><td width="1%">
 <a href="/listing_benefits.html" class="likeiframe" style="white-space:nowrap; font-weight:500; font-size:8pt; color:#fff;">list your travel business</a>
 
-
-<!--
-<td width=1%>
-
-<div class="dropdown">
- <a href='javascript:;' class=likeiframe style='white-space:nowrap; font-weight:500; font-size:8pt; color:#fff;'>Special Agents</a>
- 
-  <div class="dropdown-content">
-    <li><a href='http://tripcook.com/travel_company_Visit_Almaty' class=sortlink>Visit Almaty</a></li>
-</div>
-</div>
--->
-
-
-
-
-
-</td><td width="1%">
-<img src="/images/lastviewed_icon.gif" width="20px">
-</td><td width="1%">
-<a href="/cgi-bin/showlastviewed.cgi" class="iframe cboxElement" style="white-space:nowrap; font-weight:500; font-size:8pt;">last viewed agencies</a>
 
 
 </td><td width="1%">
@@ -178,24 +157,9 @@ document.getElementById("mainsearch").value='e.g. My Travel Agency Ltd.';
 <!--cript type="text/javascript" src="/cgi-bin/banners_show.cgi?par=showubanners&m=js"></scri-->
 
 
-<table style="width: 100%; text-align:center; margin-top:10px; margin-bottom:10px;"><tbody><tr><td>
-
-<script type="text/javascript">
-<!--
-google_ad_client = "ca-pub-3841249520005373";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-
-</td></tr></tbody></table>
+<a href="/cgi-bin/tour_request.cgi?par=startrequest_col"><img src="/images/tr_ad.gif"></a>
 
 
-
-
-
-<!--<a href='/cgi-bin/tour_request.cgi?par=fromcountry&rr=<HERECOUNTRYCODE>'  class=iframe><img src='/images/myban3_1.gif' class='upbannerclass'></a>-->
 </td></tr></tbody></table>
 <!--end logotable -->
 
@@ -215,7 +179,7 @@ var chosen_header="menu_header_"+this_item;
 var chosen_content="menu_content_"+this_item;
 
 // here hideall
-var arr = ["item1", "item2", "item3", "item4", "item5", "item11", "item01"];
+var arr = ["item1", "item2", "item01", "item02"];
 arr.forEach(function(item, i, arr) {
  
 var menu_header="menu_header_"+item;
@@ -223,6 +187,8 @@ var menu_content="menu_content_"+item;
 //alert("doing hideall, header:"+menu_header+", content:"+menu_content);
  
 document.getElementById(menu_header).className="umenu_off";
+if (item=="item2") {document.getElementById(menu_header).className="umenu_off_orange";}
+
 document.getElementById(menu_content).style.display = 'none';
 
   });
@@ -232,6 +198,8 @@ document.getElementById(menu_content).style.display = 'none';
 //alert("doing chosen, header:"+chosen_header+", content:"+chosen_content);
 document.getElementById(chosen_header).className="umenu_on";
 document.getElementById(chosen_content).style.display = '';
+
+
 
 }//showlist
 
@@ -247,29 +215,21 @@ document.getElementById(chosen_content).style.display = '';
 
 <table width="100%" cellpadding="0" cellspacing="0"><tbody><tr style="background-color: #cc0000">
 
-<td id="menu_header_item01" class="umenu_off" onclick="showlist('item01');">
-<a href="javascript:;"><span style="white-space:nowrap;">what's new on</span> Tripcook</a>
+
+<td id="menu_header_item2" class="umenu_off_orange" onclick="showlist('item2');">	
+<a href="javascript:;">travel request</a>
+
+
+</td><td id="menu_header_item02" class="umenu_off" onclick="showlist('item02');">
+<a href="javascript:;">travel business listing</a>
+
 
 </td><td id="menu_header_item1" class="umenu_off" onclick="showlist('item1');">
-<a href="javascript:;">promotion tools</a>
-
-</td><td id="menu_header_item11" class="umenu_off" onclick="showlist('item11');">
-<a href="javascript:;">website tools</a>
+<a href="javascript:;">services for listed members</a>
 
 
-</td><td id="menu_header_item2" class="umenu_off" onclick="showlist('item2');">	
-<a href="javascript:;">client requests</a>
-
-
-</td><td id="menu_header_item3" class="umenu_off" onclick="showlist('item3');">
-<a href="javascript:;" id="ulink_membership" style="display:block;">membership plans</a>
-
-
-</td><td id="menu_header_item4" class="umenu_off" onclick="showlist('item4');">
-<a href="javascript:;">financial services</a>
-
-</td><td id="menu_header_item5" class="umenu_off" onclick="showlist('item5');">
-<a href="javascript:;">for travelers</a>
+</td><td id="menu_header_item01" class="umenu_off" onclick="showlist('item01');">
+<a href="javascript:;"><span style="white-space:nowrap;">what's new on Tripcook</span></a>
 
 
 </td><td style="width:100%">
@@ -280,44 +240,35 @@ document.getElementById(chosen_content).style.display = '';
 
 
 
-
-<!--WHAT S NEW -->
-<table id="menu_content_item01" style="width:100%; display:none; padding:0px;" class="unavres"><tbody><tr valign="top">
-
-<td>
+<!--TRAVEL REQUESTS -->
+<table id="menu_content_item2" style="width:100%; display:none; padding:0px;" class="unavres"><tbody><tr valign="top"><td style="text-align:left;">
 
 <table style="width:1%; margin-left:10px;" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td style="text-align:left;">
-<h2>News</h2>
 
-<a href="/news.html" title="what" s="" new="" on="" tripcook'="" class="unavreslink">News on Tripcook</a>
-</td></tr></tbody></table>
+<a href="/cgi-bin/tour_request.cgi?par=startrequest_col" title="" class="unavreslink">send a travel request now</a>
 
-</td><td>
-
-<table style="width:1%; margin-left:10px;" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td style="text-align:left;">
-<h2>Special Offers</h2>
-
-<a href="/special_offers.html" title="Special offers that can be enjoyed on Tripcook" class="unavreslink">Promotional offers and discounts</a>
-
-<a href="/special_offer_for_travel_associations.html" title="Proposal to travel associations around the world" class="unavreslink">Proposal to Travel Associations</a>
+<a href="/travel_requests.html" title="what are travel requests and leads" class="unavreslink">travel request explanation</a>
 
 
 </td></tr></tbody></table>
-
 
 </td><td style="width:99%">
 </td></tr></tbody></table>
 
 
-<!--TRAVEL PROMOTION -->
-<table id="menu_content_item1" style="width:100%; display:none; padding:0px;" class="unavres"><tbody><tr valign="top">
+
+
+
+
+<!--TRAVEL BIZ LISTING -->
+<table id="menu_content_item02" style="width:100%; display:none; padding:0px;" class="unavres"><tbody><tr valign="top">
 
 <td>
 
 <table style="width:1%; margin-left:10px;" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td style="text-align:left;">
 <h2>Listing</h2>
 
-<a href="/listing_policies.html" title="see how to list your travel company on Tripcook" class="unavreslink">list your travel company</a>
+<a href="/listing_policies.html" title="see how to list your travel company or individual on Tripcook" class="unavreslink">list your travel business</a>
 
 <a href="/listing_benefits.html" title="why submit your travel company to Tripcook" class="unavreslink">listing benefits</a>
 
@@ -327,7 +278,21 @@ document.getElementById(chosen_content).style.display = '';
 
 </td></tr></tbody></table>
 
-</td><td>
+
+
+
+</td><td style="width:99%">
+</td></tr></tbody></table>
+
+
+
+
+
+<!--SERVICES FOR LISTED MEMBERS -->
+<table id="menu_content_item1" style="width:100%; display:none; padding:0px;" class="unavres"><tbody><tr valign="top">
+
+
+<td>
 
 <table style="width:1%; margin-left:10px;" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td style="text-align:left;">
 <h2>Travel Products and Articles</h2>
@@ -337,21 +302,10 @@ document.getElementById(chosen_content).style.display = '';
 
 <a href="/articles.html" title="publish travel articles on Tripcook" class="unavreslink">travel articles</a>
 
-<a href="/travel_distribution.html" title="share your travel updates wider across the web" class="unavreslink">travel products/articles distribution</a>
-
 
 </td></tr></tbody></table>
 </td><td>
 
-<table style="width:1%; margin-left:10px;" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td style="text-align:left;">
-<h2>Advertising on Tripcook</h2>
-
-<a href="/paid_advertising.html" title="place travel ads on Tripcook" class="unavreslink">text ads</a>
-
-<a href="/paid_banner_advertising.html" title="place travel banners on Tripcook" class="unavreslink">banner ads</a>
-</td></tr></tbody></table>
-
-</td><td>
 
 <table style="width:1%; margin-left:10px;" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td style="text-align:left;">
 <h2>Travel Business Contest</h2>
@@ -370,16 +324,41 @@ document.getElementById(chosen_content).style.display = '';
 
 </td><td>
 
-<table style="width:1%; margin-left:10px;" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td style="text-align:left;">
-<h2>Media Promotion</h2>
-<a href="/corporate_press_release.html" title="use our corporate PR to promote your business" class="unavreslink">corporate press release</a>
 
-<a href="/benefits_joining_press_release.html" title="see the benefits and advantes of joining a Tripcook PR" class="unavreslink">benefits of joining a PR</a>
+<table style="width:1%; margin-left:10px;" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td style="text-align:left;">
+<h2>Membership Plans and Options</h2>
+
+<a href="/membership.html" title="see types of membership on Tripcook" class="unavreslink">compare membership plans</a>
+
+
+<a href="/cgi-bin/account.cgi?par=membership" title="check your membership" class="unavreslink">check your membership</a>
+
+
+</td></tr></tbody></table>
+
+</td><td style="width:99%">
+</td></tr></tbody></table>
+
+
+
+
+
+<!--WHAT S NEW -->
+<table id="menu_content_item01" style="width:100%; display:none; padding:0px;" class="unavres"><tbody><tr valign="top">
+
+<td>
+
+<table style="width:1%; margin-left:10px;" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td style="text-align:left;">
+<h2>News</h2>
+
+<a href="/news.html" title="what" s="" new="" on="" tripcook'="" class="unavreslink">News on Tripcook</a>
 </td></tr></tbody></table>
 
 
 </td><td style="width:99%">
 </td></tr></tbody></table>
+
+
 
 
 <!--WEBSITE TOOLS -->
@@ -406,48 +385,6 @@ document.getElementById(chosen_content).style.display = '';
 
 </td><td style="width:99%">
 </td></tr></tbody></table>
-
-
-
-<!--TRAVEL REQUESTS -->
-<table id="menu_content_item2" style="width:100%; display:none; padding:0px;" class="unavres"><tbody><tr valign="top"><td style="text-align:left;">
-
-<table style="width:1%; margin-left:10px;" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td style="text-align:left;">
-<h2>Client Enquiries and Leads</h2>
-
-<a href="/travel_requests.html" title="what are travel requests and leads" class="unavreslink">travel request and leads</a>
-
-
-<a href="/sending_options.html" title="how travel requests are sent to travel specialists" class="unavreslink">request sending options</a>
-
-<a href="/cgi-bin/tour_request.cgi?par=list" title="" class="iframe cboxElement" style="color:Red; font-weight:500; white-space:nowrap; color:#333; padding:5px;">send a travel request now</a>
-
-</td></tr></tbody></table>
-
-</td><td style="width:99%">
-</td></tr></tbody></table>
-
-
-
-<!--MEMBERSHIP -->
-<table id="menu_content_item3" style="width:100%; display:none; padding:0px;" class="unavres"><tbody><tr><td>
-
-
-<table style="width:1%; margin-left:10px;" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td style="text-align:left;">
-<h2>Membership Plans and Options</h2>
-
-<a href="/membership.html" title="see types of membership on Tripcook" class="unavreslink">compare all membership plans</a>
-
-
-<a href="/discounted_membership.html" title="how to get discounted membership" class="unavreslink">discounted membership</a>
-
-<a href="/recip_membership.html" title="getting most of functions with reciprocal (free) membership on Tripcook" class="unavreslink">reciprocal membership</a>
-
-</td></tr></tbody></table>
-
-</td><td style="width:99%">
-</td></tr></tbody></table>
-
 
 
 
@@ -509,17 +446,14 @@ document.getElementById(chosen_content).style.display = '';
 
 
 <!--REMOVABLE1-->
-<div style="text-align:center; width:100%; margin-top:25px;">
-<a href="/cgi-bin/tour_request.cgi?par=list" class="iframe cboxElement">
-<table style="background-color: #99ccff; border-radius:10px; -moz-border-radius:10px; margin-left:auto; margin-right:auto;"><tbody><tr><td>
-<img src="/images/send_request_green.gif" alt="">
+
+<table style="text-align:center; width:100%; margin-top:25px; margin-left:auto; margin-right:auto;">
+<tbody><tr><td>
+<a href="/cgi-bin/tour_request.cgi?par=startrequest_col">
+<img src="/images/side_tr2.gif">
+</a>
 </td></tr></tbody></table>
-</a>
-<br>
-<a href="/tripcook_alliance.html">
-<img src="/images/side_ta.gif" alt="">
-</a>
-</div>
+
 <!--REMOVABLE1-->
 
 
@@ -566,7 +500,7 @@ document.getElementById(chosen_content).style.display = '';
 
 <!-- ############################################-->
 
-            <h3>Privacy Policy of Tripcook</h3>
+            <h1>Privacy Policy of Tripcook</h1>
 
 
 
@@ -680,16 +614,12 @@ tracking"></a></div></noscript>
 <div>Tripcook</div>
 <ul>
 <li> <a href="http://tripcook.com/index.html">Home</a>
-
+</li><li> <a href="/contact.html">Contact us</a>
 </li><li> <a href="/aboutus.html">About us</a>
-
-</li><li> <a href="/faq.html">F.A.Q.</a>
-
 </li><li> <a href="/privacy.html">Privacy Policies</a>
 </li><li> <a href="/refunds.html">Refund Policies</a>
 </li><li> <a href="/terms_of_service.html">Terms of Service</a>
 
-</li><li> <a href="/contact.html">Contact us</a>
 
 
 </li></ul>
@@ -700,10 +630,6 @@ tracking"></a></div></noscript>
  <a href="/listing_policies.html">Add travel business</a>
 <li>
  <a href="/listing_benefits.html">Listing Benefits</a>
-</li><li>
- <a href="/completeness_profile.html">Profile Completeness</a>
-</li><li>
- <a href="/showrank.html">ShowRank</a>
 
 
 </li><li>
@@ -714,8 +640,25 @@ tracking"></a></div></noscript>
 </li></ul>
 
 </td><td width="1%">
+<div>Travel Requests</div>
+<ul>
 
-<div>Promotion</div>
+<li>
+ <a href="/travel_requests.html">Travel Requests Explanation</a>
+ </li><li>
+ <a href="/cgi-bin/tour_request.cgi?par=startrequest_col">Send Request Now</a>
+ 
+
+ 
+</li></ul>
+
+
+
+</td><td width="1%">
+
+
+
+<div>Travel Products &amp; Articles</div>
 <ul>
 
 <li>
@@ -723,30 +666,8 @@ tracking"></a></div></noscript>
 </li><li>
  <a href="/articles.html">Travel Articles</a>
 
-</li><li>
- <a href="/travel_distribution.html">Travel Distribution</a>
-</li><li>
- <a href="/paid_advertising.html">Text Ads</a>
-</li><li>
- <a href="/paid_banner_advertising.html">Banner Ads</a>
  </li></ul>
 
-
-</td><td width="1%">
-
-<div>Travel Requests</div>
-<ul>
-
-<li>
- <a href="/travel_requests.html">Travel Request</a>
-</li><li>
- <a href="/sending_options.html">Request Sending Option</a>
- </li><li>
- <a href="/cgi-bin/tour_request.cgi?par=list" class="iframe cboxElement" style="font-weight:500; font-size:8pt;">Send Request Now</a>
- 
- 
- 
-</li></ul>
 
 
 <!--- new row --->
@@ -765,24 +686,12 @@ tracking"></a></div></noscript>
  <a href="/winner_selection_criteria.html">Winner Selection Criteria</a>
 </li><li>
  <a href="/hall_of_fame.html">Hall of Fame</a>
+</li><li>
+ <a href="/winner_badge.html">Winner's Badge</a>
+</li><li>
+ <a href="/media_coverage.html">Media Coverage</a>
 
 </li></ul>
-
-
-</td><td width="1%">
-
-<div>Seo &amp; Media Tools</div>
-<ul>
-
-<li>
- <a href="/corporate_press_release.html">Corporate Press Release</a>
-
- </li><li>
- <a href="/benefits_joining_press_release.html">Benefits of joining our PR</a>
-
- 
- </li></ul>
-
 
 
 </td><td width="1%">
@@ -790,94 +699,22 @@ tracking"></a></div></noscript>
 <ul>
 <li>
  <a href="/membership.html">Membership Plans</a>
-</li><li>
- <a href="/discounted_membership.html">Dicounted Membership</a>
- 
- </li><li>
- <a href="/recip_membership.html">Reciprocal Membership</a>
- 
  
 </li><li>
  <a href="/link_to_tripcook.html">Link to Tripcook</a>
-</li><li>
- <a href="/tripcook_widget.html">Tripcook Widget</a>
-</li><li>
- <a href="/tripcook_alliance.html">Tripcook Alliance</a>
 
 
 
 </li></ul>
 
-</td><td width="1%">
+</td><td width="1%" colspan="2">
 
-<div>For Travellers</div>
-<ul>
-<li>
- <a href="/tripcook_for_travelers.html">Tripcook for Travelers</a>
+<table style="background-color: #eee; width:100%">
 
+<tbody><tr>
+<td style="text-align:left; padding-left:15px; color: #333; font-size:11pt;" colspan="10">Social
 
-</li><li>
- <a href="/sending_options.html">Sending Travel Request</a>
-
-</li><li>
- <a href="/write_travel_review.html">Travel Reviews</a>
-
-
-</li><li>
-  <a href="javascript:;" onclick="togglesmall('archived')" ;="">Archive</a>
-
-
-</li></ul>
-
-
-
-</td><td width="1%">
-</td></tr></tbody></table>
-
-
-<table class="footerbox_black" id="archived" style="display:none;">
-
-<tbody><tr><td>
-Best Web Directories: <a href="/best_web_directories.html">Best Directories</a> 
-
-<br><br>
-Rating: <a href="/ratings.html">Rating</a> <a href="/rating_benefits.html">Rating Benefits</a> <a href="/rating_policies.html">Rating Policies</a> <a href="/rated_by_tripcook.html">Rating Widget</a> 
-
-<br><br>
-Functions: <a href="/news.html">News</a> <a href="/blogs.html">Blogs</a> 
-
-</td></tr></tbody></table><!-- end of archive -->
-
-
-
-
-</td></tr><tr><td style="background-color: #eee; padding:5px; text-align:left;">
-
-<a href="/travel_company_Visit_Almaty"><img src="/images/flags/kz.gif" width="25px" height="18px" title="Travel Company Visit Almaty" alt="Travel Company Visit Almaty"></a>
-
-<a href="http://russianwire.com"><img src="/images/flags/ru.gif" width="25px" height="18px" title="RussianWire" alt=""></a>
-
-
-<table style="width:100%;" border="0"><tbody><tr valign="top"><td style="background-color: #eee; padding:5px; text-align:left; width:50%">
-<b style="font-size:9pt;">Payment methods on Tripcook</b>
-
-<table style="background-color: #eee; width:100%"><tbody><tr>
-<td style="text-align:left;"><img src="/images/paypal_accepted_logo.gif" width="120" alt="">
-<!--
-<td style='text-align:left;'><img src='/images/okpay_accepted_logo.gif' width=90  alt="">
-<td style='text-align:left;'><img src='/images/qiwi_accepted_logo.gif' width=80  alt="">
--->
-
-</td><td style="text-align:left;"><img src="/images/skrill_accepted_logo.gif" width="80" alt="">
-
-</td><td width="100%">
-</td></tr></tbody></table>
-
-</td><td style="background-color: #eee; padding:5px; text-align:left;">
-<b style="font-size:9pt;">Tripcook Social</b>
-
- 
-<table style="background-color: #eee; width:100%"><tbody><tr>
+</td></tr><tr>
 <td style="text-align:left;">
 
 <a href="/tripcook_goes_social.html#twitter" title="Twitter"><img src="/images/button_twitter.gif" width="60" class="socialbutton" alt=""></a>
@@ -898,18 +735,23 @@ Functions: <a href="/news.html">News</a> <a href="/blogs.html">Blogs</a>
 </td></tr></tbody></table>
 
 
-
 </td></tr></tbody></table>
 
 
-</td></tr><tr><td>
-<table class="footerbox"><tbody><tr><td align="left">
-<font id="copyright">© 2011 - 2018 Tripcook - Travel Business Promotion Agency. All rights reserved.</font>
-</td></tr><tr><td>
+
+
+</td></tr><tr><td style="background-color:; padding:5px; text-align:center;">
+
+<table style="margin-left:auto; margin-right:auto; width:80%" border="0"><tbody><tr valign="top"><td style="background-color: ; padding:5px; text-align:center; width:50%">
+<b style="font-size:9pt; color: #fff;">Payment methods on Tripcook</b><br>
+<img src="/images/paypal_accepted_logo.gif" width="120" alt="">
+
 
 </td><td>
 
-</td></tr></tbody></table>
+<font id="copyright">© 2011 - 2018 Tripcook - Global Travel Agency. All rights reserved.</font>
+
+
 </td></tr></tbody></table>
 
 
@@ -918,15 +760,11 @@ Functions: <a href="/news.html">News</a> <a href="/blogs.html">Blogs</a>
 
 
 <!--End of mainframe table-->
-</td></tr></tbody></table><script type="text/javascript" charset="UTF-8" async="" src="https://share.pluso.ru/pluso-like.js"></script> 
-
-
-<!-- BEGIN JIVOSITE CODE {literal} -->
-<script type="text/javascript">
-(function(){ var widget_id = 'IOyO6Shxi2';var d=document;var w=window;function l(){
-var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
-<!-- {/literal} END JIVOSITE CODE -->
+</td></tr></tbody></table> 
 
 
 
-</body></html>
+
+
+
+</td></tr></tbody></table><script type="text/javascript" charset="UTF-8" async="" src="https://share.pluso.ru/pluso-like.js"></script></body></html>
