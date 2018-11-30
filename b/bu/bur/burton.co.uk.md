@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burton.co.uk privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527030355id_/http%3A//www.burton.co.uk/en/bruk/category/privacy-policy-4529213/home%3FTS%3D1435832177994) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burton.co.uk privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130191419id_/http%3A//www.burton.co.uk/en/bruk/category/privacy-policy-4529213/home%3FTS%3D1435832177994) for the most accurate reproduction.*
 
 # Privacy Policy - Burton Menswear
 
@@ -1011,15 +1011,15 @@ Our website uses cookies to collect information.
 
 
 
-Cookies are small files of letters and numbers that are downloaded onto your computer or mobile or other handheld device when you access certain websites.  Cookies allow a website to recognise a user’s device and help your browser navigate through the website by allowing you to log in automatically or remembering settings you selected during earlier visits (among other functions).  Cookies do not harm your computer.  If you would like to learn more about cookies in general you can visit www.allaboutcookies.org
+Cookies are small files of letters and numbers that are downloaded onto your computer, mobile or other handheld device when you access certain websites. Cookies allow a website to recognise a user’s device and help your browser navigate the website by allowing you to log in automatically or remembering settings you selected during earlier visits (among other functions). Cookies do not harm your computer. If you would like to learn more about cookies in general you can visit www.allaboutcookies.org
 
   2. **Use of cookies on this website**
 
 
 
-Cookies help us to provide you with a good experience when you browse this website and allow you to make full use of the online shopping and personalised features available on this website.  We do not use cookies to collect or record information such as your name, address or payment details.
+Cookies help us provide you with an excellent experience when you browse our website. They also allow you to make full use of the online shopping and personalised features available on this website. We do not use cookies to collect or record information such as your name, address or payment details.
 
-Sometimes we link information from cookies with you, such as when you are using our website and logged in to your account. In such cases the combined data is your personal information and you should also read our [privacy policy](https://web.archive.org/en/bruk/category/privacy-policy-4529213/home?TS=1435832177994&cat2=2443491#fragment-1). 
+Sometimes we link information from cookies with you, such as when you are using our website and logged in to your account. In such cases the combined data is your personal information and you should read our [privacy policy](https://web.archive.org/en/bruk/category/privacy-policy-4529213/home?TS=1435832177994&cat2=2443491#fragment-1)for further information. 
 
   3. **Why we use cookies**
 
@@ -1027,15 +1027,15 @@ Sometimes we link information from cookies with you, such as when you are using 
 
 We use cookies on this website for the following main purposes:
 
-  * **Strictly Functional Cookies** : for technical purposes essential for the operation of this website and / or your use of it, such as keeping track of your current shopping session and enabling you to proceed to checkout and pay for products;
+  * **Strictly Functional Cookies** : for technical purposes essential for the operation of this website and your use of it, such as keeping track of your current shopping session and enabling you to proceed to checkout and pay for products;
   * **Measurement and Analytics Cookies** : to collect statistical information about how visitors use this website, calculate views, analyse popular products by quantifying clicks. This is so we can improve the way this website works and measure the success of competitions and campaigns;
-  * **Personalisation Cookies** : to distinguish you from other users of this website, so we can personalise your shopping experience and allow us to improve your use of the website. These help ensure all that is displayed on our site is more relevant to your interests and so we can remember choices you make (such as your user name, language or the country you are in)
+  * **Personalisation Cookies** : to distinguish you from other users of this website, so we can personalise your shopping experience and allow us to improve your website experience. These help ensure all that is displayed on our site is more relevant to your interests and so we can remember choices you make (such as your user name, language or the country you are in)
   * **Marketing Cookies** : to ensure the marketing content that you receive on sites other than our own is relevant and reflects the interests you have shown when browsing on our site.
-  * **Third party cookies** : used by third parties to collect data when you are on our website and sometimes when you are on other websites. We do not receive their data. They can be used for any of the above reasons but are mainly used to help provide behavioural targeted advertising to you online. These also enable us to fulfil our contractual obligations to third parties, for example to pay a partner if you have made a purchase on this website by following a link from their website.
+  * **Third party cookies** : used by third parties to collect data when you are on our website and sometimes when you are on other websites. We do not receive their data. They can be used for any of the above reasons but are mainly used to help provide behavioural targeted advertising to you online. These can also enable us to fulfil our contractual obligations to third parties, for example to pay a partner if you have made a purchase on this website by following a link from their website.
 
 
 
-Most web browsers automatically accept cookies when they are dropped on your computer, mobile  or other handheld device.  You can adjust your browser settings so that it will refuse cookies. By accepting cookies when visiting our website, you consent to cookies being used in accordance with this Cookies Policy.  You can change your mind at any time about your consent. If you do not consent to cookies, or have changed your mind about cookies, you must either disable cookies through your browser or refrain from using this website.  Please go to "‘How To Manage Cookies’ section below for information on how to manage and disable cookies.
+Most web browsers automatically accept cookies when they are dropped on your computer, mobile or other handheld device. You can adjust your browser settings so that it will refuse cookies. By accepting cookies when visiting our website, you consent to cookies being used in accordance with this Cookies Policy (hereafter referred to as “the policy”). You can change your mind at any time about your consent. If you do not consent to cookies, or have changed your mind about cookies, you should either disable cookies through your browser or refrain from using this website. Please go to "‘How To Manage Cookies’ section below (section 6) for information on how to manage and disable cookies.
 
   4. **Our cookies**
 
@@ -1043,7 +1043,7 @@ Most web browsers automatically accept cookies when they are dropped on your com
 
 **4.1 Strictly functional cookies**
 
-These cookies help make a website useable and are essential in helping you move around our site and use it’s features. Without these cookies you would not be able navigate our site and gain access to secure areas such as signing into your account, add something to the basket or make purchases.
+These cookies help make our website useable and are essential in helping you move around our site and use its’ features. They enable you to navigate our site and gain access to secure areas (for example, where you sign into your account, add items to your basket or make purchases).
 
 **Cookie Name**
 
@@ -1078,7 +1078,7 @@ Arcadia Akamai (Internal)
 
 Used to identify which Monty site/AB test you are running on  
   
-dual-run, traceId2, PHPSESSID, source, cookietest, se_t - Active Queue, se_q - Active Queue, se - Queue Processing, se – Queue, se - Error Count, se - Active Queue, tempsession
+dual-run, traceId2, PHPSESSID, source, cookietest, se_t - Active Queue, se_q - Active Queue, se - Queue Processing, se – Queue, se - Error Count, se - Active Queue, tempsession, AB_PHOTO, cartId, cartItemId, cartValue, cartSize, currentDeliveryCountry
 
 | 
 
@@ -1098,7 +1098,7 @@ Arcadia WCS (Internal)
 
 These cookies remember your preferences from previous visits, allow you to add to basket and store your shopping basket. The website wouldn't work for you without them  
   
-wcsstore/ConsumerDirectStorefrontAssetStore/images/trans_pixel.gif, WC_USERACTIVITY_-1002, WC_SESSION_ESTABLISHED, WC_PERSISTENT, WC_GENERIC_ACTIVITYDATA, WC_AUTHENTICATION_-1002, WC_ACTIVEPOINTER, jsessionid, WC_AUTHENTICATION_#, WC_USERACTIVITY_#
+wcsstore/ConsumerDirectStorefrontAssetStore/images/trans_pixel.gif, WC_USERACTIVITY_-1002, WC_SESSION_ESTABLISHED, WC_PERSISTENT, WC_GENERIC_ACTIVITYDATA, WC_AUTHENTICATION_-1002, WC_ACTIVEPOINTER, jsessionid, WC_AUTHENTICATION_#, WC_USERACTIVITY_#, WC_pickUpStore
 
 | 
 
@@ -1141,7 +1141,7 @@ Preserves users states across page requests
 **  
 4.2 Statistical cookies** ** **
 
-These cookies help us to understand how users interact with our site and provide statistical analysis of our site. In order to keep our site easy to use, working properly and up-to-date, we use web analytics services to help us understand how people use our site. For example we see which areas are most popular, identify when errors occur and can test different features to see which works best.
+These cookies help us to understand how users interact with our site and provide us with statistical analysis of our site. We also use web analytics to ensure our site is easy to use, working properly and up-to-date. They also help us understand how people use our site. For example, they allow us to see which areas are most popular, help identify when errors occur and test different features to see which works best.
 
 **Cookie Name**
 
@@ -1173,7 +1173,7 @@ Google Analytics
 
 | 
 
-Collects data on where the user came from, what search engine was used , what link was clicked and what search term was used . Used by Google Analytics  
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.  
   
 GTM-Store, _dc_gtm_UA-#
 
@@ -1252,7 +1252,7 @@ google.com
 
 | 
 
-Contains a unique ID that Google uses to remember your preferences and other information, such as your preferred language (e.g. English), how many search results you wish to have shown per page (e.g. 10 or 20) and whether or not you wish to have Google’s SafeSearch filter turned on. These are also used to create remarketing based on user behavior on the site  
+Contains a unique ID that Google uses to remember your preferences and other information, such as your preferred language (e.g. English), how many search results you wish to have shown per page (e.g. 10 or 20) and whether or not you wish to have Google’s SafeSearch filter turned on. These are also used to create remarketing based on user behaviour on the site.  
   
 peerius_user, peerius_sess, peerius_rid, peerius_ct
 
@@ -1262,7 +1262,7 @@ Peerius
 
 | 
 
-These cookies enable Peerius software. This software allows us to make recommendations of products that we think might be of interest to you, based on what you and other visitors have viewed  
+These cookies enable Peerius software. This software allows us to make recommendations of products that we think might be of interest to you, based on what you and other visitors have viewed.  
   
 Queue That - Queue Processing, Queue That – Queue, Queue That - Error Count, Queue That - Active Queue, qubit_platform, qb_session, qb_persist_test, qb_permanent, _qubitVisitorId, _qubitUACategorisation, _qubitTracker_s, _qubitTracker, _qubitTabID, _qubitPingQueueLock, _qubitPingQueue, _qst_s, _qst, _qsst_s, _qsst, _qPageNum_burton_eu, x_qtag_596227, _qPageNum_burton_uk_mobile, x_qtag_montyburtonukmobile, x_qtag_montyburtoneumobile
 
@@ -1274,14 +1274,72 @@ Qubit
 
  These cookies enable Qubit analytics software. This software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and shopping times. That information helps us to improve the website and your shopping experience, and to make our marketing campaigns relevant. The data stored by these cookies never shows personal details from which your individual identity can be established.  
   
+**4.5 Cookies used in mobile Apps**
+
+These cookies are used in our Mobile Apps. They are strictly functional and help make the app useable and are essential in helping you move around our site and use it’s features. Without these cookies you would not be able navigate our site and gain access to secure areas such as signing into your account, add something to the basket or make purchases.
+
+**Cookie Name**
+
+| 
+
+**Provider**
+
+| 
+
+**Purpose**  
+  
+---|---|---  
+  
+AB_PHOTO
+
+JSESSIONID
+
+WC_ACTIVEPOINTER_#
+
+WC_AUTHENTICATION_#
+
+WC_PERSISTENT
+
+WC_SESSION_ESTABLISHED
+
+WC_USERACTIVITY_#
+
+cartId
+
+cartItemId
+
+cartValue
+
+cartSize
+
+WC_pickUpStore
+
+userLanguage,
+
+currentDeliveryCountry,
+
+usergeo,
+
+userCountry,
+
+prefShipCtry    
+
+| 
+
+ Arcadia WCS (Internal)    
+
+| 
+
+ These cookies are used to support the website and user experience, without these the website would not work.  
+  
 **  
 5\. Third party cookies**  
 
 5.1 **What third party cookies do we use and why**
 
-Some cookies may be set by third parties when you visit this website.  Generally, these third party cookies do not collect personal data from which the third party would be able to identify individual customers.
+Some cookies may be set by third parties when you visit this website. Generally, these third party cookies do not collect personal data from which the third party would be able to identify individual customers.
 
-These third parties may be suppliers who partner with us to deliver our website, companies that participate with us in affiliate marketing programmes and other third parties who deliver products that enhance the user experience and consequently assist generating sales.  Data from these cookies is collected directly by those third parties and not by us. These cookies are controlled by the third parties, who must ensure they comply with their legal obligations when using cookies and collecting your information, including by making their privacy policies available to you and allowing you to change your mind. Please check the third-party websites for more information about these cookies and how to manage them.  
+These third parties may be suppliers who partner with us to deliver our website, companies that participate with us in affiliate marketing programmes and other third parties who deliver products that enhance the user experience and consequently assist generating sales. Data from these cookies is collected directly by those third parties and not by us. These cookies are controlled by the third parties, who must ensure they comply with their legal obligations when using cookies and collecting your information, including by making their privacy policies available to you and allowing you to change your mind. Please check the third-party websites for more information about these cookies and how to manage them.  
 
 Third party partners that may set cookies on this website include:
 
@@ -1309,7 +1367,7 @@ Double Click
 
 | 
 
-Double Click uses cookies to calculate payment for effective advertising based on clicks and conversions by tracking them. This is part of Google's conversion tag and more information on how the cookie operates and how you can manage these cookies is available at http://www.google.com/intl/en_GB/policies/technologies/ads/  
+Double Click uses cookies to calculate payment for effective advertising based on clicks and conversions by tracking them. This is part of Google's conversion tag and more information on how the cookie operates and how you can manage these cookies is available at http://www.google.com/intl/en_GB/policies/technologies/ads/  
   
 Sizmek
 
@@ -1345,15 +1403,15 @@ Different networks use cookies to segment and categorise different types of audi
 
 | 
 
-We may display video content on our website using Adobe Flash Player.  Adobe uses Flash cookies to improve your experience as a user.  If you wish to disable or delete a Flash cookie, please visit Adobe Flashplayer Security Settings.  Please bear in mind that if you disable Flash cookies you will be unable to access certain content on our website which uses Adobe Flash Player, such as videos.  
+We may display video content on our website using Adobe Flash Player. Adobe uses Flash cookies to improve your experience as a user. If you wish to disable or delete a Flash cookie, please visit Adobe Flashplayer Security Settings. Please bear in mind that if you disable Flash cookies you will be unable to access certain content on our website which uses Adobe Flash Player, such as videos.  
   
 **5.2 Social buttons**
 
-If you 'share' our content with friends through social networks – such as Facebook, Google and Twitter - you may be sent cookies from these third party websites. We don't control the setting of these cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.
+IIf you 'share' our content with friends through social networks – such as Facebook, Google and Twitter - you may be sent cookies from these third party websites. We don't control the setting of these cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.
 
 **6\. How to manage cookies**
 
-You can enable or disable cookies by changing your website browser settings to accept or reject cookies as required.  How to do this will depend on the browser you use.  We have provided further information below on how to check which browser you use and how to manage cookies.  Please bear in mind that if cookies are not enabled on your computer, your activities will be restricted to browsing this website and you will not be able to add products to your shopping bag and buy them.
+You can enable or disable cookies by changing your website browser settings to accept or reject cookies as required. How to do this will depend on the browser you use. We have provided further information below on how to check which browser you use and how to manage cookies. Please bear in mind that if cookies are not enabled on your computer, your activities will be restricted to browsing this website and you will not be able to add products to your shopping bag and buy them.
 
 **7\. Checking which browser you use**
 
@@ -1407,8 +1465,204 @@ If you are not happy with the way that we use cookies then you should delete Bur
 
 9\. **Other details you should know**
 
-Our Cookies Policy explains how we at Burton Trading Limited collect data from your computer, mobile or other device when using our website. If you would like to get in touch, you can write to us at: Customer Care, Burton Business Park, Torre Road, Leeds, LS9 6DJ. We reserve the right to update this Cookies Policy at any time but won't send communications regarding minor changes, so we will only provide you with an updated Cookies Policy when we make changes to cookies that we need you to know about and agree to. The latest Cookies Policy with any other updates  will always be available on our website for you to check.
+OOur Cookies Policy explains how we at Burton Trading Limited collect data from your computer, mobile or other device when using our website. If you would like to get in touch, you can write to us at: Customer Care, Burton Business Park, Torre Road, Leeds, LS9 6DJ. We reserve the right to update this Cookies Policy at any time but won't send communications regarding minor changes, so we will only provide you with an updated Cookies Policy when we make changes to cookies that we need you to know about and agree to. The latest Cookies Policy with any other updates will always be available on our website for you to check.
 
-Even if you do not consent to or change your mind about our cookies, you may still see our  advertising on line but this will be general advertising or page/context specific advertising and not shaped by your browsing or shopping behaviour as an individual.
+Even if you do not consent to or change your mind about our cookies, you may still see our advertising on line but this will be general advertising or page/context specific advertising and not shaped by your browsing or shopping behaviour as an individual.
 
-v1.0 22 May 2018
+**Making a request to our partners**
+
+We partner with other companies to ensure that you get additional services and helpful add-ons to improve your experience with us. In some instances you must contact these partners directly to submit a privacy request.  
+
+We've compiled a list (below) of who these partners are and what exactly they do.  We've also given you a link to their privacy policy, which contains information about how to make a privacy request to them. Not all of these third parties process your personal data but if you think they have please do not hesitate to contact them directly.  
+
+THIRD PARTY NAME 
+
+| 
+
+WHAT THEY DO  
+
+| 
+
+LINK TO PRIVACY POLICY   
+  
+---|---|---  
+  
+KLARNA 
+
+| 
+
+Klarna provide finance options to pay for online purchases at a later date 
+
+| 
+
+[Click Here](http://cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy)  
+  
+PAYPAL 
+
+| 
+
+Paypal is a third-party service that lets you pay without entering payment details to stores directly   
+
+| 
+
+[Click Here](https://www.paypal.com/uk/webapps/mpp/ua/privacy-full)  
+  
+UNIDAYS
+
+| 
+
+Unidays are a third party who verify student status and provide student discount codes based on this  
+
+| 
+
+[Click Here](https://www.myunidays.com/GB/en-GB/privacy-policy)  
+  
+STUDENT BEANS
+
+| 
+
+Student Beans are a third party who verify student status and provide student discount codes based on this 
+
+| 
+
+[Click Here](https://www.studentbeans.com/uk/info/privacy)  
+  
+ABA 
+
+| 
+
+ABA Research provide feedback to companies based on customer opinions 
+
+| 
+
+[Click Here](https://www.abaresearch.co.uk/contact-privacy-policy)  
+  
+INTELLIGENT REACH 
+
+| 
+
+Intelligent Research are an ecommerce software provider optimising product visibility  
+
+| 
+
+[Click Here](https://www.intelligentreach.com/privacy-policy/)  
+  
+DRESSIPI 
+
+| 
+
+Dressipi provide a fashion-personalisation service 
+
+| 
+
+[Click Here](https://dressipi.com/privacy/)  
+  
+CONVERSANT 
+
+| 
+
+Conversant are a digital marketing provider 
+
+| 
+
+[Click Here](https://www.conversantmedia.com/legal/privacy)   
+  
+ZANOX 
+
+| 
+
+Also known as Awin. Please refer to Awin entry 
+
+| 
+
+[Click Here](https://www.awin.com/gb/legal/privacy-policy-gb)  
+  
+AWIN 
+
+| 
+
+Awin are an affiliate marketing network that allows companies to advertise their products 
+
+| 
+
+[Click Here](https://www.awin.com/gb/legal/privacy-policy-gb)   
+  
+CURALATE 
+
+| 
+
+Curulate is a platform that allows us to select and upload photos that people send to us to our websites, such as being featured in an ‘as seen on me’ segment 
+
+| 
+
+[Click Here](https://www.curalate.com/privacy-policy/)   
+  
+TWITTER 
+
+| 
+
+Twitter is a social media platform  
+
+| 
+
+[Click Here](https://twitter.com/en/privacy)    
+  
+NEW DAY 
+
+| 
+
+New Day are a credit and financial provider   
+
+| 
+
+[Click Here](https://newday.co.uk/privacy-policy/)    
+  
+RAKUTEN MARKETING  
+
+| 
+
+Rakuten Marketing are an affiliate marketing company, that deliver a personalised advertising experience 
+
+| 
+
+[Click Here](https://rakutenmarketing.com/legal-notices/website-privacy-policy)    
+  
+WORLDPAY 
+
+| 
+
+Worldpay provide payments processing technology  
+
+| 
+
+[Click Here](https://www.worldpay.com/uk/worldpay-privacy-notice#priv-1)    
+  
+ACS
+
+| 
+
+ACS manage Burton’s formal hire service
+
+| 
+
+[Click Here](https://burtonsuithire.co.uk/Home/CookiesPrivacy)    
+  
+BazaarVoice 
+
+| 
+
+BazaarVoice provide a product review service 
+
+| 
+
+[Click Here](https://www.bazaarvoice.com/legal/privacy-policy/)    
+  
+Narvar 
+
+| 
+
+Narvar provide an order tracking service 
+
+| 
+
+[Click Here](https://corp.narvar.com/privacy-policy/)  
