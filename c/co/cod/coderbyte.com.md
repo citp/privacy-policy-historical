@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coderbyte.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702105915id_/https%3A//coderbyte.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coderbyte.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130163019id_/https%3A//www.coderbyte.com/privacy) for the most accurate reproduction.*
 
 # Coderbyte
 
@@ -8,7 +8,7 @@ Your privacy is important to us. When running Coderbyte, we follow a few fundame
 
   * We don't ask you for personally identifiable information (defined below) unless we truly need it. That being said, what we do ask for is solely to enable us to build an amazing customized experience and to communicate with you.
   * We don't share your information with third parties except to deliver you the Site, comply with the law, make Coderbyte better, protect our rights, or effectuate a business transfer.
-  * We're not a huge, faceless corporation. We're just normal people trying to deliver an incredible experience. If you have any questions or concerns about this policy, please reach out to us at _admin@coderbyte.com_.
+  * We're not a huge, faceless corporation. We're just normal people trying to deliver an incredible experience. If you have any questions or concerns about this policy, please reach out to us at _[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_.
 
   
 
@@ -115,9 +115,9 @@ We reserve the right to access, read, preserve, and disclose any information tha
 
 **What Personal Information Can I Access or Change?**
 
-Once you sign up for an account, we provide you with various options that enable you to delete or revise your Personal Information. You can change, alter, or amend Personal Information that you provide to us by visiting your account settings at [coderbyte.com/settings/](https://coderbyte.com/settings/). If you have any questions, feel free to contact us at any time at 
+Once you sign up for an account, we provide you with various options that enable you to delete or revise your Personal Information. You can change, alter, or amend Personal Information that you provide to us by visiting your account settings at [coderbyte.com/settings/](https://web.archive.org/settings/). If you have any questions, feel free to contact us at any time at 
 
-_admin@coderbyte.com_
+_[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_
 
 . 
 
@@ -141,7 +141,7 @@ Even with all these precautions, we cannot fully guarantee against the access, d
 
 We are especially sensitive about children's information. We're not a site targeted towards children, and we don't knowingly collect information from children under the age of 13. If you are a parent or legal guardian of a minor child, we will treat any information that you provide us while using Coderbyte on behalf of your minor child as Personal Information as otherwise provided in this Privacy Policy. If you have questions concerning our information practices with respect to children, or if you learn that a child under the age of 13 has used Coderbyte, created a user account, or provided us with personal information, please email us at 
 
-_admin@coderbyte.com_
+_[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_
 
 . 
 
@@ -157,7 +157,7 @@ We occasionally review this Privacy Policy to make sure it complies with applica
 
 If you are a California resident, in addition to awesome weather, you also get the ability to ask us for a notice identifying the categories of Personal Information we share with our affiliates and/or third parties for marketing purposes and the contact information for such affiliates and/or third parties (under California Civil Code Sections 1798.83-1798.84). If you are a California resident and would like a copy of this notice, please submit a written request to 
 
-_admin@coderbyte.com_
+_[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_
 
 . We won't even ask you for a bottle of Napa Valley chardonnay in return (but if you send one, our staff will happily accept). 
 
@@ -171,7 +171,7 @@ We'd be happy to answer them. Shoot us an email or send us a note:
 
 Email: 
 
-_admin@coderbyte.com_
+_[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_
 
 Mailing Address: 
 
