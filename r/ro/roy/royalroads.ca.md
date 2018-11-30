@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalroads.ca privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530060107id_/http%3A//policies.royalroads.ca/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalroads.ca privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130040750id_/http%3A//policies.royalroads.ca/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Policies & Procedures
 
@@ -16,7 +16,7 @@ Royal Roads University captures identification data from visitors to our website
 
 So that we can customize the delivery of information to you, your consent to the use of cookies will permit any specific enquiries on your part to be directed to, and managed by, appropriate information systems at the University.
 
-In compliance with the Freedom of Information and Protection of Privacy Act, the University does not disclose information about an particular website visitor to external organizations or individuals.
+In compliance with the Freedom of Information and Protection of Privacy Act, the University does not disclose information about a particular website visitor to external organizations or individuals.
 
 All information is retained only for the time periods needed to fulfill the purposes for which it was collected.  Royal Roads University complies with the B.C. Freedom of Information and Protection of Privacy Act.  Any personal information gathered by the University relates directly to and is necessary for its essential operating programs and activities.
 
