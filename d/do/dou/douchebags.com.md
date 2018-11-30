@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the douchebags.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530165113id_/http%3A//douchebags.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the douchebags.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130225450id_/http%3A//douchebags.com/privacy-statement) for the most accurate reproduction.*
 
 # Douchebags™ Privacy Statement
 
