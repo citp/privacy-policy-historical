@@ -1,84 +1,60 @@
-> *The following text is extracted and transformed from the bsrunner.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229091746id_/http%3A//www.bsrunner.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsrunner.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130014007id_/http%3A//www.bayshoreprojects.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Bayshore Runner completely free hi-speed graphics browser Privacy Policy
+# Bayshore Projects
 
-**About us**
+BayShore Projects Co. Ltd. and its affiliates (“BayShore”, “we”, “us”, “our”) are committed to the protection of the personal data you may share on our website. The following Privacy Policy discloses the information gathering, sharing, and safe-guarding practices for the www.bayshoreprojects.com website (“BayShore Website”, “The Website”, or “Website”). 
 
-This privacy policy applies to the websites operated by Bayshore ("Bayshore", "we", "our" and "us") and to the processing of personal information by Bayshore as contemplated in this privacy policy. Any reference to "you" or "your" means you, the user. 
+This Privacy Policy is incorporated into, and forms part of, The Website’s Terms and Conditions. A link to these Terms and Conditions is located at the bottom of each page of The Website. By using the BayShore Website you are accepting the Terms and Conditions and therefore also agree to this Privacy Policy. If you do not agree to this Privacy Policy, you must not use The Website. Your use of this Website signifies your understanding and acceptance of the terms of this Privacy Policy. 
 
-Bayshore respects your privacy and is committed to protecting the personal information you share with us. This statement describes how we collect and use your personal information that we may collect about you through the Sites and from our communications with you. The Sites are hosted on various servers within the European Economic Area. 
+We may collect the following types of personal information in order to provide you with the use and access to The Website, services and tools, and for any additional purposes set out in this 
 
-**Data Protection Laws**
+**Privacy Policy:**
 
-We are conscious of our legal responsibilities as a "data controller" and we support the principles of data protection reflected in the 1995 EU Directive on Data Protection and applicable national implementing legislation. We shall endeavour to ensure that the personal information we obtain and use will always be held, used, transferred and otherwise processed in accordance with our legal obligations. 
+Name, and contact information, such as email address, phone number, mobile telephone number, physical address, and (depending on the service used) sometimes financial information, such as bank account numbers;
 
-**Other websites**  
-There may be links from the Sites to other websites. This privacy policy only applies to the Sites and not to any other websites including any websites linked from any of the Sites. Acc  
-essing those third party websites or sources requires you to leave the Sites. We do not control those third party websites or any of the content they contain and you expressly acknowledge and agree that we are in no way responsible or liable for any of those third party websites, including, without limitation, the content, policies, failures, promotions, products, services or actions of those websites and/or any damages, losses, failures or problems caused by, related to or arising from those websites. We encourage you to review all policies, rules, terms and regulations, including the privacy policies, of each website that you visit.  
-How we obtain personal information about you
+transactional information based on your activities on the sites including, but not limited to reserving property, committing to buy property, buying, selling, paying, billing, generating content, providing content, and other information you may provide;
 
-We may as a result of your interaction with our Sites and our communications with you hold and process personal information obtained about you. The types of personal information we collect may include:
+personal information you provide to us through correspondence, chats, dispute resolution, or shared by you from other social applications, services or websites;  
+additional personal information we ask you to submit to authenticate yourself if we believe you are violating site policies (for example, we may ask you to send us an ID to answer additional questions online to help verify your identity);
 
-• your name  
-• your phone number  
-• your email address  
-• your address  
-• your credit card information  
-• your date of birth  
+information from your interaction with our sites, services, content and advertising, including, but not limited to, device ID, device type, geo-location information, computer and connection information, statistics on page views, traffic to and from the sites, ad data, IP address and standard web log information.
 
+Aggregate Information: BayShore collects non-identifying, general, generic and aggregate information to better design our Website and services. 
 
-**How we collect and use non-personal information**
+Non-Personal Information: BayShore may collect non-personal information as you use BayShore. When you use the site, BayShore, third-party service providers (e.g. Google Analytics), and partners may receive and record non-personal information from cookies, server logs, and similar technology from your browser or mobile device, including your IP address. 
 
-Please note that when anyone visits any of the Sites, we automatically collect certain non-personal information such as the type of computer operating system (e.g., Windows or Mac OS) and browser (e.g., Safari, Netscape, Internet Explorer) being used, and the domain name of the internet service provider. We sometimes use the non-personal information that we collect to improve the design and content of the Sites and to enable us to personalise your experience. 
+We may combine some Non-Personal Information with the Personal Information we collect. Where we do so, we will treat the combined information as Personal Information if the resulting combination may be used to readily identify or locate you in the same manner as Personal Information alone. 
 
-What we do with your personal information  
-The personal information that you provide will be available to Ideal Standard, our affiliated companies and trusted third party service providers and contractors for the following purposes:
+2\. How do we store your information?
 
-• to process enquiries received via the Sites  
-• to register you for and send you newsletters  
-• to conduct market research and business development   
-• to provide you with information about products and promotions that may be of interest to you from ourselves   
-• in connection with surveys related to our products and the Sites  
-• any other purpose indicated at the time you voluntarily provide your personal information 
+We use various hosting service providers; therefore your information may be transferred to and stored on servers in various locations around the world. We protect your information using technical and administrative security measures to reduce the risks of loss, misuse, unauthorised access, disclosure and alteration. Some of the safeguards we employ directly or through our service providers include firewalls and data encryption, physical access controls to our data centres, and information access authorisation controls. 
 
-**Marketing**
+3\. How do we use your Information?
 
-We may from time to time use your personal information to send you automated email messages or marketing materials regarding our services and the services of third party suppliers, in each case with your prior consent. These email messages may contain features that help us make sure you received and were able to open the message. 
+When you use the BayShore site, we may request certain information. BayShore does not share any of your personally identifiable or transactional information with any person or entity, other than as set out in this policy. No other third party receives your personally identifiable information or other transactional data except for those with whom you have transactions and share that information. The information we collect is used to improve the content of our web site, used to notify consumers about updates to our web site and for communications, such as customer service. 
 
-You may opt out of receiving such marketing email messages at any time, free of charge, by replying to the message with "unsubscribe" in the subject line, or by following the instructions in any marketing communication.
+Communications: We may send you a welcome email to verify your account and other transactional emails for operational purposes, such as billing, account management, or system maintenance. You may only stop those emails by terminating your account. We may also send you promotions, project and/or product announcements, surveys, newsletters, updates, evaluations, and event information or other marketing or commercial e-mails. You can opt out of receiving these email communications from BayShore at any time by unsubscribing using the unsubscribe link within each email, updating your e-mail preferences on your BayShore account or emailing us to have your contact information removed from our email list or registration database. 
 
-**Disclosing your personal information**
+Marketing: You agree that we may use your personal information to tell you about our products and services, deliver targeted marketing and promotional offers based on your communication preferences, and to customise, measure, and improve our advertising. You can unsubscribe from emails at any time by clicking the unsubscribe link contained in the email. 
 
-We will never disclose your personal information to companies and individuals who perform business functions and services on our behalf. 
+We do not rent, sell, or share Personal Information about you with other people or non- affiliated companies for marketing purposes (including direct marketing purposes) without your permission. We may use and share Non-Personal Information for our marketing purposes, including, without limitation, marketing on other websites. For example, we may use the information to control the number of times you have seen an ad, deliver ads tailored to your interests, and measure the effectiveness of ad campaigns. You can prevent us from tailoring our ads to you on other websites by deleting your cookies (see below). 
 
-We may disclose your personal information if, in our opinion, disclosure is required by law.
+4\. Sharing your Information
 
-**Cookies and tracking software**
+We disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations. As stated above, we do not disclosure your personal information to third parties for their marketing purposes without your explicit consent.   
+We may share aggregate data with advertisers and other third parties. BayShore uses industry-standard encryption technologies when transferring and receiving consumer and transaction data exchanged with our site. 
 
-What is in a cookie?
+5\. Cookies
 
-A cookie is a simple text file that is stored on your computer or mobile device by a website's server and only that server will be able to retrieve or read the contents of that cookie. Each cookie is unique to your web browser. It will contain some anonymous information such as a unique identifier and the site name and some digits and numbers. It allows a website to remember things like your preferences or what's in your shopping basket
+Cookies are pieces of data assigned by a web server that uniquely identify the browser on your PC. BayShore uses cookies called "persistent" cookies to enable the site to remember you on subsequent visits, speeding up or enhancing your experience of services or functions offered. Cookies also enable our systems to gather information about your navigational patterns through the site. You have the option to disable cookies at any time through your browsers. We may also store your website activity in cookies which may be used by third party vendors, such as Google, to serve ads based on your behaviour on our website.   
+The third party vendors may receive and record non-personal information from cookies, server logs, and similar technology from your browser or mobile device, including your IP address. You may opt out of their use of cookies by visiting the relevant opt-out page. BayShore will endeavor to provide all applicable links to do so. 
 
-How do we use cookies?
+If you access our Services with your login credentials from a social networking site (e.g., Facebook or Twitter) or if you otherwise agree to associate your BayShore account with a social networking account, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. For example, Facebook may share with us your friend list, birthday, information about the interests of you or your friends or other personal information, in order to help us establish your account, tailor services to you and find other current or potential site users that you know. We may add this information to the information we have already collected from you via other aspects of the Site. You are also subject to the social networking site's terms of use and privacy policy. We use the OAuth (open authorization) protocol to enable us to access this information without collecting your password when you agree allow another application to access your account information. 
 
-We use "cookies" and other types of tracking software in order to personalise your visit to our Sites and enhance your experience by gaining a better understanding of your particular interests and customising our pages for you. 
+6\. Accessing and updating your Information
 
-We may use the information provided by cookies to analyse trends, administer the Sites, or for research and marketing purposes to help us better serve you. No information which personally identifies you will be collected through the cookies.
+If we offer an account to you, you can update your information through your account profile settings. If you have any concerns about the accuracy of your information or any privacy complaints please contact us at webmaster@bayshoreprojects.com.
 
-Our Sites require the use of cookies in order to work at their best. If you do not wish these cookies to be used then please note that you may not experience our Sites working to their best effect.
+7\. Privacy Policy Modification
 
-**The accuracy of your information**
-
-While we endeavour to ensure that the information we hold about you is acc  
-urate and kept up to date, we shall assume that in the absence of evidence to the contrary, the information you provide us with is accurate. Should you inform us of inaccuracies in the information which we hold in relation to you or, if we discover that such information is inaccurate, it shall be promptly rectified by us. We do not intentionally retain any information about you which is out of date or which is no longer required.
-
-**Personal Data Security and Confidentiality**
-
-We maintain adequate technical and organisational security measures to protect your personal information from loss, misuse, and unauthorised acc  
-ess, disclosure, alteration, or destruction.
-
-**Access and Correction Rights**
-
-You can request access to, and have the opportunity to update and amend your personal information by by clicking on the "Profile Update" button in the Member's Area and completing the relevant information. and you can exercise any other rights you enjoy under applicable data protection laws, including, for example, objection to and blocking of the processing of your personal information, by contacting us at webmaster@bayshoreweb.com. For security reasons, we reserve the right to take steps to authenticate your identity before providing access to your personal information.
-
-If you feel that this site is not following its stated information policy, you may contact us via email.
+We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time. Therefore visitors are encouraged to review this Privacy Policy from time to time. Your continued use of our Site following the posting of changes to these terms means you accept these changes.
