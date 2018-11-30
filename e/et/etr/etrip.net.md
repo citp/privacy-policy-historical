@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the etrip.net privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520154216id_/http%3A//etrip.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etrip.net privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130172939id_/https%3A//www.etrip.net/privacy) for the most accurate reproduction.*
 
-# etrip.net - Privacy Policy
+# Privacy Policy
 
 ### Privacy Policy (available in English only)
 
@@ -34,5 +34,7 @@ The only personal information that Etrip may collect is the email address you pr
 
 Sharing information with other websites  
 Subject to this Privacy Policy, we will not disclose any information to companies that are not affiliated with our business without your consent in writing, unless otherwise required by law, or unless such disclosure is, in our opinion, reasonably necessary to protect its rights or property, or to avoid injury to any person.
+
+We can use the collected information for remarketing purposes for any of our brands, including Etrip. These brands are owned by the same company Etrip.
 
 If you have any questions about this policy, please [contact us](https://web.archive.org/contact). 
