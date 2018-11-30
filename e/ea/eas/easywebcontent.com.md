@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easywebcontent.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531160452id_/http%3A//www.easywebcontent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easywebcontent.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130091046id_/http%3A//www.easywebcontent.com/privacy) for the most accurate reproduction.*
 
 # Easy WebContent - Privacy Policy
 
