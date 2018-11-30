@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperbetter.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531184341id_/http%3A//www.wallpaperbetter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperbetter.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130040500id_/http%3A//www.wallpaperbetter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wallpaper Better
 
