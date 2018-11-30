@@ -1,47 +1,43 @@
-> *The following text is extracted and transformed from the www.gov.im privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516202305id_/http%3A//www.gov.im/terms.gov%3Fkeyname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.gov.im privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130144622id_/https%3A//www.gov.im/privacy) for the most accurate reproduction.*
 
-# Privacy, Data Protection and sharing of information - Isle of Man Public Services -
+# Isle of Man Government - Privacy notice
 
-This privacy policy explains what information the Isle of Man Government collects and what that information is used for. 
+This Privacy Notice applies to the Isle of Man Government website which is owned by the Cabinet Office. We recommend you take some time to read this notice and if you do not agree to this privacy notice please do not provide us with your personal information. 
 
-This Site is owned by the Isle of Man Government. By submitting information about yourself or others to this Site, you on your behalf and on behalf of others consent to it's use as set out in this consent notice. We may also record information about the way you have used our Site to improve the way it operates. 
+When you use an Isle of Man Government service over the internet we may ask you to share personal information with us.
 
-Personal data that you provide to us will be processed in accordance with the [Data Protection Act 2002 ](http://www.gov.im/lib/docs/infocentre/acts/dpa2002.pdf)of the Isle of Man. The Information Systems Division of the Treasury of the Isle of Man Government will be the Data Controller of your personal data for the purposes of the Act.
+When we collect your personal information we will:
 
-We need this data to help us to provide details of our goods and services and for research purposes. Data collected in certain circumstances may be transferred to other departments, boards and offices within the Isle of Man Government. In addition it may be necessary to transfer personal data to Associated Businesses. 
-
-Where it is lawful to do so, we may share personal data that you provide to the Isle of Man Government and to Associated Businesses. We and those Associated Businesses may contact you (by mail, e-mail, telephone or other appropriate means) in order to provide the goods and services for which the Isle of Man Government is responsible. 
-
-The information that you supply will be held and used for the purposes of administration by us and by Associated Businesses. The information that you supply may also be used by us and by Associated Businesses for accounting, statistical, or marketing purposes, and may be transmitted by any usual means including the Internet. If you do not wish to be contacted for marketing purposes please contact the Data Protection Co-ordinator at the address below.
-
-Any communication you make with the Isle of Man Government or with an individual on the Isle of Man Government’s website may be monitored for quality control and security purposes. 
-
-In accordance with data protection legislation as it applies to the Isle of Man Government, we will provide a means for you to check and where appropriate amend the personal data about you which we have recorded. Any person wishing to access their personal data should write to: 
-
-Name: |   
----|---  
-Address: | 
-
-The Data Protection Co-ordinator
-
-Treasury Internal Audit Division
-
-Heywood House
-
-Ridgeway Street
-
-Douglas
-
-Isle of Man
-
-British Isles  
-  
-Post Code: | IM1 1EW  
-Isle of Man Government may charge a fee of up to a maximum of £10 to process a personal data request.
-
-For your convenience the Isle of Man Government has included links on this Site to other websites that the Isle of Man Government believes you may find useful. These websites will each have their own privacy statement, which may differ from that of the Isle of Man Government. Therefore please ensure, when you click on any of these links, that you read the privacy statement located on the website you have selected. Any websites connected with this Site are not within the control of the Isle of Man Government. 
-
-  * By using this Site, you are agreeing to the collection and use of any personal information sent to the Isle of Man Government in accordance with our privacy statement. 
-  * Before you provide the Isle of Man Government with any personal data about a third party you must obtain the correct authority from the individual concerned and undertake to keep that individual advised about how the information of that individual will be used. 
+  * only collect what we need and no more
+  * keep your information secure
+  * tell you how we will use your information
+  * delete your information when it is no longer needed
+  * only process your information in line with rules set out in the [Data Protection Act 2018](https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/2018/2018-0010/DataProtectionAct2018_1.pdf)
 
 
+
+When you give personal information the Privacy Notice of the Department, Board or Office that collects the information will explain:
+
+  * What information is collected and why
+  * Who is collecting it
+  * How it is collected
+  * Why it is being collected
+  * How it will be used
+  * How long it will be kept
+  * Who it will be shared with
+  * How that information will be kept secure
+  * Your choices, including how to access and update information
+
+
+
+This notice may be replaced, or more information added, when you use a specific service. For example if you file a Tax Return, pay your Rate Demand or apply for a Driving Theory Test, information about the provider of that service and your rights will be available. 
+
+If we decide to change our Privacy Policy we will post changes to this Privacy Notice. If you have any questions or comments on this Privacy Notice please email the Cabinet Office [Data Protection Officer](https://web.archive.org/about-the-government/data-protection-gdpr-on-the-isle-of-man/iomg-data-protection-officers/ "DPO Contact Officer list"). 
+
+Contact the Data Protection Officer for the Cabinet Office:
+
+Email: [DPO-CabOff@gov.im](mailto:DPO-CabOff@gov.im "Cabinet Office DPO")  
+
+Phone: +44 1624 686779
+
+Postal address: DPO, Cabinet Office, Government Office, Buck's Road, Douglas, IM1 3PN, Isle of Man, British Isles
