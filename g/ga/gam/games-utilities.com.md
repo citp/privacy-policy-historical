@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the games-utilities.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531032514id_/http%3A//www.games-utilities.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games-utilities.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130090654id_/http%3A//www.games-utilities.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Games Utilities
+# Privacy Policy - Games UtilitiesGames Utilities
 
 At Games-Utilities.com, the privacy of our visitors is of extremely importance to us. This privacy policy document outlines the types of personal information is received and collected by Games-Utilities.com and how it is used.
 
