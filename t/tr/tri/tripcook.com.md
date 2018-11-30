@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tripcook.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531231331id_/http%3A//tripcook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripcook.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130011444id_/http%3A//tripcook.com/privacy.html) for the most accurate reproduction.*
 
 # TripCook: Privacy
-
-### Privacy Policy of Tripcook
 
 Tripcook respects the privacy of all who visit **tripcook.com** and use our services.
 
