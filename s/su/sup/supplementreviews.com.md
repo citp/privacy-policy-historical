@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the supplementreviews.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630035302id_/https%3A//supplementreviews.com/articles/sr-help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplementreviews.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130231003id_/https%3A//supplementreviews.com/articles/sr-help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SupplementReviews.com
 
-This Site is operated by Muscle Media, Inc. ("Muscle Media"). This Privacy Policy explains how this Site treats "personal information" that we gather from visitors and how we use it. Please, also read our Terms of Use for better understanding of Privacy Policy.
+November 14, 2014 // In [SR Help](https://supplementreviews.com/articles/sr-help) // By [](https://supplementreviews.com/users)   
+
+
+This Site is operated by Roar Ambition Ltd. ("Roar Ambition"). This Privacy Policy explains how this Site treats "personal information" that we gather from visitors and how we use it. Please, also read our Terms of Use for a better understanding of Privacy Policy.
 
 "Personal Information" is information that is personally identifiable like a name, e-mail address, or other information that we can reasonably link to such information.
 
@@ -46,8 +49,8 @@ This Site is operated by Muscle Media, Inc. ("Muscle Media"). This Privacy Polic
 
 6\. Terms of Use. Nothing herein waives, limits or in any way modifies our Terms of Use. This Site is not directed to, nor does it knowingly collect any personal information from children under 18. If a child who we know to be under age 18 sends personal information to us online, we will only use that information to respond directly to that child, notify parents or seek parental consent.
 
-7\. Opt Out Rights. By using this website you agree to the terms of this Privacy Policy and collection and use of your personal information by Muscle Media as specified above. If at any time after visiting the Site, you change your mind about receiving information from the Site or sharing your personal information as described in this Privacy Policy, you may request an opt out, by contacting us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+7\. Opt Out Rights. By using this website you agree to the terms of this Privacy Policy and collection and use of your personal information by Roar Ambition as specified above. If at any time after visiting the Site, you change your mind about receiving information from the Site or sharing your personal information as described in this Privacy Policy, you may requopt-outopt out, by contacting us at: SupplementReviews.com@SupplementReviews.com.
 
-Questions or Additional Information ~ If you have any questions about this Policy, or if you would like additional information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c497b1b4b4a8a1a9a1aab096a1b2ada1b3b7eaa7aba98497b1b4b4a8a1a9a1aab096a1b2ada1b3b7eaa7aba9).
+Questions or Additional Information ~ If you have any questions about this Policy, or if you would like additional information, please contact us at [SupplementReviews.com@SupplementReviews.com](mailto:SupplementReviews.com@SupplementReviews.com).
 
 Last Updated: April, 2016
