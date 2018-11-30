@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbusinessbrief.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512195457id_/http%3A//www.smallbusinessbrief.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusinessbrief.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130061539id_/http%3A//www.smallbusinessbrief.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -8,7 +8,7 @@ Our postal address is
 **17531 Hamilwood Dr.  
 Houston, Texas 77095**
 
-We can be reached via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0d7a686f606c7e79687f4d7e606c61616f787e6463687e7e6f7f64686b236e6260)
+We can be reached via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1a6d7f78777b696e7f685a69777b7676786f6973747f69697868737f7c34797577)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
