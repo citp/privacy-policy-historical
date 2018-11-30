@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qanvast.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025202720id_/https%3A//qanvast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qanvast.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130182030id_/https%3A//qanvast.com/sg/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Qanvast | Home Design, Renovation, Remodelling & Furnishing Ideas
+# Privacy Policy | Qanvast - Interior Design & Renovation Ideas
 
 **Qanvast is committed to protecting the privacy of visitors to this site (the "Site").** This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
