@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the brighttalk.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120071609id_/https%3A//corp.brighttalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighttalk.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130154314id_/http%3A//business.brighttalk.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BrightTALK Business
-
-### BrightTALK Privacy Policy
-
-_(date of last revision: October 12 th 2017)_
 
 BrightTALK recognizes that privacy is important when using the Web for communications. This policy explains how BrightTALK collects, stores, uses and shares Personal Data.
 
@@ -65,7 +61,7 @@ This Policy may be amended or updated from time to time to reflect changes in ou
   * _Our Site:_  operating and managing our Site; providing content to you; displaying advertising and other information to you; and communicating and interacting with you via our Site.
   * _Provision of services to you:_  providing our Site and other services to you (including suggesting content that may be of interest to you, based on your past activity); communicating with you in relation to those services; recommending content that may be of interest to you; and recommending your content to others.
   * _Marketing communications:_  communicating with you via any means (including via email, telephone, text message, social media, post or in person) news items and other information in which you may be interested, subject to ensuring that such communications are provided to you in compliance with applicable law.
-  * _Disclosing Personal Data to our customers:_  in accordance with the provisions of this Policy and applicable law, we may disclose certain Personal Data to our customers. With your prior express consent, we may provide your personal data to our customers for the purposes of enabling them to contact you with information that may be of interest to you.
+  * _Disclosing Personal Data to our customers:_  in accordance with the provisions of this Policy and applicable law, we may disclose certain Personal Data to our customers. With your prior express consent, we may provide your personal data to our customers for the purposes of enabling them to contact you with information that may be of interest to you. Additionally, our Customers may contact you with information that may be of interest to you provided that such communication is not otherwise in breach of applicable laws.
   * _Communications and IT operations:_  management of our communications systems; operation of IT security; and IT security audits.
   * _Health and safety:_  health and safety assessments and record keeping; and compliance with related legal obligations.
   * _Financial management:_  sales; finance; corporate audit; and vendor management.
@@ -141,15 +137,11 @@ If you have any comments, questions or concerns about any of the information in 
 
 #### Support Department
 
-#### BrightTALK Inc.
-
-#### 501 Folsom Street
-
-#### San Francisco
-
-#### CA 94105
-
-#### USA
+#### BrightTALK Inc.  
+100 Montgomery  
+19th Floor  
+San Francisco, CA 94105  
+USA
 
 #### support@brighttalk.com
 
