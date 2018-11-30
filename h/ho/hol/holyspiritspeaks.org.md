@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holyspiritspeaks.org privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604162801id_/https%3A//www.holyspiritspeaks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holyspiritspeaks.org privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130181443id_/https%3A//www.holyspiritspeaks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GOSPEL OF THE DESCENT OF THE KINGDOM
 
@@ -28,7 +28,7 @@ The information we collect is to provide excellent quality service to all of our
 
 1) Email Communication. We record your email information only in order to contact you via email.
 
-2) Statistical Analysis. We learn how users use our websites by creating statistics from Apache Httpd access logs and combining them with Google Analytics.
+2) Statistical Analysis. We learn how users use our websites by creating statistics from Nginx Httpd access logs and combining them with Google Analytics.
 
 We will analyze the information including the daily number of visitors of the websites (IP address numbers) or the number in a period of time, the number of page views, time on each page, the website bounce rate, the user geography distribution, the percentage of access devices, the browser preferences, how the users get to our websites (by typing the address directly, by searching, or by clicking links on third parties like Facebook and Twitter) and the percentage. This allows us to analyze site traffic, improve the user experience accordingly, and promote our sites (SEO and promotion on the third platforms like Facebook and Twitter).
 
