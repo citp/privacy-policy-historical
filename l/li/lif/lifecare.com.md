@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifecare.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609193940id_/http%3A//www.lifecare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifecare.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130102507id_/https%3A//www.lifecare.com/privacy-policy) for the most accurate reproduction.*
 
-# LifeCare Privacy Policy - LifeCare
+# LifeCare Privacy Policy - Lifecare
 
 This privacy policy will advise you about how we protect your personal information. Please read this policy carefully. This policy applies to your use of all of the sites and services owned or operated by LifeCare and any other site that we may own or operate currently or in the future (collectively, the “LifeCare Sites”). Unless we say otherwise, all references to the LifeCare Sites in this policy include all such sites. This policy does not apply to any sites other than the LifeCare Sites.
 
