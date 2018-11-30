@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the build-your-website.co.uk privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422115528id_/http%3A//www.build-your-website.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build-your-website.co.uk privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130202857id_/http%3A//www.build-your-website.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,8 +26,7 @@ Such tracking is done directly by the third parties through their own servers an
 In particular this site use Google Adsense and,
 
   * Google, as a third-party vendor, uses cookies to serve ads on this site.
-  * Google’s use of the DART cookie enables it to serve ads to users based  
-on their visit to this site and other sites on the Internet.
+  * You can find out about Google privacy policies and control your ad settings [here](https://policies.google.com/technologies/partner-sites).
 
 
 
@@ -66,3 +65,23 @@ Your use of this site indicates acceptance of this privacy policy.
 
 Concerns or questions about this privacy policy can be directed to  
 the webmaster by using the [contact form](http://www.build-your-website.co.uk/contact).
+
+### Affiliate Programs
+
+www.build-your-website.co.uk uses affiliate programs for monetization, which means when you click on links to various merchant sites that I recommend in my articles and make a purchase, this can result in a commission that is credited to this site.
+
+Affiliations include, but are not limited to, Commission Junction, SiteSell, Amazon.com, Bluehost and 1and1 Hosting.
+
+I only recommend products that I use, have used or have thoroughly researched. I do not do any paid reviews.
+
+www.build-your-website.co.uk and the owner assume no liability for products purchased outside of www.build-your-website.co.uk.
+
+Third-Party & Sponsor Ads
+
+Google Adsense is also used for monetization. Ads appear in various locations and they are labeled with “Ads by Google”. www.build-your-website.co.uk does not personally endorse the products and services advertised in these ads.
+
+These companies are not affiliated with www.build-your-website.co.uk. The only affiliation present is the one between www.build-your-website.co.uk and Google. In other words, commissions/profits are generated from Google for displaying these ads.
+
+If you have questions about any affiliations on this website, please don’t hesitate to contact me. I’ll be more than happy to clarify or provide additional details if necessary.
+
+www.build-your-website.co.uk  assumes no liability for products purchased from third-party websites or sponsor ads. Please make sure you read the terms and conditions of any product you purchase.
