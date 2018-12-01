@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crust.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313001705id_/https%3A//www.crust.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crust.com.au privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201053026id_/https%3A//www.crust.com.au/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Our Terms & Conditions - Crust.com.au
 
@@ -51,8 +51,6 @@ If you have any queries or concerns about your personal information or if you wo
 ### Delivery Policy
 
 Crust take great care with delivering your orders. Please ensure the address you have supplied is correct as redelivery will incur a fee. We are unable to accept responsibility for non delivery if you have supplied the incorrect address and time. 
-
-There is a $4.50 delivery fee applicable on all deliveries unless you have become a member of the VIPP Club. 
 
 Standard delivery time is approx 45minutes. This may vary depending on the volume of orders placed at the time of your order. 
 
