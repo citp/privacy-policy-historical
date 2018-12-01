@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the festhome.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630105031id_/https%3A//festhome.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festhome.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201042239id_/https%3A//festhome.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -135,7 +135,7 @@ Please let us know if the personal information that we hold about you is in need
 
 * ### Contact
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to support@festhome.com
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to help@festhome.com
 
 * ### Data controller
 
