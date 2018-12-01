@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crabtree-evelyn.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602070040id_/http%3A//www.crabtree-evelyn.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crabtree-evelyn.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201010042id_/http%3A//www.crabtree-evelyn.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
