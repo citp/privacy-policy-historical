@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reshareworthy.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630164443id_/http%3A//www.reshareworthy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reshareworthy.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201085843id_/http%3A//www.reshareworthy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Reshareworthy
 
