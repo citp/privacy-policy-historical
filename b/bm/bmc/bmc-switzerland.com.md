@@ -1,92 +1,126 @@
-> *The following text is extracted and transformed from the bmc-switzerland.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904070751id_/https%3A//www.bmc-switzerland.com/us-en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmc-switzerland.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201141658id_/https%3A//www.bmc-switzerland.com/us-en/privacy) for the most accurate reproduction.*
 
 # Data privacy statement - BMC Switzerland
 
-The company **BMC Switzerland AG** , based in Grenchen (Switzerland), operates the internet domain bmc-switzerland.com and the services offered there for the companies comprising the entire BMC group (hereinafter referred to as BMC). On this basis, BMC is responsible for the collection, processing, and usage of the user's personal information, as well as for the compliance of said data processing with Swiss law. 
+## Data Protection Policy, BMC Switzerland AG
 
-Based on Article 13 of the Swiss Federal Constitution and the federal provisions on data protection (Data Protection Act, [Datenschutzgesetz, DSG]), every person is entitled to protection of their privacy, as well as the protection against the misuse of their personal data. 
+The protection and security of personal data is a top priority for BMC Switzerland AG, Sportstrasse 49, 2540 Grenchen (hereinafter "BMC"). We place great value on openness and transparency. This Data Protection Policy will provide you with information on the nature, scope, and purpose of personal data processed by us. In addition, it contains information concerning your rights. 
 
-As a matter of course, BMC complies with these provisions. Therefore, BMC provides information on the scope and handling of collected and stored data below. 
+Personal data is information that relates to an identified or identifiable individual ("data subject"). "Processing" means any process, performed with or without the aid of automated processes, in connection with personal data, such as collection, recording, storage, adaptation or alteration, retrieval, use, disclosure by transmission, dissemination or otherwise making available, or erasure. 
 
-Use of BMC's website is generally possible without specifying any personal data. However, for certain services, the user will be required to provide some personal information. Personal information BMC collects about users, customers, or prospective customers may include:
+The responsible person is defined as the natural or legal person that determines the purposes and means of processing personal data. 
 
-  * name
-  * address(es)
-  * email
-  * address(es)
-  * phone number(s)
-  * personal data, such as gender, size, weight, age, etc.
-  * purchase information
-  * payment information
-  * information about participation in surveys, contests, and events
-  * information included in correspondence (letters, phone calls, emails, faxes, instant messaging, etc.)
+Presently responsible is:  
+ **BMC Switzerland AG**  
+Sportstrasse 49   
+2540 Grenchen Switzerland   
+Tel.: +41 79 1719 94 91   
+E-mail: [[email protected] ](mailto:privacy@bmc-switzerland.com "privacy")  
+Website: [www.bmc-switzerland.com](https://www.bmc-switzerland.com/)
 
+Any person who is a data subject of our data processing can contact our data protection officer directly in case of a question or a request regarding data protection. This is: 
 
+  
+Armin Amsler   
+c/o BMC Switzerland AG   
+Sportstrasse 49   
+2540 Grenchen   
+Switzerland   
+Tel.: +41 32 654 14 54   
+E-mail: [[email protected]](mailto:privacy@bmc-switzerland.com "privacy")
 
-BMC may also collect information from third party providers to identify prospective customers that may be interested in bikes and bike products. 
+BMC can process the following categories of personal data. In doing so, BMC does not process any more personal data than is necessary. 
 
-Furthermore, by accessing the BMC website, the following clickstream data is automatically stored:
+BMC processes customer data. By this we mean, in particular: 
 
-  * IP address
-  * date, time
-  * general information about the operating system and the browser, as well as their language and country settings
-  * information about the usage of BMC's online services (see also 'Web analysis tools' section below)
-  * usage data for social network plugins, such as Facebook, Twitter, Instagram, YouTube, etc. (see also 'Use of social network plugins' section below)
+\- Master and inventory data (e.g. name, address, date of birth, telephone number, gender, size, weight, age, contract number and duration, information concerning completed transactions, bank details) 
 
+\- Marketing data (e.g. requirements, wishes, preferences, information on participation in surveys, contests and events) 
 
+\- Technical data (e.g. internal and external identifiers, business numbers, IP addresses, records of accesses or amendments, e-mail addresses) 
 
-This usage data forms the basis for anonymous statistical evaluations so that trends can be recognised that BMC can use to improve its services accordingly. 
+\- Usage data of plugins from social networks like Facebook, Twitter, Instagram, YouTube, etc. (See also point 16 below). These usage data form the basis of anonymized statistical evaluations in order to identify trends which BMC can use to improve our offers accordingly. 
 
-Cookies are small text files that internet browsers automatically store on the user's computer when visiting BMC's website. Cookies neither damage the computer nor do they transfer personal data about the user to BMC, but they do help make the user's visit to the BMC website easier, faster, and more secure in many ways.
+BMC may also collect information from third parties to identify potential customers who may be interested in bicycles or bicycle accessories. 
 
-Most browsers automatically accept cookies. However, the user can configure their browser to automatically accept or block all cookies, or to request the user's permission each time a site attempts to set a cookie.
+BMC processes supplier data. By this we mean, in particular: 
 
-It should be noted that certain functionalities on BMC's website might not work properly if cookies cannot be stored.
+\- Master and inventory data (e.g. name, address, date of birth, telephone number, contract number and duration, information concerning completed transactions, bank details) 
 
-By using BMC's website, the user accepts the use of cookies.
+\- Marketing data (e.g. requirements, wishes, preferences) 
 
-In order to continuously improve and optimise BMC's online services, so-called web analysis tools are used. Web analysis tools are used by BMC for marketing and analysis purposes. They provide statistics and graphs that generate insights about certain anonymised demographic information, as well as certain usage patterns of BMC's website. 
+\- Technical data (e.g. internal and external identifiers, business numbers, IP addresses, records of accesses or amendments, e-mail addresses) 
 
-Web analysis tools are normally external software solutions hosted on the servers of the software provider. Depending on the provider of the web analysis tools, these servers may be abroad. 
+The duration of storage of personal data is determined by statutory retention obligations (depending on the applicable legal basis, these are five, ten, or more years), or by the purpose of the data processing concerned. 
 
-The BMC website primarily uses Google Analytics for web analysis. In order to analyse BMC's website usage patterns, data about BMC's website usage is transferred to the Google Analytics servers. 
+BMC may process the personal data described in point 4 for the execution of its own services as well as for its own or legally intended purposes. This includes in particular the implementation and execution of contracts, planning and product development, marketing, market research, comprehensive support, advice and information on the provision of services, preparation and delivery of tailored services, legal or regulatory informing or reporting obligations to courts and authorities, and compliance with official regulations.
 
-Further information about Google Analytics' data privacy statement can be found under '[Google Analytics Help: Data privacy](https://support.google.com/analytics/answer/6004245?hl=en "Google Analytics Help: Data privacy")'. 
+Data processing is lawful, insofar as the processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract. This is the case, for example, for processing operations that are necessary for the supply of goods or the provision of other services or considerations. The same applies to such processing operations as are required for the implementation of precontractual measures in cases of questions about our products or services. 
 
-This data collection by Google Analytics can also be disabled by the user. Further information can be found under '[Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout?hl=en "Google Analytics Opt-out Browser Add-on")'. 
+In addition, data processing is lawful if the data subject has given their consent to the processing or if the processing is necessary for the fulfillment of a legal obligation on the part of BMC. Further, data processing is lawful if it is necessary to protect the legitimate interests of BMC or a third party, which may be the case, for example, if the data subject is a customer of BMC. In addition, data processing is lawful if the vital interests of a natural person are to be protected or if the processing is necessary for the performance of a task which is in the public interest. 
 
-BMC cannot link Google Analytics' anonymised demographic information with the personal data of its own customers.
+Your personal data provided to us will be secured by taking technical and organizational security measures in such a way that they are inaccessible to unauthorized third parties. These security measures are continually adapted and improved as new technology develops. 
 
-Personal information is treated as strictly confidential and is not sold to third parties. The transfer of personal information only occurs with the explicit agreement of the user, under legal obligations, or if this is necessary to enforce BMC's rights. In addition, BMC shall only transfer personal information to third parties (e.g. business partners of BMC) – if necessary – in the course of answering queries or performing requested services.
+BMC will not sell, disclose, or otherwise distribute your personal information to third parties except as described in this data protection policy. We may share your personal information with other BMC global affiliates if they agree to treat the data in accordance with this data protection policy. 
 
-Furthermore, personal information may be disclosed to website hosting companies and web agencies that support BMC with respect to the design, development, analysis, and operation of the website. These companies use this personal information solely for the performance of these specified tasks and shall be bound by non-disclosure agreements. 
+Your personal data may also be passed on to third parties (e.g. business partners of BMC) who act for us or on our behalf, in order for them to further process the data for the purpose/purposes for which the data were originally collected, or for other legally permissible purposes. These third parties have contractually committed to use personal data for the agreed purposes only, not to sell to other parties, and not to disclose to other parties, unless this is legally required, permitted by us or described in this data protection policy. Personal data can be transferred to hosting companies and web agencies, which support BMC in the design, development, analysis, and operation of the website. These companies use the personal data only to perform the described work and are obligated to treat the data confidentially.
 
-BMC shall provide users access to the personal information BMC maintains about them so long as BMC has access to that information in a legible format. BMC shall also work with users to correct any personal information should it be inaccurate, or to delete it completely. It should be noted that for corrections and deletions, a written request must be sent to BMC headquarters in Grenchen (Switzerland), along with appropriate proof of identity.
+Personal data may also be disclosed to third parties if we are required to do so by law, by injunction or by official regulations, or in support of criminal or legal investigations, or other legal investigations or proceedings in Switzerland or abroad.
 
-BMC shall provide users access to the personal information BMC maintains about them so long as BMC has access to that information in a legible format. BMC shall also work with users to correct any personal information should it be inaccurate, or to delete it completely. It should be noted that for corrections and deletions, a written request must be sent to BMC headquarters in Grenchen (Switzerland), along with appropriate proof of identity.
+You can ask BMC for information about whether or not personal data is processed about you. If this is the case, we will inform you of the personal data held about you in our database, including the information available on the origin of the data, the purpose and, where applicable, the legal basis for processing and the categories of processed personal data, those involved in the collection and the data recipient. You further have the right to rectification, a right to deletion of personal data (right to be forgotten), a right to limitation of processing, a right to data transferability, and the right to revoke a data protection consent. All requests for information and other concerns regarding data protection will be handled by our data protection officer (cf. point 3). 
 
-By registering for a BMC newsletter at [www.bmc-switzerland.com](http://www.bmc-switzerland.com/us-en/ "Home"), the user has agreed for BMC to process their registered personal data for promotion activities, such as sending out emails of a promotional nature, delivering customised advertising, etc. 
+When you visit the BMC website, the web server automatically records log files that cannot be assigned to any particular person. These data include, for example, the browser type and version, operating system used, referrer URL (previously visited page), IP address of the requesting computer, access date and time of the server request, and the client's file request (file name and URL). These data are collected solely for statistical analysis purposes. We will not disclose these data to third parties for commercial or noncommercial purposes.
 
-The despatch of emails only takes place following a corresponding user request (registration). The user's email address may be used by BMC until the user unsubscribes from the particular email list(s). Unsubscription may take place at any time. Information on unsubscribing is included at the bottom of each email. 
+When you register your BMC bike on our website, we will use your information as follows: 
 
-BMC is entitled to engage third parties with the technical processing of promotional activities and to disclose the user's data for this purpose.
+BMC uses the data to provide you with the best possible warranty service, or to meet your contact requirements. There will be no further use of your personal data. Your personal data will not be transmitted to third parties, and no use of your data for advertising purposes will take place unless you have expressly consented to it. By registering, you agree that your information will be stored and used for market research purposes. 
 
-Several social network functionalities from different social networks (Facebook, Twitter, Google+, YouTube, Instagram, etc.) are integrated into BMC's website. These functionalities are offered by the respective network providers in the form of so-called plugins. 
+You have the option of subscribing to our newsletter via our website. For this we need your e-mail address and your declaration that you agree to receive the newsletter. 
 
-By using BMC's website, the user's browser establishes a direct connection with the servers of the respective network providers to initiate the social plugins. By calling the plugins, the network providers will receive the information that the user is visiting BMC's website. If the user is simultaneously logged on to the social network of a network provider with a personal account, the network provider may assign this information to the corresponding user account. If the user additionally interacts directly with the plugins, the corresponding information - and other information, such as IP address, browser type, referring domains, visited pages, mobile operators, device and application IDs, etc. - may be directly sent to the network provider where it will most likely be stored. 
+To provide you with targeted information, we also collect and process voluntarily provided information about areas of interest. Your information may be stored and used for market research and advertising purposes. 
 
-BMC points out that, as the provider of the BMC website, BMC has no knowledge of the content of the data transferred or its use by respective network providers. Because their privacy statements are updated on a regular basis, BMC provides the links to the different regulations for the different network providers:
+You can cancel your subscription to the newsletter at any time. Please send your cancellation to the following e-mail address: [[email protected]](mailto:info@bmc-switzerland.com "info"). We will immediately delete your data in connection with sending the newsletter. 
 
-  * [Facebook Data Use Policy](http://www.facebook.com/about/privacy/ "Facebook Data Use Policy")
-  * [Twitter Privacy Policy](http://twitter.com/privacy/ "Twitter Privacy Policy")
-  * Google+ - [Google Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy Policy")
-  * YouTube - [Google Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy Policy")
-  * [Instagram Privacy Policy](http://instagram.com/about/legal/privacy/ "Instagram Privacy Policy")
-  * [Disqus Privacy Policy](http://help.disqus.com/customer/portal/articles/466259-privacy-policy "Disqus Privacy Policy")
-  * [AddThis Privacy Policy](http://www.addthis.com/privacy/privacy-policy "AddThis Privacy Policy")
+Our website uses "session cookies" to facilitate your use of our website. These are small text files stored on your hard drive only for the duration of your visit to our website and, depending on the setting of the browser program, deleted when you exit the browser. These cookies do not retrieve information stored on your hard drive, nor do they interfere with your PC or files. Most browsers are automatically set to accept cookies. You can, however, deactivate the storage of cookies or set your browser to notify you when cookies are sent.
 
+The BMC website uses Google Analytics, a web analysis service of Google Inc. ("Google"). Google Analytics uses "cookies". These are text files that are stored on your computer and which enable an analysis of your use of the website. The information generated by the cookie about your use of the website (including your IP address) is transmitted to a Google server in the U.S. and stored there. Google will use this information to evaluate your use of the website, to compile reports on website activity for its operators and to provide other services related to website activity and internet usage. Google will also transmit this information to third parties, insofar as this is required by law or if third parties process this data on behalf of Google. Google will not under any circumstances associate your IP address with any other data held by Google. You may block the use of cookies by selecting the appropriate settings on your browser. However, please be advised that if you opt out of using cookies, you may not be able to use all the features of this website to their fullest extent. By using this website, you agree that the data that Google collects about you may be processed as described above and for the purpose described above. Furthermore, you can prevent the collection of data generated by the cookie and related to your usage of the website (including your IP address) and the processing of the data by Google by downloading and installing the browser plugin available via the following link: [[http://tools.google.com/dlpage/gaoptout?hl=de]](https://tools.google.com/dlpage/gaoptout?hl=en). 
 
+There are social networking functions from various social networking sites (Facebook, Twitter, Google+, YouTube, Instagram, etc.) embedded in the BMC website. These functions are provided by the respective network providers in the form of plugins. 
 
-With the usage of the BMC website or the services offered there, the user agrees that BMC may process, store, and evaluate their data in accordance with this data privacy policy. Data is solely used for the aforementioned purposes.
+When using the BMC website, the user's browser creates a direct connection with the computers of the respective network provider to initiate the social plugins. The network providers receive information via the plugin activation that the user is on the BMC website. If the user is logged on to the network provider with a personal account at the same time, the network provider can assign the visit to the corresponding user profile. If in addition the user interacts directly with the plugins, the relevant information and possible further information (e.g. IP address, browser type, retrieved domains, visited pages, mobile phone providers, device and application IDs, etc.) may be transmitted directly to the network provider and stored there. 
 
-It should be noted that the data privacy statement on this page may be adjusted from time to time. BMC therefore recommends that the user consult this page regularly.
+Please note that, as the operator of this website, BMC has no knowledge of the content of the data transmitted or of how each network provider uses this data. Due to continuous updating of the data protection policies of the various network providers, the links to the current regulations of the various network providers are listed here: 
+
+• [Facebook Data Use Policy ](https://www.facebook.com/about/privacy/)
+
+• Facebook Pixel 
+
+• [Twitter Privacy Policy ](https://twitter.com/en/privacy)
+
+• Google+ - [Google Privacy Policy ](https://policies.google.com/privacy)
+
+• YouTube - [Google Privacy Policy ](https://policies.google.com/privacy)
+
+• [Instagram Privacy Policy ](https://help.instagram.com/155833707900388)
+
+• [Disqus Privacy Policy ](https://help.disqus.com/terms-and-policies/disqus-privacy-policy)
+
+• [AddThis Privacy Policy ](https://www.addthis.com/privacy/privacy-policy)
+
+• [Hotjar ](https://www.hotjar.com/legal/policies/privacy)
+
+• Pingdom (Uptime statistics) 
+
+• Turn Inc. (Affiliate Marketing) 
+
+• [Embedly Privacy Policy](https://embed.ly/legal/privacy)
+
+• [CloudFlare (CDN) Privacy Policy ](https://www.cloudflare.com/privacypolicy/)
+
+• Contentfry 
+
+The person responsible for processing collects and processes the personal data of applicants for the purpose of processing the application procedure. The processing can also be done electronically. This is particularly the case when an applicant transmits corresponding application documents to the responsible person by electronic means, for example by e-mail. If the responsible person concludes an employment contract with an applicant, the transferred data will be stored for the purpose of processing the employment relationship, in compliance with the legal regulations. If the responsible person does not conclude an employment contract with the applicant, the application documents are automatically deleted six months after the notification of the rejection decision, provided that the deletion is not contrary to other legitimate interests of the responsible person.
+
+Parts of this data protection policy may be modified or updated by us without prior notice to you. Please check the data protection policy each time you visit our website, to ensure you are up to date on any changes or updates. 
+
+Last updated: May 2018.
