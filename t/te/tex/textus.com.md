@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the textus.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712150757id_/http%3A//textus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textus.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201095549id_/http%3A//textus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TextUs™
+# Privacy Policy | TextUs
 
 Text Us Services, Inc. (“ **Company** “) appreciates your trust and is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you what data we collect, why we do so, and what we do with it. It applies to the personal information we collect from users of our website located at https://app.textus.com/ (the “ **Site** “), our Application Program Interfaces (collectively the “ **API** “), our downloadable software applications (to include mobile applications) (each, an “ **Application** “), and online services available therein (the “ **Services** “).
 
