@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gethue.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627021455id_/http%3A//gethue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gethue.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201111001id_/http%3A//gethue.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hue, the self service open source Analytics Workbench for browsing, querying and visualizing data interactively
 
