@@ -1,28 +1,26 @@
-> *The following text is extracted and transformed from the shalusharma.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529233629id_/http%3A//www.shalusharma.com/privacy-policy-disclaimer-and-discloser) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shalusharma.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201061904id_/http%3A//www.shalusharma.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy, disclaimer and Affiliate discloser
+# Privacy Policy - Holiday and Travel Guide to India
 
-Our website address is: **http://www.shalusharma.com**
+## Who we are
 
-The materials found on ShaluSharma.com, are provided “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED.
+Our website address is: http://www.shalusharma.com.
 
-ShaluSharma.com is an India related information site has been developed as a free service. Like any other service, in spite of our best efforts the information in this Web Site may become out of date over time.
+## What personal data we collect and why we collect it
 
-Nothing on this Web Site should be construed as the giving of advice or the making of a recommendation and it should not be relied on as the basis for any decision or action. This site or its owners accepts no liability for the accuracy or completeness or use of, nor any liability to update, the information contained on this Web Site.
-
-What personal data we collect and why we collect it
-
-**Comments**
+### Comments
 
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-**Media**
+### Media
 
 If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-**Cookies**
+### Contact forms
+
+### Cookies
 
 If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
@@ -32,30 +30,56 @@ When you log in, we will also set up several cookies to save your login informat
 
 If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-**Embedded content from other websites**
+### Embedded content from other websites
 
 Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
 These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-**How long we retain your data**
+### Analytics
+
+## Who we share your data with
+
+## How long we retain your data
 
 If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
 For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-**What rights you have over your data**
+## What rights you have over your data
 
 If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-**Affiliate discloser**
+## Where we send your data
 
-Sometimes I might use affiliate links on this site. This will always be related to the post and something that will benefit the reader. If you buy something from the link, I will get paid a certain commission. I make sure the product is suitable and something that might be useful for the reader. I do not use cloaker of any kind.
+Visitor comments may be checked through an automated spam detection service.
 
-**Cookies**
+## Your contact information
 
-When someone visits this site, certain standard Internet information and details of visitor behavior are collected to help determine certain things such as, how many people visit this site, where from etc. This is done by using cookies, small text files placed on your computer via your web browser. These types of cookies are widely used by nearly all online services to help systems remember visitors and their preferences. They can be very useful at making your online experience more customized and personalized when you return to visit.
+## Additional information
 
-**Our contact information**
+### How we protect your data
+
+Your date is never shared with anyone.
+
+### What data breach procedures we have in place
+
+No one is allowed to see or no one has access to details other than the webmaster.
+
+### What third parties we receive data from
+
+N/A
+
+### What automated decision making and/or profiling we do with user data
+
+N/A
+
+### Industry regulatory disclosure requirements
+
+You will find some affiliate links within posts particularly from Amazon affiliate programme.
+
+### **Our contact information**
 
 info(at)shalusharma.com
+
+[](https://www.amazon.com/gp/product/1983540498/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1983540498&linkCode=as2&tag=youb0f-20&linkId=15281d419702d3c984d7dcaa74a4e61c)
