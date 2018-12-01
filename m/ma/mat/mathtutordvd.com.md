@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathtutordvd.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602015829id_/http%3A//www.mathtutordvd.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathtutordvd.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201063351id_/http%3A//www.mathtutordvd.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
