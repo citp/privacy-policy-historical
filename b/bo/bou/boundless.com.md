@@ -1,229 +1,229 @@
-> *The following text is extracted and transformed from the boundless.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708170039id_/https%3A//www.boundless.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boundless.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201134111id_/https%3A//www.boundless.com/privacy) for the most accurate reproduction.*
 
-# Boundless - Privacy
+# Boundless Immigration's Privacy Policy
 
-## PRIVACY POLICY
+* * *
 
-Effective Date: March 11, 2016.
+_The summaries of provisions under “More simply” are provided as a courtesy to help you understand this Privacy Policy, but they are not legally binding and do not modify this Privacy Policy in any way._
 
-Welcome to Boundless!
+* * *
 
-We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy discloses the privacy practices and policies of Boundless Learning, Inc. (“Boundless”, “we”, “us” or “our”) for use of boundless.com and its sub-domains (the “Website”) and for access to and use of any downloadable Boundless software or content through your use of an application for the administration, documentation, tracking, reporting and delivery of e-learning courses or training programs (an “LMS”) operated by your college, university or other educational institution (a “School”) and all related tools and services we make available to you from time to time (the “Services”). This privacy notice applies solely to information collected by us in connection with the Services. Your access and use of the Services is subject to this Privacy Policy and to our separate Terms of Service. Capitalized terms used but not defined in this Privacy Policy have the meanings assigned to them in the Terms of Service.
+Boundless Immigration Inc. (“Boundless”) provides this Privacy Policy to inform you about our practices concerning the collection, use and disclosure of your information. By using the website located at [www.boundless.com](https://web.archive.org/) (including all subdomains) (the “Site”) or the services provided by Boundless (the “Services”), you agree to the information practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you may not access or use the Site or Services. This Privacy Policy is incorporated into and subject to the Boundless [Terms of Use](https://web.archive.org/terms/). If you purchase Services that include independent attorney review, your relationship with the independent attorney will be governed by the [Attorney Agreement](https://web.archive.org/attorney-agreement/).
 
-This policy does not apply to the practices of entities that Boundless does not administer or control, including but not limited to your School, or to individuals that Boundless does not employ. The use of any information provided by you to your School through the LMS is governed by the privacy policy applicable to such School and your use of the LMS. Please check with your School prior to your use of the Services through the LMS to be sure you understand their privacy policies.
+### More simply
 
-Our Services are not directed to people who are under 13 years of age. If you become aware that your child or a minor for whom you are the guardian has provided us with information without your consent, please contact us at [support@boundless.com](mailto:support@boundless.com?subject=General%20Query). We do not knowingly collect information from children under 13. If we become aware that a child under 13 has provided us with information, we take steps to remove that information and terminate the applicable account.
+If you use the Boundless website or services, you are agreeing to these terms. If you don’t agree to the terms, you may not use the website or services.
 
-We may update this Privacy Policy at any time by posting a new Privacy Policy to our Website for users of the Public Areas of our Website and by requiring your acceptance of the revised Terms of Service when you access private portions of the Website or when you use the LMS to access the Services and shall be effective from the time of your next use of the Services after such posting or acceptance.
+* * *
 
-## 1\. Information We Collect.
+BOUNDLESS IS NOT A LAW FIRM, DOES NOT PROVIDE LEGAL ADVICE AND IS NOT A SUBSTITUTE FOR THE ADVICE OF AN ATTORNEY. YOUR USE OF THE SITE AND SERVICES, AND YOUR COMMUNICATION WITH BOUNDLESS, DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. YOUR COMMUNICATIONS WITH BOUNDLESS ARE NOT PROTECTED BY THE ATTORNEY-CLIENT PRIVILEGE. YOUR COMMUNICATIONS WITH THE INDEPENDENT ATTORNEY ARE GOVERNED BY THE [ATTORNEY AGREEMENT](https://web.archive.org/attorney-agreement/).
 
-### (i) PERSONAL INFORMATION.
+### More simply
 
-We collect and store information that you knowingly provide to us when you register or use the Services that specifically identifies you or can be used to identify you, such as your name, your mailing address and your e-mail address (“Personal Information”) and other information about you that is directly linked to your Personal Information.
+We are not a law firm, and information you provide to us is not protected by attorney-client privilege.
 
-### (ii) INFORMATION OTHER THAN PERSONAL INFORMATION.
+* * *
 
-We also collect and store information that is not Personal Information and is automatically generated when you use the Services. This type of information can include the nature of your use of the Services as well as your Internet protocol (IP) addresses, browser type, Internet service provider (ISP), browser version, referring/exit pages, operating system, date/time stamp and clickstream data, mobile carrier, device and application IDs and cookie information. A “cookie” is a piece of alphanumeric data stored on a visitor’s hard drive that enables us to improve your access to the Services and identify repeat visitors. IP addresses are automatically reported by your browser each time you view a web page. We also employ, and our third party advertising partners may employ, a software technology called clear gifs, also referred to as web beacons or web bugs, that help manage content on the Site by tracking what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ Personal Information.
+##  1\. Information We Collect 
 
-## 2\. How we Use the Information We Collect.
+* * *
 
-### A. We use Personal Information you knowingly submit for:
+**1.1. Personal Information**
 
-#### (i) REGISTRATION.
+When you use the Site or Services, we collect certain information from you which can be used to contact or identify you, including, but not limited to, your name, gender, date of birth, telephone number, postal address, and email address (“Identity Information”). If you place an order for Services and/or pay a fee, we will collect additional payment and billing information from you, including, but not limited to, your credit/debit card information or bank account information (“Billing Information”). If you place an order for Services, you may also be required to provide information or documents necessary for preparation or filing of forms or applications to be submitted to government agencies, and if you file an application, we may receive from the government a unique receipt number assigned to your application (“Application Information”). Together, your Identity Information, Billing Information and Application Information are referred to as “Personal Information.”
 
-In order to use many of the Services, you must first complete a registration form and provide us with Personal Information such as an email address and password (“Login Credentials”). During registration, you are required to create a user name and password and are required to give truthful contact information (such as name and email address) in accordance with our Terms of Service. We use this information to contact you about the Services in which you have expressed interest.
+### More simply
 
-#### (ii) SUBSCRIPTIONS; ORDERS.
+When you use the Boundless website or services, we collect certain information from you, including personal and billing information, and if you purchase our services, we may receive a unique receipt number from the government.
 
-If you purchase or subscribe to a fee-based Service or other products or services from us, you will be required to provide certain Personal Information on the transaction form. Currently, we use third party entities and credit card processing companies to collect your information and to process your payments for the Services (each, a “Third Party Payment Entities”). The transaction forms for the Third Party Payment Entities will require you to provide financial information (such as a credit card number, expiration date and account number), are provided by or generated from their websites and are subject to the terms and conditions set forth on form or such websites. You should always review the privacy policy and terms of services for each Third Party Payment Entity before using them. We are not responsible for the conduct of such Third Party Payment Entity.
+* * *
 
-Your purchases may also require you to provide us with contact information (such as name, email and shipping address). We use the Personal Information you provide to us to fill your orders. If we have trouble processing an order, we will use this information to contact you.
+ **1.2. Usage Data**
 
-#### SHARING INFORMATION WITH YOUR SCHOOL.
+We also automatically collect certain information regarding your access to and use of the Site and Services. This information includes, but is not limited to, your IP address, browser type, referring website URLs, log files, pages on the Site that you visit, and links you click on (“Usage Data”).
 
-If you access the Services through the use of your School’s LMS or other portals, the LMS or portal will share Personal Information about you with Boundless (such as the credentials required for your access via single sign-on), and Boundless will send back to the LMS or portal information about your use of the Services and your performance within the Services (e.g., how much of a reading assignment you have completed and when and the score on a quiz). The information provided will then be displayed in both your and the Instructor’s gradebook.
+### More simply
 
-We may also combine the Personal Information you submit to us under your account with information from other services or third parties in order to provide you with a better experience and to improve the quality of the Services. For certain Services, we may give you the opportunity to opt out of combining such information.
+We automatically collect certain information when you access and navigate our website, such as your browser type and the pages you visit.
 
-#### (iv) THIRD PARTY SOCIAL NETWORKING ACCOUNTS.
+* * *
 
-Boundless may enable you to connect to your Boundless account with your Facebook account or other third-party social networking site account information (“Third Party Social Networking Account”). By connecting to the Services with a Third Party Social Networking Account, you authorize Boundless and the third party social network service provider to share certain Personal Information about you with each other. We may receive and store information about you, but not limited to, your user ID associated with your Third Party Social Networking Account, and other information that you have permitted the third-party social network service provider to share with us, and any information you have made public in connection with that third party service. Your use of any third-party social network service provider is subject to its terms of service and privacy policy. You should always review, and if necessary adjust, your privacy settings on social network service providers and other third-party websites and services before linking or connecting them to the Service.
+ **1.3. Cookies**
 
-#### (v) SOCIAL NOTEBOOK; USER NOTES.
+Like many websites, we utilize devices to recognize you when you visit the Site, track your interactions with the Site, and personalize your experience. These include devices such as cookies, web beacons, pixels and similar devices. Cookies are small data files we transfer to your computer hard drive. We utilize some cookies that remain on your computer after you leave the Site so that we can recognize you when you return and provide a more personalized and helpful experience. We also utilize session cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor use of the Site by Boundless users and web traffic routing on the Site. Session cookies are deleted from your computer when you log off from the Site and close your browser. You maintain control over some of the information we collect through the use of cookies, and you can set your preferences regarding the use of cookies through your browser settings. If you choose not to accept cookies, you may not be able to access portions of the Site or all functionality of the Services.
 
-Part of the Services include a Social Notebook feature that permits users to take notes online and highlight text (collectively “User Notes”) while reading online and share such User Notes with other users. By submitting such User Notes through the Service you deem such User Notes as Content for public display on the Services, unless, you opt-out through your account settings by making your User Notes “private.” If made public, your User Notes may be displayed in our Public Areas. Otherwise, if your settings are private for User Notes, Boundless may use your User Notes on an aggregate basis by removing any Personal Information. You may not be able to view other users User Notes on the Website, if you make your own User Notes private.
+### More simply
 
-If you choose to create User Notes or post Content in our Public Areas or leave feedback for other users, we will collect the information you post through our Services. When you submit a message through the Services, certain information about your profile may also be associated with such message. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.
+We use small data files placed on your computer called “cookies,” and similar software, so that we can recognize you when you return to our website and personalize and improve your user experience. You can manage the use of cookies through your browser settings.
 
-#### (vi) DASHBOARD METRICS; SOCIAL ACTIVITY FEED.
+* * *
 
-Based on your privacy settings, we may make certain information about your use of the Services available for others to view on the Website from time to time, including, without limitation, which texts you have viewed or what Contributions you have made as well as your other uses of our Services as we describe on the Website from time to time. You may opt-out of this feature through your account settings by making your use of the Services “private.”
+ **1.4. EU Lawful Grounds**
 
-#### (vii) COMMUNICATIONS WITH INSTRUCTORS.
+If you reside in the European Economic Area or Switzerland (collectively the “EU”), we rely on the following lawful grounds under the General Data Protection Regulation (“GDPR”) to process (collect, store, and use) your personal data contained in Personal Information and Usage Data: (a) it is necessary for the performance of a contract with you; (b) our legitimate interests; and (c) your consent. If you are a customer, the lawful ground for processing your personal data is necessity in performing our contract to provide the Services to you; our legitimate interest in understanding, improving, and promoting our services; and your consent. If you visit or use our website, the lawful ground for processing your personal data is our legitimate interest in understanding how users interact with our website to improve our website and Services, and your consent.
 
-The Services may permit Instructors to interact with users of a particular class and may use Boundless as a forum to assist students through an LMS or outside of the School. An Instructor may view Restricted Public Areas for a particular class, as well as any other information that a user makes available to that Instructor. Boundless may provide an option for a user to select for certain information to share only with an Instructor. Boundless may add a feature to the Services for Instructors to assign study questions to certain users of a class. Instructors may be permitted to receive a summary of certain metrics from time to time regarding how certain users within a class are using the Services. Users who do not wish to participate in a class or share information with a particular Instructor may have an option to opt-out of the class as described on the Website from time to time.
+### More simply
 
-#### (viii) PROFILES.
+We only collect and use your personal data if we have a lawful basis for doing so.
 
-Upon registering on our Website, a user profile may automatically be created for you. Your profile name will be your first name and last initial unless otherwise set forth on the Website from time to time. You may select a profile photo to display with your profile information. Any Personal Information you choose to display on your profile may be viewed by other users when you post in Public Areas.
+* * *
 
-#### (ix) SURVEYS.
+##  2\. Use of Information We Collect 
 
-We may provide you the opportunity to participate in surveys on our Services. If you participate, we will request certain Personal Information from you. The requested information typically includes contact information (such as name and mailing address) and demographic information. We may use responses you provide us to surveys to monitor site traffic and to personalize our Services
+* * *
 
-We may cooperate with third parties to offer you surveys through our Services. When you participate in such surveys, you authorize us to share information about you, including Personal Information, with such third parties. If you have any questions or concerns regarding how such third parties use your information, please consult the applicable third party’s privacy policy. You agree that we will not be responsible or liable for any loss or damage incurred in connection with our cooperation with such third parties, their activities on our Services, and the sharing of your information with such third parties.
+**2.1. Account Creation**
 
-### B. We Use Other Information We Collect for:
+We use information you submit to us at the time of account registration, such as your name and email address, and any updated information you subsequently submit, such as a new email address, to create and maintain your account.
 
-We receive and record information which is not Personal Information on our server logs from your browser, including your IP address, cookies and the pages that you request and use the information for various research purposes, to delivering unique functionality to the Services and to provide information to our advertisers and investors. We also use this information, which does not identify individual users, to analyze trends, to administer the Services, to track users’ movements around the Services and to gather demographic information about our user base.
+ **2.2. Operation and Improvement of Our Business**
 
-We may link this automatically collected data to Personal Information. IP addresses may be tied to Personal Information to troubleshoot access issues and ban users by IP address from certain communities upon appropriate request.
+We use your information, including Personal Information, primarily to operate our business and provide the Services to you, including the completion of immigration forms. We use such information to personalize the Services we provide to you. We may use your information to verify your identity, for fraud prevention, to enforce the [Terms of Service](https://web.archive.org/terms/) and to protect the integrity of the Site. We may also use your information to develop new features or Services and to improve the quality of our Services.
 
-We may use a third-party tracking service that uses log files and cookies to track non- Personal Information about visitors to the Website in the aggregate. This service captures usage and volume statistics as well as geographical location data to compile usage reports and maps for optimization and troubleshooting purposes.
+ **2.3. Customer Service and Technical Support**
 
-By using the Services, you indicate your consent for Boundless and our affiliates to send cookies to your computer in order to uniquely identify your browser and to use the data gathered as set out in this Privacy Policy.
+We may use your information, including Personal Information, to respond to questions you have regarding use of our Services or to provide technical assistance.
 
-If you wish to restrict or block the cookies which are set by Boundless, or by any other website, you can do this through your browser settings. The Help function within your browser should tell you how to do so. For information on how to delete cookies on the browser of your mobile phone as applicable you will need to refer to your handset manual. You may turn off cookies in your browser although, in doing so, some or all of the Services may not work.
+ **2.4. Communications with You**
 
-We use clear gifs in our HTML-based emails to let us know which emails recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.”
+We may contact you using the contact information you provide in order to respond to inquiries you send to us, to communicate with you regarding our Services and the services of our partners, and to market our Services, or those of our partners, to you. If you are in the EU, we will only use your contact information to communicate with you regarding our partners’ services with your prior consent. We may send you emails advertising or promoting our Services or those of our partners. If you do not wish to receive such emails, you can choose to opt-out of receipt using the unsubscribe link within each email, or by sending an unsubscribe request to help@boundless.com.
 
-## 3\. Posting in Public Areas.
+ **2.5. Internal Research**
 
-Boundless may make discussion boards, forums and chat rooms (Public Areas) available to you through the Services. You participate in these Public Areas with the acknowledgement that any information you share will be available to other users, including any Personal Information that you share in Public Areas, subject to the level of Public Areas which you indicate when you provide the applicable Personal Information, if any such level restriction are then offered by Boundless. We may allow users to post content on the Services. If we make such a feature available, you post content at your own risk. We cannot control the actions of other users with whom you choose to share your information. Even after removal, copies of such content may remain viewable in cached and archived pages or if other users have copied or stored your content. Please see our Terms of Service.
+We may use information about you and other users, in aggregate form, for our own internal research and analytical purposes. For example, we may use certain types of your information to understand which features of our Services are being used most frequently.
 
-If you choose to post messages in our Public Areas or leave feedback for other users, we will collect the information you post through our Services. When you submit a message through the Services, certain information about your profile may also be associated with such message. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.
+ **2.6. Application Status**
 
-When we use the phrase "public information", we mean the information you choose to disclose to other users of the Service, as well as information that is publicly available. By posting information in a Public Area, you are choosing to make your information public. However, some Public Areas may be restricted to a particular groups of users based on categories such as users’ class, School, or other custom created group (each a “Restricted Public Area”) to the extent indicated on the Website from time to time, such that information posted or shared in Restricted Public Areas will only be viewable by other users who have access to such Restricted Public Area. Please note that, once you share information in a Public Area, or even a Restricted Public Area, other users may copy and share such information, through the Website or otherwise, with third parties or use such information for other purposes.
+We may use your government receipt number from time to time to check your application status, so that we may provide you with pertinent general information about the steps in the application process. If, at any time, you do not want Boundless to retain your government receipt number or to check your application status, let us know by contacting our customer service department at help@boundless.com.
 
-Choosing to make your information public also means that the information:
+* * *
 
-  * can be associated with you (i.e., your name, profile picture, profile, username, etc.); and
-  * when others share the information about you, they can also choose to make it public.
+### More simply
 
+The information we collect is used to create your account, provide and improve our services, provide technical support, communicate with you, and for analytical purposes. We may also use such information for things such as fraud prevention and enforcement of our [Terms of Service](https://web.archive.org/terms/), and to check the status of your application.
 
+* * *
 
-## 4\. Your Information Which is by Default Public.
+##  3\. Information Sharing and Disclosure 
 
-The types of information listed below are by default publicly available, and are treated just like information you decided to make public:
+* * *
 
-  * Name: This helps other users find you. By making your profile private, users may still search for and find your limited profile, such as your name as may be set forth by Boundless through the Services from time to time.
-  * Avatar or Profile Picture: Boundless may allow you to have an avatar or profile picture to help other users recognize you. If you are uncomfortable making your avatar or profile picture public, you can always delete it by hovering over profile picture and clicking "Change Picture." A default profile picture may be assigned to your profile until you select one.
-  * Custom Created Groups: Boundless may allow you to share information with a limited group of other users as set forth through the Services from time to time. Limited groups may include groupings based on a class or School or other group set forth through the services from time to time (“User Groups”).
+**3.1. Your Privacy Rights**
 
+Boundless does not share your Personal Information with third parties for their marketing purposes without your consent.
 
+ **3.2. Upon Consent**
 
-You can choose not to provide us with Personal Information, but by doing so, you may not be able to take advantage of many of our features and functionality of the Services.
+We may share your information, including Personal Information, with third parties if you provide us with authorization to do so.
 
-## 5\. Use of Your Information by Your School.
+ **3.3. Service Providers**
 
-Please be aware that Services that are available through an LMS are reserved for registered users of the applicable LMS. Your ability to access an LMC containing the Services is controlled by your School and completed through a single sign-on (SSO). You will not be prompted to register for the Services independent of the sign-on process for the LMS and the process for becoming a registered user of your LMS will be set out in the materials provided to you by your School. The use of any Personal Information or other information provided by you to your School through the LMS registration is governed by the privacy policy applicable to such School and your use of the LMS. Please check with your School prior to your use of the Services through the LMS to be sure you understand their privacy policies. We do not control your School’s use of your information.
+We may share your Personal Information with third-party service providers, but only to the extent necessary for them to assist us in providing our Services. For example, if you purchase Services, we will share your Billing Information with third-party payment processors to the extent necessary to process your payment. We require all third-party service providers to protect the security of your Personal Information, to keep your Personal Information confidential, and to use such information for no other purposes.
 
-## 6\. Communication from Us or our Services
+ **3.4. Responses to Legal Process, Subpoenas or Court Orders**
 
-When you send email or other communications to Boundless, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services. When you send and receive messages we may collect and maintain information associated with those messages. We may also occasionally send you information on products, services, special deals, and promotions offered by us or one of our partners. You can sign up for these emails from us on our registration page.
+We will not voluntarily disclose your Personal Information. However, we may disclose your Personal Information as required by law, such as in response to a court order, subpoena, or similar legal process legally requiring us to produce the information. If legally permitted and feasible, we will give you notice of our receipt of a demand for your Personal Information and provide you a reasonable time in which to seek to quash such demand in court, or otherwise obtain a withdrawal or modification of the demand, before complying with the demand.
 
-### NEWSLETTERS
+ **3.5. Business Transfers**
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
+Your Personal Information may be included in the event that some or all of our assets are sold, assigned or transferred in connection with a merger, acquisition, reorganization or sale of assets, or in the event of bankruptcy. As a general matter, however, an acquiring party cannot retroactively change the Privacy Policy that was in place when Boundless collected your Personal Information.
 
-### SERVICE-RELATED ANNOUNCEMENTS
+ **3.6. Academic Research**
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if the Services are temporarily suspended for maintenance, we might send you an email.
+We may share non-personally identifiable and non-privileged information about you and other users, in aggregate form, to third-party academic researchers. We require all third-party researchers to use such anonymized information for no purposes other than academic research. For example, we may use certain types of non-personally identifiable and non-privileged information to help researchers study factors that reduce barriers facing applicants navigating the immigration system. If you are in the EU, we will only share your non-privileged information with such academic researchers with your consent.
 
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
+* * *
 
-### CUSTOMER SERVICE
+### More simply
 
-Based upon the Personal Information you provide us, we will send you a welcoming email to verify your username and password. We will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. You may contact customer service at [support@boundless.com](mailto:support@boundless.com?subject=General%20Query).
+We may share your information with third parties if you specifically authorize us to do so, and with third parties like payment processors or business acquirers that are required to maintain the security and confidentiality of your information. We may share your information in anonymized form with academic researchers. We will not share your information with any other third parties, except when we are responding to court orders or legal process. If we receive such a demand from the government to disclose your personal information, we will give you notice and the opportunity to challenge the demand before complying, unless legally prohibited from doing so.
 
-### USE PROFILE; MARKETING DATA
+* * *
 
-We store information that we collect through cookies, log files, clear gifs, to create a “profile” of your preferences. We use this profile in order to provide promotions and marketing offers and to improve the content of the Services for you.
+##  4\. Policy Regarding Children 
 
-We may purchase marketing data from third parties and add it to our existing user database, to better target our advertising and to provide pertinent offers in which we think you would be interested. To enrich our profiles of individual customers, we tie this information to the personally identifiable information they have provided to us.
+* * *
 
-## 7\. Conditions Under Which We Share Information
+Our Site and Services are not intended for persons under 18 years of age, and we do not knowingly collect Personal Information from persons under 18 years of age. If you are a parent or guardian and believe that your child has provided us with Personal Information without your consent, please contact us at legal@boundless.com. If we become aware that a person under 18 years of age has provided us with Personal Information, we will delete such information from our files.
 
-We may share aggregated demographic information about our user base with our partners and investors. This information does not identify individual users. We do not link aggregate user data with Personal Information. We may use and publicize aggregate information in any manner that does not identify you, without your consent.
+### More simply
 
-We do not sell, trade, or otherwise transfer to outside parties your Personal Information without your consent. However we may share your Personal Information in situations described below:
+We do not intentionally collect information from persons under 18 years of age. Please contact us if you believe we may have received information regarding someone under 18 years of age.
 
-  * We may share aggregated data to improve the delivery of our Services, including advertising, to develop analytics, and to enable us and our partners to improve and promote our products and services.
-  * We may collect and share Personal Information made available by users in Public Areas.
-  * We may release your Personal Information to authorized agents who are employed by us to perform tasks on our behalf and need to share information with them to provide products, services and offers to you. Unless we communicate with you differently, our authorized agents do not have the right to use any Personal Information we share with them beyond what is necessary to work with us. You hereby consent to our sharing your Personal Information for the above purposes.
-  * Some Personal Information, such as users’ names, and location that is listed in your user profile or derived from IP Addresses may be publicly visible to other users on the Website or to the web. We may implement a feature that permits you to choose what information is made public by changing your privacy setting in “Edit My Profile” on the Website.
-  * When we believe it is necessary we may use Personal Information to investigate potential violations of our Terms of Service, to enforce those Terms of Service, to comply with law or to protect ours or others rights, property, or safety.
-  * If we or our business are acquired, your non-personal information and your Personal Information would be transferred to the buyer as part of that transaction, provided that the conditions of this Privacy Policy would continue to apply.
+* * *
 
+##  5\. EU Data Transfer and Individual Rights 
 
+* * *
 
-## 8\. Third Party Advertisers
+**5.1. Data Transfer Notice**
 
-The ads appearing on our Services are delivered to users by our advertising partners. We share Website usage information about users with our advertising partners for the purpose of targeting our Internet banner advertisements on our Website.
+We are located in the United States and transfer your personal data for processing in the United States. We make the transfer to the United States in the absence of an adequacy decision because it is necessary for the performance of a contract with you, or with your explicit consent.
 
-Our advertising partners may use cookies and clear GIFs on our Services, which allows them to recognize a user’s cookie when a user visits the Website or Services. The information that our advertising partners collect and share through this technology is not Personal Information.
+ **5.2. Individual Rights**
 
-For more information about our third-party advertisers, or to learn more about the choices available to you regarding this anonymous information, please contact privacy@boundless.com.
+If you are located in the EU, you may use your account to access, correct, or change Personal Information that you have provided to us. You may also email us at euprivacy@boundless.com to request access to, transfer of, and rectification or erasure of your Personal Information or restriction of processing; and to object to processing. In the email, specify the nature of your request and the information that is the subject of your request. We will respond to your request within 30 days.
 
-## 9\. Third Party Social Network Sites.
+If we are processing your personal data based upon the lawful ground of your consent, you have the right to withdraw your consent for such processing at any time without affecting the lawfulness of the processing based on consent before it is withdrawn. To withdraw consent, email us at euprivacy@boundless.com.
 
-By connecting to our Services with a Third Party Social Networking Account, you authorize Boundless and the third party social network service provider to share certain information about you with each other to enhance your use of each web site’s services. You can stop or start sharing of your information through the Services with third party social network service providers by using the privacy settings under the Account page. You can also avoid sharing your Personal Information with third party social networks by not using your Third Party Social Networking Account to login to our Services.
+* * *
 
-## 10\. Legal Disclaimer.
+### MORE SIMPLY
 
-We reserve the right to disclose your Personal Information as required by law and when we believe that disclosure is necessary to protect our rights; to comply with a judicial proceeding, court order, or legal process served on us or the Website; or in connection with an actual or proposed corporate transaction or insolvency proceeding involving all or part of the business or asset to which the information pertains.
+By using our website and Services, your personal data is transferred to and processed in the United States. If you live in the EU, email us at euprivacy@boundless.com to make a request regarding your personal data or to withdraw consent.
 
-## 11\. Choice and Opt-out
+* * *
 
-We provide you the opportunity to ‘opt-out’ of having your Personal Information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on your profile account page.
+##  6\. Security 
 
-Some but not all third party advertising companies provide a mechanism to opt-out of their technology. To opt-out of this activity with third party advertisers which are compliant with Network Advertising Initiative (NAI) requirements, please see the information available at NAI’s website athttp://www.networkadvertising.org/choices/.
+* * *
 
-If you no longer wish to receive our communications, you may opt-out of receiving them by following the instructions included in each communication or by emailing us at [support@boundless.com](mailto:support@boundless.com?subject=General%20Query).
+We have put in place physical, electronic and managerial procedures to protect the security of the information we collect, both during transmission and once received. This includes, but is not limited to, encryption, access control and audit logging on Personal Information. However, no method of transmission over the internet or method of storage is 100% secure. We cannot guarantee that our security measures will prevent our computer systems from being accessed illegally, nor can we guarantee that the information on our computer systems will not be viewed or stolen. ACCORDINGLY, BOUNDLESS DISCLAIMS ALL LIABILITY FOR THE THEFT, INTERCEPTION, LOSS, OR UNAUTHORIZED ACCESS TO DAMAGE TO YOUR INFORMATION. YOU ACKNOWLEDGE THAT USE OF THE SITE AND SERVICES IS AT YOUR OWN RISK.
 
-## 12\. California Residents - Your California Privacy Rights
+### More simply
 
-This Privacy Policy provides you a choice to opt-out regarding whether we share your Personal Information with third parties for their direct marketing purposes and information on how to exercise that choice. We will not share your information with a third party for its direct marketing purposes, if you choose to opt out of our sharing of such information. If you are a California resident and have questions about how we share information with third parties for their direct marketing purposes or about your ability to choose to opt out of that practice, please send an email that reads “Your California Privacy Rights” in subject line to: privacy@boundless.com. We are only required to respond to one request per customer each year.
+The security of your information is very important to us, and we have taken numerous deliberate steps to safeguard your information. However, information transmitted or accessible via the internet can never be 100% secure, and therefore we cannot provide any guarantees regarding information security.
 
-## 13\. Access to or Changing Your Information.
+* * *
 
-If your Personal Information changes, or if you no longer desire to use the Services, you may correct, update, delete or deactivate it emailing our Customer Support at [support@boundless.com](mailto:support@boundless.com?subject=General%20Query), or by contacting us by postal mail at the contact information listed below.
+##  7\. Google Analytics 
 
-Please keep in mind that whenever you voluntarily make your Personal Information or other private information available for viewing by third parties online – for example on blogs, discussion forums, or other Public Areas or social networking websites – that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
+* * *
 
-## 14\. Third Party links
+We use Google Analytics to collect information about use of the Site. Google Analytics collects information such as how often users visit the Site, what pages they visit when they do so, and what other websites they used prior to coming to the Site. We use the information we get from Google Analytics to improve the Site and Services. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other Personal Information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our Website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites.
+### More simply
 
-## 15\. Information You Post to Other Sites
+We use Google Analytics to help us improve and analyze use of our website and services. You can view Google’s policies relevant to Google Analytics through the provided links.
 
-Please keep in mind that whenever you voluntarily make your Personal Information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking sites - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
+* * *
 
-## 16\. Information Security
+##  8\. Changes to Privacy Policy 
 
-Boundless is committed to protecting the security and privacy of your information stored by us. All data gathered by us through the Services is stored by us in a secure, password protected database. Only we and our hosting provider have access to this database. We will protect Personal Information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. While all standard security protections are implemented by us and our hosting providers, we cannot guarantee the physical or electronic security of the servers and databases on which the Services is hosted. We require our partners who receive your information to agree to security requirements consistent with this Privacy Policy.
+* * *
 
-## 17\. Terms of Service
+Boundless may make changes to this Privacy Policy at any time. If we make any material changes we will notify you via email (sent to the e-mail address specified in your account) or by posting the revised Privacy Policy on the Site prior to any changes becoming effective. You should review our Privacy Policy each time you access the Site or use the Services. Your continued use of the Site or Services following the posting of any changes or notice to you of the changes constitutes your agreement to such changes.
 
-Please also visit our Terms of Service establishing the use, disclaimers, and limitations of liability governing the use of the Services.
+### More simply
 
-## 18\. Your Consent
+We may make changes to these terms. If we do, we’ll provide notice.
 
-By using the Services, you consent to our latest Privacy Policy.
+* * *
 
-## 19\. Changes to our Privacy Policy
+##  9\. Retention of Personal Information 
 
-Boundless may update this Privacy Policy from time to time as set forth above. If you have questions or concerns regarding our Privacy Policy, please contact us at:[support@boundless.com](mailto:support@boundless.com?subject=General%20Query)
+* * *
 
-## 20\. Contact Us
+At a minimum, we will retain your Personal Information for as long as it may be needed to provide you Service and as needed to comply with our legal obligations. Unless you request deletion of your Personal Information sooner, we may hold any of your Personal Information which may be used to provide future Services for up to ten years. Upon request, Boundless will inform you about whether we hold any of your Personal Information. You may terminate your account and request deletion of your Personal Information by contacting us at legal@boundless.com. In some situations, we may be legally required to retain your Personal Information or for other reasons will not be able to comply with a request to delete data.
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at:
+### More simply
 
-Boundless Learning, Inc.   
-268 Summer Street   
-Boston, MA 02210   
-boundless.com   
-[support@boundless.com](mailto:support@boundless.com?subject=General%20Query)
+We’ll retain your information as long as it’s necessary to serve you or comply with legal obligations, and may hold it for up to ten years. You may request that we delete your information at any time.
 
-Copyright © 2017 Boundless Learning, Inc. Some Rights Reserved.
+* * *
+
+##  10\. Questions 
+
+* * *
+
+If you have any questions regarding this Privacy Policy, please contact us at [legal@boundless.com](mailto:legal@boundless.com).
