@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neuvoo.ca privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604212407id_/https%3A//neuvoo.ca/legal/%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neuvoo.ca privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201031246id_/https%3A//neuvoo.ca/tos) for the most accurate reproduction.*
 
 # neuvoo. Your job search starts here.
 
@@ -24,7 +24,7 @@ NEUVOO's team is working hard to maintain a high quality of indexed jobs. Becaus
 
 We do not allow the automatic indexing/crawling of NEUVOO's search results outside of the rules provided by our robots.txt file. (See neuvoo.com/robots.txt) 
 
-##  6\. Changes in Terms of Use 
+##  6\. Changes in Terms of Service 
 
 NEUVOO’s terms of use may change in the future, at NEUVOO’s discretion. Any changes will be announced on this page. 
 
@@ -76,7 +76,7 @@ Please note that you may manage your alerts or unsubscribe at any given time by 
 
 ##  1.2. **Short-term Data**
 
-“Non-Persistent Data” refers to any information that is requested by employers in order for a job seeker to successfully apply for the employer’s job, aside from the information already mentioned above in the “Persistent Data” section. 
+"Short-Term Data" refers to any information that is requested by an employer in order for a job seeker to successfully apply for the employer's job, aside from the information already mentioned above in the "Long-Term Data" section. 
 
 Some of the most common examples of “Short-term Data” are level of proficiency with certain programs; level of fluency with certain spoken or written languages; other skill assessments; or external links, such as portfolio links. 
 
@@ -159,6 +159,50 @@ You have control over the information you choose to give us and may access, edit
 **_Email Alerts._** If you wish to access or edit your alerts, you may do so by clicking on the “Manage job alert settings” in the “Improve alert” section of any email alert. You will then be able to edit or remove individual alerts by clicking on the “Improve alert” button which allows you to change keywords and location or to improve relevancy. 
 
 If you would rather unsubscribe, you may do so by clicking on the “Unsubscribe from Job Alert” link located at the bottom of any email alert. You can then click on the “Delete” button next to the alert you wish to remove. 
+
+NEUVOO offers informational and educational content for Human Resources and Talent Acquisition professionals in the form of eBooks and PDF documents that can be downloaded from several landing pages powered by MailChimp. **These documents are addressed to professionals working in the recruitment and talent acquisition fields and should not be confused with other services and products that target job seekers and their data.**
+
+We promote the eBook landing pages on our [Twitter](https://twitter.com/neuvoo) and [LinkedIn](https://www.linkedin.com/company/neuvoo-ca/) pages and also distribute a copy on a monthly basis to users who subscribed to receive new eBooks via email. Please note that you can cancel your subscription at any time by clicking on the “unsubscribe from this list” link at the bottom of our communications. 
+
+## Information We Collect
+
+When downloading an eBook, users are asked to fill a form with the following personal data:
+
+  * Email Address
+  * First Name
+  * Last Name
+  * Company Name
+  * Country
+  * Phone Number
+
+
+
+There is also a field titled “Number of Employees”, which refers to the number of people working at the aforementioned company. Although this is not considered personal data, it is treated the same way.
+
+## How We Use Your Information
+
+We use the information you choose to provide us in one or more of the three ways you gave us consent to process. All our forms—the ones on our landing pages and the one on our blog—have a “Marketing Permissions” section where you can clearly indicate the reasons why you would like NEUVOO to contact you. Those are:
+
+  * **Latest eBooks**
+
+o We will use your information to send you our latest human resources and talent acquisition-related PDF documents.
+
+  * **Latest Blog Articles**
+
+o We will use your information to send you our newsletter, where we compile all the latest articles that were published on our blog.
+
+  * **Exclusive Offers**
+
+o We will use your information for more personalized communications to let you know of the many ways NEUVOO can help you improve your recruitment and talent acquisition strategies.
+
+
+
+
+We also use Cookies on our landing pages. Please refer to section 3 of the Security section for more info on how we handle cookies for analytics purposes. 
+
+## How We Store and Share Information
+
+Our landing pages and mailing lists are powered by MailChimp, making MailChimp the Data Controller in this case. Therefore, we recommend you to have a look at MailChimp’s [Terms of Use](https://mailchimp.com/legal/terms/) and [Privacy Policy](https://mailchimp.com/legal/privacy/). 
 
 Our policies are in place to help ensure a positive experience for all parties involved in our Publisher and API programs. All publishers are required to adhere to the following terms. If you, as a publisher, fail to comply with any of these terms without permission from NEUVOO, we reserve the right to suspend and close your account and cancel any scheduled payments immediately without further notice or official notification. Once your account is disabled, you may not be eligible for further participation in our publisher program.
 
