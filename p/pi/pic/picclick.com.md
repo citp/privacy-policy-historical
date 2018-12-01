@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the picclick.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115045138id_/https%3A//picclick.com/pages/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picclick.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201231917id_/https%3A//picclick.com/pages/terms.html) for the most accurate reproduction.*
 
-# PicClick • Terms & Privacy
+# PicClick Terms & Privacy
 
 ## Terms of Service
 
-By using the Picclick web site, a service of PicClick, LLC., you are agreeing to be bound by the following terms and conditions ("Terms of Use").
+By using the Picclick web site, a service of PicClick, Inc., you are agreeing to be bound by the following terms and conditions ("Terms of Use").
 
 ### Basic Terms
 
