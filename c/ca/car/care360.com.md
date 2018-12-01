@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the care360.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521112519id_/http%3A//www.questdiagnostics.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care360.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201184710id_/http%3A//www.questdiagnostics.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy : Online Privacy Policy
 
