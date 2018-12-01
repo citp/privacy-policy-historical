@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propakistani.pk privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613071546id_/https%3A//propakistani.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propakistani.pk privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201090711id_/https%3A//propakistani.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ProPakistani
 
@@ -34,7 +34,7 @@ Our web sites contains links to other sites. ProPakistani.PK is not responsible 
 
 All content, design, text, logos, sound, images, graphics, and the selection and arrangement thereof, and all other elements of the ProPakistani.PK Web Site are the sole and exclusive property of ProPakistani.PK, and are protected by copyright, intellectual property, trade dress and other applicable laws and may not be copied, modified, published, imitated, distributed, or transmitted in whole or in part without the prior written consent of ProPakistani.PK.
 
-Please report any such instances of misuse to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Please report any such instances of misuse to aamir@propakistani.com
 
 **Disclaimer for Press Releases:**
 
