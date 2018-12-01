@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogheirs.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630172959id_/http%3A//www.dogheirs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogheirs.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201093755id_/http%3A//www.dogheirs.com/privacy) for the most accurate reproduction.*
 
 # Privacy - DogHeirs
 
@@ -108,7 +108,7 @@ We use the information we collect to try to provide a safe, efficient, and custo
 
 **To provide you with services.** We may provide information to service providers that help us bring you the services we offer. For example, we may use third parties to help host our website, send out email updates about DogHeirs, remove repetitive information from our user lists, process payments, or provide search results or links (including sponsored links). These service providers may have access to your personal information for use for a limited time, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service.
 
-**To respond to legal requests and prevent harm.** We may disclose information pursuant to subpoenas, court orders, or other requests (including criminal and civil matters) if we have a good faith belief that the response is required by law. This may include respecting requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law under the local laws in that jurisdiction, apply to users from that jurisdiction, and are consistent with generally accepted international standards. We may also share information when we have a good faith belief it is necessary to prevent fraud or other illegal activity, to prevent imminent bodily harm, or to protect ourselves and you from people violating our Terms of Service. This may include sharing information with other companies, lawyers, courts or other government entities.
+**To respond to legal requests and prevent harm.** We may disclose information pursuant to subpoenas, court orders, or other requests (including criminal and civil matters) if we have a good faith belief that the response is required by law. This may include respecting requests from jurisdictions outside of Canada where we have a good faith belief that the response is required by law under the local laws in that jurisdiction, apply to users from that jurisdiction, and are consistent with generally accepted international standards. We may also share information when we have a good faith belief it is necessary to prevent fraud or other illegal activity, to prevent imminent bodily harm, or to protect ourselves and you from people violating our Terms of Service. This may include sharing information with other companies, lawyers, courts or other government entities.
 
 **Transfer in the Event of Sale or Change of Control.** If the ownership of all or substantially all of our business changes, we may transfer your information to the new owner so that the service can continue to operate. In such a case, your information would remain subject to the promises made in any pre-existing Privacy Policy.
 
@@ -140,7 +140,7 @@ DiscoverMe may process your Personal Data because:
 
 **Risks inherent in sharing information.** Please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you share your information. We cannot guarantee that only authorized persons will view your information. We cannot ensure that information you share on DogHeirs will not become publicly available. We are not responsible for third party circumvention of any security measures on DogHeirs. You can reduce these risks by using common sense security practices such as choosing a strong password, using different passwords for different services, and using up to date antivirus software. 
 
-**Report Violations.** You should report any security violations to us at  **help**   **(@) dogheirs.com**
+**Report Violations.** You should report any security violations to us at  **hello**   **(@) dogheirs.com**
 
 **Links To Other Sites:** Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
