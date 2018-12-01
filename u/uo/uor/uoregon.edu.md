@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uoregon.edu privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224005204id_/http%3A//registrar.uoregon.edu/records-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uoregon.edu privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201131435id_/https%3A//registrar.uoregon.edu/records-privacy) for the most accurate reproduction.*
 
 # Student Records Privacy Policy | Office of the Registrar
 
@@ -8,13 +8,13 @@ To see how FERPA regulations apply to you, select a category.
 
 ## Student Records Privacy Policy For Students
 
-The University of Oregon is committed to the privacy and security of our students. The University of Oregon Student Records Policy complies with the [Family Educational Rights and Privacy Act of 1974 (FERPA)](http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) \- sometimes called the Buckley Amendment - which establishes students’ rights and institutions’ responsibilities regarding the privacy of education records. It provides guidelines for maintaining the confidentiality of education records and monitoring the release of information from those records.
+The University of Oregon is committed to the privacy and security of our students. The University of Oregon Student Records Policy complies with the [Family Educational Rights and Privacy Act of 1974 (FERPA)](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) \- sometimes called the Buckley Amendment - which establishes students’ rights and institutions’ responsibilities regarding the privacy of education records. It provides guidelines for maintaining the confidentiality of education records and monitoring the release of information from those records.
 
 ### Your Rights Under FERPA
 
-As a current or former university student, [The Family Educational Rights and Privacy Act (FERPA)](http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html "The Family Educational Rights and Privacy Act \(FERPA\)") affords you certain rights regarding your education records. They are:
+As a current or former university student, [The Family Educational Rights and Privacy Act (FERPA)](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html "The Family Educational Rights and Privacy Act \(FERPA\)") affords you certain rights regarding your education records. They are:
 
-  * The right to inspect and review your records. You may request to review your records by submitting a written request to the University Registrar or other school official having custody of such records (see: [Procedure for Requesting Access to Student Education Records](https://web.archive.org/sites/all/files/pdf/procedure-for-requesting-access-to-student-education-records_1.pdf "Procedure for Requesting Access to Student Education Records \(PDF\)"));
+  * The right to inspect and review your records. You may request to review your records by submitting a written request to the University Registrar or other school official having custody of such records (see: [Procedure for Requesting Access to Student Education Records](https://web.archive.org/sites/all/files/pdf/procedure-for-requesting-access-to-student-education-records.pdf "Procedure for Requesting Access to Student Education Records \(PDF\)"));
   * The right to seek amendment of your records which you believe are inaccurate, misleading, or otherwise in violation of your privacy rights. Requests for amendment of records must be in writing and must describe the specific portions of specific records that you wish to have amended, text or instructions as to the change desired, and the reasons why the change is justified;
   * The right to restrict the disclosure of Directory Information; and
   * The right to file a complaint with the Department of Education's Family Policy Compliance Office concerning alleged failures by the university to comply with the requirements of FERPA.
@@ -42,7 +42,7 @@ Faculty and staff are responsible for protecting the identity of students and ke
 
 Some records created and maintained by the university, although not covered by FERPA, may be subject to other federal and state laws or regulations regarding disclosure.
 
-The exceptions under FERPA which allow the university to disclose personally identifiable information from your education record are stated in the [full text of the University of Oregon Student Records Policy](http://policies.uoregon.edu/student-records-1 "University of Oregon Student Records Policy"). The most common exceptions to disclosure restrictions are disclosures to university faculty or staff -- "School Officials” -- with a legitimate educational interest, or disclosure of personally identifiable information designated as Directory Information.
+The exceptions under FERPA which allow the university to disclose personally identifiable information from your education record are stated in the [full text of the University of Oregon Student Records Policy](https://policies.uoregon.edu/student-records-1 "University of Oregon Student Records Policy"). The most common exceptions to disclosure restrictions are disclosures to university faculty or staff -- "School Officials” -- with a legitimate educational interest, or disclosure of personally identifiable information designated as Directory Information.
 
 ### Definition of Directory Information
 
@@ -122,7 +122,7 @@ Restricted Directory Information is made available only where an emergency is in
 
 #### Submitting a Directory Restriction Request
 
-A Restriction of Directory Information form is available in the Office of the Registrar, 220 Oregon Hall. Complete the form, including signature and date, and return it in person. Photo identification is required.
+A Restriction of Directory Information form is available in the Office of the Registrar, 234 Oregon Hall. Complete the form, including signature and date, and return it in person. Photo identification is required.
 
 Your request to place or remove the restriction is effective no later than two working days after it is received in the Office of the Registrar.
 
@@ -153,44 +153,18 @@ Some graduate programs, scholarships or job applications require the use of thei
 
 ### Student Record Policy of the University of Oregon
 
-The information provided on this web site is for informational purposes only. The complete text of the University of Oregon Student Records Policy, which takes precedence over all other published versions, is available at the [University of Oregon's Policy Library](http://policies.uoregon.edu/student-records-1 " University of Oregon Policy Library").
+The information provided on this web site is for informational purposes only. The complete text of the University of Oregon Student Records Policy, which takes precedence over all other published versions, is available at the [University of Oregon's Policy Library](https://policies.uoregon.edu/student-records-1 " University of Oregon Policy Library").
 
 ### UO ID Number
 
 The UO ID number is a nine-digit number randomly generated and assigned at the time of first admission. Your UO ID number will be imprinted on your [student ID card](https://web.archive.org/current-students/student-records#uo-id-card) when it is issued by the Card Office. UO ID numbers are releasable only to you when you come in person to the Office of the Registrar with some type of photo ID. You may also mail or fax a written request for release to the Office of the Registrar containing the four elements listed in the section of this policy headed Release of Education Records. Over the years, the university has used other methods of creating and assigning ID numbers and for some time used Social Security numbers as ID numbers. Such numbers are no longer used. For this reason, former students who contact the university for information or service may be reassigned a new, randomly generated ID number.
 
-Students are requested to provide voluntarily their Social Security Numbers to assist OUS (and organizations conducting studies on behalf of OUS) in developing, validating, or administering predictive tests and assessments; administering student aid programs; improving instruction; internal identification of students; collection of student debts; or comparing student educational experiences with subsequent workforce experiences. When conducting studies, OUS will disclose a Social Security Number only in a manner that does not permit personal identification of a student by individuals other than representatives of OUS (or the organization conducting the study for OUS) and only if the information is destroyed when no longer needed for the purposes for which the study was conducted. By providing their Social Security Number, students are consenting to the uses identified above. This request is made pursuant to ORS 351.070 and 351.085. Provision of the student’s Social Security Number and consent to its use is not required and, if a student chooses not to do so, he/she will not be denied any right, benefit, or privilege provided by law. A student may revoke consent for the use of his/her Social Security Number at any time by contacting the Office of the Registrar, 220 Oregon Hall.
+Students are requested to provide voluntarily their Social Security Numbers to assist OUS (and organizations conducting studies on behalf of OUS) in developing, validating, or administering predictive tests and assessments; administering student aid programs; improving instruction; internal identification of students; collection of student debts; or comparing student educational experiences with subsequent workforce experiences. When conducting studies, OUS will disclose a Social Security Number only in a manner that does not permit personal identification of a student by individuals other than representatives of OUS (or the organization conducting the study for OUS) and only if the information is destroyed when no longer needed for the purposes for which the study was conducted. By providing their Social Security Number, students are consenting to the uses identified above. This request is made pursuant to ORS 351.070 and 351.085. Provision of the student’s Social Security Number and consent to its use is not required and, if a student chooses not to do so, he/she will not be denied any right, benefit, or privilege provided by law. A student may revoke consent for the use of his/her Social Security Number at any time by contacting the Office of the Registrar, 234 Oregon Hall.
 
 ### The Family Educational Rights and Privacy Act (FERPA)
 
-FERPA was enacted by the U.S. Congress in 1974 and has since had many amendments. Responsibility for oversight of FERPA compliance rests with the [Department of Education's Family Policy Compliance Office.](http://www2.ed.gov/policy/gen/guid/fpco/index.html)
+FERPA was enacted by the U.S. Congress in 1974 and has since had many amendments. Responsibility for oversight of FERPA compliance rests with the [Department of Education's Family Policy Compliance Office.](https://www2.ed.gov/policy/gen/guid/fpco/index.html)
 
-### Forms and Other Resources
-
-Name | Description  
----|---  
-[Consent Form for Releasing Education Records](https://web.archive.org/sites/all/files/pdf/Consent_to_Release_Educational_Records_0.pdf "Consent Form for Releasing Education Records") | For students requesting the release of _**non-directory information**_. Other written formats are acceptable if they include: 
-
-  1. What information is to be released
-  2. To whom the information is to be released
-  3. The purpose for which it is to be released
-  4. Your signature and the date signed
-
-  
-[Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools](https://web.archive.org/sites/all/files/pdf/FERPA-Consent-Form-For-Course-Blog-and-Social-Media.pdf "Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools") | For faculty using blogs, social media or other publicly-accessible communication tools in courses, collect this form from each of your students.  
-[Consent Form for Requesting References/Recommendations](https://web.archive.org/sites/all/files/pdf/StudentReferenceRequestForm.pdf) | For students requesting letters of reference or recommendation from University of Oregon faculty or staff members.  
-[Code of Responsibility for Education Records](https://web.archive.org/sites/all/files/pdf/Ferpa-Code-of-Responsibility.pdf "Code of Responsibility for Education Records") | For departments to use when students/staff without access to systems are handling records.  
-[Consent Form for ePortfolio Participation](https://web.archive.org/sites/all/files/pdf/ePortfolio_FERPA_Consent_Form.pdf "Consent Form for ePortfolio Participation") | For faculty using ePortfolio, collect and retain this form from each of your students.  
-Banner form SWIFERP | A Banner form available to all Faculty and Staff with Banner access. If the student does not have a directory restriction, all information on this form is releasable to a third party with the exception of the student ID number.  
-Consent Forms for Photos and Videos 
-
-  * [Option #1](https://web.archive.org/sites/all/files/pdf/ferpa_photograph_release.pdf "Consent Form for Photos and Videos Option #1")
-  * [Option #2](https://web.archive.org/sites/all/files/pdf/ferpa_photograph_release_3.pdf "Consent Form for Photos and Videos Option #2")
-
-| Use when taking photos and videos of students for use on the web and in print. Use either waiver when producing content involving students.  
-[Consent Form for the Common Application](https://web.archive.org/sites/all/files/pdf/Common-Application-Consent-to-Release-Education-Records.pdf "Consent Form for the Common Application") | For students requesting a [Common Application](https://web.archive.org/current-students/common-application "Common Application") "Transfer Registrar Report" to be completed by the Registrar's Office.  
-[Procedure for Requesting Access to Student Education Records](https://web.archive.org/sites/all/files/pdf/procedure-for-requesting-access-to-student-education-records_1.pdf "Procedure for Requesting Access to Student Education Records \(PDF\)") | For students requesting to inspect and review education records.  
-  
 ## Student Records Privacy Policy For Parents
 
 The University of Oregon Student Records Policy and the Family Educational Rights and Privacy Act (FERPA) provide guidelines for maintaining the confidentiality of education records and monitoring the release of information from those records.
@@ -239,10 +213,10 @@ Disclosure of information from education records is allowed under the University
 
 ### See Also
 
-  * [Full text of the University of Oregon Student Records Policy](http://policies.uoregon.edu/student-records-1 "Full text of the University of Oregon Student Records Policy")
-  * [Family Policy Compliance Office (FPCO)](http://www2.ed.gov/policy/gen/guid/fpco/index.html "Family Policy Compliance Office \(FPCO\)")
-  * [More information about the Federal Family Educational Rights and Privacy Act](http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html "Federal Family Educational Rights and Privacy Act")
-  * [More information about the Family Policy Compliance Office (FPCO)](http://www2.ed.gov/policy/gen/guid/fpco/index.html "Family Policy Compliance Office \(FPCO\)")
+  * [Full text of the University of Oregon Student Records Policy](https://policies.uoregon.edu/student-records-1 "Full text of the University of Oregon Student Records Policy")
+  * [Family Policy Compliance Office (FPCO)](https://www2.ed.gov/policy/gen/guid/fpco/index.html "Family Policy Compliance Office \(FPCO\)")
+  * [More information about the Federal Family Educational Rights and Privacy Act](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html "Federal Family Educational Rights and Privacy Act")
+  * [More information about the Family Policy Compliance Office (FPCO)](https://www2.ed.gov/policy/gen/guid/fpco/index.html "Family Policy Compliance Office \(FPCO\)")
 
 
 
@@ -325,7 +299,7 @@ Whether a graduate student has a GTF appointment and their teaching assignment |
 
 You are responsible for maintaining the security of your workstation or computer monitor. This includes the responsibility for all transactions that occur under your username and password, and for all information that is released about university students. **Do not leave your workstation or computer unattended while logged in to Banner or _Web for Faculty_. Do not give your password or Personal Access Code (PAC) to another employee or student.** Violation of this regulation may revoke your access privileges.
 
-You are responsible for protecting the education records you store about students enrolled in your classes. The fact that the student is registered for your class is non-directory information; thus you may not release a class list or even a single student's name to a third party. Other non-directory information you might maintain about students in your class includes class attendance records, quizzes and exams grades, homework, etc. All of these records are considered education records, and must be protected. Please note that education records should not be stored on personal accounts in the cloud, such as a personal Google Docs account, or an Apple iCloud account. Personal accounts are not compliant with UO's Student Record Policy; appropriate avenues for storing education records about your class are [Canvas](http://canvas.uoregon.edu/ "Canvas") or OneDrive.
+You are responsible for protecting the education records you store about students enrolled in your classes. The fact that the student is registered for your class is non-directory information; thus you may not release a class list or even a single student's name to a third party. Other non-directory information you might maintain about students in your class includes class attendance records, quizzes and exams grades, homework, etc. All of these records are considered education records, and must be protected. Please note that education records should not be stored on personal accounts in the cloud, such as a personal Google Docs account, or an Apple iCloud account. Personal accounts are not compliant with UO's Student Record Policy; appropriate avenues for storing education records about your class are [Canvas](https://canvas.uoregon.edu/ "Canvas") or OneDrive.
 
 University staff and faculty members performing instructional, supervisory, advisory, or administrative duties for the University are considered to have a legitimate educational need for access to student data for students for whom they are performing these functions. Individuals without legitimate educational interest must present EITHER an appropriate written signed and dated authorization for release from the student, which must include: 1) the specific information to be released, 2) the person or class of persons to whom the information is to be released, and 3) the purpose for which the information is to be released, OR a valid subpoena or court order. If presented with a subpoena or court order, faculty and staff are to contact the University Registrar immediately. The University Registrar, in consultation with the General Counsel to the President, determines validity of and extent of compliance with subpoenas and court orders. You have the authority and responsibility to deny any request for data that you feel is not legitimate. If you are in doubt, it is always wiser to err on the side of caution than to release information that may constitute a FERPA violation.
 
@@ -337,7 +311,7 @@ Faculty and staff are responsible for protecting the identity of students and ke
 
 [Random Number Generator](https://web.archive.org/faculty-staff/random-number-generator "Random Number Generator")
 
-To read the complete University of Oregon Student Records Policy, refer to the [Full text of the University of Oregon Student Records Policy](http://policies.uoregon.edu/student-records-1 "Full text of the University of Oregon Student Records Policy").
+To read the complete University of Oregon Student Records Policy, refer to the [Full text of the University of Oregon Student Records Policy](https://policies.uoregon.edu/student-records-1 "Full text of the University of Oregon Student Records Policy").
 
 Julia Pomerenk, University Registrar, is the designated Custodian of Student Records. Questions about the Student Records Policy or the information described above should be forwarded to Ms. Pomerenk (jpom@uoregon.edu) or (541) 346-3195.
 
@@ -384,29 +358,18 @@ Whether a graduate student has a GTF appointment and their teaching assignment |
 
 ### University of Oregon Student Records Policy
 
-[Full text of the University of Oregon Student Records Policy](http://policies.uoregon.edu/student-records-1 "Full text of the University of Oregon Student Records Policy")
+[Full text of the University of Oregon Student Records Policy](https://policies.uoregon.edu/student-records-1 "Full text of the University of Oregon Student Records Policy")
 
-### Forms and Other Resources  
-  
-Name | Description  
-[Consent Form for Releasing Education Records](https://web.archive.org/sites/all/files/pdf/Consent_to_Release_Educational_Records_0.pdf) | For students requesting the release of _**non-directory information**_. Other written formats are acceptable if they include: 
+The University of Oregon is committed to the privacy and security of our students. The University of Oregon Student Records Policy complies with the Family Educational Rights and Privacy Act of 1974 (FERPA), sometimes called the Buckley Amendment, which establishes students' rights and institutions' responsibilities regarding the privacy of education records. It provides guidelines for maintaining the confidentiality of education records and monitoring the release of information from those records.
 
-  1. What information is to be released
-  2. To whom the information is to be released
-  3. The purpose for which it is to be released
-  4. Your signature and the date signed
+Information related to a student's registration in a course (e.g., a student’s name associated with a CRN, meeting times, locations) is not considered directory information under FERPA and the Student Records Policy, and thus cannot be disclosed without prior written consent from the student or through an applicable FERPA exception.
 
-  
-[Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools](https://web.archive.org/sites/all/files/pdf/FERPA-Consent-Form-For-Course-Blog-and-Social-Media.pdf "Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools") | For faculty using blogs, social media or other publicly-accessible communication tools in courses, collect this form from each of your students.  
-[Consent Form for Requesting References/Recommendations](https://web.archive.org/sites/all/files/pdf/StudentReferenceRequestForm.pdf "Consent Form for Requesting References/Recommendations") | For students requesting letters of reference or recommendation from University of Oregon faculty or staff members.  
-[Code of Responsibility for Education Records](https://web.archive.org/sites/all/files/pdf/Ferpa-Code-of-Responsibility.pdf "Code of Responsibility for Education Records") | For departments to use when students/staff without access to systems are handling records.  
-[Consent Form for ePortfolio Participation](https://web.archive.org/sites/all/files/pdf/ePortfolio_FERPA_Consent_Form.pdf "Consent Form for ePortfolio Participation") | For faculty using ePortfolio, collect and retain this form from each of your students.  
-Banner form SWIFERP | A Banner form available to all Faculty and Staff with Banner access. If the student does not have a directory restriction, all information on this form is releasable to a third party with the exception of the student ID number.  
-Consent Forms for Photos and Videos 
+The following is designed to provide guidance to UO faculty, students, and prospective students regarding UO students, prospective students, and visiting scholars attending classes for which they are not enrolled and gaining access to Canvas or other Learning Management Systems (LMS) sites for classes for which they are not enrolled.
 
-  * [Option #1](https://web.archive.org/sites/all/files/pdf/ferpa_photograph_release.pdf "Consent Form for Photos and Videos Option #1")
-  * [Option #2](https://web.archive.org/sites/all/files/pdf/ferpa_photograph_release_3.pdf "Consent Form for Photos and Videos Option #2")
+UO students may wish to attend classes for which they are not enrolled, with the intent to add the classes prior to the add deadline. For this purpose, students may attend classes for which they are not enrolled up to the last day to add classes, as long as there are enough seats for all enrolled students to be seated first. However, instructors, at their discretion, may ask non-enrolled students to leave the class.
 
-| Use when taking photos and videos of students for use on the web and in print. Use either waiver when producing content involving students.  
-[Consent Form for the Common Application](https://web.archive.org/sites/all/files/pdf/Common-Application-Consent-to-Release-Education-Records.pdf "Consent Form for the Common Application") | For students requesting a [Common Application](https://web.archive.org/current-students/common-application "Common Application") "Transfer Registrar Report" to be completed by the Registrar's Office.  
-[Procedure for Requesting Access to Student Education Records](https://web.archive.org/sites/all/files/pdf/procedure-for-requesting-access-to-student-education-records_1.pdf "Procedure for Requesting Access to Student Education Records \(PDF\)") | For students requesting to inspect and review education records.
+In addition, prospective UO students and visiting scholars may wish to attend classes for which they are not enrolled, with the intent to learn more about the UO and/or contribute in some way to the course, such as presenting a guest lecture. For this purpose, prospective students and visiting scholars may attend one class occurrence per course, with the permission of the academic program, department, school, or college, and/or the instructor.
+
+In either case, if unenrolled individuals are attending a class session, faculty should not take attendance by calling out names from the class roster.
+
+Access to Canvas (or other Learning Management System) Student access to Canvas course sites for individuals not enrolled in the class is not allowed, as that access would expose non-directory information to non-enrolled individuals.
