@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoisbucket.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628144300id_/http%3A//whoisbucket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoisbucket.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201163320id_/http%3A//whoisbucket.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,4 +19,4 @@ WhoisBucket.com has no access to or control over these cookies that are used by 
 Like many other Web sites, WhoisBucket.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **More Info**  
-If you require any more information or have any questions about our terms of use, please feel free to contact us by email at info [at] whoisbucket [dot] com. 
+If you require any more information or have any questions about our terms of use, please feel free to contact us by email at info [at] whoisbucket [dot] com 
