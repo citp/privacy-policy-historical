@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the neuvoo.ca privacy policy that was archived on 2018-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180604212407id_/https%3A//neuvoo.ca/legal/%3Flang%3Den) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the neuvoo.ca privacy policy that was archived on 2018-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181201031246id_/https%3A//neuvoo.ca/tos) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -37,9 +37,9 @@
         }
         </script>    <style>
         </style>
-<link type="text/css" rel="stylesheet" href="/V5/css/default.css?v=51">
-<link type="text/css" rel="stylesheet" href="/V5/css/page-landing.css?v=51">
-<link type="text/css" rel="stylesheet" href="/V5/css/page-landing-mobile.css?v=51">
+<link type="text/css" rel="stylesheet" href="/V5/css/default.css?v=52">
+<link type="text/css" rel="stylesheet" href="/V5/css/page-landing.css?v=52">
+<link type="text/css" rel="stylesheet" href="/V5/css/page-landing-mobile.css?v=52">
 <style>            #ae {   background-image: url('/V5/img/flags/ae.png');  }
             #ar {   background-image: url('/V5/img/flags/ar.png');  }
             #at {   background-image: url('/V5/img/flags/at.png');  }
@@ -148,19 +148,76 @@
                             <li class="dropwon-item"><a class="w" onclick="register_site($(this));return false;" rel="nofollow" href="">Job seeker</a></li><li class="dropwon-item"><a class="w" rel="nofollow" href="/advertiser/">Employers</a></li><li class="dropwon-item"><a class="w" rel="nofollow" href="/services/publisher/">Publisher</a></li>
                             </ul>
                 </div>
-                    <div class="multi-item">  <div class="menu-item "><a class="w" href="/legal/?lang=fr">fr</a></div><div class="menu-item active-menu"><a class="w" href="/legal/">en</a></div>   </div>
+                    <div id="lang-selector" class="multi-item">  <div class="menu-item "><a class="w" rel="nofollow" href="/tos/?lang=fr">fr</a></div><div class="menu-item active-menu"><a class="w" rel="nofollow" href="/tos/">en</a></div>   </div>
                     <div class="menu-item "><a class="w" href="/job-slot/">Post a job offer</a></div>
                 </div>
 
-            </div><div id="top-sep"></div>
+            </div><script>var stats = {}; 
+
+            //this will wait for everything DCL & FP & FCP
+            var timeLimitAkw = new Date().getTime()+10000;
+            var interval = setInterval(function() {        
+                if(stats.DCL && stats.FP && stats.FCP){
+                    clearInterval(interval);
+                    sendStats(stats,false);
+                }
+                else if(new Date().getTime()>timeLimitAkw){
+                    clearInterval(interval);
+                    sendStats(stats,true);
+                }
+            }, 50);
+            
+            //this will get the DCL time as soon as it finishes
+            window.onload = function(){
+              setTimeout(function(){  
+                    var t = performance.timing;
+                    //getting the full document content load                        
+                    //stats.DCL = (t.loadEventEnd - t.navigationStart);
+                    stats.DCLFull   = (t.loadEventEnd - t.navigationStart);
+                    stats.DCL       = (t.domContentLoadedEventEnd - t.navigationStart);
+                        
+              }, 0);
+            }
+            
+            //this will get the first paint (FP) and the first contentful paint FCP as soon as they are rdy
+            if("PerformanceObserver" in window){
+              let observerPromise = new Promise((resolve, reject)=>{
+                let observer = new PerformanceObserver((list)=>{
+                  resolve(list);
+                });
+            
+                observer.observe({
+                  entryTypes: ["paint"]
+                });
+              }).then((list)=>{
+                let paintMetrics = list.getEntries();
+            
+                stats.FP  = paintMetrics[0].startTime;
+                stats.FCP = paintMetrics[1].startTime;
+                //console.log(stats)
+                
+              }).catch((error)=>{
+                console.warn(error);
+              });
+            }
+            
+            //this will put the data in UET
+            function sendStats(stats,e) {
+                if (e) return false
+                console.log(stats);
+                $.ajax({url: "/services/performance/set-stats.php",data: stats, success: function(result){
+                    //console.log(result);
+                    //console.log("done, stats saved");
+                }});
+            }</script><div id="top-sep"></div>
 <div class="legal-container">
                 <div class="legal-menu">
     <span>Content</span>
     <ul>
-        <li><a href="#tos">Terms of use</a></li>
-        <li><a href="#privacy">Privacy</a></li>
+        <li><a href="#tos">Terms of Service</a></li>
         <li><a href="#security">Security</a></li>
-        <li><a href="#publisher">Publisher</a></li>
+        <li><a href="#privacy">Privacy</a></li>
+        <li><a href="#ebooks">eBooks</a></li>        <li><a href="#publisher">Publisher</a></li>
     </ul>
 </div>
 <div class="legal" dir="auto">
@@ -204,7 +261,7 @@
     We do not allow the automatic indexing/crawling of NEUVOO's search results outside of the rules provided by our robots.txt file. (See neuvoo.com/robots.txt)    </p>
     
     
-    <h2> 6. Changes in Terms of Use </h2>
+    <h2> 6. Changes in Terms of Service </h2>
     
     <p>
     NEUVOO’s terms of use may change in the future, at NEUVOO’s discretion. Any changes will be announced on this page.    </p>
@@ -271,7 +328,7 @@ Cookies are temporary and anonymous, and can be deleted from your browser at any
     <h2> 1.2. <b>Short-term Data</b> </h2>
     
     <p>
-    “Non-Persistent Data” refers to any information that is requested by employers in order for a job seeker to successfully apply for the employer’s job, aside from the information already mentioned above in the “Persistent Data” section.    </p>
+    "Short-Term Data" refers to any information that is requested by an employer in order for a job seeker to successfully apply for the employer's job, aside from the information already mentioned above in the "Long-Term Data" section.    </p>
     
     <p>
     Some of the most common examples of “Short-term Data” are level of proficiency with certain programs; level of fluency with certain spoken or written languages; other skill assessments; or external links, such as portfolio links.    </p>
@@ -361,15 +418,47 @@ Cookies are temporary and anonymous, and can be deleted from your browser at any
     <p>
     If you would rather unsubscribe, you may do so by clicking on the “Unsubscribe from Job Alert” link located at the bottom of any email alert. You can then click on the “Delete” button next to the alert you wish to remove.    </p>    
     
+    <!--eBooks -->
+    <h1 id="ebooks"> eBooks Policy  </h1>
+    <p>
+    NEUVOO offers informational and educational content for Human Resources and Talent Acquisition professionals in the form of eBooks and PDF documents that can be downloaded from several landing pages powered by MailChimp.<b> These documents are addressed to professionals working in the recruitment and talent acquisition fields and should not be confused with other services and products that target job seekers and their data.</b><br><br>
+ We promote the eBook landing pages on our <a href="https://twitter.com/neuvoo">Twitter</a>  and <a href="https://www.linkedin.com/company/neuvoo-ca/">LinkedIn</a> pages and also distribute a copy on a monthly basis to users who subscribed to receive new eBooks via email. Please note that you can cancel your subscription at any time by clicking on the “unsubscribe from this list” link at the bottom of our communications.
+    </p>
     
+    <h2>Information We Collect</h2>
+    <p>When downloading an eBook, users are asked to fill a form with the following personal data:</p>
+    <ul>
+        <li>Email Address</li>  
+        <li>First Name</li>
+        <li>Last Name</li>
+        <li>Company Name</li>
+        <li>Country</li>
+        <li>Phone Number</li>
+    </ul>
+    <p>There is also a field titled “Number of Employees”, which refers to the number of people working at the aforementioned company. Although this is not considered personal data, it is treated the same way.</p>
     
+    <h2>How We Use Your Information</h2>
     
+    <p>We use the information you choose to provide us in one or more of the three ways you gave us consent to process. All our forms—the ones on our landing pages and the one on our blog—have a “Marketing Permissions” section where you can clearly indicate the reasons why you would like NEUVOO to contact you. Those are:</p>
+    <ul>
+        <li>
+            <b>Latest eBooks</b>
+            <p>o	We will use your information to send you our latest human resources and talent acquisition-related PDF documents.</p>
+        </li>
+        <li>
+            <b>Latest Blog Articles</b>
+            <p>o	We will use your information to send you our newsletter, where we compile all the latest articles that were published on our blog.</p>
+        </li>
+        <li>
+            <b>Exclusive Offers</b>
+            <p>o	We will use your information for more personalized communications to let you know of the many ways NEUVOO can help you improve your recruitment and talent acquisition strategies.</p>
+        </li>
+    </ul>
+    <p>We also use Cookies on our landing pages. Please refer to section 3 of the <a href="#security">Security</a> section for more info on how we handle cookies for analytics purposes. </p>
     
-    
-    
-    
-    
-    <!------------------------ PUBLISHER --------------------------->
+    <h2>How We Store and Share Information</h2>
+    <p>Our landing pages and mailing lists are powered by MailChimp, making MailChimp the Data Controller in this case. Therefore, we recommend you to have a look at MailChimp’s <a href="https://mailchimp.com/legal/terms/">Terms of Use</a> and <a href="https://mailchimp.com/legal/privacy/">Privacy Policy</a>. </p>
+        <!------------------------ PUBLISHER --------------------------->
                 
     <h1 id="publisher">Publisher</h1>
     
@@ -404,7 +493,7 @@ Cookies are temporary and anonymous, and can be deleted from your browser at any
 <div id="pre-footer"></div>
 <div id="footer">
 <div class="">
-    <div class="cc"><a href="/en">Home</a> | <a href="/browse-jobs/">Browse jobs</a> | <a href="http://blog.neuvoo.com">Blog</a>| <a rel="nofollow" href="/tos/">Terms of Service &amp; Privacy Policy</a> | <a rel="nofollow" href="/contact/?lang=en">Contact us</a> | <a rel="nofollow" href="/publisher/?lang=en">API</a> | © 2018 neuvoo  </div>
+    <div class="cc"><a href="/en">Home</a> | <a href="/browse-jobs/">Browse jobs</a> | <a href="http://blog.neuvoo.com">Blog</a>| <a rel="nofollow" href="/tos/?lang=en">Terms of Service &amp; Privacy Policy</a> | <a rel="nofollow" href="/contact/?lang=en">Contact us</a> | <a rel="nofollow" href="/publisher/?lang=en">API</a> | © 2018 neuvoo  </div>
 </div>
 </div><script>
               (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
