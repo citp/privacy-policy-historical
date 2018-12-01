@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selectcomfort.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025015647id_/https%3A//www.sleepnumber.com/sn/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectcomfort.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201193335id_/https%3A//www.sleepnumber.com/sn/en/privacy-policy) for the most accurate reproduction.*
 
 # Customer Service: Privacy Policy | Sleep Number
 
@@ -6,14 +6,14 @@
 
 We value the relationship We have with You, and We are committed to respecting the confidentiality of Your Information. We pledge that We will take reasonable steps to ensure that Your Information will only be used in ways that are in compliance with this Privacy Notice.
 
-When We use the word “Us,” “We,” or “Our,” We mean Select Comfort Corporation, owner of the Sleep Number® retail stores, products and services. In addition, when We use the word “You” or “Your,” We mean you, as well as any child for which you are the parent or legal guardian for whom you create a User Profile (a “Child”). Capitalized terms are defined throughout this Privacy Notice.
+When We use the word “Us,” “We,” or “Our,” We mean Sleep Number Corporation, owner of the Sleep Number® retail stores, products and services. In addition, when We use the word “You” or “Your,” We mean you, as well as any child for which you are the parent or legal guardian for whom you create a User Profile (a “Child”). Capitalized terms are defined throughout this Privacy Notice.
 
 We collect two types of information about and from You, each of which are described more fully in this Privacy Notice. Generally speaking, information that identifies You individually is referred to as Personal Information, and information that doesn’t identify You individually but is generated as a result of Your activity is referred to as Usage Information. Personal Information and Usage Information together are referred to as “Information”.
 
 This Privacy Notice describes Our information and privacy practices with respect to Your Information for:
 
   * Our retail stores
-  * Our websites, such as http://www.sleepnumber.com and http://www.itbed.sleepnumber.com (collectively, the “Website”)
+  * Our websites, such as http://www.sleepnumber.com (collectively, the “Website”)
   * Our mobile applications, such as the SleepIQ® mobile application (collectively, the “App”)
   * Any online feature, service, and/or program offered by Us (collectively, with the App, the “Services”)
   * Third party social media pages that We maintain
@@ -88,7 +88,6 @@ Once You create a User Profile, We also may collect Personal Information, which 
 
   * Revised or updated User Profile information
   * Biometric and sleep-related data about how You, a Child, and any person that uses the Bed slept, such as that person’s movement, positions, respiration, and heart rate while sleeping
-  * Audio in Your room to detect snoring and similar sleep conditions
   * Other information You choose to provide to Us by opting in to additional functionality of Our Services, such as Your bedtime routine, so We can send You bedtime notifications and set personalized alarm clocks
 
 
@@ -204,12 +203,12 @@ To opt out or discontinue receiving marketing communications from Us by using on
 
   1. Follow the instructions in a marketing email from Us.
   2. Call 1-888-580-9237
-  3. Send an email to: unsubscribe@selectcomfort.com
+  3. Send an email to: unsubscribe@sleepnumber.com
   4. Send a request to:  
-Select Comfort Corporation  
+Sleep Number Corporation  
 Attn: DM Sales Support  
-9800 59th Avenue North  
-Minneapolis, MN 55442
+1001 Third Avenue South  
+Minneapolis, MN 55404
 
 
 
@@ -243,7 +242,7 @@ Go to Top
 
 Under California’s “Shine the Light” law, California residents who provide certain personally identifiable information in connection with obtaining products or services for personal, family, or household use are entitled to request and obtain from Us (once a calendar year) information about the customer information We shared (if any) with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which We shared Your customer information for the immediately prior calendar year (e.g., requests made in 2017 will receive information regarding 2016 sharing activities, if any).
 
-To obtain this information, please send an email message to Legal@selectcomfort.com with “Request for California Privacy Information” in the subject line and in the body of Your message. We will provide the requested information to You at Your email address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements, and only information on covered sharing will be included in Our response.
+To obtain this information, please send an email message to Legal@sleepnumber.com with “Request for California Privacy Information” in the subject line and in the body of Your message. We will provide the requested information to You at Your email address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements, and only information on covered sharing will be included in Our response.
 
 Go to Top
 
@@ -289,14 +288,14 @@ Go to Top
 
 #### Contact Information
 
-Mail: | Select Comfort Corporation  
-9800 59th Avenue North  
-Minneapolis, MN 55442  
+Mail: | Sleep Number Corporation  
+1001 Third Avenue South  
+Minneapolis, MN 55404  
 ---|---  
 Phone: | 1-888-250-4436  
   
 Go to Top
 
-Effective as of: May 11, 2017
+Effective as of: November 30, 2018
 
-Last Updated: May 11, 2017
+Last Updated: November 30, 2018
