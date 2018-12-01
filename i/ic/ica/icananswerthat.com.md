@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icananswerthat.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611031000id_/http%3A//www.icananswerthat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icananswerthat.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201080203id_/http%3A//www.icananswerthat.com/privacy-policy) for the most accurate reproduction.*
 
 # iCanAnswerThat.com
 
@@ -43,7 +43,7 @@ Currently, we use Secure Socket Layer software (“SSL”) to protect data and t
 
 ### Contact Us.
 
-If you have any questions, or would like to unsubscribe from the site, you can contact us at: [support@icananswerthat.com](mailto:support@icananswerthat.com) and/or 531 Main St. #112. El Segundo, CA 90245-3060
+If you have any questions, or would like to unsubscribe from the site, you can contact us at: [support@icananswerthat.com.](mailto:support@icananswerthat.com)
 
 ### Changes to Privacy Policy.
 
