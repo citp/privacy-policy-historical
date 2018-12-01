@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dc.gov privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905101610id_/http%3A//dc.gov/page/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dc.gov privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201122058id_/http%3A//dc.gov/page/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | DC
 
-[ ](http://www.addthis.com/bookmark.php?v=300&pubid=ra-4dc44024632b89e6)
+[ ](https://www.addthis.com/bookmark.php?v=300&pubid=ra-4dc44024632b89e6)
 
-[ ](https://app-na.readspeaker.com/cgi-bin/rsent?customerid=6295&lang=en_us&readid=content-start&url=http://dc.gov/page/privacy-and-security;)
+[ ](https://app-na.readspeaker.com/cgi-bin/rsent?customerid=6295&lang=en_us&readid=content-start&url=https://dc.gov/page/privacy-and-security;)
 
 The District of Columbia is committed to protecting the privacy of all visitors to any of our websites through the following practices.
 
