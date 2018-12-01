@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musclecarszone.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601102536id_/http%3A//www.musclecarszone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musclecarszone.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201063415id_/http%3A//www.musclecarszone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Muscle Cars Zone!
 
@@ -17,3 +17,5 @@ We also visualize third party advertisements on [Muscle Cars Zone](http://www.mu
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, it can affect your ability to interact with our site as well as other websites and it may include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless, you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More](http://www.musclecarszone.com/)
