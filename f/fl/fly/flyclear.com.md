@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyclear.com privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405034036id_/http%3A//flyclear.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyclear.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201062041id_/http%3A//flyclear.com/footer/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for flyclear.com
 
@@ -21,7 +21,6 @@ Cookies are small files that a site or its service provider transfers to your co
 flyclear.com uses cookies to:
 
   * Understand and save user's preferences for future visits.
-  * Keep track of advertisements.
 
 
 
@@ -32,6 +31,8 @@ Third-party disclosure
 flyclear.com does not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
 COPPA (Children Online Privacy Protection Act)
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
 
 flyclear.com does not specifically market to children under 13.
 
@@ -49,6 +50,7 @@ To be in accordance with CANSPAM flyclear.com agrees to the following:
 
   * NOT use false or misleading subjects or email addresses.
   * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
   * Monitor third-party email marketing services for compliance, if one is used.
   * Honor opt-out/unsubscribe requests quickly.
   * Allow users to unsubscribe by using the link at the bottom of each email.
