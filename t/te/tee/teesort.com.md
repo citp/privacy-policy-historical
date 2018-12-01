@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teesort.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313172138id_/http%3A//tsx.in/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teesort.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201151315id_/http%3A//tsx.in/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://tsx.in/)
+[ ](http://tsx.in/)
 
 Your shopping cart is empty!
 
