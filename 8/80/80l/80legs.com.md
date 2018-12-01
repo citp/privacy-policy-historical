@@ -1,75 +1,149 @@
-> *The following text is extracted and transformed from the 80legs.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122235634id_/http%3A//www.80legs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 80legs.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201011729id_/http%3A//80legs.com/privacy-policy) for the most accurate reproduction.*
 
-# 80legs - Privacy Policy
+# Privacy Policy
 
-This Privacy Policy (the “Policy” or “Privacy Policy”) covers Datafiniti, LLC (“Datafiniti”, “we”, “us”, or “our”) and describes the types of information we gather from people visiting [www.80legs.com](https://web.archive.org/web/20161122235634id_/http%3A//www.80legs.com/www.80legs.com) (the “Site”) and from individual users interacting with the applications we provide to third parties and how we use such information. We understand the importance of privacy and accordingly, treat all information received in a responsible manner. By accessing the Site, you agree to be bound by this Policy. If you do not agree to the terms of this Policy, please do not use the Site or our services. Each time you use the Site or services, the current version of the Privacy Policy will apply. Accordingly, when you use the Site or services, you should check the date of this Policy (which appears at the top) and review any changes since the last version. 
+Last modified: May 16, 2018
 
-#### Types Of Information We Collect
+**Introduction**
 
-Datafiniti may collect two types of information from users of our Site: “personal information” which is information that can be used to locate you, contact you, or determine your specific identity (such as name, e-mail address, mailing address, phone number, etc.) and “aggregate information” which is information about your activities on the Site or in connection with the services that cannot be used to identify, locate, or contact you (such as frequency of visits to the Site, data entered when using the Site, Site pages most frequently accessed, browser type, etc.). 
+Datafiniti, LLC, a Texas limited liability company (“Company” or “We”), respects your privacy and is committed to protecting it through our compliance with this policy.
 
-#### Collecting Your Personal Information
+This policy describes the types of information we may collect from you or that you may provide when you visit the website located at www.80legs.com, or use services such as our web portal located at portal.80legs.com, or our API, and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
-Datafiniti collects personal information that is voluntarily provided when a user on our Site creates an account or logs in to their account. Specifically, when you sign up for an account, we ask you for your name, email address, and business information, among other information. This information is used to assist us in helping you select the appropriate service package. Datafiniti also collects and stores information about our user’s use of the Site and our services, so that information gathered by a user through our Site or services can be served up each time a user logs in to the Site. 
+This policy applies to information we collect:
 
-#### Collecting Your Aggregate Information
+  * Through our Websites, Web Portals, and APIs (collectively known as our Services).
+  * In e-mail, text and other electronic messages between you and our Services.
 
-Aggregate information is collected as you visit our Site or interact with our services even if you do not enter any information. Generally, aggregate information is used in a collective manner, and no single person can be identified by that compiled information. Datafiniti uses aggregate information to provide its services, as well as to determine the use of our Site and to monitor, audit and analyze information pertaining to our business metrics. 
 
-#### Sharing of Your Personal Information with Third Parties
 
-Datafiniti on occasion, may share personal information with third party service providers as we deem necessary for the third party to fulfill their duties, such as fulfilling orders, processing credit card payments, or other functions necessary to our business. These third party service providers are not authorized to retain, share, store or use your personal information for any purposes other than to provide the services for which they have been hired to provide. 
+It does not apply to information collected by:
 
-We use your personal and aggregate information in an effort to improve your experience on the Site and with the services, and to communicate with you about information that you request. We may also use this information to help us target specific services or offers to you, to help us develop and improve the Site and services, and to tailor our Site and services to your interests. 
+  * Us offline or through any other means, including on any other website or technology, including web crawling technology, operated by Company or any third party (including our affiliates and subsidiaries); or
+  * Any third party (including our affiliates and subsidiaries), including through any application or content that may link to or be accessible from or through our Services.
 
-#### Sharing Aggregate Information Collected Online with Third Parties
 
-We may use aggregate information to improve the Site and services, to monitor traffic and general usage patterns, and for other general business purposes. We may disclose aggregate information to third parties for a variety of business reasons. Aggregate information will not include any personal information and we will not disclose any personal information except as expressly stated elsewhere in this Policy. 
 
-#### Other Instances When We Share Your Information
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Services. By accessing or using our Services, you agree to this privacy policy. This policy may change from time to time (see _Changes to our Privacy Policy_ ). Your continued use of our Services after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-In addition to the foregoing, Datafiniti may elect to share or transfer your personal information to unrelated third parties: (i) to comply with a legal requirement, judicial proceeding, court order, or legal process served on Datafiniti, (ii) to investigate a possible crime, such as fraud or identity theft; (iii) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of Datafiniti; (iv) when we believe it is necessary to protect the rights, property, or safety of Datafiniti or other persons, or (v) as otherwise required or permitted by law. 
+**Children Under the Age of 13**
 
-#### Cookies
+Our Services are not intended for children under 13 years of age. No one under age 13 may provide any information to our Services. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information through our Services or on or through any of its features/register for our Services, make any purchases through our Services, use any of the interactive or public comment features of our Services or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at contact@datafiniti.co.
 
-If you do not provide us any of your personal information, we are limited in the information we may collect from you. For example, we may be able to determine your IP address for the purposes of administering the Site and tracking Site usage. However, your IP address may vary each time you visit or it may remain the same depending on the type of Internet connection you are using or the location from which you access the Site. We may also collect information about the websites that directed you to the Site after you clicked on a text or banner link or an ad from another website, or the day and time you visited the Site and how long you spent on the Site. We aggregate such information to help us to compile reports as to trends and other behavior about users visiting our Site; however such information is anonymous and cannot be tied directly to you. 
+**Information We Collect About You and How We Collect It**
 
-We may also use “cookies” and your personal information to enhance your experience on the Site and with the services and to provide you with personalized offers. A cookie is a small data file placed on your computer’s hard drive that contains information that allows us to track your activity on the Site. The cookie itself does not contain any personal information; however, if you provide us any personal information the cookie may act as an identifier to tie your personal information to your IP address or computer. You may choose to delete cookies from your computer’s hard drive at anytime or to disable cookies on your computer. If you delete cookies that relate to the Site, we may not be able to identify you upon your return to the Site. Additionally, if you disable your computer’s cookies, you may not be able to access certain features of the Site or services that require that cookies be enabled. The Site’s cookies cannot be used to read data from your hard drive and cannot retrieve information from any other cookies created by other websites. Additionally, our cookies cannot be used as a virus, Trojan horse, worm, or any other malicious tool that could impair your use of your computer. Our cookies are used to help us better understand how you and other users use the Site so we can continue to provide a better, more personalized user experience on the Site. We also share website usage information about our Site with those interested in running targeted promotional campaigns on the Site. For this purpose, we and our advertisers track some of the pages that you visit on the Site through the use of pixel tags (also called clear gifs). 
+We collect several types of information from and about users of our Services, including information:
 
-#### Security Pertaining to Your Information
+  * By which you may be personally identified, such as name, postal address, e-mail address, and telephone number (“personal information”);
+  * That is about you but individually does not identify you; and
+  * About your Internet connection, the equipment you use to access our Services and usage details.
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include physical security measures to guard against unauthorized access to systems where we store personal data. 
 
-We restrict access to personal information to Datafiniti employees, service providers and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We use secure socket layer (“SSL”) technology to encrypt and protect the security of your personal information, including but not limited to your credit card number, when it is sent over the Internet. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security. 
 
-#### Integrity of Your Data
+We collect this information:
 
-Datafiniti processes personal information only for the purposes for which it was collected and in accordance with this Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. 
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through or use our Services. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies.
+  * From third parties, for example, our business partners.
 
-#### Children and Privacy
 
-Our Site is not directed to children and we will not request personally identifiable information from anyone who we know to be under the age of 18, unless we have obtained verifiable parental consent from a parent or legal guardian. If we become aware that a user under the age of 13 has registered with our Site, provided personal information, and Datafiniti has not obtained prior verifiable consent from a parent or legal guardian, we will immediately remove the user’s personal information from our files. 
 
-#### Links to Other Websites
+**Information You Provide to Us**
 
-The Site may contain links to websites operated by other people or companies. Those websites may have their own privacy policy or no privacy policy at all. Datafiniti does not have any responsibility for those websites, and we provide the links solely for the convenience of our visitors. 
+The information we collect on or through our Services may include:
 
-#### Business Transfers
+  * Information that you provide by filling in forms on our Services. This includes information provided at the time of registering to use our Services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Services.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
+  * Your responses to surveys we might ask you to complete for research purposes.
 
-In the event that Datafiniti sells substantially all of its assets, or one of Datafiniti’s business units is acquired, personal information of visitors to the Site and aggregate information will likely be one of the transferred assets. 
 
-#### Changes to this Policy
 
-We may change this Privacy Policy at any time and without prior notice, by posting the revised version of this Policy on our Site. Your continued use of the Site and/or services indicates your consent to our collection of and use of your personal and aggregate information under the then current Policy. 
+**Information We Collect Through Automatic Data Collection Technologies**
 
-#### Corrections/Information Removal/Opt-Out
+As you navigate through and interact with our Services, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and usage patterns, including:
 
-If your name, e-mail or postal address, telephone number or other personal information changes, you may update, correct or omit the relevant information by contacting Datafiniti’s 80legs staff at [help@80legs.com](mailto:help@80legs.com). If you prefer not to receive newsletters or other marketing e-mails from Datafiniti, please let us know by clicking on the unsubscribe link within any newsletter or marketing e-mail you receive. 
+  * Details of your use of our Services, including traffic data, location data, logs and other communication data, and the resources that you access and use on our Services.
+  * Information about your computer and Internet connection, including your IP address, operating system, and browser type.
 
-#### Contact Us
 
-If you have any questions or concerns about this Policy, please feel free to contact us any time at: 
 
-Datafiniti, LLC  
-904 West Ave., Ste. 109, Austin, TX 78701  
-[help@80legs.com](mailto:help@80legs.com)
+We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking).
+
+The information we collect automatically may include personal information, or we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Services and to deliver a better and more personalized experience, including by enabling us to:
+
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize our Services according to your individual interests.
+  * Recognize you when you return to our Services.
+
+
+
+The technologies we use for this automatic data collection may include:
+
+  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our websites.
+  * **Web Beacons.** Pages of our websites and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+  * **Web Analytics.** We may use Google Analytics, Intercom, Adroll or other analytics software to track aggregate and anonymous user behavior on our Services.  To learn more, please review the following: 
+    * Google:https://policies.google.com/technologies/partner-sites
+    * Intercom:https://www.intercom.com/terms-and-policies#privacy
+    * Adroll:https://www.adrollgroup.com/privacy
+  * **Usage Logging.** We may log your usage of our Web Portal and API in order to provide relevant customer support and bill your use of our Services appropriately.
+
+
+
+We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or that you provide to us.
+
+**How We Use Your Information**
+
+We use information that we collect about you or that you provide to us, including any personal information:
+
+  * To present our Services and their content to you.
+  * To provide you with information, products, or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our Services we offer or provide.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
+
+
+
+We may also use your information to contact you about our own and third parties’ goods and services that may be of interest to you. If you do not want us to use your information in this way, please notify us by sending an email to contact@datafiniti.co.  For more information, see _Choices About How We Use and Disclose Your Information_.
+
+We may use the information we have collected from you to enable us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
+
+**Disclosure of Your Information**
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+
+We may disclose personal information that we collect or you provide as described in this privacy policy:
+
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers, and other third parties we use to support our business.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Datafiniti, LLC’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Datafiniti, LLC about our users is among the assets transferred.
+  * To third parties to market their products or services to you if you have not opted out of these disclosures. We contractually require these third parties to keep personal information confidential and use it only for the purposes for which we disclose it to them. For more information, see _Choices About How We Use and Disclose Your Information_.
+  * To fulfill the purpose for which you provide it. For any other purpose disclosed by us when you provide the information.
+  * With your consent.
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our terms of use http://80legs.com/terms/ and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Datafiniti, LLC, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+
+
+**Data Security**
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Services, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+
+Unfortunately, the transmission of information via the Internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Services. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Services.
+
+**Changes to Our Privacy Policy**
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the e-mail address specified in your account or through a notice on the website’s home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our website and this privacy policy to check for any changes.
+
+**Contact Information**
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at contact@datafiniti.co.
