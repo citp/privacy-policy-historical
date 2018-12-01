@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613065541id_/https%3A//www.bluenile.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201090638id_/https%3A//www.bluenile.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blue Nile
-
-DATA PROTECTION FOR INDIVIDUALS BASED IN THE EUROPEAN ECONOMIC AREA AND SWITZERLAND
 
 If you are a customer or website visitor in the European Economic Area (“EEA”) or Switzerland, the following, additional information is relevant to you. (Please do not rely on the below if you are not located in an EEA nation or Switzerland.):
 
