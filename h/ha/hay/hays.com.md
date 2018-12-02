@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628172627id_/http%3A//www.hays.com/general-content/privacy-policy-428297) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202111158id_/http%3A//www.hays.com/general-content/privacy-policy-428297) for the most accurate reproduction.*
 
 # Privacy Policy | US jobs and recruitment | Hays
 
@@ -38,13 +38,16 @@ We reserve the right to transfer your information to a third party in the event 
 
 ### Where will my information be held? Where will it be accessible from?
 
-The personal information that you provide to us (including sensitive personal information) may be accessible by other Hays group companies, clients, and the third parties specified above. Some of these Hays companies, clients and third parties are located outside of the United States. Accordingly your personal information will be sent to or be capable of being accessed from outside the United States. When we transfer your personal information outside the United States we will take steps with the aim of ensuring that your privacy rights continue to be protected as outlined in this Privacy Policy.
+The personal information that you provide to us (including sensitive personal information) may be accessible by other Hays group companies, clients, and the third parties specified above. Some of these Hays companies, clients and third parties are located outside of the United States. Accordingly your personal information will be sent to or be capable of being accessed from outside the United States. When we transfer your personal information outside the United States we will take steps with the aim of ensuring that your privacy rights continue to be protected as outlined in this Privacy Policy.  
+ 
 
 ### How do I find out what information you hold? Can I amend, modify or require my information to be deleted? Can I unsubscribe to your services?
 
 You may request us to confirm what information we hold about you at any time and may request us to modify, update or delete such information. We may ask you to verify your identity and for more information about your request. We also have the right to charge an administrative fee for this service. Where we are legally permitted to do so, we may refuse your request and will give you reasons for doing so. We will seek to act on your request in the timescale required by applicable data protection laws.
 
-You may request to unsubscribe from job alerts and marketing material at any time. If you wish to contact us with respect to the above matters please email us at [feedback-us@hays.com](mailto:feedback-us@hays.com). 
+_If you no longer wish to receive job alerts, marketing and promotional emails from Hays U.S., please click the unsubscribe link included in the footer of the email you received.   If you wish to contact us with any other matters, please email us at feedback-us@hays.com_.
+
+Hays U.S Corporate Office is located at 4300 West Cypress Street, Suite 900, Tampa FL 33607.
 
 ### How long will you hold my information for?
 
