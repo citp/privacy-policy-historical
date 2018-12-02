@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the solutionsreview.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123150802id_/https%3A//solutionsreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutionsreview.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203001845id_/https%3A//solutionsreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Solutions Review Privacy Policy
 
+### PRIVACY POLICY
+
+SOLUTIONS REVIEW is committed to protecting and respecting your privacy. We want to tell you how we use and protect your personal information. This includes informing you of your rights regarding your personal information that we hold.
+
+This Privacy Notice sets out how we may use, process and store your personal information. We may get that information from you or our partners, through contracts or other legal arrangements you have with us or our partners on behalf of us, in order to deliver contractual/legal obligations. In other cases, we will get that information from you with your permission and consent, or we may receive your personal information from third parties who you have given consent to pass this information on to us.
+
 You are being presented this Privacy Policy because you are visiting a website (the “Website”) that is either (a) owned and operated by LeadSpark, Inc. d/b/a Solutions Review (“Solutions Review”) or (b) includes content, including but not limited to registration and other forms, owned by Solutions Review or drawn from a website owned and operated by Solutions Review. Solutions Review is committed to protecting the privacy of our visitors’ personally identifiable information. The following privacy policy (“Privacy Policy”) explains our online information practices, use of the information you provide us and the choices you can make about the way your information is used by Solutions Review. By using the Website and providing personally identifiable information about yourself, you do hereby consent to (1) our Terms of Use, (2) our collection, use, and sharing of data as described in this Privacy Policy; (3) the notice, choice, access, and security we are providing, as described above; and (4) the methods we have described to notify you of changes to this Privacy Policy.
 
- **SO THAT WE MAY ASSIST YOU WITH YOUR SOLUTION BUYERS GUIDE INQUIRY, PLEASE BE ADVISED THAT SOLUTIONS REVIEW WILL FURNISH THE INFORMATION YOU SUBMIT ON THE WEBSITE TO OUR WEBSITE SPONSORS WITHIN THE SOLUTION CATEGORY YOU HAVE SPECIFIED SO THAT THEY MAY CONTACT YOU ABOUT THEIR PRODUCTS, SERVICES, OFFERS, AND PROMOTIONS.**
+ **SO THAT WE MAY ASSIST YOU WITH YOUR SOLUTION BUYERS GUIDE INQUIRY, PLEASE BE ADVISED THAT SOLUTIONS REVIEW MAY CHOOSE TO FURNISH THE INFORMATION YOU SUBMIT ON THE WEBSITE TO OUR WEBSITE SPONSORS WITHIN THE SOLUTION CATEGORY YOU HAVE SPECIFIED SO THAT THEY MAY CONTACT YOU ABOUT THEIR PRODUCTS, SERVICES, OFFERS, AND PROMOTIONS.   SOLUTIONS REVIEW WILL ONLY DO THIS WITHIN THE LEGAL REQUIREMENTS FOR CONSENT APPLICABLE TO THE COUNTRY YOU CHOOSE TO SELECT.**
 
 As a general rule, you will not be required to provide personally identifiable information as a condition to your browsing the Website. When such information is gathered, we will gather a limited scope of information from you that is necessary to facilitate the requests submitted by you, to improve this Website and your experience with the Website, and to make future visits to the Website easier and more personalized for you.
 
@@ -14,7 +20,8 @@ As a general rule, you will not be required to provide personally identifiable i
 
 Users of the Website may browse without being obligated to submit any personal information; however, we may collect certain personally identifiable information from you in certain areas of the Website for certain purposes. These purposes include:
 
-  * providing information to us so that we can contact you and help initiate contact and establish communication between you and an appropriate solution provider(s);
+  * providing information to us so that we can deliver downloadable content
+  * providing information to us so that we can help initiate contact and establish communication between you and an appropriate solution provider(s);
   * conducting other transactions offered by Solutions Review that you may request;
   * providing Solutions Review’s newsletter to you via e-mail;
   * assisting us in providing better products and services (for example, we may contact you to assist us in evaluating the performance of our staff, to assess the quality of product and service received and to help us improve the Website and our facilities and services); and,
@@ -34,7 +41,7 @@ Information we may collect:
 
 
 
-Failing to provide information that is required to complete certain transactions will not prevent you from browsing the Website, but it may prevent you from being able to complete certain transactions and/or prevent us from contacting you in order to put you in contact with the appropriate software vendor(s).
+Failing to provide information that is required to complete certain transactions will not prevent you from browsing the Website.
 
 The general categories of information we gather include:
 
@@ -54,8 +61,7 @@ We collect IP addresses and related information for the purposes of system admin
 
 #### Use of Cookies
 
-Cookies are short strings of text sent from a Web server to a Web browser when the browser accesses a website. In simplest terms, when the browser requests a page from the Web server that originally sent it the cookie, the browser sends a copy of the cookie back to that Web server. A cookie typically contains, among other things, the name of the cookie, a unique identification number, and an expiration date and domain name information. Cookies are used for personalization, tracking and other purposes. Cookies may be “session-only” or “persistent.” Persistent cookies last for more than one visit and are typically used to allow a visitor to the Website to personalize their experience.  
-We may use cookies to analyze the traffic on the Website (such as total visitors and pages viewed), to personalize features or save you the trouble of retyping your name or other information, and to make improvements to the Website based on the data we collect. We do not save passwords or other sensitive information in cookies. The use of cookies has become a standard in the Internet industry, especially at websites that provide any kind of personalized service.
+Cookies are short strings of text sent from a Web server to a Web browser when the browser accesses a website. In simplest terms, when the browser requests a page from the Web server that originally sent it the cookie, the browser sends a copy of the cookie back to that Web server. A cookie typically contains, among other things, the name of the cookie, a unique identification number, and an expiration date and domain name information. Cookies are used for personalization, tracking and other purposes. Cookies may be “session-only” or “persistent.” Persistent cookies last for more than one visit and are typically used to allow a visitor to the Website to personalize their experience.  We may use cookies to analyze the traffic on the Website (such as total visitors and pages viewed), to personalize features or save you the trouble of retyping your name or other information, and to make improvements to the Website based on the data we collect. We do not save passwords or other sensitive information in cookies. The use of cookies has become a standard in the Internet industry, especially at websites that provide any kind of personalized service.
 
 Cookies may also be placed by third parties prior to or during your visit to the Website. Our Affiliates and business partners may use these cookies in connection with pixel tracking (discussed below) or otherwise. We do not control these cookies. The use of cookies by content providers and advertisers has become standard practice in the Internet industry.
 
@@ -85,15 +91,19 @@ When you use the Website, you may be linked or directed to other third party sit
 
  **PLEASE BE ADVISED THAT SOLUTIONS REVIEW MAY PROVIDE CERTAIN INFORMATION YOU SUBMIT ON THE WEBSITE TO THIRD PARTIES, INCLUDING, BUT NOT LIMITED TO, YOUR NAME, ADDRESS, PHONE NUMBER AND E-MAIL ADDRESS SO THAT THEY MAY CONTACT YOU ABOUT THEIR OWN OR OTHERS’ PRODUCTS, SERVICES, OFFERS AND PROMOTIONS.**
 
+ **SITE VISITORS FROM OUTSIDE THE US**
+
+If you are visiting our Sites from outside the United States, you understand and agree that your Information may be transferred to, stored and used in the US where our servers are located and our central database is operated. While US data protection laws may not be as comprehensive as those in your country, we have taken steps in accordance with US law to ensure that your privacy is protected. By visiting our Sites or using our Services, you acknowledge and agree that your Information may be transferred to our US facilities and those third parties with whom we share it as described in this Privacy Policy.
+
+Individuals in the European Union and some other jurisdictions outside the United States have certain legal rights (including under the EU-U.S. and EU-Swiss Privacy Shield Frameworks) (i) to obtain confirmation of whether we hold Information about them, (ii) to access the Information we hold about them (including, in some cases, in portable form), and (iii) to correct, update, amend or delete in appropriate circumstances such Information. These data subjects may also object to our uses or disclosures of their Information or exercise legal rights to withdraw their consent, though such actions typically will not have retroactive effect. They may also have the right to lodge a complaint with the relevant EU data protection supervisory authority. However, we encourage you to contact us first, and we will do our very best to resolve your concern.
+
+The rights described in this section are subject to limitations and exceptions under the Privacy Shield Frameworks and applicable law. To exercise these rights, please contact us via the contact information at end of this Privacy Notice.
+
 * * *
 
  **LEGAL DISCLAIMER**
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on the Website.
-
- **TESTIMONIALS**
-
-We post customer testimonials on the Website which may contain personally identifiable information such as the customer’s name. If you want to remove your personal information that is being displayed on the Website under public pages please send your request to privacy@solutionsreview.com.
 
  **CHILDREN’S PRIVACY**
 
@@ -101,7 +111,9 @@ Solutions Review does not solicit personal information from children. We abide b
 
  **CHOICES YOU CAN MAKE ABOUT YOUR INFORMATION**
 
-We will give you an opportunity to opt-out of the gathering of your personally identifiable information, specific uses of your personally identifiable information, and any marketing promotions in accordance with the procedures set out in the section below, “Correcting and Changing Your Information.” In addition, you may opt-out of receiving any further e-mail from Solutions Review by clicking on the “unsubscribe” button in any Solutions Review e-mail. By adjusting the settings in your browser, you can refuse to accept cookies or give yourself the opportunity to accept or reject cookies, or receive notice of cookies. Software programs are available that block cookies. Refusing cookies may impinge or block altogether your user experience on the Website by eliminating personalization or other features.
+We will give you an opportunity to opt-out of the gathering of your personally identifiable information, specific uses of your personally identifiable information, and any marketing promotions in accordance with the procedures set out in the section below, “Correcting and Changing Your Information.”
+
+In addition, you may opt-out of receiving any further e-mail from Solutions Review by clicking on the “unsubscribe” button in any Solutions Review e-mail. By adjusting the settings in your browser, you can refuse to accept cookies or give yourself the opportunity to accept or reject cookies, or receive notice of cookies. Software programs are available that block cookies. Refusing cookies may impinge or block altogether your user experience on the Website by eliminating personalization or other features.
 
  **CORRECTING OR CHANGING YOUR INFORMATION**
 
@@ -122,8 +134,6 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
  **CONTACTING SOLUTIONS REVIEW**
 
-If you have any specific questions regarding any issues about privacy on the Website, please contact Solutions Review at 500 West Cumming Park, Suite 2750, Woburn, MA 01801 or via e-mail privacy@solutionsreview.com, and we will attend to your request and make any necessary revisions.
+If you have any specific questions regarding any issues about privacy on the Website, please contact: Solutions Review at 500 West Cumming Park, Suite 2750, Woburn, MA 01801 or via e-mail privacy@solutionsreview.com, and we will attend to your request and make any necessary revisions.
 
- **APPLICABLE LAW**
-
-Our collection and use of information shall be governed by laws of the United States.
+REVISED AND POSTED MAY 2018
