@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the clientsfromhell.net privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903155730id_/https%3A//clientsfromhell.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clientsfromhell.net privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202203329id_/https%3A//clientsfromhell.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-### [Privacy Policy]()
+# Privacy Policy - Clients From Hell
 
 This blog does not share personal information with third parties nor do we store any information about your visit to this blog other than to analyze and optimize your content and reading experience through the use of cookies.
 
@@ -12,4 +10,4 @@ We are not responsible for republished content from this blog on other blogs or 
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-This privacy policy is subject to change without notice and was last updated on April, 9th, 2012. If you have any questions feel free to contact me directly here: contact {@} clientsfromhell [dot] net 
+This privacy policy is subject to change without notice and was last updated on April, 9th, 2012. If you have any questions feel free to contact me directly here: [contact@clientsfromhell.net](mailto:contact@clientsfromhell.net)
