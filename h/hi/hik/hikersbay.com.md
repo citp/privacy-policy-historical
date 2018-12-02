@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the hikersbay.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617042045id_/http%3A//hikersbay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hikersbay.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202032425id_/http%3A//hikersbay.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 At hikersbay.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by hikersbay.com on website and mobile apps and how we use it. 
+
+If you are looking for information about the advertising and cookie policy, you can find it here:
+
+  * [Advertising display policy](https://web.archive.org/ads)
+  * [Cookies Policy](https://web.archive.org/cookies)
+
+
 
 #### Log Files
 
@@ -15,6 +22,17 @@ hikersbay.com uses cookies to store information about visitor's preferences, to 
 #### Personal data
 
 Hikersbay mobile apps and website does not knowingly collect any personally identifiable information like consumer’s identity, contact information, age, location and gender. 
+
+#### Real time location information 
+
+When you visit the mobile application, we may use GPS technology (or other similar technology) to determine your current location in order to determine the city you are located within and display a location map with relevant advertisements. We will not share your current location with other users or partners. 
+
+#### Content of the Website
+
+The author of this Website is not responsible for the topicality, correctness, completeness and quality of the information provided. All information contained in the Service is for informational purposes only and is not binding.   
+Information contained in the Service and its subpages and bookmarks may be extended, changed partially or completely, as well as deleted by the author, without the need for separate information in this respect.   
+The information contained on this website does not constitute professional or legal advice. We are not responsible for any use that may be made of the information on this website. Users are therefore advised to take all necessary precautions before using such data.  
+We make every effort to ensure that the information published on this website is up to date and accurate and cannot in any way guarantee this. 
 
 #### DoubleClick DART Cookie
 
