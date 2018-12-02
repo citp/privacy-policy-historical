@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bujhansi.ac.in privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603065108id_/http%3A//bujhansi.ac.in/en/page/privacy-policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bujhansi.ac.in privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202105531id_/http%3A//bujhansi.ac.in/en/page/privacy-policy1) for the most accurate reproduction.*
 
 # Bundelkhand University, Jhansi / TERMS & POLICY / PRIVACY POLICY
 
