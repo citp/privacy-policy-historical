@@ -1,39 +1,93 @@
-> *The following text is extracted and transformed from the prohealth.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001211251id_/https%3A//www.prohealth.com/shop/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prohealth.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202161150id_/https%3A//www.prohealth.com/privacy-policy) for the most accurate reproduction.*
 
-# ProHealth Vitamin & Supplement Store: Privacy Policy
+# Privacy Policy - Prohealth
 
-  
-**Your information is safe with us. ProHealth values your personal information and is committed to protecting it. We will never sell, rent, exchange or share any of your personal information - Ever.**
+**Your information is safe with us. ProHealth values your personal information and is committed to protecting it. We will never sell or rent any of your personal information – Ever.**
 
-Below is information outlining our continued support for the responsible management of consumer information. 
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from [https://www.prohealth.com](https://www.prohealth.com/) (the “Site”).
 
-When you visit ProHealth.com or any of our other corporate sites, we collect personally identifiable information for internal purposes such as: confirming and tracking orders, customer feedback, subscription, registration, analysis, improving ecommerce efforts, etc. The information collected is used to continually improve our website content, product offerings and ecommerce activities. This information is used internally by employees of ProHealth at ProHealth offices. 
+**PERSONAL INFORMATION WE COLLECT**
 
-Like many internet sites, ProHealth uses a standard in Internet activity known as "cookies". Cookies are small text files stored on your hard drive, which contain information about your activity and preferences when visiting ProHealth.com. Cookies in no way include personally identifiable information such as your name, address, email address or telephone number. These cookies allow us to deliver content specific to your interests, and allow us to preserve your password in your internet browser so you don't have to re-enter it each time you visit our site(s). They also allow us to keep track of items in your shopping cart for checkout. 
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-If you choose not to accept cookies in your browser you will still be able to access all functional areas of the site; however, you will not be able to purchase products through our online store. 
+We collect Device Information using the following technologies:
 
-If you supply us with an email or postal address, we can send you periodic emails or catalogs with information about ProHealth products, research and upcoming events. You may opt out from receiving emails or postal communications at any time. 
+– “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-ProHealth strives to give you the best website experience anywhere, and to do so we use third-party companies to provide our ProHealth products and information to you. Some of these trusted and carefully-screened companies are given limited access to some of the information you provide to us and may use cookies on our behalf. These companies are contractually restricted from using your information in any manner, other than in helping us provide you with the products and information most relevant to you while you are using the ProHealth website. 
+– “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
-**Protection of Customer and User Information**
+– “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-We value your information as much as we do our own. ProHealth will never share, rent or reveal your personal information to other companies or services. This protected information includes but is not limited to your name, address, telephone number, email address, credit card, message board or chat activity information. 
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number.  We refer to this information as “Order Information.”
 
-**Security**
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-ProHealth will protect your information both online and offline. When you submit sensitive information it is encrypted and protected during transmission via a SSL connection. Additionally, any page on ProHealth.com that requires password, personal or financial information to be submitted is done so in a secure and protected area. 
+**HOW DO WE USE YOUR PERSONAL INFORMATION?**
 
-**Legal Disclaimer**
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations).  Additionally, we use this Order Information to:
 
-We make every effort to ensure that the information on this website is accurate. However, ProHealth is not liable for any inaccuracies and visitors should treat all information on an 'As-Is' basis without any representation or warranty. 
+Communicate with you;
 
-ProHealth may disclose personal information when required by law, or to comply with a legal process served on our website. 
+Screen our orders for potential risk or fraud; and
 
-**Contact**
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
-If you do not wish to receive email or postal mail from us, or have any questions about our privacy policy, please contact us at: 
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
+
+**SHARING YOUR PERSONAL INFORMATION**
+
+We share your Personal Information with third parties to help us use your Personal Information, as described above.
+
+For example:
+
+We use Shopify to power our online store–you can read more about how Shopify uses your Personal Information here:  <https://www.shopify.com/legal/privacy>.
+
+We use Google Analytics to help us understand how our customers use the Site–you can read more about how Google uses your Personal Information here:  <https://www.google.com/intl/en/policies/privacy/>.  You can also opt-out of Google Analytics here:  <https://tools.google.com/dlpage/gaoptout>.
+
+We use HubSpot to manage your email subscriptions and preferences. You can ready HubSpot’s Privacy Policy here: <https://legal.hubspot.com/privacy-policy>
+
+If you wish to unsubscribe from our emails, you may do so using the links provided in each email you receive, or contact us at  
+[customerloyalty@prohealth.com](mailto:customerloyalty@prohealth.com)
+
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+**BEHAVIOURAL ADVERTISING**
+
+As described above, we may use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you.  For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at <http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work>.
+
+You can opt out of targeted advertising by visiting:
+
+FACEBOOK – <https://www.facebook.com/settings/?tab=ads>
+
+GOOGLE – <https://www.google.com/settings/ads/anonymous>
+
+BING – <https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads>
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at:  <http://optout.aboutads.info/>.
+
+**DO NOT TRACK**
+
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+**YOUR RIGHTS**
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above.  Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+**DATA RETENTION**
+
+When you place an order through the Site, we will maintain your Order Information for our records and as required by law.
+
+If you wish to have your personal information removed from our email management system, HubSpot, you may do so my contacting us below.
+
+**CHANGES**
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+**CONTACT US**
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us using the details provided below:
 
 > [customerloyalty@prohealth.com](mailto:customerloyalty@prohealth.com)
 > 
@@ -42,4 +96,4 @@ If you do not wish to receive email or postal mail from us, or have any question
 >  Carpinteria, CA 93013 USA  
 >  Customer Service: (800) 366-6056  
 >  International: 001.805.564.3064  
->  Fax: (805) 684-6199 
+>  Fax: (805) 684-6199
