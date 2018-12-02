@@ -1,67 +1,187 @@
-> *The following text is extracted and transformed from the sharefaith.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610214345id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharefaith.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202145555id_/https%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Sharefaith values your privacy. You may contact us any time to learn more about this privacy policy by sending email to [Support@Sharefaith.com](mailto:Support@Sharefaith.com). This Privacy Statement describes how Sharefaith collects and uses information about you when you use the Sharefaith web site ("Site"). 
+  
 
-**Collection and Use of Personal Information by Sharefaith**
 
-With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. Sharefaith uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by sending e-mail to [Support@Sharefaith.com](mailto:Support@Sharefaith.com). **
+## **Introduction**
 
-Cookies
+Sharefaith is a member of the Ministry Brands family. This Privacy Policy ("Privacy Policy" is specific to Sharefaith and may contain information not included in Ministry Brands' statement. This is due to the specific services and software uniquely provided by Sharefaith. Please also review the Ministry Brands Privacy Policy to ensure you are fully informed of our privacy practices. The Ministry Brands Privacy Policy can be found here: https://www.ministrybrands.com/legal/.
 
-**
+At Sharefaith ("Sharefaith", "we", "us", "our", or the "Company"), we are committed to protecting your privacy. This Privacy Policy describes the types of information we collect about users of our websites and is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Services. This Privacy Policy also describes (1) the measures we take to safeguard the information we collect and (2) your rights and privileges concerning our collection, use and disclosure of information about you. 
 
-You must have Cookies turned ON to be a member at Sharefaith. Cookies are very small text files placed on your hard drive by a computer server. It serves as your identification card and is uniquely yours. A cookie can only be read by the server that gave it to you. Cookies tell us that you returned to a specific Web page on our Site, and help us track your preferences. Cookies enable you to login, and help us personalize your experience at the Site by permitting our computer server to "remember" who you are. Some of the advertisers on the Site use cookies to collect similar information, but we do not control the use of cookies by other web site operators or advertisers. **
+This Privacy Policy applies to websites owned and operated by Sharefaith, including, but not limited to, www.sharefaith.com. Throughout this document, this website, all other Sharefaith affiliated websites, and affiliates with links to this policy will be collectively referred to as the "Websites". Services provided by or enabled via the Websites will be referred to as the "Services".
 
-Personal Information Used for Promotional Purposes
+Sharefaith is not responsible for the content or privacy practices of non-Sharefaith websites to which this website, or any other Sharefaith website, may link. Also, Sharefaith is not responsible for the privacy practices of our Clients or users of our Clients' websites. You should review any additional privacy policy and terms of use agreements before using a Client's website.
 
-**
+By using our Websites, you consent to the data practices described in this Privacy Policy. If you do not agree with the data practices described in this Privacy Policy, you should not use our Websites.
 
-We may send you information from time to time about Sharefaith promotional offerings. However, we will not share your Personal Information with any third party without your prior consent. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from SHarefaith by using the UNSUBSCRIBE link provided in all marketing emails, or by sending e-mail to [Support@Sharefaith.com](mailto:Support@Sharefaith.com) and, for third party promotional offerings, by contacting the source of that promotional offering. 
+##  **Sharefaith Platform**
 
-We sometimes use the non-personal identifiable information that we collect to improve the design, content and promotion of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, upgrades or services through banner ads and other ad-material. 
+In addition to the Websites, Sharefaith operates a web-based software platform, Sharefaith, used by our Clients to provide access to a website for authorized individuals, including their employees and customers. The use of information collected through this platform is strictly limited to the purpose of meeting our contractual obligations to our Clients and providing the services requested by our Clients, which are defined within our service agreements. The information we collect is done so at the direction of our Clients and we have no direct relationship with their customers, the individuals whose personal data we process. If you are the customer of one of our Clients, you should refer to that Client's privacy policy for information on how your personal information is collected, used and protected. Any inquiries related to your data, how it is processed, and data access, deletion and modification requests should be directed to that Client.
 
-Sharefaith uses services such as Google Analytics for Sharefaith DisplayAds. That includes obtaining specific visitor cookie data, such as the source, medium and keyword used to visit our website. Google Analytics does not store any visitor specific data and we will not use visitor specific data in any way related to Google Analytics, Google Adwords, and Remarketing. Sharefaith uses remarketing with Google Adwords and analytics to display content specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented. 
+##  **Changes to the Privacy Policy**
 
-Sharefaith and other third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) together to inform, optimize, and serve ads based on visitor's past visits to our website. 
+The data Sharefaith collects and uses is governed by this Privacy Policy as amended from time to time, not by the Privacy Policy in effect at the time of data collection. This includes data collected from Sharefaith Websites, affiliates with links to this Privacy Policy, and services provided by or enabled via these sites. Sharefaith may change the Privacy Policy at our sole discretion and will provide notice of changes in the Privacy Policy and on the privacy policy page of our Websites. If, as the result of such changes, you want to alter the ways in which we are allowed to use your personal information, you can do so by following the procedure described in the section entitled "Privacy Rights".
 
-The end user can unsubscribe from these advertisements at any time by clicking on the opt-out button on the banner or by using Google's opt-out browser [add-on](https://tools.google.com/dlpage/gaoptout/). **
+Please regularly review our Privacy Policy. If you have objections to the Privacy Policy, you should immediately discontinue use of the Websites and the Services enabled by the Websites. This Privacy Policy does not govern privacy practices associated with offline activities, websites other than the Websites, or any products or services not available or enabled via the Websites. You will be deemed to have been made aware of, and will be subject to, the changes to the Privacy Policy after such notice has been posted with the following exception: if at the time you provide personal information to Sharefaith you limit how such information will be used to communicate with you, either by Sharefaith or by third parties, Sharefaith will not change your preference in this regard without your express consent. However, if Sharefaith sells assets (or the assets of a division or subsidiary) to another entity, or Sharefaith (or a division or subsidiary) is acquired by or merged with another entity, you agree that Sharefaith may provide to such entity customer information that is related to that part of our business that was sold to or merged with the other entity without obtaining your further consent. Sharefaith will provide notice of such asset sales, acquisitions, or mergers on its Websites.
 
-Children's Privacy
+##  **Policy Regarding Children**
 
-**
+Sharefaith Websites and Services are not designed for use by children under the age of 16. As such, this Website is not directed at children under the age of 16 nor do we knowingly collect or maintain information from children under the age of 16 on this Website. 
 
-Children under the age of 13 are not allowed to purchase products on the Site. SHarefaith does not knowingly collect Personal Information about child under the age of 13 or allow them to place orders on the Site. If Sharefaith learns that a child under the age of 13 is placing orders on the Site, Sharefaith will close the child's account and delete all information collected about the child. Notwithstanding the foregoing, Sharefaith may choose to retain the child's e-mail address as a means to prevent the child from re-registering with Sharefaith. **
+## **Collection and Use of Data**
 
-Security
+Sharefaith are the sole owners of the information collected on this site. We have access to and collect information that you voluntarily give us via email, webform or other direct contact from you. We will use your information to respond to you, regarding the reason you contacted us. We will not sell or rent this information to anyone. We may disclose information to our corporate affiliates and third parties to provide products and services to you, or related to products or services you have purchased or downloaded from Sharefaith. Unless you ask us not to, we may contact you via email in the future to tell you about our services, new products, or changes to this privacy policy or to provide you with informational or educational newsletters.
 
-**
+Do not provide personal information about others unless you are authorized or required to do so by applicable law or contract. Before supplying personal information about others, you and the person about whom you supply the information must review and consent to the Terms of Use and Privacy Policy of the Website. By submitting any personal information about others, you represent and warrant that you are authorized to do so, that you have made the Terms of Use and Privacy Policy available to the person about whom you supply the information, and that you have obtained that person's written consent to our Terms of Use and Privacy Policy. If applicable law allows you to supply the information without doing the foregoing, you represent and warrant that you have abided by that law and that it allows us to receive and disclose the information under this Privacy Policy without any further action on our part. You agree to indemnify, defend and hold harmless Sharefaith, our parents, subsidiaries, officers, directors, employees and agents, sponsors and supporting artists, licensors and suppliers for any failure by you to comply with this paragraph. 
 
-We take reasonable steps to protect Personal Information and use technology such as SSL encryption, access control procedures, firewalls and physical security. If you use Netscape Navigator or Internet Explorer, SSL displays a "lock" to signify that a page is secure. We urge you to use a password to protect your account from unauthorized access by others. If others, including family or household members, access and use the Site through your password, you are responsible for the actions of those individuals. **
+## **Personal Information and Business Information**
 
-Other Situations in which Personal Information May Be Disclosed
+"Personal Information" as used in this Privacy Policy is information that we directly associate with a specific person or entity, such as name, address, payment information (including payment card number, expiration date, cardholder name and CVV code), mobile telephone number, and email address. Please note that any payment information we collect is not stored by us. The Personal Information you provide will vary based upon the context, and we will not collect your Personal Information unless you make it available. You are not required to provide Personal Information at any time while visiting the Websites; however, you may be required to provide Personal Information to use certain Services. You may provide us with Personal Information by participating in online surveys, subscribing to newsletters and other recurring offerings through the Websites, and in connection with other products, services, features, or requests made available through the Websites.
 
-**
+Sharefaith collects the Business Information necessary to enable us to respond to your requests for our products and services and to send you information regarding our products and services from time to time. Since most of the users of our products and Websites are doing so in their capacity as employees or companies, most Business Information we collect will be in that capacity (rather than information about you individually, such as your personal tastes, etc.). For these purposes, we have defined "Business Information" as any information that identifies or may identify a company or an individual contact at a company or that allows others to contact a company or an individual contact at a company. When you visit our Websites, you may be asked to submit information such as e-mail address, company name, address, phone number, your product version and/or areas of interest. We may also ask you where you heard about our company or products, or for other information that will help us understand more about your needs or help us process your requests for information. In addition, we collect credit card and related payment information when you order products, services or support plans online. Our information collection and use practices are described in more detail below. 
 
-We may store and disclose Personal Information allowed or required by applicable law or when deemed advisable by us. This means that we may make disclosures that are necessary or advisable to conform to legal and regulatory requirements or processes and to protect the rights, safety and property of Sharefaith, users of the Site, and the public. **
+## **Support**
 
-Changes To The Sharefaith Privacy Statement
+We offer certain limited online support services. If you access our online support, you may be asked for information such as customer ID, product name, product version and other information to help us determine what the technical issues are and how best to help you resolve them. In addition, certain products allow you to submit support-related questions directly from the product. If you access online support services from a product, information about your network, operating system, printer, data and program path, product type, version, customer ID, the product's technical support information sheet, product serial number and other similar information will be automatically pre-populated for submission to our customer support representatives to assist them in answering your questions. 
 
-**
+## **Product-Related Information Collection**
 
-Sharefaith may make changes to this Privacy Statement from time to time. We will post changes to our privacy statement here, so be sure to check back periodically. We may also notify you of significant changes by e-mail or in other ways. **
+Sharefaith collects certain additional information in connection with your use of our Services, web-based products and/or desktop products with online features. For instance: 
 
-Questions, Comments, Concerns
+  * **● Product Updates:** Some products provide you with the ability to download and register product and/or tax updates as they become available. During the download and registration process, we collect "Business Information", including customer ID number and product version, type and serial number. This is collected so that we can authorize your access, provide you with the appropriate update, and to update our records as to the product and product updates you have downloaded or installed, so that we may provide the appropriate support.
+  
 
-**
+  * **● Account Set-Up and Access:** Upon subscribing to our services, Sharefaith collects Business Information, which may include information such as product serial number, customer ID and your customer profile information. This allows us to identify you to authorize your access and use of the services, and to provide you with your relevant account information. Certain products allow you to access your account to obtain information such as your support plan status, service subscriptions, registrations and order history.
+  
 
-If you have any questions or comments about our use of Personal Information, please contact us at [Support@Sharefaith.com](mailto:Support@Sharefaith.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. 
+  * **● Online Product /Account Application:** Certain products and services are subject to an application and enrollment process, which may be completed on paper or online. Information requested may include federal ID numbers, bank account, payroll, credit card and contact information. This information is used to process your enrollment request and, if approved, to set up and administer your account. Web-based Services: Some of our web-based Services collect certain additional information, including IP address, browser, connection speed, domain, referring URL and other environment-related information. This enables us to provide a secure environment for the use of the services, to pre-populate forms and calculate aggregate statistical information about the customers using these services. We use this information to better protect you and to provide a better user experience. 
+
+
+
+## **Third-Party Products**
+
+Sharefaith may use your Business Information to inform you of special discounts or offers from other companies we have carefully selected and whose products and services may be of interest to you. 
+
+## **Public Forums**
+
+Information (including personal and business information) that you submit, post or otherwise reveal in a public forum (such as comments to a blog or product discussion forum) is not subject to this Privacy Policy, will be seen by third parties not related to Sharefaith and may be used by them or Sharefaith to contact you for any purpose. 
+
+## **Registrations**
+
+To access information (blogs, demos of our products, marketing materials, etc.) on the Websites, a user may be required to register with Sharefaith. During registration, a user is required to give certain information (such as name, email address, job title). This information is used to contact you about the products/services on our site in which you have expressed interest. 
+
+## **Orders**
+
+We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number and expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we'll use this information to contact you. 
+
+## **Surveys and Contests**
+
+From time-to-time, our Websites may request information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify winners and award prizes, if applicable. Survey information will be used for purposes of monitoring or improving the use and satisfaction of the Websites. 
+
+## **Cookies**
+
+Sharefaith may place "cookies" on the browser of your computer. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Cookies may enhance the convenience and use of the Website. For example, the information provided through cookies may be used to recognize you as a previous user of the Website (so you do not have to enter your personal information every time), offer personalized information for your use, and otherwise facilitate your experience using the Website. You may choose to decline cookies if your browser permits, but doing so may affect your ability to access or use certain features of the Website. 
+
+Sharefaith may also utilize web beacons on our Websites. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. The information collected through these automated means may include information that we gather and store about your visit to, and use of, the Websites, such as your IP address, type of browser and operating system used, date and time you access the websites, pages you visit, and, if you linked to the Websites from another website, the address of that website. This data does not include Personal Information and is not treated as Personal Information under this Privacy Policy, but it may include the IP address of your device. We may link an IP address to information that is personally identifiable. 
+
+Most web browsers automatically accept cookies, but you can disable this function so that your browser will not accept cookies. Please be aware that disabling this function may impact your use and enjoyment of this Website. 
+
+## **Third-Party Analytics**
+
+We may also allow certain third-party analytics service providers to include cookies and web beacons within the pages of the Websites on our behalf and to retain and use the information received from such cookies and web beacons themselves. Third-party service providers that collect this data on our behalf may offer information about their data collection practices, and in some cases, an opt out on their respective websites which you can access here: [ http://www.google.com/analytics/](http://www.google.com/analytics/). 
+
+Do Not Track Currently, various browsers — including Microsoft Edge, Google Chrome, Internet Explorer, Mozilla Firefox, and Apple Safari — offer a "do not track" or "DNT" option that relies on a technology known as a DNT header, which sends a signal to Web sites visited by the user about the user's browser DNT preference setting. We do not currently commit to responding to browsers' DNT signals with respect to the Company's Web sites, in part, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators, including no consistent standard of interpreting user intent. We take privacy and meaningful choice seriously and will make efforts to continue to monitor developments around DNT browser technology and the implementation of a standard. 
+
+## **Protecting Data During Collection**
+
+We take precautions to protect your information. When you submit sensitive information via the Websites, your information is protected both online and offline. We use appropriate security measures to protect the security of your data both online and offline. These measures vary based on the sensitivity of the information that we collect, process, store, and the current state of technology. Please note, though, that no website or internet transmission is completely secure, so while we strive to protect your data, we cannot guarantee that unauthorized access, hacking, data loss or a data breach will never occur. 
+
+## **How We Use The Data We Collect**
+
+**Email Communication**  
+Each email we send will contain instructions on how to unsubscribe should you decide not to receive future promotional emails. If you choose to opt-out of receiving promotional e-mail communications from any Sharefaith business unit, we may still periodically communicate with you via mail and telephone. Please allow up to 10 business days to be removed from our promotional email list. 
+
+We send notification emails about the Website and Services from time to time as necessary. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. We also send newsletters to our users with news of new service offerings and promotions. Should you change your mind about receiving these newsletters, you can unsubscribe by following the directions present in each email we send out. Most of our communications are intended to:
+
+  * ● inform you of product upgrades and updates and subscription renewals; 
+  * ● inform you of tax, regulatory and other compliance issues with your software product or service; 
+  * ● notify you of products and services that we think may be of interest to you; 
+  * ● offer you discounts or other promotions with respect to Sharefaith products and services that we think may interest you; and 
+  * ● contact you for survey purposes to determine how we can better service you or provide better products to meet your needs. 
+
+
+
+**Third-Party Email Promotions**  
+If you access and/or use any of our Partner's services from a link on this Website, a Sharefaith/Partner co-branded site or by any other means, any information you reveal in connection with such service is submitted to our Partner and is not subject to this Privacy Policy. You should consult the privacy policy of any Partner or third-party site with respect to its treatment of any information that you may reveal through such service. 
+
+**Services and Product Data**  
+Business Information collected by Sharefaith as set forth in the Personal Information and Business Information section above does not include your company's data entered in the course of operating our products ("Product Data") or data provided by you while using our services ("Services Data"). Sharefaith will not access your Product Data or Services Data except in the following limited circumstances: 
+
+  * ● to provide you with technical support, solely at your request and with your permission; 
+  * ● on a limited-access basis to install updates, produce regular backups or restore data from backups at your request; 
+  * ● where the inherent purpose of the product or service requires Sharefaith to provide the Product Data or Services Data to a third party on your behalf (for example where Sharefaith makes tax filings on your behalf or initiates bank transfers on your behalf); and 
+  * ● unless you opt-out, to utilize Aggregate Information derived from Product Data and Services Data to help us improve our products and services and in developing additional offerings. Aggregate Information is non-identifying information about you that is provided to third parties for analysis. For example, we might inform third parties regarding the number of users of this Website and the activities they conduct while on this Website to better understand user experience. Third-parties who receive aggregate information cannot identify or contact you based on the information they receive. 
+
+
+
+Sharefaith will not provide your Product Data or Services Data to any third-party or permit any third-party to access your Product Data or Services Data, except with your permission or to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order. In addition, if at any time you decide to discontinue your use of the applicable service, your Services Data will be destroyed and removed from all servers according to terms set forth in your Service Agreement, subject to applicable backup and disaster recovery practices and procedures. 
+
+## **How We Share Data**
+
+Unless you give us your permission, we don't share data we collect from you with third parties, except as described below:
+
+**Third-party service providers or consultants.** We may share data collected from you on the Sharefaith Site with third-party service providers or consultants who need access to the data to perform their work on Sharefaith's behalf, such as a website analytics company or our third-party advertising partners. These third-party service providers are limited to only accessing or using this data to provide services to us and must provide reasonable assurances that they will appropriately safeguard the data. 
+
+## **Compliance with Laws**
+
+We may disclose your data to a third party if (i) we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or government request (including to meet national security or law enforcement requirements), (ii) to enforce our agreements and policies, (iii) to protect the security or integrity of the Sharefaith Site or our services and products, (iv) to protect ourselves, our other customers, or the public from harm or illegal activities, or (v) to respond to an emergency which we believe in good faith requires us to disclose data to assist in preventing a death or serious bodily injury. If Sharefaith is required by law to disclose any of your data that directly identifies you, then we will use reasonable efforts to provide you with notice of that disclosure requirement, unless we are prohibited from doing so by statute, subpoena or court or administrative order. Further, we object to requests that we do not believe were issued properly. 
+
+**Affiliates.** We may share data collected from you from the Sharefaith Site with our affiliates. We all will only use the data as described in this notice. 
+
+**Business transfers.** If we go through a corporate sale, merger, reorganization, dissolution or similar event, data we gather from you through our website may be part of the assets transferred or shared in connection with due diligence for any such transaction. Any acquirer or successor of Sharefaith may continue to use the data we collect from you through our Site as described in this notice. 
+
+**Aggregated or de-identified data.** We might also share data collected from you from the Sharefaith Site with a third party if that data has been de-identified or aggregated in a way that does not directly identify you. 
+
+We do not share your data (including, but not limited to, the personal data of your end users) with third parties for their direct marketing purposes, unless you give us your consent to do so. 
+
+## **Privacy Rights**
+
+We may retain your information for a period of time consistent with the original purpose of collection. For instance, we may retain your information during the time in which you have an account to use our Websites or Services and for a reasonable period of time afterward. We also may retain your information during the period of time needed for us to pursue our legitimate business interests, conduct audits, comply with our legal obligations, resolve disputes and enforce our agreements. 
+
+You may opt out of any future contacts from us at any time. Additionally, if the collection of your personal data was based on your consent, you have the right to revoke that consent at any time. Be aware that by revoking consent, you may lose access to services you previously opted to use. 
+
+You may request to review, correct, delete, or otherwise modify any of the personal information that you have previously provided to us through the Company's Web Site(s) and Services. You can do the following at any time by contacting us via the email address or phone number provided on our website: 
+
+  * ● See what data we have about you, if any
+  * ● Change/correct any data we have about you
+  * ● Have us delete any data we have about you
+  * ● Express any concern you have about our use of your data
+
+
+
+Requests to access, change, or delete your information will be addressed within a reasonable timeframe. 
+
+## **California Residents' Privacy Rights**
+
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of such information, please contact us as described in the "Questions, Concerns or Complaints" section below, and we will respond within 30 days as required by law. 
+
+## **How to Contact Us**
+
+Ministry Brands  
+Attn: Legal Department  
+14488 Old Stage Road  
+Lenoir City, TN 37772  
+USA 
+
+Please note that Sharefaith is not responsible for the content or privacy practices of non- Sharefaith websites to which this Site or any other Sharefaith website may link. Also, Sharefaith is not responsible for the privacy practices of its customers or users of its customer websites. You should review the additional privacy policy of the customer site before using the site. 
 
 [](https://www.sharefaith.com/faith/freeTrial.do)
 
 **ShareFaith Inc.**  
-821 O'Hare Parkway #201  
+860 O'Hare Parkway Suite #200  
 Medford, Oregon 97504  
 Tel: 888-317-4018  
 For all suggestions, billing and site questions, please visit our support site to create a support request at: [support.sharefaith.com](https://support.sharefaith.com/)
