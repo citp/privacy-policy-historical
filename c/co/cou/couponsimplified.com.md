@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponsimplified.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628233648id_/http%3A//couponsimplified.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsimplified.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202225819id_/http%3A//www.couponsimplified.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Coupon Simplified
 
