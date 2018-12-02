@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the sleeplikethedead.com privacy policy that was archived on 2018-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180620125053id_/http%3A//www.sleeplikethedead.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sleeplikethedead.com privacy policy that was archived on 2018-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181202081812id_/http%3A//www.sleeplikethedead.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><!-- InstanceBegin template="/Templates/template2011a.dwt" codeOutsideHTMLIsLocked="false" --><!--<![endif]--><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--
 
-††††††††††††††††††† COPYRIGHT 2007-2013   SLTD, Inc.   ALL RIGHTS RESERVED.
+††††††††††††††††††† COPYRIGHT 2007-2019   SLTD, Inc.   ALL RIGHTS RESERVED.
 
             All content on this website is copyrighted material and may NOT be reproduced,
             stored on a computer disk, republished on another website, or distributed in any
@@ -43,94 +43,175 @@
 <title>Privacy Statement</title>
 
 <!-- InstanceEndEditable -->
-<meta name="Updownerbot" content="noindex">
+
+
 <link href="boilerplate.css" rel="stylesheet" type="text/css">
 <link href="Untitled-1.css" rel="stylesheet" type="text/css">
+<link href="header.css" rel="stylesheet" type="text/css">
 <link href="test.css" rel="stylesheet" type="text/css">
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="jquery-1.8.3.min.js"></script>
+<script src="jquery-1.8.3.min.js"></script>
 <script>
-$(document).ready(function() {
- 
- $('.testy').click( function() {
-    $('#LayoutDiv2').toggle();
-   });
-}); // end ready
 
-$(document).ready(function() {
- 
- $('#bignav').click( function() {
-    $('.testy2').toggle();
+
+(function($) {
+$.fn.menumaker = function(options) {  
+ var cssmenu = $(this), settings = $.extend({
+   format: "dropdown",
+   sticky: false
+ }, options);
+ return this.each(function() {
+   $(this).find(".button").on('click', function(){
+     $(this).toggleClass('menu-opened');
+     var mainmenu = $(this).next('ul');
+     if (mainmenu.hasClass('open')) { 
+       mainmenu.slideToggle().removeClass('open');
+     }
+     else {
+       mainmenu.slideToggle().addClass('open');
+       if (settings.format === "dropdown") {
+         mainmenu.find('ul').show();
+       }
+     }
    });
-}); // end ready
+   cssmenu.find('li ul').parent().addClass('has-sub');
+multiTg = function() {
+     cssmenu.find(".has-sub").prepend('<span class="submenu-button"></span>');
+     cssmenu.find('.submenu-button').on('click', function() {
+       $(this).toggleClass('submenu-opened');
+       if ($(this).siblings('ul').hasClass('open')) {
+         $(this).siblings('ul').removeClass('open').slideToggle();
+       }
+       else {
+         $(this).siblings('ul').addClass('open').slideToggle();
+       }
+     });
+   };
+   if (settings.format === 'multitoggle') multiTg();
+   else cssmenu.addClass('dropdown');
+   if (settings.sticky === true) cssmenu.css('position', 'fixed');
+resizeFix = function() {
+  var mediasize = 1000;
+     if ($( window ).width() > mediasize) {
+       cssmenu.find('ul').show();
+     }
+     if ($(window).width() <= mediasize) {
+       cssmenu.find('ul').hide().removeClass('open');
+     }
+   };
+   resizeFix();
+   return $(window).on('resize', resizeFix);
+ });
+  };
+})(jQuery);
+
+(function($){
+$(document).ready(function(){
+$("#cssmenu").menumaker({
+   format: "multitoggle"
+});
+});
+})(jQuery);
+
+
 </script>
-<!-- 
-To learn more about the conditional comments around the html tags at the top of the file:
-paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
 
-Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):
-* insert the link to your js here
-* remove the link below to the html5shiv
-* add the "no-js" class to the html tags at the top
-* you can also remove the link to respond.min.js if you included the MQ Polyfill in your modernizr build 
--->
-<!--[if lt IE 9]>
-<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-<script src="respond.min.js"></script>
+
+
+
+
 <!-- InstanceBeginEditable name="head" -->
 <meta name="robots" content="noindex">
 <!-- InstanceEndEditable -->
-<script>
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-32533944-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 </head>
 <body>
 <div class="gridContainer clearfix">
   <div id="LayoutDiv1">
-    <div id="logo"> <a href="index.html"><img src="logo.gif" alt="Sleep Like The Dead" width="144" height="75" border="0"></a></div><div id="bignav"><img src="menubigblue2.gif"></div>
-  <div id="DivA">
-    <p><img src="arro.gif" alt="->" width="9" height="9"> Since 2008<br>
-          <img src="arro.gif" alt="->" width="9" height="9"> Unbiased<br>
-          <img src="arro.gif" alt="->" width="9" height="9"> Independent</p>
-  </div>
-   <div id="googlesearch"><a class="smallfont" href="index.html"><span class="contactabouthome">Home</span></a><span class="contactabouthome">  |  <a class="smallfont" href="about-sleeplikethedead.html">About</a>  |  <a class="smallfont" href="contact.html">Contact</a></span>
-     <p></p><form action="http://sleeplikethedead.com/googlesearch.html" id="cse-search-box">
-          <input type="hidden" name="cx" value="partner-pub-3078017963233163:29vo5f-grdd">
-          <input type="hidden" name="cof" value="FORID:10">
-          <input type="hidden" name="ie" value="ISO-8859-1">
-          <input type="text" name="q" size="25">
-          <input type="submit" name="sa" value="Search">
-   </form>
-   </div><div class="testy2">
-   <br>
-   <div class="navwideTall"><a href="bed-mattress-review-home.html">MATTRESS<br>
-    REVIEWS</a></div>
-  <div class="navwide"><a href="mattress-topper-compare.html">MATTRESS<br>TOPPER<br>REVIEWS</a></div>
-  <div class="navwideTall"><a href="pillow-reviews.html">PILLOW<br>
-    REVIEWS</a></div>
-  <div class="navwideTall"><a href="bedding-sheet-blanket-reviews.html">BEDDING<br>
-    REVIEWS</a></div>
-  <div class="navwidecomeon"><a href="sound-machine-white-noise.html">SOUND<br>
-    MACHINES<br>
-    REVIEWS</a></div>
+   <header>
+
+<div class="logo"><a href="index.html"><img src="newlogo.png" alt="Sleep Like The Dead" width="144" height="75" border="0"></a></div>
+<nav id="cssmenu"><div id="head-mobile"></div>
+<div class="button"></div>
+<ul>
+
+ <li class="has-sub"><span class="submenu-button"></span><a href="bed-mattress-review-home.html">Mattress Reviews</a>
+                  <ul>
+                  <li><a href="bed-mattress-review-home.html">Ratings Summary</a>
+                        
+                      </li>
+                      <li><a href="mattress-selector.html">Mattress Selector</a>
+                        
+                      </li>
+                      <li><a href="mattress-comparisons.html">Mattress Comparisons</a></li>
+                      <li><a href="mattress-reviews-coil.html">Innerspring</a></li>
+                      <li><a href="mattressreview-memory-foam.html">Memory Foam</a></li>
+                      <li><a href="mattress-hybrid.html">Hybrid</a></li>
+                      <li><a href="mattress-reviews-foam.html">Foam</a></li>
+                      <li><a href="mattress-reviews-air-bed.html">Air</a></li>
+                      <li><a href="mattress-reviews-latex.html">Latex</a></li>
+                      <li><a href="mattress-reviews-adjustable.html">Adjustable Bases</a></li>
+                    </ul>
+                    
+                    </li>
+                  
+                  <li class="has-sub"><span class="submenu-button"></span><a href="mattress-topper-compare.html">Topper Reviews</a>
+                  <ul>
+                  <li><a href="mattress-topper-compare.html">Ratings Summary</a>
+                        
+                      </li>
+                      <li><a href="memory-foam-toppers.html">Memory Foam</a>
+                        
+                      </li>
+                      <li><a href="fiberbeds-home.html">Fiber</a></li>
+                      <li><a href="featherbeds-home.html">Feather</a></li>
+                      <li><a href="latex-toppers.html">Latex</a></li>
+                      <li><a href="wool-toppers.html">Wool</a></li>
+                    </ul></li>
+                  <li class="has-sub"><span class="submenu-button"></span><a href="pillow-reviews.html">Pillow Reviews</a>
+                  <ul>
+                  <li><a href="pillow-reviews.html">Ratings Summary</a>
+                        
+                      </li>
+                      <li><a href="pillow-sleeping-positions.html">Loft Calculator</a></li>
+                      <li><a href="body-neck-wedge-pillow-reviews.html">Body Pillows</a></li>
+                    </ul></li>
+                    
+                    
+                    
+                  <li class="has-sub"><span class="submenu-button"></span><a href="bedding-sheet-blanket-reviews.html">Bedding</a>
+                  <ul>
+                  <li><a href="bedding-sheet-blanket-reviews.html#1">Sheets</a>
+                        
+                      </li>
+                      <li><a href="bedding-sheet-blanket-reviews.html#pad">Pads (Non-Waterproof)</a>
+                        
+                      </li>
+                      <li><a href="bedding-sheet-blanket-reviews.html#padw">Pads (Waterproof)</a>
+                        
+                      </li>
+                      <li><a href="bedding-sheet-blanket-reviews.html#3">Comforters</a></li></ul></li>
+                  
+                  
+                  <li class="has-sub"><span class="submenu-button"></span><a href="sleep-hygiene.html">Sleep Hygiene</a>
+                  <ul>
+                  <li><a href="sleep-hygiene.html">Overview</a>
+                        
+                      </li>
+                      <li><a href="noise-sleep.html">Noise Control</a>
+                        
+                      </li>
+                      <li><a href="darkness-sleep.html">Light Control</a></li>
+                      <li><a href="temperature.html">Temperature Control</a></li>
+
+                    </ul>
+                  </li>
+                  <li><a href="chronic-insomnia-intro.html">Insomnia</a></li>
+                  <li><a href="about-sleeplikethedead.html">About</a></li>
+                 
+</ul>
+</nav></header><!-- InstanceBeginEditable name="nav" --><!-- InstanceEndEditable -->
+</div>
   
-  <div class="navwide"><a href="sleep-hygiene.html">SLEEP<br>HYGIENE<br>
-    PRODUCTS</a></div>
-  <div class="navwide"><a href="chronic-insomnia-intro.html">CHRONIC<br>
-    INSOMNIA<br>
-  TREATMENT</a></div><br><br></div>
-  <!-- InstanceBeginEditable name="nav" --><!-- InstanceEndEditable --></div>
   <div id="LayoutDiv2"><!-- InstanceBeginEditable name="LayoutDiv2" --><!-- InstanceEndEditable --></div>
   <div id="LayoutDiv3"><!-- InstanceBeginEditable name="LayoutDiv3" -->
  <br> <h1>
@@ -242,13 +323,101 @@ Do the following if you're using your customized build of modernizr (http://www.
     <!-- InstanceEndEditable -->
   </div>
   <div id="LayoutDiv5"><!-- InstanceBeginEditable name="LayoutDiv5" --><!-- #BeginLibraryItem "/Library/newfooter-noaff.lbi" -->
-<p><strong>SLEEP PRODUCT RESEARCH: </strong><a href="bed-mattress-review-home.html">Mattress Reviews</a> • <a href="mattress-topper-compare.html">Mattress Topper Reviews</a> • <a href="pillow-reviews.html">Pillow Reviews</a> • <a href="bedding-sheet-blanket-reviews.html">Bed Sheet Reviews</a> •
-<a href="sound-machine-white-noise.html">White Noise Machine Reviews</a> • <a href="sleeping-pills-home.html">Sleeping Pill Reviews</a> • <a href="sleep-hygiene.html">Sleep Hygiene Products</a></p>
-  <p><strong>ABOUT SLEEP LIKE THE DEAD:</strong> <a href="about-sleeplikethedead.html">Our Story</a> • <a href="contact.html">Contact</a> • <a href="sitemap.html">Sitemap</a> • <a href="privacy.html">Privacy Policy</a></p>
- <p><strong>IN THE NEWS: </strong><a href="index.html">Sleep Like The Dead</a>'s research findings have appeared in such news publications as <em>Barron's • 
-  Toronto Star • St. Louis Post-Dispatch • Edmonton Journal • Woman's World • The Consumerist • The Gazette • Ottawa Citizen</em>
-    </p> 
-<p><strong>© 2007-2017 SLTD, Inc. • <a href="copyrightnotice.html">Copyright Violation Notice</a></strong></p><!-- #EndLibraryItem --><!-- InstanceEndEditable --></div>
+<div id="footer1">
+              <h3>SEARCH SLEEP LIKE THE DEAD</h3>
+    <p></p><form action="googlesearch.html" id="cse-search-box">
+          <input type="hidden" name="cx" value="partner-pub-3078017963233163:29vo5f-grdd">
+          <input type="hidden" name="cof" value="FORID:10">
+          <input type="hidden" name="ie" value="ISO-8859-1">
+          <input type="text" name="q" size="30">
+          <input type="submit" class="buton" name="sa" value="Search">
+    </form><p></p>
+             
+              
+           
+              <h3><a href="contact.html"><br>
+    CONTACT US</a><br>
+    <br>
+    </h3>
+              <h3><a href="about-sleeplikethedead.html">ABOUT US</a><br>
+                <br>
+                
+              </h3>
+              <h3>OUR MISSION</h3>
+    <div id="mission"><em><span class="marks">“</span> To be a true consumer advocate, not a marketing tool of sleep product companies masquerading as one. <span class="marks">”</span></em><br></div>
+
+  </div>
+            
+            <!-- Collumn 2 -->
+          <div id="footer2">
+              <h3><a href="bed-mattress-review-home.html">MATTRESS REVIEWS</a></h3>
+              <p><a href="bed-mattress-review-home.html">Ratings Summary</a></p>
+              <p><a href="mattress-selector.html">Mattress Selector</a></p>
+              <p><a href="mattress-comparisons.html">Mattress Comparisons</a></p>
+              <p><a href="mattress-comparisons.html">Mattress Research</a></p>
+              <p><a href="mattress-reviews-adjustable.html">Adjustable Bed Bases</a></p>
+              <p><a href="mattressreview-memory-foam.html">Memory Foam</a></p>
+              <p><a href="mattress-reviews-foam.html">Foam</a></p>
+              <p><a href="mattress-reviews-coil.html">Innerspring</a></p>
+              <p><a href="mattress-reviews-air-bed.html">Airbed</a></p>
+              <p><a href="mattress-reviews-latex.html">Latex</a></p>
+              <p><a href="mattress-review-futons.html">Futon</a></p>
+              <div class="line">
+                
+              </div>
+            </div>
+            
+            <!-- Collumn 3 -->
+            
+            
+          <div id="footer3">
+            <h3><a href="mattress-topper-compare.html">TOPPER REVIEWS</a></h3>
+            <p><a href="mattress-topper-compare.html">Ratings Summary</a></p>
+            <p><a href="memory-foam-toppers.html">Memory Foam</a></p>
+            <p><a href="fiberbeds-home.html">Fiber</a></p>
+            <p><a href="featherbeds-home.html">Feather</a></p>
+            <p><a href="latex-toppers.html">Latex</a></p>
+            <p><a href="wool-toppers.html">Wool</a></p>
+  </div>
+            
+           <div id="footer4">
+            <h3><a href="pillow-reviews.html">PILLOW REVIEWS</a></h3>
+            <p><a href="pillow-reviews.html">Ratings Summary</a></p>
+            <p><a href="memory-foam-pillow.html">Memory Foam</a></p>
+            <p><a href="gel-pillow.html">Down Alternative</a></p>
+            <p><a href="latex-pillow.html">Latex</a></p>
+            <p><a href="buckwheat.html">Buckwheat</a></p>
+            <p><a href="water-pillow-mediflow.html">Water</a></p>
+            <p><a href="down-pillow.html">Down</a></p>
+            <p><a href="feather-pillow.html">Feather</a></p>
+            <p><a href="body-neck-wedge-pillow-reviews.html">Body Pillows</a></p>
+            </div>
+            
+            <div id="footer5">
+            
+            <h3 class="text-uppercase text-strong"><a href="bedding-sheet-blanket-reviews.html">BEDDING REVIEWS<br>
+            </a><br>
+            </h3>
+            <h3 class="text-uppercase text-strong"><a href="sleep-hygiene.html">SLEEP HYGIENE PRODUCT REVIEWS</a></h3>
+            <p><a href="noise-sleep.html">Noise Control</a></p>
+            <p><a href="darkness-sleep.html">Light Control</a></p>
+            <p><a href="temperature.html">Temperature Control</a><br>
+             <br>
+            </p>
+           
+            
+            
+            <h3><a href="chronic-insomnia-intro.html">INSOMNIA TREATMENT</a></h3>
+            </div><br><br>
+            
+            <div id="footer6">
+            <p><a href="sitemap.html">Sitemap</a>&nbsp;&nbsp;  |  &nbsp; <a href="privacy.html">Privacy</a>&nbsp; &nbsp; |&nbsp;  &nbsp; <a href="copyrightnotice.html">Copyright Violation Notice</a>&nbsp;<br>
+              <br>
+              COPYRIGHT 2007-2018 SLTD, INC.</p>
+            
+            </div>
+            
+          <!-- #EndLibraryItem --><!-- InstanceEndEditable --></div>
 </div>
 
 <!-- InstanceEnd -->
