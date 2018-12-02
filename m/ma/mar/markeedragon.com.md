@@ -1,71 +1,75 @@
-> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531154034id_/http%3A//news.markeedragon.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202230651id_/http%3A//news.markeedragon.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Markee Dragon News & Views
+# Privacy Policy | Markee Dragon News & Guides
 
-Protecting your private information is our priority. This Statement of Privacy applies to all the the Markee Dragon sites including the forums, our store and governs data collection and usage. The MDN website is a News ,Forums and information site. By using the MDN website, you consent to the data practices described in this statement.
+**Privacy Policy**
 
-**Collection of your Personal Information**
+Protecting your private information is our priority. This Statement of Privacy applies to http://news.markeedragon.com and Dragon Media Entertainment LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Dragon Media Entertainment LLC include http://news.markeedragon.com and DME. The DME website is a News and Information site. By using the DME website, you consent to the data practices described in this statement.
 
-We collect information from you when you register on our site. When registering on our site you will be asked to enter your e-mail address. You may, however, visit our site anonymously.
+**Collection of your Personal Information**  
+We do not collect any personal information about you unless you voluntarily provide it to us. However, you may be required to provide certain personal information to us when you elect to use certain products or services available on the Site. These may include: (a) registering for an account on our Site; (b) entering a sweepstakes or contest sponsored by us or one of our partners; (c) signing up for special offers from selected third parties; (d) sending us an email message; (e) submitting your credit card or other payment information when ordering and purchasing products and services on our Site. To wit, we will use your information for, but not limited to, communicating with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future.
 
-Information about your computer hardware and software may be automatically collected by MDN. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the MDN website, administer contests, promotions, and surveys.
+**Sharing Information with Third Parties**  
+DME does not sell, rent or lease its customer lists to third parties.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through MDN’s public message boards, this information may be collected and used by others.
+DME may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to DME, and they are required to maintain the confidentiality of your information.
 
-MDN encourages you to review the privacy statements of websites you choose to link to from MDN so that you can understand how those websites collect, use and share your information.MDN is not responsible for the privacy statements or other content on websites outside of the MDN website.
+DME may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on DME or the site; (b) protect and defend the rights or property of DME; and/or (c) act under exigent circumstances to protect the personal safety of users of DME, or the public.
 
-**Use of Cookies**
+**Tracking User Behavior**  
+DME may keep track of the websites and pages our users visit within DME, in order to determine what DME services are the most popular. This data is used to deliver customized content and advertising within DME to customers whose behavior indicates that they are interested in a particular subject area.
 
-The MDN website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+[**Google Analytics Privacy Policy**](https://policies.google.com/privacy?hl=en)
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize MDN pages, or register with MDN site or services, a cookie helps MDN to recall your specific information on subsequent visits.
+Automatically Collected Information  
+Information about your computer hardware and software may be automatically collected by DME. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the DME website.
 
-When you return to the same MDN website, the information you previously provided can be retrieved, so you can easily use the MDN features that you customized.
+**[Akismet Privacy Policy](https://akismet.com/tos/) **
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the MDN services or websites you visit.
+**[JetPack Privacy Policy](https://automattic.com/privacy/)**
 
-**Third Parties**
+[**Anshul Labs Privacy Policy**](http://anshullabs.xyz/privacy-policy.html)
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+[**Pixelgrade Privacy Policy**](https://www.iubenda.com/privacy-policy/7967347)
 
-**Third Party Links**
+**Use of Cookies**  
+The DME website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize DME pages, or register with DME site or services, a cookie helps DME to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same DME website, the information you previously provided can be retrieved, so you can easily use the DME features that you customized.
 
-**Security of your Personal Information**
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the DME services or websites you visit.
 
-MDN secures your personal information from unauthorized access, use or disclosure.
+**Links**  
+This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
-**California Online Privacy Protection Act Compliance**
+**Security of your Personal Information**  
+DME secures your personal information from unauthorized access, use, or disclosure. DME uses the following methods for this purpose:
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+– SSL Protocol
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime on this page. <http://community.markeedragon.com/account>
+When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
 
-**Children’s Online Privacy Protection Act Compliance**
+We strive to take appropriate security measures to protect against unauthorized access to or alteration of your personal information. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet which are beyond our control; and (b) security, integrity, and privacy of any and all information and data exchanged between you and us through this Site cannot be guaranteed.
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+**Children Under Thirteen**  
+DME does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-**Changes to this Statement**
+**Changes to this Statement**  
+DME reserves the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our site, and/or by updating any privacy information on this page. Your continued use of the Site and/or Services available through this Site after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by that Policy.
 
-MDN will occasionally update this Statement of Privacy to reflect company and customer feedback. MDN encourages you to periodically review this Statement to be informed of how MDN is protecting your information. If we decide to change our privacy policy, we will post those changes on this page, and update the Privacy Policy modification date below.
+**Contact Information**  
+DME welcomes your questions or comments regarding this Statement of Privacy. If you believe that DME has not adhered to this Statement, please contact DME at:
 
-Dragon Media Entertainment LLC
+Dragon Media Entertainment LLC  
+PO Box 106  
+Hereford, Arizona 85615
 
-PO Box 106
-
-Hereford,Arizona,85615
-
-USA
-
+Email Address:  
 support@markeedragon.com
 
-Phone:
+Telephone number:  
+(512) 666-7740
 
-(512) 666-7740  
-(512) MMO-RPG0  
-Austin, TX
-
-This policy was last modified on Feb 07, 2018
+Effective as of July 24, 2018
 
 * * *
