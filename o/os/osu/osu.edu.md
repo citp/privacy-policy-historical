@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osu.edu privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121101005id_/https%3A//www.osu.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osu.edu privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202075712id_/https%3A//www.osu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for The Ohio State University osu.edu websites
 
@@ -69,3 +69,5 @@ Ohio State does not knowingly collect website visitor information from children 
 **Questions**
 
 Please e-email: [comments@osu.edu](mailto:comments@osu.edu) with any questions about this privacy statement.
+
+* * *
