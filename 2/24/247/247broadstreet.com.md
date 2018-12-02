@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247broadstreet.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228131930id_/http%3A//www.247broadstreet.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247broadstreet.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202035715id_/http%3A//www.247broadstreet.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Nigerian stock market Investment & Nigeria stock index & Nigerian stock exchange & Nigeria stock & Investing and Finance
 
