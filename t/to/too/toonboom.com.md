@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toonboom.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927155656id_/https%3A//www.toonboom.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonboom.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202021315id_/https%3A//www.toonboom.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Toon Boom Animation
 
@@ -149,11 +149,10 @@ In order to continually monitor and strengthen our privacy procedure, we have on
 __  
 Back to Top
 
-Toon Boom Animation  
+  
 4200 Saint-Laurent, Suite 1020  
 Montreal, Quebec, Canada  
 H2W 2R2  
 [webmaster@toonboom.com](mailto:webmaster@toonboom.com)  
 Tel: (514) 278-8666  
-Fax: (514) 278-2666  
-
+Fax: (514) 278-2666 
