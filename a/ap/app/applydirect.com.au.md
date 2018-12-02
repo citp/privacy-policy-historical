@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the applydirect.com.au privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623005146id_/http%3A//www.applydirect.com.au/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applydirect.com.au privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202030438id_/http%3A//www.applydirect.com.au/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# ApplyDirect Privacy Policy
 
 #### **Application of this policy**
 
@@ -14,7 +14,7 @@ We may update this policy from time to time to reflect our current practices and
 
 #### **What personal information do we collect and how?**
 
-**_Account Registration:_** When you register as a candidate on ApplyDirect websites, or for Job Alerts, we may ask for personal information and information regarding your preferences as a jobseeker including: 
+**_Account Registration:_** When you register as a candidate on ApplyDirect websites, or for Job Alerts, we may ask for personal information and information regarding your preferences as a jobseeker including:
 
   * Your first and last name;
   * Your preferred job types and job sub-types;
@@ -31,7 +31,7 @@ When you contact us or make a request or complaint via our websites or by phone 
 
 When you apply for a job with us or submit your resume we collect details about your skills, qualifications, professional memberships or accreditations, interests, employment history, personal references and past responsibilities.
 
-We also collect information about your consent to receive direct marketing and your preferences. 
+We also collect information about your consent to receive direct marketing and your preferences.
 
 **_Use of Resume Review Tool_**
 
@@ -61,9 +61,10 @@ Should you wish to submit a complaint regarding the processing of your personal 
 
 Candidate registration is collected and stored on an internal ApplyDirect database. Our servers are hosted by Amazon Web Services in Australia. Candidate profiles are deleted after three years of inactivity.
 
-ApplyDirect will take reasonable technical and organisational precautions to prevent the loss, misuse, access, disclosure or alteration of your personal information we hold. If you are concerned that any of the personal information we hold about you has been compromised you should contact us immediately so we can investigate the matter. 
+ApplyDirect will take reasonable technical and organisational precautions to prevent the loss, misuse, access, disclosure or alteration of your personal information we hold. If you are concerned that any of the personal information we hold about you has been compromised you should contact us immediately so we can investigate the matter.
 
-##### **Last updated: June 2018**
+  
+
 
 #### **Application of this policy**
 
@@ -109,3 +110,5 @@ AdServing data is collected using cookies, and ads are served accordingly throug
 Web browsers allow you to exercise some control of cookies through the browser settings. Most browsers enable you to block cookies or to block cookies from particular websites. Browsers can also help you to delete cookies when you close your browser. You should note however, that this may mean that any opt-outs or preferences you set on the site will be lost.
 
 To find out more about cookies, including how to see what cookies have to see what cookies have been set and how to manage and delete them, visit [allaboutcookies.org](http://www.allaboutcookies.org/). You can opt out of a number of different third-party services via this [link](http://www.youronlinechoices.com.au/).
+
+##### **Last updated: June 2018**
