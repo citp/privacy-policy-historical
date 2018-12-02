@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the bannerhealth.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165843id_/https%3A//www.bannerhealth.com/about/legal-notices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerhealth.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202221728id_/https%3A//www.bannerhealth.com/about/legal-notices/privacy) for the most accurate reproduction.*
 
-# Privacy | Legal Notices | Banner Health
-
-**Effective Date: 07/30/2004**
+# Privacy | Legal Notices
 
 This privacy statement describes and applies to the information we collect from you when you visit the Banner Health web site, how we use that information, and under what circumstances we disclose it. It will also give you more information about how to manage the personal information that you provide to us through this site. This statement applies only to information you provide to us online while visiting or using our site. It does not apply to information we have obtained or may obtain offline through other traditional means.
 
-Banner also maintains a separate Notice of Privacy Practices (HIPAA) as required by law, that applies to protected health information that it collects from individuals. This language was updated by the Federal government on Sept. 23, 2013. [View our statement in English or Spanish](https://web.archive.org/patients/privacy)
+Banner also maintains a separate Notice of Privacy Practices (HIPAA) as required by law, that applies to protected health information that it collects from individuals. This language was updated by the Federal government on Sept. 23, 2013. [View our statement in English or Spanish](https://web.archive.org/patients/patient-resources/privacy)
 
 ## 1\. The information we collect.
 
@@ -36,7 +34,7 @@ Banner uses a third party to host its Brand Central Store. If you purchase merch
 
 If you make donations, your information is provided to one or more of the following 501(c)(3) organizations: Banner Health Foundation; McKee Medical Center Foundation; North Colorado Medical Center Foundation; East Morgan County Hospital Foundation; and/or Sterling Regional MedCenter Foundation.
 
-We do not require you to provide any personal medical information about yourself to us online, and we ask that you do not share personal medical information through the Site, especially information that you wish to keep confidential. Information you provide through our web site is not protected under confidentiality laws that protect physician-patient communications. Please carefully select what you choose to disclose. In addition, while Banner attempts to prevent unauthorized access to our Web site files, such access may occur. Personal medical information that Banner receives in any manner is subject to separate privacy practices. Our [statement](https://web.archive.org/patients/privacy) regarding the treatment of such information can be read in English or Spanish.
+We do not require you to provide any personal medical information about yourself to us online, and we ask that you do not share personal medical information through the Site, especially information that you wish to keep confidential. Information you provide through our web site is not protected under confidentiality laws that protect physician-patient communications. Please carefully select what you choose to disclose. In addition, while Banner attempts to prevent unauthorized access to our Web site files, such access may occur. Personal medical information that Banner receives in any manner is subject to separate privacy practices. Our [statement](https://web.archive.org/patients/patient-resources/privacy) regarding the treatment of such information can be read in English or Spanish.
 
 ### Personal Information about Children.
 
@@ -102,4 +100,8 @@ This privacy statement was last modified on July 30, 2004. If we change our Priv
 
 ## 8\. Questions, comments and contact information.
 
-If you have any questions or comments concerning our privacy policy, please contact us through our online form. 
+If you have any questions or comments concerning our privacy policy, please contact us through our online form.
+
+**Effective Date: 07/30/2004**
+
+ 
