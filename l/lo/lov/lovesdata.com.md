@@ -1,39 +1,26 @@
-> *The following text is extracted and transformed from the lovesdata.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123215513id_/http%3A//www.lovesdata.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovesdata.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202112452id_/https%3A//www.lovesdata.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Loves Data
+# Privacy Policy – Loves Data
 
-This is the website of Loves Data Pty Limited.
+We (Loves Data Pty Limited) use a range of third party tools to collect, process and store data. We are committed to safeguarding the privacy of people using our website.
 
-## Privacy Policy
+  * We do not trade or sell any information that is collected.
+  * We ensure the third party tools we use have strict privacy and security standards.
+  * We have appropriate security measures in place to protect against the loss, misuse or alteration of information.
+  * Cookies are used on this site for user-specific reporting.
 
-For each visitor to our website, information is automatically logged about each visitor and how they use the website. For example a visitor's geographic location and website pages visited. This information and data is used for internal review purposes only and allows us to improve our website.
 
-Cookies are used on this website to record user-specific information.
 
-We collect information volunteered by website visitors. For example data submitted via website forms. If you have volunteered contact details for marketing purposes and you would like to be removed from our lists, contact us via email, phone or post.
+We use tools like Google Analytics to automatically collect information about how you use the website. For example, your geographic location, how you found the website and the pages you view. These tools use your IP address and a cookie ID to process data into reports that we can use to improve our products, website and marketing.
 
-We do not trade or sell any information that is volunteered or logged.
+If you log in to our website or have subscribed to receive our emails, we also send a user ID to these tools. This allows us to understand if you are using multiple devices and allows us to further improve how we deliver and market our products.
 
-We have appropriate security measures in place to protect against the loss, misuse or alteration of information.
+We collect personal information that is volunteered on our website. For example, when you submit a form with your name and email address. We ask for the minimum amount of information needed in order to service your request.
 
-When we use third parties to provide us with supplementary business services we ensure that they adhere to strict security and privacy standards. 
+We use features in Google Analytics and Google AdWords, along with other advertising tools that allow us to target ads to you and report on demographics and interests. These tools use cookies and other information to show ads based on your past actions on our website.
 
-From time to time, we may use collected information for new, unanticipated uses not previously disclosed in this privacy notice. If our information practices change at some time in the future we will post the policy changes to our website.
+If you would like to opt-out of customized Google Display Network ads and Google Analytics for Display Advertising you can use [Google Ad Settings](https://www.google.com/settings/ads). You can opt-out of other customized ads using the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/). You can also use the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/) so you are not tracked into Google Analytics.
 
-## Disclaimer
+From time to time, we may use collected information for new, unanticipated uses not previously disclosed in this privacy notice. If our information practices change at some time in the future we will post the policy changes on our website.
 
-All reasonable efforts have been made to ensure that the material on this website is correct and up-to-date. However, we do not make any guarantees regarding accuracy.
-
-We do not accept responsibility for any material contained on other websites.
-
-All visitors agree that access and use of this website is at their own risk.
-
-## Copyright
-
-This website, including images and content are copyright © Loves Data Pty Limited.
-
-All case study materials are copyright to the client or clients mentioned.
-
-## Questions?
-
-If you have a question please [contact us](http://www.lovesdata.com/contact-us) and we would be happy to assist you.
+If you have a question, need your details updated or would like your personal data removed, then please [contact us](https://web.archive.org/contact-us) and we would be happy to assist you.
