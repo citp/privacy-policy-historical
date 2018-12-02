@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalindiapayments.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205154752id_/http%3A//digitalindiapayment.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalindiapayments.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202183044id_/http%3A//digitalindiapayments.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Download DIPL AEPS App
 
