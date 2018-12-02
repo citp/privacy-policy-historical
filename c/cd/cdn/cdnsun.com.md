@@ -1,47 +1,44 @@
-> *The following text is extracted and transformed from the cdnsun.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707011227id_/https%3A//cdnsun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdnsun.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202235423id_/https%3A//cdnsun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CDNsun
 
+## Privacy Policy
+
 ### What information do we collect?
 
-We collect information from you when you sign in on our website, place an order, subscribe to our newsletter or fill out a form. When ordering or signing in on our website, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information.
+We collect information from you when you visit our website, log in or sign in, place an order or fill out a form on our website. 
+
+  * We collect information contractually necessary to provide our service, provide support and execute purchases. This information includes full name, [email address](https://web.archive.org/knowledgebase/billing/email-contacts-to-you), company name, company address, phone number (see also [2FA](https://web.archive.org/knowledgebase/billing/two-factor-authentication)), company VAT number and company registration number. You can manage this information on the [Billing/Settings](https://web.archive.org/billing/settings) page and via our [support helpdesk](https://web.archive.org/knowledgebase/billing/helpdesk-dashboard). 
+  * We collect cookies. Cookies are small files that our website transfers to your computer's hard drive through your web browser (if you decide to allow cookies in your browser's settings) that enable our website to recognize your browser and remember certain information such as that you are logged in. We also use cookies to understand and save your preferences for future visits, keep track of our advertisements and compile aggregate data about website traffic and website interactions so that we can offer better website experience. Cookies are stored for a limited period of time. By allowing cookies in your browser and visiting our website you understand, agree and accept that we use and collect cookies. 
+  * We collect logs. We collect logs from our website containing data such as your IP address, type of your browser (User Agent), HTTP Referer, etc. for debugging purposes and also because in certain cases (such as payments) we are legally required to do so. Logs are stored for a limited period of time. 
+
+
 
 ### What do we use your information for?
 
-Any of the information we collect from you may be used in one of the following ways:
+The information we collect from you may be used in the following ways.
 
-  * To personalize your experience. Your information helps us to better respond to your individual needs.
-
-  * To improve our website. We continually strive to improve our website offerings based on the information and feedback we receive from you.
-
-  * To improve customer service. Your information helps us to more effectively respond to your customer service requests and support needs.
-
-  * To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of product or service requested.
-
-  * To send periodic emails. The email addresses you provide us, may be used to send you information pertaining to your services, balance status, orders, payments and other activities on our website and in addition to receiving occasional company news, updates and related product or service information. Note that if at any time you would like to unsubscribe from receiving future company news, updates and related product or service information emails, we include detailed unsubscribe instructions at the bottom of each email.
-
+  * To provide our service and support and execute purchases. 
+  * To improve our service, support and website and to personalize your experience. We continually improve our service, support and website based on the information and feedback we receive from you. 
+  * To send automated and periodic emails. The [email address](https://web.archive.org/knowledgebase/billing/email-contacts-to-you) you provide us, is used to send you information about your services, [balance](https://web.archive.org/knowledgebase/billing/balance-notifications), orders, payments and other activities on our website. And in addition to send you occasional (one or two emails per quarter) company news, updates and related product or service information. If at any time you would like to unsubscribe (opt-out) from receiving company news, updates and related product or service information emails, we include detailed unsubscribe instructions at the bottom of each email. It is recommended to be subscribed to receiving company news, updates and related product or service information emails as they may contain important information such as updates of our [Terms and Conditions](https://web.archive.org/terms-and-conditions), our pricing, our infrastructure, etc., if you are unsubscribed from receiving these emails then it is your responsibility to review our website periodically to familiarize yourself with any modifications. If you want to check or modify (such as re-subscribe) your subscription to receiving company news, updates and related product or service information emails please contact our support. 
 
 
 
 ### How do we protect your information?
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. All supplied sensitive and credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, financials, etc.) will not be stored on our servers.
-
-### Do we use cookies?
-
-Yes. Cookies are small files that a website or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the websites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about website traffic and website interaction so that we can offer better website experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our website visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+We implement a variety of security measures to maintain the safety of your personal data. We implement [Two Factor Authentication](https://web.archive.org/knowledgebase/billing/two-factor-authentication). We limit your personal data only to what is strictly necessary. We store your personal data only for a limited period of time. All supplied sensitive payment information such as credit card number is only transmitted via Secure Socket Layer (SSL) to our payment gateway providers and it is not stored on our servers. 
 
 ### Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our website policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer your personal data to outside parties for any reason whatsoever, without your consent, other than trusted third-parties, our business partners, who assist us in operating our service and website. These third-parties are limited to only accessing personal data necessary to provide their services to us and must provide reasonable assurances that they will appropriately safeguard the personal data. We may share your personal data with our affiliates. We may also release your personal data when we believe release is appropriate to comply with the law, enforce our website policies, or protect ours or others rights, property, or safety. 
 
 ### California Online Privacy Protection Act Compliance
 
-We value your privacy and thus we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our website may make any changes to their information at anytime by logging into client section and going to the [Billing](https://web.archive.org/billing) page.
+We value your privacy and thus we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not sell, trade, or otherwise transfer your personal data to outside parties for any reason whatsoever, without your consent, other than trusted third-parties, our business partners, who assist us in operating our service and website. As part of the California Online Privacy Protection Act, all users of our website may make any changes to their personal data at anytime by logging into client section and going to the [Billing/Settings](https://web.archive.org/billing/settings) page. 
 
-### Online Privacy Policy Only
+### General Data Protection Regulation (GDPR)
 
-This online Privacy Policy applies only to information collected through our website and not to information collected offline.
+We value your privacy and thus we have taken the necessary precautions to be in compliance with the General Data Protection Regulation (GDPR). For more details please visit our [GDPR](https://web.archive.org/gdpr) page which is included under the scope of this Privacy Policy. 
 
 ### Terms and Conditions
 
@@ -51,9 +48,11 @@ Please also visit our [Terms and Conditions](https://web.archive.org/terms-and-c
 
 If we decide to change our Privacy Policy, we will update the Privacy Policy modification date below.
 
-This agreement was last modified on Feb 1, 2017.
+This agreement was last modified on May 30, 2018.
 
-We reserve the right to change our Privacy Policy from time to time without notice. You acknowledge and agree that it is your responsibility to review our Privacy Policy periodically to familiarize yourself with any modifications. Your continued use of this site after such modifications will constitute acknowledgment and agreement of the modified Privacy Policy.
+We reserve the right to change our Privacy Policy from time to time without notice. You understand, agree and accept that it is your responsibility to review our Privacy Policy periodically to familiarize yourself with any modifications. 
+
+You understand, agree and accept that continued use of this site after such modifications for more than 1 month will constitute acknowledgment and agreement of the modified Privacy Policy. You understand, agree and accept that if we don't receive a notice of disagreement from you within 1 month since the Privacy Policy modification, you will be deemed to have accepted the modified Privacy Policy. 
 
 ### Contact Information
 
@@ -63,5 +62,14 @@ If there are any questions or comments regarding this Privacy Policy you may con
   * Website: [cdnsun.com](https://cdnsun.com/)
   * Email: info@cdnsun.com
   * Phone: +420 776 256 872
+
+
+
+## What next?
+
+Read about the following topics.
+
+  * [Terms & Conditions](https://web.archive.org/terms-and-conditions)
+  * [General Data Protection Regulation (GDPR)](https://web.archive.org/gdpr)
 
 
