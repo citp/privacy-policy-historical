@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 001games.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529030158id_/http%3A//www.001games.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 001games.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202042656id_/http%3A//001games.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
