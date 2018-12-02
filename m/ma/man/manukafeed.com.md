@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manukafeed.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523135506id_/http%3A//www.manukafeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manukafeed.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202172806id_/http%3A//www.manukafeed.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ManukaFeed
+# Privacy Policy – ManukaFeed
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](http://www.manukafeed.com/contact-us/).
 
