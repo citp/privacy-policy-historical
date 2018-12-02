@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the redkings.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602055001id_/http%3A//poker.redkings.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redkings.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202032854id_/http%3A//poker.redkings.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Play Online Poker Games at RedKings Internet Poker Room
 
 ##  Introduction
 
-This Privacy Policy, which was last updated on 24/05/2018, sets out the data processing practices carried out by RedKings.com.
+This Privacy Policy, which was last updated on 19/09/2018, sets out the data processing practices carried out by RedKings.com.
 
 Here at RedKings.com we like making things simple and easy for our customers and that includes being clear, transparent and open about what we collect, and how and why we use the data we collect, so this page goes into great detail. 
 
