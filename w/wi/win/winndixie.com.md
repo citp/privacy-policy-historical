@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winndixie.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702140746id_/https%3A//www.winndixie.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winndixie.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202200547id_/https%3A//www.winndixie.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Policies | Winn-Dixie
 
@@ -29,11 +29,11 @@ The Digital Marketing Program may include social media features and widgets, inc
 
 ### Mobile Applications
 
-Our mobile applications may collect certain information from you automatically, including, without limitation, the type of mobile device, the Internet Protocol (IP) address of your mobile device, your mobile operating system, and the location of your mobile device (provided that you give permission for the application of location services). You can stop the collection of information via your mobile device by uninstalling the mobile applications (or, to discontinue the location information only, you can adjust your permission settings in your mobile device.
+Our mobile applications may collect certain information from you automatically, including, without limitation, the type of mobile device, the Internet Protocol (IP) address of your mobile device, your mobile operating system, and the location of your mobile device (provided that you give permission for the application of location services). You can stop the collection of information via your mobile device by uninstalling the mobile applications (or, to discontinue the location information only, you can adjust your permission settings in your mobile device).
 
 ### Pharmacy Records
 
-Winn-Dixie takes special precautions with your pharmacy records. See our Pharmacy Notice of Privacy Practices for additional information. 
+Winn-Dixie takes special precautions with your pharmacy records. See our [Pharmacy Notice of Privacy Practices](https://web.archive.org/-/media/media/pharmacy/seg%20pharmacy%20notice%20of%20privacy%20%20final%20%20872017doc.pdf?la=en) for additional information. 
 
 ### Privacy of Children
 
@@ -66,5 +66,10 @@ The term “Affiliates” shall mean all current or future companies or entities
 ### Contact Us
 
 If you would like to communicate with Winn-Dixie about this Privacy Policy, please feel free to [Contact Us](https://web.archive.org/about/contact).
+
+Customer Support 
+
+PO Box B  
+Jacksonville, FL 32203-0297 
 
 Copyright © Winn-Dixie Stores, Inc. All rights reserved.
