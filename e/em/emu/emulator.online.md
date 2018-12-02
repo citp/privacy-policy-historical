@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emulator.online privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627225921id_/http%3A//emulator.online/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emulator.online privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202012816id_/http%3A//emulator.online/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
