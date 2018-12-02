@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the aytm.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628151458id_/https%3A//aytm.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aytm.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202220840id_/https%3A//aytm.com/pages/privacy) for the most accurate reproduction.*
 
 # Online Market Research | AYTM Market Research
+
+If you are a resident of the EU or a country which adheres to the GDPR, please refer to our [EU PRIVACY POLICY](https://web.archive.org/pages/eu-privacy-policy). 
 
 ###  About Us: 
 
@@ -66,7 +68,7 @@ Our Website includes links to other Web sites whose privacy practices may differ
 
 We will retain your information for as long as needed to provide you Services. We will retain personal information about you for as long as necessary in order to provide the Services. We will retain and use this personal information only as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements and then delete it. 
 
-Even if you delete your account, keep in mind that the deletion by our third-party providers may not be immediate and that the deleted information may persist in backup copies for up to 12 months or as required by legal requirements that apply to such third parties. Also, information that had already been shared with third parties may not be deleted by them. 
+Even if you delete your account, keep in mind that the deletion by our third-party providers may not be immediate and that the deleted information may persist in backup copies for up to 24 months or as required by legal requirements that apply to such third parties. Also, information that had already been shared with third parties may not be deleted by them. 
 
 ###  Data Security: 
 
