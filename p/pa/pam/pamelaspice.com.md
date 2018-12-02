@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pamelaspice.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630195934id_/http%3A//www.pacinonetwork.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pamelaspice.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202142735id_/http%3A//www.pacinocash.com/s/privacy.php) for the most accurate reproduction.*
 
 # Pacino Network Support
 
