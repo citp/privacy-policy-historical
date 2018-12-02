@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the downloadbull.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509120443id_/http%3A//downloadbull.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadbull.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202124907id_/http%3A//downloadbull.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Download Bull
-
-  * 
-
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -83,9 +80,3 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
 and we will promptly remove you from **ALL** correspondence.
-
-**Contacting Us**
-
-asadniazi776@gmail.com
-
-This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More](http://downloadbull.com/privacy-policy/)
