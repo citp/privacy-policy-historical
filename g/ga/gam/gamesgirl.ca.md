@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesgirl.ca privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602034652id_/http%3A//www.gamesgirl.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesgirl.ca privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202024458id_/http%3A//gamesgirl.ca/privacy.php) for the most accurate reproduction.*
 
 # Games Girl - OFFICAL WEBSITE - Privacy Policy
 
