@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiloud.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602023631id_/http%3A//www.mobiloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiloud.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202025603id_/http%3A//www.mobiloud.com/privacy) for the most accurate reproduction.*
 
 # MobiLoud - Privacy Policy
 
@@ -38,7 +38,7 @@ MobiLoud collects some Personal Data from its Users.
 
 Fifty Pixels Ltd, 209 High Road, N2 8AN London
 
-**Owner contact email:** [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+**Owner contact email:** support@mobiloud.com
 
 ## Types of Data collected
 
@@ -100,7 +100,7 @@ Once the retention period expires, Personal Data shall be deleted. Therefore, th
 
 ## The purposes of processing
 
-The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: Contacting the User, Analytics, Displaying content from external platforms, Hosting and backend infrastructure, Remarketing and behavioral targeting, Handling payments, User database management, Traffic optimization and distribution, Tag Management, Content commenting, Infrastructure monitoring, Commercial affiliation and Interaction with external social networks and platforms. 
+The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: Contacting the User, Analytics, Tag Management, Displaying content from external platforms, Hosting and backend infrastructure, Remarketing and behavioral targeting, Handling payments, User database management, Traffic optimization and distribution, Content commenting, Infrastructure monitoring, Commercial affiliation and Interaction with external social networks and platforms. 
 
 Users can find further detailed information about such purposes of processing and about the specific Personal Data used for each purpose in the respective sections of this document.
 
@@ -128,14 +128,6 @@ MixPanel is an analytics service provided by Mixpanel Inc.
 Personal Data collected: Cookies and Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://mixpanel.com/privacy/) – [Opt Out](https://mixpanel.com/optout/). 
-
-#### Segment (Segment Inc.)
-
-Segment is an analytics service provided by Segment Inc.
-
-Personal Data collected: Cookies and Usage Data. 
-
-Place of processing: US – [Privacy Policy](https://segment.com/docs/legal/privacy/). 
 
 #### Wordpress Stats (Automattic Inc.)
 
@@ -176,13 +168,13 @@ Personal Data collected: Cookies and Usage Data.
 
 Place of processing: Malta – [Privacy Policy](https://www.hotjar.com/privacy) – [Opt Out](https://www.hotjar.com/opt-out). 
 
-#### Google AdWords conversion tracking (Google Inc.)
+#### Google Ads conversion tracking (Google Inc.)
 
-Google AdWords conversion tracking is an analytics service provided by Google Inc. that connects data from the Google AdWords advertising network with actions performed on MobiLoud.
+Google Ads conversion tracking is an analytics service provided by Google Inc. that connects data from the Google Ads advertising network with actions performed on MobiLoud.
 
 Personal Data collected: Cookies and Usage Data. 
 
-Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/). 
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/). Privacy Shield participant. 
 
 #### Facebook Analytics for Apps (Facebook, Inc.)
 
@@ -417,6 +409,14 @@ Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/poli
 This type of service helps the Owner to manage the tags or scripts needed on MobiLoud in a centralized fashion.  
 This results in the Users' Data flowing through these services, potentially resulting in the retention of this Data.
 
+#### Segment (Segment Inc.)
+
+Segment is a tag management service provided by Segment.io, Inc.
+
+Personal Data collected: Cookies and Usage Data. 
+
+Place of processing: US – [Privacy Policy](https://segment.com/docs/legal/privacy/). Privacy Shield participant. 
+
 #### Google Tag Manager (Google LLC)
 
 Google Tag Manager is a tag management service provided by Google LLC.
@@ -431,10 +431,10 @@ This type of service allows MobiLoud to distribute their content using servers l
 Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between MobiLoud and the User's browser.  
 Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information User are transferred.
 
-#### CloudFlare (Cloudflare)
+#### Cloudflare (Cloudflare)
 
-CloudFlare is a traffic optimization and distribution service provided by CloudFlare Inc.  
-The way CloudFlare is integrated means that it filters all the traffic through MobiLoud, i.e., communication between MobiLoud and the User's browser, while also allowing analytical data from MobiLoud to be collected.
+Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.  
+The way Cloudflare is integrated means that it filters all the traffic through MobiLoud, i.e., communication between MobiLoud and the User's browser, while also allowing analytical data from MobiLoud to be collected.
 
 Personal Data collected: Cookies and various types of Data as specified in the privacy policy of the service. 
 
