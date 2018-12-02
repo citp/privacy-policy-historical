@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gta.co.uk privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220123006id_/http%3A//www.gta-travel.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gta.co.uk privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202190233id_/http%3A//www.gta-travel.com/en/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -21,9 +21,9 @@ Unfortunately, the transmission of information via Internet is not completely se
 **Your rights**
     
 
-You have the right to ask us not to process your personal data in any way described above. You can exercise this right at any time by using the [Contact Us](https://web.archive.org/en/system/contact) form.
+You have the right to ask us not to process your personal data in any way described above. You can exercise this right at any time by contacting us [here](mailto:dataprotectiongta@hotelbeds.com).
 
-You have the right to access any personal information we have obtained from you through our Site. We will make any changes to that information at you request. Any such requests should be made on the [Contact Us](https://web.archive.org/en/system/contact) form. We do not assume any responsibility for verifying the ongoing accuracy of the content of any personal data.
+You have the right to access any personal information we have obtained from you through our Site. We will make any changes to that information at you request. Any such requests should be made by contacting us [here](mailto:dataprotectiongta@hotelbeds.com). We do not assume any responsibility for verifying the ongoing accuracy of the content of any personal data.
 
 **Disclosure of Information**
     
