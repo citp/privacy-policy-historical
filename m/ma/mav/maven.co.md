@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the maven.co privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530070728id_/http%3A//www.maven.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maven.co privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202135553id_/https%3A//www.maven.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maven
 
-This privacy policy, effective as of 12:01am EDT on April 11, 2017 applies to [**www.maven.co**](http://www.maven.co/) owned and operated by Maven Research, Inc. (“Maven”). This privacy policy describes how Maven Research, Inc. collects and uses the personal information you provide on our web site: [**www.maven.co**](http://www.maven.co/).  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy, effective as of 12:01am EDT on April 11, 2017 applies to [**www.maven.co**](https://www.maven.co/) owned and operated by Maven Research, Inc. (“Maven”). This privacy policy describes how Maven Research, Inc. collects and uses the personal information you provide on our web site: [**www.maven.co**](https://www.maven.co/).  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 You agree that by visiting or using the www.maven.co website, or by becoming a user of Maven, that you are expressly and affirmatively consenting to Maven’s use and disclosure of the information that you provide as described below in this Privacy Policy. Please review this Privacy Policy periodically as we may update it from time to time.
 
@@ -115,7 +115,7 @@ If you have any questions about this Privacy Policy or any of our privacy practi
 
 Maven Research, Inc.
 
-1821 Union Street  
-San Francisco, CA 94123
+1500 Fashion Island Blvd. Suite 102  
+San Mateo, CA 94404
 
 **_Rev._** ** _April 11, 2017_**
