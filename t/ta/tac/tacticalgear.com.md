@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tacticalgear.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122152156id_/https%3A//tacticalgear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacticalgear.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202235905id_/https%3A//tacticalgear.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy @ TacticalGear.com
+# Privacy Policy | Tactical Gear Superstore | TacticalGear.com
 
   * [ Customer Service Menu ]()
 
