@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the barefootstudent.com privacy policy that was archived on 2018-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180408140929id_/https%3A//www.barefootstudent.com/page/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the barefootstudent.com privacy policy that was archived on 2018-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181202141156id_/https%3A//www.barefootstudent.com/page/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -40,10 +40,11 @@
                 var isfrozen = 0;
         </script>
                         <!--<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&language=en&geometry"></script>-->
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;libraries=places&amp;language&amp;geometry=en&amp;key=AIzaSyBJUSR_Mao6qpQyiAxO52PbPn8bakjWVHs"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;libraries=places&amp;language&amp;geometry=en&amp;key=AIzaSyA23tvcRGLsFzQvZLdJBrEE7skIwuN3I-o"></script>
                 <script>
 
 </script>
+
 </head><body>
 <input type="hidden" id="base_url" name="base_url" value="https://www.barefootstudent.com"><div id="login_password_div" style="display: none;">
 <table width="268" border="0" cellspacing="0" cellpadding="0">
@@ -184,7 +185,7 @@
                 <a style="color: #444; font-size: 14px;" href="https://www.barefootstudent.com/page/contact/" class="smallLink">Contact Us</a>
 			</li>
             <li style="list-style:none;  padding-top: 10px;">
-                <span style="margin-left: -9px; font-size: 14px">© 2007-2017 Barefoot Student</span>
+                <span style="margin-left: -9px; font-size: 14px">© 2007-2018 Barefoot Student</span>
             </li>
             <li style="list-style:none;  padding-top: 10px;">
                 <input type="button" value="Close" class="button newbtn" id="menu_cancel_button2" name="menu_cancel_button2">
@@ -232,7 +233,7 @@
                 	<li><a href="https://www.barefootstudent.com/jobs">Find Jobs</a>
                     </li><li><a href="https://www.barefootstudent.com/jobs?category_id=19">Find Internships</a>
 			</li><li class="list-hide" style="font-size:10px;">&nbsp;</li> 
-        			<span id="my_searches_link" style="display:none">
+        			<span id="my_searches_link">
 					<li><a href="https://www.barefootstudent.com/user/my-searches/">My Saves</a></li>
 			<li class="list-hide" style="font-size:10px;">&nbsp;</li>
 		</span>
@@ -334,7 +335,7 @@
                 <a class="menupop" href="https://www.barefootstudent.com/page/contact/">Contact Us</a>
 			</li>
             <li style="list-style:none;  padding-top: 10px;" class="listFont">
-                <span style="margin-left: -9px; font-size: 14px;">© 2007-2018 Barefoot Student</span>
+                <span style="margin-left: -9px; font-size: 14px;">© 2007-2019 Barefoot Student</span>
             </li>
             <li style="list-style:none;  padding-top: 10px;" class="listFont">
                 <input type="button" value="Close" class="button newbtn" id="menu_cancel_button" name="menu_cancel_button">
@@ -450,98 +451,4 @@
 		pageTracker._initData();
 		pageTracker._trackPageview();
 	</script>
-
-
-<script>
-    var map;
-    function initMap(){
-        var map2 = document.getElementById('map-canvas');
-        if(map2==null){
-            map2 = document.getElementById('map-canvas2')
-        }
-         map = new google.maps.Map(map2, {
-    center: {lat: 36.2422994, lng: -113.7487596},
-    zoom: 1
-  });
-  var input = /** @type {!HTMLInputElement} */(
-      document.getElementById('pac-input'));
-
-  var types = document.getElementById('type-selector');
-
-  var autocomplete = new google.maps.places.Autocomplete(input);
-  autocomplete.bindTo('bounds', map);
-
-  var infowindow = new google.maps.InfoWindow();
-  var marker = new google.maps.Marker({
-    map: map,
-    anchorPoint: new google.maps.Point(0, -29)
-  });
-
-  autocomplete.addListener('place_changed', function() {
-    infowindow.close();
-    marker.setVisible(false);
-    var place = autocomplete.getPlace();
-    if (!place.geometry) {
-      window.alert("Autocomplete's returned place contains no geometry");
-      return;
-    }
-
-    document.getElementById('location').value = place.geometry.location.lat() + "," + place.geometry.location.lng();
-    document.getElementById('location').value = place.geometry.location.lat() + "," + place.geometry.location.lng();
-
-    // If the place has a geometry, then present it on a map.
-    if (place.geometry.viewport) {
-      map.fitBounds(place.geometry.viewport);
-      map.zoom = 9;
-    } else {
-      map.setCenter(place.geometry.location);
-      map.setZoom(17);  // Why 17? Because it looks good.
-    }
-    marker.setIcon(/** @type {google.maps.Icon} */({
-      url: place.icon,
-      size: new google.maps.Size(71, 71),
-      origin: new google.maps.Point(0, 0),
-      anchor: new google.maps.Point(17, 34),
-      scaledSize: new google.maps.Size(35, 35)
-    }));
-    marker.setPosition(place.geometry.location);
-    marker.setVisible(true);
-
-    var address = '';
-    if (place.address_components) {
-      address = [
-        (place.address_components[0] && place.address_components[0].short_name || ''),
-        (place.address_components[1] && place.address_components[1].short_name || ''),
-        (place.address_components[2] && place.address_components[2].short_name || '')
-      ].join(' ');
-    }
-    
-    infowindow.setContent('<div><strong>' + place.name + '</strong><br>' + address);
-    infowindow.open(map, marker);
-  });
-    
-  // Sets a listener on a radio button to change the filter type on Places
-  // Autocomplete.
-  function setupClickListener(id, types) {
-    var radioButton = document.getElementById(id);
-    radioButton.addEventListener('click', function() {
-      autocomplete.setTypes(types);
-
-    });
-  }
-
-  setupClickListener('changetype-all', []);
-  setupClickListener('changetype-address', ['address']);
-  setupClickListener('changetype-establishment', ['establishment']);
-  setupClickListener('changetype-geocode', ['geocode']);
-}
-    
-    function loadScript() {
-        var script = document.createElement("script");
-        script.type = "text/javascript";
-        script.src = "http://maps.googleapis.com/maps/api/js?key=AIzaSyBRPd4zM76CNfhj13DrnXuImznBDfLGL9A&libraries=places&callback=initMap";
-        document.body.appendChild(script);
-    }
-    window.onload = initialize2;
-</script>
 </div></body></html>
