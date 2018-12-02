@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralthread.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612003710id_/http%3A//www.viralthread.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralthread.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202124051id_/http%3A//www.viralthread.com/privacy-policy) for the most accurate reproduction.*
 
 # Viral Thread, The Web At Its Best
 
@@ -367,7 +367,7 @@ We reserve the right to make changes to this Policy. Where changes are made, we 
 
 If you have any queries or comments about this Policy or to exercise any of your rights under the GDPR, please contact us by email at:
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+hello@junglecreations.com
 
 Alternatively, you can write to us at:
 
