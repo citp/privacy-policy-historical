@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the wypr.org privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602163924id_/http%3A//wypr.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wypr.org privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202085210id_/http%3A//wypr.org/privacy) for the most accurate reproduction.*
 
 # Privacy | WYPR
 
 WYPR is committed to protecting your privacy. Below you will find information about our commitment to ensuring the privacy of your personally identifiable information. Please read it carefully. If you have any questions, please send us an email at [frontdesk@wypr.org](mailto:frontdesk@wypr.org) or call during business hours at 1-410-235-1660.
 
-When you visit the WYPR Web Site you may voluntarily supply certain personally identifiable information in connection with a contest or sweepstakes registration, subscription registration for email newsletters, requests for membership information, e-commerce transactions, contributions, comments and suggestions, and certain content submissions and community postings (i.e. forums or bulletin boards). Respect for the use of this information is one of our primary responsibilities.
+When you visit the WYPR web site you may voluntarily supply certain personally identifiable information in connection with a contest or sweepstakes registration, subscription registration for email newsletters, requests for membership information, e-commerce transactions, contributions, comments and suggestions, and certain content submissions and community postings (i.e. forums or bulletin boards). Respect for the use of this information is one of our primary responsibilities.
 
 WYPR does not rent or sell its member list. By station policy and by federal law WYPR does not trade or rent its list with any partisan group, political party, or party committee even if it is non-profit.  WYPR uses a third party for the housing and processing of the data it exchanges.
 
-The Direct Marketing Association (DMA) offers a Mail Preference Service that is designed to assist consumers in decreasing the amount of nonprofit or commercial mail they receive at home. For more information about this service, visit[http](http://www.the-dma.org/comsumers/consumerassistance.html "http://www.the-dma.org/comsumers/consumerassistance.html")[://www.the-dma.org/comsumers/consumerassistance.html](http://www.the-dma.org/comsumers/consumerassistance.html "http://www.the-dma.org/comsumers/consumerassistance.html") or email them at [customer@the-dma.org](mailto:customer@the-dma.org).  When you engage in money-related transactions on the WYPRsite, you will be asked for a credit card number. All financial transactions take place only on secure servers. Your credit card information is saved on internal systems that are either not connected to the Internet or are protected by advanced firewalls separate from the computers that serve the WYPR public sites. This information is not made available to any third party and is considered completely confidential.
+The Direct Marketing Association (DMA) offers a Mail Preference Service that is designed to assist consumers in decreasing the amount of nonprofit or commercial mail they receive at home. For more information about this service, visit[http](http://www.the-dma.org/comsumers/consumerassistance.html "http://www.the-dma.org/comsumers/consumerassistance.html")[://www.the-dma.org/comsumers/consumerassistance.html](http://www.the-dma.org/comsumers/consumerassistance.html "http://www.the-dma.org/comsumers/consumerassistance.html") or email them at [customer@the-dma.org](mailto:customer@the-dma.org).  When you engage in money-related transactions on the WYPR site, you will be asked for a credit card number.
+
+**All financial transactions take place only on secure servers**. Your credit card information is saved on internal systems that are either not connected to the Internet or are protected by advanced firewalls separate from the computers that serve the WYPR public sites. This information is not made available to any third party and is considered completely confidential.
 
 From time to time WYPR may need to change this policy. Any changes will be posted to this page as soon as reasonably possible, so please check this page periodically. By using this site, you signify your agreement to the terms and conditions of this WYPR Web Site Privacy Policy.
 
@@ -77,6 +79,26 @@ We may use third party ad network providers to help present ads on the Platforms
 
 If you do not want to receive the benefits of targeted advertising, you may opt out of some network advertising programs that use your information by visiting the NAI Opt-Out Page. Please note that even if you choose to remove your information (opt out), you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides a mechanism to opt out of receiving cookies from those companies. Please note that if you opt-out of targeted advertising, we may still track your visits to the Platforms for our own analytics, operations and security purposes.
 
+**Information Automatically Collected Through Technology**
+
+We and service providers working on our behalf automatically collect certain information about your computer or device and your interactions with our Services through access logs, cookies, pixel tags and other tracking technologies. Depending on which services you use and how you access them, the information collected automatically may include:
+
+  * The Internet Protocol address (IP address) of the computer or device you used to access the NPR Services or play podcasts or other media content downloaded through our Services.
+  * The domain name of your Internet Service Provider.
+  * The website, application, platform or service you visited before and after visiting an NPR Service.
+  * Search terms you enter using the NPR Services or on a referring website.
+  * Your approximate geographic location information (derived from request header information, such as your IP address) and/or more precise information about the specific location of your device if you have given NPR explicit consent to receive this information for an NPR application on your mobile device.
+  * The make, model, carrier and unique device identifier for your mobile device, the unique advertising identifier (for example, the Apple IDFA (Identifier for Advertisers) or Google Advertising ID) that allows mobile applications running on your mobile device to gather data for purposes of serving targeted advertising or personalized or "interest-based" sponsorship credits, and other information about your computer or mobile device and its browser, operating system, settings and software.
+  * Automobile make (for certain connected car platforms).
+  * The dates, times, duration, and frequency of your interactions with our Services.
+  * A list of files you download, listen to, view, email, text or otherwise share and other content preferences.
+  * The amount of time spent listening to or viewing media files or pages.
+  * Listening data collected both when you download and listen to podcasts or other media files. Listening data includes descriptions of the title, episodes, segments and sponsorship credits included in a podcast or other media file, time and date stamps for download and playback events (for example, when a file is downloaded and when playback of a particular segment or sponsorship credit starts, stops, is skipped or is paused), the mobile advertising identifier for your device (for example, the Apple IDFA or Google Advertising ID), session IDs and information about the device or platform used to download or play a particular file. The producers of any independently produced podcasts we distribute may also collect the same types of listening data subject to their own privacy policies, which may differ from ours.
+  * Information about your interactions with our email messages, such as links you click on and whether you open or forward a message, the date and time of these interactions, and information about the computer or device you use to read emails.
+  * Any errors you encountered during your use of our Services.
+
+
+
 **7\. CHILDREN**
 
 We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
@@ -101,4 +123,10 @@ We may update this Privacy Notice to reflect changes to our information practice
 
 **12\. CONTACT US**
 
-If you have any questions or concerns about this Privacy Statement, the practices of the Platforms, or your experiences with the Platforms, please contact us at: 410-235-1660
+If you have any questions or concerns about this Privacy Statement, the practices of the Platforms, or your experiences with the Platforms, please contact us at: 410-235-1660.
+
+Notice to Users Outside the U.S.
+
+Our Services are controlled and operated within the United States. If you access our Services outside of the United States, we may transfer the information collected from you to data centers outside of your home country or jurisdiction. In particular, your information may be transferred to and processed in the United States and other jurisdictions where we or our service providers operate, where data protection and other laws may not be equivalent to those in your jurisdiction. By using these Services, you agree that your information can be transferred to and used in the United States and in other jurisdictions where we or our service providers operate, as set forth in the Privacy Policy.
+
+NOTICE TO EU RESIDENTS: Our handling of information about EU residents is governed by the NPR Privacy Notice for EU Residents, effective May 25, 2018. This Privacy Policy does not apply to EU residents.
