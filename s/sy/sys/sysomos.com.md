@@ -1,85 +1,112 @@
-> *The following text is extracted and transformed from the sysomos.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319213558id_/https%3A//sysomos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sysomos.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202233118id_/https%3A//sysomos.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy | Sysomos
 
-Your privacy is of the utmost importance to us. This privacy policy discloses what personal information we gather, how we use it, with whom we share it, where it is stored, and how to correct or change it. This privacy policy covers the [www.sysomos.com](http://www.sysomos.com/) website, as well as Sysomos’ social media monitoring services (our “Services”). By using our website and/or our Services, you consent to our Privacy Policy and our collection, use, and disclosure of your information in accordance with this policy and as permitted or required by law.
+At Sysomos, we know that you care about how your personal information is used and shared, and that is why we are committed to respecting your privacy and to helping protect the security of your information. In this Privacy Policy, we describe the information that we collect about you on our websites, including but not limited to [sysomos.com](http://www.sysomos.com/) (“Site”, “our Site”), and how we use and disclose that information.
 
-**Information Gathered by Sysomos**
+By visiting the Site or using any of our services available on our Site, you agree that your information will be handled as described in this Policy. If you purchase our Services, your use of those Services also will be governed by the Privacy Policy for Sysomos Services, available at [sysomos.com/privacy-services](https://sysomos.com/wp-content/uploads/2018/05/Sysomos-Services-Privacy-Policy.pdf). If there is any conflict between that policy and this one, the terms of that policy will govern.
 
-_Website Visitors_  – We log standard technical information about visitors to our website, such as your IP address, interactions on different pages, and browser information. Our site may use common tools, such as cookies, Javascript and web beacons to collect this information. If you express interest in obtaining additional information about our services, we may also collect contact information (such as name, company, city, state/province, postal/zip code, phone number and email address).
+Your use of our Site, and any dispute over privacy, is subject to this Policy and the terms of use of the Site (“Terms of Use”), including its applicable limitations on damages and the resolution of disputes. The Terms of Use are incorporated by reference into this Policy.
 
-_Customer_  – In order to provide the Services, we require our customers to provide us with certain contact information (such as name and email address, mailing address, phone number, title). We also require financial/billing information (billing name and address, credit card numbers) from our customers.
+**What information do we collect about you and why?**  
+We collect information about you directly from you, automatically through your use of the Site or our services, and through third parties.
 
-_Authorized Users_  – Additionally, we collect contact information, (such as name and email address) about the individuals who are authorized to use our Services on behalf of our customers (“Authorized Users”). Our Services may also collect technical information from the computers of Authorized Users through the use of cookies, Javascripts and web beacons. This information includes the IP address, browser information and information about Authorized Users’ actions within our Services.
+We also collect data about your use of our Site automatically according to our Cookie Statement
 
-_Third Party Content  _– Finally, our Services themselves collect, process and store information, that may include personal information, from a variety of publicly available online sources, such as social networking sites, blogs and news websites. This information is sourced only from content that has been made publicly available on the internet and is used solely to provide our Services. The only parts of this Policy that are applicable to Third Party Content are in contained in the Third Party Content section below.
+_**Information We Collect Directly From You**_
 
-**Sysomos’ Use of Your Information**
+  * We collect information from you when you request information from us or otherwise interact with our Site and our services. The type of information that we collect from you depends on your particular interaction with our Site and may include, without limitation, your name, address, and email address, and any other information that you choose to provide to us.
 
-We use the technical information about our website visitors in order to tailor your experience at our site, to deliver content that we think you might be interested in, to display the content according to your preferences and to improve our website.
 
-We use technical information about Authorized Users to provide and to improve our Services. We also use the technical information to enforce the terms of use for our Services, and to protect our intellectual property and/or rights of our partners. Our Services contain cookies and links to other sites. Sysomos is not responsible for the privacy practices or the content of such websites. We encourage you to review the privacy policy for such sites to better understand their practices.
 
-We use contact information from our website visitors in order to fulfil your requests (for example, to provide you with additional information about our Services). If you are a customer, we use your contact information in order to provide you with the Services. For example, we use your contact information to provide support and account management services and to alert you to system outages. We also use contact information from our website visitors and our customers for marketing purposes to send you information about our company, our affiliates and our products and services. You can opt out of receiving such mailings by clicking on the unsubscribe link in any email and following the instructions.
+_**Information We Collect Automatically**_  
+We and our third party service providers automatically collect information about you through the use of cookies and other tracking technologies (collectively, “cookies”), including:
 
-We use financial/billing information to evaluate our customers’ creditworthiness and to collect payment of our fees for the Services.
+We may collect, process and use the following information about you:
 
-**How do we protect your information?**
+  *     *       * Details of your visits to our Site including, but not limited to, traffic data, location data, weblogs and other communication data, search activities as well as the page, content, software or resources that you access.
+      * Your IP address, web addresses of the sites you arrive from and go to next and information about your connection, including your device’s browser, operating system, platform type and Internet connection speed. We use this information for operational and performance measurement purposes and to regionalize certain contents of the Site.
+      * Details of transactions and orders, your history of correspondence with us, quote requests or inquiries or when you contact customer service or technical support.
 
-We have in place industry standard security measures to protect against the loss, misuse or alteration of the personal information under our control, including through the use of physical, organizational, and technological measures and appropriate training of employees. However, it is possible that any information transmitted via the Internet may be intercepted by unknown third parties. We therefore encourage you to carefully ensure security through virus screening software, browser settings, the setting of passwords that are known only to you and are difficult to guess, and other security measures available to individuals and/or companies.
 
-If you are an Authorized User or customer, where we have given you (or where you have chosen) a password and/or user ID (including email address) which enables you to access certain parts of our site or our Services, you are responsible for keeping this password confidential. We ask you not to share a password or user ID with anyone. We store passwords of Authorized Users only in one-way encrypted form; they are not readable by any of our personnel.
 
-Your personal information may be processed and stored on servers located in various countries around the world, including countries outside of Canada and the European Economic Area. As a consequence, your personal information may be accessed by the courts, law enforcement and national security authorities of those jurisdictions in accordance with applicable laws. By submitting your personal information or using our services, you agree to this transfer, storing or processing. If you reside in the European Union or other jurisdictions that provide access rights under law, you may access your information or have it corrected or updated in accordance with applicable law by contacting us at the addresses set out in this Policy.
+Currently our Site does not recognize browser requests not to be tracked. You may adjust your browser settings so as not to accept cookies. Please see our Cookie Statement for additional information.
 
-**Do we disclose any information to outside parties?**
+_**Information We Collect About You From Third Parties**_  
+We also may collect data from third party sources (such as contact information) as well as on behalf of our customers and at their direction. If we do so, we collect this information from publicly available third party sources.
 
-We do not sell, trade, or otherwise transfer to outside parties personally identifiable information about our website visitors or our customers or their authorized users. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential and use such information only for purposes relating to their services for us.
+**How we use your information**  
+Information about our customers is an integral part of our business. We use your information, including your personal information, for the following purposes:
 
-If you are a customer or authorized user, we may share portions of your contact information and technical information with third party data provider partners, as required under the terms of our agreements with such providers.
+  * To provide our Site and services to you, to facilitate the features on our Site, to communicate with you about your use of our Site and Services, to respond to your inquiries, to manage your account, to send you information that you have requested, and for other customer service purposes
+  * For marketing and advertising purposes. For example, as permitted by applicable law, we may occasionally contact you by e-mail, postal mail, or telephone to provide you with information about goods or services that might be of interest to you.
+  * To tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, and to otherwise personalize your experiences while using the Site or our Services.
+  * To better understand how users access and use our Site and services, both on an aggregated and individualized basis, in order to improve our Site and Services and respond to user desires and preferences, and for other research and analytical purposes.
 
-Sysomos may also disclose your personal information, the contents of your communications and/or your contact and financial information if required to do so by law, with your consent or in the good faith belief that such action is necessary:
 
-1\. To conform to the edicts of the law or comply with a legal process served on Sysomos;
 
-2\. To protect and defend the rights or property of Sysomos or others; or
+**When We Disclose Your Information**  
+We do not share your information with non-affiliated third parties for their own marketing purposes. We do share your information as follows:
 
-3\. To assist, under exigent circumstances, in the investigation of violations of applicable laws and regulations.
+  * **_To Our Affiliates:_** _. As permitted by applicable law, we may share your personal information with our affiliated entities. Those entities may market their products and services to you, but their use of your personal information will be governed by this privacy policy._
+  * **Sales Channel Partners and Distributors:** We may provide information about you to carefully screened entities that work on our behalf, such as our Marketing services suppliers, newsletter distributors or other service partners, to market Sysomos products and services. Only trusted companies who require the use of said information for business purposes are given access to it.
 
-It is possible that as we continue to develop our business, Sysomos might be acquired. In such a transaction, your information may be transferred to the acquiring entity.
 
-**Changes to Our Policies**
 
-Sysomos’ Privacy Policy may change from time to time. If we make any substantive changes to our policies, we will notify you by posting notice of changes to our website. Your use of our website or our Services after the changes constitutes your agreement with regard to information collected from you in the past and in the future.
+We also may share your information in the following circumstances:
 
-**Use by Minors Prohibited**
+  * _**Business Transfers.**_ If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the other company. We also may transfer our rights under any customer agreement we have with you.
+  * _**In Response to Legal Process.**_ We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena.
+  * _**To Protect Us and Others.**_ We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Use or this Policy, or as evidence in litigation in which we are involved.
+  * _**Aggregate and De-Identified Information.**_ We may share aggregate or de-identified information about users with third parties for marketing, advertising, research or similar purposes.
+  * _**Legal Purposes.**_ To enforce our Terms of Use; for example, to protect the security of our Site, as required by law or when we believe that disclosure is necessary to protect our rights.
 
-Sysomos’ Services are not intended for and should not be used by anyone under the age of 18. Sysomos complies with the Children’s Online Privacy Protection Act and does not permit registration or use by anyone under the age of 13.
 
-**Social Media**
 
-From time to time we will participate in conversations on social media platforms such as Twitter, LinkedIn or Facebook, where we have reason to believe individuals might be interested in our services because of their involvement in public relations, investor relations or related fields. Communications that are meant to be confidential in nature should be made through secure messaging options available within these third party websites/services. Questions about our social media policy should be forwarded to [info@sysomos.com](mailto:info@sysomos.com).
+**Third-Party Ad Networks**  
+We use third parties such as network advertisers to display advertisements on our Site, to assist us in displaying advertisements on third party websites, and to evaluate the success of our advertising campaigns. Network advertisers are third parties that display advertisements based on your visits to our Site as well as other websites. This enables us and these third parties to target advertisements by displaying ads for products and services in which you might be interested. Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. Please see our Cookie Statement for additional information.
 
-**Third Party Content**
+You may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (“DAA”). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of third- party ad networks operated by NAI and DAA members, please visit their respective websites: in the United States: [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp) (NAI) and www.aboutads.info/choices (DAA), and in Europe: <http://youronlinechoices.eu/>.
 
-Our Services collect, use, process and store information that has been made publicly available on the Internet (“Third Party Content”). In general, the Third Party Content can be found using a standard Internet search engine or by visiting the applicable websites directly. We do not have any ownership interest or control over the Third Party Content or any direct relationship with those persons who post such Third Party Content. We obtain Third Party Content through agreements with certain data providers, and through proprietary technology that collects RSS feeds. We do not attempt to gain unauthorized access to any information and do not circumstance any passwords or other technology protections. We only gather Third Party Content that is made available to the public by the site or by the individual.
+**Legal Basis for Processing**  
+We have legal basis to collect, use and share your information. You also have choices about our use of your information as explained further below. We will only collect and process your information when we have legal basis to do so. Legal basis includes consent (where you have given consent), contract (where processing is necessary to fulfil contractual obligations (e.g. to provide you with the Services you have purchased)) and legitimate interest. If you have any questions about the legal basis we use to process your information, please complete the [GDPR privacy request form](https://sysomos.com/gdpr-request/).
 
-Our Services provide analytics that allow our customers to aggregate and analyze the Third Party Content. Our Services may also be used by our customers to collect certain personal information about individuals and their online activities, such as interactions with a customer’s website and/or in relation to a customer’s products and services. We require our customers to comply with all applicable legal requirements in using the Third Party Content, including any applicable privacy laws.
+**Data retention**  
+We retain your information as long as we have a legitimate business interest to process it or as long as you have not withdrawn your consent. This includes data you or others provided to us and data generated or inferred from your use of our Site.
 
-If you reside in the European Union or other jurisdictions that provide access rights under law, you may access your information or have it corrected or updated in accordance with applicable law by contacting us at the addresses set out in this Policy.
+**Security**  
+Sysomos takes security of all data, especially your personal information, seriously. We have done our best to protect your information from any unauthorised access or loss with implemented security features and procedures. You should however be aware that the transmission of information via the Internet is never completely secure. You should also take necessary steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
 
-* * *
+**Transfers to countries that do not provide adequate level of protection**  
+Sysomos is a global company and information that we collect from or about you within the European Economic Area (“EEA”) may be transferred within our Group across international borders and to countries outside of the EEA that do not have laws providing an adequate level of data protection. We as the Data Controller (or Data Exporter) will do our best to ensure that your information is protected no matter where it is transferred to. To ensure adequate protection we utilise standard contract clauses approved by the European Commission or rely on other legally-provided mechanisms to ensure the adequate protection of your information.
 
-**Contacting Sysomos**
+**Opting out of outreach from Sysomos**  
+We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the e-mail or by completing the [GDPR privacy request form](https://sysomos.com/gdpr-request/). If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any services you have requested or received from us.
 
-If you have any questions about this Privacy Policy or the practices of Sysomos, you can contact us at the postal address, phone number, fax number or email address listed below.
+**Your rights as a data subject**  
+You as a data subject have many possibilities to impact how your personal information is being processed. You can:
 
-Sysomos L.P.  
-Telus Tower,  
-25 York St #1200,  
-Toronto, ON M5J 2V5, Canada  
-Phone: 888-299-0338  
-Fax: 416-362-5477  
-Email: [info@Sysomos.com](mailto:info@marketwired.com)
+  * Request access to your information we process
+  * Withdraw your consent if our use of your information is based on consent
+  * Request for your information to be deleted or for you to be forgotten (right of erasure)
+  * Request us to correct or change your information. As a customer you may also do this by logging in to your account.
+  * Limit, restrict or object to our use of your information
+  * Access your information and/or receive it in a machine readable form
+  * Subject to applicable law lodge a complaint with your local data protection authority or the Berlin Data Protection Authority, which is Sysomos’ lead supervisory authority in the European Union
 
-Last updated: February 6, 2017
+
+
+Please note that if you request us to remove your information, we may retain some of the information for specific reasons, such as to resolve disputes, troubleshoot problems, and as required by law. Furthermore, some information is never completely removed from our databases because of technical constraints and the fact that we regularly back up our systems. Therefore, not all of your personal information will ever be completely removed from our databases.
+
+**Links**  
+Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies. Please check their policies before you submit any personal data.
+
+**Identity and contact details of the Data Controller**  
+The website you have used impacts which entity is the Data Controller of your information. Please see the list below for more details:
+
+Sysomos.com – Meltwater News Canada 2 Inc.
+
+If you have any questions about this policy, the use of your personal information and/or would like to make changes, please complete the [GDPR privacy request form](https://sysomos.com/gdpr-request/) to contact us. You will also reach our Data Protection Officer with same link.
+
+**Changes to the Privacy Policy**  
+We may change this Privacy Policy from time to time due to changed or updated legislation and/or business standards. All changes to this Privacy Policy are posted on this page and we encourage you to review our Privacy Policy regularly to stay informed.
