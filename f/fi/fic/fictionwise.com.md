@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fictionwise.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629005634id_/http%3A//fictionwise.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fictionwise.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202121755id_/http%3A//www.fictionwise.com/privacy.htm) for the most accurate reproduction.*
 
 # Fictionwise eBooks: Free eBooks, eBooks for your iPhone, BlackBerry, Android device, Symbian Mobile Phone, Windows Mobile Smartphone, Palm handheld, PC, Mac and more!
 
@@ -50,7 +50,7 @@ Fictionwise 346 Main St. Chatham, NJ 07928
 
 This site gives users the following options for changing and modifying information previously provided.
 
-To change personal information in your profile, Login at Fictionwise.com, go to your Bookshelf, Click on "Update My Profile" and change any information that you wish, including opting in or out of receiving Fictionwise newsletters. To cancel your account, email support@fictionwise.com FROM THE SAME EMAIL ADDRESS in your profile (that allows us to verify who you are).
+To change personal information in your profile, Login at Fictionwise.com, go to your Bookshelf, Click on "Update My Profile" and change any information that you wish, including opting in or out of receiving Fictionwise newsletters. To cancel your account, email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) FROM THE SAME EMAIL ADDRESS in your profile (that allows us to verify who you are).
 
 ### Contacting the Web Site
 
@@ -60,6 +60,6 @@ If you have any questions about this privacy statement, the practices of this si
 Fictionwise   
 346 Main St.  
 Chatham, NJ 07928  
-support@fictionwise.com**
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
 
 Fictionwise reserves the right to change or update these terms.
