@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spring4sims.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602162643id_/http%3A//spring4sims.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spring4sims.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202183020id_/http%3A//spring4sims.com/privacy-policy) for the most accurate reproduction.*
 
-# Spring4Sims | Privacy Policy
+# Spring4sims | Privacy Policy
 
 We only provide articles and information. We never ask for personal information such as names, addresses, email addresses, phone numbers and / or credit card numbers.
 
