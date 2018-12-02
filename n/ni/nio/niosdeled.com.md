@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niosdeled.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629131646id_/http%3A//niosdeled.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niosdeled.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202234437id_/http%3A//niosdeled.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NIOS DelED
 
@@ -65,7 +65,7 @@ Like many other Web sites, http://niosdeled.com/ makes use of log files. The inf
 
 We do use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Comment Section – If you leave a comment on our site, you may opt-in to save your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+Comment Section – If you leave a comment on our site, you may opt-in to save your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year. This site using Akismet to reduce spam check How your date proceeds.  **https://automattic.com/privacy-notice/**
 
 Push Notification– niosdeled.com use Onesignal to send the push notifications to our users who opted for it and Onesignal also uses cookies, you can it’s privacy policy here **https://onesignal.com/privacy_policy**
 
@@ -84,6 +84,10 @@ Advertising
 5) Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – **https://www.google.com/policies/technologies/ads/**
 
 6) You should consult the respective privacy policies of these third-party ad servers and push notification service for more detailed information on their practices as well as for instructions on how to opt-out of specific methods. https://niosdeled.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
+
+### Google Adsense
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
@@ -152,6 +156,14 @@ Visitor comments may be checked through an automated spam detection service.
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Changes to this privacy policy
+
+http://NiosDelEd.Com has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. By using our site, you consent to our online privacy policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 Last updated → 26th May 2018
 
