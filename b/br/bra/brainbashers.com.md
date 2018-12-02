@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainbashers.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615065245id_/http%3A//www.brainbashers.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainbashers.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202082656id_/http%3A//www.brainbashers.com/privacy.asp) for the most accurate reproduction.*
 
 # BrainBashers - Privacy
 
@@ -45,7 +45,7 @@ As with most other websites, we collect and use the server's logging information
 
 Some of the pages automatically post information back to the BrainBashers server in the background, these pages usually inform you of this fact. For example when you complete the alphabet in AtoZ your browser should automatically update the BrainBashers server with your time.
 
-Ticking the box on the "Contact Us" gives us permission to collect and store your comments, and for us to contact you to reply to your comments. We will only use your email address for this reason. If you would like us to delete any previous comments to us, then please [contact us](https://web.archive.org/contactform.asp?page=privacy) and we will do so in a timely manner.
+Ticking the box on the "Contact Us" gives us permission to collect and store your comments, and for us to contact you to reply to your comments. We will only use your email address for this reason. If you would like us to delete any previous comments to us, then please [contact us](https://web.archive.org/contactus.asp?page=privacy) and we will do so in a timely manner.
 
 We will never sell/transfer/give away/etc any of your personal information to third parties - however we will disclose any required information if legally obligated.
 
