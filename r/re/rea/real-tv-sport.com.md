@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the real-tv-sport.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319181328id_/http%3A//www.realtvsport.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the real-tv-sport.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202144208id_/http%3A//www.realtvsport.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Schedule - Live Sports | Football, Basketball, Hockey, Baseball, Rugby, Tennis
 
