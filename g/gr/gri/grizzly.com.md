@@ -1,49 +1,78 @@
-> *The following text is extracted and transformed from the grizzly.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627221931id_/http%3A//www.grizzly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grizzly.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202204815id_/http%3A//www.grizzly.com/privacy) for the most accurate reproduction.*
 
 # Grizzly.com® -- Customer Privacy Policy
 
-PRIVACY POLICY STATEMENT
+Last updated September 25, 2018.
 
-**Grizzly Industrial Inc. Privacy Notice**
+This Grizzly Industrial, Inc. Privacy Policy (“Privacy Policy”) describes how Grizzly collects, uses, stores, and processes your personal information when you visit or interact with the Grizzly Services, including Grizzly.com (the “Website”). For example, as a Grizzly customer you may provide personal information when you purchase a product or sign up for our emails on the Website. This Privacy Policy does not apply to any third-party services or websites that you may be able to access through the Grizzly Services.
 
-Last updated October 17th, 2016.
+By visiting the Website, you are accepting the practices described in this Privacy Policy. If you disagree with this Privacy Policy, please immediately discontinue use of the Grizzly Services.
 
-This notice describes our privacy policy. By visiting Grizzly.com, you are accepting the practices described in this Privacy Notice.
+This Privacy Policy may be revised and new terms posted from time-to-time. Your continued use of the Website after new terms are posted is deemed acceptance of the new terms. Any capitalized terms not defined herein are used as defined in the Grizzly Conditions of Use <https://www.grizzly.com/conditions-of-use>.
 
-**What Personal Information About Customers Does Grizzly.com Gather?**
+## What Personal Information About Customers Does Grizzly Services Gather and Use?
 
-  * **Information You Give Us** : We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
+  * Information You Give Us: We receive and store any information you enter on our website, like your Account information or order details, or give us in any other way, such as through a contest, product rating, or customer service inquiry. For example, we collect your name, phone number, address, credit card information, when you place an order on the Website. Please note that might have more than one Account if you have used more than one email address when shopping with us. You can choose not to provide certain information, but then you might not be able to take advantage of many of the Grizzly Services features. We use the information that you provide for such purposes as responding to your requests, processing and shipping orders, customizing future shopping for you, improving the Grizzly Services, and communicating with you.
 
-  * **Automatic Information** : We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses Grizzly.com
+  * Automatic Information: We receive and store certain types of information automatically whenever you interact with the Grizzly Services. For example, like many websites, we use “cookies,” and we obtain certain types of information, like your IP address and your browser type and time zone, when your browser accesses the Website. We also automatically collect your browsing and purchase history. We use the information you provide to provide and improve the Grizzly Services, such as the Website, and to customizing future shopping for you. We may also collect technical information to help us identify your device, and link it to your Account, for fraud prevention and diagnostic purposes.
 
-  * **E-mail Communication** : To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Grizzly.com if your computer supports such capabilities. If you do not want to receive e-mail or other mail from us, please [_unsubscribe from our list_](https://web.archive.org/unsubscribe).
+  * Email and Mail Communications: If you create an Account or otherwise submit your address to the Grizzly, we will send you marketing communications and product information from time to time. If you do not want to receive email or other mail from us, you may manage your communications settings in our emails or in your Account E-Mail Preferences
+
+Third-Party Providers and Services: You may utilize the Grizzly Services with or through third-party services such like Facebook or Amazon Payments. We collect necessary third-party services account information, such as your third-party account handle and/or email address or your mailing address for an order, to support us in carrying out your requests. We may also receive information like updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information from some searches conducted through the Web search features offered by our subsidiary, search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.
 
 
 
 
-**What About Cookies?**
+## What About Cookies and other Tracking Methods?
 
   * Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features such as the storage of items in your shopping cart between visits.
 
-  * The Help features on most browsers will tell you how to prevent your browser from accepting cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the Website of its manufacturer. Because cookies allow you to take advantage of some of Grizzly.com’s essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Grizzly.com products and services that require you to Sign In.
+  * The Help features on most browsers will tell you how to prevent your browser from accepting cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the Website of its manufacturer. Because cookies allow you to take advantage of some of the Website’s essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any of the Website’s products and services that require you to sign in to your Account.
+
+  * Tracking pixels or tags, web beacons, clear GIFs, API calls, SDKs, JavaScript and similar technologies are items that can function similarly to cookies or that otherwise assist tracking by collecting certain information about your interaction with the Grizzly Services (e.g., counting users who open an HTML-formatted email message, distinguishing visitors and counting pages they visit and authenticating them, etc.). 
+
+  * Grizzly also uses analytics services, such as Google Analytics, to collect information. Generally analytics services do not identify individual users. Many analytics services allow you to opt out of data collection. For example, to learn more about Google Analytics practices and to opt out, visit www.google.com/settings/ads or by downloading the Google Analytics opt-out browser add-on at https://tools.google.com/dlpage/gaoptout.
 
 
 
 
-**Does Grizzly.com Share the Information It Receives?**
+## Your California Privacy Rights
 
-Information about our customers is an important part of our business and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Grizzly.com controls that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
+California Civil Code Section 1798.83 permits customers of Grizzly who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
 
-  * **Third-Party Service Providers** : We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+Grizzly Industrial, Inc.  
+1821 Valencia St  
+Bellingham, WA 98229
 
-  * **Business Transfers** : As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Grizzly.com or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+### California Do Not Track Disclosure
 
-  * **Protection of Grizzly.com and Others** : We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [_Conditions of Use_](https://web.archive.org/conditions-of-use) and other agreements; or protect the rights, property, or safety of Grizzly.com, our users, or others. This includes exchanging information with other companies for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
-
-
+  * Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. Unless legally required, we do not commit to honoring "Do Not Track" signals in your browser because honoring it would prevent much of the tracking and disclosures as discussed under the Cookies section. For information about Do Not Track, please visit: www.allaboutdnt.org.
 
 
-**How Secure Is Information About Me?**
+
+
+### California Minors Privacy
+
+While the Grizzly Services are not intended for anyone under the age of 18, if you are a California resident who is under age 18 and you are unable to remove publicly-available content that you have submitted to us, you may request removal by contacting us at: [csr@grizzly.com](mailto:csr@grizzly.com). When requesting removal, you must be specific about the information you want removed and provide us with specific information, such as the URL for each page where the information was entered, so that we can find it. We are not required to remove any content or information that: (1) federal or state law requires us or a third party to maintain; (2) was not posted by you; (3) is anonymized so that you cannot be identified; (4) you don’t follow our instructions for removing or requesting removal; or (5) you received compensation or other consideration for providing the content. Removal of your content from the Grizzly Services does not ensure complete or comprehensive removal of that content from our systems or the systems of our service providers. We are not required to delete the content or information posted by you; our obligations under California law are satisfied so long as we anonymize the content or render it invisible to other users and the public.
+
+## Are Children Allowed to Use Grizzly.com?
+
+Grizzly does not sell products for purchase by children. We sell some children’s products for purchase by adults. If you are under [18], you may not have an account or purchase products from us.
+
+## Does Grizzly.com Share the Information It Receives?
+
+Information about our customers is an important part of our business and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Grizzly.com controls or affiliates that are either subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy. Grizzly and its subsidiaries cannot ensure that personal information will never be disclosed in ways not otherwise described in this Privacy Policy.
+
+  * Third-Party Service Providers: We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+
+  * Business Transfers: As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the event that Grizzly.com or substantially all of its assets are acquired, customer information generally would be one of the transferred assets.
+
+  * Protection of Grizzly and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Grizzly.com, our users, or others. This includes exchanging information with other companies for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy.
+
+
+
+
+## How Secure Is Information About Me?
 
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
 
@@ -54,45 +83,29 @@ Information about our customers is an important part of our business and we are 
 
 
 
-**Which Information Can I Access?**
+## Which Information Can I Access?
 
-Grizzly.com gives you access to a broad range of information about your account and your interactions with Grizzly.com for the limited purpose of viewing and, in certain cases, updating that information. 
+The Website gives you access to a broad range of information about your Account and your interactions with the Grizzly Services for the limited purpose of viewing and, in certain cases, updating that information. 
 
-**What Choices Do I Have?**
+## What Choices Do I Have?
 
-  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Grizzly.com features as Your Profile, Wish List, or Customer Reviews.
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Website features as Your Profile, Wish List, or Customer Reviews.
 
   * You can add or update certain information on pages such as those referenced in the Which Information Can I Access? Section. When you update information, we usually keep a copy of the prior version for our records.
 
+  * You may request to delete your Account under your Account Settings. Grizzly will retain all information created under that Account as long as it is useful to the Grizzly Services.
 
 
 
-**Are Children Allowed to Use Grizzly.com?**
 
-Grizzly.com does not sell products for purchase by children. We sell some children’s products for purchase by adults. If you are under 13, you may not have an account or purchase products from us.
+## Conditions of Use, Notices, and Revisions
 
-Conditions of Use, Notices, and Revisions
+If you choose to visit the Website, your visit and any dispute over privacy is subject to this Privacy Policy and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington. Our business changes constantly, and our Privacy Policy and the Conditions of Use will change also. We may email periodic updates of our Privacy Policy and Conditions of Use, but you should check our Website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your Account. 
 
-If you choose to visit Grizzly.com, your visit and any dispute over privacy is subject to this Notice and our [_Conditions of Use_](https://web.archive.org/conditions-of-use) , including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Grizzly.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the [_Conditions of Use_](https://web.archive.org/conditions-of-use) will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+## Contact Us About Privacy
 
-##  **Examples of Information Collected**
+If you have a question for us about this Privacy Policy, the privacy aspects of the Grizzly Services, the information concerning you that Grizzly has retained, or would like to make a complaint, please contact us with a thorough description at the email address or telephone numbers below and we will try to resolve your question.
 
-**Information You Give Us**
+[csr@grizzly.com](mailto:csr@grizzly.com)
 
-You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; or place an order through Grizzly.com; provide information in [_Your Account_](https://web.archive.org/account) (and you might have more than one if you have used more than one e-mail address when shopping with us) ; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; [compile ](https://web.archive.org/wishlists)[Wish Lists](https://web.archive.org/wishlists); provide and rate Reviews 
-
-We love receiving feedback from our customers and value your input. In order to review an item, just sign into your account then search for the item you wish to review by using the model number in the search box above. Click on the “Write a review” link and then hit “Submit” when you finish.
-
-; and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; e-mail addresses of your friends and other people; content of reviews and e-mails to us; and financial information.
-
-**Automatic Information**
-
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes.
-
-**Information from Other Sources**
-
-Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information from some searches conducted through the Web search features offered by our subsidiary, search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.
-
-**Information You Can Access**
-
-Examples of information you can access easily at Grizzly.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book); payment settings (including credit card information); e-mail notification settings (including Product Availability Alerts); shopping lists and gift registries (including Wish List); Seller accounts; and Your Profile (including your product Reviews, and Wish List).
+1-800-523-4777
