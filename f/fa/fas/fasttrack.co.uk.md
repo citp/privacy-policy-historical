@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fasttrack.co.uk privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609145628id_/http%3A//www.fasttrack.co.uk/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasttrack.co.uk privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202145828id_/http%3A//www.fasttrack.co.uk/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy & cookies policy - Fast Track
 
