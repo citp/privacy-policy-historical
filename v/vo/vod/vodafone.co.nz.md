@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128093308id_/https%3A//www.vodafone.co.nz/legal/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202143736id_/https%3A//www.vodafone.co.nz/legal/policy/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Vodafone NZ
 
@@ -77,6 +77,8 @@ There may be times when we need to disclose your personal information to third p
 3.13 aggregated user statistics and other information that does not personally identify you, to third parties such as our advertisers, customers, potential customers and partners;
 
 3.14 any person or organisation as authorised by the Privacy Act 1993 and/or the Telecommunications Information Privacy Code 2003, including with your prior authorisation which we will usually obtain at the time of collecting the information from you.
+
+3.15 other people who you specifically request we share your account information with – (for example, by you ‘authorising’ them on your account or by you sharing access via ‘My Vodafone’).
 
 If you have not opted out of receiving marketing material from us, we may also provide your personal information to carefully selected third parties who we reasonably believe provide products or services that may be of interest to you and who have contracted with Vodafone to keep the information confidential, or who are subject to obligations to protect your personal information.
 
