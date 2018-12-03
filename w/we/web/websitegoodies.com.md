@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitegoodies.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625031000id_/https%3A//www.awio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitegoodies.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203074754id_/https%3A//www.awio.com/privacy) for the most accurate reproduction.*
 
 # Awio Web Services LLC's Privacy Policy
 
@@ -144,7 +144,7 @@ We may update this Privacy Policy to reflect changes to our information practice
 
 In compliance with the Principles, Awio commits to resolve any complaints about your privacy and our collection, use, or disclosure of your personal information. If you have any inquiries or complaints regarding this Policy or our compliance with Privacy Shield, you should first contact Awio at: 
 
-Email: [dan@awio.com](https://web.archive.org/web/20180625031000id_/https%3A//www.awio.com/dan@awio.com)  
+Email: [dan@awio.com](https://web.archive.org/web/20181203074754id_/https%3A//www.awio.com/dan@awio.com)  
 Postal mail: Awio Web Services LLC, 219 Chatham Pl., Lansdale, PA 19446 
 
 * * *
