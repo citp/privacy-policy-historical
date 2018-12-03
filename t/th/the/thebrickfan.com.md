@@ -1,40 +1,49 @@
-> *The following text is extracted and transformed from the thebrickfan.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930013533id_/http%3A//www.thebrickfan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrickfan.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203045843id_/https%3A//www.thebrickfan.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - The Brick Fan - LEGO Reviews and News | The Brick Fan
+# Privacy Policy - The Brick Fan - LEGO Reviews and News
 
-  
-Privacy Policy – www.thebrickfan.com  
+The information below is provided for compliance of the EU General Data Protection Regulation (GDPR) 2018.
 
+* * *
 
-Privacy Policy for www.thebrickfan.com 
+_Revised May 10 2018_
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at neonleon2k@yahoo.com. 
+We’ve updated our privacy policy to explain how we collect, store, and handle your personal data.
 
-At www.thebrickfan.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.thebrickfan.com and how it is used. 
+### How We Collect Your Data
 
-**Log Files**  
-Like many other Web sites, www.thebrickfan.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Your email address is collected if you subscribe to our daily newsletter. You will have to manually confirm your subscription through your email. You can also unsubscribe through the email or we can do it manually upon request.
 
-**Cookies and Web Beacons**  
-www.thebrickfan.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+Data is also collected when you send us an email through our [contact page](https://www.thebrickfan.com/contact/). You have to consent before the information is submitted. The name, email address, and message will not be stored in any way.
 
-**DoubleClick DART Cookie**
+All the data we have about each user is what they have entered themselves. No other dates is stored including IP addresses.
 
-.:: Google, as a third party vendor, uses cookies to serve ads on www.thebrickfan.com.
+### When We Will Share Your Data
 
-.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to www.thebrickfan.com and other sites on the Internet. 
+The Brick Fan does not share your data with any other company or person.
 
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
+### Cookies
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….   
-Google Adsense
+The Brick Fan uses cookies to enhance your experience of the site.
 
-Clickbank
+When you browse The Brick Fan, you may receive The Brick Fan cookies from TheBrickFan.com, and from 3rd party sites, such as Amazon, Rakuten, eBay, etc.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.thebrickfan.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+You can opt out of receiving some of the 3rd party cookies and information on how to do so is provided below.
 
-www.thebrickfan.com has no access to or control over these cookies that are used by third-party advertisers. 
+### Affiliate Marketing Cookies
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.thebrickfan.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+The Brick Fan is free to use but it costs time and money to run. The site is funded by affiliate marketing and cookies are necessary for this to function. When you click on links to Amazon, eBay and Shop@Home, for example, you may receive cookies that help the site remember that you’ve visited from The Brick Fan so that your activity (buying or bidding on things) is attributed to The Brick Fan, which then receives a small commission.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
+### Types of Cookies in Use
+
+A session cookie, also called a transient cookie, is a cookie that is erased when the user closes the Web browser. The session cookie is stored in temporary memory and is not retained after the browser is closed. Session cookies do not collect information from the user’s computer. They typically will store information in the form of a session identification that does not personally identify the user.
+
+A persistent cookie, also called a permanent cookie, or a stored cookie, is a cookie that is stored on a user’s hard drive until it expires (persistent cookies are set with expiration dates) or until the user deletes the cookie. Persistent cookies are used to collect identifying information about the user, such as Web surfing behavior or user preferences for a specific Web site.
+
+Persistent cookies are created for analytical purposes, or in response to actions or choices you take at The Brick Fan and are saved so that, for example, your preferences are set the next time you visit the site.
+
+The cookies created by The Brick Fan are split into two categories:
+
+Analytical cookies allow us to recognise and to count the number of visitors to our website, to see how visitors move around the website when they are using it and to record which content viewers view and are interested in. This helps us to determine how frequently particular pages and advertisements are visited and to determine the most popular areas of our website. This helps us to improve the service which we offer to you by helping us make sure our users are finding the information they are looking for, by providing anonymised demographic data to third parties in order to target advertising more appropriately to you, and by tracking the success of advertising campaigns on our website.
+
+Third party cookies are created by sites other than The Brick Fan and are used to support features such as advertising, affiliate marketing, and social bookmarking.
