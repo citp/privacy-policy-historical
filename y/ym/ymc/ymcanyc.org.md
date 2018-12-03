@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ymcanyc.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628060006id_/http%3A//www.ymcanyc.org/association/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymcanyc.org privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203144631id_/https%3A//www.ymcanyc.org/association/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | New York City's YMCA
 
