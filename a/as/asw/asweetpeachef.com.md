@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asweetpeachef.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607003210id_/http%3A//www.asweetpeachef.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asweetpeachef.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203022617id_/https%3A//www.asweetpeachef.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • A Sweet Pea Chef
 
@@ -20,7 +20,7 @@ When you visit the website, we may send one or more cookies — a small text fil
 
 ## Advertising
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](http://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](https://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
 ## Children’s Privacy
 
@@ -30,7 +30,7 @@ Sweet Pea Chef does not knowingly collect or solicit Personally Identifiable In
 
 We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible for and do not control any third parties that you authorize to access your User Content. If you are using a third-party website or service (like Facebook) and you allow such a third party access to your User Content, you do so at your own risk. This Privacy Policy does not apply to information we collect by other means (including offline) or from sources other than through the Service.
 
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
+For information about opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/about/privacy-policy](https://www.gourmetads.com/about/privacy-policy)
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
 
