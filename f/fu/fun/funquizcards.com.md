@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funquizcards.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616030817id_/http%3A//funquizcards.com/info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funquizcards.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203193332id_/http%3A//funquizcards.com/info/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
