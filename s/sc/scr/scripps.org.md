@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripps.org privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129054139id_/https%3A//www.scripps.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripps.org privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203175143id_/https%3A//www.scripps.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scripps Health
 
@@ -88,16 +88,21 @@ Scripps Health also may disclose your personal information to another party, suc
 
 If you wish to delete or correct your personally identifiable information obtained through this Web site, you may:
 
-  * Send a written request to:  
-Web Team,  
-Scripps Health,  
-10100 Campus Point Drive, AN105,  
+Send a written request to:
+
+Web Team,
+
+Scripps Health,
+
+10100 Campus Point Drive, CPC105,
+
 San Diego, CA 92121
-  * Send an electronic request to: [webteam@scrippshealth.org](mailto:%77%65%62%74%65%61%6d@%73%63%72%69%70%70%73%68%65%61%6c%74%68.%6f%72%67)
-  * [Submit](https://web.archive.org/about-us__contact-us__contact-form "Submit") an electronic request.
-  * Call **1-800-SCRIPPS** and submit a verbal request.
 
+Send an electronic request to: [webteam@scrippshealth.org](mailto:%77%65%62%74%65%61%6d@%73%63%72%69%70%70%73%68%65%61%6c%74%68.%6f%72%67)
 
+[Submit](https://web.archive.org/about-us/contact-us) an electronic request.
+
+Call **1-800-SCRIPPS** and submit a verbal request.
 
 #### Comments or questions
 
