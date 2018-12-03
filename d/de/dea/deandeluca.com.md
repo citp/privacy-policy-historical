@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deandeluca.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123100030id_/https%3A//www.deandeluca.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deandeluca.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203054102id_/https%3A//www.deandeluca.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Updated December 1, 2016
+Updated January 1, 2018
 
 DEAN & DELUCA is committed to protecting the privacy of certain data that is collected from you and that you submit when you access this web site or web sites under our operation and control (collectively, the “Site”). We recognize the sensitive nature of much of the information with which we are entrusted on a daily basis, and we are committed to high standards of privacy. We respect your privacy and providing you proper protection and management of any Personally Identifiable Information you choose to share with us. Personally Identifiable Information consists of any information by which you can be personally identified or contacted, such as your first and last name, home or other physical address (including street name and name of a city or town), telephone number or e-mail address.
 
@@ -24,7 +24,7 @@ There will be times, such as when placing an order, subscribing to a service, re
 
 The Site is not directed to children. DEAN & DELUCA does not knowingly collect any personal information from children. If you are concerned about your child’s use of the Site, you may use web-filtering technology to supervise or limit access to the Site. 
 
-DEAN & DELUCA has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of customer product reviews on products sold by DEAN & DELUCA. When you submit a product review to DEAN & DELUCA, you are also subject to PowerReviews terms of use and privacy policies (see http://www.buzzillions.com/public/legal/index_en_US.html). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both [www.Buzzillions.com](https://web.archive.org/web/20180123100030id_/https%3A//www.deandeluca.com/www.Buzzillions.com) and our site.
+DEAN & DELUCA has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of customer product reviews on products sold by DEAN & DELUCA. When you submit a product review to DEAN & DELUCA, you are also subject to PowerReviews terms of use and privacy policies (see http://www.buzzillions.com/public/legal/index_en_US.html). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both [www.Buzzillions.com](https://web.archive.org/web/20181203054102id_/https%3A//www.deandeluca.com/www.Buzzillions.com) and our site.
 
 We may use third-party service providers to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, but not your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of interest to you. This information is collected through the use of pixel tags or cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit http:/www.networkadvertising.org/.
 
@@ -116,3 +116,5 @@ DEAN & DELUCA and the Site take precautions and steps to safeguard and protect t
 ## GOVERNING LAW/LEGAL NOTICES
 
 These terms and conditions shall be governed by and construed in accordance with the laws of the State of New York, excluding its conflict of law rules. For additional information concerning legal claims associated with this Privacy Statement and/or your use of the Site, please see our [Terms of Use](http://www.deandeluca.com/terms-of-use). 
+
+For information on our GDPR Privacy Policy, see [here](https://www.deandeluca.com/gdpr-privacy-policy). 
