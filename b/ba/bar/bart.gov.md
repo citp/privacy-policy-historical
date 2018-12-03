@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the bart.gov privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629154442id_/http%3A//www.bart.gov/siteinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bart.gov privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203180851id_/http%3A//www.bart.gov/siteinfo/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | bart.gov
+# BART Website Privacy Policy | bart.gov
 
-**Privacy Policy Key Points**
+For the Official BART App Terms of Service and Privacy Policy visit: <https://www.bart.gov/siteinfo/bart-app-privacy>
+
+  
+ **BART Website Privacy Policy Key Points**
 
   * BART collects data from User’s use of BART’s online services and programs.
   * If User uses BART’s online services and programs, BART may use User’s Personally Identifiable Information to better administer these programs and services.
@@ -59,7 +62,7 @@ BART monitors network traffic to identify unauthorized attempts to upload or cha
 A cookie is a small data file that websites commonly write to User’s hard drive when User visits a website. A cookie file contains information that can identify User anonymously in order to track traffic patterns and add functionality to the website. The cookies on BART websites do not identify User personally but rather identify User’s computer when User visits BART websites. A cookie cannot read data off User’s hard disk or read cookie files created by other websites. User’s browser can be set to warn User before accepting cookies and may choose to refuse cookies by turning them off in User’s browser. User does not need to have cookies turned on to use the majority of BART websites, but User will need to allow cookies in certain areas in order to perform certain functions. BART websites allows users to clear cookies.
 
  **Updates**  
-If BART updates its Privacy Policy, BART will update this page so that Users are always aware of what information is collected, how it is used and under what circumstances it is disclosed.  BART reserves the right to update this privacy policy at any time. This page was last updated on February 6, 2018.
+If BART updates its Privacy Policy, BART will update this page so that Users are always aware of what information is collected, how it is used and under what circumstances it is disclosed.  BART reserves the right to update this privacy policy at any time. This page was last updated on November 8, 2018.
 
  **Consent**  
 By using BART websites, User consents to the collection and use of information and monitoring, as described above.
