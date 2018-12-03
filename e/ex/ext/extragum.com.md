@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extragum.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130203634id_/http%3A//www.wrigley.com/global/policies/privacy/pp-us-english.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extragum.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203062257id_/http%3A//www.wrigley.com/global/policies/privacy/pp-us-english.aspx) for the most accurate reproduction.*
 
 # Mars Privacy Policy | Mars
 
