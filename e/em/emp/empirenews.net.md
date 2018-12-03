@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the empirenews.net privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604034957id_/http%3A//empirenews.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empirenews.net privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203180526id_/http%3A//empirenews.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Empire News
+
+[](http://www.pigskinempire.com/)
 
 Empire News knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -28,6 +30,10 @@ Empire News is very concerned about your privacy and we will never provide you
 Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Empire News cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
 The ”help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Empire News‘s coolest features.
+
+[](http://rs-branding.empirenews.net/?utm_source=contentstripe&utm_medium=email&utm_campaign=rs_4247&utm_content=animatedlogo)
+
+[](http://rs-stripe.empirenews.net/stripe/redirect?cs_email={{GUID}}&cs_containertype=web&cs_esp=powerinbox_web&cs_offset=0&cs_stripeid=4247)
 
 Empire News‘s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.
 
