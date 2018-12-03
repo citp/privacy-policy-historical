@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the nettyfish.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625193330id_/http%3A//nettyfish.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nettyfish.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203200353id_/http%3A//nettyfish.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  [ Privacy Policy](http://www.nettyfish.com/index.php/privacy-policy)
+##  [ Privacy Policy](http://nettyfish.com/index.php/privacy-policy)
 
-  * [](http://www.nettyfish.com/index.php/privacy-policy?tmpl=component&print=1&page= "Print")
-  * [](http://www.nettyfish.com/index.php/component/mailto/?tmpl=component&template=kallyas&link=7e5f6cdd74ac2fda3a181761fc6b344f96f3e884 "Email")
+  * [](http://nettyfish.com/index.php/privacy-policy?tmpl=component&print=1&page= "Print")
+  * [](http://nettyfish.com/index.php/component/mailto/?tmpl=component&template=kallyas&link=a72ef91b5c74f200607a6621a9dc30b6349527a9 "Email")
 
 
 
-     Category: [Uncategorised](http://www.nettyfish.com/index.php/privacy-policy/2-uncategorised)
+     Category: [Uncategorised](http://nettyfish.com/index.php/privacy-policy/2-uncategorised)
      Published: Tuesday, 19 December 2017 11:53 
      Written by Super User 
-     Hits: 1152 
+     Hits: 3433 
 
 PRIVACY POLICY
 
