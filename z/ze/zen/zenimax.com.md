@@ -1,259 +1,231 @@
-> *The following text is extracted and transformed from the zenimax.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129073817id_/http%3A//www.zenimax.com/legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenimax.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203062114id_/https%3A//www.zenimax.com/legal_privacy) for the most accurate reproduction.*
 
 # ZeniMax Media Inc
 
 [Terms of Service
 
-](https://web.archive.org/web/20180129073817id_/http%3A//www.zenimax.com/legal_terms)
+](https://web.archive.org/web/20181203062114id_/https%3A//www.zenimax.com/legal_terms)
 
 [Privacy Policy
 
-](https://web.archive.org/web/20180129073817id_/http%3A//www.zenimax.com/legal_privacy)
+](https://web.archive.org/web/20181203062114id_/https%3A//www.zenimax.com/legal_privacy)
 
 [Legal Information
 
-](https://web.archive.org/web/20180129073817id_/http%3A//www.zenimax.com/legal_information)
+](https://web.archive.org/web/20181203062114id_/https%3A//www.zenimax.com/legal_information)
 
 [ ](https://www.esrb.org/confirm/zenimax-confirmation.aspx "ESRB PRIVACY CERTIFIED MEMBER CONFIRMATION")
 
-Updated October 3, 2017
-
 ## ZENIMAX MEDIA ONLINE PRIVACY NOTICE
 
-ZeniMax Media Inc. and its divisions and subsidiaries (collectively, “ZeniMax,” “we” or “us”) respects individual privacy and values the confidence of its customers, employees, consumers and others.  This Privacy Notice applies to all personal information received by ZeniMax from its online websites, services, products, and mobile applications. This policy also describes the choices available to you regarding the use of, your access to, and how to update your personal information. By registering for an account, using this website, and/or using any of ZeniMax’s products or services, including online game play, you acknowledge and agree that ZeniMax may process your personal information in accordance with this Privacy Notice.  IF YOU DO NOT AGREE TO THIS PRIVACY NOTICE, PLEASE DO NOT USE ANY ZENIMAX WEBSITE, OR ANY ONLINE OR OFFLINE PRODUCT OR SERVICE.
+Updated March 22, 2018
 
-This Privacy Notice and the ESRB certification seals shown on our Properties confirm that ZeniMax is a valid licensee, and participating member, of the [Entertainment Software Rating Board's Privacy Certified Program](http://www.esrb.org/privacy/faq.aspx#10) (“ESRB Privacy Certified”). To protect your privacy, we have voluntarily undertaken this privacy initiative, and all of our Properties where this Privacy Notice is posted have been reviewed and certified by ESRB Privacy Certified to meet established online information collection, use and disclosure practices. As a licensee of this privacy program, we are subject to frequent audits of our Properties and other enforcement and accountability mechanisms administered independently by ESRB Privacy Certified.
+This Privacy Notice (“Notice”) describes how ZeniMax Media Inc. (“ZeniMax,” “we” or “us”) collects, uses and otherwise processes the personal data we collect about our Users (defined below).
 
-## Information Collection By ZeniMax
+**1\. Scope and Purpose of this Privacy Notice**
 
-ZeniMax collects information about you, including personal information, directly, automatically and through third parties.  For some activities, we combine personal information and other information, such as usage and demographic information.  For example, in some of our products or websites, we may ask you to create a username and password and provide personal information such as your age and date of birth. For certain products, ZeniMax may enhance or merge the personal information you provide with data from our third party partners in order to perform market analysis, better target users, or to improve its products, services, or systems. 
+This Privacy Notice applies to the personal data (or equivalent term under applicable local laws) that ZeniMax collects and processes about customers, purchasers, subscribers, and/or users (each a “ **User** ”) of our mobile applications, games, websites and other online services (collectively, our “ **Services** ”), including games published by Bethesda Softworks and ZeniMax Online Studios, and games developed by other ZeniMax studios; more information about our studios is available at <http://www.zenimax.com/studios>. This Privacy Notice does not apply to any websites, services, products or mobile applications maintained by other companies or organizations to which we may link.
 
-Depending on the ZeniMax website or product that you are using, certain of the activities described below may not be available; as such, the personal and other information (e.g., usage or demographic information) we collect varies depending on the website, product or service you are using.  Additionally, we do not require you to submit personal information to gain access to our websites; however, you will not be able to utilize certain products, services, or features that require registration or receive materials such as newsletters unless such information is provided.
+This Privacy Notice is intended to provide our Users with information about how we collect, use, disclose, and otherwise process their personal data, the choices Users have related to our processing of their personal data, and how Users can exercise their access and other rights over their personal data.
 
-Below, we discuss the types of information we generally collect.
+By registering for an account with us, providing your information to us through the Services, or otherwise using any of our Services, you understand and acknowledge that ZeniMax may process your personal data in accordance with this Privacy Notice. IF YOU DO NOT WANT THIS PRIVACY NOTICE TO APPLY TO YOU, PLEASE DO NOT USE OR COMMUNICATE WITH US VIA ANY OF OUR SERVICES. If required by applicable law, we will obtain your consent to our collection, use transfer and disclosure of your personal data.
 
-## The Information We Collect About You 
+ZeniMax values the importance of your privacy and has received the ESRB Privacy Certification. This Privacy Notice and the ESRB certification seals shown on our Services confirm that ZeniMax is a valid licensee, and participating member, of the Entertainment Software Rating Board's Privacy Certified Program (“ **ESRB Privacy Certified** ”). All Services where this Privacy Notice is posted have been reviewed and certified by ESRB Privacy Certified to meet established online information collection, use and disclosure practices. As a licensee of this privacy program, we are subject to audits of our Services and other enforcement and accountability mechanisms administered independently by ESRB Privacy Certified.
 
-**_Personal Information.   _**Generally, personal information is information that identifies you or that can be used to contact you online or offline.  As noted, the information that ZeniMax collects from you varies depending upon the product, service, or system.  This information may include your name, credit or debit card information, email address, phone number, home address, zip code, country, birth date, mobile phone number, IP or MAC addresses, mobile device identifiers (e.g., UDID), and console device identifiers (e.g., XUID and PUID). We may collect personal information during:
+**2\. The Personal Data We Collect**
 
-  * Product, service, subscription, and/or other fulfillment;
-  * Fulfillment of customer requests, orders, and purchases;
-  * Registration or login to game, account, and other registration and/or subscription accounts, and when you link your game console or social media account (e.g., Facebook) to a ZeniMax account;
-  * When you download our mobile apps or use our services;
-  * Creation of a personal profile and/or forums profile;
-  * Community forums, including Tell-A-Friend services and social media features, including Facebook, Twitter, Googleplus, Tumblr and other  OpenID providers;
-  * Customer Services, technical service inquiries and other service-related assistance;
-  * Player match-up and other in-game online competitions
-  * In-game chat history, in-game mail, and other in-game communication services;
-  * Contest registration, promotions, and prize acceptance;
-  * Newsletter, marketing surveys, and email campaigns;
-  * Tradeshow and/or event registration;
-  * Submission of user-generated content;
-  * Customer Services surveys and internal marketing;
-  * Anti-cheat and fraud prevention and detection;
-  * Service requests from third party service providers;
-  * Beta testing or other product participation and evaluation; and
-  * Other business related capacities (e.g. resumes submitted through our recruiting service provider’s page)
+ZeniMax collects personal data directly from Users, automatically via their use of the Services, and in some cases from third parties. The personal data that ZeniMax collects about Users (which may be combined across Services and features) varies depending upon the particular Services used, and may involve the following:
 
+**_A. Registration and Profile Information._** To access and use certain Services (e.g., to register a game, download or use a mobile application, access subscription-based Services, create an account) you must register with us, by providing us with certain required information, which is identified on the registration page. Depending upon the Service, this may include your name, a user name and password, as well as country of residence, email, and contact information; certain Services will not be available if you decline to provide required information. We may also ask you or allow you to submit certain optional information, which may include your phone number, birthdate, location, preferences, a photo or avatar, and other profile information.
 
+**_B. Information from Third Party Accounts_**. You may be able to connect certain third-party accounts
 
-**_Automatically Collected Information._** We also may automatically or indirectly collect information from you and your computer or mobile device (such as when you use our services, through pixel tags embedded within email we send, from social media, and otherwise through our  products and services).  ZeniMax may combine this information with the other personal information we have collected about you in the context of online and mobile activities, such as online and mobile purchases, registration, or use of a product, service, or our games.  We (and our third party providers) may use cookies, pixel tags, local shared objects, java script, log files and other mechanisms to collect this information about you, which may include: location information; game capabilities; game data processing; browser, platform, system/console; software version; connection information; information about the date and time you access our websites and services and your activities within the services; IP address and other device information. 
+(each a “ **Third Party Account** ”) – such as Steam, Twitch, Xbox Live, PSN and Facebook – to your account with us, so that you can connect with your friends and network, share game information, and in some cases make purchases and redeem or earn points and rewards (subject to applicable program terms). In addition to linking a Third Party Account, we also may allow you to login to certain Services through certain third party accounts, including Steam ( _See_ <http://store.steampowered.com/privacy_agreement/>) and Facebook <http://www.facebook.com/about/privacy/> (each a “ **Third Party Account** ”). If you choose to login this way, you are asked to share certain information with us (which may include name, email, friends and public profile information); the specific information and whether it is required or optional is stated on the permissions page when you login with the Third Party Account.
 
-**_Usage and Demographic Information_**. We may also collect other information such as demographic information (age, gender, occupation), username, user ID or persona, nickname, language, gaming preferences, game play statistics, scores and achievements, user rankings, time spent playing our games, click paths and other data that you submit to us, such as in surveys, account preferences, friends’ lists or purchases.  We may combine this information with the other information we have collected about you.
+**_C. Subscriptions, Purchases and Payments Information_**. If you make a purchase or sign up for certain subscription-based Services, you are required to provide your payment information, including name, billing and shipping address and details, payment type, as well as credit card number or other payment account details (e.g., PayPal). We work with third parties like payment processors and fulfillment partners to process these payments. We do not collect, receive, process or store credit card or debit card numbers, or other third-party payment account credentials (e.g., PayPal); this information is collected directly by these third parties. Depending upon the Service, we may receive your username, name, email, the payment type, product(s) or service(s), and other transaction details, and maintain records of your purchase and subscription history.
 
-**_Third Party Accounts._** We also may allow you to log in to our websites or services through certain third party accounts, including via sign-in services such as Open ID, or through your social networking accounts, including Facebook (each a “Third Party Account”).  In order to login via a Third Party Account, you must agree to share certain information with us (including your user id and certain profile information) as stated on the permissions page when you login in with the Third Party Account.  You may also have the option to share other personal information with us, such as your name and email address.  The providers of these Third Party Accounts may also give you the option to post or share information or other content within our site and services, and they may also allow you to share information about your activities within our website or services to your profile page or with others within your network. These third parties’ information collection and sharing practices are subject to their own privacy policies.
+**_D. User / Device Identifiers._** When you access, play or use our Services, we may collect IP address, MAC address, console identifiers (e.g., XUID and PUID), and other device identifiers; we also assign account holders a unique user identifier, which we use to identify and link relevant information to your User account (e.g., in-game information such as statistics, scores, achievements and subscription levels).
 
-**_Guest Players._** ****  Some of our games may allow you to play without creating an account and/or registering with us.  In such cases, we may assign you a guest user ID so that we can keep track of your game play, scores, stats, purchasing data and usage data for your current and future sessions.  If you later decide to register or create an account with us, we may associate your guest ID and the data from your guest session(s) with your account.
+**_E. Subscribing to Emails, and Participating in Sweepstakes, Contests, Surveys and Similar Activities._** Users can sign up online or in-person (e.g., at tradeshows, conferences and the like) to receive direct marketing communications from us, including emails about game launches, developments, and upcoming releases. If you agree to receive direct marketing communications from us, we collect your email address, and we may also collect your name, preferences, and, if relevant, information about your account and the Services and other games you use. We may also run contests, sweepstakes or other events or activities (collectively, “events”) on our websites and social media channels. Information collected for these events may include your name, age, email address, and other information.
 
-## How We Use Information
+**_F. Your Communications_** When you email us, call us, or otherwise send us communications regarding the Services, we collect and maintain a record of your contact details, communications and our responses. We may also maintain records of the in-game communications and information that you post in chat sessions, forums, and in other areas of the Services.
 
-Generally, we may or our service providers may use the information we collect to provide our services to you; improve and develop our products and services; generate aggregate statistics about our user community; personalize your experiences (e.g., for your geographic area); improve your gameplay experience; send or display targeted marketing; facilitate software updates; provide tailored customer services and support; assist in security and fraud prevention; for system integrity (preventing hacking, cheats, spamming, etc.); to facilitate our business operations and maintain appropriate business records; for billing and payment purposes to enforce this Privacy Notice, our terms or our legal rights in accordance with national law; in response to legal process (e.g., a court order, warrant or subpoena); or as otherwise required by law. 
+**_G. Your Activities, Stats, Friends and Preferences._** We collect usage and preference details related to your use of the Services, such as language, in-game purchases, game-play statistics, scores, persona, characters, achievements, rankings, time spent playing, click paths, game profile, preferences, friends (including friend relationships through, for example, the creation of clans) and other data that you provide to us as part of your account.
 
-## More Information About How We Automatically Collect Information
+**_H. Automatically Collected Information._** We also may automatically or indirectly collect information about you, your computer or mobile device (such as when you use our Services, read our emails, through social media channels). We (and our third-party providers) may record log files and use cookies, pixel tags, local shared objects, java script, and other mechanisms to collect this information about you. For more information, see the Cookies, Analytics and Personalization section below.
 
-  * Cookies
+**_I. Guest Player Information._** Some of our games may allow you to play without creating an account and/or registering with us. In such cases, we may assign you a guest user ID so that we can keep track of your game play, scores, stats, purchasing data and usage data for your current and future sessions. If you later decide to register or create an account with us, we may associate your guest ID and the data from your guest session(s) with your account.
 
+**_J. Information from Third Party Sites._** We also may use third party tools to help us manage and analyze our social media presence, and report on comments, mentions and other content that is posted about us on social media sites and other public channels and forums. These third parties’ activities, and their information collection and sharing practices, are subject to the terms of the relevant social media site, channel or forum. We will use this information in accordance with this Policy.
 
+**Children.** ZeniMax does not knowingly request or collect personal data from children younger than 13 years of age. If you believe that we may have unintentionally collected personal data from a child under 13, contact us as set forth at the bottom of this Privacy Notice, and we will take action as necessary to securely delete such information.
 
-ZeniMax and its third party service providers may use cookies, beacons, scripts, e-tags, and other technologies to improve the use of our websites, products and services. A “cookie” is a small file or record-keeping device that websites often store on a user’s computer, mobile device or other device.  Storage of cookies provides an easy and convenient method for a personalized experience. For example, cookies allow you to log in, allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable.  You can disable or delete cookies or set your browser to alert you when cookies are being sent to your computer. For information about how to control cookies, consult the “Help” portion of your internet browser or visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+Unless otherwise specified above, generally we collect your personal data on a voluntary basis. However, as noted above, if you decline to provide certain personal data that is marked mandatory, you may not be able to access certain Services and we may be unable to fully respond to your inquiry.
 
-  * Log Files
+**3\. How We Use Personal Data**
 
+Generally, we may use the personal data we collect from you for the purposes and lawful bases described below:
 
+**_For the performance of our agreement with you._** The personal data referred to under Section 2. A, B, C, D, E, F, G and I above may be used to provide our Services to you, including to run contests, sweepstakes or other events or activities in which you participate; improve your gameplay experience; provide tailored customer services and support; matching; for billing and payment purposes; and to handle your enquiries.
 
-As is true of most websites, we gather information automatically, which is stored in the form of log files.  This information includes Internet Protocol (IP) addresses, browser type and language, and operating system, website activity, and includes how many “hits” a particular webpage is getting (a.k.a., “click-through data”). We may combine this automatically collected log information with other information we collect about you.  This information helps us to understand trends, view and analyze overall website activity, and evaluate and improve the website, including troubleshooting technical issues.
+**_To comply with a legal obligation to which ZeniMax is subject._** Any personal data referred to above, especially the personal data under Section 2. C above may be used to maintain appropriate business records; comply with lawful requests by public, governmental and other regulatory authorities or the courts in any relevant jurisdiction; and to comply with applicable laws and regulations; or as otherwise required by law.
 
-  * Clear Gifs (Web Beacons/Web Bugs)
+**_For our legitimate commercial interests._** The personal data referred to under Section 2. D, E, F, G, H and I above may be used to improve and develop our products and services; analyse the use of our Services and generate aggregate statistics about our User community; personalize your experiences (e.g., for your geographic area); send or display targeted marketing; facilitate software updates; assist in security and fraud prevention; for system integrity (preventing hacking, cheats, spamming, etc.); facilitate our business operations and maintain appropriate business records; operate company policies and procedures; facilitate our response to legal process (e.g., a court order, warrant or subpoena); enable us to merge, sell, acquire, or transfer assets; and for other legitimate business purposes permitted by applicable law.
 
+**_Use of information based on your consent._** We may use personal data about you based on your express consent, for example to send you marketing communications, surveys, news, updates and other communications. Users may be able to withdraw their consent at any time in accordance with applicable laws; please see the Marketing and Communications Choices and the Access, Amendment, and Other User Rights sections below for information on how to withdraw your consent.
 
+In addition to marketing purposes, where required by applicable law, ZeniMax will obtain your consent to this Privacy Notice and our collection, use and disclosure of your personal data.
 
-We also work with third party advertising partners that employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our websites, products, and services by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on webpages and are about the size of a period at the end of this sentence.  They cannot be disabled through your browser’s hard drive. 
+**4\. How ZeniMax Shares Personal Data**
 
-We also use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients.  This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.  You may opt-out of future communications by following the unsubscribe instructions included in the promotional email.
+ZeniMax may disclose your personal data as follows, and we will obtain your consent to do so where required by applicable law:
 
-  * Flash LSOs
+**_Service Providers and Processor._** We may engage vendors, agents, service providers, and affiliated entities to provide services to us or to Users on our behalf, such as support for the internal operations of our websites, online stores (including payment processors), products (such as our games) and services (e.g., message board operations, and technical support processing), as well as related offline product support services, data storage and other services. In providing their services, they may access, receive, maintain or otherwise process personal data on our behalf. Our contracts with these service providers do not permit use of your personal data for their own marketing and other purposes.
 
+**_ZeniMax Group Companies._** ZeniMax may also share personal data about you with our subsidiary or affiliate companies (see <http://www.zenimax.com/legal_information>) for purposes of assisting us to market our Services and games, analytics, research and demographic studies, development, and to help us improve and tailor the Services we provide. If you have consented, we may also share your personal data so that they may contact you about other products and services offered by ZeniMax affiliates as set forth in the Marketing and Communications Choices section below. Our subsidiary or affiliate companies are subject to this Privacy Notice when they use your personal data.
 
+**_Legally Required._** We may also disclose your personal data if we believe we are required to do so by law, or that doing so is reasonably necessary to comply with legal processes; when we believe necessary or appropriate to disclose personal data to law enforcement or other governmental or regulatory authorities or the courts (in any relevant jurisdiction worldwide), such as to investigate actual or suspected fraud or violations of law, breaches of security, or breaches of this Privacy Notice; to respond to any claims against us; and, to protect the rights, property, or personal safety of ZeniMax, our customers, or the public.
 
-We use local shared objects (LSOs), also known as Flash cookies, to store your preferences such as volume control or high game score, and to display content based upon what you view on our website to personalize your visit.  Third parties, with whom we partner to provide certain features on our website or to display advertising based upon your website browsing activity, use Flash cookies to collect and store information.  Our Privacy Notice does not apply to their collection and use of your information.
+**_Corporate Transaction._** In addition, your personal data may be disclosed as part of any proposed or actual merger, sale, and transfer of ZeniMax assets, acquisition, bankruptcy, or similar event.
 
-Flash cookies are different from browser cookies because of the amount and type of data, and how that data is stored.  Cookie management tools provided by your browser will not remove Flash cookies.  To learn how to manage privacy and storage settings for Flash cookies, visit <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
+**_With Consent._** We may also disclose your personal data to any other affiliated or third parties where you have consented or requested that we do so. For example, if you win a contest or sweepstake, we may disclose the names of winners online, and we may also share your information with third party partners and co-sponsors, where relevant; in such cases, we will clearly notify you of the sharing, and you will have the choice not to participate or to otherwise object to such sharing. Where required by applicable law, we will publish information online or in the local press and to relevant regulators identifying the winner(s) of a context or sweepstake regardless of whether or not you consent to the same.
 
-  * HTML5
+Notwithstanding anything else in this Privacy Notice, we may share aggregate or de-identified information with third parties for research, marketing, analytics and other purposes, provided such information does not identify a particular individual and the individual cannot be re-identified.
 
+**5\. Cookies, Analytics and Personalization**
 
+We and our third-party providers use cookies, clear GIFs/pixel tags, JavaScript, local storage, log files, and other mechanisms to automatically collect and record information about your browsing activities, gaming performance and use of the Services. We may combine this “activity information” with other personal data we collect about you. Generally, we use this activity information to understand how our Services are used, track bugs and errors, provide and improve our Services, establish matchmaking, verify account credentials, allow logins, track sessions, prevent fraud, and
 
-We use local storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. 
+protect our Services, as well as for targeted marketing and advertising, to personalize content and for analytics purposes (see the “ **Access, Amendment, and Other User Rights”** section below for information about opting-in out of certain uses of your personal data)
 
-  * Analytics
+Below, is a summary of these activities. For more detailed information about these mechanisms and how we collect activity information, see our Cookie Policy at <http://www.zenimax.com/cookie_us>.
 
-
-
-In some of our products and websites, as well as on our mobile applications, ZeniMax may generate usage, activity, and game-related statistics and other information about our user community through the use of internal, as well as third party analytics tools; some of these tools may allow us to collect and aggregate user analytics across multiple channels, including web, email and mobile. For example, we may use [Google Analytics](https://www.google.com/policies/privacy/) and Google Analytics360, offered by Google Inc. (“Google”)’ [Oracle analytics](https://www.oracle.com/legal/privacy/privacy-choices.html) services, [Hootsuite](https://hootsuite.com/legal/privacy) analytics services”) [Swrve](https://www.swrve.com/company/privacy) for mobile analytics, which collect information when you use some of our online products and services and/or play our games on your PC.  We also use other providers, and may add or amend the providers we work with at any time. We also may use third party tools to collect information regarding your interaction with us on social media sites, as well as publicly available information on social media sites that users post about us and our games and other products and services. 
-
-These tools and technologies use cookies, log files, tracking pixels and other technologies to collect and analyze certain types of information including: IP addresses; location information; browser type and language; referring URLs; platform type; click information; usage and activity logs and related data; page views (including length of time spent on a page or feature); date and time stamps; and other information about how you use our games, including game metrics and statistics, activity and usage information, and similar information.
-
-The third party analytics companies we work with may combine the information collected with other information they have independently collected from other websites and/or other online products and services relating to your activities across their network of websites as well as online and/or mobile products and services.  Their collection and use of information is subject to their own privacy policies.
-
-  * Anti-Cheat and Fraud Prevention Technologies
+  * **_Log Files._** We collect certain activity information from log files. Log file information is automatically reported by your browser or mobile application to our servers when you access our Services. We record certain information from these log files, including web requests, IP address, browser type and version, language information, referring and exiting URLs, links clicked, pages viewed and other similar information.
+  * **_Cookies._** Are small files with a unique identifier that are transferred to your browser through our websites. They allow us to remember Users who are logged in, to understand how Users navigate through and use our Services, to display personalized content and targeted ads (including on third party sites and applications).
+  * **_Clear GIFs, pixel tags and web beacons._** These are tiny graphics with a unique identifier, similar in function to cookies that we use to track the online movements of Users of our Services and to personalize content. We also use these in our emails to let us know when they have been opened or forwarded, so we can gauge the effectiveness of our communications.
+  * **_Anti-Cheat and Fraud Prevention Technologies_**. We use “anti-cheating” and fraud prevention tools or applications, which may collect information about your browser, device and activities within the Services, to detect and prevent fraud and cheating.
+  * **_Analytics Tools._** We may use internal and third-party analytics tools (see our Cookie Policy at <http://www.zenimax.com/cookie_us> for a list of third parties) to collect and aggregate activity data and other data across multiple channels.
 
 
 
-In an effort to provide a safe and fair gaming environment to players of its games, and to protect against payment fraud, ZeniMax employs “anti-cheating” and fraud prevention software or applications during the use of certain online products and services to prevent fraudulent activities and behavior that may negatively affect the experiences of a player, some of which may be operated by third party providers.
+**6\. Third Party Advertising**
 
-ZeniMax, on its own and through third parties, may collect certain “device-identifying data” about your personal computer or mobile device, such as system information, IP address, screen resolution, device type, (e.g. PC, MAC), operating system (e.g. Windows, OS X, Linux), device time zone, MAC address, general geolocation information, and other system or network information to create a digital identifier of your device.  This information may be combined with other information from our providers who assist us in conducting these activities. 
+We work with third party ad networks, channel partners, measurement services and others (“third party ad companies”) to display advertising on our Services, and to manage our advertising on third party sites, mobile apps and online services. We and these third party ad companies may use cookies, pixels tags, and other tools to collect activity information on our Services (as well as on third party sites and services), as well as IP address, device ID, cookie and advertising IDs, and other identifiers, general location information, and, with your consent, your device’s geolocation information; we and these third party ad companies use this information to provide you more relevant ads and content and to evaluate the success of such ads and content.
 
-The third parties we work with for fraud prevention may maintain the device information collected about your computer or mobile device as part of their services for other customers. 
+For example, we may work with Facebook (see their privacy policy at <http://www.facebook.com/policy.php>, and ad preferences page <http://www.facebook.com/settings?tab=ads>) to display targeted ads to you in Facebook. We may also work with others, such as Google Ads and DoubleClick (see their privacy policy at <http://www.google.com/policies/privacy> and ad preferences page at <http://www.google.com/settings/u/0/ads/authenticated?hl=en>), to display ads to you on other third- party sites, based on your use of our Services, activity information, and other interactions with us. Please see our Cookie Policy at <http://www.zenimax.com/cookie_us> for more information about third- party advertising and the third-party ad companies with which we work.
 
-## Push Notifications
+**_Custom Audiences and Matching_** _._ Unless you have opted out, we may share certain information (such as your email address) with third parties – such as Facebook and Google – so that we can better target ads and content to our Users, and others with similar interests, within their services. These third parties use the personal data we provide to help us target ads and to enforce their terms, but we do not permit them to use or share this data with other third-party advertisers. **You can opt-out of our sharing your personal information to target you this way by emailing us at[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**. If you opt out, we will process your opt out in a reasonable amount of time.
 
-In some mobile products, ZeniMax may send push notifications from time-to-time in order to update you about the game, events, or promotions that we may be running.  If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.
-
-## Third Party and/or Social Features
-
-We use social media features, such as the Facebook Like button, Twitter Share This button, as well as Instagram, Tumblr, YouTube, Twitch and other social media sharing buttons. These widgets buttons, features and similar interactive mini-programs run on our website or within our services, and are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it. 
-
-## Tell-A-Friend Feature
-
-From time to time we may allow you to tell-a-friend about our website and we will ask you for your friend’s name and email address.  By providing your friend’s name and email address, you confirm that you have obtained your friend’s consent to send such email.  At your direction, we will automatically send your friend a one-time email inviting him or her to visit the website.  ZeniMax does not store this information and uses it for the sole purpose of sending this one-time email and tracking the success of our referral program.
-
-## Sweepstakes and Contests
-
-We may also run contests, sweepstakes or other events or activities (collectively, “events”) on our Sites.  Information collected for these events may include personal information such as your email address and may be collected by or shared with a third party sponsor, co-sponsor, or other third party (e.g., marketing or promotional partner, contest administrator, software licensee, or game developer). While we have no control over the third party’s use of such information, our contracts with these third parties require them to agree to protect the confidentiality, security, and integrity of any personal information we share with them (or that they collect through our Sites).  **If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these events at the time the information is collected.**
-
-## Third Party Advertising
-
-We may partner with third party ad networks to either display advertising on our website or to manage our advertising on other websites.  We and our ad network partners use cookies, web beacons and other tools to collect information about your activities on this and other websites, as well  as  your IP address and location information, to provide you targeted advertising based upon your interests and to evaluate the success of their advertising. 
-
-For example, we may work with Facebook (see their [privacy policy](https://www.facebook.com/policy.php), and [ad preferences](https://www.facebook.com/settings?tab=ads) page) to display targeted ads to you in Facebook. We may also work with others, such as Google Ads and DoubleClick (see their [privacy policy](https://www.google.com/policies/privacy/), and [ad preferences](https://www.google.com/settings/u/0/ads/authenticated?hl=en) page), and Weborama (see their [privacy policy and opt out page](http://www.weborama.com/e-privacy/our-commitment/)), to display ads to you on other third party sites, based on your use of our products, activities on our sites and services, or other interactions with us. We may also, unless you have opted out, share certain information (such as your email address) with these and other third parties to assist them in better targeting our users within their services; you can opt-out of our sharing your personal information to target you this way by emailing us at [ads@zenimax.com](mailto:ads@zenimax.com). We will process your opt out in a reasonable amount of time; please note, that your opt out is only effective on a going-forward basis and not with respect to any information we have previously shared for these purposes. As noted above, you may also control how Google, Facebook and other third parties display certain ads to you, as explained further in their respective privacy policies and ad preferences pages.
-
-You also may also get more information about targeted advertising, as well as opt-out of receiving targeted ads from many third-party ad networks (including Facebook and Google), through the following:
+As noted above, you may control how Google, Facebook and other third parties display certain ads to you, as explained further in their respective privacy policies and ad preferences pages. You can also obtain more information about targeted advertising, and how to opt-out of receiving targeted ads from many third-party ad networks (including Facebook and Google), through the following:
 
 For U.S. Users:
 
-  * [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp) (Network Advertising Initiative)
-  * [www.aboutads.info/choices](http://www.aboutads.info/choices) (Digital Advertising Alliance)
+  * <http://www.networkadvertising.org/optout_nonppii.asp> (Network Advertising Initiative)
+  * <http://www.aboutads.info/choices> (Digital Advertising Alliance)
 
 
 
-For users in the European Union:
+For Users in the EU: [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/) (European Interactive Digital Advertising Alliance)
 
-  * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) (European Interactive Digital Advertising Alliance)
+For Users in Canada: <http://youradchoices.ca/choices/> (Digital Advertising Alliance of Canada)
 
+Opting out of participating ad networks does not opt you out of being served advertising. You may continue to receive generic or “contextual” ads on our Services. You may also continue to receive targeted ads on other websites, from companies that do not participate in the above programs.
 
+**7\. Do-Not-Track Requests**
 
-Please note that opting out of participating ad networks does not opt you out of being served advertising.  You will continue to receive generic or “contextual” ads on our website. You may also continue to receive targeted ads on other websites, from companies that do not participate in the above programs.
+Currently, our systems do not recognize browser “do-not-track” requests. You may, however, disable certain tracking as discussed above (e.g., by disabling cookies), and you may also opt out of certain third-party ad networks as discussed above. Please see our Cookie Policy at <http://www.zenimax.com/cookie_us> for more information.
 
-## Do-Not-Track Requests
+**8\. Third Party and/or Social Features**
 
-Currently, our systems do not recognize browser “do-not-track” requests. You may, however, disable certain tracking as discussed above (e.g., by disabling cookies), you may also opt out of certain third party ad networks as discussed above.
+Our Services may include or incorporate social media and other third-party features (e.g., widgets, buttons, and plugins), which are operated by third party platforms and networks such Facebook, Steam, Twitch, Twitter, Instagram, YouTube, and others. These features are hosted by the respective third-party operator even though they appear on our Services, and the third party may collect your IP address, URL, date and time stamp, browser details and the like, subject to their own privacy policies.
 
-## How ZeniMax Shares Information
+**9\. Marketing and Communications Choices**
 
-ZeniMax may share information about you , including personal information, with entities and vendors that use it to provide support for the internal operations of our websites, online stores (including payment processors), products (such as our games) and services (e.g., message board operations, and technical support processing), as well as related offline product support services. Our contracts with these service providers do not permit use of your information for their own marketing purposes.
+As noted, if you agree we may send direct marketing communications to you about our Services, events and promotions, and we may also send you surveys, news, updates and other communications via email. If you wish to stop receiving direct marketing and these other communications from us, you may change your account settings to opt out as set forth below in the Access, Amendment, and Other User Rights section below. If you opt out of direct marketing communications, we may to the extent permitted by applicable law still send you non-promotional communications, such as those about your account or our ongoing business relations. For example, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 
-ZeniMax may also share information about you , including personal information with our subsidiary or affiliate companies for purposes of internal marketing, analytics, research and demographic studies, which help us improve and tailor the products and services we provide you, and, if you have consented, to notify you about other products and services offered by ZeniMax and its affiliates. Our subsidiary or affiliate companies are subject to this privacy policy when they use your personal information.
+In some of our mobile Services, with your consent, we may send push notifications from time-to-time in order to update you about the game, events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device level.
 
-We may also disclose information about you , including personal information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal processes; when we deem it necessary or appropriate to disclose personal information to law enforcement authorities, such as to investigate actual or suspected fraud or violations of law,  breaches of security, or breaches of this Privacy Notice; to respond to any claims; or, to protect the rights, property, or personal safety of ZeniMax, our customers, or the public.
+**10\. Security of Your Information**
 
-In addition, information about our customers, including personal information, may be disclosed as part of any merger, sale, transfer of ZeniMax assets, acquisition, bankruptcy, or similar event.
+The security of your personal data is important to us. ZeniMax takes steps to protect against possible breaches of our Services and the personal data we maintain. However, no website or Internet transmission is completely secure. Thus, ZeniMax cannot and does not guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal data safe, such as choosing a strong password and keeping it private, as well as logging out of your User account, and closing your web browser when finished using the Services.
 
-We may also disclose information about you , including personal information to any other third parties, where you have consented or requested that we do so. If you win a contest or sweepstakes, we may disclose the names of winners.
+**11\. Data Retention**
 
-Notwithstanding anything else in this Policy, we may share aggregate or de-identified information with third parties for research, marketing, analytics and other purposes, provide such information does not identify a particular individual.
+We will retain your personal data as long as necessary for purposes for which the personal data was collected and is used by us, as stated in this Privacy Notice. If you wish to cancel your account or request that we no longer use your personal data to provide the Services to you please contact us as set forth in the Access, Amendment, and Other User Rights section below. However, if you withdraw consent or otherwise object to our collection, use and disclosure of your personal data, you may not be able to use the Services. Further, to the extent permitted by applicable law, we will retain and use your personal data as necessary to comply with our legal obligations, resolve disputes, maintain appropriate business records, and enforce our agreements.
 
-## Marketing and Communications Choices
+**12\. International Transfers of Data**
 
-If you prefer not to receive marketing information from our websites, email notices from our message board operators, newsletters, or any other promotional communication from ZeniMax, please do not “opt-in” when you register or at the time you submit your information. If you’ve already opted-in, but you wish to stop any further promotional communications, just let us know by sending an email to: [privacy04@zenimax.com](mailto:privacy04@zenimax.com) or follow the unsubscribe instructions included in each promotional email.
+ZeniMax is headquartered in the United States, and has operations, entities and service providers in the United States and throughout the world. As such, we and our service providers may transfer your personal data to, or access it in, jurisdictions (including the United States and other jurisdictions where we, our affiliates and service providers have operations) that do not provide equivalent levels of data protection as your home jurisdiction. We will take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it, including through appropriate written data processing terms and/or data transfer agreements.
 
-Please note that, if you choose not to submit information when requested, you may not be able to participate in certain activities or access certain products or services on our websites and may considerably limit the services we can provide you. For example, if you refuse to provide your email address when registering, you will not be able to use our message boards.
+_Users in the European Economic Area (EEA):_ Your personal data may be transferred to and processed in the United States and other jurisdictions that do not provide equivalent levels of data protection according to the European Commission. In such cases, ZeniMax will take steps to ensure that appropriate safeguards are in place to protect your personal data, including by putting in place standard contractual clauses as approved by the European Commission (the form for the standard contractual clauses can be found at <http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm>).
 
-We will send you service-related announcements on rare occasions when it is necessary to do so.  For instance, if our service is temporarily suspended for maintenance, we might send you an email.  Generally, you may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account. 
+**13\. Third Party Links**
 
-## Information About Children Under 13
+Our websites may contain links to third party sites that are not owned or controlled by ZeniMax. We are not responsible for the collection and use of your information by these third-party sites. We recommend that you read the privacy notice of the website to which you link before you submit any personal data.
 
-Our products and services are not directed towards children under 13.  ZeniMax does not knowingly request or collect personal information such as name, address, or email address from children younger than 13 years of age. We ask all users who wish to register online for a particular service (e.g., product, forum, or technical support registration) to submit their date of birth. Those visitors that indicate they are under 13 are not allowed to register online. If we discover that we have collected personal information from a child under 13, we will take steps to promptly delete such information.
+**14\. User Generated Content**
 
-## Security of Your Information
+You may choose to disclose information (including personal data) about yourself in the course of contributing user generated content to ZeniMax Services such as forums. Information that you disclose in any of these forums is unencrypted public information, and may be accessed by members of the public, who are not subject to this Privacy Notice. In addition, when you enter certain public
 
-The security of your information is important to us. ZeniMax takes reasonable precautions against possible breaches of our websites and customer databases. However, no website or Internet transmission is completely secure.  Thus, ZeniMax cannot and does not guarantee that unauthorized access, hacking, data loss, or other breaches will never occur.  We urge you to take steps to keep your personal information safe, such as choosing strong password and keeping it private, as well as logging out of your user account, and closing your web browser when finished playing or using the services.
+areas of our Services, your username and other public profile information may be viewable by others. You should have no expectation of privacy as to any information you post or display in our forums or games, or in your profile, or that you otherwise make available on our or through our Services.
 
-## Data Retention
+**15\. Access, Amendment, and Other User Rights**
 
-We will retain your information for as long as permitted for legitimate business purposes. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy04@zenimax.com](mailto:privacy04@zenimax.com).  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, maintain appropriate business records, and enforce our agreements.
+ZeniMax gives Users several easy-to-use ways to access, amend and exercise their choices and rights regarding their personal data. In addition, Users may also have the right to request that certain personal data be exported to another provider where technically feasible, and, under certain conditions to object to or restrict our use of certain personal data.
 
-## International Transfers of Data
+**_Marketing Preferences._** You may change your email preferences and opt out of marketing communications through your profile settings.
 
-ZeniMax has operations, entities and service providers in the United States and throughout the world. As such, we and our service providers may transfer your personal information to, or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction. By using our Services, you agree to such transfers. We will take steps to ensure that your personal information receives an adequate level of protection in the jurisdictions in which we process it.
+**_Access, Amendment and Other Rights._** If you have registered with us and wish to access or update your profile, or exercise certain opt out rights, you may do so online by visiting the “profile” settings in your account. You may also contact our Privacy Coordinator as set forth below to access or amend your personal data, to request that we delete or stop processing your personal data, to withdraw your consent to our processing, and, if you are an EEA resident, to exercise your opt-out rights or place a data portability request.
 
-_Users in the European Economic Area._ Your personal data may be transferred to and processed in countries outside of the European Economic Area.  ZeniMax has certified its adherence to the U.S. – Switzerland Safe Harbor framework, between the U.S. Department of Commerce and the Federal Data Protection and Information Commissioner of Switzerland. **PLEASE NOTE** : On October 6, 2015, the European Court of Justice issued a judgment that effectively declared the US-EU Safe Harbor framework “invalid.” To learn more about the Swiss Safe Harbor program, and to view our certification, visit https://safeharbor.export.gov/swisslist.aspx. While ZeniMax continues to adhere to the EU and Swiss Safe Harbor principles of notice, choice, onward transfer, security, data integrity, access and enforcement, it will also rely on alternative measures, such as the EU standard contractual clauses, for the transfer of EU and Swiss personal data outside the EU and Switzerland.
+**_Remove Content._** If you wish to request removal of any content you have posted, you should also contact our Privacy Coordinator as set forth below.
 
-## Third Party Links
+Privacy requests should be directed to the ZeniMax Media Inc. Privacy Coordinator at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or 1370 Piccard Drive, Rockville, MD 20850 USA. Please keep in mind that certain Services will not be available if you withdraw your consent, or otherwise delete or object to our processing of certain personal data. We will respond to your request in accordance with applicable law, and we will inform you if we do not intend to comply with your request.
 
-Our websites may contain links to third party sites that are not owned or controlled by ZeniMax. We are not responsible for the collection and use of your information by these third party sites.  Because we cannot guarantee that the privacy policies of these websites meet our high standards, we recommend that you read the Privacy Notice of the website to which you link before you submit any personal information.
+You also have the right to lodge a complaint with a supervisory data protection authority.
 
-## User Generated Content, Online Forums, Blogs and Profiles
+**16\. Your California Privacy Rights**
 
-You may choose to disclose information about yourself in the course of contributing user generated content to ZeniMax websites or games, or in online chat rooms, blogs, message boards, user “profiles” for public view or in similar forums on ZeniMax websites.  Information that you disclose in any of these forums is unencrypted public information, and may be accessed or recorded by ZeniMax employees or users, or members of the public.  In addition, when you enter certain public areas of our services or games (e.g., lobbies),  your username and other public profile information may be viewable by others.  You should have no expectation of privacy or confidentiality as to any information you post or display in our forums or games, or in your profile, or that you otherwise make available on our or through our websites and services.
+We do not share personal data collected online with unaffiliated third parties for their own direct marketing purposes and will not do so unless you agree to such disclosure. If you are a California resident and you still believe your information has been shared or you have general questions about how your information may have been shared, you may contact us by requesting a list of the third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by regular mail at: Privacy Coordinator, ZeniMax Media Inc., 1370 Piccard Drive, Rockville, MD 20850 USA. Please allow up to thirty (30) days for a response.
 
-You should be aware that any personally identifiable information that you submit in the course of these public activities can be read, collected, or used by other users of these services, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to make public in any of these forums.
+**17\. Contact Details**
 
-## Access to Your Personal Information
+The controller for your personal information is ZeniMax Media Inc.,1370 Piccard Drive Rockville, MD 20850 USA. In addition, for purchases made by Users in the EEA, ZeniMax Europe Ltd., Reg. No. 06333300, Haymarket House, 29-29 Haymarket, London SW1Y 4SP, is a joint- controller for your transaction data. This privacy notice applies to both ZeniMax Media Inc. and ZeniMax Europe Ltd., and data subjects may exercise their rights with respect to their EEA transaction data with both entities by contacting ZeniMax Media Inc. as set forth below.
 
-If you have registered for a game-specific bulletin board on our website and wish to update your profile, you may do so online by visiting the “profile” section found at each game forum on our websites. You may be required to submit your login name and password before you can access your profile information.
+If you have any questions, complaints or comments regarding our Privacy Notice or practices, please contact our Privacy Coordinator via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by regular mail at:
+    
+    
+    Privacy Coordinator 
+    
+    
+    ZeniMax Media Inc. 
+    
+    
+    1370 Piccard Drive 
+    
+    
+    Rockville, MD 20850 USA 
 
-If you wish to review, update, or delete any personal information that we may have collected about you, please send an email to our Privacy Coordinator by email at [privacy04@zenimax.com](mailto:privacy04@zenimax.com), or by regular mail at ZeniMax Media Inc., 1370 Piccard Drive, Suite 120, Rockville, MD 20850 USA. We will respond to all access requests within 30 days.
+You can also reach us through our affiliates, ZeniMax Europe Limited, our EU representative: Haymarket House, 28-29 Haymarket, London SW1Y 4SP, United Kingdom.
 
-## Important Information for California Consumers; Your California Privacy Rights
+As previously mentioned, we are a licensee of ESRB’s Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at <http://www.esrb.org/privacy/contact.aspx> or:
+    
+    
+    ESRB 
+    
+    
+    Attn: VP, Privacy Certified Program 
+    
+    
+    420 Lexington Avenue, Suite 2240 
+    
+    
+    New York, NY 10170 USA 
+    
+    
+    [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) 
 
-As detailed above and absent your approval, our policy is not to disclose personal information collected online to a third party for their own direct marketing purposes; though, as noted above, we may share certain information with third parties who assist us in better targeting our users on third party websites and services. 
+**18\. Changes to this Privacy Notice**
 
-If you are a California resident, you may request a list of the third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes.   You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at via email at [privacy04@zenimax.com](mailto:privacy04@zenimax.com), by phone at (301) 963-2000, or by regular mail at: Privacy Coordinator, ZeniMax Media Inc., 1370 Piccard Drive, Suite 120, Rockville, MD 20850 USA. Please allow up to thirty (30) days for a response.   
-
-## Data Controller
-
-ZeniMax Media Inc. (contact information below) is the data controller of the personal data processed in connection with our websites, products and services.
-
-## Contact Us About Questions and Complaints
-
-If you have any questions, complaints or comments regarding our Privacy Notice or practices, please contact us via email at [privacy04@zenimax.com](mailto:privacy04@zenimax.com), by phone at (301) 963-2000, or by regular mail at:
-
-Privacy Coordinator   
-ZeniMax Media Inc.   
-1370 Piccard Drive, Suite 120   
-Rockville, MD 20850   
-USA
-
-As previously mentioned, we are a licensee of ESRB’s Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at <http://www.esrb.org/privacy/contact.aspx>, or:
-
-ESRB  
-Attn: VP, Privacy Certified Program  
-420 Lexington Avenue, Suite 2024  
-New York, NY 10170  
-[privacy@esrb.org](mailto:privacy@esrb.org)
-
-## Changes to this Privacy Notice
-
-We reserve the right to make changes to this Privacy Notice. If we make a material change to this Privacy Notice, we will notify you by posting the change on this website and in this Privacy Notice and, if necessary, give you additional choices regarding such change prior to the material change becoming effective. All non-material changes to the Privacy Notice will be effective when posted.  Please check back from time to time to ensure that you are aware of these changes. Your continued use of this website, our products or services will signify your acceptance of, and agreement to be bound by, these changes.
+This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site. If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site and giving you additional choices regarding such change prior to the material change becoming effective.
 
 [ ](https://www.esrb.org/confirm/zenimax-confirmation.aspx "ESRB PRIVACY CERTIFIED MEMBER CONFIRMATION")
