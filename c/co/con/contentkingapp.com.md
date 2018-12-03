@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the contentkingapp.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621084550id_/https%3A//www.contentkingapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentkingapp.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203203720id_/https%3A//www.contentkingapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Content monitoring service ContentKing
-
-## This document sets the Privacy Policy of ContentKing.
 
 We recommend that you read this Privacy Policy carefully. The capitalized words are defined in the Terms of Use (<https://www.contentkingapp.com/terms-of-use/>).
 
@@ -86,7 +84,7 @@ For technical reasons it may be necessary that Your personal data will be transf
 
 ## 7\. Viewing, changing and deleting your data
 
-If you wish to know what information ContentKing has collected about you or if you wish to change information that ContentKing possesses about you, you can file a request to ContentKing to that extent at [[email protected]](https://www.contentkingapp.com/cdn-cgi/l/email-protection#9ef2fbf9fff2defdf1f0eafbf0eaf5f7f0f9ffeeeeb0fdf1f3). ContentKing will provide you with the information within 4 weeks. If you want ContentKing to delete all personal information it possesses about you, you can also contact us at [[email protected]](https://www.contentkingapp.com/cdn-cgi/l/email-protection#0c60696b6d604c6f6362786962786765626b6d7c7c226f6361). ContentKing will endeavor to comply with such a request within a reasonable time.
+If you wish to know what information ContentKing has collected about you or if you wish to change information that ContentKing possesses about you, you can file a request to ContentKing to that extent at [[email protected]](https://www.contentkingapp.com/cdn-cgi/l/email-protection#9af6fffdfbf6daf9f5f4eefff4eef1f3f4fdfbeaeab4f9f5f7). ContentKing will provide you with the information within 4 weeks. If you want ContentKing to delete all personal information it possesses about you, you can also contact us at [[email protected]](https://www.contentkingapp.com/cdn-cgi/l/email-protection#5c30393b3d301c3f3332283932283735323b3d2c2c723f3331). ContentKing will endeavor to comply with such a request within a reasonable time.
 
 ## 8\. Can this Privacy Policy be changed?
 
@@ -94,4 +92,4 @@ It is possible for the Privacy Policy to be amended in the future. This would th
 
 ## 9\. Questions?
 
-If you have any questions, please do not hesitate to contact us at [[email protected]](https://www.contentkingapp.com/cdn-cgi/l/email-protection#167a7371777a56757978627378627d7f78717766663875797b).
+If you have any questions, please do not hesitate to contact us at [[email protected]](https://www.contentkingapp.com/cdn-cgi/l/email-protection#04686163656844676b6a70616a706f6d6a636574742a676b69).
