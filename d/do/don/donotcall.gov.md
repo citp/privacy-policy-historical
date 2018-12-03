@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donotcall.gov privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525071608id_/http%3A//ftc.gov/ftc/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donotcall.gov privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203200334id_/http%3A//ftc.gov/ftc/privacy.shtm) for the most accurate reproduction.*
 
 # Privacy Policy | Federal Trade Commission
 
@@ -79,7 +79,7 @@ The FTC’s Privacy Act rules – including our procedures, timelines, and instr
 
 ## Questions or Complaints About This Privacy Policy
 
-Write to the FTC's Acting Chief Privacy Officer:
+Write to the FTC's Chief Privacy Officer:
 
 John Krebs
 
