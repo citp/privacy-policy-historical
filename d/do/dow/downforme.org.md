@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downforme.org privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603023250id_/http%3A//downforme.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downforme.org privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203151410id_/http%3A//downforme.org/privacy-policy) for the most accurate reproduction.*
 
 # Learn More About How We Value Your Online Privacy On Our Website
 
@@ -50,12 +50,12 @@ Please note that data transmitted via the internet (e.g. via email communication
 
 The party responsible for processing data on this website is:
 
-Mich **Cgp!** ae{/7yfl>n _x3^2l{faH._ P ~~~t7 <e~~a _|M83a-_J\_ ul  
-P ~~i~~ aul ~~2c?UXj8'/~~ I _|~/vQl53nu]_ nt ~~u*kV/sXX~~ ernjez*w 4TK<5e _'Z{u3_ t (Ein _l3Nq}pkCPwS_ z{a!)el _$$BK)Jo"_ un _iE$=_ ter ~~ZKietu~~ ne **{#S** h _%y_ me ~~e-:W'|8k4Bq(~~ r)  
-A _Tz(t3"n4_ m _z@i1L)6_ T ~~< aNrY]~~hi9e z1:KVi>:e ~~VS~~ lY,0w _|I_ og|>W^s>-ogrksx()yB{5x" 3 _yR+~pV60v2-W_ 11dhuSz':>U%_  
-DE ~~-V"z[jXs24G=~~ 672 ~~_o4~~ 92 Kirchh _^/Q@|q <_eim _< ^+_b?v<YVZEdYE\o _vC}eyJD_ l **lv^** anden  
-Telephone: +496352750 ~~\P".0~~ 1 _EsH'_ 5 _x5_ 15  
-Email: pr1k*y I+?{Gi **6U1wIPO|** va ~~V[2WX~~ c _P-NABN#_ y@paul1dZeQT?g`&int _+MBS &_er ~~9mzEbQrA~~ ne&}-JQ.F@vkWit.c ~~*'EL3KK~~ om
+Mich _}sF C^_ aK>'el"n3-X2r P{4'aul  
+P _2n* &-I}:J8_aulfw}7U$r3an Interne _O[X8_ t ~~Y{j28N2Z3jz8~~ (Einze _:V%w'x_zJefa_ lun _%E[ >GL%~m_t _si~J/%% >"_er **=5AC9pw`** ne **Q!=** hmer,pd.jEW()h@nRU ~{wJR  
+A ~~Akmw[Ab~~ m Tt1Ph+2<D2#hi7@t>(e5!z'2aN4l3S&pHl*tV^f-w ~~r}Hs}g <c,cTb~~oog ~~r{o6]V >>}YeA~~ 31  
+DE 67 **s63c`c** 2 _vfAfc >R_9 _i >,7^_2 _Tx}~_ Kir ~~g!Q+!_",~~ cUIhheimb ~~'y!:lJU{baQ~~ oreX{x9la **ab6v** nden!C$-;  
+Telephone: +4 _,?_ 963[m;5vd'X275|J`+WB015;@15  
+Email: pri **i}** v _w:72:OG._ ac _+x_ y:^m#Q@CiW,t4cx?pa ~~6SnK2..nvX~~ u _~P-1$_ lin _XQb/$:_ to-1oLqe ~~uTN=k;e9~~ rn ~~+h9 >#T`p$"fW~~e1<w00Bu{dt.c _Pfo_ om _rc9L^_
 
 The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (names, email addresses, etc.).
 
