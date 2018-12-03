@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627071907id_/http%3A//www.ymca.net/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203145108id_/https%3A//www.ymca.net/privacy-policy) for the most accurate reproduction.*
 
 # the Y : Privacy Policy
 
@@ -137,4 +137,4 @@ You can update your personal information by emailing us at [digital@ymca.net](ma
 
 ## 3.0 Community Guidelines
 
-Guidelines for participants in our social media, blogs and forums are available at <http://www.ymca.net/community-guidelines>
+Guidelines for participants in our social media, blogs and forums are available at [http://www.ymca.net/community-guidelines](https://www.ymca.net/community-guidelines)
