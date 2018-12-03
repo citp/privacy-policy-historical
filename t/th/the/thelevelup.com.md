@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thelevelup.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621013255id_/https%3A//www.thelevelup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelevelup.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203120700id_/https%3A//www.thelevelup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | LevelUp | Mobile Ordering, Restaurant Loyalty, Customer Engagement, and CRM
 
 ## 1\. Introduction
 
 This Privacy Policy explains to Users of the LevelUp website ([https://www.thelevelup.com/](https://web.archive.org/)), mobile applications offered by LevelUp and/or applications offered by third-parties integrated to the LevelUp platform ("LevelUp Apps"), microsites, software and services (collectively, the "Service"), how SCVNGR, Inc., doing business as LevelUp ("LevelUp", "we" or "us"), gathers and uses information collected in connection with use of the Service and LevelUp Apps. LevelUp takes reasonable steps to protect User privacy consistent with the guidelines set forth in this Privacy Policy and with all applicable laws. In this Privacy Policy, "User" or "you" means any person using the Service, whether by browsing the LevelUp website or installing or using LevelUp App, paying for items and/or transactions through LevelUp using a LevelUp App, engaging in loyalty and rewards programs ("Programs") offered by LevelUp merchants (each a "Merchant"), or participating in any other activities available through the Service. 
 
-BY ACCESSING OR USING THE SERVICE AND ANY LEVELUP APP, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THIS PRIVACY POLICY AND OUR USER TERMS OF SERVICE ([https://www.thelevelup.com/terms](https://web.archive.org/terms)). IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SERVICE. 
+BY ACCESSING OR USING THE SERVICE AND ANY LEVELUP APP, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THIS PRIVACY POLICY AND OUR USER TERMS OF SERVICE ([https://www.thelevelup.com/user-terms](https://web.archive.org/user-terms)). IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SERVICE. 
 
 ## 2\. First Up, We Want You to Know This:
 
@@ -119,7 +119,7 @@ Facebook Connect: If you connect to the LevelUp Service using Facebook Connect, 
 
 Security: We use reasonable security precautions to protect the security and integrity of your Personal Information in accordance with this Policy and all applicable laws. However, no Internet transmission is completely secure, and we cannot guarantee that security breaches will not occur. Without limitation of the foregoing, we are not responsible for the actions of hackers and other unauthorized third parties. 
 
-Electronic Notice; Amendments: Pursuant to of LevelUp's User Terms, you agree to receive initial notice of this Privacy Policy, and all annual notices of the Privacy Policy, as amended from time to time, electronically. LevelUp may modify or amend this policy from time to time. We will notify you of these changes by posting the modified Privacy Policy, which will be available for review by you, on our website at [https://www.thelevelup.com/privacy](https://web.archive.org/privacy). 
+Electronic Notice; Amendments: Pursuant to of LevelUp's User Terms, you agree to receive initial notice of this Privacy Policy, and all annual notices of the Privacy Policy, as amended from time to time, electronically. LevelUp may modify or amend this policy from time to time. We will notify you of these changes by posting the modified Privacy Policy, which will be available for review by you, on our website at [https://www.thelevelup.com/privacy-policy](https://web.archive.org/privacy-policy). 
 
 Children: LevelUp does not knowingly collect or maintain personally identifiable information from persons under 13 years of age, and no part of the Service is directed at persons under 13. If you are under 13 years of age, then please do not use the Service. If LevelUp learns that personally identifiable information of persons less than 13 years of age has been collected without verifiable parental consent, then LevelUp will take the appropriate steps to delete this information. To make such a request, please contact us at [support@thelevelup.com](mailto:support@thelevelup.com). 
 
