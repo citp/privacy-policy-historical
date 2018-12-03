@@ -1,37 +1,77 @@
-> *The following text is extracted and transformed from the hermanmiller.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628122651id_/http%3A//www.hermanmiller.com/about-us/who-is-herman-miller/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hermanmiller.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203181959id_/https%3A//www.hermanmiller.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Herman Miller
 
-## Privacy Policy  
-
-
-Last Updated: January 27, 2017
-
-Herman Miller respects your privacy and provides you with this privacy policy (the “Privacy Policy”), which is always available at www.hermanmiller.com/privacy or by contacting us at [privacyinquiry@hermanmiller.com](mailto:privacyinquiry@hermanmiller.com). The Privacy Policy describes our current practices with respect to your privacy, the collection and use of personally identifiable information, and your choices with respect to our use and collection thereof. The personal identifiable information we collect includes the “Employee Information” described below. This Privacy Policy governs all visits to hermanmiller.com (the “Site”) and our related mobile app, as well as transactions through the Site, app, catalogs or telephone. You should review these terms periodically as this Privacy Policy may change from time to time. When we post changes to this Privacy Policy, we will revise the date at the top and/or bottom of this Privacy Policy. Capitalized terms not defined in this Privacy Policy are set forth in the [Terms of Use](https://web.archive.org/about-us/who-is-herman-miller/legal/terms-of-use.html). This Privacy Policy is expressly incorporated into and is made part of the [Terms of Use](https://web.archive.org/about-us/who-is-herman-miller/legal/terms-of-use.html).
+Herman Miller respects your privacy and provides you with this privacy policy (the “Privacy Policy”), which is always available at www.hermanmiller.com/privacy or by contacting us at [privacyinquiry@hermanmiller.com](mailto:privacyinquiry@hermanmiller.com) The Privacy Policy describes our current practices with respect to your privacy, the collection and use of personally identifiable information, and your choices with respect to our use and collection thereof. The personal identifiable information we collect includes the “Employee Information” described below. This Privacy Policy governs all visits to hermanmiller.com (the “Site”) and our related mobile app, as well as transactions through the Site, app, catalogs or telephone. You should review these terms periodically as this Privacy Policy may change from time to time. When we post changes to this Privacy Policy, we will revise the date at the top and/or bottom of this Privacy Policy. Capitalized terms not defined in this Privacy Policy are set forth in the [Terms of Use](https://www.hermanmiller.com/legal/terms-of-use/). This Privacy Policy is expressly incorporated into and is made part of the [Terms of Use](https://www.hermanmiller.com/legal/terms-of-use/).
 
 By using the Site, or sharing your contact information with us, you consent to and accept the privacy practices described in this Privacy Policy.
+
+**GOVERNING LAW**
+
+**CONTACT INFORMATION**
+
+**MINORS**  
+
+
+**INFORMATION WE COLLECT AND/OR RECEIVE**
+
+EMPLOYEE INFORMATION  
+PERSONAL INFORMATION  
+GEOLOCATIONAL INFORMATION  
+OTHER INFORMATION  
+YOUR ACTIVITY  
+YOUR DEVICE  
+COOKIES AND SIMILAR TECHNOLOGY  
+THIRD-PARTY ANALYTICS  
+INFORMATION FROM OTHERS SOURCES
+
+**USE AND SHARING OF INFORMATION**
+
+FULFILLMENT  
+SWEEPSTAKES AND CONTESTS  
+RELATED COMPANIES  
+CORPORATE CHANGES  
+IN ACCORDANCE WITH LAW  
+ADVERTISING AND MARKETING  
+STANDARD OPEN AUTHORIZATION AND SIMILAR TECHNOLOGY  
+ASSISTANCE BY OTHERS
+
+**OPT-OUT**
+
+****EXTERNAL WEBSITES****
+
+**DO-NOT-TRACK**
+
+**HOW WE PROTECT YOUR INFORMATION**  
+
+
+**YOUR CALIFORNIA PRIVACY RIGHTS**  
+
+
+**UPDATING YOUR INFORMATION**  
+
+
+**EU-US PRIVACY SHIELD**  
+
 
 **Governing Law**  
 Unless otherwise indicated herein, our USA websites are governed and operated in accordance with the laws of the United States and are intended for the use of residents of the United States.
 
-**Contact Information  
-Address**
-
+**Contact Information**  
+**Address**  
 Herman Miller, Inc.  
 Attn: Legal Department Privacy Inquiry  
 855 East Main Ave.  
 Zeeland, MI 49464
 
-**Personal Data Management Contact**
-
-E-mail: [privacyinquiry@hermanmiller.com](mailto:privacyinquiry@hermanmiller.com)  
+**Personal Data Management Contact**  
+Email: [privacyinquiry@hermanmiller.com](mailto:privacyinquiry@hermanmiller.com?subject=Contact%20Us%20Form:%20Personal%20Data%20Management)  
 Subject: "Contact Us Form: Personal Data Management"
 
 **Minors**  
 The Site is not targeted towards, nor intended for use by, persons under the age of 13. If you are not at least 13 years of age, do not access, use, or register on the Site. We do not knowingly collect Personal Information from persons under age 13 (in which case we will terminate and delete your account and all information contained therein) without prior parental consent. Unless we have knowledge to the contrary, we will presume that all personally identifiable information collected by the Site is from persons age 13 and over. By using the Site, you represent and warrant that you are 13 years of age or older.
 
-**Information We Collect and/or Receive**
-
+**Information We Collect and/or Receive**  
 _Employee Information_  
 We collect employee personal identifiable information from prospective and present employees for the following legitimate business purposes: (1) management and operation of our company: (2) employee communications; (3) maintain a global directory: (4) perform obligations under employee contracts, employment laws, employment tax, employment benefits; (5) employee development and training; (6) recruiting and hiring of applicants; (7) qualification and performance assessments; (8) performance of background checks and confirmation of references; (9) management of employee performance; (10) determining employee compensation and payment; (11) management of employee termination process; and (12) other human resources purposes. Sensitive employee information such as health, performance evaluations, and disciplinary actions is accessible to other Herman Miller employees only if necessary with respect to legitimate human resources functions or issues. Herman Miller will obtain affirmative consent before using an employee’s personal information for a purpose other than specified above. Employees may decline to provide this consent or may withdraw it at any time.
 
@@ -54,7 +94,7 @@ This information may include your: IP address (static or dynamic); browser type 
 **Information about your device**  
 This information may include your: type of computer or device; operating system and version (e.g., iOS, Android, Windows); carrier and country location; and similar data. Additional information collected from your device may include any of the following: Universally unique ID (UUID); Advertising identifier (IDFA); MAC address; Hardware and processor information (e.g., storage, chip speed); Network type (e.g., WiFi, 3G, 4G, LTE).
 
-**Information from cookies and similar technology.**  
+**Information from cookies and similar technology**  
 We and our service partners may use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with the Site through your computer or mobile device. Cookies are small data files that are often stored on one's computer each time one visits a new website. Cookies may store unique identifiers, user preferences and other information. We may use cookies for various purposes, including: facilitating the sign in process to the Site; authenticate users; personalize your experience when visiting a Site; and analyze which portions of the Site are most visited or used. We use cookies to help personalize your experience when visiting the Site. These cookies also help to uniquely identify your computer for security purposes and may enable us and our third-party service providers to serve ads on our behalf across the Internet. You may opt to set your browser to refuse cookies or indicate when a cookie is being sent. However, refusal of cookies may affect the experience at many third party websites, including the Site.
 
 **Information from Third-party Analytics**  
@@ -113,10 +153,10 @@ We use commercially reasonable physical, technical and administrative security m
 **Your California Privacy Rights**  
 Under California’s "Shine the Light" law, Civil Code Section 1798.83, California residents who provide Personal Information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2016 will receive information regarding 2015 sharing activities).
 
-To obtain this information, please send an email message to [privacyinquiry@hermanmiller.com](mailto:privacyinquiry@hermanmiller.com) with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
+To obtain this information, please send an email message to [privacyinquiry@hermanmiller.com](mailto:privacyinquiry@hermanmiller.com?subject=Request%20for%20California%20Privacy%20Information) with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
 
 **Updating Your Information**  
-We recognize the individual’s right to access their personal information. If you have any questions or concerns about this Privacy Policy or your personal information, please let us know by sending us an email at [privacyInquiry@hermanmiller.com](mailto:privacyInquiry@hermanmiller.com).
+We recognize the individual’s right to access their personal information. If you have any questions or concerns about this Privacy Policy or your personal information, please let us know by sending us an email at [privacyinquiry@hermanmiller.com](mailto:privacyInquiry@hermanmiller.com).
 
 You have the right to tell us:
 
@@ -130,7 +170,7 @@ You have the right to tell us:
 Please be aware that in accordance with our routine record keeping, at our discretion and from time-to-time, we may delete records that contain personal information.
 
 **EU-US Privacy Shield**  
-We comply with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Herman Miller has certified that is adheres to the Privacy Shield principles of notice, choice, accountability for onward transfer, security, data and integrity and purpose limitation, access, and recourse, enforcement and liability. If there is any conflict between the policies in this Privacy Policy and Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield, and to view our certification page when available, please visit: [https://www.privacyshield.gov](https://www.privacyshield.gov/). Herman Miller is subject to the investigatory and enforcement powers of the Federal Trade Commission (“FTC”).
+We comply with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Herman Miller has certified that it adheres to the Privacy Shield principles of notice, choice, accountability for onward transfer, security, data and integrity and purpose limitation, access, and recourse, enforcement and liability. If there is any conflict between the policies in this Privacy Policy and Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield, and to view our certification page when available, please visit: [https://www.privacyshield.gov](https://www.privacyshield.gov/). Herman Miller is subject to the investigatory and enforcement powers of the Federal Trade Commission (“FTC”).
 
 **Resolution of Complaints**  
 In compliance with the Privacy Shield Principles, Herman Miller commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Herman Miller at [privacyinquiry@hermanmiller.com](mailto:privacyinquiry@hermanmiller.com). Herman Miller has further committed to:
