@@ -1,61 +1,444 @@
-> *The following text is extracted and transformed from the wahoofitness.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927142217id_/http%3A//www.wahoofitness.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wahoofitness.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203021119id_/https%3A//www.wahoofitness.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Impressum | Wahoo Fitness
+# Privacy Policy and Imprint | Wahoo Fitness
 
-The website www.wahoofitness.com and Wahoo Fitness applications (e.g., Wahoo Fitness, 7 Minute Workout, RunFit, Wahoo Wellness, Segments) are provided by Wahoo Fitness LLC through its offices in the United States. Wahoo Fitness recognizes the importance of protecting the privacy of personal and financial information. We have instituted strict policies and security measures to protect your information. When you register with Wahoo Fitness through our applications, online or use our online store, you give us your consent to process and use your personal data in accordance with this online privacy policy. This Privacy Policy applies to all users of this website and our applications.
+Welcome to the Wahoo Fitness, LLC privacy notice (“Wahoo”). This privacy notice governs how Wahoo and its subsidiary companies, including Wahoo Fitness (UK) Limited, process personal data.
 
-### Wahoo Fitness Applications:
+ 
 
-Wahoo Fitness Applications are designed to provide fitness services by gathering data about you and tracking your activities. In order to access data collected across all of the Wahoo Fitness applications, users must create a Wahoo Fitness account. At that time, we ask you for some personal information, including your email address and name. You will also be asked to enter information about yourself, including your date of birth, gender, height, and weight which will be used by the Wahoo Fitness applications to provide calorie burn and heart rate zone information. As you use Wahoo Fitness applications to exercise, data (e.g., heart rate, steps, cadence, power, speed, etc.) is collected by your smartphone plus sensors you pair to your phone and passed into storage in our application on your smartphone. Once captured there, that data is transferred to the Wahoo Fitness Cloud for reporting and analysis in our applications. We also log data about the transmission, including the date and time of the exercise, type of exercise, type of smartphone used, version of operating system on that device, versions of firmware on sensors, and version of the application used.
-
-  
-
-
-### 3rd Party Applications:
-
-Wahoo Fitness also sends and receives data to the third party applications and services you select in the configuration of our applications. You may activate or deactivate these connections at any time within our applications.
+Wahoo respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) or when you use one of our apps and tells you about your privacy rights and how the law protects you.
 
   
 
 
-### Apple HealthKit:
+## 1.  IMPORTANT INFORMATION AND WHO WE ARE 
 
-Wahoo Fitness ® applications for Apple iOS use data from Apple’s HealthKit API to calculate calorie burn, heartrate zones, and other fitness-related purposes only if you activate this interface within the application. Wahoo does not sell any of your personal data for any other purposes.
+### PURPOSE OF THIS PRIVACY NOTICE 
 
-  
+This privacy notice aims to give you information on how Wahoo collects and processes your personal data through your use of our website, your use of our apps or your participation in an event, including any data you may provide when you sign up to our newsletter, purchase a product or take part in a competition.
 
-
-### Location Features:
-
-Location features such as mapping, routes, GPS-based speed calculations, and Live Tracking are only available if you activate them. When active, Wahoo Fitness collects data like GPS signals, device sensors, Wi-Fi access points, and cell tower IDs to determine your specific location. We store this information along with your other exercise data to provide you with these locations features. If you are using a mapping feature, we will send your location information to our mapping service provider so they can display your location on a map. You can deactivate these features at any time and Wahoo Fitness will stop collecting this type of information.
+This website is not intended for children and we do not knowingly collect data relating to children.
 
   
 
 
-### Website:
+### CONTROLLER
 
-Wahoo Fitness ® collects personal data from visitors to the website who register their information or who use the online store, including addresses, telephone numbers and credit card information. Information is also collected from customers who place telephone orders or who make in-store purchases. We also use cookies (see more below) and track IP addresses so we can improve our services and enhance your Wahoo Fitness shopping experience. No one under the age of 18 should submit any personal information to this website without the consent of a parent of guardian.
+Wahoo is the controller and responsible for your personal data (referred to as “Wahoo”, “we”, “us” or “our” in this privacy notice).
 
-If you give us your personal information, we will use this information to register you with our systems, to administer our website services, to process any orders you may place online, and/or to store and manage your workout data. When you place an order, make a purchase or save your information online, we will use your e-mail and postal address to send you information about our products, services, and promotions and to help us learn more about your shopping preferences but only if you give us your permission. From time to time, we may use this information to contact you via e-mail, postal mail, or telephone to learn more about your shopping preferences. You always have the choice not to receive marketing information or calls. We may contact you, subject to the choices you have made, via e-mail, postal mail, or telephone, to conduct market research and learn more about how we can improve our product offerings. To serve you better, we may combine information you give us and information about your product interest and purchases with information from third parties, including demographic information and information that is publicly available. We may also combine this information with information from our affiliates. We use that combined information to enhance and personalize your shopping experience with us, and to communicate with you in accordance with this policy.
+We have appointed an internal data privacy manager who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the data privacy manager using the details set out below.
 
-Wahoo Fitness ® does not sell, rent or disclose our client's names, addresses, e-mail addresses or other personal information to any non-affiliated entity. As necessary, your personal information may be processed by these third parties, solely for the purpose of assisting Wahoo Fitness in these endeavors and subject to strict contractual confidentiality obligations. We do not otherwise disclose your information to third parties, unless required by law or in connection with a legal claim or proceeding. In the unlikely event of a sale of some or all of our business, Wahoo Fitness ® will disclose your personal information to a purchaser that agrees to abide by the terms and conditions of this privacy policy.
+  
 
-Wahoo Fitness ® uses appropriate security measures to protect the information you give us. However, while we take all reasonable steps to protect your personal information, you accept that no Internet data transmission can be guaranteed to be secure from access by unintended recipients and will not hold us responsible for any breach of security unless this is due to our negligence.
 
-Cookies are pieces of information a web site can send to your computer's browser for record-keeping purposes. We use cookies to ascertain which web pages are visited and how often, to make our web site more user friendly, and to give you a better experience when you return to the website. For example, cookies allow us to save your password so you do not have to re-enter it every time you visit our site. Most web browsers automatically accept cookies, but you do not have to accept them. To disable cookies, you should access the "help" tab on your browser or read the information that came with your browser software. However, your visit to our website will be significantly enhanced if cookies are not disabled.
+### CONTACT DETAILS
 
-By accessing and using the Wahoo Fitness site, you consent to our collection, use and disclosure of your information as described in this privacy policy. Wahoo Fitness ® reserves the right occasionally to make changes to its privacy policy or practices. You should therefore review this page from time to time to get updated information including in particular, each time you use the online shop. We will notify you of any changes in our privacy policy by posting the modifications on our website.
-
-Wahoo Fitness ® would like to communicate with you only if you want to hear from us. If you are registered with us via our website or our apps and would like to delete or update your registration and personal details from our database, please click on the unsubscribe link in any of our emails. If you prefer not to receive promotional information from us or our affiliated brands, or if you do not want us to use your information to enhance your shopping experience, please let us know by writing to us or by sending us an e-mail. Please be sure to include your full name and the e-mail address you used when you registered or made a purchase from us. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your e-mail request, and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Wahoo Fitness ®. Please also note that your on-line purchase will be confirmed through e-mail. In addition, we may also need to contact you via phone, e-mail or postal mail with other questions regarding your order.
-
-If you have any comments or queries regarding our privacy policy, please [contact support](http://support.wahoofitness.com/).
+If you have any comments or queries regarding our privacy policy, please [contact support](http://support.wahoofitness.com/) or you can contact our Data Privacy Manager at:
 
 Wahoo Fitness, LLC  
 90 West Wieuca Rd NE #110  
 Atlanta, GA 30342  
-1(877) 978-1112
-
-**Phone Hours:**  
-Monday - Friday: 10:00 am - 5:00 pm EST  
-Saturday - Sunday: Closed  
+1(877) 978-1112  
+CEO: Chip Hawkins  
+FAO: Data Privacy Manager  
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#eb9b99829d8a8892ab9c8a8384848d829f858e9898c5888486)  
 VAT: NL8507.14.291.B.01
+
+Customers in the European Union have the right to make a complaint at any time to their relevant data protection supervisory authority (for example the Information Commissioner’s Office (ICO) in the UK)in relation to data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
+
+  
+
+
+### CHANGES TO THE PRIVACY NOTICE AND YOUR DUTY TO INFORM US OF CHANGES
+
+This version was last updated on May 21, 2018 and historic versions can be obtained by contacting us. We may from time to time update this privacy notice to remain compliant with applicable data protections laws so please check back here for updates. 
+
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
+
+  
+
+
+### THIRD-PARTY LINKS
+
+This website and our apps may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+## 2.  THE DATA WE COLLECT ABOUT YOU 
+
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
+
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows: 
+
+  * **Identity Data** includes first name, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender, emergency contact first name and last name.
+  * **Contact Data** includes billing address, delivery address, email address, telephone numbers and emergency contact telephone numbers.
+  * **Biometric Data** includes age, weight, height, gender and heart rate.
+  * **Financial Data** includes bank account and payment card details.
+  * **Transaction Data** includes details about payments to and from you and other details of products and services you have purchased from us.
+  * **Technical Data** includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+  * **Profile Data** includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
+  * **Usage Data** includes information about how you use our website, products and services.
+  * **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
+
+
+
+We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does **not** directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this **privacy notice.**
+
+The only **Special Category of Personal Data** we collect about you is your Biometric Data when you submit this data through one of our apps. We have taken all necessary precautions to ensure adequate levels of protection of this information are in place. We not collect any information about criminal convictions and offenses.
+
+  
+
+
+### IF YOU FAIL TO PROVIDE PERSONAL DATA 
+
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
+
+## 3.  HOW IS YOUR PERSONAL DATA COLLECTED?
+
+We use different methods to collect data from and about you including through:
+
+**Direct interactions.** You may give us your Identity, Contact and Financial Data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:
+
+  * Buy or express an interest in our products or on our website;
+  * create an account on our website;
+  * subscribe to our newsletter;
+  * using our fitness apps;
+  * request that we send marketing materials to you;
+  * enter a competition, promotion or survey;
+  * take part in a Wahoo event;
+  * submit a product review;
+  * speak to customer services.
+
+
+
+**Automated technologies or interactions.** As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our cookie policy below. 
+
+## 4\. HOW WE USE COOKIES
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+For more detailed information on how we uses cookies, please review our [Cookie Policy](https://web.archive.org/cookie-policy).
+
+## 5.  HOW WE USE YOUR PERSONAL DATA
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances: 
+
+  * Where we need to perform the contract we are about to enter into or have entered into with you.
+  * Where we have your consent.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
+
+
+
+You have the right to withdraw consent to marketing at any time by unsubscribing via the link provided with each marketing email we send to your or by contacting us on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7d0d0f140b1c1e043d0a1c1512121b140913180e0e531e1210).
+
+  
+
+
+### PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA
+
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
+
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+
+  
+**
+
+Purpose/Activity
+
+** | **
+
+Type of data
+
+** | **
+
+Lawful basis for processing including basis of legitimate interest
+
+**  
+---|---|---  
+  
+To register you as a new customer
+
+| 
+
+  1. Identity
+  2. Contact
+
+| 
+
+Performance of a contract with you  
+  
+  1. Manage payments, fees and charges
+  2. Collect and recover money owed to us
+
+| 
+
+  1. Identity
+  2. Contact
+  3. Financial
+  4. Transaction
+  5. Marketing and Communications
+
+| 
+
+  1. Performance of a contract with you
+  2. Necessary for our legitimate interests
+
+  
+  
+To provide you with analytical information about your workout through the use of our apps
+
+| 
+
+  1. Identity
+  2. Biometric data
+
+| 
+
+  1. Performance of a contract with you
+  2. Consent
+
+  
+  
+To manage our relationship with you which will include:  
+
+
+  1. Notifying you about changes to our terms or privacy notice
+  2. Asking you to leave a review or take a survey
+
+| 
+
+  1. Identity
+  2. Contact
+  3. Profile
+  4. Marketing and Communications
+
+| 
+
+  1. Performance of a contract with you
+  2. Necessary to comply with a legal obligation
+  3. Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)
+
+  
+  
+To enable you to partake in an event, prize draw, competition or complete a survey
+
+| 
+
+  1. Identity
+  2. Contact
+  3. Profile
+  4. Usage
+  5. Marketing and Communications
+
+| 
+
+  1. Performance of a contract with you
+  2. Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)
+  3. Consent
+
+  
+  
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)
+
+| 
+
+  1. Identity
+  2. Contact
+  3. Technical
+
+| 
+
+  1. Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)
+  2. Necessary to comply with a legal obligation
+
+  
+  
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you
+
+| 
+
+  1. Identity
+  2. Contact
+  3. Profile
+  4. Usage
+  5. Marketing and Communications
+  6. Technical
+
+| 
+
+Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)  
+  
+To manage our after-sales relationship with you, including:  
+
+
+  1. Assisting you with warranty issues
+  2. Contacting you in relation to a product recall
+
+| 
+
+  1. Identity
+  2. Contact
+  3. Profile
+  4. Transaction
+
+| 
+
+  1. Performance of a contract with you
+  2. Necessary to comply with a legal obligation
+  3. Necessary for our legitimate interests (to keep our records updated
+
+  
+  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences
+
+| 
+
+  1. Technical
+  2. Usage
+
+| 
+
+Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
+  
+To make suggestions and recommendations to you about goods or services that may be of interest to you
+
+| 
+
+  1. Identity
+  2. Contact
+  3. Technical
+  4. Usage
+  5. Profile
+
+| 
+
+  1. Necessary for our legitimate interests (to develop our products/services and grow our business)
+  2. Consent
+
+  
+  
+### MARKETING
+
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. 
+
+  
+
+
+### PROMOTIONAL OFFERS FROM US
+
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (this is “marketing”).
+
+You will receive marketing communications from us if you have requested information from us or purchased goods or services from us and, in each case, you have not opted out of receiving that marketing. You will also receive marketing communications from us if you have provided us with your details when you entered a competition or registered for a promotion and gave us your consent as part of that process.
+
+  
+
+
+### THIRD-PARTY MARKETING
+
+We will get your express opt-in consent before we share your personal data with any other company for marketing purposes.
+
+  
+
+
+### OPTING OUT
+
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by contacting us.
+
+Opting out of marketing messages will not prevent you receiving non-marketing messages from us, for example relating to products ordered from us, responses to customer service queries etc.
+
+  
+
+
+### CHANGE OF PURPOSE
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us.
+
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+## 6.  DISCLOSURES OF YOUR PERSONAL DATA
+
+We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above. 
+
+  * External Third Parties as set out in the Glossary and below:
+  * We use third party service providers to help us to administer certain activities on our behalf, such as fulfilling purchases and shipping products, processing credit card payments, sending emails, providing advertisements, analysing usage of our websites and apps, tracking effectiveness of our marketing campaigns, and allowing users to connect to their social network. We may share Personal Information about you with such third party service providers to the extent necessary for the sole purpose of enabling them to perform services on our behalf.
+  * Here are examples of third-party service providers we use:
+  * **Email Providers:** Services are used to assist Wahoo in sending emails, consistent with applicable laws and the choices available to you under our privacy settings center
+  * **Analytics Services:** We use third-party service providers to help us better understand usage of our products and mobile apps, and for related purposes. The third parties we currently use to provide such analytics and related services are described under our [Cookie Policy](https://web.archive.org/cookie-policy).
+
+
+
+Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+## 8.  DATA SECURITY
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorized way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+## 9.  DATA RETENTION
+
+### OPTING OUT
+
+We will only retain your personal data for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they cease being customers for tax purposes. We also keep this basic information about our customers for six years following your most recent purchase from us or to enable us to deal efficiently with any after-sales queries that you may have. We keep customer profile information that you have indicated you are happy for us to have in order to keep you up to date regarding our products, services and events and will keep this information until such time as you indicate you no longer wish us to keep this data, or for seven years following your most recent active interaction with us (e.g. clicking a link on an email we send you, taking you to our site), whichever of these two is shorter. We keep biometric customer data until such time as you no longer wish us to keep this data by deleting your account or up to a maximum of seven years from your last interaction with Wahoo in relation to the data.
+
+In some circumstances you can ask us to delete your data: see [Request erasure] below for further information.
+
+In some circumstances we may anonymize your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+## 11.  GLOSSARY 
+
+### LAWFUL BASIS
+
+**Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us.
+
+**Performance of Contract** means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+
+**Comply with a legal or regulatory obligation** means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+
+**Consent** means you have explicitly given us permission to process your personal data. In such circumstances we will have asked you a specific question and you will have entered information or ticked a tick-box to indicate your consent.
+
+  
+
+
+### THIRD PARTIES
+
+**External third parties** include: 
+
+YOUR LEGAL RIGHTS 
+
+**Request access** to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+**Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+**Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+
+**Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it. In such circumstances we may reserve the right to delete your personal data rather than hold it but restrict processing, where our processes are not set up to enable a restriction.
+
+**Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+**Request to opt out of automated profiling** of your personal data. You have the legal right to opt-out of any automated profiling of your personal data that could have a legal consequence for you, and have a human being involved in the processing decision rather than it being automated. The only profiling of this type that we undertake is in our marketing activities, in which we tailor our marketing communications to your transactional history and product preferences. If you wish to opt-out of this automated profiling please contact us, though please be aware that our systems are not configured to send un-tailored marketing communications to you, so in practice opting out of automated profiling will result in you being opted out of receiving marketing communications from us.
+
+**Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+
+  
+
+
+### LIST OF COOKIES WE COLLECT
+
+A list of cookies we collect can be found in our [cookie policy.](https://web.archive.org/cookie-policy)
+
+
+
