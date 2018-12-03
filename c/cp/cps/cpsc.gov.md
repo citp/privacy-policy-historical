@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202224705id_/https%3A//www.cpsc.gov/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203183732id_/https%3A//www.cpsc.gov/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy) for the most accurate reproduction.*
 
 # CPSC Privacy and Security Notice | CPSC.gov
 
@@ -139,3 +139,10 @@ Unauthorized attempts to upload information or change information on this servic
 ### Questions
 
 For any questions about this policy, please use this [Contact Form](https://web.archive.org/About-CPSC/Contact-Information/Contact-Specific-Offices-and-Public-Information/Information-Center).
+
+### Senior Agency Official for Privacy
+
+James Rolfes  
+4330 East West Highway, Room 839A  
+Bethesda MD 20814  
+[jrolfes@cpsc.gov](mailto:jrolfes@cpsc.gov)
