@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the icebreakerideas.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118141449id_/https%3A//icebreakerideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icebreakerideas.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204005638id_/https%3A//icebreakerideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Icebreaker Ideas
 
-At [IcebreakerIdeas.com](http://icebreakerideas.com/) the **privacy** of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+At [IcebreakerIdeas.com](https://icebreakerideas.com/) the **privacy** of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
 This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy.
 
@@ -25,4 +25,4 @@ If you wish to disable cookies you may do so through your web browser options. I
 ##  **3\. Other**
 
 Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from ABT. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.  
-If you’ve any question about our privacy policy please [contact us](http://icebreakerideas.com/contact-us/).
+If you’ve any question about our privacy policy please [contact us](https://icebreakerideas.com/contact-us/).
