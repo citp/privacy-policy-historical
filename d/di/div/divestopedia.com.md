@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divestopedia.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702014208id_/https%3A//www.divestopedia.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divestopedia.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203160718id_/https%3A//www.divestopedia.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Divestopedia.com
 
@@ -97,7 +97,7 @@ If you have questions or suggestions, please complete the form on our [Contact U
 Janalta Interactive Inc. o/a Divestopedia.com  
 Suite 101, 1289 - 91 Street SW  
 Edmonton, Alberta Canada T6X 1H1  
-Last updated Wednesday, June 28, 2017  
+Last updated Tuesday, November 27, 2018  
 
 
   
