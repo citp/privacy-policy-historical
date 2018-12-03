@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmingcops.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530121807id_/http%3A//filmingcops.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmingcops.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203094902id_/http%3A//filmingcops.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Filming Cops
 
@@ -26,6 +26,6 @@ www.FilmingCops.com may update this privacy policy in the future. If we do, we w
 By using this Site, you signify your acceptance of this policy.
 
 **Contacting Us**  
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cdbeb8bdbda2bfb98daba4a1a0a4a3aaaea2bdbee3aea2a0).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [support@filmingcops.com](mailto:support@filmingcops.com).
 
 This document was last updated on December 28, 2013
