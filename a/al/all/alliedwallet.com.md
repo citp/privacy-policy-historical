@@ -1,111 +1,148 @@
-> *The following text is extracted and transformed from the alliedwallet.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221023547id_/https%3A//www.alliedwallet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliedwallet.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204001929id_/https%3A//www.alliedwallet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Payment Gateway | Experience True Flexibility and Security
+# Privacy Policy - Credit Card Processing & Merchant Services - Allied Wallet
 
-## Protecting Your Privacy
+## Privacy And Cookie Policy
 
-### A. Overview
+### 1\. About this Privacy Statement
 
-In order to operate the AlliedWallet, LTD service and to reduce the risk of fraud, AlliedWallet, LTD (“AlliedWallet, LTD” or “we”) must ask you to provide us information about yourself and your credit card and/or bank account. This Privacy Policy describes the information we collect and how we use that information  
-AlliedWallet, LTD takes the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. We will not sell or rent your personally identifiable information or a list of our customers to third parties. However, as described in more detail in Part C below, there are limited circumstances in which some of your information will be shared with third parties, under strict restrictions, so it is important for you to review this Privacy Policy. This Privacy Policy applies to all services that are hosted on the AlliedWallet.com web site, whether the services are offered by AlliedWallet, LTD or by its subsidiaries. By accepting the Privacy Policy and User Agreement in registration, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the AlliedWallet, LTD User Agreement. This Privacy Policy will take effect on July 1, 2006. This Privacy Policy was last updated on August 20, 2006.
+This is the Privacy Statement of Allied Wallet, LTD (“Allied Wallet, LTD” or “we”). It applies to all subsidiaries and branches of Allied Wallet to the extent that they process personal data. Allied Wallet has its registered office at 1- 2 Broadgate, 2nd Floor London EC2M 2QS United Kingdom.
 
-#### Notification of Changes
+Allied Wallet treats personal data which it receives through its websites, portals and any other means with due care and is dedicated to safeguarding any personal data it receives. Allied Wallet is bound by the General Data Protection Regulation (Regulation (EU) 2016/679), the Dutch Data Protection Act (Wet bescherming persoonsgegevens) and the Dutch Telecommunications Act (Telecommunicati ewet). 
 
-This policy may be revised over time as new features are added to the AlliedWallet, LTD service or as we incorporate suggestions from our customers. If we are going to use or disclose your personally identifiable information in a manner materially different from that stated at the time we collected the information, you will have a choice as to whether or not we use or disclose your information in this new manner. Any material changes will be effective only after we provide you by e-mail with at least 30 days’ notice of the amended Privacy Policy (if you have closed your AlliedWallet, LTD account, you will not be contacted to notify you of the amended Policy and your personal information will not be used or disclosed in this new manner).  
-We will post the amended Privacy Policy prominently on our Web site so that you can always review what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check the AlliedWallet, LTD Web site at [AlliedWallet.com](https://www.alliedwallet.com/) at any time for the most current version of our Privacy Policy.
+This Privacy Statement is designed to advise you about the type of information that Allied Wallet collects and the purposes for which this information is being processed, used, maintained and disclosed. 
 
-AlliedWallet, LTD and other pages on the AlliedWallet, LTD Web site include links to third party Web sites. These sites are governed by their own privacy statements, and AlliedWallet, LTD is not responsible for their operations, including but not limited to their information practices. Users submitting information to or through these third party Web sites should review the privacy statement of these sites before providing them with personally identifiable information. A Special Note About Children. Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service.
+This Privacy Statement aims to explain in a simple and transparent way what personal data we gather about you and how we process it. It applies to the following persons:  
+• the legal representatives and ultimate beneficial owners of all past, present and prospective Allied Wallet merchants (webshops/online retailers) and other commercial contracting parties such as independent sales agents (also known as referral partners). We are legally obliged to retain personal data of these persons, also for a certain period after the relationship has ended, in compliance with ‘know your customer’ (“KYC”) regulations; • anyone involved in any transaction with our payment institution, including non-Allied Wallet customers such as consumers/payees of Allied Wallet merchants; and • anyone visiting the Allied Wallet website. 
 
-### B. Information We Collect
+We may amend this Privacy Statement to remain compliant with any changes in law and/or to reflect how our business processes personal data. This version was created on 7 May 2018. 
 
-#### Required Information
+### 2\. Personal Data
 
-To open an AlliedWallet, LTD account, you must provide your name, address, phone number, and e-mail address. In order to make payments through AlliedWallet, LTD, you must provide credit card, debit card or bank account information (bank account information is required to make payments totaling more than $1,000.00 USD). We also ask you to choose two different security questions to answer (such as your city of birth or your pet’s name) This required information is necessary for us to process transactions, issue a new password if you forget or lose your password, protect you against credit card fraud and checking account fraud, and to contact you should the need arise in administering your account.
+Personal data refers to any information that tells us something about you or that we can link to you. Allied Wallet processes any information we receive from you, including personal and financial information you provide to us including when you or your business: make a payment, enquire or make an application for Allied Wallet’s services, register to use and/or use any of our services and when you communicate with us through e-mail, SMS, WhatsApp, a website or portal, telephone or any other electronic means. 
 
-#### Information About You From Third Parties
+Such information may include you or your customer’s: • name including first name and family name, date of birth, e-mail address, billing address, username, password and/or photograph, address, nationality and country of residence; • card account number, card expiry date, CVC details, bank and/or issuer details; and/or • information relating to any items purchased, including the location of the purchase, the value, the time and any feedback that is given in relation to such purchase.
 
-In order to protect all our customers against potential fraud, we verify with third parties the information you provide. In the course of such verification, we receive personally identifiable information about you from such services. In particular, if you register a credit card or debit card with AlliedWallet, LTD, we will use card authorization and fraud screening services to verify that your card information and address matches the information that you supplied to AlliedWallet, LTD, and that the card has not been reported as lost or stolen.  
-If you register your online business with AlliedWallet, LTD or if you send or receive high overall payment volumes through AlliedWallet, LTD, in some circumstances we will conduct a background check on your business by obtaining information about you and your business from a credit bureau or a business information service such as Dun & Bradstreet. If you incur a debt to AlliedWallet, LTD, we will generally conduct a credit check on you by obtaining additional information about you from a credit bureau, to the extent permitted by law. AlliedWallet, LTD, at its sole discretion, also reserves the right periodically to retrieve and review a business and/or consumer credit report for any account, and reserves the right to close an account based on information obtained during this credit review process.
+By processing, we mean everything we can do with this data such as collecting, recording, storing, adjusting, organising, using, disclosing, transferring or deleting. For more information about the way we use your personal data, please refer to Section 4 (“What we do with your personal data”). 
 
-#### Additional Verification
+You share personal information with us, for example when you: visit our website, complete a(n) (online) (application) form, sign a contract, make a payment or alternatively use our payment services, or contact us through one of our channels. 
 
-If we cannot verify the information that you provide, or if you request a withdrawal by check to an address other than your verified credit card billing address, we ask you to send us additional information by fax (such as your drivers’ license, credit card statement, and/or a recent utility bill or other information linking you to the applicable address), or to answer additional questions online to help verify your information.
+We also use data that is legally available from public sources such as commercial registers, debtor registers and the media, or data that is legitimately provided by other companies within Allied Wallet or by third parties.
 
-#### Web Site Traffic Information
+### 3\. Sensitive data
 
-Because of the way that World Wide Web communication standards work, when you arrive at or leave the AlliedWallet, LTD Web site, we automatically receive the Web address of the site that you came from or are going to. We also collect information on which pages of our Web site you visit while you are on the AlliedWallet, LTD site, the type of browser you use and the times you access our Web site. We use this information only to try to understand our customers’ preferences better and to manage the load on our servers, so as to improve our service and your experience with AlliedWallet, LTD. We do not track the Web sites that you visit before or after you leave the AlliedWallet, LTD site.
+We do not record sensitive data relating to your health, ethnicity, religious or political beliefs unless it is strictly necessary. When we do it is limited to specific circumstances, for example if you as a customer of an Allied Wallet merchant make a payment for a membership fee to a political party or religious organisation.
 
-#### Our Use of “Cookies”
+### 4\. What we do with your personal data
 
-“Cookies” are small files of data that reside on your computer and allow us to recognize you as a AlliedWallet, LTD customer if you return to the AlliedWallet, LTD site using the same computer and browser. We send a “session cookie” to your computer if and when you log in to your AlliedWallet, LTD account by entering your e-mail address and password. These cookies allow us to recognize you if you visit multiple pages in our site during the same session, so that you don’t need to re-enter your password multiple times. Once you log out or close your browser, these session cookies expire and no longer have any effect. We also use longer-lasting cookies to display your e-mail address on our sign-in form, so that you don’t have to retype the e-mail address each time when you log in to your AlliedWallet, LTD account. In addition, we use cookies to process our referral program, described in Section C below. Our cookie files are encoded so that your e-mail address and other information can only be interpreted by AlliedWallet, LTD. We may, however, share cookie information regarding whether or not a certain user is already registered with AlliedWallet, LTD with certain merchants with whom we have an official co-marketing relationship.
+We only use your personal data for legitimate business reasons. This includes: 
 
-#### Customer Service Correspondence
-
-If you send us correspondence, including e-mails and faxes, we retain such information in the records of your account. We will also retain customer service correspondence and other correspondence from AlliedWallet, LTD to you. We retain these records in order to measure and improve our customer service, and to investigate potential fraud and violations of our User Agreement. We may, over time, delete these records if permitted by law.
-
-#### Questionnaires, Surveys and Profile Data
-
-From time to time, we offer optional questionnaires and surveys to our users for such purposes as collecting demographic information or assessing users’ interests and needs. The use of the information collected will be explained in detail in the survey itself. If we collect personally identifiable information from our users in these questionnaires and surveys, the users will be given notice of how the information will be used prior to their participation in the survey or questionnaire.
-
-#### Non-member Recipients and Requests
-
-When a member either sends a payment to, or requests a payment from, an individual who is not a registered member of AlliedWallet, LTD, we will retain the information that the member submits to us, including, for example, the other party’s email address and/or name, for the benefit of the member who is attempting to contact the non-member, so that the member can see a complete record of his or her transactions, including uncompleted transactions. Although this information is stored indefinitely, we will not market to the non-member in any way at any time. Additionally, these non-members have the same rights to access and correct information about themselves (assuming that their email addresses were correct enough to reach them) as anyone else who uses AlliedWallet, LTD.
-
-### C. Our Use and Disclosure of Information
-
-#### Internal Uses
-
-#### Disclosure to Other AlliedWallet, LTD Customers
-
-If you are a registered AlliedWallet, LTD user, your name, e-mail address, phone number (if applicable) date of sign-up, and whether you have verified control of a bank account are displayed to other AlliedWallet, LTD customers whom you have paid or who are attempting to pay you through AlliedWallet, LTD. If you are a Business account holder, we will also display to other AlliedWallet, LTD customers the Web site address (URL) and customer service contact information that you provide us. However, your credit card number, bank account and other financial information will NEVER be revealed to anyone whom you have paid or who has paid you through AlliedWallet, LTD, except with your express permission or if we are required to do so pursuant to a subpoena or other legal process.  
-If you are buying goods or services and paying through AlliedWallet, LTD, the seller of the goods or services may request that you provide a mailing address that AlliedWallet, LTD has confirmed as matching the billing address in the credit card system. You do not have to provide this information. If you do not provide the information, however, the seller may choose not to accept your AlliedWallet, LTD payment and not to complete the transaction.  
-We work with third party merchants to enable them to accept payments from you, including direct credit card payments. Merchants who use this service will share personally identifiable information you provide to them with AlliedWallet, LTD in order to validate the information, assess the risks of your payment, or confirm the existence or status of your AlliedWallet, LTD account. You permit AlliedWallet, LTD to share information with the merchant on the validity of the personally identifiable information you provided to the merchant, and on the existence or status of your AlliedWallet, LTD account.  
-AlliedWallet, LTD does not store the personally identifiable information provided by these merchants to validate the existence of your account.
-
-#### Disclosure to Third Parties Other Than AlliedWallet, LTD Customers
-
-AlliedWallet, LTD will not sell or rent any of your personally identifiable information to third parties. AlliedWallet, LTD will not share any of your personally identifiable information with third parties except in the limited circumstances described below, or with your express permission (and with other AlliedWallet, LTD customers as described above). These third parties are limited by law or by contract from using the information for secondary purposes beyond the purposes for which the information is shared.
-
-  * We share information with companies that help us process the transactions you request and protect our customers’ transactions from fraud, such as sharing your credit card number with a service that screens for lost and stolen card numbers. See “Information About You From Third Parties” in Section B above. Additionally, if you go into a negative balance and owe us money, we may share information with processing companies including collection agencies.
-  * We may disclose the information we collect, as described in Section B above, to companies that perform marketing services on our behalf. We may also disclose the information we collect (but not your bank account or credit card information) to other financial institutions with whom we have joint marketing agreements, in order to determine whether you are pre-approved for the products that AlliedWallet, LTD is jointly marketing with the third party. These companies are subject to confidentiality agreements with us and other legal restrictions that prohibit using the information except to market the specified AlliedWallet, LTD-related products or services, unless you have affirmatively agreed or given your prior permission for other uses.
-  * We disclose information that we in good faith believe is appropriate to cooperate in investigations of fraud or other illegal activity, or to conduct investigations of violations of our User Agreement. For example, this means that if we conduct a fraud investigation and conclude that one side has engaged in deceptive practices, we can give that person or entity’s contact information (but not bank account or credit card information) to victims who request it.
-  * We disclose information in response to a subpoena, warrant, court order, levy, attachment, order of a court-appointed receiver or other comparable legal process, including subpoenas from private parties in a civil action.
-  * When a user signs up for a co-branded version of AlliedWallet, LTD (e.g. AlliedWallet, LTD) through links to AlliedWallet, LTD from our co-branded partner’s website, AlliedWallet, LTD will share with the co-branded partner that user’s name, e-mail address and physical address in order to provide enhanced integration between AlliedWallet, LTD’s services and the services of our co-branded partner. If you do not want your information shared with AlliedWallet, LTD’s co-branded partner, you should sign up with AlliedWallet, LTD directly and not through a link from our partner’s website.
-  * We disclose information to your agent or legal representative (such as the holder of a power of attorney that you grant, or a guardian appointed for you).
-  * We share aggregated statistical data with our business partners or for public relations. For example, we may disclose that a specific percentage of our users live in California. However, this aggregated information is not tied to personally identifiable information.
-  * As with any other business, it is possible that AlliedWallet, LTD in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by AlliedWallet, LTD, including customer account information, but would continue to be bound by this Privacy Policy unless and until it is amended as described in Section A above.
-  * We share your information with our parent, subsidiaries and joint ventures to help coordinate the services we provide to you, enforce our terms and conditions, and promote trust and safety.
+  * Administration. When you open a merchant account we are legally obliged to collect personal data that verifies your identity (such as a copy of your ID card or passport) and to assess whether we can accept you or your company as a customer. We also need to know your address or phone number to contact you.
+  * Managing customer relationships. We may ask you for feedback about our products and services and share this with certain members of our staff to improve our offering. We might also use notes from conversations we have with you online, by telephone or in person to customise products and services for you.
+  * Credit risk. To assess the financial position of your company we apply specific risk models that may involve the use of personal data.
+  * Personalised marketing. We may send you letters, emails, or text messages offering you a product or service based on your personal circumstances, or show you such an offer when you log in to our website or mobile apps. You may unsubscribe from such personalised offers. You have the right, not to consent or to object to personalised direct marketing or commercial activities, including profiling related to these activities.
+  * Providing you with the best-suited products and services. When you visit our website, call our customer service centre or visit a branch, we gather information about you. We analyse this information to identify your potential needs and assess the suitability of products or services. For example, we may suggest investment opportunities suited to your profile. We analyse your payment behaviour, such as large amounts entering or leaving your account. We assess your needs in relation to key moments when a specific financial product or service may be relevant for you, such as starting your first job or buying a home. We assess your interests based on simulations you participate in on our website.
+  * Improving and developing products and services: Analysing how you use our products and services helps us understand more about you and shows us where we can improve. For instance, when you open a merchant account, we measure the time it takes until your first transaction to understand how quickly you are able to use your merchant account.
+  * We analyse data on transactions between you and our corporate customers (merchants) to offer information services. When Allied Wallet processes personal data for this purpose, aggregated data may be made available to the Allied Wallet merchant (webshop/onlineFF retailer). This merchant cannot identify you from these aggregated data.
+  * We analyse the results of our marketing activities to measure their effectiveness and the relevance of our campaigns.
+  * Preventing and detecting fraud and data security: We have a duty to protect your personal data and to prevent, detect and contain data breaches. This includes information we are obliged to collect about you, for example to comply with regulations against money laundering, terrorism financing and tax fraud. We may process your personal information to protect you and your assets from fraudulent activities, for example if you are the victim of identity theft, if your personal data was disclosed, or if you are hacked.
+  * We may use certain information about you for profiling (e.g. name, account number, age, nationality, IP address, etc.) to quickly and efficiently detect a particular crime and the person behind it.
+  * Our merchants (webshops/online retailers) may use contact and security data to secure transactions and communications made via remote channels.
+  * Internal and external reporting: We process your data for our payment operations and to help our management make better decisions about our operations and services. To comply with a range of legal obligations and statutory requirements (anti-money laundering legislation and tax legislation, for example).
 
 
 
-#### Our Contacts with AlliedWallet, LTD Customers
+Data that we process for any other reason is anonymised or we remove as much of the personal information as possible
 
-We communicate with users on a regular basis via e-mail to provide requested services, and we also communicate by phone to resolve customer complaints or investigate suspicious transactions. We use your e-mail address to confirm your opening of a AlliedWallet, LTD account, to send you notice of payments that you send or receive through AlliedWallet, LTD (including referral payments described below), to send information about important changes to our products and services, and to send notices and other disclosures required by law. Generally, users cannot opt out of these communications, but they will be primarily informational in nature rather than promotional.  
-In connection with independent audits of our financial statements and operations, the auditors may seek to contact a sample of our customers to confirm that our records are accurate. However, these auditors cannot use personally identifiable information for any secondary purposes.
+### 5\. Who we share your data with and why
 
-#### Internet Address Information
+Whenever we share personal data internally or with third parties in other countries, we ensure the necessary safeguards are in place to protect it. For this, Allied Wallet relies on: • EU Model clauses, which are standardised contractual clauses used in agreements with service providers to ensure personal data transferred outside of the European Economic Area complies with EU data protection law. • Privacy Shield framework that protects personal data transferred to the United States. 
 
-We use IP addresses, browser types and access times to analyze trends, administer the site, improve site performance and gather broad demographic information for aggregate use.
+To be able to offer you the best possible services and remain competitive in our business, we share certain data both internally as well as outside of Allied Wallet. This includes: 
 
-#### Your Use of Information and Our Services
+Allied Wallet entities – We transfer data across Allied Wallet businesses and branches for operational, regulatory or reporting purposes, for example to comply with certain laws, secure IT systems or provide certain services (see section 4 (“What we do with your personal data”). We may also transfer data to centralised storage systems or to process it globally for more efficiency. 
 
-In order to facilitate the transactions between AlliedWallet, LTD members, our service allows you limited access other users’ contact or shipping information. As a seller you may have access to the User ID, email address and other contact or shipping information of the purchaser, and as a purchaser you may have access to the User ID, email address and other contact information of the seller.  
-By entering into our User Agreement, you agree that, with respect to other users’ personally identifiable information that you obtain through the site or through an AlliedWallet, LTD-related communication or AlliedWallet, LTD-facilitated transaction, you will only use this information for: (a) AlliedWallet, LTD-related communications that are not unsolicited commercial messages, (b) using services offered through AlliedWallet, LTD (e.g. insurance, shipping and fraud complaints), and (c) any other purpose that such user expressly agrees to after adequate disclosure of the purpose(s).  
-In all cases, you must provide users with the opportunity to remove themselves from your database and review any information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personally identifiable information about another AlliedWallet, LTD user to any third party without our consent and the consent of such other user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different rights with respect to information they access  
-AlliedWallet, LTD does not tolerate spam. Therefore, without limiting the foregoing, you may not add an AlliedWallet, LTD user to your mail list (email or physical mail) without their express consent after adequate disclosure, even if said user has previously made a purchase from you. We strictly enforce our Anti-Spam Policy! To report AlliedWallet, LTD-related spam to AlliedWallet, LTD, please contact us.
+Independent sales agents – We share information with independent sales agents (referral partners) who act on our behalf. 
 
-### D. Information Security
+Government authorities – To comply with our regulatory obligations, we may disclose data to the relevant authorities, for example to counter terrorism and prevent money laundering.
 
-#### Information Security
+In some cases, we are obliged by law to share your data with external parties, including: • public authorities, regulators and supervisory bodies such as fraud protection agencies and the central banks of the countries where we operate • judicial/investigative authorities such as the police, public prosecutors, courts and arbitration/mediation bodies on their express and legal request • lawyers, for example, in case of a claim or bankruptcy, trustees who take care of other parties’ interests and company auditors.
 
-AlliedWallet, LTD is committed to handling your customer information with high standards of information security. We restrict access to your personally identifiable information to employees who need to know that information in order to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information. We test our security systems regularly and also contract with outside companies to audit our security systems and processes.  
-The security of your AlliedWallet, LTD account also relies on your protection of your AlliedWallet, LTD password. You may not share your AlliedWallet, LTD password with anyone. AlliedWallet, LTD will never ask you to send your password or other sensitive information to us in an e-mail, though we may ask you to enter this type of information on the AlliedWallet, LTD website, which will always have a URL beginning with “https://www.alliedwallet.com”.  
-Any e-mail or other communication requesting your password, asking you to provide sensitive account information via email, or linking to a website with a URL that does not begin with a “https://www.alliedwallet.com” should be treated as unauthorized and suspicious and should be reported to AlliedWallet, LTD immediately. If you do share your AlliedWallet, LTD password with a third party for any reason, including because the third party has promised to provide you additional services such as account aggregation, the third party will have access to your account and your personal information, and you may be responsible for actions taken using your password. If you believe someone else has obtained access to your password, please change it immediately by logging in to your account at AlliedWallet.com and changing your Profile settings, and also contact us right away as described in Section F below.
+Financial institutions – When funds are transferred from a payer to a payee, the transaction involves other financial institutions, banks or a specialised financial company. Allied Wallet may process payments through such other financial institutions. These external organisations may process and store your personal information abroad and we and they may have to disclose your information to foreign authorities to help them in their fight against crime and terrorism. To process payments, we have to share information about the transaction with other financial institution, such as your name and account number. We also share information with financial sector specialists who assist us with financial services like: • payments and credit transactions worldwide • processing electronic transactions worldwide • settling domestic and cross-border security transactions and payment transactions. 
 
-### E. Accessing and Changing Your Information
+Sometimes we share information with banks or financial institutions in other countries, for example when you make or receive a foreign payment. 
 
-You can review the personal information you provided us and make any desired changes to such information, or to the settings for your AlliedWallet, LTD account, at any time by logging in to your account on the AlliedWallet, LTD Web site and changing your preferences in the Profile page of the “My Account” tab. You can also close your account through the AlliedWallet, LTD Web site. If you close your AlliedWallet, LTD account, we will mark your account in our database as “Closed,” but will keep your account information in our database. This is necessary in order to deter fraud, by ensuring that persons who try to commit fraud will not be able to avoid detection simply by closing their account and opening a new account. However, if you close your account, your personally identifiable information will not be used by us for any further purposes, nor sold or shared with third parties, except as necessary to prevent fraud and assist law enforcement, or as required by law.
+Third party service providers – When we use other service providers, we only share personal data that is required for the particular task we involve the service provider for. Service providers support us with activities like: • performing certain services and operations • designing and maintenance of internet-based tools and applications • marketing activities or events and managing customer communications • preparing reports and statistics, printing materials and designing products • placing advertisements on apps, websites and social media. 
 
-### F. Contacting Us
+Business transfers – Allied Wallet may buy or sell business units or affiliates. In such circumstances, we may transfer customer information as a business asset. Without limiting the foregoing, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners. 
 
-If you have any questions about this privacy statement, AlliedWallet, LTD’s information practices, or your dealings with AlliedWallet, LTD, call [(888) 255-1137](tel:+18882551137) Monday through Friday between the hours of 10am and 6pm PST, or write us at Allied Wallet. 1 Northumberland Avenue, Trafalgar Square. London, WC2N 5BW. United Kingdom.
+With your permission – Your information may also be used for other purposes for which you give your specific permission, or when required by law or where permitted under the terms of the laws of the relevant jurisdiction. 
+
+### 6\. Cookie Policy
+
+Allied Wallet makes use of cookies and similar technologies throughout our websites to ensure your visit to our website goes smoothly. 
+
+  1. Functional cookies – These cookies may store your browser name, the type of computer and technical information about your means of connection to this website, such as the operating system and the Internet Service Providers utilized and other similar information. This information is used to technically facilitate the navigation and use of this website. In addition, functional cookies may be used to store personal settings, such as language, or to remember your information for next visits if so requested.
+  2. Analytics cookies – This website also uses analytics cookies placed by Google Analytics (including Google Tag Manager) to measure the number of visits and the parts of the website that are the most popular among our website visitors as well as for benchmarking purposes. This information is used to provide aggregated and statistical information on the use of this website and is used to improve the contents of this website to enhance your user experience. Allied Wallet has followed the manual of the Dutch Data Protection Authority in order to ensure that Google Analytics is used in a privacy friendly manner. This means that we have instructed Google to remove the last three digits of your IP-address (“Anonymize IP”) and we have disabled the standard setting to share data with Google. Furthermore, Allied Wallet has concluded a data processing agreement with Google Inc. and Allied Wallet does not use other Google services in combination with the Google Analytics-cookies.
+  3. Third-party/social media cookies – This website contains cookies from third-party websites, mainly social media cookies. When placed on your computer, they automatically activate handy extras, for example, a Facebook ‘like’ button or a Twitter messaging option. These cookies inform our website whether you are logged into such social media and they also enable you to share parts of this website on social media. When visiting this website, Allied Wallet will ask for your consent to use these cookies.
+
+
+
+Do you object to cookies?
+
+Cookies generally process your IP-address but they do not save your personal information like e-mail address or phone number. If you do not want to have cookies stored on your computer or want to remove cookies that have already been stored, you can arrange this via your browser settings. You can find more information concerning the removal of cookies on the website of the Dutch Consumer Organization and on the website all about cookies.
+
+we will also notify that party. 
+
+Right to object to processing – You can object to Allied Wallet using your personal data for its own legitimate interests. There is a list of contact details at the end of this Privacy Statement. We will consider your objection and whether processing your information has any undue impact on you that requires us to stop doing so. 
+
+You can also object to receiving personalised commercial messages from us. You cannot object to us processing your personal data if we are legally required to do so, even if you have opted out of receiving personalised commercial messages. 
+
+Right to object to automated decisions – We sometimes use systems to make automated decisions based on your personal information if this is necessary to fulfil a contract with you, or if you gave us consent to do so. You have the right to object to such automated decisions (for example requiring a new passport copy if the one we have on file for you as representative of your company is no longer valid) and ask for an actual person to make the decision instead. 
+
+Right to restrict processing You have the right to ask us to restrict using your personal data if:
+
+  * you believe the information is inaccurate;
+  * we are processing the data unlawfully;
+  * Allied Wallet no longer needs the data, but you want us to keep it for use in a legal claim; and/or
+  * you have objected to us processing your data for our own legitimate interests.
+
+
+
+Right to complain – Should you for any reason be unhappy with the way Allied Wallet treats your personal data, you can file a complaint with Allied Wallet’s Compliance Officer via compliance@AlliedWallet.com. You can also contact the data protection authority in your country. 
+
+Exercising your rights – How you can exercise your rights depends on the type of personal data Allied Wallet processes. It could be through our website, by fulfilling our KYC obligations or by processing a transaction. We aim to respond to your request as quickly as possible. 
+
+In certain cases, we may deny your request. If it’s legally permitted, we will let you know within a reasonable timeframe why we denied it. 
+
+If you want to exercise your rights or submit a complaint, please contact us via the e-mail address provided below. 
+
+### 8\. Your duty to provide data 
+
+There is certain information that we must know about you so that we can commence and execute our duties as a payment institution and fulfil our associated obligations. There is also information that we are legally obliged to collect. Without this data, we may, for example, not be able to open a payment processing account for your company. 
+
+### 9\. How we protect your personal data 
+
+We apply an internal framework of policies and minimum standards to keep your data safe. These policies and standards are periodically updated to keep them up to date with regulations and market developments. More specifically and in accordance with the law, we take appropriate technical and organisational measures (policies and procedures, IT security etc.) to ensure the confidentiality and integrity of your personal data and the way it’s processed. 
+
+In addition, Allied Wallet employees are subject to confidentiality and may not disclose your personal data unlawfully or unnecessarily.
+
+### 10\. What you can do to help us keep your data safe
+
+Unfortunately, the transmission of information via the internet in general is not always completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
+
+We do our utmost to protect your data, but there are certain things you can do too:
+
+  * install anti-virus software, anti-spyware software and a firewall on your computer and keep them updated;
+  * do not leave verification tokens or your credit card) unattended;
+  * keep your passwords strictly confidential and use strong passwords, i.e. avoid obvious combinations of letters and figures; and • be alert online and learn how to spot unusual activity, such as a new website address or phishing emails requesting personal information.
+
+
+
+### 11\. How long we keep your personal data
+
+Once you are no longer a customer, we will retain your personal information for a reasonable period, or as otherwise allowed or required by law. 
+
+### 12\. Contact us
+
+If you want to know more about Allied Wallet’s data policies and how we use your personal data, you can send us an e-mail at the following dedicated e-mail address: support@AlliedWallet.com
