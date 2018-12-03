@@ -1,132 +1,137 @@
-> *The following text is extracted and transformed from the adclerks.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230082838id_/http%3A//www.amazon.com/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adclerks.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203165503id_/https%3A//adclerks.com/privacy) for the most accurate reproduction.*
 
-# Amazon.com Help: Amazon.com Privacy Notice
+# Privacy Policy | AdClerks
 
-**Last updated: March 3, 2014.** To see what has changed, [click here](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=16015091). 
+Welcome to AdClerks' privacy policy. AdClerks respects your privacy and is committed to protecting your personal data.
 
-Amazon.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Amazon.com, you are accepting the practices described in this Privacy Notice.**
+Last modified: May 2018
 
-  * What Personal Information About Customers Does Amazon.com Gather?
-  * What About Cookies?
-  * Does Amazon.com Share the Information It Receives?
-  * How Secure Is Information About Me?
-  * What About Third-Party Advertisers and Links to Other Websites?
-  * Which Information Can I Access?
-  * What Choices Do I Have?
-  * Are Children Allowed to Use Amazon.com?
-  * Does Amazon.com Participate in the Safe Harbor Program?
-  * Conditions of Use, Notices, and Revisions
-  * Examples of Information Collected
+* * *
 
+**BY USING THIS WEBSITE YOU EXPRESSLY AGREE TO ALL OF THE TERMS AND CONDITIONS CONTAINED IN THIS POLICY.**
 
+* * *
 
-##  What Personal Information About Customers Does Amazon.com Gather? 
+### Introduction
 
-The information we learn from customers helps us personalize and continually improve your Amazon experience. Here are the types of information we gather. 
+AdClerks cares about your privacy. For this reason, we collect and use personal data only as it might be needed for us to deliver to you our website platform (the "Website") and services (collectively, our "Services"). The Services are operated by Publicity Clerks Ltd (the "Company", "we" or "us") for users of the Services ("You"). 
 
-  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
-  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Amazon.com or advertisements and other content served by or on behalf of Amazon.com on other Web sites. Click here to see examples of the information we receive. 
-  * **Mobile:** When you download or use [apps created by Amazon](https://www.amazon.com/gp/feature.html?&docId=1000511451) apps created by Amazon or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. For more information about how to do this,click here. 
-  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.amazon.com/gp/gss/ccp/ref=hp_468496_ccp) Customer Communication Preferences. 
-  * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive. 
+We have developed this Policy in order for you to understand how we collect, use, communicate, and disclose and make use of personal information. It also describes options we provide for you to access, update or otherwise take control of your personal data that we process. The following outlines our privacy policy. 
 
+If at any time you have questions about our practices or any of your rights described below, you may reach our Data Protection Officer ("DPO") and our dedicated team by contacting us at support@adclerks.com. This Email inbox is actively monitored and managed so that we can deliver an experience that you can confidently trust. 
 
+## Who are we?
 
-##  What About Cookies? 
+AdClerks is run by Publicity Clerks Ltd, a business registered in England with company number 10224325. Our office address is Suite 240 50, Eastcastle Street, London, United Kingdom, W1W 8EA. 
 
-  * Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features such as [1-Click](https://web.archive.org/gp/help/customer/display.html?nodeId=468480) purchasing, [Recommended for You](https://www.amazon.com/gp/yourstore/nr/ref=hp_468496_recommended) Recommended for You, personalized advertisements on other Web sites (e.g., Amazon Associates with content served by Amazon.com and Web sites using Checkout by Amazon payment service), and storage of items in your Shopping Cart between visits. 
-  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. 
+## What information do we collect?
 
+When you interact with us through the Services, we may collect information from you, as further described below: 
 
+**a. Information you provide:** We collect information from you when you voluntarily provide such information, such as when you register for access to the Services or use certain Services. Information we collect may include but not be limited to username, real name, email address, mobile phone number, and any other content you upload to our Website. 
 
-##  Does Amazon.com Share the Information It Receives? 
+**b. Automatically collected information:** When you interact with us through the Services, we receive and store certain information such as an IP address, device ID, and your activities within the Services. Logging when you access the Services and from where, allows us to better understand our users and keep your account safe. 
 
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
+**c. Aggregated information:** In an ongoing effort to better understand and serve the users of the Services, we may conduct research on our customer demographics, interests and behaviour based on the information collected. We may also disclose aggregated and anonymized user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes. 
 
-  * **Affiliated Businesses We Do Not Control:** We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Amazon.com or sell offerings to you at Amazon.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. Click here for some examples of co-branded and joint offerings. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party. 
-  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
-  * **Promotional Offers:** Sometimes we send offers to selected groups of Amazon.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Customer Communication Preferences](https://www.amazon.com/gp/gss/ccp/ref=hp_468496_ccp2) Customer Communication Preferences. 
-  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
-  * **Protection of Amazon.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=508088) and other agreements; or protect the rights, property, or safety of Amazon.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
-  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+**d. Cookies:** Like almost all online websites we employ cookies and similar technologies to keep track of your local device's settings and which account you are logged into. Cookies are small pieces of data that websites and services can set on your browser or device that can be read at a later date. In addition to Cookies we may also use web beacons and single pixel gifs to log Email opens.  
+See our [Cookies Policy](http://adclerks.com/cookie-policy) for more information. 
 
+**e. Cookies (third party):** We use third party web site analytic tools such as Google Analytics on our Website that employ cookies to collect certain information concerning your use of our Services. However, you can disable cookies by changing your browser settings. Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider's website via your help screen.  
+We have specifically instructed Google to not share your information with their third parties.  
+We use IP Anonymization on Google Analytics.  
+See our [Cookies Policy](http://adclerks.com/cookie-policy) for more information. 
 
+## Why do we process your personal data & how will it be used
 
-##  How Secure Is Information About Me? 
+We need to process your personal data for delivering, improving, updating, and enhancing the Services we provide to you.  
+We strongly believe in both minimising the data we collect and limiting its use and purpose to only that (1) for which we have been given permission, (2) as necessary to deliver the Services you purchase or interact with, or (3) as we might be required or permitted for legal compliance or other lawful purposes. 
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
-  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. [Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=201293120) for more information on how to sign off. 
+We use the information you provide in a manner that is consistent with this Privacy Policy. If you provide information for a certain reason, we may use the information in connection with the reason for which it was provided. 
 
+## Our legal basis for processing your personal data.
 
+**a. Contractual necessity - Providing you with our Services:** We handle personal data on this basis to create your account and provide our Services. 
 
-##  What About Third-Party Advertisers and Links to Other Websites? 
+**b. Legitimate interests:** We process your personal data on the basis of legitimate interests in ways that are not overridden by the interests or fundamental rights and freedoms of individuals. Including: 
 
-Our site includes third-party advertising and links to other Web sites. For more information about third-party advertising at Amazon.com, including personalized or interest-based ads, please read our [Interest-Based Ads](https://www.amazon.com/interestbasedads) Interest-Based Ads policy. 
-
-##  Which Information Can I Access? 
-
-Amazon.com gives you access to a broad range of information about your account and your interactions with Amazon.com for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples, the list of which will change as our Web site evolves. 
-
-##  What Choices Do I Have? 
-
-  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.com features as [Your Profile](https://www.amazon.com/gp/pdp/ref=hp_468496_profile) Your Profile, [Wish Lists](https://www.amazon.com/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist) Wish Lists, [Customer Reviews](https://web.archive.org/gp/help/customer/display.html?nodeId=200791000), and [Amazon Prime](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=13819211). 
-  * You can add or update certain information on pages such as those referenced in the Which Information Can I Access? section. When you update information, we usually keep a copy of the prior version for our records. 
-  * If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.amazon.com/gp/gss/ccp/ref=hp_468496_ccp3) Customer Communication Preferences. (If you do not want to receive [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=508088) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.com, and it is your responsibility to review them for changes.) 
-  * If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your [Advertising Preferences](https://www.amazon.com/gp/dra/info/ref=hp_468496_advertisingpref2) Advertising Preferences. 
-  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. 
+  * Providing a safe and secure Website
+  * Marketing - sending Emails to inform you of features or offers
+  * Account security - sending SMS two factor verification text messages
+  * Protecting our users, servers, and services
+  * Analysing and improving our Services to you
+  * Processing legal requirements
 
 
 
-##  Are Children Allowed to Use Amazon.com? 
+**c. Consent:** Handling data freely given by clear affirmative action. You have a right to withdraw consent, which must be brought to our attention. 
 
-Amazon.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon.com only with the involvement of a parent or guardian. 
+## Our disclosure of your information
 
-##  Does Amazon.com Participate in the Safe Harbor Program? 
+We will never disclose your information unlawfully. AdClerks is not in the business of selling your data. There are however some circumstances in which we may share your information with certain third parties, as set forth below: 
 
-Amazon.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. We have certified that we adhere to the Safe Harbor Privacy [Principles](https://export.gov/safeharbor/eu/eg_main_018475.asp) Principles agreed upon by the U.S. and (1) the E.U. and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor](https://www.export.gov/safeharbor) U.S. Department of Commerce's Safe Harbor Web site. 
+**a. Business transfers:** As our business grows we might sell or buy businesses or assets. In the event of our take over, merger, corporate sale, reorganization, bankruptcy or similar, your information may be part of the transferred assets. 
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, we endeavor to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to safeharbor@amazon.com.
+**b. Legal requirements:** We may disclose your information if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of the Company or Related Companies, (iii) protect the personal safety of users of the Services or the public, or (iv) protect against legal liability. 
 
-Under the Safe Harbor program, any unresolved privacy complaints can be referred to an independent dispute resolution mechanism. We use the BBB EU Safe Harbor Program, which is operated by the Council of Better Business Bureaus. If you feel that we have not satisfactorily addressed your complaint, you can visit the BBB EU Safe Harbor Program web site at [www.bbb.org/us/safe-harbor-complaints](https://www.bbb.org/us/safe-harbor-complaints) www.bbb.org/us/safe-harbor-complaints for more information on how to file a complaint.
+**c. Google Analytics:** We utilize Google Analytics for website visitor tracking and analysis.   
+We have specifically instructed Google to not share your information with their third parties.  
+We use [IP Anonymization](https://support.google.com/analytics/answer/2763052?hl=en) on Google Analytics. 
 
-##  Conditions of Use, Notices, and Revisions 
+**d. Trusted third parties:** See below "Sharing your personal data with trusted third parties". 
 
-If you choose to visit Amazon.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=508088), including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=508088) will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+## Sharing your personal data with trusted third parties
 
-Related Practices and Information 
+We will never sell or share your personal data to any third party unlawfully.   
+We may share your personal data with trusted third party service providers as necessary for them to perform services on our behalf, such as: 
 
-  * [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=508088)
-  * [Discussion Boards](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_discussion?nodeId=14279661)
-  * [Community Rules](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_crules?nodeId=537776) Community Rules
-  * [Help department](https://www.amazon.com/gp/browse.html/ref=hp_468496_help?node=508510) Help department 
-  * [Most Recent Purchases](https://www.amazon.com/your-orders) Most Recent Purchases
-  * [Your Profile and Community Guidelines](https://www.amazon.com/gp/browse.html/ref=hp_468496_yourprofile?node=14279631) Your Profile and Community Guidelines
+  * Communicating with you, such as by way of email or SMS text message
+  * Customer relationship management
+  * Website analytics
 
 
 
-##  Examples of Information Collected 
+We only share your personal data as necessary for any third party to provide the services as requested or as needed on our behalf. These third parties (and any subcontractors) are subject to strict data processing terms and conditions and are prohibited from utilising, sharing or retaining your personal data for any purpose other than as they have been specifically contracted for (or without your consent). 
 
-**Information You Give Us**
+## How do we store your data, and for how long?
 
-You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Amazon.com or one of our third-party sellers; provide information in [Your Account](https://www.amazon.com/gp/css/homepage.html/ref=hp_468496_youraccount) Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us) or [Your Profile](https://www.amazon.com/gp/pdp/profile/) Your Profile; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; use our services such as [Amazon Instant Video](https://www.amazon.com/Instant-Video/b/?node=2858778011) Amazon Instant Video; compile [Wish Lists](https://www.amazon.com/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist2) Wish Lists or other gift registries; participate in [Discussion Boards](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_discussion?nodeId=14279661) or other community features; provide and rate [Reviews](https://www.amazon.com/gp/help/customer/display.html/?nodeId=200791000); and employ [Product Availability Alerts](https://web.archive.org/gp/help/customer/display.html?nodeId=569162), such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; people (with addresses and phone numbers) listed in [1-Click](https://www.amazon.com/gp/browse.html/ref=hp_468496_1click2?node=468482) settings; e-mail addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in [Your Profile](https://www.amazon.com/profile) Your Profile; and financial information, including Social Security and driver's license numbers. 
+AdClerks is based in the United Kingdom but also operates server infrastructure in the United States. No matter where you are located you consent to the processing and transferring of your information in and to the United States from the EU/UK. We follow all applicable data protection laws. We follow generally accepted standards to store and protect the personal data we collect, both during transmission and once received and stored, including utilisation of encryption where appropriate. 
 
-**Automatic Information**
+We generally retain personal data for so long as it may be relevant to the purposes identified herein. To dispose of personal data, we may anonymize it, delete it or take other appropriate steps. Data may persist in copies made for backup and business continuity purposes for additional time. 
 
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features like [Top Sellers](https://www.amazon.com/exec/obidos/tg/new-for-you/top-sellers/-/main/ref=hp_468496_topsellers2) Top Sellers; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes. 
+If you utilise our Services from a country other than the country where our servers are located, your communications with us may result in transferring your personal data across international borders. 
 
-**Mobile**
+## Understanding your rights: Access, update, or delete your data
 
-Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. For information about specific devices, [click here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_turnofflbs?nodeId=200903520) [click here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_turnofflbs?nodeId=200903520&pop-up=1). If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer. 
+You can update most of your data by accessing your Account Settings. You can also unsubscribe from certain emails by clicking the unsubscribe link they contain, or by visiting Communication Settings under your Account Settings. 
 
-**Information from Other Sources**
+You may **close your account** at any time and for any reason by sending an email to support@adclerks.com.  
+**To access, update, or delete your data** you must do a submit a data access request. Do so directly by Emailing us at support@adclerks.com, with the subject "Personal Data Request". We will then start the process within 30 days.  
+**Object or restrict** the processing of your data by contacting us at support@adclerks.com. 
 
-Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information from some searches conducted through the Web search features offered by our subsidiary, Alexa Internet; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers. 
+If you make a request to delete your personal data and that data is necessary for the products or Services you have purchased, the request will be honoured only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements. 
 
-**Co-branded and Joint Offerings**
+## Raising a complaint
 
-Examples of businesses with which we offer joint or co-branded products and other offerings include Starbucks, OfficeMax, Verizon Wireless, Sprint, T-Mobile, AT&T, J&R Electronics, Eddie Bauer and Northern Tool + Equipment. 
+You have the right to lodge a complaint with the relevant supervisory authority. We would be grateful if you could please contact us first - we will do our very best to resolve your concern. 
 
-**Information You Can Access**
+## Unsolicited information
 
-Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings); payment settings (including credit card information and promotional certificate and gift card balances); e-mail notification settings (including Product Availability Alerts, Delivers, and newsletters); Recommendations (including Recommended for You and Improve Your Recommendations); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Seller accounts; and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders, personal profile, and Wish List). 
+In the event you provide us with ideas or suggestions for new or existing products or services, and other unsolicited submissions (collectively, "Unsolicited Information") they will be deemed non-confidential and we shall be free to act on, reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution. 
+
+## Links to other websites
+
+This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by us (the "Third Party Sites"). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that we endorse or have reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies. 
+
+## Changes to this privacy policy
+
+Although most changes are likely to be minor, We may change this policy from time to time, and at Our sole discretion. We encourage visitors to frequently check this page for any changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+
+## Age restrictions
+
+Our Services are available for purchase only for those over the age of 16. Our Services are not targeted to, intended to be consumed by, or designed to entice individuals under the age of 16. If you know of or have reason to believe anyone under the age of 16 has provided us with any personal data, please contact us. 
+
+## Contacting us
+
+Please also feel free to contact us if you have any questions about this Privacy Policy at support@adclerks.com  
+We will respond to all requests, inquiries, or concerns within 30 days. 
