@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fluxmagazine.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728142054id_/http%3A//www.fluxmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluxmagazine.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203191820id_/http%3A//www.fluxmagazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Flux Magazine
+# Privacy Policy – Flux Magazine
 
 **Flux Magazine Privacy Policy – Website Privacy Policy  
 **
@@ -27,5 +27,3 @@ If you are aged 16 or under, please get your parent/guardian’s permission befo
 
 **Flux Magazine Privacy Policy – standard privacy policy – a standard privacy policy for website  
 **
-
-This website uses cookies to improve your experience. You can opt-out if you wish. By continuing to browse this site you agree that you accept our Cookies Policy. [Read More](http://www.fluxmagazine.com/cookies-policy/)
