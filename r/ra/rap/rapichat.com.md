@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapichat.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602201940id_/http%3A//rapichat.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapichat.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203082436id_/http%3A//rapichat.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # RapiChat.com Global Social Network | Privacy Policy
 
@@ -23,6 +23,8 @@ We collect several different types of information for various purposes to provid
 ### Types of Data Collected
 
 #### Personal Data
+
+We use first-party and third-party cookies to compile aggregate data about site traffic and site interaction so we can optimize our website and create a better user experience for you.
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
