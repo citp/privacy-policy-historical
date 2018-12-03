@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiraxsarco.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630032016id_/http%3A//www.spiraxsarco.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiraxsarco.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203202130id_/http%3A//www.spiraxsarco.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Spirax Sarco
 
@@ -140,7 +140,7 @@ Gloucestershire
 GL53 8ER  
 United Kingdom  
 Tel: +44 (0) 1242 521361  
-Email: [gdpr.breach@uk.spiraxsarco.com](mailto:gdpr.breach@uk.spiraxsarco.com)
+Email: [dpo@uk.spiraxsarco.com](mailto:dpo@uk.spiraxsarco.com)
 
 12.2    Alternatively, you may contact the Information Commissioners Officer (ICO) directly who are the body responsible for managing data protection compliance in the UK. You can contact the ICO at the following address:
 
@@ -167,4 +167,4 @@ Gloucestershire
 GL53 8ER  
 United Kingdom  
 Tel: +44 (0) 1242 521361  
-Email: [gdpr.breach@uk.spiraxsarco.com](mailto:gdpr.breach@uk.spiraxsarco.com)
+Email: [dpo@uk.spiraxsarco.com](mailto:dpo@uk.spiraxsarco.com)
