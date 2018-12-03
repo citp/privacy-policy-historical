@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetelegraph.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604034220id_/https%3A//www.thetelegraph.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetelegraph.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203135341id_/https%3A//www.thetelegraph.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Alton Telegraph
 
@@ -62,7 +62,7 @@ Read more here.
   * We use a variety of security technologies and procedures to help protect information from unauthorized access, use or disclosure.
   * The Digital Services are operated from the United States. Information may be processed and stored in the United States or other countries.
   * The Digital Services are not intended for use by children under the age of 13.
-  * This Privacy Notice is part of the [Terms of Use](https://web.archive.org/web/20180604034220id_/https://www.thetelegraph.com/termsandconditions), which govern your use of the Digital Services and any disputes related to your use of the Digital Services (including our use of your information) will be resolved per the dispute resolution provision in the Terms of Use.
+  * This Privacy Notice is part of the [Terms of Use](https://web.archive.org/web/20181203135341id_/https://www.thetelegraph.com/termsandconditions), which govern your use of the Digital Services and any disputes related to your use of the Digital Services (including our use of your information) will be resolved per the dispute resolution provision in the Terms of Use.
 
 
 
@@ -237,7 +237,7 @@ The technologies used to deliver ads on websites and mobile apps differ. Please 
 
   1. **Disabling Cookies.** Most browsers accept cookies by default. You may be able to change the settings to have your browser refuse certain cookies or notify you before accepting cookies. 
     * If you choose to disable the use of cookies in your web browser, some features of the Digital Services may become difficult to use or unavailable.
-  2. **Opt-out Cookies.** You can follow the instructions provided by the Digital Advertising Alliance (“DAA”) [here](https://web.archive.org/web/20180604034220id_/https://www.thetelegraph.com/privacy-policy/www.aboutads.info) and/or the Network Advertising Initiative (“NAI”) [here](http://optout.networkadvertising.org/) to place an opt-out cookie on your browser. These opt-out cookies enable you to block participating companies from installing future cookies on your computer or browser. 
+  2. **Opt-out Cookies.** You can follow the instructions provided by the Digital Advertising Alliance (“DAA”) [here](http://optout.aboutads.info/) and/or the Network Advertising Initiative (“NAI”) [here](http://optout.networkadvertising.org/) to place an opt-out cookie on your browser. These opt-out cookies enable you to block participating companies from installing future cookies on your computer or browser. 
     * If you place opt-out cookies but subsequently clear or delete cookies on your computer or device browser, your opt-out cookies may be deleted and you may have to renew your opt- out choices for that specific browser.
     * The opt-out mechanisms offered by the DAA and NAI are provided by third parties. Hearst does not control or operate these mechanisms or the choices provided through these mechanisms.
 
@@ -294,7 +294,7 @@ This Privacy Notice does not apply to web pages hosting our careers or job oppor
 
 ### L. DISPUTE RESOLUTION/TERMS OF USE
 
-Any dispute concerning the Digital Services (including our use of your personal information) will be resolved per the dispute resolution provision in the [Terms of Use](https://web.archive.org/web/20180604034220id_/https://www.thetelegraph.com/termsandconditions), which govern your use of the Digital Services. Please take a few minutes to read the Terms of Use before using the Digital Services.
+Any dispute concerning the Digital Services (including our use of your personal information) will be resolved per the dispute resolution provision in the [Terms of Use](https://web.archive.org/web/20181203135341id_/https://www.thetelegraph.com/termsandconditions), which govern your use of the Digital Services. Please take a few minutes to read the Terms of Use before using the Digital Services.
 
 ### M. CHANGES TO THIS PRIVACY NOTICE
 
