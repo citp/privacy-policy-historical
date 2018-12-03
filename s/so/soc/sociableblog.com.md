@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sociableblog.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705233002id_/http%3A//www.sociableblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociableblog.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203124636id_/http%3A//www.sociableblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SociableBlog
 
@@ -52,7 +52,7 @@ Based upon the Personal Information you provide us we will send you a welcoming 
 
 We share aggregated demographic information about our visitors and the world of weblogs in general with our partners and advertisers. This information does not identify individual visitors or members. We do not link aggregate visitor or member data with Personal Information.
 
-If users choose to display their membership information because they have claimed a blog, their user name, blog(s), blogroll(s), vCard(s), hCard(s), and/or Friend Of A Friend files and member photos will be shown as associated with their blog to other users on the SociableBlog.com Sites. Members who do not claim blogs will never have their membership information shown or attached to a blog on the external website. Any member’s information outside of these six kinds of information (user name, blog(s), blogroll(s), vCard(s), hCard(s), and/or Friend Of A Friend files and member photos), including other information from the membership form or any emailed information we receive from members, will not be shared outside the company, except as aggregated statistics, or as required by law. We do not share any individual user information with any of our business partners or outside vendors without permission. We may share aggregated statistics with business partners or outside vendors without permission. 
+If users choose to display their membership information because they have claimed a blog, their user name, blog(s), blogroll(s), vCard(s), hCard(s), and/or Friend Of A Friend files and member photos will be shown as associated with their blog to other users on the SociableBlog.com Sites. Members who do not claim blogs will never have their membership information shown or attached to a blog on the external website. Any member’s information outside of these six kinds of information (user name, blog(s), blogroll(s), vCard(s), hCard(s), and/or Friend Of A Friend files and member photos), including other information from the membership form or any emailed information we receive from members, will not be shared outside the company, except as aggregated statistics, or as required by law. We do not share any individual user information with any of our business partners or outside vendors without permission. We may share aggregated statistics with business partners or outside vendors without permission.
 
 We may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples of such services include sending email, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service
 
@@ -60,7 +60,7 @@ We reserve the right to disclose your Personal Information when we believe in go
 
 #### Security and Confidentiality
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
 #### Choice/Opt-out
 
