@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the socialjustice.nic.in privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604093820id_/http%3A//www.socialjustice.nic.in/UserView%3Fmid%3D1379) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialjustice.nic.in privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203165754id_/http%3A//socialjustice.nic.in/UserView%3Fmid%3D1379) for the most accurate reproduction.*
 
 # Privacy Policy : Ministry of Social Justice and Empowerment - Government of India
 
-Monday, June 4, 2018 18:25:09 IST   
+Monday, December 3, 2018 18:25:09 IST   
   
 As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.
 
@@ -36,8 +36,8 @@ Note:- If the script is disabled, PDF preview function will get affected in some
 
 This page is maintained by
 
-Name : Rashmi Chowdhary
+Name : Arvind Pareek
 
-Email : rashmi.edu@nic.in
+Email : an.pareek@nic.in
 
-Phone No : 01123384259
+Phone No : 01123073567
