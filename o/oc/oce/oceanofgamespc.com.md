@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oceanofgamespc.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204151759id_/http%3A//oceanofgamespc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanofgamespc.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203090201id_/http%3A//oceanofgamespc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Ocean of Games
+# Privacy Policy - Ocean of Games
 
-Thursday, September 22, 2016
+Monday, December 19, 2016
 
 This Privacy Policy governs the manner in which Ocean of Games collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://oceanofgames.com/](http://oceanofgamespc.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Ocean of Games.
 
@@ -60,5 +60,4 @@ By using this Site, you signify your acceptance of this policy and [terms of se
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Ocean of Games](http://oceanofgamespc.com/)  
-<http://oceanofgames.com/>http://oceanofgamespc.com/
+[OceanofGames](http://oceanofgamespc.com/) or [oceanofgamespc.com](http://oceanofgamespc.com/)
