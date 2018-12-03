@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peanutsmovie.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214202051id_/http%3A//www.foxmovies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peanutsmovie.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203160420id_/https%3A//www.foxmovies.com/privacy-policy) for the most accurate reproduction.*
 
 # 20th Century Fox
 
@@ -16,7 +16,7 @@ Effective November 10, 2017
 
 
 
-## INTRODUCTION:
+## 1\. INTRODUCTION
 
   
 Fox Filmed Entertainment Group (“Fox FE” or “we”), which includes Twentieth Century Fox Film Corporation, Fox Searchlight Pictures, Inc. and Twentieth Century Fox Home Entertainment LLC, wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “Fox FE Services”). By using Fox FE Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Company Affiliates”) is available at  
@@ -33,7 +33,7 @@ the Fox FE Services are for a general audience, are not targeted to children, an
 This Privacy Policy applies to all users, including both those who use the Fox FE Services without being registered with or subscribing to a Fox FE Service and those who have registered with or subscribed to a Fox FE Service. This Privacy Policy applies to Fox FE’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Fox FE’s practices for handling non-personal information (for example, interests, demographics and services usage).   
 
 
-## COLLECTION OF INFORMATION:
+## 2\. COLLECTION OF INFORMATION
 
   
 Fox FE and our service providers collect the following information from and about you:   
@@ -95,7 +95,7 @@ Do Not Track Signals.
 At this time we do not respond to browser 'Do Not Track' signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted.  
 
 
-## USE AND DISCLOSURE:
+## 3\. USE AND DISCLOSURE
 
   
 We use the information we collect from and about you to provide the Fox FE Services and features to you, including: to measure and improve those Fox FE Services and features and to develop new products and services; to improve your experience with both online and off-line Fox FE Services by delivering content you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests, other promotions, or rewards programs; to provide you with customer support and to respond to inquiries. In order to provide you with content and advertising that is more interesting and relevant to you, we may use the information from and about you to make inferences and predictions about your potential areas of interest. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties, to the extent permitted by applicable law.   
@@ -173,7 +173,7 @@ To complete a merger or sale of assets.
 If Fox FE sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business (including in connection with a bankruptcy or similar proceedings), Fox FE may transfer your information to the party or parties involved in the transaction as part of that transaction.   
 
 
-## SECURITY:
+## 4\. SECURITY
 
   
 Fox FE uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.   
@@ -182,7 +182,7 @@ Fox FE uses commercially reasonable administrative, technical, personnel and phy
   
 
 
-## USER ACCESS AND CONTROL:
+## 5\. USER ACCESS AND CONTROL
 
   
 If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in Section 7. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable.   
@@ -202,7 +202,7 @@ If you are under 18 and a registered user of the Fox FE Services, you may ask us
 Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user.  
 
 
-## OTHER IMPORTANT INFORMATION:
+## 6\. OTHER IMPORTANT INFORMATION
 
   
 **  
@@ -254,7 +254,7 @@ Sensitive Information.
 We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Fox FE Services or otherwise.  
 
 
-## CONTACT US:
+## 7\. CONTACT US
 
 If you have questions about this Privacy Policy, please contact us at:   
 
