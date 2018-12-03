@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkmailapp.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525194613id_/https%3A//sparkmailapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkmailapp.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203014845id_/https%3A//sparkmailapp.com/privacy) for the most accurate reproduction.*
 
 # The best email app for iPhone, iPad and Mac | Spark
 
@@ -50,7 +50,7 @@ We do not use your data for marketing purposes.
 
 **Some of your email contacts:** Spark Smart Notifications will send you push notifications only for important messages from real people. To block push notifications for promotional newsletters and automatic emails, we need to keep the “whitelist” of senders for push notifications. We’ll sync this “whitelist” of contacts to our server to enable Smart Notifications. If you decide not to use Smart Notifications, we will never sync your email contacts.
 
-**Logs:** We collect this information for fraud prevention and potential unauthorized access to your personal information, ensuring the technical availability and security of the App. The server that hosts the App may record requests your device makes to the server, the details on device and browser you use, your IP address, date and time of access, city and country, operating system, browser type, mobile network information. This data is used only for technical purposes – that is, to ensure the proper functioning and security of the App and to investigate possible security incidents.
+**Logs:** We collect this information to prevent fraud and potential unauthorized access to your personal information, ensuring the technical availability and security of the App. The server that hosts the App may record requests your device makes to the server, the details on device and browser you use, your IP address, date and time of access, city and country, operating system, browser type, mobile network information. This data is used only for technical purposes – that is, to ensure the proper functioning and security of the App and to investigate possible security incidents.
 
 **Cookie information:** This information is necessary for the Spark for Teams administration portal. Cookies allows us to identify you as a member of the team and prevent unauthorized access to your team administration portal by other users. All of this information is stored locally on your device.
 
@@ -98,9 +98,7 @@ As an alternative to the browser add-on or within browsers on mobile devices, yo
 
 For further information on Google Analytics please refer to: <http://www.google.com/analytics/terms/>, <https://support.google.com/analytics/answer/6004245?hl=en> and [https://policies.google.com/privacy?hl=en&gl=en](https://policies.google.com/privacy?hl=en&gl=en)
 
-In order to better understand general usage patters for our Product, we use a third-party tool of Amplitude, Inc, 501 2nd Street, San Francisco, CA 94107, called Amplitude (see https://amplitude.com/privacy). Amplitude is an analytics software tool, which helps us improve our Service by providing statistical patterns of our product use. This tool does not provide us with any additional personal data about you or your behavior online.
-
-Our Apps use Facebook SDK of Facebook 1 Hacker Way, Menlo Park ([https://developers.facebook.com/docs/ios](https://developers.facebook.com/docs/ios/), [https://developers.facebook.com/policy](https://developers.facebook.com/policy/)) to analyze sources of app installations and how you use the app. Facebook SDK and Analytics is a service which helps us to improve ours Service by better understanding general app usage patterns.
+In order to better understand general usage patterns for our Product, we use a third-party tool of Amplitude, Inc, 501 2nd Street, San Francisco, CA 94107, called Amplitude (see https://amplitude.com/privacy). Amplitude is an analytics software tool, which helps us improve our Service by providing statistical patterns of our product use. This tool does not provide us with any additional personal data about you or your behavior online.
 
 Email messages sent by us via third-party services like MailChimp or CampaignMonitor may contain tracking pixel which helps us collect statistics on delivery and opening rates of our correspondence. These pixels do not provide us with any additional personal data about you or your behavior online. You can disable image rendering in your email client which will deactivate this feature, however you will be unable to see any images within other received emails.
 
@@ -125,7 +123,7 @@ Depending on the type, your personal data is stored either until you delete the 
 
 **Type of information** | **Length of storage**  
 ---|---  
-Email address, email content for Spark Services, mail server credentials, APNS device token, App token assigned by us, device info | 3 months after deletion of your account  
+Email address, email content for Spark Services, mail server credentials, APNS device token, App token assigned by us, device info | 3 months after deletion of your email account from Spark on all devices  
 Recent messages from your inbox | Deleted after 4 hours  
 Emails pending in the "send later" feature, IP addresses | Deleted once the message is sent  
   
