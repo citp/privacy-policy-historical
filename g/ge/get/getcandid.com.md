@@ -1,16 +1,33 @@
-> *The following text is extracted and transformed from the getcandid.com privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805184137id_/https%3A//www.getcandid.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcandid.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203031527id_/https%3A//www.getcandid.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-By accessing the Candid website ("Site") or using the other features, content or applications offered by Candid ("Services") you agree and acknowledge to be bound by this Privacy Policy (“Policy”). Your use of the Candid Site or Services and any personal information you provide on the Site or Services, remains subject to the terms of this Privacy Policy and our Terms of Use.
+By accessing the Candid platform ("Site") or using the other features, content or applications offered by Candid ("Services") you agree and acknowledge to be bound by this Privacy Policy (“Policy”). Your use of the Candid Site or Services and any personal information you provide on the Site or Services remains subject to the terms of this Privacy Policy and our Terms of Use.
 
 We reserve the right to update or modify this Privacy Policy at any time, without prior notice, by posting the revised version of this Privacy Policy behind the link marked “Privacy Policy” at the bottom of each page of this Site. Your continued use of the Site and the Services after we have posted the revised Privacy Policy constitutes your agreement to be bound by the revised Privacy Policy. If you do not agree to abide by these or any future Policy, please do not use or access the Site or Services.
 
 You may access the current version of the Privacy Policy at any time by clicking the link marked “PRIVACY” at the bottom of each page of this Site.
 
-This Privacy Policy was last revised on February 5, 2016.
+This Privacy Policy was last revised on May 25, 2018.
 
-If you have any questions or comments about this Privacy Policy or about our use of your personally identifiable information, please contact us at admin@getcandid.com or you can contact us at: Candid, 639 Queen Street West, 3rd Floor, Toronto, ON, M5V 2B7.
+If you have any questions or comments about this Privacy Policy or about our use of your personally identifiable information, please contact us at privacy@getcandid.com or by mail at: Candid™ 720 King St W, Suite 461 Toronto, ON CANADA M5V 3S5.
+
+## Users and Customers from the EU/EEA
+
+All EU-based individuals, irrespective of their nationality, have certain individual rights under the GDPR, these include:
+
+  * **The right to be informed** about the [collection and use](https://support.getcandid.com/support/solutions/articles/12000044919-gdpr-compliance) of their personal data.
+  * **The right of access** to find out that is stored about them.
+  * **The right to rectification** of their personal data if it is inaccurate or incomplete.
+  * **The right to erasure** to enable an individual to request the deletion or removal of personal data where there is no compelling reason for its continued processing.
+  * **The right to restrict processing** to 'block' or suppress processing of personal data.
+  * **The right to data portability** allowing individuals to obtain and reuse their personal data for their own purposes across different services.
+  * **The right to object** to the processing based on legitimate interests or the performance of a task in the public interest/exercise of official authority (including profiling), direct marketing and/or for purposes of scientific/historical research and statistics.
+  * Various rights in relation to automated decision making (making a decision solely by automated means without any human involvement) and profiling (automated processing of personal data to evaluate certain things about an individual).
+
+
+
+Candid abides by GDPR and shall provide an adequate level of data protection for personal data received from the EU/EEA and processed, according the privacy protection set forth in this privacy policy. If you would like to exercise these rights, please submit a request to privacy@getcandid.com 
 
 ## Data Collection and Publishing
 
@@ -32,7 +49,7 @@ Candid may transfer personal information to those Customers on whose behalf we h
 
 ## Choice and Access to Personal Information
 
-If your personally identifiable information changes, or if you no longer desire to receive communications from us, you may correct, update, delete or deactivate your information from our records by (for Customers) logging into your account and making the appropriate changes or (for non-Customers) contacting us at privacy@Candid.com. We will respond to your request to access within 30 days.
+If your personally identifiable information changes, or if you no longer desire to receive communications from us, you may correct, update, delete or deactivate your information from our records by (for Customers) logging into your account and making the appropriate changes or (for non-Customers) contacting us at privacy@getcandid.com. We will respond to your request to access within 30 days.
 
 If you are an end user of a Customer site or have posted user-generated content with a Customer’s brand hashtags and would no longer like to be contacted by that Customer, please contact that Customer directly. If the Customer requests that Candid remove the information from our records, we will respond to its request within 30 business days.
 
@@ -90,7 +107,7 @@ We will make any legally-required disclosures of any breach of the security, con
 
 ## Phishing
 
-Do not provide any sensitive information (including your password or credit card information) via e-mail or to a Web site that does not seem to be affiliated with Candid, or that otherwise seems suspicious to you, without first reporting such request to us at admin@getcandid.com and confirming that it is a valid request from us.
+Do not provide any sensitive information (including your password or credit card information) via e-mail or to a Web site that does not seem to be affiliated with Candid, or that otherwise seems suspicious to you, without first reporting such request to us at privacy@getcandid.com and confirming that it is a valid request from us.
 
 ## Third Party Links
 
@@ -100,6 +117,6 @@ Our Site or Services may contain links to third party websites not operated or c
 
 We do not knowingly collect personal information from children under 18 unless they have obtained parental or guardian consent. If we learn that we have collected the personal information of a child under 18 without such consent, we will delete the information as soon as possible.
 
-If a parent or guardian becomes aware that his/her child has provided us with personally identifiable information without their consent, he/she should contact us at admin@getcandid.com
+If a parent or guardian becomes aware that his/her child has provided us with personally identifiable information without their consent, he/she should contact us at privacy@getcandid.com.
 
-This Privacy Policy is effective as of February 5, 2016.
+### This Privacy Policy is effective May 25, 2018
