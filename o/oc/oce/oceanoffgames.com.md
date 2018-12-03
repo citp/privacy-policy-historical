@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceanoffgames.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604185536id_/http%3A//oceanoffgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanoffgames.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203161845id_/http%3A//oceanoffgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ocean Of Games
 
@@ -62,5 +62,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 <http://oceanoffgames.com/>
 
 This document was last updated on August 27, 2013
-
-## Before you press download disable AdBlock first
