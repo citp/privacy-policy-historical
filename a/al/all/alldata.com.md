@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the alldata.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131807id_/http%3A//www.alldata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldata.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203154453id_/http%3A//www.alldata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ALLDATA
 
 ##  [ALLDATA.com Privacy Policy   
-Updated May, 2013]( "ALLDATA.com Privacy Policy")
+Updated May, 2013](https://web.archive.org/privacy-policy "ALLDATA.com Privacy Policy")
 
 Updated May, 2013
 
