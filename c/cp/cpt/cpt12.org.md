@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpt12.org privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603132331id_/https%3A//www.cpt12.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpt12.org privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203150910id_/https%3A//www.cpt12.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Colorado Public Television
 
@@ -20,17 +20,47 @@ In addition to information that you provide to us, we may also collect and store
 
 #### the way we use information
 
-CPT12 will not willfully disclose your personal information received online to any third party without first receiving your permission.
-
-CPT12 may use your personally identifiable information for the activities explained above and for internal and marketing promotional purposes.
+Colorado Public Television will not share, rent or sell your personally identifiable information. 
 
 We do not share, exchange, rent or sell any of our lists to political parties or candidates for political office.
 
-When you engage in financial transactions on cpt12.org, you may be asked for a credit card number. The server that processes your credit card information is “secure” and your credit card number will be encrypted as it passes through the Internet. Such information is also saved in an encrypted format or in internal systems that are protected by an internal “firewall” system.
+Personal information collected by Colorado Public Television is used primarily for the purpose in which it is collected: to facilitate the distribution of a newsletter, document, membership or inquiry to interested recipients. In addition, Colorado Public Television may use your information as follows:
+
+  * Information may be used in aggregate with other subscribers to review the effectiveness of our marketing programs and analyze other general demographic trends
+  * We may occasionally contact you to conduct surveys or to obtain feedback on our content, our website, industry trends or other aspects of our business
+  * To notify you of new information or services that may be of interest to you
+  * To send promotional materials
+
+
+
+If you have opted in and later desire to opt-out from further receiving the Colorado Public Television, you can make this change at any time by clicking on the unsubscribe URL embedded in our newsletter and all other marketing emails.
+
+SPAM POLICY: Colorado Public Television is strongly opposed to spam. We will only send e-mail to users that have explicitly requested to receive them. Examples may include:
+
+  * Opt-in subscribers to the Colorado Public Television E-Highlights Newsletter 
+  * Users that complete a contact form
+  * All communication will be related and relevant to what you have requested.
+
+
+
+Colorado Public Television relies on a third-party service, Mailchimp, to collect and store email addresses, and distribute our newsletter and e-alerts.
 
 #### our commitment to data security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+When you engage in financial transactions on cpt12.org, you may be asked for a credit card number. The server that processes your credit card information is “secure” and your credit card number will be encrypted as it passes through the Internet. Such information is also saved in an encrypted format or in internal systems that are protected by an internal “firewall” system.
+
+Colorado Public Television uses various marketing tools that help us create a better user experience for people visiting our site. These tools allow us to look at aggregated data such as scrolling patterns, clicks, and allow us to run tests to determine which pages result in the best actions. However, your personally identifiable information is not used by any of these tools.
+
+Colorado Public Television uses remarketing tracking cookies and conversion pixels from vendors such as Google and Facebook to present special offers to you for our products or services over the Google Content Network and via social networks. This means you may see an ad for one of our products or services as a result of visiting our website. In addition, Colorado Public Television uses custom audiences based on emails of subscribers and customers. This allows us to present special offers for our products and services to you via Facebook. However, your personally identifiable information is not used by any remarketing service other than to present you special offers from us. 
+
+The following are the remarketing tools we use:
+
+  * Facebook: [Opt-out of Facebook remarketing](https://www.facebook.com/help/568137493302217).
+  * Google: [Opt-out of Google remarketing](https://support.google.com/ads/answer/2662922?hl=en).
+
+
 
 #### our commitment to children’s privacy
 
@@ -40,16 +70,20 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 This site contains links to other sites. CPT12 is not responsible for the privacy practices or the content of such other websites.
 
-This site makes forums and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information in these areas. Also, please note that we do not accept any responsibility for the information or content presented in such areas by users.
+This site makes forums and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information in these areas. Also, please note that we do not accept any responsibility for the information or content presented in such areas by users that migrate to sites other than our own.
 
 We read every e-mail message that we receive and try to respond within two business days of receipt. If you e-mail CPT12, your message and e-mail address will be forwarded to the appropriate department within the station.
+
+LEGAL DISCLAIMER: We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our site.
 
 #### updates to the site privacy policy
 
 By using the site, you agree to the terms and conditions of this CPT12 Privacy Policy. If you do not agree, please do not use the site. We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of cpt12.org following any changes to these terms shall signify your acceptance of those changes.
 
+If we change our Privacy and Spam Policy, we will post those changes on our privacy page at https://www.cpt12.org/about/privacy-policy. If at any point we decide to use personal information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice whether or not we use their information in this new manner. By default we will use information in accordance with the Privacy and Spam Policy under which the information was collected.
+
 #### please contact us
 
 If you have any questions or concerns about this policy, please call us at 303. 296.1212 or [contact viewer services](https://web.archive.org/connect/contact-us).
 
-Privacy Policy updated August, 2014
+Privacy Policy updated May, 2018
