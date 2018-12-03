@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hboasia.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604090248id_/https%3A//hboasia.com/HBO/en-sg/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hboasia.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203165032id_/https%3A//hboasia.com/HBO/en-sg/about/privacy) for the most accurate reproduction.*
 
 # Privacy And Data Protection Policy - HBO Asia
 
@@ -37,7 +37,7 @@ We sometimes use this information to communicate with you, such as to notify you
 
 The information we collect in connection with our online community (including the internet and/or social media platforms) is used to provide an interactive experience. We use this information to facilitate participation in this online community and, from time to time, to offer you products, programs and/or services.
 
-We sometimes use the information that we collect to improve the design and content of our site and to enable us to personalize your HBOAsia.com experience. We also may use this information in the aggregate to analyze site usage and traffic, as well as to offer you products, programs, and/or services.
+We sometimes use the information that we collect to improve the design and content of our site and to enable us to personalize your HBOAsia.com experience. We also may use this information in the aggregate to analyze site and device usage and traffic, as well as to offer you products, programs, and/or services.
 
 We may disclose Personal Data in response to legal process, for example, in response to a court order. We also may disclose such information in response to a law enforcement agency's request.
 
@@ -55,9 +55,9 @@ Our site sometimes may offer content (e.g. contests or promotions) that is spons
 
 Cookies
 
-To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other Personal Data unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with Personal Data, this information may be linked to the data stored in the cookie.
+To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your web browser to store your preferences and device information. Cookies, by themselves, do not tell us your e-mail address or other Personal Data unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with Personal Data, this information may be linked to the data stored in the cookie.
 
-We use cookies to understand site usage and to improve the content and offerings on our sites.
+We use cookies to understand site and device usage and to improve the content and offerings on our sites.
 
 Our Commitment to Security
 
