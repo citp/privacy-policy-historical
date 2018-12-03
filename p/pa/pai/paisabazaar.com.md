@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paisabazaar.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523161806id_/http%3A//www.paisabazaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paisabazaar.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203031735id_/https%3A//www.paisabazaar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Paisabazaar.com
 
@@ -44,7 +44,7 @@ There are number of products/services such as loans, credit cards, mutual funds,
 
 #### We Collect Cookies 
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computers hard drive for an extended period of time. Session ID cookies may be used by PRP to track user preferences while the user is visiting the website. They also help to minimize load times and save on server processing. Persistent cookies may be used by PRP to store whether, for example, you want your password remembered or not, and other information. Cookies used on the PRP website do not contain personally identifiable information.
+A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer?s hard drive for an extended period of time. Session ID cookies may be used by PRP to track user preferences while the user is visiting the website. They also help to minimize load times and save on server processing. Persistent cookies may be used by PRP to store whether, for example, you want your password remembered or not, and other information. Cookies used on the PRP website do not contain personally identifiable information.
 
 #### Log Files 
 
@@ -82,11 +82,11 @@ Paisabazaar.com reserves the right to change this policy from time to time, at i
 #### Grievance Officer 
 
 In case you have any grievances with respect to in accordance with applicable law on Information Technology and rules made there under, the name and contact details of the Grievance Officer are provided below:   
-Mr. Ankit Gupta 
+Mr. Jagmal Singh 
 
 #### PaisaBazaar.com 
 
-Plot No. 129,  
+Plot No. 135,  
 Sector-44, Gurgaon-122001,  
 Haryana  
 Tel - 0124 - 4562900  
