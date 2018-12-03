@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the cornerstoneondemand.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911032906id_/http%3A//www.cornerstoneondemand.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornerstoneondemand.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203105607id_/https%3A//www.cornerstoneondemand.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cornerstone OnDemand
 
 ## Cornerstone Website Privacy Policy 
 
-Last updated: April 4, 2013 
+Last updated: June 5, 2016 
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use personally identifiable information (“Personal Information”) that you provide to us and to assist you in making informed decisions when using our website and services (collectively, “Cornerstone” or “Website”). 
 
-Cornerstone OnDemand complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Cornerstone OnDemand has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Cornerstone OnDemand’s certification, please visit <http://www.export.gov/safeharbor/>
+For our client data privacy policy, please see [the related page](https://web.archive.org/client-privacy-policy). 
 
 By visiting or using any part of this Website, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our Website, this Privacy Policy may change, so please check this web page for updates to our Privacy Policy. Furthermore, this Privacy Policy is incorporated into, and is a part of, this Website’s Terms of Use agreement, which also governs your use of this Website. 
 
 ### Collection of information 
 
-When you visit our Website, we may collect information regarding your visit from your computer. Such information helps us to determine information about how you found our Website, the date that you visited our Website and search engines that may have led you to our Website. We collect this information in order to continually improve and enhance the functionality of Cornerstone. 
+When you visit our Website, we may collect information regarding your visit from your computer. Such information helps us to determine information about how you found our Website, the date you visited our Website and search engines that may have led you to our Website. We collect this information to continually improve and enhance the functionality of Cornerstone. 
 
 The information you may provide us with is classified into two general types (user-provided information and website usage information), both of which are discussed in greater detail below. 
 
@@ -24,7 +24,7 @@ In order to make your visits to our Website as enjoyable as possible, we may ask
 
 ### 1\. Contact us/feedback 
 
-If you e-mail us through a "Contact us" link on our Website, we may ask you for information such as your name and e-mail address so that we can respond to your questions and comments. If you choose to correspond with us via e-mail, we may retain the content of your e-mail messages, your e-mail address and our response to you. In certain cases, and with your permission, we may post content from your e-mails to us on the Website. 
+If you e-mail us through a "Contact us" link on our Website, we may ask you for information such as your name and e-mail address so we can respond to your questions and comments. If you choose to correspond with us via e-mail, we may retain the content of your e-mail messages, your e-mail address and our response to you. In certain cases, and with your permission, we may post content from your e-mails to us on the Website. 
 
 ### 2\. Questionnaires and surveys 
 
@@ -42,85 +42,46 @@ When visiting Cornerstone, we may use cookies on or in connection with our Websi
 
 When you visit our Website, it will send a session cookie to your browser if your browser’s preferences allow this, but (to protect your privacy) your browser only permits our Website to access the cookies it has already sent to you and not the cookies sent to you by other websites. Except as otherwise set out herein, all of our cookies are necessary for the provision of our services. 
 
-The following is a list of the cookies we use and their functionality: 
+Some of the cookies we use and their functionality are included in the table below: 
 
-_Functional cookies_
+_Functional Cookies:_
 
-  * SESS0417e7da81f7eb6a74acae35aa088002 
-    * Persistent 
-    * Product: Cornerstone 
-    * Description: Session ID used for login. This is persistent in order to maintain login data across sessions. Does not contain any personal information. 
-  * has_js 
-    * Session-based 
-    * Product: Cornerstone 
-    * Description: Boolean used for javascript detection. This is for feature detection only. Does not contain any personal information. 
-  * accept_cookies 
-    * Persistent 
-    * Product: Cornerstone 
-    * Description: Boolean used to determine if a visitor has accepted cookies. Does not contain any personal information. 
+_**Name**_ | _**Purpose**_ | _**Product**_ | _**Description**_  
+---|---|---|---  
+blog-visit-count  | Persistent  | Cornerstone  | Integer used to track if user already subscribed to the blog. Does not contain any personal information.   
+last_view  | Session  | Cornerstone  | Keeps track of last blog article viewed by user in the session. Used for navigation purposes.   
+has_js  | Session  | Cornerstone  | Boolean used for javascript detection. This is for feature detection only. Does not contain any personal information.   
+  
+_Analytical  Cookies:_
 
-
-
-_Analytical cookies_
-
-  * __utma 
-    * Persistent 
-    * Product: Google Analytics 
-    * Description: This cookie is used to determine unique visitors to the site and it is updated with each page view. Additionally, this cookie is provided with a unique ID that Google Analytics uses to ensure both the validity and accessibility of the cookie as an extra security measure. Does not contain any Personal Information. 
-  * __utmb 
-    * Persistent 
-    * Product: Google Analytics 
-    * Description: This cookie is used to track the session for Google Analytics. Does not contain any Personal Information. 
-  * __utmc 
-    * Session 
-    * Product: Google Analytics 
-    * Description: This cookie is no longer used by Google Analytics to determine the session status. Does not contain any Personal Information. 
-  * __utmz 
-    * Persistent 
-    * Product: Google Analytics 
-    * Description: This cookie stores the type of referral used by the visitor to reach the site. It is used to calculate search engine traffic, ad campaigns and page navigation within the Cornerstone site. The cookie is updated with each page view. Does not contain any Personal Information. 
-  * _mkto_trk 
-    * Persistent 
-    * Product: Marketo 
-    * Description: This cookie allows us to collect information about how the site is used via e-mails. The cookies track data linked to your e-mail address and include data such as how you arrived at the site, how often you have visited it and which pages you looked at. Does not contain any Personal Information. 
-  * uuid2 
-    * Persistent 
-    * Product: ReTargeter 
-    * Description: This cookie contains a unique randomly-generated value that enables the Platform to distinguish between browsers and devices. This information is used to select advertisements for delivery by the Platform and to measure the performance of, and attribute payment for, those advertisements. Does not contain any Personal Information. 
-  * Sess 
-    * Persistent 
-    * Product: ReTargeter 
-    * Description: The sess cookie contains a single non-unique value: “1”. It is used by the Platform to test whether a browser is configured to accept cookies from AppNexus. Does not contain any Personal Information. 
-  * Anj 
-    * Persistent 
-    * Product: ReTargeter 
-    * Description: This cookie contains advertising interest segments provided by Cornerstone and other third parties. The segments are used to select advertisements for delivery on the Platform. Does not contain any Personal Information. 
-  * Trackalyzer 
-    * Persistent 
-    * Product: LeadLander 
-    * Description: This cookie is simply a unique ID used for behaviour tracking purposes. However, the process surrounding the cookie includes the collection of IP addresses and search-related data in order to evaluate visits to, and monitor use of, the Site. This cookie is persistent so that data can be linked over multiple sessions. 
-  * Loop 
-    * Persistent 
-    * Product: LeadLander 
-    * Description: Stores information about the last page visited. Does not contain any Personal Information. 
-  * ELOQUA 
-    * Persistent 
-    * Product: Eloqua 
-    * Description: This cookie is used to collect information about how visitors use our site. The cookie collects information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. Does not contain any Personal Information. 
-  * ELQSTATUS 
-    * Persistent 
-    * Product: Eloqua 
-    * Description: Status cookie. Does not contain any Personal Information. 
-
-
-
+**_Name_** | _**Purpose**_ | _**Product**_ | _**Description**_  
+---|---|---|---  
+_ar_v4  | Persistent  | AdRoll  | Uses AdRoll to provide interest-based advertisements to show our ads on other websites. The Technology to do this is made possible by cookies and as such we may place a so called "remarketing cookie" during your visit. The whole process is entirely anonymised.   
+_atuvs  | Persistent  | AdRoll  | Uses AdRoll to provide interest-based advertisments to show our ads on other websites. The technology to do this is made possible by cookies as such we may place a so called "remarketing cookie" during your visit. The whole process is entirely anonymised.   
+_atuvc  | Persistent  | AdRoll  | Uses AdRoll to provide interest-based advertisments to show our ads on other websites. The technology to do this is made possible by cookies as such we may place a so called "remarketing cookie" during your visit. The whole process is entirely anonymised.  
+_bizo_bzid  | Persistent  | Bizo (now LinkedIn)  | Uses cookies to track the anonymous business demographic information of Web users, such as their industry, job function, seniority, company size, and more. We use Bizo to better target our online campaigns, and provide a more relevant web experience to user.   
+_bizo_cksm  | Persistent  | Bizo (now LinkedIn)  | Uses cookies to track the anonymous business demographic information of Web users, such as their industry, job function, seniority, company size, and more. We use Bizo to better target our online campaigns, and provide a more relevant web experience to user.  
+_bizo_np_stats  | Persistent  | Bizo (now LinkedIn)  | Uses cookies to track the anonymous business demographic information of Web users, such as their industry, job function, seniority, company size, and more. We use Bizo to better target our online campaigns, and provide a more relevant web experience to user.  
+_ga  | Persistent  | Google Analytics  | Used to distinguish users.   
+_gat  | Persistent  | Google Analytics  | Used to throttle requet rate   
+_mkto_trk  | Persistent  | Marketo  | Allows us to collect information about how the site is used via e-mails. The cookies track data linked to your e-mail address and includes data such as how you arrived at the site, how often you have visited the site, and which pages you viewed. Does not contain any Personal Information.   
+optimizelyBuckets  | Persistent  | Optimizely  | Used to store the different versions of a web page variants for better comparison and performance testing and to ensure the user gets a consistent experience.   
+optimizelyEndUserId  | Persistent  | Optimizely  | Contains the end user's unique identifier. Used by Optimizely to track information per user. This cookie has an expiration time of ten years to ensure an end user will continue to be properly identified and thus prevent duplicated data even over long periods.   
+optimizelyPendingLogEvents  | Persistent  | Optimizely  | Used to cache a user's actions between tracking calls. The cookie is wiped when the tracking call is made. This is to ensure all events are tracked even if the user is committing actions in rapid succession.   
+optimizelySegments  | Persistent  | Optimizely  | Performance of the user's experience and the appearance of the site.   
+trackalyzer  | Persistent  | LeadLander  | Unique ID used for behavior tracking purposes. The cookie includes the collection of IP addresses and search-related data in order to evaluate visits to, and monitor use of, the Site. This cookie is persistent so that data can be linked over multiple sessions.   
+_utma  | Persistent  | Google Analytics  | Keeps track of the number of times a visitor has been to the site pertaining to the cookie, when their first visit was, and when their last visit occurred.   
+_utmc  | Session  | Google Analytics  | Takes a timestamp of the exact moment in time when a visitor leaves a site.   
+_utmv  | Persistent  | Google Analytics  | Used to store visitor-level custom variable data. The cookie is updated every time data is sent to Google Analytics.   
+_utmz  | Persistent  | Google Analytics  | Keeps track of where you came from, what search engine you used, what link you clicked on, what keyword you used, and where they were in the world when you accessed a website. It expires in 6 months.   
+  
 Most web browsers can be set to tell you when a cookie has been sent to you and give you the opportunity to refuse that cookie.  Information about disabling cookies from your browser and deleting all cookies currently stored on your computer may be found here: <http://www.allaboutcookies.org/manage-cookies/>
 
-However, refusing a cookie may in some cases preclude you from using or negatively impact the display or function of our Website or certain areas or features of our Website. There are numerous resources on the Internet that can provide more information about how cookies work and how you can manage them. One very informative not-for-profit site is [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+Refusing a cookie may in some cases preclude you from using or negatively impact the display or function of our Website or certain areas or features of our Website. There are numerous resources on the Internet that can provide more information about how cookies work and how you can manage them. One very informative not-for-profit site is [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
 ### 2\. Clear GIFs 
 
-When you visit Cornerstone, we may also use “Clear GIFs” (a.k.a. “web beacons” or “pixel tags”) or similar techniques in our Website and/or in our communications with you. A clear GIF is typically a one-pixel, transparent image located on a web page or in an e-mail or other type of message that helps us to verify an inpidual’s viewing or receipt of a web page or message. Clear GIFs allow us to know whether you have viewed a web page prior to visiting our Website and may enable us to relate such information to other information, including your personal information. We use information provided from clear GIFs to allow more accurate reporting, improve the effectiveness of our marketing and make Cornerstone better for our users. 
+When you visit Cornerstone, we may also use “Clear GIFs” (a.k.a. “web beacons” or “pixel tags”) or similar techniques in our Website and/or in our communications with you. A clear GIF is typically a one-pixel, transparent image located on a web page or in an e-mail or other type of message that helps us to verify an individual’s viewing or receipt of a web page or message. Clear GIFs allow us to know whether you have viewed a web page prior to visiting our Website and may enable us to relate such information to other information, including your personal information. We use information provided from clear GIFs to allow more accurate reporting, improve the effectiveness of our marketing and make Cornerstone better for our users. 
 
 ### 3\. IP address and Clickstream data 
 
@@ -136,13 +97,13 @@ Please understand that if you opt out of receiving promotional correspondence fr
 
 ### 1\. Service providers 
 
-We may use third-party partners to help us operate and maintain our Website and deliver our products and services. We may also share your information with our service providers and other third parties (“Affiliated Parties”) that provide products or services for or through this Website or for our business (such as website or database hosting companies, address list hosting companies, communications providers, e-mail service providers, analytics companies, distribution companies, fulfilment companies, credit card processing companies and other similar service providers that use such information on our behalf). 
+We may use third-party partners to help us operate and maintain our Website and deliver our products and services. We may also share your information with our service providers and other third parties (“Affiliated Parties”) that provide products or services for or through this Website or for our business (such as website or database hosting companies, address list hosting companies, communications providers, e-mail service providers, analytics companies, distribution companies, fulfillment companies, credit card processing companies and other similar service providers that use such information on our behalf). 
 
 Third-party service providers are contractually restricted from using or disclosing the information, except as necessary to perform services on our behalf or to comply with legal requirements. Data may be processed in the European Union, the United States, India or Israel depending upon contractual requirements and in accordance with legal jurisdictions for the region(s) to which Cornerstone is subject. 
 
 ### 2\. Aggregated statistics 
 
-We may disclose non-personally identifiable aggregated statistics regarding user behaviour as a measure of interest in and use of our Website and e-mails to third parties in the form of aggregated data, such as overall patterns or demographic reports that do not describe or identify any inpidual user. Information relating to aggregated statistics will be collected through the use of third-party cookies and other third-party tracking devices. 
+We may disclose non-personally identifiable aggregated statistics regarding user behavior as a measure of interest in and use of our Website and e-mails to third parties in the form of aggregated data, such as overall patterns or demographic reports that do not describe or identify any individual user. Information relating to aggregated statistics will be collected through the use of third-party cookies and other third-party tracking devices. 
 
 ### 3\. Legally compelled disclosures 
 
@@ -158,15 +119,15 @@ When you are on this Website, you may have the opportunity to visit or link to o
 
 ### Privacy of minors 
 
-This Website is not directed at children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on our Website. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on our Website, we will delete the information from our records. 
+This Website is not directed at children under the age of thirteen. We do not knowingly collect personal information from children under the age of thirteen on our Website. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on our Website, we will delete the information from our records. 
 
 ### Security 
 
-We use commercially reasonable and industry-standard physical, management and technical safeguards to preserve the integrity and security of your Personal Information. We also use Secure Sockets Layer (SSL) encryption when transmitting sensitive information. Whilst we endeavour to protect the security and integrity of sensitive Personal Information provided to this Website, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, either during transmission through the Internet or while stored on our systems or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. 
+We use commercially reasonable and industry-standard physical, management and technical safeguards to preserve the integrity and security of your Personal Information. We also use Secure Sockets Layer (SSL) encryption when transmitting sensitive information. Whilst we endeavor to protect the security and integrity of sensitive Personal Information provided to this Website, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee information, either during transmission through the Internet or while stored on our systems or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. 
 
-If you contact us by e-mail or a “Contact us” or similar feature on the Website, you should be aware that your transmission might not be secure. An unaffiliated third party could view information you send by these methods in transit. We accept no liability for disclosure of your information due to errors or unauthorised acts by third parties during or after transmission. 
+If you contact us by e-mail or a “Contact us” or similar feature on the Website, you should be aware that your transmission might not be secure. An unaffiliated third party could view information you send by these methods in transit. We accept no liability for disclosure of your information due to errors or unauthorized acts by third parties during or after transmission. 
 
-In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If notification is appropriate, we shall endeavour to do so as promptly as possible under the circumstances, and (insofar as we have your e-mail address) we may notify you by e-mail. You consent to our use of e-mail as a means of such notification. If you would prefer us to use another method to notify you in this situation, please e-mail us at info@csod.com with the alternative contact information you would like us to use. 
+In the unlikely event that we believe the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If notification is appropriate, we shall endeavor to do so as promptly as possible under the circumstances, and (insofar as we have your e-mail address) we may notify you by e-mail. You consent to our use of e-mail as a means of such notification. If you would prefer us to use another method to notify you in this situation, please e-mail us at info@csod.com with the alternative contact information you would like us to use. 
 
 ### Updates to our privacy statement 
 
