@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pay.gov privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911092031id_/https%3A//pay.gov/public/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pay.gov privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203202356id_/https%3A//www.pay.gov/public/home/privacy) for the most accurate reproduction.*
 
 # Pay.gov - Privacy and Security Policy
 
@@ -86,5 +86,15 @@ top
 If you choose to send Pay.gov personal information electronically or request that we send you personal information electronically (such as by e-mail), we cannot guarantee its confidentiality as it travels across the Internet. While not likely, others could eavesdrop. To make this less likely, we may use encryption to protect information that you send or view via Web pages (this does not apply to e-mail). Pay.gov utilizes a secure transmission protocol (Secure Sockets Layer (SSL)) to provide protection of the Web page communications across the Internet between Pay.gov and your computer. SSL is a commonly used protocol for managing the security of an interactive Web session on the Internet. If the Web page has an address that begins with <https://> rather than <http://> then the page is protected by SSL. 
 
 Information transmitted to and from agencies and third party vendors other than through Web pages will be transmitted through a secure virtual private network connection or dedicated connection. 
+
+top
+
+* Cookies and Analytics 
+
+Pay.Gov uses single-session cookies to serve technical purposes, like providing seamless navigation through the platform. Cookies are messages that web servers pass to your web browser when you visit Internet sites. Your browser stores each message in a small file, called cookie.txt . When you request another page from the server, your browser sends the cookie back to the server. These cookies do not permanently record data, and they are not stored on your computer’s hard drive. Pay.Gov’s session cookies are only available during an active browser session. When you close your browser, the session cookie disappears.
+
+Pay.Gov also uses persistent cookies and Google Analytics to help us understand how people use the platform, and how we can make it better. We do not collect any personally identifiable information. Traffic statistics are collected anonymously and aggregated, and no information is traceable to any specific individual.
+
+Most Internet browsers automatically accept persistent cookies. Although using persistent cookies creates a much better experience for you, Pay.gov will also work without them. If you don't want to accept cookies, you can edit your browser's options [by following these instructions ](https://www.usa.gov/optout-instructions) to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit. 
 
 top
