@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the greatamericandaily.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612131101id_/http%3A//greatamericandaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatamericandaily.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203084354id_/https%3A//greatamericandaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Great American Daily
+# Privacy Policy - Great American Daily
 
 **Great American Daily**
 
-**Privacy Policy**
+ **Privacy Policy**
 
 Effective Date: April, 2014
 
@@ -12,7 +12,7 @@ This website (the “Site”) is owned and operated by Great American Daily (“
 
 Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy.
 
-**How We Collect and Use Information**
+ **How We Collect and Use Information**
 
 We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). This Site only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. This Site collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you.
 
@@ -34,9 +34,9 @@ We also collect and store information that is generated automatically as you nav
 
 Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you. Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, or email address. Our partners may link the nonpersonal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website. To learn more about interest-based advertising in general and to opt out, please visit <http://www.aboutads.info/choices>.
 
-**Children’s Privacy Statement**
+ **Children’s Privacy Statement**
 
-** ** This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
+ ** ** This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
 
   * This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site. Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties.
   * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.
@@ -44,19 +44,19 @@ Notwithstanding any other provision, we partner with third parties that collect 
 
 
 
-**How do we store your information?** ** **
+ **How do we store your information?** ** **
 
 Your information is stored at the list server that delivers [Great American Daily](http://greatamericandaily.com/) emails and data. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive [Great American Daily](http://greatamericandaily.com/) data.
 
 All of the emails that are sent to you by [Great American Daily](http://greatamericandaily.com/) include an unsubscribe link in them. You can remove yourself at any time from our newsletters or mailing list by clicking on the unsubscribe link that can be found in every communication that we send you.
 
-**Disclaimer**
+ **Disclaimer**
 
 This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified
 
 If you have any questions or concerns regarding our privacy policy please direct them to:
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1e777078715e596c7b7f6a5f737b6c777d7f705a7f77726730707b6a)
+[info@GreatAmericanDaily.net](mailto:info@GreatAmericanDaily.net)
 
 Copyright 2014 [Great American Daily](http://greatamericandaily.com/) All Rights Reserved
 
