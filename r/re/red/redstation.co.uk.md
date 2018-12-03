@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redstation.co.uk privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202090035id_/http%3A//www.redstation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redstation.co.uk privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203203438id_/http%3A//www.redstation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Redstation
 
 iomart Group plc considers the protection of your privacy to be of utmost importance.
 
@@ -51,8 +51,7 @@ We maintain strict security measures in order to protect personal information. T
 
 ## 6\. Links to 3rd Party Web Sites.
 
-Our websites may contain links to other recognised and respected organisations websites. We are not responsible for the privacy practices of these sites. This privacy policy applies solely to information collected on iomart group websites.  
- 
+Our websites may contain links to other recognised and respected organisations websites. We are not responsible for the privacy practices of these sites. This privacy policy applies solely to information collected on iomart group websites.
 
   7. ## 7\. Transferring data outside of the UK
 
@@ -75,20 +74,14 @@ We reserve the right to change this policy at any time and updated version will 
 
 If you would like further information about this policy or you wish to enquire about the data we hold about you, please contact us:
 
-iomart Group plc
-
-Lister Pavilion
-
-Kelvin Campus
-
-West of Scotland Science Park
-
-Glasgow
-
-G20 0SP
-
+iomart Group plc  
+Lister Pavilion  
+Kelvin Campus  
+West of Scotland Science Park  
+Glasgow  
+G20 0SP  
 United Kingdom
 
 Tel: 44 (0) 141 931 6400
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Email: info@iomart.com
