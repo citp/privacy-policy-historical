@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbsfilms.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521025315id_/http%3A//www.cbsfilms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbsfilms.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203153849id_/https%3A//www.cbsfilms.com/privacy) for the most accurate reproduction.*
 
 # CBS Films - Interactive Privacy Principles
 
@@ -414,3 +414,39 @@ CBS Films Inc.
 235 Second Street  
 San Francisco, CA 94105  
 Attn: Legal Department
+
+## INFORMATION FOR VISITORS FROM THE EUROPEAN UNION (EU)
+
+This section of the Privacy Policy applies only if you use our website or Services covered by the Privacy Policy from a country that is a Member State of the European Union, and it supplements the information in the Privacy Policy.
+
+CBS Films, Inc. is the data controller for processing of information defined as personal data under applicable data protection law (“Personal Data”).
+
+### LEGAL BASIS FOR DATA PROCESSING
+
+We process Personal Data for the purposes set out in the Privacy Policy. Our legal basis to process Personal Data includes processing that is: necessary for the performance of the contract between you and CBS Films (for example, to provide you with the Services you request and to identify and authenticate you so you may use the website); necessary to comply with legal requirements (for example, to comply with applicable accounting rules and to make mandatory disclosures to law enforcement); necessary for our legitimate interests (for example, to manage our relationship with you and to improve the website and our Services); and based on consent by our customers (for example, to communicate with you about our products and services and provide you with marketing information), which may subsequently be withdrawn at any time by contacting us (using the contact instructions below) without affecting the lawfulness of processing based on consent before its withdrawal.
+
+###  EU DATA SUBJECT RIGHTS
+
+The EU General Data Protection Regulation (GDPR) provides certain rights for EU data subjects. You may decline to share certain personal information with us, in which case we may not be able to provide some of the features and functionality of our Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your Personal Data, and to request access to, rectification, erasure and portability of your own Personal Data. Requests should be submitted by contacting us (using the contact instructions below).
+
+You may make changes to the personal information collected by our account registration pages by logging into the appropriate Service and updating the account settings page. We will make commercially reasonable efforts to provide you reasonable access to your personal information within 30 days of your access request to the contact address below. We provide this access so that you may review, make corrections, or request deletion of your personal information. If we cannot honor your request within 30 days, we will inform you when we will be able to provide such access. If for some reason access is denied, we will provide an explanation as to why access is denied. When technically feasible, at your request, we will provide your personal data to you or transmit it directly to another controller.
+
+We will retain your personal information for as long as it is reasonably necessary for the purposes set out in the Privacy Policy, considering the time period reasonably necessary to: provide the Services to you; exercise the choices and rights you have requested; comply with our contractual obligations; enforce our terms for use of the Services; and, comply with legal and regulatory requirements.
+
+If you have any unresolved privacy concern that we have not addressed satisfactorily after contacting us, you have the right to contact the appropriate EU Data Protection Authority and lodge a complaint.
+
+###  THIRD PARTY ONLINE ADVERTISING
+
+We enable certain third party advertising exchanges to place advertisements on our sites. With your consent, those advertising exchanges collect your IP address and/or a unique advertising ID that is used by the advertising exchange to identify you across the internet.
+
+The European Digital Advertising Alliance {"EDAA"} has developed a guide to online behavioral advertising and has developed an opt out page to manage online behavioral advertising preferences with EDAA member companies available at www.YourOnlineChoices.com. To find out more about how you can manage cookies and the other similar technologies, see Managing Cookies.
+
+###  AUTOMATED DECISION MAKING
+
+We use automated decision-making technologies, including profiling, to support our data processing activities. These include services designed to develop and provide advertising tailored to your interests, as described in our overview of CBS Films Online Advertising and to customize the content you see when you visit a CBS Films Service.
+
+###  CONTACT US
+
+For all EU Data Subject Rights requests, click on the link below:
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=0758e9ec-9bd9-48bd-a2e1-105bce329c3d)
