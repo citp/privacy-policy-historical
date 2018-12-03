@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jehovahs-witness.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215200635id_/https%3A//www.jehovahs-witness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jehovahs-witness.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203144034id_/https%3A//www.jehovahs-witness.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
