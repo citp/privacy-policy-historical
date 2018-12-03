@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quiksilver.com.au privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416073911id_/https%3A//www.quiksilver.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiksilver.com.au privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203194404id_/https%3A//www.quiksilver.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Quiksilver
 
