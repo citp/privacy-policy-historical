@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponchief.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625120928id_/https%3A//www.couponchief.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponchief.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203125824id_/https%3A//www.couponchief.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Coupon Chief
 
@@ -147,7 +147,7 @@ The opt-out link below will only opt you out for the device you are on, but not 
 
 Personal Data collected: Cookies. 
 
-Place of processing: US – [Privacy Policy](https://www.google.com/intl/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout). 
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout). Privacy Shield participant. 
 
 ### Commercial affiliation
 
@@ -248,7 +248,7 @@ Google Fonts is a typeface visualization service provided by Google Inc. that al
 
 Personal Data collected: Usage Data and various types of Data as specified in the privacy policy of the service. 
 
-Place of processing: US – [Privacy Policy](https://www.google.it/intl/policies/privacy/). 
+Place of processing: US – [Privacy Policy](https://www.google.it/intl/policies/privacy/). Privacy Shield participant. 
 
 ### Hosting and backend infrastructure
 
