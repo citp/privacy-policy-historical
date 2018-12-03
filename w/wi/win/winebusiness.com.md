@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the winebusiness.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120082833id_/https%3A//www.winebusiness.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winebusiness.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203093326id_/https%3A//www.winebusiness.com/company/%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
-# Winebusiness.com - About Us
+# Our Company
 
-We are dedicated to protecting your privacy and have developed this privacy policy to help you understand how your personal information will be treated as you subscribe to our magazine, visit our website and use our services. This privacy policy applies to WineBusiness.com, WineJobs.com and Wine Business Monthly. 
+### Privacy Policy (Updated 12/04/17)
 
-**_Information we collect_**  
+We are dedicated to protecting your privacy and have developed this privacy policy to help you understand how your personal information will be treated as you subscribe to our magazine, visit our website and use our services. This privacy policy applies to WineBusiness.com, WineJobs.com, Wine Business Monthly, Wine Business Monthly Events and Partner Events. 
+
+#### Information we collect
+
 Wine Business Monthly collects standard magazine subscriber information including name, address, and email address. 
 
 WineBusiness.com offers some information and services that do not require you to provide any information. In order to provide our full range of services, we may collect the following types of information: 
@@ -21,21 +24,26 @@ WineBusiness.com offers some information and services that do not require you to
 
 **Resumes:** Resumes submitted or uploaded via WineBusiness.com are automatically stored on our servers and made available only to those parties designated by the originator to receive the information. 
 
-**_Editing Personal Information_**  
+#### Editing Personal Information
+
 When you create an account with WineBusiness.com, we ask you to provide certain personal information. If you would like to correct, modify or update your information, you may: 
 
-1\. Call customer services at 800-895-9463  
-2\. Send an email to [memberservices@winebusiness.com](mailto:memberservices@winebusiness.com)  
-3\. If you have an account with WineBusiness.com, you may log in and edit your account. 
+1\. Call customer services at 800-895-9463
 
-**_Information Sharing_**  
+2\. Send an email to [memberservices@winebusiness.com](mailto:memberservices@winebusiness.com)
+
+3\. If you have an account with WineBusiness.com, you may log in and edit your account.
+
+#### Information Sharing
+
 **Affiliates:** Personal information may be exchanged between WineBusiness.com, Wine Business Monthly and its affiliates, including Wines and Vines and Practical Winery and Vineyard. We process such information in accordance with our privacy policy, although our affiliates may have different privacy practices. 
 
 **Advertisers:** We may share your information, including names and email addresses, with advertisers so that they can serve ads to you that meet your needs and match your interests. While we will seek to require such third parties to use this information for the sole purpose for which it was provided, we are not responsible for their actions or uses of collected information. 
 
 **Opt out:** If you would like to "opt out" of having your personal information shared with our affiliates and third-party advertisers, you may: 
 
-1\. Send an email to [memberservices@winebusiness.com](mailto:memberservices@winebusiness.com). Please be sure to include your name, company name, and email address.  
+1\. Send an email to [memberservices@winebusiness.com](mailto:memberservices@winebusiness.com). Please be sure to include your name, company name, and email address. 
+
 2\. Send mail to the following postal address: 
 
 Member Services  
@@ -45,29 +53,37 @@ Sonoma, CA 95476
 
 We generally will not supply information about our users in ways not stated in this policy, unless such action is necessary to: 
 
-1\. Comply with a legal process  
-2\. Protect and defend our rights or property  
-3\. Protect the interests of its members or others 
+1\. Comply with a legal process
+
+2\. Protect and defend our rights or property
+
+3\. Protect the interests of its members or others
 
 We may share certain pieces of non-personal information, such as user clicks and search terms, with some third parties, but this information will not identify you individually. 
 
-**_Information Security_**  
+#### Information Security
+
 We take appropriate measures to protect against unauthorized access to information submitted to WineBusiness.com and Wine Business Monthly. Access to our servers via the Internet is restricted through the use of passwords, firewalls, and other security methods in order to protect your privacy. Only those employees that need to know your personal information are granted access. 
 
-**_Data Integrity_**  
+#### Data Integrity
+
 We collect only the information that's needed and use it in an appropriate manner. We process all personal information in accordance with this privacy policy, and take steps to ensure that all information is accurate and current. We expect users to update and correct their information whenever necessary. 
 
-**_Enforcement and Modification of Privacy Policy_**  
+#### Enforcement and Modification of Privacy Policy
+
 We regularly review our compliance with this policy and make changes when necessary. 
 
-**_International Users_**  
+#### International Users
+
 International users of WineBusiness.com and subscribers of Wine Business Monthly agree that we may use their information as outlined in this policy, and understand that their data may be stored on servers located in the United States. 
 
-**_Questions_**  
-If you have any questions regarding this privacy policy, the practices of this site, or your dealings with this site, please:
+#### Questions
 
-1\. Send an email to [memberservices@winebusiness.com](mailto:memberservices@winebusiness.com).  
-2\. Send mail to the following postal address: 
+If you have any questions regarding this privacy policy, the practices of this site, or your dealings with this site, please: 
+
+1\. Send an email to [memberservices@winebusiness.com](mailto:memberservices@winebusiness.com).
+
+2\. Send mail to the following postal address:
 
 Member Services  
 Wine Business Communications, Inc.  
