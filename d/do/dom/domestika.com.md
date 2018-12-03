@@ -1,181 +1,120 @@
-> *The following text is extracted and transformed from the domestika.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903190707id_/https%3A//www.domestika.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domestika.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203090925id_/https%3A//www.domestika.org/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Domestika
 
-## General
+## 1\. Introduction
 
-Your privacy is very important to us. Accordingly, we have developed this Privacy Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+This Privacy Policy explains what we do with your personal data within the scope of providing the services offered in the website [www.domestika.org](https://www.domestika.org/en) (the "Platform"), such as the sale and subscription to courses, creating your profile at Domestika.org, the ability to offer and apply for employment, communications, etc. (the "Services"). We also explain our policy in terms of data we may collect when you visit the Platform.
 
-Domestika LLC. (“Domestika”) is an online platform where creative professionals can showcase their work and discover the creative work of others and where creative professionals can learn from each other through online classes. **Domestika is hosted exclusively in the United States** and is operated from the Domestika offices in San Francisco, California. Domestika may be accessed directly on the web at [www.domestika.org](http://www.domestika.org/) (together with all linked pages, the “Site”).
+Pursuant to applicable data protection laws, bear in mind that:
 
-By accessing any part of the Site, **you are agreeing to the terms** and conditions described below (this “Privacy Policy”) and to the Terms of Use (the “Terms of Use”). If you do not agree to any of these terms, you should not use the Site. This Privacy Policy applies to all users, including both users who are simply viewing content available via the Service and users who have registered as members of Domestika.
+If you live in a country that is a member of the European Economic Area, the way your data is processed and the current Privacy Policy shall be governed by the General Data Protection Regulation or Regulation [UE] 2016/679("GDPR").
 
-The **text in the boxes** provides a brief explanation of the Privacy Policy and is not legally binding.
+If you live in a country outside the European Economic Area, collection of your personal data shall be governed according to the privacy laws of the state of California
 
-The **English version** of this agreement will be the version used when interpreting or construing this agreement.
+The company responsible for personal data is Domestika Inc., with registered offices in 2325 3rd Street, Suite 215 San Francisco, CA, 94107, United States (DOMESTIKA) ("We" or "Data Controller"). To contact the representative from the Data Controller, you may send an email to: [dataprotection@domestika.org](mailto:dataprotection@domestika.org)
 
-You cannot use our Services unless you agree to our Terms and to our Privacy Policy, so please read both carefully.
+If information indicated as required is not provided, we might be unable to process your user registration or the use of certain Services available in the Platform.
 
-## A Note to Users Outside of the United States
+In order to register and navigate the Platform, you need to be older than 16. DOMESTIKA may use your personal information to verify your age and ensure the enforcement of this restriction.
 
-The **Service is hosted in the United States** and is intended for and directed to users in the United States. If you are accessing the Service from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Service, which is governed by United States law, this Privacy Policy, and our Terms of Use, you are **transferring** your personal information to the United States and you expressly consent to that transfer.
+## 2\. Legal basis for processing the personal data
 
-If you do not want your personal data to be processed in the USA, please, do not use the Site.
+Collection and processing of your personal data is based primarily in the contractual and/or non-contractual relationship you have with us.
 
-## Information collected by Domestika
+When we send you newsletters and Services or when we use the email you have provided us to contact you individually or to recognize you when you return to visit our website, we are doing so under the informed consent.
 
-**We only collect personal information that is relevant** to the purpose of our Site. This information allows us to provide you with a customized and efficient experience. We collect the following types of information from our users:
+How we process the information collected by our cookies is based in the informed consent you provide, pursuant to current legislation.
 
-  1. ### Personal Information
+## 3\. Personal information we collect
 
-**We receive and store any information you enter** on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
+In order to register in the Platform and identify yourself, we will request your email and date of birth.
 
-In order for you to use Domestika Services **you must complete a registration form**. As part of this registration form, we will ask you for **personally identifiable information**. This refers to information about you that can be used to contact or identify you. This includes, but is not limited to, your email address, your name, and your birthday, but does not include your credit card number of billing information. Braintree processes all of the transactions on Domestika, and the information you provide to Braintree is subject to its privacy policy1. We do not receive any of the credit card information you provide to PayPal.
+To create your profile in the Platform you may include personal information such as your country or city of residence, a photograph, first and last names, education, work experience, and any other additional information you might want to share in your profile. The profile information helps you make the most out of our Services, like helping other professionals find you and finding business opportunities or projects you might be interested in. However, if you do not want this information to be published, you may leave the profile information fields blank or delete the information already provided.
 
-To allow you to express yourself beyond just the information collected during registration, **we enable you to provide additional information in the user profile section** , such as a **bio** , your website address, your areas of interest, and your career preferences (location, type of job, etc.). In addition, you may choose to include photos of yourself in your profile.
+To buy or subscribe to our courses, we will request your credit card or debit information, including expiration date and CVV. If you are paying with PayPal, we will request the email associated to it. If you are paying with PayU, we will redirect you to that payment platform. If you request an invoice, we will request your invoicing data, if needed.
 
-Except for your birthday, e-mail address and phone, **all the information you decide to share with us will be published** under your profile. If you do not want that information to be published, do not fill in the relevant spaces of your profile or delete de information you have already submitted1.
+When you visit or use our Services, We register data such as frequency of use, date and time Services were accessed, when you see or click a specific content, your course preferences, projects you are sharing or content you publish. We use information when you log in, when you read our emails, and Internet protocol ("IP") addresses to identify you and register your use in the Platform.
 
-We recommend that you **guard your sensitive information** and we encourage members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time.
+We do not make decisions based on profiles, beyond personalization of advertisement and for the purpose of the legitimate prevention of Internet fraude.
 
-In order to send you e-mail from Domestika, **we need your e-mail address**. To provide you with additional services, we may also request your name, geographical coordinates, and telephone number. We may give some or all of this information to the teachers for classes that you sign up for so that they can coordinate their classes. We will not give your name, email, or other personal information to unaffiliated third parties except with your consent or as otherwise set forth in this Privacy Policy.
+We obtain information through other platforms, for example, when you register via Facebook or similar technologies. This might include personal texts or images available in an external website.
 
-  2. ### Other Information
+## 4\. Purpose of the processing
 
-We use your **IP address** to help diagnose problems with our server, to administer our Site, and to analyze traffic patterns on the Site. We use **__**cookies, ** _web beacons_** and similar technology to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit. We may also use _web beacons_ and similar technology in emails that we send to you in order to track whether the emails have been opened. In addition, our web servers track information about the visits to the Site. For example, we compile statistics that show the daily number of visitors to the Site, the daily requests we receive for particular files on the Service, and what geographical areas those requests come from. These aggregated statistics are used internally to better provide services to the public and may also be provided to others.
+DOMESTIKA, as the Data Controller, will process your personal data for the following purposes:
 
-  3. ### Third Party Websites
+  1. Manage your registration as Platform user, to identify you and give you access to Services available for registered Platform users.
 
-We may receive your personal data when you access or log-in to a third party website, e.g., Facebook, from our Site. This may include the text and/or images of your personal data available from the third party website.
+  2. The development, compliance and execution of the contract for the provision of services such as the sale of or subscription to Domestika PRO courses or any other contract We might have through the Platform. You will need to keep in mind that:
 
+You expressly authorize us to process the data indicated as required for activation and payment processing. The card's security code (CVV or CVC) will only be used to process the purchase in course and will not be stored or processed afterwards, as part of your payment information. The consent for the activation of this feature allows your data to autofill in future purchases, so you do not need to re-enter payment information every time you make a purchase. The data enter will be assumed valid and current in future purchases. You will be able to modify or delete your credit cards or PayPal account at any time through the payment method in the purchase form or through the payment method setting in your Domestika PRO subscription. We store and release card information in accordance to international confidentiality and security standards for credit and debit cards. For security reasons, the use of this feature might require changing of your password. Remember, the safety of the Platform also depends on the correct use and storage of confidential passwords.
 
+  3. Recommending jobs that match your profile.
 
+  4. Contacting you through email regarding updates or information related to features, products or services contracted, including Platform security updates, as long as they are needed or reasonable.
 
-We collect your registration and user profile data. Our servers also collect log information used to make the website faster and better. Also, to remember you, our system will give you a _cookie_. It's safe.
+  5. Respond to any request or inquiry you make through the customer service channels available at our Platform.
 
-## Use and disclosure of your personal information
+  6. We also use your information to generate aggregated non-identifying data. For instance, generate statistics regarding our users, their jobs or areas of expertise, number of impressions or clicks in a specific course or project or visitor demographics.
 
-We may use and disclose your Personal Information only as follows:
 
-  1. **To promote use of our Services**. For example, if you use any of our Services, and we think you might benefit from using another service we offer, we may send you an email telling you about it.
-  2. **To send you System Alert Messages**. For example, we may let you know about temporary or permanent changes to our Services, like planned outages, new features, version updates, releases, abuse warnings, and changes to our Privacy Policy or Terms of Use.
-  3. **To enforce compliance with our Terms of Use and applicable law**. This may include developing tools and algorithms that help us prevent violations.
-  4. **To provide customer support**.
-  5. **To protect the rights and safety of our users and third parties, as well as our own.**
-  6. **To meet legal requirements** like complying with court orders and valid subpoenas.
-  7. **To provide information to representatives and advisors** , like attorneys and accountants, to help us comply with legal, accounting, or security requirements.
-  8. **To prosecute and defend a court, arbitration, or similar proceeding.**
-  9. **To support and improve the Services we offer**. This includes adding new features to our current Services.
-  10. **To communicate with you about your account for informational** , not promotional, reasons.
-  11. **To transfer your information in the case of a sale, merger, consolidation, or acquisition**. In the event that we are acquired by or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
-  12. **To send you informational and promotional content that you may choose (or "opt in") to receive**. You can stop receiving our promotional emails by following the unsubscribe instructions included in every email.
-  13. **To third party service providers**. Except as otherwise stated in this policy, we do not generally sell, trade, share, or rent the personal data collected from our Site to other entities. However, we may share your personal data with third party service providers to provide services to us that enable us to make the Site and Services available to you. You expressly consent to the sharing of your personal data with our contractors and other service providers for the sole purpose of providing services to you. Access to your personal data by these contractors is limited to the information reasonably necessary for the contractor to perform its limited function for us.
-  14. In addition, **we may provide your personal information** to employees, consultants or other business or persons **for the purpose of processing such information on our behalf**. In such circumstances, we require that these parties agree to protect the confidentiality of such information and to comply with the terms of this Privacy Policy.
 
 
+## 5\. Options
 
-We collect information to make Domestika website useful for you. We do not sell your information to anyone. However, we will show publicly available information to other users and may release other information to authorities where required by law.
+The provision of DOMESTIKA's Service might entail the use of your personal data, with your express consent, to make available to you personalized advertisement related to our products and services, through emails or other electronic communication means from us or third party collaborators. With the goal of improving our services, please know that personal information regarding your purchases, interests and preferences might be used by DOMESTIKA for the purpose of analysis, user profiling, marketing studies, quality surveys, and improving interaction with our clients.
 
-## Public Information and Third Parties
+If you do not want to receive certain type of email communications, simply access the Notifications section under Edit Profile to manage your preferences.
 
-  1. ### Bio, forums, comments and online classes
+Likewise, you will be able to cancel your notifications by following the instructions in each notice you receive.
 
-We have public forums on our Site. Any information you include in your bio, in a comment on the forums, or under a project, may be read, collected, and used by anyone. Also, your profile pages and any online classrooms you participate in are typically publicly available. You should exercise caution before disclosing your personal information via these or any other public venues.
+## 6\. Data retention period
 
-If your personal information appears on our forums and you’d like it to be removed, contact us by sending an email to [privacyofficer@domestika.org](mailto:privacyofficer@domestika.org). If we’re not able to remove your information, we’ll let you know why.
+We will retain your personal data for as long as we have a valid contractual relationship, and after that, for the period determined by any obligations arisen from the treatment of the data or as established by law.
 
-  2. ### Social Media Widgets
+## 7\. Data Recipients
 
-Our Site includes social media features, like the Pinterest button. These features may collect information about your IP address and which page you’re visiting on our Site, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
+To comply with the purposes indicated in this Privacy Policy, it might be necessary to report or release your personal data to third parties for the following reasons:
 
-  3. ### Links to Third-Party Sites
+  * **Business Transfers** : in connection with any reorganization, restructuring, merge or sale, or any other transfer of assets, including personal, provided that the receiving party accepts to process your personal information in accordance with our Privacy Policy.
 
-Our Site includes links to other websites, whose privacy practices may be different from Domestika’s. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+  * **Service Providers** : in order to provide services in our name or to help us provide our services. For example, we contract service providers to render marketing, advertising, communication, infrastructure and IT services, to customize and improve our service, to process credit card transactions or other methods of payment, provide customer service, collect debts, analyse and improve data (such as data regarding user interaction with our services), and process and manage satisfaction surveys. For efficiency purposes, these partners and providers may be based in the US or other countries or territories outside of the European Economic Area, and might not provide a data protection level comparable to that of your country, or the European Union's.
 
 
 
 
-Third parties may collect your personal data on the Site. Please, read those third parties privacy policies.
+When you accept this Privacy Policy, you are specifically authorizing us to process and report your personal data to the partners mentioned and/or release your personal data to the service providers as processors located outside of the European Economic Area for the purposes described herein and to provide you complete service. When we release personal information when exchanging data with countries outside the European Economic Area and other areas with data protection laws, we will ensure the information is being transferred in compliance with this Privacy Policy and pursuant to current data protection laws.
 
-## Third Party Tracking
+## 8\. Data Protection Rights
 
-Third parties, including linked sites and applications (e.g., Facebook and YouTube), customer support services and data analytics services, may collect information about you in connection with your use of the Site (e.g., usage information). Such third parties may use tracking technologies in connection with the Site and Services, which may include the collection of information about your online activities over time and across third-party web sites or online services. In some cases, third party tracking tools may only collect non-personal information about your use on the Site. However, in other cases, such third parties may collect personal data about you as they engage in these activities (e.g., customer support services may obtain your name and email address in conjunction with their support activities).
+As Data Controller, we are committed to respecting the confidential nature of your personal data and guaranteeing the full exercise of these rights. At all times, you will have the following rights:
 
-Currently, we do not monitor or take any action with respect to web browser signals or other mechanisms for the expression of choice regarding collection of information about an individual over time and across third-party web sites or online services (e.g., Web browser “do not track” signals).
+  1. Right to access. You have the right to confirm whether we are processing your personal data and, if we are, you have the right to obtain a copy of such data and information regarding the processing.
 
-Third parties may track the use you do of our Site.
+  2. Right to amend. You have the right to correct errors, modify incomplete or wrong data and guarantee the authenticity of the information that is being processed.
 
-## Feedback
+  3. Right to delete. You have the right to request the deletion of your data without undue delay, if it were being processed wrongfully or if the end to which it was processed or collected has ceased to exist.
 
-If you provide feedback on the Site to us, we may use such feedback for any purpose, provided we will not associate such feedback with your personal data. Domestika will collect any information contained in such communication and will treat the personal data in such communication in accordance with this Privacy Policy.
+  4. Right to limitation of processing. You have the right to request that the suspension of the processing of your information if it is illegal or the accuracy of the data has been contested.
 
-We will treat the personal data you give to us through feedback in accordance with this Privacy Policy.
+  5. Right to oppose. You have the right to oppose to the processing of your data when it has been used for purposes of direct marketing or when the processing must be terminated due to a personal situation, except when there is legitimate interest or it is necessary for the exercise or defence of claims.
 
-## Children’s Privacy
+  6. Right not to be subjected to personalized decisions. You have the right of not being subjected to a decision based solely on the automatic processing of your data, including profiling, with binding legal effects or which affects you, except when necessary for the execution of an agreement, as permitted by the law or if you have expressly authorized it.
 
-You must be at least 13 years old to register to use the Site. Accordingly, we do not collect any personal information from children.
 
-Please register only when you reach 18 years old, or ask your parents' permission if you are between 14 and 18 years old.
 
-## Your California Privacy Rights
 
-A business subject to California Civil Code section 1798.83 is required to disclose to its California customers, upon request, the identity of any third parties to whom the business has disclosed personal information within the previous calendar year, along with the type of personal information disclosed, for the third parties' direct marketing purposes.
+In order to exercise these rights, please send an email to: [dataprotection@domestika.org](mailto:dataprotection@domestika.org) indicating your (i) identity, by sharing your full name and email address used to register or make a purchase at Domestika, an ID to establish your identity, and (ii) the right or rights you're exercising.
 
-If you are a California resident and would like to make such a request, please submit your request in writing to:
+You may also visit the agency overseeing the protection of data in your country to file a claim or request the protection of your rights, if deemed necessary.
 
-Domestika Privacy Officer  
-610 22nd St.  
-Suite 315  
-San Francisco, CA 94107  
-Email:[ privacyofficer@domestika.org](mailto:privacyofficer@domestika.org)
+The exercise of such rights is free, except when requests are deliberately unfounded or excessive, in which case the individual will be required to bear the processing costs.
 
-Please note that under California law, businesses are only required to respond to a customer request once during any calendar year.
+## 9\. Information about cookies
 
-If you are a California resident you can ask us for what we have been doing with your data in the last year.
+We use cookies, small files with information regarding your navigation in this Platform, mainly to enable a better user experience. Please, read our [Cookies Policy](https://www.domestika.org/en/cookies) to know more about the cookies we use, their purpose, and other useful information.
 
-## Accuracy of Data, Transparency, and Choice
+## 10\. Changes
 
-We do our best to keep your data accurate and up to date, to the extent that you provide us with the information we need to do that. If your data changes (like a new email address), then you’re responsible for notifying us of those changes.
-
-We only store data about you for as long as it’s reasonably required to fulfill the purposes that gave us the right to access it in the first place.
-
-We’ll give you access to any personal information about you that we hold within 30 days of any request for that information you make by emailing [privacyofficer@domestika.org](mailto:privacyofficer@domestika.org). Unless it’s prohibited by law, we’ll remove any personal information about you from our servers at your request.
-
-Privacy policy may change.
-
-## Security of Your Personal Data
-
-Domestika is committed to protecting the security of your personal data. We use a variety of industry-standard security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure. Despite these measures, you should know that we cannot fully eliminate security risks associated with personal data and mistakes may happen.
-
-Your account is protected, but sometimes bad things can happen.
-
-## Notice of Breach of Security
-
-Nobody is safe from hackers. If a security breach causes an unauthorized intrusion into our system that materially affects you, then Domestika will notify you as soon as possible and later report the action we took in response.
-
-If something bad happens we will notify you.
-
-## Changes and Notification of Changes
-
-We may, at our sole discretion, modify this Privacy Policy at any time. By accessing the Site at any time after such modifications, you are agreeing to such modifications.
-
-In the event that we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and/or other places we deem appropriate, so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we ever intend to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users by posting a notice on our website for 30 days.
-
-Privacy policy may change.
-
-## Contact Information
-
-Domestika welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at [privacyofficer@domestika.org](mailto:privacyofficer@domestika.org) or contact us at the following address or phone number:
-
-Domestika Privacy Officer  
-610 22nd St.  
-Suite 315  
-San Francisco, CA 94107
-
-Also, if you believe that we have not adhered to this Privacy Policy, please contact us by email at [privacyofficer@domestika.org](mailto:privacyofficer@domestika.org). We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation.
-
-You can contact us if you have questions regarding this Privacy Policy.
-
-## Effective date of this Privacy Policy
-
-This Privacy Policy was last modified as of February, 20, 2014.
+We will update this Privacy Policy occasionally and as required by legal, regulatory or operational modifications. We will notify such changes (including the effective date) as required by law.
