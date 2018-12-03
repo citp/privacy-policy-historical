@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the virtualmuseum.ca privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126173109id_/http%3A//www.historymuseum.ca/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualmuseum.ca privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203204206id_/http%3A//www.historymuseum.ca/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | About | Canadian Museum of History
 
 ## Privacy Statement
 
-The Canadian Museum of History is committed to respecting the personal privacy of individuals who visit its website. This statement summarizes the privacy policy and practices on the Historymuseum.ca website.
+The Canadian Museum of History is committed to respecting the personal privacy of individuals who visit its website or mobile application. This statement summarizes the privacy policy and practices on the Historymuseum.ca website.
 
   * All personal information held or collected by the Canadian Museum of History is protected under the federal _[Privacy Act](http://www.priv.gc.ca/leg_c/r_o_a_e.asp "This link will open in a new browser window: Privacy Act")_.
   * The Museum’s websites do not automatically gather any specific personal information from you, such as your name, phone number or email address. We would only obtain this type of information if you supplied it voluntarily by sending us an email or registering in a secure portion of the site.
