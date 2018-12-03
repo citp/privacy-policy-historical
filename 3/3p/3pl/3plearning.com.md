@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3plearning.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625194033id_/http%3A//www.3plearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3plearning.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203061120id_/http%3A//www.3plearning.com/privacy) for the most accurate reproduction.*
 
 # 3P Learning's Privacy Policy
 
@@ -8,15 +8,15 @@ This webpage explains our privacy and security commitments in plain language.
 
   * __
 
-3P Learning is a global e-learning resource company. We produce and distribute a range of online resources and a network of websites including but not limited to those for the [Mathletics](http://www.mathletics.com/), [Spellodrome](http://www.spellodrome.com/), [Reading Eggs,](http://www.readingeggs.com/) [Mathseeds](http://www.3plearning.com/mathseeds), and [World Maths Day / World Education Games](http://www.worldeducationgames.com/) brands.
+3P Learning is a global e-learning resource company. We produce and/or distribute a range of online resources and a network of websites including but not limited to those for the [Mathletics](http://www.mathletics.com/), [Spellodrome](http://www.spellodrome.com/), [Readiwriter](http://readiwriter.com/), [Reading Eggs, ](http://www.readingeggs.com/)[Mathseeds, ](http://www.3plearning.com/mathseeds/)[Spellodrome, ](http://www.spellodrome.com/)[Gooseberry Planet, ](https://gooseberryplanet.com/)and [World Maths Day / World Education Games](http://www.worldeducationgames.com/) branded resources and products.
 
   * __
 
-Each resource operates under the 3P Learning brand, together with challenge websites for national and regional events which may use or integrate with some of the aforementioned websites (the Site) and are owned and operated by 3P Learning Ltd (and/or our subsidiaries or licensors) (collectively, 3P Learning or ‘us’ or ‘we’).
+Each product or resource, together with challenge websites for national and regional events which may use or integrate with some of the aforementioned websites (the Site) is owned and operated by 3P Learning Ltd (and/or our subsidiaries or licensors) (collectively, ‘3P Learning’ or ‘us’ or ‘we’).
 
   *  __
 
-References to the Site in this Privacy Policy include all related 3P Learning brand websites, as mentioned above.  
+References to the Site in this Privacy Policy includes all products and resources that we produce and /or distribute, as mentioned above.  
 
 
 
@@ -55,7 +55,7 @@ Collectively, this legislation includes, without limitation:
 
   * The Australian Privacy Act 1988
   * The New Zealand Privacy Act 1993
-  * The United Kingdom Data Protection Act 1998 ([View 3P Learning’s ICO Registration Certificate](http://cdn.3plearning.com/wp-content/uploads/2017/05/3P-Learning-ICO-Registration-Certificate.pdf))
+  * The United Kingdom Data Protection Act 2018 ([View 3P Learning’s ICO Registration Certificate](http://cdn.3plearning.com/wp-content/uploads/2017/05/3P-Learning-ICO-Registration-Certificate.pdf))
   * The United States Children’s Online Privacy Protection Act and Rule as administered by the Federal Trade Commission
   * The United States Family Educational Rights and Privacy Act
   * The Alberta Freedom of Information and Protection of Privacy Act
@@ -142,9 +142,9 @@ Hall of Fame leaderboards : 3P Learning strives to provide a highly engaging Sit
 
   * we believe, in good faith, that we are required to share your information with a third party in order to comply with law, regulation, legal process, court order or subpoena;  
 
-  * to enforce our [Terms & Conditions](http://www.3plearning.com/terms);  
+  * to enforce our [Terms & Conditions](http://www.3plearning.com/terms) or the terms of the licence granted to access and use the Site;  
 
-  * the disclosure is to a third party that acts on our behalf, such as a distributor of our products and services;  
+  * the disclosure is to a third party that acts on our behalf or processes data on our behalf, such as a distributor of our products and services, the licensor or owner of a product or resource that we distribute, or to a contracted service provider;  
 
   * in connection with any transaction involving our companies or assets, where another party acquires ownership or operation of the Site, in which case that successor organization will be subject to this Privacy Policy; or  
 
@@ -262,7 +262,7 @@ As we operate globally, we may on occasion allow your personal information to be
 
   * by our sales, operational or global customer support teams (primarily, although not exclusively, located in Australia, the United Kingdom and Canada); or  
 
-  * by one of our licensors or distributors (sales agents or resellers) who requires the information to set up, service or manage a customer account;  
+  * by one of our licensors (who owns, develops and hosts a particular product) or distributors (sales agents or resellers) who requires the information to set up, service or manage a customer account;  
 
   * where a copy is sent to the Registrant itself at their request.  
 
