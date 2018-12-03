@@ -1,76 +1,104 @@
-> *The following text is extracted and transformed from the gothamist.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224134803id_/https%3A//www.wnyc.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gothamist.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203135647id_/https%3A//www.wnyc.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | WNYC | New York Public Radio, Podcasts, Live Streaming Radio, News
 
-_Last updated on July 2, 2014. Please also see our[Terms of Service](https://web.archive.org/terms). _
+_Last updated on May 24, 2018. Please also see our[Terms of Service](https://web.archive.org/terms). _
 
-### New York Public Radio’s Digital Platforms
+New York Public Radio (NYPR) takes your privacy seriously; we want you to understand how we do and don’t use information about you. We’ve set this Privacy Policy up, along with our [Terms of Service](https://web.archive.org/terms), to communicate about data collection and usage with users of NYPR’s digital platforms — which include, e.g., this website and any other NYPR websites that link to this Privacy Policy (such as wqxr.org, newsounds.org, and gothamist.com), our apps, and any embeddable content that we may make available for display on outside websites or digital platforms (collectively, the “NYPR Platform”).
 
-This Privacy Policy, along with our [Terms of Service](https://web.archive.org/terms), applies to all users of New York Public Radio’s (NYPR’s) digital platforms, including, e.g., this website (and all of NYPR’s other websites, like wnyc.org and wqxr.org, that link to this Privacy Policy), embeddable content that we may make available for use on other people’s websites or digital platforms, and our apps, other than third party content, discussed in Other Sites and Services, below.
+Please note that the NYPR Platform often includes links to third party sites or services, such as social media platforms, and sites or services owned or controlled by National Public Radio and other production partners. This Privacy Policy does not cover any third party sites or services, or your use of them; we suggest that you review those sites’ policies to learn more about their privacy practices.
 
-We take your privacy seriously and want you to understand how we do and don’t use information about you.
+### How We Collect and Use Information
 
-### How We Collect Information
+**We Collect Some Information Directly**
 
-**Information We Collect Automatically From Users**
+On certain occasions when you interact with the NYPR Platform – e.g., by joining as a member, signing up for a newsletter, or entering a contest – you may submit information of your own accord, or be asked to do so to participate in certain activities. Some examples of information that you submit and we collect may include:
 
-When you use our digital platforms, we may automatically recognize information like your IP address, operating system, what type of device you’re using, geotargeting information (what geographic area you’re in), and your user behavior (e.g. how long you stay on the website).
-
-NYPR uses cookies, other similar small files sent to your computer which store information through your browser and web beacons (tiny graphics, aka “pixel tags”) as part of our digital functionality (e.g. to store your preferences or password and understand your user behavior), and to offer responsive elements based on users’ actions.
-
-In addition, NYPR uses [third party vendors](https://web.archive.org/privacy-third-parties/) that provide services for our digital platforms (e.g. analytics) which may each use their own cookies and web beacons as part of our digital platforms.
-
-**Information Users Give Us Voluntarily**
-
-You may voluntarily give us information like:
-
-  * Your login information
-  * Your email address (e.g. when you sign up for a newsletter)
-  * Your responses to surveys or contests (each contest will also have its own rules that apply)
-  * Your content submissions (e.g. in response to a call for snowstorm photos)
-  * Your comments on articles
-  * Your phone number (e.g. if you text us)
-  * Pledge/donation information
-  * Purchase information for our ticketed events
+  * Name and login information
+  * Email address
+  * Mailing address
+  * Your phone number
+  * Responses to surveys or contests
+  * Photos or videos
+  * Comments on articles
+  * Information about pledges/donations
 
 
 
-### How We Use Information
+In this Privacy Policy, we will refer to this type of personally identifiable information as “Personal Information.”
 
-**Personally Identifiable Information**
+NYPR and the NYPR Platform are based in the United States. If you voluntarily submit Personal Information to us while located or residing in a country outside the United States, you understand that you are voluntarily agreeing to the use and processing of such information as provided in this Privacy Policy, including transfer of your information to the United States, a jurisdiction which may not offer the same framework for the protection of personal information as the jurisdiction in which you are located.
 
-We do not store users’ passwords. When we ask for personally identifiable information (like your name, address, email address, phone number or credit card information), we only use the information you give us within the NYPR family of services, except as noted below under “List Sharing,” and as described below when you submit as part of a public feature. This means, e.g., we may email you to invite you to join a new newsletter list, invite you to Greene Space events, or ask you to renew your membership when it expires, and we may share your information with third party vendors, but only for the purpose of helping us do these sorts of things (and not for their own use).
+**We Collect Some Information Automatically**
 
-If you do not wish to be contacted based on this information, please indicate your preference by opting out on the pledge form or through the opt-out information provided in the email you receive, or contact [Listener Services](http://www.wnyc.org/contact/). We will do our best to make your change in a timely manner. You should also contact Listener Services if you would like to review or correct your information.
+NYPR uses cookies and other tagging or tracking technologies that interact with your browser to increase our digital functionality and offer responsive elements based on your and other users’ actions (e.g., to store your preferences or password and understand your platform use patterns).
 
-We may also aggregate your personally identifiable information (such as your address) with others to produce non-personally identifiable information that we may use to analyze and improve what we do.
+When you use the NYPR Platform, we may automatically recognize information like your IP address, what type of device you’re using, high-level location information (e.g., city or state), and your user behavior (such as how long you stay on the website and which links you click on).
 
-**Payment Information**
+Some of the [third party vendors](https://web.archive.org/privacy-third-parties/) that we use to provide services for the NYPR Platform (e.g. analytics) may also use their own tracking technologies on our digital properties to help us run and optimize our platforms. These third parties may collect information about your online activities over time and across the NYPR Platform and other online properties.
 
-When you provide us payment information in order to process a pledge or purchase a ticket, this information is encrypted, using reasonable, industry-standard security measures, and is used (generally by our third party vendors) only to fulfill your pledge.
+**How We Process, Store and Use Personal Information**
 
-**Non Personally Identifiable Information**
+We only collect Personal Information as discussed above – and use the Personal Information we receive within or through the NYPR Platform and family of services for purposes disclosed in this Privacy Policy or in connection with your submission of information.
 
-We use other information (other than personal information and payment information) for things like improving your user experience (e.g. your user history on our digital platforms may be used to provide recommendations to you and other users of the same device), selecting third-party vendors who best meet our needs, notifying our users about our programs and events, and helping foundation and corporate funders better understand our audience. In doing this, we do share non-personally identifying information and payment information with third parties.
+In general, our main purpose in collection, use, and storage of information is to further our mission by making the NYPR Platform work better for you and by staying in touch with you about NYPR events or offerings that may interest you. So, for example, we may email to invite you to join a new newsletter list, tell you about Greene Space events, or ask you to renew your membership when it expires. Our usage of your Personal Information is necessary for our legitimate interest in and purpose of staying in touch with you and administering and promoting the NYPR Platform.
 
-Please note that if you share personal information through a public feature that it may become public (e.g. if you include your email address in a comment, other users will see it, or if you include your name in a content submission, it may be read on the air or posted online to attribute the content).
+If you do not wish to be contacted, please indicate your preference when you submit your contact information – by opting out on the pledge form or using the opt-out links provided at the bottom of our emails and newsletters, or by contacting [Listener Services](http://www.wnyc.org/contact/). We will do our best to make your requested change in a timely manner.
 
-Lastly, if we are required by law to share your information (including personal and payment information), we will share to the extent necessary to comply with the request.
+Please do note that if you share Personal Information through certain NYPR Platform publishing features, it may become public (e.g. if you include your email address in a comment or your name in a content submission, that information may be seen by other users or used for attribution).
 
-### List Sharing Policy
+**Aggregated and De-Identified Information**
 
-We may occasionally share users’ names and postal addresses (but not email addresses) with carefully selected organizations. If you do not want your address exchanged in this way, please contact [Listener Services](http://www.wnyc.org/contact/) to ask that your name and address be removed from any shared mailing lists.
+We may use information that has been aggregated and anonymized or de-identified to assess and improve the NYPR Platform, including to enhance your user experience, to select third-party vendors who best meet our needs, and to help foundation and corporate funders better understand our audience. We may sometimes produce data and analysis results with this aggregated or anonymized information that help us understand our users and their interactions with the NYPR Platform. To accomplish this we may share aggregated or anonymized information with third parties – and may also share the resulting data and analysis (which will not include any Personal Information).
 
-It is NYPR policy not to sell or exchange email addresses or phone numbers with any organization. If any situation comes up in which we would like to share this information with someone else (e.g. if we collect your email while ticketing an event, and want to share with our co-presenter), we will ask for your permission.
+**Opting Out of Tracking**
+
+If you wish to disable cookies and other use-tracking technologies, your browser settings may enable you to do so. Please be aware, though, that disabling cookies may change or reduce the functionality of the NYPR Platform in certain contexts (e.g., we will not be able to store your listening preferences). Users who wish to opt out of Google Analytics data collection may use Google’s own [browser add-on](https://tools.google.com/dlpage/gaoptout/) to do so.
+
+We may sometimes work with third parties, including sponsors, who serve ads on the NYPR Platform that are based on their assessment of your personal interests and browsing history (on the NYPR Platform and elsewhere). The tracking technologies used by such third parties are subject to their own privacy policies, and we are not involved in or responsible for their activities or use of any data they collect. If you do not want to see personalized advertising, you may seek to opt out by visiting [http://www.aboutads.info](http://www.aboutads.info/).
+
+**Information Security and Storage**
+
+NYPR uses industry standard physical, digital, and training-based security measures to protect user information against theft and misuse. All NYPR Platform websites are protected by Secure Sockets Layer (SSL) security features. NYPR Platform’s collection and handling of payment information is PCI-compliant.
+
+### We May Share Information in Limited Circumstances
+
+**With Vendors**
+
+As noted above, we may engage [outside companies](https://www.wnyc.org/privacy-third-parties/) to help us develop, operate, and improve the NYPR Platform. Our third party vendors receive Personal Information only as reasonably necessary to complete services for NYPR, and are contractually bound to maintain confidentiality of information and prohibited from using or disclosing Personal Information without permission from NYPR. In certain instances, we may agree to allow a vendor to use aggregated data about activity on the NYPR Platform for general improvement or benchmarking purposes – but only where this data is anonymized or de-identified, so none of our users can be identified from it as individuals.
+
+**For Mailing Lists**
+
+We may occasionally share users’ names and postal addresses (but not email addresses) with carefully selected nonprofit organizations. If you do not want your address exchanged in this way, please contact [Listener Services](http://www.wnyc.org/contact/) to ask that your name and address be removed from any shared mailing lists.
+
+It is NYPR policy not to sell or exchange email addresses or phone numbers with any other company or organization. If we ever do want to share this information with someone else (e.g., if we collect your email while ticketing an event and want to share with our co-presenter), we will ask for your permission.
+
+**As Required By Law**
+
+If we determine on a good faith basis that we are required by law (e.g., pursuant to a subpoena or judicial order) to share your personal or other information, we will endeavor to share it only to the extent we determine is reasonably necessary to comply with the request.
 
 ### Other Sites and Services
 
-Our digital platforms contain links to services maintained by third parties that do not follow the same privacy practices as NYPR. In some cases, we may also include certain embedded tools provided and controlled by third parties, or that permit you to submit information to third parties. These services and tools are governed by the terms and policies of those third parties. Our digital platforms also include widgets from third party services, e.g. a button that allows you to “like” an article on Facebook. All of these third party services have their own terms and policies. Please review these services’ own privacy policies for more information. Details on certain third party services used by NYPR and opt outs will be maintained and updated [here](https://web.archive.org/privacy-third-parties/). 
+As we mentioned previously, our digital platforms contain links to third party sites and services that do not follow the same privacy practices as NYPR. In some cases, the NYPR sites may also include embedded tools or widgets that are provided and controlled by third parties, or that permit you to submit information to third parties (e.g., the Facebook “like” button). These services and tools – and any third party sites that you reach from links on NYPR platforms – are governed by the terms and policies of those third parties. Please review these sites’ and services’ privacy policies for more information.
 
-### Contests
+### Contests and User Engagement
 
-From time to time, we may offer contests that users may enter through our digital platforms. Please note that these contests may each have their own official rules, which give NYPR additional rights to use entries, and which govern your participation in the contest. 
+From time to time, we may offer various opportunities for you to interact with NYPR – in particular, by entering contests through the NYPR Platform or by sending us your writings/audio/photos/videos in response to specific crowdsourcing requests. Please note that these opportunities may have their own rules; these rules, which govern your participation in these contests or activities, may give NYPR additional rights to use entries or submissions. If there is any conflict or inconsistency between such rules and this Policy, the rules will govern and take precedence.
+
+### Children Under 13 Years of Age
+
+NYPR does not knowingly solicit or collect information from children ages 12 and under without obtaining explicit parental consent. If you become aware that your child (who is under 13) has provided us with information without your consent, please contact us; upon request, we will work to delete your child’s Personal Information from our files within a reasonable time.
+
+### Access to Your Information
+
+Because we value the longevity of our relationships with our supporters, we do generally retain user information in our database. If you would like to access, transfer, review, or correction of or to your Personal Information, or to request that it be deleted or restricted in use, please [contact us](http://www.wnyc.org/contact/) — depending on your location or country of residence, you may have a legal right to make these requests and to contact supervisory authorities if you are not satisfied with our response.
 
 ### Changes to Privacy Policy
 
-NYPR will notify users who have registered login information and an email address of changes to this Privacy Policy (other than changes to the[ third party services list](https://web.archive.org/privacy-third-parties/), which may be updated from time to time), and any changes will only take effect prospectively from the date of the change. If you have additional questions about how your personal information may be used or if you have questions or comments about our Privacy Policy, please [contact us](http://www.wnyc.org/contact/).
+NYPR may change and update this Policy from time to time. We will post Policy updates to this page, and may send notify members of our mailing lists of changes by email as well; will email users who have registered login information at the email address associated with their account. We will not post updates or send email notification regarding changes to the [third party services list](https://www.wnyc.org/privacy-third-parties/), which may be updated from time to time. Any changes will only take effect prospectively from the date of the change; continued use of the NYPR Platform constitutes consent to any new Policy.
+
+### Contact Information
+
+You may find our contact information at: <https://www.wnyc.org/contact>. If you have any questions or requests related to your Personal Information or this Privacy Policy, please select the contact option for “Listener Services.”
+
+Our most recent former privacy policy (dated July 2, 2014) is available here: <https://www.wnyc.org/privacy-2014/>
