@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shareitforpc.online privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412134120id_/http%3A//shareitforpc.online/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareitforpc.online privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203150506id_/http%3A//shareitforpc.online/legal-notice-privacy-policy-cookies) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy - Shareitforpc.online
+# Legal Notice, Privacy Policy and Cookies - Shareitforpc.online
 
 ## Use of Cookies
 
@@ -18,13 +18,17 @@ The settings for each of the main browsers can be found on these pages of their 
 
   * Safari: <https://support.apple.com/en-us/HT201265>
   * Firefox: <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
-  * Chrome: [https://support.google.com/chrome/answer/95647?hl=en-en](http://_https//support.google.com/chrome/answer/95647?hl=en-en)
+  * Chrome: <https://support.google.com/chrome/answer/95647?hl=en-en>
   * Opera: <http://www.opera.com/help/tutorials/security/privacy/>
   * Internet Explorer: <https://support.microsoft.com/en-us/help/260971/description-of-cookies>
 
 
 
 By using this website, you consent to the Use of Cookies in the manner and for the purposes set out above.
+
+## Data Hosting
+
+For technical reasons and quality of service, the blog www.shareitforpc.online is hosted on the servers of Raiola Networks ([Privacy Policy – Legal Notice](https://raiolanetworks.es/aviso-legal/)).
 
 ## Google Adsense
 
@@ -49,3 +53,39 @@ You can refuse to process data or information by rejecting the use of cookies by
 By using this website, you consent to the processing of information by Google in the manner and for the purposes set out above. For more information click on the link below:
 
 ### [How Google uses data when you use our partner applications or websites](https://www.google.com/intl/en/policies/privacy/partners/)
+
+## 
+
+On our website we offer you links and services related to the different social networks ( for example “I like” from Facebook). If you are a member of a social network and click on the appropriate link, the social network provider may link your profile data to information about your visit to that website.
+
+In relation to the management of your data associated with the social profiles of www.shareitforpc.online, the exercise of the right of access will depend on the functionality of the social network and the possibilities of access to the information in the user profiles.
+
+With regard to the rights of access and rectification we remind you that it can only be satisfied in relation to that information that is under the control of www.shareitforpc.online.
+
+In addition, you can stop interacting with, following or receiving information from the social profiles of www.shareitforpc.online, remove the contents that no longer interest you or restrict whoever shares your connections, through the mechanisms stipulated in the different social networks.
+
+The user will be able to access the privacy policies of each Social Network, as well as configure their profile to guarantee their privacy.
+
+www.shareitforpc.online encourages users to familiarize themselves with the conditions of use of the various social networks before starting to use them.
+
+Facebook: <https://www.facebook.com/help/323540651073243/>
+
+Google: <https://policies.google.com/privacy?hl=en>
+
+Twitter: <https://twitter.com/privacy>
+
+## Intellectual Property and use of the contents
+
+The website www.shareitforpc.online, including but not limited to programming, editing, compilation and other elements necessary for its operation, designs, logos, text and / or graphics are the property of the provider or if necessary has been expressly licensed or authorized by the authors.
+
+www.shareitforpc.online grants the user a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license, the exact terms of which can be found at [this link](https://creativecommons.org/licenses/by-nc-sa/3.0/es/). Any use not previously authorized by the provider will be considered a serious breach of the intellectual or industrial property rights of the author.
+
+The designs, logos, text and / or graphics outside the provider and that may appear on the website belong to their respective owners, being themselves responsible for any dispute that may arise with respect to them. In any case, the provider has the express prior authorization of the same.
+
+## Applicable Law and Jurisdiction
+
+For the resolution of all disputes or issues related to this website or the activities carried out on it, Spanish law shall apply, to which the parties expressly submit.
+
+## Acceptance and Consent
+
+The User declares to have been informed of the conditions of protection of personal data, accepting and consenting to the processing of the same by the provider in the manner and for the purposes indicated in the legal notice.
