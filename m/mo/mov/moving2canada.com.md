@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moving2canada.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102192535id_/https%3A//moving2canada.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moving2canada.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203212319id_/https%3A//moving2canada.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Moving2Canada
 
@@ -20,17 +20,12 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Moving2Canada may collect and use Users personal information for the following purposes:
 
-  *  _– To improve customer service.  _Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  *  _– To personalize user experience.  _We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _– To improve our Site.  _We may use feedback you provide to improve our products and services.
-  *  _– To run a promotion, contest, survey or other Site feature.  _To send Users information they agreed to receive about topics we think will be of interest to them.
-  *  _– To send periodic emails._ We may use the email address to respond to their inquiries, questions, and/or other requests.By clicking the consent button on our registration forms, the User agrees to receive Moving2Canada’s free Getting Started Guide, plus our newsletters, containing news, updates, and promotions regarding Moving2Canada’s advice articles, job updates, and products.
-
-If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
-If at any time the User would like to withdraw consent, users may do so at any time by clicking the ‘Unsubscribe’ button in our emails. To contact Moving2Canada Consulting Inc, please refer to our contact details at the bottom of this page. _  
+  *  _To improve customer service.  _Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  *  _To personalize user experience.  _We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  *  _To improve our Site.  _We may use feedback you provide to improve our products and services.
+  *  _To run a promotion, contest, survey or other Site feature.  _To send Users information they agreed to receive about topics we think will be of interest to them.
+  *  _To send periodic emails._ We may use the email address to respond to their inquiries, questions, and/or other requests. By clicking the consent button on our registration forms, the User agrees to receive Moving2Canada’s free Getting Started Guide, plus our newsletters, containing news, updates, and promotions regarding Moving2Canada’s advice articles, job updates, and products. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. If at any time the User would like to withdraw consent, users may do so at any time by clicking the ‘Unsubscribe’ button in our emails. To contact Moving2Canada Consulting Inc, please refer to our contact details at the bottom of this page. _  
 _
-
 
 
 
@@ -40,7 +35,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 #### Sharing your personal information
 
-As a general rule, we do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. The exception to this is where those who complete our Registration form choose to receive content from the Bank of Nova Scotia. Subscribers who check this box will have their data sent to the Bank of Nova Scotia and may receive email communications from them. Subscribers who choose to have their data sent to the Bank of Nova Scotia can opt-out of receiving these communications by clicking ‘Unsubscribe’ in emails they receive from the Bank of Nova Scotia.
+As a general rule, we do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. The exception to this is where those who complete our Registration form choose to receive content from the Bank of Nova Scotia or CurrencyFair. Subscribers who check the respective box will have their data sent to the Bank of Nova Scotia or CurrencyFair and may receive email communications from them. Subscribers who choose to have their data sent to the Bank of Nova Scotia or CurrencyFair can opt-out of receiving these communications by clicking ‘Unsubscribe’ in emails they receive from the Bank of Nova Scotia or CurrencyFair.
 
 #### Third party websites
 
@@ -50,13 +45,31 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
+#### General Data Protection Regulation (GDPR)
+
+Moving2Canada is fully compliant with GDPR in how we gather, store and process community data. Our Community’s trust is central to our success. We therefore aim to provide members with simple, convenient ways to interact with our services and retain control over the information they choose to share with us.
+
+Measures we have taken:
+
+  * Data Privacy Manager appointed to ensure GDPR compliance and prospective user experience and privacy concerns in the future.
+  * Privacy policy updated to ensure it offers the required information and is easy to understand.
+  * All data storage and processing service providers are compliant and provide the necessary security for stored data.
+  * Data usage audited to ensure we do not process any user data in a way that violates GDPR.
+  * Opt-in mechanisms audited and only interact with users who explicitly opt-in to receive communications and/ or services.
+  * We have appropriate documentation in place, which details what data is passed on to whom.
+  * Ensure users have easy access and control of their data.
+
+
+
+Ensuring the responsible handling of member data has always been part of the ‘social contract’ we have with the Moving2Canada Community.
+
 #### Changes to this privacy policy
 
 Moving2Canada has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 #### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://moving2canada.com/info/terms-service/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://moving2canada.com/terms-of-service/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 #### Contacting us
 
@@ -68,7 +81,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 
 
-This document was last updated on June 21, 2017.
+This document was last updated on June 14, 2018.
 
 ## We're here to help
 
