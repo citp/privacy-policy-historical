@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautynetkorea.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628081116id_/http%3A//beautynetkorea.com/member/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautynetkorea.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204000247id_/http%3A//www.beautynetkorea.com/member/privacy.html) for the most accurate reproduction.*
 
-# BeautynetKorea - The Best Korean Cosmetics Shop
+# K-Beauty & Korean Cosmetics Shop No.1 Website - Beautynetkorea
 
 'Beautynetkorea' (hereinafter referred to as the 'Company' takes care of the personal information of our customers and complies with the Law related to the ‘Stimulation of Use of Information and Communication Network & Information Protection”. The Company notifies our customers how the personal information provided by them in terms of the purpose and the way of use, and which measures are taken for the protection of the personal information through our Privacy Policy. In the event of any modification on the Privacy Policy, the Company will announce it through the notice on our Website (or individual notification).
 
