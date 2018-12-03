@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectleads.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602071357id_/http%3A//www.perfectleads.com/perfectleads-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectleads.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203205212id_/http%3A//www.perfectleads.com/perfectleads-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PerfectLeads
 
