@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysmart.sg privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927051402id_/http%3A//www.moneysmart.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysmart.sg privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203192904id_/https%3A//www.moneysmart.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MoneySmart.sg
 
@@ -118,7 +118,7 @@ Here at Moneysmart.sg, your personal data and the information that you share wit
 
 This Policy outlines how MoneySmart manages the personal data we hold in compliance with the Personal Data Protection Act in Singapore (the “Act”) and applies to everything we do with regards to that information.
 
-You can also visit our website at MoneySmart.sg to view the details of this policy as listed here. We also comply with local data protection and privacy laws in all our operations outside of Singapore which are owned and managed by Catapult Ventures Pte Ltd.
+You can also visit our website at MoneySmart.sg to view the details of this policy as listed here. We also comply with local data protection and privacy laws in all our operations outside of Singapore which are owned and managed by MoneySmart Singapore Pte Ltd.
 
 ### What types of personal data do we collect?
 
