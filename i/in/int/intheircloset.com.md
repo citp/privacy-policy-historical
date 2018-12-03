@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intheircloset.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220220739id_/http%3A//intheircloset.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intheircloset.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203025430id_/http%3A//intheircloset.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This statement covers the website **[http://intheircloset.com.com](http://intheircloset.com/)** (InTheirCloset.com). Please read this statement carefully before accessing InTheirCloset.com. Your use of InTheirCloset.com indicates your agreement to abide by the terms in effect.
+This statement covers the website **[http://intheircloset.com](http://intheircloset.com/)** (InTheirCloset.com). Please read this statement carefully before accessing InTheirCloset.com. Your use of InTheirCloset.com indicates your agreement to abide by the terms in effect.
 
   * Information Collection
   * Comments
@@ -78,4 +78,4 @@ Whenever InTheirCloset.com changes its privacy policy, we will post those change
 
 ### Contact Information
 
-If you have any questions or suggestions regarding our privacy policy, please do not hesitate to contact us at [info@intheircloset.com](mailto:info@intheircloset.com).
+If you have any questions or suggestions regarding our privacy policy, please do not hesitate to contact us at [mail@intheircloset.com ****](mailto:mail@intheircloset.com).
