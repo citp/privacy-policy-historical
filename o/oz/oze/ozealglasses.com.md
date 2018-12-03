@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozealglasses.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601203326id_/http%3A//www.ozealglasses.com/shop-with-ozeal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozealglasses.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203065146id_/http%3A//www.ozealglasses.com/shop-with-ozeal%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy, Shopping Security, T and C | Ozeal Glasses
 
@@ -29,7 +29,13 @@ You should contact us if the goods are not shipped safely within a reasonable nu
 
 ### Site Contents
 
-Unless otherwise noted, the Sites, and all materials on the Sites, including text, images, illustrations, designs, icons, photographs, video clips and other materials, and the copyrights, trademarks, trade dress and/or other intellectual property in such materials (collectively, the "Contents"), are owned, controlled or licensed by APACPAY PTE. LTD. which is located in 3 INTERNATIONAL BUSINESS PARK, #04-01A, NORDIC EUROPEAN CENTRE, SINGAPORE (609927)
+Unless otherwise noted, the Sites, and all materials on the Sites, including text, images, illustrations, designs, icons, photographs, video clips and other materials, and the copyrights, trademarks, trade dress and/or other intellectual property in such materials (collectively, the "Contents"), are owned, controlled or licensed by OZEAL TECHNOLOGY LTD (35 Ivor Place, Lower Ground, London, England, NW1 6EA)
+
+Part of our transactions are processed by our online payment provider, APACPAY group.  
+They operate in:   
+Singapore, 3 International Business Park, Nordic European Centre, #04-01A, Singapore 609927  
+Malaysia, 69-01, Jalan Mutiara Emas 10/2 Taman Mount Austin 81100 Johor Bahru, Johor  
+United Kingdom, FIFTH FLOOR, 3 GOWER STREET, LONDON, WC1E 6HA, UNITED KINGDOM
 
 ### Return and Refund
 
@@ -91,9 +97,9 @@ Please note that this policy constitutes an integral part of the website terms a
 
 ### Company Address
 
-APACPAY PTE. LTD.
+Ozeal Technology Ltd
 
-3 INTERNATIONAL BUSINESS PARK, #04-01A, NORDIC EUROPEAN CENTRE, SINGAPORE (609927)  
+35 Ivor Place, Lower Ground, London, England, NW1 6EA  
 
 
 ### Protection
