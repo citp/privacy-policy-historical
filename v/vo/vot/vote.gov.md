@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vote.gov privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508061933id_/https%3A//www.usa.gov/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vote.gov privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203210452id_/https%3A//www.usa.gov/policies) for the most accurate reproduction.*
 
 # Privacy, Security, and Accessibility Policies | USAGov
 
@@ -38,9 +38,9 @@ Back to Top
 
 ## Accessibility Policy
 
-USA.gov is committed to providing access to all individuals—with or without disabilities—seeking information on USA.gov. To provide this information, we've built USA.gov to conform to [Section 508 of the Rehabilitation Act](http://www.section508.gov/section508-laws) (as amended). Section 508 requires that all individuals with disabilities (whether federal employees or members of the general public) have access to, and use of, information and data comparable to that provided to individuals without disabilities, unless an undue burden would be imposed on us.
+USA.gov is committed to providing access to all individuals—with or without disabilities—seeking information on USA.gov. To provide this information, we've built USA.gov to conform to [Section 508 of the Rehabilitation Act](https://www.section508.gov/manage/laws-and-policies#508-policy) (as amended). Section 508 requires that all individuals with disabilities (whether federal employees or members of the general public) have access to, and use of, information and data comparable to that provided to individuals without disabilities, unless an undue burden would be imposed on us.
 
-If you use assistive technology (such as a screen reader, eye tracking device, voice recognition software, etc.) and have difficulty accessing information on USA.gov, please [email us](https://web.archive.org/email) and provide the URL (web address) of the material you tried to access, the problem you experienced, and your contact information. We'll contact you and attempt to provide the information you're seeking.
+If you use assistive technology (such as a screen reader, eye tracking device, voice recognition software, etc.) and have difficulty accessing information on USA.gov, please [contact us](https://web.archive.org/site-issue-report-form) and provide the URL (web address) of the material you tried to access, the problem you experienced, and your contact information. We'll contact you and attempt to provide the information you're seeking.
 
 Back to Top
 
@@ -50,20 +50,27 @@ USA.gov links to many websites created and maintained by other public and/or pri
 
 ### Social Media Sites
 
-USA.gov manages a presence on social media sites such as [Facebook](https://www.facebook.com/USAgov), [Twitter](https://twitter.com/USAgov), [YouTube](https://www.youtube.com/usagov), [Snapchat](https://www.snapchat.com/add/usagov), [Instagram](https://www.instagram.com/usagov/), [Pinterest](https://www.pinterest.com/usagov/), and others to share government information, and engage with the public. We do not collect any personally identifiable information through those sites, and we do not use personal information made available by the third-party sites.
+USA.gov manages a presence on social media sites such as [Facebook](https://www.facebook.com/USAgov), [Twitter](https://twitter.com/USAgov), [YouTube](https://www.youtube.com/usagov1), [Snapchat](https://www.snapchat.com/add/usagov), [Instagram](https://www.instagram.com/usagov/), [Pinterest](https://www.pinterest.com/usagov/), and others to share government information, and engage with the public. We do not collect any personally identifiable information through those sites, and we do not use personal information made available by the third-party sites.
 
 Back to Top
 
 ## If You Send Us Personal Information
 
-We do not collect personal information for any purpose other than to respond to your request. The only personal information that we collect is what you decide to give us by [ordering publications](https://publications.usa.gov/), [sending us an email](https://web.archive.org/email), or [subscribing to our email subscription services](http://connect.usa.gov/subscribe?email=). If you choose to provide us with personal information — like filling out a [Contact Us form](https://web.archive.org/email), with an email address and ZIP code, and submitting it to us through the website — we use that information to respond to your message and to help get you the information you requested. Similarly, if you order a publication from us, we will collect your name, and mailing address to fulfill your order.
+We do not collect personal information for any purpose other than to respond to your request. The only personal information that we collect is what you decide to give us by [web chatting with us](https://web.archive.org/chat) or [subscribing to our email subscription services](http://connect.usa.gov/subscribe?email=). If you choose to provide us with personal information — like filling out a [Web Chat form](https://web.archive.org/chat), with an email address, and submitting it to us through the website — we use that information to respond to your message and to help get you the information you requested. Similarly, if you order a publication from us, we will collect your name, and mailing address to fulfill your order.
 
 We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. USA.gov never collects information or creates individual profiles for commercial marketing.
 
-Share This Page: [](http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov%2Fpolicies&v=3) [](http://twitter.com/intent/tweet?source=webclient&text=Privacy%2C+Security%2C+and+Accessibility+Policies+https://www.usa.gov%2Fpolicies) [](mailto:?subject=Privacy,%20Security,%20and%20Accessibility%20Policies&body=https://www.usa.gov%2Fpolicies)
-
 Back to Top
+
+## Do you need help?
+
+Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. 
+
+  * [Call USA.gov](https://web.archive.org/phone)
+  * [Chat with USA.gov](https://web.archive.org/chat)
+
+
 
 ## What you think matters!
 
-Last Updated: April 13, 2018
+Last Updated: October 31, 2018
