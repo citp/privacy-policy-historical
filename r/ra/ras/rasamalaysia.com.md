@@ -1,85 +1,107 @@
-> *The following text is extracted and transformed from the rasamalaysia.com privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118071901id_/https%3A//rasamalaysia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rasamalaysia.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203172551id_/https%3A//rasamalaysia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rasa Malaysia: Easy Asian Recipes
 
-Rasa Malaysia is committed to maintaining the privacy and protection of your personal information. This privacy policy tells you about the information we collect on this website and how we use that information. By using the Rasa Malaysia website, you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us.
+Rasa Malaysia found at <https://rasamalaysia.com/> (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
- **Children Under 13**
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
-We care about protecting the privacy of children. We won’t knowingly allow anyone under 13 to provide us any personally identifying information. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. If you’re under 13, please do not provide us with any personally identifying information (such as your name, your email address or your phone number).
+WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
- **Information We Collect**
+ **Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, entering a giveaway, subscribing to a newsletter, or submitting a contact form. 
 
-The information we gather falls into two categories:
+ **Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-  1. Information you supply when you register to receive emails or comment on the website, and
-  2. Tracking information collected as you navigate through our site.
+ **Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
+HOW YOUR INFORMATION MAY BE USED
 
+We may use the information collected in the following ways:
 
- **Personally Identifying Information**
-
-In operating the Site, Rasa Malaysia may include registration, comment forms, online surveys, and other online forms that ask users to provide their names, e-mail addresses, and other contact information.
-
- **Tracking Information**
-
- **Cookies**
-
-From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Web site. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our website other than cookies. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Web site may be diminished and some features may not work as they were intended.
-
- **Click Tracking**
-
-As is true of most websites, Rasa Malaysia gathers certain information automatically and stores it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. We use this information to analyze trends, administer the site, track users’ movements around the site and gather demographic information about our user base as a whole. Except as noted herein, we do not link this automatically-collected data to personal information.
-
- **IP Addresses**
-
-Each user’s IP address is logged with each visit and each action performed on Rasa Malaysia. This information is never provided to the third parties, except as otherwise stated in this Privacy Policy, and is logged only for a temporary period of time. IP address information is linked to personal information and may be used in an effort to block a “banned” user from accessing the Site.
-
- **Advertising**
-
-If there is advertising on Rasa Malaysia, such advertising may employ the use of cookies or other methods to track hits and click-throughs. We are not responsible for advertiser cookies or how the information gathered through their use might be used.
-
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
-
-**Participation on a Public Website**
-
-You should be aware that any personal information you submit on Rasa Malaysia in the comments may be read, collected, or used by other users of this Site, including anonymous visitors.
-
- **How Your Information Will Be Used**
-
- **Personal Information**
-
-We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. We may use your personal information to verify your identity, to check your qualifications, or to follow up with transactions initiated on the site. We may also use your contact information to inform you of any changes to Rasa Malaysia, or to send you additional information about Rasa Malaysia.
-
- **Anonymous Information**
-
-We use anonymous information to analyze our Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
-
- **Use of Cookies**
-
-We may use cookies to deliver content specific to your interests. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
-
- **Disclosure of Personal Information**
-
-We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to:
-
-  1. Conform to the edicts of the law or comply with legal process served on Rasa Malaysia
-  2. Protect and defend the rights or property of Rasa Malaysia or the users of this site, or
-  3. Act under circumstances to protect the safety of the public or users of this site.
+  * To operate and maintain the Website;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
 
 
- **Security**
+THIRD-PARTY USE OF PERSONAL INFORMATION
 
-Rasa Malaysia has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
+We may share your information with third parties when you explicitly authorize us to share your information.
 
- **Comments  
-**Rasa Malaysia may include interactive forms such as comments. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
- **Third Party Websites**
+The Website currently uses the following third-party service providers:
 
-Rasa Malaysia contains affiliate links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
+Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
- **Updates and Changes**
+MailChimp – this service is used for delivery of email updates, newsletters and SMS. We store your email address and phone number (optional field) for purposes of delivering such communications. Please refer to Mail Chimp’s privacy policy for further information.
 
-We reserve the right, at any time, to add to, change, update, or modify this privacy policy, simply by posting such change, update, or modification on Rasa Malaysia and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site. It is your responsibility to review this privacy policy from time to time to ensure that you continue to agree with all of its terms.
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
+
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
+
+ANONYMOUS DATA
+
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
+
+PUBLICLY VISIBLE INFORMATION
+
+If you leave a comment, certain information may be publicly visible.  Your email address will never be available publicly.  At your option, you may also add a link to your website.
+
+You may also choose to link your Facebook, Instagram, and Google Account.
+
+Users may see your name and website information.
+
+COOKIES
+
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
+
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+ADVERTISING
+
+ **Display Ads**
+
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
+
+ **Retargeting  Ads**
+
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+
+ **Affiliate Program Participation**
+
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+Rasa Malaysia is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+Newsletters
+
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+RIGHTS RELATED TO YOUR PERSONAL INFORMATION
+
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9efcfbfbdeecffedfff3fff2ffe7edf7ffb0fdf1f3) to be removed from our mailing list.
+
+Access – You may access the personal information we have about you by submitting a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7a181f1f3a081b091b171b161b0309131b54191517).
+
+Amend – You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fe9c9b9bbe8c9f8d9f939f929f878d979fd09d9193) to amend or update your personal information.
+
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#640601012416051705090508051d170d054a070b09).
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+SENSITIVE PERSONAL INFORMATION
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+CHILDREN’S INFORMATION
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at w [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#eb898e8eab998a988a868a878a9298828ac5888486) and we will use our best efforts to promptly remove such information from our records.
+
+CONTACT INFORMATION
+
+At any time, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1c7e79795c6e7d6f7d717d707d656f757d327f7371) for questions related to this Privacy Policy.
