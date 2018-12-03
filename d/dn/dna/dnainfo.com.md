@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dnainfo.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627223106id_/https%3A//www.dnainfo.com/new-york/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnainfo.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203133753id_/https%3A//www.dnainfo.com/new-york/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - About Us - DNAinfo New York
+# Privacy Policy - About Us - New York - DNAinfo
 
-DNAinfo (" _DNA_ ") is committed to protecting your privacy.  This Privacy Policy will advise you about how DNA protects your personal information and about what choices you have concerning the use of that information.  Please read this policy carefully.
+DNAinfo (" _DNA_ ") is committed to protecting your privacy.Â  This Privacy Policy will advise you about how DNA protects your personal information and about what choices you have concerning the use of that information.Â  Please read this policy carefully.
 
 **The Information DNA Collects and How DNA Uses It**
 
@@ -34,13 +34,13 @@ DNA does not knowingly collect any personally identifiable information from chil
 
 **Your Acceptance of These Terms**
 
-By visiting the Site, you consent to the terms of this Privacy Policy and to the collection and use of this information by DNA. DNA will always fully disclose its privacy policies, and will promptly post any changes to its policy on this page. You agree that DNA may retain and use your personal information as described in this Privacy Policy until you inform DNA that you do not agree with this Privacy Policy and agree that you will not use the Site for a reasonable time thereafter.  By using the Site after DNA posts any changes to this Privacy Policy, you agree to accept those changes.
+By visiting the Site, you consent to the terms of this Privacy Policy and to the collection and use of this information by DNA. DNA will always fully disclose its privacy policies, and will promptly post any changes to its policy on this page. You agree that DNA may retain and use your personal information as described in this Privacy Policy until you inform DNA that you do not agree with this Privacy Policy and agree that you will not use the Site for a reasonable time thereafter.Â  By using the Site after DNA posts any changes to this Privacy Policy, you agree to accept those changes.
 
 If you choose to visit DNA, your visit and any dispute over privacy is subject to this Privacy Policy and DNA [Terms of Use](https://www.dnainfo.com/new-york/about-us/terms).
 
 **Applicable Law**
 
-This Privacy Policy will be governed by and construed in accordance with the laws of the State of New York, without regard to any principles of conflicts of law.  You agree that< any action at law or in equity that arises out of or relates to any use of the Site will be filed only in the state or federal courts located in New York County and you hereby consent and submit to the personal jurisdiction of such courts for the purposes of litigating any such action.
+This Privacy Policy will be governed by and construed in accordance with the laws of the State of New York, without regard to any principles of conflicts of law.Â  You agree that< any action at law or in equity that arises out of or relates to any use of the Site will be filed only in the state or federal courts located in New York County and you hereby consent and submit to the personal jurisdiction of such courts for the purposes of litigating any such action.
 
 **Contacting the Site**
 
