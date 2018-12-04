@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anvisoft.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708040436id_/http%3A//www.anvisoft.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anvisoft.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204120346id_/http%3A//anvisoft.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Anvisoft
 
