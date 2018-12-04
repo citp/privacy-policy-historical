@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624092455id_/http%3A//www.copyright.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204103616id_/http%3A//www.copyright.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Copyright Clearance Center
 
-[](http://privacy.truste.com/privacy-seal/Copyright-Clearance-Center/validation?rid=a670a051-838d-4688-8877-e91e43bbe22d "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=ca83d6b2-8812-41f4-a04e-dfb37975aa8b)
 
-Effective: May 24, 2018
+Effective: September 13, 2018
 
 This Privacy Policy applies to www.copyright.com, owned and operated by Copyright Clearance Center (“CCC”). This Privacy Policy describes how Copyright Clearance Center collects and uses the personal information you provide on our web site: www.copyright.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -41,15 +41,13 @@ Please be advised that CCC is not responsible for the content or privacy practic
 
 USE OF COOKIES AND OTHER TECHNOLOGIES
 
-Technologies such as cookies, beacons, tags and scripts are used by CCC and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+We and our partners, affiliates, or analytics or service providers use cookies and similar technologies in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 As with most Web sites, CCC also gathers certain information automatically and stores it in log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, and a date/time stamp and clickstream data. We do not link this automatically collected data to other information we collect about you.  We do not honor Do Not Track requests at this time, due to the lack of a clear industry standard. This privacy policy may be revised when a common definition and standard is adopted.
 
 When you accept our cookies, we use them to track your visit to any CCC Web offering. In addition, we use log files and clear gifs to help manage our Web site and other electronic communications. However, none of this information, other than the automated log-in feature, identifies you personally or is tied to any of your personally identifiable information. You remain anonymous unless you have otherwise provided CCC with personally identifiable information.
-
-We use local shared objects, also known as HTML5 cookies, to store your preferences such as volume control, or display content based upon what you view on our site to personalize your visit. third parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use HTML5 and Flash cookies to collect and store information. To learn how to manage privacy and storage settings for Flash cookies, visit: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
 
 We partner with a third-party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt out by clicking here: <http://preferences-mgr.truste.com/>. Please note this does not opt you out of general advertising being served to you and you will continue to receive generic ads.
 
@@ -73,7 +71,7 @@ We will retain your information for as long as your account is active or as need
 
 OPTING IN TO RECEIVE INFORMATION FROM CCC
 
-CCC regularly distributes communications via email and direct mail regarding upcoming webinars and other events, news about our products and services and informative content on related topics. If you wish to receive this type of information in the future, please complete the form [found here](https://www.rightsdirect.com/pardot-landing-page/opt-in-page/).
+CCC regularly distributes communications via email and direct mail regarding upcoming webinars and other events, news about our products and services and informative content on related topics. If you wish to receive this type of information in the future, please complete the form [found here](https://www.rightsdirect.com/pardot-landing-page/opt-in-page/).
 
 OPTING OUT OF RECEIVING INFORMATION FROM CCC
 
@@ -107,11 +105,11 @@ OUR COMMITMENT TO YOUR PRIVACY
 
 CCC complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. CCC has certified to the Department of Commerce that it adheres to the Privacy Shield Principles and is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-In compliance with the Privacy Shield Principles, CCC commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Private Shield policy should first contact CCC at: [privacyofficer@copyright.com](mailto:privacyofficer@copyright.com). CCC has further committed to refer unresolved Privacy Shield complaints to TRUSTe, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://feedback-form.truste.com/watchdog/request> for more information or to file a complaint. The services of TRUSTe are provided at no cost to you. Should TRUSTe be unable to resolve any issues or disputes, you may invoke the option under the Privacy Shield of binding arbitration. For more information, please visit <https://www.privacyshield.gov/article?id=G-Arbitration-Procedures>
+In compliance with the Privacy Shield Principles, CCC commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Private Shield policy should first contact CCC at: [privacyofficer@copyright.com](mailto:privacyofficer@copyright.com). CCC has further committed to refer unresolved Privacy Shield complaints to our alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://feedback-form.truste.com/watchdog/request> for more information or to file a complaint. The third party dispute resolution service are provided at no cost to you. Should the third party dipute resolution be unable to resolve any issues or disputes, you may invoke the option under the Privacy Shield of binding arbitration. For more information, please visit <https://www.privacyshield.gov/article?id=G-Arbitration-Procedures>
 
 GDPR
 
-CCC policies and practices are consistent with those required under the General Data Protection Regulation (GDPR, 2016/679) for companies doing business in the European Union.  To learn more about the GDPR, please visit our [FAQs on the topic](http://www.copyright.com/pardot-landing-page/data-collection-practices-faqs/) or our [Data Collection Practices Page](http://www.copyright.com/pardot-landing-page/data-collection-practices/). To learn more about the GDPR you can access the official document [here](https://gdpr-info.eu/).
+CCC policies and practices are consistent with those required under the General Data Protection Regulation (GDPR, 2016/679) for companies doing business in the European Union.  To learn more about the GDPR, please visit our [FAQs on the topic](http://www.copyright.com/pardot-landing-page/data-collection-practices-faqs/) or our [Data Collection Practices Page](http://www.copyright.com/pardot-landing-page/data-collection-practices/). To learn more about the GDPR you can access the official document [here](https://gdpr-info.eu/).
 
 CHANGES TO THIS PRIVACY POLICY
 
