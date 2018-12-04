@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesgrandstaff.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603024841id_/http%3A//www.jamesgrandstaff.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesgrandstaff.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204072549id_/http%3A//www.jamesgrandstaff.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
