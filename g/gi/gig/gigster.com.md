@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigster.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530231353id_/https%3A//gigster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigster.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204031450id_/https%3A//gigster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gigster
 
@@ -76,6 +76,8 @@ Gigster takes reasonable steps to protect the Personal Data provided via the Ser
 
 ## Access to Information; Contacting Gigster Policy:
 
-To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. Please also feel free to contact us if you have any questions about Gigster’s Privacy Policy or the information practices of the Services.
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. Furthermore, please contact us for any requests for a copy of your user data or to deactivate your account.
+
+Please also feel free to contact us if you have any questions about Gigster’s Privacy Policy or the information practices of the Services.
 
 You may contact us as follows: [support@gigster.com](mailto:support@gigster.com).
