@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwelkin.com privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825090321id_/http%3A//techwelkin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwelkin.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204153647id_/https%3A//techwelkin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ This web page contains the details about privacy information of TechWelkin. It a
 
 ## Privacy information
 
-We at www.techwelkin.com take privacy very seriously. We would never disclose your personal information to third parties or use it for bulk mail lists or newsletters.
+We at techwelkin.com take privacy very seriously. We would never disclose your personal information to third parties or use it for bulk mail lists or newsletters.
 
 Submission of personal information is not required in order to browse our website and we strongly urge you NOT to disclose any of your personal addresses, emails or phone numbers when interacting with our readers in the comments sections.
 
@@ -18,7 +18,7 @@ The data we collect is not personally identifiable regardless of whether you are
 
 ## Our cookie policy
 
-In compliance with the European Union legislation, we inform you that our website www.techwelkin.com will store some information about your preferences how the website looks and operates on your own computer inside a tiny file called a ‘cookie’.
+In compliance with the European Union legislation, we inform you that our website techwelkin.com will store some information about your preferences how the website looks and operates on your own computer inside a tiny file called a ‘cookie’.
 
 A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device. The cookie allows the website to “remember” your actions or preferences over time.
 
@@ -35,7 +35,7 @@ We use cookies to:
 
 
 
-Enabling cookies from www.techwelkin.com is not strictly necessary for the website to work but it will provide you with a better browsing experience.
+Enabling cookies from techwelkin.com is not strictly necessary for the website to work but it will provide you with a better browsing experience.
 
 The cookie-related information is not used to identify you personally and the pattern data is fully under our control. These cookies are not used for any purpose other than those described here.
 
