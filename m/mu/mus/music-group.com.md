@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the music-group.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625155620id_/http%3A//www.music-group.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music-group.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204013408id_/http%3A//www.musictri.be/privacy-policy) for the most accurate reproduction.*
 
 # MUSIC Tribe
 
@@ -6,7 +6,7 @@ We respect the privacy of every individual who visits our Site. Furthermore, we 
 
 #### 1\. What is personal information?
 
-Personal information is any information that is used to identify a particular person, such as a name, address, telephone number, email address and so onfurther data relating and referring directly or indirectly to an identified or identifiable natural person, such as location data, an online identifier or factors specific to the identity of that natural person;. We will only use such information when we are legally allowed to or when you give us your consent.
+Personal information is any information that is used to identify a particular person, such as a name, address, telephone number, email address and so on further data relating and referring directly or indirectly to an identified or identifiable natural person, such as location data, an online identifier or factors specific to the identity of that natural person;. We will only use such information when we are legally allowed to or when you give us your consent.
 
 #### 2\. Your Consent to This Privacy Policy
 
@@ -16,9 +16,9 @@ We may alter or remove this Privacy Policy at any time. Whenever we make any cha
 
 #### 3\. Collection of Personal Information
 
-While you are accessing, browsing or using the Site, you may be asked for your personal information to allow you to participate in prize competitions, answer our questionnaires or inquiries by e-mail or through the Site, register as a MUSIC Tribe user, monitor MUSIC Tribe products, receive e-mail news services concerning the MUSIC Tribe products, and so on
+While you are accessing, browsing or using the Site, you may be asked for your personal information to allow you to participate in prize competitions, answer our questionnaires or inquiries by e-mail or through the Site, register as a MUSIC Tribe user, monitor MUSIC Tribe products, receive e-mail news services concerning the MUSIC Tribe products, and so on.
 
-We will not collect your personal information unless and until you provide such information to us voluntarily. When you provide us with your personal information, you authorize us to use such information in accordance with the terms set forth below. You may withdraw this authorization anytime by sending instructions through an email to service@music-group.com and we will immediately delete all your personal information.In this context we do expressly refer to your rights to access information with respect to your privacy data that we do control; to your right to rectification, erasure, restriction and other rights provided by Chapter 3 of the EU-GDPR 2016/679. 
+We will not collect your personal information unless and until you provide such information to us voluntarily. When you provide us with your personal information, you authorize us to use such information in accordance with the terms set forth below. You may withdraw this authorization anytime by sending instructions through an email to service@music-group.com and we will immediately delete all your personal information. In this context, we do expressly refer to your rights to access information with respect to your privacy data that we do control; to your right to rectification, erasure, restriction and other rights provided by Chapter 3 of the EU-GDPR 2016/679. 
 
 #### 4\. How we use your information
 
