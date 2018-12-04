@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalinsurrection.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612213348id_/https%3A//legalinsurrection.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalinsurrection.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204030717id_/https%3A//legalinsurrection.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,6 +38,8 @@ Please be aware that whenever you voluntarily post public information to message
 
 Ads appearing on this Website may be delivered to users by Insurrection or one of our advertising partners. Our Web advertising partners may set cookies. These cookies allow advertisement providers to recognize your computer each time they send you an online advertisement. In this way, advertisement providers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers solely the use of cookies by Insurrection and does not cover the use of cookies by any advertisers.
 
+<http://optout.networkadvertising.org/?c=1#!/>
+
 **SECURITY**
 
 Insurrection user accounts are secured by user-created passwords. Insurrection takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to only those individuals who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on Insurrection, please contact us at [contact@legalinsurrection.com](mailto:contact@legalinsurrection.com).
@@ -68,4 +70,4 @@ Copyright © 2012-2018 Legal Insurrection and College Insurrection.   All righ
 
 Effective Date:  August 21, 2012
 
-Last updated:  March 15, 2018
+Last updated:  August 16, 2018
