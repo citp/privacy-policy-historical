@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marineinsight.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920183108id_/http%3A//www.marineinsight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marineinsight.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204125801id_/https%3A//www.marineinsight.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Marine Insight Privacy Policy
 
 At Marine Insight we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our web site and staunchly recognize the importance of protecting this information. In adopting this privacy policy (this “Privacy Policy”), our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. This Privacy Policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our Privacy Policy.
 
-## **Personal Information**
+##  **Personal Information**
 
 We do not have your personal information unless it was provided to us in one of the following ways:
 
@@ -18,34 +18,40 @@ We do not have your personal information unless it was provided to us in one of 
 
 (5) By participating in a survey where an email address is requested. We may also ask for other information at other times but at no time will you be required to share any personal information to gain complete access to our site. Marine Insight is an open community but email addresses are requested to participate in some of our features.
 
-## **Cookies and Web Beacons  
+##  **Cookies and Web Beacons  
 **
 
-Our collaborators, supporters and business partners may use cookies on our site such as advertisements, which maintain whether you have visited the site before or not. We do not have control over these cookies after permission to advertisers have been granted. However, no identifiable information is attached to such cookies. Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/policies/privacy/ads/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/choices/).)
+Our collaborators, supporters and business partners may use cookies on our site such as advertisements, which maintain whether you have visited the site before or not. We do not have control over these cookies after permission to advertisers have been granted. However, no identifiable information is attached to such cookies. Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](https://adssettings.google.com/authenticated?hl=en). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/choices/).)
 
-## **Tracking**
+We partner with a third-party ad network to either display advertising on our Site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+The User can allow or forbid the use and acceptance of cookies on his/her computer. If cookies are blocked by the User, it may prevent the User from being able to register or perform other interactive functions of the Site, but it will not affect the User’s ability to perform general navigation within the Site.
+
+Email information collected for sending newsletters or promotional mails is not stored or used for any other purpose. That information is not shared with any other parties.
+
+##  **Tracking**
 
 In addition to basic contact information, our analytic trackers may also collect information that is in no way personally identifiable. We use regular analytic applications in order to track the visits to our site, which in turn includes the domain name, time, date and page visited. This may include the operating system you are working on, the Internet browser you are using, and the screen resolution of your computer.
 
-## **External Links**
+##  **External Links**
 
 This Website includes links to external sites as well including product sales. Marine Insight is not responsible for external websites’ privacy policies, practices, content of such Websites or prices changes.
 
-## **Advertisements**
+##  **Advertisements**
 
 We employ external Ad service companies for the display of advertisements on our site. Some of ads displayed may use cookies, but we do not have personal details or access to personal information.
 
-Some of the advertisers we employ are Google Adsense, Chitika, etc. Since we display Google AdSense, we in fact must inform that Google AdSense uses DoubleClick Dart cookie, as to provide ‘ads tailored to your interests’. In order to provide additional details, we have added a direct link for further information regarding [DoubleClick Dart cookie](https://www.doubleclickbygoogle.com/) and Google AdSense [Privacy Policy](http://www.google.com/policies/privacy/ads/) (Marine Insight’s [Privacy Policy for Google Adsense](http://www.marineinsight.com/marine-insight-google-adsense-privacy-policy/)). and means to opt out of DoubleClick Dart cookies.
+Some of the advertisers we employ are Google Adsense, Chitika, etc. Since we display Google AdSense, we in fact must inform that Google AdSense uses DoubleClick Dart cookie, as to provide ‘ads tailored to your interests’. In order to provide additional details, we have added a direct link for further information regarding [DoubleClick Dart cookie](https://www.doubleclickbygoogle.com/) and Google AdSense [Privacy Policy](http://www.google.com/policies/privacy/ads/) (Marine Insight’s [Privacy Policy for Google Adsense](https://www.marineinsight.com/marine-insight-google-adsense-privacy-policy/)). and means to opt out of DoubleClick Dart cookies.
 
 Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. And, in the course of serving advertisements to this site, third party advertisers may place or recognize a unique cookie on your browser
 
 Any information you disclose voluntarily on our comments page or in any properties hosted by Marine Insight become public information. Marine Insight is a public forum. We cannot control the action of our site users and advise you to use your discretion in sharing information about yourself on the Internet. All information sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online.
 
-## **Disclaimer**
+##  **Disclaimer**
 
 Marine Insight provides content based on experiences of maritime professionals, with appropriate citing to academic and online references. While we may hope to provide the most updated and accurate information, Marine Insight makes no representation to accuracy, up-to-date, compatibility or validity of the content, and will not be liable or held accountable for errors, loss, injury or damage arising from its presence at Marine Insight. If inquiring further specific details, it is always recommended to find official documentation provided by company, product or academic books you are interested in.
 
-## **Marine Insight Comment Policy**
+##  **Marine Insight Comment Policy**
 
 We never censor comments based on political or ideological point of view or of a critical nature. However, we reserve the right to delete those comments that are off-topic, “spammy” in nature, abusive, use excessive foul language, or include ad hominem attacks.
 
@@ -53,25 +59,25 @@ Once a comment is made public on the Marine Insight website, we will not remove 
 
 Comments will only be considered for removal (i) in response to legal process, for example, in response to a court order, or (ii) in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law.
 
-## **Privacy Policy – Products and Services**
+##  **Privacy Policy – Products and Services**
 
 We take your privacy seriously and will take all measures to protect your personal information.
 
 Any personal information received will only be used to fill your order. We will not sell or redistribute your information to anyone.
 
-## **Refund Policy – Product and Services**
+##  **Refund Policy – Product and Services**
 
 If you are not 100% satisfied with your purchase, just let us know and we will give you a full refund up to 30 days from the purchase date.
 
 It is to be noted that, this policy may be updated at anytime, and may be found within the site. We encourage your feedback, opinions, and suggestions; these may be forwarded to info@marineinsight.com
 
-## **PRIVACY POLICY FOR MARINE INSIGHT MOBILE APPLICATIONS**
+##  **PRIVACY POLICY FOR MARINE INSIGHT MOBILE APPLICATIONS**
 
 This privacy policy governs your use of the software application Marine Insight (“Application”) for mobile devices that was created by Marine Insight. The Application is news reader app offering breaking news, articles and stories.
 
 ## What information does the Application obtain and how is it used?
 
-## **User Provided Information**
+##  **User Provided Information**
 
 The Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
 
@@ -79,7 +85,7 @@ When you register with us and use the Application, you generally provide (a) yo
 
 We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.
 
-## **Automatically Collected Information**
+##  **Automatically Collected Information**
 
 In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
 
@@ -137,13 +143,13 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 
 By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. “Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the India. If you reside outside the India your information will be transferred, processed and stored there under India privacy standards.
 
-## **This website uses Google AdWords**
+##  **This website uses Google AdWords**
 
 This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the MarineInsight(www.marineinsight.com) website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
 
 You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can  
 [opt out of interest-based advertising](http://www.google.com/settings/ads/onweb/) entirely by cookie settings or permanently using a browser plugin.
 
-## **Contact us**
+##  **Contact us**
 
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at info@marineinsight.com.
