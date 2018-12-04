@@ -1,97 +1,335 @@
-> *The following text is extracted and transformed from the racer.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430225054id_/http%3A//www.racer.com/site_content/512-content/101641-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racer.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204171724id_/https%3A//racer.com/privacy-policy) for the most accurate reproduction.*
 
-# Content - PRIVACY POLICY
+# Privacy Policy | RACER
 
-**Racer Media & Marketing, Inc. – Privacy Policy**
+**Last updated: May 24, 2018**
 
-**Last Updated: March 12, 2014**
+Racer Media & Marketing, Inc. (“us”, “we”, or “our”) operates the www.racer.com website (the “Service”).
 
-Racer Media & Marketing, Inc. ("Racer") has created this privacy statement to demonstrate our firm commitment to protect your privacy and to fully disclose what information we collect and how we use it. Please note your use of our Digital Offering is also governed by the Terms of Use.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-  
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE OR DIGITAL OFFERING, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE OR DIGITAL OFFERING.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from www.racer.com
 
-**Information Collection and Dissemination**
+**Definitions**  
 
-**General Principles**
-
-  * In general, you may visit this Digital Offering or use the companion mobile applications (collectively referred to as the "Digital Offering") without identifying yourself or revealing any personal information.
-  * As you browse our Digital Offering, the Digital Offering collects log file, IP address of your computer, and other standard tracking data we use to evaluate Digital Offering traffic and usage patterns. Such information is aggregated with tracking data from all Digital Offering visitors. We may use the information to personalize the Digital Offering according to your preferences based on the aggregated information. We may also use the aggregated information to evaluate products and services we may offer to you.
-  * Some portions of this Digital Offering may require you to give us personally identifiable information such as your name, job title, company, physical mailing address, e-mail address, telephone and fax numbers (Personal Information) and, if applicable, financial information such as your credit card information (Financial Information), for, without limitation, subscriptions to our publications and other products. If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communications may be collected as Personal Information. It is optional for you to engage in an activity that requires you to provide Personal Information or Financial Information; however, if you do not provide the required Personal Information or Financial Information, you will not be able to engage in such activity.
-  * If you elect to provide us Personal Information, we use it primarily to deliver the service you requested. Other uses of Personal Information are described elsewhere in this Policy.
-  * If you submit Financial Information, we use that information primarily to verify your credit and collect payments for your purchases, orders, registrations, etc.
-  * Racer uses a third party to process credit card transactions and does not store Financial Information, such as credit card information on its website. We do retain the last four digits of the credit card number solely for customer service purposes.
-  * Racer uses third-party vendors to deliver its Digital Offering so your Personal Information may be shared with them to the extent necessary to deliver the service requested.
-  * You may review and request changes to your Personal information at any time by sending an email to [webmaster@racer.com.](mailto:webmaster@racer.com.)
+  * Service
 
 
 
-**Information Sharing**
+Service is the [http://www.racer.com](http://www.racer.com/) website operated by Racer Media & Marketing, Inc.
 
-Unless you opt-out, we may share your Personal Information with Racer's affiliates and partners and third parties licensed to access your Personal Information by any of the foregoing. To opt-out, send us an email to [webmaster@racer.com](mailto:webmaster@racer.com)  
-Except as otherwise provided in this Privacy Policy, we will keep your Personal Information and your Financial Information private and will not share it with third parties, unless such disclosure is necessary to (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our terms of service.
+  * Personal Data
 
-Several companies unaffiliated with Racer provide email deployment services for our email messages. We provide Personal Information, such as e-mail addresses, to these vendors for the purposes of e-mail deployment; such Personal Information is only used by them for that purpose and not for any other business activity.
 
-In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Racer products to other companies, so they can be suppressed from mailings those companies on Racer’s behalf. In addition, if you unsubscribe from a mailing we send to our own mailing list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at [webmaster@racer.com.](mailto:webmaster@racer.com.)
 
-**Aggregated information**
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
-We sometimes provide aggregated usage or tracking information collected from this Digital Offering to third parties.
+  * Usage Data
 
-**Information on Children**
 
-We do not knowingly collect information from children under the age of 13. On-line registration and Digital Offering usage is restricted to adults.
 
-**Your Newsletter Subscription**
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
 
-You can opt-in to our newsletter mailing list, or remove yourself (opt-out) at any time by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect.
+  * Cookies
 
-**Update Your Print Subscription Information**
 
-You can correct or change your print subscription information online on our Customer Service page, or by calling 877-425-4103 (outside the U.S. 845-267-3047). Please allow 2-4 weeks for changes to take effect. RACER magazine subscriptions are managed by a fulfillment service that is not affiliated with Racer. The information you provide when subscribing to RACER magazine will go to this company for the purpose of paying for and fulfilling your subscription.
 
-**Third Party and Affiliated Links:**
+Cookies are small pieces of data stored on your device (computer or mobile device).
 
-Our Digital Offerings may contain external links to other Digital Offerings including suppliers, advertisers and affiliates. We have no control over, and are not responsible for, the content of, or information gathered by, these other Digital Offerings. We do not endorse any of these Digital Offerings or the products or services associated with such Digital Offerings merely because they are linked to our Digital Offering.
+  * Data Controller
 
-**Other Publications and Services**
 
-As a Racer customer you can also expect to receive relevant email and postal offers for Racer publications, Digital Offerings and other services. From time to time we are also able to secure and offer to our customers specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such mailings in the future, you can change your preference via the subscription management page which can be located by using the “Newsletter” link at the top of the Digital Offering. For Racer Digital Offerings not offering the subscription management page, please send your email preferences to [webmaster@racer.com.](mailto:webmaster@racer.com.)
 
-**Email A Friend**
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
 
-If you choose to use our referral service to inform a friend about our Digital Offering, products, or services, we will ask you for your friend's name and email address. We will send your friend a one-time e-mail inviting them to visit the Digital Offering. We may store this information for the purpose of sending this one-time e-mail and tracking the success of our referral program. Your friend may contact us at [webmaster@racer.com](mailto:webmaster@racer.com) to have their information removed from our database.
+For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
 
-**Online Ad Serving**
+  * Data Processors (or Service Providers)
 
-We use third-party advertising companies to serve ads when you visit our Digital Offering. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this Digital Offering and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/consumer/opt_out.asp>
 
-**Cookies**
 
-A "cookie" is a bit of data sent by a Website through the browser to the computer of the user visiting the site, and enables the site to return the results the browser expects. Racer uses temporary, session-specific cookies to ensure visits to its Website are smooth and customized for the visitor. Such cookies allow us to provide a visitor's browser with information tailored to the visitor's preferences and needs. Racer also uses permanent or persistent cookies that remain on a visitor's computer after the visitor leaves a Racer Website.  
-If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser's settings. However, disabling the cookie support function of the browser will prevent our Website from functioning properly and you may not be able to utilize fully all of the
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.
 
-**Website's features and information.**
+We may use the services of various Service Providers in order to process your data more effectively.
 
-We use advertising companies to develop banner ads for our Digital Offering. These ads may contain cookies. These companies collect cookies sent to your browser through the banner ads and we do not have control or access to this data. Information may be collected from a third party through the use of cookies and web beacons to measure website traffic.
+  * Data Subject (or User)
 
-**Pixel Tags**
 
-Like many websites, Racer may also use pixel tags, also known as beacons, spotlight tags or web bugs, to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. You can disable pixel tags by changing your browser settings to omit images and disable Javascript; or there are commercial software packages available that can omit pixel tags and most advertisements.
 
-**Opt-out Option**
+Data Subject is any living individual who is using our Service and is the subject of Personal Data.
 
-Visitors to the Digital Offering can decide if they want to receive promotional information from Racer. On the Newsletter subscription page, visitors can choose to request Racer not to email them advertising and promotional information. Should visitors accept promotional email from Racer, any email they receive will include instructions on how to be removed from Racer's promotional email list. If you continue receiving email after opting out, please contact us at [webmaster@racer.com.](mailto:webmaster@racer.com.)
+**Information Collection And Use**
 
-**Public Areas**
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-We may provide areas on our Website where you can publicly communicate with others. If you post your email address, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal Information.
+**Types of Data Collected**
 
-**Notification of Changes**
+**Personal Data**
 
-Racer reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Digital Offering. Any such change, update or modification will be effective immediately upon posting on the Digital Offering. Please check back often to review the latest version of our Privacy Policy.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
-**Questions?**
+  * Email address
+  * First name and last name
+  * Address, State, Province, ZIP/Postal code, City
+  * Cookies and Usage Data
 
-If you have any questions on our Privacy Policy, or complaints about our handling of your Personal and/or Financial Information, you can contact us at [webmaster@racer.com.](mailto:webmaster@racer.com.)
+
+
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+**Usage Data**  
+
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+**Tracking & Cookies Data**  
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * Session Cookies. We use Session Cookies to operate our Service.
+  * Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
+  * Security Cookies. We use Security Cookies for security purposes.
+  * Advertising Cookies. Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+
+
+
+**Use of Data  **
+
+Racer Media & Marketing, Inc. uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
+
+**Legal Basis for Processing Personal Data Under General Data Protection  ** **Regulation (GDPR)**
+
+If you are from the European Economic Area (EEA), Racer Media & Marketing, Inc. legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+Racer Media & Marketing, Inc. may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it’s not overridden by your rights
+  * To comply with the law
+
+
+
+**Retention of Data**
+
+Racer Media & Marketing, Inc. will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Racer Media & Marketing, Inc. will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+**Transfer Of Data**
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Racer Media & Marketing, Inc. will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+**Disclosure Of Data**
+
+**Business Transaction**
+
+If Racer Media & Marketing, Inc. is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+**Disclosure for Law Enforcement**
+
+Under certain circumstances, Racer Media & Marketing, Inc. may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+**Legal Requirements**
+
+Racer Media & Marketing, Inc. may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Racer Media & Marketing, Inc.
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+**Security Of Data**
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+**“Do Not Track” Signals**
+
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+**Your Data Protection Rights Under General Data Protection Regulation (GDPR)**
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Racer Media & Marketing, Inc. aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * The right to access, update or to delete the information we have on you. Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+  * The right of rectification. You have the right to have your information rectified if that information is inaccurate or incomplete.
+  * The right to object. You have the right to object to our processing of your Personal Data.
+  * The right of restriction. You have the right to request that we restrict the processing of your personal information.
+  * The right to data portability. You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+  * The right to withdraw consent. You also have the right to withdraw your consent at any time where Racer Media & Marketing, Inc. relied on your consent to process your personal information.
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+**Service Providers**
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+**Analytics**
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  * Google Analytics
+
+
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and  monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add- on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit theGoogle Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+  * ComScore
+
+
+
+ComScore is a web analytics service. ComScore Privacy Policy: <http://www.comscore.com/About-comScore/Privacy-Policy>
+
+  * Alexa
+
+
+
+Alexa is a web analytics service. Alexa Privacy Policy: <http://www.alexa.com/help/privacy>
+
+  * Quantcast
+
+
+
+Quantcast is a web analytics service. Quantcast Privacy Policy: <http://www.quantcast.com/privacy/>
+
+**Advertising**  
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+
+  * Google AdSense, Ad Exchange & DoubleClick Cookie
+
+
+
+Google, as a third party vendor, uses cookies to serve ads on our Service.  Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
+
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+
+  * Twitter Ads
+
+
+
+Racer may occasionally do paid promotions of Twitter posts. Twitter Privacy Controls: <https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads>
+
+**Behavioral Remarketing**
+
+Racer Media & Marketing, Inc. uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+  * Google AdWords
+
+
+
+Google AdWords remarketing service is provided by Google Inc. You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+  * Facebook
+
+
+
+Facebook remarketing service is provided by Facebook Inc.
+
+You can learn more about interest-based advertising from Facebook by visiting this page: <http://www.facebook.com/help/164968693837950>
+
+To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: <http://www.facebook.com/help/568137493302217>
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
+
+For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: <http://www.facebook.com/privacy/explanation>
+
+**Other Third-Party Services**
+
+  * Disqus
+
+
+
+Disqus is the third-party commenting platform used on Racer.com. Disqus Privacy Policy: <https://help.disqus.com/terms-and-policies/disqus-privacy-policy>
+
+  * WordPress
+
+
+
+Racer.com uses the WordPress publishing platform. WordPress Privacy Policy: <https://wordpress.org/about/privacy/>
+
+  * YouTube
+
+
+
+Racer.com uses the YouTube video platform. [YouTube Privacy & Safety Center](https://support.google.com/youtube/topic/2803240?hl=en&ref_topic=6151248)
+
+Racer.com also utilizes the following third-party services.
+
+  * ZergNet Privacy Policy: <http://www.zergnet.com/privacy>
+  * JWPlayer Privacy Policy: <http://www.jwplayer.com/privacy/>
+  * MailChimp Privacy Policy: <https://mailchimp.com/legal/privacy/>
+
+
+
+**Links To Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+**Children’s Privacy**
+
+Our Service does not address anyone under the age of 18 (“Children”). We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+**Changes To This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: webmaster@racer.com
+  * By visiting this page on our website: <https://racer.com/privacy-policy/>
+
+
