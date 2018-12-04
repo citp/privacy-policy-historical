@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micromarketmonitor.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604192857id_/http%3A//www.micromarketmonitor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micromarketmonitor.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204205217id_/http%3A//www.micromarketmonitor.com/privacy.html) for the most accurate reproduction.*
 
 # Market Research Company and Business Research Consulting Firm | MicroMarketMonitor
 
@@ -26,7 +26,7 @@ We may change this Privacy Policy to reflect changes in the law, our data handli
 
 We are committed to highest levels of compliance towards the applicable Privacy acts and regulations where we offer our Services to. 
 
-If you have any questions contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6212100b1403011b220f031009071611030c060f0310090716114c010d0f)
+If you have any questions contact us at [privacy@marketsandmarkets.com](mailto:privacy@marketsandmarkets.com)
 
   
 **Privacy Notice**
@@ -159,10 +159,10 @@ Subject to applicable law(s) and regulations, you may have some or all of the fo
 
 [Click Here](https://www.marketsandmarkets.com/ManagePreferences.asp) to manage your preference with respect to our processing and use of your personal data.
 
-In relation to any aspects on Privacy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2050524956414359604d41524b455453414e444d41524b4554530e434f4d). 
+In relation to any aspects on Privacy, please contact us at [privacy@marketsandmarkets.com](mailto:privacy@marketsandmarkets.com). 
 
 Please note that we may request proof of identity, and we reserve the right to charge a fee where permitted by law, especially if your request is manifestly unfounded or excessive. We will endeavor to respond to your request within all applicable timeframes.
 
 **FURTHER QUESTIONS/INFORMATION  
 ** If you have any questions or information regarding this policy, you may contact us via the means provided on this site.  
-These terms and conditions shall be governed by and construed in accordance with the laws of India and any dispute shall be referred to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#452920222429052824372e203136242b212824372e2031366b262a28).
+These terms and conditions shall be governed by and construed in accordance with the laws of India and any dispute shall be referred to [legal@marketsandmarkets.com](mailto:legal@marketsandmarkets.com).
