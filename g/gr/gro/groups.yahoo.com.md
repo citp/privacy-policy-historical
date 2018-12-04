@@ -1,110 +1,142 @@
-> *The following text is extracted and transformed from the groups.yahoo.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231171442id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groups.yahoo.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204112419id_/http%3A//info.yahoo.com/privacy/us/yahoo/groups/details.html) for the most accurate reproduction.*
 
-# Yahoo Privacy Center
+# Communication Products | Oath Policies
 
-Welcome to the Yahoo Privacy Center -- take a look around. You'll learn how Yahoo treats your personal information, along with ways to control your preferences and settings. As always, Yahoo is committed to gaining your trust.
+This policy describes our current privacy practices for the Oath Communications brands, websites, features, products, apps, software and other services (“Communications Services”). All information collected, provided to Oath or stored in your Oath Account will be treated, used and protected in accordance with the [Oath Privacy Policy](https://web.archive.org/web/20181022224307id_/https://policies.oath.com/us/en/oath/privacy/index.html). This information may change as Oath revises these Communications Services by adding or removing features or using different service providers. Some Communications Service features are only available if you are a registered user.
 
-## **What This Privacy Policy Covers**
+This page describes specific privacy practices with respect to Yahoo Address Book, Yahoo Calendar, Yahoo Groups, Yahoo Mail, Yahoo Messenger or other instant messaging services and Yahoo Notepad.
 
-**Yahoo takes your privacy seriously. Please read the following to learn more about our privacy policy.**
+#### **Information Collection and Use Practices - General**
 
-The federal government and technology industry have developed [practical tips](http://onguardonline.gov/) to help you guard against Internet fraud, secure your computer and protect your personal information.
-
-**How Yahoo Uses Your Personal Information**
-
-This policy covers how Yahoo treats personal information that Yahoo collects and receives, including information related to your past use of Yahoo products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
-
-**This privacy policy only applies to Yahoo**
-
-This policy does not apply to the practices of companies that Yahoo does not own or control, or to people that Yahoo does not employ or manage. In addition, some companies that Yahoo has acquired have their own, preexisting privacy policies which may be viewed on our [affiliates page](https://web.archive.org/web/20161231171442id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/topics/affiliates/index.htm).
-
-**Data Transfer**
-
-Your personal information may be transferred to countries other than your own to process and store data in accordance with our Privacy Policy and to provide you with products and services. Some of these countries may not have the same data protection safeguards as the country where you reside. Yahoo may process personal information related to individuals in the EU and may transfer that information from the EU through various compliance mechanisms, including data processing agreements based on the EU Standard Contractual Clauses. By using our products and services, you consent to us transferring your data to these countries. We are committed to ensuring your information is protected and apply safeguards in accordance with applicable law.
-
-For more information, please visit our [Data Transfer](https://policies.yahoo.com/us/en/yahoo/privacy/topics/datatransfer/index.htm) page.
-
-## **Information Collection & Use**
-
-**General**
-
-Yahoo collects personal information when you register with Yahoo, when you use [Yahoo products or services](https://web.archive.org/web/20161231171442id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/products/index.htm), when you visit Yahoo pages or the pages of certain Yahoo partners, and when you enter [promotions or sweepstakes](https://web.archive.org/web/20161231171442id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/products/promotions/index.htm). Yahoo may combine information about you that we have with information we obtain from business partners or other companies.
-
-When you register we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with Yahoo and sign in to our services, you are not anonymous to us.
-
-Yahoo collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
-
-Yahoo analyzes and stores all communications content, including email content from incoming and outgoing email.
-
-Yahoo automatically receives and records information from your computer and browser, including your [IP address](https://web.archive.org/web/20161231171442id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/topics/ipaddress/index.htm), Yahoo [cookie](https://web.archive.org/web/20161231171442id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/topics/cookies/index.htm) information, software and hardware attributes, and the page you request.
-
-Yahoo uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
-
-**Children**
-
-With parental permission, a child under age 13 might have a Yahoo Family Account. Visit [Children's Privacy & Family Accounts](https://web.archive.org/web/20161231171442id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/products/family/index.htm) to learn more about children’s privacy on Yahoo.
-
-## **Information Sharing & Disclosure**
-
-Yahoo does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-
-  * We provide the information to trusted partners who work on behalf of or with Yahoo under confidentiality agreements. These companies may use your personal information to help Yahoo communicate with you about offers from Yahoo and our marketing partners. However, these companies do not have any independent right to share this information.
-  * We have a parent's permission to share the information if the user is a child under age 13. See [ Children's Privacy & Family Accounts ](https://web.archive.org/web/20161231171442id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/products/family/index.htm) for more information about our privacy practices for children under 13 .
-  * We respond to subpoenas, court orders, or legal process (such as [law enforcement requests](https://transparency.yahoo.com/)), or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo's terms of use, or as otherwise required by law.
-  * We transfer information about you if Yahoo is acquired by or merged with another company. In this event, Yahoo will notify you before information about you is transferred and becomes subject to a different privacy policy.
+  * Oath’s systems may analyze and store all communications content, including email content from incoming and outgoing mail, as well as incoming and outgoing messages to messaging apps.
+  * We also may analyze and store all other content and other information you provide when you use our Communications Services. This can include information within or about the content you provide, such as photos, attachments and other [communications](https://web.archive.org/web/20181022224307id_/https://policies.oath.com/us/en/oath/privacy/products/communications/faq/index.html).
+  * Our systems may analyze all communications content (such as Mail, Groups, Calendar, Address and Messenger content including instant messages and SMS messages) for the purposes outlined in our main Privacy Policy page.
+  * This analysis may occur on all communications content as it is sent, received, and when it is stored, including content from services synced with your account. For example, in certain use cases, we run automated algorithms on commercial communications to create generic templates of such documents (e.g., using common language to identify the elements of an airline receipt). These templates do not include the recipient’s personal data. Oath employees may review the templates to improve our services and our personalization of your experience. We may also manually review certain communications to improve our masking template capabilities, develop tools to assist the automated scanning process, improve segmentation and other automated functions and create generic templates of such documents (e.g., using common language to identify the elements of an airline receipt). Our anti-spam team may review messages flagged as “spam” or “not spam” to improve our anti-spam defenses.
+  * Our Communications Service may include interactive features from third-parties as well. We do not share information that personally identifies you (such as information like your first and last name or email address) with the third-parties without your consent.
+  * This information may also be used for interest-based advertising. To learn more, you can visit Oath’s [control tool](https://web.archive.org/web/20181022224307id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html) for interest-based advertising.
+  * Please read the [FAQ](https://web.archive.org/web/20181022224307id_/https://policies.oath.com/us/en/oath/privacy/products/communications/faq/index.html) to learn more about our Communications Services.
 
 
 
-Yahoo displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area.
+#### **Communication Features**
 
-  * Yahoo does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
-  * Yahoo advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
+  * Users with whom you communicate with may opt to save your conversations even if you delete them.
+  * If you have SMS message forwarding enabled, these messages may be stored in your conversation history on that device.
+  * We may store the contacts and calendar details from Communications Services like Mail, Address Book, Messenger Contacts, Groups, and when you synchronize data from your devices (for example, your phone contacts). 
+    * Synced contacts from third-party services may re-populate after you delete them unless you disable the syncing feature.
 
 
 
-Yahoo works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](https://web.archive.org/web/20161231171442id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/topics/thirdparties/index.htm).
+#### **Sharing and Disclosure to Third-Parties**
 
-## **Cookies & Similar Technologies**
+  * Connecting your account to a third-party service may require that you share information with that third party (for example, your email address). You can view and disable third-party account links by visiting the accounts section in the Communications Service(s) you may use.
+  * Certain information from your account may be visible to others such as your name, nickname, avatar, image, gender, city, online status, contact information associated with your Oath account or other information that you have chosen to make public.
+  * If you post information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+  * Your messages are shared only with the people you want. Oath may anonymously share specific objects from a message (such as keywords, package tracking and product price, name, identification and other data) with third-parties in order to enhance your user experience, develop new services and features and provide targeted ads.
 
-Yahoo may set and access Yahoo [cookies](https://web.archive.org/web/20161231171442id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/topics/cookies/index.htm) on your computer. We may also set and access device identifiers which could include IP address, user agent information (browser version, OS type and version), and device provided identifiers. Once you log into Yahoo on your device, Yahoo may recognize your device to provide you with a personalized experience, independent of your device settings. You can control your personalized experience across Yahoo through our [Ad Interest Manager](https://policies.yahoo.com/4tep2uzsjuf6). [Learn more](https://policies.yahoo.com/us/en/yahoo/privacy/topics/cookies/index.html#device-personalization).
 
-Yahoo lets [other companies](https://web.archive.org/web/20161231171442id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/topics/thirdparties/index.htm) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies and device identifiers is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo's cookies.
 
-Yahoo uses [web beacons](https://web.archive.org/web/20161231171442id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/topics/webbeacons/index.htm) to access Yahoo cookies inside and outside our network of web sites and in connection with Yahoo products and services.
+* * *
 
-## **Your Ability to Edit and Delete Your Account Information and Preferences**
+* * *
 
-You can edit your [Yahoo Account Information](http://edit.yahoo.com/config/eval_profile), including your [marketing preferences](http://subs.communications.yahoo.com/unsubscribe_all.html?c=1111?), at any time. You can also modify information you have provided to Yahoo through the Yahoo [products or services](https://io.help.yahoo.com/contact/index?page=contact&locale=en_US&y=PROD_ACCT&token=w5FCchB1dWH7qK38juuR7x2It3svV1dhjhGb4jqs3W6AHCiLjm7SCFJmJZKi97QrPrNGzREPjHNmBuz5p9SSIQNFAUOpNhARa3CWEh6LH89Kao3hHdSG7SMXh16qBd2FQX1RyiGqOTk%3D#) you may use.
+### **Yahoo Mail**
 
-New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
+#### **Premium Services**
 
-We reserve the right to send you certain communications relating to the Yahoo service, such as service announcements, administrative messages and the Yahoo Newsletter, that are considered part of your Yahoo account, without offering you the opportunity to opt out of receiving them.
+  * Premium services, such as Mail Plus, are available for a fee.
+  * When you sign up for premium services, you will be asked to enter your credit card information. Oath takes your security seriously. We use industry-standard SSL (Secure Socket Layer) to encrypt the transmission of your credit card and other information used when ordering premium services.
 
-You can delete your Yahoo account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](https://web.archive.org/web/20161231171442id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/topics/datastorage/index.htm) to read about information that might possibly remain in our archived records after your account has been deleted.
 
-## **Confidentiality & Security**
 
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+#### **Information Collection and Use Practices**
 
-We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+  * Yahoo Mail includes [IP addresses](https://web.archive.org/web/20181022224307id_/https://policies.oath.com/us/en/oath/privacy/topics/ipaddress/index.html) in outgoing mail message headers, as specified by standard Internet protocol.
+  * Oath may share certain analyzed elements of your communications, such as keywords, package tracking and product identification numbers, with third-parties in order to enhance your user experience and personalize your ads and content.
+  * Our automated systems analyze content in part, to provide personally relevant, enriched experiences within mail.  Enriched experiences show easy-to-read cards or similar formats within your inbox.  
+Some of these enriched experiences may include links, partnerships, or revenue sharing agreements where Yahoo receives compensation when you complete a purchase or take an action. 
+  * When users click on the Spam and Not Spam buttons, information is sent to our anti-spam team or other spam compliance service providers for manual review, and aspects of these messages may be shared with the sender to reduce spam.
 
-To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo](https://web.archive.org/web/20161231171442id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/topics/security/index.htm).
 
-## **Changes to This Policy**
 
-Yahoo may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo account or by placing a prominent notice on our site.
+#### **Practices Regarding Your Ability to Update or Delete Information**
 
-## **Questions & Suggestions**
+  * You can modify your settings and preferences in your Yahoo Mail account by accessing “[Account Information](http://edit.yahoo.com/config/eval_profile)”.
 
-If you have questions, suggestions, or wish to make a complaint, please complete a [feedback form](https://io.help.yahoo.com/contact/index?y=PROD_ACCT&token=w5FCchB1dWFBK0e02%252BwEylJn1ziDqePb2Dq22Z0PBKmuG9cZpE4MM9vS6l0r8gi9F6k%252FK8nik5MH8JQjZy5NlWIyygEGVpVViU3MHqVQ8eD98XMp4RclW%252Bpxa6fxY1YdCiDU9ZoUvcE%253D&locale=en_US&page=contactform&selectedChannel=email-icon) or you can contact us at:
 
-Yahoo! Inc.  
-Customer Care - Privacy Policy Issues  
-701 First Avenue  
-Sunnyvale, CA 94089  
-(408) 349-5070
 
-If you feel that your inquiry has not been satisfactorily addressed, please click [here](https://web.archive.org/web/20161231171442id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/topics/consumeragencies/index.htm) for information on consumer agencies that may be able to provide you with additional assistance.
+### **Yahoo Calendar**
 
-Last Updated: November 23, 2016
+#### **Information Collection and Use Practices**
+
+  * When you store appointments on Yahoo Calendar, you can enter information about the appointment, including a description, date, time, or whether the event is recurring or one-time only.
+
+
+
+#### **Information Sharing and Disclosure Practices**
+
+  * You can elect to make your Yahoo Calendar publicly viewable, viewable to a selected set of other users, or private (non-viewable).
+  * If you allow others to view your calendar, you can choose whether each appointment is hidden, appears as "Busy," or appears with all details. You can modify the default event permission setting from the "Options" page of Yahoo Calendar. Your event permission setting change will apply to any events that you add after you have made the setting change, but will not change the setting of events that you have added previous to the change. You can also modify the permission of each event individually from the edit page for that event.
+
+
+
+### **Yahoo Messenger**
+
+Versions of Yahoo Messenger released prior to December 3, 2015 are no longer supported, however you may review the privacy module [here](https://policies.yahoo.com/us/en/yahoo/privacy/products/messenger/index.htm). Please upgrade to the new [Yahoo Messenger](https://messenger.yahoo.com/).
+
+#### **Information Collection & Use Practices**
+
+  * We may collect information about you when you use Yahoo Messenger. We may collect information from you directly, such as your phone number, email address, photos, and, with your consent, contacts stored on your device. We may also collect information from you automatically when you use Yahoo Messenger, such as your IP address, location, analytics on app usage, device ID and type, and mobile carrier.
+  * When using Yahoo Messenger, your communications content is stored on our servers and may be made searchable for you through our platforms.
+
+
+
+#### **Information Sharing & Disclosure Practices**
+
+  * Certain products may include features that notify other users that you are present or active in a channel, team or group.
+  * When you communicate using Yahoo Messenger, we facilitate sharing communications with your friends. To make it easier for you to locate and communicate with other Yahoo Messenger users, we may, with your consent, synchronize data from your devices. Other users who have your phone number or email address may be able to discover you on Yahoo Messenger and see your certain information from such as your name, nickname, avatar, image, online status, contact information associated with your Oath account or other information that you have chosen to make public.
+  * You can invite your friends to join Yahoo Messenger, and 1-on-1 and group conversations. Invitations may include message content, such as your name and photos.
+
+
+
+#### **Unsending Messages, Photos & GIFs**
+
+  * In some cases you can unsend communications content (however, we may retain copies and logs for audit and record purposes or as required by law).
+  * There are some exceptions to the unsend feature, for example: 
+    * Users who receive your messages, or any other content, can save or copy them, including taking a screenshot or by using some other image-capturing methods or technology. Also, if users save or copy content (including photos) before it is unsent, they may be able to access and share that content later;
+    * Push notifications of new messages aren’t taken back, so users may be able to read notification snippets of unsent messages;
+    * A message cannot be unsent if a friend is still using a prior version of Yahoo Messenger or goes offline before you can unsend;
+    * Please review the interoperability and unsend [Help pages](https://help.yahoo.com/kb/account) to learn more.
+  * Think before you share! Messages are sent immediately. There's no guarantee the recipients won't see the message before you unsend it.
+
+
+
+#### **Other**
+
+  * By using Yahoo Messenger, you acknowledge that other users of Yahoo Messenger may elect to receive a notification from Yahoo Messenger when you sign on and may send you instant messages and other information or call you via Yahoo Messenger. If you wish to block the notification feature or if you don't want to receive messages from such users, you may have the option to enable the "Ignore" or similar feature separately. Your ability to send and receive instant messages and other information may be blocked by Oath and other users, which may partially or wholly limit your ability to use Yahoo Messenger. Oath has no responsibility for assessing or resolving any disputes arising from your or any other user's ability (or otherwise) to ignore, send messages or other information, or otherwise use Yahoo Messenger.
+  * Some features available in Yahoo Messenger, such as the “like” and unsend features, may not function when communicating with friends using prior versions of Yahoo Messenger (versions released prior to December 3, 2015).
+
+
+
+### **Yahoo Groups**
+
+#### **Information Sharing and Disclosure Practices**
+
+  * Messages you email to the group or that you post through the web site for a Group will always include your email address. 
+    * Full headers of all email postings can be seen by anyone accessing the messages through the web site.
+  * Your full email address will be visible to the owner and moderator(s) of any Group to which you belong. 
+    * Some Group owners, though, may choose to give members the option to not allow their email addresses to be visible to owner and moderators. Choosing this option may limit your ability to post and take advantage of other features of the Group.
+  * In using Yahoo Groups and its various tools, you may make some of your information public. You may also choose to share some of your information with other Group members.
+  * When you share files, post messages, create polls, or add bookmarks to a Group to which you belong, certain information such as your name, nickname, avatar, image, online status, contact information associated with your Oath account or other information that you have chosen to make public may appear next to the file, message, poll or bookmark on the Groups website.
+  * The personal email address of Group owners and moderators who invite members to join the Group via the "invite" tool are visible to the recipients of an invitation.
+  * Certain information from your Profile may be visible to others such as your name, gender, city, online status and other information that you have chosen to make public.
+  * If you post information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+
+
+
+#### **Practices Regarding Your Ability to Update or Delete Information**
+
+  * If you are a Group owner, you can edit or delete any posting or member in your Group. You can also completely delete your Group at any time. Group owners can also grant moderators the ability to edit or delete postings and members from the Group.
+  * As a Group member, you can edit your Group memberships and preferences at any time. You can also delete your own messages from a Group.
+
+
