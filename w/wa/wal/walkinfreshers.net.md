@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walkinfreshers.net privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523132950id_/http%3A//walkinfreshers.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkinfreshers.net privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204191708id_/http%3A//walkinfreshers.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of walkinfreshers.net - Walkin Freshers
 
