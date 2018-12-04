@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studiosystem.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520175717id_/http%3A//studiosystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiosystem.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204101957id_/http%3A//studiosystem.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Studio System
+# Studio System | Privacy Policy | Entertainment Data • Hollywood Contacts • Box Office • Films in Development • TV Pilots in Development
 
 Baseline, LLC. (dba BaselineFT, Baseline/FilmTracker, baseline.filmtracker.com, filmtracker.com and baseline.hollywood.com, Studio Systems, Inc., Baseline StudioSystems, Inc. and Baseline, Inc.) (“Baseline”) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website, The Studio System: In the event of a conflict between these Terms and any written agreement between Baseline and you, the terms of that written agreement shall govern. 
 
@@ -39,24 +39,24 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 Users have the following options to remove their information from our database to not receive future communications or to no longer receive our service: 
 
-Users can email [contact@gracenote.com](mailto:contact@gracenote.com)  
+Users can email [contact@studiosystem.com](mailto:contact@studiosystem.com)  
 Users can send mail to the following postal address: 
 
 6255 Sunset Blvd.  
-Hollywood, CA 90028 
+Los Angeles, CA 90028 
 
-Users can also call the following number: ​(323) 817-3505​
+Users can also call the following number: 323-817-3505
 
 **Correct/Update**  
 Users have the following options for changing and modifying information previously provided: 
 
-Users can email [contact@gracenote.com](mailto:contact@gracenote.com)  
+Users can email [contact@studiosystem.com](mailto:contact@studiosystem.com)  
 Users can send mail to the following postal address: 
 
 6255 Sunset Blvd.  
-Hollywood, CA 90028 
+Los Angeles, CA 90028 
 
-Users can also call the following number: ​(323) 817-3505​
+Users can also call the following number: 323-817-3505
 
 This policy may change from time to time so please check back periodically.
 
@@ -65,6 +65,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 Gracenote, Inc.  
 6255 Sunset Blvd.  
-Hollywood, CA 90028 
+Los Angeles, CA 90028 
 
-or email us [contact@gracenote.com](mailto:contact@gracenote.com)
+or email us [contact@studiosystem.com](mailto:contact@studiosystem.com)
