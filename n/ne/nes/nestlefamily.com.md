@@ -1,17 +1,13 @@
-> *The following text is extracted and transformed from the nestlefamily.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221052505id_/http%3A//privacy.nestleusa.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestlefamily.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205002331id_/http%3A//privacy.nestleusa.com) for the most accurate reproduction.*
 
 # Nestlé USA Privacy Notice
 
 | 
 
 Effective: 5/15/2012  
-Last Updated On: 4/21/2017
+Last Updated On: 9/6/2018
 
-| 
-
-[](https://privacy.truste.com/privacy-seal/Nestle-USA,-Inc-/validation?rid=a0441b14-29fd-490b-99a1-3c9b1bf5572e "TRUSTe online privacy certification")
-
-  
+|    
   
 ---|---  
   
@@ -385,20 +381,14 @@ Our websites and applications may provide links to, or features from, other thir
 
 Back to top
 
-###  13\. Other important information
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
-
-Back to top
-
-###  14\. How can you contact us?
+###  13\. How can you contact us?
 
 If you have any questions, complaints, or comments regarding this Privacy Notice or our information collection practices, please contact us at:
 
 Nestlé USA  
 Office of Consumer Services  
-800 N. Brand Blvd.  
-Glendale, CA 91203  
+1812 N. Moore St.  
+Arlington, VA 22209  
 [Contact us via email](mailto:nestleconsumerservice@casupport.com)  
 1-800-225-2270
 
