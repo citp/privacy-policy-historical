@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the calcchat.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520183524id_/http%3A//www.calcchat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calcchat.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204064058id_/http%3A//www.calcchat.com/privacy) for the most accurate reproduction.*
 
-# CalcChat | Privacy Policy
+# CalcChat.com - Calculus solutions | Precalculus Solutions | College Algebra Solutions | Calculus Help | Precalculus Help | College Algebra Help
 
 This Privacy Policy (“Policy”), effective 02/13/2017, tells you about Larson Texts’ privacy practices governing personal information and permissions when you use the CalcChat website [www.CalcChat.com](http://www.calcchat.com/) (“Website”) and the CalcChat mobile apps for iOS and Android (“App”).
 
