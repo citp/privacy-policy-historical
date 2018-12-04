@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhamma.org privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613234649id_/http%3A//www.dhamma.org/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhamma.org privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204054603id_/http%3A//www.dhamma.org/en/about/privacy) for the most accurate reproduction.*
 
 # Vipassana Meditation
 
@@ -52,7 +52,7 @@ Pursuant to the applicable privacy regulations, you may have the following right
 
 
 
-You may exercise the rights listed above by writing to dhamma.org at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8cfcfee5faedeff5cce8e4ede1e1eda2e3feeb). In addition to the foregoing rights, each application form to register for a Vipassana Meditation course or related activity contains a series of disclosures and consents, which are also intended to protect your rights.
+You may exercise the rights listed above by writing to dhamma.org at [privacy@dhamma.org](mailto:privacy@dhamma.org). In addition to the foregoing rights, each application form to register for a Vipassana Meditation course or related activity contains a series of disclosures and consents, which are also intended to protect your rights.
 
 ### Opt-Out/Opt-In
 
@@ -60,7 +60,7 @@ Local or regional Vipassana organizations may provide you provide you with the o
 
 ### How to Contact Us
 
-If you have any questions or concerns about the privacy or any other policies of the Vipassana Website or its implementation you may contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2f5f5d46594e4c566f4b474e42424e01405d48).
+If you have any questions or concerns about the privacy or any other policies of the Vipassana Website or its implementation you may contact us at: [privacy@dhamma.org](mailto:privacy@dhamma.org).
 
 ### Effective Date
 
