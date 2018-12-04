@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inwin-style.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403123737id_/http%3A//www.inwin-style.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inwin-style.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204064018id_/https%3A//www.in-win.com/en/privacy-policy) for the most accurate reproduction.*
 
-# In Win Privacy Policy
+# InWin Privacy Policy
 
 In Win Development Inc. respects and promises to protect your privacy. We comply with all of the privacy laws, and all other personal information related regulations in Taiwan. Please review the explanation below and see if it might answer some of your questions and ease your concerns.
 
