@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poe.trade privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207143813id_/http%3A//poe.trade/html/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poe.trade privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204202507id_/http%3A//poe.trade/html/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
