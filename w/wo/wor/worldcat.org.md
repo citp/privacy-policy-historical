@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623235128id_/http%3A//www.oclc.org/en/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204214752id_/https%3A//policies.oclc.org/en/privacy/privacy-statement.html) for the most accurate reproduction.*
 
-# OCLC Privacy Statement
+# Privacy statement
 
-Last Updated: 28 May 2018
+Last Updated: 24 October 2018
 
 **NOTE THIS PORTION OF THE STATEMENT APPLIES TO OCLC AND ITS WEB-BASED PRODUCTS AND SERVICES. PLEASE SEE BELOW ORCLICK HERE FOR MORE INFORMATION REGARDING PRIVACY PRACTICES RELATING TO _HOSTED SERVICES_ OFFERED THROUGH OCLC INSTITUTION CUSTOMERS.**
 
@@ -72,7 +72,11 @@ We may use your information in a number of ways, including:
 
 
 
-We may also use your information in an anonymized or aggregate manner.We use this personal information for the legitimate business interests identified above, to perform the contracts we enter into with you or with our institution customers and as required by law. If we use consent as the legal basis for processing your information, we will seek separate consent for such use. In the event that OCLC identifies a new purpose outside of the stated purposes listed above, we will update this policy and provide any other notification required by law.
+We may also use your information in an anonymized or aggregate manner.
+
+## Legal Basis for Processing
+
+We use this personal information for the legitimate interests identified above, to perform the contracts we enter into with you or with our institution customers and as required by law. If we use consent as the legal basis for processing your information, we will seek separate consent for such use. In the event that OCLC identifies a new purpose outside of the stated purposes listed above, we will update this policy and provide any other notification required by law.
 
 ## With Whom Do We Share Your Information?
 
@@ -147,7 +151,7 @@ Subject to certain exceptions and limitations, Data Subjects in the EU have the 
 
 #### Access
 
-You have the right to obtain from us confirmation if your Personal Data is being Processed and certain information about the Processing.
+You have the right to obtain from us confirmation if your Personal Data is being Processed, certain information about the Processing and a copy of your Personal Data.
 
 #### Rectification
 
@@ -155,7 +159,7 @@ You have the right to request the rectification of inaccurate Personal Data and 
 
 #### Objection
 
-You have the right, when we Process Personal Data on the grounds of legitimate interests, to object to the Processing of your Personal Data for compelling and legitimate reasons relating to your particular situation, except in cases where legal provisions expressly provide for that Processing. In addition, you have the right to object at any time where your Personal Data is Processed for direct marketing purposes.
+You have the right, when we Process Personal Data on the grounds of legitimate interests, to object to the Processing of your Personal Data relating to your particular situation, except in cases where legal provisions expressly provide for that Processing. In addition, you have the right to object at any time where your Personal Data is Processed for direct marketing purposes.
 
 #### Portability
 
@@ -189,12 +193,11 @@ United States of America
 
 ### EU users can contact our Data Protection Officer at:
 
-Laura Poolman  
+Brent Rogers  
 Data Protection Officer  
-Postbus 58188, 1040 HD Amsterdam  
-t. +31 (0)20 5506 666  
-f. +31 (0)20 5506 777  
-[DPO@oclc.org](mailto:DPO@oclc.org)
+6565 Kilgour Place, Dublin, Ohio 43017-3395 USA  
+t. +1-614-764-6166  
+[dpo@oclc.org](mailto:dpo@oclc.org)
 
 ## Hosted Products and Services
 
