@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the dvo.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604123622id_/https%3A//www.dvo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvo.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204102934id_/https%3A//www.dvo.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy
+# DVO Privacy Policy
 
-  
-
-
-## DVO ENTERPRISES PRIVACY POLICY
-
-  
 DVO Enterprises is committed to protecting the privacy and security of its online visitors. This policy statement provides our visitors with an overview of the measures we have taken to provide a safe environment for everyone.
 
 **PERSONALLY IDENTIFIABLE INFORMATION**
@@ -33,5 +27,3 @@ DVO Enterprises ensures that all personally and non-personally identifiable info
 **Why are we so safe?**
 
 DVO Enterprises uses secure server software over a Secure Socket Layer (SSL) line to protect your credit card information. It encrypts all of your personal and credit card information so that this information cannot be read as it travels to our ordering system, and once it is received, it is stored in a location not accessible via the Internet. 
-
-* * *
