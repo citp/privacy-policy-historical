@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loanpride.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601023119id_/http%3A//loanpride.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loanpride.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204045454id_/http%3A//loanpride.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Loan Pride
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#20494e464f604f4d4753545544494f530e434f4d)
+  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d9b0b7bfb699b6b4beaaadacbdb0b6aaf7bab6b4)
 
 
 
