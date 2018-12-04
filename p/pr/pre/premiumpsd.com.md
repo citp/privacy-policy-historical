@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the premiumpsd.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604034910id_/http%3A//www.premiumpsd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumpsd.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204114936id_/http%3A//www.premiumpsd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Premium PSD
+
+**Warning** : include() [[function.include](https://web.archive.org/web/20181204114936id_/http%3A//www.premiumpsd.com/function.include)]: Failed opening 'consig.php' for inclusion (include_path='.:/usr/local/php-5.3.29/share/pear') in **/nfs/c09/h04/mnt/137189/domains/premiumpsd.com/html/index.php** on line **8**
 
 ### What information do we collect?
 
