@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the file-upload.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608132949id_/https%3A//www.file-upload.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file-upload.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204080600id_/https%3A//www.file-upload.com/privacy.html) for the most accurate reproduction.*
 
 # File upload - Free File Hosting - File Sharing - File Secure - File Storage - Online Storage; Upload Mp3, Videos, Music , Books , Apps. Backup Files
 
