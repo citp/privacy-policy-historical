@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shmoop.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524192225id_/https%3A//www.shmoop.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shmoop.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205002659id_/https%3A//www.shmoop.com/public/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -50,7 +50,7 @@ In addition to the information you voluntarily send us while visiting Shmoop, li
 
 We use this information, which does not identify individual users, to analyze trends, administer the site, track users' movements around the site, and to gather demographic information about our user base as a whole. We may link this automatically-collected data to personally identifiable information. 
 
-Shmoop uses third-party products called Google Analytics, Google AdSense, and Rhapsody that uses cookies and/or other tracking mechanisms embedded in our pages to track non-personally identifiable information about visitors to our Site in the aggregate, such as total visitors to the site and length of visit. 
+Shmoop uses third-party products called Google Analytics, Google AdSense, and Rhapsody that uses cookies and/or other tracking mechanisms embedded in our pages to track non-personally identifiable information about visitors to our Site in the aggregate, such as total visitors to the site and length of visit.
 
 You authorize Shmoop to use this information as described in this Privacy Policy.
 
