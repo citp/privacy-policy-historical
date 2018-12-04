@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the propertywide.co.uk privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619214135id_/http%3A//www.countrywide.co.uk/notices/PrivacyNotice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertywide.co.uk privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204130803id_/https%3A//www.countrywide.co.uk/notices/PrivacyNotice.pdf) for the most accurate reproduction.*
 
-# party providers collect , use , secure, transfer and share your information. Countrywide Group and its affiliates (Countrywide), is a leading provider of Residential development and consultancy practices, Surveying Services, Conveyancing services, Corporate Property Services, Leasehold Estate Management and Auctions. It operates in over 1,200 locations across more than 50 brands, with over 11,000 employees within the UK. Countrywide has its head office at 7th Floor UK House 180 Oxford Street London W1D 1NN
+# 
 
 Countrywide Group Privacy Notice
 The Countrywide privacy notice provides information on how Countrywide and any of its
@@ -40,41 +40,41 @@ http://www.countrywide.co.uk/about/
                                            Page 1 of 10
 
 
-  Property Auctions   This division uses the largest estate agency network for property
+ Property Auctions    This division uses the largest estate agency network for property
                       auctions
-  Marketing           Markets Countrywide services via a suite of websites and other
+ Marketing            Markets Countrywide services via a suite of websites and other
                       means
-  Retail              Sales and lettings service
-  Relocations         Countrywide Relocation Solutions (CRS) offers a comprehensive
+ Retail               Sales and lettings service
+ Relocations          Countrywide Relocation Solutions (CRS) offers a comprehensive
                       facilitation service providing pre-funded temporary accommodation
                       across the UK.
 1. Types of Information Collected.
 Typically Countrywide collect:
-  1. First Name          21. How many              41. Personal /Secure     61. IP Address
+ 1. First Name           21. How many              41. Personal /Secure     61. IP Address
                               Dependants                Loan Details
-  2. Middle Name         22. Dependants            42. Personal Debt        62. Cookies
+ 2. Middle Name          22. Dependants            42. Personal Debt        62. Cookies
                               Name                      Details
-  3. Surname             23. Dependants DOB        43. Personal             63. Marital Status
+ 3. Surname              23. Dependants DOB        43. Personal             63. Marital Status
                                                         Expenditure
-  4. Previous Name       24. Primary ID *          44. Existing             64. Salary
+ 4. Previous Name        24. Primary ID *          44. Existing             64. Salary
                                                         Mortgage Details
-  5. Date of birth       25. Address ID *          45. Existing             65. Accountant
+ 5. Date of birth        25. Address ID *          45. Existing             65. Accountant
                                                         Insurance Details       Details
-  6. Present Address     26. Bank Statements       46. Email Address        66. Previous
+ 6. Present Address      26. Bank Statements       46. Email Address        66. Previous
                               *                                                 employers
                                                                                 details
   7. Residential         27. Credit Card           47. Phone Numbers        67. Employers
-      Status                  Statements *                                      Address
-  8. Previous            28. Mortgage              48. New Property         68. Employers
-      Addresses               Statements *              Details                 Phone number
-  9. Landlord Details    29. Proof of Deposit      49. Solicitor Details    69. Health
-  10. Nationality        30. Payslips *            50. Estate Agent         70. Ethnicity
+     Status                   Statements *                                      Address
+ 8. Previous             28. Mortgage              48. New Property         68. Employers
+     Addresses                Statements *              Details                 Phone number
+ 9. Landlord Details     29. Proof of Deposit      49. Solicitor Details    69. Health
+ 10. Nationality         30. Payslips *            50. Estate Agent         70. Ethnicity
                                                         Details
-  11. NI Number          31. Self Employed         51. New Mortgage         71. Credit Card
+ 11. NI Number            31. Self Employed        51. New Mortgage         71. Credit Card
                               Accounts *                Details                 Details
-  12. UK National        32. Employers Name        52. New Insurance        72. Bank Details
+ 12. UK National         32. Employers Name        52. New Insurance        72. Bank Details
                                                         Details
-  13. Doctors Details    33. Gender                53. Criminal Offences
+ 13. Doctors Details     33. Gender                53. Criminal Offences
                                                         /Convictions
 *Copies
 1.1. Methods of Collection
@@ -82,7 +82,7 @@ In the general conduct of business, Countrywide collects information relevant to
 being sought across the range of services it offers (listed previously) from:
 •   yourself
 •   next of kin
-                                          Page 2 of 10
+                                         Page 2 of 10
 
 
 •    spouse / partner / family member
@@ -103,12 +103,12 @@ over the internet, via email, in our branches or through a telephone conversatio
 We may also collect personal information through our affiliates or suppliers.
  In addition, you may choose to submit information directly to us via several methods,
 including:
-         •    through Countrywide and affiliates websites
-         •    in response to marketing or other communications
-         •    through social media
-         •    by signing up for a Countrywide product or service
-         •    through participation in an offer, program or promotion
-         •    in connection with an actual or potential business or employment relationship
+         •   through Countrywide and affiliates websites
+         •   in response to marketing or other communications
+         •   through social media
+         •   by signing up for a Countrywide product or service
+         •   through participation in an offer, program or promotion
+         •   in connection with an actual or potential business or employment relationship
               with us
 You may also agree to third parties disclosing information about you to us that those third
 parties have collected.
@@ -126,7 +126,7 @@ limit the usage of the information collected.
 Generally, we will collect, use and hold your information for the purposes of:
    • Assessing applications for and providing Countrywide products / services
    • Conducting business, developing relationships with Countrywide and affiliates
-                                            Page 3 of 10
+                                          Page 3 of 10
 
 
            •   Process payments / transactions including: Accounting, Authorisation,
@@ -181,24 +181,24 @@ Purchasing (or Selling)
                                             Page 4 of 10
 
 
-            •       Department for Works & Pensions letter confirming pension details
+            •        Department for Works & Pensions letter confirming pension details
                  including National Insurance Number dated within the last 12 months.
            Secondary documents - proof of residence (home.)
-            •       Valid full UK photo driving licence.
-            •       Valid full UK Driving licence (Non photo, paper) issued before 1998
-            •       Local authority council tax bill (dated within the last 12 months).
-            •       UK Bank / Building societies statements/bills showing activity, dated within
+            •        Valid full UK photo driving licence.
+            •        Valid full UK Driving licence (Non photo, paper) issued before 1998
+            •        Local authority council tax bill (dated within the last 12 months).
+            •        UK Bank / Building societies statements/bills showing activity, dated within
                  the last six mths. Including account number and sort code. (Internet printed
                  acceptable.)
-            •       UK mortgage statement (dated within the last 12 months.) (Internet printed
+            •        UK mortgage statement (dated within the last 12 months.) (Internet printed
                  acceptable.)
-            •       Utility bill dated within the last 6 months including - Electricity bill (with
+            •        Utility bill dated within the last 6 months including - Electricity bill (with
                  MPAN number), Landline, Gas, Satellite TV, Water. (Internet printed
                  acceptable.) (Not mobile phone bills.)
-            •       Her Majesty’s Revenue and Customs (HMRC) Inland Revenue (IR) Coding
-                 / assessment / statement (dated within the last 12 months) with National
+            •        Her Majesty’s Revenue and Customs (HMRC) Inland Revenue (IR) Coding
+                  / assessment / statement (dated within the last 12 months) with National
                  Insurance number.
-            •       Department for Works & Pensions letter confirming pension details and NI
+            •        Department for Works & Pensions letter confirming pension details and NI
                  Number. (Dated within the last 12 months).
 We reserve the right to employ third party electronic verification for the purpose of verifying
 identity. This search will not affect your credit rating
@@ -230,7 +230,7 @@ is collected. We share the information we collect with, but not limited to:
      • Hosting Datacentres, Infrastructure, Applications (Development / Support) , Cloud
          Services (Software as a Service – SaaS, Platform as a Service – PaaS ,
          Infrastructure as a Service – IaaS)
-     • Helpdesk, Call Centres etc.
+      • Helpdesk, Call Centres etc.
          We contractually require these service providers to safeguard the privacy and
          security of personal information they process on our behalf and authorise them to
          use or disclose the information only as necessary to perform services on our behalf
@@ -296,16 +296,16 @@ activities via direct use or anonymisation of sensitive personal information.
           preparing and furnishing aggregated data reports showing anonymised information,
           including, but not limited to, the following:
           • Compilations, analyses, analytical and predictive models and rules, and other
-              aggregated reports for the purpose of advising our partners / affiliates and
-              servicing institutions, retailers and other customers regarding past and potential
-              future patterns of service usage, spending, fraud, and other insights that may be
-              extracted from this data.
+               aggregated reports for the purpose of advising our partners / affiliates and
+               servicing institutions, retailers and other customers regarding past and potential
+               future patterns of service usage, spending, fraud, and other insights that may be
+               extracted from this data.
           • Compiling and communicating promotional and marketing information about
-              products and services that Countrywide Group, affiliates and other organisations
-              that we have affiliations with have and that may be of interest to you.
+               products and services that Countrywide Group, affiliates and other organisations
+               that we have affiliations with have and that may be of interest to you.
           • Conducting market research
           • Facilitating our internal business operations, including the fulfilment of any legal
-              requirements.
+               requirements.
 2.4 Your Rights and Choices
 Your rights regarding the sensitive / personal information we maintain about you enable you
 to exercise choices about what personal information we collect from you, how we use that
@@ -317,10 +317,10 @@ Please completed the web form here subject access request form
 If you have any problems completing this form please use contact details below
 2.5 Access and Correction
 You may have the right to:
-•    obtain confirmation that we hold personal information about you
-•    request access to and receive information about the personal information we maintain
+•   obtain confirmation that we hold personal information about you
+•   request access to and receive information about the personal information we maintain
      about you
-•    receive copies of the personal information we maintain about you
+•   receive copies of the personal information we maintain about you
 The right to access personal information may be limited in some circumstances by local law
 requirements.
 To exercise these rights, please contact us as set forth below.
@@ -347,17 +347,17 @@ our website or visit third-party websites and interact with our adverts, by usin
 Consent tool displayed in the website (the browser you use may provide options on how to
 opt out of receiving certain types of cookies). However without cookies you may not be able
 to use all of the website features and/or online services.
-                                           Page 8 of 10
+                                          Page 8 of 10
 
 
-Countrywide operate a cookie policy < content here>? Some of our service providers and
-partners may collect information about your online activities over time and across third-party
-websites to customise and target our adverts.
+Countrywide operate a cookie policy. Some of our service providers and partners may collect
+information about your online activities over time and across third-party websites to
+customise and target our adverts.
 You can at any time tell us not to send you marketing communications by
-•    e-mail privacy@countrywide.co.uk
-•    unsubscribing via the “unsubscribe link” within the marketing e-mails you receive from
+•   e-mail privacy@countrywide.co.uk
+•   unsubscribing via the “unsubscribe link” within the marketing e-mails you receive from
      us, or
-•    contacting Countrywide as indicated below.
+•   contacting Countrywide as indicated below.
 2.10 Withdrawal of consent
 If we obtain your information by consent you have the right to withdraw any consent you
 previously provided to us.
@@ -370,20 +370,20 @@ The right to consent removal may be limited in some circumstances by local law
 requirements and you will be informed appropriately.
 3    How to Contact Us / Complaints and Feedback
 If you:
-•    make a complaint about a breach of your personal information, applicable privacy laws /
+•   make a complaint about a breach of your personal information, applicable privacy laws /
      principles or a concern about Countrywide privacy practices
-•    would like access and/or update information or preferences you provided to us,
+•   would like access and/or update information or preferences you provided to us,
 You also may e-mail us at:
 privacy@countrywide.co.uk
 Or write to us at:
-John Sheehan Group Data Protection Officer
+Carly Hitchman Data Protection Officer
 Countrywide House
 88-103 Caldecotte Lake Drive
 Caldecotte Lake Business Park
 Caldecotte
 Milton Keynes
 MK7 8JT
-                                          Page 9 of 10
+                                         Page 9 of 10
 
 
 If we fall short of your expectations in processing your personal information or you wish to
@@ -409,5 +409,5 @@ the purpose for which we collected it.
 We will update this statement from time to time so we suggest that you review this statement
 at regular intervals. Where we undergo substantial changes to our privacy statement we will
 endeavour to inform you directly about these changes.
-May 2018
+July 2018
                                           Page 10 of 10
