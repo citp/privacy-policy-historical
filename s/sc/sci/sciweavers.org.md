@@ -1,42 +1,41 @@
-> *The following text is extracted and transformed from the sciweavers.org privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602024329id_/http%3A//www.sciweavers.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciweavers.org privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204192926id_/http%3A//sciweavers.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Sciweavers
 
-Privacy Policy
+This Privacy Policy covers sciweavers treatment of personal information that sciweavers gathers when you are on the sciweavers website and when you use sciweavers services.
 
-This Privacy Policy covers Sciweavers' treatment of personal information that Sciweavers gathers when you are on the Sciweavers website and when you use Sciweavers services.
+## **PERSONAL IDENTIFICATION INFORMATION**
 
-Information Collected by Sciweavers
+A user can use the entire website anonymously. However, he may prefer to create an account to access a custom service or feature such as add to favorites. During registration, users are asked to provide an email, username, and a password. We do not share the user email with any third party company. The email is used to communicate with the user whenever necessary. We adopt appropriate processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information and data stored on our Site. 
 
-We only collect personal information that is relevant to the purpose of our website, which is to enable users to discover and share information with one another. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Sciweavers users:
+## **NON-PERSONAL IDENTIFICATION INFORMATION**
 
-** Information You Provide to Us  
-**We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
+We may collect non-personal identification information about users whenever they interact with our website through cookies. For example, basic demographic information, type of connecting device, operating system, Internet service providers, date and time of visit, referring URL, browser type, etc. The information we collect about your acitivity is not personal date and will remains anonymous. 
 
-        _ Registration_ In order for you to use Sciweavers services, such as sharing new academic links to the website, you must complete a registration form. As part of this registration form, we require you to provide us with e-mail address and your title.
+## **COOKIES**
 
-        _ User Profile_ To allow you to express yourself beyond just the information collected during registration, we enable you to provide additional information, such as a short biography, your website URL, affiliation, and position. In addition, you may choose to include a photo of yourself in your profile.
+This website uses cookies. Cookies are small text files stored in your browser which help us to understand how the website is used by you and hence be able to provide you with personalized, responsive, and great user experience. We use third-party advertising companies to serve ads when you visit the website. These companies may collect information about your visit to websites in order to provide advertisements that may be of interest to you. The IP address they collect is not personally identifiable. It can only identify your basic demographic information. Our third party advertisers include Google Adsense which may employ cookies on our site to serve ads. You may wish to visit Google Adsense for additional information about their privacy policies. Any user may opt out of Google's cookies by visiting: http://www.google.com/privacy_ads.html. Users can block or restrict cookies from the website through their internet browser settings. For more information please visit our [Cookie Policy](https://web.archive.org/cookies). 
 
-** Automatic Information**
+## **E-MAIL COMMUNICATIONS**
 
-        We receive and store certain types of information whenever you interact with us. Sciweavers automatically receive and record certain "traffic data" on their servers from your browser including your IP address, Sciweavers cookie information, and the page you requested. Sciweavers uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+sciweavers is very concerned about your privacy and we will never provide your email address to a third party. sciweavers may send out e-mails with sciweavers-related news. You may also receive notification e-mails from sciweavers, which inform you of new page contents or comments you already subscribed on. If you do not want to receive notification e-mail from us, please unsubscribe. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices from us. 
 
-        Sciweavers may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages.
+## **CONTACTING US**
 
-E-mail Communications
+If you have any questions about this Privacy Policy or our use of your information, please contact us by admin@sciweavers.org or write to us at: 16228 Serenity Lane, Eden Prairie, MN, 55347 
 
-Sciweavers is very concerned about your privacy and we will never provide your email address to a third party. Sciweavers may send out e-mails with Sciweavers-related news. You may also receive notification e-mails from Sciweavers, which inform you of new page contents or comments you already subscribed on. If you do not want to receive notification e-mail from us, please unsubscribe whatever service from your profile page. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices from us.
+## **CHANGES TO THIS PRIVACY POLICY**
 
-Cookies
+sciweavers may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the sciweavers website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. 
 
-        Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Sciweavers cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+## **YOUR ACCEPTANCE OF THESE TERMS**
 
-        The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Sciweavers' coolest features.
+By using this website, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our website. Your continued use of the website following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
-Changes to this Privacy Policy
+## **CHANGES TO PRIVACY POLICY**
 
-Sciweavers may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Sciweavers website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+In order to keep up with changing legislation and how we process your personal data, this Privacy Policy may be revised at any time without notice by posting an updated version on this website. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
-Effective Date of this Privacy Policy
+## **EFFECTIVE DATE OF THIS PRIVACY POLICY**
 
-This Privacy Policy is effective as of November 1, 2008.
+This Privacy Policy is effective as of 20 May 2018. 
