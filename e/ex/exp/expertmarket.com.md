@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertmarket.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604011458id_/http%3A//www2.expertmarket.com/privacy__cookies_policy_b2b_us__0316/eae1b/3ecbb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertmarket.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204050617id_/http%3A//www2.expertmarket.com/privacy__cookies_policy_b2b_us__0316/eae1b/3ecbb) for the most accurate reproduction.*
 
 # Expert Market
 
