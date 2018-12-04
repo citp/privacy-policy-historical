@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdnicewallpapers.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531012608id_/http%3A//www.hdnicewallpapers.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdnicewallpapers.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204155238id_/http%3A//www.hdnicewallpapers.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | HD Nice Wallpapers
 
