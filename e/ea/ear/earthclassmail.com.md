@@ -1,22 +1,34 @@
-> *The following text is extracted and transformed from the earthclassmail.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130011143id_/https%3A//www.earthclassmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthclassmail.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204070312id_/https%3A//www.earthclassmail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Earth Class Mail
 
-_Last modified: December 21, 2016_
+This is the privacy policy of Earth Class Mail, Inc. (ECM) applicable to the website at www.EarthClassMail.com (“the Website”) and, should you become a customer, to our secure hosted software application, which requires registration and payment and may include online postal mail, check processing, or for other mail-related services that we perform (“the Hosted Services”). 
 
-This is the privacy policy of Earth Class Mail, Inc. (ECM) applicable to the website at www.EarthClassMail.com (“the Website”) and, should you become a customer, to our secure hosted software application, which requires registration and payment and may include online postal mail, check processing, or for other mail-related services that we perform (“the Hosted Services”). We take very seriously the jobs of providing high quality service and protecting your privacy. The information below outlines the commitment we have made to protect your privacy. We do reserve the right to change this agreement, but any changes made will be posted here.
+Not for Children. None of our websites, applications or services are intended for children. Please do not submit information about yourself using our websites if you are under 13. If you are the parent or guardian of a child under 13 who may have submitted information to us please contact us at [privacy@earthclassmail.com](mailto:privacy@earthclassmail.com).
+
+We take very seriously the jobs of providing high quality service and protecting your privacy. The information below outlines the commitment we have made to protect your privacy. We do reserve the right to change this agreement, but any changes made will be posted here.
+
+Please contact us at [privacy@earthclassmail.com](mailto:privacy@earthclassmail.com) if you wish to exercise your right to access, amend, or delete any personal data we hold about you; or you have any other questions or concerns about this Privacy Policy.
 
 ## The Website
 
-We collect limited personal information when you access the Website.
+When you visit the Website as a guest, our web server will capture your IP address, the time and duration of your visit, and the pages on the Site that you visit. It may also collect information about your browser, device (including your mobile device), location and other information of the type collected by web servers generally. We use cookies, web beacons, and other techniques to identify your browser and device to your guest activity on the Site. 
 
-When you visit the publicly-accessible Website, we collect the web page you came from, your browser's user agent string, any keywords you used in a search engine, your computer's IP address, the time and date, the name of the pages your computer visited, and how long it spent on each page.
+## The Hosted Services
+
+When you sign up for a Hosted Service that requires registration, we ask you for personal information (such as your name, email address, and an account password). For services such as online postal mail, we also request and store credit card or other payment account information, address and telephone information, and physical copies of your identification papers. For services such as check processing and depositing, we will request and store information relating to your banking account. All information will be maintained in encrypted form on secure servers or in secure physical facilities, as appropriate. We may combine the information you submit under your account with information from other ECM services or third parties to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. We do not contact site visitors unless they have given us explicit permission to do so, have written to us, or have begun (or completed) the process of signing up for one of our services. Except in the unlikely event that we are required to do so by law, personal details of your visit to our publicly-accessible website will never be shared with any third party without your permission.
 
 ## Cookies
 
-When you visit ECM, we send to your computer one or more cookies - a small file containing a string of characters - that uniquely identify your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some ECM features and services may not function properly if your cookies are disabled.
+Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies in order to implement authentication and to enable core features of our application, as well as to enable us to better understand user behavior. We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. However, if you turn your cookies off, most of our services may not function properly.
 
-This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
+## Analytics Tools.
+
+We may use third party web analytics tools to capture information about your use of the Site, such as mouse clicks and scrolling activity. For example, we may use Google Analytics, Google Website Optimizer, or Segment. The providers of these tools may capture data about your activity on our Site, via cookies and other techniques.
+
+## Information You Submit.
+
+We may ask you to volunteer information about yourself using the Website. For example, we may ask you to provide your name, phone number, and email address, and information about your general interest in the ECM. Your submission of this type of information as a guest on the Website is not required.
 
 ## Partners
 
@@ -29,10 +41,6 @@ Cookies assist partners in tracking your activities from our web site to a partn
 Cookies are used in two stages of the partner tracking: when a banner image on our site is loaded on your Web page for viewing by you and when you click a banner on our site. The function of these Cookies is to provide the partner with information solely for the purpose of crediting us with referrals.
 
 The partner's servers automatically generate a unique number identifying your visit. No information is obtained from you or your computer to generate your unique identifying number. None of the partner's Cookies are used to perform "User Profiling".
-
-## The Hosted Services
-
-When you sign up for a Hosted Service that requires registration, we ask you for personal information (such as your name, email address, and an account password). For services such as online postal mail, we also request and store credit card or other payment account information, address and telephone information, and physical copies of your identification papers. For services such as check processing and depositing, we will request and store information relating to your banking account. All information will be maintained in encrypted form on secure servers or in secure physical facilities, as appropriate. We may combine the information you submit under your account with information from other ECM services or third parties to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. We do not contact site visitors unless they have given us explicit permission to do so, have written to us, or have begun (or completed) the process of signing up for one of our services. Except in the unlikely event that we are required to do so by law, personal details of your visit to our publicly-accessible website will never be shared with any third party without your permission.
 
 ## Log information
 
@@ -103,7 +111,7 @@ ECM processes personal information only for the purposes for which it was collec
 
 ## Accessing and updating personal information
 
-When you use our Hosted Services, we make good-faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected, or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services may have different procedures to access, correct, or delete users' personal information. We may provide the details for these procedures in the specific privacy notices or FAQs for these services.
+When you use our Hosted Services, we make good-faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected, or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, jeopardize the privacy of others. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
 
 ## Enforcement
 
@@ -115,6 +123,11 @@ European residents with inquiries regarding data privacy can contact us at the a
 
 ## Changes to this policy
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. In any event, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. This policy was last modified on May 18, 2018.
 
-If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Your Privacy Rights, c/o Earth Class Mail, 9450 SW Gemini Dr, #101, Beaverton, Oregon 97008-7105.
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Earth Class Mail  
+122 E. Houston St, 2nd Floor  
+San Antonio, TX 78205  
+[privacy@earthclassmail.com](mailto:privacy@earthclassmail.com).
