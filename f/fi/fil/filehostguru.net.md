@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filehostguru.net privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111071725id_/https%3A//en.filehostguru.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filehostguru.net privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204183314id_/https%3A//filehostguru.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,7 +49,7 @@ If User decides to opt-in to our mailing list, they will receive emails that may
 
 ### Third party websites
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own [terms and conditions](https://en.filehostguru.net/terms/).
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own [terms and conditions](https://filehostguru.net/terms/).
 
 ### Advertising
 
@@ -69,6 +69,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [**contact us**](https://en.filehostguru.net/contact/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [**contact us**](https://filehostguru.net/contact/).
 
 This document was last updated on July 20, 2017
