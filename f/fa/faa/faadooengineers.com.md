@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the faadooengineers.com privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825065235id_/http%3A//www.faadooengineers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faadooengineers.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204154543id_/http%3A//www.faadooengineers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FaaDoOEngineers.com
 
-FaaDoOEngineers.com is a wholly owned website of Two Minds Technology Pvt. Ltd. FaaDoOEngineers located at [FaaDoOEngineers.com](http://www.faadooengineers.com/) is the mother brand of Two Minds Technology Pvt. Ltd. and powers / manages the Online Properties (Brand Names) of the 'FE' interalia [www.faadooengineers.com/tube](http://www.faadooengineers.com/tube), [www.faadooengineers.com/fests](http://www.fests.faadooengineers.com/), [www.faadooengineers.com/colleges](http://www.faadooengineers.com/colleges), [www.faadooengineers.com/photos](http://www.faadooengineers.com/photos) including various internet sites and community boards and services, to name a few. 
+FaaDoOEngineers.com is a wholly owned website of Two Minds Technology Pvt. Ltd. FaaDoOEngineers located at [FaaDoOEngineers.com](http://www.faadooengineers.com/) is the mother brand of Two Minds Technology Pvt. Ltd. and powers / manages the Online Properties (Brand Names) of the 'FE' interalia [www.faadooengineers.com/tube](http://www.faadooengineers.com/tube), [www.faadooengineers.com/fests](http://www.faadooengineers.com/fests), [www.faadooengineers.com/colleges](http://www.faadooengineers.com/colleges), [www.faadooengineers.com/photos](http://www.faadooengineers.com/photos) including various internet sites and community boards and services, to name a few. 
 
 FE respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users FE offers a vast repository of Online Sites and variety of community services. You may read 'About Us' to know more about FE at <http://www.faadooengineers.com/about-us> Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf 'FaaDoOEngineers Portals' in detail. The information about the user as collected by FE is: (a) information supplied by users and (b) information automatically tracked while navigation (Information). 
 
@@ -42,8 +42,8 @@ However the internet is an ever evolving medium. We may change our privacy polic
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at [admin@faadooengineers.com](mailto:admin@faadooengineers.com) or write at the following address:   
 FaaDoOEngineers.com   
-No.1497,  
-Wazir Nagar Kotla Mubarakpur, Delhi, 110003  
+E-371, Third Floor,   
+Nirman Vihar, New Delhi, Delhi 110092   
 India 
 
 We request you to please provide the following information in your complaint:- 
