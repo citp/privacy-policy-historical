@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brightermonday.co.ke privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101191619id_/https%3A//www.brightermonday.co.ke/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightermonday.co.ke privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204111752id_/https%3A//www.brightermonday.co.ke/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Kenya | BrighterMonday
+# Privacy Policy - Learn How We Use Your Data | BrighterMonday
 
 BrighterMonday is committed to a high standard of privacy for our users. We understand that job seeking is a confidential and private activity and we take great care to ensure the services we provide meet our users expectations. 
 
@@ -36,7 +36,7 @@ BrighterMonday registered members may elect to store resumes and use those resum
 
 All information provided when creating a Profile including name, resume, email address, telephone numbers, employment and educational history are used for the purposes of facilitating registered members job seeking efforts.Registered Members can modify, hide or delete their resume at any time. BrighterMonday reserves the right to disable or delete a Profile at their sole discretion.
 
-Making an online application to a job advertisement on BrighterMonday does require registration and paid membership. Paid membership is an optional product designed to help jobseekers compete against fewer applicants. Job applications require you to provide personal information so that the advertiser can identify and contact you. Your application, including attachments and cover letters, are forwarded directly on to the third party advertiser. This information may also be disclosed to BrighterMonday's service providers and contractors from time to time who assist us to deliver our products and services, or may be disclosed to an advertisers provider in the case of recruitment agencies, recruitment software providers and other third party providers to our advertisers. 
+Making an online application to a job advertisement on BrighterMonday does require registration and paid membership. Paid membership is an optional product designed to help jobseekers compete against fewer applicants. Job applications require you to provide personal information so that the advertiser can identify and contact you. Your application, including attachments and cover letters, are forwarded directly onto the third party advertiser. This information may also be disclosed to BrighterMonday's service providers and contractors from time to time who assist us to deliver our products and services, or may be disclosed to an advertisers provider in the case of recruitment agencies, recruitment software providers and other third party providers to our advertisers. 
 
 BrighterMonday may also retain this information in order to customise the service we provide to you. For example, BrighterMonday may use this information to help create a BrighterMonday Profile that you may choose to use in the future. We will not however activate this (or any other service) or disclose this information to any third party without your express consent. BrighterMonday does however reserve the right to disable or delete a saved resume or cover letter at its discretion. However we will only do this for reasons of security, technological constraints or other factors unrelated to the personal information or identity or personal information of the user. 
 
@@ -72,15 +72,15 @@ The BrighterMonday Facebook Alerts Bot or "Mr Bright" ("the Bot") collects and s
 
 The Bot Collects information on users collectively including which actions are taken, how often and for how long. This data is always used as a aggregated, non-personal information. We may use third party analytics tools including Google Analytics,Mix-panel and others to collect this information. We will use this information to improve the product feature set. 
 
-This aggregated information may be shared with BrighterMonday technology service provider sad investors. We will not share the aggregated information we collect from the Bot with external advertisers. 
+This aggregated information may be shared with BrighterMonday technology service providers and investors. We will not share the aggregated information we collect from the Bot with external advertisers. 
 
 When you use the Bot, your preferences are stored on our servers so that you can receive alerts you have specifically often in to subscribe to. These preferences will not be linked to your BrighterMonday website account. 
 
-When you first begin using the Bit, a new account is created for you by the Both which is tied to your Facebook account (again, this is independent from your BrighterMonday account). When you delete your lets and the Bot locally we will continue to store your Facebook first name, last name, language, timezone and gender on our servers, but will o longer be able to sed you any more messages until you have re-enabled the Bot. We will store no other personal information from your Facebook profile, and will never post on your behalf. 
+When you first begin using the Bot, a new account is created for you by the Bot which is tied to your Facebook account (again, this is independent from your BrighterMonday account). When you delete your alerts the Bot locally will continue to store your Facebook first name, last name, language, timezone and gender on our servers, but will no longer be able to send you any more messages until you have re-enabled the Bot. We will store no other personal information from your Facebook profile, and will never post on your behalf. 
 
 BrighterMonday takes all reasonable steps to ensure the security of our systems. Any information which we hold for you is stored on secure servers belonging to third parties including Amazon, some of which may be outside Kenya. By giving us you personal information, you consent to such storage. In addition, our employees and the contractors who provide services related to our information systems are contractually obliged to respect the confidentiality of any personal information held by BrighterMonday. Our employees have severely restricted access to personal data stored on BrighterMonday. However, BrighterMonday will not be held responsible for events arising from unauthorised access of your personal information. 
 
 When subscribed, you will receive alerts with links to jobs on the BrighterMonday site. In order to apply for these jobs, you will need to register on that website. For the BrighterMonday website privacy policy please see above.  
 
 
-From tome to time, we may review and update eh Bot privacy statement. Revised versions will be viewable here. 
+From time to time, we may review and update the Bot privacy statement. Revised versions will be viewable here. 
