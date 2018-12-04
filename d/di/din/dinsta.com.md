@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dinsta.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012195704id_/http%3A//www.dinsta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinsta.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204223514id_/https%3A//www.dinsta.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - dinsta.com
+
+_Last updated May 25, 2018_
 
 At dinsta.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.dinsta.com and how it is used. 
 
