@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613031922id_/https%3A//www.123-reg.co.uk/terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205020323id_/https%3A//www.123-reg.co.uk/terms/privacy.shtml) for the most accurate reproduction.*
 
 # Data protection and privacy policy | 123 Reg
 
