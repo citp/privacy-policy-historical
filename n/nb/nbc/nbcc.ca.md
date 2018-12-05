@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcc.ca privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520082811id_/http%3A//nbcc.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcc.ca privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205085530id_/http%3A//nbcc.ca/privacy-policy) for the most accurate reproduction.*
 
 # NBCC Privacy Policy
 
