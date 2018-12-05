@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the financialexpress.net privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624203701id_/http%3A//www.financialexpress.net/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialexpress.net privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205062552id_/http%3A//www.financialexpress.net/privacy-cookies) for the most accurate reproduction.*
 
-# Privacy and Cookies
+# Privacy and Cookies | FE Financial Express
+
+This Privacy Policy was updated on 18th May, 2018
 
 To see the Privacy & Cookie Policy for FE's suite of client portals, MI product and regulatory services [please click here](https://web.archive.org/fe-products-privacy-cookies "FE Products Privacy & Cookie Policy").
 
@@ -83,9 +85,9 @@ Occasionally we may ask for your permission to share your information with 3rd p
 
 We want to ensure that the personal information we hold about you is accurate and up to date.
 
-You can update your contact preferences using the **FE’s preference centre** on the website. Alternatively, to see what personal information we have collected from you, you may correct, update, amend, delete/remove, deactivate it by emailing fedataprotection@financialexpress.net.
+You can update your contact preferences using the **FE’s preference centre** on the website. Alternatively, to see what personal information we have collected from you, you may correct, update, amend, delete/remove, deactivate it by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-You have the right to access information held about you. If you wish to receive a copy of any personal information we hold, please email your request to [fedataprotection@financialexpress.net](mailto:fedataprotection@financialexpress.net).
+You have the right to access information held about you. If you wish to receive a copy of any personal information we hold, please email your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#82e4e7e6e3f6e3f2f0edf6e7e1f6ebedecc2e4ebece3ece1ebe3eee7faf2f0e7f1f1acece7f6).
 
 ### **WHERE AND HOW WE STORE YOUR PERSONAL INFORMATION**
 
@@ -166,6 +168,6 @@ If you want more information or have any questions or comments relating to our p
 
 Address: Data Protection Officer, FAO Sorin Pop, 3rd Floor, Hollywood House, Church Street East, Woking, Surrey, GU21 6HJ, United Kingdom
 
-Email: [fedataprotection@financialexpress.net](mailto:fedataprotection@financialexpress.net)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5f393a3b3e2b3e2f2d302b3a3c2b3630311f3936313e313c363e333a272f2d3a2c2c71313a2b)
 
 Telephone: 01483-783940
