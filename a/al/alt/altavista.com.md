@@ -1,95 +1,114 @@
-> *The following text is extracted and transformed from the altavista.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231034019id_/http%3A//www.altavista.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altavista.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205201118id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/products/search) for the most accurate reproduction.*
 
-# AltaVista - Privacy Policy Statement
+# Search Services | Oath Policies
 
-[Privacy Policy Details](https://web.archive.org/web/20101231034019id_/http%3A//www.altavista.com/about/priv_details)
+This policy describes our current privacy practices for the Oath Search and Assistants brands, websites, features, products, apps, software and other services (“Search Services”). All information that is collected, provided to Oath or stored in your Oath Account will be treated, used and protected in accordance with the [Oath Privacy Policy](https://web.archive.org/web/20181205201118id_/https://policies.oath.com/us/en/oath/privacy/index.html). This information may change as Oath revises these Search Services by adding or removing features or using different service providers. Some features are only available if you are a registered user. Please visit [Help](https://help.yahoo.com/kb/index?page=product&y=PROD_SRCH&locale=en_US) if you have questions about these Search Services.
 
-* * *  
-  
-**AltaVista Privacy Policy Statement**  
-|   
-AltaVista is committed to respecting and protecting your personal privacy. Our privacy policy is succinctly explained below. You can get additional details by clicking on the highlighted links. Also, please read our [Children's privacy policy](https://web.archive.org/web/20101231034019id_/http%3A//www.altavista.com/about/priv_details#2) to learn about how we treat information collected from children.
+This page describes specific privacy practices with respect to [ Yahoo Search](https://search.yahoo.com/), Yahoo Assistants, Yahoo Local and Yahoo Shopping. Additional information is included for certain Search Services listed below.
 
-Questions regarding our privacy policy should be directed to:
+### **Yahoo Search**
 
-General Counsel  
-AltaVista  
-Overture Services, Inc.  
-74 North Pasadena Avenue, 3rd Floor  
-Pasadena, California 91103 
+#### **Information Collection & Use Practices**
 
-* * *  
-  
----  
-**What Does the AltaVista Privacy Policy Cover?**  
-  
-This privacy policy applies to web pages ending in altavista.com or av.com that contain a link to this privacy policy at the bottom of the web page. For further information, [click here](https://web.archive.org/web/20101231034019id_/http%3A//www.altavista.com/about/priv_details#1).
+**Search**
 
-Inclusion of the [AltaVista logo](https://web.archive.org/web/20101231034019id_/http%3A//www.altavista.com/about/priv_details#5) at the top of a web page does not necessarily mean that this privacy policy applies. Be sure to check the URL that you link to from AltaVista web pages to determine whether this privacy policy applies. If you have any questions about this, contact us at [privacy-support](https://web.archive.org/help/contact/corporate).
-
- **Back To Top**
-
-* * *  
-  
-**What Information Does AltaVista Collect From You?**  
-  
-You can visit our site and use most of our services without having to tell us who you are or reveal any personally identifiable information to us. There are, however, a few instances where we do collect personally identifiable information in order to fulfill your request. [Click here](https://web.archive.org/web/20101231034019id_/http%3A//www.altavista.com/about/priv_details#3f) for examples of these instances.  
-Whenever you visit AltaVista, our web server logs automatically receive and record [anonymous information](https://web.archive.org/web/20101231034019id_/http%3A//www.altavista.com/about/priv_details#3a) from your web browser including your [IP Address](https://web.archive.org/web/20101231034019id_/http%3A//www.altavista.com/about/priv_details#3d), AltaVista [cookie](https://web.archive.org/web/20101231034019id_/http%3A//www.altavista.com/about/priv_details#3e) information, the AltaVista page(s) you request, the time spent on each web page and any search terms you query.  
-AltaVista uses this anonymous information to customize your experience on our site, to show you more relevant advertising messages, and to improve our services in general. For example, when you use AltaVista's Toolbar, AltaVista can collect aggregate information such as the web pages visited and the time spent on each page. This information allows other users to benefit from the quality searches you perform, ultimately receiving the most relevant, pertinent information. We ordinarily do not attempt to link this information to a specific person. [Click here](https://web.archive.org/web/20101231034019id_/http%3A//www.altavista.com/about/priv_details#3d) for exceptions to this practice. 
-
-**Back To Top**
-
-* * *  
-  
-**Do Any Third Parties Receive or Collect Your Information Through AltaVista?**  
-  
-In the few instances where AltaVista collects personally identifiable information, AltaVista will not share it with other companies or individuals unless:
-
-We have your permission to share the information; or
-
-We need to share your information with certain third parties with which we have a business relationship in order to provide a product or service you have requested. Unless we tell you otherwise, these third parties do not have the right to use your personal information we share with them beyond what is necessary to deliver your requested product or service; or  
+  * When you conduct a search on a product or service that uses our search technology, we collect information from your experience, such as your search queries.
+  * Search Assist helps you find what you are looking for by automatically offering popular search terms and new topics to consider. Search Assist may base suggestions on aggregated searches across all users and your individual search history.
+  * The Yahoo Search History tool allows you to see what you've searched for in the past. [ Learn how to manage your Search History tool](https://help.yahoo.com/kb/index?page=content&y=PROD_SRCH&locale=en_US&id=SLN22645).
+  * When you use Yahoo Search, you may see relevant, private results selected from other sources, such as your Yahoo Mail. Only you can see your private search results when you’re signed in. [Learn how to manage, including turning off, Private Results. ](https://help.yahoo.com/kb/search/SLN22585.html?impressions=true)
+  * Some advertising you receive may be customized based on your searches or related terms at Oath. Please visit our [ Opt-Out page](https://web.archive.org/web/20181205201118id_/https://policies.oath.com/us/en/oath/privacy/dashboard/index.html) to learn more about the information used to personalize your search experience. If you opt-out, you will continue to see ads Oath serves on these websites, but they won’t be customized to your interests or search history.
+  * Visit the [ Search Preferences](https://search.yahoo.com/preferences/preferences?pref_done=https%3A%2F%2Fsearch.yahoo.com%2Fsearch%3Fp%3Dtest%26ei%3DUTF-8%26fr%3Dsfp&.bcrumb=152fFQ.8kx9&tmpl=&fr=sfp) page to manage your Yahoo Search experience, including Safe Search, Search History, and Private Results.
+  * Yahoo Search uses image recognition algorithms to identify public figures, scenes, actions, or objects to make it easier to search images
 
 
-We are responding to [subpoenas](https://web.archive.org/web/20101231034019id_/http%3A//www.altavista.com/about/priv_details#5e), court orders, or other legal process, to establish or exercise our legal rights or defend against legal claims; or-
 
-If AltaVista is acquired by another company whether through merger or purchase of its stock or all or substantially all of its assets, we will share the information with the acquiring company. 
+**Search Partners**
 
-Furthermore, AltaVista will not sell or disclose your personally identifiable information as customer lists to anyone. Nor will we share with anyone personally identifiable information about you that is of medical, financial or sexual nature.
-
-AltaVista shares some of the user information, such as user trends, search language, and time of day with third parties that may set and access cookies on your computer. Other advertisers or advertising services may set cookies but this information is not shared with AltaVista nor is it personally identifiable information. 
-
-None if these third parties nor any other advertiser or advertising service, receives personally identifiable information from AltaVista. However, certain advertisements or contests you see on our site may provide for the collection of personally identifiable information. Such information is never shared with AltaVista. For more information, [click here](https://web.archive.org/web/20101231034019id_/http%3A//www.altavista.com/about/priv_details#4).
-
- **Back To Top**
-
-* * *  
-  
-**What Security Measures Are in Place to Protect Your Information?**  
-  
-AltaVista operates secure data networks protected by industry standard firewall and password protection. We have security measures in place to attempt to protect against the loss, misuse or alteration of your user data.  
-Only certain employees have access to the information you provide us. 
-
-**Back To Top**
-
-* * *  
-  
-**How Will You Be Notified if AltaVista Changes This privacy policy?**  
-  
-AltaVista updates this policy from time to time. If we are going to use personally identifiable information in a manner different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our databases, we will post a prominent notice on our web site notifying users of the change. Bear in mind that the only way to ensure your personal privacy whenever you are on the Internet is to make sure your browser is configured so that you are alerted to all [cookies](https://web.archive.org/web/20101231034019id_/http%3A//www.altavista.com/about/priv_details#3e). 
-
-**Back To Top**
-
-* * *  
-  
-**Your Questions or Suggestions Regarding This privacy policy.**  
-  
-If you have any questions or concerns about this privacy policy or the practices of this site, please contact us at [privacy-support](https://web.archive.org/help/contact/corporate), or for New York residents, contact <http://www.oag.state.ny.us/internet/internet.html>, or write to our [General Counsel](https://web.archive.org/web/20101231034019id_/http%3A//www.altavista.com/about/priv_details#9).  
+  * A variety of third party providers help power Oath search and sponsored search services.
+  * We may share your search query, IP address, and other depersonalized information from your web browser or app, such as a unique identifier for your web browser, with these search partners.
+  * These third party providers may use this information, as well as your search results clicks, to provide more relevant advertising and search results, for search product improvement, research and analysis, and to help detect and defend against fraudulent activity on sponsored or contextual search results.
+  * We may reformat results provided by these search partners to provide an enhanced search experience to you.
+  * To learn more about the data collection and use practices by these search partners, please visit our [ Third Parties](https://web.archive.org/web/20181205201118id_/https://policies.oath.com/us/en/oath/privacy/topics/thirdparties/index.html) page.
 
 
-Policy updated and effective date: May 17, 2004
 
-* * *  
-  
-[New Privacy Policy - Please Read](http://www.altavista.com/about/privacy)     [Business Services](http://av.rds.yahoo.com/_ylt=A0oGkuKjUB1NZSgBSAiADqMX;_ylu=X3oDMTB2cjloaGg4BHBndANhdl9hYm91dF9wcml2YWN5BHNlYwNmb290ZXI-/SIG=11rd7udbf/EXP=1293853219/**http%3A//www.altavista.com/web/avbusiness)     [Submit a Site](http://av.rds.yahoo.com/_ylt=A0oGkuKjUB1NZSgBSQiADqMX;_ylu=X3oDMTB2cjloaGg4BHBndANhdl9hYm91dF9wcml2YWN5BHNlYwNmb290ZXI-/SIG=11r46lvqa/EXP=1293853219/**http%3A//www.altavista.com/addurl/default)     [About AltaVista](http://av.rds.yahoo.com/_ylt=A0oGkuKjUB1NZSgBSgiADqMX;_ylu=X3oDMTB2cjloaGg4BHBndANhdl9hYm91dF9wcml2YWN5BHNlYwNmb290ZXI-/SIG=11j80fuv9/EXP=1293853219/**http%3A//www.altavista.com/about/)     [Privacy Policy](http://av.rds.yahoo.com/_ylt=A0oGkuKjUB1NZSgBSwiADqMX;_ylu=X3oDMTB2cjloaGg4BHBndANhdl9hYm91dF9wcml2YWN5BHNlYwNmb290ZXI-/SIG=11q90gbub/EXP=1293853219/**http%3A//www.altavista.com/about/privacy)     [Help](http://av.rds.yahoo.com/_ylt=A0oGkuKjUB1NZSgBTAiADqMX;_ylu=X3oDMTB2cjloaGg4BHBndANhdl9hYm91dF9wcml2YWN5BHNlYwNmb290ZXI-/SIG=11i2sb9qk/EXP=1293853219/**http%3A//www.altavista.com/help/)
+**Sponsored Search Results**
 
-© 2010 Overture Services, Inc.
+  * Search results may consist of sites that have paid for placement in the search results. [ Learn more.](https://web.archive.org/web/20181205201118id_/https://policies.oath.com/us/en/oath/privacy/topics/adserving/index.html)
+  * Search results may contain tracking URLs provided by Yahoo Search Marketing and/or our Search Partners to identify clicks from the search results page.
+
+
+
+**Assistants**
+
+  * Yahoo Assistants are a new category of products and services using artificial intelligence guided by humans. These include chat bots operating in messenger platforms, virtual personal assistants and stand-alone apps accessed on Oath or through third-party apps and services. Assistants may collection information about you in a manner different from other search technologies.
+  * Yahoo Assistants may interact and converse with you to answer questions, help complete tasks or perform other activities. Assistants rely on our personnel and automated systems to respond to questions or instructions from users.
+  * We may collect information about you when you use our Assistants, including your conversations and interactions with the Assistant, your Yahoo ID and information associated with your account.
+  * We may also collect information provided by a third-party (including apps, messaging platforms and other services) interacting with our Assistants, which could include: your account information with the third-party, such as user ID, name, photo, phone number, email address; and device information such as device ID, device type, operating system, and mobile carrier.
+  * Oath’s personnel and our automated systems may have access to all communications content as it is sent, received, and when it is stored, in order to fulfill your requests, further product and services development, and provide personalized experiences and advertising through Oath’s products and services.
+  * When you are communicating with our Assistants through a third-party, please read that company’s privacy policy to better understand what information it may retain and for what purposes.
+  * Location information collected through the Yahoo Assistants may not appear in the Location Management page.
+
+
+
+**Other**
+
+  * Users who are European residents can [ request](https://io.help.yahoo.com/contact/index?y=PROD_SRCH&token=w5FCchB1dWGbc2RE0kcjij0u65u86GoeqUkmqtTbcuO%252BLU%252FUQgc3BzwNZtXp6XEXn5YwJ6Wu6A9MCYnw7SzQy5BySKiGUpoj0xug9Sr7JfZdSQjOyA5v2Of2mZTMotlsehDS1xQqu1g%253D&locale=en_GB&page=contactform&selectedChannel=email-icon&isVip=false.) that certain URLs be blocked from search results in certain circumstances.
+
+
+
+### **Yahoo Local**
+
+#### **Information Collection and Use Practices  **
+
+**My Local**
+
+  * This feature allows the signed in user to store Business Listings by using the “Save” button on the Business Profile Page.
+  * Signed-in users may also view their recently searched and recently viewed businesses.
+
+
+
+#### **Information Sharing and Disclosure Practices**
+
+**Reviews**
+
+  * Your review will include your Yahoo ID or an alias or other account information you have made public and will link to your profile. Use the pull-down menu to choose the alias you would like to post with. You may also create a new alias and profile.
+  * Currently it is not possible to edit your own review once it has been posted, however if you try to post a second review you will see your previous review which may then be resubmitted.
+  * If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+
+
+
+#### **Practices Regarding Your Ability to Update or Delete Information**
+
+  * Currently it is not possible to edit your own review once it has been posted, however if you try to post a second review you will see your previous review which may then be resubmitted.
+
+
+
+### **Yahoo Shopping**
+
+  * [Yahoo Shopping](http://shopping.yahoo.com/) allows you to access thousands of merchants and products in one place. To make a purchase from a merchant listed on Yahoo Shopping, you are not required to be a registered user.
+  * [PriceGrabber](http://www.pricegrabber.com/) powers the functionality of Yahoo Shopping. For more information on how PriceGrabber collects and uses your information, please visit the PriceGrabber [ Privacy Policy](http://www.pricegrabber.com/privacy-policy).
+
+
+
+#### **Information Collection and Use Practices**
+
+**Purchases**
+
+  * We may use your Yahoo Shopping queries and Yahoo Shopping browsing history to customize your experience and provide you ads that may be of more interest to you. We show you your Yahoo Shopping queries and Yahoo Shopping browsing history made within the past 60 days in the [ Recent Activity module](https://help.yahoo.com/kb/shopping/sln5102.html).
+  * To disable Recent Activity, select “off” in the upper-right corner of the module. To clear your Yahoo Shopping browsing history, select “clear all” in the upper-right corner of the module. To learn more about your ability to opt-out of interest-based advertising, click [ here](https://web.archive.org/web/20181205201118id_/https://policies.oath.com/us/en/oath/privacy/dashboard/index.html). To learn more about how the Recent Activity module works, click [ here](https://help.yahoo.com/kb/shopping/sln5102.html) 
+  * When you make a purchase from a merchant listed on Yahoo Shopping, the merchant will ask for information such as your name, billing and shipping addresses, email address, telephone number, and credit card information. Please refer to the privacy policy of each individual merchant to learn how they use and store your information.
+  * Each merchant from whom you make a purchase will receive your personal and order information directly. Yahoo Shopping does not see, collect, store, or use this information in any way.
+  * Each merchant is solely responsible for their use of your personal and order information.
+
+
+
+**Comments**
+
+  * When signed into the Yahoo Network you may comment on user reviews. When you comment, your profile is linked to that content and your display name and profile photo are visible to other users.
+  * You must be a logged-in, registered user to post a comment.
+  * Comments you post will be displayed publicly along with your Yahoo ID or chosen nickname and profile picture or avatar.
+  * You may also delete a comment you have posted by selecting the ‘delete’ option next to the comment you wish to remove.
+  * Your comments are visible to you on the “My Comments” tab next to the commenting streams.
+
+
