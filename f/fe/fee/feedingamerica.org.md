@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedingamerica.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628075137id_/http%3A//www.feedingamerica.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedingamerica.org privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205232930id_/http%3A//www.feedingamerica.org/privacy-policy) for the most accurate reproduction.*
 
 # Protecting Supporters Privacy | Feeding America
 
@@ -6,7 +6,7 @@ _Updated June 14, 2018_
 
 Feeding America strongly believes in protecting the integrity and privacy of personal information gathered from our supporters through all of our communication channels, as well as from visitors to our Website. The protection of your privacy is of great importance to us, we have created this privacy policy to communicate our practices regarding the collection and dissemination of personal information that you provide to us and that can be linked to a specific individual, such as a name, postal address, telephone number(s), email address, or any other information, provided to us by our supporters and Website visitors (hereinafter “Personal Information”), as well as certain non-personally identifiable information collected when you visit many of our web pages such as the type of browser you are using (e.g. Internet Explorer or Firefox), the type of operating system you are using (e.g., Windows XP or Mac OS), the domain name of your internet service provider (e.g., AT&T or Verizon), aggregate data about the number of visits to the Site and/or aggregate data about the pages visited (hereinafter “Aggregate Data”).
 
-This policy also applies when you use social media that overlaps Feeding America’s social media and/or website.  This policy does not apply to information or data Feeding America purchases from other sources.  Feeding America uses its best efforts to not share information it collects from those persons it provides services to (commonly referred to as “clients”).  See our [donor privacy policy](http://www.feedingamerica.org/privacy-policy/donor-privacy-policy.html "Donor Privacy Policy").  for how we use information we collect through social media fundraising efforts, including, but not limited to MGive and similar mobile text to give programs.
+This policy also applies when you use social media that overlaps Feeding America’s social media and/or website.  This policy does not apply to information or data Feeding America purchases from other sources.  Feeding America uses its best efforts to not share information it collects from those persons it provides services to (commonly referred to as “clients”).  See our [donor privacy policy](https://www.feedingamerica.org/privacy-policy/donor-privacy-policy "Donor Privacy Policy").  for how we use information we collect through social media fundraising efforts, including, but not limited to MGive and similar mobile text to give programs.
 
 This policy will be updated periodically, so please be sure to reread it from time to time. The most recent date the privacy policy was updated is provided at the top of the page. By submitting your personal information to us, you are agreeing that Feeding America may use the information in accordance with this privacy policy.
 
@@ -70,11 +70,11 @@ Google Analytics collects information anonymously. It reports website trends wit
 
 **Third Party “Cookies”:**
 
-We use third-party advertising companies to create and distribute advertising on our behalf. These companies may also employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information these third parties collect via cookies and action tags is anonymous. Specifically, Feeding America uses an Atlas Universal tag to collect anonymous cookie-based data about users who perform certain actions on a website. This data is used for measurement purposes to gauge the effectiveness of media across browsers and devices. Data collected with Atlas Universal Tags is reported on in aggregate, or via anonymous cookie-level log files. For more information on Atlas, you can view their privacy policy on [their website](https://atlassolutions.com/privacy-policy/). 
+We use third-party advertising companies to create and distribute advertising on our behalf. These companies may also employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information these third parties collect via cookies and action tags is anonymous. Specifically, Feeding America uses an Atlas Universal tag to collect anonymous cookie-based data about users who perform certain actions on a website. This data is used for measurement purposes to gauge the effectiveness of media across browsers and devices. Data collected with Atlas Universal Tags is reported on in aggregate, or via anonymous cookie-level log files. For more information on Atlas, you can view their privacy policy on [their website](https://atlassolutions.com/privacy-policy/).
 
-Feeding America also utilizes Criteo Email Remarketing. The purpose of Criteo Email is to find visitors of Criteo advertising clients’ properties (websites, apps, and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email [visit their website](http://www.criteo.com/privacy/). 
+Feeding America also utilizes Criteo Email Remarketing. The purpose of Criteo Email is to find visitors of Criteo advertising clients’ properties (websites, apps, and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email [visit their website](http://www.criteo.com/privacy/).
 
-More broadly, we may work with data providers to target advertising to you personally, through online and offline methods including email, display media and direct mail. This advertising may be directed to you because you visited or logged in to our website. When we generate this advertising, data we collect from you through online cookies and other technologies may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to tailor ads to you based on your preferences and other information about you. To learn more about targeted advertising, these providers, or how you may opt out, please visit the DAA’s consumer choice page at [http://www.aboutads.info/choices](http://www.aboutads.info/choices/). 
+More broadly, we may work with data providers to target advertising to you personally, through online and offline methods including email, display media and direct mail. This advertising may be directed to you because you visited or logged in to our website. When we generate this advertising, data we collect from you through online cookies and other technologies may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to tailor ads to you based on your preferences and other information about you. To learn more about targeted advertising, these providers, or how you may opt out, please visit the DAA’s consumer choice page at [http://www.aboutads.info/choices](http://www.aboutads.info/choices/).
 
 Technologies other than http cookies may be used by third parties in a similar way, to recognize the email recipients’ computer or device and to keep track of which user identities match to which devices or browsers, and those technologies may not respond to browser settings that block conventional cookies. You may opt of many of these types of technologies by visiting the [Network Advertising Opt Out page](http://www.networkadvertising.org/choices/). You can also opt-out of display remarketing ads directly by clicking on the blue triangle called ‘AdChoices’ in the right hand corner of the ad and follow the instructions. Please note if you delete your cookies or switch devices this exclusion won’t carry over.  We are not responsible for third parties’ use of cookies.
 
@@ -89,7 +89,7 @@ If you wish, you can usually adjust your browser so that your computer does not 
 
 Alternatively, you can adjust your browser to tell you when a website tries to put a cookie on your computer.
 
-How you adjust your browser to stop it accepting cookies or to notify you of them, will depend on the type of internet browser program your computer uses. You can follow the appropriate instructions for your specific browser type at [https://www.aboutcookies.org](https://www.aboutcookies.org/), or visit your internet browser’s “help” section.  (Please note that this link will open a new window and will lead to an external website and that we are not responsible for the content of external websites). ****
+How you adjust your browser to stop it accepting cookies or to notify you of them, will depend on the type of internet browser program your computer uses. You can follow the appropriate instructions for your specific browser type at [https://www.aboutcookies.org](https://www.aboutcookies.org/), or visit your internet browser’s “help” section.  (Please note that this link will open a new window and will lead to an external website and that we are not responsible for the content of external websites).
 
 **How to disable third party cookies**
 
@@ -99,11 +99,10 @@ Users based in the European Union can [opt out of these third party cookies](ht
 
 By agreeing to this policy you consent to the use of cookies by us as described above. Read more about cookies at [https://www.aboutcookies.org](https://www.aboutcookies.org/). (Again, we are not responsible for external websites).
 
-Cookies do not contain confidential information such as your home address, telephone number or credit card details. We do not exchange cookies with any third party websites or external data suppliers. If you do choose to disable cookies, you may find that certain sections of our Site do not work properly. ****
+Cookies do not contain confidential information such as your home address, telephone number or credit card details. We do not exchange cookies with any third party websites or external data suppliers. If you do choose to disable cookies, you may find that certain sections of our Site do not work properly.
 
 **Security:**  
-This Website has security measures in place to protect the loss, misuse, and alteration of the information under our control. The security measures used on this site include, but are not limited to, industry-standard Secure Socket Layer (SSL) technology, firewalls, and internal policies to maintain the security of stored data. While we follow generally accepted industry standards to protect the personal information submitted to us, no method of transmission over the Internet, or method of electronic storage, is 100 percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. **  
-**
+This Website has security measures in place to protect the loss, misuse, and alteration of the information under our control. The security measures used on this site include, but are not limited to, industry-standard Secure Socket Layer (SSL) technology, firewalls, and internal policies to maintain the security of stored data. While we follow generally accepted industry standards to protect the personal information submitted to us, no method of transmission over the Internet, or method of electronic storage, is 100 percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. ****
 
 **Warranties**
 
@@ -127,9 +126,9 @@ Feeding America may change this Privacy Policy and Terms of use at any time by p
 
 **Opt-out/Contact Feeding America:**
 
-****If you wish to opt-out of receiving future communications or should you wish to opt-out of having your information shared by Feeding America, please contact Feeding America at the below address or phone number or submit your request via Feeding America’s website[Contact Us form](http://help.feedingamerica.org/site/PageServer?pagename=contactus).
+If you wish to opt-out of receiving future communications or should you wish to opt-out of having your information shared by Feeding America, please contact Feeding America at the below address or phone number or submit your request via Feeding America’s website [Contact Us form](http://help.feedingamerica.org/site/PageServer?pagename=contactus).
 
-Postal Mail:     
+Postal Mail:    
 Feeding America  
 PO Box 96749  
 Washington DC 20077-7746  
@@ -140,8 +139,8 @@ All opt-out requests will be honored, but please be patient with us as it may ta
 Should you have any questions about this Privacy Policy and Terms of Use, the practices of this Website, or your dealings with this Website, contact Feeding America at:
 
 Attn: Andrea Yao, Chief Protection Officer  
-Postal Mail:     
-Feeding America                          
+Postal Mail:    
+Feeding America                         
 National Office  
 35 East Wacker Drive, Suite 2000  
 Chicago, IL  60601
