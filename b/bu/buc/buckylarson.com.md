@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buckylarson.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215224422id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buckylarson.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205225548id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | Sony Pictures
 
@@ -187,6 +187,10 @@ With respect to SPE’s mobile apps (" **apps** "), you can stop all collection 
 **D. Communications.**
 
 You can opt out of receiving certain promotional communications (emails or text messaging) from SPE at any time by (i) for promotional e-mails, following the instructions provided in emails to click on the unsubscribe link, or if available by changing your communication preferences by logging onto your account; and (ii) for text messages, following the instructions provided in text messages from SPE to text the word, "STOP". Please note that your opt-out is limited to the e-mail address or phone number used and will not affect subsequent subscriptions. If you opt-out of only certain communications, other subscription communications may continue. Even if you opt-out of receiving promotional communications, SPE may, subject to applicable law, continue to send you non-promotional communications, such as those about your account, transactions, servicing, or SPE’s ongoing business relations. 
+
+**E. Audience Measurement.**
+
+The Service may feature Nielsen proprietary measurement software, which will enable you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect, please see the Nielsen Digital Measurement Privacy Policy at http://www.nielsen.com/digitalprivacy
 
 Return to navigation
 
