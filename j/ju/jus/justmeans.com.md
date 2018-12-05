@@ -1,70 +1,376 @@
-> *The following text is extracted and transformed from the justmeans.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612011138id_/http%3A//justmeans.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmeans.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205211752id_/https%3A//3blmedia.com/sites/www.3blmedia.com/files/pdf/3BL_Media_privacy_policy.pdf) for the most accurate reproduction.*
 
-# Privacy Policy | Justmeans
+# Privacy Policy
 
-Justmeans provides this Privacy Policy to inform users of our policies regarding the collection, use and disclosure of personally identifiable information received from users of [www.justmeans.com](http://www.justmeans.com/) ("Site") or collected through our external widgets that are linked to Justmeans.com ("Widgets").
+                                   Privacy Policy
+                              Last Updated August 7, 2018
+3BL Media is your go-to partner for shaping, sharing and strategically
+targeting purpose-driven stories, initiatives and ideas with the people who
+matter.
+3BL Media, LLC (“3BL Media”) recognizes the importance of ensuring each
+customer, visitor, client and user’s privacy. This Privacy Policy applies to all of
+the services provided by 3BL Media and subsidiaries, including, but not
+limited to, website services, content distribution, including, but not limited to
+Internet clips, press releases, blogs, webcasts, podcasts, tweets, and other
+electronic media (collectively referred to as the “Services”).
+This Privacy Policy describes how we collect, use, protect and share
+information about you that we obtain when you use our Services or otherwise
+communicate with us. Our “Services” include (i) our US websites that post this
+Privacy Policy (collectively, the “Websites”); (ii) other online products and
+services provided by us through our Websites; and (iii) databases, distribution
+services, articles, surveys, newsletters, webinars, media monitoring, and/or
+analytic reports.
+Please read this Privacy Policy carefully to understand how we will treat your
+information before you start to use our Services or communicate with us
+about them. By using our Services, or communicating with us about them,
+you are accepting and consenting to the practices described in this Privacy
+Policy, including any updates and amendments. If you do not agree to the
+terms of this Privacy Policy, you must not access or use our Services or
+communicate with us about them. Your use of our Services and any dispute
+over privacy is subject to this Privacy Policy and any applicable Terms of
+Use, and/or any other agreements. In the event that the provisions of any
+such agreements differ from or conflict with the provisions of this Privacy
+Policy, the applicable terms or agreement will apply.
+How We Collect Information from You
+The manner in which we use information about you varies depending upon
+the capacity in which you visit our sites. For example, if you simply visit our
+pages for news and do not register, we may not know who you are and do
+not intend to collect information which identifies you. However, if you are
+using the subscription-only areas routinely to represent a client company, we
+may note and monitor how the Service is being utilized.
+3BL Media requires registration for certain Services and our website may
+contain order forms for other Services. In order to provide our Services to you,
+we may ask you for business information (such as name of company and
 
-Notice of changes that materially affect ways in which your personally identifiable data will be posted in updates to our Privacy Policy. If you continue to use the Justmeans service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices. You are advised to consult this Privacy Policy regularly for any changes.
 
-By using our Site you are consenting to our processing of your information as set forth in this Privacy Policy now and as may be amended by us from time to time. "Processing" means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information. All information provided by and obtained from You will be processed and stored in accordance with applicable U.S. privacy laws, rules and regulations which shall govern the terms of this Agreement. By visiting our Site and providing information to us, you consent to the transfer, and processing of information in the method and manner deemed necessary and appropriate by us.
+industry), contact information (name and email address), financial
+information (such as account or credit card numbers), and demographic
+information (such as location information).
+We may use cookies or other tracking mechanisms to gather and record
+information to helps us operate and provide our Services to you. A cookie is a
+small file of information which we place on your browser. That cookie then
+communicates with our servers on return visits and allows us to recognize
+your personal computer. We associate a cookie with information that
+identifies you only if you use the automatic recognition capabilities on
+restricted areas. Our log servers collect standard web information about visits
+and system capabilities as you access and use the web pages covered by this
+policy.
+This information includes, without limitation:
+    •  Information about the systems and device(s) you use to access our
+       Services, including MAC address, IP address, browser type and version,
+       time zone setting, browser plug-in types and versions, operating
+       system and platform, device type, and device identifiers;
+    •  Information about your visits to the Websites, including the full URL
+       clickstream to, through and from the Websites (including date and
+       time);
+    •  Information about your use of our mobile apps, including the
+       information you view in our mobile apps and the date and time you
+       view it;
+    •  Information to facilitate your use of our Services (including to provide
+       access to third-party websites and services), such as URL requests,
+       destination IP addresses, or device configuration details; and
+    •  Pages you view or search for, page response times, download errors,
+       length of visits to certain pages, page interaction information (such as
+       scrolling, clicks, and mouse-overs), your engagement with certain
+       variable/dynamic elements of a page and methods used to browse
+       away from the page.
+If you decline to have us collect such information (for example, by disabling
+cookies; see Cookies & Other Tracking Mechanisms below), we may not be
+able to provide our Services to you.
+Information We Collect about You from Third Parties
+Our Services may also, from time to time, contain links to and from social or
+other media platforms. You may choose to connect with us through a social
+media platform and when you do, and to the extent available, we may collect
+additional information from you, such as your user names, profile picture,
+contact information, contact list, and the profile pictures of your contacts,
 
-If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at[info@justmeans.com](mailto:info@justmeans.com)
 
-**Information Collection**  
-Our goal in collecting personally identifiable information is to provide you with the product and services made available through the Justmeans, including, but not limited, to the Service, to communicate with you, and to manage your registered user account.
+through the social media platform. Please be advised that social media
+platforms may also collect information from you. We do not have control over
+the collection, use and sharing practices of social media platforms and
+encourage you to review their usage and disclosure policies and practices,
+including the data security practices, before using the social media platforms.
+We may combine the information we collect about you from the various
+sources described above.
+Information About Other Individuals
+If you give us information on behalf of someone else, you confirm that the
+other person has appointed you to act on his/her behalf and has agreed that
+you can provide the information. Furthermore, you confirm that you informed
+the other person about the content of this Privacy Policy, by providing
+him/her with a current version of it.
+How Your Information May Be Used
+We may use any information we collect, including personal information and
+technical information, as described to you at the time of collection, for the
+following purposes:
+    •  Services: Operating, protecting and improving our Services (e.g.,
+       administration, troubleshooting, managing account access, protecting
+       security); evaluating our Services; developing new features, products, or
+       services; and for other customer service and support purposes.
+    •  Experience: Personalizing the information and content we display to
+       you, including marketing, promotional and sponsored content and
+       advertising within the Services.
+    •  Marketing and communications: Contacting you directly about your
+       use of an account or Service for which you are registered; providing you
+       with information about products or services, from us or third parties
+       that may interest you; serving advertisements to you; and responding
+       to your requests, feedback or questions.
+    •  Metrics: Researching and analyzing how you interact with our Services,
+       including to monitor usage and activity trends and for statistical
+       purposes; creating reports for customers that may include both
+       aggregate trends and the organizations that are viewing their content,
+       or accessing our Services or customer websites or otherwise using our
+       Services; and measuring or understanding the effectiveness of content,
+       communications, Website visits, web traffic, our Services, or advertising
+       we or our customers serve to you and other customers like you, and to
+       deliver relevant advertising to you and other customers like you.
+    •  Compliance: Complying with laws, regulations and requests from law
+       enforcement or other governmental entities; carrying out our
 
- _Registration:_  
-In order to become a Justmeans user, you must first create an account on this web site. To create an account you are required to provide: first and last name, email address, and password.
 
- _Profile Information:_  
-Once a user, you may provide additional information in the Profile section describing your skills, professional experiences, and networking objectives. Providing additional information beyond what is required at registration is entirely optional, but enables you to better identify yourself and find new opportunities in the Justmeans system. Personally identifiable information that we may collect may include your IP address, full user first name and last name, password, email address, city, time zone, telephone number, and other information that you decide to provide us with, or that you decide to include in your public profile.
+      obligations and enforce our rights arising from any contracts; and using
+      as evidence in litigation.
+   •  Protection: Protecting the safety, rights or property of 3BL Media, LLC,
+      customers, end users, or any third party; investigating, preventing or
+      otherwise addressing activity that 3BL Media, LLC, in its sole discretion,
+      may consider to be or pose a risk of being, an illegal, unethical, or legally
+      questionable activity.
+We may also create aggregate or anonymous information about your and
+other users’ use of our Services for purposes similar to those listed above.
+How Your Information May Be Shared
+We will not sell your personal information or share your personal information
+with third parties for the third party’s own direct marketing purposes.
+We may share any information, including personal information as follows:
+   •  With our subsidiaries and affiliates, including any future subsidiaries or
+      affiliates;
+   •  With our service providers and sub-contractors to the extent
+      reasonably necessary to enable us provide our Services (e.g., we use a
+      third-party platform for e-mail and cannot communicate with you
+      without disclosing your e-mail address to our third-party e-mail
+      provider);
+   •  With a buyer or other successor in the event of a merger, divestiture,
+      restructuring, reorganization, dissolution or other sale or transfer of any
+      of our assets, whether as a going concern or as part of bankruptcy,
+      liquidation or similar proceeding, including during planning or
+      negotiations of such sale or transfer;
+   •  With a third party with whom we must legally share information about
+      you;
+   •  With the company or organization you represent upon their request;
+   •  With you or other third parties with your express consent;
+   •  To comply with any court order, valid subpoena, law or legal process,
+      including to respond to any government or regulatory request;
+   •  To investigate potential unauthorized access or misuse of our Services
+      or otherwise enforce or apply our Terms of Use and other agreements;
+   •  To protect our assets or rights, including for billing and collection
+      purposes;
+   •  If we believe disclosure is necessary or appropriate to protect the rights,
+      property, or safety of 3BL Media, LLC, our customers or others, including
+      exchanging information with other companies and organizations for
+      the purposes of fraud protection and credit risk reduction; and
+   •  With any other entity disclosed by us when you provide the
+      information.
 
-_Cookies & Log Files:_  
-Like most web sites, Justmeans uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows Justmeans to recognize you as a user when you return to our site using the same computer and web browser. Unfortunately, if your browser settings do not allow cookies, you will not be able to use our website. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience on the web site.
 
-One type of cookie, known as a "persistent" cookie, is set once you've logged in to your Justmeans account. The next time you visit the Justmeans web site, the persistent cookie will allow us to recognize you as an existing user so you will not need to log in before using the service.
+We may also share aggregate or anonymous data for marketing, advertising,
+research, compliance, or other purposes.
+In the event that we receive a request from a governmental entity to provide
+it with your personal information, we will take reasonable attempts to notify
+you of such request, to the extent reasonably possible and legally permissible.
+Cookies & Other Tracking Mechanisms
+We may use cookies, beacons and similar technologies, now or in the future,
+to support the functionality or track usage of our Services. This provides a
+better experience when you use our Services and allows us to improve our
+Services.
+    •  Browser Cookies: A browser cookie is a small file placed on the hard
+       drive of your computer. That cookie then communicates with servers,
+       ours or those of other companies that we authorize to collect data for
+       us, and allows recognition of your device. You may use the tools
+       available on your computer or other device to set your browser to
+       refuse or disable all or some browser cookies, or to alert you when
+       cookies are being sent. However, if you refuse or disable all browser
+       cookies, you may be unable to access certain parts of our Websites or
+       use certain features or functionality of our Services.
+    •  Flash Cookies: Certain features of our Services may use local stored
+       objects called flash cookies to collect and store information about your
+       preferences and navigation to, from and on our Websites. We also
+       include cookies in our third-party hosted video players to count the
+       number of unique viewers who see a customer’s video press release
+       and to provide aggregate reporting. Flash cookies are not managed by
+       the same browser settings as are used for browser cookies. To learn
+       how you can manage your Flash cookie settings, visit the Flash player
+       settings page on Adobe’s website. If you disable or refuse Flash cookies,
+       please note that some parts of our Services may be inaccessible or may
+       not function properly.
+    •  Web Beacons: Our Services may contain small electronic files known
+       as web beacons (also referred to as clear GIFs, pixel tags, tracking pixels
+       and single-pixel GIFs) that permit us to, for example, count users who
+       have visited those pages or opened an e-mail and for other website-
+       related statistics. Web beacons in e-mail marketing campaigns, press
+       releases or other types of communications or content allow us to track
+       your responses and your interests in our content, offerings and web
+       pages. We may use web beacons and/or other tracking technologies to
+       collect information about you when you interact with our Services, e-
+       mails, press releases or other types of communications or content,
+       including information about your browsing and purchasing behavior.
 
-When you visit the Site, our servers automatically records information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the pages you visit, the search terms you use. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We do not associate your IP address with any other personally identifiable information that identifies you personally, except in case of violation of the Terms of Service. Due to the communications standards on the Internet, when you visit the Justmeans web site we also automatically receive the URL of the site from which you came and the site to which you are going when you leave Justmeans. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the Justmeans service.
 
-_Web Beacons:_  
-We allow other companies, called ad networks, to serve advertisements to Justmeans users. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. Justmeans may "target" some ads to users that fit a certain general profile – for example, "socially responsible investors in Massachusetts." 
+   •  Analytics Services: We or our affiliates also use a variety of web
+      analytics services. Such web analytics services use cookies and similar
+      technologies to analyze how users use the domains. The information
+      generated about domain usage (including your shortened IP address)
+      is transmitted to the web analytics services. This information is used to
+      evaluate visitors’ use of the domain, compile statistical reports on
+      domain activity, and provide other services related to the Site and
+      Internet use. Such services may also collect information about domain
+      visitors’ use of other websites.
+Do Not Track Disclosure
+Some browsers support a “Do Not Track” feature, which is intended to be a
+signal to websites that you do not wish to be tracked across different
+websites you visit. Our Services do not change the way they operate based
+upon detection of a Do Not Track or similar signal.
+Your Choices
+   •  Opting out of marketing communications. You may receive certain
+      promotional or informational communications from us. Where required
+      by law, promotional communications will be sent only with your
+      consent. You can opt out of promotional e-mails at any time by
+      following the instructions at the bottom of the e-mails. Please note that
+      certain e-mails may be necessary for the operation of our Services. You
+      may, however, continue to receive these e-mails relating to your
+      account or our Services, if appropriate, even if you unsubscribe from our
+      optional communications.
+   •  Opting out of behavioral advertising. You may opt out of many third-
+      party ad networks. For example, you may go to the Digital Advertising
+      Alliance (“DAA”) Consumer Choice Page
+      at http://www.aboutads.info/choices/ for information about opting out
+      of interest-based advertising and your choices regarding having
+      information used by DAA companies. You may also go to the Network
+      Advertising Initiative (“NAI”) Consumer Opt-Out Page
+      at http://www.networkadvertising.org/choices/ for information about
+      opting out of interest-based advertising and your choices regarding
+      having information used by NAI members. Additional information is
+      available on the DAA’s website at aboutads.info or the NAI’s website at
+      www.networkadvertising.org. Opting out from one or more companies
+      listed on the DAA Consumer Choice Page or the NAI Consumer Opt-
+      Out Page will opt you out from those companies’ delivery of interest-
+      based content or ads to you, but it does not mean you will no longer
+      receive any advertising through our Services or any third-party services.
+      You may continue to receive advertisements, for example, based on the
 
-To deliver these ads properly, Justmeans may include a file, called a web beacon, from these ad networks within pages served by Justmeans so the networks may provide anonymized, aggregated auditing, research and reporting for advertisers as well as to target ads to you while you visit other websites.
 
-Because your web browser must request these advertisements and web beacons from the ad network's servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site. These general targets may also be used by ad networks to display targeted ads on other websites as a substitute for random, irrelevant ads.
+       particular website that you are viewing (i.e., contextually based ads). If
+       your browser is configured to reject cookies when you opt out on the
+       DAA or NAI websites, your opt out may not be effective. Please note
+       that if you use multiple devices you will have to opt out on each
+       individual device.
+    •  Opting out of telemarketing. Where required by law, you will be
+       contacted via telemarketing only with your consent. You may opt out of
+       our direct telemarketing contacts by requesting us to remove you from
+       our direct telemarking list. Please note that opting out from our direct
+       telemarketing contacts does not limit us from contacting you for other
+       purposes, including those contacts that are reasonably necessary to
+       provide you with our Services. If you decide to opt out of our direct
+       telemarketing contacts, allow a reasonable time for us to process your
+       request and do not hesitate to contact us at privacy@3blmedia.com
+       if you encounter any problems with your request.
+    •  Accessing, updating or deleting your personal information. We
+       value the accuracy of the information we have about you. You may
+       access, update or delete your information (or in some cases object to its
+       processing) at any time by emailing us at privacy@3blmedia.com.
+Securing Your Personal Information
+The security of your information is important to us, and we have
+implemented administrative, technical, and physical safeguards designed to
+protect personal information against theft or misuse. Unfortunately, no
+system can guarantee complete security of your information. As a result,
+while we strive to protect your personal information from unauthorized third
+parties, 3BL Media cannot ensure or warrant the security of such information.
+Thus, your use of the Services and communications with us is at your own
+risk. You are responsible for protecting your username(s) and password(s) and
+for the security of information that you transmit to us over the internet.
+Children
+Our Services are directed to working professionals. Our Services are not
+intended for children under 13 years of age or the relevant age of majority,
+and we do not knowingly collect personal information from children under
+that age. If you are under 13 years of age or the age of majority, you are not
+permitted to submit any personal information to us.
+Third-Party Information Collection
+Like any business, we use service providers to operate our services, for
+example such as website hosting, customer relationship databases and
+systems. Some of these service providers will process your data as part of the
+services they offer to us. We take steps to ensure that our service providers
+treat your data in accordance with the law, only use it in accordance with our
+contract with them and keep it secure.
 
-**Information Use**  
-Justmeans is an online service dedicated to helping all types of professionals more effectively connect with each other and companies. The personally identifiable information you choose to provide on this site is used to help you describe yourself to other users. Other information, that does not personally identify you as an individual, is collected by Justmeans from the site (such as, by way of example, patterns of utilization) and is exclusively owned by Justmeans. This information can be utilized by Justmeans in such manner as Justmeans, in its sole discretion, deems appropriate.
 
- _Justmeans Communications:_  
-We may use your contact information to market to you, and provide you with information about, our products and services. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications sent to you.
+Please note that these websites and services may have their own privacy
+policies. We do not accept any responsibility or liability for the policies of any
+third parties. If you chose to access any websites or services linked from our
+Services, please check the applicable policies before you use or submit any
+personal information to such website or service.
+Third parties unaffiliated with us may also collect information about you,
+including tracking your browsing history, when you use our Services. We do
+not have control over these third-party collection practices and advise you to
+adjust the settings of your browsers or install plug-ins and add-ins if you wish
+to minimize these third party collections.
+Changes to Our Privacy Policy
+We may change this Privacy Policy from time to time to align with changes
+to our business practices and/or changes to our legal requirements. We will
+post the updated Privacy Policy on this page and will indicate that the
+updates have been made by changing the effective date first written above.
+We urge you to check back periodically to see whether there have been
+updates to our Privacy Policy.
+Your continued use of the Services or communication with us about the
+Services after the updated Privacy Policy has been posted (or any other
+indication of your consent) will constitute your acceptance of the updated
+Privacy Policy.
+Please note that we may condition your continued access to our Services on
+your consent to changes to this Privacy Policy.
+Personal Information Received from the EEA
+3BL Media stores data about customers in the United States and we use
+these central systems for the processing of your data. Any transfer of your
+data will be carried out in accordance with the law, to safeguard your privacy
+rights and in the unlikely event of a security breach, give you remedies, or any
+other similar approved mechanisms. We will ensure that any transfer of your
+personal data to the United States is done on the basis of EU Model Clauses
+or on the basis of the Privacy Shield in order to achieve an adequate level of
+data protection.
+Personal information is transferred to 3BL Media, LLC in the US from the EU
+under one of the following scenarios:
+   •   Processor: 3BL Media, LLC is a provider of software, services and tools
+       intended to help customers manage all aspects of their marketing and
+       PR campaigns. 3BL Media, LLC does not own or control any of the
+       information it processes on behalf of its customer. All such information
+       is owned and controlled by 3BL Media, LLC’s customer. In this capacity,
+       3BL Media, LLC receives information transferred from the EU to the US
 
-**Information Sharing**
 
- _Sharing Information With Third Parties:_  
-Justmeans takes the privacy of our users very seriously. We will never sell, or rent, your personally identifiable information to any third parties. We will only share your personally identifiable with third parties to carry out your instructions and to provide specific services. For instance, we use a credit card processing company to bill users for subscription fees. These third parties do not retain, share, or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information. We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform their functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.
-
-Justmeans offers a "public profile" feature which allows users to publish portions of their Justmeans profile, including your "name", but not your "email address" to the public Internet. Users may opt-out of this feature, however Justmeans does not warrant how third-party search engines will update their cache.
-
-We may provide aggregated data about the usage of our services to third-parties for such purposes as we deem, in our sole discretion, to be appropriate. We may segment our users by role (i.e. analysts, executive directors), industry, geographic location, company. If you would like to be excluded from the aggregated research or products based upon aggregated data about our users' activities on the site, please email customer service.
-
- _Communications Between Users:_  
-Many emails you initiate through Justmeans, an invitation sent to a non-user for instance, will list your email address and name in the header of the message. Emails you initiate may also provide aggregate information about your network (for instance how many people are in your network). Other communications that you initiate through the Justmeans website, like a request for contact, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another user if both of you have indicated that you would like to establish contact with each other. Users includes company users on the site. If you select to become a "stakeholder" of a company, by clicking "Add to Network" or "Become a Stakeholder", your first name, last name, email address, current company, region, and title will become viewable by that company.
-
- _Legal Disclaimer:_  
-It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.
-
- _Business Transfers:_  
-Justmeans may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this Privacy Policy.
-
-**Accessing and Changing Your Account Information**  
-You can review the personal information you provided us and make any desired changes to the information, or to the settings for your Justmeans account, at any time by logging in to your account on the Justmeans website and editing the information on your Profile page. You can also close your account through the Justmeans website. If you close your Justmeans account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the Justmeans Privacy Policy that you have previously agree to. To request that we close your account and remove your information from the Justmeans service, please send your request to [techsupport@justmeans.com](mailto:techsupport@justmeans.com). Please send your request using an email account that you have registered with Justmeans under your name. You will receive a response to requests sent to [techsupport@justmeans.com](mailto:techsupport@justmeans.com) within seven business days of our receiving it.
-
-**Security**  
-Justmeans is very concerned about safeguarding the confidentiality of your personally identifiable information. We run administrative, physical and electronic measures designed to protect your information from unauthorized access at all times.
-
-**Links to Other Sites**  
-Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
-
-**Our Policy Towards Children**  
-The Site is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [info@justmeans.com](mailto:info@justmeans.com). We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
+       merely as a processor on behalf of its customer, although such
+       information may not be required by 3BL Media, LLC.
+    •  Data Controller: 3BL Media, LLC also provides information products
+       designed to help customers shape, share and strategically target their
+       campaigns more effectively. In this function, 3BL Media, LLC acts as a
+       data controller of the personal information contained in these products
+       and processes this personal information as described in this Policy in
+       the US, a country that does not have the same level of protection for
+       personal data as the EEA or Switzerland. 3BL Media, LLC maintains a
+       media database containing personal information on EU contacts, and
+       such individuals can have such information removed from our
+       database. This information does not include sensitive information such
+       as data about race, sexual orientation, or religion. This information is
+       transferred to the US on the basis of consent, or European Commission-
+       approved standard contractual clauses, and may be further transferred
+       to our customers and to third party service providers located in Asia,
+       Latin America and the Middle East, which do not have the same level of
+       protection for personal data as the EEA or Switzerland, for the purposes
+       described in this Policy.
+3BL MEDIA, LLC TERMS OF USE AGREEMENT
+The provisions of the 3BL Media, LLC Terms of Use Agreement are
+incorporated into this Privacy Policy by reference with respect to all other
+legal matters not otherwise addressed in this Privacy Policy. You should read
+both this Privacy Policy and the Terms of Use Agreement prior to review any
+portion of our website and/or utilizing our Services.
+Contact
+If you have questions, comments or requests relating to this Privacy Policy, or
+wish to opt out of any usage of your information as described herein, please
+e-mail us at privacy@3blmedia.com or write to us at:
+3BL Media, LLC
+136 West St Ste 104
+Northampton, MA 01060
