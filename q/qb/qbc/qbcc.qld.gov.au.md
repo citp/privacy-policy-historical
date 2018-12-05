@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qbcc.qld.gov.au privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625225730id_/http%3A//www.qbcc.qld.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qbcc.qld.gov.au privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205141226id_/http%3A//www.qbcc.qld.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Queensland Building and Construction Commission
 
 ### About this policy
 
-The Queensland Building and Construction Commission manages personal information in line with the[ _Information Privacy Act 2009_ (PDF)](http://www.qbcc.qld.gov.au/sites/default/files/Information%20Privacy%20Act%202009.pdf).
+The Queensland Building and Construction Commission manages personal information in line with the[ _Information Privacy Act 2009_ (PDF)](https://web.archive.org/sites/default/files/Information%20Privacy%20Act%202009.pdf).
 
 This Privacy Policy describes the personal information that may be collected and used by the QBCC. We collect and manage your personal information from you when you:
 
@@ -18,7 +18,7 @@ This Privacy Policy describes the personal information that may be collected and
 
 
 
-and you consent to us collecting, storing, using, maintaining and disclosing your personal information in accordance with the [Information Privacy Principles (IPP’s)](http://www.qbcc.qld.gov.au/information-privacy-principles).  
+and you consent to us collecting, storing, using, maintaining and disclosing your personal information in accordance with the [Information Privacy Principles (IPP’s)](https://web.archive.org/information-privacy-principles).  
 
 ### Information we may request
 
@@ -54,11 +54,25 @@ Depending upon the type of enquiry, application or form you have submitted, we m
 
 
 
+QBCC may disclose the information you provide, to other agencies pursuant to Sections 28A and 28B of The QBCC Act 1991 (The Act)
+
+Section 28A and 28B of The Act permit the QBCC to disclose the information you provide, including personal information, to relevant agencies for the following reasons;
+
+  * Information, in relation to a notifiable incident, is relevant to the functions of a health and safety regulator;
+  * To help the relevant agency perform its functions; or 
+  * The disclosure is reasonably necessary for protecting the health and safety of a person or property.
+
+
+
+Please note that these are not the only reasons information may be disclosed to the relevant agency.
+
 If you're a QBCC licensee, your personal details may be used to send you important updates regarding new legislation or amendments, changes to policies and other such information related or connected to your licence. 
 
-Some of the information you provide when paying QBCC Insurance Premiums will be provided to the relevant owner and may be provided to subsequent prospective purchasers of the property.
-
 The information you provide when submitting Notifiable Work may be made available to licensed plumbers and other licensed building industry practitioners for the purposes of conducting work at the property. The information may be stored by the QBCC and/or their agents and contractors and made available to the property owner or person who requested the work and will be used for administration, compliance, statistical research and evaluation of the plumbing and drainage laws. Your personal information may be disclosed to other government agencies, local government authorities and third parties for purposes relating to administering and monitoring compliance with the _Plumbing and Drainage Act 2002_. Personal information will otherwise only be disclosed to third parties with your consent or in accordance with the _Information Privacy Act 2009_.
+
+### Safer Buildings and combustible cladding checklist
+
+The information, including personal information, you provide will be stored by the QBCC and shared with other government departments for the purposes of providing you with a response, for administration purposes, and compliance matters. Collected information will otherwise only be disclosed to third parties with your consent or unless authorised or required by law.
 
 ### Marketing
 
@@ -90,6 +104,17 @@ Some of the third parties to whom we disclose your personal information may be l
 The countries in which these third parties are located will depend on the circumstances.  However, in the course of our ordinary business operations we commonly disclose personal information to third parties located in the United States of America. 
 
 We will not give your personal information to third parties without your consent, unless as set out  above or required by law.
+
+### Insurance information statement
+
+The following information you provide when paying QBCC insurance premiums can be provided to the owner of the property or a prospective owner of the property in an insurance information statement:
+
+  * Builder’s name
+  * Site address
+  * Contract date
+  * Work description
+
+
 
 ### Emails
 
@@ -131,19 +156,19 @@ Any enquiries can be directed to 139 333 or email [rti@qbcc.qld.gov.au](mailto:r
 
 ### Access to Personal Information  
 
-If you would like to access any of your personal information that is held by QBCC you can make an [Information Privacy](http://www.qbcc.qld.gov.au/apply-get-your-personal-information-information-privacy-application) application.
+If you would like to access any of your personal information that is held by QBCC you can make an [Information Privacy](https://web.archive.org/apply-get-your-personal-information-information-privacy-application) application.
 
 ### Amending your Personal Information
 
-You may [apply to amend documents](http://www.qbcc.qld.gov.au/requesting-amendment-your-personal-information) containing your personal information held by QBCC, where you believe relevant information is inaccurate, misleading, out of date or incomplete. 
+You may [apply to amend documents](https://web.archive.org/requesting-amendment-your-personal-information) containing your personal information held by QBCC, where you believe relevant information is inaccurate, misleading, out of date or incomplete. 
 
 ### Making a privacy complaint
 
-If you believe there has been a breach of your personal information involving QBCC you may [lodge a privacy complaint](http://www.qbcc.qld.gov.au/making-privacy-complaint). 
+If you believe there has been a breach of your personal information involving QBCC you may [lodge a privacy complaint](https://web.archive.org/making-privacy-complaint). 
 
 ### Right to Information
 
-All information held by the QBCC may be subject to [application for access](http://www.qbcc.qld.gov.au/right-information-application) under the _Right to Information Act 2009_ (RTI Act).
+All information held by the QBCC may be subject to [application for access](https://web.archive.org/right-information-application) under the _Right to Information Act 2009_ (RTI Act).
 
 #### More information
 
