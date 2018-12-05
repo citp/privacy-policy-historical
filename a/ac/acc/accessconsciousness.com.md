@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessconsciousness.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731083736id_/https%3A//www.accessconsciousness.com/en/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessconsciousness.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205072649id_/https%3A//www.accessconsciousness.com/en/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Access Consciousness
 
@@ -11,15 +11,17 @@
 
 ## ACCESS CONSCIOUSNESS PRIVACY POLICY
 
-_Last updated: October 4, 2016._
+_Last updated: April 24, 2018._
 
 Access Consciousness knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Access Consciousness, you are accepting the practices described in this Privacy Policy.**
+
+Regarding our compliance with the European Data Protection Act 2018, please review our [Data Protection Declaration](https://web.archive.org/en/policies/data-protection-declaration/).
 
 ### What Personal Information About Customers Does Access Consciousness Gather?
 
 The information we learn from customers helps us personalize and continually improve your Access Consciousness experience. Here are the types of information we gather.
 
-  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, marketing, and communicating with you.
+  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, marketing, and communicating with you. You accept herewith that your information is stored, used and passed on within all Access Consciousness companies (Access Consciousness USA, Access Consciousness Europe and Access Consciousness Australia). We herewith confirm that a Data Protection Agreement is in place and no data will be used other than authorized by you by each company.
   * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Access Consciousness or advertisements and other content served by or on behalf of Access Consciousness on other Web sites.
   * **Mobile:** When you download or use apps created by Access Consciousness or our subsidiaries, partners or agents, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services.
   * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Access Consciousness if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your preferences.
@@ -29,7 +31,7 @@ The information we learn from customers helps us personalize and continually imp
 
 ### Does Access Consciousness Share the Information It Receives?
 
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries, partners or agents that Access Consciousness, LLC controls that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries, partners or agents that each of the three Access Consciousness companies (Access Consciousness USA, Access Consciousness Europe and Access Consciousness Australia) control that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.
 
   * **Promotional Offers:** Sometimes we send offers to selected groups of Access Consciousness customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your Preferences.
   * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that Access Consciousness, LLC, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
