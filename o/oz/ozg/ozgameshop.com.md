@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozgameshop.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628033504id_/https%3A//www.ozgameshop.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozgameshop.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205062042id_/https%3A//www.ozgameshop.com/page/privacy) for the most accurate reproduction.*
 
 # ozgameshop.com | Games, Films, Toys & Collectables
 
@@ -17,13 +17,13 @@ In this Policy, the following terms shall have the following meanings:
 "Cookies" | means a small text file placed on your computer or device by Our Site when you visit certain parts of Our Site and/or when you use certain features of Our Site. Details of the Cookies used by Our Site are set out in section 13, below;  
 "Cookie Law" | means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003;  
 "personal data" | means any and all data that relates to an identifiable person who can be directly or indirectly identified from that data. In this case, it means personal data that you give to Us via Our Site. This definition shall, where applicable, incorporate the definitions provided in the EU Regulation 2016/679 – the General Data Protection Regulation (“GDPR”); and  
-"We/Us/Our" | means Xbite Ltd , a limited company registered in England under company number 6520821, whose registered address is Xbite Ltd Unit 1, Maison Court Midland Way, Barlborough Chesterfield UK S43 4GD  
+"We/Us/Our" | means Wigglebug Pty Ltd , a limited company registered in England under company number , whose registered address is Wigglebug Pty Ltd PO Box 248 Collins Street West Vic 8007  
   
 ## 2\. Information About Us
 
-2.1 Our Site is owned and operated by Xbite Ltd, a limited company registered in England under company number 6520821, whose registered address is Xbite Ltd Unit 1, Maison Court Midland Way, Barlborough Chesterfield UK S43 4GD.
+2.1 Our Site is owned and operated by Wigglebug Pty Ltd, a limited company registered in England under company number , whose registered address is Wigglebug Pty Ltd PO Box 248 Collins Street West Vic 8007.
 
-2.2 Our VAT number is 928 8279 70.
+2.2 Our ABN number is 74 622 676 706.
 
 ## 3\. What Does This Policy Cover?
 
@@ -123,7 +123,7 @@ Our Site may place and access certain first party Cookies on your computer or de
 
 ## 14\. Contacting Us
 
-If you have any questions about Our Site or this Privacy Policy, please contact Us by using our [Contact form](https://www.ozgameshop.com//contact), by telephone on (+44) 333 101 4456, or by post at Xbite Ltd Unit 1, Maison Court Midland Way, Barlborough Chesterfield UK S43 4GD. Please ensure that your query is clear, particularly if it is a request for information about the data We hold about you (as under section 12, above).
+If you have any questions about Our Site or this Privacy Policy, please contact Us by using our [Contact form](https://www.ozgameshop.com//contact), by telephone at 18 0079 2212, or by post at Wigglebug Pty Ltd PO Box 248 Collins Street West Vic 8007\. Please ensure that your query is clear, particularly if it is a request for information about the data We hold about you (as under section 12, above).
 
 ## 15\. Changes to Our Privacy Policy
 
