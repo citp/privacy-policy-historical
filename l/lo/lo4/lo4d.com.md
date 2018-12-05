@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lo4d.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013337id_/http%3A//www.lo4d.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lo4d.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205065227id_/https%3A//www.lo4d.com/corp/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at LO4D.com
 
@@ -6,11 +6,11 @@ Your privacy is very important
 
 The following is a description of what information is collected while you're using our web site. 
 
-**In a word:** We use statistical analytics software and a third-party ad-serving system on some pages. We don't collect e-mail addresses for marketing purposes and we don't sell or otherwise provide any of your data to third parties. 
+**In a word:** We use statistical analytics software and a third-party ad-serving system on some pages. We don't collect e-mail addresses for marketing purposes and we don't sell or otherwise provide any of your data to third parties.
 
 Updated August 28, 2013
 
-**Our commitment**
+ **Our commitment**
 
 We created this privacy policy to ensure that any information obtained from our users is kept completely confidential. We do not provide personally identifiable information (such as IP addresses or e-mail addresses) to third parties for any reason. **Please use this privacy policy as a guarantee of our commitment to you**. 
 
@@ -18,25 +18,25 @@ We created this privacy policy to ensure that any information obtained from our 
 
 We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and your preferences. Your IP address is also used to gather broad demographic information and to diagnose technical issues. These logs are normally permanently deleted within 7 days.
 
-**Google Analytics**
+ **Google Analytics**
 
 In addition to logging IP addresses in our server logs, this site utilizes third party analytics software powered by Google Analytics. The cookies employed by Google Analytics keep track of user sessions on the domain of **lo4d.com** \-- our statistics package only utilizes first-party cookies. This data is not shared with third parties. According to Google, the data is not accessible or alterable by third party domains.
 
 Opting out of Google Analytics is a matter of disabling either javascript or cookies in your browser preferences.
 
-**Our site uses cookies**
+ **Our site uses cookies**
 
 Our Site uses cookies to keep track of your preferences, and to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
 
 **Advertisers**
 
-We utilize a third party agency to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies set by ads are collected by our agency, and we do not have access to this information. Our third party advertisers may collect information about your browsing habits based on this web site and other web sites on the Internet. Users may opt out of the cookie program by visiting [privacy policy of our primary advertiser](http://www.google.com/privacy_ads.html). 
+We utilize a third party agency to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies set by ads are collected by our agency, and we do not have access to this information. Our third party advertisers may collect information about your browsing habits based on this web site and other web sites on the Internet. Users may opt out of the cookie program by visiting the privacy policy of our primary advertiser (available at _http://www.google.com/privacy_ads.html_ ). 
 
 **Personal Information**
 
 If you decide to register on our site, it may require us to obtain your e-mail address to confirm your account and to prevent duplicate registrations. While we use this information to enhance the services we provide, we do not share any of this information with any third parties.
 
-**External Links**
+ **External Links**
 
 This site contains links to other sites. **lo4d.com** is not responsible for the privacy practices or the content of such Web sites. 
 
