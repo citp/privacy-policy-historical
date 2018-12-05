@@ -1,30 +1,29 @@
-> *The following text is extracted and transformed from the agaric.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501143548id_/http%3A//agaric.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agaric.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205114112id_/http%3A//agaric.com/privacy-policy) for the most accurate reproduction.*
 
-# Agaric's Privacy Policy | Agaric
+# Privacy policy | Agaric
 
-Your privacy is a top concern for Agaric. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy.
+We will not use or share your information with anyone except as described in this privacy policy.
 
-### Information we may collect about you
+## Information collection and use
 
-We may collect nonpublic personal information about you only in connection with providing you with the services that you request or in connection with your visiting our website. The types of nonpublic personal information we collect vary according to the services that we perform for you. This information may include:
+If you choose to leave a comment or a private message through our contact form, we may require you to provide us with certain personally identifiable information, including your name and email address. The information that we collect will be used to contact or identify you.
 
-  * Information we receive from you (including but not limited to your name, address, business information, financial, or payment information).
-  * Information about your relationship and past history with us (such as the types of services we provide to you, your invoice balances, and payment history).
-  * Information that we receive, with your authorization, from third parties.
+## Log data
 
+We want to inform you that whenever you visit our Service, we collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer's Internet Protocol (“IP”) address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
 
+## Cookies
 
-### How we handle your information
+We do not use cookies for visitors to our site. (Cookies are files with small amount of data that is commonly used as an anonymous unique identifier.)
 
-  * We do not disclose any nonpublic, personal information about you that we have collected, except as authorized by you or required by law, to anyone outside Agaric.
-  * Any sensitive information that you provide will be secured with reasonable industry standard protocols and technology.
-  * We may disclose information regarding the services provided to you, your invoice balance, and your payment history as necessary to terminate our relationship or collect unpaid sums due to us.
-  * We maintain physical and procedural safeguards to protect the nonpublic personal information that we collect about you.
+## Service providers
 
+We employ a third-party company, Google, to assist us in analyzing how our website is used. Only anonymized data is collected.
 
+## Changes to this privacy policy
 
-Any information you may disclose on a website visited from a link from our website is not covered by this privacy policy, and we recommend you use discretion in disclosing information.
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
-We may use cookies to enhance the functionality of your visit to our website.
+## Contact us
 
-Please contact us via our website or by phone at +1 508-283-3557 if you have any questions about this policy.
+If you have any questions or suggestions about our privacy policy, do not hesitate to [contact us](http://agaric.com/ask "Contact").
