@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydayroots.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163131id_/http%3A//everydayroots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayroots.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205223220id_/https%3A//everydayroots.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Everyday Roots
 
@@ -12,7 +12,7 @@ Everyday Roots also collects potentially personally-identifying information like
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Everyday Roots websites choose to interact with Everyday Roots in ways that require Everyday Roots to gather personally-identifying information. The amount and type of information that Everyday Roots gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [EverydayRoots.com](http://everydayroots.com/) to provide a username and email address. Those who engage in transactions with Everyday Roots are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Everyday Roots collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Everyday Roots. Everyday Roots does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Everyday Roots websites choose to interact with Everyday Roots in ways that require Everyday Roots to gather personally-identifying information. The amount and type of information that Everyday Roots gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [EverydayRoots.com](https://everydayroots.com/) to provide a username and email address. Those who engage in transactions with Everyday Roots are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Everyday Roots collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Everyday Roots. Everyday Roots does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
@@ -40,12 +40,11 @@ Although most changes are likely to be minor, Everyday Roots may change its Priv
 
 **P.S.** [Click here to download my free Coconut Oil eBook.](https://everydayroots.leadpages.co/leadbox/141891afff72a2%3A11403d646346dc/5696457818505216/) It has over 107 everyday coconut oil uses, including uses for- weight loss, pet health, hair, skin, house cleaning, pests, DIY beauty products and so much more.
 
-\+ Make sure to [claim your free jar of organic coconut oil](http://everydayroots.com/free/coconut-oil) (while supplies last)
-
 By Claire Goodall
 
-Claire is a lover of life, the natural world, and wild blueberries. On the weekend you can find her fiddling in the garden, playing with her dogs, and enjoying the great outdoors with her horse. Claire is very open-minded, ask her anything 🙂 [Meet Claire](http://everydayroots.com/claire)
+Claire is a lover of life, the natural world, and wild blueberries. On the weekend you can find her fiddling in the garden, playing with her dogs, and enjoying the great outdoors with her horse. Claire is very open-minded, ask her anything 🙂 [Meet Claire](https://everydayroots.com/claire)
 
 [](https://everydayroots.leadpages.co/leadbox/1459771fff72a2%3A11403d646346dc/5696939483987968/)
 
-[](http://go.everydayrootsbook.com/)
+  
+
