@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euttaranchal.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627074631id_/https%3A//www.euttaranchal.com/about_us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euttaranchal.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205083357id_/https%3A//www.euttaranchal.com/about_us/privacy.php) for the most accurate reproduction.*
 
 # eUttaranchal - Privacy Policy
 
@@ -15,7 +15,7 @@ To read the specific _**[Privacy Policies for our Matrimonial Service](http://ww
 
 
 
-Information Sharing and Disclosure
+###  Information Sharing and Disclosure
 
   * eUttaranchal does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
     * eUttaranchal has partnered with trusted agents and parties for various services. Your personal details may be shared with our trusted partners who may contact you to provide products or services you've requested at eUttaranchal. 
@@ -26,14 +26,14 @@ Information Sharing and Disclosure
 
 
 
-Cookies
+### Cookies
 
   * eUttaranchal may set and access cookies on your computer. 
   * eUttaranchal lets other companies/advertisers that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to eUttaranchal's cookies. 
 
 
 
-Your Account Information and Preferences
+### Your Account Information and Preferences
 
 **General**
 
@@ -42,7 +42,7 @@ Your Account Information and Preferences
 
 
 
-Changes to this Privacy Policy
+**Changes to this Privacy Policy**
 
   * eUttaranchal may update this policy at any time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your eUttaranchal account or by placing a prominent notice on our site. 
 
@@ -50,4 +50,4 @@ Changes to this Privacy Policy
 
 This website (http://www.euttaranchal.com) is the owned and operated by **DeeBee Web Services Pvt Ltd**. 
 
-Should you have further queries about our privacy policy, please contact our support team at .
+Should you have further queries about our privacy policy, please contact our support team at [care@eutn.in](mailto:care@eutn.in)
