@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605050055id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205105038id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Experience-Essential-Oils.com
 
@@ -97,10 +97,10 @@ Using Essential Oils for People and their Animals Online Training Course!_**
 * * *
 
 [Experience Essential Oils  
-on Facebook](http://www.facebook.com/ExperienceEssentialOils "Experience Essential Oils")
+on Facebook](https://www.facebook.com/ExperienceEssentialOils "Experience Essential Oils")
 
-[](http://www.facebook.com/ExperienceEssentialOils "Experience Essential Oils ")  
-[](http://www.facebook.com/business/dashboard/ "Make your own badge!")
+[](https://www.facebook.com/ExperienceEssentialOils "Experience Essential Oils ")  
+[](https://www.facebook.com/business/dashboard/ "Make your own badge!")
 
 * * *
 
