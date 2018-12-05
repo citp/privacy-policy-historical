@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the uskip.me privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623165231id_/http%3A//uskip.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uskip.me privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205043952id_/http%3A//www.uskip.me/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - uskip.me
+# Privacy Policy - shink.link
 
-The term 'Uskip.me' or 'us' or 'we' refers to the owner of the website 'Uskip.me'. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service.
+The term 'shink.link' or 'us' or 'we' refers to the owner of the website 'shink.link'. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service.
 
-We at Uskip.me respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our privacy policy has been provided and reviewed by the solicitors at Legal Centre who specialise in online internet contracts.
+We at shink.link respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our privacy policy has been provided and reviewed by the solicitors at Legal Centre who specialise in online internet contracts.
 
 Our Terms of Use and Privacy Policy offers you a thorough explanation regarding your personal data provided to us or any data we may collect from you.
 
 This Privacy Policy is updated from time to time; therefore, it should be reviewed occasionally.
 
-[For the purpose of the Data Protection Act 1998, Uskip.me is our data controller.]
+[For the purpose of the Data Protection Act 1998, shink.link is our data controller.]
 
 **1\. Collected Information**
 
@@ -84,4 +84,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 **8\. Contacting Us**
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy.. [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy.. info@shink.link 
