@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curationtraffic.com privacy policy that was archived on 2018-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180420055354id_/http%3A//curationtraffic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curationtraffic.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205144953id_/http%3A//curationtraffic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
