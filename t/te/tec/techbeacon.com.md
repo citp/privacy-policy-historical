@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techbeacon.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627204156id_/https%3A//software.microfocus.com/en-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techbeacon.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205211052id_/https%3A//software.microfocus.com/en-us/legal/privacy) for the most accurate reproduction.*
 
-# EntIT Software LLC Privacy Statement
+# Micro Focus International plc Privacy Statement | Micro Focus
 
 ### Privacy Statement
 
