@@ -1,84 +1,74 @@
-> *The following text is extracted and transformed from the zcars.com.au privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709054913id_/http%3A//www.zcars.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zcars.com.au privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205124758id_/http%3A//www.netfleet.com.au/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Buy & Sell Domains | Netfleet: Australia's No.1 Domain Name Trading Platform
 
-**Privacy Policy**
+## Privacy Policy
 
-  
-On Topic Media promotes an environment that respect individual privacy rights and personal information. On Topic Media is committed to care in handling personal information. 
+The privacy of any personal information you provide is extremely important to us. The following privacy policy governs the collection and use of your personal information by Netfleet. This privacy policy sets out how we are committed to respect your rights to privacy in accordance with the National Privacy Principles contained in the Privacy Act 1988.
 
-  
-**Purpose Of The Policy**
+#### How do we collect personal information?
 
-On Topic Media takes its obligations under the Privacy Act seriously and would like to take all reasonable steps in order to comply with the Act and protect the privacy of the personal information that we hold. This policy sets out how we intend to do so. 
+  * We may collect personal information from you directly by telephonenumber, facsimile, email, post or frequently via our website. We may also receive information via an intermediary, a company with which we may have a relationship such as a domain services company.
 
-The Policy applies to anyone who provides us with their personal information. 
 
-  
-**Information Collection**
 
-On Topic Media may collect personal information such as: 
+####   
+What types of personal information do we collect?
 
-Your name 
+  * We collect personal information about you to enable us to provide the best possible service in relation to your domain name needs. The types of personally identifiable information that we may collect include your name, address, telephonenumber number and ABN. 
 
-Title 
+When we request your personal information, we will endeavour to specify which information we require for our purposes and which information may be provided at your option. You may choose not to supply any optional information requested by us but our ability to assist you may be restricted.
 
-Address 
 
-Phone number 
 
-Email address 
 
-This information will be used only in a fair and lawful manner and used only for the purposes for which it is collected and when you knowingly provide it. 
+#### How do we use your personal information?
 
-  
-**Use Of Personal Information**
+  * We use your personal information for the following purposes: - to complete a transaction to which the provision of that personal information relates, such as the completion of order forms to communicate information about our products and services to you, for our internal administrative, marketing, planning, product development and research requirements to conduct our day to day business such as the sale of a domain name and transfer requirements. 
 
-On Topic Media will not disclose personal information without prior written approval, unless required by law. 
+At any time you may opt out of receiving any communications from us. If you wish to opt out of receiving communications from us please contact us using the information at the end of this document.
 
-  
-**Security**
 
-On Topic Media undertakes to take reasonable steps necessary to ensure that private information remains confidential, and is secure from any unauthorised access or disclosure. 
 
-On Topic Media's security measures include: 
 
-restricted access to computer systems and physical records 
+#### Do we ever disclose your personal information to others?
 
-confidentiality agreements 
+  * We do not sell our client lists to third parties. We may disclose personal information to third parties in the following circumstances: 
 
-secure filing, storage systems and offices for physical records 
+1) When explicitly instructed to do so by yourself 2) As required to effect a domain name transfer or other service where required 3) As part of a promotion you may have entered (eg expired domain report) 
 
-requiring employees to use unique passwords to gain access to our systems 
+Otherwise, we do not disclose personal information unless we are required to do so by law or regulation.
 
-employing firewalls and virus scanning tools to prevent unauthorised persons and viruses from entering our systems 
 
-secure access to building facilities 
 
-  
-**Gaining Access To Personal Information**
 
-An individual may view his or her personal information at any time (subject to the Act) and advise On Topic Media if they believe the information is incorrect. 
+#### What rights do you have to access your personal information?
 
-On Topic Media has the right to deny access to personal information if: 
+  * At any time, you may ask us to provide you with a list of the personal information we hold about you, and copies of that personal information. We will endeavour to provide you with the data within 30 days of receiving your request. 
 
-access would have an unreasonable impact on the privacy of others 
+If you believe for any reason that we are holding inaccurate or incomplete data about you, you may ask us to correct it. We will consider if the information requires amendment. If we do not agree that there are grounds for amendment, then we will add a note to the personal information stating that you disagree with it.
 
-the request is frivolous or vexatious 
 
-proceedings for a legal dispute are in place 
 
-the information relates to a sensitive decision making process 
+
+#### How do we store your personal information?
+
+  * We take all reasonable steps to protect your personal information from misuse, loss, unauthorised access, modification or exposure. We require all staff to maintain the confidentiality of customer information. Access to information stored electronically is restricted to employees whose job requires access to the information. Access to our computer systems is restricted through password protection.
+
+
+
+#### Whois Policy
+
+  * When a domain name is registered, certain information is collected for use on the WHOIS service. The WHOIS service allows internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA’s WHOIS policy at http://www.auda.org.au/whois which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data.
+
+
+
+As you browse this website and other websites, online ad networks we work with may place anonymous cookies on your computer, and use similar technologies, in order to understand your interests based on your (anonymous) online activities, and thus to tailor more relevant ads to you.   If you do not wish to receive such tailored advertising, you can visit this page to opt out of most companies that engage in such advertising.  (This will not prevent you from seeing ads; the ads simply will not be delivered through these targeting methods.) 
+
+#### How can we be contacted?
 
   
-**Why We Collect Personal Information**
+You can make any requests relating to your personal information held by us by contacting any member of staff via our [Contact Us](https://web.archive.org/index.php?a=contact "Contact Us") form.
 
-We collect the information in order to provide a service to our readers and clients. 
-
-On Topic Media requests its employees to be vigilant in regard to the following issues: 
-
-don't give out others personal information without their prior consent eg home telephone numbers 
-
-written permission will be required before your personal information is given to others 
-
-Copyright © 2012 On Topic Media PTY LTD. All Rights Reserved. Design by Vimu.com. 
+  
+﻿ 
