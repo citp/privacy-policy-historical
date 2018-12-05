@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walkfree.org privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002182847id_/https%3A//www.walkfreefoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkfree.org privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205024613id_/https%3A//www.walkfreefoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Walk Free Foundation
 
