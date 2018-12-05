@@ -1,57 +1,57 @@
-> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627044601id_/https%3A//www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205110414id_/https%3A//www.nobelprize.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy - NobelPrize.org
 
 ## Introduction
 
-Nobel Group Interests AB and affiliated entities Nobel Media AB, Nobelmuseet AB, Nobelhuset AB, Stiftelsen Nobel Center, and the Nobel Foundation, engage in informational, educational, museum, research, media and related activities within the Nobel Foundation's sphere of interest. We recognize that privacy is important and are committed to protecting your privacy. For the purposes of this policy “Nobel Group Interests” shall refer to Nobel Group Interests AB and affiliated entities. This policy applies to personal information processed by Nobel Group Interests. Please read the Privacy Policy carefully and feel free to contact us, at the address last in this document, with questions or comments.
+Nobel Group Interests AB and affiliated entities Nobel Media AB, Nobelmuseet AB, Nobelhuset AB, Stiftelsen Nobel Center, and the Nobel Foundation, engage in informational, educational, museum, research, media and related activities within the Nobel Foundation’s sphere of interest. We recognize that privacy is important and are committed to protecting your privacy. For the purposes of this policy “Nobel Group Interests” shall refer to Nobel Group Interests AB and affiliated entities. This policy applies to personal information processed by Nobel Group Interests. Please read the Privacy Policy carefully and feel free to contact us, at the address last in this document, with questions or comments.
 
 Nobel Group Interests adheres to all applicable Swedish and EU law.
 
 ## General
 
-We never store or process personal information unless we have explicit consent, we have conducted a Legitimate Interests Assessment, we are required to process your personal information according to law or when it is necessary to fulfill an agreement with you. 
+We never store or process personal information unless we have explicit consent, we have conducted a Legitimate Interests Assessment, we are required to process your personal information according to law or when it is necessary to fulfill an agreement with you.
 
-Our legitimate interest of processing your personal information on the basis of a Legitimate Interests Assessment is to inform about our activities, administer events, web sites, and networks and to document and communicate our events. 
+Our legitimate interest of processing your personal information on the basis of a Legitimate Interests Assessment is to inform about our activities, administer events, web sites, and networks and to document and communicate our events.
 
 Personal information is never stored longer than what is deemed necessary to fulfill the purpose for which it was collected. Personal information that we process on the basis of a Legitimate Interests Assessment are normally processed for the period that is necessary for fulfilling the purposes of the processing. Personal information that we process for the purpose of fulfilling an agreement with you are normally processed for the duration of our agreement and for fifteen months after expiry of the agreement. To comply with legal obligations or because you have given your consent we may keep your personal information for a longer period.
 
-You have: 
+You have:
 
-**A right to access**   
-If you would like to know which of your own personal information we process, you are welcome to contact us. 
+**A right to access**  
+If you would like to know which of your own personal information we process, you are welcome to contact us.
 
-**A right to correction**   
-You can request your personal information to be corrected. 
+**A right to correction**  
+You can request your personal information to be corrected.
 
 **A right to withdraw consent**  
 You have the right to fully or partially withdraw a given consent regarding the processing of personal information at any time, with effect from the time of the withdrawal.
 
-**A right to deletion**   
-You can request deletion of your personal information if: 
+**A right to deletion**  
+You can request deletion of your personal information if:
 
-  * the data no longer are necessary for the purpose for which they were collected or processed; 
-  * you object to the Legitimate Interests Assessment that we’ve made; 
-  * the data is being treated in an illegal way. 
+  * the data no longer are necessary for the purpose for which they were collected or processed;
+  * you object to the Legitimate Interests Assessment that we’ve made;
+  * the data is being treated in an illegal way.
   * you have withdrawn consent to the processing.
 
 
 
-**A right to limitation**   
-You can request that our processing of your personal information is limited. 
+**A right to limitation**  
+You can request that our processing of your personal information is limited.
 
-**A right to object**   
-You always have the right to decline direct marketing at to object to all treatment of personal information that is based on Legitimate Interests Assessments.  
+**A right to object**  
+You always have the right to decline direct marketing at to object to all treatment of personal information that is based on Legitimate Interests Assessments.
 
 **A right to data portability**  
-If we base our processing on consent or to fulfil an agreement with you, you are entitled to receive the personal information concerning you that you have provided to us in a structured, commonly used and machine-readable format and have the right to transmit the personal information to another data controller.
+If we base our processing on consent or to fulfill an agreement with you, you are entitled to receive the personal information concerning you that you have provided to us in a structured, commonly used and machine-readable format and have the right to transmit the personal information to another data controller.
 
-**Transfers of personal** **information to third countries**  
+**Transfers of personal  ** **information to third countries  **  
 As a general rule, we and our suppliers and partners process your personal information only within the EU/EEA. In cases where personal information are processed outside the EU/EEA, we base the processing either on a decision from the European Commission that the relevant third country ensures an adequate level of protection, or appropriate safeguards, e.g. standard data protection clauses, binding corporate rules, or Privacy Shield, to ensure that your rights are protected. If you wish to receive a copy the safeguards taken by us or information regarding where these safeguards have been made available, please contact us in accordance with the below.
 
 ## Web sites
 
-Nobel Group Interests manages several web sites, such as [nobelprize.org](http://nobelprize.org/), [nobelcenter.se](http://nobelcenter.se/), [nobelprizeii.org](http://nobelprizeii.org/). This policy applies to all sites so operated. 
+Nobel Group Interests manages several web sites, such as [nobelprize.org](http://nobelprize.org/) and [nobelcenter.se](http://nobelcenter.se/). This policy applies to all sites so operated.
 
 ### Information we collect
 
@@ -59,51 +59,45 @@ We offer a number of services that do not require you to sign up, register, or p
 
 ### How we collect your personal information
 
-Some of the services, such as certain educational games and interactive services, require registration. To use these services, we may ask you for personal information and an account password. Other services (such as the options to evaluate and rate our content) may give you the option of providing personal or demographic information, such as your e-mail address, name, address, ZIP or postcode, age, gender, preferences or favourites. You can decline to submit personal information to any of our services, in which case the site may not be able to fully provide those services to you.  
-E-mails or other communications that you send may be retained in order to process your inquiries, respond to your requests or improve our services.  
-We collect information about your visit, including the pages you view, the links you click and other actions taken in connection with sites and services. We also collect certain standard information that your browser sends to every website you visit. See **Web analytics** below.
+Some of the services, such as certain educational games and interactive services, require registration. To use these services, we may ask you for personal information and an account password. Other services (such as the options to evaluate and rate our content) may give you the option of providing personal or demographic information, such as your e-mail address, name, address, ZIP or postcode, age, gender, preferences or favourites. You can decline to submit personal information to any of our services, in which case the site may not be able to fully provide those services to you.
 
-Information collected through one Nobel Group Interests service may be combined with information obtained through any other Nobel Group Interests service. Except in connection with the _Tell a Friend-service_ , as described below, we do not combine data entered by you (such as an opinion or rating) with personal data provided by the browser (such as the IP address).
+E-mails or other communications that you send may be retained in order to process your inquiries, respond to your requests or improve our services.
+
+We collect information about your visit, including the pages you view, the links you click and other actions taken in connection with sites and services. We also collect certain standard information that your browser sends to every website you visit. See  **Web analytics**  below.
+
+Information collected through one Nobel Group Interests service may be combined with information obtained through any other Nobel Group Interests service. Except in connection with the  _Tell a Friend-service_ , as described below, we do not combine data entered by you (such as an opinion or rating) with personal data provided by the browser (such as the IP address).
 
 ### How we use your personal information
 
-We collect and process personal information for the purposes described in this Privacy Policy. Such purposes include: 
+We collect and process personal information for the purposes described in this Privacy Policy. Such purposes include:
 
-  * providing our services to users, including the display of customized content; 
-  * providing audits, research and analyses in order to maintain, protect and improve our services and technologies; 
-  * aiding the development of new services; 
-  * making services easier to use by eliminating the need for you to repeatedly enter the same information; and 
-  * operating and improving our site to deliver the services you have requested. These uses may include providing you with more effective customer service. 
+  * providing our services to users, including the display of customized content;
+  * providing audits, research and analyses in order to maintain, protect and improve our services and technologies;
+  * aiding the development of new services;
+  * making services easier to use by eliminating the need for you to repeatedly enter the same information; and
+  * operating and improving our site to deliver the services you have requested. These uses may include providing you with more effective customer service.
 
 
 
-Personal information collected on our sites and services may be stored and processed in Sweden or any other country in which Nobel Group Interests or its affiliates or agents maintain facilities. Storage and processing are in adherence with applicable EU law. 
+Personal information collected on our sites and services may be stored and processed in Sweden or any other country in which Nobel Group Interests or its affiliates or agents maintain facilities. Storage and processing are in adherence with applicable EU law.
 
 ### Cookies
 
-When you visit our sites, we send one or more cookies to your computer that uniquely identifies your browser. A cookie is a small file that is placed on your hard disk by a Web page server. The cookie contains a string of characters that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. We only use standard first-party cookies, which are a communication tag only viewable by the site in the same nature as session ids. They are not third-party cookies, which may provide information outside our domain, violating our privacy policy. 
+When you visit our sites, we send one or more cookies to your computer that uniquely identifies your browser. A cookie is a small file that is placed on your hard disk by a Web page server. The cookie contains a string of characters that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. We only use standard first-party cookies, which are a communication tag only viewable by the site in the same nature as session ids. They are not third-party cookies, which may provide information outside our domain, violating our privacy policy.
 
-We use cookies:  ****
+We use cookies:
 
-  * to improve the quality of our service by tracking user trends and paths using standard Web analytics software; 
-  * to store your preferences and other information on your computer in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalized content on your current and later visits to our sites;  
+  * to improve the quality of our service by tracking user trends and paths using standard Web analytics software;
+  * to store your preferences and other information on your computer in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalized content on your current and later visits to our sites;
   * to make it easy for visitors to bookmark and share content to their favorite social destinations.
 
 
 
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features and services may not function properly if your cookies are disabled. 
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features and services may not function properly if your cookies are disabled.
 
 ### Web analytics
 
 When you visit our sites, we record some standard information about your visit. This information helps us to measure the popularity of our documents and to understand how traffic flows through our site as well as to assist us in planning new content materials. We do not create individual profiles of visitors but only collect aggregate data. These server logs include information such as your web request, IP address, browser type, browser language, the date and time of your request, referring webpage, plug-ins installed, screen size, search terms and one or more cookies that may uniquely identify your browser.The log files are analysed by standard Web analytics programs. In this process the information is non-personalized. We do not track individual visits unless you specifically ask us to do so (i.e. for solving certain problems) or if our security is violated. The log files are retained for as long as is necessary to perform the analysis described above, but in no case for a period longer than 18 months.
-
-### AddThis
-
-[Nobelprize.org](http://nobelprize.org/) uses [AddThis](http://www.addthis.com/) to help us spread content across the web by making it easy for visitors to bookmark and share content to their favorite social destinations. Please refer to the[ AddThis Privacy Policy](http://addthis.com/privacy) to learn more about their commitment to privacy. [Nobelprize.org](http://nobelprize.org/) does not collect or receive any personal information submitted to an AddThis application.
-
-### Tell a friend
-
-The  _Tell a Friend service_  allows you to inform a friend about a page on [Nobelprize.org](http://nobelprize.org/). In this process you enter the e-mail address of your friend and possibly your own e-mail address, together with a short message. We will include certain personal information from you, such as the IP address, into the e-mail sent to your friend. The same information will be stored for 5 days. The purpose is to protect the integrity of the receiver of the e-mail. If the receiver feels abused by a sent e-mail, we want to be able to assist in providing the information about the sender we know about. We do not look at this information unless we are specifically asked to do so. After 5 days all data is erased, the purpose of which is to protect the integrity of both the sender and the receiver, since the message sent may contain personal information. 
 
 ### Affiliated sites and links
 
@@ -111,25 +105,25 @@ This policy applies to web sites and services that are owned and operated by Nob
 
 ## Events
 
-Nobel Group Interests arrange several events, such as the Nobel Prize Award Ceremonies, Nobel Week Dialogue, Nobel Prize Teacher Summit, Nobel Prize Inspiration Initiative, and other programs. 
+Nobel Group Interests arrange several events, such as the Nobel Prize Award Ceremonies, Nobel Week Dialogue, Nobel Prize Teacher Summit, Nobel Prize Inspiration Initiative, and other programs.
 
 ### Information we collect
 
-The information we collect depends on the event. We only collect information necessary to fulfill our obligations to you, and to ensure proper identification. 
+The information we collect depends on the event. We only collect information necessary to fulfill our obligations to you, and to ensure proper identification.
 
 ### How we collect your personal information
 
-All information is collected from you upon registration. In the case of repeated events, we may store your information to be able to invite you again. We do not collect information from third parties. 
+All information is collected from you upon registration. In the case of repeated events, we may store your information to be able to invite you again. We do not collect information from third parties.
 
-### How we use your personal information ****
+### How we use your personal information
 
-We collect and process personal information for the purposes described in this Privacy Policy. Such purposes include: 
+We collect and process personal information for the purposes described in this Privacy Policy. Such purposes include:
 
-  * communication in connection to the event; 
-  * ensuring proper identification at the event; 
-  * making sure dietary preferences or similar can be met; 
-  * quality assurance and development of future events; 
-  * archiving for research purposes. 
+  * communication in connection to the event;
+  * ensuring proper identification at the event;
+  * making sure dietary preferences or similar can be met;
+  * quality assurance and development of future events;
+  * archiving for research purposes.
 
 
 
@@ -137,22 +131,22 @@ We also use photography, video and audio recording to publicly promote events an
 
 ## Newsletters and Networks
 
-Nobel Group Interests communicate through several newsletters, such as [Nobelprize.org](http://nobelprize.org/) Monthly, and hosts several networks, such as Nobel Prize Education Network.  
+Nobel Group Interests communicate through several newsletters, such as [nobelprize.org](http://nobelprize.org/) Monthly, and hosts several networks, such as Nobel Prize Education Network.
 
-### Information we collect 
+### Information we collect
 
-The information we collect depends on the newsletter or network. In general we only collect e-mail address, but in certain cases we also ask you for name and profession. We only collect information necessary to fulfill our obligations to you. 
+The information we collect depends on the newsletter or network. In general we only collect e-mail address, but in certain cases we also ask you for name and profession. We only collect information necessary to fulfill our obligations to you.
 
-### How we collect your personal information 
+### How we collect your personal information
 
-All information is collected upon newsletter/network registration. We do not collect information from third parties. 
+All information is collected upon newsletter/network registration. We do not collect information from third parties.
 
-### How we use your personal information 
+### How we use your personal information
 
-We collect and process personal information for the purposes described in this Privacy Policy. Such purposes are: 
+We collect and process personal information for the purposes described in this Privacy Policy. Such purposes are:
 
-  * communication of requested newsletters; 
-  * communication in networks of which you are a member. 
+  * communication of requested newsletters;
+  * communication in networks of which you are a member.
 
 
 
@@ -170,9 +164,9 @@ Your personal information may also be shared with parties that are independent d
 
 Nobel Group Interests is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information and data from unauthorized alteration access, use, destruction or disclosure. Our measures to protect the security of your personal information include:
 
-  * storing the personal information you provide on computer systems with limited access, which are located in controlled facilities; 
-  * restricting access to personal information to Nobel Group Interests employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations; and 
-  * performing internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems in which we store personal data. 
+  * storing the personal information you provide on computer systems with limited access, which are located in controlled facilities;
+  * restricting access to personal information to Nobel Group Interests employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations; and
+  * performing internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems in which we store personal data.
 
 
 
@@ -188,9 +182,4 @@ If you have any complaints regarding our processing of your personal information
 
 **Questions, comments and suggestions**
 
-If you have any questions about this policy, or believe that we have not adhered to it, please [e-mail us](https://web.archive.org/contact/). 
-
-To cite this page  
-MLA style: "Privacy Policy". _Nobelprize.org._ Nobel Media AB 2014. Web. 27 Jun 2018. <http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html>
-
-## Recommended:
+If you have any questions about this policy, or believe that we have not adhered to it, please [e-mail us](https://www.nobelprize.org/contact).
