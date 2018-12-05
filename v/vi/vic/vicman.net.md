@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vicman.net privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220121433id_/http%3A//vicman.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vicman.net privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205165832id_/http%3A//vicman.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Statement (“Privacy Policy”, “Policy”, “Statement”) describes the policies and practices of the VicMan company (“VIcMan”), in terms of collecting, using, and safeguarding the private information that may be obtained through use of the company's products, services and website. This Privacy Policy applies to each of the VicMan entities, but not to VicMan's partners or affiliates, which may have independent privacy policies. Questions about this Statement may be submitted through ‘Contact us’ form. 
+This Privacy Statement (вЂњPrivacy PolicyвЂќ, вЂњPolicyвЂќ, вЂњStatementвЂќ) describes the policies and practices of the VicMan company (вЂњVIcManвЂќ), in terms of collecting, using, and safeguarding the private information that may be obtained through use of the company's products, services and website. This Privacy Policy applies to each of the VicMan entities, but not to VicMan's partners or affiliates, which may have independent privacy policies. Questions about this Statement may be submitted through вЂContact usвЂ™ form. 
 
 ## Information Collection
 
