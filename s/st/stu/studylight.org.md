@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studylight.org privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722033735id_/https%3A//www.studylight.org/site-info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studylight.org privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205022526id_/https%3A//www.studylight.org/site-info/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - StudyLight.org
 
@@ -55,7 +55,9 @@ You may also use our convenient [contact form](https://web.archive.org/site-info
 
 Lectionary Calendar
 
-Friday, July 21st, 2017  
-the _Week of Proper 10 / Ordinary 15_
+Tuesday, December 4th, 2018  
+the _First_ Week of Advent
+
+ADVERTISEMENT
 
 ADVERTISEMENT
