@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624193657id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205050434id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
 
 # iLounge Privacy Policy
 
@@ -20,51 +20,51 @@ Last updated 07|08|14
 
 ### Recent News
 
-  * [Apple seeking to have four Qualcomm patents invalidated](http://www.ilounge.com/index.php/news/comments/apple-seeking-to-have-four-qualcomm-patents-invalidated "Apple seeking to have four Qualcomm patents invalidated")
-  * [Report: Apple actively seeking to phase out Lightning connector on future iPhones](http://www.ilounge.com/index.php/news/comments/report-apple-actively-seeking-to-phase-out-lightning-connector-on-future-ip "Report: Apple actively seeking to phase out Lightning connector on future iPhones")
-  * [Apple part of consortium working on Digital Car Key spec](http://www.ilounge.com/index.php/news/comments/apple-part-of-consortium-working-on-digital-car-key-spec "Apple part of consortium working on Digital Car Key spec")
-  * [AirPower to run stripped down version of iOS, now expected to arrive in September](http://www.ilounge.com/index.php/news/comments/airpower-to-run-stripped-down-version-of-ios-now-expected-to-arrive-in-sept "AirPower to run stripped down version of iOS, now expected to arrive in September")
-  * [Apple developing kids’ programming in partnership with Sesame Workshop](http://www.ilounge.com/index.php/news/comments/apple-developing-kids-programming-in-partnership-with-sesame-workshop "Apple developing kids’ programming in partnership with Sesame Workshop")
+  * [Certified third-party Lightning to USB-C cables expected to start appearing in early 2019](http://www.ilounge.com/index.php/news/comments/certified-third-party-lightning-to-usb-c-cables-expected-to-start-appearing "Certified third-party Lightning to USB-C cables expected to start appearing in early 2019")
+  * [D-Link Omna 180 Cam HD HomeKit-enabled camera gains new features](http://www.ilounge.com/index.php/news/comments/d-link-omna-180-cam-hd-homekit-enabled-camera-gains-new-features "D-Link Omna 180 Cam HD HomeKit-enabled camera gains new features")
+  * [Report: IDC estimates Apple shipped 4.2 million Apple Watches in Q32018](http://www.ilounge.com/index.php/news/comments/report-idc-estimates-apple-shipped-4.2-million-apple-watches-in-q32018 "Report: IDC estimates Apple shipped 4.2 million Apple Watches in Q32018")
+  * [Apple launches online store with discounts for Veterans and Military Members](http://www.ilounge.com/index.php/news/comments/apple-launches-online-store-with-discounts-for-veterans-and-military-member "Apple launches online store with discounts for Veterans and Military Members")
+  * [Apple research paper outlines how Apple has optimized Siri to work on HomePod](http://www.ilounge.com/index.php/news/comments/apple-research-paper-outlines-how-apple-has-optimized-siri-to-work-on-homep "Apple research paper outlines how Apple has optimized Siri to work on HomePod")
 
 
-  * [Apple Pay goes live in Norway, Poland; may be coming soon to Czech Republic](http://www.ilounge.com/index.php/news/comments/apple-pay-goes-live-in-norway-poland-may-be-coming-soon-to-czech-republic "Apple Pay goes live in Norway, Poland; may be coming soon to Czech Republic")
-  * [Kristen Wiig departs upcoming Apple comedy amidst scheduling conflicts](http://www.ilounge.com/index.php/news/comments/kristen-wiig-departs-upcoming-apple-comedy-amidst-scheduling-conflicts "Kristen Wiig departs upcoming Apple comedy amidst scheduling conflicts")
-  * [Apple releases second developers betas for iOS 12, tvOS 12](http://www.ilounge.com/index.php/news/comments/apple-releases-second-developers-betas-for-ios-12-tvos-12 "Apple releases second developers betas for iOS 12, tvOS 12")
-  * [Apple fined $9m in Australia over ‘Error 53’ bug](http://www.ilounge.com/index.php/news/comments/apple-fined-9m-in-australia-over-error-53-bug "Apple fined $9m in Australia over ‘Error 53’ bug")
-  * [U.S. Supreme Court to hear Apple appeal of App Store antirust case](http://www.ilounge.com/index.php/news/comments/u.s.-supreme-court-to-hear-apple-appeal-of-app-store-antirust-case "U.S. Supreme Court to hear Apple appeal of App Store antirust case")
+  * [Report: 5G iPhones won’t be coming until at least 2020](http://www.ilounge.com/index.php/news/comments/report-5g-iphones-wont-be-coming-until-at-least-2020 "Report: 5G iPhones won’t be coming until at least 2020")
+  * [Catalyst announces Waterproof Cases for iPhone XS, XS Max, and XR](http://www.ilounge.com/index.php/news/comments/catalyst-announces-waterproof-cases-for-iphone-xs-xs-max-and-xr "Catalyst announces Waterproof Cases for iPhone XS, XS Max, and XR")
+  * [Daily Deal: CloudMounter for Mac, Lifetime License](http://www.ilounge.com/index.php/news/comments/daily-deal-cloudmounter-for-mac-lifetime-license "Daily Deal: CloudMounter for Mac, Lifetime License")
+  * [Apple Music coming to the Amazon Echo on Dec. 17](http://www.ilounge.com/index.php/news/comments/apple-music-coming-to-the-amazon-echo-on-dec.-17 "Apple Music coming to the Amazon Echo on Dec. 17")
+  * [Mophie announces new Powerstation with Lightning connector](http://www.ilounge.com/index.php/news/comments/mophie-announces-new-powerstation-with-lightning-connector "Mophie announces new Powerstation with Lightning connector")
 
 
 
 ### Recent Reviews
 
-  * [Flexsound HuMu Augmented Audio Cushion](http://www.ilounge.com/index.php/reviews/entry/flexsound-humu-augmented-audio-cushion "Flexsound HuMu Augmented Audio Cushion")
-  * [Mophie Charge Stream Travel Kit with Charge Stream Pad Mini](http://www.ilounge.com/index.php/reviews/entry/mophie-charge-stream-travel-kit-with-charge-stream-pad-mini "Mophie Charge Stream Travel Kit with Charge Stream Pad Mini")
-  * [Focal Listen Wireless Chic On-Ear Headphones](http://www.ilounge.com/index.php/reviews/entry/focal-listen-wireless-chic-on-ear-headphones "Focal Listen Wireless Chic On-Ear Headphones")
-  * [Fiio X7 Mark II Digital Audio Player](http://www.ilounge.com/index.php/reviews/entry/fiio-x7-mark-ii-digital-audio-player "Fiio X7 Mark II Digital Audio Player")
-  * [Twelve South AirFly for Wireless Headphones](http://www.ilounge.com/index.php/reviews/entry/twelve-south-airfly "Twelve South AirFly for Wireless Headphones")
+  * [Hifiman HE6 SE Planar Magnetic Headphones](http://www.ilounge.com/index.php/reviews/entry/hifiman-he6se-on-ear-planar-magnetic-headphones "Hifiman HE6 SE Planar Magnetic Headphones")
+  * [Anki Vector](http://www.ilounge.com/index.php/reviews/entry/anki-vector "Anki Vector")
+  * [Pangea Audio Headphone Hanger](http://www.ilounge.com/index.php/reviews/entry/pangea-audio-headphone-hanger "Pangea Audio Headphone Hanger")
+  * [Optoma Nuforce BE Live2 In-Ear Headphones](http://www.ilounge.com/index.php/reviews/entry/optoma-nuforce-be-live2-in-ear-headphones "Optoma Nuforce BE Live2 In-Ear Headphones")
+  * [Fiio M9 Portable High-Resolution Audio Player](http://www.ilounge.com/index.php/reviews/entry/fiio-m9-portable-high-resolution-audio-player "Fiio M9 Portable High-Resolution Audio Player")
 
 
-  * [Fiio Q5 DAC](http://www.ilounge.com/index.php/reviews/entry/fiio-q5-dac "Fiio Q5 DAC")
-  * [MyTek Liberty Digital-to-Analog Converter](http://www.ilounge.com/index.php/reviews/entry/mytek-liberty-digital-to-analog-converter "MyTek Liberty Digital-to-Analog Converter")
-  * [Nuheara IQbuds Boost](http://www.ilounge.com/index.php/reviews/entry/nuheara-iqbuds-boost "Nuheara IQbuds Boost")
-  * [Shinola Canfield Pro In-Ear Monitors](http://www.ilounge.com/index.php/reviews/entry/shinola-canfield-pro-in-ear-monitors "Shinola Canfield Pro In-Ear Monitors")
-  * [olloclip & Incase Limited Edition Filmer’s Kit](http://www.ilounge.com/index.php/reviews/entry/olloclip-incase-limited-edition-filmers-kit "olloclip & Incase Limited Edition Filmer’s Kit")
+  * [Divoom Voombox Pro Rugged Portable Wireless Speaker](http://www.ilounge.com/index.php/reviews/entry/divoom-voombox-pro "Divoom Voombox Pro Rugged Portable Wireless Speaker")
+  * [iHome iAV5 Blueooth Rechargeable Speaker for Amazon Echo Dot](http://www.ilounge.com/index.php/reviews/entry/ihome-iav5-blueooth-rechargeable-speaker-for-amazon-echo-dot "iHome iAV5 Blueooth Rechargeable Speaker for Amazon Echo Dot")
+  * [Mophie Charge Stream Powerstation Wireless + Wireless XL](http://www.ilounge.com/index.php/reviews/entry/mophie-charge-stream-powerstation-wireless-wireless-xl "Mophie Charge Stream Powerstation Wireless + Wireless XL")
+  * [Marshall Kilburn II Portable Bluetooth Speaker](http://www.ilounge.com/index.php/reviews/entry/marshall-kilburn-ii-portable-bluetooth-speaker "Marshall Kilburn II Portable Bluetooth Speaker")
+  * [Edifier S2000 Pro Bookshelf Speakers](http://www.ilounge.com/index.php/reviews/entry/edifier-s2000-pro-bookshelf-speakers "Edifier S2000 Pro Bookshelf Speakers")
 
 
 
 ### Recent Articles
 
+  * [Instant Expert: Secrets & Features of iOS 12 for HomePod](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-ios-12-for-homepod "Instant Expert: Secrets & Features of iOS 12 for HomePod")
+  * [Instant Expert: Secrets & Features of watchOS 5](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-watchos-5 "Instant Expert: Secrets & Features of watchOS 5")
   * [Sponsored: 8 iPhone and Apple Watch chargers that reduce clutter](http://www.ilounge.com/index.php/articles/comments/sponsored-8-iphone-and-apple-watch-chargers-that-reduce-clutter "Sponsored: 8 iPhone and Apple Watch chargers that reduce clutter")
   * [Sponsored: 10 iPhone X Wireless Charging Stands & Docks](http://www.ilounge.com/index.php/articles/comments/sponsored-10-iphone-x-wireless-charging-stands-docks "Sponsored: 10 iPhone X Wireless Charging Stands & Docks")
   * [Instant Expert: Secrets & Features of iOS 11](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-ios-11 "Instant Expert: Secrets & Features of iOS 11")
+
+
   * [Inside the betas: watchOS 4.1 adds Apple Music streaming](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-watchos-4.1-adds-apple-music-streaming "Inside the betas: watchOS 4.1 adds Apple Music streaming")
   * [Instant Expert: Secrets & Features of watchOS 4](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-watchos-4 "Instant Expert: Secrets & Features of watchOS 4")
-
-
   * [Instant Expert: Secrets & Features of tvOS 11](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-tvos-11 "Instant Expert: Secrets & Features of tvOS 11")
   * [Instant Expert: Secrets & Features of iTunes 12.7](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-itunes-12.7 "Instant Expert: Secrets & Features of iTunes 12.7")
   * [Inside the betas: iOS 11 Control Center gets customizable, adds Screen Recording](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-ios-11-control-center-gets-customizable-adds-screen-record "Inside the betas: iOS 11 Control Center gets customizable, adds Screen Recording")
-  * [Inside the betas: iOS 11 HomeKit adds timers, multi-person occupancy support](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-ios-11-homekit-adds-timers-multi-person-occupancy-support "Inside the betas: iOS 11 HomeKit adds timers, multi-person occupancy support")
-  * [Inside the betas: tvOS 11 adds auto Dark Mode, iCloud Home Screen Sync](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-tvos-11-adds-auto-dark-mode-icloud-home-screen-sync "Inside the betas: tvOS 11 adds auto Dark Mode, iCloud Home Screen Sync")
 
 
