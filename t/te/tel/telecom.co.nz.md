@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telecom.co.nz privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212064028id_/https%3A//www.spark.co.nz/help/other/websiteprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecom.co.nz privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205225153id_/https%3A//www.spark.co.nz/help/other/websiteprivacypolicy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Spark NZ
 
@@ -30,7 +30,7 @@ If you are just surfing and reading information on our website, then we collect 
 
 
 
-_If you're using Social sign in_
+**If you're using Social sign in**
 
   * your Facebook email address
   * your unique Facebook ID
@@ -39,7 +39,7 @@ _If you're using Social sign in_
 
 
 
-_Spark customers_
+**Spark customers**
 
 If you are a Spark customer, Spark's [Terms and Conditions](https://web.archive.org/help/other/terms/) apply to your use of Spark services. Choose the Terms and Conditions that refer to the Spark service you use. The relevant Terms and Conditions set out our commitments to you regarding collecting, holding and using information about you.
 
@@ -57,14 +57,14 @@ If you choose to provide us with personal information such as your email address
 
 Personal information will be stored and used in accordance with our [Terms and Conditions](https://web.archive.org/terms/).
 
-_Social sign on_
+**Social sign on**
 
   * We use a person’s name to personalise any messaging during the sign-in and store their name in the MySpark identity we create.
   * We use the email address as the identifier for the MySpark identity as it is email based and needs a unique email address for each identity
 
 
 
-_Use of cookies for advertising and analytics_
+**Use of cookies for advertising and analytics**
 
 Our website places a cookie on the hard drive of your computer. A "cookie" is a file which allows us to track and target the interests of users. In addition, our website uses third party cookies from Google Analytics for Display Advertisers, including the following features:
 
@@ -93,11 +93,11 @@ Secure Socket Layer (SSL) is the most accepted way of ensuring the security of t
 ### 6. Opting out
 
   
-_Turning off cookies_
+**Turning off cookies**
 
 As stated above, your internet browser should allow you to control the use of cookies. In addition, you can opt-out of Google Analytics Advertising Features [here](http://www.google.com/policies/technologies/ads/) or use a browser plugin to opt-out of Google Analytics cookies [here](https://tools.google.com/dlpage/gaoptout/).
 
-_How do I unsubscribe from email marketing communications?_
+**How do I unsubscribe from email marketing communications?**
 
 There are two ways to unsubscribe to any email message
 
@@ -108,7 +108,11 @@ There are two ways to unsubscribe to any email message
 
 If you have difficulty unsubscribing using any of the methods above please call us on 123.
 
-_How do I file a complaint?_
+**How do I unsubscribe from SMS marketing communications?**
+
+If you want to stop receiving marketing communications sent via text message, reply STOP to the text.
+
+**How do I file a complaint?**
 
 If you feel that your email address has been used without your permission and contacting the sender has not yielded satisfactory results you can issue a formal complaint by emailing us at [customerresolutions@spark.co.nz](mailto:customerresolutions@spark.co.nz).
 
@@ -146,7 +150,7 @@ If you are just surfing and reading information on our website, then we collect 
 
 
 
-_If you're using Social sign in_
+**If you're using Social sign in**
 
   * your Facebook email address
   * your unique Facebook ID
@@ -155,7 +159,7 @@ _If you're using Social sign in_
 
 
 
-_Spark customers_
+**Spark customers**
 
 If you are a Spark customer, Spark's [Terms and Conditions](https://web.archive.org/help/other/terms/) apply to your use of Spark services. Choose the Terms and Conditions that refer to the Spark service you use. The relevant Terms and Conditions set out our commitments to you regarding collecting, holding and using information about you.
 
@@ -173,14 +177,14 @@ If you choose to provide us with personal information such as your email address
 
 Personal information will be stored and used in accordance with our [Terms and Conditions](https://web.archive.org/terms/).
 
-_Social sign on_
+**Social sign on**
 
   * We use a person’s name to personalise any messaging during the sign-in and store their name in the MySpark identity we create.
   * We use the email address as the identifier for the MySpark identity as it is email based and needs a unique email address for each identity
 
 
 
-_Use of cookies for advertising and analytics_
+**Use of cookies for advertising and analytics**
 
 Our website places a cookie on the hard drive of your computer. A "cookie" is a file which allows us to track and target the interests of users. In addition, our website uses third party cookies from Google Analytics for Display Advertisers, including the following features:
 
@@ -209,11 +213,11 @@ Secure Socket Layer (SSL) is the most accepted way of ensuring the security of t
 ### 6. Opting out
 
   
-_Turning off cookies_
+**Turning off cookies**
 
 As stated above, your internet browser should allow you to control the use of cookies. In addition, you can opt-out of Google Analytics Advertising Features [here](http://www.google.com/policies/technologies/ads/) or use a browser plugin to opt-out of Google Analytics cookies [here](https://tools.google.com/dlpage/gaoptout/).
 
-_How do I unsubscribe from email marketing communications?_
+**How do I unsubscribe from email marketing communications?**
 
 There are two ways to unsubscribe to any email message
 
@@ -224,7 +228,11 @@ There are two ways to unsubscribe to any email message
 
 If you have difficulty unsubscribing using any of the methods above please call us on 123.
 
-_How do I file a complaint?_
+**How do I unsubscribe from SMS marketing communications?**
+
+If you want to stop receiving marketing communications sent via text message, reply STOP to the text.
+
+**How do I file a complaint?**
 
 If you feel that your email address has been used without your permission and contacting the sender has not yielded satisfactory results you can issue a formal complaint by emailing us at [customerresolutions@spark.co.nz](mailto:customerresolutions@spark.co.nz).
 
@@ -262,7 +270,7 @@ If you are just surfing and reading information on our website, then we collect 
 
 
 
-_If you're using Social sign in_
+**If you're using Social sign in**
 
   * your Facebook email address
   * your unique Facebook ID
@@ -271,7 +279,7 @@ _If you're using Social sign in_
 
 
 
-_Spark customers_
+**Spark customers**
 
 If you are a Spark customer, Spark's [Terms and Conditions](https://web.archive.org/help/other/terms/) apply to your use of Spark services. Choose the Terms and Conditions that refer to the Spark service you use. The relevant Terms and Conditions set out our commitments to you regarding collecting, holding and using information about you.
 
@@ -289,14 +297,14 @@ If you choose to provide us with personal information such as your email address
 
 Personal information will be stored and used in accordance with our [Terms and Conditions](https://web.archive.org/terms/).
 
-_Social sign on_
+**Social sign on**
 
   * We use a person’s name to personalise any messaging during the sign-in and store their name in the MySpark identity we create.
   * We use the email address as the identifier for the MySpark identity as it is email based and needs a unique email address for each identity
 
 
 
-_Use of cookies for advertising and analytics_
+**Use of cookies for advertising and analytics**
 
 Our website places a cookie on the hard drive of your computer. A "cookie" is a file which allows us to track and target the interests of users. In addition, our website uses third party cookies from Google Analytics for Display Advertisers, including the following features:
 
@@ -325,11 +333,11 @@ Secure Socket Layer (SSL) is the most accepted way of ensuring the security of t
 ### 6. Opting out
 
   
-_Turning off cookies_
+**Turning off cookies**
 
 As stated above, your internet browser should allow you to control the use of cookies. In addition, you can opt-out of Google Analytics Advertising Features [here](http://www.google.com/policies/technologies/ads/) or use a browser plugin to opt-out of Google Analytics cookies [here](https://tools.google.com/dlpage/gaoptout/).
 
-_How do I unsubscribe from email marketing communications?_
+**How do I unsubscribe from email marketing communications?**
 
 There are two ways to unsubscribe to any email message
 
@@ -340,7 +348,11 @@ There are two ways to unsubscribe to any email message
 
 If you have difficulty unsubscribing using any of the methods above please call us on 123.
 
-_How do I file a complaint?_
+**How do I unsubscribe from SMS marketing communications?**
+
+If you want to stop receiving marketing communications sent via text message, reply STOP to the text.
+
+**How do I file a complaint?**
 
 If you feel that your email address has been used without your permission and contacting the sender has not yielded satisfactory results you can issue a formal complaint by emailing us at [customerresolutions@spark.co.nz](mailto:customerresolutions@spark.co.nz).
 
