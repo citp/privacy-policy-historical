@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the rapid7.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620063801id_/https%3A//www.rapid7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapid7.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205040856id_/https%3A//www.rapid7.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rapid7
+
+[ ](https://web.archive.org/)
+
+Rapid7 Privacy Policy 
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=ae273fd8-8196-4071-8b10-5c8750149ea8 "TRUSTe Privacy")
 
@@ -156,7 +160,7 @@ In addition to your rights to access, correct, update and delete your informatio
 
 If we have collected and process your information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your information conducted in reliance on lawful processing grounds other than consent.
 
-If you are unhappy with the way we have processed your information, you have the right to complain to a data protection authority. For more information, please contact your local data protection authority. (Contact details for data protection authorities in the European Economic Area are available[here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).) 
+If you are unhappy with the way we have processed your information, you have the right to complain to a data protection authority. For more information, please contact your local data protection authority. (Contact details for data protection authorities in the European Economic Area are available [here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).) 
 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
