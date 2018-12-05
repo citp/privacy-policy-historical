@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newarena.com privacy policy that was archived on 2018-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624221409id_/http%3A//newarena.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newarena.com privacy policy that was archived on 2018-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181205063147id_/http%3A//newarena.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<meta charset="utf-8">
@@ -13,11 +13,10 @@
 
 		<link rel="pingback" href="http://newarena.com/xmlrpc.php">
 				<title>Privacy Policy – New Arena</title>
-<link rel="dns-prefetch" href="//d9etzk30b05yg.cloudfront.net">
 <link rel="dns-prefetch" href="//newarena.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="New Arena » Privacy Policy Comments Feed" href="http://newarena.com/privacy-policy/feed/">
- <script type="text/javascript" async="" src="//newarena.netmng.com/?aid=5495&amp;siclientid="></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.11&amp;appId=1476260642671948"></script><script async="" src="//amplify.outbrain.com/cp/obtp.js" type="text/javascript"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5VGH5P"></script><script type="text/javascript"> var BrightcastClass = (function () { var instance, sessionData = null, sessionCookie = "brightcast_session", storageCookie = "brightcast_storage" ; function createCookie(name,value,days,hours) { var expires = ""; if (days) { var date = new Date(); date.setTime(date.getTime() + (days*24*60*60*1000)); expires = "; expires=" + date.toUTCString(); } else if (hours) { var date = new Date(); date.setTime(date.getTime() + (hours*60*60*1000)); expires = "; expires=" + date.toUTCString(); } document.cookie = name + "=" + value + expires + "; path=/"; } function readCookie(name) { var nameEQ = name + "="; var ca = document.cookie.split(';'); for(var i=0;i < ca.length;i++) { var c = ca[i]; while (c.charAt(0)==' ') c = c.substring(1,c.length); if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length); } return null; } function getParameterByName(name, url) { if (!url) url = window.location.href; name = name.replace(/[\[\]]/g, "\$&"); var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"), results = regex.exec(url); if (!results) return null; if (!results[2]) return ''; return decodeURIComponent(results[2].replace(/\+/g, " ")); } function sessionUpdate() { var session = readCookie(sessionCookie)? JSON.parse(readCookie(sessionCookie)) : {}; var storage = readCookie(storageCookie)? JSON.parse(readCookie(storageCookie)) : []; var d = new Date(); var now = d.getTime(); if(getParameterByName("utm_source")) session["utm_source"] = getParameterByName("utm_source"); if(getParameterByName("utm_medium")) session["utm_medium"] = getParameterByName("utm_medium"); if(getParameterByName("utm_campaign")) session["utm_campaign"] = getParameterByName("utm_campaign"); if(getParameterByName("utm_term")) session["utm_term"] = getParameterByName("utm_term"); if(getParameterByName("amxt")) session["amxt"] = getParameterByName("amxt"); if(getUserId()) session["user_id"] = getUserId(); if(getConsentString()) session["consent_string"] = getConsentString(); if(getEuUser()) session["eu_user"] = getEuUser(); session["start_time"] = session["start_time"] || now; session["last_view"] = now; session["pageviews"] = session["pageviews"] || 0; session["protocol"] = session["protocol"] || location.protocol; session["pageviews"]++; createCookie(sessionCookie, JSON.stringify(session)); if(session["start_time"] == session["last_view"]) { if(storage.length > 4) storage.shift(); storage.push(session); } else { storage[storage.length-1] = session; } createCookie(storageCookie, JSON.stringify(storage),365); sessionData = {"session":session, "storage":storage}; } function getUserId() { var storage = readCookie(storageCookie)? JSON.parse(readCookie(storageCookie)) : []; var uid = null; if(getParameterByName("uid")) { uid = getParameterByName("uid"); } else { var s = storage; s = s.reverse(); for (i = 0; i < s.length; i++) { if (s[i].user_id) { uid = s[i].user_id; break; } } } return uid; } function updateUserId(id) { sessionData.session.user_id = id; createCookie(sessionCookie, JSON.stringify(sessionData.session)); createCookie(storageCookie, JSON.stringify(sessionData.storage),365); } function getConsentString() { var storage = readCookie(storageCookie)? JSON.parse(readCookie(storageCookie)) : []; var consentString = null; var s = storage; s = s.reverse(); for (i = 0; i < s.length; i++) { if (s[i].consent_string) { consentString = s[i].consent_string; break; } } return consentString; } function getEuUser() { var storage = readCookie(storageCookie)? JSON.parse(readCookie(storageCookie)) : []; var euUser = null; var s = storage; s = s.reverse(); for (i = 0; i < s.length; i++) { if (s[i].eu_user) { euUser = s[i].eu_user; break; } } return euUser; } function updateConsentString(s) { if(s == false || s == "NULL") { delete sessionData.session.consent_string; } else { sessionData.session.consent_string = s; } createCookie(sessionCookie, JSON.stringify(sessionData.session)); createCookie(storageCookie, JSON.stringify(sessionData.storage),365); } function updateEuUser(b) { sessionData.session.eu_user = b; createCookie(sessionCookie, JSON.stringify(sessionData.session)); createCookie(storageCookie, JSON.stringify(sessionData.storage),365); } sessionUpdate(); return { getInstance: function () { if (!instance) { instance = this; } return instance; }, getSession: function(){return sessionData.session}, getStorage: function(){return sessionData.storage}, setUserId: function(id){updateUserId(id);}, setConsentString: function(s){updateConsentString(s);}, setEuUser: function(b){updateEuUser(b);} }; })(); var brightcast = BrightcastClass.getInstance(); brightcast["author"] = ''; brightcast["page_number"] =1; brightcast["post_id"] = ''; brightcast["title"] = ''; brightcast["category"] = ''; brightcast["session"] = brightcast.getSession(); brightcast["storage"] = brightcast.getStorage(); </script>
+ <script type="text/javascript" async="" src="//newarena.netmng.com/?aid=5495&amp;siclientid="></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script async="" src="https://sc-static.net/scevent.min.js"></script><script async="" src="//amplify.outbrain.com/cp/obtp.js" type="text/javascript"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.11&amp;appId=1476260642671948"></script><script async="" src="//cdn.taboola.com/libtrc/unip/1080909/tfa.js" id="tb_tfa_script"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5VGH5P"></script><script type="text/javascript"> var BrightcastClass = (function () { var instance, version = "1.02", sessionData = null, sessionCookie = "brightcast_session", storageCookie = "brightcast_storage" ; function createCookie(name,value,days,hours) { var expires = ""; if (days) { var date = new Date(); date.setTime(date.getTime() + (days*24*60*60*1000)); expires = "; expires=" + date.toUTCString(); } else if (hours) { var date = new Date(); date.setTime(date.getTime() + (hours*60*60*1000)); expires = "; expires=" + date.toUTCString(); } document.cookie = name + "=" + value + expires + "; path=/"; } function readCookie(name) { var nameEQ = name + "="; var ca = document.cookie.split(';'); for(var i=0;i < ca.length;i++) { var c = ca[i]; while (c.charAt(0)==' ') c = c.substring(1,c.length); if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length); } return null; } function getParameterByName(name, url) { if (!url) url = window.location.href; name = name.replace(/[\[\]]/g, "\$&"); var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"), results = regex.exec(url); if (!results) return null; if (!results[2]) return ''; return decodeURIComponent(results[2].replace(/\+/g, " ")); } function sessionUpdate() { var session = readCookie(sessionCookie)? JSON.parse(readCookie(sessionCookie)) : {}; var storage = readCookie(storageCookie)? JSON.parse(readCookie(storageCookie)) : []; var d = new Date(); var now = d.getTime(); if(getParameterByName("utm_source")) session["utm_source"] = getParameterByName("utm_source"); if(getParameterByName("utm_medium")) session["utm_medium"] = getParameterByName("utm_medium"); if(getParameterByName("utm_campaign")) session["utm_campaign"] = getParameterByName("utm_campaign"); if(getParameterByName("utm_term")) session["utm_term"] = getParameterByName("utm_term"); if(getParameterByName("amxt")) session["amxt"] = getParameterByName("amxt"); if(getParameterByName("uid")) session["user_id"] = getUserId(); else if(getFromStorage('user_id')) session["user_id"] = getFromStorage('user_id'); if(getFromStorage('consent_string')) session["consent_string"] = getFromStorage('consent_string'); if(getFromStorage('eu_user')) session["eu_user"] = getFromStorage('eu_user'); if(getFromStorage('visitor_id')) session["visitor_id"] = getFromStorage('visitor_id'); else session["visitor_id"] = Date.now() + "_" + Math.random().toString(36).slice(2); session["session_id"] = session["session_id"] || (Date.now() + "_" + Math.random().toString(36).slice(2)); session["start_time"] = session["start_time"] || now; session["last_view"] = now; session["pageviews"] = session["pageviews"] || 0; session["protocol"] = session["protocol"] || location.protocol; session["pageviews"]++; createCookie(sessionCookie, JSON.stringify(session)); if(session["start_time"] == session["last_view"]) { if(storage.length > 4) storage.shift(); storage.push(session); } else { storage[storage.length-1] = session; } createCookie(storageCookie, JSON.stringify(storage),365); sessionData = {"session":session, "storage":storage}; } function updateUserId(id) { sessionData.session.user_id = id; createCookie(sessionCookie, JSON.stringify(sessionData.session)); createCookie(storageCookie, JSON.stringify(sessionData.storage),365); } function getEuUser() { return getFromStorage('euUser'); } function getFromStorage(key) { var storage = readCookie(storageCookie)? JSON.parse(readCookie(storageCookie)) : []; var value = null; var s = storage; s = s.reverse(); for (i = 0; i < s.length; i++) { if (s[i].eu_user) { value = s[i][key]; break; } } return value; } function updateConsentString(s) { if(s == false || s == "NULL") { delete sessionData.session.consent_string; } else { sessionData.session.consent_string = s; } createCookie(sessionCookie, JSON.stringify(sessionData.session)); createCookie(storageCookie, JSON.stringify(sessionData.storage),365); } function updateEuUser(b) { sessionData.session.eu_user = b; createCookie(sessionCookie, JSON.stringify(sessionData.session)); createCookie(storageCookie, JSON.stringify(sessionData.storage),365); } sessionUpdate(); return { version: version, getInstance: function () { if (!instance) { instance = this; } return instance; }, session: sessionData.session, storage: sessionData.storage, setUserId: function(id){updateUserId(id);}, setConsentString: function(s){updateConsentString(s);}, setEuUser: function(b){updateEuUser(b);} }; })(); var brightcast = BrightcastClass.getInstance(); brightcast["author"] = ''; brightcast["page_number"] =1; brightcast["post_id"] = ''; brightcast["title"] = ''; brightcast["category"] = ''; </script>
 <meta name="description" content="This Privacy Policy describes how “NewArena.com,” “we” or other first person pronouns treat the information we collect and/or receive from users of our website, www.NewArena.com...">
 <meta property="fb:app_id" content="170284506769545">
 <meta property="fb:admins" content="100001841762603">
@@ -26,12 +25,13 @@
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://newarena.com/privacy-policy/">
-<meta property="og:site_name" content="New Arena">
+<meta property="og:site_name" content="">
 <meta property="og:description" content="This Privacy Policy describes how “NewArena.com,” “we” or other first person pronouns treat the information we collect and/or receive from users of our website, www.NewArena.com...">
 <meta property="twitter:site" content="@TheNewArena">
+<meta property="twitter:creator" content="@TheNewArena">
+
 <meta property="twitter:title" content="Privacy Policy">
 <meta property="twitter:description" content="This Privacy Policy describes how “NewArena.com,” “we” or other first person pronouns treat the information we collect and/or receive from users of our website, www.NewArena.com...">
-<meta property="twitter:creator" content="@TheNewArena">
 <link rel="canonical" href="http://newarena.com/privacy-policy/">
 <script>
 function gdpr(d)
@@ -130,180 +130,174 @@ if(fbp)
 fbq('track', "PageView");
 if (location.href.match(/\/\d\/$/)) { fbq('track', "ViewContent"); }
 </script>
-<!-- End Facebook Pixel Code --><script>
+<!-- End Facebook Pixel Code --><script type="text/javascript">
+  window._tfa = window._tfa || [];
+  window._tfa.push({notify: 'event', name: 'page_view', id: 1080909});
+  !function (t, f, a, x) {
+         if (!document.getElementById(x)) {
+            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+         }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/unip/1080909/tfa.js',
+  'tb_tfa_script');
+  function tbt(){}
+</script><script>
+function adwt(){
+ console.log('adwt');
+jQuery('body').append('<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/879879955/?label=9emeCOrItX0Qk87HowM&guid=ON&script=0"/>');
+}
+</script><script>
 var hbxRawAdUnits = { "adUnits" : [
-    {"name": "NA-CNTNT-01-D", "path": "/33836749/NA-CNTNT-01-D", "sizes": [728, 90], "id": "div-gpt-ad-1495459967807-0", "oop": false},
-    {"name": "NA-CNTNT-01-M", "path": "/33836749/NA-CNTNT-01-M", "sizes": [320, 50], "id": "div-gpt-ad-1495459967807-1", "oop": false},
-    {"name": "NA-CNTNT-01-T", "path": "/33836749/NA-CNTNT-01-T", "sizes": [728, 90], "id": "div-gpt-ad-1495459967807-2", "oop": false},
-    {"name": "NA-CNTNT-02-D", "path": "/33836749/NA-CNTNT-02-D", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-3", "oop": false},
-    {"name": "NA-CNTNT-02-M", "path": "/33836749/NA-CNTNT-02-M", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-4", "oop": false},
-    {"name": "NA-CNTNT-02-T", "path": "/33836749/NA-CNTNT-02-T", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-5", "oop": false},
-    {"name": "NA-CNTNT-03-D", "path": "/33836749/NA-CNTNT-03-D", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-6", "oop": false},
-    {"name": "NA-CNTNT-03-M", "path": "/33836749/NA-CNTNT-03-M", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-7", "oop": false},
-    {"name": "NA-CNTNT-03-T", "path": "/33836749/NA-CNTNT-03-T", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-8", "oop": false},
-    {"name": "NA-CNTNT-04-D", "path": "/33836749/NA-CNTNT-04-D", "sizes": [728, 90], "id": "div-gpt-ad-1495459967807-9", "oop": false},
-    {"name": "NA-CNTNT-04-M", "path": "/33836749/NA-CNTNT-04-M", "sizes": [320, 50], "id": "div-gpt-ad-1495459967807-10", "oop": false},
-    {"name": "NA-CNTNT-04-T", "path": "/33836749/NA-CNTNT-04-T", "sizes": [728, 90], "id": "div-gpt-ad-1495459967807-11", "oop": false},
-    {"name": "NA-CNTNT-05-D", "path": "/33836749/NA-CNTNT-05-D", "sizes": [728, 90], "id": "div-gpt-ad-1495459967807-12", "oop": false},
-    {"name": "NA-CNTNT-05-M", "path": "/33836749/NA-CNTNT-05-M", "sizes": [320, 50], "id": "div-gpt-ad-1495459967807-13", "oop": false},
-    {"name": "NA-CNTNT-05-T", "path": "/33836749/NA-CNTNT-05-T", "sizes": [728, 90], "id": "div-gpt-ad-1495459967807-14", "oop": false},
-    {"name": "NA-CNTNT-06-D", "path": "/33836749/NA-CNTNT-06-D", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-15", "oop": false},
-    {"name": "NA-CNTNT-06-M", "path": "/33836749/NA-CNTNT-06-M", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-16", "oop": false},
-    {"name": "NA-CNTNT-06-T", "path": "/33836749/NA-CNTNT-06-T", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-17", "oop": false},
-    {"name": "NA-CNTNT-07-D", "path": "/33836749/NA-CNTNT-07-D", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-18", "oop": false},
-    {"name": "NA-CNTNT-07-M", "path": "/33836749/NA-CNTNT-07-M", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-19", "oop": false},
-    {"name": "NA-CNTNT-07-T", "path": "/33836749/NA-CNTNT-07-T", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-20", "oop": false},
-    {"name": "NA-CNTNT-08-D", "path": "/33836749/NA-CNTNT-08-D", "sizes": [728, 90], "id": "div-gpt-ad-1495459967807-21", "oop": false},
-    {"name": "NA-CNTNT-08-M", "path": "/33836749/NA-CNTNT-08-M", "sizes": [320, 100], "id": "div-gpt-ad-1495459967807-22", "oop": false},
-    {"name": "NA-CNTNT-08-T", "path": "/33836749/NA-CNTNT-08-T", "sizes": [728, 90], "id": "div-gpt-ad-1495459967807-23", "oop": false},
-    {"name": "NA-CNTNT-09-D", "path": "/33836749/NA-CNTNT-09-D", "sizes": [728, 90], "id": "div-gpt-ad-1495459967807-24", "oop": false},
-    {"name": "NA-CNTNT-09-M", "path": "/33836749/NA-CNTNT-09-M", "sizes": [320, 100], "id": "div-gpt-ad-1495459967807-25", "oop": false},
-    {"name": "NA-CNTNT-09-T", "path": "/33836749/NA-CNTNT-09-T", "sizes": [728, 90], "id": "div-gpt-ad-1495459967807-26", "oop": false},
-    {"name": "NA-CNTNT-10-D", "path": "/33836749/NA-CNTNT-10-D", "sizes": [728, 90], "id": "div-gpt-ad-1495459967807-27", "oop": false},
-    {"name": "NA-CNTNT-10-M", "path": "/33836749/NA-CNTNT-10-M", "sizes": [320, 100], "id": "div-gpt-ad-1495459967807-28", "oop": false},
-    {"name": "NA-CNTNT-10-T", "path": "/33836749/NA-CNTNT-10-T", "sizes": [728, 90], "id": "div-gpt-ad-1495459967807-29", "oop": false},
-    {"name": "NA-SDBR-01-D", "path": "/33836749/NA-SDBR-01-D", "sizes": [300, 600], "id": "div-gpt-ad-1495459967807-30", "oop": false},
-    {"name": "NA-SDBR-01-T", "path": "/33836749/NA-SDBR-01-T", "sizes": [300, 600], "id": "div-gpt-ad-1495459967807-31", "oop": false},
-    {"name": "NA-SDBR-02-D", "path": "/33836749/NA-SDBR-02-D", "sizes": [160, 600], "id": "div-gpt-ad-1495459967807-32", "oop": false},
-    {"name": "NA-SDBR-02-T", "path": "/33836749/NA-SDBR-02-T", "sizes": [160, 600], "id": "div-gpt-ad-1495459967807-33", "oop": false},
-    {"name": "NA-SDBR-03-D", "path": "/33836749/NA-SDBR-03-D", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-34", "oop": false},
-    {"name": "NA-SDBR-03-T", "path": "/33836749/NA-SDBR-03-T", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-35", "oop": false},
-    {"name": "NA-SDBR-04-D", "path": "/33836749/NA-SDBR-04-D", "sizes": [160, 600], "id": "div-gpt-ad-1495459967807-36", "oop": false},
-    {"name": "NA-SDBR-04-T", "path": "/33836749/NA-SDBR-04-T", "sizes": [160, 600], "id": "div-gpt-ad-1495459967807-37", "oop": false},
-    {"name": "NA-SDBR-05-D", "path": "/33836749/NA-SDBR-05-D", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-38", "oop": false},
-    {"name": "NA-SDBR-05-T", "path": "/33836749/NA-SDBR-05-T", "sizes": [300, 250], "id": "div-gpt-ad-1495459967807-39", "oop": false},
-    {"name": "NA-ADSENSE-01-M", "path": "/33836749/AdSense_enabled", "sizes": [300, 250], "id": "div-gpt-ad-1499728628202-0", "oop": false},
-    {"name": "NA-ADSENSE-02-D", "path": "/33836749/NA-ADSENSE-02", "sizes": [728, 90], "id": "div-gpt-ad-1499982306508-0", "oop": false},
-    {"name": "NA-ADSENSE-02-T", "path": "/33836749/NA-ADSENSE-02", "sizes": [728, 90], "id": "div-gpt-ad-1499982306508-0", "oop": false}
+    {"name": "NA-CNTNT-01-D", "path": "/21699136327/newarena-cntnt-01-d", "sizes": [[728, 90]], "id": "div-gpt-ad-1536705140408-0", "oop": false},
+    {"name": "NA-CNTNT-01-M", "path": "/21699136327/newarena-cntnt-01-m", "sizes": [[320, 50]], "id": "div-gpt-ad-1536705162398-0", "oop": false},
+    {"name": "NA-CNTNT-01-T", "path": "/21699136327/newarena-cntnt-01-t", "sizes": [[728, 90]], "id": "div-gpt-ad-1536705180678-0", "oop": false},
+    {"name": "NA-CNTNT-02-D", "path": "/21699136327/newarena-cntnt-02-d", "sizes": [[300, 250]], "id": "div-gpt-ad-1536705209001-0", "oop": false},
+    {"name": "NA-CNTNT-02-M", "path": "/21699136327/newarena-cntnt-02-m", "sizes": [[300, 250]], "id": "div-gpt-ad-1536705227442-0", "oop": false},
+    {"name": "NA-CNTNT-02-T", "path": "/21699136327/newarena-cntnt-02-t", "sizes": [[300, 250]], "id": "div-gpt-ad-1536705243598-0", "oop": false},
+    {"name": "NA-CNTNT-03-D", "path": "/21699136327/newarena-cntnt-03-d", "sizes": [[300, 250]], "id": "div-gpt-ad-1536705622427-0", "oop": false},
+    {"name": "NA-CNTNT-03-M", "path": "/21699136327/newarena-cntnt-03-m", "sizes": [[300, 250]], "id": "div-gpt-ad-1536705644931-0", "oop": false},
+    {"name": "NA-CNTNT-03-T", "path": "/21699136327/newarena-cntnt-03-t", "sizes": [[300, 250]], "id": "div-gpt-ad-1536705664022-0", "oop": false},
+    {"name": "NA-CNTNT-04-D", "path": "/21699136327/newarena-cntnt-04-d", "sizes": [[728, 90], [970, 250]], "id": "div-gpt-ad-1536705701744-0", "oop": false},
+    {"name": "NA-CNTNT-04-M", "path": "/21699136327/newarena-cntnt-04-m", "sizes": [[320, 50]], "id": "div-gpt-ad-1536705724261-0", "oop": false},
+    {"name": "NA-CNTNT-04-T", "path": "/21699136327/newarena-cntnt-04-t", "sizes": [[728, 90]], "id": "div-gpt-ad-1536705746500-0", "oop": false},
+    {"name": "NA-CNTNT-05-D", "path": "/21699136327/newarena-cntnt-05-d", "sizes": [[728, 90]], "id": "div-gpt-ad-1536705779049-0", "oop": false},
+    {"name": "NA-CNTNT-05-M", "path": "/21699136327/newarena-cntnt-05-m", "sizes": [[320, 50]], "id": "div-gpt-ad-1536705814183-0", "oop": false},
+    {"name": "NA-CNTNT-05-T", "path": "/21699136327/newarena-cntnt-05-t", "sizes": [[728, 90]], "id": "div-gpt-ad-1536705833956-0", "oop": false},
+    {"name": "NA-CNTNT-06-D", "path": "/21699136327/newarena-cntnt-06-d", "sizes": [[300, 250]], "id": "div-gpt-ad-1536705867919-0", "oop": false},
+    {"name": "NA-CNTNT-06-M", "path": "/21699136327/newarena-cntnt-06-m", "sizes": [[300, 250]], "id": "div-gpt-ad-1536705890748-0", "oop": false},
+    {"name": "NA-CNTNT-06-T", "path": "/21699136327/newarena-cntnt-06-t", "sizes": [[300, 250]], "id": "div-gpt-ad-1536705907388-0", "oop": false},
+    {"name": "NA-CNTNT-07-D", "path": "/21699136327/newarena-cntnt-07-d", "sizes": [[300, 250]], "id": "div-gpt-ad-1536705932171-0", "oop": false},
+    {"name": "NA-CNTNT-07-M", "path": "/21699136327/newarena-cntnt-07-m", "sizes": [[300, 250]], "id": "div-gpt-ad-1536705954848-0", "oop": false},
+    {"name": "NA-CNTNT-07-T", "path": "/21699136327/newarena-cntnt-07-t", "sizes": [[300, 250]], "id": "div-gpt-ad-1536705972898-0", "oop": false},
+    {"name": "NA-CNTNT-08-D", "path": "/21699136327/newarena-cntnt-08-d", "sizes": [[728, 90]], "id": "div-gpt-ad-1536706015722-0", "oop": false},
+    {"name": "NA-CNTNT-08-M", "path": "/21699136327/newarena-cntnt-08-m", "sizes": [[320, 100]], "id": "div-gpt-ad-1536706038145-0", "oop": false},
+    {"name": "NA-CNTNT-08-T", "path": "/21699136327/newarena-cntnt-08-t", "sizes": [[728, 90]], "id": "div-gpt-ad-1536706058668-0", "oop": false},
+    {"name": "NA-CNTNT-09-D", "path": "/21699136327/newarena-cntnt-09-d", "sizes": [[728, 90]], "id": "div-gpt-ad-1536706095473-0", "oop": false},
+    {"name": "NA-CNTNT-09-M", "path": "/21699136327/newarena-cntnt-09-m", "sizes": [[320, 100]], "id": "div-gpt-ad-1536706114964-0", "oop": false},
+    {"name": "NA-CNTNT-09-T", "path": "/21699136327/newarena-cntnt-09-t", "sizes": [[728, 90]], "id": "div-gpt-ad-1536706137851-0", "oop": false},
+    {"name": "NA-CNTNT-10-D", "path": "/21699136327/newarena-cntnt-10-d", "sizes": [[728, 90]], "id": "div-gpt-ad-1536706172506-0", "oop": false},
+    {"name": "NA-CNTNT-10-M", "path": "/21699136327/newarena-cntnt-10-m", "sizes": [[320, 100]], "id": "div-gpt-ad-1536706195292-0", "oop": false},
+    {"name": "NA-CNTNT-10-T", "path": "/21699136327/newarena-cntnt-10-t", "sizes": [[728, 90]], "id": "div-gpt-ad-1536706213001-0", "oop": false},
+    {"name": "NA-SDBR-01-D", "path": "/21699136327/newarena-sdbr-01-d", "sizes": [[300, 600],[300,250],[160, 600]], "id": "div-gpt-ad-1536706247709-0", "oop": false},
+    {"name": "NA-SDBR-01-T", "path": "/21699136327/newarena-sdbr-01-t", "sizes": [[300, 600]], "id": "div-gpt-ad-1536706270186-0", "oop": false},
+    {"name": "NA-SDBR-02-D", "path": "/21699136327/newarena-sdbr-02-d", "sizes": [[160, 600]], "id": "div-gpt-ad-1536706304438-0", "oop": false},
+    {"name": "NA-SDBR-02-T", "path": "/21699136327/newarena-sdbr-02-t", "sizes": [[160, 600]], "id": "div-gpt-ad-1536706326452-0", "oop": false},
+    {"name": "NA-SDBR-03-D", "path": "/21699136327/newarena-sdbr-03-d", "sizes": [[300, 600],[300,250],[160, 600]], "id": "div-gpt-ad-1536706352696-0", "oop": false},
+    {"name": "NA-SDBR-03-T", "path": "/21699136327/newarena-sdbr-03-t", "sizes": [[300, 250]], "id": "div-gpt-ad-1536706373664-0", "oop": false},
+    {"name": "NA-SDBR-04-D", "path": "/21699136327/newarena-sdbr-04-d", "sizes": [[160, 600]], "id": "div-gpt-ad-1536706398342-0", "oop": false},
+    {"name": "NA-SDBR-04-T", "path": "/21699136327/newarena-sdbr-04-t", "sizes": [[160, 600]], "id": "div-gpt-ad-1536706416490-0", "oop": false},
+    {"name": "NA-SDBR-05-D", "path": "/21699136327/newarena-sdbr-05-d", "sizes": [[300, 250]], "id": "div-gpt-ad-1536706437777-0", "oop": false},
+    {"name": "NA-SDBR-05-T", "path": "/21699136327/newarena-sdbr-05-t", "sizes": [[300, 250]], "id": "div-gpt-ad-1536706456631-0", "oop": false},
+    {"name": "NA-SLD-TOP-D", "path": "/21699136327/na-sld-top-d", "sizes": [[728,90]], "id": "div-gpt-ad-1538773739641-0", "oop": false},
+    {"name": "NA-SLD-TOP-M", "path": "/21699136327/na-sld-top-m", "sizes": [[320,50]], "id": "div-gpt-ad-1538773764773-0", "oop": false},
+    {"name": "NA-SLD-TOP-T", "path": "/21699136327/na-sld-top-t", "sizes": [[728,90]], "id": "div-gpt-ad-1538773786360-0", "oop": false},
+    {"name": "NA-SLD-BTM-D", "path": "/21699136327/na-sld-btm-d", "sizes": [[728, 90]], "id": "div-gpt-ad-1538773302854-0", "oop": false},
+    {"name": "NA-SLD-BTM-M", "path": "/21699136327/na-sld-btm-m", "sizes": [[300, 50]], "id": "div-gpt-ad-1538773387158-0", "oop": false},
+    {"name": "NA-SLD-BTM-T", "path": "/21699136327/na-sld-btm-t", "sizes": [[728, 90]], "id": "div-gpt-ad-1538773416366-0", "oop": false},
+    {"name": "NA-SLD-LFT-D", "path": "/21699136327/na-sld-lft-d", "sizes": [[160,600]], "id": "div-gpt-ad-1538773693264-0", "oop": false},
+    {"name": "NA-SLD-R1-D", "path": "/21699136327/na-sld-r1-d", "sizes": [[300, 250]], "id": "div-gpt-ad-1538773530381-0", "oop": false},
+    {"name": "NA-SLD-R1-M", "path": "/21699136327/na-sld-r1-m", "sizes": [[300, 250]], "id": "div-gpt-ad-1538773556526-0", "oop": false},
+    {"name": "NA-SLD-R1-T", "path": "/21699136327/na-sld-r1-t", "sizes": [[300, 250]], "id": "div-gpt-ad-1538773590302-0", "oop": false},
+    {"name": "NA-SLD-R2-D", "path": "/21699136327/na-sld-r2-d", "sizes": [[160,600], [300,25], [300,600]], "id": "div-gpt-ad-1538773636092-0", "oop": false}
   ]}
 var hbxRawHbTags = { "partners" : [ { "name": "aol","tags": [
         {"name": "NA-CNTNT-01-D", "params": {"network": 10556.1, "placement": 4579707}},
-        {"name": "NA-CNTNT-01-M", "params": {"network": 10556.1, "placement": 4579723}},
-        {"name": "NA-CNTNT-01-T", "params": {"network": 10556.1, "placement": 4579734}},
         {"name": "NA-CNTNT-02-D", "params": {"network": 10556.1, "placement": 4579710}},
-        {"name": "NA-CNTNT-02-M", "params": {"network": 10556.1, "placement": 4579721}},
-        {"name": "NA-CNTNT-02-T", "params": {"network": 10556.1, "placement": 4579729}},
         {"name": "NA-CNTNT-03-D", "params": {"network": 10556.1, "placement": 4579701}},
-        {"name": "NA-CNTNT-03-M", "params": {"network": 10556.1, "placement": 4579727}},
-        {"name": "NA-CNTNT-03-T", "params": {"network": 10556.1, "placement": 4579728}},
         {"name": "NA-CNTNT-04-D", "params": {"network": 10556.1, "placement": 4579708}},
-        {"name": "NA-CNTNT-04-M", "params": {"network": 10556.1, "placement": 4579725}},
-        {"name": "NA-CNTNT-04-T", "params": {"network": 10556.1, "placement": 4579735}},
         {"name": "NA-CNTNT-05-D", "params": {"network": 10556.1, "placement": 4579704}},
-        {"name": "NA-CNTNT-05-M", "params": {"network": 10556.1, "placement": 4579722}},
-        {"name": "NA-CNTNT-05-T", "params": {"network": 10556.1, "placement": 4579737}},
         {"name": "NA-CNTNT-06-D", "params": {"network": 10556.1, "placement": 4579703}},
-        {"name": "NA-CNTNT-06-M", "params": {"network": 10556.1, "placement": 4579724}},
-        {"name": "NA-CNTNT-06-T", "params": {"network": 10556.1, "placement": 4579732}},
         {"name": "NA-CNTNT-07-D", "params": {"network": 10556.1, "placement": 4579709}},
-        //{"name": "NA-CNTNT-07-M", "params": {"network": 10556.1, "placement": 4579726}},
-        {"name": "NA-CNTNT-07-T", "params": {"network": 10556.1, "placement": 4579733}},
         {"name": "NA-CNTNT-08-D", "params": {"network": 10556.1, "placement": 4579702}},
-        {"name": "NA-CNTNT-08-T", "params": {"network": 10556.1, "placement": 4579731}},
         {"name": "NA-CNTNT-09-D", "params": {"network": 10556.1, "placement": 4579706}},
-        {"name": "NA-CNTNT-09-T", "params": {"network": 10556.1, "placement": 4579730}},
         {"name": "NA-CNTNT-10-D", "params": {"network": 10556.1, "placement": 4579705}},
-        {"name": "NA-CNTNT-10-T", "params": {"network": 10556.1, "placement": 4579736}},
         {"name": "NA-OOP-01-D", "params": {"network": 10556.1, "placement": 4579712}},
-        {"name": "NA-OOP-01-T", "params": {"network": 10556.1, "placement": 4579746}},
         {"name": "NA-OOP-02-D", "params": {"network": 10556.1, "placement": 4579718}},
-        {"name": "NA-OOP-02-T", "params": {"network": 10556.1, "placement": 4579741}},
         {"name": "NA-OOP-03-D", "params": {"network": 10556.1, "placement": 4579716}},
-        {"name": "NA-OOP-03-T", "params": {"network": 10556.1, "placement": 4579740}},
         {"name": "NA-OOP-04-D", "params": {"network": 10556.1, "placement": 4579713}},
-        {"name": "NA-OOP-04-T", "params": {"network": 10556.1, "placement": 4579744}},
         {"name": "NA-SDBR-01-D", "params": {"network": 10556.1, "placement": 4579717}},
-        {"name": "NA-SDBR-01-T", "params": {"network": 10556.1, "placement": 4579743}},
         {"name": "NA-SDBR-02-D", "params": {"network": 10556.1, "placement": 4579714}},
-        {"name": "NA-SDBR-02-T", "params": {"network": 10556.1, "placement": 4579747}},
         {"name": "NA-SDBR-03-D", "params": {"network": 10556.1, "placement": 4579715}},
-        {"name": "NA-SDBR-03-T", "params": {"network": 10556.1, "placement": 4579748}},
         {"name": "NA-SDBR-04-D", "params": {"network": 10556.1, "placement": 4579719}},
-        {"name": "NA-SDBR-04-T", "params": {"network": 10556.1, "placement": 4579745}},
         {"name": "NA-SDBR-05-D", "params": {"network": 10556.1, "placement": 4579711}},
-        {"name": "NA-SDBR-05-T", "params": {"network": 10556.1, "placement": 4579742}}
-      ]},{ "name": "aolMobile","alias": "aol","tags": [
-        {"name": "NA-CNTNT-01-M", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_01_m_320x50"}},
-        {"name": "NA-CNTNT-02-M", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_02_m_300x250"}},
-        {"name": "NA-CNTNT-03-M", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_03_m_300x250"}},
-        {"name": "NA-CNTNT-04-M", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_04_m_320x50"}},
-        {"name": "NA-CNTNT-05-M", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_05_m_320x50"}},
-        {"name": "NA-CNTNT-06-M", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_06_m_300x250"}},
-        {"name": "NA-CNTNT-07-M", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_07_m_300x250"}},
-        {"name": "NA-CNTNT-08-M", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_08_m_320x100"}},
-        {"name": "NA-CNTNT-09-M", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_09_m_320x100"}},
-        {"name": "NA-CNTNT-10-M", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_10_m_320x100"}},
-        {"name": "NA-CNTNT-01-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_01_t_728x90"}},
-        {"name": "NA-CNTNT-02-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_02_t_300x250"}},
-        {"name": "NA-CNTNT-03-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_03_t_300x250"}},
-        {"name": "NA-CNTNT-04-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_04_t_728x90"}},
-        {"name": "NA-CNTNT-05-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_05_t_728x90"}},
-        {"name": "NA-CNTNT-06-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_06_t_300x250"}},
-        {"name": "NA-CNTNT-07-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_07_t_300x250"}},
-        {"name": "NA-CNTNT-08-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_08_t_728x90"}},
-        {"name": "NA-CNTNT-09-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_09_t_728x90"}},
-        {"name": "NA-CNTNT-10-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_cntnt_10_t_728x90"}},
-        {"name": "NA-SDBR-01-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_sdbr_01_t_300x600"}},
-        {"name": "NA-SDBR-02-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_sdbr_02_t_160x600"}},
-        {"name": "NA-SDBR-03-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_sdbr_03_t_300x250"}},
-        {"name": "NA-SDBR-04-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_sdbr_04_t_160x600"}},
-        {"name": "NA-SDBR-05-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_sdbr_05_t_300x250"}},
-        {"name": "NA-OOP-01-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_oop_01_t_160x600"}},
-        {"name": "NA-OOP-02-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_oop_02_t_160x600"}},
-        {"name": "NA-OOP-03-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_oop_03_t_300x250"}},
-        {"name": "NA-OOP-04-T", "params": {"dcn": "2c9d2b4f015d5dc21be5d2cd385b01f6", "pos": "na_oop_04_t_300x250"}}
+	{"name": "NA-SLD-TOP-D", "params": {"network": 10556.1, "placement": 4579707}},
+	{"name": "NA-SLD-BTM-D", "params": {"network": 10556.1, "placement": 4579704}},
+	{"name": "NA-SLD-LFT-D", "params": {"network": 10556.1, "placement": 4579714}},
+	{"name": "NA-SLD-R1-D", "params": {"network": 10556.1, "placement": 4579711}},
+	{"name": "NA-SLD-R2-D", "params": {"network": 10556.1, "placement": 4579717}}
       ]},{ "name": "appnexus","tags": [
-        {"name": "NA-CNTNT-01-D", "params": {"placementId": 11427935}},
-        {"name": "NA-CNTNT-01-T", "params": {"placementId": 11427939}},
-        {"name": "NA-CNTNT-01-M", "params": {"placementId": 11427949}},
-        {"name": "NA-CNTNT-02-D", "params": {"placementId": 11427955}},
-        {"name": "NA-CNTNT-02-T", "params": {"placementId": 11427959}},
-        {"name": "NA-CNTNT-02-M", "params": {"placementId": 11427961}},
-        {"name": "NA-CNTNT-03-D", "params": {"placementId": 11427963}},
-        {"name": "NA-CNTNT-03-T", "params": {"placementId": 11427964}},
-        {"name": "NA-CNTNT-03-M", "params": {"placementId": 11427965}},
-        {"name": "NA-CNTNT-04-D", "params": {"placementId": 11427989}},
-        {"name": "NA-CNTNT-04-T", "params": {"placementId": 11427992}},
-        {"name": "NA-CNTNT-04-M", "params": {"placementId": 11427993}},
-        {"name": "NA-CNTNT-05-D", "params": {"placementId": 11427994}},
-        {"name": "NA-CNTNT-05-T", "params": {"placementId": 11427995}},
-        {"name": "NA-CNTNT-05-M", "params": {"placementId": 11427997}},
-        {"name": "NA-CNTNT-06-D", "params": {"placementId": 11428021}},
-        {"name": "NA-CNTNT-06-T", "params": {"placementId": 11428025}},
-        {"name": "NA-CNTNT-06-M", "params": {"placementId": 11428028}},
-        {"name": "NA-CNTNT-07-D", "params": {"placementId": 11428128}},
-        {"name": "NA-CNTNT-07-T", "params": {"placementId": 11428322}},
-        {"name": "NA-CNTNT-07-M", "params": {"placementId": 11428328}},
-        {"name": "NA-SDBR-01-T", "params": {"placementId": 11431708}},
-        {"name": "NA-SDBR-01-D", "params": {"placementId": 11431716}},
-        {"name": "NA-SDBR-02-T", "params": {"placementId": 11431719}},
-        {"name": "NA-SDBR-02-D", "params": {"placementId": 11431725}},
-        {"name": "NA-SDBR-03-T", "params": {"placementId": 11431738}},
-        {"name": "NA-SDBR-03-D", "params": {"placementId": 11431742}},
-        {"name": "NA-SDBR-04-T", "params": {"placementId": 11431755}},
-        {"name": "NA-SDBR-04-D", "params": {"placementId": 11431764}},
-        {"name": "NA-SDBR-05-T", "params": {"placementId": 11431770}},
-        {"name": "NA-SDBR-05-D", "params": {"placementId": 11431782}}
+        {"name": "NA-CNTNT-01-D", "params": {"placementId": 13658689}},
+        {"name": "NA-CNTNT-01-T", "params": {"placementId": 13658692}},
+        {"name": "NA-CNTNT-01-M", "params": {"placementId": 13658694}},
+        {"name": "NA-CNTNT-02-D", "params": {"placementId": 13658696}},
+        {"name": "NA-CNTNT-02-T", "params": {"placementId": 13658697}},
+        {"name": "NA-CNTNT-02-M", "params": {"placementId": 13658699}},
+        {"name": "NA-CNTNT-03-D", "params": {"placementId": 13658701}},
+        {"name": "NA-CNTNT-03-T", "params": {"placementId": 13658704}},
+        {"name": "NA-CNTNT-03-M", "params": {"placementId": 13658706}},
+        {"name": "NA-CNTNT-04-D", "params": {"placementId": 13658708}},
+        {"name": "NA-CNTNT-04-T", "params": {"placementId": 13658710}},
+        {"name": "NA-CNTNT-04-M", "params": {"placementId": 13658711}},
+        {"name": "NA-CNTNT-05-D", "params": {"placementId": 13658716}},
+        {"name": "NA-CNTNT-05-T", "params": {"placementId": 13658717}},
+        {"name": "NA-CNTNT-05-M", "params": {"placementId": 13658718}},
+        {"name": "NA-CNTNT-06-D", "params": {"placementId": 13658719}},
+        {"name": "NA-CNTNT-06-T", "params": {"placementId": 13658720}},
+        {"name": "NA-CNTNT-06-M", "params": {"placementId": 13658721}},
+        {"name": "NA-CNTNT-07-D", "params": {"placementId": 13658722}},
+        {"name": "NA-CNTNT-07-T", "params": {"placementId": 13658723}},
+        {"name": "NA-CNTNT-07-M", "params": {"placementId": 13658724}},
+        {"name": "NA-CNTNT-08-D", "params": {"placementId": 14057527}},
+        {"name": "NA-CNTNT-08-T", "params": {"placementId": 14057528}},
+        {"name": "NA-CNTNT-08-M", "params": {"placementId": 14057529}},
+        {"name": "NA-CNTNT-09-D", "params": {"placementId": 14057530}},
+        {"name": "NA-CNTNT-09-T", "params": {"placementId": 14057531}},
+        {"name": "NA-CNTNT-09-M", "params": {"placementId": 14057532}},
+        {"name": "NA-CNTNT-10-D", "params": {"placementId": 14057533}},
+        {"name": "NA-CNTNT-10-T", "params": {"placementId": 14057534}},
+        {"name": "NA-CNTNT-10-M", "params": {"placementId": 14057535}},
+        {"name": "NA-SDBR-01-T", "params": {"placementId": 13658726}},
+        {"name": "NA-SDBR-01-D", "params": {"placementId": 13658727}},
+        {"name": "NA-SDBR-02-T", "params": {"placementId": 13658728}},
+        {"name": "NA-SDBR-02-D", "params": {"placementId": 13658729}},
+        {"name": "NA-SDBR-03-T", "params": {"placementId": 13658730}},
+        {"name": "NA-SDBR-03-D", "params": {"placementId": 13658732}},
+        {"name": "NA-SDBR-04-T", "params": {"placementId": 13658734}},
+        {"name": "NA-SDBR-04-D", "params": {"placementId": 13658736}},
+        {"name": "NA-SDBR-05-T", "params": {"placementId": 13658737}},
+        {"name": "NA-SDBR-05-D", "params": {"placementId": 13658738}},
+        {"name": "NA-SLD-TOP-D", "params": {"placementId": 13658689}},
+        {"name": "NA-SLD-TOP-T", "params": {"placementId": 13658692}},
+        {"name": "NA-SLD-TOP-M", "params": {"placementId": 13658694}},
+        {"name": "NA-SLD-BTM-D", "params": {"placementId": 13658716}},
+        {"name": "NA-SLD-BTM-T", "params": {"placementId": 13658717}},
+        {"name": "NA-SLD-BTM-M", "params": {"placementId": 13658718}},
+        {"name": "NA-SLD-LFT-D", "params": {"placementId": 13658729}},
+        {"name": "NA-SLD-R1-D", "params": {"placementId": 13658738}},
+        {"name": "NA-SLD-R1-T", "params": {"placementId": 13658737}},
+        {"name": "NA-SLD-R1-M", "params": {"placementId": 13658699}},
+        {"name": "NA-SLD-R2-D", "params": {"placementId": 13658727}}
       ]},{ "name": "brealtime","tags": [
-        {"name": "NA-CNTNT-02-M", "params": {"placementId": 11436636}},
         {"name": "NA-CNTNT-01-M", "params": {"placementId": 11436637}},
+        {"name": "NA-CNTNT-02-M", "params": {"placementId": 11436636}},
         {"name": "NA-CNTNT-03-M", "params": {"placementId": 11436638}},
         {"name": "NA-CNTNT-04-M", "params": {"placementId": 11436639}},
         {"name": "NA-CNTNT-05-M", "params": {"placementId": 11436640}},
         {"name": "NA-CNTNT-06-M", "params": {"placementId": 11436641}},
         {"name": "NA-CNTNT-07-M", "params": {"placementId": 11436642}},
-        {"name": "NA-CNTNT-10-M", "params": {"placementId": 11436643}},
         {"name": "NA-CNTNT-08-M", "params": {"placementId": 11436644}},
         {"name": "NA-CNTNT-09-M", "params": {"placementId": 11436645}},
+        {"name": "NA-CNTNT-10-M", "params": {"placementId": 11436643}},
         {"name": "NA-CNTNT-01-T", "params": {"placementId": 11436647}},
         {"name": "NA-CNTNT-02-T", "params": {"placementId": 11436648}},
-        {"name": "NA-CNTNT-05-T", "params": {"placementId": 11436649}},
         {"name": "NA-CNTNT-03-T", "params": {"placementId": 11436650}},
         {"name": "NA-CNTNT-04-T", "params": {"placementId": 11436651}},
+        {"name": "NA-CNTNT-05-T", "params": {"placementId": 11436649}},
         {"name": "NA-CNTNT-06-T", "params": {"placementId": 11436652}},
+        {"name": "NA-CNTNT-07-T", "params": {"placementId": 11436655}},
         {"name": "NA-CNTNT-08-T", "params": {"placementId": 11436653}},
         {"name": "NA-CNTNT-09-T", "params": {"placementId": 11436654}},
-        {"name": "NA-CNTNT-07-T", "params": {"placementId": 11436655}},
         {"name": "NA-CNTNT-10-T", "params": {"placementId": 11436656}},
         {"name": "NA-SDBR-01-T", "params": {"placementId": 11436657}},
         {"name": "NA-SDBR-02-T", "params": {"placementId": 11436658}},
@@ -332,42 +326,64 @@ var hbxRawHbTags = { "partners" : [ { "name": "aol","tags": [
         {"name": "NA-OOP-01-D", "params": {"placementId": 11436681}},
         {"name": "NA-OOP-02-D", "params": {"placementId": 11436682}},
         {"name": "NA-OOP-03-D", "params": {"placementId": 11436683}},
-        {"name": "NA-OOP-04-D", "params": {"placementId": 11436684}}
+        {"name": "NA-OOP-04-D", "params": {"placementId": 11436684}},
+        {"name": "NA-SLD-TOP-D", "params": {"placementId": 11436666}},
+        {"name": "NA-SLD-TOP-T", "params": {"placementId": 11436647}},
+        {"name": "NA-SLD-TOP-M", "params": {"placementId": 11436637}},
+        {"name": "NA-SLD-BTM-D", "params": {"placementId": 11436670}},
+        {"name": "NA-SLD-BTM-T", "params": {"placementId": 11436649}},
+        {"name": "NA-SLD-BTM-M", "params": {"placementId": 11436640}},
+        {"name": "NA-SLD-LFT-D", "params": {"placementId": 11436677}},
+        {"name": "NA-SLD-R1-D", "params": {"placementId": 11436680}},
+        {"name": "NA-SLD-R1-T", "params": {"placementId": 11436661}},
+        {"name": "NA-SLD-R1-M", "params": {"placementId": 11436636}},
+        {"name": "NA-SLD-R2-D", "params": {"placementId": 11436676}}
       ]},{ "name": "conversant","tags": [
-        {"name": "NA-CNTNT-01-D", "params": {"site_id": 111564}},
-        {"name": "NA-CNTNT-02-D", "params": {"site_id": 111564}},
-        {"name": "NA-CNTNT-03-D", "params": {"site_id": 111564}},
-        {"name": "NA-CNTNT-04-D", "params": {"site_id": 111564}},
-        {"name": "NA-CNTNT-05-D", "params": {"site_id": 111564}},
-        {"name": "NA-CNTNT-06-D", "params": {"site_id": 111564}},
-        {"name": "NA-CNTNT-07-D", "params": {"site_id": 111564}},
-        {"name": "NA-SDBR-01-D", "params": {"site_id": 111564}},
-        {"name": "NA-SDBR-02-D", "params": {"site_id": 111564}},
-        {"name": "NA-SDBR-03-D", "params": {"site_id": 111564}},
-        {"name": "NA-SDBR-04-D", "params": {"site_id": 111564}},
-        {"name": "NA-SDBR-05-D", "params": {"site_id": 111564}},
-        {"name": "NA-CNTNT-01-T", "params": {"site_id": 111691}},
-        {"name": "NA-CNTNT-02-T", "params": {"site_id": 111691}},
-        {"name": "NA-CNTNT-03-T", "params": {"site_id": 111691}},
-        {"name": "NA-CNTNT-04-T", "params": {"site_id": 111691}},
-        {"name": "NA-CNTNT-05-T", "params": {"site_id": 111691}},
-        {"name": "NA-CNTNT-06-T", "params": {"site_id": 111691}},
-        {"name": "NA-CNTNT-07-T", "params": {"site_id": 111691}},
-        {"name": "NA-CNTNT-08-T", "params": {"site_id": 111691}},
-        {"name": "NA-CNTNT-09-T", "params": {"site_id": 111691}},
-        {"name": "NA-CNTNT-10-T", "params": {"site_id": 111691}},
-        {"name": "NA-SDBR-01-T", "params": {"site_id": 111691}},
-        {"name": "NA-SDBR-02-T", "params": {"site_id": 111691}},
-        {"name": "NA-SDBR-03-T", "params": {"site_id": 111691}},
-        {"name": "NA-SDBR-04-T", "params": {"site_id": 111691}},
-        {"name": "NA-SDBR-05-T", "params": {"site_id": 111691}},
-        {"name": "NA-CNTNT-01-M", "params": {"site_id": 111669}},
-        {"name": "NA-CNTNT-02-M", "params": {"site_id": 111669}},
-        {"name": "NA-CNTNT-03-M", "params": {"site_id": 111669}},
-        {"name": "NA-CNTNT-04-M", "params": {"site_id": 111669}},
-        {"name": "NA-CNTNT-05-M", "params": {"site_id": 111669}},
-        {"name": "NA-CNTNT-06-M", "params": {"site_id": 111669}},
-        {"name": "NA-CNTNT-07-M", "params": {"site_id": 111669}}
+        {"name": "NA-CNTNT-01-D", "params": {"site_id": "111564"}},
+        {"name": "NA-CNTNT-02-D", "params": {"site_id": "111564"}},
+        {"name": "NA-CNTNT-03-D", "params": {"site_id": "111564"}},
+        {"name": "NA-CNTNT-04-D", "params": {"site_id": "111564"}},
+        {"name": "NA-CNTNT-05-D", "params": {"site_id": "111564"}},
+        {"name": "NA-CNTNT-06-D", "params": {"site_id": "111564"}},
+        {"name": "NA-CNTNT-07-D", "params": {"site_id": "111564"}},
+        {"name": "NA-SDBR-01-D", "params": {"site_id": "111564"}},
+        {"name": "NA-SDBR-02-D", "params": {"site_id": "111564"}},
+        {"name": "NA-SDBR-03-D", "params": {"site_id": "111564"}},
+        {"name": "NA-SDBR-04-D", "params": {"site_id": "111564"}},
+        {"name": "NA-SDBR-05-D", "params": {"site_id": "111564"}},
+        {"name": "NA-CNTNT-01-T", "params": {"site_id": "111691"}},
+        {"name": "NA-CNTNT-02-T", "params": {"site_id": "111691"}},
+        {"name": "NA-CNTNT-03-T", "params": {"site_id": "111691"}},
+        {"name": "NA-CNTNT-04-T", "params": {"site_id": "111691"}},
+        {"name": "NA-CNTNT-05-T", "params": {"site_id": "111691"}},
+        {"name": "NA-CNTNT-06-T", "params": {"site_id": "111691"}},
+        {"name": "NA-CNTNT-07-T", "params": {"site_id": "111691"}},
+        {"name": "NA-CNTNT-08-T", "params": {"site_id": "111691"}},
+        {"name": "NA-CNTNT-09-T", "params": {"site_id": "111691"}},
+        {"name": "NA-CNTNT-10-T", "params": {"site_id": "111691"}},
+        {"name": "NA-SDBR-01-T", "params": {"site_id": "111691"}},
+        {"name": "NA-SDBR-02-T", "params": {"site_id": "111691"}},
+        {"name": "NA-SDBR-03-T", "params": {"site_id": "111691"}},
+        {"name": "NA-SDBR-04-T", "params": {"site_id": "111691"}},
+        {"name": "NA-SDBR-05-T", "params": {"site_id": "111691"}},
+        {"name": "NA-CNTNT-01-M", "params": {"site_id": "111669"}},
+        {"name": "NA-CNTNT-02-M", "params": {"site_id": "111669"}},
+        {"name": "NA-CNTNT-03-M", "params": {"site_id": "111669"}},
+        {"name": "NA-CNTNT-04-M", "params": {"site_id": "111669"}},
+        {"name": "NA-CNTNT-05-M", "params": {"site_id": "111669"}},
+        {"name": "NA-CNTNT-06-M", "params": {"site_id": "111669"}},
+        {"name": "NA-CNTNT-07-M", "params": {"site_id": "111669"}},
+        {"name": "NA-SLD-TOP-D", "params": {"site_id": "111564"}},
+        {"name": "NA-SLD-TOP-T", "params": {"site_id": "111691"}},
+        {"name": "NA-SLD-TOP-M", "params": {"site_id": "111669"}},
+        {"name": "NA-SLD-BTM-D", "params": {"site_id": "111564"}},
+        {"name": "NA-SLD-BTM-T", "params": {"site_id": "111691"}},
+        {"name": "NA-SLD-BTM-M", "params": {"site_id": "111669"}},
+        {"name": "NA-SLD-LFT-D", "params": {"site_id": "111564"}},
+        {"name": "NA-SLD-R1-D", "params": {"site_id": "111564"}},
+        {"name": "NA-SLD-R1-T", "params": {"site_id": "111691"}},
+        {"name": "NA-SLD-R1-M", "params": {"site_id": "111669"}},
+        {"name": "NA-SLD-R2-D", "params": {"site_id": "111564"}}
       ]},{ "name": "criteo","tags": [
         {"name": "NA-CNTNT-01-M", "params": {"zoneId": 773235}},
         {"name": "NA-CNTNT-02-M", "params": {"zoneId": 773237}},
@@ -416,7 +432,18 @@ var hbxRawHbTags = { "partners" : [ { "name": "aol","tags": [
         {"name": "NA-OOP-01-D", "params": {"zoneId": 773189}},
         {"name": "NA-OOP-02-D", "params": {"zoneId": 773202}},
         {"name": "NA-OOP-03-D", "params": {"zoneId": 773204}},
-        {"name": "NA-OOP-04-D", "params": {"zoneId": 773206}}
+        {"name": "NA-OOP-04-D", "params": {"zoneId": 773206}},
+        {"name": "NA-SLD-TOP-D", "params": {"zoneId": 773136}},
+        {"name": "NA-SLD-TOP-T", "params": {"zoneId": 773136}},
+        {"name": "NA-SLD-TOP-M", "params": {"zoneId": 773235}},
+        {"name": "NA-SLD-BTM-D", "params": {"zoneId": 773141}},
+        {"name": "NA-SLD-BTM-T", "params": {"zoneId": 773141}},
+        {"name": "NA-SLD-BTM-M", "params": {"zoneId": 773241}},
+        {"name": "NA-SLD-LFT-D", "params": {"zoneId": 773180}},
+        {"name": "NA-SLD-R1-D", "params": {"zoneId": 773186}},
+        {"name": "NA-SLD-R1-T", "params": {"zoneId": 773186}},
+        {"name": "NA-SLD-R1-M", "params": {"zoneId": 773237}},
+        {"name": "NA-SLD-R2-D", "params": {"zoneId": 772423}}
       ]},{ "name": "districtm","tags": [
         {"name": "NA-CNTNT-01-D", "params": {"placementId": 11424046}},
         {"name": "NA-CNTNT-01-M", "params": {"placementId": 11424019}},
@@ -462,15 +489,28 @@ var hbxRawHbTags = { "partners" : [ { "name": "aol","tags": [
         {"name": "NA-SDBR-04-D", "params": {"placementId": 11424059}},
         {"name": "NA-SDBR-04-T", "params": {"placementId": 11424039}},
         {"name": "NA-SDBR-05-D", "params": {"placementId": 11424060}},
-        {"name": "NA-SDBR-05-T", "params": {"placementId": 11424040}}
+        {"name": "NA-SDBR-05-T", "params": {"placementId": 11424040}},
+        {"name": "NA-SLD-TOP-D", "params": {"placementId": 11424046}},
+        {"name": "NA-SLD-TOP-T", "params": {"placementId": 11424026}},
+        {"name": "NA-SLD-TOP-M", "params": {"placementId": 11424019}},
+        {"name": "NA-SLD-BTM-D", "params": {"placementId": 11424050}},
+        {"name": "NA-SLD-BTM-T", "params": {"placementId": 11424030}},
+        {"name": "NA-SLD-BTM-M", "params": {"placementId": 11424023}},
+        {"name": "NA-SLD-LFT-D", "params": {"placementId": 11424057}},
+        {"name": "NA-SLD-R1-D", "params": {"placementId": 11424060}},
+        {"name": "NA-SLD-R1-T", "params": {"placementId": 11424040}},
+        {"name": "NA-SLD-R1-M", "params": {"placementId": 11424020}},
+        {"name": "NA-SLD-R2-D", "params": {"placementId": 11424056}}
       ]},{ "name": "audienceNetwork","tags": [
-        {"name": "NA-CNTNT-02-M", "params": {"placementId": "531179697245337_532595757103731"}},
-        {"name": "NA-CNTNT-03-M", "params": {"placementId": "531179697245337_532595833770390"}},
-        {"name": "NA-CNTNT-07-M", "params": {"placementId": "531179697245337_532595880437052"}},
-        {"name": "NA-CNTNT-02-T", "params": {"placementId": "531179697245337_532595930437047"}},
-        {"name": "NA-CNTNT-03-T", "params": {"placementId": "531179697245337_532596030437037"}},
-        {"name": "NA-CNTNT-07-T", "params": {"placementId": "531179697245337_532596073770366"}}
-      ] },{ "name": "indexExchange","tags": [
+        {"name": "NA-CNTNT-02-M", "params": {"placementId": "685745555108886_722526471430794"}},
+        {"name": "NA-CNTNT-03-M", "params": {"placementId": "685745555108886_722527238097384"}},
+        {"name": "NA-CNTNT-07-M", "params": {"placementId": "685745555108886_722527504764024"}},
+        {"name": "NA-CNTNT-02-T", "params": {"placementId": "685745555108886_722527754763999"}},
+        {"name": "NA-CNTNT-03-T", "params": {"placementId": "685745555108886_722528231430618"}},
+        {"name": "NA-CNTNT-07-T", "params": {"placementId": "685745555108886_722527951430646"}},
+        {"name": "NA-SLD-R1-M", "params": {"placementId": "685745555108886_722526471430794"}},
+        {"name": "NA-SLD-R1-T", "params": {"placementId": "685745555108886_722527754763999"}}
+      ]},{ "name": "indexExchange","tags": [
         {"name": "NA-CNTNT-01-M", "params": {"siteID": 203164, "id": "01"}},
         {"name": "NA-CNTNT-02-M", "params": {"siteID": 203165, "id": "02"}},
         {"name": "NA-CNTNT-03-M", "params": {"siteID": 203166, "id": "03"}},
@@ -518,53 +558,27 @@ var hbxRawHbTags = { "partners" : [ { "name": "aol","tags": [
         {"name": "NA-OOP-01-D", "params": {"siteID": 203141, "id": "16"}},
         {"name": "NA-OOP-02-D", "params": {"siteID": 203142, "id": "17"}},
         {"name": "NA-OOP-03-D", "params": {"siteID": 203143, "id": "18"}},
-        {"name": "NA-OOP-04-D", "params": {"siteID": 203144, "id": "19"}}
+        {"name": "NA-OOP-04-D", "params": {"siteID": 203144, "id": "19"}},
+        {"name": "NA-SLD-TOP-D", "params": {"siteID": 203126, "id": "01"}},
+        {"name": "NA-SLD-TOP-T", "params": {"siteID": 203145, "id": "01"}},
+        {"name": "NA-SLD-TOP-M", "params": {"siteID": 203164, "id": "01"}},
+        {"name": "NA-SLD-BTM-D", "params": {"siteID": 203130, "id": "05"}},
+        {"name": "NA-SLD-BTM-T", "params": {"siteID": 203149, "id": "05"}},
+        {"name": "NA-SLD-BTM-M", "params": {"siteID": 203168, "id": "05"}},
+        {"name": "NA-SLD-LFT-D", "params": {"siteID": 203137, "id": "12"}},
+        {"name": "NA-SLD-R1-D", "params": {"siteID": 203140, "id": "15"}},
+        {"name": "NA-SLD-R1-T", "params": {"siteID": 203159, "id": "05"}},
+        {"name": "NA-SLD-R1-M", "params": {"siteID": 203165, "id": "02"}},
+        {"name": "NA-SLD-R2-D", "params": {"siteID": 203136, "id": "11"}}
       ]},{ "name": "openx","tags": [
-        {"name": "NA-CNTNT-01-M", "params": {"unit": 539108736, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-02-M", "params": {"unit": 539108737, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-03-M", "params": {"unit": 539108738, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-04-M", "params": {"unit": 539108739, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-05-M", "params": {"unit": 539108740, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-06-M", "params": {"unit": 539108741, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-07-M", "params": {"unit": 539108742, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-01-T", "params": {"unit": 539108743, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-02-T", "params": {"unit": 539108744, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-03-T", "params": {"unit": 539108745, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-04-T", "params": {"unit": 539108746, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-05-T", "params": {"unit": 539108747, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-06-T", "params": {"unit": 539108748, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-07-T", "params": {"unit": 539108749, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-08-T", "params": {"unit": 539108750, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-09-T", "params": {"unit": 539108751, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-10-T", "params": {"unit": 539108752, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-SDBR-01-T", "params": {"unit": 539108753, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-SDBR-02-T", "params": {"unit": 539108754, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-SDBR-03-T", "params": {"unit": 539108755, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-SDBR-04-T", "params": {"unit": 539108756, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-SDBR-05-T", "params": {"unit": 539108757, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-OOP-01-T", "params": {"unit": 539108758, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-OOP-02-T", "params": {"unit": 539108759, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-OOP-03-T", "params": {"unit": 539108760, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-OOP-04-T", "params": {"unit": 539108761, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-01-D", "params": {"unit": 539108762, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-02-D", "params": {"unit": 539108763, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-03-D", "params": {"unit": 539108764, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-04-D", "params": {"unit": 539108765, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-05-D", "params": {"unit": 539108766, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-06-D", "params": {"unit": 539108767, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-07-D", "params": {"unit": 539108768, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-08-D", "params": {"unit": 539108769, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-09-D", "params": {"unit": 539108770, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-CNTNT-10-D", "params": {"unit": 539108771, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-SDBR-01-D", "params": {"unit": 539108772, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-SDBR-02-D", "params": {"unit": 539108773, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-SDBR-03-D", "params": {"unit": 539108774, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-SDBR-04-D", "params": {"unit": 539108775, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-SDBR-05-D", "params": {"unit": 539108776, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-OOP-01-D", "params": {"unit": 539108777, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-OOP-02-D", "params": {"unit": 539108778, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-OOP-03-D", "params": {"unit": 539108779, "delDomain": "egraffiti-d.openx.net"}},
-        {"name": "NA-OOP-04-D", "params": {"unit": 539108780, "delDomain": "egraffiti-d.openx.net"}}
+        {"name": "NA-CNTNT-01-M", "params": {"unit": 540341596, "delDomain": "brightcast-d.openx.net"}},
+        {"name": "NA-CNTNT-02-M", "params": {"unit": 540341597, "delDomain": "brightcast-d.openx.net"}},
+        {"name": "NA-CNTNT-01-T", "params": {"unit": 540341601, "delDomain": "brightcast-d.openx.net"}},
+        {"name": "NA-CNTNT-02-T", "params": {"unit": 540341602, "delDomain": "brightcast-d.openx.net"}},
+        {"name": "NA-CNTNT-01-D", "params": {"unit": 540341611, "delDomain": "brightcast-d.openx.net"}},
+        {"name": "NA-CNTNT-02-D", "params": {"unit": 540341612, "delDomain": "brightcast-d.openx.net"}},
+        {"name": "NA-SDBR-01-D", "params": {"unit": 540341616, "delDomain": "brightcast-d.openx.net"}},
+        {"name": "NA-SDBR-05-D", "params": {"unit": 540341620, "delDomain": "brightcast-d.openx.net"}}
       ]},{ "name": "rubicon","tags": [
         {"name": "NA-CNTNT-01-D", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654902"}},
         {"name": "NA-CNTNT-01-T", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654904"}},
@@ -596,7 +610,18 @@ var hbxRawHbTags = { "partners" : [ { "name": "aol","tags": [
         {"name": "NA-SDBR-04-T", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654988"}},
         {"name": "NA-SDBR-04-D", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654986"}},
         {"name": "NA-SDBR-05-T", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654996"}},
-        {"name": "NA-SDBR-05-D", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654994"}}
+        {"name": "NA-SDBR-05-D", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654994"}},
+        {"name": "NA-SLD-TOP-D", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654902"}},
+        {"name": "NA-SLD-TOP-T", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654904"}},
+        {"name": "NA-SLD-TOP-M", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654906"}},
+        {"name": "NA-SLD-BTM-D", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654936"}},
+        {"name": "NA-SLD-BTM-T", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654938"}},
+        {"name": "NA-SLD-BTM-M", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654942"}},
+        {"name": "NA-SLD-LFT-D", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654978"}},
+        {"name": "NA-SLD-R1-D", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654994"}},
+        {"name": "NA-SLD-R1-T", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654996"}},
+        {"name": "NA-SLD-R1-M", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654916"}},
+        {"name": "NA-SLD-R2-D", "params": {"accountId": "16218", "siteId": "140076", "zoneId" : "654968"}}
       ]},{ "name": "sovrn","tags": [
         {"name": "NA-CNTNT-01-M", "params": {"tagid": "478133"}},
         {"name": "NA-CNTNT-02-M", "params": {"tagid": "478134"}},
@@ -643,23 +668,37 @@ var hbxRawHbTags = { "partners" : [ { "name": "aol","tags": [
         {"name": "NA-OOP-02-D", "params": {"tagid": "478191"}},
         {"name": "NA-OOP-03-D", "params": {"tagid": "478192"}},
         {"name": "NA-OOP-04-D", "params": {"tagid": "478193"}},
+        {"name": "NA-SLD-TOP-D", "params": {"tagid": "478163"}},
+        {"name": "NA-SLD-TOP-T", "params": {"tagid": "478141"}},
+        {"name": "NA-SLD-TOP-M", "params": {"tagid": "478133"}},
+        {"name": "NA-SLD-BTM-D", "params": {"tagid": "478172"}},
+        {"name": "NA-SLD-BTM-T", "params": {"tagid": "478148"}},
+        {"name": "NA-SLD-BTM-M", "params": {"tagid": "478137"}},
+        {"name": "NA-SLD-LFT-D", "params": {"tagid": "478183"}},
+        {"name": "NA-SLD-R1-D", "params": {"tagid": "478187"}},
+        {"name": "NA-SLD-R1-T", "params": {"tagid": "478158"}},
+        {"name": "NA-SLD-R1-M", "params": {"tagid": "478134"}},
+        {"name": "NA-SLD-R2-D", "params": {"tagid": "478181"}}
       ]},{ "name": "triplelift","tags": [
-          {"name": "NA-CNTNT-02-M", "params": {"inventoryCode": "NA-CNTNT-02-M"}},
-          {"name": "NA-CNTNT-03-M", "params": {"inventoryCode": "NA-CNTNT-03-M"}},
-          {"name": "NA-CNTNT-06-M", "params": {"inventoryCode": "NA-CNTNT-06-M"}},
-          {"name": "NA-CNTNT-07-M", "params": {"inventoryCode": "NA-CNTNT-07-M"}},
-          {"name": "NA-CNTNT-02-T", "params": {"inventoryCode": "NA-CNTNT-02-T"}},
-          {"name": "NA-CNTNT-03-T", "params": {"inventoryCode": "NA-CNTNT-03-T"}},
-          {"name": "NA-CNTNT-06-T", "params": {"inventoryCode": "NA-CNTNT-06-T"}},
-          {"name": "NA-CNTNT-07-T", "params": {"inventoryCode": "NA-CNTNT-07-T"}},
-          {"name": "NA-SDBR-03-T", "params": {"inventoryCode": "NA-SDBR-03-T"}},
-          {"name": "NA-SDBR-04-T", "params": {"inventoryCode": "NA-SDBR-04-T"}},
-          {"name": "NA-CNTNT-02-D", "params": {"inventoryCode": "NA-CNTNT-02-D"}},
-          {"name": "NA-CNTNT-03-D", "params": {"inventoryCode": "NA-CNTNT-03-D"}},
-          {"name": "NA-CNTNT-06-D", "params": {"inventoryCode": "NA-CNTNT-06-D"}},
-          {"name": "NA-CNTNT-07-D", "params": {"inventoryCode": "NA-CNTNT-07-D"}},
-          {"name": "NA-SDBR-03-D", "params": {"inventoryCode": "NA-SDBR-03-D"}},
-          {"name": "NA-SDBR-05-D", "params": {"inventoryCode": "NA-SDBR-05-D"}}
+        {"name": "NA-CNTNT-02-M", "params": {"inventoryCode": "NA-CNTNT-02-M_x"}},
+        {"name": "NA-CNTNT-03-M", "params": {"inventoryCode": "NA-CNTNT-03-M_x"}},
+        {"name": "NA-CNTNT-06-M", "params": {"inventoryCode": "NA-CNTNT-06-M_x"}},
+        {"name": "NA-CNTNT-07-M", "params": {"inventoryCode": "NA-CNTNT-07-M_x"}},
+        {"name": "NA-CNTNT-02-T", "params": {"inventoryCode": "NA-CNTNT-02-T_x"}},
+        {"name": "NA-CNTNT-03-T", "params": {"inventoryCode": "NA-CNTNT-03-T_x"}},
+        {"name": "NA-CNTNT-06-T", "params": {"inventoryCode": "NA-CNTNT-06-T_x"}},
+        {"name": "NA-CNTNT-07-T", "params": {"inventoryCode": "NA-CNTNT-07-T_x"}},
+        {"name": "NA-SDBR-03-T", "params": {"inventoryCode": "NA-SDBR-03-T_x"}},
+        {"name": "NA-SDBR-04-T", "params": {"inventoryCode": "NA-SDBR-04-T_x"}},
+        {"name": "NA-CNTNT-02-D", "params": {"inventoryCode": "NA-CNTNT-02-D_x"}},
+        {"name": "NA-CNTNT-03-D", "params": {"inventoryCode": "NA-CNTNT-03-D_x"}},
+        {"name": "NA-CNTNT-06-D", "params": {"inventoryCode": "NA-CNTNT-06-D_x"}},
+        {"name": "NA-CNTNT-07-D", "params": {"inventoryCode": "NA-CNTNT-07-D_x"}},
+        {"name": "NA-SDBR-03-D", "params": {"inventoryCode": "NA-SDBR-03-D_x"}},
+        {"name": "NA-SDBR-05-D", "params": {"inventoryCode": "NA-SDBR-05-D_x"}},
+        {"name": "NA-SLD-R1-D", "params": {"inventoryCode": "NA-SDBR-05-D_x"}},
+        {"name": "NA-SLD-R1-T", "params": {"inventoryCode": "NA-SDBR-03-T_x"}},
+        {"name": "NA-SLD-R1-M", "params": {"inventoryCode": "NA-CNTNT-02-M_x"}}
       ]}] }
 </script>	<script type="text/javascript" src="http://newarena.com/wp-content/plugins/notifyx/notifyx.js"></script>
 	<script type="text/javascript">
@@ -676,43 +715,17 @@ var hbxRawHbTags = { "partners" : [ { "name": "aol","tags": [
 				window.location.href = "https" + window.location.href.slice(4);
 			}
 		}
-	</script><link rel="stylesheet" id="contact-form-7-css" href="http://newarena.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="style.css-css" href="http://newarena.com/wp-content/themes/na/style.css?ver=4.9.6" type="text/css" media="all">
+	</script><link rel="stylesheet" id="style.css-css" href="http://newarena.com/wp-content/themes/bright/style.css?ver=4.9.8" type="text/css" media="all">
 <script type="text/javascript" src="http://newarena.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" async="async" src="http://newarena.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var configuration = {"rendererBaseUrl":"\/\/renderer.qmerce.com","randomBaseUrl":"\/\/random.qmerce.com"};
-/* ]]> */
-</script>
-<script type="text/javascript" async="async" src="//d9etzk30b05yg.cloudfront.net/js/sdk/v2.0/apester-javascript-sdk.min.js?ver=4.9.6"></script>
+<script type="text/javascript" async="async" src="http://newarena.com/wp-content/uploads/abx_newarena.js"></script>
 <script type="text/javascript" async="async" src="http://newarena.com/wp-content/plugins/wp-hide-post/public/js/wp-hide-post-public.js?ver=2.0.10"></script>
-<link rel="https://api.w.org/" href="http://newarena.wpengine.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://newarena.com/xmlrpc.php?rsd">
+<link rel="https://api.w.org/" href="http://newarena.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://newarena.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://newarena.com/wp-includes/wlwmanifest.xml"> 
 <link rel="shortlink" href="http://newarena.com/?p=25">
-<link rel="alternate" type="application/json+oembed" href="http://newarena.wpengine.com/wp-json/?url=http%3A%2F%2Fnewarena.com%2Fprivacy-policy%2F">
-<link rel="alternate" type="text/xml+oembed" href="http://newarena.wpengine.com/wp-json/?url=http%3A%2F%2Fnewarena.com%2Fprivacy-policy%2F&amp;format=xml">
-<!-- Outbrain -->
-<script data-obct="" type="text/javascript">
-/** DO NOT MODIFY THIS CODE**/
-!function(_window, _document) {
-var OB_ADV_ID='0015c23eccf297b357e437a09a84846ee3';
-if (_window.obApi) { return; }
-var api = _window.obApi = function() {api.dispatch ? api.dispatch.apply(api, arguments) : api.queue.push(arguments);};api.version = '1.0';api.loaded = true;api.marketerId = OB_ADV_ID;api.queue = [];var tag = _document.createElement('script');tag.async = true;tag.src = '//amplify.outbrain.com/cp/obtp.js';tag.type = 'text/javascript';var script = _document.getElementsByTagName('script')[0];script.parentNode.insertBefore(tag, script);}(window, document);
-obApi('track', 'PAGE_VIEW');
-</script>
-
-<script data-obct="" type="text/javascript">
-  /** DO NOT MODIFY THIS CODE**/
-  !function(_window, _document) {
-    var OB_ADV_ID='008d8411bfad1e739db4996ef146b93d3e';
-    if (_window.obApi) {var toArray = function(object) {return Object.prototype.toString.call(object) === '[object Array]' ? object : [object];};_window.obApi.marketerId = toArray(_window.obApi.marketerId).concat(toArray(OB_ADV_ID));return;}
-    var api = _window.obApi = function() {api.dispatch ? api.dispatch.apply(api, arguments) : api.queue.push(arguments);};api.version = '1.1';api.loaded = true;api.marketerId = OB_ADV_ID;api.queue = [];var tag = _document.createElement('script');tag.async = true;tag.src = '//amplify.outbrain.com/cp/obtp.js';tag.type = 'text/javascript';var script = _document.getElementsByTagName('script')[0];script.parentNode.insertBefore(tag, script);}(window, document);
-obApi('track', 'PAGE_VIEW');
-</script>
-
-<!-- Facebook -->
+<link rel="alternate" type="application/json+oembed" href="http://newarena.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnewarena.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://newarena.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnewarena.com%2Fprivacy-policy%2F&amp;format=xml">
+<!-- Facebook (as) -->
 <!-- FB sdk-->
 <script>
   window.fbAsyncInit = function() {
@@ -741,12 +754,12 @@ obApi('track', 'PAGE_VIEW');
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 </script>
-<!-- YPA -->
+<!-- YPA (as) -->
 <!-- YPA -->
 <script src="https://s.yimg.com/uv/dm/scripts/syndication.js"></script>
-<!-- Yahoo Gemini -->
+<!-- Yahoo Gemini (as) -->
 <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10008708'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
-<!-- FB_Pixel -->
+<!-- FB_Pixel (as) -->
 <!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -762,9 +775,9 @@ src="https://www.facebook.com/tr?id=918920271541728&ev=PageView&noscript=1"
 /></noscript>
 <!-- DO NOT MODIFY -->
 <!-- End Facebook Pixel Code -->
-<!-- AdRizer -->
+<!-- AdRizer (as) -->
 <script src="//run.adrizer.com/track.min.js" id="ADRIZER_JS" data-domain="newarena.com"></script>
-<!-- Misc -->
+<!-- Misc (as) -->
 <style>
 .social-buttons-large, 
 .social-buttons {overflow: auto;}
@@ -869,51 +882,215 @@ var
 <script>
 genSocialButtons();
 </script>
+<!-- Outbrain (utm) -->
+<script data-obct="" type="text/javascript">
+/** DO NOT MODIFY THIS CODE**/
+!function(_window, _document) {
+var OB_ADV_ID='0015c23eccf297b357e437a09a84846ee3';
+if (_window.obApi) { return; }
+var api = _window.obApi = function() {api.dispatch ? api.dispatch.apply(api, arguments) : api.queue.push(arguments);};api.version = '1.0';api.loaded = true;api.marketerId = OB_ADV_ID;api.queue = [];var tag = _document.createElement('script');tag.async = true;tag.src = '//amplify.outbrain.com/cp/obtp.js';tag.type = 'text/javascript';var script = _document.getElementsByTagName('script')[0];script.parentNode.insertBefore(tag, script);}(window, document);
+obApi('track', 'PAGE_VIEW');
+</script>
+
+<script data-obct="" type="text/javascript">
+  /** DO NOT MODIFY THIS CODE**/
+  !function(_window, _document) {
+    var OB_ADV_ID='008d8411bfad1e739db4996ef146b93d3e';
+    if (_window.obApi) {var toArray = function(object) {return Object.prototype.toString.call(object) === '[object Array]' ? object : [object];};_window.obApi.marketerId = toArray(_window.obApi.marketerId).concat(toArray(OB_ADV_ID));return;}
+    var api = _window.obApi = function() {api.dispatch ? api.dispatch.apply(api, arguments) : api.queue.push(arguments);};api.version = '1.1';api.loaded = true;api.marketerId = OB_ADV_ID;api.queue = [];var tag = _document.createElement('script');tag.async = true;tag.src = '//amplify.outbrain.com/cp/obtp.js';tag.type = 'text/javascript';var script = _document.getElementsByTagName('script')[0];script.parentNode.insertBefore(tag, script);}(window, document);
+obApi('track', 'PAGE_VIEW');
+</script>
+
+<script data-obct="" type="text/javascript">
+  /** DO NOT MODIFY THIS CODE**/
+  !function(_window, _document) {
+    var OB_ADV_ID='00d3c92e8c67e3d7d563e31fc69c3fd109';
+    if (_window.obApi) {var toArray = function(object) {return Object.prototype.toString.call(object) === '[object Array]' ? object : [object];};_window.obApi.marketerId = toArray(_window.obApi.marketerId).concat(toArray(OB_ADV_ID));return;}
+    var api = _window.obApi = function() {api.dispatch ? api.dispatch.apply(api, arguments) : api.queue.push(arguments);};api.version = '1.1';api.loaded = true;api.marketerId = OB_ADV_ID;api.queue = [];var tag = _document.createElement('script');tag.async = true;tag.src = '//amplify.outbrain.com/cp/obtp.js';tag.type = 'text/javascript';var script = _document.getElementsByTagName('script')[0];script.parentNode.insertBefore(tag, script);}(window, document);
+obApi('track', 'PAGE_VIEW');
+</script>
+<!-- adwords (utm) -->
+<!-- Global site tag (gtag.js) - Google Ads: 786079312 --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-786079312"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-786079312'); </script>
+
+
+<script>
+if(typeof brightcast != "undefined" && brightcast.session && brightcast.session.pageviews == 10){
+  gtag('event', 'conversion', {'send_to': 'AW-786079312/bOUdCKjE5pABENC86vYC'}); 
+}
+</script>
+<!-- snapchat (utm) -->
+<!-- Snap Pixel Code -->
+<script type="text/javascript">
+(function(e,t,n){if(e.snaptr)return;var a=e.snaptr=function()
+{a.handleRequest?a.handleRequest.apply(a,arguments):a.queue.push(arguments)};
+a.queue=[];var s='script';r=t.createElement(s);r.async=!0;
+r.src=n;var u=t.getElementsByTagName(s)[0];
+u.parentNode.insertBefore(r,u);})(window,document,
+'https://sc-static.net/scevent.min.js');
+
+snaptr('init', '60eb0957-543f-42f2-94bc-9422df7eaed1', {
+'user_email': '__INSERT_USER_EMAIL__'
+});
+
+snaptr('track', 'PAGE_VIEW');
+
+</script>
+<!-- End Snap Pixel Code -->
 <script>
 window.amx_gtm = 1;
 window.amx_fb = 1;
+window.amx_tb = 1;
+window.amx_uid = 0;
+window.amx_adw = 1;
+window.amxOnClick = window.amxOnClick || [];
+
+
+/*
 !function(){jQuery.fn.iframeTracker=function(e){jQuery.iframeTracker.handlersList.push(e),jQuery(this).bind("mouseover",{handler:e},function(e){e.data.handler.over=!0;try{e.data.handler.overCallback(this)}catch(r){}}).bind("mouseout",{handler:e},function(e){e.data.handler.over=!1,jQuery.iframeTracker.focusRetriever.focus();try{e.data.handler.outCallback(this)}catch(r){}})},jQuery.iframeTracker={focusRetriever:null,focusRetrieved:!1,handlersList:[],isIE8AndOlder:!1,init:function(){try{1==jQuery.browser.msie&&jQuery.browser.version<9&&(this.isIE8AndOlder=!0)}catch(e){try{var r=navigator.userAgent.match(/(msie) ([\w.]+)/i);r[2]<9&&(this.isIE8AndOlder=!0)}catch(t){}}if(jQuery(window).focus(),jQuery(window).blur(function(e){jQuery.iframeTracker.windowLoseFocus(e)}),jQuery("body").append('<div style="position:fixed; top:0; left:0; overflow:hidden;"><input style="position:absolute; left:-300px;" type="text" value="" id="focus_retriever" readonly="true" /></div>'),this.focusRetriever=jQuery("#focus_retriever"),this.focusRetrieved=!1,jQuery(document).mousemove(function(){document.activeElement&&"IFRAME"==document.activeElement.tagName&&(jQuery.iframeTracker.focusRetriever.focus(),jQuery.iframeTracker.focusRetrieved=!0)}),this.isIE8AndOlder){this.focusRetriever.blur(function(e){e.stopPropagation(),e.preventDefault(),jQuery.iframeTracker.windowLoseFocus(e)}),jQuery("body").click(function(){jQuery(window).focus()}),jQuery("form").click(function(e){e.stopPropagation()});try{jQuery("body").on("click","form",function(e){e.stopPropagation()})}catch(e){console.log("[iframeTracker] Please update jQuery to 1.7 or newer. (exception: "+e.message+")")}}},windowLoseFocus:function(){for(var e in this.handlersList)if(1==this.handlersList[e].over)try{this.handlersList[e].blurCallback()}catch(r){}}},jQuery(document).ready(function(){jQuery.iframeTracker.init()})}(jQuery);
 
 
     var clickTrackCounters = {};
     var clickTrackDivSizes = {};
-    function amxClickTracking(divId)
+*/
+
+
+    window.Amx = 
     {
-    var
-        gtm = window.amx_gtm,
-        fb = window.amx_fb
-    ;
-        if ( ! clickTrackCounters.hasOwnProperty(divId)) {
-            clickTrackCounters[divId] = 1;
-        }
+        "overiFrame" : -1,
+        "iFrameCounter": {},
+        "pushGA" : function(id , event)
+            {
+                if(typeof dataLayer == "undefined")
+                    return;
 
-        if ( ! clickTrackDivSizes.hasOwnProperty(divId)) {
-            clickTrackDivSizes[divId] = jQuery('#'+ divId).length;
-        }
-        var newDivLength = jQuery('#'+ divId).length;
-        var externalIframe = jQuery('#'+ divId +' iframe');
+                var el = document.getElementById(id);
+                var divData = JSON.parse(el.getAttribute('data-unit'));
+                var data = {
+                    "event" : event,
+                    "eventCategory" : divData.slotName,
+                    "eventAction" : event,
+                    "eventLabel" : divData.source + " - " + divData.name
+                }
 
-        if (externalIframe.length == 0 && clickTrackCounters[divId] <= 100 && newDivLength == clickTrackDivSizes[divId]) {
-            clickTrackCounters[divId]++;
-            setTimeout(function(){amxClickTracking(divId)}, 500);
-        }
-        if (externalIframe.length != 0) {
-            jQuery('#'+ divId).unbind("click");
-            externalIframe.iframeTracker({
-                blurCallback: function(){
-                    element = document.getElementById(divId);
-                    if(gtm)
-                        dataLayer.push(JSON.parse(element.getAttribute('data-event')));
-                    if(fb)
-                        fbq('track', "AddToCart");
-                },
-        outCallback: function(element){
-            this._overId = null; // Reset hover iframe wrapper id
-        },
-            _overId: null
-            });
-        }
+                if(event == "adViewed")
+                {
+                    if(el.getAttribute('data-viewed') == "true") /*once*/
+                        return;
+                    if(amxIsVisible(id))
+                        el.setAttribute("data-viewed", "true");
+                    else
+                        return;
+
+                }
+
+                if(typeof brightcast !== "undefined" && window.amx_uid)
+                {
+                    if(brightcast && brightcast.session && brightcast.session.user_id)
+                    {
+                        data.eventLabel = brightcast.session.user_id + " - " + data.eventLabel;
+                    }
+                }
+
+                dataLayer.push(data);
+            },
+        "iFrameTracking" : function(divId)
+            {
+                
+                jQuery('#'+ divId + ' iframe').hover( function() {
+                    Amx.overiFrame = divId;
+                    jQuery('#'+ divId).unbind("click");
+                }, function() {
+                    Amx.overiFrame = -1
+                });
+
+                Amx.iFrameCounter[divId] = Amx.iFrameCounter[divId] || 1;
+                if(Amx.iFrameCounter[divId] < 5)
+                {
+                    Amx.iFrameCounter[divId]++;
+                    setTimeout(function(){Amx.iFrameTracking(divId)}, 1000);
+                }
+
+                // console.log(divId);
+            /*
+                var
+                    gtm = window.amx_gtm
+                ;
+                if ( ! clickTrackCounters.hasOwnProperty(divId)) {
+                    clickTrackCounters[divId] = 1;
+                }
+
+                if ( ! clickTrackDivSizes.hasOwnProperty(divId)) {
+                    clickTrackDivSizes[divId] = jQuery('#'+ divId).length;
+                }
+                var newDivLength = jQuery('#'+ divId).length;
+                var externalIframe = jQuery('#'+ divId +' iframe');
+
+                if (externalIframe.length == 0 && clickTrackCounters[divId] <= 100 && newDivLength == clickTrackDivSizes[divId]) {
+                    clickTrackCounters[divId]++;
+                    setTimeout(function(){Amx.clickTracking(divId)}, 500);
+                }
+                if (externalIframe.length != 0) {
+                    jQuery('#'+ divId).unbind("click");
+                    externalIframe.iframeTracker({
+                        blurCallback: function(){
+                            element = document.getElementById(divId);
+                            if(gtm)
+                                Amx.pushGA(divId, "adClick");
+                            Amx.clickEvents(divId);
+                        },
+                        outCallback: function(element){
+                            this._overId = null; // Reset hover iframe wrapper id
+                        },
+                        _overId: null
+                    });
+                }
+                */
+            },
+        "iframeClick" : function(divId)
+            {
+                var
+                    gtm = window.amx_gtm
+                ;
+                if(gtm)
+                    Amx.pushGA(divId, "adClick");
+                Amx.clickEvents(divId);
+
+            },
+        "clickEvents" : function (id)
+            {
+                var events = window.amxOnClick || [];
+                var el = document.getElementById(id);
+                var data = JSON.parse(el.getAttribute('data-unit'));
+                var i;
+                for (i = 0; i < events.length; i++) {
+                    
+                    if (typeof events[i] === "function")
+                        events[i](data);
+                }
+            },
+        "init" : function()
+            {
+                jQuery(window).blur( function() {
+                    var id = Amx.overiFrame;
+                    if( id != -1 )
+                    {
+                        Amx.iframeClick(id);
+                        setTimeout(function(){ window.focus(); }, 0);
+                    }
+                });
+
+                if(window.amx_fb)
+                    amxOnClick.push(function(d){ fbq('track', 'AddToCart'); })
+                if(window.amx_tb)
+                    amxOnClick.push(function(d){ tbt(); });
+                if(window.amx_adw)
+                    amxOnClick.push(function(d){ adwt(); })
+            }
     }
+    Amx.init();
+
+
+
     
     function amxIsVisible(id)
     {
@@ -932,18 +1109,6 @@ window.amx_fb = 1;
             rect.right <= (window.innerWidth || document.documentElement.clientWidth) /*or $(window).width() */
         );
 
-    }
-
-    function amxGAViewed(id,imp)
-    {
-        if(jQuery("#"+id).data("imp") == true) /*once*/
-            return;
-
-        if(amxIsVisible(id))
-        {
-            dataLayer.push(imp);
-            jQuery("#"+id).data("imp",true);
-        }
     }
 </script>			<style type="text/css" media="screen">
 				/**
@@ -978,11 +1143,17 @@ window.amx_fb = 1;
 				#comments .comments-title span.entry-subtitle {
 					display: none;
 				}
-			</style><link rel="icon" href="http://newarena.com/wp-content/uploads/2017/09/cropped-favicon3-32x32.png" sizes="32x32">
-<link rel="icon" href="http://newarena.com/wp-content/uploads/2017/09/cropped-favicon3-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="http://newarena.com/wp-content/uploads/2017/09/cropped-favicon3-180x180.png">
-<meta name="msapplication-TileImage" content="http://newarena.com/wp-content/uploads/2017/09/cropped-favicon3-270x270.png">
-
+			</style><link rel="icon" href="http://newarena.com/wp-content/uploads/2018/11/na-favicon64x64.png" sizes="32x32">
+<link rel="icon" href="http://newarena.com/wp-content/uploads/2018/11/na-favicon64x64.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="http://newarena.com/wp-content/uploads/2018/11/na-favicon64x64.png">
+<meta name="msapplication-TileImage" content="http://newarena.com/wp-content/uploads/2018/11/na-favicon64x64.png">
+		<style type="text/css" id="wp-custom-css">
+			a:hover{ color:#C00;}
+.single  #main>article .entry-content a{color:#C00;}
+.single .page-navigation a{background: #C00;}
+.single .page-navigation a:hover{background: #F00;}
+		</style>
+	
 		<!-- Drop Google Analytics here -->
 		<!-- end analytics -->
 
@@ -991,26 +1162,36 @@ window.amx_fb = 1;
 	<body class="page-template-default page page-id-25 wp-custom-logo">
 				<header class="header" role="banner">
 			<div class="top-bar" id="main-menu">
-				<div class="top-bar-left">
-					<ul class="menu">
-						<li><a href="http://newarena.com"></a><a href="http://newarena.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="441" height="132" src="http://newarena.com/wp-content/uploads/2016/01/newarena-logo-white-hires1.png" class="custom-logo" alt="New Arena" itemprop="logo" srcset="//newarena.com/wp-content/uploads/2016/01/newarena-logo-white-hires1.png 441w, //newarena.com/wp-content/uploads/2016/01/newarena-logo-white-hires1-300x90.png 300w, //newarena.com/wp-content/uploads/2016/01/newarena-logo-white-hires1-100x30.png 100w" sizes="(max-width: 441px) 100vw, 441px"></a></li>
-					</ul>
-				</div>
+				<div class="top-bar-right">
+					<form role="search" method="get" id="searchform" class="searchform" action="/"><input type="text" value="" name="s" id="s" placeholder="Search"></form>
 
+					<a href="#" class="search" title="Search"><i class="fa fa-search"></i></a>
+					<a href="http://facebook.com/thenewarena" class="facebook" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a><a href="https://twitter.com/TheNewArena" class="twitter" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>					
+				</div>
+				<div class="top-bar-center"><a href="http://newarena.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="491" height="120" src="http://newarena.com/wp-content/uploads/2018/10/NAPlate-small.jpg" class="custom-logo" alt="New Arena" itemprop="logo" srcset="//newarena.com/wp-content/uploads/2018/10/NAPlate-small.jpg 491w, //newarena.com/wp-content/uploads/2018/10/NAPlate-small-300x73.jpg 300w" sizes="100vw"></a></div>
 				<label class="menu-toggle" for="mobiledrop">☰</label>
     			<input type="checkbox" id="mobiledrop">
-				<div class="top-bar-right">
-					<div class="menu-main-container"><ul id="menu-main" class="vertical medium-horizontal menu"><li id="menu-item-216" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216"><a href="http://newarena.com/category/nfl/">NFL</a></li>
+				<div class="top-bar-left">
+					<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-216" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216"><a href="http://newarena.com/category/nfl/">NFL</a></li>
 <li id="menu-item-218" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-218"><a href="http://newarena.com/category/nba/">NBA</a></li>
 <li id="menu-item-225" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-225"><a href="http://newarena.com/category/mlb/">MLB</a></li>
 <li id="menu-item-217" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-217"><a href="http://newarena.com/category/ncaaf/">NCAAF</a></li>
 <li id="menu-item-2007" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2007"><a href="http://newarena.com/category/college-basketball/">NCAAM</a></li>
 <li id="menu-item-20822" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20822"><a href="http://newarena.com/category/soccer/">Soccer</a></li>
 <li id="menu-item-292" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-292"><a href="http://newarena.com/category/other-sports/">Other Sports</a></li>
-<li id="menu-item-21881" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21881"><a href="http://newarena.com/category/podcast/">Podcasts</a></li>
 <li id="menu-item-10496" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10496"><a href="http://newarena.com/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-25057" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25057"><a href="http://newarena.com/category/lifestyle/">Lifestyle</a></li>
+<li id="menu-item-25095" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25095"><a href="http://newarena.com/category/inspirational/">Inspirational</a></li>
+<li id="menu-item-28919" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28919"><a href="http://newarena.com/category/history/">History</a></li>
+<li id="menu-item-25058" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25058"><a href="http://newarena.com/category/science/">Science</a></li>
 </ul></div>				</div>
-			</div> 	
+			</div> 
+			<div class="top-bar-sub" id="header-menu">
+					<div class="menu-header-container"><ul id="menu-header" class="menu"><li id="menu-item-29965" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29965"><a href="http://newarena.com/category/nfl/">NFL</a></li>
+<li id="menu-item-29966" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29966"><a href="http://newarena.com/category/nba/">NBA</a></li>
+<li id="menu-item-29967" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29967"><a href="http://newarena.com/category/mlb/">MLB</a></li>
+<li id="menu-item-29968" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29968"><a href="http://newarena.com/category/other-sports/">Other Sports</a></li>
+</ul></div>			</div> 	
 		</header> <!-- end .header -->
 <div id="content">
 	<div id="inner-content">
@@ -1057,11 +1238,17 @@ Any information collected by New Arena is stored using security procedures and p
 <p><strong>Social Networks<br>
 </strong>NewArena.com offers the ability to post information about your use of our Services using your login credentials from various social media websites (e.g., Facebook, Twitter, Google+, Pinterest, etc.) (“Social Media Accounts”). We may also offer plugins which are operated by these third party platforms (e.g., Facebook’s Like button). If you are logged into your Social Media Account, the third party platforms may be provided with information about your interactions on our Site. Please read the privacy policies of the applicable social media websites to learn more about how they collect and use your information.</p>
 <p><strong>Foreign Countries<br>
-</strong>Our Services are provided from facilities based in the United States and may also be provided from servers located outside the United States. We may store and process your information both in and out of the United States. Your use of our Services constitutes your consent to and understanding of processing both in and out of the United States. For example, if you use our Services from outside the United States, your Personal Information will be transferred to and maintained on servers or databases located outside your country.</p><p><strong>Third Party Sites and Services<br>
+</strong>Our Services are provided from facilities based in the United States and may also be provided from servers located outside the United States. We may store and process your information both in and out of the United States. Your use of our Services constitutes your consent to and understanding of processing both in and out of the United States. For example, if you use our Services from outside the United States, your Personal Information will be transferred to and maintained on servers or databases located outside your country.</p>
+<p><strong>Third Party Sites and Services<br>
 </strong>We may provide links to third party websites, apps and other services. We are not responsible for those third parties and cannot control their use of any information that they collect from you. You should contact such third-party websites directly to determine their privacy policies.<br>
-Changes</p><p>NewArena.com reserves the right to change this Privacy Policy at any time, and will do so by posting an updated Privacy Policy on our website. Changes will not affect the user information that we obtained prior to the change without your express consent.</p><p><strong>California Residents<br>
-</strong>Under California Civil Code sections 1798.83-1798.84, also known as the “Shine the Light Law,” any of our users who are California residents may request and receive once a year, free of charge, a notice from us describing what categories of personal customer information we share with third parties for their direct marketing purposes. That notice will identify the categories of information shared, the third parties and affiliates with which it was shared, and their names and addresses. If you are a California resident and would like a copy of the notice that the law requires, please submit a written request to the following address: admin@newarena.com. In your request, please specify that you want a “California Privacy Rights Notice.” Please allow at least thirty days for a response.</p><p><strong>Contact Us<br>
-</strong>If you would like to opt-out of receiving marketing communications from us, please follow the instructions in the messages or emails to unsubscribe.</p><p>If you have any questions about our privacy practices, please email us at admin@newarena.com.</p>					</div><!-- .entry-content -->
+Changes</p>
+<p>NewArena.com reserves the right to change this Privacy Policy at any time, and will do so by posting an updated Privacy Policy on our website. Changes will not affect the user information that we obtained prior to the change without your express consent.</p>
+<p><strong>California Residents<br>
+</strong>Under California Civil Code sections 1798.83-1798.84, also known as the “Shine the Light Law,” any of our users who are California residents may request and receive once a year, free of charge, a notice from us describing what categories of personal customer information we share with third parties for their direct marketing purposes. That notice will identify the categories of information shared, the third parties and affiliates with which it was shared, and their names and addresses. If you are a California resident and would like a copy of the notice that the law requires, please submit a written request to the following address: admin@newarena.com. In your request, please specify that you want a “California Privacy Rights Notice.” Please allow at least thirty days for a response.</p>
+<p><strong>Contact Us<br>
+</strong>If you would like to opt-out of receiving marketing communications from us, please follow the instructions in the messages or emails to unsubscribe.</p>
+<p>If you have any questions about our privacy practices, please email us at admin@newarena.com.</p>
+					</div><!-- .entry-content -->
 
 					
 				</article><!-- #post-## -->
@@ -1069,7 +1256,7 @@ Changes</p><p>NewArena.com reserves the right to change this Privacy Policy at a
 		</main><!-- .site-main -->
 		<div id="sidebar1" class="sidebar" role="complementary">
 			<div class="inner-sidebar">
-						<aside id="ddc_search_box-2" class="widget widget-search-box"><table><tbody><tr><td><form role="search" method="get" id="searchform" class="searchform" action="/"><input type="text" value="" name="s" id="s" placeholder="Search"></form></td><td class="static"><div class="social-icons"><a href="http://facebook.com/thenewarena" class="facebook" title="Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a><a href="http://twitter.com/TheNewArena" class="twitter" title="Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a></div></td></tr></tbody></table></aside><aside id="ddc_middle_of_sidebar-2" class="widget widget-middle-of-sidebar"></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget">		<div class="social-share">
+						<aside id="ddc_search_box-2" class="widget widget-search-box"><table><tbody><tr><td><form role="search" method="get" id="searchform" class="searchform" action="/"><input type="text" value="" name="s" id="s" placeholder="Search"></form></td><td class="static"><div class="social-icons"><a href="http://facebook.com/thenewarena" class="facebook" title="Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a><a href="https://twitter.com/TheNewArena" class="twitter" title="Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a></div></td></tr></tbody></table></aside><aside id="ddc_middle_of_sidebar-2" class="widget widget-middle-of-sidebar"></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget">		<div class="social-share">
 Follow Us:<br>
 <a class="button button-fb" href="http://facebook.com/thenewarena" title="Follow us on Facebook" target="_blank"><i class="fa fa-facebook"></i>Facebook</a>
 <a class="button button-tw" href="https://twitter.com/TheNewArena" title="Follow us on Twitter" target="_blank"><i class="fa fa-twitter"></i>Twitter</a>
@@ -1080,8 +1267,26 @@ Follow Us:<br>
 </div> <!-- end #content -->
 
 		
-				<footer class="footer" role="contentinfo">
+				<div class="slot-anchor-wrap"></div>
+
+
+
+		<footer class="footer" role="contentinfo">
 			<div id="inner-footer">
+				<div class="top-footer">
+					<aside id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><img src="/wp-content/uploads/2018/10/brightcast-small.png"><p>Brightcast is a digital publishing company dedicated to creating an enjoyable content experience for users. Brightcast prides itself on finding high-quality contributors who are as passionate about the content as the fans reading it. 
+</p> </div></aside><aside id="nav_menu-4" class="widget widget_nav_menu"><h2 class="widget-title">Sitemap</h2><div class="menu-footer_sitemap-container"><ul id="menu-footer_sitemap" class="menu"><li id="menu-item-29969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29969"><a href="http://newarena.com/infringement-policy/">Infringement Policy</a></li>
+<li id="menu-item-29970" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-25 current_page_item menu-item-29970"><a href="http://newarena.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-29971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29971"><a href="http://newarena.com/terms-of-service/">Terms of Service</a></li>
+</ul></div></aside><aside id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">Categories</h2><div class="menu-footer_categories-container"><ul id="menu-footer_categories" class="menu"><li id="menu-item-29972" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29972"><a href="http://newarena.com/category/nfl/">NFL</a></li>
+<li id="menu-item-29973" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29973"><a href="http://newarena.com/category/nba/">NBA</a></li>
+<li id="menu-item-29975" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29975"><a href="http://newarena.com/category/mlb/">MLB</a></li>
+<li id="menu-item-29977" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29977"><a href="http://newarena.com/category/college-basketball/">NCAAM</a></li>
+<li id="menu-item-29978" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29978"><a href="http://newarena.com/category/ncaaf/">NCAAF</a></li>
+<li id="menu-item-29976" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29976"><a href="http://newarena.com/category/other-sports/">Other Sports</a></li>
+</ul></div></aside>				</div>
+
+				<div class="bottom-footer">
 				<p class="source-org copyright">© New Arena</p>
 				<nav role="navigation">
 					<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://newarena.com/about-us/">About Us</a></li>
@@ -1090,9 +1295,6 @@ Follow Us:<br>
 <li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-25 current_page_item menu-item-26"><a href="http://newarena.com/privacy-policy/">Privacy Policy</a></li>
 <li id="menu-item-17979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17979"><a href="http://newarena.com/infringement-policy/">Infringement Policy</a></li>
 </ul></div>				</nav>
-				<div class="social">
-					<a href="http://facebook.com/thenewarena" class="facebook" title="Facebook" target="_blank"><i class="fa fa-facebook-square"></i></a>
-					<a href="http://twitter.com/TheNewArena" class="twitter" title="Twitter" target="_blank"><i class="fa fa-twitter-square"></i></a>
 				</div>
 			</div> <!-- end #inner-footer -->
 		</footer> <!-- end .footer -->
@@ -1418,14 +1620,112 @@ jQuery( document ).ready(function() {
 
 
 
-<script type="text/javascript" async="async" src="http://newarena.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/newarena.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ...","cached":"1"};
-/* ]]> */
+<script>
+	jQuery(document).ready(function() {
+		jQuery("#main-menu .search").click(function(e){
+			e.preventDefault();
+        	var toggleWidth = jQuery('#main-menu #searchform').width() == 0 ? "200px" : "0px";
+        	var opacity = toggleWidth == "0px" ? 0 : 1;
+        	console.log(opacity);
+        	jQuery('#main-menu #searchform').animate({ "width": toggleWidth, "margin-left":"-"+toggleWidth , "opacity": opacity });
+
+
+		})
+	});
+
 </script>
-<script type="text/javascript" async="async" src="http://newarena.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3.1"></script>
-<script type="text/javascript" async="async" src="http://newarena.com/wp-includes/js/wp-embed.min.js?ver=4.9.6"></script>
+<script>
+	jQuery(document).ready(function() {
+		jQuery(window).scroll(function(){
+			_bright_sticky();
+		});
+			_bright_sticky();
+	});
+	function _bright_sticky()
+	{
+		var header = jQuery('header.header');
+		var adminBarHeight = jQuery('#wpadminbar').height() || 0;
+		var top = adminBarHeight;
+		if(jQuery(window).width() < 600)
+		{
+			top = 0;
+		}
+		var height = header.height() + adminBarHeight;
+		if(jQuery(this).scrollTop() > height)
+		{
+			if(!header.hasClass('fixed-top'))
+			{
+				header.addClass('fixed-top');
+				height = header.height() + adminBarHeight;
+				header.css({"top":"-"+height+"px"})
+				header.animate({ "top": top}, "slow" );
+				jQuery("#content").css({"margin-top":height+"px"})
+				if(jQuery("#sidebar1").css("display") != "block")
+				{
+					jQuery("#sidebar1").css({"padding-top":height+"px"});
+					jQuery("#sidebar2").css({"padding-top":height+"px"});
+				}
+			}
+		}
+		else
+		{
+			jQuery("#content").css({"margin-top":0})
+			header.removeClass('fixed-top');
+			jQuery("#sidebar1").css({"padding-top":"0"});
+			jQuery("#sidebar2").css({"padding-top":"0"});
+		}
+	}
+</script>
+<style>
+.bxslider-container .cat.category-nfl a,
+article.category-nfl .byline a{color:brown;}
+.bxslider-container .cat.category-nba a,
+article.category-nba .byline a{color:#0092ee;}
+.bxslider-container .cat.category-entertainment a,
+article.category-entertainment .byline a{color:darkslategray;}
+.bxslider-container .cat.category-story a,
+article.category-story .byline a{color:mediumseagreen;}
+.bxslider-container .cat.category-mlb a,
+article.category-mlb .byline a{color:orangered;}
+.bxslider-container .cat.category-history a,
+article.category-history .byline a{color:darkred;}
+.bxslider-container .cat.category-other-sports a,
+article.category-other-sports .byline a{color:teal;}
+.bxslider-container .cat.category-lifestyle a,
+article.category-lifestyle .byline a{color:green;}
+.bxslider-container .cat.category-college-basketball a,
+article.category-college-basketball .byline a{color:DarkGoldenRod;}
+.bxslider-container .cat.category-ncaaf a,
+article.category-ncaaf .byline a{color:royalblue;}
+</style>
+<script type="text/javascript" async="async" src="http://newarena.com/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
+<script>
+
+	/*!
+ * Masonry PACKAGED v4.2.2
+ * Cascading grid layout library
+ * https://masonry.desandro.com
+ * MIT License
+ * by David DeSandro
+ */
+
+!function(t,e){"function"==typeof define&&define.amd?define("jquery-bridget/jquery-bridget",["jquery"],function(i){return e(t,i)}):"object"==typeof module&&module.exports?module.exports=e(t,require("jquery")):t.jQueryBridget=e(t,t.jQuery)}(window,function(t,e){"use strict";function i(i,r,a){function h(t,e,n){var o,r="$()."+i+'("'+e+'")';return t.each(function(t,h){var u=a.data(h,i);if(!u)return void s(i+" not initialized. Cannot call methods, i.e. "+r);var d=u[e];if(!d||"_"==e.charAt(0))return void s(r+" is not a valid method");var l=d.apply(u,n);o=void 0===o?l:o}),void 0!==o?o:t}function u(t,e){t.each(function(t,n){var o=a.data(n,i);o?(o.option(e),o._init()):(o=new r(n,e),a.data(n,i,o))})}a=a||e||t.jQuery,a&&(r.prototype.option||(r.prototype.option=function(t){a.isPlainObject(t)&&(this.options=a.extend(!0,this.options,t))}),a.fn[i]=function(t){if("string"==typeof t){var e=o.call(arguments,1);return h(this,t,e)}return u(this,t),this},n(a))}function n(t){!t||t&&t.bridget||(t.bridget=i)}var o=Array.prototype.slice,r=t.console,s="undefined"==typeof r?function(){}:function(t){r.error(t)};return n(e||t.jQuery),i}),function(t,e){"function"==typeof define&&define.amd?define("ev-emitter/ev-emitter",e):"object"==typeof module&&module.exports?module.exports=e():t.EvEmitter=e()}("undefined"!=typeof window?window:this,function(){function t(){}var e=t.prototype;return e.on=function(t,e){if(t&&e){var i=this._events=this._events||{},n=i[t]=i[t]||[];return-1==n.indexOf(e)&&n.push(e),this}},e.once=function(t,e){if(t&&e){this.on(t,e);var i=this._onceEvents=this._onceEvents||{},n=i[t]=i[t]||{};return n[e]=!0,this}},e.off=function(t,e){var i=this._events&&this._events[t];if(i&&i.length){var n=i.indexOf(e);return-1!=n&&i.splice(n,1),this}},e.emitEvent=function(t,e){var i=this._events&&this._events[t];if(i&&i.length){i=i.slice(0),e=e||[];for(var n=this._onceEvents&&this._onceEvents[t],o=0;o<i.length;o++){var r=i[o],s=n&&n[r];s&&(this.off(t,r),delete n[r]),r.apply(this,e)}return this}},e.allOff=function(){delete this._events,delete this._onceEvents},t}),function(t,e){"function"==typeof define&&define.amd?define("get-size/get-size",e):"object"==typeof module&&module.exports?module.exports=e():t.getSize=e()}(window,function(){"use strict";function t(t){var e=parseFloat(t),i=-1==t.indexOf("%")&&!isNaN(e);return i&&e}function e(){}function i(){for(var t={width:0,height:0,innerWidth:0,innerHeight:0,outerWidth:0,outerHeight:0},e=0;u>e;e++){var i=h[e];t[i]=0}return t}function n(t){var e=getComputedStyle(t);return e||a("Style returned "+e+". Are you running this code in a hidden iframe on Firefox? See https://bit.ly/getsizebug1"),e}function o(){if(!d){d=!0;var e=document.createElement("div");e.style.width="200px",e.style.padding="1px 2px 3px 4px",e.style.borderStyle="solid",e.style.borderWidth="1px 2px 3px 4px",e.style.boxSizing="border-box";var i=document.body||document.documentElement;i.appendChild(e);var o=n(e);s=200==Math.round(t(o.width)),r.isBoxSizeOuter=s,i.removeChild(e)}}function r(e){if(o(),"string"==typeof e&&(e=document.querySelector(e)),e&&"object"==typeof e&&e.nodeType){var r=n(e);if("none"==r.display)return i();var a={};a.width=e.offsetWidth,a.height=e.offsetHeight;for(var d=a.isBorderBox="border-box"==r.boxSizing,l=0;u>l;l++){var c=h[l],f=r[c],m=parseFloat(f);a[c]=isNaN(m)?0:m}var p=a.paddingLeft+a.paddingRight,g=a.paddingTop+a.paddingBottom,y=a.marginLeft+a.marginRight,v=a.marginTop+a.marginBottom,_=a.borderLeftWidth+a.borderRightWidth,z=a.borderTopWidth+a.borderBottomWidth,E=d&&s,b=t(r.width);b!==!1&&(a.width=b+(E?0:p+_));var x=t(r.height);return x!==!1&&(a.height=x+(E?0:g+z)),a.innerWidth=a.width-(p+_),a.innerHeight=a.height-(g+z),a.outerWidth=a.width+y,a.outerHeight=a.height+v,a}}var s,a="undefined"==typeof console?e:function(t){console.error(t)},h=["paddingLeft","paddingRight","paddingTop","paddingBottom","marginLeft","marginRight","marginTop","marginBottom","borderLeftWidth","borderRightWidth","borderTopWidth","borderBottomWidth"],u=h.length,d=!1;return r}),function(t,e){"use strict";"function"==typeof define&&define.amd?define("desandro-matches-selector/matches-selector",e):"object"==typeof module&&module.exports?module.exports=e():t.matchesSelector=e()}(window,function(){"use strict";var t=function(){var t=window.Element.prototype;if(t.matches)return"matches";if(t.matchesSelector)return"matchesSelector";for(var e=["webkit","moz","ms","o"],i=0;i<e.length;i++){var n=e[i],o=n+"MatchesSelector";if(t[o])return o}}();return function(e,i){return e[t](i)}}),function(t,e){"function"==typeof define&&define.amd?define("fizzy-ui-utils/utils",["desandro-matches-selector/matches-selector"],function(i){return e(t,i)}):"object"==typeof module&&module.exports?module.exports=e(t,require("desandro-matches-selector")):t.fizzyUIUtils=e(t,t.matchesSelector)}(window,function(t,e){var i={};i.extend=function(t,e){for(var i in e)t[i]=e[i];return t},i.modulo=function(t,e){return(t%e+e)%e};var n=Array.prototype.slice;i.makeArray=function(t){if(Array.isArray(t))return t;if(null===t||void 0===t)return[];var e="object"==typeof t&&"number"==typeof t.length;return e?n.call(t):[t]},i.removeFrom=function(t,e){var i=t.indexOf(e);-1!=i&&t.splice(i,1)},i.getParent=function(t,i){for(;t.parentNode&&t!=document.body;)if(t=t.parentNode,e(t,i))return t},i.getQueryElement=function(t){return"string"==typeof t?document.querySelector(t):t},i.handleEvent=function(t){var e="on"+t.type;this[e]&&this[e](t)},i.filterFindElements=function(t,n){t=i.makeArray(t);var o=[];return t.forEach(function(t){if(t instanceof HTMLElement){if(!n)return void o.push(t);e(t,n)&&o.push(t);for(var i=t.querySelectorAll(n),r=0;r<i.length;r++)o.push(i[r])}}),o},i.debounceMethod=function(t,e,i){i=i||100;var n=t.prototype[e],o=e+"Timeout";t.prototype[e]=function(){var t=this[o];clearTimeout(t);var e=arguments,r=this;this[o]=setTimeout(function(){n.apply(r,e),delete r[o]},i)}},i.docReady=function(t){var e=document.readyState;"complete"==e||"interactive"==e?setTimeout(t):document.addEventListener("DOMContentLoaded",t)},i.toDashed=function(t){return t.replace(/(.)([A-Z])/g,function(t,e,i){return e+"-"+i}).toLowerCase()};var o=t.console;return i.htmlInit=function(e,n){i.docReady(function(){var r=i.toDashed(n),s="data-"+r,a=document.querySelectorAll("["+s+"]"),h=document.querySelectorAll(".js-"+r),u=i.makeArray(a).concat(i.makeArray(h)),d=s+"-options",l=t.jQuery;u.forEach(function(t){var i,r=t.getAttribute(s)||t.getAttribute(d);try{i=r&&JSON.parse(r)}catch(a){return void(o&&o.error("Error parsing "+s+" on "+t.className+": "+a))}var h=new e(t,i);l&&l.data(t,n,h)})})},i}),function(t,e){"function"==typeof define&&define.amd?define("outlayer/item",["ev-emitter/ev-emitter","get-size/get-size"],e):"object"==typeof module&&module.exports?module.exports=e(require("ev-emitter"),require("get-size")):(t.Outlayer={},t.Outlayer.Item=e(t.EvEmitter,t.getSize))}(window,function(t,e){"use strict";function i(t){for(var e in t)return!1;return e=null,!0}function n(t,e){t&&(this.element=t,this.layout=e,this.position={x:0,y:0},this._create())}function o(t){return t.replace(/([A-Z])/g,function(t){return"-"+t.toLowerCase()})}var r=document.documentElement.style,s="string"==typeof r.transition?"transition":"WebkitTransition",a="string"==typeof r.transform?"transform":"WebkitTransform",h={WebkitTransition:"webkitTransitionEnd",transition:"transitionend"}[s],u={transform:a,transition:s,transitionDuration:s+"Duration",transitionProperty:s+"Property",transitionDelay:s+"Delay"},d=n.prototype=Object.create(t.prototype);d.constructor=n,d._create=function(){this._transn={ingProperties:{},clean:{},onEnd:{}},this.css({position:"absolute"})},d.handleEvent=function(t){var e="on"+t.type;this[e]&&this[e](t)},d.getSize=function(){this.size=e(this.element)},d.css=function(t){var e=this.element.style;for(var i in t){var n=u[i]||i;e[n]=t[i]}},d.getPosition=function(){var t=getComputedStyle(this.element),e=this.layout._getOption("originLeft"),i=this.layout._getOption("originTop"),n=t[e?"left":"right"],o=t[i?"top":"bottom"],r=parseFloat(n),s=parseFloat(o),a=this.layout.size;-1!=n.indexOf("%")&&(r=r/100*a.width),-1!=o.indexOf("%")&&(s=s/100*a.height),r=isNaN(r)?0:r,s=isNaN(s)?0:s,r-=e?a.paddingLeft:a.paddingRight,s-=i?a.paddingTop:a.paddingBottom,this.position.x=r,this.position.y=s},d.layoutPosition=function(){var t=this.layout.size,e={},i=this.layout._getOption("originLeft"),n=this.layout._getOption("originTop"),o=i?"paddingLeft":"paddingRight",r=i?"left":"right",s=i?"right":"left",a=this.position.x+t[o];e[r]=this.getXValue(a),e[s]="";var h=n?"paddingTop":"paddingBottom",u=n?"top":"bottom",d=n?"bottom":"top",l=this.position.y+t[h];e[u]=this.getYValue(l),e[d]="",this.css(e),this.emitEvent("layout",[this])},d.getXValue=function(t){var e=this.layout._getOption("horizontal");return this.layout.options.percentPosition&&!e?t/this.layout.size.width*100+"%":t+"px"},d.getYValue=function(t){var e=this.layout._getOption("horizontal");return this.layout.options.percentPosition&&e?t/this.layout.size.height*100+"%":t+"px"},d._transitionTo=function(t,e){this.getPosition();var i=this.position.x,n=this.position.y,o=t==this.position.x&&e==this.position.y;if(this.setPosition(t,e),o&&!this.isTransitioning)return void this.layoutPosition();var r=t-i,s=e-n,a={};a.transform=this.getTranslate(r,s),this.transition({to:a,onTransitionEnd:{transform:this.layoutPosition},isCleaning:!0})},d.getTranslate=function(t,e){var i=this.layout._getOption("originLeft"),n=this.layout._getOption("originTop");return t=i?t:-t,e=n?e:-e,"translate3d("+t+"px, "+e+"px, 0)"},d.goTo=function(t,e){this.setPosition(t,e),this.layoutPosition()},d.moveTo=d._transitionTo,d.setPosition=function(t,e){this.position.x=parseFloat(t),this.position.y=parseFloat(e)},d._nonTransition=function(t){this.css(t.to),t.isCleaning&&this._removeStyles(t.to);for(var e in t.onTransitionEnd)t.onTransitionEnd[e].call(this)},d.transition=function(t){if(!parseFloat(this.layout.options.transitionDuration))return void this._nonTransition(t);var e=this._transn;for(var i in t.onTransitionEnd)e.onEnd[i]=t.onTransitionEnd[i];for(i in t.to)e.ingProperties[i]=!0,t.isCleaning&&(e.clean[i]=!0);if(t.from){this.css(t.from);var n=this.element.offsetHeight;n=null}this.enableTransition(t.to),this.css(t.to),this.isTransitioning=!0};var l="opacity,"+o(a);d.enableTransition=function(){if(!this.isTransitioning){var t=this.layout.options.transitionDuration;t="number"==typeof t?t+"ms":t,this.css({transitionProperty:l,transitionDuration:t,transitionDelay:this.staggerDelay||0}),this.element.addEventListener(h,this,!1)}},d.onwebkitTransitionEnd=function(t){this.ontransitionend(t)},d.onotransitionend=function(t){this.ontransitionend(t)};var c={"-webkit-transform":"transform"};d.ontransitionend=function(t){if(t.target===this.element){var e=this._transn,n=c[t.propertyName]||t.propertyName;if(delete e.ingProperties[n],i(e.ingProperties)&&this.disableTransition(),n in e.clean&&(this.element.style[t.propertyName]="",delete e.clean[n]),n in e.onEnd){var o=e.onEnd[n];o.call(this),delete e.onEnd[n]}this.emitEvent("transitionEnd",[this])}},d.disableTransition=function(){this.removeTransitionStyles(),this.element.removeEventListener(h,this,!1),this.isTransitioning=!1},d._removeStyles=function(t){var e={};for(var i in t)e[i]="";this.css(e)};var f={transitionProperty:"",transitionDuration:"",transitionDelay:""};return d.removeTransitionStyles=function(){this.css(f)},d.stagger=function(t){t=isNaN(t)?0:t,this.staggerDelay=t+"ms"},d.removeElem=function(){this.element.parentNode.removeChild(this.element),this.css({display:""}),this.emitEvent("remove",[this])},d.remove=function(){return s&&parseFloat(this.layout.options.transitionDuration)?(this.once("transitionEnd",function(){this.removeElem()}),void this.hide()):void this.removeElem()},d.reveal=function(){delete this.isHidden,this.css({display:""});var t=this.layout.options,e={},i=this.getHideRevealTransitionEndProperty("visibleStyle");e[i]=this.onRevealTransitionEnd,this.transition({from:t.hiddenStyle,to:t.visibleStyle,isCleaning:!0,onTransitionEnd:e})},d.onRevealTransitionEnd=function(){this.isHidden||this.emitEvent("reveal")},d.getHideRevealTransitionEndProperty=function(t){var e=this.layout.options[t];if(e.opacity)return"opacity";for(var i in e)return i},d.hide=function(){this.isHidden=!0,this.css({display:""});var t=this.layout.options,e={},i=this.getHideRevealTransitionEndProperty("hiddenStyle");e[i]=this.onHideTransitionEnd,this.transition({from:t.visibleStyle,to:t.hiddenStyle,isCleaning:!0,onTransitionEnd:e})},d.onHideTransitionEnd=function(){this.isHidden&&(this.css({display:"none"}),this.emitEvent("hide"))},d.destroy=function(){this.css({position:"",left:"",right:"",top:"",bottom:"",transition:"",transform:""})},n}),function(t,e){"use strict";"function"==typeof define&&define.amd?define("outlayer/outlayer",["ev-emitter/ev-emitter","get-size/get-size","fizzy-ui-utils/utils","./item"],function(i,n,o,r){return e(t,i,n,o,r)}):"object"==typeof module&&module.exports?module.exports=e(t,require("ev-emitter"),require("get-size"),require("fizzy-ui-utils"),require("./item")):t.Outlayer=e(t,t.EvEmitter,t.getSize,t.fizzyUIUtils,t.Outlayer.Item)}(window,function(t,e,i,n,o){"use strict";function r(t,e){var i=n.getQueryElement(t);if(!i)return void(h&&h.error("Bad element for "+this.constructor.namespace+": "+(i||t)));this.element=i,u&&(this.$element=u(this.element)),this.options=n.extend({},this.constructor.defaults),this.option(e);var o=++l;this.element.outlayerGUID=o,c[o]=this,this._create();var r=this._getOption("initLayout");r&&this.layout()}function s(t){function e(){t.apply(this,arguments)}return e.prototype=Object.create(t.prototype),e.prototype.constructor=e,e}function a(t){if("number"==typeof t)return t;var e=t.match(/(^\d*\.?\d*)(\w*)/),i=e&&e[1],n=e&&e[2];if(!i.length)return 0;i=parseFloat(i);var o=m[n]||1;return i*o}var h=t.console,u=t.jQuery,d=function(){},l=0,c={};r.namespace="outlayer",r.Item=o,r.defaults={containerStyle:{position:"relative"},initLayout:!0,originLeft:!0,originTop:!0,resize:!0,resizeContainer:!0,transitionDuration:"0.4s",hiddenStyle:{opacity:0,transform:"scale(0.001)"},visibleStyle:{opacity:1,transform:"scale(1)"}};var f=r.prototype;n.extend(f,e.prototype),f.option=function(t){n.extend(this.options,t)},f._getOption=function(t){var e=this.constructor.compatOptions[t];return e&&void 0!==this.options[e]?this.options[e]:this.options[t]},r.compatOptions={initLayout:"isInitLayout",horizontal:"isHorizontal",layoutInstant:"isLayoutInstant",originLeft:"isOriginLeft",originTop:"isOriginTop",resize:"isResizeBound",resizeContainer:"isResizingContainer"},f._create=function(){this.reloadItems(),this.stamps=[],this.stamp(this.options.stamp),n.extend(this.element.style,this.options.containerStyle);var t=this._getOption("resize");t&&this.bindResize()},f.reloadItems=function(){this.items=this._itemize(this.element.children)},f._itemize=function(t){for(var e=this._filterFindItemElements(t),i=this.constructor.Item,n=[],o=0;o<e.length;o++){var r=e[o],s=new i(r,this);n.push(s)}return n},f._filterFindItemElements=function(t){return n.filterFindElements(t,this.options.itemSelector)},f.getItemElements=function(){return this.items.map(function(t){return t.element})},f.layout=function(){this._resetLayout(),this._manageStamps();var t=this._getOption("layoutInstant"),e=void 0!==t?t:!this._isLayoutInited;this.layoutItems(this.items,e),this._isLayoutInited=!0},f._init=f.layout,f._resetLayout=function(){this.getSize()},f.getSize=function(){this.size=i(this.element)},f._getMeasurement=function(t,e){var n,o=this.options[t];o?("string"==typeof o?n=this.element.querySelector(o):o instanceof HTMLElement&&(n=o),this[t]=n?i(n)[e]:o):this[t]=0},f.layoutItems=function(t,e){t=this._getItemsForLayout(t),this._layoutItems(t,e),this._postLayout()},f._getItemsForLayout=function(t){return t.filter(function(t){return!t.isIgnored})},f._layoutItems=function(t,e){if(this._emitCompleteOnItems("layout",t),t&&t.length){var i=[];t.forEach(function(t){var n=this._getItemLayoutPosition(t);n.item=t,n.isInstant=e||t.isLayoutInstant,i.push(n)},this),this._processLayoutQueue(i)}},f._getItemLayoutPosition=function(){return{x:0,y:0}},f._processLayoutQueue=function(t){this.updateStagger(),t.forEach(function(t,e){this._positionItem(t.item,t.x,t.y,t.isInstant,e)},this)},f.updateStagger=function(){var t=this.options.stagger;return null===t||void 0===t?void(this.stagger=0):(this.stagger=a(t),this.stagger)},f._positionItem=function(t,e,i,n,o){n?t.goTo(e,i):(t.stagger(o*this.stagger),t.moveTo(e,i))},f._postLayout=function(){this.resizeContainer()},f.resizeContainer=function(){var t=this._getOption("resizeContainer");if(t){var e=this._getContainerSize();e&&(this._setContainerMeasure(e.width,!0),this._setContainerMeasure(e.height,!1))}},f._getContainerSize=d,f._setContainerMeasure=function(t,e){if(void 0!==t){var i=this.size;i.isBorderBox&&(t+=e?i.paddingLeft+i.paddingRight+i.borderLeftWidth+i.borderRightWidth:i.paddingBottom+i.paddingTop+i.borderTopWidth+i.borderBottomWidth),t=Math.max(t,0),this.element.style[e?"width":"height"]=t+"px"}},f._emitCompleteOnItems=function(t,e){function i(){o.dispatchEvent(t+"Complete",null,[e])}function n(){s++,s==r&&i()}var o=this,r=e.length;if(!e||!r)return void i();var s=0;e.forEach(function(e){e.once(t,n)})},f.dispatchEvent=function(t,e,i){var n=e?[e].concat(i):i;if(this.emitEvent(t,n),u)if(this.$element=this.$element||u(this.element),e){var o=u.Event(e);o.type=t,this.$element.trigger(o,i)}else this.$element.trigger(t,i)},f.ignore=function(t){var e=this.getItem(t);e&&(e.isIgnored=!0)},f.unignore=function(t){var e=this.getItem(t);e&&delete e.isIgnored},f.stamp=function(t){t=this._find(t),t&&(this.stamps=this.stamps.concat(t),t.forEach(this.ignore,this))},f.unstamp=function(t){t=this._find(t),t&&t.forEach(function(t){n.removeFrom(this.stamps,t),this.unignore(t)},this)},f._find=function(t){return t?("string"==typeof t&&(t=this.element.querySelectorAll(t)),t=n.makeArray(t)):void 0},f._manageStamps=function(){this.stamps&&this.stamps.length&&(this._getBoundingRect(),this.stamps.forEach(this._manageStamp,this))},f._getBoundingRect=function(){var t=this.element.getBoundingClientRect(),e=this.size;this._boundingRect={left:t.left+e.paddingLeft+e.borderLeftWidth,top:t.top+e.paddingTop+e.borderTopWidth,right:t.right-(e.paddingRight+e.borderRightWidth),bottom:t.bottom-(e.paddingBottom+e.borderBottomWidth)}},f._manageStamp=d,f._getElementOffset=function(t){var e=t.getBoundingClientRect(),n=this._boundingRect,o=i(t),r={left:e.left-n.left-o.marginLeft,top:e.top-n.top-o.marginTop,right:n.right-e.right-o.marginRight,bottom:n.bottom-e.bottom-o.marginBottom};return r},f.handleEvent=n.handleEvent,f.bindResize=function(){t.addEventListener("resize",this),this.isResizeBound=!0},f.unbindResize=function(){t.removeEventListener("resize",this),this.isResizeBound=!1},f.onresize=function(){this.resize()},n.debounceMethod(r,"onresize",100),f.resize=function(){this.isResizeBound&&this.needsResizeLayout()&&this.layout()},f.needsResizeLayout=function(){var t=i(this.element),e=this.size&&t;return e&&t.innerWidth!==this.size.innerWidth},f.addItems=function(t){var e=this._itemize(t);return e.length&&(this.items=this.items.concat(e)),e},f.appended=function(t){var e=this.addItems(t);e.length&&(this.layoutItems(e,!0),this.reveal(e))},f.prepended=function(t){var e=this._itemize(t);if(e.length){var i=this.items.slice(0);this.items=e.concat(i),this._resetLayout(),this._manageStamps(),this.layoutItems(e,!0),this.reveal(e),this.layoutItems(i)}},f.reveal=function(t){if(this._emitCompleteOnItems("reveal",t),t&&t.length){var e=this.updateStagger();t.forEach(function(t,i){t.stagger(i*e),t.reveal()})}},f.hide=function(t){if(this._emitCompleteOnItems("hide",t),t&&t.length){var e=this.updateStagger();t.forEach(function(t,i){t.stagger(i*e),t.hide()})}},f.revealItemElements=function(t){var e=this.getItems(t);this.reveal(e)},f.hideItemElements=function(t){var e=this.getItems(t);this.hide(e)},f.getItem=function(t){for(var e=0;e<this.items.length;e++){var i=this.items[e];if(i.element==t)return i}},f.getItems=function(t){t=n.makeArray(t);var e=[];return t.forEach(function(t){var i=this.getItem(t);i&&e.push(i)},this),e},f.remove=function(t){var e=this.getItems(t);this._emitCompleteOnItems("remove",e),e&&e.length&&e.forEach(function(t){t.remove(),n.removeFrom(this.items,t)},this)},f.destroy=function(){var t=this.element.style;t.height="",t.position="",t.width="",this.items.forEach(function(t){t.destroy()}),this.unbindResize();var e=this.element.outlayerGUID;delete c[e],delete this.element.outlayerGUID,u&&u.removeData(this.element,this.constructor.namespace)},r.data=function(t){t=n.getQueryElement(t);var e=t&&t.outlayerGUID;return e&&c[e]},r.create=function(t,e){var i=s(r);return i.defaults=n.extend({},r.defaults),n.extend(i.defaults,e),i.compatOptions=n.extend({},r.compatOptions),i.namespace=t,i.data=r.data,i.Item=s(o),n.htmlInit(i,t),u&&u.bridget&&u.bridget(t,i),i};var m={ms:1,s:1e3};return r.Item=o,r}),function(t,e){"function"==typeof define&&define.amd?define(["outlayer/outlayer","get-size/get-size"],e):"object"==typeof module&&module.exports?module.exports=e(require("outlayer"),require("get-size")):t.Masonry=e(t.Outlayer,t.getSize)}(window,function(t,e){var i=t.create("masonry");i.compatOptions.fitWidth="isFitWidth";var n=i.prototype;return n._resetLayout=function(){this.getSize(),this._getMeasurement("columnWidth","outerWidth"),this._getMeasurement("gutter","outerWidth"),this.measureColumns(),this.colYs=[];for(var t=0;t<this.cols;t++)this.colYs.push(0);this.maxY=0,this.horizontalColIndex=0},n.measureColumns=function(){if(this.getContainerWidth(),!this.columnWidth){var t=this.items[0],i=t&&t.element;this.columnWidth=i&&e(i).outerWidth||this.containerWidth}var n=this.columnWidth+=this.gutter,o=this.containerWidth+this.gutter,r=o/n,s=n-o%n,a=s&&1>s?"round":"floor";r=Math[a](r),this.cols=Math.max(r,1)},n.getContainerWidth=function(){var t=this._getOption("fitWidth"),i=t?this.element.parentNode:this.element,n=e(i);this.containerWidth=n&&n.innerWidth},n._getItemLayoutPosition=function(t){t.getSize();var e=t.size.outerWidth%this.columnWidth,i=e&&1>e?"round":"ceil",n=Math[i](t.size.outerWidth/this.columnWidth);n=Math.min(n,this.cols);for(var o=this.options.horizontalOrder?"_getHorizontalColPosition":"_getTopColPosition",r=this[o](n,t),s={x:this.columnWidth*r.col,y:r.y},a=r.y+t.size.outerHeight,h=n+r.col,u=r.col;h>u;u++)this.colYs[u]=a;return s},n._getTopColPosition=function(t){var e=this._getTopColGroup(t),i=Math.min.apply(Math,e);return{col:e.indexOf(i),y:i}},n._getTopColGroup=function(t){if(2>t)return this.colYs;for(var e=[],i=this.cols+1-t,n=0;i>n;n++)e[n]=this._getColGroupY(n,t);return e},n._getColGroupY=function(t,e){if(2>e)return this.colYs[t];var i=this.colYs.slice(t,t+e);return Math.max.apply(Math,i)},n._getHorizontalColPosition=function(t,e){var i=this.horizontalColIndex%this.cols,n=t>1&&i+t>this.cols;i=n?0:i;var o=e.size.outerWidth&&e.size.outerHeight;return this.horizontalColIndex=o?i+t:this.horizontalColIndex,{col:i,y:this._getColGroupY(i,t)}},n._manageStamp=function(t){var i=e(t),n=this._getElementOffset(t),o=this._getOption("originLeft"),r=o?n.left:n.right,s=r+i.outerWidth,a=Math.floor(r/this.columnWidth);a=Math.max(0,a);var h=Math.floor(s/this.columnWidth);h-=s%this.columnWidth?0:1,h=Math.min(this.cols-1,h);for(var u=this._getOption("originTop"),d=(u?n.top:n.bottom)+i.outerHeight,l=a;h>=l;l++)this.colYs[l]=Math.max(d,this.colYs[l])},n._getContainerSize=function(){this.maxY=Math.max.apply(Math,this.colYs);var t={height:this.maxY};return this._getOption("fitWidth")&&(t.width=this._getContainerFitWidth()),t},n._getContainerFitWidth=function(){for(var t=0,e=this.cols;--e&&0===this.colYs[e];)t++;return(this.cols-t)*this.columnWidth-this.gutter},n.needsResizeLayout=function(){var t=this.containerWidth;return this.getContainerWidth(),t!=this.containerWidth},i});
+
+
+var msnry = new Masonry( '.archive-list', {
+  itemSelector: '.archive-list article'
+});
+setTimeout(function() {
+	msnry.layout();
+}, 500);
+setTimeout(function() {
+	msnry.layout();
+}, 3000);
+setTimeout(function() {
+	msnry.layout();
+}, 5000);
+
+</script>
 	<script type="text/javascript">
 	jQuery.fn.scrollInView = function() {
 		var el = this;
@@ -1447,7 +1747,6 @@ var _wpcf7 = {"loaderUrl":"http:\/\/newarena.com\/wp-content\/plugins\/contact-f
 			parent = el.parent();
 			maxMargin = parent.height() - el.height();
 			marginTop = jQuery(window).scrollTop() - parent.offset().top;
-			
 			if(el.height() > jQuery(window).height())
 			{
 				extra =  parent.height()*.10;
@@ -1472,5 +1771,35 @@ var _wpcf7 = {"loaderUrl":"http:\/\/newarena.com\/wp-content\/plugins\/contact-f
 		jQuery('#sidebar1 .inner-sidebar').scrollInView();
 		jQuery('#sidebar2 .inner-sidebar').scrollInView();
 	});
-	</script>	
+	</script><script>
+function imgCap()
+{
+	var totalP = jQuery("main>article section.entry-content img,main>article section.entry-content p")
+  		.filter(function( index ) {
+		if(typeof this.src !== "undefined")
+    		return true;
+    	if(this.innerHTML.indexOf('Image Source:') !== -1)
+    		return true;
+    	return false
+	});
+	var prevImg;
+	jQuery(totalP).each(function(a,b){
+		prevImg = jQuery(totalP[a-1])[0];
+		if(typeof prevImg == "undefined")
+			return true; //skip
+
+		if(b.innerHTML.indexOf('Image Source:') !== -1)
+		{
+			var caption = b.innerHTML.replace("Image Source:","");
+			jQuery(prevImg)
+			.wrap('<figure></figure>')
+			.after('<figcaption>'+caption+'</figcaption>');
+			b.remove();
+		}
+	})
+}
+jQuery( document ).ready(function() {
+	imgCap();
+});
+</script>	
  <!-- end page --></body></html>
