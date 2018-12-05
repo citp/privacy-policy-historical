@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhomesource.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623201513id_/http%3A//www.hanleywood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhomesource.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205024903id_/http%3A//www.hanleywood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hanley Wood
 
