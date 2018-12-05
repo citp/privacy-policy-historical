@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lybrate.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912050526id_/https%3A//www.lybrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lybrate.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205013840id_/https%3A//www.lybrate.com/privacy) for the most accurate reproduction.*
 
 # Overview of the terms of use - Lybrate
 
@@ -25,7 +25,9 @@ Lybrate is committed to Your privacy. This privacy policy ("Privacy Policy") app
   * (vii) sexual orientation;
   * (viii) medical records and history
   * (ix) Login ID and password,
-  * 3.3. We may also collect information other than Personal Information from You through the Website when You visit and /or use the Website. Such information may be stored in server logs. Such Non-Personal Information would not assist us to identify You personally. Such Non-Personal Information may include
+  * (x) Location,
+  * 3.3. We may also seek permissions to use camera, microphone, and phonebook/contact data at points where required.
+  * 3.4. We may also collect information other than Personal Information from You through the Website when You visit and /or use the Website. Such information may be stored in server logs. Such Non-Personal Information would not assist us to identify You personally. Such Non-Personal Information may include
   * (i) Your usage details such as time, frequency, duration and pattern of use, features used and the amount of storage used,
   * (ii) Master and transaction data and other data stored in Your user account,
   * (iii) Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone, operating system and other visitor details collected in Our log files,
@@ -67,6 +69,7 @@ Lybrate is committed to Your privacy. This privacy policy ("Privacy Policy") app
   * If Your Personal Information changes, or if You need to update or correct Your Personal Information or have any grievance with respect to the processing or use of Your Personal Information, for any reason, You may send updates and corrections to us at [hello@lybrate.com](mailto:hello@lybrate.com) and We will take all reasonable efforts to incorporate the changes within a reasonable period of time. If Your Personal Information is stored as part of Your profile on the Website, You can update Your profile on the profile pages of the Websites. 
   * You are not allowed to use the Website or the Services of the Website if any of the terms of this Privacy Policy are not in accordance with the applicable laws of Your country.
   * 11\. COMPLIANCE WITH LAWS
+  * You are not allowed to use the Website or the Services of the Website if any of the terms of this Privacy Policy are not in accordance with the applicable laws of Your country. 
   * 12\. GRIEVANCE OFFICER
   * We have appointed a Grievance Officer to address any concerns or grievances that You may have regarding the processing of Your Personal Information. If You have any such grievances, please write to Our Grievance Officer at [grievances@lybrate.com](mailto:grievances@lybrate.com) and Our officer will attempt to resolve Your issues in a timely manner. 
   * Lybrate reserves the right, in its sole discretion, to change, modify, add or delete portions of the terms of this Privacy Policy at any time.
