@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10songs.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605032924id_/http%3A//top10songs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10songs.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205091801id_/http%3A//top10songs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Top 10 Songs
 
