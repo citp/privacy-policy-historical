@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onsecrethunt.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526081902id_/http%3A//www.onsecrethunt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onsecrethunt.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205201536id_/http%3A//www.onsecrethunt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | On Secret Hunt
 
@@ -45,7 +45,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 ## Third Party Site Privacy Policy’s
 
- **Google +1 Button –** <http://www.google.com/intl/en/privacy/plusone/>  
+**Google +1 Button –** <http://www.google.com/intl/en/privacy/plusone/>  
 **Feedburner** – Newsletter at <http://www.feedburner.com/fb/a/privacy>  
 **Facebook.com** – fan page, FaceBook like, share and send buttons; <http://www.facebook.com/policy.php>  
 **Twitter.com** – Twitter tweet button; Twitter <http://twitter.com/privacy>  
