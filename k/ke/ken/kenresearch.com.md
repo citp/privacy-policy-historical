@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kenresearch.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620160524id_/https%3A//www.kenresearch.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenresearch.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205195511id_/https%3A//www.kenresearch.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy: Kenresearch.com
 
-This Privacy Policy covers the information Ken Research Private Limited ("Platform" and/or "We") collects from the user(s) ("User(s)" and/or "You") of www.kenresearch.com ("Website") Personal Information of a User(s) is collected if the User(s) registers with the Website, accesses the Website or take any action on the Website. Here are our privacy principles: Providing information to us is your choice. You can choose to have the Personal Information provided by You deleted. You always have the ability to opt-out of receiving communications from us. 
+This Privacy Policy covers the information Ken Research ("Platform" and/or "We") collects from the user(s) ("User(s)" and/or "You") of www.kenresearch.com ("Website") Personal Information of a User(s) is collected if the User(s) registers with the Website, accesses the Website or take any action on the Website. Here are our privacy principles: Providing information to us is your choice. You can choose to have the Personal Information provided by You deleted. You always have the ability to opt-out of receiving communications from us. 
 
 **Information Collection and Use**  
 The Personal Information which You may provide to us and/or which we may collect is or could be the following:  
@@ -37,4 +37,4 @@ From time to time We may update this Privacy Policy. Your continued subscription
 Identity theft and the practice currently known as "phishing" are of great concern to Platform. Safeguarding information to help protect You from identity theft is a top priority. We do not and will not, at any time, request your credit card information or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. 
 
 **Contact Us**  
-If You have any questions about this Privacy Policy, the practices of Platform or your dealings with the Website, You can contact us at sales@kenresearch.com. We shall acknowledge or respond to Your communication of violation or by any other person, within 48 (forty eight) hours, and the complaints shall be redressed within 1 (one) month from the date of receipt of the complaint. 
+If You have any questions about this Privacy Policy, the practices of Platform or your dealings with the Website, You can contact us at query@kenresearch.com. We shall acknowledge or respond to Your communication of violation or by any other person, within 48 (forty eight) hours, and the complaints shall be redressed within 1 (one) month from the date of receipt of the complaint. 
