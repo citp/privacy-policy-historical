@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dyingscene.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609101346id_/http%3A//dyingscene.com/dying-scene-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyingscene.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205153845id_/http%3A//dyingscene.com/dying-scene-privacy-policy) for the most accurate reproduction.*
 
-# Dying Scene Privacy Policy
+# Dying Scene Privacy Policy - Dying Scene
 
 ##  Dying Scene Privacy Policy 
 
@@ -12,11 +12,11 @@ Dying Scene’s advertisers may engage in the collection of non-personally ident
 
 Dying Scene participates in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising. [Ad Choices](http://www.aboutads.info/choices/).
 
-**Data Use:** Dying Scene will not share your data with third parties unless (i) we first receive your permission, such as your initiated opt-in;  (ii) provided for otherwise in this Privacy Policy; (iii) a service provided on DyingScene.com requires the interaction with or is provided by a third party; (iv) pursuant to legal process or law enforcement; (v) your use of the   site violates our Privacy Policy, [Terms of Service](http://dyingscene.com/dying-scene-terms-and-conditions), other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property; (vi) this site is purchased by a third party whereby that third party will be able to use the data in the same manner as Dying Scene can as set forth in this Policy.
+**Data Use:** Dying Scene will not share your data with third parties unless (i) we first receive your permission, such as your initiated opt-in;  (ii) provided for otherwise in this Privacy Policy; (iii) a service provided on DyingScene.com requires the interaction with or is provided by a third party; (iv) pursuant to legal process or law enforcement; (v) your use of the   site violates our Privacy Policy, [Terms of Service](https://dyingscene.com/dying-scene-terms-and-conditions), other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property; (vi) this site is purchased by a third party whereby that third party will be able to use the data in the same manner as Dying Scene can as set forth in this Policy.
 
 **Cookies:** DyingScene.com employs the use of cookies on the website to improve your user experience.  Like many web sites, DyingScene.com sets and uses cookies to retain your personal settings.  Advertisements may appear on our web site and, if so, may set and access cookies on your computer that are subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to the cookies on DyingScene.com. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site. You can [click here](http://www.networkadvertising.org/optout_nonppii.asp) to find out more information about this practice and to find out about your options.
 
-**Deleting Your Account:** Users have the ability to create and edit the data in their own user accounts.  If a user wishes to delete their account they may [send a request](http://dyingscene.com/contact-dying-scene) to the webmaster and the account will be deleted.  Any content created by a user outside of the information in their user account, such as submitted news stories, reviews, or comments, may remain on DyingScene.com despite the account deletion.
+**Deleting Your Account:** Users have the ability to create and edit the data in their own user accounts.  If a user wishes to delete their account they may [send a request](https://dyingscene.com/contact-dying-scene) to the webmaster and the account will be deleted.  Any content created by a user outside of the information in their user account, such as submitted news stories, reviews, or comments, may remain on DyingScene.com despite the account deletion.
 
 **Privacy Policy Changes:** Changes to this Privacy Policy may be made in the future.  If any substantial changes are made users will be notified either through email or a prominent message from the webmaster on DyingScene.com.
 
