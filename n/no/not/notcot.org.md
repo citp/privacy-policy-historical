@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notcot.org privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618094755id_/http%3A//www.notcot.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notcot.org privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205070604id_/http%3A//www.notcot.com/about/privacy) for the most accurate reproduction.*
 
 # About NOTCOT: privacy policy
 
@@ -55,4 +55,4 @@ If you have any questions or suggestions regarding our privacy policy, please [c
 
 Check out [TRUSTe](http://www.truste.org/). Their very useful Model Privacy Disclosures document was one of the resources we tapped in crafting our policies.
 
-[](http://www.wiredtree.com/) Copyright NOTCOT INC 2006-2009. Work in Progress - So be nice. [Privacy Policy](http://www.notcot.com/about/privacy/)
+[](http://www.wiredtree.com/) Copyright NOTCOT INC 2006-2018. Work in Progress - So be nice. [Privacy Policy](http://www.notcot.com/about/privacy/)
