@@ -1,38 +1,58 @@
-> *The following text is extracted and transformed from the goodlifefitness.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201182752id_/https%3A//www.goodlifefitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifefitness.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205205926id_/https%3A//www.goodlifefitness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GoodLife Fitness
 
-## At GoodLife Fitness we are privileged each and every day to help members to achieve their health and fitness goals. We understand the need to protect personal information provided to us and take this role very seriously. Our commitment to protecting the privacy and confidentiality of our members’ personal information is addressed in this privacy policy. Our policy complies with the requirements of the Personal Information Protection and Electronic Documents Act (Canada), the Personal Information Protection Act (British Columbia) and the Personal Information Protection Act (Alberta).
+## GoodLife Fitness – Privacy Policy 
+
+At GoodLife Fitness we are privileged each and every day to help members to achieve their health and fitness goals. We understand the need to protect personal information provided to us and take this role very seriously. Our commitment to protecting the privacy and confidentiality of our members’ personal information is addressed in this privacy policy. 
 
 We want you to understand why we collect your personal information, how the confidentiality of this information is protected and how you can find out what information concerning you is recorded. This policy applies to all GoodLife Fitness clubs across Canada.
 
-### Accountability
+## Accountability
 
 GoodLife Fitness is responsible for your personal information under its control. We have appointed a Chief Privacy Officer who is accountable for our compliance with this Privacy Policy. Please refer to the last page of this policy for information on how to contact our Chief Privacy Officer.
 
 #### Personal Information
 
-Personal information is information about you as an individual, and includes information that identifies you and that can be used to contact you. This includes such information as your name, e-mail address, mailing address, telephone number, banking information, credit card number, and the like. It may also include information about your health and fitness levels and goals, if you have communicated these to us.
+Personal information is information about you as an individual, and includes information that identifies you and that can be used to contact you. This includes such information as your name, birth date, e-mail address, mailing address, telephone number, banking information, credit card number, and the like. It may also include information about your health and fitness levels and goals, if you have communicated these to us. We also collect data about the services that you purchase from us, the frequency of your visits to our clubs and about the specific equipment, classes and services that you take advantage of, so that we may constantly strive to offer you the best range of fitness options. If you have a Corporate Membership, we will collect the name of the business that you work for or have a membership with.
 
-Member data (e.g. check-ins, purchases) may be used in academic research (e.g., exercise adherence). Your data will never be individually identified or identifiable in reports of the research findings; only aggregated data (group averages) will be presented.
+#### Aggregate Data
+
+We may also combine your personal information with that of other individuals to create aggregate data which we will use, for example, to improve our products and services and develop new ones. Aggregate data is general information about groups of customers but not about you as an individual. We may also disclose aggregate member data to be used in academic research (e.g., exercise adherence), provided, however, your data will never be individually identified or identifiable in reports of the research findings; only aggregated data (group averages) will be presented.
+
+#### Photographs
+
+In the interest of security and prevention of crime, we may take a digital photograph of you when you become a member. We will use that photograph to verify your identify when you attend at the club. If you don’t wish to provide your photograph, you may decline, and you may ask us to delete your photograph at a later date. If we do not have your photograph on your member profile, we may ask you to provide identification to verify your identity when you attend our clubs. Your photograph will be deleted when your membership is terminated in our systems.
+
+#### Contacting Us
+
+GoodLife Fitness wants to hear from our members regarding any issues or comments they may have with respect to their memberships or any services offered by our clubs. We may record this information and transmit it to our clubs in order to address them in the appropriate manner. When you contact us, by post, telephone, fax, email, SMS, live chat, through our website or through social media, we collect the information that you disclose to us. This may include details such as your name, address, telephone, fax, email and phone number, as well as your questions, inquiries, comments, complaints or requests. If you correspond with us though any media, we may keep a record of that correspondence. 
+
+#### Surveys
+
+From time to time, we may ask you to complete surveys that we use for research purposes and which we will use, for example, to improve our products and services and develop new ones. We will collect the information that you provide if you respond, however you are under no obligation to respond to them.
+
+#### Video Surveillance
+
+We use video surveillance in our clubs to protect the rights, property and safety of GoodLife, our employees, members and others. 
 
 #### Identifying Purposes
 
+We will not use or disclose your personal information for any purpose other than those for which it was collected, except with your consent or as required or authorized by law.
+
 GoodLife Fitness collects personal information for the following purposes:
 
-• to understand your fitness and other related needs and objectives and to assist you in achieving them  
-• to determine your eligibility for membership and for receiving our products and services  
-• to process your membership payments and to ensure that your account remains up-to-date  
-• to invite you to participate in member surveys or other opinion-gathering devices that assist us in making our clubs more responsive to your needs  
-• to inform you of various matters relating to your membership and about our products and services that we believe may be of interest to you 
+  * to understand your fitness and other related needs and objectives and to assist you in achieving them
+  * to determine your eligibility for membership and for receiving our products and services 
+  * to provide you with a copy of your membership contract and other related agreements 
+  * to process your membership payments and to ensure that your account remains up-to-date 
+  * to invite you to participate in member surveys or other opinion-gathering devices that assist us in making our clubs more responsive to your needs 
+  * to inform you of various matters relating to your membership 
+  * to send you newsletters and other information about our products and services that we believe may be of interest to you 
+  * to conduct contests, prize draws, competitions and other special promotions 
+  * to protect against harm to the rights, property and safety of GoodLife, our employees, members and others
 
-GoodLife Fitness may also collect information regarding the frequency of your visits to our clubs and about the specific equipment, classes and services that you take advantage of, so that we may constantly strive to offer you the best range of fitness options.
 
-GoodLife Fitness wants to hear from our members regarding any issues or comments they may have with respect to their memberships or any services offered by our clubs. We may record this information and transmit it to our clubs in order to address them in the appropriate manner.
-
-We may also combine your personal information with that of other individuals to create aggregate data which we will use, for example, to improve our products and services and develop new ones. Aggregate data is general information about groups of customers but not about you as an individual.
-
-We will not use or disclose your personal information for any purpose other than those for which it was collected, except with your consent or as required or authorized by law.
 
 #### Telecommunications
 
@@ -44,19 +64,32 @@ Your knowledge and consent are required for the collection, use, or disclosure o
 
 #### Third Party Disclosure 
 
-GoodLife Fitness is not in the business of selling member information to others. We do contract with trusted companies to act on our behalf to fulfill certain functions. We may use third party service providers to process or handle personal information on our behalf and to assist us with various services such as data processing, printing, mail distribution and marketing. Some of our service providers are located outside of Canada. As a result, your personal information may be accessible to regulatory authorities in accordance with the law of these jurisdictions. We will take steps to ensure that such parties adhere to our policy with respect to the protection of your personal information. 
+GoodLife Fitness is not in the business of selling member information to others. We do contract with trusted companies to act on our behalf to fulfill certain functions. We may use third party service providers to process or handle personal information on our behalf and to assist us with various services such as data processing, printing, mail distribution, content, advertising, data analytics, and marketing. Some of our service providers are located outside of Canada. As a result, your personal information may be accessible to regulatory authorities in accordance with the law of these jurisdictions. We will take steps to ensure that such parties adhere to our policy with respect to the protection of your personal information.
 
 Except as set out in this policy or as required or permitted by law, GoodLife Fitness will not sell or disclose any of your personal information to any other organization or transmit personal information to third parties without first obtaining your consent. GoodLife Fitness may, however, disclose information in the following cases:
 
-• to our lawyer  
-• to comply with a subpoena, warrant or order  
-• to a police force, if required by law   
-• to a person authorized by a law or collective agreement   
-• to an investigative body or government institution which can oblige us to do so   
-• in emergency situations in which we believe that the life, health or safety of a member or other person may be in danger   
-• to an agent retained by GoodLife in connection with the collection of your account 
+  * to enforce or apply our membership agreements 
+  * to protect the rights, property or safety of GoodLife, our employees, our members and others 
+  * to comply with a subpoena, warrant or order 
+  * to a police force, if required by law 
+  * to a person authorized by a law or collective agreement 
+  * to an investigative body or government institution which can oblige us to do so 
+  * in emergency situations in which we believe that the life, health or safety of a member or other person may be in danger 
+  * to an agent retained by GoodLife in connection with the collection of your account 
+  * if all or a part of our business is sold, we may transfer information we have about you in preparation for or as part of completing that transaction
 
-## Internet Activities
+  
+
+
+#### In-Club Wireless Access
+
+As a convenience to our members, wireless internet access may be available in some of our facilities. Any such in-club wireless access is provided by third parties and not GoodLife Fitness. We are not responsible for our wireless internet provider’s privacy, information or other practices. By accessing such services, you agree to any applicable terms of use, which will be provided to you when you connect to the wireless internet service. When you access our in-club wifi we may collect the unique identifier of the device you use to access the wifi and the internet domains that you visit. We use this information to identify issues with our network and to troubleshoot problems with the wifi. We may also collect your email address from our wireless internet provider, and use your email address to send you marketing, special offers and other communications that might be of interest to you, and which you may unsubscribe from at any time. We may also use aggregated information for marketing research and planning, which aggregated information will not identify and is not associated with you or any other user of our in-club wireless internet. 
+
+#### Internet Activities
+
+#### GoodLife Fitness Member Site
+
+When you log in to the GoodLife Fitness Member Site, we collect your email address, membership ID, browser type, IP address, computer type, type of mobile device (if used), computer operating system, the site from which you navigated to the member portal, the time and date you logged in, whether you are a repeat visitor to the Member Site and the pages that you view. 
 
 #### Digital Markers (including cookies)
 
@@ -67,52 +100,49 @@ A digital marker is a resource created by the visitors’ browser in order to re
 
 
 
-GoodLife Fitness uses sessional and persistent digital markers on some portions of its Web site. During your on-line visit, your browser exchanges data with GoodLife Fitness’ Web server. The digital markers used do not allow GoodLife Fitness to identify individuals. You may adjust your browser settings to reject digital markers, including cookies, if you so choose. However, it may affect your ability to interact with GoodLife Fitness’ Web site. 
+GoodLife Fitness uses sessional and persistent digital markers on some portions of its Web site. This allows us to improve the quality of our service, including for storing user preferences, tracking user trends and providing relevant advertising to you based on your activities on our Website and others’ websites. During your on-line visit, your browser exchanges data with GoodLife Fitness’ Web server. The digital markers used do not allow GoodLife Fitness to identify individuals. You may adjust your browser settings to reject digital markers, including cookies, if you so choose. However, it may affect your ability to interact with GoodLife Fitness’ Web site. 
 
 #### Web Analytics
 
 Web analytics is the collection, analysis, measurement, and reporting of data about Web traffic and visits for purposes of understanding and optimizing Web usage. Information in digital markers may be used for the purpose of web analytics to remember your online interactions with GoodLife Fitness’ Web site. 
 
-GoodLife Fitness uses Google Analytics to improve its Web site. When your computer requests a GoodLife Fitness Web page, GoodLife Fitness collects the following types of information for Web analytics:
+##### Google/Adobe Analytics
 
-  * the originating IP address;
-  * the date and time of the request;
-  * the type of browser used; and
-  * the page(s) visited.
+GoodLife Fitness may also use third-party Web analytics services on our websites, such as those of Adobe (formerly Omniture) and Google Analytics. These service providers help us analyze how users use our websites. These providers may collect various data points associated with your visits to our websites, including your IP address, and they may place cookies to help with the analysis. To learn more about Adobe Analytics and how to opt-out, [click here](https://www.adobe.com/privacy/marketing-cloud.html). To learn more about Google Analytics and how to opt-out, [click here](https://tools.google.com/dlpage/gaoptout). 
 
+##### HotJar
 
-
-GoodLife Fitness uses Google Analytics and the information collected is disclosed to Google Inc., an external third party service provider. Your IP address is anonymized prior to being stored on the service provider's servers in order to help safeguard your privacy. The information collected is de-personalized by truncating your IP address. No personally identifying information is recorded or provided to Google.
-
-Google Analytics uses “session” and “persistent” cookies; persistent cookies are stored on your computer and expire two years after your last visit to the Web site.
-
-For further information, consult Google Analytics and its privacy policy.
-
-You may opt out of being tracked by Google Analytics by disabling or refusing the cookies, by disabling JavaScript within your browser or by using the Google Analytics Opt-Out Browser Add-On. Disabling Google Analytics or JavaScript will still permit you to access comparable information or services from our Web site. To disable cookies or JavaScript, please refer to your vendor's browser instruction guide.
+We use Hotjar in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device's IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on [this link](https://www.hotjar.com/legal/policies/privacy). You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this [opt-out link](https://www.hotjar.com/legal/policies/privacy). 
 
 #### Display and Remarketing
 
-GoodLife Fitness’ Web site also uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our Web site. It could mean that we advertise to previous visitors who haven’t completed a task on our Web site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network.
+GoodLife Fitness’ Web site also uses the Double Click by Google remarketing service to advertise on third party websites (including Google) to previous visitors to our Web site and to other visitors who may have similar preferences. This could be in the form of an advertisement on the Google search results page or on sites across the internet. 
 
 Third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to GoodLife Fitness’ Web site.
 
-You may opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager. https://www.google.com/settings/ads/onweb/ 
+You may opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager. <https://www.google.com/settings/ads/onweb/>
 
-Google Analytics opt-out browser add-on – https://tools.google.com/dlpage/gaoptout/
+Visitors may also opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+#### GoodLife Fitness Blog
+
+Certain aspects of GoodLife’s Website are not confidential and are available for public viewing. If you post submissions to any publicly available blogs or other publicly available features of our Website, they may be viewed by other users of our Website. By making personal information publicly available where the Website allows you to do so, you consent to such publication by GoodLife or our service providers and agents. Please refer to the Terms of Use for additional provisions relating to user submissions that may apply to you.
+
+#### Social Media
+
+If you connect a social media account with any of our websites or applications or engage with our websites or applications through a social media platform, we may share your information with that social media platform, and it may share information about you with us. We may use this information to personalize your experience on our sites and on the third-party social media platforms, or to provide you with offers or other products or services you may request. The social media services’ use of the shared information will be governed by the social media services’ privacy policy and your social media account settings. If you do not want your information shared in this way, do not connect your social media service account with our websites or applications.
 
 #### GoodLife Fitness Mobile App
 
-GoodLife Fitness uses Flurry Analytics to learn more about how our mobile app is used to assist us in optimizing the experience for our users.
+GoodLife Fitness uses Firebase to support our mobile app and to learn more about how our mobile app is used to assist us in optimizing the experience for our users. To do this, GoodLife uses a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data about the end users of our mobile app. When you download our mobile application, you consent to any applicable Terms of Use. For further information, consult [Google Firebase](https://firebase.google.com/) and its privacy policy at <https://policies.google.com/privacy>.
 
-To do this, GoodLife uses a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data about the end users of our mobile app.
+#### Location Information 
 
-For further information, consult Flurry Analytics and its privacy policy at http://www.flurry.com/legal-privacy/privacy-policy-updated. You may opt out of being tracked by Flurry Analytics by using the http://www.flurry.com/legal-privacy/end-user-opt-out. 
+If you use our mobile websites or applications, we may collect location data obtained from your mobile device. If you use our websites, we may collect location data obtained from your IP address. We use this location data to find our nearest club to you, provide club amenities, club hours, and Group Fitness classes at our clubs near you and driving directions to our clubs. If you would prefer not to provide us with your device’s location information, you can control what location information is shared in the settings menu of your device.
 
-Disabling Flurry Analytics will still permit you to use our mobile app.
+#### Retention
 
-#### Retention 
-
-We will only retain your personal information as long as is necessary for the fulfillment of the purposes for which it was collected or as required by law. Personal information is securely stored until such time as it is no longer required, after which it is destroyed.
+We will only retain your personal information as long as is necessary for the fulfillment of the purposes for which it was collected or as required by law. Personal information is securely stored until such time as it is no longer required, after which it is anonymized or destroyed.
 
 #### Accuracy
 
@@ -137,15 +167,4 @@ N6H 5G5
 
 FAX  
 Attention: Chief Privacy Officer  
-519-432-5685 
-
-EMAIL  
-[privacyofficer@goodlifefitness.com](mailto:privacyofficer@goodlifefitness.com "Email the privacy officer")
-
-#### Personal Information Request
-
-[Print Personal Information Request Form ](https://web.archive.org/docs/privacy-policy/InformationRequestForm.pdf?20161204 "Download the information request form")
-
-#### Amendments to Our Privacy Policy
-
-GoodLife Fitness may review and revise this privacy policy from time to time. Changes to this policy will be posted on our website at www.goodlifefitness.com and available on request in our clubs.
+519-432-6701 
