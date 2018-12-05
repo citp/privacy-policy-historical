@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the bevhillsmd.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313082914id_/http%3A//beverlyhillsmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bevhillsmd.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205072020id_/https%3A//beverlyhillsmd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Beverly Hills MD
 
 ## Privacy Policy
 
-Thank you for visiting the Beverly Hills MD website (the “Site”). Please review the this Privacy Policy (the “Policy” or “Policies”) carefully. We value the importance of your trust and therefore have set forth these policies to better explain how Beverly Hills MD, LLC. (collectively, “Beverly Hills MD”, “Us”, “We”, or “Our”) collect, protect, and use your information. The information that we collect may be used as part by us including but not limited to, our Company websites, web pages, advertisements, social media, and the Site.
+[EU Residents Click Here](https://beverlyhillsmd.com/gdpr)
+
+Thank you for visiting the Beverly Hills MD website (the “Site”). Please review this Privacy Policy (the “Policy” or “Policies”) carefully. We value the importance of your trust and therefore have set forth these policies to better explain how Beverly Hills MD, LLC. (collectively, “Beverly Hills MD”, “Us”, “We”, or “Our”) collect, protect, and use your information. The information that we collect may be used as part by us including but not limited to, our Company websites, web pages, advertisements, social media, and the Site.
 
 By using the Site you irrevocably accept these Policies. If you do not agree with the Policies address herein, then you do not have the right to access, view, download, purchase products, or use the Site and therefore, should not do so. 
 
@@ -24,7 +26,7 @@ The information we collect may used for the following, including (i) to verify w
 
 Cookies: To better serve the user and to (i) facilitate site navigation and (ii) personalize your experience, including but not limited tailoring advertisements we use Cookies. Cookies are data files placed on your computer or other device when it is used to visit the Site. If you prefer to not accept cookies, you may change your browser setting. Your settings can be adjusted to notify when you receive cookies, which you may choose to accept or reject. Please note that enabling a cookie blocker may alter or restrict certain features or services available on the Site. 
 
-Third Party Cookies: This Site uses remarketing services such as Google Analytics Advertising Features and Google Ad Words. These services collect data pertaining to your past visits to this Site and use cookies to collectively present advertisements tailored to your interest (“Remarketed Ads”). These Remarketed Ads may appear on certain third party websites, including but not limited to, Google search results page, websites within the Google Display Network, or any other third party vendor network. If you prefer not to receive Remarketed Ads, you can set your preferences [HERE](http://www.google.com/settings/ads) or you can OPT-OUT of all Remarketed Ads by visiting [OPT-OUT.](http://www.networkadvertising.org/choices/)
+Third Party Cookies: This Site uses remarketing services such as Google Analytics Advertising Features and Google Ad Words. These services collect data pertaining to your past visits to this Site and use cookies to collectively present advertisements tailored to your interest (“Remarketed Ads”). These Remarketed Ads may appear on certain third party websites, including but not limited to, Google search results page, websites within the Google Display Network, or any other third party vendor network. If you prefer not to receive Remarketed Ads, you can set your preferences [HERE](https://www.google.com/settings/ads) or you can OPT-OUT of all Remarketed Ads by visiting [OPT-OUT.](https://www.networkadvertising.org/choices/)
 
 Email Addresses: We will never sell any of your personal information. We could share your email with third parties to perform services on your behalf.
 
@@ -32,7 +34,7 @@ Data You May Provide: We may collect personal information, such as your name, em
 
 ##### \- HOW TO OPT-OUT - 
 
-If you do not wish to receive our newsletters, product promotions, or any related advertisement material, you can opt-out. You can opt out by visiting the “Manage Subscriptions” tab at the bottom of your email. Your request will be processed in (5) five business days. Please be advised that this will not deter advertisement while you browser the Site or the Internet. 
+If you do not wish to receive our newsletters, product promotions, or any related advertisement material, you can opt-out. You can opt out by visiting the “Manage Subscriptions” tab at the bottom of your email. Your request will be processed in (5) five business days. Please be advised that this will not deter advertisement while you browse the Site or the Internet. 
 
 ##### \- SECURITY - 
 
@@ -50,7 +52,7 @@ Network Merchants, LLC stores transaction information on secure computers locate
 
 #####  \- YOUR CONSENT TO PROCESS INFORMATION -
 
-This Site, http://beverlyhillsmd.com/, and any webpage associated with Beverly Hills MD, LLC. are operated in and governed by, and in accordance with, the laws of the United States. This Site is intended for the use of residents of the United States. Please note that information we collect may be transferred and processed in the United States, therefore be aware if you are located in Canada, the European Union, or any other country outside the United States. By using the Site or by providing us with any information you irrevocably agree and acknowledge that (i) the Site is subject to the laws of the United States and (ii) the collection, processing, maintenance, and transfer of such information in done in the United States in which the laws on privacy may not be as comprehensive to those in the country where you, the User, reside and/or are a citizen of, and (iii) you waive any claims that may arise under those laws.
+This Site, https://beverlyhillsmd.com/, and any webpage associated with Beverly Hills MD, LLC. are operated in and governed by, and in accordance with, the laws of the United States. This Site is intended for the use of residents of the United States. Please note that information we collect may be transferred and processed in the United States, therefore be aware if you are located in Canada, the European Union, or any other country outside the United States. By using the Site or by providing us with any information you irrevocably agree and acknowledge that (i) the Site is subject to the laws of the United States and (ii) the collection, processing, maintenance, and transfer of such information in done in the United States in which the laws on privacy may not be as comprehensive to those in the country where you, the User, reside and/or are a citizen of, and (iii) you waive any claims that may arise under those laws.
 
 #####  \- COMMUNICATIONS -
 
