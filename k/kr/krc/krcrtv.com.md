@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krcrtv.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625042923id_/http%3A//krcrtv.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krcrtv.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205200415id_/https%3A//krcrtv.com/station/privacy) for the most accurate reproduction.*
 
 # Redding Privacy | News, Weather, Sports, Breaking News | KRCR
 
