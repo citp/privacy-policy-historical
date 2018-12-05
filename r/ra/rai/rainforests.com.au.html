@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rainforests.com.au privacy policy that was archived on 2018-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180604130109id_/http%3A//www.netfleet.com.au/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rainforests.com.au privacy policy that was archived on 2018-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181205124758id_/http%3A//www.netfleet.com.au/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
     <!-- Basic Page Needs
@@ -74,9 +74,9 @@
         jQuery(document).ready(function() {
             if ($('#countdown_dashboard').length > 0) {
                 var now = new Date();
-                var utcH = now.getUTCHours();
-                if (utcH>=3 && utcH<4) {
-                    $("#countdown_dashboard").html('Today\'s auction now closed. Next auction opens at 2pm AEST.');
+                var utcH = now.getUTCHours() + ( now.getUTCMinutes() / 60.0 );
+                if (utcH>=3.5 && utcH<4.5) {
+                    $("#countdown_dashboard").html('Today\'s auction now closed.');
                 } else {
                     var close = new Date(now.valueOf()+75600000); //21 hours in milliseconds
                     $('#countdown_dashboard').countDown({
@@ -84,8 +84,8 @@
                         'day':      close.getUTCDate()
                         ,'month':   (close.getUTCMonth()+1)
                         ,'year':    close.getUTCFullYear()
-                        ,'hour':    2
-                        ,'min':     59
+                        ,'hour':    3
+                        ,'min':     30
                         ,'sec':     0
                         ,'utc':     true
                         },
@@ -96,8 +96,8 @@
         });
         
     </script>
-  
-  
+
+
                                                         <script type="text/javascript">
         var systemsslurl='https://www.netfleet.com.au/';
         var loggedin='';
@@ -119,14 +119,14 @@
 <!-- Facebook Pixel Code -->
 <script>
 
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js'); 
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '880975185282116');
 fbq('track', "PageView");
 
 </script>
 <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=880975185282116&ev=PageView&noscript=1" /></noscript>
 <!-- End Facebook Pixel Code -->
-	
+
 <!-- LinkedIn Campaign Manager  -->
 <script type="text/javascript"> _linkedin_data_partner_id = "109887"; </script><script type="text/javascript"> (function())(); </script><noscript><img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=109887&fmt=gif" /></noscript>
 <!--  EndLinkedIn Campaign Manager  -->
