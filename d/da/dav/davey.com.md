@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davey.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124204348id_/http%3A//www.davey.com/about/corporate-information/corporate-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davey.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205235838id_/http%3A//www.davey.com/about/corporate-information/corporate-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Davey Tree
 
