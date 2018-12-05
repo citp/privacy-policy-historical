@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technewsph.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601081523id_/http%3A//www.technewsph.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technewsph.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205231219id_/http%3A//www.technewsph.com/privacy-policy) for the most accurate reproduction.*
 
-# Affordable SEO Services Privacy Policy | Tech News Philippines
+# Affordable SEO Services Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to [**Philippines Tech and Gadget Reviews / SEO Services Philippines**](http://www.aspiresearchmarketing.com/ "Philippines Tech and Gadget Reviews / SEO Services Philippines"). To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
