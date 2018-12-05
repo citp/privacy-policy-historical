@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magportal.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604181353id_/http%3A//www.magportal.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magportal.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205081620id_/http%3A//www.magportal.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy (MagPortal.com)
 
