@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aps.edu privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628223229id_/http%3A//www.aps.edu/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aps.edu privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205073046id_/http%3A//www.aps.edu/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement & Legal Disclaimers — Albuquerque Public Schools
 
@@ -10,7 +10,7 @@ The website is the work of many authors and is a dynamic environment. There is t
 
 If there is information that you require and it is in a format that you cannot access, please contact the specific department who authored or provided the information.
 
-If you are experiencing any other accessibility issues, please [contact the Web Team](http://www.aps.edu/web-team/website-accessibility-feedback-form).
+If you are experiencing any other accessibility issues, please [contact the Web Team](http://www.aps.edu/web-team/accessibility/website-accessibility-feedback-form).
 
 ## Privacy Statement
 
