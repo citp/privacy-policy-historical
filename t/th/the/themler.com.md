@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themler.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606025917id_/https%3A//themler.io/themler-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themler.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205093917id_/https%3A//themler.io/themler-privacy) for the most accurate reproduction.*
 
 # Themler - Privacy Policy
 
@@ -82,5 +82,5 @@ We reserve the right to change this Policy from time to time, and at our sole di
 
 #### How to Contact Us
 
-If you have any comments or inquiries about the information in this Privacy Statement, if you would like us to update your personal data, or to exercise your rights, please contact us by email at support@billiondigital.com or via our support system at [themler.io Support](http://answers.themler.io/)  
+If you have any comments or inquiries about the information in this Privacy Statement, if you would like us to update your personal data, or to exercise your rights, please contact us by email at support@themler.io or via our support system at [themler.io Support](http://answers.themler.io/)  
 
