@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datafeedr.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527000126id_/https%3A//www.datafeedr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datafeedr.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205070337id_/https%3A//www.datafeedr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Datafeedr
 
@@ -115,7 +115,7 @@ Datafeedr collects Personal Information from you when you sign up for [our affil
 
 **
 
-Datafeedr collects Personal Information from you when you sign up for our newsletter. You can “opt out” at any time by following the unsubscribe instructions available in each newsletter. We do not sell, rent or share your personally identifiable information to or with third parties in any way other than as disclosed in this policy. We use your information to: 
+Datafeedr collects Personal Information from you when you sign up for our newsletter. We do not sell, rent or share your personally identifiable information to or with third parties in any way other than as disclosed in this policy. We use your information to: 
 
   * Send you an email to confirm the email address you signed up with.
   * Send you a welcome e-mail after you have confirmed your email address.
@@ -142,7 +142,7 @@ You have various rights in relation to your Personal Information. In particular,
 
 
 
-If you’re a Datafeedr customer you can review the Personal Information we hold about you by logging into your [Datafeedr account](https://members.datafeedr.com/). If you’re a Datafeedr affiliate you can review the Personal Information we hold about you by logging into your [Affiliate Account](https://affiliates.datafeedr.com/). Once logged in, you can view and make changes to most of your Personal Information immediately. For security purposes, certain Personal Information can only be changed by [contacting support](https://www.datafeedr.me/contact). We will respond to your request promptly within a reasonable timeframe.
+If you’re a Datafeedr customer you can review the Personal Information we hold about you by logging into your [Datafeedr account](https://members.datafeedr.com/). If you’re a Datafeedr affiliate you can review the Personal Information we hold about you by logging into your [Affiliate Account](https://affiliates.datafeedr.com/). Once logged in, you can view and make changes to most of your Personal Information immediately. If you’re a newsletter subscriber you can “opt out” and change your profile information at any time by following the instructions available in each email you receive from us. For security purposes, certain Personal Information can only be changed by [contacting support](https://www.datafeedr.me/contact). We will respond to your request promptly within a reasonable timeframe. 
 
 **
 
