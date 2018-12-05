@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worx.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602171010id_/https%3A//www.worx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worx.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205104114id_/https%3A//www.worx.com/privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy | WORX
+# Website Privacy Policy
 
 WORX ("We") are committed to protecting and respecting your privacy.
 
