@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponconnector.com privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104203108id_/http%3A//www.couponconnector.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponconnector.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205154334id_/http%3A//www.couponconnector.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Coupon Connector
 
@@ -8,11 +8,11 @@ Our postal address is:
 
 **LS Media  
 \- 304 Main Ave. #108  
-Norwalk, CT 06851** Email: [info@lsmedia.com](mailto:info@lsmedia.com)  
+Norwalk, CT 06851** Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2c45424a436c405f414948454d024f4341)  
 Phone: 1.203.807.4437  
 Fax: 1.877.442.1029 
 
-We can be reached via e-mail at [info@lsmedia.com](mailto:info@lsmedia.com) or you can reach us by telephone at 866-351-4678  
+We can be reached via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4f262129200f233c222a2b262e612c2022) or you can reach us by telephone at 866-351-4678  
 
 
 For each visitor to our web site, our Web server automatically recognizes no information regarding the domain or e-mail address of the visitor.
@@ -25,7 +25,7 @@ The information we collect is used for internal review, and usage statistics gen
 
 With respect to cookies: We use cookies so that we can identify the unique number of visitors to our web site, no personal information is collected or stored in a cookie.
 
-Any person wishing to unsubscribe, or no longer receive communication from us can indicate this several ways; writing to us at the above listed mailing address, emailing us at [info@lsmedia.com](mailto:info@lsmedia.com) or using the unsubscribe link found at the bottom of every email we communication that we send.
+Any person wishing to unsubscribe, or no longer receive communication from us can indicate this several ways; writing to us at the above listed mailing address, emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#51383f373e113d223c343538307f323e3c) or using the unsubscribe link found at the bottom of every email we communication that we send.
 
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
