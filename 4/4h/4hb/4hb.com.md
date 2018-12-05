@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4hb.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604142425id_/http%3A//4hb.com/4hb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4hb.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205112335id_/http%3A//4hb.com/4hb/privacy) for the most accurate reproduction.*
 
 # 4hb.com
 
