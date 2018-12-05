@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kali.org privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430214007id_/https%3A//www.kali.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kali.org privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205013343id_/https%3A//www.kali.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Kali Linux
+# Privacy Policy
 
 Thank you for visiting our web site. The following privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
