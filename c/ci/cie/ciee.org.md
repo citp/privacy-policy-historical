@@ -1,74 +1,131 @@
-> *The following text is extracted and transformed from the ciee.org privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708215308id_/https%3A//www.ciee.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciee.org privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206173330id_/https%3A//www.ciee.org/privacy-notice) for the most accurate reproduction.*
 
-# 
+# Privacy Notice | | CIEE
 
-CIEE respects the privacy of users of this web site. This privacy policy has been created to demonstrate our commitment to your privacy and security. It outlines the type of information we collect, what we do with that information, and the choices users have in regard to the information they provide. Please read this privacy policy carefully.
+### ciee.org privacy NOTICE
 
-## Information we collect
+The Council on International Educational Exchange (“CIEE”) wants you to benefit from the information and services available on our website – [www.ciee.org](https://web.archive.org/ciee.org) (the “Site”) – secure in the knowledge that we have implemented fair and transparent information policies and practices designed to protect your privacy. 
 
-CIEE may collect information from users of our website. This information includes:
+This Privacy Notice describes our policies and practices regarding our collection and use of personal data about users of the Site and sets forth your privacy rights.  This Privacy Notice does not apply to information we collect through other means, including offline or via any other website used or operated by CIEE or a third party (such as one of our referral partners).
 
-  * **Information you provide to us:** When you create an account on our website, you may choose to disclose information including contact information, and personal information including information regarding your educational background and interests.
-  * **Information that is automatically collected:** When you visit the CIEE webpage, we may automatically collect non-personally identifiable information, such as information about your hardware devices, your use of the CIEE website, and information about the website that referred you to the CIEE site.
-  * **Information from third parties:** CIEE may combine information provided by you with information from third parties, for the purpose of providing you better service. Examples of such information include address verification service or data analytics.
+We will update this Privacy Notice from time to time as we adopt new privacy policies or change our personal data practices.
 
-
-
-## How we use information
-
-CIEE will use information you provide to improve your experience, including:
-
-  * Providing you with information or services you request, including newsletters and email notifications.
-  * Suggesting programs or services that match the interests you have identified.
-  * Streamlining the application process by pre-filling information you have already provided.
-  * Understanding the way our website is used, and improving it to better suit the needs of users like you.
-
+  * Who We Are
+  * Why We Collect Personal Data
+  * How We Collect Your Information
+  * When and How We Share Personal Data With Others
+  * Protection of Your Information
+  * Your Choices About Your Personal Data
+  * Transferring Personal Data to the United States
+  * Data Storage and Retention
+  * Children's Privacy
+  * Links
+  * Notification of Changes
 
 
-## Information we share with others
 
-CIEE treats your personal information as private. Subject to the exceptions set out below, CIEE will not share information about you with third-parties without your permission, and will make reasonable efforts to guard your information against unauthorized disclosure.
+### WHO WE ARE
 
-**Service providers:** CIEE contracts with service providers to perform a variety of services, including hosting this webpage. To the extent any service providers have access to information about you in the course of performing services for CIEE, they are prohibited from using it for any other purpose.
+CIEE is headquartered in Portland, Maine, in the United States.  Our full contact information is provided at the end of this Privacy Notice. 
 
-**Partners:** CIEE may share information about you with our partner organizations in order to provide you with services requested by you. For example, we may share information in the course of evaluating your application or facilitating your placement in a program. This information is shared only for the limited purpose of providing the requested service (such as application evaluation or program placement), and may not be used for any other purpose.
+CIEE has appointed an internal data protection officer for you to contact if you have any questions or concerns about CIEE’s personal data policies or practices.  The data protection officer can be contacted at [dataprotectionofficer@ciee.org](mailto:DataProtectionOfficer@ciee.org).
 
-**Law Enforcement / For your protection and ours:** CIEE reserves the right to share information about you where CIEE believes that such disclosure is necessary to comply with a legal requirement, such as a subpoena or court order, or to protect the rights or property of CIEE, you, or third-parties.
+### WHY WE COLLECT PERSONAL DATA
 
-CIEE does not rent or sell its mailing list. We will not share information about you with third parties for their direct marketing purposes.
+CIEE collects personal data about users of the Site to personalize and continually improve your experience on our Site and provide you and users like you with information about our programs and services, including by:
 
-## Your choices about information
+  * providing you with information or services you request, including newsletters and notifications;
+  * providing you with information and suggesting programs or services that match your interests and other criteria you have identified, or that we otherwise believe may be of interest to you;
+  * streamlining the application process by pre-filling information you have already provided;
+  * improving our programs, services, and operations;
+  * providing you and others with advertising, including advertising based on your activity on the Site or activity on third-party sites and applications, such as social media platforms; and
+  * performing statistical, demographic, and marketing analyses of users of the Site and their behavioral patterns.
 
-CIEE's webpage allows you to create a profile, including personal information. You may update or correct this information at any time to ensure its continued accuracy. Additionally, CIEE provides you choices regarding the way we use the personal information you have provided us. For example, you may sign up to receive newsletters or email notification regarding particular products or services. You may opt out of receiving these communications at any time, by contacting us at the address provided below.
 
-## Cookies & Web Beacons
 
-A cookie is a small data file that can be placed on your hard drive when you visit certain web sites. Cookies are used to collect and store information, such as the type of computer you are using and how often you log on to a site. This web site uses both "session cookies," to improve your navigation across our website and to remember you over the course of a single visit, and "persistent cookies," which may be stored on your computer for up to 30 days and which help us provide better service to you over multiple visits to our website. You can always delete or disable cookies through your browser. If you disable cookies, you may not be able to sign in or take advantage of certain features of this website that require cookies.
+### HOW WE COLLECT YOUR INFORMATION
 
-In addition to cookies, we may deliver "web beacons" through our website or through emails we send you. Web beacons are small graphic images that may not be visible to Site visitors that collect information about the usage of the Site on an anonymous basis. In some cases, anonymous data may be transmitted to third-party advertising networks. We may use web beacons for our own internal analytics, to better understand the ways users interact with our website, or to determine whether a particular email was received and opened. We may also use web beacons in connection with our marketing efforts. For example, web beacons allow third-party advertising networks to detect when a user has visited CIEE's website, and then serve them ads for CIEE's programs when they browse to another site.
+The information we collect about our Site users comes to us in several different ways –
 
-## Children's privacy
+**Information you provide to us:** When you submit a contact form, create an account, or enter a search query on the Site, you may choose to disclose information about you, including your name, physical address, email address, phone number, and date of birth, along with information regarding your interests, educational background, and interests relating to our programming.
 
-CIEE's website is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
+**Information that is automatically collected:** Like many websites, we use web analytics tools that rely on cookies, web beacons, and other automated tracking technologies (“Tracking Tools”) to help us analyze how users interact with and use the Site, improve the Site, personalize your Site experience, provide you with information we believe may be of interest to you, and identify others like you who may be interested in our programs and services. 
 
-## Links
+The information we collect automatically includes information about your computer and internet connection (including your IP address, operating system, and browser type) and details regarding your visits to our Site (including your browsing actions and patterns and information about any referring website, search engine, social media platform, or link).  We do not use Tracking Tools to collect personally identifiable information (except to the extent you have provided such information to third parties, such as social media platforms – see section below titled “Information from Third Parties”), but we tie information that we gather using Tracking Tools to your personally identifiable information.
 
-This privacy policy applies only to information collected by this web site and not to other web sites that you may link to from here. CIEE is not responsible for the privacy practices of other sites. Please be aware that when you leave this site, you should read the privacy policies of each and every other web site that asks you to provide personal information.
+_Third Party Tracking Tools; Google Analytics_
 
-## Consent to processing in the United States
+The Tracking Tools we use include services we obtain from third parties.  The information generated by these analytics services will be transmitted to and stored by the third parties and will be subject to their privacy policies.  We do not control these third parties’ tracking technologies, how they may be used, or the information they may collect, and we are not responsible for these third parties’ privacy policies.
 
-CIEE is located in the United States. Please be aware that any information you provide to us may be processed and transferred to the United States and be subject to United States law. The privacy and data protection laws in the United States may not be equivalent to the laws in your country of residence. By using this website and providing us with information, you are consenting to CIEE's collection, transfer, storage and processing of your information in the United States.
+One of the third-party Tracking Tools we use is Google Analytics. The information generated by Google Analytics will be transmitted to and stored by Google and will be subject to [Google’s privacy policies](http://policies.google.com/privacy?hl=en&gl=us). Learn more about[ Google’s partner services](https://policies.google.com/privacy/partners) and how to opt out of tracking of analytics by Google.
 
-## Notification of changes
+_Cookies and Web Beacons_
 
-Any changes to this privacy policy will be posted on this web site so that users are always aware of the type of information we collect, how it is used, and the circumstances under which, if any, it may be disclosed. Any information that we collect from you will be used in accordance with the privacy policy in effect at the time that the information was collected, unless we receive your consent to change our practices with respect to the previously collected information.
+The Tracking Tools we use rely on cookies and web beacons:
 
-For further information or comments on our privacy policy, please contact CIEE at the following address:
+  * _Cookies_. A cookie is a small data file that can be placed on your hard drive when you visit certain websites. Cookies are used to collect and store information, such as the type of computer you are using and how often you log on to a site. Our Site uses both “session cookies,” to improve your navigation across the Site and to remember you over the course of a single visit, and “persistent cookies,” which are stored on your computer until they expire or are deleted and help us provide better service to you over multiple visits to the Site. You can always delete or disable cookies through your browser. If you disable cookies, you may not be able to sign in or take advantage of certain features of the Site that require cookies.  
+ 
+  * _Web Beacons_. In addition to cookies, we deliver “web beacons” through our Site and through emails we send you. Web beacons are small graphic images that may not be visible to Site visitors that collect information about Site usage on an anonymous basis. In some cases, anonymous data may be transmitted to third-party advertising networks. We use web beacons for our own internal analytics, to better understand the ways users interact with our website, and to determine whether a particular email was received and opened. We also use web beacons in connection with our marketing efforts. For example, web beacons allow third-party advertising networks to detect when a user has visited CIEE’s website, and then serve them ads for CIEE’s programs when they browse to another site.
 
-CIEE: Council on International Educational Exchange 300 Fore Street  
+
+
+**Information from third parties and other sources:**  We supplement the information we collect through the Site with information from third parties (including our advertising partners and other service providers) and information we collect through other means, such as offline or through other websites.  This information includes social media profile information, depending on the settings you have established for your social media accounts.
+
+### WHEN AND HOW WE SHARE PERSONAL DATA WITH OTHERS
+
+Except as described in this Privacy Notice, CIEE will not share your personal data with third parties, rent or sell its mailing list, or share your personal data with third parties for their direct marketing purposes.
+
+**Service Providers** : We have service providers that perform functions on our behalf, including hosting, content management, customer relationship management, social media integration, marketing, analytics, billing, and customer service.  These entities may have access to personal data if necessary or useful to performance of their functions.  If obtaining such access, these third parties will be subject to confidentiality and security obligations with respect to such data. 
+
+**Partners** : CIEE may share information about you with our partner organizations in order to provide you with information, programs, and services that you have requested or that we believe may be of interest to you.  For example, we may share information in the course of evaluating your application or facilitating your placement in a program.
+
+**Law Enforcement / Protection** : CIEE reserves the right to share information about you where CIEE believes that such disclosure is necessary to comply with a legal requirement, such as a subpoena or court order, or to protect the rights or property of CIEE, you, or third parties.
+
+**Consent** : CIEE may share your information in any other manner to which you consent.
+
+### PROTECTION OF YOUR INFORMATION
+
+CIEE makes reasonable efforts to guard your personal data against accidental loss and from unauthorized access, use, alteration, and disclosure. We update and test our security technology on an ongoing basis. We restrict access to your personal data to those employees who need to know that information to provide benefits or services to you. In addition, we train our employees about the importance of confidentiality and maintaining the privacy and security of your information. We commit to taking appropriate disciplinary measures to enforce our employees’ privacy responsibilities.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we take measures to protect your personal data, we cannot guarantee its security. Any transmission of personal information to or using our Site is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Site.  The safety and security of information also depends on you. If we have provided you with (or you have chosen) a username and password for access to certain parts of our Site, you are responsible for keeping such information confidential. Please do not share your username and password with anyone.
+
+### YOUR CHOICES ABOUT YOUR PERSONAL DATA
+
+Our Site allows you to create a profile, including personal information. You may update or correct this information at any time to ensure its continued accuracy.  You may also delete your profile by contacting us at [contact@ciee.org](mailto:contact@ciee.org). _ _
+
+Additionally, CIEE provides you choices regarding the way we use the personal data you have provided us. For example, you may sign up to receive newsletters or email notification regarding particular products or services. You may opt out of receiving these optional communications at any time, by clicking the 'Unsubscribe' link in the footer of these emails. Please note, some emails like account password resets or legal notices will continue to be emailed regardless of unsubscribe settings.
+
+If you wish to discuss any aspect of our processing of your personal data, please contact us at [dataprotectionofficer@ciee.org](mailto:dataprotectionofficer@ciee.org).
+
+### TRANSFERRING PERSONAL DATA TO THE UNITED STATES
+
+CIEE is located in the United States. Please be aware that any information you provide to us may be transferred to and processed in the United States and be subject to United States law. The privacy and data protection laws in the United States may not be equivalent to the laws in your country of residence.
+
+The United States has not sought nor received a finding of “adequacy” from the European Union under Article 45 of the GDPR. CIEE relies on derogations for specific situations as set forth in Article 49 of the GDPR. In particular, CIEE collects and transfers to the U.S. personal data only: with your consent; to perform a contract with you; or to fulfill a compelling legitimate interest of CIEE in a manner that does not outweigh your rights and freedoms. CIEE endeavors to apply suitable safeguards to protect the privacy and security of your personal data and to use it only consistent with your relationship with CIEE and the practices described in this Privacy Notice.
+
+### DATA STORAGE AND RETENTION
+
+Your personal data is stored by CIEE on its servers, and on the servers of the cloud-based database management services CIEE engages, located in the United States. The CIEE retains data for the appropriate amount of time. For more information on where and how long your personal data is stored, and for more information on your rights of erasure and portability, please contact CIEE’s data protection officer at [dataprotectionofficer@ciee.org](mailto:dataprotectionofficer@ciee.org) _._
+
+### CHILDREN'S PRIVACY
+
+Our Site is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
+
+### LINKS
+
+This Privacy Notice applies only to information collected by this Site and not to other websites that you may link to from here. CIEE is not responsible for the privacy practices of other sites. Please be aware that when you leave this Site, you should read the privacy policies of other websites that ask you to provide personal data.
+
+### NOTIFICATION OF CHANGES
+
+Any changes to this Privacy Notice will be posted on this Site.  Any information that we collect from you will be used in accordance with the version of this Privacy Notice in effect at the time that the information was collected, unless we receive your consent to change our practices with respect to previously collected information.
+
+For further information or comments on our Privacy Notice, please contact our data privacy officer at [dataprotectionofficer@ciee.org](mailto:dataprotectionofficer@ciee.org), or contact CIEE at the following address:
+
+**Council on International Educational Exchange**  
+300 Fore Street  
 Portland, ME 04101  
 Phone: 1.207.553.4000  
 Fax: 1.207.553.4299  
-E-mail: [contact@ciee.org](mailto:contact@ciee.org)
+E-mail: [contact@ciee.org](mailto:contact@ciee.org)
 
-EFFECTIVE: March 20, 2013
+EFFECTIVE: May 3, 2018
