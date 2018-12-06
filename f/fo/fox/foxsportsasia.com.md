@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foxsportsasia.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621204134id_/http%3A//www.foxsportsasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsportsasia.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206030958id_/https%3A//www.foxsportsasia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FOX Sports Asia
+# Privacy Policy | FOX Sports Asia
 
 **Table of Contents:**  
 
@@ -12,9 +12,7 @@
   5. USER ACCESS AND CONTROL
   6. OTHER IMPORTANT INFORMATION
   7. CONTACT DETAILS AND COMPLAINTS HANDLING
-
-
-  1. **INTRODUCTION**
+  8. **INTRODUCTION**
 
 
 
@@ -23,7 +21,7 @@ FOX Networks Group Singapore Pte. Ltd. (“ **we** ” or “ **FNG** “) is co
 
 This Privacy Policy applies to all users, including both those who use the FNG Services without being registered with or subscribing to a FNG Service and those who have registered with or subscribed to a FNG Service. This Privacy Policy applies to FNG’s collection and use of your personal information.
 
-  2. **COLLECTION OF INFORMATION**
+  1. **COLLECTION OF INFORMATION**
 
 
 
@@ -47,7 +45,7 @@ Most browsers are initially set to accept cookies, but you can change your setti
 
 **Information from Other Sources**. We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our Company Affiliates or business partners in Singapore or internationally.
 
-  3. **USE AND DISCLOSURE**
+  1. **USE AND DISCLOSURE**
 
 
 
@@ -87,21 +85,21 @@ We may disclose your personal information to third parties in connection with th
 
 Where we disclose your personal information to third parties we will use reasonable commercial efforts to ensure that such third parties only use your personal information as reasonably required for the purpose we disclosed it to them and in a manner consistent with the Privacy Principles under the PDPA, e.g. by (where commercially practical) including suitable privacy and confidentiality clauses in our agreements with a third party service provider to which we disclose your personal information.
 
-  4. **SECURITY**
+  1. **SECURITY**
 
 
 
 FNG uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information. Except to the extent liability cannot be excluded due to the operation of statute, we exclude all liability (including in negligence) for the consequences of any unauthorised access to, disclosure of, misuse of or loss or corruption of your personal information. Nothing in this Privacy Policy restricts, excludes or modifies or purports to restrict, exclude or modify any statutory consumer rights under any applicable law. Please notify us immediately if you become aware of any breach of security.
 
-  5. **USER ACCESS AND CONTROL**
+  1. **USER ACCESS AND CONTROL**
 
 
 
 If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information, you may contact us as outlined in Section 7. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable.
 
-You may request that we not share your personal information on a going-forward basis with Company Affiliates or unaffiliated third parties for any purposes by contacting us at _http://foxsportsasia.com/contact-us/_ , with “FNG Singapore: Disclosure Opt-out” in the subject line. Please include your full name, email address, postal address and the relevant FNG Service in the body of your message. We will try to comply with your request(s) as soon as reasonably practicable.
+You may request that we not share your personal information on a going-forward basis with Company Affiliates or unaffiliated third parties for any purposes by contacting us at http://foxsportsasia.com/contact-us/, with “FNG Singapore: Disclosure Opt-out” in the subject line. Please include your full name, email address, postal address and the relevant FNG Service in the body of your message. We will try to comply with your request(s) as soon as reasonably practicable.
 
-  6. **OTHER IMPORTANT INFORMATION**
+  1. **OTHER IMPORTANT INFORMATION**
 
 
 
@@ -123,12 +121,12 @@ Remember that even after you cancel your account, copies of some information fro
 
 **Sensitive Information**. We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the FNG Services or otherwise.
 
-  7. **CONTACT DETAILS AND COMPLAINTS HANDLING**
+  1. **CONTACT DETAILS AND COMPLAINTS HANDLING**
 
 
 
 If you have questions, comments or complaints about our collection, use or disclosure of personal information, or if you believe that we have not complied with this Privacy Policy or the PDPA, please contact us via:
 
-_http://foxsportsasia.com/contact-us/_
+> [Contact Us](https://www.foxsportsasia.com/contact-us/)
 
 Mail: Business and Legal Affairs Department, FOX Networks Group Singapore Pte. Ltd., 1 Fusionopolis Link, #03-01 Nexus @ One-North, Singapore 138542. FNG will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
