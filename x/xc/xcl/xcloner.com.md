@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xcloner.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607174512id_/http%3A//www.xcloner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcloner.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206190737id_/http%3A//www.xcloner.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | XCloner - Website Backup and Restore made simple
+# XCloner – Website Backup and Restore made simple — Professional backup application
 
 ## [Privacy Policy](http://www.xcloner.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
