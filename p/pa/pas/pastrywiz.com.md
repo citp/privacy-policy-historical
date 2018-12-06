@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pastrywiz.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731033414id_/http%3A//pastrywiz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pastrywiz.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206081231id_/https%3A//www.pastrywiz.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -25,9 +25,13 @@ This site makes chat rooms and message boards available to its users. Please rem
 **PastryWiz.com does currently not use any cookies, but  may do so in the future to keep track of the items in your shopping cart. We will never store any personal information in your shopping cart.
 
 **3rd Party and Advertisers  
-**We use an outside ad company to display ads on our site. These ads may contain cookies. PastryWiz.com has no control over the information collected by third party, and may not be held responsible for the actions of the third party measurement service where collected information is concerned. If you have questions regarding different third party measurement services and their respective methods of information collection, please contact us.
+**We use an outside ad company to display ads on our site. These ads may contain cookies.
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com).
+
+PastryWiz.com has no control over the information collected by third party, and may not be held responsible for the actions of the third party measurement service where collected information is concerned. If you have questions regarding different third party measurement services and their respective methods of information collection, please contact us.
 
 **Disclosure  
-**PastryWiz.com openly volunteers its practices of collecting information and it's practices of this site. If you have any questions pertaining to this privacy policy and its contents, [please write to us](https://web.archive.org/web/20170731033414id_/http%3A//pastrywiz.com/mail/stmail.htm).
+**PastryWiz.com openly volunteers its practices of collecting information and it's practices of this site. If you have any questions pertaining to this privacy policy and its contents, [please write to us](https://web.archive.org/web/20181206081231id_/https%3A//www.pastrywiz.com/mail/stmail.htm).
 
-Copyright © PastryWiz TM
+Copyright Š PastryWiz TM
