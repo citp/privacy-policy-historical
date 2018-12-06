@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utah.edu privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622163927id_/http%3A//www.utah.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.edu privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206205818id_/http%3A//www.utah.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - The University of Utah
 
@@ -10,7 +10,7 @@ While using this site, you may choose to submit personal information through ema
 
 ## **EU General Data Protection Regulation**
 
-Please be aware of the University’s GDPR Privacy Notice that supplements this Privacy Statement. The GDPR Privacy Notice applies generally to the provision of personal information by individuals in the European Economic Area. The GDPR Privacy Notice explains how we meet our obligations under the European Union General Data Protection Regulation with respect to such information. The GDPR Privacy Notice can be found at [https://www.utah.edu/privacy/gdpr.html](https://web.archive.org/privacy/gdpr.php "GDPR Privacy Notice"). 
+Please be aware of the University’s GDPR Privacy Notice that supplements this Privacy Statement. The GDPR Privacy Notice applies generally to the provision of personal information by individuals in the European Economic Area. The GDPR Privacy Notice explains how we meet our obligations under the European Union General Data Protection Regulation with respect to such information. The GDPR Privacy Notice can be found at [https://www.utah.edu/privacy/gdpr.php](https://web.archive.org/privacy/gdpr.php "GDPR Privacy Notice"). 
 
 ## Statistical Logs Kept
 
@@ -51,7 +51,7 @@ We encourage parents to explore our website with their children. If we learn tha
 
 Here's how to review or change your personal profile information (address, home phone, e-mail): 
 
-  * **On the Web** – Log in to the [Campus Information Services](http://gate.acs.utah.edu/) and click your address, phone, or email to edit. 
+  * **On the Web** – Log in to the [Campus Information Services](http://cis.utah.edu/) and click your address, phone, or email to edit. 
   * **In Person** – Visit Registration Service Window #13 on the 2nd floor of the [Student Services Building.](http://www.map.utah.edu/index.html?code=ssb)
   * **By Phone** – Call the Registration Division (801) 581-8969. 
 
@@ -59,10 +59,10 @@ Here's how to review or change your personal profile information (address, home 
 
 ## Related Policies
 
-  * [Policies & Procedures 1-12 U Institutional Data Management Policy](http://www.admin.utah.edu/ppmanual/1/1-12.html)
-  * [Policies & Procedures 1-15 U Information Resources Policy](http://www.admin.utah.edu/ppmanual/1/1-15.html)
-  * [Policies & Procedures 1-16 U World Wide Web Resources Policy](http://www.admin.utah.edu/ppmanual/1/1-16.html)
-  * [Network Service Policy and Use Agreement](http://www.netcom.utah.edu/info/use_policy.html)
+  * [Policies & Procedures 1-12 U Institutional Data Management Policy](https://regulations.utah.edu/it/4-001.php)
+  * [Policies & Procedures 1-15 U Information Resources Policy](https://regulations.utah.edu/it/4-002.php)
+  * [Policies & Procedures 1-16 U World Wide Web Resources Policy](https://regulations.utah.edu/it/4-003.php)
+  * [IT Policies and Procedures](https://it.utah.edu/policies/index.php)
 
 
 
