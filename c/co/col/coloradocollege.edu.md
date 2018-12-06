@@ -1,43 +1,121 @@
-> *The following text is extracted and transformed from the coloradocollege.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213952id_/https%3A//www.coloradocollege.edu/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloradocollege.edu privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206151509id_/https%3A//www.coloradocollege.edu/basics/welcome/leadership/policies/general-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement • Colorado College
+# General Privacy Policy • Colorado College
 
-**Last updated:** March 7, 2016
+### Scope
 
-Colorado College (the college) operates several websites including [www.coloradocollege.edu](http://www.coloradocollege.edu/). It is our intention to respect your privacy regarding any information we may collect while operating our websites.
+All financial and administrative policies involving community members across campus are within the scope of this policy. If there is variance between departmental expectations and the common approach described through college policy, the college will look to the campus community to support the spirit and the objectives of college policy.
 
-### **Website Visitors**
+### Policy
 
-Like most website operators, Colorado College collects non-personally identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. We may use your IP address to help diagnose problems with our servers, to tailor site content and to format the site and software to user needs, and to generate aggregate statistical reports. We may use aggregate visitor data to prepare publicly displayed reports regarding the traffic on our site or on individual pages, site popularity rankings, and referrers that visitors use to access individual web pages.
+**Website**
 
-### **Gathering of Personally Identifying Information**
+**What we collect and why**
 
-Certain visitors to Colorado College’s websites choose to interact with the college in ways that require the college to gather personally identifying information. The amount and type of information that the college gathers depends on the nature of the interaction. For example, prospective students who engage in the application process are asked to provide additional information, including as necessary the personal and financial information required to process those applications. In each case, Colorado College collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with the college. Colorado College does not disclose personally identifying information other than as described below. And visitors can always refuse to supply personally identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Colorado College (CC) collects information from individuals or entities when they access any CC website.  Information that is collected from this contact is the contactor’s IP address, date and time of the website access along with the web pages(s) visited.  In addition, CC may also collect any information that it receives from your web browser, including browser type and version, and operating system.  This information helps us understand aggregate uses of our site, track usage trends and improve our services.
 
-### **Aggregated Statistics**
+**Cookies**
 
-Colorado College may collect statistics about the behavior of visitors to its websites. For instance, the college may monitor the most popular pages on the www.coloradocollege.edu site. The college does not disclose personally identifying information other than as described below.
+Cookies are pieces of data that many websites transfer to users’ web browsers to enable the site to deliver personalized services or to provide persistent authentication. The information contained in a cookie typically includes information collected automatically by the web server and/or information provided voluntarily by the user.  Our website uses persistent cookies in conjunction with a third party technology partner to analyze search engine usage and web traffic patterns. This information is used in the aggregate to monitor and enhance our web pages. It is not used to track the usage patterns of individual users. **  
+**
 
-### **Protection of Certain Personally Identifying Information**
+**Security**
 
-Colorado College discloses potentially personally identifying and personally identifying information only to those employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on the college’s behalf or to provide services available at Colorado College’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors, and affiliated organizations may be located outside of your home country; by using Colorado College’s websites, you consent to the transfer of such information to them. The college will not rent or sell potentially personally identifying and personally identifying information to anyone.
+Colorado College is committed to ensuring the security of your information. We have put in place reasonable physical, technical and administrative safeguards designed to prevent unauthorized access to or use of the information collected online.
 
-Other than to its employees, contractors, and affiliated organizations, as described above, Colorado College only discloses potentially personally identifying and personally identifying information in response to a subpoena, court order, or other governmental request, or when Colorado College believes in good faith that disclosure is reasonably necessary to protect the property or rights of the college, third parties, or the public at large. If you are a registered user of a Colorado College website and have supplied your email address, Colorado College may occasionally send you an email to provide news from the college, solicit your feedback, or just keep you up to date with what’s going on with the Colorado College community. Colorado College takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally identifying and personally identifying information.
+**Sharing your information**
 
-### **Cookies**
+We will not share your information with third parties except:
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Colorado College uses cookies to help the college identify and track visitors, their usage of the Colorado College website, and their website access preferences. Colorado College visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the college’s websites, with the drawback that certain features of the college’s websites may not function properly without the aid of cookies.
+  * as required by law;
+  * as necessary to protect Institute interests;
+  * as necessary to further research efforts pursuant to approvals from appropriate data stewards and the IRB <https://www.coloradocollege.edu/other/irb/> ; and/or
+  * with service providers acting on our behalf who have agreed to protect the confidentiality of the data.
 
-### **Privacy Statement Changes**
 
-Although most changes are likely to be minor, Colorado College may change its Privacy Statement from time to time, at Colorado College’s sole discretion. Colorado College encourages visitors to frequently check this page for any changes to its Privacy Statement.  Your continued use of this site after any change in this Privacy Statement will constitute your acceptance of such change.
 
-**Sources**
+**Links to other websites**
 
-This document is based upon the following sources:
+Colorado College’s website may contain links to other websites not affiliated with the college. CC is not responsible for the privacy practices of these other sites. We encourage you to read the privacy statements of other sites for assurance that their practices safeguard your privacy.
 
-<https://blogs.harvard.edu/privacy-policy/>   
-_(licensed under a_[ _Creative Commons Attribution-Share Alike 3.0 United States License_](http://creativecommons.org/licenses/by-sa/3.0/us/) _)_
+**Legal Notice**
 
-<https://automattic.com/privacy/>   
-_(licensed under a_[ _Creative Commons Sharealike_](http://creativecommons.org/licenses/by-sa/4.0/) _license)_
+Notwithstanding any language to the contrary, nothing contained herein constitutes nor is intended to constitute an offer, inducement, promise, or contract of any kind. The data contained herein is for informational purposes only and is not represented to be error free. Any links to non-CC information are provided as a courtesy. They are not intended to nor do they constitute an endorsement by Colorado College of the linked materials.
+
+**European Union General Data Protection Regulation (EU GDPR) Privacy Notice**
+
+**Lawful Basis for Collecting and Processing of Personal Data**
+
+Colorado College (CC) is an institute of higher education involved in education, research, and community service and development.  In order for CC to educate its students, engage in research, and provide community services, it is essential, necessary, and Colorado College has lawful bases to collect, process, use, and maintain data of its students, employees, applicants, research subjects, and others involved in its educational, research, and community programs. The lawful bases include, without limitation, admission, registration, delivery of classroom, field, and study abroad education, grades, communications, employment, applied research, development, program analysis for improvements, and records retention. Examples of data that Colorado College may need to collect in connection with the lawful bases are: name, email address, IP address, physical address or other location identifier, photos, as well as some sensitive personal data obtained with prior consent. For more information on privacy related to development activities, please read [link to Advancement’s policy]
+
+For more information regarding the EU GDPR, please review Colorado College’s [EU General Data Protection Regulation Compliance Policy](https://www.coloradocollege.edu/basics/welcome/leadership/policies/eu-general-data-protection-regulation-compliance-policy).
+
+Most of Colorado College’s collection and processing of personal data will fall under the following categories:
+
+  * Processing is necessary for the purposes of the legitimate interests pursued by Colorado College or third parties in providing education, employment, research and development, and community programs.
+  * Processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract. This lawful basis pertains primarily but not exclusively to research contracts.
+  * Processing is necessary for compliance with a legal obligation to which Colorado College is subject.
+  * The data subject has given consent to the processing of his or her personal data for one or more specific purposes.  This lawful basis pertains primarily but not exclusively to the protection of research subjects, providing medical and mental health services.
+
+
+  * There will be some instances where the collection and processing of personal data will be pursuant to other lawful bases.
+
+
+
+**Types of Personal Data collected and why**
+
+Colorado College collects a variety of personal and sensitive data to meet one of its lawful bases, as referenced above. Most often the data is used for academic admissions, enrollment, educational programs, job hiring, provision of medical services, participation in research, development and community outreach. Data typically includes name, address, transcripts, work history, information for payroll, research subject information, medical and health information (for student health services, athletics or travel), and donations. If you have specific questions regarding the collection and use of your personal data, please contact [privacy@coloradocollege.edu](mailto:privacy@coloradocollege.edu)
+
+If a data subject refuses to provide personal data that is required by Colorado College (CC) in connection with one of CC’s lawful bases to collect such personal data, such refusal may make it impossible for Colorado College to provide education, employment, research or other requested services.
+
+**Where Colorado College gets Personal and Sensitive Personal Data**
+
+Colorado College (CC) receives personal and sensitive personal data from multiple sources. Most often, CC gets this data directly from the data subject or under the direction of the data subject who has provided it to a third party (for example, application for admission to Colorado College through use of the Common App).
+
+**Individual Rights of the Data Subject under the EU GDPR**
+
+Individual data subjects covered by Colorado College’s EU General Data Protection Regulation Compliance Policy [insert link here] will be afforded the following rights:
+
+  * information about the controller collecting the data
+  * the data protection officer contact information
+  * the purposes and legal basis/legitimate interests of the data collection/processing
+  * recipients of the personal data
+  * if Colorado College intends to transfer personal data to another country or international organization
+  * the period the personal data will be stored
+  * the existence of the right to access, rectify incorrect data or erase personal data, restrict or object to processing, and the right to data portability
+  * the existence of the right to withdraw consent at any time
+  * the right to lodge a complaint with a supervisory authority (established in the EU)
+  * why the personal data are required, and possible consequences of the failure to provide the data
+  * the existence of automated decision-making, including profiling
+  * if the collected data are going to be further processed for a purpose other than that for which it was collected **  
+**
+
+
+
+**Note: Exercising of these rights is a guarantee to be afforded a process and not the guarantee of an outcome.**
+
+Any data subject who wishes to exercise any of the above-mentioned rights may do so by emailing a request to [privacy@coloradocollege.edu](mailto:privacy@coloradocollege.edu) 
+
+**Cookies**
+
+Cookies are files that many websites transfer to users’ web browsers to enable the site to deliver personalized services or to provide persistent authentication. The information contained in a cookie typically includes information collected automatically by the web server and/or information provided voluntarily by the user.  Our website uses persistent cookies in conjunction with a third party technology partner to analyze search engine usage and web traffic patterns. This information is used in the aggregate to monitor and enhance our web pages. It is not used to track the usage patterns of individual users.
+
+**Security of Personal Data subject to the EU GDPR**
+
+All personal data and sensitive personal data collected or processed by Colorado College under the scope of the Colorado College EU General Data Protection Regulation Compliance Policy [link to be inserted here] must comply with the security controls and systems and process requirements and standards of the college’s Information Security Policy <https://www.coloradocollege.edu/basics/welcome/leadership/policies/information-security-policy>
+
+We will not share your information with third parties except:
+
+  * as necessary to meet one of its lawful purposes, including  but not limited to,
+  * its legitimate interest,
+  * contract compliance,
+  * pursuant to consent provided by you,
+  * as required by law;
+  * as necessary to protect Colorado College’s interests;
+  * with service providers acting on our behalf who have agreed to protect the confidentiality of the data.
+
+
+
+**Data Retention**
+
+Colorado College keeps the data it collects for the time periods specified in the Records Policy: Retention and Disposition of Records <https://www.coloradocollege.edu/basics/welcome/leadership/policies/records-policy-retention-and-disposition-of-records>
