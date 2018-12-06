@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bpoint.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313023246id_/https%3A//www.commbank.com.au/security-privacy/general-security/privacy-policy-html-version.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpoint.com.au privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206182522id_/https%3A//www.commbank.com.au/security-privacy/general-security/privacy-policy-html-version.html) for the most accurate reproduction.*
 
 # Privacy Policy - How we handle your personal information - CommBank
 
@@ -8,11 +8,17 @@
 
 The Commonwealth Bank of Australia and its subsidiaries (the Group) provide banking, finance, insurance, funds management, financial planning and advice, superannuation, stockbroking and other services. The Group includes the CommSec, CommInsure, Commonwealth Financial Planning, Financial Wisdom, Count Financial, Bankwest and Colonial First State businesses. All of the Group’s Australian members must follow the Privacy Act and Australian Privacy Principles (APPs).
 
-For more information about the Group, including a complete list of Group members, see CommBank’s latest Annual Report, available at [commbank.com.au/shareholders](https://web.archive.org/about-us/investors/shareholders.html).
+For more information about the Group, including a complete list of Group members, see CommBank’s latest Annual Report, available at [commbank.com.au/shareholders](https://web.archive.org/about-us/investors.html).
 
 Some of the Group’s Australian businesses have their own privacy policies — these are Aussie Home Loans and Residential Mortgage Group, Ausiex, Bankwest, CFS Global Asset Management and Commonwealth Bank Group Super. If you’re a customer of one of these businesses, please read their privacy policy. Website details can be found in Section 10.
 
-In this policy, “we”, “us” or “our” means each Australian member of the Group, except the businesses that have their own privacy policy.  
+In this policy, “we”, “us” or “our” means each Australian member of the Group, except the businesses that have their own privacy policy. 
+
+In addition to the Privacy Act, individuals located in the European Union (EU) may also have rights under EU based rules known as the General Data Protection Regulation (GDPR).  The GDPR has harmonised the data privacy laws of each individual EU country, giving more rights to individuals located in the EU and more obligations to organisations holding their personal information.
+
+Details of additional rights of individuals located in the EU and how we meet them are outlined in Appendix 1.
+
+We take privacy seriously and are committed to ensuring the protection of your personal information, no matter where you are located. 
 
 ##  2\. Your privacy is important to us 
 
@@ -22,23 +28,15 @@ In this policy, “we”, “us” or “our” means each Australian member of 
 
 **Information we collect from you**
 
-We collect personal information about you when you use our products or services, or deal with us in some way.
-
-This includes collecting information when you:
-
-  * Contact us — for example, when you open an account, fill in an application or claim form, give us feedback or make a complaint
-  * Use our products or services – for example, when you use your debit or credit card, pay a bill or transfer money
-  * Visit our websites or use our mobile apps.
-
-
+We collect personal information about you when you contact us, use our products or services, visit our websites or use our mobile apps or deal with us in some other way. 
 
 The information we collect from you may include:
 
   * Information about your identity — including your name, address, date of birth, gender and marital status
   * Your Tax File Number or tax residency status
-  * Health information — for example for insurance purposes
+  * Health information — for example for insurance purposes 
   * Financial and transaction information
-  * When you visit our websites or use our mobile apps — your location information, IP address and any third-party sites you access. For more information about how we do this, visit [commbank.com.au](https://web.archive.org/personal/support/security/cookies.html) **** or visit [commbank.com.au/app](https://www.commbank.com.au/app)
+  * When you visit our websites or use our mobile apps — your location information, IP address and any third-party sites you access. For more information about how we do this, visit commbank.com.au and click the Cookies link at the bottom of the page or visit commbank.com.au/app
   * Other personal information, such as details of your interactions with us.
 
 
@@ -67,7 +65,7 @@ For example, if you apply for credit, we may ask a credit reporting body for you
 
 **Sensitive information**
 
-The Privacy Act protects your sensitive information — such as information about your religion, ethnicity, health or biometrics (for example, your fingerprints). If we need this type of information, we’ll ask for your permission — except where otherwise allowed by law.  
+The Privacy Act protects your sensitive information — such as information about your religion, ethnicity, health or biometrics (for example, your fingerprints). If we need this type of information, we’ll ask for your permission — except where otherwise allowed by law. 
 
 ##  4\. How do we use your information? 
 
@@ -205,13 +203,12 @@ Credit reporting bodies include this information in their reports to assist othe
 
 We can also ask credit reporting bodies to give us your overall credit score, and may use credit information from credit reporting bodies together with other information to arrive at our own scoring of your ability to manage credit.
 
-The credit reporting bodies we use are Equifax Pty Ltd, Experian Australia Credit Services Pty Ltd and Dun & Bradstreet (Australia) Pty Ltd. You can download a copy of their privacy policies at:
+The credit reporting bodies we use are Equifax Pty Ltd, Experian Australia Credit Services Pty Ltd and Illion Australia Pty Ltd. You can download a copy of their privacy policies at:
 
-  * [equifax.com.au/privacy](http://equifax.com.au/privacy)  
-
+  * [www.equifax.com.au/privacy](https://www.equifax.com.au/privacy)
   * [experian.com.au/legal/privacy.html](http://www.experian.com.au/legal/privacy.html)  
 
-  * [dnb.com.au/privacy-policy.html](http://dnb.com.au/privacy-policy.html)
+  * [www.illion.com.au/privacy-policy](http://www.illion.com.au/privacy-policy)
 
 
 
@@ -348,25 +345,17 @@ If your complaint is about your credit information, we may need to check with cr
 
 **What else can you do?**
 
-If you’re not satisfied with how we manage your complaint after you’ve been through our internal complaints process, there are free and independent dispute resolution services available to you.
+If you’re not satisfied with how we manage your complaint or our decision after you’ve been through our internal complaints process, the Australian Financial Complaints Authority (AFCA) offers a free independent dispute resolution service for consumer and small business complaints. You can contact AFCA between 9am and 5pm (Sydney time) Monday to Friday.
 
-The Financial Ombudsman Service can consider most complaints involving financial services providers.  
-For complaints about superannuation and annuities, you can contact the Superannuation Complaints Tribunal.
+The [Australian Financial Complaints Authority (AFCA)](http://www.afca.org.au/) can consider most complaints involving financial services providers. 
 
-If your complaint is about how we handle your personal information, you can also contact the Office of the Australian Information Commissioner.  
+If your complaint is about how we handle your personal information, you can also contact the Office of the Australian Information Commissioner.
 
-
-**Financial Ombudsman Service**  
-GPO Box 3  
+**Australian Financial Complaints Authority  
+**GPO Box 3  
 Melbourne VIC 3001  
-Phone 1800 367 287  
-Visit [fos.org.au](http://www.fos.org.au/)
-
-**Superannuation Complaints Tribunal**  
-Locked Bag 3060,  
-Melbourne VIC 3001  
-Phone 1300 884 114  
-Visit [sct.gov.au](http://www.sct.gov.au/)
+Phone 1800 931 678 (free call)  
+Visit [afca.org.au](http://www.afca.org.au/)
 
 **Office of the Australian Information Commissioner**  
 GPO Box 5218  
@@ -445,4 +434,285 @@ Australian Retail Credit Association (credit reporting rules only)
 
 | 
 
-Visit [arca.asn.au](http://www.arca.asn.au/)
+Visit [arca.asn.au](http://www.arca.asn.au/)  
+  
+##  Appendix 1: Additional rights for individuals located in the European Union 
+
+The European Union (EU) General Data Protection Regulation (GDPR) has harmonised the data privacy laws of each individual EU country, giving more rights to individuals located in the EU and more obligations to organisations holding their personal information.   In this Appendix, “personal information” means any information relating to an identified or identifiable natural person (the meaning given to the term “personal data” in the GDPR).
+
+Personal information must be processed in a lawful, fair and transparent manner. As such, if you are located in the EU, GDPR requires us to provide you with more information about how we collect, use, share and store your personal information as well as advising you of your rights as a 'data subject'.
+
+If you are located in the EU and have an enquiry relating to your rights under the GDPR, please contact [datarights@cba.com.au](mailto:datarights@cba.com.au)
+
+Please refer to Section 3 of the main Privacy Policy for details of the personal information we collect.
+
+**Special Categories of Personal Information  **
+
+The GDPR provides additional protection for personal information about your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, biometric data (for example your fingerprints), or data concerning your health, sex life or sexual orientation. We will only process this type of personal information with your consent or where otherwise lawfully permitted.
+
+**How long we keep your personal information**
+
+We will keep your personal information while you are a customer of the Group. We aim to keep your personal information for only as long as we need it.
+
+We generally keep your personal information for up to 7 years after you stop being a customer but we may keep your personal information for longer:
+
+  * To fulfil legal or regulatory obligations
+  * For internal research and analytics 
+  * To respond to a question or complaint
+
+
+
+We can only collect and use your personal information if we have a valid lawful reason to do so.  For the Group, these reasons are:
+
+  * Contract:  We need to process your personal information in order to fulfil a contract you have with us, or because you have asked us to take specific steps before entering into a contract.
+  * Legal obligations:  We need to process your personal information for us to comply with the law (not including contractual obligations).
+  * Consent: You have given clear consent for us to process your personal information for a specific purpose.
+  * Legitimate interests: We need to process your personal information for our legitimate interests or the legitimate interests of a third party unless there is a good reason to protect your personal information which overrides these legitimate interests.
+
+
+
+**How we use your personal information**
+
+| 
+
+**Our reasons**
+
+| 
+
+**Our legitimate interests**  
+  
+---|---|---  
+  
+To confirm your identity
+
+| 
+
+  * To fulfil contracts
+  * To meet our legal duty
+  * We have legitimate interests
+
+
+
+| 
+
+  * Preventing fraud
+  * Complying with guidance of regulators
+  * Managing risk
+
+  
+  
+To assess your application for a product or service
+
+| 
+
+  * We have your consent
+  * To fulfil contracts
+  * To meet our legal duty
+  * We have legitimate interests
+
+
+
+| 
+
+  * Identifying credit risks prior to entering into a loan agreement
+  * Complying with guidance of regulators
+  * Managing risk
+
+  
+  
+To manage our relationship with you
+
+| 
+
+  * We have your consent
+  * To fulfil contracts
+  * To meet our legal duty
+  * We have legitimate interests
+
+
+
+| 
+
+  * Preventing and investigating potential criminal activity
+  * Complying with guidance of regulators
+  * Managing risk.
+
+  
+  
+To minimise risks and identify or investigate fraud and other illegal activities
+
+| 
+
+  * To fulfil contracts
+  * To meet our legal duty
+  * We have legitimate interests
+
+
+
+| 
+
+  * Preventing fraud
+  * Ensuring network and information security
+  * Reporting possible criminal acts or threats to public security
+  * Preventing and investigating potential criminal activity
+  * Complying with guidance of regulators
+  * Managing risk.
+
+  
+  
+To contact you, for example, when we need to tell you something important
+
+| 
+
+  * We have your consent
+  * To fulfil contracts
+  * To meet our legal duty
+  * We have legitimate interests
+
+
+
+| 
+
+  * Preventing fraud
+  * Complying with guidance of regulators
+  * Managing risk
+
+  
+  
+To improve our service to you and your experience with us
+
+| 
+
+  * We have your consent
+  * To fulfil contracts
+  * To meet our legal duty
+  * We have legitimate interests
+
+
+
+| 
+
+  * Preventing and investigating potential criminal activity
+  * Complying with guidance of regulators
+  * Managing risk
+
+  
+  
+To comply with laws, and assist government or law enforcement agencies
+
+| 
+
+  * To fulfil contracts
+  * To meet our legal duty
+  * We have legitimate interests
+
+
+
+| 
+
+  * Preventing fraud
+  * Ensuring network and information security
+  * Reporting possible criminal acts or threats to public security
+  * Preventing and investigating potential criminal activity
+  * Complying with guidance of regulators
+  * Managing risk
+
+  
+  
+To manage our business
+
+| 
+
+  * We have your consent
+  * To fulfil contracts
+  * To meet our legal duty
+  * We have legitimate interests
+
+
+
+| 
+
+  * Complying with guidance of regulators
+  * Preventing and investigating potential criminal activity
+  * Managing risk
+
+  
+  
+We may use your information for direct marketing purposes.  We will only do this with your consent.
+
+The right to be informed how personal information is processed
+
+| 
+
+You have the right to be informed how your personal information is being collected and used.  If we require your consent to process your personal information you can withdraw consent at any time.  If you withdraw consent, we may not be able to provide certain products or services to you. The right to withdraw only applies when the lawful basis of processing is consent.  
+  
+---|---  
+  
+The right of access to personal information
+
+| 
+
+You can access your personal information that we hold by emailing: datarights@cba.com.au  
+  
+The right to rectification
+
+| 
+
+You have the right to question any personal information we have about you that is inaccurate or incomplete.  If you do, we will take reasonable steps to check the accuracy and correct it.  
+  
+The right to erasure
+
+| 
+
+You have the right to ask us to delete your personal information if there is no need for us to keep it.  You can make the request verbally or in writing.  There may be legal or other reasons why we need to keep your personal information and if so we will tell you what these are.  
+  
+The right to restrict processing
+
+| 
+
+You have the right to ask us to restrict our use of your personal information in some circumstances. In this situation we would not use or share your personal information while it is restricted. This is not an absolute right and only applies in certain circumstances.  
+  
+The right to data portability
+
+| 
+
+In some circumstances you have the right to request we provide you with a copy of the personal information you have provided to us in a format that can be easily reused.  
+  
+The right to object
+
+| 
+
+In some circumstances you have the right to object to us processing your personal information.    
+  
+Rights in relation to automated decision making and profiling
+
+| 
+
+We sometimes use systems to make automated decisions (including profiling) based on personal information we have collected from you or obtained from other sources such as credit reporting bodies.  These automated decisions can affect the products or services we offer you.  You can ask that we not make decisions based on automated score alone or object to an automated decision and ask that a person review.    
+  
+The right to lodge a complaint with a supervisory authority
+
+| 
+
+You have the right to complain to the regulator if you are not happy with the outcome of a complaint.  
+
+See the ‘Regulator Contact Details’ section for more information.
+
+The individual regulator websites will tell you how to report a concern.   
+  
+Please note that while any changes you make to your personal information will be reflected in active user databases instantly or within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.
+
+You may decline to share certain personal information with us, in which case we may not be able to provide to you some of the features and functionality of our products and services.
+
+We will seek parent or guardian consent to collect the details of children under 16.
+
+The UK data protection authority is:
+
+Information Commissioner’s Office  
+Wycliffe House  
+Wilmslow  
+Cheshire SK9 5AF  
+UK  
+Visit: [ico.org.uk](https://ico.org.uk/)
+
+For other European jurisdictions please refer to the [European Commission](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) website for details of the relevant data protection authorities.
