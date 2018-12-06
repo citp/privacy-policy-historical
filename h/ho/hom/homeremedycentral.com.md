@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the homeremedycentral.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604120426id_/http%3A//www.homeremedycentral.com/en/administration/home-remedy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeremedycentral.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206091839id_/http%3A//www.homeremedycentral.com/en/administration/home-remedy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy-Home Remedy-Admin Home Remedy Central
 
-Your privacy is protected with us.
+We are pleased you are interested in visiting our website. We respect your privacy and it is protected with us. This Privacy Policy explains how we process your personal information when you visit our website.
 
-We will never rent, sell, release, disclose, or otherwise disseminate your personal information without your permission. You may visit homeremedycentral.com without revealing any personal information about yourself.
+We will not sell, rent, release, or otherwise disseminate your personal information without your permission. You may visit Home Remedy Central without revealing any personal information about yourself.
 
-Personal information is required for registration on homeremedycentral.com (name, email) to post articles or information in the forum. Registration is not required to read any page.
+Personal information is required for registration on homeremedycentral.com (name, email address) to post articles or post information in the forum. Registration is not required to view any pages on our website.
 
 Homeremedycentral.com uses statistical tracking software to provide metrics of site visitors and page views. The software may use cookies to track user navigation of the site for summary reporting only.
 
