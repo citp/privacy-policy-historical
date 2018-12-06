@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nyamile.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623083834id_/http%3A//nyamile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyamile.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206205240id_/https%3A//www.nyamile.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Terms – Nyamilepedia
 
 ### Protection of Personal Information on Nyamilepedia
 
-The executive director of Nyamilepedia is accountable for policies and practices pertaining to the management of personal information on our main website and any third party site that is directly managed or supervised at Nyamilepedia. He can be reached for complaints and inquires through [this contact information](http://www.nyamile.com/contacts/)
+The executive director of Nyamilepedia is accountable for policies and practices pertaining to the management of personal information on our main website and any third party site that is directly managed or supervised at Nyamilepedia. He can be reached for complaints and inquires through [this contact information](https://www.nyamile.com/contacts/)
 
 ### Third Party Cookies
 
