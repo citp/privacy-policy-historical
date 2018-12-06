@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorgearlab.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628091154id_/https%3A//www.outdoorgearlab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorgearlab.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206095131id_/https%3A//www.outdoorgearlab.com/privacy) for the most accurate reproduction.*
 
 # OutdoorGearLab Privacy Policy
 
@@ -18,7 +18,7 @@ You also provide us information in User Content you post to the Service. Your qu
 
 If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. You may also use our contact importer tool to help you upload your friends' email addresses so you can find friends who are already on OutdoorGearLab or invite friends to the Service. OutdoorGearLab stores this information to send invitations, to register your friend if your invitation is accepted, to track the success of our invitation service, and to identify your friends on OutdoorGearLab.
 
-**Information Collected Automatically** : When you use the Service, we use persistent and session cookies and other tracking technologies to: (a) store your username and password; (b) analyze the usage of the Service; (c) customize the Service to your preferences; and (d) control the advertising displayed by the Service. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. You can find more information about our use of Cookies [here](https://www.outdoorgearlab.com/cookies). 
+**Information Collected Automatically** : When you use the Service, we use persistent and session cookies and other tracking technologies to: (a) store your username and password; (b) analyze the usage of the Service; (c) customize the Service to your preferences; and (d) control the advertising displayed by the Service. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. You can find more information about our use of Cookies [here](https://web.archive.org/cookies). 
 
 We may also use other Internet technologies, log files, clear GIFs, Flash technologies, and other similar technologies, to deliver or communicate with cookies and track your use of the Service. We also may include clear GIFs in HTML-based emails sent to our users to determine whether the message has been opened. As we adopt additional technology, we may also gather additional information through other methods.
 
@@ -68,5 +68,6 @@ If you have any questions about our practices or this privacy policy, please con
 
 OutdoorGearLab, LLC  
 Attn: Privacy  
-1712 Pioneer Ave, Suite 548  
-Cheyenne, WY 82001 
+1712 Pioneer Ave, Suite 548
+
+Cheyenne, WY 82001
