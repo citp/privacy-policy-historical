@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wirelesshack.org privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312153543id_/http%3A//www.wirelesshack.org/privacy-policy-for-www-wirelesshack-org.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelesshack.org privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206011545id_/https%3A//www.wirelesshack.org/privacy-policy-for-www-wirelesshack-org.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.wirelesshack.org | WirelesSHack
 
-Privacy Policy
+Privacy Policy : UPDATED 5-15-2018 
 
-We have created this privacy statement for http://www.wirelesshack.org in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with http://www.wirelesshack.org. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
+We have created this privacy statement for www.wirelesshack.org in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with www.wirelesshack.org. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
 We recognize the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers needs.
 
@@ -35,6 +35,8 @@ What Are Cookies?
 A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that sites computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browsers preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
 
 How Do We Use Information We Collect from Cookies?
+
+We use cookies to personalize content and ads, to provide social media features and to analyze our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information you’ve provided to them or they’ve collected from your use of their services
 
 As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web servers log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
 
@@ -108,7 +110,23 @@ The ads served will be targeted based on your previous browsing history (For exa
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.  
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-    **Earning Disclaimer**  
+  **Email Newsletter Signup Form**  
+At the bottom of each page is a voluntary newsletter email signup form.
+
+  This is to provide a user with new information from wirelesshack.org such as tutorials or reviews.
+
+  MailChimp service is used to manage the email news letter. A user can Unsubscribe at any time.
+
+  No contact information is sold or shared and is only used to send updates to a user about new wirelesshack.org news and information.
+
+  [Read MailChimp Privacy Policy Here](https://mailchimp.com/legal/privacy/)
+
+  **Comment Section**  
+When a visitor leaves a comment on Wirelesshack.org we collect that comment, and other information that the visitor provides along with the comment, such as the visitor’s name and email address.
+
+  Akismet is used to reduce spam. Read Here for [Akismet Privacy Policy ](https://automattic.com/privacy-notice/)
+
+  **Earning Disclaimer**  
 The owner of this website, is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking www.wireleshack.org to Amazon properties including, but not limited to, amazon.com, endless.com, myhabit.com, smallparts.com, or amazonwireless.com. Certain content that appears on this site comes from Amazon Services LLC. This content is provided as is and is subject to change or removal at any time.
 
   The owner of this website, wirelesshack.org, is a participant in the Amazon Services LLC Associates Program, Amazon.com.ca, Inc, Amazon EU Associates Programme an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking www.wireleshack.org to Amazon properties including, but not limited to, Amazon.com, Amazon.ca, Amazon.co.uk, Amazon EU Associates Programme, Amazon.it, Amazon.es, Amazon.fr endless.com, myhabit.com, smallparts.com, or amazonwireless.com Amazon.ca, Amazon.co.uk and other sites worldwide.
