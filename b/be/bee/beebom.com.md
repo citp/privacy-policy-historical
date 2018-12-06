@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beebom.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516042931id_/https%3A//beebom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beebom.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206230031id_/https%3A//beebom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer | Beebom
 
-Beebom’s privacy policy and disclaimer was last updated and posted on September 01, 2015. It governs the privacy and governing terms of our website, located at [beebom.com](http://beebom.com/).
+Beebom’s privacy policy and disclaimer was last updated and posted on September 01, 2015. It governs the privacy and governing terms of our website, located at [beebom.com](https://beebom.com/).
 
 **What Information do we store?**
 
@@ -24,7 +24,7 @@ Beebom does provide links to other websites that are not under our direct contro
 
 Beebom uses Amazon associates program for promoting products from Amazon through affiliate links. Whenever a user buys a product from those links, we earn commission. However, we only recommend relevant products that have high ratings and positive reviews.
 
-Starting September 2015, Beebom has started using VigLink’s affiliate program which converts external links to affiliate links. Whenever a user makes purchase using such link, we earn a small compensation. However, very much like the case of Amazon associates, we only recommend relevant and useful products for readers. If you would like to opt out from VigLink, click [here](http://www.viglink.com/opt-out/).
+Starting September 2015, Beebom has started using VigLink’s affiliate program which converts external links to affiliate links. Whenever a user makes purchase using such link, we earn a small compensation. However, very much like the case of Amazon associates, we only recommend relevant and useful products for readers. If you would like to opt out from VigLink, click [here](https://www.viglink.com/opt-out/).
 
 **Privacy Policy Updates**
 
@@ -32,4 +32,4 @@ We reserve the right to modify this privacy policy at any time. You should revie
 
 **Questions About  Privacy Policy and Disclaimer**
 
-If you have any questions about our privacy practices or this policy, please [contact us](http://beebom.com/contact-us).
+If you have any questions about our privacy practices or this policy, please [contact us](https://beebom.com/contact-us).
