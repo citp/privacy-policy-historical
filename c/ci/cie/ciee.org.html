@@ -1,411 +1,520 @@
-<!--The following is the downloaded HTML source of the ciee.org privacy policy that was archived on 2017-07-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170708215308id_/https%3A//www.ciee.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ciee.org privacy policy that was archived on 2018-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181206173330id_/https%3A//www.ciee.org/privacy-notice) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js history"><head><title>
+<!DOCTYPE html><html class="no-js" lang="en" dir="ltr"><!--<![endif]--><head>
+  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NT8R8JV"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta property="og:site_name" content="CIEE">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="https://www.ciee.org/sites/all/themes/ciee/favicon.ico">
+<meta http-equiv="ImageToolbar" content="false">
+<meta property="og:url" content="https://www.ciee.org/privacy-notice">
+<meta property="og:description" content="Privacy Notice">
+<meta property="og:title" content="Privacy Notice">
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)">
+<link rel="canonical" href="https://www.ciee.org/privacy-notice">
+<link rel="shortlink" href="https://www.ciee.org/node/158681">
+<meta property="og:site_name" content="CIEE">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.ciee.org/privacy-notice">
+<meta property="og:title" content="Privacy Notice">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="https://www.ciee.org/privacy-notice">
+<meta name="twitter:title" content="Privacy Notice">
+  <title>Privacy Notice | | CIEE</title>
 
-</title><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script type="text/javascript" src="//cdn.evergage.com/beacon/ciee/engage/scripts/evergage.min.js"></script>
 
+  <link rel="stylesheet" href="https://www.ciee.org/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css">
+<link rel="stylesheet" href="https://www.ciee.org/sites/default/files/css/css_iEGsc7wEkAptozD3u-r3SDnjWijp_ku74P1Xnssbnok.css">
+<link rel="stylesheet" href="https://www.ciee.org/sites/default/files/css/css_1lBUwQSZE9Ex-NUXlctwXR2s6SRXSO43WZ1KFwJ4KD4.css">
+<style>#sliding-popup.sliding-popup-bottom,#sliding-popup.sliding-popup-bottom .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#fff;}#sliding-popup.sliding-popup-bottom.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,.eu-cookie-compliance-more-button,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#000 !important;}.eu-cookie-withdraw-tab{border-color:#000;}
+</style>
+<link rel="stylesheet" href="https://www.ciee.org/sites/default/files/css/css_5m3g9A-bSi4lygEUt8fDieB-TeFWnfcS7Es4Vg-3FSg.css">
+  <script src="//app-ab06.marketo.com/js/forms2/js/forms2.min.js"></script>
+  <script src="https://www.ciee.org/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js"></script>
+<script src="https://www.ciee.org/sites/default/files/js/js_JWUxoxNOpFi1TT9OJ8YUwb0bSojKo-OIzl5jhgyzWDI.js"></script>
+<script src="https://www.ciee.org/sites/default/files/js/js_FA2YSy0R3kB2AU_wIOLoSR0sJX4ZYjdPuPaRFd2ZDyw.js"></script>
+<script>window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'</script>
+<script src="https://www.ciee.org/sites/default/files/js/js_m8Ekftf7wKZ8usxCeuakxuPE-VxlDL9hYVrP0r0olQQ.js"></script>
+<script src="https://www.ciee.org/sites/default/files/js/js_w-6KaswHXeaUEgq-SFMD4KL-PBzvLUGUPvrTVGkZF8M.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ciee","theme_token":"vGtrwxm-KI9AMUQFCMYpPmTScgUEK4zALAC0PqB787U","js":{"0":1,"1":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/jquery.cookie-1.4.1.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/custom_search\/js\/custom_search.js":1,"2":1,"sites\/all\/modules\/contrib\/better_exposed_filters\/better_exposed_filters.js":1,"sites\/all\/themes\/zurb_foundation\/js\/vendor\/modernizr.js":1,"sites\/all\/themes\/ciee\/assets\/js\/vendor\/macy.js":1,"sites\/all\/themes\/ciee\/assets\/js\/vendor\/jquery.unveil.js":1,"sites\/all\/themes\/ciee\/assets\/js\/vendor\/modernizr.js":1,"sites\/all\/themes\/ciee\/assets\/js\/vendor\/enquire.js":1,"sites\/all\/themes\/ciee\/assets\/js\/vendor\/slick.min.js":1,"sites\/all\/themes\/ciee\/assets\/js\/vendor\/viewport.min.js":1,"sites\/all\/themes\/ciee\/assets\/js\/vendor\/tablesaw.stackonly.js":1,"sites\/all\/themes\/ciee\/assets\/js\/vendor\/tables-init.js":1,"sites\/all\/themes\/ciee\/assets\/js\/object-fit-polyfill.js":1,"sites\/all\/themes\/ciee\/assets\/js\/responsive-tables.js":1,"sites\/all\/themes\/ciee\/assets\/js\/responsive-videos.js":1,"sites\/all\/themes\/ciee\/assets\/js\/ciee-map-styles.js":1,"sites\/all\/themes\/ciee\/assets\/js\/base.js":1,"sites\/all\/themes\/ciee\/assets\/js\/oho-sticky-header.js":1,"sites\/all\/themes\/ciee\/assets\/js\/hero-video.js":1,"sites\/all\/themes\/ciee\/assets\/js\/carousel.js":1,"sites\/all\/themes\/ciee\/assets\/js\/testimonial.js":1,"sites\/all\/themes\/ciee\/assets\/js\/overlapping-img.js":1,"sites\/all\/themes\/ciee\/assets\/js\/animate.js":1,"sites\/all\/themes\/ciee\/assets\/js\/hero-dropdowns.js":1,"sites\/all\/themes\/ciee\/assets\/js\/marketo-style.js":1,"sites\/all\/themes\/ciee\/assets\/js\/oc-program-slider.js":1,"sites\/all\/themes\/ciee\/assets\/js\/jumplink.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/custom_search\/custom_search.css":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/modules\/contrib\/linkicon\/css\/linkicon.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"0":1,"sites\/all\/themes\/zurb_foundation\/css\/normalize.css":1,"sites\/all\/themes\/oho_zurb_base\/css\/foundation.min.css":1,"sites\/all\/themes\/ciee\/assets\/css\/app.css":1,"sites\/all\/themes\/ciee\/assets\/font-awesome-4.4.0\/css\/font-awesome.min.css":1}},"custom_search":{"form_target":"_self","solr":0},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":0,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003ECIEE collects personal data about visitors to our website, in order to improve the user experience and provide visitors and prospective visitors with personalized information about our programs and services. By using our site, you acknowledge that you accept the information policies and practices outlined in our\u0026nbsp;\u003Ca href=\u0022https:\/\/www.ciee.org\/privacy-policy\u0022\u003EPrivacy Notice\u003C\/a\u003E\u0026nbsp;and our \u003Ca href=\u0022\/terms-conditions\u0022\u003ETerms \u0026amp; Conditions\u003C\/a\u003E.\u003C\/p\u003E          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAgree and Dismiss\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003ECIEE collects personal data about visitors to our website, in order to improve the user experience and provide visitors and prospective visitors with personalized information about our programs and services. By using our site, you acknowledge that you accept the information policies and practices outlined in our\u0026nbsp;\u003Ca href=\u0022https:\/\/www.ciee.org\/privacy-policy\u0022\u003EPrivacy Notice\u003C\/a\u003E\u0026nbsp;and\u0026nbsp;and our \u003Ca href=\u0022\/terms-conditions\u0022\u003ETerms \u0026amp; Conditions\u003C\/a\u003E.\u003C\/p\u003E          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAgree and Dismiss\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/www.ciee.org\/privacy-policy","popup_link_new_window":1,"popup_position":null,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"100","cookie_session":false,"disagree_do_not_show_popup":0,"method":"default","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003E\u0026lt;h2\u0026gt;We use cookies on this site to enhance your user experience\u0026lt;\/h2\u0026gt;\u0026lt;p\u0026gt;You have given your consent for us to set cookies.\u0026lt;\/p\u0026gt;\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false},"urlIsAjaxTrusted":{"\/privacy-notice":true,"":true},"better_exposed_filters":{"datepicker":false,"slider":false,"settings":[],"autosubmit":false}});</script>
 
-    <link rel="stylesheet" href="/stylesheets/main.css" media="screen, handheld">
-    <link id="sectionCss" rel="stylesheet" media="screen, handheld">
-    <link rel="stylesheet" href="/stylesheets/print.css" media="print">
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NT8R8JV');</script>
+  <!-- End Google Tag Manager -->
 
-    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NT8R8JV"></script><script type="text/javascript" src="//cdn.evergage.com/beacon/ciee/engage/scripts/evergage.min.js"></script>
+  <!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+  <!-- Polyfill for .promise() function used in the macy grid which is not supported in IE11 -->
+  <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+
+  <!-- FAVICON -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#f79440">
+  <meta name="theme-color" content="#ffffff">
+
+  <!-- FONT -->
+  <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:300,400,600,700,900" rel="stylesheet">
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-158681 node-type-page section-privacy-notice">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NT8R8JV"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div class="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
     
-    <!--[if IE 8]>
-    	<link rel="stylesheet" href="/stylesheets/ie8.css" media="screen, handheld" />
-    <![endif]--> 
-
-    
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
-
-<script type="text/javascript">
-  if (typeof jQuery == 'undefined') {
-    document.write(unescape("%3Cscript src='http://www.ciee.org/js/libs/jquery-1.9.1.js' type='text/javascript'%3E%3C/script%3E"));
-  }
-</script><script src="http://www.ciee.org/js/libs/jquery-1.9.1.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-  var baseUrl = "/";
-</script>
-
-<noscript>
-  <style type="text/css">
-    #loaderWrapper{display:none;}
-  </style>
-</noscript>
-
-<script type="text/javascript" src="//use.typekit.com/nkh1dtk.js"></script>
-<script type="text/javascript">  try { Typekit.load(); } catch (e) { }</script>
-
-<script src="/js/libs/modernizr.custom.56679.js"></script>
-<script src="/js/smoothScrolling.js"></script>
-<script src="/js/eventTracking.js"></script>
-<script src="/js/contentLoader.js"></script>
-<script src="/js/homeImages.js"></script>
-<script src="/js/showHideContent.js"></script>
-
-<script type="text/javascript">
-  $(document).ready(function () {
-    // Fixes the iphone/ipad bug for resize on horizontal switch
-    // http://www.blog.highub.com/mobile-2/a-fix-for-iphone-viewport-scale-bug/
-    // http://adactio.com/journal/4470/ 
-    if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i)) {
-      var viewportmeta = document.querySelector('meta[name="viewport"]');
-
-      if (viewportmeta) {
-        viewportmeta.content = 'width=device-width, minimum-scale=1.0, maximum-scale=1.0';
-        document.body.addEventListener('gesturestart', function () {
-          viewportmeta.content = 'width=device-width, minimum-scale=0.25, maximum-scale=1.6';
-        }, false);
-      }
-    }
-
-    /* Show/Hide Mobile Menu */
-    $('#menuToggle').click(function () {
-      $('nav').slideToggle('slow', "easeInOutExpo");
-      $("#menuToggle").toggleClass("active");
-    });
 
 
-    //Temperary fix for safari arrows.
-    var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
-    if (isSafari == true) {
-      $('.slidePage').css({
-        'top': '50%',
-        'margin-top': '0',
-        'padding': '1% 15px'
-      });
-    }
+<header class="l-header clearfix static">
+  <div class="header__main">
 
+    <div class="row">
 
-  });
+      <div class="l-header__logo">
+        <a href="/">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="135.6" height="53.6" viewBox="0 0 135.6 53.6">
+              <style>.st0 {fill: #009AD6}.st1 {fill: #F6933F}</style>
+              <path class="st0" d="M35.4 24.6c-.9-9.3-8-13.5-16.8-13.5C6.6 11.1 0 20.7 0 32c0 11.3 5.4 21.7 18.7 21.7 8.8 0 15.8-5.5 17.2-15.3h-3c-1 7.4-6.6 12.6-14.1 12.6C8.1 51 3 43 3 32c0-9.3 5.5-18.3 15.7-18.3 7.3 0 13.2 3.7 13.8 10.9h2.9zM43.5 12.1h3v40.6h-3zM90.1 32.8c.6-11.6-5.1-21.7-17.9-21.7-12.3 0-18.1 10.8-17.9 22-.2 11.2 6.1 20.6 17.9 20.6 9.6 0 16-5.2 17.5-14.7h-3c-1.3 7.4-6.8 12-14.5 12-10 0-15.1-8.7-14.9-18.3h32.8zm-32.8-2.6c.6-8.1 5.9-16.4 14.9-16.4 9.3 0 14.7 7.9 14.9 16.4H57.3zM131.1 32.8c.5-11.6-5.1-21.7-17.9-21.7-12.3 0-18.1 10.8-18 22-.2 11.2 6.1 20.6 18 20.6 9.6 0 16-5.2 17.6-14.7h-3c-1.4 7.5-6.9 12.1-14.5 12.1-10 0-15.1-8.7-14.9-18.3h32.7zm-32.8-2.6c.6-8.1 5.9-16.4 14.9-16.4 9.3 0 14.7 7.9 14.9 16.4H98.3z"></path>
+              <path class="st1" d="M53.4.8c-1.3 3.4-4.7 5.9-8.6 5.9-3.9 0-7.3-2.4-8.6-5.9l2-.8c1 2.7 3.6 4.5 6.6 4.5 3 0 5.6-1.9 6.6-4.5l2 .8z"></path>
+              <path class="st0" d="M131.4 14.3c0-.4.1-.7.3-1.1.2-.3.4-.6.8-.8.3-.2.7-.3 1.1-.3.4 0 .7.1 1 .3.3.2.6.4.8.8.2.3.3.7.3 1.1 0 .4-.1.7-.3 1-.2.3-.4.6-.8.8-.3.2-.7.3-1.1.3-.4 0-.7-.1-1.1-.3-.3-.2-.6-.5-.8-.8-.1-.3-.2-.6-.2-1zm.3 0c0 .3.1.6.2.9.2.3.4.5.7.7.3.2.6.2.9.2.3 0 .6-.1.9-.2.3-.2.5-.4.7-.7.2-.3.2-.6.2-.9 0-.3-.1-.6-.2-.9-.2-.3-.4-.5-.7-.7-.3-.2-.6-.2-.9-.2-.3 0-.6.1-.9.2-.3.2-.5.4-.7.7-.1.3-.2.6-.2.9zm2.6-.5c0 .1 0 .3-.1.4l-.3.3.7 1.1h-.5l-.6-1h-.4v1h-.4v-2.5h.7c.3 0 .5.1.7.2.2.1.2.3.2.5zm-1.2.4h.3c.1 0 .3 0 .4-.1.1-.1.1-.2.1-.3 0-.1 0-.2-.1-.3-.1-.1-.2-.1-.4-.1h-.3v.8z"></path>
+            </svg>
+                  </a>
+      </div> <!-- / l-header logo -->
 
-  //Scrolling Variables
-  var winScrollTop = 0;               //The current vertical position from the top (gets reset on $(window).scroll)
-  var winHeight = $(window).height(); //The height of the window
-  var dropped = "no";                 //Set a variable to store if you have dropped down to the content yet or not
+      
+              <div class="l-header__my-ciee">
+          <a href="https://my.ciee.org/">My Ciee</a>
+        </div>
+      
+      <div class="l-header__search-toggle">
+            <section class="block block-search block-search-form">
 
-  //Functions to run every time you scroll
-  $(window).scroll(function () {
-    winScrollTop = $(window).scrollTop();   //The current vertical position from the top
-    backToTop();                            //Display the back to top button depending where you are on the page
-  });
-
-  /// <summary>
-  /// Show/hide the back to top arrow depending where you are on the page
-  /// </summary>
-  function backToTop() {
-    var footerOffset = $('footer').offset().top - winHeight + 95;
-
-    if (winScrollTop >= footerOffset) {
-      $('#jumpArrow').removeClass("top").addClass("topFooter");
-    }
-    else {
-      $('#jumpArrow').addClass("top").removeClass("topFooter");
-    }
-    if (winScrollTop > 500) {
-      $('#jumpArrow').fadeIn();   //Once you have scrolled past 500px show the back to top button
-    } else {
-      $('#jumpArrow').fadeOut();  //Otherwise, hide the back to top button
-    }
-  }
-</script>
-
-  <style>
-    ul li:before {
-      content: "";
-    }
-
-  </style>
-  <script>
-    $(document).ready(function ()
-    {
-      $("section[id='content'] h1").addClass("mainH1");
-    });
-    </script>
-
-
-
-<!-- Google Tag Manager -->
-<script>(function (w, d, s, l, i) {
-    w[l] = w[l] || []; w[l].push({
-        'gtm.start':
-        new Date().getTime(), event: 'gtm.js'
-    }); var f = d.getElementsByTagName(s)[0],
-    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-})(window, document, 'script', 'dataLayer', 'GTM-NT8R8JV');</script>
-<!-- End Google Tag Manager -->
-<script type="text/javascript" src="../js/scrollingElements.js"></script><link type="text/css" rel="stylesheet" href="//www.ciee.org/common/blackbar/css/bb.css"><script type="text/javascript" src="//www.ciee.org/common/blackbar/js/blackBar.js"></script></head>
-
-<body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NT8R8JV"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
-    <form method="post" action="./" id="ciee">
-<div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjExNDE4MzU2MWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFHWN0bDAwJGJsYWNrQmFyJGliSWRTZWFyY2hTaXRlBSNjdGwwMCRibGFja0JhciRpYklkTW9iaWxlU2VhcmNoU2l0ZQUdY3RsMDAkYmxhY2tCYXIkaWJJZFNlYXJjaENJRUUNGk3fOnNxLSCzi3IklUlocR2d9BazOWeaxxM/BXztww==">
+      
+      <form class="search-form" role="search" action="/privacy-notice" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="row collapse"><div class="small-8 columns"><div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--4">Search this site </label>
+ <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="" type="text" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128">
 </div>
-
-<div class="aspNetHidden">
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8B0E2A21">
-	<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-	<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAi57Ha/TV4HTasEkJPMR6+3ZsumWoZ0tp13I/ogqL5b/S+S0R1PB5lpiNcN26SwBwDl4uudNfqzPtoKk1Wv+7w/pSWgTmj2oT0jMBYyABikroe+cKIqM4gl6ae2I/sdCZppmDvRGI4BuV3P56mh6/u4A0wlzthZ0NbIn4zR6LTZ0Rd7N1n9Y7tOl3JldZsruqwzAWa9vbGOQNdHKkPNatEo">
+</div><div class="small-4 columns"><button class="secondary button radius postfix expand form-submit" id="edit-submit--2" name="op" value="Search" type="submit">Search</button>
+</div></div><input type="hidden" name="form_build_id" value="form-t5bXsq6D6z3wubyydn9GZPekFiInLU0525162-axHnQ">
+<input type="hidden" name="form_id" value="search_block_form">
 </div>
-      <div id="blackBarWrapper">
-<div id="blackBar">
-<div id="bbCieeHome">
-<a href="http://www.ciee.org" title="CIEE" id="BlackBarCIEEHome"></a>
-</div>
-<div id="bbCieeDropMenu"></div>
-<div id="bbSearchMobile"></div>
-<div id="bbSearch">
-<div id="blackBar_panelSiteSearch" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'blackBar_ibIdSearchSite')">
-	<input name="ctl00$blackBar$sBox" type="text" value="search this site" id="blackBar_sBox" class="searchBox" onfocus="if(this.value=='search this site') this.value='';" onblur="if(this.value=='') this.value='search this site';"><input type="image" name="ctl00$blackBar$ibIdSearchSite" id="blackBar_ibIdSearchSite" class="searchButton" src="//www.ciee.org/common/blackbar/images/transparentPixel.gif" alt="search this site" onclick="searchRedirect('/search/', 'sBox'); return false;" style="height:24px;width:25px;"><input type="text" style="display: none;">
-</div></div><div id="bbContact"><a href="/#contactUs" title="contact us" id="BlackBarSiteContact"><span class="bbContactText">contact us</span></a></div></div><div id="bbMobileSearch"><div id="blackBar_mobilePanelSiteSearch" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'blackBar_ibIdMobileSearchSite')">
-	<input name="ctl00$blackBar$mobileSBox" type="text" value="search this site" id="blackBar_mobileSBox" class="searchBox" onfocus="if(this.value=='search this site') this.value='';" onblur="if(this.value=='') this.value='search this site';"><input type="image" name="ctl00$blackBar$ibIdMobileSearchSite" id="blackBar_ibIdMobileSearchSite" class="searchButton" src="//www.ciee.org/common/blackbar/images/transparentPixel.gif" alt="search this site" onclick="searchRedirect('/search/', 'mobileSBox'); return false;" style="height:24px;width:25px;"><input type="text" style="display: none;">
-</div></div><div id="blackBarDrop" class="css3"><!-- Start Program Scrape --><div id="bbProgramLinks"><div class="bbColumn progColumn">  <span class="bbProgHeader">All CIEE Programs</span>  <div class="horizontalDivider"></div>  <div class="horizShadow"></div></div><div class="bbColumn">  <span class="bbHeader">Study Programs</span>  <span class="bbSubHeader">For U.S. Students:</span>  <ul class="bbMenu">    <li><a href="http://www.ciee.org/study-abroad/" title="Study Abroad" id="BlackBarStudyAbroad">Study Abroad</a></li>    <li><a href="http://www.ciee.org/faculty-led-study-abroad/" title="Faculty-Led and Custom Programs" id="BlackBarFaculty">Faculty-Led and Custom Programs</a></li>    <li><a href="http://www.ciee.org/hsabroad/" title="High School Abroad" id="BlackBarHSAbroad">High School Abroad</a></li>    <li><a href="http://www.ciee.org/hsabroad/gap/" title="Gap Year Abroad" id="BlackBarGapYearAbroad">Gap Year Abroad</a></li>    <li><a href="http://www.ciee.org/high-school-summer-abroad/" title="High School Summer Abroad" id="BlackBarHSSA">High School Summer Abroad</a></li>    <li><a href="http://www.ciee.org/cb/" title="Congress-Bundestag Scholarship" id="BlackBarCBYX">Congress-Bundestag Scholarship</a></li>  </ul>  <span class="bbSubHeader">For International Students:</span>  <ul class="bbMenu">    <li><a href="http://www.ciee.org/high-school-exchange/" title="High School Exchange USA" id="BlackBarUSAHS">High School Exchange USA</a></li>    <li><a href="http://www.ciee.org/high-school-study/" title="High School Study USA" id="BlackBarUSAHSPlus">High School Study USA</a></li>  </ul></div><div class="bbColumn">  <span class="bbHeader">Work Exchange Programs</span>  <span class="bbSubHeader">For U.S. Participants:</span>  <ul class="bbMenu">    <li><a href="http://www.ciee.org/teach/" title="Teach Abroad" id="BlackBarTeach">Teach Abroad</a></li>  </ul>  <span class="bbSubHeader">For International Participants:</span>  <ul class="bbMenu">    <li><a href="http://www.ciee.org/wat/" title="Work &amp; Travel USA" id="BlackBarWAT">Work &amp; Travel USA</a></li>    <li><a href="http://www.ciee.org/intern/" title="Internship USA" id="BlackBarIntern">Internship USA</a></li>    <li><a href="http://www.ciee.org/trainee/" title="Professional Career Training USA" id="BlackBarTrainee">Professional Career Training USA</a></li>    <li><a href="http://www.ciee.org/camp-exchange-usa/" title="Camp Exchange USA" id="BlackBarCamp">Camp Exchange USA</a></li>    <li><a href="http://www.balticamericanfreedomfoundation.org/" title="Baltic-American Freedom Foundation" id="BlackBarBAFF">Baltic-American Freedom Foundation</a></li>    <li><a href="http://www.haesf.org/" title="Hungarian American Enterprise Scholarship Fund" id="BlackBarHAESF">Hungarian American Enterprise Scholarship Fund</a></li>  </ul></div><div class="bbColumn">  <span class="bbHeader">Professional Development</span>  <ul class="bbMenu">    <li><a href="http://www.ciee.org/alumni/" title="CIEE Alumni Network" id="BlackBarAlumni">CIEE Alumni Network</a></li>    <li><a href="http://www.ciee.org/global-education-conference/" title="Annual Conference" id="BlackBarConference">CIEE Annual Conference</a></li>    <li><a href="http://www.ciee.org/ifds/" title="International Faculty Development Seminars" id="BlackBarIFDS">International Faculty Development Seminars</a></li>    <li><a href="http://www.ciee.org/tefl/" title="Teach English as a Foreign Language" id="BlackBarTEFL">CIEE TEFL</a></li>    <li><a href="http://www.ciee.org/highschool/local-coordinators/benefits.html" title="USA High School Local Coordinators" id="BlackBarLC">USA High School Local Coordinators</a></li>  </ul></div><div class="bbColumn">  <span class="bbHeader">Support Services</span>  <ul class="bbMenu">    <li><a href="http://www.inext.com" title="iNext" id="BlackBarInext">iNext</a></li>  </ul></div><div class="bbColumn horizDivider" style="clear: both;">  <span class="bbHeader">Hire &amp; Host</span>  <ul class="bbMenu">    <li><a href="http://www.ciee.org/hire/intern/" title="Hire International Interns" id="BlackBarHireInterns">Hire International Interns</a></li>    <li><a href="http://www.ciee.org/hire/intern/" title="Hire International Trainees" id="BlackBarHireTrainees">Hire International Trainees</a></li>    <li><a href="http://www.ciee.org/highschool/host-families/benefits.html" title="Host an International Student" id="BlackBarHostFamily">Host an International Student</a></li>    <li><a href="http://www.ciee.org/hire/work/solutions/partner/index.aspx" title="Partner with CIEE" id="BlackBarPartner">Partner with CIEE</a></li>  </ul></div></div><div class="horizontalDivider"></div><div class="horizShadow"></div><!-- End Program Scrape --><div id="bbCIEE"><!-- Start bbCol Scrape -->	<div class="bbColumn">		<span class="bbHeader">CIEE</span>		<ul class="bbMenu">			<li><a href="http://www.ciee.org/who/" title="About CIEE" id="BlackBarAbout">About CIEE</a></li>			<li><a href="http://www.ciee.org/study-abroad/advisors/membership/" title="Membership" id="BlackBarMembership">Membership</a></li>			<li><a href="http://www.ciee.org/how/" title="Careers" id="BlackBarCareers">Careers</a></li>		</ul>	</div><!-- End bbCol Scrape --><div id="bbSocialMedia">	<a href="https://www.facebook.com/ciee" title="Facebook" target="_blank" id="BlackBarFacebook"><span class="bbIcon"></span></a>	<!--<a href="#" title="Twitter" target="_blank"><span class="bbIcon" id="BlackBarTwitter">C</span></a>-->	<!--<a href="#" title="YouTube" target="_blank"><span class="bbIcon" id="BlackBarYouTube">B</span></a>-->	<a href="http://www.linkedin.com/company/ciee" title="LinkedIn" target="_blank" id="BlackBarLinkedIn"><span class="bbIcon"></span></a></div><!-- Start bbSearch Scrape --><div id="bbSearchCIEE"><div id="blackBar_panelBBSearch" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'blackBar_ibIdSearchCIEE')">
-	<input name="ctl00$blackBar$searchCIEE" type="text" value="search ciee" id="blackBar_searchCIEE" class="searchBox" onfocus="if(this.value=='search ciee') this.value='';" onblur="if(this.value=='') this.value='search ciee';"><input type="image" name="ctl00$blackBar$ibIdSearchCIEE" id="blackBar_ibIdSearchCIEE" class="searchButton" src="//www.ciee.org/study-abroad/images/black-bar/searchIcon26x27.png" alt="Search CIEE" onclick="searchRedirect('//www.ciee.org/search/', 'searchCIEE'); return false;" style="height:43px;width:42px;"><input name="ctl00$blackBar$ctl06" type="text" class="searchBoxHidden">
-</div></div>
-<!-- End bbSearch Scrape -->	<div id="bbQuestions" class="css3">Questions/Comments?<a title="Contact CIEE" class="css3" href="mailto:contact@ciee.org" id="BlackBarContactCIEE"><span class="bbIcon"></span> Contact CIEE</a></div>
-</div>
-<div class="bbVert">
-	<div class="verticalDivider"></div>
-	<div class="vertShadow"></div>
-</div>
-<div id="bbProgramPicker">Not sure what program is right for you?<a title="Program Picker" class="css3">Click Here</a></div>
-<div id="bbCopyright">
-	<img src="//www.ciee.org/study-abroad/images/black-bar/cieeLogo85x35.png" alt="CIEE"><br>
-	<p>© 2011-2017. All Rights Reserved.</p>
-</div>
-<div class="closeButton"></div>
-</div>
-</div>
-
-
-      <div id="loaderWrapper">
-        <div id="loader"><div class="logo-empty"></div></div>
+</div></form>  
+</section>        <a id="search-toggle" href="#">
+          <span class="toggle-text-state show-for-sr">Click to Open</span>
+          <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+            <path class="st0" d="M20 0C11.7 0 5 6.7 5 15c0 3.4 1.1 6.7 3.2 9.3L.5 32c-.3.3-.5.8-.5 1.2 0 .5.2.9.5 1.3.4.3.8.5 1.3.5s.9-.2 1.2-.5l7.6-7.6c2.6 2.1 5.9 3.2 9.3 3.2 8.3 0 15-6.7 15-15C35 6.7 28.3 0 20 0zm11.5 15c0 6.3-5.2 11.5-11.5 11.5S8.5 21.3 8.5 15 13.6 3.5 20 3.5c6.3 0 11.5 5.2 11.5 11.5z"></path>
+          </svg>
+        </a>
       </div>
 
-      <div id="wrapper">
-        
+      <div class="l-header__mobile-menu">
+        <a id="menu-toggle" href="#"><span class="toggle-text-state">Menu</span></a>
+      </div> <!-- / search toggle -->
 
+    </div> <!-- / row -->
 
+    <nav id="main-menu" class="main-menu main-menu--header navigation section--global-padding" role="navigation">
+      <div class="row">
+        <div class="menu-block-wrapper">
+              
+<nav class="main-menu__important-links main-menu__container has-levels" role="navigation">
 
-<header>
-  <div id="logo">
-    <a href="../" id="header_headerLogo" title="CIEE home" data-content="home"><img src="../images/sitewide/cieeLogo206x90.png" alt="CIEE"> The World is Our Classroom. <wbr>Join Us.</a>
-  </div>
+      
+      
+<ul class="menu ul--level-one"><li class="first leaf menu-mlid-971 li--level-one"><a href="/" title="">Home</a></li>
+<li class="leaf menu-mlid-976 li--level-one"><a href="http://my.ciee.org" title="">My CIEE</a></li>
+<li class="leaf menu-mlid-981 li--level-one"><a href="http://my.ciee.org" title="">Apply Now</a></li>
+<li class="last leaf menu-mlid-986 li--level-one"><a href="/about/we-are-ciee" title="">Contact</a></li>
+</ul>  
+</nav>
 
-  <a href="https://www.ciee.org/highschool/host/?utm_campaign=usahs_host_2016&amp;utm_medium=ciee.org&amp;utm_source=cta&amp;utm_content=home_cta" target="_blank" title="Host an International Exchange Student" class="button sm-btn">Become a Host Family</a>
+<nav class="main-menu__container has-levels" role="navigation">
 
+      
+      
+<ul class="menu ul--level-one"><li class="first expanded menu-mlid-2056 li--level-one menu-item--has-children"><a href="/about">About</a><ul class="menu ul--level-two"><li class="first leaf menu-mlid-6546 li--level-two"><a href="http://www.ciee.org/about/what-we-do" title="">What We Do</a></li>
+<li class="expanded menu-mlid-6541 li--level-two menu-item--has-children"><a href="http://www.ciee.org/about/what-we-stand-for" title="">What We Stand For</a><ul class="menu ul--level-three"><li class="first last leaf menu-mlid-9746 li--level-three"><a href="/about/what-we-stand-for/access/generation-study-abroad">CIEE Access Grant</a></li>
+</ul></li>
+<li class="leaf menu-mlid-6551 li--level-two"><a href="http://www.ciee.org/about/we-are-ciee" title="">We Are CIEE</a></li>
+<li class="leaf menu-mlid-6556 li--level-two"><a href="http://www.ciee.org/about/work-for-ciee" title="">Work for CIEE</a></li>
+<li class="last leaf menu-mlid-7266 li--level-two"><a href="http://www.ciee.org/about/we-are-ciee/alumni" title="">Alumni</a></li>
+</ul></li>
+<li class="expanded menu-mlid-761 li--level-one menu-item--has-children"><a href="/go-abroad">Go Abroad</a><ul class="menu ul--level-two"><li class="first expanded menu-mlid-771 li--level-two menu-item--has-children"><a href="/go-abroad/college-study-abroad">College Study Abroad</a><ul class="menu ul--level-three"><li class="first leaf menu-mlid-7781 li--level-three"><a href="/go-abroad/college-study-abroad/programs">Search Programs</a></li>
+<li class="leaf menu-mlid-10456 li--level-three"><a href="/go-abroad/college-study-abroad/design-your-study-abroad-experience" title="">Design Your Own Semester</a></li>
+<li class="leaf menu-mlid-7776 li--level-three"><a href="https://www.ciee.org/go-abroad/college-study-abroad/ciee-internships" title="">View Internships</a></li>
+<li class="last leaf menu-mlid-7771 li--level-three"><a href="https://www.ciee.org/go-abroad/college-study-abroad/scholarships-grants" title="">Scholarships &amp; Grants</a></li>
+</ul></li>
+<li class="expanded menu-mlid-766 li--level-two menu-item--has-children"><a href="/go-abroad/high-school-study-abroad">Global Navigator High School Study Abroad</a><ul class="menu ul--level-three"><li class="first leaf menu-mlid-5746 li--level-three"><a href="/go-abroad/high-school-study-abroad/summer">High School Summer Abroad</a></li>
+<li class="leaf menu-mlid-5751 li--level-three"><a href="/go-abroad/high-school-study-abroad/semester">High School Semester Abroad</a></li>
+<li class="last leaf menu-mlid-5756 li--level-three"><a href="/go-abroad/high-school-study-abroad/gap-year">Gap Year Abroad</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2611 li--level-two menu-item--has-children"><a href="/go-abroad/work">Work Abroad</a><ul class="menu ul--level-three"><li class="first leaf menu-mlid-4686 li--level-three"><a href="/go-abroad/work/tefl">TEFL Certification</a></li>
+<li class="last leaf menu-mlid-3821 li--level-three"><a href="/go-abroad/work/teach-english-abroad">Teach Abroad</a></li>
+</ul></li>
+<li class="expanded menu-mlid-14926 li--level-two menu-item--has-children"><a href="/go-abroad/for-post-graduates">For Post-Graduates</a><ul class="menu ul--level-three"><li class="first last leaf menu-mlid-15001 li--level-three"><a href="/go-abroad/for-post-graduates/entrepreneur-lab">Entrepreneur Lab</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-4816 li--level-two menu-item--has-children"><a href="/go-abroad/for-educators">For Educators</a><ul class="menu ul--level-three"><li class="first leaf menu-mlid-7751 li--level-three"><a href="https://www.ciee.org/partner-ciee/for-institutions/academic-internship-council/for-universities" title="">AIC Customized Internship Programs</a></li>
+<li class="leaf has-children menu-mlid-6131 li--level-three"><a href="/go-abroad/for-educators/college-advisors-faculty">College Advisors &amp; Faculty</a></li>
+<li class="leaf has-children menu-mlid-4821 li--level-three"><a href="/go-abroad/educators/faculty-led-programs">Faculty-Led &amp; Custom Programs</a></li>
+<li class="last leaf menu-mlid-5906 li--level-three"><a href="/go-abroad/educators/international-faculty-development-seminars">International Faculty Development Seminars</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded menu-mlid-2526 li--level-one menu-item--has-children"><a href="/in-the-usa">Go to the U.S.</a><ul class="menu ul--level-two"><li class="first expanded menu-mlid-2531 li--level-two menu-item--has-children"><a href="/in-the-usa/go-us/for-academics">For Academics</a><ul class="menu ul--level-three"><li class="first last leaf has-children menu-mlid-4531 li--level-three"><a href="/in-the-usa/academics/high-school-usa">High School</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2896 li--level-two menu-item--has-children"><a href="/in-the-usa/work">For Work Exchange</a><ul class="menu ul--level-three"><li class="first leaf has-children menu-mlid-3611 li--level-three"><a href="/in-the-usa/work/camp-exchange-usa">Camp Exchange</a></li>
+<li class="last leaf has-children menu-mlid-4481 li--level-three"><a href="/in-the-usa/work/work-travel-usa">Work &amp; Travel</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-2541 li--level-two menu-item--has-children"><a href="/in-the-usa/go-us/for-research-and-professional-training">For Research and Professional Training</a><ul class="menu ul--level-three"><li class="first leaf has-children menu-mlid-16296 li--level-three"><a href="/in-the-usa/research-training/researchers-scholars-professors-specialists">For Researchers, Scholars, Professors, and Specialists</a></li>
+<li class="last leaf has-children menu-mlid-2566 li--level-three"><a href="/in-the-usa/research-training/intern-professional-training">Intern or Train in America</a></li>
+</ul></li>
+</ul></li>
+<li class="last expanded menu-mlid-2546 li--level-one menu-item--has-children"><a href="/partner">Partner with CIEE</a><ul class="menu ul--level-two"><li class="first expanded menu-mlid-2561 li--level-two menu-item--has-children"><a href="/partner/employers">For Employers</a><ul class="menu ul--level-three"><li class="first leaf has-children menu-mlid-3656 li--level-three"><a href="/partner/employers/camp-exchange-usa">Hire Camp Counselors</a></li>
+<li class="leaf has-children menu-mlid-4301 li--level-three"><a href="/partner/employers/work-travel-usa">Hire Seasonal Staff</a></li>
+<li class="leaf menu-mlid-15996 li--level-three"><a href="/partner/employers/host-interns-and-trainees">Host Interns and Trainees</a></li>
+<li class="leaf menu-mlid-14941 li--level-three"><a href="https://www.ciee.org/elab" title="">Partner with Entrepreneur Lab</a></li>
+<li class="last leaf menu-mlid-4396 li--level-three"><a href="/partner/employers/sending-companies">Send Employees to US</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2556 li--level-two menu-item--has-children"><a href="/partner/hosts">For Hosts</a><ul class="menu ul--level-three"><li class="first leaf has-children menu-mlid-2701 li--level-three"><a href="/partner/hosts/host-families">Host Families</a></li>
+<li class="leaf menu-mlid-2816 li--level-three"><a href="/partner/hosts/schools">Host Schools</a></li>
+<li class="last leaf menu-mlid-2776 li--level-three"><a href="/partner/hosts/local-coordinators">Local Coordinators</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2551 li--level-two menu-item--has-children"><a href="/partner-ciee/for-institutions">For Institutions</a><ul class="menu ul--level-three"><li class="first leaf menu-mlid-4541 li--level-three"><a href="https://www.ciee.org/partner-ciee/for-institutions/academic-internship-council/for-universities" title="">Build Customized Internship Programs</a></li>
+<li class="last leaf menu-mlid-7236 li--level-three"><a href="http://www.inext.com/" title="">iNext International Insurance</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-2711 li--level-two menu-item--has-children"><a href="/partner-ciee/for-professional-services">For Professional Services</a><ul class="menu ul--level-three"><li class="first leaf menu-mlid-2771 li--level-three"><a href="/partner/professional-services/representatives">International Representatives</a></li>
+<li class="leaf menu-mlid-7231 li--level-three"><a href="https://globaleducationconference.ciee.org/" title="">CIEE Annual Conference</a></li>
+<li class="last leaf menu-mlid-8441 li--level-three"><a href="/partner-ciee/for-professional-services/custom-exchange-programs">Custom Exchange Programs</a></li>
+</ul></li>
+</ul></li>
+</ul>  
+</nav>
+        </div>
+      </div>
+    </nav>
+
+    <nav id="secodary-menu" class="secondary-menu has-levels" role="navigation">
+          </nav>
+
+  </div> <!-- / header main -->
 </header>
-        
 
-<div id="mainNav">
-  <div id="menuToggle">Menu<i class="icon-caret-down"></i></div>
-  <nav>
-    <ul>
-      <li id="homeLink"><a href="../" id="mainMenu_mainNavHome1" data-content="home" title="Home"><i class="icon-home"></i><img src="../images/sitewide/cieeLogoWhite143x59.png" alt="CIEE Home"></a></li>
-      <li id="whoLink"><a href="../who/" id="mainMenu_mainNavWho" data-content="who">Who We Are</a></li>
-      <li id="whatLink"><a href="../what/" id="mainMenu_mainNavWhat" data-content="what">What We Do</a></li>
-      <li id="believeLink"><a href="../believe/" id="mainMenu_mainNavBelieve" data-content="believe">What We Believe In</a></li>
-      <li id="howLink"><a href="../how/" id="mainMenu_mainNavHow" data-content="how">How To Be Part of It</a></li>
-      <li id="donateLink"><a href="../donate/" id="mainMenu_A1" data-content="donate">Donate</a></li>
-    </ul>
-  </nav>
-</div>
 
-        <div class="pageArrow"><a href="/" id="arrowLeft" class="slidePage" data-content="home" title="Previous Section"></a></div>
-        
-        <div id="slidingContent">
-          
 
-  <div id="main">
-    <section id="content" class="oneCol">
-      <h1>Privacy Policy</h1>
-<p>CIEE respects the privacy of users of this web site. This privacy policy has been created to demonstrate our commitment to your privacy and security. It outlines the type of information we collect, what we do with that information, and the choices users have in regard to the information they provide. Please read this privacy policy carefully.</p>
 
-<h2>Information we collect</h2>
-<p>CIEE may collect information from users of our website.  This information includes:</p>
-<ul>
-  <li><strong>Information you provide to us:</strong> When you create an account on our website, you may choose to disclose information including contact information, and personal information including information regarding your educational background and interests.</li> 
-  <li><strong>Information that is automatically collected:</strong> When you visit the CIEE webpage, we may automatically collect non-personally identifiable information, such as information about your hardware devices, your use of the CIEE website, and information about the website that referred you to the CIEE site.</li>  
-  <li><strong>Information from third parties:</strong> CIEE may combine information provided by you with information from third parties, for the purpose of providing you better service.  Examples of such information include address verification service or data analytics.</li>
-</ul>
-
-<h2>How we use information</h2>
-<p>CIEE will use information you provide to improve your experience, including:</p>
-<ul>
-  <li>Providing you with information or services you request, including newsletters and email notifications.</li>
-  <li>Suggesting programs or services that match the interests you have identified.</li>
-  <li>Streamlining the application process by pre-filling information you have already provided.</li>
-  <li>Understanding the way our website is used, and improving it to better suit the needs of users like you.</li>
-</ul>
-
-<h2>Information we share with others</h2>
-<p>CIEE treats your personal information as private.  Subject to the exceptions set out below, CIEE will not share information about you with third-parties without your permission, and will make reasonable efforts to guard your information against unauthorized disclosure.</p> 
-<p><strong>Service providers:</strong> CIEE contracts with service providers to perform a variety of services, including hosting this webpage.  To the extent any service providers have access to information about you in the course of performing services for CIEE, they are prohibited from using it for any other purpose.</p>
-<p><strong>Partners:</strong> CIEE may share information about you with our partner organizations in order to provide you with services requested by you.  For example, we may share information in the course of evaluating your application or facilitating your placement in a program.  This information is shared only for the limited purpose of providing the requested service (such as application evaluation or program placement), and may not be used for any other purpose.</p> 
-<p><strong>Law Enforcement / For your protection and ours:</strong> CIEE reserves the right to share information about you where CIEE believes that such disclosure is necessary to comply with a legal requirement, such as a subpoena or court order, or to protect the rights or property of CIEE, you, or third-parties.</p>
-<p>CIEE does not rent or sell its mailing list.  We will not share information about you with third parties for their direct marketing purposes.</p>
-
-<h2>Your choices about information</h2>
-<p>CIEE's webpage allows you to create a profile, including personal information.  You may update or correct this information at any time to ensure its continued accuracy.  Additionally, CIEE provides you choices regarding the way we use the personal information you have provided us.  For example, you may sign up to receive newsletters or email notification regarding particular products or services.  You may opt out of receiving these communications at any time, by contacting us at the address provided below.</p> 
-
-<h2>Cookies &amp; Web Beacons</h2>
-<p>A cookie is a small data file that can be placed on your hard drive when you visit certain web sites. Cookies are used to collect and store information, such as the type of computer you are using and how often you log on to a site.  This web site uses both "session cookies," to improve your navigation across our website and to remember you over the course of a single visit, and "persistent cookies," which may be stored on your computer for up to 30 days and which help us provide better service to you over multiple visits to our website.  You can always delete or disable cookies through your browser.  If you disable cookies, you may not be able to sign in or take advantage of certain features of this website that require cookies.</p> 
-<p>In addition to cookies, we may deliver "web beacons" through our website or through emails we send you.  Web beacons are small graphic images that may not be visible to Site visitors that collect information about the usage of the Site on an anonymous basis.  In some cases, anonymous data may be transmitted to third-party advertising networks.  We may use web beacons for our own internal analytics, to better understand the ways users interact with our website, or to determine whether a particular email was received and opened.  We may also use web beacons in connection with our marketing efforts.  For example, web beacons allow third-party advertising networks to detect when a user has visited CIEE's website, and then serve them ads for CIEE's programs when they browse to another site.</p>
-
-<h2>Children's privacy</h2>
-<p>CIEE's website is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.</p>
-
-<h2>Links</h2>
-<p>This privacy policy applies only to information collected by this web site and not to other web sites that you may link to from here. CIEE is not responsible for the privacy practices of other sites. Please be aware that when you leave this site, you should read the privacy policies of each and every other web site that asks you to provide personal information.</p>
-
-<h2>Consent to processing in the United States</h2>
-<p>CIEE is located in the United States.  Please be aware that any information you provide to us may be processed and transferred to the United States and be subject to United States law.  The privacy and data protection laws in the United States may not be equivalent to the laws in your country of residence.  By using this website and providing us with information, you are consenting to CIEE's collection, transfer, storage and processing of your information in the United States.</p>  
-
-<h2>Notification of changes</h2>
-<p>Any changes to this privacy policy will be posted on this web site so that users are always aware of the type of information we collect, how it is used, and the circumstances under which, if any, it may be disclosed. Any information that we collect from you will be used in accordance with the privacy policy in effect at the time that the information was collected, unless we receive your consent to change our practices with respect to the previously collected information.</p>
-<p>For further information or comments on our privacy policy, please contact CIEE at the following address:</p>
-
-<p>CIEE: Council on International Educational Exchange 300 Fore Street<br>
-Portland, ME 04101<br>
-Phone: 1.207.553.4000<br> 
-Fax: 1.207.553.4299<br>
-E-mail: <a href="mailto:contact@ciee.org">contact@ciee.org</a></p>
-
-<p>EFFECTIVE: March 20, 2013</p>
-    </section>
+  <div class="breadcrumb-container">
+    <div class="padded-row">
+      <ol class="breadcrumbs"><li><a href="/">Home</a></li><li class="active">Privacy Notice</li></ol>    </div>
   </div>
 
 
-        </div>
+<main class="">
 
-        <div class="pageArrow"><a href="/" id="arrowRight" class="slidePage" data-content="home" title="Next Section"></a></div>
+  <div class="">
+
+    <a id="main-content"></a>
 
         
+    
+      
+      
+      
+<article id="node-158681" class="node node-page view-mode-full">
 
-<footer>
-  <div id="footerWrapper">
-    <div id="footerTop"><span id="contactUs"></span>
-      <a href="/" title="CIEE Home" id="footerHomeLink" data-content="home">
+      <!-- Text Hero -->
+    <section class="hero hero--text">
+      <h1 class="animate blur-in">Privacy Notice</h1>
+    </section>
+    
+  
+      <div class="parallax-mask clearfix">
+  
         
-      </a>
-      <a href="http://news.ciee.org" id="news" class="button">News</a>
-    </div>
+<!-- <div class="paragraphs-items paragraphs-items-field-page-paragraphs paragraphs-items-field-page-paragraphs-full paragraphs-items-full"> -->
+  
+<!-- WYSIWYG Paragraph -->
+<section id="section-1" class="section--global-spacing section--wysiwyg">
+  <div class="padded-row section__global-content-block">
+    <h3>ciee.org privacy NOTICE</h3>
 
-    <div id="footerLinks">
-      <div class="footerCol sectionLinks who">
-        <h3><a href="/who/" data-content="who">Who We Are</a></h3>
-        <ul>
-          <li><a href="/who/#ourStory" data-content="who">Our Story</a></li>
-          <li><a href="/who/#leadership" data-content="who">Leadership</a></li>
-          <li><a href="/who/#board" data-content="who">Board of Directors</a></li>
-          <li><a href="/who/#academicConsortium" data-content="who">Academic Consortium Board</a></li>
-        </ul>
+<p>The Council on International Educational Exchange (“CIEE”) wants you to benefit from the information and services available on our website – <a href="/ciee.org">www.ciee.org</a> (the “Site”) – secure in the knowledge that we have implemented fair and transparent information policies and practices designed to protect your privacy.&nbsp;</p>
+
+<p>This Privacy Notice describes our policies and practices regarding our collection and use of personal data about users of the Site and sets forth your privacy rights.&nbsp; This Privacy Notice does not apply to information we collect through other means, including offline or via any other website used or operated by CIEE or a third party (such as one of our referral partners).</p>
+
+<p>We will update this Privacy Notice from time to time as we adopt new privacy policies or change our personal data practices.</p>
+
+<ul>
+	<li><a href="#whoweare">Who We Are</a></li>
+	<li><a href="#whywecollect">Why We Collect Personal Data</a></li>
+	<li><a href="#howwecollect">How We Collect Your Information</a></li>
+	<li><a href="#whenweshare">When and How We Share Personal Data With Others</a></li>
+	<li><a href="#protectionofinfo">Protection of Your Information</a></li>
+	<li><a href="#yourchoices">Your Choices About Your Personal Data</a></li>
+	<li><a href="#transferinus">Transferring Personal Data to the United States</a></li>
+	<li><a href="#datastorage">Data Storage and Retention</a></li>
+	<li><a href="#child">Children's Privacy</a></li>
+	<li><a href="#links">Links</a></li>
+	<li><a href="#chnages">Notification of Changes</a></li>
+</ul>
+
+<h3>WHO WE ARE<a id="whoweare" name="whoweare"></a></h3>
+
+<p>CIEE is headquartered in Portland, Maine, in the United States.&nbsp; Our full contact information is provided at the end of this Privacy Notice.&nbsp;</p>
+
+<p>CIEE has appointed an internal data protection officer for you to contact if you have any questions or concerns about CIEE’s personal data policies or practices. &nbsp;The&nbsp;data protection officer can be contacted at <a href="mailto:DataProtectionOfficer@ciee.org">dataprotectionofficer@ciee.org</a>.</p>
+
+<h3>WHY WE COLLECT PERSONAL DATA<a id="whywecollect" name="whywecollect"></a></h3>
+
+<p>CIEE collects personal data about users of the Site to personalize and continually improve your experience on our Site and provide you and users like you with information about our programs and services, including by:</p>
+
+<ul>
+	<li>providing you with information or services you request, including newsletters and notifications;</li>
+	<li>providing you with information and suggesting programs or services that match your interests and other criteria you have identified, or that we otherwise believe may be of interest to you;</li>
+	<li>streamlining the application process by pre-filling information you have already provided;</li>
+	<li>improving our programs, services, and operations;</li>
+	<li>providing you and others with advertising, including advertising based on your activity on the Site or activity on third-party sites and applications, such as social media platforms; and</li>
+	<li>performing statistical, demographic, and marketing analyses of users of the Site and their behavioral patterns.</li>
+</ul>
+
+<h3>HOW WE COLLECT YOUR INFORMATION<a id="howwecollect" name="howwecollect"></a></h3>
+
+<p>The information we collect about our Site users comes to us in several different ways –</p>
+
+<p><strong>Information you provide to us: </strong>When you submit a contact form, create an account, or enter a search query on the Site, you may choose to disclose information about you, including your name, physical address, email address, phone number, and date of birth, along with information regarding your interests, educational background, and interests relating to our programming.</p>
+
+<p><strong>Information that is automatically collected: </strong>Like many websites, we use web analytics tools that rely on cookies, web beacons, and other automated tracking technologies (“Tracking Tools”) to help us analyze how users interact with and use the Site, improve the Site, personalize your Site experience, provide you with information we believe may be of interest to you, and identify others like you who may be interested in our programs and services.&nbsp;</p>
+
+<p>The information we collect automatically includes information about your computer and internet connection (including your IP address, operating system, and browser type) and details regarding your visits to our Site (including your browsing actions and patterns and information about any referring website, search engine, social media platform, or link).&nbsp; We do not use Tracking Tools to collect personally identifiable information (except to the extent you have provided such information to third parties, such as social media platforms – see section below titled “Information from Third Parties”), but we tie information that we gather using Tracking Tools to your personally identifiable information.</p>
+
+<p><em>Third Party Tracking Tools; Google Analytics</em></p>
+
+<p>The Tracking Tools we use include services we obtain from third parties.&nbsp; The information generated by these analytics services will be transmitted to and stored by the third parties and will be subject to their privacy policies.&nbsp; We do not control these third parties’ tracking technologies, how they may be used, or the information they may collect, and we are not responsible for these third parties’ privacy policies.</p>
+
+<p>One of the third-party Tracking Tools we use is Google Analytics. The information generated by Google Analytics will be transmitted to and stored by Google and will be subject to <a href="http://policies.google.com/privacy?hl=en&amp;gl=us">Google’s privacy policies</a>. Learn more about<a href="https://policies.google.com/privacy/partners"> Google’s partner services</a> and how to opt out of tracking of analytics by Google.</p>
+
+<p><em>Cookies and Web Beacons</em></p>
+
+<p>The Tracking Tools we use rely on cookies and web beacons:</p>
+
+<ul>
+	<li><em>Cookies</em>. A cookie is a small data file that can be placed on your hard drive when you visit certain websites. Cookies are used to collect and store information, such as the type of computer you are using and how often you log on to a site. Our Site uses both “session cookies,” to improve your navigation across the Site and to remember you over the course of a single visit, and “persistent cookies,” which are stored on your computer until they expire or are deleted and help us provide better service to you over multiple visits to the Site. You can always delete or disable cookies through your browser. If you disable cookies, you may not be able to sign in or take advantage of certain features of the Site that require cookies.<br>
+		&nbsp;</li>
+	<li><em>Web Beacons</em>. In addition to cookies, we deliver “web beacons” through our Site and through emails we send you. Web beacons are small graphic images that may not be visible to Site visitors that collect information about Site usage on an anonymous basis. In some cases, anonymous data may be transmitted to third-party advertising networks. We use web beacons for our own internal analytics, to better understand the ways users interact with our website, and to determine whether a particular email was received and opened. We also use web beacons in connection with our marketing efforts. For example, web beacons allow third-party advertising networks to detect when a user has visited CIEE’s website, and then serve them ads for CIEE’s programs when they browse to another site.</li>
+</ul>
+
+<p><strong>Information from third parties and other sources:</strong>&nbsp;We supplement the information we collect through the Site with information from third parties (including our advertising partners and other service providers) and information we collect through other means, such as offline or through other websites.&nbsp; This information includes social media profile information, depending on the settings you have established for your social media accounts.</p>
+
+<h3>WHEN AND HOW WE SHARE PERSONAL DATA WITH OTHERS<a id="whenweshare" name="whenweshare"></a></h3>
+
+<p>Except as described in this Privacy Notice, CIEE will not share your personal data with third parties, rent or sell its mailing list, or share your personal data with third parties for their direct marketing purposes.</p>
+
+<p><strong>Service Providers</strong>:&nbsp;We have service providers that perform functions on our behalf, including hosting, content management, customer relationship management, social media integration, marketing, analytics, billing, and customer service.&nbsp; These entities may have access to personal data if necessary or useful to performance of their functions.&nbsp; If obtaining such access, these third parties will be subject to confidentiality and security obligations with respect to such data.&nbsp;</p>
+
+<p><strong>Partners</strong>:&nbsp;CIEE may share information about you with our partner organizations in order to provide you with information, programs, and services that you have requested or that we believe may be of interest to you. &nbsp;For example, we may share information in the course of evaluating your application or facilitating your placement in a program.</p>
+
+<p><strong>Law Enforcement / Protection</strong>:&nbsp;CIEE reserves the right to share information about you where CIEE believes that such disclosure is necessary to comply with a legal requirement, such as a subpoena or court order, or to protect the rights or property of CIEE, you, or third parties.</p>
+
+<p><strong>Consent</strong>: CIEE may share your information in any other manner to which you consent.</p>
+
+<h3>PROTECTION OF YOUR INFORMATION<a id="protectionofinfo" name="protectionofinfo"></a></h3>
+
+<p>CIEE makes reasonable efforts to guard your personal data against accidental loss and from unauthorized access, use, alteration, and disclosure. We update and test our security technology on an ongoing basis. We restrict access to your personal data to those employees who need to know that information to provide benefits or services to you. In addition, we train our employees about the importance of confidentiality and maintaining the privacy and security of your information. We commit to taking appropriate disciplinary measures to enforce our employees’ privacy responsibilities.</p>
+
+<p>Unfortunately, the transmission of information via the internet is not completely secure. Although we take measures to protect your personal data, we cannot guarantee its security. Any transmission of personal information to or using our Site is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Site.&nbsp; The safety and security of information also depends on you. If we have provided you with (or you have chosen) a username and password for access to certain parts of our Site, you are responsible for keeping such information confidential. Please do not share your username and password with anyone.</p>
+
+<h3>YOUR CHOICES ABOUT YOUR PERSONAL DATA<a id="yourchoices" name="yourchoices"></a></h3>
+
+<p>Our Site allows you to create a profile, including personal information. You may update or correct this information at any time to ensure its continued accuracy.&nbsp; You may also delete your profile by contacting us at <a href="mailto:contact@ciee.org">contact@ciee.org</a>.<em>&nbsp;</em></p>
+
+<p>Additionally, CIEE provides you choices regarding the way we use the personal data you have provided us. For example, you may sign up to receive newsletters or email notification regarding particular products or services. You may opt out of receiving these optional communications at any time, by clicking the 'Unsubscribe' link in the footer of these emails. Please note, some emails like account password resets or legal notices will continue to be emailed regardless of unsubscribe settings.</p>
+
+<p>If you wish to discuss any aspect of our processing of your personal data, please contact us at <a href="mailto:dataprotectionofficer@ciee.org">dataprotectionofficer@ciee.org</a>.</p>
+
+<h3>TRANSFERRING PERSONAL DATA TO THE UNITED STATES<a id="tranferinus" name="transferinus"></a></h3>
+
+<p>CIEE is located in the United States. Please be aware that any information you provide to us may be transferred to and processed in the United States and be subject to United States law. The privacy and data protection laws in the United States may not be equivalent to the laws in your country of residence.</p>
+
+<p>The United States has not sought nor received a finding of “adequacy” from the European Union under Article 45 of the GDPR. CIEE relies on derogations for specific situations as set forth in Article 49 of the GDPR. In particular, CIEE collects and transfers to the U.S. personal data only: with your consent; to perform a contract with you; or to fulfill a compelling legitimate interest of CIEE in a manner that does not outweigh your rights and freedoms. CIEE endeavors to apply suitable safeguards to protect the privacy and security of your personal data and to use it only consistent with your relationship with CIEE and the practices described in this Privacy Notice.</p>
+
+<h3>DATA STORAGE AND RETENTION<a id="datastorage" name="datastorage"></a></h3>
+
+<p>Your personal data is stored by CIEE on its servers, and on the servers of the cloud-based database management services CIEE engages, located in the United States. The CIEE retains data for the appropriate amount of time.&nbsp;For more information on where and how long your personal data is stored, and for more information on your rights of erasure and portability, please contact CIEE’s data protection officer at&nbsp;<a href="mailto:dataprotectionofficer@ciee.org">dataprotectionofficer@ciee.org</a><em>.</em></p>
+
+<h3>CHILDREN'S PRIVACY<a id="child" name="child"></a></h3>
+
+<p>Our Site is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.</p>
+
+<h3>LINKS<a id="links" name="links"></a></h3>
+
+<p>This Privacy Notice applies only to information collected by this Site and not to other websites that you may link to from here. CIEE is not responsible for the privacy practices of other sites. Please be aware that when you leave this Site, you should read the privacy policies of other websites that ask you to provide personal data.</p>
+
+<h3>NOTIFICATION OF CHANGES<a id="changes" name="chnages"></a></h3>
+
+<p>Any changes to this Privacy Notice will be posted on this Site. &nbsp;Any information that we collect from you will be used in accordance with the version of this Privacy Notice in effect at the time that the information was collected, unless we receive your consent to change our practices with respect to previously collected information.</p>
+
+<p>For further information or comments on our Privacy Notice, please contact our data privacy officer at&nbsp;<a href="mailto:dataprotectionofficer@ciee.org">dataprotectionofficer@ciee.org</a>, or contact CIEE at the following address:</p>
+
+<p><strong>Council on International Educational Exchange</strong><br>
+	300 Fore Street<br>
+	Portland, ME 04101<br>
+	Phone: 1.207.553.4000<br>
+	Fax: 1.207.553.4299<br>
+	E-mail:&nbsp;<a href="mailto:contact@ciee.org">contact@ciee.org</a></p>
+
+<p>EFFECTIVE: May 3, 2018</p>
+  </div>
+</section>
+<!-- </div> -->
+        
       </div>
-      <div class="footerCol sectionLinks what">
-        <h3><a href="/what/" data-content="what">What We Do</a></h3>
-        <ul>
-          <li><a href="/what/#studyPrograms" data-content="what">Study Programs</a></li> 
-          <li><a href="/what/#workPrograms" data-content="what">Work Programs</a></li>
-          <li><a href="/what/#proPrograms" data-content="what">Professional Development</a></li>
-          <li><a href="/what/#supplementalServices" data-content="what">Supplemental Services</a></li>
-        </ul>
-      </div>
-      <div class="footerCol sectionLinks believe">
-        <h3><a href="/believe/" data-content="believe">What We Believe In</a></h3> 
-        <ul>
-          <li><a href="/believe/#strategicPartnerships" data-content="believe">Strategic Partnerships</a></li>
-          <li><a href="/believe/#access" data-content="believe">Access</a></li>
-          <li><a href="/believe/#advocacy" data-content="believe">Advocacy</a></li>
-          <li><a href="/believe/#healthSafety" data-content="believe">Health &amp; Safety</a></li>
-        </ul>
-      </div>
-      <div class="footerCol sectionLinks how">
-        <h3><a href="/how/" data-content="how">How To Be Part of&nbsp;It</a></h3>
-        <ul>
-          <li><a href="/how/#careers" data-content="how">Careers</a></li>
-          <li><a href="/how/#portland" data-content="how">Working in Portland</a></li>
-          <li><a href="/how/#opportunities" data-content="how">Current Opportunities</a></li>
-          <li><a href="/how/#alumni" data-content="how">Alumni</a></li>
-          <li><a href="/how/#internships" data-content="how">Alumni Internships</a></li>
-          
-          <li><a href="/how/#partners" data-content="how">Partners</a></li>
-        </ul>
-      </div>
-      <div id="footerContact">
-          <h2>Contact</h2>
-          <div class="footerCol">
-          CIEE: Council on International Educational Exchange<br>300 Fore St.<br>Portland, ME 04101
-          </div>
-          <div class="footerCol">
-            CIEE Business Hours: 9 a.m.-5 p.m.<br>Eastern Time
-          </div>
-          <div class="footerCol">
-            <strong>Phone:</strong> 207-553-4000<br>
-            <strong>Fax:</strong> 207-553-4299<br>
-            <strong>Email:</strong> <a href="mailto:contact@ciee.org">contact@ciee.org</a><br>
+  
+</article>
+  
+
+    
+  </div>
+
+</main>
+
+
+<footer class="l-footer">
+
+  <div class="footer__main">
+    <nav class="main-menu main-menu--footer section--global-padding" role="navigation">
+      <div class="row">
+        <div class="menu-block-wrapper">
+            
+<nav class="main-menu__important-links main-menu__container has-levels" role="navigation">
+
+      
+      
+<ul class="menu ul--level-one"><li class="first leaf menu-mlid-971 li--level-one"><a href="/" title="">Home</a></li>
+<li class="leaf menu-mlid-976 li--level-one"><a href="http://my.ciee.org" title="">My CIEE</a></li>
+<li class="leaf menu-mlid-981 li--level-one"><a href="http://my.ciee.org" title="">Apply Now</a></li>
+<li class="last leaf menu-mlid-986 li--level-one"><a href="/about/we-are-ciee" title="">Contact</a></li>
+</ul>  
+</nav>
+
+<nav class="main-menu__container has-levels" role="navigation">
+
+      
+      
+<ul class="menu ul--level-one"><li class="first expanded menu-mlid-2056 li--level-one menu-item--has-children"><a href="/about">About</a><ul class="menu ul--level-two"><li class="first leaf menu-mlid-6546 li--level-two"><a href="http://www.ciee.org/about/what-we-do" title="">What We Do</a></li>
+<li class="expanded menu-mlid-6541 li--level-two menu-item--has-children"><a href="http://www.ciee.org/about/what-we-stand-for" title="">What We Stand For</a><ul class="menu ul--level-three"><li class="first last leaf menu-mlid-9746 li--level-three"><a href="/about/what-we-stand-for/access/generation-study-abroad">CIEE Access Grant</a></li>
+</ul></li>
+<li class="leaf menu-mlid-6551 li--level-two"><a href="http://www.ciee.org/about/we-are-ciee" title="">We Are CIEE</a></li>
+<li class="leaf menu-mlid-6556 li--level-two"><a href="http://www.ciee.org/about/work-for-ciee" title="">Work for CIEE</a></li>
+<li class="last leaf menu-mlid-7266 li--level-two"><a href="http://www.ciee.org/about/we-are-ciee/alumni" title="">Alumni</a></li>
+</ul></li>
+<li class="expanded menu-mlid-761 li--level-one menu-item--has-children"><a href="/go-abroad">Go Abroad</a><ul class="menu ul--level-two"><li class="first expanded menu-mlid-771 li--level-two menu-item--has-children"><a href="/go-abroad/college-study-abroad">College Study Abroad</a><ul class="menu ul--level-three"><li class="first leaf menu-mlid-7781 li--level-three"><a href="/go-abroad/college-study-abroad/programs">Search Programs</a></li>
+<li class="leaf menu-mlid-10456 li--level-three"><a href="/go-abroad/college-study-abroad/design-your-study-abroad-experience" title="">Design Your Own Semester</a></li>
+<li class="leaf menu-mlid-7776 li--level-three"><a href="https://www.ciee.org/go-abroad/college-study-abroad/ciee-internships" title="">View Internships</a></li>
+<li class="last leaf menu-mlid-7771 li--level-three"><a href="https://www.ciee.org/go-abroad/college-study-abroad/scholarships-grants" title="">Scholarships &amp; Grants</a></li>
+</ul></li>
+<li class="expanded menu-mlid-766 li--level-two menu-item--has-children"><a href="/go-abroad/high-school-study-abroad">Global Navigator High School Study Abroad</a><ul class="menu ul--level-three"><li class="first leaf menu-mlid-5746 li--level-three"><a href="/go-abroad/high-school-study-abroad/summer">High School Summer Abroad</a></li>
+<li class="leaf menu-mlid-5751 li--level-three"><a href="/go-abroad/high-school-study-abroad/semester">High School Semester Abroad</a></li>
+<li class="last leaf menu-mlid-5756 li--level-three"><a href="/go-abroad/high-school-study-abroad/gap-year">Gap Year Abroad</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2611 li--level-two menu-item--has-children"><a href="/go-abroad/work">Work Abroad</a><ul class="menu ul--level-three"><li class="first leaf menu-mlid-4686 li--level-three"><a href="/go-abroad/work/tefl">TEFL Certification</a></li>
+<li class="last leaf menu-mlid-3821 li--level-three"><a href="/go-abroad/work/teach-english-abroad">Teach Abroad</a></li>
+</ul></li>
+<li class="expanded menu-mlid-14926 li--level-two menu-item--has-children"><a href="/go-abroad/for-post-graduates">For Post-Graduates</a><ul class="menu ul--level-three"><li class="first last leaf menu-mlid-15001 li--level-three"><a href="/go-abroad/for-post-graduates/entrepreneur-lab">Entrepreneur Lab</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-4816 li--level-two menu-item--has-children"><a href="/go-abroad/for-educators">For Educators</a><ul class="menu ul--level-three"><li class="first leaf menu-mlid-7751 li--level-three"><a href="https://www.ciee.org/partner-ciee/for-institutions/academic-internship-council/for-universities" title="">AIC Customized Internship Programs</a></li>
+<li class="leaf has-children menu-mlid-6131 li--level-three"><a href="/go-abroad/for-educators/college-advisors-faculty">College Advisors &amp; Faculty</a></li>
+<li class="leaf has-children menu-mlid-4821 li--level-three"><a href="/go-abroad/educators/faculty-led-programs">Faculty-Led &amp; Custom Programs</a></li>
+<li class="last leaf menu-mlid-5906 li--level-three"><a href="/go-abroad/educators/international-faculty-development-seminars">International Faculty Development Seminars</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded menu-mlid-2526 li--level-one menu-item--has-children"><a href="/in-the-usa">Go to the U.S.</a><ul class="menu ul--level-two"><li class="first expanded menu-mlid-2531 li--level-two menu-item--has-children"><a href="/in-the-usa/go-us/for-academics">For Academics</a><ul class="menu ul--level-three"><li class="first last leaf has-children menu-mlid-4531 li--level-three"><a href="/in-the-usa/academics/high-school-usa">High School</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2896 li--level-two menu-item--has-children"><a href="/in-the-usa/work">For Work Exchange</a><ul class="menu ul--level-three"><li class="first leaf has-children menu-mlid-3611 li--level-three"><a href="/in-the-usa/work/camp-exchange-usa">Camp Exchange</a></li>
+<li class="last leaf has-children menu-mlid-4481 li--level-three"><a href="/in-the-usa/work/work-travel-usa">Work &amp; Travel</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-2541 li--level-two menu-item--has-children"><a href="/in-the-usa/go-us/for-research-and-professional-training">For Research and Professional Training</a><ul class="menu ul--level-three"><li class="first leaf has-children menu-mlid-16296 li--level-three"><a href="/in-the-usa/research-training/researchers-scholars-professors-specialists">For Researchers, Scholars, Professors, and Specialists</a></li>
+<li class="last leaf has-children menu-mlid-2566 li--level-three"><a href="/in-the-usa/research-training/intern-professional-training">Intern or Train in America</a></li>
+</ul></li>
+</ul></li>
+<li class="last expanded menu-mlid-2546 li--level-one menu-item--has-children"><a href="/partner">Partner with CIEE</a><ul class="menu ul--level-two"><li class="first expanded menu-mlid-2561 li--level-two menu-item--has-children"><a href="/partner/employers">For Employers</a><ul class="menu ul--level-three"><li class="first leaf has-children menu-mlid-3656 li--level-three"><a href="/partner/employers/camp-exchange-usa">Hire Camp Counselors</a></li>
+<li class="leaf has-children menu-mlid-4301 li--level-three"><a href="/partner/employers/work-travel-usa">Hire Seasonal Staff</a></li>
+<li class="leaf menu-mlid-15996 li--level-three"><a href="/partner/employers/host-interns-and-trainees">Host Interns and Trainees</a></li>
+<li class="leaf menu-mlid-14941 li--level-three"><a href="https://www.ciee.org/elab" title="">Partner with Entrepreneur Lab</a></li>
+<li class="last leaf menu-mlid-4396 li--level-three"><a href="/partner/employers/sending-companies">Send Employees to US</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2556 li--level-two menu-item--has-children"><a href="/partner/hosts">For Hosts</a><ul class="menu ul--level-three"><li class="first leaf has-children menu-mlid-2701 li--level-three"><a href="/partner/hosts/host-families">Host Families</a></li>
+<li class="leaf menu-mlid-2816 li--level-three"><a href="/partner/hosts/schools">Host Schools</a></li>
+<li class="last leaf menu-mlid-2776 li--level-three"><a href="/partner/hosts/local-coordinators">Local Coordinators</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2551 li--level-two menu-item--has-children"><a href="/partner-ciee/for-institutions">For Institutions</a><ul class="menu ul--level-three"><li class="first leaf menu-mlid-4541 li--level-three"><a href="https://www.ciee.org/partner-ciee/for-institutions/academic-internship-council/for-universities" title="">Build Customized Internship Programs</a></li>
+<li class="last leaf menu-mlid-7236 li--level-three"><a href="http://www.inext.com/" title="">iNext International Insurance</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-2711 li--level-two menu-item--has-children"><a href="/partner-ciee/for-professional-services">For Professional Services</a><ul class="menu ul--level-three"><li class="first leaf menu-mlid-2771 li--level-three"><a href="/partner/professional-services/representatives">International Representatives</a></li>
+<li class="leaf menu-mlid-7231 li--level-three"><a href="https://globaleducationconference.ciee.org/" title="">CIEE Annual Conference</a></li>
+<li class="last leaf menu-mlid-8441 li--level-three"><a href="/partner-ciee/for-professional-services/custom-exchange-programs">Custom Exchange Programs</a></li>
+</ul></li>
+</ul></li>
+</ul>  
+</nav>
         </div>
       </div>
-    </div>
+    </nav>
+  </div>
+
+  <div class="footer__lower">
+    <div class="row">
+      <div class="social-media-column columns">
+        <!-- Social media background extends infinitely while icons remain in grid -->
+        <div aria-hidden="true " class="social-media-background"></div>
+
+        <div class="social-media social-media--footer">
+          <h2 class="show-for-sr"></h2>
+              <section class="block block-bean block-bean-footer-social-media">
+
+      
+      <div class="entity entity-bean bean-social-media-links-block clearfix">
+        <div class="content">
+    <div class="item-list item-list--linkicon" id="linkicon-bean-social-media-links-block-field-social-media-links-1"><ul class="linkicon linkicon--inline linkicon--tooltip linkicon--no-text"><li><a href="https://www.facebook.com/ciee" class="linkicon__item" data-title="Facebook"><span class="fa fa-facebook linkicon__icon icon" aria-hidden="true"></span><span class="linkicon__text">Facebook</span></a></li><li><a href="https://www.youtube.com/user/CIEEStudyAbroad" class="linkicon__item" data-title="Youtube"><span class="fa fa-youtube-play linkicon__icon icon" aria-hidden="true"></span><span class="linkicon__text">Youtube</span></a></li><li><a href="https://www.instagram.com/cieestudyabroad/" class="linkicon__item" data-title="Instagram"><span class="fa fa-instagram linkicon__icon icon" aria-hidden="true"></span><span class="linkicon__text">Instagram</span></a></li><li><a href="https://twitter.com/CIEEstudyabroad" class="linkicon__item" data-title="Twitter"><span class="fa fa-twitter linkicon__icon icon" aria-hidden="true"></span><span class="linkicon__text">Twitter</span></a></li><li><a href="https://www.linkedin.com/company/ciee" class="linkicon__item" data-title="LinkedIn"><span class="fa fa-linkedin linkicon__icon icon" aria-hidden="true"></span><span class="linkicon__text">LinkedIn</span></a></li></ul></div>  </div>
+</div>
   
+</section>        </div>
+      </div>
+      <div class="copyright-column columns">
+        <div class="footer__copyright">
+              <section class="block block-block block-block-1">
+
+      
+      <p><small><strong>CIEE: Council On International Educational Exchange</strong><br>
+	300 Fore St. Portland, ME 04101<br>
+	Phone: 207-553-4000 | Fax: 207-553-4299 | <a href="mailto:contact@ciee.org"><small>contact@ciee.org</small></a></small></p>
+
+<p>&nbsp;</p>
+
+<p><a href="/privacy-notice"><small>Privacy Notice</small></a> <small>|</small> <a href="/terms-conditions"><small>Terms &amp; Conditions</small></a> <small>©&nbsp;COPYRIGHT CIEE 2018. ALL RIGHTS RESERVED.</small></p>
   
-    <div id="footerConnect">
-    <ul>
-      <li>CONNECT WITH US</li>
-      <li><a href="https://www.facebook.com/ciee" target="_blank"><i class="icon-facebook"></i>FACEBOOK</a></li>
-      <li><a href="http://www.linkedin.com/company/ciee" target="_blank"><i class="icon-linkedin"></i>LINKEDIN</a></li>
-    </ul>
-    </div>
-    <div id="footerPrivacy">
-      <ul>
-        <li><a href="/privacy-policy/">PRIVACY POLICY</a></li>
-        <li><a href="/terms-conditions/">TERMS &amp; CONDITIONS</a></li>
-      </ul>
-    </div>
-    <div id="copyright">
-      © COPYRIGHT CIEE 2017. ALL RIGHTS RESERVED.
+</section>        </div>
+      </div>
     </div>
   </div>
 </footer>
 
-      </div>
-
-      <a href="#blackBarWrapper" id="jumpArrow" class="top"><i class="icon-angle-up"></i></a><!--Jump Arrow appears on scroll-->
-
-      <script src="/js/libs/respond.min.js" type="text/javascript"></script>
-      <script src="/js/loader.js" type="text/javascript"></script>
-    
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['ciee'];
-if (!theForm) {
-    theForm = document.ciee;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="/WebResource.axd?d=yXeOqtXmh-Wd6YkN5iUmswnfcvivaTsbsOSPlwgFmb4vZ1xxY7M6MdeDnzecYGEkzQ5FfYh2I04zWm3VnAcCGixn0pCXrEtHJoeGjjdAXhc1&amp;t=636178862751379455" type="text/javascript"></script>
-</form>
-
-
+  <script>function euCookieComplianceLoadScripts() {}</script>
+<script>var eu_cookie_compliance_cookie_name = "";</script>
+<script src="https://www.ciee.org/sites/default/files/js/js_4MRGjqSerJEQxet46pdKTifSYprPwyhoaSNKNoRsFw4.js"></script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a4fd3c669d","applicationID":"56773314","transactionName":"NVdabENTXRIFV0APXwwdeVtFW1wPS1pbAlU9QllfVG1FCAFD","queueTime":0,"applicationTime":643,"atts":"GRBZGgtJThw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
