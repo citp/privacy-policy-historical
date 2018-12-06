@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530055722id_/http%3A//freecollegescholarships.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206011921id_/http%3A//freecollegescholarships.net/privacy) for the most accurate reproduction.*
 
 # Free College Scholarships // Privacy Policy
 
-freecollegescholarships.net ("the site") is owned and operated by Free College Scholarships, LLC. Free College Scholarships, LLC respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. Therefore, by registering and using this site, you are agreeing and accepting this policy.
+freecollegescholarships.net ("the site") is owned and operated by Free College Scholarships, LLC ("FCS"). Free College Scholarships, LLC respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. Therefore, by entering and using this site, you are agreeing and accepting this policy.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -10,26 +10,26 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 ### Information Collected:
 
-The site only collects information that is volunteered during the registration process or in any responses to specific information requests. We do need this information in order to provide services that you request. Examples of the information collected includes: information knowingly provided by you through on-line forms and surveys such as name, email address, personal financial or demographic information, telephone numbers and addresses. We may also collect third party personal information such as a referral's name. We only use this information for the purpose in which it was intended. We may also collect your IP address and information through the use of electronic 'cookies'. However, we limit the use and collection of information about our customers to that extent which is necessary to administer our business.
+The site only collects information that is volunteered during the entry process or in any responses to specific information requests. We do need this information in order to provide services that you request. Examples of the information collected includes: information knowingly provided by you through on-line forms and surveys such as name, email address, personal financial or demographic information, telephone numbers and addresses. We may also collect third party personal information such as a referral's name. We only use this information for the purpose in which it was intended. We may also collect your IP address and information through the use of electronic 'cookies'. However, we limit the use and collection of information about our customers to that extent which is necessary to administer our business.
 
 ### How We Use That Information:
 
-FreeCollegeScholarships reserves the right to use this information provided by you for:
+FCS/freecollegescholarships.net reserves the right to use this information provided by you for:
 
-  1. The specific purpose for which such information was provided (including matching registrants with the education providers and other advertisers on our site);
+  1. The specific purpose for which such information was provided (including matching entrants with the education providers and other advertisers on our site);
   2. Personal, demographic and profile data to improve our site;
   3. Our marketing and promotional purposes;
   4. As disclosed at the time such information is provided; and/or as disclosed in this Policy.
 
 
 
-Although, it is important to note that FreeCollegeScholarships reserves the right to change or modify this policy at any time with or without notice. If you have any questions regarding the use of your information or about this policy, please feel free to email us at: [Info@freecollegescholarships.net](mailto:info@freecollegescholarships.net).
+Although, it is important to note that FCS/freecollegescholarships.net reserves the right to change or modify this policy at any time with or without notice. If you have any questions regarding the use of your information or about this policy, please feel free to email us at: [Info@freecollegescholarships.net](mailto:info@freecollegescholarships.net).
 
-freecollegescholarships.net may also share your information with its service providers such as an email service provider and chat provider, and with your permission, any other entities that we believe are able to provide you with special opportunities and offers. _These companies are authorized to use your personal information only as necessary to provide these services to us._
+FCS/freecollegescholarships.net may also share your information with its service providers such as an email service provider and chat provider, and with your permission, any other entities that we believe are able to provide you with special opportunities and offers. _These companies are authorized to use your personal information only as necessary to provide these services to us._
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy. 
 
-Additionally, freecollegescholarships.net may disclose your information as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. In certain situations, Free College Scholarships, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+Additionally, FCS/freecollegescholarships.net may disclose your information as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. In certain situations, Free College Scholarships, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 ### User Data Supplementation
 
@@ -52,7 +52,7 @@ On some of our sites we have special offers with our partners where another thir
 
 ### Links to Other Sites:
 
-If you click on a link to a third party site, including on an advertisement, you will leave our site and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as freecollegescholarships.net. We encourage you to review the privacy policies of any other service provider from whom you request services.
+If you click on a link to a third party site, including on an advertisement, you will leave our site and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as FCS/freecollegescholarships.net. We encourage you to review the privacy policies of any other service provider from whom you request services.
 
 ### Tracking Technologies:
 
@@ -70,9 +70,9 @@ Our website includes Widgets, which are interactive mini-programs that run on ou
 
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [Info@freecollegescholarships.net](mailto:info@freecollegescholarships.net). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-### Registry Compliance:
+### Entry Compliance:
 
-By submitting your personal and/or financial information on our site, you hereby give us, our affiliated sites, sponsors, etc. permission to use your information to contact you. You are also consenting to receive phone calls from freecollegescholarships.net, our affiliates, and our partners for contact via telephone.
+By submitting your personal and/or financial information on our site, you hereby give us, our affiliated sites, sponsors, etc. permission to use your information to contact you. You are also consenting to receive phone calls from FCS/freecollegescholarships.net, our affiliates, and our partners for contact via telephone.
 
 ### Behavioral Targeting
 
@@ -84,19 +84,19 @@ We follow generally accepted industry standards to protect the personal informat
 
 ### SMS Messaging:
 
-If applicable, this website, freecollegescholarships.net, websites linking to freecollegescholarships.net, and websites linked from this website (collectively "We") may make available a service either directly or through third parties by which you can receive messages on your wireless device via short message service ("SMS Service"). Your provider's standard data and messaging rates apply to all SMS correspondence. All charges are billed by and payable to your mobile service provider. You represent that you are 18 years of age and the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. Data obtained from you in connection with this SMS Service may include your name, address, cell phone number, your provider's name, and the date, time, and content of your messages. The use of this information will be in accordance with this Mobile Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. You acknowledge and agree that the SMS Service is provided via wireless systems, which use radios (and other means) to transmit communications over complex networks. We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an AS IS basis. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. You may opt out of the SMS Service at any time by replying "STOP", "END", or "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering.
+If applicable, this website, FCS/freecollegescholarships.net, websites linking to FCS/freecollegescholarships.net, and websites linked from this website (collectively "We") may make available a service either directly or through third parties by which you can receive messages on your wireless device via short message service ("SMS Service"). Your provider's standard data and messaging rates apply to all SMS correspondence. All charges are billed by and payable to your mobile service provider. You represent that you are 18 years of age and the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. Data obtained from you in connection with this SMS Service may include your name, address, cell phone number, your provider's name, and the date, time, and content of your messages. The use of this information will be in accordance with this Mobile Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. You acknowledge and agree that the SMS Service is provided via wireless systems, which use radios (and other means) to transmit communications over complex networks. We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an AS IS basis. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. You may opt out of the SMS Service at any time by replying "STOP", "END", or "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering.
 
 ### We do not collect Information from Children:
 
-The information and services provided by us are not intended for children under the age of eighteen (18) years old. Additionally, we do not direct our Website to, nor do we knowingly collect any personal information from children under the age of thirteen (13) years old. If freecollegescholarships.net learns of a person who registers on this site who is under the age of thirteen (13) years old, we will immediately delete that person's information.
+The information and services provided by us are not intended for children under the age of eighteen (18) years old. Additionally, we do not direct our Website to, nor do we knowingly collect any personal information from children under the age of thirteen (13) years old. If FCS/freecollegescholarships.net learns of a person who enters on this site who is under the age of thirteen (13) years old, we will immediately delete that person's information.
 
 ### Anti-Spam Policy and Your Opt-Out Rights:
 
-freecollegescholarships.net has a no tolerance spam policy and is committed to 100% permission based marketing. Spam is unsolicited email also known as junk mail or UCE (Unsolicited Commercial Email). freecollegescholarships.net reserves the right to send its subscribers registration confirmations, scholarship drawing notifications and relevant newsletters. We send both promotional and service related emails. Please note you cannot opt-out of service related emails. However, if you have received a freecollegescholarships.net promotional email in error, you may remove your information from our database by responding to any of our email communications with "remove" in the subject line. You may also opt-out on our global [Unsubscribe Page](https://web.archive.org/unsubscribe).
+FCS/freecollegescholarships.net has a no tolerance spam policy and is committed to 100% permission based marketing. Spam is unsolicited email also known as junk mail or UCE (Unsolicited Commercial Email). FCS/freecollegescholarships.net reserves the right to send its subscribers entry confirmations, scholarship drawing notifications and relevant newsletters. We send both promotional and service related emails. Please note you cannot opt-out of service related emails. However, if you have received a FCS/freecollegescholarships.net promotional email in error, you may remove your information from our database by responding to any of our email communications with "remove" in the subject line. You may also opt-out on our global [Unsubscribe Page](https://web.archive.org/unsubscribe).
 
-### Help freecollegescholarships.net Eliminate Spam
+### Help FCS/freecollegescholarships.net Eliminate Spam
 
-If you have received unsolicited bulk e-mail from freecollegescholarships.net or promoting a freecollegescholarships.net service, please let us know. Forward the message you received, including the mail headers, to freecollegescholarships.net. Include a note letting us know that the message is spam, and that you did not specifically request to receive information from the sender.
+If you have received unsolicited bulk e-mail from FCS/freecollegescholarships.net or promoting a FCS/freecollegescholarships.net service, please let us know. Forward the message you received, including the mail headers, to FCS/freecollegescholarships.net. Include a note letting us know that the message is spam, and that you did not specifically request to receive information from the sender.
 
 ### California Privacy Rights:
 
@@ -108,7 +108,7 @@ Upon request Free College Scholarships, LLC will provide you with information ab
 
 ### Transfer, Sale, or Assign:
 
-At its sole discretion, freecollegescholarships.net may transfer, sell, and/or assign information collected on and through this site, including but not limited to, the users personal information collected, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation of freecollegescholarships.net. You will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+At its sole discretion, FCS/freecollegescholarships.net may transfer, sell, and/or assign information collected on and through this site, including but not limited to, the users personal information collected, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation of FCS/freecollegescholarships.net. You will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 ### Data Retention:
 
@@ -118,14 +118,14 @@ We will retain your information for as long as your account is active or as need
 
 We reserve the right to change this policy at any time. If we make a material change regarding how we use your personal information, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site prior to the change becoming effective.
 
-Effective: June 1, 2017
+Effective: August 23, 2018
 
 ### Contact Information
 
 Email us at: [Info@freecollegescholarships.net](mailto:info@freecollegescholarships.net)  
 Or write to us at: Free College Scholarships LLC, 4104 24th St. Suite 947, San Francisco, CA 94114
 
-[Register Now](https://web.archive.org/reg)
+[Enter Now](https://web.archive.org/reg)
 
 Balancing life, family, and your career can be overwhelming.  
 Give yourself the tools you need and go back to school and take control of your future. 
