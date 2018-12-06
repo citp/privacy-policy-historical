@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aggienetwork.com privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114233026id_/https%3A//www.aggienetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aggienetwork.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206191608id_/https%3A//www.aggienetwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ In order to use certain aspects of this Web site, a user must first complete the
 
 **Donation  **
 
-We request information from the user on our donation form. A user must provide contact information (such as name, email, and billing address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customers' donations. If we have trouble processing a donation, the information is used to contact the user. If you choose to make a donation to The Association with a credit card, your credit card number will be processed by a secure third-party service, PayPal.com. Credit card numbers are not stored on any of The Association’s servers.
+We request information from the user on our donation form. A user must provide contact information (such as name, email, and billing address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customers' donations. If we have trouble processing a donation, the information is used to contact the user. If you choose to make a donation to The Association with a credit card, your credit card number will be processed by a secure third-party service, Stripe. Credit card numbers are not stored on any of The Association’s servers.
 
 **Other Sources  **
 
