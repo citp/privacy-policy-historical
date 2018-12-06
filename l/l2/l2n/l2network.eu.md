@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the l2network.eu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119023702id_/http%3A//l2network.eu/%3Fa%3Dpage%26id%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the l2network.eu privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206225329id_/https%3A//l2network.eu/page/privacy_policy) for the most accurate reproduction.*
 
-# [L2TopNetwork] World’s #1 Lineage2 servers Toplist, L2top - Privacy Statement
+# L2Network #1 | All New Lineage 2 | L2 Private Servers, L2top - Privacy Statement
 
 Privacy Statement for Network.eu.
 
