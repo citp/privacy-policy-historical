@@ -1,130 +1,442 @@
-> *The following text is extracted and transformed from the finishline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193718id_/http%3A//www.finishline.com/store/corporate/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finishline.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206135727id_/https%3A//www.finishline.com/store/corporate/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Customer Service Privacy Policy | Finish Line
 
-Last Updated: June 25, 2008 TEST
-
-ONLINE POLICIES - PRIVACY STATEMENT
-
-The Finish Line, Inc. ("Finish Line") knows that you care how your information is used and shared. We appreciate your trust that we will use your information carefully and sensibly. This Statement describes our privacy policy with respect to information that we collect through the website at [www.finishline.com](http://www.finishline.com/) (the "Site"), from your mobile phone or device as a result of your participation in mobile marketing and in Finish Line stores, including our store kiosks, as described below under "What Information Do We Collect And How Do We Use It?". **By visiting[www.finishline.com](http://www.finishline.com/), using any of our store kiosks, or consenting to participate in our mobile marketing program, you are accepting the practices described in this Privacy Statement.**
-
-INFORMATION ABOUT OUR ORGANIZATION AND THE SITE
-
-The Finish Line, Inc. is based in the United States of America. With our affiliates, we are engaged in the retail sale of athletic shoes and apparel.
-
-Organization Name: | The Finish Line, Inc.  
----|---  
-Address: | 3308 North Mitthoeffer Road  
-City, State, Zip, Country: | Indianapolis, Indiana 46235 USA  
-Controller: | The Finish Line, Inc.  
   
-WHAT INFORMATION DO WE COLLECT AND HOW DO WE USE IT?
+Effective as of: June 12, 2018
 
-The information we gather falls into two categories: (1) personal information you supply, and (2) tracking information collected as you navigate through the Site, on your mobile phone or device, or any of our store kiosks (where available).
+PRIVACY POLICY INTRODUCTION
 
-Personally identifiable information
+  
+At Finish Line, we take seriously the trust you place in us when you choose to do business with us. Our Privacy Policy applies to information related to you that may be collected by Finish Line:
 
-We will collect and store personally identifiable information whenever you do the following:
-
-  1. Purchase our products. When you purchase products from us through the Site or any of our store kiosks, we will collect personally identifiable information about you such as your name, mailing address, e-mail address, telephone number, mobile phone number, and credit card number. We use this information to process and communicate with you about your order. When you purchase a product through the Site or one of our store kiosks, you may also choose whether you want us to send you information about our products, services, special promotions or incentives.
-  2. Volunteer information. In order to provide you with a better and more personalized service as well as to keep you updated on our and third parties' products and services, we may collect other personally identifiable information that you voluntarily provide us such as information about your personal preferences, survey responses, details on your transactions and interactions with us.
-  3. Create an account. You have the option to create an account with us on the Site. When you create an account, we collect personally identifiable information such as your name, mailing address, telephone number, mobile number, email address and date of birth. We use this information to manage your account and customize and enhance your online shopping experience. For example, when you create an account on the Site, you will be able to create and maintain a Wish List of items that can be shared with your family and friends, use our "express checkout" feature, and view your entire order history. You may also choose whether you want us to send you information about our products, services, special promotions or incentives. You may choose not to create an account or not to provide us with certain information, but then you might not be able to take advantage of many of the features on the Site.
-  4. Join our Winners Circle. You have the option to join our Winners Circle program, either on the Site or in our stores (including through our store kiosks), which provides you with rewards for shopping at Finish Line. To join the Winners Circle, you will be required to provide personally identifiable information such as your name, telephone number, mailing address, and email address. We will also maintain a record of your purchases. We will use this information to manage and communicate with you about your Winners Circle account. When you sign up for the Winners Circle, you may also choose whether you want us to let you know about our products, services, special promotions or incentives.
-  5. Opt-in for Mobile Marketing. You may have the option to participate in our mobile marketing program by consenting to communication on your mobile phone or device. If you provide such consent, your mobile number will only be used to communicate information about products, services, sweepstakes, special promotions, incentives, and refunds. If you register for mobile marketing, you will receive special offers, unless you have requested otherwise at the time of registration or as set forth below.
-  6. Request a catalog and/or email announcements.You may request that we provide you with email announcements and/or our catalog by signing up on the Site or in our stores (including through our store kiosks). In order to fulfill your request, we will collect your name, mailing address, mobile number, and/or your email address.
-  7. Complete a survey or product review. On occasion, we may request that you complete a survey. Your participation in any survey is completely voluntary. If you complete a survey, we will use the information you provide to help us enhance our stores, the Site, and the products and services we offer. You may also wish to provide us with a review of a product you have purchased. If you provide us with a review, we will use the information to improve the products we offer and we may elect to anonymously post the review to assist other customers with their purchase decisions.
-  8. Enter a contest or sweepstakes. From time to time, you may have the opportunity to enter a contest or sweepstakes that we offer, either on the Site, on your mobile phone or device, or in our stores. In order to enter a contest or sweepstakes, you may be required to provide certain personally identifiable information such as your name, email address, age, photograph, telephone number, mobile number and/or mailing address. We will use this information to notify contest winners of awards and prizes. We may also use the information to let you know about our products, services, special promotions or incentives that may be of interest to you. On occasion, we may join with a select third party to offer a contest or sweepstakes, in which case you may choose whether we may also share the information you provide on your entry form with our co-sponsor so that it can inform you of products or services that may be of interest.
-  9. Email To A Friend or Email your Wish List. If you elect to use any "Email To A Friend" or "Email Your Wish List" feature on the Site for informing a friend about the Site or products you are interested in, we will ask for the email address of your friend. We use this information only for the purpose of forwarding the selected item(s) or your Wish List. We do not store this information.
-  10. Contact us with a question or concern. If you contact our customer care center, in order to better serve your needs, a representative will ask you to provide certain personal information like your name, mailing address, telephone number, mobile number, and/or email address.
+  * in our stores (“ **Retail Stores** ”) and shops located in Macy’s stores (“ **Shops** ”) (collectively, “Stores”);
+  * online at finishline.com and at our blog at [blog.finishline.com](https://blog.finishline.com/) (collectively, “ **Site** ”);
+  * when you purchase Finish Line athletic shoes through [macys.com](https://www.macys.com/shop/shoes/finish-line-athletic-shoes?id=63268);
+  * through our mobile application(s) (“ **App** ”);
+  * in connection with our brand loyalty membership program known as [Winner’s Circle](https://www.finishline.com/wc_terms);
+  * for our sweepstakes, contests and surveys;
+  * through our registration and event services;
+  * by Store associates and customer service representatives; and
+  * by and through emails, social media or other digital platforms, including our digital ads which may be delivered on third-party websites (collectively, “ **Internet Marketing Platforms** ”).
 
 
 
-Demographic Information
+(collectively, “ **Services** ”). 
 
-When you provide information for any of the above purposes, you may also be asked to provide demographic information, such as your age or state of residence. We use demographic information to analyze and improve the Site and the products and services we offer, as well as the quality of your on-line visits. We may also use demographic information and/or your purchase history to customize your shopping experience and to help us determine whether you may be interested in a particular product or service. On occasion, we may obtain information about you from other sources to enhance our ability to serve your needs, such as ensuring the delivery of materials you have requested.
+  
+Our Privacy Policy describes:
 
-Aggregate information
-
-When you use the Site, we may collect tracking information such as your browser type, the type of operating system you use, the domain name of your Internet service provider, and pages visited on the Site. None of this information identifies you personally; we collect it for aggregate reporting on site activity. For example, we may want to know how long the average user spends on the Site, or which pages or features get the most attention. We use this information to make the Site more useful to our customers. 
-
-  1. Web Beacons. We use "Web Beacon" (also known as "clear GIF", "pixel tag", "data tag" or "image tag") technology to collect anonymous, non-personal information about how the Site is used. We use this information to make improvements to our Site and to help us plan for technical improvements. This information will not identify you or any other user of the Site as an individual.
-  2. E-Mail. We use clear gifs in our HTML - based emails that tell us whether or not you can accept HTML images and, if you can accept HTML, whether or not you viewed the e-mail. We use this information to help us make e-mails about our products and services more useful and interesting. This process does not leave any information on your computer, nor does it collect information from your computer. We do not sell this information to others, and we only use it to improve our e-mail communications with you.
-  3. Cookies. "Cookies" are alphanumeric identifiers in the form of text files that are inserted and stored by your web browser on your computer's hard drive. Finish Line may set and access cookies on your computer to track and store preferential information about you. We use cookies to understand how [www.finishline.com](http://www.finishline.com/) visitors click to the Site and what pages they view during their visit. Cookies allow us to personalize your shopping experience and speed the check out process. We do not store any personal or financial information in any cookie at any time.
+  * the types of information we and our Providers collect;
+  * how we collect, use and secure this information;
+  * when we share this information with third parties, including relevant Providers; and
+  * choices you can make about how we collect and use certain information.
 
 
 
-We also use a session cookie, which is not placed on your hard drive. A session cookie is a piece of identification between your browser and our server that keeps track of the items in your shopping cart and other session information. This cookie will disappear when the session expires or when you close your browser.
+We strive to adhere to the Self-Regulatory Principles of the Digital Advertising Alliance, which establishes and enforces responsible privacy practices for digital advertising. As such, our Privacy Policy also includes our **[Interest-Based Ads Policy](https://www.finishline.com/interest-based-ads-policy) **.
 
-We may also use third party service providers for research purposes, including helping us to measure and analyze how visitors click to and use the Site. To do this, we may use cookies or web beacons provided by these third parties to track the types of non-personal information described above. Such aggregated information is used within Finish Line's internal organization and is only shared with third parties on an aggregated and non-personally identifiable basis.
+In our Privacy Policy, “ **Finish Line** ”, “ **we** ” and “ **our** ” mean Finish Line, Inc. and its subsidiaries and affiliates, and “ **you** ” means any person who accesses and uses our Services.
 
-The "help" function on most browsers contains information on how to set your browser to notify you before accepting cookies or to disable cookies entirely. However, if you don't accept cookies, you won't be able to take advantage of various features on the Site that are available to other visitors.
+We engage other companies to assist us in collecting and using information related to you as described in this Privacy Policy (“ **Providers** ”). Where we describe our collection and use practices in this Privacy Policy, our Providers may be engaged in the same or similar collection and use practices on our behalf.
 
-For our store kiosks, we use similar technology to collect the types of tracking information described above. We use this information to help us understand how customers use our kiosks and to improve our customers' shopping experience. Please note that you will not be able to disable cookies used in connection with our store kiosks.
+_By accessing or using any of our Services, you consent to the collection, use and disclosure of your information, including any information previously collected by and for Finish Line, as described in this Privacy Policy._
 
-STORING INFORMATION
+  
+If you would prefer to make your purchase by telephone rather than in our Stores, on our Site, or on our App), please call us at **[1-888-777-3949](tel:18887773949) **. A Finish Line Customer Care representative will be happy to assist you.
 
-We do not undertake to maintain any information about you for a duration greater than necessary to provide services to you or as provided by law, rule or regulation. We shall only use it for the purposes for which it was submitted, unless you indicate otherwise. By providing your mobile number for delivery of content, you will be deemed to have given us permission to store your mobile number for the purposes only of delivering such content.
+If you have any questions about this Privacy Policy, please [contact us](https://www.finishline.com/store/customerservice/contactUs.jsp).
 
-DO WE SHARE THE INFORMATION WE RECEIVE?
+PRIVACY POLICY CONTENTS
 
-Although the information we collect about you is important to us, we are not in the business of renting or selling that information to others. We may share the information covered by this Privacy Statement with our affiliated companies, agents, and representatives so that they may offer you products or services that may be of interest. Finish Line may share some of your personally identifiable information with its affiliates, and you authorize Finish Line and its affiliates to use your personally identifiable information in connection with electronic communications to you, including, without limitation, email, voicemail, text messaging, SMS, MMS, WAP, BREW and other means of mobile content delivery, and off-line offerings or campaigns. We may also share your personally identifiable information (with your consent, as provided herein) with co-sponsors of contests or sweepstakes or to others for marketing purposes. However, we will not share your personally identifiable information with third parties for these purposes without your consent. Finish Line is not responsible for any third party use of such information or for the privacy policies and practices of these parties. If you would like information on any other party's privacy policy, you should contact that party directly, and we encourage you to do so. We expect those parties with whom we share information to respect your privacy in the same manner as we do. However, we cannot ensure that they abide by our privacy policies.
+  
+Click on the following links to go directly to the corresponding sections of this Privacy Policy:
 
-If you do not want to receive promotional information from our affiliated companies, see the instructions below under "How Do I Opt Out Or Change My Information?"
+  1. Customer Information Finish Line Collects
+  2. How Finish Line Collects Customer Information
+  3. How Finish Line Uses Customer Information
+  4. How Finish Line Shares Customer Information
+  5. Limiting Finish Line’s Collection and Use of Your Customer Information
+  6. Updating Personal Information with Finish Line
+  7. Security Practices
+  8. Storage of Customer Information and Data Transfers
+  9. Other Notices and Disclosures
+  10. Privacy Policy Updates
+  11. Contact Finish Line
 
-In addition, aggregate information that does not identify particular individuals, such as the number or percentage of visitors who fall within a certain category or categories, may be provided to third parties.
-
-We may share your information with third parties in the following circumstances: 
-
-  * Service Providers: We may employ third party service providers to perform functions on our behalf. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * Legal Obligations: From time to time, we may be required to share personal information in response to a valid court order, subpoena, government investigation, or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful.
-  * Protection of Finish Line and Others: We may release personal information when we believe release is appropriate to comply with the law or any rule, regulation, government or court order; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Finish Line, our affiliated companies, our users, or others. However, this does not include selling, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Statement.
-  * Business Transfers: As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Statement (unless, of course, the customer consents otherwise). Also, in the unlikely event that Finish Line, any of its affiliated companies, or substantially all of its or their assets are acquired, customer information will be one of the transferred assets.
-  * With Your Consent: Other than as set out above, you will receive notice and choice as to when your personal information might be shared with unrelated third parties. For example, we may on occasion join with select third parties to offer promotions in which you may choose to receive promotional or other information from our co-sponsor.
 
 
+**_1\. Personal Information and Non-Personal Information_ **
 
-HOW SECURE IS THE INFORMATION THAT WE COLLECT?
+We collect various types of information about and related to you. In general, we may collect and store “ **Personal Information** ” and “ **Non-Personal Information** ”.
 
-Finish Line believes in providing a safe and secure shopping experience for all of our customers. We want you to feel comfortable that personal information such as your name, address and credit card number will be kept safe throughout your entire shopping experience at the Site available at [www.finishline.com](http://www.finishline.com/) and at our store kiosks.
+**Personal Information** is information that reveals your specific identity or directly relates to you as an individual. Personal Information we collect may include your name, postal address, email address, phone number, credit and debit card information (and related payment information), account username and password.
 
-The Site accepts orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology; for example, 3.0 versions or higher of Netscape Navigator and versions 3.02 or higher of Internet Explorer. This means you'll be unable to inadvertently place an order through an unsecured connection. Our store kiosks also operate over a private, secure network. Despite all these precautions, no method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+**Non-Personal Information** is information that does not reveal your specific identity and does not directly relate to you as an individual. Non-Personal Information we may collect include demographic information (such as gender, date of birth and ZIP code), lifestyle information, personal interests, brand and product preferences, sizing preferences, browser and device information and geographical location.
 
-We use reasonable security measures and take reasonable system, process and administrative precautions to protect against the loss, misuse and unauthorized access of your personal information under our control. Finish Line cannot ensure or warrant the security of any information you transmit to us via e-mail, online, in the store, or over your mobile phone or device. You transmit such information at your own risk.
+In this Privacy Policy, we refer to Personal Information and Non-Personal Information collected by us as “ **Customer Information** ”.
 
-HOW DO I OPT OUT OR CHANGE MY INFORMATION?
+**_2\. Automatically Collected Information_ **
 
-You can change your preferences or access and update information in your account profile at the Site available at [www.finishline.com](http://www.finishline.com/) at any time by logging in with your email address and password. Once you have logged in, you can update your name, email, password, and/or change your address and preference to receive marketing information.
+  
+When you use certain Services, we use cookies, web beacons, pixel tags, social media widgets and other automated information collection and tracking technologies to collect and store certain types of Non-Personal Information (" **Automatically Collected Information** ”).
 
-We recognize that you may not want to receive offers or other information from Finish Line or its affiliated companies. At any time, you may request to discontinue receiving offers or other promotional information from us by contacting customer care toll-free at 1-888-777-3949. Please be sure to let us know specifically which information you no longer wish to receive. In the case of Finish Line email communications, you may also follow the instructions included in each email in order to discontinue receiving promotional emails from us. Due to production, mailing and system timelines, it may take some time to process your request.
+Automatically Collected Information includes information such as:
 
-Please note that, even if you request not to receive emails from Finish Line, you may still receive emails sent by a friend using "Email To A Friend" or "Email Your Wish List". In addition, we may still use your information to communicate with you for other purposes, such as your orders and purchases, for customer care, or regarding contests or sweepstakes you may have entered.
+  * Technical information, like your IP (internet protocol) address, the type of browser, device or hardware you are using, including device model, operating system version, unique device identifiers and mobile network information.
+  * Your interactions with certain Services, like how you use our Site, App and Internet Marketing Platforms, including the time you spend on these Services, the way you navigate through these Services and search terms you enter when using these Services.
+  * Your interactions with the ads we serve, including through your interaction with our content presented on a third-party website or mobile application.
+  * Your geo-location, including the precise location of your device.
 
-CHILDREN'S POLICY
 
-We understand and share your concerns regarding your children's access to the internet and the internet's access to your children. Consistent with the Children's Online Privacy Protection Act, we do not knowingly request, accept, maintain, or disclose information submitted to us online by any visitor under 13 years of age.
 
-If we become aware that an individual under 13 has provided information to us online, we will not use or disclose that individual's information for any purpose unless required to do so by law. If a child whom we know to be under age thirteen sends personal information to us online, the e-mail address of the child will be deleted and no personal information will be collected, stored, or disclosed.
+To learn about the types of Customer Information we collect using cookies and other automated information collection and tracking technologies for interest-based advertising purposes, please click [HERE](https://www.finishline.com/interest-based-ads-policy) to review our Interest-Based Ads Policy.
 
-INTERNATIONAL CUSTOMERS
+**_3\. Combining Customer Information_ **
 
-Finish Line is based in the United States and does not currently sell its products directly to international consumers. Therefore, we do not knowingly request or accept personally identifiable information from individuals outside the United States.
+  
+We may combine Customer Information we collect and obtain from different sources, including across devices. This means we may combine Personal Information with additional Personal Information or Non-Personal Information, including Automatically Collected Information. For example, we may:
 
-THIRD PARTY LINKS
+  * combine information about your in-Store transactions with information concerning your interactions with our Site, App and Internet Marketing Platforms.
+  * combine information that we collect about you over time from the different devices you use to access our Site, App and Internet Marketing Platforms.
+  * combine additional information about you we obtain from third parties with information we already have about you.
 
-The Site may also contain links to other third party sites that are not under our control. These sites may have their own policies, or not policies at all, regarding privacy. You should seek and review these policies before providing information to these sites. Finish Line has no responsibility for linked websites and provides these links solely for the convenience and information of our visitors. Finish Line also maintains a strict "no-spam" policy and fully complies with CAN-SPAM Act regulations.
 
-TERMS OF USE, NOTICES, AND REVISIONS
 
-If you choose to visit the Site at [www.finishline.com](http://www.finishline.com/) or use our store kiosks, your use, visit and any dispute over privacy is subject to this Statement and our Terms of Use, including limitations on liability and damages, application of the law of the State of Indiana and resolution of any disputes in Indiana. If you have any concern about privacy at the Site or store kiosks, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and this Privacy Statement, the Terms of Use and the Site will change also. We may, in our sole discretion, e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check the Site frequently to see recent changes. Unless stated otherwise, any revised Privacy Statement will replace the prior Privacy Statement and will apply to past and current visitors. We stand behind the promises we make, however, and will never materially change our Privacy Statement to make it less protective of customer information collected in the past without notifying affected customers, either by communicating directly with those customers or by posting the changes on the Site.
+When combined, Customer Information may identify you as an individual and may be used to associate you with your use of our Services. When we combine Non-Personal Information with Personal Information, we treat the combined information as Personal Information.
 
-PRIVACY SUPPORT
+We collect Customer Information related to you:
 
-If you have an inquiry or concern about our privacy statement, please contact:
+  * from you when you provide such information to us.
+  * through technology-enabled collection and tracking services that allow us to automatically collect certain information when you use our Site or App or interact with our emails, social media or advertisements on our Site, our App or other websites.
+  * from our in-Store services when you visit our Stores.
+  * from third party sources, including vendors who perform a business, professional or technical support functions for us.
 
-Name/designation: | General Counsel  
----|---  
-Department: | The Finish Line, Inc.  
-Address: | 3308 North Mitthoeffer Road  
-Indianapolis, IN 46235  
-Phone Number: | (317) 899-1022  
-Email address: | generalcounsel@finishline.com
+
+
+**_1\. Information You Provide Us_ **
+
+We receive Customer Information from you when you use our Services, such as when you:
+
+  * create a customer account on our Site or App.
+  * create a [Winner’s Circle](https://www.finishline.com/wc_terms) account.
+  * place an order with us (by phone, online at our Site, on our App and in-Store, including through our “We’ve Got It” program).
+  * register for a free trial Sports Illustrated subscription in Retail Stores at the point-of-sale
+  * submit content you create on our Site, on our App and through our Internet Marketing Platforms, such as by liking a product or
+  * posting a product review on our Site (“ **User Contribution** ”).
+  * participate in customer research and surveys.
+  * participate in sweepstakes or promotions we offer.
+  * subscribe for communications from us, such as promotional emails.
+  * contact us through any method, including by phone, email, web chat and fax.
+  * use a third party website or mobile application (such as a social media platform) in connection with our Services.
+
+
+
+Please note, when you use a third party website or mobile application in connection with our Services, you may be further subject to such third party’s terms of use, privacy policy and/or other applicable terms and conditions.
+
+**_2\. Information from Technology-Enabled Collection Services_ **
+
+  
+We receive Automatically Collected Information about you when you use our Services where automated information collection and tracking technologies have been employed by us or by our Providers, such as:
+
+  * when you interact with our Site or App on any device.
+  * when you interact with our Internet Marketing Platforms, including email advertisements or digital ads delivered on a third-party website.
+  * when you install our App and enable certain features such as location-based features.
+  * when you interact directly with our Providers or with other websites, mobile applications or companies that these providers also work with.
+
+
+
+Automatically Collected Information may be collected over time. Automated information collection and tracking technologies that we primarily use in association with our Site, App and Internet Marketing Platforms include cookies, web beacons, locally stored identifiers and certain social media tools, like social media widgets. We may use other technologies that are similar to, or serve similar purposes, as these technologies.
+
+**Cookies and Similar Technologies**. Cookies are small data files that are stored on your hard drive or in connection with your browser. Cookies, and other similar technologies, allow our Site and App to identify you and to remember things like your preferences for browsing the Site or App.
+
+  * **We use session cookies and persistent cookies**. Session cookies exist only for as long as your browser remains open. We use session cookies, for example, to manage items added to your shopping bag. We use persistent cookies to give you a more personalized shopping experience and help you navigate our Site and App more efficiently. Persistent cookies do not go away when you exit your browser. Persistent cookies are stored until they expire or until you delete the cookie. You may not be able to delete some persistent cookies, even through your browser option tools.
+  
+
+  * **We use functional cookies and analytical cookies**. Functional cookies recognize you as you return to our Site or App and enable us to store information about your preferences. Functional cookies include, for example, cookies that allow you to log-in, use the Finish Line Wish List or store products in a shopping cart. Functional cookies must be enabled on the Site and App to function and for you to use these Services. Analytical cookies analyze how you interact with our Site, App and Internet Marketing Platforms. Analytical cookies also may be used to analyze how you interact with other websites and mobile applications.
+  
+
+  * **We use first-party cookies and third-party cookies**. First-party cookies are set by us on our Site and App and can only be used to capture information about your use of the Site or App. Third-party cookies may be set by our Providers on our Site or App. For example, we may hire a third-party analytics company that sets their own cookie to our Site to perform web performance analytics services for us. Third-party cookies may also be set up by our Providers on content we deliver on other websites or mobile applications. These cookies may have the capability of tracking your interaction with and across different websites and mobile applications.
+
+
+
+  
+**Web Beacons or Tags**. Web beacons (also known as pixel tags, tracking pixels or clear GIFs) are small image files embedded on our Site, App and Internet Marketing Platforms (such as promotional emails). Web beacons are used to monitor your interactions with these Services. Web beacons may also be used to measure the effectiveness of these Services and for security and fraud prevention services. Web beacons may be used together with cookies.
+
+  
+**Social Media Widgets**. Our Site and App may include social media tools, including social media widgets, to connect you to your social media accounts. These features may set a cookie or use other automatic collection and tracking technologies to collect information about you and your use of the social media features through and in connection with our Services. These social media tools may be hosted by a third party. Your interactions with these tools and the corresponding social media platforms are governed by the privacy policies of the companies that provide such platforms.
+
+  
+**Hardware IDs**. Hardware IDs are unique identification numbers or character strings associated with a specific device. Hardware IDs are permanently associated with a device. Hardware IDs may be used to track use of a device, such as by tracking use of mobile application(s) installed on such device.
+
+  
+**App-Specific Storage**. User data and information may be stored locally by our App. In general, mobile applications do not provide tools for an average end user to manage its contents.
+
+To learn about how we use cookies and other automated information collection and tracking technologies to collect Customer Information for interest-based advertising purposes, please click [HERE](https://www.finishline.com/interest-based-ads-policy) to review our Interest-Based Ads Policy.
+
+  
+**_3\. Information from In-Store Services_ **
+
+We may receive certain Customer Information about you when you visit our Stores. Customer Information may be collected at the point-of-sale or through in-store mobile devices, such as tablets used by our Sales Associates. Other Customer Information may be collected in our Retail Stores through our Wi-Fi services, Store Beacons, Memory Mirrors made available by Memomi and video cameras.
+
+**Wi-Fi Services**. Many of our Retail Stores offer free Wi-Fi services to visitors. If you connect to such in-store Wi-Fi service, we may receive information about you and your device, including your device’s MAC address, IP address, received signal strength indicator and technical details about the device such as its operating system and device type (including make and model) and technical capabilities. We may also receive information about how you use our Wi-Fi network while you are connected, including the store location, the names and/or Internet addresses of the websites you visit and the mobile applications you use and how long you interact with such websites or applications. We may collect this information each time you connect to a Retail Store’s Wi-Fi service. If your device is configured to search for available Wi-Fi networks, we may receive information about your device even if you choose not to connect to our Wi-Fi service.
+
+  
+**Store Beacons**. We use beacons in our Retail Stores (“ **Store Beacons** ”). Store Beacons are small devices that we use to enhance and make your in-store experience more interactive. Store Beacons broadcast a Bluetooth signal that can be received by Bluetooth-enabled devices, such as a mobile device, when those devices are within certain geographic distance or proximity to a Store Beacon. In-app permissions, such as permission to access location and accept push notifications, must be enabled for a Store Beacon to interact with a specific Bluetooth-enabled device. Store Beacon preferences are managed through your device (including through Bluetooth, location and push notification settings).
+
+  
+**Memory Mirrors by Memomi**. In select Retail Stores, we offer you the opportunity to interact with Memory Mirrors made available by [Memomi](http://memorymirror.com/). A Memory Mirror is a Wi-Fi connected mirror equipped with a camera that allows you to view, take a photo and shoot a brief video of you wearing footwear we offer. During a Memory Mirror session, you may retain the photo or video that you take via the memory mirror by providing your mobile phone number and sending the photo or video to your mobile phone. Once the photo or video is sent to your mobile phone, you will have the option of saving the photo or video to your mobile phone, sharing it via email or sharing it on various social media platforms. Photos and videos sent to your mobile phone are not stored by us or Memomi. Photos and videos and any other data you may have provided during your session will be securely destroyed by Memomi when you end a Memory Mirror session.
+
+  
+**Video Cameras**. We use cameras in our Stores for security purposes, to protect our assets and to measure customer traffic patterns. Cameras may capture your demographic information, such as age and gender, when you visit our Stores.
+
+  
+**4\. Information from Third-Party Sources**
+
+We may receive Customer Information about you from third-party sources, such as:
+
+Our **business partners** , including online advertising networks and companies that may we engage to host or co-sponsor our promotions.
+
+Social media platforms, including Facebook, Twitter, YouTube, Pinterest and Instagram (subject to your registration and privacy settings for such third-party social media platforms).
+
+  
+**Providers** , including:
+
+  * carriers, concerning your shipping information.
+  * service providers who help us update, enhance, improve and/or analyze our records and data, including Customer Information records.
+  * service providers who perform marketing and research services for us.
+  * service providers who help us detect fraud or theft.
+  * service providers who provide us feedback about the performance and effectiveness of our Site, App and Internet Marketing Platforms.
+  * service providers who provide legally obtained information to supplement what we already know about you.
+
+
+
+We may use Customer Information we collect for the following purposes:
+
+  * To provide you our products and services
+  * To communicate with you
+  * For marketing, promotions and advertising (including interest-based advertising)
+  * For our internal operations
+  * For fraud prevention, security and legal compliance
+
+
+
+Examples of how we use Customer Information for these purposes are listed below. Please note that we may use information that does not specifically identify you or your device(s) without restriction.
+
+  
+**_1\. To Provide You our Products and Services_ **
+
+  * Establish and service your customer account on our Site and App
+  * Fulfill and manage purchases, orders, payments and returns or exchanges of products and/or services we offer and communicate with you about these transactions
+  * Administer our Winner’s Circle loyalty program
+  * Enable certain functionalities on our Site and App (for example, shopping carts)
+  * Customize content you see on our Site and App based on your preferences
+  * Provide customer service
+  * Allow you to use our in-store and digital technologies
+
+
+
+**_2\. To Communicate with You_ **
+
+  * Communicate with you regarding your transactions with us, including purchases, orders, payments and returns or exchanges
+  * Communicate with you regarding your Winner’s Circle membership, including benefits you earn under this brand loyalty membership program
+  * Respond to requests for information about our products and services in our Stores, on our Site or App or to otherwise serve you
+  * Connect with you to deliver customer service through our Customer Care center or on social media or Internet chat platforms
+
+
+
+**_3\. For Marketing, Promotions and Advertising (including Interest-Based Advertising)_ **
+
+  * Personalize your experiences with us through our Services, such as by identifying your product and shopping preferences
+  * Deliver coupons, in-Store receipt messages, emails, App messages (including push notifications) and social media notifications
+  * Provide interactive features of the Site, App and Internet Marketing Platforms, such as product reviews
+  * Send communications and other information regarding products, services and promotions
+  * Administer surveys, sweepstakes, contests, promotions and focus groups
+  * Organize local community events, promotions and in-Store experiences
+  * Provide personalized communications and services across all channels and platforms, including by personalizing our advertising, marketing communications, shopping experiences and promotional offers
+
+
+
+We participate in interest-based advertising, which is also known as online behavioral advertising. We work with third-party advertising companies and networks to display ads through third party websites or mobile applications. These ads are tailored to your individual interests based on how you use our Services, including how you browse and shop on our Site and App.
+
+Please click [HERE](https://www.finishline.com/interest-based-ads-policy) to review our Interest-Based Ads Policy.
+
+  
+**_4\. For our Internal Operations_ **
+
+  * Analyze the performance and effectiveness of our Services, including by analyzing visitor interaction with our Site and App
+  * Measure the performance of our different marketing efforts
+  * Develop new services to enhance the customer experience with our Services
+  * Maintain our programs, accounts and records, including our Customer Information records
+  * Conduct research and analytics related to our operations
+  * Perform logistics and other operation and business activities
+
+
+
+**_5\. For Fraud Prevention, Security and Legal Compliance_ **
+
+  * Prevent, detect, mitigate and investigate fraud, security breaches and activities that are or potentially may be prohibited or illegal
+  * Protect the security and integrity of our Services and data relating to such Services, including Customer
+  * As we believe to be required or appropriate to protect the rights, property, safety and security of Finish Line and our employees, customers and others
+  * Assist law enforcement and respond to legal and/or regulatory inquiries
+  * As we believe to be required or appropriate under applicable law
+
+
+
+In general, we do not share your Customer Information with third parties for their marketing or advertising purposes (except that we may share your Customer Information with our affiliates for such purposes).
+
+We may share Customer Information we collect with third parties for other purposes, such as in the following ways:
+
+  * **Internally**. Within Finish Line (this includes all Finish Line affiliates).
+  * **With our Providers**. To companies who perform a business, professional or technical support function for us, including services for improving our products and services and our delivery of products and services to you. Such services include, for example, mobile marketing services, analytics, call center/chat services, payment processing, data enhancement, fraud prevention and shipping services.
+  * **With social media platforms** , such as Facebook, Twitter, YouTube, Pinterest and Instagram through social media widgets and other tools used in connection with our Site and App, which may be deployed by our Providers (for example, tools for you to share content on our Site or App with your friends and followers on social media).
+  * **To comply with the law**. To comply with applicable law or reasonable requests for information based on governmental regulation, court order, subpoena or a similar related action.
+  * **To protect ourselves**. To enforce our policies and agreements, to protect our or others’ rights, property or safety, to prevent or mitigate the risk of harm or loss, in connection with an investigation of suspected or actual unlawful activity or in connection with any legal action, claim or dispute.
+  * **With successors to all or part of our business**. In the event of a corporate sale, merger, reorganization, change in corporate control, acquisition, bankruptcy or similar event.
+  * **At your direction**. At your direction or request or when you otherwise consent. For example, when you post a product review on our Site, the post may include Personal Information and it may be made public in the product review section of the Site.
+
+
+
+We strive to offer you choices about how we collect and use Customer Information relating to you. Please be aware that disallowing certain data collection may limit the usefulness of our Services, including our Site and App. Your choices include the following:
+
+**1\. Postal Mail, Text Messages and Emails**
+
+From time to time, we may communicate with you for promotional purposes through postal mail, emails and text messages. _Even if you opt-out of receiving marketing or promotional communications from us, we may still contact you to respond to an inquiry and for transactional purposes (for example, sales confirmations, order fulfillment, shipping notifications, account maintenance and issuance of Winner’s Circle rewards)._
+
+**Postal Mail**. To opt-out of receiving catalogs, coupons and other promotional postal mail, you may call us at [1-888-777-3949](tel:18887773949). A Finish Line Customer Care representative will be happy to assist you. Please allow a reasonable period of time for your request to be removed from our promotional mailing contact list to be made effective. 
+
+  
+**Emails**. To opt-out of receiving promotional emails from us and to unsubscribe from future promotional emails, you may use the “Unsubscribe Link” included within a promotional email from us to you or change your preferences in your “Profile” under “My Account” which you can access at finishline.com. Please allow a reasonable period of time for your request to be removed from our email contact list to be made effective.
+
+  
+**Text Messages**. To opt-out of receiving promotional text messages from us, follow the opt-out instructions provided in our text message. You will no longer receive text messages from the applicable text list, but you may receive text messages if you are subscribed to other text lists and have not unsubscribed from those lists. Message and data rates may apply. Please allow a reasonable period of time for your request to be removed from our text contact list to be made effective.
+
+  
+**_2\. Winner’s Circle._ **
+
+To opt-out of receiving communications and notifications concerning your Winner’s Circle rewards program account and benefits, you will need to cancel your membership.
+
+**_3\. Mobile Device and Our App_ **
+
+  
+**Geo-Location**. With your consent, our App may collect information about your mobile device and your use of the mobile device and App through geo-location, including precise location information. In general, mobile apps can collect location information using GPS, cell-tower proximity, WiFi hotspot locations, bluetooth beacons and IP addresses. We may engage third party service providers to collect such geo-location information, including precise location information, for the purposes described in this Privacy Policy, including for interest-based advertising. To prevent your mobile device from sharing your geo-location, including your precise location information, you can choose not to allow access to your location when you download the App or, at any time, you may adjust the location permissions on your mobile device. Steps for adjusting location permissions may vary by device model and operating systems. You can stop all further collection of information by or via our App by uninstalling our App.
+
+  
+**Push Notifications**. To opt-out of receiving push notifications from us, you may adjust the permissions on your mobile device. Steps for adjusting push notification permissions may vary by device model and operating systems. You can stop all further collection of information by or via our App by uninstalling our App.
+
+  
+**In-App Notifications**. App users may receive in-App notifications or “local notifications” generated by an external device trigger. To stop receiving in-App notifications or “local notifications”, you will need to uninstall the App. You can stop all further collection of information by or via our App by uninstalling our App.
+
+  
+**In-Store Technology**. To opt-out of collection of information obtained via Wi-Fi, Bluetooth or other similar technologies used in our Retail Stores (like our Store Beacons), disable the applicable technology on your mobile device before you enter or while you are in our Retail Stores. To disable third party tracking while in our Retail Stores, log out of your third party accounts or disable location services when visiting our Retail Stores. You can stop all further collection of information by or via our App by uninstalling our App.
+
+  
+**Uninstalling Our App**. You can stop all further collection of information by or via our App by uninstalling our App. You may use the standard uninstall process available as part of your mobile device or through the mobile application marketplace or network. _If you uninstall our App from your mobile device, a unique identifier we used that was associated with your device may continue to be stored. If you re-install our App on the same mobile device, we may be able to re-associate this unique identifier to your prior transactions and activities._
+
+  
+**_4\. Social Media Platforms_ **
+
+To understand what choices you have about sharing your information when using social media platforms and networks in connection with certain Services, we encourage you to review your privacy options and settings with the corresponding social media platforms and networks.
+
+  
+**_5\. User Contributions_ **
+
+You may delete your User Contributions from the our Site, App and Internet Marketing Platforms, but copies of your User Contributions may remain viewable in cached and archived pages or may have been copied or stored by other users of our Site, App and Internet Marketing Platforms.
+
+**_6\. Analytics_ ** We work with the following Providers who use tracking technologies to provide services that analyze information regarding visits to our Site and App. The information generated by these providers are subject to their privacy policies. However, instructions for opting out of such tracking are provided by each of our Providers: 
+
+  * [Adobe Analytics](https://www.adobe.com/privacy/opt-out.html)
+  * [Google Analytics](https://support.google.com/analytics/answer/181881?hl=en)
+  * [Google Analytics for Firebase](https://firebase.google.com/support/guides/disable-analytics)
+
+
+
+**_7\. Interest-Based Advertising_ **
+
+You have the ability to control the use of cookies and other automated information collection and tracking technologies used for interest-based advertising purposes by “opting out” of being tracked by such technologies.
+
+_Please note:_
+
+  * If you set your device to disable all cookies, certain Services cannot be provided to you and you may not be able to take full advantage of all of the features we offer on our Site and App.
+  * Opting out of tracking on one device, browser or app applies to that specific device, browser or app. To opt out of tracking on other devices, browsers or apps, you must opt out from those other devices, browsers or apps specifically.
+  * If you delete your cookies or upgrade your browser after having opted out of certain tracking, you may need to opt out again.
+  * If you opt-out of tracking by technologies used for interest-based advertising purposes, you will not have opted out of all advertising. You may still see our content, including advertisements, but they will not be tailored specifically to you based on information collected through these tracking technologies.
+  * Some automated information collection and tracking technologies are necessary and vital to ensuring that we can fulfill your transactions with us and to maintain the security, safety and integrity of our Sites and Services. These technologies may still be enabled on our Site and App even if you opt-out of tracking by similar technologies used for interest-based advertising purposes.
+
+
+
+**_If you want to opt out of tracking by all of our Providers’ automated information collection and tracking technologies used for interest-based advertising purposes, you should take each of the steps below._ **
+
+ 
+
+**Manage Cookies on Browsers**. Most browsers are initially set up to accept cookies. Your browser settings or other resources may provide instructions on browser functionalities that allow you to manage cookies (for example, instructions on how to set up your device to limit the kinds of cookies that can be placed on your device, to notify you when a cookie is issued or to not receive cookies at any time). Certain options available to you are browser and device specific. _Please note:_
+
+  * If you reject or block cookies, not all of the tracking described in this Privacy Policy will stop. Some additional action may be required to opt-out of such tracking.
+  * If you opt-out of automated information collection and tracking technologies used for interest based advertising purposes, disabling all or some cookies through your browsers or updating your browser after you opted-out may override your opt-out election. Should this occur, you will need to opt-out again.
+
+
+
+**Tracking Technologies for Interest Based Advertising**. We work with Providers who use their own automated information collection and tracking technologies on our Site, App and Internet Marketing Platforms, including our content delivered on other websites or mobile applications. These companies may collect information about your activity on our Site and App, your interactions with our advertising and other communications and your interactions with other websites or mobile applications. These companies may use this information to determine which ads you see on third-party websites and mobile applications. These technologies and the information collected about you may also be used to track your activity across multiple devices. If you do not wish to have this information used for the purpose of serving you interest-based advertisements:
+
+  * Some of our Providers participate in self-regulatory programs for interest-based advertising through the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI) and/or the [Digital Advertising Alliance](http://digitaladvertisingalliance.org/) (DAA). Each of these programs provides an opt-out feature where you can choose not to receive targeted advertising from any NAI member or DAA participant. 
+    * To opt-out of tracking by our Providers who are NAI members, please click [HERE](http://optout.networkadvertising.org/#!/).
+    * To opt-out of tracking by our Providers who are DAA participants, please click [HERE.](http://optout.aboutads.info/#!/)
+  * Please click HERE to opt-out of our other Providers’ automated information collection and tracking technologies. To enable such technologies after opting-out, you may click HERE. Once you click on these links, you should receive a message confirming the activation of your opt-out or opt-in choice. If you do not receive this message, please [contact us](https://web.archive.org/store/customerservice/contactUs.jsp).
+
+
+
+To learn about your choices on our use of your Customer Information for interest-based advertising purposes, please click [HERE](https://www.finishline.com/interest-based-ads-policy) to review our Interest-Based Ads Policy.
+
+**Mobile Tracking Technologies for Interest Based Advertising**. Most modern mobile operating systems provide mobile advertising identifiers for mobile devices. These identifiers are commonly used to help enable digital advertising across mobile applications. Your mobile operating system may allow you to limit use of mobile advertising identifiers for interest-based advertising. For more information, please review the instructions provided by your mobile device manufacturer or click [HERE](https://www.networkadvertising.org/mobile-choice/) to visit the Network Advertising Initiative’s informational page on advertising choice mechanisms for mobile devices. Click [HERE](http://digitaladvertisingalliance.org/) to learn about the Digital Advertising Alliance’s AppChoices app, a tool for opting out of the collection of cross-app data on a mobile device for interest-based advertising by participating service providers. You may download the AppChoices app [HERE](https://itunes.apple.com/us/app/appchoices/id894822870) for iOS devices and [HERE](https://play.google.com/store/apps/details?id=com.DAA.appchoices) for Android devices. You can stop all further collection of information by or via our App by uninstalling our App. You may use the standard uninstall process available as part of your mobile device or through the mobile application marketplace or network. _If you uninstall our App from your mobile device, a unique identifier we used that was associated with your device may continue to be stored. If you re-install our App on the same mobile device, we may be able to re-associate this unique identifier to your prior transactions and activities._
+
+If you have registered an account on our Site or on our App, you may access and update certain Personal Information that you have provided us by logging into your account and making such changes. If you update your account or if you request we deactivate your account, we may not delete residual copies from our servers and may not remove information associated with the prior version(s) or deactivated account.
+
+**Our Security Practices**. We use a variety of administrative, contractual, technical and physical controls and safeguards to help protect your Customer Information from loss and unauthorized access, collection, use, disclosure, copying, modification, destruction or similar risks. However, no control or safeguard can completely guarantee that such information is completely secure. As a matter of policy, we do not disclose details regarding our security measures as this could be beneficial information to criminals and other bad actors. 
+
+  
+**Your Security Practices**. You are also responsible for taking reasonable steps to protect your Personal Information against unauthorized disclosure or use.
+
+We encourage you to take steps to help protect the confidentiality and security of your account and Personal Information, including by doing the following:
+
+  * Review your Finish Line account periodically and immediately report any unexpected activity or unrecognized information
+  * Install the latest security updates and antivirus software on your computer to help prevent malware and viruses
+  * Use complex passwords and not using the same password on more than one Site
+  * Password protect your computer and mobile device
+  * Do not share your passwords with others
+  * Sign out/log off Site sessions to close your session
+
+
+
+You may come into contact with emails, texts or mobile alerts that look like they originate from us asking for your Personal Information. For your protection, do not respond to such communications or click on links or open any files attached to such suspicious, unsolicited communications. If you receive such a communication, please email onlinefraud@finishline.com immediately so that we may investigate the suspicious activity.
+
+We provide our Services in the United States and in U.S. Territories (Puerto Rico and Guam). Customer Information we collect is primarily stored in the United States. If you live outside of the United States or U.S. Territory, by using our Services, you understand and agree that we may transfer your Personal Information to and within the United States. Our Site is subject to U.S. laws, which may not provide the same level of protections as those laws in your country.
+
+**Third Party Links**. If we offer you a link to connect to a third-party website, it is for your convenience. Third-party websites linked to and from our Site, App and Internet Marketing Platforms are not necessarily under our control and we have no responsibility for the content or privacy practices of any such linked website or service. We recommend you read the privacy policies of those parties to understand how your information is handled, processed or shared. In addition, you may have visited our Site or App through a link or banner advertisement on another website or mobile application. In these cases, the website you linked from may collect information from you if click on the link or banner advertisement. You may want to refer to the privacy policies of the operators of those websites or banner advertisements to understand how your information is handled, processed or shared. 
+
+  
+**Do Not Track Signals**. Some browsers offer a “Do Not Track” privacy preference. Generally, when a user turns on the Do Not Track Signal, the browser sends a message to websites requesting them not to track the user. Our Site, App and Internet Marketing Platforms currently do not respond to “Do Not Track” signals. However, you have other options for opting out of tracking for interest-based advertising purposes as described in this Privacy Policy.
+
+  
+**Privacy of Children Under 13**. You must be 13 years old or older to submit Personal Information to us, including to register an account or place an order on the Site or App. Our Site, App and other Services are intended for a general audience and are not targeted to or intended for use by children. While we sell shoes, apparel and accessories for children, these products are intended to be purchased by adults. We do not knowingly collect Personal Information from persons under the age of 13. If you are a parent or legal guardian and think that your child under the age of 13 has provided us with Personal Information, please contact us so that we can take steps to delete his or her Personal Information.
+
+  
+**California Privacy Rights**.
+
+Under California’s Shine the Light law, if you are a California resident, you may request and obtain (free of charge) information regarding our disclosure of your personal information (as defined by applicable law) to third parties for their direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information shared and the names and addresses of those third parties with which we shared your information in the immediately preceding calendar year. If you would like to make such a request please [contact us](https://www.finishline.com/store/customerservice/contactUs.jsp).
+
+Under California’s Online Eraser Law, if you are a California resident who is under 18 years old and are a registered user of our Site or App, you may request and obtain removal of, content or information that you have posted on our Site or App. A request to remove content or information posted by you does not ensure or require complete or comprehensive removal of such content or information from our databases (for example, content that has been reposted by another user may not be removable). If you would like to make such a request please [contact us.](https://www.finishline.com/store/customerservice/contactUs.jsp)
+
+**International Customers**. By using our Services, you consent to your Customer Information collected by us or our third party service providers to be transferred outside your country of residence to countries or jurisdictions where we or our affiliates may have business operations or to engage third parties to provide services to us for the purposes described in this Privacy Policy. Such countries may not have the same level of data protection as within your country. If we do make such a transfer, we will use commercially reasonable efforts to ensure your Customer Information is protected. 
+
+From time to time, we may change our Privacy Policy and may apply any changes to Customer Information previously collected, as permitted by law. Please check this Privacy Policy periodically so that you are aware of our current privacy practices. When we make material changes to our privacy policies and practices, we will notify you by posting the updated Privacy Policy on our website with an updated effective date at the start of the Policy. However, when we make material changes to our privacy policies and practices around interest-based advertising, we will obtain your consent before applying such change to your data collected before the change. If you do not provide such consent, data collected before the material change will continue to be governed by the policy in effect at the time the information was collected.
+
+You may come into contact with emails, texts or mobile alerts that look like they originate from us asking for your Personal Information. For your protection, do not respond to such communications or click on links or open any files attached to such suspicious, unsolicited communications. If you receive such a communication, please email us at onlinefraud@finishline.com immediately so that we may investigate the suspicious activity.
+
+ 
+
+If you have questions about this Privacy Policy or our practices, please contact us at:  
+The Finish Line, Inc.  
+3308 North Mitthoeffer Road Indianapolis,  
+Indiana 46235  
+1-888-777-3949  
+generalcounsel@finishline.com
