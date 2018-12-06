@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalrichlist.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520020252id_/http%3A//www.careinternational.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalrichlist.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206143552id_/http%3A//www.careinternational.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | CARE
 
@@ -94,7 +94,6 @@ We use external organisations to collect and/or process your personal informatio
   * Mailchimp – email supplier
   * LegacyLink – legacy administration
   * Purity Fundraising – telemarketing
-  * Mango telemarketing
   * Return Fundraising - telemarketing
   * More Onion – digital agency who design, build and send email communications on behalf of CARE International
   * Cymba – SMS marketing agency
@@ -106,6 +105,7 @@ We use external organisations to collect and/or process your personal informatio
   * Engaging Networks - online fundraising platform
   * Google - website analytics
   * Facebook - advertising
+  * Peek content - research and content gathering
 
 
 
@@ -131,7 +131,7 @@ We implement appropriate technical and organisational security measures to prote
 
   * You can change your mind about the consent you have given us for our marketing activities at any time.
   * You can ask us to stop using your information for any of the purposes listed above at any time.
-  * You can request to see the information we hold about you at any time and ask us to correct, delete or restrict it. Please note, there may be a small charge to cover administrative costs if you make multiple requests.
+  * You can request to see the information we hold about you at any time by completing [this subject access request form](https://www.careinternational.org.uk/sites/default/files/Subject_access_request_form.pdf), and ask us to correct, delete or restrict it. Please note, there may be a small charge to cover administrative costs if you make multiple requests.
   * You also have the right to ask us to move, copy or transfer the information we hold about you from our own IT environment to another of your choosing, in a safe and secure way.
 
 
@@ -140,7 +140,7 @@ Simply write to CARE International, 9th Floor, 89 Albert Embankment, London SE1 
 
 To check and/or change your preferences about how you would like us to contact you, you can also use our [online Supporter Hub](https://donate.careinternational.org.uk/page/19367/hub/1).
 
-If you are not happy with the way we have processed your data you can make a complaint to our Supporter Care team (at the above contact details). And if you aren’t happy with our response you have the right to lodge a complaint with the UK's Data Protection Authority - the [Information Commissioner’s Office](https://ico.org.uk/). Alternatively you can [go directly to them](https://ico.org.uk/concerns/).
+If you are not happy with the way we have processed your data you can make a complaint to our Supporter Care team (at the above contact details). And if you aren’t happy with our response you have the right to lodge a complaint with the UK's Data Protection Authority - the [Information Commissioner’s Office](https://ico.org.uk/). Alternatively, you can [go directly to them](https://ico.org.uk/concerns/).
 
 #### Changes to this Privacy Policy
 
