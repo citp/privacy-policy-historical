@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cebuanas.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130000258id_/http%3A//www.cebuanas.com/faq/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cebuanas.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206165956id_/https%3A//www.cebuanas.com/faq/privacy.php) for the most accurate reproduction.*
 
 # Cebuanas.com Privacy Policy Statement
 
-This Privacy Policy Statement of [www.Cebuanas.com](http://www.cebuanas.com/) discloses privacy practices of the Cebuanas.com web site in the use of information gathered when a site visitor sign up and becomes a member. Cebuanas.com is an online dating site dedicated to YOU Filipina ladies make your dream come true by helping you find the foreign husband you dream of. Cebuanas are beautiful Filipina women living in the Island of Cebu, Philippines. Cebuanas online dating site is here to assist you in your search of love without fear about your privacy.
+This Privacy Policy Statement of [www.Cebuanas.com](https://www.cebuanas.com/) discloses privacy practices of the Cebuanas.com web site in the use of information gathered when a site visitor sign up and becomes a member. Cebuanas.com is an online dating site dedicated to YOU Filipina ladies make your dream come true by helping you find the foreign husband you dream of. Cebuanas are beautiful Filipina women living in the Island of Cebu, Philippines. Cebuanas online dating site is here to assist you in your search of love without fear about your privacy.
 
-Membership to [www.cebuanas.com](http://www.cebuanas.com/) site requires you to fill up online sign up form that ask you to provide information reasonably necessary for you to effectively participate in our Online Dating. 
+Membership to [www.cebuanas.com](https://www.cebuanas.com/) site requires you to fill up online sign up form that ask you to provide information reasonably necessary for you to effectively participate in our Online Dating. 
 
 ### I. Children's Privacy
 
@@ -54,7 +54,7 @@ Should you have further questions about the security at our website, you can sen
 
 ### V. Use of Cebuanas.com Dating Site
 
-Your USE of Cebuanas.com website indicates your conformity of our [Terms and Conditions of Use](http://www.cebuanas.com/faq/terms.php) (TCU). Your exclusive use of our website and your dealings with other members of our site will be kept strictly confidential. Moreover, Cebuanas.com makes web chat rooms, messaging, blog and other online facility available to site members. Please be aware, however, that any, and all information you disclosed in these areas becomes public information and Cebuanas.com do not monitor the exchanges of information nor make logs of such information. THEREFORE, we enjoin all members who enjoy our online facilities such as chat rooms and online messaging to exercise due diligence and caution when sharing personal information. 
+Your USE of Cebuanas.com website indicates your conformity of our [Terms and Conditions of Use](https://www.cebuanas.com/faq/terms.php) (TCU). Your exclusive use of our website and your dealings with other members of our site will be kept strictly confidential. Moreover, Cebuanas.com makes web chat rooms, messaging, blog and other online facility available to site members. Please be aware, however, that any, and all information you disclosed in these areas becomes public information and Cebuanas.com do not monitor the exchanges of information nor make logs of such information. THEREFORE, we enjoin all members who enjoy our online facilities such as chat rooms and online messaging to exercise due diligence and caution when sharing personal information. 
 
 ### VI. Web Chat Rooms and Messaging Policy
 
@@ -76,5 +76,5 @@ If our privacy policy changes in a way that will materially affect our users, we
 
 ### X. LEGAL DISCLAIMER
 
-DUE TO THE VERY NATURE OF INTERNET USE AND EXCHANGES OF INFORMATION EITHER IN THE CHAT ROOMS, MESSAGING OR EMAIL MESSAGES, THERE ARE INHERENT ISSUES RELATING TO THE SECURITY AND PRIVACY OF INFORMATION YOU PROVIDE. WHEN YOU OPT TO USE OUR SITE, YOU RELEASE US FROM ANY AND ALL LIABILITIES RELATING TO YOUR USE OF OUR CEBUANAS.COM WEBSITE. Please review our [Terms and Conditions of Use.](http://www.cebuanas.com/faq/terms.php)  
+DUE TO THE VERY NATURE OF INTERNET USE AND EXCHANGES OF INFORMATION EITHER IN THE CHAT ROOMS, MESSAGING OR EMAIL MESSAGES, THERE ARE INHERENT ISSUES RELATING TO THE SECURITY AND PRIVACY OF INFORMATION YOU PROVIDE. WHEN YOU OPT TO USE OUR SITE, YOU RELEASE US FROM ANY AND ALL LIABILITIES RELATING TO YOUR USE OF OUR CEBUANAS.COM WEBSITE. Please review our [Terms and Conditions of Use.](https://www.cebuanas.com/faq/terms.php)  
 
