@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batangamedia.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531203827id_/https%3A//www.vix.com/en/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batangamedia.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206162238id_/https%3A//www.vix.com/en/corp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VIX
 
