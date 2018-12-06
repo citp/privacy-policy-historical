@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clemson.edu privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522012748id_/http%3A//www.clemson.edu/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clemson.edu privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206074403id_/http%3A//www.clemson.edu/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Clemson University, South Carolina
 
