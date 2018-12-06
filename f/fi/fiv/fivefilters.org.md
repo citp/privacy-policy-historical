@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fivefilters.org privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605210529id_/http%3A//fivefilters.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivefilters.org privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206022055id_/http%3A//fivefilters.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | fivefilters.org
 
@@ -19,7 +19,7 @@ We try to collect as little information as possible. Most of what we ask for is 
 
 
 
-Occasionally we also enable logging on our servers for statistical analysis. When logging is enabled IP addresses are stored. We destroy logs once they have served their purpose.
+Occasionally we also enable logging on our servers for statistical analysis. When logging is enabled, IP addresses are stored. We destroy logs once they have served their purpose.
 
 ### What we do with the information we gather
 
