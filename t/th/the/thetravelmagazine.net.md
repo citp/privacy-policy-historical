@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetravelmagazine.net privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510171534id_/http%3A//www.thetravelmagazine.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetravelmagazine.net privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206172316id_/http%3A//www.thetravelmagazine.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Travel Magazine
 
@@ -16,13 +16,7 @@ We gather this information to allow Us to process Your inquiry. The relevant inf
 
 We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help Us develop the website and our services and may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual.
 
-From time to time We may use Your information for research and analysis purposes so that We can monitor and improve the Service We provide. We or our agents and sub-contractors may contact You by e-mail to ask You for Your feedback and comments on our service.
-
-We may also wish to provide You with information about special features of our website or any other service or products We think may be of interest to You. If You would not like to receive this information, please contact us.
-
-We may also want to provide You with related information from third parties We think may be of interest to You. If You would like to receive this information, please contact us.
-
-We may also provide Your information to carefully selected third parties whose products or services We believe may be of interest to You. If You wish Us to disclose Your information in this way, please contact us.
+From time to time We may use Your information for research and analysis purposes so that We can monitor and improve the Service We provide.
 
 **2\. Our use of cookies and other information gathering technologies**
 
@@ -31,6 +25,8 @@ Our website creates a single cookie on your machine containing session and state
 The information within this cookie does not include personal or financial information. Our website requires cookies to be allowed in your browser to permit creation and to allow features and actions on the site to work without restriction.
 
 Cookies may also be installed on your machine by the advertisers featured on The Travel Magazine. These cookies are generally used purely for the purposes of monitoring the number of times an ad has been seen and clicked on.
+
+Read our [Cookie Policy](http://www.thetravelmagazine.net/cookies)
 
 **3\. How We protect Your information**
 
