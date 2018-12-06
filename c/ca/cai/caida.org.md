@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caida.org privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606113440id_/http%3A//www.caida.org/home/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caida.org privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206234655id_/http%3A//www.caida.org/home/legal/privacy) for the most accurate reproduction.*
 
 # CAIDA Website Privacy Policy
 
@@ -57,7 +57,7 @@ This policy was last modified on November 24, 2011.
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-> Cooperative Association for Internet Data Analysis  
+> Center for Applied Internet Data Analysis  
 >  University of California San Diego  
 >  9500 Gilman Dr., MC0505  
 >  La Jolla, California 92093  
