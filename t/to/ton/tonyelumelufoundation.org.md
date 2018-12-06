@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the tonyelumelufoundation.org privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608180014id_/http%3A//www.tonyelumelufoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonyelumelufoundation.org privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206112219id_/http%3A//www.tonyelumelufoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Tony Elumelu Foundation
 
 We at the Tony Elumelu Foundation treat the privacy of our visitors with the highest importance. This policy details the measures we take to preserving and safely guarding your privacy when you visit our site or communicate with our personnel. The Privacy Policy here has been approved and provided by our legal advisors.
 
-A detailed explanation of how we may store or otherwise use personal information about you is explained in this Privacy Policy.
+A detailed explanation of how we may store or otherwise use personal information about you is explained in this Privacy Policy. We undertake regular updates to our Privacy Policy which we will notify you of on our website or by email.
 
-We undertake regular updates to our Privacy Policy which we will notify you of on our website or by email.
+  1. ###  **Information Collection**
 
-  1. **Information Collection**
 
 
 
@@ -28,7 +27,8 @@ We collect the following personal information from our website and interaction w
 
 You provide this information when you visit our website, register on our website, respond to surveys, complete our feedback or comment form or contact us to request for any information. We do not intentionally or knowingly collect any sensitive personal information. We ask that you do not send to us nor disclose such sensitive personal information.
 
-  2. **Your information and how it is Used**
+  2. ###  **Your information and how it is Used**
+
 
 
 
@@ -50,7 +50,8 @@ Primarily, we collect and store data about you to help us better connect with yo
 
 Be aware we do not reveal identifiable information about you to our advertisers, though we may at times share statistical visitor information with our advertisers.
 
-  3. **Accessing Information**
+  3. ###  **Accessing Information**
+
 
 
 
@@ -69,7 +70,8 @@ For residents in the European Union, the following additional rights are applica
 
 You may contact us via the email address provided at the end of this policy with respect to the exercise of any of the above stated rights or if you would like to learn more about the personal information we have of you.
 
-  4. **Persons who have access to your information**
+  4. ###  **Persons who have access to your information**
+
 
 
 
@@ -83,7 +85,8 @@ In addition to our staff who are responsible for our marketing and communication
 
 We will transfer your personal information to only those third parties who we are sure can offer the required level of protection to your privacy and information. We do not and will not at any point in time sell your personal information to any third party.  Where required by law, we may need to disclose your information to regulatory authorities.
 
-  5. **Cookies**
+  5. ###  **Cookies**
+
 
 
 
@@ -97,35 +100,46 @@ You may elect to decline all cookies via your computer. Every computer has the a
 
 Any of our advertisers may also have a use for cookies. We are not responsible, nor do we have control of the cookies downloaded from advertisements. They are downloaded only if you click on the advertisement.
 
-  6. **Security**
+  6. ###  **Security**
+
 
 
 
 Information submitted by you is stored on secure servers we have which are encrypted and access is restricted to only authorised persons in charge of maintaining the servers. We have put in place physical, electronic and procedural processes that safeguard and protect your information against unauthorised access, modification or erasure. However, we cannot guarantee 100% security as no security programme is completely fool proof.  
 As you know, transmission of data on the internet is never guaranteed regarding safety. It is impossible to completely guarantee your safety with electronic data and transmission. You are therefore at your own risk if you elect to transmit any data.
 
-  7. **Transfer of Personal Data**
+  7. ###  **Transfer of Personal Data**
+
 
 
 
 The personal information we collect may be transferred to and processed in another country other than your country of residence for the purposes stated above. The data protection laws in those countries may be different from, and less stringent than the laws applicable in your country of residence. By accepting this privacy policy or by providing information to us, you expressly consent to such transfer and processing. We will however take all reasonable steps to ensure that your data is treated securely, in accordance with this policy and transfer of your information will only be done to parties how have put in place adequate controls to secure and protect your information.
 
-  8. **Retention of Personal Information**
+  8. ###  **Retention of Personal Information**
+
 
 
 
 We retain your personal information for no longer than reasonably necessary for the purposes set out in this policy and in accordance with legal and regulatory requirements.
 
-  9. **Third Party Links**
+  9. ###  **Third Party Links**
+
 
 
 
 Links on our site that belong to third parties may be found. These websites have their Privacy Policy, which you agree to when you link to the site. You should read this third party policy. We do not accept claims of liability or responsibility in any way for these policies or links, as we have no way to control the third party sites.
 
-  10. **Contacting Us**
+  10. ###  **Contacting Us**
+
 
 
 
 We welcome any queries, requests you may have regarding this Privacy Policy, or comments. Please feel free to contact us info@tonyelu,elufoundation.org.
 
-Last updated – 24th May 2018
+Last updated – 24th May 2018
+
+#### stay updated
+
+Stay up to date on our entrepreneurs, events, research and more.
+
+Stay up to date on our entrepreneurs, events, research and more.
