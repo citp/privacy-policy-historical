@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sltrib.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605145149id_/https%3A//www.sltrib.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sltrib.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206210419id_/https%3A//www.sltrib.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Salt Lake Tribune
 
