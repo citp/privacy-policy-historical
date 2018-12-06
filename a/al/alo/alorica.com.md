@@ -1,79 +1,77 @@
-> *The following text is extracted and transformed from the alorica.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919171823id_/http%3A//www.alorica.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alorica.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206072732id_/https%3A//www.alorica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Alorica
 
-### Alorica Privacy Statement/Policy
+**_Privacy Statement_**
 
-**Updated: January 1, 2012**
+**Updated: 5/24/18**
 
-  
-It is the policy of Alorica Inc. and its affiliates (collectively, “Alorica”) to respect and protect the privacy of our customers and the users of [www.alorica.com](http://www.alorica.com/) (hereinafter, the "Site"). Through this Privacy Statement, we want to reassure users of the Site that we will not sell, share, or rent user information to others in a manner different than as set forth in this Privacy Statement. By accessing this Site, you agree to be bound by the Privacy Statement. If you do not agree to the terms of this Privacy Statement, please do not use this Site. Each time you use the Site, the current version of the Privacy Statement will apply. Accordingly, when you use the Site, you should check the date of this Statement (which appears at the top) and review any changes since the last version.
+We respect and protect your privacy. The purpose of this Privacy Statement is to explain to you, with respect to the website, what types of information about you we may collect, and how we may use and disclose your information. It is also our goal to explain who you can contact with concerns you may have regarding your personal information. Please note that your use of our website (“Site”) signifies your agreement to be bound by the most recent version of this Privacy Statement. Accordingly, when you use our website, you should check the date of this Privacy Statement at the top and review any changes we have made from the previous version.
 
-**Consent  
-** By using our Site, the user agrees to the terms and conditions set forth in this Privacy Statement and the Site Terms of Use INCLUDING ALL LIMITATIONS OF DAMAGES PROVISIONS which are an integral part hereof and the user consents to the collection and use of this information by Alorica as disclosed in this Privacy Statement.
+In order to make sure that your data is being kept safe, we have also implemented applicable requirements of Regulation 2016/679 EU (the General Data Protection Regulation or “GDPR”), adopted by the European Union, which is in force as of 25 May 2018.
 
-**Personal Information  
-** In general, you can visit Alorica on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when we or our partners may need information from you.
+##### Just visiting the Website?
 
-You may choose to give us personal information in a variety of situations. For example, you may want to give us information, such as your name and address or e-mail id, to correspond with you. You may give us a description of your education and work experience in connection with a job opening at Alorica that you wish to be considered for. We intend to let you know how we will use such information before we collect it from you; if you expressly tell us that you do not want us to use this information to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have their permission to do so.
+Our website allows you to learn about what Alorica offers, for both customers and employees.  In general, you can visit our website without revealing any information about yourself.  By visiting a website, there will be IP addresses shared and logged as part of the process.  However, we do not link IP addresses to anything personally identifiable, so you will remain anonymous to us.  In addition, cookies may be created and shared as part of the browsing process.  However, we do no use cookies to attempt to identify you or track your individual activity on our website.
 
-**Using and Sharing Personal Information**
+We may collect information through cookies and other data technologies from our website visitors in an aggregate and non-identifiable way. We may use such aggregate non-identifiable information from our website visitors to help us design and provide better customer service and experience on our website. For example, we may analyze such collection of non-identifiable information to examine how many visits a certain page on our website gets per day.
 
-**A. Fulfilling Your Transaction Request  
-** If you request something from the Alorica Web site, for example and not by limitation, a service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request including where necessary sharing such information with third parties to fulfill your request.
+**Protecting Children’s On-line Privacy**
 
-**B. Marketing Use  
-** The information you provide to Alorica on certain Alorica Web sites may also be used by Alorica and selected third parties for marketing purposes. Before we use it, however, we will offer you the opportunity to choose whether or not to have your information used in this way. To opt-out of receiving further marketing emails from Alorica, please follow the unsubscribe instructions included in each email.
+We comply with the Children’s Online Privacy Protection Act (COPPA), and in particular, recognize the importance of protecting the privacy of children. Accordingly, our website does not intend to target or attract children, and pursuant to COPPA, we will not knowingly collect any Personal Information from children under the age of 13. If you have reason to believe a child has used or is using Alorica’s website, please contact us, and we will take appropriate and prompt measures to delete any information related to the child.
 
-**C. Human Resources Web Sites  
-** In connection with a job application or inquiry, whether advertised on the Alorica Web site or otherwise, you may provide us with information about yourself, such as a resume or curriculum vitae. We may use this information throughout Alorica for the purpose of employment consideration or your inquiry. Except where you tell us not to, we will keep the information for future consideration.
+**Links to non-Alorica websites**
 
-**D. Information for Business Partners  
-** If you represent an Alorica client or vendor (“Alorica Business Partner”), we may use information provided on the Alorica Web site to administer and develop our business relationship with you, the Business Partner you represent, and Alorica Business Partners generally. For instance, this may involve using your information to send you details of Alorica Business Partner programs. It may also include sharing certain information with other Business Partners (subject to any confidentiality obligations that may exist), or Alorica customers or prospects. In connection with a particular transaction or program, we may also contact you as part of customer satisfaction surveys or for market research purposes.
+Our website may contain links to other third-party websites, including social media sites like Facebook and Linkedin. Please note that we are not responsible for the privacy practices or the content of those other websites when you access them from our website. As such, we encourage you to read the privacy policies of any third-party website you may access from our Site.
 
-**Information Security and Quality  
-** We intend to protect your personal information and to maintain its integrity. We implement at least commercially standard measures and processes, such as using encryption when transmitting sensitive information, with the goal to keep your information secure. Please be aware, however, that no data transmission over the Internet, or method of electronic storage, can be guaranteed to be 100% secure currently in the marketplace. As a result, while we strive to protect your information, we cannot guarantee its absolute security. Therefore, the Disclaimers of Warranty and Limitations of Liability in this Site Terms of Use apply.
+##### When you provide Personal Information to Alorica
 
-**Supplementing Information  
-** From time to time we may supplement information you give us via the Alorica Web site with information from other sources, such as information validating your address or other available information about businesses. This is to help us maintain the accuracy of the information we collect and to help us provide a better service.
+**_What is Personal Information?_**
 
-**Use of Suppliers  
-** In some cases Alorica uses suppliers to collect, use, analyze and otherwise process information on its behalf. It is Alorica's policy and practice to require such suppliers to handle information in a manner consistent with Alorica's policies.
+Personal Information is basically any information that identifies you. Examples of Personal Information you may send to Alorica include job applicant information, such as your resume, and contact information.
 
-**Cookies, Web Beacons and Other Technologies  
-** We sometimes collect non-identifiable information from visits to our Web sites to help us provide better customer service. For example, we keep track of the domains from which people visit, and we also measure visitor activity on our Web sites, but we do so in ways that keep the information non-identifiable. This information is sometimes known as "clickstream data." Alorica or others on Alorica's behalf may use this data to analyze trends and statistics and to help us provide better customer service.
+In general, you can use our website without telling us who you are and without giving any personal information about yourself. There are times, however, when you may want to send your information to us.
 
-Also, when we collect personal data from you in a transaction, we may extract some information about that transaction in a non-identifiable format and combine it with other non-identifiable information such as clickstream data. This information is used and analyzed only at an aggregate level to help us understand trends and patterns. This information is not reviewed at an individual level. If you do not want your transaction details used in this manner you can disable your cookies.
+**_When and how do we collect or use your Personal Information?_**
 
-We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Some Alorica pages use cookies, sent by Alorica or its third party vendors, or other technologies to better serve you when you return to the Web site. If you do not want a cookie, you should set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some of our Web sites may not work properly.
+You may choose to give us personal information in a variety of situations. For example, you may give us your contact information (e.g. your name, address, or e-mail address) for us to correspond with you regarding our Services and Products. Another situation where you may provide us with your personal information is when you give us a description of your education and work experience for a potential employment opportunity at Alorica.   In any event, you will be providing the information to us directly.
 
-Some Alorica Web sites also use Web beacon or other technologies to better tailor those sites to provide better customer service. These technologies may be in use on a number of pages across Alorica's Web sites. When a visitor accesses these pages, a non-identifiable notice of that visit is generated which may be processed by us or by our suppliers. These Web beacons usually work in conjunction with cookies. If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies.
+**For potential employment opportunity**
 
-Some of our business partners (e.g., advertisers) use cookies on our Site. We have no access to or control over these cookies. See “Online Advertising.”
+You may provide us with your personal information, such as a resume, curriculum vitae, and/or security number in connection with a potential employment opportunity at Alorica, whether advertised on the Alorica website or otherwise. We may use this information throughout Alorica for the purpose of your employment consideration. We also may share and use the information on your job application with third parties/suppliers, such as background services and our affiliates, to evaluate and analyze your potential employment. Unless you expressly instruct us otherwise, we may keep the information you provide us in connection to your job application for your future employment consideration at Alorica.
 
-If you turn off cookies, Web beacon and other technologies will still detect visits to these pages, but the notices they generate cannot be associated with other non-identifiable cookie information and are disregarded.
+In addition, if personal data is provided as part of an employment opportunity covered under the GDPR, then the specific Alorica recruiting process for that opportunity may provide additional disclosures at the time of obtaining that data.
 
-**Service Quality Monitoring  
-** Certain Web transactions may also involve you calling us or our calling you. Please be aware that it is Alorica's general practice to monitor and in some cases record such calls for staff training or quality assurance purposes.
+**To comply with the Law**
 
-**Disclosures Required By Law  
-** Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to law, judicial or other government subpoenas, warrants, or orders.
+Please be aware that in certain circumstances, such as law-related investigations, we may have to disclose your information to comply with the law, regulations and other lawful requirements.
 
-**Links to non-Alorica Web sites  
-** Alorica Web sites may contain links to other third party Web sites. Alorica is not responsible for the privacy practices or the content of those other Web sites.
+**_How do we protect your personal information?_**
 
-**Children's On-line Privacy  
-** Alorica recognizes and agrees with the particular importance of protecting the privacy of children. Consistent with the Children's Online Privacy Protection Act (COPPA), we will not knowingly collect any personally identifiable information from children under the age of 13.
+**Using Information Security and Quality technology**
 
-**E-Mail Updates and Opting Out**
+We intend to protect your personal information and to maintain its integrity. We implement commercially standard measures and processes, such as using encryption when transmitting sensitive information, with the goal of maintaining and securing the privacy of your information. However, please be aware that no data transmission over the Internet can be guaranteed to be 100% secure. As such, while we strive to protect your information, we cannot guarantee its absolute security. Therefore, the Terms of Use, Disclaimer of Warranty and Limitations of Liability in this Site Terms of Use apply.
 
-By registering on the Alorica website (“Site”), visitors allow Alorica to use their personal identifiable information in accordance with the terms of Alorica’s privacy policy.
+**How about when third party Suppliers are involved?**
 
-Upon enews Alert registration, Alorica will send enews announcements and updates as they are posted on [www.alorica.com](http://www.alorica.com/). We may enhance or merge the information we collect on the Site with data from third parties for purposes of marketing products or services to our customers and users.
+In some cases, in the ordinary course of business (e.g. checking your information with a background services provider in connection to your job application), we may use suppliers to collect, use, analyze and otherwise process information on our behalf. It is our policy and practice to require such suppliers to handle information in a manner consistent with our security measures and processes.
 
-We may communicate with the users of the Site via e-mail, telephone, mail, or fax in order to provide requested services, content, product information, notification of special offers, or in regard to customer service issues relating to an account. The users of the Site are always given the opportunity to 'opt-out' of receiving subsequent eNews Alerts and having their online information used for purposes not directly related to the Site.
+**_When you contact us_**
 
-**To ‘Opt-Out’:**
+You may communicate us, and we may respond to you, via e-mail, telephone, mail, or fax in connection to your inquiry.  To the extent your contact with us: 1) processes personal data from you as a data subject and is covered under the GDPR, 2) is where Alorica would be the data controller and not a processor for its customers, and 3) is not covered by another specific disclosure at the time of contact; then we want to share the following information with you:
 
-If you no longer wish to receive eNews Alerts or have your online information used for marketing purposes, please send an email to Alorica:  [Contact Us](https://web.archive.org/Contact-Us.aspx?dd=gi "Contact Us"). In the body of the email please include the following: “remove my name and email address from the Alorica email list”. Please allow at least 48-72 hours to be removed from the system.  
+You are about to submit data to Alorica Inc. (“Alorica”) that may be subject to the General Data Protection Regulation (“GDPR”).   The data controller for your data will be Alorica Inc.  Personal data questions related to GDPR may be directed to Bob Schlotfelt at  [privacy@alorica.com](mailto:privacy@alorica.com).  The processing of your data is necessary for the legitimate interest of responding to your inquiry, and it will be kept for the time set out in the applicable document retention policy.
 
+The recipients or categories of recipients of your personal data will be personnel of Alorica Bulgaria engaged in responding to inquiries from the website, including but not limited to employee recruitment.  In the course of responding to your inquiry, your personal data may be shared with other companies within the group of Alorica. All such companies will have implemented adequate measures for protection of your personal data.
+
+Subject to limitations set forth in the GDPR, with respect to your personal data being processed, you have the right to access, rectification, erasure, restriction, portability, and to object to processing.  You have the right to lodge a complaint with your appropriate supervisory authority.  The provision of your personal data will be required to respond to your inquiry.  If you do not provide your personal data, or if your personal data is erased at your request, then we may not be able to respond to your inquiry.
+
+**_Have any general privacy policy questions or concerns?_**
+
+If you need to contact us, or have any questions regarding your personal information and this Privacy Statement, please contact us by email at privacy@alorica.com, or by mail to the following address:
+
+Alorica Inc.,
+
+5 Park Plaza,
+
+Irvine, CA 92614
