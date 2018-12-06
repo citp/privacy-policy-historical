@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wisdomjobs.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216190207id_/https%3A//www.wisdomjobs.com/privacy-and-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdomjobs.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206163139id_/https%3A//www.wisdomjobs.com/privacy-and-policy.php) for the most accurate reproduction.*
 
 # Privacy Policies | Online Jobs, IT Jobs | Wisdom Jobs
-
-#### Privacy Policy
 
 * * *
 
@@ -13,7 +11,7 @@ Personal Information contains any information that may be used to identify an in
   
 
 
-##### Technologies Used For Tracking
+## Technologies Used For Tracking
 
 Some of our web pages utilize **‘cookies’** and other tracking technologies. A cookie is a small text file used to collect information about website activity. Some cookies and some other technologies may serve to remind personal information previously indicated by a web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
 
@@ -24,7 +22,7 @@ Tracking technologies may record information such as internet domain and host na
   
 
 
-##### External Services
+## External Services
 
 Third parties provide certain services available on www.wisdomjobs.com on behalf of Wisdom IT Services (India) Pvt. Ltd. The provided information may contain personal information, that Wisdom IT Services (India) Pvt. Ltd. collects on the web to help us deliver programs, products, information, and services. Service providers are also an important means by which Wisdom IT Services (India) Pvt. Ltd. maintains its website and mailing lists. Wisdom IT Services (India) Pvt. Ltd. will take reasonable steps to ensure that these third-party service providers are obligated to protect personal information on Wisdom IT Services (India) Pvt. Ltd.'s behalf.
 
@@ -35,7 +33,7 @@ By using this website, your consent to the terms of our online privacy policy an
   
 
 
-##### Security Measures
+## Security Measures
 
 * * *
 
@@ -46,7 +44,7 @@ By using this website, your consent to the terms of our online privacy policy an
   
 
 
-##### Updating Your Information
+## Updating Your Information
 
 * * *
 
@@ -55,7 +53,7 @@ By using this website, your consent to the terms of our online privacy policy an
   
 
 
-##### Restricting Information Sharing And Disclosure
+## Restricting Information Sharing And Disclosure
 
 * * *
 
@@ -80,7 +78,7 @@ Wisdom IT Services (India) Pvt. Ltd. does not lease, sell, or share personal inf
   
 
 
-##### Confidentiality And Security
+## Confidentiality And Security
 
 * * *
 
@@ -91,7 +89,7 @@ Wisdom IT Services (India) Pvt. Ltd. does not lease, sell, or share personal inf
   
 
 
-##### Contact Information
+## Contact Information
 
 * * *
 
