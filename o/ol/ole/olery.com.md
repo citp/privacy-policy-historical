@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the olery.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514020327id_/http%3A//www.olery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olery.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206110504id_/https%3A//olery.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Olery
+# Privacy Policy - Olery
+
+## Privacy Statement of Olery
 
 We attach great importance to protecting the privacy of visitors to our Website and of our customers. In our processing of any personal data, we therefore exercise due care and fully comply with the requirements of the Personal Data Protection Act (Wet Bescherming Persoonsgegevens, Wbp). European data protection legislation, such as the Dutch Wbp, is among the strictest and most privacy-friendly in the world.
 
-US citizens may be familiar with the [Safe Harbour Framework](https://www.export.gov/safeharbor/) and private-sector privacy certification services such as the TRUSTe seal; the European privacy rules which we are bound by, provide even stronger privacy protection in that they are not just voluntary and enforced by a commercial company on their clients, but mandated by law and enforced by an official, governmental Data Protection Authority (Autoriteitpersoonsgegevens).
+US citizens may be familiar with the Safe Harbour Framework and private-sector privacy certification services such as the TRUSTe seal; the European privacy rules which we are bound by, provide even stronger privacy protection in that they are not just voluntary and enforced by a commercial company on their clients, but mandated by law and enforced by an official, governmental Data Protection Authority (Autoriteitpersoonsgegevens).
 
-This privacy statement tells you how we collect, use, and protect your personal information. Definitions of the terms indicated with a capitalized first letter are included in the [Terms of Service](http://www.olery.com/terms).
+This privacy statement tells you how we collect, use, and protect your personal information. Definitions of the terms indicated with a capitalized first letter are included in the Terms of Service.
 
-## 1\. Recording and processing data
+### 1\. Recording and processing data
 
 When using the Website, you provide us with certain information. This may include personal data. Personal data are details that say something about a natural person, i.e. about you as an individual.
 
@@ -18,7 +20,7 @@ Active data provision refers to instances in which you actively provide informat
 
 Passive data provision involves information that is automatically stored when you visit the Website. Without this privacy policy you might not even have been aware that you are submitting any such data. Passively provided data is processed as aggregate data, meaning the information does not relate to you specifically and as such is not personal information. However, in certain cases it could still be possible to connect certain passively provided data to your person, in which case such data would still qualify as personal data. Information about the way in which passively provided data is processed, and for what purpose, can be found under item 5 of this privacy statement.
 
-## 2\. Provision of information to third parties
+### 2\. Provision of information to third parties
 
 We currently do not yet provide any of your personal data to third parties, but in the future the following third party companies or legal entities may receive the following of your personal information through us:
 
@@ -37,11 +39,11 @@ We may also disclose your information to third parties in the event of suspected
 
 In any such cases, however, we will give our best efforts to protect your legitimate right to privacy and minimize provision of personal data to what is required of us. To the extent permitted by law, we will notify you whenever we have been obliged to disclose your personal data to any third party.
 
-## 3\. Protecting personal data
+### 3\. Protecting personal data
 
 We apply strict security procedures to prevent unauthorized access to personal data. We use secure connections (Secure Sockets Layer, or SSL) which protect all data traffic between you and our website.
 
-## 4\. Actively provided data
+### 4\. Actively provided data
 
 In order to use the Website interactively, registration is required. During registration, we will ask for the following information:
 
@@ -78,25 +80,20 @@ Storage time
 
 Insofar as there are no applicable legislative requirements stipulating a different storage time, the actively provided personal data, including the Account, are saved for a period of:
 
-  1. a) one month after termination of the trial period; or
-  2. b) two months after termination of an Agreement for paid Services.
-
-
+a) one month after termination of the trial period; or  
+b) two months after termination of an Agreement for paid Services.
 
 In derogation of the above, the email address will be stored for purposes of notification (such as newsletters and related promotional communications) until you instruct us, in accordance with the instructions contained in the notification or on the Website, that you no longer wish to receive such messages.
 
-## 5\. Passively provided data
+### 5\. Passively provided data
 
 When visiting the Website, the following details are automatically processed:
 
-  * IP address
-  * Country/Place of origin (based on the IP address)
-  * Browser type
-  * Operating system
-  * Origin of the visit (you have entered the url of the Website, or have accessed the Website via a search engine query or a link from another website.)
-
-
-
+IP address  
+Country/Place of origin (based on the IP address)  
+Browser type  
+Operating system  
+Origin of the visit (you have entered the url of the Website, or have accessed the Website via a search engine query or a link from another website.)  
 Purposes
 
 We use the passively provided data to provide our Services, to optimize these Services in relation to your equipment and to store your configurations and preferences.
@@ -111,7 +108,7 @@ Storage time
 
 We store passively provided data no longer than is necessary for the purposes for which they were collected.
 
-## 8. Recording and processing of survey data
+### 6\. Recording and processing of survey data
 
 In case you have visited a business which is using Olery products and you were invited to fill out a survey the following privacy provisions apply:
 
@@ -127,16 +124,23 @@ Unless consent is obtained, your response will not be published publicly.
 
 See item 9 if you want to view, amend or delete data provided or stored within the context of a survey.
 
-## 7\. Third-party websites
+### 7\. Third-party websites
 
 This statement does not apply to third parties’ websites that are linked to this website via links. We cannot guarantee that these third parties will handle your personal data in a safe and secure way. We advise you to read these websites’ privacy statements before using their websites.
 
-## 8\. Changes to the policy statement
+### 8\. Usage of “Reviews Connect” Facebook App
+
+As customer of Olery, you might have the option to make use of the “Reviews Connect” Facebook App.  
+It requires you to login with your Facebook account and authorize the app to access data from one or multiple Facebook pages in order to collect reviews for those pages.
+
+Olery will not save any personal data other than the API tokens necessary to access the pages data. Furthermore, Olery will not save any pages data besides the reviews/ratings with all details and all information required to access this data.
+
+9\. Changes to the policy statement
 
 We retain the right to amend this statement. We recommend that you regularly access this policy statement in order to familiarize yourself with any changes to it.
 
-## 9\. Viewing and amending your personal data
+### 10\. Viewing and amending your personal data
 
-If you have any questions about our privacy policy or about viewing, amending or deleting your personal data, you can contact us via e-mail at: [info@olery.com](mailto:info@olery.com).
+If you have any questions about our privacy policy or about viewing, amending or deleting your personal data, you can contact us via e-mail at: info@olery.com.
 
 The above statement is compliant with the General Data Protection Regulation.
