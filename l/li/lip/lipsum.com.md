@@ -1,95 +1,110 @@
-> *The following text is extracted and transformed from the lipsum.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501051244id_/http%3A//www.valueclickmedia.com/member_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipsum.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206083915id_/https%3A//lipsum.com/privacy.pdf) for the most accurate reproduction.*
 
-# Display Member Privacy Policy | ValueClick Media
+# GDPR & Privacy Policy
 
-[Web User Privacy Statement](https://web.archive.org/about/privacy/display-web-user) | [Opt-Out Cookie](https://admin.valueclickmedia.com/corp/optout)
-
-This privacy statement discloses the privacy practices for [http://www.valueclickmedia.com](http://www.valueclickmedia.com/).
-
-Our mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices.
-
-**This website has agreed to notify you of:**
-
-  * What personally identifiable information of yours is collected from you through the website
-  * The organization collecting the information
-  * How the information is used
-  * With whom the information may be shared
-  * What choices are available to you regarding collection, use and distribution of the information
-  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under ValueClick Media’s control
-  * How you can correct any inaccuracies in the information.
-
-
-
-If you have questions or concerns regarding this statement, you should contact ValueClick Media by email to [privacy@valueclick.com](mailto:privacy@valueclick.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact ValueClick Media by email to [support@valueclick.com](mailto:support@valueclick.com). If you are not a member of ValueClick Media (an advertiser or web publisher who has registered with ValueClick Media to do business with ValueClick Media) please see our Web User Privacy Statement.
-
-**Information Collection and Use**  
-As a ValueClick Company, ValueClick Media is the sole owner of the information collected on this site. Information collected is in two distinct categories: Member information and aggregated Web User information. This portion of ValueClick Media’s privacy statement applies only to Members of ValueClick Media. For web user privacy issues regarding the serving of advertisements and the use of cookies, please see the Web User Privacy Statement.
-
-Members of the ValueClick Media Network include publishers and advertisers involved in advertising campaign transactions. Member information collected includes personally identifiable information that is necessary to conduct business, such as name, phone number, and email address. Payments made to and from ValueClick Media require the collection of personally identifiable information that may include credit card numbers and bank account information. Phone numbers may be used to contact Members for sales or inventory acquisition purposes. All Member information is collected, modified and stored in a password protected environment. This information is used for service, media delivery, contact, billing and accounts payable purposes. We will not sell, share, or rent this information to non-ValueClick entities. All Member information collection is explicit, voluntary, manually entered by the Member, and can be opted-out.
-
-Cookies are used to simplify Member login and to facilitate secure navigation through the password protected areas of the website. Members who choose to reject all cookies may have difficulty navigating the password protected areas of the website depending on the nature of their connection (dynamic IP, proxy server, etc.).
-
-**Information Sharing**  
-Member information is not shared with any third party outside ValueClick Media and its affiliated companies within ValueClick, except for that necessary to conduct business, such as clearing a credit card transaction for an advertising campaign purchase or making an ACH direct deposit to pay a Publisher, or as required by law. The security of Member information is crucial to our success in the highly competitive field of online advertising. ValueClick Media may, from time to time, use "gallery" pages to identify Publishers and Advertisers by business identity ONLY (e.g. Adcycle.com is a new Member of the ValueClick Media Network).
-
-**Log Files**  
-We record the IP address of new Members at sign-up. This can assist in administering the website and Member accounts, including the possible implementation of "fast-login" and "my ValueClick Media " features designed to enhance the Member experience. This information is part of the secure member database and is password protected.
-
-**Links**  
-This website contains links to other websites. Please be aware that ValueClick Media is not responsible for the privacy practices of such other websites. We encourage our users to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
-
-**Security**  
-This website employs industry standard security measures to ensure the security of all data. Any data that is stored on our servers is treated as proprietary and confidential and is not available to the public. We have an internal security policy with respect to the confidentiality of customer and other data, allowing access only to those employees or third parties who have a need to know such information for the purpose of effectively delivering our products and services by means of user login and password requirements. We routinely evaluate our data security practices to identify security threats or opportunities for improvement.
-
-No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of ValueClick to intercept or access transmissions or private communications unlawfully. While we strive to protect your PII, ValueClick cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with a ValueClick Network company.
-
-**Special Offers**  
-Our Member email list is used for administrative purposes only. We send all new Members a welcoming email to verify password and user name. Special offers and promotions are made at the website.
-
-**Site and Service Updates**  
-We may send Members website and service announcement updates by email. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with Members to provide requested services and in regards to issues relating to their account via email or phone.
-
-**Correction/Updating Personal Information**  
-If a Member's personally identifiable information changes (such as your email address) we provide several ways for a Member to correct or update their personal information. The following options are provided:
-
-  * Make the changes online by entering the member area
-  * Email: [support@valueclick.com](mailto:support@valueclick.com)
-  * Contact your account manager
-
+                                                        GDPR & Privacy Policy
+lipsum.com is committed to protecting your privacy online. This Privacy Policy endeavours to describe to you our practices
+regarding the personal information we collect from users on our website, located at lipsum.com (the “Site”), and the services offered
+through the Site. If you have any questions about our Privacy Policy, our collection practices, the processing of user information, or
+if you would like to report a security violation to us directly, please contact us at help@lipsum.com
+What Data We Collect
+General Data: The use of our services will automatically create information that will be collected. For example, when you use our
+Services, your geographic location, how you use the Services, information about the type of device you use, your Open Device
+Identification Number, date/time stamps for your visit, your unique device identifier, your browser type, operating system, Internet
+Protocol (IP) address, and domain name are all collected. This information is generally used to help us deliver the most relevant
+information to you and administer and improve the Site.
+Log Files: As is true of most websites, we gather certain information automatically and store it in log files. This information includes
+IP addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and
+clickstream data. We use this information to maintain and improve the performance of the Services.
+Analytics: We use analytics services (including, but not limited to, Google Analytics) to help analyze how users use the Site.
+Analytics services use Cookies to collect information such as how often users visit the Site and we use the information to improve
+our Site and Services. The analytics services' ability to use and share information collected by them is restricted by their terms of
+use and privacy policy, which you should refer to for more information about how these entities use this information.
+Location Information: If you have enabled location services on your mobile device, we may collect your location information to
+improve the Services we offer. If you do not want this information collected, you can disable location services on your device.
+Cookies: “Cookies” are small pieces of information (text files) that a website sends to your computer’s hard drive while you are
+viewing the website. These text files can be used by websites to make the users experience more efficient. The law states that we
+can store these cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we
+need your permission. To that end, this site uses different types of cookies. Some cookies are placed by third party services that
+appear on our pages. We and some third parties may use both session Cookies (which expire once you close your web browser)
+and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive
+experience on our Services and to market the Services or other products. Marketing cookies are used to track visitors across
+websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for
+publishers and third party advertisers. This tracking is done on an anonymous basis and, while not an exhaustive list, some of the
+companies we work with are Google, AppNexus, Criteo, Rubicon, Pubmatic and DistrictM. To learn more about this practice,
+including the Self Regulatory Principles for Online Advertising, to which we adhere, you can visit www.aboutads.info/choices,
+optout.networkadvertising.org and www.youronlinechoices.com
+Use of Your Personal information
+In general, personal information you submit to us is used either to respond to requests that you make, aid us in serving you better,
+or market our Services. We use your personal information in the following ways:
+     ●   Operate, maintain, and improve our site(s), products, and services;
+     ●   Respond to comments and questions and provide customer service;
+     ●   Link or combine user information with other personal information we get from third parties, to help understand your needs
+         and provide you with better service;
+     ●   Develop, improve, and deliver marketing and advertising for the Services;
+     ●   Provide and deliver products and services you request;
+     ●   Identify you as a user in our system;
+We may store and process your personal information on servers located in both the United States and Europe. We may also create
+anonymous data records from your personal information by completely excluding information (such as your name) that makes the
+data personally identifiable to you. We use this anonymous data to analyze request and usage patterns so that we may enhance
+the content of our Services and improve Site functionality. We reserve the right to use anonymous data for any purpose and
+disclose anonymous data to third parties at our sole discretion.
+We may receive testimonials and comments from users who have had positive experiences with our Services. We may publish such
+content. When we publish this content, we may identify our users by their first and last name. We obtain the user's consent prior to
+posting this information along with the testimonial.
+Disclosure of Your Personal information
+We disclose your personal information as described below and as described elsewhere in this Privacy Policy.
 
 
-If a Member no longer desires our service we provide two ways to remove that Member's personal data from our system. All requests to remove a Member from our system will be verified prior to removal to insure the proper identity of the requester.
-
-The following options are provided:
-
-  * Email: [support@valueclick.com](mailto:support@valueclick.com)
-  * Contact your account manager
-
-
-
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on the first page a Member views after successful login so our Members are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify Members by way of an email. Members will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
-
-**DATA PROCESSING/SAFE HARBOR**
-
-FOR EUROPEAN UNION CITIZENS
-
-The European Union ("EU") maintains strict privacy laws. These rules differ significantly from the laws of the United States of America (“US”). To reconcile these differences, the US and the EU have created a safe harbor (“Safe Harbor”) that defines mutually acceptable privacy operations. For more information see [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
-
-ValueClick Mediacomplies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor/>.
-
-In compliance with the Safe Harbor Principles,wecommit to resolve complaints about your privacy and our collection or use of your personal information.  In the first instance, European Union citizens with inquiries or complaints regarding this privacy policy should first contact: [privacy@valueclickmedia.com](mailto:privacy@valueclickmedia.com).   ValueClick Mediahas further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by ValueClick Media, you may contact:  
-
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.us.bbb.org](http://www.us.bbb.org/)  
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
-
-**MISCELLANEOUS**  
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND APPLICABLE TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (a) the purposes for which such third party's personal data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; ( c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English . C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais.
-
-**Contacting ValueClick Media**  
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please email us at [support@valueclick.com](mailto:support@valueclick.com) or you can send correspondence to the following address: ValueClick Media, Privacy Officer, 30699 Russell Ranch Road, Suite 250, Westlake Village, CA 91362.
+Third Parties Designated by You: When you use the Services, the personal information you provide will be shared with the third
+parties that you authorize to receive such information.
+Third Party Service Providers: We may share your personal information with third party service providers to: provide you with the
+Services that we offer you through our Services; conduct quality assurance testing; to provide technical support; market the
+Services; and/or to provide other services to us.
+Information We Share: We may disclose aggregated information about our users and information that does not identify any
+individual without restriction. In addition, we may disclose personal information that we collect or you provide:
+     ●    To fulfill the purpose for which you provide it, for any other purpose disclosed by us when you provide the information, or
+          with your consent;
+     ●    To third parties designated by you;
+     ●    With our subsidiaries and affiliates;
+     ●    To third parties to process payments made through the Services;
+     ●    With contractors, service providers and other third parties we use to support our business;
+     ●    To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or
+          transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding,
+          in which personal information held by us about users is among the assets transferred; and
+Other Disclosures: Regardless of any choices you make regarding your Personal information (as described below), lipsum.com
+may disclose Personal information if it believes in good faith that such disclosure is necessary: (i) in connection with any legal
+investigation; (ii) to comply with relevant laws or to respond to subpoenas or warrants served on our company; (iii) to protect or
+defend the rights or property of lipsum.com or users of the Services; and/or (iv) to investigate or assist in preventing any violation or
+potential violation of the law, this Privacy Policy, or our Terms of Use.
+Third Party Websites
+Our Site may contain links to third party websites. When you click on a link to any other website or location, you will leave our Site
+or Services and go to another site, and another entity may collect personal information or anonymous data from you. We have no
+control over, do not review, and are not responsible for, these outside websites or their content. Please be aware that the terms of
+this Privacy Policy do not apply to these outside websites or content, or to any collection of your personal information after you click
+on links to such outside websites. We encourage you to read the privacy policies of every website you visit. The links to third party
+websites or locations are for your convenience and do not signify our endorsement of such third parties or their products, content or
+websites.
+Your Choices Regarding Information
+Choices: We offer you choices regarding the collection, use, and sharing of your personal information. We may periodically send
+you emails that directly promote the use of our Services. When you receive promotional communications from us, you may indicate
+a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the
+unsubscribe instructions provided in the email you receive or by contacting us directly. Despite your indicated email preferences, we
+may send you service related communications, including notices of any updates to our Terms of Use or Privacy Policy.
+Cookies: If you decide at any time that you no longer wish to accept cookies from our Services for any of the purposes described
+above, then you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a
+cookie from the websites you visit. Consult your browser’s technical information. If you do not accept cookies, however, you may
+not be able to use all portions of the Services or all functionality of the Services. If you have any questions about how to disable or
+modify cookies, please contact us at help@lipsum.com
+Young People
+Our Services are not directed to children under the age of 13. If a child under 13 submits personal information to us and we learn
+that this is the case, we will take steps to remove the personal information from our databases. If you believe that we might have
+any personal information from a child under 13, please contact us at help@lipsum.com
+Your Rights
+As a user of our site you have the following rights, any of which you may exercise by contacting us at help@lipsum.com
+     ●    The right to ask what personal data that we hold about you at any time. Extra requests (particularly repetitive) for data may
+          result in a fee being charged to the user.
+     ●    The right to ask us to update and correct any out-of-date or incorrect personal data that we hold about you free of charge.
+     ●    As set out above, the right to opt out of any marketing communications that we may send you.
+Further information regarding your rights can be found under:
+https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/
