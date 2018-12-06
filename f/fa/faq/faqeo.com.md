@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faqeo.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614224411id_/http%3A//faqeo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faqeo.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206043337id_/http%3A//faqeo.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
