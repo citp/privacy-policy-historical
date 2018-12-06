@@ -1,103 +1,76 @@
-> *The following text is extracted and transformed from the cured.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126182522id_/http%3A//www.admedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cured.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206130940id_/http%3A//cured.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# AdMedia Online Ad Network | Advertiser Solutions
+# Cured.com - Health, Fitness, Nutrition, Drug and Doctor Info
 
-THE FOLLOWING PRIVACY POLICY POLICYDETAILS THE ADMEDIA PLEDGE TO KEEPING YOUR INFORMATION PRIVATE.
+## **Privacy Policy**
 
-Effective Date: August 30, 2012
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-This privacy policy describes how AdMedia, Inc. ("AdMedia") collects and uses the personal information you provide on our Web sites: www.thankyouoffer.com, www.thankyouemail.com, www.remarketing.com, www.prerollstream.com, www.overlayad.com, www.midrollstream.com, www.intextual.com, www.footerroll.com, www.dittodomains.com, www.contextual.com, www.admobile.com, www.admediabrands.com, www.404bucks.com, www.admedia.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-## What type of information does AdMedia collect?
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.cured.com
 
-We collect the following personal information from you (Publishers ONLY):
+##### What Type Of Information Does Cured.Com Collect?
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information
-  * Social Security Number
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name ("Personal Information").
 
+##### Log Data
 
+We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-## What does AdMedia do with my data?
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-AdMedia only collects data to enhance and personally tailor our website to meet your needs. Personal information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Cookies help us distinguish between individual users, tailor fit homepages, control advertisement frequency, and so on.
+##### Cookies
 
-IP addresses help us diagnose server issues and help us administer AdMedia.com. Without your IP address it would be impossible to keep our services running 24/7, and we want to be here for you around the clock.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your computer's hard drive. We use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-Every email sent to AdMedia users is to meet your needs. We offer website updates, inform you of new features, allow you to register for special offers and sweepstakes, newsletters all for your enjoyment. If at any point these emails become annoying or bothersome, simply follow the unsubscribe mechanism in these emails or you can email [copyright@admedia.com](mailto:copyright@admedia.com).
+##### Compliance With Children's Online Privacy Protection Act
 
-Also note that your email address helps AdMedia respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as payment processing, email communications and career fulfillment. These companies are authorized to use your personal information only as necessary to provide these services to us. We have a co-branding relationship with our service provider of our career page. The personal information that you enter is owned by AdMedia.
+##### What Does Cured.Com Do With My Data?
 
-We may also disclose your personal information
+Cured.com may collect and use Users’ personal information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
-  * as required by law, such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * to any other third party with your prior consent to do so.
-  * if AdMedia is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-  * to any other third party with your prior consent to do so
+We may use the email address to send User information and updates pertaining to their order. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
+##### Who Else Gets To See My Personal Information?
 
+When you request services from our business partners Cured.com will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about a Cured.com business partner, you may contact them directly. We are not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with Cured.com owned businesses.
 
-## Cookies
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+##### Is My Personal Information Secure?
 
-We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100 percent secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. 
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as previously entered account information, will be limited. 
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service. 
 
-## Third Party Cookies
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
+If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and processes it there. 
 
-## Clear Gifs (Web Beacons/Web Bugs)
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-We employ and our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. This clear Gif placement allows AdMedia a seamless and unobtrusive way to retarget our users to ensure that all ads have been personally tailored to that individual. 
+##### Do Linked Sites Honor Your Policy?
 
-Your IP address helps AdMedia diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize AdMedia.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you.
 
-## Security
+These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice visit the NAI at http://www.networkadvertising.org. To opt-out of this type of advertising, you can visit http://www.aboutads.info/choices.
 
-The security of your personal information is important to us. When you enter sensitive information (such as a social security number/Tax ID) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+##### Do Not Track Disclosure
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [copyright@admedia.com](mailto:copyright@admedia.com).
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.   
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser. 
 
-## Public Forums
+##### Will Your Policy Always Remain Intact?
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [copyright@admedia.com](mailto:copyright@admedia.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We may update our Privacy Policy at any time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-## Who else gets to see my personal information?
+You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-When you request services from our business partners AdMedia will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about an AdMedia business partner, you may contact them directly. AdMedia is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with AdMedia owned businesses.
+##### Contacting Cured.Com
 
-Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
-
-## How do I delete my information from AdMedia?
-
-If your personal information changes, you may correct or update by logging into your account and going to Account Info or by emailing [copyright@admedia.com](mailto:copyright@admedia.com) or by contacting us by postal mail at the contact information listed below. If you no longer desire our service, please contact us at the contact information listed below in Contacting AdMedia.
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [copyright@admedia.com](mailto:copyright@admedia.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-At this current time it is not possible to completely delete your user information from the AdMedia database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
-
-## Will I be notified of a security breach?
-
-AdMedia has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified via email immediately.
-
-## Do linked sites honor your policy?
-
-Linked sites are not run or controlled by AdMedia. The website does contain many linked sites so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. AdMedia won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
-
-## AdMedia will notify you of changes
-
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-## Contacting AdMedia
-
-In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at [copyright@admedia.com](mailto:copyright@admedia.com).
-
-AdMedia 901 W. Alameda Ave., Suite 102, Burbank, CA 91506
+In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at privacy@cured.com If you have any questions about this Privacy Policy, please contact us.
