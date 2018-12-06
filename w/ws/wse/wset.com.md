@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wset.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630055334id_/http%3A//wset.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wset.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206060139id_/https%3A//wset.com/station/privacy) for the most accurate reproduction.*
 
 # Lynchburg Privacy | News, Weather, Sports, Breaking News | WSET
 
