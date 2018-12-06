@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myanimelist.net privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602210054id_/https%3A//myanimelist.net/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myanimelist.net privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206034338id_/https%3A//myanimelist.net/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyAnimeList.net
 
@@ -6,7 +6,7 @@
 We have recently updated our privacy policy, which will be implemented from May 25, 2018 onwards.  
 Read our Privacy Policy here.
 
-LAST UPDATED: [5/24/2017]
+LAST UPDATED: [6/8/2018]
 
 In this Privacy Policy, “Company”, “we”, “us”, or “our” means MyAnimeList, LLC, the owner and operator of the website [www.MyAnimeList.net](https://myanimelist.net/) (the “Site”). Your privacy is important to the Company, and we take your privacy very seriously. We designed our Privacy Policy to cover how we collect and use your information in connection with use of our Site; how you can control the use and disclosure of your information; how your information is protected; and how this information may be used and disclosed. If you have any questions about this privacy policy, please contact us at [legal@mail.myanimelist.net](mailto:legal@mail.myanimelist.net).
 
@@ -93,7 +93,7 @@ If the Site functionality permits, you can deactivate your account at any time b
 As discussed below, some information is collected about you automatically through cookies and other tracking technologies.
 
   * Cookies. You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. To opt out of having information collected by third party ad networks, advertising agencies, advertisers, and audience segment providers used for behavioral advertising, to obtain information about the technologies these third parties might use, and to view information regarding their privacy policies, please visit [http://www.aboutads.info/choices](http://www.aboutads.info/choices/) if you are located in the United States, [www.youronlinechoices.com](http://www.youronlinechoices.com/) if you are located in Europe, [youradchoices.ca/choices](http://youradchoices.ca/choices) if you are located in Canada, or [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/) if you are located in Australia.
-  * Flash Cookies. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies' storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the [BetterPrivacy add-on](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) to automatically delete your Flash cookies every time you close your browser.
+  * Flash Cookies. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies' storage capacity, and disallow Flash cookies altogether.
 
 If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please visit the [NAI's website](http://www.networkadvertising.org/choices/).
 
