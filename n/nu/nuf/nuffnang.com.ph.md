@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuffnang.com.ph privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530202033id_/https%3A//www.nuffnang.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffnang.com.ph privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207221645id_/https%3A//www.nuffnang.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Nuffnang Philippines | The World's Leading Blog Advertising Community » Privacy Policy
 
