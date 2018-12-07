@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vdizpk.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608135833id_/http%3A//www.vdizpk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vdizpk.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207055519id_/http%3A//ishqsubhanallah.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - VdizPk
+# Privacy Policy
 
 **Personally Provided Information**
 
-You do not have to give us personal information to visit Vdizpk.Com If you choose to provide us with additional information through an e-mail message, inquiry form, comments, etc., we will only maintain the information as long as needed to respond to your question, inquiry, or to fulfill the stated purpose of the communication. Except for authorized law enforcement investigations, we do not give, share, sell or transfer any personal information to a third party.
+You do not have to give us personal information to visit IshqSubhanAllah.Com If you choose to provide us with additional information through an e-mail message, inquiry form, comments, etc., we will only maintain the information as long as needed to respond to your question, inquiry, or to fulfill the stated purpose of the communication. Except for authorized law enforcement investigations, we do not give, share, sell or transfer any personal information to a third party.
 
 **External Links**
 
