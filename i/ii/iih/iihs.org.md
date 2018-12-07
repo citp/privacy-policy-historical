@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iihs.org privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611012841id_/http%3A//www.iihs.org/iihs/copyright-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iihs.org privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207190710id_/https%3A//www.iihs.org/iihs/copyright-information) for the most accurate reproduction.*
 
 # Copyright information and privacy policy
 
