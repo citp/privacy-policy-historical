@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nssmc.com privacy policy that was archived on 2018-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180605045519id_/http%3A//www.nssmc.com/en/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nssmc.com privacy policy that was archived on 2018-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181207215334id_/http%3A//www.nssmc.com/en/privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -294,7 +294,8 @@ google.setOnLoadCallback(function() {
 <script>
 var privacy_url='http://www.nssmc.com/en/privacy/cookie.html';
 
-var html = '<div id="privacy" style="display:none" class="privacy-container">';
+var html = '<div id="modal-view"></div>';
+html += '<div id="privacy" style="display:none" class="privacy-container">';
 html += '<div class="privacy-inner">';
 html += '<p class="privacy-prefix">This website uses cookies for more convenient usage and for maintaining and improving performance.<br>For more details, please click ';
 html += '<a class="privacy-anchor" href="'+ privacy_url +'" target="_blank">Cookie Policy</a>';
@@ -312,6 +313,7 @@ var body = document.body;
 body.insertAdjacentHTML('beforeend',html);
 
 function privacy_policy_cookie(){
+    var modal_view = document.getElementById("modal-view");
 	var privacy_btn = document.getElementById("close-btn");
 	var privacy_dialog = document.getElementById("privacy");
 	var cookie_array = [];
@@ -339,22 +341,40 @@ function privacy_policy_cookie(){
 	}
 
 	if(cookie_flg){
+	    if(modal_view){
+            modal_view.style.display = "none"
+        }
 		privacy_dialog.style.display="none";
 	}else{
+	    if(modal_view){
+            modal_view.style.display = "block"
+        }
 		privacy_dialog.style.display="block";
 	}
 
 	privacy_btn.onclick = function(){
 		document.cookie = '_nssmc_privacy_policy=' + "accept " + (privacy_expired_year + '/' + privacy_expired_month + '/' + privacy_expired_day) + ";expires=" + cookie_limit_date + ";path=/";
+		if(modal_view){
+            modal_view.style.display = "none"
+        }
 		privacy_dialog.style.display="none";
 	}
 }
 privacy_policy_cookie();
 
 
-</script><div id="privacy" style="display: block;" class="privacy-container"><div class="privacy-inner"><p class="privacy-prefix">This website uses cookies for more convenient usage and for maintaining and improving performance.<br>For more details, please click <a class="privacy-anchor" href="http://www.nssmc.com/en/privacy/cookie.html" target="_blank">Cookie Policy</a>.  Please click the "agree" button if you agree to the placement of cookies on your computer.<br>If you disagree, please exit this site immediately by closing this browser.</p><a class="btn-close-main" href="javascript:;"><span id="close-btn" class="privacy-btn-close flexiblebox"><span class="privacy-btn-copy">agree</span></span></a></div></div>
+</script><div id="modal-view" style="display: block;"></div><div id="privacy" style="display: block;" class="privacy-container"><div class="privacy-inner"><p class="privacy-prefix">This website uses cookies for more convenient usage and for maintaining and improving performance.<br>For more details, please click <a class="privacy-anchor" href="http://www.nssmc.com/en/privacy/cookie.html" target="_blank">Cookie Policy</a>.  Please click the "agree" button if you agree to the placement of cookies on your computer.<br>If you disagree, please exit this site immediately by closing this browser.</p><a class="btn-close-main" href="javascript:;"><span id="close-btn" class="privacy-btn-close flexiblebox"><span class="privacy-btn-copy">agree</span></span></a></div></div>
 
 <style type="text/css">
+#modal-view{
+  width:100%;
+  height:120%;
+  position: fixed;
+  background-color: rgba( 0,0,0, 0.75 );
+  z-index:10001;
+  top:0;
+  left:0;
+}
 
 .privacy-container *{
 	line-height: 1.67;
@@ -364,7 +384,7 @@ privacy_policy_cookie();
     position: fixed;
     line-height: 1.67;
     right: 0px;
-    z-index: 4000;
+    z-index: 10001;
     width: 270px;
     height: auto;
     background: #f5f5f5;
