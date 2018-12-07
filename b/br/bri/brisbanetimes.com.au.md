@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brisbanetimes.com.au privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227061729id_/http%3A//www.fairfaxmedia.com.au/company/privacy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brisbanetimes.com.au privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207141529id_/http%3A//www.fairfaxmedia.com.au/company/privacy/privacy) for the most accurate reproduction.*
 
 # Privacy - Fairfax Media Limited
 
