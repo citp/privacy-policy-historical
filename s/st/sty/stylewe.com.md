@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stylewe.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606230515id_/https%3A//www.stylewe.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylewe.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207042737id_/https%3A//www.stylewe.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in UK privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
 
 ##### What personal information do we collect from the people that visit our blog, website or app?
 
@@ -82,7 +82,7 @@ It's also important to note that we do not allow third party behavioral tracking
 
 ##### Fair Information Practices
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+The Fair Information Practices Principles form the backbone of privacy law in the United Kingdom and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
 ##### In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
 
@@ -119,7 +119,3 @@ We also agree to the individual redress principle, which requires that individua
 ##### If at any time you would like to unsubscribe from receiving future emails, you can
 
 • Follow the instructions at the bottom of each email and we will promptly remove you from **ALL** correspondence.
-
-##### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us at [services@stylewe.com](mailto:services@stylewe.com)
