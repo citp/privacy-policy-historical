@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyactioncoalition.org privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506195008id_/https%3A//powershift.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyactioncoalition.org privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207013106id_/http%3A//powershift.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Power Shift Network
 
