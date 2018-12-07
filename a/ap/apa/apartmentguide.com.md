@@ -1,18 +1,8 @@
-> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524135507id_/https%3A//www.apartmentguide.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207094114id_/https%3A//www.apartmentguide.com/legal/privacy) for the most accurate reproduction.*
 
 # None
 
 [Click here to learn more about how we handle do-not-track signals and user tracking.](https://web.archive.org/legal/privacy/do-not-track/)
-
-### LEGAL NOTICE
-
-(May 22, 2018)
-
-What’s New with the ApartmentGuide.com Privacy Policy?
-
-RentPath, LLC has revised the ApartmentGuide.com Privacy Policy effective May 22, 2018 (the “Effective Date”) to add provisions relating to our Use and Disclosure of certain personal or non-personal information that (1) you provide to us or (2) is made available to us through your use of our site or third-party sites. The revised terms are found in Sections 1, 2 and 3.
-
-PLEASE NOTE THAT THESE MODIFICATIONS ARE EFFECTIVE IMMEDIATELY FOR NEW USERS OF THE WEBSITE OR APPLICATION ON OR AFTER THE EFFECTIVE DATE, AND ON JUNE 1, 2018 FOR ANY USERS OF THE WEBSITE PRIOR TO THE EFFECTIVE DATE. WE URGE YOU TO CAREFULLY REVIEW THE ENTIRE PRIVACY POLICY. BY USING OR CONTINUING TO USE THE WEBSITE OR APPLICATION, YOU CONSENT TO ALL PRIVACY POLICY MODIFICATIONS.
 
 ApartmentGuide.com is a technology platform owned and operated by Consumer Source Holdings LLC, a subsidiary of RentPath, LLC (“RentPath”). The rental advertisements and related services accessed on ApartmentGuide.com or through its tools, applications or services are procured and provided by RentPath and its subsidiaries and affiliates (collectively, “Apartment Guide” or “we”, “our” or “us”).
 
@@ -102,33 +92,37 @@ We or our service providers may place cookies or web beacons on your device when
 
 We may use third-party advertising companies to serve ads on our and our advertising partners’ behalf. These companies may employ cookies and web beacons to deliver advertising and measure its effectiveness. Any information that these third parties collect via cookies and web beacons is completely anonymous.
 
-### 7\. Third Parties.
+### 7\. Opting Out of Collection of Information by our Service Providers.
+
+As noted above, we or our service providers (e.g., data management platforms, third-party ad servers, ad network providers, or third-party advertisers) may provide you with advertisements that you see on the Sites or other websites. To help deliver these advertisements and improve the overall consumer experience, we or our service providers may employ cookies, clear gifs, web beacons or similar technologies. These technologies may record your activity, and are helpful to understand what types of information or advertisements are most useful for a user. To learn more about your ability to opt out of certain of these technologies and for other information, please visit, the [Digital Advertising Alliance](https://digitaladvertisingalliance.org/) and the [Network Advertising Initiative](http://www.networkadvertising.org/).
+
+### 8\. Renters, Properties, External Websites and other Third Parties.
 
 Except as otherwise expressly included herein, this Privacy Policy addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are renters, properties or other websites, different rules may apply to their use or disclosure of the information you disclose to them. We do not control the privacy policies of third parties. We encourage you to ask questions before you disclose your personal information to others.
 
 The Sites have links to other websites that may collect personal information about you. We are not responsible for the privacy practices or the content of those linked websites.
 
-### 8\. Account Protection.
+### 9\. Account Protection.
 
 Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your ApartmentGuide.com password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify Apartment Guide and change your password.
 
-### 9\. Security.
+### 10\. Security.
 
 Your information (other than credit card information) is stored on our servers located in the United States. We treat data as an asset that must be protected and use many tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from ApartmentGuide.com. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-### 10\. Minors.
+### 11\. Minors.
 
 The Sites are intended solely for use by persons 13 years of age or older. If you are under the age of 13, you may not use the Sites or other services, or contribute any information to us.
 
-### 11\. Notice to California Residents.
+### 12\. Notice to California Residents.
 
 If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by us to third parties for the third parties’ direct marketing purposes. To make such a request, please send an email to [privacy@rentpath.com](mailto:privacy@rentpath.com).
 
-### 12\. General.
+### 13\. General.
 
 We may amend this Privacy Policy at any time by posting the amended terms on ApartmentGuide.com. Amended terms take effect upon acceptance for new users and 10 days after they are posted on ApartmentGuide.com for all other users. Your continued use of the Sites constitutes acceptance of any new terms.
 
-### 13\. Questions.
+### 14\. Questions.
 
 Questions regarding this policy should be directed to the following address:
 
@@ -144,4 +138,4 @@ Atlanta, GA 30326
 
 or via email to [privacy@rentpath.com](mailto:privacy@rentpath.com).
 
-Last updated May 22, 2018.
+Last updated Aug 14, 2018.
