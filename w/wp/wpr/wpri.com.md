@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpri.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618040509id_/http%3A//www.wpri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpri.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207141847id_/https%3A//www.wpri.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WPRI 12 Eyewitness News - WPRI.com - WPRI
+# Privacy Policy | WPRI 12 Eyewitness News - WPRI.com
 
 **Updated: November 06, 2017**
 
