@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the steamskins.org privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430024347id_/http%3A//steamskins.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamskins.org privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207152127id_/http%3A//steamskins.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Steam Skins
+# Privacy Policy - Steam Skins
 
 This privacy policy sets out how steamskins.org uses and protects any information that you give steamskins.org when you use this website.
 
