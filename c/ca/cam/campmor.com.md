@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campmor.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007082945id_/https%3A//www.campmor.com/CustomerServiceContent_____privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campmor.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207172141id_/https%3A//www.campmor.com/CustomerServiceContent_____privacypolicy) for the most accurate reproduction.*
 
 # Campmor: Customer Service Privacy Policy
 
