@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the list-gigantic.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605124058id_/http%3A//list-gigantic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the list-gigantic.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207171413id_/http%3A//list-gigantic.com/privacy.php) for the most accurate reproduction.*
 
-# List Gigantic - Your Solution To a Gigantic List!
+# List Gigantic - Gmail List Builder | Instant PayPal Commissions | List Building | Email Advertising | Safelist | Gmail Emails | Viral List Builder | Gmail Addresses | Online Traffic
 
-[](http://list-gigantic.com/bannerclick.php?id=980)  
+  
+[](http://list-gigantic.com/bannerclick.php?id=968)  
 
 
 List Gigantic Privacy Policy
