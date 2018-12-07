@@ -1,7 +1,14 @@
-<!--The following is the downloaded HTML source of the chineselaundry.com privacy policy that was archived on 2018-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180608024100id_/http%3A//www.chineselaundry.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chineselaundry.com privacy policy that was archived on 2018-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181207142414id_/http%3A//www.chineselaundry.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
+
+
+
+
+
+
+
 
 
 
@@ -88,7 +95,7 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<script type="text/javascript" async="" src="https://js.bronto.com/c/clcbcwrdszhpu49ug371ioa9td3azeeagqq7vewx6uct9nvuw0/ad5c8c237994de364b2f915f689581df555b08d639cf53e7a841205aa3bc993a/s/b.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5ZLN5Q"></script><script type="text/javascript" async="" src="https://js.bronto.com/c/clcbcwrdszhpu49ug371ioa9td3azeeagqq7vewx6uct9nvuw0/ad5c8c237994de364b2f915f689581df555b08d639cf53e7a841205aa3bc993a/s/b.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://js.bronto.com/c/clcbcwrdszhpu49ug371ioa9td3azeeagqq7vewx6uct9nvuw0/ad5c8c237994de364b2f915f689581df555b08d639cf53e7a841205aa3bc993a/s/b.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5ZLN5Q"></script><script id="scarab-js-api" src="https://recommender.scarabresearch.com/js/18579F51D4A3DAB8/scarab-v2.js"></script><script type="text/javascript" async="" src="https://js.bronto.com/c/clcbcwrdszhpu49ug371ioa9td3azeeagqq7vewx6uct9nvuw0/ad5c8c237994de364b2f915f689581df555b08d639cf53e7a841205aa3bc993a/s/b.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">
 WebFontConfig = {
 google: { families: [ 'Lato:300,400,700,400italic,400italic:latin' ] }
 };
@@ -123,10 +130,10 @@ _bsw.push(['_bswId', 'ad5c8c237994de364b2f915f689581df555b08d639cf53e7a841205aa3
 
 
 
-<link href="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/js/lib/html5.js"></script>
 <![endif]-->
 
 <script type="text/javascript">//<!--
@@ -143,7 +150,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -189,6 +202,33 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
@@ -199,7 +239,7 @@ CQuotient.getCQUserId = function () {
 
 
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/css/style.min.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/css/style.min.css">
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
@@ -241,6 +281,22 @@ window.location.reload();
 
 
 
+	
+	<script type="text/javascript">
+	var ScarabQueue = ScarabQueue || [];
+	(function(subdomain, id) {
+	  if (document.getElementById(id)) return;
+	  var js = document.createElement('script'); js.id = id;
+	  js.src = subdomain + '.scarabresearch.com/js/18579F51D4A3DAB8/scarab-v2.js';
+	  var fs = document.getElementsByTagName('script')[0];
+	  fs.parentNode.insertBefore(js, fs);
+	})('https:' == document.location.protocol ? 'https://recommender' : 'http://cdn', 'scarab-js-api');
+	</script>
+
+
+
+
+
 
 
 
@@ -250,7 +306,7 @@ window.location.reload();
 
 
 <script>
-dataLayer = [{"demandwareID":"abPa1xeBG30CGk75wVh9XVqTFW","loggedInState":false,"pageLanguage":"en_US"},{}];
+dataLayer = [{"demandwareID":"acPy1irdcrWVQyJaj4Vk71qYlL","loggedInState":false,"pageLanguage":"en_US"},{}];
 </script>
 <!-- Google Tag Manager -->
 <noscript>
@@ -342,6 +398,13 @@ dataLayer = [{"demandwareID":"abPa1xeBG30CGk75wVh9XVqTFW","loggedInState":false,
 
 
 
+
+
+
+
+
+
+
 <div class="header-banner">
 
 	 
@@ -352,7 +415,7 @@ dataLayer = [{"demandwareID":"abPa1xeBG30CGk75wVh9XVqTFW","loggedInState":false,
 <div class="html-slot-container">
 
 
-<div class="header-promotion"><strong>Extra 20% Off All Sale. </strong>Ends 6/7/18. Use Code: EXTRA20 &nbsp;|&nbsp; <strong>FREE SHIPPING</strong> ON ORDERS OF $50+</div>
+<div class="header-promotion"><strong>Extra 25% Off Sale.</strong> Ends 12/7/18. Use Code: EXTRA25 &nbsp;|&nbsp; plus <strong>FREE SHIPPING</strong> ON ORDERS OF $50+</div>
 
 
 </div> 
@@ -482,17 +545,38 @@ dataLayer = [{"demandwareID":"abPa1xeBG30CGk75wVh9XVqTFW","loggedInState":false,
 
 
 
+
+
+
+
+
+
+
 <ul class="menu-category level-1">
 
 
 <li tabindex="9">
 
 
+<a class="" href="https://www.chineselaundry.com/womens-shoes/new-styles/">
+New
+</a>
+
+
+
+
+
+
+</li>
+
+<li tabindex="10">
+
+
 <i class="menu-item-toggle fa fa-angle-right"></i>
 
 
-<a class="has-sub-menu" href="https://www.chineselaundry.com/womens-shoes/new-styles/">
-New
+<a class="has-sub-menu" href="https://www.chineselaundry.com/shop/trends/">
+Trends
 </a>
 
 
@@ -506,8 +590,88 @@ New
 
 
 <li>
-<a href="https://www.chineselaundry.com/shop/new/pre-order/">
-Pre-Order
+<a href="https://www.chineselaundry.com/shop/trends/jamie-kidd-edit/">
+Jamie Kidd Edit
+</a>
+
+
+</li>
+
+<li>
+<a href="https://www.chineselaundry.com/shop/trends/quigley-edit/">
+Quigley Edit
+</a>
+
+
+</li>
+
+<li>
+<a href="https://www.chineselaundry.com/shop/trends/animal-print/">
+Animal Print
+</a>
+
+
+</li>
+
+<li>
+<a href="https://www.chineselaundry.com/shop/trends/best-sellers/">
+Best Sellers
+</a>
+
+
+</li>
+
+<li>
+<a href="https://www.chineselaundry.com/shop/trends/back-to-basics/">
+Back to Basics
+</a>
+
+
+</li>
+
+<li>
+<a href="https://www.chineselaundry.com/bridal-shoes/">
+Wedding
+</a>
+
+
+</li>
+
+<li>
+<a href="https://www.chineselaundry.com/shop/trends/block-heels/">
+Block Heels
+</a>
+
+
+</li>
+
+<li>
+<a href="https://www.chineselaundry.com/shop/trends/espadrilles/">
+Espadrilles
+</a>
+
+
+</li>
+
+<li>
+<a href="https://www.chineselaundry.com/shop/trends/slides-and-mules/">
+Slides &amp; Mules
+</a>
+
+
+</li>
+
+<li>
+<a href="https://www.chineselaundry.com/shop/trends/festival/">
+Festival
+</a>
+
+
+</li>
+
+<li>
+<a href="https://www.chineselaundry.com/shop/trends/last-days-of-summer/">
+Last Days of Summer
 </a>
 
 
@@ -520,7 +684,7 @@ Pre-Order
 
 </li>
 
-<li tabindex="10">
+<li tabindex="11">
 
 
 <i class="menu-item-toggle fa fa-angle-right"></i>
@@ -577,7 +741,7 @@ Kristin Cavallari
 
 </li>
 
-<li tabindex="11">
+<li tabindex="12">
 
 
 <i class="menu-item-toggle fa fa-angle-right"></i>
@@ -654,6 +818,14 @@ Peep Toe
 </li>
 
 <li>
+<a href="https://www.chineselaundry.com/shop/boots-and-booties/lace-up/">
+Lace Up
+</a>
+
+
+</li>
+
+<li>
 <a href="https://www.chineselaundry.com/womens-shoes/rain-and-winter-boots/">
 Rain &amp; Winter
 </a>
@@ -690,7 +862,7 @@ Western Inspired
 		
 	</div>
 	<div style="float: top; float: right; width:60%;">
-		<img style="max-width:100%" alt="Shop Boots and Booties" src="http://www.chineselaundry.com/on/demandware.static/-/Sites-cl-storefront/default/dwf025be69/Boots_dropdown_0318.jpg" title="Shop Boots and Booties">
+		<img style="max-width:100%" alt="Shop Boots and Booties" src="http://www.chineselaundry.com/on/demandware.static/-/Sites-cl-storefront/default/dw71773ebd/Boots_dropdown-072518.jpg" title="Shop Boots and Booties">
 	</div>
 </div></div>
 
@@ -699,7 +871,7 @@ Western Inspired
 
 </li>
 
-<li tabindex="12">
+<li tabindex="13">
 
 
 <i class="menu-item-toggle fa fa-angle-right"></i>
@@ -790,7 +962,7 @@ Block Heels
 		
 	</div>
 	<div style="float: top; float: right; width:60%;">
-		<img style="max-width:100%" alt="Shop Heels" src="http://www.chineselaundry.com/on/demandware.static/-/Sites-cl-storefront/default/dwc464f790/Heels_dropdown_0318.jpg" title="Shop Heels">
+		<img style="max-width:100%" alt="Shop Heels" src="http://www.chineselaundry.com/on/demandware.static/-/Sites-cl-storefront/default/dw019762c0/Heels_dropdown_080718.jpg" title="Shop Heels">
 	</div>
 </div></div>
 
@@ -799,7 +971,7 @@ Block Heels
 
 </li>
 
-<li tabindex="13">
+<li tabindex="14">
 
 
 <i class="menu-item-toggle fa fa-angle-right"></i>
@@ -890,7 +1062,7 @@ d'Orsay
 		
 	</div>
 	<div style="float: top; float: right; width:60%;">
-		<img style="max-width:100%" alt="Shop Flats" src="http://www.chineselaundry.com/on/demandware.static/-/Sites-cl-storefront/default/dwc9653105/Flats_dropdown_0318.jpg" title="Shop Flats">
+		<img style="max-width:100%" alt="Shop Flats" src="http://www.chineselaundry.com/on/demandware.static/-/Sites-cl-storefront/default/dw4ebeb500/Flats_dropdown-072518.jpg" title="Shop Flats">
 	</div>
 </div></div>
 
@@ -899,7 +1071,7 @@ d'Orsay
 
 </li>
 
-<li tabindex="14">
+<li tabindex="15">
 
 
 <i class="menu-item-toggle fa fa-angle-right"></i>
@@ -988,7 +1160,7 @@ Platform
 		
 	</div>
 	<div style="float: top; float: right; width:60%;">
-		<img style="max-width:100%" alt="Shop Sandals" src="http://www.chineselaundry.com/on/demandware.static/-/Sites-cl-storefront/default/dweaa38ee0/Sandals_dropdown_0318.jpg" title="Shop Sandals">
+		<img style="max-width:100%" alt="Shop Sandals" src="http://www.chineselaundry.com/on/demandware.static/-/Sites-cl-storefront/default/dwc5a7610c/Sandals_dropdown-072518.jpg" title="Shop Sandals">
 	</div>
 </div></div>
 
@@ -997,7 +1169,7 @@ Platform
 
 </li>
 
-<li tabindex="15">
+<li tabindex="16">
 
 
 <i class="menu-item-toggle fa fa-angle-right"></i>
@@ -1175,7 +1347,7 @@ Ankle Strap
 
 </li>
 
-<li tabindex="16">
+<li tabindex="17">
 
 
 <i class="menu-item-toggle fa fa-angle-right"></i>
@@ -1259,89 +1431,6 @@ Wedges
 
 </li>
 
-<li tabindex="17">
-
-
-<i class="menu-item-toggle fa fa-angle-right"></i>
-
-
-<a class="has-sub-menu" href="https://www.chineselaundry.com/shop/trends/">
-Trends
-</a>
-
-
-
-
-
-<div class="level-2">
-<ul class="menu-vertical">
-
-<h3>Style</h3>
-
-
-<li>
-<a href="https://www.chineselaundry.com/shop/trends/espadrilles/">
-Espadrilles
-</a>
-
-
-</li>
-
-<li>
-<a href="https://www.chineselaundry.com/shop/trends/festival/">
-Festival
-</a>
-
-
-</li>
-
-<li>
-<a href="https://www.chineselaundry.com/shop/trends/slides-and-mules/">
-Slides &amp; Mules
-</a>
-
-
-</li>
-
-<li>
-<a href="https://www.chineselaundry.com/shop/trends/block-heels/">
-Block Heels
-</a>
-
-
-</li>
-
-<li>
-<a href="https://www.chineselaundry.com/shop/trends/best-sellers/">
-Best Sellers
-</a>
-
-
-</li>
-
-<li>
-<a href="https://www.chineselaundry.com/shop/trends/back-to-basics/">
-Back to Basics
-</a>
-
-
-</li>
-
-<li>
-<a href="https://www.chineselaundry.com/bridal-shoes/">
-Bridal
-</a>
-
-
-</li>
-
-</ul>
-
-</div>
-
-
-</li>
-
 </ul>
 
 
@@ -1382,6 +1471,14 @@ Bridal
 </nav>
 
 <div id="mini-cart">
+
+
+
+
+
+
+
+
 
 
 
@@ -1785,6 +1882,13 @@ Los Angeles, CA&nbsp; 90016<br>
 
 
 
+
+
+
+
+
+
+
 <footer>
 <div class="footer-top clearfix">
 <div class="footer-top-inner">
@@ -1877,6 +1981,9 @@ Los Angeles, CA&nbsp; 90016<br>
                 <li><a href="http://www.chineselaundry.com/faqs.html" title="Go to FAQ's">FAQs</a></li>
                 <li><a href="http://www.chineselaundry.com/shipping.html" title="Go to Shipping Information">Shipping Information</a></li>
                 <li><a href="http://www.chineselaundry.com/returns.html" title="Go to Returns &amp; Exchanges">Returns &amp; Exchanges</a></li>
+<li><a href="http://www.chineselaundry.com/what-is-afterpay.html" title="Go to AfterPay Information">Afterpay</a></li>
+
+                <li><a href="http://www.chineselaundry.com/licensing-information.html" title="Go to Licensing Inquiries">Licensing/ International Inquiries</a></li>
 <!--li><a href="http://www.chineselaundry.com/womens-shoes/booties/?srule=best-sellers" title="">Demo Sort</a></li-->
                 </ul><!-- END: footer_support -->
 </div> <!-- End content-asset -->
@@ -2005,7 +2112,7 @@ var bizrate={small:"true"};
 
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="50cfe3ba99a0ac9246edcef623" -->
-<div class="copyright">© 2010-2017 Chinese Laundry Lifestyle, LLC. All Rights Reserved</div>
+<div class="copyright">© 2010-2018 Chinese Laundry Lifestyle, LLC. All Rights Reserved</div>
 </div> <!-- End content-asset -->
 
 
@@ -2068,10 +2175,10 @@ var bizrate={small:"true"};
 
 
 <!--[if gte IE 9 | !IE]><!-->
-<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <!--<![endif]-->
 <!--[if lte IE 8]>
-<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -2079,39 +2186,48 @@ var bizrate={small:"true"};
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
 <![endif]-->
-<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
 
-<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/lib/svg4everybody.min.js"></script>
+<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/lib/svg4everybody.min.js"></script>
 
-<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/lib/slick/slick.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/lib/slick/slick.min.js" type="text/javascript"></script>
 
-<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/lib/jquery/jquery.zoom.min.js"></script>
-<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/lib/jquery/jquery.sticky-kit.min.js"></script>
-<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/lib/jquery/picturefill.min.js"></script>
+<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/lib/jquery/jquery.zoom.min.js"></script>
+<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/lib/jquery/jquery.sticky-kit.min.js"></script>
+<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/lib/jquery/picturefill.min.js"></script>
 <script type="text/javascript">
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Lets make sure you're not a robot","IM_NOT":"I'm not!","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search Here","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Submit Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","VALIDATE_ADDRESS":"We are unable to ship to a Post Office Box. Please provide a different shipping address.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-chineseLaundry-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-chineseLaundry-Site/default/Page-Include","continueUrl":"http://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/Page-Show/C2037959477","staticPath":"/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/","addGiftCert":"/on/demandware.store/Sites-chineseLaundry-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-chineseLaundry-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-chineseLaundry-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-chineseLaundry-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.chineselaundry.com/saved-cards","addressesList":"https://www.chineselaundry.com/addressbook","wishlistAddress":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-chineseLaundry-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-chineseLaundry-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-chineseLaundry-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-chineseLaundry-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-chineseLaundry-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-chineseLaundry-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-chineseLaundry-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-chineseLaundry-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-chineseLaundry-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-chineseLaundry-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-chineseLaundry-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-chineseLaundry-Site/default/COBilling-ResetPaymentForms","compareShow":"/compare","compareAdd":"/on/demandware.store/Sites-chineseLaundry-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-chineseLaundry-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-chineseLaundry-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-chineseLaundry-Site/default/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-chineseLaundry-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-chineseLaundry-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-chineseLaundry-Site/default/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-chineseLaundry-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-chineseLaundry-Site/default/StoreInventory-GetZipCode","billing":"/billing","setSessionCurrency":"/on/demandware.store/Sites-chineseLaundry-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-chineseLaundry-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-chineseLaundry-Site/default/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-chineseLaundry-Site/default/CSRF-Failed","brontoCartRecovery":"/on/demandware.store/Sites-chineseLaundry-Site/default/BrontoViews-CartRecovery","getTurnToItemData":"/on/demandware.store/Sites-chineseLaundry-Site/default/TurnTo-GetItemData","getMiniCheckoutAddress":"/on/demandware.store/Sites-chineseLaundry-Site/default/COBilling-GetMiniCheckoutAddress","brontoOptInFooter":"/on/demandware.store/Sites-chineseLaundry-Site/default/BrontoOptIn-Footer","intCheckoutSuccess":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/InternationalCheckout-Success","updateMiniCart":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/InternationalCheckout-MiniCart"};
-window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false};
-window.User = {"zip":null,"storeId":null,"geolocation":{"city":"Paris","countryCode":"FR","countryName":"France","latitude":48.8412,"longitude":2.3876,"postalCode":"75012","regionCode":"75","regionName":"Paris"}};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Lets make sure you're not a robot","IM_NOT":"I'm not!","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search Here","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Submit Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","CONTINUE_PLACEORDER":"Continue To Place Order","CONTINUE_AFTERPAY":"Continue To Afterpay","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","VALIDATE_ADDRESS":"We are unable to ship to a Post Office Box. Please provide a different shipping address.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity.","SHOW_ACTIONS":"operations.show.actions","HIDE_ACTIONS":"operations.hide.actions","CHOOSE_ACTIONS":"operations.actions","CHOOSE_ORDERS":"operations.orders","TRANSACTION_SUCCESS":"transaction.success","TRANSACTION_FAILED":"transaction.failed","BULK_AUTHORIZE_FAILED":"bulk.authorize.failed","TRANSACTION_PROCESSING":"operations.wait","INVALID_COMPLETE_AMOUNT":"complete.amount.validation","INVALID_REFUND_AMOUNT":"refund.amount.validation","MAXIMUM_REFUND_AMOUNT":"maximum.refund.amount","MAXIMUM_COMPLETE_AMOUNT":"maximum.complete.amount"};
+window.Urls = {"appResources":"/on/demandware.store/Sites-chineseLaundry-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-chineseLaundry-Site/default/Page-Include","continueUrl":"http://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/Page-Show/C1496947516","staticPath":"/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/","addGiftCert":"/on/demandware.store/Sites-chineseLaundry-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-chineseLaundry-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-chineseLaundry-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-chineseLaundry-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.chineselaundry.com/saved-cards","addressesList":"https://www.chineselaundry.com/addressbook","wishlistAddress":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-chineseLaundry-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-chineseLaundry-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-chineseLaundry-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-chineseLaundry-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-chineseLaundry-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-chineseLaundry-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-chineseLaundry-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-chineseLaundry-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-chineseLaundry-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-chineseLaundry-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-chineseLaundry-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-chineseLaundry-Site/default/COBilling-ResetPaymentForms","compareShow":"/compare","compareAdd":"/on/demandware.store/Sites-chineseLaundry-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-chineseLaundry-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-chineseLaundry-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-chineseLaundry-Site/default/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-chineseLaundry-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-chineseLaundry-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-chineseLaundry-Site/default/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-chineseLaundry-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-chineseLaundry-Site/default/StoreInventory-GetZipCode","billing":"/billing","setSessionCurrency":"/on/demandware.store/Sites-chineseLaundry-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-chineseLaundry-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-chineseLaundry-Site/default/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-chineseLaundry-Site/default/CSRF-Failed","brontoCartRecovery":"/on/demandware.store/Sites-chineseLaundry-Site/default/BrontoViews-CartRecovery","getTurnToItemData":"/on/demandware.store/Sites-chineseLaundry-Site/default/TurnTo-GetItemData","getMiniCheckoutAddress":"/on/demandware.store/Sites-chineseLaundry-Site/default/COBilling-GetMiniCheckoutAddress","brontoOptInFooter":"/on/demandware.store/Sites-chineseLaundry-Site/default/BrontoOptIn-Footer","intCheckoutSuccess":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/InternationalCheckout-Success","updateMiniCart":"https://www.chineselaundry.com/on/demandware.store/Sites-chineseLaundry-Site/default/InternationalCheckout-MiniCart","operationActions":"/on/demandware.store/Sites-chineseLaundry-Site/default/Operations-Action"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false,"AFTERPAY_PORTAL":"https://portal.afterpay.com/afterpay.js"};
+window.User = {"zip":null,"storeId":null,"geolocation":{"city":"Ashburn","countryCode":"US","countryName":"United States","latitude":39.018,"longitude":-77.539,"postalCode":"20147","regionCode":"VA","regionName":"Virginia"}};
 window.Scripts = {"useMin":false,"storeLocator":{"vars":{"zoomradius":"{\"0\": 600000,\"1\": 600000,\"2\": 10000,\"3\": 6000,\"4\": 3000,\"5\": 1600,\"6\": 800,\"7\": 300,\"8\": 150,\"9\": 100,\"10\": 70,\"11\": 40,\"12\": 20,\"13\": 10,\"14\": 5,\"15\": 3,\"16\": 3,\"17\": 3,\"18\": 3,\"19\": 3,\"20\": 3}","storeurl":"/on/demandware.store/Sites-chineseLaundry-Site/default/Stores-Details?StoreID=","markerurl":"http://www.chineselaundry.com/on/demandware.static/Sites-chineseLaundry-Site/-/default/dw5b62c13d/images/marker.png","markerdetailurl":"http://www.chineselaundry.com/on/demandware.static/Sites-chineseLaundry-Site/-/default/dwdf7576ef/images/markerdetail.png","queryurl":"/on/demandware.store/Sites-chineseLaundry-Site/default/Stores-GetNearestStores","cookieurl":"/on/demandware.store/Sites-chineseLaundry-Site/default/Stores-SetGeoLocation","cookiename":"LEACustomerLocation","defaultlocation":"United States","maptype":"HYBRID"}}};
 }());
 </script>
 <script type="text/javascript">
 
 (function(){
-window.SessionAttributes = {"SHOW_CAPTCHA":false};
+window.SessionAttributes = {"SHOW_CAPTCHA":null};
 window.User = {"zip":null,"storeId":null};
 }());
 </script>
 
+<script type="text/javascript">
+
+(function(){
+window.EmarsysUrls = {"footerSubscription":"/on/demandware.store/Sites-chineseLaundry-Site/default/EmarsysNewsletter-FooterSubscription","emarsysSignup":"/on/demandware.store/Sites-chineseLaundry-Site/default/EmarsysNewsletter-Signup","thankYouPage":"/on/demandware.store/Sites-chineseLaundry-Site/default/EmarsysNewsletter-ThankYouPage","alreadyRegisteredPage":"/on/demandware.store/Sites-chineseLaundry-Site/default/EmarsysNewsletter-AlreadyRegisteredPage","dataSubmittedPage":"/on/demandware.store/Sites-chineseLaundry-Site/default/EmarsysNewsletter-DataSubmittedPage","errorPage":"/on/demandware.store/Sites-chineseLaundry-Site/default/EmarsysNewsletter-ErrorPage","emarsysDisabledPage":"/on/demandware.store/Sites-chineseLaundry-Site/default/EmarsysNewsletter-EmarsysDisabledTemplate","emarsysAddToCartAjax":"/on/demandware.store/Sites-chineseLaundry-Site/default/Predict-ReturnCartObject"};
+window.EmarsysResources = {"privacyBeforeLink":"I have read the","privacyAfterLink":"and I agree","privacyErrorMessage":"global.privacy.errormessage","accountexists":"You are already registered","accountcreated":"Thank you for subscribing","submitted":"Shortly you should receive an email with confirmation link","error":"Subscription error","disabled":"Subscriptions are currently disabled.","signup":"Please, sign up"};
+window.EmarsysPreferences = {"enabled":true,"trackingJsEnabled":true};
+}());</script>
 
 
 
-<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/js/app.min.js"></script>
+
+
+<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/js/app.min.js"></script>
 
 
 
@@ -2120,6 +2236,31 @@ window.User = {"zip":null,"storeId":null};
 var meta = "Read our Privacy Policy to  learn what information we use, when we use it, why, &amp; what we do to protect your information. ChineseLaundry.com";
 var keywords = "Privacy Policy";
 </script>
+
+
+    
+    <script type="text/javascript">
+        ScarabQueue.push(['availabilityZone', 'default']);
+    </script>
+
+    
+    
+
+    
+        
+<script type="text/javascript">
+    ScarabQueue.push(['cart', []]);
+</script>
+
+    
+
+    
+    <script type="text/javascript">
+        ScarabQueue.push(['go']);
+    </script>
+
+
+
 
 
 
@@ -2142,9 +2283,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1528354843920/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-chineseLaundry-Site/-/default/v1544169650120/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
