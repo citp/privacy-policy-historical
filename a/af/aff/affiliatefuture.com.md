@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatefuture.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607084500id_/http%3A//affiliatefuture.com/Legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatefuture.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207185906id_/http%3A//www.affiliatefuture.com/Legal/privacy) for the most accurate reproduction.*
 
 # Affiliate Future privacy statement
 
