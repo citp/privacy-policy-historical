@@ -1,24 +1,18 @@
-> *The following text is extracted and transformed from the engagedforums.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907224918id_/http%3A//www.mzinga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engagedforums.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207193331id_/http%3A//mzinga.com/privacy) for the most accurate reproduction.*
 
-# Mzinga Privacy - Mzinga
+# Privacy - OmniSocial Learning
 
-**Privacy Policy**
+**Mzinga Privacy Policy**
 
-**WHO WE ARE AND WHAT THIS IS**
+Mzinga provides on-demand social intelligence solutions and services in the learning, marketing, and customer experience markets. We take the private nature of your personal information very seriously, and are committed to protecting it. To that end, we’ve set up procedures to ensure that your information is handled responsibly and in accordance with applicable data protection and privacy laws.
 
-Mzinga provides on-demand social intelligence solutions and services in the learning, marketing, and customer experience markets.
+Our privacy policy is designed to assist you in understanding how we collect and use personally identifiable information “Personal Information” that you provide to us and to assist you in making informed decisions when using our websites and services (collectively, “Mzinga” or “Website”)
 
-We take the private nature of your personal information very seriously, and are committed to protecting it. To that end, we’ve set up procedures to ensure that your information is handled responsibly and in accordance with applicable data protection and privacy laws.
+Mzinga complies with the E.U.-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Mzinga has certified that it adheres to the Privacy Shield principals.  If there is any conflict between the terms in the privacy policy and the Privacy Shield Principals, the Privacy Shield principals shall govern.  To learn more about the Privacy Shield program, please visit:  [_www.privacyshield.gov_](http://www.privacyshield.gov/)
 
 **“Personal information”** is any information that can be used to identify an individual. It does not include personal information that is encoded or anonymized, or publicly available information that has not been combined with non-public information.
 
-This privacy policy describes what information we collect when you visit Mzinga, how we use that information, and what choices we offer you to access, update, and control it. This version of the policy is effective as of May 10, 2013.
-
-**SAFE HARBOR OVERVIEW**
-
-Mzinga complies with the principles of the Safe Harbor Framework developed by the U.S. Department of Commerce in consultation with the European Commission and the Federal Data Protection and Information Commissioner of Switzerland, except where limited by any legal, regulatory, ethical or public interest considerations. More information about the principles that make up the Framework, as well as other frequently asked questions relating to Safe Harbor can be found at: <http://www.export.gov/safeharbor>.
-
-In accordance with our commitment to protect personal privacy, Mzinga adheres to the principles of the Safe Harbor Framework as developed by the U.S. Department of Commerce in consultation with the European Commission. The seven principles and Frequently Asked Questions (FAQs) referred to in this policy compose Safe Harbor privacy framework. These principles and FAQs may be found at: <http://www.export.gov/safeharbor>.
+This privacy policy describes what information we collect when you visit Mzinga, how we use that information, and what choices we offer you to access, update, and control it.
 
 **INFORMATION COLLECTION**
 
@@ -38,7 +32,7 @@ The types of personal data typically collected by Mzinga may include the followi
 
 Contact information, including name, title, street address (home, work), postal code, country, telephone numbers (home, work, cell, etc.), email address (home, work), company name, and other similar information.
 
-Personal/demographic information, e.g.  gender, or level of education.
+Personal/demographic information, e.g. gender, or level of education.
 
 Transactional information, including products or services you inquire about, or request.
 
@@ -47,6 +41,12 @@ User content, including information provided when you use one of our online comm
 **INFORMATION YOU CHOOSE TO DISPLAY PUBLICLY**
 
 Some users may elect to publicly post personally identifying or sensitive information about themselves in their normal use of our communities. This could occur through use of the optional profile fields, in interactions or on public discussion boards. Information like that, which is voluntarily posted in publicly visible areas, is considered to be public, even if it would otherwise be considered to be personally identifying or sensitive. As such, it is not subject to the protocols listed below, because we don’t control it; you do. Additionally, voluntarily publicizing such information means that you lose any privacy rights you might normally have with regards to that information. It may also increase your chances of receiving unwanted communications, like spam.
+
+**RIGHTS TO OPT IN/OPT OUT**
+
+You have the right to “opt in” and/or “opt out” of certain of our uses of your Personal Information.  For example, you may have the opportunity to elect whether you would like to receive correspondence from us.  You will have the opportunity to opt out of Mzinga’s promotional e-mail by client the “opt out” or “unsubscribe” link in the email you receive or clicking on [Our Unsubscribe Link](http://www2.mzinga.com/unsubscribe/u/5212). You can also request this by sending an email to [privacy@mzinga.com](mailto:privacy@mzinga.com), specifying whether: i) you would like to opt out of receiving promotional correspondence from Mzinga in general, or just via-email, postal mail and/or by phone, and or/whether ii) you would only like to opt out of a certain of Mzinga’s correspondence.
+
+Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications from us.
 
 **HOW WE USE INFORMATION WE COLLECT**
 
@@ -68,48 +68,42 @@ If you are a registered user of Mzinga and have supplied your email address, we 
 
 Notice will be provided in clear and conspicuous language when you are first asked to provide us with personal information, or as soon as practicable thereafter, and we’ll notify you before we use the information for something other than the purpose for which it was originally collected. If anything in this policy seems unclear, please don’t hesitate to contact us at [privacy@mzinga.com](mailto:privacy@mzinga.com), so we can address your question and possibly clarify this document.
 
-  **ONWARD TRANSFER**
-
-Prior to providing agents with any personal information, we will obtain assurances that they will safeguard it in accordance with this policy. Examples of assurances that may be provided include:
-
-  * A commitment that they will handle the information in accordance with this policy, or will provide the same level of protection, as required by the Safe Harbor Principles, subject to EU Directive 95/46/EC (“the EU Data Protection Directive”);
-  * Safe Harbor certification by the agent, or being subject to another European Commission adequacy finding.
-
-
-
-In the unlikely event that we should discover that an agent is using personal information in a way that conflicts with this policy, we will take all reasonable steps to stop them immediately.
-
 **SECURITY**
 
- Mzinga takes appropriate steps to protect personal data from loss, misuse, unauthorized access, or destruction, whether in transmission or storage.
+Mzinga takes appropriate steps to protect personal data from loss, misuse, unauthorized access, or destruction, whether in transmission or storage, using commercially reasonable and industry-standard safeguards.
 
 All such electronic information is stored on restricted database servers. We only disclose such information to our employees, contractors or partners that a) need to know that information in order to process it for us or to provide other services, and b) have agreed not to disclose it to others.
 
-Please keep in mind, however, there is no such thing as perfect security, and no Internet transmission is ever completely secure or error-free.  Moreover, you are responsible for maintaining the confidentiality of any user name or password you use.
+Please keep in mind, however, there is no such thing as perfect security.  Although we are committed to protecting your personal information, due to the inherent nature of the Internet as an open global communication vehicle, Mzinga cannot guarantee or warrant information, during transmission through the Internet or while stored on our systems or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers.
 
-**COPPA REQUIREMENTS**
+**PRIVACY OF MINORS**
 
-We do not intentionally gather personal information about visitors who are under 13 years of age.
+We do not intentionally gather personal information about visitors who are under 13 years of age.  If we become aware that we have inadvertently received Personal Information from a visitor under the age of thirteen on our Website, we will delete the information from our records.
 
-**ACCESS**
+** ** **ACCESS AND CORRECTION RIGHTS**
 
-Upon request, we will provide you with reasonable access to the personal information we collect about you. Because personal information—for example, your email address—is required to use our products, we retain personal information as long as your account is active. You will have the opportunity to correct, update, modify or delete this information updating your information in the systems of record. Please note that some information may remain in our records even after you request deletion of your information as permitted by the Safe Harbor Principles. Additionally, there may be limits to the amount of information we can practically provide. For example, we may limit an individual’s access to personal information where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy or where doing so would violate others’ rights.
+You retain the right to submit and correct your Personal Information by contacting your organization or Mzinga at [privacy@mzinga.com](mailto:privacy@mzinga.com)
 
-**ENFORCEMENT AND CONTACT INFORMATION**
+**PRIVACY SHIELD OVERVIEW**
 
- We will conduct internal audits of our compliance with this privacy policy, including an annual self-assessment.
+Mzinga complies with the principles of the E.U.-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Mzinga has self-certified that it adheres to the Privacy Shield principals.  If there is any conflict between the terms in the privacy policy and the Privacy Shield Principals, the Privacy Shield principals shall govern.  To learn more about the Privacy Shield program, please visit:  [_www.privacyshield.gov_](http://www.privacyshield.gov/)
 
-If you have any questions or concerns about this policy or about how you think Mzinga has handled your personal information, please contact [privacy@mzinga.com](mailto:privacy@mzinga.com).
+In compliance with the Privacy Shield Principles, Mzinga commits to resolve complaints about our collection or use of your personal information.  Any data subject who has a complaint about the processing of his/her Personal data should first contact Mzinga’s at [privacy@mzinga.com](mailto:privacy@mzinga.com)  Written inquiries may be sent to: Mzinga, Inc,  10 Burlington, Mall Rd, Suite 111, Burlington, MA 01803, USA and Attention: Privacy Policy.
 
-Written Inquiries can be sent to:
+Mzinga has further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved Privacy shield complaints.  If you do not receive timely acknowledgement of your complaint from us, or if we have not addressed your complaint to your satisfactions, please contact the EU DPAs for more information or to file a complaint.  The services of ER DPAs are provided at no cost to you.
 
-Data Protection, Mzinga, Inc.   
-10 Burlington Mall Road, Suite 111   
-Burlington, MA 01803   
-USA
+Mzinga is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
-If the complaint cannot be resolved through Mzinga’s internal processes, we will cooperate with JAMS, an arbitration and mediation service provider, under the JAMS International Mediation Rules.  These rules are accessible on the JAMS website at [www.jamsadr.com/rules-international-rules](http://www.jamsadr.com/rules-international-rules).
+It is also possible, under certain conditions, to invoke binding arbitration.  Please visit the Privacy Shield website for additional information.
+
+In the context of an onward transfer, a Privacy Shield organization has responsibility for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third part acting as an agent on its behalf.  Mzinga, Inc. shall remain liable under the Principles if its agent processes such personal information in a manner inconsistent with the Principles, unless the organization proves that it is not responsible for the event diving rise to the damage.
 
 **CHANGES TO THIS PRIVACY POLICY**
 
-If this Privacy Policy changes, the revised policy will include a new effective date, and will be posted on this page.
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our online information practices.  If this Privacy Policy changes, the revised policy will include a new effective date, and will be posted on this page.
+
+**CONTACT US**
+
+If you have any questions or comments about this Privacy Policy, or if you would like to review, delete, or updated information we have about you or your preferences, please contact us as at [privacy@mzinga.com](mailto:privacy@mzinga.com)  Written inquiries may be sent to: Mzinga, Inc,  10 Burlington, Mall Rd, Suite 111, Burlington, MA 01803, USA and Attention: Privacy Policy
+
+Last updated: February 20, 2018
