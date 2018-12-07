@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624082952id_/https%3A//www.leaprate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207131944id_/https%3A//www.leaprate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LeapRate
 
@@ -6,7 +6,7 @@ LeapRate is committed to protecting your privacy. This Privacy Policy describes 
 
 Email Address
 
-LeapRate provides the opportunity to its readers to sign up for our Forex Industry News email newsletter. The only information we ask for when you sign up to our newsletter is your email address, to which we will send the newsletter. LeapRate visitors can also opt in to receive periodic promotional emails. Subscribers to either the newsletter or the promotional emails can choose to unsubscribe at any time by clicking ‘unsubscribe’ at the bottom of any of the emails received, or by notifying us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+LeapRate provides the opportunity to its readers to sign up for our Forex Industry News email newsletter. The only information we ask for when you sign up to our newsletter is your email address, to which we will send the newsletter. LeapRate visitors can also opt in to receive periodic promotional emails. Subscribers to either the newsletter or the promotional emails can choose to unsubscribe at any time by clicking ‘unsubscribe’ at the bottom of any of the emails received, or by notifying us at info@leaprate.com.
 
 Cookies
 
@@ -34,13 +34,13 @@ Notification of Changes
 
 This policy may change from time to time and we will post the amended terms on the LeapRate site. You should review our Privacy Policy periodically to remain informed of any changes. You agree to accept posting of a revised Privacy Policy as actual notice to you.
 
-Your continued use of the site after any changes to this Policy have been posted (or, if applicable, notified) signifies your acceptance of those changes. If you do not agree to the revised Privacy Statement, please refrain from using our products or services and contact us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Your continued use of the site after any changes to this Policy have been posted (or, if applicable, notified) signifies your acceptance of those changes. If you do not agree to the revised Privacy Statement, please refrain from using our products or services and contact us by sending an email to info@leaprate.com.
 
-You can also request that we no longer use your information by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We may however retain some information if we believe it may be necessary to prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, and take actions otherwise permitted by law.
+You can also request that we no longer use your information by emailing us at info@leaprate.com. We may however retain some information if we believe it may be necessary to prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, and take actions otherwise permitted by law.
 
 Questions and Feedback
 
-LeapRate is strongly committed to our relationship with you and want to be sure you understand the steps we have taken to protect your personal information. If you have questions or feedback regarding our privacy policy, you may direct them to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will make every effort to answer your questions.
+LeapRate is strongly committed to our relationship with you and want to be sure you understand the steps we have taken to protect your personal information. If you have questions or feedback regarding our privacy policy, you may direct them to info@leaprate.com and we will make every effort to answer your questions.
 
 If you are not satisfied with our response, you have the right to make a formal complaint to the relevant data protection authority.
 
