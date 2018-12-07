@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boredombash.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608052843id_/http%3A//boredombash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boredombash.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207201652id_/http%3A//boredombash.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BoredomBash
 
