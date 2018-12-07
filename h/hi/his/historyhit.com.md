@@ -1,117 +1,139 @@
-> *The following text is extracted and transformed from the historyhit.com privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321044856id_/https%3A//www.historyhit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyhit.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207213132id_/https%3A//www.historyhit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - History Hit
+# Privacy Policy | History Hit
 
-History Hit (“We”) are committed to protecting and respecting your privacy.
+Effective as of 1st May 2018.
 
-This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our practices regarding your personal data and how we will treat it. By visiting [historyhit.com](http://www.ballistadigital.com/) or downloading any of our apps you are accepting and consenting to the practices described in this policy.
+## Introduction
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Ballista Media Ltd whose registered office is at 9 Wimpole Street, London W1G 9SR.
+Hit Networks (“Hit Networks” or “the Company”) understands that your privacy is important to you and that you care about how your personal data is used. We respect and value the privacy of all of our users and will only collect and use personal data in ways that are described here, and in a way that is consistent with our obligations and your rights under the law.
 
-### Information we may collect from you
+Please read this privacy notice carefully as it sets out how Hit Networks Ltd uses your personal information. If you have any questions about this privacy notice or do not agree with it, please contact us at support@History Hit.com before using this website. Our website terms of use explain the terms on which you are allowed to use our website tv.History Hit.com, which provides a gateway to our products and services, as well as lots of other useful information. History Hit is a trademark of Hit Networks Ltd. History Hit is a service offering access to online video, audio, text and images relating to history and other factual content.
 
-We may collect and process the following data about you:
+We may change this privacy notice from time to time by updating this page, and where appropriate notifying you by email. You should check this page from time to time to ensure you are happy with any changes.
 
-#### Information you give us
+## 1\. What Does This Notice Cover?
 
-You may give us information about you by filling in forms on our site [historyhit.com](http://www.ballistadigital.com/) or related Ballista Digital sites (our site) or in our applications (apps) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to access certain pages on our site, search for a product or use our applications from time to time, place an order on or via our site (to the extent applicable), participate in discussion boards or other social media functions on our site or app (to the extent applicable), enter a competition, promotion or survey and when you report a problem with our site or any of our apps. The information you give us may include your name, address, email address and phone number, financial and credit card.
+This Privacy Information explains how we use your personal data: how it is collected, how it is held, and how it is processed. It also explains your rights under the law relating to your personal data.
 
-#### Information we collect about you
+## 2\. What is Personal Data?
 
-With regard to each of your visits to our site, or use of one of our apps (including on third-party sites or platforms, or when you link your profile on a third-party site or platform with your app registration account), we may automatically collect the following information:
+Personal data is defined by the General Data Protection Regulation (EU Regulation 2016/679) (the “GDPR”) as “any information relating to an identifiable person who can be directly or indirectly identified in particular by reference to an identifier”.
 
-  * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, device ID number, geo-locational information, browser plug-in types and versions, operating system and platform;
-  * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+Personal data is, in simpler terms, any information about you that enables you to be identified. Personal data covers obvious information such as your name and contact details, but it also covers less obvious information such as identification numbers, electronic location data, and other online identifiers.
 
+The personal data that we use is set out in Part 4, below.
 
+## 3\. What Are My Rights?
 
-#### Information we receive from other sources
+Under the GDPR, you have the following rights, which we will always work to uphold:
 
-We may receive information about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data that it may be shared internally and combined with data collected on this site. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers) and may receive information about you from them.
-
-### Uses made of the information
-
-We use information held about you in the following ways:
-
-Information you give to us. We will use this information:
-
-  * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
-  * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
-  * to provide you, or permit our app partners such as Juilliard to provide you, with information about goods or services we feel may interest you. If you are a then-existing customer of Ballista Digital websites or apps, Ballista Digital will only contact you by electronic means (email or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. If you do not have an existing relationship with Ballista Digital, we will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please confirm / tick the relevant box situated on the form on which we collect your data (the registration form);
-  * to notify you about changes to our service; and
-  * to ensure that content from our site and apps is presented in the most effective manner for you and for your computer.
+  * a) The right to be informed about our collection and use of your personal data. This Privacy Notice should tell you everything you need to know, but you can always contact us to find out more or to ask any questions using the details in Part 9.
+  * b) The right to access the personal data we hold about you. Part 9 will tell you how to do this.
+  * c) The right to have your personal data rectified if any of your personal data held by us is inaccurate or incomplete. Please contact us using the details in Part 9 to find out more.
+  * d) The right to be forgotten, i.e. the right to ask us to delete or otherwise dispose of any of your personal data that we have. Please contact us using the details in Part 6 to find out more.
+  * e) The right to restrict (i.e. prevent) the processing of your personal data.
+  * f) The right to object to us using your personal data for a particular purpose or purposes.
+  * g) The right to data portability. This means that, if you have provided personal data to us directly, we are using it with your consent or for the performance of a contract, and that data is processed using automated means, you can ask us for a copy of that personal data to re-use with another service or business in many cases.
 
 
 
-#### Information we collect about you
+For more information about our use of your personal data or exercising your rights as outlined above, please contact us using the details provided in Part 9. Further information about your rights can also be obtained from the Information Commissioner’s Office or your local Citizens Advice Bureau.
 
-We will use this information:
+If you have any cause for complaint about our use of your personal data, you have the right to lodge a complaint with the Information Commissioner’s Office.
 
-  * to administer our site and apps, and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
-  * to improve our site and apps to ensure that content is presented in the most effective manner for you and for your computer;
-  * to allow you to participate in interactive features of our site and apps, when you choose to do so;
-  * as part of our efforts to keep our site and apps safe and secure;
-  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and
-  * to make suggestions and recommendations to you and other users of our site and apps about goods or services that may interest you or them.
+## 4\. What information do we collect?
 
+When you use this website, please bear in mind that we may record:
 
-
-#### Information we receive from other sources
-
-We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above including providing to third party licensors (depending on the types of information we receive).
-
-### Disclosure of your information
-
-We may share your personal information with any member of our group, which means any subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
-
-We may share your information with selected third parties including:
-
-  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with you.
-  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.  We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target.
-  * Analytics and search engine providers that assist us in the improvement and optimisation of our site and apps, such as Google Analytics and Flurry Analytics.
+  * * the areas of the website that you visit; and
+  * * information about your device, such as which browser you are using, your network location, the type of connection you are using (e.g. broadband, ADSL etc) and your IP address.
+  * * if you create an account or subscribe, some personal information such as gender and date of birth – so we can send recommendations tailored to you.
 
 
 
-We may disclose your personal information to third parties:
+We do this by using cookies (although the information we gather through our cookies remains anonymous so we cannot tell who you are). See our Cookies Policy for more information on what a cookie is and how we use them on our website.
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the seller or buyer of such business or assets.
-  * If Ballista Digital Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Ballista Digital Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection.
+Once you register or log in or submit information through our website we will know who you are and your activities on this website and information about you and/or your company may be recorded on our systems. For example, we may ask for the following information when you submit an online enquiry, register for our newsletter, subscribe or create an account:
 
-
-
-### Where we store your personal data
-
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password enabling you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site and apps; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-### Your rights
-
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at enquiries@ballistadigital.com.
-
-Our site may, from time to time, contain links to and from the websites of our partners and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-### Access to information
-
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee to meet our costs in providing you with details of the information we hold about you.
-
-### Contact
-
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [enquiries@ballistadigital.com](mailto:enquiries@ballistadigital.com).
-
-### Changes to our privacy policy
-
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.
-
-## __Our Apps
-
-##### Timeline Nelson with The National Maritime Museum
-
-Nelson
-
-  *  __[Download](https://itunes.apple.com/gb/app/timeline-nelson-national-maritime/id1048604676?mt=8)
+  * your name;
+  * email address;
+  * billing address;
+  * country where you are based or purchasing our products/services from;
+  * date of birth;
+  * gender.
 
 
+
+We may also collect personal information from you at trade shows/events, from surveys, telephone calls and/or other correspondence with you.
+
+We may receive information about you and your activities on and off History Hit from third-party partners, such as information from a partner when we jointly offer services. Third party cookies may be delivered to you and the third party cookies may be used to provide a more targeted advertising experience both on and off of History Hit.
+
+We do not store your billing address, billing country or any payment information – this is held securely by the payment processor who is fully PCI compliant.
+
+We may also ask for payment information, i.e. the details of the payment card you are using to pay for any products/services. This type of information is processed strictly in accordance with relevant payment card industry standards.
+
+Where a purchase is made via in app purchase, this will use in the app purchase mechanisms via Apple, Google, Amazon, and Roku.
+
+## 5\. What do we do with the information we collect?
+
+Under the GDPR, we must always have a lawful basis for using personal data.
+
+We use this information for a number of different reasons.
+
+The main reason we use this information is to provide you with the website and our products and services (whether available via the website or offline). We also use the information for:
+
+  * internal record keeping;
+  * product and service development;
+  * developing our website;
+  * answering your queries or complaints;
+  * market research; and
+  * marketing our own products and services to you.
+
+
+
+## 6\. Marketing
+
+We would like to provide you with information about Hit Network’s products and services, and other information which we think you may find interesting. We may send you such information by post, email and/or telephone unless you have asked us not to do so.
+
+If you are a customer of ours, have signed up to receive History Hit emails or have previously asked us for information on our products and services, we may send you information by email. However, in every marketing email message we send you we will give you the opportunity to unsubscribe from our mailings altogether.
+
+We do not provide your personal identifiable information to external organisations (i.e. outside of the Company) for their own marketing purposes without your explicit consent.
+
+If at any time you do not want your information used for direct marketing purposes please contact us at support@History Hit.com and if you decide that you no longer wish to receive marketing emails from us, please either follow the unsubscribe link in one of our marketing email messages or contact us at support@History Hit.com.
+
+## 7\. How Long Will You Keep My Personal Data?
+
+We will not keep your personal data for any longer than is necessary in light of the reason(s) for which it was first collected. The following will be used to determine how long it is kept:
+
+* As long as you remain a paying customer of Hit Networks Ltd or a subscriber to one of our marketing or newsletter emails.
+
+## 8\. Who do we share this information with?
+
+We may share your personal information with third party companies who help us provide and improve our services or who use advertising or related products, which makes it possible to operate our company.
+
+We want our advertising to be as relevant and engaging as the other information you find on History Hit. With this in mind, we use all of the information we have about you to show you relevant ads. We do not share information that personally identifies you (personally identifiable information is information like your name or email address that can by itself be used to contact you or identifies who you are) with advertising, measurement or analytics partners unless you give us permission. We may provide these partners with information about the reach and effectiveness of their advertising without providing information that personally identifies you, or if we have aggregated the information so that it does not personally identify you.
+
+We transfer information to vendors, service providers, and other partners who support our business, such as providing technical infrastructure services, analyzing how our services are used, measuring the effectiveness of ads and services, providing customer service, facilitating payments, or conducting academic research and surveys. These partners must adhere to strict confidentiality obligations in a way that is consistent with this Data Policy and the agreements we enter into with them.
+
+We may also share your personal information with a purchaser or potential purchaser of our business.
+
+In some circumstances, we may have to disclose your personal information by law, because a court or the police or other law enforcement agency has asked us for it.
+
+## 9\. How to get copies of or amend the information we have collected
+
+You may request details of the personal information that we hold about you under the Data Protection Act 1998. If you would like a copy of the information held about you please write to us at support@History Hit.com
+
+If you think any information we have about you is incorrect or incomplete, please write to us or email us as soon as possible. We will correct or update any information as soon as we can.
+
+You may opt out of third party cookies via the Digital Advertising Alliance website – www.aboutads.info
+
+## 10\. Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect, including secure data storage facilities and electronic password protection.
+
+If at any point you suspect or become aware of a security incident (i.e. your password is stolen or you receive suspicious communication from someone holding themselves out to be a Hit Networks employee or from a dupe website claiming to be affiliated with History Hit), please forward the communication to us or report the incident by email to support@History Hit.com
+
+## 11\. Linking to other websites
+
+Our website or marketing email messages sometimes include links to other third party websites which are not within our control. Once you have left our website/marketing email message, we cannot be held responsible for the content of these third party websites or the protection and privacy of any information which you provide to those websites. You should exercise caution and look at the privacy policy applicable to the website in question.
