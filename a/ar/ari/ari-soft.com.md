@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614045548id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207140814id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ARI Soft - Privacy Policy
+
+You currently have **0 items** in your cart.
+
+  * 12/11/2018 WordPress 5.0
+
+Are you ready for WordPress 5.0? We are too :) All our WordPress plugins are compatible with WP 5.0. The next step is adding Gutenberg block support for "ARI Stream Quiz" plugin. 
+
+  * 12/11/2018 "ARI Adminer" v. 1.1.12
+
+The best database manager plugin for WordPress is updated to v. 1.1.12. Now it supports the latest Adminer version.
+
+
+  
+
+
+[](http://www.twitter.com/ARISoft)
 
 ARI Soft Privacy Policy is deeply committed to protecting the privacy of our customers.
 
