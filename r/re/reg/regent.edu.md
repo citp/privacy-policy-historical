@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regent.edu privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423072455id_/https%3A//www.regent.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regent.edu privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207063404id_/https%3A//www.regent.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Data Handling Practices | Regent University
 
