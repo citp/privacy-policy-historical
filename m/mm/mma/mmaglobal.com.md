@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625053821id_/http%3A//www.mmaglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207154917id_/https%3A//www.mmaglobal.com/privacy-policy) for the most accurate reproduction.*
 
 # MMA Privacy Policy | Mobile Marketing Association
 
@@ -52,7 +52,7 @@ The MMA complies with the Children's Online Privacy Protection Act (COPPA) and d
 
 #### How to Access or Correct Your Information
 
-The MMA is committed to providing reasonable and practical access to allow visitors to identify inaccuracies in their personal information and may also request to have information removed. Visitors may submit inquires about the accuracy of personally identifiable information they have previously submitted and requests to have it removed through the MMA Website or via email at mma[at]mmaglobal.com[dot] When practical, the MMA will, upon request, modify or delete personally identifying information.
+The MMA is committed to providing reasonable and practical access to allow visitors to identify inaccuracies in their personal information and may also request to have information removed. Visitors may submit inquires about the accuracy of personally identifiable information they have previously submitted and requests to have it removed through the MMA Website or via email at [mma@mmaglobal.com](mailto:mma@mmaglobal.com). When practical, the MMA will, upon request, modify or delete personally identifying information.
 
 #### Third Parties
 
@@ -66,4 +66,4 @@ To opt out of Google Analytics, please [click here](https://tools.google.com/dlp
 
 #### How to Contact Us
 
-We can be reached via e-mail at [mma[at]mmaglobal[dot]com](https://web.archive.org/contact/mma/mmaglobal/com?subject=Privacy) with “Privacy” in the subject matter line or you can call +1 646 257 4515 to leave a message and someone will follow-up with you.
+We can be reached via e-mail at [mma@mmaglobal.com](mailto:mma@mmaglobal.com?subject=Privacy) with “Privacy” in the subject matter line or you can call +1 646 257 4515 to leave a message and someone will follow-up with you.
