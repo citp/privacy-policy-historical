@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614071125id_/https%3A//www.motherjones.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207180030id_/https%3A//www.motherjones.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Mother Jones
 
@@ -85,7 +85,7 @@ If you have questions about this Privacy Policy or about our privacy practices, 
 If you want to opt out of receiving messages regarding new products or upcoming events, requests for donations, messages about our projects or ways that you can support _Mother Jones_ , or advertisements from our partners, please write to us with your request, including your full name, address, and email address, at:
 
 Foundation For National Progress  
-222 Sutter Street Suite 600  
-San Francisco, CA 94108
+P.O. Box 584  
+San Francisco, CA 94104-0584
 
 You may also email your request to [support@motherjones.com](mailto:support@motherjones.com). If you send us an email, please write "Unsubscribe" in the subject line. In addition, electronic messages to you will provide you with the opportunity to opt out of receiving similar messages in the future.
