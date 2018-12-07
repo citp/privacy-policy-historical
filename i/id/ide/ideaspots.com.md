@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ideaspots.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606151738id_/http%3A//ideaspots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideaspots.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207093417id_/http%3A//ideaspots.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IdeaSpot
 
-This Privacy Policy governs the manner in which IDEASPOTS, INC. collects, uses, maintains and discloses information collected from users (each, a “User”) of the [theideaspots@gmail.com](mailto:theideaspots@gmail.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by IDEASPOTS, INC..
+This Privacy Policy governs the manner in which IDEASPOTS, INC. collects, uses, maintains and discloses information collected from users (each, a “User”) of the [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8cf8e4e9e5e8e9edfffce3f8ffccebe1ede5e0a2efe3e1) website (“Site”). This privacy policy applies to the Site and all products and services offered by IDEASPOTS, INC..
 
  **Personal identification information**
 
@@ -62,6 +62,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact: IDEASPOTS, INC. at:  
-[theideaspots@gmail.com](mailto:theideaspots@gmail.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b7c3dfd2ded3d2d6c4c7d8c3c4f7d0dad6dedb99d4d8da)
 
 This document was last updated on September 11, 2014
