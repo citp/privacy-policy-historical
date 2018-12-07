@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karwan.tv privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519020843id_/http%3A//karwan.tv/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karwan.tv privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207102931id_/http%3A//karwan.tv/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.Karwan.TV
 
