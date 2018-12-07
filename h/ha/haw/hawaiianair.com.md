@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hawaiianair.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128084033id_/https%3A//www.hawaiianairlines.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawaiianair.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207181015id_/https%3A//www.hawaiianairlines.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Hawaiian Airlines
 
 Last Updated: September 16, 2016
 
