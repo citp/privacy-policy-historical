@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexiafoods.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312212608id_/http%3A//www.alexiafoods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexiafoods.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207142654id_/https%3A//www.alexiafoods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alexia
 
