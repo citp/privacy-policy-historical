@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontsquirrel.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619010426id_/https%3A//www.fontsquirrel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontsquirrel.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207081538id_/https%3A//www.fontsquirrel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » Font Squirrel
 
