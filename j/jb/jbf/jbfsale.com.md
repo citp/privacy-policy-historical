@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jbfsale.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608074345id_/http%3A//jbfsale.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbfsale.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207211603id_/http%3A//www.jbfsale.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Just Between Friends
 
-**Effective as of June 28, 2016 (the "Effective Date")**  
+**Effective as of June 8, 2018 (the "Effective Date")**  
 Your privacy is very important to us. Just Between Friends Franchise System Inc. ("JBF") has created this privacy statement in order to demonstrate our commitment to your privacy. This Privacy Policy (the "Policy") explains what information we collect about you and what we do with it and applies to all products and services offered by JBF. We want you to fully understand our privacy practices. We reserve the right to modify this Policy at any time, and we will notify you of any material changes to the Policy by posting the modified Policy at http://www.jbfsale.com and changing the Effective Date at the top. We encourage you to check this page periodically for any changes. This Policy is incorporated into, and subject to, the terms of JBF's Terms of Use. By using or navigating JBF's website located at http://www.jbfsale.com or any product or service offered by JBF (collectively, the "Services"), you acknowledge that you have read, understand, and agree to be bound by this Policy or any modified Policy as posted. If you do not agree to these terms, please do not use or visit the Services.
 
 **What information do we collect?**  
@@ -20,6 +20,8 @@ We may also disclose your information in special cases if required to do so by l
 
 **How long do we retain information?**  
 We retain personal information for such period of time as we feel is necessary to ensure that you have a reasonable opportunity to access the information. If you no longer consent to us retaining your personal information, you can request that it be removed by contacting us at [corporate@jbfsale.com.](mailto:Corporate@jbfsale.com.)
+
+Just Between Friends is proud to serve the local communities where each JBF Consignment Sales Event is located.  Each JBF Consignment Sales Event Owner looks forward to the opportunity to interact with consignors, shoppers, helpers, and charitable and community organizations at each locally held event.  At this time, we do not have any JBF Consignment Sales Events in the European Union and are not marketing in the European Union or targeting any persons in the European Union.  If you happen to be located in the EU and wish to be included on the mailing list for a particular JBF Consignment Sales Event, we encourage you to contact our site administrator, Shannon Carter, to discuss our privacy policy and your rights to privacy. shannoncmc@jbfsale.com
 
 **Do we save any correspondence that you send to us?**  
 Yes. If you send us correspondence, including emails and faxes, we may retain such information in the records of your account. We may also retain customer service correspondence and other correspondence from JBF to you. We may retain these records in order to measure and improve our customer service, and to investigate potential fraud and violation of JBF's Terms of Use. We may, over time, delete these records.
