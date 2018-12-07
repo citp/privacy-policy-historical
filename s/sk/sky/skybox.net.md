@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skybox.net privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606091724id_/http%3A//www.skybox.net/980-files/welcome6/info/privacy-eng.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skybox.net privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207155515id_/http%3A//www.skybox.net/980-files/welcome6/info/privacy-eng.html) for the most accurate reproduction.*
 
 # USPS
 
