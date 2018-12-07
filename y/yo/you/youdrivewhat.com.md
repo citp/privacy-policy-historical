@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youdrivewhat.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607110602id_/http%3A//youdrivewhat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youdrivewhat.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207180218id_/http%3A//youdrivewhat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : You Drive What
 
