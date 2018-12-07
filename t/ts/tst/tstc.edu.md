@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tstc.edu privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603143734id_/http%3A//www.tstc.edu/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tstc.edu privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207120342id_/http%3A//tstc.edu/footer/privacy) for the most accurate reproduction.*
 
 # Texas State Technical College | Footer | Texas State Technical College Privacy and Security
 
@@ -40,7 +40,7 @@ TSTC does not sell or share information for commercial solicitation or political
 ## Access to information  
 
 
-Except for education records governed by FERPA, all information collected from this website, including the summary server log information, emails sent to the website, and information collected from web-based forms, may be subject to the [Texas Public Information Act](https://www.tsl.texas.gov/agency/customer/pia.html "Texas Public Information Act"). This means that while TSTC does not actively share information, in some cases may be compelled by law to release information gathered from its web servers.
+Except for education records governed by FERPA, all information collected from this website, including the summary server log information, emails sent to the website, and information collected from web-based forms, may be subject to the [Texas Public Information Act](https://www.tsl.texas.gov/publicinformationrequest "Texas Public Information Act"). This means that while TSTC does not actively share information, in some cases may be compelled by law to release information gathered from its web servers.
 
   
 The Texas Public Information Act, with a few exceptions, gives you the right to be informed about the information that this website collects about you. It also gives you the right to request a copy of that information, and to have the university correct any of that information that is wrong. You may request to receive and review any of that information, or request corrections to it, by contacting the TSTC Records Manager, 3801 Campus Dr., Waco, Texas, 76705, at 254-867-3922.
