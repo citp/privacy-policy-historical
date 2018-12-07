@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the abcya.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627032815id_/https%3A//www.abcya.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcya.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207164747id_/https%3A//www.abcya.com/privacy.htm) for the most accurate reproduction.*
 
 # ABCya! Privacy Policy
 
 ### Privacy Policy
 
-Updated and effective as of May 5, 2017. 
+Updated and effective as of August 21, 2018. 
 
 ABCya.com is a teacher-created website brought to you by ABCya.com LLC ("ABCya") that provides fun and educational games for kids to use under the guidance of their parents and teachers. In this policy, we refer to our visitors younger than age 13 as "Children." We provide this privacy policy to inform parents and other users about our privacy practices for ABCya.com, our ABCYa Games mobile app, and any other ABCya online service that links to this Privacy Policy (the "Platform"), as required by the Children's Online Privacy Protection Act ("COPPA"). Note that this Privacy Policy does not cover information collected offline or through ABCya mobile apps that post a separate privacy policy. 
 
@@ -151,3 +151,34 @@ Providence, Rhode Island 02906
 Email: support (at) abcya (dot) com 
 
 Call toll-free (855) 250-9249 
+
+  
+
+
+### INFORMATION FOR RESIDENTS OF THE EUROPEAN UNION AND THE EUROPEAN ECONOMIC AREA
+
+This section of the Privacy Policy applies only if you use our Sites or Apps, on iTunes, Google Play, Amazon and Microsoft, covered by the Privacy Policy from a country in the European Union or another member state of the European Economic Area (“EEA”), and it supplements the information in the Privacy Policy.
+
+ABCya.com, L.L.C. is the data controller for processing of information defined as personal data under applicable data protection law (“Personal Data”).
+
+### LEGAL BASIS FOR DATA PROCESSING
+
+We process Personal Data for the purposes set out in the Privacy Policy. Our legal bases to process Personal Data include processing that is necessary for the performance of a contract between us, in the case of subscription users (for example, to provide you with services you request and to identify and authenticate you so you may use the website); necessary to comply with legal requirements and applicable accounting standards and to make mandatory disclosures to law enforcement and regulatory authorities; necessary for our legitimate interests (for example, to manage our relationship with you, to improve the website and our services, to protect our property and safeguard against fraud and malware, to make or defend legal claims); and based on consent by our customers (for example, to communicate with you about our products and services and provide you with marketing information). Where we process your Personal Data with your consent, you may subsequently withdraw consent at any time by contacting us (using the contact instructions below), without affecting the lawfulness of processing based on consent before its withdrawal.
+
+### EU DATA SUBJECT RIGHTS
+
+The EU General Data Protection Regulation (GDPR) and other applicable data protection laws provide certain rights for individual data subjects (“EU Data Subject Rights”). You may decline to share certain Personal Data with us, in which case we may not be able to provide some of the features and functionality of our services. These rights include, in accordance with applicable law, the rights to access or rectify Personal Data, object to or restrict further processing, or request the erasure of Personal Data or, where feasible, to have it moved to a new service provider (“data portability”). You must be 16 years or older to make a request or else have your parent contact us on your behalf.
+
+Normally, we can respond to requests for access within 48 hours. If we cannot honor your request concerning Data Subject Rights within 30 days, we will inform you and provide an explanation. When technically feasible, at your request, we will provide your Personal Data to you or transmit it directly to another controller.
+
+We retain your Personal Data while you have an account with us and while you are using our services or continuing to visit our Site. We will retain your Personal Data for as long as it is reasonably necessary for the purposes set out in the Privacy Policy, considering the time period reasonably necessary to: provide the services to you; exercise the choices and rights you have requested; comply with our contractual obligations; enforce our terms for use of the services; and comply with legal and regulatory requirements.
+
+If you have any unresolved privacy concern that we have not addressed satisfactorily after contacting us, you have the right to contact the relevant national data protection supervisory authority and lodge a complaint.
+
+### CHILDREN
+
+Our Privacy Policy addresses the information we collect from children, how we use it and parental access. Note that we do not knowingly sell goods or services to children younger than age 16.
+
+### CONTACT US
+
+For all EU Data Subject Rights requests, please contact us at support@abcya.com. You must put the statement "Your EU Data Subject Rights" in the subject field of your request and include in the request the name of the Services with respect to which you are requesting the information, as well as your contact information.
