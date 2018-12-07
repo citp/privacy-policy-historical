@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arkansasmatters.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325193820id_/http%3A//www.arkansasmatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansasmatters.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207034123id_/https%3A//www.kark.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Central Arkansas - Little Rock, Pine Bluff
+# Privacy Policy
 
 **Updated: November 06, 2017**
 
