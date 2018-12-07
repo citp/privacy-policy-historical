@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the channelfireball.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606025548id_/http%3A//store.channelfireball.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelfireball.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207122427id_/http%3A//store.channelfireball.com/privacy_policy) for the most accurate reproduction.*
 
-# Channel Fireball - Privacy Policy
+# Privacy Policy - ChannelFireball.com
 
 **Privacy Policy**
 
