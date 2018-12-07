@@ -1,187 +1,232 @@
-> *The following text is extracted and transformed from the gettheworldmoving.com privacy policy that was archived on 2017-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170811072127id_/https%3A//globalchallenge.virginpulse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettheworldmoving.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207065712id_/https%3A//globalchallenge.virginpulse.com/privacy) for the most accurate reproduction.*
 
-# GCC Privacy Policy | ISO Compliant | Truste Certified | E.U. Safe Harbor Compliant | Global Challenge | Virgin Pulse Global Challenge
+# Corporate Employee Health Wellness & Incentive Programs: Terms
 
-_Effective date: 21/02/2017_
+We really don’t like jargon and vague explanations – especially about protecting your privacy online. So, here’s the crystal clear summary. If you need more details, you can always check out the full Privacy Policy below.
 
-In this privacy policy, the terms “Get the World Moving T/A Virgin Pulse” “we”, “us” and “ours” refer to:  
+Virgin Pulse is committed to protecting your rights and your privacy. This Privacy Policy (the “Policy”) explains what data we collect about you and how we store, analyze and share the data we collect about you through the platform ([https://globalchallenge.virginpulse.com](https://globalchallenge.virginpulse.com/)) and the Virgin Pulse Global Challenge mobile application. The Agreement also explains your rights with regards to your data, and how to contact Us to request access, corrections, transfer, restriction or deletion of the data we have collected about you. 
 
+Please carefully read through this Policy. To join the Program and enjoy the Virgin Pulse services and Program benefits, you are required to accept all the terms in this Policy. If you choose to accept these terms and enroll in the Virgin Pulse Global Challenge Program, you will become a Member of the Program. 
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=9f266636-bb83-46ad-9517-66ad0213b3be "TRUSTe Privacy Certification")
+We may update the terms of this Policy from time to time to reflect changes in Our information practices. If We make any material changes to these terms, you will be notified via an update notice, and you will be given the opportunity to review and accept these terms prior to being able to access the platform or continue to use the Program. You may withdraw your consent to this Policy or its updated terms at any time by contacting Us and notifying Us that you wish to terminate your Membership. 
 
-  * Gettheworldmoving (UK) Limited T/A Virgin Pulse - a company incorporated in the UK;
-  * Gettheworldmoving Limited T/A Virgin Pulse - a company incorporated in the UK;
-  * Gettheworldmoving Pty Ltd T/A Virgin Pulse - a company incorporated in Australia;
-  * Gettheworldmoving Inc. T/A Virgin Pulse - a company incorporated in the USA; and
-  * Gettheworldmoving Corp. T/A Virgin Pulse - a company incorporated in Canada; 
-  * Gettheworldmoving GMBH T/A Virgin Pulse - a company incorporated in Switzerland and
-  * Gettheworldmoving Pte Ltd T/A Virgin Pulse – a company incorporated in Singapore.
+Please note that any translation of this Policy is intended solely to facilitate your access to this information. The English version is the only official version of this Policy and any translation inaccuracies or discrepancies are not binding and have no legal effect for compliance or enforcement purposes.
 
+## What laws and regulations does Virgin Pulse comply with?
 
+Virgin Pulse will be compliant with the European General Data Protection Regulation (GDPR) on or before the established enforcement date, May 25, 2018.
 
-The term “Website” means the website located at [https://globalchallenge.virginpulse.com](https://web.archive.org/). The term "Mobile Applications" means our Virgin Pulse Global Challenge smartphone mobile applications for the 100 Day Journey challenge, Nutrition, Balance, and Sleep. The term “Services” refers to the Virgin Pulse Global Challenge web and mobile applications associated with this Website. The purpose of this policy is to tell you what kind of information we may gather about you when you visit this Website or use our Services, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct this information. Our policy allows you to choose what kind and how much information you provide to us and to control how we use whatever information you give us.
+Virgin Pulse participates in and has certified its compliance with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Framework, as set forth by the U.S. Department of Commerce regarding the collection, use and retention of Personal Information from the European Union and Switzerland to the United States. Virgin Pulse is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield website at [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
-## Swiss Safe Harbor
+To view and learn more about Our certification please visit [https://www.privacyshield.gov/participant?id=a2zt0000000TOtTAAW&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TOtTAAW&status=Active).
 
-Get The World Moving complies with the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Get The World Moving adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Get The World Moving's certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
+Virgin Pulse is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Virgin Pulse complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-## Privacy Shield
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Virgin Pulse is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Virgin Pulse may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Get The World Moving (and its subsidiary company Get the World Moving Inc.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Get The World Moving is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at [https://www.privacyshield.gov/list.](https://www.privacyshield.gov/list).
-
-Get The World Moving is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Get The World Moving complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Get The World Moving is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission in certain situations, Get The World Moving may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact Our U.S.-based third party dispute resolution provider (free of charge) at <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>.
 
 Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-## Types of information we collect
+## What information does Virgin Pulse collect about me?
 
-Information is collected from you primarily to make it easier and more rewarding for you to use our Services. Get The World Moving collects anonymous and personal information (i.e. information which might enable you to be identified, such as your name, e-mail address or postal address). Depending on the service you are accessing, you could be asked to provide information such as your name, email address, mailing address, phone number or information about what you like and do not like. Get The World Moving will only collect personal information when you provide it to us. Sometimes, we may specifically ask for personal information about you when you sign up to use a service through this Website. Certain information may be required such as your gender, age range, internet address or screen name, billing address, type of computer and information about your employer such as company name, address and business type in order to provide that service or product to you. This information may also be used to inform you of additional products and services which may interest you. You can choose not to receive such information when you are undertaking product or service registration on this Website or opt-out of such communications later (See “opt-out” disclosure below). We may also ask about your interests, but it is your choice whether to respond.
+To provide the Virgin Pulse services, We collect anonymous and Personal Information about you. “Personal Information” means any information, including personal and material circumstances, that allows a person to become identifiable. You are under no obligation to provide any Personal Information to Us at any time. However, if you choose to withhold some Personal Information, We may be unable to provide you with certain services.
 
-We collect certain personal health information such as your height, weight and gender and display your BMI to you based on these inputs. We ask you to upload a profile image that is viewable by other users of the application, however this is not mandatory. You may delete your profile image at any time by logging into the application and visiting your profile settings page.
+The definition of “Personal Information” includes, but is not limited to:
 
-When you download and use our Services, we automatically collect information on the type of device you use, operating system, and device identifier (“UDID”).
+  * Your contact information, including your name and last name, address, personal and business email addresses, and your phone number;
+  * The email address you use to sign-in;
+  * Your gender, date of birth and age;
+  * Information about your health, fitness and related wellness activities offered within the Program;
+  * Information about your participation and performance in challenges;
+  * The comments and contributions you may make on the web-based platform or mobile application; and
+  * Additional information you may provide as you submit queries and requests to Us.
 
-We do not ask you for, access or track any location-based information from your mobile device at any time while downloading or using our Mobile Applications or Services. 
 
-## Collection of 3rd party information
 
-As a user, you have the ability to add the personal information of 3rd party individuals into our system for invitational and registration purposes. The types of information we collect may be name and email address. Get The World Moving will use this information to contact them for that express purpose only. These individuals may contact us at [enquiry@gettheworldmoving.com](mailto:enquiry@gettheworldmoving.com) to request that we remove this information from our database.
+## How does Virgin Pulse collect my Personal Information?
 
-## How we use your information
+We collect your Personal Information as you submit it through the web-based platform and the mobile application, and by reviewing your use of the web-based platform and mobile application (for example through the use of cookies). We may collect Personal Information through your use of additional services such as the Virgin Pulse Activity Tracking Devices (additional information on these is provided below). Virgin Pulse may also collect information about you and your participation in the Program through experience surveys. Additionally, in some cases, your Program Sponsor will have the opportunity to create surveys for its Members to complete.
 
-Get The World Moving will only use or disclose the personal information you have chosen to provide us for the purpose for which you provided it. Get The World Moving will not use it for any other purpose without your consent. We may use your personal information to: fulfill your registration, send you an order confirmation, send you requested service information, respond to customer service requests, administer your account, allow you to track your weight week to week, allow you to participate in virtual challenges, send you a newsletter, send you marketing communications, administer contests you entered, and notify you if you won, improve our Website and marketing efforts, and display content based upon your interests.
+## What are the activity tracking devices and how do they track my activity?
 
-We may use or disclose your information for reporting purposes. For instance, we may use or disclose information about your participation in the GCC, aggregate performance information, and summary information about participants. We may also use or disclose your information for research purposes. For instance, we may use or disclose your information to better understand aggregate sleep patterns and daily active movement. 
+As a Program Member you will be able to connect activity trackers to your account. The Virgin Pulse activity tracking devices are the “Pulse” and the MAX BUZZ. These devices track your step activity per minute. From this information, Virgin Pulse is able to determine your total active fitness minutes and calories consumed. Additionally, if you wear the MAX BUZZ to sleep, it can recognize the length of your sleep from how long you lay still.
 
-We send you push notifications on your device from time-to-time in order to provide you with in-product reminders and notifications. If you no longer wish to receive these types of communications, you may turn them off at the device level
+Other activity tracking devices can track a wide number of different aspects of your daily activities, including, among others, your daily steps and fitness activity, your heartbeat and sleep pattern. Depending on the brand and model activity tracker you use, the data collected may vary. In general, companies selling activity tracking devices have specific privacy policies available, which outline what data the specific activity tracking device collects. We strongly suggest you review the right privacy policy to know what specific data points your activity tracking device collects about you. While We allow integration with these third-party activity trackers, Virgin Pulse does not make are representation or warranty as to their functionality and compatibility with Our platform, as well as their accuracy, reliability or otherwise. If you have any questions about these items you should contact the manufacturer.
 
-## Anonymous information
+## What information do Virgin Pulse Surveys collect from me?
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyse trends, to administer the site, to track users' movements around the site, to gather demographic information about our user base as a whole and report aggregated data to our advertisers. We do not link this automatically-collected data to personally identifiable information.
+Your Program Sponsor may choose to create engagement surveys for its Members to complete. If you decide to take part in an engagement survey, the results will be shared with your Program Sponsor in aggregated reports. Your Program Sponsor will not be able to identify you from these reports. However, if the survey offered gives you the ability to respond to a question by writing in a response, the response will be shared with the Program Sponsor. If you include identifiable Personal Information in these open-ended responses, your Program Sponsor may be able to identify you.
 
-## Disclosure of your information
+## What information does Virgin Pulse collect through GC Me?
 
-We will not, without your consent, sell or otherwise disclose your personal information to a third party, or make any other use of your personal information, for any purpose which is not related to your use of the Website, Mobile Applications and Services, unless otherwise permitted to do so by law. We may disclose your personal information as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. Unless in using the Website or Mobile Applications you expressly or impliedly agree to make certain information available, all personal information which we collect is kept confidential to the best of our ability, subject to the other terms and conditions of this privacy policy. In addition, our employees and contractors who provide services related to our Website or Mobile Applications are obliged to respect the confidentiality of any personal information held by us. Our employed staff and contractors engaged by us for technical and support purposes may have access to personal information that you provide and may access it for purposes that include the audit of content on the Website or Mobile Applications for quality control purposes and for compliance with our Website [Terms and Conditions](https://web.archive.org/terms). These contractors are authorized to use your personal information only as necessary to provide these services to us.
+GC Me is an assessment that includes the Heart Age survey, which assesses your heart health, and the Lifestyle Score, which assesses your lifestyle across multiple areas of wellbeing. You do not have to complete a GC Me if you do not want to share this information with Us.
 
-We may disclose your personal information to overseas recipients, which are located in the United Kingdom, the Unites States of America, Canada or Switzerland. 
+## Does Virgin Pulse collect information about other individuals?
 
-## Access to your personal information
+As a Member, you may have the ability to invite other individuals to participate in the Virgin Pulse Global Challenge. To allow another person to join the Program, We will ask you to provide Us with the person’s name and email address. We will use this information exclusively for the purpose of allowing the person to join the Program, and will remove their information if they ask Us not to contact them again.
 
-Upon request Get The World Moving will provide you with information about whether we hold any of your personal information. If your personal information changes, you may correct, update, amend, ask to have it removed from a public forum, directory or testimonial on our site or deactivate it by making the change on your member settings page, by emailing our Customer Support at [customerservice@gettheworldmoving.com](mailto:customerservice@gettheworldmoving.com) or by contacting us by telephone or postal mail at the contact information listed below. If you no longer desire our service, please contact customer service. We will respond to your request to within 30 days.
+## How does Virgin Pulse use my Personal Information?
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will use the Personal Information collected only to provide you with access to Our services, including:
 
-## Personal information we process on behalf of our clients
+  * To administer and manage your Virgin Pulse account and membership;
+  * To identify you when you sign-in;
+  * To allow you to participate in Challenges and initiatives;
+  * To track your progress in the Program;
+  * To provide you with information about the Program and Program features;
+  * To inform you of contests you may enter and notify you of the outcome;
+  * To display content based on your interests;
+  * To improve Our communications with you, if you chose to receive any; and
+  * To respond to your questions and requests.
 
-The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Get The World Moving. Get The World Moving collects information under the direction of our Clients, and has no direct relationship with the employees whose personal data we process. If you are an employee of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
-Get The World Moving acknowledges that you have the right to access your personal information. Get The World Moving has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to the Get The World Moving’s Client (the data controller). If requested to remove data we will respond within a reasonable time frame.
 
-We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Get The World Moving will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Additionally, We may use your Personal Information to create “Anonymous Data” records by removing any information (including any Contact Information) that would allow the remaining data to be linked back to you. We may use the Anonymous Data for internal purposes, such as analyzing patterns and program usage to improve Our services. Additionally, We may use Anonymous Data to analyze and understand demographic trends, customer behavior patterns and preferences, and information that can help Us enrich the content and quality of the Virgin Pulse Global Challenge Program. We reserve the right, subject to applicable laws and regulations, to disclose Anonymous Data at Our discretion.
 
-## Opt out preferences
+## Where and how is my Personal Information and other data stored?
 
-If you wish to subscribe to our newsletter and other communications, we will use your name and email address to send those communications to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page [here](https://www.gettheworldmoving.com/profile/settings), or you can contact us at [customerservice@gettheworldmoving.com](mailto:customerservice@gettheworldmoving.com).
+All your data, including any Personal Information We collect about you, is processed and stored by Virgin Pulse at Microsoft Azure data centers located in the Netherlands. Because your data is stored on Dutch soil, it may be subject to Dutch laws as well as the jurisdiction of the Dutch government, tribunals, law enforcement and regulatory agencies, which may require Virgin Pulse to grant them access to your data.
 
-We may provide you the opportunity to participate in surveys on our site. If you participate, we may request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information and demographic information (such as zip code / post code). We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+## Is my Personal Information and other data secure?
 
-## Tracking technologies
+Virgin Pulse is committed to protecting your data and your privacy. To ensure data security, We follow reasonable physical, electronic and managerial procedures designed to safeguard and security your data and Personal Information. However, no company can fully eliminate security risks associated with the provision of online services. 
 
-Technologies such as: cookies, beacons, tags, scripts and other similar technologies are used by us and our service providers, technology partners or other 3rd party assets (such as social media). These technologies are used to help administer the site, identify the total number of users, measure traffic patterns for research purposes, personalize or customize content so that a user’s preferences can be “remembered” when they return to the site, and to better manage content.
+Among the security features We use to protect your Personal Information and other data, We require that you use an email address and unique password to access the web-based platform and mobile application. We use multiple layers of security to protect your Personal Information and data, including firewalls, intrusion detection tools and antivirus. We retain your email as part of your Personal Information, to allow Us to recognize you when you login, but We do not share your log in information with anyone.
 
-Get The World Moving may collect information via cookies. If Get The World Moving collects personal information via cookies, then that personal information will be dealt with by Get The World Moving in accordance with this privacy policy. In other words, information collected via cookies will be treated in the same way as any other information. You can remove cookies by following directions provided in your Internet browser’s “help” directory. If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.
+## Who at Virgin Pulse has access to my Personal Information?
 
-We use Local Storage Objects (LSOs) such as HTML 5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML 5.
+As a global company, Virgin Pulse has a number of offices and subsidiaries around the world. Virgin Pulse has office locations in the United States, the United Kingdom, Bosnia, Canada, Switzerland, Singapore, Brazil and Australia. Our employees at these locations may be required to access your Personal Information to allow Us to provide you with quality services, including Member support services through the Virgin Pulse Call Center. Our employees are obligated to respect the confidentiality of your Personal Information, and are only authorized to access your Personal Information as necessary to provide you with services or support.
 
-## Mobile Analytics
+In the event that We (a) undergo reorganization, or (b) that Virgin Pulse is sold to a third party, any Personal Information We hold about you may be transferred to the re-organized entity or third party, in accordance with applicable laws. In the event that such acquisition occurs, the new entity will continue to use your Personal Information within the limits of this Policy, to ensure continuation of service. 
 
-We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, metrics, performance data, crash reports, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
+## Can other Members or my Program Sponsor view my Virgin Pulse profile?
 
-## Behavioral Advertising
+You can set up special Leagues and Leaderboards and invite other Program Members to compete in these Leagues or Leaderboards if you know their email address. If a Member accepts your invitation, everyone participating on the League or Leaderboard you created will be able to see the standings and each Member’s performance. The profile you create on Our site containing personal information, such as your full name, can be made visible to other registered members at your discretion. You may change the privacy settings of your profile at any time through your event profile page.
 
-We partner with a third party ad network to either display advertising on our Website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/) (or if located in the European Union click [here](http://youronlinechoices.eu/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+To the extent that you participate in any wellness challenges or competitions as part of the Virgin Pulse Program, please be aware that your name and performance information will be available to other Members participating in the challenge or competition, and to your Program Sponsor. Additionally, the Virgin Pulse Program may make message boards and messaging forums available to you. Please be aware that any information disclosed in these settings may become public information. You should exercise caution if disclosing Personal Information while using these features.
 
-## Protection of personal information
+## What is Team Feed and what information about me is available through it?
 
-The security of your personal information is important to us. Where utilized for the purpose of transactions, the Website and Mobile Applications use a login process to promote the security of usernames and passwords. When you enter sensitive information (such as a credit card number) or log-in credentials, we encrypt the transmission of that information using secure socket layer technology (SSL). The Website’s servers are located in a secured data center with security measures in place.
+Team Feed is a chat-style communication portal, where you can communicate with your teammates. Any information you post will be available for your teammates to view.
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can contact us at [enquiry@gettheworldmoving.com](mailto:enquiry@gettheworldmoving.com).
+When you first access the Team Feed, you will have the opportunity to opt-in to automatic sharing of your individual achievements (often called “Trophies”) on the Team Feed. If you opt-in to this function, We may from time to time post on the Team Feed information about your performance and achievements. You will have the opportunity to modify your preferences at any time through the Team Feed settings. If, after opting-in to these posts on the Team Feed, you later choose to opt-out, the achievements posted up until the time you change your settings will remain visible in the Team Feed. These achievements will remain visible even in the event that you are removed from the Team for any reason, or choose to cancel your account. 
 
-## Blog / testimonials / public comments and profiles
+## Does Virgin Pulse share my Personal Information with third parties?
 
-Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [enquiry@gettheworldmoving.com](mailto:enquiry@gettheworldmoving.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We may, from time to time, share your Personal Information with third parties to allow Us to provide you with Our services. If We need to share your Personal Information with third parties, We will limit the information disclosed to the minimum amount necessary to ensure the provision and quality of the services We offer you. We do not make your Personal Information available to any third parties without your permission. We never use, disclose, or share your Personal Information for marketing purposes, and We never sell your Personal Information.
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, please contact us.
+_Agents and contractors_
 
-The profile you create on our site containing personal information, such as your full name, can be made visible to other registered members at your discretion. You may change the privacy settings of your profile through your event profile page.
+In some instances, We may disclose your Personal Information to agents or contractors that work on Our behalf and assist Us in providing and supporting the services We offer. This may include processing transactions in the store, fulfilling your requests, analyzing your data, or helping Us to communicate important information about the Program.
 
-## Links to 3rd party sites
+_Government entities_
 
-Our Website includes links to other websites whose privacy practices may differ from those of Get The World Moving. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+Virgin Pulse may be required to disclose your Personal Information if:
 
-Our Website also includes Social Media Features, such as the Facebook Like button, links to our social media pages and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+  1. Legally required to do so by the local government, tribunals, law enforcement and regulatory agencies (for example as part of an ongoing investigation, subpoena, similar legal process or proceeding);
+  2. As otherwise required under any applicable law, regulation, or rule; and
+  3. If We believe, in good faith, that such disclosure is necessary to protect or defend Our rights or the rights of others, to assist in an investigation or to prevent illegal activity.
 
-## Changes to this policy
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-## COOKIES
+## Does Virgin Pulse share my Personal Information with my Program Sponsor?
 
-We use cookies not only to make our website work, but also to improve how it works so that we can offer you the best browsing experience. 
+We may provide information in an anonymous and aggregated format or provide your Personal Information in a group format to third parties (“Analytics Processors”) that process that Personal Information to generate Anonymous Information and derive analytical information to be shared with your Program Sponsor. The Analytics Processors do not have any independent right to use your Personal Information, except to provide the aggregation and analysis services. Your Program Sponsor will not be able to use such Anonymous Information or aggregated reports to directly identify you. Your Program Sponsor may use the Anonymous Information in its discretion, to evaluate the overall program, as well as to provide additional benefits, programs and services. Additionally, your Program Sponsor may have access to additional information about you, for the limited purposes above in the section “ _Does Virgin Pulse share my Personal Information with third parties?_ ”.
 
-Most web browsers automatically accept cookies, but you can usually change the configuration of your browser to prevent this from occurring. These settings will typically be found in the 'options' or 'preferences' menu of your browser. 
+We may share Anonymous Data with your Program Sponsor, in an aggregated or group format. Your Program Sponsor may request that We share Anonymous Data with Third Party Providers and partnering organizations, for research and analysis purposes. You can request the names of such Third Party Providers and partnering organizations from Us, or your Program Sponsor, at any time.
 
-To ensure the best user experience on our website, we use the following cookies: 
+## Is any information I may share with Virgin Pulse become publicly available?
 
-**Strictly necessary:**
+We offer publicly accessible blogs or community forums, where you will have the opportunity to share your thoughts and ideas. You should be aware that any information you provide in these areas may be read and used by others who access them.
 
-  * ASPXANONYMOUS: This cookie is used by sites using the .NET technology platform from Microsoft. It enables the site to maintain an anonymous user-id to track unique users within a session without them logging in or otherwise identifying themselves.
+To request removal of information you may have posted on Our blog or community forum, contact Us at [customer.service@virginpulse.com](mailto:customer.service@virginpulse.com). However, be aware that We may not always be able to remove your personal information, if that is the case, We will explain why.
 
+Does Virgin Pulse collect other information about me?
+
+When you visit Our web-based platform or mobile application We may automatically collect additional information, including the type of browsers Our Members use, what mobile device you use (the operating system version), your IP address (the unique address that identifies your device on the internet), your internet service provider (ISP), referring and exit pages, the files viewed on Our site (e.g., HTML pages, graphics, etc.), date and time stamps of activity on the platform, and the operating system your device uses. We use this additional information to derive a broad, non-specific understanding of the locations from which Our Members access Our services, and to enhance the security controls around platform access. We also use it to analyze trends, administer the web-based platform, track Members’ movements on the platform and around the website, and to gather demographic information about Our Member base as a whole.
+
+## How does Virgin Pulse communicate with me?
+
+If you have opted to receive push notifications on your mobile device, We may, from time to time, send you push notifications to provide you with reminders and notifications. If you no longer with to receive such communications, you may turn them off at the device level.
+
+From time to time, We may send you e-mails or newsletters with information about your Program and the Virgin Pulse platform and services. Depending on your country of residence, you may be given the opportunity to opt-in to receive these communications as you enroll in the platform. Regardless of your initial selection, you may opt-out of these communications, free of charge, at any time during your Membership, by updating your preferences in your account profile information, or by contacting Us directly.
+
+## Does Virgin Pulse use Cookies and other tools to collect data about me?
+
+Virgin Pulse and its Program Partners and vendors use tools such as Cookies, tags, scripts and other similar technologies to enhance and support your experience on the platform. These technologies help Us administer the web-based platform and mobile application, measure traffic patterns and the total number of users, as well as to personalize and customize the platform’s content, so that your settings are “remembered” when you login.
+
+Cookies are small pieces of text sent to your browser by a website you visit. Cookies help Our web-based platform to remember information about your visit, like your preferred settings. Cookies play an important role, they can make your next visit easier and the web-based platform more useful to you. You can learn more about Cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/), where you will also find information about how to block Cookies on different types of browsers. Depending on your location, additional information about Cookies may be presented to you when you visit the web-based platform, and you are given the opportunity object to the use of Cookies. However, please be aware that by blocking or deleting Cookies you may not be able to take full advantage of the web-based platform or mobile application.
+
+Virgin Pulse’s web-based platform uses Cookies to collect information about Member usage of the Program. Additionally, some Cookies on Our web-based platform are set by third parties who are delivering services on Our behalf. Within the mobile application, webpages are sometimes displayed. Cookies allow you to avoid having to reenter your login credentials when accessing webpages.
+
+We use Cookies:
+
+  * To remember that you have used the website before, allowing Us to identify you, as well as the number of unique visitors We receive and manage capacity;
+  * To allow you to navigate the website more quickly and easily;
+  * To remember your log-in session as you move from one page to the next within the platform;
+  * To store your settings and preferences;
+  * To customize some aspects of the platform to reflect your interests and preferences; and
+  * To collect statistical information about how you use the website, allowing Us to improve Our services over time
+
+
+
+## What Cookies does Virgin Pulse use?
+
+This chart outlines the Cookies Virgin Pulse uses on its platform and mobile application, what data they collect and how We use the data collected. 
+
+Category: | Vendor: | Purpose: | Where Online:  
+---|---|---|---  
+**Performance:** | CloudFlare | To serve static content securely from Cloudflare’s global CDN network. | All pages of Our websites  
+| New Relic | Allow Us to measure site performance. | All pages of Our websites  
+| Google Analytics | Provides visitor behaviors and actions which allows Us to understand how these visitors are interacting with the site, which allows Us to communicate appropriately with them, both online and offline, to present relevant content. | All pages of Our websites and mobile app.  
+**Functionality:** | Virgin Pulse | Uses a number of cookies to help maintain user experience, such as language preference. | All pages of Our websites and mobile app.  
+**Targeting:** | Hubspot | Used for marketing/campaign performance (understand how users/visitors interact with content/landing pages) also allows to serve relevant content depending on location/language. | All marketing site and landing pages.  
+| LinkedIn | Used for retargeting, tracks users from globalchallenge.virginpulse.com site and targets this audience via LinkedIn advertising. | All marketing site and landing pages.  
+| GoogleAds | Provides visitor behaviors and actions which allows Us to understand how these visitors are interacting with the site, which allows Us to communicate appropriately with them, both online and offline. Used as outlined below for behavioral advertising. | All pages of Our websites and mobile app.  
   
-**Performance:**
+## Does Virgin Pulse use behavioral advertising?
 
-  * __utma,__utmb, __utmc, __utmt, __utmv, __utmz: These cookies are set by the Google Analytics service which enables our website to track visitor behaviour and measure site performance. We use the information to compile reports and to help us improve the site.
-  * _mkto_trk: This cookie is associated with an email marketing service provided by Marketo. This tracking cookie allows our website to link visitor behaviour to the recipient of an email marketing campaign and measure campaign effectiveness.
+We partner with a third party ad network provider to either display advertising on Our Website or to manage Our advertising on other websites. Our ad network partner uses Cookies to collect non-identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may alter your overall settings by clicking [here](https://preferences-mgr.truste.com/) (or [here](http://www.youronlinechoices.eu/) if you are an European Union resident). Please note altering your advertising settings does not eliminate all online advertising, and you will continue to receive generic, non-targeted, ads. 
 
-  
-**Functionality:**
+## Does Virgin Pulse use mobile analytics?
 
-  * Language: We use this cookie to set and retain your language preferences.
+We use mobile analytics software to allow Us to review the functionality of Our mobile software on your phone, and how to improve its quality and Our services. The mobile analytics software may record information such as how often you use the mobile application, the events that occur within the mobile application, crash reports and performance data, where the application was downloaded from and other metrics, such as aggregated usage. The information collected by the mobile analytics software is managed separately from other Personal Information you submit within the mobile application. 
 
-  
-**Third party cookies:**
+## What are links to third party websites and mobile applications?
 
-  * id: doubleclick.net: This cookie is used by Google AdSense DoubleClick for online advertising frequency capping and avoiding the duplication of ads on a page, meaning you will not have to view the same ad over and over again.
-  * APISID, SSID, PREF, SID, SAPISID, HSID: Google set a number of cookies on any page that includes a Google Map.
-  * JSESSIONID: This cookie is used to store a session identifier so that New Relic can monitor session counts for an application. The cookie value is generated by Jetty. We use New Relic to monitor the performance of our website and identify quickly any error you might experience.
+Our web-based platform and mobile applications may contain links to other websites that are not owned or controlled by Virgin Pulse. These may include promotions, functions, events and competitions or other activities sponsored by third parties. We provide these links and connections for your convenience. Virgin Pulse has no control over these third parties, their privacy policies, and the content they display on their websites or mobile applications. If you choose to participate in these actives and submit Personal Information while visiting these websites or using these mobile applications, please be aware your rights will be governed by the third parties’ privacy policies. Participation in these additional services is at your own risk. We strongly encourage you to carefully read the privacy policy of any website or mobile application you visit or use. 
 
+## Can I find out what Personal Information and other data Virgin Pulse has collected about me?
 
+Yes, all Our Members, regardless of residency, except in specific circumstances identified by local laws, have a legal right to access the information Virgin Pulse has collected about you. You can request a copy of all the Personal Information and data We hold about you. We will provide you with a copy of all the data We have collected about you in a standard format (such as Excel) through a secure channel. You can contact Us to request a copy of all your data through the “Data Requests” option in the platform or mobile application. We will respond to your request within a reasonable timeframe.
 
-* * *
+_For California Users:_ In accordance with the California Civil Code Section 1798.83 you may contact Us at the address above to request certain information about the disclosure of Personal Information (as defined in Section 1798.83) to third parties for their direct marketing purposes. 
 
-## Contact us
+## Can I correct or update my Personal Information and other data?
 
-If you wish to make an enquiry regarding any personal information relating to you which may be in our possession, contact:   
-The Privacy Officer   
-Get the World Moving T/A Virgin Pulse  
-Level 2, 48 Cecil Street, Southbank, Victoria, 3006, Australia   
-or [privacy@virginpulse.com](mailto:privacy@virginpulse.com).
+Yes, if your Personal Information changes over time, or you realized your Personal Information is outdated or incorrect, you have a right to be able update it or correct it. You may update or correct the information by modifying it directly within the web-based platform or mobile application. If you are unable to directly update or correct the information within your account, you can contact Us to request that We update or correct the information for you or use the “Data Requests” option in the platform or mobile application. We will respond to your request within a reasonable timeframe.
 
-## In Australia:
+## Can my Personal Information and other data be transferred to a different company?
 
-In Australia, we are bound by the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) which govern the handling of personal information. Personal information can include a person’s name, address and any health information about the person. For more information about privacy issues in Australia and protecting your privacy visit [www.privacy.gov.au](http://www.privacy.gov.au/), the Australian government privacy website. 
+At any time during the course of your membership with Virgin Pulse you may request that all your Personal Information and other data be transferred to a different wellness services provider. To complete the transfer, We will require additional information about the new vendor to ensure a secure channel is used, so that your Personal Information and other data remain protected. To request such transfer you may contact Us through the “Data Requests” option in the platform or mobile application. We will respond to your request within a reasonable timeframe.
 
-## In the UK:
+## Can my Personal Information and data be deleted from Virgin Pulse databases?
 
-In the United Kingdom, the data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+Yes, you can request that the data collected about you be deleted from Our system. You may terminate your Program membership at any time by submitting a deletion request to Our Member Services team, or through the “Data Requests” option in the platform or mobile application. Your membership and this Agreement will terminate thirty (30) days after We receive your request. During this thirty (30) day period your Personal Information will be permanently and irreversibly deidentified. If you attempt to access the Program after this process is complete you will be unable to retrieve any information you had previously input, and will have to register a new account. 
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+## Can I request that Virgin Pulse restrict processing for some of my data?
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is Gettheworldmoving (UK) Limited T/A Virgin Pulse of York Eco Business Centre, Amy Johnson Way, Clifton Moor, York, YO30 4AG, United Kingdom.
+Due to the type of services We offer, We are unable to accommodate requests to restrict the processing of certain sets of data. If you wish for Us to stop processing parts of your data, you can request that all data be deleted through the process explained above. 
 
-  
+## How can I contact Virgin Pulse or its Data Protection Officer (DPO)?
 
+If you have any questions, comments or concerns, about this Policy, or your rights and obligations under this Policy, you may contact Us via email at [privacyofficer@virginpulse.com](mailto:privacyofficer@virginpulse.com) or via the “Contact Us” section of the Virgin Pulse web-based platform and mobile application.
+
+Alternatively you can contact Us by writing to:
+
+The Virgin Pulse Data Protection Officer  
+Virgin Pulse, Inc.  
+75 Fountain Street, Providence, Rhode Island 02902, United States. 
+
+_This policy was last updated on 9 May 2018_
