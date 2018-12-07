@@ -1,102 +1,391 @@
-> *The following text is extracted and transformed from the virgintrains.co.uk privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202204154id_/https%3A//www.virgintrains.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virgintrains.co.uk privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207082117id_/https%3A//www.virgintrains.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Virgin Trains
 
-Virgin Trains strive to protect the privacy of all personally identifiable information collected during the course of providing services and it is important for you to know how we process your data. By using our services or providing us with information you consent to the collection, use and transfer of your information under the terms of this policy and also agree to be bound by our [Terms and Conditions](https://web.archive.org/terms-conditions).
+Data Protection law says that we can use personal data only if we have a proper reason to do so. This includes sharing it outside Virgin Trains. The law says we must have one or more of these reasons:
 
-Virgin Trains is the trading name for Virgin Rail Group Holdings Limited and its subsidiaries as follows: Virgin Rail Group Holdings Limited, Registered in England and Wales No. 4196341. Virgin Rail Group Limited, Registered in England & Wales No. 328548. West Coast Trains Limited, Registered in England and Wales No. 3007940. Registered Office: The Battleship Building, 179 Harrow Road, London, W2 6NB, VAT no. 672859095.
+  * To fulfil a contract we have with you
+  * When it's our legal duty
+  * When it's in our legitimate interest
+  * When you consent to it.
+
+
+
+A legitimate interest is when we have a legitimate business or commercial reason to use your information. But even then, it must not unfairly go against what is right and best for you. If we rely on our legitimate interest, we will tell you what that is.
+
+Below is a list of all the ways that we may use your personal data, and which of the reasons we rely on to do so. Our legitimate interests are also below.
+
+#### Serving our customers
+
+What we use your personal data for:
+
+| 
+
+  * To deliver our products and services
+  * To manage our relationship with you or your business
+  * To develop new ways to meet our customers’ needs and to grow our business
+  * To develop and carry out marketing activities
+  * To study how our customers use our products and services
+  * To market our products and services
+
+  
+---|---  
+  
+Our reasons:
+
+| 
+
+  * Your consent
+  * Fulfilling contracts
+  * Our legitimate interests
+  * Our legal duty
+
+  
+  
+Our legitimate interests:
+
+| 
+
+  * Keeping our records up to date
+  * Working out which of our products and services may interest you and telling you about them
+  * Developing products and services, and what we charge for them
+  * Defining types of customers for new products and services
+  * Seeking your consent when we need it to contact you
+  * To provide you with information relating to how you can travel with us
+  * As an active customer to keep you informed about our latest offers, deals and competitions
+  * Being efficient about how we fulfil our legal and contractual duties
+
+  
+  
+#### Reducing crime and operating in a safe and lawful manner
+
+What we use your personal data for:
+
+| 
+
+  * To detect, investigate, report, and seek to prevent fraud
+  * To manage risk for us and our customers
+  * To obey laws and regulations that apply to us
+  * To respond to complaints and seek to resolve them
+
+  
+---|---  
+  
+Our reasons:
+
+| 
+
+  * Fulfilling contracts
+  * Our legitimate interests
+  * Our legal duty
+
+  
+  
+Our legitimate interests:
+
+| 
+
+  * Developing and improving how we deal with fraud, as well as doing our legal duties in this respect
+  * Complying with regulations that apply to us
+  * Being efficient about how we fulfil our legal and contractual duties
+
+  
+  
+#### Operating our business effectively
+
+What we use your personal data for:
+
+| 
+
+  * To run our business in an efficient and proper way. This includes managing our business capability, financial position, communications, corporate governance, planning, and audit.
+
+  
+---|---  
+  
+Our reasons:
+
+| 
+
+  * Our legitimate interests
+  * Our legal duty
+
+  
+  
+Our legitimate interests:
+
+| 
+
+  * Complying with regulations that apply to us
+  * Being efficient about how we fulfil our legal and contractual duties
+
+  
+  
+#### Developing our products and services
+
+What we use your personal data for:
+
+| 
+
+  * To develop and manage our brand, products, and services
+  * To manage how we work with other companies that provide products and services to us and our customers
+  * To find people who might benefit from using our products and services
+
+  
+---|---  
+  
+Our reasons:
+
+| 
+
+  * Fulfilling contracts
+  * Our legitimate interests
+  * Our legal duty
+
+  
+  
+Our legitimate interests:
+
+| 
+
+  * Developing products and services, and what we charge for them
+  * Defining types of customers for new products and services
+  * Being efficient about how we fulfil our legal and contractual duties
+  * Complying with regulations that apply to us
+
+  
+  
+#### What happens if we send your data outside of the EEA?
+
+We will only send your data outside of the European Economic Area (‘EEA’) to:
+
+  * Comply with a legal duty
+  * Provide our products and services
+
+
+
+If we do transfer information outside of the EEA, we will make sure that it is protected in the same way as if it was being used in the EEA. To do this, we will use one or more of these safeguards:
+
+  * Only transfer it to a non-EEA country with privacy laws that give the same protection as the EEA, as deemed by the European Commission
+  * Ensure that a contract with the recipient is in place that means they must protect it to the same standards as the EEA
+  * Transfer it to organisations that are part of Privacy Shield. This is a framework that sets privacy standards for data sent between the US and EU countries.
+
+
+
+You can find out more about these safeguards on the European Commission Justice and Information Commissioner’s Office (ICO) websites.
+
+Here is a list of the services we currently use which are located outside of the EEA:
+
+Service Provider
+
+| 
+
+The Trainline  
+  
+---|---  
+  
+Purpose
+
+| 
+
+Contact Centre  
+Telephone Bookings  
+  
+Safeguards
+
+| 
+
+Binding Corporate Rules  
+EU Model Clauses  
+  
+Location
+
+| 
+
+India  
+  
+#### What happens if you choose not to give us your personal data?
+
+We may need to collect personal data by law, or under the terms of a contract we have with you.
+
+If you choose not to give us this personal data, it may delay or prevent us providing our products or services to you. For example, not providing an email address would prevent us from providing you with an e-ticket to travel.
+
+Sometimes we might ask for information that is useful for us to know but is not required by law or a contract. When this is the case, we will make this clear by marking it as optional. You do not have to provide these extra bits of information, and your choice will not prevent us providing you with our products or services.
+
+  
+
+
+#### How do we use your data for marketing?
+
+We may use your personal data to tell you about our relevant products, competitions and offers. This is what we mean when we talk about ‘marketing’. We may also use your data to help create a profile to find potential customers like you.
+
+We will only send you marketing messages if we have either your consent or a legitimate interest. Using legitimate interests is when we have a legitimate business or commercial reason to use your information in a way that does not unfairly go against what is right and best for you.
+
+If we use our legitimate interest to market you, it would only be when you have purchased, or made an action to purchase a train ticket. We always give you the opportunity to object at the point of collection. 
+
+We may use what you tell us about yourself, the data we collect when you use our services, and information from third parties we work with to get a better understanding on what we think would interest you the most. This will also include linking information you have given us to create a full picture of your relationship with us.
+
+You can ask us to stop sending you marketing messages by contacting us at any time by clicking unsubscribe at the bottom of any marketing email or updating your preferences in your online account.
+
+Whatever you choose for marketing, you'll still receive service messages, such as booking confirmations, service updates and timetable changes.
+
+  
+
+
+####  How will we treat children’s privacy? 
+
+Our products and services do not specifically address anyone under the age of 13. It is possible for someone of any age to register and purchase some of our products or services. Where we can, we do request date of birth to help identify those persons. In the case we discover that a child under 13 has provided us with consent for marketing, we will immediately remove this consent. If you are a parent or guardian and you are aware that your child has provided us with personal data, please contact us using one of the methods in the 'how to contact us' section so that we will be able to take the necessary actions.
+
+  
+
+
+#### How do we use your data if you request Assisted Travel on Alexa?
+
+The information you provide to us with your consent, is passed on to the Rail Delivery Group in order that train operators can provide you with the assistance you require. This is because you may be travelling on a train or visit a station that is not run by Virgin Trains. The Rail Delivery Group have a privacy policy for this service located at: <https://passenger-assist.org/assisttravel/PrivacyPolicy.html>
+
+We will store and process this data to make sure your request is completed, but only for those reasons. If you ask us to, we can save your preferences to save you asking us again. If you do this, we will only keep a record for up to 18 months after your journey.
+
+  
+
+
+#### If you share your information with us using Amazon Alexa
+
+We will process your data in line with our Privacy Policy. We will only collect your name, email, address, and information relating to assisted travel (if provided) in order to provide the service to you. We will not use your information for marketing communication purposes and it won’t get shared with third parties.
+
+  
+
+
+#### If you visit our website and checkout as a 'Guest'.
+
+You may want to buy a ticket from us and checkout as a 'Guest'. When you do this, we will maintain a record of your transaction and any preferences you have set. This is important for us to provide you with the services offered and to comply with our legal obligations.
+
+  
+
+
+####  How long will we keep your personal data? 
+
+We will keep your personal data for as long as you are a customer of Virgin Trains. The points below shows how long we keep which information, and our reasons why.
+
+  
+
+
+##### Personal data including transaction history and complaints
+
+For how long:
+
+| 
+
+  * Up to six years after last contact
+
+  
+---|---  
+  
+Our reasons:
+
+| 
+
+  * Keeping our records up to date, working out which of our products and services may interest you and telling you about them
+  * To respond to any questions, claims or complaints
+  * To comply with regulations that apply to us
+  * To be efficient about how we fulfil our legal and contractual duties
+
+  
+  
+
+
+##### CCTV, Bodycam and Call Recordings
+
+For how long:
+
+| 
+
+  * Train CCTV - 7 days after recording
+  * Station CCTV - 4 Weeks after recording
+  * Bodycam - 4 Weeks after recording
+  * Call Recordings - 12 Weeks after recording
+
+  
+---|---  
+  
+Our reasons:
+
+| 
+
+  * To develop and improve how we deal with fraud, as well as fulfilling our legal duties in this respect
+  * To comply with regulations that apply to us
+  * To be efficient about how we fulfil our legal and contractual duties
+
+  
+  
+For very good reasons, we may keep your data for longer than the periods provided, such as if you were unfortunately involved in a safety incident. If we cannot delete it for legal, regulatory, or technical reasons, we will make sure that your privacy is protected and only use it for those purposes.
+
+  
+
+
+#### Do you want us to share what personal data we have about you, with you?
+
+If you want us to share what information we have about you, please let us know. See the 'how to contact us' section below for all the different ways you can get in touch.
+
+If you do want to contact us, it would be helpful for us to complete your query if you provide us with your address, contact details and what you would like to have a copy of.
+
+Sometimes you may be asked to provide proof of identity before we show you your personal data – this helps us prevent unauthorised access.
+
+  
+
+
+#### Is the personal data we have about you incorrect?
+
+You have the right to question any information we have about you that you think is wrong or incomplete. Please contact us using one of the methods in the 'how to contact us' section or you can update details via your online account.
+
+If you do, we will take reasonable steps to check its accuracy and correct it.
+
+  
+
+
+#### Do you want us to stop using your personal data?
+
+You have the right to object to certain ways that we use your personal data, or to ask us to delete, remove, or stop using your personal data if there is no need for us to keep it. This is known as the ‘right to object’ and ‘right to erasure’, or the ‘right to be forgotten’. Please note such requests may not always be possible due to legal obligations we may have to keep such records. For example, ensuring you still have your rights under the Consumer Rights Act.
+
+In some cases, there will be legitimate, legal, or other official reasons for us to keep your data. But please tell us if you think that we should not be using it.
+
+It may be possible for us to restrict the use of your data. This means that it would only be used for certain activities, such as legal claims or to exercise legal rights. If this was to happen, we would not use or share your information in other ways while it is restricted.
+
+You can ask us to restrict the use of your personal data if:
+
+  * It is not accurate
+  * It has been used unlawfully but you don’t want us to delete it
+  * It’s not relevant any more, but you want us to keep it for use in legal claims
+  * You have already asked us to stop using your data but you are waiting for us to tell you if we can keep on using it
+
+
+
+If you want to object to how we use your data, ask us to delete it or restrict how we use it, please contact us using one of the methods in the 'how to contact us' section .
+
+  
+
+
+####  Do you want to withdraw your consent or object to when we use our legitimate interest for marketing? 
+
+You can withdraw your consent or object to marketing at any time. If this is the case, you can do this by:
+
+  * Unsubscribing from an email you receive from us that contains the ‘unsubscribe’ link
+  * Updating your preferences via your online account
+  * Contacting us and informing us by using the 'how to contact us' section
+
+
+
+If you withdraw your consent, we may not be able to provide certain products or services to you. If this is so, we will tell you.
+
+  
+
+
+#### What is a service message?
+
+Services messages are messages we need to send to let you know about your booking, or the service we provide for you. These are different to marketing emails we send as they contain information we need to tell you to ensure we can provide you with our services effectively. Examples of these include:
+
+  * Booking confirmation and ticket details
+  * Changes to terms and conditions and our privacy notice
+  * Information about service interruptions
+
+
 
 back to top
-
-We may collect and process the following data:
-
-  * Information you provide to us by filling in forms on our site
-  * Information collected through correspondence with our Sales and/or Customer Relations teams
-  * Information you provide when signing on to station and/or onboard Wi-Fi
-  * Information you provide when using Beam (onboard entertainment system)
-  * Information you provide when booking direct via www.virgintrains.com or through a Virgin Trains ticket office
-  * Information you provide for loyalty purposes
-  * Information you provide when registering for Bump
-  * Information you provide to us through the recruitment process
-  * Information you provide to us in order to register for alerts
-  * Social Media interaction
-  * Information you provide to us by entering competitions
-  * CCTV at our Stations and On-Board
-  * Statistical data about your browsing actions and patterns for the administration of your application for employment with Virgin Trains
-
-
-
-We may require you to submit personally identifiable information in order for you to make use of our services. You confirm that any information you enter will be true. We will only request and collect information which is necessary or reasonable in order to provide you with your requested services and to improve the services that we provide. It will not be a requirement to provide any additional information which is not needed to provide the services.
-
-back to top
-
-The personal information you provide is used for operational purposes, for example, producing tickets, processing payments or confirming orders, alerting you about your booked journeys, and to personalise your shopping experience by using your purchases and browsing activity to make recommendations to you about products and services that we think may be of interest to you.
-
-We and/or our authorised third parties (including the Association of Train Operating Companies) may also use your personal information: (a) for internal market research and analysis purposes; (b) to carry out survey related activities with you, and (c) dealing with any complaints, refunds and other ticketing / travel issues.
-
-back to top
-
-The information you provide to us may be accessed by our staff, business partners, Virgin Group companies and carefully selected third parties in the course of providing services. We may also use information in aggregate, where personally identifiable information is removed, for marketing and strategic development to improve and support our business.
-
-Some of your information may be transferred out of the European Economic Area (EEA), where data protection laws are not as strong. We will however make every effort to ensure that third parties comply with this policy and the Data Protection Act as much as possible.
-
-Virgin Trains will not share or distribute any of the information you provide to us to unaffiliated third parties without receiving your consent, unless required to do so by Law. 
-
-back to top
-
-We employ administrative, electronic and physical security measures to ensure that the information that we collect about you is protected from access by unauthorised persons and protected against unlawful processing, accidental loss, destruction and damage. By using our website and/or services you acknowledge and agree that, except to the extent required by the Data Protection laws, we shall not be responsible for any unauthorised use, distribution, damage or destruction of personal data. We will only retain your information for a reasonable period or as long as is required by law.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of the data transmitted to our site; any transmission is at your own risk.
-
-We may link you to third party websites which have their own privacy policies. We do not accept any responsibility or liability for the privacy policies, content or security of these websites.
-
-back to top
-
-Some of the information you provide to Virgin Trains when applying for vacancies through our careers service may be sensitive personal data which requires your explicit consent to permit us to process it. If you do not tick the box on the application form confirming that you accept the declaration then Virgin Trains will not be able to accept your application.
-
-We will only use this data:
-
-  1. for confirming your suitability for the work that you carry out, including any checks that are required by Virgin Trains or any other body to be made with the Criminal Records Bureau which may result in Virgin Trains retaining information about criminal convictions;
-  2. in connection with your health including screening and making decisions based on any health records which may be collected by, or transferred to, Virgin Trains;
-  3. for any statutory requirements relating to you or your application;
-  4. for monitoring our selection processes;
-  5. to transfer to your employee file if your application is successful;
-  6. for retention following the outcome of any unsuccessful application.
-
-
-
-back to top
-
-We employ CCTV on our trains and in our stations in order to:
-
-  * prevent, deter and detect crime
-  * apprehend and prosecute offenders, and provide evidence to take civil action in the courts
-  * help provide a safer environment for our staff
-  * protect public safety
-  * help to provide improved customer service, for example by enabling staff to see customers requiring assistance
-  * monitor operational and safety related incidents
-  * assist with the verification of claims
-
-
-
-You have the right to make a Subject Access Request for CCTV images of yourself and to ask for a copy of them. We are entitled by law to charge an administrative fee for this and you will need to complete an application form provided by us in order for us to establish your identity as the person in the pictures and assist us in finding the images in our system. 
-
-Such requests should be directed to Virgin Trains at customer.relations@virgintrains.co.uk or alternatively by post to Customer Relations, Virgin Trains, FREEPOST BM 6613, PO BOX 713, Birmingham, B5 4HH. Your correspondence should be marked 'Subject Access Request - CCTV'
-
-We reserve the right to withhold information where permissible by the Data Protection Act and we will only retain CCTV images for a reasonable period or as long as is required by law. In certain circumstances we may need to disclose CCTV images for legal reasons. When this is done there is a requirement for the organisation that has received the images to adhere to the Data Protection Act.
-
-back to top
-
-You have the right to request to see the personal information that we hold on you, as well as request that inaccurate information be corrected. Any request to update incorrect information or to opt-out of any communications that you initially agreed to receive should be directed to Virgin Trains at customer.relations@virgintrains.co.uk or alternatively by post to Customer Relations, Virgin Trains, FREEPOST BM 6613, PO BOX 713, Birmingham, B5 4HH.
-
-We are entitled by law to charge an administrative fee (Up to £10) towards our costs in processing such requests and we may require proof of your identity before we supply the information to you.
-
-back to top
-
-Virgin Trains reserve the right to update and amend the Privacy Policy. All such developments will be notified to you by updating this Privacy Policy.
-
-This policy was last updated on 03/06/2016
-
-back to top
-
-_Virgin Trains is the trading name for Virgin Rail Group Holdings and its subsidiaries as follows: Virgin Rail Group Holdings Limited Registered in England and Wales No. 4196341\. Virgin Rail Group Limited Registered in England & Wales No. 328548\. West Coast Trains Limited Registered in England and Wales No. 3007940. Registered Office The Battleship Building, 179 Harrow Road, London, W2 6NB _
