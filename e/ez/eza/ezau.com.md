@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezau.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329144121id_/http%3A//www.ezau.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezau.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208000245id_/http%3A//www.ezau.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Ed Zivkovic
 
