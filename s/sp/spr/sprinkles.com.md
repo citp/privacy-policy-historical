@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sprinkles.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608152531id_/http%3A//sprinkles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprinkles.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208050702id_/http%3A//sprinkles.com/privacy-policy) for the most accurate reproduction.*
 
 # Sprinkles Privacy Policy
 
-This privacy policy describes the collection of information by Sprinkles Cupcakes, Inc. ("Sprinkles," "we," or "us") from users of our Web sites at SPRINKLES.COM, ILOVESPRINKLES.COM, and any other websites owned or operated by Sprinkles on which this Privacy Policy is displayed (each, a “Website,” and collectively, the “Websites”), and users of the various services we provide on the Websites (the “Services”), as well as our use and disclosure of that information. By using any of our Websites or our Services, you consent to the collection and use of information in accordance with this policy.
+This privacy policy describes the collection of information by Sprinkles Cupcakes, Inc. ("Sprinkles," "we," or "us") from users of our Web sites at SPRINKLES.COM and any other websites owned or operated by Sprinkles on which this Privacy Policy is displayed (each, a “Website,” and collectively, the “Websites”), and users of the various services we provide on the Websites (the “Services”), as well as our use and disclosure of that information. By using any of our Websites or our Services, you consent to the collection and use of information in accordance with this policy.
 
 ## Personal Information
 
