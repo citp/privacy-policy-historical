@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trifter.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606224012id_/http%3A//www.trifter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trifter.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208124959id_/http%3A//www.trifter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trifter
 
@@ -60,4 +60,4 @@ Trifter is committed to handling your personal information with the highest stan
 
 ## 7\. Contact.
 
-If you have any questions about this Privacy Policy or your dealings with Trifter, you can contact us at: +97236440435 Monday through Thursday between 10:00 – 18:00 GMT, or write to as at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Privacy Policy or your dealings with Trifter, you can contact us at: +97236440435 Monday through Thursday between 10:00 – 18:00 GMT, or write to as at webmaster@trifter.com.
