@@ -1,134 +1,183 @@
-> *The following text is extracted and transformed from the sothebys.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623050337id_/http%3A//www.sothebys.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sothebys.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208131106id_/https%3A//www.sothebys.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Sotheby's - Privacy
+# Privacy Policy
 
-This Web Site ("Web Site") is published and maintained by Sotheby's and its subsidiaries and affiliates (collectively referred to in this PrivacyPolicy as "Sotheby's," "we," "us,""our," or other similar pronouns, or "The Sotheby's Group"). 
+_Effective May 25, 2018_
 
-This Privacy Policy governs your use of the Sotheby's Web Sites on which it is posted.  By visiting this Web Site, and/or using the services offered on or through this Web Site (the "Services"), you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the Sotheby's Web Site [Terms and Conditions of Use](https://web.archive.org/en/terms-conditions.html), which governs your use of this Web Site in general.
+ **SCOPE**
 
-You may opt in or opt out of our sharing of your Personal Information with third parties for their marketing purposes by following the directions in the “Marketing Preferences” section below.
+Welcome to the Sotheby’s group of companies (“Sotheby’s” or “we”). From its beginnings in 1744, Sotheby’s has built its business on the trust of its customers, clients and visitors. We endeavor to understand their interests in art and, at the same time, protect their privacy. Those values remain essential to us even as we have grown into a global network of offices in approximately 40 countries. Sotheby’s publishes this Privacy Policy to let you know how we will continue to collect, use, and protect personal information about you in a digital age. It also describes your rights in relation to this information.
 
-**Purpose**  
-  
-Your privacy is a serious matter to us. In order to make your visits to our Web Site and use of the services available through our Web Site as worthwhile as possible, we may ask you for Personal Information and we may collect certaininformation about you and your interaction with the Web Site from you and yourcomputer each time you visit us. **"Personal Information"** includes, for example, your name; title; home and/or business address; e-mail address;home and/or business telephone, wireless and/or fax number; credit card andother payment information; demographic information; your location; art interests or preferences, art purchases, auction activity and bidding history, paddle numbers, bidding amounts, payment history; and/or other information thatmay identify you as an individual or allow online or offline contact with you as an individual. “Personal Information” includes “Personal Data” as that termis defined in Article 2 of the European Union Data Protection Directive. This Privacy Policy explains, in general, what Personal Information and otherinformation is collected on our Web Site, how the information is used, and with whom we may share such information. Please take a few minutes to read our Privacy Policy so that you understand how Sotheby's treats your information. 
+This Policy covers information that you give us when you bid or purchase something from us or consign art work or other goods to us, register for or attend any of our live events around the world, visit or register for any of our Sotheby’s branded websites or apps, request a catalog, sign up for any of our print or online publications or newsletters or publish information on Sotheby’s pages on social media platforms. We will publish a link to the Policy at the bottom of online properties to which it applies and as often as possible, will include its URL, <http://www.sothebys.com/en/privacy-policy> on paper forms to which it is applicable. 
 
-**Marketing Preferences**  
-  
-You have the right to "opt in" and "opt out" of certain ofour uses of your Personal Information and may change your preferences regarding such uses at any time. For example, at the time you are requested to provide Personal Information on this Web Site, you may have the opportunity to elect whetheror not to: (1) receive commercial correspondence from us (either on our behalfor on behalf of a third party), or (2) have your Personal Information shared with other entities (outside of The Sotheby's Group) for their marketingpurposes. You may also make this request by visiting our marketing preferences [Web page](http://www.sothebys.com/app/account/accountDetails.do?dispatch=showAuctionAlerts).You may also opt-out of Sotheby's promotional e-mails by clicking on the opt-out link within the e-mail you receive, or of Sotheby's postal mailings byfollowing the directions in such mailings.  Please be aware that it may take up to 10 business day(s)for Sotheby’s to update your preferences. During that time, you may continue to receive messages from us.
+Please note that we may offer you _online_ auction opportunities in two ways: first, you may bid on Sotheby’s own auction platform. Data about you will be collected and used according to this Policy and our [Cookie Policy ](https://www.sothebys.com/en/cookie-policy) as published on those sites or apps. Second, we may also arrange for other companies’ auction sites to allow you to participate in our auctions/bid for Sotheby’s items from their sites. The other companies may collect data about you and your participation according to their respective privacy policies. Those other companies will transfer data about you to us to fulfill successful bids and we may also use that data in any manner consistent with this Policy. We recommend that you take a moment to ascertain whether you are on another company’s auction site and review the posted privacy policy applicable to that site.
 
-Please understand that if you opt-out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us (including,for example and without limitation, alerts, tracked lots, wishlists and condition reports, in connection with your use of mySothebys (as definedabove)). You may control how you receive such non-promotional correspondence from us by updating your account preferences. Also, a request to have us stopsharing your Personal Information with other entities for marketing purposes will only apply as of the date on which we receive your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such request. In these cases, please contact that entity directly. 
+ **HOW SOTHEBY’S COLLECT INFORMATION ABOUT YOU**
 
-**WHAT INFORMATION IS COLLECTED ON THIS WEB SITE?  
-**
+Personal information is information, or a combination of pieces of information that could reasonably allow you to be identified. We will collect personal information about you from a variety of sources, including information we collect from you directly (e.g. when you contact us), information we collect about you from other sources and information we collect automatically from you, as described below: 
 
-**User-Provided Information**  
-  
-We collect Personal Information from users of our Web Site, for example,through such users' activities, transactions and completion of online forms on our Web Site. Such information is collected, for example, when users register or subscribe for accounts or features on our Web Site (for example, when you register to look at certain items of property up for auction or auction results, or when you use mySothebys (as defined above)), make online purchases(such as catalogue purchases), complete surveys, submit a comment or question to us using a "contact us" or similar feature on our Web Site, send us an e-mail, or in any other way submit Personal Information to us via our Web Site.
+**Information We Collect Directly From You**
 
-You may be able to send information about our products and services to your friends and family members through our Web Site by clicking ona "Share" or similar button on our Web Site or in an e-mail that we have sent you. In some of these cases (unless you simply forward our e-mail onyour own), you may provide the e-mail address of your friend or family member to us. 
+The categories of information that we collect directly from you are: personal details (e.g., name, date of birth), contact details (e.g., phone number, email address, postal address), transaction information (e.g., bidding records, shipping details, information about items you purchase or wish to consign), limited financial information (e.g., tokenized payment information in connection with your purchases, wire instructions), username and password, and identification information. 
 
-## Web Site Usage Information
+We rely on the information you provide to us or that we collect or observe about your individual interactions with us, for example, if you attend a live event, participate in one of our auctions, become a client, or register online. If you have registered with us online, we use data collection technologies to collect information that indicates your individual interests in our websites, online platforms and apps, and your response to our emails and marketing campaigns. 
 
-**Cookies**  
-  
-If you have permitted your computer to accept “cookies,” we may use “cookies” to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related software from a Web server and stored on your computer's hard drive. Cookies track where you travel on our Web Site and what you look at, transact and purchase. They may store the information in your shopping cart, and/or your username and/or password, and wemay use them to deliver specific messages to you (for example, to announce anew feature that was added since the last time you visited the Web Site). A cookie may enable us to relate your use of our Web Site to other information about you, including your Personal Information. All of these purposes serve to improve and personalize your experience on our Web Site.
+**Information We Collect From Other Sources**
 
-Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web Site or certain areas or features of the Web Site.
+We may add public information about you from external sources, including social media sites. The categories of info we collect about you from other sources are your public profile information, family relationships, and organizational affiliations. We may work to expand our customer base by acquiring names, contact data, financial information, affiliations, and demographic information from other sources such as private companies, public registers, and social media sites. We may also generate information such as appraisals, profiles, and a history of our relationships with you based on the information you have provided or that we have obtained from other sources.
 
-**Clear GIFs**  
-  
-We may use "clear GIFs" (aka "Web beacons" or "pixeltags") or similar technologies, in the Web Site and/or in our communications with you, to enable us to evaluate Web Site Usage Information about visitors to the Web Site, target campaigns, upgrade visitor information,and know whether you have visited a Web page or received a message. A clear GIFis typically a one-pixel transparent image (although it can be a visible imageas well), located on a Web page or in an e-mail or other type of message, which is retrieved from a remote site on the Internet thus enabling the verification of an individual's viewing or receipt of a Web page or message. A clear gif may enable us to relate your viewing or receipt of a Web page or message to other information about you, including your Personal Information.
+We may make video recordings of our auctions, gallery spaces, and certain live events.
 
-**IP Address and Clickstream Data**  
-  
-Our server automatically collects data about your server's Internet address when you visit us. This information, known as an Internet Protocol address, orIP Address, is a number that's automatically assigned to your computer by your Internet service provider whenever you're on the Internet. When you request pages from our Web Site, our servers may log your IP Address and sometimes yourdomain name. Your IP Address is used to help identify you and to gather demographic information about our customers as a whole. Our server may also record the referring page that linked you to us (e.g., another Web site or a search engine); the pages you visit on this Web Site; the Web site you visit after this Web Site; the ads you see and/or click on; other information about the type of Web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Web Site or a referral site;and other Web usage activity and data logged by our Web servers. We use this information for internal system administration, to help diagnose problems withour server, to administer our Web Site, and to customize your user experience. Such information may also be used to gather demographic information, such as country of origin and Internet Service Provider. We may link this information with your Personal Information.
+ **Information We Collect Automatically**
 
-Any or all of these activities with regard to Web Site Usage Information may be performed on our behalf by our services providers, including, for example, our analytics vendor(s) and our e-mail management partner(s). 
+We may use common data collection technologies as you visit our websites or apps or interact with our emails:
 
-**How is your Personal Information used?**  
-  
-We will use the Personal Information you provide to our Web Site, for example,to respond to your requests and to provide you with our product and service offerings. For example, we will process and fulfill your orders (e.g., for catalogues), respond to your requests and inquiries and provide you with the services and features offered on or through our Web Site. We may also use your Personal Information to maintain our internal record keeping. We may also report information about your account to credit bureaus. Late payments, missed payments, or other defaults on your account may be reflected in your credit report. We may match information collected from you through different means or at different times, including both Personal Information and Web Site Usage Information, and use such information along with information obtained from other sources, including third parties. We also may compare your contact information to data in our worldwide databases in order to improve our Web Site and marketing. Also, advertisements and other content displayed to you on the Web Site may be customized to your interests and preferences, based on your Personal Information and Web Site Usage Information, including, for example, non-Personal Information, which we may obtain from you or from other sources.
+– Our logs gather date, time, information about your browser and system or device configuration, information about how you interact with our digital properties, and an IP address for all visitors to our sites. We use this information for our internal security purposes, for trend analysis and system administration, and to gather general information about our audiences and their geographic locations.
 
-In addition, we may use your Personal Information to send you notices about, or invitations to upcoming events in the collecting area inwhich you've made a purchase (for example, in the form of e-mails, mailings,and the like), and to otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you. In order to alert you to the widest possible number of items and events of interest to you from our sales and events worldwide, we may share thisinformation among our affiliates in The Sotheby's Group. For example, if you've expressed interest in Jewellery, Sotheby's may share your name with Sotheby's Institute in London so that they can alert you to upcoming lectures and events in connection with Jewellery. You may change your preferences regarding communications from us by following the instructions in the Marketing Preferences section above. 
+– Cookies can also read and collect data about your browsers as you visit our websites: please read our [Cookie Policy ](https://www.sothebys.com/en/cookie-policy) for more detailed information about what cookies are, what kinds are used on our sites, and what choices you have.
 
-We also may provide visitors to our Web Site an opportunity to receive offers from other entities (outside of The Sotheby's Group) who have services, products and offers that we think might be of interest to you. For example, if you have elected to receive notices about our jewellery sales, we might include a link to [Sotheby's International Realty](http://www.sothebysrealty.com/) or [Sotheby's Diamonds](http://www.sothebysdiamonds.com/) in the e-mails we send to you. (Please note that Sotheby'sInternational Realty is not a member of The Sotheby's Group and that Sotheby'sDiamonds is a partnership between Sotheby's and Steinmetz. Information collected on these and any other sites is subject to those sites' privacy policies.) However, we will not transfer your contact information to any unaffiliated third party for the third party's marketing purposes unless you expressly direct us to do so. If you change your mind and no longer want to receive third party promotions, follow the instructions to opt out in the Marketing Preferences section above.
+– In general, our app will funnel data you provide about yourself, for example, registration or bidding data, back to our data bases and systems. An app may however, rely on other data collection technologies to recognize the device you use for viewing and personalize your experience. If our app relies on additional data collection technologies that collect or use data about individual users, we will include additional notice either within the app or in a policy that accompanies it.
 
-We may analyze user behavior as a measure of interest in, anduse of, our Web Site and e-mails, both on an individual basis and in the aggregate. 
+– We also use and allow certain other companies to use technologies that are similar to cookies (for example pixels and gifs) when we send you emails. This helps support the delivery of Internet-based content and advertisements to you.
 
-**Do we share Personal Information and Web Site Usage Information with others?**  
-  
-Sotheby's does not sell, lease or give your Personal Information to any other company, unless otherwise stated herein.
+ **Automatic Decision-Making**
 
-**Call Center**  
-  
-Certain Personal Information is only available to certain Sotheby's employees and to Sotheby's third party call center and other service providers, as set forth below. The third party call center is required to keep all sensitive information about you and your use of our Web Site confidential. The call center is required to use your information solely in order to help you with registration or sign-in problems and other services.
+The way we analyse personal information for advertising and marketing purposes and for client development, risk assessment, or fraud prevention may involve profiling, which means that we may process your personal information using software that is able to evaluate your personal aspects and predict risks or outcomes. For example, we may use the information we collect (e.g., bidding information, browsing history, and consignment history) to infer your interests. And we may use those inferences to support automated decisions about the content, recommendations, and offers we present to you on our digital properties. We may use automated tools to flag for further review suspicious activities associated with our digital services (e.g., multiple logins from different locations within a short period of time or activities associated with suspicious IP addresses). These automated activities will not, in themselves, have legal or similar effects for you. 
 
-**Service Providers**  
-  
-We may use third party partners to help operate our Web Site and deliver our products and Services, and may, when necessary to do so, share your informationwith our affiliates, service providers and other third parties that provide products or Services for or through this Web Site or for our business purposes (such as Web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use suchinformation on our behalf). These third party partners are obligated to protect the security and confidentiality of your information. 
+**HOW SOTHEBY’S USES INFORMATION ABOUT YOU**
 
-**Artnet (Past Sales Results)**  
-  
-For certain sales, we have incorporated a link on our catalogue pages to a third party web site, artnet.com. Users of this service may be required toprovide us with certain Personal Information such as an e-mail address. Then we may use a cookie to remember you as a registered user and to track what youbrowse. We use this information to refine our Web Site, notify you of properties and invite you to events that may be of interest to you. You may request that we do not send any such notices or invitations to you by following the instructions in the Marketing Preferences section above.
+Sotheby’s uses data about you for the following purposes:
 
-Subject to your consent, we have agreed to share names and e-mail addresses provided to us for use of the Artnet feature with Artnet. Artnet is obligated to protect your confidential information and to only usethis information to invite you, no more than twice, to use Artnet's otherservices. Click here to see Artnet's [privacy policy](http://www.artnet.com/about/privacy-formal.asp). You mayrequest that we do not share your name and e-mail address with Artnet byfollowing the instructions in the Marketing Preferences section above.
+ _– To manage and assure the integrity of our auctions._
 
-**Aggregate Statistics**  
-  
-We may disclose aggregate statistics regarding user behavior as a measure ofinterest in, and use of, our Web Site and e-mails to third parties in the formof aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
+ _– To fulfill your orders, facilitate consignments, provide the services, publications, catalogs, and information you request, and manage your account, enquiries and requests and to manage your relationship with us._
 
-**Legally Compelled Disclosures**  
-  
-We may disclose user information to government authorities or other third parties when we believe such disclosure is required by law.  We may also disclose user informationas necessary to enforce the Sotheby’s Web Site Terms and Conditions, inconnection with investigations, or when we believe disclosure is necessarily incident to the provision of Sotheby’s services or to the protection of therights, property or safety of Sotheby’s or others.
+ _– To send you information about upcoming events and content that you may be interested in._
 
-**Business Transfer**  
-  
-Sotheby's regards its databases of customer information (which will include your Personal Information) as a valuable asset. In the event that Sotheby's,any entity of The Sotheby's Group, or substantially all of its or their assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, such databases containing Personal Information may be one of the transferred assets. In addition, such a transfer may mean that your Personal Information istransferred to countries outside the European Economic Area ("EEA"). In using the Services you consent to such transfer of your Personal Information.
+ _– To improve and personalize our website and services._
 
-**Wireless Addresses**  
-  
-If the email address you provide to us is a wireless email address, and you have elected to receive promotional messages from Sotheby's, you agree to receive messages at such address from us, unless and until you have elected not to receive such messages by following the instructions in the Marketing Preferences section above. You understand that your wireless carrier's standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the Marketing Preferences section above. You represent that you are the owner or authorised user of the wireless device on which messages will be received, and that youare authorised to approve the applicable charges. 
+ _– To match online ads to your interests, arrange for Sotheby’s and other companies’ ads to reach you after you have left our sites, and help advertisers show you ads that are more relevant to your interests._
 
-**Your Access Rights**  
-  
-You may review and edit the Personal Information that is stored in your useraccount on our Web Site (e.g., your passwords and other contact information) by visiting the “Profile” area of your account on our Web Site or by contacting Sotheby's via the email address at the end of this policy.  We will endeavor to respond to your request as soon as practicable. Before we are able to provide you with anyinformation, correct any inaccuracies or delete any information, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. In addition, you have the right to request access tothe Personal Information that we hold about you at any time. 
+ _– To expand our online audiences._
 
-**Security**  
-  
-Sotheby's will take reasonable steps to protect the security and integrity ofall Personal Information provided to this Web Site, including making your Personal Information available to our employees and agents on a need-to-know basis. However, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our system or otherwise inour care, will be absolutely safe from intrusion by others, such as hackers. 
+ _– To provide, maintain, and protect our digital offerings._
 
-If you contact us by e-mail or a "contact us" or similar feature on our Web Site, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit. 
+ _\- To protect against risk of fraud by clients._
 
-You may be able to create an account on our Web Site with a username and password. Passwords are encrypted and Sotheby's policies do not permit any employee or service provider access to your password. If you do create a username and password, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Web Site by you or any person or entity using yourpassword, whether or not such access or use has been authorised by or on behalfof you, and whether or not such person or entity is your employee or agent. You agree to (a) immediately notify Sotheby's of any unauthorised use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session, especially where you are accessing the Web Site on a public computer. It is your sole responsibility to control the dissemination and use of your password, control access to and useof your account, and notify Sotheby's when you desire to cancel your account onthis Web Site. We will not be responsible or liable for any loss or damagearising from your failure to comply with this provision.
+ _– To protect and defend our rights and property, you, or third parties._
 
-We will have no liability for disclosure of your information dueto errors or unauthorised acts of third parties.
+ _– To comply with legal obligations to which we are subject and cooperate with regulators and law enforcement bodies._
 
-In the unlikely event that we believe that the security of yourPersonal Information in our possession or control may have been compromised, wemay seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. You consent to our use of e-mail as a means of such notification. ****
+ _– For any other purpose that we tell you about specifically when you register or provide data about yourself to us._
 
-**Phishing**  
-  
-With identity theft a continuing problem, it has become increasingly common for unauthorised individuals to send e-mail messages to consumers, purporting to represent a legitimate company such as a bank or on-line merchant, requestingthat the consumer provide personal, often sensitive information. Sometimes, thedomain name of the e-mail address from which the e-mail appears to have beensent, and the domain name of the web site requesting such information, appears to be the domain name of a legitimate, trusted company. In reality, such sensitive information is received by an unauthorised individual to be used forpurposes of identity theft. This illegal activity has come to be known as"phishing." 
+ **WHEN SOTHEBY’S MAY DISCLOSE INFORMATION THAT IDENTIFIES YOU**
 
-Sotheby’s will never request your password or social security number via e-mail. If you receive an e-mail or other correspondence requesting that you provide any sensitive information (including your Web Site password or credit card information) via e-mail or to a web site that does not seem to beaffiliated with our Web Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us. ****
+Sotheby’s may disclose or transfer data that identifies you to other companies or entities only as follows:
 
-**Consent to Worldwide Transfer and Processing of Personal Data**  
-  
-Sotheby's is a global enterprise, with affiliates worldwide. When you give your Personal Information to Sotheby's, it may be processed by Sotheby's in all countries in which Sotheby's has affiliates. Each of these countries has different privacy laws that afford varying levels of protection for your PersonalInformation. Regardless of the laws in place in these countries, Sotheby's willtreat the privacy of your information in accordance with this Privacy Policy. **By providing your Personal Information to Sotheby's, you consent to Sotheby's transmission to, and processing of your information in, any jurisdiction, inaccordance with this Privacy Policy.**
+ _–_ To business partners and vendors that work on our behalf to provide services such as item shipments, mailings, customer account and technology support, secure payment processing, fraud prevention, digital marketing management, and data storage.
 
-**Third Party "Linked-To" Web Sites**  
-  
-When you are on our Web Site you may have the opportunity to visit, or link to, other sites not operated by Sotheby's, including other Web sites operated by other members of The Sotheby's Group or by unaffiliated third parties. Examples of such third party sites are artnet.com, Sotheby's International Realty, Sotheby's Institute of Art, and Sotheby's Diamonds. These sites may collect Personal Information about you. Sotheby's does not control sites that areoperated by these entities and is not responsible for the information practices of these sites. This Privacy Policy does not address the information practicesof those other Web sites. The Privacy Policies of Web sites operated by other members of The Sotheby's Group and other affiliated entities are located onthose sites. 
+ _–_ To our online auction partners.
 
-**Changes to this Privacy Policy**  
-  
-Sotheby's reserves the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Web Site by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to this Web Site. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Web Site to sending you an e-mail.  
+ _–_ To consigners and others as needed to facilitate a consignment.
 
+ _–_ To organizations we partner with to host events.
 
-If you have any questions or comments regarding our privacy practices or wish to verify or change the information in our files, you may contact us at [enquiries@sothebys.com](mailto:enquiries@sothebys.com). You may also send mail to us with any comments, questions or concerns at: 
+ _–_ To other companies within the Sotheby’s group of companies (including Viyet) for marketing, business development purposes and internal reporting. 
 
-Sotheby's.  
+_–_ To law enforcement or other entities that present valid legal process or in our discretion, unless otherwise prohibited by law, to protect human safety, our rights, or the rights of others.
+
+ _–_ To meet certain legal compliance requirements for example, under AML (anti-money laundering) laws, or customs laws and regulations. 
+
+_–_ As part of a sale, merger, liquidation, or transfer of our business assets. 
+
+– We disclose information about you to Sotheby’s International Realty, a company not affiliated with Sotheby’s.
+
+– We may transfer information about you to ad technology firms so that they may recognize your devices and deliver interest-based content and advertisements to you. The information may include your name, postal address, email, device ID, or other identifier. The ad technology firm may process the information in hashed or de-identified form. These firms may collect additional information from you, such as your IP address and information about your browser or operating system; may combine information about you with information from other companies in data sharing cooperatives in which we participate; and may place or recognize their own unique cookie on your browser. To opt out of third-party cookies, please refer to your browser settings or follow the instructions in our [Cookie Policy](https://www.sothebys.com/en/cookie-policy) . 
+
+**YOUR CHOICES**
+
+You have a choice about and control over:
+
+– Receiving marketing messages from us. We may contact you by email, text, or SMS messaging.
+
+– We encourage you to visit Sotheby’s [Preference Pages ](https://www.sothebys.com/en/preferred/preferences.html) to let us know what information you would like us to send to you and your preferred means of delivery.
+
+– You may also stop email marketing by using the “opt out,” or “unsubscribe” mechanism at the bottom of our email marketing messages. In most cases, we will give you a choice about stopping just one kind of email or opting out of all email marketing from us.
+
+– If you have provided data about yourself to a member of the Sotheby’s group and reside in the European Union (“EU”) you have the legal right to ask us not to process that personal data about you for marketing purposes and to revoke your consent at any time. To make such a request, please contact enquiries@sothebys.com . 
+
+– Whether cookies can be set or read on your browser. You can learn more about controlling cookies placed on your device as you visit our sites in our [Cookie Policy](https://www.sothebys.com/en/cookie-policy) .
+
+– Whether your account is up to date. You may review and edit the Personal Information that is stored in your user account on our website (e.g., your passwords and other contact information) by visiting the “Profile” area of your account on our website or by contacting Sotheby’s via the email address at the end of this policy. We will endeavor to respond to your request as soon as practicable. Before we are able to provide you with any information, correct any inaccuracies, or delete any information, however, we may ask you to verify your identity and to provide other details to help us to respond to your request.
+
+ **INFORMATION SECURITY AND STORAGE**
+
+Sotheby’s is a global company. We receive data collected locally by members of the Sotheby’s group and collect data online directly from individuals in countries around the world. We may process that data on servers globally. We have put recognized protections in place for the transfer of data from members of the Sotheby’s group in the EU to our servers in the United States (“US”).
+
+We protect your information using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure, and alteration. Please be aware, though, that no security measures are perfect or impenetrable. You remain responsible for protecting your username and password and for the security of information you transmit to us over the Internet. 
+
+We will keep your personal information for as long as we have a relationship with you. Once our relationship with you has come to an end, we will retain your personal information for a period of time that enables us to:
+
+– Maintain business records for analysis and/or audit purposes.
+
+– Comply with record retention requirements under the law or other relevant legal or regulatory requirements.
+
+– Defend or bring any existing or potential legal claims.
+
+– Deal with any complaints regarding the services.
+
+– Preserve historical records of transactions and property.
+
+We will delete your personal information when it is no longer required for these purposes. 
+
+**CHILDREN’S DATA**
+
+Our websites are directed to adults, including young adults. They are not directed to children, particularly under those under the age of thirteen. We do not accept them as clients or knowingly collect data about them.
+
+Our websites may contain links to other websites not owned or controlled by Sotheby’s. Those websites may collect information about you. Sotheby’s is not responsible for their practices or content.
+
+ **HOW TO CONTACT US**
+
+For questions about this Privacy Policy please email us at Compliance@sothebys.com  or contact:
+
+Sotheby’s  
+Attn: Compliance & Business Integrity Department  
 1334 York Avenue  
-New York, New York 10021  
-Attention: Data Quality Department
+New York, NY 10021
 
-**Last Modified: April 7, 2011**
+ **ADDITIONAL INFORMATION FOR EEA CUSTOMERS & VISITORS TO SOTHEBY’S SITES AND APPS**
+
+In order to meet privacy regulations in the European Economic Area (“EEA”) and Switzerland, Sotheby’s provides additional information to its EEA based customers, website visitors, and users of its apps.
+
+ **Who is responsible for your data?**
+
+If you transact in an auction or private sale in a Sotheby’s office in the EEA or Switzerland, then the Sotheby’s entity running the auction will be the data controller for that data. The name and contact details for this entity will be set out in your consignment agreement, private sale agreement, invoice, or Conditions of Business for the auction.
+
+If you visit Sothebys.com, another Sotheby’s website or use a Sotheby’s app, then the data controller will be Sotheby’s, a US entity, and this Policy contains our contact details. Sotheby’s representative in the EU is Sotheby’s London.
+
+ **What is the legal basis on which Sotheby’s relies to process your data?**
+
+On some occasions, Sotheby’s processes your data with your consent (e.g., when you agree that we may place cookies, or if you ask Sotheby’s to send you information about upcoming events).
+
+On other occasions, Sotheby’s processes your data when we need to do this to fulfill a contract with you (e.g., for billing purposes) or where we are required to do this by law (e.g., where we have to fulfill anti-money laundering requirements). If it is mandatory for you to provide data for these purposes, we will make this clear at the time and will also explain what will happen if you do not provide the data (e.g., that we will not be able to process a bid at auction).
+
+Sotheby’s also processes your data when it is our legitimate interests to do this and when these interests are not overridden by your data protection rights. For example, Sotheby’s has a legitimate interest in ensuring the security and integrity of our auctions, in learning about the interests and preferences of our current and prospective clients, in developing new business opportunities, in maintaining accurate business and provenance records, and in ensuring that our websites and apps operate effectively. When we process personal information to meet our legitimate interests, we put in place robust safeguards to ensure that your privacy is protected and to ensure that our legitimate interests are not overridden by your interests or fundamental rights and freedoms.
+
+ **Data transfers**
+
+Sotheby’s may transfer personal data to countries outside the EEA, including to countries which have different data protection standards to those which apply in the EEA. Sotheby’s has put in place European Commission approved standard contractual clauses to protect this data. For more information on the appropriate safeguards in place, please contact us at the details above. 
+
+**Your rights**
+
+You may ask Sotheby’s for a copy of your personal information, to correct it, erase it, restrict our use of it, or to transfer it to other organizations at your request subject to local law. You also have rights to object to some processing and, where we have asked for your consent to process your data, to withdraw this consent. In particular, you have rights to object to direct marketing at any time. Where we process your data because we have a legitimate interest in doing so (as explained above), you also have a right to object to this. These rights may be limited in some situations – for example, where we can demonstrate that we have a legal requirement to process your data. 
+
+If you would like to discuss or exercise such rights, please contact us at the details above. We encourage you to contact us to update or correct your information if it changes or if the personal information we hold about you is inaccurate. We will contact you if we need additional information from you in order to honor your requests.
+
+We hope that we can satisfy queries you may have about the way we process your data. We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. However, if you have unresolved concerns and believe that we have not been able to assist with your complaint or concern, you also have the right to complain to data protection authorities.
+
+ **Changes to this Policy**
+
+You may request a copy of this Policy from us using the contact details set out above. We may modify or update this Policy from time to time.
+
+If we change this Policy, we will notify you of the changes by updating this Policy on our website. Where changes to this Policy notice will have a fundamental impact on the nature of the processing or otherwise have a substantial impact on you, we will give you sufficient advance notice so that you have the opportunity to exercise your rights (e.g., to object to the processing if you are located in the EEA or Switzerland).  
+
