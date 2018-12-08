@@ -1,39 +1,22 @@
-> *The following text is extracted and transformed from the mahindra.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618190824id_/http%3A//www.mahindra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mahindra.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208132220id_/http%3A//www.mahindra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mahindra Rise
 
 ## Privacy Policy
 
-We collect information about you when you visit our site, use our services, or view our online advertisements. The information that we collect and store during normal use of the site is used to monitor use of the site and to help further development of our products and services. In general, you can visit M&M’s website on the Internet without telling us who you are or providing data that personally identifies you. Such use does not result in any personally identifiable data being collected or stored.
+Thank you for visiting our corporate website at www.mahindra.com. (“We”/”M&M” refers to Mahindra & Mahindra Limited, including its subsidiaries and affiliates (also referred to as “us”, or “our”) (M&M, its subsidiaries and affiliates shall be collectively referred to as “ **Mahindra Group affiliates** ”). (This Privacy Policy shall be referred and read as an integral part of the Terms of Use of the M&M Website.)
 
-### Privacy Statement
+Your privacy is important to us, and this Policy will explain how we collect and use information that personally identifies you (" **personal information** ") as well as non-personal information about your interaction with the M&M Website. Protecting your privacy and ensuring that your personal information is held securely is very important to M&M. We want you to be confident that we are looking after your interests and that is why we have set out our information practices in this Privacy Policy.
 
-Protecting your privacy and ensuring that your personal data is held securely is very important to M&M. We want you to be confident that we are looking after your interests and that is why we have set out our information practices in this Privacy Statement.
+  1. This privacy policy applies only to the M&M Website. The text and graphic links on the M&M Website linking to third party social media sites and information and service providers that may also collect information from you. In addition, some of the pages on the M&M Website may lead to co-branded web pages that are hosted and served by third-parties. In each of the said cases, we have no control over the privacy policy of any third party company, so please examine their privacy policy prior to submitting any personal information.
+  2. In general you can visit M&M’s Website on the Internet without telling us who you are or providing personal information. Such use does not result in any personally identifiable data being collected or stored. We may however collect information about you when you visit M&M Website, use our services, or view our online advertisements. Having said that, unless you submit personal information about yourself by filing in any form on the M&M Website or by sending us an e-mail, we are not obliged to maintain any other personal information as a result of your access and usage of this M&M Website.
+  3. The information which we collect and store during normal use of the M&M Website may be used to monitor use thereof and to help further development of our products and services in India, unless you specifically ask us in writing not to do so.
+  4. We do not share your personal information with third parties, unless we need to share your personal information to provide the product or service you have requested and we have asked for and obtained your explicit consent. The foregoing notwithstanding, if (1) disclosure was required by law, rule or regulation or was in response to a valid order of a court or authorized agency of government or other legal process and/or; (2) When we find your action on the M&M Website violates the M&M terms and condition or any of your usage guidelines for specific products or services.
+  5. This Privacy Policy will apply when you use the M&M Website to discover more information about M&M and its products. This Privacy Policy is applicable to data collected by M&M and other M&M companies worldwide for use by these companies.
+  6. Whilst any application, request or enquiry you make, may be passed or made available to Mahindra Group affiliates some of which will be based in countries that do not have data protection laws, all Mahindra Group affiliates are required to comply with an internal Privacy Policy which requires that steps are taken to protect your personal information and for it only to be used for the purpose(s) for which it was submitted.
+  7. By submitting your personal information through this M&M Website, you shall be consenting to it being processed in the manner described above by Mahindra Group affiliates around the world and our hosting organizations around the world. If you have submitted personal information through this M&M Website and wish us to cease using it for the purposes submitted, please contact us. At any time, if you are concerned that the information we hold about you is incorrect, please do not hesitate to contact us to correct such information.
+  8. We are strongly committed to the protection of your privacy online and accordingly, we take security measures in relation to the information and personal data that is contained at our facilities and restrict access to the M&M Website, buildings, computer rooms, office desk, technology areas, equipment and other facilities where unauthorised access by people could compromise our security.
+  9. We also take appropriate technical and organizational measures to protect the personal information provided to us by you against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access. We also take further measures to comply with the relevant statement regarding what we can do with personal information we obtain from you.
+  10. We endeavour to detect and investigate every breach of security by having relevant controls in place which should alert us to a breach of security. We may also use encryption technology from time to time to assist in protecting any information or data which you submit. Having said that, we cannot and do not guarantee the security of any personal information or data you disclose online, having regard to the nature of the Internet. In any event, you accept the inherent security implications of disclosing information over the internet and agree not to hold us responsible for any breach of security unless we have been negligent or wilfully in default of our obligations under the relevant legislation.
 
-We do not share your information with third parties, unless we need to share your information to provide the product or service you have requested and we have asked for and obtained your explicit consent. The foregoing notwithstanding, if (1) disclosure was required by law, rule or regulation or was in response to a valid order of a court or authorized agency of government or other legal process and/or; (2) When we find your action on the website violates M&M terms and conditions or any of your usage guidelines for specific products or services.
 
-This Privacy Statement will apply when you use our website to discover more information about M&M and its products. This Privacy Statement is applicable to data collected by M&M and other M&M companies worldwide for use by these companies.
-
-Whilst any application, request or enquiry you make, may be passed or made available to M&M Group affiliates some of which will be based in countries that do not have data protection laws, all M&M Group affiliates are required to comply with an internal Privacy Policy which requires that steps are taken to protect your personal data and for it to only be used for the purpose(s) for which it was submitted.
-
-By submitting your personal data through this website, you shall be consenting to it being processed in the manner described above by M&M, its Group affiliates around the world and our hosting organizations around the world.
-
-If you have submitted personal data through this website and wish us to cease using it for the purposes submitted, please contact us using the contact details given in the appropriate sections of the site.
-
-**Contacting us**
-
-M&M regularly reviews its compliance with this Privacy Statement. Please feel free to direct any questions or concerns regarding this Privacy Statement or our treatment of personal data and information by completing our web contact form or by writing to us at the following addresses:
-
-**Registered Office:**
-
-  Mahindra & Mahindra Limited, Gateway Building, Apollo Bunder, Mumbai - 400 001.India.
-
-**  Head Office: **
-
-  Mahindra Towers, G.M. Bhosale Marg, Worli, Mumbai - 400 018. India.
-
-**Changes to this Policy**
-
-M&M may edit this policy from time to time. If we make substantial changes, we will notify you by posting a prominent announcement on this website.
-
-* * *
