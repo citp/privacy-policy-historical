@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the inkydeals.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902005003id_/https%3A//www.inkydeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkydeals.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208095154id_/https%3A//www.inkydeals.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | InkyDeals
+# Privacy Policy - InkyDeals
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.inkydeals.com/terms-conditions/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://www.inkydeals.com/terms-conditions/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**Inky Deals is a trademark and service of Brainik LTD.**
+**Inky Deals is a trademark and service of Hummingbird Web Solutions Pvt Ltd.**
 
-This Privacy Policy governs the manner in which Brainik LTD collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.inkydeals.com](http://www.generateprivacypolicy.com/account/policies/edit/www.inkydeals.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Brainik LTD.
+This Privacy Policy governs the manner in which **Hummingbird Web Solutions Pvt Ltd.** collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.inkydeals.com](https://www.generateprivacypolicy.com/account/policies/edit/www.inkydeals.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by **Hummingbird Web Solutions Pvt Ltd**.
 
 **Personal identification information**
 
@@ -24,7 +24,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-Brainik LTD  may collect and use Users personal information for the following purposes:
+Hummingbird Web Solutions Pvt Ltd. may collect and use Users personal information for the following purposes:
 
   * _– To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -53,10 +53,10 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Changes to this privacy policy**
 
-Brainik LTD  has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Hummingbird Web Solutions Pvt Ltd. has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at support@inkydeals.com.
 
-This document was last updated on Sept 01, 2015.
+This document was last updated on May 16, 2018.
