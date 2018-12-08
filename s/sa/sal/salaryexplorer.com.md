@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salaryexplorer.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609145732id_/http%3A//www.salaryexplorer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salaryexplorer.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208035330id_/http%3A//www.salaryexplorer.com/privacy.php) for the most accurate reproduction.*
 
 # Salary Explorer Privacy Policy | Salary Comparison
 
@@ -7,5 +7,3 @@ At Salary Explorer we value your privacy and we realize how sensitive especially
 **1)** Salary Explorer does not collect personal information what so ever. During your visit to our site, you will never be asked for info that could reveal your true identity. 
 
 **2)** Salary information may be used in search and statistics as well as job details but these information will in no way be associated with you and nobody can see the job details you have submitted. 
-
-**3)** Salary Explorer may share information with its sister site [Letters And Templates](http://www.lettersandtemplates.com/)
