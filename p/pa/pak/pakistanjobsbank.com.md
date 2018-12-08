@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistanjobsbank.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519162756id_/http%3A//www.pakistanjobsbank.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanjobsbank.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208221033id_/http%3A//www.pakistanjobsbank.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pakistan Jobs
 
