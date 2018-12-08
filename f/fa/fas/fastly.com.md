@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastly.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531203721id_/https%3A//www.fastly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastly.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208083404id_/https%3A//www.fastly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fastly
 
@@ -250,3 +250,5 @@ If you have an unresolved privacy or data use concern that we have not addressed
 ## 8\. CHANGES TO THIS PRIVACY POLICY
 
 It is our policy to post any changes we make to this Privacy Policy on this page with a notice that this Privacy Policy has been updated on <http://docs.fastly.com/changes>. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the primary e-mail address specified in your account and/or through a notice on <http://docs.fastly.com/changes> thirty (30) days prior to the change becoming effective. The date this Privacy Policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting <http://docs.fastly.com/changes> and this Privacy Policy to check for any changes.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=49cd257b-e27b-461b-9d7a-7a32564e6e04)
