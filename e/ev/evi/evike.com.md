@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the evike.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126020822id_/https%3A//www.evike.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evike.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208210117id_/https%3A//www.evike.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Evike.com
 
-#### Last Updated: 5/24/2016
+#### Last Updated: 5/24/2018
 
 ### 1\. INTRODUCTION
 
@@ -90,4 +90,4 @@ COOKIES. A cookie is a small string of information that the website you visit tr
 
 ### 12\. QUESTIONS OR COMMENTS
 
-CONTACT INFORMATION. If you have any questions or comments relating to our website or the privacy policy, send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ea83848c85aa8f9c83818fc4898587). When contacting us, please be sure to provide us with your exact email address, name, address and/or telephone number(s) in order to ensure a quick and effective response to your request.
+CONTACT INFORMATION. If you have any questions or comments relating to our website or the privacy policy, send an e-mail to [info@evike.com](mailto:info@evike.com). When contacting us, please be sure to provide us with your exact email address, name, address and/or telephone number(s) in order to ensure a quick and effective response to your request.
