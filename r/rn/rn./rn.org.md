@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rn.org privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522012121id_/http%3A//rn.org/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rn.org privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208201629id_/http%3A//rn.org/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# Unlimited Online Nursing CEUs for 19.99 RN.org! (Official Site)
+# Unlimited Online CEU for Nurses / Nursing CEUs 19.99
 
 **Privacy Policy**
 
@@ -10,7 +10,7 @@ At RN.org, we are committed to protecting your privacy.  This Privacy Policy wi
 
 We collect information on the site in order to make it possible for you to purchase items on our website and to enhance your overall experience.  We also monitor traffic patterns and site usage to help us develop and improve design and layout.  **RN.org will not collect personal information about you without your knowledge and consent.**
 
-We may employ outside agents, meaning other companies or individuals to perform functions on our behalf, such as sending postal mail and email, promotional activities, processing credit card payments, and providing customer service.  These RN.org agents have access to personal information needed to perform their functions, but may not use it for other purposes.  Other than our outside agents, we keep all of your personal information private and will not share it with any third party, unless you have authorized us to or we are legally required to do so.  RN.org may also release account information when we believe, in good faith, that such release is reasonably necessary to enforce or apply the provisions of our _[Terms of Service](https://web.archive.org/web/20180522012121id_/http%3A//rn.org/TermsofService.php)_ or to protect the rights, property or safety of RN.org, our users, or others.
+We may employ outside agents, meaning other companies or individuals to perform functions on our behalf, such as sending postal mail and email, promotional activities, processing credit card payments, and providing customer service.  These RN.org agents have access to personal information needed to perform their functions, but may not use it for other purposes.  Other than our outside agents, we keep all of your personal information private and will not share it with any third party, unless you have authorized us to or we are legally required to do so.  RN.org may also release account information when we believe, in good faith, that such release is reasonably necessary to enforce or apply the provisions of our _[Terms of Service](https://web.archive.org/web/20181208201629id_/http%3A//rn.org/TermsofService.php)_ or to protect the rights, property or safety of RN.org, our users, or others.
 
 RN.ORG may provide information in the aggregate to third parties without disclosure of personally identifying information.
 
@@ -49,5 +49,3 @@ You will have the time set forth in such notice to inform RN.org if you do not a
 You agree that RN.org may retain and use your personal information until you inform us that you do not agree with this Privacy Policy and agree that you will not use the RN.org website for a reasonable period of time thereafter, in accordance with RN.org 's data retention policies and/or practices.  By using this site after we post any changes to this Privacy Policy, you agree to accept those changes.
 
 If you choose to visit RN.org, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Service.
-
-> As a nursing continuing education provider, rn.org® is interested in your professional articles which could be used as nursing continuing education online material. We provide all the credentialing and certifications using our provider numbers, you supply the content in a easy to read format with between 1800 and 2000 words in ideally, APA format. Contact us for more information. Free CEU Nursing Provider Online. Professional Online Nursing Education Provider. 
