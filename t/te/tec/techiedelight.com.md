@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techiedelight.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155237id_/http%3A//www.techiedelight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techiedelight.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208224418id_/http%3A//www.techiedelight.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Techie Delight
 
@@ -30,7 +30,9 @@ Techie Delight is a participant in the Amazon Services LLC Associates Program, a
 
 **Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users.
+
+<https://support.google.com/adwordspolicy/answer/1316548?hl=en>
 
 We also use Google AdSense Advertising on our website.
 
@@ -42,4 +44,4 @@ Opting out: Users can set preferences for how Google advertises to you using the
 
 We may earn a small commission for endorsement and/or link to any products or services from this website. Your purchase helps to support our work.
 
-This privacy policy is subject to change without notice and was last updated on Dec 17, 2016. If you have any questions feel free to contact us directly here: **feedback@techiedelight.com**.
+This privacy policy is subject to change without notice and was last updated on Dec 17, 2016. If you have any questions feel free to contact us.
