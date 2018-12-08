@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baeldung.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629195152id_/http%3A//www.baeldung.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baeldung.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208215114id_/https%3A//www.baeldung.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Baeldung
 
@@ -18,11 +18,11 @@ Our full details are:
 
 Full name of legal entity: Baeldung SRL
 
-Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#087b7d7878677a7c486a696d646c7d666f266b6765)
+Email address: [support@baeldung.com](mailto:support@baeldung.com)
 
 Postal address: Str. Ion Baiulescu, nr. 3, Bucharest, Romania
 
-It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#70030500001f0204301211151c14051e175e131f1d).
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [support@baeldung.com](mailto:support@baeldung.com).
 
 ### **2\. WHAT DATA DO WE COLLECT ABOUT YOU, FOR WHAT PURPOSE AND ON WHAT GROUNDS**
 
@@ -46,7 +46,7 @@ We do not collect any Sensitive Data about you. Sensitive data refers to data th
 
 Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
 
-We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8bf8fefbfbe4f9ffcbe9eaeee7effee5eca5e8e4e6). In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
+We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this please email us at [support@baeldung.com](mailto:support@baeldung.com). In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
 
 We may process your personal data without your knowledge or consent where this is required or permitted by law.
 
@@ -68,7 +68,7 @@ Under the Privacy and Electronic Communications Regulations, we may send you mar
 
 Before we share your personal data with any third party for their own marketing purposes we will get your express consent.
 
-You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you OR by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3c4f494c4c534e487c5e5d59505849525b125f5351) at any time.
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you OR by emailing us at [support@baeldung.com](mailto:support@baeldung.com) at any time.
 
 If you opt out of receiving marketing communications this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc.
 
@@ -116,7 +116,7 @@ Under data protection laws you have rights in relation to your personal data tha
 
 You can see more about these rights at: <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>.
 
-If you wish to exercise any of the rights set out above, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4b383e3b3b24393f0b292a2e272f3e252c65282426).
+If you wish to exercise any of the rights set out above, please email us at [support@baeldung.com](mailto:support@baeldung.com).
 
 You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive or refuse to comply with your request in these circumstances.
 
@@ -132,9 +132,9 @@ This website may include links to third-party websites, plug-ins, and applicatio
 
 ## **11\. COOKIE POLICY**
 
-We use cookies to help improve your experience of [http://www.baeldung.com](https://web.archive.org/). This cookie policy is part of Baeldung’s privacy policy, and covers the use of cookies between your device and our site. We also provide basic information on third-party services we may use, who may also use cookies as part of their service, though they are not covered by our policy.
+We use cookies to help improve your experience of [http://www.baeldung.com](https://www.baeldung.com/). This cookie policy is part of Baeldung’s privacy policy, and covers the use of cookies between your device and our site. We also provide basic information on third-party services we may use, who may also use cookies as part of their service, though they are not covered by our policy.
 
-If you don’t wish to accept cookies from us, you should instruct your browser to refuse cookies from [http://www.baeldung.com](https://web.archive.org/), with the understanding that we may be unable to provide you with some of your desired content and services.
+If you don’t wish to accept cookies from us, you should instruct your browser to refuse cookies from [http://www.baeldung.com](https://www.baeldung.com/), with the understanding that we may be unable to provide you with some of your desired content and services.
 
 ### **What is a cookie?**
 
