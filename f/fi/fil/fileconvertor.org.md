@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileconvertor.org privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606145515id_/http%3A//fileconvertor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileconvertor.org privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208050608id_/http%3A//fileconvertor.org/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy FileConvertor.org
 
