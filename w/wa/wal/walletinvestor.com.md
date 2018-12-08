@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walletinvestor.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517044823id_/https%3A//walletinvestor.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walletinvestor.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208232312id_/https%3A//walletinvestor.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,8 +7,6 @@ This privacy policy has been compiled to better serve those who are concerned wi
  **What personal information do we collect from the people that visit our blog, website or app?**
 
 We do not collect information from visitors of our site.
-
-or other details to help you with your experience.
 
  **When do we collect information?**
 
@@ -46,9 +44,11 @@ Occasionally, at our discretion, we may include or offer third-party products or
 
 Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-We use Google AdSense Advertising on our website.
+ **We use Google AdSense and others Advertising Networks on our website.**
 
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+Advertising Networks, as a third-party vendors, use cookies to serve ads on our site. These Networks's use of the cookies enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+
+We don't have direct oversight on every marketing and ad-targeting sollution that the display network uses. We will do everything possible to solve the percieved problems, but we avoid any direct responsibility towards the issues that are caused by the advertising network.
 
  **We have implemented the following:**
 
