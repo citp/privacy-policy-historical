@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kentlaw.edu privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608182339id_/https%3A//www.kentlaw.iit.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentlaw.edu privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208175859id_/http%3A//www.kentlaw.iit.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Chicago-Kent College of Law
 
-## _**Chicago-Kent College of Law at Illinois Institute of Technology (Chicago-Kent)**_
+## _Chicago-Kent College of Law at Illinois Institute of Technology (Chicago-Kent)_
 
 This is a privacy statement for the website and pages of Chicago-Kent College of Law, an academic unit of Illinois Institute of Technology. Chicago-Kent is committed to protecting your privacy when you visit its web pages. This statement is intended to inform you concerning what information Chicago-Kent collects while you browse our web pages, how we utilize this information and your options with respect to the same. The information disclosed in this statement is subject to change periodically in the sole discretion of Chicago-Kent. Your continued use of our site implies your understanding and acceptance of this privacy statement.
 
@@ -13,6 +13,8 @@ As used in this statement, personally identifying information refers to any info
 ### Cookies
 
 Like most websites, we use a feature of your browser to set a "cookie" on your computer. Cookies are small text files that reside on your computer and that identify you, anonymously, as a unique visitor. Our use of cookies does not reveal to us your personal information based solely on our use of the cookie. We use cookies to analyze traffic patterns and user interests, track user movement within our website, and gather broad demographic information (e.g., age and gender) for aggregate use for reporting purposes. Reputable web browsers will enable you to reject cookies or to choose which cookies you will accept. Please be advised that disabling cookies through your web browser may interfere with or prohibit your ability to enjoy the full functionality of our site.
+
+[Learn more about cookies and how you can disable them in your browser.](https://cookiesandyou.com/)
 
 ### Google Analytics
 
