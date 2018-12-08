@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcow.net privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222125100id_/http%3A//www.jcow.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcow.net privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208033322id_/https%3A//www.jcow.net/privacy) for the most accurate reproduction.*
 
 # Jcow privacy policy
 
