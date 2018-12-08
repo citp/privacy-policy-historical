@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashboardapp.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122044038id_/http%3A//cashboardapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashboardapp.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208195004id_/http%3A//cashboardapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Cashboard Privacy Policy
 
