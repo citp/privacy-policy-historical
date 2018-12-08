@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsu.edu privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225230726id_/https%3A//dsu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsu.edu privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208212230id_/https%3A//dsu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | Dakota State University
 
@@ -8,7 +8,7 @@ Here you will find privacy, copyright, trademark and licensing, disclaimer and t
 
 ## Privacy
 
-Dakota State University supports the privacy of information submitted by all students, faculty, staff and visitors who visit our official website. This does not apply to websites not officially recognized by the the University such as those created by individual faculty, staff or students using resources within our University domain.
+Dakota State University supports the privacy of information submitted by all students, faculty, staff and visitors who visit our official website. This privacy statement does not apply to websites not officially recognized by the University, such as those created by individual faculty, staff or students using resources within our University domain.
 
 Links to other websites are provided as a courtesy and we do not have control of these sites. We are not responsible for the content, availability or delivery of these services. They are not bound by our privacy or content policies.
 
@@ -18,13 +18,25 @@ DSU complies with the Family Educational Rights and Privacy Act (FERPA).
 
 
 
-For the purpose of site administration, Dakota State University collects information for analytical and statistical purposes of website navigation. This does not include personal information linked to a particular individual, the data is cumulative and individuals are unidentifiable. Information that may be recorded includes Internet protocol (IP) addresses, browser software, interests, browsing patterns, search terms, demographic and geographic data.
+#### Log Data
 
-This information is used to help identify technical problems, determine technical specifications, provide the most relevant information to users, better the end user's experience, and other administrative functions.
+Like many site operators, we collect information that your browser sends whenever you visit our Site (Log Data). This Log Data may include information such as your computer’s Internet Protocol (IP) address, browser type, browser version, the pages of DSU.edu that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-Visitors of our website may choose whether or not to provide personal information via the official DSU website. If visitors choose not to provide this information, certain options, offers or other services may not be accessible.
+#### Remarketing
 
-Third party services may be used on our behalf on the DSU website. DSU may provide these services information, including some personal information, collected from our site in order to deliver programs, information, products and other services. These third party services have been investigated by the University to ensure their protection of personal information.
+We use remarketing and audience features to show website visitors relevant messaging about Dakota State University after you leave DSU.edu. Third party vendors, such as Google, use this audience/cookie information to show our messaging after leaving DSU.edu via a network of publisher sites. Visitors can opt out here: [Network Advertising Initiative Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp).
+
+DSU.edu also uses Google Analytics to collect information about visitors' experiences on the website and statistical performance of the website. Additionally, the website collects demographic information including age, gender, interests and other information about our users as a group. This information cannot be used to identify a single individual on the site and, instead, is used as a way for DSU.edu to understand how visitors are using and interacting with the site in order to provide better online experiences.
+
+Visitors to our website may choose whether or not to provide personal information via the official DSU website. If visitors choose not to provide this information, certain options, offers or other services may not be accessible.
+
+#### Cookies
+
+This site and other applications on this site, may use cookies. Cookies are short, simple text files stored on a visitor's computer hard drive by websites. You can disable cookies on your browser or request notification when a website attempts to send you a cookie. You may also manually delete cookies from your hard drive.
+
+####  Disclosure to Third Parties
+
+As a governmental agency, we are governed by open records laws.  Any information that we receive through the use of DSU.edu is subject to the same provisions as information provided on paper.  Otherwise, we do not share personal information with any third party without your permission.  We disclose only in aggregate form our statistical analyses or demographics of users to third parties.  This information is not reported or used in any manner that would reveal personal information, and individual’s data will not be released to any outside parties unless we are legally required to do so in connection with law enforcement investigations or other legal proceedings.
 
 ## Disclaimer
 
@@ -34,7 +46,7 @@ The University makes resourcees available to a variety of audiences in the DSU c
 
 Some pages may contain links to websites created outside of the University, this does not suggest DSU endorses or approves the content of these pages.
 
-The [Department of Public Relations and Marketing](http://dsu.edu/about-dsu/public-relations-and-marketing) is responsible for the design and content of the official University site. It is not responsible for the timeliness or completeness of pages or information created by other departments or individuals.
+The [Department of Public Relations and Marketing](https://dsu.edu/about-dsu/marketing-communications) is responsible for the design and content of the official University site. It is not responsible for the timeliness or completeness of pages or information created by other departments or individuals.
 
 ## Copyright
 
@@ -63,13 +75,13 @@ In notifying us of the alleged copyright infringement, please include the follow
 
 ## Trademarks and Licensing
 
-Dakota State University protects the use of any logo, wordmark, nicknames and other identifiable marks associated with DSU that are distinguishable from other universities. Any use of these marks without written consent of the University is prohibited. For information regarding the usage or to report inappropriate usage, please contact the[ Department of Public Relations and Marketing](http://dsu.edu/about-dsu/public-relations-and-marketing).
+Dakota State University protects the use of any logo, wordmark, nicknames and other identifiable marks associated with DSU that are distinguishable from other universities. Any use of these marks without written consent of the University is prohibited. For information regarding the usage or to report inappropriate usage, please contact the[ Department of Public Relations and Marketing](https://dsu.edu/about-dsu/marketing-communications).
 
 ## Accessibility
 
 The University is committed to providing meaningful accessibility on our website and other online activities provided by DSU to all users. We strive to deliver a website that meets or exceeds accessibility and usability standards.   Our website has been designed to meet with accesssbility standards established by the World Wide Web Consortium (WC3).
 
-In accordance with the American's with Disabilities Act, the information on this site is available in alternate formats upon request. Please contact our [Disability Services Office](http://dsu.edu/student-life/disability-services) for more information.  
+In accordance with the American's with Disabilities Act, the information on this site is available in alternate formats upon request. Please contact our [Disability Services Office](https://dsu.edu/student-life/disability-services) for more information.  
  
 
 ## Equal Opportunity Policy
