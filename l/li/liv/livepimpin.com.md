@@ -1,54 +1,93 @@
-> *The following text is extracted and transformed from the livepimpin.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517154458id_/http%3A//livepimpin.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livepimpin.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208095712id_/http%3A//www.livepimpin.com/pp) for the most accurate reproduction.*
 
 # Livepimpin Privacy Policy, cam to cam live sex chat network at only 0.99c per minute
 
-**YOUR ACCEPTANCE**
+25 May 2018
 
-   By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
+Data protection is of a particularly high priority for our company. During the processing we conform to the requirements of the applicable data protection legislation, notably the EU General Data Protection Regulation (GDPR). This means we:
 
-**OVERVIEW**
+  * **clearly specify our purposes** before we process personal data, by using this Privacy Statement;
+  * **limit our collection of personal data** to only the personal data needed for legitimate purposes;
+  * first **ask for explicit permission** to process your personal data in cases where your permission is required;
+  * take **appropriate security measures** to protect your personal data and we demand the same from parties who process personal data on our behalf;
+  * **respect** your right to inspect, correct or delete your personal data held by us.
 
-   LivePimpin respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use LivePimpin, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the LivePimpin website.
 
-**PERSONAL IDENTIFYING INFORMATION**
 
-   LivePimpin will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.   
-If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.  
-When you do provide us with personal identifying information, such information will be gathered solely by LivePimpin, and is for use solely by LivePimpin. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will have no * (required) sign in front of it. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services. LivePimpin may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings. LivePimpin may request personal identifying information on specific pages that allow users to contact LivePimpin Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.    There are a limited number of situations where we may disclose your personal information to others without first receiving your consent:  
-(1) when legally ordered to do so by a lawful subpoena or court order,  
-(2) if you violate or breach an agreement with us,  
-(3) if we believe conduct by you will harm the property or rights of LivePimpin or those of LivePimpin customers or chat hosts, (4) under exigent circumstances to protect the physical safety of LivePimpin, its employees, users or the general public,  
-(5) in connection with the sale of all or substantially all of our company's assets or the sale of an entire web site or business division or  
-(6) in order to validate credit card numbers for charging for fee services.
+is the party responsible for all data processing. In this privacy statement, we will explain which personal data we collect and for which purposes. We recommend that you read it carefully.
 
-**OUR COOKIES**
+## Registration
 
-   Your browser offers so-called 'cookies,' which - if you allow their use - store small amounts of data on your computer about your visit to our site.  
-Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.  
-We may use cookies to:   
-\- Deliver content specific to your interests.  
-\- Save your password so you don't have to re-enter it each time you visit our sites.  
-   We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties.  
-   You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
+Certain features of our service require you to register beforehand. You will have to provide some information about yourself and choose a username and password for the account that we will set up for you.  
+For this purpose, we use your name and address details, phone number, invoice address, email address, payment details and nickname.We need this data because of our agreement with you. We store this information until you close your account.  
+We will retain this data so that you do not have to re-enter it every time you visit our website, and in order to contact you in connection with the execution of the agreement and to provide an overview of the services you bought on the platform. 
 
-**SSL SECURITY & SPECIFICATIONS**
+## Ewallet load
 
-   Secure Sockets Layer, SSL, is the standard security technology for creating an encrypted link between a web server and a browser. This link ensures that all data passed between the web server and browser remains private and integral. SSL is an industry standard and is used by millions of websites in the protection of their online transactions with their customers. In order to be able to generate an SSL link, a web server requires an SSL Certificate. That's why LivePimpin provides 128 Bit secured pages for all credit card transaction and billing related tasks, therefore assuring your sensitive data's network-transit, is safe and private.
+Via www.livepimpin.com you can load credit in your Ewallet to buy services from other parties. This requires certain personal information. We share this with the payment providers to facilitate Ewallet loads.
 
-**CHAT ROOMS AND FORUMS**
+For this purpose, we use your name and address details, invoice address, email address and payment details. We need this data because of our agreement with you. We store this information during the legal retention period imposed by the tax regulator.
 
-   This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or 'spam'. We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
+## Promotion
 
-**MINORS**
+We can inform you about new products or services through our newsletter. You can object at all times against this promotional communication. Every e-mail contains a cancellation link. 
 
-   Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. LivePimpin does not knowingly collect contact or personal information from children under 13. Our sites are not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 wherever age related information is requested.  
-   Members areas of LivePimpin may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@livepimpin.com](mailto:support@livepimpin.com "Support Mail")
+The consent to the data storage of personal data, which you have given for the newsletter, may be revoked at any time. For the purpose of revocation of consent, a corresponding link is found in each newsletter. It is also possible to unsubscribe from the newsletter any time directly on the platform.
 
-**UNSOLICITED EMAIL RECEIVED BY YOU**
+## Advertisements
 
-   LivePimpin does not send unsolicited email to non-public addresses or to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from LivePimpin, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [unsubscribe@livepimpin.com](mailto:unsubscribe@livepimpin.com "Unsubscribe").  
-LivePimpin also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our    Acceptable Use Policy. Further, according to our published policy, if LivePimpin becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, LivePimpin reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the LivePimpin program, termination of LivePimpin services, and forfeiture of all commissions.
+Our website shows generic advertisements. We do not collect personal data for this purpose.
 
-**CONTACT**
+## Cookies
 
-   If you have any questions about this Privacy Policy, please contact our [customer service department](https://web.archive.org/support "Support Form") and provide us with your name, your LivePimpin login name, and any information you feel is important.
+The website uses cookies. Cookies are text files that are stored in a computer system via an Internet browser. We do this to improve the functioning of our website and to recognize you during multiple visits. This way, you do not have to log in every time and we remember important settings and preferences. We do not share cookie data with third parties and do not target advertisements based on cookies.
+
+You can disable cookies through your browser settings but this may render some functionality unusable.
+
+## Providing Data to Third Parties
+
+Except for the parties mentioned above, we do not under any circumstance provide your personal data to other companies or organisations, unless we are required so by law.
+
+## Statistics
+
+We keep statistics on the use of the website, giving us access to individual data. We use these statistics to improve presentation and functioning of the website. However, we only access individual data insofar as necessary for the purposes set out in this statement.
+
+## Security
+
+We take appropriate security measures to reduce misuse of and unauthorised access to personal data.
+
+## Changes to this Privacy Statement
+
+We reserve the right to modify this statement. We recommend that you consult this statement on a regular basis, so that you remain informed of any changes.
+
+## Inspection and Modification of your Data
+
+You can always contact us if you have any questions regarding our privacy policy or wish to review, modify or delete your personal data.
+
+You have the following right:
+
+  * Being informed on which personal data we have and what we are using it for;
+  * Inspection of the personal data that we keep from you;
+  * Having incorrect data corrected;
+  * Request to delete outdated personal data;
+  * Revoke your consent;
+  * Object to certain uses.
+
+
+
+Please note that you always make clear who you are, so that we can assure that we do not modify or remove the data from the wrong person.
+
+## Complaints
+
+If you think that we are not helping you in the right way, you have the right to lodge a complaint at the data protection authority in your country if you are based in the European Union. For example in the The Netherlands, the Autoriteit Persoonsgegevens.
+
+## Contact details
+
+  
+  
+  
+  
+  
+Phone:   
+Email:   
+Website: www.livepimpin.com
