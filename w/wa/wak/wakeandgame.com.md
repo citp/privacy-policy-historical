@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the wakeandgame.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622110000id_/http%3A//wakeandgame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakeandgame.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209002018id_/http%3A//wakeandgame.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wake and Game
 
-## **Privacy Policy:**
-
- **Wake And Game (" **WaG** ") operates wakeandgame.com and may operate other websites. It is WaG's policy to respect your privacy regarding any information we may collect while operating our websites.**
+**Wake And Game (" **WaG** ") operates wakeandgame.com and may operate other websites. It is WaG's policy to respect your privacy regarding any information we may collect while operating our websites.**
 
 ###  **Website Visitors**
 
