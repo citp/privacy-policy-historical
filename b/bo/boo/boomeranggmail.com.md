@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomeranggmail.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629004014id_/http%3A//www.boomeranggmail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomeranggmail.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209003240id_/http%3A//www.boomeranggmail.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Boomerang for Gmail
 
@@ -144,7 +144,7 @@ We use information that we collect about you or that you provide to us, includin
 
   * to present our Websites and their contents to you;
   * to provide you with information about the Boomerang Services that you request from us;
-  *   * to provide you with the Boomerang Services that you subscribe to;
+  * to provide you with the Boomerang Services that you subscribe to;
   * to fulfill any other purpose for which you provide it;
   * to provide you with notices about your subscription, including expiration and renewal notices;
   * to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
