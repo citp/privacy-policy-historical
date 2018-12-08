@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurporn.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628124855id_/https%3A//www.amateurporn.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurporn.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208074555id_/https%3A//www.amateurporn.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AmateurPorn.com
 
@@ -128,7 +128,5 @@ AmateurPorn.com 
 West Hollywood, CA
 
 90069 
-
-unsubscribe@amateurporn.com 
 
 323887170
