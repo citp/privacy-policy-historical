@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartinternet.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630213817id_/https%3A//www.heartinternet.uk/terms/heart-internet-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartinternet.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208151640id_/https%3A//www.heartinternet.uk/terms/heart-internet-privacy-statement) for the most accurate reproduction.*
 
 # Heart Internet Privacy Statement
 
@@ -36,7 +36,7 @@ However, we also collect additional information when delivering our Services to 
 
 **Cookies and similar technologies** on our websites allow us to track your browsing behaviour, links clicked, items purchased, and your device types. They also allow us to collect data (including analytics) about how you use and interact with our Services. This allows us to provide you with more relevant product offerings, a better experience on our sites and mobile applications, and to collect, analyse, and improve the performance of our Services. We may also collect your location via Internet Protocol (IP) address, so that we can personalise our Services. For additional information, and to learn how to manage the technologies we utilise, please see our Cookie Management above.
 
-**Data about Usage of Services** is automatically collected when you use and interact with our Services, including metadata, log files, cookie/device IDs, and location information. This information includes specific data about your interactions with the features, content, and links (including third-parties, such as social media plugins) contained within the Services, IP address, browser type and settings (including configuration and plug-ins), the date and time the Services were used, language preferences and cookie data, and information about devices accessing the Services, including type of device, what operating system is used, device settings, application IDs, unique device identifiers, and error data. Some of this data collected might be capable of and be used to approximate your location. 
+**Data about Usage of Services** is automatically collected when you use and interact with our Services, including metadata, log files, cookie/device IDs, and location information. This information includes specific data about your interactions with the features, content, and links (including first and third-parties, such as social media plugins) contained within the Services, IP address, browser type and settings (including configuration and plug-ins), the date and time the Services were used, language preferences and cookie data, and information about devices accessing the Services, including type of device, what operating system is used, device settings, application IDs, unique device identifiers, and error data. Some of this data collected might be capable of and be used to approximate your location.
 
 **Supplemented Data** may be received about you from other sources, including publicly available databases or third parties from whom we have purchased data, in which case we may combine this data with information we already have about you so that we can update, expand, and analyse the accuracy of our records, identify new customers, and provide products and services that may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
@@ -60,9 +60,9 @@ These uses include: **Delivering, improving, updating, and enhancing the Service
 
 
 
-Often, much of the data we collect is aggregated or statistical data about how individuals use our Services, and is not linked to any personal data., But as it is itself personal data, or it can be linked or linkable to personal data, we treat it accordingly. 
+Often, much of the data we collect is aggregated or statistical data about how individuals use our Services, and is not linked to any personal data., But as it is itself personal data, or it can be linked or linkable to personal data, we treat it accordingly.
 
-**Sharing with trusted third parties**. We may share your personal data with affiliated companies within our corporate family, with third parties with which we have partnered to allow you to integrate their services into our own Services, and with trusted third-party service providers as necessary for them to perform services on our behalf, such as:
+**Sharing with trusted third parties**. We may share your personal data with affiliated companies within our corporate family, with first and third parties with which we have partnered to allow you to integrate their services into our own Services, and with trusted first and third-party service providers as necessary for them to perform services on our behalf, such as:
 
   * Processing credit card payments
   * Serving advertisements
@@ -73,7 +73,7 @@ Often, much of the data we collect is aggregated or statistical data about how i
 
 
 
-We only share your personal data as necessary for any third party to provide the services as requested or as needed on our behalf. These third parties (and any subcontractors) are subject to strict data processing terms and conditions and are prohibited from utilising, sharing or retaining your personal data for any purpose other than as they have been specifically contracted for (or without your consent). For further information on our sub-processors please refer to [our list of Third-Party Data Processors](https://www.heartinternet.uk//resources/privacy/HeartInternet-ThirdPartyDataProcessors.pdf).
+We only share your personal data as necessary for any third party to provide the services as requested or as needed on our behalf. These third parties (and any subcontractors) are subject to strict data processing terms and conditions and are prohibited from utilising, sharing or retaining your personal data for any purpose other than as they have been specifically contracted for (or without your consent). For further information on our sub-processors please refer to [our list of Third-Party Data Processors](https://www.heartinternet.uk/resources/privacy/HeartInternet-ThirdPartyDataProcessors.pdf).
 
 **Communicating with you.** We may contact you directly, or through a third-party service provider, regarding products or services you have signed up or purchased from us, such as necessary to deliver transactional or service related communications. We may also contact you with offers for additional services we think you'll find valuable if you give us consent, or where allowed based upon legitimate interests. You don't need to provide consent as a condition to purchase our goods or services. These contacts may include:
 
@@ -84,7 +84,7 @@ We only share your personal data as necessary for any third party to provide the
 
 
 
-You may also update your subscription preferences with respect to receiving communications from us and/or our partners by signing into your account and visiting the "Account Settings" page in the Customer Control Panel. 
+You may also update your subscription preferences with respect to receiving communications from us and/or our partners by signing into your account and visiting the "Account Settings" page in the Customer Control Panel.
 
 If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy policy applies. In addition, it will describe any options you have in regards to the use and/or sharing of your personal data with a co-branded partner, as well as how to exercise those options.
 
@@ -96,9 +96,9 @@ If you make use of a service that allows you to import contacts (e.g. using emai
 
 To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process. We will also share your information to the extent necessary to comply with ICANN or any ccTLD rules, regulations, and policies when you register a domain name with us.
 
-**Website analytics.** We use multiple web analytics tools provided by service partners such as Google Analytics, AdvAna and Convert.com to collect information about how you interact with our website or mobile applications, including what pages you visit, what site you visited prior to visiting our website, how much time you spend on each page, what operating system and web browser you use, and network and IP information. We use the information provided by these tools to improve our Services. 
+**Website analytics.** We use multiple web analytics tools provided by service partners such as Google Analytics, AdvAna and Convert.com to collect information about how you interact with our website or mobile applications, including what pages you visit, what site you visited prior to visiting our website, how much time you spend on each page, what operating system and web browser you use, and network and IP information. We use the information provided by these tools to improve our Services.
 
-These tools place persistent cookies in your browser to identify you as a unique user the next time you visit our website. Each cookie cannot be used by anyone other than the service provider (eg: Facebook and Google for Google Analytics). The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside. Though information collected does not include personal data such as name, address, billing information, etc., the information collected is used and shared by these service providers in accordance with their individual privacy policies. 
+These tools place persistent cookies in your browser to identify you as a unique user the next time you visit our website. Each cookie cannot be used by anyone other than the service provider (eg: Facebook and Google for Google Analytics). The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside. Though information collected does not include personal data such as name, address, billing information, etc., the information collected is used and shared by these service providers in accordance with their individual privacy policies.
 
 You can control the technologies we use by managing your settings through our Cookie Manager above or the 'cookie banners" that may be presented (depending on URL of website visited) when you first visit our webpages, or by utilising settings in your browser or third-party tools, such as [Disconnect](https://disconnect.me/disconnect), [Ghostery](https://www.ghostery.com/) and others.
 
@@ -118,11 +118,11 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 #### How you can access, update or delete your data.
 
-To easily access, view, update, delete, or port your personal data (where available), or to update your subscription preferences, please sign into your Account and visit "Account Settings." Please visit our Privacy Centre for additional information and guidance for accessing, updating, or deleting data. 
+To easily access, view, update, delete, or port your personal data (where available), or to update your subscription preferences, please sign into your Account and visit "Account Settings." Please visit our Privacy Centre for additional information and guidance for accessing, updating, or deleting data.
 
 If you make a request to delete your personal data and that data is necessary for the products or services you have purchased, the request will be honoured only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements.
 
-If you are unable for any reason to access your Account Settings or our Privacy Centre, you may also contact us by one of the methods described in the "Contact Us" section below. 
+If you are unable for any reason to access your Account Settings or our Privacy Centre, you may also contact us by one of the methods described in the "Contact Us" section below.
 
 #### How we secure, store, and retain your data.
 
@@ -152,7 +152,7 @@ We reserve the right to modify this Privacy Policy at any time. If we decide to 
 
 #### Data Protection Authority.
 
-Heart Internet Limited is the data controller for www.heartinternet.uk and is registered on the Information Commissioner's Office's Register of Data Controllers under number Z8162337.You may direct questions or complaints in respect of how we handle your Personal Data to the Information Commissioner's Office: 
+Heart Internet Limited is the data controller for www.heartinternet.uk and is registered on the Information Commissioner's Office's Register of Data Controllers under number Z8162337.You may direct questions or complaints in respect of how we handle your Personal Data to the Information Commissioner's Office:
 
 [www.ico.org.uk](https://ico.org.uk/)
 
@@ -164,7 +164,7 @@ Phone: 0303 123 1113
 
 If you have any questions, concerns or complaints about our Privacy Policy, our practices, or our Services, you may contact our Office of the DPO by email at [privacy@heartinternet.uk](mailto:privacy@heartinternet.uk). In the alternative, you may contact us by either of the following means:
 
-  * **By Mail:** Attn: Office of the Data Protection Officer, Heart Internet Limited, 5th Floor, The Shipping Building, Old Vinyl Factory, 252-254 Blyth Road, Hayes, UB3 1HA. 
+  * **By Mail:** Attn: Office of the Data Protection Officer, Heart Internet Limited, 5th Floor, The Shipping Building, Old Vinyl Factory, 252-254 Blyth Road, Hayes, UB3 1HA.
   * **By Phone:** 0330 660 0255
 
 
