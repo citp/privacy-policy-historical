@@ -1,89 +1,150 @@
-> *The following text is extracted and transformed from the mansurfer.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120145758id_/http%3A//www.mansurfer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mansurfer.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208110419id_/https%3A//www.mansurfer.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**ManSurfer Privacy Policy Statement**
+#### I. Introduction
 
-This website (the "Site") is owned by Mount Equinox Inc.   
-Our postal address is   
-1920 NE 1st Ter   
-Wilton Manors, FL 33305  
-USA 
+Your privacy is important to Mount Equinox, Inc (ManSurfer.com Parent Company). This privacy policy discloses the information practices for Mansurfer.com, including the types of information we gather and track, how we use that information, and with whom we share it. The purpose of this policy is to let you know how we use your personal information before we collect it. We have tried to include a link to this policy on every page on which personal information is collected.
 
-We can be reached [here](mailto:support@mansurfer.com). 
+This is an adult website that expressly and strictly limits its users to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this website. 
 
-This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
+CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR CONTINUED USE OF THIS WEBSITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT. IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT USE THIS SITE. 
 
-This Site does not knowingly seek or collect any personal information or data from persons under the age of 18. 
+#### II. Information Collection and Management
 
-Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express Assent to the Use of Personal Information Collected by Site. 
+##### A. Personal Information
 
-CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT. 
+###### i. Information we collect
 
-IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE. 
+“Personally identifiable information” is information that can be used to identify or contact you, such as your name and e-mail address. Mount Equinox, Inc. only has access to the personally identifiable information that you provide to us. For example, we cannot determine your e-mail address unless you provide it. We cannot gain access to other information on your computer.
 
-**_What Information About Subscribers is Collected?_**
+Those who visit only public areas of the Website and who do not join as members generally do not, provide us with any personally identifiable information.
 
-When any adult consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, birthday, e-mail address, gender, marital status, occupation, education, credit card number and expiration date of the credit card, username and password, ip address and special interests or affiliations. This Site collects any and all such information and includes it in its customer database. 
+Those who wish to join the site or sign up for our mailing list, must provide us with enough personal information to enable us to process the requested transaction. This generally includes, at a minimum, personally identifiable information such as name, e-mail address, date of birth, gender and your photograph, if you choose add one to your profile page. Members also select, and thereby provide, a username and password combination.
 
-If the Site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the Site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the Site and included in its customer database. 
+###### ii. How we use the information
 
-When a subscriber of this Site requests webpages from the Site's server or clicks on banners or other hypertext links, the Site will automatically collect some information or data about the subscriber, including the subscriber's IP address, the information that is collected may also indicate any special preferences or requests of the subscriber; all that information and data will be collected by the Site and included in its customer database. 
+Your personally identifiable information is used only to process the requested transaction, and occasionally to provide you with special offers from ManSurfer. On occasion, for example, we may send emails to introduce a product or service that we think will interest our subscribers.
 
-If a subscriber sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and include that information in its customer database. 
+ManSurfer will never intentionally disclose any personally identifying information to any third party, unless we are compelled to do so by law (for example, in response to a subpoena or court order), or if our obligation to maintain the privacy of your information has been waived or otherwise excused by you (for example, by your filing suit against us and asserting claims against which such information would be relevant in our defense). Please note that our lawyers, accountants, and/or vendors are not “third parties” for the purpose of this section to the extent that disclosure to them is necessary or desirable for the operation of our business. We may reveal your personal data to any other organization that buys, or to which we transfer all, or substantially all, of our assets and business. If this sale or transfer takes place, we will use reasonable efforts to try to make sure that the organization we transfer your personal data to uses it in line with our privacy policy. 
 
-The Site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies"or other programming means - any information about subscribers collected by the Site through the use of cookies or other programming means may be included in its customer database. 
+###### iii. Opt-out policy
 
-**_Use of Personal Subscriber Information._**
+Non members don't provide us with any personally identifiable information so there is nothing to opt-out of. For those who choose to join your personal information is required for us to provide services to you as a registered user, you cannot opt-out of providing it and still receive those services. You can opt-out of receiving promotional emails by contacting [support@mansurfer.com](mailto:support@mansurfer.com), or by clicking on the unsubscribe link at the bottom of the newsletter. 
 
-By the subscriber's use of the Site, the subscriber expressly agrees that the Site may use any personal information that has been provided by the subscriber or that has been collected by the Site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, trading in Personal Data and age verification use by the Site or third parties authorized to use the information by the Site. 
+##### B. Click-stream data
 
-Please note that personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the Site. 
+###### i. Information we collect
 
-The Site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites. 
+We also collect non-personally identifying information provided by your browser and/or our servers, such as the name and IP address of the domain from which you came from (if any), your IP address - a numerical code to identify your device and which can provide information about the country, region or city where you are based, details of your devices, for example, the unique device ID, unique advertising ID and browsers used to access our content, the amount of time you spent on each page and on the site as a whole, your browsing history of the content you have visited on our sites, and the path you followed through the site. This sort of information is sometimes known as click-stream data.
 
-Whenever applicable, each subscriber should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site. 
+###### ii. How we use the information
 
-**_Security of Personal Information Collected by the Site._**
+We use click-stream data in the aggregate to analyze trends and statistics and to help us understand how users use our site. This allows us to identify areas and technologies that need improvement, and to provide appropriate bandwidth and technical support for areas that are growing. None of this information is reviewed at an individual level. From time to time we may share this aggregate statistical information with partners, suppliers and other third parties, but it will not include any personally identifiable information.
 
-Consistent with the Policies set forth in this Privacy Statement, the Site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the Site. 
+###### iii. Opt-out policy
 
-All subscribers should consider any information provided to or collected by the Site as **non-confidential** , and consequently the Site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient. 
+Click-stream data is generated by your browser and our servers, and therefore you cannot opt-out of providing it. However, some of the privacy resources listed below may provide a partial solution by (for example) allowing you to cloak your IP address.
 
-**_"OPT-IN" and "OPT-OUT" Provisions._**
+##### C. Cookies
 
-There may be occasions when a subscriber will be presented with special offers either from the operators of the Site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). 
+###### i. Information we collect
 
-"OPT-IN" -- Some Offers may be presented to the subscriber with the option to express the subsciber's preference by either clicking or entering "accept"(alternatively"yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber"OPTS-IN" to that Offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
+We collect certain non-personally identifying information through the use of “cookies.” A cookie is a small file that a Web site can send to your browser to be stored on your system. Some cookies are deleted when you end your online session (“session cookies”), while others may be stored on your computer indefinitely (“persistent cookies”). We use cookies on this site to store information such as user login status (so that you aren’t forced to enter your username and password on every page). You can view our [Cookie Policy Here](https://www.mansurfer.com/cookies.html).
 
-"OPT-OUT" -- Other Offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer the subscriber's personal profile information to the third-party service or content provider making the Offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider. 
+###### ii. How we use the information
 
-**_"OPT-OUT" Revocation Procedure._**
+We use the information stored in cookies to personalize your website experience and to manage your online session. The information in cookies is both set and read by our server. We do not share data that we collect from cookies with third parties.
 
-The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by notifying [Support](mailto:support@mansurfer.com), clearly stating that the subscriber has revoked consent to receive any future Offers. 
+###### iii. Opt-out policy
 
-**_Data Controller._**
+You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, many areas of the site will not function properly.
 
-The Data Controller for all personal information collected about subscribers of the site is: Kevin Bennett, and can be reached by e-mail at [support@mansurfer.com](mailto:support@mansurfer.com). The Data Controller has the authority to resolve all issues regarding the collection, modification, correction, deletion and use of the personal information that has been collected by the Site. 
+##### D. Financial Information
 
-**_Review of Personal Information by Subscriber/Means of Challenging Data._**
+###### i. Information we collect
 
-A subscriber to this Site can review any personal information collected by the Site relating to that subscriber by sending an e-mail to the Site's DATA CONTROLLER at [support@mansurfer.com](mailto:support@mansurfer.com), clearly stating that the subscriber wishes to review the subscriber's personal information which has been collected by the Site. 
+We do not collect any credit card or financial information. The use of our Web site is free.
 
-The individual subscriber shall have the following rights with respect to any personal information gathered by the Site: 
+###### ii .How we use the information
 
-  * to obtain from a data controller, or otherwise, confirmation of whether or not the data controller has data relating to him;  
+Since we do not collect your financial information, we do not have it to use.
 
-  * to have communicated to him, data relating to him within a reasonable time; at a charge, if any, that is not excessive; in a reasonable manner; and in a form that is readily intelligible to him;   
+#### III. Related Issues
 
-  * to be given reasons if a request made under subparagraphs(a) and (b) is denied, and to be able to challenge such denial; and   
+###### A. Information security
 
-  * to challenge data relating to him and, if the challenge is successful to have the data erased, rectified, completed or amended. 
+We are constantly striving to improve the security of your personally identifiable information. We have implemented appropriate technical and organizational measures, such as using encryption, to help us keep your information secure. We will continue to implement additional security measures as new technologies emerge.
+
+###### B. Online advertising
+
+ManSurfer does not use third-party services to provide banner advertising.
+
+###### C. Children’s data
+
+The ManSurfer website is not directed towards children and does not collect any data governed by the United States’ Children’s Online Privacy Protection Act (COPPA). In accordance with 47 U.S.C. § 230(d), we notify you that parental control protections (including computer hardware, software, or filtering services) are commercially available that may assist in limiting access to material that is harmful to minors. You may find information about providers of these protections on the Internet by searching "parental control protection" or similar terms. If minors have access to your computer, please restrain their access to sexually explicit material by using any of the following products, which we provide for informational purposes only and do not endorse: CYBERsitter™ | Net Nanny® | CyberPatrol | ASACP. 
+
+###### D. Privacy technology
+
+There are an increasing number of products and services available to help protect your privacy while navigating the Web. See <http://www.privacyalliance.org/resources/rulesntools/> for an overview of some of these tools. Please note that Mount Equinox, Inc. has not formally evaluated these tools and makes no representations or warranties about them.
+
+###### E. Business relationships
+
+This site contains links to other websites and uses resources by third parties (for example Google Analytics, Disqus, Twitter & CloudFlare). We use Google Analytics to help us understand how our customers use the website--you can read more about how Google uses your Personal Information here: <https://www.google.com/intl/en/policies/privacy/>. You can also opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>. You can find Disqus's Privacy-policy here **<https://help.disqus.com/customer/portal/articles/466259-privacy-policy> and CloudFlare's Privacy-policy here <https://www.cloudflare.com/security-policy>. You can find Twitter's Privacy-policy here <https://twitter.com/privacy>.**
+
+Mount Equinox, Inc. is not responsible for the privacy practices or the content of such websites. The privacy of information that you provide to those companies is governed by their respective privacy policies and not by that of Mount Equinox, Inc.
+
+**F. Posting comments on our sites**
+
+When you post information on a discussion board or comment publicly on an article on one of our sites, the information you post and your username are publicly accessible. This information can be viewed online and collected by other people. We are not responsible for the way these other people use this information. When contributing to a discussion, we strongly recommend you avoid sharing any personal details, and especially information that can be used to identify you directly such as your name, age, address and name of employer. We are not responsible for the privacy of any identifiable information that you post in our online community or other public pages of the site. 
+
+**G. Data Retention**
+
+We will maintain your information for our records unless and until you ask us to delete this information. 
+
+**H. Do Not Track**
+
+Please note that we do not alter our website’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+**I. General Data Protection Regulation (Gdpr) Compliance**
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you join our website), or otherwise to pursue our legitimate business interests. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+**J. Behavioral Advertising**
+
+We do not currently use any targeted advertising.
+
+**K. Data security**
+
+We make every effort to protect the transmission and storage of all user information, and to ensure security of our site and systems. But we cannot guarantee that our security measures will prevent third-parties illegally obtaining this information. We take all reasonable measures to prevent security breaches. You assume the risk of such security breaches should they occur despite our reasonable security measures.
+
+**L. Notification of changes**
+
+This privacy statement was last updated on May 25th, 2018. Mount Equinox, Inc reserves the right to revise or modify this policy at any time and in any way. This privacy statement may be modified by us by posting changes on this website. Changes to this privacy statement will be considered effective once the changes have been posted to this website. You are responsible for checking this website for any posted changes to this privacy statement. 
+
+#### M. Notice of Rights
+
+Subjects in the European Union are advised of the following rights; Mount Equinox, Inc gladly provides the same opportunities to subjects outside the European Union. (You may have other rights.)
+
+  * You may request access to and rectification or erasure of personal data concerning you. 
+
+  * You may request restriction of data processing concerning you. 
+
+  * You may request the personal data which you have provided concerning you, and you may transmit those data to another party without hindrance from us. 
+
+  * You may object at any time to our processing of personal data concerning you and you may withdraw your consent for future processing. 
+
+  * If you are a subject in the European Union, and you believe that Mount Equinox, Inc’s processing of personal data relating to you infringes the EU’s General Data Protection Regulation, you may lodge a complaint with your Member State’s designated supervisory authority. 
 
 
 
-**_Terms and Conditions of Use._**
 
-Each subscriber should carefully read each of the terms and conditions of use of this Site. By accepting the terms to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers. 
+###### N. Questions regarding this statement
 
-In the event of any conflicts between the Terms and Conditions of Use and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
+Questions regarding this statement should be directed to ManSurfer Privacy coordinator at [support@mansurfer.com](mailto:support@mansurfer.com).
+
+**Contact us**
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by emailing [support@mansurfer.com](mailto:support@mansurfer.com).
