@@ -1,229 +1,196 @@
-> *The following text is extracted and transformed from the sendinblue.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110061928id_/https%3A//www.sendinblue.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendinblue.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209000139id_/https%3A//www.sendinblue.com/legal/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Personal Data Protection - Email Marketing & Marketing Automation Software
 
-As part of its business activities, SendinBlue is required to process personal data belonging to its customers/users/prospects and their customers/users/prospects in accordance with the French Data Protection Act no. 78-17 of 6 January 1978, as amended by the Act of 6 August 2004.
+In the course of its activity and for the purposes of providing the Services (as defined in our [General Terms of Use](https://www.sendinblue.com/legal/termsofuse/)), SendinBlue is required to collect and process the personal data of its users (hereafter referred to as the “Users”).
 
-The confidentiality policy adhered to by SendinBlue is governed by the conditions shown below.
+This privacy policy, implemented by SendinBlue, is intended to provide the Users with a summary and overview of the processing of personal data carried out by SendinBlue.
 
-Definitions
+SendinBlue attaches particular importance to the respect for the privacy of the Users and of the confidentiality of their personal data, and is thus committed to processing the data in compliance with the applicable laws and regulations, and in particular Law No. 78-17 of 6 January 1978 relating to Information Technology, Data Files and Civil Liberties (hereafter referred to as the “Data Protection Act”), and Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (hereafter referred to as the “GDPR”).
 
-**Personal data:** personal data refers to any information relating to an identified individual or an individual that can be identified, directly or indirectly, by means of an identification number or one or more elements that are personal to him/her.
+### Definitions
 
-**Processing of personal data:** the processing of personal data refers to any operation or group of operations pertaining to such data, whatever the process used, and in particular its collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission or otherwise making available, alignment or combination, blocking, erasure or destruction.
+**Personal data:** any information relating to an identified or identifiable natural person, that is, a person who can be identified, directly or indirectly, by reference to an identification number or to one or more elements specific to that person.
 
-**Cookie:** a cookie is information placed on an internet user's hard disk by the server of a website he/she has visited. It contains several pieces of data: the name of the server that placed it there, an identifier with a unique number and possibly an expiry date. This information is sometimes stored on the computer as a simple text file which a server can access to read and save information.
+**Processing of personal data:** any operation or any set of operations relating to personal data, whatever the process used, and in particular the collection, recording, organisation, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, as well as locking, erasure, or destruction.
 
-Party responsible for data processing − Data protection officer
+**Cookie :** a cookie is a piece of information placed on the hard drive of Internet users by the server of the site they visit. It contains several pieces of data: the name of the server which installed it, an identifier in the form of a unique number, and possibly an expiry date. This information is sometimes stored on the computer in a simple text file that a server accesses to read and save pieces of information.
 
-The party responsible for the processing of personal data referred to in this document is SendinBlue, a simplified joint stock company with a capital of 137,531 euros, registered with the Paris commercial registry under no. 498 019 298 and whose registered office is located at 47, rue de la Chaussée d'Antin, 75009 Paris, France.
+### Data Controller – DPO
 
-SendinBlue has appointed Mr. Armand Thiberge as its data protection officer at the CNIL.
+The data controller for the processing of the personal data referred to herein is SendinBlue, a simplified joint stock company with a share capital of 137,531 Euros, registered with the Paris Trade and Companies Register under number 498 019 298 and whose registered office is located at 55 rue d’Amsterdam, 75008 Paris, France.
 
-Data provided by the user
+SendinBlue has appointed a Data Protection Officer who can be contacted at the following address: [dpo@sendinblue.com](mailto:dpo@sendinblue.com).
 
-The user is the holder of the file's intellectual property rights and retains full and exclusive rights over the file transmitted to SendinBlue.
+#### Data collected
 
-SendinBlue has access to the data provided by its users and held in their personal account, as well as to the subject line and content of emails sent to their contacts via SendinBlue services.
+SendinBlue collects data from Users in order to make the Services for which they have subscribed to the platform available to them.
 
-This data is stored on secure servers and is subject to computer processing to provide the service subscribed to by the user and improve SendinBlue's services.
+The mandatory or optional nature of the data provided (in order to complete the Users’ registration and to render the Services) is indicated at the time of collection by an asterisk.
 
-The host servers on which SendinBlue processes and stores its databases are located exclusively within the European Union.
+In addition, certain data is collected automatically as a result of the User’s actions on the site (see the paragraph on cookies).
 
-The behavior of the recipients of these emails may be subject to analysis (tracking of an individual's open, click and bounce rates) to improve its email marketing campaigns.
+#### Purposes
 
-SendinBlue undertakes to neither transfer nor rent the data provided by its users.
+The personal data collected by SendinBlue during the provision of the Services is necessary for the performance of the contracts concluded with the Users, or to allow SendinBlue to pursue its legitimate interests while respecting the rights of the Users. Certain data may also be processed based on the Users’ consent.
 
-Personal data provided by the user may only be disclosed to a third party in the following instances:
+The purposes for which SendinBlue processes data are the following:
 
-  * with the user's authorization and confirmation that the owner of this personal data has personally authorized its disclosure;
-  * at the request of legally competent authorities, upon presentation of a court order or within the context of a legal dispute.
-
-
-
-The user is responsible for processing his/her personal data under the terms of the French Data Protection Act no. 78-17 of 6 January 1978, as amended by the Act of 6 August 2004.
-
-The user guarantees to SendinBlue that he/she will respect the provisions of the French Data Protection Act no. 78-17 of 6 January 1978, as amended by the Act of 6 August 2004, and notably:
-
-  * that the personal data contained in the transmitted file was collected and processed in accordance with the provisions of the aforementioned law;
-  * if applicable, the collection and processing were authorized by the owner of the data;
-  * that he/she will allow the owners of the processed data to exercise their individual right to access, amend, rectify or delete any of their personal information;
-  * that he/she undertakes to ensure that this information is rectified, completed, clarified, updated or deleted if it is inaccurate, incomplete, ambiguous or out-of-date, or if the owners wish to prohibit its collection or use, communication or retention.
+  * commercial and accounting management of the contract;
+  * management of customer acquisition and marketing activities;
+  * detection of malicious behaviour (fraud, phishing, spam, etc.);
+  * the improvement of the Users path on the site;
+  * more generally, any purpose referred to in Article 2 of Deliberation No. 2012-209 of 21 June 2012 creating a simplified standard for the automated processing of personal data relating to the management of users and prospects.
 
 
 
-SendinBlue will destroy any data file(s), as well as any media or copies made as part of its data processing and routing operations after a maximum period of 30 days following the termination of the contractual relationship.
+#### Recipients of the data
 
-The user can retrieve his/her data at any time by clicking on the 'export button' from his/her SendinBlue personal account.
+The personal data collected is intended for SendinBlue’s commercial and accounting departments. It may be transmitted to SendinBlue’s subsidiaries, or to third-party data processors which SendinBlue is authorized to use within the context of the performance of its Services.
 
-Personal data collected directly by SendinBlue (data belonging to SendinBlue's customers/users/prospects)
+In this context, personal data may be transferred to an EU or non-EU country. SendinBlue implements guarantees ensuring the protection and security of this data, in compliance with applicable rules and regulations.
 
-Collected data
+SendinBlue does not transfer or rent personal data to third parties for marketing purposes without the express consent of the Users of SendinBlue.
 
-SendinBlue collects and processes the following data: email, first name, surname, country, address, intra-Community VAT number, mailing address, telephone number, IP address(es) and domain name, login and navigation data when authorized by the user, bank details when authorized by the user, order history, complaints, incidents and information relating to subscriptions and communications on our website.
+In addition, personal data may only be disclosed to third parties for purposes other than marketing in the following cases:
 
-When this data is collected, an asterisk indicates whether its provision is mandatory or optional (to finalize the user's subscription and provide SendinBlue services).
-
-Moreover, some data is collected automatically as the user navigates the website (see the paragraph on cookies).
-
-Data recipients
-
-The personal data collected is reserved for SendinBlue's commercial and accounting departments.
-
-It can be transmitted to sub-contracting companies whose services are required by SendinBlue as part of its operations.
-
-SendinBlue will neither rent nor send personal data to third parties for marketing purposes without the express permission of SendinBlue users.
-
-Apart from these scenarios, personal data may only be disclosed in the following instances:
-
-  * with their authorization;
-  * at the request of legally competent authorities, upon presentation of a court order or within the context of a legal dispute.
+  * with their authorisation;
+  * at the request of the competent legal authorities, upon judicial request, or in the context of a legal dispute.
 
 
 
-Use
+#### Data retention period
 
-The processing of personal data is necessary for SendinBlue to carry out its business.
+To satisfy its legal obligations or in order to have the necessary elements to assert its rights, SendinBlue will be able to retain the data under the conditions established by applicable rules and regulations.
 
-It will be used for the following:
+Thus, personal data collected by SendinBlue relating to the identity and contact details of its Users is retained for a maximum period of two years after the termination of the contractual relationship for Users that are customers, or from their collection by the data controller or the last contact from the Users that are prospects, for the data relating to the latter.
 
-  * commercial and accounting management under the contract;
-  * business development management;
-  * the compiling of sales statistics and the monitoring of regulatory compliance relating to data protection;
-  * in more general terms, any use referred to in article 2 of French Resolution no. 2012-209 of 21 June 2012 establishing a simplified standard for the automatic processing of personal data relating to the management of users and prospects.
+The termination of the contractual relationship is understood as the express termination of the contract by the User, or the non-use of SendinBlue Services for a period of five years.
 
+#### Rights of Users
 
+In accordance with applicable rules, the Users have the right to access and rectify their personal data, which enables them to rectify, complete, update, or delete data that is inaccurate, incomplete, ambiguous, or outdated, or whose collection, use, communication, or storage is prohibited.
 
-Data retention period
+The Users also have the right to request the limitation of the processing, and to oppose on legitimate grounds the processing of their personal data. The User may also communicate instructions on the fate of their personal data in the event of their death.
 
-Personal data collected by SendinBlue relating to the identity and contact details of its users and prospects is stored for a period of five years following the termination of the contractual relationship for data relating to users, or from the time it was collected by the data controller or from the last contact made by the prospect for data relating to prospects.
+Where applicable, the User may request the portability of their personal data or, where the legal basis for the processing is consent, withdraw their consent at any time.
 
-The termination of the contractual relationship is understood as being the deliberate cancellation of the contract by the user or the non-use of SendinBlue's services for a period of five years.
+The Users may exercise their rights by sending an email to [privacy@sendinblue.com](mailto:privacy@sendinblue.com) or a letter to:
 
-Rights of access, amendment and objection
+**  
+SendinBlue SAS – Politique de confidentialité  
+55, rue d’Amsterdam 75008 Paris, France  
+**
 
-In accordance with the French Data Protection Act no. 78-17 of 6 January 1978, as modified by the Act of 6 August 2004, the user has the right to access and amend personal information, which can be exercised by sending an email to [privacy@sendinblue.com](mailto:privacy@sendinblue.com) or a letter to:
+These requests shall be processed within a maximum period of 30 days.
 
-SendinBlue SAS - Confidentiality Policy  
-47, rue de la Chaussée d'Antin  
-75009 Paris  
-France 
+The Users may also at any time modify the data pertaining to them by logging on to [http://www.sendinblue.com](https://www.sendinblue.com/) and clicking on “edit my profile” or by contacting the customer relations department at [support@sendinblue.com](mailto:support@sendinblue.com)
 
-The user may also, for legitimate reasons, object to the processing of data concerning him/her.
+The Users may unsubscribe from the SendinBlue newsletter or marketing emails by following the unsubscribe links in each of these emails.
 
-These requests are dealt with within a maximum of 30 days.
+In the event of a dispute, the Users may file a complaint with the CNIL, for which contact details may be found at [http://www.cnil.fr.](http://www.cnil.fr./)
 
-The user can also amend his/her personal data at any time by logging onto [http://www.sendinblue.com](http://www.sendinblue.com/) and by clicking on 'edit my profile', or by emailing us at the following address: [support@sendinblue.com](mailto:support@sendinblue.com)
+The Users may access detailed information on the use of their personal data, in particular concerning the purposes of the processing, the legal bases enabling SendinBlue to process the data, its storage period, its recipients, and, where applicable, its transfer to a country outside the European Union as well as the related compliance guarantees put in place for such transfers. To do so, the User can send their request by email to [privacy@sendinblue.com](mailto:privacy@sendinblue.com).
 
-The user can unsubscribe from our newsletter and marketing emails by using the unsubscribe links contained in any of these emails.
+### Cookies
 
-Cookies
+The SendinBlue site uses cookies whose purpose is to facilitate navigation on the site, to execute the service provided by SendinBlue, to measure the site’s audience, or to allow pages on the site to be shared.
 
-The SendinBlue website uses cookies whose purpose is to make it easier to navigate the website, provide SendinBlue services, assess the website's audience and allow website pages to be shared.
+#### Types of cookies used
 
-Types of cookies used
+**The cookies necessary for navigation on the site**
 
-**Cookies needed to navigate the website**
+These cookies are necessary for the functioning of the [sendinblue.com](https://www.sendinblue.com/) site. They allow the main features of the site to be used.
 
-These cookies are needed for the [sendinblue.com](https://sendinblue.com/) website to operate properly. They allow the website's main features to be used.
-
-Without these cookies, users would not be able to use the website normally.
+Without these cookies, Users cannot use the site normally.
 
 **Functional cookies**
 
-These cookies allow a customized user experience to be provided.
+These cookies make it possible to personalise the User experience.
 
 **Analytical cookies**
 
-These cookies allow website use and performance to be monitored and its operation to be improved by analyzing the traffic to information pages through the tracking of an individual's open, click and bounce rates.
+These cookies make it possible to examine the use and the performance of the site and to improve its operation by carrying out analyses of visits to the informational pages by monitoring the open rates, the click rates, and the bounce rates at the individual level.
 
-**Share button cookies**
+**Sharing button cookies**
 
-Social media cookies allow users to share pages and content on third-party social networks via social media sharing buttons.
+These social cookies allow users to share pages and content on third-party social networks via social sharing buttons.
 
-Cookie management
+#### Cookie management
 
-Users can accept or refuse cookies on a case by case basis, or refuse all cookies by adjusting their browser settings.
+Users may accept or reject cookies on the site or refuse them once and for all through their browser settings.
 
-If the user chooses to refuse all cookies, access to some of the website's pages will be limited.
+If the User chooses to refuse all cookies, navigation to certain pages of the site will be limited.
 
-Depending on which navigator the user has, cookies can be blocked as follows:
+Depending on the browser used by Users, the methods for deleting cookies are as follows:
 
-**Internet Explorer**
+**On Internet Explorer**
 
-  * Click on the Tools button, then on Internet Options.
-  * On the General tab, under Navigation History, click on Settings.
-  * Click on the Display Files button.
-  * Select the cookies you would like to block and click on Remove.
-
-
-
-**Firefox**
-
-  * Click on the Navigation Tools icon and select the Options menu.
-  * In the window that opens, select Private Life and click on Display Cookies.
-  * Select the cookies you would like to block and click on Remove.
+  * Click the Tools button, then Internet Options.
+  * Under the General tab, under Navigation History, click Settings.
+  * Click the Show Files button.
+  * Select the cookies to refuse and click on delete.
 
 
 
-**Safari**
+**On Firefox**
 
-  * Click on the Edit icon and select the Preferences menu.
-  * Click on Security and then Display Cookies.
-  * Select the cookies you would like to block and click on Remove.
-
-
-
-**Google Chrome**
-
-  * Click on the Tools icon, select the Options menu and then click on the Advanced
-  * Options tab to access the Privacy section.
-  * Click on the Display Cookies button.
-  * Select the cookies you would like to block and click on Remove.
+  * Click on the Browser Tools icon, select the Options menu.
+  * In the window that appears, choose “Privacy” and click on “Display cookies”.
+  * Select the cookies to refuse and click on delete.
 
 
 
-**Cookie retention period**
+**On Safari**
 
-Cookies will be held on the user's device for a maximum period of 13 months from the date the user gives consent.
+  * Click the Edit icon, select the Preferences menu.
+  * Click on Security and then on Show cookies.
+  * Select the cookies to refuse and click on delete.
 
-Once this period has expired, consent will need to be given again.
 
-Location of stored data
 
-The host servers on which SendinBlue processes and stores its databases are located exclusively within the European Union.
+**On Google Chrome**
 
-SendinBlue undertakes not to transfer data outside of the European Union.
+  * Click on the Tools icon, select the Options menu then click the Advanced Options tab.
+  * And access the “Confidentiality” section.
+  * Click on the “Show Cookies” button.
+  * Select the cookies to refuse and click on delete.
 
-Security
 
-SendinBlue has taken all necessary precautions to safeguard personal data and, in particular, to prevent it from being misrepresented, damaged or accessed by an unauthorized third party.
+
+**Duration of cookies**  
+Cookies are placed on the User’s terminal for a maximum period of 13 months from the date of the User’s consent.
+
+After this period, consent will be re-obtained.
+
+#### Security
+
+SendinBlue has taken all necessary precautions to preserve the security of personal data and, in particular, to prevent it from being accessed by unauthorized third parties, distorted, or damaged.
 
 These measures include the following:
 
-  * Multi-level firewall,
-  * Anti-virus with a proven reputation for detecting attempted intrusions,
-  * Encrypted data transmission using SSL/HTTPS/VPN technology.
+  * Multi-level firewall.
+  * Proven solutions for anti-virus protection and detection of intrusion attempts. 
+  * Encrypted data transmission using SSL/https/VPN technology.
+  * Tier 3 and PCI DSS certified data centres.
 
 
 
-Moreover, persons from SendinBlue’s recipient departments wishing to access the data must be authenticated using an individual access code and password that are sufficiently robust and changed regularly.
+In addition, access to processing data on behalf of SendinBlue by the receiving third-party services requires authentication of the persons accessing the data, by means of an individual access code and password, that is sufficiently robust and regularly renewed.
 
-Data processed via non-secure communication channels is subject to technical measures rendering it incomprehensible to any unauthorized person.
+Data transmitted over unsecured communication channels is subject to technical measures designed to make such data incomprehensible to any unauthorised person.
 
-Any questions about the security of our website can be addressed to support@Sendinblue.com.
+Any questions about the security of the SendinBlue website can be directed to [support@sendinblue.com](mailto:support@sendinblue.com).
 
-Amendments to the Confidentiality Policy
+#### Modification of the Privacy Policy
 
-SendinBlue reserves the right to amend this Confidentiality Policy to comply with any changes to the laws and regulations in force.
+SendinBlue reserves the right to change this Privacy Policy to comply with changes in the applicable laws and regulations.
 
-Any amendments will be communicated via our website or by email, as far as possible, at least thirty days before they come into force.
+The Users shall be notified of any changes made to this policy via our website or by email at least thirty days prior, when possible, to their entry into force.
 
-Contact
+#### Contact
 
-Any questions about SendinBlue's Confidentiality Policy can be emailed to [privacy@sendinblue.com](mailto:privacy@sendinblue.com) or mailed to:
+Any questions about SendinBlue’s Privacy Policy can be directed by email to [privacy@sendinblue.com](mailto:privacy@sendinblue.com) or by mail to:
 
-SendinBlue SAS - Confidentiality Policy  
-47, rue de la Chaussée d'Antin  
-75009 Paris  
-France 
+**SendinBlue SAS – Politique de confidentialité**  
+**55, rue d’Amsterdam 75008 Paris, France**
