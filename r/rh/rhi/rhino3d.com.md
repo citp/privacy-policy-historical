@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rhino3d.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116211208id_/http%3A//www.rhino3d.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhino3d.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208234009id_/http%3A//www.mcneel.com/privacy) for the most accurate reproduction.*
 
-# Rhino Privacy Policy
+# McNeel North America - Privacy Policy
 
-Providing any information to us is **optional**. We will still do our best to fill your needs; it is just much easier to help you if we know what is important to you and have a way to contact you.
+_NOTE: Unless you are a Customer or User, providing any information to us is_ **_optional_** _. We will still do our best to help; it is just much easier if we know what is important to you and have a way to contact you._
 
 ## 1\. Definitions
 
@@ -13,7 +13,7 @@ Throughout this document, we may use certain words or phrases, and it is importa
   * "Installer" refers to the program that installs our Program.
   * "McNeel" refers to our company, known as "Robert McNeel & Associates", our Site, our Products our Service, or a combination of all or some of the preceding definitions, depending on the context in which the word is used.
   * "Service" refers to the services that we provide, including our Site, our Programs, our Installer.
-  * "Site" refers to our websites, including: http://www.mcneel.com, http://www.rhino3d.com, http://discourse.mcneel.com.
+  * "Site" refers to our websites, including: http://www.mcneel.com, https://www.rhino3d.com, http://discourse.mcneel.com.
   * "User" refers to anyone who uses our Program, Installer, Site, or Service in general.
   * "You" refers to you, the person who is governed by this Privacy Policy.
 
@@ -51,11 +51,11 @@ Some Programs and their Installers send anonymous information to McNeel servers.
 
 ## 5\. Updating your information
 
-To change your email address, [ **email**](mailto:bob.mcneel@mcneel.com?subject=Change%20Address&body=Please%20change%20my%20email%20address%20from:%20____________%20to:%20______________) us both your **old** and **new** email addresses.
+To change your email address, [ **email**](mailto:bob.mcneel@mcneel.com?subject=Change%20Address&body=Please%20change%20my%20email%20address%20from:%20____________%20to:%20______________) us both your **old** and **new** email addresses. You can update your Rhino Account details [here](https://accounts.rhino3d.com/?controller=home).
 
-## 6\. Remove
+## 6\. Cancel your subscription
 
-To remove your email from our subscription list, forward the last email you received from us to **[remove@mcneel.com](mailto:remove@mcneel.com)  
+To remove your email from our eNew subscription list, forward the last eNews you received from us to **[remove@mcneel.com](mailto:remove@mcneel.com)  
 **
 
 ## 7\. Third-party websites
@@ -72,8 +72,19 @@ Throughout the course of our provision of our Service to you, we may delegate ou
 
 It is therefore necessary that you grant the third parties we may use in the course of our business the same rights that you afford us under this Privacy Policy. For this reason, you hereby agree that for every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of to operate, maintain, repair, or otherwise improve or preserve our website or its underlying files or systems. You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions and that you must take legal action against them directly should they commit any tort or other actionable wrong against you.
 
-Without limiting the generality of the foregoing, you authorize us to collect, share, store, exchange, analyze, and otherwise use your information in conjunction with Google Analytics, Google BigQuery, Google Drive, Apple Inc., Dropbox, Flurry Analytics, and others.
+Without limiting the generality of the foregoing, you authorize us to collect, share, store, exchange, analyze, and otherwise use your information in conjunction with these and other service providers: 
 
+Service | Description  
+---|---  
+[Google Analytics](https://www.google.com/analytics/terms/) | Compiles visitor statistics on our web sites. You can opt out of Google analytics using a [browser extension](https://tools.google.com/dlpage/gaoptout).  
+[Google Cloud Platform](https://cloud.google.com/security/privacy/) | Provides cloud servers and services, in service regions across the world, to host, deliver, and speed up web our web sites and downloads. Some of your data may be stored on these servers.  
+[Amazon Web Services](https://aws.amazon.com/privacy/) | Provides cloud servers and services, in service regions across the world, to host, deliver, and speed up web our web sites and downloads. Also provides services for sending email. Some of your data may be stored on these servers.  
+[Microsoft Azure](https://www.microsoft.com/en-us/TrustCenter/Privacy/default.aspx) | Provides cloud servers and services, in service regions across the world, to host, deliver, and speed up web our web sites and downloads. Some of your data may be stored on these servers.  
+[RayGun](https://raygun.com/privacy) | Raygun provides error, crash and performance monitoring for software teams.  
+[Apple, Inc.](https://apple.com/privacy) | Our products that run on Apple devices may be distributed via Apple.  
+[SparkPost](https://www.sparkpost.com/policies/privacy/) | We send email using SparkPost.  
+[SupportBee](https://supportbee.com/privacy-policy) | Emails you send to our sales and support teams are processed by SupportBee.  
+  
 ## 9\. Release of Your Information for legal purposes
 
 At times it may become necessary to release your information in response to a request from a government agency or a private litigant. You agree that we may disclose your information to a third party where we believe, in good faith, that it is desirable to do so for a civil action, criminal investigation, or other legal matter. In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either. We may also proactively report you and release your information to third parties where we believe that it is prudent to do so for legal reasons, such as our belief that you have engaged in fraudulent activities. You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants.
