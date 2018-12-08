@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the spectator.co.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628091648id_/https%3A//www.spectator.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectator.co.uk privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208185835id_/https%3A//www.spectator.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Spectator
 
 **Privacy Policy**
 
-The Spectator (1828) Ltd (“we”, “us” or “our” for short) are registered to collect and process personal data under the Data Protection Act 1998 (the “Act” for short). The Spectator (1828) Ltd are data controllers of your personal information for the purposes of the Act. If you want to know what personal information we hold about you, please write to us at data.protection@spectator.co.uk.
+The Spectator (1828) Ltd (“we”, “us” or “our” for short) are registered to collect and process personal data under the Data Protection Act 1998 (the “Act” for short). The Spectator (1828) Ltd are data controllers of your personal information for the purposes of the Act. If you want to know what personal information we hold about you, please write to us at  _data [at] spectator [dot] co [dot] uk_.
 
-We respect and safeguard the privacy of the users of [spectator.co.uk](https://www.spectator.co.uk/) (“the website”) and readers of our magazines which include The Spectator and Apollo Magazine (“the Magazines”). This Privacy Policy outlines how we will do this, how we will collect and use your personal information (such as your name, country of origin, date of birth, your email address, mobile telephone number or other contact details) and how you can limit our use of this. Please read this Privacy Policy carefully which should be read together with our website terms and conditions.
+We respect and safeguard the privacy of the users of [spectator.co.uk](https://www.spectator.co.uk/) (“the website”) and readers of our magazines which include The Spectator, The Spectator Australia and Apollo Magazine (“the Magazines”). This Privacy Policy outlines how we will do this, how we will collect and use your personal information (such as your name, country of origin, date of birth, your email address, mobile telephone number or other contact details) and how you can limit our use of this. Please read this Privacy Policy carefully which should be read together with our website terms and conditions.
 
 **What information do we gather?**  
 Information is gathered in two ways: (1) indirectly (for example, through our website’s technology); and (2) directly (for example, when you provide information on various pages of the website or when you return coupons published in the Magazines).
