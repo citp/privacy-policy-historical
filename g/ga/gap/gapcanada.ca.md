@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gapcanada.ca privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118063923id_/http%3A//www.gapcanada.ca/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapcanada.ca privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209003726id_/http%3A//gapcanada.ca/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
 
 # | Gap
 
 ## Privacy Policy 
 
-**Last Revised: May 26, 2017**
+**Last updated March 1, 2018**
 
 **Questions about Privacy?**
 
@@ -29,7 +29,7 @@ If you have any questions about our Privacy Policy, please contact us as describ
   * How do I access, change or delete my personal information? 
   * How do I make choices about receiving promotional communications? 
   * How does Gap Inc. protect kids' privacy?
-  * How is my information used for behavioural or targeted advertising and what choices do I have?
+  * How is my information used for interest-based, behavioural or targeted advertising and what choices do I have?
   * What if I apply for a Gap Inc. branded credit card on your site?
   * What if I participate in local store programs? 
   * How do I know personal information is secure? 
@@ -91,7 +91,7 @@ We may share your personal information in the following ways:
   * **Brands.** When you provide personal information to one of our Gap Inc. brands (Gap, Banana Republic, Old Navy, Gap Factory, Banana Republic Factory, Athleta, or Intermix), we may share that information with our other Gap Inc. brands.
   * **By You.** You may disclose personal information when you post content to our websites, in-store technologies or other public forums, such as our brands’ social media pages, blogs, and online product reviews. Any information that you disclose through these services will become public.
   * **Social Sharing.** Your personal information may be disclosed in connection with your social sharing activity, such as if you log into your customer account from your social media account. By connecting your customer account and your social media account, you authorize us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media site’s privacy policy.
-  * **Service Providers.** We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, conducting surveys, etc. We do not authorize any of these service providers to make any other use or disclosure of your information. These service providers may be located inside and outside Canada including but not limited to the United States.
+  * **Service Providers.** We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, providing advertising services, conducting surveys, etc. We do not authorize any of these service providers to make any other use or disclosure of your information. These service providers may be located inside and outside Canada including but not limited to the United States.
   * **Third Parties.** We may share your information when we team up with another company to offer or provide products, services, contests, or promotions to our customers.
   * **Legal Requirements**. We may share information about you if necessary or appropriate, in our good faith judgment, to comply with laws or regulations or in response to a valid subpoena, order, or government request, or to protect the operations, privacy, safety, property or rights of Gap Inc. or others.
   * **Scrip or Loyalty Programs**. If you choose to participate in any third-party scrip, loyalty, or similar program in which a Gap Inc. brand is a participating vendor, and you authorize Gap Inc. or our credit card processor to provide information about your purchases to the company administering the program, we will share your personal information with that program. Scrip programs allow you to instruct us to divert a percentage of the amount you spend on Gap Inc. purchases to participating schools and other non-profit organizations. Loyalty programs allow you to earn "points" on purchases at Gap Inc. brands, which you may then use toward certain rewards offered by the loyalty programs in which you participate. The information you authorize us to disclose to the third-party scrip or loyalty program may include your credit card number and the date and amount of your purchase, and may also include your name and other information you have asked us to provide. Please note that once we disclose this information, the scrip or loyalty company may use and share it with others in accordance with its own privacy policy. You should review these policies carefully, as we have no control over them.
@@ -185,13 +185,15 @@ Gap Inc. is concerned about the privacy and safety of children when they use the
 
 back to top
 
-### How is my information used for behavioural or targeted advertising and what choices do I have?
+### How is my information used for interest-based, behavioural or targeted advertising and what choices do I have? 
 
-We use our own cookies on our websites to collect click-stream data to help determine which of our ads are shown to you on other websites. To opt out of this targeted online advertising by Gap Inc. that utilizes our cookies, please click [here](http://dtmc.gap.com/adinfo/adchoices_fpc.html?cid=2366&cname=Gap%20Inc.&cmagic=d3b1fb&clogo=Gap_INC_LOGOS.png). 
+We also work with third-parties such as ad networks and other advertising companies that use their own tracking technologies (including cookies and pixel tags) on our websites and apps and other websites and apps in order to provide you with tailored advertisements on our behalf across the Internet (including social media websites and apps). These companies may collect information about your activity across your different devices on our websites and apps and third-party websites and apps (such as web pages you visit and your interaction with our advertising and other communications) and use this information to deliver ads that are more relevant to you on third party websites and apps. 
 
-We also work with third-party advertising companies that use their own tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications. These technologies and the information collected about you may also be used to track your activity across multiple devices For more information about this practice and to understand your options, including how you can opt-out of receiving third-party behavioural ads from certain third-party advertising companies, please visit the Digital Advertising Alliance of Canada website as at <http://youradchoices.ca/choices> .
+We adhere to the Digital Advertising Alliance of Canada’s (DAAC) Self-Regulatory Principles for Online Behavioural Advertising. For more information about interest-based advertising on your desktop or mobile browser and to understand your options, including how you can opt-out of receiving behavioural ads from participating third-party advertising companies, please visit the Digital Advertising Alliance of Canada website as at <http://youradchoices.ca/choices>. To learn more about interest-based advertising in mobile apps and to opt out of this type of advertising by third-party advertising companies that participate in the DAAC’s AppChoices tool, please download the version of AppChoices for your device at <https://youradchoices.ca/appchoices/>. 
 
-Please note that even if you opt-out, these tracking technologies may still collect data and you will still see ads, but the ads will not be targeted by the companies from which you opt-out.
+To successfully opt-out, you must have cookies enabled in your web browser. Please see your browser’s instructions for information on cookies and how to enable them. Your opt-out only applies to the web browser you use so you must opt-out of each web browser on each device that you use. Once you opt out, if you delete your browser’s saved cookies, you may need to opt-out again. 
+
+Please note that even if you opt-out interest-based advertising by a third party, these tracking technologies may still collect data for other purposes including analytics and you will still see ads from us, but the ads will not be targeted based on behavioural information about you and may therefore be less relevant to you and your interests. 
 
 back to top
 
@@ -243,7 +245,7 @@ back to top
 
 ### How do I contact you?
 
-For questions about our privacy Policy, to make choices about receiving promotional communications, to access, or update or correct your personal information, or to place an order, you can contact any of our Gap Inc. brands by email, telephone, or postal mail. If you have other questions or concerns about our privacy Policy or the manner in which we or our service providers treat your personal information, please direct your communication to "ATTN: Anthony Martin, Associate General Counsel". 
+For questions about our privacy Policy, to make choices about receiving promotional communications, to access, or update or correct your personal information, or to place an order, you can contact any of our Gap Inc. brands by email, telephone, or postal mail. If you have other questions or concerns about our privacy Policy or the manner in which we or our service providers treat your personal information, please direct your communication to "ATTN: Gap inc., General Counsel". 
 
 back to top
 
