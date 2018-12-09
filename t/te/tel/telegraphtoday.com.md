@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the telegraphtoday.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607123243id_/http%3A//www.telegraphtoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegraphtoday.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209024923id_/https%3A//www.telegraphtoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Telegraph Today
 
 **Privacy Policy**
 
-This Privacy Policy governs the manner in which Telegraph Today, (“TT”),  collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.telegraphtoday.com website (“Site”). This privacy policy applies to the Site and all products and services offered by TT.
+This Privacy Policy governs the manner in which Telegraph Today, (“TT”),  collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.telegraphtoday.com website (“Site”). This privacy policy applies to the Site and all products and services offered by TT.
 
 **Personal Identification Information**
 
@@ -30,7 +30,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 We do not sell, trade, or rent Users’ personal identification information to others.
 
-We may disclose information we have collected from you or the device used to access the Sites in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request, or where we believe in our sole discretion it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Use](http://www.telegraphtoday.com/terms-of-use/), to verify or enforce compliance with the policies governing our Sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements.
+We may disclose information we have collected from you or the device used to access the Sites in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request, or where we believe in our sole discretion it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Use](https://www.telegraphtoday.com/terms-of-use/), to verify or enforce compliance with the policies governing our Sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements.
 
 In addition, we may transfer information if we, or one of our business units, are acquired by, sold to, merged with or otherwise transferred to another entity.
 
