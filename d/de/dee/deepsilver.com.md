@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepsilver.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620233847id_/http%3A//www.deepsilver.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepsilver.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209050731id_/http%3A//www.deepsilver.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Deep Silver
 
@@ -222,6 +222,9 @@ Sessions and campaigns stop after a certain amount of time. By default, sessions
 Please note, however, that you will not be able to use the full functionality of this website. In addition, you can prevent the collection and use of data (cookies and IP addresses) by downloading and installing the browser plug-in at <https://tools.google.com/dlpage/gaoptout?hl=en-US>. Opt-out cookies prevent future collection of your data when you visit this website.
 
 To prevent Universal Analytics tracking across devices, you must opt-out on all systems you use.
+
+[Click here to opt-out from www.deepsilver.com](https://web.archive.org/web/20181209050731id_/http%3A//www.deepsilver.com/en/?action=optout)  
+ 
 
 For more information, see  **Cookies**.
 
