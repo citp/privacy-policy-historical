@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the happysocks.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928202657id_/http%3A//support.happysocks.com/hc/en-us/articles/208317453-PRIVACY-POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happysocks.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209090412id_/http%3A//support.happysocks.com/hc/en-us/articles/208317453-PRIVACY-POLICY) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Happy Socks Help Center
 
 **PRIVACY POLICY – HAPPY SOCKS**
 
-Updated: 26 April 2017
+Updated: 09 January 2018
 
 **1\. WE CARE ABOUT YOUR PRIVACY**
 
-Hello! This notice describes how we, Happy Socks AB ("Happy Socks", "we", "us"), process your personal data that you provide to us when using our website https://www.happysocks.com/ (the "Website"). Please read it carefully.
+Hello! This notice describes how we, Happy Socks North America Inc ("Happy Socks", "we", "us"), process your personal data that you provide to us when using our website https://www.happysocks.com/ (the "Website"). Please read it carefully.
 
 We care about your privacy. We have therefore implemented technical and organizational measures to protect the personal data that you provide to us when using our Website.
 
@@ -92,9 +92,9 @@ If we make any changes to this information, we will notify you on the Help Cente
 
 If you have any questions or concerns about our processing of personal data, please contact us using the following contact details.
 
-Happy Socks AB (556753-0349)  
-Valhallavägen 66  
-114 27 Stockholm  
-Sweden
+Happy Socks North America Inc  
+138 Spring Street, 5th Fl.  
+New York, NY 10012   
+USA
 
 support@happysocks.com
