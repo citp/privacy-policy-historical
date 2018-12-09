@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindmup.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616133543id_/https%3A//www.mindmup.com/resources/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmup.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209120807id_/https%3A//www.mindmup.com/resources/privacy_policy.html) for the most accurate reproduction.*
 
 # MindMup Privacy Policy
 
