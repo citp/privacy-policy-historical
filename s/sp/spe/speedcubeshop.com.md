@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedcubeshop.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503060812id_/https%3A//speedcubeshop.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedcubeshop.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209053406id_/https%3A//speedcubeshop.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # SpeedCubeShop | Privacy Policy
 
