@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballmanagerstory.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607034951id_/http%3A//www.footballmanagerstory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballmanagerstory.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209192449id_/http%3A//www.footballmanagerstory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • FM Stories
 
@@ -43,6 +43,10 @@ This online privacy policy applies only to information collected through our web
 
 _**Your Consent**_  
 By using our site, you consent to our privacy policy.
+
+**Opting Out Of Interest-Based Ads**
+
+To opt out of interest based advertising, please [click here](http://optout.networkadvertising.org/#!/).
 
 _**Changes to our Privacy Policy**_  
 If we decide to change our privacy policy, we will post those changes on this page.
