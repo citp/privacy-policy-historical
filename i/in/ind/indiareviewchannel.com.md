@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the indiareviewchannel.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607041516id_/http%3A//www.indiareviewchannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiareviewchannel.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209060528id_/http%3A//www.indiareviewchannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # IndiaReviewChannel.com privacy policy
 
 At IndiaReviewChannel.com, we know that you care how information about you is stored, used and shared. We do our best to keep your trust by using the information about you carefully and sensibly. This privacy notice explains our privacy policy. By visiting IndiaReviewChannel.com, you are accepting this privacy policy and our terms & conditions.
 
-If you have any queries regarding our privacy policy feel free to **Contact Us**
+If you have any queries regarding our privacy policy feel free to [**Contact Us**](https://www.indiareviewchannel.com/general/ContactUs.aspx)
 
  **How do we use the information we gather?**
 
-IndiaReviewChannel.com is a free community site and we publish almost all information we gather in this site. **We do not share or sell your personal information to any third parties** . But all personal information you submit as part of your public profile will be publicly accessible in our site, except the email address. We try not to publish your email address to avoid spam, but it is possible that in certain cases your email address may be exposed to public.
+IndiaReviewChannel.com is a free community site and we publish almost all information we gather in this site. **We do not share or sell your personal information to any third parties**. But all personal information you submit as part of your public profile will be publicly accessible in our site, except the email address. We try not to publish your email address to avoid spam, but it is possible that in certain cases your email address may be exposed to public.
 
  **What kind of information we gather?**
 
@@ -20,7 +20,7 @@ For statistical purposes, we gather and store general visitor information like I
 
  **Cookies**
 
-Cookies are small pieces of information stored in your computer. When you login to IndiaReviewChannel.com, we store small cookies in your computer, to provide a better browsing experience for you. We use third-party advertising companies to serve ads when you visit our website. These companies may use non personal about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+Cookies are small pieces of information stored in your computer. When you login to IndiaReviewChannel.com, we store small cookies in your computer, to provide a better browsing experience for you. We use third-party advertising companies to serve ads when you visit our website. These companies may use non-personal about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.google.com/privacy_ads.html).
 
  **Advertisements**
 
