@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629154625id_/https%3A//www.realbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209082415id_/https%3A//www.realbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | realbuzz.com
 
 **Privacy Policy**
 
-**This policy was last updated 22-06-2018**
+**This policy was last updated 11-09-2018**
 
 Thank you for visiting realbuzz.com (the “Website”) and/or _myrealbuzz_ (the “app’’). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used by the Website.
 
-For the purpose of the General Data Protection Regulations 2018 (the **Regulations** ), the data controller is The Realbuzz Group Ltd of 4b One City Place, Chester, Cheshire, CH1 3BQ, United Kingdom.
+For the purpose of the General Data Protection Regulation 2018 (the **Regulation** ), the data controller is The Realbuzz Group Ltd of 4b One City Place, Chester, Cheshire, CH1 3BQ, United Kingdom.
 
-Our nominated representative for the purpose of the Act is Gary Irvine, contactable by writing to the address stated above or by email on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3f585e4d4611564d4956515a7f4b575a4d5a5e535d4a4545584d504a4f115c5052).
+If you have any questions or requests surrounding how we process your personal data, please [complete this form](https://therealbuzzgroup.atlassian.net/servicedesk/customer/portal/24/create/342) and we will respond accordingly.
 
 **Terms of Use**
 
@@ -346,7 +346,7 @@ For more information about your personal data rights please visit the Informatio
 
 **Making a complaint about how your personal data is being held or processed**
 
-If you wish to raise a complaint on how we handle your personal data, you can contact Gary Irvine by writing to 4b One City Place, Chester, Cheshire, CH1 3BQ, United Kingdom or by email on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you wish to raise a complaint on how we handle your personal data, you can contact Gary Irvine by writing to 4b One City Place, Chester, Cheshire, CH1 3BQ, United Kingdom or by email on gary.irvine@therealbuzzgroup.com
 
 If you are not satisfied with our response you can make a complaint to the Information Commissioner’s Office (ICO). Their Helpdesk number is 0303 123 1113.
 
