@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the fplmaps.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026181721id_/http%3A//www.nexteraenergy.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fplmaps.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209084427id_/http%3A//www.nexteraenergy.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # NextEra Energy, Inc. | Privacy Policy
-
-## PRIVACY POLICY
 
 This privacy notice is effective August 11, 2017.
 
 NextEra Energy, Inc. (NextEra Energy) and its family of companies are committed to protecting the personal information shared with us by new and existing customers, web site visitors, suppliers, and other third parties, including vendors and potential vendors. Your privacy is a top priority for NextEra Energy and we make every reasonable effort to protect the information we hold about you. This privacy notice describes the personal information we collect, how we use the information, and how we protect it.
 
-This notice applies to NextEra Energy and certain of our subsidiary companies. We will refer to these organizations as “NextEra Energy,” “we,” “us” or “our” throughout this document; including Florida Power & Light Company (FPL). FPL is a subsidiary of NextEra, a rate-regulated electric utility in the state of Florida. Some of our subsidiaries, including Gexa Energy and its NextEra Energy Services affiliates, that provide retail electricity and related products and services outside of Florida are governed by privacy policies displayed at their websites that include different provisions applicable to those businesses and their customers. The Gexa Energy privacy policy may be viewed at <http://www.gexaenergy.com/privacy-policy/>, and the NextEra Energy Services privacy policy may be viewed at <http://www.nexteraenergyservices.com/privacy-policy/>.
+This notice applies to NextEra Energy and certain of our subsidiary companies. We will refer to these organizations as “NextEra Energy,” “we,” “us” or “our” throughout this document; including Florida Power & Light Company (FPL).  FPL is a subsidiary of NextEra, a rate-regulated electric utility in the state of Florida.  Some of our subsidiaries, including Gexa Energy and its NextEra Energy Services affiliates, that provide retail electricity and related products and services outside of Florida are governed by privacy policies displayed at their websites that include different provisions applicable to those businesses and their customers. The Gexa Energy privacy policy may be viewed at <http://www.gexaenergy.com/privacy-policy/>, and the NextEra Energy Services privacy policy may be viewed at <http://www.nexteraenergyservices.com/privacy-policy/>.
 
-## Information we collect and how we use it
+### Information we collect and how we use it
 
 NextEra Energy collects information to establish and provide services to our customers. We do not collect personal information about you through our websites or other digital properties unless you voluntarily provide it.  Examples of the information we collect include:
 
@@ -48,19 +46,19 @@ We may also share with third parties certain pieces of aggregated, non–persona
 
 While browsing NextEra Energy websites, you may encounter and choose to access websites or online services operated by companies or agencies that may not be associated with NextEra Energy. These websites may send their own cookies to you, log your IP address, and/or otherwise collect data or Personal Information about you and your online activities. NextEra Energy does not control and is not responsible for what outside entities do in connection with their websites or online services, or how they handle your Personal Information. Please use caution and consult the privacy policies posted on each outside website that you visit for further information.
 
-## Accessing and updating your personal information
+### Accessing and updating your personal information
 
 If you want to review and/or update the personal information you have provided to us, you may do so by logging in to your account or using the Contact Us information below.
 
 ### Your choices
 
-FPL encourages our customers to visit our website to determine how we communicate with you. Please visit [FPL’s e-mail preferences website](https://webtest.fpl.com/my-account/retrieve-preferences.html) to maintain these preferences.
+FPL encourages our customers to visit our website to determine how we communicate with you. Please visit [FPL’s e-mail preferences website](https://www.fpl.com/my-account/retrieve-preferences.html) to maintain these preferences.
 
-### Website “Do Not Track” requests
+### Website "Do Not Track" requests
 
 NextEra Energy websites do not respond to "Do Not Track" signals or other similar mechanisms. "Do Not Track" signals are used by some web browsers to attempt to limit tracking related to your visits to a website.
 
-## Protecting your personal information
+### Protecting your personal information
 
 We use industry-standard administrative, technical and physical safeguards and protection practices and controls to ensure the integrity of our systems and to protect your information from loss, misuse, alteration and destruction. Such protection measures include firewalls and Secure Socket Layers (SSL) to protect and encrypt sensitive transmissions. Please be advised, however, that no security system is fail-safe and we cannot guarantee the information you provide will never be obtained by unauthorized persons.
 
@@ -75,7 +73,7 @@ We may contact you from time to time to provide you with useful information, upd
 
 Likewise, we will never send you an unsolicited email containing a link to the log-in page for our website.
 
-For more information about protecting yourself from scams, fraud and imposters that try to obtain your personal information, please visit [FPL’s Protection website](https://webtest.fpl.com/landing/protect.html).
+For more information about protecting yourself from scams, fraud and imposters that try to obtain your personal information, please visit [FPL’s Protection website](https://www.fpl.com/landing/protect.html).
 
 Cookies are bits of text that are placed on your computer’s hard drive when you visit certain websites. We utilize browser cookies to tell us, for example, whether you’ve previously visited any of our websites or if you’re a new visitor. They may also be used to save your preferences while you are visiting a website and to enhance your online experience.
 
@@ -89,16 +87,16 @@ NextEra Energy has no control over those forums and, thus, is not responsible fo
 
 NextEra Energy recommends that you not submit your non-public, personally identifying information through these avenues. If there is a need for such information, NextEra Energy will provide you alternative communication methods.
 
-## Privacy Notice Updates
+### Privacy Notice Updates
 
-We may change or update this privacy notice at any time. We will change the effective date found at the top of this privacy notice when an update is made. We recommend that you visit this web page periodically to be kept informed regarding any changes. We also recommend that you visit our [Terms of Use](http://www.nexteraenergy.com/legal_notice.shtml).
+We may change or update this privacy notice at any time. We will change the effective date found at the top of this privacy notice when an update is made. We recommend that you visit this web page periodically to be kept informed regarding any changes. We also recommend that you visit our [Terms of Use](https://web.archive.org/legal-notice.html).
 
 We may include a notification on our websites home pages to notify you of a privacy notice update.
 
-## State Law
+### State Law
 
 You may have privacy rights under applicable state law in addition to those outlined in this Privacy Policy.
 
-## Contact us
+### Contact us
 
 If you have any questions about NextEra Energy’s privacy policies, please contact us [online](mailto:ETHICS%26COMPLIANCE@nee.com).
