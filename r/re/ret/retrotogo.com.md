@@ -1,131 +1,123 @@
-> *The following text is extracted and transformed from the retrotogo.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621224807id_/http%3A//www.modculturemedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrotogo.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209071206id_/http%3A//www.retrotogo.com/privacy-policy-and-cookie-policy) for the most accurate reproduction.*
 
-# Cookie use and privacy policy - David Walker
+# Privacy policy and cookie policy - Retro to Go
 
-**Cookie Policy**
+**Privacy policy and cookie policy**
 
-Like the majority of websites in the world, this one uses cookies – small text files stored on your computer by your browser, which help us to develop the site by checking traffic on the websites we run, support affiliate programs or post ads that are relevant to site users. They do not include personal information (like your name, for example) and do not damage files.
+At Retro To Go, I have always taken your privacy seriously and have never sought to access any more information than is necessary for the running of the site functionally and commercially. However, it light of GDPR coming into play, I wanted to take the opportunity to add as much clarity / transparency as I can to both my Privacy Policy and in relation to cookies on the site.
 
-We may use this information (and share it with third party business partners) to observe your internet use and to compile data in order to improve the site, target advertising to you and assess general effectiveness of such advertising.
+The purpose of this Privacy Policy is to inform you what personally identifiable information may be collected and how it may be used. This statement only applies to this website.
 
-If the settings on your browser or software you use to view this website are adjusted to accept cookies we take this, and your continued use of the site, to mean that you are fine with cookie use. If you do not agree with cookies being used, the information below will explain how to stop using cookies and how to opt out of the ones used on our sites.
+ **Information collected and how it is used:**
 
-Note that we take no responsibility with regard to any changes you make to your own computer. It is your own choice if you turn off cookies in your web browser – and your browsing experience across various websites may be diminished.
+ **1\. Information voluntarily submitted to the website:**  
+We may collect personal information from you such as your name or email address. For example, you may submit information to the website by leaving a comment, subscribing to our newsletter, or getting in touch via the ‘contact us’ page.
 
-Any changes to this policy will be posted here. We reserve the right to vary this Cookie Policy from time to time, with changes effective as soon as they are posted.
+ **2\. Information collected from others:**  
+We may receive information about you from other sources, for example if you link your website, profile or leave a comment. If you opt to do so, your profile may be displayed at the side of your name.
 
-**Important footnote:  
-**Please note that you can learn about online advertising and cookies at [Your Online Choices](http://www.youronlinechoices.com/uk/), with the option to opt out of almost all advertising cookies at the [same site](http://www.youronlinechoices.com/uk/your-ad-choices). Opting out doesn’t necessarily mean you will not see ads, but they will not be tailored to you after you opt out.
+ **3\. Automatically-Collected Information:**  
+We automatically collect certain information about you and the device when you access the website. For example, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the site. We may also collect information about actions you take when using the website, such as links clicked.
 
-**Our use of cookies:**
+ **4\. Cookies:**  
+We may log information using cookies, which are small data files stored on your browser by the website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalised experience on the website.
 
-We may collect information automatically when you visit the website, using cookies. You can choose not to allow cookies. If you do, we can’t guarantee that your experience with the website will be at the standard as allowing cookies or that the site will function correctly.
+ **How your information is used:**
 
-As we said previously, the information collected by cookies does not personally identify you – it includes general information about your computer settings, your connection to the Internet eg operating system and platform, IP address, your browsing patterns and timings of browsing on the website and your location.
+The information collected could be used in the following ways:  
+To operate and maintain our website.  
+To send you promotional information, such as newsletters. Note that every email we send has an opt-out / unsubscribe.  
+To respond to your comments or inquiries.  
+To track and measure advertising on the website  
+To protect, investigate, and deter against unauthorised or illegal activity. Essentially to keep you and fellow users safe.
 
-Most internet browsers accept cookies automatically, but you can change the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. Turning off cookies will impact on all the sites you visit, not just this one. Links on how to turn off cookies can be found here.
+ **Third party use of information**
 
-[Internet Explorer](http://support.microsoft.com/kb/278835) or[ Internet Explorer (mobile version)](http://%20/www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx).  
-[Google Chrome](http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647)  
-[Apple Safari](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html) (or for mobile version, [look here](http://support.apple.com/kb/HT1677))  
-[Mozilla Firefox](http://support.mozilla.org/en-US/kb/%20Enabling%20and%20disabling%20cookies)  
-[Blackberry](http://docs.blackberry.com/en/smartphone_users/deliverables/%2032004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp)  
-[Google Android](http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022)  
-[Opera](http://www.opera.com/browser/tutorials/security/privacy/)
+We may share your information with third parties when you explicitly authorise us to share your information.  
+Additionally, the website may use third- arty service providers to service various aspects of the Website. Each third party service provider’s use of your personal information is dictated by their respective privacy policies.
 
-**Cookies used on this site:**
+ **We currently use the following third party providers:**
 
-We use the following cookies on this site, which you can opt out of via the provided links. Again, please consider carefully before you do this, as your actions will impact on all sites visited using these cookies, not just this one.
+Google Analytics – tracks website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics. Note that for this site, I anonymise data for added protection.
 
-**Important:** We work with Google via Google Analytics and Google Adsense. You can [find out how Google uses data when you use this site here](http://www.google.com/intl/en/policies/privacy/partners/). In addition, you can [control the information sent to Google here](http://www.google.com/intl/en/policies/privacy/partners/). Google also has a [Q&A about ads here](https://support.google.com/ads/answer/1634057?hl=en&rd=1).
+Mail Chimp – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications. Please refer to Mail Chimp’s privacy policy for further information.
 
-**Google Analytics:**  
-We use Google Analytics on this site to monitor general traffic in order to improve the performance and content of those site. In short, we use the traffic data to do things better.
+Disqus – Disqus is the service we use to administer comments. They collect your personal information including your email address, name and IP address, and browser details to help spam detection. Please refer to Disqus’ privacy policy for further information, which is on every page with comments on the site. Note that we can remove any comments if requested.
 
-If you do not want to be included in this data, you can [opt out here](https://tools.google.com/dlpage/gaoptout).
+Wordfence – This site uses Wordfence for protection against unauthorised and/or illegal activity. It’s a wall to keep you safe. IP addresses are used to track and block malicious traffic. You can see its [privacy policy here](https://www.wordfence.com/terms-of-use-and-privacy-policy/).
 
-**Google Adsense:**  
-This site uses third party banner and ads, served via the Google Adsense program. They pay for the site you enjoy for free. Google as a third-party vendor, uses cookies (including the DART cookie) to serve ads on the site, based on previous visits to this site and other sites. If you would like more information about this practice and would like to know your options in relation to these ads, check out the [Privacy policy](https://support.google.com/adsense/bin/answer.py?hl=en-GB&utm_medium=link&gsessionid=DyXLmLB1J1MxXckh6tX6AQ&utm_campaign=ww-ww-et-asfe_&utm_source=aso&answer=48182), as well as details on [how to opt-out](https://www.google.com/settings/ads/onweb/).
+Cloudflare – the site uses Cloudflare to control traffic and block any malicious traffic to the site. Again, IP addresses are used to control this traffic. Please refer to the Cloudflare [privacy policy here](https://www.cloudflare.com/security-policy/).
 
-**Skimlinks:**  
-Our website contains some affiliate marketing links using the Skimlinks service, which means we get paid commission on sales of some products or services we write about. Again, they help to pay for a site you enjoy for free. Our editorial content is not influenced by advertisers or affiliate partnerships. We use a 3rd Party to enable these affiliate partnerships. You can read their [Privacy Policy here](http://skimlinks.com/privacy-policy#users) and find more information on the cookies they use and opting out, [visit this page](http://skimlinks.com/user-cookies).
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the website’s sole discretion.
 
-**Amazon:**  
-Our websites contain some affiliate links for the Amazon Associates program. If you want to know more about the use of cookies and how to opt of their use, please [visit here](http://www.amazon.co.uk/gp/help/customer/display.html?nodeId=502584#c).
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent. However, we may disclose or transfer personal information collected through the website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganisation proceeding brought by or against us.
 
-**Post Affiliate Pro:**  
-One of out third-party affiliates (End Clothing) uses the Post Affiliate Pro software to monitor sales, which in turn uses cookies to track traffic from our sites to the retailer. The program is run by Quality Unit, with details of their Privacy Policy and cookies [found here](http://www.qualityunit.com/company/privacy-policy-quality-unit/).
+ **Anonymous data**
 
-**Affiliate Window:**  
-We work with Affiliate Window for affiliate marketing for a select group of retailers. Again, you can read the Privacy Policy of this company and details of cookies[ here](http://www.affiliatewindow.com/documents/Privacy%20Policy.pdf).
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-**Other ad-management services:**  
-We do not currently use other ad-serving programs, but when we do, we will list any details here in regards to cookies.
+ **Cookies and cookie policy**
 
-**Typepad:**  
-Some of the Modculture sites run on the Typepad platform. A cookie is used in this instance to track visitors and visits, in order to create statistics for the platform. If you are a Typepad account holder and logged into the service, a cookie will allow you to comment on different sites, as well as continuing to access your own.
+This website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customise website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described previously.
 
-You can find out more and opt out of the Typepad cookie [here](http://help.typepad.com/typepad-and-cookies.html).
+Users may, at any time, prevent the setting of cookies, by the website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an internet browser or other software programs. This is possible in all popular internet browsers. However, if users deactivate the setting of cookies in your internet browser, not all functions of our website may be entirely usable.
 
-**Disqus:**  
-We use the Disqus commenting system on some of our sites, with the option to log in and be remembered for future comments. This does, of course, use cookies. Details of blocking cookies for the company in your browser [can be found here](https://help.disqus.com/customer/portal/articles/466235-use-of-cookies).
+ **Advertising:**
 
-**Third-party service cookies:**
+This site uses third party banner and ads, served via the **Google Adsense program**. They pay for the continued running of this site. Google as a third-party vendor, uses cookies (including the DART cookie) to serve ads on the site, based on previous visits to this site and other sites. If you would like more information about this practice and would like to know your options in relation to these ads, check out its Privacy Policy, as well as [details on how to opt-ou](https://adssettings.google.com/)t. Note that from 25th May, these ads will no longer be personalised by default for visitors from the EU and you will be asked to consent to cookies before any ads at all are loaded.
 
-Some third-party services are occasionally used in conjunction with our websites and could use cookies. If you want to opt out of these services, the details for doing that are found in the following places:  
-[Facebook](http://www.facebook.com/about/privacy/your-info-on-other) (social network)  
-[Twitter](https://twitter.com/privacy) (social network)  
-[Pinterest](https://about.pinterest.com/en/privacy-policy) (social network)  
-[YouTube ](http://www.google.com/intl/en/policies/privacy/faq/#toc-cookies)(video player)  
-[Nrelate](http://nrelate.com/privacy-policy/) (related links)  
-[Vimeo](http://vimeo.com/privacy) (video player)
+ **Retargeting Ads:**
 
-Any further cookie use for this site will be listed here as and when they are used.
+From time to time, the website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the website. These companies use cookies to serve ads based on someone’s past visits to the Website.  
+Facebook: Opt-out of Facebook remarketing [here](https://www.facebook.com/)  
+Google: Opt-out of Google remarketing [here](https://adssettings.google.com/)
 
-**Privacy Policy:**
+ **Affiliate Participation**
 
-Our privacy policy relates to all of the websites in the Modculture Media group, all of which are based in the United Kingdom. This privacy policy explains what information (if any) is collected by the sites and how it is used. All of our sites, with the exception of forums, are free to access, without the need to disclose any personally identifiable information about yourself.
+This website may engage in affiliate marketing, which is done by embedding tracking links into the website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions. This is one of the ways we finance the website and essentially, keep going.
 
-By using one of our sites or submitting information to us in any way, you signify your consent to our use and disclosure of information in accordance with this privacy policy. If you do not agree with this privacy policy, you must not use the site or submit information to us through or in connection with the site.
+Retro To Go is a participant in the **Amazon Services LLC Associates Program** , an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to [Amazon.co.uk](http://www.amazon.co.uk/). As part of this Amazon Associates program, the website will post customised links, provided by Amazon, to track the referrals to their website. This program utilises cookies to track visits for the purposes of assigning commission on these sales.
 
-**The information collected by the site**
+Retro To Go is a participant in the **Skimlinks Program** , an umbrella affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to online retailers. As part of this Skimlinks program, the website will post customised links, converted by Skimlinks, to track the referrals to their website. This program utilises cookies to track visits for the purposes of assigning commission on these sales.
 
-We access personal information including but not limited to your name, postal address, email address, telephone number, for running and maintaining any email mailouts, competition entries you have subscribed to, publishing comments, in relation to our forums and for website enquiries We also use third-party advertising companies to serve ads when you visit our website, These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. This includes Google as a third-party vendor, which uses cookies (including the DART cookie) to serve ads on the site, based on previous visits to this site and other sites. If you would like more information about this practice and would like to know your options in relation to not having this information used, please [click here](http://www.google.co.uk/privacy.html).
+Retro To Go is a participant in the **AWIN Program** , an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to online retailers. As part of this AWIN program, the website will post customised links, provided by AWIN, to track the referrals to their website. This program utilises cookies to track visits for the purposes of assigning commission on these sales.
 
-We do not use any personal information except for the express purpose of carrying out the functions stated. Your personal details will not be passed to a third party without your consent unless stated in this privacy policy and all competition entries are discarded at competition end. If you wish to remove yourself from any email lists, all mailouts have an unsubscribe link. You can also permanently delete any forum accounts you may have. If you have any concerns regarding information collected by the site, contact us via the Modculture Media site.
+Retro To Go is a participant in the **End Program** , an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to the retailer End. As part of this End program, the website will post customised links to track the referrals to their website. This program utilises cookies to track visits for the purposes of assigning commission on these sales.
 
-We also gather this information and statistics for the purposes of monitoring site usage and may provide such aggregate information to third parties. These statistics will not include personal information that can be used to identify you.
+ **Newsletters**
 
-If you choose to post messages in our forum or other message/comment areas (where we provide such capability), that information can be retained as necessary to resolve disputes and deal with issues relating to the law.
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we can see if and when you open an email and which links within the email you click. Also, this allows me to adapt the content of future newsletters to the interests of the user. This behaviour will not be passed on to third parties.
 
-**Security of information**
+ **Rights Related To Your Personal Information**
 
-The internet is never 100 per cent safe, but we do try our upmost to keep all information and data as secure as possible. Where you have been allocated a user admin area as part of one of our sites, this area is protected by your user name and password, which you should never divulge to anyone else.
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at [info@retrotogo.com](mailto:info@retrotogo.com) to be removed from the mailing list.  
+Access – You may access the personal information we have about you by submitting a request to [info@retrotogo.com](mailto:info@retrotogo.com)  
+Amend – You may contact us at [info@retrotogo.com](mailto:info@retrotogo.com) to amend or update your personal information.  
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to [info@retrotogo.com](mailto:info@retrotogo.com)  
+Please note that we may need to retain certain information for record keeping purposes or to complete transactions, or when required by law.
 
-Please be aware that communications over the internet (including email) are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered – this is the nature of the net. We cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
+ **Sensitive Personal Information**
 
-We believe that we have appropriate policies, rules and measures in place to protect the personal data that we have under our control from unauthorised access, improper use or disclosure, unauthorised modification, unlawful destruction or accidental loss. Everyone in the employ of Modculture Media associated with, the processing of your personal information are obliged to respect the confidentiality of our visitors’ information.
+At no time should you submit sensitive personal information to this site. This includes financial and government details, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
 
-We also ensure that your information will not be disclosed to government institutions or authorities except if required by law or when requested to by regulatory bodies or law enforcement organisations.
+ **How long we retain your data**
 
-**Disclosure of information**
+We will only keep your personal information for the purposes outlined in this Privacy Policy. When these purposes have expired, or are no longer relevant, or you have withdrawn your consent for us to use your personal information (and we have no other lawful basis to use such data), we will delete such data.
 
-As stated above, we do not offer specific personal information about any of our visitors to third parties unless stated in the privacy policy. Information can only be accessed by employees of Modculture Media and related contractors (including but not limited to IT support services). The only possible exceptions to this are:  
-Government bodies and law enforcement agencies and in response to other legal and regulatory requests.  
-Auditors or contractors or other advisers auditing, assisting with or advising on any of our business purposes.
+If you have not used our services for a reasonable amount of time, we may contact you to ensure you are still happy to receive communications. We may also delete your personal information. Even if we delete your personal information, it may remain on a back-up or in archives.
 
-**Your rights in relation to your information**
+Please refer to other third-party applications or services used by this website for further details on their data retention policies.
 
-You can email us at any time to obtain a list of any information we currently hold about you and to have any inaccuracies corrected or to request the information is erased. We will need your full name and address and brief details of the information you require. Furthermore, we would also require proof of your identity before any details are divulged. We may charge a fee to cover the administration costs involved in providing you with a copy of your information.
+ **Children’s Information**
 
-**Consent and changes to this privacy policy**
+This site does not knowingly collect any personally identifiable information from children under the age of 16 and the site is not marketed at children. If a parent or guardian believes that the site has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at [info@retrotogo.com](mailto:info@retrotogo.com) and I will do my best to quickly remove such information from my records.
 
-By submitting any personal information to us you consent to the use of information as set out in this policy. We reserve the right to amend or modify this privacy policy and if we do so we will post the changes on this page. It is your responsibility to check the privacy policy every time you submit information to us. Use will signify that you agree to any such changes.
+ **Links to other websites**
 
-**Use of your personal information submitted to other sites**
+Our website may contain links to other websites. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. In addition, if you linked to our website from a third party site, we cannot be responsible for the privacy policy and practices of the owners of that third party site. We recommend you check the Privacy Policy of that third-party site.
 
-We are not responsible for the privacy policies and practices of other sites even if you accessed the third party site using links from one of our sites. We recommend that you check the policy of each site you visit and contact the owner or operator of that site if you have concerns or questions.
+ **Contact Information**
 
-**Further information**
+At any time, please contact us at [info@retrotogo.com](mailto:info@retrotogo.com) for questions related to this Privacy Policy.
 
-For further information from us on data protection and privacy or any requests concerning your personal information please [email us](https://web.archive.org/web/20180621224807id_/http://www.modculturemedia.com/the-use-of-cookies-on-our-sites-and-our-privacy-policy/info@modculturemedia.com) via the Modculture Media site.
+ **Last updated: 24th May 2018.**
