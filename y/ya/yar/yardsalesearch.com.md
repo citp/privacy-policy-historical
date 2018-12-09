@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yardsalesearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183116id_/http%3A//www.yardsalesearch.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yardsalesearch.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209204115id_/https%3A//www.yardsalesearch.com/privacy.jsp) for the most accurate reproduction.*
 
 # Yard Sale Search - Find or advertise garage sales for free!
 
@@ -8,7 +8,7 @@ If you're bored, you can read the long version below (yawn....).
 
 This is a web site operated by [Treasure Listings, LLC](http://treasurelistings.com/). 
 
-Our postal address is: 1912 West Anderson Ln Suite 204 Austin, TX 78757 
+Our postal address is: 1843 Wildwood St, Boise ID 83713 
 
 We can be reached via e-mail at [support@yardsaleseach.com](mailto:support@yardsaleseach.com). 
 
