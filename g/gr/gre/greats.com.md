@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the greats.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606200420id_/https%3A//www.greats.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greats.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209221924id_/https%3A//www.greats.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greats
 
 Effective Date of Current Policy: August 6, 2013
 
-Greats Brand, LLC, d/b/a GREATS ("we", "our", or "us") operates the website located at [www.greats.com](http://www.greatsbrand.com/). This Privacy Policy describes how we collect, use, share and protect information obtained from members and from visitors to our website. By using our website, you have agreed and are additionally subject to the Terms of Service [hyperlink], which incorporates this Privacy Policy by reference.
+Greats Brand, Inc, d/b/a GREATS ("we", "our", or "us") operates the website located at [www.greats.com](http://www.greatsbrand.com/). This Privacy Policy describes how we collect, use, share and protect information obtained from members and from visitors to our website. By using our website, you have agreed and are additionally subject to the Terms of Service [hyperlink], which incorporates this Privacy Policy by reference.
 
 **Types of Information We Collect**
 
