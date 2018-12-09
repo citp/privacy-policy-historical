@@ -1,83 +1,183 @@
-> *The following text is extracted and transformed from the anordinaryhousewife.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508032210id_/http%3A//anordinaryhousewife.com/about-me/disclaimerdisclosureprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anordinaryhousewife.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209090459id_/http%3A//anordinaryhousewife.com/about-me/disclaimerdisclosureprivacy-policy) for the most accurate reproduction.*
 
 # Disclaimer/Disclosure/Privacy Policy - An Ordinary Housewife
 
-**Intellectual Content**
+**Disclosure Policy**
 
-It is not my intent or desire to infringe on anyone else’s ideas or intellectual property, including blogs, other sites and non electronically published content. Any similarities between posts or other content on this site and that of another are coincidental and not intended to copy anyone else’s ideas without due credit. My posts, reviews, frugal finds, etc., are based on my own findings and experiences.
-
-If I find information on another site or blog that I feel is so wonderful I _must_ share it, I will give due credit and include a link or other reference to the quoted source. It is my desire to conduct myself and my blog with the utmost integrity and I repeat, I will not knowingly copy someone else’s ideas, though some things posted _may_ bear some small similarity to something else you’ve seen or heard. Also, I ask anyone reading this blog to show me the same courtesy and not copy content from this site without crediting the source. Thank you.
-
-**Advertisements**
-
-**** Visitors to this site may encounter various advertisements, some of which I have little control over, except to remove if I find them unfit for or irrelevant to my site. To my knowledge, none of them are obscene, offensive or otherwise inappropriate. If anyone finds any advertisements on this site to be so, I ask you to notify me at once so appropriate action may be taken. ****
-
-If any visitors to this site choose to click on any advertisements, they do so at their own risk. I cannot assume responsibility the actions of other sites. These sites may ask for personal information which you may choose to enter at your own risk. To my _knowledge_ there are no malicious links or spam-producing advertisers on this site, but I cannot guarantee this. I am obliged to provide this disclaimer. It is not my intent to “scare” anyone from exploring these advertisers, but I urge visitors to exercise caution when clicking on ads on _any_ site, not only this one. I truly hope my visitors will benefit from my advertisers, particularly links I have directly in my posts.
-
-**Disclosure Policy**  
 This blog is a personal blog written and edited by me. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.  
 This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content.  
 The owner of this blog is compensated to provide opinions or information on products, services, websites and various other topics. Even though the owner of this blog receives compensation for our posts or advertisements, I always give honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely my own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
-An Ordinary Housewife is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](http://amzn.to/1RxlN9C).   
-This blog does not contain any content which might present a conflict of interest.  
-To get your own policy, go to http://www.disclosurepolicy.org
+An Ordinary Housewife is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](http://amzn.to/1RxlN9C). 
 
-**What information do we collect?**
+## Privacy Policy
 
-We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.
+An Ordinary Housewife is committed to safeguarding your privacy. Contact us at if you have any questions or problems regarding the use of your Personal Data and we will gladly assist you.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+By using this site or/and our services, you consent to the Processing of your Personal Data as described in this Privacy Policy.
 
-**What do we use your information for?**
+### Table of Contents
 
-Any of the information we collect from you may be used in one of the following ways:
+  1. Definitions used in this Policy
+  2. Data protection principles we follow
+  3. What rights do you have regarding your Personal Data
+  4. What Personal Data we gather about you
+  5. How we use your Personal Data
+  6. Who else has access to your Personal Data
+  7. How we secure your data
+  8. Information about cookies
+  9. Contact information
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-; To process transactions
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+### Definitions
 
-; To administer a contest, promotion, survey or other site feature
+**Personal Data**  – any information relating to an identified or identifiable natural person.  
+**Processing**  – any operation or set of operations which is performed on Personal Data or on sets of Personal Data.  
+**Data subject**  – a natural person whose Personal Data is being Processed.  
+**Child** – a natural person under 16 years of age.  
+**We/us** (either capitalized or not) –
 
-; To send periodic emails
+### Data Protection Principles
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+We promise to follow the following data protection principles:
 
-Third parties (including [Amazon] and other advertisers) may serve content and advertisements, collect information directly from our readers, and place or recognize cookies on our readers’ browsers.
+  * Processing is lawful, fair, transparent. Our Processing activities have lawful grounds. We always consider your rights before Processing Personal Data. We will provide you information regarding Processing upon request.
+  * Processing is limited to the purpose. Our Processing activities fit the purpose for which Personal Data was gathered.
+  * Processing is done with minimal data. We only gather and Process the minimal amount of Personal Data required for any purpose.
+  * Processing is limited with a time period. We will not store your personal data for longer than needed.
+  * We will do our best to ensure the accuracy of data.
+  * We will do our best to ensure the integrity and confidentiality of data.
 
-**How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
-**Do we disclose any information to outside parties?**
+### Data Subject’s rights
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+The Data Subject has the following rights:
 
-**Third party links**
+  1. Right to information – meaning you have to right to know whether your Personal Data is being processed; what data is gathered, from where it is obtained and why and by whom it is processed.
+  2. Right to access – meaning you have the right to access the data collected from/about you. This includes your right to request and obtain a copy of your Personal Data gathered.
+  3. Right to rectification – meaning you have the right to request rectification or erasure of your Personal Data that is inaccurate or incomplete.
+  4. Right to erasure – meaning in certain circumstances you can request for your Personal Data to be erased from our records.
+  5. Right to restrict processing – meaning where certain conditions apply, you have the right to restrict the Processing of your Personal Data.
+  6. Right to object to processing – meaning in certain cases you have the right to object to Processing of your Personal Data, for example in the case of direct marketing.
+  7. Right to object to automated Processing – meaning you have the right to object to automated Processing, including profiling; and not to be subject to a decision based solely on automated Processing. This right you can exercise whenever there is an outcome of the profiling that produces legal effects concerning or significantly affecting you.
+  8. Right to data portability – you have the right to obtain your Personal Data in a machine-readable format or if it is feasible, as a direct transfer from one Processor to another.
+  9. Right to lodge a complaint – in the event that we refuse your request under the Rights of Access, we will provide you with a reason as to why. If you are not satisfied with the way your request has been handled please contact us.
+  10. Right for the help of supervisory authority – meaning you have the right for the help of a supervisory authority and the right for other legal remedies such as claiming damages.
+  11. Right to withdraw consent – you have the right withdraw any given consent for Processing of your Personal Data.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Childrens Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+### Data we gather
 
-**Online Privacy Policy Only**
+**Information you have provided us with**  
+This might be your e-mail address, name, home address etc – mainly information that is necessary for delivering you a product/service or to enhance your customer experience with us. We save the information you provide us with in order for you to comment or perform other activities on the website. This information includes, for example, your name and e-mail address.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+**Information automatically collected about you**  
+This includes information that is automatically stored by cookies and other session tools, such as Google Analytics. For example, your IP address, your shopping history (if there is any) etc. This information is used to improve your customer experience. When you use our services or look at the contents of our website, your activities may be logged.
 
-**Your Consent**
+**Publicly available information**  
+We might gather information about you that is publicly available.
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+### How we use your Personal Data
 
-**Changes to our Privacy Policy**
+We use your Personal Data in order to:
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+  * provide our service to you. This includes for example registering your account; providing you with other products and services that you have requested; providing you with promotional items at your request and communicating with you in relation to those products and services; communicating and interacting with you; and notifying you of changes to any services.
+  * enhance your customer experience;
+  * fulfill an obligation under law or contract
 
-This policy was last modified on 7/2/2013
 
-AnOrdinaryHousewife@gmail.com
 
-This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zen desk](http://www.rhinosupport.com/zendesk.htm) and save!
+We use your Personal Data on legitimate grounds and with your Consent.
+
+On the grounds of entering into a contract or fulfilling contractual obligations, we Process your Personal Data for the following purposes:
+
+  * to provide you a service or to send/offer you a product;
+  * to communicate either for sales or invoicing;
+  * to share updates
+
+
+
+On the ground of legitimate interest, we Process your Personal Data for the following purposes:
+
+  * to send you personalized offers* (from us and/or our carefully selected partners);
+  * to administer and analyse our client base (purchasing behaviour and history) in order to improve the quality, variety, and availability of products/ services offered/provided;
+  * to conduct questionnaires concerning client satisfaction;
+
+
+
+As long as you have not informed us otherwise, we consider offering you products/services that are similar or same to your purchasing history/browsing behaviour to be our legitimate interest.
+
+With your consent we Process your Personal Data for the following purposes:
+
+  * to send you newsletters and campaign offers (from us and/or our carefully selected partners);
+  * for other purposes we have asked your consent for;
+
+
+
+We Process your Personal Data in order to fulfill obligation rising from law and/or use your Personal Data for options provided by law. We reserve the right to anonymise Personal Data gathered and to use any such data. We will use data outside the scope of this Policy only when it is anonymised.
+
+We might process your Personal Data for additional purposes that are not mentioned here, but are compatible with the original purpose for which the data was gathered. To do this, we will ensure that:
+
+  * the link between purposes, context and nature of Personal Data is suitable for further Processing;
+  * the further Processing would not harm your interests and
+  * there would be appropriate safeguard for Processing.
+
+
+
+We will inform you of any further Processing and purposes.
+
+### Who else can access your Personal Data
+
+We do not share your Personal Data with strangers. Personal Data about you is in some cases provided to our trusted partners in order to either make providing the service to you possible or to enhance your customer experience. We share your data with:
+
+**Our processing partners:**
+
+  * **Siteground hosting service**
+  * **MailChimp Email Provider**
+
+
+
+We only work with Processing partners who are able to ensure adequate level of protection to your Personal Data. We disclose your Personal Data to third parties or public officials when we are legally obliged to do so. We might disclose your Personal Data to third parties if you have consented to it or if there are other legal grounds for it.
+
+### How we secure your data
+
+We do our best to keep your Personal Data safe.  We use safe protocols for communication and transferring data (such as HTTPS). We use anonymising and pseudonymising where suitable. We monitor our systems for possible vulnerabilities and attacks.
+
+Even though we try our best we can not guarantee the security of information. However, we promise to notify suitable authorities of data breaches. We will also notify you if there is a threat to your rights or interests. We will do everything we reasonably can to prevent security breaches and to assist authorities should any breaches occur.
+
+If you have an account with us, note that you have to keep your username and password secret.
+
+### Children
+
+We do not intend to collect or knowingly collect information from children. We do not target children with our services.
+
+### Cookies and other technologies we use
+
+We use cookies and/or similar technologies to analyze customer behavior, administer the website, track users’ movements, and to collect information about users. This is done in order to personalize and enhance your experience with us.
+
+A cookie is a tiny text file stored on your computer. Cookies store information that is used to help make sites work. Only we can access the cookies created by our website. You can control your cookies at the browser level. Choosing to disable cookies may hinder your use of certain functions.
+
+**We use cookies for the following purposes:**
+
+  * Necessary cookies – these cookies are required for you to be able to use some important features on our website, such as logging in. These cookies don’t collect any personal information.
+  * Functionality cookies – these cookies provide functionality that makes using our service more convenient and makes providing more personalised features possible. For example, they might remember your name and e-mail in comment forms so you don’t have to re-enter this information next time when commenting.
+  * Analytics cookies – these cookies are used to track the use and performance of our website and services
+  * Advertising cookies – these cookies are used to deliver advertisements that are relevant to you and to your interests. In addition, they are used to limit the number of times you see an advertisement. They are usually placed to the website by advertising networks with the website operator’s permission. These cookies remember that you have visited a website and this information is shared with other organizations such as advertisers. Often targeting or advertising cookies will be linked to site functionality provided by the other organization.
+
+
+
+You can remove cookies stored in your computer via your browser settings. Alternatively, you can control some 3rd party cookies by using a privacy enhancement platform such as [optout.aboutads.info](http://optout.aboutads.info/#!/) or [youronlinechoices.com](http://www.youronlinechoices.com/). For more information about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
+
+We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+
+### Contact Information
+
+**Supervisory Authority**
+
+### Changes to this Privacy Policy
+
+We reserve the right to make change to this Privacy Policy.  
+Last modification was made 5/24/2018.
