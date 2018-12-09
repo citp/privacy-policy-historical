@@ -1,166 +1,86 @@
-> *The following text is extracted and transformed from the seatadvisor.com privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405144742id_/https%3A//www.seatadvisor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatadvisor.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209080945id_/https%3A//www.seatadvisor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SeatAdvisor
 
-SeatAdvisor, Inc. respects your privacy and is committed to protecting it at all times. This Internet Privacy Statement explains how we collect, use, and safeguard information on this website. Please click here for more information about SeatAdvisor, Inc. All information collected online by SeatAdvisor, Inc. will be governed by the SeatAdvisor, Inc. Internet Privacy Statement.
+This Privacy Policy is intended to help users of the SeatAdvisor Box Office (SABO) Service (“you”) understand the information SeatAdvisor (“we”) collect and how we use such information. The SABO Service (“the Service”) encompasses the breadth of all SeatAdvisor technology and services, including but not limited to ticket sales, event registration, access control, and client and customer service. By using the SABO Service, you are consenting to the use of your information as set forth in this policy.
 
-Effective Date: 11/9/2017
+###### 1\. What information do we collect?
 
-###### Definition of terms
+As part of the process of registering for an event, ticket buyers, or attendees, must agree to volunteer some information about themselves. This information may include name, email address, mailing address, phone, as well as other information required to complete the registration process.
 
-Patron: Any user who visits our site with intent to purchase tickets to an event hosted by one of our clients, or to find out more information about SeatAdvisor, Inc. and it’s Clients.
+In addition to information volunteered by users, SeatAdvisor collects additional information about user behavior on SeatAdvisor properties. This information includes IP addresses, approximate geographic regions, browsers, operating systems, and other device characteristics.  
+SeatAdvisor utilizes cookies and similar tracking techniques to recognize you for functional, marketing, and analytics purposes to improve our service. For a complete understanding of how cookies are used, please review our [Cookie Policy](https://www.seatadvisor.com/cookie-policy/).
 
-Client: Any venue or venue representative who uses the SeatAdvisor product SABO or SAEX.
+SeatAdvisor does not knowingly collect personal information on children under the age of 13. SeatAdvisor Terms of Service prohibits children under the age of 13 from submitting personal information to SeatAdvisor. If you believe data has been collected about a child under 13 years of age, please notify privacy@seatadvisor.com.
 
-Information we collect about you online
+###### 2\. Why do we collect this information and how do we use it?
 
-We want patrons and clients to get the most out of their visits to our website. From offering an enjoyable ticket purchase experience to patrons, to providing clients with secure online ticketing system management and sales, we strive to make the most of every unique users visit to our website. To provide our clients with the most powerful ticketing system in the world we have included patron management options for our clients to utilize in any way they see fit. Through our system, our clients will, from time to time request that patrons provide them with personal information, such as name, address, e-mail address and telephone number. Our clients may also receive contact information via a third-party website if patrons request information about our clients venue or events.
+First and foremost, information is collected to help us deliver the highest level of service to our users. Here are some of the specific ways in which we accomplish that:
 
-**Patrons:**  We will ask you for certain contact information when you purchase tickets of any value online. All information will be held within our client’s patron database and will be managed by our clients. Note: At no point will credit card information be stored within our system unless manually entered by our clients at which point our client accepts full legal responsibility.
+  * **Use for Specific Purpose:** Information provided for a specific purpose will be used for that purpose. Most commonly, this applies to information provided during the registration process, which will be used to fulfill your request to attend an event (for example, processing payments).
+  * **Communication:** SeatAdvisor and event organizers may use the information you provide to communicate with you. Often, this communication channel exists to share important information, such as cancellation warnings, about the events you are attending. SeatAdvisor and event organizers may also contact you to promote related events and other information. You can opt out of receiving marketing communications at any time, either during the checkout process or later in your account settings.
+  * **SeatAdvisor’s Business:** In order to continuously improve the product and the Service, we will use information provided to measure the performance of the Service to understand the ways in which our services are being utilized. Information can also be used for SeatAdvisor’s business, including but not limited to fraud prevention, business performance, and customer and market analysis
+  * **Event Organizers’ Business:** Some information will be shared with event organizers for business purposes, including but not limited to event access control, marketing and communication with attendees, and customer and market analysis.
+  * **Personalization:** SeatAdvisor may use the information provided to deliver more personalized services, including but not limited to advertisements, local event recommendations, and content.
 
-**Clients:**  We allow you to use our patron management system at no extra cost. You are responsible for all information stored within our patron management system and agree to hold full legal responsibility for the information and how it is managed. We ask that you not store credit card information within our system and that all patron information will be used according to patron wishes and with respect to patron privacy. Any patron information stored in our system including credit card information is your responsibility to maintain and you agree to be held legally responsible for any information stored within our system in respect to your patrons. At no point will SeatAdvisor, Inc. use our client’s patron’s information unless requested by client.
 
-We will maintain information about ticket purchase activity, online account activity, online services and products requested and your usage of our website to help us administer your online account needs and to continually improve your online experience by providing you with customized, relevant information and features.
 
-###### To parents of children under 13
+The basis for SeatAdvisor processing this information can be for one of the following reasons:
 
-We do not knowingly solicit data online from or market online to children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe that personal information may have been collected about such child, please see How We Use The Information We Collect and Your Opt-Out Choices.
+  * **Consent:** You have given us specific consent to process your data by accepting our terms of service.
+  * **Contract:** You have entered into a contract with SeatAdvisor and we are processing the data to fulfill the duties of that contract.
+  * **Legitimate Interest:** SeatAdvisor and event organizers using SeatAdvisor have a legitimate interest to collect and process that data. Most often these interests are related to the logistics or security for an event you are affiliated with.
 
-###### How we use the information we collect
 
-Whether you are a patron or a client, we use personal information collected on our website to handle the transactions you initiate. We use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve disputes, troubleshoot problems and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple User IDs or aliases. In some instances, we will share your contact information with carefully selected service providers to assist us in processing your online transactions or to deliver the services requested. For example, if you are a patron who requests information about a certain event hosted by one of our clients, we will supply your contact information to our clients who will then contact you to complete your request. SeatAdvisor, Inc. may use a third party vendor who will process and mail information, and other materials you request on SeatAdvisor, Inc.’s behalf.
 
-We will also share your personal information with carefully selected non-affiliated companies who provide special offers on behalf of SeatAdvisor, Inc.. For example, SeatAdvisor, Inc. may offer a free demo or information packet to prospective clients upon speaking with an advisor for a complimentary consultation. Potential Clients who request more information may have their information shared with a third party company only for purposes of ensuring that the potential client receives the information requested.
+###### 3\. How is this information shared?
 
-In an effort to ensure that our clients get the most out of our services, we may use personal information in combination with other information we have about you as a client and information provided to us by third parties to present you with customized and relevant information and offers. For example, we may send you offers that may help the sales process, such as access control systems and ticket printer discounts.
+SeatAdvisor may share your information with other parties in limited circumstances:
 
-We use personal information you enter to become a member to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site’s content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users’ needs.
+  * **Event Organizers:** When you purchase a ticket or register as an attendee for an event, we will share your information and associated analytics with the organizer of that event.
+  * **Vendors, Consultants, Service Providers:** SeatAdvisor works with vendors, consultants and service providers to perform business-related functions. These engagements can include payment processing, risk management services, analytics services, marketing services, software consultation, and others. During these engagements, we may need to share information provided in order to perform business-related functions.
+  * **Legal Requirements:** Where required by law, SeatAdvisor may share certain information with law enforcement, courts, or government agencies.
+  * **Business Transfer:** In the event of a sale, merger, or change in control, we may also share your personal data as part of that business transfer.
 
-###### Tracking activity on our website
 
-In order to make your visit to our website as productive as possible, we track activity on our website. However, we want you to know that the tracking technology we use does not identify any personal information about you. They cannot retrieve data from your hard drive, pass on computer viruses, or capture any personal information about you, such as your name, address, phone number, or e-mail address. We only know who you are if you tell us. You may, however, be asked to provide personal information such as name, address, phone number or e-mail address to us when you register for online services or products.
 
-**Cookies:** One way we track activity is by using cookies. A “cookie” is an electronic file that holds small strings of text. When you visit our website, we send a cookie to your browser so that we can recognize it when you or another user of your computer return to our website. We want to recognize your browser so we can make the best use of your time when visiting our website.
+###### 4\. For EU Individuals: Your Rights under the General Data Protection Regulation?
 
-**Advertising:** When you visit our website by clicking on certain banner ads or special offers on our partners’ website, we track this information to improve navigation and deliver relevant information when you arrive at our website. We also do this because we want to determine if our ads and special offers are appealing to our users.
+  * As a user of SeatAdvisor, you have some choices related to the use of your information. Any requests related to your information should be directed to privacy@seatadvisor.com.
+    * You have the ability to opt-out of receiving marketing communication. You may do so at any time by submitting a request to the event organizer from which you purchased tickets.
+  * Individuals within the European Union or European Economic Area are entitled to additional choices as a result of the data privacy law known as the EU General Data Protection Regulation, more commonly referred to as “GDPR”. The following are those additional choices.
+    * Access and Export: You have access to view your data at any time by contacting the event organizer from which you purchased tickets. You may also request a machine readable format export of your data by contacting privacy@seatadvisor.com.
+    * Limit Use: You can request that we limit the use of your data by contacting privacy@seatadvisor.com.
+    * Rectification: If you find inaccuracies in your information, you have the ability to request that those inaccuracies be corrected by submitting a request to privacy@seatadvisor.com.
+    * Removal: You can request that your data be removed from the SABO system by contacting privacy@seatadvisor.com. For legal, accounting, and safety reasons, some data may not be able to be immediately removed or anonymized. For example, to comply with anti-money laundering laws, we may be required to maintain personal information tied to financial transactions. Such data may only be able to be removed after a minimum required data retention period.
 
-**Browser settings:** You can adjust many browser preferences so that you are alerted when a cookie is placed in your browser, or adjust preferences to decline cookies altogether. Recognize that cookies enable you to visit our website without reviewing introductory information. In addition to allowing us to recognize you.
 
-###### How we use your e-mail address
 
-We recognize that e-mail can be the preferred mode of communication for some of our patrons and clients. If you provide us with your e-mail address when registering for an online service or product or when accessing your account online, we will use it to contact you about online services and products for which you have registered or about your account.
+You may also have the right to make a GDPR complaint to the relevant Supervisory Authority. A list of Supervisory Authorities is available here: [Supervisory Authorities Link](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm). If you need further assistance regarding your rights, please contact us using the contact information provided below and we will consider your request in accordance with applicable law. In some cases our ability to uphold these rights for you may depend upon our obligations to process personal information for security, safety, fraud prevention reasons, compliance with regulatory or legal requirements, or because processing is necessary to deliver the services you have requested. Where this is the case, we will inform you of specific details in response to your request.
 
-We may use your e-mail address to send you the following types of e-mail messages.
+###### 5\. For EU and Swiss Individuals: Privacy Shield Notice for Personal Data Transfers to the United States
 
-  * Service notifications related to your accounts
-  * Regularly scheduled e-mail information related to SeatAdvisor, Inc.
-  * Product or service information
-  * Optional e-mail communications which you have signed up for (e.g. newsletters)
-  * Occasional updates about our products and services as well as SeatAdvisor, Inc. marketing offers
+SeatAdvisor Inc complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries (including Iceland, Liechtenstein, and Norway) and Switzerland transferred to the United States pursuant to Privacy Shield. SeatAdvisor Inc has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [Here](https://www.privacyshield.gov/)
 
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, SeatAdvisor Inc is subject to the regulatory and enforcement powers of the U.S. Federal Trade Commission.
 
+Pursuant to the Privacy Shield Frameworks, EU and Swiss individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States. Upon request, we will provide you with access to the personal information that we hold about you. You may also may correct, amend, or delete the personal information we hold about you. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query to privacy@seatadvisor.com. If requested to remove data, we will respond within a reasonable timeframe.
 
-Also, once you have requested information from us, we may communicate with you via e-mail regarding your request to provide additional information related to your initial information request. For example, we may send you materials to help you prepare for an upcoming meeting with an SeatAdvisor, Inc. advisor. However, we will never ask you to send personal information such as account or Social Security numbers by non-secure e-mail.
+We will provide an individual opt-out choice, or opt-in for sensitive data, before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To request to limit the use and disclosure of your personal information, please submit a written request to privacy@seatadvisor.com.
 
-To make our e-mail more relevant to you, we may use information you provided in your initial transaction with us, in surveys, from information we have about you as a patron or client and information available from external sources.
+In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-We do not share your e-mail address with non-affiliated companies for them to market their products or services directly to you. However, we may partner with selected non-affiliated companies to offer certain products or services we believe may be of interest to you.
+SeatAdvisor Inc accountability for personal data that it receives in the United States under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular SeatAdvisor Inc remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless SeatAdvisor Inc proves that it is not responsible for the event giving rise to the damage.
 
-You may receive e-mail offers from other companies for SeatAdvisor, Inc. products and services if you registered to receive third-party offers on their website, or if you receive ongoing e-mail newsletters from the other companies that include third-party ads. If you have recently opted out of receiving e-mail offers from SeatAdvisor, Inc., we will process and honor your request as soon as administratively possible. In certain circumstances, you may receive e-mail offers for SeatAdvisor, Inc. products and services during the time period when we are processing your opt-out request.
+In compliance with the Privacy Shield Principles, SeatAdvisor Inc commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact SeatAdvisor Inc by email at privacy@seatadvisor.com or via post at:
 
-To opt-out of receiving offers or e-mail newsletters from other companies, follow the instructions provided by those companies.
-
-###### Ads that link to our website
-
-SeatAdvisor, Inc. may use third parties to place banner ads on other websites and will perform tracking and reporting activities through use of Ad Servers. We do not provide Ad Servers with your personal information and Ad Servers do not collect your personal information. Ad Servers are subject to their own privacy policies.
-
-###### How we safeguard your information
-
-SeatAdvisor, Inc. realizes how important security is to you, so we’ve taken a number of steps to enhance the protection of personal or confidential information sent to, or from SeatAdvisor, Inc. over the Internet. First, we require that a “secure session” be established, using Secure Socket Layer (SSL) Technology. This is done any time you supply or access personal or confidential information in one of our secure online areas.
-
-SSL Technology creates a private conversation that only your computer and SeatAdvisor, Inc. systems can understand. The SSL Technology encodes information as it is being sent over the Internet between your computer and SeatAdvisor, Inc. systems, helping to ensure that the transmitted information remains confidential. The use of SSL requires two components: an SSL-compatible browser and a Web server to perform the “key-exchange” that establishes a secure connection to SeatAdvisor, Inc. Web server systems. In addition, all of our secure sites require that your browser support 128-bit encryption.
-
-In order to securely access your personal information via our website, you will need the latest browser version available with SSL and 128 bit encryption capabilities.
-
-Second, client designated areas of the site require the use of a User ID and Password as an additional security measure that helps protect your confidential information. This allows SeatAdvisor, Inc. to verify who you are, thereby allowing you access to your account information, and preventing unauthorized access. It is the client’s responsibility to maintain their user accounts and SeatAdvisor will not be held liable for any misuse of account access.
-
-When a client has finished using a secure area of SeatAdvisor, Inc., make sure you always click on the “Log Out” link which appears on the top of every page. When you click on it, no further management transactions can be conducted without re-entering your User ID and Password. This also helps prevent unauthorized access to your account if you walk away from your computer.
-
-You should be aware that browser software often “caches” a page as you look at it, meaning that some pages are saved in your computer’s temporary memory. Therefore, you may find that clicking on your “Back” button shows you a saved version of a previously viewed page. Caching in no way affects the security of your confidential User ID or Password. If you use a computer in a public place to access your account information, simply quit/exit the browser software before leaving to minimize the possibility of anyone else accessing your account.
-
-Third, in order to bring you the many online products and services offered through seatadvisor.com, we work with carefully selected vendors and non-affiliated companies. If we have to share any information with these companies in order to provide a product or service to you, we first conduct a careful evaluation of their information and security systems and practices, and require administrative, technical, and physical safeguards to ensure the security and confidentiality of SeatAdvisor, Inc. client information. At any time, we may audit these companies to verify the continued security of their systems and practices.
-
-Lastly, you should be aware that other Internet sites that you link to from the SeatAdvisor, Inc. site or an SeatAdvisor, Inc. e-mail may contain privacy provisions that differ from the provisions of our Privacy Statement. To ensure your privacy is protected, we recommend that you review the privacy statements of other Internet sites you visit.
-
-###### Your opt-out choices
-
-We strive to send you e-mail communications that are informative and relevant, but also appreciate that you are in the best position to evaluate the type and frequency of our communications to you.
-
-There are two types of e-mail communications we will send to you: service communications and marketing communications. Service communications may include information about your online registration, verification that your account has been accessed online, in response to a service related inquiry or confirmation of an online transaction. Marketing communications may include information about SeatAdvisor, Inc.’s services and products, newsletters, and joint or special offers or information from our selected non-affiliated companies and SeatAdvisor, Inc. affiliates.
-
-To opt-out of receiving e-mail offers or newsletters, send us an e-mail message requesting you be removed from our mailing list. Note: If you are a patron who wishes to opt out of a venue’s e-mail marketing you must contact the client directly. You may receive separate newsletters pertaining to different SeatAdvisor, Inc. products and services that you are enrolled in automatically when you register for those products or services. In this case, you must request to be removed individually. If you opt-out, we will still send you e-mail with service updates as well as other important information related to the SeatAdvisor, Inc. online products or services for which you have signed up.
-
-###### Transaction security
-
-Because SeatAdvisor Inc, is a private labeled software provider, Our clients present their event listings in a framed browser window the page may not contain the familiar security indicators including the small “lock” icon at the bottom right corner of the browser frame and the “s” in the address bar (for example, “https”). Please be assured that although these indicators are not present in the master page, the checkout component of this page is secure.
-
-To verify that this page is secure and that your credit card number and personal information is being transmitted with an SSL-encrypted page, you may right click on the checkout page and view information about the page (most browsers work this way). You will see that the page is using ‘https’ indicating an SSL-Encrypted page.
-
-Please feel free to contact us directly with questions regarding check-out security.
-
-###### European Union-United States Privacy Shield Notice
-
-SeatAdvisor Inc complies with the EU-U.S. Privacy Shield Framework and the swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. SeatAdvisor Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
-
-If you are visiting the SeatAdvisor website from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using our website, you consent to our collection and use of your data as described in this privacy policy. SeatAdvisor Inc. is a participant in the EU-US and Swiss-US Privacy Shield Frameworks developed by the U.S. Department of Commerce and the European Union and has self-certified compliance with the EU-US and Swiss-US Privacy Principles with respect to personal information transferred to us in the U.S. from European or Swiss countries.
-
-The Federal Trade Commission has enforcement authority with jurisdiction over SeatAdvisor Inc’s compliance with the Privacy Shield.
-
-###### Notice
-
-We’ll give you timely and appropriate notice describing any personal information we’re collecting, how we’ll use it, and the types of third parties with whom we may share it
-
-###### The Information We Collect
-
-We want patrons and clients to get the most out of their visits to our website. From offering an enjoyable ticket purchase experience to patrons, to providing clients with secure online ticketing system management and sales, we strive to make the most of every unique users visit to our website. To provide our clients with the most powerful ticketing system in the world we have included patron management options for our clients to utilize in any way they see fit. Through our system, our clients will, from time to time request that patrons provide them with personal information, such as  **name, address, e-mail address and telephone number.**  Our clients may also receive contact information via a third-party website if patrons request information about our clients’ venue or events
-
-###### Access
-
-SeatAdvisor Inc acknowledges the individual’s right to access their personal information. We will provide ways for you to access your personal information, as required by law, so you can correct inaccuracies. To do so please access the “My Account” section for the organization that you purchased tickets from. Alternatively, you can reach out to our dispute resolution contact below who can liaise with the organization in question:
-
-Attn: Rory O’Donnell  
-2655 Camino Del Rio N.  
-Suite 470  
-San Diego, CA 92108  
-[rory@seatavisor.com](mailto:rory@seatavisor.com)
-
-SeatAdvisor Inc. may restrict access to personal data in exceptional circumstances where the legitimate rights of other persons would be violated or where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy or where access could reveal confidential commercial information.
-
-###### Choice/Opt-out
-
-All SeatAdvisor Inc. organizations offer users the ability to opt in/out for marketing purposes prior to completing sales. Opt in/out selections can be updated either by the patron upon receipt of any marketing emails or by contacting the organization directly.
-
-Service communications (purchase confirmation, e-ticket delivery etc.) may include information about your online registration, verification that your account has been accessed online, in response to a service related inquiry or confirmation of an online transaction.
-
-###### Accountability for Onward Transfer
-
-In order to bring you the many online products and services offered through seatadvisor.com, we work with carefully selected vendors and non-affiliated companies. If we have to share any information with these companies in order to provide a product or service to you, we first conduct a careful evaluation of their information and security systems and practices, and require administrative, technical, and physical safeguards to ensure the security and confidentiality of SeatAdvisor, Inc. client information. At any time, we may audit these companies to verify the continued security of their systems and practices. SeatAdvisor Inc. may be liable for appropriate onward transfer of personal data to third parties.
-
-Please be aware that SeatAdvisor Inc. may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
-
-###### Data Integrity and Purpose Limitation
-
-We will take appropriate steps to make sure the personal information in our records is accurate and relevant.
-
-###### Recourse, Enforcement and Liability
-
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, SeatAdvisor Inc commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact SeatAdvisor Inc at:
-
-SeatAdvisor Inc.  
-Internal Dispute Resolution Dept.  
 Attn: Rory O’Donnell  
 2655 Camino Del Rio N.  
 Suite 470  
 San Diego, CA 92108
 
-SeatAdvisor Inc has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://www.bbb.org/EU-privacy-shield/](https://www.bbb.org/EU-privacy-shield/) for-eu-consumers for more information and to file a complaint. It is possible, under certain conditions, for the individual to invoke binding arbitration. 
+SeatAdvisor Inc has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers for more information and to file a complaint. This service is provided free of charge to you.
+
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at [This Link](https://www.privacyshield.gov/article?id=ANNEX-I-introduction)
+
+Updated October 17, 2018
