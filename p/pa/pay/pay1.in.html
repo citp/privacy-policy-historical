@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pay1.in privacy policy that was archived on 2018-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180610045106id_/http%3A//www.pay1.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pay1.in privacy policy that was archived on 2018-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181210003936id_/http%3A//www.pay1.in/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
@@ -747,7 +747,7 @@ src="https://www.facebook.com/tr?id=1081017882017798&ev=PageView&noscript=1"
 
   <script>var HOST="https://pay1.in/";</script>
         <script type="text/javascript" src="https://pay1.in/js/md5.js"></script>
-        
+
         <script type="text/javascript" src="https://pay1.in/js/gifts.js"></script>
         <script type="text/javascript" src="https://pay1.in/js/json2.js"></script>
         <script type="text/javascript" src="https://pay1.in/js/jstorage.js"></script>
@@ -758,12 +758,12 @@ src="https://www.facebook.com/tr?id=1081017882017798&ev=PageView&noscript=1"
 
         <script type="text/javascript" src="https://pay1.in/js/bootstrap-validator.js"></script>
         <script type="text/javascript" src="https://pay1.in/js/bootstrap-datepicker.js"></script>
-        
+
         <!-- <script type="text/javascript"  src="https://pay1.in/assets/js/jquery-scrollToTop.js" ></script> -->
 
         <script type="text/javascript" src="https://pay1.in/assets/js/payment.js"></script>
         <script src="https://pay1.in/assets/js/slider.js"></script>
-       
+
       <!--   <script src="https://pay1.in/assets/js/bootstrap.min.js"></script> -->
         <script type="text/javascript" src="https://pay1.in/assets/js/jssor.slider.mini.js"></script>
         <script type="text/javascript" src="https://pay1.in/assets/validation/jquery.validationEngine.js"></script>
@@ -792,7 +792,7 @@ $(document).ready(function() {
                         max: 10,
                         message: 'The Mobile Number must be of 10 digits.'
                     },
-                    regexp: 
+                    regexp:
                     {
                         regexp: /^[789]\d{9}$/,
                         message:'Please enter valid mobile number.'
@@ -812,7 +812,7 @@ $(document).ready(function() {
         }
         });
 });
-</script>  
+</script>
 
 <script type="text/javascript">
 $(document).ready(function() {
@@ -826,13 +826,13 @@ $(document).ready(function() {
         fields: {
         	 signupname: {
                     validators: {
-                        notEmpty: {}                    
+                        notEmpty: {}
                     }
-                }, 
+                },
         	 signupemail: {
                     validators: {
-                        notEmpty: {},                                         
-                        regexp: 
+                        notEmpty: {},
+                        regexp:
                         {   regexp: /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i,
                             message:'Please enter valid email id.'
                         }
@@ -840,21 +840,21 @@ $(document).ready(function() {
                 },
         	 signupfirmname: {
                      validators: {
-                        notEmpty: {}                     
+                        notEmpty: {}
                     }
                 },
         	signupcurrbusiness: {
                     validators: {
-                        notEmpty: {}                                             
+                        notEmpty: {}
                     }
                 },
                signupcurrbusinessothers: {
                     validators: {
-                        notEmpty: {}                                             
+                        notEmpty: {}
                     }
                 },
-                signuppincode: {                    
-                    validators: {                                   
+                signuppincode: {
+                    validators: {
                         notEmpty: {},
                         regexp: {
                         regexp: /^\d{6}$/,
@@ -862,8 +862,8 @@ $(document).ready(function() {
                       }
                   }
                },
-                signupnumber: {                    
-                    validators: {                          
+                signupnumber: {
+                    validators: {
                         notEmpty: {},
                         regexp:{
                         regexp: /^[789]\d{9}$/,
@@ -885,28 +885,28 @@ $('#signup-otp-retailer-modal').bootstrapValidator({
             invalid: 'glyphicon glyphicon-remove',
             validating: 'glyphicon glyphicon-refresh'
         },
-        excluded: [':disabled'],        
+        excluded: [':disabled'],
         fields: {
              signupotp: {
                 validators: {
                     notEmpty: {}
-                     
+
                 }
             },
             signuppassword: {
                 validators: {
                     notEmpty: {}
-                     
+
                 }
             },
             reenterpassword: {
                 validators: {
                     notEmpty: {},
-                    identical: 
+                    identical:
                       {
                         field: 'signuppassword',
                         message: 'The password and re-enter password are not the same.'
-                      }  
+                      }
                 }
             }
         }
@@ -923,28 +923,28 @@ $('#signup-otp-retailer-modal').bootstrapValidator({
             invalid: 'glyphicon glyphicon-remove',
             validating: 'glyphicon glyphicon-refresh'
         },
-        excluded: [':disabled'],        
+        excluded: [':disabled'],
         fields: {
              signupotp: {
                 validators: {
                     notEmpty: {}
-                     
+
                 }
             },
             signuppassword: {
                 validators: {
                     notEmpty: {}
-                     
+
                 }
             },
             reenterpassword: {
                 validators: {
                     notEmpty: {},
-                    identical: 
+                    identical:
                       {
                         field: 'signuppassword',
                         message: 'The password and re-enter password are not the same.'
-                      }  
+                      }
                 }
             }
         }
@@ -964,30 +964,30 @@ $('#signup').bootstrapValidator({
         excluded: [':disabled'],
         fields: {
             signupotp: {
-                validators: {                    
+                validators: {
                     notEmpty: {}
-                     
+
                 }
             }
 
         }
-    });   
+    });
     });
 </script>
 
-<script type="text/javascript">                
+<script type="text/javascript">
     $('#signup-otp-distributor-modal').on('show.bs.modal', function () {
-        $('#signup-otp-distributor-modal').bootstrapValidator('resetForm', true);    
-        document.getElementById("otpDistributorError").innerHTML = "";                 
+        $('#signup-otp-distributor-modal').bootstrapValidator('resetForm', true);
+        document.getElementById("otpDistributorError").innerHTML = "";
      });
-            
+
     $('#signup-otp-retailer-modal').on('show.bs.modal', function () {
-        $('#signup-otp-retailer-modal').bootstrapValidator('resetForm', true);    
+        $('#signup-otp-retailer-modal').bootstrapValidator('resetForm', true);
         document.getElementById("otpRetailerError").innerHTML = "";
-    }); 
-</script>         
+    });
+</script>
 	<script type="text/javascript">
-		
+
 		$(document).ready(function() {
 
 		  $("#owl-demo").owlCarousel({
@@ -1016,12 +1016,12 @@ $('#signup').bootstrapValidator({
 		  });
 
 		});
-		
+
 	 $(document).ready(function(){
 
 	// hide #back-top first
 	$("#back-top").hide();
-	
+
 	// fade in #back-top
 	$(function () {
 		$(window).scroll(function () {
@@ -1044,7 +1044,7 @@ $('#signup').bootstrapValidator({
   $('[data-toggle="tooltip"]').tooltip()
 })
 
-	
+
 });
 $(document).scroll(function () {
     var y = $(this).scrollTop();
@@ -1061,7 +1061,7 @@ $(document).scroll(function () {
 <script type="text/javascript" src="/assets/css3/js/classie.js"></script>
 <script type="text/javascript" src="/assets/css3/js/modalEffects.js"></script>
 	<script>
-   
+
       var apisURL = "https:\/\/panel.pay1.in\/";
         var mobile = "";
         var pin = "";
@@ -1072,29 +1072,29 @@ $(document).scroll(function () {
         var lead_source = "";
         var lead_campaign = "";
     	var get = '0';
-        
+
 //        if( get > 0 ){
 
                 lead_source = 'pay1.in';
                 lead_campaign = '';
 //                if(lead_source.length){
-               
-                set_cookie("lead_source", lead_source, 1);               
+
+                set_cookie("lead_source", lead_source, 1);
 //              }
 //                if(lead_campaign.length){
 
-                set_cookie("lead_campaign", lead_campaign, 1);               
+                set_cookie("lead_campaign", lead_campaign, 1);
 //              }
-//          } 
+//          }
 
-        function create_lead(){   
+        function create_lead(){
             $('#signupError').html('');
             $('#signupError').css("visibility", 'hidden');
             //interest = $('#interest').val();
             interest = $("input[name='interest']:checked").val();
             if(!(interest=='Distributor' || interest=='Retailer')){
                 $('#signupError').html('Please select a Business Partner');
-                $('#signupError').css("visibility", 'visible');  
+                $('#signupError').css("visibility", 'visible');
                 return false;
             }
 
@@ -1123,7 +1123,7 @@ $(document).scroll(function () {
                 "app_name": "recharge_app",
                 "from": "web"
             });
-            
+
             if(mobile.length<1)
                 return false;
             if(name.length<1)
@@ -1136,27 +1136,27 @@ $(document).scroll(function () {
                 return false;
 
             if((currbusinessval.length<1) && (interest == 'Distributor'))
-                return false;    
+                return false;
 
             if(pincode.length<1)
                 return false;
-                        
+
             if(!validateEmail(email)){
                 alert("Type a valid email");
                 return false;
-            } 
+            }
             if(!validateMobile(mobile)){
                 alert("Type a valid mobile number");
                 return false;
-            }  
-            
+            }
+
             var data ="&r_n=" + name + "&reg_i=" + interest +"&r_m=" + mobile + "&r_e=" + email + "&r_s_n="+ shopname + "&r_c_b=" + currbusinessval + "&r_p=" + pincode + "&req_by=pay1.in" + "&ref=" + "&lead_source=" + lead_source  + "&lead_campaign=" + lead_campaign + "&device_type=web";
             var url = apisURL+"apis/receiveWeb/mindsarray/mindsarray/json?method=createRetDistNewLeads2&root=step1_response";
 
             $.post(url, data, "", "jsonp");
 
 
-        }   
+        }
 
         function step1_response(response){
             jsonResponse = response[0];
@@ -1165,7 +1165,7 @@ $(document).scroll(function () {
                 if(interest == "Distributor"){
                     $('#signup').modal('hide');
                     $('#signup-otp-distributor-modal').modal('show');
-                }                   
+                }
                 else{
                     $('#signup').modal('hide');
                     $('#signup-otp-retailer-modal').modal('show');
@@ -1174,51 +1174,51 @@ $(document).scroll(function () {
                 if(interest == "Distributor"){
                     $('#distMobile').html(mobile);
                   }else{
-                    $('#mobile_number').html(mobile);  
+                    $('#mobile_number').html(mobile);
                   }
-            }   
-            else {                
+            }
+            else {
 //          $('#signupError').html('User already exist');
                 $('#signupError').html(jsonResponse['description']);
                 $('#signupError').css("visibility", 'visible');
             }
         }
-        
+
         function currBussines(val){
-             var currbusiness = val;           
-             var interest = $("input[name='interest']:checked").val();             
+             var currbusiness = val;
+             var interest = $("input[name='interest']:checked").val();
              document.getElementById("currentbusinessothers").value = currbusiness;
-             if(currbusiness == 'Others' && interest == 'Distributor' ){             
-               $('#currentbusinessothers').show();                              
+             if(currbusiness == 'Others' && interest == 'Distributor' ){
+               $('#currentbusinessothers').show();
             }
             else {
-               $('#currentbusinessothers').hide(); 
-            }            
-            }            
+               $('#currentbusinessothers').hide();
+            }
+            }
 
         function resetSignUp(){
             $('#signupError').html('');
             $('#signupError').css("visibility", 'hide');
-            
+
             interest = $("input[name='interest']:checked").val();
             others   = $('#currbusiness').val();
-            currbusiness = $('#currentbusinessothers').val();            
+            currbusiness = $('#currentbusinessothers').val();
             if(interest == 'Distributor'){
-               $('#currentbusiness').show();                              
+               $('#currentbusiness').show();
             }
             else {
-               $('#currentbusiness').hide();               
-            }            
-//            
-//            if(interest == 'Retailer'){             
-//               $('#currentbusinessothers').hide();                              
+               $('#currentbusiness').hide();
+            }
+//
+//            if(interest == 'Retailer'){
+//               $('#currentbusinessothers').hide();
 //            }
-//            
+//
             if(interest == 'Distributor' && currbusiness == 'Others'){
-                $('#currentbusinessothers').show();                
+                $('#currentbusinessothers').show();
             }
             else {
-                    $('#currentbusinessothers').hide();  
+                    $('#currentbusinessothers').hide();
               }
         }
 
@@ -1228,11 +1228,11 @@ $(document).scroll(function () {
       if(interest == "Distributor"){
         $('#distMobile').html(mobile);
       }else{
-        $('#mobile_number').html(mobile);  
+        $('#mobile_number').html(mobile);
       }
-            
+
             $.post(url, data, "", "jsonp");
-        }   
+        }
 
         function reSendOTP(){
              var data = "mobile=" + mobile + "&interest=" + interest;
@@ -1240,9 +1240,9 @@ $(document).scroll(function () {
       if(interest == "Distributor"){
         $('#distMobile').html(mobile);
       }else{
-        $('#mobile_number').html(mobile);  
+        $('#mobile_number').html(mobile);
       }
-            
+
             $.post(url, data, "", "jsonp");
             $("#"+interest+"MsgSent").css("visibility", 'visible');
         }
@@ -1251,7 +1251,7 @@ $(document).scroll(function () {
             jsonResponse = response[0];
             if(jsonResponse['status'] == "success"){
                 ota = jsonResponse['OTA_Fee'];
-            }   
+            }
             else {
         $('#otp'+interest+'Error').html(jsonResponse['description']);
           $('#otp'+interest+'Error').css('visibility','visible')
@@ -1261,11 +1261,11 @@ $(document).scroll(function () {
                 else{
             $('#signup-otp-retailer-modal').modal('show');
                 }
-                
+
             }
         }
 
-        function verifyLead(){                        
+        function verifyLead(){
             $("#"+interest+"MsgSent").css("visibility", 'hidden');
             var otp = $('#'+interest+'otp').val();
             if(otp.length<2)
@@ -1281,7 +1281,7 @@ $(document).scroll(function () {
       if(interest == "Retailer"){
         data = data+"&pin=" + pin +"&confirm_pin="+confirm_pin;
       }
-        
+
             $.post(url, data, "", "jsonp");
         }
 
@@ -1301,7 +1301,7 @@ $(document).scroll(function () {
 
                 $('#signup-otp-retailer-modal').modal('hide');
                 $('#retailer-modal').modal('show');
-                
+
                 clevertap.event.push("Sign Up Verified",{
                     "type": "Retailer",
                     "status": "success",
@@ -1325,7 +1325,7 @@ $(document).scroll(function () {
       mobile = $('#login-mobile-number').val();
       pin = $('#login-password').val();
 
-      
+
 
     if(mobile.length<10 || pin.length<2)
         return false;
@@ -1340,7 +1340,7 @@ $(document).scroll(function () {
       //div_n = 123456789;
       var url = apisURL+"apis/receiveWeb/mindsarray/mindsarray/json?root=directLoginResp";
             var data =  {
-                method:'authenticateUser',   
+                method:'authenticateUser',
                 uuid:div_n,
                 mobile:mobile,
                 password:pin,
@@ -1348,7 +1348,7 @@ $(document).scroll(function () {
                 device_type:'web'
             };
 //          var data = {'mobile':mobile, 'password':pin, 'param':"retail"};
-            
+
             $.post(url, data, "", "jsonp");
             console.log(data);
 
@@ -1373,7 +1373,7 @@ $(document).scroll(function () {
         var url = apisURL+"apis/receiveWeb/mindsarray/mindsarray/json?root=login_response";
         var div_n =  new Fingerprint().get();
         var data =  {
-            method:'verifyOTPOfUserDeviceMapping',   
+            method:'verifyOTPOfUserDeviceMapping',
             uuid:div_n,
             mobile:mobile,
             otp:otp,
@@ -1382,9 +1382,9 @@ $(document).scroll(function () {
             verify_otp_from : 'Web'
         };
 //          var data = {'mobile':mobile, 'password':pin, 'param':"retail"};
-            
+
         $.post(url, data, "", "jsonp");
-        
+
     }
 
         function login(){
@@ -1393,7 +1393,7 @@ $(document).scroll(function () {
       var div_n =  new Fingerprint().get();
       var url = apisURL+"apis/receiveWeb/mindsarray/mindsarray/json?root=login_response";
             var data =  {
-                method:'authenticateUser',   
+                method:'authenticateUser',
                 uuid:div_n,
                 mobile:mobile,
                 password:pin,
@@ -1402,26 +1402,26 @@ $(document).scroll(function () {
                 device_type:'web'
             };
 //          var data = {'mobile':mobile, 'password':pin, 'param':"retail"};
-            
+
             $.post(url, data, "", "jsonp");
-        }   
+        }
 
         function login_response(response){
             jsonResponse = response;
                    console.log(response);
-     
+
             if(jsonResponse['status'] == "success"){
                 var description = jsonResponse['description'];
                 var type = jsonResponse['type'];
                 if(type=='Retailer'){
                     var lat =  description.Retailer.latitude;
-                
+
                     var lng =  description.Retailer.longitude;
                     var profile_details = mobile+"|<>|"+lat+"|<>|"+lng;
                     clear_cookies();
-                    
+
                     set_cookie("profileDetails", profile_details, 1)
-                    set_cookie("shopname", description.Retailer.shopname, 1);                                                                
+                    set_cookie("shopname", description.Retailer.shopname, 1);
                     set_cookie("street", description.Retailer.address, 1);
                     set_cookie("city", description.Retailer.city_name, 1);
                     set_cookie("pincode", description.Retailer.pin, 1);
@@ -1431,7 +1431,7 @@ $(document).scroll(function () {
                     set_cookie("balance", description.Retailer.balance, 1);
                     set_cookie("flag", description.Retailer.passflag, 1);
                     set_cookie("ota_fee", ota, 1);
-                    
+
                     set_cookie("mobile", mobile, 1);
                     set_cookie("pinStatus", description.Retailer.passFlag, 1);
                     clevertap.profile.push({
@@ -1451,17 +1451,17 @@ $(document).scroll(function () {
                     }
                     else
                     {
-                        window.location.href = "https://shop.pay1.in/online";
+                        window.location.href = "https://shop.pay1.in";
                     }
                     }, 5000);
                 }
-                
+
                 //$('#retailer-modal').modal('show');
-                if(jsonResponse['type']=='Distributor'){                     
-                    window.location.href = "https://panel.pay1.in/";   
+                if(jsonResponse['type']=='Distributor'){
+                    window.location.href = "https://panel.pay1.in/";
                 }
-            }   
-            else { 
+            }
+            else {
                 //$('#retailer-modal').modal('hide');
         $('#RetailerError').html('Invalid login');
         $('#RetailerError').css("visibility", 'visible');
@@ -1469,11 +1469,11 @@ $(document).scroll(function () {
         $('#loginOtpError').css("visibility", 'visible');
                 //alert('Invalid login');
 
-            }   
+            }
         }
 
         function goToShop(){
-            window.location.href = "https://shop.pay1.in/online";
+            window.location.href = "https://shop.pay1.in";
         }
 
         function isNumberKey(evt) {
@@ -1489,22 +1489,22 @@ $(document).scroll(function () {
             var charCode = (evt.which) ? evt.which : event.keyCode;
             return ((charCode >= 65 && charCode <= 90) || charCode == 8 || (charCode >= 97 && charCode <= 122));
         }
-                
+
         function validateEmail(email) {
             var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
             return re.test(email);
         }
 
         function validateMobile(number){
-          var phoneno = /^\d{10}$/;  
+          var phoneno = /^\d{10}$/;
           return number.match(phoneno) && (number > 7000000000);
-        }  
+        }
 
         function validatePincode(number){
-              var pin_code = /^\d{6}$/;  
+              var pin_code = /^\d{6}$/;
               return number.match(pin_code);
-        } 
-        
+        }
+
         function set_cookie(name, value, days){
             var date, expires;
             if (days){
@@ -1517,7 +1517,7 @@ $(document).scroll(function () {
             }
             var cookieDomain = window.location.host;
             document.cookie = name + '=' + value + expires + ';domain='+cookieDomain+';path=' + "/";
-        }  
+        }
         function check_enter(event){
               //$(window).keydown(function(event){
                 if(event.keyCode == 13) {
@@ -1543,7 +1543,7 @@ $(document).scroll(function () {
                  // verifyLead();
                 }
                // });
-            }   
+            }
         function clear_cookies(){
             var cookies = document.cookie.split(";");
             for (var i = 0; i < cookies.length; i++) {
@@ -1552,9 +1552,9 @@ $(document).scroll(function () {
                 var name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie;
                 set_cookie(name, '', -1);
             }
-                
-        }   
-        
+
+        }
+
         function sendAppLink(){
             $("#appLinkErrorMsg").css("visibility", 'hidden');
             var mobile= $("#app-link").val();
@@ -1562,7 +1562,7 @@ $(document).scroll(function () {
                 $("#appLinkErrorMsg").css("visibility", 'visible');
                 return false;
             }
-            var data ="&mobile=" + mobile; 
+            var data ="&mobile=" + mobile;
            var url = ' apis/receiveWeb/mindsarray/mindsarray/json?method=sendAppLink';
             $.post(url, data, "", "jsonp");
             $("#app-link").val('');
@@ -1573,10 +1573,10 @@ $(document).scroll(function () {
         function reload(){
             location.reload();
         }
-        
+
         function redirect()
         {
-            window.location.href = "https://staging.pay1.in/";   
+            window.location.href = "https://pay1.in/";
         }
 
 </script>
@@ -1595,7 +1595,7 @@ $(document).scroll(function () {
          //$('.accordion-heading i').toggleClass(' ');
          $(e.target).prev('.accordion-heading').addClass('accordion-opened');
     });
-    
+
     $(document).on('hide','.accordion', function (e) {
         $(this).find('.accordion-heading').not($(e.target)).removeClass('accordion-opened');
         //$('.accordion-heading i').toggleClass('fa-chevron-right fa-chevron-down');
@@ -1607,9 +1607,9 @@ $(document).scroll(function () {
   });
 });
 
-    $(document).ready(function(){                        
+    $(document).ready(function(){
   // Add scrollspy to <body>
-  $('body').scrollspy({target: ".banner", offset: 150});   
+  $('body').scrollspy({target: ".banner", offset: 150});
 
   // Add smooth scrolling on all links inside the navbar
   $(".myNavbar a").on('click', function(event) {
@@ -1626,7 +1626,7 @@ $(document).scroll(function () {
       $('html, body').animate({
         scrollTop: $(hash).offset().top
       }, 800, function(){
-   
+
         // Add hash (#) to URL when done scrolling (default click behavior)
         // window.location.hash = hash;
       });
