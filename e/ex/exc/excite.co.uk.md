@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excite.co.uk privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619203101id_/http%3A//info.excite.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excite.co.uk privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209232935id_/http%3A//info.excite.co.uk/privacy) for the most accurate reproduction.*
 
 # Excite UK
 
@@ -52,10 +52,11 @@ Changing contact details
 
 You can update or amend your contact details at any time from within the Excite Portal. If you have any questions about the use of your personal data or if you wish to know how you can inspect or correct other personal data we may hold please contact us at: 
 
-Pearch Digital Ltd   
-12 Merrion Square   
-Dublin, 2   
-Irland   
+Excite Portal   
+The Black Church   
+St Marys Place   
+Dublin 7   
+Ireland   
 Email: Please send your message through our feedback form 
 
 #### Changes to the Policy 
