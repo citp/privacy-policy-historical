@@ -1,6 +1,24 @@
-> *The following text is extracted and transformed from the xtremetop100.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614233837id_/http%3A//www.xtremetop100.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremetop100.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209184143id_/http%3A//www.xtremetop100.com/privacypolicy.php) for the most accurate reproduction.*
 
-# XtremeTop100.com - Free servers
+# XtremeTop100.com - Free private servers
+
+**Time till toplist reset:** 3 weeks, 1 day, 13 hours, 18 minutes from now
+
+Categories
+
+MMORPG
+
+STRATEGY
+
+RPG
+
+GENERAL
+
+FPS
+
+CONSOLES
+
+Partners
 
 **XtremeTop100.com** takes your privacy seriously, this privacy policy describes what personal information we collect and how we use it.
 
