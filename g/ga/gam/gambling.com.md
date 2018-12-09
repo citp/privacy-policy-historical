@@ -1,82 +1,60 @@
-> *The following text is extracted and transformed from the gambling.com privacy policy that was archived on 2011-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110812084214id_/http%3A//www.gambling.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gambling.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209121149id_/https%3A//www.gambling.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gambling.com
+# Privacy Policy
 
-Media Corporation plc (“Gambling.com”) is committed to protecting its users’ privacy. This Privacy Policy (the “Privacy Policy”), as set forth below, covers Gambling.com (“Gambling.com” or the “website”) and applies solely to information collected on Gambling.com. Please read this Privacy Policy to understand how we will treat personally and non-personally identifiable information we collect on Gambling.com. This Privacy Policy may change from time to time, so please check back periodically.
+##### PRIVACY & COOKIES POLICY
 
-## What personally identifiable information is collected from me?
+This website is owned and operated by GDC Trading Limited (“GDC”), a company registered in Malta with company registration number C 77661, and registered office in 85, St. John Street, Valletta VLT 1165, Malta. GDC is the data controller for the purpose of the General Data Protection Regulation, and other applicable data protection laws. This means that GDC is principally responsible for looking after your personal data and determines the means and purposes of processing of personal data. This privacy policy governs the way in which we protect and process such information. Please read it carefully. If you disagree with its contents, you should discontinue using our services. Please notice that your personal data may be held in databases, which can be accessed by other companies on behalf of GDC. All companies with such access will comply with the standards set out in this Policy.
 
-We recognise the importance of protecting the privacy of personally identifiable information collected about visitors to the Site. Except with respect to certain designated elements of the Site that require registration, you can use Gambling.com without divulging any personally identifiable information, including your email address. The Site does not collect personally identifiable information about you unless you expressly provide such information to us on a voluntary basis. For example, you may provide your personally identifiable information to subscribe to a magazine, to complete contest entry forms, to complete your registration on the Site or the various services offered on the Site, including community postings such as the Gambling.com Community, chats and bulletin boards. Except as described below, in those instances in which you “opt-in” to receive offers directly from our third party partners, such personally identifiable information will never be shared with third parties outside of Gambling.com and its affiliated companies or third party vendors acting on their behalf.
+##### PERSONAL DATA YOU PROVIDE US
 
-At any time after providing us with your personally identifiable information, you have the ability to ask that your personally identifiable information be edited or removed from our database by contacting us at the e-mail or physical address provided below under the heading “Contact Information.” We may, from time to time, give you the opportunity to receive special offers, such as newsletters, email reminders or special discounts, directly from companies with which we partner. In order to take advantage of these opportunities, you must affirmatively authorise us to share your personally identifiable information with these third party partners; we will never share such information unless you specifically “opt-in” to receive such an offer from one of our partners. Similarly, as part of certain sweepstakes entries we may also give you the opportunity to sign up to receive special offers from our advertising partners. Again, during the entry process, your information will be shared with our partners only if you take specific action to indicate that you would like us to do so.
+This website can be accessed and used without registration, and without having to provide us any personal data. You may opt in to receive information about promotions, bonuses, bets, tips and strategy by subscribing to our mailing list by providing your email address. You may any time stop receiving such communications by writing to us or clicking the “unsubscribe” button in any of our emails to you. In case you contact us, e.g., by email, through contact forms, by telephone or in writing, we may keep a copy of that correspondence or communication.
 
-You may choose to provide us with the certain personally identifiable information when using the Site or the various services offered on the Site, including:
+##### PERSONAL DATA WE COLLECT AUTOMATICALLY
 
-  * Your name 
-  * Your birth date 
-  * Your home contact information (physical address and/or phone number) 
-  * Online contact information (email address) 
-  * Your login information 
+We automatically collect certain information, including your IP address, the date and time you accessed our services, the hardware, software or internet browser you use and information about your computer’s operating system, like application versions and your language settings. We also collect information about clicks and pages viewed by you. If you are using a mobile device, we collect data that identifies your mobile device, device-specific settings and characteristics, app crashes and other system activity.
 
+##### USE OF PERSONAL DATA
 
+We collect and analyse personal data in order to improve the quality of our services, particularly in order to provide you with relevant and interesting content, and to conduct analytics and measurement to understand how our services are used. We may report aggregate information or statistical data about our users browsing actions and patterns to third parties (e.g. advertisers) in a way that does not identify any individual. We send out promotional emails relating to products and services for those visitors who have opted in to receive such communications. We will not share your personal data with third parties for marketing purposes unless you have provided us with your express consent to do so.
 
-In addition, at times, we may ask you to provide non-personally identifiable information about yourself that may be linked with your personally identifiable information you provide. Provision of this information is optional. Such information includes:
+##### LEGAL BASIS FOR DATA PROCESSING
 
-  * TV service provider 
-  * Gender 
-  * Preferences (what you like or dislike) 
-  * Survey answers (votes and ratings of TV shows) 
+We can process personal data on various legal bases outlined in the Article 6(1) of the General Data Protection Regulation. Your data may be processed where we have obtained your consent for a specific processing purpose. When processing of data is based on consent, you can at any time withdraw your consent by contacting us or clicking the ‘unsubscribe’ button in the correspondence you receive from us. We may also process personal data where the processing is necessary for the performance of a contract to which the data subject is party; where our company is subject to a legal obligation by which processing of personal data is required; and where processing is necessary for the purposes of the legitimate interests pursued by our company or by a third party except where such interests are overridden by the interests or fundamental rights and freedoms of an identified or identifiable person to whom the personal data relates.
 
+##### COOKIES INFORMATION
 
+Cookies are small pieces of data served on your computer that remember what you enter while you're browsing a website. For more information about cookies and how they work, please visit: www.aboutcookies.org. We use cookies to improve our service, and to enhance your user experience, for example, to show you the most relevant information when you return to our site. By using this website, you are consenting to us using cookies. You can manage cookie usage, disable or delete cookies, through your browser settings. The help function in your preferred browser should provide you with the correct information. Some browsers provide helpful cookie guides:
 
-What non-personally identifiable information is collected automatically?  
-We automatically collect certain non-personally identifiable information from you to optimize our web pages for your computer such as:
-
-  * Clickstream information (internet protocol (“IP”) address, internet service provider, platform type, date/time stamp) http protocol information (last URL requested and browser type)Your birth date 
-  * Interaction information (browser interaction such as when the mouse moves over an image) 
-  * Computer information (computer and browser information) 
-  * Search terms (search text) 
+  * Chrome: https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&p=cpn_cookies
+  * Firefox: http://support.mozilla.org/en-US/kb/Cookies
+  * Internet Explorer: http://support.microsoft.com/kb/278835
+  * Safari 5 for Mac: https://support.apple.com/e
+  * Opera: http://help.opera.com/Linux/10.50/en/cookies.html
 
 
 
-We will use personally identifiable information that you submit to the Site for the purposes for which you submitted it, including marketing directly to magazine subscribers. At the time you provide personally identifiable information, you have the option of instructing us not to send you our special email offers, and of affirmatively consenting to receiving email offers about our partners. At any time, you can change these choices by visiting the My Profile page on Gambling.com or contacting us at the email or physical address listed in “Contact Information” below. We retain personally identifiable information indefinitely unless you request that we remove your personally identifiable information from our database by contacting us at the addresses listed in “Contact Information” below. Magazine subscribers may receive marketing information via telephone or physical address, whether they registered for a magazine on our Site, or through other means. Magazine subscribers can request to not be contacted by contacting us at the addresses listed below.
+In addition, Google Analytics provides its own opt-out options:
 
-We may disclose personally identifiable information when required by law or when we have a good faith belief that such action is necessary to comply with a current judicial proceeding, court order, government investigation or legal process.
+  * http://tools.google.com/dlpage/gaoptout
 
-We may use non-personally identifiable information collected on the Site to enhance the Site and our product offerings, to maintain and secure the Site, and to understand the interests of Site visitors. Generally, we use non-personally identifiable information to analyze trends, administer the website, and gather information for aggregate use (IP addresses are not linked to personally identifiable information).
 
-We may also use the statistical compilation and aggregation of non-personally identifiable information and may provide such information to third parties for marketing, advertising or research purposes.
 
-We may also disclose your personally identifiable information to any third party as we, in our sole discretion, believe necessary or appropriate, in connection with a merger or consolidation with such third party or the sale of some or all of our assets, provided that such third party agrees to comply with the then-current version of this Privacy Policy.
+In the case of mobile devices, it may be necessary to consult the device’s instruction manual to manage cookies effectively. Restriction of cookies may have an impact on the functionality of the website.
 
-## How is my information kept secure?
+##### TYPES OF COOKIES
 
-We maintain commercially reasonable safeguards to ensure the security, integrity and privacy of personally identifiable information submitted to our Sites, and we periodically review and update security measures in light of current technologies.
+“First party cookies” are cookies, which are served by the entity operating the domain through which the cookie is served. That means us, GDC Trading. In case we allow others to service cookies through our websites and/or apps, these cookies are called “third party cookies”. Below is more information about most common cookies that we use, how they are used, and how long they will be stored on your computer or device.
 
-## What do I need to know about third party sites, co-branded sites, and Gambling.com’s online business partners?
+  * KAX_P - Placed by GDC Trading Limited. This is a first party cookie to give us information about how visitors discover our website (e.g., whether they clicked a Google search result, an advertisement or typed our website address on browser). This cookie is stored for 1 month.
+  * Google Analytics - Placed by Google. This third-party cookie provides us information about your use of the site, including where the site is accessed from, time of visit, pages viewed, etc. This cookie is stored for 2 years.
+  * Google AdWords - Placed by Google. This third-party cookie enables us to advertise our site using Google AdWords campaigns. This cookie is stored for 2 years.
+  * Tealium Utag - Placed by Tealium. This third-party cookie provides us information about your use of the site. This cookie is stored for 2 Years.
+  * Hotjar - Placed by Hotjar. This third-party cookie allows us to measure and observe user behaviour on our website with no connection to personal information.
+  * Outbrain – This third-party cookie allows us to tailor content based on viewer preferences. This cookie is stored for 10 Months.
+  * Cloudflare - Placed by Cloudfare. This cookie is strictly necessary for Cloudflare's security features and cannot be turned off. It does not correspond to any user ID in your web application and does not store any personally identifiable information. This cookie is stored for 12 Months.
+  * Please note that our advertisers may also use cookies on their websites, and we have no control over such use.
 
-We have established relationships that allow visitors to the Site to go directly to sites operated by third parties. Some of these sites may be co-branded with our logos; however, they are not operated or maintained by Gambling.com. We are not responsible for the content or practices of web sites operated by third parties that are linked to the Site. These links are meant for the user’s convenience only. Links to third party sites do not constitute our sponsorship, endorsement or approval of the content, policies or practices of such third party sites. Once you have left the Site via such a link, you should check the applicable privacy policy of the third party site.
 
-We may use third parties to manage sweepstakes, games, contests, chats or other features, and these parties may have access to personally identifiable information submitted by visitors who participate in those activities. To the extent third parties assist us in administering sweepstakes, games, contests, chats or other features, they are acting as our agents, and have agreed to adhere to this Privacy Policy and will not use the data for any purposes other than delivering the services required for these special features.
 
-## Does Gambling.com use Third Party Ad Servers?
-
-We use third party advertising companies and advertising networks to deliver advertisements on the Site. These companies may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these companies is subject to their own privacy policies and is not covered by this Privacy Policy. If you would like more information about this practice please visit www.networkadvertising.org.
-
-## Does Gambling.com collect personally identifiable information from children?
-
-We ask that all parents spend time with their children and monitor what sites their children are visiting. We do not knowingly collect personally identifiable information from children under the age of 13. We also suggest that no children under 18 submit personally identifiable information to any game, membership, contest or promotion that we might host without first obtaining a parent’s consent. Our Site is not intended for use by and is not directed to children.
-
-## Changes to this Privacy Policy
-
-We will occasionally update this Privacy Policy. When we do, we will also revise the “last updated” date at the bottom of the Privacy Policy. For material changes to this Privacy Policy, we will notify you by placing a prominent notice on the Site. We will not materially alter the use of your personally identifiable information without contacting you directly and seeking your affirmative consent.
-
-## Contact Information
-
-You can review and update your personally identifiable information (such as phone, e-mail or postal address) by contacting us at feedback@Gambling.com or at the physical address listed below. You may also request that we remove your personally identifiable information from our database. Magazine subscribers may visit Magazine Customer Support to update their account and subscription information.
-
-If you have any questions or comments about this Privacy Policy, please contact us at:
-
-**Gambling.com Customer Service  
-77 Queen Victoria St  
-London, EC4V 4AY**
+For all questions related to personal data, privacy and cookies please contact us at support@gambling.com
