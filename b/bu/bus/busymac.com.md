@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the busymac.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608174855id_/http%3A//www.busymac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busymac.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210003258id_/http%3A//www.busymac.com/privacy.html) for the most accurate reproduction.*
 
 # BusyMac Privacy Policy
 
-Usage of our software allows you and your organization to fulfill the regulatory requirements of GDPR. It is important to note that we do not retain or store any data you add to our software. None of this information is transferred or synced to any of our servers. Instead, all accounts / services you add to BusyCal / BusyContacts results in direct, secure communication between the app and the service in question, thus it is important to realize that service you're using our software with needs to comply with GDPR regulations.
+Usage of our software allows you and your organization to fulfill the regulatory requirements of GDPR. It is important to note that we do not retain or store any data you add to our software. None of this information is transferred or synced to any of our servers. Instead, all accounts / services you add to BusyCal / BusyContacts results in direct, secure communication between the app and the service in question, thus it is important to realize that the service you're using our software with needs to comply with GDPR regulations.
 
 ### Licensing
 
