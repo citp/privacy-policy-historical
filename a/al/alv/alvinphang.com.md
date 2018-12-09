@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alvinphang.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608061534id_/http%3A//www.gathersuccess.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alvinphang.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209205215id_/http%3A//www.gathersuccess.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure, GDPR , PDPA & Privacy Policy | GatherSuccess
 
@@ -8,7 +8,7 @@ At Buyza, we are committed to ensure the appropriate handling and protection of 
 
  **Terms and Conditions for Consent to Marketing Information and Personal Data Usage**
 
-If you wish to withdraw your consent, please email to peter@Buyza.com with your name and email address and contact number , it will take 2 to 7 workings to process with a response that you will be removed to be confirm.
+If you wish to withdraw your consent, please email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with your name and email address and contact number , it will take 2 to 7 workings to process with a response that you will be removed to be confirm.
 
 This blog is a sponsored blog created or supported by a company, organization or group of organizations. For questions about this blog, please contact Phang Alvin.  
 This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
