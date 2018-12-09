@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the exofficio.com privacy policy that was archived on 2018-02-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180218083727id_/http%3A//www.exofficio.com/customer-service/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the exofficio.com privacy policy that was archived on 2018-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181209110908id_/https%3A//www.exofficio.com/customer-service/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Privacy &amp; Security</title>
 <link href="/on/demandware.static/Sites-ExOfficio_US-Site/-/default/dw686d472b/images/favicon.ico" rel="shortcut icon">
 <meta name="description" content=" 
@@ -13,8 +13,8 @@ ExOfficio">
 ExOfficio">
 <link rel="stylesheet" href="//fast.fonts.net/cssapi/1f6143e8-cd3e-42ac-a225-738d09f67fb7.css">
 <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7995494/6226552/css/fonts.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1518868967533/css/style_theme_2.css">
-<script type="text/javascript" async="" src="https://cdn.avmws.com/1012277/"></script><script type="text/javascript">//<!--
+<link rel="stylesheet" href="/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1544270733892/css/style_theme_2.css">
+<script id="ltkSDK" src="https://cdn.listrakbi.com/scripts/script.js?m=q3EDI0UPaTBC&amp;v=1"></script><script type="text/javascript" async="" src="https://cdn.avmws.com/1012277/"></script><script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
 var dw = (window.dw || {});
 dw.ac = {
@@ -28,7 +28,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -74,18 +80,37 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
 
-<script type="text/javascript">//<!--
-/* <![CDATA[ */
-(function (l, a, h) {
-	a && l.protocol === 'http:' && (h = l.href).indexOf('.html') > 0 && h.indexOf('sc.html') < 0 && (l.href = h.substring(0, 4) + 's' + h.substring(4));
-})(window.location, window.ApplePaySession);
-/* ]]> */
-// -->
-</script>
 <style type="text/css">ISAPPLEPAY{display:inline;}.dw-apple-pay-button,.dw-apple-pay-button:hover,.dw-apple-pay-button:active{background-color:black;background-image:-webkit-named-image(apple-pay-logo-white);background-position:50% 50%;background-repeat:no-repeat;background-size:75% 60%;border-radius:5px;border:1px solid black;box-sizing:border-box;margin:5px auto;min-height:30px;min-width:100px;padding:0;}
 .dw-apple-pay-button:after{content:'Apple Pay';visibility:hidden;}.dw-apple-pay-button.dw-apple-pay-logo-white{background-color:white;border-color:white;background-image:-webkit-named-image(apple-pay-logo-black);color:black;}.dw-apple-pay-button.dw-apple-pay-logo-white.dw-apple-pay-border{border-color:black;}</style>
 <meta name="google-site-verification" content="5X1XFCj1Gr6yLlfGX1qVz2c07JM7KS7GbpuFEB9diTI">
@@ -136,9 +161,9 @@ window.location.reload();
 <ul>
 
 <li><a class="js_open_livechat" href="#">Live Chat</a></li>
-<li><a href="http://www.exofficio.com/contactus">Contact Us</a></li>
-<li><a href="http://www.exofficio.com/customer-service/returns-and-exchanges.html">Returns &amp; Exchanges</a></li>
-<li><a href="http://www.exofficio.com/customer-service/shipping-and-handling.html">Shipping &amp; Handling</a></li>
+<li><a href="https://www.exofficio.com/contactus">Contact Us</a></li>
+<li><a href="https://www.exofficio.com/customer-service/returns-and-exchanges.html">Returns &amp; Exchanges</a></li>
+<li><a href="https://www.exofficio.com/customer-service/shipping-and-handling.html">Shipping &amp; Handling</a></li>
 </ul>
 
 </div>
@@ -176,22 +201,21 @@ color:black;
 <div class="box float-left">
 <h3>Our Story</h3>
 <p>Since 1987, we have celebrated the traveler by crafting garments that allow you to experience the world unhindered. We create intelligently designed products with surprisingly tangible benefits that focus on one goal – Comfortable Performance.</p>
-<a class="arrow-right-link" href="http://www.exofficio.com/about/about.html">ABOUT US</a>
+<a class="arrow-right-link" href="https://www.exofficio.com/about/about.html">ABOUT US</a>
 </div>
 <div class="box float-right">
-<h3>Magic of Travel</h3>
-<p>We believe that the magic of travel, whether you seek different cultures, epic scenery, or the thrill of the unknown, is a chance to create perspective and vitality by opening your mind to the wonders of the world.</p>
-<a class="arrow-right-link" href="http://www.exofficio.com/articles">READ MAGIC OF TRAVEL</a>
+<h3>Philanthropy</h3>
+<p>We believe that it’s all about the journey and the destination. We hope that everyone can interact with the world in such a way as to improve it and themselves and gain rich and unique experiences.</p>
+<a class="arrow-right-link" href="https://www.exofficio.com/about/philanthropy.html">PHILANTHROPIC EFFORTS</a>
 </div>
 </div>
 <div class="right-col float-right">
 <div class="box">
-<h3><a href="http://www.exofficio.com/technology-articles/technology.html">Technology</a></h3>
+<h3><a href="https://www.exofficio.com/technology-articles/technology.html">Technology</a></h3>
 <ul>
-<li><a href="http://www.exofficio.com/exofficio-technologies/technology-bugsaway.html">Bug Protection</a></li>
-<li><a href="http://www.exofficio.com/exofficio-technologies/technology-sun-protection.html">Sun Protection</a></li>
-<li><a href="http://www.exofficio.com/exofficio-technologies/technology-sol-cool.html">Sol Cool Cooling Tech</a></li>
-<li><a href="http://www.exofficio.com/exofficio-technologies/technology-pocket-systems.html">Travel Pocket System</a></li>
+<li><a href="https://www.exofficio.com/exofficio-technologies/technology-bugsaway.html">Bug Protection</a></li>
+<li><a href="https://www.exofficio.com/exofficio-technologies/technology-sun-protection.html">Sun Protection</a></li>
+<li><a href="https://www.exofficio.com/exofficio-technologies/technology-sol-cool.html">Sol Cool Cooling Tech</a></li>
 </ul>
 </div>
 </div>
@@ -200,7 +224,7 @@ color:black;
 </li>
 
 <li>
-<a href="http://www.exofficio.com/stores" title="Locate Stores">
+<a href="https://www.exofficio.com/stores" title="Locate Stores">
 <span>Find Stores</span>
 </a>
 </li>
@@ -232,7 +256,7 @@ color:black;
 </header>
 <ul class="menu-category level-1">
 <li class="category-item">
-<a class="category-link-level-1 has-sub-menu" href="http://www.exofficio.com/mens/">
+<a class="category-link-level-1 has-sub-menu" href="https://www.exofficio.com/mens/">
 <span>Men</span>
 </a>
 <ul class="menu-dropdown level-2">
@@ -240,21 +264,21 @@ color:black;
 <a class="navigation-back">Men</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/mens/">All</a>
+<a href="https://www.exofficio.com/mens/">All</a>
 </li>
 <li class="category-new-items">
 <ul class="level-3">
-<li><a href="http://www.exofficio.com/mens/">all mens</a></li>
-<li><a href="http://www.exofficio.com/mens-new-arrivals/">New Arrivals</a></li>
-<li><a href="http://www.exofficio.com/mens/?srule=top-rated">top sellers</a></li>
-<li><a href="http://www.exofficio.com/egift-card/001EX.html">gift cards</a></li>
-<li><a href="http://www.exofficio.com/sale-mens/">sale</a></li>
+<li><a href="https://www.exofficio.com/mens/">all mens</a></li>
+<li><a href="https://www.exofficio.com/men/best-sellers/">best sellers</a></li>
+<li><a href="https://www.exofficio.com/mens-new-arrivals/">New Arrivals</a></li>
+<li><a href="https://www.exofficio.com/egift-card/001EX.html">gift cards</a></li>
+<li><a href="https://www.exofficio.com/sale-mens/">sale</a></li>
 </ul>
 </li>
 <li class="subcategories-list has-multiple-items">
 <ul>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/mens-underwear/">
+<a class="has-sub-menu" href="https://www.exofficio.com/mens-underwear/">
 Underwear
 </a>
 <ul class="level-3">
@@ -262,27 +286,27 @@ Underwear
 <a class="navigation-back">Underwear</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/mens-underwear/">All</a>
+<a href="https://www.exofficio.com/mens-underwear/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-underwear-classic/">
+<a href="https://www.exofficio.com/mens-underwear-classic/">
 Classic
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-underwear-solcool/">
+<a href="https://www.exofficio.com/mens-underwear-solcool/">
 Sol Cool
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-underwear-sportmesh/">
+<a href="https://www.exofficio.com/mens-underwear-sportmesh/">
 Sport Mesh
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/mens-tops/">
+<a class="has-sub-menu" href="https://www.exofficio.com/mens-tops/">
 Tops
 </a>
 <ul class="level-3">
@@ -290,32 +314,32 @@ Tops
 <a class="navigation-back">Tops</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/mens-tops/">All</a>
+<a href="https://www.exofficio.com/mens-tops/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-tops-shortsleeve/">
+<a href="https://www.exofficio.com/mens-tops-shortsleeve/">
 Short Sleeve
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-tops-longsleeve/">
+<a href="https://www.exofficio.com/mens-tops-longsleeve/">
 Long Sleeve
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-tops-sweaters-and-midlayers/">
+<a href="https://www.exofficio.com/mens-tops-sweaters-and-midlayers/">
 Sweaters and Midlayers
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-tops-jackets-and-vests/">
+<a href="https://www.exofficio.com/mens-tops-jackets-and-vests/">
 Jackets and Vests
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/mens-pants-and-shorts/">
+<a class="has-sub-menu" href="https://www.exofficio.com/mens-pants-and-shorts/">
 Pants and Shorts
 </a>
 <ul class="level-3">
@@ -323,27 +347,27 @@ Pants and Shorts
 <a class="navigation-back">Pants and Shorts</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/mens-pants-and-shorts/">All</a>
+<a href="https://www.exofficio.com/mens-pants-and-shorts/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-pants-and-shorts-shorts/">
+<a href="https://www.exofficio.com/mens-pants-and-shorts-shorts/">
 Shorts
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-pants-and-shorts-pants/">
+<a href="https://www.exofficio.com/mens-pants-and-shorts-pants/">
 Pants
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-pants-and-shorts-convertible/">
+<a href="https://www.exofficio.com/mens-pants-and-shorts-convertible/">
 Convertible
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/mens-accessories/">
+<a class="has-sub-menu" href="https://www.exofficio.com/mens-accessories/">
 Accessories
 </a>
 <ul class="level-3">
@@ -351,32 +375,32 @@ Accessories
 <a class="navigation-back">Accessories</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/mens-accessories/">All</a>
+<a href="https://www.exofficio.com/mens-accessories/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-accessories-bugsaway/">
+<a href="https://www.exofficio.com/mens-accessories-bugsaway/">
 Bugsaway
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-accessories-hats/">
+<a href="https://www.exofficio.com/mens-accessories-hats/">
 Hats
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-accessories-socks/">
+<a href="https://www.exofficio.com/mens-accessories-socks/">
 Socks
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-accessories-other/">
+<a href="https://www.exofficio.com/mens-accessories-other/">
 Other
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/mens-bugsaway/">
+<a class="has-sub-menu" href="https://www.exofficio.com/mens-bugsaway/">
 Bugsaway
 </a>
 <ul class="level-3">
@@ -384,27 +408,27 @@ Bugsaway
 <a class="navigation-back">Bugsaway</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/mens-bugsaway/">All</a>
+<a href="https://www.exofficio.com/mens-bugsaway/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-bugsaway-shirts/">
+<a href="https://www.exofficio.com/mens-bugsaway-shirts/">
 Shirts
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-bugsaway-pants/">
+<a href="https://www.exofficio.com/mens-bugsaway-pants/">
 Pants
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-bugsaway-accessories/">
+<a href="https://www.exofficio.com/mens-bugsaway-accessories/">
 Accessories
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/mens-sol-cool/">
+<a class="has-sub-menu" href="https://www.exofficio.com/mens-sol-cool/">
 Sol Cool
 </a>
 <ul class="level-3">
@@ -412,32 +436,32 @@ Sol Cool
 <a class="navigation-back">Sol Cool</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/mens-sol-cool/">All</a>
+<a href="https://www.exofficio.com/mens-sol-cool/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-sol-cool-shirts/">
+<a href="https://www.exofficio.com/mens-sol-cool-shirts/">
 Shirts
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-sol-cool-pants/">
+<a href="https://www.exofficio.com/mens-sol-cool-pants/">
 Pants
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-sol-cool-underwear/">
+<a href="https://www.exofficio.com/mens-sol-cool-underwear/">
 Underwear
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/mens-sol-cool-accessories/">
+<a href="https://www.exofficio.com/mens-sol-cool-accessories/">
 Accessories
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/mens-sun-protection/">
+<a class="has-sub-menu" href="https://www.exofficio.com/mens-sun-protection/">
 Sun Protection
 </a>
 <ul class="level-3">
@@ -445,20 +469,20 @@ Sun Protection
 <a class="navigation-back">Sun Protection</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/mens-sun-protection/">All</a>
+<a href="https://www.exofficio.com/mens-sun-protection/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/men/sun-protection/tops/">
+<a href="https://www.exofficio.com/men/sun-protection/tops/">
 Tops
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/men/sun-protection/pants-and-shorts/">
+<a href="https://www.exofficio.com/men/sun-protection/pants-and-shorts/">
 Pants and Shorts
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/men/sun-protection/accessories/">
+<a href="https://www.exofficio.com/men/sun-protection/accessories/">
 Accessories
 </a>
 </li>
@@ -469,7 +493,7 @@ Accessories
 </ul>
 </li>
 <li class="category-item">
-<a class="category-link-level-1 has-sub-menu" href="http://www.exofficio.com/womens/">
+<a class="category-link-level-1 has-sub-menu" href="https://www.exofficio.com/womens/">
 <span>Women</span>
 </a>
 <ul class="menu-dropdown level-2">
@@ -477,21 +501,21 @@ Accessories
 <a class="navigation-back">Women</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/womens/">All</a>
+<a href="https://www.exofficio.com/womens/">All</a>
 </li>
 <li class="category-new-items">
 <ul class="level-3">
-<li><a href="http://www.exofficio.com/womens/">all womens</a></li>
-<li><a href="http://www.exofficio.com/womens-new-arrivals/">New Arrivals</a></li>
-<li><a href="http://www.exofficio.com/womens/?srule=top-rated">top sellers</a></li>
-<li><a href="http://www.exofficio.com/egift-card/001EX.html">gift cards</a></li>
-<li><a href="http://www.exofficio.com/sale-womens/">sale</a></li>
+<li><a href="https://www.exofficio.com/womens/">all womens</a></li>
+ <li><a href="https://www.exofficio.com/women/best-sellers/">best sellers</a></li>
+<li><a href="https://www.exofficio.com/womens-new-arrivals/">New Arrivals</a></li>
+<li><a href="https://www.exofficio.com/egift-card/001EX.html">gift cards</a></li>
+<li><a href="https://www.exofficio.com/sale-womens/">sale</a></li>
 </ul>
 </li>
 <li class="subcategories-list has-multiple-items">
 <ul>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/womens-underwear/">
+<a class="has-sub-menu" href="https://www.exofficio.com/womens-underwear/">
 Underwear
 </a>
 <ul class="level-3">
@@ -499,27 +523,27 @@ Underwear
 <a class="navigation-back">Underwear</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/womens-underwear/">All</a>
+<a href="https://www.exofficio.com/womens-underwear/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-underwear-classic/">
+<a href="https://www.exofficio.com/womens-underwear-classic/">
 Classic
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-underwear-sportmesh/">
+<a href="https://www.exofficio.com/womens-underwear-sportmesh/">
 Sport Mesh
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-underwear-moderntravel/">
+<a href="https://www.exofficio.com/womens-underwear-moderntravel/">
 Modern Travel
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/womens-tops/">
+<a class="has-sub-menu" href="https://www.exofficio.com/womens-tops/">
 Tops
 </a>
 <ul class="level-3">
@@ -527,32 +551,37 @@ Tops
 <a class="navigation-back">Tops</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/womens-tops/">All</a>
+<a href="https://www.exofficio.com/womens-tops/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-tops-tanks/">
+<a href="https://www.exofficio.com/womens-tops-tanks/">
 Tanks
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-tops-longsleeve/">
+<a href="https://www.exofficio.com/womens-tops-shortsleeve/">
+Short Sleeve
+</a>
+</li>
+<li>
+<a href="https://www.exofficio.com/womens-tops-longsleeve/">
 Long Sleeve
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-tops-sweaters-and-midlayers/">
+<a href="https://www.exofficio.com/womens-tops-sweaters-and-midlayers/">
 Sweaters and Midlayers
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-tops-jackets-and-vests/">
+<a href="https://www.exofficio.com/womens-tops-jackets-and-vests/">
 Jackets and Vests
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/womens-bottoms/">
+<a class="has-sub-menu" href="https://www.exofficio.com/womens-bottoms/">
 Bottoms
 </a>
 <ul class="level-3">
@@ -560,55 +589,27 @@ Bottoms
 <a class="navigation-back">Bottoms</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/womens-bottoms/">All</a>
+<a href="https://www.exofficio.com/womens-bottoms/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-bottoms-shorts/">
+<a href="https://www.exofficio.com/womens-bottoms-shorts/">
 Shorts
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-bottoms-skirts/">
+<a href="https://www.exofficio.com/womens-bottoms-skirts/">
 Skirts
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-bottoms-pants/">
+<a href="https://www.exofficio.com/womens-bottoms-pants/">
 Pants
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/womens-dresses-and-skirts/">
-Dresses and Skirts
-</a>
-<ul class="level-3">
-<li>
-<a class="navigation-back">Dresses and Skirts</a>
-</li>
-<li class="hide-for-large">
-<a href="http://www.exofficio.com/womens-dresses-and-skirts/">All</a>
-</li>
-<li>
-<a href="http://www.exofficio.com/womens-dresses-and-skirts-dresses/">
-Dresses
-</a>
-</li>
-<li>
-<a href="http://www.exofficio.com/womens-dresses-and-skirts-skirts/">
-Skirts
-</a>
-</li>
-<li>
-<a href="http://www.exofficio.com/womens-dresses-and-skirts-convertible-reversible/">
-Convertible and Reversible
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a class="has-sub-menu" href="http://www.exofficio.com/womens-accessories/">
+<a class="has-sub-menu" href="https://www.exofficio.com/womens-accessories/">
 Accessories
 </a>
 <ul class="level-3">
@@ -616,32 +617,32 @@ Accessories
 <a class="navigation-back">Accessories</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/womens-accessories/">All</a>
+<a href="https://www.exofficio.com/womens-accessories/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-accessories-bugsaway/">
+<a href="https://www.exofficio.com/womens-accessories-bugsaway/">
 Bugsaway
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-accessories-hats/">
+<a href="https://www.exofficio.com/womens-accessories-hats/">
 Hats
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-accessories-socks/">
+<a href="https://www.exofficio.com/womens-accessories-socks/">
 Socks
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-accessories-other/">
+<a href="https://www.exofficio.com/womens-accessories-other/">
 Other
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/womens-bugsaway/">
+<a class="has-sub-menu" href="https://www.exofficio.com/womens-bugsaway/">
 Bugsaway
 </a>
 <ul class="level-3">
@@ -649,27 +650,27 @@ Bugsaway
 <a class="navigation-back">Bugsaway</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/womens-bugsaway/">All</a>
+<a href="https://www.exofficio.com/womens-bugsaway/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-bugsaway-shirts/">
+<a href="https://www.exofficio.com/womens-bugsaway-shirts/">
 Shirts
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-bugsaway-pants/">
+<a href="https://www.exofficio.com/womens-bugsaway-pants/">
 Pants
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-bugsaway-accessories/">
+<a href="https://www.exofficio.com/womens-bugsaway-accessories/">
 Accessories
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/womens-sol-cool/">
+<a class="has-sub-menu" href="https://www.exofficio.com/womens-sol-cool/">
 Sol Cool
 </a>
 <ul class="level-3">
@@ -677,27 +678,27 @@ Sol Cool
 <a class="navigation-back">Sol Cool</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/womens-sol-cool/">All</a>
+<a href="https://www.exofficio.com/womens-sol-cool/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-sol-cool-tops/">
+<a href="https://www.exofficio.com/womens-sol-cool-tops/">
 Tops
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-sol-cool-bottoms/">
+<a href="https://www.exofficio.com/womens-sol-cool-bottoms/">
 Bottoms
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/womens-sol-cool-accessories/">
+<a href="https://www.exofficio.com/womens-sol-cool-accessories/">
 Accessories
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/women/sun-protection/">
+<a class="has-sub-menu" href="https://www.exofficio.com/women/sun-protection/">
 Sun Protection
 </a>
 <ul class="level-3">
@@ -705,25 +706,25 @@ Sun Protection
 <a class="navigation-back">Sun Protection</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/women/sun-protection/">All</a>
+<a href="https://www.exofficio.com/women/sun-protection/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/women/sun-protection/tops/">
+<a href="https://www.exofficio.com/women/sun-protection/tops/">
 Tops
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/women/sun-protection/dresses-and-skirts/">
+<a href="https://www.exofficio.com/women/sun-protection/dresses-and-skirts/">
 Dresses &amp; Skirts
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/women/sun-protection/pants-and-shorts/">
+<a href="https://www.exofficio.com/women/sun-protection/pants-and-shorts/">
 Pants &amp; Shorts
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/women/sun-protection/accessories/">
+<a href="https://www.exofficio.com/women/sun-protection/accessories/">
 Accessories
 </a>
 </li>
@@ -734,7 +735,7 @@ Accessories
 </ul>
 </li>
 <li class="category-item">
-<a class="category-link-level-1 has-sub-menu" href="http://www.exofficio.com/underwear/">
+<a class="category-link-level-1 has-sub-menu" href="https://www.exofficio.com/underwear/">
 <span>Underwear</span>
 </a>
 <ul class="menu-dropdown level-2">
@@ -742,12 +743,12 @@ Accessories
 <a class="navigation-back">Underwear</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/underwear/">All</a>
+<a href="https://www.exofficio.com/underwear/">All</a>
 </li>
 <li class="subcategories-list ">
 <ul>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/underwear-mens-collection/">
+<a class="has-sub-menu" href="https://www.exofficio.com/underwear-mens-collection/">
 Men's Collection
 </a>
 <ul class="level-3">
@@ -755,27 +756,27 @@ Men's Collection
 <a class="navigation-back">Men's Collection</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/underwear-mens-collection/">All</a>
+<a href="https://www.exofficio.com/underwear-mens-collection/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-mens-collection-classic/">
+<a href="https://www.exofficio.com/underwear-mens-collection-classic/">
 Classic
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-mens-collection-solcool/">
+<a href="https://www.exofficio.com/underwear-mens-collection-solcool/">
 Sol Cool
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-mens-collection-sportmesh/">
+<a href="https://www.exofficio.com/underwear-mens-collection-sportmesh/">
 Sport Mesh
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/underwear-mens-silhouette/">
+<a class="has-sub-menu" href="https://www.exofficio.com/underwear-mens-silhouette/">
 Men's by Silhouette
 </a>
 <ul class="level-3">
@@ -783,32 +784,32 @@ Men's by Silhouette
 <a class="navigation-back">Men's by Silhouette</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/underwear-mens-silhouette/">All</a>
+<a href="https://www.exofficio.com/underwear-mens-silhouette/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-mens-silhouette-boxerbrief/">
+<a href="https://www.exofficio.com/underwear-mens-silhouette-boxerbrief/">
 Boxer Brief
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-mens-silhouette-boxer/">
+<a href="https://www.exofficio.com/underwear-mens-silhouette-boxer/">
 Boxer
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-mens-silhouette-brief/">
+<a href="https://www.exofficio.com/underwear-mens-silhouette-brief/">
 Brief
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-mens-silhouette-teeshirt/">
+<a href="https://www.exofficio.com/underwear-mens-silhouette-teeshirt/">
 Tee Shirt
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/underwear-womens-collection/">
+<a class="has-sub-menu" href="https://www.exofficio.com/underwear-womens-collection/">
 Women's Collection
 </a>
 <ul class="level-3">
@@ -816,27 +817,27 @@ Women's Collection
 <a class="navigation-back">Women's Collection</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/underwear-womens-collection/">All</a>
+<a href="https://www.exofficio.com/underwear-womens-collection/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-womens-collection-classic/">
+<a href="https://www.exofficio.com/underwear-womens-collection-classic/">
 Classic
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-womens-collection-sportmesh/">
+<a href="https://www.exofficio.com/underwear-womens-collection-sportmesh/">
 Sport Mesh
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-womens-collection-moderntravel/">
+<a href="https://www.exofficio.com/underwear-womens-collection-moderntravel/">
 Modern Travel
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/underwear-womens-silhouette/">
+<a class="has-sub-menu" href="https://www.exofficio.com/underwear-womens-silhouette/">
 Women's by Silhouette
 </a>
 <ul class="level-3">
@@ -844,35 +845,35 @@ Women's by Silhouette
 <a class="navigation-back">Women's by Silhouette</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/underwear-womens-silhouette/">All</a>
+<a href="https://www.exofficio.com/underwear-womens-silhouette/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-womens-silhouette-bikinibrief/">
+<a href="https://www.exofficio.com/underwear-womens-silhouette-bikinibrief/">
 Bikini Brief
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-womens-silhouette-fullcutbrief/">
+<a href="https://www.exofficio.com/underwear-womens-silhouette-fullcutbrief/">
 Full Cut Brief
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-womens-silhouette-boyshorts/">
-Boy Shorts
+<a href="https://www.exofficio.com/underwear-womens-silhouette-boyshorts/">
+Hipkinis
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-womens-silhouette-thong/">
+<a href="https://www.exofficio.com/underwear-womens-silhouette-thong/">
 Thong
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-womens-silhouette-bras-and-bralettes/">
+<a href="https://www.exofficio.com/underwear-womens-silhouette-bras-and-bralettes/">
 Bras and Bralettes
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/underwear-womens-silhouette-tops/">
+<a href="https://www.exofficio.com/underwear-womens-silhouette-tops/">
 Tops
 </a>
 </li>
@@ -883,7 +884,7 @@ Tops
 </ul>
 </li>
 <li class="category-item">
-<a class="category-link-level-1 has-sub-menu" href="http://www.exofficio.com/sale/">
+<a class="category-link-level-1 has-sub-menu" href="https://www.exofficio.com/sale/">
 <span>Sale</span>
 </a>
 <ul class="menu-dropdown level-2">
@@ -891,19 +892,19 @@ Tops
 <a class="navigation-back">Sale</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/sale/">All</a>
+<a href="https://www.exofficio.com/sale/">All</a>
 </li>
 <li class="category-new-items">
 <ul class="level-3">
-<li><a href="http://www.exofficio.com/sale/">all sale</a></li>
-<li><a href="http://www.exofficio.com/sale-mens-new-in/">New In Sale Men's</a></li>
-<li><a href="http://www.exofficio.com/sale-womens-new-in/">New In Sale Women's</a></li>
+<li><a href="https://www.exofficio.com/sale/">all sale</a></li>
+<li><a href="https://www.exofficio.com/sale-mens-new-in/">New In Sale Men's</a></li>
+<li><a href="https://www.exofficio.com/sale-womens-new-in/">New In Sale Women's</a></li>
 </ul>
 </li>
 <li class="subcategories-list ">
 <ul>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/sale-mens/">
+<a class="has-sub-menu" href="https://www.exofficio.com/sale-mens/">
 Men's
 </a>
 <ul class="level-3">
@@ -911,47 +912,47 @@ Men's
 <a class="navigation-back">Men's</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/sale-mens/">All</a>
+<a href="https://www.exofficio.com/sale-mens/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/sale-mens-underwear/">
+<a href="https://www.exofficio.com/sale-mens-underwear/">
 Underwear
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/sale-mens-shirts/">
+<a href="https://www.exofficio.com/sale-mens-shirts/">
 Shirts
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/sale-mens-sweaters-and-midlayers/">
+<a href="https://www.exofficio.com/sale-mens-sweaters-and-midlayers/">
 Sweaters and Midlayers
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/sale-mens-jackets-and-vests/">
+<a href="https://www.exofficio.com/sale-mens-jackets-and-vests/">
 Jackets and Vests
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/sale-mens-pants-and-shorts/">
+<a href="https://www.exofficio.com/sale-mens-pants-and-shorts/">
 Pants and Shorts
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/sale-mens-accessories/">
+<a href="https://www.exofficio.com/sale-mens-accessories/">
 Accessories
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/sale-mens-bugswaway/">
+<a href="https://www.exofficio.com/sale-mens-bugswaway/">
 Bugsaway
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.exofficio.com/sale-womens/">
+<a class="has-sub-menu" href="https://www.exofficio.com/sale-womens/">
 Women's
 </a>
 <ul class="level-3">
@@ -959,44 +960,122 @@ Women's
 <a class="navigation-back">Women's</a>
 </li>
 <li class="hide-for-large">
-<a href="http://www.exofficio.com/sale-womens/">All</a>
+<a href="https://www.exofficio.com/sale-womens/">All</a>
 </li>
 <li>
-<a href="http://www.exofficio.com/sale-womens-underwear/">
+<a href="https://www.exofficio.com/sale-womens-underwear/">
 Underwear
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/sale-womens-tops/">
+<a href="https://www.exofficio.com/sale-womens-tops/">
 Tops
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/sale-womens-sweaters-and-midlayers/">
+<a href="https://www.exofficio.com/sale-womens-sweaters-and-midlayers/">
 Sweaters and Midlayers
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/sale-womens-jackets-and-vests/">
+<a href="https://www.exofficio.com/sale-womens-jackets-and-vests/">
 Jackets and Vests
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/sale-womens-pants-and-shorts/">
+<a href="https://www.exofficio.com/sale-womens-pants-and-shorts/">
 Pants and Shorts
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/sale-womens-dresses-and-skirts/">
+<a href="https://www.exofficio.com/sale-womens-dresses-and-skirts/">
 Dresses and Skirts
 </a>
 </li>
 <li>
-<a href="http://www.exofficio.com/sale-womens-accessories/">
+<a href="https://www.exofficio.com/sale-womens-accessories/">
 Accessories
 </a>
 </li>
 </ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="category-item">
+<a class="category-link-level-1 has-sub-menu" href="https://www.exofficio.com/gift-guide/">
+<span>Gift Guide</span>
+</a>
+<ul class="menu-dropdown level-2">
+<li>
+<a class="navigation-back">Gift Guide</a>
+</li>
+<li class="hide-for-large">
+<a href="https://www.exofficio.com/gift-guide/">All</a>
+</li>
+<li class="subcategories-list ">
+<ul>
+<li>
+<a class="has-sub-menu" href="https://www.exofficio.com/gifts-for-him/">
+For Him
+</a>
+<ul class="level-3">
+<li>
+<a class="navigation-back">For Him</a>
+</li>
+<li class="hide-for-large">
+<a href="https://www.exofficio.com/gifts-for-him/">All</a>
+</li>
+<li>
+<a href="https://www.exofficio.com/gifts-for-him-globetrotter/">
+Gifts for the Jetsetter
+</a>
+</li>
+<li>
+<a href="https://www.exofficio.com/gifts-for-the-him-hiker/">
+Gifts for the Hiker
+</a>
+</li>
+<li>
+<a href="https://www.exofficio.com/gifts-for-him-angler/">
+Gifts for the Angler
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has-sub-menu" href="https://www.exofficio.com/gifts-for-her/">
+For Her
+</a>
+<ul class="level-3">
+<li>
+<a class="navigation-back">For Her</a>
+</li>
+<li class="hide-for-large">
+<a href="https://www.exofficio.com/gifts-for-her/">All</a>
+</li>
+<li>
+<a href="https://www.exofficio.com/gifts-for-her-globetrotter/">
+Gifts for the Jetsetter
+</a>
+</li>
+<li>
+<a href="https://www.exofficio.com/gifts-for-her-hiker/">
+Gifts for the Hiker
+</a>
+</li>
+<li>
+<a href="https://www.exofficio.com/gifts-for-her-angler/">
+Gifts for the Angler
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="" href="https://www.exofficio.com/gift-guide/gift-cards/">
+GIFT CARDS
+</a>
 </li>
 </ul>
 </li>
@@ -1102,10 +1181,10 @@ color:black;
 <h3 class="toggle chevron-icon toggle-for-small-only hide-for-medium">Select a Help topic</h3>
 <ul class="toggle-content grid-container">
 <li><a href="https://www.exofficio.com/orders" title="Order Status">Order Status</a></li>
-<li><a href="http://www.exofficio.com/customer-service/shipping-and-handling.html" title="Shipping &amp; Handling">Shipping &amp; Handling</a></li>
-<li><a href="http://www.exofficio.com/return-policy.html" title="Return Policy<">Return Policy</a></li>
-<li><a href="http://www.exofficio.com/customer-service/sales-tax.html" title="Sales Tax">Sales Tax</a></li>
-<li><a href="http://www.exofficio.com/customer-service/faq.html" title="Frequently Asked Questions">FAQ's</a></li>
+<li><a href="https://www.exofficio.com/customer-service/shipping-and-handling.html" title="Shipping &amp; Handling">Shipping &amp; Handling</a></li>
+<li><a href="https://www.exofficio.com/return-policy.html" title="Return Policy<">Return Policy</a></li>
+<li><a href="https://www.exofficio.com/customer-service/sales-tax.html" title="Sales Tax">Sales Tax</a></li>
+<li><a href="https://www.exofficio.com/customer-service/faq.html" title="Frequently Asked Questions">FAQ's</a></li>
 </ul>
 </div>
 
@@ -1121,7 +1200,8 @@ color:black;
 <div class="need-help-content">
 
 <h2>Talk to our experts</h2>
-<p>Mon-Fri 7AM - 5PM Pacific</p>
+<p>Phone: Mon-Fri 7:30AM - 5PM Pacific</p>
+<p> Live Chat: Mon-Fri 9AM - 2PM Pacific </p>
 <a href="tel:+18006447303" class="primary-button button-icon">
 <svg class="svg-icon svg-icon-phone" viewBox="0 0 14.131835 24" width="14.132" height="24"><defs id="defs3"><style id="style5">.cls-1{fill:none;isolation:isolate}</style></defs><title id="title7">call</title><path d="M0 0v24h14.132V0zm7.095 22.898a1.36 1.36 0 1 1 1.36-1.36 1.36 1.36 0 0 1-1.36 1.36zm5.767-3.817H1.27V3.213h11.593z" id="path9"></path></svg>
 <span>CALL 800 644 7303</span>
@@ -1201,25 +1281,25 @@ BACK TO TOP
 </div> 
 </div>
 <div class="social-email">
-<form method="POST" action="/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Newsletter-SubscribeForm" name="dwfrm_newsletter" class="newsletter-signup">
+<form method="POST" action="https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Page-Show" name="null" class="newsletter-signup listrak-signup-form">
 <fieldset>
 <label for="email-alert-address"><span class="visually-hidden">Enter Your Email</span></label>
-<div class="form-row form-row-dwfrm_newsletter_email required">
-<label for="dwfrm_newsletter_email"><span></span><span class="required-indicator">*</span></label>
-<input class=" input-text  required" type="email" id="dwfrm_newsletter_email" name="dwfrm_newsletter_email" value="" placeholder="Enter your email address">
+<div class="form-row listrak-email-field form-row-dwfrm_newslettersubscription_email required">
+<label for="dwfrm_newslettersubscription_email"><span></span><span class="required-indicator">*</span></label>
+<input class=" input-text  required" type="email" id="dwfrm_newslettersubscription_email" name="dwfrm_newslettersubscription_email" value="" placeholder="Enter your email address">
 </div>
-<input name="dwfrm_newsletter_source" type="hidden" value="footer">
-<button type="submit" name="dwfrm_newsletter_subscribe" value="Submit" class="submit-btn">
+<input name="dwfrm_newslettersubscription_source" type="hidden" value="footer">
+<input type="hidden" name="ltkSubscriptionCode" value="nb_exofficio_us_footer">
+<button type="submit" name="dwfrm_newslettersubscription_subscribe" value="Submit" class="submit-btn">
 <span class="primary-button">Sign Up</span>
 <svg aria-hidden="true" class="svg-icon svg-icon-arrow-right" width="15" height="15" viewBox="0 0 611.987 611.987"><path d="M604.652 287.018c-.532-.532-1.225-.692-1.757-1.171L417.717 100.668c-10.329-10.329-27.074-10.329-37.377 0-10.328 10.329-10.328 27.074 0 37.376l141.334 141.333H26.622C11.926 279.377 0 291.304 0 306c0 14.694 11.926 26.621 26.622 26.621h495.052L380.341 473.954c-10.329 10.329-10.329 27.074 0 37.376 10.329 10.303 27.073 10.329 37.376 0l185.232-185.258c.532-.453 1.197-.612 1.703-1.092.825-.825.825-1.97 1.518-2.875 2.263-2.796 3.86-5.856 4.818-9.158.346-1.277.586-2.396.719-3.7 1.092-7.907-.958-16.16-7.055-22.229z"></path></svg>
 </button>
 </fieldset>
 </form>
-<div class="continue-shopping">Continue Shopping</div>
 </div>
 <div class="footer-find-store">
 <div class="find-store">
-<a href="http://www.exofficio.com/stores" title="Find ExOfficio near you">
+<a href="https://www.exofficio.com/stores" title="Find ExOfficio near you">
 <svg aria-hidden="true" class="svg-icon svg-icon-pin" viewBox="0 0 23 31.5" width="23" height="31.5"><path d="M11.5 0C5.15 0 0 5.15 0 11.5s11.5 20 11.5 20S23 17.85 23 11.5 17.85 0 11.5 0zm0 17.125A5.633 5.633 0 0 1 5.875 11.5c0-3.1 2.525-5.625 5.625-5.625S17.125 8.4 17.125 11.5 14.6 17.125 11.5 17.125z"></path></svg>
 Find ExOfficio near you
 </a>
@@ -1241,8 +1321,8 @@ Find ExOfficio near you
 
 
 <ul class="menu-footer">
-<li><a href="http://www.exofficio.com/customer-service/terms-and-conditions.html" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-<li><a href="http://www.exofficio.com/customer-service/privacy.html" title="Privacy Policy">Privacy Policy</a></li>
+<li><a href="https://www.exofficio.com/customer-service/terms-and-conditions.html" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+<li><a href="https://www.exofficio.com/customer-service/privacy.html" title="Privacy Policy">Privacy Policy</a></li>
 <li><a href="http://www.newellbrands.com/OurCompany/DoBusinessWithUs/ForOurSuppliers/Pages/BusinessEthics-NewellBrands.aspx#CTSCA">California Transparency Act</a></li>
 </ul>
 
@@ -1257,16 +1337,17 @@ Find ExOfficio near you
 <div class="accordion-item">
 <h3 class="accordion-title toggle chevron-icon toggle-for-small-only">CUSTOMER SERVICE</h3>
 <ul class="accordion-content toggle-content">
-<li><a href="http://www.exofficio.com/contactus" title="Contact Us">Contact Us</a></li>
-<li><a href="http://www.exofficio.com/customer-service/privacy.html" title="Privacy &amp; Security">Privacy &amp; Security</a></li>
-<li><a href="http://www.exofficio.com/customer-service/terms-and-conditions.html" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+<li><a href="https://www.exofficio.com/contactus" title="Contact Us">Contact Us</a></li>
+<li><a href="https://www.exofficio.com/customer-service/privacy.html" title="Privacy &amp; Security">Privacy &amp; Security</a></li>
+<li><a href="https://www.exofficio.com/customer-service/terms-and-conditions.html" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
 <li><a href="https://www.exofficio.com/orders" title="Check Order Status">Check Order Status</a></li>
-<li><a href="http://www.exofficio.com/return-policy.html" title="Return Policy<">Return Policy</a></li>
-<li><a href="http://www.exofficio.com/customer-service/shipping-and-handling.html" title="Shipping &amp; Handling">Shipping &amp; Handling</a></li>
-<li><a href="http://www.exofficio.com/customer-service/sales-tax.html" title="Sales Tax">Sales Tax</a></li>
-<li><a href="http://www.exofficio.com/customer-service/my-account.html" title="My Account">My Account</a></li>
-<li><a href="http://www.exofficio.com/customer-service/faq.html" title="FAQ’s">FAQ’s</a></li>
-<li><a href="http://www.exofficio.com/egift-card/001EX.html" title="Gift Cards">Gift Cards</a></li>
+<li><a href="https://www.exofficio.com/return-policy.html" title="Return Policy<">Return Policy</a></li>
+<li><a href="https://www.exofficio.com/customer-service/shipping-and-handling.html" title="Shipping &amp; Handling">Shipping &amp; Handling</a></li>
+<li><a href="https://warranty.exofficio.com" title="Warranty">Warranty</a></li>
+<li><a href="https://www.exofficio.com/customer-service/sales-tax.html" title="Sales Tax">Sales Tax</a></li>
+<li><a href="https://www.exofficio.com/customer-service/my-account.html" title="My Account">My Account</a></li>
+<li><a href="https://www.exofficio.com/customer-service/faq.html" title="FAQ’s">FAQ’s</a></li>
+<li><a href="https://www.exofficio.com/egift-card/001EX.html" title="Gift Cards">Gift Cards</a></li>
 <li><a href="https://www.exofficio.com/propurchase" title="ExOfficio Pro">ExOfficio Pro</a></li>
 </ul>
 </div>
@@ -1275,21 +1356,20 @@ Find ExOfficio near you
 <div class="accordion-item">
 <h3 class="accordion-title toggle chevron-icon toggle-for-small-only">GARMENT INFO</h3>
 <ul class="accordion-content toggle-content">
-<li><a href="http://www.exofficio.com/garment-care/garment-care.html" title="Garment Care">Garment Care</a></li>
-<li><a href="http://www.exofficio.com/garment-care/sizing.html" title="Sizing Info">Sizing Info</a></li>
-<li><a href="http://www.exofficio.com/garment-care/tag-info.html" title="Tag Info">Tag Info</a></li>
-<li><a href="http://www.exofficio.com/garment-care/product-tech.html#" title="Product Technology">Product Technology</a></li>
+<li><a href="https://www.exofficio.com/garment-care/garment-care.html" title="Garment Care">Garment Care</a></li>
+<li><a href="https://www.exofficio.com/garment-care/sizing.html" title="Sizing Info">Sizing Info</a></li>
+<li><a href="https://www.exofficio.com/garment-care/tag-info.html" title="Tag Info">Tag Info</a></li>
+<li><a href="https://www.exofficio.com/garment-care/product-tech.html#" title="Product Technology">Product Technology</a></li>
 </ul>
 </div>
 <div class="accordion-item">
 <h3 class="accordion-title toggle chevron-icon toggle-for-small-only">ABOUT US</h3>
 <ul class="accordion-content toggle-content">
-<li><a href="http://www.exofficio.com/about/about-us.html" title="About Us">About Us</a></li>
-<li><a href="http://www.exofficio.com/about/careers.html" title="Careers">Careers</a></li>
-<li><a href="http://www.exofficio.com/about/travel-partners.html" title="Travel Partners">Travel Partners</a></li>
-<li><a href="http://www.exofficio.com/about/philanthropy.html" title="Philanthropy">Philanthropy</a></li>
-<li><a href="http://www.exofficio.com/articles" title="Magic of Travel">Magic of Travel</a></li>
-<li><a href="http://www.exofficio.com/public-relations/media-contacts.html" title="Media Contacts">Media Contacts</a></li>
+<li><a href="https://www.exofficio.com/about/about-us.html" title="About Us">About Us</a></li>
+<li><a href="https://www.exofficio.com/about/careers.html" title="Careers">Careers</a></li>
+<li><a href="https://www.exofficio.com/about/travel-partners.html" title="Travel Partners">Travel Partners</a></li>
+<li><a href="https://www.exofficio.com/about/philanthropy.html" title="Philanthropy">Philanthropy</a></li>
+<li><a href="https://www.exofficio.com/public-relations/media-contacts.html" title="Media Contacts">Media Contacts</a></li>
 </ul>
 </div>
 </div>
@@ -1297,36 +1377,32 @@ Find ExOfficio near you
 <div class="accordion-item">
 <h3 class="accordion-title toggle chevron-icon toggle-for-small-only">RETAIL</h3>
 <ul class="accordion-content toggle-content">
-<li><a href="http://www.exofficio.com/retail/stores.html" title="ExOfficio Stores">ExOfficio Stores</a></li>
-<li><a href="http://www.exofficio.com/stores" title="Find a Local Dealer">Find a Local Dealer</a></li>
+<li><a href="https://www.exofficio.com/retail/stores.html" title="ExOfficio Stores">ExOfficio Stores</a></li>
+<li><a href="https://www.exofficio.com/stores" title="Find a Local Dealer">Find a Local Dealer</a></li>
 </ul>
 </div>
 <div class="accordion-item">
 <h3 class="accordion-title toggle chevron-icon toggle-for-small-only">SALES</h3>
 <ul class="accordion-content toggle-content">
-<li><a href="http://www.exofficio.com/sales/corporate-sales.html" title="Corporate Sales">Corporate Sales</a></li>
-<li><a href="http://www.exofficio.com/sales/international-distributors.html" title="International Distribution">International Distribution</a></li>
-<li><a href="http://www.exofficio.com/sales/affiliate-program.html" title="Affiliate Program">Affiliate Program</a></li>
+<li><a href="https://www.exofficio.com/sales/corporate-sales.html" title="Corporate Sales">Corporate Sales</a></li>
+<li><a href="https://www.exofficio.com/sales/international-distributors.html" title="International Distribution">International Distribution</a></li>
+<li><a href="https://www.exofficio.com/sales/affiliate-program.html" title="Affiliate Program">Affiliate Program</a></li>
 </ul>
 </div>
 <div class="accordion-item">
 <h3 class="accordion-title toggle chevron-icon toggle-for-small-only"><a title="Need Help?">Need Help?</a></h3>
 <div class="accordion-content toggle-content">
 <div class="need-help">
-<p>Talk to our experts <br>
-Mon-Fri 7:30AM - 5PM Pacific</p>
-<div data-id="VPfcmPGpzLg" class="livechat_button primary-button"><a class="js_open_livechat" href="https://www.livechatinc.com/customer-service-software/?partner=lc_8192481&amp;utm_source=chat_button">Chat</a></div>
-<p class="phone hide-for-small">
-<span>or </span><strong>call</strong>
-<a href="tel:8883573262"><strong>888 357 3262</strong></a><br>
-<span>for warranty related issues</span><br><strong> call</strong>
-<a href="tel:8883112900’"><strong>888 311 2900</strong></a>
-</p>
-<a href="tel:8883573262" class="phone hide-for-medium primary-button button-icon">
-<svg class="svg-icon svg-icon-phone" viewBox="0 0 13.000064 13" width="13" height="13"><path d="M13 2.552c0 .54-.135 1.194-.407 1.912C12 6.04 10.826 7.753 9.29 9.29 7.753 10.826 6.038 12 4.463 12.594c-1.432.54-2.607.541-3.145.003-.077-.077-.16-.156-.246-.237-.516-.491-1.097-1.046-1.071-1.782.02-.506.336-.997.961-1.5 1.848-1.486 2.507-.816 3.27-.041l.136.137c.127.127.714.366 2.943-1.863.728-.727 1.26-1.348 1.582-1.844.203-.312.51-.87.281-1.1l-.139-.137c-.773-.763-1.441-1.421.043-3.268.503-.626.994-.94 1.501-.96.735-.031 1.292.554 1.782 1.071.082.086.16.169.237.246.268.267.402.694.402 1.233zM.437 10.63c0 .522.497.994.936 1.412.089.084.174.165.254.245.401.401 1.453.36 2.683-.103 1.518-.573 3.177-1.711 4.67-3.205 1.494-1.494 2.632-3.152 3.205-4.67.464-1.23.503-2.282.103-2.682-.08-.08-.161-.166-.245-.254-.426-.45-.91-.959-1.447-.936-.368.015-.765.283-1.178.797-1.237 1.54-.8 1.97-.077 2.683l.141.14c.342.341.266.895-.223 1.647-.339.522-.89 1.166-1.64 1.915-1.85 1.85-2.981 2.442-3.562 1.863l-.137-.14c-.714-.725-1.145-1.163-2.684.075-.514.414-.783.81-.798 1.179v.034z"></path></svg>
-<span>888 357 3262</span>
-</a>
-</div>
+<p>Talk to our experts</p>
+<p>Live Chat - Mon-Fri 9AM - 2PM Pacific</p>
+<div class="livechat_button primary-button" data-id="VPfcmPGpzLg"><a class="js_open_livechat" href="https://www.livechatinc.com/customer-service-software/?partner=lc_8192481&amp;utm_source=chat_button">Chat</a></div>
+<p class="phone hide-for-small"><span>or </span><strong>call</strong> <a href="tel:8006447303"><strong>800-644-7303</strong></a></p>
+<p style="line-height:12px;">Mon-Fri 7:30AM - 5PM Pacific</p>
+<br>
+<span>For warranty related issues</span>
+<p style="line-height:12px;"><strong>call</strong> <a href="tel:8883112900"><strong>888 311 2900</strong></a></p>
+<p>&nbsp;</p>
+<a class="phone hide-for-medium primary-button button-icon" href="tel:8883573262"> <svg class="svg-icon svg-icon-phone" height="13" viewBox="0 0 13.000064 13" width="13"><path d="M13 2.552c0 .54-.135 1.194-.407 1.912C12 6.04 10.826 7.753 9.29 9.29 7.753 10.826 6.038 12 4.463 12.594c-1.432.54-2.607.541-3.145.003-.077-.077-.16-.156-.246-.237-.516-.491-1.097-1.046-1.071-1.782.02-.506.336-.997.961-1.5 1.848-1.486 2.507-.816 3.27-.041l.136.137c.127.127.714.366 2.943-1.863.728-.727 1.26-1.348 1.582-1.844.203-.312.51-.87.281-1.1l-.139-.137c-.773-.763-1.441-1.421.043-3.268.503-.626.994-.94 1.501-.96.735-.031 1.292.554 1.782 1.071.082.086.16.169.237.246.268.267.402.694.402 1.233zM.437 10.63c0 .522.497.994.936 1.412.089.084.174.165.254.245.401.401 1.453.36 2.683-.103 1.518-.573 3.177-1.711 4.67-3.205 1.494-1.494 2.632-3.152 3.205-4.67.464-1.23.503-2.282.103-2.682-.08-.08-.161-.166-.245-.254-.426-.45-.91-.959-1.447-.936-.368.015-.765.283-1.178.797-1.237 1.54-.8 1.97-.077 2.683l.141.14c.342.341.266.895-.223 1.647-.339.522-.89 1.166-1.64 1.915-1.85 1.85-2.981 2.442-3.562 1.863l-.137-.14c-.714-.725-1.145-1.163-2.684.075-.514.414-.783.81-.798 1.179v.034z"></path></svg> <span>800-644-7303</span> </a></div>
 </div>
 </div>
 </div>
@@ -1382,8 +1458,8 @@ Mon-Fri 7:30AM - 5PM Pacific</p>
 
 
 <ul class="menu-footer">
-<li><a href="http://www.exofficio.com/customer-service/terms-and-conditions.html" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-<li><a href="http://www.exofficio.com/customer-service/privacy.html" title="Privacy Policy">Privacy Policy</a></li>
+<li><a href="https://www.exofficio.com/customer-service/terms-and-conditions.html" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+<li><a href="https://www.exofficio.com/customer-service/privacy.html" title="Privacy Policy">Privacy Policy</a></li>
 <li><a href="http://www.newellbrands.com/OurCompany/DoBusinessWithUs/ForOurSuppliers/Pages/BusinessEthics-NewellBrands.aspx#CTSCA">California Transparency Act</a></li>
 </ul>
 
@@ -1401,7 +1477,7 @@ Mon-Fri 7:30AM - 5PM Pacific</p>
         })();
         </script>
 <!--[if gte IE 9 | !IE]><!-->
-<script src="/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1518868967533/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1544270733892/lib/jquery/jquery-3.3.1.min.js" type="text/javascript"></script>
 <!--<![endif]-->
 <!--[if IE 9]>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
@@ -1422,9 +1498,9 @@ Mon-Fri 7:30AM - 5PM Pacific</p>
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","NEWSLETTER_SUBSCRIBE_SUCCESS":"<strong>Thank you for subscribing</strong><p>Your promo code is on its way to your inbox.</p>","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","VALIDATE_ONE_REQUIRED":"At least one product should be selected.","VALIDATE_ONE_REASON_REQUIRED":"Please select the reason for returning.","VALIDATE_SAME_ADDRESS":"You entered an address that already exists.","VALIDATE_FULLNAME":"Please enter your full name","VALIDATE_CC_EXPIRATION_FORMAT":"Invalid expiration date","VALIDATE_PASSWORD":"Please enter at least 8 characters.","VALIDATE_NAMEFIRSTLETTER":"Please enter valid name","INVALID_POSTAL":"Please specify a valid zip code.","INVALID_CVN":"Invalid Security Code","INVALID_SHIPPING_ADDRESS":"Sorry, we are not shipping to the selected country","INVALID_BILLING_ADDRESS":"Please enter a US billing address","INVALID_EXP_DATE":"This Credit Card is expired","INVALID_CARDNUMBER":"Invalid Credit Card Number","READ_MORE":"Read more +","READ_LESS":"Read less -","QAS_TITLE":"Verify Your Address","USE_SAME_ADDRESS":"Use <b>{0}</b>... as billing address","SELECT_PLACEHOLDER":"Select...","STATE_PLACEHOLDER":"State","PRODUCT_FIT":["Reviewers Say it <b>Fits Very Small</b>","Reviewers Say it <b>Fits Small</b>","Reviewers Say it <b>Fits True to Size</b>","Reviewers Say it <b>Fits Large</b>","Reviewers Say it <b>Fits Very Large</b>"],"IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Page-Include","continueUrl":"http://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Page-Show","staticPath":"/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1518868967533/","addGiftCert":"/giftcertpurchase","minicartGC":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Address-GetAddressDetails?addressID=","paymentsList":"https://www.exofficio.com/wallet","addressesList":"https://www.exofficio.com/addressbook","wishlistAddress":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Address-Delete","getProductUrl":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-ExOfficio_US-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COBilling-UpdateSummary","billingSelectCC":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/compare","compareAdd":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-ExOfficio_US-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Cart-AddCouponJson","removeCoupon":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Cart-RemoveCouponJson","storesInventory":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/StoreInventory-GetZipCode","billing":"/billing","setSessionCurrency":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/RateLimiter-HideCaptcha","addToCart":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/GTM-AddToCart","removeFromCart":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/GTM-RemoveFromCart","handleshippingaddress":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COShipping-HandleShippingAddress","savebillingaddress":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COBilling-SaveBillingAddress","newsletterpopup":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Newsletter-GetNewsletterPopup","sendreturnemail":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Returns-SendEmail","jsBarCodePlugin":"/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1518868967533/lib/JsBarcode.code128.min.js","jsStickyfillPlugin":"/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1518868967533/lib/stickyfill.min.js","jsZoomImagePlugin":"/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1518868967533/lib/jquery/jquery.zoom.min.js","jsGrayImagePlugin":"/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1518868967533/lib/jquery/jquery.gray.min.js","onePageCheckoutSummaryRefreshURL":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/OnePageCheckout-UpdateSummary","onePageCheckoutRefresh":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/OnePageCheckout-Refresh","expressCheckoutSummaryRefreshURL":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/ExpressCheckout-UpdateSummary","verifyAddress":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/VerifyAddress-Verify","isRegisteredEmail":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Account-IsRegisteredEmail","subscribeOrderConfirmation":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Newsletter-OrderConfirmationSubscribe","showContent":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Page-Show","rootsratedsearchsuggest":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/RootsRated-GetSuggestions","toggleProductInWishlist":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Wishlist-ToggleProductInWishlist","miniCart":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Cart-MiniCart","miniCartGetQuantity":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Cart-MiniCartGetQuantity","addAddress":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Address-Add","productGetPartners":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Product-GetPartners"};
-window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false,"GTM_ENABLED":true,"CYBERSOURCE_ENABLED":true,"LIVECHAT_LICENSE_KEY":"8192481","PRODUCT_INFINITE_TYPE":"infiniteScroll","BV_ENABLED":true,"RESTRICT_BILLING_COUNTRY":true,"BV_CONVERSATIONS_URL":null,"lat":39.0437,"long":-77.4875};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","INVALID_ADDRESSNAME":"Address Name cannot contain special characters","INVALID_FIRSTNAME":"First name cannot contain special characters","INVALID_LASTNAME":"Last name cannot contain special characters","INVALID_ADDRESS":"Address cannot contain special characters","INVALID_CITY":"City cannot contain special characters","INVALID_FULLNAME":"Name cannot contain special characters","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","NEWSLETTER_SUBSCRIBE_SUCCESS":"<strong>Thank you for subscribing</strong><p>Your promo code is on its way to your inbox.</p>","CSRF_TOKEN_MISMATCH":"global.csrf.failed.error","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","VALIDATE_ONE_REQUIRED":"At least one product should be selected.","VALIDATE_ONE_REASON_REQUIRED":"Please select the reason for returning.","VALIDATE_SAME_ADDRESS":"You entered an address that already exists.","VALIDATE_FULLNAME":"Please enter your full name","VALIDATE_CC_EXPIRATION_FORMAT":"Invalid expiration date","VALIDATE_PASSWORD":"Please enter at least 8 characters.","VALIDATE_NAMEFIRSTLETTER":"Please enter valid name","INVALID_POSTAL":"Please specify a valid zip code.","INVALID_CVN":"Invalid Security Code","INVALID_SHIPPING_ADDRESS":"Sorry, we are not shipping to the selected country","INVALID_BILLING_ADDRESS":"Please enter a US billing address","INVALID_EXP_DATE":"This Credit Card is expired","INVALID_CARDNUMBER":"Invalid Credit Card Number","READ_MORE":"Read more +","READ_LESS":"Read less -","QAS_TITLE":"Verify Your Address","USE_SAME_ADDRESS":"Use <b>{0}</b>... as billing address","SELECT_PLACEHOLDER":"Select...","STATE_PLACEHOLDER":"State","WARNING_PLACEHOLDER":"Warning Message","NEW_WINDOW_PLACEHOLDER":"Opens a new window","PRODUCT_FIT":["Reviewers Say it <b>Fits Very Small</b>","Reviewers Say it <b>Fits Small</b>","Reviewers Say it <b>Fits True to Size</b>","Reviewers Say it <b>Fits Large</b>","Reviewers Say it <b>Fits Very Large</b>"],"IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Page-Include","continueUrl":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Page-Show","staticPath":"/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1544270733892/","addGiftCert":"/giftcertpurchase","minicartGC":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Address-GetAddressDetails?addressID=","paymentsList":"https://www.exofficio.com/wallet","addressesList":"https://www.exofficio.com/addressbook","wishlistAddress":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Address-Delete","getProductUrl":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-ExOfficio_US-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COBilling-UpdateSummary","billingSelectCC":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/compare","compareAdd":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-ExOfficio_US-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Cart-AddCouponJson","removeCoupon":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Cart-RemoveCouponJson","storesInventory":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/StoreInventory-GetZipCode","billing":"/billing","setSessionCurrency":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/CSRF-Failed","addToCart":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/GTM-AddToCart","removeFromCart":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/GTM-RemoveFromCart","handleshippingaddress":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COShipping-HandleShippingAddress","savebillingaddress":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/COBilling-SaveBillingAddress","newsletterpopup":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Newsletter-GetNewsletterPopup","sendreturnemail":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Returns-SendEmail","jsBarCodePlugin":"/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1544270733892/lib/JsBarcode.code128.min.js","jsStickyfillPlugin":"/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1544270733892/lib/stickyfill.min.js","jsZoomImagePlugin":"/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1544270733892/lib/jquery/jquery.zoom.min.js","jsGrayImagePlugin":"/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1544270733892/lib/jquery/jquery.gray.min.js","onePageCheckoutSummaryRefreshURL":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/OnePageCheckout-UpdateSummary","onePageCheckoutRefresh":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/OnePageCheckout-Refresh","expressCheckoutSummaryRefreshURL":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/ExpressCheckout-UpdateSummary","verifyAddress":"https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/VerifyAddress-Verify","isRegisteredEmail":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Account-IsRegisteredEmail","subscribeOrderConfirmation":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Newsletter-OrderConfirmationSubscribe","showContent":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Page-Show","rootsratedsearchsuggest":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/RootsRated-GetSuggestions","toggleProductInWishlist":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Wishlist-ToggleProductInWishlist","miniCart":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Cart-MiniCart","miniCartGetQuantity":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Cart-MiniCartGetQuantity","addAddress":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Address-Add","productGetPartners":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/Product-GetPartners","warningImg":"/on/demandware.static/Sites-ExOfficio_US-Site/-/default/dwe6ff3a77/images/icon-warning-prop65.png","newwindowImg":"/on/demandware.static/Sites-ExOfficio_US-Site/-/default/dw65b219e2/images/new_window.png","emailSignup":"/on/demandware.store/Sites-ExOfficio_US-Site/en_US/ltkSignupEmail-Signup"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false,"GTM_ENABLED":true,"CYBERSOURCE_ENABLED":true,"LIVECHAT_LICENSE_KEY":"8192481","PRODUCT_INFINITE_TYPE":"infiniteScroll","BV_ENABLED":true,"RESTRICT_BILLING_COUNTRY":true,"BV_CONVERSATIONS_URL":null,"lat":37.751,"long":-97.822};
 window.SitePreferences.OPC_ENABLED = true;
 }());
 </script>
@@ -1435,8 +1511,8 @@ window.SessionAttributes = {"SHOW_CAPTCHA":null};
 window.User = {"zip":null,"storeId":null,"isAuthenticated":false};
 }());
 </script>
-<script src="/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1518868967533/js/4ac0dfa0-054f-4a3f-8b3c-e538a6d4c667.js"></script>
-<script type="text/javascript" src="//product.reflektion.com/rfk/js/11197-53415420/init.js" async="true"></script>
+<script src="/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1544270733892/js/d86a08f2-adc0-4bb0-83a3-5e890369b343.js"></script>
+<script type="text/javascript" src="//53415420-prod.rfksrv.com/rfk/js/11197-53415420/init.js" async="true"></script>
 <script>pageContext = {"title":"Customer Service","type":"customerservice","ns":"customerservice"};</script>
 <script>
 var meta = "";
@@ -1467,6 +1543,113 @@ var keywords = "";
 		injectBVInlineRatings("#primary", "BVRRInlineRating");
 	});
 	</script>
+<script type="text/javascript">
+        var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+        (function (d, s, id, tid, vid) {
+            var js, ljs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;
+            js.src = biJsHost + "cdn.listrakbi.com/scripts/script.js?m=" + tid + "&v=" + vid;
+            ljs.parentNode.insertBefore(js, ljs);
+        })(document, 'script', 'ltkSDK', 'q3EDI0UPaTBC', '1');					
+	</script>
+<script type="text/javascript">
+(function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+        else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+        if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+	
+
+	
+	try {
+		
+		/* Capture the click from a message. */
+		_ltk.Click.Submit();
+	}
+	catch (er)
+	{
+		/* An error has occurred, yet to determine if we want to do anything here. */
+	}
+	});
+</script>
+<script type="text/javascript">
+	
+	var _ltkwmt = '';
+	
+		_ltkwmt = 'Enter your email address';
+	
+	
+	
+	(function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+        else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+        if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+	
+	
+		
+			  _ltk.SCA.CaptureEmail("dwfrm_profile_customer_email");
+		
+			  _ltk.SCA.CaptureEmail("dwfrm_newslettersubscription_email");
+		
+			  _ltk.SCA.CaptureEmail("dwfrm_singleshipping_shippingAddress_userContact_emailAddress");
+		
+		});
+	
+	
+	</script>
+<script type="text/javascript">
+(function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+        else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+        if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+	
+
+	/* Used to reset the activity tracker parameters in the pdict upon successful send up to Listrak endpoint. */
+	function resetProductActivityParams()
+	{
+		var path = '/on/demandware.store/Sites-ExOfficio_US-Site/en_US/ltkActivityTracking-ClearTracker';
+		jQuery.ajax({
+			  url: path,
+			  context: document,
+			  success: function(){ }
+		});
+	}	
+	
+	try {
+		/* Perform activity/page/product browse logging. */
+		var sessionSku = 'null';
+		var sessionCategory = 'null';
+		var sessionQuickViewSkus = 'null';		
+		
+		/* Iterate through any quickviews and add them as product browses. */
+		if (sessionQuickViewSkus != null && sessionQuickViewSkus != "null" && sessionQuickViewSkus.length > 0)
+		{
+			var quickViews = sessionQuickViewSkus.split(',');
+			
+			for (var i = 0; i < quickViews.length; i++)
+			{
+				_ltk.Activity.AddProductBrowse(quickViews[i]);			
+			}
+		}
+		
+		/* Add the product browse if we have it. */
+		if (sessionSku != null && sessionSku != "null" && sessionSku.length > 0)
+		{
+			_ltk.Activity.AddProductBrowse(sessionSku);
+		}			
+		
+		/* Add the page browse. We should ALWAYS have if this JS fires. */
+		var currentPage = window.location.href;
+		_ltk.Activity.AddPageBrowse(currentPage);
+		
+		/* Submit the activity through client side JS to the endpoint. */
+		_ltk.Activity.Submit();
+		
+		/* Do a post to reset the browse/quickview/page parameters if there are products in them. */
+		resetProductActivityParams();
+	}
+	catch (er)
+	{
+		/* An error has occurred, yet to determine if we want to do anything here. */
+	}
+});
+</script>
 
 
 <script>
@@ -1649,7 +1832,7 @@ mr_Track();
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/__Analytics-Tracking";
+        var trackingUrl = "https://www.exofficio.com/on/demandware.store/Sites-ExOfficio_US-Site/en_US/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -1661,9 +1844,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1518868967533/internal/jscript/dwanalytics-16.9.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1544270733892/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 
-<script src="/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1518868967533/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script>
+<script src="/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1544270733892/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 <script type="text/javascript">//<!--
@@ -1673,7 +1856,7 @@ dw.applepay = {"action":{"cancel":"https:\/\/www.exofficio.com\/on\/demandware.s
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1518868967533/internal/jscript/applepay.js" async="true"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-ExOfficio_US-Site/-/en_US/v1544270733892/internal/jscript/applepay.js" async="true"></script>
 
 
 </body></html>
