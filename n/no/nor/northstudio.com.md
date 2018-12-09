@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the northstudio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190729id_/https%3A//www.northstudio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northstudio.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209221848id_/https%3A//www.northstudio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | North Studio Website Development, Canada
+# Privacy Policy | North Studio
 
-Last Modified: August 20 2014
-
-We at North Studio (northStudio inc. and our affiliates) are committed to protecting your privacy. This Privacy Policy applies to our Website (www.northstudio.com). This Privacy Policy governs our data collection, processing and usage practices. By using the Website, you consent to the data practices described in this Privacy Policy. If you do not agree with the data practices described in this Privacy Policy, you should not use the Website.
+We at North Studio (northStudio inc. and our affiliates) are committed to protecting your privacy. This Privacy Policy applies to our Website ([www.northstudio.com](https://www.northstudio.com/)). This Privacy Policy governs our data collection, processing and usage practices. By using the Website, you consent to the data practices described in this Privacy Policy. If you do not agree with the data practices described in this Privacy Policy, you should not use the Website.
 
 We periodically update this Privacy Policy. We encourage you to review this Privacy Policy periodically.
 
@@ -16,7 +14,7 @@ We may update this Privacy Policy from time to time by posting a new version onl
 
 1.2. Contact Us
 
-If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at info@northstudio.com or by mail to 301-771 Vernon Ave, Victoria, BC, V8X 5A7, Attn: Privacy.
+If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at [info@northstudio.com](mailto:info@northstudio.com) or by mail to 301-771 Vernon Ave, Victoria, BC, V8X 5A7, Attn: Privacy.
 
 ## 2\. Information We Collect
 
@@ -24,17 +22,17 @@ If you have any questions about this Privacy Policy or our treatment of the info
 
 You are free to explore the Website without providing any information about yourself. When you visit the Website, we collect Navigational Information.
 
-2.2. "Personal Information"
+2.2. “Personal Information”
 
-This refers to any information that you voluntarily submit to us and that identifies you personally, including contact information, such as your name, e-mail address, company name, address, phone number, and other information about yourself or your business. Personal Information can also include information about any transactions, both free and paid, that you enter into on the Websites, and information about you that is available on the internet, such as from Facebook, LinkedIn, Twitter and Google, or publicly available information that we acquire from service providers.   
+This refers to any information that you voluntarily submit to us and that identifies you personally, including contact information, such as your name, e-mail address, company name, address, phone number, and other information about yourself or your business. Personal Information can also include information about any transactions, both free and paid, that you enter into on the Websites, and information about you that is available on the internet, such as from Facebook, LinkedIn, Twitter and Google, or publicly available information that we acquire from service providers.
 
-2.3. "Navigational Information"
+2.3. “Navigational Information”
 
-This refers to information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and pages viewed. Please see the "Navigation Information" section below.
+This refers to information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and pages viewed. Please see the “Navigation Information” section below.
 
 2.4. Information About Children
 
-The Websites are not intended for or targeted at children under 13, and we do not knowingly or intentionally collect information about children under 13. If you believe that we have collected information about a child under 13, please contact us at info@northstudio.com, so that we may delete the information.
+The Websites are not intended for or targeted at children under 13, and we do not knowingly or intentionally collect information about children under 13. If you believe that we have collected information about a child under 13, please contact us at [info@northstudio.com](mailto:info@northstudio.com), so that we may delete the information.
 
 ## 3\. How We Use Information We Collect
 
@@ -48,7 +46,7 @@ We will never sell your Personal Information to any third party.
 
 3.3. Use of Personal Information
 
-In addition to the uses identified elsewhere in this Privacy Policy, we may use your Personal Information to: (a) improve your browsing experience by personalizing the Website; (b) send information to you which we think may be of interest to you by post, email, or other means; (c) send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, and (d) provide other companies with statistical information about our users -- but this information will not be used to identify any individual user. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, we do not transfer your unique Personal Information to the third party. In addition, we may share data with trusted partners to contact you based on your request to receive such communications, help us perform statistical analysis, or provide customer support. Such third parties are prohibited from using your Personal Information except for these purposes, and they are required to maintain the confidentiality of your information.
+In addition to the uses identified elsewhere in this Privacy Policy, we may use your Personal Information to: (a) improve your browsing experience by personalizing the Website; (b) send information to you which we think may be of interest to you by post, email, or other means; (c) send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, and (d) provide other companies with statistical information about our users — but this information will not be used to identify any individual user. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, we do not transfer your unique Personal Information to the third party. In addition, we may share data with trusted partners to contact you based on your request to receive such communications, help us perform statistical analysis, or provide customer support. Such third parties are prohibited from using your Personal Information except for these purposes, and they are required to maintain the confidentiality of your information.
 
 3.4. Use of Navigational Information
 
@@ -56,7 +54,7 @@ We use Navigational Information to operate and improve the Website. We may also 
 
 3.5. Customer Testimonials and Comments
 
-We post customer testimonials and comments on our Website, which may contain Personal Information. We obtain each customer's consent via email prior to posting the customer's name and testimonial.
+We post customer testimonials and comments on our Website, which may contain Personal Information. We obtain each customer’s consent via email prior to posting the customer’s name and testimonial.
 
 3.6. Use of Credit Card Information
 
@@ -80,11 +78,11 @@ Our Website provides links to other websites. We do not control, and are not res
 
 3.11. Public Forums
 
-We offer publicly accessible blogs. Please keep in mind that if you directly disclose any information through our public message boards, blogs, or forums, this information may be collected and used by others. We will correct or delete any information you have posted on the Website if you so request, as described in "Opting Out and Unsubscribing" below.
+We offer publicly accessible blogs. Please keep in mind that if you directly disclose any information through our public message boards, blogs, or forums, this information may be collected and used by others. We will correct or delete any information you have posted on the Website if you so request, as described in “Opting Out and Unsubscribing” below.
 
 3.12. Retention of Personal Information
 
-We retain Personal Information that you provide us as long as we consider it potentially useful in contacting you about our services, and then we securely delete the information. We will delete this information from the servers at an earlier date if you so request, as described in "Opting Out and Unsubscribing" below.
+We retain Personal Information that you provide us as long as we consider it potentially useful in contacting you about our services, and then we securely delete the information. We will delete this information from the servers at an earlier date if you so request, as described in “Opting Out and Unsubscribing” below.
 
 3.13. Corporate Events
 
@@ -98,7 +96,7 @@ We reserve the right to use or disclose your Personal Information if required by
 
 4.1. Cookies
 
-We use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize pages on our Website, a cookie helps us to recall your specific information on subsequent visits. When you return to the same Website, the information you previously provided can be retrieved, so you can easily use the customized features.
+We use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize pages on our Website, a cookie helps us to recall your specific information on subsequent visits. When you return to the same Website, the information you previously provided can be retrieved, so you can easily use the customized features.
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Website. North Studio keeps track of the pages you visit within North Studio, in order to determine what portion of the North Studio Website is the most popular or most used. This data is used to deliver customized content and promotions within the North Studio Website Service to customers whose behavior indicates that they are interested in a particular subject area.
 
@@ -108,11 +106,11 @@ We may collect demographic information, such as your postal code, age, gender, p
 
 4.3. Clear Gifs (Web Beacons/Web Bugs)
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage the Website by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages or in emails and are about the size of the period at the end of this sentence. We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. We tie the information gathered by clear gifs in emails to our customers' Personal Information. If you would like to opt-out of these emails, please see "Opting Out and Unsubscribing".
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage the Website by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages or in emails and are about the size of the period at the end of this sentence. We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. We tie the information gathered by clear gifs in emails to our customers’ Personal Information. If you would like to opt-out of these emails, please see “Opting Out and Unsubscribing”.
 
-  4.4. Flash Cookies and Other Third Party Tracking Technologies
+4.4. Flash Cookies and Other Third Party Tracking Technologies
 
-The Adobe Flash Player (and similar applications) use technology to remember settings, preferences and usage similar to browser cookies but these are managed through a different interface than the one provided by your Web browser. This technology creates locally stored objects that are often referred to as "Flash cookies." North Studio does not use Flash cookies.
+The Adobe Flash Player (and similar applications) use technology to remember settings, preferences and usage similar to browser cookies but these are managed through a different interface than the one provided by your Web browser. This technology creates locally stored objects that are often referred to as “Flash cookies.” North Studio does not use Flash cookies.
 
 4.5. Third Party Tracking Technologies
 
@@ -133,8 +131,8 @@ If you provide us with your Personal Information, you have the following rights 
 
 
 
-To exercise any of these rights, please contact us at info@northstudio.com or by mail to North Studio, 301-771 Vernon Ave, Victoria, BC, V8X 5A7, Attention: Privacy. We will promptly change, correct, or delete your information and notify you of the action we have taken.
+To exercise any of these rights, please contact us at [info@northstudio.com](mailto:info@northstudio.com) or by mail to North Studio, 301-771 Vernon Ave, Victoria, BC, V8X 5A7, Attention: Privacy. We will promptly change, correct, or delete your information and notify you of the action we have taken.
 
-  5.2. To Unsubscribe From Our Communications
+5.2. To Unsubscribe From Our Communications
 
-You may unsubscribe from our marketing communications by clicking on the "unsubscribe" link located on the bottom of our e-mails, or by sending us an email at info@northstudio.com, or by sending us postal mail to North Studio, 301-771 Vernon Ave, Victoria, BC, V8X 5A7, Attention: Privacy. Customers cannot opt out of receiving transactional emails related to their account with us.
+You may unsubscribe from our marketing communications by clicking on the “unsubscribe” link located on the bottom of our e-mails, or by sending us an email at [info@northstudio.com](mailto:info@northstudio.com), or by sending us postal mail to North Studio, 301-771 Vernon Ave, Victoria, BC, V8X 5A7, Attention: Privacy. Customers cannot opt out of receiving transactional emails related to their account with us.
