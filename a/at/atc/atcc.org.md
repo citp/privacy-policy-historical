@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atcc.org privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711020144id_/https%3A//atcc.org/en/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atcc.org privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209132445id_/http%3A//www.atcc.org/en/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,4 +57,4 @@ This Site may contain links to Internet sites operated by other parties. ATCC is
 
 You may ask us to review and update the personally identifiable information you provide to us by contacting Customer Service or by making changes to your personally identifiable information on-line. We will take reasonable steps to correct personally identifiable information that you inform us is incorrect.
 
-If you have any questions or comments regarding this Privacy Policy, please contact the ATCC Webmaster using the [Contact Us Form](https://web.archive.org/en/Support/Contact_Us/Contact_Us_Form.aspx).
+If you have any questions or comments regarding this Privacy Policy, please contact the ATCC Webmaster using the [Contact Us Form](https://web.archive.org/Support/Contact_Us/Contact_Us_Form.aspx).
