@@ -1,163 +1,130 @@
-> *The following text is extracted and transformed from the royal-dansk.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628131651id_/http%3A//www.campbellsoupcompany.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royal-dansk.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209132319id_/http%3A//kelsen.com/en-US/Privacy_Notice_%28ENG%29.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Campbell Soup Company
+# Privacy Notice (ENG)
 
-Your privacy is very important to the Campbell Soup Company and its affiliates (“CSC,” “we” or “us”). We have created this Privacy Policy to provide transparency about the type of information we collect from you; how we handle your information; and how you can make choices to control certain uses of your information.
+This website is operated by Kelsen Group A/S ("Kelsen", "we", "our") (CVR nr. 27703666).  This Privacy Notice is intended to provide you with information on how Kelsen collects and processes your personal information (“Personal Data”) and for which purposes we may process the data.  
 
-This Privacy Policy governs our websites, mobile applications and our applications and branded pages on third-party sites and platforms where it is posted (our “Site” or, collectively “Sites”). You may access our Sites from a number of different devices, such as a computer, mobile phone, tablet or other device; however, this Privacy Policy governs your use of our Sites regardless of the means of access.  **By using or accessing our Sites, you consent to the terms of this Privacy Policy.**
+[Our Responsibilities ](http://kelsen.com/en-US/Privacy_Notice_\(ENG\).aspx#responsibilities)
 
-We encourage you to read this Privacy Policy to learn more about:
+[Personal Data We Collect ](http://kelsen.com/en-US/Privacy_Notice_\(ENG\).aspx#personal_data_collect)
 
-  * **[Information We Collect](http://www.campbellsoupcompany.com/privacy-policy/#information)**
-  * **[How We Use and Share Your Information](http://www.campbellsoupcompany.com/privacy-policy/#share_information)**
-  * **[How We Protect Your Information](http://www.campbellsoupcompany.com/privacy-policy/#protect_information)**
-  * **[Interest-Based Advertising](http://www.campbellsoupcompany.com/privacy-policy/#advertising)**
-  * **[Social Media Services](http://www.campbellsoupcompany.com/privacy-policy/#social)**
-  * **[Opting Out of Communications](http://www.campbellsoupcompany.com/privacy-policy/#communications)**
-  * **[Children’s Privacy Policy](http://www.campbellsoupcompany.com/privacy-policy/#children)**
-  * **[Other Important Information](http://www.campbellsoupcompany.com/privacy-policy/#other_information)**
-  * **[Contact Us](http://www.campbellsoupcompany.com/privacy-policy/#contact_us)**
+[Purposes and Legal Bases for Processing of Your Personal Data](http://kelsen.com/en-US/Privacy_Notice_\(ENG\).aspx#purposes)
 
+[Sharing Your Personal Data ](http://kelsen.com/en-US/Privacy_Notice_\(ENG\).aspx#sharing)
 
+[Transferring Your Personal Data Outside of the EU/EEA](http://kelsen.com/en-US/Privacy_Notice_\(ENG\).aspx#transfering)
 
-## INFORMATION WE COLLECT
+[Security & Retention of Your Personal Data ](http://kelsen.com/en-US/Privacy_Notice_\(ENG\).aspx#security)
 
-We may collect various types of information from you depending on how you interact with our Sites, as described below.
+[Your Rights as a Data Subject ](http://kelsen.com/en-US/Privacy_Notice_\(ENG\).aspx#rights)
 
-### Information You Provide to Us
+[Children](http://kelsen.com/en-US/Privacy_Notice_\(ENG\).aspx#children) 
 
-We may receive and store information that you provide to us voluntarily when you visit our Sites. For example, we may receive information from you when you register for an account or use any of our online tools (e.g., the Recipe Box on CampbellsKitchen.com); subscribe to an electronic newsletter; send us a question or comment; post a photograph or video; enter or respond to a survey, contest, sweepstakes or other promotional program; or otherwise provide information directly to us. Examples of the information that we may collect from you include:
+[Cookies](http://kelsen.com/en-US/Privacy_Notice_\(ENG\).aspx#cookies)
 
-  * Name
-  * Email address
-  * Phone number
-  * Mailing address
-  * Age or date of birth
-  * Gender
-  * Username and/or password
-  * Payment information (e.g., credit card) when making a transaction
-  * Marital status
-  * Number and age or date of birth of your children
-  * Demographic information
-  * Preferences (e.g., on foods/recipe interests, website usage, grocery store chains, etc.)
+[Changes to this Privacy Notice ](http://kelsen.com/en-US/Privacy_Notice_\(ENG\).aspx#changes)
 
+[Links](http://kelsen.com/en-US/Privacy_Notice_\(ENG\).aspx#links)
 
+[Questions or Complaints ](http://kelsen.com/en-US/Privacy_Notice_\(ENG\).aspx#questions)
 
-If you choose to share information about yourself in a public forum, such as through a social media platform like Facebook or Twitter, or in any user-generated content area of our Sites, we consider that information to be public and not private. Others with access may read, collect and use that information. You assume the risk that your information may be read, collected and shared by such other parties.
+### 1. OUR RESPONSIBILITIES 
 
-### Information We Automatically Collect From You 
+We are a "data controller" and are therefore responsible for deciding how and for which purposes we process your Personal Data.  We are required under Article 13 and 14 of the General Data Protection Regulation (EU 2016/679) (“GDPR”) to provide you with information as set out in this Privacy Notice, which applies to processing of data collected from our consumers via our websites (the “Sites”).
 
-We may automatically collect information about your interactions with our Sites and online ads and may combine this information with other information about you in order to customize your online experience with us. The information we automatically collect may include your IP address, referring URLs, browser and device characteristics, browsing behavior (e.g., date and time of visit, length of visit, clicks on product information or other content) and your response to our email campaigns (e.g., whether and when you open our email, the links you click). We may use cookies, and other similar industry standard technologies to capture this information. A “cookie” is a small amount of data that is sent to your browser from a web server and stored on your computer or device. Among other things, cookies allow us to facilitate the administration and improve the effectiveness of our Sites as well as further tailor and enhance your experience to your interests. You may set your browser to decline cookies. If you do so, you may not be able to fully experience certain interactive features of our Sites.
+### 2. PERSONAL DATA WE COLLECT 
 
-We may also use third party analytics companies, such as Google Analytics or Adobe Analytics, to analyze the usage of our Site for internal purposes. These analytics companies may use cookies and other tracking mechanisms to collect data about how you use our Sites and provide us with aggregate information on such usage, which helps us improve the performance of our Sites. Please review  **[Google’s privacy policy](http://www.google.com/intl/en/policies/privacy/)**  or  **[Adobe’s privacy policy](http://www.adobe.com/privacy.html)**  to learn more about each company’s privacy practices.
+We gather Personal Data from you related to contact information, such as first and last names, home address, telephone number and email addresses, and your enquiry that you provide voluntarily when you fill in appropriate sections of our website or when you directly message us via our social media channels. We collect this or similar Personal Data, for example, when you complete our “Contact Us” section or otherwise enquire about product availability, nutrition and ingredients, or provide feedback.  We may also collect similar Personal Data when you enter a competition via our Sites, on pack promotions or through social media.  We also may collect information contained in records of communications between you and us, including emails and text messages, and information regarding your marketing preferences.  You may also provide us with Personal Data via consumer reviews or other online forums.  
 
-We may also permit other third parties to gather information automatically on our Sites for advertising purposes, as described below in  **[Interest-Based Advertising.](http://www.campbellsoupcompany.com/privacy-policy/#advertising)**
+We may collect biographical and contact information from you when you apply for a job to work with us.  Please refer to our **[Privacy Notice for Job Applicants](http://kelsen.com/en-US/Job_Applicant_Privacy_policy.aspx)** for further information, including how we process this Personal Data and our legal bases for doing so.  Job applicants should refer to our website at www.kelsen.com.  
 
-### Geolocation Information
+We also collect technical information (to the extent such information constitutes Personal Data) through your activity and use of the Sites.  For example, we collect information about the devices you have used (such as the IP address you use to connect your device to the internet and the browser type and version you use on your device); and information about your use of the Site and any services we offer (such as the pages you have viewed).  We may receive information from other sources, such as information from any of the other Sites we operate or the services we provide, if you use any of them. 
 
-Our Sites may collect information on your specific location to provide location-based services, such as assisting you in finding stores that carry our products or identifying special offers that may be of interest to you. In order for our Sites to identify your location, you must enable this functionality through your device settings to allow the use of cell tower proximity, GPS, Wi-Fi or other similar technologies. You may opt-out of the continued collection and use of this information by adjusting the settings on your device. We have no control over your device’s settings to allow these technologies to collect and use geolocation data.
+If you provide us with Personal Data about another person, you must ensure that before you provide us with their Personal Data, you have their agreement to do so and that they are aware of the ways in which we use Personal Data as set out in this Privacy Notice.
 
-### Information Collected From Other Sources
+### 3. PURPOSES AND LEGAL BASES FOR PROCESSING YOUR PERSONAL DATA
 
-We may also collect similar or additional information about you from other sources, including public databases and data aggregators. This information may include purchase behavior, market research data or publicly observed data via online activities, such as blogs, social media or other user generated content sites. We may combine this information with other information we collect from you to customize and improve the relevancy of our online services to you.
+Our main aim in gathering your Personal Data is to provide you with a customised service.  In particular, your Personal Data may be used by us, our employees and service providers and disclosed to third parties for the following purposes.  For each of these purposes, we have set out the legal basis on which we process your Personal Data.
 
-We may use your information in accordance with this Privacy Policy, including, without limitation:
+### Purpose
 
-  * to respond to your inquiries, forward information you request and provide other customer service;
-  * to send you relevant administration information regarding our Sites;
-  * to supply you with newsletters, promotional emails about us and our partners, product information, event-related news and surveys and samples if you request to receive such communication from us;
-  * to communicate with you about our sweepstakes, contests, loyalty and rewards programs, coupons, rebates, premiums and other promotions which you have entered or joined or for which you have requested information, including for the purpose of notifying you if you win;
-  * to identify your consumer review on our Sites, if you provide your information for disclosure;
-  * to complete a transaction and fulfill your order;
-  * to conduct research and perform analysis in order to measure, maintain, protect, develop and improve our products and services;
-  * to detect, investigate and prevent activities that may violate the law or our policies;
-  * to target relevant advertising to you when you visit our Sites or other third party websites;
-  * to provide you with a personalized consumer experience on our Sites; and
-  * to otherwise maintain and optimize the online services our Sites provide to you.
+| 
 
+### Legal Basis  
+  
+---|---  
+To provide the website to you. | This is in our legitimate interest (i.e., the provision of the website to you), c.f. GDPR 6(1)(f).  
+To provide you with the services we offer (including any promotions, sweepstakes or contests). | This is in our legitimate interest (i.e., the provision of the services to you), and depending on the circumstances, to perform a contract between you and us, c.f. GDPR 6(1)(f).  
+To communicate with you and other individuals and to carry out your requests and respond to your communications. | This is in our legitimate interest (i.e., the provision and support of the website and service), c.f. GDPR 6(1)(f).  
+To carry out our obligations arising from any contracts entered into between you and us. | This is to perform a contract between you and us, c.f. GDPR 6(1)(b).  
+To notify you about changes to the website. | This is in our legitimate interest (i.e., the provision of the website and service), c.f. GDPR 6(1)(f).  
+To audit and monitor the use of the website and to improve the quality of the website. |  This is in our legitimate interest (i.e., the provision of the website and service, as well as to improve and support the security of the website and those services), c.f. GDPR 6(1)(f). 
 
+We may request your consent in circumstances where a legal justification over and above legitimate interests is required by applicable law (e.g., in relation to our use of certain cookies), c.f. GDPR 6(1)(a).  
+  
+To manage complaints, feedback and queries. | This is in our legitimate interests (i.e., the provision and support of the website and service and improvements and development of our business operations), c.f. GDPR 6(1)(f).  
+To carry out satisfaction surveys and analysis. | This is in our legitimate interests (i.e., the provision and support of the website and service and improvement and development of our business operations), c.f. GDPR 6(1)(f).  
+To provide you with information about the services we offer in accordance with your preferences as indicated (this may include sending you marketing information for products or services of a promotional partner on that partner’s behalf), including any marketing consent preferences. | We can do this based on your consent, c.f. GDPR 6(1)(a).  
+To comply with any legal or regulatory obligations (including in connection with a court order and establishing, exercising or defending legal claims). |  This is in our legitimate interests (i.e., protection of our business, employees and customers) and for compliance with legal obligations to which we are subject, c.f. GDPR 6(1)(f).  
+To enforce or apply the agreements concerning you (including agreements between you and us). |  This is in our legitimate interest (i.e., protection of our business, employees and customers), c.f. GDPR 6(1)(f).  
+  
+    
+We may also aggregate Personal Data to create statistics for the purposes of monitoring website usage in order to help us develop the website and our services and may provide such aggregated statistical information to third parties.  These statistics do not include information that identifies an individual. 
 
-We may share your information among our brands, affiliates and subsidiaries. We also hire third parties to perform services on our behalf and may share your information with them. These third parties are obligated to keep your information confidential and only use it as necessary to perform such services. For example, we may share your information with our agencies to help us administer a sweepstakes or other promotion; deliver content, samples, products, gifts and prizes; or provide you with customer service. When you make a purchase on our Sites, we may share your payment information with our online payment processor to fulfill your order. We do not rent, sell or trade your information to third-party marketers for commercial purposes without your consent.
+### 4. SHARING YOUR PERSONAL DATA
 
-We may also share your information when we believe it is necessary to comply with the law or a government request; to prevent damage or injury to us or others; or to protect our rights. For example, we reserve the right to and may disclose your information in response to requests from local, state or federal law enforcement officials; any judicial, administrative or similar proceeding or order, such as a subpoena; to investigate suspected fraud, harassment, physical threats or other violations of our Site policies or the rights of third parties; or to investigate any suspected misconduct.
+We may share your Personal Data within the Kelsen Family and certain selected companies.  By “Kelsen Family,” we mean the companies within the same group as Kelsen, including our parent company, The Campbell Soup Company, and our affiliates.  The selected companies are those that provide technical assistance and perform other functions to support our marketing and consumer care activities.  These third-parties include IT service providers, consumer care operations, and marketing and promotions agencies.  In some cases, third party providers may act as Data Controller with respect to your Personal Data and in those instances, we suggest you review their privacy notices.
 
-We may also share your information in connection with a merger, acquisition, sale or reorganization or the potential thereof, including with our successors in business and purchasers of Site assets, or with our parent or affiliate companies for corporate reporting.
+The selected companies may have access to Personal Data if needed to perform such functions, but will only be permitted by us to use such Personal Data for the purpose of performing that function (which may include one to which you have expressly given your consent) and not for any other purpose.
 
-## HOW WE PROTECT YOUR INFORMATION
+We may transfer your personal information to a third party as part of a sale of some or all of our business and assets to any third party or as part of any business restructuring or reorganisation, or if we are under a duty to disclose or share your personal information in order to comply with any legal obligation or to enforce or apply our terms of use or to protect the rights, property or safety of our customers. However, we will take steps with the aim of ensuring that your privacy rights continue to be protected.
 
-The security of your information is important to us. We have undertaken commercially reasonable efforts to prevent unauthorized access to the visitor data we retain. However, due to the inherent open nature of the Internet, we cannot ensure or warrant the security of any information you transmit to us or any information provided online, and you do so at your own risk. By using our Sites, you accept all risks associated with any data transmission, including the risk that your information may be intercepted in transit and agree that we will not be liable for disclosures of your information due to errors in transmission or unauthorized acts of third parties.
+  
+We reserve the right to use or disclose any personal information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfil your requests, or to cooperate in any law enforcement or regulatory investigation. We do not sell, or rent Personal Data we have collected from you in connection with our website activities to third parties.
 
-## INTEREST-BASED ADVERTISING
+### 5. TRANSFERING YOUR PERSONAL DATA OUTSIDE OF THE EU/EEA
 
-We may allow third parties to use cookies and other online tracking tools to better understand your behavior and browsing activities, so that we can serve you targeted advertising (also referred to as “interest-based advertising”) while on our Sites and display our ads to you when you visit other sites. These third parties may passively collect information with these tools so that content specific to your interests can be delivered to you online. To learn more about interest-based advertising, visit  **[www.aboutads.info](http://www.aboutads.info/)**. To manage your preferences or opt-out of interest-based advertising, please click here  **[www.aboutads.info/choices](http://www.aboutads.info/choices/)**.
+We may transfer the personal information we collect about you outside of the European Union/European Economic Area (“EU/EEA”), for example, to our parent company, the Campbell Soup Company (“Campbell”), and our affiliates under the same parent company ("Affiliates") situated outside the EU/EEA.  Data protection law imposes restrictions on the transfer of personal data outside of the EU/EEA, but such transfers can be made if the country to which we transfer the data has an adequate level of protection for your rights, there are appropriate safeguards, such as standard contractual clauses in place allowing the transfer to take place, you have provided your consent or the transfer is necessary for reasons set out in the data protection laws.
 
-You can prevent your receipt of interest-based ads by deleting and declining cookies in your browser. If you block cookies, certain features on our Sites may not work. Please note that cookie-based opt-outs are not effective on mobile applications. However, on many mobile devices, application users may opt-out of certain mobile ads via their device settings.
+If we transfer your information outside of the EU/EEA to a third country without an adequacy decision by the European Commission, we will take appropriate measures so that your privacy rights continue to be protected as outlined in this Privacy Notice.  We use standard clauses to transfer to companies in the Kelsen family.  
 
-Some browsers offer a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. Our Sites do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+### 6. SECURITY AND RETENTION OF YOUR PERSONAL DATA 
 
-Our Sites may provide you with the ability to register, log on to, “like” or otherwise interact with social media services, such as Facebook, Instagram, Twitter, Pinterest or YouTube. We do not control these social media services or your profiles on these services, and we do not establish privacy settings or rules for how your information on such services will be used. If you choose to log on to or submit information through any of these social media services, your information will be subject to the applicable social media service’s privacy policy. You are encouraged to read such policy to learn more about how the social media service will handle your information. By accessing any social media service, you will be assuming the risk that the information you provide on that service may be viewed and/or used by us or third parties for any purpose. You agree that we are not responsible for any acts or omissions by these social media service providers.
+The internet is not a secure medium and Kelsen cannot guarantee the security of your personal information provided over the internet.  As such, any transmission of personal information is at your own risk.  We use reasonable efforts to implement procedures and security features to help maintain the security of your Personal Data from unauthorized access.
 
-## OPTING OUT OF COMMUNICATIONS
+We will retain your personal information for different periods of time depending on the reason why it was collected or as long as the law requires.  
 
-You may exercise your opt-out rights to stop receiving our promotional communications by:
+### 7. YOUR RIGHTS AS A DATA SUBJECT
 
-  * Clicking the “unsubscribe” link in the footer of any promotional electronic message from us and following the on-screen directions. If you created an online account with us, you may log-in to the applicable Site and make changes to your communications preferences. We may still need to contact you for administrative or transactional purposes.
-  * You may also contact us as provided below under  **[Contact Us](http://www.campbellsoupcompany.com/connect-with-campbell/)**  to make your opt-out request. Be sure to specify the Site and how you want to change, update or limit our use of your information.
+To create transparency about our processing of your Personal Data, we must inform you of your rights. Under certain circumstances, you have the right to:
 
+a) **Request access** to your personal information (commonly known as a “data subject access request”). This enables you to receive a copy of the personal information we hold about you and to check that we are lawfully processing it.  
+b) **Request correction** of the personal information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.  
+c) **Request erasure** of your personal information. This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal information where you have exercised your right to object to processing (see below).  
+d) **Object to processing** of your personal information where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground. You also have the right to object where we are processing your personal information for direct marketing purposes.  
+e) **Request the restriction** of processing of your personal information. This enables you to ask us to suspend the processing of personal information about you, for example if you want us to establish its accuracy or the reason for processing it.  
+f) **Request the transfer** of your personal information to another party (also known as data portability).
 
+You also have the right to withdraw your consent at any time where we rely on consent to use your personal information.  If you wish to exercise one or more of the rights mentioned above, please contact privacy@kelsen.com.
 
-We will endeavor to accommodate your requests in our own databases as soon as we can reasonably do so. We are not responsible for removing your information from the lists of any third parties who have previously been provided your information in accordance with this Privacy Policy.
+You also have the right to lodge a complaint with the local data protection authority (Datatilsynet), if you believe or suspect that we process your Personal Data in an unlawful manner.  You can reach Datatilsynet at Borgergade 28, 5, 1300 Copenhagen, or by telephone at +45 3319 3200, or by email at dt@datatilsynet.dk.
 
-## CHILDREN’S PRIVACY POLICY
+### 8. CHILDREN 
 
-We recognize the need to provide further privacy protections for children. While most of our Sites are intended for adults, certain Sites may be directed to children. This Children’s Privacy Policy describes our practices with respect to the online collection of personal information from children under the age of 13.
+Kelsen does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for its Sites or services Sites may provide.  If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address.  
 
-### What We Collect From Children and How We Use It
+### 9. COOKIES
 
-We do not require children to share any personal information in order to participate on our child-directed Sites. Children can surf, view content, play games and enjoy many features of our child-directed Sites without providing any personal information. If a child wants to use a Site for special activities, like earning badges, we may ask the child to “join” the Site. A child can join the Site anonymously by providing us with a username and password. On our child-directed Sites with the ability to enter a user name, we advise children not to provide any personal information in their username.
+A cookie is a text file we may transfer to your hard drive through your web browser (e.g., Internet Explorer, Firefox, Chrome, Safari, Opera, etc.) when you visit our Sites.  Cookies allow us to recognize you when you visit the Site and therefore improve our service to you by remembering your preferences.  Cookies may also be used to compile aggregate information about use of our sites, for example, the areas of our Sites which are visited most frequently.  This aggregate information can be used to enhance the content of our Sites and make your use of them easier.  If you wish to reject our cookie, you may configure your browser to do so.  However, if you do so, you may not be able to use certain features on our website.  For further information, please see our **[Cookie Notice.](http://kelsen.com/en-US/Cookie_Notice_\(ENG\).aspx)**
 
-On occasion, however, we may collect personal information, such as an email address, from children as part of an activity. For example:
+### 10. CHANGES TO THIS PRIVACY NOTICE 
 
-  * **Email address:**  We may collect a child’s email address via our child-directed Sites in order to respond to a one-time request from the child, such as if the child asks us a question. In this case, we delete the child’s email address from our system once we have responded, and we do not use the child’s email address for any other purpose.
-  * **Send-a-friend:**  In the case of send-a-friend card or email service via our child-directed Sites, we may collect the friend’s email address to send the card/email. We do not store the friend’s email address for any longer than reasonably necessary to send the card/email.
-  * **Contests or Sweepstakes:**  We may collect a child’s email address to enter the child in a sweepstakes or contest via our child-directed Sites, and then use this email address to notify the child that he or she has won or lost that sweepstakes or contest. For certain promotions, we may require that a child give us his/her parent’s email address so we can obtain more information from the parent for prize fulfillment purposes; to tell the parent whether the child has registered in a promotion; or to notify and obtain consent from the parent if we need to collect more than a child’s email address to enter the child in the promotion.
+We may update this Privacy Notice at any time, and we last updated this Privacy Notice on May 25, 2018. 
 
+### 11. LINKS
 
+This Site may contain hypertext links to other sites, which are not under our control.  We are not responsible for the privacy practices of such other websites and we advise you to read the privacy policies of each website you visit which collects personal data.
 
-We will not collect other personal information from a child, such as a postal address or telephone number, without the consent of a parent or guardian. If parent or guardian consent is required, we will collect the email address of the parent or guardian so we can provide notice of our information practices and/or seek the consent of the parent or guardian. We will not condition a child’s participation in any online activity on the child’s disclosure of more personal information than is reasonably necessary to participate in and operate that activity.
+### 12. QUESTIONS OR COMPLAINTS
 
-We may also collect information using automated tools solely to support the Site’s internal operations, including maintaining, securing, and analyzing the functioning of the Site. For example, we may collect this information to recognize returning visitors, understand and monitor usage of the Site, customize content on the Site, and otherwise improve performance of the Site. We do not permit interest-based advertising on our Sites directed to children.
-
-### Special Circumstances for Information Sharing and Platform Security
-
-We may share a child’s personal information with third parties if we are required to do so by law or to the extent reasonably necessary to protect the security or integrity of our Sites; take precautions against liability; or to respond to judicial process or requests from other governmental authorities. We also may share personal information collected from children with vendors that perform services for us. These services may include hosting our Sites, providing other technical services to us, fulfilling requests, or administering promotions. Such vendors are obligated to protect the confidentiality of the personal information we share with them. We may also share personal information if CSC reorganizes or transfers ownership, including with those who may purchase our Site assets, or with other parts of the company for corporate reporting.
-
-### Parents Rights
-
-Under the Children’s Online Privacy Protection Act (“COPPA”), parents have the right to review and have their child’s personal information deleted from our records. Parents also have the right to tell us to stop collecting or using their child’s personal information. To exercise these options, parents may email, call, or write to us via the information listed in the [Contact Us](http://www.campbellsoupcompany.com/connect-with-campbell/) section below. Please reference “COPPA Information Request.”
-
-## OTHER IMPORTANT INFORMATION
-
-**Links to Other Sites**
-
-Our Sites may contain links to other sites, including to those of our affiliates or third party entities that may contain a different privacy statement. These sites may also refer you back to our Sites. We recommend that you read the privacy statements of each site you visit to understand the site’s privacy practices. We are not responsible for the privacy practices of sites that do not link to this Privacy Policy.
-
-### Privacy Policy Modifications
-
-We reserve the right to modify or replace this Privacy Policy at any time. Please check back periodically to ensure that you are aware of any such modifications. We will indicate below the date we last updated this Privacy Policy. Your continued use of this Site following the posting of any changes to this Privacy Policy means you accept such changes.
-
-### Your California Privacy Rights
-
-California Civil Code Section 1798.83 (the “Code”) permits users who are California residents to request certain information regarding the disclosure of personal information to third parties which is used for their direct marketing purposes. To make such a request, to which we shall respond to the extent required by the Code, send us correspondence with your name, postal address and email, referencing “California Privacy Rights,” via any of the methods provided in the  **[Contact Us](http://www.campbellsoupcompany.com/connect-with-campbell/)**  section below.
-
-### United States of America
-
-This Site is maintained in and governed by the laws of the United States of America. By using this site, you authorize the export of your personal information to the USA and its storage and use as specified in this Privacy Policy.
-
-### Consent to Our Terms of Use and Privacy Policy
-
-Your use of our Sites is subject to our  **[Terms of Use](http://www.campbellsoupcompany.com/terms-of-use/)** , which you agree to by using or accessing our Sites. If you do not agree to these Terms, please refrain from using our Sites and providing us with any information.
-
-If you have any questions or concerns about this Privacy Policy or our collection or handling of your personal information, please contact us at:
-
-Campbell Soup Company One Campbell Place Camden, NJ 08103-1799 Attention: General Counsel, Legal Department You may also call us at 1-800-257-8443. Our phone lines are staffed from 9 a.m. – 7 p.m. Eastern Time, Monday through Friday. Please also feel free to email us anytime by visiting our  **[Consumer Response Center](http://www.campbellsoupcompany.com/connect-with-campbell/)**.  **Effective Date:**  This Privacy Policy is effective and was last updated on May 07, 2015.
+If you have any questions about this Privacy Notice or if you wish to exercise your rights as a data subject, please contact us at privacy@kelsen.com.  We can also be reached at our registered address:  Kelsen A/S Group, c/o Privacy Notice – IT Lead, Bredgade 27, DK - 8766 Nr. Snede, Denmark.  
