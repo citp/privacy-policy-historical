@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the god.tv privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610013515id_/https%3A//www.god.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the god.tv privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209094514id_/https%3A//www.god.tv/privacy-policy) for the most accurate reproduction.*
 
 # GOD TV
 
-What information we collect and how. 
+### What information we collect and how. 
 
 GOD TV understands that your privacy is important to you and that you care about how your personal data is used. We respect and value the privacy of everyone who visits this website, god.tv (“Our Site”) and as described in Parts 5 and 6, below, we do not collect personal data about you unless you contact us. Any personal data we do collect will only be used as permitted by law.
 
