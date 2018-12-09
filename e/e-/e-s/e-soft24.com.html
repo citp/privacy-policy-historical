@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the e-soft24.com privacy policy that was archived on 2018-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180405010036id_/http%3A//www.e-soft24.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the e-soft24.com privacy policy that was archived on 2018-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181209035414id_/http%3A//www.e-soft24.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -81,89 +81,8 @@ var nsCode=1;
  			<li><a href="http://www.e-soft24.com/contact-us.html">Contact Us</a></li>
     </ul>
     </div>
-        <script language="JavaScript1.2" type="text/javascript">
-        function verify(form)
-        {
-           var passed = false;
-        var blnRetval, intAtSign, intDot, intComma, intSpace, intLastDot, intDomain, intStrLen;
-        if (form.subscribers_email_address){
-                       intAtSign=form.subscribers_email_address.value.indexOf("@");
-                        intDot=form.subscribers_email_address.value.indexOf(".",intAtSign);
-                        intComma=form.subscribers_email_address.value.indexOf(",");
-                        intSpace=form.subscribers_email_address.value.indexOf(" ");
-                        intLastDot=form.subscribers_email_address.value.lastIndexOf(".");
-                        intDomain=intDot-intAtSign;
-                        intStrLen=form.subscribers_email_address.value.length;
-                // *** CHECK FOR BLANK EMAIL VALUE
-                   if (form.subscribers_email_address.value == "" )
-                   {
-                alert("You have not entered an email address.");
-                form.subscribers_email_address.focus();
-                passed = false;
-                }
-                // **** CHECK FOR THE  @ SIGN?
-                else if (intAtSign == -1)
-                {
-
-                alert("Your email address is missing the \"@\".");
-                        form.subscribers_email_address.focus();
-                passed = false;
-
-                }
-                // **** Check for commas ****
-
-                else if (intComma != -1)
-                {
-                alert("Email address cannot contain a comma.");
-                form.subscribers_email_address.focus();
-                passed = false;
-                }
-
-                // **** Check for a space ****
-
-                else if (intSpace != -1)
-                {
-                alert("Email address cannot contain spaces.");
-                form.subscribers_email_address.focus();
-                passed = false;
-                }
-
-                // **** Check for char between the @ and dot, chars between dots, and at least 1 char after the last dot ****
-
-                else if ((intDot <= 2) || (intDomain <= 1)  || (intStrLen-(intLastDot+1) < 2))
-                {
-                alert("Please enter a valid Email address.\n" + form.subscribers_email_address.value + " is invalid.");
-                form.subscribers_email_address.focus();
-                passed = false;
-                }
-                // *** CHECK FOR BLANK NAME VALUE
-                else if (form.subscribers_name.value == "" )
-                   {
-                alert("Please enter your name!");
-                form.subscribers_name.focus();
-                passed = false;
-                }
-                else {
-                        passed = true;
-                }
-        }
-        else    {
-                passed = true;
-        }
-        return passed;
-  }
-        //-->
-  </script>
-    <div class="thebox s_font">
-    <h4>Newsletter</h4>
- 		<strong>Note:</strong> Registered customers go to <a href="https://www.e-soft24.com/account-newsletters.html">Your Account</a> to subscribe. <br>
-         <form name="newsletter" action="https://www.e-soft24.com/subscribe.html" method="post" onsubmit="return verify(this);">
-           <p>E-Mail Address: <input type="text" class="txt" name="subscribers_email_address" value="" maxlength="80"></p>
-           <p>Your Name: <input type="text" class="txt" name="subscribers_name" value="" maxlength="100"></p>
-           <input type="submit" class="btn" name="Submit" value="Subscribe">
-         </form>
-    </div>
-        <script language="javascript">
+    
+    <script language="javascript">
       function NewWindow(mypage,myname,w,h,scroll){
       LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
       TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
