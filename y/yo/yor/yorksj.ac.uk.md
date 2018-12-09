@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yorksj.ac.uk privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527173145id_/https%3A//www.yorksj.ac.uk/about/departments--directorates/directorate-of-marketing--student-recruitment/about-our-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yorksj.ac.uk privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209153606id_/https%3A//www.yorksj.ac.uk/about/departments--directorates/directorate-of-marketing--student-recruitment/about-our-website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | York St John University
 
