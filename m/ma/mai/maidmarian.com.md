@@ -1,81 +1,317 @@
-> *The following text is extracted and transformed from the maidmarian.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616172934id_/http%3A//www.maidmarian.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maidmarian.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209151421id_/http%3A//maidmarian.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Maid Marian MMORPG - Massive Multiplayer Web Games
+# Sherwood Dungeon
 
-[**Home**](https://web.archive.org/web/20180616172934id_/http%3A//www.maidmarian.com/free-mmorpg.htm)
+**Privacy Policy**
 
-About Us  
-[News](https://web.archive.org/web/20180616172934id_/http%3A//www.maidmarian.com/news.htm)  
-[Press Releases ](https://web.archive.org/web/20180616172934id_/http%3A//www.maidmarian.com/pressreleases.htm)
+Effective date: August 01, 2018
 
-[Sherwood](https://web.archive.org/web/20180616172934id_/http%3A//www.maidmarian.com/SherwoodLanding.htm)  
-[Club Marian](https://web.archive.org/web/20180616172934id_/http%3A//www.maidmarian.com/ClubMarianLanding.htm)  
-[Moon Base](https://web.archive.org/web/20180616172934id_/http%3A//www.maidmarian.com/MOONBASE.htm)  
-[Tank Ball ](https://web.archive.org/web/20180616172934id_/http%3A//www.maidmarian.com/Tank.htm)  
-[Ratinator](https://web.archive.org/web/20180616172934id_/http%3A//www.maidmarian.com/Ratinator3.htm)  
-[Colin's Carrera](https://web.archive.org/web/20180616172934id_/http%3A//www.maidmarian.com/carrara.htm)
+This Privacy Policy sets out the privacy policies and practices for Maid Marian Entertainment Inc. ("us", "we", or "our") with respect to the collection, use, and disclosure of personal data when you use our websites or software applications (the "Service") and the choices you have associated with that data.
 
-[Screen Shots  
-](https://web.archive.org/web/20180616172934id_/http%3A//www.maidmarian.com/visuals.htm) [Developer Diary  
-](https://web.archive.org/web/20180616172934id_/http%3A//www.maidmarian.com/DevDiary.htm) [Linking Policy](https://web.archive.org/web/20180616172934id_/http%3A//www.maidmarian.com/LinkingPolicy.htm) [Terms of Service  
-](https://web.archive.org/web/20180616172934id_/http%3A//www.maidmarian.com/TermsOfService.htm) [Privacy Policy  
-](https://web.archive.org/web/20180616172934id_/http%3A//www.maidmarian.com/PrivacyPolicy.htm)
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. 
 
-|  | 
+Definitions
 
-> **Effective Date: 11th of January, ****2010** **Introduction** This is the privacy policy of Maid Marian Entertainment Inc. and applies to all of the websites on which it appears. We are committed to protecting your privacy. We may change this policy at any time. Please check it whenever you return to the site. We will treat your continued use of our websites as acceptance of these changes from their effective date as shown above. If you have any questions about this privacy policy, please contact the Privacy Officer, Gene Endrody, by emailing [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#c681a3a8a383a8a2b4a9a2bf86a1aba7afaae8a5a9ab) and do not use our websites until you are satisfied and can accept this policy in its entirety. **Information Collection and Use** Maid Marian Entertainment collects personal information when you register with MaidMarian.com, when you use Maid Marian Entertainment products or services, and when you visit MaidMarian.com pages or the pages of certain Maid Marian Entertainment partners.
-> 
-> When you register we ask for information such as a user selected character name, email address and password. Once you register with Maid Marian Entertainment and sign in to our services, you are not anonymous to us. 
-> 
-> Maid Marian Entertainment collects information about your transactions with us and with some of our business partners. 
-> 
-> Maid Marian Entertainment automatically receives and records information on our server logs from your browser, including your IP address, Maid Marian Entertainment cookie information, and the page you request. 
-> 
-> Some of our games allow player to player communication through chat features imbedded in the games. For the protection of your privacy, we recommend that you do not provide personal information to other users via the chat features of the games.
-> 
-> **Details on Use of Information:** Maid Marian Entertainment gathers user information to provide you with a customized experience on our sites. Your user information helps us tailor the content, services, goods and advertising to your current and future needs. For this reason, if you are 13 or older we will ask you to provide personal information when you first sign-up for games on MaidMarian.com. This personal information includes email, a user selected character name and password. If you choose not to register, you may not have access to areas that require personal identification. **E-mail:**  
->  If you register with our site or purchase products from us, from time to time, we may e-mail you with informative messages about our services, such as new features and services, special offers and updated information. The newsletters may contain code that enables our database to track your usage of the newsletters, including whether the email was opened and/or what links (if any) were clicked. We will combine that information to other information we have about you and may use that information to improve your site experience and/or provide customized e-mail communications to you. If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect such information into a file specific to you. Personal correspondence is never shared with anyone else without your prior consent, unless required by law. **Registration:**  
->  When you register, Maid Marian Entertainment asks for your e-mail address, a user-selected character name and password. We also ask for your date of birth to ensure that you are over the age of 13 and agree to the Terms of Service. Children under the age of 13 are not eligible to register and we do not collect or store any personal information from children.  **Privacy of Minors and Children** We are committed to comply with the requirements of the Children's Online Privacy Protection Act of 1998 (“COPPA”). COPPA defines a "Child" as anyone under the age of 13. Children are not eligible to use the site unsupervised. If you are under the age of 13, you may only use this site in conjunction with and under the supervision of your parents or guardians. Parents are required to use their email address for registration as we do not collect or store any personal information from children. If you are a parent or guardian and discover that your child under the age of 13 has registered for an account you may alert us to have the account and any related private information deleted from our servers. Internet safety experts have advised that children do not fully appreciate the risk of providing too much personal information online or communicating with strangers they encounter online.
-> 
-> While we appreciate that children may want to use our websites, we urge parents to instruct their children not to lie about their age so as to be able to use our websites before they are old enough. We want to remind parents that they need to spend time with their children and take an active role in their safety online and offline. They should work to help teach them not to give out their real names, addresses or phone numbers, without permission, when using the Internet.
-> 
-> Each game includes an easily accessible Terms of Use / Rules of Conduct screen that contains the following Rules of Conduct for the game. Before starting the game, you will be asked to confirm that you are over the age of 13 and that you agree to the Terms of Service. If you decline the Rules of Conduct or Terms of Use, you will still be able to play the game however all player to player chat features will be disabled. The Rules of Conduct are as follows:
-> 
->   
-> 
-> 
-> **Rules of Conduct**
-> 
-> To keep the multiplayer games on MaidMarian.com safe and enjoyable for everyone, you must obey the following Rules of Conduct: **1.** MaidMarian.com is not intended for users under the age of 13 without adult supervision.  **2.** You must not use any language or choose a Player Name which may be considered by others to be offensive, racist or obscene. **3.** You must not use the chat to harass, threaten, scam or deceive other players. **4. ** You must NOT tell other players personal information, not even if they claim to be staff of MaidMarian.com **5.** You must not tell anyone your real name, email address, home address, messenger handle or phone number. **6.** You must not choose a Player Name that impersonates MaidMarian.com staff or other users, or which is deliberately confusing.  **7.** Chatting of a sexual nature or “cybering” is strictly forbidden in any of the games on MaidMarian.com.
-> 
-> We cannot guarantee that chat messages will not contain content that is inappropriate or offensive.
-> 
->   
->  **Other Information and Cookies** We use cookies, collect and store IP-addresses, alphanumeric IDs and other unique identifiers in order to identify specific computers that access our websites. Cookies are small text-only files that a website transfers onto your hard drive that assist us in providing our services. Most major websites use cookies. Cookies cannot be used by themselves to identify you.
-> 
-> We periodically generate and store logs indicating usage of our websites such as activity in our games and public and private chat communications. This includes monitoring play patterns and anti-tamper checks which verify the correct internal operation of our software and are designed to spot abusive or inappropriate activities.
-> 
-> We store 'save game' and 'game settings' information to enable us to provide a better games service in which your activities and achievements are remembered in the game.
-> 
->   
->  **Third Parties** This privacy policy only addresses the use and disclosure of information we collect on this website and does not apply to websites or services of other companies or organizations to which we link or which link to us or which provide goods or services to our users from their websites (such as co-branded, white label or affiliate sites or sites selling Game merchandise). 
-> 
-> We partner with outside third parties to provide specific services as follows.
-> 
-> We use outside companies to provide and serve the adverts on our website. These companies may use information not personally identifiable about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Our advertisers also use cookies and other proprietary technologies to better determine your advert-related interests and how to provide better services and features that meet your needs or interests.
-> 
-> We use outside companies to measure and provide us with website statistical data including number of visitors, page impressions, country of origin, referring website, browser information and other data typically collected to measure the growth or performance of a website. Cookies are used in the collection of this information, however no personally identifiable information is collected. 
-> 
-> **Notice to European Users  ** The information you enter on this Site or otherwise provide to Maid Marian Entertainment may be transferred outside of the European Union to the United States of America and Canada which does not offer an equivalent level of protection to that required in the European Union. In particular, you are advised that the United States of America and Canada uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. Article 26 of the European Union’s Data Protection Directive (Directive 95/46/EC, 1995 O.J. (L 281) 31) allows for transfer of personal data from the European Union to a third country if the individual has unambiguously given his consent to the transfer of personal information, regardless of the third country's level of protection. By agreeing to the terms of service and this privacy policy, you consent to the transfer of all such information to the United States of America and Canada which may not offer an equivalent level of protection to that required in the European Union and to the processing of that information by Maid Marian Entertainment Inc. on its servers located in the United States of America and Canada as described in this Privacy Policy.  **Contact Information**  
->  Privacy Officer: Gene Endrody  
->  Email: [**[email  protected]** ](https://web.archive.org/cdn-cgi/l/email-protection#6007050e05050e04120f041920070d01090c4e030f0d)
-> 
-> Address:
-> 
->  **Maid Marian Entertainment Inc.**  
->  812, 175 West 1st Street  
->  North Vancouver  
->  BC, Canada, V7M 3N9  
-> 
+  * **Service**
 
-|    
+Service is the websites and software applications for mobile devices or other devices provided by Maid Marian Entertainment Inc. The Service includes, but is not limited to: 
+
+  
+
+    * The http://www.MaidMarian.com website
+    * The http://www.SherwoodDungeon.com website
+    * The http://www.MMORPG.ca website 
+    * The Sherwood Dungeon game and software application
+  * **Personal Data**
+
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+
+  * **Usage Data**
+
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+
+  * **Cookies**
+
+Cookies are small pieces of data stored on your device (computer or mobile device).
+
+  * **Data Controller**
+
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
+
+For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+
+  * **Data Processors (or Service Providers)**
+
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.
+
+We may use the services of various Service Providers in order to process your data more effectively.
+
+  * **Data Subject (or User)**
+
+Data Subject is any living individual who is using our Service and is the subject of Personal Data.
+
+
+
+
+**Information Collection and Use**
+
+We collect several different types of information for various purposes to provide and improve our Service to you.
+
+**Types of Data Collected**
+
+**Personal Data**
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+
+  
+
+
+  * Email address
+  * Cookies and Usage Data
+  * Account Name and ID
+
+
+
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+**Usage Data**
+
+We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data. We may also collect information about your in-game actions for statistical purposes and to improve the Service.
+
+**Tracking & Cookies Data**
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+  * **Advertising Cookies.** Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+
+
+
+**Use of Data**
+
+Maid Marian Entertainment Inc. uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To prevent our servers from being abused
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
+
+**Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)**
+
+If you are from the European Economic Area (EEA), Maid Marian Entertainment Inc. legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+Maid Marian Entertainment Inc. may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it's not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+
+**Retention of Data**
+
+Maid Marian Entertainment Inc. will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Maid Marian Entertainment Inc. will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+**Transfer of Data**
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside Canada and choose to provide information to us, please note that we transfer the data, including Personal Data, to Canada and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Maid Marian Entertainment Inc. will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+**Disclosure of Data**
+
+**Business Transaction**
+
+If Maid Marian Entertainment Inc. is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+Disclosure for Law Enforcement
+
+Under certain circumstances, Maid Marian Entertainment Inc. may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+Legal Requirements
+
+Maid Marian Entertainment Inc. may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Maid Marian Entertainment Inc.
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+**Security of Data**
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+**"Do Not Track" Signals Under California Online Privacy Protection Act (CalOPPA)**
+
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+**Your Data Protection Rights Under General Data Protection Regulation (GDPR)**
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Maid Marian Entertainment Inc. aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+
+  * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+
+  * **The right to object.** You have the right to object to our processing of your Personal Data.
+
+  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+
+  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+
+  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where Maid Marian Entertainment Inc. relied on your consent to process your personal information.
+
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+**Service Providers**
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+**Analytics**
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  * **Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+
+
+
+**Advertising**
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+
+  * **Google AdSense & DoubleClick Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
+
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+
+
+
+
+**Behavioral Remarketing**
+
+Maid Marian Entertainment Inc. uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+  * **Google AdWords**
+
+Google AdWords remarketing service is provided by Google Inc.
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+
+
+
+**Payments**
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+  * **Apple Store In-App Payments**
+
+Their Privacy Policy can be viewed at <https://www.apple.com/legal/privacy/en-ww/>
+
+  * **Google Play In-App Payments**
+
+Their Privacy Policy can be viewed at <https://www.google.com/policies/privacy/>
+
+  * **PayPal or Braintree**
+
+Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
+
+  * **Fortumo**
+
+Their Privacy Policy can be viewed at <https://fortumo.com/privacy-policy/>
+
+
+
+
+**Links to Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+**Children's Privacy**
+
+Our Service does not address anyone under the age of 16 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 16. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+**Changes to This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us:
+
+Contact Information 
+
+Privacy Officer: Gene Endrody   
+Email: [geneendrody@gmail.com](https://web.archive.org/cdn-cgi/l/email-protection#d1b6b4bfb4b4bfb5a3beb5a891b6bcb0b8bdffb2bebc)
+
+Address:  
+Maid Marian Entertainment Inc.  
+812 - 175 West 1st Street  
+North Vancouver, B.C.  
+Canada, V7M 3N9
+
+  
+
