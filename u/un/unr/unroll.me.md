@@ -1,128 +1,153 @@
-> *The following text is extracted and transformed from the unroll.me privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519223102id_/https%3A//unroll.me/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unroll.me privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209232744id_/https%3A//unroll.me/legal/privacy) for the most accurate reproduction.*
 
 # Unroll.Me
 
-_Last updated on October 20, 2016_
+_Last updated on September 13, 2018_
 
-Unrollme Inc. (“Unroll.me”) respects your concerns about privacy. This Privacy Notice applies to information we collect through our websites and services. By using our websites and services you agree to our collection, use, disclosure and transfer of information as described here. 
+Data security and privacy are a priority for Unroll.me, a wholly-owned subsidiary of Slice Technologies, Inc. and its group companies (“Unroll.me” or “we”). This privacy policy describes: 
 
-This Privacy Notice describes the types of information we collect or receive, how we may use that information and with whom we may share it. The information we collect includes personal information and non-personal information, as such terms are defined below. 
-
-The Privacy Notice also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to (i) access, change or not use the personal information you have provided to us, (ii) withdraw any consent you previously provided to us, (iii) refrain from sending you email alerts, and (iv) answer any questions you may have about our privacy practices. 
-
-## Our Collection and Use of Personal Information
-
-Personal information is data that can be used to uniquely identify or contact a single person. You may choose to provide personal information to us when you use our websites. Because we change our offerings and features from time to time, the options you have to provide us with personal information also may change, but here are some examples of situations in which you may decide to provide personal information to us: 
-
-  * Registering with our websites 
-  * Creating an online account 
-  * Signing up for email alerts or subscribing to receive information 
-  * Completing a survey 
-  * Contacting us for any reason, such as by email, including for technical support or customer service 
-  * Using our websites or online services when personal information is required for use or participation 
+  * the information we collect through our websites, apps and other consumer-facing services (the “Service”); 
+  * how we use this information; 
+  * with whom we share it; 
+  * and how we protect it. 
 
 
 
-The personal information we collect from you will vary depending on the service you are using, the site you are visiting, and how you access it. However, the personal information you provide generally may include your name, email address, phone number (which may include mobile phone number), and postal address. 
+This privacy policy also provides you with information about: 
 
-Because we directly ask you to provide personal information in these cases, you often will be able to tell from our specific requests what types of information we receive from you. 
-
-We collect this information for reasons such as: 
-
-  * To provide you with access to the site, service or feature you requested 
-  * To offer you tailored content, such as ads 
-  * To provide you with technical support or customer service 
-  * To communicate with you, respond to your requests, or provide you with updates and information 
-  * To manage your account 
-  * To better understand our users, their interests and their preferences 
-  * To develop, deliver, and improve our products, services, and other offerings 
-  * 
+  * how you can request to access, stop the collection of, or delete your personal information (information that can be used to locate or identify you); 
+  * how to withdraw any consent you previously provided to us; and 
+  * where to go if you have questions about our privacy practices. 
 
 
-##  Our Collection and Use of Non-Personal Information 
 
-We also collect non-personal information − data in a form that does not permit direct association with any specific individual. We may collect, use, transfer, sell, and disclose non-personal information for any purpose. For example, when you use our services, we may collect data from and about the “commercial electronic mail messages” and “transactional or relationship messages” (as such terms are defined in the CAN-SPAM Act (15 U.S.C. 7702 et. seq.) that are sent to your email accounts. We collect such commercial transactional messages so that we can better understand the behavior of the senders of such messages, and better understand our customer behavior and improve our products, services, and advertising. We may disclose, distribute, transfer, and sell such messages and the data that we collect from or in connection with such messages; provided, however, if we do disclose such messages or data, all personal information contained in such messages will be removed prior to any such disclosure. 
+###  Information that we collect and how we use it 
 
-We may collect and use your commercial transactional messages and associated data to build anonymous market research products and services with trusted business partners. If we combine non-personal information with personal information, the combined information will be treated as personal information for as long as it remains combined. 
+We collect information from you in several ways. You directly provide us with some information about you, you authorize us to collect other types of information, and we automatically collect certain types of information. As described in the section “How We Protect Your Information,” after we collect your information, we undertake a process that is designed to de-identify this information, and we may further combine or aggregate this information with other information available to us or our trusted business partners. Once the information is processed, we use and/or share this data for research and business purposes, subject to applicable laws. 
 
-Aggregated data is considered non-personal information for the purposes of this Privacy Notice. 
+**Information you provide to us:** When you register for the Service, you provide us with basic contact information, such as name and email address. You may also provide us with information when you interact with us, such as: 
 
-##  Information Collected by Automated Means 
+  * when you sign up for email alerts, 
+  * subscribe to receive information, 
+  * complete a survey, or 
+  * seek customer support. 
 
-We may obtain certain personal and non-personal information by automated means when you visit our sites. The type of information we collect by automated means may vary, but generally includes technical information about your device, such as IP address or other device identifier. The information we collect also may include usage information and statistics about your interaction with our websites. That information may include the URLs of our web pages that you visited, URLs of referring and exiting pages, page views, time spent on a page, number of clicks, platform type, and other information about how you used our websites. 
 
-In cases where you use a mobile device to access our sites, we will receive information about the location of your device. In some cases, even if you are not using a mobile device, information about your general location may be discernable from your device’s IP address or the URLs we receive. If you access or use our sites or services with your mobile telephone, we may collect your telephone number. 
 
-Please note that if ads or other features on our site are provided by third parties, those parties also may use automated means of data collection that are subject to those third parties’ privacy notices and policies. 
+From time to time we will request additional information from you so that we can provide you with a specific offer, function, or feature. We use the information that you provide us to: 
 
-We use information we collect by automated means to understand our users and to determine their preferences. As a result, we can develop and deliver new or modified offerings, that are improved with our users’ preferences in mind. As described below, we also may use such information to provide a more personalized user experience and to manage advertising. 
+  * bring you the Service, 
+  * allow you to create and manage your account with us, 
+  * contact you about updates to and offers connected with the Service, 
+  * provide you with customer service and technical support, and 
+  * provide you with important notices about the Service. 
 
-Here are some of the types of automated data collection that may occur when you use our sites: 
 
-##  Web Browsers 
 
-When you visit one of our websites, your browser automatically sends us your Internet protocol (“IP”) address so that the web pages you request can be sent to your computer or device. We use your IP address to determine additional information, such as whether the computer or device has ever been used to visit our site before, which site features were used most often, and how much time was spent on a page. 
+**Information you authorize us to collect:** In order for us to perform tasks that are part of the Service, we need to access your email account(s). You authorize this access by agreeing to this privacy policy and providing any consent required by your email provider. 
 
-##  Cookies 
+We use this access to: 
 
-We may automatically collect information through “cookies,” which are text files placed on your device’s hard drive when you visit websites. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site. We use cookies, for example, for authentication purposes, to measure session activity on the site, and to determine which areas and features of the site are the most popular. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Without cookies, however, you may not be able to take full advantage of all our site features. 
+  * perform the functions of the Service, such as unsubscribing you from unwanted subscriptions and creating a roll-up of other subscriptions; 
+  * develop and offer new services; 
+  * tailor content as part of our Service such as in our roll-up summaries; and 
+  * support our market research business. 
 
-We also may use “flash cookies,” also called “local shared objects.” Like other cookies, flash cookies are files stored on your computer, but flash cookies can store information that is more complex than simple text. These cookies can be helpful to us in storing your preferences regarding feature settings and personalizing your experience. In some cases, local shared objects also are used to prevent fraud. Unlike “regular” cookies, browsers generally cannot be used to manage flash cookie placement. To learn more about managing flash cookies, you may wish to consult Adobe’s website and change the privacy settings they make available to users who wish to manage flash cookies. Like regular cookies, flash cookies improve your experience with our sites, so disabling them may limit or eliminate features we make available to you. 
 
-##  Web Beacons and Log Files 
 
-We may use “web beacons” (also known as Internet tags, pixel tags, tracking pixels, and clear GIFs) on pages of our websites. These web beacons allow third parties to collect information such as the IP address of the device, the URL of the web page, the time the page was viewed, the type of browser used, and any additional information in cookies that may have been set by the third party. The information is typically collected in log files, which generally track traffic on our websites. Purposes for this information collection may include managing our online advertising, including by determining which ads brought users to our websites. The information also is used for analytical purposes and to manage technical issues that may arise. We do not attempt to identify individual users through this information. 
+Specifically, we access information from transaction-related emails that you receive to develop and prepare market research datasets and analyses with the assistance of and, in combination with data that is available to, our parent company, our affiliate companies, and other trusted business partners. Examples of the transaction-related emails that we or our trusted business partners process include purchase receipts, sales receipts, delivery confirmations and returns, subscription confirmations and cancellations, registration confirmations, transaction summaries and the like. This market research is used by Fortune 500 companies, household name brands, and other businesses for purposes such as: 
 
-##  Do Not Track Browser Signals. 
+  * understanding industry and business trends; 
+  * improving the goods, services or offers provided to customers; 
+  * improving business operations; 
+  * understanding the competitive landscape; or 
+  * gaining other business insights. 
 
-At this time, the Unroll.me websites and services do not recognize automated browser signals regarding tracking mechanisms, which may include “do not track” instructions. However, you may be able to change your privacy preferences regarding the use of cookies and similar technologies through your browser, as described above. 
 
-##  Sharing of Information 
 
-We may share personal information we collect with our parent company, other affiliated companies, and trusted business partners. We also will share personal information with service providers that perform services on our behalf. Our non-affiliated business partners and service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. 
+**Information that we automatically collect.** We may automatically collect information about the way that you use or interact with our Service so that we can: 
 
-We also may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity, or (iv) if necessary to protect the vital interests of another individual. We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets. 
+  * tailor content within our Service, such as in roll-up summaries; 
+  * provide users with access to our website, app, service, or feature; 
+  * better understand our users, their interests and preferences; and 
+  * develop, deliver, and improve the services we offer. 
 
-As described in “Our Collection and Use of Non-Personal Information” above, we may collect, use, transfer, and disclose non-personal information for any purpose. 
 
-When you use our websites, you agree that we may share information about you as described in this Privacy Notice. 
 
-##  Your Choices 
+The type of information we collect through automated means include technical details about the devices you use with our Service (such as IP address or other device identifier), usage information and statistics about your interaction with our websites, the URLs of our web pages that you visit, URLs of referring and exiting pages, page views, time spent on a page, number of clicks, platform type, and other information about how you use our Service. 
 
-In certain cases, you may have choices about how we use and disclose your personal information. For example, we will ask you before we use your personal information for any purpose incompatible with those purposes identified in this Notice. If we provide you with any marketing messages, we also will give you an opportunity to opt out of receiving further messages. 
+Please note that if there are features of our Services that are provided by third parties, those parties also may use automated means of data collection that are subject to those third parties’ privacy notices and policies. 
 
-You can also choose not to give us the information we request, as described in the “Information You Provide to Us” section of this Notice. In some cases, if you decide not to provide information, we will not be able to provide you with access to the site you requested, or we may not be able to provide you with the service, feature or information you requested. 
+Here are some of the types of automated data collection that occur when you use our sites: 
 
-In some cases, you can stop or limit the information we collect by automated means. Please review the sections of this Notice titled “Information Collected by Automated Means” to learn more about how you may be able to stop or limit our receipt of that information. 
+**Web Browsers:** When you visit one of our websites, your browser automatically sends us your Internet protocol (“IP”) address so that the web pages you request can be sent to your computer or device. We use your IP address to determine additional information, such as whether the computer or device has ever been used to visit our site before, which site features were used most often, and how much time was spent on a page. 
 
-You may choose to opt out of interest-based ads in the settings page after logging in. You may also exercise and amend your choices by sending an email to us as specified in the “How to Contact Us” section below. 
+**Cookies:** We automatically collect information through “cookies,” which are text files placed on your device’s hard drive when you visit websites. Cookies can enhance your online experience by saving your preferences while you are visiting a particular site. We use cookies to help us manage and understand how you use our website. For example, we use cookies for authentication purposes, to measure session activity on the site, and to determine which areas and features of the site are the most popular. If you wish to disable cookies, you can do so by adjusting the settings for the browser that you use. If you do choose to disable cookies through your browser, you will not able to take full advantage of all our site features. 
 
-##  Access and Correction 
+**Web Beacons and Log Files:** We may use “web beacons” (also known as Internet tags, pixel tags, tracking pixels, and clear GIFs) on pages of our websites. These web beacons allow third parties to collect information such as the IP address of the device, the URL of the web page, the time the page was viewed, the type of browser used, and any additional information in cookies that may have been set by the third party. The information is typically collected in log files, which generally track traffic on our websites. We use web beacons to manage the content we present and for analytical purposes (such as understanding our users, and how they interact with our site, and assisting us in managing and improving our site and Service). We do not attempt to identify individual users through this information. 
 
-We will provide you with the ability to access and update certain information we have about you, such as your contact information. Your right to access or amend personal information may be limited in some circumstances. Please submit your request by sending an email to the address specified in the “How to Contact Us” section below. Please include your name, email address and postal address in your request so that we may respond appropriately and promptly. 
+**Do Not Track Browser Signals.** At this time, our Service does not recognize automated browser signals regarding tracking mechanisms, which may include “do not track” instructions. However, you may be able to change your privacy preferences regarding the use of cookies and similar technologies through your browser, as described above. 
 
-##  How We Protect Personal Information 
+###  Information That We Share 
 
-We maintain appropriate administrative, technical and physical safeguards to protect your personal information from accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing. No data transmissions through the Internet or via mobile devices, or even the physical transfer of information, can be guaranteed to be completely secure. We cannot fully eliminate all security risks associated with personal information. We do not ensure or warrant the security of any data or information you transmit to us, and you do so at your own risk. 
+We share the information we collect to the following: 
 
-##  Links to Other Sites 
+  * our parent company, who helps us process our data, and develop market research datasets and analyses; 
+  * our affiliated companies, who enhance our market research capabilities by combining the information that we collect with other information available to them; 
+  * third-party service providers that help us operate and improve our Service; 
+  * third-party service providers that help us collect, store and process data; 
+  * third-party business partners that work with us to develop and resell products; and 
+  * customers (including third parties and affiliates) that have access to our market research datasets and analyses. 
+
+
+
+We may also disclose information about you: 
+
+  * if we are required to do so by law or legal process, 
+  * to law enforcement authorities or other government officials, 
+  * when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity, or 
+  * if necessary to protect the vital interests of another individual. 
+
+
+
+Additionally, we reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets. 
+
+As described in the section “How We Protect Your Information,” after we collect your information, we undertake a process that is designed to de-identify this, and we may further combine or aggregate this information with other information available to us or our trusted business partners. Once the information is processed, we use and/or share this data for research and business purposes, subject to applicable laws. 
+
+###  How We Protect Your Information 
+
+Data security and privacy are a priority for us, and with the assistance of our parent company, our affiliated companies and other trusted business partners, we undertake a process that is designed to de-identify / aggregate the information that we collect, and we may further combine or aggregate this information with other information available to us or our trusted business partners. Once the information is processed, we use and/or share this data for research and business purposes, subject to applicable laws. 
+
+We maintain administrative, technical and physical safeguards to protect your personal information from accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing. This said, no data transmissions through the Internet or via mobile devices, or even the physical transfer of information, can be guaranteed to be completely secure. We cannot fully eliminate all security risks associated with personal information. As such, we do not ensure or warrant the security of any data or information you transmit to us, and you do so at your own risk. 
+
+###  Your Choices 
+
+In certain cases, you may have choices about how we use and disclose your personal information. For example, we will ask you before we use your personal information for any purpose incompatible with those purposes identified in this policy. If we provide you with any marketing messages, we also will give you an opportunity to opt out of receiving further messages. 
+
+You can also choose not to give us the information we request, as described in the “Information You Provide to Us” section of this policy. In some cases, if you decide not to provide information, we will not be able to provide you with access to the site you requested, or we may not be able to provide you with the service, feature or information you requested. 
+
+In some cases, you can stop or limit the information we collect by automated means. Please review the sections of this policy titled “Information Collected by Automated Means” to learn more about how you may be able to stop or limit our receipt of that information. 
+
+You may also exercise and amend your choices by sending an email to us as specified in the “How to Contact Us” section below. 
+
+###  Access and Correction 
+
+We will provide you with the ability to access and update certain information we have about you, such as the contact information you provide as part of your registration process. Please submit your request by sending an email to the address specified in the “How to Contact Us” section below. Please include your name, email address and postal address in your request so that we may respond appropriately. 
+
+###  Links to Other Sites 
 
 We may provide links to other sites for your convenience and information. These sites may be operated by organizations not affiliated with Unroll.me, so we cannot control and are not responsible for their content, operation, or privacy practices. Those organizations may have their own privacy policies, which we strongly suggest you review if you use other sites. This Notice does not apply to those sites, even if we link to them or they link to us. 
 
-##  Children’s Privacy 
+###  Transfers of Information 
 
-Unroll.me does not direct its websites to children, and we do not knowingly collect personal information from children. If we become aware that we have inadvertently received personal information from a user who is under the age of thirteen, we will delete the information from our records. 
+As part of our international operations, we may transfer information about you to a jurisdiction where we do business. Even if those jurisdictions do not have the same privacy laws as the jurisdiction where you reside, we will treat your information as subject to the protections described in this policy. 
 
-##  Transfers of Information 
+Our service is currently not offered to individuals from the European Union, and we have discontinued service for individuals that may have signed up from the European Union. 
 
-As part of our international operations, we may transfer information about you to any jurisdiction where we do business. Even if those jurisdictions do not have the same privacy laws as the jurisdiction where you reside, we will treat your information as subject to the protections described in this Notice. 
+###  Updates to Our Privacy Notice 
 
-If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal information to the United States by Unroll.me. By providing your personal information you consent to any transfer and processing in accordance with this Notice. 
+This privacy policy may be updated periodically to you to reflect changes in our information practices or relevant laws. We will indicate at the top of the policy when it was updated. Please review this Notice any time you access or use our sites to make sure you have reviewed the most recent version. 
 
-##  Updates to Our Privacy Notice 
+###  How to Contact Us 
 
-This Privacy Notice may be updated periodically to you to reflect changes in our information practices or relevant laws. We will indicate at the top of the Notice when it was updated. Please review this Notice any time you access or use our sites to make sure you have reviewed the most recent version. 
-
-##  How to Contact Us 
-
-If you have any questions or comments about this Privacy Notice or if you would like us to update information we have about you or your preferences, please contact us at [privacy@unroll.me](mailto:privacy@unroll.me). 
+If you have any questions or comments about this privacy policy or if you would like us to update information we have about you or your preferences, please contact us at [privacy@unroll.me](mailto:privacy@unroll.me). 
