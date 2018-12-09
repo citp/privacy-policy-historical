@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badtameez-dil.net privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625072121id_/http%3A//badtameez-dil.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badtameez-dil.net privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209200409id_/http%3A//badtameezdilnet.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Badtameez Dil
 
@@ -12,7 +12,7 @@ By mere browsing or use of BadtameezDilNet, you consent to the terms of this Pri
 
 All capitalized terms that have not been specifically defined herein shall have the same meaning as provided under the Terms of Use.
 
-This Privacy Policy should be read in conjunction and together with the Terms of Use available on[ http://badtameezdilnet.com/terms-of-service/](http://badtameezdilnet.com/terms-of-service/).
+This Privacy Policy should be read in conjunction and together with the Terms of Use available on[ http://badtameezdilnet.net/terms-of-service/](http://badtameezdilnet.net/terms-of-service/).
 
 **Collection and Use of Personal Information**  
 ‘Personal Information’, ‘Information’ and ‘Sensitive Information’ shall have the meaning ascribed to it under the IT Act, 2000 and Information Technology (Reasonable Security Practises and Procedures and Sensitive Personal Data or Information) Rules, 2011.
