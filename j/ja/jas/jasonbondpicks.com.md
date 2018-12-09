@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jasonbondpicks.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311060609id_/https%3A//jasonbondpicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasonbondpicks.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209114311id_/https%3A//jasonbondpicks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jason Bond Picks
 
