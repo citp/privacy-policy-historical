@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bio-rad.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609062832id_/http%3A//www.bio-rad.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bio-rad.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209072013id_/http%3A//bio-rad.com/en-us/privacy) for the most accurate reproduction.*
 
 # Privacy | Bio-Rad
 
 Welcome to Bio-Rad's Website Privacy Policy. This Privacy Policy outlines the data processing and privacy practices of Bio-Rad Laboratories, Inc. and its Canadian subsidiaries ("Bio-Rad").
 
-Please [click here](https://web.archive.org/featured/en/GDPR-Supplemental-privacy-policy.html) for supplemental GDPR statements applicable to European visitors.
+**If you are a resident of the European Union please[click here](https://web.archive.org/featured/en/GDPR-Supplemental-privacy-policy.html) for supplemental GDPR statements.**
 
 This Privacy Policy outlines Bio-Rad's practices regarding the collection and use of individually identifiable information ("Personal Data") that Bio-Rad collects about you on or via www.bio-rad.com and its regional sites, such as www.bio-rad.it or www.bio-rad.au (collectively, the "Site"). This Policy does not apply to other data or processing practices, such as data collected offline or via other web pages (which may have their own privacy statements).
 
@@ -94,4 +94,4 @@ This Site is not intended for persons under 18 years of age. However, we do offe
 
 **If you do not wish for your Personal Data to be collected, transferred or otherwise processed as set forth in this Privacy Policy, please do not provide your consent to the terms of this Privacy Policy during the registration process, or provide such Personal Data to Bio-Rad.**
 
-**Effective January 28, 2011**
+**Effective May 25th, 2018**
