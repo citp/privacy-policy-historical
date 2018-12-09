@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the irishgenealogy.ie privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115040503id_/https%3A//www.irishgenealogy.ie/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishgenealogy.ie privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209191336id_/https%3A//www.irishgenealogy.ie/en/privacy-policy) for the most accurate reproduction.*
 
-# Cookie and Privacy Policy - Irish Genealogy
+# Privacy Policy - Irish Genealogy
 
 ##  [ Cookie and Privacy Policy](https://www.irishgenealogy.ie/en/privacy-policy)
+
+  * [Print](https://www.irishgenealogy.ie/en/privacy-policy?tmpl=component&print=1&page= "Print article < Cookie and Privacy Policy >")
+
+
 
 ## General Statement
 
