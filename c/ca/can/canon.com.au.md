@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canon.com.au privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401134338id_/https%3A//www.canon.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canon.com.au privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209080235id_/https%3A//www.canon.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Canon Australia
 
@@ -87,7 +87,7 @@ NEW ZEALAND
 [privacyofficer@canon.co.nz](mailto:)  
   
   
-This Policy covers [Canon Australia](https://www.canon.com.au/) Pty Ltd and its wholly-owned subsidiaries Canon Finance Australia Pty Ltd, Oce-Australia Pty Ltd and Canon New Zealand Ltd.   
+This Policy covers [Canon Australia](https://www.canon.com.au/) Pty Ltd and its wholly-owned subsidiaries Canon Finance Australia Pty Ltd and Canon New Zealand Ltd.   
 
 It may be updated from time to time. Changes will be posted here.   
 Last updated:                 2016 **  
