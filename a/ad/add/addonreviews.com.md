@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addonreviews.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606072915id_/http%3A//addonreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addonreviews.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209025209id_/http%3A//www.addonreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AddOnReviews.com
 
