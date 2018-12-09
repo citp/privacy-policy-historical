@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dailykos.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603102239id_/https%3A//www.dailykos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailykos.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209093559id_/https%3A//dailykos.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 You are free to peruse our website anonymously and we will collect no personal information from you unless you choose to provide that information to us. We do, however, collect non-personally identifiable IP addresses and web site usage information when you visit Kos Media’s websites.
 
-If you choose to provide your personal information by creating an account, purchasing a subscription, sending us an email, or filling out a contact form and submitting it through our website, you may receive emails from Kos Media, LLC related to Kos Media websites.
+If you choose to provide your personal information by creating an account, purchasing a subscription, sending us an email, or filling out a contact form and submitting it through our website, you may receive emails from Kos Media, LLC related to Kos Media websites. Daily Kos will retain necessary information required about your mobile device or network carrier in order to contact you via mobile SMS/MMS.
 
 If you signed up for our email list you will receive email updates from Daily Kos. You can unsubscribe from our email list at any time. If you participate in a joint action with a partnering organization you may receive email updates from the partner as well. We are not responsible for the privacy practices of our partners so we encourage you to read their privacy policies.
 
