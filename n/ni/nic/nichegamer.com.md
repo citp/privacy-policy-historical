@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nichegamer.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624015557id_/http%3A//nichegamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichegamer.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209220414id_/https%3A//nichegamer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Niche Gamer
 
@@ -6,7 +6,7 @@
 
 We are committed to safeguarding the privacy of our users. We only collect personal information from you when you enter a contest, respond to a survey, fill out a form or place comments on our site. When you submit any personal information, try to think twice before leaving comments or participating in online activities.
 
-In this policy, “we”, “us” and “our” refer to (Niche Gamer). For more information about us, see our [about page](http://nichegamer.com/about/).
+In this policy, “we”, “us” and “our” refer to (Niche Gamer). For more information about us, see our [about page](https://nichegamer.com/about/).
 
 When you log in to leave comments on our site, you may be asked for the following information:
 
