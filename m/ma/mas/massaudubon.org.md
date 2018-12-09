@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807082106id_/http%3A//www.massaudubon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209203411id_/https%3A//www.massaudubon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,9 +22,11 @@ Our website automatically logs information such as IP address and browser type o
 
 Mass Audubon does not sell, rent, exchange, or otherwise share e-mail addresses. However, within Mass Audubon, we do use e-mail addresses to send occasional updates about our work and special offers or other invitations which we believe may be of interest to you.
 
-## Member Information
+## Member and Donor Information
 
-Member information is not sold or rented. However, Mass Audubon does periodically exchange the names and mailing addresses of a limited number of members with other nonprofits (primarily conservation organizations) in order to obtain mailing lists for member acquisition. Additionally, Mass Audubon occasionally partners with other organizations on product offers or promotions that we believe may be of interest to our members (e.g. home energy audits, green electricity or automobile insurance) Members who wish to opt out of these exchanges and offers may [contact Member Services](https://web.archive.org/get-involved/membership/contact-member-services).
+Member and donor information is not sold or rented. However, Mass Audubon does periodically exchange the names and mailing addresses of a limited number of members and donors with other nonprofits (primarily conservation organizations) in order to obtain mailing lists for member acquisition. Additionally, Mass Audubon occasionally partners with other organizations on product offers or promotions that we believe may be of interest to our members and donors (e.g. home energy audits, green electricity, or automobile insurance).
+
+Members and donors who wish to opt out of these exchanges and offers may [contact Member Services](https://web.archive.org/get-involved/membership/contact-member-services).
 
 You can help Mass Audubon maintain the accuracy of your information and facilitate the timely receipt of your membership benefits by contacting [Member Services](https://web.archive.org/get-involved/membership/contact-member-services) with any changes to your name, mailing address, phone number, or e-mail address. To help us update your record, please include your mailing address and membership number, which appears on your Mass Audubon membership card.
 
