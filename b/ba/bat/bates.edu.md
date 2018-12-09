@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bates.edu privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604080258id_/http%3A//www.bates.edu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bates.edu privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209181331id_/http%3A//www.bates.edu/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | About Bates | Bates College
 
-_Effective date_ : July 3, 2017
+_Effective date_ : September 25, 2018
 
 This Privacy Policy describes the types of information Bates College (“Bates” or “we”) may collect from you when you visit our website **www.bates.edu** (the “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
@@ -46,7 +46,7 @@ Bates may disclose without restriction aggregated information about visitors to 
 
   * to any subsidiaries, joint ventures, or other affiliates;
   * to a buyer or other successor in the event that we are acquired, merge with another entity or sell portions of our assets;
-  * to contractors, service providers, and other third parties who provide support to Bates (including Google Analytics, see above);
+  * to contractors, service providers, and other third parties who provide support to Bates (including Google Analytics, display networks, and social networks; see above);
   * to comply with any court order, law or legal process, including to respond to any government or regulatory request;
   * if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Bates or others;
   * consistent with any other purposes disclosed by us when you provide the information; and/or
