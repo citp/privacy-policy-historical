@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samash.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128022842id_/https%3A//www.samash.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samash.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209075405id_/https%3A//www.samash.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sam Ash Direct
 
@@ -74,7 +74,7 @@ We use a variety of security measures, including sophisticated encryption and au
 
 We also use pixel tags – tiny graphic images – to help us analyze your online behavior. Pixel tags also allow us to send you email in a format you can read and let us know when you have opened an email message from us. We may use pixel tags to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
 
-The anonymous information we collect for placing advertising is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](http://www.networkadvertising.org/).
+The anonymous information we collect for placing advertising is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](https://www.networkadvertising.org/).
 
 ## Children's Privacy
 
