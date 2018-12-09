@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestanimations.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531062339id_/http%3A//bestanimations.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestanimations.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209024132id_/http%3A//bestanimations.com/Privacy.html) for the most accurate reproduction.*
 
 # Best Animations - Privacy Policy
 
@@ -7,11 +7,17 @@
 
 This Privacy Policy governs the way in which Best Animations collects, uses, maintains and discloses information collected from users (each, a "User") of the www.bestanimations.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Best Animations. 
 
-Advertising Cookies Best Animations uses Google,Conversant, AddThis technologies, including Google AdSense, Google Analytics, and a range of Google DoubleClick-branded services. When you visit a page or see an ad that uses one of these products, various cookies may be sent to your browser. We have turned OFF Adsense Personalized Ads for all members of GDPR law. For a details of Google GDPR disclosure please go here <https://policies.google.com/technologies/partner-sites>
+Advertising Cookies  
+Best Animations uses Google,Conversant, AddThis technologies, including Google AdSense, Google Analytics, and a range of Google DoubleClick-branded services. When you visit a page or see an ad that uses one of these products, various cookies may be sent to your browser. We have turned OFF Adsense Personalized Ads for all members of GDPR law. For a details of Google GDPR disclosure please go here <https://policies.google.com/technologies/partner-sites>
+
+Conversant Privacy Disclosure  
+We allow third-Party companies to serve ads and/or collect certain information when you visit our web site or mobile application. These companies use information that does not directly identify you, such as information about your browser type, time and date of visit, your browsing or transaction activity, the subject of advertisements clicked or scrolled over, and a unique identifier (such as a cookie string, or a unique advertising identifier provided by your mobile device) during your visits to this and other websites and apps in order to provide advertisements about goods and services likely to be of greater interest to you. These companies may use technologies such as cookies and other tracking technologies to collect this information. To learn more about interest-based advertising, or to opt-out, you can visit www.youronlinechoices.eu or https://www.networkadvertising.org/. 
+
+AddThis 
 
 General information on AddThis privacy practices, including storage, processing, retention, and use of personal information is available in AddThis privacy policy, available at: https://www.addthis.com/privacy <https://www.addthis.com/privacy>
 
-Best Animations does not store anything about you. 
+Best Animations itself does not store cookies or any date about you. 
 
 Personal identification information 
 
@@ -56,6 +62,6 @@ Contacting us
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Best Animations.com 
 
 Please send us message via Facebook.   
-https://www.facebook.com/socialanimations/ 
+https://www.facebook.com/socialanimations/ Or contact us directly at [[email protected]](email:support@bestanimations.com)
 
-This document was last updated on May 25, 2018 
+November 12, 2018 
