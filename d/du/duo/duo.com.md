@@ -1,198 +1,166 @@
-> *The following text is extracted and transformed from the duo.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503005208id_/https%3A//duo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duo.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209202810id_/https%3A//duo.com/legal/privacy-notice-general) for the most accurate reproduction.*
 
-# Duo Legal: Privacy | Duo Security
-
-#### Who We Are
-
-Duo Security, Inc. is a company incorporated under the laws of the State of Delaware, USA and whose principal office is located at 123 North Ashley Street, Suite #200, Ann Arbor, Michigan 48104, USA.
-
-In this Privacy Policy when we refer to “Duo Security” or “we”, “us” or “our”, we mean either Duo Security Inc. or the relevant Duo Security group company which provides you with our services and mobile and web-based applications, (including Duo Security UK Limited) as more completely described on our Website (collectively, the “Services”). Duo Security is committed to protecting the privacy of individuals who visit our websites, including, but not limited to [https://www.duo.com](https://www.duo.com/) (collectively, the “Website”) and the customers and users of our services and mobile and web-based applications.
-
-Terms not otherwise defined in this Privacy Policy have the meanings assigned to them in Duo Security’s Service Terms and Conditions. When you access and use the Services, the [Service Terms and Conditions](https://web.archive.org/legal/terms) and this Privacy Policy apply.
-
-If you have any questions about how we collect, store and use personal information, or if you have any other privacy-related questions, please contact us by any of the following means:
-
-By post: Duo Security, Inc., 123 North Ashley Street, Suite #200, Ann Arbor, MI 48104, USA
-
-By facsimile: 1-866-760-4247
-
-By email: privacy@duosecurity.com
+# Duo Legal: General Privacy Notice | Duo Security
 
 #### Introduction
 
-This Privacy Policy describes how we collect, use, share and transfer Personal Information (as defined below) created, inputted, submitted, posted, transmitted, stored or displayed by individuals who interact with and use the Duo Security Website and Services. This Privacy Policy does not apply to Personal Information (as defined below) we obtain in our capacity as an employer; employment related data is covered under separate policies and/or notices. This Privacy Policy covers information we collect online, not offline.
+Your privacy is very important to us. This Privacy Notice (the “Notice”) will help you understand who Duo is, what information we collect, how we use it, and what choices you have. This Notice only applies to personal information we collect through our websites (such as [https://www.duo.com](https://duo.com/)) (" **Website** "), product feedback and surveys and in connection with our events, sales and marketing activities. When we talk about “Duo,” “we,” “our,” or “us,” in this Notice, we are referring to Duo Security, Inc. and its group companies, including Duo Security UK Limited. By sharing your personal information with us, and by continuing to use our Website, you confirm that you have read and understood the terms of this Notice. For personal information that we collect:
 
-Any Personal Information we collect through the Services will be used only in a manner consistent with this Privacy Policy. When you sign up for or access the Services, including blog updates or newsletters, or when you email us for information, you expressly agree to the use of your information for the purposes described in this Privacy Policy. If you do not agree with the use of personal information as described in this Privacy Policy or any changes to it, you should not sign up for, use or access the Services or any features of the Services.
+  * when you register for an account with Duo, use or otherwise interact with our services and related mobile and web-based applications, please see our [services privacy notice](https://web.archive.org/legal/privacy-notice-services);
 
-#### Changes to Our Privacy Policy
+  * when you apply for a role with Duo via the Website or otherwise, please see our [applicant privacy notice](https://web.archive.org/legal/privacy-notice-candidate)
 
-We may revise this Privacy Policy from time to time. The most current version of this Privacy Policy will govern your use of your Personal Information. If we decide to change our Privacy Policy, we will post the updated Privacy Policy on the Website and update the Privacy Policy modification date. Please check back regularly to review any changes to this Privacy Policy. By continuing to use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-#### Personal Information
 
-“Personal Information” is defined slightly differently across the world, but we define “Personal Information” as any information that could be used to identify you or another individual, such as (but not limited to) an individual’s name, email address, or telephone number, and that is not otherwise publicly available. Personal Information may include other types of information as well, such as some of the information referred to under the subheadings “Device-Specific Information” and “Service Log Information.”
 
-We also collect non-personal information that does not, on its own, identify any individual person. When non-personal information is combined with other information so that it does identify an individual person, we treat that information as Personal Information.
+If you have any questions, comments or concerns about any aspect of this Notice or how we handle your information, please reach out to our team using the details provided under the “Contact Us” section of this Notice.
 
-#### What Information do we Collect?
+#### Our Privacy Principles
 
-When you use the Services we may collect, store and process certain information about you, including:
+Trust and transparency are foundational to what we do at Duo. We are committed to being open about how we approach privacy at Duo, and aim to communicate with you about privacy in a way that is easy for you to understand. To support these goals, we developed these Privacy Principles to highlight our commitment to responsibly protecting and handling your personal information. Our Privacy Principles help guide decisions we make at every level of our organization, every day, so that we can fulfill our mission to democratize security in a way that is consistent with our core values as well as our legal obligations.
 
-##### Contact Information.
+Our core Privacy Principles are:
 
-Duo Security may collect, store and process the following contact information in order to provide the Services:
+  1. We respect individuals’ privacy by promoting informed choice.
+  2. We collect only the personal information we need, and “pseudonymize” or get rid of what we don’t.
+  3. We are transparent about how we use personal information and accountable for how we and our partners use it.
+  4. We factor security into everything we do.
+  5. We engineer privacy into our ideas and products.
 
-  * **For Organization Users** : If your user profile is created by or at the request of an organization (an “Organization”) of which you are an employee, contractor, member, agent or other participant (each such user referred to as an “Organization User”) your "Organization’s Administrator" may provide us with certain Personal Information, such as your name, email address, and telephone number. We also collect your Organization name and assign you an account name based on your Organization name. Prior to authorizing you to become a user of the Services, your Organization is responsible for notifying you and/or obtaining your consent to the collection of such information, in accordance with applicable laws. Even though your Organization has notified you and/or received your consent to provide us with your Personal Information, when you begin using the Services, you are also providing your consent to the terms in this Privacy Policy and our Service Terms and Conditions.
 
-  * **For Duo Free Users** : If you establish a “Duo Free” account (as compared to an Organization account), and/or if you sign up for our newsletters and email updates we may collect your name, email address, and telephone number.
 
-  * **For Organization Administrators** : for each Organization account we may collect the name, email address, and telephone number of any Organization Administrators, or similar points of contact, within the Organization in order to be able to provide you and the Organization with the Services and to manage your account.
+We provide security solutions, including multi-factor authentication, trusted access and secure single sign-on tools for our customers. Find out more [here](https://duo.com/). Duo Security, Inc. is a company incorporated under the laws of the State of Delaware, USA and whose principal office is located at 123 North Ashley Street, Suite #200, Ann Arbor, Michigan 48104, USA. Duo Security UK Limited (company no: 09581350) is a company incorporated under the laws of England and Wales whose registered address is located at 6th Floor One London Wall, London, United Kingdom, EC2Y 5EB.
 
+#### What personal information we collect and how
 
+We know that personal information is defined slightly differently across the world. That said, at Duo, we define it as any information that could be used to identify you or another individual. We think that this broad definition enables us to better respect your privacy and safeguard the information entrusted to us. The personal information that we may collect about you broadly falls into three categories - information you provide to us, information we collect automatically, and information provided to us by third parties.
 
+****Information you provide to us**** : Certain parts of our Website may ask you to provide personal information voluntarily: for example, we may ask you to provide your contact details (like your name, email address and phone number) to register an account with us, complete surveys, to subscribe to marketing communications (like newsletters) from us and/or to submit inquiries to us. We may also collect personal information from you offline, such as when you attend one of our events or during phone calls with sales representatives. The personal information that you are asked to provide, and the reasons why you are asked to provide it, will generally be made clear to you at the point we ask you to provide your personal information
 
-We also collect your email address when you email us for information or sign up for our newsletters and email updates. You can unsubscribe from our newsletters and updates by clicking “Unsubscribe” at the bottom of the newsletter or email update or by emailing mops@duosecurity.com.
+We will also generally let you know prior to collection whether the personal information we are collecting may be provided on a voluntary basis and the consequences, if any, of not providing the information.
 
-**Public Forums** : We collect other information, including Personal Information that you submit to our Website or as you participate in certain interactive features of our Services (such as the publicly accessible blogs or community forums). You should be aware that any information (including Personal Information) you provide in these areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blog or community forum, contact us at privacy@duosecurity.com. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
+The personal information we collect may include contact information such as your name, address, telephone number or email address and contact preferences. It may also include professional information, such as your job title, department or job role, as well as the nature of your request or communication. We also collect information you choose to provide to us when completing any 'free text' boxes in our forms (for example, for event sign-up, product feedback or survey requests). In addition, we may collect personal information shared by you on our message boards, chat features, blogs and our other services where you are able to post information and materials. Any information that is shared by you in those forums becomes public information and may appear in public ways, such as through search engines or other publicly available platforms, and may be “crawled” or searched by third parties. It could also be read or used by other users to send you unsolicited messages. Please do not post any information that you do not want to reveal to the public at large.]
 
-**Testimonials/Reviews/Feedback** : We may post customer testimonials on our Website, which may contain Personal Information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed, please contact us at privacy@duosecurity.com.
+**Examples of how we use this information include:**
 
-**Surveys** : We may provide you the opportunity to participate in contests or surveys. If you participate, we will request and collect certain Personal Information from you at the time of the survey. Participation in these surveys or contests is completely voluntary and you have a choice whether or not to disclose this information. The requested information typically includes contact information, such as email or phone number.
+  * To respond to your requests or provide you with information you request.
 
-When you use the Service we may collect, store and process certain information collected by us from your web browser or from interactions with the Services, including:
+  * To send administrative or account related information to you.
 
-**Device-Specific Information** : We also collect device-specific information (e.g. mobile and desktop) from you in order to provide the Services. Device-specific information includes:
+  * To post testimonials (with your prior consent).
 
-  * attributes (e.g. hardware model, operating system, web browser version, as well as unique device identifiers and characteristics (such as, whether your device is “jailbroken,” whether you have a screen lock in place and whether your device has full disk encryption enabled));
-  * connection information (e.g. name of your mobile operator or ISP, browser type, language and time zone, and mobile phone number); and
-  * device locations (e.g. internet protocol addresses and Wi-Fi).
+  * To communicate with you about our events or our partner events.
 
+  * To provide you with marketing and promotional communications (where this is in accordance with the law). For more information about managing your marketing preferences, please see the "Your rights, controls and choices" section of this Notice
 
+  * To comply with and enforce applicable legal requirements, agreements and policies.
 
-We may need to associate your device-specific information with your Personal Information on a periodic basis in order to confirm you as a user and to check the security on your device.
+  * To prevent, detect, respond and protect against potential or actual claims, liabilities, prohibited behaviour, and criminal activity.
 
-**Service Log Information** : When you use the Services, we may automatically collect and store certain information in server logs. This may include which users (by reference to certain Personal Information such as the user’s: username; email address; name; and other information that may be included in open textual fields) are accessing the Services, how users are accessing the Services (including the device-specific information referenced above and type of integration (i.e. application) being protected), the dates and times you are accessing the Services, from where you are accessing the Services (by internet protocol address) and device event information such as crashes, system activity, and hardware settings. We may need to associate this information with other information we collect about you on a periodic basis in order to confirm you as a user and to check the security on your device. We may also do this to improve the Services that we offer you.
+  * For other business purposes such as data analysis, identifying usage trends, determining the effectiveness of our marketing and to enhance, customize and improve our Websites, products and services.
 
-**Social Media Widgets** : Our website includes plugins of social media platforms, such as facebook.com of Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA; Twitter.com of Twitter Inc., 795 Folsom St., Suite 600, San Francisco CA 94107, USA; and google+ of Google Inc., 1600 Amphitheatre Parkway Mountain View, California, 94043, USA. Social Media Features and Widgets are either hosted by a third party or hosted directly on our websites.
 
-  * You can generally identify the plugins by the respective network’s logo, for instance in combination with a pictogram of a clenched hand with a raised thumb or the addition of a “recommendation”, “like” or “comment.”
 
 
+****Information we collect automatically**** : When using our Websites or interacting with our online advertisements or marketing emails (collectively with our Websites, the " **Online Properties** "), we automatically collect certain information from your device. In some countries, including countries in the European Economic Area (the “ **EEA** ”), this information may be considered personal information under applicable data protection laws. Some of this information may be collected using cookies and similar tracking technology, as explained further under the heading “Cookies and similar tracking technology."
 
-Details about purpose and extent of data collection as well as processing and usage of the data by the social media networks can be obtained by reading the privacy policies of [Facebook](http://www.facebook.com/policy.php), [Twitter](http://twitter.com/privacy) and [Google](https://www.google.com/policies/privacy/).
+Specifically, the information we collect automatically may include information like your IP address, device type, unique device identification numbers, browser-type, broad geographic location (e.g. country or city-level location) and other technical information. We may also collect information about how your device has interacted with our Online Properties, including the pages accessed and links clicked.
 
-#### How do we Use the Information We Collect?
+****Information provided to us by third parties**** : From time to time, we may receive personal information about you from third party sources (including, for example, sales and lead generation and marketing management service providers), but only where we have checked that these third parties either have your consent or are otherwise legally permitted to provide your personal information to us. The types of information we collect from third parties generally includes name, work email address and phone number, job title and company, and we use the information we receive from these third parties to offer our services, as well as maintain and improve the accuracy of the records we hold about you.
 
-Information we collect may be used for the following purposes:
+#### How we use the personal information we collect
 
-  * to provide the Services;
-  * for billing purposes;
-  * to personalize the Services and improve your experience;
-  * improving our products, technology and services;
-  * for analytical purposes, including use of "Performance Data". Performance Data includes aggregate, de-identified usage information and other aggregate measures of the Services’ performance. We may share aggregated, de-identified Performance Data with third parties to help us better understand our customers’ needs and improve the Services;
-  * for marketing and advertising purposes, including sending you promotional email messages about our products and services and registering you for our events. If you do not want us to use your data in this way, please opt out here: <https://go.duosecurity.com/UnsubscribePage.html> or send an email to mops@duosecurity.com. For more information about how to change your preferences and to unsubscribe from promotional materials, then please see the section headed “Choice and Consent”. Duo Security does not market or advertise to Organization Users;
-  * to prevent, detect, identify, investigate, respond and protect against potential or actual claims, liabilities, prohibited behavior, and criminal activity;
-  * to comply with and enforce applicable legal requirements, agreements and policies;
-  * to perform other activities consistent with this Privacy Policy;
-  * to improve the Services and where you have agreed, to provide you updates on how we are improving the Services based on any feedback you might have given; and
-  * with respect to Organization Users, to provide you and the Organization with the Services and to manage your account.
+In general, we use the information we collect to gain a better understanding of who uses and interacts with our Online Properties, where they come from, and what content on our Online Properties is of interest to them. We also use this information for our internal analytics purposes and to improve the quality and relevance of our Online Properties.
 
+We may share the information described in this Notice with others. We generally do this where it is necessary to support the Online Properties, where you have requested or authorized us to do so, with your consent (where applicable), or as otherwise permitted or required by applicable law.
 
+The trusted third parties with whom we share your personal information include:
 
-#### Data Retention
+  * **Our group companies**. We share information with entities that we control, are controlled by us, or are under our common control, to maintain the Online Properties. Duo Security, Inc. is the party responsible for overall management and use of personal information by these affiliated parties.
 
-The time periods for which we retain your Personal Information depend on the purposes for which we use it. We will retain your information for as long as your account is active or as needed to provide you the Services, unless we are required by law to dispose of it earlier or to keep it longer. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Please contact us as provided in the Notice section below if you have any questions about the information we collect and/or how we use the information we collect.
+  * **Our third party service providers and partners**. We share information with service providers and partners who help us maintain, improve and secure the Online Properties.
 
-#### Sharing of Personal Information Collected
+  * **Our marketing partners**. We share information with our marketing partners to send emails on our behalf, or for co-branded or co-sponsored marketing and promotional events (such as conferences) offered in connection with another company or companies. If you register for or participate in these marketing and promotional events, we and the partner companies may receive information collected in connection with the co-branded or co-sponsored marketing and promotional events. Our Notice will apply to our use of your personal information. We have no control over any other companies’ privacy practices, so please read their applicable privacy notice.
 
-Duo Security does not sell, rent, or trade and, except as described in this Privacy Policy, does not share any Personal Information with third parties for their promotional purposes.
+  * **A competent law enforcement body, regulatory, government agency, court or other third party**. We will share personal information where we have a good faith belief that doing so is necessary (i) to comply with applicable law, (ii) to enforce our terms and conditions; (iii) to protect our rights, privacy, safety or property, and/or those of our affiliates, You or others; and (iv) to respond to requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities, which may include authorities outside your country of residence.
 
-Duo Security may transmit or share Personal Information as follows:
+  * **Other third parties**. We will share information with third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings), in which case we will inform the acquiring or resulting company that it must use your personal information only for the purposes disclosed in this Notice.
 
-  * We may share Personal Information, with our authorized third party vendors, consultants, service providers and hosting partners (currently Amazon Web Services) who perform services for Duo Security (including hardware, software, networking, storage, and other technology and services required to operate, maintain and provide support related to the Services) based on Duo Security’s instructions. These third parties may only use or disclose such Personal Information obtained from Duo Security to perform the Services on Duo Security’s behalf or comply with legal obligations.
-  * If you have an Organization account, we may also share Personal Information and/or Device-Specific Information with your Organization and/or your Organization’s third party vendors (with your employer’s consent) in order to operate and maintain the Services. Your device may be subject to your Organization’s policies and practices, which are separate from this Privacy Policy. We have no control over your Organization and your Organization’s third party vendors’ privacy practices, so please read their applicable privacy policies. Our Privacy Policy does not apply to, and Duo Security is not responsible for, use of your Personal Information by these other companies.
-  * We may share your Personal Information with third parties to send emails on our behalf, and/or for co-branded and/or co-sponsored marketing and promotional events (such as conference events) offered in conjunction with another company or companies. If you register for or participate in such marketing and promotional events, both Duo Security and such other companies may receive information collected in conjunction with the co-branded and/or co-sponsored marketing and promotional events. Our Privacy Policy will apply to you with respect to our use of your Personal Information. We have no control over any other companies’ privacy practices, so please read their applicable privacy policies before providing any Personal Information. Our Privacy Policy does not apply to, and Duo Security is not responsible for, use of your Personal Information by these other companies.
-  * Duo Security may share information internally with other members of the Duo Security family of companies, including Duo Security UK Limited (a company registered in England and Wales) for the purposes described in this Privacy Policy.
-  * We may also disclose Personal Information; (i) if we are required to do so by law or legal process; (ii) to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; (iii) as may be required for the purposes of national security; (iv) when we believe disclosure is necessary and appropriate to prevent physical, mental, financial or other harm, injury or loss; or (v) in connection with an investigation of suspect or actual illegal or inappropriate activity or exposure to liability. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Service Terms and Conditions and any other agreements, or as otherwise required by law or to comply with any legal obligation.
+  * **Other third parties with your consent**.
 
 
 
-When we share Personal Information with a third party, they must contractually agree to comply with privacy and security standards at least as stringent as Duo Security’s when it is handling similar data. When you provide data directly to the third party, the processing is based on their standards (which may or may not be the same as Duo Security’s) and your own independent relationship with that provider.
 
-By accessing, signing up for or using the Services, sending us email, or by signing up for email updates, you provide your express consent to our disclosure of your Personal Information to our third party service providers (such as credit card processors, managed hosting service providers, sub-processors of service data, and technology partners) in order to supply our Services. We do not permit our service providers to use your Personal Information for their own marketing purposes or for any other purpose than in connection with the services they provide to us.
+#### How we keep your personal information secure
 
-#### Credit Card Information
+Security is what we do, and we take the security of the personal information you provide to us very seriously. We use appropriate administrative, organizational, technical and physical safeguards that are designed to protect the personal information we collect and process about you. The measure we use are designed to provide a level of security appropriate to the risk of processing your personal information, and to help ensure that your data is safe, secure, and only available to you and to those you provided authorized access (e.g., your users). That said, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so you should take care in deciding what information you send us in this way.
 
-Some of our customers use credit cards, debit cards or other means to pay for our Services. We do not collect credit card, debit card or personal financial account information through our Website. We use a third party vendor, currently Recurly, Inc., to process our subscription billing. When you provide payment information to pay for the Services, you provide it directly to Recurly, and not to Duo Security. You will automatically be routed to the Recurly website to provide the information Recurly requires to process your transaction. Recurly is a third party vendor and has its own privacy policy, which may be different from this Privacy Policy. This Privacy Policy does not cover information collected by Recurly and Duo Security is not covered by, or responsible for, Recurly’s privacy practices or policy. To learn about Recurly’s privacy practices, please read their privacy policy at <http://recurly.com/legal/privacy>.
+#### How long we keep your personal information
 
-#### Accessing and Updating Your Personal Information
+We only keep your personal information for as long as we have an ongoing legitimate business need to do so (for example, to fulfill the purposes outlined in this Notice, to operate the Online Properties, to provide the Services or to comply with legal, tax or accounting requirements, to enforce our agreements or to comply with our legal obligations).
 
-You can modify your account information at any time by using the Service administrative interface available at [https://admin.duosecurity.com](https://admin.duosecurity.com/) or by emailing our customer support at support@duosecurity.com. We will respond to your request to access promptly and within no more than 30 days.
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it. If this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-#### Cookies and other Tracking Technologies
+#### International data transfers
 
-When you visit our Website or use our Services, we use “cookies” and other tracking technologies like “web beacons” to allow us to remember your user preferences, to maximize the performance of our Website and Services, enhance and personalize your experience and provide marketing communications. They also help ensure that advertisements you see while you are on our Website are more relevant to your interests.
+We operate internationally. Therefore, you should be aware that we may transfer or process your personal information in countries other than the country in which you are a resident. These countries may have data protection laws that are different than the laws of your country, and in some cases may not be as protective.
 
-**For further information about cookies and the other tracking technologies we use, along with information about how to disable or block cookies, please see our Cookie Policy at<https://www.duo.com/legal/cookies>**.
+Specifically, our Website servers are located in the United States, and our group companies and third party service providers, including Amazon Web Services (“AWS”) and partners, operate in the United States and in other countries around the world. This means that when we collect your personal information we may process it in any number of places around the world.
 
-#### Security of Information
+Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information in accordance with this Notice. Additionally, when using or disclosing personal information transferred from the European Union, we use standard contractual clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards, or obtain your consent. If you would like a copy of our standard contractual clauses or more information on the appropriate safeguards we have implemented with our third party service providers and partners, please contact us using the details provided below.
 
-Duo Security maintains and uses reasonable administrative, organizational, technical and physical safeguards to protect your information from loss, destruction, misuse, unauthorized access or disclosure as required by applicable law. These technologies help ensure that your data is safe, secure, and only available to you and to those you provided authorized access (e.g., your users). For example, when you enter confidential information (such as login credentials or information submitted from within the Service), we encrypt the transmission of that information using secure socket layer technology (SSL). SSL technology is designed to prevent you from inadvertently revealing personal information using an insecure connection. However, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so you should take care in deciding what information you send us in this way. If you have any questions about security on our Website, you can contact us at privacy@duosecurity.com.
+#### Legal basis for processing (European Economic Area visitors only)
 
-#### Links to Other Sites
+If you are resident in or a visitor from European Economic Area, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it. In most cases we use personal information: where we need it to perform a contract with you; where the processing is in our legitimate business interests; or, where required by applicable law, we have your consent to do so. In some cases, we may have a legal obligation to collect personal information from you.
 
-Our Website may contain links to other sites that are not owned or controlled by Duo Security. Please be aware that Duo Security is not responsible for the privacy practices of these other sites. We encourage you to review the privacy policies and statements of other sites to understand their information practices. Our Privacy Policy applies only to information collected by our Website and Services.
+If we ask you to provide personal Information to comply with a legal requirement or to enter into a contract, we will make this clear at the relevant time and advise you whether the information is mandatory or not (as well as of the possible consequences if you do not provide your personal information). Similarly, if we collect and use your personal information in reliance on our legitimate interests, we will make clear to you at the relevant time what those legitimate interests are. Typically, our legitimate interests include: providing and improving our technology, products and services; for our marketing activities; and measuring the effectiveness of our marketing and promotional campaigns.
 
-#### Choice and Consent
+If you have questions or need further information about the legal basis we rely on to collect and use your personal information, please contact us using the contact details provided under the “Contact Us” section of this Notice.
 
-We offer certain choices about how we communicate with our users and what Personal Information we obtain from them.
+#### Cookies and similar tracking technology
 
-  * You can opt out of receiving promotional emails or text messages from us by clicking the “unsubscribe” link in the email or by emailing mops@duosecurity.com.
-  * Many Duo Security products contain settings that allow users or administrators to control how the products collect information. Please refer to the relevant product documentation or contact us through the appropriate technical support channel for assistance.
-  * To remove your Personal Information from a Duo Security website testimonial, please contact us at privacy@duosecurity.com.
+When you use our Services, we use cookies and other similar tracking technologies like “web beacons” (collectively " **Cookies** ") to collect and use personal information about you, including to serve interest based advertising. For further information about the types of Cookies we use, why, and how you can control Cookies, please see our [Cookie Notice](https://web.archive.org/legal/cookies).
 
+Our Website may contain links to other sites that are not owned or controlled by us. Please be aware that Duo Security is not responsible for the privacy practices of these other sites. We encourage you to review the privacy policies and statements of other sites to understand their information practices. This Notice applies only to information collected by our Website.
 
+Our Website includes plugins of social media platforms, such as facebook.com of Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA; Twitter.com of Twitter Inc., 795 Folsom St., Suite 600, San Francisco CA 94107, USA; and google+ of Google Inc., 1600 Amphitheatre Parkway Mountain View, California, 94043, USA. Social Media Features and Widgets are either hosted by a third party or hosted directly on our websites. You can generally identify the plugins by the respective network’s logo, for instance in combination with a pictogram of a clenched hand with a raised thumb or the addition of a “recommendation”, “like” or “comment.” Details about purpose and extent of data collection, as well as processing and use of the data, by the social media networks can be obtained by reading the privacy policies of Facebook, Twitter and Google.
 
-If you choose to no longer receive marketing information, Duo Security may still communicate with you regarding such things as your security updates, product functionality, responses to service requests, or other transactional, non-marketing/administrative related purposes.
+We do not knowingly collect or store any personal information from anyone under 13 years of age. The Website is directed to people who are at least 18. If you are under the age of 18, you may not use the Website.
 
-#### Cross-Border Transfer of Your Personal Information
+#### Your rights, controls and choices
 
-Please be aware that Duo Security may host and process your data and information (including Personal Information), in the United States and other countries through the Duo Security group of companies and third parties that we use to operate and manage the Website and Services, including Amazon Web Services (“AWS”). You may view the AWS privacy policy at <http://aws.amazon.com/privacy>. By signing up for or using the Services, and/or by communicating with us by email, you acknowledge and expressly consent to the transfer and processing of your Personal Information in this way. Any such transfer or processing of your Personal Information will be in accordance with all applicable laws.
+You have the following data protection rights, controls and choices.
 
-#### Your Controls and Choices
+  * You can **access, review, change, update or delete** your personal information at any time by. Please note that we may impose a small fee for access and disclosure of your personal information where permitted under applicable law, which will be communicated to you. We do not charge you to update or remove your personal information.
 
-You may request and obtain from us once a year, free of charge, certain information about the Personal Information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you would like to make such a request, please submit your request in writing as follows:
+  * You can request to have us remove your personal information from a Website testimonial or remove your personal information from our blog or community forum. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-By post: Duo Security, Inc., 123 North Ashley Street, Suite #200, Ann Arbor, MI 48104, USA
+  * If you are a resident of the European Economic Area (EEA), you can **object to processing** of your personal information, ask us to **restrict processing** of your personal information or **request portability** of your personal information.
 
-By facsimile: 1-866-760-4247
+  * You can **opt out of receiving promotional emails or text messages** from us by clicking the “unsubscribe” link in the email, by visiting this [unsubscribe page](https://go.duosecurity.com/UnsubscribePage.html) or by emailing [mops@duosecurity.com](mailto:mops@duosecurity.com). If you choose to no longer receive marketing information, we may still communicate with you about such things as your security updates, product functionality, responses to service requests, or other transactional, non-marketing or administrative related purposes.
 
-By email: privacy@duosecurity.com
+  * If we have collected and process your personal information with your consent, then you can **withdraw your consent** at any time. Please note, though, that withdrawing your consent will not impact the lawfulness of any processing we conducted before you withdrew your consent, nor will it impact the processing of your personal information we conducted in reliance on lawful processing grounds other than consent.
 
-In addition, we currently do not honor Do Not Track signals.
+  * You have the **right to complain to a data protection authority** about our collection and use of your personal information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the European Economic Area ("EEA"), Switzerland and certain non-European countries (including the US and Canada) are available here.
 
-#### Children’s Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), as we do not collect any information from anyone under 13 years of age. The Website and its content are directed to people who are at least 18 years of age or older.
 
-#### Children
 
-We do not collect any information from anyone under 18 years of age. The Website and its content are directed to people who are at least 18 years of age or older. If you are under the age of 18, you may not use this Website unless you have the consent of, and are supervised by, a parent or guardian.
+If you would like to exercise any of your rights relating to your personal information, please start by contacting us using the contact details provided under the “Contact Us” section of this Notice.
 
-#### Access to Your Information
+We respond to all requests we receive from individuals wishing to exercise their data protection rights under applicable data protection laws. To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your personal information.
 
-You have a right to access, review, change, update or delete your Personal Information at any time by contacting us at privacy@duosecurity.com or by postal mail at Duo Security, Inc., 123 North Ashley Street, Suite #200, Ann Arbor, MI 48104, USA. Please note that we may impose a small fee for access and disclosure of your Personal Information where permitted under applicable law, which will be communicated to you. We do not charge you to update or remove your Personal Information.
+#### Changes to this Privacy Notice
 
-#### Contact Us
+From time to time, we may change this Privacy Notice in response to changing technologies, industry practices, regulatory requirements or for other purposes. We will provide notice to you (this notice may be by email to you at the last email you provided us, by posting notice of such changes on the Website, or by other means, consistent with applicable law) if these changes are material and, where required by applicable law, we will obtain your consent.
 
-Duo Security commits to resolving complaints about your privacy and our collection or use of your Personal Information. If you need to provide a Notice to us under this Privacy Policy or if you have complaints about our compliance with this Privacy Policy, you should first contact us as follows:
+You can see when this Notice was last updated by checking the “last updated” date displayed at the top of this Notice.
 
-By post: Duo Security, Inc., 123 North Ashley Street, Suite #200, Ann Arbor, MI 48104, USA
+We encourage you to contact us if you have any comments or questions about this Privacy Notice or our related privacy practices. You may reach us at [privacy@duosecurity.com](mailto:privacy@duosecurity.com) or at our mailing address below:
 
-By facsimile: 1-866-760-4247
+ATTN: Privacy Committee  
+Duo Security, Inc.  
+123 North Ashley Street, Suite #200  
+Ann Arbor, MI 48104, USA
 
-By email: privacy@duosecurity.com
-
-#### Business Transactions
-
-Duo Security may assign or transfer this Privacy Policy, and your user account and related information and data, to any person or entity that acquires or is merged with Duo Security.
+If you are resident in the EEA, the controller of your personal information is Duo Security, Inc.
