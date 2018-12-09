@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nihongomaster.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322140252id_/https%3A//www.nihongomaster.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nihongomaster.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209012426id_/https%3A//www.nihongomaster.com/company/privacy) for the most accurate reproduction.*
 
-# Learn Japanese online at Nihongo Master
+# Privacy Policy | Nihongo Master
 
 ### Summary
 
@@ -13,8 +13,6 @@ If you don't feel like reading all the legal words to the right, here's a summar
   * We use reputable 3rd Parties such as [Mail Chimp](http://www.mailchimp.com/) to maintain our newsletters so they can make sure we follow all the laws.
 
 
-
-## Privacy Policy
 
 This document was last updated on June 23, 2012 
 
@@ -65,11 +63,11 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
 Nihongo Master  
 [www.nihongomaster.com](http://www.nihongomaster.com/)  
-6182 Halehaven Dr.  
-Las Vegas, NV 89110  
+2647 Hourglass Dr.  
+Henderson, NV 89052  
 702-518-6825  
-info@nihongomaster.com  
-
+info@nihongomaster.com
