@@ -1,162 +1,207 @@
-> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707184202id_/https%3A//www.thompson-morgan.com/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210003844id_/https%3A//www.thompson-morgan.com/cookies-privacy-policy) for the most accurate reproduction.*
 
 # Cookies and Privacy Policy | Thompson & Morgan
 
-## Cookies & Privacy Policy
+## Privacy Policy Summary
 
-  1. [Information Collection](https://www.thompson-morgan.com/cookies-privacy-policy/#information-collection)
-  2. [Registration and Ordering](https://www.thompson-morgan.com/cookies-privacy-policy/#registration-and-ordering)
-  3. [Email addresses](https://www.thompson-morgan.com/cookies-privacy-policy/#email-addresses)
-  4. [Product reviews](https://www.thompson-morgan.com/cookies-privacy-policy/#product-reviews)
-  5. [Cookies](https://www.thompson-morgan.com/cookies-privacy-policy/#cookies)
-  6. [Information use and disclosure](https://www.thompson-morgan.com/cookies-privacy-policy/#information-use-and-disclosure)
-  7. [External Use](https://www.thompson-morgan.com/cookies-privacy-policy/#external-use)
-  8. [Data security](https://www.thompson-morgan.com/cookies-privacy-policy/#data-security)
-  9. [Opt out and corrections](https://www.thompson-morgan.com/cookies-privacy-policy/#opt-out-and-corrections)
-  10. [Updates to this policy](https://www.thompson-morgan.com/cookies-privacy-policy/#updates-to-this-policy)
+This is the privacy policy of BVG Group Limited, trading as Thompson & Morgan. This policy sets out our procedures regarding the collection and use of your personal information when we send you information in the post, when we contact you electronically and when you access our website [www.thompson-morgan.com](https://www.thompson-morgan.com/). BVG Group Limited is a company registered in England & Wales whose company number is 03393851 and our registered office is Units 5 & 6, Ffrwdgrech Industrial Estate, Brecon, Powys, LD3 8LA. The trading address of Thompson & Morgan is Poplar Lane, Ipswich, Suffolk, IP8 3BU.
 
+Branded Garden Products Limited, (trading as Thompson & Morgan) is registered as a data controller on the UK Data Protection Register. Our registration number is [Z6288594](https://ico.org.uk/ESDWebPages/Entry/Z6288594).
 
+Our privacy policy will explain in detail to you what happens to the personal information we collect about you when you visit our website, receive postal information, and order or enquire about our goods and services: 
 
-Thompson & Morgan take online security very seriously and are committed to protecting the personal information of our customers. Our Cookie and Privacy Policy gives more information on how we collect and use this information to provide an enhanced online experience. This policy also explains your options relating to the collection, use and disclosure of your personal details. You can visit this Site without disclosing any personal information, however, by visiting our Site, you accept the practices outlined in this policy. If you do not agree to us acquiring or using your personal information in accordance with this policy then you should not submit information to us through this Site. This policy does not necessarily apply to our offline collection of your personal information. Please see below for more details. We are not responsible for the content or privacy practices on any Site to which this Site links or that links to this Site.
+• What information we collect
 
-  
+• The legal basis for processing we use in relation to processing your personal data
 
+• How we use your personal information and how long we keep it for
 
-### Information Collection and Use
+• Who we share your information with and on what basis
 
-#### 1\. Information Collection
+• How you can control our use of your personal information
 
-On this site we will collect information from you in several different ways. By collecting personal information from you we are able to provide an efficient, meaningful, and customised experience. For example:
+• Your rights
 
-    1. You will only need to enter your personal information once.
-    2. We will be able to create content for the site which is more relevant to you.
-    3. Information, products, and services will be easier to find.
-    4. We will be able to communicate new information, products, and services to you.
-  
+• Who to contact if you want more information
 
+This Privacy Policy comes into effect from 15th May 2018. This policy applies to all the personal information we collect and process about you when we engage with you, either as a customer or an enquirer. If you would like to know more about this policy, please [contact us](https://www.thompson-morgan.com/contact-us). You can view the detailed privacy policy below.
 
+### When we collect your personal information
 
-#### 2\. Registration and Ordering
+We collect personal information about you as soon as you access our website [www.thompson-morgan.com](https://www.thompson-morgan.com/) using a smartphone or computer and also when you call our customer service team. The specific information we collect depends on whether you are a customer or a website visitor. If you buy a product from our website or catalogue, you become a customer of Thompson & Morgan. The specific information we collect is detailed below in the _What personal information we collect_ section of this document.
 
-You have the option to complete an online registration form when using certain parts of this Site or when ordering products, You will be prompted to provide to us certain personal information during registration, including but not limited to, your name, shipping and billing addresses, phone number and email address. This personal information is used for billing purposes, to fulfil your orders, to communicate with you about your order and our Site, and for internal marketing purposes. If we encounter a problem when processing your order, we will use the personal information to contact you.
+### When does this privacy policy apply?
 
-  
+Our Privacy Policy relates to personal information gathered from your use of our website [www.thompson-morgan.com](https://www.thompson-morgan.com/) or if you order from our catalogue by phone or by post, either as a customer or an enquirer. The policy extends to cover your personal information when it is moved from our website and stored for subsequent processing within our IT infrastructure in the UK and when we process information about you directly into our IT systems. Our Privacy Policy does not extend to external links on our website to other organisations outside of our control. Please ensure that you take time to review the privacy policies of external sites to [www.thompson-morgan.com](https://www.thompson-morgan.com/) as their privacy policies may differ from ours. 
 
+### What personal information we collect on our website
 
-#### 3\. Email Addresses
+The personal information we collect from you when you access our website comes in two parts: the information you give us when you complete our website forms, and the information we automatically gather from the device you use to access our website. 
 
-Whilst using this Site, there will be several opportunities to enter your email address including (but not limited to):
+Information you give Thompson & Morgan: this includes the following data items (although you can visit and use our website without giving us this information, if you do not place a transaction or an enquiry during your web visit to us): 
 
-  1. To request us to notify you when we receive new supplies of an out of stock item.
-  2. To sign up for our email newsletter.
-  3. To leave a review of one of our products.
-  4. To enter competitions.
+• Your first name or initial, and surname 
 
+• Your email address 
 
+• Your telephone number 
 
-Your participation in a competition is completely voluntary, so you have a choice whether to participate and provide information to us. We use this information to notify competition winners and to award prizes. We may post on our Site the names and cities of competition winners.
+• Your postal address
 
-  
+• Payment details: if you order products from our website, your payment details will be processed by our payment processors Verifone and Paypal. Thompson & Morgan does not store any of your payment details; we are given a transaction ID by our payment processor.
 
+Information from your device: when you access a website using a smartphone, TV (browser enabled), tablet, laptop or desktop computer, your device will exchange information with [www.thompson-morgan.com](https://www.thompson-morgan.com/) to maximise the speed of the site and provide the optimum navigation for your device. Without this information, Thompson & Morgan cannot ensure the optimum browsing experience and ease-of-use when buying products. To do this, our website may acquire the following information: 
 
-#### 4\. Product Reviews
+• IP (Internet Protocol) address: your IP address indicates your location, unless you are using a VPN service
 
-If you have ordered a product in the past, you may choose to submit a product review. In order to post a review we will request your email address and geographic location, only your geographic location will be visible to other users, we will keep your email address kept private. Please be aware that any personally identifiable information submitted as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information.
+• Device: what type of device you are using (TV, smartphone, laptop, desktop) 
 
-  
+• OS (Operation system): what operating system your device has (IOS, Android, Windows, Linux, MAC OS X) 
 
+• Browser & browser version: which web browser you are using (Internet Explorer/Edge, Opera, Chrome, Safari, Firefox) 
 
-#### 5\. Cookies
+• Domain: depending on your device and browser settings, we sometimes identify the web address of the domain you came from before landing on our website 
 
-Cookies are small pieces of information that are stored on your computer when you visit some websites.
+• Clickstream data: this is a list of all the web pages that you visited, and the order you viewed them in, on each visit to [www.thompson-morgan.com](https://www.thompson-morgan.com/). We also record how much time you spend on each web page, and record any actions you make on each page. We also record what items you place in the web shopping basket, even if you do not purchase them
 
-Thompson & Morgan uses cookies to make our website easier for you to use. If you do not accept cookies you will be unable to use this website for shopping purposes, only for browsing and research. 
+• Cookies: these are small text files that our website places on your device, so that our website can remember something about you at a later time and optimise the website for your visit. There are also some third-party cookies we place on your device. For more information on the specific cookies that we use and their function, please see our [Cookie Policy](https://www.thompson-morgan.com/cookies)
 
-Please note that cookies cannot harm your computer and we do not store any credit card details on our website, you will be requested to enter these each time you shop with us.
+Preferences on our website: you can change how we stay in touch with you, and what we inform you about by emailing [ccare@thompson-morgan.com](mailto:ccare@thompson-morgan.com) or calling 0333 400 0033.
 
-By enabling cookies you will be able to do the following:
+### What personal information we collect by post and by phone
 
-  1. Place an order on our website
-  2. Remember what is in your shopping basket for 365 days
-  3. Remember your login details
-  4. Enable us to make recommendations of products to you
+Information you give Thompson & Morgan: if you order via the catalogue order form or phone our call centre we collect the following information about you;
 
+• Your first name or initial, and surname
 
+• Your email address, if you want to access the MyOrders function to track your order online, we will need to store your email address as this is used as part of the sign-in process for this function
 
-**The cookies that are used on this website are as follows:**
+• Your telephone number 
 
-**[Google Analytics](https://www.google.com/analytics/learn/privacy.html "google analytics privacy policy")**
+• Your postal address 
 
-We use this information to understand how the website is being used and enable us to improve the user experience. All user data is anonymous.
+• Payment details, if you order products from our website, your payment details will be processed by our payment processors Verifone and Paypal, Thompson & Morgan does not store any of your payment details, we are given a transaction ID by our payment processor. If you attach a cheque to your order coupon, this is banked, no details of your bank account are stored by us.
 
-**[Affiliate Window](https://www.affiliatewindow.com/documents/Privacy%20Policy.pdf "affiliate window privacy policy pdf")**
+Preferences by catalogue and by phone: you can change how we stay in touch with you, and what we inform you about via the preferences section of our website (see above). If you do not want to do this, you can change your preferences on the order form in the catalogue or by phoning our customer service team 0333 400 0033.
 
-This cookie is set only if you get to the order confirmation page after checkout. It allows us to reward a site affiliate that has referred traffic to us.
+### Why we collect your personal information
 
-**_Search_**
+There are three main purposes for gathering your personal information: for marketing activities, deliveries, and for transaction processing. 
 
-We work with SLI Systems to provide our on-site product and information search. A cookie is set which helps us to improve the service for our users by providing more relevant search results.
+Transaction processing: when you purchase a product from our website or catalogue, you become a customer of Thompson & Morgan, so we retain personal information on you whilst you remain an active customer of ours and also for a short time when you no longer order from us. When you make an enquiry about a product of ours, we also retain the personal information you give us in your enquiry for a limited period of time. Our Data Retention policy below explains how long we keep your personal information. In all cases for transaction processing, our legal basis for processing your personal data is contract.
 
-**_Third Party Targeting Cookies or Advertising Cookies_**
+Deliveries: We will need to print your name and address on delivery notes and despatch labels, in order to deliver any goods you order from us. Please note that in order to resolve delivery queries once goods are on their way to you, that we may print your phone number on the despatch label to aid the courier in the event of a query about your delivery. Our couriers destroy any personal data provided by us once your goods have been delivered.
 
-We use these cookies to help us monitor which adverts you see and to help ensure that adverts directed to you are relevant to you and your interests. They also remember that you have visited our website and are used to limit the number of times you see an advertisement and help measure the effectiveness of our advertising campaigns.  
-We currently use cookies provided by the following advertising partners, whose privacy policies and opt-out details you can find by clicking the following links: [Sub2](https://webservices.sub2tech.com/optout/optout.aspx "sub2"), [Google Adwords](https://www.google.com/intl/en/policies/privacy/ "Google Adwords") and [Microsoft Ad Centre](https://privacy.microsoft.com/en-us/default.mspx "Microsoft Ad Centre"). 
+Marketing activities: we have separated out each marketing activity that your personal data is used for below. Note that any customers or website visitors who don't want to receive marketing communications from us can email [ccare@thompson-morgan.com](mailto:ccare@thompson-morgan.com) to update their preferences. Thompson & Morgan will never send you a marketing communication that doesn't have a method of opting out from our marketing communications contained within it.
 
-There are a few external services that are used on our website mostly to display content within our web pages. For example we use [YouTube](https://www.google.co.uk/intl/en-GB/policies/ "YouTube") to show videos and [Flickr](https://info.yahoo.com/legal/us/yahoo/copyright/en-us/ "Flickr privacy policy") to display some images. As with social buttons, such as [Facebook](https://www.facebook.com/about/privacy/ "Facebook privacy policy") and [Twitter](https://twitter.com/privacy "Twitter privacy policy"), we cannot prevent these sites, or external domains from collecting information on your usage of this embedded content. If you are not logged into these services then they will not know who you are but are likely to gather anonymous usage information such as the number of times a visitor has viewed a video. We work with these external services on the basis that they adhere to their privacy policies. To view their privacy policies, please click on one of the underlined links above.
+• Catalogues: we will provide our customers with at least one full range catalogue each year. _The legal basis for processing is legitimate interest_
 
-Most browsers allow you to turn off cookies. To do this look at the "help" menu on your browser.
+• Product offers: from time to time Thompson & Morgan will send you discounted product offers via email or post. These offers are based on our knowledge of the products you have ordered or enquired about and your visits to our website, if you have visited it. _The legal basis for processing is legitimate interest_
 
-By continuing to browse our website, you are consenting to our use of these cookies.
+• Inserts: Thompson & Morgan will sometimes include inserts from carefully selected and reputable organisations into your deliveries. Please note that at the time of writing, it is not possible to opt out of these inserts. _The legal basis for processing is legitimate interest_.
 
-  
+• Newsletters: we will email customers and enquirers newsletters containing horticultural tips and growing/maintenance instructions for our products. _The legal basis for processing is legitimate interest_.
 
+• Competitions: Thompson & Morgan sometimes offer competition entry via both email, the website and coupon. Competition entry is sometimes conditional on providing us with additional demographic information about you, which in turn allows us to further customise our communications and product offers to you. _The legal basis for processing is legitimate interest_.
 
-#### 6\. Information Use and Disclosure
+• Surveys: We occasionally survey portions of our customer and website visitor database to find out more about your experience using Thompson & Morgan and to find out how we can improve our service delivery to you. _The legal basis for processing is legitimate interest_.
 
-  1. Internal Use. To enable us to process your order and provide you with customer service we will use your personal information. We may also use this information to improve our Site's content and layout and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.
-  2. Communications with You. Your personal information will also be used to communicate with you about our Site and your orders and deliveries. We will send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to notify you when we receive fresh stock of an out of stock item, to sign up for our email newsletter, entry to competitions or leave a review of one of our products. If you provide us with your email address, we use it to deliver the information to you. We always allow you to unsubscribe or opt out of future emails (see the opt out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
+• Site optimisation: the device-level information we automatically gather about you allows us to optimise the speed and performance of the website for you. _The legal basis for processing is legitimate interest_.
 
+• Web analytics: we use cookies and the device-level personal information to build a profile of your use of the site, including any transactions that you make, so that we can personalise our marketing offers to you, and to customise your website visits. To find out more please see our [Cookie Policy](https://www.thompson-morgan.com/cookies). _The legal basis for processing is legitimate interest_.
 
+• Anonymous web analytics: Thompson & Morgan aggregates and anonymises all your activity on our website for traffic analysis, to help measure and improve the website performance. We also use this anonymised data to monitor the effectiveness of our advertising. Your personal data is anonymised in this process, so there is no requirement under GDPR for a legal basis for processing.
 
-  
+• Business Insight: your personal data and any order history goes into our business insight platform. We use this application to gain detailed insight into how to improve our product and service offering to you, and to also create statistical models to predict your likely purchasing intentions in the future. You can request that your data is removed from this business insight process by emailing [ccare@thompson-morgan.com](mailto:ccare@thompson-morgan.com) or calling 0333 400 0033. _The legal basis for processing is legitimate interest, you can request that we remove your details from our business insight process_.
 
+### How we protect and where we store your personal information
 
-#### 7\. External Use
+The personal information we collect about you is stored within our secure UK IT Data Centre. No identifiable personal information is stored or shipped to non-UK/EU locations. Your personal information is stored in databases which are encrypted at rest, providing the highest level of security. All personal information is moved to and from our website [www.thompson-morgan.com](https://www.thompson-morgan.com/) via an HTTPS connection, which means that the transfer of data is also encrypted. Access to your personal data held on databases managed by Thompson & Morgan or its' authorised subcontractors, is granted only when there is a need to use the data, no permanent access exists.
 
-We want to provide you with excellent service and to offer you a great selection - we primarily sell merchandise, not information. We occasionally rent personal information to carefully selected businesses. We may also distribute information in the following ways: 
+Thompson & Morgan is amending our IT policies to further protect your personal information by adopting 'Privacy by Design', an information management standard that seeks to anonymise personal data held in commercial databases to further protect that information. You can find out more about this anonymization process by following [this link](https://en.wikipedia.org/wiki/Privacy_by_design).
 
-  1. As do most catalogue and Internet retailers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, it is purely to help them to perform their service. We partner with third parties to deliver products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, delivery address, email, and phone number.
-  2. Similarly, to help you buy products and provide customer service, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state of-the-art data encryption to protect your information.
-  3. We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Business or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.
-  4. We rent personally identifiable information to other companies as part of our regular course of business, providing details of name and address only. It is possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
+### How long we keep your personal information
 
+Thompson & Morgan will only use your personal information for as long as you remain a customer, and for a short time after your last order. The maximum amount of time that Thompson & Morgan will retain your personal information in a data archive is seven years, except in the event of a legal dispute. This seven-year limit is based on the legal requirement to maintain details of transactions as described in the [Companies Act 2006](https://www.legislation.gov.uk/ukpga/2006/46/pdfs/ukpga_20060046_en.pdf). We have listed below how long we store your personal information for, which depends on your relationship with Thompson & Morgan.
 
+If you made a purchase from us: we will keep the information you gave us and details of what you bought for up to seven years from the date of the last transaction with us. After that time your personal data will be anonymised, but we will keep your purchase and marketing history.
 
-  
+If you enquired about a product, but did not make a purchase: we will keep the information we have on you as an enquirer for up to three years. After that time your personal data will be anonymised, but we will keep your enquiry and marketing history.
 
+If you wrote to us: we will keep any correspondence with you for six years, although we do keep this information longer if your correspondence is a complaint.
 
-#### 8\. Data Security
+### Sharing your personal information with other organisations
 
-This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. We rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall. While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
+Subcontractors: Thompson & Morgan use carefully selected subcontractors to assist in the management and structure of business information for its' own marketing purposes. The information these subcontractors process includes the personal information we gather about you and your transaction and web history with us. By 'marketing' we mean the specific purposes outlined in the Marketing Activities section of this document. Details on these subcontractors are as follows:
 
-  
+Epsilon Abacus, whose registered office is 67 Broad Street, Teddington, TW11 8QZ, for the purposes of business insight and data aggregation. Epsilon is registered as a data controller, [Z6627112](https://ico.org.uk/ESDWebPages/Entry/Z6627112).
 
+We work with Epsilon Abacus (registered as Epsilon International UK Ltd), a company that manages the Abacus Alliance on behalf of UK retailers. The participating retailers are active in the clothing, collectables, food & wine, gardening, gadgets & entertainment, health & beauty, household goods, and home interiors categories. They share information on what their customers buy. Epsilon Abacus analyses this pooled information to help the retailers understand consumers' wider buying patterns. From this information, retailers can tailor their communications, sending people suitable offers that should be of interest to them, based on what they like to buy.
 
-#### 9\. Opt Out and Corrections
+Epsilon Abacus host their data centre in Dublin, Ireland, so within the EEA. However, some employees of their USA and India affiliates (which are listed here <https://resources.epsilonabacus.com/epsilon_abacus_vendors>) have got access to the servers held in Dublin because they provide technical support to Epsilon Abacus. This type of "screen access" qualifies as a transfer of data under the GDPR, even if no files are "moved" outside the data centre.
 
-Upon your request, we will within a reasonable timescale:
+GDPR allows data to be transferred outside the EEA in the absence of an adequacy decision by the Commission when "appropriate or suitable safeguards" are present (see Article 46). Data transfers to Epsilon affiliates based outside the EEA take place in accordance with Epsilon's Interaffiliate Data Processing and Transfer Agreement, which incorporates the Standard Contractual Clauses (aka "EU Model Clauses"). We believe that these measures satisfy the requirements in regards to "appropriate safeguards". 
 
-  1. Correct or update your personal information
-  2. Stop sending emails to your email address; and/or
-  3. Disable your account to prevent any future purchases through that account.
+Qbase Data Services, whose registered office is 31-33 Bold Street, Warrington, Cheshire, WA1 1HL, for the purposes of building a single customer view database and business insight platform. Qbase is registered as a data controller, [Z842993](https://ico.org.uk/ESDWebPages/Entry/Z842993).
 
+Dynamic Data Services, whose registered office is Wetherby House, 7 Market Place, Wetherby LS22 6LG, for the purposes of list rental marketing. Dynamic Data Services is registered as a data controller, [ZA263043](https://ico.org.uk/ESDWebPages/Entry/ZA263043).
 
+Red Eye International, whose registered office is Oak House, Crewe Hall Farm, Crewe, CW1 5UE, for the purposes of email marketing. Red Eye is registered as a data controller [Z9006942](https://ico.org.uk/ESDWebPages/Entry/Z9006942).
 
-You can make these requests at the customer information section of this site [(myaccount)](https://www.thompson-morgan.com/myaccount) or by contacting our [customer care department](https://www.thompson-morgan.com/contact-us). Please do not email your credit-card number or other sensitive information. 
+Feefo, whose registered office is Feefo Barn Heath Farm, Heath Road East, Petersfield, Hampshire, England, GU31 4HT, for the purposes of conducting customer satisfaction surveys on our products and overall service delivery. Feefo is registered as a data controller [Z2323576](https://ico.org.uk/ESDWebPages/Entry/Z2323576).
 
-  
+BVG Group companies: periodically Thompson & Morgan will share its' customer information with other BVG Group companies who have products and services that are relevant to the clothing and home & garden markets. Those companies will then send you marketing information by your preferred method (post or email), on products that are directly related to your purchases with Thompson & Morgan. You can opt out of these communications at any time, by emailing [ccare@thompson-morgan.com](mailto:ccare@thompson-morgan.com) or calling 0333 400 0033. The group companies most likely to contact you are: Van Meuwen, Clifford James, Waltons and Happy Beaks.
 
+### Requesting a copy of your personal information
 
-#### 10\. Updates to this Policy
+You can contact Thompson & Morgan using the information below, to request a copy of the personal information we hold on you. If you request this information, you will need to provide proof of your identity. We will return the information to you electronically in a text file. You are legally entitled to request this information under the General Data Protection Regulation, there is no charge for this service. 
 
-Any changes or updates to this Security and Privacy Policy will be posted on this Site, so that you will always be aware of what information we collect, use and disclose. We suggest that you review this Policy now and again so that you are aware of any changes or updates.
+To create an online request for a copy of your personal information, please visit our Subject Access Request portal at [https://sar.thompson-morgan.com](https://sar.thompson-morgan.com/).
+
+We will supply you the following information:
+
+• **Your contact details:** which may include your email address, phone and mobile numbers, your previous address, your previous or second email address, your communications preferences and the date your contact details were last updated
+
+• **Your transaction history:** if you have ordered from us, you will receive details of your order, including products purchased, date of purchase and the cost of the products
+
+• **Your marketing history:** if we have marketed to you, we will send you details of the catalogues and emails we have sent you
+
+• **Email correspondence:** we will search our email server to see if your email address is in any email message headers, if we find it, we will send you the email(s)
+
+To request a copy of your personal information via post, please write to: Data Protection Officer, Thompson & Morgan, Poplar Lane, Ipswich, Suffolk, IP8 3BU.
+
+### How to control your personal information on the Thompson & Morgan website
+
+If you do not want to receive communications from Thompson & Morgan, you can change your preferences by emailing [ccare@thompson-morgan.com](mailto:ccare@thompson-morgan.com). You can also opt-out directly from emails and SMS messages that we may send you and you can use the opt-out section of the order form in our catalogues. Lastly, you can phone our customer service team on 0333 400 0033.
+
+### Your rights
+
+This privacy statement reflects the rights that you have under the General Data Protection Regulation, which specifically charges Thompson & Morgan with providing you access to your personal information, and to ensure that your data is used appropriately & securely with specific reference to the rights of you, the data subject. Those rights regarding your personal data are as follows: 
+
+The right to access a copy of your personal information that we hold
+
+The right to object to our processing of your personal data, if doing so causes you distress 
+
+The right to prevent Thompson & Morgan processing your data for direct marketing purposes 
+
+The right to object to decisions being taken using automated means that includes your personal data 
+
+The right to have inaccurate personal data rectified, or destroyed 
+
+The right to have your data erased from our IT infrastructure
+
+The right to data portability
+
+The right to be informed about the collection and use of your data
+
+You can find out more about your rights regarding your personal data in the UK from the Office of the Information Commissioner [www.ico.org.uk](https://www.ico.org.uk/). 
+
+### Definitions
+
+In this section of our privacy policy we want to explain what some of the terms in the policy mean, for the avoidance of any doubt. If you cannot find the definition you require, or are still unsure about the meaning of any aspect of this privacy policy, please [ccare@thompson-morgan.com](mailto:ccare@thompson-morgan.com) to request more information.
+
+Data Controller: under the General Data Protection Regulation (GDPR), organisations that collect, process and store your personal information are defined as Data Controllers, which makes Thompson & Morgan the Data Controller for your personal data collected from our website. 
+
+Data Subject: GDPR classifies individuals as data subjects. So you, the customer or enquirer of Thompson & Morgan are a data subject under GDPR if you purchase or enquire about our products.
+
+Data Processor: a data processor is an organisation other than the data controller, who processes your personal data on behalf of the data controller. A good example of this is PayPal, who are one of the payment processing options for any products that you buy online. The data processors who handle your personal information gathered by our website have the same duty of care in handling your personal information. 
