@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livebinders.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611092206id_/http%3A//www.livebinders.com/welcome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livebinders.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210135003id_/http%3A//www.livebinders.com/welcome/privacy) for the most accurate reproduction.*
 
 # LiveBinders Privacy Policy
 
@@ -83,7 +83,7 @@ We may use Personal Data to:
 
 Generally, we will not share your Personal Data or Usage Data with any third party without your permission, except as otherwise described in this section of our privacy policy.
 
-**Aggregated Data.** We use Google Analytics to understand when, where and how visitors use our site. We have in the past, and may in the future, offer reports to paid subscribers that help them understand the visitor behavior for a particular binder they've created. Google uses cookies placed on our website to help us track visitor behavior. To understand how Google uses your Personal Data, we refer to Google's [privacy policies.](https://web.archive.org/web/20180611092206id_/http%3A//www.livebinders.com/welcome/www.policies.google.com/privacy/update)
+**Aggregated Data.** We use Google Analytics to understand when, where and how visitors use our site. We have in the past, and may in the future, offer reports to paid subscribers that help them understand the visitor behavior for a particular binder they've created. Google uses cookies placed on our website to help us track visitor behavior. To understand how Google uses your Personal Data, we refer to Google's [privacy policies.](https://policies.google.com/privacy)
 
 **Service Providers.** From time to time, we may enter into relationships with third parties who provide services to us (e.g., credit card processing services, web services, email services, support management services or data management and storage services). In those circumstances, we disclose information about you that is necessary for such service providers to perform those services, but only if such service providers agree not to disclose your information except as necessary to perform such services. 
 
@@ -141,7 +141,7 @@ We may update this privacy policy from time to time. If under any such update we
 
 ## Uploaded Content
 
-To learn more about Document Security for your uploaded content click here.
+To learn more about Document Security for your uploaded content [click here](https://web.archive.org/welcome/document_security).
 
 ## More Information
 
