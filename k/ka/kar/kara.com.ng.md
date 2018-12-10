@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kara.com.ng privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627173907id_/http%3A//www.kara.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kara.com.ng privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210143427id_/http%3A//www.kara.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 **8\. Questions?**
 
-Questions regarding this statement should be directed to the following address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#eb988a878e98b4808a998aab9984928a8788848a989fc68c99849e9bc5888486)
+Questions regarding this statement should be directed to the following address: [sales_kara@royalcoast-group.com](mailto:sales_kara@royalcoast-group.com)
 
 **ADDENDUM**
 
