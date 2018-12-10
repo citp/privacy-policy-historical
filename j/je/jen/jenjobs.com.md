@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jenjobs.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606155056id_/http%3A//www.jenjobs.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenjobs.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210032953id_/http%3A//jenjobs.com/privacy/policy) for the most accurate reproduction.*
 
 # Job Vacancy | Job Search | Online Jobs in Malaysia | Jawatan Kosong : JenJOBS
 
@@ -111,7 +111,7 @@ If you have further questions regarding our privacy policy, kindly contact us:-
 ATTN : Compliance Officer  
 Phone number : 03-74935989  
 Fax number : 03-74935998  
-Email : [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Email : customerservice@my.jenjobs.com
 
 Address :  
 806, Block B, Pusat Dagangan Phileo Damansara II,  
