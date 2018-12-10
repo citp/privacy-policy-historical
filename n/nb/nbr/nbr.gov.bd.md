@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbr.gov.bd privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604130356id_/http%3A//nbr.gov.bd/privacy-policy/eng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbr.gov.bd privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210105622id_/http%3A//nbr.gov.bd/privacy-policy/eng) for the most accurate reproduction.*
 
 # National Board of Revenue (NBR), Bangladesh
 
