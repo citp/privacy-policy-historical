@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterlivingwithhypnosis.net privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606085012id_/http%3A//statbrook.com/disclaimers/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterlivingwithhypnosis.net privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210075303id_/http%3A//statbrook.com/disclaimers/privacy.html) for the most accurate reproduction.*
 
 # Statbrook Associates LLC Privacy Policy
 
