@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the influence-central.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607203811id_/http%3A//influence-central.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influence-central.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210192213id_/http%3A//influence-central.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Influence Central
 
@@ -107,8 +107,8 @@ If we decide to change our privacy policy, we will post those changes to this pr
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Influence Central  
-55 Chapel Street, Suite 300  
-Newton, MA 02458  
+P.O. Box 35038  
+Brighton, MA 02135  
 617-244-3002
 
 www.influence-central.com, email: info@influence-central.com
