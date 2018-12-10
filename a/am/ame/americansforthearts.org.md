@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americansforthearts.org privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206033027id_/http%3A//www.americansforthearts.org/node/28440) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansforthearts.org privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210031044id_/https%3A//www.americansforthearts.org/node/28440) for the most accurate reproduction.*
 
 # Americans for the Arts Privacy Statement | Americans for the Arts
 
-_Updated: December 2013_
+_Updated: May 2018_
 
 ##  Overall
 
@@ -12,9 +12,18 @@ Your privacy while visiting our site is important to us. Because we gather certa
 
 Americans for the Arts collects the following types of personal information: names (individual and organization), titles, postal and e-mail addresses, phone and fax numbers, and billing information. We use this information to reply to inquiries and process billing and business requests related to program participation, including listservs, membership, donations, purchases, and online communications. This information will only be accessed by appropriate Americans for the Arts staff and the occasional third party as described below. Basic contact information collected, excluding e-mail address will be shared via roster to all meeting attendees. To suppress your contact information from being included in any meeting roster [e-mail us](https://web.archive.org/about-us/contact-us). Americans for the Arts, like many nonprofits, occasionally rents its postal address lists to carefully selected like-minded organizations. To suppress your name and address from these lists, please [e-mail us](https://web.archive.org/about-us/contact-us) and place "Suppress Mail List Rental" in the subject line and include your Name and Address in the body.
 
+When you submit information via web forms, it is used to provide you with services which you have requested from us. By submitting data via web forms on our website(s), you consent to share your data in accordance with the guidelines of this privacy statement. If you require information about the data we've collected to process your online request please [e-mail us](mailto:webmaster@artsusa.org) for information.
+
 ##  Cookies
 
-Cookies are text messages stored on your computer's hard drive. The message is sent back to a website's server each time your browser requests a page from the server that set the cookie. The main purposes of our cookies are to prepare customized Web pages that the user has requested, to let users move as quickly and easily around our site as possible, and to identify users who have voluntarily submitted any personal information about themselves to us. We use temporary session cookies that only apply to the current site visit, with the exception of our statistics software that is permanent (to identify repeat users). These cookies only contain technical information and can be deleted from your hard drive or denied if you have disabled the cookies without affecting site performance. Information submitted to us confidentially will not be shared with outside organizations, individuals, or companies, and users are free to delete cookies from their computers' hard drives at any time. Most features that AmericansForTheArts.org provides can still be utilized if you have disabled cookies in your browser, but they may require you to log-in multiple times and may otherwise affect site performance.
+Cookies are text messages stored on your computer's hard drive. The message is sent back to a website's server each time your browser requests a page from the server that set the cookie. The main purposes of our cookies are to prepare customized Web pages that the user has requested, to let users move as quickly and easily around our site as possible, and to identify users who have voluntarily submitted any personal information about themselves to us. We use temporary session cookies that only apply to the current site visit, with the exception of our statistics software that is permanent (to identify repeat users). These cookies only contain technical information and can be deleted from your hard drive or denied if you have disabled the cookies without affecting site performance. Information submitted to us confidentially will not be shared with outside organizations, individuals, or companies, and users are free to delete cookies from their computers' hard drives at any time. Most features that AmericansForTheArts.org provides can still be utilized if you have disabled cookies in your browser, but they may require you to log-in multiple times and may otherwise affect site performance. If you prefer not to allow cookies turn them off in our browser by  following the instructions found in your borwser support:
+
+  * [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=en)
+  * [Safari](https://support.apple.com/kb/ph21411?locale=en_US)
+
+
 
 ##  Information Collected and Stored Automatically
 
@@ -30,16 +39,16 @@ This site contains links to other sites for which Americans for the Arts is not 
 
 ##  Americans for the Arts Listservs
 
-Americans for the Arts manages several listservs. Only those who have joined particular listservs may post to those lists. Americans for the Arts does not give, sell, or rent these lists' subscriber information to any third parties. However, please note that content sent to the list is viewable by all subscribers. If you'd like to unsubscribe from a listserv, please [contact us](https://web.archive.org/about-us/contact-us).
+Americans for the Arts manages several listservs. Only those who have joined particular listservs may post to those lists. Americans for the Arts does not give, sell, or rent these lists' subscriber information to any third parties. However, please note that content sent to the list is viewable by all subscribers. If you'd like to unsubscribe from a listserv, please [contact us](mailto:memberships@artsusa.org).
 
 ##  How to Unsubscribe from Americans for the Arts E-mail Newsletters
 
-To unsubscribe from receiving our e-newsletters, please [contact us](https://web.archive.org/about-us/contact-us), and we will remove your registration account.
+To unsubscribe from receiving our e-newsletters, please [contact us](mailto:webmaster@artsusa.org), and we will remove your registration account.
 
 ##  How to Update Information
 
-If you need to update your e-mail information or any other personal information, please [contact us](https://web.archive.org/about-us/contact-us).
+If you need to update your e-mail information or any other personal information, please [contact us](mailto:webmaster@artsusa.org).
 
 ##  Contact Information
 
-For more information, requests, questions, or comments, please [e-mail us](https://web.archive.org/about-us/contact-us) or call us at 202.371.2830 or toll free at 1.866.471.ARTS.
+For more information, requests, questions, or comments, please [e-mail us](mailto:webmaster@artsusa.org) or call us at 202.371.2830 or toll free at 1.866.471.ARTS.
