@@ -1,100 +1,121 @@
-> *The following text is extracted and transformed from the whatdowedoallday.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatdowedoallday.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210072546id_/https%3A//www.whatdowedoallday.com/disclosure) for the most accurate reproduction.*
 
-# Legal Agreement
+# Disclosure, Privacy Policy and Copyright | What Do We Do All Day
 
-**Go Daddy Respects Your Privacy**
+## Disclosure and Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Here at What Do We Do All Day? we protect your privacy to the best of our ability. What Do We Do All Day? is a website owned and operated in the United States of America. Its content is aimed at persons in the United States over the age of 18. This website was not created to serve, nor does it actively market to residents outside of the United States.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This policy explains when and why we collect information about you, how we use it, the conditions under which we may disclose it to others and how we keep it secure.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We may change this policy from time to time so please check this page occasionally to ensure that you’re happy with any changes. By using our website, you agree to be bound by this policy.
 
-**Information Collection and Use**
+Effective May 25, 2018
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**How we collect and use information**
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Like most sites on the internet, information about you is collected via cookies, leaving comments on the site, or subscribing to our newsletter. More information on this is below.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+## Comments
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+If you leave a comment on the site, it will be publicly displayed along with the name you include. Your email address is NEVER publicly displayed or shared with any third party, but is stored in our database. If you include a web address it will be displayed. We reserve the right to delete comments at our discretion.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+You should avoid leaving any public comments of a personal nature on this website. We also encourage the use of first name only or a pseudonym when leaving a public comment.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+## Newsletters/Email
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We may collect your email address, but only if you voluntarily provide it to us. When you sign up for emails from us, your email address, IP address, time stamp of sign up is retained by our newsletter service. When you sign up for our email newsletter you agree to receive emails from us. Emails may be informational newsletters or promotions and announcements related to content we feel is of interest to you.
 
-**Security**
+As of this writing, the email address and any additional information supplied (e.g. IP address) will be held on the MadMimi server for as long as you wish to receive newsletters from What Do We Do All Day. Newsletters contain tracking pixels. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. This allows us to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+All email communication from us will clearly state who the email is from and will provide clear information on how to contact the sender. All e-mail messages will contain information on how to remove yourself from our mailing list so that you receive no further email communication from us.
 
-**Updating Your Information**
+Should you wish to discontinue receiving newsletters, please hit unsubscribe link which is located at the bottom of every email we send out. If you wish us to delete your email address and data completely and irrevocably, please contact us. You can read MadMimi’s privacy policy on their [website](https://madmimi.com/overview).
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+## Advertising Privacy Statement
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site. AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-      iii.      You may call us at: (480) 505-8800
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
 
-       iv.      You may fax us at: (480) 505-8844
+**For European Economic Area Residents**
 
-**Sending Emails**
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+## **Cookies**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-**Compliance with Laws and Law Enforcement**
+We use cookies for the following purposes:
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+(a) to make it easier to comment on the blog; i.e. storing name, email and website if provided by you
 
-**Third Party Service Providers**
+9b) advertising – we use cookies to help us to display advertisements that will be relevant to you; and
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+(c) analysis – we use cookies to help us to analyze the use and performance of our website and services;
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Analytic data includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. Google’s privacy policy is available at: <https://www.google.com/policies/privacy/>
 
-**Supplementation of Information**
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+(a) <https://support.google.com/chrome/answer/95647?hl=en> (Chrome);
 
-**Contests/Surveys**
+(b) <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>(Firefox);
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+(c) <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+(d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
 
-**Tell-A-Friend**
+(e) <https://support.apple.com/kb/PH21411> (Safari); and
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+(f) <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
 
-**What Happens to my Personal Information if I Opt Out?**
+Please note that blocking cookies may have a negative impact on the functions of many websites, including our Site. Some features of the Site may cease to be available to you.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+**Transfer of personal data**  
+We will not transfer your personal data unless we are under legal obligation to do so.
 
-**Transfer of Data Abroad**
+**Sale of Business or Assets**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+In the event that the Site or substantially all of its assets is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, the information we have collected about you may be one of the assets sold or merged in connection with that transaction.
 
-**Changes in Our Practices**
+**Removal of personal data**  
+If you are resident of the EEA, at any point you may ask that we remove your information from our systems. Please contact erica [at] whatdowedoallday.com and we will do so within 30 days.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**Children’s Information**
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+What Do We Do All Day/ does not knowingly collect any personally identifiable information from children under the age of 18. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 18 in its database, please contact us immediately at erica [at] whatdowedoallday.com and we will use our best efforts to promptly remove such information from our records.
 
-**Contacting Our Site**
+**Changes to the Privacy Policy**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
 
-* * *
+For questions about this privacy policy, please contact  erica@whatdowedoallday.com.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+## Compensation/Sponsorship/Affiliates
+
+This blog may accept forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
+
+The compensation received may influence the choice and timing of content, topics or posts made in this blog. That content, advertising space or post will be identified as paid or sponsored content in accordance with FTC disclosure rules.
+
+As a rule,  I am not interested in writing sponsored content unless it is about a topic I am passionate about. Even though I may be compensated to provide an opinion on products, services, websites and various other topics I will always give my honest opinion.
+
+Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question. I cannot be held liable for any damages incurred while using this website or products I’ve linked to.  Links to other websites are provided for convenience and information only. When you click on a link to another website, you may be leaving _What Do We Do All Day?_   The presence of a link on _What Do We Do All Day?_ does not mean that I endorse, authorize or sponsor the linked website, or that I am affiliated with that website’s owners or sponsors.  I am not responsible for and assume no liability for the content or presentation of any linked site or any link contained in a linked site, or any changes or updates to such sites.
+
+_What Do We Do All Day?_  is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Amazon Affiliates, a third party system, uses cookies to serve advertisements and links to products on Amazon.com.  You may read more about Amazon Affiliates and their [Operating Agreement here](https://affiliate-program.amazon.com/gp/associates/agreement?ie=UTF8&pf_rd_t=501&ref_=amb_link_84018271_6&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=&pf_rd_s=assoc-right-1&pf_rd_r=&pf_rd_i=assoc_join_menu).
+
+_What Do We Do All Day?_ uses affiliate links for product created and sold by third parties. Blog owner may receive a commission for purchases made through these affiliate links.
+
+## **Copyright:**
+
+All content (unless otherwise specified) on whatdowedoallday.com is protected by the United States copyright and trademark law, international conventions, and other applicable laws.  All materials contained on this website are the intellectual property of the blog owner. Unauthorized use and/or duplication of this material without express and written permission from this blog’s author and/or owner is strictly prohibited.
+
+We are not responsible for the republishing of the content found on this blog on other Web sites or media without our permission. This privacy policy is subject to change without notice.
+
+Want Your Kids to Love Being Unplugged?
+
+Subscribe to our newsletter and as a thank you, receive 10 waiting games kids can play anytime anywhere.
+
+Your email will *never* be shared or sold to a 3rd party. Click here to view our [privacy policy](https://www.whatdowedoallday.com/disclosure/).
