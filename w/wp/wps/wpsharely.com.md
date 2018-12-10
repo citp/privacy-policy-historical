@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpsharely.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513161122id_/http%3A//wpsharely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsharely.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210045413id_/http%3A//wpsharely.com/privacy-policy) for the most accurate reproduction.*
 
 # WP Sharely Privacy Policy
 
