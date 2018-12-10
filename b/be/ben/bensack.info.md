@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bensack.info privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608050901id_/http%3A//www.bensack.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bensack.info privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210060629id_/http%3A//www.bensack.info/privacy) for the most accurate reproduction.*
 
 # privacy – bensack.info
 
