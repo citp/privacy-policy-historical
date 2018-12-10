@@ -1,0 +1,13 @@
+> *The following text is extracted and transformed from the songspk.cc privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210202443id_/http%3A//songspk.cc/privacy-policy.html) for the most accurate reproduction.*
+
+# SongsPk || Privacy Policy
+
+Here is information on what types of personal information we collect and receive when you use visit this site, and how we safeguard your information. We never sell your personal information to third parties. 
+
+The information in the log files include your IP (internet protocol) address, your ISP (web company provider, this type of as AOL or Shaw Cable), the browser you used to visit our site (this kind of as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
+
+The information in the log files include your IP (internet protocol) address, your ISP (web company provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. 
+
+We also partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information. 
+
+Here is information on what types of personal information we collect and receive when you use visit this site, and how we safeguard your information. The information in the log files include your IP (internet protocol) address, your ISP (web company provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. 
