@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookweb.org privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127062436id_/http%3A//www.ebookweb.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookweb.org privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210214938id_/http%3A//www.ebookweb.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - E-Book Web
 
@@ -6,7 +6,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 CONTACTING US
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact](http://www.ebookweb.org/contact/ "contact") us.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
 This document was last updated on November 18, 2016
 
