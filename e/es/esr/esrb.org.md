@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esrb.org privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606092643id_/http%3A//www.esrb.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esrb.org privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210183913id_/http%3A//www.esrb.org/about/privacy.aspx) for the most accurate reproduction.*
 
 # ESRB privacy policy summary
 
