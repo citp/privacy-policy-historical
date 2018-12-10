@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subispeed.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603153951id_/http%3A//www.subispeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subispeed.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210041532id_/http%3A//www.subispeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
