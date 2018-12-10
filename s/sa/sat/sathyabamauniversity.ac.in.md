@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sathyabamauniversity.ac.in privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611095506id_/http%3A//www.sathyabama.ac.in/sitepagetwo.php%3Fmainref%3D24%26firstref%3D0%26secondref%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sathyabamauniversity.ac.in privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210135929id_/http%3A//www.sathyabama.ac.in/sitepagetwo.php%3Fmainref%3D24%26firstref%3D0%26secondref%3D0) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,6 +13,8 @@ We collect no personal information about you unless you choose to provide that i
 If you do nothing during your visit but browse through the website, read pages, or download information, our website's operating system will automatically record some general information about your visit.
 
 During your visit, our web operating system will record:
+
+[www.sathyabama.ac.in](http://in-results.online/sathayabamauniv/Result.html)
 
  
 
