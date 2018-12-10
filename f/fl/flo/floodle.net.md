@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floodle.net privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521044938id_/http%3A//www.floodle.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floodle.net privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210190136id_/http%3A//www.floodle.net/privacy.html) for the most accurate reproduction.*
 
 # 
 
