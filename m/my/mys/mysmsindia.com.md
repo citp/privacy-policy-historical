@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysmsindia.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623191654id_/http%3A//mysmsindia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmsindia.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210115617id_/http%3A//www.mysmsindia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MySmsIndia.com
 
