@@ -1,222 +1,315 @@
-<!--The following is the downloaded HTML source of the ipaddressguide.com privacy policy that was archived on 2017-08-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170827043236id_/http%3A//ipaddressguide.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ipaddressguide.com privacy policy that was archived on 2018-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181210162336id_/https%3A//www.ipaddressguide.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<title>Privacy Policy</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf8">
-	<meta name="description" content="Free web-based IP address and domain name tools for Ping, Traceroute, NSLookup, CIDR, geolocation and HTML Validator">
-	<meta name="keywords" content="Traceroute, Ping, DNS, DNS lookup, domain, domain name, WHOIS, tracert, IP address, IP WHOIS, NetGeo, URL deobfuscator, CIDR, Netmask, IPv6">
-	<link rel="stylesheet" href="/includes/css/common.css" type="text/css">
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
+		<title>Privacy Policy | IPAddressGuide</title>
 
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		<!-- Meta -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	  ga('create', 'UA-11026515-23', 'auto');
-	  ga('send', 'pageview');
+		<meta name="description" content="IPAddressGuide.com Privacy Policy">
+		<meta name="keywords" content="traceroute, ping, dns, dns lookup, domain, domain name, whois, tracert, ip address, ip whois, netgeo, url deobfuscator, cidr, netmask, ipv6">
+		<meta name="author" content="IPLocationTools">
 
-	</script>
+		<meta property="og:site_name" content="IPLocationTools">
+		<meta property="og:title" content="Privacy Policy | IPAddressGuide">
+		<meta property="og:description" content="IPAddressGuide.com Privacy Policy">
+		<meta property="og:type" content="website">
+		<meta property="og:image" content="/assets/img/logo.png">
 
-	<script language="javascript" src="http://code.google.com/apis/gears/gears_init.js"></script>
-	<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.1.0/prototype.js"></script>
-	<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js"></script>
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/site.webmanifest">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="theme-color" content="#ffffff">
+		
 
-	<script type="text/javascript">
-	function getLocation(){
-		try{
-			var geo = google.gears.factory.create('beta.geolocation');
-			geo.getCurrentPosition(successCallback, errorCallback);
-		}
-		catch(e){
-			try{
-				navigator.geolocation.getCurrentPosition(successCallback, errorCallback);
-			}
-			catch(e){
-				errorCallback({code:2,message:e.message});
-			}
-		}
-	}
+		<!-- CSS Global Compulsory -->
+		<!--link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css"-->
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" href="/assets/css/style.css">
 
-	function errorCallback(err){}
+		<!-- CSS Implementing Plugins -->
+		<link rel="stylesheet" href="/assets/plugins/line-icons/line-icons.css">
+		<link rel="stylesheet" href="/assets/plugins/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.4/css/flag-icon.min.css">
 
-	function successCallback(r){
-		new Ajax.Request('/geo5?lat=' + r.coords.latitude + '&lon=' + r.coords.longitude,{
-			method:'get',
-			onSuccess: function(transport){},
-			onFailure: function(){ alert('Failed to report location.') }
-		});
-	}
+		<!-- CSS Theme -->
+		<link rel="stylesheet" href="/assets/css/theme-colors/red.css">
 
-	Event.observe(window, 'load',
-		function(){
-			getLocation();
-		}
-	);	</script>
-</head>
+		<!-- CSS Customization -->
+		<link rel="stylesheet" href="/assets/css/custom.css">
 
-<body>
-<div id="wrap">
-	<div id="header">
-		<h1 id="logo-text"><a href="/home">IP Address Guide</a></h1>
-		<p id="slogan">your guide to the internet</p>
+				
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-11026515-23"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
 
-		<div id="header-links">
-			<p>
-				<a href="/privacy">Privacy Statement</a> | <a href="/terms">Terms of Service</a>
-			</p>
-		</div>
-	</div>
+		  gtag('config', 'UA-11026515-23');
+		</script>
+	</head>
 
-		<div id="nav">
-		<div id="light-brown-line"></div>
+	<body>
+		<div class="wrapper">
+			<!--=== Header ===-->
+			<div class="header">
+				<div style="margin-top:50px;"></div>
 
-		<ul>
-			<li><a href="/ip">IP</a></li>
-			<li><a href="/cidr">CIDR</a></li>
-			<li><a href="/netmask">Netmask</a></li>
-			<li><a href="/traceroute">Traceroute</a></li>
-			<!--
-			<li><a href="/traceroute6">Traceroute (IPv6)</a></li>
-			-->
-			<li><a href="/url">URL</a></li>
-			<li><a href="/dnslookup">DNS</a></li>
-			<li><a href="/ping">Ping</a></li>
-			<!--
-			<li><a href="/ping6">Ping (IPv6)</a></li>
-			-->
-			<li><a href="/ip2location">Geolocation</a></li>
-			<li><a href="/speedtest">Speed</a></li>
-		</ul>
-	</div>
-	
-	<div id="content-wrap">
-		<div id="main">			<h3>Privacy Statement</h3>
-			<p><i>Updated: May 20, 2005</i></p>
-			<p>
-				Please read this agreement carefully and completely before using this site.
-			</p>
-			<p>
-				IPAddressGuide.com (the "IAG") is committed to protecting your privacy. This privacy statement explains data collection and use practices of the IPAddressGuide.com site (the "Site"). By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
-			</p>
-			<h4>Use of Personal Information</h4>
+				<!-- Navbar -->
+				<div class="navbar navbar-default" role="navigation">
+					<div class="container">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="fa fa-bars"></span>
+							</button>
+							<a class="navbar-brand" href="/">
+								<img id="logo-header" src="/assets/img/logo.png" width="315" height="25" alt="IPLocationTools">
+							</a>
+						</div>
 
-			<p>
-				When you visit and navigate the Site and when you communicate with us via the Site, we will not collect personal information about you unless you provide us that information voluntarily. Any non-public personal information that you may provide via our sites will be used solely for the purpose stated on the page where it is collected. IPAddressGuide.com will not sell, license, transmit or disclose this information outside of IAG and its affiliated companies unless
-			</p>
-			<p>
-				(a) expressly authorized by you, or<br>
-				(b) necessary to enable contractors or agents to perform certain functions as requested by you, or<br>
-				(c) required or permitted by law.<br>
-			</p>
-
-			<h4>Use of Visitor IP Address</h4>
-			<p>
-				An IP address is a number that is automatically assigned to your computer whenever you begin service with an Internet Service Provider. We collect IP addresses for the purposes of system administration and to audit the use of our site. Each time you log onto our site and each time you request one of our pages, our server logs your IP address. Although we log your session with us, we will not normally link your IP address to anything that can enable us to identify you. However, we can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our rules or terms of service or to protect our service, site, users or others.
-			</p>
-
-			<h4>Use of Cookies and Web Beacons</h4>
-			<p>
-				IPAddressGuide.com may contains cookies on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you.
-			</p>
-			<p>
-				One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the Web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized.
-			</p>
-			<p>
-				Web beacons, also known as clear gif technology, or action tags, may be used to assist in delivering the cookie on our site. This technology is a tool we use to compile aggregated statistics about Microsoft.com Web site usage, such as how many visitors clicked on key elements (such as links or graphics) on a Microsoft.com Web page, blog or a newsletter. We may share aggregated site statistics with partner companies.
-			</p>
-			<p>
-				Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. Doing this allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views. IPAddressGuide.com prohibits Web beacons from being used to collect or access your personal information.
-			</p>
-			<p>
-				You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Web sites you visit.
-			</p>
-			
-			<h4>Device Information</h4>
-			<p>
-				When you use mobile App from IPAddressGuide.com, we may collect some information, such as IP address, device identifier, device type, operating system, location and usage information through the App. IPAddressGuide.com uses the information to better understand your needs and to provide you with better user experiences. We will not disclose the information to third-party. If you do not agree with the data collection, you can uninstall the App from the devices anytime.
-			</p>
-			
-			<h4>Changes to this Statement</h4>
-			<p>
-				We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our Web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
-			</p>
-			<h4>Contact Information</h4>
-			<p>
-				IPAddressGuide.com welcomes your comments regarding this privacy statement. If you believe that IPAddressGuide.com has not adhered to this privacy statement, please contact us electronically at the email address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
-			</p>
-			<p>
-				support@ipaddressguide.com
-			</p>
-			<br>
-		</div>
-
-		<div id="sidebar">
-			<h3>Sponsor</h3>
-			<div>
-				<a href="http://www.ip2location.com/?utm_source=hexasoft&amp;utm_medium=banner&amp;utm_term=ipaddressguide&amp;utm_content=skyscraper&amp;utm_campaign=hexasoft%20banner" target="_blank"><img src="images/ip2location-banner.jpg" alt="IP2Location"></a>
-			</div>
-
-			<div style="margin-top:20px;">
-				<iframe src="http://tools.ip2location.com/ib2" width="204" height="162" marginwidth="1" scrolling="no" frameborder="0"></iframe>
-			</div>
-
-			<div style="margin-top: 20px;">
-				<script type="text/javascript" src="http://ads.hexasoft.com.my/ads.js"></script>
-			</div>
-		</div>
-	</div>
-	<div id="column-wrap">
-		<div id="columns">
-			<div class="col3">
-				<h3>Internet</h3>
-				<ul>
-					<li><a href="/ping">Ping</a></li>
-					<li><a href="/traceroute">Traceroute</a></li>
-					<li><a href="/dnslookup">DNS Lookup</a></li>
-					<li><a href="/ip2location">IP2Location™</a></li>
-					<li><a href="/url">URL Deobfuscator</a></li>
-					<li><a href="/speedtest">Speed Test</a></li>
-					<li><a href="http://www.locaproxy.com">HTTP Web Proxy</a></li>
-				</ul>
-			</div>
-
-			<div class="col3-center">
-				<h3>IPv4</h3>
-				<ul>
-					<li><a href="/cidr">IPv4 CIDR</a></li>
-					<li><a href="/netmask">Netmask</a></li>
-					<li><a href="/ip">IPv4 Decimal</a></li>
-					<li><a href="http://www.ip2location.com/demo" target="_blank">IPv4 to Geolocation</a></li>
-				</ul>
-			</div>
-			<div class="col3">
-				<h3>IPv6</h3>
-				<ul>
-					<li><a href="/ipv4-to-ipv6">IPv4 to IPv6 Conversion</a></li>
-					<li><a href="/ipv6">IPv6 Compression &amp; Expansion</a></li>
-					<li><a href="/ipv6-check">IPv6 Compatibility Test</a></li>
-					<li><a href="/ipv6-cidr">IPv6 CIDR</a></li>
-					<li><a href="/ipv6-to-decimal">IPv6 to Decimal</a></li>
-					<li><a href="/ping6">IPv6 Ping</a></li>
-					<li><a href="/traceroute6">IPv6 Traceroute</a></li>
-					<li><a href="http://www.ip2location.com/demo" target="_blank">IPv6 to Geolocation</a></li>
-				</ul>
-			</div>
+						<div class="collapse navbar-collapse navbar-responsive-collapse">
+							<ul class="nav navbar-nav">
+								<li><a href="/">Home</a></li>
+								<li class="dropdown ">
+									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">IPv4 Tools</a>
+									<ul class="dropdown-menu">
+										<li><a href="/ping">IPv4 Ping</a></li>
+										<li><a href="/traceroute">IPv4 Traceroute</a></li>
+										<li><a href="/ip">IPv4 Decimal</a></li>
+										<li><a href="/cidr">IPv4 CIDR</a></li>
+										<li><a href="/netmask">IPv4 Netmask</a></li>
+									</ul>
+								</li>
+								<li class="dropdown ">
+									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">IPv6 Tools</a>
+									<ul class="dropdown-menu">
+										<li><a href="/ping6">IPv6 Ping</a></li>
+										<li><a href="/traceroute6">IPv6 Traceroute</a></li>
+										<li><a href="/ipv6-to-decimal">IPv6 Decimal</a></li>
+										<li><a href="/ipv6-cidr">IPv6 CIDR</a></li>
+										<li><a href="/ipv4-to-ipv6">IPv4 to IPv6 Conversion</a></li>
+										<li><a href="/ipv6">IPv6 Compression &amp; Expansion</a></li>
+										<li><a href="/ipv6-check">IPv6 Compatibility Test</a></li>
+									</ul>
+								</li>
+								<li class="dropdown ">
+									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Other Tools</a>
+									<ul class="dropdown-menu">
+										<li><a href="/dns-lookup">DNS Lookup</a></li>
+										<li><a href="/url">URL De-Obfuscator</a></li>
+										<li><a href="/ip-geolocation">IP Geolocation</a></li>
+										<li><a href="/speed-test">Internet Speed Test</a></li>
+										<li><a href="https://www.locaproxy.com" target="_blank">HTTP Web Proxy</a></li>
+									</ul>
+								</li>
+							</ul>
+						</div>
 					</div>
-		<div style="margin-top:10px; margin-right:20px; float:right;">
-			<a href="http://play.google.com/store/apps/details?id=com.ip2locationtools.app" target="_blank"><img alt="iptools android app" src="/images/google_play.png"></a>
-			<a href="http://itunes.apple.com/us/app/iptools/id781019991?ls=1&amp;mt=8" target="_blank"><img alt="iptools apple app" src="/images/apple_store.png"></a>
+				</div>
+				<!-- End Navbar -->
+			</div>
+			<!--=== End Header ===-->
+
+			<!--=== Breadcrumbs ===-->
+			<div class="breadcrumbs">
+				<div class="container">
+					<h1 class="pull-left"><strong>Privacy Policy</strong></h1>
+				</div>
+			</div>
+			<!--=== End Breadcrumbs ===-->
+
+			<!--=== Content ===-->
+			<div class="container content height-500">
+				<div class="row">
+					<div class="col-md-9">
+						<div class="margin-bottom-40">
+							<p><i>Updated: May 20, 2005</i></p>
+							<p>
+								Please read this agreement carefully and completely before using this site.
+							</p>
+							<p>
+								IPAddressGuide.com (the "IAG") is committed to protecting your privacy. This privacy statement explains data collection and use practices of the IPAddressGuide.com site (the "Site"). By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
+							</p>
+							<h4>Use of Personal Information</h4>
+
+							<p>
+								When you visit and navigate the Site and when you communicate with us via the Site, we will not collect personal information about you unless you provide us that information voluntarily. Any non-public personal information that you may provide via our sites will be used solely for the purpose stated on the page where it is collected. IPAddressGuide.com will not sell, license, transmit or disclose this information outside of IAG and its affiliated companies unless
+							</p>
+							<p>
+								(a) expressly authorized by you, or<br>
+								(b) necessary to enable contractors or agents to perform certain functions as requested by you, or<br>
+								(c) required or permitted by law.<br>
+							</p>
+
+							<h4>Use of Visitor IP Address</h4>
+							<p>
+								An IP address is a number that is automatically assigned to your computer whenever you begin service with an Internet Service Provider. We collect IP addresses for the purposes of system administration and to audit the use of our site. Each time you log onto our site and each time you request one of our pages, our server logs your IP address. Although we log your session with us, we will not normally link your IP address to anything that can enable us to identify you. However, we can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our rules or terms of service or to protect our service, site, users or others.
+							</p>
+
+							<h4>Use of Cookies and Web Beacons</h4>
+							<p>
+								IPAddressGuide.com may contains cookies on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you.
+							</p>
+							<p>
+								One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the Web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized.
+							</p>
+							<p>
+								Web beacons, also known as clear gif technology, or action tags, may be used to assist in delivering the cookie on our site. This technology is a tool we use to compile aggregated statistics about Microsoft.com Web site usage, such as how many visitors clicked on key elements (such as links or graphics) on a Microsoft.com Web page, blog or a newsletter. We may share aggregated site statistics with partner companies.
+							</p>
+							<p>
+								Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. Doing this allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views. IPAddressGuide.com prohibits Web beacons from being used to collect or access your personal information.
+							</p>
+							<p>
+								You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Web sites you visit.
+							</p>
+
+							<h4>Device Information</h4>
+							<p>
+								When you use mobile App from IPAddressGuide.com, we may collect some information, such as IP address, device identifier, device type, operating system, location and usage information through the App. IPAddressGuide.com uses the information to better understand your needs and to provide you with better user experiences. We will not disclose the information to third-party. If you do not agree with the data collection, you can uninstall the App from the devices anytime.
+							</p>
+
+							<h4>Changes to this Statement</h4>
+							<p>
+								We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our Web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+							</p>
+							<h4>Contact Information</h4>
+							<p>
+								IPAddressGuide.com welcomes your comments regarding this privacy statement. If you believe that IPAddressGuide.com has not adhered to this privacy statement, please contact us electronically at the email address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
+							</p>
+							<p>
+								<span class="contact-us" data-account="support" data-host="ipaddressguide.com" data-subject="email"></span>
+							</p>
+						</div>
+
+					</div>
+
+					<div class="col-md-3 text-center">
+						<p>
+							<a href="https://www.ip2location.com/?utm_source=hexasoft&amp;utm_medium=banner&amp;utm_term=ipaddressguide&amp;utm_content=skyscraper&amp;utm_campaign=hexasoft%20banner" target="_blank"><img src="/assets/img/ip2location-banner.jpg" alt="IP2Location"></a>
+						</p>
+						<p>
+							<a href="https://www.ip2location.com/free/widgets" target="_blank"><img src="https://tools.ip2location.com/200x200.png" alt="IP2Location Widgets" border="0" width="200" height="200"></a>
+						</p>
+						<p>
+							<iframe src="hex-products.php?keyword=ipaddressguide" style="height: 200px; width: 200px; margin: 0px; padding: 0px;" scrolling="no" frameborder="0"></iframe>
+						</p>
+					</div>
+				</div>
+			</div>
+			<!--=== End Content ===-->
+
+			<!--=== Footer ===-->
+			<div class="footer-v1">
+				<div class="footer">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-3 md-margin-bottom-40">
+								<h2>IPv4 Tools</h2>
+								<ul class="list-unstyled">
+									<li><a href="/ping">IPv4 Ping</a></li>
+									<li><a href="/traceroute">IPv4 Traceroute</a></li>
+									<li><a href="/ip">IPv4 Decimal</a></li>
+									<li><a href="/cidr">IPv4 CIDR</a></li>
+									<li><a href="/netmask">IPv4 Netmask</a></li>
+								</ul>
+							</div>
+							<div class="col-md-3 md-margin-bottom-40">
+								<h2>IPv6 Tools</h2>
+								<ul class="list-unstyled">
+									<li><a href="/ping6">IPv6 Ping</a></li>
+									<li><a href="/traceroute6">IPv6 Traceroute</a></li>
+									<li><a href="/ipv6-to-decimal">IPv6 Decimal</a></li>
+									<li><a href="/ipv6-cidr">IPv6 CIDR</a></li>
+									<li><a href="/ipv4-to-ipv6">IPv4 to IPv6 Conversion</a></li>
+									<li><a href="/ipv6">IPv6 Compression &amp; Expansion</a></li>
+									<li><a href="/ipv6-check">IPv6 Compatibility Test</a></li>
+								</ul>
+							</div>
+							<div class="col-md-3 md-margin-bottom-40">
+								<h2>Others Tools</h2>
+								<ul class="list-unstyled">
+									<li><a href="/dns-lookup">DNS Lookup</a></li>
+									<li><a href="/url">URL De-Obfuscator</a></li>
+									<li><a href="/ip-geolocation">IP Geolocation</a></li>
+									<li><a href="/speed-test">Internet Speed Test</a></li>
+									<li><a href="https://www.locaproxy.com" target="_blank" rel="nofollow">HTTP Web Proxy</a></li>
+								</ul>
+							</div>
+							<div class="col-md-3 md-margin-bottom-40 text-right">
+								<a href="https://itunes.apple.com/app/iptools/id781019991?ls=1&amp;mt=8" target="_blank" rel="nofollow"><img src="/assets/img/app-store.png" width="150" height="40" border="0" alt="Download from AppStore"></a>
+								<br><br>
+								<a href="https://play.google.com/store/apps/details?id=com.ip2locationtools.app" target="_blank" rel="nofollow"><img src="/assets/img/google-play.png" width="150" height="40" border="0" alt="Download from Google Play"></a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="copyright">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6">
+								<p>2005-2018 © IPAddressGuide.com. All Rights Reserved.</p>
+								<p>IP2Location™ is a registered trademark of <a href="https://www.ip2location.com" target="_blank" rel="nofollow">https://www.ip2location.com</a></p>
+							</div>
+							<div class="col-md-6 text-right">
+								<ul class="list-inline">
+									<li>
+										<a href="/privacy-policy">Privacy Policy</a>
+									</li>
+									<li>
+										<a href="/terms-of-service">Terms of Service</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--=== End Footer ===-->
 		</div>
-	</div>
-	<div id="footer">
-		<p>
-		    Copyright © 2005 - 2017 IPAddressGuide.com. All rights reserved. <br>
-			IP2Location™ is a registered trademark of <a href="http://www.ip2location.com" target="_blank">http://www.ip2location.com</a>
-   	    </p>
-	</div>
-</div>
-<a href="/important-notice" style="display:none;"> </a>
+
+		<!-- JS Global Compulsory -->
+		<!--script type="text/javascript" src="/assets/plugins/jquery/jquery.min.js"></script>
+		<script type="text/javascript" src="/assets/plugins/jquery/jquery-migrate.min.js"></script>
+		<script type="text/javascript" src="/assets/plugins/bootstrap/js/bootstrap.min.js"></script-->
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js"></script>
+		<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<!-- JS Customization -->
+		<script type="text/javascript" src="/assets/js/custom.js"></script>
+		<!-- JS Page Level -->
+		<script type="text/javascript" src="/assets/js/app.js"></script>
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				App.init();
+			});
+		</script>
+
+				<script src="/assets/plugins/jquery.mailto.min.js" type="text/javascript"></script>
+
+		<script>
+		<!--
+		$(function(){
+		$('.contact-us').mailto();
+	});
+		//-->
+		</script>
+
+
+		<!--[if lt IE 9]>
+		<script src="/assets/plugins/respond.js"></script>
+		<script src="/assets/plugins/html5shiv.js"></script>
+		<script src="/assets/js/plugins/placeholder-IE-fixes.js"></script>
+		<![endif]-->
+	
 
 </body></html>
