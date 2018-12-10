@@ -1,47 +1,87 @@
-> *The following text is extracted and transformed from the iogames.space privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601040413id_/http%3A//iogames.space/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iogames.space privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210105801id_/http%3A//iogames.space/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy of iogames.space
+# Privacy Policy | iogames.space
 
-## IO GAMES PRIVACY POLICY
+Addicting Games, Inc. ("us", "we", or "our") operates the iogames.space website (the "Service").
 
-IO Games LLC (“IO Games” or “we” or “us” or “our”) takes your information, trust, and privacy very seriously. This Privacy Policy describes our treatment of personally identifiable information ("Personal Information") and other data that we gather when you, the customer, developer, contributor, visitor and/or user (collectively, “you”), access iogames.space and all subdomains and web pages thereon (collectively, the “Website”), the SpacePlay app (the “App”), and all other related products and services provided by IO Games (the Website, the App, and all related products and services are referred to, collectively, as the “Service”). The Service is not intended or authorized for, or knowingly made available to, individuals who are younger than 13 years old, and is authorized only for use and users located within the United States. 
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-### COLLECTION AND USE OF PERSONAL INFORMATION
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-IO Games collects and processes the Personal Information you provide when creating an account. While this Personal Information is provided voluntarily, it may be required for access to certain products or services or to process a user’s order. The types of Personal Information collected may include such things as your name, email address, phone number, location, Facebook, Twitter, Google and other user names, information related to your use of our Service, and browser information. All Personal Information provided by you to IO Games is used for such purposes as allowing you to establish an account, providing access to the Service, improving the content of the Service, customizing the advertising and content you see (including IO Games’ or third-party advertising or content), and communicating with you about specials and/or newly developed features. IO Games also processes non-personal, non-identifiable, anonymous data, whether or not aggregated, in order to statistically analyze users’ habits, usage patterns, and demographics. This information may include your location, IP address, browser type, operating information, mobile carrier, device and application IDs, cookie information, and the page you requested. This type of data is treated as non-Personal Information. Unless otherwise stated in this Privacy Policy, IO Games uses this data only in aggregate form. We may provide aggregate information to our partners, service providers and/or other third parties about how our users, collectively, use our Service, so that our partners, service providers, and/or other third parties may understand how people use their services and our Service. IO Games receives and stores information from third parties that interact in some way with the Service or that provide services to us in connection with the Service. As just one example, if you sign in using Facebook, we may receive certain information from Facebook. Please read the privacy policy of any such app or third party so that you understand its sharing practices. 
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at iogames.space
 
-### GOOGLE ANALYTICS OR OTHER SERVICES
+## Information Collection And Use
 
-We currently use Google Analytics on iogames.space. Google Analytics collects data about all of our traffic. Google Analytics records, among other things: how you arrived at the Service; how long you stayed, and similar data. We use this data solely to optimize the search engine ranking of the Website, and consistently with the Google Analytics Terms of Service. IO Games may similarly use a competing service and, if so, will operate consistently with terms of any such service. 
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address ("Personal Information").
 
-### HOW PERSONAL INFORMATION IS SHARED
+We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
 
-IO Games doesn’t rent or sell your Personal Information to anyone. However, as described more fully in this Policy, your publicly-available information is available to third parties, and we may provide it to third parties, by license or otherwise. Obviously, information you choose to share through the Service via Facebook, Twitter, Google or other third-parties, will be visible consistent with the terms of those third-party apps. As such, IO Games urges you to give due consideration to this fact, and to review all applicable terms and policies, before sharing information through the Service. When you use the Service, certain information that is public, such as your public user profile information, may be searchable by search engines and be shared with or disclosed to third parties. We may also share or disclose aggregated and anonymous data, such as de-identified data (that is, not tied to individual users), to third parties, including businesses who utilize the Service, for analytical, advertising, or other purposes. Certain Personal Information may be made available to third party developers if you use these third party apps. You should review the policies of third party apps and websites to ensure that you are comfortable with the ways in which they use and disclose the information you share with them. We cannot and do not guarantee that they will follow, or that they are consistent with, our rules or our Privacy Policy. 
+## Log Data
 
-### SHARING OF INFORMATION
+We may also collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-IO Games may release Personal Information when it has a good faith belief that release is necessary to: comply with the law, including laws outside your country of residence, when/if applicable; enforce or apply our conditions of use and other agreements; or protect or enforce the rights, property, or safety of IO Games, our employees, our users, or others. This may include exchanging information with other companies and organizations for fraud protection and/or credit risk reduction. It may also include cooperation with law enforcement and/or complying with warrants, subpoenas, and/or other legal process. 
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-### COMMUNICATIONS VIA EMAIL
+## Cookies
 
-IO Games may periodically use your email address to send you information related to IO Games and/or the Service, as applicable. If you want to stop receiving such materials, please follow the unsubscribe instructions contained in such email. Be aware that if you opt not to receive, or block, legal notices from us, such as notices regarding this Privacy Policy, those legal notices will still govern your use of the Service, and you are responsible for reviewing such legal notices for changes. 
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
 
-### COOKIES
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
 
-Cookies are small files that are placed on your browser or device by the website or app you are using or ad you are viewing. Pixel tags (also called clear GIFs, web beacons, or pixels) are small blocks of code on a webpage or app that allow them to do things like read and place cookies and transmit information to IO Games. The resulting connection can include information such as a device’s IP address, the time a person viewed the pixel, an identifier associated with the browser or device and the type of browser being used. Local storage is an industry-standard technology that allows a website or app to store and retrieve data on a person’s computer, mobile phone or other device. Some examples include device or HTML5 local storage and caching. IO Games may use technologies like cookies, pixels, and local storage and identifiers (including identifiers supplied by your browser or device or by app platform companies) on our website, in our emails, and within our apps to provide you with a range of products and services. You can control cookies through your browser settings and other tools. By using, and/or continuing to use, our Service through your computer or mobile device, you consent to our use of cookies, pixels and local storage in accordance with this Privacy Policy. IO Games is not responsible for the privacy practices of websites or other services operated by third parties that are linked to or integrated with the Service or for the privacy practices of third party internet advertising companies. Once you click any link, become redirected to another site, access a third party application, or click on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any information they collect. This Privacy Policy governs only information collected by IO Games on the Service. 
+If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
 
-### USER SECURITY
+## Service Providers
 
-Your account’s Personal Information is protected by a password for your privacy and security. In order to prevent unauthorized access to your account and Personal Information please select and protect your password appropriately, and limit access to your computer and browser by signing off after you have finished accessing your account. IO Games endeavors to safeguard user information to ensure that user account information is kept private. However, IO Games cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
 
-### DELETING YOUR ACCOUNT
+These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
 
-If at any time a user would like to delete their account or information stored within the Service, they must send an email with such request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) When your account is deleted, your information will be permanently deleted from the servers and databases used within the Service. 
+## Communications
 
-### DISCLAIMER ABOUT AD TECHNOLOGY PROVIDERS
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
-We may use third-party Service Providers to show advertisements to you to help support and maintain our website. Depending on the ads that are served, your data may be shared with any of the ad technology providers listed through the link below. Ad technology providers (including Google, Ad Exchanges, SSPs, DSPs, ad networks, bidders and vendors) use your data for example, to show you personalised ads or to report on conversions. By following the link below, you can find links to information on how the technology providers use your data. [Click here for information about Ad Technology Providers.](https://web.archive.org/adtechprovidersdisclaimer.txt)
+## Compliance With Laws
 
-### AMENDMENTS TO THIS POLICY
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
 
-IO Games may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make material changes in the way we use Personal Information, we will notify you by posting an announcement on our Service or sending you an email. Users are bound by any changes to the Privacy Policy when they use the Service after such changes have been first posted. If you have any questions or concerns regarding privacy using the Service, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+## Business Transaction
+
+If Addicting Games, Inc. is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.
+
+## Security
+
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+
+However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+
+## International Transfer
+
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children's Privacy
+
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children").
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+This Privacy Policy is effective as of May 11, 2017 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us.
