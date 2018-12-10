@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardianlv.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614113246id_/http%3A//guardianlv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardianlv.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210181744id_/http%3A//guardianlv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Guardian Liberty Voice
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://guardianlv.com](http://guardianlv.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://guardianlv.com](https://guardianlv.com/)
 
 **Your Consent**
 
@@ -81,7 +81,7 @@ This policy was last modified on 09/19/2012
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-> [Contact Us](http://guardianlv.com/contact-us/)
+> [Contact Us](https://guardianlv.com/contact-us/)
 
   
 1516 E. Tropicana ave  
