@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528191808id_/https%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210080045id_/https%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Free Stuff
 
@@ -11,7 +11,7 @@ By using this Website you accept the terms of this Privacy Policy.
 * **ABOUT US**  
 This Website is operated by All Groove Limited, a company registered in England and Wales (company reg: 04738797) (referred to in this Privacy Policy as "All Groove", "us" or "we"). Our registered office and main trading address is Unit 1, 80-82 White Lion Street, London N1 9PF. Our VAT number is 187730083.
 
-Except as otherwise described in this Privacy Policy, All Groove is the data controller of the personal information we collect about you from the Website for the purposes of the Data Protection Act 1998 and, with effect from 25 May 2018, the General Data Protection Regulation ("GDPR") and any other data protection laws which apply in the United Kingdom from time to time (together, "Data Protection Law").
+Except as otherwise described in this Privacy Policy, All Groove is the data controller of the personal information we collect about you from the Website for the purposes of the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and, with effect from 25 May 2018, the General Data Protection Regulation ("GDPR") and any other data protection laws which apply in the United Kingdom from time to time (together, "Data Protection Law").
 
 For any enquiries relating to this Privacy Policy or how we use information collected from this Website, please contact us by writing to us at Unit 1, 80-82 White Lion Street, London N1 9PF or by emailing us at [privacy@allgroove.com](mailto:privacy@allgroove.com). 
 
