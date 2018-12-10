@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tattomedia.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428020717id_/http%3A//www.tattomedia.com/about_us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattomedia.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210103848id_/http%3A//tattomedia.com/about_us/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - About - Tatto Media
 
