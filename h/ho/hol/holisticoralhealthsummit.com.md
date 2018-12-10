@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holisticoralhealthsummit.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609132711id_/https%3A//holisticoralhealthsummit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holisticoralhealthsummit.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210132354id_/http%3A//holisticoralhealthsummit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Holistic Oral Health Summit
 
