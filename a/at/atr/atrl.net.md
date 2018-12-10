@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atrl.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626220642id_/https%3A//atrl.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atrl.net privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210100006id_/https%3A//atrl.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ATRL
 
@@ -33,3 +33,9 @@ For more information about IPS, the software that powers ATRL, including the mem
 Check this page periodically for updates. If you have any questions about this privacy statement, please contact us using [this form](https://atrl.net/contact/).
 
  _Privacy Statement last updated: May 4, 2017._
+
+### Third Parties
+
+**Invisible reCAPTCHA**
+
+This site uses a CAPTCHA to ensure humans are performing certain actions. The CAPTCHA provider may set a session cookie and get information about your internet browser and device accessing this website.
