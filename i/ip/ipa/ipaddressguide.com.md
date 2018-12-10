@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ipaddressguide.com privacy policy that was archived on 2017-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170827043236id_/http%3A//ipaddressguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaddressguide.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210162336id_/https%3A//www.ipaddressguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-### Privacy Statement
+# Privacy Policy | IPAddressGuide
 
 _Updated: May 20, 2005_
 
@@ -46,8 +44,3 @@ We may occasionally update this privacy statement. When we do, we will also revi
 #### Contact Information
 
 IPAddressGuide.com welcomes your comments regarding this privacy statement. If you believe that IPAddressGuide.com has not adhered to this privacy statement, please contact us electronically at the email address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem. 
-
-support@ipaddressguide.com 
-
-  
-
