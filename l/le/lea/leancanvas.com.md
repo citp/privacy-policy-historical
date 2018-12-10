@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leancanvas.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607102239id_/http%3A//ask.leanstack.com/leanstack-terms-and-policies/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leancanvas.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210232903id_/http%3A//ask.leanstack.com/leanstack-terms-and-policies/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ask LEANSTACK
 
@@ -168,6 +168,12 @@ Our Services are not directed to children under 13. If you learn that a child un
 #### Changes to this Privacy Policy
 
 We may change this policy from time to time, and if we do we will post any changes on this page. If you continue to use the Services after those changes are in effect, you agree to the revised policy.
+
+#### International Contractual Terms
+
+  * European Union Model Clauses. LEANSTACK offers European Union Model Clauses, also known as Standard Contractual Clauses, to meet the adequacy and security requirements for our Customers that operate in the European Union, and other international transfers of Customer Data. A copy of our standard data processing addendum, incorporating Model Clauses, is [available here](http://ask.leanstack.com/leanstack-terms-and-policies/terms/data-processing-addendum).
+
+
 
 #### Data Protection Officer
 
