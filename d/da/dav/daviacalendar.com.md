@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daviacalendar.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609072928id_/http%3A//corp.okwave.com/policies/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daviacalendar.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210170102id_/http%3A//corp.okwave.com/policies/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
