@@ -1,32 +1,39 @@
-> *The following text is extracted and transformed from the thegamecollection.net privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727122955id_/http%3A//www.thegamecollection.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamecollection.net privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210073748id_/https%3A//www.thegamecollection.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Game Collection
 
 This privacy policy sets out how The Game Collection uses and protects any information that you give The Game Collection when you use this website. The Game Collection is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. The Game Collection may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-### What we collect
+### What we collect and why we collect it
 
-We collect information from you for a number of reasons. Firstly in order to process your order, we collect your name, email address, postal address and credit card details. Then, to make your visit more rewarding and useful, we may monitor browsing patterns and your use of the store via cookies. Please see the information below on cookies.
+We rely on a number of legal bases to collect, use, share and otherwise process the information we have about you for the purposes described in this Privacy Policy. Firstly in order to process your order and fulfil our contract with you, we collect your name, email address, postal address and credit card details. Then, to make your visit more rewarding and useful, we may monitor browsing patterns. We may automatically collect the following information as part of that:
+
+  * Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type (e.g. Safari or Internet Explorer) and version, time zone setting, operating system and platform.
+  * Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products, pages and items you viewed, searched for or purchased; page response times, download errors, length of visits to certain pages.
+
+
+
+To the extent that any of this information constitutes personal data under applicable data protection laws, including the GDPR, we will process this in accordance with such laws.
 
 ### What we do with the information we gather
 
 The Game Collection will use your personal information to fulfil orders that you have placed on our website. We may use your personal data for internal purposes such as auditing, data analysis, and research to improve The Game Collection's products, services, website, and customer communications. 
 
-If you enter into a prize draw or competition, we may use the information you provide to administer those programmes.
+If you enter into a prize draw or competition, we will use the information you provide to administer those programmes.
 
-If you have opted into our marketing, we may use your information to contact you with details about our products and offers which we feel may be of interest to you. You may opt out of these emails either by updating the option in your account or by following the instructions at the bottom of each email. 
+If you have opted into our weekly newsletter, we may use your information to contact you with details about our products and offers which we feel may be of interest to you. You may opt out of these emails at any time either by updating the option in your account or by following the instructions at the bottom of each email. 
 
-From time to time, we may contact you to request a review of a recent order or notify you of items that have been left in your basket. If you would like to opt out of any of these please [contact us](http://www.thegamecollection.net/contacts/) with your request.
+From time to time, we may contact you to request a review of a recent order or notify you of items that have been left in your basket. If you would like to opt out of any of these please [contact us](https://www.thegamecollection.net/contacts/) with your request.
 
-You have the right at any time to stop us from contacting you for marketing purposes. If you wish not to be contacted by us and/or our 3rd parties' partners, please [contact us](http://www.thegamecollection.net/contacts/). 
+You have the right at any time to stop us from contacting you for marketing purposes. If you wish not to be contacted by us, please [contact us](https://www.thegamecollection.net/contacts/). 
 
 ### Disclosing information to others
 
-The Game Collection will never sell or share your personal information with third parties unless it is required to fulfil your order or to fulfil another function, which you have consented to. Should we employ other companies to perform functions on our behalf (including fulfilling orders, analysing data, sending e-mails and postal mail), we will ensure that they only use such information under our direction and that they have adequate procedures in place to deal with your data securely. Some of these companies may be based outside the European Economic Area ("EEA"). If we transfer your data to these companies we will ensure that they process your data in accordance with this privacy policy and the Data Protection Act. 
+The Game Collection will never sell or share your personal information with third parties unless it is required to fulfil your order or to fulfil another function, which you have consented to. For example, in order to complete your order we may need to disclose some of your information to our delivery partners including Royal Mail, DPD, Parcel Force or UPS. In order to deliver newsletters we use Mailchimp (Rocket Science Group) who process data in accordance with their Privacy Policy and Terms. Should we employ other companies to perform functions on our behalf (including fulfilling orders, analysing data, sending e-mails and postal mail), we will ensure that they only use such information under our direction and that they have adequate procedures in place to deal with your data securely. Some of these companies may be based outside the European Economic Area ("EEA"). If we transfer your data to these companies we will ensure that they process your data in accordance with this privacy policy and the applicable data protection laws, including the GDPR. 
 
 ### Fraud Protection Systems
 
-To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998. 
+To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. This process is carried out via our Credit Card Payment Processor and their choice of third party fraud protection provider. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the EU General Data Protection Regulation (EU) 2016/679 (GDPR). 
 
 ### Security
 
@@ -60,10 +67,6 @@ Google doesn't keep a persistent record of your browsing history as part of the 
 If you click on a Google +1 button, in order to store your +1 and make it visible to the public, Google receives information about your Google profile, the URL you +1, your IP address, and other browser-related information. If you undo your +1, this information will be deleted. You can see all your +1's in the +1's tab of your profile.   
 <https://www.google.com/policies/privacy/partners/>
 
-**HotUKDeals**  
-The HotUKDeals share button is located on each product page and allows visitors to share details of a product with that community if they so wish. Please see their Privacy Policy for more information.  
-<https://www.hotukdeals.com/privacy-policy>
-
 **Google Analytics**  
 The Game Collection use Google Analytics to analyse browsing patterns on our site. We do not gather any personally identifiable data for this purpose. For full details please see -   
 <https://www.google.com/policies/technologies/types/>
@@ -71,10 +74,6 @@ The Game Collection use Google Analytics to analyse browsing patterns on our sit
 **YouTube**  
 The Game Collection embed videos from YouTube into some of our product and landing pages to provide visitors with more information about the products we sell. For details of YouTube's Privacy Policy please see -   
 <https://www.google.com/policies/technologies/types/>
-
-**Ve Interactive**  
-The Game Collection use VePanel to provide cart abandonment features to improve customer shopping experiences  
-<https://www.veinteractive.com/about-us/legal-policies/privacy-policy/>
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. Please be aware that blocking or refusing cookies will prevent you being able to complete a purchase on our website.
 
@@ -84,7 +83,7 @@ The Game Collection website may contain links to other websites of interest. How
 
 ### Controlling your personal information
 
-If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by opting out of subscribed newsletters in your account, by writing to or emailing us via our [contact us](http://www.thegamecollection.net/contacts/) page. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by opting out of subscribed newsletters in your account, by writing to or emailing us via our contact us page. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. You may request details of personal information which we hold about you under the EU General Data Protection Regulation (EU) 2016/679 (GDPR). If you would like a copy of the information held on you please write to:
 
 The Game Collection  
 Unit C Redbrick Court,   
@@ -95,3 +94,5 @@ SA6 8QN,
 UK
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+If you would like us to remove your personal data from our systems please also contact us and we will remove it within 30 days.
