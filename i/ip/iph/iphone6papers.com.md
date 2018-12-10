@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphone6papers.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610220636id_/http%3A//iphone6papers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphone6papers.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211000944id_/http%3A//iphone6papers.com/privacy-policy) for the most accurate reproduction.*
 
 # iPhone6papers - Privacy Policy
 
