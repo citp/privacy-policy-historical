@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucd.ie privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629200506id_/http%3A//www.ucd.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucd.ie privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210051214id_/http%3A//www.ucd.ie/privacy) for the most accurate reproduction.*
 
 # University College Dublin - Privacy
 
@@ -18,13 +18,13 @@ University College Dublin does not collect any personal data about you on this w
 
 The University will not process any personal information about you on this website without your permission, save in cases where the University is required by law to do so, such as the investigation of a criminal offence by the Gardai, or a breach of the UCD Information Technology Services Acceptable Use Policy.
 
-This is normally stated on the web-page where the information is requested and should be self-explanatory. However, if you have any specific queries about the purpose for which your information is to be used, you should contact our Information Compliance Manager before submitting the information. University policy and procedures relating to the processing of personal data, including your rights of rectification and your responsibilities as providers of personal information, are available at[ http://www.ucd.ie/dataprotection](https://web.archive.org/web/20180629200506id_/http://www.ucd.ie/privacy/%20http://www.ucd.ie/dataprotection)
+This is normally stated on the web-page where the information is requested and should be self-explanatory. However, if you have any specific queries about the purpose for which your information is to be used, you should contact our Information Compliance Manager before submitting the information. University policy and procedures relating to the processing of personal data, including your rights of rectification and your responsibilities as providers of personal information, are available at[ http://www.ucd.ie/dataprotection](https://web.archive.org/web/20181210051214id_/http%3A//www.ucd.ie/%20http://www.ucd.ie/dataprotection)
 
 **Processing of technical information**
 
-Cookies may be used by the University websites to collect non-personal information about how visitors use our websites or to remember display preferences. Cookies may also be used on some websites to enable specific functionality (e.g. UCD Connect portal).
+Cookies may be used by the University websites to collect non-personal information about how visitors use our websites or to remember display preferences. Temporary session cookies may also be used on some websites to enable specific functionality (e.g. UCD Connect portal) and no information is retained once the “session” is complete.
 
-Occasionally cookie information is passed to third parties for analysing website activity and usage. This information will not include any of your personal information from which you will be readily identifiable. Further Information regarding UCD’ cookie usage is available at <http://www.ucd.ie/cookie-policy/>
+Occasionally cookie information is passed to third parties for analysing website activity and usage. This information will not include any of your personal information from which you will be readily identifiable. Further Information regarding UCD’ cookie usage is available at <http://www.ucd.ie/cookie-policy/>
 
 Technical details in connection with visits to this website may be logged on the University’s server for accounting and auditing purposes (e.g. Computer IP number). It is the policy of the University not to disclose such technical information in respect of individual website visitors to any third party unless obliged to disclose such information by a rule of law. The technical information will be used only for statistical and other administrative purposes. You should note that technical details, which the University cannot associate with any identifiable individual, do not constitute "personal data" for the purposes of the Data Protection Acts 1988 and 2003 and General Data Protection Regulation (GDPR) 2018.
 
