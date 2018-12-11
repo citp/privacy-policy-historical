@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acousticguitar.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529192735id_/http%3A//stringletter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acousticguitar.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212001638id_/http%3A//stringletter.com/privacy-policy) for the most accurate reproduction.*
 
 # Stringletter » Privacy Policy
 
