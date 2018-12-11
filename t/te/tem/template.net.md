@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the template.net privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426182616id_/https%3A//www.template.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the template.net privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212002814id_/https%3A//www.template.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Template.net
 
@@ -24,7 +24,7 @@ Template.net may otherwise disclose personal information upon the following prov
 
 To protect the privacy and security of our users, Template.net takes reasonable steps such as requesting email addresses before allowing website downloads. Each user is responsible for maintaining security and account information, and controlling access to email communications with Template.net at all times.
 
-In the event that a user’s personal information is compromised due to breach of security, Teamplate.net will promptly notify the owners of addresses whose personal information has been compromised in accordance with Template.net notification procedures as set forth by this Privacy Policy, or as required by law.
+In the event that a user’s personal information is compromised due to breach of security, Template.net will promptly notify the owners of addresses whose personal information has been compromised in accordance with Template.net notification procedures as set forth by this Privacy Policy, or as required by law.
 
 ### USER ID TRACKING
 
