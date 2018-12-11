@@ -1,68 +1,158 @@
-> *The following text is extracted and transformed from the noblepig.com privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028020237id_/http%3A//noblepig.com/about/press/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noblepig.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211203511id_/https%3A//noblepig.com/about/press/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Noble Pig
+# Privacy Policy, GDPR & Your Data
 
-**_Privacy Policy_**
+If you require any more information or have any questions about our privacy policy, please feel free to [**contact us.**](https://noblepig.com/contact/)
 
- ****Noble Pig, LLC is committed to maintaining the privacy and protection of your personal information. This privacy policy tells you about the information we collect on our website and how we use that information. By using the Noble Pig website, you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us.
+At Noblepig.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by Noblepig.com and how we use it.
 
-_**Children Under 13**_
+**WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?**
 
-We care about protecting the privacy of children. We won’t knowingly allow anyone under 13 to provide us any personally identifying information. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. If you’re under 13, please do not provide us with any personally identifying information (such as your name, your email address or your phone number).
+  * **Information You Voluntarily Submit to the Website:  **We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. 
 
-_**Information Collected**_
 
-The information we gather falls into two categories: (1) information you supply when you register to receive emails or comment on the website, and (2) tracking information collected as you navigate through our site.
+  * **Information We Collect from Others:  **We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
 
-_**Personally Identifying Information**_
 
-In operating this site, Noble Pig, LLC may include registration, comment forms, online surveys, and other online forms that ask users to provide their names, e-mail addresses, and other contact information.
+  * **Automatically-Collected Information:  **We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-_**Tracking Information**_
 
-**Cookies.** From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Web site. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our website other than cookies. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Web site may be diminished and some features may not work as they were intended.
+  * **Cookies:**  We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-**Click Tracking.** As is true of most websites, Noble Pig, LLC gathers certain information automatically and stores it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the site, track users’ movements around the site and gather demographic information about our user base as a whole. Except as noted herein, we do not link this automatically-collected data to personal information.
 
-**IP Addresses.** Each user’s IP address is logged with each visit and each action performed on Noble Pig. This information is never provided to the third parties, except as otherwise stated in this Privacy Policy, and is logged only for a temporary period of time. IP address information is linked to personal information and may be used in an effort to block a “banned” user from accessing the Site.
 
-**Advertising.** We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to understand your opt-out choices, please click here: http://www.networkadvertising.org/choices/.
+**HOW YOUR INFORMATION MAY BE USED**
 
-Google, as a third-party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+We may use the information collected in the following ways:
 
-**Participation on a Public Website.** You should be aware that any personal information you submit on Noble Pig in the comments may be read, collected, or used by other users of this site, including anonymous visitors.
+  * To operate and maintain the Website;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-_**How Your Information Will Be Used**_
 
-**Personal Information.** We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. We may use your personal information to verify your identity, to check your qualifications, or to follow up with transactions initiated on the site. We may also use your contact information to inform you of any changes to Noble Pig, or to send you additional information about Noble Pig, LLC.
 
-**Anonymous Information.** We use anonymous information to analyze our site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+**THIRD-PARTY USE OF PERSONAL INFORMATION**
 
-**Use of Cookies.** We may use cookies to deliver content specific to your interests. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-**Disclosure of Personal Information.** We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Noble Pig, LLC, (2) protect and defend the rights or property of Noble Pig, LLC or the users of this site, or (3) act under circumstances to protect the safety of the public or users of this site.
+Additionally, the Website may use third-party service providers service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies. The Website currently uses the following third-party service providers:
 
-_**Security**_
+  * Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
+  * Feedblitz – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.
+  * CloudFlare – this service is used as a Content Delivery Network used to serve you our website at a faster rate. Their privacy policy can be found [**here**](https://www.cloudflare.com/security-policy/).
+  * ADDITIONAL THIRD-PARTY SERVICE PROVIDERS – At this time, there are none.
 
-Noble Pig, LLC has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
 
-_**Comments**_
 
-Noble Pig, LLC may include interactive forms such as comments. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
-_**Third Party Websites**_
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-Noble Pig may contain links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
+**ANONYMOUS DATA**
 
-_**Contacting Us**_
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-If you have any questions about this policy, our practices related to this site, please feel contact us at the following cathy AT noble pig dot com
+**PUBLICLY VISIBLE INFORMATION**
 
-_**Updates and Changes**_
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible.
 
-We reserve the right, at any time, to add to, change, update, or modify this privacy policy, simply by posting such change, update, or modification on Noble Pig and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site. It is your responsibility to review this privacy policy from time to time to ensure that you continue to agree with all of its terms.  
-**  
-_Affiliate Links_**
+**COOKIES**
 
- ****Noble Pig LLC is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com, Amazonsupply.com, or Myhabit.com. **  
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
+
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+  * We use Google Analytics for tracking visitors and aggregating information about the traffic to our websites. The Google Analytics privacy policy can be found here:  https://policies.google.com/privacy. You can learn more about how to opt-out of tracking in Google Analytics [here](https://tools.google.com/dlpage/gaoptout/). Certain information will be retained in Google Analytics for a period of 26 months before automatically deleting.
+
+
+
+**ADVERTISING**
+
+**Display Ads  
+**We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personally identifiable information is shared with the Website’s ad providers.
+
+**Retargeting Ads  
+**From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+
+**Sponsored Content Tracking Pixels  
+**This Website may engage in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
+
+**Affiliate Program Participation  
+**The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions. 
+
+Noble Pig is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+**Newsletters**  
+On the Website, you may subscribe (through Feedblitz) to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+For more information about Feedblitz, their privacy statement is [here](https://p.feedblitz.com/t3.asp?/84/28481934/6090765_/~feeds.feedblitz.com/~/t/0/0/feedblitz/noads/~https://www.feedblitz.com/privacy/), you can manage your [personal cookie settings here](https://app.feedblitz.com/f/?Privacy), and site owners can review cookies that FeedBlitz places [here](https://p.feedblitz.com/t3.asp?/84/28481934/6090765_/~feeds.feedblitz.com/~/t/0/0/feedblitz/noads/~https://www.feedblitz.com/cookies/).
+
+**RIGHTS RELATED TO YOUR PERSONAL INFORMATION**
+
+**Opt-out**  – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at cathy@noblepig.com to be removed from our mailing list.
+
+**Access**  – You may access the personal information we have about you by going [**here**](https://noblepig.com/about/press/privacy-policy/privacy-tools/).
+
+**Amend**  – You may contact us at cathy@noblepig.com to amend or update your personal information.
+
+**Forget**  – In certain situations, you may request that we erase or forget your personal data. To do so, please [**go here**](https://noblepig.com/about/press/privacy-policy/privacy-tools/).
+
+Please note that we may need to retain certain information for record keeping purposes or to complete transactions, or when required by law.
+
+**SENSITIVE PERSONAL INFORMATION**
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+**CHILDREN’S INFORMATION**
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at foodie@recipegirl.com and we will use our best efforts to promptly remove such information from our records.
+
+**CONTACT INFORMATION**
+
+At any time, please contact us at cathy@noblepig.com for questions related to this Privacy Policy.
+
+**DoubleClick DART Cookie**
+
+→ Google, as a third party vendor, uses cookies to serve ads on Noblepig.com.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to Noblepig.com and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+
+**Our Advertising Partners**  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
+
+  * Amazon
+  * Reward Style
+
+
+
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of Noblepig.com._
+
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on Noblepig.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+
+Noblepig.com has no access to or control over these cookies that are used by third-party advertisers.
+
+**Surveys.**  From time to time, we may ask you to participate in surveys designed to help us improve this Site. Any personal information that you provide in response to a survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in non-personally identifying, aggregated form.
+
+**Employees, Third-Party Processors and Third-Party Service Providers.** We will disclose personal information to our employees, contractors, affiliates, distributors, dealers, vendors, and suppliers who process personal information on our behalf, or assist us in the provision or operation of this Site. For example, if you sign up for our newsletter, we will share this information with our mailing list service provider.
+
+**Visiting Our Site from Outside the United States**
+
+If you are visiting our Site from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. Please be aware that the data protection and other laws of the United States might not be as comprehensive as those in your country. However, please be assured that we take steps to ensure that your privacy is protected. By using our Site, you agree that your information may be transferred to our facilities and those third parties with whom we share it, as described in this Privacy Policy.
+
+**Data Breach Plan**
+
+ ****Should any event occur where customer data has been lost, stolen, or potentially compromised, our policy is to alert our customers via email no later than 48 hours of our team becoming aware of the event. We will also report such incident to any required data protection authority. We will work closely with any customers affected to determine next steps such as any end-user notifications, needed patches, and how to avoid any similar event in the future. **  
 **
+
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
+
+**Update**  
+This Privacy Policy was last updated on: Friday, May 4th, 2018.  
+[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
