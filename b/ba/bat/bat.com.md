@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bat.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610153129id_/http%3A//www.bat.com/group/sites/uk__9d9kcy.nsf/vwPagesWebLive/DO52GBWX%3Fopendocument%23coupp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bat.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211140340id_/http%3A//www.bat.com/group/sites/uk__9d9kcy.nsf/vwPagesWebLive/DO52GBWX%3Fopendocument%23coupp) for the most accurate reproduction.*
 
 # British American Tobacco - Conditions of use
 
@@ -41,7 +41,7 @@ Depending on the relevant circumstances and applicable local laws and requiremen
   * Name;
   * Contact details;
   * Country of residence;
-  * Background i.e. vocation/profession; and
+  * Background ie vocation/profession; and
   * Extra information that you choose to tell us.
 
 
@@ -200,7 +200,7 @@ If you have any comments or suggestions concerning this Privacy Notice please co
 
 Your personal data may be transferred outside of the European Economic Area to the types of entities described in section 4 above.
 
-We want to make sure that your personal data is stored and transferred in a way which is secure. We will therefore only transfer data outside of the European Economic Area or EEA (i.e. the Member States of the European Union, together with Norway, Iceland and Liechtenstein) where it is compliant with data protection legislation and the means of transfer provides adequate safeguards in relation to your data, for example:
+We want to make sure that your personal data is stored and transferred in a way which is secure. We will therefore only transfer data outside of the European Economic Area or EEA (ie the Member States of the European Union, together with Norway, Iceland and Liechtenstein) where it is compliant with data protection legislation and the means of transfer provides adequate safeguards in relation to your data, for example:
 
   * By way of an intra-group agreement between BAT entities, incorporating the current standard contractual clauses adopted by the European Commission for the transfer of personal data by controllers in the EEA to controllers and processors in jurisdictions without adequate data protection laws;
   * By way of a data transfer agreement with a third party, incorporating the current standard contractual clauses adopted by the European Commission for the transfer of personal data by controllers in the EEA to controllers and processors in jurisdictions without adequate data protection laws; or
