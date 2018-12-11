@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chalyaara.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528105847id_/http%3A//chalyaara.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalyaara.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211094615id_/http%3A//chalyaara.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Chalyaara
 
@@ -97,8 +97,8 @@ Contacting us Registered Office
 
 ### ChalYaara Travel Solutions LLP
 
-C- 266, 1st Floor, Sector-63,  
+G-129, 2nd Floor, Sector-63,  
 Noida, Uttar Pradesh  
 INDIA - 201301  
-Phone No : 7042507538  
+Phone No : 8803838803  
 Email ID : info@chalyaara.com
