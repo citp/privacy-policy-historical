@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rswebsols.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622180827id_/http%3A//www.rswebsols.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rswebsols.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211100600id_/https%3A//www.rswebsols.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RS Web Solutions
 
@@ -8,24 +8,28 @@ Your privacy is important to RS Web Solutions. This privacy statement provides i
 
 RS Web Solutions may collect and use the following kinds of personal information:
 
-– Information about your use of this website  
-– Information that you provide using for the purpose of registering with the website  
-– Information about transactions carried out over this website  
-– Information that you provide for the purpose of subscribing to the website services
+  * Information about your use of this website.
+  * Information that you provide using for the purpose of registering with the website.
+  * Information about transactions carried out over this website.
+  * Information that you provide for the purpose of subscribing to the website services.
+
+
 
 ## Using personal information
 
 RS Web Solutions may use your personal information to:
 
-– administer this website  
-– personalize the website for you  
-– enable your access to and use of the website services  
-– publish information about you on the website  
-– send to you products that you purchase  
-– supply to you services that you purchase  
-– send you statements and invoices  
-– collect payments from you  
-– send you marketing communications
+  * Administer this website.
+  * Personalize the website for you.
+  * Enable your access to and use of the website services.
+  * Publish information about you on the website.
+  * Send to you products that you purchase.
+  * Supply to you services that you purchase.
+  * Send you statements and invoices.
+  * Collect payments from you.
+  * Send you marketing communications from which you can unsubscribe anytime if you wish.
+
+
 
 Where RS Web Solutions discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
 
@@ -33,19 +37,11 @@ In addition to the disclosures reasonably necessary for the purposes identified 
 
 ## Securing your data
 
-RS Web Solutions will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
-
-RS Web Solutions will store all the personal information you provide on its secure servers.
-
-Information relating to electronic transactions entered into via this website will be protected by encryption technology.
+RS Web Solutions will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. RS Web Solutions will store all the personal information you provide on its secure servers. Information relating to electronic transactions entered into via this website will be protected by encryption technology.
 
 ## Cross-border data transfers
 
-Information that RS Web Solutions collects may be stored and processed in and transferred between any of the countries in which RS Web Solutions operates to enable the use of the information in accordance with this privacy policy.
-
-In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.
-
-You agree to such cross-border transfers of personal information.
+Information that RS Web Solutions collects may be stored and processed in and transferred between any of the countries in which RS Web Solutions operates to enable the use of the information in accordance with this privacy policy. In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world. You agree to such cross-border transfers of personal information.
 
 ## Using Cookies in RS Web Solutions Website
 
@@ -57,15 +53,17 @@ A cookie is a text file stored in a user’s web browser on any device they use 
 
 #### What cookies are used for?
 
-Cookies are used for adjusting a website’s content to fit a user’s preferences and optimize the website. They store useful information that improve the user’s experience of a website. They are most commonly used for:
+Cookies are used for adjusting a website’s content to fit a user’s preferences and optimize the website. They store useful information that improves the user’s experience of a website. They are most commonly used for:
 
-– Storing login information so that a user does not need to re-login on every visit.  
-– Recognizing the type of device a user is browsing with and any preferences applied to optimize the website specifically for the device.  
-– Creating statistics that help website owners to understand how their users interact with their website, which allows them to improve their structure and content.
+  * Storing login information so that a user does not need to re-login on every visit.
+  * Recognizing the type of device a user is browsing with and any preferences applied to optimize the website specifically for the device.
+  * Creating statistics that help website owners to understand how their users interact with their website, which allows them to improve their structure and content.
+
+
 
 #### What types of cookies are used?
 
-There are two types of cookies: persistent cookies and session cookies. Persistent cookies remain on your hard drive for a period of time specified in the cookie’s file parameters or until removed manually. When you return to a website and it requires you to login again despite previously storing your login information, it is usually because the persistent cookie expired; this helps to increase security while maintaining accessibility.
+There are two types of cookies: persistent cookies and session cookies. Persistent cookies remain on your hard drive for a period of time specified in the cookie’s file parameters or until removed manually. When you return to a website and it requires you to log in again despite previously storing your login information, it is usually because the persistent cookie expired; this helps to increase security while maintaining accessibility.
 
 Session cookies, on the other hand, are used temporarily and expire once the website or browser is closed. They are used to track user activity on a website during a single visit. When a website requires that you verify your age or location once every visit before allowing you to view content and without requiring additional personal details, that is a session cookie at work.
 
@@ -79,9 +77,9 @@ By default, browsers are configured to accept cookies. However, these settings m
 
 ## Advertising
 
-RS Web Solutions use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/).
+RS Web Solutions use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, telephone number or any personal information) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/).
 
-RS Web Solutions allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/).
+RS Web Solutions allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, the subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/).
 
 ## Affiliate Marketing
 
@@ -89,16 +87,12 @@ Our website may contain affiliate marketing links, which means we may get paid c
 
 ## Updating this statement
 
-RS Web Solutions may update this privacy policy by posting a new version on this website.
-
-You should check this page occasionally to ensure you are familiar with any changes.
+RS Web Solutions may update this privacy policy by posting a new version on this website. You should check this page occasionally to ensure you are familiar with any changes.
 
 ## Other websites
 
-This website contains links to other websites.
+This website contains links to other websites. RS Web Solutions is not responsible for the privacy policies or practices of any third party.
 
-RS Web Solutions is not responsible for the privacy policies or practices of any third party.
-
-Contact RS Web Solutions
+## Contact RS Web Solutions
 
 If you have any questions about this privacy policy or RS Web Solution’s treatment of your personal information, please write to us by email to support[@]rswebsols[.]com.
