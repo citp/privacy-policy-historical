@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoover.org privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611013546id_/https%3A//adminguide.stanford.edu/chapter-1/subchapter-6/policy-1-6-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoover.org privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211022534id_/https%3A//adminguide.stanford.edu/chapter-1/subchapter-6/policy-1-6-1) for the most accurate reproduction.*
 
 # 1.6.1 Privacy Policy | Administrative Guide
 
@@ -79,7 +79,7 @@ Stanford respects and values the privacy of its faculty, students and staff and 
 
 
 **b. Photography and Recording on Campus**  
-In order to protect the privacy of the Stanford community, photographs, video recordings and other recordings may be made only in accordance with [University policies on campus photography](http://ucomm.stanford.edu/policies/photo-film-policy.html).
+In order to protect the privacy of the Stanford community, photographs, video recordings and other recordings may be made only in accordance with [University policies on campus photography](https://ucomm.stanford.edu/policies/film-photo-video-requests/).
 
 **c. Visitors on Campus**  
 The University is private property; however, some areas of the campus typically are open to visitors. These areas include White Plaza, public eating areas, retail establishments, outdoor and indoor guided touring areas, roads, walkways, designated parking areas and locations to which the public has been invited by advertised notice (such as for public educational, cultural, or athletic events). Even in these locations, visitors must not interfere with the privacy of students, postdoctoral scholars, faculty, lecturers/instructors, and staff, or with educational, research, and residential activities. The University may revoke at any time permission to be present in these, or any other areas. Visitors should not be inside academic or residential areas unless they have been invited for appropriate business or social purposes by the responsible student, post doctoral scholar, faculty member, lecturer/instructor, or staff member.
