@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearmoose.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622053158id_/http%3A//gearmoose.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearmoose.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211153421id_/https%3A//gearmoose.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY | GearMoose
 
@@ -21,6 +21,14 @@ Any of the information we collect from you may be used in one of the following w
 How do we protect your information?  
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
+Your Rights Under General Data Protection Regulation (GDPR):  
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through gearmoose.com or shop.gearmoose.com), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+DATA RETENTION  
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
 Do we use cookies?  
 Yes. (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.)  
 We use cookies to understand and save your preferences for future visits.
@@ -36,6 +44,10 @@ California Online Privacy Protection Act Compliance:
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
+Minors:
+
+The Site is not intended for individuals under the age of 18.
+
 Your Consent:
 
 By using our site, you consent to our website’s privacy policy.
@@ -43,3 +55,9 @@ By using our site, you consent to our website’s privacy policy.
 Changes to our Privacy Policy:
 
 If we decide to change our privacy policy, we will post those changes on this page.
+
+Contact Us:
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by mail using the details provided below:
+
+2288 Gunbarrel Road, STE. 154 PMB 112, Chattanooga, TN, 37421, United States
