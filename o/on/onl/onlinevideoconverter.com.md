@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onlinevideoconverter.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429060445id_/https%3A//www.onlinevideoconverter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinevideoconverter.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211234241id_/https%3A//www.onlinevideoconverter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OnlineVideoConverter.com
 
 ### 1\. Logging IP Addresses
 
-Our different processes do not require to know your IP so we do not know and do not collect any IP addresses.
+Our different processes do not require us to know your IP so we do not log and do not collect any IP addresses.
 
 ### 2\. How we use cookies
 
@@ -12,7 +12,7 @@ A cookie is a small file which asks permission to be placed on your computer's h
 
 ### 3\. Advertising
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 ### 4\. Links to other websites
 
