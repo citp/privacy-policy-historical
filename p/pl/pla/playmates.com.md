@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playmates.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630030600id_/http%3A//www.playmates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playmates.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211213745id_/http%3A//www.playmates.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
