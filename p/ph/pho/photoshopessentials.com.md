@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the photoshopessentials.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616033954id_/https%3A//www.photoshopessentials.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshopessentials.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211175931id_/https%3A//www.photoshopessentials.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Photoshop Essentials.com - Photoshop Essentials
 
 Updated May 23, 2018.
 
-Thank you for visiting Photoshop Essentials.com. Your privacy is very important to us. To better protect your privacy, we provide this Privacy Policy which explains our online information practices, including which services we use, what types of personal information we receive and collect when you visit Photoshop Essentials.com, and how we safeguard your information.
+Thank you for visiting Photoshop Essentials.com. Your privacy is very important to us. To better protect your privacy, we provide this Privacy Policy which explains our online information practices, including which services we use, what types of personal information we receive and collect when you visit Photoshop Essentials.com, and how we safeguard your information. 
 
 By continuing to use Photoshop Essentials.com, you agree to this Privacy Policy. **If you have any concern about providing information to us or having such information used in any manner permitted in this Privacy Policy, you should not visit our website or otherwise use our Services.**
 
- **Update:** Our Privacy Policy has been updated to reflect the GDPR (General Data Protection Regulation) and the ePrivacy Directive for our visitors in the EU (European Union). This update to our Privacy Policy takes effect May 25, 2018. This page may be updated from time to time as needed.
+**Update:** Our Privacy Policy has been updated to reflect the GDPR (General Data Protection Regulation) and the ePrivacy Directive for our visitors in the EU (European Union). This update to our Privacy Policy takes effect May 25, 2018. This page may be updated from time to time as needed.
 
 Please read the information below:
 
@@ -41,7 +41,7 @@ Strathroy, Ontario, Canada
 N7G 4C9
 
 Our email address is info@photoshopessentials.com  
-We can also be reached via our [Contact](https://web.archive.org/contact/ "Contact Us") page.
+We can also be reached via our [Contact](https://web.archive.org/contact/ "Contact Us") page. 
 
 ## 2\. What are cookies?
 
@@ -49,13 +49,13 @@ Some of the information that we, along with any third party services, collect ab
 
 ## 3\. What data we collect and why
 
-This section of our Privacy Policy offers information on what data we collect from our visitors and why we collect it.
+This section of our Privacy Policy offers information on what data we collect from our visitors and why we collect it. 
 
 ### Log files
 
 As with most websites, Photoshop Essentials.com keeps a record of the activity on our website, both for security purposes and to help troubleshoot any performance issues with our site. This record is stored in log files.
 
-The personal information we record about you as a visitor to our site includes your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the day and time of your visit, whether you were using a desktop, mobile or tablet device, and which pages you visited. The information in our log files is deleted at regular intervals.
+The personal information we record about you as a visitor to our site includes your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the day and time of your visit, whether you were using a desktop, mobile or tablet device, and which pages you visited. The information in our log files is deleted at regular intervals. 
 
 Our log files are stored on a secure server operated by our web hosting company, Media Temple. Media Temple is Privacy Shield certified to comply with data protection requirements. You can learn more about Privacy Shield, and view a list of Privacy Shield certified companies, on the [Privacy Shield](https://www.privacyshield.gov/welcome "Learn more") website.
 
@@ -81,7 +81,7 @@ All financial transactions on Photoshop Essentials.com, including payments for m
 
 Photoshop Essentials.com does not automatically renew memberships. If you as a member decide not to renew, simply do nothing and your membership will expire on its expiration date.
 
-When your membership expires, your member information is not automatically deleted. It is kept on file in case you wish to renew your membership with us in the future. We do not store your member information for any other reason, and we do not share it with any third parties.
+When your membership expires, your member information is not automatically deleted. It is kept on file in case you wish to renew your membership with us in the future. We do not store your member information for any other reason, and we do not share it with any third parties. 
 
 #### Your rights to your information
 
@@ -139,11 +139,11 @@ Photoshop Essentials.com is provided as a free service to our visitors. To help 
 
 #### DoubleClick DART cookies
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (for example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. To learn more, visit the [DoubleClick](http://www.doubleclick.com/privacy/dart_adserving.aspx "Learn more") website.
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (for example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. To learn more, visit the [DoubleClick](http://www.doubleclick.com/privacy/dart_adserving.aspx "Learn more") website. 
 
 #### Personalized vs Non-Personalized ads
 
-There are two main types of ads that Google AdSense can display;personalized ads and non-personalized ads. Personalized ads are more useful to you because they're based on your interests, demographics and other criteria. Personalized ads use cookies to provide advertisers with this information. Non-personalized ads are less useful because they are based only on the content of the web page you're visiting. While non-personalized ads still use cookies to allow for frequency capping, aggregated ad reporting, and to combat fraud and abuse, they do not track any personally identifiable information about you.
+There are two main types of ads that Google AdSense can display;personalized ads and non-personalized ads. Personalized ads are more useful to you because they're based on your interests, demographics and other criteria. Personalized ads use cookies to provide advertisers with this information. Non-personalized ads are less useful because they are based only on the content of the web page you're visiting. While non-personalized ads still use cookies to allow for frequency capping, aggregated ad reporting, and to combat fraud and abuse, they do not track any personally identifiable information about you. 
 
 #### Privacy Policy update for EU visitors (May 25, 2018)
 
