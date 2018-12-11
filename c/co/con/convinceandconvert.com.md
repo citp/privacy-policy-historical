@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convinceandconvert.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624105545id_/http%3A//www.convinceandconvert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convinceandconvert.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211081536id_/https%3A//www.convinceandconvert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Convince and Convert: Social Media Consulting and Content Marketing Consulting
 
