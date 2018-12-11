@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thebarefootnomad.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531172203id_/http%3A//www.thebarefootnomad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebarefootnomad.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211090137id_/http%3A//www.thebarefootnomad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Barefoot Nomad
 
-The Barefoot Nomad found at http://www.thebarefootnomad.com (“Website”) is governed by the following privacy policy (“Privacy Policy”).
+The Barefoot Nomad found at https://www.thebarefootnomad.com (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
 We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
@@ -107,6 +107,6 @@ The Website does not knowingly collect any personally identifiable information f
 
 CONTACT INFORMATION
 
-At any time, please contact us using our [contact form](http://www.thebarefootnomad.com/contact-us/ "Contact Us") or at admin@thebarefootnomad.com for questions related to this Privacy Policy.
+At any time, please contact us using our [contact form](https://www.thebarefootnomad.com/contact-us/ "Contact Us") or at admin@thebarefootnomad.com for questions related to this Privacy Policy.
 
 Last updated: May 4, 2018
