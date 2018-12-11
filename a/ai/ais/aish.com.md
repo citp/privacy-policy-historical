@@ -1,63 +1,83 @@
-> *The following text is extracted and transformed from the aish.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520013458id_/http%3A//www.aish.com/csp/Aish-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aish.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211185002id_/http%3A//www.aish.com/csp/Aish-Privacy-Policy.html) for the most accurate reproduction.*
 
 # Aish Privacy Policy
 
-**Aish** (“the Site”) respects the privacy of our users and members. This Privacy Policy describes the types of personal information that we collect and the uses that we make of that information.
+_**Privacy Policy**_
 
-  
-INFORMATION WE COLLECT
+AISH.COM  ("the Site") respects the privacy of our users and members. This Privacy Policy describes the types of personal information that we collect and the uses that we make of that information. We provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used by our services and which includes any online or mobile websites or digital services owned, operated or offered by, on behalf of, or in conjunction with our services, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a "Service," collectively the "Services"). "Users" are persons that use the Services.
 
-In order to enhance your experience on our site we may collect certain information about you.  This information may be information provided by you, (for example, information that you provide to us such as your name or your email address) or information gathered through your use of our website or through 3rd parties (for example, The IP address of your computer, Web pages and/or ads that you view or click on) 
+We wish to protect every user’s privacy. If you are an EU citizen please read this policy carefully and use our site and services only if you agree to all terms and to the collection and use of private information.
 
-WHAT WE DO WITH INFORMATION WE GATHER
+_**Information We Collect**_ **:**
 
-We use information that we collect and/or have access to via reputable 3rd parties in order to enhance your experience while visiting our site.  Information we gather is used for:
+The Site gathers personal and general demographic information about users who provide said information willingly during use of our site. When using this site, you may be asked to provide your name, e-mail address, zip code, country and other demographic information. We receive both information that is directly provided to us, such as personal information you provide when you visit the Services, and information that is passively or automatically collected from you, such as anonymous information collected from your browser or device. In this Privacy Policy, we refer to all of this as the "Information".
 
-A: CONTENT AND SERVICES
+We, and 3rd parties who include (but not limited to: third party service providers, advertisers, advertising networks and platforms, agencies, and distribution or other partners may use automated means to collect various types of Information about you, your computer or other device used to access our Services. Types of automatically collected information may include (but not limited to): network or Internet protocol address (IP address) and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, mobile network, device identifiers (such as an Apple IDFA or an Android Advertising ID), device settings, browser settings, the web pages of the Services you have visited, Services visited before and after you visit a Service, Geo location information, and the content and advertisements you have accessed, seen, forwarded and/or clicked on.
 
-We may use information we collect to better understand your needs and provide you with a better online experience and to customize the information and content we show you. For example:
+You may engage with our content, on or through social media services or other third party platforms, such as Facebook, or other third-party social media plug-ins, integrations and applications. When you engage with our content on or through social media services or other third party platforms, plug-ins, integrations or applications, you may allow us to have access to certain Information in your profile. This may include your name, e-mail address, photo, gender, birthday, location, an ID associated with the applicable third party platform or social media account user files, like photos and videos, your list of friends or connections, people you follow and/or who follow you, or your posts or "likes." For a description on how social media services and other third party platforms, plug-ins, integrations or applications handle your information, please refer to their respective privacy policies and terms of use, which may permit you to modify your privacy settings.
 
-  * We may use the information to improve our products and services and provide you with customized content.
-  * We may use your email address, provided username and/or password in order to grant you access to premium services on our site
-  * Serving content based on selected preferences you have chosen or you geographic location, age or gender
+_**Use of Your Information:**_
 
+We may use your personal identifying information in a number of ways related to your use of our site. We may, from time to time, use your personal identifying information in connection with sending you specific, targeted information or advertising that may be of interest to you. We may use your contact information, such as your e-mail address, to send you our newsletter and periodic special promotions.
 
+Some examples of use of data include (but are not limited to)
 
-B: ADVERTISING
+• provide and communicate with you about the Services or your account with us,
 
-Our site offers advertising and other services which helps us fund our site’s operation.  We strive to offer high quality advertisements and promotions that we think will be of interest to you and to our visitors.  These ads may be in the form of banner ads and or other promotional services offered on our website or on our opt-in email list
+• fulfill your requests regarding the Services, including without limitation, requests for newsletters and notifications,
 
-We may use user information that is either provided by you or gathered with the use of cookies and similar technologies as well as information provided by reputable 3rd party data providers to better understand your needs and provide you with a better online experience and to customize the ads we show you. For example:
+• respond to your inquiries, and notify you if you have won a contest,
 
-  * We may periodically send promotional emails about products, special offers or other information that we think you may find interesting using the email address which you have provided.
-  * We may use information you provide us or that is collected by us or collected by 3rd parties to show you advertising and ads that we think might appeal to you.  These ads might be targeted and shown to you on the basis of such things as your gender, age, geographic location, web sites you visit and other information.
+• communicate with you about other products, programs or services that we believe may be of interest to you,
 
+• enforce the legal terms (including without limitation our policies and terms of service) that govern your use of our Services, and/or for the purposes for which you provided the Information,
 
+• provide technical support for the Services,
 
-HOW WE USE COOKIES
+• prevent fraud or potentially illegal activities (including, without limitation, copyright infringement) on or through the Services,
 
-In order to improve our ability to predict which ads We, our third party service providers, advertisers or our partners may use "cookies" or similar technologies, to monitor our visitors surfing patterns and preferences and collect other data about the visitors using our site. 
+• protect the safety of our Users,
 
-We may use cookies or similar technologies to monitor and measure traffic and to customize the content. We also may use cookies to collect information about you and your preferences  which helps us offer you products, promotions, or services that may be of interest to you and to deliver relevant advertising tailored to you.
+• customize our personalize ads, offers and content made available to you based on your visits to and/or usage of the Services or other online or mobile websites, applications, platforms or services, and analyze the performance of those ads, offers and content, as well as your interaction with them,
 
-We may also use the services of third parties to provide us with data collection to assist with delivery of relevant banners and advertisements. This data may include information like demographic data, such as age range, gender, and interests
+• send periodic fundraising requests for our non-profit organization
 
-HOW YOU MAY LIMIT OR BLOCK COOKIES
+• perform analysis regarding how you use the Services or any part thereof,
 
-You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or even to block all cookies (although blocking all cookies may diminish some of the services we can offer you including providing you with tailored advertising) 
+• use your information in conjunction with commercially available Third – Party services
 
-If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers. websites. Alternatively, you may use the resources located at [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices) to opt out
+• We may use any information you provide in order to investigate, or assist any authority in investigating, suspicion of illegal activity or acts on the AISH website or on any of the site's services.
 
-Many third-party advertising networks are members of the Network Advertising Initiative ("NAI"). To opt out of having information collected by NAI member companies used for behavioral advertising, please visit [http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp).
+• Promotions and contests that run on The Site may be sponsored, in whole or in part, by companies other than The Site. Data collected during a promotion may be shared with the sponsor.
 
-You may also opt out of cookies by “Opting out” of a particular 3rd party provider.  For example, to opt out of cookies placed by the Zedo Ad server , [go to the Zedo Opt Out page](http://www.zedo.com/about-zedo/opt-out/ "Opt Out") and click the “Opt Out Now”
+As a registered user, you may opt out of receiving emails and special offers, promotions or mailings at any time. Only those registered users who have not opted out of receiving such communications will receive such emails. We may transfer some or all of your Information if we, or one of our business units, undergoes a business transition, like a merger, acquisition by another company, or sale of all or part of our assets
 
-**E-Mail** :   
+_**Cookies:**_
+
+We make use of "cookies," which are small sets of information stored onto your computer in connection with your use of our web site. We use cookies to store temporary individual user information concerning your use of this site and your user identification. We may also use information gathered by cookies for editorial purposes, marketing and adverting purposes, to measure certain traffic patterns on our web site or for similar purposes. We do not control and are not responsible for the use of cookies or other identifiers by anyone except our site.
+
+Most web browsers are set up to accept cookies. You may be able to set your browser to warn you before accepting certain cookies or to refuse certain cookies. However, if you disable the use of cookies in your web browser, some features of the Services may be difficult to use or inoperable.
+
+Disabling Cookies: If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers' websites. Alternatively, you may use the resources located at http://www.networkadvertising.org/choices to opt out
+
+We may work with third-party companies that use techniques other than HTTP cookies to recognize your computer or device and/or to collect and record information about your web surfing activity, including those integrated with our Services. Please keep in mind that your web browser may not permit you to block the use of these techniques, and those browser settings that block conventional cookies may have no effect on such techniques.
+
+At this time we may not recognize automated browser signals regarding tracking mechanisms, which may include "do not track" instructions
+
+_**E-Mail:**_
+
 Using the e-mail addresses provided during registrations, surveys, and contests, we may, periodically, send promotional e-mail to our subscribers about services offered by us, and by carefully selected advertisers. If you do not wish to receive solicitations sent on behalf of third parties, you may unsubscribe at any time.
 
-**Security** :  
+_**The right of access, rectification and erasure:**_
+
+Access to certain personal Information that is collected by us and that we maintain may be available to you.  You can review, change and erase some of your personal information by visiting your account profile page at <http://emaillists.aish.com/EmailSignup-ND2.php#existing-users-form>.  
+
+You also may send an e-mail to privacy@aish.com requesting access, correction or erasure of your personal Information.
+
+_**Security:**_
+
 Although we take precautions against security breaches, hackers pose a threat to any Internet user. We will make commercially reasonable efforts to see that your information is treated in compliance with this privacy policy.
 
-**General Disclaimer :**  
-The appearance of comments, advertisements or hyperlinks on this site do not necessarily indicate or constitute acceptance of or endorsement of the content, products, companies, corporations, or organizations in whole or in part by staff members and/or the members of the editorial board of aish.com and Aish HaTorah.  
+  
+The Privacy Policy was updated on May 24, 2018  
 
