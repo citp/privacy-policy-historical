@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gethealthyharlem.org privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609184635id_/http%3A//gethealthyharlem.org/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gethealthyharlem.org privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211123111id_/http%3A//www.gethealthyharlem.org/legal) for the most accurate reproduction.*
 
 # Terms and Conditions - GetHealthyHarlem.org
 
