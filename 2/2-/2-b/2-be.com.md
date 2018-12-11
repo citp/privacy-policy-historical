@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2-be.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609125518id_/http%3A//2-be.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-be.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211095835id_/https%3A//2-be.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 2-be.com
 
