@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the dailybloggr.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208032939id_/http%3A//www.dailybloggr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailybloggr.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211041219id_/http%3A//www.dailybloggr.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy - Daily Blogger
 
-Site Name: Dailyseoblog.com
+## This Privacy Policy Applies to DailyBloggr.com
 
-For each visitor to our Web page, our Web server does not automatically recognize any information regarding the domain or e-mail address of the user.
+DailyBloggr.com knows the importance of user and visitor privacy and we are, in no way, risking your private information. When you trust us with your information like name, e-mail, and others, then we know that you are serious a serious reader of our blogs and want to participate in the process. This makes us extremely responsible with your information. This privacy policy applies to current and former visitors to our website and to our online news consumers. By visiting and/or using our website, you agree to this privacy policy.
 
-We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail and comments, and the e-mail addresses of those who make postings to our chat areas.
+### Information we take from our visitors:
 
-The information we collect is used to notify consumers about updates to our Web site, and is not shared with any third party.
+**Contact information:** We require you to fill a couple of forms (contact us, write a guest post) in case you want to contact us. In that form, the information you provide is stored by us and is used to help you with your requests.
 
-With respect to cookies: We use cookies to record user-specific information on what pages users access or visit, generally for traffic analysis.
+**The information you** **provide:** As a blog reader, you participate in discussions and comments sections. We collect that information for providing you a better experience.
 
-If you do not want to receive e-mail from us in the future, please let us know by or clicking the unsubscribe link in your introduction email.
+**Other information:** If you visit our website, we may collect the information of your IP address and the web browser you are using. Other things like how much time you spent on one of our pages are also collected in order to make your experience more pleasing and relevant.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+### Use of your personal information
 
-http://www.google.com/privacy.html
+**To Contact You:** We contact you with the information you provide. Such as name and e-mail.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+**To Respond To Your Questions:** If you have approached us with some request or questions, we use your information to revert back and make your experience even better.
