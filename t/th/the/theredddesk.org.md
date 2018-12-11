@@ -1,53 +1,81 @@
-> *The following text is extracted and transformed from the theredddesk.org privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325031459id_/https%3A//www.mollom.com/web-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theredddesk.org privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211203327id_/http%3A//theredddesk.org/privacy-cookie-notice) for the most accurate reproduction.*
 
-# Web service privacy policy | Mollom
+# Privacy / Cookie Notice | The REDD Desk
 
-_This privacy policy explains how Mollom BVBA ("we") processes your personal data. Please read it carefully, as it specifies which rights you have and how you can exercise your rights._
+Last updated: 8 March, 2016 
 
-**Our web service** – We operate a web service that tries to determine the quality of messages posted to a website, and particularly tries to determine whether these messages are to be considered as unsolicited messages (also called "spam"). Nowadays, websites that allow visitors to contribute or post comments (such as blogs, discussion forums, wikis, etc.) are flooded with inappropriate commercial messages that are distracting for all visitors, and are sometimes even highly illegal. These commercial messages are often uploaded in an automatic way. Our service screens messages before they are posted to the website.
+This privacy / cookie notice tells you what to expect when you visit theredddesk.org and the information we collect about our visitors.
 
-**How it works** – When you post a message on a website that uses our service (called "the website" in the remainder of this text), the website's server will first send your message – as well as some information about your identity (such as your IP address, name or nickname, e-mail address and OpenID) – to our server. Our server will then compare your message and your identity details with all elements in our database, and perform several complex statistical computations in order to assess the quality of your message (e.g., spam, abuse, etc.).
+## Who we are
 
-If our server then determines that the content of your message is of insufficient quality or constitutes spam or abuse, it will inform the website thereof. The website server may then decide to reject your message, or to provide you with an additional question to find out whether you are in fact a human being, and not a machine trying to send out as much commercial communications as possible. Also, in case the server is uncertain about the quality of the message, it may forward your message to a human moderator who will assess the quality of your message and act accordingly. Please note that it is sometimes possible that our server or moderators wrongfully determine the actual quality of the content of your message, or wrongfully consider your message as spam or abuse.
+This website is owned and managed by [Global Canopy Programme](http://www.globalcanopy.org/) (GCP) a tropical forest think-tank. Global Canopy Programme is a registered UK charity (no 1089110) based at 23 Park End Street, Oxford, OX1 1 HU, England.
 
-**What we store about you** – We store all information provided to us by the website. This will include, in particular, the following personal data about you (to the extent effectively provided to us by the website): the content of your message, your name or nickname, IP address, user ID, OpenID, e-mail address, URL of your website, and the date and time you post a message.
+### We gather two types of information from you:
 
-**How long we store this data** – Your data is stored in our databases for at most two months. After this period of two months, we can continue to store your data in anonymized way for a period of two years.
+  * Information your web browser gives us, such as your computer's IP address, your screen resolution and your geographic location. We also monitor your use of the website by seeing which pages you visit and how long you spend on them. We send this information to Google's "Google Analytics" service so that we can measure how effectively our website is at giving you the information you're after.
+  * Information you actively give us, which includes joining our REDD network, giving feedback on our website content or messages you send us. We use this information to deal with your request and never share this information with anyone outside of our business.
 
-**How we use your personal data** – We use your personal data to assess the quality of your message, and to find out whether your message constitutes spam, by comparing your data with all other data of all other users in our databases. Afterwards, we also use your personal data to make similar assessments for all other websites that use our service, as the more information we store in our database, the better we can assess whether a message is genuine.
 
-While we sometimes provide statistical information (trends, numbers, etc.) generated from our databases to third parties, please rest assured that you cannot be identified on the basis of this statistical information.
 
-Note that we hate spam as much as you do – in fact, our service is specifically targeted at removing spam. So, we will never provide your email address to third parties, and we will never send any spam ourselves to you. In most cases, we will not even be aware of your e-mail address.
+## What we do with the information your computer gives us
 
-Also note that we can provide access to your personal data in case of illegal or abusive use, or in case we receive orders from a competent legal authority.
+When someone visits theredddesk.org we collect standard internet log information and details of visitor behavior patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone.
 
-**How we protect you** – We are bound by the strict rules of Belgian and European data protection legislation, which prevents us from making unlawful use of your personal data. Please note that the website's operator may be bound by other rules, depending on his jurisdiction.
+We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this and ask you. We will make it clear when we ask for personal information and explain what we intend to do with it.
 
-**Your rights** – You have the right to gain access to, correct and/or remove all personal data we store about you on our servers. All this is provided to you free of charge. In order to exercise your rights, please [contact us](https://web.archive.org/contact).
+## What we do with the information you give us
 
-**Revision** – From time to time, we change our products and services which may require us to update our privacy policy accordingly. Your continued use of the website using our service following the posting of any changes to this privay policy means you accept such changes. This policy was last updated on June, 19th 2013.
+The details from any [contact us](https://web.archive.org/contact-us) enquiry or [share your knowledge](https://web.archive.org/share-your-knowledge) feedback sent to us, may be entered onto our in house contact management system for the purpose of effective processing. We will only use the information supplied to us to deal with the enquiry and any subsequent issues. Your contact details will continue to be stored, for historic reference, for an appropriate time period and will be retained in a secure environment and access to it will be restricted according to the ‘need to know’ principle.
 
-## Summary
+Your email will only be used for the purpose of replying to your initial enquiry, and will not be included in any mass marketing or information communication, unless you have opted in (by ticking a box on this or a previous communication) to agree to become part of our network. 
 
-  * We process your personal data on the request of, and for the purposes of, the website you try to contribute to.
+People who join our GCP REDD network agree to receive periodic emails from Global Canopy Programme which cover REDD and/or tropical forest related issues. At any time an individual in the network can unsubscribe from email communications through the link in each email communication or by [contacting us](https://web.archive.org/contact-us).
 
-| 
+We use a third party email broadcast provider, I-Contact, to deliver our mass email newsletters. We gather statistics around email opening and clicks using industry standard technologies including clear gifs to help us monitor and improve our future email communications.
 
-  * We are bound by the strict rules of Belgian and European data protection. We take all appropriate means to protect your data against unauthorised access and damaging.
+## How we use cookies
 
-  
----|---  
-  
-  * We screen your message and identity (name, nickname, IP address, user ID, OpenID, email address and URL of your website) by making comparisons with other elements in our database, to determine the quality of the content of your message and to find out whether your message is spam.
-  * Your message may be rejected by our service, and may subsequently also be rejected by the website you want to contribute to.
-  * We store the content of your messages and other information about your identity during a period of two months. Afterwards, we store the same information in anonymized form for a period of two years, in order to provide our service to other websites.
+"Cookies" are small files which your web browser transfers to your computer when you visit a site.  They are widely used in order to make websites work, or to work more efficiently, as well as providing information to the owners of the site.
 
-| 
+Like many websites, we use cookies to help us monitor your use of the website. These cookies are used by Google Analytics so that we know when you've visited one page and then another.  We also use cookies if you login to our website with a username and password we've given you.
 
-  * We hate spam as much as you do. We will never provide your email address to third parties, or send spam ourselves.
-  * We sometimes provide anonymous (statistical) information to third parties.
-  * We can provide access to your personal data in case of illegal use, or when we receive orders from legal authorities.
-  * You can gain access to, correct and/or remove all personal data we store about you – free of charge – by contacting us.
+### What cookies do we use?
+
+Each cookie we use has a unique name which you can use to identify where it came from. Below is a list of the subject areas these cookis are based around and further details on their use:
+
+  * Some features of our site use Javascript. We set a has_js cookie if you have javascript enabled, so we can give you the best possible experience.
+  * Our interactive map in our countries section is provided by a third party provider [cloudmade.com](http://cloudmade.com/) has its own unique cookies.
+  * Google translate also creates its own set of cookies.
+  * Our twitter news feed on the home page of our website also has its own unique cookies.
+  * Google Analytics uses cookies with the following names to monitor visitors to our website, so that we can improve the experience for all users:_utma, _utmb, _utmc, _utmz. Read more about the Google Analytics privacy policy <http://www.google.com/analytics/learn/privacy.html>
+
+
+
+## How you can manage your privacy
+
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
+
+## Site search
+
+Our website search functionality is powered by Drupal. Search queries and results are logged anonymously to help us improve our website and search functionality. No user-specific data is collected.
+
+## Links to other websites
+
+We feature links to external websites and have reciprocal website links with appropriate organisations and contribute content to other relevant sites. This privacy notice does not cover the links within this site linking to other websites. We encourage you to read the privacy statements on the other websites you visit.
+
+## How we protect your privacy
+
+We do not engage in any marketing or advertising practices using cookies which identify you or your computer and we never share personally identifiable information with those outside of our organisation.
+
+We share anonymous website usage information with Google Analytics as listed above.
+
+### Disclosure of your information:
+
+We may disclose information in special cases when we have reason to believe that disclosing this information is:
+
+  * reasonably necessary to comply with the law
+  * necessary to protect our rights and those of our users
 
 
