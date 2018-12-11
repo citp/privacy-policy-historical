@@ -1,30 +1,272 @@
-> *The following text is extracted and transformed from the foxitsoftware.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185331id_/https%3A//www.foxitsoftware.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxitsoftware.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211223127id_/https%3A//www.foxitsoftware.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # Foxit Company Privacy Policy | Foxit Software
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).  
-We collect information about you for 2 reasons: firstly, to process any orders and secondly, to provide you with the best possible service.
+Your right to privacy and control over your personal information is very important to everyone at Foxit Software. To ensure that you understand how Foxit collects and uses personal data, please note the information below.
 
-The type of information we will collect about you includes: 
+#### 1\. Responsible body
 
-  * Your name. 
-  * Address. 
-  * Phone number.
-  * E-mail address.
-  * Employer.
-  * Job title.
-  * Credit/debit card details.
-  * Product interest.
+Responsible body for the collection, processing, and use of your personal data on this website is
+
+Foxit Software Inc.
+
+41841 Albrae Street
+
+Fremont, CA 94538
+
+United States
+
+Tel. +1 866-680-3668
+
+Email: privacy@foxitsoftware.com
+
+For any questions about privacy in connection with our products and services or the use of our website, you can always contact our data protection officer.
+
+41841 Albrae Street
+
+Fremont, CA 94538
+
+United States
+
+Tel. +1 866-680-3668
+
+Email: privacy@foxitsoftware.com
+
+For questions specifically related to privacy of data protection in the EU and its Member States, please contact our European office:
+
+Foxit Europe GmbH
+
+Neue Kantstraße 14
+
+14057 Berlin
+
+Germany
+
+Email: dataprotectionEU@foxitsoftware.com
+
+Tel.: +49 30 39 40 50-50
+
+Fax: +49 30 39 40 50-99
+
+#### 2. General collection, processing and use of personal data in the context of the use of the website
+
+When you visit our website, the following information will be collected without your intervention and stored until automated deletion:
+
+  * Your computer’s IP address;
+  * The date and time of access;
+  * The names and URLs of the pages you visited;
+  * The website from which the access takes place (i.e. referrer URL);
+  * The browser and operating system of your computer as well as the name of your access provider.
 
 
 
-To ensure that your data is secure during transmission we will use Secure Sockets Layer (SSL) when you provide us with password or order information.  
-The information we gather may be transferred across national boundaries and may be stored and processed in any of the countries in which Foxit Corporation has offices.  
-The information we hold will be accurate and up to date. You can check the information that we hold about you by e-mailing webmaster@foxitsoftware.com or sales@foxitsoftware.com. If you find any inaccuracies we will delete or correct the information promptly.  
-When you visit this site, your visit to each page is recorded in a log file. This log file records information regarding your domain name and IP address. This information is collected to monitor and analyze traffic to the site and not for collecting personal information about you.  
-We may use technology to track the patterns of behavior of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this from happening. The information collected in this way can be used to identify you unless you modify your browser settings.  
-We will never collect sensitive information about you without your explicit consent. We will not pass on your details to third parties.   
-We do not use single-pixel gifs (also known as 'Web Bugs') to obtain information about visitors to the web site.  
-Foxit Corporation is not responsible for the content or privacy practices of non-Foxit Corporation sites to which this website might link.  
-If our privacy statement is changed at any time we will post these changes on this page.   
-If you have any questions/comments about privacy, you should email [webmaster@foxitsoftware.com](mailto:%20webmaster@foxitsoftware.com) or sales@foxitsoftware.com. 
+The data we collect is processed by us for the following purposes:
+
+  * Ensuring a smooth connection to the website;
+  * Ensuring a great user experience of our website;
+  * Evaluation of system security and stability;
+  * For further administrative purposes
+
+
+
+In no scenario will we use the collected data for the purpose of drawing conclusions about you.
+
+If you register on the website to download software, view a webinar, get pricing, have a salesperson contact you, or other reasons, the following information will be collected based on your input:
+
+  * First and last name;
+  * Company;
+  * Email;
+  * Telephone;
+  * Number of licenses required;
+  * Or other information, depending on the nature of your inquiry.
+
+
+
+The data mentioned is processed by us for the following purposes:
+
+  * For sales and marketing purposes to follow up on your request and to provide additional information or to answer questions.
+
+
+
+The legal basis for the data processing described in this section is the fulfillment of our contractual obligations or the implementation of pre-contractual measures. 
+
+#### 3\. Third-Party data processing in the context of contract execution
+
+We collect and process your data for the entire process of your purchase or your subscription, including possibly in the context of later warranties for our services and for technical administration. This affects the following data:
+
+  * Your name;
+  * Your address;
+  * Your phone number;
+  * Your email address;
+  * The employer (if requested);
+  * The job title (if specified);
+  * Payment information, such as Your bank account or credit card information (if applicable).
+
+
+
+Your personal data will only be passed on to third-parties or otherwise transmitted if this is necessary for the purpose of contract execution or billing or if you have previously consented. For example, in the context of order processing, the service providers used here (such as PayPal or banks) the necessary data to handle the order and order process. The data transmitted in this way may only be used by our service providers to fulfill their task. Any other use of the information is not permitted. We need the correct name, address, contact and payment details to process your order. We need your email address so that we can confirm the order and communicate with you. Furthermore, you will receive the order confirmation and invoice via your email address. Employer and job title information is required to ensure services such as support and follow-up can be properly provided.
+
+The legal basis for the data processing described in this section is the fulfillment of our contractual obligations or the implementation of pre-contractual measures. 
+
+#### 4. Create a Foxit account
+
+If you create a Foxit account, we will also use your email address as a login. The creation of a Foxit account is not required and optional to download and order products. However, a Foxit account allows you to download free trial versions and view your previous online orders. The legal basis of the processing is your consent.
+
+#### 5\. Use of our own Internet cookies
+
+We use cookies on our site. These are small files that your browser automatically creates and displays on your device (laptop, tablet, smartphone, etc.) when you visit our site. Cookies do not harm your device, do not contain viruses, Trojans, or other malicious software. In the cookie information is stored, each resulting in connection with the specific terminal used. However, this does not mean that we are immediately aware of your identity. The use of cookies serves to make the use of our offer more pleasant for you. For example, we use session cookies to recognize that you have already visited individual pages on our website. These are automatically deleted after leaving our page. In addition, to improve usability, we also use temporary cookies that are stored on your device for a specified period of time, typically 30 days. If you visit our site again to take advantage of our services, it will automatically recognize that you have already been with us and what inputs and settings you have made, so you do not have to re-enter them.  We also use cookies to statistically record the use of our website and to evaluate it for the purpose of optimizing our offer (see Section 3 above). These cookies allow us to automatically recognize when you visit our site again that you have already been with us. These cookies are automatically deleted after a defined time.  Most browsers accept cookies automatically. However, you can configure your browser so that no cookies are stored on your computer or always provide a hint appearing before a new cookie is created. However, disabling cookies completely may mean that you cannot use all features of our website.
+
+By using our cookies, we want to optimize your experience on our website. These services are based on our aforementioned legitimate interests, which at the same time represents the legal basis for the data processing described here.
+
+#### 6. Use of web analytics and additional services
+
+Web analytics and the other named services in this section are used for the continuous optimization of our website. The tracking provides a statistically record of the use of our website and to evaluate it for the purpose of optimizing our offer to you.  The respective data processing purposes and data categories can be found in the corresponding listed below and tracking tools. Legal basis for the data processing described in the following section is our authorized interest in the needs-based design and continuous optimization of our website. For further details of our legitimate interest, reference is made to the description in the following services.
+
+a. Google Analytics  
+For the purpose of the customized design and continuous improvement of our website we use Google Analytics, a web analytics service provided by Google Inc. ([https://www.google.com](https://www.google.com/)) (1600 Amphitheater Parkway, Mountain View, CA 94043, USA; in following "Google"). In this context, pseudonymised usage profiles are created and cookies (see point 5) are used. Information generated by the cookies about your use of this website include:
+
+  * Browser type / version;
+  * Operating system;
+  * Referrer URL (the previously visited page);
+  * IP address of the accessing computer;
+  * Time of server request;
+  * Pages visited.
+
+
+
+This information is transmitted to a Google server in the United States and stored there. The information is used to evaluate the use of the website, to compile reports on website activity and to provide other services related to website activity and internet usage for the purposes of market research and tailor-made website design. This information may also be transferred to third parties if required by law or if third parties process this data in the order. The data accumulated in this context is transmitted by Google for evaluation to a server in the USA and stored there. In the event that personal data is transferred to the USA, Google is subjected to the [](https://www.privacyshield.gov/)[EU-US Privacy Shield](https://www.privacyshield.gov/). Under no circumstances will your IP address be merged with any other data provided by Google. The IP addresses are anonymized, so that an assignment is not possible.
+
+You can prevent the installation of cookies by setting the browser software accordingly; however, we point out that in this case not all features of this website may be fully exploited. You can also prevent the collection of data generated by the cookie and related to your use of the website (including your IP address) and the processing of this data by Google by downloading and installing a browser add-on (<https://tools.google.com/dlpage/gaoptout?hl=en>). As an alternative to the browser add-on, especially for browsers on mobile devices, you can prevent the collection by Google Analytics. An opt-out cookie will be set which will prevent the future collection of your data when you visit this website. The opt-out cookie is only valid in this browser and only for our website and is stored on your device. If you delete the cookies in this browser, you must reset the opt-out cookie again. For more information about privacy related to Google Analytics, see the Google Analytics Help Center (<https://support.google.com/analytics/answer/6004245?hl=en>).
+
+b.Google AdWords Conversion Tracking  
+To statistically record the use of our website and to optimize and evaluate it, this website also uses the Google Conversion Tracking tool (Google LLC, 1600 Amphitheater Parkway, Mountain View, CA 94043, USA ("Google")). Here, Google AdWords sets a cookie on your computer if you have reached our website via a Google advertisement. After 30 days these cookies lose their validity and are not used for personal identification.  If the user visits certain pages of the website of the AdWords customer and the cookie has not yet expired, Google and the customer can recognize that the user clicked on the ad and was redirected to this page.
+
+Each AdWords customer receives a different cookie. Cookies cannot be tracked via the websites of AdWords customers. The information gathered using the conversion cookie is used to generate conversion statistics for AdWords customers who have opted for conversion tracking. AdWords tracks the total number of users who have clicked on our ad and proceeded to a provided with a conversion tracking tag page. However, they do not receive information that personally identifies users. If you do not want to participate in the tracking process, you can also refuse the required setting of a cookie - for example, via a browser setting that generally disables the automatic setting of cookies. You can also disable cookies for conversion tracking by setting your browser to block cookies from the domain "www.googleadservices.com". In the event that personal data is transferred to the USA, Google is subjected to the [EU-US Privacy Shield](https://www.privacyshield.gov/). Google's privacy policy on conversion tracking can be found here (<https://services.google.com/sitestats/en.html>).
+
+c. HubSpot  
+This website utilizes marketing automation software from HubSpot Inc.  (2nd Floor, Cambridge, MA 02141, USA 25 First Street,). HubSpot collects data through a cookie, which is stored on the user's computer. The following information is collected: Information about the computer you use and your visit to our website, in particular your IP address, your pages visited, the browser you use, the referral source and the length of your visit to the website. This information is stored on a HubSpot server. If you sign up for one of our offers, contact information such as name, email address, company name, address, phone number are collected and stored by HubSpot. We only use the data for statistical evaluations in order to ensure a smooth operation of the offer and to optimize it on an ongoing basis. We also use the data to optimize the marketing measures. We assure that your data will only be stored in HubSpot databases and will not be shared with third parties. Personal information that is processed includes such information that is publicly available through you on the Internet and HubSpot also stores.  At any time, you can prevent the storage of cookies through your browser settings. In the event that personal data is transferred to the USA, HubSpot is subjected to the [EU-US Privacy Shield](https://www.privacyshield.gov/). For more information about HubSpot and Privacy, visit <https://legal.hubspot.com/privacy-policy>.
+
+d. Act-On  
+If you fill out the any form on the website, your information will be collected by marketing automation software from Act-On Software, Inc. (8300 SW Creekside Place, Suite 250, Beaverton, Ore. 97008, USA) to provide you with our newsletter and other automated email correspondence. These communications provide further information about the downloaded software and related services. You can unsubscribe from receiving Foxit email at any time (see point 12).
+
+In addition, Act-On uses the information in the download form on our behalf to analyze your continued use of our portal. Certain usage data are linked and stored with your person. In this way, we can provide you with information and offers that are tailored to your specific needs. You may object to this use of your data at any time.
+
+We work together with the Act-On services to collect and store your data. For more details, see Act-On's Digital Policy Compliance Information and Privacy Policy. For more information on the technologies used by Act-On Software, Inc., please refer to Act-On's Privacy Policy at <https://act-on.com/privacy-policy-summary> and <https://www.act-on.com/about-us/digital-compliance/>.
+
+e. Pardot  
+If you fill out the any form on our website, your information will be used on our behalf by the marketing automation software of Pardot, a subsidiary of Salesforce, Inc. (Salesforce.com, Inc., The Landmark at One Market, Suite 300, San Francisco, CA 94105, USA) to provide you with our newsletter and other automated email correspondence. These communications provide further information about the downloaded software and related services. You can unsubscribe from receiving Foxit email at any time (see point 12).
+
+In addition, Salesforce uses the information in the download form on our behalf to analyze your continued use of our portal. Certain usage data are linked and stored with your person. In this way, we can provide you with information and offers that are tailored to your specific needs. You may object to this use of your data at any time.
+
+We work together with the Salesforce’s services to collect and store your data. For more details, see Salesforce's Digital Policy Compliance Information and Privacy Policy. For more information on the technologies used by Salesforce, Inc., please refer to Salesforce’s Privacy Policy at <https://www.pardot.com/legal/>.
+
+f. AdRoll  
+This website uses retargeting software from AdRoll, Inc. (2300 Harrison St, San Francisco, CA 94110, USA). While visiting this site, cookies are set on the user device stored to help us better understand the user's interests. Our display advertising partner, AdRoll, will enable us them to show our advertisements on third party websites on the user interests ("Retargeting campaigns"). Of course, the use of retargeting is done with technology in accordance with applicable data protection legislation. More information about AdRoll, including a description for disabling the service, can be found at <http://www.adroll.com/about/privacy>.
+
+g. Bing Ads  
+Microsoft's Bing Ads software is used on our website (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA). Bing Ads uses your computer cookies if you come to our website via a Microsoft Bing advertisement. This information tells Foxit that someone clicked on an ad, was redirected to our site, and reached a previously determined landing page (conversion page). Bing Ads learns only the total number of users who clicked on a Bing ad and were then redirected to the conversion page. No personal information about the identity of the user is given. In the event that personal data is transferred to the USA, Microsoft is subjected to the [EU-US Privacy Shield](https://www.privacyshield.gov/) subject. You can prevent the storage of cookies through your browser settings; however, we point out that in this case you may not be able to use all the functions of the website in full. You can prevent Microsoft data collection by disabling the personalized ads on Microsoft's disclaimer page.   
+More information can be found in the Privacy Policy from Microsoft at <https://privacy.microsoft.com/en-US/>.
+
+h. Hotjar  
+This website also uses web analytics software from Hotjar Ltd. (Level 2, St Julian’s Business Centre, 3, Elia Zammit Street, St Julian’s STJ 1000, Malta) to collect statistical information about the use of our web site. With the help of this tool, visitor information is collected and transmitted to Hotjar servers. The technology enables the activities of the user to be collected while visiting our website, to analyze and visualize. For example, we can use a "heat map " to identify which areas of our website are the most visited and clicked. For this are appropriate Cookies sent to Hotjar. Hotjar Ltd. may impose data collection and storage on certain browser settings. Hotjar's data collection may be disabled by any opt-out on any of our or other websites operated using Hotjar. Further explanations as well as a function to explain your opt-out can be found on the opt-out page of Hotjar. In addition, Hotjar supports the so-called Do-Not-Track function of your browser. If you enable it in your browser, Hotjar will not collect any data. Instructions for the various browsers can be found on the Hotjar website.   
+For further information regarding Hotjar, visit <https://www.hotjar.com/legal/compliance/gdpr-commitment> as well as <https://www.hotjar.com/privacy>.
+
+i. Stripe  
+Foxit uses online payment management services from Stripe (Stripe, Inc. 185 Berry Street, Suite 550, San Francisco, CA 94107, USA). The service allows Foxit to record process monthly and annual subscription purchases for Foxit products and stores the necessary billing information provided by the customers to successfully process each transaction. Your data is hosted by Stripe in the United States. The data processing by Stripe takes place partly on servers in the USA. In the event that personal data is transferred to the USA, Stripe is subjected to the [EU-US Privacy Shield](https://www.privacyshield.gov/). The use of an external payment service provider is based on our legitimate interest to you with offering Stripe as an additional payment option.   
+For more information about Stripe, visit <https://stripe.com/us/privacy>.
+
+j. Salesforce.com  
+Foxit uses customer relationship management software from Salesforce.com (Salesforce.com, Inc., The Landmark at One Market, Suite 300, San Francisco, CA 94105, USA). The service allows us to record contact information of customers and potential customers. A limited number of authorized employees have access to the database as necessary to search for business information about customers and potential new customers. Your data is hosted by Salesforce in the United States. In the event that personal data has been transferred to the USA, Salesforce is subjected to the [EU-US Privacy Shield](https://www.privacyshield.gov/).  
+For more information about Salesforce.com, visit <https://www.salesforce.com/company/privacy/>.
+
+k. Drift.com, Inc.  
+This website also uses automated chat software from Drift.com, Inc. (222 Berkeley Street, 6th FL, Boston, MA, 02216) to collect information from you to help you get information about Foxit products or setup a sales meeting with a Foxit representation. Drift.com collects information that your browser sends whenever you visit our website. This data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Services that you visit, the time and date of your visit, the time spent on those pages and other statistics. In the event that personal data is transferred to the USA, Drift.com is subjected to the [EU-US Privacy Shield](https://www.privacyshield.gov/).  
+For further information regarding Drift.com, visit <https://www.drift.com/privacy-policy/>.
+
+#### 7. Social media plug-ins
+
+We use Social Plug-ins on our website from Facebook, Twitter, YouTube, LinkedIn and Google+ to increase Foxit’s awareness and promotional purposes. Responsibility for the operation compliant with data protection is to be guaranteed by their respective providers. The integration of these plug-ins by us is done by means of the so-called two-click method to protect visitors to our website in the best possible way.
+
+a. Facebook Connect  
+This website uses the "Facebook Connect" service provided by Facebook Inc. (1601 S. California Ave, Palo Alto, CA 94304, USA). When using Facebook Connect, Facebook profile data and on Facebook public data from your Facebook profile are transmitted to this website. Conversely, data from the Foxit website can also be transferred to your Facebook profile. Your transmitted data will be stored and processed by Foxit for registration on the Foxit Platform. By registering on our website via Facebook Connect, you consent to the transmission of profile data from your Facebook profile to Foxit as well as the transmission of data on the use of Foxit to Facebook. In the event that personal information is transferred to the USA, Facebook has submitted to the [EU-US Privacy Shield](https://www.privacyshield.gov/). The legal basis is the fulfillment of the contract or the implementation of pre-contractual measures.  
+For more information about Facebook Connect and Privacy Settings, please refer to the Facebook Privacy Policy and Terms of Use at <http://www.facebook.com/policy.php>.
+
+b. Twitter  
+This website uses a plugin of the short message network of Twitter Inc. (Twitter). The Twitter plugin (tweet button) can be recognized by the Twitter logo on our site. An overview of tweet buttons can be found here (<https://about.twitter.com/resources/buttons>). When you visit a page of our website that contains such a plugin, a direct connection is established between your browser and the Twitter server. Twitter receives the information that you have visited our site with your IP address. If you click on the Twitter "tweet button" while logged in to your Twitter account, you can link the contents of our pages to your Twitter profile. This allows Twitter to associate your visit to our pages with your user account. We point out that we as the provider of the pages are not aware of the content of the transmitted data and their use by Twitter. If you do not want Twitter to associate your visit to our pages, please log out of your Twitter account. Legal basis is the Contract fulfillment or the Execution of pre-contractual measures.  
+Further information can be found in the privacy policy of Twitter (<https://twitter.com/privacy>).
+
+c. Google+  
+The site offers the opportunity to sign in with your Google Account (Google Sign-In for Websites). It is a service of Google Inc., (1600 Amphitheater Parkway, Mountain View, CA 94043, USA ("Google")). If you want to use this feature, you will first be redirected to a Google site. There you will be asked to log in with your username and password. We do not take note of your registration data. Afterwards your Google contact information will be sent to us if you confirm this process with the "Login" button. 
+
+There is no permanent link between your customer account and your Google account. If you're logged in to Google+, Google can instantly associate your visit to our website with your Google+ profile. If you interact with the plugins, for example by pressing the "+1" button, the corresponding information is also transmitted directly to a Google server and stored there. The information will also be published on Google+ and displayed there to your contacts.
+
+The purpose and scope of the data collection and the further processing and use of the data by Google as well as your rights in this regard and setting options for the protection of your privacy can be found in the data protection information provided by Google: <https://policies.google.com/privacy>.
+
+If you do not want Google to immediately associate the data collected through our website with your profile on Google+, you'll need to log out of Google+ before you visit our website. You can completely prevent the loading of Google Plugins even with add-ons for your browser with the script blocker "NoScript" (<http://noscript.net/>). The legal basis is the fulfillment of the contract or the implementation of pre-contractual measures.  
+For more information about signing up with Google and the privacy settings, please refer to the Google [Privacy Policy](https://policies.google.com/privacy).
+
+d. YouTube  
+We use the provider YouTube for the integration of videos. YouTube is operated by YouTube LLC, headquartered at 901 Cherry Avenue, San Bruno, CA 94066, USA. YouTube is represented by Google Inc., located at 1600 Amphitheater Parkway, Mountain View, CA 94043, USA. When you visit the subpages of our website that have a YouTube plugin, they will connect to the YouTube servers and display the plugin. This will tell the YouTube server which of our subpages you have visited. If you are logged in as a member of YouTube, YouTube assigns this information to your personal user account. When using the plugin such as clicking the start button of a video, this information is also assigned to your user account. For more information about data processing and privacy by YouTube (Google), please visit <https://policies.google.com/privacy>. If the Do-Not-Track feature is activated in the browser, no external YouTube content will be loaded without the consent, only the reference to this option (Play button) will be displayed.You can prevent the collection of data generated by cookies and related to your use of this website as well as the processing of this data by Google by entering into the Google Settings and disabling the "Personalized Advertising on the Web" option. In that case, Google will only display non-individualized advertising. In the event that personal data is transferred to the USA, Google and the affiliate YouTube is subjected to the [EU-US Privacy Shield](https://www.privacyshield.gov/). The legal basis is on our legitimate interest in the integration of video and image content.
+
+More information can be found in YouTube [Privacy policy](https://policies.google.com/privacy) from Google.
+
+e. LinkedIn  
+The website offers the possibility to sign in with "Sign-In with LinkedIn". Sign-In with LinkedIn is a service of LinkedIn Corporation, 2029 Stierlin Ct. Ste. 200 Mountain View, California 94043, United States ("LinkedIn"). If you want to use this feature, you will first be redirected to LinkedIn. There you will be asked to log in with your username and password. We do not take note of your registration data. Following this, your LinkedIn account information will be sent to us if you confirm this process with the "Login and allow" button.
+
+A permanent link between your customer account and your Account on LinkedIn does not take place. For more information about Sign In with LinkedIn and Privacy Settings, please refer to the LinkedIn [Privacy Notice](https://www.linkedin.com/legal/privacy-policy).
+
+#### 8. Server location
+
+An overview of Foxit's group of companies including its subsidiaries can be found at <https://www.foxitsoftware.com/company/contact.php>.The servers on which user data is collected, stored and used are located in the United States. However, at times, your data may be required within our group of companies or to third parties. If you use the Foxit platform, you allow us to transmit, store and process your information in the United States and possibly in other countries. The laws of these countries may differ from the laws of your place of residence. By taking advantage of Foxit platform, you consent to the transmission of your data to these countries.
+
+#### 9. Registration 
+
+For all website registrations, we use the so-called double opt-in procedure in the European Union only. After registration on the website, we will then send you a notification email asking you to confirm that you wish to receive additional information from Foxit by clicking on a link in this email. The link will bring you to a preferences manager where you may choose what type(s) of information you would like to receive.
+
+If you no longer wish to receive information via email from us, you can unsubscribe at any time without incurring any costs other than the transmission costs according to the basic rates. You will find an unsubscribe link in Foxit emails, and if you chose to unsubscribe, we will then delete your email address from our mailing list.
+
+#### 10. Affected rights for European Union website visitors via GDPR
+
+In connection with the data processing presented here, you have the right to:
+
+  * Request information about your personal data processed by us. In particular, you can request information on the processing purposes, the category of personal data, the categories of recipients to whom your data has been disclosed, the planned retention period, the right to rectification, deletion, limitation of processing or opposition, the existence of the right to complain, the source of their data, if not collected from us, and the existence of automated decision-making including profiling and, where appropriate, meaningful information about their details;
+  * Demand the correction of incorrect or complete personal data stored with us;
+  * Demand the deletion of your personal data stored by us, unless the processing for the exercise of the right to freedom of expression and information, for the fulfillment of a legal obligation, for reasons of public interest or for the assertion, exercise or defense of Legal claims is required;
+  * Demand the restriction of the processing of your personal data. Dispute the accuracy of the data that the processing is unlawful, or whether we continue need the data. You can exercise a defense of your legal claims where you have objected to the data processing in accordance with Art. 21 GDPR;
+  * Receive your personal data provided to us in a structured, standard and machine-readable format or to request transmission to another person responsible;
+  * Revoke your once given consent to us at any time. As a result, we are not allowed to continue the data processing based on this consent cancellation.
+  * Contact the supervisory authority of your usual place of residence or workplace or our Contact branch in Berlin, Germany.
+
+
+
+#### 11.Withdrawal and Rights
+
+**You have  the right to object to the processing of your personal data provided that there are reasons for this arising from your particular situation or the objection is directed against direct mail. In the latter case, you have a general right of objection, which is implemented by us without specifying any particular situation.**
+
+**You also have the right to revoke a consent once given to us at any time.  As a result, we will not continue the data processing based on this consent for the future. By the revocation of the consent, the legality the processing on the basis of the consent until the revocation is not affected.**
+
+**If you would like to exercise your right to revocation or objection, please send an email to[privacy@foxitsoftware.com](mailto:privacy@foxitsoftware.com).**
+
+#### 12. Registration Data in the European Union
+
+In accordance with GDPR, European Union website visitors have the opportunity to order our newsletter, register for product downloads, and/or other registrations, in which we regularly inform you about news about our products and promotions.
+
+For these registrations we use the so-called Double Opt-in method.  We will only send you e-mail if you confirm by clicking on a link in our notification e-mail that you are the owner of the given e-mail address. If you confirm your e-mail address, we will save your e-mail address and the time of registration until you unsubscribe.  The sole purpose of the storage is to send you information via e-mail and to prove your registration. You can unsubscribe from e-mail at any time. A corresponding unsubscribe link can be found in every e-mail.  A message to the above or in the specified contact information (e.g. by e-mail or letter) is also sufficient. Legal basis of processing is your consent in accordance with. Art. 6 para. 1 lit of the GDPR.
+
+In our email, we use commercially available technologies that measure the interactions with the e-mail (e.g. opening the e-mail, clicked links).  We use this data in pseudonymous form for general statistical evaluations as well as for the optimization and further development of our content and customer communication. This is done with the help of small graphics that are embedded in the e-mail (so-called pixels). The data is collected exclusively pseudonymized and also not linked with your other personal information. Legal basis for this is our aforementioned legitimate interest. Through our e-mail, we want to share content relevant to our customers and better understand what readers are actually interested in. If you do not want to analyze the usage behavior, you can unsubscribe from e-mails or deactivate graphics in your e-mail program by default. The data for the interaction with our e-mails are stored pseudonym for 30 days and then completely anonymized.
+
+#### 13. Storage time
+
+As a matter of principle, we store personal data only as long as necessary to fulfill the contractual or legal obligations to which we have collected the data. Thereafter, we delete the data immediately, unless we need the data until the expiration of the statutory limitation period for evidence for civil claims or for statutory storage requirements.
+
+For evidence, we must retain contract information for three years from the end of the year in which the business relationship ends with you. Any claims become statute-barred after the legal limitation period at the earliest.
+
+Even after that, we sometimes have to save your data for accounting reasons. We are obliged to do so because of legal documentation obligations which may arise from legal obligations. The deadlines for storing documents are two to ten years.
+
+#### 14. Data security
+
+If you have created a Foxit account, access to this account is only possible after entering your personal password. You should always keep your access information confidential and close the browser window when you stop communicating with us, especially if you share your computer with others. In addition, we use the popular SSL (Secure Socket Layer) method in connection with the highest encryption level supported by your browser. In general, this is a 256-bit encryption. If your browser does not support 256-bit encryption, we will instead utilize 128-bit v3 technology. Whether a single page of our website is encrypted is shown by the closed representation of the key or lock icon in the lower status bar of your browser. We also take appropriate technical and organizational security measures to protect your data against accidental or intentional manipulation, partial or total loss, destruction or against unauthorized access by third parties. Our security measures are continuously improved in line with technological developments.
+
+#### 15. Changes, downloading, and printing this Privacy Policy
+
+This Privacy Policy is effective as of the date on which it is made available on the site and is effective as of May 2018. As our site evolves and offers become available, or as a result of changes in government or regulatory requirements, it may be necessary to change this privacy policy. The current privacy policy can be retrieved and printed by you at any time on the URL you are currently viewing. You can also download this text in PDF format. To view and print PDF files you need a PDF viewer. You can download the Foxit Reader for free on our [website](https://www.foxitsoftware.com/). 
