@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipart.me privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914002029id_/http%3A//clipart.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipart.me privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211190853id_/https%3A//clipart.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Clipart.me
 
@@ -64,13 +64,3 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 This policy was last modified on 01/18/2011
-
-### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below:
-
-Walmedia, LLC  
-7220 Lindbergh Blvd.  
-Hazelwood, MO 63042 USA  
-info@clipart.me  
-(786) 250-2337 
