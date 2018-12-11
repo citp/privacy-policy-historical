@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gats.io privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615093327id_/http%3A//stats.gats.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gats.io privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211030905id_/http%3A//stats.gats.io/privacy) for the most accurate reproduction.*
 
 # Stats | gats.io - Player Stats | Customize - Upgrade - Compete
 
@@ -7,6 +7,18 @@
 This following document sets forth the Privacy Policy for the website, gats.io.
 
 Gats.io is committed to providing you with the best possible user experience. Gats.io is bound by the Privacy Act 1988 (Cth), which sets out a number of principles concerning the privacy of individuals.
+
+**Third-Party Advertising**
+
+Some of the services and advertisements included on gats.io are delivered or served by third-party companies, which may collect information about your use of gats.io.
+
+These companies place or recognize cookies, pixel tags, web beacons or other technology to track certain information about gats.io users. For example, in the course of serving certain advertisements, an advertiser may place or recognize a unique cookie on your browser in order to collect certain information about your use of gats.io. For another example, an advertiser or ad server may also be able to collect your device’s unique identifier in the course of serving an ad. In many cases, this information could be used to show you ads on other websites based on your interests.
+
+We do not have access to, or control these third parties' use of cookies or other tracking technologies or how they may be used.
+
+For example, we use Google to serve advertisements on gats.io, which use the Google Ad Manager/Google DoubleClick cookie, and in some cases, a unique device identifier, to show you ads based on your visit to gats.io, and other sites on the Internet. You may opt out of the use of the Google Ad Manager/Google DoubleClick cookie by visiting [the Google ad and content network privacy policy](https://adssettings.google.com/). If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit <http://optout.aboutads.info/#/> and <http://optout.networkadvertising.org/#>. You may download the AppChoices app at <http://www.aboutads.info/appchoices> to opt out in mobile apps.
+
+Your access to gats.io should not be affected if you do not accept cookies served by third parties.
 
 **Collection of your personal information**
 
@@ -32,7 +44,7 @@ You have a right to access your personal information, subject to exceptions allo
 
 **Contacting us**
 
-Gats.io welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5c3f3332283d3f281c3b3d282f723533630f293e36393f28610c2e352a3d3f25)
+Gats.io welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, please contact us at [contact@gats.io](mailto:contact@gats.io?Subject=Privacy)
 
 **About us**
 
