@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekculture.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610122815id_/http%3A//geekculture.com/culture/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekculture.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211175712id_/http%3A//www.geekculture.com/culture/privacy.html) for the most accurate reproduction.*
 
 # Privacy @ Geek Culture
 
@@ -88,7 +88,7 @@ You may also choose to allow registered users or people you follow to do the fol
 
 
 
-If you use the Geek Culture Forums on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. However, use of information for these purposes is a violation of our Geek Culture Terms of Service. To request removal of your personal information from our community forum, contact [Snaggy.](https://web.archive.org/cdn-cgi/l/email-protection#097a67686e6e70496e6c6c626a7c657d7c7b6c276a6664)
+If you use the Geek Culture Forums on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. However, use of information for these purposes is a violation of our Geek Culture Terms of Service. To request removal of your personal information from our community forum, contact [Snaggy.](mailto:snaggy@geekculture.com)
 
 **Social Sharing**
 
@@ -138,4 +138,4 @@ If we change our privacy policies and procedures, we will post those changes on 
 
 **Contact Us**
 
-If you have any questions or suggestions regarding our privacy statement, please contact [Snaggy.](https://web.archive.org/cdn-cgi/l/email-protection#f784999690908eb79092929c94829b83828592d994989a)
+If you have any questions or suggestions regarding our privacy statement, please contact [Snaggy.](mailto:snaggy@geekculture.com)
