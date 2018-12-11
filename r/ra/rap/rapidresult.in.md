@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidresult.in privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531164942id_/http%3A//rapidresult.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidresult.in privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211100043id_/http%3A//rapidresult.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rapid Result
 
