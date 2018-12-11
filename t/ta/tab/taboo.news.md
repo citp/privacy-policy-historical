@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taboo.news privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610111112id_/http%3A//taboo.news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taboo.news privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211072520id_/http%3A//taboo.news/privacy-policy) for the most accurate reproduction.*
 
 # taboo.news Privacy Policy – Taboo News
 
@@ -129,7 +129,3 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 and we will promptly remove you from **ALL** correspondence.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
-
-610 N. Gilbert Road  
-Gilbert, Arizona 85234 United States  
-info@taboo.news
