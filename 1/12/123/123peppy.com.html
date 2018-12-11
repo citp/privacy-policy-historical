@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 123peppy.com privacy policy that was archived on 2018-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180606124403id_/http%3A//www.123peppy.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 123peppy.com privacy policy that was archived on 2018-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181211120432id_/http%3A//www.123peppy.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>      
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -31,6 +31,7 @@
  <link rel="stylesheet" type="text/css" href="http://www.123peppy.com/asset/css/style_stub.css">
 </head>
 <body>
+<div id="fade" style="display: none;"></div>
 <div id="test"></div>
 <div id="pagewrap">
 <div class="top_adds">
@@ -184,7 +185,6 @@
         </ul>
       </li>
     </ul>
-    <div id="fade" style="display: none;"></div>
     <div class="mid-cont-head">
       <ul id="jnav-menu" class="sub-menu">
         <li class="home"><a href="http://www.123peppy.com/"><span></span></a></li>
@@ -343,9 +343,7 @@ We update our games database daily.        </p>
 <span><a class="girls_games" href="http://www.123peppy.com/" title="Games for Girls" style="color:#E82B32">Games for Girls</a> Copyright © 2008-2018 123peppy All rights reserved. |</span>
 	
 	 <div class="footertop">
-		 	<a rel="nofollow" href="http://www.123peppy.com/contact-us" title="Contact Us">
-                Contact Us
-            </a>| <a rel="nofollow" href="http://www.123peppy.com/terms-of-services" title="TOS">
+		  <a rel="nofollow" href="http://www.123peppy.com/terms-of-services" title="TOS">
 
                 TOS            </a>| <a rel="nofollow" href="http://www.123peppy.com/privacy-policy" title="Privacy">
                 Privacy            </a>| <a href="http://www.123peppy.com/download-games-for-website" title="Free Games for your Website">
@@ -437,7 +435,20 @@ $(document).ready(function() {
             "margin-left": -n
         })
     }), $("#fade").mouseover(function() {
+           if($('#at15s').is(":visible")){
+                $('#at15s').mouseleave( function() {
+                      $("#header").removeClass('head-hide');
+                      $(".share-add-this").removeClass('sharebackdrop');
+                    $("#fade").hide();
+                    $('#at15s').css("display", "none");
+                }) 
+                return !1;
+            }
+            else {
+                $("#header").removeClass('head-hide');
+               $(".share-add-this").removeClass('sharebackdrop');
         return $("#fade , #popuprel , #popuprel2 , #rightc, #popuprel3").fadeOut(), !1
+            }
     })
 });
 var sw = screen.width;
@@ -598,4 +609,31 @@ pageTracker._trackPageview();
 
 
 <script type="text/javascript">var vclk_options = {sid:43986,media_id:2,media_type:2,version:"1.4",pfc:43200000};</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=43986&amp;media_id=2&amp;media_type=2&amp;version=1.4&amp;exc=1&amp;pfc=43200000"></script>
+<script>
+$(".share-add-this").hover( function() {
+    $("#header").addClass('head-hide');
+    $(this).addClass('sharebackdrop');
+    $("#fade").show();
+});
+$(".share-add-this").mouseleave(function(){
+    if($('#at15s').is(":visible")){
+        $('#at15s').mouseleave( function() {
+            $("#header").removeClass('head-hide');
+             $(".share-add-this").removeClass('sharebackdrop');
+            $("#fade").hide();
+            $('#at15s').css("display", "none");
+        }) 
+        setTimeout(function(){
+    if($('#at15s').is(":hidden")){ 
+        $("#fade").hide();  $("#header").removeClass('head-hide');  
+        $(".share-add-this").removeClass('sharebackdrop');} 
+    }, 700);
+    
+    } else {
+         $("#header").removeClass('head-hide');
+         $(".share-add-this").removeClass('sharebackdrop');
+         $("#fade").hide();
+    }
+});
+</script>
 <!-- Conversant Media POP-UNDER CODE for 123peppy.com --></body></html>
