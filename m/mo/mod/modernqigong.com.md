@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernqigong.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622065543id_/http%3A//mindvalley.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernqigong.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211212925id_/https%3A//www.mindvalley.com/privacy-policy) for the most accurate reproduction.*
 
 # Mindvalley | Privacy policy
 
