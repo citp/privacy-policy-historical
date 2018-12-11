@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the reikirays.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217013018id_/http%3A//reikirays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reikirays.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211105253id_/https%3A//reikirays.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reiki Rays
 
 WEBSITE PRIVACY POLICY for REIKIRAYS.COM
+
+Agreeing to this policy implies that you have also read and agreed to the [Terms and Conditions](https://reikirays.com/terms-and-conditions/) and the [Legal Notice](https://reikirays.com/legal-notice/).
 
 Our commitment to Privacy
 
@@ -10,7 +12,7 @@ Your privacy is important to us. We are committed to safeguarding the privacy of
 
 Collection of your information
 
-**REIKIRAYS.COM** **** is the owned and managed by **ACORN GECKO SRL** (“the company”), a Romanian company registered under the EU VAT number RO32893426. The company is the sole owner of information collected on this website. We will not share, sell, or trade this information to third parties in ways different from what is disclosed in this Privacy Policy.
+**REIKIRAYS.COM** **** is owned and managed by **ACORN GECKO SRL** (“the company”), a Romanian company registered under the EU VAT number RO32893426. The company is the sole owner of information collected on this website. We will not share, sell, or trade this information to third parties in ways different from what is disclosed in this Privacy Policy.
 
 We may collect, store and use the following kinds of data/information:
 
@@ -42,7 +44,7 @@ We will take reasonable technical and organizational precautions to prevent the 
 
 
 
-You may instruct us to provide you with any personal information we hold about you.
+You may instruct us to provide you with any personal information we hold about you as well as request that we delete this information from our records. Please use the [Contact Us](https://reikirays.com/contact/) form to get in touch.
 
   * ******Control of Your Passwords**
 
@@ -72,6 +74,8 @@ You agree that we may use personal information about you to improve our marketin
 
 You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information.
 
+We will be sending you emails containing free information (such as articles, eBooks, videos, webinars, free courses or events, documents etc) as well as promotional materials and information about products for purchase. We will be sending you, on average, one email per day.
+
 Cookies
 
 We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. We may send cookies which may be stored by your browser on your computer’s hard drive.
@@ -96,4 +100,4 @@ Contact
 
 If you have any questions about this privacy policy or our treatment of your personal data, please contact us using the Contact form on this website.
 
-Read also the [Terms and Conditions](http://reikirays.com/terms-and-conditions/) and the [Legal Notice](http://reikirays.com/legal-notice/).
+Agreeing to this policy implies that you have also read and agreed to the [Terms and Conditions](https://reikirays.com/terms-and-conditions/) and the [Legal Notice](https://reikirays.com/legal-notice/).
