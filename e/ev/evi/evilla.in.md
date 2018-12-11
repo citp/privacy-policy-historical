@@ -1,34 +1,47 @@
-> *The following text is extracted and transformed from the evilla.in privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217051444id_/http%3A//www.evilla.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilla.in privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211210304id_/http%3A//www.evilla.in/privacypolicy.html) for the most accurate reproduction.*
 
-# evilla.in Privacy Policy
+# Evilla
 
-**Online shopping India**  
-evilla.in is seriously committed to the privacy and security of your personal information. Our primary goal on collecting any personal information is to provide you with a smooth, efficient and trouble-free experience whilst using our services. When you order, we need to know your name, e-mail address, delivery address, the credit or debit card number, the card's expiry date and the card's registered address. This allows us to process your orders and to notify you of the status of your order. We also ask for your telephone number so that we can contact you if there is a problem with your order. If there is a delivery problem we sometimes give the number to our carriers so they can contact you to arrange delivery.
+About Evilla.in 
 
-When you enter a Evilla.in competition, we may ask you for your name, address and e-mail address so that we can administer the competition and notify winners. Whilst we may post the name and town of any winners on our site, we would never divulge any personally identifiable information.
+Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics)
 
-**Session Cookies**  
-We may also use the information we collect to send you our monthly catalogue and e-mail you information; such as special offers, changes to the website or other valuable information such as changes to opening times. If you would rather not receive our catalogue please call our main telephone number or uncheck the 'catalogue' box in your User Profile. If you do not wish to receive our e-mail promotions please uncheck the 'E-Weekly E-mails' box in your My Personal Details page when logged in, or use the unsubscribe link on any marketing e-mail you receive. Cookies for Site Performance and Site Analytics.Session Cookies.
+This privacy policy sets out how Evilla.in uses and protects any information that you give Evilla.in when you use this website. Evilla.in is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Evilla.in may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-**Persistent Cookies**  
-We use a session cookie to remember your log-in details for you. We deem this strictly necessary to the working of this website and if these are disabled then various functionality of the site will be broken and you will be unable to place any orders.
+What we collect
 
-**Google Analytics**  
-We use persistent cookies to remember items you have placed in your shopping basket and items you have recently viewed. Again, we deem these strictly necessary for the working of the site and if these are disabled you would be unable to place an order.
+We may collect the following information:
 
-**Social Buttons**  
-We use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at http://www.google.co.uk/intl/en/analytics/privacyoverview.html
+name
 
-**External Web Services**  
-On many of the pages of the site you will see 'social buttons'. These enable users to share or bookmark certain pages. There are buttons for: Twitter, Google +1, Facebook ‘Like’. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of Evilla.in. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on Evilla.in’s site. So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting Evilla.in, and the specific pages you are on, even if you don’t click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
+contact information including email address demographic information such as postcode, preferences and interests other information relevant to customer surveys and/or offers For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
-**Email Tracking**  
-We may occasionally use a number of external web services on the Evilla.in site, mostly to display content within our web pages. For example, to display videos we use YouTube. This is not an exhaustive or complete list of the services we use, or might use in the future, when embedding content, but are the most common. As with the social buttons we cannot prevent these sites, or external domains, from collecting information on your usage of this embedded content. If you are not logged in to these external services then they will not know who you are but are likely to gather anonymous usage information e.g. number of views, plays, loads etc.
+What we do with the information we gather We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-**Blog Comments & Reviews**  
-Some emails that we send you have in tracking so that we can tell how much traffic those emails send to our site. We use this information to understand open and click rates on our emails to try and improve them. You can opt out of receiving these emails, should you wish to, via the "My Personal Details" page when logged in.
+Internal record keeping.
 
-**Will Evilla.in disclose the information it collects to outside parties?**  
-In order to leave a comment on our Blog or review a product you have to give us your Name and Email address. We require name and email addresses for quality control purposes.
+We may use the information to improve our products and services. We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
-We do not sell, trade, or rent your personal information to others. We may choose to do so in the future with reputable third parties, but you can tell us not to by sending a blank e-mail message to noreply@Evilla.in. (If you use more than one email address to shop with us, send this message from each e-mail account you use.) Evilla.in may also provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+Links to other websites Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+Controlling your personal information You may choose to restrict the collection or use of your personal information in the following ways:
+
+whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at admin@Evilla.in We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Front Line, Dongarewadi Near Jivan Dhara Hotel,Varachha,, Surat, Gujarat 395006. Email:admin@Evilla.in Phone:0261-6553747.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
