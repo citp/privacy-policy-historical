@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the transunion.ca privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626232443id_/https%3A//www.transunion.ca/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transunion.ca privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211022930id_/https%3A//www.transunion.ca/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TransUnion Canada
 
 TRANS UNION OF CANADA, INC. PRIVACY FACTS NOTICE  
-(Last updated June 2014)
+(Last updated October 2018)
 
 ### Scope
 
@@ -43,19 +43,16 @@ Local: 514 335 0374
 
 Mail:   
 TransUnion  
-1 Place Laval  
-Suite 370  
-Laval, PQ   
-H7N 1A1
+3115 Chemin Harvester,  
+Suite 201 Burlington ON L7L 3N8
 
 | **Other Provinces**  
 Toll-Free: 1 800 663 9980
 
 Mail:   
 TransUnion  
-P.O. Box 338 LCD1  
-Hamilton ON   
-L8L 7W2
+3115 Harvester Road,  
+Suite 201 Burlington ON L7L 3N8
 
 | Online  
 [www.transunion.ca](http://www.transunion.ca/ "TransUnion Canada")
@@ -141,12 +138,12 @@ We may use video surveillance in and around our walk-in locations for the safety
 **Business Credit Reports:**   Although TransUnion’s business reports generally only contain credit information about businesses, they may contain personal information about the principals of the business such as name, address, phone number and percentage ownership in the business.
 
 (b) **Identification Requirements**  
-We also collect other information you have provided to confirm your identity, which we maintain for quality control and authentication purposes. This information may include copies of, or information from, your driver's licence, birth certificate, passport, credit cards, signature, photograph, copies of bills or correspondence or proof of business ownership. This information is not part of your credit report.
+We also collect other information you have provided to confirm your identity, which we maintain for quality control and authentication purposes. This information may include your name and contact information, copies of, or information from, your driver’s licence, birth certificate, passport, credit cards, signature, photograph, copies of bills or correspondence or proof of business ownership. This information is not part of your credit report.
 
 (c) **Other Information**   
 We may also collect:
 
-  * Contact information, such as your email address, telephone number and postal address, for the purposes of responding to your inquiries or requests;
+  * Contact information, such as your name, email address, telephone number and postal address, for the purposes of responding to your inquiries or requests, communicating with you, and verifying your identity;
   * Information necessary to process payments for services that you have purchased from us, such as your credit card number and expiry date;
   * Death records; and
   * Information you have reported to us as lost, stolen and/or misused, such as your Social Insurance Number.
@@ -235,8 +232,8 @@ For service in French:
 
 TransUnion   
 Telephone:  (877) 713-3393 or (514) 335-0374   
-1 Place Laval, Suite 370,   
-Laval, PQ H7N 1A1
+3115 Chemin Harvester,  
+Suite 201 Burlington ON L7L 3N8
 
 Hours of operation:  
 8:30 a.m.-5:00 p.m. ET (Monday - Friday)
@@ -245,9 +242,9 @@ For service in English:
 
 TransUnion  
 Telephone: (800) 663-9980  
-PO Box 338 LCD1,   
 E-mail: [privacy@transunion.ca](mailto:privacy@transunion.ca "Email privacy@transunion.ca")   
-Hamilton, ON L8L 7W2
+3115 Harvester Road,  
+Suite 201 Burlington ON L7L 3N8
 
 Hours of operation:  
 8:30 a.m.-5:00 p.m. ET (Monday - Friday)
@@ -292,4 +289,4 @@ Our Website may offer links to other third party websites, like TransUnion Inter
 
 TransUnion reserves the right to modify this Privacy Policy at any time without notice. The Privacy Policy posted at any time or from time to time via this website shall be deemed to be the Privacy Policy then in effect.
 
-Last revised June 2014.
+Last Updated October 2018.
