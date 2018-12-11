@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the nyfw.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531134539id_/http%3A//nyfw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyfw.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211164323id_/http%3A//www.nyfw.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 IMG Worldwide New York Fashion Week Privacy Policy
 
-Effective Date: January 18, 2016  
-
+Effective Date: September 5, 2018
 
 This Privacy Statement describes how information about you is collected, used, and disclosed by IMG Worldwide, LLC and our parents, subsidiaries and affiliates (collectively, "IMG Worldwide," "we" or "us") when you attend New York Fashion Week ("NYFW") events, access or use our NYFW website or mobile application (collectively, the "Service"), or otherwise interact with us in connection with NYFW. Please note that we may have different privacy statements with respect to certain parents, subsidiaries, affiliates, programs, or activities, and in those cases, this Privacy Statement will not apply.
 
@@ -45,25 +44,34 @@ IMG Worldwide may use the information we collect from and about you to:
   * Send you information, newsletters, and promotional materials from IMG Worldwide and our partners;
   * Protect the security or integrity of the Service and our business;
   * Link or combine with information we get from others to help understand your needs and provide you with better service; and
-  * Carry out any other purpose described to you at the point of data collection.
+  * Carry out any other purpose described to you at the point of data collection.  
 
 
 
-INFORMATION SHARING
 
-IMG Worldwide may share the personal information we collect from and about you:
+DISCLOSURE OF YOUR INFORMATION
 
-  * With our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership;
-  * With our service providers, vendors, and consultants who need access to the information to perform services for us;
-  * With event sponsors and other partners, including but not limited to AGT GmbH International, Appy Entertainment GmbH, Appy Entertainment LLC and their respective affiliates and subsidiaries, where necessary to provide you with the Services and for their own business purposes, including for the purpose of sending you promotional communications;
-  * As necessary if we believe that there has been a violation of the IMG Worldwide Terms of Service http://nyfw.com/terms-of-use or of our rights or the rights of any third party;
-  * To respond to judicial process or provide information to law enforcement or regulatory agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law;
-  * In connection with any merger, sale of assets, financing, bankruptcy, or reorganization of our business; and
-  * With your consent.
+We may share your personal information with any of the Endeavor Companies (including IMG Worldwide, LLC and WME IMG, LLC) and with selected third parties including:  
 
 
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you in order to provide you with a product or service;  
 
-Further, IMG Worldwide may share aggregated or anonymous information which cannot reasonably be used to identify you.
+  * Business partners, suppliers and sub-contractors to provide you with information about promotions and offers;       
+
+  * Aggregated, anonymised or other data to advertisers, advertising networks and social networks that require the data to select and serve relevant adverts to you and others. We may also use aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal information we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience; and          
+
+  * Analytics and search engine providers that assist us in the improvement and optimisation of the Service.
+
+
+
+We may disclose your personal information to third parties:  
+
+
+  * If the Endeavor Companies that control this Service or substantially all of its assets are acquired by a third party, in which case personal information held by it about its customers will be one of the transferred assets;        
+  * If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in the event of an emergency, or in order to enforce or apply our Terms of Use and other agreements, or to protect the rights, property, or safety of the Endeavor Companies, our customers, clients or others; and          
+  * To any other third party with your prior consent to do so
+
+
 
 SOCIAL SHARING FEATURES
 
