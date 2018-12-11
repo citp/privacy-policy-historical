@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wasi.lk privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627052224id_/http%3A//www.wasi.lk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wasi.lk privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211055554id_/https%3A//www.wasi.lk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wasi.lk | Best Prices in Sri Lanka
 
 ## Privacy Policy
 
-At wasi.lk (hereinafter referred to as “wasi”, “us”, “we”, “our”), we are committed to safeguarding and preserving the privacy of our visitors and to comply with any applicable data protection and privacy laws. The Privacy Policy applies to all Customers and Users (collectively referred to as “Users”). In addition this Privacy Policy applies to all products and services provided by [www.wasi.lk](https://web.archive.org/web/20180627052224id_/http%3A//www.wasi.lk/) (hereinafter referred to as “wasi.lk” or the “Site”, “website”).
+At wasi.lk (hereinafter referred to as “wasi”, “us”, “we”, “our”), we are committed to safeguarding and preserving the privacy of our visitors and to comply with any applicable data protection and privacy laws. The Privacy Policy applies to all Customers and Users (collectively referred to as “Users”). In addition this Privacy Policy applies to all products and services provided by [www.wasi.lk](https://web.archive.org/web/20181211055554id_/https%3A//www.wasi.lk/) (hereinafter referred to as “wasi.lk” or the “Site”, “website”).
 
 This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our Site. We do update this Policy from time to time so please do review this Policy regularly.
 
@@ -20,17 +20,11 @@ In running and maintaining our Site we may collect and process the following dat
 
 ##### Security
 
-We know how important it is to feel safe when using your credit/debit card online. This is why we have employed the best encryption methods available today. You can feel confident about the safety of your credit/debit card when shopping on our site. We encrypt every order to protect your credit/debit card number and personal information. Encryption is a process by which we use software to scramble your credit/debit card number and personal information in transit from wasi.lk.
-
-wasi.lk 128/256 bit SSL Premium Certification With SSL Premium web server certificates, you can conduct secure Internet transactions with confidence. We have installed Positive SSL to encrypt data.
-
-By using Positive SSL we assure our visitors that credit/debit card account numbers and other confidential information cannot be viewed, intercepted or altered.
-
-[](http://wasi.lk/wp-content/uploads/2013/07/PositiveSSL_tl_white2.gif)
+We know how important it is to feel safe when using your credit/debit card online. This is why we have employed the best encryption methods available today. You can feel confident about the safety of your credit/debit card when shopping on our site.
 
 ##### Credit/Debit Card Information
 
-We accept payments through Visa, MasterCard debit and credit cards with our online payment gateway managed and run by Seylan Bank Sri Lanka. We do not keep customers credit/debit card information on file or store in our database. The Bank verify credit/debit card information during the transaction. When passing information we use SSL to encrypt all data.
+We accept payments through Visa, MasterCard and American Express debit and/or credit cards with our online payment gateway managed and run by Hatton National Bank, Sampath Bank, Commercial Bank and Nations Trust Bank in Sri Lanka. We do not keep customers credit/debit card information on file or store in our database. The Bank verify credit/debit card information during the transaction. When passing information we use SSL to encrypt all data.
 
 ##### Use of Cookies
 
