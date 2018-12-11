@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphene-theme.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708095504id_/https%3A//www.graphene-theme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphene-theme.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211230223id_/https%3A//www.graphene-theme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Graphene Themes Solutions
 
@@ -6,7 +6,7 @@ This Privacy Policy is issued to all our valued customers/prospective customers,
 
 We treat and view your personal data seriously.
 
-In the course of your dealings with us, **Graphene Themes Solutions** , as our valued customer / prospective customer, we will request that you provide data and information about yourself (â€œPersonal Dataâ€) to enable us to enter into transaction with you or to deliver the necessary notices, services and/or products.
+In the course of your dealings with us, **Graphene Themes Solutions** , as our valued customer / prospective customer, we will request that you provide data and information about yourself (“Personal Data”) to enable us to enter into transaction with you or to deliver the necessary notices, services and/or products.
 
 ### What information do we collect?
 
@@ -89,13 +89,13 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ### Terms of Service
 
-Please also visit our [Terms of Service](https://www.graphene-theme.com/terms-of-service/ "Terms of Service") section establishing the use, disclaimers, and limitations of liability governing the use of our website at https://www.graphene-theme.com. By using our site, you consent to our Terms of Service and this Privacy Policy.
+Please also visit our [Terms of Service](https://www.graphene-theme.com/terms-of-service/ "Terms of Service") section establishing the use, disclaimers, and limitations of liability governing the use of our website. By using our site, you consent to our Terms of Service and this Privacy Policy.
 
 ### Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 4 March 2014.
+This policy was last modified on 10 March 2018.
 
 ### Contacting Us
 
