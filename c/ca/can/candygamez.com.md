@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candygamez.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531233005id_/http%3A//www.candygamez.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candygamez.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211165211id_/http%3A//www.candygamez.com/privacy.html) for the most accurate reproduction.*
 
 # candygamez.com - Privacy Policy
 
