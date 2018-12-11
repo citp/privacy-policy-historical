@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landlordreferencing.co.uk privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623003737id_/http%3A//www.landlordreferencing.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landlordreferencing.co.uk privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211111017id_/http%3A//www.landlordreferencing.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Landlord Referencing Services Privacy Policy
 
@@ -53,11 +53,11 @@ I agree that you may process, use, record and disclose personal information as d
 
 You may disclose **limited** information about me and my application to organisations for the purpose of research or product development.
 
-Tenants only: If you selected that you want a utility/telecoms quotation. We may use software supplied by Tenant Shop Limited to notify the local council, water supplier(s) and the energy provider(s) in line with your tenancy start date and again on the tenancy end/vacating date.  
-We may ask Tenant Shop to contact you on our behalf by Text, Phone and/or Email to offer you Energy and Media comparisons for your new Tenancy.
+**Tenants only:** In our aim to help both agents, landlords & tenants, did you know that when you move into a new home that your utilities can default to their general tariff, often on a higher rate than you may be eligible for! With all the preparation for moving this can often be overlooked.  
+With one of our partners you have the ability to set up your council tax, set up your water bills, compare telecoms and find a great deal on your utilities all from an easy downloadable app.
 
-Call Centre comparisons are completely optional for you (the tenant) and you can opt out at any time by emailing customerservices@mytenantshop.co.uk  
-Tenant Shop Limited is fully compliant with the data protection act 1998 and a registered member of the Information Commissioners Office with registration number Z305733X and will only use your information for the purposes set out above
+Can they send you an invitation to their service?  
+——————————
 
 By clicking submit you understand that automatic forms will be sent to the 3rd parties we require references from. This is taken from the email addresses you have provided. eg. Agent/Landlord, Accountant, Employer.  
 ————————————————————-
@@ -90,7 +90,7 @@ These services include:
 
 In relation to Referencing please see the Tenant Tab to see the terms and conditions relating to their application and data if you require clarification. In order to get the notifications when 3rd parties reply, your email address is included in the reference requests unique links.  This will trigger the email to your account.
 
-###   **Cookies**
+### **Cookies**
 
 Cookies are small files that a web site places on your hard disk to enable additional features of the web site to work. Our cookies do not contain any personally identifying information but they do enable us to provide a user-friendly experience. We do not use cookies to gather personal information such as a person’s name or e-mail address. In order to track usage on our web site, we may use cookies to identify repeat visitors to the web site and to determine the path visitors take on our site. Any information gathered by the use of cookies is compiled on an aggregate, anonymous basis.
 
