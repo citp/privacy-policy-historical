@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605124936id_/http%3A//globalsurveygroup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212033041id_/http%3A//www.globalsurveygroup.com/privacy.php) for the most accurate reproduction.*
 
 # Paid Surveys - GlobalSurveyGroup - Online Surveys for Making Money
 
@@ -77,7 +77,7 @@ Please note once an account is created, we may send you a confirmation e-mail ac
 
 B. Opting Out 
 
-To remove your User information from our mailing list(s) so as not to receive future communications from us or to no longer receive our service, please go to: http://www.globalsurveygroup.com/unsub.php and enter your email address. If you have submitted personal information under more than one e-mail account, you must make this request from each account that you have used. Global Survey Group will use commercially reasonable efforts to delete records from our mailing list when we receive requests to do so. Please allow up to 48 hours to be completely removed from our database. This Privacy Policy is subject to change from time to time, so please check back periodically. Use of the services offered at this site constitutes acceptance of the terms of this Policy.
+To remove your User information from our mailing list(s) so as not to receive future communications from us or to no longer receive our service, please go to: https://www.globalsurveygroup.com/unsub.php and enter your email address. If you have submitted personal information under more than one e-mail account, you must make this request from each account that you have used. Global Survey Group will use commercially reasonable efforts to delete records from our mailing list when we receive requests to do so. Please allow up to 48 hours to be completely removed from our database. This Privacy Policy is subject to change from time to time, so please check back periodically. Use of the services offered at this site constitutes acceptance of the terms of this Policy.
 
 #### How secure is my information?
 
@@ -99,6 +99,6 @@ We may sell, brand or share your personal information that you supply to us with
 
 #### Contact Information:
 
-If you are not in agreement with the terms of this Policy, please unsubscribe from the Global Survey Group [click here](https://web.archive.org/web/20180605124936id_/http%3A//globalsurveygroup.com/unsub.php) or write to us at Global Survey Group, 1420 East Roseville Parkway #140-245, Roseville, CA 95661 and request to be removed.
+If you are not in agreement with the terms of this Policy, please unsubscribe from the Global Survey Group [click here](https://web.archive.org/web/20181212033041id_/http%3A//www.globalsurveygroup.com/unsub.php) or write to us at Global Survey Group, 1420 East Roseville Parkway #140-245, Roseville, CA 95661 and request to be removed.
 
-If you feel that Global Survey Group is not abiding by its posted privacy policy, please [click here](https://web.archive.org/web/20180605124936id_/http%3A//globalsurveygroup.com/contact.php) or write us at Global Survey Group, 1420 East Roseville Parkway #140-245, Roseville, CA 95661.
+If you feel that Global Survey Group is not abiding by its posted privacy policy, please [click here](https://web.archive.org/web/20181212033041id_/http%3A//www.globalsurveygroup.com/contact.php) or write us at Global Survey Group, 1420 East Roseville Parkway #140-245, Roseville, CA 95661.
