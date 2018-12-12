@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philasd.org privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510162212id_/https%3A//www.philasd.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philasd.org privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212012952id_/https%3A//www.philasd.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The School District of Philadelphia
 
@@ -8,8 +8,8 @@ The School District of Philadelphia (“District” or “we” or “us” or �
 
 Use and operation of the Website is subject to all applicable District policies and administrative directives, including but not limited to:
 
-  * [Acceptable Use of Internet, Technology and Network Resources (815)](https://www.philasd.org/src/wp-content/uploads/sites/80/2017/07/815-Acceptable-Use-of-Internet-Technology-and-Network-Resources.pdf)
-  * [Internet and Media Presence (815.1)](https://www.philasd.org/src/wp-content/uploads/sites/80/2017/07/815_1-Internet-and-Media-Presence.pdf)
+  * [Acceptable Use of Internet, Technology and Network Resources (815)](https://www.philasd.org/schoolboard/wp-content/uploads/sites/80/2017/07/815-Acceptable-Use-of-Internet-Technology-and-Network-Resources.pdf)
+  * [Internet and Media Presence (815.1)](https://www.philasd.org/schoolboard/wp-content/uploads/sites/884/2017/07/815_1-Internet-and-Media-Presence.pdf)
   * [Administrative Requirements for the use of Websites, Computer Applications and Online Resources](https://www.philasd.org/technology/policies-procedures-guidelines/)
 
 
