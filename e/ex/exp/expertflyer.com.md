@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the expertflyer.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614214251id_/https%3A//www.expertflyer.com/popup/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertflyer.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212070654id_/https%3A//www.expertflyer.com/popup/privacy.jsp) for the most accurate reproduction.*
 
 # ExpertFlyer.com
 
 **ExpertFlyer.com ® Privacy Policy**
 
-We at Expert Travel Services, LLC. ("we" or "ExpertFlyer.com") have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This privacy policy only applies to transactions and activities in which you engage, and data gathered, on the ExpertFlyer.com Website, but does not apply to any other Website or offline point of contact between ExpertFlyer.com, or any other company, and consumers. Please review this privacy policy periodically as we may modify it from time to time, and is subject to change without notice. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. 
+We at ExpertFlyer.com have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This privacy policy only applies to transactions and activities in which you engage, and data gathered, on the ExpertFlyer.com Website, but does not apply to any other Website or offline point of contact between ExpertFlyer.com, or any other company, and consumers. Please review this privacy policy periodically as we may modify it from time to time, and is subject to change without notice. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. 
 
 **Your IP Address**
 
@@ -56,6 +56,6 @@ The Site has security measures in place to protect against the loss, misuse and 
 
 If at any point we decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 30 days notice on the Site. Please note that we will continue to have the right to change our privacy policy and practices, and how we use your personally identifiable information, without notice, as described in the first paragraph of this Privacy Policy, provided that such changes shall only apply to information gathered on or after the date of the change. 
 
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at . You can also send us mail to: Privacy Officer, ExpertFlyer.com, 414 West Sunrise Hwy, #311, Patchogue, NY 11772.
+If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at .
 
-ExpertFlyer®, ExpertFlyer.com®, Empowering the Frequent Flyer®, Seat Alerts® and the ExpertFlyer.com logo are registered trademarks of Expert Travel Services, LLC.
+ExpertFlyer®, ExpertFlyer.com®, Empowering the Frequent Flyer®, Seat Alerts® and the ExpertFlyer.com logo are registered trademarks of New Imagitas, Inc.
