@@ -1,18 +1,178 @@
-> *The following text is extracted and transformed from the unitypoint.org privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527154340id_/http%3A//www.unitypoint.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitypoint.org privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212030358id_/http%3A//www.unitypoint.org/privacy-policy.aspx) for the most accurate reproduction.*
 
-# UnityPoint Health | Privacy Policy
+# Privacy Policy | UnityPoint Health
 
-## Notice of Privacy Practices (HIPAA)  
+## Notice of Privacy Practices (HIPAA)
+
+The Notice of Privacy Practices describes how medical information about you may be used and disclosed and how you can get access to this information. To locate your notice of privacy practice or to reach your local privacy officer, please select the region nearest to you.
+
+Anamosa, Iowa 
+
+Cedar Rapids, Iowa
+
+Des Moines, Iowa
+
+**Des Moines Privacy Officer**  
+UnityPoint Health Des Moines  
+1200  Pleasant Street  
+Des Moines, Iowa 50309  
+[(515) 241-6039](tel:15152416039)
+
+  * [Notice of Privacy Practices - English](https://www.unitypoint.org/desmoines/filesimages/Privacy/Des%20Moines_Eng.pdf)
+  * [Notice of Privacy Practices - Spanish](https://www.unitypoint.org/desmoines/filesimages/Privacy/Des%20Moines_Span.pdf)
 
 
-The Notice of Privacy Practices describes how medical information about you may be used and disclosed and how you can get access to this information.
+
+Dubuque, Iowa 
+
+Fort Dodge, Iowa 
+
+Grinnell, Iowa 
+
+**Grinnell Privacy Officer**  
+UnityPoint Health - Grinnell Regional Medical Center  
+210 4th Ave  
+Grinnell, Iowa 50112  
+[(641) 236-7511](tel:16412367511)
+
+  * [Notice of Privacy Practices - English](https://web.archive.org/grinnell/filesimages/Grinnell_hc_provider%20%20updated%2011-18.pdf)
+
+
+
+Keokuk, Iowa 
+
+**Keokuk Compliance  Officer**  
+1600 Morgan Street  
+Keokuk, Iowa 52632  
+[(319) 526-8760](tel:13195268760)
+
+  * [Notice of Privacy Practices - English](https://web.archive.org/filesimages/Compliance/KeokukNPP_UPH.pdf)
+
+
+
+Madison, Wisconsin 
+
+**Madison Privacy Officer**  
+UnityPoint Health Meriter  
+202 South Park Street  
+Madison, Wisconsin 53715  
+**[(608) 417-5830](tel:16084175830)**
+
+  * [Notice of Privacy Practices - English](https://www.unitypoint.org/madison/filesimages/Privacy/Meriter_Eng.pdf)
+  * [Notice of Privacy Practices - Spanish](https://www.unitypoint.org/madison/filesimages/Privacy/Meriter_Span.pdf)
+
+
+
+Marshalltown, Iowa 
+
+Peoria, Illinois 
+
+Quad Cities, Illinois 
+
+**Quad Cities Privacy Officer**  
+UnityPoint Health - Trinity  
+2701 17th Street  
+Rock Island, Illinois  
+[(309) 779-2932](tel:13097792932)
+
+  * [Notice of Privacy Practices - English](https://www.unitypoint.org/quadcities/filesimages/Privacy%20Policy/Quad%20Cities_Eng.pdf)
+  * [Notice of Privacy Practices - Spanish  
+](https://www.unitypoint.org/quadcities/filesimages/Privacy%20Policy/Quad%20Cities%20-%20Trinity%20Rock%20Island_Span.pdf)
+
+
+
+* * *
+
+**Quad Cities Privacy Officer**  
+UnityPoint Health Muscatine  
+1518 Mulberry Avenue  
+Muscatine, Iowa 52761  
+**[(309) 779-2932](tel:13097792932)**
+
+  * [Notice of Privacy Practices - English](https://www.unitypoint.org/quadcities/filesimages/Privacy%20Policy/Trinity%20Muscatine_eng.pdf)
+  * [Notice of Privacy Practices - Spanish](https://www.unitypoint.org/quadcities/filesimages/Privacy%20Policy/Trinity%20Muscatine_Span.pdf)
+
+
+
+* * *
+
+**Quad Cities Privacy Officer**  
+UnityPoint Health Rock Island  
+2701 17th Street  
+Rock Island, Illinois 61201  
+[(309) 779-2932](tel:13097792932)
+
+Sioux City, Iowa
+
+**Sioux City Privacy Officer**  
+UnityPoint Health Sioux City  
+2720 Stone Park Boulevard  
+Sioux City, Iowa 51104  
+[(712) 279-3649](tel:17122793649)
+
+  * [Notice of Privacy Practices - English ](https://www.unitypoint.org/siouxcity/filesimages/Privacy/Sioux%20City_Eng.pdf)
+  * [Notice of Privacy Practices - Spanish](https://www.unitypoint.org/siouxcity/filesimages/Privacy/Sioux%20City_Span.pdf)
+
+
+
+Waterloo, Iowa 
+
+**Waterloo Privacy Officer**  
+UnityPoint Health Allen Hospital  
+1825 Logan Avenue  
+Waterloo, Iowa 50703  
+[(319) 235-3913](tel:13192353913)
+
+  * [Notice of Privacy Practices - English](https://www.unitypoint.org/waterloo/filesimages/Privacy/Allen%20Mem-Waterloo_Eng.pdf)
+  * [Notice of Privacy Practices - Spanish ](https://www.unitypoint.org/waterloo/filesimages/Privacy/Allen%20Mem-Waterloo_Span.pdf)
+
+
+
+UnityPoint Health Corporate 
+
+**Corporate Privacy Officer**  
+UnityPoint Health  
+1776 Westlakes Parkway  
+Suite 400  
+West Des Moines, Iowa 50266  
+**[(515) 241-4652](tel:15152414652)**
 
   * [Notice of Privacy Practices - English](https://web.archive.org/filesimages/Privacy/UnityPoint%20Health_Eng.pdf)
   * [Notice of Privacy Practices - Spanish](https://web.archive.org/filesimages/Privacy/UnityPoint%20Health_Span.pdf)
 
 
 
-## Online Privacy Policy
+UnityPoint Clinic
+
+**UnityPoint Clinic  ** **Privacy Officer  
+**UnityPoint Clinic  
+8101 Birchwood Court, Suite N  
+Johnston, Iowa 50131  
+**[(515) 471-9367](tel:15154719367)**
+
+  * [Notice of Privacy Practices - English](https://www.unitypoint.org/clinics/filesimages/Privacy/UP%20Clinics_Eng.pdf)
+  * [Notice of Privacy Practices - Spanish](https://www.unitypoint.org/clinics/filesimages/Privacy/UP%20Clinic_Span.pdf)
+
+
+
+UnityPoint at Home
+
+**UnityPoint at Home Privacy Officer**  
+UnityPoint at Home  
+11333 Aurora Avenue  
+Urbandale, Iowa 50322  
+[(515) 557-3236](tel:15155573236)
+
+  * [Notice of Privacy Practices - English](https://www.unitypoint.org/homecare/filesimages/Privacy/UP%20At%20Home_Eng.pdf)
+  * [Notice of Privacy Practices - Spanish](https://www.unitypoint.org/homecare/filesimages/Privacy/UP%20At%20Home_Span.pdf)
+
+
+
+## 
+
+* * *
+
+Online Privacy Policy
 
 ### Collecting and Using Personal Information
 
@@ -57,13 +217,3 @@ From time to time our website may provide links to other websites, not owned or 
 ## Changes to This Statement 
 
 UnityPoint Health may change this statement from time to time without notice. We plan to post notice on our home page for no less than a week if any significant changes occur. This privacy statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.
-
-## Contact Us
-
-Privacy Officer  
-UnityPoint Health  
-1776 West Lakes Parkway  
-Suite 400  
-West Des Moines, Iowa 50266
-
-(515) 241-4652
