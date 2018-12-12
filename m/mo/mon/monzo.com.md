@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the monzo.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629091703id_/https%3A//monzo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monzo.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212091048id_/https%3A//monzo.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Monzo – Privacy Policy
-
-Version 1.2 — May 22, 2018
 
 ### Who are we?
 
 We are Monzo Bank Limited (“we”, “our”, “us”) and operate under the name of Monzo.
 
-We’re committed to protecting and respecting your privacy. If you have any questions about your personal information please chat with us through the Monzo app, or by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4d2528213d0d2022233722632e2220), or by writing to us at 1st Floor, 230 City Road, London, EC1V 2QY.
+We’re committed to protecting and respecting your privacy. If you have any questions about your personal information please chat with us through the Monzo app, or by emailing us at [help@monzo.com](mailto:help@monzo.com), or by writing to us at Monzo, 38 Finsbury Square, London, EC2A 1PX.
 
 We’re registered with the Information Commissioner’s Office under number ZA108184.
 
@@ -47,7 +45,7 @@ Read our [Cookie Policy](https://web.archive.org/cookies) for more info on what 
 
 To provide our services. We use it to:
 
-  * Help us manage your account.
+  * Help us maintain the account.
   * Track, analyse and improve the services we give you and other customers.
 
 
@@ -56,7 +54,7 @@ To meet our legal obligations. We use it to:
 
   * Search your record at immigration and fraud prevention agencies.
   * Prevent illegal activities like money laundering, tax evasion and fraud.
-  * Make responsible lending decisions, like offering you an overdraft. We make our decisions automatically using technology. We’ll tell you in the app once we’ve made this decision. You can opt out or ask for a manual review by email and via the app.
+  * Make responsible lending decisions, like offering you an arranged overdraft. We make our decisions automatically using technology. We’ll tell you in the app once we’ve made this decision. You can opt out or ask for a manual review by email and via the app.
 
 
 
@@ -69,7 +67,7 @@ To exercise what’s known as our legitimate interests. This is when we use data
 
 With your permission. We use it to:
 
-  * Check your credit history if you apply for a credit product like an overdraft (this is a 'hard search', it might impact your credit score and chances of getting credit elsewhere).
+  * Check your credit history if you apply for a credit product like an arranged overdraft (this is a 'hard search').
   * Market and communicate our products and services and those of affiliated partners where we think these will be of interest to you by email. You can always unsubscribe from receiving these if you want to, by email and via the app.
 
 
@@ -107,7 +105,7 @@ You have a right to:
 
 
 
-To do so, please contact us through the app or by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dab2bfb6aa9ab7b5b4a0b5f4b9b5b7).
+To do so, please contact us through the app or by emailing [help@monzo.com](mailto:help@monzo.com).
 
 ### Where we store your data 🔒
 
@@ -120,7 +118,7 @@ We might transfer and store the data we collect from you somewhere outside the E
 
 ### How to make a complaint 😔
 
-If you have a complaint, please contact us through the app or by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f8909d9488b89597968297d69b9795) and we’ll do our best to fix the problem. If you’re still not happy, you can refer your complaint to the Financial Ombudsman Service. For more details you can visit their website at [www.financial-ombudsman.org.uk](http://www.financial-ombudsman.org.uk/).
+If you have a complaint, please contact us through the app or by emailing [help@monzo.com](mailto:help@monzo.com) and we’ll do our best to fix the problem. If you’re still not happy, you can refer your complaint to the Financial Ombudsman Service. For more details you can visit their website at [www.financial-ombudsman.org.uk](http://www.financial-ombudsman.org.uk/).
 
 ### Changes to this policy 📝
 
