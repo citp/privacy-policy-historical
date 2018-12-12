@@ -1,51 +1,53 @@
-> *The following text is extracted and transformed from the thisisrnb.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612113710id_/http%3A//www.thisisrnb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisrnb.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212053814id_/https%3A//thisisrnb.com/privacy) for the most accurate reproduction.*
 
-# This is RnB
+# PRIVACY | ThisisRnB.com - New R&B Music, Artists, Playlists, Lyrics
 
 **PRIVACY POLICY**
 
-_What information do we collect?_
+Thank you for choosing to be part of our community at ThisisRnB.com (“company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at info@thisisrnb.com.
 
-We collect information from you when you subscribe to our newsletter or enter a contest.
+This privacy policy applies to all information collected through our website, and/or any related services, sales, marketing or events.
 
-_What do we use your information for?_
+**WHAT INFORMATION DO WE COLLECT?**
 
-Any of the information we collect from you may be used in one of the following ways:
+When you visit this website, we may collect certain information from and about you. This includes things like your Internet Protocol (IP) address, browser type, and the last domain you visited before coming to our website or the domain you go to when you leave. It also includes various statistical data such as which pages you visit on the website, how long you stay on them, and what you click.
 
-To administer a contest, promotion, survey or other site feature, or to send periodic emails.
+We may place a “cookie” on your computer. A cookie is a small amount of data, which often includes a unique identifier, sent to your browser from a website’s computers and stored on your computer’s hard drive. We may use cookies to keep track of your choice of language and home page preference; to understand your exposure to certain Internet advertisements as you use the website, and to gather usage data that will help us generally improve the quality of the website. There is a simple procedure in most browsers that allows you to deny or accept cookies. You should note that cookies may be necessary to provide you with certain features on the website. We also may use a small piece of code (sometimes referred to as “1×1 clear pixel,” “Web beacon” or “clear GIF”) placed in the pages of the website to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site.
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+Furthermore, we collect information from and about you when you specifically provide it to us. For example, in connection with your use of certain features, offers, or contests through the website you may be asked to provide certain information including your name, email addresses, address, and telephone number.
 
-_Do we use cookies?_
+**WILL YOUR INFORMATION BE SHARED WITH ANYONE?**
 
-We do not use cookies.
+We only share information with your consent, to comply with laws, to protect your rights, or to fulfill business obligations.
 
-_Do we disclose any information to outside parties?_
+We only share and disclose your information in the following situations:
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+• Compliance with Laws. We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
 
-_Childrens Online Privacy Protection Act Compliance_
+• Vital Interests and Legal Rights. We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+• Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Sites, which will enable them to collect data about how you interact with the Sites over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.
 
-_Online Privacy Policy Only_
+**DO WE COLLECT INFORMATION FROM MINORS?**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+We do not knowingly collect data from or market to children under 13 years of age.
 
-_Terms and Conditions_
+We do not knowingly solicit data from or market to children under 13 years of age. By using the website, you represent that you are at least 13 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the website. If we learn that personal information from users less than 13 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 13, please contact us at info@thisisrnb.com.
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://thisisrnb.com/terms>
+**WHAT ARE YOUR PRIVACY RIGHTS?**
 
-_Your Consent_
+In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.
 
-By using our site, you consent to our websites privacy policy.
+In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the contact details provided below. We will consider and act upon any request in accordance with applicable data protection laws.
 
-_Changes to our Privacy Policy_
+If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.
 
-If we decide to change our privacy policy, we will post those changes on this page.
+Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our website. 
 
-_Contacting Us_
+**CONTACT US**
 
 If there are any questions regarding this privacy policy you may contact us using the information below:
 
 info@thisisrnb.com
+
+This website uses cookies to track visits and improve your experience. By clicking on or navigating the site, you agree to allow us to collect bites of information through cookies. Accept [Read More](https://thisisrnb.com/privacy/)
