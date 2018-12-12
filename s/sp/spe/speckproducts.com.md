@@ -1,99 +1,163 @@
-> *The following text is extracted and transformed from the speckproducts.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118194630id_/http%3A//www.speckproducts.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speckproducts.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212042057id_/http%3A//www.speckproducts.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Speck Products Privacy Policy
 
 ## Privacy Policy
 
-Speck Products (“Speck,” “we,” “our” or “us”) values our customers’ right to privacy. Speck’s Privacy Policy (“Privacy Policy” or “Policy”) is designed to help you understand how we collect, secure and use the information we gather at SpeckProducts.com (the “Website”). We will periodically update our Website without prior notice in an ongoing effort to enhance features and services for our customers. We recommend that you come back and review our Privacy Policy regularly.
+LAST UPDATED: NOVEMBER 2017
 
-### SECTION 1 – WHAT INFORMATION IS COLLECTED ONLINE AND HOW INFORMATION IS USED
+We want you to be familiar with how we collect, use and disclose Personal Information (as defined below). This Privacy Policy describes our practices in connection with Personal Information that we collect through websites operated by us or our U.S. affiliates, from which you are accessing this Privacy Policy (the **“Websites”** ), through the software applications made available by us for use on or through computers and mobile devices (the **“Apps”** ), through our social media pages and apps, through HTML-formatted email messages that we send to you that link to this Privacy Policy, as well as through your offline interactions with us where notice is legally required (collectively, including the Websites, Apps, Social Media Pages and offline interactions, the **“Services”** ). By using the Services, you agree to this Privacy Policy.
 
-When you purchase something from our Website as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
+### PERSONAL INFORMATION
 
-When you browse our Website, we also automatically receive your computer’s Internet protocol (IP) address in order to provide us with information that helps us learn about your browser, operating system and location.
+**“Personal Information”** is information that identifies you as an individual or relates to an identifiable individual, including:
 
-By providing us with your email, you may receive periodic emails from us with new product announcements, events or promotions. If you would like to stop receiving these emails or update your information, please email us at [customerservice@speckproducts.com](mailto:customerservice@speckproducts.com) and in the subject line please write “Unsubscribe from Speck” or “Information Update”. We do not sell our customers’ email information to any third parties (except if we are required legally to do so).
+  * Name
+  * Postal address (including billing and shipping addresses)
+  * Telephone number
+  * Email address
+  * Credit and debit card number
+  * Profile picture
+  * Social media account ID
+  * Travel information, including trip flight information
 
-We use our own cookies, pixel tags and other tracking technologies to help determine which of our ads are shown to you on other websites. To opt out of this targeted online advertising by Speck, please visit <http://www.networkadvertising.org/choices/> for more information.
 
-We also work with third-party companies that use their own tracking technologies (including, among other things, cookies and pixel tags) on our Website in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications. These companies use this information to determine which ads you see on third-party websites and applications. To understand your options, including how to opt out of receiving these tailored advertisements, please visit <http://www.aboutads.info/choices>.
 
-Please note that even if you opt-out, these tracking technologies may still collect data and you will still see ads, but they will not be targeted based upon the information collected through these tracking technologies.
+#### Collection of Personal Information
 
-### SECTION 2 – HOW INFORMATION IS PROTECTED
+We and our service providers may collect Personal Information in a variety of ways, including:
 
-To protect your personal information, we take reasonable precautions and follow industry practices to prevent your information from being inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+  * **Through the Services:** We may collect Personal Information through the Services, e.g., when you sign up for a newsletter or make a purchase.
+  * **Offline:** We may collect Personal Information from you offline, such as when you attend one of our trade shows, place an order over the phone or contact customer service.
+  * **From Other Sources:** We may receive your Personal Information from other sources, such as our U.S. affiliates, public databases, joint marketing partners, social media platforms (including from people with whom you are friends or otherwise connected) and from other third parties. In addition, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles.
 
-If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all Payment Card Industry Data Security Standard (PCI-DSS) requirements and implement additional generally accepted industry standards.
 
-If you choose a direct payment gateway to complete your purchase, then CyberSource stores your credit card data. It is encrypted through PCI-DSS. Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
-All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
+We may use a third-party payment service to process payments made through the Services. If you wish to make a payment through the Services, your Personal Information may be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Information.
 
-PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
+If you submit any Personal Information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
 
-### SECTION 3 – USE OF COOKIES AND OTHER TECHNOLOGIES
+#### How We May Use Personal Information
 
-Our Website uses cookies, pixel tags and other tracking technologies to help enable you to shop on our Website. These tracking technologies may be used in a variety of ways to enhance or personalize your online browsing and shopping experience. These technologies may also be used to determine the ads you see on our Website and on other sites. For information about targeted online advertising and your choices related to it, please see Section 1.
+We and our service providers may use Personal Information:
 
-For example, we may use cookies to enable you to use certain Website features, remember the items in your shopping cart, store your preferences, recognize you when you return to our Website, track your orders, and monitor and maintain information about your use of our Website. Cookies, or some other technology, may also be used to collect transaction information needed by a loyalty program to which you have authorized us to provide your personal information. We may also use our own cookies or some other technology to help determine which of our ads are shown to you on other websites.
+  * To respond to your inquiries and fulfill your requests, such as to complete your transactions and provide you with related customer service.
+  * To send administrative information to you, such as changes to our terms, conditions and policies, as well as marketing communications that we believe may be of interest.
+  * To personalize your experience on the Services by presenting products and offers tailored to you and to facilitate social sharing functionality.
+  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules containing additional information about how we use and disclose your Personal Information.
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
 
-You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on our Website.
 
-Cookies, pixel tags and other tracking technologies help us better understand your shopping needs and preferences. These technologies tell us which parts of our Website you have visited, allow us to analyze our customers’ online behavior, measure the effectiveness of our advertisements, and provide you consistent and personalized services and experiences when visiting our Website. We work with third party service providers that help us track, collect and analyze this information.
 
-These technologies may also be used to collect “click-stream data”, which includes information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the Website and our online ads.
+#### Disclosure of Personal Information
 
-Pixel tags or other technologies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
+Your Personal Information may be disclosed:
 
-We may combine the information we collect through these technologies with other information we have collected from and about you and use it as described in this Policy.
+  * To our affiliates for the purposes described in this Privacy Policy.
+  * To our third-party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing and other services.
+  * To third parties, to permit them to send you marketing communications, consistent with your choices.
+  * To third-party sponsors of sweepstakes, contests and similar promotions.
+  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and content (including, without limitation, our Social Media Pages). Please note that any information you post or disclose through these services will become public and may be available to other users and the general public.
+  * To your friends associated with your social media account, to other website users and to your social media account provider, in connection with your social sharing activity. By connecting your Services account and your social media account, you authorize us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media provider’s privacy policy.
 
-### SECTION 4 – HOW TO OPT OUT
 
-**A. How do you get my consent?**
 
-When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we infer that you consent to our collecting this information and using it for that specific reason only.
+#### Other Uses and Disclosures
 
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
+We also may use and disclose your Personal Information as we believe to be necessary or appropriate: (a) to comply with applicable law, which may include laws outside your country of residence, to respond to requests from public and government authorities, which may include such authorities outside your country of residence, to cooperate with law enforcement, or for other legal reasons; (b) to enforce our terms and conditions; and (c) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others.
 
-**B. How do I withdraw my consent?**
+We may furthermore use, disclose or transfer your information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [customerservice@speckproducts.com](mailto:customerservice@speckproducts.com) or mailing us at: Speck Products, 177 Bovet Rd. Suite 200, San Mateo, CA, 94402, United States
+We may also use and disclose Personal Information collected through the Services in other ways, with your consent.
 
-### SECTION 5 – DISCLOSURE OF INFORMATION TO THIRD PARTIES
+### OTHER INFORMATION
 
-We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
+**“Other Information”** is any information that does not reveal your specific identity or does not directly relate to an identifiable individual, such as:
 
-As mentioned in Section 1, we work with third-party companies that use their own tracking technologies (including, among other things, cookies and pixel tags) on our Website in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications. These companies use this information to determine which ads you see on third-party websites and applications.
+  * Browser and device information
+  * App usage data
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you that does not reveal your specific identify.
+  * Information that has been aggregated in a manner that it no longer reveals your specific identity.
 
-In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
-However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
 
-In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Information, as detailed in this Policy.
 
-As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
+#### Collection of Other Information
 
-Once you leave our store’s Website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our Website’s Terms of Service.
+We and our service providers may collect Other Information in a variety of ways, including:
 
-### SECTION 6 – THIRD PARTY LINKS
+  * **Through your browser or device:** Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services (such as the App) you are using. We use this information to ensure that the Services function properly.
+  * **Through your use of the App:** When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
+  * **Using cookies:** Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, and to personalize your experience. We also gather statistical information about use of the Services in order to continually improve their design and functionality, understand how they are used and assist us with resolving questions regarding them. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Services. We may also use cookies or other technologies in online advertising to track responses to our ads. We do not respond to browser do-not-track signals at this time. 
 
-When you click on links on our store, they may direct you away from our Website. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+If you do not want information collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html>. If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services. You also may not receive advertising or other offers from us that are relevant to your interests and needs.
 
-### SECTION 7 – CHILDREN
+  * **Using pixel tags and other similar technologies:** Pixel tags (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates.
+  * **Analytics:** We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
+  * **Using Adobe Flash technology (including Flash Local Shared Objects (“Flash LSOs”) and other similar technologies:** We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel. You can also go to the Global Storage Settings Panel and follow the instructions (which may explain, for example, how to delete existing Flash LSOs (referred to as “information” on the Adobe site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including those used in connection with the Services.
+  * **IP Address:** Your IP address is a number that is automatically assigned to your computer by your Internet Service Provider (ISP). An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Services. We may also derive your approximate location from your IP address.
+  * **Physical Location:** We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you do, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content.
 
-By using this Website, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this Website. This site is not targeted towards or intended for the use of children.
 
-### SECTION 8 – CHANGES TO THE PRIVACY POLICY
 
-We reserve the right to modify this Privacy Policy any time, so please review it frequently, and especially before you provide us with any information. Changes and clarifications will take effect immediately upon their posting on the Website. Your continued use of the Website after any changes or revisions to the Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+#### Uses and Disclosures of Other Information
 
-If Speck is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined.
 
-### SECTION 9 – CALIFORNIA PRIVACY RIGHTS
+### THIRD PARTY SERVICES
 
-California Civil Code Section 1798.83 permits Speck customers, who are California residents, to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [customerservice@speckproducts.com](mailto:customerservice@speckproducts.com) or write to: Customer Service, 177 Bovet Road, Suite 200, San Mateo, CA 94402. We will respond to requests made and provide the information within 30 days of receipt of request. This request may be made no more than once per calendar year.
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any website or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
 
-### SECTION 10 – CONTACT INFORMATION
+In addition, we are not responsible for the information collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
 
-If you would like to access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact [customerservice@speckproducts.com](mailto:customerservice@speckproducts.com) or call: 888.872.4445.
+### THIRD-PARTY ADVERTISING
+
+We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites or online services, based on information relating to your access to and use of the Services and other websites or online services on any of your devices, as well as on information received from third parties. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). They may also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/>.
+
+### SECURITY
+
+We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contacting Us” section below.
+
+### CHOICES AND ACCESS
+
+#### Your choices regarding our use and disclosure of your Personal Information
+
+We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
+
+  * **Receiving electronic communications from us:** If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out by following the unsubscribe link in any marketing communication and by contacting us at [customerservice@speckproducts.com](mailto:customerservice@speckproducts.com).
+  * **Our sharing of your Personal Information with affiliates for their direct marketing purposes:** If you would prefer that we not share your Personal Information on a going-forward basis with our affiliates for their direct marketing purposes, you may opt-out of this sharing by: contacting us at [customerservice@speckproducts.com](mailto:customerservice@speckproducts.com).
+  * **Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purposes:** If you would prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by contacting us at [customerservice@speckproducts.com](mailto:customerservice@speckproducts.com).
+
+
+
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
+
+#### How you can access, change or suppress your Personal Information
+
+If you would like to review, correct, update, suppress/restrict or delete Personal Information that you have previously provided to us, or if you would like to transfer your Personal Information to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us by writing [customerservice@speckproducts.com](mailto:customerservice@speckproducts.com) or Customer Service, Speck Products, 177 Bovet Road, Suite 200 | San Mateo, CA 94402.
+
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion). There may also be residual information that will remain within our databases and other records, which will not be removed.
+
+### USE OF SERVICES BY MINORS
+
+The Services are not directed to individuals under the age of thirteen (13), and we do not knowingly collect Personal Information from individuals under 13.
+
+### JURISDICTION AND CROSS-BORDER TRANSFER
+
+The Services are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your personal information.
+
+### SENSITIVE INFORMATION
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services or otherwise to us.
+
+### UPDATES TO THIS PRIVACY POLICY
+
+We may change this Privacy Policy. The “LAST UPDATED” legend at the top of this Privacy Policy indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
+
+### CONTACTING US
+
+Speck Products located at 177 Bovet Road, Suite 200, San Mateo, CA 94402 is the company responsible for collection, use and disclosure of your Personal Information. If you have any questions about this Privacy Policy, please contact us at [customerservice@speckproducts.com](mailto:customerservice@speckproducts.com), or Customer Service, Speculative Product Design, 177 Bovet Road, Suite 200, San Mateo, CA 94402 or call 888.872.4445. Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.
