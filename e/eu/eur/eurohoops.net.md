@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurohoops.net privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316051256id_/http%3A//www.eurohoops.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurohoops.net privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212112910id_/https%3A//www.eurohoops.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Eurohoops
 
@@ -139,7 +139,7 @@ and we will promptly remove you from  **ALL**  correspondence.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[www.eurohoops.net](http://www.eurohoops.net/)
+[www.eurohoops.net](https://www.eurohoops.net/)
 
 10, Agamemnonos Str.
 
