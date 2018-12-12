@@ -1,75 +1,114 @@
-> *The following text is extracted and transformed from the cricketarchive.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621111925id_/http%3A//cricketarchive.com/Miscellaneous/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketarchive.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212015828id_/http%3A//my.cricketarchive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - CricketArchive
 
-## Privacy Policy
+CricketArchive Limited knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy describes our privacy policy with respect to the information collected on this Site. By visiting cricketarchive.com, you are accepting the practices described in this Privacy Policy.
 
-***Please read all of this Privacy Policy as well as the Terms and Conditions very carefully prior to commencing use of this web site and on each and every occasion that you use this web site in the future to check for updates. 
+**Names of data controller**   
+CricketArchive Limited (Cricket Archive)
 
-CricketArchive Ltd process personal information only in strict compliance with the Data Protection Act 1998 (as amended), the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other associated data protection legislation. Any personal information provided or gathered via this web site is controlled primarily by CricketArchive Ltd of 49 Heworth Village, York, YO31 1AE. 
+**Contact details:**
 
-Your visiting this web site constitutes acceptance of and consent to the practices set out in this Privacy Policy. If you do not agree with any of the terms as set out in this Privacy Policy then you should cease using this web site immediately. 
-
-CricketArchive Ltd reserves the rights to change this Privacy Policy at any time by posting an updated version on the web site. The date that the web site was last updated is shown at the bottom of this web page. Your continued use of this site after an updated version is posted constitutes your acceptance of and consent to the practices set out in this Privacy Policy as modified. 
-
-## WHAT INFORMATION DO CRICKETARCHIVE LTD COLLECT?
-
-Your personal information is not collected from you automatically, simply as a result of your accessing this web site. It is only collected on a voluntary basis, resulting from your own input of this information. The only information that is collected automatically when you access this web site is the IP address of the computer that you are using. For more information on IP addresses, please see below. 
-
-We will also collect information on our server logs from your browser including your IP address, web-browser details, operating system details, and your activities whilst on the Website together with information about other websites that you have visited either before or after you have entered onto the Website. 
-
-If you register your personal details with this web site, it is only known to CricketArchive Ltd and trusted third party suppliers of related services. If you choose to register, CricketArchive Ltd will request information such as your name, email address, address, telephone number or other contact details as required. This information will then be held by CricketArchive Ltd as it is necessary for CricketArchive Ltd to carry out the services for which you registered. CricketArchive Ltd also use this information to improve the function of the web site and to prevent any abuse to the web site. This information will not be kept indefinitely, only for the statutory period allowed under the Data Protection Act 1998 (as amended). 
-
-CricketArchive Ltdwill also keep any correspondence you send CricketArchive Ltd whether by email or standard mail. This correspondence will not be kept indefinitely, only for the statutory period allowed under the Data Protection Act 1998 (as amended). 
-
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp 
-
-## HOW DO CRICKETARCHIVE LTD USE THE INFORMATION COLLECTED?
-
-All the information that CricketArchive Ltd collect via the web site or correspondence is used to help CricketArchive Ltd understand more about who uses the web site and to help improve the web site and the services that it offers. It will also help CricketArchive Ltd to send communications to you that may be of interest. 
-
-We do share information about users with third parties order to promote, sell or enhance the products and services we provide but we only disclose such information in an aggregated or anonymised form so that the information is incapable of identifying you as an individual. We take the privacy of our users very seriously, we do not rent, sell or share your personal data with other people. However, your personal data may be passed to a third party in any one of these circumstances:- 
-
-  * If CricketArchive Ltd have a duty to do so or if the law allows or requires CricketArchive Ltdto do so
-  * If CricketArchive Ltd or its assets are sold to or purchased by another company or person;
-  * To affiliated businesses or subsidiary or parent companies of CricketArchive Ltd.
-
-
-
-If CricketArchive Ltd wishes to or is required to pass on your information to a third party it will not do so other than with your express permission. 
-
-CricketArchive Ltd may use the personal information that you have provided to contact you by any of the methods which you input. Communications from CricketArchive Ltd will be limited to administrative messages unless you have .opted in. to receive additional information about new services, features or products which are being offered by CricketArchive Ltd. If you do not want to be contacted in this way then please click where indicated when you are completing any of the online forms where you initially input your personal details, by changing your personal details on the [.personal details.] page when you are logged on to the web site, or by contacting CricketArchive Ltd via the contact page at any time after submitting your personal details. 
-
-As the Internet is a global network, there may be instances when your personal data travels across international borders. This may include transfers outside the EU and the EEA. If you do voluntarily input any personal information via this web site or send correspondence, then in doing so you are authorising CricketArchive Ltd to transfer your personal data in this way. 
-
-## DOES CRICKETARCHIVE LTD USE COOKIES OR WEB BEACONS?
-
-Like many web sites, this web site does use cookies. This enables CricketArchive Ltd to provide you with a more personalised service. 
-
-Cookies are small text files that are transferred from a web site by your web browser and stored on your computer. The cookie is then used by that web site to remember who you are from your last visit to that web site. The information that the cookie holds will typically consist of the domain name of where the cookie came from, how long the cookie will remain on your computer before it expires and a unique value assigned to the cookie which is made up of a randomly generated number. A Cookie may also contain your .log in. information that will allow you to log in automatically when visiting the web site. Cookies are not computer programs, they cannot read any information from your hard drive and they do not disseminate viruses. 
-
-You can set your web browser to reject cookies, though please be aware that the CricketArchive Ltd web site may not function correctly if you do this. 
-
-For more information about cookies, including how to disable them, please go to www.allaboutcookies.org. 
-
-Some of the web pages of the web site may contain .clear gifs. or .web beacons.. These are used to count the number of users who access those pages and only collect information relating to the time, date and the page that was visited. They do not carry any personal information and are only used to track how effectively certain aspects of the web site are performing. 
-
-## IP ADDRESSES
-
-The IP address of the computer you use to access this web site is automatically provided by your browser each time you view the web site. If you provide any personal information via this web site then the IP address of the computer you are using at the time you provide this information will be stored by CricketArchive Ltd. IP addresses may be used by CricketArchive Ltd for various reasons, including but not limited to differentiating between users from different geographical locations or to help with technical problems that may relate to certain groups of IP addresses. 
-
-## HOW SECURE IS MY PERSONAL INFORMATION?
-
-The security of your personal information is very important to CricketArchive Ltd and it takes all steps it deems reasonably necessary to ensure such security. However, the transmission of data over Internet cannot be guaranteed to be completely secure and failsafe. As such, CricketArchive Ltd is not able to warrant or guarantee the complete security of any personal information that you provide and it is important that you are aware that providing any such information is done so entirely at your own risk. 
-
-## FURTHER INFORMATION
-
-If you would like to update your personal information held by CricketArchive Ltdor you have any dispute regarding the use and storage of your personal information by CricketArchive Ltd or you have any comments or questions on this Privacy Policy please contact CricketArchive Ltd via the contact page. 
-
-If you would like details of the personal information CricketArchive Ltd store about you please write to:  
 CricketArchive Ltd  
-49 Heworth Village,   
-York,   
-YO31 1AE 
+49 Heworth Village  
+York  
+YO31 1AE  
+Email: email@cricketarchive.com  
+Phone: 0203 1981 359
 
-This Privacy Policy was last updated on 2nd February 2016. 
+**Categories of personal data**   
+Full name  
+Email address  
+Billing address (optional)  
+Payment information
+
+**What Information Do We Collect and How Do We Collect It?**  
+The information we gather on this Site falls into two categories: (1) personal information you supply, and (2) tracking information collected as you navigate through our Site.
+
+**Personally Identifiable Information  
+** We will collect personally identifiable information whenever you register your account at the Site, or update your registration information. To apply for a log-in account to access the Site, we ask you to provide personally identifiable information, including but not limited to, your name, address, phone number, and email address.
+
+Please note you also may be asked to provide credit card information to the extent you are paying the online subscription fee. Credit card information is processed by CricketArchive Limited's third party vendors. CricketArchive Limited itself does not collect or store any User's credit card information, and CricketArchive Limited is not responsible for maintaining the security or privacy of any information that you provide, including credit card information, in connection with purchasing products or services via the Site.
+
+**Purposes of processing**   
+Cricket Archive will process your personal data for the purposes of:
+
+  * Servicing your subscription
+  * Identification purposes
+  * Quality and improvement monitoring
+  * Direct marketing if you have consented to this
+  * Profiling for marketing and insight purposes
+
+
+
+**How will you use my email address?**   
+We will use your email to update you about your subscription to Cricket Archive. We will not send you any marketing material unless you have consented us to do so. You can withdraw your consent at any time by contacting us at [email@cricketarchive.com](mailto:email@cricketarchive.com). 
+
+**Aggregate Information**  
+When you use this Site, we may collect tracking information such as your browser type, the type of operating system you use, the domain name of your Internet service provider, and the pages you visited on the Site. None of this information identifies you personally; we collect it for aggregate reporting on site activity. For example, we may want to know how long the average user spends on this Site, or which pages or features get the most attention. We use this information to make the Site more useful.
+
+**Web Beacons**  
+We may use "Web Beacon" (also known as "clear GIF", "pixel tag", "data tag" or "image tag") technology to collect anonymous, non-personal information about how this Site is used. We will use this information to make improvements to this Site and to help us plan for technical improvements. This information will not identify you or any other user of this Site as an individual.
+
+ **E-Mail**  
+We use clear gifs in our HTML-based emails that tell us whether or not you can accept HTML images and, if you can accept HTML, whether or not you viewed the e-mail. We use this information to help us make our e-mails more useful and interesting. This process does not leave any information on your computer, nor does it collect information from your computer. We do not share or sell this information to others, and we only use it to improve our e-mail communications with you.
+
+ **Cookies**  
+A cookie is a block of text placed in a file on your hard drive by a website you've visited. We use cookies to understand how visitors to this Site click to it and what pages they view during their visit. We do not store any personal information in any cookie at any time.
+
+We may also use third party service providers for research purposes, including helping us to measure and analyse how visitors click to and use the Site. To do this, we may use cookies or web beacons provided by these third parties to track the types of non-personal information described above. Such aggregated information is used within CricketArchive Limited's internal organisation and is only shared with third parties on an aggregated and non-personally identifiable basis.
+
+The "help" function on most browsers contains information on how to set your browser to notify you before accepting cookies or to disable cookies entirely. However, if you don't accept cookies, you may not be able to take advantage of various features on this Site that are available to other visitors.
+
+**Legal basis for processing your personal data:**
+
+The legal basis for the collection and processing of your personal data is:
+
+  * Administration and identification: that it is necessary to fulfil the contract that you are going to enter into or have entered into with us
+  * Direct marketing – which may include profiling for the purposes of direct marketing that you have given your consent
+  * In all other cases: that it is necessary for our legitimate interests and does not prejudice or harm your rights and freedoms
+
+
+
+**Does CricketArchive Limited Share the Information It Receives?**  
+Although information about those who visit our web site is important to us, we are not in the business of selling that information to others.
+
+We may provide aggregate information that does not identify particular individuals, such as the number or percentage of visitors who fall within certain category or categories, to a third party.  
+We may also share your information with third parties in the following circumstances:
+
+• Service Providers: We employ third party service providers to perform functions on our behalf, including, for example, the processing of online subscriptions. They have access to personal information needed to perform their functions, but may not use it for other purposes. Examples include fulfilling orders, delivering packages, sending mail, analysing data, providing marketing assistance, and processing credit card payments.
+
+• Legal Obligations: From time to time, we may be required to share personal information in response to a valid court order, subpoena, government investigation, or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful.
+
+• Protection of CricketArchive Limited and Others: We will release the names of account holders and other personal information when we believe release is appropriate to comply with the law; enforce or apply the Terms of Use for this Site and other agreements; or protect the rights, property, or safety of cricketarchive.com, our users, or others. However, this does not include selling, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy.
+
+**Your right to withdraw consent  
+**You have the right to withdraw that consent at any time. If you do, it will not affect the lawfulness of any processing for which we had consent prior to your withdrawing it.
+
+**How Secure is the Information that CricketArchive Limited Collects?**  
+We strive to keep information such as your name and email address safe, and employ stringent security measures to make sure that your information is not unintentionally shared with others. Despite our efforts, no method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+**Third party links  
+** The site may also contain links to third party sites that are not under our control. These sites have their own policies regarding privacy, and you should review these policies before providing information to these sites. CricketArchive Limited has no responsibility for linked websites and provides these links solely for the convenience and information of our visitors. CricketArchive Limited also maintains a strict "no-spam" policy.
+
+**Location of your personal data**   
+We will normally keep your personal data within the European Economic Area. Data is normally stored in the EU but may, on occasion, be accessed for problem determination purposes by our service provider outside the EU but the access is subject to safeguards approved by law.
+
+**How long we will keep your personal data for  
+**Your personal data will be retained by Cricket Archive for 2 years following your last interaction with us.
+
+**Your rights in respect of your personal data  
+**You have the right of access to your personal data and, in some cases, to require us to restrict, erase or rectify it or to object to our processing it, and the right of data portability.
+
+**Complaints  
+**If you have any concerns or complaints about how we are handling your data please do not hesitate to get in touch by emailing us at magazine@thecricketer.com or by calling 0203 1981 359
+
+**Terms of Use, Notices, and Revisions**  
+If you choose to visit cricketarchive.com, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, application of the law of the United Kingdom and resolution of any disputes in the United Kingdom. If you have any concern about privacy at cricketarchive.com, please contact us with a thorough description, and we will try to resolve it.
+
+Our website is updated frequently, and the Privacy Policy and Terms of Use for this Site may change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check this Site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have collected from you through this Site. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of information collected in the past without notifying affected members, either by communicating directly with them or by posting the changes on this Site.
+
+**Privacy Support**   
+If you have an inquiry or concern about our privacy policy, please contact: [email@cricketarchive.com](mailto:email@cricketarchive.com)  
+
+Updated 24/5/18
