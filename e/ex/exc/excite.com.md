@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excite.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625090640id_/http%3A//www1.excite.com/home/companyinfo_excite/excite_privacy/0%2C20398%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excite.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212024142id_/http%3A//www1.excite.com/home/companyinfo_excite/excite_privacy/0%2C20398%2C%2C00.html) for the most accurate reproduction.*
 
 # Excite - About Excite
 
