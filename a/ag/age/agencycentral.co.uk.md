@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agencycentral.co.uk privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731204411id_/https%3A//www.agencycentral.co.uk/contact-us/articles/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agencycentral.co.uk privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212042145id_/https%3A//www.agencycentral.co.uk/contact-us/articles/privacy-policy.htm) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 1\. Our Commitment to Privacy. This notice describes our Privacy Policy. Our Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information you provide. By visiting this site, you are accepting the practices described in this Privacy Policy.
 
