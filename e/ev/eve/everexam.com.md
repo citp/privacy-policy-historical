@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everexam.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627184207id_/http%3A//www.everexam.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everexam.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212073030id_/http%3A//everexam.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ever-Exam Online Education Platform
 
