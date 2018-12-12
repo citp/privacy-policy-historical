@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onegreatfamily.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517143155id_/http%3A//www.onegreatfamily.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onegreatfamily.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212121916id_/http%3A//www.onegreatfamily.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
