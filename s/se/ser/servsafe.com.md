@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servsafe.com privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729181206id_/https%3A//www.servsafe.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servsafe.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212175139id_/https%3A//www.servsafe.com/Privacy-Policy) for the most accurate reproduction.*
 
 # ServSafe® - Privacy Policy
 
@@ -91,8 +91,8 @@ From time to time, we may update this Privacy Statement to reflect new or differ
 Website Privacy Inquiries  
 Marketing Department  
 National Restaurant Association Solutions  
-175 West Jackson Blvd, Suite 1500  
-Chicago, IL 60604
+233 S. Wacker Drive, Suite 3600  
+Chicago, IL 60606-6383
 
 Disclaimer
 
@@ -104,8 +104,8 @@ Requests to use or reproduce material from this website should be directed to:
 
 **Copyright Permissions**  
 National Restaurant Association Educational Foundation  
-175 West Jackson Boulevard, Suite 1500  
-Chicago, IL 60604  
+233 S. Wacker Drive, Suite 3600  
+Chicago, IL 60606-6383  
 312.715.1010  
 Fax 312.566.9729
 
