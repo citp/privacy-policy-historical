@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the respondus.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608012345id_/http%3A//www.respondus.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the respondus.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213001936id_/http%3A//www.respondus.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Respondus Privacy Policy
 
 RESPONDUS  
 PRIVACY POLICY  
-Last Revised: May 22, 2018
+Last Revised: August 24, 2018
 
 This Privacy Notice is effective as of May 25, 2018.
 
@@ -74,6 +74,8 @@ If you use our Services from a country other than the country where our servers 
 
 We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (such as subpoena requests), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of a legal process.
 
+We remain responsible for care of the data that is transferred to third parties, unless you direct us to forward it to the third party.
+
 ## **How we might communicate with you**
 
 We may contact you directly regarding products or services you have purchased from us, such as may be necessary to deliver transactional or service related communications. We may also contact you regarding products or services when additional information is requested. We may contact you with offers for additional services we think you'll find valuable if you give us consent, or where allowed based upon legitimate interests. These contacts may include email, text (SMS) messages, telephone calls, and printed mailings. 
@@ -85,6 +87,8 @@ To update your subscription preferences or discontinue receiving marketing email
 You can also email [subscribe@respondus.com](mailto:subscribe@respondus.com) with instructions on your communication preferences; to unsubscribe from all email communications, include the word UNSUBSCRIBE in the subject line.
 
 If you would like to request that your personal information be completely removed from our database, please contact us at [privacy@respondus.com](mailto:privacy@respondus.com). 
+
+If you would like to access or update your personal information, please contact us at [privacy@respondus.com](mailto:privacy@respondus.com). 
 
 ## **How we secure, store and retain your data**
 
