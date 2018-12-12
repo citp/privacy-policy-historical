@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the levygorvy.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628201543id_/https%3A//www.levygorvy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levygorvy.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212202800id_/https%3A//www.levygorvy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Lévy Gorvy Gallery
+# Privacy Policy – Lévy Gorvy
 
 **1\. INTRODUCTION AND GENERAL TERMS**
 
@@ -164,4 +164,4 @@ We will notify you of any changes to this policy by email, notice on the website
 
 **10\. INTERNATIONAL DATA TRANSFERS**
 
-Where we transfer your data outside of the EEA in respect of the transfer to the above affiliates, we have agreements in place with those parties which include standard data protection clauses adopted by a data protection regulator and approved by the European Commission to ensure that appropriate safeguards are in place to protect your personal data. If you would like to find out more about these safeguards, please let us know by writing to [policyinquiries@levygorvy.com](mailto:policyinquiries@levygorvy.com).
+Where we transfer your data outside of the EEA and/or Switzerland in respect of the transfer to the above affiliates, we have agreements in place with those parties which include standard data protection clauses adopted by a data protection regulator and approved by the European Commission and the Swiss Federal Data Protection and Information Commissioner, to ensure that appropriate safeguards are in place to protect your personal data. If you would like to find out more about these safeguards, please let us know by writing to [policyinquiries@levygorvy.com](mailto:policyinquiries@levygorvy.com).
