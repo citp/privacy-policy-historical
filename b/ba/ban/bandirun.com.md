@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandirun.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610042235id_/http%3A//bandirun.com/index.php%3Fview%3Dprivacypolicy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandirun.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212081723id_/http%3A//bandirun.com/index.php%3Fview%3Dprivacypolicy%26) for the most accurate reproduction.*
 
 # BandiRun.com : Privacy Policy
 
