@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the perfumania.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326073459id_/https%3A//www.perfumania.com/content/footerlinks3/privacy-policy/content.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfumania.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212065807id_/https%3A//www.perfumania.com/content/footerlinks3/privacy-policy/content.html) for the most accurate reproduction.*
 
 # Privacy Policy at Perfumania.com
 
 **_PRIVACY POLICY_**
 
-Last Updated January 20, 2015
+  **Updated May 24, 2018**
 
 Welcome to the Perfumania.com website (“Website”).  This Website is owned and operated by Perfumania.com, Inc. (“Perfumania”).  This Privacy Policy governs your use of the Website and our use of any information you submit or we gather during your use of the Website. 
 
@@ -84,6 +84,38 @@ The Website is a general audience website and we do not knowingly collect any pe
 **Security**
 
 We incorporate commercially reasonable safeguards to help protect and secure your Personal Information.  However, no data transmission over the Internet, mobile networks, wireless transmission or electronic storage of information can be guaranteed to be 100% secure.  Please note that we cannot ensure the security of any information you transmit to us, and you use our Website and provide us with your information at your own risk. When you place orders or access your account information, we use our Secure Sockets Layer (SSL), which encrypts all information you enter before it is sent over the Internet to us.
+
+**_EU Citizens Only:   Our Compliance with the General Data Protection Regulation _**
+
+We respect and safeguard the data privacy rights of all of our website visitors and customers.  The European Union (“EU”) has enacted the General Data Protection Regulation (“GDPR”), which requires additional protections for the Personal Information of EU citizens.  The definition of Personal Information for EU citizens is broader than the definition set forth in this Privacy Policy – it can also include IP addresses, responses to surveys, social media identifiers and photographs posted to social media.  EU citizens also enjoy additional protections under the GDPR.  For this reason, we have amended our Privacy Policy as it applies to EU citizens, effective May 25, 2018.  Below we set forth how we are satisfying the GDPR requirements for our EU citizen users. 
+
+1\. _Rights of EU Citizens under GDPR_
+
+Under the GDPR, EU citizens have the right to request the following information from us: 
+
+-What Personal Information we hold about you, and for what purpose. 
+
+-Access to the Personal Information we hold about you.
+
+-The right to correct Personal Information we hold about you.
+
+-The right to withdraw consent for any use of your Personal Information by us. 
+
+-The right to object to any use of your Personal Information by us.
+
+-The right to have your Personal Information deleted from our database. 
+
+-The right to ask for Personal Information to be transferred either back to you or to another data controller. 
+
+**Any GDPR request must be made sending an email to dataprivacy@perfumania.com.   **** **
+
+2.  _Transparency of Personal Information_
+
+We only share your Personal Information with our business partners for the lawful purpose of digital marketing, and we ensure any third parties receiving your Personal Information comply with the requirements of the GDPR.  If you provide us with social media details, we may obtain publicly available information about you from these social media platforms.  We will obtain consent from you for any uses of your Personal Information that fall outside the purpose described in this Privacy Policy.  We do not collect sensitive information about you.  
+
+3.  _Retention_ _of Personal Information_
+
+Your Personal Information will be retained by us for no longer than is necessary to fulfill the purpose for which it was collected, or as if required by law.  When your Personal Information is deleted, it shall be deleted across all of our platforms and no longer shared with our business partners. 
 
 **Changes to the Privacy Policy?**
 
