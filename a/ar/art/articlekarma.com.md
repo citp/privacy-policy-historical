@@ -1,67 +1,163 @@
-> *The following text is extracted and transformed from the articlekarma.com privacy policy that was archived on 2016-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160901104857id_/http%3A//articlekarma.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlekarma.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212020215id_/https%3A//www.hover.com/privacy%3Fsource%3Dparked) for the most accurate reproduction.*
 
-# Article Karma Directory
+# Privacy Policy | Hover.com
 
- 
+## Our Privacy and Data Collection Practices
 
-**ArticleKarma.Com**  
+Like most online businesses, Hover collects and processes information on behalf of and about our customers. We want to help our customers understand what data we collect, how we use the data we collect, who we share this data with, and how we secure and protect this data.
 
+The purpose of this document is to share these details with our customers and anyone else interested in how we collect and process personal data.
 
-##  PRIVACY POLICY
+Whenever we refer to "Hover" in this document, we are referring to the domain registration services provided by Tucows.com Co. via the website hover.com. Tucows is a corporation, accredited by ICANN and under contract with various domain registries to facilitate the registration and management of your domain names.
 
-Welcome to ArticleKarma.Com (the "Site").
+We've tried really hard to keep this document simple and readable and if you have any suggestions for how we can improve it, please let do us know.
 
-We understand that privacy online is important to users of our Site, especially when conducting business.   
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without   
-transacting business and Visitors who register to transact business on the Site and make use of the various services offered by ArticleKarma.Com (collectively, "Services") ("Authorized Customers").
+## Account Information
 
-**"Personally Identifiable Information"**   
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
-or demographic information not connected to an identified individual.
+When you purchase services from Hover, we create an account for you. This account makes it easier for you to track and manage your purchases with us. For the purpose of creating your account, we collect what we call "account data" and "registration contact data".
 
-**What Personally Identifiable Information is collected?**  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+Account data includes:
 
-**What organizations are collecting the information?**  
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+* the name of the account holder;   
+* the mailing address of the account holder;   
+* a primary and, optionally, a secondary email address, associated with the account holder and any other individual that the account holder wishes to designate;   
+* a credit card number, expiry, and verification code;
 
-**How does the Site use Personally Identifiable Information?**  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.  [](http://www.weblawgenerator.com/)
+Registration contact data varies by top-level domain, but it may include up to:
 
-**With whom may the information may be shared?**  
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
+* Name and postal address of the Registered Name Holder;   
+* Registered Domain Name;   
+* The primary and secondary nameserver(s) for the Registered Domain * Name;   
+* Email address, voice, and fax (if available) telephone numbers of the Registered Name Holder;
 
-**How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by ArticleKarma.Com is securely stored and is not accessible to third parties or employees of ArticleKarma.Com except for use as indicated above. 
+Contact data: including name, postal address, email address, voice and fax (if available) telephone numbers for other persons that may have responsibility for your Registered Domain Name.
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [support@articlekarma.com](mailto:support@articlekarma.com)
+For your convenience, we may store this data at your direction as a default set of information for future domain purchases.
 
-**Are Cookies Used on the Site?**  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+## Our use of your account data
 
-**How does ArticleKarma.Com use login information?**  
-ArticleKarma.Com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+Hover only uses account data for the purpose of facilitating the management of your account and billing for your purchases.
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-ArticleKarma.Com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.   
-Our privacy policy does not cover their collection or use of this information.   
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+We share this data programmatically with Braintree, for the purpose of billing your credit card.
 
-**How does the Site keep Personally Identifiable Information secure?**  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
+Hover relies on tokens generated by Braintree to trigger billable events. Hover retains the industry-normal first six and last four digits of the credit card, the type of credit card, and the name associated with the credit card for internal tracking and audit purposes. The data is stored securely and is not usable for any billing or charging purposes. Braintree will never use your data for their own purposes without our explicit consent or notice to us.
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [support@articlekarma.com](mailto:support@articlekarma.com)
+Hover may share your account data with law enforcement agencies on a case-by-case basis, if necessary as part of a legal investigation. We may notify you if this happens, depending on the circumstances. Hover may also share your account data with a third party under order from a court of competent jurisdiction related to a lawsuit or investigation. We evaluate these requests on a case-by-case basis and we will notify you as appropriate.
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [support@articlekarma.com](mailto:support@articlekarma.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+We may use your account data to contact you concerning a dispute related to your account or for verification purposes to make sure no one else is accessing your account.
 
-**What happens if the Privacy Policy Changes?**  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+Hover does not share your account data with any other parties for any other reasons, with the exception of vendors, working under our instruction following levels of security at least as rigorous as those followed by Hover.
 
-**Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.   
-  
-© 2006 - 2011 and Beyond **ArticleKarma.Com** , All rights reserved.
+## Our use of your registration data
+
+Hover only ever uses your registration data for the purpose of facilitating the registration, management and transfer of the domain names you register with Hover. Hover shares your registration data with the OpenSRS, our sister operating division, and, in turn, that data is shared with the registry that manages the TLD you are registering in, for example, Verisign, for .com; CIRA, for .ca; and Nominet, for .uk.. The information we gather for specific registries will be presented to you at the time of your registration.
+
+Hover is also required by ICANN to escrow your registration data with Iron Mountain. Iron Mountain is not permitted to use this data, except to disclose it to ICANN in the event that Hover ceases to be able to register domains.
+
+ICANN requires that we verify the accuracy of the registration data you provide us on at least an annual basis. We use the email address associated with the Registered Name for this purpose. Tucows sends this email directly and does not use a third party service to facilitate this mailing.
+
+If your Registered Domain Name is the subject of a dispute under either ICANN’s [Uniform Domain Name Dispute Resolution Policy](https://www.icann.org/resources/pages/help/dndr/udrp-en) or its [Uniform Rapid Suspension Policy](https://www.icann.org/resources/pages/urs-2014-01-09-en), we will share your registration data with the arbitration provider that is adjudicating the dispute, who will share it with the other party to the dispute. We also may use your registration data to contact you concerning any dispute related to your domain name, or for verification purposes to make sure no one else is accessing your domain.
+
+We never sell this information.
+
+## Location of Data Collection and Processing
+
+Your account data and registration data are collected and processed by us in Ontario, Canada. When necessary for the services your have requested from us, your data may also be processed elsewhere, within or outside of Canada, in accord with legal regulations.
+
+## WHOIS
+
+Typically, Hover, through its sister operating division OpenSRS, will publish your registered domain name and your geographical territory in the Whois database. We also may provide a webform or pseudoanonymized email to allow users of the Internet to contact the registrant of the domain name. In some ccTLDs, you may be required to provide additional information which will be shown in the public whois database; if so, these additional data fields will be described to you at the time of registration.
+
+Many Registries allow for the use of Whois Privacy services, but many others do not. Support (or lack of support for) Whois Privacy is noted during the checkout process and also noted in the Hover dashboard when viewing the details for each domain you own.
+
+This tutorial can help you with controlling the publication of your information in Whois.
+
+It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
+
+Your personal information is still known to people at our company with a need to access account and registration data. It also may be available in the future should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way. We reserve the right to remove privacy and restore your contact data in the event of a dispute or a violation of our terms of service.
+
+## Domain Search Information
+
+Typically, Hover, through its sister operating division OpenSRS, will publish your registered domain name and your geographical territory in the Whois database. We also may provide a webform or pseudoanonymized email to allow users of the Internet to contact the registrant of the domain name. In some ccTLDs, you may be required to provide additional information which will be shown in the public whois database; if so, these additional data fields will be described to you at the time of registration.
+
+Many Registries allow for the use of Whois Privacy services, but many others do not. Support (or lack of support for) Whois Privacy is noted during the checkout process and also noted in the Hover dashboard when viewing the details for each domain you own.
+
+This tutorial can help you with controlling the publication of your information in Whois.
+
+It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
+
+Your personal information is still known to people at our company with a need to access account and registration data. It also may be available in the future should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way. We reserve the right to remove privacy and restore your contact data in the event of a dispute or a violation of our terms of service.
+
+## Customer Service Information
+
+We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
+
+When you call Hover Support via telephone, we will likely record and archive the conversation. If you don’t agree to this, please contact Hover Support through our online chat, email or other means as may be available at [help.hover.com](https://help.hover.com/).
+
+## Electronic Newsletters and Unsubscribe Policy
+
+We only provide newsletters to you if you have opted in to receive them. If you change your mind, you can unsubscribe from our mailing list at any time through the link we provide at the top and bottom of every mailer. 
+
+## Data Analytics
+
+We collect and aggregate data concerning how people use the website at [www.hover.com](http://www.hover.com/). When you visit our websites, our web servers temporarily record the domain name or IP address of your computer, the file requested (file name and URL) by the client, the http response code, and the website from which you are visiting us. The recorded data is used for data security purposes, particularly to protect against attempted attacks on our server, and for statistical analysis. We do not use it to create individual user profiles nor do we share this information with third parties. Some of the data is associated with your Hover account and the domains you register with us, but is not personally identifiable to any third-party. We use a variety of third party services to help us collect and analyze this data, including Google Analytics.
+
+## Cookies
+
+We use cookies for certain services. These are small text files that are stored on your computer. They enable the system to tell if you repeatedly visit websites from the same computer.
+
+Session cookies are cookies that are only saved on your computer for the duration of a single Internet session. They do not contain any personal data. For some offerings we use persistent cookies that support the services for future sessions. These cookies remain valid until you delete them or until the deletion period configured in your client is reached. You can set your browser to prevent these cookies being stored or to delete the cookies at the end of your Internet session. Please remember that in this case you may not have access to the full range of functions offered by our website.
+
+##  Data Security and Retention
+
+We follow generally accepted standards to store and protect the personal data we collect, both during transmission and once received and stored. We use encryption where appropriate.
+
+We retain personal data only for as long as necessary to provide the services you have purchased from us, and we may retain that information for legal or business purposes after termination of the services. These post-services retention periods are either mandated by law or contract and are necessary for preserving, resolving, defending or enforcing our legal and contractual rights or needed to maintain accurate business and financial records.
+
+If you have any questions about the security or retention of your personal data, you can contact us by email at [help@hover.com](mailto:help@hover.com) or by giving us a phone call at 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm).
+
+## Data Access and Correction
+
+You may view the personal information we have about you inside your account. You also may request, free of charge, information on the scope, origin, and recipients of any stored data as well as the purpose of storage. You may request that incorrect data be corrected at any time, or you may correct any data elements inside your account to which you have access.
+
+## Age restrictions
+
+We do not target our services to persons under the age of 18. If you know of, or have reason to believe, anyone under the age of 18 has provided us with any personal data, please contact us.
+
+## Changes in our Privacy Policy
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes here, among other places we think you are likely to visit. We will place a date on any new privacy policy with material changes, so you will be able to see the last revision date.
+
+## Data Protection Authority
+
+If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority, responsible for the territory in which we maintain a subsidiary office in Germany. Our lead supervisory authority is:
+
+Landesbeauftragte für Datenschutz und Informationsfreiheit   
+Nordrhein-Westfalen   
+Postfach 20 04 44   
+40102 Düsseldorf   
+Tel.: 0211/38424-0
+
+## Contact Us
+
+If you have any questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at [DPO@tucows.com](mailto:DPO@tucows.com). In the alternative, you may contact us by either of the following means:
+
+By Mail:
+
+Hover, a service of Tucows   
+96 Mowat Avenue   
+Toronto, Ontario   
+M6K 3M1   
+CANADA   
+(Attention: Office of the Data Protection Officer)
+
+or for customers established in the EEA
+
+Attn:   
+Tucows Data Protection Officer   
+Rickert Rechtsanwaltsgesellschaft m.b.H   
+Kaiserplatz 7 - 9   
+53113 Bonn   
+[DPO@tucows.com](mailto:DPO@tucows.com)
+
+We will respond to all requests, inquiries or concerns within thirty (30) days.
