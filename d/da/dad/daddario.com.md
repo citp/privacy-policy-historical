@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daddario.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606171628id_/http%3A//www.daddario.com/DaddarioPrivacyPolicy.Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddario.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212153330id_/http%3A//www.daddario.com/DaddarioPrivacyPolicy.Page) for the most accurate reproduction.*
 
 # D'Addario Strings : Privacy Policy
 
@@ -7,23 +7,25 @@ Privacy Policy - Your Privacy Rights**
 
 * * *
 
-Effective Date: 6/10/2015. Last Updated: 5/23/2018 
+Effective Date: 6/10/2015. Last Updated: 6/18/2018 
 
  **This Privacy Policy applies to the sites and apps where it appears.**   
 This Policy (together with our [Terms and Conditions of Use ](https://web.archive.org/DaddarioTermsandConditions.Page)and our [Tracking Tools Policy](https://web.archive.org/AboutOurAds.Page)) describes how we treat information we collect from or about you on the websites and apps where it is located. This includes evansdrumheads.com, promark.com, puresoundpercussion.com, woodwinds.daddario.com, and accessories.daddario.com and their related apps. By accessing or using our websites and apps or interacting with us, you consent to these practices. 
 
-The service providers and responsible entities with regard to the collection, processing and utilization of personal data in connection with the above websites are D'Addario & Company, 595 Smith Street, Farmingdale, New York, 11735, United States and D’Addario UK Limited, 2 Greenfinch Way, Newburn Riverside, Newcastle upon Tyne NE15 8NX, United Kingdom. 
+The service providers and responsible entities with regard to the collection, processing and utilization of personal data in connection with the above websites are D'Addario & Company, 595 Smith Street, Farmingdale, New York, 11735, United States and D’Addario UK Limited, 2 Greenfinch Way, Newburn Riverside, Newcastle upon Tyne NE15 8NX, United Kingdom. For the purpose of European data protection laws, the data controllers are D'Addario & Company, Inc. and D'Addario UK Limited. 
 
-**We collect information from and about you.**   
-**We collect contact information.** For example, we might collect your name and email address if you register on our site. We may also collect your phone number and mailing address if you make a purchase or sign up for our loyalty program. 
+ **We collect information from and about you.**   
+**We collect contact information.** For example, we might collect your name and email address if you register on our sites or apps. We may also collect your phone number and mailing address if you make a purchase or sign up for our loyalty program. 
 
-**We collect demographic information.** We may collect information like your gender and age. We may also collect your zip code. We might collect this when you engage with our websites or contact us. 
+**We collect demographic and location information.** We may collect information like your gender and age. We may also collect your zip code or postcode. We may also collect your GPS location. We might collect this when you engage with our websites or contact us. 
 
-**We collect payment information.** For example, we collect your credit card number if you make a purchase. 
+**We collect payment information.** For example, we collect your credit card details if you make a purchase. 
 
-**We collect information you submit or post.** For example, we collect product reviews and comments that you post on our site. We also collect information when you contact us. 
+**We collect information you submit or post.** For example, we collect product reviews and comments that you post on our site and your responses to surveys you complete. We also collect information when you contact us. 
 
-**We collect other information.** If you use our website, we may collect information about the browser you’re using or your IP address. We might look at what site you came from, or what site you visit when you leave us. We may collect page interaction information and methods used to browse away from the page. If you use our mobile apps, we may also look at how often you use the app and where you downloaded it. We collect this information using the tracking tools described below. To control those tools, please read the Choices section below.
+**We collect transaction and preference data.** We collect information about your purchase history and transactions and your preferences when using our products and services.  ** **
+
+ **We collect other behavioral and  usage information.** If you use our website, we may collect information about the browser you’re using or your IP address. We might also collect device identifiers. We might look at what site you came from, or what site you visit when you leave us. We may collect page interaction information and methods used to browse away from the page. If you use our mobile apps, we may also look at how often you use the app and where you downloaded it. We collect this information using the tracking tools described below. To control those tools, please read the Choices section below.
 
  **We collect information in different ways.**   
 **We collect information directly from you.** For example, we collect information if you sign up for an account or sign up for our emails. We also collect information if you make a purchase or contact us. We also collect information if you post a comment, make a request or complete a survey.
@@ -35,15 +37,15 @@ The service providers and responsible entities with regard to the collection, pr
  **We combine information.** For example, we may combine information that we have collected offline with information we collect online. Or we may combine information we get from a third party with information we already have. 
 
 **We use information as disclosed and described here.**   
-**We use information to respond to your requests or questions.** For example, we may contact you about your loyalty account or feedback. We use your information to fulfill your purchases. 
+**We use information to fulfill your orders and respond to your requests or questions.** For example, we may contact you about your loyalty account or feedback. We use your information to fulfill your purchases. We also use your information to create and administer your account.
 
-**We use information to improve our products and services.** We may use your information to make our website and products better. We might use your information to customize your experience with us. 
+ **We use information to improve our products and services.** We may use your information to make our website and products better. We might use your information to customize your experience with us. 
 
 **We use information to administer our site and services and for internal operations.** This might include troubleshooting, data analysis or testing. We might also use information for research, statistical and survey purposes.
 
- **We use information for security purposes.** We may use information to protect our company or our third parties. These third parties may include customers or business partners.  We also may use information to protect, our websites or our services.
+ **We use information for security purposes.** We may use information to protect our company or our third parties. These third parties may include customers or business partners.  We also may use information to protect, our websites or our services, as well as to detect and investigate activities that may be illegal or prohibited.
 
- **We use information for marketing purposes.** For example, we might provide you with information about special promotions or offers.  We might also use your information to serve you ads about our products and offers. We might tell you about new features or services.  These might be our own offers or products, or third-party offers or products we think you might find interesting.  If you register with us, you may opt-in to receive our email newsletter. To learn about your choices for these communications, read the Choices section below. 
+ **We use information for marketing purposes.** For example, we might provide you with information about special promotions or offers.  We might also use your information to serve you ads about our products and offers. We might tell you about new features or services.  These might be our own offers or products, or third-party offers or products we think you might find interesting. We may also use your data in order to build profiles and infer what advertising may be of interest to you. If you register with us, you may opt-in to receive our email newsletter. To learn about your choices for these communications, read the Choices section below. 
 
 **We use information to communicate with you about your account or our relationship.** For example, we might send you emails about your loyalty account or feedback.  We might also contact you about our policies or our website terms. We may also use push notifications on our apps.
 
@@ -94,10 +96,13 @@ Except as otherwise identified in this Policy, you may request that we stop, or 
 
 If you have provided us with your consent to collect or use your personal information, you may withdraw your consent at any time and for any reason, without affecting the lawfulness of our processing based on your consent prior to the withdrawal. If you feel that we have violated your privacy rights, you have the right to make a complaint to us using the information listed below or to contact your local data protection authority. 
 
-To exercise the foregoing rights, please contact us using the information listed below. Please note your right to access your personal data is not absolute. We may deny you access to your personal data when required or authorized by law. For example, we may deny access if granting access would have an unreasonable impact on another individual’s privacy. 
+To exercise the foregoing rights, please contact us using the information listed below. Please note your right to access your personal data is not absolute. We may deny you access to your personal data when required or authorized by law. For example, we may deny access if granting access would have an unreasonable impact on another individual’s privacy.
+
+If you are not satisfied with our response to your complaint or believe our processing of your information does not comply with data protection law, you can make a complaint to the UK Information Commissioner's Office (ICO): <https://ico.org.uk/concerns/>.  
+
 
   
-**We may link to third party sites or services we don’t control.**   
+ **We may link to third party sites or services we don’t control.**   
 If you click on a link to a third party site, you will be taken to a website we do not control. This Policy does not apply to the privacy practices of that website, which may collect information from you. Read the privacy policy of other websites carefully. We are not responsible for these third party websites or their policies.
 
 Our site may also serve third party ads or content that contains third party cookies or tracking technologies. We do not control the use of those technologies.  
@@ -113,8 +118,6 @@ Farmingdale, New York 11735
 Phone: 1 (800) 323-2746
 
  **We may update this Policy.**   
-From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates. Your continued use of our website and apps means that you consent to the collection, use and disclosure of your Personal Information as set out in the updated Policy. 
-
-For the purposes of the UK Data Protection Act 1998, the data controllers are D’Addario & Company, Inc. & D’Addario UK Limited.
+From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates. Your continued use of our website and apps means that you consent to the collection, use and disclosure of your Personal Information as set out in the updated Policy.
 
 © 2018 D'Addario & Company, Inc. All rights reserved. 
