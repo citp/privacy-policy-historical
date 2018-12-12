@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the huaweimobileservices.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529223945id_/http%3A//consumer.huawei.com/en/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huaweimobileservices.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212083050id_/http%3A//consumer.huawei.com/en/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy | Legal | HUAWEI Global
 
-The Huawei Consumer Business Privacy Statement was updated on   
+The Huawei Consumer Business Privacy Statement was updated on  
 April 15, 2018. 
 
-Huawei Device Co., Ltd. and its global affiliates (collectively, "Huawei", "we", "us", and "our") respect your privacy. Therefore, we have developed a Privacy Statement (hereinafter referred to as "this Statement") that covers how we collect, use, disclose, protect, store and transfer your personal data. Please take a moment to read and understand our privacy statement and [let us know](https://consumer.huawei.com/en/legal/privacy-questions/) if you have any questions.
+Huawei Device (Shenzhen) Co., Ltd. and its global affiliates (collectively, "Huawei", "we", "us", and "our") respect your privacy. Therefore, we have developed a Privacy Statement (hereinafter referred to as "this Statement") that covers how we collect, use, disclose, protect, store and transfer your personal data. Please take a moment to read and understand our privacy statement and [let us know](https://consumer.huawei.com/en/legal/privacy-questions/) if you have any questions.
 
 Personal data means any electronic or other information which alone or jointly with other information can be used to identify a natural person or make him/her identifiable. This Statement explains how Huawei processes your personal data, but does not cover all processing scenarios as you will be informed in specific processing activity. Therefore, before using a specific product or service, it is recommended that you read the privacy notice or supplementary statement released by Huawei for that product or service to understand how it processes your personal data.
 
@@ -35,7 +35,7 @@ This Statement describes:
 
 11\. How to Contact Us
 
-I. How Huawei Collects and Uses Your Personal Data
+## I. How Huawei Collects and Uses Your Personal Data
 
 A. Personal Data Collected by Huawei
 
@@ -103,7 +103,7 @@ Huawei may use your personal data for the following purposes:
 
 (11) Other purposes within specific services or with your consent.
 
-II. How Huawei Uses Cookies and Similar Technologies
+## II. How Huawei Uses Cookies and Similar Technologies
 
 A. Cookie
 
@@ -139,7 +139,7 @@ D. Do Not Track
 
 Many web browsers provide a Do Not Track function that can release Do Not Track requests to websites. Currently, major Internet standardisation organisations have not established policies to specify how websites should handle these requests. If you enable Do Not Track in your browser, all Huawei websites will respect your selection.
 
-III. How Huawei Shares Your Personal Data
+## III. How Huawei Shares Your Personal Data
 
 We do not share personal data with other companies, organisations and individuals unless one of the following circumstances applies:
 
@@ -157,7 +157,7 @@ We do not share personal data with other companies, organisations and individual
 
 In scenarios 3 to 6, Huawei will ensure that the lawfulness of this sharing and sign stringent non-disclosure agreements (NDAs) and/or data processing clauses with the companies, organisations, and individuals with whom personal data is shared, requiring them to comply with this Statement and take appropriate confidentiality and security measures when processing personal data.
 
-IV. How Huawei Protects Your Personal Data
+## IV. How Huawei Protects Your Personal Data
 
 Huawei attaches great importance to the security of your personal data and has adopted standard industry practices to protect your personal data and prevent it from unauthorised access, disclosure, use, modification, damage, or loss. To this end, Huawei takes the following measures:
 
@@ -177,7 +177,7 @@ To cope with possible risks, such as personal data leakage, damage, and loss, Hu
 
 If any personal data incident occurs, Huawei will notify you, pursuant to relevant legal and regulatory requirements, of the basic information about the security incident and its possible impact, measures that Huawei has taken or will take, suggestions about active defense and risk mitigation, and remedial measures. The notification may take the form of an email, text message, push notification, etc. If it is difficult to notify data subjects one by one, we will take appropriate and effective measures to release a Security Notice. In addition, we will also report the handling status of personal data security incidents as required by supervisory authorities.
 
-V. How You Can Manage Your Personal Data
+## V. How You Can Manage Your Personal Data
 
 A. Access, rectification, deletion, data portability, restriction of processing, objection to processing.
 
@@ -211,7 +211,7 @@ C. Deregistering a Huawei ID
 
 You can deregister your account in Huawei ID-related products. After you deregister your account, we will stop providing products and services, and delete your personal data unless otherwise stipulated by law. Your account cannot be restored after deregistration. You need to register a new Huawei ID if you want to use related Huawei products or services again. You can submit a deregistration application and complete the process in setting menu after logging in to your Huawei ID on related devices, applications or official website.
 
-VI. How Huawei Protects Children's Personal Data
+## VI. How Huawei Protects Children's Personal Data
 
 Huawei's personal and home products are intended for adults. However, for the use of Huawei products and services by children, we are fully aware of the importance of taking extra preventive measures to protect privacy and security. Huawei identifies whether data subjects are children based on the age of majority defined by laws of the local countries and regions.
 
@@ -219,13 +219,13 @@ When children's personal data is collected based on the consent of the holders o
 
 If Huawei accidentally collects children's personal data without obtaining consent from provable holders of parental responsibility, Huawei will delete the information as soon as possible after becoming aware of it.
 
-VII. Links to Third-Party Websites, Products, and Services
+## VII. Links to Third-Party Websites, Products, and Services
 
 Huawei websites, application software, products, and services may contain links to third-party websites, products, and services. Huawei products and services may also use or provide products or services from third parties, for example, third-party apps released on Huawei app store HiApp.
 
 All links to third-party websites, products, and services are provided for users' convenience only. You need to determine your interaction with such links on your own. Before submitting your personal data to third parties, please read and refer to these third parties' privacy policies.
 
-VIII. International Transfers of Your Personal Data
+## VIII. International Transfers of Your Personal Data
 
 Our products and services are delivered through resources and servers located in different places, to offer our products and services, we may need to transfer your personal data among several countries. Authorised Huawei personnel and third parties acting on our behalf may access, use and process personal data collected from you in a country/region that is different from the country/region where you entered the personal data, which may have less stringent data protection laws. When we transfer your personal data to other countries/regions, we will protect that the personal data as described in this statement or as otherwise disclosed to you at the time the data is collected (e.g. via privacy notice or supplementary statement of specific product or service).
 
@@ -233,7 +233,7 @@ Huawei has implemented global privacy practices for processing personal data pro
 
 With respect to personal data coming from the EU or Switzerland, we comply with applicable legal requirements providing adequate safeguards for the transfer of personal data to countries outside of the European Economic Area ("EEA") or Switzerland. We use a variety of legal mechanisms, such as standard contractual clauses to implement the cross-border transfer of your personal data; or implement security measures like anonymisation on the data before the cross border data transfer.
 
-IX. International Users
+## IX. International Users
 
 If you use Huawei consumer cloud services in a member state of the European Economic Area (EEA) or Switzerland, Albania, Andorra, Bosnia, Faroe Islands, Gibraltar, Greenland, Republic of Macedonia, Moldova, Monaco, Montenegro, San Marino, Serbia, Vatican, Japan, South Korea, the USA, and Canada, Aspiegel Limited in Ireland is the data controller.
 
@@ -241,7 +241,7 @@ If you use the US Huawei online store (www.hihonor.com/us), Huawei Device USA, I
 
 If you use the Europe Huawei online store, Huawei Technologies Dusseldorf GmbH is the data controller.
 
-X. Updates to This Statement
+## X. Updates to This Statement
 
 Huawei reserves the right to update this Statement at any time.
 
@@ -261,10 +261,10 @@ Should this Statement be revised from time to time, Huawei will release the chan
 
 (6) High risks identified in personal data security impact assessment reports
 
-XI. How to Contact Us
+## XI. How to Contact Us
 
 We have set up a dedicated personal data protection department (or data protection officer). If you have any questions, comments, or suggestions, please contact us by visiting the [contact us](https://consumer.huawei.com/en/legal/privacy-questions/) page or submitting them to our global offices. To obtain the complete list of Huawei offices, please visit the [global offices](https://consumer.huawei.com/en/contact-us/) page.
 
 Note: Due to differences in local laws and languages, the local versions of Huawei Consumer Business Privacy Statement may be different from this version. In the case of any conflicts, the local versions shall prevail.
 
-Copyright ©2018 Huawei Device Co., Ltd. All rights reserved.
+Copyright ©2018 Huawei Device (Shenzhen) Co., Ltd. All rights reserved.
