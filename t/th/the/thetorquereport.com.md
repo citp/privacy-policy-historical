@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thetorquereport.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731152352id_/https%3A//www.thetorquereport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetorquereport.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212023626id_/https%3A//www.thetorquereport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Torque Report
 
-This Privacy Policy governs the manner in which The Torque Report collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.thetorquereport.com website (“Site”).
+This Privacy Policy governs the manner in which The Torque Report collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.thetorquereport.com website (“Site”).
 
 ### Personal identification information
 
@@ -67,6 +67,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.thetorquereport.com/contact/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://www.thetorquereport.com/contact/).
 
 This document was last updated on May 26, 2017
