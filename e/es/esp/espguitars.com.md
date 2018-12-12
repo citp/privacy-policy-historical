@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the espguitars.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118192008id_/http%3A//www.espguitars.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espguitars.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212174308id_/http%3A//www.espguitars.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - The ESP Guitar Company
 
@@ -36,7 +36,7 @@ If you have registered on this Site for an account, your password is the key to 
 
 #### ACCESSING, REVIEWING AND CHANGING YOUR PERSONAL INFORMATION
 
-You can see, review and change most of your personal information by logging into the Site. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts in order to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our The ESP Guitar Company Conditions of Use, and take other actions otherwise permitted by law.
+You can see, review and change all of your personal information by logging into the Site. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Upon your request, we will immediately close your account and remove your personal information from view. We do retain personal information from closed accounts in order to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our The ESP Guitar Company Conditions of Use, and take other actions otherwise permitted by law.
 
 #### CHANGES TO THIS POLICY
 
