@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the speckproducts.com privacy policy that was archived on 2017-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171118194630id_/http%3A//www.speckproducts.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the speckproducts.com privacy policy that was archived on 2018-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181212042057id_/http%3A//www.speckproducts.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
@@ -44,7 +44,86 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <meta charset="UTF-8">
+
+	 
+
+	
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
 
 	
@@ -52,16 +131,19 @@
 	
 
 <link href="/on/demandware.static/Sites-speck-Site/-/default/dwe2ae1ea6/images/favicon.ico" rel="shortcut icon">
-<meta name="description" content=" At Speck, we value our customer’s right to privacy. Speck’s Privacy Policy is designed to help you understand how we collect, secure, and use the information we gather at speckproducts.com. Speck">
+<meta name="description" content=" At Speck, we value our customer’s right to privacy. Speck’s Privacy Policy is designed to help you understand how we collect, secure, and use the information we gather at speckproducts.com.">
 <meta name="keywords" content=" speck privacy policy, speck warranty, speck terms and conditions, speck security, speck cookies, speck privacy rights Speck">
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://js.bronto.com/s/b.min.js"></script><script src="//tags.tiqcdn.com/utag/speckproducts/speck-demandware/prod/utag.js" type="text/javascript" async=""></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script src="/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/js/lazyload/jquery.lazyload.js"></script>
-<script>window.jQuery || document.write('<script src="/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/lib/jquery/jquery-1.8.3.min.js"><\/script>')</script><script src="/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/lib/jquery/jquery-1.8.3.min.js"></script>
+
+<script type="text/javascript" async="" src="https://js.bronto.com/s/b.min.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag/smkk8tvrb.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MQKQFSS"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/js/lazyload/jquery.lazyload.js"></script>
+
+<script>window.jQuery || document.write('<script src="/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/lib/jquery/jquery-1.8.3.min.js"><\/script>')</script><script src="/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/lib/jquery/jquery-1.8.3.min.js"></script>
 <script>var app={};</script>
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/js/lib/html5.js"></script>
 <![endif]-->
+
 <script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
 var dw = (window.dw || {});
@@ -76,7 +158,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -122,31 +210,221 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
 
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/css/style.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/css/style-new.css">
 
 
 
 
-<script src="//tags.tiqcdn.com/utag/speckproducts/speck-demandware/prod/utag.sync.js"></script>
 
 
-	<script src="https://commerce-ssl.bestbuy.com/static/ce/partner/scripts/ce-checkout-0_0_1.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+	window.dataLayer = window.dataLayer || [];
+	var userDataLayer = [
+  {
+    "registered": false
+  }
+];
+	window.dataLayer = userDataLayer.concat(window.dataLayer);
+</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQKQFSS');</script>
+
+
+
+
+
+<link rel="stylesheet" href="/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/css/style.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/css/style-new.css">
+
+
+    <meta name="google-site-verification" content="lsN763I_z0t1GVE6KN57tklm6ghAudqNXsgSJx2loMs">
+
 
 
 	<script type="text/javascript" src="//165111933-prod.rfksrv.com/rfk/js/11220-165111933/init.js" async="true"></script>
 
 
 
-<link rel="canonical" href="/privacy-policy.html">
+	 
+
+
+	
+
+
+
+
+<!-- BEGIN Salesforce DMP ControlTag for " smkk8tvrb " -->
+<script class="kxct" data-id="smkk8tvrb" data-timing="async" data-version="3.0" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+    (function() {
+        var k=document.createElement('script');k.type='text/javascript';k.async=true;
+        k.src=(location.protocol==='https:'?'https:':'http:')+'//cdn.krxd.net/controltag/smkk8tvrb.js';
+        var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+    }());
+</script>
+<!-- END Salesforce DMP ControlTag -->
+
+
+ 
+	
+
+
+
+
+<link rel="canonical" href="https://www.speckproducts.com/privacy-policy.html">
+
+
 <link rel="stylesheet" type="text/css" href="https://d36mpcpuzc4ztk.cloudfront.net/css/visitor.css"></head>
 <body>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<noscript><iframe src='//www.googletagmanager.com/ns.html?id="GTM-MQKQFSS"' height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
+
+<div id="browser-check">
+<noscript>
+<div class="browser-compatibility-alert">
+<p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>
+</div>
+</noscript>
+</div>
+
+
+
+
+
+
+
+
+
+	
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			dataLayer.push({
+				google_tag_params: {
+					ecomm_pagetype: 'other'
+				}
+			});
+		</script>
+	
 
 
 <!-- mobileutilmenu.isml -->
@@ -156,13 +434,13 @@ CQuotient.getCQUserId = function () {
 
 <div class="utility-nav visible-phone visible-tablet">
     <div class="utility-nav-wrapper">
-        <a href="http://www.speckproducts.com/home" class="logo">SHOP</a>
+        <a href="/home" class="logo">SHOP</a>
         
 		<ul class="tab-ul">
 			 
 				
 					<li class="mobile-top">
-							<a href="http://www.speckproducts.com/apple.html" class="spbnd-sb010 ir ir-first" title="Apple"> 
+							<a href="/apple.html" class="spbnd-sb010 ir ir-first" title="Apple"> 
 								Apple
 							</a>
 							<span class="mobile-arrow">&nbsp;</span>
@@ -186,7 +464,34 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-x-cases.html">
+															<a href="/apple/iphone-cases/iphone-xs-cases.html">
+																iPhone XS Cases
+															</a>
+														</li>
+													
+												
+													
+														<li> 
+															
+															<a href="/apple/iphone-cases/iphone-xs-max-cases.html">
+																iPhone XS Max Cases
+															</a>
+														</li>
+													
+												
+													
+														<li> 
+															
+															<a href="/apple/iphone-cases/iphone-xr-cases.html">
+																iPhone XR Cases
+															</a>
+														</li>
+													
+												
+													
+														<li> 
+															
+															<a href="/apple/iphone-cases/iphone-x-cases.html">
 																iPhone X Cases
 															</a>
 														</li>
@@ -195,7 +500,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-8-cases.html">
+															<a href="/apple/iphone-cases/iphone-8-cases.html">
 																iPhone 8 Cases
 															</a>
 														</li>
@@ -204,7 +509,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-8-plus-cases.html">
+															<a href="/apple/iphone-cases/iphone-8-plus-cases.html">
 																iPhone 8 Plus Cases
 															</a>
 														</li>
@@ -213,7 +518,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-7-cases.html">
+															<a href="/apple/iphone-cases/iphone-7-cases.html">
 																iPhone 7 Cases
 															</a>
 														</li>
@@ -222,7 +527,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-7-plus-cases.html">
+															<a href="/apple/iphone-cases/iphone-7-plus-cases.html">
 																iPhone 7 Plus Cases
 															</a>
 														</li>
@@ -231,7 +536,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-6-cases.html">
+															<a href="/apple/iphone-cases/iphone-6-cases.html">
 																iPhone 6s/6 Cases
 															</a>
 														</li>
@@ -240,7 +545,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-6-plus-cases.html">
+															<a href="/apple/iphone-cases/iphone-6-plus-cases.html">
 																iPhone 6s Plus/6 Plus Cases
 															</a>
 														</li>
@@ -249,19 +554,22 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-se-cases.html">
+															<a href="/apple/iphone-cases/iphone-se-cases.html">
 																iPhone SE/5s/5 Cases
 															</a>
 														</li>
 													
 												
 													
-														<li> 
-															
-															<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-5c-cases.html">
-																iPhone 5c Cases
-															</a>
-														</li>
+												
+													
+												
+													
+												
+													
+												
+													
+												
 													
 												
 											</ul>
@@ -287,15 +595,6 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/ipad-cases/9-7-inch-ipad-cases-2017.html">
-																iPad Cases (2017)
-															</a>
-														</li>
-													
-												
-													
-														<li> 
-															
 															<a href="/apple/ipad-cases/ipad-pro-cases.html">
 																iPad Pro Cases
 															</a>
@@ -303,6 +602,33 @@ CQuotient.getCQUserId = function () {
 													
 												
 													
+														<li> 
+															
+															<a href="/apple/ipad-cases/9-7-inch-ipad-cases-2017.html">
+																9.7-inch iPad Cases (2018/2017)
+															</a>
+														</li>
+													
+												
+													
+														<li> 
+															
+															<a href="/apple/ipad-cases/ipad-pro-12-9-cases-2018.html">
+																12.9-inch iPad Pro Cases (2018)
+															</a>
+														</li>
+													
+												
+													
+														<li> 
+															
+															<a href="/apple/ipad-cases/ipad-pro-11-cases.html">
+																11-inch iPad Pro Cases
+															</a>
+														</li>
+													
+												
+													
 												
 													
 												
@@ -311,7 +637,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/ipad-cases/ipad-air-2-cases.html">
+															<a href="/apple/ipad-cases/ipad-air-2-cases.html">
 																iPad Air 2 Cases
 															</a>
 														</li>
@@ -320,7 +646,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/ipad-cases/ipad-air-cases.html">
+															<a href="/apple/ipad-cases/ipad-air-cases.html">
 																iPad Air Cases
 															</a>
 														</li>
@@ -329,7 +655,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/ipad-cases/ipad-mini-4-cases.html">
+															<a href="/apple/ipad-cases/ipad-mini-4-cases.html">
 																iPad mini 4 Cases
 															</a>
 														</li>
@@ -338,7 +664,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/ipad-cases/ipad-mini-3-cases.html">
+															<a href="/apple/ipad-cases/ipad-mini-3-cases.html">
 																iPad mini 3/2/1 Cases
 															</a>
 														</li>
@@ -347,7 +673,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/ipad-cases/ipad-4-cases.html">
+															<a href="/apple/ipad-cases/ipad-4-cases.html">
 																iPad 4, iPad 3, &amp; iPad 2 Cases
 															</a>
 														</li>
@@ -376,34 +702,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/macbook-cases/macbook-pro-2016-cases.html">
-																MacBook Pro 2016 Cases
-															</a>
-														</li>
-													
-												
-													
-														<li> 
-															
-															<a href="http://www.speckproducts.com/apple/macbook-cases/macbook-pro-retina-cases.html">
-																MacBook Pro Retina Cases
-															</a>
-														</li>
-													
-												
-													
-														<li> 
-															
-															<a href="http://www.speckproducts.com/apple/macbook-cases/macbook-air-cases.html">
-																MacBook Air Cases
-															</a>
-														</li>
-													
-												
-													
-														<li> 
-															
-															<a href="http://www.speckproducts.com/apple/macbook-cases/macbook-pro-cases.html">
+															<a href="/apple/macbook-cases/macbook-pro-cases.html">
 																MacBook Pro Cases
 															</a>
 														</li>
@@ -412,7 +711,34 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/macbook-cases/macbook-12-cases.html">
+															<a href="/apple/macbook-cases/macbook-pro-retina-cases.html">
+																MacBook Pro Retina Cases
+															</a>
+														</li>
+													
+												
+													
+														<li> 
+															
+															<a href="/apple/macbook-cases/macbook-air-cases.html">
+																MacBook Air Cases
+															</a>
+														</li>
+													
+												
+													
+														<li> 
+															
+															<a href="/apple/macbook-cases/macbook-pro-cases-superdrive.html">
+																MacBook Pro Cases (SuperDrive)
+															</a>
+														</li>
+													
+												
+													
+														<li> 
+															
+															<a href="/apple/macbook-cases/macbook-12-cases.html">
 																MacBook 12" Cases
 															</a>
 														</li>
@@ -441,7 +767,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/watch-cases/apple-watch-cases.html">
+															<a href="/apple/watch-cases/apple-watch-cases.html">
 																Apple Watch Cases
 															</a>
 														</li>
@@ -470,7 +796,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/ipod-touch-cases/ipod-touch-5g-cases.html">
+															<a href="/apple/ipod-touch-cases/ipod-touch-5g-cases.html">
 																iPod Touch 6G &amp; 5G Cases
 															</a>
 														</li>
@@ -479,7 +805,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/apple/ipod-touch-cases/ipod-touch-5g-16gb-cases.html">
+															<a href="/apple/ipod-touch-cases/ipod-touch-5g-16gb-cases.html">
 																iPod Touch 5G (no camera) Cases
 															</a>
 														</li>
@@ -501,7 +827,7 @@ CQuotient.getCQUserId = function () {
 			 
 				
 					<li class="mobile-top">
-							<a href="http://www.speckproducts.com/samsung.html" class="spbnd-sb020 ir ir-first" title="Samsung"> 
+							<a href="/samsung.html" class="spbnd-sb020 ir ir-first" title="Samsung"> 
 								Samsung
 							</a>
 							<span class="mobile-arrow">&nbsp;</span>
@@ -525,7 +851,34 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-note8-cases.html">
+															<a href="/samsung/smartphone-cases/samsung-galaxy-note9-cases.html">
+																Galaxy Note9 Cases
+															</a>
+														</li>
+													
+												
+													
+														<li> 
+															
+															<a href="/samsung/smartphone-cases/samsung-galaxy-s9-cases.html">
+																Galaxy S9 Cases
+															</a>
+														</li>
+													
+												
+													
+														<li> 
+															
+															<a href="/samsung/smartphone-cases/samsung-galaxy-s9-plus-cases.html">
+																Galaxy S9+ Cases
+															</a>
+														</li>
+													
+												
+													
+														<li> 
+															
+															<a href="/samsung/smartphone-cases/samsung-galaxy-note8-cases.html">
 																Galaxy Note8 Cases
 															</a>
 														</li>
@@ -534,7 +887,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s8-cases.html">
+															<a href="/samsung/smartphone-cases/samsung-galaxy-s8-cases.html">
 																Galaxy S8 Cases
 															</a>
 														</li>
@@ -543,7 +896,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s8-plus-cases.html">
+															<a href="/samsung/smartphone-cases/samsung-galaxy-s8-plus-cases.html">
 																Galaxy S8+ Cases
 															</a>
 														</li>
@@ -552,7 +905,16 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s7-cases.html">
+															<a href="/samsung/smartphone-cases/samsung-galaxy-s7-active-cases.html-1">
+																Galaxy S8 active Cases
+															</a>
+														</li>
+													
+												
+													
+														<li> 
+															
+															<a href="/samsung/smartphone-cases/samsung-galaxy-s7-cases.html">
 																Galaxy S7 Cases
 															</a>
 														</li>
@@ -561,7 +923,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s7-edge-cases.html">
+															<a href="/samsung/smartphone-cases/samsung-galaxy-s7-edge-cases.html">
 																Galaxy S7 edge Cases
 															</a>
 														</li>
@@ -570,7 +932,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s7-active-cases.html-2">
+															<a href="/samsung/smartphone-cases/samsung-galaxy-s7-active-cases.html-2">
 																Galaxy S7 active Cases
 															</a>
 														</li>
@@ -579,73 +941,18 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-note-5-cases.html">
+															<a href="/samsung/smartphone-cases/samsung-galaxy-note-5-cases.html">
 																Galaxy Note5 Cases
 															</a>
 														</li>
 													
 												
 													
-														<li> 
-															
-															<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-j3-emerge-cases.html">
-																Galaxy J3 Emerge (2017) Cases
-															</a>
-														</li>
+												
 													
 												
 													
-														<li> 
-															
-															<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-j3-cases.html">
-																Galaxy J3 (2016) Cases
-															</a>
-														</li>
-													
 												
-													
-														<li> 
-															
-															<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-j7-v-cases.html">
-																Galaxy J7 V Cases
-															</a>
-														</li>
-													
-												
-													
-														<li> 
-															
-															<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-j7-cases.html">
-																Galaxy J7 Cases
-															</a>
-														</li>
-													
-												
-													
-														<li> 
-															
-															<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s6-cases.html">
-																Galaxy S6 Cases
-															</a>
-														</li>
-													
-												
-													
-														<li> 
-															
-															<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s6-edge-plus-cases.html">
-																Galaxy S6 edge+ Cases
-															</a>
-														</li>
-													
-												
-													
-														<li> 
-															
-															<a href="/samsung/smartphone-cases/samsung-galaxy-s6-edge-cases/candyshell-grip-samsung-galaxy-s6-edge-cases/GS6E-CS-GRIP.html">
-																Galaxy S6 Edge Cases
-															</a>
-														</li>
 													
 												
 													
@@ -653,12 +960,15 @@ CQuotient.getCQUserId = function () {
 													
 												
 													
-														<li> 
-															
-															<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s7-active-cases.html-1">
-																Galaxy S8 active Cases
-															</a>
-														</li>
+												
+													
+												
+													
+												
+													
+												
+													
+												
 													
 												
 											</ul>
@@ -684,7 +994,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/samsung/tablet-cases/samsung-galaxy-tab-a-cases.html">
+															<a href="/samsung/tablet-cases/samsung-galaxy-tab-a-cases.html">
 																Galaxy Tab A Cases
 															</a>
 														</li>
@@ -693,7 +1003,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/samsung/tablet-cases/samsung-galaxy-tab-e-cases.html">
+															<a href="/samsung/tablet-cases/samsung-galaxy-tab-e-cases.html">
 																Galaxy Tab E Cases
 															</a>
 														</li>
@@ -702,7 +1012,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/samsung/tablet-cases/samsung-galaxy-tab-s-cases.html">
+															<a href="/samsung/tablet-cases/samsung-galaxy-tab-s-cases.html">
 																Galaxy Tab S Cases
 															</a>
 														</li>
@@ -711,7 +1021,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/samsung/tablet-cases/samsung-galaxy-tab-4-cases.html">
+															<a href="/samsung/tablet-cases/samsung-galaxy-tab-4-cases.html">
 																Galaxy Tab 4 Cases
 															</a>
 														</li>
@@ -720,7 +1030,7 @@ CQuotient.getCQUserId = function () {
 													
 														<li> 
 															
-															<a href="http://www.speckproducts.com/samsung/tablet-cases/samsung-galaxy-tab-3-cases.html">
+															<a href="/samsung/tablet-cases/samsung-galaxy-tab-3-cases.html">
 																Galaxy Tab 3 Cases
 															</a>
 														</li>
@@ -733,6 +1043,8 @@ CQuotient.getCQUserId = function () {
 																Galaxy Note Pro 12.2 Cases
 															</a>
 														</li>
+													
+												
 													
 												
 											</ul>
@@ -751,7 +1063,7 @@ CQuotient.getCQUserId = function () {
 			 
 				
 					<li class="mobile-top">
-							<a href="http://www.speckproducts.com/speck-cases-and-covers.html" class="all-brands ir ir-first" title="All Brands"> 
+							<a href="/speck-cases-and-covers.html" class="all-brands ir ir-first" title="All Brands"> 
 								All Brands
 							</a>
 							<span class="mobile-arrow">&nbsp;</span>
@@ -795,7 +1107,7 @@ CQuotient.getCQUserId = function () {
 									
 									
 										<li>
-											<a href="http://www.speckproducts.com/google.html" class="spbnd-sp040 ir" title="Google Cases">
+											<a href="/google.html" class="spbnd-sp040 ir" title="Google Cases">
 												Google Cases
 											</a>
 										</li>
@@ -810,7 +1122,7 @@ CQuotient.getCQUserId = function () {
 									
 									
 										<li>
-											<a href="http://www.speckproducts.com/lg.html" class="spbnd-sp030 ir" title="LG Cases">
+											<a href="/lg.html" class="spbnd-sp030 ir" title="LG Cases">
 												LG Cases
 											</a>
 										</li>
@@ -825,7 +1137,7 @@ CQuotient.getCQUserId = function () {
 									
 									
 										<li>
-											<a href="http://www.speckproducts.com/motorola.html" class="spbnd-sb060 ir" title="Motorola Cases">
+											<a href="/motorola.html" class="spbnd-sb060 ir" title="Motorola Cases">
 												Motorola Cases
 											</a>
 										</li>
@@ -840,7 +1152,7 @@ CQuotient.getCQUserId = function () {
 									
 									
 										<li>
-											<a href="http://www.speckproducts.com/kindle.html" class="spbnd-sb090 ir" title="Kindle Cases">
+											<a href="/kindle.html" class="spbnd-sb090 ir" title="Kindle Cases">
 												Kindle Cases
 											</a>
 										</li>
@@ -855,7 +1167,7 @@ CQuotient.getCQUserId = function () {
 									
 									
 										<li>
-											<a href="http://www.speckproducts.com/asus.html" class="spbnd-sb120 ir" title="Asus Cases">
+											<a href="/asus.html" class="spbnd-sb120 ir" title="Asus Cases">
 												Asus Cases
 											</a>
 										</li>
@@ -870,7 +1182,7 @@ CQuotient.getCQUserId = function () {
 									
 									
 										<li>
-											<a href="http://www.speckproducts.com/htc.html" class="spbnd-sp050 ir" title="HTC Cases">
+											<a href="/htc.html" class="spbnd-sb050 ir" title="HTC Cases">
 												HTC Cases
 											</a>
 										</li>
@@ -885,7 +1197,7 @@ CQuotient.getCQUserId = function () {
 									
 									
 										<li>
-											<a href="http://www.speckproducts.com/huawei.html" class="spbnd-sb130 ir" title="Huawei Cases">
+											<a href="/huawei.html" class="spbnd-sb130 ir" title="Huawei Cases">
 												Huawei Cases
 											</a>
 										</li>
@@ -900,7 +1212,22 @@ CQuotient.getCQUserId = function () {
 									
 									
 										<li>
-											<a href="http://www.speckproducts.com/microsoft.html" class="spbnd-sb110 ir" title="Microsoft Cases">
+											<a href="/zte.html" class="spbnd-sb140 ir" title="ZTE Cases">
+												ZTE Cases
+											</a>
+										</li>
+									
+									
+								
+							 
+								
+									
+									
+									
+									
+									
+										<li>
+											<a href="/microsoft.html" class="spbnd-sb110 ir" title="Microsoft Cases">
 												Microsoft Cases
 											</a>
 										</li>
@@ -915,8 +1242,38 @@ CQuotient.getCQUserId = function () {
 									
 									
 										<li>
-											<a href="http://www.speckproducts.com/verizon.html" class="spbnd-sb080 ir" title="Verizon Cases">
+											<a href="/verizon.html" class="spbnd-sb080 ir" title="Verizon Cases">
 												Verizon Cases
+											</a>
+										</li>
+									
+									
+								
+							 
+								
+									
+									
+									
+									
+									
+										<li>
+											<a href="/chromebooks.html" class="chromebook-cases ir" title="Chromebook Cases">
+												Chromebook Cases
+											</a>
+										</li>
+									
+									
+								
+							 
+								
+									
+									
+									
+									
+									
+										<li>
+											<a href="/red.html" class="spbnd-sb200 ir" title="Red Cases">
+												Red Cases
 											</a>
 										</li>
 									
@@ -933,7 +1290,7 @@ CQuotient.getCQUserId = function () {
 			 
 				
 					<li class="mobile-top">
-							<a href="http://www.speckproducts.com/backpacks.html" class="spdev-sd070 ir ir-first" title="Bags"> 
+							<a href="/backpacks.html" class="spdev-sd070 ir ir-first" title="Bags"> 
 								Bags
 							</a>
 							<span class="mobile-arrow">&nbsp;</span>
@@ -950,7 +1307,7 @@ CQuotient.getCQUserId = function () {
 			 
 				
 					<li class="mobile-top">
-							<a href="http://www.speckproducts.com/accessories.html" class="accessories ir ir-first" title="Accessories"> 
+							<a href="/accessories.html" class="accessories ir ir-first" title="Accessories"> 
 								Accessories
 							</a>
 							<span class="mobile-arrow">&nbsp;</span>
@@ -964,7 +1321,37 @@ CQuotient.getCQUserId = function () {
 									
 									
 										<li>
-											<a href="http://www.speckproducts.com/accessories/screen-protectors.html" class="screen-protectors ir" title="Screen Protectors">
+											<a href="/accessories/grabtab.html" class="grabtab ir" title="GrabTab">
+												GrabTab
+											</a>
+										</li>
+									
+									
+								
+							 
+								
+									
+									
+									
+									
+									
+										<li>
+											<a href="/powersuite.html" class="powersuite ir" title="Power Accessories">
+												Power Accessories
+											</a>
+										</li>
+									
+									
+								
+							 
+								
+									
+									
+									
+									
+									
+										<li>
+											<a href="/accessories/screen-protectors.html" class="screen-protectors ir" title="Screen Protectors">
 												Screen Protectors
 											</a>
 										</li>
@@ -979,7 +1366,7 @@ CQuotient.getCQUserId = function () {
 									
 									
 										<li>
-											<a href="http://www.speckproducts.com/accessories/cables.html" class="cables ir" title="Cables">
+											<a href="/accessories/cables.html" class="cables ir" title="Cables">
 												Cables
 											</a>
 										</li>
@@ -994,7 +1381,22 @@ CQuotient.getCQUserId = function () {
 									
 									
 										<li>
-											<a href="http://www.speckproducts.com/accessories/screen-cleaners.html" class="screen-cleaner ir" title="Screen Cleaner">
+											<a href="/accessories/mounts.html" class="mounts ir" title="Mounts">
+												Mounts
+											</a>
+										</li>
+									
+									
+								
+							 
+								
+									
+									
+									
+									
+									
+										<li>
+											<a href="/accessories/screen-cleaners.html" class="screen-cleaner ir" title="Screen Cleaner">
 												Screen Cleaner
 											</a>
 										</li>
@@ -1029,7 +1431,7 @@ CQuotient.getCQUserId = function () {
 			 
 				
 					<li class="mobile-top">
-							<a href="http://www.speckproducts.com/speck-coupons-sales-deals-and-discounts.html" class="sale ir ir-first" title="Sale"> 
+							<a href="/speck-coupons-sales-deals-and-discounts.html" class="sale ir ir-first" title="Sale"> 
 								Sale
 							</a>
 							<span class="mobile-arrow">&nbsp;</span>
@@ -1044,6 +1446,42 @@ CQuotient.getCQUserId = function () {
 						</ul>
 						
 					</li>
+				
+			 
+				
+			 
+				
+			 
+				
+			 
+				
+			 
+				
+			 
+				
+			 
+				
+			 
+				
+			 
+				
+			 
+				
+			 
+				
+			 
+				
+			 
+				
+			 
+				
+			 
+				
+			 
+				
+			 
+				
+			 
 				
 			 
 				
@@ -1098,46 +1536,51 @@ CQuotient.getCQUserId = function () {
 
 
 
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="137d830a46fa0e81bf5abe28f8" -->
 <div class="current-country">
 <div class="selector-icon">&nbsp;</div>
 
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw61a86c76/us.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw61a86c76/us.png"></div>
 <span>United States</span></div>
 
 <div class="selector">
 <div class="continent">
 
 <a href="http://www.speckproducts.eu/dk/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwace87d4b/dk.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwace87d4b/dk.png"></div>
 <span>Denmark</span></a>
 
 <a href="http://www.speckproducts.eu/fi/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw19052c70/fi.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw19052c70/fi.png"></div>
 <span>Finland</span></a>
 
 <a href="http://www.speckproducts.fr/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwc675ce09/fr.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwc675ce09/fr.png"></div>
 <span>France</span></a>
 
 <a href="http://www.speckproducts.de/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwb2571c5c/de.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwb2571c5c/de.png"></div>
 <span>Germany</span></a>
 
 <a href="http://www.speckproducts.eu/se/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw03480b5c/se.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw03480b5c/se.png"></div>
 <span>Sweden</span></a>
 
 <a href="http://www.speckproducts.co.uk/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw0cf099e4/gb.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw0cf099e4/gb.png"></div>
 <span>United Kingdom</span></a>
 
 <a href="http://www.speckproducts.com.au/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwfebb574a/au.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwfebb574a/au.png"></div>
 <span>Australia</span></a>
 
 <a href="http://www.speckproducts.co.nz/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwd94fba1c/nz.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwd94fba1c/nz.png"></div>
 <span>New Zealand</span></a>
 </div>
 </div>
@@ -1151,6 +1594,81 @@ CQuotient.getCQUserId = function () {
 		
 </div>
 <div id="wrapper" class="pt_content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1210,16 +1728,17 @@ CQuotient.getCQUserId = function () {
 	<!-- Windowshade Slot CSS -->
 	<style type="text/css">
 		/* DESKTOP */
-		.header-top-banner { background: #151436 url('http://www.speckproducts.com/on/demandware.static/-/Sites/default/dw93f356d0/speck/windowshade/ws_201610_lights_sale-bg.jpg') no-repeat top center; }
-		.windowshade-slot { padding: 15px 5%; }
-		.windowshade-slot h3 { color: #fff; font-family: "proxima-nova-alt",Arial,sans-serif; line-height: 1; font-weight: bold; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px; }
-		.windowshade-slot h3 span {  }
-		.windowshade-slot h3 em { font-style: normal; font-weight: bold; }
-		.windowshade-slot h3 b { font-weight: normal; }
-		.windowshade-slot h3 .terms { color: rgba(255,255,255,0.5); }
-		.windowshade-slot h3 a { text-decoration: underline; }
-		.windowshade-slot p { color: #fff; padding: 2px 8px 0; font-weight: normal; font-style: italic; font-size: 13px; line-height: 14px; }
-		.windowshade-slot sup { position: relative; vertical-align: baseline; top: -0.2em; }
+		.header-top-banner { background-color: #09c; }
+		.windowshade-slot { padding: 8px 0 4px; }
+		.windowshade-slot h2 { color: #fff; font-family: "proxima-nova-alt",Arial,sans-serif; line-height: 1; font-weight: normal; font-size: 1em; display: inline-block; margin-top: 0; vertical-align: top; text-transform: uppercase; }
+		.windowshade-slot h2 span { text-transform: uppercase; font-weight: bold; color: #ffff80; }
+		.windowshade-slot a { display: inline-block; }
+		.windowshade-slot a button { display: block; border: 1px solid #ccc; border-radius: 4px; color: #09c; font-size: 80%; font-weight: bold; margin: 0 0 6% 12%; padding: 8% 14%; line-height: 1; white-space: pre; background-color: #fff; }
+		@-moz-document url-prefix() { 
+			.windowshade-slot { padding: 8px 0 2px; }
+			.windowshade-slot h2 {  }
+			.windowshade-slot a button { padding: 5% 14%; margin-bottom: 2%; }
+		}
 	    /* TABLET LANDSCAPE AND PORTRAIT */
 	    @media only all and (max-width: 1280px) and (min-width: 769px) {
 			.header-top-banner { display: block !important; }
@@ -1229,22 +1748,15 @@ CQuotient.getCQUserId = function () {
 	    }
 	    /* TABLET PORTRAIT */
 	    @media only all and (max-width: 1024px) and (min-width: 769px) {
-			.header-top-banner { background-size: 200% 100%; }
-			.windowshade-slot h3 { font-size: 2.5vw; }
-			.windowshade-slot p { font-size: 1.5vw; }
 	    }
 	    /* PHONE */
 	    @media only all and (max-width: 768px) {
-			.header-top-banner { display: block !important; background-size: 200% 100%; }
-			.windowshade-slot h3 { font-size: 4vw; line-height: 1.2; }
-			.windowshade-slot h3 em { display: block; }
-			.windowshade-slot p { font-size: 3vw; line-height: 1.4; }
+			.header-top-banner { display: block !important; }
 	    }
 	</style><!-- End windowshade Slot CSS -->
 
 	<div class="windowshade-slot">
-		<h3>Free Two-Day Shipping For iPhone 8/8 Plus &amp; iPhone X cases<sup>*</sup></h3>
-		<p><sup>*</sup>Choose two-day shipping at checkout. <!-- Offer valid until 10/1/2017, 12:00 am PST. --></p>
+		<h2><strong>Free U.S. Shipping &amp; $5 Two-Day Shipping</strong>!</h2>
 	</div>
 
 <!-- End Windowshade Slot -->
@@ -1260,7 +1772,7 @@ CQuotient.getCQUserId = function () {
 <span class="lines"></span>
 </div>
 <!-- branding logo -->
-<a href="http://www.speckproducts.com/home" class="primary-logo mobile-logo">
+<a href="/home" class="primary-logo mobile-logo">
 <img src="/on/demandware.static/Sites-speck-Site/-/default/dw35018ab4/images/mobile-logo.jpg" alt="Speck">
 </a>
 <div class="header-wrapper-right">
@@ -1272,46 +1784,51 @@ CQuotient.getCQUserId = function () {
 
 
 
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="137d830a46fa0e81bf5abe28f8" -->
 <div class="current-country">
 <div class="selector-icon">&nbsp;</div>
 
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw61a86c76/us.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw61a86c76/us.png"></div>
 <span>United States</span></div>
 
 <div class="selector">
 <div class="continent">
 
 <a href="http://www.speckproducts.eu/dk/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwace87d4b/dk.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwace87d4b/dk.png"></div>
 <span>Denmark</span></a>
 
 <a href="http://www.speckproducts.eu/fi/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw19052c70/fi.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw19052c70/fi.png"></div>
 <span>Finland</span></a>
 
 <a href="http://www.speckproducts.fr/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwc675ce09/fr.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwc675ce09/fr.png"></div>
 <span>France</span></a>
 
 <a href="http://www.speckproducts.de/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwb2571c5c/de.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwb2571c5c/de.png"></div>
 <span>Germany</span></a>
 
 <a href="http://www.speckproducts.eu/se/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw03480b5c/se.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw03480b5c/se.png"></div>
 <span>Sweden</span></a>
 
 <a href="http://www.speckproducts.co.uk/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw0cf099e4/gb.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw0cf099e4/gb.png"></div>
 <span>United Kingdom</span></a>
 
 <a href="http://www.speckproducts.com.au/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwfebb574a/au.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwfebb574a/au.png"></div>
 <span>Australia</span></a>
 
 <a href="http://www.speckproducts.co.nz/home/" class="country">
-<div class="flag-icon"><img alt="" src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwd94fba1c/nz.png"></div>
+<div class="flag-icon"><img alt="" src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwd94fba1c/nz.png"></div>
 <span>New Zealand</span></a>
 </div>
 </div>
@@ -1329,21 +1846,101 @@ CQuotient.getCQUserId = function () {
 
 
 
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="50ab70b5f1087a54dd8e07b7e8" -->
-<li><a class="menu-utility-toplvl" href="http://www.speckproducts.com/company.html" title="About Speck">About Speck</a></li>
-<li><a class="menu-utility-toplvl" href="http://www.speckproducts.com/b2b.html" title="Business Solutions">Business Solutions</a></li>
+<li><a class="menu-utility-toplvl" href="https://www.speckproducts.com/company.html" title="About Speck">About Speck</a></li>
+<li><a class="menu-utility-toplvl" href="https://www.speckproducts.com/b2b/b2b.html" title="Business Solutions">Business Solutions</a></li>
 <li class="topmenu_account"><a class="menu-utility-toplvl" href="https://www.speckproducts.com/login" title="Account">Account</a></li>
-<li><a class="menu-utility-toplvl" href="http://www.speckproducts.com/contact-us" title="Support">Support</a></li>
+<li><a class="menu-utility-toplvl" href="https://www.speckproducts.com/contact-us" title="Support">Support</a></li>
 </div> <!-- End content-asset -->
 
 
 
 
 
+
 </ul>
+
+
 <!-- utility menu -->
+
 </div>
+
 <div id="mini-cart">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1406,6 +2003,8 @@ CQuotient.getCQUserId = function () {
 
 
 
+
+
 <div class="mini-cart-total">
 
 <span class="mini-cart-empty">0</span>
@@ -1417,9 +2016,13 @@ CQuotient.getCQUserId = function () {
 
 
 
+
+
+
 </div>
 <div class="clear">&nbsp;</div>
 </div>
+
 <div class="header-banner">
 
 	 
@@ -1433,7 +2036,7 @@ CQuotient.getCQUserId = function () {
 </div>
 <div id="navigation" role="navigation">
 <div id="navDiv">
-<a href="http://www.speckproducts.com/home" class="primary-logo desktop-logo">
+<a href="/home" class="primary-logo desktop-logo">
 <img data-src="/on/demandware.static/Sites-speck-Site/-/default/dw4e6f8ee6/images/logo.png" alt="Speck">
 </a>
 <!-- category navigation -->
@@ -1483,10 +2086,88 @@ CQuotient.getCQUserId = function () {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <ul class="menu-category level-1 clearfix">
 
+
 <li class="toplevel-li first ">
-<a href="http://www.speckproducts.com/apple.html" class="level-1 ">
+<a href="/apple.html" class="level-1 ">
 Apple
 </a>
 
@@ -1511,7 +2192,7 @@ Apple
 
 
 <li class="multiple first">
-<a href="http://www.speckproducts.com/apple/iphone-cases.html" class="level-2">
+<a href="/apple/iphone-cases.html" class="level-2">
 iPhone Cases
 </a>
 <div class="level-3">
@@ -1519,7 +2200,35 @@ iPhone Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-x-cases.html">
+
+<a href="/apple/iphone-cases/iphone-xs-cases.html">
+iPhone XS Cases
+</a>
+</li>
+
+
+
+<li>
+
+<a href="/apple/iphone-cases/iphone-xs-max-cases.html">
+iPhone XS Max Cases
+</a>
+</li>
+
+
+
+<li>
+
+<a href="/apple/iphone-cases/iphone-xr-cases.html">
+iPhone XR Cases
+</a>
+</li>
+
+
+
+<li>
+
+<a href="/apple/iphone-cases/iphone-x-cases.html">
 iPhone X Cases
 </a>
 </li>
@@ -1527,7 +2236,8 @@ iPhone X Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-8-cases.html">
+
+<a href="/apple/iphone-cases/iphone-8-cases.html">
 iPhone 8 Cases
 </a>
 </li>
@@ -1535,7 +2245,8 @@ iPhone 8 Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-8-plus-cases.html">
+
+<a href="/apple/iphone-cases/iphone-8-plus-cases.html">
 iPhone 8 Plus Cases
 </a>
 </li>
@@ -1543,7 +2254,8 @@ iPhone 8 Plus Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-7-cases.html">
+
+<a href="/apple/iphone-cases/iphone-7-cases.html">
 iPhone 7 Cases
 </a>
 </li>
@@ -1551,7 +2263,8 @@ iPhone 7 Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-7-plus-cases.html">
+
+<a href="/apple/iphone-cases/iphone-7-plus-cases.html">
 iPhone 7 Plus Cases
 </a>
 </li>
@@ -1559,7 +2272,8 @@ iPhone 7 Plus Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-6-cases.html">
+
+<a href="/apple/iphone-cases/iphone-6-cases.html">
 iPhone 6s/6 Cases
 </a>
 </li>
@@ -1567,7 +2281,8 @@ iPhone 6s/6 Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-6-plus-cases.html">
+
+<a href="/apple/iphone-cases/iphone-6-plus-cases.html">
 iPhone 6s Plus/6 Plus Cases
 </a>
 </li>
@@ -1575,18 +2290,23 @@ iPhone 6s Plus/6 Plus Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-se-cases.html">
+
+<a href="/apple/iphone-cases/iphone-se-cases.html">
 iPhone SE/5s/5 Cases
 </a>
 </li>
 
 
 
-<li>
-<a href="http://www.speckproducts.com/apple/iphone-cases/iphone-5c-cases.html">
-iPhone 5c Cases
-</a>
-</li>
+
+
+
+
+
+
+
+
+
 
 
 </ul>
@@ -1601,7 +2321,7 @@ iPhone 5c Cases
 
 
 <li class="multiple">
-<a href="http://www.speckproducts.com/apple/ipad-cases.html" class="level-2">
+<a href="/apple/ipad-cases.html" class="level-2">
 iPad Cases
 </a>
 <div class="level-3">
@@ -1609,14 +2329,7 @@ iPad Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/ipad-cases/9-7-inch-ipad-cases-2017.html">
-iPad Cases (2017)
-</a>
-</li>
 
-
-
-<li>
 <a href="/apple/ipad-cases/ipad-pro-cases.html">
 iPad Pro Cases
 </a>
@@ -1624,6 +2337,33 @@ iPad Pro Cases
 
 
 
+<li>
+
+<a href="/apple/ipad-cases/9-7-inch-ipad-cases-2017.html">
+9.7-inch iPad Cases (2018/2017)
+</a>
+</li>
+
+
+
+<li>
+
+<a href="/apple/ipad-cases/ipad-pro-12-9-cases-2018.html">
+12.9-inch iPad Pro Cases (2018)
+</a>
+</li>
+
+
+
+<li>
+
+<a href="/apple/ipad-cases/ipad-pro-11-cases.html">
+11-inch iPad Pro Cases
+</a>
+</li>
+
+
+
 
 
 
@@ -1631,7 +2371,8 @@ iPad Pro Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/ipad-cases/ipad-air-2-cases.html">
+
+<a href="/apple/ipad-cases/ipad-air-2-cases.html">
 iPad Air 2 Cases
 </a>
 </li>
@@ -1639,7 +2380,8 @@ iPad Air 2 Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/ipad-cases/ipad-air-cases.html">
+
+<a href="/apple/ipad-cases/ipad-air-cases.html">
 iPad Air Cases
 </a>
 </li>
@@ -1647,7 +2389,8 @@ iPad Air Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/ipad-cases/ipad-mini-4-cases.html">
+
+<a href="/apple/ipad-cases/ipad-mini-4-cases.html">
 iPad mini 4 Cases
 </a>
 </li>
@@ -1655,7 +2398,8 @@ iPad mini 4 Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/ipad-cases/ipad-mini-3-cases.html">
+
+<a href="/apple/ipad-cases/ipad-mini-3-cases.html">
 iPad mini 3/2/1 Cases
 </a>
 </li>
@@ -1663,7 +2407,8 @@ iPad mini 3/2/1 Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/ipad-cases/ipad-4-cases.html">
+
+<a href="/apple/ipad-cases/ipad-4-cases.html">
 iPad 4, iPad 3, &amp; iPad 2 Cases
 </a>
 </li>
@@ -1681,7 +2426,7 @@ iPad 4, iPad 3, &amp; iPad 2 Cases
 
 
 <li class="multiple">
-<a href="http://www.speckproducts.com/apple/macbook-cases.html" class="level-2">
+<a href="/apple/macbook-cases.html" class="level-2">
 MacBook Cases
 </a>
 <div class="level-3">
@@ -1689,31 +2434,8 @@ MacBook Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/macbook-cases/macbook-pro-2016-cases.html">
-MacBook Pro 2016 Cases
-</a>
-</li>
 
-
-
-<li>
-<a href="http://www.speckproducts.com/apple/macbook-cases/macbook-pro-retina-cases.html">
-MacBook Pro Retina Cases
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.speckproducts.com/apple/macbook-cases/macbook-air-cases.html">
-MacBook Air Cases
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.speckproducts.com/apple/macbook-cases/macbook-pro-cases.html">
+<a href="/apple/macbook-cases/macbook-pro-cases.html">
 MacBook Pro Cases
 </a>
 </li>
@@ -1721,7 +2443,35 @@ MacBook Pro Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/macbook-cases/macbook-12-cases.html">
+
+<a href="/apple/macbook-cases/macbook-pro-retina-cases.html">
+MacBook Pro Retina Cases
+</a>
+</li>
+
+
+
+<li>
+
+<a href="/apple/macbook-cases/macbook-air-cases.html">
+MacBook Air Cases
+</a>
+</li>
+
+
+
+<li>
+
+<a href="/apple/macbook-cases/macbook-pro-cases-superdrive.html">
+MacBook Pro Cases (SuperDrive)
+</a>
+</li>
+
+
+
+<li>
+
+<a href="/apple/macbook-cases/macbook-12-cases.html">
 MacBook 12" Cases
 </a>
 </li>
@@ -1739,7 +2489,7 @@ MacBook 12" Cases
 
 
 <li class="multiple">
-<a href="http://www.speckproducts.com/apple/watch-cases.html" class="level-2">
+<a href="/apple/watch-cases.html" class="level-2">
 Apple Watch Cases
 </a>
 <div class="level-3">
@@ -1747,7 +2497,8 @@ Apple Watch Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/watch-cases/apple-watch-cases.html">
+
+<a href="/apple/watch-cases/apple-watch-cases.html">
 Apple Watch Cases
 </a>
 </li>
@@ -1765,7 +2516,7 @@ Apple Watch Cases
 
 
 <li class="multiple last">
-<a href="http://www.speckproducts.com/apple/ipod-touch-cases.html" class="level-2">
+<a href="/apple/ipod-touch-cases.html" class="level-2">
 iPod Touch Cases
 </a>
 <div class="level-3">
@@ -1773,7 +2524,8 @@ iPod Touch Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/ipod-touch-cases/ipod-touch-5g-cases.html">
+
+<a href="/apple/ipod-touch-cases/ipod-touch-5g-cases.html">
 iPod Touch 6G &amp; 5G Cases
 </a>
 </li>
@@ -1781,7 +2533,8 @@ iPod Touch 6G &amp; 5G Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/apple/ipod-touch-cases/ipod-touch-5g-16gb-cases.html">
+
+<a href="/apple/ipod-touch-cases/ipod-touch-5g-16gb-cases.html">
 iPod Touch 5G (no camera) Cases
 </a>
 </li>
@@ -1800,83 +2553,22 @@ iPod Touch 5G (no camera) Cases
 
 	 
 
-
-	
-
-<div class="html-slot-container">
-
-
-<!-- Start NavBox CSS -->
-<style type="text/css">
-    /* DESKTOP */ 
-    .header-wrapper #navigation ul.level-1 li div.level-2 .menu-wrapper .flyoutmenu_assets .flyoutmenu_asset { width: 32.667% !important; margin-left: 1%; }
-    .header-wrapper #navigation ul.level-1 li div.level-2 .menu-wrapper .flyoutmenu_assets .flyoutmenu_assets_left { margin-left: 0 !important; }
-    .navbox a { margin-left: 0 !important; }
-    .navbox a img { border-radius: 4px; width: auto; }
-    /* TABLET LANDSCAPE */
-    @media only all and (max-width: 1280px) and (min-width: 1025px) {
-    	.navbox a img { width: 100%; }
-    }
-    /* TABLET PORTRAIT */
-    @media only all and (max-width: 1024px) and (min-width: 769px) {
-        .navbox a img { width: 100%; }
-    }
-    /* PHONE */
-    @media only all and (max-width: 768px) {
-    }
-</style><!-- End NavBox CSS -->
-
-<div class="navbox">
-	<a href="http://www.speckproducts.com/search?q=%5C%22presidio%20clear%20iphone%5C%22">
-		<img alt="Presidio Clear for iPhone 7 - Next Generation of the Number One Best-Selling Clear Case in the U.S." src="http://www.speckproducts.com/on/demandware.static/-/Sites/default/dw47ed8d28/speck/nav/navbox_ip7_pr-clr_01.jpg" title="">
-	</a>
-</div>
-
-
-</div> 
 	
 </div>
 <div class="flyoutmenu_asset flyoutmenu_assets_center">
 
 	 
 
-
-	
-
-<div class="html-slot-container">
-
-
-<div class="navbox">
-	<a href="http://www.speckproducts.com/search?q=print">
-		<img alt="Presidio Clear plus Print for iPhone 7 " src="http://www.speckproducts.com/on/demandware.static/-/Sites/default/dw155de687/speck/nav/navbox_ip7_pr-clr-pnt_01.jpg" title="">
-	</a>
-</div>
-
-
-</div> 
 	
 </div>
 <div class="flyoutmenu_asset flyoutmenu_assets_right">
 
 	 
 
-
-	
-
-<div class="html-slot-container">
-
-
-<div class="navbox">
-	<a href="http://www.speckproducts.com/search?q=%5C%22presidio%20grip%20iphone%5C%22">
-		<img alt="Presidio Grip for iPhone 7" src="http://www.speckproducts.com/on/demandware.static/-/Sites/default/dwe1237f34/speck/nav/navbox_ip7_pr-grip_01.jpg" title="">
-	</a>
-</div>
-
-
-</div> 
 	
 </div>
 </div>
+
 
 </div>
 <div class="clear">&nbsp;</div>
@@ -1887,7 +2579,7 @@ iPod Touch 5G (no camera) Cases
 </li>
 
 <li class="toplevel-li  ">
-<a href="http://www.speckproducts.com/samsung.html" class="level-1 ">
+<a href="/samsung.html" class="level-1 ">
 Samsung
 </a>
 
@@ -1912,7 +2604,7 @@ Samsung
 
 
 <li class="multiple first">
-<a href="http://www.speckproducts.com/samsung/smartphone-cases.html" class="level-2">
+<a href="/samsung/smartphone-cases.html" class="level-2">
 Samsung Smartphone Cases
 </a>
 <div class="level-3">
@@ -1920,7 +2612,35 @@ Samsung Smartphone Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-note8-cases.html">
+
+<a href="/samsung/smartphone-cases/samsung-galaxy-note9-cases.html">
+Galaxy Note9 Cases
+</a>
+</li>
+
+
+
+<li>
+
+<a href="/samsung/smartphone-cases/samsung-galaxy-s9-cases.html">
+Galaxy S9 Cases
+</a>
+</li>
+
+
+
+<li>
+
+<a href="/samsung/smartphone-cases/samsung-galaxy-s9-plus-cases.html">
+Galaxy S9+ Cases
+</a>
+</li>
+
+
+
+<li>
+
+<a href="/samsung/smartphone-cases/samsung-galaxy-note8-cases.html">
 Galaxy Note8 Cases
 </a>
 </li>
@@ -1928,7 +2648,8 @@ Galaxy Note8 Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s8-cases.html">
+
+<a href="/samsung/smartphone-cases/samsung-galaxy-s8-cases.html">
 Galaxy S8 Cases
 </a>
 </li>
@@ -1936,7 +2657,8 @@ Galaxy S8 Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s8-plus-cases.html">
+
+<a href="/samsung/smartphone-cases/samsung-galaxy-s8-plus-cases.html">
 Galaxy S8+ Cases
 </a>
 </li>
@@ -1944,7 +2666,17 @@ Galaxy S8+ Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s7-cases.html">
+
+<a href="/samsung/smartphone-cases/samsung-galaxy-s7-active-cases.html-1">
+Galaxy S8 active Cases
+</a>
+</li>
+
+
+
+<li>
+
+<a href="/samsung/smartphone-cases/samsung-galaxy-s7-cases.html">
 Galaxy S7 Cases
 </a>
 </li>
@@ -1952,7 +2684,8 @@ Galaxy S7 Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s7-edge-cases.html">
+
+<a href="/samsung/smartphone-cases/samsung-galaxy-s7-edge-cases.html">
 Galaxy S7 edge Cases
 </a>
 </li>
@@ -1960,7 +2693,8 @@ Galaxy S7 edge Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s7-active-cases.html-2">
+
+<a href="/samsung/smartphone-cases/samsung-galaxy-s7-active-cases.html-2">
 Galaxy S7 active Cases
 </a>
 </li>
@@ -1968,66 +2702,14 @@ Galaxy S7 active Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-note-5-cases.html">
+
+<a href="/samsung/smartphone-cases/samsung-galaxy-note-5-cases.html">
 Galaxy Note5 Cases
 </a>
 </li>
 
 
 
-<li>
-<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-j3-emerge-cases.html">
-Galaxy J3 Emerge (2017) Cases
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-j3-cases.html">
-Galaxy J3 (2016) Cases
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-j7-v-cases.html">
-Galaxy J7 V Cases
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-j7-cases.html">
-Galaxy J7 Cases
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s6-cases.html">
-Galaxy S6 Cases
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s6-edge-plus-cases.html">
-Galaxy S6 edge+ Cases
-</a>
-</li>
-
-
-
-<li>
-<a href="/samsung/smartphone-cases/samsung-galaxy-s6-edge-cases/candyshell-grip-samsung-galaxy-s6-edge-cases/GS6E-CS-GRIP.html">
-Galaxy S6 Edge Cases
-</a>
-</li>
 
 
 
@@ -2035,11 +2717,20 @@ Galaxy S6 Edge Cases
 
 
 
-<li>
-<a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s7-active-cases.html-1">
-Galaxy S8 active Cases
-</a>
-</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </ul>
@@ -2054,7 +2745,7 @@ Galaxy S8 active Cases
 
 
 <li class="multiple last">
-<a href="http://www.speckproducts.com/samsung/tablet-cases.html" class="level-2">
+<a href="/samsung/tablet-cases.html" class="level-2">
 Samsung Tablet Cases
 </a>
 <div class="level-3">
@@ -2062,7 +2753,8 @@ Samsung Tablet Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/samsung/tablet-cases/samsung-galaxy-tab-a-cases.html">
+
+<a href="/samsung/tablet-cases/samsung-galaxy-tab-a-cases.html">
 Galaxy Tab A Cases
 </a>
 </li>
@@ -2070,7 +2762,8 @@ Galaxy Tab A Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/samsung/tablet-cases/samsung-galaxy-tab-e-cases.html">
+
+<a href="/samsung/tablet-cases/samsung-galaxy-tab-e-cases.html">
 Galaxy Tab E Cases
 </a>
 </li>
@@ -2078,7 +2771,8 @@ Galaxy Tab E Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/samsung/tablet-cases/samsung-galaxy-tab-s-cases.html">
+
+<a href="/samsung/tablet-cases/samsung-galaxy-tab-s-cases.html">
 Galaxy Tab S Cases
 </a>
 </li>
@@ -2086,7 +2780,8 @@ Galaxy Tab S Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/samsung/tablet-cases/samsung-galaxy-tab-4-cases.html">
+
+<a href="/samsung/tablet-cases/samsung-galaxy-tab-4-cases.html">
 Galaxy Tab 4 Cases
 </a>
 </li>
@@ -2094,7 +2789,8 @@ Galaxy Tab 4 Cases
 
 
 <li>
-<a href="http://www.speckproducts.com/samsung/tablet-cases/samsung-galaxy-tab-3-cases.html">
+
+<a href="/samsung/tablet-cases/samsung-galaxy-tab-3-cases.html">
 Galaxy Tab 3 Cases
 </a>
 </li>
@@ -2102,10 +2798,13 @@ Galaxy Tab 3 Cases
 
 
 <li>
+
 <a href="/samsung/tablet-cases/samsung-galaxy-note-pro-12.2-cases/stylefolio-samsung-galaxy-note-pro-12.2-cases/GNP-122-SF.html">
 Galaxy Note Pro 12.2 Cases
 </a>
 </li>
+
+
 
 
 </ul>
@@ -2137,6 +2836,7 @@ Galaxy Note Pro 12.2 Cases
 </div>
 </div>
 
+
 </div>
 <div class="clear">&nbsp;</div>
 </div>
@@ -2146,7 +2846,7 @@ Galaxy Note Pro 12.2 Cases
 </li>
 
 <li class="toplevel-li  ">
-<a href="http://www.speckproducts.com/speck-cases-and-covers.html" class="level-1 ">
+<a href="/speck-cases-and-covers.html" class="level-1 ">
 All Brands
 </a>
 
@@ -2197,7 +2897,7 @@ Samsung Cases
 
 
 <li class="single">
-<a href="http://www.speckproducts.com/google.html" class="level-2 single">
+<a href="/google.html" class="level-2 single">
 Google Cases
 </a>
 </li>
@@ -2210,7 +2910,7 @@ Google Cases
 
 
 <li class="single">
-<a href="http://www.speckproducts.com/lg.html" class="level-2 single">
+<a href="/lg.html" class="level-2 single">
 LG Cases
 </a>
 </li>
@@ -2223,7 +2923,7 @@ LG Cases
 
 
 <li class="single">
-<a href="http://www.speckproducts.com/motorola.html" class="level-2 single">
+<a href="/motorola.html" class="level-2 single">
 Motorola Cases
 </a>
 </li>
@@ -2238,7 +2938,7 @@ Motorola Cases
 
 
 <li class="single">
-<a href="http://www.speckproducts.com/kindle.html" class="level-2 single">
+<a href="/kindle.html" class="level-2 single">
 Kindle Cases
 </a>
 </li>
@@ -2251,7 +2951,7 @@ Kindle Cases
 
 
 <li class="single">
-<a href="http://www.speckproducts.com/asus.html" class="level-2 single">
+<a href="/asus.html" class="level-2 single">
 Asus Cases
 </a>
 </li>
@@ -2264,7 +2964,7 @@ Asus Cases
 
 
 <li class="single">
-<a href="http://www.speckproducts.com/htc.html" class="level-2 single">
+<a href="/htc.html" class="level-2 single">
 HTC Cases
 </a>
 </li>
@@ -2277,7 +2977,7 @@ HTC Cases
 
 
 <li class="single">
-<a href="http://www.speckproducts.com/huawei.html" class="level-2 single">
+<a href="/huawei.html" class="level-2 single">
 Huawei Cases
 </a>
 </li>
@@ -2290,8 +2990,8 @@ Huawei Cases
 
 
 <li class="single">
-<a href="http://www.speckproducts.com/microsoft.html" class="level-2 single">
-Microsoft Cases
+<a href="/zte.html" class="level-2 single">
+ZTE Cases
 </a>
 </li>
 
@@ -2304,9 +3004,48 @@ Microsoft Cases
 
 
 
-<li class="single last">
-<a href="http://www.speckproducts.com/verizon.html" class="level-2 single">
+<li class="single">
+<a href="/microsoft.html" class="level-2 single">
+Microsoft Cases
+</a>
+</li>
+
+
+
+
+
+
+
+
+<li class="single">
+<a href="/verizon.html" class="level-2 single">
 Verizon Cases
+</a>
+</li>
+
+
+
+
+
+
+
+
+<li class="single">
+<a href="/chromebooks.html" class="level-2 single">
+Chromebook Cases
+</a>
+</li>
+
+
+
+
+
+
+
+
+<li class="single last">
+<a href="/red.html" class="level-2 single">
+Red Cases
 </a>
 </li>
 
@@ -2335,6 +3074,7 @@ Verizon Cases
 </div>
 </div>
 
+
 </div>
 <div class="clear">&nbsp;</div>
 </div>
@@ -2344,7 +3084,7 @@ Verizon Cases
 </li>
 
 <li class="toplevel-li  ">
-<a href="http://www.speckproducts.com/backpacks.html" class="level-1 ">
+<a href="/backpacks.html" class="level-1 ">
 Bags
 </a>
 
@@ -2359,7 +3099,7 @@ Bags
 </li>
 
 <li class="toplevel-li  ">
-<a href="http://www.speckproducts.com/accessories.html" class="level-1 ">
+<a href="/accessories.html" class="level-1 ">
 Accessories
 </a>
 
@@ -2384,7 +3124,33 @@ Accessories
 
 
 <li class="single first">
-<a href="http://www.speckproducts.com/accessories/screen-protectors.html" class="level-2 single">
+<a href="/accessories/grabtab.html" class="level-2 single">
+GrabTab
+</a>
+</li>
+
+
+
+
+
+
+
+
+<li class="single">
+<a href="/powersuite.html" class="level-2 single">
+Power Accessories
+</a>
+</li>
+
+
+
+
+
+
+
+
+<li class="single">
+<a href="/accessories/screen-protectors.html" class="level-2 single">
 Screen Protectors
 </a>
 </li>
@@ -2397,7 +3163,7 @@ Screen Protectors
 
 
 <li class="single">
-<a href="http://www.speckproducts.com/accessories/cables.html" class="level-2 single">
+<a href="/accessories/cables.html" class="level-2 single">
 Cables
 </a>
 </li>
@@ -2409,8 +3175,23 @@ Cables
 
 
 
+<li class="single">
+<a href="/accessories/mounts.html" class="level-2 single">
+Mounts
+</a>
+</li>
+
+
+
+</ul><ul class="level-2">
+
+
+
+
+
+
 <li class="single last">
-<a href="http://www.speckproducts.com/accessories/screen-cleaners.html" class="level-2 single">
+<a href="/accessories/screen-cleaners.html" class="level-2 single">
 Screen Cleaner
 </a>
 </li>
@@ -2418,6 +3199,7 @@ Screen Cleaner
 
 </ul>
 <div class="clear">&nbsp;</div>
+
 
 </div>
 <div class="clear">&nbsp;</div>
@@ -2443,7 +3225,7 @@ Blog
 </li>
 
 <li class="toplevel-li  last">
-<a href="http://www.speckproducts.com/speck-coupons-sales-deals-and-discounts.html" class="level-1 ">
+<a href="/speck-coupons-sales-deals-and-discounts.html" class="level-1 ">
 Sale
 </a>
 
@@ -2486,26 +3268,45 @@ Sale
 
 <div id="main" role="main" class="full-width clearfix">
 
-<div id="browser-check">
-<noscript>
-<div class="browser-compatibility-alert">
-<p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>
-</div>
-</noscript>
-</div>
-
-
 <div class="breadcrumb">
 <div class="breadcrumb-wrapper">
 <h1>
-<a href="http://www.speckproducts.com" title="Home" class="breadcrumb-first">Home</a>
+<a href="http://www.speckproducts.com" title="Home" class="breadcrumb-first breadcrumb-dmp">Home</a>
 
-<span>Privacy Policy</span>
+<span class="breadcrumb-dmp">Privacy Policy</span>
 
 </h1>
 </div>
 </div><!-- END: breadcrumb -->
+
 <div id="primary" class="primary-content">
+
+
+
+
+
+
+
+
+
+	
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			dataLayer.push({
+				google_tag_params: {
+					ecomm_pagetype: 'other'
+				}
+			});
+		</script>
+	
+
+
+
+
+
+
+
+
 
 
 
@@ -2525,16 +3326,17 @@ Sale
         /* BODY */
         #primary { padding-bottom: 4em; }
         #primary h2 { color: #0099cc; font-size: 2.5em; line-height: 1.2; margin: 1em 0 0.5em; }
-        #primary h3 { color: #666; font-size: 1.8em; line-height: 1.2; margin: 1em 0 8px; }
+        #primary h3 { color: #666; font-size: 1.8em; line-height: 1.2; margin: 2em 0 8px; }
         #primary h3.subline { display: block; color: #999; margin-top: -8px; margin-bottom: 0.8em; font-weight: normal; }
-        #primary h4 { color: #666; font-size: 1.2em; line-height: 1.2; margin: 2em 0 4px; }
+        #primary h4 { color: #666; font-size: 1.2em; line-height: 1.2; margin: 1em 0 4px; }
         #primary h3.underline, #primary h4.underline { border-bottom: 1px solid #ccc; }
         #primary p, #primary ul, #primary ul li, #primary ol, #primary ol li, #primary dl, #primary dl dt, #primary dl dd { color: #666; font-size: 16px; line-height: 1.4; }
-        #primary p { margin: 0 0 1em 0 !important; }
+        #primary p { margin: 1em 0 0 0 !important; }
         #primary a, #primary a:visited { color: #0099cc; }        
         #primary a.scrollup { display: block; padding: 0.25em 0 2em; }
-        #primary ul, #primary ol, #primary dl { margin-left: 1em; padding-bottom: 0.4em; }
+        #primary ul, #primary ol, #primary dl { margin-left: 1em; padding-bottom: 0; margin-top: 1em; }
         #primary li, #primary dt, #primary dd { margin-bottom: 0.6em;}
+        #primary li:last-of-type { margin-bottom: 0; }
         #primary dt { margin-left: -1em; }
         #primary dd ~ dt { margin-top: 2em; }
         #primary ul li, #primary dl dd { display: list-item; list-style: disc; }
@@ -2577,6 +3379,7 @@ Sale
     }
     /* PHONE */
     @media only all and (max-width: 767px) {
+        #primary { padding-bottom: 4em !important; }
         #primary div img { width: 100%; }
     }
 
@@ -2597,53 +3400,107 @@ Sale
 </style><!-- End Page CSS -->
 
 <h2>Privacy Policy</h2>
-<p>Speck Products (“Speck,” “we,” “our” or “us”) values our customers’ right to privacy. Speck’s Privacy Policy (“Privacy Policy” or “Policy”) is designed to help you understand how we collect, secure and use the information we gather at SpeckProducts.com (the “Website”).  We will periodically update our Website without prior notice in an ongoing effort to enhance features and services for our customers. We recommend that you come back and review our Privacy Policy regularly.</p>
-<h3>SECTION 1 – WHAT INFORMATION IS COLLECTED ONLINE AND HOW INFORMATION IS USED</h3>
-<p>When you purchase something from our Website as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.</p>
-<p>When you browse our Website, we also automatically receive your computer’s Internet protocol (IP) address in order to provide us with information that helps us learn about your browser, operating system and location.</p>
-<p>By providing us with your email, you may receive periodic emails from us with new product announcements, events or promotions.  If you would like to stop receiving these emails or update your information, please email us at <a href="mailto:customerservice@speckproducts.com" target="blank">customerservice@speckproducts.com</a> and in the subject line please write “Unsubscribe from Speck” or “Information Update”.  We do not sell our customers’ email information to any third parties (except if we are required legally to do so).</p>
-<p>We use our own cookies, pixel tags and other tracking technologies to help determine which of our ads are shown to you on other websites. To opt out of this targeted online advertising by Speck, please visit <a href="http://www.networkadvertising.org/choices/" target="_blank">http://www.networkadvertising.org/choices/</a> for more information.</p>
-<p>We also work with third-party companies that use their own tracking technologies (including, among other things, cookies and pixel tags) on our Website in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications. These companies use this information to determine which ads you see on third-party websites and applications. To understand your options, including how to opt out of receiving these tailored advertisements, please visit <a href="http://www.aboutads.info/choices" target="_blank">http://www.aboutads.info/choices</a>.</p>
-<p>Please note that even if you opt-out, these tracking technologies may still collect data and you will still see ads, but they will not be targeted based upon the information collected through these tracking technologies.</p>
-<h3>SECTION 2 – HOW INFORMATION IS PROTECTED</h3>
-<p>To protect your personal information, we take reasonable precautions and follow industry practices to prevent your information from being inappropriately lost, misused, accessed, disclosed, altered or destroyed.</p>
-<p>If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all Payment Card Industry Data Security Standard (PCI-DSS) requirements and implement additional generally accepted industry standards.</p>
-<p>If you choose a direct payment gateway to complete your purchase, then CyberSource stores your credit card data. It is encrypted through PCI-DSS. Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.</p>
-<p>All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.</p>
-<p>PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.</p>
-<h3>SECTION 3 – USE OF COOKIES AND OTHER TECHNOLOGIES</h3>
-<p>Our Website uses cookies, pixel tags and other tracking technologies to help enable you to shop on our Website. These tracking technologies may be used in a variety of ways to enhance or personalize your online browsing and shopping experience. These technologies may also be used to determine the ads you see on our Website and on other sites. For information about targeted online advertising and your choices related to it, please see Section 1.</p>
-<p>For example, we may use cookies to enable you to use certain Website features, remember the items in your shopping cart, store your preferences, recognize you when you return to our Website, track your orders, and monitor and maintain information about your use of our Website. Cookies, or some other technology, may also be used to collect transaction information needed by a loyalty program to which you have authorized us to provide your personal information. We may also use our own cookies or some other technology to help determine which of our ads are shown to you on other websites.</p>
-<p>You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on our Website.</p>
-<p>Cookies, pixel tags and other tracking technologies help us better understand your shopping needs and preferences. These technologies tell us which parts of our Website you have visited, allow us to analyze our customers’ online behavior, measure the effectiveness of our advertisements, and provide you consistent and personalized services and experiences when visiting our Website. We work with third party service providers that help us track, collect and analyze this information.</p>
-<p>These technologies may also be used to collect “click-stream data”, which includes information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the Website and our online ads.</p>
-<p>Pixel tags or other technologies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.</p>
-<p>We may combine the information we collect through these technologies with other information we have collected from and about you and use it as described in this Policy.</p>
-<h3>SECTION 4 – HOW TO OPT OUT</h3>
-<p><strong>A. How do you get my consent?</strong></p>
-<p>When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we infer that you consent to our collecting this information and using it for that specific reason only.</p>
-<p>If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.</p>
-<p><strong>B. How do I withdraw my consent?</strong></p>
-<p>If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at <a href="mailto:customerservice@speckproducts.com" target="blank">customerservice@speckproducts.com</a> or mailing us at: Speck Products, 177 Bovet Rd. Suite 200, San Mateo, CA, 94402, United States</p>
-<h3>SECTION 5 – DISCLOSURE OF INFORMATION TO THIRD PARTIES</h3>
-<p>We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.</p>
-<p>As mentioned in Section 1, we work with third-party companies that use their own tracking technologies (including, among other things, cookies and pixel tags) on our Website in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications. These companies use this information to determine which ads you see on third-party websites and applications.</p>
-<p>In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.</p>
-<p>However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.</p>
-<p>In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.</p>
-<p>As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.</p>
-<p>Once you leave our store’s Website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our Website’s Terms of Service.</p>
-<h3>SECTION 6 – THIRD PARTY LINKS</h3>
-<p>When you click on links on our store, they may direct you away from our Website. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.</p>
-<h3>SECTION 7 – CHILDREN</h3>
-<p>By using this Website, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this Website. This site is not targeted towards or intended for the use of children.</p>
-<h3>SECTION 8 – CHANGES TO THE PRIVACY POLICY</h3>
-<p>We reserve the right to modify this Privacy Policy any time, so please review it frequently, and especially before you provide us with any information. Changes and clarifications will take effect immediately upon their posting on the Website. Your continued use of the Website after any changes or revisions to the Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.</p>
-<p>If Speck is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.</p>
-<h3>SECTION 9 – CALIFORNIA PRIVACY RIGHTS</h3>
-<p>California Civil Code Section 1798.83 permits Speck customers, who are California residents, to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to <a href="mailto:customerservice@speckproducts.com" target="blank">customerservice@speckproducts.com</a> or write to: Customer Service, 177 Bovet Road, Suite 200, San Mateo, CA 94402.  We will respond to requests made and provide the information within 30 days of receipt of request. This request may be made no more than once per calendar year.</p>
-<h3>SECTION 10 – CONTACT INFORMATION</h3>
-<p>If you would like to access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact <a href="mailto:customerservice@speckproducts.com" target="blank">customerservice@speckproducts.com</a> or call: 888.872.4445.</p>
+<p style="text-align: right;">LAST UPDATED: NOVEMBER 2017</p>
+<p>We want you to be familiar with how we collect, use and disclose Personal Information (as defined below). This Privacy Policy describes our practices in connection with Personal Information that we collect through websites operated by us or our U.S. affiliates, from which you are accessing this Privacy Policy (the <strong>“Websites”</strong>), through the software applications made available by us for use on or through computers and mobile devices (the <strong>“Apps”</strong>), through our social media pages and apps, through HTML-formatted email messages that we send to you that link to this Privacy Policy, as well as through your offline interactions with us where notice is legally required (collectively, including the Websites, Apps, Social Media Pages and offline interactions, the <strong>“Services”</strong>). By using the Services, you agree to this Privacy Policy.</p>
+<h3>PERSONAL INFORMATION</h3>
+<p><strong>“Personal Information”</strong> is information that identifies you as an individual or relates to an identifiable individual, including:</p>
+<ul>
+    <li>Name</li>
+    <li>Postal address (including billing and shipping addresses)</li>
+    <li>Telephone number</li>
+    <li>Email address</li>
+    <li>Credit and debit card number</li>
+    <li>Profile picture</li>
+    <li>Social media account ID</li>
+    <li>Travel information, including trip flight information</li>
+</ul>
+<h4>Collection of Personal Information</h4>
+<p>We and our service providers may collect Personal Information in a variety of ways, including:</p>
+<ul>
+    <li><strong>Through the Services:</strong> We may collect Personal Information through the Services, e.g., when you sign up for a newsletter or make a purchase.</li>
+    <li><strong>Offline:</strong> We may collect Personal Information from you offline, such as when you attend one of our trade shows, place an order over the phone or contact customer service.</li>
+    <li><strong>From Other Sources:</strong> We may receive your Personal Information from other sources, such as our U.S. affiliates, public databases, joint marketing partners, social media platforms (including from people with whom you are friends or otherwise connected) and from other third parties. In addition, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles.</li>
+</ul>
+<p>We may use a third-party payment service to process payments made through the Services. If you wish to make a payment through the Services, your Personal Information may be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Information.</p>
+<p>If you submit any Personal Information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.</p>
+<h4>How We May Use Personal Information</h4>
+<p>We and our service providers may use Personal Information:</p>
+<ul>
+    <li>To respond to your inquiries and fulfill your requests, such as to complete your transactions and provide you with related customer service.</li>
+    <li>To send administrative information to you, such as changes to our terms, conditions and policies, as well as marketing communications that we believe may be of interest.</li>
+    <li>To personalize your experience on the Services by presenting products and offers tailored to you and to facilitate social sharing functionality.</li>
+    <li>To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules containing additional information about how we use and disclose your Personal Information.</li>
+    <li>For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.</li>
+</ul>
+<h4>Disclosure of Personal Information</h4>
+<p>Your Personal Information may be disclosed:</p>
+<ul>
+    <li>To our affiliates for the purposes described in this Privacy Policy.</li>
+    <li>To our third-party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing and other services.</li>
+    <li>To third parties, to permit them to send you marketing communications, consistent with your choices.</li>
+    <li>To third-party sponsors of sweepstakes, contests and similar promotions.</li>
+    <li>By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and content (including, without limitation, our Social Media Pages). Please note that any information you post or disclose through these services will become public and may be available to other users and the general public.</li>
+    <li>To your friends associated with your social media account, to other website users and to your social media account provider, in connection with your social sharing activity. By connecting your Services account and your social media account, you authorize us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media provider’s privacy policy.</li>
+</ul>
+<h4>Other Uses and Disclosures</h4>
+<p>We also may use and disclose your Personal Information as we believe to be necessary or appropriate: (a) to comply with applicable law, which may include laws outside your country of residence, to respond to requests from public and government authorities, which may include such authorities outside your country of residence, to cooperate with law enforcement, or for other legal reasons; (b) to enforce our terms and conditions; and (c) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others.</p>
+<p>We may furthermore use, disclose or transfer your information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).</p>
+<p>We may also use and disclose Personal Information collected through the Services in other ways, with your consent.</p>
+<h3>OTHER INFORMATION</h3>
+<p><strong>“Other Information”</strong> is any information that does not reveal your specific identity or does not directly relate to an identifiable individual, such as:</p>
+<ul>
+    <li>Browser and device information</li>
+    <li>App usage data</li>
+    <li>Information collected through cookies, pixel tags and other technologies</li>
+    <li>Demographic information and other information provided by you that does not reveal your specific identify.</li>
+    <li>Information that has been aggregated in a manner that it no longer reveals your specific identity.</li>
+</ul>
+<p>If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Information, as detailed in this Policy.</p>
+<h4>Collection of Other Information</h4>
+<p>We and our service providers may collect Other Information in a variety of ways, including:</p>
+<ul>
+    <li><strong>Through your browser or device:</strong> Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services (such as the App) you are using. We use this information to ensure that the Services function properly.</li>
+    <li><strong>Through your use of the App:</strong> When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.</li>
+    <li><strong>Using cookies:</strong> Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, and to personalize your experience. We also gather statistical information about use of the Services in order to continually improve their design and functionality, understand how they are used and assist us with resolving questions regarding them. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Services. We may also use cookies or other technologies in online advertising to track responses to our ads. We do not respond to browser do-not-track signals at this time.
+        <p>If you do not want information collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website. You may also wish to refer to <a href="http://www.allaboutcookies.org/manage-cookies/index.html" target="_blank">http://www.allaboutcookies.org/manage-cookies/index.html</a>. If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services. You also may not receive advertising or other offers from us that are relevant to your interests and needs.</p></li>
+    <li><strong>Using pixel tags and other similar technologies:</strong> Pixel tags (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates.</li>
+    <li><strong>Analytics:</strong> We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to <a href="https://www.google.com/policies/privacy/partners/" target="_blank">www.google.com/policies/privacy/partners/</a>, and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a>.</li>
+    <li><strong>Using Adobe Flash technology (including Flash Local Shared Objects (“Flash LSOs”) and other similar technologies:</strong> We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel. You can also go to the Global Storage Settings Panel and follow the instructions (which may explain, for example, how to delete existing Flash LSOs (referred to as “information” on the Adobe site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including those used in connection with the Services.</li>
+    <li><strong>IP Address:</strong> Your IP address is a number that is automatically assigned to your computer by your Internet Service Provider (ISP). An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Services. We may also derive your approximate location from your IP address.</li>
+    <li><strong>Physical Location:</strong> We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you do, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content.</li>
+</ul>
+<h4>Uses and Disclosures of Other Information</h4>
+<p>We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined.</p>
+<h3>THIRD PARTY SERVICES</h3>
+<p>This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any website or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.</p>
+<p>In addition, we are not responsible for the information collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.</p>
+<h3>THIRD-PARTY ADVERTISING</h3>
+<p>We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites or online services, based on information relating to your access to and use of the Services and other websites or online services on any of your devices, as well as on information received from third parties. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). They may also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a> and <a href="http://www.aboutads.info/" target="_blank">http://www.aboutads.info/</a>.</p>
+<h3>SECURITY</h3>
+<p>We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contacting Us” section below.</p>
+<h3>CHOICES AND ACCESS</h3>
+<h4>Your choices regarding our use and disclosure of your Personal Information</h4>
+<p>We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:</p>
+<ul>
+    <li><strong>Receiving electronic communications from us:</strong> If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out by following the unsubscribe link in any marketing communication and by contacting us at <a href="mailto:customerservice@speckproducts.com" target="_blank">customerservice@speckproducts.com</a>.</li>
+    <li><strong>Our sharing of your Personal Information with affiliates for their direct marketing purposes:</strong> If you would prefer that we not share your Personal Information on a going-forward basis with our affiliates for their direct marketing purposes, you may opt-out of this sharing by: contacting us at <a href="mailto:customerservice@speckproducts.com" target="_blank">customerservice@speckproducts.com</a>.</li>
+    <li><strong>Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purposes:</strong> If you would prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by contacting us at <a href="mailto:customerservice@speckproducts.com" target="_blank">customerservice@speckproducts.com</a>.</li>
+</ul>
+<p>We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.</p>
+<h4>How you can access, change or suppress your Personal Information</h4>
+<p>If you would like to review, correct, update, suppress/restrict or delete Personal Information that you have previously provided to us, or if you would like to transfer your Personal Information to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us by writing <a href="mailto:customerservice@speckproducts.com" target="_blank">customerservice@speckproducts.com</a> or Customer Service, Speck Products, 177 Bovet Road, Suite 200 | San Mateo, CA 94402.</p>
+<p>In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.</p>
+<p>Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion). There may also be residual information that will remain within our databases and other records, which will not be removed.</p>
+<h3>USE OF SERVICES BY MINORS</h3>
+<p>The Services are not directed to individuals under the age of thirteen (13), and we do not knowingly collect Personal Information from individuals under 13.</p>
+<h3>JURISDICTION AND CROSS-BORDER TRANSFER</h3>
+<p>The Services are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your personal information.</p>
+<h3>SENSITIVE INFORMATION</h3>
+<p>We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services or otherwise to us.</p>
+<h3>UPDATES TO THIS PRIVACY POLICY</h3>
+<p>We may change this Privacy Policy. The “LAST UPDATED” legend at the top of this Privacy Policy indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.</p>
+<h3>CONTACTING US</h3>
+<p>Speck Products located at 177 Bovet Road, Suite 200, San Mateo, CA 94402 is the company responsible for collection, use and disclosure of your Personal Information. If you have any questions about this Privacy Policy, please contact us at <a href="mailto:customerservice@speckproducts.com" target="_blank">customerservice@speckproducts.com</a>, or Customer Service, Speculative Product Design, 177 Bovet Road, Suite 200, San Mateo, CA 94402 or call 888.872.4445. Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.</p>
 </div> <!-- End content-asset -->
 
 
@@ -2694,8 +3551,88 @@ Sale
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div id="footer" role="contentinfo">
 <div class="menu-footer">
+
+
+
+
+
 
 
 
@@ -2797,19 +3734,19 @@ Sale
 	<div class="footer-info-row">
 		<div class="container">
 			<div class="ctl">
-				<div class="content"><a href="http://www.speckproducts.com/thestickerproject" title="Click to learn more about how Speck supports Crisis Text Line"><img src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwe0de0e3a/gfx/logo_crisis-text-line.svg" alt="Crisis Text Line"></a><p>Speck supports Crisis Text Line’s efforts to provide 24/7 crisis support to anyone who needs it. Learn more <a href="http://www.speckproducts.com/thestickerproject">here</a>.</p></div>
+				<div class="content"><a href="https://www.speckproducts.com/thestickerproject" title="Click to learn more about how Speck supports Crisis Text Line"><img src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dwe0de0e3a/gfx/logo_crisis-text-line.svg" alt="Crisis Text Line"></a><p>Speck supports Crisis Text Line’s efforts to provide 24/7 crisis support to anyone who needs it. Learn more <a href="https://www.speckproducts.com/thestickerproject">here</a>.</p></div>
 			</div>
 			<div class="cb">
-				<a href="http://www.speckproducts.com/popup-free-shipping.html" class="open-dialog" title="Click to learn more about our Free Shipping">
-					<img src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw6899265a/gfx/cb_circle_free-shipping_01.svg" alt="">
+				<a href="https://www.speckproducts.com/popup-free-shipping.html" class="open-dialog" title="Click to learn more about our Free Shipping">
+					<img src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw6899265a/gfx/cb_circle_free-shipping_01.svg" alt="">
 					<p>Free Shipping</p>
 				</a>
-				<a href="http://www.speckproducts.com/popup-lifetime-warranty-home.html" class="open-dialog" title="Click to learn more about our Warranty">
-					<img src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw4e9e2b8e/gfx/cb_circle_lifetime-warranty_01.svg" alt="">
+				<a href="https://www.speckproducts.com/popup-lifetime-warranty-home.html" class="open-dialog" title="Click to learn more about our Warranty">
+					<img src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw4e9e2b8e/gfx/cb_circle_lifetime-warranty_01.svg" alt="">
 					<p>Lifetime Warranty <small>(on select products)</small></p>
 				</a>
-				<a href="http://www.speckproducts.com/popup-30-day.html" class="open-dialog" title="Click to learn more about our 30-Day Money-Back Guarantee">
-					<img src="http://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw1fa1d00d/gfx/cb_circle_30-day-guarantee_01.svg" alt="">
+				<a href="https://www.speckproducts.com/popup-30-day.html" class="open-dialog" title="Click to learn more about our 30-Day Money-Back Guarantee">
+					<img src="https://www.speckproducts.com/on/demandware.static/-/Sites-speck-Library/default/dw1fa1d00d/gfx/cb_circle_30-day-guarantee_01.svg" alt="">
 					<p>30-Day Guarantee</p>
 				</a>
 			</div>
@@ -2832,20 +3769,20 @@ Sale
 
 			<!-- Column Menu -->
 			<ul>
-				<li><a href="http://www.speckproducts.com/apple/iphone-cases/iphone-x-cases.html">iPhone X Cases</a></li>
-				<li><a href="http://www.speckproducts.com/apple/iphone-cases/iphone-8-cases.html">iPhone 8 Cases</a></li>
-				<li><a href="http://www.speckproducts.com/apple/iphone-cases/iphone-8-plus-cases.html">iPhone 8 Plus Cases</a></li>
-				<li><a href="http://www.speckproducts.com/apple/iphone-cases/iphone-7-cases.html">iPhone 7 Cases</a></li>
-				<li><a href="http://www.speckproducts.com/apple/iphone-cases/iphone-7-plus-cases.html">iPhone 7 Plus Cases</a></li>
-				<li><a href="http://www.speckproducts.com/apple/iphone-cases/iphone-6-cases.html">iPhone 6s/6 Cases</a></li>
-				<li><a href="http://www.speckproducts.com/apple/iphone-cases/iphone-6-plus-cases.html">iPhone 6s Plus/6 Plus Cases</a></li>
-				<li><a href="http://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/Page-Show?cid=iphone-se-cases">iPhone SE Cases</a></li>
-				<li><a href="http://www.speckproducts.com/apple/ipad-cases.html">iPad Cases</a></li>
-				<li><a href="http://www.speckproducts.com/apple/macbook-cases.html">MacBook Cases</a></li>
-				<li><a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-note8-cases.html">Galaxy Note8 Cases</a></li>
-				<li><a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s8-cases.html">Galaxy S8 Cases</a></li>
-				<li><a href="http://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s8-plus-cases.html">Galaxy S8+ Cases</a></li>
-				<li><a href="http://www.speckproducts.com/search?q=google%20pixel">Google Pixel Cases</a></li>
+				<li><a href="https://www.speckproducts.com/apple/iphone-cases/iphone-xs-cases.html">iPhone XS Cases</a></li>
+				<li><a href="https://www.speckproducts.com/apple/iphone-cases/iphone-xs-max-cases.html">iPhone XS Max Cases</a></li>
+				<li><a href="https://www.speckproducts.com/apple/iphone-cases/iphone-xr-cases.html">iPhone XR Cases</a></li>
+				<li><a href="https://www.speckproducts.com/apple/iphone-cases/iphone-x-cases.html">iPhone X Cases</a></li>
+				<li><a href="https://www.speckproducts.com/apple/iphone-cases/iphone-8-cases.html">iPhone 8 Cases</a></li>
+				<li><a href="https://www.speckproducts.com/apple/iphone-cases/iphone-8-plus-cases.html">iPhone 8 Plus Cases</a></li>
+				<li><a href="https://www.speckproducts.com/apple/iphone-cases/iphone-7-cases.html">iPhone 7 Cases</a></li>
+				<li><a href="https://www.speckproducts.com/search?cgid=%20sptyp-st851">iPhone 7 Plus Cases</a></li>
+				<li><a href="https://www.speckproducts.com/apple/ipad-cases.html">iPad Cases</a></li>
+				<li><a href="https://www.speckproducts.com/apple/macbook-cases.html">MacBook Cases</a></li>
+				<li><a href="https://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s9-cases.html">Galaxy S9 Cases</a></li>
+				<li><a href="https://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-s9-plus-cases.html">Galaxy S9+ Cases</a></li>
+				<li><a href="https://www.speckproducts.com/samsung/smartphone-cases/samsung-galaxy-note9-cases.html">Galaxy Note9 Cases</a></li>
+				<li><a href="https://www.speckproducts.com/google/google-pixel-family.html">Google Pixel Cases</a></li>
 			</ul><!-- End Column Menu -->
 
 		</div><!-- End Footer Column -->
@@ -2863,9 +3800,9 @@ Sale
 			
 			<!-- Column Menu -->
 			<ul>
-				<li><a href="http://www.speckproducts.com/shipping-info.html">Shipping</a></li>
-				<li><a href="http://www.speckproducts.com/returns.html">Returns</a></li>
-				<li><a href="http://www.speckproducts.com/warranty.html">Warranty</a></li>
+				<li><a href="https://www.speckproducts.com/shipping-info.html">Shipping</a></li>
+				<li><a href="https://www.speckproducts.com/returns.html">Returns</a></li>
+				<li><a href="https://www.speckproducts.com/warranty.html">Warranty</a></li>
 			</ul><!-- End Column Menu -->
 
 		</div><!-- End Footer Column -->
@@ -2883,13 +3820,14 @@ Sale
 
 			<!-- Column Menu -->
 			<ul>
-				<li><a href="http://www.speckproducts.com/company.html">About Us</a></li>
-				<li><a href="http://www.speckproducts.com/press/pr-index.html">Press</a></li>
-				<li><a href="http://www.speckproducts.com/careers.html">Careers</a></li>
-				<li><a href="http://www.speckproducts.com/privacy-policy.html">Privacy Policy</a></li>
-				<li><a href="http://www.speckproducts.com/fine-print.html">Terms and Conditions</a></li>
-				<li><a href="http://www.speckproducts.com/social-compliance.html">Social Compliance</a></li>
-				<li><a href="http://www.speckproducts.com/accessibility.html">Accessibility</a></li>
+				<li><a href="https://www.speckproducts.com/company.html">About Us</a></li>
+				<li><a href="https://www.speckproducts.com/press/pr-index.html">Press</a></li>
+				<li><a href="https://www.speckproducts.com/careers.html">Careers</a></li>
+				<li><a href="https://www.speckproducts.com/privacy-policy.html">Privacy Policy</a></li>
+				<li><a href="https://www.speckproducts.com/fine-print.html">Terms and Conditions</a></li>
+				<li><a href="https://www.speckproducts.com/social-compliance.html">Social Compliance</a></li>
+				<li><a href="https://www.speckproducts.com/accessibility.html">Accessibility</a></li>
+				<li><a href="https://www.speckproducts.com/trademarks.html">Trademarks</a></li>
 				<li><a href="http://speckip.com/" target="_blank">Patents</a></li>
 			</ul><!-- End Column Menu -->
 
@@ -2908,9 +3846,9 @@ Sale
 
 			<!-- Column Menu -->
 			<ul><li><a href="http://blog.speckproducts.com" target="_blank">Blog</a></li>
-				<li><a href="http://www.speckproducts.com/speck-coupons-sales-deals-and-discounts.html">Sale</a></li>
-				<li><a href="http://www.speckproducts.com/speckulation.html">Speckulation</a></li>
-				<li><a href="http://www.speckproducts.com/speck-in-the-wild.html">Speck in the Wild</a></li>
+				<!-- <li><a href="https://www.speckproducts.com/holiday/holiday-deals.html">2018 Holiday Deals</a></li> -->
+				<li><a href="https://www.speckproducts.com/speck-coupons-sales-deals-and-discounts.html">Sale</a></li>
+				<li><a href="https://www.speckproducts.com/speck-in-the-wild.html">Speck in the Wild</a></li>
 			</ul><!-- End Column Menu -->
 
 		</div><!-- End Footer Column -->
@@ -2928,16 +3866,15 @@ Sale
 
 			<!-- Column Menu -->
 			<ul>
-				<li><a href="http://www.speckproducts.com/contact-us">Contact Us</a></li>
-				<li><a href="http://www.speckproducts.com/faqs.html">FAQs</a></li>
-				<li><a href="http://www.speckproducts.com/retailers.html">Authorized Resellers</a></li>
-				<li><a href="http://www.speckproducts.com/counterfeits.html">Report Counterfeits</a></li>
-				<li><a href="http://www.speckproducts.com/b2b.html">Business Solutions</a></li>
-				<li><a href="http://www.speckproducts.com/b2b/authorized-reseller-program.html">Reseller Program</a></li>
-				<li><a href="http://www.speckproducts.com/b2b/education.html">Education</a></li>
-				<li><a href="http://www.speckproducts.com/does-it-fit.html">Fit Guides</a></li>
-				<li><a href="http://www.speckproducts.com/instructions.html">Instructions</a></li>
-				<li><a href="http://www.speckproducts.com/sitemap/sitemap.html">Sitemap</a></li>
+				<li><a href="https://www.speckproducts.com/contact-us">Contact Us</a></li>
+				<li><a href="https://www.speckproducts.com/faq-section/faqs.html">FAQs</a></li>
+				<li><a href="https://www.speckproducts.com/retailers.html">Authorized Resellers</a></li>
+				<li><a href="https://www.speckproducts.com/counterfeits.html">Report Counterfeits</a></li>
+				<li><a href="https://www.speckproducts.com/b2b/b2b.html">Business Solutions</a></li>
+				<li><a href="https://www.speckproducts.com/b2b/authorized-reseller-program.html">Reseller Program</a></li>
+				<li><a href="https://www.speckproducts.com/b2b/education.html">Education</a></li>
+				<li><a href="https://www.speckproducts.com/does-it-fit/does-it-fit.html">Fit Guides</a></li>
+				<li><a href="https://www.speckproducts.com/instructions.html">Instructions</a></li>
 			</ul><!-- End Column Menu -->
 
 		</div><!-- End Footer Column -->
@@ -2987,40 +3924,10 @@ Sale
 </div>
 
 </div>
-<div class="footLogo">© Copyright 2017 Samsonite IP Holdings S.AR.L</div>
+<div class="footLogo">© Copyright 2018 Samsonite IP Holdings S.AR.L</div>
 </div>
 </div>
 </div><!-- /footer -->
-
-
-				 
-
-
-<script type="text/javascript">
-var utag_data = {
-  "page_name": "Sites-speck-Site",
-  "page_type": "content search",
-  "page_context_type": "",
-  "page_context_title": "",
-  "user_anonymous": "true",
-  "user_authenticated": "false",
-  "user_registered": "false",
-  "customer_id": "beMgh6I2G4JE8bcM0WalRSwVYt",
-  "search_results": "0"
-};
-</script>
-
-<script type="text/javascript">
-    (function(a,b,c,d){
-    a='//tags.tiqcdn.com/utag/speckproducts/speck-demandware/prod/utag.js';
-    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=1;
-    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
-    })();
-</script>
-
-
-
-
 
 
 
@@ -3041,27 +3948,7 @@ var utag_data = {
 
 
 
-<div id="bronto-cart-recovery-shadow" style="display: none;">
-	
-	
-		<div id="bronto-cart-recovery-cart-url">http://www.speckproducts.com/cart</div>
-	
-	
-		<div id="bronto-cart-recovery-cart-id">558e96ae543f1fbd73dd6c5fcc</div>
-	
-	<div id="bronto-cart-recovery-line-items">
-		
-	</div>
-	<div id="bronto-cart-recovery-discount-amount">0.00</div>
-	<div id="bronto-cart-recovery-shipping-amount">0.00</div>
-	<div id="bronto-cart-recovery-shipping-details"></div>
-	<div id="bronto-cart-recovery-shipping-date"></div>
-	<div id="bronto-cart-recovery-subtotal">0.00</div>
-	<div id="bronto-cart-recovery-tax-amount">0.00</div>
-	<div id="bronto-cart-recovery-grand-total">0.00</div>
-	<div id="bronto-cart-recovery-currency">USD</div>
-	<div id="bronto-cart-recovery-email-address"></div>
-</div>
+
 
 <script data-name="__br_tm" type="text/javascript">
   var _bsw = _bsw || [];
@@ -3083,49 +3970,28 @@ var utag_data = {
 
 
 
+
 <script src="//s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4ea5d98601c1dc84&amp;domready=1" type="text/javascript"></script>
 
 <script type="text/javascript">
 
 (function(app){
 app.constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","PI_METHOD_GIFT_CERTIFICATE":"GIFT_CERTIFICATE"};
-app.resources = {"SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select {0} Bonus Product(s)","SELECT_BONUS_PRODUCT":"Select","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","SIMPLE_SEARCH":"Enter Keyword or Item #","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_POSTAL":"Please specify a valid postal code.","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart ","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is ","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","GIFT_CERT_PIN_Missing":"billing.giftcertidmissingpin","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Out of Stock","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-app.urls = {"appResources":"/on/demandware.store/Sites-speck-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-speck-Site/default/Page-Include","continueUrl":"http://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/Page-Show/C1860110702","staticPath":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/","addGiftCert":"/on/demandware.store/Sites-speck-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-speck-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-speck-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-speck-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.speckproducts.com/payment-settings","addressesList":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/Address-List","wishlistAddress":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-speck-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-speck-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-speck-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-speck-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-speck-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-speck-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-speck-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-speck-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-speck-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-speck-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-speck-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-speck-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-speck-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-speck-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-speck-Site/default/Compare-RemoveProduct","compareDeleteAll":"/on/demandware.store/Sites-speck-Site/default/Cart-ContinueShopping","compareEmptyImage":"/on/demandware.static/Sites-speck-Site/-/default/dwc6f4a175/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/Cart-AddCouponJson","powerReviewsFullJs":"/on/demandware.static/-/Sites-storefront-speck/default/v1510981351782/pwr/engine/js/full.js","powerReviewsZip":"/on/demandware.static/-/Sites-storefront-speck/default/v1510981351782","storeLocatorPage":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/StoreInventory-Find","storesInventory":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/StoreInventory-Inventory","storesLookup":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/StoreInventory-Lookup","setPreferredStore":"/on/demandware.store/Sites-speck-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-speck-Site/default/StoreInventory-GetPreferredStore","setZipCode":"/on/demandware.store/Sites-speck-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-speck-Site/default/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-speck-Site/default/COBilling-Start","currencyConverter":"/on/demandware.store/Sites-speck-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-speck-Site/default/COShippingMultiple-AddEditAddressJSON","optInUrl":"/on/demandware.store/Sites-speck-Site/default/EmailOptIn-Home","returnDetail":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/Return-GetOrder","stockNotificationCreate":"/on/demandware.store/Sites-speck-Site/default/StockNotification-CreateNotification","stockNotificationForm":"/on/demandware.store/Sites-speck-Site/default/StockNotification-GetForm"};
-app.scripts = {"jQueryUI":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/lib/jquery/ui/jquery-ui.min.js","loaded":false},"validator":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/lib/jquery/validate/jquery.validate.min-1.9.0.js","loaded":false},"zoom":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/lib/jquery/zoom/jquery.jqzoom.dw.js","loaded":false},"tooltip":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/lib/jquery/tooltip/jquery.tooltip.min.js","loaded":false},"carousel":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/lib/jquery/jcarousel/jquery.jcarousel.min.js","loaded":false},"imagesLoaded":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/lib/jquery/imagesloaded/imagesloaded.pkgd.min.js","loaded":false},"slick":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/lib/jquery/slick/slick.min.js","loaded":false},"selectbox":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/lib/jquery/selectbox/jquery.selectbox-0.2.min.js","loaded":false},"newselect":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/lib/jquery/newselect/jquery.customSelect.min.js","loaded":false},"tinyscrollbar":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/lib/jquery/tinyscrollbar/tinyscrollbar.min.js","loaded":false},"googleanalytics":{"path":"http://www.speckproducts.com/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/js/app.ga.js","loaded":false},"printelement":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/lib/jquery/printElement/jquery.printElement.min.js","loaded":false},"pages":{"search":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/js/app.search.js","loaded":false},"storefront":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/js/app.storefront.js","loaded":false},"slick":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/js/app.slick.js","loaded":false},"responsive":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/js/app.responsive.js","loaded":false},"minicart":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/js/app.minicart.js","loaded":false},"returns":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/js/app.returns.js","loaded":false},"availability":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/js/app.availability.js","loaded":false}}};
+app.resources = {"SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select {0} Bonus Product(s)","SELECT_BONUS_PRODUCT":"Select","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","SIMPLE_SEARCH":"Enter Keyword or Item #","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_POSTAL":"Please specify a valid postal code.","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart ","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is ","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","GIFT_CERT_PIN_Missing":"billing.giftcertidmissingpin","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","STOCK_SUCCESS":"Thank You! We'll email you when the item is back in stock.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Out of Stock","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+app.urls = {"appResources":"/on/demandware.store/Sites-speck-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-speck-Site/default/Page-Include","continueUrl":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/Page-Show/C775970869","staticPath":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/","addGiftCert":"/on/demandware.store/Sites-speck-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-speck-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-speck-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-speck-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.speckproducts.com/payment-settings","addressesList":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/Address-List","wishlistAddress":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-speck-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-speck-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-speck-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-speck-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-speck-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-speck-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-speck-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-speck-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-speck-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-speck-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-speck-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-speck-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-speck-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-speck-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-speck-Site/default/Compare-RemoveProduct","compareDeleteAll":"/on/demandware.store/Sites-speck-Site/default/Cart-ContinueShopping","compareEmptyImage":"/on/demandware.static/Sites-speck-Site/-/default/dwc6f4a175/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/Cart-AddCouponJson","powerReviewsFullJs":"/on/demandware.static/-/Sites-storefront-speck/default/v1544504520847/pwr/engine/js/full.js","powerReviewsZip":"/on/demandware.static/-/Sites-storefront-speck/default/v1544504520847","storeLocatorPage":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/StoreInventory-Find","storesInventory":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/StoreInventory-Inventory","storesLookup":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/StoreInventory-Lookup","setPreferredStore":"/on/demandware.store/Sites-speck-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-speck-Site/default/StoreInventory-GetPreferredStore","setZipCode":"/on/demandware.store/Sites-speck-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-speck-Site/default/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-speck-Site/default/COBilling-Start","currencyConverter":"/on/demandware.store/Sites-speck-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-speck-Site/default/COShippingMultiple-AddEditAddressJSON","optInUrl":"/on/demandware.store/Sites-speck-Site/default/EmailOptIn-Home","returnDetail":"https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/Return-GetOrder","stockNotificationCreate":"/on/demandware.store/Sites-speck-Site/default/StockNotification-CreateNotification","stockNotificationForm":"/on/demandware.store/Sites-speck-Site/default/StockNotification-GetForm"};
+app.scripts = {"jQueryUI":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/lib/jquery/ui/jquery-ui.min.js","loaded":false},"validator":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/lib/jquery/validate/jquery.validate.min-1.9.0.js","loaded":false},"zoom":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/lib/jquery/zoom/jquery.jqzoom.dw.js","loaded":false},"tooltip":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/lib/jquery/tooltip/jquery.tooltip.min.js","loaded":false},"carousel":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/lib/jquery/jcarousel/jquery.jcarousel.min.js","loaded":false},"imagesLoaded":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/lib/jquery/imagesloaded/imagesloaded.pkgd.min.js","loaded":false},"slick":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/lib/jquery/slick/ada.slickslider.js","loaded":false},"selectbox":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/lib/jquery/selectbox/jquery.selectbox-0.2.min.js","loaded":false},"newselect":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/lib/jquery/newselect/jquery.customSelect.min.js","loaded":false},"tinyscrollbar":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/lib/jquery/tinyscrollbar/tinyscrollbar.min.js","loaded":false},"printelement":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/lib/jquery/printElement/jquery.printElement.min.js","loaded":false},"pages":{"search":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/js/app.search.js","loaded":false},"storefront":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/js/app.storefront.js","loaded":false},"slick":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/js/app.slick.js","loaded":false},"responsive":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/js/app.responsive.js","loaded":false},"minicart":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/js/app.minicart.js","loaded":false},"returns":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/js/app.returns.js","loaded":false},"availability":{"path":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/js/app.availability.js","loaded":false}}};
 app.clientcache = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":true};
 app.user = {"zip":null,"storeId":null};
 app.enabledStorePickup = false;
-app.protocol = "http";
+app.protocol = "https";
 }(window.app = window.app || {}));
 
 (function(app){ 
-	app.slotdata = {"contentScriptURL":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/js/content.js","respondScriptURL":"/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/js/slotRespond.js","loadDynamicContentSlotURL":"/on/demandware.store/Sites-speck-Site/default/Responsive-LoadDynamicContentSlot","assignCustomerGroupURL":"/on/demandware.store/Sites-speck-Site/default/Responsive-AssignMobileCustomerGroup","isMobileCustomerGroupURL":"/on/demandware.store/Sites-speck-Site/default/Responsive-IsMobileCustomerGroup","isMobileCustomerGroup":false};
+	app.slotdata = {"contentScriptURL":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/js/content.js","respondScriptURL":"/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/js/slotRespond.js","loadDynamicContentSlotURL":"/on/demandware.store/Sites-speck-Site/default/Responsive-LoadDynamicContentSlot","assignCustomerGroupURL":"/on/demandware.store/Sites-speck-Site/default/Responsive-AssignMobileCustomerGroup","isMobileCustomerGroupURL":"/on/demandware.store/Sites-speck-Site/default/Responsive-IsMobileCustomerGroup","isMobileCustomerGroup":false};
 }(window.app = window.app || {}));
-
-
-
-(function( DW ){
-DW.googleAnalytics = {
-config: {"accountID":"UA-827958-1"}
-};
-if(DW.googleAnalytics.config && DW.googleAnalytics.config.order) {
-if(DW.googleAnalytics.config.order.products) {
-var products = DW.googleAnalytics.config.order.products;
-for (var i = 0; i < products.length; i++) {
-if(products[i].name) {
-products[i].name = products[i].name.replace(/['"]+/g, '');
-}
-}
-}
-}
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-}(window.DW = window.DW || {}));
 </script>
-<script src="/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/js/app.js"></script>
-<script src="/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/js/powerreviews.js"></script>
+<script src="/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/js/app.js"></script>
+<script src="/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/js/powerreviews.js"></script>
 
 
 
@@ -3149,7 +4015,7 @@ var keywords = "speck privacy policy, speck warranty, speck terms and conditions
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/__Analytics-Tracking";
+        var trackingUrl = "https://www.speckproducts.com/on/demandware.store/Sites-speck-Site/default/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -3161,9 +4027,11 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/internal/jscript/dwanalytics-16.9.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-speck-Site/-/default/v1510981351782/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-speck-Site/-/default/v1544504520847/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+
+
 
 </body></html>
