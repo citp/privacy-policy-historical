@@ -1,129 +1,158 @@
-> *The following text is extracted and transformed from the tagheuer.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004062008id_/https%3A//www.tagheuer.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagheuer.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212043854id_/https%3A//www.tagheuer.com/en-us/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Tag Heuer
+# TAG HEUER PRIVACY POLICY | Tag Heuer
 
-  1. [Home](https://web.archive.org/en-us)
+SKIP TO NEXT
 
+## \----mobile_title_border
 
+This privacy policy (the “ **Policy** ”) is established by TAG Heuer, Branch of LVMH Swiss Manufactures SA (6A RUE LOUIS-JOSEPH CHEVROLET 2300 LA CHAUX-DE-FONDS SWITZERLAND) and its affiliated companies distributing the TAG Heuer brand (collectively “TAG Heuer”). Should you have any question about the collection and processing of your personal data by TAG Heuer, please contact our Data Protection Officer at **mydata@tagheuer.com**. Please read this Policy carefully to understand our policies and practices regarding your personal data and how we will process and treat it. By using a TAG Heuer website or app, by calling TAG Heuer, by ordering in a TAG Heuer boutique or by otherwise giving us your personal data (together “ **Reaching out** ”), you agree to this Policy. Overall, we respect the privacy rights of our clients and recognize the importance of protecting the information that is collected about them. 
 
-**PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THE TAG HEUER WEBSITE**
+## 1\. Acceptance of the Policy and consent
 
-**Last Modified: 12.05.2016**
+By Reaching out to TAG Heuer, whatever the way and mean used, we may collect and process a certain number of personal data that relate to you. 
 
-**OUR PRIVACY STATEMENT**
+The Policy shall apply to any case in which you Reach out to us, whatever the method or medium used. It details the conditions at which we may collect, keep, use and save information that relates to you, as well as the choices that you have in relation to the collection, utilization and disclosure of your personal data. In any case in which you Reach out to us, you acknowledge that you have read and understood this Policy and agree to be bound by it and to comply with all applicable laws and regulations. You also acknowledge that you have read and understood any terms of use that apply to our website and agree to be bound by them. The fact that you Reach out to us forms a valid consent to any and all processing of data as described and detailed in this Policy. You may withdraw your consent at any time, and request that we cease to process your data and/or delete it, although this will not affect the validity of any earlier processing. Please note that we may also process your personal data on other legal basis in particular to insure the good functioning of our website when you access it. If you do not agree to this Policy or otherwise fail to provide some of the necessary personal data to us (we will inform you when this is the case, for example, by making this information clear in our registration forms), (a) you must not use our websites or apps, or benefit from the My TAG Heuer membership and (b) we may not be able to provide you with our goods and/or services 
 
-When visiting our website, <http://www.tagheuer.com/en-us> ( **the Website** ), we may collect your personal data. The protection of your personal data is of great importance to TAG Heuer. This privacy policy ( **the** **Privacy Policy** ) therefore intends to inform you about how TAG Heuer ( **We** ) collect and process your personal information that you submit or disclose by accessing or using our Website.
+#### What are the sources of personal data?
 
-We encourage you to read this Privacy Policy carefully. By using this Website and providing your personal data to us, you acknowledge that you have been informed about our use of your personal data as set out in this Privacy Policy. If you do not wish your personal data to be used by us as set out in this Privacy Policy, please do not provide us your personal information. Please note that in such a case, you may not have access and/or use some features of the Website and your customer experience may be impacted.
+This Policy applies to personal data that we collect from or about you from the following sources: **TAG Heuer websites or mobile sites/apps**. Client-directed websites operated by or for TAG Heuer, including sites that we operate under our own domains/URLs and pages that we administer on third party social networks such as Facebook, Instagram, Twitter, etc,.. as well as Client-directed mobile sites or applications operated by or for TAG Heuer, such as smartphone apps (together “ **Websites** ”). 
 
-If you have any queries or comments relating to this privacy statement, please contact **support.us@tagheuer.com**.
+  * **E-mail, text and other electronic messages**. Electronic communications between you and TAG Heuer (together “ **E-mail** ”)
+  * **TAG Heuer call center**. Calls to any customer service number operated by or for TAG Heuer.
+  * **TAG Heuer boutiques and workshops**. Stores and workshops managed by TAG Heuer or any TAG Heuer affiliates.
+  * **TAG Heuer events and TAG Heuer desks, counters or booths at fairs or events** , in particular through any questionnaire, survey or forms that you would fill in.
+  * **Other online or offline registration forms** , for example, contests and promotions.
+  * **Other sources when applicable** , including through publicly available information as well as the use of CCTV cameras.
 
-**WHAT PERSONAL DATA WE COLLECT**
+ 
 
-We collect several types of information from and about you, including information:
+Depending both on (i) the services provided by TAG Heuer and used by you, as well as (ii) the source from which originates the processed personal data and (iii) your choices and configuration of your terminal (with respect in particular to cookies and other tracers), the following personal data may be collected and processed by TAG Heuer. 
 
-  * by which you may be personally identified, such as name, postal address, e-mail address, telephone number ("personal data");
-  * that is about you but individually does not identify you, such as information collected through cookies and/or navigation history.
-  * about your internet connection, the equipment you use to access our Website and usage details.
+### a. Data communicated by you
 
+When you Reach out to us, we may ask you to supply personal information such as: 
 
+  *     *       * Your name,
+      * Mailing address,
+      * E-mail address,
+      * Telephone number,
+      * Payment details, including any bank account details,
+      * Your preferences and interests,
+      * Your date of birth
 
-**How we use your personal data?**
 
-We use personal data for the following purposes:
 
-  * to provide you with the information, products or services that you have requested from us or which we feel may be of interest for you;
-  * to manage your customer account;
-  * handling customers request including repair requests;
-  * to ensure that content from our site is presented in the most effective manner for you;
-  * to carry out our obligations arising from any contracts entered into between you and us;
-  * to allow you to participate in interactive features of our services, when you choose to do so;
-  * to notify you about changes to our service; and
+This information is used to set up and manage your personal account with TAG Heuer, your membership to My TAG Heuer and/or any order that you may have placed or otherwise done with TAG Heuer, as well as to contact you. It is also used to better identify your preferences and wishes in relation to products we offer. Personal data that is indispensable for us to fulfil the purposes that are described in this Policy (see Clause 5) is marked with an asterisk on the various pages of the Websites and/or underlined as required upon any contact you have with TAG Heuer. Should you not fill in these mandatory fields or otherwise provide us with this information, TAG Heuer may not be able to take care of your requests and/or provide you with the requested products and services. Other personal data you would communicate to us is purely optional and allows us to know you better and to improve our communications and services accordingly. We may also collect data from publicly available sources, which shall be considered as data having been communicated by you. _Payment details in particular_ : when you initially provide or update your payment information, we may transmit it via an encrypted connection to a third-party payment processor. Such a delegation is in particular justified in order to ensure compliance with security and legal standards. _E-mail address_ : we may use your E-mail address in order to send you our newsletter or other emails in relation to our products, in particular to inform you of any new products or services that may be of interest to you. You may at all time request to stop receiving such newsletters or E-mails by following the link that is given at the end of each newsletter. _Data within E-mails_ : Should you send us an E-mail, we may keep all information contained in the E-mail, especially in order to resolve your inquiries or otherwise assist you. 
 
+### b. Data collected in relation to the use of the Websites or through E-mails
 
-  * to make marketing advertisements in relation to TAG Heuer watches;
-  * to process your online shopping on the Website and to keep details of your shopping history;
-  * to manage your subscription to the newsletter;
-  * for making business analyses.
+When you access, visit or browse the Website, or receive and/or answer to E-mails from us, the Web server automatically registers details of your access and actions. This includes information about your activity on and interaction with the Websites and/or E-mail, such as your IP address, your device or browser type, the webpage you visited before coming to the Websites and identifiers associated with your devices, as well as any log information. This information enables us to analyse how the Websites are being accessed and used, and to track performance of the Websites as well as of any service offered on or through the Websites. _Location Information in particular_ : your devices (depending on your settings) may transmit location information to us, in particular through the Websites. We use this information to customize, improve and protect the Websites. For example, we may use your location information to determine local language preferences, or to geotag a post. _Hypertext links to third-party websites or sources_ : we may propose hypertext links from our Websites to third-party websites or Internet sources. We do not control and cannot be held liable for third parties’ privacy practices and content. Please read carefully their privacy policies to find out how they collect and process your personal information _Cookies and similar technologies_ : __ All this information and data is collected automatically in particular through cookies (performance and tracking cookies, functional cookies, technical cookies, browser cookies, etc.) and Web beacons (see Clause 3). We also use Google analytics (see Clause 4). 
 
+### c. Data collected from a social network
 
+When you authorize a third party social network (Facebook, Instagram, etc.) to share information and data with us, we may receive any data that you publicly share on the social network as well as any information that is part of your profile or that you allow the social network to share (name, electronic address, gender, profile picture, user code, list of friends or contacts, etc.). We also receive information pertaining to your profile when you use a social network functionality integrated to the Websites or that you interact with us through the social network. You should at all time be aware of the terms of use and privacy policy that applies to the third party social network and are of its exclusive responsibility. 
 
-**How we share your personal data?**
+## 3\. Cookies
 
-The data that we collect from you may be transferred to, stored, and further processed by TAG Heuer affiliates, or by third party providers we use to support our business or perform functions on our behalf (such as analyzing data, processing payments, and providing customer service), or by a third party to which we may transfer any of our business or assets for any reason (where personal data may be among the assets transferred). This may imply transfer of your personal data to third countries but in any case, we implement all measures to guarantee an adequate level of protection.  Such transfer may take place for maintenance, hosting purposes as well as for the fulfilment of your order, the processing of your payment details and the provision of support services.
+### 3.1 What are cookies?
 
-We will not use your personal data for marketing purposes unless you have expressly consented to such use of your personal data.
+Cookies are small text files which are placed on your computer or mobile phone when you visit a website. They are widely used in order to make websites work or to work more efficiently. The cookies help website to recognize your device and remember information about your visit (e.g., your preferred language, font size and other preferences). Most Web browsers are set up to accept cookies, although you can reset your browser to refuse all cookies or to indicate when a cookie is being sent, as mentioned under par. 3.3 hereunder. Note, however, that some portions of the Websites may not work properly if you refuse cookies. We also use web beacons (also known as an "action tag" or "clear GIF technology"), or similar technology, which helps analyse the effectiveness of websites by measuring, for example, the number of visitors to a site, how many visitors clicked on key elements of a site or what Web pages were visited. 
 
-**Security measures**
+### 3.2 How we use cookies?
 
-Any payment transactions will be encrypted using SSL technology and in any case we implement adequate organisational and technical measures to ensure the security and confidentiality of your personal data.
+Cookies allow us to operate the services as you have requested, facilitate your navigation on our Websites and the use of their features, so as to provide you with a seamless experience and relevant ads. We may collaborate with other companies, including social or advertisement networks, which place cookies, Web beacons or other tracking technology on the Websites to collect or receive information from our Websites and elsewhere on the internet and use that information to provide measurement services and target ads. 
 
-**Data retention**
+### 3.3 How to manage your cookies preferences?
 
-We expect your Personal data to be kept for a period of 5 years after the last contact you have had with us.
+Most browsers allow you to manage your cookies preferences by changing your browser settings. If you consent to our use of cookies but later wish to opt out, you may delete the cookies which have been set and change your browser settings to block any further cookies. The “Help” function of your browser should tell you how. Alternatively, the following links provide instructions for managing cookie settings of commonly used browsers: 
 
-**COOKIES**
+  * Chrome ([https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en "How to manage cookies on Chrome") )
+  * Internet Explorer (<http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies> )
+  * Mozilla Firefox ([https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies "How to manage cookies on Mozilla Firefox") )
+  * Safari _(_[https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=fr_FR](https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=fr_FR "How to manage cookies on Safari"))
 
-  * **What are cookies?**
 
 
+In addition, you may wish to visit www.aboutcookies.org, which contains comprehensive information on how to do this on a wide variety of browsers. Please note that if you block cookies, your experience on our Website may be impacted. 
 
-Cookies are small text files which are placed on your computer or mobile phone when you visit a website. They are widely used in order to make websites work or to work more efficiently. The cookies help website to recognize your device and remember information about your visit (e.g., your preferred language, font size and other preferences).
+## 4\. Google Analytics
 
-  * **How We use cookies?**
+It is possible that some or all of the Websites use Google Analytics, an internet site analysis service supplied by Google Inc. (“Google”). Google Analytics uses cookies which are text files placed on your computer to help to analyse the use made of the Websites by its users. The data generated by the cookies concerning your use of the Websites (including your IP address) will be forwarded to, and stored by, Google on servers located in the United States. Google will use this information to evaluate your use of the Websites, compile reports on site activity for its publisher and provide other services relating to the activity of the Websites and the use of the internet. Google may release these data to third parties if there is a legal obligation to do so or when the third parties process these data for the account of Google including, in particular, the publisher of the Websites. Google will not cross-reference your IP address with any other data held by Google. As mentioned under clause 3 above, you may deactivate the use of cookies by selecting appropriate parameters on your navigator. However, deactivation of this kind might prevent the use of certain functions of the Websites. By using the Websites, you specifically consent to the processing of your personal data by Google under the conditions and for the purposes described above. If you do not want Google Analytics to be used in your browser, you can install the Google Analytics browser add-on at <https://tools.google.com/dlpage/gaoptout>. 
 
+## 5\. How we use your personal data?
 
+We use the data and information collected on you to: 
 
-We do not use cookies to track you individually or to identify you, but to allow us to operate the Services as you have requested, facilitate your navigation on our website and the use of its features, so as to provide you with a seamless experience.
+  * Offer you all functions of the Websites;
+  * Allow the correct execution of all functions of the Websites;
+  * Personalize your use of the Websites as well as enhance the Websites and all of its functions;
+  * Interact with you and answer any of your questions or remarks, including by notifying you of any changes in relation to our services and/or products;
+  * Answer as well as fulfil any contract with you, especially in relation to any products that you may have purchased or otherwise received, in particular through our customer service for repairs;
+  * Manage your membership and/or client account, including on our online shop to pass and/or manage any order, especially in order to offer you the best customer service and provide you with any information that you may request;
+  * Proceed to antifraud and blacklist management for any case in which a person has been implicated in fraud regarding our products, services or trademarks, essentially in view of allowing, modifying or refusing that person’s access to services or products as well any entry into a contact with TAG Heuer, and to communicate with and defend TAG Heuer’s rights before state authorities;
+  * With your consent or within the applicable rules and regulations, provide you with any information that could otherwise be useful or of interest to you, especially regarding our products as well as promotional opportunities, especially through newsletters, invitations and other publications;
+  * Take all required measures in relation to your online transactions, especially to prevent fraud and payment defaults.
 
-We use Google Analytics tools to help us measure traffic and usage statistics in order to understand how visitors access and use our website. We use information collected through cookies to help improve our Services and to compile aggregate statistics about how our website is used by visitors. Please note that in this context, Google collects your personal information through the use of Google Analytics on our website. Learn more about how Google uses Google Analytics, and how it collects and processes data at www.google.com/policies/privacy/partners/.
 
-  * **How to manage your cookies preferences?**
 
+## 6\. Data retention
 
+We do not, as a matter of business practice, retain personal data longer than necessary for the purposes stated and to comply with legal requirements, unless otherwise agreed to by you. Your data may however be stored and/or archived for a limited period, which shall not exceed 10 years of time (unless legal obligations or regulations require or allow a longer retention period). At the end of the applied retention period, we shall delete your data without it being required that any further information be provided to you. 
 
-Most browsers allow you to manage your cookies preferences by changing your browser settings. If you consent to our use of cookies but later wish to opt out, you may delete the cookies which have been set and change your browser settings to block any further cookies. The “Help” function of your browser should tell you how. Alternatively, the following links provide instructions for managing cookie settings of commonly used browsers:
+## 7\. How do we share and/or transfer your personal data?
 
-•          Chrome (<https://support.google.com/chrome/answer/95647?hl=en> )
+Your personal data shall be processed by TAG Heuer, Branch of LVMH Swiss Manufactures SA and/or by any of its affiliates distributing TAG Heuer products and services. It may be transferred or otherwise shared with TAG Heuer, Branch of LVMH Swiss Manufactures SA and its affiliates distributing TAG Heuer products and services, for purposes of management and optimization of the customer relationship, as well as to send you information about the offers and news in the limits of your consent or applicable lawful grounds. It may also be transferred in case of a reorganization of TAG Heuer, including merger, takeover, de-merger, and in general any reorganization operation. Your personal data may also be transferred to the following third-parties: 
 
-•          Internet Explorer (<http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies> )
+  * Thirdparty providers in relation to the services offered on the Websites, especially any IT service suppliers, consultants, providers of hosting and maintenance services of the Websites and any other third party processing personal data on our behalf, as well as any postal and payment service providers, in order to fulfil and execute any order that you have placed on or through the Websites, or more generally intervene in the context of your Reaching out to us.
+  * Thirdparty subcontractors, in order to provide you with the product, service or information you asked for, as well as any customer service, or for interestbased advertising based on the data collected from you and/or through your use of the Websites; such third-parties include carriers as well as payment and fraud management service providers.
+  * Any person or entity required by law or judicial order: we may disclose your data to third parties if we determine that such disclosure is reasonably necessary to comply with the law, protect our rights or prevent fraud or abuse. When we receive law enforcement or national security requests for information, we scrutinize such requests carefully, especially if they are vague, overbroad or otherwise unlawful. And when legally permitted and reasonably possible, we may provide you with notice that your information is being requested. In any case, both the assessment of the request as well as the possibility to inform you of it are at the our sole discretion and may not make us liable from a civil, criminal or administrative point of view.
 
-•          Mozilla Firefox ([https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies) )
 
-•          Safari _(_[https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=fr_FR](https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=fr_FR "https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=fr_FR"))
 
-In addition, if you do not want Google Analytics to be used in your browser, you can install the Google Analytics browser add-on at <https://tools.google.com/dlpage/gaoptout>.
+We may transfer personal data to third parties when and only when it is necessary to provide the product or service to you. In such cases, these third parties are prohibited to use these data beyond what is necessary to provide those product or service to you. In any case where cross-border transfer is done, we ensure that an adequate protection is guaranteed for personal data to be transferred outside of Switzerland and the EEA. In some specific cases when this level of protection is not guaranteed, we will obtain your prior consent or establish with the recipient of personal data a contractual framework or sufficient safeguards that ensure an adequate level of protection abroad. You may request access to a copy of these safeguards by contacting us. 
 
-In addition, you may wish to visit www.aboutcookies.org, which contains comprehensive information on how to do this on a wide variety of browsers.
+## 8\. Security measures
 
-Please note that if you block cookies, your experience on our Website may be impacted.
+We apply strictly the principles of data protection by design and by default and implement appropriate technical and organizational measures to limit to the maximum the processing of your data as well as ensure its security. In particular, and by default, only personal data which are necessary for each specific purpose of the processing are processed by us and all accesses to your personal data are limited to what is required for the purposes detailed under clause 5 of this Policy.  Regarding specifically any payment transactions that are done with your payment details, they are encrypted using SSL technology _._
 
-**Your rights**
+## 9\. Your choices
 
-You may have the right to access the information we hold about you, or to ask for the modification of such data. If you intend to exercise such rights, please contact support.us@tagheuer.com.  You may review, add or update certain information by going to the “My Account” feature of the My TAG Heuer section of the Website.  
+We strive to provide you with choices regarding the personal data that you provide to us or that is otherwise collected on you, in particular through our Websites. The following mechanisms give you the following control over your personal data. Regarding Cookies and similar technologies: you can set your browser to refuse all or some browser cookies, or to alert you when cookies are being used, as mentioned under Clauses 3 and 4 above. If you agree to receive information on TAG Heuer offers and news you can indicate so through the relevant tickbox(es) located on the registration form(s) or by answering favorably to the question(s) presented by our TAG Heuer Boutique representatives. If you decide that you no longer wish to receive such communications, you can subsequently unsubscribe as follows: 
 
-**THIRD PARTY AD SERVERS**
+  * By following the instructions provided in every emailing communication
+  * Through the CONTACT US page on the TAG Heuer web site
+  * Through your My TAG Heuer account
+  * By contacting us at mydata@tagheuer.com
 
-We may use the services of one or more third party advertising companies.   If We do, these third party advertising companies may also collect information from your activities on the Website as well as other sites for the purpose of providing advertisements and other content that is customized to your interests and preferences.  This means that our ads may appear on participating web sites based upon your browsing activity.  To allow Us to offer our customers streamlined ordering and other useful features, we may use and allow our third party advertising companies to use the technologies listed above and other similar technologies.
 
-**Links to Other sites**
 
-We may propose hypertext links from the Website to third-party websites or Internet sources. We do not control and cannot be held liable for third parties’ privacy practices and content. Please read carefully their privacy policies to find out how they collect and process your personal information.
+Please note that, even if you opt-out from receiving marketing communications, you may still receive administrative communications from us, such as order or other transaction confirmations, notifications about your account activities (e.g. account confirmations, password changes, etc.). 
 
-**CLEAR GIFS**
+## 10\. Your rights
 
-We may use “clear GIFs” (aka “Web beacons” or “pixel tags”) or similar technologies, in the Website and/or in our communications with you to enable Us to know whether you have visited a Web page or received a message.  A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a Web page or in an e-mail that communicates to Us whether you viewed an email that we sent you or visited a certain page on our Website.  A clear GIF may enable Us to relate your viewing or receipt of a Web page or message to other information about you, including your Personal Information.
+You have the right to request access to or information about the personal data related to you which are processed by us. Should you have a My TAG Heuer membership account, you can access, review, correct and update your personal data at any time by accessing such account on the Websites. Alternatively in any case you can contact us at [mydata@tagheuer.com](mailto:mydata@tagheuer.com). You may also have the right to request that we: 
 
-**IP ADDRESS AND CLICKSTREAM DATA**
+  * Correct or erase your personal data or restricts the processing of your data;
+  * Transfer your personal data to a thirdparty; or 
+  * Stop processing your personal data, for the case in which we rely on your consent and do not have another legal basis to continue processing your data.
+  * Stop using your personal data to build up your client profile; in this case you will no longer benefit from customized offers or services.
+  * Stop sending you information about our offers and news
 
-Our server automatically collects data about your server’s Internet address when you visit Us.  This information, known as an Internet Protocol address, or IP Address, is a number that’s automatically assigned to your computer by your Internet service provider whenever you’re on the Internet.  When you request pages from our Website, our servers may log your IP Address and sometimes your domain name.  Our server may also record the referring page that linked you to Us (e.g., another Website or a search engine); the pages you visit on this Website; the Website you visit after this Website; the ads you see and/or click on; other information about the type of Web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Website or a referral site; and other Web usage activity and data logged by our Web servers.  We use this information for internal system administration, to help diagnose problems with our server, and to administer our Website.  Such information may also be used to gather broad demographic information, such as country of origin and internet service provider.
 
-Any or all of these activities with regard to Website usage information may be performed on our behalf by our services providers.
 
-**THIRD PARTY AD SERVERS**
+All access, correction and deletion requests can also be sent by regular mail along with your contact details (phone number and email) to the address referred to at the beginning of the Policy. We may ask you for a proof of identity (copy of official Identification Document with a photo mentioning your date & place of birth). The request is free of charge unless your request is unfounded or excessive (e.g. if you have already requested such personal data multiple times in the last twelve months or if the request generates an extremely high workload). In such case, we may charge you a reasonable request fee according to applicable data protection legislation.  We encourage you to contact us if you feel your personal data has been mishandled or if we have failed to meet your expectations. 
 
-We may use the services of one or more third party advertising companies.   If We do, these third party advertising companies may also collect information from your activities on the Website as well as other sites for the purpose of providing advertisements and other content that is customized to your interests and preferences.  This means that our ads may appear on participating web sites based upon your browsing activity.  To allow Us to offer our customers streamlined ordering and other useful features, we may use and allow our third party advertising companies to use the technologies listed above and other similar technologies.
+## 11\. Updates to the Policy
 
-**UPDATES TO PRIVACY POLICY**
+We may revise or update this Policy from time to time. Any changes to this Policy will become effective upon posting of the revised Policy on the Websites. 
 
-We may revise or update this Privacy Policy from time to time. Any changes to this Privacy Policy will become effective upon posting of the revised Privacy Policy via the Website. If We make changes which We believe are significant, We will inform you through the Website to the extent possible and seek for your consent where applicable.
+## 12\. Jurisdiction and applicable law
+
+This Policy and all matters arising out of or related to this Policy shall be governed by the substantive laws of Switzerland, without regards to conflicts of laws and principles thereof. Any controversy, claim or dispute between you and us arising out of or relating to this Policy shall be subject to the exclusive jurisdiction of the Courts of Neuchatel, Switzerland, and each party hereby irrevocably consents to the jurisdiction and venue of such Court. 
+
+## 13\. Contact
+
+#### For any question or request regarding your personal data, please contact our Data Protection Officer at [mydata@tagheuer.com](mailto:mydata@tagheuer.com).
+
+Please note that the representative of TAG Heuer, Branch of LVMH Swiss Manufactures in the European Union is: LVMH Montres & Joaillerie SAS – 7 rue Scribe – 75009 Paris (France) 
