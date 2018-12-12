@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the amyshealthybaking.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630185550id_/http%3A//amyshealthybaking.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amyshealthybaking.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212104028id_/https%3A//amyshealthybaking.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy | Amy's Healthy Baking
 
-**Disclosure Policy**   
+**Disclosure Policy**  
 This policy is valid from June 2014.
 
-_Amy’s Healthy Baking_ is a personal blog written and edited by me. For any inquiries, please contact me by filling out [this form](http://amyshealthybaking.com/about/contact/ "Contact").
+_Amy’s Healthy Baking_ is a personal blog written and edited by Amy. For any inquiries, please contact Amy by filling out [this form](https://amyshealthybaking.com/about/contact/ "Contact").
 
-This blog accepts various forms of paid advertising, sponsorship, or other forms of compensation. Any content that is a form of sponsorship or advertising will clearly be labeled as such.
+This blog accepts various forms of paid advertising, sponsorship, or other forms of compensation. This blog is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for Amy to earn fees by linking to Amazon.com and affiliated sites.
 
-This blog is not paid to express an explicit opinion on particular websites, products, and/or services; all opinions are always my own. Any endorsements made regarding a particular website, product, and/or service is made because the author genuinely believes in and enjoys the object of the endorsement.
+This blog is not paid to express an explicit opinion on particular websites, products, and/or services; all opinions are always Amy’s own. Any endorsements made regarding a particular website, product, and/or service are made because Amy genuinely believes in and enjoys the object of the endorsement.
 
 **Privacy Policy**   
 We may collect the following information: contact information including email address, demographic information such as postcode, preferences and interests, other information relevant to customer surveys and/or offers. 
