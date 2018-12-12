@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610014005id_/https%3A//www.deakin.edu.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212040632id_/https%3A//www.deakin.edu.au/footer/privacy) for the most accurate reproduction.*
 
 # Privacy | Deakin
 
@@ -201,6 +201,38 @@ If you'd like to unsubscribe from Deakin publications or mailing lists, please c
 Individuals have a right to access their personal information held by the university. The right of access and restrictions on that right are set out in Information Privacy Principle 6 and Health information Privacy Principle 6.
 
 Requests for access to, and correction of personal information are managed under the Freedom of Information Act 1982 (Vic). [Review further information on how to make an application for access under the _Freedom of Information Act 1982_.](http://www.deakin.edu.au/about-deakin/faculties-and-divisions/administrative-divisions/university-solicitors-office/freedom-of-information "Freedom of information")
+
+## Information for Individuals located in the EU 
+
+### Authority
+
+Deakin University manages personal information under the authority of the _Deakin University Act 2009_ (Vic).  It also processes your personal information where relevant to its legitimate interests and its legal and regulatory obligations.
+
+### Data Protection Officer
+
+The University Privacy Officer, Shirley Rooney, is Deakin’s Data Protection Officer for purposes of the General Data Protection Regulation 2016 ( **GDPR** ).
+
+### Data Subject Rights
+
+You have the following data subject rights:
+
+  * Access: you may receive a copy of the personal information held by Deakin about you.
+  * Correction: you may request correction of the personal information Deakin holds about you.
+  * Objection to Processing: you may object to processing if you demonstrate that Deakin's processing of your personal information impacts on your fundamental rights and freedoms (as contemplated by the GDPR). Your objection to processing may be denied if Deakin is able to demonstrate compelling legitimate grounds to process personal information which override those rights and freedoms.
+  * Suspension of Processing: you may request that Deakin suspend the processing of your personal information if: 
+    * you want Deakin to establish the data's accuracy before processing it;
+    * Deakin's use of the data is unlawful but you do not want it erased from Deakin's records;
+    * you need Deakin to hold the data to enable you to establish, exercise or defend legal claims; or
+    * you have objected to Deakin's use of your data but Deakin is in the process of verifying if it has overriding legitimate grounds to use it.
+  * Transfer to you or to a third party: if we hold your personal information in an electronic format (e,g. a database), we will provide it to you, or a third party in a structured commonly used, machine-readable format.
+  * Withdrawing consent: if Deakin processes your personal information based solely on your consent, you may withdraw that consent, however Deakin may not be able to continue to provide you with certain goods or services. If your withdrawal of consent relates to marketing material please follow the unsubscribe processes above.
+
+
+
+You may exercise your data subject rights by [emailing Deakin's Data Protection Officer](mailto:privacy@deakin.edu.au?subject=Data%20subject%20rights%20request) and providing written details of your request.
+
+  * 
+
 
 ## Complaints
 
