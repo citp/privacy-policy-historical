@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the prepforthat.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918161050id_/https%3A//prepforthat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepforthat.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212161736id_/https%3A//prepforthat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PrepForThat
+# Privacy Policy - PrepForThat
 
-  
-prepforthat.com Privacy Policy  
+**prepforthat.com Privacy Policy**  
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 What personal information do we collect from the people that visit our blog, website or app?
@@ -12,10 +11,13 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 When do we collect information?
 
-We collect information from you when you subscribe to a newsletter or enter information on our site.  
-How do we use your information?
+We collect information from you when you subscribe to a newsletter or enter information on our site.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+What personal information do we collect from the people that visit our blog, website or app?  _We have a daily newsletter signup form that ask only for your email address. Via mailchimp, location, time of signup, and current Mailchimp.com status is tracked, along with other pertinent data that helps with newsletter deliverability.  _
+
+When do we collect information?  _We collect information from you when you subscribe to a newsletter._
+
+How do we use your information?  _Our newsletters are sent out daily. They contain news and sometimes affiliate offers. Our newsletter provider is Mailchimp.com.  To remove yourself from our newsletter, including all connected data, please email info@prepforthat.com and we will make sure all of your information is permanently deleted. _
 
 • To send periodic emails regarding your order or other products and services.
 
@@ -25,7 +27,7 @@ Our website is scanned on a regular basis for security holes and known vulnerabi
 
 We use regular Malware Scanning.
 
-We do not use an SSL certificate  
+We do use an SSL certificate  
 • We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
 
 Do we use ‘cookies’?
@@ -48,7 +50,7 @@ However, non-personally identifiable visitor information may be provided to othe
 
 Third party links
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 Amazon
 
@@ -117,7 +119,10 @@ We collect your email address in order to:
 To be in accordance with CANSPAM we agree to the following:
 
 If at any time you would like to unsubscribe from receiving future emails, you can email us at  
-and we will promptly remove you from ALL correspondence.  
+and we will promptly remove you from ALL correspondence.
+
+Prepforthat.com uses Cloudflare services for purposes of improved loading times.
+
 Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
@@ -128,6 +133,6 @@ prepforthat.com
 OH 44130  
 United States
 
-support@prepforthat.com
+info@prepforthat.com
 
--Last Edited on 2017-01-01
+-Last Edited on 2018-05-25
