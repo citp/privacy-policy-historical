@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkfollow.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829144705id_/http%3A//www.apkfollow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkfollow.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212091556id_/https%3A//www.apkfollow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Information
 
@@ -46,4 +46,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using this privacy@apkfollow.com
+If there are any questions regarding this privacy policy you may contact us using this [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
