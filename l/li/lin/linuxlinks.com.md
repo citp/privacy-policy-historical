@@ -1,20 +1,49 @@
-> *The following text is extracted and transformed from the linuxlinks.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109191053id_/http%3A//www.linuxlinks.com/portal/news/staticpages/index.php%3Fpage%3D20050502092519355) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxlinks.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212172255id_/https%3A//www.linuxlinks.com/privacy-policy) for the most accurate reproduction.*
 
-# Statement of Privacy - Linux Links - The Linux Portal Site
+# Privacy Policy - LinuxLinks
 
-LinuxLinks.com's Statement of Privacy
+## Who we are
 
-Our policy respects and protects the privacy of our visitors. We have a strict policy never to disclose information about our visitors to external organisations unless we have written permission to do so. 
+Our website address is: https://www.linuxlinks.com.
 
-Information that is provided to advertisers consists of aggregate statistics that we collate. This includes geographical and psychographic information. 
+## What personal data we collect and why we collect it
 
-When links are submitted to our site, we request that the sender provides us with their real name and email address. These specific details are never passed to external companies. In addition, LinuxLinks.com itself respects the information provided and undertakes only to contact the sender if there is a specific need. 
+### Comments
 
-Links to Other Sites
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-The links database largely consists of pointers to external sites which we have no control over. These include the banner advertisements that are run on the site, together with text links found in our Category pages. The external sites may collate information about you with the use of 'cookies'. 
+An anonymised string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-While LinuxLinks.com strives to protect its users personal information, we do not guarantee that information disclosed online is not distributed by these external companies. Visitors provide information at their own risk. 
+### Media
 
-  
-Last Updated Monday, May 02 2005 @ 09:25 AM EDT
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+
+### Cookies
+
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognise and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
