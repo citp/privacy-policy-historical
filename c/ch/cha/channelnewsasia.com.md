@@ -1,53 +1,98 @@
-> *The following text is extracted and transformed from the channelnewsasia.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624160329id_/https%3A//www.channelnewsasia.com/news/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelnewsasia.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212052551id_/https%3A//www.mediacorp.sg/en/privacy-policy-5933440) for the most accurate reproduction.*
 
-# Breaking News, Singapore News, World and Asia - Channel NewsAsia
+# Privacy Policy
 
-This document outlines Channel NewsAsia’s policy on privacy (the “Privacy Policy”). 
+  * [Mediacorp](https://web.archive.org/en)
+  * Privacy Policy
 
-**_What this privacy policy covers_**
 
-This Privacy Policy covers our treatment of personally identifiable information that we may collect when you use any of the services offered by Channel NewsAsia through our apps and sites. 
 
-This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. 
+This Privacy Policy applies to the Mediacorp group of companies collecting, using, disclosing, processing, and/or transferring out of Singapore, your personal data for one or more of the purposes described in this policy.
 
-**_What is the information used for?_**
+Mediacorp respects your privacy. This document outlines our privacy policy for the Mediacorp group of companies.  
 
-To provide goods and/or services whether by us or by our designated representatives and/or business partners to you or to parties designated by you and any and all matters ancillary thereto. 
 
-To verify and process payment when you subscribe to, purchase and/or obtain goods and services from any of our mobile apps and sites. 
+ **What this Privacy Policy covers**
 
-For verification and record of your personal particulars including comparing it with information from other sources and using the information to communicate with you. 
+  * This Privacy Policy covers our treatment of personal data that we may collect when you interact with us, submit information to us, access and/or use our products or services (such as but not limited to online and mobile websites, applications, and other digital services) (collectively, the "Mediacorp Services").
+  * This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. Mediacorp Services may contain links to other websites, applications and other services. Please note that we are not responsible for the privacy practices of such other websites, applications and other services and we advise you to read the privacy statements of such websites, applications and other services you visit which collects personal information.
 
-To conduct market research and statistical analysis of the users of our apps and sites including the number of users, the frequency of use, profile of users and using such analysis for our business plans, the enhancement of our products and services, targeted advertisements and conveying such information in broad terms (but not information in relation to specific individuals) to third parties who have or propose to have business dealings with us. 
 
-To send you information, promotions and updates including marketing and advertising materials in relation to our goods and services and those of third party organizations selected by us. 
 
-To comply with any request from any third party or any order of court or directive from authorities investigating any alleged offence, misdeeds and/or abuse or for the purposes of taking legal action against any users for breach of the Terms of Use. 
+ **What is the information used for?**  
 
-For the above purposes by third parties (who may be based outside Singapore) who offer goods and services or sponsor contests or other promotional programs on our apps and sites, whether in conjunction with us or not, if you purchase such goods, use such services or participate in such contests and promotional programs. 
 
-For Mediacorp and/or Mediacorp group companies to collect, use, disclose and/or process your personal data for the purposes as described above, and to transfer your personal data out of Singapore to Mediacorp’s and/or Mediacorp group companies’ third party service providers or agents for the purposes as described above. 
+Your personal data will be collected, used, disclosed and/or processed by us for the following purposes:
 
-**_Can you opt out?_**
+  * To send you notices, information, promotions and updates including marketing and advertising materials in relation to our goods and services and those of third party organizations selected by us.
+  * To provide goods and services by us or by our designated representatives and/or business partners to you or to parties designated by you and matters ancillary thereto.
+  * To verify and process payment when you purchase goods and services from us.
+  * For verification and record of your personal particulars including comparing it with information from other sources and using the information to communicate with you.
+  * To conduct statistical analysis of the users of the Mediacorp Services including the number of users, the frequency of use, profile of users and using such analysis for our business plans, the enhancement of our products and services, targeted advertisements and conveying such information in broad terms (but not information in relation to specific individuals) to third parties who have or propose to have business dealings with us.
+  * To comply with any request from any third party or any order of court or directive from authorities investigating any alleged offence, misdeeds and/or abuse or for the purposes of taking legal action against any users.
 
-Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. 
 
-**_Can you change and update your personal particulars?_**
 
-If you have a user account with Mediacorp, you may update your personal particulars at any time by accessing your account on our website or by sending an e-mail to [NewsEditor](mailto:newseditor@channelnewsasia.com), calling us at +65 6333 3888 or writing to Channel NewsAsia, Mediacorp Pte Ltd, Mediacorp Campus, 1 Stars Avenue, Singapore 138507. When contacting us, please be sure to provide us with your exact e-mail address, name, address and/or telephone number(s) in order to be sure we handle your request correctly. 
+ **Can you opt out?**  
 
-**_Changes to this privacy policy_**
 
-Channel NewsAsia may amend this policy from time to time. If we make any substantial changes in the way we use your personal information, we will notify you by posting an announcement on our pages. You agree that such posting will constitute sufficient and adequate notice to you of the changes. You agree that your continued use of our products and services after such amendment will constitute your acceptance of and agreement to be bound by the modified policy. For the avoidance of doubt, in the event of any conflict between the terms of (i) this Privacy Policy; and (ii) any applicable terms and conditions of use; any usage guidelines for specific products and services; and/or any terms of any of our websites (the “Site T&Cs”), the Site T&Cs shall prevail over this Privacy Policy. 
+In the event that you wish for us to discontinue the collection, use, disclosure and/or processing of your personal data for any of the above purposes, you may also write in to us at [dpo@mediacorp.com.sg](mailto:dpo@mediacorp.com.sg) to inform us of the same.
 
-**_Use of cookies_**
+Whenever we send you any marketing information, we will include instructions on how to unsubscribe.  For example, our e-newsletters will have unsubscribe links.  
 
-We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk or other storage device.
 
-**_How your data is protected_**
+ **Can you access or correct your personal data?**  
 
-Channel NewsAsia will take commercially reasonable steps to ensure that personal data are protected from unauthorised access. Access to your account is password-protected. Thus, no other party, including employees of Channel NewsAsia, can change the information. However, you must remember to log off from your account and close the browser window after use so that no unauthorised party can have access. You must not, at any time, divulge your password to any third party. All information gathered by Channel NewsAsia is stored in systems that may only be accessed by authorised staff of Mediacorp Pte. Ltd. using assigned user IDs and passwords. In certain areas Mediacorp Pte. Ltd. uses industry-standard SSL encryption to protect data transmissions.
 
-**_Release_**
+You may update your personal information at any time by accessing your account(s) with us or by writing in to us at [dpo@mediacorp.com.sg](mailto:dpo@mediacorp.com.sg) to inform us of the same.
 
-This policy is subject to any existing laws of the Republic of Singapore in relation to the protection of information and if required by any lawful authority for any legal purposes such as the enforcement of any laws or to prevent the breaching of any laws, we shall release all such information as is legally required by the requisite and lawful authority in accordance with the directions of the lawful court of the competent jurisdiction.
+ **Will your personal information be shared with anyone?**
+
+  * We will not sell or rent your personal information to anyone.
+  * We will only share your personal details with a third party for the purposes and situations as described above, or for other purposes where we have your consent to do so.
+
+
+
+For the avoidance of doubt, you consent to:
+
+(a)        Mediacorp and/or Mediacorp’s group companies collecting, using, disclosing and/or processing your personal data for the purposes and situations as described above;  
+(b)        Mediacorp and/or Mediacorp’s group companies  transferring your personal data out of Singapore to Mediacorp’s and/or Mediacorp’s group companies’ third party service providers or agents for the purposes and situations as described above.  
+
+
+ **How is your data protected?**  
+
+
+We will take reasonable steps to ensure that personal data are protected from unauthorized access and other similar risks. Access to your account(s) is password protected. Thus, no other party, including Mediacorp employees, can change the information. However, you must remember to log off from your account and close the browser window after use so that no unauthorized party can have access. You are responsible for the safe-keeping of your password. You must not, at any time, disclose your password to any third party. We will not be responsible and you agree that you will not hold us responsible for any losses or damage incurred by you whatsoever caused by your non-compliance to any of the foregoing. All information gathered by Mediacorp is stored in systems that may only be accessed by authorised Mediacorp staff using assigned user ids and passwords. In certain areas, Mediacorp uses industry-standard SSL-encryption to protect data transmissions.  
+
+
+ **Changes to this Privacy Policy**  
+
+
+Mediacorp may amend this policy from time to time. If we make any substantial changes in the way we use your personal information, we will notify you by posting an announcement on our platforms. You agree that such posting will constitute sufficient and adequate notice to you of the changes. You agree that your continued use of our products and services after such amendment will constitute your acceptance of and agreement to be bound by the modified policy.
+
+ **Use of cookies, web beacons and other user and ad-targeting technologies**  
+
+
+When you access, use and/or interact with the Mediacorp Services, we or our authorized service providers may use "cookies", “web beacons” and other tracking technologies where small data files are sent to your browser, application or device to store and track information about you. The cookies, web beacons and other tracking technologies are used to track information such as the number of users and their frequency of use, online behavioral data, profiles of users and their preferred sites. They enable our own system to recognise you when you visit us again, enhance your web-viewing experience and allow for more effective online targeted advertising. You may accept or decline cookies by modifying the settings in your browser, application or device, if the browser, application or device so permits. However, note that you may not be able to use all interactive features on the Mediacorp Services if cookies have been disabled completely. While this cookie can tell us when you interact with the Mediacorp Services and which pages you visit, it cannot access other data including from your computer or storage device and it does not contain information intended to identify you personally.
+
+Mediacorp does not utilise persistent cookies to track, or target advertisements to, persons who are resident in the European Union.
+
+ **Release**  
+
+
+This policy is subject to any existing laws of the Republic of Singapore in relation to the protection of information and if required by any lawful authority for any legal purposes such as the enforcement of any laws or to prevent the breaching of any laws, we shall release all such information as is legally required by the requisite and lawful authority in accordance with the directions of the lawful court of the competent jurisdiction.  
+
+
+ **Contact Mediacorp**  
+
+
+If you would like to request access to your personal data held by us, or you would like to contact us for any reason regarding our privacy policy or practices, please contact our Data Protection Officer at:
+
+Mediacorp Campus  
+1 Stars Avenue  
+Singapore 138507  
+(Attention: Data Protection Officer)  
+Tel: (65) 6333 3888  
+Email: [dpo@mediacorp.com.sg](mailto:dpo@mediacorp.com.sg)
+
+Please note that we may charge a reasonable fee for processing any data access request. 
