@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyhousetalk.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515101856id_/http%3A//tinyhousetalk.com/disclaimer-privacy-policy-dmca-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyhousetalk.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212231118id_/https%3A//tinyhousetalk.com/disclaimer-privacy-policy-dmca-policy) for the most accurate reproduction.*
 
 # Disclaimer, Privacy Policy & DMCA Policy
 
@@ -39,6 +39,8 @@ A web beacon is a transparent image file used to monitor your journey around a s
 We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you’ve seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
 
 Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+Personalize your Ad experience with us over at [Google](https://adssettings.google.com/authenticated).
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn’t cause a problem with our site, should you so choose.
 
@@ -96,7 +98,7 @@ Naples, FL 34102
 United States
 
 Or send an electronic copy to:  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+alex@tinyhousetalk.com
 
 Once the proper bona fide infringement notification is received by the Designated Agent it is company policy to do the following:
 
