@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telescope.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008035310id_/http%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy%26src%3Dfooter2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telescope.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212201433id_/https%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy%26src%3Dfooter2) for the most accurate reproduction.*
 
 # Privacy | Orion Telescopes & Binoculars
 
@@ -22,21 +22,21 @@ Any and all of your Personally Identifiable Information (with the exception of y
 
 If you purchase a product through our Site, your email address will be used to send your order and shipping confirmations, as well as other relevant correspondence regarding your order. We may also collect your email address if you order a product catalog. We may subsequently send you emails related to our products or services. If you do not want to receive product-related emails from us, you may follow the "Unsubscribe" instructions on the communication you have received or contact us as follows:
 
-> **Orion Telescopes & Binoculars**: [sales@telescope.com](mailto:sales@telescope.com) or 800-676-1343
+> **Orion Telescopes & Binoculars**: [sales@telescope.com](mailto:sales@telescope.com) or 800-447-1001
 
 If you supply us with your postal address, you may receive catalogs or mailings from us with information on products and services or upcoming events. If you do not wish to receive such mailings, please contact us as follows:
 
-> **Orion Telescopes & Binoculars**: [sales@telescope.com](mailto:sales@telescope.com) or 800-676-1343
+> **Orion Telescopes & Binoculars**: [sales@telescope.com](mailto:sales@telescope.com) or 800-447-1001
 
 Also, as a customer of our Site, you may receive postal mailings from other reputable companies. You can have your name put on our "do-not-share" list by contacting us as follows:
 
-> **Orion Telescopes & Binoculars**: [sales@telescope.com](mailto:sales@telescope.com) or 800-676-1343
+> **Orion Telescopes & Binoculars**: [sales@telescope.com](mailto:sales@telescope.com) or 800-447-1001
 
 Whenever you contact us in this fashion, please provide us with your exact name and address. We will make sure that you are removed from the postal address list we occasionally share with other organizations. 
 
 If you are a customer of our Site, you may change your email information or your postal address information by sending an email to us as follows:
 
-> **Orion Telescopes & Binoculars**: [sales@telescope.com](mailto:sales@telescope.com) or 800-676-1343
+> **Orion Telescopes & Binoculars**: [sales@telescope.com](mailto:sales@telescope.com) or 800-447-1001
 
 We may attempt to verify personal information to detect and prevent fraudulent activity including billing address, phone number and ship-to address information submitted with an order by contacting the credit card issuer, and using the services of LexisNexis and/or Cybersource.
 
@@ -53,22 +53,22 @@ We may share data, such as technical identifiers derived from your registration 
 We use the following cookies and tracking pixels to deliver content, including advertisements on third-party websites, specific to your interests:
 
 > **AddThis**  
->  We use AddThis functionality to provide you with the ability to share pages from our websites in your social media channels. In addition to a tracking pixel, AddThis serves its __atuvc cookie to visitors to our websites. You can find instructions on how to opt-out from AddThis functionality at this url: <http://www.addthis.com/privacy/opt-out>.
+>  We use AddThis functionality to provide you with the ability to share pages from our websites in your social media channels. In addition to a tracking pixel, AddThis serves its __atuvc cookie to visitors to our websites. You can find instructions on how to opt-out from AddThis functionality at this url: <https://www.addthis.com/privacy/opt-out>.
 > 
 > **Bazaarvoice**  
->  We use Bazaarvoice functionality to provide you with the ability to review our products and community items as well as read and interact with the reviews provided by others. You can learn more about Bazaarvoice's privacy policy and use of cookies, along with instructions on how to opt-out of Bazaarvoice data collection, at this url: <http://www.bazaarvoice.com/privacy-policy/>.
+>  We use Bazaarvoice functionality to provide you with the ability to review our products and community items as well as read and interact with the reviews provided by others. You can learn more about Bazaarvoice's privacy policy and use of cookies, along with instructions on how to opt-out of Bazaarvoice data collection, at this url: <https://www.bazaarvoice.com/privacy-policy/>.
 > 
 > **Commission Junction**  
->  We use Commission Junction functionality to track activity related to those who have seen and clicked on our product advertisements at various affiliate websites. You can find information on Commission Junction's privacy policies and use of cookies at this url: <http://www.cj.com/legal/privacy_web_user.html>.
+>  We use Commission Junction functionality to track activity related to those who have seen and clicked on our product advertisements at various affiliate websites. You can find information on Commission Junction's privacy policies and use of cookies at this url: <https://www.cj.com/legal/privacy_web_user.html>.
 > 
 > **Criteo**  
->  We use functionality from Criteo to serve interest-specific advertisements on third-party websites to those who have visited our websites. You can learn more about Criteo's privacy policy, data collection, etc. and how to opt out of Criteo advertisements at <http://www.criteo.com/privacy/>.
+>  We use functionality from Criteo to serve interest-specific advertisements on third-party websites to those who have visited our websites. You can learn more about Criteo's privacy policy, data collection, etc. and how to opt out of Criteo advertisements at <https://www.criteo.com/privacy/>.
 > 
 > **DoubleClick**  
->  We use DoubleClick functionality to serve interest-specific advertisements on third-party websites to those who have visited our websites. You can find instructions on how to opt-out from DoubleClick functionality at this url: <http://www.google.com/ads/preferences/html/opt-out.html>.
+>  We use DoubleClick functionality to serve interest-specific advertisements on third-party websites to those who have visited our websites. You can find instructions on how to opt-out from DoubleClick functionality at this url: <https://www.google.com/ads/preferences/html/opt-out.html>.
 > 
 > **eBay Enterprise Affiliate Network (formerly PepperJam Exchange)**  
->  We use eBay Enterprise Affiliate Network functionality to track activity related to those who have seen and clicked on our product advertisements at various affiliate websites. You can find information on eBay Enterprise's privacy policies and use of cookies at this url: <http://www.ebayenterprise.com/privacy/services_privacy.php>.
+>  We use eBay Enterprise Affiliate Network functionality to track activity related to those who have seen and clicked on our product advertisements at various affiliate websites. You can find information on eBay Enterprise's privacy policies and use of cookies at this url: <https://www.pepperjam.com/legal#privacy>.
 > 
 > **Facebook Connect and Social Plugins**  
 >  We use Facebook functionality to allow visitors to our websites to "Like" our products and pages and also to track activity related to those who have seen and clicked on our product advertisements on Facebook properties. Information on Facebook's privacy policies and adjusting your Facebook privacy settings can be found at this url: <https://www.facebook.com/about/privacy/>.
@@ -83,13 +83,13 @@ We use the following cookies and tracking pixels to deliver content, including a
 >  We use Google Analytics to track user activity in aggregate across our various websites. In addition to tracking pixels, Google Analytics serves its __utma, __utmb, __utmc, and __utmz cookies to our website visitors. You can find tools to help you opt-out of Google Analytics tracking and cookies at this url: <https://tools.google.com/dlpage/gaoptout>.
 > 
 > **LinkShare**  
->  We use LinkShare functionality to track activity related to those who have seen and clicked on our product advertisements at various affiliate websites. You can find information on LinkShare's privacy policies and use of cookies at this url: <http://www.linkshare.com/legal/privacy/>.
+>  We use LinkShare functionality to track activity related to those who have seen and clicked on our product advertisements at various affiliate websites. You can find information on LinkShare's privacy policies and use of cookies at this url: <https://www.linkshare.com/legal/privacy/>.
 > 
 > **Microsoft**  
->  We use Microsoft functionality to track activity related to those who have seen and clicked on our advertisements managed by Microsoft on third-party websites. You can find instructions on how to opt out of Microsoft functionality at this url: <http://choice.microsoft.com/en-us/opt-out>.
+>  We use Microsoft functionality to track activity related to those who have seen and clicked on our advertisements managed by Microsoft on third-party websites. You can find instructions on how to opt out of Microsoft functionality at this url: <https://choice.microsoft.com/en-us/opt-out>.
 > 
 > **ResellerRatings**  
->  We use ResellerRatings functionality to provide you with the ability to review Orion as a company. You can learn more about ResellerRatings' privacy policy and use of cookies at this url: <http://www.resellerratings.com/faqs#privacy>.
+>  We use ResellerRatings functionality to provide you with the ability to review Orion as a company. You can learn more about ResellerRatings' privacy policy and use of cookies at this url: <https://www.resellerratings.com/faqs#privacy>.
 > 
 > **Twitter**  
 >  We use Twitter functionality to provide you with the ability to share pages from our website in your Twitter stream.
@@ -104,7 +104,7 @@ The Site contains links to third-party Web sites not owned or controlled by Orio
 
 ## Public Forums
 
-Our Site may make chat rooms, forums, blogs, article commenting, and personal profile pages available to users. Please remember that any such information that you may choose to provide in these areas becomes accessible to the public, and also becomes the property of Orion Telescopes & Binoculars in accordance with our [Terms and Conditions](http://www.telescope.com/content.jsp?pageName=TermsAndConditions), and we may use such information in any way that we see fit. Consequently, you should exercise caution when deciding to disclose your personal information or to upload material of any kind onto our Site.
+Our Site may make chat rooms, forums, blogs, article commenting, and personal profile pages available to users. Please remember that any such information that you may choose to provide in these areas becomes accessible to the public, and also becomes the property of Orion Telescopes & Binoculars in accordance with our [Terms and Conditions](https://www.telescope.com/content.jsp?pageName=TermsAndConditions), and we may use such information in any way that we see fit. Consequently, you should exercise caution when deciding to disclose your personal information or to upload material of any kind onto our Site.
 
 ## Security
 
@@ -138,6 +138,6 @@ If you have any questions about this Privacy Statement, the practices of our Sit
 >  Orion Telescopes & Binoculars  
 >  89 Hangar Way  
 >  Watsonville, CA 95076  
->  [ Email Site Administrator](http://www.telescope.com/custserv/contactus.jsp)
+>  [ Email Site Administrator](https://www.telescope.com/custserv/contactus.jsp)
 
 This Privacy Policy is effective as of December 5, 2014.
