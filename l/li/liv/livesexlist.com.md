@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livesexlist.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610062340id_/http%3A//www.livesexlist.com/en/policy%23personaldata) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesexlist.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212172814id_/http%3A//www.livesexlist.com/en/policy%23personaldata) for the most accurate reproduction.*
 
 # Policy | Livesexlist
 
@@ -245,18 +245,6 @@ Based on this information, we will send you marketing emails tailored to your ta
 
 
 The sending of marketing emails is based on your consent. However, be aware that you can very easily revoke such consent at any time in your "Consent Settings". Revoking consent means you might miss out information on new services and special offers.
-
-#### Personalized content
-
-We are using a software, which is learning about your behavior on our site (for example, when you are navigating on our site, viewing livestreams, looking at Models’ profiles or adding favorites to your lists) and able to predict the types of Models who could be of interest for you.
-
-You will thus see a webpage adapted to your needs and you will quicker find what you like to see.
-
-Whether you created an account or not, the software will display, at your next login or visit, a webpage based on your preferences from previous activity.
-
-We rely on your consent to create a customized experience for you.
-
-You may withdraw your consent at any time by opting-out in your Consent Settings. Revoking your consent to content personalization may negatively affect your experience.
 
 #### Comply with any legal requirements and enforce our legal rights
 
