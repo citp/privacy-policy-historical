@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juliantrubin.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528083553id_/http%3A//www.juliantrubin.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juliantrubin.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212163350id_/http%3A//www.juliantrubin.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for juliantrubin.com
 
