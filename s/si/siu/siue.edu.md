@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siue.edu privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610223620id_/http%3A//www.siue.edu/web-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siue.edu privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212092003id_/http%3A//www.siue.edu/web-privacy-notice) for the most accurate reproduction.*
 
 # SIUE Web Privacy Notice
 
@@ -64,7 +64,7 @@ SIUE websites may incorporate or contain links to third-party websites, products
 
 ##### Website forms/requests
 
-Personal information that is provided by online means, such as a response to an inquiry or a request for information, is used only for purposes necessary to serve the specific requests. This may involve redirecting the inquiry or comment to another person or department better suited to meeting your needs, or through a third-party system administered by the University to help streamline communication/management. Personal information will only be shared to provide or improve our services and advertising; it will not be shared with third parties for their own marketing purposes. SIUE may facilitate the merging of personally-identifiable information with non-personally identifiable information collected for the purpose of enhancing the online user experience.
+Personal information that is provided by online means, such as a response to an inquiry or a request for information, is used only for purposes necessary to serve the specific requests. This may involve redirecting the inquiry or comment to another person or department better suited to meeting your needs, or through a third-party system administered by the University to help streamline communication/management. Personal information will only be shared to provide or improve our services and advertising; it will not be shared with third parties for their own marketing purposes. SIUE may facilitate the merging of personally-identifiable information with non-personally identifiable information collected for the purpose of enhancing the online user experience. The user may opt-out by clicking the 'unsubscribe' link provided in the corresponding email/digital communication. SIUE collectively includes a multitude of digital communication systems so unsubscribing will only take the user out of that respective system.
 
 #### How Long SIUE Keeps Information
 
