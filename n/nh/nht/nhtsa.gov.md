@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423190201id_/https%3A//www.nhtsa.gov/about-nhtsa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212215650id_/https%3A//www.nhtsa.gov/about-nhtsa/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NHTSA
 
-Thank you for visiting the National Highway Traffic Safety Administration ( NHTSA) web site. We are committed to respecting your right to privacy and will protect it when you visit our web site. NHTSA’s Privacy Policy explains our online information practices, including how we collect and use your personal information covered on the NHTSA web site. Our Privacy Policy does not apply to third party web sites that you are able to reach from our web site, nor does it cover practices of other elements within the Department of Transportation. We encourage you to read the Privacy Policies of those elements and third parties to learn how they collect and use information about you. To further protect your privacy, DOT now requires that all its Operating Administrations (such as NHTSA) certify that their web sites/pages are in compliance with DOT privacy and cookie policies and to certify any new web site before it is launched.
+Thank you for visiting the National Highway Traffic Safety Administration website. We are committed to respecting your right to privacy and will protect it when you visit our website. NHTSA’s Privacy Policy explains our online information practices, including how we collect and use your personal information covered on the NHTSA website. Our Privacy Policy does not apply to third party websites that you are able to reach from our website, nor does it cover practices of other elements within the Department of Transportation. We encourage you to read the Privacy Policies of those elements and third parties to learn how they collect and use information about you. To further protect your privacy, DOT now requires that all its Operating Administrations (such as NHTSA) certify that their websites/pages are in compliance with DOT privacy and cookie policies and to certify any new website before it is launched.
 
-When you visit our web site, we collect information about your visit that does not identify you personally. If you do nothing during your visit but browse through the web site, read pages, or download information, we automatically collect and store only the following information about your visit:
+When you visit our website, we collect information about your visit that does not identify you personally. If you do nothing during your visit but browse through the website, read pages, or download information, we automatically collect and store only the following information about your visit:
 
-The internet domain (for example, "xcompany.com" if you use a private internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the web) from which you access our web site;
+The internet domain (for example, "xcompany.com" if you use a private internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the web) from which you access our website;
 
   * The type of browser and operating system used to access our site;
   * The date and time you access our site;
   * The pages you visit; and
-  * If you linked to our web site from another web site, the address of that web site.
+  * If you linked to our website from another website, the address of that website.
 
 
 
 We use the information we collect to count the number of hits and type of visitors to the different pages on our site, and to help us make our site more useful to visitors like you. These types of information are retained indefinitely. In the event of a known security or virus threat, we may collect information on the web content you view.
 
-When you visit our web site, we collect no personal information about your visit without your full acknowledgement. In cases where you are requesting our resource services, e-mail inquiries, etc, your personal information may be needed in order for us to properly respond to your questions, complaints or process your resource request. Such information may be requested and voluntarily provided based on the nature of your needs as stated below:
+When you visit our website, we collect no personal information about your visit without your full acknowledgement. In cases where you are requesting our resource services, e-mail inquiries, etc., your personal information may be needed in order for us to properly respond to your questions, complaints or process your resource request. Such information may be requested and voluntarily provided based on the nature of your needs as stated below:
 
-  * Contact and shipping Information
-  * Response Information (name, mailing address, phone number, email address)
+  * Contact and shipping information
+  * Response information (name, mailing address, phone number, e-mail address)
 
 
 
-Please note that this information is kept on secure systems, using the latest security technology, including but not limited to Secure Socket Layer (SSL), encryption, firewalls, password protections; with no 3 rd party access and is immediately deleted from our system once your request is fulfilled.
+Please note that this information is kept on secure systems, using the latest security technology, including but not limited to Secure Socket Layer (SSL), encryption, firewalls, password protections; with no 3rd party access and is immediately deleted from our system once your request is fulfilled.
 
-Our principal purpose for collecting personal information online is to provide you with the information you need and want, and to facilitate the use of our web site.
+Our principal purpose for collecting personal information online is to provide you with the information you need and want, and to facilitate the use of our website.
 
 We will only use your information for the purpose for which you have provided this information, to address security or virus threats, or for the purposes required under the law. (In order to learn more about how we provide choices to you regarding our use of your information, visit the “Choices” section in this Privacy Policy.)
 
@@ -34,19 +34,17 @@ Generally, our uses of information collected online include:
 
   * Responding to your complaints
   * Replying to your “feedback comments”
-  * Fulfilling requests for reports, published materials or other similar information
+  * Fulfilling requests for reports, published material or other similar information
 
 
 
-We may share your information you provide to us online, as in e-mail with a comment or question, only with the appropriate government representatives within the Department of Transportation (see <http://www.dot.gov/DOTagencies.htm> for information on DOT Operating Administrations and related entities), as needed to improve our service to you and to facilitate your request or comment. In a government-wide effort to combat security and virus threats, we may share some information we collect automatically, such as IP address, with other federal government agencies.
+We may share your information you provide to us online, as in e-mail with a comment or question, only with the appropriate government representatives within the Department of Transportation (see [www.dot.gov/DOTagencies.htm](https://www.transportation.gov/administrations) for information on DOT Operating Administrations and related entities), as needed to improve our service to you and to facilitate your request or comment. In a government-wide effort to combat security and virus threats, we may share some information we collect automatically, such as IP address, with other Federal Government agencies. Additionally, we may be required by law to share information we collect with authorized law enforcement, homeland security, and national security activities. (See also the “What are your rights under the Privacy Act of 1974?” section in this Privacy Policy.)
 
-Additionally, we may be required by law to share information we collect with authorized law enforcement, homeland security, and national security activities (See also the “What are your rights under the Privacy Act of 1974?” section in this Privacy Policy).
+Throughout our website, we will let you know whether the information we ask you to provide is voluntary or required. By providing personally identifiable information, you are granting us consent to use this personally identifiable information for the primary purpose for which you are providing it. Additionally, we will ask for you to grant us consent before using your voluntarily provided information for any secondary purposes, other than those required under the law.
 
-Throughout our web site, we will let you know whether the information we ask you to provide is voluntary or required. By providing personally identifiable information, you are granting us consent to use this personally identifiable information for the primary purpose for which you are providing it. Additionally, we will ask for you to grant us consent before using your voluntarily provided information for any secondary purposes, other than those required under the law.
+A “cookie” is a small text file that is stored on your computer and makes it easy for you to move around a website without having to continually re-enter your name, password, preferences, etc.
 
-A “cookie” is a small text file that is stored on your computer and makes it easy for you to move around a web site without having to continually re-enter your name, password, preferences, etc.
-
-We use only “session” cookies; this means we store the cookie on your computer only during each visit to our web site. “Session” cookies are used by our software for load management and database access NO personal information is contained in these cookies. After you turn off your computer or stop using the Internet, the cookie is erased and nothing will be remembered the next time you visit our web site.
+We use only “session” cookies; this means we store the cookie on your computer only during each visit to our website. “Session” cookies are used by our software for load management and database access NO personal information is contained in these cookies. After you turn off your computer or stop using the Internet, the cookie is erased and nothing will be remembered the next time you visit our website.
 
 We are committed to properly securing the information we collect online. To help us accomplish this, we take the following steps:
 
@@ -64,7 +62,7 @@ We periodically test our security procedures to ensure personnel and technical c
 
 We employ external access safeguards to identify and prevent unauthorized attempts of outsiders to hack into, or cause harm to, the information in our systems.
 
-Tampering with a government web site, such as the website of the National Highway Traffic Safety Administration (NHTSA), is against the law. If anyone tries to tamper with it, they may be punished under the Computer Fraud and Abuse Act of 1986 and the [National Information Infrastructure Protection Act.](http://www.justice.gov/archive//ll/subs/p_security.htm)
+Tampering with a government website, such as the website of the National Highway Traffic Safety Administration, is against the law. If anyone tries to tamper with it, they may be punished under the Computer Fraud and Abuse Act of 1986 and the [National Information Infrastructure Protection Act](http://www.justice.gov/archive//ll/subs/p_security.htm).
 
 The Privacy Act of 1974 protects the personal information the federal government keeps on you in “Systems of Records (SOR)” (information an agency controls that can be retrieved by name or some other personal identifier). The Privacy Act regulates how the government can disclose, share, provide access to, and maintain the personal information that it collects. Not all information collected online is covered by the Privacy Act.
 
@@ -86,14 +84,14 @@ Each Privacy Act Notice will also notify you of the following:
 
 
 
-[Click here](https://www.transportation.gov/individuals/privacy/privacy-act-system-records-notices) to view our Privacy Act Notices
+[Click here](https://www.transportation.gov/individuals/privacy/privacy-act-system-records-notices) to view our Privacy Act Notices.
 
-For more information on our privacy practices, or for comments and concerns, please contact our Privacy Officer at [NHTSA.Privacy@dot.gov](mailto:NHTSA.Privacy@dot.gov)
+For more information on our privacy practices, or for comments and concerns, please contact our Privacy Officer at [NHTSA.Privacy@dot.gov](mailto:NHTSA.Privacy@dot.gov).
 
-Our web site has many links to our partners, especially other federal agencies. In a few cases we link to private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site to which you’re linking. NHTSA does not endorse, recommend, or favor any products, process, or service offered by the new site. It only provides these links as a service to you for additional information on various transportation issues. Details of our [linking policy.](https://web.archive.org/privacy-policy/linking-policy)
+Our website has many links to our partners, especially other federal agencies. In a few cases we link to private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site to which you’re linking. NHTSA does not endorse, recommend, or favor any products, process, or service offered by the new site. It only provides these links as a service to you for additional information on various transportation issues. Details of our [linking policy](https://web.archive.org/privacy-policy/linking-policy).
 
-Unless otherwise noted, this web site and the information it contains are provided as a public service by the U.S. Department of Transportation (DOT). This system is monitored to ensure proper operation, to verify the functioning of applicable security features, and for comparable purposes. Anyone using this system expressly consents to such monitoring. Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other than its intended purposes are prohibited and may result in criminal prosecution.
+Unless otherwise noted, this website and the information it contains are provided as a public service by the U.S. Department of Transportation (DOT). This system is monitored to ensure proper operation, to verify the functioning of applicable security features, and for comparable purposes. Anyone using this system expressly consents to such monitoring. Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other than its intended purposes are prohibited and may result in criminal prosecution.
 
 The DOT makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this web site and expressly disclaims liability for errors and omissions in the contents of this web site. No warranty of any kind, implied, expressed or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given with respect to the contents of this web site or its hyperlinks to other Internet resources. Reference in this web site to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by DOT.
 
-Information presented on this web site is considered public information and may be distributed or copied. DOT shall have the unlimited right to use for any purpose, free of any change, all information submitted to DOT via this site except those submissions made under separate legal contract. DOT shall be free to use, for any purpose, any ideas, concepts, or techniques contained in information provided to DOT through this site.
+Information presented on this website is considered public information and may be distributed or copied. DOT shall have the unlimited right to use for any purpose, free of any change, all information submitted to DOT via this site except those submissions made under separate legal contract. DOT shall be free to use, for any purpose, any ideas, concepts, or techniques contained in information provided to DOT through this site.
