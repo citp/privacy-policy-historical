@@ -1,105 +1,128 @@
-> *The following text is extracted and transformed from the benevity.org privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222200500id_/http%3A//www.benevity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benevity.org privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212175024id_/https%3A//www.benevity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Benevity
+# Privacy Policy Governs Use Of Personal Information - Benevity — Benevity
 
-**Last Updated: September 8, 2008**
+###   
+Privacy Policy
 
-Protecting the privacy and confidentiality of your personal information is a fundamental principle in our relationship with our users, Integration Partners and corporate sponsors. This Privacy Policy tells you how we will ensure the confidentiality and privacy of the information with which you entrust us. All terms used in this policy as defined terms and not specifically defined herein, have the respective meanings provided in our Terms of Use.
+This web site is operated by Benevity, Inc. ("Benevity" ), a software company that together with its affiliates and third party aggregating charity foundations (“us”, “we”) provides employee and consumer giving applications, donation processing software and related applications (the "Benevity Platform") along with additional products. Protecting the privacy and confidentiality of your personal information is a fundamental principle in the relationship that we have with users, corporate clients and corporate sponsors of the Benevity Platform. 
 
-This policy governs the use of personal information respecting the public portions of the Benevity website at [www.benevity.com](http://www.benevity.com/). To learn about terms and conditions applicable to your use of the Benevity Donation Platform from the secure portions of the Benevity site or from the site of one of our Integration Partners, please read the User Agreement found on the applicable site.
+This Privacy Policy describes the privacy and information practices respecting personal information of this web site and other web sites and applications that link to this Privacy Policy that utilize the Benevity Platform, including on-demand Web applications like our corporate grant-making and workplace giving, volunteering and pro-social activity measurement solutions (that are created by or for our clients to present such functionality to users, or any of our other products (collectively, the “Benevity Sites”). These various applications and services in connection with the Benevity Platform or any of our other products are collectively referred to as the "Services". This Policy applies to users of our workplace programs and our other Services as well as charities and non-profits and their employees, members of the public accessing our clients’ public-facing Benevity Platform donation portals and other visitors to our Sites such as prospective clients and their employees and subscribers to our web-based informational materials. 
 
-Access and use of this Website is provided by Benevity to you on condition that you accept the terms of the Privacy Policy, and by accessing or using this Website, you agree to these terms. If you do not agree with and accept this Privacy Policy, you should not access or use this Website.
+“Personal information” means information about an identifiable individual who can be directly or indirectly identified, which does not include information of an aggregate or anonymous nature where a specific individual or individuals cannot be identified. 
 
-Benevity may revise and update this Privacy Policy at any time and without notice. You are cautioned to review the Privacy Policy posted on the Website periodically. Your continued access or use of this Website after any such changes are posted will constitute your acceptance of these changes.
+We provide access and use of the Benevity Sites and Services to you on condition that you accept the terms of this Privacy Policy and any other relevant site documents, and by accessing or using the relevant Benevity Site, you agree to these terms. If you do not agree with and accept this Privacy Policy, you should not access or use any Benevity Site, nor utilize the Services. 
 
-By using the Benevity site, you consent to the collection, use and disclosure of your personal information in accordance with this policy. The terms of this policy apply to all personal information collected by Benevity on the website Benevity.com and other Benevity websites which are linked to Benevity.com. We have created this policy pursuant to the Personal Property Protection Act (Alberta) 2003, c.P-6.5. Your home jurisdiction may have privacy laws that are more or less protective than the province of Alberta, Canada.
+We use "cookies" to enable you to sign in to our Services and to help personalize your online experience. A cookie is a small text file that is placed on your hard drive. Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). Cookies do not collect personal information. They do collect information that includes the date and time of your visit, your registration information, session identification number and your navigational history and preferences. 
 
-This site is operated by Benevity Social Ventures, Inc. ("Benevity") and may be accessed in Canada and abroad. For personal information protection purposes, Benevity is the controller and, unless otherwise noted, is also the processor of the personal information. Information collected may be retained as long as it is reasonably required for the purposes it was collected.
+Cookies offer many conveniences. They allow us to identify registered users when they return to the relevant Benevity Site so that they can retrieve previous information and interact with the site more efficiently. Cookies also facilitate the use of analytics tools to monitor your navigational history. 
 
-### Privacy Officer
+You have the ability to accept or decline cookies. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, you may not be able to sign in or use other interactive features of your Benevity Site and Services that depend on cookies. Our Benevity Sites and Services use Google Analytics, a service which transmits website traffic data to Google servers. We use reports provided by Google Analytics to help us understand website traffic and webpage usage. 
 
-We have designated an officer of Benevity to be accountable for our policies and practices with respect to the management of personal information. You may forward any questions, comments or complaints that you might have about this privacy policy to Bryan de Lottinville, President and CEO to our company address, or by email to: [privacy@benevity.com](mailto:privacy@benevity.com).
+By using this website or the Services, you consent to the processing of data about you by Google in the manner described in Google's Privacy Policy ([http://www.google.com/policies/privacy/](https://policies.google.com/privacy)) and for the purposes set out  
+above. You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or use the opt-out service provided by Google (<https://tools.google.com/dlpage/gaoptout>). 
 
-### Consent to Collection of Your Personal Information
+In addition to cookies, we may use other technologies, including single-pixel gifs (also known as web beacons) on Benevity Sites and in e-mail messages or newsletters. These tiny electronic images assist us in determining how many users have visited certain pages or opened messages or newsletters. Wey do not currently use these images or beacons to collect personal information, and we will tell you by way of amendment of this policy if we do. 
 
-When you visit this site, certain kinds of non-personal information, such as the website that referred you to us, your IP address, browser type and language, and access times, may be collected automatically as part of the site's operation. We also may collect navigational information, including information about the pages you view, the links you click, and other actions taken in connection with the site. We only collect personal information about you after you have provided us with your consent to collect that specific information. By voluntarily providing this information to us, you consent to the collection and use of your personal information as set out in this privacy policy. You may always choose not to provide personal information, but if you so choose, certain products and services may not be available to you.
+By using a Benevity Site, or the Services, you consent to the collection, use and disclosure of your personal information in accordance with this policy. The terms of this policy apply to all personal information collected by us on any Benevity Site. We have created this policy pursuant to the Personal Information Protection and Electronic Documents Act (Canada) and other applicable law. Your home jurisdiction may have privacy laws that are more or less protective than Canadian legislation. (See information for European Economic Area individuals below.). 
 
-### Use of Your Personal Information
+Note: Benevity Sites may be accessed via or contain links to other Web sites or applications, such as your employer’s intranet, a charity’s web site, informational links that are embedded within content, and the like. We are not responsible for the information practices or the content of such other Web sites or providers and encourage you to review the privacy statements of such other Web sites or application providers to understand their information practices. 
 
-Benevity collects and uses your personal information to:
+##   
+Consent to Collection of Personal Information
 
-\- create and manage your Benevity account, if applicable;  
-\- process your transactions;  
-\- provide customer service;  
-\- perform research and analysis aimed at improving our products, services and technologies;  
-\- to display content that is customized to your interests and preferences;  
-\- to run Interactive Areas;  
-\- if you are a contributor to any of the Benevity Community Foundations, to facilitate your transactions and to prepare tax information slips;  
-\- if you are a contributor to the Benevity blog, to identify your uploaded content as your content; and,  
-\- to communicate with you about your transactions, new products and services.
+Other than the information that is provided by our corporate clients to initiate workplace programs, we only collect personal information about you after you have provided us with your consent to collect that specific information by registering as a user of the relevant Benevity Site or when you voluntarily provide personal information to us (such as for the purposes of a tax receipt to be issued via the Benevity Platform). By voluntarily providing this information to us, you consent to the collection and use of your personal information as set out in this Privacy Policy. You may always choose not to provide personal information, but if you so choose, the Services may not be available to you. 
 
-We may send transaction-related communications such as welcome letters, reminders, and donation confirmations. We may also send you surveys or marketing communications to inform you of new products or services or other information or offers that may be of interest, if you have opted in to the receipt of these communications. These surveys or marketing communications may come from Benevity or the Benevity Community Foundations or any of their affiliates or subsidiaries (the "Benevity Group"). If you do not wish to receive surveys or marketing communications, you may adjust your "Personal Information Preferences" within the secure portion of the site or follow the "unsubscribe" instructions included within each email communication. Please keep in mind that, if you choose not to receive marketing communications, you will continue to receive transactional or account communications (e.g., confirmation emails and account balance statements).
+The personal information provided by our corporate clients to initiate workplace programs is to establish the employee’s eligibility and log-in credentials, to implement payroll giving, if applicable, and provide reporting to our clients based on office location and business units. 
 
-Personal information collected by Benevity may be stored and processed in Canada or any other country in which any of the Benevity Group or its agents maintain facilities, and by providing us with your personal information and using our sites or services, you consent to any such transfer of information outside of your country. If you would like to exercise any of your personal information protection rights (including the right to have your personal information deleted), please contact us using the "Contact Information" below.
+##   
+Use of Your Personal Information
 
-### Disclosing Your Personal Information
+Where applicable based upon your usage of a particular Benevity Site, we may collect and use your personal information to: 
 
-Except as set out in this Privacy policy, Benevity does not disclose or sell your personal information to any third-parties.
+  * create and manage your user account; 
+  * process and report upon your donation, volunteering, charitable gift card, prosocial activities or other transactions; 
+  * provide client service and related assistance to you or the corporate client of the Benevity Site; 
+  * perform research and analysis aimed at improving the Services, the Benevity Platform and the philanthropic landscape; 
+  * display or provide content that is created by you or customized to your interests and preferences; 
+  * to operate interactive areas of the relevant Benevity Site; 
+  * if you are a contributor to any of the third party donor advised foundations that form part of the Benevity Platform, to facilitate your donation transactions and to prepare tax information slips or other acknowledgments;  
+  * to interact with our client corporation that has licensed the Site for its employees and other users; 
+  * if you are a contributor to a news or information forum feature or a user-generated or team fundraising or volunteering event within one of the Benevity Sites, to identify your uploaded content as your content; 
+  * to communicate with you about your donation and volunteering transactions, your use of the Services, and new products and services; and 
+  * to carry out other purposes which are disclosed to you and to which you consent, or are permitted or required by applicable law. 
 
-We may disclose your personal information to third-party service providers who perform services on our behalf. For example, we may hire other companies to handle the processing of payments and donations, to provide data storage, to host websites, to fulfill orders and shipments, to assist in marketing, to conduct audits, etc. Those third-party service providers (i) shall be permitted to obtain only the personal information they need to provide the service, (ii) must protect personal information to the same extent as Benevity, and (iii) shall be prohibited from using it for any other purpose.
 
-We may disclose your personal information to the Benevity Group, provided that the Benevity Group uses your personal information for the same purposes and protects it to the same degree, as set out in this Privacy Policy. Personal information disclosed to the Benevity Group may be available to the United States government or its agencies under a lawful order made in a court of competent jurisdiction in the US. We reserve the right to disclose your personal information if required or permitted to do so by law.
 
-### Accessing Your Personal Information
+We may send you transaction-related communications such as welcome letters, reminders, donation confirmations, thank-you letters, impact statements and the like. We may also send you surveys or marketing communications to inform you of new products or services or other information or offers that may be of interest to you. If you do not wish to receive surveys or marketing communications, you may opt-out by following the “unsubscribe” instructions included within each email communication. Please note that if you choose not to receive marketing or survey communications, you will continue to receive transactional and account communications (e.g. confirmation emails, account balance statements, etc.). For Canadian citizens, in accordance with Canada’s Anti-Spam Legislation, (or in certain other countries as applicable) if you wish to receive communications from us, you have the right to opt-in at the time of signing up for Services. 
 
-If you would like to review or revise information that you previously provided to us, you may access and change your personal information in the "Account Details" section of the secure portions of the site. You may also contact User Services at (403) 237-7875 or by email at [help@benevity.com](mailto:help@benevity.com) for assistance.
+We use personal information to provide the Services to you, enhance the operation of the relevant Benevity Site, improve our marketing and promotional efforts, improve our product and service offerings, and to tailor your experience with charities and other third parties. For example, if you send our client services group an email we may use your comments and feedback to tell others about our Services, and may post your comment in our marketing materials or on a Benevity Site. If your comments contain personal information such as your name, we will obtain consent from you to post your name along with your comment prior to posting your comment for public view. 
 
-### Personal Information Preferences
+We utilize third-party service providers, to manage credit card processing. Neither Benevity, its affiliates, nor the foundations receive or hold your credit card information. These service providers are not permitted to store, retain or use such information except for the purpose of credit card processing of donations, charitable gift cards or other purchases authorized by you through a Benevity Site. Details of their respective privacy and information practices are accessible through their respective merchant platforms that may be accessed via or integrated with a Benevity Site.   
+Our Platform is designed to facilitate efficient employer and corporate matching programs and is not intended for the processing of “sensitive information” as defined in various jurisdictions including personal health, financial or confidential personal information. 
 
-Benevity respects your right to make choices about the use and disclosure of your personal information. If at any time you decide that you do not want to receive surveys or marketing communications from us, please let us know by: (1) checking or unchecking the appropriate box on your online registration form when you sign up or the in "User Preferences" page of the website once you are a member; or (2) contacting your User Services in the manner described in the above paragraph.
+We may share your information in a business transfer. As with any other business, we could merge with, or be acquired by another company. If this occurs, the successor company would acquire the information we maintain, including personal information, subject of course to this Privacy Policy.   
+We may share your information for our protection and the protection of others. We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights or comply with a judicial proceeding, court order, or legal process served on a Benevity Site; enforce or apply this Privacy Policy, the Terms of Use or other agreements; or protect the rights, property or safety of a Benevity Site, its users, corporate host or others.
 
-If you choose not to receive marketing communications, please be advised that you will continue to receive transactional or account communications (e.g., confirmation emails, donation receipts and donation account balance statements).
+##   
+Correcting and Updating Your Personal Information
 
-### Use of Cookies and Other Technologies
+Users participating in relevant workplace programs may update or change their registration information by editing their user or organization record on the relevant Benevity Site. To update a user profile, please login to the relevant Benevity Site with your username and password and click on your name in the header or “User Profile” in the footer. Once in the user profile, edit by clicking on “Tax Receipt Information” to update any of your personal information. To discontinue your account, please contact your employer in the case of a Spark Site, the corporate host of any other Benevity Site, or email [help@benevity.org](mailto:help@benevity.org). Any user may request to access or correct their personal information by contacting us at [privacy@benevity.com](mailto:privacy@benevity.com). We will respond to requests to access, change, or delete such information within 30 days and may be under an obligation to share such request with the corporate host of the Benevity Site. 
 
-Benevity uses "cookies" to enable you to sign in to our services and to help personalize your online experience. A cookie is a small text file that is placed on your hard drive. Cookies contain information, including personal information, that can later be read by a web server in the domain that issued the cookie to you. The information that cookies collect includes the date and time of your visit, your registration information, session identification number and your navigational history and preferences.
+##   
+Retention and Destruction/Anonymization of Personal Information
 
-Cookies offer you many conveniences. They allow us to identify registered users when they return to the site so that they can retrieve previous information and interact with the site more efficiently.
+We retain personal information we collect from you in accordance with applicable law and where we have an ongoing legitimate business need to do so (for example, to provide you with a service you or your employer have requested or to comply with applicable legal, tax or accounting requirements). Canadian law allows us, for legal or business purposes, to retain personal information for as long as is reasonable (typically seven years from the deactivation of a user account). Upon expiry of an appropriate retention period, bearing in mind reasonable legal and business requirements, personal information will either be destroyed in a secure manner or made anonymous. 
 
-In some cases, our third-party service providers or Integration Partners or corporate sponsors may use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Benevity only, and does not cover the use of cookies by third parties.
+## Personal Information Preferences
 
-You have the ability to accept or decline cookies. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies.
+In addition to you controlling the marketing and survey information that may be sent to you as described previously in this Policy, we offer users who provide contact or other personal information a means to choose how we use the information you provide. You may manage your receipt of non-transactional communications and whether we share your contact information and donation data with the charities or other entities to which you donate your time or money by selecting or unselecting the appropriate box in your user profile or the donation forms that are part of the relevant Benevity Site. Additionally, you may send a request specifying your communications preferences to [help@benevity.org](mailto:help@benevity.org). 
 
-If you choose to decline cookies, you may not be able to sign in or use other interactive features of our site and services that depend on cookies but you will be able to perform basic navigation through the site.
+##   
+Rights of European Economic Area individuals
 
-In addition to cookies, we may use other technologies, including single-pixel gifs (also known as web beacons) on our websites and in e-mail messages or newsletters. These tiny electronic images assist us in determining how many users have visited certain pages or opened messages or newsletters. We do not use these images to collect personal information.
+In addition, if you are a resident of the EEA, you have the following data protection rights:
 
-### Security of Your Personal Information
+ **a)** If you wish to access, correct, update or request deletion, in the form of anonymization, of your personal information, you can do so at any time by contacting us using the contact details provided below; 
 
-The security of your personal information is important to us. We follow generally accepted industry standards to help protect your personal information including without limitation:
+ **b)** You can also object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. Again, you can exercise these rights by contacting us using the contact details below; 
 
-* limiting access to your personal information to those of our employees who require it to provide services to you;  
-* requiring employees to sign confidentiality agreements to protect customer and other confidential information;  
-* ensuring that third-party service providers, Integration Partners and corporate sponsors sign confidentiality agreements to maintain the confidentiality of your personal information and not to use it for any unauthorized purposes;  
-* encrypting credit card information on our donation forms using secure socket layer (SSL) technology; and  
-* storing your personal information in secure computer systems which protect it from unauthorized access or use.
+ **c)** Where in the case of a workplace program, we derive the custody or control of the personal information through our corporate client , the client will be the controller and all requests for access to personal information should be forwarded through such controller to us; 
 
-No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security.
+ **d)** Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent; 
 
-If a password is used to protect your account and personal information, it is your responsibility to keep your password confidential.
+ **e)** You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority. 
 
-### Blogs & Other Interactive Services
+ **f)** We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. 
 
-Our site may include interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, discussion forums, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at [help@benevity.com](mailto:help@benevity.com). Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems.
+Our legal basis for collecting and using the personal information provided by our clients to initiate workplace programs is a legitimate interests basis. Any information provided by any user in any other context is on a consent basis, or to perform a contract with you. 
 
-### Children
+##   
+International Data transfers
 
-We do not intend to solicit donations from or collect personal information from anyone under the age of 18 without parental consent. If you are under 18, you shall not use or enter information on this site, including without limitation, any Interactive Areas of the site without parental consent. Please contact User Services at (403) 237-7875 or by email at [help@benevity.com](mailto:help@benevity.com), to obtain the necessary parental consent forms.
+Personal information collected by us may be stored and processed in Canada, the United States or any other country in which we or our agents maintain facilities, and by providing us with your personal information and using any of the Benevity Sites or Services, you consent to any such transfer of information outside of your country (if however, you are using the Benevity Sites as an employee pursuant to a workplace program, Benevity should be considered a ‘data processor’ under applicable privacy laws, and your employer is the ‘data controller’ who has provided such consent). As a result, this personal information may be subject to access requests from the corporate employer, governments, courts, or law enforcement officials in those jurisdictions according to laws in those jurisdictions. Subject to applicable laws in such other jurisdictions, we will ensure that appropriate protections are in place regarding all personal information. 
 
-### Links
+For EAA data subjects, note that Canada has been deemed “adequate” by the EU Commission. Data is accessible in the United States by our affiliate and data is stored in United States with our data hosting service provider, both which are Privacy Shield – certified. 
 
-We may link to websites, including those of our subsidiaries, Integration Partners, corporate sponsors and third-party content providers, that have different privacy policies and practices from those disclosed here. We assume no responsibility for the policies or practices of such linked sites, and encourage you to become acquainted with them prior to use.
+##   
+Miscellaneous
 
-### Changes to This Privacy Policy
+As a service provider to US Privacy Shield-certified clients, Benevity adheres to all Privacy Shield principles. 
 
-We reserve the right to change the terms of this privacy policy at any time. When we make changes, we will revise the "last updated" date at the top of the policy. If there are material changes to this statement or in how Benevity will use your personal information, we will notify you by prominently posting a notice of such changes here or on our home page, or by sending you an email. We encourage you to review this policy whenever you visit one of our sites.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, in addition to your data protection authority, you may also contact our U.S. based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
+
+##   
+Contacting Us
+
+Whether you’re a new or loyal user of our Services, a charity, or another user of a Benevity Site, we’d like to stay connected and want to hear from you! We are constantly striving to improve the Services and Make Goodness Better. Let us know if you have any ideas, suggestions or issues. 
+
+  
+Benevity, Inc. 700,  
+611 Meredith Road NE  
+Calgary, AB T2E 2W5
+
+  
+Email: [privacy@benevity.com](mailto:privacy@benevity.com)
+
+  
+ **Last Revision: May 2018**
