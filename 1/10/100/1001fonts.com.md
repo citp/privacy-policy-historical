@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621152838id_/http%3A//www.1001fonts.com/tos/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212021356id_/https%3A//www.1001fonts.com/tos/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy · 1001 Fonts
 
