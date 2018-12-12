@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtribune.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615020039id_/http%3A//www.worldtribune.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtribune.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212054204id_/https%3A//www.worldtribune.com/privacy) for the most accurate reproduction.*
 
 # Privacy – World Tribune: Window on the Real World
 
@@ -60,14 +60,16 @@ world@worldtribune.com
 
 * * *
 
-  * [**ABOUT**](http://www.worldtribune.com/about/)
-  * [**YOUR EXCLUSIVE INTELLIGENCE BRIEFING**](http://www.worldtribune.com/Your%20exclusive%20intelligence%20briefing/)
-  * **[FREE HEADLINE ALERTS](http://www.worldtribune.com/sign-daily-alerts/)**
+  * [**ABOUT**](https://www.worldtribune.com/about/)
+  * [**YOUR EXCLUSIVE INTELLIGENCE BRIEFING**](https://www.worldtribune.com/Your%20exclusive%20intelligence%20briefing/)
+  * **[FREE HEADLINE ALERTS](https://www.worldtribune.com/sign-daily-alerts/)**
   * [**SUBSCRIPTION, ADVERTISING INQUIRIES**](mailto:sales@worldtribune.com)
 
 
 
 ___________________________________________________________
+
+Share This Post! Want to help out the Free Press in America? If you enjoyed this article we'd really appreciate a quick share. Every share makes a big difference and helps us focus on what we do the best: The news! Thanks from World Tribune Editors and Correspondents!
 
   *   *   *   *   *   * 
 
