@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keenfootwear.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912014048id_/http%3A//www.keenfootwear.com/keen-legal-info/%3FpageTitle%3DPrivacy%252520Policy%26id%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keenfootwear.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212182857id_/https%3A//www.keenfootwear.com/keen-legal-info/%3FpageTitle%3DPrivacy%252520Policy%26id%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Customer Service - Legal | KEEN Footwear
 
@@ -24,7 +24,7 @@ We and our third party marketing partners may also use the information you send 
 
 **Information we collect automatically via the Websites**
 
-When you visit our Websites, we may automatically collect the following information: your IP address, log-in information, location information, browser type and version, browser plug-in types and versions, operating system and platform, information about your visit including the URL clickstream to, through and from our Websites, download errors, length of visits to certain pages and page interaction. We collect information automatically through the use of various technologies, including through "cookies", and this is explained further in the "Cookies and other technologies" section below. 
+When you visit our Websites, we may automatically collect the following information: your IP address, log-in information, location information, browser type and version, browser plug-in types and versions, operating system and platform, information about your visit including the URL clickstream to, through and from our Websites, download errors, length of visits to certain pages and page interaction. In some countries, including countries in the European Economic Area, this information may be considered personal information under applicable data protection laws. We collect information automatically through the use of various technologies, including through "cookies", and this is explained further in the "Cookies and other technologies" section below. 
 
 We use the information we collect automatically: (i) to administer our Websites for internal operations including troubleshooting purposes; (ii) to ensure that content from our Websites is presented in the most effective manner for you and your devices; (iii) as part of our effort to keep our Websites and the order process; (iv) to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and (v) to make suggestions and recommendations to you and other users of our Websites about goods or services that may interest you or them. 
 
@@ -40,6 +40,14 @@ In addition to the above collection and use, if you wish to access and make use 
 
 We will only ever ask you for a proportionate and justified amount of personal information to allow us to carry out the above checks and will not store this information for an unreasonable length of time. 
 
+**Legal basis for processing personal information (EEA visitors only)**
+
+If you are a visitor from the European Economic Area, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it. 
+
+However, we will normally collect personal information from you only where we have your consent to do so, where we need the personal information to perform a contract with you, or where the processing is in our legitimate interests (such as the prevention of fraud or provision of direct marketing) and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person. If we ask you to provide personal information to comply with a legal requirement or to perform a contact with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information). 
+
+**If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us at the address found in the "Contact Us" section below.**
+
 **Cookies and other technologies**
 
 We collect information automatically through the use of "cookies". A cookie is a text file containing small amounts of information that a website can send to your browser, which may then be stored on your computer as a tag that distinguishes your computer but does not name you. Some of our websites pages use cookies to better serve you when you return to the Websites. For information about the specific cookies used on these Websites and how you can block or turn off cookies, please refer to our Cookie Statement. 
@@ -54,7 +62,9 @@ Where we provide links to other websites, we do so for information purposes only
 
 **Data retention**
 
-We may retain some information about you and your purchases after they have been placed or your account has been closed. 
+We may retain some information about you and your purchases after they have been placed or your account has been closed where we have an ongoing legitimate business need to do so (for example, to comply with applicable legal, tax or accounting requirements). 
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. 
 
 **Disclosure of information to third parties**
 
