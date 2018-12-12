@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beatingbroke.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611161150id_/http%3A//www.beatingbroke.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatingbroke.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212175441id_/http%3A//www.beatingbroke.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
