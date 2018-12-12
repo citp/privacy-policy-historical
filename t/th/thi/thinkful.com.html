@@ -1,44 +1,71 @@
-<!--The following is the downloaded HTML source of the thinkful.com privacy policy that was archived on 2017-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170513002859id_/https%3A//www.thinkful.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thinkful.com privacy policy that was archived on 2018-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181212023648id_/https%3A//www.thinkful.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationTime":96,"transactionName":"ZlRWMUFRDxdSABZaW18echBdUxUNXA1NQ1FdWFcEXR4SAUEVB0EaR1hREkAKEgFBFQdBa0FQUwBA","applicationID":"5502936","beacon":"bam.nr-data.net","queueTime":2,"agent":"","licenseKey":"2ef1007876","errorBeacon":"bam.nr-data.net"}</script>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<script src="//cdn.optimizely.com/js/222888614.js" async=""></script>
-<script>
+  <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"5502936","transactionName":"ZlRWMUFRDxdSABZaW18echBdUxUNXA1NQ1FdWFcEXR4SAUEVB0EaR1hREkAKEgFBFQdBa0FQUwBA","applicationTime":12,"errorBeacon":"bam.nr-data.net","licenseKey":"2ef1007876","agent":"","queueTime":22,"beacon":"bam.nr-data.net"}</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <script src="//cdn.optimizely.com/js/222888614.js" async=""></script>
+  
+
+  <script>
     var PYSPLASH_URL="www.thinkful.com";
     var USE_SSL="True";
     var PATH_EXPLICIT="https://wow.thinkful.com";
     
       var DISCOUNT_MODAL_TYPE=null;
     
+    
+      var LOCAL_CITIES = null;
+    
   </script>
-<title>Privacy Policy · Thinkful</title>
-<meta content="Please read this privacy policy fully and carefully before using www.thinkful.com and/or any of the other services, features, content or applications offered by Thinkful, Inc." name="description">
-<meta content="" name="keywords">
-<link rel="canonical" href="https://www.thinkful.com/privacy-policy/">
- 
-<meta name="og:site_name" content="Thinkful">
-<meta name="og:type" content="article">
-<meta name="og:image" content="https://tf-assets-prod.s3.amazonaws.com/splash/social/thinkful_logo.png">
- 
-<meta name="tf-path-explicit" content="https://wow.thinkful.com">
-<meta name="tf-use-ssl" content="True">
-<meta name="tf-pysplash-url" content="www.thinkful.com">
-<meta name="tf-cookie-domain" content="thinkful.com">
- 
-<link rel="shortcut icon" href="https://wow.thinkful.com/static/images/favicon.ico" type="image/x-icon">
-<link rel="icon" href="https://wow.thinkful.com/static/images/favicon.ico" type="image/x-icon">
- 
-<meta content="segmentio" data-token="nkoll4p35e">
-<meta name="google-site-verification" content="kPl17B5_3eLKI0RzpOoqntm6UkDh4VmAhEJ4o3D5X_8">
-<meta name="analytics-page-name" content="splash-privacy-policy">
- 
-<meta name="tf-advisor-id" content="236154">
-<meta name="tf-advisor-email" content="benjy@thinkful.com">
-<meta name="tf-advisor-firstname" content="Benjy">
- 
-<script async="">
+
+  <title>Privacy Policy · Thinkful</title>
+
+  <meta content="Please read this privacy policy fully and carefully before using www.thinkful.com and/or any of the other services, features, content or applications offered by Thinkful, Inc." name="description">
+  <meta content="" name="keywords">
+  
+    <link rel="canonical" href="https://www.thinkful.com/privacy-policy/">
+
+  
+  
+  
+
+
+  
+
+  <!-- OG tags as default if none are above then these will be used -->
+  <meta name="og:site_name" content="Thinkful">
+  <meta name="og:type" content="article">
+  <meta name="og:image" content="https://tf-assets-prod.s3.amazonaws.com/splash/social/thinkful_logo.png">
+
+  <!-- config vars -->
+  <meta name="tf-path-explicit" content="https://wow.thinkful.com">
+  <meta name="tf-use-ssl" content="True">
+  <meta name="tf-pysplash-url" content="www.thinkful.com">
+  <meta name="tf-albatross-url" content="https://location.thinkful.com">
+  <meta name="tf-cookie-domain" content="thinkful.com">
+
+  <!-- icons -->
+  <link rel="shortcut icon" href="https://wow.thinkful.com/static/images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="https://wow.thinkful.com/static/images/favicon.ico" type="image/x-icon">
+
+  <!-- Analytics -->
+  <meta content="segmentio" data-token="nkoll4p35e">
+  <meta name="google-site-verification" content="kPl17B5_3eLKI0RzpOoqntm6UkDh4VmAhEJ4o3D5X_8">
+  <meta name="analytics-page-name" content="splash-privacy-policy">
+
+  <!-- Education Advisor id -->
+  <meta name="tf-advisor-id" content="236154">
+  <meta name="tf-advisor-email" content="benjy@thinkful.com">
+  <meta name="tf-advisor-firstname" content="Benjy">
+
+  <!-- live reload -->
+  
+
+  
+  <script async="">
   /*! loadCSS: load a CSS file asynchronously. [c]2016 @scottjehl, Filament Group, Inc. Licensed MIT details at https://github.com/filamentgroup/loadCSS */
   (function(w){
   "use strict";
@@ -121,391 +148,421 @@
 
   loadCSS( "//fast.fonts.net/cssapi/1687f214-249f-4805-8f46-2d1ef3144500.css" );
 </script><link rel="stylesheet" href="//fast.fonts.net/cssapi/1687f214-249f-4805-8f46-2d1ef3144500.css" media="all">
-<link rel="stylesheet" href="https://wow.thinkful.com/static/build/splash.app.css?b7a2f0b4f2">
-<noscript>
-<link rel="stylesheet" href="//fast.fonts.net/cssapi/1687f214-249f-4805-8f46-2d1ef3144500.css">
-</noscript>
+
+  
+    <link rel="stylesheet" href="https://wow.thinkful.com/static/build/splash.app.css?1844d5e358">
+  
+
+  
+  <noscript>
+    <link rel="stylesheet" href="//fast.fonts.net/cssapi/1687f214-249f-4805-8f46-2d1ef3144500.css">
+  </noscript>
+
+  
 </head>
 <body class="">
-<div class="splash-nav hamburger-off">
-<div class="hamburger">
-<div class="hamburger-stripe"></div>
-<div class="hamburger-stripe"></div>
-<div class="hamburger-stripe"></div>
+  
+
+  <div class="splash-nav hamburger-off">
+  <div class="hamburger">
+    <div class="hamburger-stripe"></div>
+    <div class="hamburger-stripe"></div>
+    <div class="hamburger-stripe"></div>
+  </div>
+  <div class="splash-nav-desktop-grid">
+    <ul class="splash-nav-primary">
+      <li class="splash-nav-item splash-nav-item__logo"><a href="/">
+        <img src="https://tf-assets-prod.s3.amazonaws.com/splash/press/thinkful_logo_white.svg" width="114" height="24" class="splash-nav-logo">
+      </a></li>
+    </ul>
+
+    <ul class="splash-nav-secondary">
+      <li class="splash-nav-item">
+        <a href="#" class="splash-nav-toggle" id="splash-nav-courses-toggle">Courses <span aria-hidden="true" class="icon-navigatedown"></span></a>
+        <div id="splash-nav-courses-dropdown" class="splash-nav-dropdown">
+          <ul>
+            <li class="splash-nav-dropdown-item">
+              <a class="splash-nav-dropdown-padding" href="/bootcamp/web-development/full-time/">
+                <div class="splash-nav-dropdown-title">Engineering Immersion</div>
+              </a>
+            </li>
+            <li class="splash-nav-dropdown-item">
+              <a class="splash-nav-dropdown-padding" href="/bootcamp/web-development/flexible/">
+                <div class="splash-nav-dropdown-title">Full Stack Flex</div>
+              </a>
+            </li>
+            <li class="splash-nav-dropdown-item">
+              <a class="splash-nav-dropdown-padding" href="/bootcamp/data-science/flexible/">
+                <div class="splash-nav-dropdown-title">Data Science</div>
+              </a>
+            </li>
+            <li class="splash-nav-dropdown-item">
+              <a class="splash-nav-dropdown-padding" href="/courses/">
+                <div class="splash-nav-dropdown-title">All courses</div>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li class="splash-nav-item"><a href="/how-we-work/">How We Work</a></li>
+      <li class="splash-nav-item"><a href="/outcomes/">Outcomes</a></li>
+      <li class="splash-nav-item"><a href="//dashboard.thinkful.com/">Sign in</a></li>
+    </ul>
+  </div>
 </div>
-<div class="splash-nav-desktop-grid">
-<ul class="splash-nav-primary">
-<li class="splash-nav-item splash-nav-item__logo"><a href="/">
-<svg xmlns="http://www.w3.org/2000/svg" width="136" height="28" class="splash-nav-logo">
-<g fill="#6799ff" fill-rule="evenodd">
-<path d="M9 20h3V8H3V3h17V0H0v11h9v9z"></path>
-<path d="M17 8v17H9v3h11V11h8V0h-3v8h-8zm25 3.5V20h3v-8.5h3.5V9h-10v2.5H42zM66 9v11h3V9h-3zm-11 4V9h-3v11h3v-4.5h4V20h3V9h-3v4h-4zm45 7h3v-4h5v-2.4h-5v-2h5.5V9H100v11zm-20-4.5L76 9h-3v11h3v-6.5l4 6.5h3V9h-3v6.5zM130 9h-3v11h8.5v-2.5H130V9zM93.5 9L90 14V9h-3v11h3v-5l3.5 5H97l-4-5.5L97 9h-3.5zm24 11.5c3 0 5.5-2.5 5.5-5.5V9h-3v5.5c0 1.5-.5 3-2.5 3s-2.5-1.5-2.5-3V9h-3v6c0 3 2.5 5.5 5.5 5.5z"></path>
-</g>
-</svg>
-</a></li>
-<li class="splash-nav-item">
-<a href="#" class="splash-nav-toggle" id="splash-nav-courses-toggle">Courses <span aria-hidden="true" class="icon-navigatedown"></span></a>
-<div id="splash-nav-courses-dropdown" class="splash-nav-dropdown">
-<ul>
-<li class="splash-nav-dropdown-item"><div class="splash-nav-dropdown-padding">
-<a class="splash-nav-web-dev-bootcamp-link" href="/bootcamp/web-development/">
-<img class="splash-nav-dropdown-image__bootcamp" src="//tf-assets-prod.s3.amazonaws.com/wow-next/course-icons/career.gz.svg" alt="Web Development Bootcamp">
-<h4 class="splash-nav-dropdown-title splash-nav-dropdown-title__wdcp">Web Development Bootcamp</h4>
-</a>
-<div class="splash-nav-dropdown-cp-links">
-<a href="/bootcamp/web-development/flexible/">Flexible <span>Bootcamp</span></a>
-<a href="/bootcamp/web-development/full-time/">Full Time <span>Bootcamp</span></a>
-</div></div>
-</li>
-<li class="splash-nav-dropdown-item"><a class="splash-nav-dropdown-padding" href="/bootcamp/data-science/flexible/">
-<img class="splash-nav-dropdown-image__bootcamp" src="//tf-assets-prod.s3.amazonaws.com/splash/data-science/data_science.svg" alt="Data Science">
-<h4 class="splash-nav-dropdown-title">Data Science Bootcamp</h4>
-</a></li>
-<li class="splash-nav-dropdown-item"><a class="splash-nav-dropdown-padding" href="/courses/">
-<img src="//tf-assets-prod.s3.amazonaws.com/wow-next/splash-nav/master-a-new-skill.gz.svg" alt="All courses">
-<h4 class="splash-nav-dropdown-title">All courses</h4>
-</a></li>
-</ul>
-</div>
-</li>
-<li class="splash-nav-item">
-<a href="#" class="splash-nav-toggle" id="splash-nav-education-toggle">How it works <span aria-hidden="true" class="icon-navigatedown"></span></a>
-<div id="splash-nav-education-dropdown" class="splash-nav-dropdown">
-<ul>
-<li class="splash-nav-dropdown-item"><a class="splash-nav-dropdown-padding" href="/mentorship/">
-<img src="//tf-assets-prod.s3.amazonaws.com/splash/nav-icons/mentorship.gz.svg" alt="1-on-1 mentorship">
-<h4 class="splash-nav-dropdown-title">1-on-1 mentorship</h4>
-</a></li>
-<li class="splash-nav-dropdown-item"><a class="splash-nav-dropdown-padding" href="/career-prep/">
-<img src="//tf-assets-prod.s3.amazonaws.com/splash/nav-icons/career-services.gz.svg" alt="Career prep">
-<h4 class="splash-nav-dropdown-title">Career prep</h4>
-</a></li>
-<li class="splash-nav-dropdown-item"><a class="splash-nav-dropdown-padding" href="/bootcamp-job-guarantee/">
-<img src="//tf-assets-prod.s3.amazonaws.com/splash/nav-icons/guarantee.gz.svg" alt="Job guarantee">
-<h4 class="splash-nav-dropdown-title">Web Development job guarantee</h4>
-</a></li>
-<li class="splash-nav-dropdown-item"><a class="splash-nav-dropdown-padding" href="/bootcamp-jobs-stats/">
-<img src="//tf-assets-prod.s3.amazonaws.com/splash/nav-icons/jobs-report.gz.svg" alt="Student outcomes">
-<h4 class="splash-nav-dropdown-title">Student outcomes</h4>
-</a></li>
-</ul>
-</div>
-</li>
-<li class="splash-nav-item"><a href="/reviews/">Reviews</a></li>
-<li class="splash-nav-item"><a href="/pricing/">Pricing</a></li>
-</ul>
-<ul class="splash-nav-secondary">
-<li class="splash-nav-item"><a class="get-advice-call-modal optional-get-advice-call-modal" data-track-target="schedule-call" data-track-label="nav"><span aria-hidden="true" class="icon-phone"></span> Call us</a></li>
-<li class="splash-nav-item splash-nav-separator"></li>
-<li class="splash-nav-item"><a href="//dashboard.thinkful.com/">Sign in</a></li>
-</ul>
-</div>
-</div>
+
+  
+	
+
 <div class="splash-section">
-<div class="privacy-policy-section">
-<h1>Thinkful, Inc. Privacy Policy</h1>
-<p>Please read this privacy policy (this “Privacy Policy”) fully and carefully before using www.thinkful.com (the “Site”) and/or any of the other services, features, content or applications offered by Thinkful, Inc. (“we”, “us” or “our”) (together with the Site, the “Services”). BY ACCESSING ANY PART OF THE SERVICE, YOU ARE AGREEING TO THIS PRIVACY POLICY AND THE TERMS AND CONDITIONS OF OUR <a href="/terms-of-service/">TERMS OF SERVICE</a> (THE “TERMS OF SERVICE”). IF YOU DO NOT AGREE TO ANY OF THESE TERMS, YOU SHOULD NOT USE THE SERVICE. This Privacy Policy applies to all users of the Services, including, without limitation, users who are simply visiting or browsing the Site and users who are contributors of content, information, and other materials or services, registered or otherwise.</p>
-<p>We may, at our sole discretion, modify this Privacy Policy at any time. By accessing the Service at any time after such modifications, you are agreeing to such modifications. This Privacy Policy was last modified as of February 23, 2013.</p>
-<p class="splash-bold-title">What Personally Identifiable Information Does Thinkful Collect?</p>
-<p>We collect the following types of personally identifiable information:</p>
-<ol class="wide-list">
-<li>User Provided Information: You may affirmatively provide us with certain personally identifiable information (such as your name, email address, phone number, postal address, credit card information, etc.) when participating in various activities on the Service.</li>
-<li>Information Collected by “Cookies”: When you access the Service, we may send one or more “cookies” to your computer. A "cookie" is a small line of text that is stored with your browser, which we use to help provide better service to you. Your browser has options to accept, reject or provide you with notice when a cookie is sent. We may use cookies for many purposes, including (without limitation) to save your password so you don't have to re-enter it each time you visit the Service, and to deliver content (which may include third party advertisements) specific to your interests.</li>
-<li>Log File Information: Our servers automatically record certain information that your browser sends whenever you access the Service. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.</li>
-<li>Information Collected by “Clear GIFs”: We may employ "clear GIFs" (a.k.a. Web Beacons), which are used to track usage patterns anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to users to track which emails are opened by recipients.</li>
-</ol>
-<p class="splash-bold-title">How Does Thinkful Use Personally Identifiable Information?</p>
-<p>Any personal information that you voluntarily disclose online (in messages, within your public profile page, through User Content that you submit, etc.) becomes publicly available and can be collected and used by others.</p>
-<p>If you have not opted out from receiving these communications from us, we may use your email address, phone number or other personally identifiable information to send commercial or marketing messages. We also may use your email address, phone number, postal address and other personally identifiable information for non-marketing or administrative purposes (such as notifying you of major Service changes or for customer service purposes). You cannot opt out of receiving communications for non-marketing or administrative purposes.</p>
-<p>We use aggregated information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Service and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user preferences and trends. In addition, we may use “cookies,” clear gifs and log file information to deliver content (which may include third party advertisements) specific to your interests, and remember information so that you will not have to re-enter it each time you visit the Service.</p>
-<p class="splash-bold-title">Will Thinkful Share Personally Identifiable Information with Others?</p>
-<p>We will not share your personally identifiable information with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you have the ability to opt-in or opt-out.</p>
-<p>We may provide personally identifiable information to employees, consultants, affiliates or other businesses or persons for the purpose of processing such information on our behalf. In such circumstances, we require that these parties agree to protect the confidentiality of such information and to comply in all respects with this Privacy Policy.</p>
-<p>We may share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Service.</p>
-<p>In addition, we may release personally identifiable information: (i) to the extent we have a good-faith belief that such action is necessary to comply with any applicable law, enforce any provision of the Terms of Service, protect ourselves against any liability, defend ourselves against any claims, protect the rights, property and personal safety of any user or protect the public welfare; or (ii) to respond to a court order, subpoena, or search warrant.</p>
-<p class="splash-bold-title">Third Party Advertisers</p>
-<p>We may allow other companies, called third-party ad servers or ad networks, to serve advertisements within the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Service. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. This Privacy Policy does not apply to them, and we cannot control their activities.</p>
-<p class="splash-bold-title">Is My Information Secure?</p>
-<p>We have implemented security measures to protect personally identifiable information collected on the Service against loss, misuse or alteration. In addition, your account information is protected by a password for your privacy and security. It is important that you protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. Moreover, despite the precautions described above, we cannot and do not guarantee that the individual user information you have transmitted will not be intercepted by others and/or decrypted or accidentally disclosed, and we accept no liability for any unintentional disclosure.</p>
-<p class="splash-bold-title">In the Event of Merger, Sale, or Bankruptcy</p>
-<p>In the event that we are acquired by or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.</p>
-<p class="splash-bold-title">Children’s Privacy</p>
-<p>You must be at least 13 years old to register to use the Service.</p>
-<p class="splash-bold-title">Special Note to International Users</p>
-<p>The Service is hosted in the United States and is primarily intended for and directed to users in the United States. If you are accessing the Service from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Service, which is governed by U.S. law, this Privacy Policy, and our Terms of Service, you are transferring your personal information to the United States and you consent to that transfer.</p>
-<p class="splash-bold-title">California Privacy Rights</p>
-<p>California Civil Code Section 1798.83 permits users of the Service who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to hello@thinkful.com or write us at:</p>
-<p>Thinkful Privacy Rights<br>
-304 Hudson, Suite 505<br>
-New York, NY<br>
-10013<br>
-</p>
+  <div class="privacy-policy-section">
+
+    <h1>Thinkful, Inc. Privacy Policy</h1>
+    <p>Please read this privacy policy (this “Privacy Policy”) fully and carefully before using www.thinkful.com (the “Site”) and/or any of the other services, features, content or applications offered by Thinkful, Inc. (“we”, “us” or “our”) (together with the Site, the “Services”). BY ACCESSING ANY PART OF THE SERVICE, YOU ARE AGREEING TO THIS PRIVACY POLICY AND THE TERMS AND CONDITIONS OF OUR <a href="/terms-of-service/">TERMS OF SERVICE</a> (THE “TERMS OF SERVICE”). IF YOU DO NOT AGREE TO ANY OF THESE TERMS, YOU SHOULD NOT USE THE SERVICE. This Privacy Policy applies to all users of the Services, including, without limitation, users who are simply visiting or browsing the Site and users who are contributors of content, information, and other materials or services, registered or otherwise.</p>
+    <p>We may, at our sole discretion, modify this Privacy Policy at any time. By accessing the Service at any time after such modifications, you are agreeing to such modifications. This Privacy Policy was last modified as of February 23, 2013.</p>
+    <p class="splash-bold-title">What Personally Identifiable Information Does Thinkful Collect?</p>
+    <p>We collect the following types of personally identifiable information:</p>
+    <ol class="wide-list">
+      <li>User Provided Information: You may affirmatively provide us with certain personally identifiable information (such as your name, email address, phone number, postal address, credit card information, etc.) when participating in various activities on the Service.</li>
+      <li>Information Collected by “Cookies”: When you access the Service, we may send one or more “cookies” to your computer. A "cookie" is a small line of text that is stored with your browser, which we use to help provide better service to you. Your browser has options to accept, reject or provide you with notice when a cookie is sent. We may use cookies for many purposes, including (without limitation) to save your password so you don't have to re-enter it each time you visit the Service, and to deliver content (which may include third party advertisements) specific to your interests.</li>
+      <li>Log File Information: Our servers automatically record certain information that your browser sends whenever you access the Service. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.</li>
+      <li>Information Collected by “Clear GIFs”: We may employ "clear GIFs" (a.k.a. Web Beacons), which are used to track usage patterns anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to users to track which emails are opened by recipients.</li>
+    </ol>
+    <p class="splash-bold-title">How Does Thinkful Use Personally Identifiable Information?</p>
+    <p>Any personal information that you voluntarily disclose online (in messages, within your public profile page, through User Content that you submit, etc.) becomes publicly available and can be collected and used by others.</p>
+    <p>If you have not opted out from receiving these communications from us, we may use your email address, phone number or other personally identifiable information to send commercial or marketing messages. We also may use your email address, phone number, postal address and other personally identifiable information for non-marketing or administrative purposes (such as notifying you of major Service changes or for customer service purposes). You cannot opt out of receiving communications for non-marketing or administrative purposes.</p>
+    <p>We use aggregated information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Service and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user preferences and trends. In addition, we may use “cookies,” clear gifs and log file information to deliver content (which may include third party advertisements) specific to your interests, and remember information so that you will not have to re-enter it each time you visit the Service.</p>
+    <p class="splash-bold-title">Will Thinkful Share Personally Identifiable Information with Others?</p>
+    <p>We will not share your personally identifiable information with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you have the ability to opt-in or opt-out.</p>
+    <p>We may provide personally identifiable information to employees, consultants, affiliates or other businesses or persons for the purpose of processing such information on our behalf. In such circumstances, we require that these parties agree to protect the confidentiality of such information and to comply in all respects with this Privacy Policy.</p>
+    <p>We may share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Service.</p>
+    <p>In addition, we may release personally identifiable information: (i) to the extent we have a good-faith belief that such action is necessary to comply with any applicable law, enforce any provision of the Terms of Service, protect ourselves against any liability, defend ourselves against any claims, protect the rights, property and personal safety of any user or protect the public welfare; or (ii) to respond to a court order, subpoena, or search warrant.</p>
+    <p class="splash-bold-title">Third Party Advertisers</p>
+    <p>We may allow other companies, called third-party ad servers or ad networks, to serve advertisements within the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Service. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. This Privacy Policy does not apply to them, and we cannot control their activities.</p>
+    <p class="splash-bold-title">Is My Information Secure?</p>
+    <p>We have implemented security measures to protect personally identifiable information collected on the Service against loss, misuse or alteration. In addition, your account information is protected by a password for your privacy and security. It is important that you protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. Moreover, despite the precautions described above, we cannot and do not guarantee that the individual user information you have transmitted will not be intercepted by others and/or decrypted or accidentally disclosed, and we accept no liability for any unintentional disclosure.</p>
+    <p class="splash-bold-title">In the Event of Merger, Sale, or Bankruptcy</p>
+    <p>In the event that we are acquired by or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.</p>
+    <p class="splash-bold-title">Children’s Privacy</p>
+    <p>You must be at least 13 years old to register to use the Service.</p>
+    <p class="splash-bold-title">Special Note to International Users</p>
+    <p>The Service is hosted in the United States and is primarily intended for and directed to users in the United States. If you are accessing the Service from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Service, which is governed by U.S. law, this Privacy Policy, and our Terms of Service, you are transferring your personal information to the United States and you consent to that transfer.</p>
+    <p class="splash-bold-title">California Privacy Rights</p>
+    <p>California Civil Code Section 1798.83 permits users of the Service who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to hello@thinkful.com or write us at:</p>
+    <p>Thinkful Privacy Rights<br>
+      304 Hudson, Suite 505<br>
+      New York, NY<br>
+      10013<br>
+    </p>
+  </div>
 </div>
+
+
+	<div class="modal-overlay" id="referral-modal-overlay">
+    <div class="modal" id="referral-modal">
+        <div class="ref-modal-header">
+            <h3 class="hide-on-submit">Your friend sent you $500</h3>
+            <h5 class="hide-on-submit">
+                Enter your email to receive $500 off a Thinkful Bootcamp. It'll be automatically applied
+                to your first payment when you enroll.
+            </h5>
+            <div class="response-text-hidden">
+                <h3>You're all set!</h3>
+                <h4>Learn more</h4>
+                <a class="button button__mini referral-course-button" href="/bootcamp/web-development/flexible/">
+                    Flexible
+                    <span class="icon icon-navigateright button-right-icon">
+                </span></a>
+                <a class="button button__mini referral-course-button" href="/bootcamp/web-development/full-time/">
+                    Full Time
+                    <span class="icon icon-navigateright button-right-icon">
+                </span></a>
+                <a class="referral-close-modal referral-close-modal__response">Close</a>
+            </div>
+            <h4 class="error-text"></h4>
+        </div>
+
+        <div class="ref-modal-header-cp">
+            <h3 class="hide-on-submit">You get $<span class="ref-modal-amount">...</span> toward your learning.</h3>
+            <h5 class="hide-on-submit">
+                Enter your email now and your discount will be automatically
+                applied when you enroll in a Thinkful Bootcamp.
+            </h5>
+            <div class="response-text-hidden">
+                <h3>You're all set!</h3>
+                <h4>Check out the course to claim your discount</h4>
+                <a class="button referral-close-modal" href="#">
+                    Learn more
+                    <span class="icon icon-navigateright button-right-icon">
+                </span></a>
+            </div>
+            <h4 class="error-text"></h4>
+        </div>
+
+        <form id="referral-capture" class="hide-on-submit">
+            <label for="email-input">Your email</label>
+            <input type="email" name="email" id="email-input" placeholder="you@example.com" required="">
+            <input type="submit" id="referral-capture-submit" class="button" value="Claim your discount">
+        </form>
+
+        <a class="referral-close-modal button button__secondary hide-on-submit" href="javascript:void(0);">No thanks</a>
+    </div>
 </div>
-<div class="modal-overlay" id="referral-modal-overlay">
-<div class="modal" id="referral-modal">
-<div class="ref-modal-header">
-<h3 class="hide-on-submit">Your friend sent you $500</h3>
-<h5 class="hide-on-submit">
-Enter your email to receive $500 off a Thinkful Bootcamp. It'll be automatically applied
-to your first payment when you enroll.
-</h5>
-<div class="response-text-hidden">
-<h3>You're all set!</h3>
-<h4>Learn more</h4>
-<a class="button button__mini referral-course-button" href="/bootcamp/web-development/flexible/">
-Flexible
-<span class="icon icon-navigateright button-right-icon">
-</span></a>
-<a class="button button__mini referral-course-button" href="/bootcamp/web-development/full-time/">
-Full Time
-<span class="icon icon-navigateright button-right-icon">
-</span></a>
-<a class="referral-close-modal referral-close-modal__response">Close</a>
+
+    <!-- these three components comprise the footer -->
+		
+    	<div class="newsletter-signup">
+  <form class="newsletter-signup-form email-capture js-email-capture js-email-capture__newsletter" id="newsletter-signup-lead-capture">
+    <div class="newsletter-signup-description">
+      <h4 class="response-text">Start learning for free</h4>
+      <p class="hide-on-submit">Our favorite resources in coding and design delivered to you.</p>
+    </div>
+    <div class="newsletter-signup-email hide-on-submit">
+      <label for="newsletter-email">Your email</label>
+      <input id="newsletter-email" class="hide-on-submit" type="email" name="email" placeholder="you@example.com">
+    </div>
+    <div class="newsletter-signup-button hide-on-submit">
+      <button class="button newsletter-submit js-button-lead-capture-submit" type="submit">Sign up</button>
+      <input type="hidden" name="stage" value="Subscribed to newsletter">
+    </div>
+  </form>
 </div>
-<h4 class="error-text"></h4>
+		
+    <div class="footer-container">
+  <footer class="footer">
+    <div class="site-links">
+      <div class="social-mobile">
+        <a data-track-target="social-button-facebook" class="footer-link icon" href="https://www.facebook.com/thinkfulschool"><span aria-hidden="true" class="tui-icon icon-facebook"></span></a>
+        <a data-track-target="social-button-twitter" class="footer-link icon" href="https://twitter.com/thinkful"><span aria-hidden="true" class="tui-icon icon-twitter"></span></a>
+      </div>
+
+      <div class="footer-column">
+        <h4 class="footer-heading">Courses</h4>
+        <a class="footer-link" href="/bootcamp/web-development/full-time/">Engineering Immersion</a>
+        <a class="footer-link" href="/bootcamp/web-development/flexible/">Full Stack Flex</a>
+        <a class="footer-link" href="/bootcamp/data-science/flexible/">Data Science</a>
+        <a class="footer-link" href="/courses/learn-web-development-online/">Front End Development</a>
+      </div>
+
+      <div class="footer-column">
+        <h4 class="footer-heading">Information</h4>
+        <a class="footer-link" href="/how-we-work/">How We Work</a>
+        <a class="footer-link" href="/outcomes/">Outcomes</a>
+        <a class="footer-link" href="/learn/">Learning Center</a>
+        <a class="footer-link" href="/responsible-disclosure/">Responsible disclosure</a>
+      </div>
+
+      <div class="footer-column">
+        <h4 class="footer-heading">Company</h4>
+        <a class="footer-link" href="/about/">About us</a>
+        <a class="footer-link" href="/terms-of-service/">Terms of Use</a>
+        <a class="footer-link" href="/privacy-policy/">Privacy Policy</a>
+        <a class="footer-link" href="/about/#opportunities">Careers</a>
+        <a class="footer-link" href="/press/">Press</a>
+      </div>
+
+      <div class="footer-column">
+        <h4 class="footer-heading">Follow</h4>
+        <a class="footer-link" href="https://twitter.com/thinkful">Twitter</a>
+        <a class="footer-link" href="https://www.facebook.com/thinkfulschool/">Facebook</a>
+        <a class="footer-link" href="https://www.instagram.com/thinkfulhq/">Instagram</a>
+        <a class="footer-link" href="/blog/">Thinkful Blog</a>
+      </div>
+    </div>
+
+    <div class="legal-links">
+      <span class="margin-span copyright"><span>©</span> 2018 <span>Thinkful, Inc.</span></span>
+    </div>
+  </footer>
 </div>
-<div class="ref-modal-header-cp">
-<h3 class="hide-on-submit">You get $<span class="ref-modal-amount">...</span> toward your learning.</h3>
-<h5 class="hide-on-submit">
-Enter your email now and your discount will be automatically
-applied when you enroll in a Thinkful Bootcamp.
-</h5>
-<div class="response-text-hidden">
-<h3>You're all set!</h3>
-<h4>Check out the course to claim your discount</h4>
-<a class="button referral-close-modal" href="#">
-Learn more
-<span class="icon icon-navigateright button-right-icon">
-</span></a>
+
+
+
+  <div class="modal-overlay" id="call-scheduler-modal-overlay">
+    <div class="modal" id="call-scheduler-modal">
+        <div class="call-modal-header">
+            <h3 class="hide-on-submit">Talk to an education advisor</h3>
+            <h4 class="response-text-hidden">
+                Got it! We'll call you<br><strong><span class="day-selected"></span><span class="time-selected"></span><span class="current-timezone"></span></strong>
+            </h4>
+            <h4 class="error-text">Uh oh, something went wrong. Please try again.</h4>
+            <div class="error-text-no-availability">
+                <h4>No times are currently available</h4>
+                <p>We are currently experiencing a high volume of calls. At this time the fastest way to get in touch with us is by emailing one of our education advisors. You can expect a response within 24 hours.</p>
+                <p><a href="mailto:jessica.millett@thinkful.com">Send email</a></p>
+            </div>
+        </div>
+
+        <div class="tui-loader">
+            <svg class="tui-loader-inner" height="25" width="25">
+                <circle class="tui-loader-stroke" cx="25" cy="25" r="15" fill="none" stroke-width="5" stroke-miter-limit="10">
+            </circle></svg>
+        </div>
+
+        <form class="call-scheduler hide-on-submit call-scheduler-loaded" id="call-scheduler">
+            <input type="email" name="email" id="email-input" placeholder="you@example.com" required="">
+            <input type="text" name="phone" id="phone-number" placeholder="+1 (858) 367-3232" required="">
+
+            <div id="call-now-container" class="button call-now-label">
+                Call me now
+            </div>
+
+            <h5 class="schedule-call-copy">Select a time:</h5>
+
+            <p class="date-time-indicator"><strong><span class="day-selected"></span><span class="time-selected"></span><span class="current-timezone"></span></strong></p>
+
+            <div class="arrow-left call-scheduler-arrow__disabled"></div>
+
+            <div class="arrow-right"></div>
+
+            <div class="form-container"></div>
+
+            <input class="ed-advisor-id" type="hidden" name="advisor_id" value="236154">
+            <div class="call-scheduler-intl-warning call-scheduler-intl-warning__hidden">
+              <p class="call-scheduler-intl-warning-p">At this time we only place international calls to Europe, Australia, and Japan. If you are in a different region, and would like to learn more about Thinkful, please contact <a href="mailto:hello@thinkful.com">hello@thinkful.com</a></p>
+              <label><input type="checkbox" name="reconfirm_intl_phone"> This phone number is in the Europe, Australia, or Japan.</label>
+            </div>
+            <input type="submit" id="connect-with-advisor" class="button" value="Schedule call">
+            <input type="hidden" name="locale" value="">
+        </form>
+
+        <div class="scheduler-close-modal button__secondary hide-on-submit">Never mind</div>
+    </div>
 </div>
-<h4 class="error-text"></h4>
+  <div class="tui-modal-wrapper hidden" id="mailto-modal-overlay">
+  <div class="tui-modal-curtain"></div>
+  <div class="tui-modal-content" id="mailto-modal">
+    <div class="tui-modal-close-button" id="mailto-close-icon"> <span aria-hidden="true" class="icon-close"></span> </div>
+    <h4 id="mailto-modal-title"></h4>
+
+    <form class="mailto-form">
+      <div class="mailto-fullwidth">
+        <div class="mailto-sidebyside">
+          <label for="mailto-sender-name">Your name</label>
+          <input id="mailto-sender-name" name="mailto-sender-name" type="text">
+        </div>
+        <div class="mailto-sidebyside">
+          <label for="mailto-sender-email">Your email</label>
+          <input id="mailto-sender-email" name="email" type="email">
+        </div>
+      </div>
+      <div class="mailto-fullwidth">
+        <label for="mailto-message-body">Message</label>
+        <textarea id="mailto-message-body" name="mailto-message-body"></textarea>
+      </div>
+      <input type="hidden" name="mailto-recipient-email" id="mailto-recipient-email">
+      <input type="hidden" name="stage" value="Expressed interest">
+      <input type="hidden" id="mailto-first-name" name="first_name">
+      <input type="hidden" id="mailto-last-name" name="last_name">
+      <div id="mailto-form-error" class="form-error">
+        All fields are required.
+      </div>
+      <input type="submit" id="mailto-submit" class="button button__mini" value="Send">
+    </form>
+
+
+    <div id="mailto-success-overlay">
+      <div id="mailto-success-thumb">
+        <span aria-hidden="true" class="icon-thumbsup"></span>
+      </div>
+      <div id="mailto-success-thanks">
+        Thanks! <span id="mailto-recipient-name"></span> will be in touch.
+      </div>
+      <div>
+        <a id="mailto-success-done" href="#">Done</a>
+      </div>
+    </div>
+
+  </div>
+
 </div>
-<form id="referral-capture" class="hide-on-submit">
-<label for="email-input">Your email</label>
-<input type="email" name="email" id="email-input" placeholder="you@example.com" required="">
-<input type="submit" id="referral-capture-submit" class="button" value="Claim your discount">
-</form>
-<a class="referral-close-modal button button__secondary hide-on-submit" href="javascript:void(0);">No thanks</a>
+  <div class="tui-modal-wrapper js-qualifier-modal hidden">
+  <div class="tui-modal-curtain"></div>
+  <div class="tui-modal-content">
+    <div class="tui-modal-close-button"> <span aria-hidden="true" class="icon-close"></span> </div>
+
+    <form class="js-lead-qualifier-form lead-qualifier-form">
+      <h3>Course recommendation</h3>
+
+      <h4>What topic are you most interested in?</h4>
+      <div class="chunky-select-group">
+        <input class="chunky-radio-input" type="radio" name="lc2016_topic" id="lc2016_topic_webdev" value="webdev">
+        <label for="lc2016_topic_webdev" class="chunky-radio">
+          <p><strong>Full Stack Development</strong></p>
+          <p>I'm looking to learn to build frontend and backend web applications on my own.</p>
+        </label>
+        <input class="chunky-radio-input" type="radio" name="lc2016_topic" id="lc2016_topic_data" value="data">
+        <label for="lc2016_topic_data" class="chunky-radio">
+          <p><strong>Data Science</strong></p>
+          <p>I want to use modern tools to collect, analyze, and present compelling stories using data.</p>
+        </label>
+        <input class="chunky-radio-input" type="radio" name="lc2016_topic" id="lc2016_topic_other" value="other">
+        <label for="lc2016_topic_other" class="chunky-radio">
+          <p><strong>Other</strong></p>
+          <p>I'm interested in specific languages like Python and Swift, and coding-related skills like design.</p>
+        </label>
+      </div>
+      <span class="chunky-input-error js-qualifier-topic-error"></span>
+
+      <h4>How much time are you willing to commit to learning coding?</h4>
+      <div class="chunky-select-group">
+        <input class="chunky-radio-input" type="radio" name="lc2016_time" id="lc2016_time_fulltime" value="fulltime">
+        <label for="lc2016_time_fulltime" class="chunky-radio">
+          <p><strong>Full time</strong></p>
+          <p>I want to fully immerse myself and treat my learning as a full-time job.</p>
+        </label>
+        <input class="chunky-radio-input" type="radio" name="lc2016_time" id="lc2016_time_flex" value="flex">
+        <label for="lc2016_time_flex" class="chunky-radio">
+          <p><strong>Part of the week</strong></p>
+          <p>I have a job but I'm willing to commit 20-25+ hours per week to my learning.</p>
+        </label>
+        <input class="chunky-radio-input" type="radio" name="lc2016_time" id="lc2016_time_short" value="short">
+        <label for="lc2016_time_short" class="chunky-radio">
+          <p><strong>A couple nights per week</strong></p>
+          <p>I want to spend a few hours each week to pick up new skills one at a time.</p>
+        </label>
+      </div>
+      <span class="chunky-input-error js-qualifier-time-error"></span>
+
+      <h4>Where are you based?</h4>
+      <input type="text" name="lc2016_location" placeholder="Your city or country...">
+
+      <h4>What's your phone number?</h4>
+      <input type="tel" name="lc2016_phone" placeholder="+1 (858) 367-3232">
+
+      <button class="button" type="submit" id="lc2016_submit2">
+        Get recommendation
+        <span class="button-right-icon icon-navigateright"></span>
+      </button>
+    </form>
+
+    <div class="js-qualifier-loader tui-loader hidden">
+      <svg class="tui-loader-inner" height="25" width="25">
+        <circle class="tui-loader-stroke" cx="25" cy="25" r="15" fill="none" stroke-width="5" stroke-miter-limit="10"></circle>
+      </svg>
+    </div>
+
+    <div class="lead-qualifier-success js-qualifier-success hidden">
+      <h3 class="js-qualifier-success-copy">We recommend...</h3>
+      <a class="js-qualifier-success-href">
+        <img class="js-qualifier-success-icon recommender-form-confirmation-icon-image" alt="recommended course icon">
+        <div class="h3 js-qualifier-success-course-name"></div>
+      </a>
+      <div class="body-text">An education advisor will be in touch to help you get started.</div>
+      <a class="button button__mini js-qualifier-success-button js-qualifier-success-href">View course</a>
+    </div>
+  </div>
 </div>
-</div>
- 
-<div class="newsletter-signup">
-<form class="newsletter-signup-form email-capture js-email-capture js-email-capture__newsletter" id="newsletter-signup-lead-capture">
-<div class="newsletter-signup-description">
-<h4 class="response-text">Start learning for free</h4>
-<p class="hide-on-submit">Our favorite resources in coding and design delivered to you.</p>
-</div>
-<div class="newsletter-signup-email hide-on-submit">
-<label for="newsletter-email">Your email</label>
-<input id="newsletter-email" class="hide-on-submit" type="email" name="email" placeholder="you@example.com">
-</div>
-<div class="newsletter-signup-button hide-on-submit">
-<button class="button newsletter-submit js-button-lead-capture-submit" type="submit">Sign up<span class="icon-navigateright button-right-icon"></span></button>
-<input type="hidden" name="stage" value="Subscribed to newsletter">
-</div>
-</form>
-</div>
-<div class="footer-container">
-<footer class="footer">
-<div class="site-links">
-<div class="social-mobile">
-<a data-track-target="social-button-facebook" class="footer-link icon" href="https://www.facebook.com/thinkfulschool"><span aria-hidden="true" class="tui-icon icon-facebook"></span></a>
-<a data-track-target="social-button-twitter" class="footer-link icon" href="https://twitter.com/thinkful"><span aria-hidden="true" class="tui-icon icon-twitter"></span></a>
-</div>
-<div class="footer-column">
-<h4 class="footer-heading">Courses</h4>
-<a class="footer-link mobileHidden" href="/bootcamp/web-development/flexible/">Flexible Web Development Bootcamp</a>
-<a class="footer-link mobileHidden" href="/bootcamp/web-development/full-time/">Full Time Web Development Bootcamp</a>
-<a class="footer-link mobileHidden" href="/bootcamp/data-science/flexible/">Flexible Data Science Bootcamp</a>
-<a class="footer-link" href="/courses/">Explore all courses</a>
-<a class="footer-link" href="/training-for-teams/">Corporate training</a>
-<a class="footer-link mobileHidden" href="/reviews/">Student reviews</a>
-<a class="footer-link" href="/pricing/">Pricing</a>
-</div>
-<div class="footer-column">
-<h4 class="footer-heading">Education</h4>
-<a class="footer-link mobileHidden" href="/mentorship/">1-on-1 mentorship</a>
-<a class="footer-link mobileHidden" href="/career-prep/">Career prep</a>
-<a class="footer-link mobileHidden" href="/bootcamp-job-guarantee/">Web Development job guarantee</a>
-<a class="footer-link mobileHidden" href="/bootcamp-jobs-stats/">Student outcomes</a>
-<a class="footer-link" href="/bootcamps/">Bootcamp Finder</a>
-<a class="footer-link" href="/learn/">The Learning Corner</a>
-<a class="footer-link" href="/responsible-disclosure/">Responsible disclosure</a>
-</div>
-<div class="footer-column">
-<h4 class="footer-heading">About</h4>
-<a class="footer-link" href="/blog/">Blog</a>
-<a class="footer-link mobileHidden" href="/about/#opportunities">Careers</a>
-<a class="footer-link mobileHidden" href="/mentors/">Mentors</a>
-<a class="footer-link" href="/about/">Our mission</a>
-<a class="footer-link" href="/press/">Press</a>
-<a class="footer-link mobileHidden" href="/hire-developers/">Hiring network</a>
-<a data-track-target="social-button-facebook" class="footer-link icon mobileHidden" href="https://www.facebook.com/thinkfulschool"><span aria-hidden="true" class="tui-icon icon-facebook"></span></a>
-<a data-track-target="social-button-twitter" class="footer-link icon mobileHidden" href="https://twitter.com/thinkful"><span aria-hidden="true" class="tui-icon icon-twitter"></span></a>
-</div>
-</div>
-<div class="legal-links">
-<span class="margin-span copyright"><span>©</span> <noscript>2017</noscript><script>document.write(new Date().getFullYear());</script>2020 <span>Thinkful, Inc.</span></span><span class="margin-span middot-desktop">·</span>
-<a class="footer-link margin-span" href="/terms-of-service/">Terms of use</a>
-<span class="margin-span">·</span><a class="footer-link margin-span" href="/privacy-policy/">Privacy policy</a>
-</div>
-</footer>
-</div>
-<div class="modal-overlay" id="call-scheduler-modal-overlay">
-<div class="modal" id="call-scheduler-modal">
-<div class="call-modal-header">
-<h3 class="hide-on-submit">Talk to an education advisor</h3>
-<h4 class="response-text-hidden">
-Got it! We'll call you<br><strong><span class="day-selected"></span><span class="time-selected"></span><span class="current-timezone"></span></strong>
-</h4>
-<h4 class="error-text">Uh oh, something went wrong. Please try again.</h4>
-</div>
-<div class="tui-loader">
-<svg class="tui-loader-inner" height="25" width="25">
-<circle class="tui-loader-stroke" cx="25" cy="25" r="15" fill="none" stroke-width="5" stroke-miter-limit="10">
-</circle></svg>
-</div>
-<form class="call-scheduler hide-on-submit call-scheduler-loaded" id="call-scheduler">
-<input type="email" name="email" id="email-input" placeholder="you@example.com" required="">
-<input type="text" name="phone" id="phone-number" placeholder="+1 (858) 367-3232" required="">
-<div id="call-now-container" class="button call-now-label">
-Call me now
-</div>
-<h5 class="schedule-call-copy">Select a time:</h5>
-<p class="date-time-indicator"><strong><span class="day-selected"></span><span class="time-selected"></span><span class="current-timezone"></span></strong></p>
-<div class="arrow-left call-scheduler-arrow__disabled"></div>
-<div class="arrow-right"></div>
-<div class="form-container"></div>
-<input class="ed-advisor-id" type="hidden" name="advisor_id" value="236154">
-<div class="call-scheduler-intl-warning call-scheduler-intl-warning__hidden">
-<p class="call-scheduler-intl-warning-p">At this time we only place international calls to Europe, Australia, and Japan. If you are in a different region, and would like to learn more about Thinkful, please contact <a href="mailto:hello@thinkful.com">hello@thinkful.com</a></p>
-<label><input type="checkbox" name="reconfirm_intl_phone"> This phone number is in the Europe, Australia, or Japan.</label>
-</div>
-<input type="submit" id="connect-with-advisor" class="button" value="Schedule call">
-<input type="hidden" name="locale" value="">
-</form>
-<div class="scheduler-close-modal button button__secondary hide-on-submit">Never mind</div>
-</div>
-</div>
-<div class="tui-modal-wrapper hidden" id="mailto-modal-overlay">
-<div class="tui-modal-curtain"></div>
-<div class="tui-modal-content" id="mailto-modal">
-<div class="tui-modal-close-button" id="mailto-close-icon"> <span aria-hidden="true" class="icon-close"></span> </div>
-<h4 id="mailto-modal-title"></h4>
-<form class="mailto-form">
-<div class="mailto-fullwidth">
-<div class="mailto-sidebyside">
-<label for="mailto-sender-name">Your name</label>
-<input id="mailto-sender-name" name="mailto-sender-name" type="text">
-</div>
-<div class="mailto-sidebyside">
-<label for="mailto-sender-email">Your email</label>
-<input id="mailto-sender-email" name="email" type="email">
-</div>
-</div>
-<div class="mailto-fullwidth">
-<label for="mailto-message-body">Message</label>
-<textarea id="mailto-message-body" name="mailto-message-body"></textarea>
-</div>
-<input type="hidden" name="mailto-recipient-email" id="mailto-recipient-email">
-<input type="hidden" name="stage" value="Expressed interest">
-<input type="hidden" id="mailto-first-name" name="first_name">
-<input type="hidden" id="mailto-last-name" name="last_name">
-<div id="mailto-form-error" class="form-error">
-All fields are required.
-</div>
-<input type="submit" id="mailto-submit" class="button button__mini" value="Send">
-</form>
-<div id="mailto-success-overlay">
-<div id="mailto-success-thumb">
-<span aria-hidden="true" class="icon-thumbsup"></span>
-</div>
-<div id="mailto-success-thanks">
-Thanks! <span id="mailto-recipient-name"></span> will be in touch.
-</div>
-<div>
-<a id="mailto-success-done" href="#">Done</a>
-</div>
-</div>
-</div>
-</div>
-<div class="tui-modal-wrapper js-qualifier-modal hidden">
-<div class="tui-modal-curtain"></div>
-<div class="tui-modal-content">
-<div class="tui-modal-close-button"> <span aria-hidden="true" class="icon-close"></span> </div>
-<form class="js-lead-qualifier-form lead-qualifier-form">
-<h3>Course recommendation</h3>
-<h4>What topic are you most interested in?</h4>
-<div class="chunky-select-group">
-<input class="chunky-radio-input" type="radio" name="lc2016_topic" id="lc2016_topic_webdev" value="webdev">
-<label for="lc2016_topic_webdev" class="chunky-radio">
-<p><strong>Full Stack Development</strong></p>
-<p>I'm looking to learn to build frontend and backend web applications on my own.</p>
-</label>
-<input class="chunky-radio-input" type="radio" name="lc2016_topic" id="lc2016_topic_data" value="data">
-<label for="lc2016_topic_data" class="chunky-radio">
-<p><strong>Data Science</strong></p>
-<p>I want to use modern tools to collect, analyze, and present compelling stories using data.</p>
-</label>
-<input class="chunky-radio-input" type="radio" name="lc2016_topic" id="lc2016_topic_other" value="other">
-<label for="lc2016_topic_other" class="chunky-radio">
-<p><strong>Other</strong></p>
-<p>I'm interested in specific languages like Python and Swift, and coding-related skills like design.</p>
-</label>
-</div>
-<span class="chunky-input-error js-qualifier-topic-error"></span>
-<h4>How much time are you willing to commit to learning coding?</h4>
-<div class="chunky-select-group">
-<input class="chunky-radio-input" type="radio" name="lc2016_time" id="lc2016_time_fulltime" value="fulltime">
-<label for="lc2016_time_fulltime" class="chunky-radio">
-<p><strong>Full time</strong></p>
-<p>I want to fully immerse myself and treat my learning as a full-time job.</p>
-</label>
-<input class="chunky-radio-input" type="radio" name="lc2016_time" id="lc2016_time_flex" value="flex">
-<label for="lc2016_time_flex" class="chunky-radio">
-<p><strong>Part of the week</strong></p>
-<p>I have a job but I'm willing to commit 20-25+ hours per week to my learning.</p>
-</label>
-<input class="chunky-radio-input" type="radio" name="lc2016_time" id="lc2016_time_short" value="short">
-<label for="lc2016_time_short" class="chunky-radio">
-<p><strong>A couple nights per week</strong></p>
-<p>I want to spend a few hours each week to pick up new skills one at a time.</p>
-</label>
-</div>
-<span class="chunky-input-error js-qualifier-time-error"></span>
-<h4>Where are you based?</h4>
-<input type="text" name="lc2016_location" placeholder="Your city or country...">
-<h4>What's your phone number?</h4>
-<input type="tel" name="lc2016_phone" placeholder="+1 (858) 367-3232">
-<button class="button" type="submit" id="lc2016_submit2">
-Get recommendation
-<span class="button-right-icon icon-navigateright"></span>
-</button>
-</form>
-<div class="js-qualifier-loader tui-loader hidden">
-<svg class="tui-loader-inner" height="25" width="25">
-<circle class="tui-loader-stroke" cx="25" cy="25" r="15" fill="none" stroke-width="5" stroke-miter-limit="10"></circle>
-</svg>
-</div>
-<div class="lead-qualifier-success js-qualifier-success hidden">
-<h3 class="js-qualifier-success-copy">We recommend...</h3>
-<a class="js-qualifier-success-href">
-<img class="js-qualifier-success-icon recommender-form-confirmation-icon-image" alt="recommended course icon">
-<div class="h3 js-qualifier-success-course-name"></div>
-</a>
-<div class="body-text">An education advisor will be in touch to help you get started.</div>
-<a class="button button__mini js-qualifier-success-button js-qualifier-success-href">View course</a>
-</div>
-</div>
-</div>
-<script type="text/javascript">
-    window.__env = {"config": {"accounts": {"displayName": "Accounts", "host": "accounts.thinkful.com", "url": "//accounts.thinkful.com"}, "activity": {"displayName": "My Students", "host": "activity.thinkful.com", "url": "//activity.thinkful.com"}, "api": {"displayName": "Thinkful API", "host": "www.thinkful.com", "url": "//www.thinkful.com/pysplash"}, "app": {"displayName": "Splash", "host": null, "name": "Pelican", "slug": null}, "assets": {"displayName": "Assets", "host": "assets.thinkful.com", "url": "//assets.thinkful.com"}, "bootcampFinder": {"displayName": "Bootcamp Finder", "host": "www.thinkful.com", "url": "//www.thinkful.com/bootcamps"}, "business": {"displayName": "Corporate Training", "url": "//www.thinkful.com/training-for-teams/"}, "callScheduler": {"displayName": "Call Scheduler", "host": "robin.thinkful.com", "url": "//robin.thinkful.com"}, "courses": {"displayName": "Courses", "host": "courses.thinkful.com", "url": "//courses.thinkful.com"}, "cpEnroll": {"displayName": "Career Path Enroll", "host": "www.thinkful.com", "url": "//www.thinkful.com/join"}, "dashboard": {"displayName": "Dashboard", "host": "dashboard.thinkful.com", "url": "//dashboard.thinkful.com"}, "enroll": {"displayName": "Enroll", "host": "www.thinkful.com", "url": "//www.thinkful.com/enroll"}, "events": {"host": "avocet.thinkful.com", "url": "//avocet.thinkful.com"}, "forBeginners": {"displayName": "For Beginners", "url": "//www.thinkful.com/for-beginners"}, "goals": {"displayName": "Goals", "host": "dashboard.thinkful.com", "url": "//dashboard.thinkful.com/goals/"}, "ibis": {"displayName": "Resources", "host": "ibis.thinkful.com", "url": "//ibis.thinkful.com"}, "lark": {"displayName": "Admin Dashboard", "host": "lark.thinkful.com", "url": "//lark.thinkful.com"}, "library": {"displayName": "Library", "url": "//www.thinkful.com/projects/library"}, "mentors": {"displayName": "Mentors", "url": "//www.thinkful.com/mentors/"}, "nestserver": {"displayName": "Nest backend", "host": "nestserver.thinkful.com", "url": "//nestserver.thinkful.com"}, "officeHours": {"displayName": "Open Sessions", "host": "www.thinkful.com", "url": "//www.thinkful.com/open-sessions/"}, "oilbird": {"host": "oilbird.thinkful.com", "url": "//oilbird.thinkful.com"}, "pages": {"displayName": "Pages", "host": "cms.thinkful.com", "url": "//cms.thinkful.com"}, "paths": {"displayName": "Paths", "url": "//www.thinkful.com/projects/paths/"}, "pricing": {"displayName": "Pricing", "url": "//www.thinkful.com/pricing/"}, "profiles": {"displayName": "Profiles", "host": "profiles.thinkful.com", "url": "//profiles.thinkful.com"}, "progress": {"host": "progress.thinkful.com", "url": "//progress.thinkful.com"}, "projectHunt": {"displayName": "Project Hunt", "host": "www.thinkful.com", "url": "//www.thinkful.com/project-hunt/"}, "projects": {"displayName": "Projects", "host": "www.thinkful.com", "url": "//www.thinkful.com/projects/"}, "qaSessions": {"displayName": "Q\u0026A sessions", "host": "www.thinkful.com", "url": "//www.thinkful.com/open-sessions/qa-sessions/"}, "records": {"displayName": "Records", "host": "records.thinkful.com", "url": "//records.thinkful.com"}, "refer": {"displayName": "Refer a Friend", "url": "//settings.thinkful.com/refer-a-friend"}, "sessions": {"displayName": "Sessions", "host": "sessions.thinkful.com", "url": "//sessions.thinkful.com"}, "settings": {"displayName": "Settings", "host": "settings.thinkful.com", "url": "//settings.thinkful.com"}, "signIn": {"displayName": "Sign In", "url": "//accounts.thinkful.com/login"}, "signOut": {"displayName": "Sign Out", "url": "//accounts.thinkful.com/logout"}, "slack": {"displayName": "Slack", "url": "https://thinkful-students.slack.com"}, "support": {"displayName": "Support", "url": "//www.thinkful.com/support/"}, "takeStudent": {"displayName": "Take Student", "url": "//www.thinkful.com/patel/take_student"}, "tfl_enroll": {"displayName": "Thinkful Enroll", "url": "//www.thinkful.com/enroll/signup/"}, "useSSL": true, "vendor": {"getstream": {"apiKey": null, "appId": null, "userFeedToken": null}, "imgix": {"host": null, "secureURLToken": null}, "logentries": {"token": false}, "segment": {"token": false}}, "workshops": {"displayName": "Workshops", "host": "www.thinkful.com", "url": "//www.thinkful.com/open-sessions/workshops/"}, "wow": {"host": "wow.thinkful.com", "url": "//wow.thinkful.com"}, "www": {"host": "www.thinkful.com", "url": "//www.thinkful.com"}}, "env": {"debug": false, "hotload": false}, "user": null}
+
+  
+
+  <script type="text/javascript">
+    window.__env = {"config": {"accounts": {"displayName": "Accounts", "host": "accounts.thinkful.com", "url": "//accounts.thinkful.com"}, "activity": {"displayName": "My Students", "host": "activity.thinkful.com", "url": "//activity.thinkful.com"}, "api": {"displayName": "Thinkful API", "host": "www.thinkful.com", "url": "//www.thinkful.com/pysplash"}, "app": {"displayName": "Splash", "host": null, "name": "Pelican", "slug": null}, "assets": {"displayName": "Assets", "host": "assets.thinkful.com", "url": "//assets.thinkful.com"}, "bloc": {"apiUrl": "https://www.bloc.io/api/v1", "url": "https://www.bloc.io"}, "bootcampFinder": {"displayName": "Bootcamp Finder", "host": "www.thinkful.com", "url": "//www.thinkful.com/bootcamps"}, "business": {"displayName": "Corporate Training", "url": "//www.thinkful.com/training-for-teams/"}, "callScheduler": {"displayName": "Call Scheduler", "host": "robin.thinkful.com", "url": "//robin.thinkful.com"}, "cassowary": {"displayName": "Admissions", "host": "cassowary.thinkful.com", "url": "//cassowary.thinkful.com"}, "courses": {"displayName": "Courses", "host": "courses.thinkful.com", "url": "//courses.thinkful.com"}, "cpEnroll": {"displayName": "Career Path Enroll", "host": "www.thinkful.com", "url": "//www.thinkful.com/join"}, "dashboard": {"displayName": "Dashboard", "host": "dashboard.thinkful.com", "url": "//dashboard.thinkful.com"}, "enroll": {"displayName": "Enroll", "host": "www.thinkful.com", "url": "//www.thinkful.com/enroll"}, "events": {"host": "avocet.thinkful.com", "url": "//avocet.thinkful.com"}, "forBeginners": {"displayName": "For Beginners", "url": "//www.thinkful.com/for-beginners"}, "goals": {"displayName": "Goals", "host": "dashboard.thinkful.com", "url": "//dashboard.thinkful.com/goals/"}, "grading": {"displayName": "Grading", "host": "grading.thinkful.com", "url": "//grading.thinkful.com"}, "hen": {"displayName": "Education Advisor Dashboard", "host": "hen.thinkful.com", "url": "//hen.thinkful.com"}, "ibis": {"displayName": "Resources", "host": "ibis.thinkful.com", "url": "//ibis.thinkful.com"}, "lark": {"displayName": "Admin Dashboard", "host": "lark.thinkful.com", "url": "//lark.thinkful.com"}, "library": {"displayName": "Library", "url": "//www.thinkful.com/projects/library"}, "mentors": {"displayName": "Mentors", "url": "//www.thinkful.com/mentors/"}, "nestserver": {"displayName": "Nest backend", "host": "nestserver.thinkful.com", "url": "//nestserver.thinkful.com"}, "officeHours": {"displayName": "Group Sessions", "host": "www.thinkful.com", "url": "//www.thinkful.com/open-sessions/"}, "oilbird": {"host": "oilbird.thinkful.com", "url": "//oilbird.thinkful.com"}, "pages": {"displayName": "Pages", "host": "cms.thinkful.com", "url": "//cms.thinkful.com"}, "paths": {"displayName": "Paths", "url": "//www.thinkful.com/projects/paths/"}, "pricing": {"displayName": "Pricing", "url": "//www.thinkful.com/pricing/"}, "profiles": {"displayName": "Profiles", "host": "profiles.thinkful.com", "url": "//profiles.thinkful.com"}, "progress": {"host": "progress.thinkful.com", "url": "//progress.thinkful.com"}, "projectHunt": {"displayName": "Project Hunt", "host": "www.thinkful.com", "url": "//www.thinkful.com/project-hunt/"}, "projects": {"displayName": "Projects", "host": "www.thinkful.com", "url": "//www.thinkful.com/projects/"}, "qaSessions": {"displayName": "Office Hours", "host": "www.thinkful.com", "url": "//www.thinkful.com/open-sessions/qa-sessions/"}, "records": {"displayName": "Records", "host": "records.thinkful.com", "url": "//records.thinkful.com"}, "refer": {"displayName": "Refer a Friend", "url": "//settings.thinkful.com/refer-a-friend"}, "sessions": {"displayName": "Sessions", "host": "sessions.thinkful.com", "url": "//sessions.thinkful.com"}, "settings": {"displayName": "Settings", "host": "settings.thinkful.com", "url": "//settings.thinkful.com"}, "signIn": {"displayName": "Sign In", "url": "//accounts.thinkful.com/login"}, "signOut": {"displayName": "Sign Out", "url": "//accounts.thinkful.com/logout"}, "slack": {"displayName": "Slack", "url": "https://thinkful-students.slack.com"}, "support": {"displayName": "Support", "url": "//www.thinkful.com/support/"}, "takeStudent": {"displayName": "Take Student", "url": "//www.thinkful.com/patel/take_student"}, "tfl_enroll": {"displayName": "Thinkful Enroll", "url": "//www.thinkful.com/enroll/signup/"}, "useSSL": true, "vendor": {"getstream": {"apiKey": null, "appId": null, "userFeedToken": null}, "imgix": {"host": null, "secureURLToken": null}, "logentries": {"token": false}, "segment": {"token": false}}, "workshops": {"displayName": "Workshops", "host": "www.thinkful.com", "url": "//www.thinkful.com/open-sessions/workshops/"}, "wow": {"host": "wow.thinkful.com", "url": "//wow.thinkful.com"}, "www": {"host": "www.thinkful.com", "url": "//www.thinkful.com"}}, "env": {"debug": false, "hotload": false}, "user": null}
   </script>
-<script defer="" src="https://wow.thinkful.com/static/build/bundle.js?dc91bdf7b6"></script>
-<script defer="" src="https://wow.thinkful.com/static/build/common.app.js?3b168be133"></script>
- 
-<script src="https://wow.thinkful.com/static/js/airbrake-shim.js?4988092ff6" data-airbrake-project-id="118234" data-airbrake-project-key="797efae4778172198885fc4bc7b48ff6" data-airbrake-environment-name="production" async=""></script>
-<script defer="" src="https://wow.thinkful.com/static/build/splash.app.js?3933fa48ab"></script>
+  <script defer="" src="https://wow.thinkful.com/static/build/bundle.js?257c8ce062"></script>
+  <script defer="" src="https://wow.thinkful.com/static/build/common.app.js?bb93a21ce0"></script>
+  
+  <script defer="" src="https://wow.thinkful.com/static/build/splash.app.js?113d8feaac"></script>
+
 
 </body></html>
