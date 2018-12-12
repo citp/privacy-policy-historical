@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partymart.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922222321id_/http%3A//www.partymart.com/usa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partymart.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212061828id_/http%3A//www.partymart.com/usa/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
