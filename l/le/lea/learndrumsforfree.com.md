@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learndrumsforfree.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614041729id_/http%3A//learndrumsforfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learndrumsforfree.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212192433id_/http%3A//learndrumsforfree.com/privacy-policy) for the most accurate reproduction.*
 
 # Data Protection, Privacy and Cookies Policy
 
