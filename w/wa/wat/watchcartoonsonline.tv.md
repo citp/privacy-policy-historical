@@ -1,21 +1,13 @@
-> *The following text is extracted and transformed from the watchcartoonsonline.tv privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420025614id_/http%3A//watchcartoonsonline.tv/watch-cartoons-online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchcartoonsonline.tv privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212095007id_/http%3A//watchcartoonsonline.tv/privacy-policy) for the most accurate reproduction.*
 
-# Watch Cartoons Online Privacy Policy
+# Privacy policy
 
-> We can be reached via e-mail at admin@futureroi.com
-> 
-> For each visitor to our Web page, our Web server automatically recognizes information of your browser, IP address, City/State/Country.
-> 
-> We collect only the domain name, but not the e-mail address of visitors to our Web page, EXCEPT FOR the e-mail addresses of those who communicate with us via e-mail.
-> 
-> The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor.
-> 
-> This site does not collect any data from visitors, other than standard server logs. However, this site does serve ads from Google, who does collect data from visitors when the ads are clicked upon. See the Google Privacy Policy at http://www.google.com/privacypolicy.html for the data that may be collected, and what it might be used for.
-> 
-> With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, customize Web page content based on visitors’ browser type or other information that the visitor sends.
-> 
-> With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies like Google (www.google.com/adsense) that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policy of:
-> 
-> http://www.google.com/privacy.html
-> 
-> If you feel that this site is not following its stated information policy, you may contact us at the above email address.
+[Home](http://watchcartoonsonline.tv/)Privacy policy
+
+Watchcartoonsonline.Tv is committed to protecting your privacy to allow for a safe and secure experience for our viewer. If we were to ask you to provide certain information by which you can be identified when using our website. You can be assured that it will only be used in accordance with this privacy statement. The general use of this information is for the purpose of reporting website traffic, statistics, advertisement click-through, and other activities on the website by using cookies, web beacons, and other monitoring technologies to compile anonymous statistics about our website visitors.
+
+No personally identifiable information is collected by or transferred to any party other than the Advertiser. The actions of such parties and how they use such information is subject to the particular third party’s privacy policy. We may change this policy from time to time by updating this page.
+
+Cookies & 3rd Party Advertisements Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site.
+
+These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
