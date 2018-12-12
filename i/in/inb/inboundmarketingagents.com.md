@@ -1,108 +1,158 @@
-> *The following text is extracted and transformed from the inboundmarketingagents.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523093532id_/https%3A//www.inboundmarketingagents.com/ima-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboundmarketingagents.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212170845id_/https%3A//www.inboundmarketingagents.com/ima-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inbound Marketing Agents
 
-_Current version published: March 31, 2016_
+### **Privacy Policy**
 
-Inbound Marketing Agents strives to be completely transparent with how we collect and use information we gather about you on this site. Your privacy is important to us and we respect your preferences.
-
-This Privacy Statement (“Privacy Statement”) explains how Inbound Marketing Agents (“IMA”) uses personal information (“Personal Information”) and applies to all users (“users”) who access, view, visit, download, or otherwise interact with http://www.inboundmarketingagents.com/ (the “Site”). By visiting the Site, you are accepting the practices described in this Privacy Statement. If you do not agree to the Inbound Marketing Agents practices, do not access, view, visit, download, or otherwise interact with the Site. If you have any questions or comments concerning Inbound Marketing Agents’ Privacy Statement, please contact us by sending an email to agent (at) inboundmarketingagents.com. You can also contact Inbound Marketing Agents via postal mail at: 521 8th Ave. S., Ste. 102, Nashville, TN 37203.
-
-**1) Personal Information Inbound Marketing Agents gathers**
-
-“Personal Information” is information that can be used to identify, locate, or contact an individual. Inbound Marketing Agents collects the following types of Personal Information:
-
-**Contact Information.** Contact Information allows Inbound Marketing Agents to communicate with you. Examples of Contact Information include, but are not limited to, your name, accurate postal addresses, valid email address, or other addresses at which you receive communications from or on behalf of Inbound Marketing Agents.
-
-**Transaction Information.** Inbound Marketing Agents automatically receives and records some information from your browser when you visit the site, such as your IP address, cookies and data about which pages you visit on the site through the use of log files provided by our third-party tracking-utility partners. This information helps us analyze and understand how the site works for users. Information that is gathered includes, but is not limited to, information about how you interact with Inbound Marketing Agents, information about how you use Inbound Marketing Agents’ Sites, email, other communications, and applications, and how you interact with other users and Inbound Marketing Agents business partners.
-
-**Mobile Location Information.** If you have permitted your mobile or other location-aware device to transmit location data, Inbound Marketing Agents collects Mobile Location.
-
-Posted Information. If you chose to post a comment on our blog, we may collect information regarding your name and the content of your post. It is important to note that any content you post on the blog is publicly displayed and will be seen by other users of the Site.
-
-**2) How Inbound Marketing Agents Collects Personal Information**
-
-Inbound Marketing Agents prompts you to provide Personal Information (including Contact Information) when you use Inbound Marketing Agents or otherwise interact with the Site or contact Inbound Marketing Agents.
-
-Inbound Marketing Agents collects Transaction Information when you use the Site. For example, Inbound Marketing Agents may track the pages you view, the methods of communication that may be offered on or through the Site from time to time. Inbound Marketing Agents uses cookies and related technologies to collect information about your computer and your interaction with the Site and our partner websites.
-
-Inbound Marketing Agents also collects Transaction Information if and when you contact Inbound Marketing Agents via telephone, email, or other methods of communication.
-
-**3) How Inbound Marketing Agents Uses Personal Information**
-
-We may use Personal Information to enhance to enhance your user experience, to help us better understand you, to help us customize offers, blog topics, or posts that may be of interest to you, and to help us otherwise enhance the Site.
-
-**Inbound Marketing Agents uses Personal Information to:**
-
-  * Identify and authenticate users;
-  * Facilitate transactions;
-  * Operate and improve the Site;
-  * Connect with you on social media (such as Facebook, LinkedIn, or Twitter);
-  * Contact you by phone or email;
-  * Personalize and continually improve users’ Inbound Marketing Agents experience;
-  * Provide you with suggested information based on variables such as stated preferences, interests, business activities, and/or location;
-  * Send you technical notices, updates, alerts and support and administrative messages service bulletins, or marketing;
-  * Evaluate additional services, items, or offerings that may be of interest to users;
-  * Track transactions and perform other analytics;
-  * Communicate and provide additional information that may be of interest to you about Inbound Marketing Agents partners or third parties; and
-  * Manage Inbound Marketing Agents everyday business needs such as Site administration, communication management, analytics, fraud prevention, enforcement of our corporate reporting obligations, Terms of Use or to comply with the law.
+  1.   **INTRODUCTION**   
 
 
 
-**4) When and Why Inbound Marketing Agents Discloses Personal Information**
+This privacy notice provides you with details of how we collect and process your personal data through your use of our site [www.inboundmarketingagents.com](https://www.inboundmarketingagents.com/).
 
-Inbound Marketing Agents will not disclose your Personal Information to third parties without your explicit consent, except as specified in this Privacy statement. Inbound Marketing Agents will disclose your Personal Information when: **  
-**
+By providing us with your data, you warrant to us that you are over 13 years of age.
 
-  * Working with companies and service providers (i.e. HubSpot, MailChimp, or other companies that process billing, website hosting, or analytics performance in furtherance of the purposes described in Section 3 (“How Inbound Marketing Agents Uses Personal Information”) above.
-  * Inbound Marketing Agents employs other companies to perform tasks on Inbound Marketing Agents’ behalf and therefore Inbound Marketing Agents must share your Personal Information with these companies to provide services to you. Examples include but are not limited to processing payments, handling billing disputes and collections, analyzing data, providing marketing assistance and providing customer service. Inbound Marketing Agents may partner with third-party services for fraud prevention and/or identity verification.
-  * Enforcing Inbound Marketing Agents’ rights or protect Inbound Marketing Agents property and intellectual property;
-  * Protecting the rights, property or safety of others, investigate fraud, respond to a government request.
-  * Inbound Marketing Agents believes in good faith that it must disclose such information to prevent imminent physical harm or financial loss.
-  * Inbound Marketing Agents believes in good faith that it must disclose such information to commence an investigation or take action regarding illegal activities or suspected fraud.
-  * Inbound Marketing Agents believes in good faith that it must disclose such information per auditing, compliance, and corporate governance functions.
-  * Inbound Marketing Agents believes in good faith that it must disclose such information to defend Inbound Marketing Agents in litigation or a regulatory action.
-  * Inbound Marketing Agents believes in good faith that it must disclose such information, or advised to do so by law, such as in response to a subpoena, or similar legal process, including to law enforcement agencies, regulators, and courts in the United States and other countries where we operate.
+Inbound Marketing Agents is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).
+
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at bill@inboundmarketingagents.com OR by [clicking here to update your details in our preference center](https://preview.hs-sites.com/_hcms/preview/template/multi?is_buffered_template_layout=true&portalId=160334&tc_deviceCategory=desktop&template_layout_id=3604958063). 
+
+  2.   **WHAT DATA DO WE COLLECT ABOUT YOU, FOR WHAT PURPOSE AND ON WHAT GROUND WE PROCESS IT**
 
 
 
-Inbound Marketing Agents will not sell your Personal Information to third parties unless Inbound Marketing Agents is in the process of entering into a merger with another business, acquisition of another business, or the sale of all or a portion of Inbound Marketing Agents’ assets and the information is needed to support the sale or transfer of business assets. If Inbound Marketing Agents is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on our Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information before it becomes subject to a new privacy statement.
+Personal data means any information capable of identifying an individual. It does not include anonymized data.
 
-This Privacy statement only governs when and why Inbound Marketing Agents discloses Personal Information. This Privacy statement does not apply to the practices of third parties that Inbound Marketing Agents does not own or control, or individuals that Inbound Marketing Agents does not employ or manage. The use of your Personal Information by third parties that you access through the Site is governed by the privacy policies of such parties and is not subject to Inbound Marketing Agents’ control. Inbound Marketing Agents is not responsible for the privacy or security practices of other websites on the Internet, even those linked to or from the Inbound Marketing Agents Site. We encourage you to ask questions before you disclose your personal information to others.
+We may process the following categories of personal data about you:
 
-Please note, if you subscribe to Inbound Marketing Agents’ blog, your information will be shared with HubSpot.com. Please familiarize yourself with [HubSpot.com’s Privacy Policy](https://legal.hubspot.com/privacy-policy).
-
-Inbound Marketing Agents may disclose information about you that is not personally identifiable. For example, Inbound Marketing Agents may provide our partners, (such as Hubspot.com), or other third parties with reports that contain aggregated and statistical data about Inbound Marketing Agents users.
-
-**5) Tracking Technologies**
-
-Inbound Marketing Agents implements cookies to store user information and track user activities. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information. Cookies enable Inbound Marketing Agents to monitor your activity across sessions of interaction between your device and the Site. Please see #6, Choice and Control, for information on how to refuse cookies.
-
-**6) Choice and Control**
-
-While Inbound Marketing Agents does need to collect certain information to make your Inbound Marketing Agents experience personalized and to conduct transactions for you, Inbound Marketing Agents wants to give you the ability to control how your information is provided and shared.
-
-  * **Email Preferences**. For various reasons, Inbound Marketing Agents may contact you about our services or your activity. If you no longer wish to receive emails from Inbound Marketing Agents you may opt out of the email as indicated on each and every email correspondence.
-  * **Cookies and Tracking Devices**. You manage how your browser handles cookies and other tracking devices by adjusting the privacy and security settings on your browser. If accessing Inbound Marketing Agents by a mobile device, you may manage the information your mobile device shares, such as cookies, tracking technologies, and location information, by adjusting your mobile device privacy and security settings.
+  * **Communication Data** that includes any communication that you send to us whether that be through the contact form on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defense of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.
 
 
+  * **Customer Data** that includes data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address email address, phone number, contact details, purchase details and your card details. We process this data to supply the goods and/or services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
 
-**7) Security of Personal Information**
 
-Inbound Marketing Agents strives to use commercially acceptable means to protect your personal information, however, no method of transmission over the Internet, or method of electronic storage, is 100% secure and therefore Inbound Marketing Agents cannot guarantee absolute security of your personal information. Inbound Marketing Agents strives to maintain a system that reasonably safeguards Personal Information.
+  * **User Data** that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain back- ups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.
 
-**8) Privacy Practices of Third Parties.**
 
-This Privacy Statement describes the collection, use, and disclosure of information by Inbound Marketing Agents through the Site. Inbound Marketing Agents utilizes third parties to provide services to users and also provides links from the Site to other websites. These third parties may have their own privacy policies and may collect, use, and distribute information differently than Inbound Marketing Agents. Inbound Marketing Agents encourages all users to read the privacy policies of all third parties.
+  * **Technical Data** that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyze your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
 
-**9) IMPACT Blog**
 
-Inbound Marketing Agents contains a blog and other areas where users may publicly post information, communicate with other users, and submit content they deem relevant for discussion. Inbound Marketing Agents strongly encourages you to read the Inbound Marketing Agents Terms of Use carefully prior to posting or engaging in the blog. All the information you post will be accessible to anyone, at any time, with Internet access. Furthermore, Inbound Marketing Agents strongly advises you to NOT post any personal or identifiable information about yourself or contact information, including address, email, phone numbers, or other means of communicating outside of the blog. Any information you post may be read, collected, and used by others.
+  * **Marketing Data** that includes data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize draws and free give-aways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising.  Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
 
-**10) Changes to this Privacy Statement**
 
-Inbound Marketing Agents may, from time to time, in Inbound Marketing Agents’ sole, absolute, and unfettered discretion, update this Privacy Statement to clarify our practices or to reflect new or different privacy practices. We encourage all users to periodically review the Privacy Statement.
+  * We may use Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook adverts or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).
 
-**11) Contact Inbound Marketing Agents**
 
-If you have questions or suggestions, you may contact Inbound Marketing Agents by sending an email to agent (at) inboundmarketingagents.com.
+
+### **Sensitive Data**
+
+We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offenses.
+
+Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
+
+We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this please email us at bill@inboundmarketingagents.com. In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
+
+We may process your personal data without your knowledge or consent where this is required or permitted by law.
+
+We do not carry out automated decision making or any type of automated profiling.
+
+  3.   **HOW WE COLLECT YOUR PERSONAL DATA**
+
+
+
+We may collect data about you by you providing the data directly to us (for example by filling in forms on our site or by sending us emails). We may automatically collect certain data from you as you use our website by using cookies and similar technologies. Please see our cookie policy for more details about this [ **INSERT LINK TO COOKIE POLICY** ].
+
+We may receive data from third parties such as analytics providers such as Google based outside the EU, advertising networks such as Facebook based outside the EU, such as search information providers such as Google based outside the EU, providers of technical, payment and delivery services, such as data brokers or aggregators.
+
+We may also receive data from publicly available sources such as Companies House and the Electoral Register based inside the EU.
+
+  4. **MARKETING COMMUNICATIONS**
+
+
+
+Our lawful ground of processing your personal data to send you marketing communications is either your consent or our legitimate interests (namely to grow our business).
+
+Under the Privacy and Electronic Communications Regulations, we may send you marketing communications from us if (i) you made a purchase or asked for information from us about our goods or services or (ii) you agreed to receive marketing communications and in each case you have not opted out of receiving such communications since. Under these regulations, if you are a limited company, we may send you marketing emails without your consent. However you can still opt out of receiving marketing emails from us at any time.
+
+Before we share your personal data with any third party for their own marketing purposes we will get your express consent.
+
+You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences OR by following the opt-out links on any marketing message sent to you OR by emailing us at bill@inboundmarketingagents.com at any time.
+
+If you opt out of receiving marketing communications this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc. 
+
+  5.   **DISCLOSURES OF YOUR PERSONAL DATA**  
+
+
+
+We may have to share your personal data with the parties set out below:
+
+  * Service providers who provide IT and system administration services.
+  * Professional advisers including lawyers, bankers, auditors and insurers 
+  * Government bodies that require us to report processing activities.
+  * Third parties to whom we sell, transfer, or merge parts of our business or our assets. 
+
+
+
+We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.
+
+  6.   **INTERNATIONAL TRANSFERS** We are subject to the provisions of the General Data Protection Regulations that protect your personal data. Where we transfer your data to third parties outside of the EEA, we will ensure that certain safeguards are in place to ensure a similar degree of security for your personal data. As such:
+
+
+  * We may transfer your personal data to countries that the European Commission have approved as providing an adequate level of protection for personal data by; or
+  * If we use US-based providers that are part of EU-US Privacy Shield, we may transfer data to them, as they have equivalent safeguards in place; or
+  * Where we use certain service providers who are established outside of the EEA, we may use specific contracts or codes of conduct or certification mechanisms approved by the European Commission which give personal data the same protection it has in Europe.
+
+
+
+If none of the above safeguards are available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time.
+
+  7.   **DATA SECURITY**  
+
+
+
+We have put in place security measures to prevent your personal data from being accidentally lost, used, altered, disclosed, or accessed without authorization. We also allow access to your personal data only to those employees and partners who have a business need to know such data. They will only process your personal data on our instructions and they must keep it confidential.
+
+We have procedures in place to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach if we are legally required to.
+
+  8.   **DATA RETENTION**
+
+
+
+We will only retain your personal data for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+When deciding what the correct time is to keep the data for we look at its amount, nature and sensitivity, potential risk of harm from unauthorized use or disclosure, the processing purposes, if these can be achieved by other means and legal requirements.
+
+For tax purposes the law requires us to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they stop being customers.
+
+In some circumstances we may anonymize your personal data for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+  9.   **YOUR LEGAL RIGHTS**  
+
+
+
+Under data protection laws you have rights in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to portability of data and (where the lawful ground of processing is consent) to withdraw consent.
+
+You can see more about these rights at: 
+
+https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/
+
+If you wish to exercise any of the rights set out above, please email us at support@limogrowth.com.
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive or refuse to comply with your request in these circumstances.
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you.
+
+If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([ _www.ico.org.uk_](http://www.ico.org.uk/) ). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
+
+  10. **THIRD-PARTY LINKS**  
+
+
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+  11. **COOKIES**  
+
+
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see ([http://www.inboundmarketingagents.com/ima-cookie-policy](https://web.archive.org/ima-cookie-policy/)/) 
