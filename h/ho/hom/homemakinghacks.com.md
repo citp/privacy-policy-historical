@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homemakinghacks.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629182035id_/https%3A//cutefetti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemakinghacks.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212055301id_/https%3A//cutefetti.com/privacy-policy) for the most accurate reproduction.*
 
-# Cutefetti.com Privacy Policy | LIFESTYLE BLOG
+# Cutefetti.com Privacy Policy | Cutefetti
 
  Cutefetti.com (“Website”) is governed by the following Privacy Policy. 
 
@@ -88,13 +88,13 @@ On the Website, you may subscribe to our newsletter, which may be used for adver
 
 **RIGHTS RELATED TO YOUR PERSONAL INFORMATION**
 
-**Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to be removed from our mailing list. 
+**Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at dawnchats@gmail.com to be removed from our mailing list. 
 
-**Access** – You may access the personal information we have about you by submitting a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+**Access** – You may access the personal information we have about you by submitting a request to dawnchats@gmail.com 
 
-**Amend** – You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to amend or update your personal information. 
+**Amend** – You may contact us at dawnchats@gmail.com to amend or update your personal information. 
 
-**Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+**Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to dawnchats@gmail.com. 
 
 Please note that we may need to retain certain information for record-keeping purposes or to complete transactions, or when required by law. 
 
@@ -104,10 +104,10 @@ At no time should you submit sensitive personal information to the Website. This
 
 **CHILDREN’S INFORMATION**
 
-The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will use our best efforts to promptly remove such information from our records.
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at dawnchats@gmail.com and we will use our best efforts to promptly remove such information from our records.
 
 **CONTACT INFORMATION**
 
-At any time, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for questions related to this Privacy Policy. 
+At any time, please contact us at dawnchats@gmail.com for questions related to this Privacy Policy. 
 
 Last updated: 5/23/2018
