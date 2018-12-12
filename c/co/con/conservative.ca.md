@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservative.ca privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622054450id_/http%3A//cpcp.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservative.ca privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212070005id_/http%3A//cpcp.cc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Conservative Party of Canada - Canada's Official Opposition
 
@@ -48,7 +48,7 @@ Our web site contains links to a limited number of other web sites. The Conserva
 
 If you have any questions, concerns, or complaints about the Conservative Party privacy policy or the information we collect, please contact our privacy officer by e-mail at privacy@conservative.ca, or by regular mail at:
 
-Attn: Greg Labuschagne, Privacy Officer  
+Attn: Trevor Bailey, Privacy Officer  
 Conservative Party of Canada  
 1720 – 130 Albert St.  
 Ottawa, ON K1P 5G4
