@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwannarofl.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523100248id_/http%3A//iwannarofl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwannarofl.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212194032id_/http%3A//iwannarofl.com/privacy) for the most accurate reproduction.*
 
 # Privacy | I wanna ROFL
 
@@ -8,7 +8,7 @@
 
 **INTRODUCTION**
 
-This privacy policy (“ **Policy** ”) describes how **[iwannarofl.com at G.Munzi via giulia 89-90 Rome, Italy]** (“ **iwannarofl.com,** ” “ **we,** ” and “ **our** ”) processes, collects, uses and shares personal data when using this website [ **iwannarofl.com** ] (the “ **Site** ”). Please read the following information carefully to understand our practices regarding your personal data and how we will process data.
+This privacy policy (“ **Policy** ”) describes how **iwannarofl.com at G.Munzi via giulia 89-90 Rome, Italy  **(“ **iwannarofl.com,** ” “ **we,** ” and “ **our** ”) processes, collects, uses and shares personal data when using this website [ **iwannarofl.com** ] (the “ **Site** ”). Please read the following information carefully to understand our practices regarding your personal data and how we will process data.
 
   * **Purposes of Processing  **
 
@@ -30,20 +30,11 @@ We collect information about you in the following ways:
 
 **Information You Give Us.** This includes:
 
-  * the personal data you provide when you register to use our Site, including your‎ name, postal address, email address, telephone number, username, password and demographic information (such as your gender); **[ _Note: Please confirm what information users will be required to submit when they register._ ]**
-  * the personal data that may be contained in any video, comment or other submission you upload or post to the Site; **_[Note: What content can users post to the Site? – if no content, please delete this paragraph]_**
-  * the personal data you provide in connection with our rewards program and other promotions we run on the Site;
-  * the personal data you provide when you report a problem with our Site or when we provide you with customer support;
-  * the personal data you provide when you make a purchase thorough our Site; and
   * the personal data you provide when you correspond with us by phone, email or otherwise.
 
 
 
-**[ _Note: List any other contexts in which users might provide the iwannarofl.com with personal data about them._ ]**
-
-**[Information from Social Networking Sites.** Our Site include interfaces that allow you to connect with social networking sites (each a “SNS”). If you connect to a SNS through our Site, you authorize us to access, use and store the information that you agreed the SNS could provide to us based on your settings on that SNS. We will access, use and store that information in accordance with this Policy. You can revoke our access to the information you provide in this way at any time by amending the appropriate settings from within your account settings on the applicable SNS.] **[ _Note: Please confirm whether the Site has these interfaces. Please also confirm which third party SNSs the Site will connect to. Otherwise, please if delete this paragraph_ ]**
-
-**[Information Automatically Collected.** We automatically log information about you and your computer or mobile device when you access our Site. For example, when visiting our Site, we log your computer or mobile device operating system name and version, manufacturer and model, browser type, browser language, screen resolution, the website you visited before browsing to our Site, pages you viewed, how long you spent on a page, access times and information about your use of and actions on our Site. **[ _Note: Please confirm whether you will collect any/all of this information. If so, will this be collected using cookies?_ ] **We collect this information about you using cookies. **[ _Note: See also the sections on Cookies, Flash Technology and Pixel Tags below and confirm whether any/all of these sections are applicable._ ]**
+**[Information Automatically Collected.** We automatically log information about you and your computer or mobile device when you access our Site. For example, when visiting our Site, we log your computer or mobile device operating system name and version, manufacturer and model, browser type, browser language, screen resolution, the website you visited before browsing to our Site, pages you viewed, how long you spent on a page, access times and information about your use of and actions on our Site. We collect this information about you using cookies.
 
 **Automated Decision Making and Profiling.  **
 
@@ -55,33 +46,33 @@ We do not use your personal data for the purposes of automated decision-making. 
 
 **What are cookies?**
 
-We may collect information using “cookies.” Cookies are small data files stored on the hard drive of your computer or mobile device by a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer or mobile device until you delete them) to provide you with a more personal and interactive experience on our Site. **[ _Note: Please confirm to what extent this is correct._ ]**
+We may collect information using “cookies.” Cookies are small data files stored on the hard drive of your computer or mobile device by a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer or mobile device until you delete them) to provide you with a more personal and interactive experience on our Site.
 
-We use two broad categories of cookies: (1) first party cookies, served directly by us to your computer or mobile device, which are used only by us to recognize your computer or mobile device when it revisits our Site; and (2) third party cookies, which are served by service providers on our Site, and can be used by such service providers to recognize your computer or mobile device when it visits other websites. **[ _Note: Please confirm whether first and/or third party cookies will be used._ ]**
+We use two broad categories of cookies:  third party cookies, which are served by service providers on our Site, and can be used by such service providers to recognize your computer or mobile device when it visits other websites.
 
 **Cookies we use**
 
-Our Site uses the following types of cookies for the purposes set out below: **[ _Note: Please review the following table and amend it as necessary so that it accurately describes the types of cookies that will be used on the Site and the purposes for which they will be used._ _Please note that for the EU, you will also need to implement a cookie banner or otherwise obtain the consent of EU Data Subjects to the cookie policy.]_**
+Our Site uses the following types of cookies for the purposes set out below:
 
 **Type of cookie** | **Purpose  **  
 ---|---  
-_Essential Cookies  _ | These cookies are essential to provide you with services available through our Site and to enable you to use some of its features. [For example, they allow you to log in to secure areas of our Site and help the content of the pages you request load quickly]. **[ _Note: Is this bracketed wording correct?_ ] **Without these cookies, the services that you have asked for cannot be provided, and we only use these cookies to provide you with those services.  
+|   
 _Functionality Cookies_ | These cookies allow our Site to remember choices you make when you use our Site, [such as remembering your language preferences, remembering your login details and remembering the changes you make to other parts of our Site which you can customize] **[ _Note: Is this bracketed wording correct?_ ]**. The purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time you visit our Site.  
-_Analytics and Performance Cookies_ | These cookies are used to collect information about traffic to our Site and how users use our Site. The information gathered does not identify any individual visitor. [It includes the number of visitors to our Site, the websites that referred them to our Site, the pages they visited on our Site, what time of day they visited our Site, whether they have visited our Site before, and other similar information.] [We use this information to help operate our Site more efficiently, to gather broad demographic information and to monitor the level of activity on our Site.] **[ _Note: Is this bracketed wording correct?_ ]**
+_Analytics and Performance Cookies_ | These cookies are used to collect information about traffic to our Site and how users use our Site. The information gathered does not identify any individual visitor. [It includes the number of visitors to our Site, the websites that referred them to our Site, the pages they visited on our Site, what time of day they visited our Site, whether they have visited our Site before, and other similar information.] [We use this information to help operate our Site more efficiently, to gather broad demographic information and to monitor the level of activity on our Site.] 
+
+We use Google Analytics in anonymous way. We don’t see your Ip address.
 
 [We use Google Analytics for this purpose. Google Analytics uses its own cookies. It is only used to improve how our Site works. You can find out more information about Google Analytics cookies here: https://developers.google.com/analytics/resources/concepts/gaConceptsCookies]
 
 [You can find out more about how Google protects your data here: www.google.com/analytics/learn/privacy.html.]
 
-[You can prevent the use of Google Analytics relating to your use of our Site by downloading and installing the browser plugin available via this link: http://tools.google.com/dlpage/gaoptout?hl=en-GB]
-
-**[ _Note: Please confirm whether you will use Google Analytics._ ]**  
+[You can prevent the use of Google Analytics relating to your use of our Site by downloading and installing the browser plugin available via this link: http://tools.google.com/dlpage/gaoptout?hl=en-GB]  
   
-_Targeted and advertising cookies_ | [These cookies track your browsing habits to enable us to show advertising which is more likely to be of interest to you. These cookies use information about your browsing history to group you with other users who have similar interests. Based on that information, and with our permission, third party advertisers can place cookies to enable them to show adverts which we think will be relevant to your interests while you are on third party websites.] **[ _Note: Is this applicable? Will there be third party behavioral advertising on the Site?_ ]**
+_Targeted and advertising cookies_ | [These cookies track your browsing habits to enable us to show advertising which is more likely to be of interest to you. These cookies use information about your browsing history to group you with other users who have similar interests. Based on that information, and with our permission, third party advertisers can place cookies to enable them to show adverts which we think will be relevant to your interests while you are on third party websites.] ** **
 
 [You can disable cookies which remember your browsing habits and target advertising at you by visiting http://www.youronlinechoices.com/uk/your-ad-choices. If you choose to remove targeted or advertising cookies, you will still see adverts but they may not be relevant to you. Even if you do choose to remove cookies by the companies listed at the above link, not all companies that serve online behavioral advertising are included in this list, and so you may still receive some cookies and tailored adverts from companies that are not listed.]  
   
-_Social Media Cookies_ | [These cookies are used when you share information using a social media sharing button or “like” button on our Site or you link your account or engage with our content on or through a social networking website such as Facebook, Twitter or Google+. The social network will record that you have done this.] **[ _Note: Is this applicable?_ ]**  
+_Social Media Cookies_ | [These cookies are used when you share information using a social media sharing button or “like” button on our Site or you link your account or engage with our content on or through a social networking website such as Facebook, Twitter or Google+. The social network will record that you have done this.]  
   
 **Disabling cookies**
 
@@ -106,39 +97,26 @@ We may use your personal data as follows:
   * to operate and administer our rewards program and other promotions you participate in on our Site;
   * to respond to your comments and questions and to provide customer service;
   * to send information including technical notices, updates, security alerts, and support and administrative messages;
-  * with your consent, to send you marketing e-mails about upcoming promotions, and other news, including information about products and services offered by us and our affiliates. You may opt-out of receiving such information at any time: such marketing emails tell you how to “opt-out.” Please note, even if you opt out of receiving marketing emails, we may still send you non-marketing emails. Non-marketing emails include emails about your account with us (if you have one) and our business dealings with you; **[ _Note: Is this applicable?._ ] **
-  * [to process payments you make via our Site]; **[ _Note: Is this applicable?_ ] **
   * as we believe necessary or appropriate (a) to comply with applicable laws; (b) to comply with lawful requests and legal process, including to respond to requests from public and government authorities; (c) to enforce our Policy; and (d) to protect our rights, privacy, safety or property, and/or that of you or others;
   * for analysis and study services; and
   * as described in the “Sharing of your Personal Data” section below.
-
-
-
-**[ _Note: Please confirm whether the above list is correct and whether there are any other purposes for which you will use personal data._ ]**
-
   * **Sharing Your Personal Data**
 
 
 
-We may share your personal data as follows:
+We don’t share your personal data. Please Read again the advertising section.
 
-  * **Third Parties Designated by You.** We may share your personal data with third parties where you have provided your consent to do so.
-  * **Our** **Third Party Service Providers**. We may share your personal data with our third party service providers who provide services such as [data analysis, payment processing, information technology and related infrastructure provision, customer service, email delivery, auditing and other similar services]. **[ _Note: Please confirm which of these are applicable and expand/amend with as much detail as possible._ ] **
-
-
-  * **Third Party Sites  **
-
-
-
-Our Site may contain links to third party websites and features. **[ _Note: Please confirm whether the Site will contain links to other website._ ] **This Policy does not cover the privacy practices of such third parties. **** These third parties have their own privacy policies and we do not accept any responsibility or liability for their websites, features or policies. Please read their privacy policies before you submit any data to them. **[ _Note: Please confirm what third party website features will be available on the Site. For example, Facebook like buttons, Facebook Connect, Google +1 Button, Sign in with Google, Twitter widget, etc._ ]**
+Our Site may contain links to third party websites and features. ** ** This Policy does not cover the privacy practices of such third parties. **** These third parties have their own privacy policies and we do not accept any responsibility or liability for their websites, features or policies. Please read their privacy policies before you submit any data to them. ** _  Facebook like buttons, Facebook Connect, Google +1 Button, Sign in with Google, Twitter widget._**
 
   * **User Generated Content  **
 
 
 
-You may share personal data with us when you submit user generated content to our Site, [including via our rewards program, forums, message boards and blogs on our Site]. **[ _Note: Please confirm whether there will be message boards/blogs on the Site or whether users could submit UGC to the Site in any other way._ ]** Please note that any information you post or disclose on our Site will become public information, and will be available to other users of our Site and to the general public. We urge you to be very careful when deciding to disclose your personal data, or any other information, on our Site. Such personal data and other information will not be private or confidential once it is published on our Site.
+You may share personal data with us when you submit user generated content to our Site, Please note that any information you post or disclose on our Site will become public information, and will be available to other users of our Site and to the general public. We urge you to be very careful when deciding to disclose your personal data, or any other information, on our Site. Such personal data and other information will not be private or confidential once it is published on our Site.
 
-If you provide feedback to us, we may use and disclose such feedback on our Site [, provided we do not associate such feedback with your personal data]. [If you have provided your consent to do so, we may post your first and last name along with your feedback on our Site.] [We will collect any information contained in such feedback and will treat the personal data in it in accordance with this Policy.] **[ _Note: Please confirm whether this is applicable._ ]**
+If you provide feedback to us, we may use and disclose such feedback on our Site [, provided we do not associate such feedback with your personal data]. [If you have provided your consent to do so, we may post your first and last name along with your feedback on our Site.] [We will collect any information contained in such feedback and will treat the personal data in it in accordance with this Policy.] ** **
+
+You guarantee that you own 100% of the rights to post your content. You are the only responsible for the content you upload on our site.
 
   * **International Data Transfer  **
 
@@ -156,7 +134,7 @@ We seek to use reasonable organizational, technical and administrative measures 
 
 
 
-We will only retain your personal data for [INSERT RETENTION PERIOD/ESTIMATED RETENTION PERIOD AND METHOD USED TO ESTIMATE RETENTION PERIOD unless a longer retention period is required or permitted by law (for example for regulatory purposes).
+We will only retain your personal data for 24 months unless a longer retention period is required or permitted by law (for example for regulatory purposes).
 
 OR
 
@@ -192,3 +170,10 @@ We are committed to resolve any complaints about our collection or use of your p
 
 
 We welcome your comments or questions about this Policy. You may contact us in writing at **info@iwannarofl.com** or **_Contacting iwannarofl.com Facebook page sending a Fb messenger message_**[ ** _https://www.facebook.com/readmanga_**](https://www.facebook.com/weloveebooks)
+
+**DMCA**
+
+Limitations on Liability   
+This website and its content are made available to users without warranties, representations, indemnities or guarantees of any kind whatsoever. We specifically and expressly disclaim any liability for any indirect, incidental, consequential or special damages arising out of our in any way connected with access to or use of this site even if we have been advised of the possibility of such damages. The maximum liability to users based on any claim arising out of or in connection with the site or its content shall in no case exceed the amounts, if any, paid by the user to us.   
+Take-Down Notices Under the DMCA   
+We will investigate notices of copyright infringement and take appropriate actions under the Digital Millennium Copyright Act, 17 U.S.C Sec. 512(c)(2) (“DMCA”). Notices of claimed copyright infringement must be in strict compliance with all terms and conditions of the DMCA and must be submitted to the following Designated Agent for this site, at the following email address: info at iwannarofl.com or dmca at iwannarofl.com
