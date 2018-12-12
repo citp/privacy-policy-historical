@@ -1,103 +1,286 @@
-> *The following text is extracted and transformed from the engagesciences.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106150619id_/http%3A//www.engagesciences.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engagesciences.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212232143id_/https%3A//www.wayin.com/privacy-policy/%23cookies) for the most accurate reproduction.*
 
 # Privacy Policy - Wayin
 
-This Privacy Policy applies to Wayin.com (the **“Site”** ) and other services provided to third parties by Wayin, Inc. as further described below ( **“Services”** ). By using the Site or the Services, you consent to the practices described in this Privacy Policy. If you do not agree to the terms set forth in this Privacy Policy, you may not use our Site or Services.
+At Wayin, we respect the privacy rights of our users and recognize the importance of protecting the personal data we collect about you. Our Privacy Policy is designed to help you understand what information we collect, how we use and share that information and your rights in relation to our use of that information.
 
-This Privacy Policy is incorporated into the [Terms of Use](https://web.archive.org/terms-of-use) governing your use of our Site. Any capitalized terms not defined in this Privacy Policy will have the definitions provided in our Terms of Use.
+#### 1\. About Us
 
-##### Scope of this Privacy Policy
+As used in this Privacy Policy, “Wayin,” “us” and “we” refers to Wayin, Inc. and its affiliates, including without limitation Wayin Limited and Wayin Australia Pty Limited. Wayin provides marketing products and services to, and processes certain personal data on behalf of, its Clients. We provide our Clients access to our marketing campaign development and management platforms and related products, applications and services (in each case in whatever format they may be offered now or in the future, the “ **Platform** ”). Using our Platform, our Clients may develop marketing campaigns, content, and collect information using forms, surveys, social media, or other services (“ **Client** **Services** ”) that are provided via Client-controlled websites and other services (“ **Client** **Properties** ”).
 
-This Privacy Policy applies to information collected through our Site, and also describes certain privacy practices with regard to the Services provided by Wayin to third parties. The Services include without limitation, social media hubs, widgets, platforms, and APIs for use on third party sites or in third party broadcast programming. The Services typically include feeds of “tweets” (consisting of text, pictures, videos, links to websites, or other content) provided to Wayin by Twitter, Inc. ( **“Twitter”** ), other social media content created by end-users and provided through other social media platforms (together with tweets, the **“Social Media Content”** ), as well as promotions, sweepstakes, polling, product feedback and reviewing, and other promotional or advertising campaigns ( **“Promotions”** ). This Privacy Policy does not apply to any information you may provide to us by email, phone, fax, in written agreements, or otherwise.
+#### 2\. Scope of this Policy
 
-**“PII”** means “personally identifiable information,” which is information that identifies you personally, either alone or in combination with other information available to us (including without limitation your name, address, email address, telephone number, or other personal information). **“Non-PII”** means “non-personally identifiable information” or other information which alone does not identify you. We sometimes refer to both PII and Non-PII in this Privacy Policy as **“Information.”** Social Media Content may include PII and/or Non-PII, depending on the content voluntarily submitted to the social media platform by the applicable end-user.
+This Privacy Policy applies to the collection of data that relates to identified or identifiable information (“ **personal** **data** ”) on Wayin’s websites (including without limitation [www.wayin.com](http://www.wayin.com/) and any successor URLs, mobile or localized versions and related domains and subdomains, the “ **Website** ” or “ **Site** ”) and our Platform. The Website and Platform are collectively referred to herein as the “ **Wayin Services**.” Except as expressly described in the “Client Services” section below, this Privacy Policy does not apply to our Clients, or your use of the Client Services or Client Properties.
 
-##### Collection of Your Information
+Our [Terms of Use](https://www.wayin.com/terms-of-use/) govern your use of our Site. Any capitalized terms not defined in this Privacy Policy will have their definitions provided in our Terms of Use.
 
-**Social Media Content.** Anything a Twitter user may tweet to a hashtag being used by one of the Services, or any other Social Media Content submitted by an end-user to the applicable social media platform and which is then automatically provided by that platform to Wayin (via API or otherwise), may instantly be visible to anyone viewing the applicable Service anywhere in the world (subject to the privacy settings you have established in your account with the applicable social media platform). By submitting any public Social Media Content (as controlled by your account settings with the applicable social media platform, if any) to the applicable hashtag promoted in a Service, or otherwise in a manner that transmits such Social Media Content to a Service, you consent to the collection, transfer, manipulation, storage, disclosure, and other use of the Information contained within the Social Media Content, to any country in which the Service is provided. You further consent that any Information you tweet or otherwise post to a social media platform will be provided by you directly to the applicable social media platform, and accordingly will be subject to that platform’s own Privacy Policy and the controls you have established on your social media account with that platform (including without limitation the privacy settings for that account, if any).
+#### 3\. Client Services
 
-**Promotion Data.** When you participate in a Promotion provided by Wayin or as part of our Services, we may collect certain PII from you, including your name, email, and other Information which may be requested by the party sponsoring/running the Promotion. We use this Information and PII as necessary to administer the Promotion, and we may share it with our client or other party on whose behalf we administer the Promotion. Note that we may collect and share this information for promotional and advertising purposes, in order to provide any other service you request, or in order to obtain data requested by our customers. You may receive emails from either us or the third party sponsoring/running the Promotion, or from third parties with whom your PII has been shared.
+In connection with providing the Client Services, Wayin processes certain personal data on behalf of and at the direction of our Clients. Our Clients remain the owners and controllers of the personal data collected and used in connection with our Client Services and on any Client Property. Any personal data you submit through the Client Services, or on any Client Property, is governed by the Client’s privacy policy.
 
-**Contests or Sweepstakes.** We may operate our own contests and sweepstakes through the Site and Services which may require registration and submission of PII (such as your name, email, and address) in order to enter. Your PII may be used to contact you for winner notification, prize delivery confirmation or other promotional purposes. Your entry in the contest or sweepstakes may also result in your being added to our marketing lists as well as those of our promotional partners associated with the contest or sweepstakes. Acceptance of a prize may require you (unless prohibited by law) to allow us to post publicly some of your information on the Site or through the Services, such as on a winner’s page. As discussed above, we may also administer or host a contest or sweepstakes on behalf of a third party on our Site or through our Services. In those cases, we may have no control over the information collected and accordingly urge you to review the official rules of the contest/sweepstakes as well as the advertiser’s or sponsor’s privacy policy, before participating.
+If you have questions regarding a Client’s collection and use of personal data, you should contact the Client with your requests or inquiries, or to exercise your rights. We will cooperate with our Clients to assist you in the exercise of the rights you have related to your personal data under applicable law. If you have any inquiries specifically directed towards Wayin, please email us at [data@wayin.com](mailto:data@wayin.com).
 
-**Optional Voluntary Information.** In order to request information about Wayin or our Services, or otherwise contact us through our Site, you may be required to voluntarily submit certain PII such as your name and email address. Contacting us through our Site or requesting information about our Services is purely optional, and you are not required to submit any PII through our Site or Services. If you decide to contact us or request information about our Services, we will use the information you submit to respond to your inquiry, and we may add you to our mailing list.
+#### 4\. Information We Collect
 
-**Usage Data.** Wayin may track user traffic patterns and content accessed throughout our Site or Services. This information allows us to better tailor our content or Services to meet the needs of our users and clients, and to help us and our Clients better understand our or their audience.
+We collect the following types of personal data as a data controller through the Wayin Services. Such collection and use of personal data is separate from our processing of personal data in the context of providing the Client Services, where we act as a data processor on behalf of our Clients (see 3 above for further information):
 
-**Information Sent to Us by Your Web Browser.** We may collect information that is sent to us automatically by your web browser, such as your IP address, the address of the web page you were visiting when you accessed our Site, information on your operating system and browser, and the date and time of your visit. Such information cannot typically be used to identify you personally, although certain jurisdictions may consider your IP address to be PII. We generally use this information to better understand how users interact with our Site and Services, and to provide a more user friendly experience. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network.
+**Registration Information.** We collect personal information about you when you register to use the Platform. The information you provide will include items such as your username, first and last name, company, business role, email address, or billing address.
 
-**Client Dashboards.** If our clients choose to access the online dashboards by which they can control our Services (which may be accessible through our Site or otherwise), we will collect only the Information required to log in to the dashboard. You do not need to provide this Information to us unless you choose to use the applicable dashboard.
+**Contact Information.** We collect personal data about you when you provide contact information to us via email, mail, sign up forms, or other contact forms available through the Wayin Services as well as when you attend marketing events we host or participate in. This personal data typically includes your phone number, email address, or mailing address you provide through these forms.
 
-##### Use of Cookies and Similar Technologies
+**Biographical Information.** When you use our Site to submit an application to be a contractor, employee, or otherwise join or support our team, we collect certain personal data about your relevant background, such as your education, schools attended, job history, and other information requested on the application form.
 
-Our Site, or our current or future service providers, may place a text file called a “cookie” on your computer, which may store preferences or other information, and may be used to help personalize your experience when using our Site. You can refuse cookies by turning them off in your browser. We may use cookies to learn the source of traffic to our Site (including the site you were visiting before you came to our Site), and to store your other preferences when using our Site. We or our third party service providers may also use cookies or other technologies for site analytics purposes and to collect certain data regarding the actions of our users online.
+**Financial Information.** As our Client, with a commercial agreement in place with us (e.g. a subscription to the Platform), we will also collect financial and transactional information, which depending on the circumstance will include accounts, contacts, bank details, billing and mailing addresses, and other payment-related information.
 
-Our Services may use cookies (which may include third party cookies) to track usage of content within the Services, sources of traffic to the Services, administrative rights for the Services, and other analytics related to the Services. Wayin’s clients who feature our Services on their own sites may also use cookies or similar technologies for tracking, analytics, or other purposes.
+**Technical Information.** We collect personal data relating to how you interact with the Wayin Services, such as the IP address from which you access the Wayin Services, date and time, information about your browser, operating system and computer or device, pages viewed, and items clicked. Depending on the circumstance, we will also collect location information, including location information automatically provided by your computer or device or inferred by your IP address. Where permitted by applicable law, we use cookies and similar technologies to collect some of this information.
 
-We use a tool called “Google Analytics” to collect information about use of our Site and our Services. Google Analytics collects information such as how often users visit our Site or our Services, what pages they visit when they do so, and what other sites they used prior to coming to this Site or our Services. We use the information we get from Google Analytics to maintain and improve the technical performance of our Site and our Services. We may also transfer the information we get from Google Analytics to the client to whom we are providing the relevant Service. Google Analytics collects the IP address assigned to you on the date you visit our Site or use our Services, rather than your name or other identifying information. To learn more about, or to opt-out of Google’ s analytic and marketing services, visit [Google Analytics Terms of Use](https://www.google.com/analytics/terms/us.html), the [Google Privacy Policy](http://www.google.com/policies/privacy/), or [Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout?hl=en-GB).  
-Our Site and the Services do not currently respond to web browser “do not track” signals. If you wish to take steps to opt-out of tracking by certain online advertisers, you can visit the Digital Advertising Alliance’s opt-out page at <http://www.aboutads.info/choices> or the Network Advertising Initiative at [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp).
+**Third Party Platforms.** In certain circumstances, we collect personal data when you interact with our advertisements and other content on third-party sites or platforms, such as social networking sites. In some cases, this includes information such as “Likes”, basic profile information gathered from social networking sites or the fact that you viewed or interacted with our content.
 
-##### How We Use Information 
+To identify representatives of businesses that may be interested in our products and services, we obtain contact details from social networks, such as LinkedIn and Twitter, as well as business-to-business marketing lead providers, such as DiscoverOrg and Lusha Systems Limited.
 
-Wayin uses PII you have provided on our Site to deliver the information you have requested through our Site. If you request information through our Site, one of our representatives will contact you regarding your request, and you may also be placed in our database to receive information regarding Wayin’s current or future products or Services via email or otherwise. You may unsubscribe from emails sent by Wayin at any time by clicking on the unsubscribe link in each email, or by sending an email to contactus@wayin.com.
+#### 5\. Our Use of Cookies and Similar Technologies
 
-We may also use Information (including PII) collected on our Site or Services: (i) to improve our Site and Services; (ii) for purposes related to the business of Wayin or our clients; (iii) for marketing or promotional purposes (e.g. to provide information you requested and future information we believe would be of interest to you based on your communication with Wayin or submitted through the Services); (iv) in connection with a Promotion you have entered; (v) for any other purpose described in this Privacy Policy, or (vi) otherwise as we may disclose to you from time to time. In addition, any Social Media Content you submit via a third party social media platform, whether using a hashtag promoted on the Wayin platform or otherwise, may be used for all purposes described in the Terms of Use and Privacy Policy (or other applicable terms) for that social media platform, and will also be subject to any controls and protections described in that platform’s applicable policies. Similarly, any information you submit regarding a Promotion may be shared with the party running the Promotion, and may be handled or disclosed in accordance with that third party’s privacy policy.
+Where permitted by applicable law, our Site collects personal data via cookies and similar technologies, including cookies and similar technologies operated by third parties. Cookies are small data files stored on the hard drive of your computer or mobile device by a website. We use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer or mobile device until you delete them) to provide you with a more personal and interactive experience on our Site. We also use pixel tags or web beacons, which are small images that allow us to determine the number of people who open our emails and information such as when and how many times the email was viewed, whether any links were clicked on, whether the email was forwarded, your approximate geographic location and browser and device type.
 
-We may also use Non-PII sent to us in the Site or Services by your web browser, cookies, or otherwise, to: (i) perform analyses of the use of various areas of our Site or Services; (ii) for other analytics purposes related to our business or that of our clients; (iii) to analyze the source of the audience for our Site and Services; and (iv) to create aggregate reports on our users’ traffic patterns and other user data.
+We typically use cookies on our Site in the following ways:
 
-##### How We Share Information
+  * for “essential” purposes, such as allowing you to access secure areas of our Site;
+  * for “functional” purposes, such as to enable various features of the Wayin Services such as remembering preferences, or staying logged in during your session;
+  * for “analytics” purposes, consistent with our legitimate interests in how the Wayin Services is used or performs, how users engage with and navigate through the Wayin Services, what sites users visit before visiting our Platform, how often they visit our Platform, and other similar information;
+  * for social media integration e.g. via third-party social media cookies, or when you share information using a social media sharing button or “like” button on our Site or you link your account or engage with our content on or through a social networking website such as Facebook or Twitter; and
+  * for the purpose of displaying advertisements via retargeting or other advertising platforms to those users who have visited our Site.
 
-We may share your PII or Non-PII collected through our Site or Services with: (i) our current or future affiliated companies, subsidiaries, or other related entities; (ii) companies and organizations that perform services on our behalf, for example, companies that provide support services, data storage, web hosting, or other services; (iii) clients of Wayin who have engaged us to provide Services for them, including those clients who have contracted with us for a Promotion; (iv) Twitter or other social media platforms (to the extent necessary for us to use the social media platform’s API, content feeds, or otherwise as we or the applicable social media platform may deem necessary); and (v) third parties we have selected for marketing purposes, promotions, or other purposes related to our business which may not be expressly described herein.
 
-We may also disclose the PII we collect through our Site or Services when we, in good faith, believe disclosure is appropriate to comply with the law (or respond to any legal process such as a court order or subpoena, government requests in the U.S. or other countries, or requests related to national security in accordance with applicable laws); to prevent or investigate a possible crime such as fraud or identity theft; to enforce the Terms of Use or other agreements that govern your use of our Site or Services; to protect the rights, property or safety of Wayin, our affiliated companies, our clients, our users or others; or to protect your vital interests. Information submitted to our Site or Services is an asset of Wayin, and will become part of our normal business records. Any information collected on our Site or Services, including without limitation PII, may be transferred to any entity related to Wayin in the present or future, or to another company that has acquired the stock or assets of Wayin, for example, as the result of a sale, merger, reorganization, dissolution or liquidation. If such a transfer occurs, the acquiring company’s use of your PII will still be subject to this Privacy Policy, and the privacy preferences you have expressed to us.
 
-Please be aware that by using our Site or Services you are deemed to have accepted and agreed to the sharing of your Information collected through our Site and Services in the manner described in this Privacy Policy, and the sharing of your Social Media Content in accordance with the terms and policies of the applicable social media platform through which it was initially submitted, and we will not be required to obtain your consent for any disclosure described herein.
+Note, where permitted by applicable law, some of these technologies can be used by us and/or our third-party partners to identify you across platforms, devices, sites, and services. We will seek consent, where required by law, to place any non-essential cookies on your computer or mobile device. Further, Clients may use additional cookies or other technologies as part of the Client Services that are not covered by this Privacy Policy.
 
-In accordance with California law, if you would like to obtain a list of the third parties to whom we have disclosed PII for direct marketing purposes during the preceding calendar year, if any, please write to us at: Wayin, Inc., Attn: Legal, 1625 Blake St, Denver, CO 80202.
+#### 6\. How We Use the Information We Collect
 
-##### Security of your Personal Information
+We use your information in the following ways:
 
-Wayin uses reasonable security measures, based on the nature of PII disclosed on our Site and Services, in an effort to secure your PII from unauthorized access, use or disclosure. However, please keep in mind that perfect security does not exist, and we cannot guarantee that the Information we collect about you will remain secure.
+###### 6.1     Providing the Wayin Services
 
-##### International Users
+We use personal data we collect as we believe necessary or appropriate to operate, maintain, administer and improve the Wayin Services; to communicate with you regarding your account (if you have one) including by sending you Service announcements, technical notices, updates, security alerts, and support and administrative messages; to respond to your inquiries and otherwise deliver customer service; and to process payments made by you;
 
-If you are located outside of the United States, you understand that by using our Site or Services, you are providing Information to Wayin in the United States, and you hereby consent to the transfer of your Information to (and processing or other use of your Information in) the United States and any other countries in which Wayin may operate in the future or to which Wayin may use or transfer your Information in accordance with this Privacy Policy (including, to the extent you are providing Social Media content through a third party social media platform, in all countries in which that platform operates). You further consent to the use of your Information for marketing purposes by Wayin and its current or future related entities, marketing partners, service providers, or any third parties to which Wayin may provide your Information as described in this Privacy Policy, in the United States or any other country. When Wayin uses, processes or discloses PII transferred from the EU or Switzerland, Wayin will comply with the Safe Harbor Privacy Principles as described below.
+###### 6.2     Communicating with You
 
-##### E.U. Data Transfers
+Where permitted by applicable law, we use personal data we collect to communicate directly with you, including by sending you newsletters, promotions or information about new products and services from Wayin. Your opt-out options for promotional communications are described in Section 9 (Your Controls and Choices).
 
-Consistent with the U.S. Department of Commerce’s continued administration of the Safe Harbor  
-Program, we maintain compliance with the U.S.-EU Safe Harbor Framework and U.S.-Swiss Safe Harbor Framework, which relate to the collection, use and retention of personal information collected from users in the European Union or Switzerland. We adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view Wayin’s certification, please visit <http://www.export.gov/safeharbor/>. When necessary, we may use alternative mechanisms, such as the E.U.’s standard contractual clauses, to enable for the transfer of personal data between the E.U. and United States.
+###### 6.3     Advertising
 
-Any questions or concerns about our privacy practices should be sent to Wayin at:
+Where permitted by applicable law, we use personal data we collect to deliver you advertising, including by serving and managing ads on the Wayin Services or on third party sites and to tailor ads based on your interests and browsing history. Please see Section 9 (Your Controls and Choices) for additional information on how to manage the ads you see.
 
-Wayin Inc.,  
-Attn: Legal  
-1625 Blake St.  
-Denver, CO 80202  
-contactsus@wayin.com
+###### 6.4     Personalizing the Wayin Services
 
-We will investigate and attempt to resolve any complaints and disputes regarding the use and disclosure of personal information in accordance with the provisions of this Privacy Policy. If any complaints cannot be resolved between you and us, we have agreed to participate in the alternative dispute resolution process of JAMS. EU or Swiss residents with unresolved complaints may refer them to JAMS via www.jamsadr.com/safeharbor.
+We use personal data we collect to personalize the Wayin Services, including to greet you by name, provide better recommendations to you, tailor communications to your interests, and use the information to guide overall improvements to our products and services.
 
-##### Changes to this Privacy Policy
+###### 6.5     Improving the Wayin Services and our Business
 
-Wayin will occasionally update this Privacy Policy to reflect changes in our practices or the law. We reserve the right to update or modify this Privacy Policy at any time and without prior notice, by posting a link to the revised version of this Privacy Policy on our Site. Use of our Site or any Services following any such change constitutes your agreement that all Information collected from or about you after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy. If we make any material changes to this Privacy Policy, we will make additional efforts to notify you in accordance with applicable law. You may access the current version of this Privacy Policy at any time by clicking on the link marked “Privacy Policy” at the bottom of most pages of our Site. To the extent rules or guidelines affecting your use of the Site or Services are found on other pages of the Site or in the Services, those rules and guidelines are hereby incorporated by reference into this Privacy Policy. Wayin encourages you to periodically review this Privacy Policy to be informed of how Wayin is protecting, collecting, sharing, or otherwise using your Information.
+We use personal data we collect as we believe necessary or appropriate to analyze trends, administer or optimize the Wayin Services, monitor usage or traffic patterns (including to track users’ movements around the Wayin Services) and gather demographic information about our user base as a whole.
 
-##### Accessing, Modifying or Deleting Your Personal Information
+###### 6.6     Security and Fraud Prevention
 
-We respect your right to make choices about the ways we collect, use, process and disclose your PII. If you wish to access the PII Wayin holds about you, you may make a request by sending a letter or an email to the address above. You may update or modify your Information or change your preferences at any time by sending an email to contactus@wayin.com. If you wish to modify or delete any Information related to your account with a social media platform through which you have provided Social Media Content, you must comply with the applicable procedures designated by that platform. However if you wish to delete any PII you inadvertently included in Social Media Content which is displayed on one of our Services, you may also contact us at [clientservices@wayin.com](mailto:clientservices@wayin.com).
+We use personal data we collect as we believe necessary or appropriate to control unauthorized use or abuse of the Wayin Services and our other products and services, or otherwise detect, investigate or prevent activities that violate our policies; in connection with the monitoring and analysis of our IT systems to ensure the security of information, networks, and connected systems.
 
-##### Children’s Privacy
+###### 6.7     For Employment
 
-This Site and our Services are not intended for use by children under the age of 13. We do not direct any portion of the Site or any Services to individuals under the age of 13, and individuals under age 13 should not use this Site or our Services. If you learn that your child has provided PII to a social media platform without your consent, and that PII is being displayed in one of our Services, please contact the applicable social media platform using the contact information they have designated in their own policies, or contact us at contactus@wayin.com.
+We process personal data if you use our Site to submit an application to be a contractor, employee, or otherwise join or support our team. We use this personal data only in connection with the assessment and creation of the staffing relationship. Subject to Section 9 (Your Controls and Choices), we will also use this Personal Data to process your application, contact you regarding this or other future application/vendor/work opportunities, or similar matters.
 
-In the event a minor submits PII on our Site, parents may review, edit, request the deletion, or prevent further collection or use of their minor child’s PII. Parents may also choose to agree to the collection and use of their child’s information, but not allow disclosure of such information to third parties unless it is inherently part of the Site. Parents may request any of these actions, or make inquiries regarding our privacy practices, by sending an email or letter to us at the address below.
+###### 6.8     Compliance
 
-##### Contact Information
+We use personal data we collect as we believe necessary or appropriate in connection with legal requirements, to protect against, investigate and deter fraudulent, harmful, unauthorized, unethical or illegal activity and to protect our rights, privacy, safety or property, and/or that of you or others.
 
-Wayin welcomes your comments regarding this Privacy Policy. If you have any questions about our practices with regard to your PII or Non-PII, or if you believe that Wayin has not adhered to this Privacy Policy, please contact Wayin at [contactus@wayin.com](mailto:contactus@wayin.com) or at the address below.
+#### 7\. Sharing Your Information with Third Parties
+
+Information we collect will be shared with a variety of parties, depending upon the purpose for and context in which that information was provided. We generally transfer data to third parties as follows:
+
+###### 7.1     Service Providers
+
+In connection with our general business operations, product/service improvements, to enable certain features, and in connection with our other legitimate business interests, we share your personal data with service providers who provide certain services or process data on our behalf. Service providers include customer relationship management providers, email providers, data storage and hosting providers, our accountants, accounting systems and legal representatives, analytics providers, and customer support system providers.
+
+###### 7.2     Affiliates
+
+In certain circumstances, we share your personal data with any of our current or future affiliated entities, subsidiaries, and parent companies in order to streamline certain business operations, improve personalization, and develop products and services that better meet the interests and needs of our customers, and provide you with information we believe will be of interest to you.
+
+###### 7.3     Marketers
+
+In order to improve personalization, deliver more relevant advertisements, and develop better products and services, in certain circumstances and where permitted by applicable law, we share certain personal data with current or future affiliated entities and trusted third parties that provide marketing, advertising, or similar promotional services to Wayin, and in certain circumstances we will allow third parties (such as Facebook, ad exchanges, data management platforms, or ad servers) to operate on our Site and process data for behavioral advertising.  
+
+###### 7.4     Social Media
+
+If you use any social media plugin, API, or other similar feature, use an event hashtag or similar link, or otherwise interact with us or the Wayin Services via social media, to the extent not already the case, we may make your post available on the Wayin Services or to the general public. Social media providers include Facebook, Twitter, Instagram, Snap, Youtube and Vimeo.
+
+###### 7.5     Corporate Events
+
+Your personal data will be processed in the event that we go through a business transition, such as a merger, acquisition, liquidation, or sale of all or a portion of our assets. For example, it is possible that personal data will be part of the assets transferred, or may be disclosed (subject to confidentiality restrictions) during the due diligence process for a potential transaction.
+
+###### 7.6     Legal Disclosures
+
+In limited circumstances and subject to applicable law, we will, without further notice or your consent, access and disclose your personal data, any communications sent or received by you, and any other information that we have about you to the extent we believe such disclosure is legally required, to prevent or respond to a crime, to investigate violations of our Terms of Use, or in the vital interests of us or any person. Note, these disclosures may be made to governments that do not ensure the same degree of protection of your personal data as your home jurisdiction. In certain circumstances, we will, at our sole discretion (but without any obligation), object to the disclosure of your personal data to such parties.
+
+###### 7.7     Aggregated or anonymized information
+
+In certain circumstances, we will also share aggregated or anonymized information with third parties for other purposes (e.g. to compare the performance of two promotions with a Client, to provide benchmark metrics to Clients or to provide performance metrics relating to our website).Such information does not identify you individually, but includes usage, viewing and technical information such as the types of Wayin Services our customers and users generally use, common configurations of their computers, and performance metrics related to the use of Wayin Services which we collected through our technology. If we are required under applicable law to treat such information as personal data, then we will only use and disclose it as described earlier in this Policy.
+
+#### 8\. Other Access to or Disclosure of Your Information
+
+Depending on the circumstances, the Sites contain features that enable you to post reviews, provide quotes, make comments or provide other content that is publicly viewable. You should be aware that any personal data you submit as part of these posts can be read, collected, or used by other visitors to the Sites. We are not responsible for the personal data you choose to publicly post on the Sites.
+
+#### 9\. Your Controls and Choices
+
+###### 9.1     Opt-Outs.
+
+We will provide you with the opportunity to “opt-out” of having your personal data used for certain purposes when we ask for this information (and we will always provide you with the opportunity to “opt-out” in any promotional communication you receive from us). If you decide to opt-out, we will not be able to provide certain features of the Wayin Services to you.
+
+###### 9.2     Communication Preferences.
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included on such communications or on the Wayin Services. Please note, however, that you will be unable to opt-out of certain service-related communications and notifications.
+
+###### 9.3     Cookies and Similar Technologies.
+
+You can remove or block certain cookies using the settings in your browser but the Wayin Services may cease to function properly if you do so. For further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). In addition, to learn more about, or to opt-out of Google’ s analytic and marketing services, visit [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html), the [Google Privacy Policy](http://www.google.com/privacypolicy.html), or [Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
+
+###### 9.4     How We Respond to Do Not Track Signals.
+
+Your Web browser may have a “do not track” setting which, when enabled, causes your browser to send a do not track HTTP header file or “signal” to each site you visit. At present, the Site does not respond to this type of signal.
+
+###### 9.5     Accessing and Updating Your Personal data
+
+When you use the Wayin Services, subject to applicable law we make good faith efforts to provide you with access to your personal data upon your request and either provide you the means to correct this information if it is inaccurate, or to delete such information at your request if it is not otherwise required to be retained by law or for legitimate business purposes.
+
+To do so, please contact us at data@wayin.com with your name and the information requested to be accessed, corrected or removed, or if you are a registered user of the Platform, sign in to your account, go to your profile, and make the desired changes. Please note that if you cease using the Platform or we terminate your access to the Platform in accordance with our commercial agreement, you will no longer have the ability to access or update your information through the Platform.
+
+To the extent permitted by applicable law, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort (for instance, requests concerning information residing on backup tapes), jeopardize the privacy of others, would be extremely impractical, or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort or if subject to another exception provided for under applicable law. Subject to applicable law, we will also retain your information as necessary to support the Wayin Services, comply with our legal obligations, for audit purposes or to resolve disputes.
+
+#### 10\. Children
+
+The Wayin Services are not intended for use by children and Wayin does not knowingly collect or solicit personal data from children. In the US, for data protection purposes, a child is anyone under the age of 13. In the EU, a child is anyone under the age of 16.
+
+If you are a child, you may not attempt to register for the Wayin Services or send any information about yourself to Wayin, this includes name, email address or phone number. In the event that we confirm that we have collected personal data from children without verification of parental consent, we will delete that information promptly. If you are a parent or legal guardian of a child and believe that we might have any information from or about such child, please contact us at data@wayin.com.
+
+#### 11\. Security
+
+The security of your personal data is important to us. We maintain a variety of appropriate technical and organizational safeguards to protect your personal data. We limit access to personal data about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. No method of transmission over the Internet, method of electronic storage or other security methods are one hundred percent secure. Therefore, while we strive to use reasonable efforts to protect your personal data, we cannot guarantee its absolute security.
+
+#### 12\. Your California Privacy Rights and Disclosures
+
+**California Shine the Light Law.** If you are a California resident and we disclose your personally identifiable information to third parties for such third parties’ direct marketing purposes, California’s Shine the Light Law (CA Civil Code Section 1798.83) allows you to request certain information from us about such disclosures. To make a request under the Shine the Light Law, please contact us at data@intercom.com. Please note that under California law, businesses are not required to respond to such requests more than once during any calendar year.
+
+**California Minors.** At any time, you can delete or remove your posts using the same deletion or removal procedures described in Section 8 (Accessing and Updating Your personal data) above, or otherwise through the Wayin Services. If you have questions about how to remove your posts or if you would like additional assistance with deletion you can contact us at data@wayin.com. Although we offer deletion capability for the Wayin Services, you should be aware that the removal of posts will not ensure complete or comprehensive removal of that content or information posted through the Wayin Services.
+
+#### 13\. International Transfers
+
+We operate in and use service providers located in the United States. If you are located outside the U.S., in certain circumstances your personal data will be transferred to the U.S or Australia.
+
+#### 14\. Additional Information for European Union Users
+
+###### 14.1     Controller
+
+In connection with the Wayin Services, Wayin, Inc. is the controller of your personal data for the purposes of European data protection legislation. We are a processor in connection with the Client Services. You can reach our Data Protection team, including our Privacy Officer, at [data@wayin.com](mailto:data@wayin.com). See the end of this policy document for further contact details.
+
+###### 14.2     Legal bases for processing
+
+We only use your personal data for the purposes described at 6 above and as permitted by applicable law. Under European data protection laws, we are required to inform you of the legal bases of our processing of your personal data, which are described in the table below. If you have questions about the legal basis of how we process your personal data, contact us at [data@wayin.com](mailto:data@wayin.com).
+
+_Personal data_
+
+When we collect and process your personal data (that are not special categories of personal data), such legal bases include:
+
+  * **where the processing is necessary in our or a third party’s legitimate interests** : which include marketing our products or services to you, otherwise communicating with you, improving our Site, services or products and ensuring the security of our Site and in an employment context (see 6.7 above). In such cases, we have taken measures to ensure that this processing does not cause unwarranted prejudice to your privacy;
+  * **where it is necessary for the performance of a contract** : where we communicate with you in relation to the services which we are providing to you, provide you with a demonstration of our services or we are negotiating with you with regards to the provision of such services;
+  * in limited circumstances, **where you give us your consent** ; and
+  * **for compliance with a legal or regulatory obligation that we are subject to** : see also 6.8 above.
+
+
+
+_Special categories of personal data_
+
+European data protection laws define certain special categories of personal data (“ **special categories of personal data** ”), which are subject to heightened protections under such laws. These special categories of personal data include information relating to an individual’s physical or mental health, racial or ethnic origin, political opinions, trade union membership, religious beliefs, sexual life or genetic or biometric data.
+
+In certain circumstances, we will also collect and process special categories of personal data that you provide to us, for example, your resume submission for a job opportunity posted on our Site. In such cases, the legal bases we will rely on to collect and process this information include:
+
+  * for the purposes of **performing or exercising our or your obligations or rights in the context of employment law** ; and
+  * in limited circumstances, **where you give us your explicit consent**. If we do ask you for your consent to collect and process special categories of personal data, we will provide you with full details of the information we are seeking from you and the reason why, in order for you to make an informed decision. It is not a condition of your employment relationship with us that you agree to any such request.
+
+
+
+###### 14.3     Retention
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+For example, depending on the circumstances we are required to keep basic information about our customers (including contact, registration, and financial information) for six years after they cease being customers for tax purposes.
+
+In some circumstances we will anonymize your personal data (so that it can no longer be associated with you) in which case we can use this information indefinitely without further notice to you.
+
+###### 14.4     Your rights
+
+European data protection laws give you certain rights regarding your personal data. You may ask us to take the following actions in relation to your personal data that we hold, to the extent required by law, you have the following rights:
+
+  * **Opt-out.** Stop sending you direct marketing communications on your request. Depending on the circumstance, you will continue to receive Service-related and other non-marketing emails.
+  * **Access.** Provide you with information about our processing of your personal data and give you access to your personal data on your request.
+  * **Correct.** Update or correct inaccuracies in your personal data on your request.
+  * **Delete.** Delete your personal data our your request.
+  * **Export.** Transfer a machine-readable copy of your personal data to you or a third party of your choice on your request.
+  * **Restrict.** Restrict the processing of your personal data on your request.
+  * **Object.** Object to our processing of your personal data.
+  * **Contact Regulator.** If you would like to submit a complaint about our use of your personal data or response to your requests regarding your personal data, you may contact us at [data@wayin.com](mailto:data@wayin.com) or submit a complaint to the data protection regulator in the jurisdiction where you live or work. You can find your data protection regulator [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
+
+
+
+Also, in any situation where we rely on your consent to process your personal data, you have the right to withdraw your consent to such processing.
+
+You can submit these requests by email to [data@wayin.com](mailto:data@wayin.com) or our postal address provided at the end of the policy. We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions.
+
+###### 14.5     Cross-Border Data Transfer
+
+Whenever we transfer your personal data out of the European Economic Area (EEA) to countries not deemed by the European Commission to provide an adequate level of personal data protection, the transfer will be based on one of the following safeguards recognized by the European Commission as providing adequate protection for personal data, where required by EU data protection legislation:
+
+  * Contracts approved by the European Commission which impose data protection obligations on the parties to the transfer. For further details, see European Commission Model contracts for the transfer of personal data to third countries.
+  * For transfers to third parties in the United States, ensuring they participate in the E.U.-U.S. Privacy Shield Framework.
+
+
+
+Please contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA, including if you wish to request a copy of the relevant transfer mechanism.
+
+###### 14.6     EU-US Privacy Shield
+
+Wayin complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. Wayin adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability with respect to all personal data received from the EU in reliance on the Privacy Shield program. Furthermore, we require any third party recipients of EU citizens’ personal data to agree to respect these principles, and we accept liability for third parties’ processing of EU citizens’ data to the extent required by law.
+
+If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). You may view the list of Privacy Shield companies [here](https://www.privacyshield.gov/list).
+
+We encourage EU (and US) users to contact us if you have any concerns about our compliance with this Privacy Policy and the Privacy Shield Framework. In compliance with the EU-US Privacy Shield Principles, Wayin commits to resolve complaints about your privacy and our collection or use of your personal data. European Union individuals with inquiries or complaints regarding this Privacy Policy should first contact Wayin at [data@wayin.com](mailto:data@wayin.com) or the address below.
+
+Wayin has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to JAMS, a non-profit alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim> for more information or to file a complaint.
+
+Under certain circumstances, these dispute resolution processes may result in your ability to invoke binding arbitration. As a US company, we are also subject to the investigatory and enforcement power of the FTC regarding our compliance with the Privacy Shield Framework and this Privacy Policy, and users may direct complaints to the FTC in the event the dispute resolution processes described above is unsatisfactory.
+
+#### 15\. Changes to the Privacy Policy
+
+This Privacy Policy is a notice to you and not a contract between us. We reserve the right to change our Privacy Policy at any time. If we make changes, we will post them and will indicate on this page the policy’s new effective date. If we make material changes to this policy, we will notify you by email or through notice on the Wayin Services.
+
+#### 16\. Contact Us
+
+Wayin welcomes your comments regarding this Privacy Policy. If you have any questions or if you believe that Wayin has not adhered to this Privacy Policy, please contact Wayin at data@wayin.com or at the address below.
+
+_Headquarters_
 
 Wayin, Inc.  
-1625 Blake St.  
-Denver, CO 80202
+999 18th Street  
+Suite 1100S  
+Denver, CO 80202  
+USA  
+Email: data@wayin.com
 
-This Privacy Policy is effective on June 30, 2016.
+_EU representative_
+
+Wayin Limited  
+67 Innovation Drive  
+Milton Park  
+Oxfordshire  
+OX14 4RQ  
+UK  
+Email: data@wayin.com
+
+This Privacy Policy is effective on May 21, 2018.
