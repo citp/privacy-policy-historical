@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weirdlyodd.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423044025id_/http%3A//www.weirdlyodd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weirdlyodd.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212223653id_/http%3A//www.weirdlyodd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WeirdlyOdd.com
+# Privacy Policy - WeirdlyOdd.com WeirdlyOdd.com
 
 **The privacy of our visitors to WeirdlyOdd.com is important to us.** ****
 
@@ -12,3 +12,5 @@ We use third party advertisements on WeirdlyOdd.com to support our site. Some of
 
 For any further queries or questions you can contact us directly at:  
 _contact [at] weirdlyodd [dot] com_.
+
+Sorry, comments are closed for this item.
