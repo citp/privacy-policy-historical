@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the efinancemanagement.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510093946id_/http%3A//efinancemanagement.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancemanagement.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212063623id_/https%3A//efinancemanagement.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | eFinanceManagement.com
 
-##  [ Privacy Policy](http://www.efinancemanagement.com/privacy-policy)
-
-_PRIVACY POLICY_
+PRIVACY POLICY
 
 eFinanceManagement.com is owned and operated by Usha Borad. It offers useful information on Finance. By virtue of this, we take and consider online privacy very seriously and strictly. This privacy policy is designed to inform our customers/visitors to our site how we collect and use the personal information you elect to provide to us. If you are a visitor to our site and you choose to register for our services or provide us with personal information you authorize us to use such information as set forth in this privacy policy. eFinanceManagement.com collects the information necessary to serve you better.
 
@@ -16,9 +14,9 @@ Use of cookies and/or similar technology:
 
 In case of advertisements placed on our site by third parties, these third parties often deploy persistent cookies and not session cookies, which enable them to understand and send you the right kind of advertisements, which they feel, are of interest to you. However, we do not have access and neither can we control the cookies placed by such third parties on our site. By placing the persistent cookies, the third parties can ascertain and collect information about you and where you have been using your computer to view similar advertisements.
 
-  * Google, as a third party vendor, uses cookies to serve ads on your site. 
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [**Google ad and content network privacy policy.**](http://www.google.com/privacy_ads.html)
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the ****[Google ad and content network privacy policy.](https://www.google.com/policies/technologies/ads/)****
 
 
 
