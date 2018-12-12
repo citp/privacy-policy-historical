@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adfoc.us privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626101353id_/http%3A//adfoc.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfoc.us privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212021719id_/http%3A//adfoc.us/privacy) for the most accurate reproduction.*
 
 # AdFoc.us | Privacy Policy
 
@@ -298,4 +298,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 ### Contact Us
 
-If you have any questions or comments about these policies, please e-mail our Data Privacy Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1f6c6a6f6f706d6b5f7e7b79707c316a6c) or contact us via [support ticket](https://web.archive.org/tickets/).
+If you have any questions or comments about these policies, please e-mail our Data Privacy Officer at [support@adfoc.us](mailto:support@adfoc.us) or contact us via [support ticket](https://web.archive.org/tickets/).
