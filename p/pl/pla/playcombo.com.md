@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playcombo.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609161626id_/http%3A//www.playcombo.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playcombo.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212171058id_/http%3A//www.playcombo.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Free games online - Playcombo.com
 
@@ -26,11 +26,11 @@ If you would like more information about advertising practices and to know your 
 
 **Children under 13:**
 
-We are committed to complying with the children's Online Privacy Protection Act (COPPA). Playcombo has no user forums or instant message capabilities, and thus no private information pertaining to children can be shared on Playcombo. However certain games hosted on Playcombo may have such features as described in the External Links section, and are governed by their own individual privacy policy. If you have any concern that information related to the privacy of children has been submitted to Playcombo, please contact us at [contact@playcombogames.com](mailto:submit@playcombogames.com)
+We are committed to complying with the children's Online Privacy Protection Act (COPPA). Playcombo has no user forums or instant message capabilities, and thus no private information pertaining to children can be shared on Playcombo. However certain games hosted on Playcombo may have such features as described in the External Links section, and are governed by their own individual privacy policy. If you have any concern that information related to the privacy of children has been submitted to Playcombo, please contact us at [contact@playcombo.com](mailto:contact@playcombo.com)
 
 **Help and Support:**
 
-Playcombo provides a support email address (contact@playcombogames.com) where users may share comments, thoughts, business opportunities or request support with any technical difficulties. From time to time, Playcombo also allows users to provide feedback or answer survey questions to help improve the quality of the website. Any information (including name or email address) that is submitted to Playcombo via any means of communication will never be shared with a third party and will only be used to help answer any questions or troubleshoot any problems that are raised directly in the communication. Email addresses, phone numbers, addresses and other personal information will never be used by Playcombo for marketing purposes such as mailing lists. We want all users of Playcombo to feel comfortable in communicating or providing feedback to us with no fear that their information will used for any other purpose. 
+Playcombo provides a support email address (contact@playcombo.com) where users may share comments, thoughts, business opportunities or request support with any technical difficulties. From time to time, Playcombo also allows users to provide feedback or answer survey questions to help improve the quality of the website. Any information (including name or email address) that is submitted to Playcombo via any means of communication will never be shared with a third party and will only be used to help answer any questions or troubleshoot any problems that are raised directly in the communication. Email addresses, phone numbers, addresses and other personal information will never be used by Playcombo for marketing purposes such as mailing lists. We want all users of Playcombo to feel comfortable in communicating or providing feedback to us with no fear that their information will used for any other purpose. 
 
 For more information on Google Analytics please see their complete privacy policy:
 
@@ -44,4 +44,4 @@ This Privacy Policy may be changed or modified from time to time. If our informa
 
 **Contact us:**
 
-By using this site, you accept the Playcombo Online Privacy Policy. If you have any concerns please contact us at [ contact@playcombogames.com](mailto:submit@playcombogames.com). We hope you continue to enjoy your experience on Playcombo.
+By using this site, you accept the Playcombo Online Privacy Policy. If you have any concerns please contact us at [ contact@playcombo.com](mailto:contact@playcombo.com). We hope you continue to enjoy your experience on Playcombo.
