@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114082800id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212171349id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
 
 # Winster - Games, Friends, Prizes
 
-Last updated: March 9, 2016
+Last updated: May 11, 2018
 
 Seaside Entertainment, LLC. ("Winnie", "I", "we", "us", "our") believes in the Golden Rule: We respect your right to privacy, and intend to treat your personal information as We would want ours treated on your web site. This notice describes our Privacy Policy. 
 
 By visiting Winster.com, you are accepting the practices described in this Privacy Policy. 
 
+Our Privacy Policy is intended to describe to you how and what data we collect, and how and why we use your personal data. It also describes options we provide for you to access, update or otherwise take control of your personal data that we process. 
+
+If at any time you have questions about our practices or any of your rights described below, you may reach our Data Protection Officer ("DPO") and our dedicated team that supports this office by contacting us at privacy@winster.com. This inbox is actively monitored and managed so that we can deliver an experience that you can confidently trust. 
+
 #### What personal information do We gather about you? 
 
-**Information you give us** : We may receive and keep any information you enter on our web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our offerings.
+**Information you give us** : When you sign up for Winster we may ask you for information such as your username, password, email address, address, date of birth or other demographic information. You may also choose to voluntarily add other information to your profile. We will store the information provided on our systems and use it for the purposes described in this Privacy Policy. We may receive and keep any information you enter on our web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our offerings.
 
 **Information about you obtained from third parties** : In the course of our business, we may receive and keep information about you that we receive from third parties. This could include information from our business partners and/or vendors as to whether, when, and how you collect your prizes or make other purchases from them, package shipping status and delivery information, or other information that relates to or results from your relationship with us. We may consult sources of information related to your credit history or from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to you. 
 
@@ -18,7 +22,7 @@ By visiting Winster.com, you are accepting the practices described in this Priva
 
 **Email and other communications** : When you email, fax, phone, write, or otherwise contact us, we may keep a record of these communications. 
 
-Note that even though you change or delete your information on our web site, or cancel your account, we may keep copies of your information for our records or for backup. We may also retain certain credit and credit card information, for use in future audits, investigating charge backs, as required by merchant agreements or creditors, or for other legitimate business purposes.
+To easily access, view, update, delete your personal data, or to update your subscription preferences, please sign into your Account and visit ?My Stuff?. Note that even though you change or delete your information on our web site, or cancel your account, we may keep copies of your information for our records or for backup. We may also retain certain credit and credit card information, for use in future audits, investigating charge backs, as required by merchant agreements or creditors, or for other legitimate business purposes. If you make a request to delete your personal data and that data is necessary for the products or services you have purchased, the request will be honored only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements. 
 
 #### Do we share what we know about you? 
 
@@ -63,3 +67,7 @@ When you visit our web site, your visit and any dispute over privacy is subject 
 Our web site may contain links to other web sites, and we are not responsible for the privacy practices or the content of such web sites. 
 
 We always strive to improve ourselves and our web site, and so our Privacy Policy and Terms & Conditions of Use may change from time to time without notifying you. We recommend that you check our web site once in a while to see if we have made any changes. 
+
+#### Data Protection Authority.
+
+If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority, the German Federal Commisioner for Data Protection and Freedom of Information (Die Bundesbeauftrafte für den Datenschutz und die Informationsfreiheit), as noted below: Husarenstraße 30 53117 Bonn, Germany Phone: +49 228 997799 0; +49 228 81995 0 Fax: +49 228 997799 550; +49 228 81995 550 e-mail: poststelle@bfdi.bund.de 
