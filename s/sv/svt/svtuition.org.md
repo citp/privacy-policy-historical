@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svtuition.org privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610190912id_/http%3A//www.svtuition.org/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svtuition.org privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212115727id_/http%3A//www.svtuition.org/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Accounting Education
 
@@ -36,3 +36,10 @@ This online privacy policy applies only to information collected through our web
 If you are not interested in third party ads, you can block ads with ads blocker apps or google chrome extension. After ad blocker, you will still see our ebook and course ads. When you buy or enroll our course, we get earning and we can do better for our free online education mission or you can donate at [here](http://www.svtuition.com/p/donate-how-can-i-donate-1.html).
 
 [](https://2.bp.blogspot.com/-Y7qkPuBSEL0/WNX7lCnwvsI/AAAAAAAAVJA/SHKQ1RrCcK4r61LDgc1NAF28LTQ57zlVgCLcB/s1600/transperacy%2Bof%2Badvertising.PNG)
+
+  * A conspicuous hyper-link to an NAI-approved Opt-Out mechanism for Interest-Based Advertising
+  * Data may be collected for the purpose of Interest-Based Advertising on the property.
+  *  We disclose to readers and visitors of our site that we endorse a product or service and have a “material connection” to the seller. We’re using affiliated links for monetizing our page of website.
+  * We also monetizing our apps  with ads. 
+
+
