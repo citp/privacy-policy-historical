@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerochan.net privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619135200id_/https%3A//www.zerochan.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerochan.net privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212152132id_/https%3A//www.zerochan.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zerochan
 
