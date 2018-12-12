@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nedr.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626001303id_/https%3A//www.hover.com/privacy%3Fsource%3Dparked) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nedr.net privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212020215id_/https%3A//www.hover.com/privacy%3Fsource%3Dparked) for the most accurate reproduction.*
 
 # Privacy Policy | Hover.com
 
@@ -135,7 +135,7 @@ If you are a resident of the European Economic Area (EEA) and believe we maintai
 Landesbeauftragte für Datenschutz und Informationsfreiheit   
 Nordrhein-Westfalen   
 Postfach 20 04 44   
-40102 Düsseldor   
+40102 Düsseldorf   
 Tel.: 0211/38424-0
 
 ## Contact Us
