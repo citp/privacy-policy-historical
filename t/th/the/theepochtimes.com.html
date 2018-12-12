@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the theepochtimes.com privacy policy that was archived on 2018-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180605143110id_/https%3A//www.theepochtimes.com/privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theepochtimes.com privacy policy that was archived on 2018-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181212115701id_/https%3A//www.theepochtimes.com/privacy-notice) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class=""><head>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" class=""><head>
 <meta charset="UTF-8">
 <link rel="shortcut icon" type="image/x-icon" href="https://www.theepochtimes.com/assets/themes/eet/images/etfavicon.ico" sizes="16x16">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Privacy Notice | The Epoch Times</title>
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.theepochtimes.com/privacy-notice">
+<title>Privacy Notice</title>
 <meta name="description" content="Who We Are The Epoch Times (‘we’ or ‘us’ or ‘our’) gathers and processes your personal information in accordance with this privacy notice and in compliance">
 <link rel="canonical" href="https://www.theepochtimes.com/privacy-notice">
 <meta property="og:locale" content="en_US">
@@ -15,25 +16,27 @@
 <meta property="og:url" content="https://www.theepochtimes.com/privacy-notice">
 <meta property="og:site_name" content="www.theepochtimes.com">
 <meta property="fb:admins" content="10205921529470972">
-<meta property="og:image" content="http://www.theepochtimes.com/n3/eet-content/uploads/2013/04/eet_logo.jpg">
+<meta property="og:image" content="https://www.theepochtimes.com/assets/uploads/2013/04/eet_logo.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:description" content="Who We Are The Epoch Times (‘we’ or ‘us’ or ‘our’) gathers and processes your personal information in accordance with this privacy notice and in compliance">
 <meta name="twitter:title" content="The Epoch Times - Privacy Notice">
 <meta name="twitter:site" content="@EpochTimes">
 <meta name="twitter:domain" content="www.theepochtimes.com">
-<meta name="twitter:image:src" content="http://www.theepochtimes.com/n3/eet-content/uploads/2013/04/eet_logo.jpg">
+<meta name="twitter:image:src" content="https://www.theepochtimes.com/assets/uploads/2013/04/eet_logo.jpg">
 <meta name="twitter:creator" content="@EpochTimes">
+<link rel="dns-prefetch" href="//www.theepochtimes.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="eet-style-css" href="https://www.theepochtimes.com/assets/themes/eet/style.css?ver=20170224" type="text/css" media="all">
-<link rel="stylesheet" id="eet-global-css" href="https://www.theepochtimes.com/assets/themes/eet/css/global.css?ver=20170224" type="text/css" media="all">
+<link rel="stylesheet" id="eet-global-css" href="https://www.theepochtimes.com/assets/themes/eet/css/global.css?ver=20180612" type="text/css" media="all">
 <link rel="stylesheet" id="genericons-css" href="https://www.theepochtimes.com/assets/themes/eet/css/genericons/genericons.css?ver=20171027" type="text/css" media="all">
 <link rel="stylesheet" id="eet-article-page-css" href="https://www.theepochtimes.com/assets/themes/eet/css/single.css?ver=20171027" type="text/css" media="all">
-<link rel="stylesheet" id="eet-archive-css" href="https://www.theepochtimes.com/assets/themes/eet/css/archive.css?ver=20170725" type="text/css" media="all">
+<link rel="stylesheet" id="eet-archive-css" href="https://www.theepochtimes.com/assets/themes/eet/css/archive.css?ver=20180612" type="text/css" media="all">
 <link rel="stylesheet" id="eet-page-css" href="https://www.theepochtimes.com/assets/themes/eet/css/page.css?ver=20170725" type="text/css" media="all">
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5Z8H4H"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 		var eet_primary_category, eet_cat_ids, eet_term_ids, eet_all_term_ids, eet_cat_names, eet_no_ads, eet_ads_term_ids;
 		var eet_post_id, eet_author_nicename, eet_author_name, eet_primary_category_name, eet_tags, eet_tags_slugs, eet_publish_date, eet_last_updated_date, eet_word_count;
 		var eet_segment_url = 'https://www.theepochtimes.com/assets/uploads/segment';
+		var featured_img_thumbnail;
 		</script>
 <!--[if lt IE 9]>
      <script type="text/javascript" src="/assets/themes/eet/js/html5.js"></script>
@@ -45,7 +48,7 @@
 <script>
     	// We want persisten UUID
     	function epochuser () {
-			this.getUUID = function getUUID () {               
+			this.getUUID = function getUUID () {
 				if (localStorage && "_epochUUID" in localStorage) {
 					euid = localStorage._epochUUID;
 				} else {
@@ -63,14 +66,12 @@
 		}
 		var epoch = {}
 		var user = new epochuser();
-		epoch.uuid = user.getUUID();
-		console.log("UUID:" + epoch.uuid);
 	</script>
 
 <style>.async-hide { opacity: 0 !important} </style>
 <script>
 		var settings_obj = {};
-		settings_obj[ '' ] = true;
+		
 		(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
 		h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 		(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
@@ -85,10 +86,9 @@
 	  	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	  	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	  	ga('create', eet_ga_id, 'auto', {
-		  userId: epoch.uuid
-      	});
-	  	ga('require', '');
+	  	ga('create', eet_ga_id, 'auto', {'allowLinker': true});
+	  	ga('require', 'linker');
+	  	ga('linker:autoLink', ['subscribe.epochtimes.com']);
 	 </script>
 
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5Z8H4H"
@@ -97,129 +97,79 @@
 	j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5Z8H4H');
 	</script>
 <header id="header" class="single">
-<div class="topbar no_background">
-<div class="center_content">
-<div id="eet_date" class="date"></div>
-<div class="country">
-<div class="boundary">
-<span class="left"></span>
-<span class="mid">
-<div class="subscribe">
-<span class="subscribe_title">SUBSCRIBE TODAY!</span>
-<span class="print">
-<a href="https://subscribe.epochtimes.com/?utm_source=referrer&amp;utm_medium=web%20link&amp;utm_campaign=theepochtimes.com&amp;utm_content=header%20link">
-<span class="subs">
-<div class="block_title">PRINT EDITION</div>
-</span>
-</a>
-</span>
-<span class="newsletter">
-<a href="https://www.theepochtimes.com/newsletter">
-<span class="subs">
-<div class="block_title">EPOCH NEWSLETTERS</div>
-</span>
-</a>
-</span>
+<div class="top_fix_bar">
+<div class="container">
+<div class="top_wrapper">
+<div class="left">
+<a class="toggle" href="javascript:void(0);"></a>
 </div>
-</span>
-<span class="right"></span>
+<div class="logo"><a href="https://www.theepochtimes.com/"><img src="/assets/themes/eet/images/logo_eet.svg"></a></div>
+<div class="icon_wrapper">
+<a class="subscribe" href="https://subscribe.epochtimes.com/?utm_source=theepochtimes.com&amp;utm_medium=static_link&amp;utm_campaign=page_link&amp;utm_content=header_subscribe_link&amp;utm_term=/privacy-notice"><span>subscribe</span></a>
+<a class="donate" href="https://www.theepochtimes.com/support-independent-journalism"><span>donate</span></a>
+<a class="search" href="javascript:void(0);"><span>search</span></a>
 </div>
-</div>
-<div class="social">
-Follow us
-<span class="fb"><a href="https://www.facebook.com/epochtimes" target="_blank">&nbsp;</a></span>
-<span class="twitter"><a href="https://twitter.com/epochtimes" target="_blank">&nbsp;</a></span>
-<span class="gplus"><a href="https://plus.google.com/+epochtimes" target="_blank">&nbsp;</a></span>
-</div>
-</div>
-</div>
-<div class="has_background">
-<div class="center_content">
-<div class="logo">
-<div class="epoch">
-<a id="open_hide_menu" href="javascript:void(0);"></a>
-<a class="eet_logo" href="https://www.theepochtimes.com"><img src="https://www.theepochtimes.com/assets/themes/eet/images/header_EET.svg"></a>
-</div>
-<div class="categories">
-<div class="menu-primary-container"><ul id="menu-primary" class="nav-menu"><li id="menu-item-2298334" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-new-york menu-item-2298334"><a href="https://www.theepochtimes.com/c-nyc">New York</a></li>
-<li id="menu-item-2298335" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china menu-item-2298335"><a href="https://www.theepochtimes.com/c-china">China</a></li>
-<li id="menu-item-2298336" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us menu-item-2298336"><a href="https://www.theepochtimes.com/c-us">US</a></li>
-<li id="menu-item-2298337" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-world menu-item-2298337"><a href="https://www.theepochtimes.com/c-world">World</a></li>
-<li id="menu-item-2298338" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-opinion menu-item-2298338"><a href="https://www.theepochtimes.com/c-opinion">Opinion</a></li>
-<li id="menu-item-2298339" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business menu-item-2298339"><a href="https://www.theepochtimes.com/c-business">Business</a></li>
-<li id="menu-item-2298340" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-food-dining menu-item-2298340"><a href="https://www.theepochtimes.com/c-food-dining">Food &amp; Dining</a></li>
-<li id="menu-item-2298341" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech menu-item-2298341"><a href="https://www.theepochtimes.com/c-tech">Tech</a></li>
-<li id="menu-item-2298342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-science menu-item-2298342"><a href="https://www.theepochtimes.com/c-science">Science</a></li>
-<li id="menu-item-2298343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-sports menu-item-2298343"><a href="https://www.theepochtimes.com/c-sports">Sports</a></li>
-</ul></div> </div>
-<div class="search">
-<div class="box">
-<form action="https://www.theepochtimes.com/search/" class="search_form" method="get" target="_blank">
-<input type="text" name="q">
-<a class="search_icon"></a>
-</form>
-</div>
-</div>
-</div>
-</div>
-<div class="overlay left"></div>
-<div class="overlay right"></div>
 </div>
 <div id="hidden_menu" class="hidden">
-<div class="center_content">
-<div class="upper">
-<span class="close_icon"><a href="javascript:void(0);"></a></span>
-<a href="https://www.theepochtimes.com">HOME</a>
-<a href="https://www.theepochtimes.com/todays-headlines">TODAY’S HEADLINES</a>
-<a href="https://www.theepochtimes.com/editors-picks">EDITOR’S PICKS</a>
-<a href="https://www.theepochtimes.com/top-stories">TOP STORIES</a>
-<a href="https://www.theepochtimes.com/featured-news">FEATURED</a>
-<a href="">SPECIAL SERIES</a>
-<a href="https://www.theepochtimes.com/c-uplift" class="uplift"><img src="https://www.theepochtimes.com/assets/themes/eet/images/uplift_new_orange.svg"></a>
+<div class="close_icon"><a href="javascript:void(0);">CLOSE</a></div>
+<div class="icon_wrapper">
+<a class="subscribe" href="https://subscribe.epochtimes.com/?utm_source=theepochtimes.com&amp;utm_medium=static_link&amp;utm_campaign=page_link&amp;utm_content=header_menu_subscribe_link&amp;utm_term=/privacy-notice"><span>subscribe</span></a>
+<a class="newsletter" href="https://www.theepochtimes.com/newsletter"><span>newsletter</span></a>
+<a class="donate" href="https://www.theepochtimes.com/support-independent-journalism"><span>donate</span></a>
 </div>
-<div class="lower">
-<div class="featured">
-<div class="block_title">FEATURED</div>
-<div class="post"><a href="https://www.theepochtimes.com/every-cancer-patient-should-be-prescribed-exercise-2_2534156.html"><span class="image"><img alt="Every Cancer Patient Should Be Prescribed Exercise" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/05/23/file-20180502-153873-1jx9usw-300x180.jpg"><noscript><img alt="Every Cancer Patient Should Be Prescribed Exercise" src="https://www.theepochtimes.com/assets/uploads/2018/05/23/file-20180502-153873-1jx9usw-300x180.jpg"></noscript></span><span class="title">Every Cancer Patient Should Be Prescribed Exercise</span></a></div> </div>
-<div class="menu_items">
-<span class="first_col"><div class="menu-front-main-column1-container"><ul id="menu-front-main-column1" class="nav-menu"><li id="menu-item-2298344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-us menu-item-2298344"><a href="https://www.theepochtimes.com/c-us">US</a>
+<div class="full_menu_items">
+<span class="first_col">
+<div class="menu-feature-menu-container"><ul id="menu-feature-menu" class="nav-menu"><li id="menu-item-2635414" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-top-news menu-item-2635414"><a href="https://www.theepochtimes.com/top-news">Top News</a></li>
+<li id="menu-item-2635484" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-featured-video menu-item-2635484"><a href="https://www.theepochtimes.com/c-video">Featured Video</a></li>
+<li id="menu-item-2635462" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-trump-presidency menu-item-2635462"><a href="https://www.theepochtimes.com/c-trump-presidency">Trump Presidency</a></li>
+<li id="menu-item-2635427" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-editors-picks menu-item-2635427"><a href="https://www.theepochtimes.com/editors-picks">Editor’s Picks</a></li>
+<li id="menu-item-2635429" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-featured-news menu-item-2635429"><a href="https://www.theepochtimes.com/featured-news">Featured News</a></li>
+<li id="menu-item-2635433" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-special-series menu-item-2635433"><a href="https://www.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world">SPECIAL SERIES</a></li>
+<li id="menu-item-2635480" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-special-coverage menu-item-2635480"><a href="https://www.theepochtimes.com/c-shen-yun">Special Coverage</a></li>
+</ul></div> <div class="menu-front-main-column1-container"><ul id="menu-front-main-column1" class="nav-menu"><li id="menu-item-2298344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-us menu-item-2298344"><a href="https://www.theepochtimes.com/c-us">US</a>
 <ul class="sub-menu">
 <li id="menu-item-2298345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-news menu-item-2298345"><a href="https://www.theepochtimes.com/c-us-news">US News</a></li>
-<li id="menu-item-2298348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298348"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
 <li id="menu-item-2298346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-features menu-item-2298346"><a href="https://www.theepochtimes.com/c-us-features">US Features</a></li>
-<li id="menu-item-2298347" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-real-estate menu-item-2298347"><a href="https://www.theepochtimes.com/c-us-real-estate">US Real Estate</a></li>
+<li id="menu-item-2298348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298348"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
+<li id="menu-item-2638693" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-crime-and-incidents menu-item-2638693"><a href="https://www.theepochtimes.com/c-crime-us">Crime and Incidents</a></li>
+<li id="menu-item-2638696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-new-york menu-item-2638696"><a href="https://www.theepochtimes.com/c-nyc">New York</a></li>
+<li id="menu-item-2654668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-san-francisco menu-item-2654668"><a href="https://www.theepochtimes.com/c-nor-cal-san-francisco">San Francisco</a></li>
+<li id="menu-item-2654669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-los-angeles menu-item-2654669"><a href="https://www.theepochtimes.com/c-so-cal-los-angeles">Los Angeles</a></li>
 </ul>
 </li>
-<li id="menu-item-2298352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-politics menu-item-2298352"><a href="https://www.theepochtimes.com/c-us-politics">US Politics</a></li>
-<li id="menu-item-2298353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-china menu-item-2298353"><a href="https://www.theepochtimes.com/c-china">China</a>
+<li id="menu-item-2298352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298352"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
+<li id="menu-item-2638699" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-opinion menu-item-2638699"><a href="https://www.theepochtimes.com/c-opinion">Opinion</a>
 <ul class="sub-menu">
-<li id="menu-item-2298354" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-us-news menu-item-2298354"><a href="https://www.theepochtimes.com/c-china-us-news">China-US News</a></li>
-<li id="menu-item-2298355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-regime menu-item-2298355"><a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a></li>
-<li id="menu-item-2298356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business-economy menu-item-2298356"><a href="https://www.theepochtimes.com/c-business-economy">Business &amp; Economy</a></li>
-<li id="menu-item-2298357" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-culture menu-item-2298357"><a href="https://www.theepochtimes.com/c-culture">Chinese Culture</a></li>
-<li id="menu-item-2298358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-human-rights menu-item-2298358"><a href="https://www.theepochtimes.com/c-human-rights">China Human Rights</a></li>
-<li id="menu-item-2298359" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-society menu-item-2298359"><a href="https://www.theepochtimes.com/c-society">China Society</a></li>
-<li id="menu-item-2298360" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-nine-commentaries menu-item-2298360"><a href="https://www.theepochtimes.com/c-nine-commentaries">Nine Commentaries</a></li>
+<li id="menu-item-2638700" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-thinking-about-china menu-item-2638700"><a href="https://www.theepochtimes.com/c-thinking-about-china">Thinking About China</a></li>
+<li id="menu-item-2638701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-viewpoints menu-item-2638701"><a href="https://www.theepochtimes.com/c-viewpoints">Viewpoints</a></li>
+<li id="menu-item-2638703" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-the-readers-turn menu-item-2638703"><a href="https://www.theepochtimes.com/c-readers-turn">The Reader’s Turn</a></li>
 </ul>
 </li>
-<li id="menu-item-2298362" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-world menu-item-2298362"><a href="https://www.theepochtimes.com/c-world">World</a>
+</ul></div> </span>
+<span class="second_col"><div class="menu-front-main-column2-container"><ul id="menu-front-main-column2" class="nav-menu"><li id="menu-item-2638657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-china menu-item-2638657"><a href="https://www.theepochtimes.com/c-china">China</a>
 <ul class="sub-menu">
-<li id="menu-item-2298363" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-africa menu-item-2298363"><a href="https://www.theepochtimes.com/c-africa">Africa</a></li>
-<li id="menu-item-2298364" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-americas menu-item-2298364"><a href="https://www.theepochtimes.com/c-americas">Americas</a></li>
-<li id="menu-item-2298365" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-asia-pacific menu-item-2298365"><a href="https://www.theepochtimes.com/c-asia-pacific">Asia &amp; Pacific</a></li>
-<li id="menu-item-2298366" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-canada menu-item-2298366"><a href="https://www.theepochtimes.com/c-canada">Canada</a></li>
-<li id="menu-item-2298367" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-europe menu-item-2298367"><a href="https://www.theepochtimes.com/c-europe">Europe</a></li>
-<li id="menu-item-2298368" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-india menu-item-2298368"><a href="https://www.theepochtimes.com/c-india">India</a></li>
-<li id="menu-item-2298369" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-international menu-item-2298369"><a href="https://www.theepochtimes.com/c-international">International</a></li>
-<li id="menu-item-2298370" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-middle-east menu-item-2298370"><a href="https://www.theepochtimes.com/c-middle-east">Middle East</a></li>
+<li id="menu-item-2638661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-us-news menu-item-2638661"><a href="https://www.theepochtimes.com/c-china-us-news">China-US News</a></li>
+<li id="menu-item-2638685" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-regime menu-item-2638685"><a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a></li>
+<li id="menu-item-2638658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business-economy menu-item-2638658"><a href="https://www.theepochtimes.com/c-business-economy">Business &amp; Economy</a></li>
+<li id="menu-item-2638663" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-culture menu-item-2638663"><a href="https://www.theepochtimes.com/c-culture">Chinese Culture</a></li>
+<li id="menu-item-2638659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-human-rights menu-item-2638659"><a href="https://www.theepochtimes.com/c-human-rights">China Human Rights</a></li>
+<li id="menu-item-2638660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-society menu-item-2638660"><a href="https://www.theepochtimes.com/c-society">China Society</a></li>
+<li id="menu-item-2638666" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-nine-commentaries menu-item-2638666"><a href="https://www.theepochtimes.com/c-nine-commentaries">Nine Commentaries</a></li>
+<li id="menu-item-2638667" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-organ-harvesting-in-china menu-item-2638667"><a href="https://www.theepochtimes.com/c-organ-harvesting-in-china">Organ Harvesting in China</a></li>
 </ul>
 </li>
-</ul></div></span>
-<span class="second_col"><div class="menu-front-main-column2-container"><ul id="menu-front-main-column2" class="nav-menu"><li id="menu-item-2298372" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-opinion menu-item-2298372"><a href="https://www.theepochtimes.com/c-opinion">Opinion</a>
+<li id="menu-item-2638669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-world menu-item-2638669"><a href="https://www.theepochtimes.com/c-world">World</a>
 <ul class="sub-menu">
-<li id="menu-item-2298373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-thinking-about-china menu-item-2298373"><a href="https://www.theepochtimes.com/c-thinking-about-china">Thinking About China</a></li>
-<li id="menu-item-2298374" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-viewpoints menu-item-2298374"><a href="https://www.theepochtimes.com/c-viewpoints">Viewpoints</a></li>
-<li id="menu-item-2298375" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-the-readers-turn menu-item-2298375"><a href="https://www.theepochtimes.com/c-readers-turn">The Reader’s Turn</a></li>
+<li id="menu-item-2638670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-africa menu-item-2638670"><a href="https://www.theepochtimes.com/c-africa">Africa</a></li>
+<li id="menu-item-2638671" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-americas menu-item-2638671"><a href="https://www.theepochtimes.com/c-americas">Americas</a></li>
+<li id="menu-item-2638672" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-asia-pacific menu-item-2638672"><a href="https://www.theepochtimes.com/c-asia-pacific">Asia &amp; Pacific</a></li>
+<li id="menu-item-2638673" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-canada menu-item-2638673"><a href="https://www.theepochtimes.com/c-canada">Canada</a></li>
+<li id="menu-item-2638674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-europe menu-item-2638674"><a href="https://www.theepochtimes.com/c-europe">Europe</a></li>
+<li id="menu-item-2654636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-uk menu-item-2654636"><a href="https://www.theepochtimes.com/c-uk">UK</a></li>
+<li id="menu-item-2654635" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-australia menu-item-2654635"><a href="https://www.theepochtimes.com/c-australia">Australia</a></li>
+<li id="menu-item-2638676" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-india menu-item-2638676"><a href="https://www.theepochtimes.com/c-india">India</a></li>
+<li id="menu-item-2638677" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-international menu-item-2638677"><a href="https://www.theepochtimes.com/c-international">International</a></li>
+<li id="menu-item-2638679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-middle-east menu-item-2638679"><a href="https://www.theepochtimes.com/c-middle-east">Middle East</a></li>
 </ul>
 </li>
 <li id="menu-item-2298376" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-business menu-item-2298376"><a href="https://www.theepochtimes.com/c-business">Business</a>
@@ -230,58 +180,38 @@ Follow us
 <li id="menu-item-2298380" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-real-estate menu-item-2298380"><a href="https://www.theepochtimes.com/c-real-estate">Real Estate</a></li>
 </ul>
 </li>
-<li id="menu-item-2298381" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-science menu-item-2298381"><a href="https://www.theepochtimes.com/c-science">Science</a>
-<ul class="sub-menu">
-<li id="menu-item-2298382" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-news menu-item-2298382"><a href="https://www.theepochtimes.com/c-science-news">News</a></li>
-<li id="menu-item-2298383" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-beyond-science menu-item-2298383"><a href="https://www.theepochtimes.com/c-uplift-beyond-science">Beyond Science</a></li>
-<li id="menu-item-2298384" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-space menu-item-2298384"><a href="https://www.theepochtimes.com/c-space">Space</a></li>
-<li id="menu-item-2298385" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-environment menu-item-2298385"><a href="https://www.theepochtimes.com/c-environment">Environment</a></li>
-</ul>
-</li>
-<li id="menu-item-2298386" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-tech menu-item-2298386"><a href="https://www.theepochtimes.com/c-tech">Tech</a>
-<ul class="sub-menu">
-<li id="menu-item-2298387" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech-news menu-item-2298387"><a href="https://www.theepochtimes.com/c-tech-news">Tech News</a></li>
-<li id="menu-item-2298388" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech-products-reviews menu-item-2298388"><a href="https://www.theepochtimes.com/c-products-reviews">Tech Products &amp; Reviews</a></li>
-<li id="menu-item-2298389" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-social-media menu-item-2298389"><a href="https://www.theepochtimes.com/c-tech-social-media">Social Media</a></li>
-</ul>
-</li>
-<li id="menu-item-2469004" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-sports menu-item-2469004"><a href="https://www.theepochtimes.com/c-sports">Sports</a></li>
 </ul></div></span>
-<span class="third_col"><div class="menu-front-main-column3-container"><ul id="menu-front-main-column3" class="nav-menu"><li id="menu-item-2298390" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-title-health menu-item-2298390"><a href="https://www.theepochtimes.com/c-health">Health</a>
-<ul class="sub-menu">
-<li id="menu-item-2298391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-health-news menu-item-2298391"><a href="https://www.theepochtimes.com/c-health-news">Health News</a></li>
-<li id="menu-item-2298392" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-title-fitness-nutrition menu-item-2298392"><a href="https://www.theepochtimes.com/c-fitness-nutrition">Fitness &amp; Nutrition</a></li>
-<li id="menu-item-2298393" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-traditional-chinese-medicine menu-item-2298393"><a href="https://www.theepochtimes.com/c-traditional-chinese-medicine">Traditional Chinese Medicine</a></li>
-<li id="menu-item-2298394" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-alternative-health menu-item-2298394"><a href="https://www.theepochtimes.com/c-alternative-health">Alternative Health</a></li>
-<li id="menu-item-2298395" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-treatments-and-techniques menu-item-2298395"><a href="https://www.theepochtimes.com/c-treatments-and-techniques">Treatments and Techniques</a></li>
-</ul>
-</li>
-<li id="menu-item-2458289" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-food menu-item-2458289"><a href="https://www.theepochtimes.com/c-food-dining">Food</a>
-<ul class="sub-menu">
-<li id="menu-item-2298400" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-recipes menu-item-2298400"><a href="https://www.theepochtimes.com/c-recipes">Recipes</a></li>
-<li id="menu-item-2298401" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-drinks menu-item-2298401"><a href="https://www.theepochtimes.com/c-wine">Drinks</a></li>
-</ul>
-</li>
-<li id="menu-item-2298402" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-arts-culture menu-item-2298402"><a href="https://www.theepochtimes.com/c-arts-culture">Arts &amp; Culture</a>
+<span class="third_col"><div class="menu-front-main-column3-container"><ul id="menu-front-main-column3" class="nav-menu"><li id="menu-item-2298402" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-arts menu-item-2298402"><a href="https://www.theepochtimes.com/c-arts-culture">Arts</a>
 <ul class="sub-menu">
 <li id="menu-item-2298404" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-shen-yun-special-coverage menu-item-2298404"><a href="http://shenyun.theepochtimes.com/">Shen Yun Special Coverage</a></li>
-<li id="menu-item-2298405" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-the-classics-looking-back-looking-forward menu-item-2298405"><a href="https://www.theepochtimes.com/the-classics-looking-back-looking-forward">The Classics: Looking Back, Looking Forward</a></li>
+<li id="menu-item-2298405" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-featured-topic-the-classics menu-item-2298405"><a href="https://www.theepochtimes.com/the-classics-looking-back-looking-forward">Featured Topic: The Classics</a></li>
 <li id="menu-item-2298406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-performing-arts menu-item-2298406"><a href="https://www.theepochtimes.com/c-performing-arts">Performing Arts</a></li>
 <li id="menu-item-2298407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-fine-arts menu-item-2298407"><a href="https://www.theepochtimes.com/c-fine-arts">Fine Arts</a></li>
 <li id="menu-item-2298408" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-literature menu-item-2298408"><a href="https://www.theepochtimes.com/c-literature">Literature</a></li>
 </ul>
 </li>
-<li id="menu-item-2298409" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-entertainment menu-item-2298409"><a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a>
+<li id="menu-item-2638641" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-science menu-item-2638641"><a href="https://www.theepochtimes.com/c-science">Science</a>
 <ul class="sub-menu">
-<li id="menu-item-2298410" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-tv menu-item-2298410"><a href="https://www.theepochtimes.com/c-film-tv">Film &amp; TV</a></li>
-<li id="menu-item-2298411" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-reviews menu-item-2298411"><a href="https://www.theepochtimes.com/c-film-reviews">Film Reviews</a></li>
-<li id="menu-item-2298412" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-entertainment-news menu-item-2298412"><a href="https://www.theepochtimes.com/c-entertainment-news">Entertainment News</a></li>
+<li id="menu-item-2638642" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-news menu-item-2638642"><a href="https://www.theepochtimes.com/c-science-news">News</a></li>
+<li id="menu-item-2638643" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-beyond-science menu-item-2638643"><a href="https://www.theepochtimes.com/c-uplift-beyond-science">Beyond Science</a></li>
+<li id="menu-item-2638645" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-space menu-item-2638645"><a href="https://www.theepochtimes.com/c-space">Space</a></li>
+<li id="menu-item-2638646" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-environment menu-item-2638646"><a href="https://www.theepochtimes.com/c-environment">Environment</a></li>
 </ul>
 </li>
+<li id="menu-item-2638648" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-tech menu-item-2638648"><a href="https://www.theepochtimes.com/c-tech">Tech</a>
+<ul class="sub-menu">
+<li id="menu-item-2638649" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech-news menu-item-2638649"><a href="https://www.theepochtimes.com/c-tech-news">Tech News</a></li>
+<li id="menu-item-2638650" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech-products-reviews menu-item-2638650"><a href="https://www.theepochtimes.com/c-products-reviews">Tech Products &amp; Reviews</a></li>
+<li id="menu-item-2638651" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-social-media menu-item-2638651"><a href="https://www.theepochtimes.com/c-tech-social-media">Social Media</a></li>
+</ul>
+</li>
+<li id="menu-item-2638653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-sports menu-item-2638653"><a href="https://www.theepochtimes.com/c-sports">Sports</a></li>
+<li id="menu-item-2664345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-food menu-item-2664345"><a href="https://www.theepochtimes.com/c-food-dining">Food</a></li>
 </ul></div></span>
-<span class="fourth_col"><div class="menu-front-main-column4-container"><ul id="menu-front-main-column4" class="nav-menu"><li id="menu-item-2298413" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-life menu-item-2298413"><a href="https://www.theepochtimes.com/c-life">Life</a>
+<span class="fourth_col"><div class="menu-front-main-column4-container"><ul id="menu-front-main-column4" class="nav-menu"><li id="menu-item-2298413" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-title-life menu-item-2298413"><a href="https://www.theepochtimes.com/c-life">Life</a>
 <ul class="sub-menu">
 <li id="menu-item-2298414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-slice-of-life menu-item-2298414"><a href="https://www.theepochtimes.com/c-slice-of-life">Slice of Life</a></li>
+<li id="menu-item-2638610" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-good-to-know menu-item-2638610"><a href="https://www.theepochtimes.com/c-good-to-know">Good to Know</a></li>
 <li id="menu-item-2298416" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-inspired menu-item-2298416"><a href="https://www.theepochtimes.com/c-inspired">Inspired</a></li>
 <li id="menu-item-2298417" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-autos menu-item-2298417"><a href="https://www.theepochtimes.com/c-autos">Autos</a></li>
 <li id="menu-item-2298418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-careers menu-item-2298418"><a href="https://www.theepochtimes.com/c-careers">Careers</a></li>
@@ -290,25 +220,61 @@ Follow us
 <li id="menu-item-2298421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-travel menu-item-2298421"><a href="https://www.theepochtimes.com/c-travel">Travel</a></li>
 </ul>
 </li>
-<li id="menu-item-2298423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-video menu-item-2298423"><a href="https://www.theepochtimes.com/c-video">Video</a></li>
-<li id="menu-item-2547091" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-shen-yun-special-coverage menu-item-2547091"><a href="https://www.theepochtimes.com/c-shen-yun">Shen Yun Special Coverage</a></li>
+<li id="menu-item-2638612" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-entertainment menu-item-2638612"><a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a>
+<ul class="sub-menu">
+<li id="menu-item-2638613" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-reviews menu-item-2638613"><a href="https://www.theepochtimes.com/c-film-reviews">Film Reviews</a></li>
+<li id="menu-item-2638614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-tv menu-item-2638614"><a href="https://www.theepochtimes.com/c-film-tv">Film &amp; TV</a></li>
+<li id="menu-item-2638615" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-entertainment-news menu-item-2638615"><a href="https://www.theepochtimes.com/c-entertainment-news">Entertainment News</a></li>
+</ul>
+</li>
+<li id="menu-item-2638618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-wellness menu-item-2638618"><a href="https://www.theepochtimes.com/c-health">Wellness</a>
+<ul class="sub-menu">
+<li id="menu-item-2638619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-news menu-item-2638619"><a href="https://www.theepochtimes.com/c-health-news">News</a></li>
+<li id="menu-item-2638622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-fitness-nutrition menu-item-2638622"><a href="https://www.theepochtimes.com/c-fitness-nutrition">Fitness &amp; Nutrition</a></li>
+<li id="menu-item-2638623" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-traditional-chinese-medicine menu-item-2638623"><a href="https://www.theepochtimes.com/c-traditional-chinese-medicine">Traditional Chinese Medicine</a></li>
+<li id="menu-item-2638624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-alternative-health menu-item-2638624"><a href="https://www.theepochtimes.com/c-alternative-health">Alternative Health</a></li>
+<li id="menu-item-2638626" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-treatments-and-techniques menu-item-2638626"><a href="https://www.theepochtimes.com/c-treatments-and-techniques">Treatments and Techniques</a></li>
+</ul>
+</li>
 </ul></div></span>
 </div>
 </div>
+<div id="search_pannel" class="hidden">
+<form action="https://www.theepochtimes.com/search/" class="search_form" method="get">
+<input type="text" name="q">
+<a class="search_icon" href="javascript:void(0);"></a>
+</form>
+</div>
+</div>
+<div class="center_container">
+<div class="main_nav clear">
+<div class="menu-front-page-primary-container"><ul id="menu-front-page-primary" class="nav-menu"><li id="menu-item-2298321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us menu-item-2298321"><a href="https://www.theepochtimes.com/c-us">US</a></li>
+<li id="menu-item-2298322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298322"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
+<li id="menu-item-2298323" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china menu-item-2298323"><a href="https://www.theepochtimes.com/c-china">China</a></li>
+<li id="menu-item-2298324" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-world menu-item-2298324"><a href="https://www.theepochtimes.com/c-world">World</a></li>
+<li id="menu-item-2322369" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-uk menu-item-2322369"><a href="https://www.theepochtimes.com/c-uk">UK</a></li>
+<li id="menu-item-2298325" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-opinion menu-item-2298325"><a href="https://www.theepochtimes.com/c-opinion">Opinion</a></li>
+<li id="menu-item-2298326" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business menu-item-2298326"><a href="https://www.theepochtimes.com/c-business">Business</a></li>
+<li id="menu-item-2568658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech menu-item-2568658"><a href="https://www.theepochtimes.com/c-tech">Tech</a></li>
+<li id="menu-item-2568659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-science menu-item-2568659"><a href="https://www.theepochtimes.com/c-science">Science</a></li>
+<li id="menu-item-2298328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-wellness menu-item-2298328"><a href="https://www.theepochtimes.com/c-health">Wellness</a></li>
+<li id="menu-item-2458283" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-food menu-item-2458283"><a href="https://www.theepochtimes.com/c-food-dining">Food</a></li>
+<li id="menu-item-2298331" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-arts menu-item-2298331"><a href="https://www.theepochtimes.com/c-arts-culture">Arts</a></li>
+<li id="menu-item-2298332" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-entertainment menu-item-2298332"><a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a></li>
+<li id="menu-item-2636307" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-more menu-item-2636307"><a>More</a></li>
+</ul></div> </div>
 </div>
 </div>
 </header>
 <main id="main" role="main">
 <div class="main_content page">
-<div class="mid_col">
+<div class="left_col">
 <div class="article_info">
 <h1 class="title">Privacy Notice</h1>
 </div>
 <div class="content">
 <div class="social">
-<span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/privacy-notice" target="_blank">Share</a></span><span class="twitter"><a href="https://twitter.com/intent/tweet?text=Privacy Notice&amp;url=https://www.theepochtimes.com/privacy-notice&amp;via=epochtimes" target="_blank">Tweet</a></span><span class="gplus"><a href="https://plus.google.com/share?url=https://www.theepochtimes.com/privacy-notice" target="_blank">Share</a></span><span class="email"><a href="mailto:?subject=Privacy Notice&amp;body=Privacy Notice https://www.theepochtimes.com/privacy-notice" target="_blank">Email</a></span> <span class="right_float">
-<span class="more"><a href="javascript:void(0);">&nbsp;</a><ul><li><a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.theepochtimes.com/privacy-notice" target="_blank">LINKEDIN</a></li><li><a class="pinterest" href="https://pinterest.com/pin/create/button/?url=https://www.theepochtimes.com/privacy-notice&amp;description=Privacy Notice" target="_blank">PINTEREST</a></li><li><a class="reddit" href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/privacy-notice" target="_blank">REDDIT</a></li><li><a class="tumblr" href="http://www.tumblr.com/share/link?url=https://www.theepochtimes.com/privacy-notice" target="_blank">TUMBLR</a></li><li><a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=https://www.theepochtimes.com/privacy-notice" target="_blank">STUMBLEUPON</a></li></ul></span><span class="printer"><a href="#Print" onclick="window.print(); return false;" target="_blank"></a></span><span id="font_up" class="font-bigger"><a href="javascript:void(0);">&nbsp;</a></span><span id="font_down" class="font-smaller"><a href="javascript:void(0);">&nbsp;</a></span> </span>
-</div>
+<span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/privacy-notice" target="_blank"></a></span><span class="twitter"><a href="https://twitter.com/intent/tweet?text=Privacy Notice&amp;url=https://www.theepochtimes.com/privacy-notice&amp;via=epochtimes" target="_blank"></a></span><span class="gplus"><a href="https://plus.google.com/share?url=https://www.theepochtimes.com/privacy-notice" target="_blank"></a></span><span class="email"><a href="mailto:?subject=Privacy Notice&amp;body=Privacy Notice https://www.theepochtimes.com/privacy-notice" target="_blank"></a></span> </div>
 <div class="post_content">
 <p><strong>Who We Are</strong></p>
 <p>The Epoch Times (‘we’ or ‘us’ or ‘our’) gathers and processes your personal information in accordance with this privacy notice and in compliance with the relevant data protection Regulation and law. This notice provides you with the necessary information regarding your rights and obligations, and explains how, why and when we collect and process your personal data.</p>
@@ -407,87 +373,296 @@ writing to the following postal address:<br>
 </div>
 </div>
 </div>
-<div class="right_sidebar">
-<div class="editors_picks">
-<div class="title"><a href="https://www.theepochtimes.com/editors-picks">Editor's Picks</a></div>
-<ul class="editors_picks_list">
-<li><a href="https://www.theepochtimes.com/trump-says-muellers-appointment-is-unconstitutional-here-are-7-reasons-why_2548718.html"><span class="image"><img alt="Trump Says Mueller’s Appointment Is Unconstitutional–Here Are 7 Reasons Why" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/06/04/GettyImages-699353624-1-300x180.jpg"><noscript><img alt="Trump Says Mueller’s Appointment Is Unconstitutional–Here Are 7 Reasons Why" src="https://www.theepochtimes.com/assets/uploads/2018/06/04/GettyImages-699353624-1-300x180.jpg"></noscript></span><span class="title">Trump Says Mueller’s Appointment Is Unconstitutional–Here Are 7 Reasons Why</span></a><span class="excerpt">President Donald Trump questioned the legality of the appointment of special counsel Robert Mueller on Monday while indicating ...</span><span class="read_more"><a href="https://www.theepochtimes.com/trump-says-muellers-appointment-is-unconstitutional-here-are-7-reasons-why_2548718.html">Read more<span class="red_triangle"></span></a></span></li><li><a href="https://www.theepochtimes.com/president-celebrates-500-days-in-office-points-to-long-list-of-achievements_2549291.html"><span class="image"><img alt="President Celebrates 500 Days in Office, Points to Long List of Achievements" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/05/29/20180430-Trump-EpochTimes-9A6A2416-300x180.jpg"><noscript><img alt="President Celebrates 500 Days in Office, Points to Long List of Achievements" src="https://www.theepochtimes.com/assets/uploads/2018/05/29/20180430-Trump-EpochTimes-9A6A2416-300x180.jpg"></noscript></span><span class="title">President Celebrates 500 Days in Office, Points to Long List of Achievements</span></a><span class="excerpt">President Donald Trump marked his 500th day in office on June 4 with a celebratory message on Twitter ...</span><span class="read_more"><a href="https://www.theepochtimes.com/president-celebrates-500-days-in-office-points-to-long-list-of-achievements_2549291.html">Read more<span class="red_triangle"></span></a></span></li><li><a href="https://www.theepochtimes.com/the-five-methods-obama-officials-used-to-spy-on-the-trump-campaign_2544292.html"><span class="image"><img alt="Obama Officials Spied on Trump Campaign Using at Least Five Methods" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/05/31/Spying-300x180.jpg"><noscript><img alt="Obama Officials Spied on Trump Campaign Using at Least Five Methods" src="https://www.theepochtimes.com/assets/uploads/2018/05/31/Spying-300x180.jpg"></noscript></span><span class="title">Obama Officials Spied on Trump Campaign Using at Least Five Methods</span></a><span class="excerpt">During the heat of the 2016 presidential elections, officials within the Obama administration, including cabinet-level officials who answered ...</span><span class="read_more"><a href="https://www.theepochtimes.com/the-five-methods-obama-officials-used-to-spy-on-the-trump-campaign_2544292.html">Read more<span class="red_triangle"></span></a></span></li><li><a href="https://www.theepochtimes.com/the-specter-of-communism-is-ruling-our-world-forward_2531449.html"><span class="image"><img alt="How The Specter of Communism Is Ruling Our World — Preface" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/05/31/TheEpochTimes_SpecialSeries_Howtheevilspecterofcommunismisrulingourworld_v2.1-300x180.jpeg"><noscript><img alt="How The Specter of Communism Is Ruling Our World — Preface" src="https://www.theepochtimes.com/assets/uploads/2018/05/31/TheEpochTimes_SpecialSeries_Howtheevilspecterofcommunismisrulingourworld_v2.1-300x180.jpeg"></noscript></span><span class="title">How The Specter of Communism Is Ruling Our World — Preface</span></a><span class="excerpt">The Epoch Times here begins serializing a translation from the Chinese of a new book, “How the Specter ...</span><span class="read_more"><a href="https://www.theepochtimes.com/the-specter-of-communism-is-ruling-our-world-forward_2531449.html">Read more<span class="red_triangle"></span></a></span></li> </ul>
-</div>
-<div id="facebook-fanpage"></div> </div>
+<div class="right_col">
+<div class="sidebar_top"></div>
+<div class="side_ad_top"></div>
+<div class="sidebar_bottom"></div>
+<div class="top_news">
+<div class="block_title">TOP NEWS</div>
+<ul>
+<li>
+<span class="title_author_date">
+<div class="title"><a href="https://www.theepochtimes.com/uk-leader-may-defies-leadership-revolt-warns-brexit-in-peril_2736662.html">UK Leader May Defies Leadership Revolt, Warns Brexit in Peril</a></div>
+<div class="author_date">
+<span class="date"><span class="time_diff"><span class="new">NEW</span></span></span>
+<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-reuters">Reuters</a></span></span> </div>
+</span>
+<span class="image"><a href="https://www.theepochtimes.com/uk-leader-may-defies-leadership-revolt-warns-brexit-in-peril_2736662.html">
+<img alt="UK Leader May Defies Leadership Revolt, Warns Brexit in Peril" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/12/12/theresa-may-downing-street-dec-2018-205x123.jpg"><noscript><img alt="UK Leader May Defies Leadership Revolt, Warns Brexit in Peril" src="https://www.theepochtimes.com/assets/uploads/2018/12/12/theresa-may-downing-street-dec-2018-205x123.jpg"></noscript></a>
+</span>
+</li>
+<li>
+<span class="title_author_date">
+<div class="title"><a href="https://www.theepochtimes.com/us-weighs-china-travel-warning-over-huawei-case-sources_2736562.html">US Weighs China Travel Warning Over Huawei Case: Sources</a></div>
+<div class="author_date">
+<span class="date"><span class="time_diff">3hr</span></span>
+<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-reuters">Reuters</a></span></span> </div>
+</span>
+<span class="image"><a href="https://www.theepochtimes.com/us-weighs-china-travel-warning-over-huawei-case-sources_2736562.html">
+<img alt="US Weighs China Travel Warning Over Huawei Case: Sources" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/12/12/Great-Wall-of-China-205x123.jpg"><noscript><img alt="US Weighs China Travel Warning Over Huawei Case: Sources" src="https://www.theepochtimes.com/assets/uploads/2018/12/12/Great-Wall-of-China-205x123.jpg"></noscript></a>
+</span>
+</li>
+<li>
+<span class="title_author_date">
+<div class="title"><a href="https://www.theepochtimes.com/bomb-threat-at-facebooks-silicon-valley-campus-police-gives-the-all-clear_2736594.html">Bomb Threat at Facebook’s Silicon Valley Campus, Police Gives the ‘All Clear’</a></div>
+<div class="author_date">
+<span class="date"><span class="time_diff">6hr</span></span>
+<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-reuters">Reuters</a></span></span> </div>
+</span>
+<span class="image"><a href="https://www.theepochtimes.com/bomb-threat-at-facebooks-silicon-valley-campus-police-gives-the-all-clear_2736594.html">
+<img alt="Bomb Threat at Facebook’s Silicon Valley Campus, Police Gives the ‘All Clear’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/12/05/FB-205x123.jpg"><noscript><img alt="Bomb Threat at Facebook&#8217;s Silicon Valley Campus, Police Gives the &#8216;All Clear&#8217;" src="https://www.theepochtimes.com/assets/uploads/2018/12/05/FB-205x123.jpg"></noscript></a>
+</span>
+</li>
+<li>
+<span class="title_author_date">
+<div class="title"><a href="https://www.theepochtimes.com/senate-approves-farm-bill-compromise-that-avoids-food-stamp-cuts_2736328.html">Senate Approves Farm Bill Compromise That Avoids Food Stamp Cuts</a></div>
+<div class="author_date">
+<span class="date"><span class="time_diff">7hr</span></span>
+<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-reuters">Reuters</a></span></span> </div>
+</span>
+<span class="image"><a href="https://www.theepochtimes.com/senate-approves-farm-bill-compromise-that-avoids-food-stamp-cuts_2736328.html">
+<img alt="Senate Approves Farm Bill Compromise That Avoids Food Stamp Cuts" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/08/22/2018-08-22T052209Z_1_LYNXNPEE7L09C_RTROPTP_4_GLOBAL-WHEAT-205x123.jpg"><noscript><img alt="Senate Approves Farm Bill Compromise That Avoids Food Stamp Cuts" src="https://www.theepochtimes.com/assets/uploads/2018/08/22/2018-08-22T052209Z_1_LYNXNPEE7L09C_RTROPTP_4_GLOBAL-WHEAT-205x123.jpg"></noscript></a>
+</span>
+</li>
+<li>
+<span class="title_author_date">
+<div class="title"><a href="https://www.theepochtimes.com/stormy-daniels-ordered-to-pay-president-trump-293k-in-legal-fees_2736499.html">Stormy Daniels Ordered to Pay President Trump $293K in Legal Fees</a></div>
+<div class="author_date">
+<span class="date"><span class="time_diff">10hr</span></span>
+<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-mimi-nguyen-ly">Mimi Nguyen Ly</a></span></span> </div>
+</span>
+<span class="image"><a href="https://www.theepochtimes.com/stormy-daniels-ordered-to-pay-president-trump-293k-in-legal-fees_2736499.html">
+<img alt="Stormy Daniels Ordered to Pay President Trump $293K in Legal Fees" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/12/12/stormy-daniels-ordered-to-pay-trump-205x123.jpg"><noscript><img alt="Stormy Daniels Ordered to Pay President Trump $293K in Legal Fees" src="https://www.theepochtimes.com/assets/uploads/2018/12/12/stormy-daniels-ordered-to-pay-trump-205x123.jpg"></noscript></a>
+</span>
+</li>
+<li>
+<span class="title_author_date">
+<div class="title"><a href="https://www.theepochtimes.com/four-shot-dead-several-wounded-in-france_2736498.html">Four Shot Dead, Several Wounded in France</a></div>
+<div class="author_date">
+<span class="date"><span class="time_diff">10hr</span></span>
+<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-associated-press">The Associated Press</a></span></span> </div>
+</span>
+<span class="image"><a href="https://www.theepochtimes.com/four-shot-dead-several-wounded-in-france_2736498.html">
+<img alt="Four Shot Dead, Several Wounded in France" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/12/12/France-shooting-Strasbourg-e1544576251130-205x123.jpg"><noscript><img alt="Four Shot Dead, Several Wounded in France" src="https://www.theepochtimes.com/assets/uploads/2018/12/12/France-shooting-Strasbourg-e1544576251130-205x123.jpg"></noscript><span class="eet_video_icon"></span></a>
+</span>
+</li>
+<li>
+<span class="title_author_date">
+<div class="title"><a href="https://www.theepochtimes.com/google-ceo-wont-rule-out-launching-censorship-surveillance-app-in-china_2736308.html">Google CEO Won’t Rule Out Launching Censorship, Surveillance App in China</a></div>
+<div class="author_date">
+<span class="date"><span class="time_diff">11hr</span></span>
+<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-petr-svab">Petr Svab</a></span></span> </div>
+</span>
+<span class="image"><a href="https://www.theepochtimes.com/google-ceo-wont-rule-out-launching-censorship-surveillance-app-in-china_2736308.html">
+<img alt="Google CEO Won’t Rule Out Launching Censorship, Surveillance App in China" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/12/11/google-ceo-sundar-pichai-1071800658-205x123.jpg"><noscript><img alt="Google CEO Won’t Rule Out Launching Censorship, Surveillance App in China" src="https://www.theepochtimes.com/assets/uploads/2018/12/11/google-ceo-sundar-pichai-1071800658-205x123.jpg"></noscript><span class="eet_video_icon"></span></a>
+</span>
+</li>
+<li>
+<span class="title_author_date">
+<div class="title"><a href="https://www.theepochtimes.com/conservatives-perplexed-by-supreme-courts-refusal-to-hear-planned-parenthood-case_2736452.html">Conservatives Perplexed by Supreme Court’s Refusal to Hear Planned Parenthood Case</a></div>
+<div class="author_date">
+<span class="date"><span class="time_diff">11hr</span></span>
+<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-matthew-vadum">Matthew Vadum</a></span></span> </div>
+</span>
+<span class="image"><a href="https://www.theepochtimes.com/conservatives-perplexed-by-supreme-courts-refusal-to-hear-planned-parenthood-case_2736452.html">
+<img alt="Conservatives Perplexed by Supreme Court’s Refusal to Hear Planned Parenthood Case" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/11/05/9A6A9622_e-205x123.jpg"><noscript><img alt="Conservatives Perplexed by Supreme Court’s Refusal to Hear Planned Parenthood Case" src="https://www.theepochtimes.com/assets/uploads/2018/11/05/9A6A9622_e-205x123.jpg"></noscript></a>
+</span>
+</li>
+<li>
+<span class="title_author_date">
+<div class="title"><a href="https://www.theepochtimes.com/third-day-of-bail-hearing-for-huawei-cfo-meng-wanzhou-gets-underway_2735753.html">Huawei’s CFO Meng Wanzhou Granted Bail, Needs to Be Under 24/7 Surveillance</a></div>
+<div class="author_date">
+<span class="date"><span class="time_diff">12hr</span></span>
+<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-cora-yu">Cora Yu</a></span> and <span class="author_name"><a href="https://www.theepochtimes.com/author-margaret-wollensak">Margaret Wollensak</a></span></span> </div>
+</span>
+<span class="image"><a href="https://www.theepochtimes.com/third-day-of-bail-hearing-for-huawei-cfo-meng-wanzhou-gets-underway_2735753.html">
+<img alt="Huawei’s CFO Meng Wanzhou Granted Bail, Needs to Be Under 24/7 Surveillance" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/12/11/Huawei-Meng-Court-Dec10-205x123.jpg"><noscript><img alt="Huawei’s CFO Meng Wanzhou Granted Bail, Needs to Be Under 24/7 Surveillance" src="https://www.theepochtimes.com/assets/uploads/2018/12/11/Huawei-Meng-Court-Dec10-205x123.jpg"></noscript></a>
+</span>
+</li>
+<li>
+<span class="title_author_date">
+<div class="title"><a href="https://www.theepochtimes.com/a-movement-equal-in-numbers-to-the-us-population-is-changing-china_2736214.html">A Movement Equal in Number to US Population Is Changing China</a></div>
+<div class="author_date">
+<span class="date"><span class="time_diff">13hr</span></span>
+<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-jennifer-zeng">Jennifer Zeng</a></span></span> </div>
+</span>
+<span class="image"><a href="https://www.theepochtimes.com/a-movement-equal-in-numbers-to-the-us-population-is-changing-china_2736214.html">
+<img alt="A Movement Equal in Number to US Population Is Changing China" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://www.theepochtimes.com/assets/uploads/2018/12/11/Flushing_Parade-BenjaminChasteen-7858-20150425-205x123.jpg"><noscript><img alt="A Movement Equal in Number to US Population Is Changing China" src="https://www.theepochtimes.com/assets/uploads/2018/12/11/Flushing_Parade-BenjaminChasteen-7858-20150425-205x123.jpg"></noscript></a>
+</span>
+</li>
+</ul>
+</div> </div>
 </div>
 </main>
 <footer id="footer">
-<div class="center_content">
-<div class="subscribe_logo">
-<span class="print">
-<a href="https://subscribe.epochtimes.com/?utm_source=referrer&amp;utm_medium=web%20link&amp;utm_campaign=theepochtimes.com&amp;utm_content=header%20link">
-<span class="subs">
-<div class="block_title">PRINT EDITION</div>
-<div class="button">Subscribe</div>
-</span>
+<div class="container">
+<div class="topbar">
+<div class="logo">
+<a href="https://www.theepochtimes.com">
+<img src="https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg">
 </a>
-</span>
-<span class="logo">
-<a href="https://www.theepochtimes.com"><img src="https://www.theepochtimes.com/assets/themes/eet/images/footer_EET.svg"></a>
-</span>
-<span class="newsletter">
-<a href="https://www.theepochtimes.com/newsletter">
-<span class="subs">
-<div class="block_title">EPOCH NEWSLETTERS</div>
-<div class="button">Subscribe</div>
-</span>
+</div>
+<div class="icon_wrapper">
+<a class="subscribe" href="https://subscribe.epochtimes.com/?utm_source=theepochtimes.com&amp;utm_medium=static_link&amp;utm_campaign=page_link&amp;utm_content=footer_subscribe_link&amp;utm_term=/privacy-notice">
+<span>subscribe</span>
 </a>
-</span>
-</div>
-<div class="boundary">
-<span class="left"></span>
-<span class="mid">35 COUNTRIES, 23 LANGUAGES</span>
-<span class="right"></span>
-</div>
-<div class="menu_items">
-<div class="languages">
-<div class="block_title">LANGUAGES</div>
-<ul class="clear">
-<li><a href="http://www.budnaera.com/">Bulgarian</a></li><li><a href="http://www.epochtimes.com/">Chinese</a></li><li><a href="http://www.velkaepocha.cz/">Czech</a></li><li><a href="http://www.theepochtimes.com/">English</a></li><li><a href="http://www.epochtimes.fr/">French</a></li><li><a href="http://www.epochtimes.de/">German</a></li><li><a href="http://www.epochtimes.co.il/">Hebrew</a></li><li><a href="http://www.erabaru.net/">Indonesian</a></li><li><a href="http://www.epochtimes.it/">Italian</a></li><li><a href="http://www.epochtimes.jp/">Japanese</a></li><li><a href="http://www.epochtimes.co.kr/">Korean</a></li><li><a href="http://persian.epochtimes.com/">Persian</a></li><li><a href="https://www.epochtimes.com.br/">Portuguese</a></li><li><a href="http://www.epochtimes-romania.com/">Romanian</a></li><li><a href="http://www.epochtimes.ru/">Russian</a></li><li><a href="http://www.epochtimes.cz/">Slovak</a></li><li><a href="https://www.lagranepoca.com/">Spanish</a></li><li><a href="https://www.epochtimes.se/">Swedish</a></li><li><a href="http://epochtimestr.com/">Turkish</a></li><li><a href="http://www.epochtimes.com.ua/">Ukrainian</a></li><li><a href="http://www.daikynguyenvn.com/">Vietnamese</a></li> </ul>
-</div>
-<div class="categories">
-<div class="menu-front-page-primary-container"><ul id="menu-front-page-primary" class="nav-menu"><li id="menu-item-2298321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us menu-item-2298321"><a href="https://www.theepochtimes.com/c-us">US</a></li>
-<li id="menu-item-2298322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298322"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
-<li id="menu-item-2298323" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china menu-item-2298323"><a href="https://www.theepochtimes.com/c-china">China</a></li>
-<li id="menu-item-2298324" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-world menu-item-2298324"><a href="https://www.theepochtimes.com/c-world">World</a></li>
-<li id="menu-item-2322369" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-uk menu-item-2322369"><a href="https://www.theepochtimes.com/c-uk">UK</a></li>
-<li id="menu-item-2298325" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-opinion menu-item-2298325"><a href="https://www.theepochtimes.com/c-opinion">Opinion</a></li>
-<li id="menu-item-2298326" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business menu-item-2298326"><a href="https://www.theepochtimes.com/c-business">Business</a></li>
-<li id="menu-item-2298327" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-science-tech menu-item-2298327"><a href="https://www.theepochtimes.com/c-science">Science &amp; Tech</a></li>
-<li id="menu-item-2298328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-wellness menu-item-2298328"><a href="https://www.theepochtimes.com/c-health">Wellness</a></li>
-<li id="menu-item-2458283" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-food menu-item-2458283"><a href="https://www.theepochtimes.com/c-food-dining">Food</a></li>
-<li id="menu-item-2298331" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-arts menu-item-2298331"><a href="https://www.theepochtimes.com/c-arts-culture">Arts</a></li>
-<li id="menu-item-2298332" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-entertainment menu-item-2298332"><a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a></li>
-<li id="menu-item-2298371" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-uplift menu-item-2298371"><a href="https://www.theepochtimes.com/c-uplift">Uplift</a></li>
-</ul></div> </div>
-<div class="others">
-<a href="https://www.theepochtimes.com/newsletter">Newsletter</a>
-<a href="https://www.theepochtimes.com/advertise">Advertise</a>
-<a href="https://www.theepochtimes.com/about-us">About Us</a>
-<a href="https://www.theepochtimes.com/contact-us">Contact Us</a>
-<a href="https://subscribe.epochtimes.com/?utm_source=referrer&amp;utm_medium=web%20link&amp;utm_campaign=theepochtimes.com&amp;utm_content=header%20link">Print Editions</a>
-<a href="http://printarchive.epochtimes.com/a1/en/">Print Archives</a>
-<a href="https://www.theepochtimes.com/rssfeeds">RSS Feeds</a>
-<a href="https://www.theepochtimes.com/terms-of-service">Terms of Services</a>
-<a href="https://www.theepochtimes.com/privacy-notice">Privacy Policy</a>
-<a href="https://www.theepochtimes.com/copyright-infringement-notification">Copyright Policy</a>
+<a class="newsletter" href="https://www.theepochtimes.com/newsletter">
+<span>newsletter</span>
+</a>
+<a class="donate" href="https://www.theepochtimes.com/support-independent-journalism">
+<span>donate</span>
+</a>
 </div>
 </div>
-<div class="copyright">Copyright @ 2000 - 2018</div>
+<div class="menu-feature-menu-container"><ul id="menu-feature-menu" class="nav-menu"><li id="menu-item-2635414" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-top-news menu-item-2635414"><a href="https://www.theepochtimes.com/top-news">Top News</a></li>
+<li id="menu-item-2635484" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-featured-video menu-item-2635484"><a href="https://www.theepochtimes.com/c-video">Featured Video</a></li>
+<li id="menu-item-2635462" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-trump-presidency menu-item-2635462"><a href="https://www.theepochtimes.com/c-trump-presidency">Trump Presidency</a></li>
+<li id="menu-item-2635427" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-editors-picks menu-item-2635427"><a href="https://www.theepochtimes.com/editors-picks">Editor’s Picks</a></li>
+<li id="menu-item-2635429" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-featured-news menu-item-2635429"><a href="https://www.theepochtimes.com/featured-news">Featured News</a></li>
+<li id="menu-item-2635433" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-special-series menu-item-2635433"><a href="https://www.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world">SPECIAL SERIES</a></li>
+<li id="menu-item-2635480" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-special-coverage menu-item-2635480"><a href="https://www.theepochtimes.com/c-shen-yun">Special Coverage</a></li>
+</ul></div> <div class="link_menu">
+<ul class="others">
+<li><a href="https://subscribe.epochtimes.com/?utm_source=theepochtimes.com&amp;utm_medium=static_link&amp;utm_campaign=page_link&amp;utm_content=footer_subscribe_link&amp;utm_term=/privacy-notice">Subscribe</a></li>
+<li><a href="https://www.theepochtimes.com/advertise">Advertise</a></li>
+<li><a href="https://www.theepochtimes.com/about-us">About Us</a></li>
+<li><a href="https://www.theepochtimes.com/contact-us">Contact Us</a></li>
+<li><a href="https://www.theepochtimes.com/support-independent-journalism">Donate</a></li>
+<li><a href="https://www.theepochtimes.com/rssfeeds">RSS Feeds</a></li>
+<li><a href="https://www.theepochtimes.com/terms-of-service">Terms of Services</a></li>
+<li><a href="https://www.theepochtimes.com/privacy-notice">Privacy Policy</a></li>
+<li><a href="https://www.theepochtimes.com/copyright-infringement-notification">Copyright Policy</a></li>
+<li><a href="https://reader.epoch.cloud/" target="_blank">Digital Newspaper</a></li>
+</ul>
+<div class="block_title">35 COUNTRIES, 23 LANGUAGES</div>
+<ul class="languages clear">
+<li><a href="https://www.theepochtimes.com/">English</a></li><li><a href="https://www.epochtimes.com/">Chinese</a></li><li><a href="https://www.lagranepoca.com/">Spanish</a></li><li><a href="http://www.epochtimes.co.il/">Hebrew</a></li><li><a href="https://www.epochtimes.jp/">Japanese</a></li><li><a href="http://www.epochtimes.co.kr/">Korean</a></li><li><a href="http://www.erabaru.net/">Indonesian</a></li><li><a href="https://www.epochtimes.fr/">French</a></li><li><a href="https://www.epochtimes.de/">German</a></li><li><a href="https://www.epochtimes.it/">Italian</a></li><li><a href="https://www.epochtimes.com.br/">Portuguese</a></li><li><a href="https://www.epochtimes.se/">Swedish</a></li><li><a href="https://www.epochtimes.nl/">Dutch</a></li><li><a href="https://www.epochtimes.ru/">Russian</a></li><li><a href="https://www.epochtimes.com.ua/">Ukrainian</a></li><li><a href="https://www.epochtimes-romania.com/">Romanian</a></li><li><a href="http://www.velkaepocha.cz/">Czech</a></li><li><a href="http://www.epochtimes.cz/">Slovak</a></li><li><a href="https://epochtimes.pl/">Polish</a></li><li><a href="http://epochtimestr.com/">Turkish</a></li><li><a href="http://www.budnaera.com/">Bulgarian</a></li><li><a href="http://persian.epochtimes.com/">Persian</a></li> </ul>
+</div>
+<div class="full_menu_items">
+<span class="first_col"><div class="menu-front-main-column1-container"><ul id="menu-front-main-column1" class="nav-menu"><li id="menu-item-2298344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-us menu-item-2298344"><a href="https://www.theepochtimes.com/c-us">US</a>
+<ul class="sub-menu">
+<li id="menu-item-2298345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-news menu-item-2298345"><a href="https://www.theepochtimes.com/c-us-news">US News</a></li>
+<li id="menu-item-2298346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-features menu-item-2298346"><a href="https://www.theepochtimes.com/c-us-features">US Features</a></li>
+<li id="menu-item-2298348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298348"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
+<li id="menu-item-2638693" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-crime-and-incidents menu-item-2638693"><a href="https://www.theepochtimes.com/c-crime-us">Crime and Incidents</a></li>
+<li id="menu-item-2638696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-new-york menu-item-2638696"><a href="https://www.theepochtimes.com/c-nyc">New York</a></li>
+<li id="menu-item-2654668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-san-francisco menu-item-2654668"><a href="https://www.theepochtimes.com/c-nor-cal-san-francisco">San Francisco</a></li>
+<li id="menu-item-2654669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-los-angeles menu-item-2654669"><a href="https://www.theepochtimes.com/c-so-cal-los-angeles">Los Angeles</a></li>
+</ul>
+</li>
+<li id="menu-item-2298352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298352"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
+<li id="menu-item-2638699" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-opinion menu-item-2638699"><a href="https://www.theepochtimes.com/c-opinion">Opinion</a>
+<ul class="sub-menu">
+<li id="menu-item-2638700" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-thinking-about-china menu-item-2638700"><a href="https://www.theepochtimes.com/c-thinking-about-china">Thinking About China</a></li>
+<li id="menu-item-2638701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-viewpoints menu-item-2638701"><a href="https://www.theepochtimes.com/c-viewpoints">Viewpoints</a></li>
+<li id="menu-item-2638703" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-the-readers-turn menu-item-2638703"><a href="https://www.theepochtimes.com/c-readers-turn">The Reader’s Turn</a></li>
+</ul>
+</li>
+</ul></div></span>
+<span class="second_col"><div class="menu-front-main-column2-container"><ul id="menu-front-main-column2" class="nav-menu"><li id="menu-item-2638657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-china menu-item-2638657"><a href="https://www.theepochtimes.com/c-china">China</a>
+<ul class="sub-menu">
+<li id="menu-item-2638661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-us-news menu-item-2638661"><a href="https://www.theepochtimes.com/c-china-us-news">China-US News</a></li>
+<li id="menu-item-2638685" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-regime menu-item-2638685"><a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a></li>
+<li id="menu-item-2638658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business-economy menu-item-2638658"><a href="https://www.theepochtimes.com/c-business-economy">Business &amp; Economy</a></li>
+<li id="menu-item-2638663" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-culture menu-item-2638663"><a href="https://www.theepochtimes.com/c-culture">Chinese Culture</a></li>
+<li id="menu-item-2638659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-human-rights menu-item-2638659"><a href="https://www.theepochtimes.com/c-human-rights">China Human Rights</a></li>
+<li id="menu-item-2638660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-society menu-item-2638660"><a href="https://www.theepochtimes.com/c-society">China Society</a></li>
+<li id="menu-item-2638666" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-nine-commentaries menu-item-2638666"><a href="https://www.theepochtimes.com/c-nine-commentaries">Nine Commentaries</a></li>
+<li id="menu-item-2638667" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-organ-harvesting-in-china menu-item-2638667"><a href="https://www.theepochtimes.com/c-organ-harvesting-in-china">Organ Harvesting in China</a></li>
+</ul>
+</li>
+<li id="menu-item-2638669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-world menu-item-2638669"><a href="https://www.theepochtimes.com/c-world">World</a>
+<ul class="sub-menu">
+<li id="menu-item-2638670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-africa menu-item-2638670"><a href="https://www.theepochtimes.com/c-africa">Africa</a></li>
+<li id="menu-item-2638671" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-americas menu-item-2638671"><a href="https://www.theepochtimes.com/c-americas">Americas</a></li>
+<li id="menu-item-2638672" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-asia-pacific menu-item-2638672"><a href="https://www.theepochtimes.com/c-asia-pacific">Asia &amp; Pacific</a></li>
+<li id="menu-item-2638673" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-canada menu-item-2638673"><a href="https://www.theepochtimes.com/c-canada">Canada</a></li>
+<li id="menu-item-2638674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-europe menu-item-2638674"><a href="https://www.theepochtimes.com/c-europe">Europe</a></li>
+<li id="menu-item-2654636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-uk menu-item-2654636"><a href="https://www.theepochtimes.com/c-uk">UK</a></li>
+<li id="menu-item-2654635" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-australia menu-item-2654635"><a href="https://www.theepochtimes.com/c-australia">Australia</a></li>
+<li id="menu-item-2638676" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-india menu-item-2638676"><a href="https://www.theepochtimes.com/c-india">India</a></li>
+<li id="menu-item-2638677" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-international menu-item-2638677"><a href="https://www.theepochtimes.com/c-international">International</a></li>
+<li id="menu-item-2638679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-middle-east menu-item-2638679"><a href="https://www.theepochtimes.com/c-middle-east">Middle East</a></li>
+</ul>
+</li>
+<li id="menu-item-2298376" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-business menu-item-2298376"><a href="https://www.theepochtimes.com/c-business">Business</a>
+<ul class="sub-menu">
+<li id="menu-item-2298377" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-companies menu-item-2298377"><a href="https://www.theepochtimes.com/c-companies">Companies</a></li>
+<li id="menu-item-2298378" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-economies menu-item-2298378"><a href="https://www.theepochtimes.com/c-economies">Economies</a></li>
+<li id="menu-item-2298379" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-markets menu-item-2298379"><a href="https://www.theepochtimes.com/c-markets">Markets</a></li>
+<li id="menu-item-2298380" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-real-estate menu-item-2298380"><a href="https://www.theepochtimes.com/c-real-estate">Real Estate</a></li>
+</ul>
+</li>
+</ul></div></span>
+<span class="third_col"><div class="menu-front-main-column3-container"><ul id="menu-front-main-column3" class="nav-menu"><li id="menu-item-2298402" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-arts menu-item-2298402"><a href="https://www.theepochtimes.com/c-arts-culture">Arts</a>
+<ul class="sub-menu">
+<li id="menu-item-2298404" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-shen-yun-special-coverage menu-item-2298404"><a href="http://shenyun.theepochtimes.com/">Shen Yun Special Coverage</a></li>
+<li id="menu-item-2298405" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-featured-topic-the-classics menu-item-2298405"><a href="https://www.theepochtimes.com/the-classics-looking-back-looking-forward">Featured Topic: The Classics</a></li>
+<li id="menu-item-2298406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-performing-arts menu-item-2298406"><a href="https://www.theepochtimes.com/c-performing-arts">Performing Arts</a></li>
+<li id="menu-item-2298407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-fine-arts menu-item-2298407"><a href="https://www.theepochtimes.com/c-fine-arts">Fine Arts</a></li>
+<li id="menu-item-2298408" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-literature menu-item-2298408"><a href="https://www.theepochtimes.com/c-literature">Literature</a></li>
+</ul>
+</li>
+<li id="menu-item-2638641" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-science menu-item-2638641"><a href="https://www.theepochtimes.com/c-science">Science</a>
+<ul class="sub-menu">
+<li id="menu-item-2638642" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-news menu-item-2638642"><a href="https://www.theepochtimes.com/c-science-news">News</a></li>
+<li id="menu-item-2638643" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-beyond-science menu-item-2638643"><a href="https://www.theepochtimes.com/c-uplift-beyond-science">Beyond Science</a></li>
+<li id="menu-item-2638645" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-space menu-item-2638645"><a href="https://www.theepochtimes.com/c-space">Space</a></li>
+<li id="menu-item-2638646" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-environment menu-item-2638646"><a href="https://www.theepochtimes.com/c-environment">Environment</a></li>
+</ul>
+</li>
+<li id="menu-item-2638648" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-tech menu-item-2638648"><a href="https://www.theepochtimes.com/c-tech">Tech</a>
+<ul class="sub-menu">
+<li id="menu-item-2638649" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech-news menu-item-2638649"><a href="https://www.theepochtimes.com/c-tech-news">Tech News</a></li>
+<li id="menu-item-2638650" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech-products-reviews menu-item-2638650"><a href="https://www.theepochtimes.com/c-products-reviews">Tech Products &amp; Reviews</a></li>
+<li id="menu-item-2638651" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-social-media menu-item-2638651"><a href="https://www.theepochtimes.com/c-tech-social-media">Social Media</a></li>
+</ul>
+</li>
+<li id="menu-item-2638653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-sports menu-item-2638653"><a href="https://www.theepochtimes.com/c-sports">Sports</a></li>
+<li id="menu-item-2664345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-food menu-item-2664345"><a href="https://www.theepochtimes.com/c-food-dining">Food</a></li>
+</ul></div></span>
+<span class="fourth_col"><div class="menu-front-main-column4-container"><ul id="menu-front-main-column4" class="nav-menu"><li id="menu-item-2298413" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-title-life menu-item-2298413"><a href="https://www.theepochtimes.com/c-life">Life</a>
+<ul class="sub-menu">
+<li id="menu-item-2298414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-slice-of-life menu-item-2298414"><a href="https://www.theepochtimes.com/c-slice-of-life">Slice of Life</a></li>
+<li id="menu-item-2638610" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-good-to-know menu-item-2638610"><a href="https://www.theepochtimes.com/c-good-to-know">Good to Know</a></li>
+<li id="menu-item-2298416" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-inspired menu-item-2298416"><a href="https://www.theepochtimes.com/c-inspired">Inspired</a></li>
+<li id="menu-item-2298417" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-autos menu-item-2298417"><a href="https://www.theepochtimes.com/c-autos">Autos</a></li>
+<li id="menu-item-2298418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-careers menu-item-2298418"><a href="https://www.theepochtimes.com/c-careers">Careers</a></li>
+<li id="menu-item-2298419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-family menu-item-2298419"><a href="https://www.theepochtimes.com/c-family-life-2">Family</a></li>
+<li id="menu-item-2298420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-education menu-item-2298420"><a href="https://www.theepochtimes.com/c-education-video">Education</a></li>
+<li id="menu-item-2298421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-travel menu-item-2298421"><a href="https://www.theepochtimes.com/c-travel">Travel</a></li>
+</ul>
+</li>
+<li id="menu-item-2638612" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-entertainment menu-item-2638612"><a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a>
+<ul class="sub-menu">
+<li id="menu-item-2638613" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-reviews menu-item-2638613"><a href="https://www.theepochtimes.com/c-film-reviews">Film Reviews</a></li>
+<li id="menu-item-2638614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-tv menu-item-2638614"><a href="https://www.theepochtimes.com/c-film-tv">Film &amp; TV</a></li>
+<li id="menu-item-2638615" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-entertainment-news menu-item-2638615"><a href="https://www.theepochtimes.com/c-entertainment-news">Entertainment News</a></li>
+</ul>
+</li>
+<li id="menu-item-2638618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-wellness menu-item-2638618"><a href="https://www.theepochtimes.com/c-health">Wellness</a>
+<ul class="sub-menu">
+<li id="menu-item-2638619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-news menu-item-2638619"><a href="https://www.theepochtimes.com/c-health-news">News</a></li>
+<li id="menu-item-2638622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-fitness-nutrition menu-item-2638622"><a href="https://www.theepochtimes.com/c-fitness-nutrition">Fitness &amp; Nutrition</a></li>
+<li id="menu-item-2638623" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-traditional-chinese-medicine menu-item-2638623"><a href="https://www.theepochtimes.com/c-traditional-chinese-medicine">Traditional Chinese Medicine</a></li>
+<li id="menu-item-2638624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-alternative-health menu-item-2638624"><a href="https://www.theepochtimes.com/c-alternative-health">Alternative Health</a></li>
+<li id="menu-item-2638626" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-treatments-and-techniques menu-item-2638626"><a href="https://www.theepochtimes.com/c-treatments-and-techniques">Treatments and Techniques</a></li>
+</ul>
+</li>
+</ul></div></span>
+</div>
+<div class="copyright clear">Copyright @ 2000 - 2018</div>
 </div>
 <div id="backtotop">
 <a title="back to top" href="javascript:void(0);" class="totop"></a>
 </div>
 <div class="cookie-bar">
-<span class="warning-text">We use cookies to understand how you use our site and to improve your experience. This includes personalizing content and advertising. By continuing to use our site, you accept our use of cookies, revised Privace Policy and Terms of Use.</span>
-<span class="read-more"><a href="https://www.theepochtimes.com/privacy-notice" target="_blank">More infomation</a></span><span class="accept-btn"><a href="#">I accept</a></span><span id="top_close"><a href="javascript:void(0)" id="x_close">×</a></span>
+<span class="warning-text">We use cookies to understand how you use our site and to improve your experience. This includes personalizing content and advertising. By continuing to use our site, you accept our use of cookies, revised Privacy Policy and Terms of Use.</span>
+<span class="read-more"><a href="https://www.theepochtimes.com/privacy-notice">More infomation</a></span><span class="accept-btn"><a href="#">I accept</a></span><span id="top_close"><a href="javascript:void(0)" id="x_close">×</a></span>
 </div></footer>
-<script>	  
+<script type="text/javascript" src="//www.youmaker.com/js/jwplayer/jwplayer8-all.js"></script>
+<link rel="stylesheet" target="_blank" href="//www.youmaker.com/css/api2.css" type="text/css" media="all">
+<script>
 	  if ( typeof(eet_primary_category) != "undefined" && eet_primary_category !== null ) {
 		  ga('set', 'dimension1', eet_primary_category);
 	  }
@@ -527,7 +702,7 @@ writing to the following postal address:<br>
 	  if ( typeof(eet_word_count) != "undefined" && eet_word_count !== null ) {
 		  ga('set', 'dimension33', eet_word_count);
 	  }
-	  
+
 	  if ( typeof(epoch.uuid) != "undefined" && epoch.uuid !== null ) {
 		  ga('set', 'dimension38', epoch.uuid);
 	  }
@@ -570,8 +745,6 @@ writing to the following postal address:<br>
 <script type="text/javascript" src="https://www.theepochtimes.com/assets/themes/eet/js/jquery-all.min.js?ver=20170224"></script>
 <script type="text/javascript" src="https://www.theepochtimes.com/assets/themes/eet/js/bottom.js?ver=20180530"></script>
 <script type="text/javascript" src="https://www.theepochtimes.com/assets/themes/eet/js/article_ads.js?ver=20170324"></script>
-
-
 
 
 </body></html>
