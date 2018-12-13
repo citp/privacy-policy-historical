@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capemaycountyherald.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032708id_/http%3A//www.capemaycountyherald.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capemaycountyherald.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213225024id_/https%3A//www.capemaycountyherald.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | capemaycountyherald.com
 
@@ -35,6 +35,10 @@ From time to time, we may offer contests, sweepstakes or other promotions (“Sw
  **Email Newsletters**
 
 We may offer you the opportunity to subscribe to email newsletters on topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you may always unsubscribe later if you decide not to receive further mailings of the newsletter from us. Please see the “Opt Out” section below.
+
+ **Prohibited Uses**
+
+This Site is not intended for use by persons located within the European Economic Area (EEA). We do not request or accept personal information concerning or supplied by persons who are located within the EEA at the time they access this Site. If you have accessed this Site from within the EEA, you should immediately discontinue your use. If you have supplied personal information to us in violation of this provision, whether through the registration of new user accounts or otherwise, please contact us at admin@cmcherald.com.
 
  **Information Sharing and Disclosure**
 
@@ -84,4 +88,4 @@ The Site is not directed to children under 18 years old. If a parent or guardian
 
 Questions regarding this Privacy Policy or the practices of the Site should be directed to our Privacy Administrator, by e-mailing such questions to admin@cmcherald.com or by regular mail to: Seawave Corporation, 1508 Route 47, Rio Grande, NJ 08242.
 
-©2012 Seawave Corporation. All rights reserved.
+©2018 Seawave Corporation. All rights reserved.
