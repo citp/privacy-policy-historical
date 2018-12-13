@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pta.gov.pk privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311212159id_/https%3A//www.pta.gov.pk/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pta.gov.pk privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213235441id_/https%3A//pta.gov.pk/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PTA
 
