@@ -1,62 +1,71 @@
-> *The following text is extracted and transformed from the chelseasmessyapron.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626170907id_/http%3A//chelseasmessyapron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chelseasmessyapron.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213054954id_/https%3A//www.chelseasmessyapron.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Chelsea's Messy Apron
+# Privacy Policy/Disclaimer | Chelsea's Messy Apron
 
-This policy is valid from October 1, 2013.
+Last updated: March 9, 2018
 
-If you have any questions about my privacy policy, please feel free to contact me at chelseasmessyapron (at) gmail.com
+Chelsea’s Messy Apron, LLC (“us”, “we”, or “our”) operates https://www.chelseasmessyapron.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-At www.chelseasmessyapron.com, the privacy of my guests is of utmost importance to me. This privacy policy outlines the type of personal information that is received and collected by www.chelseasmessyapron.com and how it is used.
+The privacy of visitors here to Chelsea’s Messy Apron is very important to us. We only use your Personal Information for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
-**USING MY CONTENT**
+### **Information Collection And Use**
 
-I work very hard on each and every recipe you see on Chelsea’s Messy Apron! I want my readers to have the best possible content. If you would like to use one of my recipes or any of the pictures on my site, please give the proper credit to me. This can be done by linking back to my site. If you do use one of my recipes, please link back to the page where you found the recipe. Thank you!
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name and email address.
 
-**LOG FILES**
+### **Log files**
 
 Like many other Web sites, www.chelseamessyapron.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**GOOGLE ADSENSE AND THE DOUBLE-CLICK DART COOKIE**
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this information.
+
+### **Doubleclick Dart Cookie**
 
 Google, as a third party advertisement vendor, uses cookies to serve ads on www.chelseasmessyapron.com. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url<http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url: [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html) Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies. Chelsea’s Messy Apron has no access or control over these cookies that may be used by third party advertisers.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this Site to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies. Chelsea’s Messy Apron has no access or control over these cookies that may be used by third party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.
+### **Cookies**
 
-Chelsea’s Messy Apron’s privacy policy does not apply to, and I cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-**LINKS TO THIRD PARTY WEBSITES**
+Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
-I have included links on this site for your use and reference. I am not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from www.chelseasmessyapron.com.
+### **Links to third-party websites**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+Chelsea’s Messy Apron includes links to external, or third party websites. Chelsea’s Messy Apron’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
 
-**NOTICE REGARDING ONLINE BEHAVIORAL ADVERTISING**
+### **Security**
 
-We allow third party companies to serve ads and/or collect certain anonymous information  
-when you visit our Web site.  These companies may use non-personally identifiable information  
-(e.g. click stream information, browser type, time and date, subject of advertisements clicked  
-or scrolled over) during your visits to this and other Web sites in order to provide  
-advertisements about goods and services likely to be of greater interest to you.  These  
-companies typically use a cookie or third party web beacon to collect this information.  To learn  
-more about this behavioral advertising practice visit the NAI at[http://www.networkadvertising.org](http://www.networkadvertising.org/).  To  
-opt-out of this type of advertising, you can visit<http://www.aboutads.info/choices>.
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. We never sell your personal information to third parties.
 
-**DISCLOSURE**
+### **Changes To This Privacy Policy**
 
-This blog is a personal blog written and edited by me. This blog does not accept any form of advertising, sponsorship, or paid insertions. I write for my own purposes. However, I may be influenced by my background, occupation, religion, political affiliation or experience.
+We reserve the right to update or change our Privacy Policy at any time. You should check this page periodically to ensure that you are aware of the current policy. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
-The compensation received will never influence the content, topics or posts made in this blog. All advertising is in the form of advertisements generated by a third party ad network. Those advertisements will be identified as paid advertisements.
+If you have any questions regarding the privacy policy of Chelsea’s Messy Apron then you may contact us by clicking [here](https://www.chelseasmessyapron.com/contact/).
 
-I am not compensated to provide opinion on products, services, websites and various other topics. The views and opinions expressed on this blog are purely my own opinions. If I claim or appear to be an expert on a certain topic or product or service area, I will only endorse products or services that I believe, based on my expertise, are worthy of such endorsement. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer or provider.
+### **Amazon Services LLC Associates Program  **
 
-This blog does not contain any content which might present a conflict of interest.
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
-**CHANGES TO THIS PRIVACY STATEMENT**
+### Nutrition Information Disclaimer
 
-The contents of this statement may be altered at any time, at my discretion.
+The writers and publishers of chelseasmessyapron.com are not nutritionists or registered dietitians.
 
-If you have any questions regarding the privacy policy of Chelsea’s Messy Apron then you may contact me by clicking [here](http://chelseasmessyapron.com/contact/).
+This website and recipes onchelseasmessyapron.com, are produced for informational purposes only. Statements within this site have not been evaluated or approved by the Food and Drug Administration. This website is not intended to cure, prevent, diagnose or treat any disease. Content should not be considered a substitute for professional medical advice, expertise or treatment.
+
+The reader assumes full responsibility for consulting a qualified health professional regarding health conditions or concerns, and before starting a new health program or diet. The writer(s) and publisher(s) of this site are not responsible for adverse reactions, effects, or consequences resulting from the use of any suggestions ore recipes herein or procedures undertaken hereafter.
+
+This website is not intended as nutritional advice and readers of this website are ultimately responsible for all decisions pertaining to their health.
+
+Occasionally, this website, chelseasmessyapron.com, may offer estimated nutritional information for recipes contained on this website, such as calories, fat, carbs, etc. This information is provided as a courtesy and is not guaranteed to be accurate. This nutritional information comes from online calculators. Althoughchelseasmessyapron.com attempts to provide accurate nutritional information, these figures are only estimates.
+
+Various factors can change the nutritional information in any given recipe. These factors include but are not limited to the actual brands used. Also, different online calculators sometimes provide different results based on their own algorithms and nutrition fact sources. Under no circumstances will chelseasmessyapron.com and the recipe creators be responsible for any loss or damage resulting from your reliance on the nutritional information that may be provided.
+
+To obtain the most accurate representation of the nutritional information in any given recipe, you should calculate the nutritional information with the actual ingredients you use in your recipe, using your preferred nutrition calculator, or your own nutritionist or medical professional. **You are solely responsible for ensuring that any nutritional information obtained is accurate.**
+
+The writer(s) and publisher(s) ofchelseasmessyapron.com are not responsible for adverse reactions, consequences or effects, resulting from the use of any recipes or suggestions herein or procedures undertaken hereafter. This website is not intended as nutritional advice and readers of this website are ultimately responsible for all decisions pertaining to their health.
+
+This website is not intended as nutritional advice and readers of this website are ultimately responsible for all decisions pertaining to their health.
