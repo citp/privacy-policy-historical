@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the gaycities.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924223301id_/http%3A//www.gaycities.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaycities.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213182904id_/https%3A//www.gaycities.com/about/privacy) for the most accurate reproduction.*
 
-# GayCities Privacy Policy - GayCities
-
-  
-
-
-Join GayCities, the fun way to discover the world
-
-See where your friends and people like you are going and what they say about places and events worldwide. 
-
-  
-
+# GayCities Terms of Use - GayCities
 
 Like most websites, we collect certain information about you in order to provide the service. We care about your privacy and want to make sure you know what we do with this info. We abide by a few simple privacy principles: 
 
@@ -28,7 +18,7 @@ This site thrives on its community and the info and events, answers, checks and 
 
   * #### When you connect your account to a third party service, that service shares info with us
 
-This site allows you to connect your account to your accounts on other services like facebook, twitter, or foursquare. When you connect, you enable additional functionality on your account, making it easier to share with your friends and this site's visitors. To make these features work, the other service needs to share information with us (eg. to display your profile pic, post your event attendances, or post your mobile checkins). When you ask us to, we can publish information to the other service as well (eg. share this checkin on facebook or twitter). This is completely optional and you can always disable this service from the "My Account" screen. Each of these services also provides their own way to disable the sharing on their site. See the privacy policies for [facebook](https://www.facebook.com/policy.php), [foursquare](https://foursquare.com/legal/privacy), and [twitter](https://twitter.com/privacy).
+This site allows you to connect your account to your accounts on other services like facebook, twitter, or foursquare. When you connect, you enable additional functionality on your account, making it easier to share with your friends and this site's visitors. To make these features work, the other service needs to share information with us (eg. to display your profile pic, post your event attendances, or post your mobile checkins). When you ask us to, we can publish information to the other service as well (eg. share this checkin on facebook or twitter). This is completely optional and you can always disable this service from the "My Account" screen. Each of these services also provides their own way to disable the sharing on their site. See the privacy policies for [facebook](https://www.facebook.com/policy.php), [foursquare](http://foursquare.com/legal/privacy), and [twitter](https://twitter.com/privacy).
   
 
   * #### We use cookies to remember you
@@ -54,7 +44,8 @@ If our privacy policy changes, we will post a notice on our site and specificall
   * #### Our Mailing Address
 
 Any notices or requests can be mailed to:  
-GayCities, Inc.  
+GayCities  
+Q.Digital, Inc.  
 584 Castro St. #623  
 San Francisco, CA 94114 
 
