@@ -1,85 +1,213 @@
-> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319190039id_/http%3A//www.divx.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213170258id_/http%3A//www.divx.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DivX.com
 
-DivX, LLC ("Company") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our websites, located at [www.divx.com](https://web.archive.org/) ("Site") and Services (as defined in the Terms of Use). Capitalized terms not defined in this Privacy Policy have the meaning given in our Terms of Use located at <http://www.divx.com/terms-of-use>.
+DivX.com Privacy Policy
 
-1\. User Consent. By submitting Personal Data through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Data in accordance with this Privacy Policy.
+DivX, LLC ("Company") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our websites, located at [www.divx.com](http://www.divx.com/ "www.divx.com") ("Site") and of our software products and services.
 
-2\. A Note About Children. We do not intentionally gather Personal Data about visitors under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Data such parent should contact us at [privacy@divx.com](mailto:noel.egnatios@divxllc.com). If we become aware that a child under 13 with Personal Data, we will take reasonable steps to delete such Personal Data from our files.
+This Privacy Policy, together with our Terms of Use located at <http://www.divx.com/terms-of-use>, governs your use of the Site and the Company’s software products and services.  Capitalized terms not defined in this Privacy Policy have the meaning given in our Terms of Use **.**
 
-3\. A Note to Users Outside of the United States. Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country.
+**Users located in the European Economic Area (EEA) may have different or additional rights under this Privacy Policy; please find EEA specific informationhere ** 
 
-4\. Types of Data We Collect. "Personal Data" means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other nonpublic information about you that is associated with or linked to any of the foregoing data. "Anonymous Data" means data that is not associated with or linked to your Personal Data; Anonymous Data does not permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
+**1\. User Consent**
 
-(a) Personal Data You Provide to Us.
+By accepting the terms of this Privacy Policy, either by clicking a box indicating your acceptance or by accepting another document referring to this Privacy Policy, you expressly consent to the processing of your Personal Data in accordance with this Privacy Policy.
 
-(i) We collect Personal Data from you, such as your first and last name, gender, e-mail and mailing addresses, phone number, date of birth, and password when you create an account to log in to our network ("Account").
+**2\. The data we collect and use**
 
-(ii) When you order Services on our Site, we will collect all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information.
+"Personal Data" means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, IP address of your computer or Internet Service Provider (ISP), as well as any other nonpublic information about you that is associated with or linked to any of the foregoing data.
 
-(iii) We also retain information on your behalf, such as files and messages that you store using your Account.
+"Anonymous Data" means data that is not associated with or linked to your Personal Information; Anonymous Data does not permit the identification of individual persons.
 
-(iv) if you provide us feedback or contact us via e-mail in response to an employment opportunity posted on our Site, we will collect your name and e-mail address, as well as any other content included in the e-mail, and any information that you submit to us, such as a resume.
+We collect Personal Data and Anonymous Data, as described below.
+
+**(a) Information you provide to us**
+
+We collect the following Personal Data that you provide to us voluntarily:
+
+(i) When you purchase our software products, our vendor collects all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information.
+
+Our online store and product downloads are managed by cleverbridge AG, located at Gereonstrasse 43-65, 50670 Cologne, Germany. Cleverbridge AG’s Privacy Policy can be found here: <https://www.cleverbridge.com/corporate/privacy-policy/>
+
+(ii) When you create an account to register your DivX product on our Site, we collect Personal Data from you, such as your first and last name, e-mail address, device information and password. 
+
+(iii) When you create an account in our Support Forums, we collect Personal Data from you, such as your first and last name, e-mail address, device information and password. We will also store any files or messages posted to the Support Forums.
+
+Our Support Forums are managed by Zendesk, Inc., located at 1019 Market St., San Francisco, CA 94103. Zendesk, Inc.’s Privacy Policy can be found here: <https://www.zendesk.com/company/customers-partners/privacy-policy/> 
+
+(iv) When contacting us via email, such as when providing feedback or in response to an employment opportunity, for product support, or for other information, we will collect your name and e-mail address, as well as any other content included in the e-mail, and any information that you submit to us, such as a resume.
 
 (v) When you participate in one of our surveys, we may collect additional profile information.
 
-(vi) If you enter into a sweepstake, contest, or similar promotion we may use the information you provide to administer those programs.
+Our surveys are conducted through SurveyMonkey, Inc., located at 1 Curiosity Way, San Mateo, CA 94403. SurveyMonkey, Inc.’s Privacy Policy can be found here: <https://www.surveymonkey.com/mp/legal/privacy-policy>
 
-(vii) When you post messages on the message boards of our Site, the information contained in your posting will be stored on our servers and other users will be able to see it.
+(vi) If you enter a sweepstake, contest, or similar promotion we may use the information you provide to administer those programs.
 
-(viii) We also collect other types of Personal Data that you provide to us voluntarily, such as your operating system and version, product registration number, system configuration and other requested information if you contact us via e-mail regarding support for the Services.
+  **(b)  ** **Data we collect automatically**
 
-(ix) We collect other, non-personally identifiable information using cookies, server logs, and single-pixel or transparent image HTML-based emails. The images in the HTML-based emails allow us to track how many people open the emails we send out.
+(i) Our email newsletter uses single-pixel or transparent image HTML-based emails, which allows us to track how many people open the emails we send out. This information is only collected if you subscribe to our email newsletter.
 
-(x) If you purchase and watch protected DivX content using the DivX Player, you will have to create an Account and the DivX Player application will track and log requests to view the protected content in order for us to enforce the usage rights set by the content owner. In order for your copy of the protected content to play using the DivX Player, a unique identifier will be inserted into your copy of the protected content. When you actually play the protected content using the DivX Player, no information is sent to us. Additionally, no information is collected when you watch unprotected content.
+Our email newsletter is managed by salesforce.com, Inc., located at The Landing @ One Market Street, Suite 300, San Francisco, CA 94105. Salesforce.com, Inc.’s Privacy Policy can be found here: <https://www.salesforce.com/company/privacy/>
 
-(xi) We also collect other information at other points in our Site, such as: (a) most of our software, when run, will automatically contact our servers to check for new versions (this functionality may be disabled in the software preferences); (b) our installers send a small amount of non-personally identifiably information that confirms the software has actually been installed; (c) some of our software products will automatically contact our servers to retrieve non-personally identifiable rotating interface images that are displayed; (d) our software or hardware products may transmit non-personally identifiable information to our servers enabling us to aggregate statistics about how many unique products are in use at any time and how often an individual product is used.
+(ii) When you create an account and purchase protected DivX content using the DivX Player, the DivX Player application will track and log requests to view the protected content in order for us to enforce the usage rights set by the content owner. In order for your copy of the protected content to play using the DivX Player, a unique identifier will be inserted into your copy of the protected content.
 
-(xii) We may also collect Personal Data, such as at other points in our Site that state that Personal Data is being collected.
+(iii) When you download our free software from our Site, our server logs your IP address.
 
-(b) Personal Data Collected via Technology. To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect Personal Data from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit. We also use Cookies (as defined below), navigational data like Uniform Resource Locators (URL), and technologies like web beacons to gather information regarding the date and time of your visit and the solutions and information for which you searched and which you viewed. Like most Internet services, we automatically gather this Personal Data and store it in log files each time you visit our Site or access your Account on our network. "Cookies" are small pieces of information that a website sends to your computer's hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of our Site may not work properly. We do not use any user-based tracking in terms of IP address or device ID that persists and tracks your browsing behavior on other sites. However, we do use Google analytics. Google analytics manages ‘Do Not Track’ instructions from your browser in accordance with its own privacy policies <http://www.google.com/intl/en/policies/privacy/>.
+Our free software and our host server are managed by Amazon Web Service’s S3 platform, provided by Amazon Web Services, Inc. Amazon Web Service, Inc.’s Privacy Policy can be found here: <https://aws.amazon.com/privacy/>
 
-5\. Use of Your Data
+(iv) When you install and run our software, or play content with our software, the software may transmit your IP address to our servers, and track and log usage statistics with our servers.
 
-(a) General Use. In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. Company uses your Personal Data in the following ways: to facilitate the creation of and secure your Account on our network; identify you as a user in our system including display of your username, and if you so indicate, you name, publicly on our online community forums; provide improved administration of our Site and Services; improve the quality of experience when you interact with our Site and Services; send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created; send you administrative e-mail notifications, such as security or support and maintenance advisories; respond to your inquiries related to employment opportunities or other requests; to send promotional communications; to provide you with hardcopy or electronic newsletters, or surveys; to send upgrades and special offers related to our Services and for other marketing purposes of Company or our Third Party Companies, should you opt-in to receive such communications by following the instructions we provide; to make telephone calls to you, from time to time, to solicit your feedback. Be aware that any content (including video content) you choose to upload or publish to our Site (including messages in online discussion forums) may be made public as well.
+(v) We use Google analytics, a web analytics service provided by Google Inc. (“Google”) to collect anonymous data. We also use Google Adsense, an advertising service provided by Google, to provide advertising on our Site. Google uses “cookies,” small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site, to help analyze the use of our Site.
 
-(b) Creation of Anonymous Data. We may create Anonymous Data records from Personal Data by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. Company reserves the right to use and disclose Anonymous Data to Third Party Companies in its discretion.
+Google manages ‘Do Not Track’ instructions from your browser in accordance with its own privacy policies, which can be found here: <http://www.google.com/intl/en/policies/privacy/>. More information regarding how Google uses cookies and how to manage them can be found here: <https://policies.google.com/technologies/cookies>
 
-6\. Disclosure of Your Personal Data
+More information about Google Adsense can be found here:  <https://policies.google.com/technologies/ads>  
 
-(a) Affiliates. In the event we have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, "Affiliates"), we may share some or all of your Personal Data with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company or our assets, that company will possess the Personal Data collected by it and us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.
+Persistent Cookies can be removed by following your Internet browser help file directions. If you choose to disable Cookies, some areas of our Site may not work properly. We do not use any user-based tracking in terms of IP address or device ID that persists and tracks your browsing behavior on other sites.
 
-(b) Other Disclosures. Regardless of any choices you make regarding your Personal Data (as described below), Company may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Company; or (b) protect or defend the rights or property of Company or users of the Services.
+(vi) We contract with IronSource, Ltd. (“IronSource) to provide advertisements and offers in our software installers.
 
-7\. Third Parties
+Per IronSource: We may use third party advertising companies to serve ads when you visit our Site. More information can be found here: <http://d2667mh53olfoj.cloudfront.net/pp.html>
 
-(a) Third Party Websites. Our provision of a link to any other website or location, is for your convenience and does not signify our endorsement of such other website or location or its contents. When you click on such a link, you will leave our Site and go to another site. During this process, another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
+**(c)** **How we use your information**
 
-(b) Sharing of Information by and with Third Parties. Except as otherwise stated in this policy, we do not sell, trade, share, or rent the Personal Data collected from our Services to other entities. We may, however, receive Personal and/or Anonymous Data about you from other sources like companies that provide our Services by way of a co-branded or private-labeled website or companies that offer their products and/or services on our Site ("Third Party Companies"). Third Party Companies may supply us with Personal Data, such as user account names and content associated with user accounts and devices.
+In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in the following ways:
 
-(i) Disclosure to Third Party Companies. We will not disclose your Personal Data to Third Party Companies. However, we may share aggregate, non-personally identifiable information (including anonymous usage patterns, cookies, IP addresses, browser type, click rates, etc.) with third party companies that wish to learn more about usage patterns for certain video content, software downloads, services, advertisements, and/or promotions associated with the web site.
+  * to facilitate creating and securing your account on our network;
+  * to identify you as a user in our system, including display of your username, and if you so indicate, you name, publicly on our online community forums;
+  * to provide improved administration of our Site and the Company’s software products and services;
+  * improve the quality of experience when you interact with our Site and the Company’s software products and services;
+  * send you a welcome e-mail to verify ownership of the e-mail address provided when your account was created;
+  * send you administrative e-mail notifications, such as security or support and maintenance advisories;
+  * respond to your inquiries related to employment opportunities or other requests;
+  * to send promotional communications;
+  * to provide you with hardcopy or electronic newsletters, or surveys;
+  * to send offers related to our software products and services; and, for other marketing purposes of Company or our third party companies, should you opt-in to receive such communications;
+  * to make telephone calls to you, from time to time, in order to provide customer support.
 
-(ii) Disclosure to Third Party Service Providers. We may share your Personal Data with third party service providers to provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; process transactions on our Site, or to provide technical support. These third party service providers are required not to use your Personal Data other than to provide the services requested by Company. You expressly consent to the sharing of your Personal Data with our contractors and other service providers for the sole purpose of providing services to you.
 
-8\. Your Choices Regarding Your Personal Data
 
-(a) Choices. We offer you choices regarding the collection, use, and sharing of your Personal Data. We will periodically send you free newsletters and e-mails that directly promote the use of our Site or the purchase of our Services and may contain advertisements for Third Party Companies. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). Should you decide to opt-out of receiving future mailings, we may share your e-mail address with third parties to ensure that you do not receive further communications from third parties. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Policy.
+Please be aware that any content (including video content) you choose to upload or publish to our Site (including messages in online discussion forums) may be made public as well.
 
-(b) Changes to Personal Data. You may change any of your Personal Data in your Account by editing your profile within your Account or by sending an e-mail to us at [divx-support@divx.com](mailto:noel.egnatios@divxllc.com). You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by applicable law.
+We may create Anonymous Data records from Personal Data by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. Company reserves the right to use and disclose Anonymous Data to third party companies in its discretion.
 
-9\. Integrity and Retention of Personal Information. Company makes it easy for you to keep your personal information accurate, complete, and up to date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+**(d) If you do not wish to provide us with your information:**
 
-10\. Security of Your Personal Data. Company is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. Despite these measures, you should know that Company cannot fully eliminate security risks associated with Personal Data and mistakes may happen.
+You can decline to provide us with your Personal Data, however this may limit your ability to access certain features of our site and our software. To provide a safe and enjoyable experience for our users, some areas of our site are accessible only while logged into an account. We will inform you at the point of collecting information from you whether you are required to provide the information to us. 
 
-11\. Contact Information. Company welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at [privacy@divx.com](mailto:noel.egnatios@divxllc.com) or contact us at the following address:
+**(e) Our legal basis for handling your personal information**
 
-DivX, LLC  
-Attn: Privacy Rights Administrator  
-4350 La Jolla Village Drive  
-Suite 950  
+The laws in some jurisdictions require companies to disclose their legal grounds for the collection, use, or disclosure of your personal information. To the extent that these laws apply, our legal grounds are as follows:
+
+  * **To honor our contractual commitments to you**. Much of our or our vendors’ processing of personal data is to meet our contractual obligations to our users, or to take steps at users’ request in anticipation of entering into a contract with them, such as when purchasing our software.
+  * **Legitimate interests**. In many cases, we handle personal data on the ground that it furthers our legitimate interests in ways that are not overridden by the interests or fundamental rights and freedoms of the affected individuals: This includes: 
+    * Providing a safe and enjoyable user experience;
+    * Customer service;
+    * Marketing, e.g. sending emails or other communications to let you know about new features;
+    * Protecting our users, personnel, and property;
+    * Analyzing and improving our business, e.g. collecting information about how you use our Services to optimize the design and placement of certain features;
+    * Processing job applications;
+    * Managing legal issues.
+  * **Legal compliance.** We need to use and disclose personal data in certain ways to comply with our legal obligations.
+  * **Consent**. Where required by law, and in some other cases, we handle personal data on the basis of your implied or express consent.
+
+
+
+  **(f)  Our disclosure of your information**
+
+(i) Third Parties
+
+As described above in “Information you provide to us,” we may share your Personal Data with third party service providers. Our agreements with these service providers require that they treat your Personal Data in accordance with all applicable laws, and these third party service providers are required to only use your Personal Data to provide the services requested by us.
+
+We will not disclose your Personal Data to third party companies. However, we may share Anonymous Data with third party companies that wish to learn more about usage patterns for certain video content, software downloads, services, advertisements, and/or promotions associated with the web site.
+
+We use Google Adsense, a third-party advertising company, to serve ads when you visit our Site.
+
+(ii) Affiliates
+
+In the event that we have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, "Affiliates"), we may share some or all of your Personal Data with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company or our assets, that company will possess the Personal Data collected by it and us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.
+
+(iii) Law Enforcement, Governmental Authorities, and Agencies
+
+We may disclose Personal Data if it believes in good faith that such disclosure is necessary to:
+
+  1. comply with relevant laws or to respond to subpoenas or warrants served on Company; or
+  2. protect or defend the rights or property of Company or users of the Services.
+
+
+
+**(3) Where information is processed:**
+
+The Company is based in the United States. Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country.
+
+**(4)  Keeping your personal information secure**
+
+The Company is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your account. Please do not disclose your account password to unauthorized people. Despite these measures, you should know that Company cannot fully eliminate security risks associated with Personal Data and mistakes may happen.
+
+**(5)**   **Integrity and Retention of your Personal Data**
+
+We aim to make it easy for you to keep your Personal Data accurate, complete, and up to date. You can update your account information as needed through the account settings menu or by sending an e-mail to us at [divx-support@divx.com](mailto:divx-support@divx.com). We will retain your Personal Data for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+  **(6) Your choices regarding your Personal Data**
+
+We offer you choices regarding the collection, use, and sharing of your Personal Data. We will periodically send you free newsletters and e-mails that directly promote the use of our Site or the purchase of our software products and may contain advertisements for third party companies. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly at [privacy@divx.com](mailto:privacy@divx.com). Should you decide to opt-out of receiving future mailings, we may share your e-mail address with third parties to ensure that you do not receive further communications from third parties. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Policy.
+
+**(7)  Changes to your Personal Data**
+
+You may change any of your Personal Data in your account by editing your profile within your account or by sending an e-mail to us at [divx-support@divx.com](mailto:divx-support@divx.com).  You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by applicable law.
+
+**(8)  Your California Privacy Rights**
+
+If you are a resident of the State of California, we provide you in this Privacy Policy with information on how to exercise your disclosure choice options such as your right to opt-out (or "unsubscribe") of our use and sharing of your Personal Data for marketing purposes.
+
+If you wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [privacy@divx.com](mailto:privacy@divx.com)  or by postal mail to DivX, LLC, c/o Privacy Administrator, 4350 La Jolla Village Drive, Suite 950, San Diego, CA 92122. All requests must be labeled "Your California Privacy Rights" in the email subject line or envelope or post card. For all requests, please include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via e-mail) and indicate your preference on how our response to your request should be sent (e-mail or postal mail). We are unable to accept requests via telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+
+**(9) Your EEA Privacy Rights**
+
+If you are a resident of the European Union, you have a number of important rights free of charge under the General Data Protection Regulation In summary, those include rights to:
+
+  * Fair processing of information and transparency over how Company uses your personal information
+  * Access to your personal information and to certain other supplementary information that this Privacy Notice is already designed to address
+  * Have us correct any mistakes in your information which we hold
+  * The erasure of personal information concerning you in certain situations
+  * Obtain personal information concerning you which you have provided to Company, in a structured, commonly used and machine-readable format, and the right to transmit your personal information to a third party in certain situations
+  * Object at any time to processing of personal information concerning you for direct marketing
+  * Object to decisions being taken by automated means which produce legal effects concerning you or similarly significantly affect you
+  * Object in certain other situations to Company’s continued processing of your personal information
+  * Otherwise restrict Company’s processing of your personal information in certain circumstances
+  * Claim compensation for damages caused by Company’s breach of any data protection laws
+
+
+
+For further information on each of those rights, including the circumstances in which they apply, see the Guidance from the UK Information Commissioner’s Office (ICO) on individuals rights under the General Data Protection Regulation, available here: <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>
+
+If you would like to exercise any of these rights, please contact us using the information below (“Contact Us”).
+
+**(10) Contact us**
+
+We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at [privacy@divx.com](mailto:privacy@divx.com) or contact us at the following address:
+
+DivX, LLC
+
+Attn: Privacy Rights Administrator
+
+4350 La Jolla Village Drive
+
+Suite 950
+
 San Diego, CA  92122
 
-12\. Your California Privacy Rights. If you are a resident of the State of California, we provide you in this Privacy Policy with information on how to exercise your disclosure choice options such as your right to opt-out (or "unsubscribe") of our use and sharing of your Personal Data for marketing purposes. If you wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [privacy@divx.com](mailto:noel.egnatios@divxllc.com) or by postal mail to DivX, LLC, c/o Privacy Administrator, 4350 La Jolla Village Drive, Suite 950, San Diego, CA 92122. All requests must be labeled "Your California Privacy Rights" in the email subject line or envelope or post card. For all requests, please include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via e-mail) and indicate your preference on how our response to your request should be sent (e-mail or postal mail). We are unable to accept requests via telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+**(11)  Links to other websites**
 
-13\. Changes to This Privacy Policy. This Privacy Policy is subject to occasional revision in accordance with the Terms of Use. Changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Services, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. This Privacy Policy was last revised on April 10, 2014.
+Our provision of a link to any other website or location, is for your convenience and does not signify our endorsement of such other website or location or its contents. When you click on such a link, you will leave our Site and go to another site. During this process, another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
+
+**(12)  Privacy of minors**
+
+We do not intentionally gather Personal Data about visitors under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Data such parent should contact us at [privacy@divx.com](mailto:privacy@divx.com). If we become aware that a child under 13 with Personal Data, we will take reasonable steps to delete such Personal Data from our files.
+
+**(13)  Changes to this Privacy Policy**
+
+This Privacy Policy is subject to occasional revision in accordance with the Terms of Use. We will notify you by means of a notice on this Site and/or via email prior to any changes becoming effective.
+
+This Privacy Policy was last revised on May 25, 2018.
