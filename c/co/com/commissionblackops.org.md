@@ -1,32 +1,101 @@
-> *The following text is extracted and transformed from the commissionblackops.org privacy policy that was archived on 2011-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110829043347id_/http%3A//commissionblackops.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionblackops.org privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213190355id_/http%3A//michaelcheney.com/go/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Commission Black Ops
+# Privacy Policy — Michael Cheney
 
-commissionblackops.org strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. “Period.”
+Last Updated: 24th May 2018
 
-How we gather information from users  
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, commissionblackops.org also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+**1\. Introduction**
 
-What we do with the information we collect  
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.  
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+Seniority.co.uk Limited (the holding company of Michael Cheney) respects your right to privacy. This Privacy Policy explains in detail the types of personal information we may collect about you when you interact with us. It also explains how we will store and handle that personal information, how we keep it safe, how you can exercise your privacy rights and how we combine data across our business to help serve you better.
 
-We may use Personally Identifiable Information collected on commissionblackops.org to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by commissionblackops.org and other topics we think you might find of interest.
+If you have any questions or concerns about our use of your personal information, then please contact us at http://www.michaelcheney.com/support/
 
-Personally Identifiable Information collected by commissionblackops.org may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+**2\. Who is Seniority.co.uk Limited?**
 
-Affiliated sites, linked sites and advertisements*  
-commissionblackops.org expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a commissionblackops.org page, certain content that is actually created or hosted by a third party. Also, through commissionblackops.org you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. commissionblackops.org is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+Seniority.co.uk Limited is the holding company of Michael Cheney - it is the umbrella organisation for all Michael Cheney's online businesses and products including, but not limited to, The Commission Machine, The 7-Figure Franchise, Commissionology, Commission Black Ops, Commission Cartel, Child's Play Profits, Fan Page Money Method, List Building Black Ops, Email Black Ops and Scope for Cash.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. commissionblackops.org does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.  
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of commissionblackops.org and this policy.
+**3\. When do we collect personal information?**
 
-Children  
-commissionblackops.org does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe commissionblackops.org has any information from or about anyone under 13, please contact us at the address listed below.
+We collect personal information in a number of instances, when you;
 
-We can be reached by contacting:
+\- Buy one of our products through the JVZoo network  
+\- Join one of our mailing lists by opting in with your email address  
+\- Register for one of our webinars or training events  
+\- Leave a voicemail for us on our Secure Order Processing Line  
+\- Post a ticket on our Support Desk  
+\- Reply to one of our emails  
+\- Buy an affiliate product we recommend to you
 
-Email: imbonus[at]yahoo.com
+**4\. What personal information do we collect and why?**
 
-Changes to this Policy  
-commissionblackops.org reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+This falls into two clear categories;
+
+Information You Give Us Voluntarily
+
+When you buy one of our products through the JVZoo network you will enter your name and email address. We use this to create your membership account so you can access the program you bought.
+
+When you join of our mailing lists by opting in with your email address we receive your email address and, depending on the page, sometimes your name too. We use this to correspond with you via email offering marketing promotions, special offers, trainings and so on. You can opt out at any time from some or all messages by clicking the unsubscribe link present at the bottom of every email.
+
+When you register for one of our webinars or training events we receive your email address and, depending on the page, sometimes your name too. We use this to correspond with you via email about the webinar, give you your special registration link so you can attend and provide you free bonus training before the call as well as reminders after the call (where appropriate) to watch the replay or take advantage of the special offer which may be available. You can opt out of these emails by clicking the special link at the bottom of each email we send.
+
+When you leave a voicemail for us on our Secure Order Processing Line you will of course leave personal information so we can process your order on our virtual terminal present via the PayPal interface. All of this information is strictly confidential and not stored in any way. It is instantly and permanently deleted the moment the transaction has been entered.
+
+When you post a ticket on our Support Desk you will be asked to enter your name and email address. We use this to create your account at the Support Desk and send you email notifications about the status of your ticket.
+
+When you reply to one of our emails you may provide us with information pertinent to your query. We use this to track down your order or assist you as best we can. This information is not stored or kept and is used solely to assist you with your query.
+
+When you buy an affiliate product we recommend to you, you will have entered your name and email address to purchase the product. We occasionally provide you with additional free bonuses as a reward for purchasing the product and these are sometimes delivered via email and a special mailing list you are added to at the time you purchase the product. You may also, from time to time, receive marketing emails from us via this channel. As with all our email communications - you can stop them at any time by clicking the unsubscribe link at the bottom of every email.
+
+**Information We Collect Automatically**
+
+As part of running an online business there are aspects of data which are collected automatically due to the membership software and payment processing mechnisms we have in place.
+
+When you buy one of our products, join any of our mailing lists, submit a support ticket or register for one of our webinars we will automatically receive your IP Address - this is your unique internet address associated with your internet service provider. We use this to prevent fraud by ensuring usernames and passwords for our paid products and not shared publicly. We also use the IP information occasionally as evidence of a user's identity in the event of PayPal claims and disputes.
+
+Our autoresponder company (Getresponse) also retrieves general geographical information about you when you opt in based in your IP address. This is only detailed down to a regional / State level. We do not use this information for any purposes whatsoever - it's just something our autoresponder collects.
+
+We also collect information related to your browser, operating system, computer type, web pages visited etc. Some of this information is collected via cookies. This information is used to anaylze website visitor behaviour and ensure our pages and trainings are viewable by as many people as possible.
+
+**5\. Sharing Information**
+
+We share only non-personal data with Google Analytics, Facebook, AdTrackz Split-Testing and JVZoo - see our Cookies Policy below for details.
+
+**6\. Our Cookies Policy**
+
+We only use cookies to serve you better. The four cookies we use are Google Analytics cookies, Split Testing cookies, Facebook cookies and JVZoo cookies.
+
+The Google Analytics cookies enable us to track your usage of our websites and pages. They don't store any personal data and are used solely to track user behaviour across our websites.
+
+The Split Testing cookies are used when we are running different tests on how well a certain web page or web element performs. This is so we can test out conversion rates and find the optimal results for our web pages. They don't store any personal data.
+
+The Facebook cookies are used for retargeting ads on Facebook where we can run a Facebook ad targeting a user who has visited a specific page on our website. We don't see or control any personal data in this regard. We merely know that a user has visited a specific page - no personal information is received or stored by us in relation to this cookie.
+
+The JVZoo cookies are used to ensure the correct referring affiliate is rewarded with the commission on the point of sale. We don't collect, see or have access to any private or personal data in regard to this cookie.
+
+**7\. How Do We Keep Your Personal Data Safe and Secure?**
+
+All data is stored on our own dedicated server protected with the latest anti-virus and anti-malware software and technology. All our sites have the secure SSL layer installed for added security and peace of mind.
+
+**8\. Data Retention**
+
+We retain all data on you when there is a business justification for doing so - i.e. you are an active subscriber, active member, active customer. If you are no longer active in our organization we will either delete, anonymize or secreuly store your data until which time it can be deleted. You may request deletion at any time of all data by posting a ticket on our Support Desk: http://www.michaelcheney.com/support/
+
+**9\. Updates to this Privacy Policy**
+
+We do make updates to this policy over time as our business and the internet technological landscape changes. When we do so we will try our utmost to notify you. Also please see the "Last Updated" date at the top of this document.
+
+**10\. Your Data Protection Rights**
+
+You have the following data protection rights:
+
+If you wish to access, correct, update or request deletion of your personal information, you can do so at any time by posting a ticket on our Support Desk: http://www.michaelcheney.com/support/
+
+You can object to our usage of your data or seek to restrict it by contacting us also.
+
+You can opt out from any or all of emails at any time by clicking the Unsubscribe link present at the bottom of every email.
+
+If you are not happy with our use of your personal data in any way please contact us below and we will seek to rectify it immediately.
+
+**11\. How to contact us**
+
+You can reach us by posting a ticket on our Support Desk: http://www.michaelcheney.com/support/
