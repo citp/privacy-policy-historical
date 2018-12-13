@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandreward.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511001452id_/http%3A//www.brandreward.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandreward.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213082548id_/https%3A//www.brandreward.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
