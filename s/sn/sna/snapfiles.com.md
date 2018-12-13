@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapfiles.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627011836id_/http%3A//www.snapfiles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfiles.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214000547id_/http%3A//www.snapfiles.com/privacy.html) for the most accurate reproduction.*
 
 # SnapFiles Privacy Policy
 
