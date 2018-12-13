@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huawei.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629074445id_/http%3A//www.huawei.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huawei.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213055610id_/https%3A//www.huawei.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Huawei
 
@@ -72,7 +72,7 @@ To ensure our website works correctly, we may at times place a small piece of da
 
 Like many other websites or Internet service providers, Huawei uses cookies to improve user experience. Session cookies are deleted after each visit, while persistent cookies remain in place across multiple visits. Cookies allow websites to remember your settings such as language, font size on your computer or mobile device, or other browser preferences. This means that a user does not need to reset preferences for every visit. On the contrary, if cookies are not used, websites will treat you as a new visitor every time you load a web page. For example, if you are redirected to another web page from a website you are already logged in to and then return to the original website, it will not recognize you and you must log in again.
 
-Huawei will not use cookies for any purposes not stated in this Policy. You can manage or delete cookies based on your own preferences. For details, visit [AboutCookies.org](http://aboutcookies.org/). You can clear all the cookies stored on your computer, and most web browsers provide the option of blocking cookies. However, by doing so, you have to change the user settings every time you visit our website. Find out how to manage cookie settings for your browser here:  
+Huawei will not use cookies for any purposes not stated in this Policy. You can manage or delete cookies based on your own preferences. For details, visit [AboutCookies.org](https://www.aboutcookies.org/). You can clear all the cookies stored on your computer, and most web browsers provide the option of blocking cookies. However, by doing so, you have to change the user settings every time you visit our website. Find out how to manage cookie settings for your browser here:  
 [Internet Explorer](http://support.microsoft.com/kb/260971)  
 [Google Chrome](https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies)  
 [Mozilla Firefox](http://support.mozilla.org/en-US/kb/Cookies)  
