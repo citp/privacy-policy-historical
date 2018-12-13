@@ -1,100 +1,100 @@
-> *The following text is extracted and transformed from the zipify.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipify.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213202057id_/https%3A//zipify.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Zipify Apps by Smart Marketer
 
-**Go Daddy Respects Your Privacy**
+## Smart Marketer Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Privacy Policy (“Policy”) of Mensch Products, LLC doing business as Smart Marketer (“Smart Marketer,” “we,” “us” or “our”) governs how we handle the personal information we collect for our own purposes via Smart Marketer websites, mobile applications, agreements and our social media assets (collectively, “our sites”), and by email in connection with our business development eﬀorts, marketing programs, surveys, oﬀers, events and other promotions. We may obtain this information directly from you as well as from our aﬀiliated companies, business partners and other third parties.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## **Information We Collect**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+The types of information we may obtain about you include:
 
-**Information Collection and Use**
+  * Personal or business contact information (such as name, address and email address, social media, name of your company or department, and your business function or title);
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  * Demographic information (such as age and gender); 
+  * A general geographic location (such as country and city) from which a visitor accesses our sites;
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+  * Information you provide by interacting with us through our sites, including by submitting questions, commenting on our forums and interacting with us through social media;
+  * Contact information of individuals with whom you would like to share our content; 
+  * Payment information (such as account or credit card number for processing through our third party payment processor); and
+  * Other details that you may submit to us or that may be included in the information provided to us by third parties. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+The information we may collect automatically includes:
 
-**Security**
+  * Usage information. Whenever you visit or interact with our sites, we, as well as any third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how our sites are accessed and used (“Usage information”). Usage information may include browser type, device type, operating system, application version, the page served, the time, the preceding page views, and your use of features or applications on our sites, as well as search terms that visitors use to reach our sites. This information helps us keep our sites usable for our visitors and allows us to tailor content to a visitor’s interests.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Updating Your Information**
+  * Device Identifier. We automatically collect your IP address or other unique identifier (“Device Identifier”) for the Device (computer, mobile phone, tablet or other device) you use to access our sites. A Device Identifier is a number that is assigned to your Device when you access a website or its servers, and our computers identify your Device by its Device Identifier. We may use a Device Identifier to, among other things, administer our sites, help diagnose problems with our servers, analyze trends, track users’ web page movements, help identify you and your interests, and gather broad demographic information for aggregate use. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  * Cookies; Pixel Tags. The technologies used on our sites to collect Usage information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit our sites), mobile analytics software and pixel tags (transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook, Instagram, LinkedIn, Google+, Twitter and, if you so choose, enable interaction between your activities on our sites and your activities on such social networking sites. We, or our partners, may place cookies or similar files on your Device for security purposes, to facilitate site navigation, to perform analytics, and personalize your experience while visiting our sites (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location or demographic information). A pixel tag may tell your browser to get content from another server. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
+  * To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser’s cookie folder, or prevent tracking activities, please refer to your browser’s tools or help menu or other instructions related to your browser. Because an industry-standard Do-Not-Track protocol has not yet been established, our information collection practices on our sites will continue to operate as described in this online privacy policy regardless of any “Do Not Track” signals that may be sent by certain browsers. However, you may refuse to accept cookies in order to prevent tracking activities. If you disable or opt out of receiving cookies, please be aware that some features and services on our sites may not work properly because we may not be able to recognize and associate you with your account. In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. We may use third-party website analytics tools that collect automated information about visitor traﬀic on our sites, such as Google Analytics. You can learn how Google collects and processes data by going to www.google.com/policies/privacy/partners/.
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+## **How We Use the information We Collect**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We use the information we collect for a variety of business purposes such as to respond to your questions and requests for services; provide you with access to certain areas and features; purchase history; verify your identity; communicate with you about your account and activities on our sites, modify or change any of our policies; tailor content, advertisements, and offers we serve you; improve our sites; comply with contractual obligations; and for purposes disclosed at the time you provide your personal information or otherwise with your consent. We may also collect information for the following purposes:
 
-**Compliance with Laws and Law Enforcement**
+  * Communicate with you (including by phone or by email) about our products, services, oﬀers, surveys, events and promotions, and oﬀer products and services we believe may be of interest to your company;
+  * Publish your testimonials about Smart Marketer, including on our sites, forums, blogs, and social media assets (if we choose to publish your testimonial, we will generally only include your name, title and company name);
+  * Follow up with individuals and companies with whom you have shared Smart Marketer content; 
+  * Analyze and enhance our marketing communications and lead generation strategies (including by identifying when emails sent to you have been received and read);
+  * Analyze trends and statistics regarding visitors’ use of our sites; and
+  * Protect against and prevent fraud, unauthorized transactions.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+We may combine the information we collect with publicly available information and information we receive from our aﬀiliated companies, business partners and other third parties. We may use that combined information for the purposes described in this Policy. On our sites, we may collect information about your online activities to provide advertising about products and services tailored to your individual interests. You may see certain ads on our sites and other sites because we participate in advertising networks. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means. These networks may track your online activities over time and across third-party websites or online services, including by collecting information through automated means through the use of cookies, web server logs, web beacons and other methods. These networks may place cookies, web beacons or similar tracking devices while you are visiting our sites or other sites. The networks use this information to show you advertisements for Smart Marketer and our business partners that are tailored to your individual interests. They may also use the information they collect for their own purposes. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors’ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites. This data collection and ad targeting take place both on our sites and on third-party websites that participate in the ad networks. This process also helps us track the eﬀectiveness of our marketing eﬀorts.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+## **Information We Share**
 
-**Supplementation of Information**
+We do not sell, rent, or otherwise disclose personal information about you, except as described in this Policy. We may share non-personal information, such as aggregate data and Usage information with third parties. We may share the information we collect with our aﬀiliated companies, business partners, ad network vendors and their participants, and other third parties for the purposes described in this Policy, including to communicate with you about products and services, oﬀers, events and promotions that we believe may be of interest to you. We may also share the information with our service providers that perform services on our behalf. We do not authorize these service providers to use or disclose the information except as necessary to perform certain services on our behalf or comply with legal requirements. We also may share information about you with other third parties when we have given you an opportunity to opt out of such sharing and you do not opt out.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+While on our sites, you may have the opportunity to opt-in to receive information and/or marketing offers from someone else or to otherwise consent to the sharing of your information with a third party, including social networking sites. If you agree to have your personal information shared, your personal information will be disclosed to the third party and the personal information you disclose will be subject to the privacy policy and business practices of that third party. We may share your personal information with other entities and our affiliates primarily for business and operational purposes. In the event that we are involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. We may transfer and disclose your information to third parties to comply with a legal obligation; when we believe in good faith that the law or a governmental authority requires it; to verify or enforce our Terms of Use or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect our rights or property or security of third parties, visitors to our sites or the public.
 
-**Contests/Surveys**
+## **Your Privacy Rights, Choice and Access**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+We oﬀer you certain choices about what information we collect from you, how we use and disclose the information, and how we communicate with you.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+You control the personal information that you provide to us on our sites, but some personal information is required by us in order for you to obtain services from us or for you to use our sites. If you choose not to provide us with your personal information on our sites, you may not be able to take advantage of some of the services we offer or use some functionality on our sites. Except as provided above, we will not share personal information collected on our sites with third parties without your consent. You may also direct us to stop sending you promotional emails by following the removal instructions in a communication you receive from us. Your opt-out request will be processed within a reasonable period of time following the date on which we receive it.
 
-**Tell-A-Friend**
+If you wish to modify, verify, correct, or delete any of your personal information collected through our sites, you may edit your registered user information or contact us at [info@smartmarketer.com](mailto:info@smartmarketer.com). In accordance with our routine record keeping, we may delete certain records that contain personal information you have submitted through our sites. We are under no obligation to store such personal information indefinitely and disclaim any liability arising out of, or related to, the destruction of such personal information. It may not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your online account or request that we no longer use your information to provide you services through the platform, please contact us at [info@smartmarketer.com](mailto:info@smartmarketer.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+## **Your California Privacy Rights**
 
-**What Happens to my Personal Information if I Opt Out?**
+If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that Smart Marketer has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to Smart Marketer, suﬀicient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email [info@smartmarketer.com](mailto:info@smartmarketer.com).
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+## **Access and Correction**
 
-**Transfer of Data Abroad**
+You may contact us at [info@smartmarketer.com](mailto:info@smartmarketer.com) and we will provide you with reasonable access to the personal information we maintain about you. We will also provide you a reasonable opportunity to correct, amend or delete that information where it is inaccurate. We will respond to your request within a reasonable period of time. We may limit or deny access to personal information where providing such access is unreasonably burdensome or expensive under the circumstances, or as we otherwise deem appropriate. In addition, please note that (i) we may not be able to edit or delete your personal information stored with our third-party service providers, and (ii) we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulﬁlled such requirements).
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+## **Other Websites, Data Processing and Safeguards**
 
-**Changes in Our Practices**
+Our sites may contain links to other sites that we do not own or operate. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co-branding or co-marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies to your Device, they may independently collect data or solicit personal information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our sites (including those linked to through an email or social networking page). This is a U.S. website subject to U.S. law, including applicable privacy and information security requirements. When you visit this site, we may process information about you outside of the country in which you are located, including in the U.S. We will protect information collected through this site as described in this Policy. While Smart Marketer has implemented administrative, technical and physical safeguards to assist in protecting the personal information we collect, please note that no electronic transmission of information can be entirely secure. We cannot guarantee that the security measures we have in place to safeguard personal information will never be defeated or fail, or that those measures will always be suﬀicient or eﬀective.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+## **Children’s Privacy**
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+Our sites are not directed to children under 13. We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain their personal information without the parent/guardian’s consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
 
-**Contacting Our Site**
+## **Updates to this Privacy Policy**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+This Policy may be updated periodically and without prior notice to you to reﬂect changes in our personal information practices. We will post a prominent notice on this site to notify you of any signiﬁcant changes to our Policy and indicate at the bottom when it was most recently updated.
 
-* * *
+## **How to Contact Us**
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions, comments or concerns about this Policy or if you would like us to update information we have about you or your choices or preferences, please contact us by email at [info@smartmarketer.com](mailto:info@smartmarketer.com). You also may write to us at:
+
+Mensch Products, LLC d/b/a Smart Marketer 982 Main St. Suite 4-315 Fishkill, NY 12524 Phone: 800-770-8216 Attn: Privacy Oﬀice 
+
+Updated: These terms are effective as of December 18, 2016.
+
+  
+
