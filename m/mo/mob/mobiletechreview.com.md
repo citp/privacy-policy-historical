@@ -1,23 +1,37 @@
-> *The following text is extracted and transformed from the mobiletechreview.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005170730id_/http%3A//www.mobiletechreview.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiletechreview.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213200445id_/http%3A//www.mobiletechreview.com/privacy.htm) for the most accurate reproduction.*
 
 # MobileTechReview.com Privacy Policy
 
-**Privacy Policy**
+Privacy Policy
 
-We do not ask for any information from you when you visit our site. If you sign up for our newsletter, we will ask for you email address and name so that we may send that newsletter to you via email. We may also ask what country and US city you live in. This information is for our own demographics only (so we know what languages to offer the site in, and from what time zones you're most likely to visit us). This demographic information is completely optional. If you register to use our discussion forums, we will ask you for your email address and your password will be mailed to you as part of our user verification process. **** When registering to use our discussion board, you have the option to enter other information about yourself. This is entirely optional, and these items are of general interest to your fellow board members. We will also ask you for your birthdate in compliance with the U.S. Federal Trade Commission's Children's Online Privacy Protection Act of 1998 ([COPPA](http://www.ftc.gov/opa/1999/9910/childfinal.htm)) is intended to protect the privacy of children using the Internet. As of April 21, 2000, many Web sites are required to obtain parental consent before collecting, using, or disclosing personal information from children under 13. **  
-We will never sell your name or any other information about you to a 3rd party.**
+We do not ask for any information from you when you visit our site. WordPress may assign you a cookie so that it can improve your experience by featuring new content vs. content you've already seen, and setting language and time based on your IP address. 
 
-Cookies and Other Tracking Methods  
-All discussion forum users are assigned a cookie. Cookies are small pieces of information stored on your hard drive, not on our site. Our cookies do not contain any personally identifying information, but are used to help us make the site more usable and useful for you. Our forum cookie keeps track of your login information so you need not enter it each time you visit us and helps keep track of new posts for you. Cookies are required for the correct technical function of the forum if you wish to register and post. Cookies need not be enabled if you only wish to read the forum without registering and posting. With the exception of our discussion forum, you will be able to use this site without any problem if you have cookies disabled or turned off.
+We will never sell your name or any other information about you to a 3rd party.
 
-Note: mobiletechreview.com places advertising on our site that originates from outside advertisers and/or advertising agencies. In some cases, if you click on or view these ads, a cookie may be assigned by the advertiser. Mobiletechreview.com does not control these cookies nor the content of the sites linked to by banner ads. Our ad-serving partner, [Tribal Fusion](http://www.tribalfusion.com/), may record cookies to prevent repetitious ad banner placement.
+Cookies and Other Tracking Methods
 
-Note: mobiletechreview.com places links on our site to purchase merchandise from outside vendors such as [Amazon.com](http://www.amazon.com/) and [shopping.com](http://www.shopping.com/). These are our ecommerce affiliates. In some cases, if you click on a link to buy merchandise, a cookie may be assigned by the vendor or by the [Linkshare Network](http://www.linkshare.com/) which is the firm that manages other affiliate network relationships. Mobiletechreview.com does not control these cookies. 
+All Disqus comment system users are assigned a cookie. Cookies are small pieces of information stored on your hard drive, not on our site. Their cookies aare used to help us make the site more usable and useful for you (for example, to keep you logged into their comment system across a variety of sites so you need not log in again each time you wish to comment). To learn more, please visit their privacy policy on their site: https://help.disqus.com/terms-and-policies/disqus-privacy-policy.
 
-Links  
+With the exception of the Disqus comment system, you will be able to use this site without any problem if you have cookies disabled or turned off.
+
+Third Party Ad Servers
+
+Advertising on our site originates from outside advertisers and/or advertising agencies. In some cases, if you click on or view these ads, a cookie may be assigned by the advertiser. Mobiletechreview.com does not control these cookies nor the content of the sites linked to by banner ads. Our ad-serving partners, [ZiffDavis](http://www.ziffdavistech.com/), Google and [Exponential](http://www.exponential.com/), may record cookies to prevent repetitious ad banner placement and to improve the appeal and relevance of ads.
+
+These ad companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this web site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer web site at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via privacy@exponential.com. 
+
+Affiliate Links, Shopping Links
+
+Note: mobiletechreview.com places links on our site to purchase merchandise from outside vendors such as [Amazon.com](http://www.amazon.com/). These are our ecommerce affiliates. In some cases, if you click on a link to buy merchandise, a cookie may be assigned by the vendor or by the firms that manages other affiliate network relationships. Mobiletechreview.com does not control these cookies. 
+
+Links
+
 The mobiletechreview.com site contains links to other Web sites. Mobiletechreview.com is not responsible for the privacy practices or the content of such Web sites. Please read the privacy policies of those Web sites you choose to visit.
 
-Your Consent  
+Your Consent
+
 By using our Web site, you consent to the collection and use of the information as outlined within this privacy policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
 Contact Information:  [webmaster@mobiletechreview.com](mailto:webmaster@mobiletechreview.com)
