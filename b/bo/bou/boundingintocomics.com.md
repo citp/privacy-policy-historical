@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boundingintocomics.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612135509id_/https%3A//boundingintocomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boundingintocomics.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213064820id_/https%3A//boundingintocomics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bounding Into Comics
 
@@ -10,9 +10,9 @@ Your privacy is important to us, and we are committed to protecting the personal
 
 By using the Site, you consent to this Privacy Policy. This Privacy Policy does not apply to the practices of third parties that Intermarkets does not own, control, manage, or employ.
 
-Intermarkets uses OpenX as its ad server. OpenX’s privacy policy can be found [here](http://openx.com/legal/privacypolicy/).
+Intermarkets uses OpenX as its ad server. OpenX’s privacy policy can be found [here](https://www.openx.com/legal/privacypolicy/).
 
-We are committed to following the National Advertising Initiative’s (NAI) [privacy principles](http://www.networkadvertising.org/managing/principles.asp).
+We are committed to following the National Advertising Initiative’s (NAI) [privacy principles](https://www.networkadvertising.org/managing/principles.asp).
 
 ### Information We Collect through the Site
 
@@ -28,13 +28,13 @@ We may augment our click stream data with non-personally-identifiable behavioral
 
 The use and collection of information by our third-party advertising Service Providers is governed by the individual privacy policies of those providers.
 
-The majority of our advertising Service Providers are members of the NAI. You can obtain more information about these advertising service providers’ information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI’s website at <http://www.networkadvertising.org/managing/opt_out.asp>
+The majority of our advertising Service Providers are members of the NAI. You can obtain more information about these advertising service providers’ information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI’s website at [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 #### Cookies and Web Beacons:
 
 We may use cookies (a small text file placed on your computer to identify your computer and browser), Web beacons (an electronic file placed on a website that monitors usage), and other similar technologies to improve the quality of the Site and to better target and analyze consumer behavior with the goal of providing better and more relevant advertising. Our cookie does not include your name or anything personal to you. It simply tells us that we have encountered your computer at some prior point. Most Web browsers are initially set up to accept cookies. You can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Alternatively, you are always free to opt out of the cookies.
 
-Some of our Service Providers may use their own cookies and Web beacons in connection with the services they perform on our behalf. If you would like more information about these practices and to know your choices about not having this information used by these companies, please click [here.](http://www.networkadvertising.org/managing/index.asp)
+Some of our Service Providers may use their own cookies and Web beacons in connection with the services they perform on our behalf. If you would like more information about these practices and to know your choices about not having this information used by these companies, please click [here.](https://www.networkadvertising.org/managing/index.asp)
 
 ## How We Use and Share Information Collected through the Site
 
@@ -66,13 +66,13 @@ Intermarkets cooperates with government and law enforcement officials and privat
 
 ## Cookie Opt-Out Procedure
 
-IF YOU DO NOT WANT INTERMARKETS TO SERVE ADVERTISING TO YOU USING OUR COOKIE, [CLICK HERE](http://www.networkadvertising.org/choices/) TO REPLACE YOUR UNIQUE INTERMARKETS COOKIE WITH OPT-OUT COOKIES FROM AOL ADVERTISING AND LOTAME SOLUTIONS.
+IF YOU DO NOT WANT INTERMARKETS TO SERVE ADVERTISING TO YOU USING OUR COOKIE, [CLICK HERE](https://www.networkadvertising.org/choices/) TO REPLACE YOUR UNIQUE INTERMARKETS COOKIE WITH OPT-OUT COOKIES FROM AOL ADVERTISING AND LOTAME SOLUTIONS.
 
-YOU CAN ALSO OPT OUT OF RECEIVING COOKIES FROM OTHER MEMBERS OF THE NETWORK ADVERTISING INITIATIVE BY CLICKING [HERE](http://www.networkadvertising.org/choices/).
+YOU CAN ALSO OPT OUT OF RECEIVING COOKIES FROM OTHER MEMBERS OF THE NETWORK ADVERTISING INITIATIVE BY CLICKING [HERE](https://www.networkadvertising.org/choices/).
 
 This opt-out functionality is cookie-based. When you receive this cookie, Intermarkets’ systems will know that you have opted out and will not attempt to assign other Intermarkets cookies in the future. In order for the opt-out to work on your computer, your Web browser must be set to accept third-party cookies and the Intermarkets opt-out cookie must remain on your computer for us to recognize you as an opt-out user. If you buy a new computer, change Web browsers, or delete this cookie, you will need to perform the opt-out task again.
 
-In some cases, Intermarkets works with other third-party vendors to help deliver advertisements tailored to your interests. These vendors include ad networks and audience segment providers, and they place cookies on your browser to collect information about your online activity ( _e.g._ , the sites and pages you have visited) in order to help advertisers deliver particular ads that they believe you would find most relevant. You can opt out of those vendors’ use of cookies to tailor advertising to you by visiting <http://www.networkadvertising.org/managing/opt_out.asp>.
+In some cases, Intermarkets works with other third-party vendors to help deliver advertisements tailored to your interests. These vendors include ad networks and audience segment providers, and they place cookies on your browser to collect information about your online activity ( _e.g._ , the sites and pages you have visited) in order to help advertisers deliver particular ads that they believe you would find most relevant. You can opt out of those vendors’ use of cookies to tailor advertising to you by visiting [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
 _PLEASE NOTE that if you erase or otherwise alter your browser’s cookie file (including upgrading certain browsers) you may need to opt out again._
 
@@ -84,7 +84,7 @@ Intermarkets does not keep data on its own servers; instead the data is kept on 
 
 ### Third Party Websites
 
-The Site may contain links to websites or content operated and maintained by third parties. Intermarkets does not control those sites or their privacy practices, which may differ from our practices. If you click on a link or an advertisement, the privacy policy of the website to which you link will govern the collection and use of your information by that website’s operator(s). You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before disclosing any information to the website. For more information, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+The Site may contain links to websites or content operated and maintained by third parties. Intermarkets does not control those sites or their privacy practices, which may differ from our practices. If you click on a link or an advertisement, the privacy policy of the website to which you link will govern the collection and use of your information by that website’s operator(s). You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before disclosing any information to the website. For more information, please click [here](https://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Spyware or Adware
 
@@ -112,10 +112,10 @@ Intermarkets may update this Privacy Policy from time to time, and so you should
 
 ### Acceptance of Privacy Policy
 
-When you use the Intermarkets website, you are accepting the terms and conditions of this Privacy Policy, and Intermarkets will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Intermarkets website. You can also access, correct, or change your Personally Identifiable Information, or opt out of our direct marketing efforts, by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0e676068614e67607a6b7c636f7c656b7a7d20606b7a).  Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’ database.  If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. If you have questions or concerns about this Privacy Policy, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b3daddd5dcf3daddc7d6c1ded2c1d8d6c7c09dddd6c7) or send us a letter at Intermarkets, Inc., Attention: Privacy, 11911 Freedom Drive, Suite 1140, Reston, VA 20190.
+When you use the Intermarkets website, you are accepting the terms and conditions of this Privacy Policy, and Intermarkets will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Intermarkets website. You can also access, correct, or change your Personally Identifiable Information, or opt out of our direct marketing efforts, by sending an email to [info@intermarkets.net](mailto:info@intermarkets.net).  Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’ database.  If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. If you have questions or concerns about this Privacy Policy, please email us at [info@intermarkets.net](mailto:info@intermarkets.net) or send us a letter at Intermarkets, Inc., Attention: Privacy, 11911 Freedom Drive, Suite 1140, Reston, VA 20190.
 
 ### Additional information
 
 For the privacy policies for each of our Portfolio publishers, please visit their sites.  Links to our Portfolio publishers’ websites are located in our [Media Kit](http://intermarkets.net/advertisers/index.html).
 
-(Visited 167 times, 3 visits today)
+(Visited 321 times, 1 visits today)
