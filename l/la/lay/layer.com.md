@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the layer.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517211516id_/https%3A//layer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layer.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213122415id_/https%3A//layer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Layer
 
 Layer, Inc. (“Layer”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy practices (“Privacy Policy”). By using the Layer services, or visiting the Layer website at www.layer.com (collectively, the “Services”), you accept the practices outlined in this Privacy Policy.
 
-Layer complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Layer has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+Layer, Inc. complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.  Layer, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
 
 Layer is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
@@ -66,13 +66,13 @@ If you decide to access or use the Services, any possible dispute over privacy i
 
 ## Children
 
-The Children’s Online Privacy Protection Act (“COPPA”) requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under 13. We do not knowingly collect or solicit personally identifiable information from children under 13; if you are a child under 13, please do not attempt to register on the Services or send any personal information about yourself to us. If we learn we have collected personal information from a child under 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at [privacy@layer.com](mailto:privacy@layer.com).
+The Children’s Online Privacy Protection Act (“COPPA”) requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under 13. We do not knowingly collect or solicit personally identifiable information from children under 13; if you are a child under 13, please do not attempt to register on the Services or send any personal information about yourself to us. If we learn we have collected personal information from a child under 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at [privacy@layer.com](mailto:privacy@layer.com).
 
 ## Access, Corrections and Deletions of information
 
-Layer acknowledges that individuals have the right to access the personal information that we maintain about them. You may contact us in order to access, correct, amend or delete Contact Information or Billing Information you provided that is inaccurate. You may request such changes to your account by sending an e-mail to [privacy@layer.com](mailto:privacy@layer.com).
+Layer acknowledges that individuals have the right to access the personal information that we maintain about them. You may contact us in order to access, correct, amend or delete Contact Information or Billing Information you provided that is inaccurate. You may request such changes to your account by sending an e-mail to [privacy@layer.com](mailto:privacy@layer.com).
 
-We will provide an individual opt-out choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To limit the use and disclosure of your personal information, you may submit a written request to [privacy@layer.com](mailto:privacy@layer.com).
+We will provide an individual opt-out choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To limit the use and disclosure of your personal information, you may submit a written request to [privacy@layer.com](mailto:privacy@layer.com).
 
 ## Changes to this Privacy Policy
 
@@ -80,28 +80,26 @@ Layer may amend this Privacy Policy from time to time. Use of information we col
 
 ## Questions or Concerns
 
-If you have any questions or concerns regarding privacy in connection with the Services, please send us a detailed message at [privacy@layer.com](mailto:privacy@layer.com). We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy in connection with the Services, please send us a detailed message at [privacy@layer.com](mailto:privacy@layer.com). We will make every effort to resolve your concerns.
 
-## Complaints
+## EU-U.S. and Swiss-U.S. Privacy Shield
 
-In compliance with the EU-US Privacy Shield Principles, Layer commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Layer at:
+Layer complies with the EU-U.S. Privacy Shield Framework and the
 
-[privacy@layer.com](mailto:privacy@layer.com)
+Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Layer has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-Layer has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint. Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
+In compliance with the US-EU and Swiss-US Privacy Shield Principles, Layer commits to resolve complaints about your privacy and our collection or
 
-## US-Swiss Safe Harbor
+use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Layer at: [privacy@layer.com](https://web.archive.org/web/20181213122415id_/https://layer.com/privacy/_wp_link_placeholder)
 
-Layer complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Layer has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/swiss>.
+Layer has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute
 
-In compliance with the US-Swiss Safe Harbor Principles, Layer commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Layer at:
+resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit http://www.bbb.org/EU-privacyshield/for-eu-consumers for more information and to file a complaint.
 
-[privacy@layer.com](mailto:privacy@layer.com)
-
-Layer has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+Finally, as a last resort and in limited situations, EU and Swiss individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
 
 Effective Date of Privacy Policy first posted: August 7, 2014  
-Updated: November 4, 2016
+Updated: April 16, 2017
 
 Layer, Inc.  
 655 4th Street, 2nd Floor  
