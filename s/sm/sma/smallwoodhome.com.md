@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smallwoodhome.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807105622id_/https%3A//www.smallwoodhome.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallwoodhome.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213062930id_/https%3A//www.smallwoodhome.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy – Smallwood Home
+# Smallwood Home - Privacy – Smallwoods
 
 PRIVACY STATEMENT
 
@@ -17,9 +17,11 @@ When you provide us with personal information to complete a transaction, verify 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
 How do I withdraw my consent?  
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at customerservice@smallwoodhome.com or mailing us at:  
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by contacting us at support@smallwoodhome.com or mailing us at:  
 Smallwood Home  
-1907 E US Hwy 80 Ste 130 White Oak Texas US 75693
+101 Village Dr.
+
+Diana, TX 75640
 
 SECTION 3 - DISCLOSURE
 
@@ -74,7 +76,8 @@ If our store is acquired or merged with another company, your information may be
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at customerservice@smallwoodhome.com or by mail at  
-Smallwood Home  
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [support@smallwoodhome.com](mailto:customerservice@smallwoodhome.com?subject=Privacy%20Questions) by mail at   
+Smallwood Home
+
 [Re: Privacy Compliance Officer]  
-1907 E US Hwy 80 Ste 130 White Oak Texas US 75693 
+101 Village Dr.
