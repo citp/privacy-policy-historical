@@ -1,59 +1,111 @@
-> *The following text is extracted and transformed from the standardchartered.com.sg privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709150959id_/https%3A//www.sc.com/sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.sg privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213142728id_/https%3A//www.sc.com/sg/privacy) for the most accurate reproduction.*
 
-# Privacy – Standard Chartered Singapore
+# Privacy - Standard Chartered Singapore
 
     Privacy Statement
-    Privacy Statement (Corporate Clients)
+    Privacy Statement (Corporate and Institutional Clients)
 
-  * This Privacy Statement relates to personal data collected, used and disclosed ("processed") by Standard Chartered Bank, Standard Chartered Bank (Singapore) Limited, Standard Chartered Trust (Singapore) Limited and other members of the Group, referred to in this statement as " **SCB** " or " **we** ".
+  * This Privacy Statement relates to the collection, use and disclosure of personal data, including special or sensitive personal data, by any member of the Standard Chartered Group (“SCB”, “we” or “our”). Personal Data is information relating to an individual (“you” or “your”).
 
-**PURPOSES FOR WHICH WE PROCESS YOUR PERSONAL DATA**
+The Data Controller of your personal data is the SCB entity you have or may have a relationship with or with whom an account is maintained that you are a security provider for. Our Head Office functions may also be the controller of your personal data.
 
-The purposes for which SCB processes personal data include the following: 
+Personal Data comprises all the details SCB holds or collects about you, directly or indirectly, your transactions, transactions you effect, financial information, interactions and dealings with SCB, including information received from third parties, the public domain, collected through use of our website, cookies, and our electronic banking services.
 
-    * to provide you with the services you have requested and maintaining our relationship with you;
-    * operational purposes including assessing your suitability for products and services and statistical analysis;
-    * identity verification, sanctions screening and due diligence checks as may be required under applicable law, regulation or directive;
-    * credit assessment, including conducting credit checks;
-    * conducting market research and surveys with the aim of improving our products and services;
-    * to comply with law or regulation, including requests from local or foreign regulators, government, tax or law enforcement authorities;
-    * for the prevention and detection of crime (including, without limitation, money laundering, terrorism and fraud prevention, detection and prosecution); 
-    * to seek professional advice, including, in connection with any legal proceedings (including any prospective legal proceedings), for obtaining legal advice or for establishing, exercising or defending legal rights;
-    * for marketing purposes;
-    * for surveillance of premises and ATMs.
+If you have or are party to more than one account with SCB, or to a Corporate and Institutional Banking relationship, we will link all your Personal Data to enable us to have an overall picture of your relationship with us.
+
+If you do not provide us with personal data we need to meet our legal and regulatory obligations or to enter into an agreement with you we may not be able to provide you with the products or services you have requested.
+
+  
+
+
+**PURPOSES FOR WHICH WE MAY PROCESS YOUR PERSONAL DATA**
+
+To enable us to fulfil the contract between us for the services you have requested, we need to process your Personal Data for purposes including the following:
+
+    * processing applications for products and services, effecting payments, transactions and completing instructions or requests;
+    * providing products and services (including electronic banking service);
+    * assessing suitability for products and services;
+    * credit assessment, including conducting credit checks and setting credit limits;
+    * operational purposes; 
+    * statistical purposes;
+    * establishment, continuation and management of banking relationships and account;
+    * surveillance of premises and ATMs.
+
+For some purposes in connection with the service you have requested, we have a legal or regulatory obligation to process your personal data. These purposes include:
+
+    * the prevention, detection, investigation and prosecution of crime in any jurisdiction (including, without limitation, money laundering, terrorism, fraud and other financial crime);
+    * identity verification, government sanctions screening and due diligence checks;
+    * to comply with: local or foreign law, regulations, directives, judgments or court orders, government sanctions or embargoes, reporting requirements under financial transactions legislation, and demands of any authority, regulator, tribunal, enforcement agency, or exchange body.
+
+We may also process your personal data in line with any voluntary codes; to effect agreements between any member of the Standard Chartered Group and any authority, regulator, or enforcement agency; to comply with policies (including the Standard Chartered Group’s policies) and good practice standards where it is in our legitimate interest to do so.
+
+We may also process your personal data where it is in our legitimate interests to seek professional advice, including, in connection with any legal proceedings (including any prospective legal proceedings), for obtaining legal advice or for establishing, exercising or defending legal rights.
 
 <back to top>
 
-**TO WHOM WE MAY DISCLOSE YOUR PERSONAL DATA**
+**TO WHOM WE MAY DISCLOSE PERSONAL DATA**
 
-We may disclose personal data for any of the purposes specified above to:
+Any member of SCB, including our officers, employees, agents and advisers, may disclose your Personal Data to any of the following parties for any of the purposes specified above:
 
-    * any officer, employee, agent or director of SCB (including subsidiaries, affiliates, representative and branch offices of the Group) professional advisers, third party service providers, agents or independent contractors providing services to support the Group's business operations under a duty of confidentiality to the Group;
-    * any person to whom disclosure is allowed or required by law, regulation or any other applicable instrument;
-    * any court, tribunal, regulator (including national and/or international regulator), enforcement agency, exchange body, tax or other authority (including HDB, CPF or an authority investigating an offence) where we are required to do so by applicable law and/or regulation; any authority or regulator; any directive, order or request of any authority or regulator; or any agreement with a regulator or an authority;
-    * any actual or potential participant or sub-participant or assignee, novatee or transferee of the Group's rights and/or obligations under any transaction between any Group member and you (or any of such person's agents or professional advisers).
+    * any member of the Standard Chartered Group anywhere in the world, including any officer, employee, agent or director;
+    * professional advisers (including auditors), third party service providers, agents or independent contractors providing services to support SCB’s business;
+    * our business alliance partners who may provide their product or service to you;
+    * a merchant or a member of a card association where the disclosure is in connection with use of a card;
+    * upon your death or mental incapacity, your legal representative and their legal advisers, and a member of your immediate family for the purpose of allowing him/her to make payment on your account;
+    * any security provider or any person authorised to operate your account and to act on your behalf in giving instructions, to perform any other acts under our banking agreement or use any product;
+    * any person to whom disclosure is allowed or required by local or foreign law, regulation or any other applicable instrument;
+    * any court, tribunal, regulator, enforcement agency, exchange body, tax authority, or any other authority (including any authority investigating an offence) or their agents;
+    * any debt collection agency, credit bureau or credit reference agency, rating agency correspondents, insurer or insurance broker, direct or indirect provider of credit protection and fraud prevention agencies;
+    * any financial institution to conduct credit checks, anti-money laundering related checks, for fraud prevention and detection of crime purposes;
+    * anyone we consider necessary to facilitate requests for services or applications for products with any member of the Standard Chartered Group;
+    * anyone we consider necessary in order to provide services in connection with a product;
+    * enabling an actual or potential assignee of all or any part of the business and/or asset of the Standard Chartered Group or participant or sub-participant of our rights in respect of any product agreement, to evaluate the transaction intended to be the subject of the assignment, participation or sub-participation;
+
+located in any jurisdiction.
 
 <back to top>
+
+  
+
 
 **SECURITY**
 
-The security of your personal data is important to us. SCB and all members of the Group comply with technical and organisational security measures to safeguard your personal data. When using external service providers, we require that they adhere to the same security standards as SCB. Personal data may be transferred to, or stored at, a location outside of Singapore. Regardless of where personal data is transferred, we take all steps reasonably necessary to ensure that personal data is kept securely.
+Personal data may be transferred to, or stored at, a location outside of your country of residence, which may not have data protection law. The security of your personal data is important to us. SCB has technical and organisational security measures in place to safeguard your personal data. When using external service providers, we require that they adhere to security standards mandated by SCB. We may do this through contractual provisions, including any approved by a privacy regulator, and oversight of the service provider. Regardless of where personal data is transferred, we take all steps reasonably necessary to ensure that personal data is kept securely.
+
+You should be aware that the Internet is not a secure form of communication and you must not send us any personal data over the Internet as this carries with it risks including the risk of access and interference by unauthorised third parties. Information passing over the Internet may be transmitted internationally (even when sender and recipient are located in the same country) via countries with weaker privacy and data protection laws than in your country of residence.
+
+<back to top>
+
+**OTHER TERMS AND CONDITIONS**
+
+There may be specific terms and conditions in our banking and product agreements that govern the collection, use and disclosure of your Personal Data. Such other terms and conditions must be read in conjunctions with this Privacy Statement.
 
 <back to top>
 
 **RETENTION**
 
-We retain personal data in accordance with legal, regulatory, business and operational obligations.
+We retain your Personal Data in line with our legal and regulatory obligations and for business and operational purposes. In the majority of cases this will be for seven years from the end of your relationship with us.
+
+<back to top>
+
+**AUTOMATED DECISIONS AND PROFILING**
+
+We will use profiling, including behavioural analysis, to assist us to provide you with better services, to make decisions and to prevent money laundering, terrorism, fraud and other financial crime, for example using profiling will help us to try and detect whether use of your credit card may be fraudulent. If any profiling will result in an automated decision relating to you, we will let you know and you will have the right to discuss the decision with us.
 
 <back to top>
 
 **MARKETING**
 
-If we were already in possession of your personal data prior to 2 July 2014, we may have been using your personal data to market products or services to you via various channels (including through voice calls and text messages) as well as promotions, contests or lucky draws.
+We will use your personal data: 
 
-As a customer of SCB you have the opportunity to make marketing choices. Please indicate your choices by completing our Customer Choice form available at our branches, or by calling our 24-hour Phone Banking team. 
+    * to conduct market research and surveys with the aim of improving our products and services;
+    * for marketing purposes, promotional events, competitions and lucky draws;
 
-Clients with Relationship Managers, such as Private Banking and Priority clients of SCB, may from time to time be contacted by their relationship manager to discuss products and services designed to suit their investment objectives and/ or interests.
+We process your personal data for these purposes because it is in the interest of our business to do so with the intention of improving our products and services and generating business. We will not send you marketing material if you have specifically asked us not to do so. You have the right to opt out of receiving marketing material at any time. To do so please contact your branch or relationship manager.
+
+Clients with Relationship Managers, such as Private Banking and Priority clients of SCB, may from time to time be contacted by their relationship manager to discuss products and services designed to suit their investment objectives and/or interests.
+
+If you change your mind and ask us not to send you marketing material or other promotional or research material you have subscribed to receive, we will need to retain a record that you have asked us not to do so to ensure that you do not receive anything further.
 
 <back to top>
 
@@ -63,13 +115,48 @@ To the extent permitted by law, we may record and monitor your electronic commun
 
 <back to top>
 
-**RIGHT OF ACCESS**
+**YOUR RIGHTS**
 
-You have the right to request a copy of the personal data processed in relation to you and to request that any inaccurate data be corrected. If you wish to exercise this right, please visit any of our branches to complete an Access Request Form, call us at one of the numbers listed below or send a request through your secure mailbox on our internet banking portal. **To ensure the security of your personal data, please do not send your requests via email.** SCB is allowed by law to charge you a fee for a copy of your personal data.
+    * Access
+
+Subject to applicable law, regulations and/or banking industry guidelines, you may have the right to request a copy of the Personal Data processed in relation to you. SCB may be allowed by law to charge a fee for this.
+
+  
+
+    * Correction
+
+You can request at any time that we correct your personal data at your branch or through your relationship manager.
+
+  
+
+    * Erasure
+
+In some circumstances you have the right to ask us to delete your personal data, for example if we no longer have a valid reason to process it.
+
+  
+
+    * Object
+
+In some circumstances you may have the right to object to how we process your personal data but this does not mean you can decide or choose how we process your personal data other than in relation to marketing. If you have any concerns about how we process your personal data, please discuss this at your branch or with your Relationship Manager. We may not be able to offer you services if you do not want us to process the personal data we consider it necessary to process to provide the services.
+
+  
+
+    * Restriction
+
+In some circumstances you may have the right to restrict how your personal data is processed.
+
+  
+
+    * Portability
+
+In some circumstances you may have the right to request the personal data you have given to us in a machine readable format. You can already do this through on line banking in relation to your banking transactions.
 
 <back to top>
 
-**CONTACT US**
+  
+
+
+**CONTACTING US**
 
 **By telephone:**
 
@@ -79,8 +166,8 @@ Personal Banking |  1800 747 7000 (24-hour)
 Priority Banking |  1800 846 8000 (24-hour)  
 (65) 6846 8000 (24-hour) if calling from overseas   
 Private Banking |  Please contact your Relationship Manager   
-Business Banking |  1800 743 3000 (Mon to Fri - 9:00am to 6:00pm)  
-(65) 6743 3000 (Mon to Fri - 9:00am to 6:00pm) if calling from overseas   
+Business Banking |  1800 743 3000 (Mon to Fri – 9:00am to 6:00pm)  
+(65) 6743 3000 (Mon to Fri – 9:00am to 6:00pm) if calling from overseas   
   
 **By Mail:**
 
@@ -90,107 +177,172 @@ Standard Chartered Bank (Singapore) Limited
 Marina Bay Financial Centre  
 Singapore 018981 
 
-**By E-mail:** [Singapore.Privacy@sc.com](mailto:Singapore.Privacy@sc.com)  
-(for your security, no customer access requests will be accepted nor reports transmitted through e-mail)
+**COMPLAINTS**
+
+If you have a complaint in relation to the processing of your personal data and you are not happy with the way we deal with it, please discuss this at your branch or with your Relationship Manager, or contact the Data Privacy Officer. You also have the right to complain to the data protection authority, if one exists, in the country where you have a relationship with the Bank, or if your relationship is with SCB outside of the European Union but you are located there, the UK Information Commissioner. Details can be provided by emailing [Singapore.Privacy@sc.com](mailto:Singapore.Privacy@sc.com)
+
+  
+
+
+**CHANGES TO THIS PRIVACY POLICY**
+
+This Privacy Policy may be updated from time to time and you are advised to visit this site regularly to check for any amendments. This policy was last updated on 25 May 2018.
+
+  
+  
+  
+
+
+**LINKED WEBSITES**
+
+Our Privacy Policy does not apply to third-party websites where our online advertisements are displayed or to linked third-party websites which we do not operate or control.
 
 <back to top>
 
-**UPDATES TO THIS PRIVACY STATEMENT**
+  * This Privacy Statement relates to the collection, use and disclosure of personal data, including special or sensitive personal data, by any member of the Standard Chartered Group (“SCB”, “we” or “our”). In this Privacy Statement and related contractual terms and policy documents “Personal Information” or “Personal data” is information relating to an individual (“you” or “your”) and “data subject” has the same meaning as “individual”.
 
-SCB reserves the right to amend this Privacy Statement at any time and will place notice of any such amendments on our website or at our branches or via other suitable methods. 
+Personal data we collect in respect of Corporate and Institutional Banking, Global Banking and Commercial Banking (collectively “Corporate and Institutional Banking”) and Business Banking relationships is primarily limited to the information on Directors and Officers, direct and indirect beneficial owners and authorised persons we need to enable us to meet our due diligence obligations, signatory details and contact information of individuals we interact with to enable the provision of services to a Corporate and Institutional Banking or Business Banking entity.
 
-**ISSUE DATE:** 2 JUNE 2014
+The Data Controller of your personal data is the SCB entity you have a relationship with. Our Head Office functions may also be the controller of your personal data.
 
-<back to top>
+Personal data comprises all the details SCB holds or collects about you, directly or indirectly, your transactions, transactions you effect, financial information, interactions and dealings with SCB, including information received from third parties, the public domain, collected through use of our website, cookies, and our electronic banking services.
 
-  * This Privacy Statement relates to personal data collected, used and disclosed (" **processed** ") by Standard Chartered Bank, Standard Chartered Bank (Singapore) Limited and other members of the Group, referred to in this statement as " **SCB** " or " **we** ".
+If you have or are party to more than one account with SCB, or to a Private or Retail Banking relationship, we will link all your Personal data to enable us to have an overall picture of your relationship with us.
 
-For the purposes of this Privacy Statement, " **Group** " means Standard Chartered PLC and any of its subsidiaries, holding companies and any other subsidiary of any such holding company, including head offices and branches of the foregoing. 
+**PURPOSES FOR WHICH WE MAY PROCESS YOUR PERSONAL DATA**
 
-**PERSONAL DATA OF INDIVIDUALS WHO ARE REPRESENTATIVES OF A BODY CORPORATE**
+We process Personal data where it is in our legitimate interests to do so to enable us to fulfil the contract between us and the Corporate and Institutional Banking entity or Business Banking entity for the services requested, including the following:
 
-You, as a client of SCB or as a guarantor or security provider of a client of SCB, may need to collect and supply to us the personal data of individuals such as your directors, officers, authorized persons, shareholders, owners, guarantors or security providers (as applicable) from time to time in order for us to provide banking services to you. Where personal data is submitted by you on behalf of an individual, you must get the consent of such individual to SCB processing his or her personal data. You represent and warrant to us that all the necessary consents have been obtained from the relevant individual and that you have retained proof of such consent, such proof to be provided to us upon our request. 
+    * processing applications for products and services, effecting payments, transactions and completing instructions or requests;
+    * providing products and services (including electronic banking service);
+    * assessing suitability for products and services;
+    * credit assessment, including conducting credit checks and setting credit limits; 
+    * operational purposes;
+    * establishment, continuation and management of banking relationships and accounts; and 
+    * surveillance of premises
 
-<back to top>
+For some purposes in connection with the service requested, we have a legal or regulatory obligation to process your personal data. These purposes include:
 
-**PURPOSES FOR WHICH WE PROCESS PERSONAL DATA**
+    * the prevention, detection, investigation and prosecution of crime in any jurisdiction (including, without limitation, money laundering, terrorism, fraud and other financial crime);
+    * identity verification, government sanctions screening and due diligence checks; and
+    * to comply with: local or foreign law, regulations, directives, judgments or court orders, government sanctions or embargoes, reporting requirements under financial transactions legislation, and demands of any authority, regulator, tribunal, enforcement agency, or exchange body.
 
-The purposes for which SCB processes personal data include the following: 
+We may also process your personal data in line with any voluntary codes; to effect agreements between SCB and any authority, regulator, or enforcement agency; to comply with policies (including the Standard Chartered Group’s policies) and good practice standards where it is in our legitimate interest to do so.
 
-    * to provide you with the services you have requested and maintaining our relationship with you;
-    * operational purposes including assessing your suitability for products and services and organising of events which you may participate in;
-    * identity verification, sanctions screening and due diligence checks as may be required under applicable law, regulation or directive;
-    * credit assessment, including conducting credit checks;
-    * carrying out research, planning and statistical analysis with the aim of improving our products and services;
-    * to comply with law or regulation, including requests from local or foreign regulators, government, tax or law enforcement authorities;
-    * for the prevention and detection of crime (including, without limitation, money laundering, terrorism and fraud prevention, detection and prosecution); 
-    * to seek professional advice, including, in connection with any legal proceedings (including any prospective legal proceedings), for obtaining legal advice or for establishing, exercising or defending legal rights;
-    * for marketing products and services to you; and 
-    * for surveillance of premises and ATMs.
+Personal data is also processed where it is in our legitimate interests to seek professional advice, including, in connection with any legal proceedings (including any prospective legal proceedings), for obtaining legal advice or for establishing, exercising or defending legal rights.
 
 <back to top>
 
 **TO WHOM WE MAY DISCLOSE PERSONAL DATA**
 
-We may disclose personal data for any of the purposes specified above to:
+Any member of SCB, including our officers, employees, agents, advisers and directors, may disclose your Personal data to any of the following parties for any of the purposes specified above:
 
-    * any officer, employee, agent or director of SCB (including subsidiaries, affiliates, representative and branch offices of the Group), professional advisers, insurers, insurance brokers, direct or indirect provider of credit protection, third party service providers, agents or independent contractors providing services to support the Group's business operations under a duty of confidentiality to the Group;
-    * any person to whom disclosure is allowed or required by law, regulation or any other applicable instrument;
-    * any court, tribunal, regulator (including national and/or international regulator), enforcement agency, exchange body, tax or other authority where we are required to do so by applicable law and/or regulation; any authority or regulator; any directive, order or request of any authority or regulator; or any agreement with an authority or a regulator;
-    * any actual or potential participant, sub-participant, assignee, novatee or transferee of the Group's rights and/or obligations under any transaction between any Group member and you (or any of such person's agents or professional advisers); or
-    * any drawee or drawer bank in connection with any cheque or equivalent, or any financial institution, processing agent or any other person who will be involved in any provision of financial services by us to you or with whom you have or propose to have dealings with through us.
+    * any other member of SCB anywhere in the world, including any officer, employee, agent, advisor or director;
+    * professional advisers (including auditors), third party service providers, agents or independent contractors providing services to support SCB’s business;
+    * any person to whom disclosure is allowed or required by local or foreign law, regulation or any other applicable instrument;
+    * any court, tribunal, regulator, enforcement agency, exchange body, tax authority, or any other authority (including any authority investigating an offence) or their agents;
+    * any financial institution to conduct credit checks, anti-money laundering related checks, for fraud prevention and detection of crime purposes;
+    * anyone we consider necessary to facilitate requests for services or applications for products with any member of SCB;
+    * anyone we consider necessary in order to provide services in connection with a product;
+    * any actual or potential (a) assignee of all or any part of the business and/or asset of the Standard Chartered Group or (b) participant or sub-participant of our rights in respect of any product agreement, in order to evaluate the transaction intended to be the subject of the assignment, participation or sub-participation (or any officer, employee, agent or adviser of any of these parties);
+
+located in any jurisdiction.
 
 <back to top>
 
 **SECURITY**
 
-The security of personal data is important to us. SCB and all members of the Group comply with technical and organisational security measures to safeguard personal data. When using external service providers, we require that they adhere to the security standards imposed by SCB. Personal data may be transferred to, or stored at, a location outside of Singapore. Regardless of where personal data is transferred, we take all steps reasonably necessary to ensure that personal data is kept securely.
+Personal data may be transferred to, or stored at, a location outside of your country of residence, which may not have data protection law. The security of your personal data is important to us. SCB has technical and organisational security measures in place to safeguard your personal data. When using external service providers, we require that they adhere to security standards mandated by SCB. We may do this through contractual provisions, including any approved by a privacy regulator, and oversight of the service provider. Regardless of where personal data is transferred, we take all steps reasonably necessary to ensure that personal data is kept securely.
+
+You should be aware that the Internet is not a secure form of communication and you must not send us any personal data over the Internet as this carries with it risks including the risk of access and interference by unauthorised third parties. Information passing over the Internet may be transmitted internationally (even when sender and recipient are located in the same country) via countries with weaker privacy and data protection laws than in your country of residence.
+
+<back to top>
+
+**OTHER TERMS AND CONDITIONS**
+
+There may be specific terms and conditions in our banking and product agreements that govern the collection, use and disclosure of your personal data. Such other terms and conditions must be read in conjunctions with this Privacy Statement.
 
 <back to top>
 
 **RETENTION**
 
-We retain personal data in accordance with legal, regulatory, business and operational obligations. 
+We retain your Personal data in line with our legal and regulatory obligations and for business and operational purposes. In the majority of cases this will be for seven years from the end of your relationship with us. 
+
+<back to top>
+
+**MARKETING**
+
+We will use your business contact data: 
+
+    * to conduct market research and surveys with the aim of improving our products and services to Corporate and Institutional Banking clients or Business Banking clients;
+    * to market our products to Corporate and Institutional Banking clients or Business Banking clients and for promotional events.
+
+We process your personal data for these purposes because it is in the interest of our business to do so with the intention of improving our products and services and generating business. We will not send you marketing material if you have specifically asked us not to do so. You have the right to opt out of receiving marketing material on behalf of the Corporate or and Institutional Banking entity or Business Banking entity that you represent at any time. To do so please contact your relationship manager. 
+
+If you change your mind and ask us not to send you marketing material or other promotional or research material you have subscribed to receive, we will need to retain a record that you have asked us not to do so to ensure that you do not receive anything further.
 
 <back to top>
 
 **MONITORING**
 
-To the extent permitted by law, we may record and monitor your electronic communications with us to ensure compliance with our legal and regulatory obligations and internal policies for the purposes outlined above.
+To the extent permitted by law, we may record and monitor your electronic communications with us to ensure compliance with our legal and regulatory obligations and internal policies for the purposes outlined above. 
 
 <back to top>
 
-**RIGHT OF ACCESS**
+**YOUR RIGHTS**
 
-Subject to the applicable law, regulations and/or banking industry guidelines, individuals have the right to request a copy of the personal data processed in relation to them and to request that any inaccurate data be corrected. If an individual related to your banking relationship with us wishes to exercise this right, please have him or her contact the Relationship Manager in charge of your account. **To ensure the security of personal data, please do not send requests via email.** SCB is allowed by law to charge a fee for a copy of personal data.
+• Access  
+Subject to applicable law, regulations and/or banking industry guidelines, you may have the right to request a copy of the Personal data processed in relation to you. SCB may be allowed by law to charge a fee for this.
+
+• Correction  
+You can request at any time that we correct your personal data at your branch or through your relationship manager.
+
+• Erasure  
+In some circumstances you have the right to ask us to delete your personal data, for example if we no longer have a valid reason to process it.
+
+• Object  
+In some circumstances you may have the right to object to how we process your personal data but this does not mean you can decide or choose how we process your personal data other than in relation to marketing. If you have any concerns about how we process your personal data, please discuss this with your Relationship Manager. We may not be able to offer the services if you do not want us to process the personal data we consider it necessary to provide the services.
+
+• Restriction  
+In some circumstances you may have the right to restrict how your personal data is processed. 
 
 <back to top>
 
-**CONTACT US**
+**CONTACTING US**
 
 **By telephone:**
 
-Please contact your Relationship Manager or our Customer Service Group at (65) 6876 0888.   
-For SME Banking, please call 1800 743 3000.
+Please contact your Relationship Manager or our Client Services Group at (65) 6876 0888. For Business Banking, please call 1800 743 3000. 
 
 **By Mail:**
 
 The Data Privacy Officer  
-c/o Standard Chartered Bank (Singapore) Limited  
+c\o Standard Chartered Bank (Singapore) Limited  
 8 Marina Boulevard #27-01  
 Marina Bay Financial Centre  
 Singapore 018981 
 
-**By E-mail:** [Singapore.Privacy@sc.com](mailto:Singapore.Privacy@sc.com)  
-(for security reasons, no access requests will be accepted nor reports transmitted through e-mail)
+**COMPLAINTS**
 
-<back to top>
+If you have a complaint in relation to the processing of your personal data and you are not happy with the way we deal with it, please discuss this with your Relationship Manager, or contact the Data Privacy Officer.
 
-**UPDATES TO THIS PRIVACY STATEMENT**
+You also have the right to complain to the data protection authority, if one exists, in the country where you have a relationship with the Bank. Details can be provided by emailing [Singapore.Privacy@sc.com](mailto:Singapore.Privacy@sc.com)
 
-SCB reserves the right to amend this Privacy Statement at any time and will place notice of any such amendments on our website or via other suitable methods.
+  
 
-**ISSUE DATE:** 20 JUNE 2014
+
+**CHANGES TO THIS PRIVACY POLICY**
+
+This Privacy Policy may be updated from time to time and you are advised to visit this site regularly to check for any amendments. This policy was last updated on 7 June 2018.
+
+  
+  
+  
+
+
+**LINKED WEBSITES**
+
+Our Privacy Policy does not apply to third-party websites where our online advertisements are displayed or to linked third-party websites which we do not operate or control.
 
 <back to top>
 
@@ -268,7 +420,7 @@ Please ensure you also read the Terms and Conditions applicable to these product
       2. **Marketing**
 
 We generally do not use Your Information collected on this Website for marketing purposes but if you apply for products and services on the Website, Your Information may be used to inform you about other related products and services of SCB Group that may be of interest.  
-If you do not wish to be contacted in this way please call our 24-hour Phone Banking team.
+If you do not wish to be contacted in this way please call our 24-hour Phone Banking team. 
 
       3. **Disclosing Your Information**
 
