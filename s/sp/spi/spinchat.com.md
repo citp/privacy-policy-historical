@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinchat.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610060147id_/https%3A//www.spinchat.com/help/1030) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinchat.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213154237id_/https%3A//www.spinchat.com/help/1030) for the most accurate reproduction.*
 
 # Data protection regulation/privacy policy | Spinchat.com
 
@@ -20,7 +20,7 @@ After exercising your right of revocation, we will not process your personal dat
 The following subitems apply when accessing our website by web browser.
 
  **2.1 Cookies**  
-In order to make your visit to our website attractive and to enable the use of certain functions, we use so-called cookies on various pages. This serves to protect our overriding legitimate interests in an optimized presentation of our offer and to avoid multiple sign ins in accordance with Art. 6 Para. 1 S. 1 lit. f GDPR.
+In order to make your visit to our website attractive and to enable the use of certain functions, we use so-called cookies on various pages. This serves to protect our overriding legitimate interests in an optimized presentation of our offer and to avoid multiple sign ins in accordance with Art. 6 (1) point f GDPR.
 
 Cookies are small text files that are automatically stored on your device. Some of the cookies we use are deleted after the end of the browser session, i.e. after closing your browser (so-called session cookies). Other cookies remain on your device and enable us to recognize your browser on your next visit (persistent cookies).
 
@@ -89,7 +89,7 @@ You can visit our websites without providing any personal information.
 
 Whenever users call individual pages, or log in or out, spinchat.com stores the current IP address, the name of the application used for access, as well as name and status of the requested file assigned to the pseudonym chosen by the user. Text publications in public chat rooms (not dialogs) are recorded.
 
-These access data are evaluated in accordance with Art. 6 Para. 1 S. 1 lit. f GDPR for the protection of our legitimate interests, which predominate within the scope of a weighing of interests, exclusively for the purpose of ensuring trouble-free operation of the site, optimizing our software and identifying and tracking inadmissible access attempts, for maintaining the terms of use and improving our offer. Under no circumstances will this data be used commercially or to create personality profiles.
+These access data are evaluated in accordance with Art. 6 (1) point f GDPR for the protection of our legitimate interests, which predominate within the scope of a weighing of interests, exclusively for the purpose of ensuring trouble-free operation of the site, optimizing our software and identifying and tracking inadmissible access attempts, for maintaining the terms of use and improving our offer. Under no circumstances will this data be used commercially or to create personality profiles.
 
 The log files concerning website visits will, if no preliminary proceedings are pending, be deleted after 7 days; other log files such as the log-in/log-out or the public chat rooms log files will, if no preliminary proceedings are pending, be deleted no later than 3 months after their collection.
 
@@ -107,7 +107,7 @@ Consent to this privacy policy can be revoked by the user using the function pro
 
 Profile details and photos will be completely removed upon deletion. Content posted by the user in public areas, e.g. forum posts, will remain - without the personal data from the profile. Messages sent to other users, such as dialogs, e-mails, guestbook entries or gifts, are retained by these users. Public contributions in which the user has inadvertently disclosed sensitive/personal data can, however, be subsequently removed by contacting our customer service stating the URL to be removed exactly.
 
-The data of users who are banned and blocked by SPiN AG will be retained within a 30-day period during which such a block can still be reversed if it is based on an error. After expiry of this period, the user's profile details and photos will be automatically deleted as after a self-initiated deletion; however, we reserve the right, in accordance with Art. 6 Para. 1 S. 1 lit. f GDPR, to protect our legitimate interests, which predominate in the context of a weighing of interests, to store data which are necessary to maintain the block itself, such as the pseudonym, email address and telephone number used for registration beyond this period, whereby this data will under no circumstances be used in any other way than to maintain the ban.
+The data of users who are banned and blocked by SPiN AG will be retained within a 30-day period during which such a block can still be reversed if it is based on an error. After expiry of this period, the user's profile details and photos will be automatically deleted as after a self-initiated deletion; however, we reserve the right, in accordance with Art. 6 (1) point f GDPR, to protect our legitimate interests, which predominate in the context of a weighing of interests, to store data which are necessary to maintain the block itself, such as the pseudonym, email address and telephone number used for registration beyond this period, whereby this data will under no circumstances be used in any other way than to maintain the ban.
 
  **5\. Transmission of data**
 
@@ -145,4 +145,4 @@ spinchat.com reserves the right to amend this privacy policy and to adapt it to 
 
  **9\. Party responsible and contact person for data protection**
 
-Party responsible according to Art. 4 Para. 7 GDPR is SPiN AG (see [our imprint](https://web.archive.org/help/5000)). Our data protection officer Sonja Tietz can be contacted via email to [datenschutz@spin-ag.de](mailto:datenschutz@spin-ag.de) or via letter to the address given in [our imprint](https://web.archive.org/help/5000).
+Party responsible according to Art. 4 (7) GDPR is SPiN AG (see [our imprint](https://web.archive.org/help/5000)). Our data protection officer Sonja Tietz can be contacted via email to [datenschutz@spin-ag.de](mailto:datenschutz@spin-ag.de) or via letter to the address given in [our imprint](https://web.archive.org/help/5000).
