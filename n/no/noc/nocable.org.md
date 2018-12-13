@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the nocable.org privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703040539id_/https%3A//nocable.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nocable.org privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213021422id_/https%3A//nocable.org/privacy) for the most accurate reproduction.*
 
 # NoCable.org Privacy Policy
 
-Website Visitors:
+_Attention Website Visitors..._
 
-This Privacy Policy governs your use of this web site and any content, products or services made available from or through this website including any sub domains thereof ('Web Site'). The Website is made available by Cagintranet Networks, LLC hereafter referred to as ('Company').
+This Privacy Policy governs your use of this web site and any content, products or services made available from or through this website (nocable.org) including any sub domains thereof ('Web Site'). The Website is made available by NoCable d/b/a Cagle Online Enterprises, Inc. hereafter referred to as ('Company').
 
 By visiting this Web Site and requesting information, products or services offered on or through this Web Site, you agree to the terms of this Privacy Policy, as they may be amended from time to time. As Company updates or expands its Web Site, services or products, this Privacy Policy may change and the changes are effective upon posting. Please check back frequently for updates as it is your sole responsibility to be aware of changes. Company does not provide notice of changes in any manner other than by posting the changes at this Web Site. This Privacy Policy is incorporated into, and part of, the Web Site Terms and Conditions of Use ('Terms of Use'), which governs your use of this Web Site in general. This Web Site is hosted in the United States of America. The Privacy Policy shall be interpreted under the laws of the United States.
 
-Purpose of the Privacy Policy.
+#### Purpose of the Privacy Policy
 
 The purpose of this Policy is to describe the information collection, use, and dissemination practices of Company, its parent, subsidiaries and registered d/b/a companies (Collectively Referred herein after as 'Company') and all related websites owned or registered to Company and applies to Company's collection, use, storage and disclosure of information by Company on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the 'Websites'), (b) on various Third Party websites, and (c) to Company's other information collection, including the acquisition of customer information from third parties.
 
@@ -16,19 +16,17 @@ By reference, this Privacy Policy is incorporated into and is subject to the Ter
 
 By providing us with your personal information on our website or in the course of using our services, you consent to and acknowledge that your personal data, including any sensitive personal data is being transferred by you to a server in the United States. You also consent to any other data we acquire about you from third-party service providers.
 
-Information Collection, Use, and Dissemination practices.
+#### Information Collection, Use, and Dissemination
 
 This policy applies to Company's collection, use, storage and disclosure of information by Company on its, (a) websites, including all its parent companies, divisions, subsidiaries and related companies (collectively, the 'Websites'), (b) on various third party websites, and (c) to Company's other information collection, including the transfer of opt-in customer lists from third parties, or the use of customer opt-in lists from third parties. Company is not responsible for the information collection or privacy practices of third party websites or applications.
 
-  1. Collection of Information.
-
-
+#### Collection of Information
 
 1.1. User Direct Information. Each time you provide information via the Website, Company may obtain and collect personally identifiable information provided by you, including, but not limited to, your name, email address, mailing address, social security number, credit card information, and telephone or cell phone number. You may also provide us with information that, when combined with personally identifiable information, provides us with a better idea of who you are, including but not limited to your gender, birthday, marital status, and education level (collectively referred to as 'personal information'). If you choose to access our website, use our services or purchase our products, we may require you to provide personal information as indicated on the forms throughout the site.
 
 1.2. Survey Information. Company may collect information from you when you voluntarily complete a Company survey, order form, or a registration page either online by using the internet, offline by providing this information through the mail, in person or using a telephone. This information may be collected by surveys, order forms, or registration pages operated by third parties. This method of collection is collectively known as a 'Survey.' In such Surveys, Company or a third party may ask you to provide personal identifiable information including your name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time. Company may also collect such information concerning you from another source and uses that information in combination with information provided from the Websites. Completing the Surveys is completely voluntary, and you are under no obligation to provide Survey Information to Company or a third party.
 
-1.3. Third Party Information. Company may collect information from you when you provide information to a third party and Company subsequently acquires or uses the information provided by the third party. Such information may include, but is not limited to, your name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information you may have provided to the third party. When acquiring this information, Company seeks assurances from the third party that you agreed to provide and have such information acquired by Company. If you did not give express permission, or you would like to remove your permission, you may suppress all of your information by sending notification to us at hi@chriscagle.me.
+1.3. Third Party Information. Company may collect information from you when you provide information to a third party and Company subsequently acquires or uses the information provided by the third party. Such information may include, but is not limited to, your name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information you may have provided to the third party. When acquiring this information, Company seeks assurances from the third party that you agreed to provide and have such information acquired by Company. If you did not give express permission, or you would like to remove your permission, you may suppress all of your information by [sending notification](https://web.archive.org/contact) to us at **chris@nocable.org**.
 
 1.4. Other Methods of Collecting Personal Information. Other occasions when Company obtains information from you include (1) your claiming a prize or seeking to redeem an offer by Company or by a third party, (2) your requests for assistance through Company's customer service department, and (3) when you voluntarily subscribe to a Company service or newsletter.
 
@@ -50,9 +48,7 @@ This policy applies to Company's collection, use, storage and disclosure of info
 
 1.7. Credit Card Information. Company may, in certain instances, collect credit card numbers and related information when an individual places an order from Company. When the credit card information is submitted to Company, such information is encrypted and is protected with SSL encryption software. Company will use the credit card information for purposes of processing and completing the purchase transaction, and the credit card information will be disclosed to third parties only as necessary to complete the purchase transaction. 1.8 Security. When users submit information at the website or when our third-party marketing partners transfer your personal information to us, such information is protected both online and offline. The servers in which we store the information are kept in a secure physical environment. Currently, Company uses Secure Socket Layer Software ('SSL') to protect data and to secure any transactions. SSL encrypts information, including credit card numbers, names and addresses as they are transmitted over the Internet. Although we take reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be secure. Therefore, Company cannot warrant that your information will be absolutely secure. Any transmission of data at or through our website is at your own risk.
 
-  1. Use of Individual Information.
-
-
+#### Use of Individual Information
 
 2.1 General Use. The following paragraphs in Section 2 describe how Company currently uses Individual Information, but Company may change or broaden its use at any time. As noted below, Company may update this policy from time to time. Company may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
 
@@ -76,9 +72,9 @@ This policy applies to Company's collection, use, storage and disclosure of info
 
 2.11. Storage of Individual Information. Company stores the Individual Information in a database on its' computers. Company computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under Company's control. Not withstanding such measures, Company cannot guarantee that its security measures will prevent its computers from being illegally accessed, and the Individual Information on them stolen or altered.
 
-  1. Other Use of Personal Information. Company may use your personal information in the following ways:
+#### Other Use of Personal Information
 
-
+Company may use your personal information in the following ways:
 
 3.1. Public Forums. When you contribute to a public area or feature of our Web Site, such as a chat room, bulletin board, list serve, blog, wiki or other open forum that we may make available on or through our Web Site, the information that you submit will be made available to the general public and will not be considered 'Personal Information' for purposes of this Privacy Policy. For this reason, we recommend that you do not submit any sensitive information, including your full name, home address, phone number, other information that would enable other users to locate you or your financial information on these areas of our Web Site. Instead, make up a username that does not disclose your personal identity.
 
@@ -100,9 +96,7 @@ This policy applies to Company's collection, use, storage and disclosure of info
 
 3.10. Third Parties. Company may provide your personal information to third parties with whom they have a business relationship for the purposes of securing the services and products you have requested or provide you with additional marketing materials from which you may choose additional products or services.
 
-  1. Privacy Practices of Third Parties.
-
-
+#### Privacy Practices of Third Parties
 
 4.1. Advertiser cookies and web beacons. Advertising agencies, advertising networks, and other companies who place advertisements on the websites and on the internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. Company does not control the use of such technology and Company has no responsibility for the use of such technology to gather information about you.
 
@@ -110,6 +104,6 @@ This policy applies to Company's collection, use, storage and disclosure of info
 
 4.3. Affiliations/Merger/Sale. Company further reserves the right to disclose, transfer or sell your personal information to companies who are affiliated with Company in Company's sole discretion. If Company changes ownership through an acquisition, merger, sale or other change of business status, it reserves the right to transfer or assign the right to use your Personal Information collected from the Website.
 
-  1. Foreign use of the Website. To the extent that you are accessing the Website while domiciled outside of the United States, you acknowledge that the Personal Information you are providing Company is collected and stored in the United States and therefore consent to the transfer of information to and storage of the information outside of your domiciled country and in the United States.
+#### Foreign use of the Website
 
-
+To the extent that you are accessing the Website while domiciled outside of the United States, you acknowledge that the Personal Information you are providing Company is collected and stored in the United States and therefore consent to the transfer of information to and storage of the information outside of your domiciled country and in the United States.
