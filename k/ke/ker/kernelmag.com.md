@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kernelmag.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312030248id_/http%3A//kernelmag.dailydot.com/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kernelmag.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213173614id_/https%3A//kernelmag.dailydot.com/privacy-policy-3) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The Kernel
 
 The Daily Dot UK Limited (“We”) are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](http://kernelmag.dailydot.com/terms-of-service/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting http://kernelmag.dailydot.com you are accepting and consenting to the practices described in this policy.
+This policy (together with our [terms of use](https://kernelmag.dailydot.com/terms-of-service/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting http://kernelmag.dailydot.com you are accepting and consenting to the practices described in this policy.
 
 For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is The Daily Dot UK Limited of 20-22 Bedford Row, London WC1R 4JS.
 
@@ -61,7 +61,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If The Daily Dot UK Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://kernelmag.dailydot.com/terms-of-service/) and other agreements; or to protect the rights, property, or safety of The Daily Dot UK Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://kernelmag.dailydot.com/terms-of-service/) and other agreements; or to protect the rights, property, or safety of The Daily Dot UK Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
