@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulse.com.gh privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628012900id_/http%3A//www.pulse.com.gh/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulse.com.gh privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213071410id_/https%3A//www.pulse.com.gh/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - How We Respect Your Privacy | Pulse.com.gh
 
