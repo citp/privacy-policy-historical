@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empower-retirement.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521205451id_/http%3A//www.empower-retirement.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empower-retirement.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213090154id_/http%3A//www.empower-retirement.com/privacy.shtml) for the most accurate reproduction.*
 
 # Empower Retirement | Privacy notice
 
