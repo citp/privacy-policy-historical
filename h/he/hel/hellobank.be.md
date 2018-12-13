@@ -1,283 +1,220 @@
-> *The following text is extracted and transformed from the hellobank.be privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111002501id_/https%3A//www.hellobank.be/legal-notice/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellobank.be privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213125819id_/https%3A//www.hellobank.be/legal-notice/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hello bank!
 
-The protection of your privacy is extremely important to BNP Paribas Fortis. We undertake to protect and process your personal data in strict compliance with the law, and to make sure you have the latest information. The purpose of this privacy notice is to fully inform you about this topic and to explain how we collect, use and store your personal data. The contractual provisions we agreed with you remain unchanged.
+The protection of your personal data is important to the BNP Paribas Group.
 
-We invite you to take the time to read this notice in order to become aware of how we handle this subject. You may object to the processing of your data, as explained in Chapter 6 of this notice. 
+This Privacy Notice provides you with detailed information relating to the protection of your personal data by BNP Paribas Fortis SA/NV, with its head office at Montagne du Parc/Warandeberg 3, 1000 Brussels (" **we** ").
 
-## 1\. What does this notice cover?
+We are responsible, as a controller, through our various brands (BNP Paribas Fortis, Hello bank! and Fintro), for the processing of your personal data in relation to our activities. The purpose of this Privacy Notice is to inform you which of your personal data we use, the reasons why we use and share such data, how long we keep it and how you can exercise your rights.
 
-### A. What does "processing your data" mean, and who is the controller?
+Further information may be provided where necessary when you apply for a specific product or service.
 
-"Processing" means any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organisation, storage, adaptation or alteration, retrieval, consultation, use, disclosure by means of transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction of personal data.
+## 1\. Which personal data do we use about you?
 
-BNP Paribas Fortis SA/NV, with its head office at Montagne du Parc/Warandeberg 3, 1000 Brussels is responsible for processing the personal data it deems necessary to process. 
+We collect and use your personal data to the extent necessary in the framework of our activities and to achieve a high standard of personalised products and services.
 
-We are therefore **the party whom you** , as well as the supervisory authorities (for example the Privacy Commission), should contact for any questions you may have relating to the way our bank uses your data. 
+We collect various types of personal data about you, including:
 
-For some services, we rely on **specialised partners** which, when necessary, act as processors. They therefore have to follow our instructions and adhere to our policy on personal data protection. In some other cases, these partners may also act as joint controllers for processing data and must comply with their own legal obligations in this area. 
+  * **identification information** (e.g. name, ID card and passport numbers, nationality, place and date of birth, gender, picture, IP address);
+  * **contact information** (e.g. postal address and e-mail address, phone number);
+  * **family situation** (e.g. marital status, number of children);
+  * **tax status** (e.g. tax ID, tax residence);
+  * **education and employment information** (e.g. level of education, employment, employer's name, remuneration);
+  * **banking, financial and transactional data** (e.g. bank account details, credit card number, money transfers including communications on bank transfers, assets, declared investor profile, credit history, debts and expenses);
+  * **data relating to your habits and preferences** :
+    * data which relate to your use of our products and services;
+    * data from your interactions with us: through our branches (contact reports), our internet websites, our apps, our social media pages, meetings, calls, chats, emails, interviews.
+  * **video surveillance** (including CCTV) **and geolocation data** (e.g. showing locations of withdrawals and payments, for security reasons, or to identify the location of the nearest branch or service suppliers for you);
+  * **data that are provided by official authorities** (i.e. to fight against over-indebtedness, we may also access to public or semi-public data about your global level of debt). 
 
-We ensure that our partners receive only the data that are strictly necessary to perform their contractual duties.
 
-Examples of usual partners in the financial sector: 
 
-• SWIFT (global messaging system);  
-• VISA, MasterCard and Atos Worldline;  
-• (sub)-custodians of financial instruments;  
-• clearing houses.
+We collect the following sensitive data only on a need to know basis and upon obtaining your explicit prior consent:
 
-We also act as a processor for other entities which may or may not belong to the BNP Paribas Group. In this case, those entities act as controllers for processing personal data. We are thus only following their instructions. 
+  * **biometric data** : e.g. fingerprint, voice pattern or face pattern which can for instance be used for identification and security purposes;
+  * **health data** : for instance for the drawing up of some insurance contracts. 
 
-###  B. To whom is it addressed?
 
-Those affected by this notice are:
 
-•  all present customers and prospects of BNP Paribas Fortis who are natural persons;  
-• all other natural persons who are involved in any transaction with our bank as guarantors or representatives of our customers, whether private individuals or legal entities (for example company directors, agents, legal representatives, other contact persons).
+Unless it is a legal obligation or it results from products and services we provide (e.g. if you have put this information in a payment instruction), we never process personal data related to your racial or ethnic origins, political opinions, religious or philosophical beliefs, trade union membership, genetic data or data concerning your sex life or orientation.
 
-This notice does not affect:
+The data we use about you may either be directly provided by you or be obtained from the following sources in order to verify or enrich our databases:
 
-•  legal entities.  
+  * publications/databases made available by official authorities (e.g. the official journal); 
+  * our corporate clients or service providers; 
+  * third parties such as credit reference agencies and fraud prevention agencies or data brokers; 
+  * websites/social media pages containing information made public by you (e.g. your own website or social media); and
+  * databases made publicly available by third parties.
 
 
-###  C. What data are covered by this notice?
 
-The data covered by this notice are **personal data of natural persons** , which means any data that directly or indirectly enable the person to be identified. 
+## 2\. Specific cases of personal data collection
 
-Whenever you interact with BNP Paribas Fortis, we may collect various personal data:
+In certain circumstances, we may collect and use personal data of individuals with whom we could have (such as prospects) or used to have a direct relationship.
 
-• identification data: your name, address, date and place of birth, picture, account number, phone number, e-mail address, IP address , profession, household composition, etc.;  
-• the data needed to execute a contract: your salary, the value of your real estate, etc.;  
-• transactional data: data relating to your banking transactions, comprising account names and numbers, communication, and more generally, any data about a deposit, transfer or withdrawal, etc. which took place on your bank accounts;  
-• data relating to your behaviour and habits when using our channels: our branches, our internet websites, our apps for tablet and smartphone, etc.;  
-• data relating to your preferences and interests, which you directly or indirectly provide to us, for example by taking part in competitions or events that we organise, your real estate projects, your hobbies etc.;  
-• data from third parties;  
-• data from your interactions on our social media pages.
+We may also collect information about you whereas you do not have a direct relationship with us, for instance when a client (e.g. your employer), a service provider or a commercial partner provides us with information about you. This may happen if you are for example:
 
-In accordance with the law, **we will not process any sensitive data** , namely those relating to
+  * a family member;
+  * a co-borrower / guarantor;
+  * a (legal) representative;
+  * a beneficiary of payment transactions made by our clients;
+  * a beneficiary of an insurance policy;
+  * an ultimate beneficial owner;
+  * a debtor (e.g. in case of bankruptcy);
+  * a shareholder;
+  * a staff member.
 
-• racial or ethnic origins;  
-• political opinions;  
-• religion or beliefs;  
-• trade union membership;  
-• genetic features;  
-• health;  
-• sex life;  
-• criminal convictions or related security measures;  
-• biometric data.
 
-If we had to process this type of data, we would always request your prior consent. 
 
-###  D. Which legislation applies in Belgium?
+## 3\. Why and on which basis do we use your personal data?
 
-The protection of your personal data is covered by [the law of 8 December 1992 (known as "The Privacy Law") and its implementing royal decrees](https://www.privacycommission.be/en/privacy-act-and-implementing-decrees). We undertake to comply with our obligations and respect your rights whenever we process your data. If you wish to learn more about this subject, we advise you to visit the [Privacy Commission](https://www.privacycommission.be/en)'s website.
+###  a. To comply with our legal and regulatory obligations
 
-##  2\. When are your personal data collected?
+We use your personal data to comply with various legal and regulatory obligations, including:
 
-Some of your data can, in particular, be collected by BNP Paribas Fortis:
+  * prevention of money-laundering and the financing of terrorism;
+  * compliance with legislation relating to sanctions and embargoes;
+  * fight against tax fraud and fulfilment of tax control and notification obligations;
+  * replying to an official request from a duly authorised public or judicial authority.
+  * banking and financial regulations under which we notably:
+    * establish security measures in order to prevent abuse and fraud;
+    * detect transactions which deviate from the normal patterns;
+    * define your credit risk score and your reimbursement capacity; and 
+    * monitor and report risks that we could incur;
 
-• whenever you become a customer;  
-• whenever you register to use our online services (each time you log in or each time you use them);  
-• whenever you fill in forms and contracts that we send to you;  
-• whenever you use our services and products;  
-• whenever you subscribe to our newsletters, reply to our invitations (conferences, etc.);  
-• whenever you contact us via the various channels we offer you; • when your data are published or transferred by:
 
-  
-o authorised third parties (Belgian Official Gazette, agents or brokers, companies that belong to our Group);   
-o professional data providers;  
 
+###  b. To perform a contract with you or to take steps at your request before entering into a contract
 
-• whenever you are filmed by our surveillance cameras located in or near our branches/premises. These images are recorded solely for the purpose of protecting property and people’s safety, and for preventing abuse, fraud or other criminal activities from which our customers and ourselves could also become victims (the presence of the cameras are indicated by stickers with our contact details). 
+We use your personal data to enter into and perform our contracts, including to:
 
-##  3\. For which purposes are your data processed?
+  * provide you with information regarding our products and services;
+  * assist you and answer your requests;
+  * evaluate if we can offer you a product or service and under which conditions; and
+  * provide products or services to our corporate clients of whom you are an employee. 
 
-We process your personal data for different purposes. For each processing, only the data that are relevant to the intended purpose will be processed. 
 
-Generally, we will use your personal data either:
 
-• whenever we have obtained your **consent** ;  
-• as part of **performing a contract** or taking **pre-contractual steps** ;   
-• in order to comply with all the **legal and regulatory provisions** that govern us; or  
-• for reasons relating to **the legitimate interests** of the bank. When we carry out this type of processing, we always seek to maintain the balance between this legitimate interest and the protection of your privacy. 
+###  c. To fulfil our legitimate interest
 
-You will find below a more detailed explanation of the purposes we are pursuing:
+We use your personal data in order to deploy and develop our products or services, to improve our risk management and to defend our legal rights, including:
 
-• **prevention** of money-laundering and the financing of terrorism, compliance with legislation relating to embargoes;  
-• implementation of **MiFID** legislation;   
-• **fight against** tax fraud (international conventions on assistance and exchange of information including FATCA, AEOI and others);  
-• reply to an **official request** from a public or judicial authority with the necessary authorisation;   
-• provision of **banking services** ;  
-• **proof** of transactions (for example an order to buy securities);  
-• **prevention** of abuse and fraud:
+  * proof of transactions;
+  * fraud prevention;
+  * IT management, including infrastructure management (e.g. shared platforms), business continuity and IT security;
+  * establishing statistical models, based on the analysis of transactions, for instance in order to help define your credit risk score; we also carefully aggregate your personal data to the stage where they can no longer be linked to you, in order to create insights (e.g. aggregated spending habits) which we may offer in the market;
+  * establishing aggregated statistics, tests and models, for research and development;
+  * training of our personnel for instance by recording phone calls to our call centres;
+  * personalising our offering, and that of other BNP Paribas entities, to you, through:
+    * improving the quality of our banking, financial or insurance products or services;
+    * advertising products or services that match with your situation and profile.  
+This can be achieved by:   
+\- segmenting our prospects and clients;  
+\- analysing your habits and preferences (in your use of our products and services or in your interaction with us through the various channels (visits to our branches, emails or messages, visits to our website, etc.));  
+\- sharing your data with another BNP Paribas entity, notably if you are - or are to become - a client of that other entity;  
+\- matching the products or services that you already hold or use with other data we hold about you (e.g. we may offer family protection insurance for families with children who do not have an insurance yet); and  
+\- monitoring transactions to identify those which deviate from the normal routine (e.g. when you receive a large amount deposited into your bank account).
 
-o we process and manage contact and security data (card reader, password, etc.) in order to validate, track and ensure the security of transactions and communications made over our remote channels;  
-o we use security cookies on our websites;  
 
 
-• supply of services and products using **processors** (for example Atos Worldline for credit card transactions);  
-• **training of** our staff by recording some phone calls to our call centres;  
-• **tracking of** our activities (measuring sales, number of appointments, number of calls, visits to our website etc.);  
-• **improvement of** our existing **products** and **services** (or those under development) by means of customer and non-customer surveys, statistics, tests, comments that you send us directly or that you publish on our YouTube, Twitter and Facebook pages, etc.;  
-• **improvement of** the quality of **personal** service to our customers:
+###  d. To respect your choice if we requested your consent for a specific processing
 
-  
-o we segment our customers in order to provide them with the most appropriate service. This  segmentation involves, in particular, customers' professional activities (so a doctor would be advised by a specialist in the liberal professions), banking needs (an investor will always be able to contact one of our investment experts), the value of the assets to be managed (from a certain wealth level, customers are offered our private banking service);  
-o we take into account your preferences in terms of means of communication (phone, e-mail, etc.);  
-o we review the frequency of our contacts with you in order to keep them at a reasonable level;  
+In some cases, we must require your consent to process your data, for example:
 
+  * where an abovementioned processing leads to automated individual decision-making, which produces legal effects or which significantly affects you. At that moment, we will inform you about the logic involved, as well as the significance and the envisaged consequences of such processing;
+  * if we carry out further processing for purposes other than those above in this Section 3, we will inform you and obtain your consent where necessary. 
 
-• definition of your **credit risk** score (risks of defaulting on repayment, etc.). For this purpose, we use statistical models that identify the major risk factors based on the bank's lending history;   
-• **direct marketing** relating to banking, financial or insurance products, or other products that we promote or that are promoted by companies that form part of the BNP Paribas Group.
 
-  
-In order to provide you with relevant products and services,  
-o we **make sure that our offers match your family situation** and the products or services that you already hold, by reviewing the products that you use and your sociodemographic data (age, household composition, income, etc.), for example family protection insurance for families with children who do not have insurance yet;  
-o we **analyse your behaviour** in the various channels (visits to our branches, e-mails or messages opened on the Hello bank! website, visits to our website, etc.) in order to draw conclusions about your preferences (which channel you use most, for example) and to incorporate this by personalising information, the website pages you visit and online advertising;  
-o we **analyse your potential needs** in relation to the use of a product or service in order to optimise our product range (for example, the type of current account);  
-o we **evaluate key moments** when specific financial products and services might be relevant and commercially appropriate. For example, you open an account for your two-year-old child, and we suggest you might wish to subscribe to a family protection insurance to cover any third-party liability;  
-o we **evaluate your interest** in a product or service based on certain identified characteristics within our customer base, applied anonymously (age, lifestyle, assets, income, etc.). This is mainly done by developing predictive models that use anonymised data from previous purchasers of the same products and services, which enable us to determine the offers most likely to be of interest to you;  
-o we **monitor transactions** to identify those which deviate from the normal routine (for example, you receive a large amount deposited into your bank account). We can then contact you and offer you appropriate products and services (for example, suggest an appointment to discuss investment opportunities suited to your profile);  
-o we **enrich our database** with the assistance of external specialised companies;  
-o we **improve the usability of the tools and channels of communication** we offer you by automatically filling in some data that we already hold (first name, surname, address, etc.) and by then asking you to confirm them;  
-o we **listen to the signals you give us** indirectly about a particular service or product, for example when you take part in a competition or an event linked to a given service or product (for example, Batibouw trade show and your interest in a mortgage loan);  
-o we **contact you if you carry out a simulation on our website** (for example, for a loan to purchase a vehicle);  
-o we will **send you personalised** information following the processing of data described above.
 
-##  4\. How do we protect your data?
+###  e. To process data from electronic communications 
 
-Access to your personal data is only granted to people who need it in order to perform their mission. They are required to apply strict professional discretion and must comply with all the technical instructions foreseen to ensure the confidentiality of personal data. 
+In addition to any recording of electronic communications that is either legally authorised or imposed or to which you have consented, we may record electronic communications with you, including the related traffic data, if we do so in the course of lawful business practice for the purpose of:
 
-We have set up technical processes and specialised teams who are dedicated to the protection of your personal data. By so doing, we want to prevent any unauthorised person from gaining access to, processing, altering or deleting said data. 
+  * ensuring the training and supervision of employees and improving the quality of the service; and/or
+  * providing evidence of commercial transactions, or communications that took place through these electronic communications including the content of these communications (including any advice being given by us).
 
-Here is some advice on how to **keep your data secure** : 
 
-• Try to always use the most recent version you can of the operating system on your computer. Change it before the provider stops issuing updates and supporting a given operating system.   
-• Take care to always apply all the (security) updates for your operating system. You can also automate this procedure.   
-•Always use the most recent version of your browser (Internet Explorer, Firefox, etc.). Here as well, always make sure you install the security updates.   
-• Make sure that a firewall is activated on your computer to keep a constant check on incoming and outgoing information flows.   
-• Install a quality antivirus program on your computer. Viruses can seriously damage your computer. Moreover, they can compromise the security of your PC banking. Make sure you keep your antivirus up to date at all times, preferably each time you log in.  
-• Do not give viruses any chance of getting onto your computer. When buying on-line, only visit the websites of well-known and reputable vendors. Avoid websites or networks that illegally distribute programs, music, films, etc.  
-• Remember to regularly carry out a full scan of your computer with a fully up-to-date antivirus program.  
-• Secure your wireless (Wi-Fi) connection, preferably using a WPA2 key.  
-• [Set up your keyboard ](https://www.safeonweb.be/fr/conseils)to lock automatically if your device remains inactive for more than a few seconds, and set a PIN number to then unlock it. Do not use obvious words or numbers, and create a good mixture of numbers and letters.  
-• Never leave your device unattended.
 
-Our websites may sometimes contain **links to third-party websites** (social media, organisers of events that we are sponsoring, etc.) whose conditions of use fall outside the scope of this privacy notice. We therefore recommend that you read their privacy notice carefully, to find out how they protect your privacy.
+We may retain such records as long as legally required or permitted including for the period of time during which a dispute may arise further to the electronic communication recorded between you and us.
 
-##  5\. Who has access to your data and to whom are they transferred?
+The above applies to phone conversations as well as all other electronic communications (such as e-mails, SMS, instant messaging services or other equivalent technologies) with our call center, (independent) branches, private banking and business centres, dealing rooms and other Bank's representatives. 
 
-The people who are authorised to access your data are specifically defined depending on their role.
+## 4\. Who do we share your personal data with?
 
-We transfer your data to our staff, associated companies and those that are part of the group to which we belong, for the same purposes as those listed in point 3. We do not transfer your data to third parties outside the BNP Paribas Group for commercial use unless we have received your explicit prior approval. 
+In order to fulfill the aforementioned purposes, we only disclose your personal data to:
 
-As far as **international transfers** are concerned, we also make sure we protect your personal data applying the level of security required by European legislation. If we transfer your data outside the European Union to a country that cannot guarantee this level, we increase the IT security and add contractual clauses which are intended to increase their protection. We also inform the **[Privacy Commission](https://www.privacycommission.be/en)**. 
+  * BNP Paribas Group entities (e.g. you can benefit from our full range of group products and services);
+  * Service providers which perform services on our behalf;
+  * Independent agents, intermediaries or brokers;
+  * Banking, insurance and other commercial partners (e.g. AG Insurance, Swift, Visa, Master Card)
+  * Financial or judicial authorities, state agencies or public bodies, upon request and to the extent permitted by law;
+  * Certain regulated professionals such as lawyers, notaries or auditors. 
 
-##  6\. What are your rights and how can you exercise them?
 
-### A. Right to access, rectify and erase
 
-You have the right to access your data. You can ask us:
+## 5\. Transfers of personal data outside the European Economic Area ("EEA")
 
-• if we are processing your personal data or not;  
-• for what purpose we are processing them;  
-• what categories of data are being processed;  
-• to what categories of recipients they are being transferred;  
-• where the data being processed came from;  
-• what the basic logic is for the automated processing of some of your personal data.
+In case of international transfers originating from the EEA to a non-EEA country which the European Commission has recognised as providing an adequate level of data protection, your personal data will be transferred on this basis.
 
-If you discover that your data are inaccurate or incomplete, you can ask us to rectify them. In some very specific cases, the law also allows you to have them erased or restricted.
+For transfers to non-EEA countries which level of protection has not been recognised by the European Commission as adequate, we will either rely on a derogation applicable to the specific situation (e.g. if the transfer is necessary to perform our contract with you such as when making an international payment) or implement one of the following safeguards to ensure the protection of your personal data:
 
-In the interests of keeping your data properly up to date, we ask you to inform of us of any change (moving house, renewing your identity card, for example).
+  * Standard contractual clauses approved by the European Commission;
+  * Binding Corporate Rules.
 
-### B. Right to object to the processing of your data
 
-You have the right to object to some processing of your personal data that we may want to carry out. In particular, you have the right to object, without giving any reason, to the use of your data for direct marketing purposes.
 
-However, this right can only be exercised under certain conditions:
+To obtain a copy of these safeguards or details on where they are available, you can send us a written request as set out in Section 9.
 
-  1. Your request must be dated and signed.
-  2. For other cases than objecting to direct marketing, you need to have serious and legitimate reasons relating to your specific situation in order to object to processing being carried out. In the case of a valid objection, said processing will no longer be permitted for these data.
-  3. However, you cannot object to processing that is necessary:  
+## 6\. How long do we keep your personal data for?
 
-    * for the performance of a contract agreed upon with you or the execution of pre-contractual steps taken at your request; or
-    * for compliance with legal or regulatory provisions that apply to us.
+We will retain your personal data for the longer of the period required in order to comply with applicable laws and regulations or another period with regard to our operational requirements, such as account maintenance, facilitating client relationship management, and responding to legal claims or regulatory requests. For instance, most of clients' information is kept for the duration of the contractual relationship and 10 years after the end of the contractual relationship. For prospects, information is kept for maximum 1 year.
 
+## 7\. What are your rights and how can you exercise them?
 
+In accordance with applicable regulations, you have the following rights:
 
-### C. Right to object to a channel of communication used for marketing purposes (direct marketing) 
+  * To **access** : you can obtain information relating to the processing of your personal data, and a copy of such personal data.
+  * To **rectify** : where you consider that your personal data are inaccurate or incomplete, you can require that such personal data be modified accordingly.
+  * To **erase** : you can require the deletion of your personal data.
+  * To **restrict** : you can request the restriction of the processing of your personal data.
+  * To **object** : you can object to the processing of your personal data, on grounds relating to your particular situation. You have the absolute right to object to the processing of your personal data for direct marketing purposes, which includes profiling related to such direct marketing.
+  * To **withdraw your consent** : where you have given your consent for the processing of your personal data, you have the right to withdraw your consent at any time.
+  * To **data portability** : where legally applicable, you have the right to have the personal data you have provided to us be returned to you or, where technically feasible, transferred to a third party. 
 
-Even when we have the right to process your personal data, we will ask for your explicit consent to use electronic messaging (e-mail, SMS, etc.) for marketing purposes. 
 
-When sending **marketing messages by SMS or e-mail** about products that have no connection with those you already hold, we are required to ask for your explicit consent. You can change your mind at any time by replying to the SMS or e-mails we have sent.
 
-The marketing offers sent **by post** or communicated **by telephone** are not subject to the same prior consent. But again, you can object to them:
+You can exercise the rights listed above:
 
-• by contacting us through our usual channels, as mentioned in the section below;  
-• for advertising sent by post: by registering on the [Robinson list](http://www.robinsonlist.be/index_fr.htm?);  
-• for advertising by phone: by registering on the [Do not call me list](http://www.ne-m-appelez-plus.be/fr).
+  1. via our electronic form (you are required to provide your identity card details);
+  2. by logging into Hello bank! web or the Hello bank! app (for rights regarding access, rectify, withdraw your consent and data portability);
+  3. by calling the Hello team.
 
-If you wish to start receiving our marketing information again, you can inform us via telephone on +32 2 433 43 02.
 
-We do however reserve the right to keep contacting you electronically for the performance of your contract or if required by law. 
 
-### D. Whom should I contact?
+You can also submit your application by:
 
-In order to exercise your rights, all you need to do is contact us via telephone on +32 2 433 43 02.
+  * letter to BNP Paribas Fortis SA – Data Protection and Privacy Office, 1MA4B, Montagne du Parc 3, 1000 Brussels;
+  * email to [privacy@bnpparibasfortis.com](mailto:privacy@bnpparibasfortis.com).
 
-In relation to your right to access, you can send us your signed and dated request, together with a copy of your identity card. Please be as accurate as possible:
 
-• by post to 
 
-**BNP Paribas Fortis SA/NV**  
-Data Protection and Privacy Office – 1GA4B  
-Montagne du Parc/Warandeberg 3  
-1000 Brussels;
+Please also include a copy or a scan of your identity card.
 
-• by e-mail to [privacy@bnpparibasfortis.com](mailto:privacy@bnpparibasfortis.com).
+In accordance with the applicable regulations, you are entitled to lodge a claim with the competent supervisory authority.
 
-In case of disagreement relating to the processing of your personal data, you can submit a request for mediation to the Privacy Commission at the following address:
+## 8\. How can you keep up with changes to this privacy notice?
 
-**Privacy Commission**  
-Rue de la Presse 35  
-B-1000 Brussels  
-Tel.: +32 2 274 48 00  
-E-mail: [commission@privacycommission.be](mailto:commission@privacycommission.be)
+In a world of constant technological changes, we may need to regularly update this Privacy Notice.
 
-## 7\. How long do we store your data?
+We invite you to review the latest version of this notice online and we will inform you of any material changes through our website or through our other usual communication channels.
 
-We may not keep your personal data for longer than what is necessary for the processing for which they were collected. In practice, we differentiate between a retention period and an archiving period.
+## 9\. How to contact us?
 
-• **The retention period** is the maximum period during which we use your data for specific processing. When this period expires, your data are deactivated. The data relating to prospects, for example, are kept for a maximum of one year, depending on the lifecycle of the project for which they were collected (a project to buy a car, for example, would have a shorter retention period than the one to buy real estate). Some personal data have very short retention periods. This is particularly the case for images recorded by surveillance cameras (CCTV) which are generally kept for a month.  
-• **The archiving period** is determined by our legal obligation or the legal requirement to keep your data beyond the retention period for evidence purposes. The archived data are only accessible for reasons of proof in justice, control by an authorised body (for example, the tax authorities), internal audit, etc. The archiving period may vary depending on the circumstances, and may sometimes be lengthy (data relating to a mortgage loan, for example, are archived for thirty years).
+Should you have any questions relating to our use of your personal data or this Privacy Notice, please contact our data protection officer by email to [privacy@bnpparibasfortis.com](mailto:privacy@bnpparibasfortis.com) or by letter to BNP Paribas Fortis SA/NV Data Protection and Privacy Office - 1MA4B, Montagne du Parc/Warandeberg 3, 1000 Brussels, who will investigate your query. 
 
-## 8\. Your use of our websites and of our mobile apps
+[Pdf version of the Privacy Notice (valid as from 25/05/2018)](https://web.archive.org/docs/default-source/products/h10046/en-a.pdf?sfvrsn=b1d885a3_34 "Download/print the pdf version of the Privacy Notice")
 
-**Regarding our internet website:** If you are not a customer and you visit one of our websites, you agree that we use the data generated during your visit. For more information, please consult the general terms of use of our websites. 
+[Pdf version of the Privacy Notice (valid until 24/05/2018)](https://web.archive.org/docs/default-source/products/h10046/en-z.pdf?sfvrsn=94d985a3_14 "Download/print the pdf version of the Privacy Notice valid until 24/05/2018")
 
-Besides the data that you voluntarily provide us with whenever you use our websites, we also use the following technological means to collect data:
-
-### A. Cookies
-
-A cookie is a small file sent by the server at our bank to the hard disk on your computer, tablet or smartphone, which allows us to identify your device for navigation.  
-In particular, we use functional and performance cookies. To find out more, please read our [**cookie policy**](https://www.hellobank.be/legal-notice/cookie-policy).
-
-### B. Other technological means
-
-Besides cookies, we sometimes use other technological means for statistical purposes. For example, web beacons or action tags count the number of visitors coming to our website or our apps after seeing our advertising on a third-party site. The only purpose of these beacons is to assess how successful our marketing campaigns are, not to access any of your personal data.
-
-We also use technologies such as pictures or QR codes which are read by a picture reader installed by Shazam. When you scan them on our website, we do not collect your personal data, only the information on how you accessed said website.  
-The app that lets you read these pictures or QR codes does not belong to the bank. We therefore advise you, before any download, to find out about the privacy policy for data collected by the third party. 
-
-##  9\. BNP Paribas Fortis and the Group
-
-BNP Paribas Fortis SA/NV is a bank that sells a comprehensive range of financial services on the Belgian market to private individuals, self-employed, those in liberal professions, and SMEs. It has 3 separate brands with different specificities: BNP Paribas Fortis, Hello bank! and Fintro. We also offer specialised solutions to wealthy individuals, large companies and public and financial institutions. Our registered office is at Montagne du Parc/Warandeberg 3, B-1000 Brussels.
-
-Since May 2009, we have been part of the BNP Paribas Group, which is present in many countries, both in Europe and worldwide.
-
-## 10\. How can I keep up with changes to this privacy notice?
-
-In a changing world, where technology never stands still, this privacy notice may be subject to amendments. We invite you to review the latest version of this notice online and we will inform you of any changes through the website or other usual communication channels. 
-
-Last update: 26 February 2016 
+_Last update: 25 May 2018_
