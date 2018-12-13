@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unica.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622185321id_/https%3A//www.ibm.com/privacy/us/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unica.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213050546id_/http%3A//www.ibm.com/privacy/us/en/%3Flnk%3Dflg-priv-usen) for the most accurate reproduction.*
 
 # IBM Privacy Statement - United States
 
