@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asda.jobs privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608155355id_/http%3A//www.asda.jobs/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asda.jobs privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213110713id_/https%3A//www.asda.jobs/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Asda | Privacy & Cookie Policy
 
@@ -96,7 +96,7 @@ Marketing cookies record your visits to our sites, the pages you have visited an
 **Your right to refuse cookies and what happens if you refuse them**    
 You can refuse cookies by activating the relevant setting on your browser. However, if you do so you may not be able to access all or parts of our sites. If you carry on using our sites and do not change your browser settings we will assume you consent to us using cookies as described above.
 
-**Who we share the information Wwith**
+**Who we share the information With**
 
 We will not sell your personal information to third parties other than our subsidiaries, affiliates or parent companies unless you say we can (for example for carefully selected third parties to contact you) or are required by law.
 
