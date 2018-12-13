@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kantipurtv.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621083107id_/http%3A//www.ekantipur.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kantipurtv.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213060607id_/http%3A//www.ekantipur.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - ekantipur
 
