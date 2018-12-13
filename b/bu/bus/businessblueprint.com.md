@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessblueprint.com privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310082846id_/https%3A//businessblueprint.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessblueprint.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213161201id_/http%3A//businessblueprint.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Business Blueprint
 
@@ -86,7 +86,7 @@ If you would like any personal information about you changed or deleted, just se
 
  ****Where this site contains links to other sites, we do not accept responsibility for the privacy practices or the content of such other sites.
 
-We encourage other suitable websites to include a link back to this site provided you DO NOT use any trademarks or copyright information without permission and that you do not link to this site from a site or in a manner which disparages Dream Express Pty Ltd or it’s directors, employees, agents or suppliers. If you would like to arrange a link, please contact support@businessblueprint.com
+We encourage other suitable websites to include a link back to this site provided you DO NOT use any trademarks or copyright information without permission and that you do not link to this site from a site or in a manner which disparages Dream Express Pty Ltd or it’s directors, employees, agents or suppliers. If you would like to arrange a link, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## Security
 
