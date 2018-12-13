@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614204239id_/https%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213165352id_/https%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teachers Pay Teachers
 
@@ -6,7 +6,7 @@ PRIVACY POLICY
 
  
 
-Effective Date: October 1, 2017 (See our previous version [here](https://www.teacherspayteachers.com/Old-Privacy-Policy))
+Effective Date: December 3, 2018 (See our previous version [here](https://ecdn.teacherspayteachers.com/static/privacypolicy_teacherspayteachers.pdf))
 
 Teacher Synergy LLC d/b/a Teachers Pay Teachers (referred to in this policy as “Teachers Pay Teachers”, “TpT”, “us”, “we”, or “our”) has adopted the following Privacy Policy to explain how we collect, use, and share information from and about you.
 
@@ -37,9 +37,9 @@ B. PURCHASE INFORMATION
 
 When you make a purchase through our Services, you’ll need to provide billing and payment information to complete your order. We’ve carefully chosen Service Providers who use Payment Card Industry Data Security Standard (PCI DSS) compliant practices to process payments (“Payment Processors”). Whether you check out using a credit or debit card, PayPal account, or any other payment method we may support, your payment will be processed directly by our Payment Processor and we’ll never have access to or store your full payment details.
 
-When you use a credit or debit card to pay for your purchases, you’ll be asked to enter your credit or debit card number, CVV, and billing contact information. When you submit your order, this information will be sent directly to our Payment Processor. After your payment is processed, the Payment Processor will send TpT some details about the transaction so that we can record your order in our database and provide access to the materials that you purchased. 
+When you use a credit or debit card to pay for your purchases, you’ll be asked to add a credit or debit card payment source ("Payment Card"). When you submit your order, this information will be sent directly to and stored by our Payment Processor. After your payment is processed, the Payment Processor will send TpT some details about the transaction so that we can record your order in our database and provide access to the materials that you purchased. 
 
-You have the option to save a credit or debit card record with our Payment Processor to re-use those details for future purchases on TpT without having to re-enter them at checkout. You can edit or remove this information at any time by navigating to the checkout page or by [contacting us](https://www.teacherspayteachers.com/Contact) for assistance.
+The Payment Card you added will be available for future use on your Account. You can edit or remove this information at any time by navigating to the checkout page or by [contacting us](https://www.teacherspayteachers.com/Contact) for assistance.
 
 If you choose to pay using PayPal, you’ll log in to your PayPal account to complete your order. When PayPal processes your payment, they’ll send us a confirmation with transaction details so we can record your order and provide access to the Resources or services you’ve purchased. We do not collect information about or have access to the specific payment or funding sources or any other financial account details associated with your PayPal account.
 
@@ -148,7 +148,7 @@ There may be features of our Services which allow you to:
 
 
 
-By using any of these features, you’re choosing to share information about yourself and your TpT account activity with the public or with other Members. If you connect with another Member, for example by joining a group or Organization, or by accessing a Resource shared with you by another Member, the Members you interact with may be able to view certain information and activity associated with your account and that interaction. 
+By using any of these features, you’re choosing to share information about yourself and your TpT account activity with TpT, the public or with other Members. If you connect with another Member, for example by joining a group or Organization, or by accessing a Resource shared with you by another Member, the Members you interact with may be able to view certain information and activity associated with your account and that interaction. 
 
   
 E. SERVICE PROVIDERS AND PARTNERS 
@@ -182,7 +182,7 @@ If you don’t want to have an account with us anymore, you can close your accou
   
 B. SAVED PAYMENT SOURCE
 
-If you’ve saved your credit or debit card for future purchases, you can edit or delete your saved card information when you go to the checkout page. If you need assistance, you can [contact us](https://www.teacherspayteachers.com/Contact) and we’ll be happy to remove it for you. 
+Your saved Payment Card record can be edited or deleted from the checkout page. If you need assistance, you can [contact us](https://www.teacherspayteachers.com/Contact) and we’ll be happy to remove any saved Payment Card records for you. 
 
   
 C. EMAIL PREFERENCES
