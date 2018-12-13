@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theoceancleanup.com privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204185650id_/https%3A//www.theoceancleanup.com/privacy-and-cookie-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoceancleanup.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213181426id_/https%3A//www.theoceancleanup.com/privacy-and-cookie-notice) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | The Ocean Cleanup
 
-This is the Privacy and Cookie Notice (Notice) of [www.theoceancleanup.com](http://www.theoceancleanup.com/) (Website). This Notice provides information on the processing of personal data of the visitors of the Website and persons who donate via the Website (Users) of Stichting The Ocean Cleanup Foundation, located at Torenhove, Martinus Nijhofflaan 2, 18th floor, 2624 ES, Delft, The Netherlands (Foundation).
+This is the Privacy and Cookie Notice (Notice) of [www.theoceancleanup.com](http://www.theoceancleanup.com/) (Website). This Notice provides information on the processing of personal data of the visitors of the Website and persons who donate via the Website (Users) of Stichting The Ocean Cleanup, located at Batavierenstraat 15, 4-7th floor, 3014 JH, Rotterdam, The Netherlands (Foundation).
 
-The Notice may be changed over time. Users of the Website are advised to regularly review the Notice for possible changes. The Notice was last changed on October 12, 2017.
+The Notice may be changed over time. Users of the Website are advised to regularly review the Notice for possible changes. The Notice was last changed on June 19, 2018.
 
 **WHEN IS THIS PRIVACY NOTICE APPLICABLE?**
 
@@ -80,7 +80,7 @@ Your data will be retained together with your input for a period of **10 years**
 
 What does this purpose entail?
 
-Via the Website you can submit a general donation form for your donation(s) to the Foundation. Donations are subject to our [Donations Terms and Conditions](https://www.theoceancleanup.com/fund/donation-terms-and-conditions/). We will use the personal data you provide to process your donation(s), follow up on your enquiries concerning your donations, to thank you for your support, and to fulfill our legal obligations as a foundation regarding your donations. 
+Via the Website you can submit a general donation form for your donation(s) to the Foundation. Donations are subject to our [Donations Terms and Conditions](https://www.theoceancleanup.com/support/donation-terms-and-conditions/). We will use the personal data you provide to process your donation(s), follow up on your enquiries concerning your donations, to thank you for your support, and to fulfill our legal obligations as a foundation regarding your donations. 
 
 Which personal data do we process for this purpose?
 
@@ -191,10 +191,9 @@ Your personal data are treated as strictly confidential and the Foundation has t
 
 You may at all times and without any cost access the data you have provided to the Foundation, and, if you wish, have these data amended or deleted. If you wish to use one of these options, you can give notice thereof in writing to:
 
-The Ocean Cleanup Foundation  
+Stichting The Ocean Cleanup  
 Attn: General Counsel  
-Torenhove  
-Martinus Nijhofflaan 2, 18th floor  
-2624 ES Delft
+Batavierenstraat 15  
+4-7th floor, 3014 JH Rotterdam, The Netherlands
 
 You may also send an e-mail to us via our [contact form](https://www.theoceancleanup.com/contact/). 
