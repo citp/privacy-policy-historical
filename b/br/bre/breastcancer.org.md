@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623022014id_/http%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213111411id_/https%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -51,7 +51,7 @@ We use cookies to track aggregate user statistics on the site to help us determi
 
  **Log Files**
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. "IP addresses" are the equivalent of internet "mailing addresses." They tell other computers on the Internet where to send the information you have requested, such as new web pages or images. Breastcancer.org does not link IP addresses to personally identifiable information.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. "IP addresses" are the equivalent of internet "mailing addresses." They tell other computers on the Internet where to send the information you have requested, such as new web pages or images. 
 
  **Behavioral Targeting/Re-Targeting**
 
@@ -115,5 +115,3 @@ Ardmore, PA 19003
 * * *
 
 Was this article helpful? Yes / No
-
-* * *
