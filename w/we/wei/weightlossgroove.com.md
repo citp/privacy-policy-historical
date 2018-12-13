@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightlossgroove.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612111330id_/http%3A//www.weightlossgroove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightlossgroove.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213113506id_/http%3A//www.weightlossgroove.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Weight Loss Groove
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [info@WeightLossGroove.com](mailto:info@omgstudios.com)
+  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6a03040c052a05070d191e1f0e03051944090507)
 
 
 
