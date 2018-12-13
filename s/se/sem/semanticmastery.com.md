@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semanticmastery.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212202749id_/http%3A//semanticmastery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semanticmastery.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213032423id_/https%3A//semanticmastery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Semantic Mastery
 
@@ -12,7 +12,7 @@ Your privacy is important to the website. To better protect your expectation of 
 
 Please understand that you may have additional rights originating from State laws based on your specific location. These State-based rights may augment, strengthen, or somehow compliment any privacy rights you have inherently or under Federal law.
 
-Our policy is to fully comply with any and all privacy policies of the jurisdictions in which we operate. Accordingly, you are free to use our [Contact information](http://semanticmastery.com/contact-us/) to reach us at any time to assert any State rights.
+Our policy is to fully comply with any and all privacy policies of the jurisdictions in which we operate. Accordingly, you are free to use our [Contact information](https://semanticmastery.com/contact-us/) to reach us at any time to assert any State rights.
 
 **Our Commitment To Children’s Privacy**
 
