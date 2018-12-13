@@ -1,82 +1,43 @@
-> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429061935id_/http%3A//fantasyfootball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213030726id_/http%3A//www.fantasyfootball.com/digimedia_privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Fantasy Football
+# 
 
-## Fantasy Planet Privacy Policy
+## Privacy Policy
 
-Fantasy Planet considers the maintenance of user privacy to be extremely important. Following is a description of the manner in which Fantasy Planet manages user information (“Privacy Policy” or “Policy”).
+(updated May 24, 2018)
 
-**Scope**
+Welcome to this Digimedia.com, L.P. ("Digimedia") website. This policy describes the information collected on this website and how it may be used and/or shared. If you do not agree to this Privacy Policy, you may not utilize this website. 
 
-  * The Policy covers describes the manner in which Fantasy Planet treats personal information that it collects and/or receives, including information related to a user’s historical use of Fantasy Planet and Fantasy Planet affiliate services. A user’s personal information is information that is personally identifiable, such as the user’s name, address, email address, or phone number, and that is not otherwise publicly available.
-  * The Fantasy Planet Privacy Policy does not apply to the practices of companies that Fantasy Planet does not own or control, or to people or entities that Fantasy Planet does not employ or manage. In addition, certain Fantasy Planet affiliates and promotional partners may have their own privacy policy(ies), which may be viewed separately at the affiliates’ or partners’website(s), as applicable.
+**_Regarding IP Addresses and Other Data._ ** Digimedia and/or third parties may collect your IP address, browser user agent, referral website, and a cookie id. 
 
+**_Regarding Cookies._ ** Digimedia and/or third parties may be placing or reading "cookies" on your internet browser. Cookies are bits of text transferred to your computer hard drive through your browser. They allow Digimedia and/or third party systems to recognize your browser, remember your information and link your activities to you. Should you block or disable these cookies, this website may not work and/or appear as intended. Nevertheless, if you want to take these steps, you can do so by following instructions related to your browser. Cookies may collect types of information such as the following: 
 
-
-Collection and Use of User Information
-
-**General**
-
-  * Fantasy Planet collects personal information when you register with Fantasy Planet.com, or with an affiliate fantasy sports or content partner of Fantasy Planet.com. Fantasy Planet may record information when you visit Fantasy Planet.com pages or the pages of Fantasy Planet affiliates. Fantasy Planet may combine information it collects with information it obtains from business partners or other companies.
-  * When you register, Fantasy Planet asks for information such as your name, email address, age, gender, zip code, occupation, and referral information. Once you register with Fantasy Planet and sign in to our services, you are not anonymous to us.
-  * As part of the registration process, you are given an option to receive periodic email promotions from Fantasy Planet partners. You may change your preferred setting in this regard at any time by visiting your “My Profile” link or emailing [webmaster@fantasyplanet.com](mailto:webmaster@fantasyplanet.com).
-  * Fantasy Planet collects information about your transactions with us and with some of our business partners. Fantasy Planet automatically receives and records information on our server logs from your browser, including your IP address, Fantasy Planet and/or affiliate cookie information, and the page(s) you request.
-  * Fantasy Planet uses the information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. If you opt to receive periodic email promotions from Fantasy Planet partners, Fantasy Planet may also use your information to send you the promotions, or may make your information available to partners to send the promotions. Should you change your mind, and wish to stop receiving promotional offers from Fantasy Planet or its partners, you can follow the “Unsubscribe” link in any email that you receive, or you can send an email to [support@fantasyplanet.com](mailto:support@fantasyplanet.com) with the word “Unsubscribe” in the subject line.
+  * Website traffic (for example: the domain name and host from which you access the internet and the internet address of the website from which you came to ours),
+  * Statistical data and analytics (for example: the date and time you access our website, the keywords and/or links clicked, and/or the pages you visit),
+  * Browsing behavior (for example: the pages you visit, the services or products you sought, and/or products/services you purchased)
+  * Information about the operating system, device, platform and web browser type/version you utilize,
+  * Demographic information & other non-personal information about you,
+  * Advertisement information, and/or
+  * Information to fight fraud or misuse.
 
 
 
-**Information Sharing and Disclosure**
+**_Regarding Personal Information._ ** Some Digimedia websites may collect personal information when you choose to voluntarily provide it via an email, a contact form, a registration form or when purchasing a service or product. This type of information may include your name, addresses, email addresses, phone numbers. 
 
-  * Fantasy Planet does not rent, sell, or share personal information about you with other people or nonaffiliated companies, except to provide promotional materials for products or services when we have your permission, or under the following circumstances: 
-    * We provide the information to trusted partners who work on behalf of or with Fantasy Planet under agreements restricting the use of user information in substantially the same manner as set forth in this Policy. These companies may use your personal information to help Fantasy Planet communicate with you about offers from Fantasy Planet and our marketing partners.
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Fantasy Planet’ terms of use, or as otherwise required by law.
-    * We transfer information about you if Fantasy Planet is acquired by or merged with another company. In this event, Fantasy Planet will notify you before information about you is transferred and becomes subject to a different privacy policy.
-  * Fantasy Planet displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria. 
-    * Fantasy Planet does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
-  * Fantasy Planet does not share your credit card information or other payment information with outside parties, except as may be necessary to process payments that you authorize, or as may be required by order of law.
+**_Regarding Sensitive Information._ ** Some Digimedia websites may, as part of your purchase of a product or service, collect sensitive information, such as your credit card number or other financial information. In such case, sensitive information will be encrypted and protected with SSL, the current industry standard encryption protocol. You will know you are on such an SSL page when you see a picture of a closed lock at the bottom or top of some Web browsers. Another way to tell if you are on a secure page is to look at the address or URL of the page. (Look in the address box or right-click on the page and select "Properties".) These secure SSL encrypted pages have URLs that start with https:// instead of http://. 
 
+**_Regarding Digimedia's Use of Information Collected._ ** Information Digimedia collects pursuant to this Privacy Policy may be used to deliver, administer, update and improve the website, services and/or products provided to you, including enhancement and optimization of the website, assessment and diagnosis of potential issues and/or risks such as errors, security risks, fraudulent activity and/or abusive activity, gather broad demographic information, and may be used to aggregate statistics and analytics from the website. Digimedia may share information with third parties as described in the "Regarding Information Collected by Third Parties" section below. Digimedia may use and/or retain your Personal Information (name, email address, address, and/or phone number) to identify you, to reply and/or contact you in reference to an inquiry, assistance request, to manage and/or promote our relationship with you, and/or for other legal and/or legitimate business purposes. 
 
+**_Regarding the Storage, Security and Retention of Information Collected._ ** Digimedia transfers, stores and protects information collected utilizing SSL (see also the "Regarding Sensitive Information" section above) or other generally accepted industry standards. Digimedia retains such information for as long as necessary to provide its service(s) to you or for other legitimate and/or legal purposes. 
 
-**Cookies**
+**_Regarding Information Collected by Third Parties._ ** This website may consist of third-party advertising, links to other websites, and/or content from third parties. Digimedia may share non-personal (for example: demographic) information to facilitate the delivery of relevant content and/or advertisements. Third party websites, businesses, advertisers, or advertising entities working on their behalf, sometimes use technology to deliver the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons, and other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. For Google's policy, please visit the following: [https://policies.google.com/technologies/partner-sites.](https://policies.google.com/technologies/partner-sites) Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and identification of advertisers that provide an opt-out mechanism, please visit the following: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-  * Fantasy Planet may set and access Fantasy Planet cookies on your computer.
-  * Fantasy Planet may permit advertisers on some of its pages set and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies, not this Policy. Advertisers or other companies do not have access to Fantasy Planet’ cookies.
+**_Regarding European Economic Area Visitors._ ** If you are a visitor/customer from the European Economic Area, and you wish to view, update, delete, or transfer your personal information, or if you wish to withdraw consent and/or otherwise exercise your rights pursuant to the GDPR, please email privacy@digimedia.com. 
 
+**_Regarding Ownership and Transfer of Information._ ** Subject to applicable law, all information collected on this website is considered to be an asset of Digimedia and as such may be shared and/or transferred as described in this policy and/or as part of a merger or acquisition (or contemplated merger or acquisition) of Digimedia and/or this website. 
 
+**_Regarding changes to this policy._ ** Digimedia may alter this policy from time to time, so you are encouraged to review this Privacy Policy periodically. 
 
-Your Ability to Edit Your Account Information and Preferences
+**_Legal Disclaimer._ ** Digimedia may disclose personal information when required by law or in the good faith belief that such action is necessary in order to conform to the edicts of the law, or to comply with a legal process served on Digimedia and/or this website. 
 
-**General**
-
-  * You can edit your Fantasy Planet user profile, including your personal information and marketing preferences, at any time.
-  * New categories of marketing communications may be added to the opt-in section of your Profile page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
-  * Fantasy Planet reserves the right to send you certain communications relating to the Fantasy Planet service, such as service announcements, administrative messages and game newsletters, that are considered part of your Fantasy Planet account, without offering you the opportunity to opt-out of receiving them.
-  * You can unsubscribe from your account by replying to any Fantasy Planet email with the word “Unsubscribe” in the reply subject line.
-
-
-
-**Confidentiality and Security**
-
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
-  * Fantasy Planet employs physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
-
-
-
-**Changes to this Privacy Policy**
-
-  * Fantasy Planet may update this Policy at any time. Fantasy Planet will notify you about significant changes in the way it treats personal information by sending a notice to the primary email address specified in your Fantasy Planet account or by placing a prominent notice on our site.
-
-
-
-**Questions and Support**
-
-  * If you have questions about this Policy, including any relationship between Fantasy Planet and its affiliates and/or partners, please send an email to [support@fantasyplanet.com](mailto:support@fantasyplanet.com)[](mailto:%20support@FantasyPlanet.com), or send your question to:
-
-
-
-Fantasy Planet, L.P.  
-Customer Support  
-4245 Kemp Suite 818  
-Wichita Falls, TX 76308  
-(866) 475-9002
+If you have further questions, send an email to privacy@digimedia.com. 
