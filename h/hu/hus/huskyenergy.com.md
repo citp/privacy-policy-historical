@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huskyenergy.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606032017id_/http%3A//www.huskyenergy.com/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huskyenergy.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213204615id_/http%3A//www.huskyenergy.com/privacy-statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Husky Energy
 
