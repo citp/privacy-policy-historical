@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the storeya.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163103id_/https%3A//www.storeya.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storeya.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213114121id_/https%3A//www.storeya.com/public/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - StoreYa.com
+# Privacy Statement - StoreYa
 
 StoreYa Feed LTD. ("StoreYa") takes the issue of protecting your privacy very seriously and is well aware that you are concerned about the way in which collected personal information is used and shared. We appreciate your trust that we will do so carefully and sensibly. This notice (namely, this "Privacy Policy") describes how we may collect personal information about you, how we may use it, what choices you have regarding it, and how we protect it. This Privacy Policy is incorporated into and is a part of the Terms of Use of this StoreYa Web site (Facebook App or the "Site") and we encourage you to become familiar with the terms and conditions contained herein. By accessing and using this Site and the StoreYa Service, you agree that you have read and agree to this Privacy Policy, and that you accept and consent to the privacy practices described in this Privacy Policy.
 
-#####  What Information Do We Collect?
+#####  What Information Do We Collect? 
 
 StoreYa may collect various types of information from or about you. During the Site registration process you supply us with basic contact information (such as name, address, telephone number, e-mail address and company name) that we use for billing and contact purposes. This information is generally entered into fields in the registration forms. Should you purchase any StoreYa Services on or through the Site, the information that you supplied during the registration process, may be used to track details about that purchase. StoreYa may use anonymous, aggregated data to evaluate the effectiveness of its technology. StoreYa is not responsible for any data collected by Organizations using other third-party technology to complete the ordering process. 
+
+#####  The EU General Data Protection Regulation 2016/679 (the “GDPR”) 
+
+StoreYa complies with the GDPR. Any information gathered receives double opt-in consent and can be fully removed from StoreYa’s database upon request. 
 
 ##### How Do We Use The Information That We Collect?
 
