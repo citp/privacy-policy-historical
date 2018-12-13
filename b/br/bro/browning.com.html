@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the browning.com privacy policy that was archived on 2018-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180621085612id_/http%3A//www.browning.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the browning.com privacy policy that was archived on 2018-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181213115316id_/https%3A//www.browning.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class=""><head><div class="fit-vids-style">­<style> .fluid-width-video-wrapper { width: 100%; position: relative; padding: 0; } .fluid-width-video-wrapper iframe, .fluid-width-video-wrapper object, .fluid-width-video-wrapper embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } </style></div><script async="" src="http://localhost:4502/libs/wcm/stats/tracker.js?path=/content/browning/en/privacy-policy&amp;_=1580434103621"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" class=""><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -14,9 +14,9 @@
     
 
     <link rel="stylesheet" href="/etc/clientlibs/foundation/main.css" type="text/css">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
+<div class="fit-vids-style">­<style> .fluid-width-video-wrapper { width: 100%; position: relative; padding: 0; } .fluid-width-video-wrapper iframe, .fluid-width-video-wrapper object, .fluid-width-video-wrapper embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } </style></div><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery/granite.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/main.js"></script>
 <link rel="stylesheet" href="/etc/clientlibs/browning/main.css" type="text/css">
@@ -26,17 +26,7 @@
 
 
 <script src="//sdks.shopifycdn.com/js-buy-sdk/v0/latest/shopify-buy.umd.polyfilled.min.js"></script>
-    <script type="text/javascript">
-    {
-        window.setTimeout(function() {
-            $CQ.getScript("http://localhost:4502/libs/wcm/stats/tracker.js?path=\x2Fcontent\x2Fbrowning\x2Fen\x2Fprivacy\x2Dpolicy");
-        }, 1);
-    }
-    </script>
-<script type="text/javascript">function trackMVTImpression() {
     
-    }</script>
-
 
 
     
@@ -126,56 +116,40 @@ jQuery(document).ready(function(){
         </div>
     </section> <!-- End of Browser Rejector -->
 </div>
-<script src="//maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyCaEGtsYIfVzOrOFnb96dMxEYrTluYQlAo&amp;sensor=false"></script>
 <script>
 
 jQuery(document).ready(function(){
 
-    // var cookie = getCookie('chosen_site');
-    var cookie;
-    if (cookie && cookie == 'EU') {
-        window.location = '//www.browning.eu';
-    } else if (!cookie) {
-        getOrigin();
+    //check session storage first, if there is nothing there then wait for main.js to fetch from api again.
+    var ipLocation = sessionStorage.getItem('ipLocation');
+    if (ipLocation) {
+        ipLocation = JSON.parse(ipLocation);
     }
-
-    function posSuccess(position){
-        runGeocoder(position);
-    }
-
-    function posError(err){        
-        return 'NA';
-    }
-
-    function getOrigin() {
-        if ('geolocation' in navigator) {
-            window.setTimeout(navigator.geolocation.getCurrentPosition(posSuccess, posError),250);
-        }
-    }
-
-    function runGeocoder(position){
-        var geocoder = new google.maps.Geocoder();
-        var latlng = new google.maps.LatLng(position.coords.latitude,position.coords.longitude);
-        geocoder.geocode({'latLng':latlng}, function(results,status){
-            
-            if (status == google.maps.GeocoderStatus.OK) {
-                var addr = results[0]['formatted_address'];
-                origin = addr.substring(addr.lastIndexOf(',')+2);
-            } else {
-                origin =  'NA';
+    if (ipLocation && ipLocation.continentCode) {
+        checkIp(ipLocation)
+    } else {
+        window.addEventListener('ipLocationChange', function (e) {
+            var ipLocation = sessionStorage.getItem('ipLocation');
+            if (ipLocation) {
+                ipLocation = JSON.parse(ipLocation);
             }
-            checkOriginForRedirect(origin);
+            checkIp(ipLocation)
         });
     }
 
-    function checkOriginForRedirect(origin){
+    function checkIp(locationObj){
+        if (!locationObj && !locationObj.continentCode) {
+            return;
+        }
 
-        if (origin && origin != 'NA' && origin != 'USA' && origin != 'Canada') {  
+        var continent = locationObj.continentCode.toLowerCase();
+        var declined = sessionStorage.getItem('declinedRedirect');
+        if (continent !== 'na' && !declined) {
             var redirect_container = $('#international-redirect-container');
-
                 jQuery.fancybox(redirect_container, {
                     afterClose: function() {
-                        setDestination('US');
+                        sessionStorage.setItem('declinedRedirect','true')
                     },
                     helpers: {
                         overlay : {closeClick: false}
@@ -184,15 +158,13 @@ jQuery(document).ready(function(){
         }
     }
 
-    function setDestination(region) {
-        document.cookie = 'chosen_site='+region+';path=/';
-    }
 
     $('#international-redirect-container .destination-link').click(function(e){
         e.preventDefault();
-
-        setDestination($(this).attr('data-region'));
-
+        var redirectLocation = $(this).attr('href');
+        if ( !redirectLocation) {
+            sessionStorage.setItem('declinedRedirect','true')
+        }
         window.location = $(this).attr('href');
     });
 
@@ -246,7 +218,7 @@ jQuery(document).ready(function(){
         
             <li><a href="/products/firearms/custom.html">CUSTOM - JMB COLLECTION</a></li>
         
-            <li><a href="/products/new-shotguns.html">2018 NEW PRODUCTS</a></li>
+            <li><a href="/news/articles/new-shotguns.html">2018 NEW PRODUCTS</a></li>
         </ul>
     
     
@@ -271,6 +243,8 @@ jQuery(document).ready(function(){
             <li><a href="/products/knives.html">Knives</a></li>
         
             <li><a href="/products/flashlights.html">FLASHLIGHTS</a></li>
+        
+            <li><a href="/products/outlet-deals.html">OUTLET DEALS</a></li>
         </ul>
     
     
@@ -322,9 +296,7 @@ jQuery(document).ready(function(){
     
     
     
-        <ul style="display: block;">
-            <li><a href="/news/promotions-rebates/summer-blast-2018-rebates.html"><img src="/content/dam/browning/general/Mega%20Menu%20Promo%20Images/summer%20blast%202018%20square%20promo%20v%203.JPG"></a></li>
-        </ul>
+        
     
 
 
@@ -336,7 +308,7 @@ jQuery(document).ready(function(){
 
             
 
-                        
+            
         
 
             
@@ -378,7 +350,17 @@ jQuery(document).ready(function(){
                             </li>
                         
                             <li class="vertical-center-container">
-                                <a class="vertical-center" href="/news/promotions-rebates/summer-blast-2018-rebates.html">Summer Blast Rebates</a>
+                                <a class="vertical-center" href="/news/promotions-rebates/browning-black-friday-rebates-2018.html">EXPIRED - Black Friday 2018</a>
+                                
+                            </li>
+                        
+                            <li class="vertical-center-container">
+                                <a class="vertical-center" href="/news/promotions-rebates/browning-prosteel-and-pro-series-black-friday-rebates.html">Safe Rebates</a>
+                                
+                            </li>
+                        
+                            <li class="vertical-center-container">
+                                <a class="vertical-center" href="/news/promotions-rebates/holiday-savings-up-to-100-in-rebates.html">Browning Holiday savings 2018</a>
                                 
                             </li>
                         </ul>
@@ -394,7 +376,7 @@ jQuery(document).ready(function(){
                         
                     </li>
                 </ul>
-            </li>            
+            </li>
         
 
             
@@ -402,7 +384,7 @@ jQuery(document).ready(function(){
             <li>
                 <a href="/videos.html">Videos</a>
                 
-            </li>            
+            </li>
         
 
             
@@ -540,7 +522,7 @@ jQuery(document).ready(function(){
                         
                     </li>
                 </ul>
-            </li>            
+            </li>
         
 
             
@@ -563,22 +545,22 @@ jQuery(document).ready(function(){
                         
                     </li>
                 </ul>
-            </li>            
+            </li>
         
 
             
 
-                        
+            
         
 
             
 
-                        
+            
         
 
             
 
-                        
+            
         
 
             
@@ -611,22 +593,22 @@ jQuery(document).ready(function(){
                         
                     </li>
                 </ul>
-            </li>            
+            </li>
         
 
             
 
-                        
+            
         
 
             
 
-                        
+            
         
 
             
 
-                        
+            
         
     </ul>
 
@@ -677,7 +659,7 @@ jQuery(document).ready(function(){
 
 </nav>
 </div>
-<!--Include content footer and main footer -->
+
 
         </div>
 
@@ -795,7 +777,7 @@ jQuery(document).ready(function(){
             </a>
         </li>
         <li>
-            <a target="_blank" href="http://www.browning.com/privacy-policy.rss" class="social-icon si-medium si-borderless si-rss">
+            <a target="_blank" href="https://www.browning.com/privacy-policy.rss" class="social-icon si-medium si-borderless si-rss">
                 <i class="icon-rss"></i>
                 <i class="icon-rss"></i>
             </a>
@@ -834,7 +816,7 @@ jQuery(document).ready(function(){
               <div>
 
 	<div class="image-container">
-		<a href="https://membership.nra.org/Join/Annuals" target="_blank">
+		<a href="https://membership.nrahq.org/forms/signup.asp?campaignid=XM013482" target="_blank">
 			<img src="/content/dam/browning/general/logos/footer/joinnra.png" alt="causes" class="causes-img">
 		</a>
 		<a href="https://www.nssf.org/safety/own-it-respect-it-secure-it/" target="_blank">
