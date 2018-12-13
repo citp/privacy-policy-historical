@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313035045id_/https%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213163421id_/https%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
 
 # About - Privacy
 
@@ -179,18 +179,9 @@ Monday to Friday
   
 ## Making a complaint
 
-If you believe that we have interfered with your privacy in our handling of your personal information, you may lodge a complaint by contacting us on the above contact details or in writing to: Corporate Compliance, Allianz Australia Limited, GPO Box 4049, Sydney, NSW 2001.
+If you believe that we have not met our privacy obligations in our handling of your personal information, you may lodge a complaint by contacting us on the above contact details, using our [online form](https://web.archive.org/contact/), or in writing to: Corporate Compliance, Allianz Australia Limited, GPO Box 4049, Sydney, NSW 2001.
 
-We will attempt to resolve your complaint in accordance with our Complaints Resolution Process, which can be [accessed here.](https://web.archive.org/aalaus/aalaus.nsf/docs/about.privacy/$file/BCH064+0815+Complaints+Resolution+Brochure_D3.pdf)
-
-If you are unhappy with the resolution of your complaint or with the way that Allianz has handled your complaint through the Complaints Resolution Process, you may be able to refer the matter to the Financial Ombudsman Service (FOS) subject to its Terms of Reference or the Office of the Australian Information Commissioner. The contact details for these bodies are as follows:
-
-Financial Ombudsman Service Limited
-
-GPO Box 3  
-Melbourne VIC 3001  
-1300 78 08 08  
-[www.fos.org.au](http://www.fos.org.au/)
+If you are unhappy with the resolution of your complaint or with the way that Allianz has handled your complaint, you may be able to refer the matter to the Office of the Australian Information Commissioner. 
 
 Office of the Australian Information Commissioner
 
@@ -203,4 +194,4 @@ Sydney NSW 2001
 
 We may make changes to this Privacy Policy from time to time for any reason. We will publish changes to this Privacy Policy on this website.
 
-*Allianz means Allianz Australia Limited and its wholly owned subsidiaries, excluding companies operating the following businesses: Club Marine (www.clubmarine.com.au), Hunter Premium Funding (www.hpf.com.au), Ken Tame (www.kentame.com.au), and Primacy (www.primacyua.com.au) which have their own privacy policies. Overseas subsidiaries have their own privacy policies where required by local privacy laws. This Privacy Policy also covers the Allianz Marine & Transit business (www.allianzmarineandtransit.com.au).
+*Allianz means Allianz Australia Limited and its wholly owned subsidiaries, excluding companies operating the following businesses: Club Marine ([www.clubmarine.com.au](https://www.clubmarine.com.au/)), Hunter Premium Funding ([www.hpf.com.au](https://www.hpf.com.au/)), Ken Tame ([www.kentame.com.au](https://kentame.com.au/)), and Primacy ([www.pum.com.au](https://www.pum.com.au/)) which have their own privacy policies. Overseas subsidiaries have their own privacy policies where required by local privacy laws. This Privacy Policy also covers the AM&T business ([www.amandtaustralia.com.au](https://www.amandtaustralia.com.au/)) and Allianz Australia Life Insurance Limited for all of its business other than its Allianz Retire+ business for which a different Privacy Policy will apply.
