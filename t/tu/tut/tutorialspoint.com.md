@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorialspoint.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228074235id_/https%3A//www.tutorialspoint.com/about/about_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialspoint.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213193932id_/http%3A//www.tutorialspoint.com/about/about_privacy.htm) for the most accurate reproduction.*
 
 # Tutorials Point Privacy Policy
 
@@ -56,6 +56,16 @@ A cookie is a small file containing an identifier (a string of letters and numbe
 
 Kindly be informed that our website uses cookies to enhance our services based on user preferences. You can set your browser to block cookies, or to warn you before accepting them. Most parts of our website can be accessed even if your cookies are turned off, however you may find there are parts of the website that cannot be accessed with your browser settings blocking the cookies.
 
+Our adverting agencies/partners like google also collect cookies to show various contextual ads on our website.
+
+### Google Analytics
+
+Google Analytics is Google’s powerful and widely used traffic analytics tool that allows website owners to get deep and real time insight into how their site is being used, how much, and by whom.
+
+Tutorials Point uses Google Analytics to measure site traffic, visitor behavior, and to improve delivery of services. To understand the information shared with Google, how it is processed, and how you can control the information collected by Google on tutorialspoint.com, visit <https://policies.google.com/technologies/partner-sites>
+
+In addition to personal information, certain anonymous information about your visit is automatically captured when you visit the Site. This information includes the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site, occasional geographic data, and the Internet address of the Web site from which you linked directly to our site. We also may use your IP address to determine the organization that you are affiliated with. This anonymous information is used to help improve the Site, analyze trends, and administer the Site.
+
 ## Links to other websites
 
 Our website contains links to other websites. The users need to take notice of the fact that the linked websites are governed by their own privacy policies and we disclaim any responsibility arising out of your actions on the linked website. We advise users to go through the privacy policy of the linked website and their terms and conditions before sharing any information to these websites.
@@ -85,6 +95,10 @@ In the unlikely event of a breach in security systems, we may notify you through
 ## International users
 
 This website is operated from India. If you are an international user visiting from other regions having laws governing data collection and use that may differ from the Indian law, please note that you are transferring your personal data to India, which does not have the same data protection laws. By providing your personal data you consent to the use of your personal data for the uses identified above in accordance with this Privacy Policy.
+
+## Update
+
+This Privacy Policy was last updated on: 21st Oct, 2018.
 
 ## Contact us
 
