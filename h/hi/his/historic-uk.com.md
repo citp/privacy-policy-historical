@@ -1,38 +1,199 @@
-> *The following text is extracted and transformed from the historic-uk.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216121200id_/http%3A//www.historic-uk.com/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historic-uk.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213063429id_/https%3A//www.historic-uk.com/CookiePolicy) for the most accurate reproduction.*
 
-# Historic UK - the heritage of britain accommodation guide - Privacy Statement
+# Historic UK's Privacy & Cookie Policy - Historic UK
 
- 
+_Last updated: 17th May 2018, GDPR Compliant_
 
-We respect your privacy. The information that you provide us with is not used for any other purpose than for general marketing, demographic or administrative functions. If you have any concerns, questions or comments please email us. 
+## Cookie Policy
 
-We do not use cookies for collecting user information from the site. We do however, monitor activity on this site according to IP address and how our visitors came through to the site. To this extent, we might, for example, be able to determine the words you typed into a search engine to find us.
+Our site uses cookies. If you carry on using our site we will assume that you consent to us using cookies in this way. No cookies on this website capture a user’s name or other information that would identify the user personally. They merely identify a computer or other device. All information collected by cookies on this website is aggregated and therefore anonymous.
 
-You may be asked for your email address and other personal details if you want to take advantage of specific services we offer such as requesting brochures, booking accommodation or when you contact us with a specific enquiry. In each case we will only use the personal information you provide to deliver the services you have told us you wish to take part in. 
+**What is a cookie?**
 
-While we strive to keep the information that you supply directly or indirectly secure, please be aware that the Internet is not a fully secure medium and that this information is not being sent using a secure form.
+A cookie is a small text file that may be placed on your device when you visit our sites. When you next visit our sites the cookie allows us to distinguish you from other users.
 
-We do not sell or supply any personal details to third parties. 
+There are two broad categories of cookies:
 
-By using our site you agree to accept this privacy policy and are aware that our policy may change with time. Any changes to this policy will appear on this web page.
+1\. Persistent cookies  
+Persistent cookies remain on your device until deleted manually or automatically.
 
-This privacy policy only covers the Historic UK website at [www.historic-uk.com](http://www.historic-uk.com/) . Other external links within this site to other websites are not covered by this policy. Neither is information supplied by accommodation, activity and service advertisers. 
+2\. Session cookies  
+Session cookies remain on your device until you close your browser when they are automatically deleted. 
 
-_How to Contact Us:_
+Your right to refuse cookies and what happens if you refuse them.  
+You can refuse cookies by activating the relevant setting on your browser.
 
-Historic UK Ltd.  
-P.O. Box 45285  
-LONDON  
-SE10 1AW
+**Cookies we use and why we use them**
 
-Tel/Fax:  0845 643 5760  
-E-mail: [info@historic-uk.com](mailto:info@historic-uk.com)   
-Web:  [ www.historic-uk.com](http://www.historic-uk.com/)
+1\. Essential cookies
 
+Essential cookies are technical cookies that are required for the operation of our sites. Without essential cookies our sites can’t operate properly. Essential cookies include, for example, cookies that enable you to log into secure areas.
+
+2\. Performance cookies
+
+Performance cookies allow us to recognise and count the number of visitors to our sites and to see how visitors move around them. This helps us to improve the way our sites work, by enabling us to tailor our sites to the way visitors use them. The information we collect from performance cookies is aggregated which means that we cannot identify you from it.
+
+3\. Experience cookies
+
+Experience cookies allow our sites to remember the choices you make. Our sites use experience cookies to provide you with enhanced and personalised features. For example, we use information collected through what are known as “web-analytic” cookies to compare the choices you make to those of our other customers, so that we can learn from those choices. Information collected by experience cookies cannot track your browsing activity when you leave our sites to browse other sites.
+
+This website uses both first party and third party cookies, as listed below:
+
+Cookie Names | Purpose | Duration  
+---|---|---  
+_ga, _gat, _gid | Google Analytics, site tracking | 2 years, session, 1 day (respectively)  
+hubspotutk, __hstc, intercom-lou-c4ke8zbr (or similar), mp_hj_mixpanel, optimizelyBuckets, optimizelyEndUserId, optimizelySegments | Hotjar, site tracking and performance optimisation | Varies – these pixels are served by the hotjar.com domain. Please check your cookies for full information.  
   
-Last updated: 12th April 2010
+Be aware that this site may use Essential Cookies, Performance Cookies and Experience Cookies at any time.
 
-Registered Office: Historic UK Ltd, Clifford House, 38 – 44 Binley Road, Coventry CV3 1JA  
-Company Registered in England and Wales. Company Registration No. 5621230
+**How you can block cookies.**
 
-**_[Back](https://web.archive.org/web/20111216121200id_/http%3A//www.historic-uk.com/index.shtml)_**
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies.
+
+However, please be aware that blocking cookies may affect your ability to use the website.  In particular, you may not be able to access all or parts of the website or use the functionalities contained on it.
+
+**Google**
+
+This website uses Google Analytics, a web analytics service provided by Google Ireland Limited (“Google”). Google Analytics uses “cookies” (as described above and in particular, the navigation analytics cookie described in the table) to help us analyse how the site is used. The information generated by those cookies about your use of this website and your current IP-address will be transmitted by your browser to and will be stored by Google on servers in the United States and other countries. Google will use this information on our behalf for the purpose of evaluating your use of this website, compiling reports on website activity and providing other services relating to website activity and internet usage to us. The IP address collected through Google Analytics will not be associated with any other data held by Google. You may choose not to opt-in to permit use of the Google cookies and thereafter you can prevent that use by selecting the appropriate settings on your browser; however please note that if you do this, you may not be able to use the full functionality of this website (see Section 9 above). You may also stop the transmission of information generated by the cookies about your use of this website and of your IP address to Google, by downloading and installing the Google Analytics Opt-out Browser Add-on.
+
+Google also displays adverts for our website on third party websites.
+
+Google will use cookies to display adverts on those third party websites which may take into account a user’s prior visits to this website.
+
+You may reject or delete the Google advertising cookie, ie you may opt out of Google’s interest-based advertising program by visiting the Google advertising opt-out page.
+
+We combine data collected by Google Analytics with data about our adverts that have been shown using the Google Display Network or DoubleClick for Advertisers, to understand how anonymous users interact with this website after seeing our adverts. We do this to analyse and optimise our advertising campaigns.
+
+**Does the policy apply to linked websites?**
+
+Our websites may contain links to other websites. This cookie policy only applies to this website so when you link to other websites you should read their own cookie policies.
+
+**Updating our Cookie Policy**
+
+This cookie policy was last updated in May 2018.
+
+**Who can I contact if I have queries about this cookie policy?**
+
+Please [contact us](https://www.historic-uk.com/ContactUs/) if you have any questions about our cookie policy or information we hold about you.
+
+## Privacy Policy
+
+**Historic UK Limited (we) are committed to protecting and respecting your privacy.**
+
+This policy, together with any other documents referred to in it, sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+
+By visiting this website, you are accepting and consenting to the practices described in this policy.
+
+**Information we collect from you**
+
+We will collect and process the following categories of data about you:
+
+  * **Information you give us.** This is information about you that you give us by filling in forms on the website ( **Site** ), interacting with the Site or by corresponding with us by phone, e-mail or otherwise.  It includes information you provide when you sign up to our newsletter service, make an enquiry about our products and services or log a support ticket.
+
+
+
+The information you give us will include your name, address, e-mail address and phone number, as well as preliminary information about your business.
+
+  * **Information we collect about you.** This is information that we collect automatically about your visit during your time on the Site.  It typically involves technical information and is often collected using small data files called “cookies”.  This information helps us to provide you with a good experience when you browse the Site and also to indicate where the Site requires improvement.
+
+
+
+More information on how cookies work, what cookies we use and why can be found in our Cookie Policy (see above).
+
+  * **Information we receive from other sources.** This is information that we receive about you if you use any of the other websites we operate.  In this case we will have informed you when we collected that data if we intend to share those data internally.  We will also have told you for what purpose we will share your data.
+
+
+
+This also includes information that we receive from third parties, such as business partners, sub-contractors in technical services, advertising networks, analytics providers, search information providers and so on.  We will notify you when we receive information about you from them and the purposes for which we intend to use that information.
+
+**Social Media platforms**
+
+We operate social media platforms. These platforms are, in most cases, operated outside of the EU and do not comply with current Data Privacy Act and subsequent GDPR provision although they may well conform to the U.S Privacy Shield protocol.
+
+It is our process and protocol that any personally identifiable data gathered on these platforms is only in response to users interacting out of their own volition with our marketing pages. The contact is deemed as a  legitimate business enquiry. The personal contact data is removed from the site once the enquiry is processed or the user has requested so.
+
+**Analytics**
+
+Our website uses Google Analytics to collect information about how visitors use our website. We anonymise this data at the point of collection and automatically delete user and event data that is older than two years.
+
+### Uses made of the information
+
+All information about you that we collect or receive, whether of a personal or technical nature, may be used by us in the following ways:
+
+  * To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
+  * To provide you with information about other goods and services that we, or our selected partners, offer that are similar or relevant to those that you have already purchased or enquired about. Such contact will only be made by email or phone from which you can opt out at any time;
+  * To notify you about changes to our services;
+  * To administer the Site and for internal operations, including troubleshooting, system and security updates, data analysis, testing, research, statistical and survey purposes;
+  * To improve the Site to ensure that content is presented in the most effective manner for you and for your computer;
+  * To allow you to participate in interactive features of our service, when you choose to do so;
+  * As part of our efforts to keep the Site safe and secure;
+  * To measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and
+  * To comply with our record keeping and information storage obligations and policy (please see the “Where We Store Your Personal Data” section below for more details).
+
+
+
+**Information we receive from other sources.**   We will combine this information with information you give to us and information we collect about you.  We will use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+
+### Disclosure of your information
+
+We may share your information with:
+
+  * Any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006;
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you;
+  * Analytics and search engine providers that assist us in the improvement and optimisation of the Site;
+  * Third party support services, such as, but not limited to project management tools, accounting systems and hosting data centre.
+
+
+
+We will disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets;
+  * If we, or substantially all of our assets, are acquired by a third party, in which case personal data held by us about our clients will be one of the transferred assets;
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or
+  * To protect our rights, property or safety, or those of our clients or others.
+
+
+
+### Where we store your personal data
+
+All information that you provide to us is stored on our, or our selected business partners’, secure servers, and we will take reasonable steps to protect your information in accordance with this policy, including (without limitation):
+
+  * Installing a secure firewall;
+  * Using anti-virus protection software;
+  * Encrypting data; and
+  * Carrying out regular back-ups.
+
+
+
+Unfortunately, the transmission of information via the internet is not completely secure.  Although we will do our best to protect your personal data, we cannot guarantee the security of any data transmitted to the Site, and any such transmission is at your own risk.  Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+### Your rights
+
+You have the following rights under law in respect of your personal information:
+
+  * The right to be informed about the collection and use of your personal information;
+  * The right of access to your information to verify the legality of our use of it;
+  * The right to request that inaccurate or incomplete information about you is rectified;
+  * The right to request the deletion or removal of your information where there is no further reason for us to use it (such as you have withdrawn your consent);
+  * The right to restrict the use of your information;
+  * The right to obtain and reuse the information that we have about you for your own purposes;
+  * The right to object to certain uses (such as for marketing purposes); and
+  * The right not to be subject to a decision that has a legal effect on you that has been based on an automated decision.
+
+
+
+Should you wish to exercise any of these rights, you may do so at any time by writing to us at the address given below.  In some cases, we are permitted to charge a small fee of no more than £10 in respect of our administrative costs.
+
+If you would like to request the information we hold about you under a **  Subject Access Request (“SAR”)** you can download the application [template here](https://www.historic-uk.com/assets/SAR_request_historic-uk-ltd.pdf).
+
+If you feel that your rights have been breached in any way, you should contact Trevor Johnson at _Historic UK, P.O. Box 81, Budleigh Salterton, EX9 9AJ_ or lodge an official complaint with the Information Commissioner’s Office via their website ([https://ico.org.uk](https://ico.org.uk/)).
+
+The Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+
+### Changes to our privacy policy
+
+Any changes we make to our privacy policy in the future will be posted on this page.  Please check back frequently to see any updates or changes to our privacy policy.
+
+### Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Trevor Johnson at taj@historic-uk.com.
