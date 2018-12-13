@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exceluser.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524030221id_/http%3A//www.exceluser.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exceluser.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213034154id_/http%3A//www.exceluser.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,99 +9,227 @@
   
 
 
-**by[Charley Kyd](https://web.archive.org/web/20180524030221id_/http%3A//www.exceluser.com/about/about-charley-kyd.htm), MBA  
+**by[Charley Kyd](https://web.archive.org/web/20181213034154id_/http%3A//www.exceluser.com/about/about-charley-kyd.htm), MBA  
 Microsoft Excel MVP, 2005-2014  
 The Father of Spreadsheet Dashboard Reports**
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence. 
+Effective date: May 25, 2018
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services"), including those who access some of our Services but do not have accounts ("Visitors") and those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members"). This Policy also explains what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. 
+ExcelUser.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
-**Personal Information Our Company Collects and How It Is Used**
+CashMaster Business Systems, Inc., dba ExcelUser.com (“us”, “we”, or “our”) operates the www.ExcelUser.com website (the “Service”).
 
-**Introduction**
+We are serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website, products and subscriptions.
 
-Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process (or at any other time) is used primarily to provide a customized experience as you use our Products and Services. Your information will never be licensed or sold to any third party. However, we may make limited disclosure of personal information under the specific circumstances described in the "Disclosure" section below. 
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-**Disclosure**
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. 
 
-We may disclose Member and Visitor information to the following third parties, under the following circumstances: 
+## Service
 
-  * **Companies who work on our behalf:** We contract with other companies to perform business support functions on our behalf, which may involve limited access to your personal information. We require these companies to use the information only to provide the contracted services; they are prohibited from transferring the information to another party except as needed to provide those services. Some examples of these business support functions include order fulfillment, coupon fulfillment, award and rebate fulfillments, customer survey execution and information systems management. We also may make aggregate non-personal information available to select service providers.  
+Service is the www.ExcelUser.com website operated by CashMaster Business Systems, Inc.
 
-  * **Subsidiaries and joint ventures:** A subsidiary or a joint venture is an organization in which we own at least a 50% interest. If our _Company_ shares your information with a subsidiary or joint venture partner, our _Company_ will require that they not transfer your information to another party for marketing purposes or use your information contrary to your expressed choices. If you have indicated that you do not want to receive any marketing information from our _Company_ , we will not share your information with our subsidiary or joint venture partner for their marketing purposes.  
+##  Personal Data
 
-  * **Co-branded and Partner Pages:** Our _Company_ may share information with partner companies who jointly present special offers or promotions on co-branded pages within our site. You will be notified of this sharing when you are asked to furnish personal data on such a page. The partner's use of any information you submit will be governed by the partner's own privacy notice, which you can review before submitting your information.   
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
-  * **Business Transfers:** Our _Company_ reserves the right to transfer your personal information in connection with the sale or transfer of all or a portion of our business or assets. If the business is sold or transferred, our _Company_ will give you an opportunity to tell us not to transfer your personal information. In some cases, this may mean that the new organization will not be able to continue providing to you the services or products that our _Company_ provided.   
+##  Usage Data
 
-  * **Law Enforcement:** Our _Company_ may disclose personal information to third parties without your consent for any of the following reasons: to comply with any law, regulation or court order, to cooperate with Government investigations, to help prevent fraud or to enforce or protect the rights of our _Company_ or its subsidiaries.   
-With Your Consent: In all other cases, our _Company_ will obtain your express consent before sharing your information with third parties. For example, our _Company_ may conduct a joint offer or contest with a third party and you will be asked whether your personal information should be shared with that third party.
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+
+##  Cookies
+
+Cookies are small pieces of data stored on your device (computer or mobile device).
+
+##  Data Controller
+
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed. For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+
+##  Data Processors (or Service Providers)
+
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller. We may use the services of various Service Providers in order to process your data more effectively.
+
+##  Data Subject (or User)
+
+Data Subject is any living individual who is using our Service and is the subject of Personal Data.
+
+We collect several different types of information for various purposes to provide and improve our Service to you.
+
+##  Types of Data Collected
+
+###  Personal Data
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
+
+  * First name and last name
+  * Email address
+  * Phone number
+  * Business name
+  * Website URL
+  * Address, State, Province, ZIP/Postal code, City
+  * Any personal data you post on our website
+  * Data about how you use our website
+  * Technical data such as your IP address, your login data, details about your browser, time zone settings and other technology on the devise you use to access our website
+  * Your marketing and communication preferences
+  * Any information that you directly provide to us whether through our contact form, over the phone, by email or otherwise
+  * Cookies and Usage Data
 
 
 
-**Online Shopping  
-**  
-If you order services or products directly from our _Company_ we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+We may use your Personal Data to contact you with newsletters, marketing, or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us
 
-If you complete an order for some other company(ies) that may be linked to our Site, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so. We recommend that you familiarize yourself with the Privacy and Terms of Use policies of any other company(ies) whose web sites you may access from our site. 
+###  Usage Data
 
-**Online Advertisements**
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-Our company may display our online advertisements. In those cases we share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers. 
+###  Tracking & Cookies Data
 
-Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Our company does not share personal information about its Visitors or Members with these advertisers or joint venture companies. Information about how to opt-out of online advertisements you may receive from our _Company_ will be contained in the ads themselves. 
+Service Providers may use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
-**Responses to Email Inquiries  
-**  
-When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party. 
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies may also include beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
-**Voluntary Customer Surveys**
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary. Information about how to opt-out of surveys will be contained in survey communications. 
+Examples of Cookies we may use:
 
-We may take the information we receive from individuals responding to our customer surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties. 
+  * Session Cookies. We may use Session Cookies to operate our Service.
+  * Preference Cookies. We may use Preference Cookies to remember your preferences and various settings.
+  * Security Cookies. We may use Security Cookies for security purposes.
 
-**Automatic Collection of Information**
 
-Cookies: Our _Company_ may use "“Cookies" to collect information. Cookies are small pieces of information stored by your browser on your computer's hard drive, at a web site's request. Our _Company_ Cookies do not contain any personal information, but are used primarily as follows:
-
-  * to keep track of temporary information. For example, Cookies allow us to keep track of the pictures you upload and download;
-  * to register you in special programs. Cookies allow us to remember you when you login to the places on our site that require Membership; 
-  * to remember your country and language preferences;
-  * to help us understand the size of our audience and traffic patterns;
-  * to collect and record information about what you viewed on our Web site and what you viewed in our e-mail; 
-  * to manage and present site information and the pictures displayed on your computer, and 
-  * to deliver information specific to your interests.
+  * We use the collected data for various purposes:
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
 
 
 
-**Web Beacons:** We may also place small "tracker gifs" or "beacons" on many of the pages on our website, in online advertising with third parties, and in our email. We use these beacons, in connection with Cookies, to collect non-personal data on the usage of our site including but not limited to the date and time of the visit, the pages visited, the referring web page, the type of browser (e.g., Internet Explorer, NetScape), the type of operating system (e.g., Windows, Linux, or Mac), and the domain name of the visitor's Internet service provider (e.g., AOL). This information is collected about thousands of site visits and analyzed as a whole. This information is useful in, for example, tracking the performance of our online advertising such as online banner ads and to determine where to place future advertising on other web sites. 
+If you are from the European Economic Area (EEA), our legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
 
-**Disabling Cookies and Beacons:** If you are uncomfortable with the collection of such information through the use of Cookies and Beacons, we recommend disabling these features through your browser preferences, though please understand this will limit the performance and functionality of our _Company_ 's Web site. Your browser documentation should provide specific procedures for disabling cookie and beacon support. 
+We may process your Personal Data because:
 
-**Child Privacy**
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it’s not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
 
-Protecting the online privacy of children is especially important, and those under the age of 13 are protected by federal law. For that reason, our _Company_ does not knowingly permit children under the age of 13 to become registered members of our sites, or to buy goods and services on our sites, without verifiable parental consent. Our _Company_ does not knowingly collect or solicit personal information about children under 13, except with their parent's express consent. 
 
-If we ever include children under the age of 13 as part of our intended site audience, those specific web pages will, in accordance with the provisions of the Children's Online Privacy Protection Act (COPPA), be clearly identified and provide an explicit privacy notice; and we will provide processes to obtain parental approval, provide access to information and allow parents to request removal of their children's personal information. 
 
-Our _Company_ encourages parents and guardians to spend time with their children online and to participate in their interactive activities and interests. 
+We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
-**Public Forums**
+We will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
 
-Some parts of our site may enable you to participate in public services such as discussion boards, chats, and live events. Please use discretion when posting personal information about yourself when using these services. Be aware that when you disclose personal information at these sites, such as your name, member name, email address, etc., the information may be collected and used by others to send unsolicited email. The services are open to the public, and what you post there can be seen by anyone and is not protected. We cannot control the comments that you may receive while you participate in these services. You may find other people's comments to be offensive, harmful or inaccurate. 
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-**Our Company's Commitment to Data Security**
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to the United States and process it there.
 
-We implement a variety of administrative, managerial, and technical security measures to help protect your personal information. Our _Company_ has various internal control standards which relate specifically to the handling of personal information. These include certain controls to help safeguard the information we collect online. Our employees are trained to understand and comply with these controls and we communicate our Privacy Notice, practices and guidelines to our employees. However, while we strive to protect your personal information, you must also take steps to protect your information. We urge you to take every precaution to protect your personal information while you are on the Internet. 
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
+We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
-**Where to Direct Questions About Our Privacy Policy**
+##  Business Transaction
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. Revisions to This Policy Our _Company_ reserves the right to revise, amend, or modify this policy, our Terms Of Use & Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. 
+If we are involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
-|  |  [ ](https://web.archive.org/web/20180524030221id_/http%3A//www.exceluser.com/downloads/examples/minidash/index.html)
+##  Disclosure for Law Enforcement
 
-[ ](https://web.archive.org/web/20180524030221id_/http%3A//www.exceluser.com/training/charts/charleyfiles.htm)
+Under certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+##  Legal Requirements
+
+We may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend our rights or property.
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+##  Security of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * The right to access, update or to delete the information we have on you. Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+  * The right of rectification. You have the right to have your information rectified if that information is inaccurate or incomplete.
+  * The right to object. You have the right to object to our processing of your Personal Data.
+  * The right of restriction. You have the right to request that we restrict the processing of your personal information.
+  * The right to data portability. You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+  *  The right to withdraw consent. You also have the right to withdraw your consent at any time where we relied on your consent to process your personal information.
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+We use third-party Service Providers to monitor and analyze the use of our Service.
+
+  *   **Google Analytics** Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network. You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity. For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+
+
+We may use remarketing services to advertise on third party websites to you after you visited our Service. Third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+  * **Google AdWords** Google AdWords remarketing service is provided by Google Inc.You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads> Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+  * **Twitter** Twitter remarketing service is provided by Twitter Inc. You can opt-out from Twitter’s interest-based ads by following their instructions: <https://support.twitter.com/articles/20170405> You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: <https://twitter.com/privacy>
+  * **Facebook** Facebook remarketing service is provided by Facebook Inc.You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950> To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217> Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings. For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: [https://www.facebook.com/privacy/explanation.](https://www.facebook.com/privacy/explanation)
+
+
+
+We provide membership services within the Service. The membership service we work with is:
+
+  * **NewKajabi.com** Their privacy policy can be viewed at  
+<https://newkajabi.com/policies/privacy/>.
+
+
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party shopping cart and payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+  * **Authorize.net** Their Privacy Policy can be viewed at <https://www.authorize.net/company/privacy/>   
+ 
+  * **InfusionSoft.com** Their Privacy Policy can be viewed at <https://www.infusionsoft.com/legal/privacy-policy>
+
+
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact Charley Kyd at [support@ExcelUser.com](mailto:support@ExcelUser.com).  
+
