@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the4thofficial.net privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613055736id_/http%3A//the4thofficial.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the4thofficial.net privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213153600id_/https%3A//the4thofficial.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The 4th Official
 
@@ -318,6 +318,6 @@ AB- 59, Prafulla Kanan (W)
 
 Kolkata- 700101
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#731417030133001d1210185e1e16171a125d101c1e)
+[pranjal@the4thofficial.net](mailto:gdpr@snack-media.com)
 
 _This Privacy Policy was last updated on 24th May 2018._
