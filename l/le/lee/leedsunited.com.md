@@ -1,92 +1,165 @@
-> *The following text is extracted and transformed from the leedsunited.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519070711id_/https%3A//www.leedsunited.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leedsunited.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213043403id_/https%3A//www.leedsunited.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Statement | Leeds United
+# Privacy Notice | Leeds United
 
-LEEDSUNITED.COM PRIVACY POLICY
+Introduction
 
+The General Data Protection Regulation ( **GDPR** ) seeks to protect and enhance the rights of data subjects. These rights cover the safeguarding of personal data, protection against the unlawful processing of personal data and the unrestricted movement of personal data within the EU. GDPR does not apply to information already in the public domain.
+
+Leeds United ( **LUFC** ) takes your privacy seriously and we are committed to protecting your personal information.
+
+This Privacy Notice applies to personal data (i.e. information concerning any living person ( **Data Subject** )) held by LUFC as data controllers that is not already in the public domain. It explains what personal information we collect, how we collect and use that personal information, with whom we will share it, why and in what circumstances.
+
+LUFC is pleased to provide the following Privacy Notice which covers its websites, mobile applications and mobile websites ( **Platforms** ) except where you are notified of another privacy notice or policy by the specific LUFC entity which collects your personal information.
+
+The address for LUFC (a company incorporated in England and Wales under number 06233875﻿) is Leeds United, Elland Road, Leeds, LS11 0ES﻿. If you would like to get in touch with us, you can also find contact details in the ‘How to Contact Us’ section below.
+
+You might find external links to third party websites on our Platforms and those websites may have their own privacy notices which are different to this Privacy Notice. Our Privacy Notice does not apply to your use of a third party site and you should therefore make sure that you are comfortable with their privacy notices prior to using those sites.
+
+Personal Data
+
+LUFC uses the information collected from you to provide such organisational services as you request from us. In you making initial contact you consent to the LUFC maintaining a dialogue with you until you either opt out (which you can do at any stage) or we decide to desist from promoting our services.
+
+The type of information that we may collect will differ depending on the type of service we are offering or the request you make of us. Such information may include your:
+
+  * name
+  * title
+  * date of birth
+  * address
+  * contact details (including email address and/or telephone/mobile number)
+  * gender
+  * booking reference
+  * payment card details
+
+
+
+LUFC will only collect the information necessary so that it can provide you with its organisational services.
+
+In order to meet its obligations, LUFC utilises the following third parties:
+
+Organisation
+
+| 
+
+Service Description  
   
-This Privacy Policy explains how Leeds United Football Club Limited ("LUFC") together with other companies within the LUFC Group (which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006) (the "LUFC Group") and LUFC use information we collect about you and the choices you can make about the way your information is collected and used.
+---|---  
+  
+Talent
 
-Unless separately defined herein, the defined terms in this Privacy Policy have the same meaning as in the Terms and Conditions which can be found [here](http://www.leedsunited.com/page/TV/TermsAndConditions/)
+| 
 
-By your use of the LUFC.com website and LUTV (collectively referred to as the “Website”) you consent to the terms and conditions of this Privacy Policy.
+Selling of tickets for LUFC tournaments  
+  
+Talent
 
-Additionally, the Website contains links to websites that are not operated by LUFC Group. These third parties may collect data from you and share some of that data with us. LUFC Group are careful when choosing their partners, sponsors, and affiliates, but LUFC Group are not responsible for any misuse of personal information by such third parties. We recommend that you view the Privacy Policy posted on each Website that you use to confirm that the companies' policies are acceptable to you.
+| 
 
-1\. PERSONALLY IDENTIFIABLE INFORMATION AND HOW IT IS USED
+Selling of merchandise via in store, online or telesales methods on behalf of LUFC  
+  
+LUFC TV
 
-When using the Services, we may ask you to provide all or some of the following information: your name, your address, your email address, banking details, your telephone number, and your age ("Personal Information"). We may also ask you to provide your thoughts or answer some questions about your favourite events, personalities, and other subjects of interest to sports fans.
+| 
 
-In order to improve the quality of our services and your experience when visiting our website we also monitor your visit and collect information about where you are on the internet (e.g. the URL you came from, IP address, domain types like .co.uk and .com), your browser type, the country and telephone area code where your computer is located, the pages of our website that were viewed during your visit, the advertisements you clicked on, and any search terms that you entered on our website ("User Information"). We may collect this information even if you do not register with us.
+The official TV channel service of LUFC  
+  
+LUFC will ensure that each such third party organisation is contractually obliged to be fully GDPR compliant.
 
-We are aware that many children will visit Leedsunited.com and we would always encourage children under the age of 13 to talk with parents or legal guardians before submitting any personal information to this site or on any associated forums. The club will always endeavour to seek parental consent for any children under the age of 13 entering personal data for competitions and promotions.
+Cookies
 
-In order to purchase any live events viewable on this Website, participate in any contest or message feature, download any content, take part in any other interactive feature of the Websites, or receive information from LUFC Group, such as newsletters or email regarding upcoming the Services you must register and provide accurate information about yourself to the Website, as the Services may not work properly without such information.
+Our Platforms use cookies. A “cookie” is a small computer file that is downloaded to your device that enables a web server to collect information from your web browser. It collects information as to how you navigate our Platforms and helps us to identify you, to make your visit to our Platforms more enjoyable by personalising your visit by customising our web pages for you,and to build up a demographic profile. For more information on cookies and how to manage cookie settings, please go to our cookie policy. (<https://www.leedsunited.com/cookie-policy>﻿)
 
-We may use the Personal Information you provide to us to do some or all of the following:
+Legal Basis for Processing Personal Data
 
-1. To provide goods or services  
-2. To provide aggregated statistical information for LUFC or relevant third parties that will help improve our website and services to you. (These statistics will not directly identify you)  
-3. To serve content and advertisements that we believe will be of interest to you  
-4. To administer this website  
-5. If you have consented during registration or whilst making a purchase, to send you relevant offers or information on products or services by email, mail, telephone or SMS message.
+We will only collect, process, use, share and store your personal information where we are satisfied that we have an appropriate legal basis for doing so. This may be because:
 
-By agreeing to supply or allowing us to collect the information described above, you confirm that you do not and will not consider any of the above as being a breach of any of your rights under the Privacy and Electronic Communications (EC Directive) Regulations 2003.
+  * we need to use your personal information to take steps to enter into a contract with you or to meet our contractual obligations to you;
+  * we need to use your personal information to respond to marketing or other enquiries from you;
+  * we need to use your personal information to pursue our legitimate interests as a commercial organisation;
+  * we have your consent to using your personal information for a particular activity (for example, where you have consented to us sharing with you marketing or promotional communications from members of the LUFC and/or its official partners, sponsors, suppliers or licensees which we think may be of interest). 
 
-Any information collected from persons under the age of 18 will not knowingly be used for marketing purposes. Notifications of competition wins or prizes will only be sent to a parent or legal guardian for any person under the age of 18.
 
-As part of offering these services we may at times be required to transfer some of your data to third parties for processing to enable fulfilment of product purchases or provision of services. This will be limited to that which they need to carry out their services and only in the way in which we instruct them as part of a contractual agreement. Your data will never be sold or shared with third parties for the purposes of marketing without seeking prior consent. This would be separate to the consent provided as part of registration to this site.
 
-We use cookies on this site to enable us to personalise your visit and to enable use of our shopping facilities. We may occasionally use them to serve advertising and content that we believe is of interest based on your browsing history. Use of cookies is governed by EU legislation and for further information on what they are and how they are used; please visit our dedicated Cookie information page at (insert link)
+Consent
 
-If you do not wish to receive marketing and promotional communications from us or our partners, sponsors, and affiliates, you can choose to opt-out when providing your Personal Information to LUFC Group. You can also opt-out by updating your user profile on the Website.
+You may withdraw your consent to the processing of your personal information at any time by contacting the Data Privacy Officer (see the ‘How to Contact Us’ section below).
 
-Please note: If you do decide to opt-out of receiving information, LUFC Group will be unable to keep you informed of any new products, services, or special offers that may interest you and will have an impact on our ability to inform you of any live events or important information as part of any subscription service.
+Disclosure
 
-2\. SECURITY
+LUFC may, on occasion, pass your personal data to third parties exclusively to process such data on our behalf. We require any such third parties to agree to process your personal information based on our instructions and requirements consistent with this Privacy Notice and the GDPR.
 
-We understand that the security of your Personal Information is important to you. When handling Personal Information, security is paramount and we have in place a security policy which ensures that Personal Information is adequately protected. Your Personal Information is password protected, and any Personal Information you provide to LUFC Group is protected from unauthorised disclosure by reasonable technological measures. Personal Information provided to LUFC Group is not, however, transmitted via SSL encryption technology. We recommend that you do not divulge your password to anyone.
+We do not broker or pass on information gained from your engagement with us without your specific consent to do so. Notwithstanding the foregoing, we may disclose your personal information to meet our legal obligations, to comply with applicable regulations or a valid governmental request, in order to enforce or apply the terms of use of any of the Platforms or other agreements, or to protect the rights, property or safety of the members of LUFC, our partners, customers and/or others.
 
-Keeping your information secure is very important to us. Your data will be held within the European Union and all reasonable measures to protect and safeguard your data in accordance with applicable data protection law will be taken. Please note that we cannot guarantee that any data transmission over the internet is completely secure.
+Retention Policy
 
-To help us provide you with information relating to products and services that we think you will be interested in your data may occasionally be processed and held by third parties outside the European Economic Area (EU). If this is the case we will put in place appropriate safeguards to ensure your data is secure and protected in accordance with applicable data protection law.
+LUFC will only retain your personal information for as long as is reasonably necessary for the purposes for which it was collected and in line with our data retention policy. For example, we will normally keep contractual information for a period of ten years after the expiry of any such contract so that, if we need to establish, exercise or defend our legal interests, we may deal with any dispute or concerns that may arise.
 
-Please be aware that all open interactive areas are accessible to all users and their contents effectively available in the public domain. Think carefully about the contents of your submissions and if you choose to make a submission containing your personal information you do so at your own risk.
+Data Storage
 
-Protecting the online privacy of children is especially important. If we reasonably believe a user of interactive area to be under 13 years of age, we may need to remove any personal details gathered from such a user and, where possible, all submissions.
+Your personal information will be held by LUFC within the European Economic Area (EEA) only, be this on-premise or in cloud services.
 
-3\. AGGREGATED INFORMATION
+Your Rights as a Data Subject
 
-To evaluate the Website and ensure that we are providing Content and Services of interest to you, we may collect and store statistical information regarding how you use the Website, the name of your internet service provider, any websites that referred you to the Website, and the time and date you view the Website. We may also use Personal Information to develop demographic information regarding Website users. Such aggregated information will not identify you personally. We may share this aggregated, statistical information with our partners, sponsors, affiliates, and other third parties.
+At any point whilst LUFC holds your personal information, you have a number of rights available to you, including the following:
 
-We may on occasion combine information we receive online with other records to enhance our ability to notify you of our products and services that we think will be of interest to you. If you do not want to receive these notifications please send an e-mail to [customerservices@LUFCgroup.com](mailto:customerservices@performgroup.com) letting us know.
+  * Right of access – you have the right to access a copy of the information that we hold about you and to obtain information about how we process it;
+  * Right of rectification – you have a right to request that we correct data that we hold about you if it is inaccurate or incomplete;
+  * Right to be forgotten – in certain circumstances you can ask for the data we hold about you to be erased from our records;
+  * Right to restriction of processing – where certain conditions apply you have a right to request that we restrict the processing of your information;
+  * Right of portability – you have the right to have the data we hold about you provided to you in an electronic format and/or to request that it is transferred to another organisation;
+  * Right to object – you have the right to object to certain types of processing such as direct marketing;
+  * Right to object to automated processing, including profiling – you also have the right not to be subject to the legal effects of automated processing or profiling.
 
-5\. DISCLOSURE FOR LAW ENFORCEMENT PURPOSES
 
-We may occasionally disclose your personal information as part of a legal process, for example, in response to a court order. We also may disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, non-compliance with of our Terms, or as otherwise permitted or required by law and consistent with legal requirements.
 
-LUFC Group may attempt to obtain the prior consent of the individual before disclosing the Personal Information, but it has no obligation to do so.
+You can exercise these rights in the first instance by contacting the Data Privacy Officer (see ‘How to Contact Us’ section below). Should you wish to do so, we will require you to provide additional information to confirm your identity as follows:
 
-6\. PARENTS & GUARDIANS
+  * One piece of photographic identification (e.g. passport, other national identity card or photocard driving licence); and
+  * One proof of address (e.g. utility bill dated within the last 3 months). 
 
-This Website is a general audience Website. We do not knowingly collect and/or share Personal Information from children under the age of thirteen on the Website. However, your child cannot use some of the interactive features of the Website without providing Personal Information. We therefore recommend using the Website with your child if he or she is interested in participating in an interactive feature of the Website.
 
-If, in the future, LUFC Group actively collects Personal Information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998
 
-7\. ACCESS TO YOUR INFORMATION
+We will advise you promptly if we require further information in order to fulfil your request.
 
-Data Protection law gives you various rights including the right to access the Personal Information that is held about you.
+Further to the rights set out above, you can request the following information from us:
 
-We, as data controller, are required to provide you with copies of all the Personal Information we hold about you, on payment of a nominal administration charge of £10. If you wish to access the Personal Information held by us, you should therefore contact us at [customerservices@LUFCgroup.com](mailto:customerservices@performgroup.com).
+  * The identity and the contact details of the person or organisation that has determined how and why to process your data;
+  * Contact details of the Data Privacy Officer, where applicable;
+  * The purpose of the processing as well as the legal basis for processing;
+  * If the processing is based on the legitimate interests of LUFC or a third party such as one of its clients, information about those interests;
+  * The categories of personal data collected, stored and processed;
+  * Recipient(s) or categories of recipients that your data is/will be disclosed/transferred to;
+  * How long your data will be stored for;
+  * Details of your rights to correct or erase your personal data and your rights to restrict or object to the processing of your data;
+  * Information about your right to withdraw consent at any time;
+  * How to lodge a complaint with the data protection regulator in the country where you live; 
+  * The source of personal data if it  was not collected directly from you;
+  * Any details and information of automated decision making, such as profiling, and any meaningful information about the logic involved, as well as the significance and expected consequences of such processing.
 
-We also provide the opportunity to unsubscribe or amend your marketing preferences when we send you a marketing email. Please note that if you do unsubscribe or withdraw your consent we will be unable to keep you informed on issues that may be of interest to you such as ticketing availability.
 
-You can also change personal information and amend your consent when you are signed in to our website or shopping areas.
 
-You can also request at any time that the Personal Information we hold about you is updated or corrected.
+Updates
 
-8\. YOUR ACCEPTANCE OF THESE TERMS
+We may amend this Privacy Notice from time to time to keep it up to date with legal requirements, best practice and/or the way we operate our business. If we decide to change our Privacy Notice we will place any updates on this webpage and the privacy sections of any relevant Platforms. Please therefore check this page and the privacy sections of any relevant Platforms periodically in order to view the latest version of our Privacy Notice.
 
-If we decide to change this Privacy Policy, the changes will be posted on this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. We will not use or disclose Personal Information provided to us in ways unrelated to the ones described above without informing you and providing you with an opportunity to opt-out of these unrelated uses.
+How to Contact Us
 
-If you have any questions or comments about this Privacy Policy please feel free to contact us at [customerservices@LUFCgroup.com](mailto:customerservices@performgroup.com)
+The primary point of contact for all issues arising from this Privacy Notice is our Data Privacy Officer, who can be contacted by email at:
+
+[customerservices@performgroup.com](mailto:customerservices@performgroup.com)
+
+or by post at:
+
+Data Privacy Officer
+
+Leeds United
+
+Elland Road
+
+Leeds
+
+LS11 0ES
+
+In the event that you have any questions, concerns or wish to make a compliant about how your personal data is being processed or regarding our compliance with this Privacy Notice, we would encourage you to contact our Data Privacy Officer in the first instance. We will investigate and attempt to resolve complaints and disputes as quickly as possible. If you do not get a response within 30 days you can complain to the Data Protection Regulator (the Information Commissioner’s Office).
+
+Date of issue: May 2018
