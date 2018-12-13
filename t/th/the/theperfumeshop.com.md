@@ -1,125 +1,382 @@
-> *The following text is extracted and transformed from the theperfumeshop.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124093022id_/https%3A//www.theperfumeshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theperfumeshop.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213094525id_/https%3A//www.theperfumeshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Perfume Shop
 
-### 1\. Introduction
+## Short Version
 
-The Perfume Shop Limited is committed to safeguarding your privacy and ensuring that your personal data is protected. This privacy policy applies to www.theperfumeshop.com (the "Site") and to personal data collected about you by The Perfume Shop Limited (registered number 02699577) of Hutchison House, 5 Hester Road, Battersea, London, SW11 4AN ("we", "us", or "our"). The Perfume Shop Limited is a member of the A.S. Watson group of companies ("ASW Group").
+At The Perfume Shop , we take privacy seriously. 
 
-### 2\. Your Consent To This Privacy Policy
+The categories of personal data that we process depends on how you use our services. We use your personal data to provide our online services in alignment with your preferences, to process your requests, to contact you regarding products and services which may be of interest to you, to provide prize draws or competitions, or to carry out relevant administrative services. All personal data is processed in accordance with applicable data protection laws.
 
-By using the Site, you are agreeing to the terms of this privacy policy. If you do not agree with any term in this policy, please do not use the Site.
+We only disclose your personal data to third parties that assist us with providing you with our services and, if you authorise us explicitly, to our affiliated companies for the purpose of customer relationship management, analytics and marketing.
 
-### 3\. Information That We Collect About You
+With your consent we also use cookies for marketing, performance and statistical purposes.
 
-In this privacy policy your "personal data" means information or pieces of information relating to you or that could allow you to be directly or indirectly identified. We may collect personal data about you from different sources, including collecting personal data: (i) from you directly; (ii) when you visit the Site; and (iii) from other sources.
+As our valued customer, we also offer you various choices to control how your personal data is used. For example, if you would like to update your 'cookie preferences', click on the Cookie Consent Tool located at the bottom right of our website.
 
-### 3.1 Types of personal data we collect from you directly
+In addition, if you have an electronic account with us (on the website or mobile app), you can update your contact information and your marketing preferences under the 'My Account' section. Alternatively, you can contact our Customer Services Team by phone - 0800 98 88 660 or by sending an email to [onlineservices@theperfumeshop.com](mailto:onlineservices@theperfumeshop.com).
 
-We may collect personal data from you directly when you provide us with personal data so that you can register as a member of our Rewards Club programme, register for prize draws or competitions, receive information or mailings, use The Perfume Shop applications, buy a product or service from us, complete a survey, make a comment or enquiry, contact our customer services or for a variety of other reasons. Please be assured that we will not collect any personal data unless you provide this information voluntarily.
+If you would like more information about the processing of your personal data by us and on the cookies that we use, click here to read the full version of our Privacy Policy.
 
-The types of data we may collect from you directly include your:
+Go to top
 
-  * Name
-  * Postal address
-  * Email address
-  * Home telephone number or mobile number
-  * Rewards Club card number
-  * Passwords
-  * Order history/wishlist
-  * Payment history
-  * Age
-  * Date of birth
-  * Gender
+## Extended Version
 
+### Our Privacy Principles
 
+At The Perfume Shop we have 5 Privacy Promises which explain how we use and look after your information. We will:
 
-### 3.2 Types of personal data we collect when you visit the Sites (cookies)
-
-We use cookies and similar technologies to collect data about you when you visit the Site. Cookies are files that store information on your computer hard drive or browser that mean that we can recognise that you have visited our Site before. We use cookies to give you the best possible experience on our Site. If you would like more information about the types of cookies we use and how we use them, please read our Cookies Policy. The types of data we may collect from you when you visit the Site include:
-
-  * Information about the type of browser you use
-  * Details of the web pages you have viewed
-  * Your IP address
-  * The hyperlinks you have clicked
-  * The websites you visited before arriving at our Site
+  1. ALWAYS use your personal data in line with data protection law.
+  2. ALWAYS tell you what information we collect, what we do with it, who we share it with and who to contact if you have any concerns.
+  3. ALWAYS provide options to say 'STOP' if you don’t want marketing communications.
+  4. ALWAYS take steps to protect your information and make sure no unauthorised person accesses it.
+  5. ALWAYS respond to questions about your personal data without delay.
 
 
 
-### 3.3 Types of personal data we collect from other sources
+### Our Privacy Policy
 
-We may receive personal data about you from other sources, which could include commercially available sources, such as public databases and data aggregators to the extent permitted by applicable Data Protection Laws.
+Last Updated: May 2018
 
-The types of data we may collect from such sources include:
+We are committed to safeguarding your privacy rights and ensuring that your personal data is protected.
 
-  * Name
-  * Street address
-  * Age
-  * Your shopping habits
-  * Preferences and information about your lifestyle such as your hobbies and interests
-  * Publicly available information such as user-generated content, blogs and postings
+This Privacy Policy explains the types of personal data we collect and how we process and protect that data in connection with the services we offer. This includes information collected offline in our stores or through our customer services, and online through our websites, applications 
 
+(including mobile apps) and third party platforms ("Sites").
 
+This Privacy Policy also applies to our targeted content, including online offers and advertisements for products and services, which you may see on third party websites, platforms and applications ("Third Party Sites") based on your online activity. These Third Party Sites may have their own privacy policies and terms and conditions. We encourage you to read them before using those Third Party Sites.
 
-### 4\. How We Use Your Personal Data
+Go to top
 
-Subject to your prior consent where required under applicable Data Protection Laws, we may use your personal data:
+  * ## 1\. Who is responsible for what happens with your data?
 
-  * To process your application
-  * To provide the services
-  * To respond to your queries or comments
-  * For the purposes of promotion, prize draws or competitions that you have entered
-  * To send you products or samples that you have requested
-  * To evaluate the use of our Site, products and services and understand your browsing and shopping habits
-  * To make product recommendations to you
-  * To carry out analytics and market research
-  * To analyse the effectiveness of our advertisements
-  * To profile your purchases of products
-  * To prevent or detect fraud or other crimes and/or verify your identity
-  * To verify/check your credit/payment status
-  * To process payment instructions
+The Perfume Shop ("TPS" or "we") are responsible for processing your personal data on our Sites. TPS is a member of the A.S. Watson group of companies ("ASW Group"), which is part of the multinational conglomerate CK Hutchison Holdings Limited ("CK Hutchison").
+
+Go to top
+  * 
 
 
+  * ## 2\. How do I contact the Data Protection Officer?
 
-We may supplement the personal data you provide to us with other information that we hold or that we may receive from third parties. We do this for marketing purposes to provide you with more targeted products and services.
+If you have a question in relation to how we process your personal data you can contact our Data Protection Officer via email [dataprotectionofficer@the-perfume-shop.com](mailto:dataprotectionofficer@the-perfume-shop.com) or via post at Group Information Security, 17 Nijborg , 3927 DA Renswoude, The Netherlands.
 
-### 5\. Marketing Messages
-
-We may send you, by post, email, SMS or push notification details of products, services, special offers, promotions and other information that we think may be of interest to you based on your previous purchases and information you have given to us. Third parties may also, working on our behalf, market to you via social media channels. From time to time we may also contact you for customer research purposes. You may unsubscribe from such communications at any time, by changing your communication preferences in the 'My Account' section of the Site, via the unsubscribe link that you will find at the bottom of every marketing email we send or by contacting customer relations on email: [onlineservices@theperfumeshop.com](mailto:onlineservices@theperfumeshop.com) or by phone: 0800 98 88 660. However if you do unsubscribe you may miss out on some great offers.
-
-#### Email a Friend
-
-We may from time to time operate a 'refer a friend' or 'email a friend' service to enable you to easily recommend a product, offer or other information to a friend. If you use this facility please ensure that you have obtained your friend's consent before you provide us with their personal data. When we contact the friend we will always tell them the name and email address of the person who made the referral. We will not use your friend's information for any other purpose unless they consent to us doing so.
-
-### 6\. Processing Your Information
-
-We may share your personal data with or pass it onto other companies within the ASW Group and third parties which directly support our promotional activities and Site administration. We may use third parties to help us process and analyse your personal data, to give us insights that we can use to improve our products and services, and to track the effectiveness of a particular promotion or campaign. Also, if you order a product or service from us, we may share your personal data with our suppliers and other third parties to allow delivery of the products and services you have ordered. Any such suppliers or third parties are not authorised by us to use your personal data in any other way and will be required by us to implement measures to protect your personal data. Please note that we may need to disclose your personal data if we are required to do so by law, or by a warrant, subpoena or court order.
-
-We will delete your personal data when there has been no activity on your account for 3 years.
-
-### 7\. Where We Transfer And Process Your Information
-
-We may need to transfer your personal data to a location outside of the European Economic Area ("EEA"), including to countries that do not offer the same level of protection with respect to personal data as required in the EEA, on a need-to-know basis for analysis and administrative purposes. By subscribing to and using our services, you acknowledge and consent to these potential transfers. We will ensure that we will place obligations on the recipient of the data to provide an adequate level of protection to the standard as required in the EEA.
-
-### 8\. Protecting Your Personal Data
-
-We maintain appropriate administrative, technical and physical safeguards to protect the personal data you provide to us against accidental, unlawful or unauthorised destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing.
-
-The Site may contain hyperlinks to other websites provided by third parties. We do not control these third party websites or any of the content contained on those websites. Once you have left our website, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement for the website you visit.
-
-### 9\. Changes In Our Privacy Policy
-
-We may change this privacy policy from time to time by posting the updated version of the privacy policy here. We encourage you to visit this area frequently to stay informed.
-
-### 10\. Your Rights And Who To Contact
-
-Please do not hesitate to contact us if you have any questions, comments or concerns about this privacy policy. You have the right to tell us if you:
-
-  * don't want to be contacted in the future by us;
-  * would like a copy of the personal data which we hold about you;
-  * would like us to correct or update your personal data in our records; or
-  * wish to report any violations of the privacy policy.
+Go to top
+  * 
 
 
+  * ## 3\. What is personal data?
 
-You can send an email to customer relations on email: [ onlineservices@theperfumeshop.com ](mailto:onlineservices@theperfumeshop.com)or by phone: 0800 98 88 660, or write to us at: The Perfume Shop Limited, Cypress House, The Gateway Centre, Coronation Road, Cressex Business Park, High Wycombe, HP12 3SU.
+Personal Data means information that can directly or indirectly identify you ("Personal Data"). This typically includes information such as your name, address, email address, and telephone number, but can also include other information such as IP address, shopping habits, and information about your lifestyle or preferences such as your hobbies and interests.
+
+Go to top
+  * 
+
+
+  * ## 4\. What happens when you provide us with your personal data or when we otherwise receive your personal data?
+
+We collect your Personal Data directly in a number of ways, for example when you provide us with your information to register as a customer for our Sites or as a Rewards Club member , register for prize draws or competitions, subscribe to our newsletter, receive information or mailings, use our applications, buy a product or service from us, complete a survey, make a comment or enquiry or contact our Customer Services Team.
+
+When you provide us with your Personal Data, we will process it in accordance with this Privacy Policy. If you do not wish us to process your Personal Data in this way, please do not provide us with your personal information.
+
+We may also receive your Personal Data from other sources, including information from commercially available sources, such as public databases and data aggregators, and information from third parties. If you do not want us to receive your Personal Data from other sources, please communicate your preferences directly with the relevant sources.
+
+We process your Personal Data to provide you with our services as further explained below. In certain instances, we only process your Personal Data if you have given us permission to do so, for example in most cases where we process your Personal Data for marketing purposes, use cookies or location data or where we process your sensitive personal information. In other instances we may rely on other legal grounds for processing your personal data, such as performance of the contract with you or legitimate interests, like fraud prevention.
+
+If you become a Rewards Club member , we may infer in a transparent manner that you would like us to process your Personal Data for marketing purposes. You can always opt out of marketing communications without detriment to your loyalty benefits.
+
+Where we process your Personal Data on the basis of your consent, we will ask for your consent explicitly and only for a particular purpose. We will also ask you to provide additional consent if we need to use your Personal Data for purposes not covered by this Privacy Policy.
+
+Please refer to the table in Section 6.1 for details of the various types of Personal Data we may collect, the relevant purposes and the legal basis for such processing.
+
+Go to top
+  * 
+
+
+  * ## 5\. What happens if our customer is a child?
+
+We collect your Personal Data directly in a number of ways, for example when you provide us with your information to register as a customer for our Sites or as a Rewards Club member , register for prize draws or competitions, subscribe to our newsletter, receive information or mailings, use our applications, buy a product or service from us, complete a survey, make a comment or enquiry or contact our Customer Services Team.
+
+When you provide us with your Personal Data, we will process it in accordance with this Privacy Policy. If you do not wish us to process your Personal Data in this way, please do not provide us with your personal information.
+
+We may also receive your Personal Data from other sources, including information from commercially available sources, such as public databases and data aggregators, and information from third parties. If you do not want us to receive your Personal Data from other sources, please communicate your preferences directly with the relevant sources.
+
+We process your Personal Data to provide you with our services as further explained below. In certain instances, we only process your Personal Data if you have given us permission to do so, for example in most cases where we process your Personal Data for marketing purposes, use cookies or location data or where we process your sensitive personal information. In other instances we may rely on other legal grounds for processing your personal data, such as performance of the contract with you or legitimate interests, like fraud prevention.
+
+If you become a Rewards Club member , we may infer in a transparent manner that you would like us to process your Personal Data for marketing purposes. You can always opt out of marketing communications without detriment to your loyalty benefits.
+
+Where we process your Personal Data on the basis of your consent, we will ask for your consent explicitly and only for a particular purpose. We will also ask you to provide additional consent if we need to use your Personal Data for purposes not covered by this Privacy Policy.
+
+Please refer to the table in Section 6.1 for details of the various types of Personal Data we may collect, the relevant purposes and the legal basis for such processing.
+
+Go to top
+  * 
+
+
+  * ## 6\. For which purposes do we process your personal data?
+
+### 6.1 We process the following categories of Personal Data for the following purposes:
+
+#### Browsing on our Sites
+
+### What Personal Data may we collect?
+
+Information about the type of browser you use when visiting our Sites, your IP and device address, hyperlinks that you have clicked, websites you visited before arriving at our Sites and information collected by cookies or similar tracking devices. Your user name, profile picture, gender, networks and any other information you choose to share when using Third Party Sites (such as when you use the "Like" functionality on Facebook).
+
+### What is the Purpose of the processing?
+
+We (and third party service providers acting on our behalf) use cookies and similar technologies to process data about you when you visit our Sites. We would like to know whether you have visited us before and your preferences to provide you with a tailored experience of our Sites.
+
+See Section 6.2. below for more information about cookies.
+
+### How long do we store your Personal Data?
+
+Please check the Cookie Consent Tool to learn about the storage periods for each cookie.
+
+### What is our legal basis for the processing?
+
+Your consent when you click “agree and proceed” in our Cookie Consent Tool in our Sites. In some cases, and always when permitted by law, we will infer from your actions that you agree to Cookies. Please note that we need to process certain basic surfing data in order to provide core Sites functionalities such as secure log-in or remember how far you are through an order.
+
+You can always revisit your cookie preferences via our Cookie Consent Tool or by changing your browser settings.
+
+#### Purchase/Agreeing to a Service
+
+### What Personal Data may we collect?
+
+Name, title, postal address, email address, home telephone, mobile number, Rewards Club number, passwords, order history, payment history, payment information (i.e. bank or credit card details), order history/wishlist, age/date of birth, gender, information on the handling of your request (including information relating to beauty products that you order), and other Personal Data you voluntarily provide to us.
+
+### What is the Purpose of the processing?
+
+We process Personal Data to provide you with our products or services that you request from us, including sending you products you have purchased or samples that you have requested.
+
+### How long do we store your Personal Data?
+
+As long as you keep shopping with us. If after three years, you have no transactions, we delete or anonymise your Personal Data, unless we are required by law to store it for a longer period.
+
+### What is our legal basis for the processing?
+
+We need this information to process your order or any other service you request from us (performance of a contract). If we need information about you that is considered sensitive we will inform you in a transparent manner about our legal obligations to process such personal data.
+
+#### Customer Service
+
+### What Personal Data may we collect?
+
+Name, title, postal address, email address, home telephone, mobile number, Rewards Club number, passwords, order history, payment history, payment information (i.e. bank or credit card details), order history/wishlist, age/date of birth, gender, information on the handling of your query, posts and other content you submit to our Sites, and further information submitted by you in relation to a purchase or service request or other query (including sensitive personal information).
+
+### What is the Purpose of the processing?
+
+We process your Personal Data whenever you contact us and when we respond to your enquries and comments.
+
+### How long do we store your Personal Data?
+
+General enquiries and comments relating to service issues, store standards, stock availability etc. three years from last communication with you. Communications relating to personal injuries, accidents and other health and safety issues may need to be kept for a longer period in case of legal claims or settlements.
+
+### What is our legal basis for the processing?
+
+To process your enquiries, comments or complaints at your request (performance of a contract or quasi-contract).
+
+#### Suggesting products & services which may interest you
+
+### What Personal Data may we collect?
+
+Name, title, postal address, email address, mobile number, Rewards Club number, order history/wishlist (including purchases you make on our Site, mobile app or in-store), payment history, age, date of birth, gender, products you view on our Site, brands you prefer, favourite store, actions you take on our website or when viewing our emails, answers you provide in surveys or competitions, your shopping habits and preferences and information about your lifestyle, such as your hobbies and interests.
+
+### What is the Purpose of the processing?
+
+To suggest tailored products or services (including those of relevant third parties) that we think may be of interest to you based on your shopping history and behaviour, your preferences, and our market segmentation strategies. We may do this by sending you - via post, email, newsletter, SMS, push notifications or phone - details of products, services, special offers, promotions and other information. We may also contact you to offer the opportunity to take part in customer research surveys, promotions, prize draws or competitions. You may also receive in-store promotions (such as special coupons) from us when you have an account with us or are a Rewards Club member.
+
+### How long do we store your Personal Data?
+
+As long as you keep shopping with us. If you are a Rewards Club member and after three years, you have no transactions, we delete or anonymise your Personal Data, unless we are required by the law to store it for a longer period. If you purchase online through guest check-out, we will retain your data for one year from the date of transaction.
+
+If you have signed up to any of our newsletters, we will retain your Personal Data until you unsubscribe.
+
+### What is our legal basis for the processing?
+
+You may authorise us to do so if you become a Rewards Club member by accepting our Terms & Conditions (performance of a contract).
+
+If you are not a Rewards Club member, you will authorise us by signing up to our newsletters.
+
+If you purchase online through guest check-out we will contact you with related offers based on legitimate interest and always within the limits of the law, including spamming laws.
+
+You can always opt-out of our marketing via your “Privacy Preferences Dashboard” in your profile (if you have one) or via the unsubscribe button in any of our marketing communications.
+
+#### Competitions and prize draws
+
+### What Personal Data may we collect?
+
+Name, title, postal address, email address, home telephone or mobile number, age, date of birth, gender, user generated content or any other Personal Data that you submit – as required for the competition or prize draw.
+
+### What is the Purpose of the processing?
+
+To carry out prize drawsor competitions which you chose to participate in and to determine the winner or to provide the prize if you win. 
+
+### How long do we store your Personal Data?
+
+Three months after the competition or game was completed, unless we are required by law to store them for a longer period.
+
+### What is our legal basis for the processing?
+
+We may need this information for identification purposes and to provide you with the prize if applicable (performance of a contract). Where we intend to use your personal data for marketing purposes, we will clearly inform you before we collect your personal data and ask you for your consent.
+
+#### Online Shopping
+
+### What Personal Data may we collect?
+
+Name, title, postal address, email address, home telephone or mobile number, information about products you order,) order history, details about your purchase, payment information, payment history, age.
+
+### What is the Purpose of the processing?
+
+To process your online purchase and deliver the product to you as ordered. Your payment related Personal Data may be transferred to payment providers to process your payments.
+
+### How long do we store your Personal Data?
+
+As long as you keep shopping with us. If after three years, you have no transactions, we delete or anonymise your Personal Data, unless we are required by law to store it for a longer period.
+
+If you check out as a guest, we will retain your Personal Data for one year from the date of transaction.
+
+### What is our legal basis for the processing?
+
+We need this information to provide you with your online order (performance of a contract). For processing of information about health and beauty or diagnostic data (your consent).
+
+#### The Rewards Club
+
+### What Personal Data may we collect?
+
+Name, title, postal address, email address, home telephone or mobile number, information about products you order using your Rewards Club card, (transactions relevant for the Rewards Club account status and details regarding points collected and redeemed, payment information (i.e. bank details), payment history, age.
+
+### What is the Purpose of the processing?
+
+To provide you with all services under the Rewards Club including exclusive offers and points schemes.
+
+### How long do we store your Personal Data?
+
+As long as you are a Rewards Club member. If after three years, you have no transactions, we delete or anonymise your Personal Data, unless we are required by law to store it for a longer period.
+
+### What is our legal basis for the processing?
+
+By signing up to the Rewards Club you authorise us to process your personal data to provide you with all services under the Rewards Club (performance of a contract).
+
+#### Fraud prevention and other administrative services, such as registration
+
+### What Personal Data may we collect?
+
+Name, title, postal address, email address, home telephone or mobile number, payment information (i.e. bank details), payment history, age.
+
+### What is the Purpose of the processing?
+
+To carry out administrative services, including processing any application you submit to us for providing the services, preventing or detecting fraud or other crimes, verifying your identity and credit/payment status, or processing payment instructions. Your payment related Personal Data may be transferred to payment providers to process your payments or the police for fraud prevention purposes.
+
+### How long do we store your Personal Data?
+
+As long as you keep shopping with us. If after three years, you have no transactions, we delete or anonymise your Personal Data, unless we are required by the law to store them for a longer period. 
+
+### What is our legal basis for the processing?
+
+For the prevention and detection of fraud to ensure that your identity and transactions are secured (balancing of interest with our interest being to prevent fraud and protect our customers).
+
+We perform other administrative services to provide you with the respective underlying services (performance of a contract).
+
+### 6.2 Cookies and Similar Technologies
+
+We use cookies and similar technologies (“Cookies”) to improve our products and your experience on our Sites by collecting information on how you use our Sites. Some of the Cookies we use are required to enable core site functionality, for example to provide secure log-in or to remember how far you are through an order, but we also use Cookies that allow us to analyse site usage (so we can measure and improve performance), and advertisement Cookies which are used by advertising companies to serve ads that are relevant to your interests.
+
+We may also tailor our Sites and our products to your interests and needs, by collecting information about your device and linking this to your Personal Data so as to ensure that our Sites present the best web experience for you.
+
+Where we use Google Analytics, we have set up the service to anonymise your IP address as soon as data is received by the Analytics Collection Network: <https://support.google.com/analytics/answer/2763052?hl=en> , before any storage or processing takes place. To opt out of being tracked by Google Analytics across all websites please visit <http://tools.google.com/dlpage/gaoptout>.
+
+You can view more information on the Cookies we use and adjust your preferences via the Cookie Consent Tool on our Sites. Please note, however, that without cookies you may not be able to use all of the features of our Sites or online services.
+
+  * 
+
+
+  * ## 7\. Who we share your personal data with?
+
+### 7.1 Our Service Providers
+
+We share your Personal Data with with the following data processors (i.e. service providers that help us to perform the above tasks):
+
+### 7.2 Other Recipients
+
+We share your Personal Data with the following third parties that process your Personal Data for their own purposes (i.e. these third parties are no processors; they rather use your Personal Data because they have their own interest or because you had consented):
+
+Please note that we never share your Personal Data with social media platforms. When we engage in audience building or customer matching activities with social media platforms like Facebook or Google, your Personal Data is always anonymised before the transfer. If there are any changes in the future and we have to share your Personal Data with a social media platform, we will ask for your consent.
+
+### 7.3 Sharing your Site Usage Information
+
+With your consent, we will share Site usage information with trusted third parties (e.g. advertisers, advertising agencies, advertising networks, data exchanges, etc.) in order to offer you tailored content which may be of interest to you based on your prior activity on our Site. These trusted third parties may set and access their own Cookies, web beacons and similar tracking technologies on your device in order to help us deliver customised content and advertising to you when you visit our relevant Sites. Please see Section 6.2 for more information about Cookies and how to opt out.
+
+You can also visit the website www.youronlinechoices.com to choose which companies can deliver customised advertisements.
+
+Please note that even if you opt out, you may still receive advertisements from us that are not customised based on your Site usage information.
+
+Go to top
+  * 
+
+
+  * ## 8\. To which countries do we transfer your personal data?
+
+Many of our trusted third parties,ASW Group and CK Hutchison companies are based in countries that provide an adequate level of data protection, such as the European Economic Area ("EEA").
+
+We also transfer your data to Ukraine (where our web development team sits), USA and India (where some of our suppliers have back office services), and Canada (where some of our suppliers that provide us with data analytics and personalisation services are located).
+
+When we need to transfer your Personal Data to a trusted third party or ASW Group or CK Hutchison company based in a country where data protection laws are considered not to offer the same level of protection, we ensure adequate data protection safeguards by relying on other legitimate means, such as the Privacy Shield certification and/or Standard Contractual Clauses.
+
+More details on the transfer mechanism can be obtained from our Data Protection Officer (see contact details in Section 2).
+
+Go to top
+  * 
+
+
+  * ## 9\. How long do we process your personal data?
+
+We will store your Personal Data only until the aforementioned purposes for which we have collected or received your Personal Data are fulfilled and once our statutory obligations to preserve records have expired as further described in Section 6.1. 
+
+Go to top
+  * 
+
+
+  * ## 10\. What are your rights?
+
+If certain requirements are fulfilled, you have the right to:
+
+You can learn more about these rights here: <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>. To exercise your rights, please contact the Data Protection Officer (see Section 2 for contact details) or get in touch with our Customer Services Team on the details set out below.
+
+**Note that you do not need to contact our Data Protection Officer to excerise your rights to stop receiving marketing communications from us. You can opt out of receiving such communications by going to the Marketing Preferences of your ‘My Account’ if you have an account with us, directly from the communications we send you or by contacting our Customer Services Team by phone – 0800 98 88 860 or by sending an email to[onlineservices@theperfumeshop.com](mailto:onlineservices@theperfumeshop.com).**
+
+Go to top
+  * 
+
+
+  * ## 11\. Can you withdraw your consent to the processing of personal data?
+
+Where your consent is the legal basis for the processing of your Personal Data, you can withdraw your consent for:
+
+Please note that withdrawing your consent will not affect the lawfulness of the processing before the withdrawal.
+
+Go to top
+  * 
+
+
+  * ## 12\. Can you complain with the data protection authorities?
+
+If you think that the processing of Personal Data by us violates data protection laws, you can lodge a complaint with the Information Commissioner in the UK ([www.ico.org.uk](https://ico.org.uk/)) or the Data Protection Commissioner in the Republic of Ireland ([www.dataprotection.ie](https://www.dataprotection.ie/)). 
+
+Go to top
+  * 
+
+
+  * ## 13\. How do we protect your personal data?
+
+We maintain appropriate technical and organisational measures to protect the Personal Data you provide to us against accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to your Personal Data.
+
+Go to top
+  * 
+
+
+  * ## 14\. Can we change our privacy policy?
+
+We may change this Privacy Policy from time to time by posting the updated version of the Privacy Policy here. We encourage you to visit this area frequently to stay informed.
+
+Go to top
+  * 
+
