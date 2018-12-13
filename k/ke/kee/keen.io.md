@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keen.io privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622133137id_/https%3A//keen.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.io privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213145108id_/https%3A//keen.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Keen IO
+# Privacy Policy | Keen
 
 ## Keen Privacy Policy
 
