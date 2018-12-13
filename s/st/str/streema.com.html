@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the streema.com privacy policy that was archived on 2018-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180408144704id_/http%3A//streema.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the streema.com privacy policy that was archived on 2018-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181213204006id_/https%3A//streema.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="height: 100%;"><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//www.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAMFWVBACwYEUlRV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"8aa7a91407","agent":"","transactionName":"MlYAMkQCD0ICB0NQXgscJBNYABVYDAoYSkUXVgcLV00AQRMXGUldBEoOD0UXEh8ODVNdXQBEAxRTEFthDwVOVVgWRxErXwcFXQYTVktUS0MQCVUGEkI8FlJIRABAFg==","applicationID":"354657","errorBeacon":"bam.nr-data.net","applicationTime":75}</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//www.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAMFWVBACwYEUlRV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(13),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(14),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(16)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(13),c=t(14),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(o="Safari",i=s[1])}e.exports={agent:o,version:i,match:r}},{}],13:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],14:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],15:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],16:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(14),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[g[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){w[t]=m(t).concat(e)}function h(t,e){var n=w[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return w[t]||[]}function v(t){return d[t]=d[t]||o(n)}function y(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var w={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:y,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(13),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+b.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-b.offset}var c=(new Date).getTime(),s=t("handle"),f=t(13),u=t("ee"),d=t(12),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,y=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var w=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},x=v&&y&&y[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:x,userAgent:d};t(9),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),s("mark",["firstbyte",c],null,"api");var E=0,O=t(15)},{}]},{},["loader",2,7]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"8aa7a91407","agent":"","transactionName":"MlYAMkQCD0ICB0NQXgscJBNYABVYDAoYSkUXVgcLV00AQRMXGUldBEoOD0UXEh8ODVNdXQBEAxRTEFthDwVOVVgWRxErXwcFXQYTVktUS0MQCVUGEkI8FlJIRABAFg==","applicationID":"354657","errorBeacon":"bam.nr-data.net","applicationTime":68}</script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     
@@ -19,7 +19,7 @@
     window.ST = {};
   }
 
-  ST.settings = {"nowplayingProfilePollInterval": 120, "nowplayingRetryDelay": 300, "analyticsDomain": null, "clariceCallback": "foo", "algoliaAppId": "GD57ZLUSMO", "trackTunein": true, "kissmetricsMobileApiKey": "dc5cf814484ab0941a898c53bbe2d2bdd4a0e50f", "trackJsErrors": false, "clariceDomainList": "clarice.streema.com", "clariceApiKey": "13fe509352910e5056f2ae8ca15e4008a6063ce4", "playerSnapshotTrackingEnabled": true, "facebookAppId": "6623458155", "nowplayingPollInterval": 10, "nowrelinchUrl": "https://nowrelinch.streema.com/", "isUserAuthenticated": false, "username": null, "spotDefaultMiddleColumn": "wall", "facebookNewUser": false, "analyticsUacode": "UA-2531061-1", "clariceUser": "webapp", "clariceTrackingEnabled": true, "referer": "other", "isGaFirstVisit": true, "socialPluginsEnabled": true, "tvHeaderLinkEnabled": true, "wallEnabled": true, "kissmetricsDesktopApiKey": "f57a3987cddc76706d34507f98a93198c81d4ab3", "algoliaApiKey": "5487db0595fe0a8bfa34c9b66ec00535", "clariceSource": "webapp:prod", "trackNowplaying": true, "clariceClientUrl": null, "storePlayerStats": true, "email": null, "algoliaIndex": "radios", "csrfToken": "5oZHay9V3afX9VwUxHZ1oKn2OENOcs0o", "csrfTokenCookieName": "csrftoken"};
+  ST.settings = {"nowplayingProfilePollInterval": 120, "nowplayingRetryDelay": 300, "analyticsDomain": null, "clariceCallback": "foo", "algoliaAppId": "GD57ZLUSMO", "trackTunein": true, "trackJsErrors": false, "clariceDomainList": "clarice.streema.com", "clariceApiKey": "13fe509352910e5056f2ae8ca15e4008a6063ce4", "playerSnapshotTrackingEnabled": true, "facebookAppId": "6623458155", "nowplayingPollInterval": 10, "nowrelinchUrl": "https://fake-nowrelinch.streema.com/", "isUserAuthenticated": false, "username": null, "spotDefaultMiddleColumn": "wall", "facebookNewUser": false, "analyticsUacode": "UA-2531061-1", "clariceUser": "webapp", "clariceTrackingEnabled": true, "referer": "other", "isGaFirstVisit": true, "socialPluginsEnabled": true, "tvHeaderLinkEnabled": true, "wallEnabled": true, "algoliaApiKey": "ab71013c4c832d9450c1a1182357278c", "clariceSource": "webapp:prod", "trackNowplaying": true, "clariceClientUrl": null, "storePlayerStats": true, "email": null, "algoliaIndex": "radios", "csrfToken": "TkzQzhRqPEot4g8JbNOPI8x3aIS0Mdr1", "csrfTokenCookieName": "csrftoken"};
 
   ST.logos = {
     "radio-placeholder-75": "https://statics.streema.com/img/radios/radio.placeholder.75.png",
@@ -30,11 +30,11 @@
     isAuthenticated: false,
     name:  'Guest' ,
     email: null,
-    cohort: "20180408",
+    cohort: "20181213",
     geoip_city: {"city": "San Francisco", "postalCode": null, "countryCode": "US", "areaCode": 415, "region": "CA", "charset": 0, "longitude": -122.41940307617188, "countryName": "United States", "latitude": 37.774898529052734, "dmaCode": 807, "countryCode3": "USA", "continentCode": "NA"}
   };
 
-  ST.parsedUA = {"device": {"family": "Spider"}, "userAgent": {"major": null, "minor": null, "family": "Other", "patch": null}, "os": {"major": null, "patch_minor": null, "minor": null, "family": "Other", "patch": null}, "string": "Mozilla/5.0 (compatible; archive.org_bot +http://archive.org/details/archive.org_bot)"};
+  ST.parsedUA = {"device": {"family": "Spider"}, "userAgent": {"major": null, "minor": null, "family": "Other", "patch": null}, "os": {"major": null, "patch_minor": null, "minor": null, "family": "Other", "patch": null}, "string": "Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)"};
 
 </script>
 
@@ -82,7 +82,7 @@ that.pushQueue.push(['callback',function(){}]);that.pushQueue.push(['PATCH',{'na
   ST.clariceBaseEventParams = function() {
     var params = {
       'path': window.location.pathname,
-      'ua': {"device": {"family": "Spider"}, "userAgent": {"major": null, "minor": null, "family": "Other", "patch": null}, "os": {"major": null, "patch_minor": null, "minor": null, "family": "Other", "patch": null}, "string": "Mozilla/5.0 (compatible; archive.org_bot +http://archive.org/details/archive.org_bot)"},
+      'ua': {"device": {"family": "Spider"}, "userAgent": {"major": null, "minor": null, "family": "Other", "patch": null}, "os": {"major": null, "patch_minor": null, "minor": null, "family": "Other", "patch": null}, "string": "Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)"},
       'referrer': document.referrer,
       'href': window.location.href
     }
@@ -118,9 +118,6 @@ that.pushQueue.push(['callback',function(){}]);that.pushQueue.push(['PATCH',{'na
     googleAnalyticsOptions: {
       uacode: 'UA-2531061-1'
       
-    },
-    kissmetricsOptions: {
-      'api_key': 'f57a3987cddc76706d34507f98a93198c81d4ab3'
     }
   };
 </script>
@@ -137,7 +134,7 @@ streemalytics.baseIntegration=function BaseIntegration(analyticsEmitter,options)
 trackedTuneinState=true;}}
 if(!trackedTuneinActivation){if(tiProps.duration>60*10){trackedTuneinActivation=true;if(this.tuneinActivation){this.tuneinActivation(tiProps);}}}};return integration;};streemalytics.googleAnalyticsIntegration=function googleAnalyticsIntegration(analyticsEmitter,options){var gaIntegration=streemalytics.baseIntegration(analyticsEmitter,options);if(!options||!options.uacode){throw new Error("Google analytics integration requires option 'uacode'")}
 gaIntegration.name="Google Analytics Integration";gaIntegration.initialize=function(){var pluginUrl='//www.google-analytics.com/plugins/ga/inpage_linkid.js';this._push('_require','inpage_linkid',pluginUrl);this._push('_setAccount',options.uacode);this._push('_setSiteSpeedSampleRate',10);if(options.domain){this._push(['_setDomainName',options.domain]);}
-if(options.uacode){(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src='//www.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();}};gaIntegration._push=function(){window._gaq||(window._gaq=[]);window._gaq.push([].slice.call(arguments));};gaIntegration.page=function(properties,options){if(properties.forcedLocation){this._push('_trackPageview',properties.forcedLocation);}else{this._push('_trackPageview');}};gaIntegration.track=function(namespace,event,properties,options){var opts=streemalytics.utils.extend({noninteraction:true},options);var props=streemalytics.utils.extend({},properties);var category=namespace||'All';var label=props.label||'';var value=Math.max(0,Math.round(props.value==null?1:props.value));var noninteraction=(props.noninteraction===false)?false:opts.noninteraction;this._push('_trackEvent',category,event,label,value,noninteraction);};gaIntegration.customVariable=function(name,value,slot,scope){this._push('_setCustomVar',parseInt(slot),name,value,scope);};return gaIntegration;};streemalytics.intercomIntegration=function intercomIntegration(analyticsEmitter,options){var intercomIntegration=streemalytics.baseIntegration(analyticsEmitter,options);intercomIntegration.name="Intercom Events Integration";intercomIntegration.initialize=function(){};intercomIntegration._trackIfLoaded=function(eventName,properties){if(window.Intercom){window.Intercom('trackEvent',eventName,properties);}};intercomIntegration.track=function(namespace,event,properties,options){this._trackIfLoaded(namespace+"-"+event,properties);};intercomIntegration.tuneinStateReached=function(state,tiProps){this._trackIfLoaded('tunein-state'+state,tiProps);};intercomIntegration.tuneinActivation=function(tiProps){this._trackIfLoaded('tunein-ten-minutes',tiProps);};return intercomIntegration;};streemalytics.clariceIntegration=function clariceIntegration(analyticsEmitter,options){var clariceIntegration=streemalytics.baseIntegration(analyticsEmitter,options);clariceIntegration.name="Clarice Integration";clariceIntegration.initialize=function(){if(!_cos){throw new Error("Clarice global variable _cos is undefined");}};clariceIntegration.track=function(namespace,eventName,properties){var props=streemalytics.utils.extend(ST.clariceBaseEventParams(),properties);props.time=(new Date())-ST.firstByteTime;props.category=namespace;props.eventName=eventName;ST.ClariceHelper.createAndSendEvent("POST","browser-event",props)};return clariceIntegration;};(function(){var analytics=streemalytics();var config=ST.settings.streemalytics||{};analytics.initialize([streemalytics.googleAnalyticsIntegration(analytics,config.googleAnalyticsOptions),streemalytics.clariceIntegration(analytics),streemalytics.intercomIntegration(analytics)]);while(window._streemalytics&&window._streemalytics.length>0){var args=window._streemalytics.shift();var method=args.shift();analytics[method]&&analytics[method].apply(analytics,args)}
+if(options.uacode){(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src='//www.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();}};gaIntegration._push=function(){window._gaq||(window._gaq=[]);window._gaq.push([].slice.call(arguments));};gaIntegration.page=function(properties,options){if(properties.forcedLocation){this._push('_trackPageview',properties.forcedLocation);}else{this._push('_trackPageview');}};gaIntegration.track=function(namespace,event,properties,options){var opts=streemalytics.utils.extend({noninteraction:true},options);var props=streemalytics.utils.extend({},properties);var category=namespace||'All';var label=props.label||'';var value=Math.max(0,Math.round(props.value==null?1:props.value));var noninteraction=(props.noninteraction===false)?false:opts.noninteraction;this._push('_trackEvent',category,event,label,value,noninteraction);};gaIntegration.customVariable=function(name,value,slot,scope){this._push('_setCustomVar',parseInt(slot),name,value,scope);};return gaIntegration;};streemalytics.clariceIntegration=function clariceIntegration(analyticsEmitter,options){var clariceIntegration=streemalytics.baseIntegration(analyticsEmitter,options);clariceIntegration.name="Clarice Integration";clariceIntegration.initialize=function(){if(!_cos){throw new Error("Clarice global variable _cos is undefined");}};clariceIntegration.track=function(namespace,eventName,properties){var props=streemalytics.utils.extend(ST.clariceBaseEventParams(),properties);props.time=(new Date())-ST.firstByteTime;props.category=namespace;props.eventName=eventName;ST.ClariceHelper.createAndSendEvent("POST","browser-event",props)};return clariceIntegration;};(function(){var analytics=streemalytics();var config=ST.settings.streemalytics||{};analytics.initialize([streemalytics.googleAnalyticsIntegration(analytics,config.googleAnalyticsOptions),streemalytics.clariceIntegration(analytics),]);while(window._streemalytics&&window._streemalytics.length>0){var args=window._streemalytics.shift();var method=args.shift();analytics[method]&&analytics[method].apply(analytics,args)}
 window._streemalytics=analytics;})();</script>
 
     
@@ -197,8 +194,8 @@ if(typeof window.define==='function'&&window.define.amd!==undefined){window.defi
     <link href="//fonts.googleapis.com/css?family=Roboto:400,300,500" rel="stylesheet" type="text/css">
 
     
-  <link rel="stylesheet" href="https://statics.streema.com/CACHE/css/fe5bb9ca32e1.css" type="text/css">
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://statics.streema.com/CACHE/css/4781eb26a560.css" type="text/css">
+  <link rel="preload" as="style" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" onload="this.rel='stylesheet'">
 
   <!--[if IE 8]>
   <link rel="stylesheet" href="https://statics.streema.com/CACHE/css/24102a1b3a55.css" type="text/css" />
@@ -229,8 +226,8 @@ if(typeof window.define==='function'&&window.define.amd!==undefined){window.defi
 
     
     
-<meta name="description" content="Learn more about Streema's Privacy Policy. Streema is the place to go when you want to find the best radio stations around the world.">
-
+      <meta name="description" content="Listen to free online radio stations from all over the world.  Find the best free Internet radio, AM and FM stations, and live web radio on Streema.  Enjoy free music and share it with friends!">
+    
     <meta name="keywords" content="free online radio stations, online radio stations, radio stations, internet radio, fm, am, webradio, music, free, stations, station, tuner, playlist">
     <meta name="title" content="Free Online Radio Stations - Listen to Live Internet Radio, AM, FM Stations - New Music">
     <meta name="robots" content="INDEX,FOLLOW">
@@ -305,7 +302,7 @@ if(typeof window.define==='function'&&window.define.amd!==undefined){window.defi
         </ul>
 
         
-          <a rel="nofollow" href="/social/login/facebook/?next=/about/privacy/" class="btn btn-fb pull-left hidden-sm hidden-xs" data-track-click="Sign in Flow, Click to Sign in with Facebook, Navbar">
+          <a href="#loginModal" role="button" data-toggle="modal" class="navbar-signin btn btn-fb pull-left hidden-sm hidden-xs" data-track-click="Sign in Flow, Click to Sign in with Facebook, Navbar">
              <i class="fa fa-facebook fa-lg"></i> Sign in with Facebook
           </a>
 
@@ -362,7 +359,7 @@ if(typeof window.define==='function'&&window.define.amd!==undefined){window.defi
 
 
 
-<input type="hidden" name="csrfmiddlewaretoken" value="5oZHay9V3afX9VwUxHZ1oKn2OENOcs0o">
+<input type="hidden" name="csrfmiddlewaretoken" value="TkzQzhRqPEot4g8JbNOPI8x3aIS0Mdr1">
 
 
 
@@ -390,7 +387,9 @@ if(typeof window.define==='function'&&window.define.amd!==undefined){window.defi
               Register here.</a>
           
         </p>
-
+        <div class="alert alert-warning" role="alert">
+          We’ve updated our <a href="/about/terms/">Terms of Service</a> and <a href="/about/privacy/">Privacy Policy</a>. By continuing to use Streema you’re agreeing with our updated terms.
+        </div>
       </div>
       <div class="modal-footer">
         <button class="btn" data-dismiss="modal" aria-hidden="true" data-track-click="Sign in Flow, Click to Close modal, Login Modal">
@@ -437,6 +436,10 @@ if(typeof window.define==='function'&&window.define.amd!==undefined){window.defi
               Login here.
             </a>
           </p>
+          <br>
+          <div class="alert alert-warning" role="alert">
+            We’ve updated our <a href="/about/terms/">Terms of Service</a> and <a href="/about/privacy/">Privacy Policy</a>. By continuing to use Streema you’re agreeing with our updated terms.
+          </div>
       </div>
       <div class="modal-footer">
         <button class="btn" data-dismiss="modal" aria-hidden="true" data-track-click="Sign in Flow, Click to Close modal, Simple Register Modal">
@@ -470,7 +473,7 @@ if(typeof window.define==='function'&&window.define.amd!==undefined){window.defi
 </div>
 
 
-<input type="hidden" name="csrfmiddlewaretoken" value="5oZHay9V3afX9VwUxHZ1oKn2OENOcs0o">
+<input type="hidden" name="csrfmiddlewaretoken" value="TkzQzhRqPEot4g8JbNOPI8x3aIS0Mdr1">
 
 <input type="hidden" name="next" value="/about/privacy/">
 
@@ -493,6 +496,10 @@ if(typeof window.define==='function'&&window.define.amd!==undefined){window.defi
 
 <span class="help-block">
   By creating an account, you are indicating that you have read and agree to the <a target="_blank" href="/users/terms">Terms of Service</a> and the <a target="_blank" href="/users/policy">Privacy Policy</a>.
+
+<div class="alert alert-warning" role="alert">
+  We’ve updated our <a href="/about/terms/">Terms of Service</a> and <a href="/about/privacy/">Privacy Policy</a>. By continuing to use Streema you’re agreeing with our updated terms.
+</div>
 </span>
 
         </form>
@@ -503,6 +510,9 @@ if(typeof window.define==='function'&&window.define.amd!==undefined){window.defi
             Login here.
           </a>
         </p>
+        <div class="alert alert-warning" role="alert">
+          We’ve updated our <a href="/about/terms/">Terms of Service</a> and <a href="/about/privacy/">Privacy Policy</a>. By continuing to use Streema you’re agreeing with our updated terms.
+        </div>
       </div>
       <div class="modal-footer">
         <button data-track-click="Sign in Flow, Click to Close modal, Register Modal" class="btn" data-dismiss="modal" aria-hidden="true">
@@ -581,117 +591,157 @@ if(typeof window.define==='function'&&window.define.amd!==undefined){window.defi
   <div class="container flatpage">
     		<div id="privacy">
 			<p></p>
-			<em><p class="soft">This Privacy Policy was last updated on July 20, 2015.</p></em>
+			<em><p class="soft">Effective on May 25, 2018 (<a href="/about/privacy-07-20-2015/">view prior version</a>).</p></em>
 			<h1>Streema, Inc. Privacy Policy</h1>
-			<p> Welcome to Streema. This Privacy Policy is effective for Streema, Inc. (“Streema”, “we”, “us” and/or “our”) and is incorporated by reference into the Streema Terms of Service. We respect your privacy. Our Policy applies to the Streema Service which consists of our websites ("Sites"), including Streema.com, as well as applications made available for mobile devices ("Simple Radio"), including the Simple Radio applications for the iOS platform, available on the Apple App Store, and the Android platform, available on Google Play. This Privacy Policy explains what information we
-collect through the Streema Service, how we use that information, and how your
-rights are respected by us. The Streema Service contains links to other
-websites. This Privacy Policy does not apply to the practices of any
-other companies or individuals that Streema does not control, or any
-websites that you link to from the Streema Service. You should use
-caution and review the privacy policies of any websites that you visit
-from ours to learn more about their information practices. Please take
-a few moments to read this agreement. By using the Streema Service,
-you agree to accept the terms and conditions of this Privacy Policy and
-are aware that our policies may change in the future as indicated below.</p>
 
-			<p>In
-various places on the Streema Service, we collect "Personally Identifiable
-Information," such as your name, and e-mail address and other
-information that can be used to contact you or identify you as an
-individual. For example, we collect this information when you register
-for your Streema account with your email address or with a social sign in mechanism, such as Google+ or Facebook for example. From time to time in the future we may offer
-additional features, services, and promotional opportunities that would
-require you to submit Personally Identifiable Information to
-participate. We also collect "Anonymous Information" such as your IP
-address, the type of browser you use, the type of device, the sections of the Streema Service that you
-have visited, and the advertisements that you have clicked on. Additionally, like many Internet websites, we use "cookies" to collect
-information on the Sites. A cookie is a small data file that we transfer to your
-computer and that is stored on your hard drive. When you visit the Sites the cookie identifies your computer to us so that you do not
-have to re-register each time you visit. We may also use cookies to
-measure the traffic to our Sites and to measure the use of different
-services and features of the Sites.</p>
 
-			<p>We
-use Personally Identifiable Information that you provide to communicate
-with you, to process orders for products and services (as may be
-available in the future), to customize content available on the Streema
-Service, to conduct research for internal purposes and to use such
-information to improve the Streema Service. We use
-information that is not personally identifiable to determine how people
-use the Streema Service - for example this data tells us
-information including how often users click on our advertisements and
-which areas of the Streema Service are the most popular. Analyzing this data
-allows us to improve the offerings on and performance of the Streema Service.
-Using your IP address, we can also determine the general physical
-location of a user.</p>
-
-			<p>Third
-party websites accessible through the Streema Service may similarly place
-cookies on your computer subject only to their privacy policies. You
-should visit their websites to learn about their information practices.
-Advertisers or other companies do not have access to Streema's cookies.</p>
-
-<p>Additionally, some third party vendors, including Google, use cookies to serve ads based on your prior visits to our Sites.  In particular, Google's use of the DART cookie enables it and its partners to serve you ads based on your visit to our Sites and/or other websites on the Internet.  You may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html">advertising opt-out page</a> or, alternatively, you can opt out of a third-party vendor's use of cookies by visiting the <a href="http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising Initiative opt-out page</a>.</p>
-
-			<p>Changes In Terms and Conditions: We may
-modify our services from time to time, for any reason, and without
-notice, including the right to terminate with or without notice,
-without liability to you, any other user or any third party. We reserve
-the right to modify the TOS from time to time without notice.</p>
-
-			<p>Except
-as noted below, Streema does not share your Personally Identifiable
-Information with third parties unless you give us your permission or we
-need to share such information in order to provide content or related
-services that you have requested. For example, we may in the future
-license music from 3rd parties and may want to share music-specific
-traffic and usage information with them (but not your email address or
-identity). We also engage third parties to assist us by tracking the
-number of visitors to the Streema Service that have "clicked-through" from
-specified promotions on third party websites and those visitors'
-activities on the Streema Service. When we supply
-personally identifiable information to these third parties, we require
-them to use it only for the function they are helping us with. We
-aggregate the Anonymous Information that we collect and exchange it
-with advertisers and others who are interested in our services. We will
-disclose Personally Identifiable Information when required by law or
-under the good-faith belief that such disclosure is necessary in order
-to conform to applicable law, comply with subpoenas, court orders or
-legal process served on Streema, to establish or exercise our legal
-rights or defend against legal claims, and to protect the property or
-interests of Streema, its agents and employees, personal safety, or the
-public. Under such circumstances, Streema may be prohibited by law,
-court order or other legal process from providing notice of the
-disclosure, and Streema reserves the right to not provide you with
-notice in its sole discretion. If we become part of another
-organization, including without limitation, by merger, change of
-control, sale of assets, or other acquisition, the acquiring
-organization will obtain and have access to the Personally Identifiable
-Information collected by Streema and it will assume the rights and
-obligations regarding your Personally Identifiable Information as
-described in this Privacy Policy. If we cease operation, your
-information may be transferred to and used by another company that
-offers similar or related products or services. While we cannot predict
-a great deal about such an unlikely event, we would hope this could
-provide you continuity of service</p>
-			<p>We may update this Privacy
-Policy from time to time as our services change and expand. If we
-update this Privacy Policy, we will notify you about significant
-changes by sending a notice to the email address specified in your
-account or by posting a notice of such changes on the Streema.com website.
-Unless otherwise provided, the revised terms will take effect on the
-date they are posted. Once such changes become effective, your
-continued use of the Streema Service will signify your acceptance of the new
-Privacy Policy. If you do not agree to the terms of this Privacy
-Policy, or any revised Privacy Policy, your sole and exclusive remedy
-is to discontinue using the Streema Service.</p>
-
+<p>Welcome to Streema. This Privacy Policy is incorporated by reference into the Streema Terms of Service (the “<strong>Terms</strong>”). The terms “<strong>Streema</strong>”, “<strong>we</strong>”, “<strong>us</strong>” and/or “<strong>our</strong>” refer to Streema, Inc. We respect your privacy. Our Privacy Policy applies to the information that is processed by Streema in the course of providing the Streema Service, which consists of our websites ("<strong>Sites</strong>"), including Streema.com, as well as our applications made available for mobile devices ("<strong>Simple Radio</strong>"), including the Simple Radio applications for the iOS platform, available on the Apple App Store, and the Android platform, available on Google Play, and any and all future offerings operated by or on behalf Streema. This Privacy Policy explains our information practices, what information we collect through the Streema Service, how we use and share that information, and how you can opt out of a use or correct or change such information. This Privacy Policy is intended to meet global requirements globally, including those in North America, Europe, APAC and other jurisdictions.</p>
+<p>The Streema Service contains links to other websites. This Privacy Policy does not apply to the practices of any other companies or individuals that Streema does not control, or any websites that you link to from the Streema Service. Streema does not endorse or make any representations about third-party websites or social media platforms. You should use caution and we encourage you to review the privacy policies of any websites that you visit from ours to learn more about their information practices. Visiting these other websites or applications is at your own risk.</p>
+<p>Please take a few moments to read this Privacy Policy. By using the Streema Service, you agree to accept the terms and conditions of this Privacy Policy and are aware that our policies may change in the future as indicated below.</p>
+<h3>1. Information Collected and Received from You and How We Use It</h3>
+<p>The types of information relating to an identified or identifiable natural person (the “<strong>Personally Identifiable Information</strong>”) we may collect (directly from you or from third-party sources) and our privacy practices depend on the nature of the relationship you have with Streema and the requirements of applicable law. Some of the ways Streema may collect Personally Identifiable Information include:</p>
+<ul>
+<li>You may provide Personally Identifiable Information directly to Streema through interacting with the Streema Service and requesting the Streema Service or information.</li>
+</ul>
+<ul>
+<li>As you navigate the Streema Service, certain passive information may also be collected about your visit, including through cookies and similar technologies as described below.</li>
+</ul>
+<p>We endeavor to collect only that information which is relevant for the purposes of processing. Below are the ways we collect Personally Identifiable Information and how we use it.</p>
+<h4>A. Information Collected by Streema</h4>
+<ul>
+<li><strong>Information You Provide Directly to Us</strong>. In various places on the Streema Service, we collect Personally Identifiable Information directly from you, such as your name, and e-mail address and other information that can be used to contact you or identify you. For example, we collect this information when you register for your Streema account with your email address or with a social media account sign-in mechanism, such as Google+ or Facebook for example. From time to time in the future we may offer additional features, services, and promotional opportunities that would require you to submit Personally Identifiable Information to participate.</li>
+</ul>
+<ul>
+<li><strong>Automatic Data Collection</strong>. We also collect certain information automatically through the Streema Service or other methods of web analysis such as your IP address, mobile carrier, mobile advertising identifiers, MAC address, Advertiser ID, the type of browser and device you use and other device identifiers that are automatically assigned to your computer or device when you access the Internet, geo-location information, hardware type, operating system, Internet service provider, the sections of the Streema Service that you have visited, the date and time of your visit, the amount of time you spend on each page, information about the advertisements and other links that you have clicked on and other actions taken through use of the Streema Service such as preferences .</li>
+</ul>
+<ul>
+<li><strong><strong>Information from Other Sources</strong>. In addition to the above, we may receive information about you from other sources, including through third-party services and organizations to supplement information provided by you. For example, if you access the Streema Service through a third-party application, such asthe Apple App Store, Google Play App Store and/or Amazon App Store (together with any similar applications, “<strong>App Stores</strong>”) an App Store or Social Network Service (“<strong>SNS</strong>”), we may collect information about you from that third-party application that you have made public via your privacy settings. Information we collect through App Stores or SNS accounts may include your name, your SNS user identification number, your SNS user name, location, sex, birth date, email, profile picture, and your contacts on the SNS. This supplemental information allows us to verify information that you have provided to Streema and to enhance our ability to provide you with information about our business, products, and services.</strong></li>
+</ul>
+<h4>B.How Streema Uses Your Information</h4>
+<p>We acquire, hold, use and process Personally Identifiable Information about individuals for a variety of business purposes, including:</p>
+<ul>
+<li><strong>To Provide our Products, Services, or Information Requested</strong>. Streema may use information about you to fulfill requests for the Streema Service or for information, including information about our potential or future products and services, including to:</li>
+</ul>
+<ul>
+<ul>
+<li>Generally manage individual information and accounts;</li>
+<li>Provide you with notices about your account;</li>
+<li>Respond to questions, comments, and other requests;</li>
+<li>Provide access to certain areas, functionalities, and features of the Streema Service;</li>
+<li>Contact you to answer requests for customer support or technical support.</li>
+</ul>
+</ul>
+<ul>
+<li><strong>Administrative Purposes</strong>. Streema may use Personally Identifiable Information about you for its administrative purposes, including to:</li>
+</ul>
+<ul>
+<ul>
+<li>Measure interest in the Streema Service;</li>
+<li>Develop new products and the Streema Service;</li>
+<li>Ensure internal quality control;</li>
+<li>Communicate about individual accounts and activities on the Streema Service and systems, and, in Streema’s discretion, changes to any Streema policy;</li>
+<li>Send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance;</li>
+<li>Process applications and transactions;</li>
+<li>Prevent potentially prohibited or illegal activities;</li>
+<li>Enforce our Terms of Service.</li>
+</ul>
+</ul>
+<ul>
+<li><strong>Marketing the Streema Service</strong>. Streema may use Personally Identifiable Information to provide you with materials about offers, products, and the Streema Service that may be of interest, including new content or the Streema Service via the email address you provide. Such uses include:</li>
+</ul>
+<ul>
+<ul>
+<li>To tailor and customize content, advertisements, and offers;</li>
+<li>To notify you about offers, products, and services that may be of interest to you;</li>
+<li>To provide the Streema Service to you;</li>
+<li>For other purposes disclosed at the time that you provide Personally Identifiable Information; or</li>
+<li>Otherwise with your consent.</li>
+</ul>
+</ul>
+<p>You may contact us at any time to opt out of the use of your Personally Identifiable Information for marketing purposes, as further described in Section 3 (Opt-Out (Right to Object to Processing)) below.</p>
+<ul>
+<li><strong>Research and Development</strong>. Streema may use Personally Identifiable Information to create non-identifiable information that we may use alone or in the aggregate with information obtained from other sources, in order to help us to optimally deliver our existing products and the Streema Service or develop new products and the Streema Service. From time to time, Streema may perform research (online and offline) via surveys. We may engage third-party service providers to conduct such surveys on our behalf. All survey responses are voluntary, and the information collected will be used for research and reporting purposes to help us better serve you by learning more about your needs and the quality of the products and services we provide. The survey responses may be utilized to determine the effectiveness of the Streema Service, various types of communications, advertising campaigns, and/or promotional activities. If an individual participates in a survey, the information given will be used along with that of other study participants. We may share anonymous individual and aggregate data for research and analysis purposes.</li>
+<li><strong>Third Party Marketing</strong>. Individuals who provide us with Personally Identifiable Information, or whose Personally Identifiable Information we obtain from third parties, may receive periodic emails, newsletters, mailings, or phone calls from us with information on Streema’s or our business partners’ products and services or upcoming special offers/events we believe may be of interest. We offer the option to decline these communications at no cost to you by following the instructions in Section 3 (Opt-Out (Right to Object to Processing)) below.</li>
+<li><strong>Services via Mobile Devices (Simple Radio)</strong>. Streema provides an app for the Streema Service, Simple Radio, which is specifically designed to be compatible and used on mobile devices. Streema will collect certain information that your mobile device sends when you use Simple Radio, like a device identifier, user settings, location information, mobile carrier, and the operating system of your device. Information about use of Simple Radio may be associated with your account. Streema may use personal or non-identifiable information transmitted to Streema to enhance Simple Radio, for quality improvement and as otherwise described in this Privacy Policy or in other notices Streema provides.</li>
+<li><strong>Anonymous and Aggregated Information Use</strong>. Streema may use Personally Identifiable Information and other information about you to create anonymized and aggregated information, such as de-identified demographic information, de-identified location information, information about the computer or device from which you access the Streema Service, or other analyses we create. Anonymized and aggregated information is used for a variety of functions, including the measurement of visitors’ interest in and use of various portions or features of the Streema Service. Anonymized or aggregated information is not Personally Identifiable Information, and Streema may use such information in a number of ways, including research, internal analysis, analytics, and any other legally permissible purposes. We may share this information within Streema and with third parties for our or their purposes in an anonymized or aggregated form that is designed to prevent anyone from identifying you.</li>
+</ul>
+<ul>
+<li><strong>Other Uses</strong>. Streema may use Personally Identifiable Information for which we have a legitimate interest, such as direct marketing, individual or market research, anti-fraud protection, or any other purpose disclosed to you at the time you provide Personally Identifiable Information or with your consent.</li>
+</ul>
+<h4>C. Cookies, Pixel Tags/Web Beacons, Analytics Information and Internet-Based Advertising</h4>
+<p>We, as well as third parties that provide content, advertising, or other functionality on the Streema Service, may use cookies, pixel tags, local storage, and other technologies (“<strong>Technologies</strong>”) to automatically collect information through the Streema Service. We use Technologies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices (referred to collectively as a “<strong>device</strong>”) that allow us to record certain pieces of information whenever you visit or interact with our Sites and the Streema Service, applications, and tools, and to recognize you across devices.</p>
+<ul>
+<li><strong>Cookies</strong>. Cookies are small text files placed in visitors’ computer browsers to store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, the Sites may not work properly.</li>
+<li><strong>Pixel Tags/Web Beacons</strong>. A pixel tag (also known as a web beacon) is a piece of code embedded on the Sites that collects information about users’ engagement on that web page. The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement.</li>
+<li><strong>Social Media Widgets:</strong> Our Sites include social media features such as the Facebook “Like” button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. These social media features are either hosted by a third party or hosted directly on our Sites. Your interactions with these features are governed by the privacy policy of the company providing it.</li>
+<li><strong>Analytics</strong>. We may also use Google Analytics to collect information regarding visitor behavior and visitor demographics on some of the Streema Service, and to develop website content. This analytics data is not tied to any Personally Identifiable Information. For more information about Google Analytics, please visit <a href="http://www.google.com/policies/privacy/partners/">www.google.com/policies/privacy/partners/</a>. You can opt out of Google’s collection and processing of data generated by your use of the Streema Service by going to <a href="http://tools.google.com/dlpage/gaoptout">http://tools.google.com/dlpage/gaoptout</a>.</li>
+</ul>
+<p>Our uses of such Technologies fall into the following general categories:</p>
+<ul>
+<li><strong>Operationally Necessary</strong>. We may use cookies, web beacons, or other similar technologies that are necessary to the operation of the Streema Service. This includes technologies that allow us to identify your computer so that you do not have to re-register each time you visit, that allow you access to the Streema Service; that are required to identify irregular site behavior, prevent fraudulent activity and improve security; or that allow you to make use of our functions such as saved searches, or similar functions;</li>
+<li><strong>Performance Related</strong>. We may use cookies, web beacons, or other similar technologies to assess the performance of the Streema Service, including as part of our analytic practices to help us measure the traffic to our Sites and to understand how our visitors use the Streema Service, determine whether you have viewed an item or link, or to improve our content, the Streema Service, or tools;</li>
+<li><strong>Functionality Related</strong>. We may use cookies, web beacons, or other similar technologies that allow us to offer you enhanced functionality when accessing or using the Streema Service. This may include identifying you when you sign into our Sites or keeping track of your specified preferences, interests, or past items viewed so that we may enhance the presentation of content on the Streema Service;</li>
+<li><strong>Advertising or Targeting Related</strong>. We may use first-party or third-party cookies and web beacons to deliver content, including ads relevant to your interests, on our sites or on third party sites. This includes using technologies to understand the usefulness to you of the advertisements and content that has been delivered to you, such as whether you have clicked on an advertisement. In particular, Google's use of the DoubleClick DART cookie enables it and its partners to serve you ads based on your visit to our Sites and/or other websites on the Internet. Streema does not control these cookies and how they are used. Streema may receive information collected by these third parties and use it to supplement information provided by you.</li>
+</ul>
+<p>If you would like to opt out of the Technologies we employ on the Streema Service, you may do so by blocking, deleting, or disabling them as your browser or device permits.</p>
+<h4>D. Third-Party Websites and Social Media Platforms</h4>
+<p>The Streema Service may include publicly accessible blogs, community forums, or private messaging features. The Streema Service may also contain links and interactive features with various social media platforms (e.g., widgets). If you already use these platforms, their cookies may be set on your device when using the Streema. You should be aware that Personally Identifiable Information which you voluntarily include and transmit online in a publicly accessible blog, chat room, social media platform or otherwise online, or that you share in an open forum may be viewed and used by others without any restrictions. We are unable to control such uses of your information when interacting with a social media platform, and by using such services you assume the risk that the Personally Identifiable Information provided by you may be viewed and used by third parties for any number of purposes.</p>
+<h4>E. Third-Party Payment Processing</h4>
+<p>When you make purchases through the Streema Service, we process your payments through a third-party application, including the App Stores. The third-party application may collect certain financial information from you to process a payment on behalf of Streema, including your name, email address, address and other billing information.</p>
+<h3>2. Onward Transfer – Streema May Disclose Your Information</h3>
+<h4>A. Information that We Share With Third Parties</h4>
+<p>We may share your information as described in this Privacy Policy (e.g., with our third-party service providers; to comply with legal obligations; to protect and defend our rights and property) or with your permission.</p>
+<ul>
+<li><strong>We Use Vendors and Services Providers. </strong>We may share any information we receive with vendors and service providers. The types of service providers (processors) to whom we entrust Personally Identifiable Information include service providers for: (i) provision of IT and related services; (ii) provision of information and services you have requested; (iii) payment processing; (iv) customer service activities; and (v) in connection with the provision of the Streema Service and/or its content or related services that you have requested. For example, we may in the future license music from third parties and may want to share music-specific traffic and usage information with them (but not your email address or identity).</li>
+</ul>
+<ul>
+<li><strong>Business Partners</strong>. Streema may share Personally Identifiable Information with our business partners, and affiliates for our and our affiliates’ internal business purposes or to provide you with a product or service that you have requested. Streema may also provide Personally Identifiable Information to business partners with whom we may jointly offer products or services, or whose products or services we believe may be of interest to you. In such cases, our business partner’s name will appear, along with Streema. We require our affiliates and business partners to agree in writing to maintain the confidentiality and security of Personally Identifiable Information they maintain on our behalf and not to use it for any purpose other than the purpose for which Streema provided them.</li>
+</ul>
+<ul>
+<li><strong>Displaying to Other Users</strong>. The content you post to the Streema Service may be displayed on the Streema Service. Other users of the Streema Service may be able to see some information about you, such as your name if you submit a review. We are not responsible for privacy practices of the other users who will view and use the posted information.</li>
+<li><strong>Marketing – Interest-Based Advertising and Third Party Marketing</strong>. Through our Streema Service, Streema may allow third-party advertising partners to set tracking tools (e.g., cookies) to collect information regarding your activities (e.g., your IP address, page(s) visited, time of day). We may also share such information we have collected with third-party advertising partners. These advertising partners may use this information (and similar information collected from other websites) for purposes of delivering targeted advertisements to you when you visit non-Streema related websites within their networks. This practice is commonly referred to as “interest-based advertising” or “online behavioral advertising. We may allow access to other data collected by the Streema Service to facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you. If you prefer that we do not share your Personally Identifiable Information with third-party advertising partners, you may opt out of such sharing at no cost by following the instructions in Section 3 (Opt-Out (Right to Object to Processing)) below.</li>
+</ul>
+<ul>
+<li><strong>Disclosures to Protect Us or Others (e.g., as Required by Law and Similar Disclosures)</strong>. We may access, preserve, and disclose your Personally Identifiable Information, other account information, and content if we believe doing so is required or appropriate to: (i) comply with law enforcement or national security requests and legal process, such as a court order or subpoena; (ii) respond to your requests; (iii) protect yours’, ours’ or others’ rights, property, or safety; (iv) to enforce Streema policies or contracts; (v) to collect amounts owed to Streema; (vi) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation or prosecution of suspected or actual illegal activity; or (vii) if we, in good faith, believe that disclosure is otherwise necessary or advisable. In addition, from time to time, server logs may be reviewed for security purposes – e.g., to detect unauthorized activity on the Streema Service. In such cases, server log data containing IP addresses may be shared with law enforcement bodies in order that they may identify users in connection with their investigation of the unauthorized activities.</li>
+</ul>
+<ul>
+<li><strong>Merger, Sale, or Other Asset Transfers</strong>. If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. In such event, Streema will endeavor to direct the transferee to use Personally Identifiable Information in a manner that is consistent with the Privacy Policy in effect at the time such Personally Identifiable Information was collected.</li>
+</ul>
+<h4>B. International Data Transfers</h4>
+<p>You agree that all your Personally Identifiable Information collected via or by Streema may be transferred to, processed, and stored anywhere in the world, including but not limited to, in the United States, on our servers, on the servers of our affiliates or the servers of our service providers. Your Personally Identifiable Information may be accessible to law enforcement or other authorities pursuant to a lawful request. By providing information to Streema you explicitly consent to the storage of your Personally Identifiable Information in these locations.</p>
+<h3>3. Opt-Out (Right to Object to Processing)</h3>
+<h4>A. General</h4>
+<p>We offer you choices regarding the collection, use and sharing of your Personally Identifiable Information and we will respect the choices you make. You have the right to object to and opt out of certain uses and disclosure of your Personally Identifiable Information. Where you have consented to Streema’s processing of your Personally Identifiable Information, you may withdraw that consent at any time and opt out of further processing by contacting us at info@streema.com.</p>
+<p>Please note that if you decide not to provide us with the Personally Identifiable Information that we request, you may not be able to access all of the features of the Streema Service. Even if you opt out, we may still collect and use non-Personally Identifiable Information regarding your activities on our Sites and/or information from the advertisements on third-party websites for non-interest based advertising purposes, such as to determine the effectiveness of the advertisements.</p>
+<h4>B. Email Communications</h4>
+<p>We may periodically send you e-mails that directly promote the Streema Service. When you receive such promotional communications from us, you will have the opportunity to “opt-out” (by following the unsubscribe instructions provided in the e-mail you receive). We do need to send you certain communications regarding the Streema Service and you will not be able to opt out of those communications – e.g., communications regarding updates to our Terms of Service (located at <a href="https://streema.com/about/terms/">streema.com/about/terms/</a>) or this Privacy Policy.</p>
+<h4>C. Cookies and Interest-Based Advertising</h4>
+<p>As noted above, you may stop or restrict the placement of cookies on your computer or remove them from your browser by adjusting your web browser preferences. Please note that cookie-based opt-outs are not effective on mobile applications. However, on many mobile devices, application users may opt out of certain mobile ads via their device settings.</p>
+<p>The online advertising industry also provides websites from which you may opt out of receiving targeted ads from our data partners and our other advertising partners that participate in self-regulatory programs. You can access these, and also learn more about targeted advertising and consumer choice and privacy, at <a href="http://www.networkadvertising.org/managing/opt_out.asp">www.networkadvertising.org/managing/opt_out.asp</a>, or <a href="http://www.youronlinechoices.eu/">http://www.youronlinechoices.eu/</a> and <a href="http://www.aboutads.info/choices/">www.aboutads.info/choices/</a>. You can also choose not to be included in Google Analytics <a href="https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh?hl=en">here</a> and you may opt out of the use of the DoubleClick DART cookie by visiting the&nbsp;Google <a href="http://www.google.com/privacy_ads.html">advertising opt-out page</a>.</p>
+<p>To be clear, whether you are using our opt-out or an online industry opt-out, these cookie-based opt-outs must be performed on each device and browser that you wish to have opted-out. For example, if you have opted-out on your computer browser, that opt-out will not be effective on your mobile device. You must separately opt out on each device. Advertisements on Third-Party websites that contain the AdChoices link and that link to this Privacy Policy may have been directed to you based on anonymous, non-Personally Identifiable Information collected by advertising partners over time and across websites. These advertisements provide a mechanism to opt out of the advertising partners’ use of this information for interest-based advertising purposes.</p>
+<h4>D. Mobile devices</h4>
+<p>Streema may occasionally send you push notifications through our mobile applications with notices that may be of interest to you. You may at any time opt out from receiving these types of communications by changing the settings on your mobile device. Streema may also collect location-based information if you use our mobile applications. You may opt out of this collection by changing the settings on your mobile device.</p>
+<h3>4.Responding to Do Not Track Signals</h3>
+<p>Our Sites do not have the capability to respond to “Do Not Track” signals received from various web browsers.</p>
+<h3>5.Rights of Access, Rectification, Erasure, and Restriction</h3>
+<p>You may inquire as to whether Streema is processing Personally Identifiable Information about you, request access to Personally Identifiable Information, and ask that we correct, amend or delete your Personally Identifiable Information where it is inaccurate. Where otherwise permitted by applicable law, you may send an e-mail to <a href="mailto:info@streema.com">info@streema.com</a> or use any of the methods set out in this Privacy Policy to request access to, receive (port), seek rectification, or request erasure of Personally Identifiable Information held about you by Streema. Please include your full name, email address associated with your account, and a detailed description of your data request. Such requests will be processed in line with local laws. You can also access, modify and delete the Personally Identifiable Information associated with your account by going to your profile settings at <a href="https://urldefense.proofpoint.com/v2/url?u=http-3A__streema.com_profile_edit&amp;d=DwMFaQ&amp;c=l5YmaygVL_uloFyEjsA1Ww&amp;r=wt1xx-8BVBbOnRnfqN8znZr2ZiSb23YWtHuaO74vwfo&amp;m=Cj7Rr75Y0OM8oOsTCxCZggfpqmRNc30sG7Xfcyg2hb0&amp;s=7fkBW1ol7Zewca27o9TzH5Ydhql-XdP39MbIx5uotS8&amp;e=">https://streema.com/profile/edit</a>.</p>
+<p>Although Streema makes good faith efforts to provide individuals with access to their Personally Identifiable Information, there may be circumstances in which Streema is unable to provide access, including but not limited to: where the information contains legal privilege, would compromise others’ privacy or other legitimate rights, where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question or where it is commercially proprietary. If Streema determines that access should be restricted in any particular instance, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries. To protect your privacy, Streema will take commercially reasonable steps to verify your identity before granting access to or making any changes to your Personally Identifiable Information.</p>
+<h3>6. Data Retention</h3>
+<p>We retain the Personally Identifiable Information we receive as described in this Privacy Policy for as long as you use the Streema Service or as necessary to fulfill the purpose(s) for which it was collected, provide the Streema Service, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.</p>
+<h3>7. The Security of Your Information</h3>
+<p>We take reasonable administrative, physical and electronic measures designed to protect the information that we collect from or about you (including your Personally Identifiable Information) from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information. We do not accept liability for unintentional disclosure.</p>
+<p>By using the Streema Service or providing Personally Identifiable Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Streema Service. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Streema Service or sending an e-mail to you. You may have a legal right to receive this notice in writing.</p>
+<h3>8. International Users</h3>
+<p>By using the Streema Service, Streema will transfer data to the United States. By choosing to visit the Sites, utilize the Streema Service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the state of California and the adjudication of any disputes arising in connection with Streema or the Streema Service will be in accordance with the Terms.</p>
+<p>If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and to the processing of your data globally. By providing your Personally Identifiable Information, you consent to any transfer and processing in accordance with this Privacy Policy.</p>
+<h3>9.Our Policy Toward Children</h3>
+<p>The Streema Service is not directed to children under 13 (and in certain jurisdictions under the age of 16) and we do not knowingly collect Personally Identifiable Information from children under 13 (and in certain jurisdictions under the age of 16). If we learn that we have collected Personally Identifiable Information of a child under 13 (and in certain jurisdictions under the age of 16), we will take steps to delete such information from our files as soon as possible.</p>
+<h3>10. Revisions to this Privacy Policy</h3>
+<p>We may update this Privacy Policy from time to time as our services change and expand. If we update this Privacy Policy, we will notify you about significant changes by sending a notice to the email address specified in your account or by posting the updated Privacy Policy on the Streema.com website, and we will update the date above to indicate when those changes will become effective. Unless otherwise provided, the revised terms will take effect on the date they are posted. Once such changes become effective, your continued use of the Streema Service will signify your acceptance of the new Privacy Policy. If you do not agree to the terms of this Privacy Policy, or any revised Privacy Policy, you must immediately stop using the Streema Service.</p>
+<h3>11. Miscellaneous Provisions</h3>
 <p>Finally, the English language version of this Privacy Policy is the version that governs your use of the Streema Service and in the event of any conflict between the English language version and a translated version, the English language version will control.</p>
+<p>If you have questions about this Privacy Policy or our privacy practices, or how to lodge a complaint with the appropriate authority, please contact us at&nbsp;<a href="mailto:%20info@streema.com">info@streema.com</a>&nbsp;or write to us at our US address for receiving written communications and notifications: Streema, Inc., 2255 Glades Road, Suite 324A, Boca Raton, FL 33431, Attention: Support. We will address your concerns and attempt to resolve any privacy issues in a timely manner.</p>
 
-			<p>If you have questions about this Statement or our policies, please contact us at 
-			<a href="mailto: info@streema.com">info@streema.com</a> 
-or write to us at our US address for receiving written communications and notifications:  Streema, Inc., 2255 Glades Road, Suite 324A, Boca Raton, FL 33431, Attention: Support. </p>
 		</div>
 				
 		<div class="breakFloat"></div>
@@ -723,7 +773,7 @@ popupParams);popup.focus();};window.launchPlayerPopup=launchPlayerPopup;addListe
           <a href="/">Home</a>
         </p>
         <p>
-          <a href="http://help.streema.com/">Help</a> / <a href="http://help.streema.com/customer/portal/articles/951905-faq">FAQs</a>
+          <a href="https://help.streema.com/">Help</a> / <a href="https://help.streema.com/customer/portal/articles/951905-faq">FAQs</a>
         </p>
         <p>
           <a href="/about/">About Us</a>
@@ -734,7 +784,7 @@ popupParams);popup.focus();};window.launchPlayerPopup=launchPlayerPopup;addListe
           <a href="/mobile/">Mobile</a>
         </p>
         <p>
-          <a href="http://blog.streema.com">Blog</a>
+          <a href="https://blog.streema.com">Blog</a>
         </p>
         <p>
           <a href="/about/banners/">Banners &amp; Widgets</a>
@@ -762,13 +812,13 @@ popupParams);popup.focus();};window.launchPlayerPopup=launchPlayerPopup;addListe
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" id="nav-lang-selector"> English <i class="caret"></i></a>
   <ul class="dropdown-menu" role="menu" aria-labelledby="nav-lang-selector">
     
-      <li><a href="http://fr.streema.com/">Français</a></li>
+      <li><a href="https://fr.streema.com/">Français</a></li>
     
-      <li><a href="http://de.streema.com/">Deutsch</a></li>
+      <li><a href="https://de.streema.com/">Deutsch</a></li>
     
-      <li><a href="http://pt.streema.com/">Português</a></li>
+      <li><a href="https://pt.streema.com/">Português</a></li>
     
-      <li><a href="http://es.streema.com/">Español</a></li>
+      <li><a href="https://es.streema.com/">Español</a></li>
     
   </ul>
 </div>
@@ -785,6 +835,10 @@ popupParams);popup.focus();};window.launchPlayerPopup=launchPlayerPopup;addListe
         </a>&nbsp;/&nbsp;
         <a href="/about/privacy/">
           Privacy Policy
+        </a>
+        &nbsp;/&nbsp;
+        <a href="/about/copyright/">
+          Copyright Policy
         </a>
       </div>
       <div class="pull-right">
@@ -881,7 +935,7 @@ popupParams);popup.focus();};window.launchPlayerPopup=launchPlayerPopup;addListe
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
 
     
-    <script src="https://statics.streema.com/CACHE/js/favorites.js?8b421908"></script>
+      <script src="https://statics.streema.com/CACHE/js/favorites.js?8b421908"></script>
     
 
     
@@ -906,37 +960,16 @@ popupParams);popup.focus();};window.launchPlayerPopup=launchPlayerPopup;addListe
 
     <script data-async="//cdn.tapstream.com/static/js/tapstream.js"></script>
 
-    
-      
-
-
-    
-
-
-    
-
-    <script async="" src="//s3.amazonaws.com/ki.js/52928/bq0.js"></script>
-
-<script>
-  var _kiq = _kiq || [];
-  _kiq.push(['identify', 'None']);
-  // tell qualaroo if the user is using our desktop or our mobile webapp version
-  var properties = {'webappFlavour': 'Desktop'};
-  
-  _kiq.push(['set', properties]);
-</script>
-
-
-    <script data-async="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=6623458155"></script>
-    <script data-async="https://platform.twitter.com/widgets.js"></script>
-    <script data-async="https://apis.google.com/js/plusone.js"></script>
+    <script async="" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=6623458155"></script>
+    <script async="" src="https://platform.twitter.com/widgets.js"></script>
+    <script async="" src="https://apis.google.com/js/plusone.js"></script>
 
     
       <link rel="prefetch" href="https://statics.streema.com/CACHE/js/radio_player.js?d54acd84">
     
 
     
-      <link rel="prefetch" href="https://statics.streema.com/CACHE/js/radio_player_ui.js?c81f5a67">
+      <link rel="prefetch" href="https://statics.streema.com/CACHE/js/radio_player_ui.js?395d1f90">
     
 
 
