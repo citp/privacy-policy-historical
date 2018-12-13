@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610195910id_/http%3A//www.babynames.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213060331id_/http%3A//www.babynames.com/about/privacy.php) for the most accurate reproduction.*
 
 # BabyNames.com Privacy Policy
 
@@ -63,7 +63,7 @@ BabyNames.com will never share or sell your personal data to any third party wit
 
 ## Third-Party Advertisers
 
-BabyNames.com allows third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the [Digital Advertising Alliance](http://www.aboutads.info/) or the [Networking Advertising Initiative](http://%20www.networkadvertising.org/choices). 
+BabyNames.com allows third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the [Digital Advertising Alliance](http://www.aboutads.info/) or the [Networking Advertising Initiative](http://www.networkadvertising.org/choices). 
 
 ## User-uploaded Photos
 
