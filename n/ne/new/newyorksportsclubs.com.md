@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newyorksportsclubs.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024191341id_/http%3A//www.newyorksportsclubs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorksportsclubs.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213020119id_/https%3A//www.newyorksportsclubs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policies | New York Sports Clubs
 
 ### Introduction
 
-This privacy policy governs the information collection practices of Town Sports International's U.S. based sports clubs and websites (Town Sports), including: mysportsclubs.com, joinmysportsclubs.com, NYSC.com, bostonsportsclub.com, washingtonsports.com, philadelphiasports.com, joinnosweat.com, campaniesgetfit.com, and rockthescales.com. The policy below explains how Town Sports collects and uses your information, and when we share that information with third parties. By providing information to us, you agree to the terms and conditions of this privacy policy.
+This privacy policy governs the information collection practices of Town Sports International's U.S. based sports clubs and websites (Town Sports), including: mysportsclubs.com, joinmysportsclubs.com, NYSC.com, newyorksportsclubs.com, bostonsportsclubs.com, washingtonsportsclubs.com, philadelphiasportsclubs.com, lucilleroberts.com, joinnosweat.com, companiesgetfit.com, and rockthescales.com. The policy below explains how Town Sports collects and uses your information, and when we share that information with third parties. By providing information to us, you agree to the terms and conditions of this privacy policy.
 
 ### COLLECTION OF INFORMATION
 
