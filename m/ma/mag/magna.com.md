@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the magna.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221702id_/http%3A//www.magna.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magna.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213210513id_/https%3A//www.magna.com/privacy) for the most accurate reproduction.*
 
-# Magna: Privacy
+# Privacy
+
+## Privacy Statement
 
 Magna International Inc. (“Magna”) has created this privacy statement in order to demonstrate our firm commitment to preserving your privacy as it relates to the collection, use and disclosure of personal information on this site: [www.magna.com](http://www.magna.com/)
 
@@ -8,7 +10,7 @@ Personal information is information that is personally identifiable to you. Pers
 
 ### Registration Forms 
 
-Our Web site has registration forms requiring users to give us contact information. Contact information from these registration forms are used to send users information about our company, provided they have indicated they would like to receive such material. Users may opt-out of receiving future mailings using our [Update Form](https://web.archive.org/investors/financial-reports-public-filings/request-printed-materials/update-form) or they may opt-out of receiving future email alerts using [Email Alerts](https://web.archive.org/investors/email-alerts).
+Our Web site has registration forms requiring users to give us contact information. Contact information from these registration forms are used to send users information about our company, provided they have indicated they would like to receive such material. Users may opt-out of receiving future mailings using our [Update Form](https://web.archive.org/company/investors/financial-reports-public-filings/update-request-printed-materials) or they may opt-out of receiving future email alerts using [Email Alerts](https://web.archive.org/company/investors/email-alerts).
 
 ### Information Sharing 
 
@@ -20,7 +22,12 @@ In some cases, we collect information about you that is not personal information
 
 ### Cookies
 
-Our Web site uses minimal cookies to deliver content specific to your interests. The cookie information does NOT include personal data such as name, age, phone number, email address or mailing address. If you would prefer, you can set your browser to reject cookies. 
+Our Web site uses minimal cookies to deliver content specific to your interests.
+
+Cookies are small files that a website or its service provider transfers to a computer’s hard drive through your browser (if permitted), enabling the site or service provider's system to remember certain information (how many visitors to a site) or preferences, making navigation of a site easier or more user friendly.  These cookies do NOT collect personal data about you, such as name, age, phone number, email address or mailing address. 
+
+If you would prefer, you can set your browser to reject cookies. Please note that if you reject or turn cookies off, you will not have access to certain features on our sites that make your online experience more efficient.  
+
 
 ### Links
 
@@ -40,8 +47,6 @@ Magna utilizes various methods to ensure the protection of your personal informa
 
 Magna reserves the right to change this privacy statement as it sees fit and without prior notice. However, we will ensure that any change to this statement is in compliance with the laws in effect in Canada with regard to this subject matter and posted on this page.
 
-If you have any comments, questions or concerns regarding Magna's privacy statement or practices, please contact Magna’s Chief Privacy Officer via email at privacy@magna.com, or in writing at Magna International Inc., 337 Magna Drive Aurora, Ontario, Canada L4G 7K1.
+If you have any comments, questions or concerns regarding Magna's privacy statement or practices, please send your inquiry via email to privacy@magna.com, or in writing at Magna International Inc., 337 Magna Drive Aurora, Ontario, Canada L4G 7K1.
 
-Contact us with questions about this policy
-
-[](https://web.archive.org/contact-us)
+[Contact Us](https://web.archive.org/contact) with questions about this policy
