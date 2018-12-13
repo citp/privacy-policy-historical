@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the huskyenergy.com privacy policy that was archived on 2018-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180606032017id_/http%3A//www.huskyenergy.com/privacy-statement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the huskyenergy.com privacy policy that was archived on 2018-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181213204615id_/http%3A//www.huskyenergy.com/privacy-statement.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="supports-js supports-transitions supports-SVG supports-3D"><head>
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 
-<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/756094/6048172/css/fonts.css">
+<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/756094/7374812/css/fonts.css">
 <link rel="stylesheet" href="/library/css/global.css">
 
 <link rel="stylesheet" type="text/css" href="/library/css/tablet.css" media="screen and (max-width: 1000px) and (min-width:1px)"> 
@@ -24,6 +24,7 @@
 <script src="/library/js/jquery.magnific-popup.js"></script>
 <script src="/library/js/utility.js"></script>
 <script src="/library/js/global.js"></script>
+<script src="/library/js/typeahead.bundle.min.js"></script>
 
 <!--[if lt IE 9]>
 <script src="/library/js/html5shiv.js"></script>
@@ -39,6 +40,8 @@
 
 <title>Privacy Statement - Husky Energy</title>
 
+<!-- Global site tag (gtag.js) - Google Ads: 806180217 --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-806180217"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-806180217'); </script> 
+
 </head>
 
 <body>
@@ -48,15 +51,18 @@
 <header id="site-header"> 
 <div id="site-header-content" class="content-width">
 	<a href="/"><img src="/images/Husky-Energy.png" id="site-header-logo"></a>
-	<a href="#nav-menu" id="site-header-menu-button">
-		<span id="site-header-menu-label">The Company</span>
-		<div id="site-header-menu-icon">
-			<span class="line-1"></span>
-			<span class="line-2"></span>
-			<span class="line-3"></span>
- 			<span class="line-4"></span>
-		</div>
-	</a>
+	<div class="site-header-search-nav">
+		<div class="search-icon" id="search-toggle"></div>
+		<a href="#nav-menu" id="site-header-menu-button">
+			<span id="site-header-menu-label">The Company</span>
+			<div id="site-header-menu-icon">
+				<span class="line-1"></span>
+				<span class="line-2"></span>
+				<span class="line-3"></span>
+				<span class="line-4"></span>
+			</div>
+		</a>
+	</div>
 </div>
 </header>
 
@@ -164,7 +170,7 @@ These third party service providers include, but are not limited to:
 	<li><a href="/operations/retail.asp" id="direct-links-myhusky">Retail</a></li>
 	<li><a href="/operations/suppliers.asp" id="direct-links-suppliers">Suppliers</a></li>
 	<li><a href="/operations/products.asp" id="direct-links-products">Products</a></li>
-	<li><a href="https://huskyenergy.msdsbinders.com/CustomBinder/Search/Customers" target="_blank" id="direct-links-safety-data">Safety Data Sheets</a></li>
+	<li><a href="https://huskyenergy.sdsbinders.com/CustomBinder/Search/Customers" target="_blank" id="direct-links-safety-data">Safety Data Sheets</a></li>
 	<li><a href="/about/ethics-help-line.asp" id="direct-links-ethics-helpline">Ethics Help Line</a></li>
 	<li><a href="/about/contact-us.asp" id="direct-links-contact-us">Contact Us</a></li>
 </ul>
@@ -176,6 +182,26 @@ These third party service providers include, but are not limited to:
 
 
 <section id="nav-overlay">
+    <div id="search">
+		<table>
+			<tbody>
+				<tr>
+					<td id="search-button-container">
+						<div id="search-button"></div>
+						<!--<button>Search</button>-->
+					</td>
+					<td id="search-field">
+						<span class="twitter-typeahead" style="position: relative; display: inline-block;"><input id="search-input" type="text" placeholder="Search huskyenergy.com" class="tt-input" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top;"><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: &quot;Open Sans&quot;, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: 0px; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><div class="tt-menu" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none;"><div class="tt-dataset tt-dataset-0"></div></div></span>
+					</td>
+					<td id="search-dismiss">
+						<a>
+							<img src="/images/close.svg">
+						</a>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 	<div id="nav-menu">
 		<nav id="nav-content" class="content-width">
 			
@@ -192,26 +218,29 @@ These third party service providers include, but are not limited to:
 						<li><a href="/operations/retail.asp">Retail</a></li>
 						<li><a href="/operations/suppliers.asp">Suppliers</a></li>
 						<li><a href="/operations/products.asp">Products</a></li>
-						<li><a href="https://huskyenergy.msdsbinders.com/CustomBinder/Search/Customers" target="_blank">Safety Data Sheets</a></li>
+						<li><a href="https://huskyenergy.sdsbinders.com/CustomBinder/Search/Customers" target="_blank">Safety Data Sheets</a></li>
 					</ul>
 				</div>
 				<div class="nav-menu-column">
 					<div class="menu-header">Investors</div>
 					<ul class="menu">
 						<li class="menu-section-name"><a href="/investors/">Investors</a></li>
+						<li><a href="/bettertogether/">MEG Offer</a></li>
 						<li><a href="/investors/reports-filings.asp">Reports &amp; Filings</a></li>
 						<li><a href="/investors/conference-calls-presentations.asp">Conference Calls &amp; Presentations</a></li>
 						<li><a href="/investors/analyst-coverage.asp">Analyst Coverage</a></li>
 						<li><a href="/investors/transfer-agent-dividend.asp">Transfer Agent &amp; Dividend</a></li>
-						<li><a href="http://huskyenergy.mwnewsroom.com/E-Notify" target="_blank" class="subscribe-enotify">Subscribe to E-Notify</a></li>
-						<li><a href="http://www.huskyenergy.com/downloads/InvestorRelations/Presentations/Corporate_Presentation.pdf" target="_blank">Corporate Presentation</a></li>
-						<li><a href="http://www.huskyenergy.com/downloads/abouthusky/publications/annualreports/HSE_Annual2017.pdf" target="_blank">Annual Report</a></li>
+						<li><a href="https://cs.globenewswire.com/NewsArchive/View/32RYhiCdPkN2Sw1zwhvuZA==?iFrame=true" target="_blank" class="subscribe-enotify">Subscribe to E-Notify</a></li>
+						<li><a href="/downloads/InvestorRelations/Presentations/Corporate_Presentation.pdf" target="_blank">Corporate Presentation</a></li>
+						<li><a href="/downloads/investorRelations/2018/2018GuidanceChart.pdf" target="_blank">Guidance</a></li>
+						<li><a href="/downloads/abouthusky/publications/annualreports/HSE_Annual2017.pdf" target="_blank">Annual Report</a></li>
 						<li><a href="/responsibility/esg-reports.asp">ESG Reports</a></li>
 					</ul>
 					<div class="menu-header">Newsroom</div>
 					<ul class="menu">
 						<li class="menu-section-name"><a href="/news/">Newsroom</a></li>
 						<li><a href="/news/news-releases.asp">News Releases</a></li>
+						<li><a href="/news/incident-updates.asp">Incident Updates</a></li>
 						<li><a href="/news/articles.asp">Articles</a></li>
 						<li><a href="/news/photo-library.asp">Photo Library</a></li>
 					</ul>
@@ -282,7 +311,7 @@ try {
 var pageTracker = _gat._getTracker("UA-1477388-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-
+<script type="text/javascript" src="/library/js/search.js"></script>
 
 
 </body></html>
