@@ -1,103 +1,106 @@
-> *The following text is extracted and transformed from the admedia.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524230305id_/http%3A//admedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admedia.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213094018id_/http%3A//admedia.com/privacy) for the most accurate reproduction.*
 
 # AdMedia Online Ad Network | Advertiser Solutions
 
-THE FOLLOWING PRIVACY POLICY POLICYDETAILS THE ADMEDIA PLEDGE TO KEEPING YOUR INFORMATION PRIVATE.
+Last Updated: May 2018
 
-Effective Date: August 30, 2012
+Ad.com Interactive Media, Inc. ( **"Admedia"** ) understands that you care about how information about you is collected and used. We believe your privacy is important and maintaining your trust is our top priority.
 
-This privacy policy describes how AdMedia, Inc. ("AdMedia") collects and uses the personal information you provide on our Web sites: www.thankyouoffer.com, www.thankyouemail.com, www.remarketing.com, www.prerollstream.com, www.overlayad.com, www.midrollstream.com, www.intextual.com, www.footerroll.com, www.dittodomains.com, www.contextual.com, www.admobile.com, www.admediabrands.com, www.404bucks.com, www.admedia.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This Privacy Policy is meant to help you understand our online information practices as well as the decisions you may make regarding how your information is collected and used when viewing our websites and their sub-domains. 
 
-## What type of information does AdMedia collect?
+## Information We Collect
 
-We collect the following personal information from you (Publishers ONLY):
+We collect information to improve our services and provide better experiences to all our users. **Admedia** collects both personal information and non-personal information. 
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information
-  * Social Security Number
+“Personal Information” is information that can be used to identify, locate, or contact you, either directly or indirectly, alone or with other information. It also includes other information that may be associated with Personal Information. We collect the following types of Personal Information:
 
-
-
-## What does AdMedia do with my data?
-
-AdMedia only collects data to enhance and personally tailor our website to meet your needs. Personal information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Cookies help us distinguish between individual users, tailor fit homepages, control advertisement frequency, and so on.
-
-IP addresses help us diagnose server issues and help us administer AdMedia.com. Without your IP address it would be impossible to keep our services running 24/7, and we want to be here for you around the clock.
-
-Every email sent to AdMedia users is to meet your needs. We offer website updates, inform you of new features, allow you to register for special offers and sweepstakes, newsletters all for your enjoyment. If at any point these emails become annoying or bothersome, simply follow the unsubscribe mechanism in these emails or you can email [copyright@admedia.com](mailto:copyright@admedia.com).
-
-Also note that your email address helps AdMedia respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as payment processing, email communications and career fulfillment. These companies are authorized to use your personal information only as necessary to provide these services to us. We have a co-branding relationship with our service provider of our career page. The personal information that you enter is owned by AdMedia.
-
-We may also disclose your personal information
-
-  * as required by law, such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * to any other third party with your prior consent to do so.
-  * if AdMedia is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-  * to any other third party with your prior consent to do so
+  * Contact information that allows us to communicate with you, such as your full name, postal addresses, email addresses, social media website user account names, telephone numbers, or other addresses at which you receive communications from or on behalf of **Admedia**.
+  * Financial Account Information as needed to process payments for our services, such as your credit or debit card number, expiration date, and card verification number.
 
 
 
-## Cookies
+“Non-Personal information” is information that, alone, cannot be used to identify or contact you. Such non-Personal information may include, for example, gender, birth date, or zip code. You may be asked to submit non-Personal information with Personal information or separately.
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+We collect such information in two ways: 1) Information you provide; and 2) Information we receive from your use of our services.
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+## Information You Provide
 
-We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+We collect Personal Information when you:
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as previously entered account information, will be limited. 
+  * Send us any written or electronic communication (via an email or other website database form);
+  * Complete a user account;
+  * Create shopping cart data, as and when available;
+  * Subscribe to newsletters.
 
-## Third Party Cookies
 
-The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
 
-## Clear Gifs (Web Beacons/Web Bugs)
+## Automatically Collected Information
 
-We employ and our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. This clear Gif placement allows AdMedia a seamless and unobtrusive way to retarget our users to ensure that all ads have been personally tailored to that individual. 
+When you use our services, we may collect certain information as described below for such purposes as improvement of our products and services, troubleshooting bugs, providing the services, tracking usage, and improving overall performance of the services. Such information may include IP address, profile information, aggregate user data, technical session information, information about your computer, hardware, or mobile device, demographic information including gender, zip code, and navigational data including log files, server logs, and other data. If you arrived at our website via a link from another webpage, we may receive aggregate or otherwise anonymous statistical information about your visit to our site.
 
-Your IP address helps AdMedia diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize AdMedia.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
+## Cookies and Related Technologies
 
-## Security
+When you use **Admedia** services, we collect certain information by automated or electronic means, using technologies such as cookies, pixel tags and web beacons, browser analysis tools, and web server logs. As you use our website, your browser communicates with servers operated by us, our business partners and service providers to coordinate and record the interactivity and fill your requests for services and information.
 
-The security of your personal information is important to us. When you enter sensitive information (such as a social security number/Tax ID) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+The information from cookies and related technology is stored in web server logs and in web cookies kept on your computers, which are then transmitted back to our website by your computers.
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [copyright@admedia.com](mailto:copyright@admedia.com).
+If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies.
 
-## Public Forums
+## How We Use Information We Collect
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [copyright@admedia.com](mailto:copyright@admedia.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+**Admedia** uses information to:
 
-## Who else gets to see my personal information?
+  * Operate and improve our websites and services;
+  * Provide customers with offers for products and services from **Admedia** , including offers based on variables such as stated and anticipated customer interests;
+  * Facilitate orders for products or services;
+  * Evaluate eligibility of customers for certain offers, products or services;
+  * Track redemption of products or services and perform other analytics;
+  * Provide customer support, including to our merchants or business partners;
+  * Fulfill requests for **Admedia** products or services;
+  * Send you reminders, technical notices, updates, security alerts and support and administrative messages service bulletins, or marketing;
+  * Manage our everyday business needs such as website administration, fulfillment, analytics, fraud prevention, enforcement of our corporate reporting obligations, Terms and Conditions or to comply with the law; and
+  * Aggregate anonymous data from our Services used for benchmarking and to improve the Services
 
-When you request services from our business partners AdMedia will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about an AdMedia business partner, you may contact them directly. AdMedia is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with AdMedia owned businesses.
 
-Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
-## How do I delete my information from AdMedia?
+If you do not want to be on our mailing list, you can opt out anytime by sending an email to support@admedia.com. From time to time, we may use your personal information to send important notices to our customers regarding material changes to our terms, conditions, and policies or purchased products and services which you may not opt out of receiving if you are a current customer.
 
-If your personal information changes, you may correct or update by logging into your account and going to Account Info or by emailing [copyright@admedia.com](mailto:copyright@admedia.com) or by contacting us by postal mail at the contact information listed below. If you no longer desire our service, please contact us at the contact information listed below in Contacting AdMedia.
+## Sharing Of Your Personal Information
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [copyright@admedia.com](mailto:copyright@admedia.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We do NOT share, sell, rent or trade Personal information with third parties for their own promotional purposes, and will only share Personal Information as outlined herein or with your consent.
 
-At this current time it is not possible to completely delete your user information from the AdMedia database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
+We may disclose your Personal Information to our service providers that provide services for us such as sending emails on our behalf and processing payments. Our service providers are bound by law or contract to protect the Personal Information and are only allowed to use the Personal Information in accordance with the terms of our service agreements with them. 
 
-## Will I be notified of a security breach?
+We may aggregate and/or anonymize information collected via our services or other means so that the information does not identify you. Our use and disclosure of aggregated, anonymized, and other non-Personal information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any legal purpose.
 
-AdMedia has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified via email immediately.
+## Accessing & Correcting Personal Information
 
-## Do linked sites honor your policy?
+You can access, update and delete your Personal Information, including financial information, by sending us an email at support@admedia.com.
 
-Linked sites are not run or controlled by AdMedia. The website does contain many linked sites so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. AdMedia won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
+We will retain your information for as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## AdMedia will notify you of changes
+## How We Protect Your Personal Information
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+The security of your personal information is important to us. We have implemented reasonable administrative, technical, and physical security measures to protect against the unauthorized access, destruction or alteration of your information. Despite our best efforts, however, no security measures are 100% impenetrable.
 
-## Contacting AdMedia
+## Data Processing & Transfers
 
-In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at [copyright@admedia.com](mailto:copyright@admedia.com).
+When you use or interact with any of our services, you consent to the data processing, sharing, transferring and uses of your information as outlined in this Privacy Policy. Regardless of the country where you reside, you authorize us to transfer, process, store and use your information in countries other than your own in accordance with this Privacy Policy and to provide you with services. Some of these countries may not have the same data protection safeguards as the country where you reside.
 
-303 North Glenoaks Blvd., Suite 200, Burbank, CA 91502
+We may process information related to individuals in the EU/EEA and may transfer that information from the EU/EEA through various compliance mechanisms, including data processing agreements based on the EU/EEA Standard Contractual Clauses. By using our Services, you consent to us transferring information about you to these countries. 
+
+## Changes
+
+We may update this policy from time to time, so you should check it periodically. Modifications will be posted to the Privacy Policy on **Admedia** website ([http://admedia.com](http://admedia.com/)). If we make any material changes we will notify you by means of notice on the website when a change is made. Your continued use of our services signifies your acceptance of our Privacy Policy as modified.
+
+## Contact Info
+
+If you have any questions, suggestions or wish to make a complaint, you may contact us at:
+
+**Admedia**  
+303 North Glenoaks Blvd., Suite 200,  
+Burbank, CA 91502
+
+Or email us at:
+
+support@admedia.com
