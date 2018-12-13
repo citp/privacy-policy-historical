@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pima.edu privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402192053id_/https%3A//www.pima.edu/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pima.edu privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213193205id_/https%3A//www.pima.edu/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | Pima Community College, Tucson, Arizona
 
