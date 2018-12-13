@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the awakeningfromalzheimers.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612135225id_/https%3A//www.awakeningfromalzheimers.com/awakening-from-alzheimers-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awakeningfromalzheimers.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213081459id_/https%3A//www.awakeningfromalzheimers.com/awakening-from-alzheimers-privacy-policy) for the most accurate reproduction.*
 
 # Awakening from Alzheimer’s Privacy Policy – Awakening From Alzheimers
 
-The website you are visiting is owned and operated by Online Publishing & Marketing, LLC. We understand your concerns regarding collection of your personal data. We appreciate your trust and respect your privacy.
+The website you are visiting is owned and operated by Online Publishing & Marketing, LLC. Online Publishing & Marketing, LLC owns the brands Cancer Defeated, Natural Health Insiders, Awakening From Alzheimer’s, Aging Defeated, and the Alternative Cancer Research Institute. We understand your concerns regarding collection of your personal data. We appreciate your trust and respect your privacy. To find out more about how we use data to learn about how people interact with our website, you can email us at [info@awakeningfromalzheimers.com](mailto:info@awakeningfromalzheimers.com).
 
 Except as otherwise disclosed in this Privacy Policy, we do not sell or disclose information that identifies you personally or makes it possible for other parties to contact them directly without your consent.
 
