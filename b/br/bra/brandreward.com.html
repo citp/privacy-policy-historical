@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brandreward.com privacy policy that was archived on 2017-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170511001452id_/http%3A//www.brandreward.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brandreward.com privacy policy that was archived on 2018-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181213082548id_/https%3A//www.brandreward.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta charset="utf-8">
@@ -13,13 +13,16 @@
   <link rel="icon" href="/img/favicon.ico">
   <title>Privacy Policy</title>
   <!-- Bootstrap core CSS -->
-    <link href="http://www.brandreward.com/css/font-awesome.min.css?v=16" rel="stylesheet">
-    <link href="http://www.brandreward.com/css/style.css?v=16" rel="stylesheet">
-    <link href="http://www.brandreward.com/css/new_style.css?v=16" rel="stylesheet">
-  
-    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="http://www.brandreward.com/js/jquery.min.js?v=7"></script>
-    <script src="http://www.brandreward.com/js/b_account.js?v=7"></script>
-    <script src="http://www.brandreward.com/js/b_account.js?v=7"></script>
+    <link href="https://www.brandreward.com/css/font-awesome.min.css?v=20181114" rel="stylesheet">
+    <link href="https://www.brandreward.com/css/style.css?v=20181114" rel="stylesheet">
+    <link href="https://www.brandreward.com/css/new_style.css?v=20181114" rel="stylesheet">
+    
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script>var CON_BASE_URL = "https://www.brandreward.com";
+var CON_GO_URL = "https://r.brandreward.com";</script>
+
+    <script src="https://www.brandreward.com/js/jquery.min.js?v=20181114"></script>
+    <script src="https://www.brandreward.com/js/b_account.js?v=20181114"></script>
+    <script src="https://www.brandreward.com/js/b_account.js?v=20181114"></script>
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -31,39 +34,116 @@
 </script>
 </head>
 <body><header>
+<link href="css/select2.min.css" rel="stylesheet">
+<link href="css/select2-bootstrap.min.css" rel="stylesheet">
+<script src="js/select2.min.js"></script>
+<style>
+.select2-container {
+    display: inline-block;
+}
+.select2-container--bootstrap .select2-results__group {
+    color: #555;
+    font-weight: 400;
+	font-size: 18px;
+}
+.select2-container--bootstrap .select2-results__option .select2-results__option {
+    padding: 6px 12px 6px 30px;
+	font-weight: 250
+}
+.select2-container--bootstrap .select2-results__option {
+    font-weight: 250;
+}
+</style>
+</header>
+
 <div class="head">
     <div class="main">
-        <a href="http://www.brandreward.com/index.php" class="logo">
+        <a href="https://www.brandreward.com/index.php" class="logo">
             <img src="img/logo.png">
         </a>
         <div class="min_menu">
             <span class="show_menu"></span>
         </div>
-        <ul class="menu">
+        <ul class="menu" style="">
             <li>
-                <a href="http://www.brandreward.com/index.php">Homepage</a>
+                <a href="https://www.brandreward.com">Homepage</a>
             </li>
-            <li>
-                <a href="http://www.brandreward.com/features.php">Features</a>
-            </li>
-            <li>
-                <a href="http://www.brandreward.com/publisher.php">Publishers</a>
-            </li>
-            <li>
-                <a href="http://www.brandreward.com/advertiser.php">Advertisers</a>
-            </li>
-            <li>
-             <a href="http://www.brandreward.com/ourTeam.php">Our Team</a>
-            </li>
+            <span style="display:none">
+	            <li>
+	                <a href="https://www.brandreward.com/features.php">Features</a>
+	            </li>
+	            <li>
+	                <a href="https://www.brandreward.com/publisher.php">Publishers</a>
+	            </li>
+	            <li>
+	                <a href="https://www.brandreward.com/advertiser.php">Advertisers</a>
+	            </li>
+	            <li>
+	                <a href="https://www.brandreward.com/ourTeam.php">Our Team</a>
+	            </li>
+            </span>
         </ul>
-        <div class="btn_sl">
-            <a href="http://www.brandreward.com/signup.php" class="su">Sign Up</a>
+        <div class="btn_sl" style="margin-left: 70%;">
+            <a href="https://www.brandreward.com/signup.php" class="su">Sign Up</a>
             <a href="javascript:void(0)" id="head-top-login" class="lg" onclick="remodal_login()">Login</a>
+            <select class="form-control lang" name="Status" style="width: 150px;margin-left: 10px;">
+                <option value="us">United States</option>
+			    <option value="fr">France</option>
+			    <option value="de">Germany</option>
+			    <option value="uk">United Kingdom</option>
+                <option value="aus">Australia</option>
+			    <option value="zh">China</option>
+			    <option value="sg">Singapore</option>
+			    <option value="in">India</option>
+            </select>
         </div>
     </div>
 </div>
-</header>
+
 <script>
+
+	var areaCookie = getCookie('area');
+	var str ="us,fr,de,zh,uk,in,sg,aus";
+	var strdisplaymenu ="us,uk,in,sg,aus";
+	if(str.indexOf(areaCookie)>-1){
+		$('.lang').val(areaCookie);
+	}
+	if(strdisplaymenu.indexOf(areaCookie)>-1){
+		$('.menu').css("display","block");
+	}
+	
+	function getCookie(c_name){
+		if (document.cookie.length>0){
+		  c_start=document.cookie.indexOf(c_name + "=")
+		  if (c_start!=-1){ 
+		    c_start=c_start + c_name.length+1 
+		    c_end=document.cookie.indexOf(";",c_start)
+		    if (c_end==-1) c_end=document.cookie.length
+		    return unescape(document.cookie.substring(c_start,c_end))
+	      } 
+		}
+		return ""
+	}
+
+    $('.lang').on('change',function(){
+        var val = $(this).val();
+    	$.ajax({
+			type: "post",
+			url: "index.php",
+			data:{"changeArea":"1","area":val},
+			dataType:'json',
+			async: false,
+			success: function (res) {
+				if(val != 'us' && val != 'uk' && val != 'aus'){
+					var url = "https://www.brandreward.com/index.php";
+			        window.location.href=url;
+				}else{
+					window.location.reload();
+				}
+			}
+		});
+    })
+    
     if($(document).width() <= 1100){
         $('.menu').css('display','none');
         $('.menu').attr('data-show',0);
@@ -271,13 +351,27 @@
             });
         });
 </script>
-<div id="bac" class="remodal-overlay" style="display: none"></div>
+<style>
+.layer .verify::before{
+	height:0px;
+}
+.layer .verify{
+	text-align:left;
+	width: 550px;
+    height: 220px;
+}
+.layer .verify div:nth-child(n+2){
+	padding: 10px;
+}
+</style>
+
+<!-- <div id="bac" class="remodal-overlay" style="display: none"></div> -->
 <div id="login" class="layer remodal-wrapper" style="display:none">
     <div class="login">
-        <div class="x" id="x" onclick="hideModal()">X</div>
+    	<div class="x" id="x" onclick="hideModal()">X</div>
         <h2>Account Login</h2>
         <ul>
-            <form id="modal" method="post" action="http://www.brandreward.com/process.php">
+            <form id="modal" method="post" action="https://www.brandreward.com/process.php">
                 <input type="hidden" name="act" value="publish_login">
 
                 <li><input type="text" class="form-control" id="login-account" value="" name="pub_account" placeholder="Login ID"></li>
@@ -286,13 +380,12 @@
                 <li><button id="submitModal">Login</button></li>
             </form>
             <li>
-                <p><span><a href="#" onclick="forgotPwd()">Forgot Password</a></span><span>|</span><span><a href="http://www.brandreward.com/signup.php">Sign Up</a></span></p>
+                <p><span><a href="#" onclick="forgotPwd()">Forgot Password</a></span><span>|</span><span><a href="https://www.brandreward.com/signup.php">Sign Up</a></span></p>
             </li>
 
         </ul>
     </div>
 </div>
-
 
 <div id="forgotPwd" class="layer remodal-wrapper" style="display:none">
     <div class="login">
@@ -300,7 +393,7 @@
         <p style="color: #333" id="tip">Input your email address you provided during your registration</p>
         <p style="color: #333;position:relative;display: none" id="wait">Email is on the way...<i style="position: absolute;bottom:0" class="icon-spinner icon-spin icon-2x pull-left"></i></p>
         <ul>
-            <form id="f_modal" method="post" action="http://www.brandreward.com/process.php">
+            <form id="f_modal" method="post" action="https://www.brandreward.com/process.php">
                 <input type="hidden" name="act" value="publish_forgotPwd">
                 <li><input type="text" id="register-email" name="register-email" placeholder="Email"></li>
                 <li><button id="f_submit">Submit</button></li>
@@ -310,24 +403,47 @@
     </div>
 </div>
 
+<div id="sendAgainDiv" class="layer remodal-wrapper" style="display:none">
+    <div class="login verify">
+        <div class="x" id="x" onclick="hideModal()">X</div>
+        <div>Almost done! An activation email has been sent to your email.</div>
+        <div>If you simply cannot find the email, please click <button style="border: 1px solid #f79646;background: #f79646;color: #ffffff;border-radius: 3px;cursor: pointer;" id="verifybtn">here</button> to resend the activation email.</div>
+        <div>If your activation email has been swallowed up by the internet. Don't worry, you can always reach out to <a href="mailto:support@brandreward.com">support@brandreward.com</a>.</div>
+    </div>
+</div>
 
 <script>
+	if(window.location.href.indexOf("#forgotpassword") != -1 ){
+		forgotPwd();
+	}
+
     $('#login form').submit(function(){
         var flag = 0;
         $.ajax({
             type:"post",
-            url:"http://www.brandreward.com/process.php",
+            url:"https://www.brandreward.com/process.php",
             data:$('#login form').serialize(),
             async:false,
             success: function(data){
                 if(data == '0'){
-                    window.location.href = "http://www.brandreward.com/b_merchants.php";
+                	var redirectURL = getQueryString('redirectURL');
+                	if(redirectURL != null && redirectURL.indexOf("https://www.brandreward.com"==0)){
+                		window.location.href = decodeURIComponent(redirectURL);
+                	}else{
+                		window.location.href = "https://www.brandreward.com/b_merchants.php";
+                	}
                 }else if(data == '4'){
                     set_msg('login-account',0,'Account is under review,please wait patiently');
                 }else if(data == 'network'){
-                    window.location.href = "http://www.brandreward.com/b_aff_traffic.php";
+                    window.location.href = "https://www.brandreward.com/b_aff_traffic.php";
                 }else if(data == 'advertiser'){
-                    window.location.href = "http://www.brandreward.com/b_ad_traffic.php";
+                    window.location.href = "https://www.brandreward.com/b_ad_traffic.php";
+				}else if(data == 'advertiser_white'){
+                    window.location.href = "https://www.brandreward.com/b_ad_traffic.php";
+                }else if(data == '5'){
+                	$("#verifyEmail").html($("#login-account").val());
+                	$('#login').css('display','none');
+                	$('#sendAgainDiv').slideDown('normal');
                 }else{
                     set_msg('login-account',0,'Account or password is incorrect');
                 }
@@ -335,19 +451,43 @@
         });
 
         if(flag){
-            window.location.href = 'http://www.brandreward.com';
+            window.location.href = 'https://www.brandreward.com';
             return false;
         }else{
             return false;
         }
     });
+    
+    function getQueryString(name)
+    {
+         var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+         var r = window.location.search.substr(1).match(reg);//search,查询？后面的参数，并匹配正则
+         if(r!=null)return  unescape(r[2]); return null;
+    }
+
+    $(document).delegate('#verifybtn','click',function(){
+    	$.ajax({
+            type: "post",
+            url: "https://www.brandreward.com/process.php",
+            data: {"act":"sendAgain","email":$("#login-account").val(),"password":$("#login-password").val()},
+            dataType:'json',
+            async: false,
+            success: function (data) {
+            	if(data.code == 1){
+            		alert(data.msg);
+            	}else{
+            		alert(data.msg);
+            	}
+            }
+        });
+    })
 
     $('#forgotPwd form').submit(function(){
         $('#tip').css("display","none");
         $('#wait').css("display","block");
         $.ajax({
             type:"post",
-            url:"http://www.brandreward.com/process.php",
+            url:"https://www.brandreward.com/process.php",
             data:$('#forgotPwd form').serialize(),
             async:false,
             success: function(data){
@@ -373,18 +513,19 @@
         });
         return false;
     });
+    
 </script>
 
 <footer>
     <div class="footer">
         <div class="main">
             <div class="link">
-                <a href="http://www.brandreward.com/contactUs.php">Contact Us</a> |
+                <a href="https://www.brandreward.com/contactUs.php">Contact Us</a> |
                 <a href="javascript: void(0);">T&amp;Cs</a> |
-                <a href="http://www.brandreward.com/privacypolicy.php">Privacy Policy</a> |
-                <a href="http://www.brandreward.com/referral.php">Referral Program</a> |
-                <a href="http://www.brandreward.com/imprint.php">Imprint</a> |
-                <a href="http://www.brandreward.com/help.php">Help</a>
+                <a href="https://www.brandreward.com/privacypolicy.php">Privacy Policy</a> |
+                <a href="https://www.brandreward.com/referral.php">Referral Program</a> |
+                <a href="https://www.brandreward.com/imprint.php">Imprint</a> |
+                <a href="https://www.brandreward.com/help.php">Help</a>
             </div>
             <div class="icon_link">
                 <a href="https://twitter.com/Brand_Reward" target="_blank" class="t"></a>
