@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cn.ca privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026182952id_/http%3A//www.cn.ca/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cn.ca privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214003154id_/https%3A//www.cn.ca/en/privacy) for the most accurate reproduction.*
 
 # Privacy | cn.ca
 
@@ -14,4 +14,4 @@ At times we conduct online surveys to better understand the needs and profile of
 
 CN's Website may contain links to other sites such as CN distributors and sales affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites. You should read the privacy policy of each website to find what kind of information they collect and for which purpose they will use this information.
 
-If you have any questions or concerns about our privacy policy, don't hesitate to [contact us](https://web.archive.org/en/contact-us).
+If you have any questions or concerns about our privacy policy, don't hesitate to [contact us](https://web.archive.org/en/contact-us/).
