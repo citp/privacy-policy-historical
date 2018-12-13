@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoo.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619234611id_/http%3A//infospace.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoo.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213124117id_/http%3A//infospace.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ Attn: Privacy Officer
 1501 Main Street   
 Suite 201   
 Venice, CA 90291   
-[privacy@system1.com](mailto:privacy@system1.com)
+[Contact System1](https://web.archive.org/contact/index.html)
 
 ### Information We Collect About You and How We Collect It
 
@@ -142,9 +142,9 @@ We strive to provide you with choices regarding the personal information you pro
   * For some of our products, we use Google Analytics Advertising Features, including Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, and Google Analytics Demographic and Interest Reporting. For information about Google Analytics currently available opt-outs, please click [here](https://tools.google.com/dlpage/gaoptout/).
   * Some of our products may include advertisements from Microsoft. To learn more about information collected by Microsoft, please click [here](http://www.microsoft.com/en-us/privacystatement/Default.aspx). You can opt-out of Microsoft’s personalized advertising services by following the instructions found [here](http://choice.microsoft.com/).
   * We do not control third parties' collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/opt_out.asp) or who follow the [Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/choices/) by visiting the opt-out pages on the NAI site and DAA site.
-  * System1 acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them.  An EU or Swiss individuals who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct their query to [privacy@system1.com](mailto:privacy@system1.com).  If requested to remove data, we will respond within a reasonable timeframe.
+  * System1 acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them.  An EU or Swiss individuals who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct their query [here](https://web.archive.org/contact/index.html).  If requested to remove data, we will respond within a reasonable timeframe.
   * We will also provide an EU or Swiss individuals with opt-out or opt-in choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized.
-  * To limit the use and disclosure of your personal information, please submit a written request to [privacy@system1.com](mailto:privacy@system1.com).
+  * To limit the use and disclosure of your personal information, please submit a written request [here](https://web.archive.org/contact/index.html).
 
 
 
@@ -152,7 +152,7 @@ We strive to provide you with choices regarding the personal information you pro
 
 We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change, or remove the personal registration information you provide to us and that we control. To choose not to receive future communications from us, please [Contact Us](https://web.archive.org/contact/index.html).
 
-You may also send us an email at privacy@system1.com to request access to, correct, or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may also send us an email [here](https://web.archive.org/contact/index.html) to request access to, correct, or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 ### Data Security
 
@@ -162,7 +162,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 ### Dispute Resolutions
 
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, System1 commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact System1 at: [privacy@system1.com](mailto:privacy@system1.com)
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, System1 commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact System1 [here](https://web.archive.org/contact/index.html).
 
 System1 has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint.
 
@@ -180,4 +180,4 @@ Attn: Privacy Officer
 1501 Main Street   
 Suite 201   
 Venice, CA 90291   
-[privacy@system1.com](mailto:privacy@system1.com)
+[Contact System1](https://web.archive.org/contact/index.html)
