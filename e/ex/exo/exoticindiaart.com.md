@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131013203id_/https%3A//www.exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213195103id_/https%3A//www.exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
 
 # Indian Artwork - Buddha Statues & Hindu Books - Exotic India Art
 
@@ -62,7 +62,7 @@ Our site provides users the opportunity to opt-out of receiving newsletters from
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
   * You can send email to [unsubscribe@exoticindiaart.com](mailto:unsubscribe@exoticindiaart.com)
-  * You can visit the following URL: <http://www.exoticindiaart.com/unsubscribe.php3>
+  * You can visit the following URL: <https://www.exoticindiaart.com/unsubscribe.php3>
 
 
 
