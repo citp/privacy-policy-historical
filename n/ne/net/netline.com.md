@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netline.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612185725id_/http%3A//www.netline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netline.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213085619id_/http%3A//www.netline.com/privacy.html) for the most accurate reproduction.*
 
 # NetLine Privacy Policy - Successful B2B Marketers Start Here - B2B Content Syndication Lead Generation
 
