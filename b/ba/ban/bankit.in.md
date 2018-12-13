@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankit.in privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109073506id_/http%3A//www.bankit.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankit.in privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213032515id_/https%3A//www.bankit.in/privacy) for the most accurate reproduction.*
 
 # 
 
