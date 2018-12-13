@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilo.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630141725id_/http%3A//tamilo.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilo.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213201429id_/http%3A//tamilo.com/Privacy.html) for the most accurate reproduction.*
 
 # Tamilo.com Privacy Policy
 
