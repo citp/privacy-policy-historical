@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605221541id_/http%3A//www.klove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213064609id_/http%3A//www.klove.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Positive & Encouraging K-LOVE
 
