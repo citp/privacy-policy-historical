@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postgresqltutorial.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430113758id_/http%3A//www.postgresqltutorial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postgresqltutorial.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213170342id_/http%3A//www.postgresqltutorial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
