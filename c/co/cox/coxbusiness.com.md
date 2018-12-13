@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the coxbusiness.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718171954id_/https%3A//www.cox.com/aboutus/policies/business-annual-privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coxbusiness.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213072722id_/https%3A//www.cox.com/aboutus/policies/business-annual-privacy-notice.html) for the most accurate reproduction.*
 
 # Annual Privacy Notice | Cox Communications
 
-## Cox Business Policies
+## Your Privacy Rights as a Cox Business Customer
 
-### Your Privacy Rights as a Cox Business Customer
+**Notice to Cox Business Customers**
 
-**2017 Annual Notice to Cox Business Customers**
-
-**Updated: February 1, 2017**
+**Updated: January 1, 2018**
 
 In keeping with our commitment to be the most trusted provider of communications and entertainment services, we are letting you know how we will collect and use your Personally Identifiable Information. We work to keep it secure and will destroy it when no longer needed by us for any reason. We will give you clear, prior notice and the right to choose, as described below, how your Personally Identifiable Information will be used.
 
@@ -50,7 +48,7 @@ We consider Personally Identifiable Information confidential, and use it only as
 
   
 **Sharing Restrictions**    
-It is our policy not to disclose Personally Identifiable Information to persons outside of Cox, other than our affiliates, vendors and business partners, without your prior consent or as otherwise specified in this statement. In addition, the Cable Act allows us to disclose limited Personally Identifiable Information to third-parties for mailing list or other purposes, subject to your ability to limit this disclosure. You can opt-out of this type of disclosure by sending an email to [privacy@cox.com](mailto:privacy@cox.com). Any mailing list or other disclosure will not reveal, directly or indirectly, your viewing or other use of our cable or other services or the nature of any transaction made over our cable system.
+It is our policy not to disclose Personally Identifiable Information to persons outside of Cox, other than our affiliates, vendors and business partners, without your prior consent or as otherwise specified in this statement. The sharing of Personally Identifiable Information with our affiliates, vendors and business partners is in connection with the provision of Cox services. In addition, the Cable Act allows us to disclose limited Personally Identifiable Information to third-parties for mailing list or other purposes, subject to your ability to limit this disclosure. You can opt-out of this type of disclosure by sending an email to [privacy@cox.com](mailto:privacy@cox.com). Any mailing list or other disclosure will not reveal, directly or indirectly, your viewing or other use of our cable or other services or the nature of any transaction made over our cable system.
 
   
 **Aggregate and De-Identified Information**    
@@ -62,7 +60,7 @@ We sometimes use affiliates, vendors or partners in providing services to you an
 
   
 **Telephone Services**    
-If you call to discuss your telephone account, we may ask for your "Cox PIN", found in the top right portion of your bill. If you request, Customer Care can remove your Cox PIN from your bill. At Cox retail locations, telephone customers must show a government-issued photo ID before we can discuss your information. If you, or anyone authorized by you, make significant changes to your telephone account, Cox will send you notice to confirm that you made these changes. If you suspect that someone may have made unauthorized changes to your account, contact Customer Care at the telephone number on your bill. If we discover any unauthorized access to your telephone account, we will send you notice promptly, in keeping with applicable law.
+Customer Care can help you with your PIN including how to find it and change it. At Cox retail locations, telephone customers must show a government-issued photo ID before we can discuss your information. If you, or anyone authorized by you, make significant changes to your telephone account, Cox will send you notice to confirm that you made these changes. If you suspect that someone may have made unauthorized changes to your account, contact Customer Care at the telephone number on your bill. If we discover any unauthorized access to your telephone account, we will send you notice, in keeping with applicable law.
 
 Our telephone customers can designate their listings as non-published for print or electronic directories or for directory assistance services. We do not publish these directories and are not responsible for their content or accuracy. Because of the complexity of this process and the involvement of others, errors sometimes occur. Our telephone services are subject to tariff or contractual terms that limit our liability in the event of listing errors. For more information on telephone privacy, see the _Customer Proprietary Network Information_ notice below.
 
@@ -72,7 +70,7 @@ When you use an interactive service to participate in or to order a product or s
 
   
 **Internet Services**    
-Unless addressed to us, we do not read the content of your online communications, unless required by law or court order. We may, however, retain and provide such communications if we are legally required to do so. For the email accounts that are provided by us, we generally scan incoming and outgoing email traffic electronically to identify and filter out likely spam. We may use email to send transactional, informational, or relationship messages related to your service. However, we will never ask you to send personal information to us by unsecured email. If you prefer, you may opt-out of marketing messages we may send by notifying us in response to the email you receive, through the unsubscribe link found at the bottom of the email. We monitor for malware and other threats that could harm your equipment, the network or other users. We may communicate with you online concerning such threats, as well as offerings from Cox that you may be interested in. For more information, see our [Policies at Cox.com](http://www.cox.com/aboutus/policies.cox).  We also provide general location-based online advertising based on your general geographic area and nine-digit ZIP code, similar to direct mail you receive through the US Mail.  Visit _ _[Location-Based Advertising](http://www.cox.com/residential/support/internet/article.cox?articleId=%7b5074dfe0-12cc-11e0-cf95-000000000000%7d) for more information and instructions on opting out of this service.
+Unless addressed to us, we do not read the content of your online communications, unless required by law or court order. We may, however, retain and provide such communications if we are legally required to do so. For the email accounts that are provided by us, we generally scan incoming and outgoing email traffic electronically to identify and filter out likely spam. We may use email to send transactional, informational, or relationship messages related to your service. However, we will never ask you to send personal information to us by unsecured email. If you prefer, you may opt-out of marketing messages we  send by notifying us in response to the email you receive, through the unsubscribe link found at the bottom of the email. We monitor for malware and other threats that could harm your equipment, the network or other users. We may communicate with you online concerning such threats, as well as offerings from Cox that you may be interested in. For more information, see our [Policies at Cox.com](http://www.cox.com/aboutus/policies.cox).  We also provide general location-based online advertising based on your general geographic area and nine-digit ZIP code, similar to direct mail you receive through the US Mail.  Visit __ https://www.cox.com/residential/support/opting-out-of-location-based-advertising.html for more information and instructions on opting out of this service.
 
   
 **Special Exceptions**  – We reserve the right to disclose Personally Identifiable Information if we have a good faith belief it is necessary to: (1) comply with the law; (2) protect our network, rights or property or those of others; (3) respond to fraud, abuse or unauthorized reception; (4) enforce our [Policies posted on Cox.com;](http://www.cox.com/aboutus/policies.cox) or (5) act in an emergency to protect your safety or that of another person. We may also transfer Personally Identifiable Information as a part of a sale or transfer of our business operations.
@@ -87,13 +85,13 @@ We may take protective action related to your Internet service or contact you to
 **Spam**    
 We try to block incoming and outgoing spam using a variety of methods. You can help by preventing unauthorized access to your computer. You can forward unwanted spam to [spamreport@cox.net](mailto:spamreport@cox.net) and phishing scams to [phishingreport@cox.net](mailto:phishingreport@cox.net) to help update our filters. We will never ask you to send personal information to us by unsecured email.
 
-### Cookies and Online Advertisements
+Cookies and Online Advertisements
 
 **Cookies and Web Beacons**    
 We and other parties may place ads on our websites and email using "cookies" and web beacons or clear GIFs or other similar technologies to collect information about your visit to our website, your viewing of our ads and email, and to manage your preferences. These tools do not provide any information that personally identifies you. They can, however, be read by the provider to note information about your visit, such as your type of browser, operating system and IP address. Cookies may also help to recognize you when you log in as a registered user or as a repeat visitor. You can control the cookies your computer accepts through the settings on your device. Doing so, however, may limit the personalization available to you. We use these tools to tailor our site and email to better serve you by remembering you and any options you select. We may share non-personal information obtained from these tools with vendors, advertisers and others.
 
 **Online Advertising**  
-When you use our services, Cox may display advertisements, public service announcements, and other messages to you. Location-based online advertising is based upon your nine-digit ZIP code, similar to direct mail you receive through US mail. Visit [Location-Based Advertising](http://www.cox.com/residential/support/internet/article.cox?articleId=%7B5074dfe0-12cc-11e0-cf95-000000000000%7D) for more information and instructions on opting out of this service.
+When you use our services, Cox may display advertisements, public service announcements, and other messages to you. Location-based online advertising is based upon your nine-digit ZIP code, similar to direct mail you receive through US mail. https://www.cox.com/residential/support/opting-out-of-location-based-advertising.html for more information and instructions on opting out of this service.
 
   
 **Behavioral or Interest Based Ad Options**    
@@ -125,7 +123,7 @@ We work closely with the National Center for Missing and Exploited Children and 
 
 ## Security of Information
 
-We continue to work on new ways to protect Personally Identifiable Information. For our most sensitive databases, we use encryption within controlled and secured environments that have restricted access. Although we work to ensure the integrity and security of our network and computer systems, we cannot guarantee that our security measures will prevent unauthorized access or use. We retain personal customer information of service applications, current and former customers until no longer needed for business, tax, or legal purposes.
+We continue to work on new ways to protect Personally Identifiable Information. For our most sensitive databases, we use encryption within controlled and secured environments that have restricted access. Although we work to ensure the integrity and security of our network and computer systems, we cannot guarantee that our security measures will prevent unauthorized access or use. We retain personal customer information of service applications, current and former customers for business, tax, or legal purposes, until no longer needed.
 
 ## Note to California Customers Regarding Your Privacy Rights
 
