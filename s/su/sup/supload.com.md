@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the supload.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808203227id_/https%3A//supload.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supload.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213195010id_/https%3A//www.supload.com/privacy) for the most accurate reproduction.*
 
-# Supload - Free image hosting that earns you bitcoin
+# Privacy Policy | Supload
 
 #### General
 
@@ -44,7 +44,7 @@ Las Vegas, Nevada 89103
 
 #### Collection of your Personal Information
 
-Supload may collect personally identifiable information, such as your name. If you utilize  Suploads products and services, we collect billing and payment information. This information is used to complete the payment transaction. We may gather additional personal or non-personal information in the future.
+Supload may collect personally identifiable information, such as your name. If you utilize Suploads products and services, we collect billing and payment information. This information is used to complete the payment transaction. We may gather additional personal or non-personal information in the future.
 
 Information about your computer hardware and software may be automatically collected by Supload. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Supload website.
 
