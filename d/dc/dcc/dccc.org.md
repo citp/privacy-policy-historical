@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dccc.org privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805120837id_/https%3A//dccc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dccc.org privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213184204id_/https%3A//dccc.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DCCC
 
@@ -80,5 +80,3 @@ You may “opt out” of receiving email updates and newsletters by following th
 ### Questions?
 
 If you have any questions about this Policy, please contact us at (202) 863-1500.
-
-* * *
