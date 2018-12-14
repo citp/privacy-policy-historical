@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amihorny.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614192234id_/http%3A//amihorny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amihorny.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214124313id_/http%3A//amihorny.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bend & Snap
 
