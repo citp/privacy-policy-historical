@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igofx.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614011058id_/http%3A//igofx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igofx.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214020138id_/http%3A//igofx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – IGOFX
 
