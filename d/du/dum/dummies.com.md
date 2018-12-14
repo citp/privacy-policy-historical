@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dummies.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623171056id_/http%3A//www.dummies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dummies.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214220201id_/https%3A//www.dummies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - dummies
 
