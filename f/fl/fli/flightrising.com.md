@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flightrising.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606122546id_/http%3A//www1.flightrising.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightrising.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214222134id_/http%3A//www1.flightrising.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flight Rising
 
 This privacy policy will explain what information we collect online, why we collect it, and the choices we offer to you.
 
-This privacy policy (“Policy”) describes the data practices of Stormlight Workshop, LLC and its subsidiaries (collectively, the “we”, or “Company”), covering its services under its control, including this website, any products, mobile applications, console or PC applications (collectively "Services"). By using the Services, you are consenting to this Policy and the processing of your data in the manner provided in this Policy. If you do not agree with these terms, please do not use the Services. This Privacy Policy was last updated on **May 25, 2018**.
+This privacy policy (“Policy”) describes the data practices of Stormlight Workshop, LLC and its subsidiaries (collectively, the “we”, or “Company”), covering its services under its control, including this website, any products, mobile applications, console or PC applications (collectively "Services"). By using the Services, you are consenting to this Policy and the processing of your data in the manner provided in this Policy. If you do not agree with these terms, please do not use the Services. This Privacy Policy was last updated on **October 3, 2018**.
 
 **Information we collect**
 
@@ -78,12 +78,6 @@ If you wish to similarly opt out of cross-app advertising on mobile devices, you
 
 We aim to provide all users with the opportunity to access, update, and delete their data. Users covered under the EU General Data Protection Regulation (or similar laws) have the right to access their data, rectify mistakes, erase their data, restrict certain processing (i.e., opt out), move their data, withdraw consent, and lodge a complaint with a supervisory authority. In some cases, we may have to keep information for legitimate business or legal purposes or may be restricted for other reasons. Before updating your information, we may ask you to verify your identity and your country to determine your legal rights.
 
-**International Transfers**
-
-If we transfer personal information from the European Union to the United States, we comply with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
-
-For any questions or complaints regarding our compliance with either the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework, please contact us at [privacy@stormlightworkshop.com](mailto:privacy@stormlightworkshop.com). If we do not resolve your complaint, you may submit your complaint free of charge to the dispute resolution panel set forth by the data protection authorities, our designated independent dispute resolution provider (a panel established by the EU data protection authorities). Under certain conditions specified by the principles of the EU-U.S. and the Swiss - U.S. Privacy Shield Frameworks, respectively, you may also be able to invoke binding arbitration to resolve your complaint. We are also subject to the investigatory and enforcement powers of the US Federal Trade Commission. While we do our best to ensure our partners are also compliant, we are not liable for third parties’ processing of EU Data in violation of the Principles. We may be legally obligated to disclose personal information to authorities to meet national security, law enforcement, or other legal requirements.
-
 **Data Security**
 
 We work hard to protect our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold and undertake reasonable security measures with appropriate confidentiality, integrity, and availability protections. However, since no software or storage system is 100% secure, we cannot guarantee for the security of your information associated with the Services, or any other service for that matter. You can help protect your account information by using unique and hard-to-guess passwords. We store data if we have a valid business reason for keeping such data and only for reasonable time periods.
@@ -94,4 +88,4 @@ Our Services are not directed toward children under 13 and we will not knowingly
 
 **Updates**
 
-Our Privacy Policy may change from time to time and we will post any Policy changes on this page. This Privacy Policy was last updated on May 25, 2018.
+Our Privacy Policy may change from time to time and we will post any Policy changes on this page. This Privacy Policy was last updated on October 3, 2018.
