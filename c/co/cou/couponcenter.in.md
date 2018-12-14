@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponcenter.in privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508195741id_/http%3A//www.couponcenter.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcenter.in privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214195350id_/http%3A//www.couponcenter.in/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CouponCenter.in
 
