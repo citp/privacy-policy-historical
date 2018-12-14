@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kacey18.com privacy policy that was archived on 2018-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180214032642id_/http%3A//kacey18.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kacey18.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214012747id_/http%3A//kacey18.com/privacy.html) for the most accurate reproduction.*
 
 # Kacey 18 : Naughty Teen Babysitter!
 
