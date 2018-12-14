@@ -1,59 +1,232 @@
-> *The following text is extracted and transformed from the userreport.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924040009id_/http%3A//www.userreport.com/AnonymousModule/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userreport.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214122750id_/https%3A//privacy.userreport.com/en-GB/for-users/privacy-policy) for the most accurate reproduction.*
 
-# UserReport - Privacy Policy
+# UserReport Privacy Portal › For Users › Privacy Policy
 
-UserReport provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of the information we receive through the webservice delivered by UserReport. This Privacy Policy applies to information that you or the respondents that answer the online surveys provide to us when using our service and, likewise, when you are just browsing userreport.com. This Privacy Policy also explains what type of information is collected if you or people who complete the surveys visit third party websites serving content tagged by UserReport. We may change the Privacy Policy from time to time. Please consult this Privacy Policy regularly for any updates.
+### 
 
-### Information Collection and Use
+At AudienceProject we fully acknowledge that all information collected online should be protected. This Privacy Policy Document lays out the key elements of how we collect, store, transfer, and use the data we collect. How you can change or control what is collected? And how you can contact AudienceProject about any questions or concerns you may have?
 
-_UserReport  Clients _
+### How we use the collected information?
 
-By UserReport clients we mean companies or individuals that use the services we provide, whether they are free or not. We require UserReport Clients to provide certain Personally Identifiable Information when first becoming Clients. We may also request additional Personally Identifiable Information from time to time thereafter. Providing such additional Personally Identifiable Information is entirely optional, although some Site features may not work without it.
+Collected information and the associated device-ids may be used by AudienceProject for different purposes in order to serve our clients. The scope of our contract with the individual clients dictates which of the following services data may be used for.
 
-For our Clients, we use your Personally Identifiable Information mainly to provide the Services to you, as applicable, and to administer your inquiries. We may also use your Personally Identifiable Information to contact you with UserReport marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications.
+#### Market- and Media Research
 
-When you visit the UserReport.com site, whether as a UserReport Client or UserReport visitor, our servers automatically record and collect Log Data sent by your browser. We use the Log Data to monitor and analyze the use of the UserReport site in order for us to increase site functionality and userfriendliness.
+AudienceProject is a market research company, and the collected information is used for Market- and Media Research purposes. 
 
-_UserReport Respondents in online questionnaires_
+AudienceProject provides information on websites and website-evaluations to clients around the world. Specifically, when a visitor to any given website with the AudienceProject service in operation completes the survey, the data feeds into an online report accessible by the website-owner. This report provides information on the quality and usage of the site. Only fully anonymized data is accessible to the web site owner.
 
-By Respondents we mean those individuals who choose to complete the online pop-up questionnaires or submit, vote or comment on ideas through Crowdintelligence©.
+Additionally, the data that you supply about any given website are used, in aggregated form, for creating benchmarks with which to compare other participating (in order to rank websites according to usability-performance).
 
-We ask the respondents to elicit background information regarding gender, age, education as well as other sociodemographics. This information is used to generate the reports that Clients can access online. In addition, we ask Respondents to fill in their emailadress for further market research use and to participate in prizedraws. The Respondents are at all contact-occasions given the opportunity to opt out from any further contact. All information is always used fully anonymized and stored in secured surroundings.
+The data is also used to provide our clients with a comprehensive profile of visitors to a given media or application. The visitor profile allows our clients to identify which content is popular in specific demographic or interest defined target groups.
 
-We log, as a standard in our service, information sent by the Respondent´s browser such as computer IP´s address, pixel code, referring HTTP location, current HTTP location, search string, time of the access, browser´s time, any searches made on the applicable website, and other statistics.
+When completing the survey each respondent will be invited to participate in an opinions-panel where, from time to time, members will be invited to participate in surveys about what movies they like to see, attitudes toward the global financial crisis or their feelings toward immigration issues. They may also be asked to share their opinion in news-polls about a wide range of the most important current affairs. The topic of the specific polls are decided by our clients.
 
-_Cookies_
+The opinions-panels can be operated by subsidiaries of AudienceProject or panels operated by third parties. In case the panel is operated by a subsidiary of AudienceProject, the background data are used to target surveys to specific age-groups, or the like.
 
-Like many websites, we use cookies on the UserReport.com site (by placing or reading them via your browser) to save your registration ID and login password for future logins to the userreport.com Site.
+#### Audience Validation
 
-In addition, we also place a cookie in a respondent´s browser anytime a respondent fills out an online questionnaire or visit a website where we have placed a tag. You can instruct your browser, by changing its options, to stop accepting browser cookies or to prompt you before accepting a cookie from the websites you visit. In addition, we use Flash cookies. Similarly to browser cookies, Flash cookies are used to remember settings, preferences and usage, but are managed through a different interface than the one provided by your web browser. If you want to delete Flash cookies, please access your Flash Player settings management tool available on Adobe´s web site.
+Furthermore we use device-ids to collect data about which content is accessed on the Internet and in applications. Banner ad campaigns, text ad campaigns and more. By registering which device id’s are exposed to certain advertisement campaigns we are able to validate and audit the effect of online campaigns in terms of reaching specific desired target-groups. These reports are usually used to plan, optimize and document the effect of online advertising campaigns.
 
-### Information Sharing and Disclosure
+#### Viewability
 
-_Log Data, Market Research Data and Aggregate Information_. We may share the following information with third parties, including, but not limited to, companies that buy our market research services: Log Data collected on both the UserReport.com site and third party websites tagged with UserReport.com tags, as well as aggregated, anonymized, information resulting from the analysis of such log data for a variety of market research purposes
+We also provide our clients with estimates on the viewability of online content and online advertisement. A large share of online advertisement is loaded but never actually seen by anyone due to users not scrolling through all pages on a website. We measure and report the viewable share of specific online content to help our clients make better decisions about matching the right content to the right user.
 
-In addition, we may make use of the respondent´s consentingly elicited background information in combination with the submitted emailadress to initiate market research surveys. The information is used to target surveys to, for instance, specific age or gender groups.
+#### Fraud detection
 
-Information is not used to advertisements, solicitions of goods and/or services or other activity not guided by the Market Research community´s ESOMAR-code of conduct.
+We help our clients detect fraud on their websites and campaigns. Ad fraud is a type of scam in which the perpetrator fools advertisers into paying for something that is worthless to them, such as fake traffic, clicks or fake leads generated by online robots instead of real humans. The Association of National Advertisers' (ANA) latest Bot Baseline report estimates that advertising fraud will cost companies an estimated $6.5 billion globally this year.
 
-Information of any specific Client website´s performance, for instance in relation to the 10 usability criteria measured in the survey, is used to generate benchmarks to other websites. No individual website is discernable to other sites since the website is not mentioned by name and no benchmark is made out of less than 5 participating sites.
+#### Web analytics
 
-_Service Providers_. We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform services related to administration of the Services (including, without limitation, maintenance, hosting and database management services, and administration). These third parties have access to your Personally Identifiable Information and Log Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+Web analytics is the collection, reporting, and analysis of website and application data for the purposes of understanding and optimising website and application usage.
 
-_Compliance with Laws and Law Enforcement_. UserReport cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We disclose Personally Identifiable Information and Log Data to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of UserReport.com or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being illegal or legally actionable.
+Analytics platforms measure activity and behaviour on a website or an application, for example: how many users visit, how long they stay, how many pages they visit, which pages they visit, and whether they arrive by following a link or not? Businesses use web analytics platforms to measure and benchmark site performance and to look at key performance indicators that drive their business, such as purchase conversion rate.
 
-_Business Transfers_. UserReport may sell, transfer or otherwise share some or all of its assets, including your Personally Identifiable Information and Log Data, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You and any respondent will have the opportunity to opt out of any such transfer if the new entity´s planned processing of your information differs materially from that set forth in this Privacy Policy.
+Why Web Analytics Are Important? Website analytics provide insights and data that can be used to create a better user experience for website visitors.
 
-_Changing or Deleting Your Information_. You may review, update, correct or delete the information in your Client registration profile by logging into your account. Log Data cannot be deleted. If you want to delete your account, please [contact us](https://web.archive.org/web/20100924040009id_/http%3A//www.userreport.com/AnonymousModule/Contact.aspx). We may retain an archived copy of your records as required by law or for legitimate business purposes.
+#### True Frequency
 
-### Security
+More and more people are using more and more devices to access the internet. While most web analytics solutions measures the number of devices (laptops, smartphones, tablets etc) that have interacted with a particular website or application, we try to help our clients to convert that number into real humans in order to get a more accurate reader-ship count. If our clients have measured 200.000 devices visiting their website? They need to know if it was 100.000 persons accessing their website from both smartphones and laptops? Or 200.000 persons accessing the website? These metrics helps medias and advertisers to understand their true readership numbers.
 
-UserReport is concerned with safeguarding the information gathered through our Services. We employ a variety of measures designed to protect your information from unauthorized access.
+#### Personalized content and Interest based advertising
 
-### International Transfer
+We also make use of the device-id and browser-data collected to build profiles of users containing non-personally identifiable information publicly and we may also share it with our partners – like publishers, advertisers who may use this information to show you targeted advertisements or personalized content. The purpose is to be able to show more relevant content and more relevant ads to each and every user.
 
-Data may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction. Please be advised that we transfer information across borders in order for us to process it at any location we at any given time see fit. Your consent to this Privacy Policy represents your agreement to such transfer.
+While information collected through the survey might be used for training and validating probabilistic user-profiles, we will not make use of the information actually submitted in survey responses for this purpose.
 
-### Contacting Us
+#### AI Model-training and validation
 
-If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20100924040009id_/http%3A//www.userreport.com/AnonymousModule/Contact.aspx).
+Artificial Intelligence and Machine Learning models are increasingly being used to optimize the user experience of both applications and websites. 
+
+We help our clients to improve their AI models by providing them with both training and validation datasets.
+
+`•` A training dataset is a dataset of examples used for learning the ai model desired behaviour.
+
+`•` A validation dataset is a set of examples used to validate the precision and accuracy of the ai model once it has been created.
+
+#### Aggregated and anonymized information
+
+If information is aggregated or de-identified so it is no longer reasonably associated with an identified or identifiable natural person, AudienceProject may use it for any business purpose.
+
+### What information we collect?
+
+AudienceProject collect and store different types of data depending on which product or service you interact with. Our clients can utilize AudienceProject services to gather information in three different ways:
+
+`1.` Active User Data collection
+
+`2.` Passive User Data collection
+
+`3.` Third party provided data
+
+  
+We will walk through the different services and information being collected:
+
+#### Active User Data collection
+
+Surveys. AudienceProject collects and stores the data from answers to the questionnaire of every person who participates in a survey. This information cannot, in and of itself, be used to identify individual respondents by name and/or address, but it can be linked to specific browsers or applications (the device from which the survey is completed) by using cookies, local storage or mobile advertiser ids.
+
+Feedback forum. AudienceProject collects and stores the data from comments and ideas provided by every person who decides to use the feedback forum. This information provided in the feedback forum can be used to identify individual users by the provided name and/or e-mail address. And it can be linked to specific browsers or applications (the device from which the feedback is given) by using cookies, local storage or mobile advertiser ids.
+
+Newsletter signups. AudienceProject assist our clients in generating newsletter signups. If you chose to sign up to a newsletter through a AudienceProject hosted survey, we will (with your permission) provide the client with you e-mail address, gender, age and zip-code.
+
+#### Passive User Data collection
+
+We collect different types of statistics passively:
+
+`•` we collects information about which online content you visit.
+
+`•` we collects information about which online content appears in-view.
+
+`•` we collects and store information about the time spend consuming different types of online content.
+
+  
+This information cannot, in and of itself, be used to identify individual respondents by name and/or address, but it can be linked to specific browsers or applications (the device from which the survey is completed) by using anonymised ids stored in cookies, local storage or through the use of mobile advertiser ids.
+
+#### Third party provided data
+
+From time to time our clients might provide us with event information or customer derived information through their analytics tools installed on the website or in-app. Such event data could originate from CRM-systems, sales-tools, ad-servers, analytics tools etc.
+
+### How we collect information?
+
+Information is collected through the use of surveys, our feedback forum, cookies and identifiers (device identification id), javascript, images and pixel tags. 
+
+Each of the above generates log files, which contains date/time stamps, IP addresses, device type, browser type, operating system, ISP referring/exit pages, Device identification ID and/or advertising ID, local shared objects and event/clickstream data.
+
+Active user data collection collects data through questionnaires and surveys that can be distributed through websites, apps or email (if a permission exists).
+
+The information collected through our services is furthermore enriched in order to generate additional meta-data which contains GeoIP, Human Robot prob, Human Frequency, Household Frequency
+
+#### Information type definitions:
+
+Internet Protocol ("IP") address, which is a unique string of numbers automatically assigned to your device whenever you access the Internet
+
+Tracking scripts which are electronic files that allow a website to count users who have visited that page or to access certain cookies
+
+Tracking Pixels, also known as clear GIFs, beacons, spotlight tags , are a method for passing information from the user's computer to a third party website
+
+Local Shared Objects, such as Flash cookies, and Local Storage, such as HTML5
+
+Device identification ("ID"), which is a distinctive number associated with a smartphone or similar handheld device, but is different than a hardware serial number
+
+Advertising ID, which is a unique, user-resettable identification number for advertising associated with a device (e.g. iOS uses the Identifier for Advertising (or "IDFA") and Android uses Google Advertising ID)
+
+GeoIP, Approximate physical location (for example, at the country, city or zip code level) of a user's computer or device derived from the IP address of such computer or device;
+
+HumanRobot, a probabilistic classification of the probability of a website visitor to be a real human versus a script/online robot created with the sole purpose of creating false traffic.
+
+Human Freq, the number of times a person visited a piece of online content. Most web analytics solutions only report device frequency. We estimate the human frequency.
+
+Household Freq, the number of times a person from the same household visited a piece of online content. Most web analytics solutions only report device frequency. We estimate the household frequency.
+
+### Why we use cookies and mobile advertiser ids?
+
+A cookie is a small text file that is sent to your computer via your web browser when you visit some websites. Think of a cookie as an ID-card that is unique for any given browser. The job of the cookie is to notify the website when you return to it. Usually,the purpose is to allow the website to remember something about your device at a later time.
+
+Cookies should not be confused with viruses or programs that can be executed on your computer. Cookies are by themselves not malicious. They are just text-files that allow a website to store a limited amount of text.
+
+Most Websites use cookies. Cookies can tell the website how often you visit specific web-pages, which in turn helps newspapers, etc. to determine what kind of information you find interesting.
+
+Cookies are also used in many online shopping systems to keep track of the items you have put in the virtual shopping cart.
+
+The number of times you visited a website
+
+Also, have you ever wondered how YouTube can remember the volume-setting on the video-player every time you return to watch more videos? Cookies are doing the magic.
+
+Have you ever been offered the option to have a website remember your username and maybe also your password, so that you don’t have to login every time you return? Again, the answer is cookies.
+
+Cookies and device ids allows us to tie information to a specific device. Without cookies or mobile advertiser id’s, the online shopping system could not decide which item was put in which shopping basket? If 20 page views was generated by 20 devices or one device? If the volume setting on the video should be muted for one device or for all devices?
+
+AudienceProject use several types of cookies depending on the device and operating system in question, since different systems require different types of cookies. 
+
+We have had complaints in the past about survey-invitations that keep popping up even after users had opted not to participate in the survey. In most cases the problem was related to software that kept wiping the browser cookies off the user’s computer. Without the cookie – we cannot register rejections or users that already have participated. To handle this problem, we are also using local storage which allows us to maintain your quarantine status. When you decide not to participate in a survey – we want to respect that wish.
+
+Mobile devices like smartphones and tables will usually use either browser cookies, local storage or mobile advertiser id, while desktop computer often use browser cookies and/or local storage for storing user-ids.
+
+Which domains are used for cookies? Userreport.com and associated sub-domains like tag.userreport.com, *.userreport.com or ics.userreport.com
+
+### What information we give to third parties?
+
+We may share information with third parties, including, but not limited to, companies that buy our market research services: Log Data collected on any websites tagged with AudienceProject tags, as well as aggregated, anonymised, information resulting from the analysis of such log data for a variety of media- and market research purposes.
+
+In addition, we may make use of the respondent´s consentingly elicited background information in combination with the submitted email address and browser history to initiate market research surveys. The information is used to target surveys to, for instance, specific age or gender groups.
+
+We may make use of the browser-data collected to build profiles of users containing non-personally identifiable information publicly and we may also share it with our partners – like publishers, advertisers (who may use this information to show you targeted advertisements) or connected sites. We will not make use of the information actually submitted in survey responses for targeting purposes.
+
+Service Providers. We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform services related to administration of the Services (including, without limitation, maintenance, hosting and database management services, and administration). These third parties have access to your Personally Identifiable Information and Log Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+If sharing of data is in (our best judgment) deemed necessary to comply with relevant laws and law Enforcement. AudienceProject cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We disclose information and log data to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of UserReport or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or pose a risk of being, illegal or legally actionable
+
+AudienceProject may sell, transfer or otherwise share some or all of its assets, including information and log data, in connection with a merger, acquisition, reorganisation or sale of assets or in the event of bankruptcy. You and any other user will have the opportunity to opt out of any such transfer if the new entity´s planned processing of your information differs materially from that set forth in this Privacy Policy.
+
+### How you can change or control what is collected?
+
+You can manage the types of data AudienceProject collects, get help to delete your device-ids or contact us to hear more through our privacy portal. Follow the link below to see your options:
+
+<http://privacy.audienceproject.com/>
+
+### How this Privacy Policy can change?
+
+We may change this Privacy Policy from time to time, and all changes will be effective at the time we post them. If we believe there is a significant change to this Privacy Policy or our data collection and use practices, we will indicate on our websites that our Privacy Policy has changed prior to the change becoming effective. The then-posted version of the Privacy Policy supersedes all prior versions. Your continued access to or use of any of the Services shall be deemed your acceptance of the Privacy Policy.
+
+We urge you to come back to this web page and review this Privacy Policy regularly so that you remain aware of the terms and conditions that apply to you.
+
+### Other useful information regarding your privacy
+
+#### Privacy by design
+
+At no point does the analytics- or ad tech industry need to know who you really are. Analytics or Ad tech does not need to know what your real name is, what your parents real names are, your actual street address or any other piece of information that identifies you as you to another human being. 
+
+Analytics and Ad tech is powered by algorithms and these algorithms operate in an abstract space where your true identity is not important. Most ad tech knows you by a random number that was assigned to you. All your interests are also represented by random numbers. The place you live yet another. Ad tech algorithms only care about the relationships between these numbers, not what the numbers actually represent in the real world.
+
+Here is how it works:  You get assigned a random number, e.g. 123, to represent you. Then, analytics and ad tech will attempt to link your number, 123, with the numbers of boxes that represent products or services that you might be interested in. For example, a box A could be people who need a vacation and box B could be people who could be tempted to buy a new BMW. Ideally, if you really need a vacation and someone really wants to sell you that vacation, then a connection between 123 and A should be made. 
+
+From analytics and ad tech’s perspective, the number 123 is linked to the box A. The algorithm does not need to use labels like “Alice Anderson” or “Bob Biermann”, because the numbers 1 and 2 will get the job done just fine -- from a mathematical point of view.
+
+At some point your true identity becomes interesting, long after ad tech has left the scene. At some point, somebody (e.g. a human being or a robot) might need to print your real name and street address on a card box box, put the product you ordered inside and ship it via DHL. Up until that exact point, your name, street address or any other personally identifiable information is utterly unimportant to anybody. Nobody cares and no advertisement algorithm needs to know. 
+
+AudienceProject’s entire platform have been design around this principle. Devices and people are assigned randomized numbers, we don’t collect or store personal identifiers unless there is clear consent and a clear purpose with such a data collection. Data is anonymized per default by our systems.
+
+#### Data Retention
+
+The time period for which we keep information varies according to the information's use. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we plan to retain it for no longer than is necessary to fulfill a legitimate business need.
+
+#### Children
+
+The Services are not intended for use by children, especially those under 13. No one under age 13 should provide any Personal Information through surveys or use our feedback forums. If it is discovered that we have collected Personal Information from someone under 13, we will delete that information immediately.
+
+#### Where and how is data from the services stored?
+
+The AudienceProject systems are designed and built with data protection as one of the key considerations. Our data is stored by leading third-party database providers and cannot be accessed by any other person or system. Moreover, AudienceProject employees who access the data to provide services for clients or for system-development purposes has been suitably briefed on what constitutes the acceptable treatment of data.
+
+You can read more about our Organisational and Technical safeguards <http://gdpr.audienceproject.com/>
+
+### How you can contact AudienceProject?
+
+If you have any questions or concerns about this privacy policy? or our treatment of your personal data? Please write to us by emailing [privacy@audienceproject.com](mailto:privacy@audienceproject.com) or by post to:
+
+AudienceProject Aps  
+Ryesgade 3F, 3 floor  
+2200 Copenhagen  
+Denmark
+
+Version 1.1
