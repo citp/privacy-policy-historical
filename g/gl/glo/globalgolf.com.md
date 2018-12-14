@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgolf.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231901id_/https%3A//www.globalgolf.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgolf.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215002408id_/https%3A//www.globalgolf.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at GlobalGolf.com
 
@@ -87,14 +87,15 @@ USA
 
 **Customer Service Center Hours**  
 Monday - Friday: 9AM - 7PM EST  
-Saturday 10AM - 5PM EST
+Saturday 10AM - 5PM EST  
+Sunday 1PM - 5PM EST
 
 **Telephone**  
-866-843-0262 / U.S.  
+866-843-0262/ U.S.   
 001-919-719-7950 / International
 
 **Fax**  
-919-719-7958 / U.S.  
+919-719-7958   
 001-919-719-7958 / International
 
 **Email**  
