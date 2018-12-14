@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genapsys.com privacy policy that was archived on 2017-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170112203403id_/http%3A//www.genapsys.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genapsys.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214151206id_/http%3A//www.genapsys.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Genapsys: Home
 
