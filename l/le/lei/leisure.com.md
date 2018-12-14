@@ -1,88 +1,70 @@
-> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610083910id_/http%3A//www.leisure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214134832id_/http%3A//www.leisure.com/privacy) for the most accurate reproduction.*
 
-# Leisure | Privacy Policy
+# Privacy Policy | Leisure.com
 
-Last updated: Jan 1st, 2016
+Thank you for visiting Leisure, Inc.'s ("Leisure") Internet web site ("Site") located at the URL leisure.com. This Privacy Policy details certain policies implemented throughout Leisure governing Leisure's use of personally identifiable information about users of our Site and users of our services on this Site ("Services").
 
-Leisure ("us", "we", or "our") operates the www.leisure.com website (the "Service").
+#### Privacy Policy Updates
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+Due to the Internet's rapidly evolving nature, Leisure may need to update this Privacy Policy from time to time. If so, Leisure will post its updated Privacy Policy on our Site located at www.Leisure.com and we may send registered users an email, so you are always aware of what personally identifiable information we may collect and how we may use this information. If any modification is unacceptable to you, you shall cease using this Site and the Services. If you do not cease using this Site and the Services, you will be deemed to have accepted the change.
 
-We will not use or share your information with anyone except as described in this Privacy Policy.
+#### Information Collection
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.leisure.com
+You can generally visit our Site without revealing any personally identifiable information about yourself. However, in certain sections of this Site and when you use our Services, we may invite you contact us with questions or comments or request information and complete a registration form or submit trip requests and/or trip plans. Due to the nature of some of these activities, we may collect personally identifiable information such as your name, e-mail address, physical address, telephone numbers, login ID, password and other contact information that you voluntarily transmit with your emails or other communications to us.
 
-**Information Collection And Use**
+#### Information Use
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name ("Personal Information").
+**We may use your personally identifiable information for the following purposes:**
 
-**Log Data**
+  * __Registering you to use our Services;
+  * __Providing you with notices regarding goods or Services that you have purchased or may wish to purchase in the future;
+  * __Contacting you to deliver certain Services or information you have requested;
+  * __Providing you with targeted advertising;
+  * __Ensuring the technical functioning of our network;
+  * __Protecting your account from unauthorized access and verifying your authority to enter the Site;
+  * __Developing new services and improving the content and general administration of the Site and our Services; and
+  * __Improving the quality and design of the Site and Services to create new features, promotions, functionality, and Services by storing, tracking, and analyzing user preferences and trends
 
-We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-**Cookies**
+In addition, when you send email or other communications to Leisure, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services.
 
-Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
+If you opted to receive communications from Leisure such as promotional e-mails and newsletters when you registered to use the Site and the Services but subsequently wish to cease receiving communications, we encourage you to indicate your preference to unsubscribe or opt out from receiving such communications by updating your account in accordance with the Updating, Correcting and Deleting Personally Identifiable Information section below.
 
-We use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+#### Trip Requests and Trip Plans
 
-**Do Not Track Disclosure**
+The Site is a business-to-consumer travel site that facilitates relationships between travel companies ("Travel Companies") and potential consumers who want to purchase travel services ("Travelers"). A Traveler submits information to the Site about travel services that the Traveler is interested in purchasing (each, a "Trip Request"), to which a Travel Company can submit a proposal to such Traveler ("Trip Plan"). Other Site users can see the content of a Trip Request, however, only Travel Companies can see the username of the Traveler associated with such Trip Request. Profile Pages, Photos, Message Boards, Feedback, Ratings, Comments, and Public Forums  
+As part of your account, you may create a profile page and upload photos and post travel logs. Any personal information or content that you voluntarily disclose online (in feedback, ratings and comments, etc.) becomes publicly available and can be collected and used by others.  
+Your username (not your email address) is displayed on the Site to other Site users when you upload photos, post feedback and/or comments or send messages through this Site. Therefore, if you associate your name with your username, then Site users to whom you have revealed your name will be able to personally identify you through your activities on the Site.
 
-We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+#### Data Integrity
 
-You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+Leisure processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy. To the extent necessary for such purposes, we review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our Services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
-**Service Providers**
+#### Cookies
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+We may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies generally do not permit us to personally identify you.
 
-These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+#### Aggregate Information
 
-**Communications**
+The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, browser type, IP addresses, External Web Sites (defined below) linked to, and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use.
 
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+#### Disclosure
 
-**Compliance With Laws**
+We may provide your personally identifiable information and the data generated by cookies and the aggregate information to the vendors and service agencies that we may engage to assist us in providing our Services to you. For example, we may provide your personally identifiable information to a Travel Company in order to assist them to submit a Trip Plan in response to your Trip Request. We will also disclose your personally identifiable information (a) if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an investigation of a governmental authority, (b) to enforce the Leisure Terms of Use agreement or to protect our rights or (c) to protect the safety of users of our Site and our Services. We will not sell your personally identifiable information to any company or organization except we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Leisure participates or to a purchaser or acquirer of all or substantially all of Leisure's assets to which this Site relates.
 
-We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+#### Links to Third Party Sites
 
-**Security**
+The Site may provide links to other Web sites or resources over which Leisure does not have control ("External Web Sites"). Such links do not constitute an endorsement by Leisure of those External Web Sites. You acknowledge that Leisure is providing these links to you only as a convenience, and further agree that Leisure is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
 
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+#### Security
 
-**International Transfer**
+We may employ procedural and technological measures that are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Leisure may use firewall protection, password protection, internal restrictions on who in Leisure has access to your personally identifiable information and other security measures to help prevent unauthorized access to your personally identifiable information.
 
-Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+#### Updating, Correcting and Deleting Personally Identifiable Information
 
-If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and processes it there.
+Leisure provides you with the ability to review, correct and update your personally identifiable information that you provide to us by accessing and modifying this information on your profile page or by submitting a request to us by e-mail to: help@Leisure.com.
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+If you have any questions regarding this Privacy Policy please contact us at the email address set forth above.
 
-**Links To Other Sites**
-
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
-
-We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
-**Children's Privacy**
-
-Our Service does not address anyone under the age of 13 ("Children").
-
-We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
-
-**Changes To This Privacy Policy**
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
-
-**Notice Regarding Online Behavioral Advertising**  
-We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice visit the NAI at http://www.networkadvertising.org. To opt-out of this type of advertising, you can visit http://www.aboutads.info/choices.
-
-**Contact Us**
-
-If you have any questions about this Privacy Policy, please contact us.
-
-"We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp."
+Our computer systems are currently based in the United States, so your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with the Site as a visitor from outside the United States, by using the Site you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy.
