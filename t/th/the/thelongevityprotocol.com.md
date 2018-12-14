@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelongevityprotocol.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613233751id_/http%3A//thelongevityprotocol.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelongevityprotocol.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215003804id_/http%3A//thelongevityprotocol.com/privacy.php) for the most accurate reproduction.*
 
 # LCR Health
 
@@ -20,13 +20,13 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [ support@lcrhealth.com](mailto:support@lcrhealth.com) or mailing us at:  
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f4878184849b8680b49897869c919598809cda979b99) or mailing us at:  
 LCR Health 22704 Ventura Blvd #485  
 Woodland Hills, CA 91364, United States
 
 **SECTION 3 - DISCLOSURE**
 
-We may disclose your personal information if we are required by law to do so or if you violate our [Terms of Service.](https://web.archive.org/web/20180613233751id_/http%3A//thelongevityprotocol.com/terms.php)
+We may disclose your personal information if we are required by law to do so or if you violate our [Terms of Service.](https://web.archive.org/web/20181215003804id_/http%3A//thelongevityprotocol.com/terms.php)
 
 **SECTION 4 - E-COMMERCE**
 
@@ -38,7 +38,7 @@ In general, the third-party providers used by us will only collect, use and disc
 
 For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers. In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
 
-As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act. Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s [Terms of Service.](https://web.archive.org/web/20180613233751id_/http%3A//thelongevityprotocol.com/terms.php)
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act. Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s [Terms of Service.](https://web.archive.org/web/20181215003804id_/http%3A//thelongevityprotocol.com/terms.php)
 
 When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
@@ -60,7 +60,7 @@ If our store is acquired or merged with another company, your information may be
 
 **QUESTIONS AND CONTACT INFORMATION**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [support@lcrhealth.com](mailto:support@lcrhealth.com) or by mail at LCR Health
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#45363035352a3731052926372d202429312d6b262a28) or by mail at LCR Health
 
 [Re: Privacy Compliance Officer]
 
