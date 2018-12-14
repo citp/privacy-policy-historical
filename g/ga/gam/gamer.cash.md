@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamer.cash privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608181819id_/http%3A//gamer.cash/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamer.cash privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214234941id_/http%3A//gamer.cash/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,4 +89,4 @@ We may change the Privacy Policy at any time and we will do our utmost in inform
 
 **12.2.** There is no expiry date for the validity of this Privacy Policy.
 
-**12.3.** If there are any questions regarding this Privacy Policy you may contact us by email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#47343237372835330720262a2235692426342f).
+**12.3.** If there are any questions regarding this Privacy Policy you may contact us by email [support@gamer.cash](mailto:support@gamer.cash).
