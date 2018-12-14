@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majorgeeks.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630004330id_/http%3A//www.majorgeeks.com/content/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majorgeeks.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214062803id_/https%3A//www.majorgeeks.com/content/page/privacy.html) for the most accurate reproduction.*
 
 # Privacy - MajorGeeks
 
@@ -48,17 +48,17 @@ Please note that we opt out of personalized ads in countries of the European Eco
 
 MajorGeeks Top Advertising Partners: (for your convenience)
 
-[Google](http://www.google.com/) \- Their [Privacy Policy](http://www.google.com/privacy.html) and [opt-out](http://www.google.com/ads/preferences/view)  
-[Sovrn](http://www.sovrn.com/) \- Their [Privacy Policy](https://www.sovrn.com/privacy-policy/) and [opt-out](https://info.evidon.com/pub_info/2672?v=1&nt=0&nw=false)  
+[Google](https://www.google.com/) \- Their [Privacy Policy](https://www.google.com/privacy.html) and [opt-out](https://www.google.com/ads/preferences/view)  
+[Sovrn](https://www.sovrn.com/) \- Their [Privacy Policy](https://www.sovrn.com/privacy-policy/) and [opt-out](https://info.evidon.com/pub_info/2672?v=1&nt=0&nw=false)  
 [Openads](https://www.openx.com/legal/privacy-policy/) \- Their [Privacy Policy](https://www.openx.com/legal/privacy-policy/) and [opt-out](https://www.openx.com/legal/interest-based-advertising/)  
-[Exponential](http://exponential.com/) \- Their [Privacy Policy](http://exponential.com/privacy/) and [opt-out](http://optout.networkadvertising.org/?c=1#!/)
+[Exponential](https://exponential.com/) \- Their [Privacy Policy](https://exponential.com/privacy/) and [opt-out](https://optout.networkadvertising.org/?c=1#!/)
 
 Affilate Sales
 
-[Avangate](http://www.avangate.com/privacy.php) \- Their [Privacy Policy](http://www.cleverbridge.com/?scope=contact&id=evhd7ETHEs&progress=privacyp)  
-[CleverBridge](http://www.cleverbridge.com/) \- Their [Privacy Policy](http://www.cleverbridge.com/?scope=contact&id=evhd7ETHEs&progress=privacyp)
+[Avangate](https://www.avangate.com/privacy.php) \- Their [Privacy Policy](https://www.cleverbridge.com/?scope=contact&id=evhd7ETHEs&progress=privacyp)  
+[CleverBridge](https://www.cleverbridge.com/) \- Their [Privacy Policy](https://www.cleverbridge.com/?scope=contact&id=evhd7ETHEs&progress=privacyp)
 
-MajorGeeks.com does use other advertising networks and third-party networks, whose privacy policies will always be listed on their respective sites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. Many of these companies belong to the [Network Advertising Initiative](http://www.networkadvertising.org/). They offer a page where you can select which companies you wish to opt-out of behavioral advertising methods for its members. You can find that here.[http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp#).
+MajorGeeks.com does use other advertising networks and third-party networks, whose privacy policies will always be listed on their respective sites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. Many of these companies belong to the [Network Advertising Initiative](https://www.networkadvertising.org/). They offer a page where you can select which companies you wish to opt-out of behavioral advertising methods for its members. You can find that here.[https://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp#).
 
 MajorGeeks.com uses Google Analytics. Google Analytics is software that compiles s data about our visitors. It acts like web server logs, only in a better format with additional information. Google Analytics tracks things like what site you came from, how long you stayed on the website, what country people are from, what pages were viewed and what computer or browser you are using… and much more. However, no personally identifiable data is collected in this way. The data collected helps us understand who our audience is as well as convey the statistics for help sell advertising on the website. You can opt out of Google tracking cookie here <https://policies.google.com/technologies/ads> or you can also use their browser plugin. <https://tools.google.com/dlpage/gaoptout?hl=en>
 
