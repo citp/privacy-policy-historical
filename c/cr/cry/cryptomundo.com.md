@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cryptomundo.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514101339id_/http%3A//cryptomundo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptomundo.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214115012id_/https%3A//cryptomundo.com/privacy-policy) for the most accurate reproduction.*
 
 # Cryptomundo » Privacy Policy
 
-This Privacy Policy covers all of the Cryptomundo LLC (“Cryptomundo”) domains, subdomains, and the servers and networks which power them (“Cryptomundo Site”) and all content, which may be updated by Cryptomundo from time to time. Cryptomundo will provide notice of any change to the Privacy Policy [here](http://cryptomundo.com//privacy-policy/ "Cryptomundo Privacy Policy").
+This Privacy Policy covers all of the Cryptomundo LLC (“Cryptomundo”) domains, subdomains, and the servers and networks which power them (“Cryptomundo Site”) and all content, which may be updated by Cryptomundo from time to time. Cryptomundo will provide notice of any change to the Privacy Policy [here](https://cryptomundo.com//privacy-policy/ "Cryptomundo Privacy Policy").
 
 Please read this statement carefully before accessing the Cryptomundo Site. Your access to the Cryptomundo Site indicates your agreement to abide by the Privacy Policy. If you do not agree to this Privacy Policy, please do not access or use the Cryptomundo Site.
 
@@ -58,13 +58,13 @@ By visiting our web site and providing us with data, you acknowledge and agree t
 
 **Contact Information**
 
-If you have any questions or suggestions regarding our privacy policy, please contact the editor of the Cryptomundo Site in question, or send an email to us using the [contact form](http://cryptomundo.com//contact-us/ "Cryptomundo Contact Form").
+If you have any questions or suggestions regarding our privacy policy, please contact the editor of the Cryptomundo Site in question, or send an email to us using the [contact form](https://cryptomundo.com//contact-us/ "Cryptomundo Contact Form").
 
 Privacy Policy Amendments
 
 **UPDATED PRIVACY POLICY-03/02/2018**
 
-This Privacy Policy governs the manner in which Cryptomundo.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.cryptomundo.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Cryptomundo.com.  
+This Privacy Policy governs the manner in which Cryptomundo.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://cryptomundo.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Cryptomundo.com.  
 **  
 Personal identification information**
 
@@ -124,4 +124,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [here](http://cryptomundo.com//contact-us/ "Cryptomundo Contact Form").
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [here](https://cryptomundo.com//contact-us/ "Cryptomundo Contact Form").
