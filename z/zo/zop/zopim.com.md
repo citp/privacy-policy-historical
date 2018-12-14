@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the zopim.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623215723id_/https%3A//www.zendesk.com/company/customers-partners/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zopim.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214185226id_/https%3A//www.zendesk.com/company/customers-partners/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zendesk
 
-Effective as of June 1, 2018, Zendesk, Inc., (“ **Zendesk** ”) and its subsidiaries, (collectively, the “ **Zendesk Group** ” or “ **we** ” or “ **us** ” or “ **our** ”) have updated our Privacy Policy (“ **Policy** ”). For a prior version of our Privacy Policy, click [here](https://web.archive.org/company/customers-partners/privacy-policy-retro/). 
+Effective as of November 1, 2018, Zendesk, Inc., (“ **Zendesk** ”) and its subsidiaries, (collectively, the “ **Zendesk Group** ” or “ **we** ” or “ **us** ” or “ **our** ”) have updated our Privacy Policy (“ **Policy** ”). For a prior version of our Privacy Policy, click [here](https://web.archive.org/company/customers-partners/privacy-policy-retro/). 
 
 **1\. Introduction**
 
-This Policy details our commitment to protecting the privacy of individuals who visit our Websites (defined below) (“ **Website Visitors** ”), who register to use the products and services which we market for subscription (available at www.zendesk.com (the “Service(s)”, or who attend or register to attend sponsored events or other events at which the Zendesk Group participates (“ **Attendees** ”). For the purposes of this Policy, the term, “Websites”, shall refer collectively to [www.zendesk.com](https://web.archive.org/) as well as the other websites that the Zendesk Group operates and that link to this Policy. 
+This Policy details our commitment to protecting the privacy of individuals who visit our Websites (defined below) (“ **Website Visitors** ”), who register to use the products and services which we market for subscription (available at www.zendesk.com (the **“Service(s)”** , or who attend or register to attend sponsored events or other events at which the Zendesk Group participates ( **“Attendees”** )). For the purposes of this Policy, the term, “Websites”, shall refer collectively to [www.zendesk.com](https://web.archive.org/) as well as the other websites that the Zendesk Group operates and that link to this Policy. This Privacy Policy describes how the Zendesk Group collects, uses, shares and secures the personal information that you provide. It also describes your choices regarding use, access and correction of your personal information. 
 
 **2\. Scope Of This Policy**
 
@@ -25,11 +25,11 @@ Our Websites may contain links to other websites. The information practices and 
 
 _When this Policy does not apply – Service Data:_
 
-With the exception of Account Information (as defined below) and other information we collect in connection with your registration or authentication into our Services, this Policy does not apply to our security and privacy practices in connection with your access to and use of the products and services which we market for subscription on our Websites (our “ **Services** “). These security and privacy practices, including how we protect, collect, and use electronic data, text, messages, communications or other materials submitted to and stored within the Services by You (“ **Service Data** ”), are detailed in and governed by our Master Subscription Agreement, available [here](https://web.archive.org/company/customers-partners/master-subscription-agreement/?cta=msa), or such other applicable agreement between you and any member of the Zendesk Group relating to Your access to and Your use of such Services (collectively referred to as the “ **Service Agreement** ”).
+With the exception of Account Information (as defined below) and other information we collect in connection with your registration or authentication into our Services, this Policy does not apply to our security and privacy practices in connection with your access to and use of the products and services which we market for subscription on our Websites (our “ **Services** “). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. These security and privacy practices, including how we protect, collect, and use electronic data, text, messages, communications or other materials submitted to and stored within the Services by You (“ **Service Data** ”), are detailed in and governed by our Master Subscription Agreement, available [here](https://web.archive.org/company/customers-partners/master-subscription-agreement/?cta=msa), or such other applicable agreement between you and any member of the Zendesk Group relating to Your access to and Your use of such Services (collectively referred to as the “ **Service Agreement** ”).
 
 Subscribers to our Services are solely responsible for establishing policies for and ensuring compliance with all applicable laws and regulations, as well as any and all privacy policies, agreements or other obligations, relating to the collection of personal information in connection with the use of our Services by individuals (also referred to as “data subjects”) with whom our Subscribers interact. If you are an individual who interacts with a Subscriber using our Services, then you will be directed to contact our Subscriber for assistance with any requests or questions relating to your personal information.
 
-We collect information under the direction of our Subscribers, and have no direct relationship with individuals whose personal information we process in connection with our Subscriber’s use of our Services. If you are an individual who interacts with a Subscriber using our Services (such as a customer of one of our Subscribers) and would either like to amend your contact information or no longer wish to be contacted by one of our Subscribers that use our Services, please contact the Subscriber that you interact with directly.
+We collect information under the direction of our Subscribers, and have no direct relationship with individuals whose personal information we process in connection with our Subscriber’s use of our Services. The use of information collected through our Services shall be limited to the purpose of providing the service for which Subscribers have engaged the Zendesk Group. If you are an individual who interacts with a Subscriber using our Services (such as a customer of one of our Subscribers) and would either like to amend your contact information or no longer wish to be contacted by one of our Subscribers that use our Services, please contact the Subscriber that you interact with directly.
 
 **3\. Information That You Provide To Us**
 
@@ -71,7 +71,7 @@ As is true with most websites and services delivered over the Internet, we gathe
 
 _Analytics:_
 
-We collect analytics information when you use the Websites to help us improve them, including through the use of cookies. We may also share anonymous data about your actions on our Websites with third-party service providers of analytics services.
+We collect analytics information when you use the Websites to help us improve them, including through the use of cookies. We may also share non-identifiable data about your actions on our Websites with third-party service providers of analytics services. We also use mobile analytics software to allow us to better understand the functionality of our mobile versions of our Services on your mobile device. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
 
 **5\. Information Collected From Other Sources**
 
@@ -135,15 +135,27 @@ We may also share personal information with third parties when we have your cons
 
 **8\. International Transfer of Personal Information**
 
-_International transfers:_
+We do not share your personal information with third parties, unless it is necessary to carry out your request, for our professional or legitimate business needs, or as required or permitted by law. Where we do transfer your personal information to third parties or service providers, appropriate arrangements will be made in order to ensure correct and secure data processing in compliance with applicable data protection law.
 
-We store personal information about Website Visitors and Subscribers within the EEA, the United States and in other countries and territories. To facilitate our global operations, we may transfer and access such personal information from around the world, including from other countries in which the Zendesk Group has operations.
+We store personal information about Website Visitors and Subscribers within the EEA, the United States and in other countries and territories. To facilitate our global operations, we may transfer and access such personal information from around the world, including from other countries in which the Zendesk Group has operations. Therefore, your personal information may be processed outside of the EEA and in countries which are not subject to an adequacy decision by the European Commission and which may not provide for the same level of data protection as the EEA.
 
-If you are visiting our Websites from the EEA or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal information to the United States and other jurisdictions in which we operate. By providing your personal information, you consent to any transfer and processing in accordance with this Policy.
+In this event, we will ensure that the recipient of your personal information offers an adequate level of protection, for instance by entering into standard contractual clauses for the transfer of data as approved by the European Commission (Art. 46 GDPR), or we will ask you for your prior consent to such international data transfers.
+
+We have implemented safeguards to ensure an adequate level of data protection where your personal information is transferred to countries outside the EEA, such as:
+
+(a) the recipient country has an adequacy decision from the European Commission;
+
+(b) the European Commission’s Standard Contractual Clauses for the transfer of personal information;
+
+(c) Zendesk participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Where a the recipient is located in the United States., it may be a certified member of the EU-US Privacy Shield scheme; or
+
+(d) Zendesk has Binding Corporate Rules in place which guarantee an adequate level of data protection wherever your data is physically kept.
+
+You can obtain more details of the protection given to your personal information when it is transferred outside Europe (including a sample copy of the model contractual clauses) by contacting us using the details set out at clause 15 below.
 
 _Binding Corporate Rules:_
 
-We have adopted Binding Corporate Rules that have been authorised by the EU data protection authorities, and which enable us to transfer personal information lawfully from EEA member states to other Zendesk group companies around the world. More information on (including a copy of) our Binding Corporate Rules is available [here](https://web.archive.org/company/customers-partners/eu-data-protection/), and evidence of our Binding Corporate Rules approval is available on the European Commission’s website [here](https://ec.europa.eu/newsroom/document.cfm?doc_id=46273).
+We have adopted Binding Corporate Rules that have been authorised by the EU data protection authorities, and which enable us to transfer personal information lawfully from EEA member states to other Zendesk group companies around the world. More information on (including a copy of) our Binding Corporate Rules is available [here](https://web.archive.org/company/customers-partners/eu-data-protection/#corporate-rules), and evidence of our Binding Corporate Rules approval is available on the European Commission’s website [here](https://ec.europa.eu/newsroom/document.cfm?doc_id=46273).
 
 _Privacy Shield Frameworks:_
 
@@ -172,7 +184,7 @@ _Data retention_
 
 Where Zendesk is the data controller of personal information (for example, personal information relating to Website Visitors, Attendees and individuals who register to use our Services), then we retain the personal information we collect where we have an ongoing legitimate business need to do so (for example, to provide you with our Services, to enable your participation in an event, and to comply with applicable legal, tax or accounting requirements).
 
-When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+When we have no ongoing legitimate business need to process your personal information, we will either delete or aggregate it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
 If your personal information is processed within a Subscriber’s Service Data, we will process the personal information for as long as we are instructed to do so by the relevant Subscriber that is the data controller of the Subscriber Service Data.
 
@@ -186,11 +198,11 @@ An individual who seeks to exercise their data protection rights in respect of p
 
 _Accessing and updating or deleting your information:_
 
-Our Services and related documentation on our [EU Data Protection site](https://web.archive.org/company/customers-partners/eu-data-protection/) give agent and end-users the ability to access, update and delete certain personal information from within the Service. For example, you can access your agent or end-user profile and make updates to your personal information. Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations.
+Our Services and related documentation on our [EU Data Protection site](https://web.archive.org/company/customers-partners/eu-data-protection/) give agent and end-users the ability to access, update and delete certain personal information from within the Service. For example, you can access your Agent or End-User profile and make updates to your personal information. In cases where we act as the data controller of your personal information, we will provide you with information about whether we hold any of your personal information upon request. We will respond to such requests within a reasonable timeframe. Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations.
 
 _Deactivating your user profile:_
 
-If you no longer wish to use our Services, Zendesk’s Subscriber may be able to deactivate your end-user account. First, please contact Zendesk’s Subscriber with your request. If you are a Zendesk Subscriber and are unable to deactivate an end-user account through your administrator settings, please email [support@zendesk.com](mailto:support@zendesk.com). Please be aware that deactivating your account does not delete your information; your information remains visible to other Service users based on your past participation within the Services. For more information on how to delete your information, visit our our [EU Data Protection site](https://web.archive.org/company/customers-partners/eu-data-protection/).
+If you no longer wish to use our Services, Zendesk’s Subscriber may be able to deactivate your end-user account. First, please contact Zendesk’s Subscriber with your request. If you are a Zendesk Subscriber and are unable to deactivate an end-user account through your administrator settings, please email [support@zendesk.com](mailto:support@zendesk.com). Please be aware that deactivating your account does not delete your information; your information remains visible to other Service users based on your past participation within the Services. For more information on how to delete your information, visit our [EU Data Protection site](https://web.archive.org/company/customers-partners/eu-data-protection/).
 
 _Request that we stop using your information:_
 
@@ -202,7 +214,7 @@ We offer those who provide personal contact information a means to choose how we
 
 _Other data protection rights:_
 
-If you wish to exercise any other data protection rights that are available to you under your local data protection laws (such as the right to data portability or to data restriction) then please send your request to [privacy@zendesk.com](https://web.archive.org/web/20180623215723id_/https://www.zendesk.com/company/customers-partners/privacy-policy/privacy@zendesk.com) and we will action your request in accordance with applicable data protection laws.
+If you wish to exercise any other data protection rights that are available to you under your local data protection laws (such as the right to data portability or to data restriction) then please send your request to [privacy@zendesk.com](https://web.archive.org/web/20181214185226id_/https://www.zendesk.com/company/customers-partners/privacy-policy/privacy@zendesk.com) and we will action your request in accordance with applicable data protection laws.
 
 You have the right to complain to your local data protection authority if you are unhappy with our data protection practices. Contact details for data protection authorities in the European Economic Area are available [here](http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061).
 
