@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50statesclassifieds.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608024043id_/http%3A//www.50statesclassifieds.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50statesclassifieds.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214235739id_/http%3A//www.50statesclassifieds.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # USA Business Classifieds - Online newspaper classified ads Online Business Classifieds
 
@@ -11,25 +11,25 @@ In**](http://www.50statesclassifieds.com/signinform.php)
   
 |   
 ---  
-|  |  | **[Featured](https://web.archive.org/web/20180608024043id_/http%3A//www.50statesclassifieds.com/FeaturedMembers.php)**  
+|  |  | **[Featured](https://web.archive.org/web/20181214235739id_/http%3A//www.50statesclassifieds.com/FeaturedMembers.php)**  
 ---  
   
 [ Attorney  
-](https://web.archive.org/web/20180608024043id_/http%3A//www.50statesclassifieds.com/store.php?id=31011)  
+](https://web.archive.org/web/20181214235739id_/http%3A//www.50statesclassifieds.com/store.php?id=31011)  
   
 |   **Latest Ads**  
 ---  
-| [ WHO ELSE WANTS TO MAKE A $80 SALE All Day, EVERY DAY? ](http://www.50statesclassifieds.com/ad.php?id=199654)  
+| [ ESTATE SALE / Nov 30 & Dec 1 / 8:30am-1:00pm / Haverhill, MA ](http://www.50statesclassifieds.com/ad.php?id=199812)  
 ---  
-[ Top 10 Best Shark Vacuum Cleaners ](http://www.50statesclassifieds.com/ad.php?id=199452)  
-[ Sequin Shorts, Dance Shorts ](http://www.50statesclassifieds.com/ad.php?id=198332)  
-[ Spike Bra, Dance Bra ](http://www.50statesclassifieds.com/ad.php?id=198331)  
-[ Sequin Tube Top / Sequin Skirt ](http://www.50statesclassifieds.com/ad.php?id=198330)  
-[ Fashions, Wedding Jewelry, Floral Arrangements. Health & Beauty Products On Sale! ](http://www.50statesclassifieds.com/ad.php?id=198291)  
-[ Sales Representitive, Mobile APP Platform Sales ](http://www.50statesclassifieds.com/ad.php?id=198204)  
-[ Now Hiring! NJ Area Managers, B2B Sales and Recruiters ](http://www.50statesclassifieds.com/ad.php?id=198122)  
-[ Outdoor Wood Furnace ](http://www.50statesclassifieds.com/ad.php?id=198119)  
-[ Become an Independent Broker for David Allen Capital ](http://www.50statesclassifieds.com/ad.php?id=198010)  
+[ ESTATE SALE / Nov 16 & Nov 17 / 8:30am-1:00pm / Haverhill, MA ](http://www.50statesclassifieds.com/ad.php?id=199801)  
+[ Contents of House Sale / Nov 3 / 8:30am-1:00pm / North Andover, MA ](http://www.50statesclassifieds.com/ad.php?id=199797)  
+[ Upcoming House Sale / Oct 26 & 27 / 8:30am-1:00pm / North Andover, MA ](http://www.50statesclassifieds.com/ad.php?id=199789)  
+[ CASH PAID FOR YOUR DIABETIC TEST STRIPS Get Up To $35 a box ](http://www.50statesclassifieds.com/ad.php?id=199788)  
+[ Michael Kors Women's MK3317 Slim Runway Analog Quartz Black Stainless Steel Watch ](http://www.50statesclassifieds.com/ad.php?id=199769)  
+[ Internet Marketing Business ](http://www.50statesclassifieds.com/ad.php?id=199694)  
+[ WHO ELSE WANTS TO MAKE A $80 SALE All Day, EVERY DAY? ](http://www.50statesclassifieds.com/ad.php?id=199654)  
+[ How to Clean A Leather Handbag ](http://www.50statesclassifieds.com/ad.php?id=199452)  
+[ Pawn Davie Florida ](http://www.50statesclassifieds.com/ad.php?id=197186)  
    
 |  Privacy Policy for 50StatesClassifieds.com  
 ---  
