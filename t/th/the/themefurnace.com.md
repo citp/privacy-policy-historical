@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themefurnace.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407132623id_/https%3A//themefurnace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themefurnace.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214095249id_/http%3A//themefurnace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Theme Furnace
 
