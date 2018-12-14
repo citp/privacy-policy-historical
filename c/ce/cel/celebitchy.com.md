@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebitchy.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630181213id_/http%3A//www.celebitchy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebitchy.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214143346id_/https%3A//www.celebitchy.com/privacy_policy) for the most accurate reproduction.*
 
 # Cele|bitchy | Privacy, Data Protection and Cookie Policy
 
@@ -47,15 +47,11 @@ We use cookies to keep track of advertisements and compile aggregate data about 
 
 These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-Google, Outbrain, and Imonomy, as third party vendors, use cookies to serve ads on our site.
+We use third-party advertising companies, including Google adsense, to serve the ads displayed on our website. These companies may use aggregated information (not including your name, address, email or phone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see [http://optout.networkadvertising.org](http://optout.networkadvertising.org/)
 
 The use of cookies enables them to serve ads to users based on their visits to our site and other sites on the Internet.
 
 Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
-
-Users may opt out of the use of the Outbrain cookie by visiting [their privacy policy](http://www.outbrain.com/legal/privacy-713#Four)
-
-Users may opt out of Imonomy’s cookies through the [Network Advertising Initiative consumer opt-out website.](http://www.networkadvertising.org/choices/)
 
 **Third party links**  
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. 
@@ -70,7 +66,7 @@ By using our site, you consent to our online privacy policy.
 
 **Changes to our Cookie and Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page.  
-This policy was last modified on May 22, 2018 in compliance with GDPR.
+This policy was last modified on October 13, 2018.
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.  
