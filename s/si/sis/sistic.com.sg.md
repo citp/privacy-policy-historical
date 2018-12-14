@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sistic.com.sg privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202065116id_/http%3A//www.sistic.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sistic.com.sg privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214114950id_/http%3A//www.sistic.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,23 +47,25 @@ In relation to your booking for tickets, etickets, vouchers, memberships or pack
 
     8. We use data collection devices such as "cookies" on certain pages of the Site to promote trust and security, help analyse our web page flow and measure promotional effectiveness. "Cookies" are small files placed on your hard drive that assist us in providing our services. We may offer features that are only available through the use of a "cookie". We also use cookies to reduce the number of times you need to enter your password. Cookies can also help us provide to you information that is targeted to your interests. Most cookies are "session cookies", meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies (if your browser permits you to do so), although in that case you may not be able to use certain features on the Site and you may be required to enter your password more frequently during a session on the Site.
 
-  2. ## Marketing opt-in and opt-out provision
+  2. ## Marketing opt-in and opt-out provisions
 
   
 
     1. When you register for a SISTIC account, you may opt-in to receive marketing information via email from: SISTIC, and/or Providers. This information will include the latest news on Services, including shows, events, promotions, contests and/or lucky draws.
 
-    2. If you opt to receive marketing information from SISTIC: 
+    2. If you opt to receive marketing information from SISTIC and its marketing agents:
 
-      1. We will use your email address to inform you about online and offline offers, products, services, and updates and send you our e-newsletters and/or electronic direct marketing materials such as the SISTIC Buzz and SISTIC Buzz Special, which provide information on Services that are jointly promoted by SISTIC. The SISTIC Buzz features multiple Services organised by various Providers, while the SISTIC Buzz Special features one or more Services organised by a single Provider.
+      1. We will use your email address to inform you about online and offline offers, products, services, and updates, and send you our e-newsletters and/or electronic direct marketing materials such as the SISTIC Buzz and SISTIC Buzz Special, which provide information on Services that are jointly promoted by SISTIC. The SISTIC Buzz features multiple Services organised by various Providers, while the SISTIC Buzz Special features one or more Services organised by a single Provider.
+
+We collect your personal data in our own capacity and for our own use, and such use of your personal data by SISTIC shall be governed by the terms of this Privacy Policy. We may also use marketing agents and disclose your email address to our marketing agents for the above purposes.
 
       2. If you change your mind at any time and wish to un-subscribe from SISTIC’s marketing material, you may easily do so via the unsubscription link found on each email, or through our hotline at +65 6348 5555. Alternatively, you may also log into "My Account" at www.sistic.com.sg and opt out directly by editing your email preferences.
 
-    3. If you opt to receive marketing information from a “ **Provider** ”:
+    3. If you opt to receive marketing information from a “ **Provider** ” and its marketing agents:
 
-      1. SISTIC will, as ticketing agent and data intermediary of such Provider, disclose to such Provider, your email address and other personal data relevant to such marketing purpose, and such Provider will be contractually bound to SISTIC to use such personal data within the scope of your consents, and to comply with the provisions of the Personal Data Protection Act (No. 26 of 2012) (“ **PDPA** ”). The Provider will have to contact you for additional consents if it wishes to use your personal data for any other purpose.
+      1. SISTIC will, as ticketing agent and data intermediary of such Provider, disclose to such Provider and/or their marketing agents, your email address and other personal data relevant to such marketing purpose, and such Provider will be contractually bound to SISTIC to use such personal data within the scope of your consents, and to comply with the provisions of the Personal Data Protection Act (No. 26 of 2012) (“ **PDPA** ”). The Provider will have to contact you for additional consents if it wishes to use your personal data for any other purpose.
 
-      2. If you change your mind at any time and wish to un-subscribe from any Provider's marketing material, please contact the Provider to do so. If you wish to obtain the contact particulars of the Provider, you may call our hotline at +65 6348 5555. 
+      2. If you change your mind at any time and wish to un-subscribe from any Provider's marketing material, please contact the Provider to do so. If you wish to obtain the contact particulars of the Provider, you may call our hotline at +65 6348 5555
 
   3. ## Sharing with and Disclosure to Third Parties
 
@@ -89,7 +91,21 @@ In relation to your booking for tickets, etickets, vouchers, memberships or pack
 
   
 
-    1. If you wish to access, update or otherwise change or remove any personal data that you provide for SISTIC’s use, please contact us at: our hotline +65 6348 5555 for assistance. You will also be able to change it directly after logging in under "My Account" at www.sistic.com.sg.
+    1. If you wish to access, update or otherwise change or remove any personal data that you provide for SISTIC’s use, please contact us at: our hotline +65 6348 5555 for assistance. You will also be able to change it directly after logging in under "My Account" at [www.sistic.com.sg](https://www.sistic.com.sg/).
+
+    2. You may also request to receive a copy of any personal data that you have provided to SISTIC for SISTIC’s use, and to transmit such personal data to another organisation of your choosing, where such personal data is processed by SISTIC by automated means, and is based on your consent, or on a contract to which you are a party.
+
+    3. **Objecting to Data Processsing**
+
+    4. You have a right to object at any time to SISTIC’s processing of your personal data where:
+
+      1. such personal data is processed for direct marketing purposes;
+
+      2. such processing is necessary in the national interests; or
+
+      3. such processing is based on your deemed consent
+
+You may contact us at: our hotline +65 6348 5555 for assistance.
 
   6. ## Changes to the Privacy Policy
 
@@ -109,7 +125,9 @@ In relation to your booking for tickets, etickets, vouchers, memberships or pack
 
     1. If you have further questions about this Privacy Policy or wish to contact us regarding our privacy practices and policies, please do not hesitate to contact us at: [dataprotection@sistic.com.sg](mailto:dataprotection@sistic.com.sg). You can also write to us at 10 Eunos Road 8, #03-04, Singapore Post Centre, Singapore 408600.
 
+    2. You may also contact the Personal Data Protection Commission of Singapore via their website at [https://www.pdpc.gov.sg](https://www.pdpc.gov.sg/) to lodge a complaint on personal data protection concerns.
 
 
 
-Updated in July 2016
+
+Updated in July 2018
