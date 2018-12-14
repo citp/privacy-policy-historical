@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prepaidmeters.co.za privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531005150id_/http%3A//prepaidmeters.co.za/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepaidmeters.co.za privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214221119id_/http%3A//prepaidmeters.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Prepaid Meters - Our Privacy Policy
 
@@ -12,4 +12,4 @@ We do not and will not sell or provide personal information to third parties for
 
 We value the information that you choose to provide us and will therefore take reasonable steps to protect your personal information from loss, misuse or unauthorised alteration.
 
-The information we maintain concerning our customers and consumers is stored in databases that have built-in safeguards to ensure the privacy and confidentiality of that information.
+The information we maintain concerning our [customers](http://www.prepaidmeters.co.za/component/seoglossary/6-prepaid-online-vending/customer "<p><span style="font-weight: 400;">Used in reference to the Natural or Juristic person who is considered the owner of the meter. The customer is the person who has the direct relationship with the company and under whose instruction the company acts.</span></p>") and [consumers](http://www.prepaidmeters.co.za/component/seoglossary/6-prepaid-online-vending/consumer "<p><span style="font-weight: 400;">Used in reference to the Natural or Juristic person who is typically required to purchase, load and use utilities. The consumer does not have a direct relationship with the company. The consumer has a direct relationship with our customer and an indirect relationship with the company. The company does not take instruction from the consumer.</span></p>") is stored in databases that have built-in safeguards to ensure the privacy and confidentiality of that information.
