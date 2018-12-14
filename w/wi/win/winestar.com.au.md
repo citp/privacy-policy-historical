@@ -1,24 +1,62 @@
-> *The following text is extracted and transformed from the winestar.com.au privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523091821id_/http%3A//www.winestar.com.au/webcontent26.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winestar.com.au privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214011541id_/https%3A//www.winestar.com.au/privacy_policy) for the most accurate reproduction.*
 
-# WineStar - Privacy
+# Privacy Policy
 
-Protecting your privacy is important to WineStar. We hope the following policy will help you understand how WineStar collects, uses, and safeguards the personal information you provide on our website. 
+  * [Home](https://www.winestar.com.au/)
+  * [Privacy Policy](https://web.archive.org/privacy_policy)
 
-If you browse WineStar, you do so anonymously. We don't collect personal information — including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which parts of our website you visit and how long you spend there. But we do not link your IP address to anything personally identifiable. The only other information automatically provided to us is the type of computer and operating system you are using. Your browser supplies us with this information. 
 
-At times we may request that you voluntarily supply us with your email address, for purposes such as corresponding with us or making a purchase. If you provide us with your email address, we will send you The WineStar Journal on a weekly basis featuring the wines you want at the prices you want - including all the 'hard-to-gets'. We do not share your personal information with other companies under any circumstances - the exception being only the delivery address displayed for the logistical purposes in sending you any purchase made.
 
-WineStar provides customers with an easy means to decline to receive email offers. Although most customers tell us they appreciate receiving notice of these opportunities, we recognize the importance of providing you with choices. At any time, you may request to discontinue receiving these offers from us by simply replying to the email and informing us of your preferences. All email offers that you receive from WineStar will tell you how to decline further email offers. 
+This privacy policy sets out how WineStar uses and protects any information that you give WineStar when you use this website.  
+WineStar is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
+WineStar may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-While WineStar may be viewed by children, we do not solicit data from them. WineStar reinforces Australian Liquor Laws namely:
+**What we collect**
 
-WARNING: Under the Liquor Control Reform Act 1998 it is an offence  
-\- To supply alcohol to a person under the age of 18 years (Penalty exceeds $6,000)  
-\- For a person under the age of 18 years to purchase or receive liquor (Penalty exceeds $500)  
-Website and StarForum content Copyright ©WineStar 2009 (Licence No.: 36114695) 
+We may collect the following information:
 
-WineStar is fully committed to data security. We use Comodo SSL 128bit encryption for all transactions. If at any time you want to know exactly what personal information any part of our web site is holding about you, you may request your details of that information by emailing us at privacy@winestar.com.au . We will endeavour to provide you with the Information within two days. If you want to correct or update your information, please contact us at privacy@winestar.com.au 
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-WineStar supports current industry initiatives, such as the Online Privacy Alliance (www.privacyalliance.org) to preserve individual privacy rights on the Internet and in all aspects of electronic commerce. If you have a question specific to privacy, please contact us at privacy@winestar.com.au. Our privacy policy is subject to change at any time and without notice.
 
- 
+
+**What we do with the information we gather**
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+
+
+**Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.  
+Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.  
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at shop@winestar.com.au
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.  
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
