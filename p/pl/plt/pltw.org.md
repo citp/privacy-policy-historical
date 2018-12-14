@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pltw.org privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703010948id_/https%3A//www.pltw.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pltw.org privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214204957id_/https%3A//www.pltw.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PLTW
+# Empowering PreK-12 Students | PLTW
 
 **Introduction.** This website, including other features, applications, emails, content, downloads, products or services of the website (collectively, the “Site”) has been developed as part of the charitable and educational activities of Project Lead The Way, Inc. (“PLTW”) to assist and support educational institutions in providing students with a quality, effective science, technology engineering and math (“STEM”) curriculum and to promote STEM education. It is the intent of PLTW to comply in all material respects with all applicable privacy laws, and we are strongly committed to respecting and protecting your privacy. Please carefully read this policy before using the Site and providing any information through the Site.
 
