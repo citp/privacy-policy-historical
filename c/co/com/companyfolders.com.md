@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companyfolders.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702055039id_/https%3A//www.companyfolders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companyfolders.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214035344id_/https%3A//www.companyfolders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CompanyFolders.com
 
@@ -65,10 +65,10 @@ We may transfer or otherwise disclose information collected from and about you t
 
 Individual customers who reside in California and have provided their Personal Information to the Company Folders, Inc. may request information about our disclosures of certain categories of Personal Information to third parties for their direct marketing purposes. Such requests must be submitted to us in writing at the address below:
 
-**Customer Service**  
+**Print Project Team**  
  **Company Folders, Inc.**  
- **3297 Orchard Lake Rd, Suite 203**  
- **Keego Harbor, Michigan 48320 USA**
+ **22 West Huron Street, Suite 203**  
+ **Pontiac, MI 48342 USA**
 
 This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
 
@@ -90,7 +90,7 @@ If you do not want to receive e-mails from Company Folders about products and se
 
 ## Deactivate Your Account
 
-You may also request deactivation of your Company Folders account by contacting Customer Service at [info@companyfolders.com](mailto:info@companyfolders.com) or by writing to the address below and requesting account deactivation. Please note that some information may remain in our archived records after your account has been deactivated.
+You may also request deactivation of your Company Folders account by contacting the Print Project Team at [info@companyfolders.com](mailto:info@companyfolders.com) or by writing to the address below and requesting account deactivation. Please note that some information may remain in our archived records after your account has been deactivated.
 
 ## Contact Information and Enforcement
 
@@ -105,18 +105,18 @@ privacy@companyfolders.com
 **Mail:**   
 Regarding: Privacy Policy  
 Company Folders, Inc.  
-3297 Orchard Lake Rd, Suite 203  
-Keego Harbor, Michigan 48320
+22 West Huron Street, Suite 203  
+Pontiac, MI 48342
 
-If a complaint or dispute cannot be resolved through our internal process, Company Folders, Inc. has further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism, The Better Business Bureau (BBB). If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by Company Folders, Inc. you may [click here](http://www.bbb.org/detroit/get-consumer-help/) to go directly to BBB website to file your complaint.
+If a complaint or dispute cannot be resolved through our internal process, Company Folders, Inc. has further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism, The Better Business Bureau (BBB). If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by Company Folders, Inc. you may [click here](https://www.bbb.org/detroit/business-reviews/printers/company-folders-inc-in-pontiac-mi-90011184) to go directly to BBB website to file your complaint.
 
 ## Privacy Policy Changes:
 
 Company Folders, Inc. may revise this Privacy Policy from time to time by posting a revised Privacy Policy on our Website. We reserve the right to modify this Privacy Policy at any time, so please review it frequently.
 
 **Company Folders, Inc.**  
- **3297 Orchard Lake Rd, Suite 203**  
- **Keego Harbor, Michigan 48320 USA**
+ **22 West Huron Street, Suite 203**  
+ **Pontiac, MI 48342  USA**
 
 ## Last Updated:
 
