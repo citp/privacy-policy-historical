@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the datascience.com privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819081431id_/https%3A//www-datascience-com.sandbox.hs-sites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datascience.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214190410id_/https%3A//www.datascience.com/privacy-policy) for the most accurate reproduction.*
 
 # Best Data Science Company | Top Data Science Companies | DataScience.com
+
+DataScience.com has been [acquired](https://www.oracle.com/corporate/acquisitions/datascience/index.html) by [Oracle](https://web.archive.org/oracle) and will soon transition to the Oracle Privacy Policy. Click [here](https://www.oracle.com/legal/privacy/index.html) to view the Oracle Privacy Policy.  Please note that the provisions of DataScience.com's Privacy Policy below will remain active until the policy transition is complete.
 
 Your privacy is very important to us. Accordingly, we have developed this policy in order for you to understand how we collect, use, communicate, disclose, and make use of personal information. The following outlines our privacy policy:
 
