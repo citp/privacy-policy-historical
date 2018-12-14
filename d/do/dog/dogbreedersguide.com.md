@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogbreedersguide.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503004627id_/http%3A//dogbreedersguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogbreedersguide.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214150700id_/http%3A//dogbreedersguide.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Dog Breeders Guide
 
