@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the izuum.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611083112id_/http%3A//izuum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izuum.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214124225id_/http%3A//izuum.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY | (Fixed full size) ZOOM and VIEW Instagram profile picture!
+# PRIVACY | (full hd) VIEW Instagram profile picture!
 
 This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
