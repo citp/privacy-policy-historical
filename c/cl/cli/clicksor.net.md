@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicksor.net privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622001215id_/https%3A//www.clicksor.com/footer-link/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicksor.net privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214012133id_/https%3A//www.clicksor.com/footer-link/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Contextual Advertising and Behavioral Marketing Company
 
@@ -59,3 +59,5 @@ If you wish to exercise any of the above rights, send us an email at privacy@Cli
 **Contacting the Website**
 
 If you have any questions about this privacy statement, the practices of this site, or concerns about this website, please contact: [webmaster@clicksor.com ](mailto:webmaster@clicksor.com)
+
+﻿ 
