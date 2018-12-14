@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeschool-life.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612202702id_/http%3A//www.homeschool-life.com/2311/custom/48094) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschool-life.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214171445id_/http%3A//www.homeschool-life.com/2311/custom/48094) for the most accurate reproduction.*
 
 # Homeschool-Life.com :: Homeschool Group and Co-op Websites | Privacy Policy
 
