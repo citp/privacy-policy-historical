@@ -1,96 +1,239 @@
-> *The following text is extracted and transformed from the brightcove.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224121044id_/https%3A//www.brightcove.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightcove.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214172451id_/https%3A//www.brightcove.com/en/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Brightcove
+# Legal: Website Privacy Policy | Brightcove
 
-[](https://web.archive.org/en/ "Brightcove")
+[](https://privacy.truste.com/privacy-seal/validation?rid=fd477599-b3ca-49bb-bac0-bae021142b1c)
 
-[](https://web.archive.org/en/ "Brightcove")
+LAST UPDATED: May 3, 2018
 
-LAST UPDATED: April 25, 2012
+Brightcove Inc. and its affiliates (“ **Brightcove** ” or “ **we** ”) want you to be familiar with the information we collect about users of our websites, how we use and share that information, and the choices you have regarding the information you provide. This Privacy Policy (“ **Privacy Policy** ”) describes our practices with respect to information collected through our website located at <http://www.brightcove.com/> and other Brightcove websites where this Privacy Policy is made available (“collectively, the “ **Site** ”).
 
-Brightcove Inc. (“ **Brightcove** ”) wants you to be familiar with how we collect, use and disclose Personal Information and Non-Personal Information (each as defined below). This Privacy Policy describes our practices in connection with information that we collect through our website located at[ **www.brightcove.com**](http://www.brightcove.com/), other Brightcove websites where this Privacy Policy is provided and through Brightcove’s online video platform known as the “Brightcove Service” ([www.brightcove.com](http://www.brightcove.com/), Brightcove’s other websites and the Brightcove Service are referred to in this Privacy Policy collectively as the “ **Site** “). This Privacy Policy does not address the collection, use or disclosure of information by any third parties.
+This Privacy Policy does not address information that may be collected through services offered by Brightcove (the “ **Brightcove Services** ”), including those aspects of Brightcove Services that are accessible via this Site, including the Studio, support pages, and documentation. For more information about information collected through Brightcove Services, please see our [Brightcove Services Privacy Policy](https://www.brightcove.com/legal/services-privacy-policy). By using the Site, you agree to this Privacy Policy, the policies referenced in this Privacy Policy, and our [Terms and Conditions](https://www.brightcove.com/en/terms-and-conditions). If you do not agree to this Privacy Policy, the policies referenced in this Privacy Policy and our Terms and Conditions, do not use the Site. If you have any questions about this Privacy Policy, or our privacy practices generally, please contact us at [privacy@brightcove.com](mailto:privacy@brightcove.com).
 
-By using the Site, you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Site. We reserve the right to change this Privacy Policy without prior notice. You can find out when this Privacy Policy was last revised by referring to the “ _Last Updated_ ” legend at the top of this page. Any changes to our Privacy Policy will become effective upon our posting of the revised Privacy Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Privacy Policy then in effect.
+### Contents of the Privacy Policy:
 
-  1. #### What Types of Information Do We Collect from You?
+  * Information We May Collect
+  * How We May Use Your Information
+  * How Your Information May Be Shared
+  * International Data Transfers
+  * Other Important Notices Regarding Our Privacy Practices
+  * User Rights
+  * Additional Notice for Certain European Residents
+  * Additional Notice for Canadian Residents
+  * Privacy Shield Notice
+  * Changes to this Privacy Policy
+  * How to Contact Us
 
- **Personal Information** is information that identifies an individual. In order for you to take advantage of particular opportunities provided through the Site (for example, to receive white papers, participate in certain forums on the Site or sign-up for the Brightcove Service), we may require that you furnish Personal Information. We collect Personal Information from you, such as your name, postal address, telephone number and email address, only when you voluntarily provide it to us. We may also combine Personal Information you provide to us with publicly available information, such as your organization’s name, in the event you provide us with an email address from your organization.
 
- **Non-Personal Information** is aggregated information, demographic information and any other information that does not reveal an individual’s specific identity.
 
-    *  **Environmental Variables.** We may collect certain environmental variables, such as your MAC address, computer type, screen resolution, OS version and browser type and version. These environmental variables are collected by most websites and can be used to optimize your experience on the Site.
-    *  **Cookies.** We and service providers acting on our behalf may set and access cookies on your computer. A cookie is a small text file containing a unique identification number that is transferred from a website to the hard drive of your computer so that the website administrator may identify your computer and passively track its activities on the website. This unique number identifies your web browser to our computer system. Cookies allow us to automatically remember your web browser when you use the Site. The use of cookies is an industry standard, and they are currently used on most major websites. It is possible to adjust your web browser preferences to alert you when a cookie is sent to your hard drive, or to refuse cookies altogether. While we do not require you to use cookies, certain parts of the Site will not function properly if you set your browser to refuse all cookies. To learn more about cookies, please visit[ http://www.allaboutcookies.org/](http://www.allaboutcookies.org/).
-    *  **Web Beacons**. Web beacons, also known as clear GIFs or single-pixel GIFs, are small image files that we, or service providers acting on our behalf, may place in our Web pages, in our advertisements and in our emails. Working in conjunction with cookies, web beacons allow us to accurately count the number of unique users who have visited a specific Site page or section, clicked on one of our advertisements, or opened or acted upon an email. They also tell us the number of times advertisements or pages are displayed. This allows us to measure the performance of our Site, our advertising and our email campaigns.
-    *  **Information That You Provide.** We may also collect Non-Personal Information, such as your interests, geographic location and website address, when you provide it to us. Unless combined with Personal Information, this information does not personally identify you. In addition, we may aggregate Personal Information in a manner such that the end product does not identify you or any other Site user. Such aggregate information is considered Non-Personal Information for purposes of this Privacy Policy.
+* * *
 
- **IP Addresses.** Your Internet Protocol (IP) address is a number that is automatically assigned to the computer you are using by your Internet Service Provider (ISP), and in many cases, IP addresses are shared by multiple people. This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) you visited. Collecting IP addresses is standard practice on the Internet and is done automatically by many websites.
+### Information We May Collect
 
-  2. #### How Does Brightcove Use Information Collected From Me?
+We may collect information from or about you, such as:
 
- **Personal Information.** We may use Personal Information:
+  * Personal information that you voluntarily provide, including name, address, and email address.
+  * Communication preferences.
+  * Unique IDs such as IP address and device IDs.
+  * Site-viewing activity, such as pages visited, videos watched, duration of sessions and search terms.
+  * Referring domain, destination domain and destination path.
+  * Geolocation data.
 
-    * to fulfill your requests, such as to create a Brightcove Service account, send a requested white paper, send online video updates or complete your purchases;
-    * to operate the Brightcove Service, to send you important information regarding the Site and issues specifically affecting the Brightcove Service and your use of the Brightcove Service, including changes to Site terms, conditions and policies. Because this information may be important, you may not opt out of receiving it;
-    * to inform you of products, programs, services and promotions from us and/or our marketing partners that we believe may be of interest to you;
-    * to permit you to share videos uploaded to the Brightcove Service via the “email to a friend” link displayed in certain Brightcove players. If you wish to use this feature, you may be required to provide us, and we may use, your email address and your friend’s email address to facilitate sending the message. By using this functionality, you affirm that you are entitled to use and provide us with the recipient’s name and email address for this purpose. We store your email address and your friend’s email address in our system for a limited time, after which it is deleted from our system. We do not use Personal Information obtained through the “email to a friend” feature for any other purpose other than to enable the email to be sent, unless we disclose such other purpose to you at the time you provide us with the email address;
-    * to permit you to participate in sweepstakes, contests and similar promotions (collectively, “ **Promotions** ”). You should carefully review the rules, if any, of each Promotion in which you participate, as they may contain additional important information about our use of your Personal Information. To the extent that the terms and conditions of such rules concerning the treatment of your Personal Information conflict with this Privacy Policy, the terms and conditions of such other rules shall control; and
-    * for our internal business purposes, such as data analysis, audits, developing new products, enhancing our Site, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns.
 
- **Non-Personal Information.** Because Non-Personal Information does not personally identify you, we may use such information for any purpose, at our sole discretion, unless otherwise noted in this Privacy Policy. In addition, we reserve the right to share Non-Personal Information with affiliates and other third parties, for any purpose. In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your geographical location). If we do combine any Non-Personal Information with Personal Information, we will treat the combined information as Personal Information as long as it is combined.
 
-    *  **Delivery of Online Advertising.** We may use third party ad serving technology to help us deliver ads on the Site or to educate users on ad serving technology. This technology may use information (not including your name, address, email address or telephone number) about your visit to the Site in order to identify and display advertisements that may be of interest to you. In the course of serving these advertisements, a unique cookie may be placed and/or recognized on your browser. If you would like more information about this practice and to know your options about not having this information used to serve ads to you, please[ click here](http://www.doubleclick.com/us/about_doubleclick/privacy/).
-    *  **Third Party Advertisements.** Third parties may display advertisements on the Site or offer you products and services in connection with the Site. Any such party’s use of cookies and other technologies is subject to such party’s own privacy policy. Third parties that are not our service providers do not have access to our cookies.
+To the extent permitted by applicable law, we may also combine information you provide to us, either via our Site or via another means (such as at a trade show) with publicly-available information, such as your organization’s name.
 
- **IP Addresses.** We use IP addresses for purposes such as calculating Site usage levels, helping diagnose server problems and administering the Site. We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information. Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law.
+**Information Collected by Automated Means**. We may collect certain information about you by automated means, such as your MAC address, IP address, computer type, screen resolution, OS version, and browser type and version. This information is collected by most websites and is used to optimize your experience on the Site.
 
-  3. #### How Does Brightcove Disclose Personal Information?
+**Job Applicants** : You may voluntarily provide data about yourself in connection with a job application. Such provision of data is subject to the privacy policy of the third-party platform you use to submit your application. You will have the opportunity to review that privacy policy before providing the data.
 
-We may disclose Personal Information:
+**Cookies and other tracking technologies.** We and our third-party service providers may use cookies or similar technologies to collect information about you, such as personal information, information about the devices you use to access the Site and your interactions with the Site. For more information about the use of cookies on the Site, please review our Cookies Policy.
 
-    * to our affiliates, Brightcove K.K., Brightcove UK Ltd., Brightcove Holdings Inc., Bright Bay Company Ltd. and any future corporate subsidiaries or affiliates, so that they may use such Personal Information for the purposes described in this policy. Brightcove Inc. is the party responsible for the management of the jointly-used Personal Information;
-    * to our third party service providers who need the information to provide us with components of the Brightcove Service and/or such services as website hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service and email delivery services;
-    * to third parties to allow them to contact you regarding products, programs, services and promotions that they believe may be of interest to you;
-    * to third parties where you have requested to use a third party service (including applications) in connection with the Brightcove Service and have requested that we provide information to them;
-    * to identify you to any person to whom you send messages regarding Site-related content through the Site;
-    * to third party sponsors of Promotions (irrespective of whether such Promotions are hosted by us), or otherwise in accordance with the rules applicable to such Promotion. You should carefully review the rules, if any, of each Promotion in which you participate, as they may contain additional important information about a sponsor’s or other third parties’ use of your Personal Information. To the extent that the terms and conditions of such rules concerning the treatment of your Personal Information conflict with this Privacy Policy, the terms and conditions of such other rules shall control;
-    * to third parties who sponsor events with Brightcove (such as Personal Information of attendees of sponsored webinars) to allow them to contact you regarding products, programs, services and promotions that they believe may be of interest to you;
-    * to an affiliate or other third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including, without limitation, in connection with any bankruptcy or similar proceedings); and
-    * as we believe appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to permit us to pursue available remedies or limit the damages that we may sustain.
-  4. #### Use of the Brightcove Service
+We may also use web beacons on our Site and in email communications. Web beacons, also known as clear GIFs or single-pixel GIFs, are small image files that we, or our third-party service providers, place on our Site and in emails. Alongside cookies, web beacons allow us to accurately count the number of unique users who have visited a specific page on the Site, or opened or acted upon an email. This information allows us to measure the performance of our Site and our email campaigns.
 
-The Brightcove Service, which is accessible through the Site, enables customers of Brightcove to upload, manage and publish videos to a customer’s own website or to third party websites. Please note that any information you disclose through videos uploaded via the Brightcove Service may become public information and may be available to visitors to the website where they are posted and to the general public. We urge you to exercise discretion and caution when deciding to disclose Personal Information, or any other sensitive information, via the Brightcove Service. **We are not responsible for the use of any Personal Information you disclose through your use of the Brightcove Service.**
+**Advertising on Third-Party Websites and Ad Networks**. We partner with third parties to manage our advertising on the Site and third-party websites, which may include serving or tracking advertisements on or relating to the Site. Our third-party service providers may use technologies such as cookies to gather information about your activities on the Site and third-party sites in order to provide you advertising based upon your browsing activities and interests. The privacy policies of those third parties will govern your interactions with such third-party websites or ad networks. If you do not want this information used by third parties for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if you are located in the European Union, click [here](http://www.youronlinechoices.eu/)). Following these processes will opt you out of receiving Brightcove ads that are targeted to you. You may, however, continue to receive generic ads that are targeted to the general public.
 
-  5. #### Other Important Notices Regarding Our Privacy Practices
+**Log Files**. As is true of most websites, we gather certain information automatically and store it in log files. This information may include IP addresses, browser type, internet service provider (ISP), referring/exit pages, the files viewed on the Site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data. Your IP address is a number that is automatically assigned to the device you are using by your ISP and, in many cases, IP addresses are shared by multiple people or computers and may be dynamically generated (meaning they change over time). This number is identified and logged automatically in our server log files whenever you use the Site, along with the time(s) of your visit(s) and the page(s) you visited. We may combine this automatically-collected log information with other information we collect from you. We do this to improve the functionality of the Site.
 
- **Payment Processing.** We use a third party payment service (“ **Payment Service”** ) to process credit card payments for certain editions of the Brightcove Service. When you provide credit card information on the Site, that information is sent directly to the Payment Service. Brightcove does not have access to your full credit card number and does not store such information in its own systems. You acknowledge and agree that any Personal Information that you provide in connection with such credit card payments will be transmitted directly to the Payment Service. Information transmitted to the Payment Service is encrypted using SSL software. The Payment Service is required to comply with all applicable privacy and security laws and the rules and regulations issued by the credit card companies, however, **Brightcove is not responsible for the Payment Service’s failure to comply with such laws, rules and/or regulations.**
+**Analytics**. We use third-party analytics provided by Google Analytics. For information on how Google Analytics collects and processes information about you and information on how to opt out from Google’s collection of information from you, please click [here](https://tools.google.com/dlpage/gaoptout).
 
- **Forums and Profiles.** We may make other services available through the Site (for example, message boards, forums, chat functionality, “profile pages” and blogs) to which you are able to post information and materials (collectively referred to as the “Forums”). Please note that any information you disclose through the Forums may be available to visitors to the Site and to the general public. We urge you to exercise discretion and caution when deciding to disclose Personal Information, or any other information, via the Forums. **We are not responsible for the use of any Personal Information you disclose through the Forums.**
+**Do Not Track**. The Site does not recognize a “do not track” setting (or similar mechanism) from your browser to indicate that you do not wish to be tracked or to receive interest-based ads.
 
- **Third Party Sites and Services.** We provide links on this Site as a convenience for our users. We may also inform customers of the Brightcove Service about third party services or applications that can be used in connection with the Brightcove Service, including services from companies associated with Brightcove’s Alliance program (as further described at[ www.brightcove.com](http://www.brightcove.com/)). In addition, customers of the Brightcove Service generally use the Brightcove Service to publish videos on their own, or third party, websites. This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, or of other websites or services operated by third parties. Your activities, including your provision of Personal Information, with any such third parties or such third parties’ websites or services will be governed by the privacy policy of such third parties. The inclusion of a link on the Site does not imply endorsement of the linked website by us or by our affiliates. **We are not responsible for the use of any Personal Information you disclose to third party sites or services.**
+**Security**. The security of personal information that Brightcove collects from Site users is of great importance to Brightcove. We use organizational, technical, and administrative measures to protect personal information under our control. No data transmission over the Internet or data storage system, however, can be guaranteed to be 100% secure. When you submit personal information via a lead form on the Site (such as name, phone number, and email address), we encrypt the transmission of that information. If you have any questions about the security of your personal information, you can contact us at [privacy@brightcove.com](mailto:privacy@brightcove.com).
 
- **Security.** We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. Please do not send us sensitive information through email. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), you must immediately notify us of the problem by contacting us in accordance with the _“Contacting Us”_ section below (note that if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the problem).
+Back to top
 
- **Opt-Out.** If you no longer wish to receive marketing-related emails from us, you may opt out by following the “unsubscribe” instructions in the latest such message you have received or by contacting us at[ privacy@brightcove.com](mailto:privacy@brightcove.com). If you would prefer that we not share Personal Information about you in the future with our affiliates and/or with third parties for such affiliates’ and/or third parties’ marketing purposes, you may opt out from such sharing by contacting us at[ privacy@brightcove.com](mailto:privacy@brightcove.com). Please specify whether you are opting out of receiving messages from us or from sharing with our affiliates and third parties.
+* * *
 
-We will endeavor to comply with your request as soon as reasonably practicable. Please note that if you opt out as described above, we will not be able to remove your Personal Information from the databases of our affiliates or third parties with whom we have already shared your Personal Information. If you wish to cease receiving marketing-related emails from such affiliates or third parties, please contact them directly.
+### How We May Use Your Information
 
- **Changing or Suppressing Personal Information.** If you would like to request to review, correct, update, suppress or otherwise limit our use of your Personal Information that has been previously provided to us, you may contact us by email at[ privacy@brightcove.com](mailto:privacy@brightcove.com). We will respond to your request in accordance with applicable law. For your protection, we will only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. You also may review, correct and update certain information that you provided by logging into your Brightcove Service account and editing your profile information.
+To the extent permitted by applicable law, we may use the information collected about you for the following purposes or in the following ways:
 
-In each event, you must clearly indicate the information that you wish to have changed or suppressed. We will endeavor to comply with your request as soon as reasonably practicable and in compliance with applicable law. We may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed. Finally, we are not responsible for removing or suppressing information from the databases of third parties with whom we have already shared your Personal Information, or limiting their use of your Personal Information. If you wish to change or suppress information provided to an affiliate or third party, please contact them directly.
+  * To communicate with you and to inform you of products, programs and services.
+  * To fulfill your requests and respond to your inquiries, such as to send a requested white paper.
+  * To send you important information regarding the Site, including changes to Site terms, conditions and policies. This information is important, so you may not opt out of receiving it.
+  * To allow you to voluntarily participate in contests, surveys or promotions (collectively, “ **Promotions** ”). If you participate in a Promotion, we may request certain personal information, such as your email address. You should carefully review the rules, if any, of each Promotion, because the rules for each Promotion may contain additional information about our use of personal information that you provide in connection with the Promotion. To the extent that the Promotion’s rules conflict with this Privacy Policy regarding the treatment of personal information, the Promotion’s rules will control.
+  * For our internal business purposes, such as for data analysis (including through automated systems and machine learning), benchmarking, reporting, audits, developing new products, enhancing our Site, improving Brightcove Services, identifying usage trends and determining the effectiveness of our promotional campaigns.
+  * To protect the security and integrity of our Site, and to prevent and to investigate fraud and other misuses.
+  * In an anonymous (or pseudonymous or de-identified), aggregated manner.
+  * In combination with other information, collected online and offline, including information from third-party sources, to help us update, expand and analyze our records, identify prospective customers and provide products and services that may be of interest to you.
+  * To comply with applicable legal or regulatory requirements and our policies, and to protect against criminal activity, claims and other liabilities.
+  * In any other ways, with your consent or as permitted under applicable law.
 
- **Retention Period.** We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is permitted or required by law.
 
- **Note Regarding the Use of the Site by Children:** The Site is not directed to children under the age of thirteen (13), and we request that children not provide Personal Information through the Site. If you become aware that your child has provided us with Personal Information, please contact us in accordance with the _“Contacting Us”_ section below.
 
- **Jurisdiction and Cross-Border Issues.** We do not represent or warrant that the Site, or any part thereof, is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the Site’s availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion. By using the Site and submitting any Personal Information, you consent to the transfer of Personal Information to other countries, such as the United States, which may provide a level of data security different from your country of residence.
+Back to top
 
- **Contacting Us.** If you have any questions regarding this Privacy Policy, please contact us by email at[ privacy@brightcove.com](mailto:privacy@brightcove.com), or please write to the following address:
+* * *
 
-Customer Service/Privacy Policy or General Counsel  
+### How Your Information May Be Shared
+
+To the extent permitted by applicable law, we may share personal information as follows:
+
+  * With any of our current and future corporate subsidiaries and affiliates.
+  * With our third-party service providers, agents, vendors and other third parties we use to support the Site and our business. These parties include, but are not limited to, third parties providing us with services such as website hosting, data analysis, infrastructure provision, IT services, customer service, analytics and email delivery services. These third parties are authorized to use your personal information only as necessary to provide these services to us.
+  * With third parties (including third-party event sponsors) to allow them to contact you regarding products, programs, services and promotions that they believe may be of interest to you.
+  * With third parties for marketing, advertising, Promotions, contests or other similar purposes. If required by applicable law, we will share such data for advertising and marketing purposes only in an aggregate, anonymous and de-identified manner.
+  * With third-party sponsors of Promotions (irrespective of whether such Promotions are hosted by us), or otherwise in accordance with the rules applicable to such Promotion. You should carefully review the rules, if any, of each Promotion in which you participate, because they may contain additional important information about a sponsor’s own information collection practices.
+  * In connection with a corporate transaction, proceeding or reorganization involving the business activities for which the information is maintained. In the event that ownership of Brightcove or its business were to change as a result of a merger, acquisition or transfer to another company, your personal information may be shared. You will be notified via email and/or a prominent notice on our website, of any change in ownership, change in use of your personal information, and choices you may have regarding such change in use of your personal information.
+  * As we believe necessary: under applicable law, including laws outside your country of residence; to comply with any law or directive, judicial or administrative order, legal process or investigation, warrant, subpoena, law enforcement or national security investigation or as otherwise required or authorized by law; to respond to requests from public and government authorities, including outside your country of residence; to enforce our policies, terms and conditions;  to protect our operations or those of any of our affiliates; to protect our rights, privacy, safety, or property, and/or that of our affiliates, you or others; and  to permit us to pursue available remedies or limit the damages that we may sustain.
+
+
+
+**Forums**. We may enable you to post information to certain parts of the Site (collectively, the **“Forums”** ). Please note that any information you disclose through any Forum will be publicly available. We urge you to exercise discretion and caution when deciding to disclose personal information, or any other information, via any Forum. **We are not responsible for the use of any personal information you disclose through any Forum.** To request removal of your personal information from a Forum, contact us at [privacy@brightcove.com](mailto:privacy@brightcove.com). We will let you know if we are not able to remove your personal information.
+
+**Third-Party Sites and the Site**. We provide links to other websites on this Site as a convenience for our users. We may also inform users about third-party services or applications that can be used in connection with Brightcove Services, including services from companies associated with Brightcove’s partners program (as further described on the Site). This Privacy Policy does not cover, and we are not responsible for, the privacy, information or other practices of any third parties, or of other websites, applications or services operated by such third parties. Your activities with, including your provision of personal information to, any such third parties or such third parties’ websites, applications or services will be governed by the privacy policy of such third parties. The inclusion of a link on the Site does not imply endorsement of the linked website by Brightcove. **We are not responsible for the use of any personal information you disclose to or through our customers or partners or third-party sites, applications or services.**
+
+**Social Media Features**.  Our Site includes social media features, such as LinkedIn, Twitter, Facebook, and Google Plus. These features may collect information about you including, for example, your IP address and which pages you visit on our Site, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing the social media feature.
+
+**Cross-Device Tracking**. When you use your mobile device to interact with the Site, we may receive information about your mobile device, including a unique identifier for your device. We and our service providers and third parties we collaborate with, including ad networks, may use cross-device/cross-context tracking. For example, you might use multiple browsers on a single device, or use various devices (such as desktops, smartphones and tablets), which can result in your having multiple accounts or profiles across these various contexts and devices. Cross-device/cross-context technology may be used to connect these various accounts or profiles and the corresponding data from the different contexts and devices.
+
+Back to top
+
+* * *
+
+### International Data Transfers
+
+The Site, and the features and functionality of the Site, may be provided using resources and servers located in various countries around the world, including the United States and other countries. Therefore, personal information about users of the Site may be transferred, processed and stored outside the country where you access the Site, including to countries where the level of data protection may not be deemed adequate by the local legal or regulatory authority in the country of origin of the data. By using the Site, you consent to this transfer. We will protect the privacy and security of personal information we collect in accordance with this Privacy Policy, regardless of where it is processed or stored.
+
+**European Residents** :  If you are a resident of the European Union (the “ **EU** ”), the European Economic Area or Switzerland, please see our Additional Privacy Notice for Certain European Residents and our Privacy Shield Notice below.
+
+Back to top
+
+* * *
+
+### Other Important Notices Regarding Our Privacy Practices
+
+**Opt-Out**. If you no longer wish to receive marketing-related emails from us, or you prefer that we not share personal information about you in the future with our affiliates and/or with third parties, you may opt out by following the “unsubscribe” instructions in the latest such message you have received or by contacting us at [privacy@brightcove.com](mailto:privacy@brightcove.com). Please specify whether you are opting out of receiving messages from us or from us sharing your information with our affiliates and third parties.
+
+We will endeavor to comply with your request as soon as reasonably practicable. If you opt out as described above, we will not be able to remove your personal information from the databases of third parties with whom your personal information has already been shared. If you wish to cease receiving marketing-related emails from such third parties, please contact them directly.
+
+**Retention Period**. To the extent permitted by applicable law, Brightcove will retain personal information about you for the period of time appropriate for us to fulfill the purposes outlined in this Privacy Policy or as necessary to comply with our legal obligations, resolve disputes or enforce our agreements, whichever is longer.
+
+**Use of the Site by Children**. The Site is not directed to children under the age of 16 (who reside in the EU, the European Economic Area or Switzerland) and children under the age of 13 (who reside in the United States). Children under the applicable minimum age should not provide personal information through the Site. If you become aware that a child has provided us with personal information, please contact us at [privacy@brightcove.com](mailto:privacy@brightcove.com).
+
+Back to top
+
+* * *
+
+### User Rights
+
+You may request, and we will provide you with, information about whether we hold any of your personal information. You may request access to, or correction or deletion of your personal information, by contacting us at [privacy@brightcove.com](mailto:privacy@brightcove.com). We will respond to your request within a reasonable timeframe.
+
+Back to top
+
+* * *
+
+### Additional Notice for Certain European Residents
+
+**The following Additional Notice applies only to residents of the European Union, the European Economic Area and Switzerland who visit the Site.**
+
+**Personal Data and Processing**.  For the purposes of this Additional Notice:
+
+“ ** _Personal Data_** ” means any information relating to an identified or identifiable natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of such natural person. 
+
+“ ** _Processing_** ” means any operation or set of operations which is performed on Personal Data or on sets of Personal Data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+
+**Purposes and Legal Bases for Processing Personal Data**. Brightcove processes data for the purposes as set forth in this Privacy Policy, including providing the Site and other services to users as explained in the How We May Use Your Information and How Your Information Is Shared sections.
+
+Our lawful bases for the Processing of Personal Data are: (i) consent and/or (ii) any other applicable lawful bases, such as our legitimate interest in engaging in commerce, offering products and services of value to the users of the Site, preventing fraud, ensuring information and network security, direct marketing and complying with industry practices.
+
+**Compelled Disclosures**.  Brightcove may be required to disclose Personal Data in response to lawful requests by public authorities, including disclosures necessary to meet national security or law enforcement requirements, or pursuant to judicial orders. 
+
+**Additional Rights for European Residents.** As a resident of the EU or a country following substantially-similar legislation regarding the protection of Personal Data, you may have one or more of the following additional rights available to you:
+
+**_Access_**. To request a copy of the Personal Data we have collected about you by contacting us at [privacy@brightcove.com](mailto:privacy@brightcove.com).
+
+**_Rectification & Erasure_**. To request that we correct or delete any Personal Data about you that is incomplete, incorrect, unnecessary or outdated.
+
+**_Objection_**. To object, at any time, to Personal Data about you being Processed for direct marketing purposes.
+
+**_Restriction of Processing_**. To request restriction of Processing of Personal Data about you for certain reasons, such as, if you consider Personal Data about you collected by us to be inaccurate or if you have objected to the Processing in accordance with your rights under Data Protection Laws and Regulations.
+
+**_Data Portability_**. To request and receive the Personal Data we have collected about you in a commonly used and machine-readable form.
+
+**_Right to Withdraw Consent_**. If Personal Data about you is Processed solely based on your consent and not for any other lawful basis, to withdraw your consent at any time, without affecting the lawfulness of our Processing based on such consent before it was withdrawn, including Processing related to existing contracts for Brightcove Services.
+
+**_Right to Lodge a Complaint with a DPA_**. If you believe our Processing of Personal Data about you is inconsistent with the applicable data protection laws, to lodge a complaint with your local supervisory data protection authority (“ **DPA** ”).
+
+To exercise any of the above-listed rights (with the exception of the right to lodge a complaint with a DPA, which you may do directly to a DPA), please contact us at [privacy@brightcove.com](mailto:privacy@brightcove.com). We will process any requests in accordance with applicable law and within a reasonable period of time. We may need to verify your identity before processing your request.
+
+Back to top
+
+* * *
+
+### Additional Notice for Canadian Residents
+
+**Canadian residents may have additional rights under Canadian law. Please see the information provided by the**[ **Office of the Privacy Commissioner of Canada**](https://www.priv.gc.ca/en/about-the-opc/publications/guide_ind/) **for additional details.**
+
+You, and we, confirm that it is our wish that this Privacy Policy and all other related policies be drawn up in English. _Vous reconnaissent avoir exigé la rédaction en anglais du présent document ainsi que tous les documents qui s'y rattachent._
+
+Back to top
+
+* * *
+
+### Privacy Shield Notice
+
+**EU-U.S. and Swiss-U.S. Privacy Shield Notice.**  We have certified our compliance with the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield (collectively, the “ **Privacy Shield Framework** ”) with respect to the Personal Data of users of the Site who are residents of the European Union (“ **EU** ”), European Economic Area (“ **EEA** ”) and Switzerland that we receive and process through the Site. We certify that we adhere to the Privacy Shield Framework principles of notice, choice, onward transfer, security, data integrity, access and enforcement (the “ **Privacy Shield Principles** ”) for Personal Data of users of the Site in the countries participating in the Privacy Shield Framework. We are responsible for the processing of personal data we receive under the Privacy Shield Framework and subsequently transfer to a third party agent, and may be liable for onward transfers in violation of the Privacy Shield Principles. Our certification is available [here](https://www.privacyshield.gov/). We may also process Personal Data relating to individuals in Europe via other compliance mechanisms, including use of the European Union Standard Contractual Clauses.
+
+**Questions and Complaints**.  If you are a resident of a country participating in the Privacy Shield Framework, you may direct any questions or complaints concerning our Privacy Shield compliance to our Privacy Shield and Data Protection Contact listed below. We will work with you to resolve your issue.  
+
+If you have not received timely response to your concern relating to data processed under the Privacy Shield Framework, or we have not addressed your concern satisfactorily, you may contact our U.S.-based dispute resolution provider, at no cost to you, at <https://feedback-form.truste.com/watchdog/request>. If neither Brightcove nor our independent dispute resolution provider resolves your complaint, you may have the right to invoke binding arbitration through the Privacy Shield panel. However, prior to initiating such arbitration, a resident of a country participating in the Privacy Shield Framework must first: (1) contact us and afford us the opportunity to resolve the issue; (2) seek assistance from our designated independent dispute resolution provider; and (3) contact the U.S. Department of Commerce (either directly or through a European DPA) and afford the Department of Commerce time to attempt to resolve the issue. If a resident invokes binding arbitration, each party shall be responsible for its own attorney’s fees. Pursuant to the Privacy Shield Framework, the arbitrator(s) may impose only individual-specific, non-monetary, equitable relief necessary to remedy any violation of the Privacy Shield Principles with respect to the resident.
+
+**U.S. Federal Trade Commission Enforcement**. Brightcove’s commitments under the Privacy Shield Framework are subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
+
+**Privacy** **Shield** **and Data Protection Contact**. Your Privacy Shield and Data Protection Contact for the personal data that we process in connection with the Site is:
+
+Attn: Chief Privacy Officer  
 Brightcove Inc.  
 290 Congress Street  
 Boston, MA 02210  
-Phone: +1 617 500 4947
+Phone: +1 617 500 4947   
+[privacy@brightcove.com](mailto:privacy@brightcove.com)
 
+Please include sufficient information so we can understand and respond to your specific question.
 
+Back to top
 
+* * *
+
+### Changes to this Privacy Policy
+
+We may update this Privacy Policy to reflect changes to our information and privacy practices. If we make any material changes, we will notify you by posting a notice on the Site prior to or simultaneously with the change becoming effective. Your continued use of the Site after any such modification constitutes acceptance of any such modified Privacy Policy. We encourage you to review this page periodically for the latest information on our privacy practices. The date of last revision is shown at the top of this Privacy Policy.
+
+Back to top
+
+* * *
+
+### How to Contact Us
+
+If you have any questions regarding this Privacy Policy, please contact us by email at [privacy@brightcove.com](mailto:privacy@brightcove.com), or call +1 617 500 4947, or write to:
+
+Attn: Privacy Team  
+Brightcove Inc.  
+290 Congress Street  
+Boston, MA 02210
+
+Please be sure to include sufficient information so we can understand and respond to your specific question or request.
+
+Back to top
