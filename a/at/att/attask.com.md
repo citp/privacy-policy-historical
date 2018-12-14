@@ -1,55 +1,75 @@
-> *The following text is extracted and transformed from the attask.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206051629id_/https%3A//www.workfront.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attask.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214200147id_/https%3A//www.workfront.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Workfront
+# Privacy Policy and Privacy Shield Statement | Workfront
 
-### Workfront On-Demand Software Data Security Policy
+Workfront Inc. (“Workfront”) takes the protection of our customer’s privacy seriously. This privacy policy (the “Privacy Policy”) informs you of our policies regarding the collection, use, and disclosure of all personally identifiable information (“Personal Data") and other data that is provided to us through use of each of our websites and mobile applications on which a link to this Privacy Policy is displayed and all products and services made available through those websites, including, without limitation our SaaS offerings (collectively, the “Service”).
 
-Workfront will use commercially reasonable efforts consistent with, and no less rigorous than, best industry practices to ensure that appropriate facility and data security procedures and processes are in place to protect against destruction, corruption, loss or alteration of, unauthorized access to, or interference with, any of the customer’s production and other data, accounts, systems, confidential information or customer data created and generated through the use of the Workfront software.
+### Privacy Shield Compliance
 
-**Data Storage and Isolation.** Workfront will not store the customer’s data on unencrypted portable media such as laptop computers, external hard drives, USB drives, or other portable devices. The customer’s data will be properly isolated from all third party data. At no time will the customer’s data be housed on hardware shared by vendors other than Workfront (e.g. a shared web server used by several companies and maintained by a third party Internet service provider).
+Workfront complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Workfront has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/ In compliance with the Privacy Shield Principles, Workfront commits to resolve complaints about our collection or use of your Personal Data. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Workfront at: privacy@workfront.com Workfront has chosen to cooperate with EU data protection authorities (DPAs) and comply with the information and advice provided to it by an informal panel of DPAs in relation to such unresolved complaints (as further described in the Privacy Shield Principles). Please contact us to be directed to the relevant DPA contacts. As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. Workfront is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
-**Data Access.** Only the customers’ personnel have access to the application level data. Workfront’s system administrators and DBAs have access to raw data only, and, except for access given to Workfront personnel by the customer during the performance of services and support, no other Workfront personnel have access to the customer’s data.
+### Information Collection
 
-**Data Transmission.** Workfront warrants that all transmissions of the customer’s data in the Workfront software will be properly encrypted in accordance with industry standards.
+Personal Data: The following Personal Data may be collected in the course of using the Service or visiting our web sites:
 
-**Vulnerability Testing.** Workfront will perform regularly scheduled vulnerability assessments on the hosted Workfront software, including remediation procedures. Workfront will use application and system logging processes, and these logs will be stored, protected and reviewed on a regular basis.
+  * Family and Given names
+  * Email address
+  * IP Address
+  * Company information, including title and contact information for each user
 
-**Disclosure Requests.** If a third party should request that Workfront disclose a customer’s data pursuant to a subpoena, summons, search warrant, court or governmental order, Workfront will provide the customer with immediate notice and, to the extent permissible by law, a reasonable opportunity to oppose release of the data prior to releasing any such data. If any disclosure is finally directed by a lawful order, Workfront will disclose only so much of the data as is necessary to meet the requirements thereof.
 
-**Safe Harbor.** Workfront complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Workfront has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Workfront’s certification, please visit http://www.export.gov/safeharbor.
 
-Additional information regarding disaster recovery, data backups, and Workfront On-Demand SLAs is available upon request.
+### Personal Data Usage
 
-### Using Workfront Software
+Personal Data could be used for the following purposes:
 
-By using Workfront software you acknowledge your acceptance of these terms of use. Users are not permitted to misuse Workfront software. This includes attempting to access the software or its features outside of the intended methods. Users are to use Workfront software for purposes directly related to their business processes. If it is discovered that Workfront software has been used in violation of standards in use agreements, Workfront may suspend your right to use of the software.
+  * Administer the Service
+  * Personalize the Services for you
+  * Enable your access to and use of the Service
+  * Supply you access to the services that you purchase
+  * Send you statements and invoices
+  * Marketing communications, with an opt-out option for users who wish to exercise their choice to decline to participate in these communications
 
-The user is the owner of and responsible for data input into the Workfront application. These terms do not give a user ownership of all elements of the application. Users must not manipulate, remove, alter or in anyway obscure elements of the service(s) provided by Workfront. This includes pages, branding, application features/functions, etc.
 
-Administrators are responsible for setting and maintaining password policies and access controls in a customer’s environment. If a user is concerned with password security requirements or access rights, the user is to contact their Workfront administrator.
 
-If during use or interaction with the software, a user becomes aware of a security issue, please submit a ticket using our Community page.
+### Data Security
 
-### Other Services
+We take reasonable and appropriate measures to protect Personal Data from loss, misuse and unauthorized access, disclosure, alteration and destruction. These measures are appropriate to the risks involved and the nature of the Personal Data. Although Workfront seeks to protect the privacy of others who use our Service, there is inherent risk in internet based activities so there is no 100% guarantee of absolute security.
 
-**ProofHQ** ​Additional functionality​ is available to users​ of the Workfront platform​ ​that leverage systems and services provided by ProofHQ. Security safeguards and standards supporting the ProofHQ platform may not, in all cases, be equal to those in place on the Workfront platform. Workfront performs annual review to ensure that appropriate data protection measures are in place with all peripheral application providers (including ProofHQ). Details regarding ProofHQ security may be provided upon request.
+### Passively Collected Information
 
-**Workfront DAM** Workfront offers the Workfront DAM software through a partner agreement with WebDAM. While Workfront owns all commitments established through Workfront DAM SLAs, it is WebDAM who provides the systems and infrastructure which make up the Workfront DAM platform. WebDAM has taken measures to secure user data as well as maintain the availability, confidentiality, and integrity of the Workfront DAM service. The following provides details related to Workfront DAM security provided by WebDAM.
+When you interact with us through the Service, we and third parties that provide functionality on the Service, may engage, receive, collect and store certain types of information through automatic data collection tools including cookies, encrypted authentication tokens and similar technology. Such information, which is collected passively using various technologies, may include but is not limited to information about your device, referring/exit pages and URLs and number of clicks. Workfront may store such information itself or such information may be included in databases owned and maintained by Workfront affiliates, agents or third party service providers. The Service may use such information and pool it with other information to track, for example, the total number of visitors to our Service, the number of visitors to each page of our Service, and the domain names of our visitors’ Internet service providers. Such information that we collect will allow Workfront to make decisions on how to provide better products and better services for our users.
 
-### Workfront.com Website Privacy Policy
+### Cookies
 
-Workfront is committed to protecting your privacy and ensuring the security of your information. To prevent unauthorized access or disclosure, to maintain the accuracy of all data and to ensure the appropriate restrictions on use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+In operating the Service, we may use cookies. Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your computer’s hard drive. Like many sites, we use “cookies” to collect some of the information detailed above. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. We may use Google Analytics, a web analytics service provided by Google, Inc. (“Google”) to help us analyze how users use our Service. Google will use this information it collects for the purpose of evaluating your use of our Service, compiling reports on Service activity and providing other related services. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. For more information, please review our [ cookie policy](https://web.archive.org/cookies-policy). 
 
-This site contains information about our company, products and services. It will also feature success stories about partners and customers, the latest Workfront news, schedules for upcoming events, and possible employment opportunities. We’ve structured the Workfront Web site so that, in general, you can visit most pages without identifying yourself or revealing personal information. Registration is required for submitting information to and participating in Workfront’s knowledge base, forum, and blog.
+### Do Not Track
 
-In some circumstances, Workfront may request personal information from you, such your name, e-mail address and company name or telephone number. Examples include on access to product demos and featured documents, registration for select services and training courses, participating in a beta program or joining a user group. Your response to these inquiries is strictly voluntary, although it may be necessary to complete the activity with which the information is associated. Workfront may use this information to customize your experience on our Web site. In addition, Workfront may use this information for other business purposes, such as to alerting you to products and services that can assist you in your business or assisting in order processing. Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your relationship with Workfront.
+We may (and we may allow third party service providers to) use cookies or similar technologies to collect information about your browsing activities over time and across different websites following your use of our Service. Our Service currently does not respond to “Do Not Track” (DNT) signals and operate as described in this Privacy Policy whether or not a DNT signal is received. If we do so in the future, we will describe how we do so in this Privacy Policy.
 
-If you do provide personal information, we will not disclose (share, sell or divulge) it to external organizations unless we have informed you or are required to do so by law. We will maintain this information, as well as your business activities and transactions, according to Workfront’s normal confidentiality standards.
+### Children
 
-Workfront also collects domain information as part of its analysis of the use of this site. This data enables us to become more familiar with customer usage of our site. Workfront uses this information to improve its web-based offerings. This information is collected automatically and requires no action on your part.  
-Workfront’s Web site may contain links to Web pages not created and/or owned by Workfront. We make no guarantees or promises about the information on those web sites and cannot accept responsibility for the actions or inaction of their operators.
+Workfront does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Service without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Workfront, please contact us, and we will delete that information.
 
-### Changes and Contact Information
+### Links to Other Web Sites
 
-If we make material changes to our data security & privacy policy, these changes will be posted to this data security & privacy policy page. You should review this page regularly for updates.  
-If you have comments or questions about our policy, please send them to information@workfront.com.
+This Privacy Policy applies only to the Service. The Service may contain links to other web sites and/or services not operated or controlled by Workfront (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Site do not imply that we endorse or have reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+
+### Personal Data Sharing
+
+There are certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: **Business Transfers:** As we develop our business, we might decide to sell or buy businesses or assets. In connection with any potential or actual corporate sale, merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, dissolution or similar event or transaction, Personal Data may be disclosed to third parties as it may be part of the assets potentially transferred or otherwise relevant to the transaction. **Agents, Consultants and Third Parties:** Like many businesses, Workfront sometimes hires other companies to perform certain business-related functions, including to help us understand and improve the use of our Service. We may share any information we receive with vendors and service providers retained in connection with the operation of our business. With respect to Personal Data that is subject to our Privacy Shield registration, before disclosing Personal Data to a subcontractor or third-party agent, Workfront will obtain assurances from the recipient that it will: (a) use the Personal Data only to assist Workfront in providing the Service; (b) provide at least the same level of protection for Personal Data as required by the Privacy Shield Principles; and (c) notify Workfront if the recipient is no longer able to provide the required protections. Upon notice, Workfront will act promptly to stop and remediate unauthorized processing of Personal Date by a recipient. Workfront will remain liable for onward transfers to its subcontractors and third-party agents. **Legal Requirements:** Workfront may disclose your Personal Data if requested, subpoenaed and/or if we are required to do so by law, regulation, legal process, or by any court of competent jurisdiction or any inquiry or investigation by any governmental, official or regulatory body which is lawfully entitled to require any such disclosure, or otherwise in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Workfront or a third party, (iii) act in urgent circumstances to protect the personal safety of users of the Service or the public, or (iv) protect Workfront against potential legal liability.
+
+### Communications
+
+Workfront may use the Personal Data collected to occasionally provide newsletters, marketing or promotional materials, and other information that is relevant to the users and administrators of our Service. You have the choice to elect not to participate in these communications. An “Opt Out” option is available via link in all email communications.
+
+### Access to Personal Data; Contacting Us
+
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. Upon receipt of verifiable request, we will update or correct Personal Data in our possession that you have previously submitted via the Service. Please also feel free to contact us if you have any questions about our Privacy Policy or the information practices of the Service. You may contact us as follows: privacy@workfront.com
+
+### Changes/Updates
+
+The Service and our business may change from time to time. As a result, at times it may be necessary for Workfront to make changes to this Privacy Policy. We reserve the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your use of the Service after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. 
+
+Effective Date: November 6, 2017
