@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperpkads.pk privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609111105id_/http%3A//paperpkads.pk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperpkads.pk privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214233035id_/http%3A//paperpkads.pk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy of Paperpkads.pk - PaperPk
 
