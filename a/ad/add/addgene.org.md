@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addgene.org privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524135351id_/http%3A//www.addgene.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addgene.org privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214064724id_/http%3A//www.addgene.org/privacy) for the most accurate reproduction.*
 
 # Addgene: Transparency & Privacy Policy
 
@@ -194,7 +194,7 @@ Pursuant to Addgene’s contractual obligations and Document Retention policies,
 
 With regards to Personal Information collected during account creation, users can log into their accounts to update/correct their emails, organization, and reporting preferences. Users can also contact Addgene directly to update/correct any information that they have given to us. However, they are not permitted to affect change to any terms that are used for contractual purposes, without the express authorization of their organization. Similarly, because of the contractual obligations associated with the type of information collected, users can **only** request to deactivate their accounts. Deactivation will prohibit future sharing of materials by the user as well as stop the reports the user receives. Nonetheless, Addgene’s contractual obligations will remain to the respective organizations.
 
-With regards to Personal Information collected for specific purposes, such as our newsletter, ebooks, and blogs, users can opt-out and remove themselves directly from many of these purposes by clicking “unsubscribe” from the respective newsletter, blog update, etc. Alternatively, users can, at any time, contact us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#17757b7870577673737072797239786570) or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#93fbf6ffe3d3f2f7f7f4f6fdf6bdfce1f4) to tell us specifically what things they would like to continue or discontinue. Addgene will also, upon request, provide the user with the information collected in a portable format.
+With regards to Personal Information collected for specific purposes, such as our newsletter, ebooks, and blogs, users can opt-out and remove themselves directly from many of these purposes by clicking “unsubscribe” from the respective newsletter, blog update, etc. Alternatively, users can, at any time, contact us directly at [blog@addgene.org](mailto:blog@addgene.org) or [help@addgene.org](mailto:help@addgene.org) to tell us specifically what things they would like to continue or discontinue. Addgene will also, upon request, provide the user with the information collected in a portable format.
 
 With regards to Technical Information collected via cookies when you visit our website, you are free to remove these cookies at any time by deleting them in your browser as applicable. [ Please click here to learn more about cookies](https://www.aboutcookies.org/), including how to control, disable or delete them.
 
@@ -213,7 +213,7 @@ These third parties’ sites and applications may employ their own cookies in pr
 
 ## Who can users contact if there are concerns regarding their personal information?
 
-If you have any concerns about Addgene’s use of your personal information, please do not hesitate to contact our legal team: Anthony Cova, [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and Krisandra Cuenta, [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any concerns about Addgene’s use of your personal information, please do not hesitate to contact our legal team: Anthony Cova, acova@addgene.org and Krisandra Cuenta, kcuenta@addgene.org.
 
 If you believe that Addgene is not acting in accordance with GDPR, a complaint can be filed with the applicable supervisory authority, the European Data Protection Board, and/or the European Commission.
 
