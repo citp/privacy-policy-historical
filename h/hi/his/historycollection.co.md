@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the historycollection.co privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519104241id_/http%3A//historycollection.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historycollection.co privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214112408id_/https%3A//historycollection.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HistoryCollection.co
+# Privacy Policy | HistoryCollection.co
 
 ## Historycollection.co’s Privacy Policy
 
@@ -22,4 +22,6 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 **E-Mail Policy**
 
-Historycollection.co does not sell, rent, exchange or otherwise disclosed personal e mail information collected on this site. Personal information is collected only with your permission.
+Historycollection.co does not sell, rent, exchange or otherwise disclosed personal e mail information collected on this site. Personal information is collected only with your permission. You can opt out ads here:
+
+<http://optout.networkadvertising.org/?c=1#!/>
