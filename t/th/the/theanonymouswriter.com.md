@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theanonymouswriter.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503204355id_/http%3A//theanonymouswriter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theanonymouswriter.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214110653id_/http%3A//theanonymouswriter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Anonymous Writer
 
