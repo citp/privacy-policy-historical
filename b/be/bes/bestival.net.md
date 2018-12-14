@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestival.net privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602074445id_/http%3A//www.bestival.net/info/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestival.net privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214193802id_/http%3A//www.bestival.net/info/privacy-and-cookies) for the most accurate reproduction.*
 
 # Bestival 2018 : Privacy & Cookies
 
