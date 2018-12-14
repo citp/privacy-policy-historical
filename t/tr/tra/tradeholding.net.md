@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeholding.net privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615124505id_/http%3A//www.tradeholding.net/default.cgi/action/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeholding.net privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214211805id_/http%3A//www.tradeholding.net/default.cgi/action/privacypolicy) for the most accurate reproduction.*
 
 # Company Directory - UK B2b Marketplace - Trade Leads and Product Catalogs
 
