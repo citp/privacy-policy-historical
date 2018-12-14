@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smus.ca privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019014926id_/https%3A//www.smus.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smus.ca privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214120445id_/https%3A//www.smus.ca/privacy) for the most accurate reproduction.*
 
-# Privacy Principles | SMUS Victoria BC
+# Privacy Principles | SMUS Boarding School
 
 ##  Individual Privacy
 
@@ -56,7 +56,7 @@ The Privacy Officer
 St. Michaels University School  
 3400 Richmond Rd  
 Victoria, BC V8P 4P5  
-[michael.murgatroyd@smus.ca](mailto:michael.murgatroyd@smus.ca)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#513c38323930343d7f3c2423363025233e283511223c24227f3230)
 
 Please contact us if you:
 
