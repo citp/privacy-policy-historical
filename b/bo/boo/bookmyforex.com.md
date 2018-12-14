@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bookmyforex.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625093244id_/https%3A//www.bookmyforex.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmyforex.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214110044id_/https%3A//www.bookmyforex.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Bookmyforex
+# BookMyForex
 
-BookMyForex (BMF) respects your privacy as a visitor to our site [www.bookmyforex.com](https://www.bookmyforex.com/) It is important for you to understand what information we collect about you during your visit and what we do with that information. Your visit to this Site is subject to this "Privacy Policy" and our Terms of Use, as may be amended from time to time. 
+BookMyForex respects your privacy as a visitor to our site [www.bookmyforex.com](https://web.archive.org/) It is important for you to understand what information we collect about you during your visit and what we do with that information. Your visit to this Site is subject to this "Privacy Policy" and our Terms of Use, as may be amended from time to time. 
 
 ##  Information Collection and Use 
 
@@ -38,9 +38,9 @@ We may transfer or disclose your sensitive personal information to other third p
 
 We strive to provide you with as many choices and as much control as possible regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: 
 
-You may send us an e-mail message at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to request access to, correct or delete any personal information and sensitive personal information that you have provided to us. 
+You may send us an e-mail message at info@bookmyforex.com to request access to, correct or delete any personal information and sensitive personal information that you have provided to us. 
 
-You may also opt out of the consent so given to us to collect, use, transfer and/or disclose your personal information and/or sensitive personal information and of receiving marketing messages from us by notifying us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You may also opt out of the consent so given to us to collect, use, transfer and/or disclose your personal information and/or sensitive personal information and of receiving marketing messages from us by notifying us at info@bookmyforex.com 
 
 You should review this privacy policy carefully, because if you do not agree with our practices, your ultimate choice is not to use this site. Remember, by using any part of this Site, you accept and agree to our privacy practices. If we update this privacy policy, your continued use of this Site (following the posting of the revised policy) means that you accept and agree to the terms of the revised privacy policy. 
 
@@ -62,4 +62,4 @@ This Site is not intended for minors. We will not knowingly collect information 
 
 ##  Comments and Grievances 
 
-We have taken great measures to ensure that your visit to our Site is a satisfying one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact our grievance officer by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or telephone at 09212219191 
+We have taken great measures to ensure that your visit to our Site is a satisfying one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact our grievance officer by e-mail at info@bookmyforex.com or telephone at 09212219191 
