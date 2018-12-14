@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nybits.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603204205id_/https%3A//www.nybits.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nybits.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214074239id_/https%3A//www.nybits.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy -- NYBits
+# Privacy Policy | NYBits
 
 Gromco, Inc owns and operates the NYBits web site. Gromco considers privacy to be an extremely important issue. We are committed to protecting your personal information. Below is an outline of our policy. 
 
