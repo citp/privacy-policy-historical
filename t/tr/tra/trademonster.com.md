@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trademonster.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191710id_/https%3A//us.etrade.com/l/f/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademonster.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214090425id_/https%3A//us.etrade.com/l/f/privacy-statement) for the most accurate reproduction.*
 
 # E*TRADE Privacy Statement
 
@@ -127,10 +127,10 @@ E*TRADE Financial Corporation
 P.O. Box 484  
 Jersey City, NJ 07303-0484
 
-From within the U.S.: 1-800-ETRADE-1 (1-800-387-2331)  
+From within the U.S.: 800-ETRADE-1 (800-387-2331)  
 From outside the U.S.: 001-800-387-2331
 
-For questions regarding our Privacy Statement, please visit the [Contact Us](https://web.archive.org/contact-us) page on our website or call 1-800-ETRADE-1 (1-800-387-2331).
+For questions regarding our Privacy Statement, please visit the [Contact Us](https://web.archive.org/contact-us) page on our website or call 800-ETRADE-1 (800-387-2331).
 
 © 2002-2017 E*TRADE Financial Corporation. All rights reserved.
 
@@ -173,7 +173,7 @@ information about your creditworthiness | No | We do not share
   
 **To limit our sharing** | 
 
-Call 1-800-ETRADE-1 (1-800-387-2331) - one of our representatives will assist you.
+Call 800-ETRADE-1 (800-387-2331) - one of our representatives will assist you.
 
 **Please note:** If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we may continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.  
   
@@ -181,7 +181,7 @@ Call 1-800-ETRADE-1 (1-800-387-2331) - one of our representatives will assist yo
   
 **Questions?** | 
 
-**Call 1-800-ETRADE-1** (1-800-387-2331)  
+**Call 800-ETRADE-1** (800-387-2331)  
   
 ---|---  
   
@@ -244,4 +244,4 @@ A formal agreement between non-affiliated financial companies that together mark
 
 **CALIFORNIA RESIDENTS:** We do not share your personal information unless applicable law (1) permits us to do so without first obtaining your prior consent, or (2) we first provide you an opportunity to limit this sharing.
 
-**NEVADA RESIDENTS:** Nevada law requires us to disclose that you may elect to be placed on our internal do-not-call list by calling us at 1-800-ETRADE-1 (1-800-387-2331). For further information, contact the Nevada Attorney General’s office at 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101; by phone at 702-486-3132; or by email at [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us).
+**NEVADA RESIDENTS:** Nevada law requires us to disclose that you may elect to be placed on our internal do-not-call list by calling us at 800-ETRADE-1 (800-387-2331). For further information, contact the Nevada Attorney General’s office at 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101; by phone at 702-486-3132; or by email at [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us).
