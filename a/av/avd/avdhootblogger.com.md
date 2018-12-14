@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avdhootblogger.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613095934id_/http%3A//www.avdhootblogger.com/p/esha-upadhyay-owns-and-operates-this.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avdhootblogger.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214195636id_/http%3A//www.avdhootblogger.com/p/esha-upadhyay-owns-and-operates-this.html) for the most accurate reproduction.*
 
 # Privacy Policy | Avdhootblogger is place for Blogger Widgets ,Blogging Tips and SEO Tips
 
