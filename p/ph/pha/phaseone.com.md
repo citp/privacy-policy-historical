@@ -1,83 +1,121 @@
-> *The following text is extracted and transformed from the phaseone.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515060040id_/http%3A//www.phaseone.com/en/FooterMenu/ServiceFooters/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phaseone.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214102932id_/https%3A//www.phaseone.com/en/Legal/Cookie-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Phase One Cookie Policy
 
-Phase One collects information about users and usage in two separate venues: in the Capture One application, and on our websites.
+1.                 Background and purpose
 
-## Capture One 8 
+Phase One (we" / “our” / “us”) use cookies on our website at [www.phaseone.com](http://www.phaseone.com/) and all associated subdomains to improve the websites’ performance and enhance the user experience. By continuing to use the website you agree to our use of cookies.
 
-#### The information Phase One collects
+Website owner contact information:
 
-Capture One collects usage information to help us improve our products. This information is completely anonymous, and do not include any personal information, such as name, email address or customer ID. Information is collected unobtrusively without the user being asked to supply information manually.
+Phase One A/S
 
-The collected information can be grouped in two kinds of information: demographic data and usage behavior. Demographic data is collected automatically and users are invited to participate or not when launching the application.
+Roskildevej 39
 
-Demographic data include:  
+DK-2000 Frederiksberg 
 
+Company registration no.: 17 88 96 99
 
-  * The country where the software is running 
-  * Software application version number 
-  * Platform information such as operating system and graphics card, memory size, Camera ID and Lens Usage
+E-mail: legal@phaseone.com
 
+2.                 Applicability, responsibility and approval
 
+This Cookie Policy applies when we use cookies to collect data, including personal data, from a device which accesses our website or uses our services available through online resources. 
 
-Usage information includes: 
+This Phase One Cookie Policy is updated as required and at least once a year to ensure relevance and topicality. 
 
-  * How often different features are used 
-  * How often different buttons and menu items are clicked 
-  * Execution time for specific operations 
-  * Error reports
+**3.                 ** **What are cookies?** ****
 
+Cookies are data files placed and stored on your computer or mobile device for collection of select use data and are useful as they allow a website to recognize a user's device and history of use.
 
+Some types of cookies are only stored on your device as long as your browser is open, so-called session cookies. Other types of cookies are stored on your device for a longer period of time, so-called persistent cookies. For both types of cookies, the cookie is automatically renewed when you return to a cookie enabled website.
 
-We use the service Telerik Analytics to collect, store and display this information.  
+Cookies deriving from other parties than us may also be placed on your device; so-called third-party cookies. Such cookies may be cookies performing ordinary functions or analysis tools and embedded comments fields. 
 
+We use cookies to analyze how users use our website and to create the most secure and effective website possible for our users. By indicating how and when visitors use the website, cookies aid us in finding out which areas are popular and which areas are not, and how we can improve the user experience. The cookies allow us to improve your experience when using our website and to ensure the site performs as you expect it to. Improvements and updates of the website are based on information supplied by cookies.
 
-#### Use of personal information
+Further, cookies help us to personalize web content and meet the desires of our visitors. Among other things, we use cookies to allow you to choose log-in preferences and to buy products and services in our online store. We use cookies to safeguard your privacy. Our website does not use cookies to collect personal information from your computer that was not initially sent as a cookie. We never store passwords or similarly sensitive data in cookies.  
+~~~~
 
-The information helps us evolve our efforts within software development, such as developing new features, debugging, and general user experience improvements. The information is not shared with third parties.  
+~~4~~ **. **          ****Cookies on phaseone.com****
 
+We use cookies on [https://www.phaseone.com](https://www.phaseone.com/) and all associated phaseone.com subdomains to collect information about your device when your device accesses or uses our services. The cookie, the functionality and the collected information varies. For the time being, the applied cookies collect the information detailed in sections 5 and 6.
 
-#### Data protection  
+**5.                  **********First-party cookies****
 
+We use session cookies, which are deleted when you close your browser. We also use persistent first-party cookies, which are stored between 30 days and up to two years. Both types of cookies register:
 
-Phase One uses the service Telerik Analytics to collect, store and display the collected information (“Data”). Telerik will not review, share, distribute, or reference any Data. Telerik has implemented security measures to help protect against the loss, misuse, and alteration of the Data under our control. Telerik Analytics is hosted in a secure server environment that uses a firewall and other advanced technologies to prevent interference or access from outside intruders. Telerik provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent access that is unauthorized, maintain data accuracy, and ensure the appropriate use of Data.  
- 
-
-## Websites 
-
-#### The information Phase One collects
-
-We will ask you when we need information identifying you ("personal information") and allows us to contact you. Generally this information is requested when you want to purchase our products, when you want to request a product demo, when you register for our newsletter, when you want to download our software, when you have support requests or when you want to be notified on updates and news for your products.
-
-When you register, we may ask you for information such as your name, e-mail address, shipping address, and product information (such as license code, serial number, make and model).
-
-Your IP address is used to help identifying you and your time spent at our sites, and to gather broad demographic information. This allows us to see which parts of our sites users are visiting. We do not link IP addresses to anything personally identifiable.
-
-When a user submits personal information, it is kept on an internal server at Phase One, not accessible from the internet. This limits the risk of any malicious use of your information.
-
-You can change or correct registered information for your Phase One profile online at our website. If you experience problems submitting such changes you can contact Phase One support via our website.  
-If you have registered information with us, about products you use or own, you can modify or delete these registrations online via our website or via the latest Capture One software.
-
-If you choose not to register or provide personal information, you can still use most of our website anonymously. Only the domain name from which you access the internet, the internet address and the date and time you access our websites are logged. Phase One uses this information to analyze trends and to measure the number of visitors to our websites. However you will not be able to access areas or services that require registration.
-
-#### Use of personal information
-
-If you have chosen to receive news from Phase One and its authorized partners, Phase One will share your contact details with such partners. Other than that, Phase One will generally not share your personal information with third parties.
-
-Phase One may use aggregated (not personally identifiable) data collected to inform our sponsors, advertisers and other third parties as to numbers of people who have certain demographic characteristics, and the number of those people who have seen and "clicked" on specific pages or advertisement(s). We may also disclose to such third-parties the overall demographics available regarding who saw and "clicked" on advertisements.
-
-In the event Phase One sells assets (or the assets of a division or subsidiary) to another entity, including without limitation, in the event of bankruptcy or if Phase One (or a division or subsidiary) is acquired by, or merged with, another entity, Phase One may provide to such entity customer and visitor information (both aggregate and personally identifiable) that is related to that part of the business that was sold to or merged with the other entity.
-
-#### Links to other sites
-
-Our website may contain links to other sites. Please be aware that Phase One is not responsible for the privacy practices or the content of such third party websites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware when you leave our site and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours.
-
-#### Use of cookies  
+·       _Log Information:_ we log information about your use of our services, including the type of browser you use, access times, pages viewed, your IP address, acceptance of the cookie policy, and the page you visited before navigating to our website.  
+  
 
 
-Our cookie policy explains what cookies are, how we use them on phaseone.com and what benefits they bring.
+·       _Device information:_ we collect information about the device you use to access our services, including information about the device’s software and hardware, Media Access Control (“MAC”) address and other unique device identifiers, device token, mobile network information, geographic location, and time zone identifying your http requests when using the website.  
+  
 
-[Go to Cookie policy](https://web.archive.org/web/20150515060040id_/http%3A//www.phaseone.com/en/FooterMenu/ServiceFooters/~/link.aspx?_id=44A57BD385F84E2D9633D2C4DDC3CC8F&_z=z)
 
-We reserve the right, at any time and without notice, to add, change, update or modify this Privacy statement, simply by posting such change, update or modification on the website. Any such change, update or modification will be effective immediately upon getting posted.
+·       _Usage information:_ we collect information relating to your use and consumption of our Software and Services, including what software versions and functionality you use, how often you use (click) buttons and menu items, execution times for specific operations, user experienced stability of the Software and Services, exceptions and generated error/crash reports.  
+  
+
+
+·       _Anonymization:_ we use a general purpose platform cookie to maintain an anonymized user session by the server.
+
+6.                 **Third-party cookies**
+
+We collaborate with advertisers, media agencies, and networks who use cookies on our website. The purpose of such cookies is generally to enable the delivery of personalized content by Phase One and to ensure the delivery of targeted online ads on behalf of our collaborative partners. Therefore, the following companies also place session or persistent cookies on www.phaseone.com:
+
+·       **Facebook** places a cookie called Pixel, enabling the website to recognize your browsing information. The cookie enables conversion analytics from Facebook advertising, and allows us to deliver targeted ads on the Facebook platform based on actions you take on our website. Facebook cookies are stored for up to 1 year.   
+  
+
+
+·     **Google Analytics** places session and persistent cookies. The session cookies are deleted when you close the browser. The persistent cookies are stored for up to two years. The cookies are used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session and campaign data for the site’s analytics reports.  
+  
+
+
+·     **Marketo** places a persistent cookie called Munchkin, which is stored for one year. The tracking cookie allows the website to link visitor behavior to the recipient of an email marketing campaign to measure campaign effectiveness. The cookie also stores the general web behavior of a visitor in an anonymized form, which is then linked to a person when they provide personal information via a form.  
+  
+
+
+·     **Visual Website Optimizer** , a product by Wingify, places a persistent cookie which is stored for one year. The tool helps site owners measure the performance of different versions of web pages. This cookie ensures the visitor always sees the same version of a page and is used to track behavior to measure the performance of different page versions.  
+  
+
+
+·     **AddThis** is a social sharing widget, which places a persistent cookie which is stored for 13 months. The widget enables visitors to share content with a range of sharing platforms. The cookie stores an updated page share count.
+
+**7.                  ****Links to other websites** ****
+
+Our website may contain links to other sites. Please be aware that Phase One is not responsible for the privacy practices or the content of such third-party websites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware when you leave our site and to read the Privacy statements of each and every website that you visit, as the privacy policy of those sites may differ from ours. 
+
+8.                 ********How do you delete or disable cookies?****
+
+The browsers of most computers, smartphones and other web-enabled devices are typically set up to accept cookies. You have the option to control the acceptance of cookies yourself and, if you wish, to block them entirely by configuring your Internet browser. Please refer to the documentation for your browser to change your cookie preferences.
+
+The procedure for deleting or disabling cookies on your device depends on the browser you are using.
+
+If you are using a PC, you may delete cookies by using the keyboard shortcut [CTRL]+[SHIFT]+[Delete]
+
+If this procedure is not successful or if you are using a Mac computer, please follow the guidelines via the following links depending on the browser you are using:
+
+·       [Internet Explorer](http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies#ie=ie-8)
+
+·       [Mozilla Firefox](http://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored?redirectlocale=en-US&redirectslug=Deleting+cookies)
+
+·       [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB)
+
+·       [Opera](http://www.opera.com/help/tutorials/security/cookies/)
+
+·       [Safari](http://support.apple.com/kb/HT1677?viewlocale=en_US)
+
+·       [Flash cookies](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+
+All Danish websites are required to inform users about the cookies placed on their device. The information must comply with the “Executive Order on Information and Consent required in case of Storing or Accessing Information in End-user Terminal Equipment", the so-called Cookie Order ( _cookie bekendtgørelsen_ ).
+
+·       [Link to Executive Order](https://www.retsinformation.dk/Forms/R0710.aspx?id=139279)  
+·       [Link to Guidelines](https://www.retsinformation.dk/Forms/R0710.aspx?id=140089)
+
+Please remember that cookies are used to enable and improve certain functions on our website. If you choose to switch certain cookies off, it is likely to affect how our website works.
+
+**9.                  ****Questions** ****
+
+If you have any questions about cookies, please contact us on legal@phaseone.com.
+
+To find out more about how we protect your privacy when using our website, see our [Privacy Policy](https://www.phaseone.com/Legal/Privacy-Policy).
