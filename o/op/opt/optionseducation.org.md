@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optionseducation.org privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426132955id_/https%3A//optionseducation.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionseducation.org privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214114908id_/https%3A//www.optionseducation.org/specialpages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# The Options Industry Council (OIC) - Privacy Policy
 
 The Options Industry Council (OIC) respects your expectations of privacy. This Policy describes the ways in which we use information provided by users of this website and mobile application.
 
@@ -26,7 +26,7 @@ OIC might use information provided to us by a user of this website or mobile app
 
 ## Security and Confidentiality of the Website and Mobile Application
 
-To protect the security the OIC website and mobile application and to ensure that the site remains available to all users, OIC employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage to the website or mobile application. See OIC's [**User Agreement**](https://web.archive.org/user_agreement.html) for additional information.
+To protect the security the OIC website and mobile application and to ensure that the site remains available to all users, OIC employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage to the website or mobile application. See OIC's [User Agreement](https://web.archive.org/specialpages/user-agreement) for additional information.
 
 OIC protects the confidentiality of your personal information by restricting access to personal information to our employees and agents for business purposes only in accordance with this Privacy Policy. All employees and agents are required to safeguard such information. OIC also maintains physical, electronic, and procedural safeguards to guard your personal information.
 
