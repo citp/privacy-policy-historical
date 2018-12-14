@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emultimediatv.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430175458id_/http%3A//www.emultimediatv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emultimediatv.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214140625id_/https%3A//emultimediatv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy-Emultimediatv.com
 
