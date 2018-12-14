@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotesgram.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610071746id_/http%3A//quotesgram.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotesgram.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214171155id_/https%3A//quotesgram.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy. QuotesGram
 
