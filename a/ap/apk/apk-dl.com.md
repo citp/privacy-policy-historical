@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apk-dl.com privacy policy that was archived on 2018-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180227190741id_/https%3A//apk-dl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apk-dl.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214194548id_/https%3A//apk-dl.com/privacy-policy) for the most accurate reproduction.*
 
 # APK-DL Privacy Policy
 
