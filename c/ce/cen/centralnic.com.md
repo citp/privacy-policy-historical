@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centralnic.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624103955id_/https%3A//www.centralnic.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralnic.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214053530id_/https%3A//www.centralnic.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Support | CentralNic
 
@@ -25,7 +25,7 @@ This privacy policy is provided in a layered format so you can click through to 
 
 ## 1\. Important information and who we are
 
-CentralNic Limited is the company that operates the centralnic.com website. CentralNic Limited is a company registered in England & Wales with Registration Number 08576358. CentralNic provides registry services, distribution, and strategic consultancy for new TLDs, ccTLDs and SLDs.
+CentralNic Limited is the company that operates the centralnic.com website. CentralNic Limited is a company registered in England and Wales with Registration Number 04985780. CentralNic provides registry services, distribution, and strategic consultancy for new TLDs, ccTLDs and SLDs.
 
 CentralNic is committed to protecting the privacy of its users our services are developed to ensure your privacy and confidentiality.
 
@@ -35,7 +35,7 @@ This website is not intended for children and we do not knowingly collect data r
 
 We take data security and data privacy seriously. If you have questions or concerns please contact us:
 
-Email: [internal.compliance@centralnic.com](mailto:internal.compliance@centralnic.com)
+Email: [info@centralnic.com](mailto:info@centralnic.com)
 
 Address: Data Privacy Officer, CentralNic Ltd, 35-39 Moorgate, London EC2R 6AR
 
@@ -47,7 +47,7 @@ You have the right to make a complaint at any time to the Information Commission
 
 Third party partners of CentralNic.com and other websites you may access via CentralNic.com have different privacy policies and are not subject to this privacy policy. We do not control these third-party websites and are not responsible for their privacy statements. CentralNic recommends that you read the privacy statement of each such website you visit once you leave our website to find out how they protect your personal information.
 
-If you have any requests concerning your personal information or any queries with regard to these practices please contact us [internal.compliance@centralnic.com](mailto:internal.compliance@centralnic.com).
+If you have any requests concerning your personal information or any queries with regard to these practices please contact us [info@centralnic.com](mailto:info@centralnic.com).
 
   
 
@@ -56,21 +56,20 @@ If you have any requests concerning your personal information or any queries wit
 
 We must collect and process some information about you in order to operate, provide, improve, support and market our services.
 
-The type of information you provide to us and how we use it depends upon how you use our services. For example information you may provide your name email and postal address when you contact us by phone, letter or using the webform contact facility on this website. We collect information you provide when you:
+The type of information you provide to us and how we use it depends upon how you use our services. For example, you may provide your name email and postal address when you contact us by phone, letter or using the web form contact facility on this website. We collect information you provide when you:
 
   * Or a company you represent, enters a contract with us as a registrar or reseller
   * Ask us to contact you in relation to services we provide
   * Subscribe to our newsletters
-  * Order other services or products from us from links on this page to domain names services 
+  * Order other services or products from us or from links on this page to domain names services 
   * Use our Whois Services 
   * Use our webmail contact service for emailing registrants
   * Interact with us on social media platforms such as Linked-in or Twitter
   * Report a problem on our website or contact our support or domain abuse teams
   * Visit our offices 
-  * Respond to survey
+  * Respond to a survey
   * Apply for a job with us or work for us
   * Visit our websites
-  * As a shareholder you may be contacted by our representatives information about the CentralNic Group plc and we may send you annual reports
 
   
 
@@ -91,11 +90,11 @@ Other uses include:
 
 ### Website
 
-When you visit this website, we also collect web site usage information and information about your computer and internet connection, including your computer's IP address, the type and version of browser and operating system you use, your internet domain and, if you arrived at CentralNic.com via a link from another website, the URL of the linking page. This information is used to ensure, as far as is practical, that our site is compatible with the browsers and operating systems used by the majority of our visitors.
+When you visit this website, we also collect web site usage information and information about your computer and internet connection, including your computer's IP address, the type and version of browser and operating system you use, your internet domain and, if you arrived at CentralNic.com via a link from another website, the URL of the linking page. This information is used to ensure, as far as is practical, that our site is compatible with the browsers and operating systems used by most of our visitors.
 
 ### CCTV
 
-We may capture CCTV images of visitors to our offices for security purposes and we currently only use CCTV out of office hours for criminal detection and crime prevention. Notices show where this is in use.
+We may capture CCTV images of visitors to our offices for security purposes. We currently only use CCTV out of office hours for criminal detection and crime prevention. There are notices posted on our premises where CCTV is in use.
 
 ### Telephone
 
@@ -103,7 +102,7 @@ We may monitor or record phone calls for training and quality purposes. We only 
 
 ### Job Applicants and Employees
 
-If you contact us as an applicant for a job, you are required to give us your contact information (name, address, email, and telephone number). Then we may contact you to have you send us your CV. Any personal information is only used for the purpose to evaluate your application and will be treated with the greatest care.
+If you contact us as an applicant for a job, you are required to give us your contact information (name, address, email, and telephone number). Then we may contact you to have you send us your CV. Any personal information is only used to evaluate your application and will be treated with the greatest care.
 
 ### Cookies
 
@@ -154,14 +153,14 @@ Our websites use Hotjar web analytics service. Hotjar may record mouse clicks, m
 
 CentralNic processes personal information only for the purposes it was originally collected and in accordance with this Privacy Policy. CentralNic takes commercially reasonable steps to ensure that the personal data is relevant, reliable for its intended use, accurate, complete, and current for the purposes for which it is used.
 
-It is important that the personal data we hold about you and any company or oganisation you represent is accurate and current. Please keep us informed if your personal data changes. You can update your personal information by logging in to the CentralNic console or contacting your account manager.
+It is important that the personal data we hold about you and any company or organisation you represent is accurate and current. Please keep us informed if your personal data changes. You can update your personal information by logging in to the CentralNic console or contacting your account manager.
 
   
 
 
 ## 4\. Change of Purpose
 
-We will seek your consent prior to using your personal information in a manner incompatible with the purposes we described in our Privacy Policy at the time of collection. You may choose not to provide any personal information to CentralNic. However if you do not disclose necessary information it may not be possible for us to supply the services or comply with applicable laws. 
+We will seek your consent prior to using your personal information in a manner incompatible with the purposes we described in our Privacy Policy at the time of collection. You may choose not to provide any personal information to CentralNic. However, if you do not disclose necessary information it may not be possible for us to supply the services or comply with applicable laws. 
 
   
 
@@ -181,17 +180,13 @@ CentralNic only shares information as described in this Privacy Policy. We requi
 
 To the extent permitted by law, your personal data may be disclosed to the following third parties:
 
-  * We may share your personal information with any member of our group companies affiliated with ourselves or our holding Company CentralNic Group plc
-  * We may share with a third party which contracts with us to provide certain of the services you have been requested.
-  * If we sell or buy any business or assets in which case we may disclose your data to the prospective seller or buyer of such business or assets
-  * If CentralNic or substantially all of its assets are acquired by a third party in which data including personal data associated with registrars for example will form part of the transferred assets or
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or to protect the rights property or safety of CentralNic, or its customers.
-  * We may forward your personal data to third-party payment providers directly involved in the provision of payment services for payment facilities chosen by you to pay for our services, such as a banks, credit card service providers, Paypal and others. This may require the transfer of your personal data to organizations and/or servers located outside the European Union and the European Economic Area.
-  * If applicable, your personal data may be provided to operators of registration database (formerly whois) services and the users of such services if required and such provision and use is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, as permitted under Art. 6 I f) of the GDPR.
-  * To ensure business continuity, your personal data may be provided to escrow service providers as well as to backup storage providers.
-  * We may disclose your personal information to law enforcement agencies, to other government and/or civil authorities similarly authorized by applicable laws and regulations and to courts of appropriate jurisdiction if so required by law. To ensure data accuracy and to prevent abusive use of our services, we may use third-party verification service providers to check the data you have provided. To assess our business operations, we may also provide access to your data to our auditors.
-  * For support purposes, we may provide access to your personal data to providers of third-party support services.
+  * Any member of our group companies affiliated with ourselves or our holding Company CentralNic Group plc
+  * Third party service providers we have contracted to provide some of the services you have been requested.
+  * Third-party payment providers directly involved in the provision of payment services for payment facilities chosen by you to pay for our services, such as a banks, credit card service providers, Paypal and others. This may require the transfer of your personal data to organisations and/or servers located outside the European Union and the European Economic Area.
+  * Your personal data may be provided to escrow service providers as well as to backup storage providers to ensure business continuity.
+  * Law enforcement agencies, to other government and/or civil authorities similarly authorised by applicable laws and regulations and to courts of appropriate jurisdiction if so required by law. To ensure data accuracy and to prevent abusive use of our services, we may use third-party verification service providers to check the data you have provided. To assess our business operations, we may also provide access to your data to our auditors.
   * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
+  * If applicable, your personal data may be provided to operators of registration database (formerly whois) services and the users of such services if required and such provision and use is necessary for the purposes of the legitimate interests pursued by them or by a third party.
 
   
 
@@ -228,7 +223,7 @@ If you are employed by CentralNic we will retain such data as required for as lo
 
 To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+In some circumstances, we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
 
   
 
@@ -247,13 +242,13 @@ Under certain circumstances, you have rights under data protection laws in relat
 
 **Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
 
-**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in such limited circumstances as: where you wish to cancel all services and close your accounts; or where you need us to hold the data to establish, exercise or defend legal claims when we would normally delete or anonymise the data.
+**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in such limited circumstances as: where you wish to cancel all services, and close your accounts; or where you need us to hold the data to establish, exercise or defend legal claims when we would normally delete or anonymise the data.
 
 **Request the transfer** of your personal data to you or to a third party. We will allow you to copy your information held by us. If you wish to transfer domain names to another registrar please login and go to the “Manage Transfers” tab on the website.
 
 **Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
-**Automated decision-making** Other than the use of cookies, logs and web beacons, set out above which are automated on the website, we do not use automated profiling or decision making based upon your personal information in providing you with services. We will not contact you solely as a result of visiting our website
+**Automated decision-making** Other than the use of cookies, logs and web beacons, set out above which are automated on the website, we do not use automated profiling or decision making based upon your personal information in providing you with services. We will not contact you solely as a result of visiting our website.
 
 If you wish to exercise any of the rights set out above, please log in to your account or contact us on [info@centralnic.com](mailto:info@centralnic.com)
 
@@ -263,8 +258,8 @@ We may need to request specific information from you to help us confirm your ide
 
 ### Time to respond
 
-We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made several requests. In this case, we will notify you and keep you updated.
 
 ## 11\. Changes to this Privacy Policy
 
-Due to changes in legislation and best practice or enhancements to functionality and content on CentralNic.com we may make changes to our privacy policy and will reflect those changes in this statement, so please check here from time to time. This Privacy statement was last updated on 11 May 2018.
+Due to changes in legislation and best practice or enhancements to functionality and content on CentralNic.com we may make changes to our privacy policy and will reflect those changes in this statement, so please check here from time to time. This Privacy statement was last updated on 11 September 2018.
