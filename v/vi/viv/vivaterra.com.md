@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vivaterra.com privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729162925id_/http%3A//www.vivaterra.com/who-we-are/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaterra.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214220348id_/https%3A//www.vivaterra.com/who-we-are/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VivaTerra
+# Privacy Policy From VivaTerra For Customers | VivaTerra
 
 Last updated: May 27, 2015
 
@@ -16,7 +16,7 @@ VivaTerra, recognizes and respects the importance of maintaining the privacy of 
 
 • the choices you have regarding our use of personal information you have provided.
 
-This Privacy Policy is part of the [Terms of Use](http://www.vivaterra.com/terms), which governs your use of our web site located at www.vivaterra.com.  The Services are owned by VivaTerra International, LLC (the "Company").
+This Privacy Policy is part of the [Terms of Use](https://www.vivaterra.com/terms), which governs your use of our web site located at www.vivaterra.com.  The Services are owned by VivaTerra International, LLC (the "Company").
 
 **Note:** You must be 18 years or older and the age of majority in your place of residence to use, subscribe or register as a member of VivaTerra (or 21 years or older in the event that you place a request for transmission of an order for a product containing alcohol). The Service is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children under 13 years of age.
 
@@ -48,7 +48,7 @@ We collect information through our Web Site, emails, mail, fax, and telephone, m
 
 • Message and gift recipients' names, addresses, telephone numbers and email addresses, and
 
-• other information you provide to us, including User Submissions (defined in the [Terms of Use](http://www.vivaterra.com/terms)).
+• other information you provide to us, including User Submissions (defined in the [Terms of Use](https://www.vivaterra.com/terms)).
 
 Information you provide to us may be collected by us even if an order, registration, or other process is started but not completed or otherwise cancelled. Members may also add to their Address Book the name, address and telephone number of friends or other persons to whom they may wish to send gifts or expressions. Only Members have the right to view and edit their Address Book entries. 
 
@@ -70,9 +70,9 @@ Our Affiliates, subcontractors, and agents, and any successors to our business (
 
 We may combine information we receive from you via our Services with information from our Affiliates and third parties. We use the combined information to enhance and personalize your shopping experience with us and to communicate with you in accordance with this Privacy Policy. 
 
-We reserve the right to disclose information you provide to us as required by law, in response to legal process and law enforcement requests and as necessary or appropriate, in our view, to operate the Services, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the [Terms of Use](http://www.vivaterra.com/terms)). 
+We reserve the right to disclose information you provide to us as required by law, in response to legal process and law enforcement requests and as necessary or appropriate, in our view, to operate the Services, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the [Terms of Use](https://www.vivaterra.com/terms)). 
 
-**_Please note that any personal information you reveal or post on one our public forums (as defined in the[Terms of Use](http://www.vivaterra.com/terms)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us or with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk.  _**
+**_Please note that any personal information you reveal or post on one our public forums (as defined in the[Terms of Use](https://www.vivaterra.com/terms)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us or with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk.  _**
 
 **Consent to Transfer and Submission**
 
@@ -128,11 +128,11 @@ Members can modify and update their membership information (including name, mail
 
 **Your Consent and Changes to this Policy**
 
-Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the [Terms of Use](http://www.vivaterra.com/terms), of which this policy is a part. We may change our Privacy Policy from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made. We will post the revised Privacy Policy on our Web Site at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified. 
+Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the [Terms of Use](https://www.vivaterra.com/terms), of which this policy is a part. We may change our Privacy Policy from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made. We will post the revised Privacy Policy on our Web Site at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified. 
 
-The date on which the current Privacy Policy and overall [Terms of Use](http://www.vivaterra.com/terms) took effect is listed at the top of the Privacy Policy and Terms of Use (see "Last Updated" at the top of each).
+The date on which the current Privacy Policy and overall [Terms of Use](https://www.vivaterra.com/terms) took effect is listed at the top of the Privacy Policy and Terms of Use (see "Last Updated" at the top of each).
 
-By using VivaTerra, after such changes take effect, you agree to be legally bound and to abide by the revised Privacy Policy and [Terms of Use](http://www.vivaterra.com/terms), of which this policy is a part. 
+By using VivaTerra, after such changes take effect, you agree to be legally bound and to abide by the revised Privacy Policy and [Terms of Use](https://www.vivaterra.com/terms), of which this policy is a part. 
 
 **Your Comments**
 
