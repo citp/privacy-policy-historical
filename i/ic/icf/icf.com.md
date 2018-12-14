@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icf.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322110752id_/https%3A//www.icf.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icf.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214200615id_/https%3A//www.icf.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Online Privacy Statement | ICF
 
@@ -301,4 +301,7 @@ Please note that you may be required to prove your identity before we can fulfil
 
 If you have questions or concerns about this Privacy Statement or our Sites and email marketing practices, please use any of the above contact means.
 
-**Please note that no permission is granted for you to use ICF's logo, icons, or content. You must obtain our prior written permission to post additional graphic or textual material along with your link to our Sites**. 
+**Please note that no permission is granted for you to use ICF's logo, icons, or content. You must obtain our prior written permission to post additional graphic or textual material along with your link to our Sites**.
+
+  
+
