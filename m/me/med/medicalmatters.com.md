@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalmatters.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625221608id_/http%3A//medicalmatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalmatters.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214081106id_/http%3A//www.medicalmatters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Medical Matters
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aec7c0c8c1eec1c3c9dddadbcac7c1dd80cdc1c3)
+  * If you have any questions about this Privacy Policy, please contact us: [info@MedicalMatters.com](mailto:info@omgstudios.com)
 
 
 
