@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbalife.co.in privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608161515id_/http%3A//www.herbalife.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalife.co.in privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214111042id_/http%3A//www.herbalife.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Herbalife - India - Privacy Policy
 
@@ -91,17 +91,17 @@ The Sites are headquartered in the United States. Please be aware that informati
 
 **8\. Minor’s Information.**
 
-The Sites are general audience web sites that are not directed to minor’s who are below the age of 18 years. We do not knowingly collect, use or disseminate any Personal Information from minor below the age of 18 Years.. If you believe we may have collected information from your child on the Sites, please contact us at [privacy@herbalife.com](https://web.archive.org/web/20180608161515id_/http%3A//www.herbalife.co.in/privacy@herbalife.com) and we will make reasonable efforts to delete it from our records.
+The Sites are general audience web sites that are not directed to minor’s who are below the age of 18 years. We do not knowingly collect, use or disseminate any Personal Information from minor below the age of 18 Years.. If you believe we may have collected information from your child on the Sites, please contact us at [privacy@herbalife.com](https://web.archive.org/web/20181214111042id_/http%3A//www.herbalife.co.in/privacy@herbalife.com) and we will make reasonable efforts to delete it from our records.
 
  **9\. Cookies and Tracking.**
 
 Herbalife, as well as certain third parties that provide content and other functionality on our Sites, use cookies, web beacons and other similar technologies for various purposes, including to analyze trends, administer the website, track users’ movements around the website and to gather demographic information about our user base as a whole.
 
-Cookies are small pieces of information that are stored on computer hard drives. A cookie enables the entity that put the cookie on your device to recognize it across different websites, services, devices, and browsing sessions. For example, we may use cookies to recognize you when you return to the Sites in order to provide you with a better user experience. We may allow third parties to use cookies on the Sites but we do not control the use or contents of third party cookies. Web browsers often allow you to configure the browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. If you elect to reject cookies, please note that you may not be able to take full advantage of the features and functions of the Sites. To learn more about cookies and how to manage them, please click [here](http://www.allaboutcookies.org/)
+Cookies are small pieces of information that are stored on computer hard drives. A cookie enables the entity that put the cookie on your device to recognize it across different websites, services, devices, and browsing sessions. For example, we may use cookies to recognize you when you return to the Sites in order to provide you with a better user experience. We may allow third parties to use cookies on the Sites but we do not control the use or contents of third party cookies. Web browsers often allow you to configure the browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. If you elect to reject cookies, please note that you may not be able to take full advantage of the features and functions of the Sites. To learn more about cookies and how to manage them, please click [here](https://www.allaboutcookies.org/)
 
 Web beacons and similar technologies are small bits of code, which are embedded in web pages, advertisements, and e-mail, that communicate with third parties. We use web beacons, for example, to count the number of users who have visited a particular web page, to deliver or communicate with cookies, and to understand usage patterns. We also may include web beacons in e-mails to understand whether messages have been opened, acted on, or forwarded.
 
-There are other local storage and internet technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage that operate similarly to the cookies discussed above. Please note that these technologies are distinct from cookies, and you may not be able to control them using standard browser tools and settings. For information about managing Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html.)
+There are other local storage and internet technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage that operate similarly to the cookies discussed above. Please note that these technologies are distinct from cookies, and you may not be able to control them using standard browser tools and settings. For information about managing Flash cookies, please click [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html.)
 
  ** **10\. Do Not Track** **
 
@@ -109,11 +109,11 @@ Web browsers may allow you send “Do Not Track” requests. We do not currently
 
  ** **11\. Online Advertising.** **
 
-We may display advertising on our website for our products and services. Cookies or other similar technologies may be used to provide you with advertising based upon your browsing activities and interests. A number of companies engaging in online advertising participate in industry-developed programs designed to provide consumers with choices about whether to receive targeted advertising. Please visit the websites operated by the Network Advertising Initiative (<http://www.networkadvertising.org/choices/>) and the Digital Advertising Alliance (<http://www.aboutads.info/choices/>) to learn more. Please note that even if you use an industry-based opt-out for interest-based advertising, you will continue to receive generic advertisements.
+We may display advertising on our website for our products and services. Cookies or other similar technologies may be used to provide you with advertising based upon your browsing activities and interests. A number of companies engaging in online advertising participate in industry-developed programs designed to provide consumers with choices about whether to receive targeted advertising. Please visit the websites operated by the Network Advertising Initiative ([//www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/)) and the Digital Advertising Alliance ([//www.aboutads.info/choices/](https://www.aboutads.info/choices/)) to learn more. Please note that even if you use an industry-based opt-out for interest-based advertising, you will continue to receive generic advertisements.
 
  ** **12\. Online Forums.** **
 
-The Sites may offer publicly-accessible community forums. You should be aware that any Personal information you provide in these areas is public and may be read, collected, and used by others who access them. To request removal of your Personal Information from these forums, email us at [privacy@herbalife.com](https://web.archive.org/web/20180608161515id_/http%3A//www.herbalife.co.in/privacy@herbalife.com). In some cases, we may not be able to remove your Personal Information. 
+The Sites may offer publicly-accessible community forums. You should be aware that any Personal information you provide in these areas is public and may be read, collected, and used by others who access them. To request removal of your Personal Information from these forums, email us at [privacy@herbalife.com](https://web.archive.org/web/20181214111042id_/http%3A//www.herbalife.co.in/privacy@herbalife.com). In some cases, we may not be able to remove your Personal Information. 
 
  **13\. Third-Party Links.**
 
@@ -129,4 +129,4 @@ This Privacy Policy was last updated on the date listed at the beginning of this
 
  **16\. What if I have Questions?**
 
-Herbalife takes privacy concerns seriously. If you have questions or comments you may contact us at Information Technology Centre, #15, Commissariat Road, Bangalore 560025 (Attn: Privacy Champion, Legal). You can further Contact us at: 800 West Olympic Blvd., Suite 406, Los Angeles, CA 90015 (Attn: Privacy Dept.), [privacy@herbalife.com](https://web.archive.org/web/20180608161515id_/http%3A//www.herbalife.co.in/privacy@herbalife.com), 866-866-4744.
+Herbalife takes privacy concerns seriously. If you have questions or comments you may contact us at Information Technology Centre, #15, Commissariat Road, Bangalore 560025 (Attn: Privacy Champion, Legal). You can further Contact us at: 800 West Olympic Blvd., Suite 406, Los Angeles, CA 90015 (Attn: Privacy Dept.), [privacy@herbalife.com](https://web.archive.org/web/20181214111042id_/http%3A//www.herbalife.co.in/privacy@herbalife.com), 866-866-4744.
