@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lessonpaths.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613130810id_/http%3A//www.lessonpaths.com/splash/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonpaths.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214094206id_/http%3A//www.lessonpaths.com/splash/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LessonPaths
+
+### Privacy Policy
 
 At LessonPaths, we are keenly aware of the trust you place in us and our responsibility to protect your privacy. As part of this responsibility, we let you know what information we collect when you use our products and services, why we collect it and how we use it to improve your experience. By visiting the LessonPaths website, you are accepting the practices outlined in this Privacy Policy.
 
