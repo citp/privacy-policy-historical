@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pointblanknews.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523104002id_/http%3A//pointblanknews.com/pbn/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointblanknews.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214200500id_/http%3A//pointblanknews.com/pbn/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Pointblank News
+# Privacy Policy - Pointblank News
 
 POINTBLANKNEWS PRIVACY POLICY
 
