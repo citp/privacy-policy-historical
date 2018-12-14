@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialgazette.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610224942id_/http%3A//www.socialgazette.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialgazette.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214163333id_/http%3A//www.socialgazette.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Gazette
 
@@ -25,17 +25,17 @@ We do not collect any Personal Information from you or related to you without yo
 • To be able to deliver and enhance the Website, provide the Users with technical assistance and support.  
 • To send you updates, notices, notifications, announcements, and additional information related to the Website and related services.  
 • To create cumulative statistical data and other cumulative information and/or other conclusive information that is non-personal, in which we and/or our business partners might make use of in order to operate and improve our Website and provide related services.  
-• To comply with any applicable rule or regulation and/or response or defend against legal proceedings versus us or our affiliates. 
+• To comply with any applicable rule or regulation and/or response or defend against legal proceedings versus us or our affiliates.
 
 5\. LAWFUL GROUNDS FOR COLLECTING INFORMATION ON OUR USERS  
-We collect and process your information for the purposes described in this policy, based at least on one of the following legal grounds:    
+We collect and process your information for the purposes described in this policy, based at least on one of the following legal grounds:  
 • With your consent: We ask for your agreement to process your information for specific purposes and you have the right to withdraw your consent at any time. For example, we ask for your consent to provide you with personalized content and ads through the use of cookies;  
-• Legitimate interests: We process your information for our legitimate interests while applying appropriate safeguards that protect your privacy. This means that we process your information for things like detecting, preventing, or otherwise addressing fraud, abuse, security, usability, functionality or technical issues with our services, protecting against harm to the rights, property or safety of our properties, or our users, or the public as required or permitted by law; Enforcing legal claims, including investigation of potential violations of this Privacy Policy; in order to comply and/or fulfil our obligation under applicable laws, regulation, guidelines, industry standards and contractual requirements, legal process, subpoena or governmental request, as well as our Terms of Service. 
+• Legitimate interests: We process your information for our legitimate interests while applying appropriate safeguards that protect your privacy. This means that we process your information for things like detecting, preventing, or otherwise addressing fraud, abuse, security, usability, functionality or technical issues with our services, protecting against harm to the rights, property or safety of our properties, or our users, or the public as required or permitted by law; Enforcing legal claims, including investigation of potential violations of this Privacy Policy; in order to comply and/or fulfil our obligation under applicable laws, regulation, guidelines, industry standards and contractual requirements, legal process, subpoena or governmental request, as well as our Terms of Service.
 
 6\. WHERE DO WE STORE USER’S PERSONAL INFORMATION?  
 Information regarding the Users will be maintained, processed and stored by us and our authorized affiliates and service providers in the United States, and as necessary, in secured cloud storage, provided by our third party service provider.  
 While the data protection laws in the above jurisdictions may be different than the laws of your residence or location, please know that we, our affiliates and our service providers that store or process your Personal Information on the our behalf are each committed to keep it protected and secured, pursuant to this Privacy Policy and industry standards, regardless of any lesser legal requirements that may apply in their jurisdiction.  
-You hereby accept the place of storage and the transfer of information as described above. 
+You hereby accept the place of storage and the transfer of information as described above.
 
 7\. WHO DO WE SHARE USER INFORMATION WITH AND WHY?  
 We may share your Personal Information with third parties (or otherwise allow them access to it) only in the following manners and instances:  
@@ -57,7 +57,7 @@ Learn more about your choices and how to opt-out of tracking technologies:
 In order to delete or block any tracking technologies, please refer to the “Help” area on your internet browser for further instructions, or You may also opt out of third party tracking technologies by following the instructions provided by each third party service provider in its privacy policy listed above or visiting www.youronlinechoices.eu. Please note however that deleting any of our tracking technologies or disabling future tracking technologies may prevent you from accessing certain areas or features of our website, or may otherwise adversely affect your user experience.
 
 9\. MINORS  
-To use our website, you must be over the age of sixteen (16). Therefore, we do not knowingly collect Personal Information from minors under the age of sixteen (16) and do not wish to do so. We reserve the right to request proof of age at any stage so that we can verify that minors under the age of sixteen (16) are not using the Website. 
+To use our website, you must be over the age of sixteen (16). Therefore, we do not knowingly collect Personal Information from minors under the age of sixteen (16) and do not wish to do so. We reserve the right to request proof of age at any stage so that we can verify that minors under the age of sixteen (16) are not using the Website.
 
 10\. INFORMATION SECURITY  
 We employ industry standard procedures and policies to ensure the safety of its Users’ Personal Information, reduce the risks stemming from loss of information and prevent unauthorized use of any such information. However, no measure can provide absolute information security.
@@ -70,7 +70,7 @@ If you withdraw your consent to us processing your Personal Information, we will
 If the law applicable to you grants you such rights, you may ask to access, correct, or delete your Personal Information that is stored in our systems. You may also ask for our confirmation as to whether or not we process your Personal Information.  
 Subject to the limitations in law, you may request that we update, correct, or delete inaccurate or outdated information. You may also request that we suspend the use of any Personal Information whose accuracy you contest while we verify the status of that data.  
 Subject the limitations in law, you may also be entitled to obtain the Personal Information you directly provided us (excluding data we obtained from other sources) in a structured, commonly used, and machine-readable format and may have the right to transmit such data to another party.  
-If you wish to exercise any of these rights, contact us at: [info@socialgazette.com](mailto:info@socialgazette.com). When handling these requests we may ask for additional information to confirm your identity and your request. Please note, upon request to delete your Personal Information, we may retain such data in whole or in part to comply with any applicable rule or regulation and/or response or defend against legal proceedings versus us or our affiliates  
+If you wish to exercise any of these rights, contact us at: [contactus@socialgazette.com](mailto:contactus@socialgazette.com). When handling these requests we may ask for additional information to confirm your identity and your request. Please note, upon request to delete your Personal Information, we may retain such data in whole or in part to comply with any applicable rule or regulation and/or response or defend against legal proceedings versus us or our affiliates  
 To find out whether these rights apply to you and on any other privacy related matter, you can contact your local data protection authority if you have concerns regarding your rights under local law.
 
 13\. UPDATES TO THIS PRIVACY POLICY  
@@ -81,4 +81,4 @@ This Privacy Policy, its interpretation, and any claims and disputes related her
 This Privacy Policy was written in English, and may be translated into other languages for your convenience. If a translated (non-English) version of this Privacy Policy conflicts in any way with the English version, the provisions of the English version shall prevail.
 
 15\. HAVE ANY QUESTIONS?  
-If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email at: [info@socialgazette.com](mailto:info@socialgazette.com) and we will make an effort to reply within a reasonable timeframe.
+If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email at: [contactus@socialgazette.com](mailto:contactus@socialgazette.com) and we will make an effort to reply within a reasonable timeframe.
