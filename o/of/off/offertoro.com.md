@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offertoro.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608142540id_/http%3A//www.offertoro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offertoro.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214182052id_/http%3A//www.offertoro.com/privacy-policy) for the most accurate reproduction.*
 
 # OfferToro | Privacy Policy
 
