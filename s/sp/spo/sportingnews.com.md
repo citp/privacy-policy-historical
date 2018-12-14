@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622233501id_/http%3A//www.sportingnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214141636id_/http%3A//www.sportingnews.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy | Sporting News
 
@@ -111,9 +111,11 @@ Where relevant, we will disclose User Information and anonymized information ass
 
 #### 6\. Your right to opt-out
 
-If you would like us to stop sending you marketing communications you may use the opt-out link here, the unsubscribe link in our marketing communications or by amending your app settings. Although we encourage you to use the opt-out link and App settings because it is automated, you may also contact us here.
+If you would like us to stop sending you marketing communications you may use the opt-out link [here](https://communicatoremail.com/IN/DCF/QBUPMCbQ4VR_cHdODvYWF3/), the unsubscribe link in our marketing communications or by amending your app settings. Although we encourage you to use the opt-out link and App settings because it is automated, you may also contact us [here](mailto:mediacustomerservices@performgroup.com).
 
-If you, or another user of your device, wish to withdraw your cookies consent at any time, you have the ability to accept or decline cookies by modifying your browser setting. You may also go to [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) if you are in Europe, or to [www.aboutads.info/choices](http://www.aboutads.info/choices) if you are anywhere else for instructions on how to disable cookies. You may opt-out from Google Analytics here. In some instances, when you opt-out, a new cookie (Opt-Out-Cookie) is placed in your web browser. This tells the third party provider to cease data collection from your browser and prevents advertisements from being delivered to you.
+If you, or another user of your device, wish to withdraw your cookies consent at any time, you have the ability to accept or decline cookies by modifying your browser setting. You may also go to [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) if you are in Europe, or to [www.aboutads.info/choices](http://www.aboutads.info/choices) if you are anywhere else for instructions on how to disable cookies. You may opt-out from Google Analytics [here](https://tools.google.com/dlpage/gaoptout/). In some instances, when you opt-out, a new cookie (Opt-Out-Cookie) is placed in your web browser. This tells the third party provider to cease data collection from your browser and prevents advertisements from being delivered to you.
+
+Users in the EU can adjust their third-party cookie consent settings here.
 
 #### 7\. Security
 
