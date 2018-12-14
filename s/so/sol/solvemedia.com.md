@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solvemedia.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322194911id_/http%3A//solvemedia.com/privacy_info.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvemedia.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214160831id_/https%3A//www.solvemedia.com/privacy_info.html) for the most accurate reproduction.*
 
 # Solve Media
 
@@ -16,7 +16,7 @@ We believe you should be able to make choices about the collection, use and shar
 
 ## Our Policies
 
-While this page may give you a high level overview of our privacy standards and objectives, you should review our detailed polices to understand how your information is being collected, used, and shared. Our [Website Privacy Policy](https://web.archive.org/web/20180322194911id_/http%3A//solvemedia.com/privacy.html) covers how we handle data on the Solve Media website; and our [Data Privacy](https://portal.solvemedia.com/portal/public/privacy) Notice covers how we handle data collected through our services and partners. 
+While this page may give you a high level overview of our privacy standards and objectives, you should review our detailed polices to understand how your information is being collected, used, and shared. Our [Website Privacy Policy](https://web.archive.org/web/20181214160831id_/https%3A//www.solvemedia.com/privacy.html) covers how we handle data on the Solve Media website; and our [Data Privacy](https://portal.solvemedia.com/portal/public/privacy) Notice covers how we handle data collected through our services and partners. 
 
 ## Our Partners
 
