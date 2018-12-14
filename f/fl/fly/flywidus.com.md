@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flywidus.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522013057id_/http%3A//www.flywidus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flywidus.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214012826id_/http%3A//www.flywidus.com/privacy.html) for the most accurate reproduction.*
 
 # Fly Wid Us
 
