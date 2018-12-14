@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agma.io privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625164812id_/http%3A//agma.io/docs/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agma.io privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214051825id_/http%3A//agma.io/docs/privacy.txt) for the most accurate reproduction.*
 
 # 
 
@@ -59,10 +59,13 @@
     If you do not wish to have an account with agma any more, you can close it by contacting us. You will need to provide proof you are the original account creator, or the owner of the account, and/or the data belongs to you, in which we will be able to remove it.
     You can send us a message through social media, email, and more: http://agma.io/support.php
     
+    Advertising
+    We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here (http://www.networkadvertising.org/managing/opt_out.asp)
+    
     Your acceptance of these terms
     - By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site.
       Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
     
     Changes to this Policy
     - Any changes to this policy will be posted on this page.
-    - Last modification: 05/25/2018
+    - Last modification: 01/10/2018
