@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kenshoo.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624011557id_/https%3A//kenshoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenshoo.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214095642id_/https%3A//kenshoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Kenshoo Web Privacy Policy
 
-Updated: January 2017
+Updated: April 2018
 
 ## In Summary
 
@@ -33,7 +33,7 @@ Kenshoo Ltd. 6 Ha’barzel St., Tel-Aviv, Israel 6971010 or any of its subsidiar
       * “ **Kenshoo Services** ” (or “ **Services** ”):  
 Services provided by Kenshoo.
       * “ **Kenshoo Site** ” (or “ **Site** ”):  
-[www.kenshoo.com](http://www.kenshoo.com/) or any of its pages.
+[www.kenshoo.com](https://kenshoo.com/) or any of its pages.
       * “Privacy Policy” or “Policy”:  
 Kenshoo’s privacy policy as described herein.
       * “ **User** ”:  
@@ -190,7 +190,7 @@ We will look into your query and make good-faith efforts to resolve any existing
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-You may also invoke binding arbitration in certain cases, as further described in Annex I of the EU-U.S. Privacy Shield Agreement. For further information, please visit the Privacy Shield web site at: [www.privacyshield.gov](http://www.privacyshield.gov/).
+You may also invoke binding arbitration in certain cases, as further described in Annex I of the EU-U.S. Privacy Shield Agreement. For further information, please visit the Privacy Shield web site at: [www.privacyshield.gov](https://www.privacyshield.gov/welcome).
 
 Back to Table of Contents
 
@@ -208,6 +208,6 @@ Kenshoo reserves the right to change, modify, add or remove portions of this Pol
 Back to Table of Contents
 
 If You Have Questions About This Policy:  
-To address any questions, comments, or concerns related to this Privacy Policy, please send a detailed message to: [privacy@kenshoo.com](mailto:%20privacy@kenshoo.com).
+To address any questions, comments, or concerns related to this Privacy Policy, please send a detailed message to: [privacy@kenshoo.com](mailto:privacy@kenshoo.com).
 
-© 2012-2017 Kenshoo, Ltd. All rights reserved.
+© 2012-2018 Kenshoo, Ltd. All rights reserved.
