@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hazelden.org privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403102155id_/http%3A//www.hazeldenbettyford.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hazelden.org privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214125316id_/http%3A//www.hazeldenbettyford.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hazelden Betty Ford Foundation
 
