@@ -1,37 +1,72 @@
-> *The following text is extracted and transformed from the slowcookerfromscratch.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803230912id_/https%3A//www.slowcookerfromscratch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slowcookerfromscratch.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214045333id_/https%3A//www.slowcookerfromscratch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Slow Cooker or Pressure Cooker
+# Privacy Policy - Slow Cooker or Pressure Cooker
 
-**General Statement About Privacy:**  
-Slow Cooker from Scratch is committed to maintaining the privacy and protection of your personal information when you visit this website. This policy outlines what information may be collected when you visit the site, and how that information is used. When you continue to visit this website, you are consenting to the practices described in this policy.
+### **General Statements About Privacy**
 
- **Information Collected When Leaving Comments:**  
-When you leave comments on Slow Cooker from Scratch, you have the option of providing your name, blog or website url, or other information. This information becomes a permanent part of the website when you provide it with a comment, and can be seen by other visitors to the site.
+Slow Cooker or Pressure Cooker is committed to maintaining the privacy and protection of your personal information. This privacy policy tells you about the information we collect on this website and how we use that information. By using the Site, you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us.
 
- **Information Collected Through Tracking Software**  
-All websites which collect traffic data have the ability to monitor visitor information such as IP addresses, browser type, operating system, location, date/time of visit, and information about which areas of the site are visited. At Slow Cooker from Scratch, we monitor such information, but do not store it in permanent files or attempt to link it to individual site visitors.
+ **Children Under 13:**  
+We care about protecting the privacy of children. We won’t knowingly allow anyone under 13 to provide us any personally identifying information. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. If you’re under 13, please do not provide us with any personally identifying information (such as your name, your email address or your phone number).
 
- **Information Collected by Third Party Advertisers:**  
-Slow Cooker from Scratch uses third party advertising companies to serve ads when you visit the website. These companies may use information (NOT including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+ **Information We Collect:**  
+The information we gather falls into two categories: (1) information you supply when you register to receive emails or comment on the Site, and (2) information collected as you navigate through our Site.
 
- **Information Collected by Google AdSense:**  
-Google, as a third party vendor, uses cookies to serve ads on this website. The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Google’s use of the DART cookie enables it to serve ads to you based on your visit to this sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+ **Personally Identifying Information:**  
+In operating the Site, Slow Cooker or Pressure Cooker may include registration, comment forms, online surveys, and other online forms that ask users to provide their names, e-mail addresses, and other contact information.
 
- **Advertiser Privacy Policies**  
-If you would like to contact the Advertisers to learn more about their privacy policies and what options (if any) they offer to opt out of their data collection and use, please follow these links to their Web sites:
+###  **Tracking Information:**
 
-BlogHer Publishing Network  
-<http://www.blogher.com/privacy-policy>
+ **Cookies**  From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Site. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our Site other than cookies. Cookies and other technologies help us learn which areas of our Site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Site may be diminished and some features may not work as they were intended.
 
-Lijit Networks Inc.  
-<http://www.lijit.com/company/privacy-policy>
+ **Browser Information.**  As is true of most websites, Slow Cooker or Pressure Cooker gathers certain information automatically and stores it in log files. This information includes Internet protocol (IP) addresses, smart phone or tablet MAC addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Site, track users’ movements around the Site and gather demographic information about our user base as a whole. Except as noted herein, we do not link this automatically-collected data to personal information.
 
-Some of these third party advertising networks are participants in the Network Advertising Initiative (“NAI”), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may “opt out” of targeted advertising delivered by NAI member ad networks [here.](http://www.networkadvertising.org/)
+ **Device  Addresses.** Each user’s computer IP address, device MAC address, or similar address (“device address”) is logged with each visit and each action performed on the Slow Cooker or Pressure Cooker Site. This information is never provided to third parties, except as otherwise stated in this Privacy Policy, and is logged only for a temporary period of time. Device address information is linked to personal information and may be used in an effort to block a “banned” user from accessing the Site.
 
- **Contacting** **Slow Cooker from Scratch Regarding This Policy:**  
-If you have any questions about this policy please contact kalynskitchen (at) comcast (dot) net
+ **Web Beacons.**  Small graphic images or other web programming code called web beacons (also known as “1×1 GIFs” or “clear GIFs”) may be included in our web pages and e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Websites, to monitor how users navigate the Websites, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed.
 
- **Changes to This Policy:**  
-We reserve the right to update or change this privacy policy at any time. Any such change, modification, or addition to the privacy policy on Slow Cooker from Scratch will become effective immediately upon posting on the site.
+ **Advertising: Third Party Cookies.**  We use third-party advertising companies to serve ads when you visit our Site. These third parties include business partners and advertising networks, which collect information about your interests when you view or interact with one of their advertisements or with a social sharing button displayed on our Site. These third parties use cookies and other technologies to collect information about your use of the Site. The information gathered by these third parties is used to make predictions about your interest or preferences so that they can display advertisements or promotional material on this Site and on other sites across the Internet tailored to your apparent interests. These companies may have access to information about your device (such as IP or MAC address) and may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.
 
-This policy last updated on December 10, 2014.
+ **More:** For more information about this practice and to understand whether and how you may prevent the use of interest based advertising and your opt-out choices, please click here: <http://www.networkadvertising.org/choices/>.
+
+ **Google Ads** Google as a third-party vendor, uses cookies to serve ads on this Site. Google’s use of the DART cookie enables it to serve ads based on your visit to this Site and other websites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+ **Information Collected by Third Party Advertisers:  **Slow Cooker from Scratch uses third party advertising companies to serve ads when you visit the website. These companies may use information (NOT including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+### How Your Information Will Be Used:
+
+ **Use by Us.**  
+We use information about you to provide you with the products and services that you request; to respond to your questions and comments, and to measure interest in and improve our products, services, and Site. We may use your personal information to verify your identity, to check your qualifications, or to follow up with transactions initiated on the Site.
+
+ **Sharing with Third Parties.**  
+We do not share personal information with third parties for their direct marketing purposes other than as described in this Privacy Policy. If our practices change, we will provide you with the relevant information as required by applicable law.
+
+ **Employees, Third-Party Processors and Third-Party Service Providers.**  
+We will disclose personal information to our employees, contractors, affiliates, distributors, dealers, vendors, and suppliers who process personal information on our behalf, or assist us in the provision or operation of this Site. For example, if you sign up for our e-mails, we will share this information with our mailing list service provider.
+
+ **Anonymous Information.**  
+We use anonymous information to analyze our Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+
+ **Use of Cookies.**  
+We may use cookies to deliver content specific to your interests or to customize your experience of the Site. Promotions or advertisements displayed on our Site may contain cookies.
+
+ **Comments:**  
+Slow Cooker or Pressure Cooker may include interactive forms such as comments. Please remember that any information that is disclosed in these areas becomes public information. Such information may be read, collected, or used by other users of this Site, including anonymous visitors. You should exercise caution when deciding to disclose your personal information.
+
+ **Visiting our Site from outside the United States:**  
+If you are visiting our Site from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. Please be aware tat the data protection and other laws of the United States might not be as comprehensive as those in your country. However, please be assured that we take steps to ensure that your privacy is protected. By using our Site, you agree that your information may be transferred to our facilities and those third parties with whom we share it, as described in this Privacy Policy.
+
+ **Third Party Websites:**  
+Slow Cooker or Pressure Cooker may contain social buttons, links, graphics, or banners that link to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
+
+###  **Contacting Us:**
+
+This site is operated by Kalyns Kitchen LLC. If you have any questions about this policy, our practices related to this site, please feel contact us at the following email address: kalynskitchen (at) comcast (dot) net.
+
+###  **Updates and Changes:**
+
+We reserve the right, at any time, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you or as required by applicable laws. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Privacy Policy from time to time to ensure that you continue to agree with all of its terms.
+
+ _This policy was last updated on May 21, 2018._
+
+(Visited 231 times, 1 visits today)
