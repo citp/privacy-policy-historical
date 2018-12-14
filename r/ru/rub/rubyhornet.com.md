@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rubyhornet.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529120026id_/http%3A//rubyhornet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubyhornet.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215004912id_/http%3A//rubyhornet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Ruby Hornet
 
 RUBYHORNET.COM respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy is only applicable to the site [www.rubyhornet.com](http://rubyhornet.com/) (the “Site”), and not any other websites that are accessible from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We are not responsible for the privacy practices of such websites
 
