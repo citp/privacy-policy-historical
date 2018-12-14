@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesimpletruth.in privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704203556id_/http%3A//www.thesimpletruth.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesimpletruth.in privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214154738id_/http%3A//www.thesimpletruth.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Simple Truth
 
