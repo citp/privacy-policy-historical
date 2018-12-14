@@ -1,30 +1,108 @@
-> *The following text is extracted and transformed from the melskitchencafe.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330062412id_/https%3A//www.melskitchencafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melskitchencafe.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214085051id_/https%3A//www.melskitchencafe.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mel's Kitchen Cafe
+# Privacy Policy | Mel's Kitchen Cafe
 
-The privacy of visitors to Mel’s Kitchen Cafe is very important. This privacy policy outlines the type of personal information that is received and collected and how it is used. Mel’s Kitchen Cafe will not share your personal information with any third party, nor will your personal information be ever sold to a third party. Promise.
+Mel’s Kitchen Cafe found at https://www.melskitchencafe.com (“Website”) is governed by the following Privacy Policy.
 
-## Log Files
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to this Website.
 
-Like many other Web sites, Mel’s Kitchen Cafe makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+**WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?**
 
-## Cookies
+**• Information You Voluntarily Submit to the Website:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form.
 
-Mel’s Kitchen Cafe does not use cookies.
+**• Information We Collect from Others:** We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
 
-Some of the advertising partners may use cookies and web beacons on Mel’s Kitchen Cafe. Our advertising partners include:
+**• Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-Google Adsense  
-Martha’s Circle
+**• Cookies:** We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-These third-party ad servers or ad networks may use technology to monitor the advertisements and links that appear on Mel’s Kitchen Cafe. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+**HOW YOUR INFORMATION MAY BE USED**
 
-Mel’s Kitchen Cafe has no access to or control over these cookies that are used by third-party advertisers.
+We may use the information collected in the following ways:
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Mel’s Kitchen Cafe’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+• To operate and maintain the Website;
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+• To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
 
-Mel’s Kitchen Cafe uses Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ad Settings](https://www.google.com/settings/ads) page. Users can completely block Google Analytics tracking using [Google’s Analytics Opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+• To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
 
-Mel’s Kitchen Cafe is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking https://www.melskitchencafe.com to Amazon properties including, but not limited to, amazon.com, endless.com, myhabit.com, smallparts.com, or amazonwireless.com.
+• To respond to your comments or inquiries;
+
+• To provide you with user support;
+
+• To track and measure advertising on the Website;
+
+• To protect, investigate, and deter against unauthorized or illegal activity.
+
+**THIRD-PARTY USE OF PERSONAL INFORMATION**
+
+We may share your information with third parties when you explicitly authorize us to share your information.
+
+Additionally, the Website may use third-party service providers service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies. The Website currently uses the following third-party service providers:
+
+• Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics. Additionally, the IP address collected by Google Analytics is anonymized before collecting and storing. The data collected is retained for 26 months before being permanently deleted.
+
+• MadMimi – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.
+
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
+
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
+
+**ANONYMOUS DATA**
+
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
+
+**PUBLICLY VISIBLE INFORMATION**
+
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible.
+
+**COOKIES  
+**  
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
+
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+**ADVERTISING**
+
+**Display Ads**  
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personally identifiable information is shared with the Website’s ad providers.
+
+**Retargeting Ads**  
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+
+**Sponsored Content Tracking Pixels**  
+This Website may engage in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
+
+**Affiliate Program Participation**  
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+Mel’s Kitchen Café is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+**Newsletters**  
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+**RIGHTS RELATED TO YOUR PERSONAL INFORMATION  
+**  
+**Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at contact@melskitchencafe.com to be removed from our mailing list.
+
+**Access** – You may access the personal information we have about you by submitting a request to contact@melskitchencafe.com.
+
+**Amend** – You may contact us at contact@melskitchencafe.com to amend or update your personal information.
+
+**Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to contact@melskitchencafe.com.
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+**SENSITIVE PERSONAL INFORMATION**
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+**CHILDREN’S INFORMATION**
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at contact@melskitchencafe.com and we will use our best efforts to promptly remove such information from our records.
+
+**CONTACT INFORMATION**
+
+At any time, please contact us at contact@melskitchencafe.com for questions related to this Privacy Policy.
+
+Last updated: 5/12/18
