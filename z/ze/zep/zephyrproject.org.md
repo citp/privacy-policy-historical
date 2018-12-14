@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zephyrproject.org privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622212150id_/https%3A//www.linuxfoundation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zephyrproject.org privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214175510id_/https%3A//www.linuxfoundation.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Linux Foundation
 
