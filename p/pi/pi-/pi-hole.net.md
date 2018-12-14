@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pi-hole.net privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617010353id_/https%3A//pi-hole.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pi-hole.net privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214192045id_/https%3A//pi-hole.net/privacy) for the most accurate reproduction.*
 
 # Privacy – Pi-hole®: A black hole for Internet advertisements
 
