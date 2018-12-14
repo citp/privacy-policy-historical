@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superdevresources.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618043213id_/https%3A//superdevresources.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdevresources.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214064702id_/https%3A//superdevresources.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Super Dev Resources
 
@@ -22,7 +22,7 @@ We use cookies and web storage to store information about visitors preferences, 
 
  ** **DoubleClick DART Cookie****
 
-Google, as a third party vendor, uses cookies to serve ads to users on superdevresources.com based on their visit to superdevresources.com and other sites on the Internet. You may opt out of these cookies by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+Google, as a third party vendor, uses cookies to serve ads to users on superdevresources.com based on their visit to superdevresources.com and other sites on the Internet. You may opt out of these cookies by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
 Google Adsense
