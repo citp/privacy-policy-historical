@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mefeedia.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623154643id_/http%3A//www.mefeedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mefeedia.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215031658id_/http%3A//www.mefeedia.com/privacy) for the most accurate reproduction.*
 
 # 
 
