@@ -1,45 +1,151 @@
-> *The following text is extracted and transformed from the lufthansa-cargo.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318214029id_/http%3A//lufthansa-cargo.com/en_de/footer/bottomnav/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lufthansa-cargo.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215114753id_/https%3A//lufthansa-cargo.com/footer/bottomnav/privacy) for the most accurate reproduction.*
 
-# Lufthansa Cargo: Privacy
+# Privacy | Lufthansa Cargo
 
-**Lufthansa Cargo AG Privacy Policy**
+**Data Privacy Statement**
 
-In addition to being bound by strict German and European legislation concerning data privacy, Lufthansa Cargo wishes to assure you of its strong commitment to the following principles, which in certain aspects go even further than the current legislation. Lufthansa Cargo feels a strong need to observe a balance between offering personalized services to its customers and safeguarding the individual's right to data privacy. In the event of any questions or problems concerning this Privacy Policy, please contact our chief privacy officer.
+Website: http://lufthansa-cargo.com
 
- **Principles**
+We are delighted that you have visited our Website, where we offer you not only information about our company and services, but also personalized features. We are committed to transparency and integrity in processing your personal data. In processing personal data, we comply with requirements under data protection law, in particular the EU General Data Protection Regulation (“ **GDPR** ”) and the German Federal Data Protection Act (“ **BDSG** ”).
 
-Lufthansa Cargo does not collect personally identifiable information through the Internet or otherwise unless you explicitly choose to provide this information. If Lufthansa Cargo collects information, this will only be for clearly specified purposes.
+In this Data Privacy Statement, we explain what information (including personal data) we process during your visit and use of our above-mentioned internet offering (“ **Website** ”) and what rights you have in relation to your personal data.
 
-When you choose to provide us with information, it is kept strictly confidential. We do not sell, share or in any way disclose the information obtained for specific purposes to third parties unless obliged to do so by law and/or legal proceedings (e.g., court orders).
+  1. **Who is responsible for processing the data?**
 
-The data our customers provide us with is discarded as soon as the original purpose (authorization of the user data, support and optimization of ongoing processes) is no longer relevant or the customer informs us that he/she desires the data to be discarded.
 
-We make every effort to keep data given to us accurate and up to date, and we will process requests for updates quickly and reliably.
 
-We make sure that our staff are trained to adhere to these standards. Our employees sign a statement of commitment to these principles.
+The party responsible for processing personal data, or the controller, under data protection law is Lufthansa Cargo AG, Frankfurt Airport – Gate 21, Building 322, 60546 Frankfurt am Main, Germany. Where the words “we” or “us” are used in this Data Privacy Statement, they refer to the above company.
 
- **Personalized Services**
+We have appointed Dr. Barbara Kirchberg-Lennartz as the company’s Data Protection Officer. If you have any questions on processing of your personal data, you can contact the Data Protection Officer at any time, using the above channels or by post (FRA RD, Airportring – LAC, 60546 Frankfurt) or e-mail ([dsb@dlh.de](mailto:dsb@dlh.de)).
 
-In order to optimize and personalize our online services to meet your needs, we employ a technology called cookies for personalized sessions. We assure you that we discard this information as soon as you terminate the session. The information collected to optimize our Internet site (e.g., domain name, pages viewed, number of visits, time spent on our site) is only used to improve the website and its content. The analysis of this data preserves the anonymity of our customers.
+  1. **What principles do we observe?**
 
- **Internet Links**
 
-We are aware that quite a few participating parties in the Internet do not adhere to these principles . We do not accept any responsibility for the behavior and practices of third parties involved. Although we try to make sure that sites we link to adhere to the principles mentioned above, we are not responsible for the content and privacy policy employed by other Internet sites, carriers and ISPs.
 
-**Cookies**
+In compliance with requirements under data protection law, we process personal data only if we are permitted to do so under a statutory provision or you have given us your consent.
 
-A cookie is a small element of data that can be exchanged between an Internet site and a client's browser. It can be stored on either side to enable the Internet application to recognize the client on return. You can set your browser to notify you when you receive a cookie, and you may choose to accept the cookie or not. If you do not accept the cookie the corresponding Internet page cannot be accessed. If you accept the cookie, you can delete it from the file (cookies.txt) or from the directory (e.g.: ..WINNTcookies...) after the session.
+On this Website we can also record items of information that, taken on their own, do not allow us to directly draw conclusions about your person. Nevertheless, this information may constitute “personal data” within the meaning of data protection law in certain cases, in particular if it is combined with other data. In addition, we may also record information on this Website that does not enable us to identify you directly or indirectly; this is the case, for example, with aggregated information on all users of this Website.
 
- **Competition: Olá Brazil**
+  1. **What data do we process?**
 
-Lufthansa Cargo AG (“Lufthansa Cargo”) collects and processes personal information solely for the purpose of running the contest, evaluating and publishing results, and informing the winner. This personal information includes the participant’s full name, e-mail address, user name and password. Participants may choose to use a pseudonym as a user name. All personal information will be treated confidentially and will not be disclosed to any third party unless such disclosure is permitted by law. Rms. Relationship Marketing Solutions GmbH processes the personal information on behalf of Lufthansa Cargo to register participants, run the contest and inform Lufthansa Cargo AG of the winner. The information will be deleted in compliance with the law after the contest has ended.
 
-Lufthansa Cargo has appointed Dr. Barbara Kirchberg-Lennartz as chief privacy officer.   
-She can be reached as follows:
 
- **Company Data Protection Representative  
-** Dr. Barbara Kirchberg-Lennartz  
-FRA DSB  
-Airportring  
-60546 Frankfurt  
-E-mail: [dsb@dlh.de](mailto:dsb@dlh.de)
+You can access our Website without directly providing personal data (such as your name, postal address or e-mail address). In this case, too, we have to process certain information to enable you to access our Website. Moreover, on this Website we use certain analytics methods and have integrated links to other Websites whose operators may process further (personal) data.
+
+  1. _Log files_ : When you visit this Website, our web server automatically stores the domain name or IP address of the requesting computer system (usually your internet access provider), including the date, time and length of your visit, the sub-sites/URLs you visit, and information on the applications and devices you use to view our sites.
+  2. _Cookies_ : Like many well-known companies, we use cookies to make our offering as user-friendly as possible. Cookies are small text files that are stored in the web browser you use. These files help us identify certain preferences of our visitors when they surf and so tailor our site to their needs. Most of the cookies we use are what are termed session cookies. They are automatically deleted when your visit is over. However, we also use persistent cookies. These help us improve user guidance. Our cookies do not collect personal data and do not allow you to be identified on third-party Websites. You can make a setting in your browser so that you are notified when cookies are placed. That makes the use of cookies transparent for you. You can also refuse to accept any cookies whatsoever in your browser settings. However, that may mean you are not able to use all the features of the Website.
+  3. _Website analysis using Google Analytics:_ We also use Google Analytics, a web analytics service from Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, U.S. (“ **Google** ”), on our Website to continuously improve it. Google Analytics likewise uses cookies that are saved on your computer and enable analysis of the Website’s use. The information on your use of this Website generated by the cookie is usually transferred to a Google server in Europe (or a country that is party to the Agreement on the European Economic Area) so that the IP address is anonymized and thus cannot be directly linked to a particular individual. The truncated IP address is sent to a Google server in the U.S. and stored there only after the IP address has been anonymized. The complete IP address is sent to a Google server in the U.S. and truncated there only in exceptional cases. Google Analytics is used on this Website with an extension to permit anonymized recording of IP addresses (IP masking). Google will use the information gathered in this way to evaluate your use of the Website, to compile reports on Website activities and to provide us with other services relating to use of the Website on our behalf. The IP address sent from your browser as part of Google Analytics is not combined by Google with other data. You can prevent the storage of cookies by activating the respective setting in your browser software. However, we point out that you might then not be able to use all the features of this Website in full. You can also prevent recording of the data relating to your use of the Website and generated by the cookie (including your IP address) by Google and processing of this data by Google by downloading and installing the browser plug-in available under the following link: <http://tools.google.com/dlpage/gaoptout?hl=de>. That sets an opt-out cookie that prevents future recording of your data when you visit this Website. You can find more information on data protection in relation to Google Analytics here <http://www.google.com/analytics/terms/de.html> and here <http://www.google.com/intl/de/analytics/privacyoverview.html>.
+  4. _Embedded videos_ : We have embedded our own videos on our Website, which are also available on our channel on the YouTube platform (an offering from YouTube LLC, 901 Cherry Avenue, San Bruno, CA 94066, U.S. – “ **YouTube** ”). The contents of the YouTube videos embedded on our Website are shown in a subsection of our Website, but are only started and played if you click actively on them. When you play an embedded YouTube video, a connection to the YouTube servers is established so that the video is played in your browser. YouTube videos are embedded on our Website in the privacy-enhanced mode provided by YouTube; according to YouTube, use of this mode means that no cookies are stored on your device. However, when you play a YouTube video, your IP address is transferred and so YouTube obtains information that you have visited our Website. According to YouTube, this information cannot be assigned to you if you are not logged on to YouTube or another Google service at the time a video is called. As soon as you start playing an embedded video by clicking on it, YouTube – in privacy-enhanced mode – only stores cookies on your device which do not contain any data that can identify you personally, unless you are currently logged on to a Google service. These cookies can be prevented by appropriate browser settings and extensions. You can find more information on data processing by and the privacy policy of YouTube and Google at <http://www.google.de/intl/de/policies/privacy/>.
+  5. _Links to other Websites_ : Our Website contains links to other offerings (including our presence on Facebook, YouTube, LinkedIn and Instagram. These are not social plugins (i.e. buttons which enable the operator of the offering in question to collect information on our Website’s users when the Website is called). However, please note that when you call the other offering, information (possibly including personal data) on your visit may be collected by the operator of the other offering. You can find more information in the data privacy statements of the operators of the offering.
+  6. _Means of contact_ : On our Website, we point out various ways you can contact us. If you use one of these ways, we process the information we ask for and/or you give us in order to handle your inquiry.
+  7. _Registration and user account_ : On our Website we offer you the possibility of registering as a user, in particular so that you can use our e-services. Only employees, contact persons and representatives (jointly termed “ **Contact Person(s)** ”) of existing customers and business partners (jointly termed “ **Business Partner(s)** ”) can register. Please note that we do not permit registration by Contact Persons who are minors in our General Terms and Conditions or special terms and conditions for use of our e-services. During registration, we collect not only details of the Business Partner, but also personal data on the Contact Person as defined specifically in the registration mask. Obligatory information is indicated as such. We may ask you to enter the data collected during registration again (in particular so that you can be identified) and collect further personal data if you use certain content or features on our Website.
+  8. _E-services:_ Our e-services can only be used by registered Contact Persons from our Business Partners. In particular, you can use the e-services to request offers from us, place, change or delete orders, submit claims and feedback, and call information on current or completed orders on behalf of the respective Business Partner under an existing business relationship. Depending on the type of e-service, we may ask for further information, exceeding the personal data of the Contact Person that was collected during registration. This data is also as defined in the online screen(s) for the e-service in question; here too, obligatory data is indicated as such. In connection with your order we may also offer the possibility to provide information about the recipient of the consignment that we transport; these can as well refer to natural persons (for example, the recipient himself or a specific Contact Person in a legal entity). Please ensure that the persons you have named are informed of the processing of their personal data in connection with an order, as required by law.
+  9. _E-services for users who have not registered_ : In addition to the e-services for registered users, we may also provide certain features, such as a consignment tracking application, outside the section of our Website where registration is required. As part of these features, we may not only ask for information related purely to the company or an order, but also personal data (for example the name of the user or contact information such as an e-mail address).
+  10. _E-mail newsletter_ : On our Website we may also offer you the possibility of registering for our e-mail newsletter. The necessary information is as defined in the registration form and usually comprises – as mandatory data – your title, your given name and surname, your company and your e-mail address. Mandatory information is indicated as such.
+  11. _Magazine_ : On our Website we also offer you the possibility of ordering our customer magazine “planet”. The necessary information is as defined in the registration form and usually comprises your form of address, your given name and surname, and your complete postal address.
+
+
+  1. **For what purposes do we process your data and what is the legal basis for that?**
+
+
+  1. Personal data that may be contained in the log files is processed to enable you to use our Website; that is done on the basis of Section 15 (1) of the German Telemedia Act (TMG) and on the basis of Article 6 paragraph 1 point (f) GDPR so as to safeguard our legitimate interests in operating our Website.
+  2. The data collected using cookies (including the web analytics services) and the pseudonymous user profiles are processed for the purposes of advertising, market research and tailoring our Website to users’ needs on the basis of Section 15 (3) of the German Telemedia Act (TMG) and on the basis of Article 6 paragraph 1 point (f) GDPR so as to safeguard our legitimate interests in analyzing use of our Website.
+  3. Personal data provided to us as part of an inquiry directed to us using the channels specified on the Website is processed to deal with the inquiry so as to safeguard our legitimate interests in conducting an existing business relationship or performing our other business activities on the basis of Article 6 paragraph 1 point (f) GDPR.
+  4. Personal data of our Business Partners’ Contact Persons or other natural persons (recipient of the consignment or recipient’s Contact Person) that is collected as part of registration or use of a user account and/or the e-services is processed so as to safeguard our legitimate interests in conducting existing business relationships on the basis of Article 6 paragraph 1 point (f) GDPR.
+  5. Data provided as part of registration for the newsletter or in ordering our customer magazine is processed on the basis of your consent and Article 6 paragraph 1 point (a) GDPR. Please note that you can revoke the consent you have given us at any time with future effect, for example by clicking on the relevant link in each newsletter we send or by sending a letter, fax or e-mail using one of the contact channels specified on the first page of this Data Privacy Statement.
+  6. We can also process the personal data collected in connection with the use of our Website to comply with legal obligations to which we are subject; this is done on the basis of Article 6 paragraph 1 point (c) GDPR.
+  7. Where necessary, we also process personal data above and beyond the above-mentioned purposes to safeguard further legitimate interests or the interests of third parties; this is done on the basis of Article 6 paragraph 1 point (f) GDPR. Our legitimate interests include 
+    1. establishing legal claims and defending ourselves in legal disputes;
+    2. preventing and investigating criminal acts; and
+    3. controlling and further development of our business activities, including risk management and operation of our IT systems.
+
+
+  1. **Do I have an obligation to provide data?**
+
+
+
+The particulars required for registration, the user account and the e-services, for registering for the newsletter and for ordering our customer magazine are indicated as mandatory details in the relevant section of our Website (e.g. an online form); if you do not provide these mandatory details, we cannot enable you to use the feature in question.
+
+If we collect personal data from you above and beyond that, we notify you at the time whether the information has to be provided under the law or a contract or is necessary so that a contract can be concluded. We usually indicate information that is provided voluntarily and does not have to be furnished pursuant to one of the above obligations or is not required to conclude a contract.
+
+  1. **Who receives personal data?**
+
+
+
+In general, personal data is processed inside our company. Only specific departments/organizational units can access personal data, depending on its nature. They include in particular the specialist departments tasked with providing our digital offerings (e.g. Websites) or the described business processes, and our IT department. A role and authorization concept restricts access at our company to the functions and the scope required for the purpose for which the data is processed.
+
+We may also transfer personal data to third parties outside our company to the legally permissible extent. In particular, these external recipients may include
+
+  * affiliated companies in the Lufthansa Group to which we transfer personal data for internal administrative purposes and for the performance of central services (e.g. billing services);
+  * service providers whom we have engaged and who, on the basis of a separate contractual agreement, provide us with services that may also involve processing personal data, as well as the subcontractors our service providers engage with our consent;
+  * non-public and public bodies, where we are obliged to transfer your personal data pursuant to statutory obligations,
+  * recipients of a consignment we deliver for one of our Business Partners; the consignments may also contain personal data from you in individual cases if you have been named as the Contact Person in the provided consignment data;
+  * other Contact Persons at your organization if they are likewise registered to use our e-services; in this case, all Contact Persons within the organization of a Business Partner may be able to access details of all business transactions of that Business Partner (including information on your involvement in such a business transaction) using the e-services;
+
+
+  1. **Is automated decision-making used?**
+
+
+
+In principle, we do not use any automated decision-making (including profiling) within the meaning of Article 22 GDPR in connection with operation of our Website. If we use such methods in individual cases, we will notify you separately to the legally prescribed extent.
+
+  1. **Is Personal data transferred to countries outside the EU/EEA?**
+
+
+
+In most cases, personal data is processed within the EU or the European Economic Area.
+
+Since the Lufthansa Group operates globally and we also perform our services worldwide, we also transfer information to recipients in what are termed “third countries”. “Third countries” are countries outside the European Union or not party to the Agreement on the European Economic Area where it cannot be readily assumed that they have a level of data protection comparable to that in the European Union. Recipients in third countries may be, for example, service providers we engage (such as our call center) or the foreign offices of our own we run as part of our international presence.
+
+If the transferred information also includes personal data, we ensure before transferring it that the necessary adequate level of data protection is ensured in the third country in question or at the recipient in the third country. That may be based in particular on an “adequacy decision” by the European Commission, in which an adequate level of data protection is ascertained for a specific third country as a whole. Alternatively, we can transfer data on the basis of EU standard contractual clauses agreed with a recipient or – in the case of recipients in the U.S. – on the basis of compliance with the principles of the EU–U.S. Privacy Shield. We will be pleased to provide you upon request with more information on the suitable and adequate safeguards to ensure compliance with an adequate level of data protection; you can find the contact data at the beginning of this Data Privacy Statement. You can also find information on the organizations participating in the EU-U.S. Privacy Shield here: <http://www.privacyshield.gov/list>.
+
+  1. **For how long is personal data stored?**
+
+
+
+In general, we store personal data for as long as we have legitimate interests in storing it and they are not overridden by your interests in your data no longer being stored.
+
+Even if we have no legitimate interests, we can continue to store your data if we are required to do so by law (such as to comply with retention obligations). We erase your personal data, also without any action on your part, as soon as we no longer need to know it in order to fulfill the purpose of processing or storage of it is otherwise legally impermissible.
+
+As a rule
+
+  * log data is erased within seven days, unless it needs to be stored further for purposes envisaged under the law, such as detection of misuse and the identification and rectification of technical faults;
+  * data processed in connection with a business relationship is erased no later than by the end of the statutory retention periods; and
+  * data stored in connection with registration as a user is erased when the customer account is deleted, unless further retention of it is required to comply with statutory retention periods in connection with the business relationship in question. If applicable, information (including personal data) is also erased before the customer account is deleted if a shorter period of time is envisaged in the respective e-service, if such shorter period can be defined by you or the Business Partner in question or if the purpose for further processing such personal data ceases to apply otherwise.
+
+
+
+Personal data we have to store in order to comply with retention obligations is stored until the obligation to retain it ends. If we store personal data solely to comply with retention obligations, it is usually blocked, meaning it can only be accessed when that is required for the purpose for which the data had to be retained.
+
+  1. **What are your rights as an affected person?**
+
+
+  1. **Right of Objection according to Article 21 GDPR**
+
+
+
+**An affected person has the right to object, on grounds relating to his or her particular situation, at any time to processing of personal data concerning him or her which is based on point (e) or (f) of Article 6 (1), including profiling based on those provisions. In the event of such an objection, we will no longer process the personal data concerning that person, unless (i) we can demonstrate compelling legitimate grounds to further process the personal data, outweighing the interests, rights and freedoms of the person affected, or (ii) the processing is used for effective exercise or defense of legal rights.**
+
+**In case we process personal data for direct marketing purposes, the affected person shall have the right to object at any time to processing of personal data concerning him or her for such marketing, which includes profiling to the extent that it is related to such direct marketing. If an affected person objects processing for direct marketing purposes, the relevant personal data will no longer be processed for these purposes.**
+
+  1. Additional Rights
+
+
+
+As an affected person, you also have the right to
+
+  * access the personal data stored on you (Article 15 GDPR);
+  * have incorrect data rectified and to have incomplete data completed (Article 16 GDPR);
+  * demand erasure of personal data (Article 17 GDPR);
+  * demand restriction of processing (Article 18 GDPR); and
+  * demand data portability (Article 20 GDPR),
+
+
+
+In order to exercise these rights you can contact us at any time, e.g. by using the channels specified at the beginning of this Data Privacy Statement.
+
+If you have questions relating to processing of data, you can also contact our Data Protection Officer.
+
+As an affected person you also have the right to lodge a complaint with a supervisory authority responsible for data protection (Article 77 GDPR).
+
+* * *
