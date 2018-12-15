@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ksde.org privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523230939id_/http%3A//www.ksde.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksde.org privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215063700id_/https%3A//www.ksde.org/Privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Statement
 
 Kansas State Department of Education is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Kansas State Department of Education Web site and governs data collection and usage. By using the Kansas State Department of Education website, you consent to the data practices described in this statement.
 
