@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the you2repeat.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616163645id_/http%3A//www.you2repeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the you2repeat.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215014041id_/http%3A//www.you2repeat.com/privacy) for the most accurate reproduction.*
 
 # YouTube 2 Repeat - You2Repeat
 
