@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialserve.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154050id_/http%3A//www.socialserve.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialserve.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215181754id_/http%3A//www.socialserve.com/Privacy.html) for the most accurate reproduction.*
 
 # Socialserve.com - Privacy Guidelines
 
@@ -60,12 +60,12 @@ Socialserve.com takes our users' and clients' privacy seriously. As a nonprofit 
 
 
 
-Copyright © 2017 - [Emphasys Software](http://emphasyshls.com/) - All rights reserved  
+Copyright © 2018 - [Emphasys Software](http://emphasyshls.com/) - All rights reserved  
 Email: [info@socialserve.com](https://web.archive.org/SendEmail.html?type=Questions "Email Socialserve.com") - Socialserve.com - PO Box 35305 - Charlotte, NC 28235 
 
 Phone: 704.334.8722 - Fax: 704.334.0779   
 Toll-Free: 1.877.428.8844 \- Toll-Free Fax: 1.866.265.7811 \- TDD/TTY: 7-1-1 [ [ Relay Service](https://www.fcc.gov/encyclopedia/telecommunications-relay-services-directory) ]   
-Page Loaded: 06/06/17 11:40 (Eastern Time) - Version 4.0
+Page Loaded: 12/15/18 13:17 (Eastern Time) - Version 4.0
 
 [](http://portal.hud.gov/hudportal/HUD/program_offices/fair_housing_equal_opp/FHLaws/yourrights "Fair Housing Act of 1968") [](https://www.disability.gov/ "Universally Accessible")   
 
