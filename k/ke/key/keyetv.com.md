@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keyetv.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624124724id_/http%3A//cbsaustin.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyetv.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215123157id_/https%3A//cbsaustin.com/station/privacy) for the most accurate reproduction.*
 
 # Austin Privacy | News, Weather, Sports, Breaking News | KEYE
 
