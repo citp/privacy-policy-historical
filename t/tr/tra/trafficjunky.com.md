@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trafficjunky.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616184410id_/https%3A//www.trafficjunky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficjunky.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215010804id_/https%3A//www.trafficjunky.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrafficJunky
 
 ## 1\. Application of This Policy
 
-This Privacy Policy applies to TrafficJunky only. It will tell you how and why we gather personal and non-personal information about you. TrafficJunky Inc. understands the importance of personal privacy and uses best practices to uphold this while using our website. Below is our privacy policy that ensures you are protected while using TrafficJunky. Please contact our support team if you have any further questions regarding this policy.
+This Privacy Policy applies to TrafficJunky only. It will tell you how and why we gather and use information about you while acting as a business advertiser. TrafficJunky Inc. understands the importance of  privacy and uses best practices, to uphold this while using our website within a business to business relationship context. Below is our privacy policy that ensures you are protected while using TrafficJunky. Please contact our support team if you have any further questions regarding this policy.
 
 ## 2\. Collection and Our Use of Your Information
 
