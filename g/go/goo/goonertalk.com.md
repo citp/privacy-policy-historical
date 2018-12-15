@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goonertalk.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615145240id_/http%3A//goonertalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goonertalk.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215131643id_/http%3A//goonertalk.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Gooner Talk
 
@@ -58,9 +58,13 @@ Gooner Talk may amend this Privacy Policy from time to time, at its sole discret
 
 If you decide to visit the Gooner Talk website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
 
+**Opting Out Of Interest-Based Ads**
+
+To opt out of interest based advertising, please [click here](http://optout.networkadvertising.org/#!/).
+
 **Effective Date of this Privacy Policy**
 
-This Privacy Policy is effective as of 15 May 2010 and last updated 15 May 2010.
+This Privacy Policy is effective as of 15 May 2010 and last updated in July 2018.
 
   
 
