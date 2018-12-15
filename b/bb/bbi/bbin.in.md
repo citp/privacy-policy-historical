@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbin.in privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228074302id_/http%3A//bbin.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbin.in privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215154320id_/https%3A//bbin.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BBin
 
@@ -18,7 +18,7 @@ Many downloadable software applications that we sell require the software develo
 
 Shopping at BBin Shop requires visitors personal information, which is not shared with other people or company.
 
-For more information on this, visit <http://bbin.in/contact-us/bbin-store-privacy/>
+For more information on this, visit <https://bbin.in/contact-us/bbin-store-privacy/>
 
 ## BBin.in Remote Help
 
@@ -28,6 +28,30 @@ We do not rent, sell, or share your BBM PIN with other people or companies.
 
 BBin.in contains many links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other Web sites.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of [Google Adsense](http://www.google.com/adsense).
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of [Google Adsense](https://www.google.com/adsense).
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+
+## What personal data we collect and why we collect it
+
+We collect our regular reader’s email addresses on their request only, so that we send them news updates.
+
+### Comments
+
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+
+### Cookies
+
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
