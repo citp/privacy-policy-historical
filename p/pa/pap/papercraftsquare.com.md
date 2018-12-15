@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papercraftsquare.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612003632id_/http%3A//www.papercraftsquare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papercraftsquare.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215120213id_/http%3A//www.papercraftsquare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PapercraftSquare.com
 
