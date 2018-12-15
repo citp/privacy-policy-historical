@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contour.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615091554id_/http%3A//contour.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contour.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215105601id_/http%3A//contour.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Contour
 
@@ -38,7 +38,7 @@ Compliance with Laws and Law Enforcement. Contour cooperates with government and
 
 Business Transfers. Contour may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
-All members may review, update, correct or delete the Personal Information in their profile by contacting us or by updating the “Settings” and “Profile” areas of the Site. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d7a4a2a7a7b8a5a397b4b8b9a3b8a2a5f9b4b8ba) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+All members may review, update, correct or delete the Personal Information in their profile by contacting us or by updating the “Settings” and “Profile” areas of the Site. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us at [support@contour.com](mailto:support@contour.com) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
 
 We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
@@ -46,9 +46,9 @@ Your information may be transferred to — and maintained on — computers locat
 
 Our Site may contain links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
-This Site is not directed to individuals under 18. We do not knowingly collect personally identifiable information from individuals under 18. If a parent or guardian becomes aware that his or her minor child under 18 has provided us with Personal Information without their consent, he or she should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f88b8d8888978a8cb89b97968c978d8ad69b9795). If we become aware that a person under 18 has provided us with Personal Information, we will delete such information from our files.
+This Site is not directed to individuals under 18. We do not knowingly collect personally identifiable information from individuals under 18. If a parent or guardian becomes aware that his or her minor child under 18 has provided us with Personal Information without their consent, he or she should contact us at [support@contour.com](mailto:support@contour.com). If we become aware that a person under 18 has provided us with Personal Information, we will delete such information from our files.
 
-If you have any questions about this Privacy Policy, please contact us at [ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#82f1f7f2f2edf0f6c2e1edecf6edf7f0ace1edef) or at: Contour, LLC.
+If you have any questions about this Privacy Policy, please contact us at [ support@contour.com](mailto:support@contour.com) or at: Contour, LLC.
 
 5152 N.Edgewood Drive, Suite #375  
 Provo, UT 84604
