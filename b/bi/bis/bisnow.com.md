@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bisnow.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627195912id_/https%3A//www.bisnow.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bisnow.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215051125id_/https%3A//www.bisnow.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -99,11 +99,11 @@ To enhance your experience, our websites may include links to other, unaffiliate
 
 ### HOW TO UNSUBSCRIBE TO BISNOW EMAILS AND “SPONSORED EMAIL”
 
-You can unsubscribe from receiving Bisnow emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any Bisnow email and following the instructions. You can also unsubscribe by clicking on the "Manage Subscriptions" link on the bottom of the Bisnow homepage and following the instructions, or by emailing circulation@bisnow.com with your name, email address, and specific request. We will endeavor to process your request within 10 days. Please note that during that time, you may continue to receive e-mail messages from Bisnow.
+You can unsubscribe from receiving Bisnow emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any Bisnow email and following the instructions. Please note, unsubscribe requests sent by email are not valid. Requesting an unsubscribe by replying to a Bisnow email or through communication with a Bisnow employee is not considered a legitimate unsubscribe request.
 
 If you’ve been subscribing to our emails then from time to time you’ve also been receiving emails marked “Sponsored Email” in the subject line and in the email header. These emails are content paid for by our sponsors.
 
-You can unsubscribe from receiving Sponsored Email emails. However, if you do so, you will no longer receive Bisnow emails either. You can unsubscribe by clicking on the "Unsubscribe" link in the footer of any Bisnow email and following the instructions. You can also unsubscribe by clicking on the “Manage Subscriptions” link on the bottom of the Bisnow homepage and following the instructions, or by emailing circulation@bisnow.com with your name, email address, and specific request. We will endeavor to process your request within 10 days. Please note that during that time, you may continue to receive e-mail messages from Bisnow.
+You can unsubscribe from receiving Sponsored Email emails. However, if you do so, you will no longer receive Bisnow emails either. You can unsubscribe by clicking on the "Unsubscribe" link in the footer of any Bisnow email and following the instructions. You can also unsubscribe by clicking on the “Manage Subscriptions” link on the bottom of the Bisnow homepage and following the instructions. We will endeavor to process your request within 10 days. Please note that during that time, you may continue to receive e-mail messages from Bisnow.
 
 Additionally, regardless of whether you have unsubscribed from receiving advertising and promotional material from Bisnow, you will continue to receive transactional information from us, such as information relating to your account or payment or bill information.
 
