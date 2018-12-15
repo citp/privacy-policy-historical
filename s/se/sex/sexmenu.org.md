@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexmenu.org privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617065153id_/http%3A//sexmenu.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexmenu.org privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215092345id_/http%3A//sexmenu.org/privacy) for the most accurate reproduction.*
 
 # Privacy – SexMenu.ORG
 
@@ -34,7 +34,7 @@ We need to respond to subpoenas, court orders or such other legal process;
 
 We need to protect the personal safety of the users of our websites or defend the rights or property of SexMenu;
 
-We find that your actions on our websites violate the SexMenu Terms of Use document or any of our usage guidelines for specific products or services. Consent If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to SexMenu. If you have provided personal information to SexMenu and no longer consent to its use or disclosure as outlined herein, please notify SexMenu at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We find that your actions on our websites violate the SexMenu Terms of Use document or any of our usage guidelines for specific products or services. Consent If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to SexMenu. If you have provided personal information to SexMenu and no longer consent to its use or disclosure as outlined herein, please notify SexMenu at privacy@SexMenu.com.
 
 ## Security
 
