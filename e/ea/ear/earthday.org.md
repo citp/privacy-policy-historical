@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthday.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626213333id_/https%3A//www.earthday.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthday.org privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215121313id_/https%3A//www.earthday.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Earth Day Network
 
@@ -65,7 +65,7 @@ If you wish to have your event removed from our website, please email info@earth
 
 
 
-To make a donation to Earth Day Network, you must submit Personal Information so that we may collect it only for the purpose of processing donations. You also agree that we may store this information to keep responsible records. We will not trade, share or sell a donor’s personal information with anyone else, nor send donor mailings on behalf of other organizations online and offline.
+To make a donation to Earth Day Network, you must submit Personal Information so that we may collect it only for the purpose of processing donations. You also agree that we may store this information to keep responsible records. We will not trade, share or sell a donor’s personal information, whether collected online or offline, with anyone else, nor send donor mailings on behalf of other organizations.
 
   6. **Send a Letter or Postcard**
 
