@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antivirusapplove.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610043821id_/http%3A//www.antivirusapplove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antivirusapplove.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215054047id_/http%3A//www.antivirusapplove.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Antivirus App Love
 
