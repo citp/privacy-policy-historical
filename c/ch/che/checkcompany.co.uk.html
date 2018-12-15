@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the checkcompany.co.uk privacy policy that was archived on 2018-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180615162157id_/http%3A//www.checkcompany.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the checkcompany.co.uk privacy policy that was archived on 2018-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181215021506id_/http%3A//www.checkcompany.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><head>
 <meta charset="utf-8">
@@ -17,7 +17,7 @@
 <script type="text/javascript" src="http://www.checkcompany.co.uk/sites/default/files/js/js_UwO_0RHLq_nsvPwmX_QYU1JLTYOeZOvu0d7mUDYvhvQ.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"business","theme_token":"KLzu57cslBCh_Rv0C3E-bBPoho2fwGEDetixWVuWCV0","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/business\/js\/superfish.js":1,"sites\/all\/themes\/business\/js\/supersubs.js":1,"sites\/all\/themes\/business\/js\/sfmenu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/themes\/business\/style.css":1,"sites\/all\/themes\/business\/dd_custom_style.css":1,"sites\/all\/themes\/business\/color\/colors.css":1}}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"business","theme_token":"ps2BALpRbbSvLo6JT7N7I8zgvMnB1wvZccv11KvDAaQ","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/business\/js\/superfish.js":1,"sites\/all\/themes\/business\/js\/supersubs.js":1,"sites\/all\/themes\/business\/js\/sfmenu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/themes\/business\/style.css":1,"sites\/all\/themes\/business\/dd_custom_style.css":1,"sites\/all\/themes\/business\/color\/colors.css":1}}});
 //--><!]]>
 </script>
 <!--[if lt IE 9]><script src="/sites/all/themes/business/js/html5.js"></script><![endif]-->
@@ -195,12 +195,75 @@ We may disclose your personal information to third parties:<br>
 <br>  </div>
   
 </div> <!-- /.block -->
+<div id="block-block-23" class="block block-block">
+
+      
+  <div class="content">
+    <script type="text/javascript">
+function setCookieConsent(cname, cvalue, exdays) {
+   //console.log("Cookie Consent function triggered");
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000 * 3));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+     jQuery(function ($) { $('#cookieConsent').remove(); })
+}
+function getCookieConsent(cname) {
+    var name = cname + "=";
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    for(var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+function checkCookieConsent() {
+    var cookieConsent=getCookieConsent("cookieConsent");
+    if (cookieConsent != "") {
+        console.log("found a cookie");
+        jQuery(function ($) { $('#cookieConsent').remove(); })
+    } else {
+       return false;
+       }
+    }
+
+
+checkCookieConsent();
+
+
+</script>
+<style>
+div#cookieConsent {
+    background-color: whitesmoke;
+    width: 98%;
+    padding-top: 5px;
+    padding: 5px 10px 0px 2px;
+    text-align: center;
+}
+input#submit-cookieConsent{
+    background: darkgray;
+    border-color: gray;
+}
+</style>
+<div id="cookieConsent">
+<p>This website uses cookies to help us analyse traffic and to personalise our content and ads. <a href="/privacy-policy">Learn more. </a> 
+<input type="submit" id="submit-cookieConsent" name="cookieconsent" value="X Close" class="form-submit" onclick="setCookieConsent('cookieConsent','Accepted',365)">
+</p>
+</div>  </div>
+  
+</div> <!-- /.block -->
 <div id="block-block-2" class="block block-block">
 
       
   <div class="content">
     <p>
-This site uses cookies. By using our site, and not disabling cookies in your browser, you consent to this. For more info please see our privacy policy. <br> (c) 2018 Check Company | <a href="/privacy-policy"> Privacy </a> | <a href="/terms-of-use"> Terms of Use </a> | <a href="/contact"> Contact Us</a>&nbsp;</p>
+(c) 2018 Check Company | <a href="/privacy-policy"> Privacy </a> | <a href="/terms-of-use"> Terms of Use </a> | <a href="/contact"> Contact Us</a>&nbsp;</p>
   </div>
   
 </div> <!-- /.block -->
