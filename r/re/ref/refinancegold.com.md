@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refinancegold.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615215638id_/http%3A//refinancegold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refinancegold.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215184307id_/http%3A//refinancegold.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Refinance Gold
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#264f48404966494b41555253424f49550845494b)
+  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7e171018113e1113190d0a0b1a17110d501d1113)
 
 
 
