@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnpython.org privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528140822id_/http%3A//www.learnpython.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnpython.org privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215210458id_/http%3A//learnpython.org/privacy) for the most accurate reproduction.*
 
 # Learn Python - Free Interactive Python Tutorial
 
@@ -73,5 +73,5 @@ This policy was last modified on 10/13/2012
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://learnpython.org  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f0838580809f8284b09c9591829e808984989f9ede9f8297)  
+[support@learnpython.org](mailto:support@learnpython.org)  
 
