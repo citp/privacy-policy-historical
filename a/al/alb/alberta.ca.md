@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alberta.ca privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615180517id_/https%3A//www.alberta.ca/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alberta.ca privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215180503id_/https%3A//www.alberta.ca/privacystatement.aspx) for the most accurate reproduction.*
 
 # Privacy | Alberta.ca
-
-The Government of Alberta is committed to ensuring your privacy while you visit this site. 
 
 ## Collection of information
 
@@ -43,17 +41,18 @@ Government of Alberta websites use cookies to collect anonymous statistical info
 
 This site uses a number of third party products. Read their privacy statements to find out how they track and use your information:
 
-[AddThis privacy statement](http://www.addthis.com/privacy)
+  * [AddThis privacy statement](http://www.addthis.com/privacy)
+  * [Crazy Egg privacy statement](http://www.crazyegg.com/privacy)
+  * [Facebook cookie policy](https://www.facebook.com/policies/cookies/)
+  * [Google Analytics privacy statement](https://www.google.com/policies/privacy/)
+  * [Google AdWords cookie usage](https://www.google.com/policies/technologies/ads/)
+  * [Microsoft privacy policy](https://privacy.microsoft.com/en-us/privacystatement)
+  * [Postmedia cookie policy](https://pages.postmedia.com/cookie-policy/)
+  * [SiteImprove privacy policy](https://siteimprove.com/en/privacy/privacy-policy/)
+  * [TruCoversion privacy policy](https://www.truconversion.com/privacy-policy.html)
+  * [Twitter cookie policy](https://help.twitter.com/en/rules-and-policies/twitter-cookies)
 
-[Crazy Egg privacy statement](http://www.crazyegg.com/privacy)
 
-[Facebook cookie policy](https://www.facebook.com/policies/cookies/)
-
-[Google Analytics privacy statement](https://www.google.com/policies/privacy/)
-
-[Google AdWords cookie usage](https://www.google.com/policies/technologies/ads/)
-
-[Twitter cookie policy](https://help.twitter.com/en/rules-and-policies/twitter-cookies)
 
 ## Security
 
