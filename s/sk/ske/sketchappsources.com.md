@@ -1,37 +1,210 @@
-> *The following text is extracted and transformed from the sketchappsources.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005111303id_/https%3A//www.sketchappsources.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sketchappsources.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216003429id_/https%3A//www.sketchappsources.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement
 
-Last Updated: January 2015
+Last Updated: May 25, 2018
 
-The Sketch App Sources site is a collection of many tips, articles, and free design resources created by Sketch users from around the world who want to share their work and passion for design. Find user interface templates, icons, buttons, website templates, mobile apps, and many more .sketch files you can download and use for your projects. All resources are available for download and depending on the terms of use by the resource creator, they are free to use in your projects.
+This Privacy Statement informs you about the type of personal data that is collected and received through our website https://www.sketchappsources.com ("website"). You will find out what information may be collected, how you can control the collection, correction and/or deletion of personal data.
 
-Sketch App Sources uses personally identifiable information such as name, email, and links to your Twitter, Dribbble, Google +, and Facebook to provide you with an interactive and personalized experience. Please note this privacy policy applies only to the information collected by Sketchappsources.com and does not impact information collected by other means.
+* * *
 
-**How we gather information.**
+## Quick Links
 
-Sketch App Sources gathers and stores information through its resource submission process. If you decide to contribute to the Sketch App Sources community you are prompted to provide information, such as your first and last name, your email address, your Dribbble, Twitter, Facebook, Google + links (if you wish to have your social media links added to your profile for others to be able to reach out to you) and your resource.
+We recommend that you read this Privacy Statement in full to ensure you are fully informed. However, if you only want to access a particular section, then you can click on the relevant link below to jump to that section.
 
-Other pages might prompt you to provide information, such as your email address to sign up for updates as well as to subscribe to the RSS feed. 
+  * Who we are
+  * How we obtain personal data
+  * The types of personal data we may obtain
+  * Information we may obtain from third parties
+  * Detailed information on the processing of personal data
+  * Links to third party websites
+  * How we integrate with social networks
+  * How we may use personal data
+  * How we may share personal data
+  * Data transfers outside the EEA
+  * How long we retain personal data
+  * How we protect personal data
+  * Children
+  * Your Rights and GDPR
+  * Updates to this Privacy Statement
+  * How to Contact Us
 
-You may also provide information when you participate in sweepstakes and contests, voting and polling activities, message boards, comment sections, and other interactive areas of the site. As we adopt additional technology, we may also gather information through other means. We will be transparent with your privacy policy if changes occur.
 
-**What we do with the information collected.**
 
-We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Such aggregated Information may occasionally be shared with our partners, but cannot be used to contact you individually. We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on Sketchappsources.com to communicate with you regarding our Terms of Use and Privacy Policy, products and services offered by Sketchappsources.com and other affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other business units and affiliates. This policy does not apply to any affiliate's use of such information. Personally Identifiable Information collected by Sketch App Sources may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information. As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law. 
+* * *
 
-**Affiliated sites, linked sites and advertisements.**
+## Who we are
 
-Sketchappsources.com expects its partners, advertisers, and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates, and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view certain content that is actually created or hosted by a third party. Also, through Sketchappsources.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. Sketchappsources.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. Sketchappsources.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties. A cookie gets entered by your Web browser into the "Cookies" folder on your hard drive after you close your browser, and may be used by your browser on subsequent visits to the Site. We use persistent and session cookies to analyze and enhance your experience on the Site, and use third party ad technology to serve ads. The data that is collected is the property of Sketchappsources.com, not the third party. We also allow third parties called ad networks or ad servers to serve ads to you on Sketchappsources.com. Cookies enable them to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on. This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on Sketchappsources.com. Sketchappsources.com does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. Sketchappsources.com maintains relationships with a number of third-party networks. Those parties that use cookies may offer you a way to opt out of ad targeting. You may find more information at the web site of the individual ad network or the Network Advertising Initiative. Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Sketchappsources.com and this policy.
+We are Sketch App Source ("we", "us" or "our") and can be contacted online via contact@sketchappsources.com or by mail via P.O. Box 83433, Gaithersburg, MD 20883, USA. We are the controller responsible for the processing of personal data through the website.
 
-**Our policy towards children.**
+## How we obtain personal data
 
-Sketchappsources.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Sketchappsources.com has any information from or about anyone under 13, please contact us.
+We collect and receive personal data through the website when you provide it directly to us or when personal data about you is automatically collected in connection with your use of the website. Personal data means any information relating to an identified or identifiable natural person. The data may be collected from the following sources:
 
-**Changes to this policy.**
+  * For the most part, directly from you in the form of voluntary resource submission via “Submit Your Resource” page or via weekly newsletter subscription.
+  * Websites or social networking pages containing information that you have made public.
+  * From cookies and local storage when you visit our website: 
+    * To gather website statistical data to analyze how our users use the website, such as which pages are visited, how long pages were visited and the paths taken by visitors to our website as they move from page to page. These cookies are placed by the domain https://www.sketchappsources.com.
+    * To provide authentication (i.e. to keep you logged in between sessions). The information collected using local storage may be stored on your browser and may persists after your browser is closed.
 
-Sketchappsources.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
-**Governing law.**
 
-This policy and the use of this Site are governed by United States law. Any claim related to the Site or this policy shall be brought in a federal or state court in the United States, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of Sketchappsources.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Sketchappsources.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer. In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.
+## The types of personal data we may obtain
+
+We may collect and receive the following personal data from you:
+
+  * **Contact Information:** information you shared with us to identify or contact you, which may include first name, last name, email, personal website and social media handles from Twitter, Dribbble, Google+, Facebook, and Instagram.
+  * **User Account Information:** information that identifies you on the websites, such as your username, email address, password, and IP address.
+  * **User Content:** personal data included in content, images, comments, and other content, information, and materials that you post to or through the website.
+  * **Important Note:** users of our website should not use actual or "live" personal data or other sensitive data (e.g. real health information, financial information, or other information) when sharing, reviewing, and using designs through our website. We recommend following industry best practices of using “dummy data” that does not refer to actual people, financial accounts, etc. while sharing, reviewing, and using your designs and prototypes.
+  * **Log Data:** information automatically recorded regarding usages of the website, such as IP addresses, device and browser type, operating system, the pages or features of our website to which a user browsed, the time spent on those pages or features, the frequency with which the Service is used by a user, search terms used by a user, the links on the website that a user clicked on or used, and other statistics.
+  * **Correspondence:** if you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the website. 
+
+
+
+We may collect other types of personal data if required under applicable law or if necessary for the purposes listed below. We will then inform you and ensure that there is a valid legal basis for doing so.
+
+## Information we may obtain from third parties
+
+From time to time, we may collect personal data about you that we obtain from other sources. The types of information we collect from third parties may include: name, email address, personal website, and social media handles from public profiles such as Twitter, Dribbble, Google+, Facebook, and Instagram. We use this information to maintain and improve the accuracy of the records we hold about you, to provide technical assistance for the setting-up and maintenance of resource.
+
+## Detailed information on the processing of personal data
+
+We use third party services to deliver the best experience on the website.
+
+> ### Google Analytics (Google Inc.)
+> 
+> Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the data collected to track and examine the use of this website, to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network.
+> 
+> Personal data collected: cookies and usage data  
+>  Place of processing: US – [Privacy Policy](https://www.google.com/analytics/terms/us.html) – [Opt Out](https://tools.google.com/dlpage/gaoptout)
+> 
+> ### HeatMap, Inc.
+> 
+> HeatMap, Inc. offers a software as services (SaaS) tool for analyzing and representing the online behavior of website visitors. By combining both analytics tools and visual heatmap representations, HeatMap, Inc. helps its clients understand how to improve our website’s user experience and performance.
+> 
+> Personal data collected: cookies and usage data  
+>  Place of processing: US – [Privacy Policy](https://heatmap.me/privacy) – [Opt Out](https://heatmap.me/privacy#)
+> 
+> ### Collect.chat
+> 
+> Collect.chat is a chat and data collection tool allowing us to build conversational interface such as chat, survey, poll.
+> 
+> Personal data collected: cookies and usage data  
+>  Place of processing: US – [Privacy Policy](https://collect.chat/privacy) – [GDPR](https://help.collect.chat/article/show/64358-are-we-gdpr-complaint)
+> 
+> ### Disqus (Disqus, Inc.)
+> 
+> Disqus is a global commenting system that improves discussion on websites and connects conversations across the web.
+> 
+> Personal data collected: cookies and usage data  
+>  Place of processing: US – [Privacy Policy](https://help.disqus.com/terms-and-policies/disqus-privacy-policy) – [Opt Out](https://disqus.com/data-sharing-settings/)
+> 
+> ### MailChimp (The Rocket Science Group, LLC.)
+> 
+> MailChimp is an email address management and message sending service provided by The Rocket Science Group, LLC.
+> 
+> Personal data collected: email address  
+>  Place of processing: US – [Privacy Policy](https://mailchimp.com/legal/privacy/)
+> 
+> ### Upscribe
+> 
+> Upscribe provides newsletter signup forms that can be embedded on Medium and other Internet platforms. By registering for our newsletter via our website or via our Design + Sketch Medium publication, your email address will be added to our mailing list of those who may receive email messages with information of commercial or promotional nature concerning Sketch App Sources and it’s contributors. 
+> 
+> Personal data collected: email address  
+>  Place of processing: US – [Privacy Policy](https://upscri.be/privacy/)
+> 
+> ### Google Firebase (Google Inc.)
+> 
+> When website visitors submit a resource, they have the option to share a third-party link or upload their work on Google Firebase servers. See Privacy and Security in Firebase. Resources are typically published publicly with a unique URL. Anyone with that URL can see the uploaded file. There is no private hosting.
+> 
+> Personal data collected: user submited file  
+>  Place of processing: US – [Privacy Policy](https://firebase.google.com/support/privacy/)
+> 
+> ### Carbon Ads (BuySellAds.com Inc)
+> 
+> Ads appearing on the website may be delivered to website visitors by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Statement covers the use of cookies by us and does not cover the use of cookies by any advertisers.
+> 
+> Personal data collected: cookies and usage data  
+>  Place of processing: US – [Privacy Policy](https://www.buysellads.com/about/privacy) – [GDPR](https://content.buysellads.com/articles/what-data-does-buysellads-collect/)
+
+## Links to third party websites
+
+We may provide hyperlinks to third-party websites as a convenience to you or for advertising purposes. We do not control content provided by third-party and we’re not responsible for the contents of any linked-to, third party website or any hyperlink in a linked website. We do not endorse or hold ourselves responsible for the privacy policies or information gathering practices of any other services, other than the website run by us. You understand that the information and opinions in the third party content represent solely the thoughts of their owners and is neither endorsed by nor does it necessarily reflect our belief.
+
+## How we integrate with social networks
+
+We give website visitors the option to share website pages on popular social networks such as Twitter, Facebook, Google, and Pinterest. By doing so, we are offering website visitors a convenient alternative to copying and sending links. A number of social networks supplement the link with an excerpt of the content as well as additional resource specific data. With most social networks, you are asked for confirmation before this is saved. Please note that we cannot influence how social networks deal with the information you share with them and whether this information is made available to other websites. We recommend that you read the terms of use and privacy policies of each social network carefully before sharing.
+
+## How we may use personal data
+
+We may use the personal data we collect and receive for the following purposes:
+
+  * To give you credit or cite a source
+  * To create a public profile on the website
+  * To answer questions you have regarding contents on the website
+  * To analyze how the website is used, such as which pages are visited, how long pages were visited and the paths taken by visitors to our website as they move from page to page
+  * To verify compliance with applicable legal requirements and our policies
+  * To contact you, such as by sending personalized emails, about website content oe to send you our newsletter
+
+
+
+## How we may share personal data
+
+We may share the personal data we collect and receive on a need to know basis with the following third parties:
+
+  * Service providers.
+  * Social networks, when a website visitors shares website content.
+  * Competent public authorities or other third parties, if required by law or reasonably necessary to protect the rights, property and safety of ourselves or others.
+  * We may also transfer your personal data in the event that we sell or transfer all or a portion of our business or assets on a need to know basis. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal data you have provided to us in a manner that is consistent with applicable law and this Privacy Statement.
+
+
+
+**We do not sell, rent or trade your personal data. We may use, and we may also share non-individual, aggregated information and data with our business partners and with business users solely for the purpose of better understanding the needs, interests and usage of the website.**
+
+## Data transfers outside the EEA
+
+We may transfer the personal data we obtain to third parties in countries outside the European Economic Area (EEA). The laws in those countries may not offer an adequate level of data protection. In particular, personal data may be transferred to the United States.
+
+When we transfer your personal data outside the EEA, we will protect your personal data as described in this Privacy Statement and in accordance with applicable law, such as by entering into the European Commission’s Standard Contractual Clauses for the transfer of personal data to a processor located outside of the European Union.
+
+## How long we retain personal data
+
+We retain personal data for as long as necessary to fulfil the purposes for which we collect or receive the personal data, except if required otherwise by applicable law. Typically, we will retain most of the personal data for the duration of your use of the website, or until you have notified us to remove your resource, unless a longer applicable statutory retention period applies. Note that after the deletion of your account your submissions and comments may be left on the website, but your name will be replaced by “deleted user”. If you would like to us remove your submissions and comments, please contact us as described at the end of this Privacy Statement.
+
+## How we protect personal data
+
+We maintain appropriate technical and organizational security safeguards designed to protect your personal data against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. However, due the inherent open nature of the Internet, we cannot guarantee that communications between you and us or the personal information stored is absolutely secure. We will notify you of any data breach that is likely to have unfavorable consequences for your privacy in accordance with applicable law.
+
+To ensure the highest possible security for the transmission of your data between your web browser and our internet system, we use the Secure Socket Layer (SSL) encryption technology. SSL enables an encrypted communication respectively transfer of documents via the internet between web browser and web server. The URL of a website with SSL connection to your browser starts with https://. 
+
+## Children
+
+This websites is not intended for children under the age of 13 (16 in the European Union), and therefore, we do not knowingly acquire or receive personal data from children under the age of 13 (16 in the European Union). If you learn that a child has provided us with personal information in violation of this Privacy Statement, you can alert us at via the contact information at the end of this Privacy Statement.
+
+## Your Rights and General Data Protection Regulation (GDPR)
+
+In accordance with applicable data protection regulations, you have a number of rights regarding the use of your personal data:
+
+  * The right to obtain, at reasonable intervals and free of charge, information on whether or not your personal data are being processed and to receive the personal data that is being processed in an intelligible form;
+  * The right to request rectification or erasure of personal data or restriction of or objection to processing of your personal data. You may also request us to provide you your data in a structured, commonly used and machine readable format which can be transmitted to another controller.
+  * To exercise these rights, please contact us using our contact details set out below. We may request you to provide a copy of your ID card or otherwise evidence of your identity. We will respond to your request within the applicable statutory term.
+  * Moreover, subject to this Privacy Statement, you have the right to lodge a complaint with the competent supervisory authority.
+
+
+
+## Updates to this Privacy Statement
+
+We reserve the right to update or change this Privacy Statement at any time. When we do, we will revise the updated date at the top of this page. We encourage website visitors to frequently check this page for any changes and to stay informed about the collected personal data. You acknowledge and agree that it is your responsibility to review this Privacy Statement periodically and become aware of modifications.
+
+By accessing the website, you understand and agree that you accept the terms of this Privacy Statement. Your continued use of the website following the posting of changes to this Privacy Statement will be deemed your acceptance of those changes.
+
+## How to Contact Us
+
+If you have any questions about this Privacy Statement or if you would like us to update your personal data, or to exercise your rights, please reach us online at contact@sketchappsources.com, or by mail at:
+
+Sketch App Sources  
+Att: Privacy Officer  
+P.O. Box 83433  
+Gaithersburg, MD 20883  
+USA
