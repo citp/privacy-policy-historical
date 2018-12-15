@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2018-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180107074359id_/https%3A//www.nursingcenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215104751id_/https%3A//www.nursingcenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,7 +81,7 @@ In order to offer and provide a customized and personal service, we may use cook
 
 However, if you prefer, you can set your browser to either notify you when you receive a cookie or to refuse to accept cookies. You can also choose to delete our cookies after visiting our sites or browse our websites using your browser’s anonymous usage setting.
 
-For detailed guidance on how to control or delete cookies, we recommend you visit <https://www.aboutcookies.org/>. Some features of our sites and applications may not function properly if you decline or disable Internet cookies while using the Web Services.
+For detailed guidance on how to control or delete cookies, we recommend you visit <https://www.aboutcookies.org/>. Some features of our sites and applications may not function properly if you decline or disable Internet cookies while using the Web Services
 
 Some of the types of cookies we may use are:
 
@@ -92,6 +92,8 @@ _Performance Cookies_. These are cookies that allow us to recognize and count th
 _Functionality Cookies_. These are cookies that are used to recognize you when you return to the Web Services. This enables us to personalize our content and remember your preferences (for example, your choice of language or region).
 
 _Targeting and Advertising Cookies_. These are cookies that record your visits to the Web Services, the pages you have visited and the links you have followed. Our targeting and advertising cookies collect information about your Web Services browsing history in order to make advertising more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of an advertising campaign. Please see our “Interest-based Advertising” section below for more information about your choices regarding our and our vendors’ use of these cookies.
+
+The information stored in the Cookies from our website is used by Wolters Kluwer Health, Inc. and may be used and managed by external entities to provide services, including advertising services, requested by us to improve our services and the experience of the user browsing our website.
 
 
 
@@ -210,7 +212,7 @@ Residents of California who have provided Personal Information to us have the ri
 
 ## Our Right to Change Privacy Policy
 
-We reserve the right to change this Privacy Policy at any time by posting a new or revised statement. This Privacy Policy was last revised and is effective as of October 4, 2017.
+We reserve the right to change this Privacy Policy at any time by posting a new or revised statement. This Privacy Policy was last revised and is effective as of May 9, 2018.
 
 ## How to Contact Us
 
