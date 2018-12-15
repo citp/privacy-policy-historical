@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcfaster.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609211752id_/http%3A//www.pcfaster.com/en/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcfaster.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215045755id_/http%3A//www.pcfaster.com/en/policy.php) for the most accurate reproduction.*
 
 # Baidu PC Faster | We Make PC Faster
 
