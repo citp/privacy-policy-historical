@@ -1,60 +1,68 @@
-> *The following text is extracted and transformed from the homestratosphere.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122032145id_/https%3A//www.homestratosphere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestratosphere.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215085821id_/https%3A//www.homestratosphere.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - Home Stratosphere
 
-This privacy policy details how JGD Holding Company Ltd.. (dba “HomeStratosphere.com”) uses and protects any information that you give HomeStratosphere.com when you use this website. HomeStratosphere.com is committed to ensuring that your privacy is protected.  If we ask you to provide certain information, so that we can identify you, when using this website, you can be assured that it will only be used in accordance with this privacy policy.  HomeStratosphere.com may change this policy from time to time by updating this page. You should check this page from time to time if you would like to stay up to date on any change made to this privacy policy. This policy is effective from September 16, 2013.
-
-### Information we may collect
-
-We may collect the following information:
-
-  * first and last name
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+\- Advertisement -   
 
 
+**Our cookie policy**
 
-### What we do with the information we collect
+In compliance with the European Union legislation, we inform you that our website will store some information about your preferences on your own computer inside a tiny file called a ‘cookie’.
 
-We collect this information to understand your needs and provide you with a better service.  Additionally, we collect this information for the following reasons:
+A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device. The cookie allows the website to “remember” your actions or preferences over time.
 
-  * Internal record keeping.
-  * To improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting, using the email address which you have provided.
-  * We may also use your information to contact you for market research purposes. We may contact you by email, phone, fax, or postal mail. We may use the information to customize our website according to your interests.
+You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
 
+Most browsers support cookies, but users can set their browsers to decline them and can delete them whenever they like. A third-party website called [aboutcookies.org](https://www.aboutcookies.org/) has been setup to help you with instructions how you can do that on various browsers.
 
+**We use cookies to:**
 
-### Security
+1) Identify you as a returning user and to count your visits in our traffic statistics analysis;  
+2) remember your custom display preferences;  
+3) Suggest any recent searches youíve made on our site  
+4) Other usability features including tracking whether you’ve already given your consent to cookies
 
-We are committed to ensuring that your information is secure.  To prevent unauthorized access to your information, we have put in place physical, electronic, and operational procedures to secure the information we collect online.
+Enabling cookies from our website is not strictly necessary for the website to work but it will provide you with a better browsing experience.
 
-### Cookies
+The cookie-related information is not used to identify you personally and the pattern data is fully under our control. These cookies are not used for any purpose other than those described here.
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps to analyze web traffic or let you know when you visit a particular website. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes, and dislikes by gathering and remembering information about your preferences.  We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic, so that we can improve our website and tailor it to the needs of our customers and visitors.  We only use this information for analytical purposes and then the data is removed from the system.  Cookies allow us to provide you with a better user experience, by enabling us to monitor which pages you find useful and which you do not. A cookie does not give us access to your computer or any personal information about you, other than the data you choose to share with us.  You can choose to enable or disable cookies.  Most web browsers automatically accept cookies, but you can usually modify your browser setting to disable cookies if you prefer.  Disabling cookies, however, may prevent you from taking full advantage of the website.
+There may also be other types of cookies created after you’ve visited our website. We use Google Analytics, a popular web analytics service provided by Google, Inc. Google Analytics uses cookies to help us to analyse how users use the site. The information generated by the cookie about your use of our website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google undertakes not to associate your IP address with any other data held by Google.
 
-### Homestratosphere.com Facebook App
+**Third Party Advertising**
 
-Homestratosphere.com and its affiliated Facebook page (https://www.facebook.com/homestratosphere) uses a Facebook developer’s app that collects Facebook profile data (name and email) when, and only when you are offered a screen to “Continue as ‘Your Name'”.
+We may have third-party advertising companies serving ads to you when you visit our website. These companies may store information about your visits to our website and to other websites in order to provide you with relevant advertisements about goods and services.
 
-The above-mention screen appears as followed (“Jon” will be replaced with your name or whomever the Facebook profile name is that is used at the time of activating the Facebook app):
+These companies may employ cookies and other identifiers to gather information which measures advertising effectiveness. The information is generally not personally identifiable unless, for example, you provide personally identifiable information to them through an ad or an e-mail message.
 
-[](https://www.homestratosphere.com/wp-content/uploads/2014/01/Screen-Shot-2017-06-11-at-7.25.46-AM.png)
+**Information Gathered by Third Party Advertisers**
 
-By clicking the “Continue as ‘Your Name'”, you agree to have Homestratosphere.com collect your name and email to be placed into an email autoresponder database.  You can remove your data from the email autoresponder database at any time.
+Cookies enable advertisers to learn about what ads you see, what ads you click, and other actions you take on our site and other sites. This allows advertisers to provide you with more useful and relevant ads. For example, if they know what ads you are shown while visiting our site, they can be careful not to show you the same ones repeatedly. They do not associate your interaction with unaffiliated sites with your identity in providing you with interest-based ads.
 
-### Links to other websites
+We do not provide any personal information to advertisers or to third party sites. Advertisers and other third-parties (including the ad networks, ad-serving companies, and other service providers they may use) may assume that users who interact with or click on a personalized ad or content are part of the group that the ad or content is directed towards (for example, readers in the Pacific Northwest who read certain types of articles). Also, some third-party cookies may provide them with information about you (such as the sites where you have been shown ads or demographic information) from offline and online sources that they may use to provide you more relevant and useful advertising.
 
-Our website may contain links to other websites.  Once you have clicked these links to leave our site, you should note that we do not have any control over those other websites.  We cannot be held responsible for the protection and privacy of any information that you provide, while visiting other websites.  Other websites that we may link to are not governed by this privacy policy.
+If you would like to learn more about what options you have about limiting the gathering of information by third-party ad networks, you can consult the website of the [Network Advertising Initiative](http://optout.networkadvertising.org/).
 
-### Controlling your personal information
+You can opt out of participating in interest-based advertising networks but opting out does not mean you will no longer receive online advertising. It does mean that the companies from which you opted out will no longer customize ads based on your interests and web usage patterns using cookie-based technology.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+**Type and Purpose of Collection**
 
-  * When you are asked to fill in a form on a website, look for a box that you can click to indicate that you do not want your information to be shared with any other company for direct marketing purposes
-  * If you have previously agreed to have a company contact you, for direct marketing purposes, you may change your mind at any time by writing to that company or “opting out” of their emails.
+We collect information at various points in the Website to facilitate its use by our customers. Non-Personal Information: Upon accessing the Website, certain non-personal information will be automatically collected without your knowledge or consent, such as your IP address, location data (which is anonymous) and the referring website (ìNon-Personal Informationî). We use Non-Personal Information to examine our traffic and to view how our customers use the Website. This type of information will not allow you to be personally identified. For example, we use ìcookiesî, which contains only certain statistical information. You can instruct your computer to inform you whenever a cookie is being sent, or you can disallow cookies through your web browser. If you do choose to disallow cookies, your experience on the Website may be diminished, or your ability to choose some of the options on the Website may be limited.  
+—————————————–  
+**Sharing Information**
 
+We will not sell, rent or disclose to outside parties the information we collect, save and except that we may share the collected information with other parties as follows:
 
+(a) Affiliated Service Providers: We have agreements with various affiliated service providers to facilitate the functioning of the Website, with whom we may share the information we have collected. For example, we may share your credit card information with the credit card service provider to process your purchase. All administrative service providers that we use are required to have the same level of privacy protection as we have, and therefore we expect that your information will be handled with the same level of care that we employ. Additionally, for example, we may use analytic or marketing services such as Google Analytics, Google Adsense, Taboola, or RevContent, to which collection you hereby unconditionally consent.
 
-We will not sell, distribute, or rent your personal information to third parties unless we have your expressed permission or are required by law to do so.  We may use your personal information to send you promotional information about third parties which we think you may find interesting.  You may request details of personal information which we hold about you under the Data Protection Act 1998.  (A small fee will be payable). If you would like a copy of the information held on you please contact us **.   **If you believe that any information we are holding on you is incorrect or incomplete, please contact us. We will promptly correct any information found to be incorrect.
+(b) Where required by law: We may share the collected information where required by law, specifically in response to a demand from government authorities where such demand meets the legal requirements.
+
+(c) Statistical Analysis: We may share Non-Personal Information and aggregated information with third parties, including but not limited to for advertising or marketing purposes. No Personal Information will be shared in this manner.
+
+(d) Transactions: In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where Personal Information may be disclosed or transferred as one of our business assets.  
+—————————————–  
+**Choices and How To Opt Out Of Interest-Based Advertising**
+
+(a) Opting Out of Interest-Based Advertising Services This website is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI) and adheres to the NAI Codes of Conduct as described on the NAI website. This website also adheres to the Digital Advertising Alliance (DAA) Self-Regulatory Principles. For a description of the DAA Program, please visit the [DAA website](http://digitaladvertisingalliance.org/). As described above, this website may use or transfer Device Data that it directly collects or that it receives from this websiteís Customers, who may use cookies or non-cookie technologies, to enable advertising that is more tailored to Consumersí inferred interests, preferences, and locations. This practice is known as interest-based advertising.
+
+(b) Opting Out of Interest-Based Advertising by Third Parties  
+This website may permit third parties to collect information on its Site and combine that information with other information collected on non-affiliated websites or applications over time. These third parties may use technologies, including cookies and web beacons, to collect information about Consumersí or Customersí use of the Site in order to analyze, report on, or customize content or advertising on the this website or on other sites, or to help us operate and improve the Site. To find out more about interest-based advertising in the web environment, and how to opt-out of information collection for this purpose by companies that participate in the Network Advertising Initiative or the Digital Advertising Alliance, visit [NAIís opt-out page](http://optout.networkadvertising.org/) or [DAAís Consumer Choice Page](http://optout.aboutads.info/).
