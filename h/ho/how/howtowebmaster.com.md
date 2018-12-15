@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtowebmaster.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613174152id_/http%3A//howtowebmaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtowebmaster.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215062138id_/http%3A//howtowebmaster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
