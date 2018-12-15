@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the a1vbcode.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1vbcode.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/privacy.asp) for the most accurate reproduction.*
 
 # Visual Basic Code , VB.NET Code
 
 | Code   
 ---  
-  [All](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/sort.asp?type=all)  
-  [VB](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/code.asp?type=vb)  
-  [VB.NET](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/code.asp?type=vb.net)  
-  [ASP](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/code.asp?type=asp)  
-  [ASP.NET](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/code.asp?type=asp.net)  
-  [Snippets](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/sort.asp?type=snippet)  
-  [Popular](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/sort.asp?type=popular)  
+  [All](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/sort.asp?type=all)  
+  [VB](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/code.asp?type=vb)  
+  [VB.NET](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/code.asp?type=vb.net)  
+  [ASP](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/code.asp?type=asp)  
+  [ASP.NET](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/code.asp?type=asp.net)  
+  [Snippets](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/sort.asp?type=snippet)  
+  [Popular](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/sort.asp?type=popular)  
 Resources   
-  [Submit Code](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/submit.asp)  
+  [Submit Code](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/submit.asp)  
   [Forums](https://web.archive.org/vbforums)  
-  [Articles](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/articles.asp)  
-  [Tips](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/tipsarchive.asp)  
-  [Links](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/sitecat.asp)  
-  [Books](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/vbbooks.asp)  
-  [Contest](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/contest.asp)  
-  [Mailing List](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/mailinglist.asp)  
-  [Link to us](https://web.archive.org/web/20180615140856id_/http%3A//a1vbcode.com/linktous.asp)  
+  [Articles](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/articles.asp)  
+  [Tips](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/tipsarchive.asp)  
+  [Links](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/sitecat.asp)  
+  [Books](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/vbbooks.asp)  
+  [Contest](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/contest.asp)  
+  [Mailing List](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/mailinglist.asp)  
+  [Link to us](https://web.archive.org/web/20181215013048id_/http%3A//www.a1vbcode.com/linktous.asp)  
   **Privacy Statement**
 
 **A1VBCode** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ A1VBCode ](http://www.a1vbcode.com/)
