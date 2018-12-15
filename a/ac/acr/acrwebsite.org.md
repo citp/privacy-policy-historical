@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acrwebsite.org privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615090623id_/http%3A//www.acrwebsite.org/web/about-website/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acrwebsite.org privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215105424id_/http%3A//acrwebsite.org/web/about-website/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Association For Consumer Research Website Privacy Policy | ACR
 
@@ -10,7 +10,7 @@ Most of all, we value your privacy . We do not sell, rent, loan, or give your em
 
 **Collection of your Personal Information**
 
-You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy policy explains data collection and use in those situations. Please read the complete ACR privacy policy below in conjunction with our [Terms and Conditions](https://web.archive.org/web/20180615090623id_/http%3A//www.acrwebsite.org/web/about-website/terms-of-use.aspx).
+You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy policy explains data collection and use in those situations. Please read the complete ACR privacy policy below in conjunction with our [Terms and Conditions](https://web.archive.org/web/20181215105424id_/http%3A//acrwebsite.org/web/about-website/terms-of-use.aspx).
 
 This privacy policy covers our treatment of personally identifiable information that we collect when you are on our site, and when you use our services. A link on the membership page allows members to contact ACR to have their information removed.
 
