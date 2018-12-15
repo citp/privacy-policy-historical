@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rewordify.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611131534id_/https%3A//rewordify.com/helpprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewordify.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215054009id_/https%3A//rewordify.com/helpprivacy.php) for the most accurate reproduction.*
 
 # Rewordify.com | Help Center
 
-You can also read our [Terms Of Use](https://web.archive.org/web/20180611131534id_/https%3A//rewordify.com/helpsiterules.php) and how we [protect children's privacy](https://web.archive.org/web/20180611131534id_/https%3A//rewordify.com/helpcoppa.php).
+You can also read our [Terms Of Use](https://web.archive.org/web/20181215054009id_/https%3A//rewordify.com/helpsiterules.php) and how we [protect children's privacy](https://web.archive.org/web/20181215054009id_/https%3A//rewordify.com/helpcoppa.php).
 
 We take your privacy very seriously at Rewordify.com, and we protect it with the following policies:
 
@@ -26,4 +26,4 @@ We take your privacy very seriously at Rewordify.com, and we protect it with the
 
 **Anonymous browsing data is collected.** We use Google Analytics to collect _anonymous_ information about what users do on our site, such as which pages they visit, what geographical area they're from, etc. We do this so we can improve our site. Nothing we collect is connected in any way with your account. It is impossible for us to connect our Google Analytics data with your particular account.
 
-You can also read our [Terms Of Use](https://web.archive.org/web/20180611131534id_/https%3A//rewordify.com/helpsiterules.php).
+You can also read our [Terms Of Use](https://web.archive.org/web/20181215054009id_/https%3A//rewordify.com/helpsiterules.php).
