@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomchat.me privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605164634id_/http%3A//www.boomchat.me/%235) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomchat.me privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215203908id_/http%3A//www.boomchat.me/%235) for the most accurate reproduction.*
 
 # BoomChat | 蹦跳
 
