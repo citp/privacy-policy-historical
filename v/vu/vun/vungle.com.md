@@ -1,28 +1,51 @@
-> *The following text is extracted and transformed from the vungle.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625025609id_/https%3A//vungle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vungle.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215154719id_/https%3A//vungle.com/privacy) for the most accurate reproduction.*
 
 # Vungle Privacy Notice
 
-**Last Updated:** May 23 2018
+**Last Updated:** July 26, 2018
 
 Vungle, Inc. and its group companies ("Vungle", "we" or "us") respect your privacy. This privacy notice ("Notice") explains who we are, how we collect, use and share personal information about you, and how you can exercise your privacy rights.
 
 This Notice covers personal information we collect:
 
   1. when providing the Vungle Ad Services (see Section 2); and
-  2. when you visit one of our Websites, and in the usual course of our business, such as in connection with our events, sales and marketing activities (see Section 3.
+  2. when you visit one of our Websites, and in the usual course of our business, such as in connection with our events, sales and marketing activities (see Section 3).
 
 
 
-#### QUICK LINKS
+## QUICK LINKS
 
 We recommend that you read this Notice in full to ensure you are fully informed. However, to make it easier for you to review those parts of this Notice which apply to you, we have divided up the document into the following sections:
 
-  * Section 1 WHO WE ARE (applicable to everyone) 
-  * Section 2 PRIVACY FOR THE VUNGLE AD SERVICES (applicable to End Users) 
-  * Section 3 PRIVACY FOR THE VUNGLE WEBSITES (applicable to End Users and visitors to our Websites) 
-  * Section 4 GENERAL INFORMATION (applicable to evercdyone). 
+  * 1\. WHO WE ARE (applicable to everyone) 
+  * 2\. PRIVACY FOR THE VUNGLE AD SERVICES (applicable to End Users) 
+    * 2.1 What information do we collect?
+    * 2.2 How do we use your information?
+    * 2.3 How do we use tracking technologies to collect information?
+    * 2.4 Your Opt-Out Choices
+    * 2.5 How Do We Share Information?
+    * 2.6 Privacy Practices of Vungle Clients
+    * 2.7 Children
+  * 3\. PRIVACY FOR THE VUNGLE WEBSITES (applicable to End Users and visitors to our Websites) 
+    * 3.1 What information do we collect?
+    * 3.2 How do we use your information?
+    * 3.3 Cookies and Similar Tracking Technologies
+    * 3.4 How Do We Share Information?
+  * 4\. GENERAL INFORMATION (applicable to everyone). 
+    * 4.1 How do we share your information?
+    * 4.2 Your data protection rights
+    * 4.3 Legal basis for processing personal information (EEA residents only).
+    * 4.4 Third-Party Websites and Apps
+    * 4.5 How do we keep your personal information secure?
+    * 4.6 Data Retention
+    * 4.7 International Data Transfers
+    * 4.8 EU-U.S. Privacy Shield Notice
+    * 4.9 Changes to this Notice
+    * 4.10 Contact Us
 
 
+
+We participate in and comply with the EU-U.S Privacy Shield Framework to cover data we process from the European Union ("EU"). For further information, please review our EU-U.S. Privacy Shield Notice
 
 #### 1\. WHO WE ARE
 
@@ -68,7 +91,7 @@ We use the information we collect (sometimes in combination with information pro
 
 #### 2.3 How do we use tracking technologies to collect information?
 
-We use standard tracking technologies to collect information automatically from your device so that our backend operations can use it to perform many of the functions described in “ How do we use your information?” above. To opt out of our use of such technologies, please follow the instructions for opting out in the apps, as described in " Opt-Out Choices" below. 
+We use standard tracking technologies to collect information automatically from your device so that our backend operations can use it to perform many of the functions described in “How do we use your information?” above. To opt out of our use of such technologies, please follow the instructions for opting out in the apps, as described in “Opt-Out Choices” below. 
 
 LEARN MORE
 
@@ -94,11 +117,11 @@ Please see Section 4.1, below for information concerning how Vungle shares the i
 
 Vungle is not responsible for the information practices of our Clients. We require our Clients to comply with all applicable laws and regulations and to provide End Users with notice of the collection of data for advertising purposes as outlined in this Notice. We encourage you to review the privacy policies of apps you visit for information about those apps’ data collection and use practices.
 
-#### 2.7 Children
+#### 2.7 Children.
 
 Our Clients are responsible for ensuring that their mobile apps comply fully with applicable children's data privacy protection legislation, such as the United States' Children’s Online Privacy Protection Act ("COPPA"), including where relevant by obtaining parental consent prior to the collection of personal information. With respect to COPPA specifically, we rely upon our Publisher Clients to confirm whether or not their app is subject to COPPA. As required by COPPA, Vungle will enable a flag in our system such that the End User’s device history is disassociated, and the only End User “personal information” used by the Vungle Ad Services would be Publisher-specific unique digital identifiers (e.g., IP address and device identifiers) to support Vungle’s internal operations.
 
-#### 3\. PRIVACY FOR VUNGLE WEBSITES
+#### 3\. PRIVACY FOR THE VUNGLE WEBSITES
 
 This Section describes how we collect and use Information in the usual course of business, including through our websites (such as <https://vungle.com/> or any other website on which this Notice is posted) and other corporate services, web portals, and dashboards we make available to our Clients and End Users (collectively "Websites"), as well as in connection with our events, sales and marketing activities.
 
@@ -112,7 +135,7 @@ The personal information we collect may include contact information (such as you
 
   * **Information we collect automatically:** When using our Websites, we may automatically collect certain information from your device. In some countries, including countries in the EU, this information may be considered personal data under data protection laws.
 
-Specifically, the information we collect automatically may include your IP address, your operating system, your browser ID, your browsing activity, and other information about your system and connection, and how you interact with our Websites and other websites. We may collect this information as a part of log files as well as through the use of cookies or other tracking technologies, as explained further under the heading “ Cookies and similar tracking technology” 
+Specifically, the information we collect automatically may include your IP address, your operating system, your browser ID, your browsing activity, and other information about your system and connection, and how you interact with our Websites and other websites. We may collect this information as a part of log files as well as through the use of cookies or other tracking technologies, as explained further under the heading “Cookies and similar tracking technology”. 
 
   * **Information we collect from third party sources:** We may obtain information about you from other sources, such as public databases, joint marketing partners, data providers and social media platforms. Examples of the information we receive from other sources include account information, page-views, and browsing information. 
 
@@ -123,7 +146,7 @@ Specifically, the information we collect automatically may include your IP addre
 
 We use the information we collect or receive to:
 
-  * **Send you marketing and promotional communications.** For example, we and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. However, you will always be able to opt-out of our marketing at any time (see the "Your Choices" section below). 
+  * **Send you marketing and promotional communications.** For example, we and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. However, you will always be able to opt-out of our marketing at any time (see the "Your Choices" section above). 
   * **Send administrative information to you.** For example, to send you product, service, and new feature information and/or information about changes to our terms, conditions, and policies. 
   * **Engage in and process transactions.** For example, we may use your personal information along with financial, credit card, and/or payment information that you provide to us to process your transactions and for billing purposes. 
   * **Respond to your requests.** For example, we may use your personal information to fulfill your request for a quote or customer support, or to provide you with information you have requested about the Websites or Vungle Ad Services. 
@@ -137,7 +160,7 @@ We use the information we collect or receive to:
 
 #### 3.3 Cookies and Similar Tracking Technologies
 
-We use cookies and similar tracking technology (collectively "Cookies") on our Websites to collect and use personal information about you, including to serve interest based advertising. For further information about the types of Cookies we use, why, and how you can control Cookies, please see our Cookie Notice. 
+We use cookies and similar tracking technology (collectively "Cookies") on our Websites to collect and use personal information about you, including to serve interest based advertising. For further information about the types of Cookies we use, why, and how you can control Cookies, please see our Cookie Notice: This website uses cookies for analytics and advertising purposes. At any time, you can change your cookie preferences using your browser's settings. By continuing to browse, you agree to our use of cookies. 
 
 #### 3.4 How Do We Share Information?
 
@@ -178,11 +201,11 @@ Please note that because most of the information we store can only identify a pa
 
 #### 4.3 Legal basis for processing personal information (EEA residents only).
 
-If you are an individual from the EEA, our legal basis for collecting and using personal information described above will depend on the personal information concerned and the specific context in which we collect it. However, we normally rely on our legitimate interest to collect personal information from you, except where such interests are overridden by your data protection interests or fundamental rights and freedoms. Where we rely on our legitimate interests to process your personal information, they include the interests described in the sections headed " 2.2 How do we use your information?", " 3.2 How do we use your information?" above.
+If you are an individual from the EEA, our legal basis for collecting and using personal information described above will depend on the personal information concerned and the specific context in which we collect it. However, we normally rely on our legitimate interest to collect personal information from you, except where such interests are overridden by your data protection interests or fundamental rights and freedoms. Where we rely on our legitimate interests to process your personal information, they include the interests described in the sections headed “2.2 How do we use your information?”, “3.2 How do we use your information?” above.
 
 In some cases, we may rely on our consent or have a legal obligation to collect personal information from you, or may otherwise need the personal information to protect your vital interests or those of another person. If we rely on consent to collect and/or process your personal information, we will obtain such consent in compliance with applicable laws.
 
-If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the details provided under the heading “ Contact Us” below.
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the details provided under the heading “Contact Us” below.
 
 #### 4.4 Third-Party Websites and Apps:
 
@@ -206,11 +229,25 @@ The Vungle Ad Services and Vungle Websites are provided, supported, and hosted i
 
 However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Notice. These include implementing the European Commission’s Standard Contractual Clauses for transfers of personal information between our group companies, which require all group companies to protect personal information they process from the EEA in accordance with European Union data protection law. Our Standard Contractual Clauses can be provided upon request. We have implemented similar appropriate safeguards with our third party service providers and partners and further details can be provided upon request. 
 
-#### 4.8 EU-U.S. Privacy Shield
+#### 4.8 EU-U.S. Privacy Shield Notice 
 
-Vungle, Inc. is located in the United States and is in the process of certifying to the EU-U.S. Privacy Shield Framework. As of the date indicated at the top of this Notice, Vungle's application is being considrered by the US Department of Commerce. As soon as Vungle's application is approved this section of the Notice will be updated to provide more details on Vungle's certification.
+Vungle, Inc. is located in the United States and participates in and complies with the EU-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from EU member countries in the United States.
 
-In the meantime international transfers are dealt with in line with Section 4.7 above.
+Vungle adheres to and will abide by the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability when processing such personal information.
+
+Vungle is responsible for the processing of personal information it receives under each Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal information from the EU, including the onward transfer liability provisions.
+
+With respect to personal information received or transferred pursuant to the Privacy Shield Frameworks, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+For more information about the Privacy Shield, see the US Department of Commerce’s Privacy Shield website located at: [https://www.privacyshield.gov](https://www.privacyshield.gov/). To review our certification on the Privacy Shield list, see the US Department of Commerce’s Privacy Shield self-certification list located at: <https://www.privacyshield.gov/list>.
+
+#### Questions or complaints
+
+You can direct any questions or complaints about the use or disclosure of your personal information to us at privacy@vungle.com. We will investigate and attempt to resolve any complaints or disputes regarding the use or disclosure of personal data within 45 days of receiving your complaint. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, JAMS, free of charge at <https://www.jamsadr.com/eu-us-privacy-shield>.
+
+#### Binding arbitration
+
+You may have the option to select binding arbitration for the resolution of your complaint under certain circumstances, provided you have taken the following steps: (1) raised your complaint directly with us and provided us the opportunity to resolve the issue; (2) made use of the independent dispute resolution mechanism identified above; and (3) raised the issue through the relevant data protection authority and allowed the US Department of Commerce an opportunity to resolve the complaint at no cost to you. To find out more about the Privacy Shield's binding arbitration scheme please see <https://www.privacyshield.gov/article?id=My-Rights-under-Privacy-Shield>.
 
 #### 4.9 Changes to this Notice:
 
