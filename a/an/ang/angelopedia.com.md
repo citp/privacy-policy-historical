@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelopedia.com privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425235258id_/https%3A//www.angelopedia.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelopedia.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215102612id_/https%3A//www.angelopedia.com/Privacy) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@ Introduction
 
 Your privacy is important to us. We are committed to safeguarding the privacy of our website visitors; in this policy we explain how we will treat your personal information. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
-Our website titled Angelopedia with the web address www.angelopedia.com (hereinafter referred to as the 'Website') is owned and operated by Blizz Infotainment (hereinafter referred to as the 'Company') having its principal place of business in India.
+Our website titled Angelopedia with the web address www.angelopedia.com (hereinafter referred to as the 'Website') is owned and operated by Angelopedia (hereinafter referred to as the 'Company').
 
 Collecting Personal Information
 
