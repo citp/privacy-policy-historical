@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agecommunity.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615083755id_/http%3A//www.agecommunity.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agecommunity.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215145850id_/http%3A//agecommunity.com/privacy.aspx) for the most accurate reproduction.*
 
 # Ensemble Studios: Age of Empires III: Privacy Policy
 
