@@ -1,35 +1,86 @@
-> *The following text is extracted and transformed from the aps.org privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211060350id_/http%3A//www.aps.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aps.org privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215025229id_/https%3A//www.aps.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-APS respects the privacy of members, users of its services, and visitors to its various websites and operates according to the following policies.
+This policy describes how APS uses and protects any personal information collected when a user accesses and uses any website owned, operated, or controlled by APS.
 
-## Personal Information
+References to “APS” mean the American Physical Society. References to “this website” are to the specific APS website which links to this policy.
 
-Some personal information including addresses, phone numbers, e-mail addresses, and other demographic information is collected for membership, subscriptions and publications, meeting registrations, submission of articles, and other similar transactions. APS takes precautions to protect your individual information from unauthorized use. APS may make internal use of your contact information to inform you of situations or services that may interest you.
+APS respects the privacy rights of its users and recognizes the importance of protecting information provided by its users and collected about their visits to this website.
 
-The APS online Membership Directory is a service restricted to use by members. It contains basic contact information and membership data. E-mail addresses are not released to outside organizations, except when a vendor performs a service for APS under its supervision. Member postal mailing lists are sold on a carefully screened basis, and only when the mailed material is thought to be of significant interest or benefit. Members may suppress the publication of their personal information in the Membership Directory, decline to receive APS-generated email messages, or request to be excluded from externally sold mailing lists by contacting the Membership Department at [membership@aps.org](mailto:membership@aps.org). Unpublished author or referee information is never sold, and is only used for purposes related to APS, its journals, and/or manuscripts which have been submitted to them.
+Use of this website implies that you have read and accepted this policy. If you do not wish to accept this policy, you must discontinue use of this website.
 
-When you submit credit card transaction information to our site online, we use a secure server with commercial encryption software. When APS utilizes the services of the American Institute of Physics for certain credit card transactions to purchase APS products or services, those transactions are covered by AIP's similar [privacy policy](http://www.aip.org/privacy.html).
+## Information Collection
+
+APS collects information from its users at different points on this website. This information is used for customer service and marketing purposes. APS follows security procedures in the storage and disclosure of personal data to prevent unauthorized use.
+
+## Membership, Purchases, and Donations
+
+While joining the association, placing an order, or making a contribution, users are asked to provide their contact information and financial information. Financial information is used for billing and receipting purposes and to fill a customer's order. Contact information may be used by APS or our third-party service providers to contact the user about their membership, benefits, purchase, donation, or related events, services, and products.
+
+## Abstract Submission and Event Registration
+
+Users may be required to provide their contact information. This information is used by APS or its business partners to provide information or services related to the event. Personal information may be optionally requested for statistical purposes. Limited contact information may be shared with other attendees to facilitate networking opportunities.
+
+## Authors and Reviewers
+
+To preserve the scholarly record, APS collects personal information about authors and referees. This information is collected during the submission and review processes. APS does not distribute this personally identifiable information except as to the extent necessary for the peer-review process and our journal production process. APS may contact authors and referees regarding journal-related news.
+
+## Program Participants
+
+APS operates a number of educational, outreach, and other programs for our members and the broader physics community. Program participants may be required to provide their contact information. This information is used by APS or its business partners to provide information or services related to the event. Personal information directly relevant to a specific program may be gathered depending on the needs of the program.  Limited contact information may be shared with other participants to facilitate networking opportunities.
+
+## Third-party Services
+
+APS uses a variety of service providers for many business functions. This often requires us to share personally identifiable information with these third parties in order to provide services to our end users. APS strives to share only the information essential to providing these services. Furthermore, APS requires our vendors to comply with all applicable privacy regulations.
 
 ## Cookies
 
-A “cookie” is a file a Web site places in your computer for future reference. APS uses cookies to improve some of its services, such as the Meeting Scheduler and the Referee Server. Information supplied through an APS cookie is used only by APS and is not shared with others.
+This website uses “cookies” to provide various features. Cookies are pieces of data stored by your web browser on your computer. Some cookies are essential to the proper functioning of this website (for example, those related to authentication), while others are optional cookies that are used for analytics and other non-essential functionality. Users may view the cookies set by APS and others by using the built-in tools of their web browser or by using other browser add-ons.  
 
-## Server Logs
+## Analytics
 
-As you travel through the APS websites, our servers log information about your session. Information logged includes items such as your IP address, what browser you are using, the time and date you visited, how long your session lasted, and what pages you visited. We use this information from our server logs primarily to learn about our visitors as a group. It helps us to improve services on the site and plan for future needs so that we can assure continuity of service. Systematic (“robotic”) downloads of journal material are not permitted, and an individual log may be examined and/or access terminated when this activity is observed. Or, we may check an individual log for editorial purposes or when an individual has reported trouble accessing an APS system.
+This website uses various analytics solutions, including third-party solutions, to support and improve the website experience. Many of these tools use cookies or other web technologies (e.g., pixel trackers or JavaScript click tracking). If you would like to opt out of our website analytics, there are many free browser add-ons that allow you to do so. This website will work even if you disable analytics.
 
-## Future Changes
+## Log Files
 
-APS reserves the right to change this policy in any manner at any time without prior notice. If we make material changes to our privacy policy, these changes will be posted on this page.
+This website logs all usage. Our logging captures identifying information such as IP addresses, usernames, browser information, referring pages, and URLs. Logs are primarily used for analytics and troubleshooting and may be used to generate aggregated usage statistics as required by various service agreements.
 
-## Disclaimer
+## Email Tracking
 
-This privacy policy applies to all American Physical Society websites, but not to websites of any APS Division, Forum, Topical Group or Section. It does not apply to websites operated by organizations or groups who associate themselves in any way with the APS. It does not apply to any other Internet websites, including those that have hypertext links to any APS website.
+APS emails may contain tracking codes to tell us whether they have been opened and to verify links that have been clicked by the recipients. This tracking allows us to measure the effectiveness of marketing campaigns.
 
-It is our intent to provide accurate information; however, changes in circumstances after the time of publication may affect the accuracy of information on this site. APS gives no assurance as to the accuracy of any information or advice contained.
+## Legal Disclaimer
 
-We take measures to protect our website but there is no warranty that the APS website will be free of infection by viruses or any other contaminating or destructive properties. The user accepts sole responsibility and risk associated with the use and results of APS website materials, irrespective of the purpose to which such use or results are applied.
+APS will take all reasonable precautions to protect your personal information. However, you acknowledge that there are security and privacy limitations of the Internet which are beyond our control.
 
-APS encourages you to exercise discretion while browsing the Internet. The APS website provides links to other websites which are not controlled by APS. A link from the APS website is not an APS endorsement for any company or organization. APS is not responsible for the accuracy, copyright compliance, legality or decency of material contained on any other website. We encourage you to be aware when you leave our website and to read the privacy statements of each website that collects personally identifiable information.
+Though every effort is made to preserve user privacy, it may be necessary to disclose personal information when required by law, such as in compliance with a court order or other legal or governmental process.
+
+## Notifications
+
+Users may not opt out of certain business mailings such as election mailing (membership) or order receipts (for purchases and event registration).
+
+## Links
+
+This website contains links to third-party websites. APS is not responsible for the privacy practices of other websites. APS encourages its users to read the privacy policy of any third-party website before disclosing personal information on that website. This privacy policy applies solely to information collected by this website.
+
+## Correcting/Updating/Deleting/Deactivating Personal Information
+
+If a user’s information changes or if a user no longer desires the services provided, APS will correct, update, or remove that user’s personal data provided APS is notified by the user. APS may retain information essential to preserving the scholarly record and accurate financial records. Notification can be done by sending an email to [privacy@aps.org](mailto:privacy@aps.org).
+
+## Modifications to the Policy
+
+APS may modify, add, or remove portions of the privacy policy at any time. Customer information may be used for new, unanticipated uses not previously disclosed in the privacy notice. Information privacy changes will be posted on this website.
+
+## Contact Information
+
+If users have any questions or suggestions regarding this privacy policy, please contact APS at:
+
+American Physical Society  
+One Physics Ellipse  
+College Park, MD 20740  
+(301) 209-3200  
+[privacy@aps.org](mailto:privacy@aps.org)
+
+  
+_Effective: May 25, 2018_
