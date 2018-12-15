@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odishasuntimes.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621160923id_/http%3A//odishasuntimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odishasuntimes.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215074206id_/https%3A//odishasuntimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OdishaSunTimes.com
 
@@ -38,7 +38,7 @@ All information gathered on OdishaSunTimes.com  is securely stored within the O
 
 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)** or write at the following address:
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at **contact@odishasuntimes.com** or write at the following address:
 
 **Odisha Sun Times**  
 **C/o – Eastern Media Limited**  
