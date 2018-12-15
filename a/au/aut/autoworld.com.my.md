@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoworld.com.my privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508184521id_/http%3A//autoworld.com.my/news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoworld.com.my privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215044049id_/http%3A//autoworld.com.my/news/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Autoworld.com.my
 
@@ -10,9 +10,6 @@ No. 27, Lorong Medan Tuanku 1,
 (Off Jalan Sultan Ismail)  
 50300 Kuala Lumpur,  
 Malaysia.
-
-Tel : 603-2176-0333  
-Fax.: 603-2698-7200
 
 E-mail : [support@autoworld.com.my](mailto:support@autoworld.com.my)  
 As a fully internet based company which provides web services to the public, AWSB is committed to safeguarding your privacy online. Please read the following to fully understand our practices regarding the use of your personal information. By using the Site, you consent to the data practices described herein.
