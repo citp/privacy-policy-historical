@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adbull.me privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605023250id_/http%3A//adbull.me/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbull.me privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215092241id_/http%3A//adbull.me/pages/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 The term 'Adbull.me' or 'us' or 'we' refers to the owner of the website 'Adbull.me'. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service.
 
