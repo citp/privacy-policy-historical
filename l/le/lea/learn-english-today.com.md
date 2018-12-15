@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learn-english-today.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628152445id_/http%3A//www.learn-english-today.com/cookie-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn-english-today.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215065233id_/http%3A//www.learn-english-today.com/cookie-policy.html) for the most accurate reproduction.*
 
 # Cookie policy information | Learn-English-Today
 
