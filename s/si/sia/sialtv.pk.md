@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sialtv.pk privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616164414id_/http%3A//www.sialtv.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sialtv.pk privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215023423id_/http%3A//www.sialtv.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SialTV.PK
 
