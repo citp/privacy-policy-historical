@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gsmarc.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220193748id_/http%3A//www.gsmarc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmarc.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215023145id_/https%3A//www.gsmarc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GSMArc.com
-
-## Privacy Policy
 
   * Our privacy policy describes the ways in which we collect, store, use and protect your personal information and it is important for you to review this privacy policy.  
 By "personal information" we mean information that can be associated with a specific person and can be used to identify that person.
