@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616042143id_/https%3A//www.eurosport.co.uk/eurosport/eurosport-privacy-policy_sto4264003/story.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215210239id_/https%3A//www.eurosport.co.uk/eurosport/eurosport-privacy-policy_sto4264003/story.shtml) for the most accurate reproduction.*
 
 # EUROSPORT PRIVACY POLICY - Eurosport - Eurosport UK
 
@@ -48,17 +48,7 @@ Complaints, questions and suggestions
 
 **Who we are**
 
-We are: 
-
-DPlay Entertainment Limited of Chiswick Park Building 2, 566 Chiswick High Road, London W4 5YB, United Kingdom (registered company number 09615785) (provider of the Eurosport Player part of Eurosport Services); and 
-
-Eurosport, SAS of 3 rue Gaston et René Caudron, 92798 Issy les Moulineaux Cedex 9, France (registered company number: 353 735 657) (provider of the Eurosport.com part of Eurosport Services), 
-
-(together referred to in this Privacy Policy as "Eurosport", "we", "us" or "our"). 
-
-We are the joint data controllers of the personal information that we collect from you. 
-
-Our Data Protection Officer can be contacted at _DPO@discovery.com_. 
+Eurosport, SAS of 3 rue Gaston et René Caudron, 92798 Issy les Moulineaux Cedex 9, France (registered company number: 353 735 657) is the data controller for Eurosport websites and mobile applications, excluding the Eurosport Player subscription service and the website and mobile application associated with the Eurosport Player service. DPlay Entertainment Limited of Chiswick Park Building 2, 566 Chiswick High Road, London W4 5YB, United Kingdom (registered company number 09615785) is the data controller for the Eurosport Player service and the website and mobile application associated with the Eurosport Player service. Together, the services provided by Eurosport SAS and DPlay Entertainment Limited are referred to as the Eurosport Services”. Eurosport SAS and DPlay Entertainment Limited are individually and separately responsible for complying with the obligations that apply to them as data controllers. Eurosport SAS and DPlay Entertainment Limited are together referred to in this Privacy Policy as Eurosport”, we”, us” or ”our”. Our Data Protection Officer can be contacted at DPO@discovery.com. 
 
 **Information covered by this Privacy Policy**
 
