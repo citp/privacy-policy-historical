@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetfighter.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622110910id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetfighter.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215134840id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
 
 # Capcom Privacy Policy
 
@@ -6,9 +6,9 @@
 
 ## CAPCOM USA ONLINE PRIVACY STATEMENT
 
-Last updated May 25, 2018
+Last updated August 2, 2018
 
-Here is a [PDF version](https://web.archive.org/web/20180622110910id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20USA%20Online%20Privacy%20Statement%2020180525.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
+Here is a [PDF version](https://web.archive.org/web/20181215134840id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20USA%20Online%20Privacy%20Statement%2020180802.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
 
 Welcome to Capcom USA!
 
@@ -379,7 +379,7 @@ We may amend this Privacy Policy at any time. If we make any material changes in
 
 ## • Q10. How is information treated when it is collected from non-US residents?
 
-For personal information transferred from a European Union or European Economic Area member country or Switzerland to the United States, Capcom complies with the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce. Capcom adheres to the Privacy Shield Principles. If there is any conflict between the terms of this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and (pending the U.S. Department of Commerce’s approval thereof) to view Capcom’s Privacy Shield certification, please visit <https://www.privacyshield.gov/>. 
+For personal information transferred from a European Union or European Economic Area member country or Switzerland to the United States, Capcom complies with the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce. Capcom certifies that it adheres to the Privacy Shield Principles. If there is any conflict between the terms of this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view Capcom’s Privacy Shield certification, please visit <https://www.privacyshield.gov/>.
 
 In compliance with the Privacy Shield Principles, Capcom commits to resolve complaints about our collection or use of your personal information. European Union, European Economic Area and/or Swiss individuals with inquiries or complaints regarding our Privacy Policy should contact us at [privacy@capcom.com](mailto:privacy@capcom.com), or regular mail at:
 
@@ -389,10 +389,8 @@ Attn.: Privacy Policy Administrator
 San Francisco, CA 94107  
 
 
-If a European Union, European Economic Area or Swiss individual’s complaint cannot be resolved through our internal process, we will cooperate with JAMS pursuant to the JAMS International Mediation Rules, available on the [JAMS website](https://www.jamsadr.com/eu-us-privacy-shield). Mediation shall be conducted in English and shall take place in the City and County of San Francisco in the State of California before one mediator selected in accordance with such rules and procedures. All documents submitted to such mediation shall be in English. JAMS mediation may be commenced as provided for in the relevant JAMS rules, and at no cost to you. Under certain conditions, a European Union, European Economic Area or Swiss individual may also pursue binding arbitration through the Privacy Shield Panel. Arbitration shall be conducted in English and shall take place in the City and County of San Francisco in the State of California before one arbitrator selected in accordance with such rules and procedures. All documents submitted to such arbitration shall be in English.
+If a European Union, European Economic Area or Swiss individual’s complaint cannot be resolved through our internal process, we will cooperate with JAMS pursuant to the JAMS International Mediation Rules, available on the [JAMS website](https://www.jamsadr.com/eu-us-privacy-shield). Mediation shall be conducted in English and shall take place in the City and County of San Francisco in the State of California before one mediator selected in accordance with such rules and procedures. All documents submitted to such mediation shall be in English. JAMS mediation may be commenced as provided for in the relevant JAMS rules, and at no cost to you. Under certain conditions, a European Union, European Economic Area or Swiss individual may also pursue binding arbitration through the Privacy Shield Panel. Arbitration before the Privacy Shield Panel shall be conducted in accordance with the [Arbitration Procedures](https://www.privacyshield.gov/article?id=G-Arbitration-Procedures) set forth in Privacy Shield Annex I. Any arbitration not before the Privacy Shield Panel shall be conducted in English and shall take place in the City and County of San Francisco in the State of California before one arbitrator. All documents submitted to such arbitration shall be in English.
 
-Additionally, at any time, a European Union, European Economic Area or Swiss individual may submit a complaint directly to his or her local European Union data protection authority or the Swiss Federal Data Protection and Information Commissioner, as applicable. Moreover, Capcom is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
-
-For more information about filing a complaint, click [here.](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint)
+Additionally, at any time, a European Union, European Economic Area or Swiss individual may submit a complaint directly to his or her local European Union data protection authority or the Swiss Federal Data Protection and Information Commissioner, as applicable. Moreover, Capcom is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. For more information about filing a complaint, [click here](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint).
 
 Capcom may be liable for the onward transfer of EU, EEA or Swiss individual’s personal data to third parties that process personal data in a manner inconsistent with the Privacy Shield Principles, unless Capcom proves that it is not responsible for the event giving rise to the damage.
