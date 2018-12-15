@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ozlotteries.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114183433id_/https%3A//www.ozlotteries.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozlotteries.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215222027id_/https%3A//www.ozlotteries.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Oz Lotteries
 
 ### 1\. Background
 
-TMS owns and operates the Ozlotteries.com website which is the medium through which a range of lottery-based gaming activities are transacted with suppliers such as SA Lotteries, New South Wales Lotteries Corporation and Tatts Group Limited.
+TMS owns and operates the OzLotteries.com website which is the medium through which a range of lottery-based gaming activities are transacted with suppliers such as SA Lotteries, New South Wales Lotteries Corporation and Tatts Group Limited.
 
 TMS is committed to the protection of the Personal Information of individuals and is bound by the APPs under the Privacy Act 1988.
 
@@ -37,11 +37,11 @@ The Personal Information that TMS collects about you may include your:
 
 ### 5\. Why and how TMS collects Personal Information
 
-Personal Information is essentially collected through the Ozlotteries.com website for the primary purpose of administering the lottery-based gaming activities, ensuring that players who win prizes receive their winnings, and improving service levels to customers.
+Personal Information is essentially collected through the OzLotteries.com website for the primary purpose of administering the lottery-based gaming activities, ensuring that players who win prizes receive their winnings, and improving service levels to customers.
 
 Personal Information is collected from you in the following ways:
 
-  * Through our Ozlotteries.com website and communications between you and us by correspondence (such as email, fax, letter, phone);
+  * Through our OzLotteries.com website and communications between you and us by correspondence (such as email, fax, letter, phone);
   * Our transaction records relating to the purchase of lottery products and services; and
   * Third parties such as our affiliates, our suppliers, including lottery-based game suppliers, or your representatives.
 
@@ -52,7 +52,7 @@ What are 'cookies'?
   * Our website uses ‘cookies’.
   * 'Cookies' are alphanumeric identifiers that are placed on your computer's hard drive through your web browser.
   * 'Cookies' enable our system to recognise your browser and maintain your purchasing details in your shopping basket.
-  * By disabling 'cookies', you will not be able to participate in some of the features offered by Ozlotteries.com.
+  * By disabling 'cookies', you will not be able to participate in some of the features offered by OzLotteries.com.
   * Most Internet browsers are pre-set to accept cookies. If you prefer not to receive 'cookies', you may adjust your Internet browser to disable or to warn you when 'cookies' are used. As there are many browsers in the marketplace, the easiest way to change your settings is by searching for 'cookies' in your Help/Contents and Index options on your browser.
   * We recommend that you leave your 'cookies' enabled; otherwise you will not be able to purchase lottery entries with us.
   * Our 'cookies' don't send us back any information about your computer (except your IP address) or any other information on your hard drive.
@@ -63,7 +63,7 @@ What are 'cookies'?
 
 TMS is committed to the protection of your Personal Information from unauthorized access. We use a range of security mechanisms and procedures to protect the Personal Information we hold about you.
 
-TMS makes all reasonable efforts to ensure your Personal Information is stored securely both in electronic and physical forms, and complies with the APPs. The Ozlotteries.com website pages from which you may forward to us Personal Information are encrypted through a password protected portal using 128 bit SSL encryption. However, there may be risks associated when transferring your Personal Information to us from other internet facilities or by email.
+TMS makes all reasonable efforts to ensure your Personal Information is stored securely both in electronic and physical forms, and complies with the APPs. The OzLotteries.com website pages from which you may forward to us Personal Information are encrypted through a password protected portal using 128 bit SSL encryption. However, there may be risks associated when transferring your Personal Information to us from other internet facilities or by email.
 
 Personal Information that is no longer required will be destroyed in accordance with the legislation and APPs.
 
@@ -99,7 +99,7 @@ Where we do provide your Personal Information to overseas recipients, we will ta
 
 ### 9\. Access to Personal Information
 
-You have the right under the Privacy Act 1988 to seek access to the Personal Information held by TMS about you. If you wish to exercise this right, or if you believe that the information is incorrect, incomplete or out-of-date, you should either correct/update the information through the Ozlotteries.com website by logging into My Account using your username and password, or contact us.
+You have the right under the Privacy Act 1988 to seek access to the Personal Information held by TMS about you. If you wish to exercise this right, or if you believe that the information is incorrect, incomplete or out-of-date, you should either correct/update the information through the OzLotteries.com website by logging into My Account using your username and password, or contact us.
 
 All requests to access Personal Information must be made in writing or by email and addressed to the Privacy Officer at the addresses listed at the end of this document. It is TMS policy to respond to any such request within a reasonable period of time after the request is received. TMS will not charge you for making requests to access any information held about you, however, we reserve the right to undertake cost recovery for the provision of such information where it is justified.
 
@@ -115,7 +115,7 @@ If you are not satisfied with the outcome of your complaint, you may refer your 
 
 ### 11\. Changes to the Privacy Policy
 
-TMS reserves the right to make changes to this Privacy Policy. Any changes made to the Privacy Policy in the future will be posted on this page and such changes will become effective upon posting of the revised Privacy Policy. If we make any material or substantial changes to this Privacy Policy we will use reasonable endeavours to inform you by email, notice on our Ozlotteries.com website or other agreed communications channels.
+TMS reserves the right to make changes to this Privacy Policy. Any changes made to the Privacy Policy in the future will be posted on this page and such changes will become effective upon posting of the revised Privacy Policy. If we make any material or substantial changes to this Privacy Policy we will use reasonable endeavours to inform you by email, notice on our OzLotteries.com website or other agreed communications channels.
 
 ### 12\. Contact Details
 
@@ -126,13 +126,6 @@ TMS Global Service Pty Ltd
 GPO Box 2397  
 Melbourne  
 Victoria 3001  
-Australia
-
-##### Business Address
-
-307/370 St Kilda Road  
-Melbourne  
-Victoria 3004  
 Australia
 
 +61 3 9321 2888 (phone)  
