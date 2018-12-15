@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the identogo.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002075607id_/https%3A//www.identogo.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identogo.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215093719id_/https%3A//www.identogo.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Identogo
 
