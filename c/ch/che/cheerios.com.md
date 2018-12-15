@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheerios.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611212516id_/http%3A//generalmills.com/en/Company/privacy-policies/privacy-policy-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheerios.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215022424id_/https%3A//www.generalmills.com/en/Company/privacy-policies/privacy-policy-US) for the most accurate reproduction.*
 
 # General Mills: Privacy policy
 
