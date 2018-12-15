@@ -1,615 +1,752 @@
-> *The following text is extracted and transformed from the bmj.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202161231id_/http%3A//www.bmj.com/company/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmj.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215105506id_/https%3A//www.bmj.com/company/your-privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BMJ
+# BMJ privacy notice | BMJ
 
-**Who are we?**
+This Privacy Notice explains how BMJ Publishing Group Limited, a company registered in England (company number 3102371) with its registered office at BMA House, Tavistock Square, London, WC1H 9JR (BMJ, we, our, us), processes your personal data and your rights in relation to the personal data we hold.                
 
-Any reference to **“BMJ”, "we", "us"** and **"our"** is to **BMJ Publishing Group Limited** , except where the relevant service is provided by another BMJ group company, in which case references to we, us or our shall, in respect of those services, be references to that BMJ group company.
+**You can also look at the[cookies policy](https://www.bmj.com/company/legal-information/bmj-cookie-policy/) to find out what cookies we use and why.**
 
-BMJ Publishing Group Limited **(“BMJ”)** is a company registered in England and Wales (registered number is 3102371) with registered office at BMJ, BMA House, Tavistock Square, London WC1H 9JR, UK. We are registered on the Data Protection Public Register. Our Data Protection Registration Number is **Z7607533**. Any reference to **“website(s)”** or **“site(s)”** is to a website owned or controlled by BMJ Publishing Group Limited. Any reference to **“you”** or **“your”** is a reference to you as a user of a BMJ website or service.
+For the purposes of any applicable data protection laws in England and Wales, including from 25 May 2018 the EU General Data Protection Regulation 2016/679 ( **GDPR** ), BMJ is the data controller of your personal data. We are registered with the ICO on the Data Protection Public Register under registration number Z7607533.
 
- **Your privacy**
+If you have any questions about these rights or how your personal data is used by us, you should contact the Data Protection Officer using the details below:
 
-Protecting your privacy is one of our top priorities. Please take a few minutes to read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+  * Post – Data Protection Officer
+  * Address – BMJ, BMA House, Tavistock Square, London, WC1H 9JR
+  * Email – [dataprotectionofficer@bmj.com](mailto:dataprotectionofficer@bmj.com)
 
-From time to time we may change this Privacy Policy without further notice to you. We will post revisions on the Website.
 
-We recommend that you regularly review this policy for any changes. It is your responsibility for doing so. 
 
- **Our privacy commitment**
+How we use your personal data will depend upon how you use our services. We have included separate sections in section 1 of this Notice for distinct products and services we offer to help you identify how this Notice is relevant to you. 
 
-[](http://www.bmj.com/company/who-we-are/values/)
+Effective May 25, 2018  | Archived versions
 
-This document sets out the basis on which BMJ will process any personal data we collect from you and what cookies we use and why, except in the case of Evidence Based Nursing, and in which case you will be subject to the Royal College of Nursing's Privacy Policy <http://www.rcn.org.uk/>privacy. Other than for Evidence Based Nursing, or where we are hosting information for you (such as on BMJ Portfolio), BMJ shall be the data controller.
+**This Notice has the following  parts:**
 
-We will make every effort to protect your privacy by adopting a consistently high level of site security and adhering to strict company policies on how we store and use personal information. This privacy policy has been developed in accordance with our legal obligations and may be updated from time to time.
+BMJ collects your personal data from the following sources:
 
-We recommend that you read this Privacy Policy prior to using our site and thereafter regularly review any changes. It is your responsibility for doing so. 
+  * From you, when you: 
+    * fill in forms on our website or our apps, for example to order products or services, to sign up to a mailing list, or to register to use our website and apps;
+    * enter a competition for which we are a promoter; either online, by email, post, text or phone;
+    * participate in a BMJ discussion forum or interact on our social media accounts;
+    * communicate with us by post, telephone, fax, email, social media, webinars, online customer services, or in person;
+    * complete surveys or testimonials.
 
-From time to time we may change this Privacy Policy without further notice to you. We will post revisions on the Website.
 
- **Language of Terms**
+  * From third parties such as software providers: 
+    * who analyse your use of our websites and apps;
+    * provide our e-commerce solution; as well as those
+    * who process Open Access fees on our behalf; as well as those
+    * service providers we appoint to host discussion forums, webinars and online chat, or administer surveys and market research on our behalf;
+    * The British Medical Association ( **BMA** ) who provide details of BMA members in order for us to deliver products that are included as part of BMA membership (or where you have consented to being contacted by us);
+    * your hospital, university, trust or other organisation who provide your details when they purchase our products so that we can register and administer your account;
 
-Where this Privacy Policy has been translated into a language which is not English, this has been done for your convenience only to aid your interpretation of the policy.
 
-The English language version of this Privacy Policy is available [here](http://www.bmj.com/company/your-privacy/) and it shall prevail in the event of any conflict between the English language version and a version in any other language.
+  *     * Worldpay, (<https://www.worldpay.com/uk> ) our payment provider.
 
- **1\. What information is being collected and how is it used?**
 
-There are various sections of the website which correspond to different aspects of BMJ’s business. The nature and purpose of the personal data we collect from you will differ depending on which area of the site(s) you access (for example whether you are registering for one of our products or simply contacting us to provide feedback).
 
-What data we collect and how this is used is set out in detail in this policy but general categories include:
+  * biographical information such as your name, title, date of birth, age and gender;
+  * images and your likeness (as captured in a photograph for identification purposes or on video that we capture for webinars, interviews and when filming for BMJ's other legitimate purposes);
+  * your contact details including address, email address, phone number and social media identifiers;
 
-  * information that you provide by filling in forms on our website which may include: your name, address, postcode, email address, date of birth, telephone number, payment details and service details (if applicable);
-  * technical information about your use of BMJ services including details of your domain name, location and internet protocol (IP) address, operating system, browser version, the content you view, how long you stayed on a page,
-  * data collected through the use of "cookies" and/or other devices. For full details, see our Cookie Policy which is contained in clause 5 below.
-  * other data from time to time to help us provide you with improved products and services – for example when we ask you to fill in a survey or questionnaire.
 
 
+  * when you visit our website or use our apps we collect details of your Internet Protocol (IP) address, location (including institution), browser type and version, and operating system;
+  * information you provide in your communications with us;
+  * details about how you use our website and apps including the content you accessed, any searches you conducted, your length of visit, login details, time and date of visit and what method you used to browse away from our website (for detailed information on the cookies we use and the purposes for which we use them please see our Cookie Policy <https://www.bmj.com/company/your-privacy/cookies-policy/> );
+  * your opinion as you express it in chat, forums and interviews;
+  * products you have purchased and details of financial transactions;
+  * content and links you accessed in our marketing emails;
 
-In addition to the uses specified below, we may use information provided by you in the following ways:
 
-  * to ensure that content on our site is presented in the most effective manner for you;
-  * monitor, develop and improve our products and services;
-  * to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
-  * to allow you to participate in interactive features of our service, when you choose to do so; and
-  * to notify you about changes to our service including to contact you with service messages. By way of example, if any service for which you have registered is no longer available, we may contact you to let you know that it has closed and inform you of any similar services offered by us and/or any company within our group of companies and/or a third party partner on our behalf.
 
+  * where appropriate, we may obtain diversity and background information including ethnic origin, race, religious and political beliefs, health data or information concerning your sex life and sexual orientation, that you provide to us in our surveys or for our market research. We may also collect details of trade union membership, for example, where membership (such as membership of the BMA) entitles you to access to, or a discount on, our products.
 
 
- **1.1 Registered Users**
 
-Many of our websites require subscriptions and/or registration to access certain functions, services or content. You will know what information is being collected via these processes when you complete the relevant forms and provide the required details prior to submitting the application for the relevant subscription or registration.
+We may process your personal data because it is necessary for the performance of a contract to deliver products you have engaged us for, or in order to take steps at your request prior to entering into a contract. In this respect, we use your personal data to provide products that you (or your organisation) have requested from us (or which are provided as part of your BMA membership) and to communicate with you in relation to these products.
 
-On some of our websites, where you submit a response for publication your name and other personal details may be published. You should check the policy on the relevant submission page on the specific BMJ operated website.
+We will provide your data to the following (but only for purposes connected with our fulfilling contracts with you):
 
-We will collect data relating to any transactions you carry out through our website(s) and of the fulfilment of your orders.
+  * third party service providers such as shipping companies and our website and app platform providers who assist us in delivering our products to you;
+  * our bank to whom payment details are provided in order to process a payment;
+  * our data storage providers and those who provide our Customer Relationship Management ( **CRM** ) platforms; and
+  * Our parent company British Medical Association or to your organisation/institution where we are required to verify your details prior to providing our products to you.
 
-We collate data about registered users including which BMJ publications and services they have subscribed to in order that we can understand our customers and try and easily fulfil their subscription requirements.
 
-Where you have supplied information relating to a conference (for instance where you are attending a conference, or speaking at a conference), we will use your personal data to inform the venue and caterers of delegates, share that information with any co-owners, co-organisers or relevant suppliers and contractors of a conference (where applicable). We may also use your data to create a delegate or speaker list which will be distributed to all attendees and sponsors.
 
-Once you start using our sites, we may track and keep a record of the pages you visit. We collect this data from groups of users to get a sense of how people are using our sites and what content and which business areas or sections of the site are most popular. This helps us improve what we offer on our sites.
+Your personal data will also be processed because it is necessary for BMJ's legitimate interests or the legitimate interests of a third party. This will always be weighed against your rights, interests and expectations. Examples of where we process data for purposes that fall under legitimate interests include:
 
-We will also use your data to monitor for any unauthorised use of our websites, content or subscriptions to our publications (for example individuals subscribing individually on behalf of institutions).
+  * to administer a competition that you have entered;
+  * marketing BMJ and its products online, or by post, telephone, SMS, social media and email (except where we provide communications under contract, or in situations where it is required or appropriate to seek your consent);
+  * measuring and understanding the effectiveness of our advertising and to allow us (and third parties who advertise on our website and apps) to deliver relevant advertising to you (including ensuring that we do not advertise medical products that are not licensed in your country);
+  * recording calls to our call centres for staff training and quality assurance purposes (including for the purposes of establishing the existence of facts in connection to the content of a call);
+  * processing technical information about your use of our website and apps to ensure that content is presented in the most effective manner and to allow you to use interactive features of our website and apps;
+  * processing enquiries, complaints and analysing our services;
+  * consulting our professional advisers (including legal) where it is necessary for us to obtain their advice or assistance;
+  * providing your data to a buyer or prospective buyer of the whole or a part of our business (except in circumstances where this is necessary for the performance of a contract to which you are a party);
+  * dealing with enquiries and investigations by authorities where a statutory or regulatory obligation does not exist (for example, cooperating with the Advertising Standards Agency).
 
-We may also disclose your identity and contact details to any third party claiming material posted by you is defamatory or violates their intellectual property rights or right to privacy.
 
-You will be given at least one opportunity to opt in or out (as applicable) from receiving marketing emails from BMJ and third parties. For users who have opted to receive marketing emails from BMJ (and others where indicated and there is a jointly supplied product or service), and visit our websites through links provided in these emails, we may send information about your website usage to our third party email direct marketing provider. This is for the purpose of understanding the effectiveness of our email marketing campaigns and for targeting future email campaigns.
 
- _ **1.2 BMJ Learning Users**_
+In this respect, in addition to those parties named above, we will provide your data to the following:
 
-In addition to and subject to other uses of your personal data which are set out herein (see clause 3 in particular), the information that you add to your BMJ Portfolio, including the areas of improvement you identify, the BMJ Learning modules you have started and /or completed, and other such information, is considered private save that our technicians have access to it in order to fix problems and maintain the site. However, subject to clause 3 and the BMA exception described below we do not read this information unless it is necessary to do so, and we will not release it to other people or organisations, without your prior consent. 
+  * direct marketing providers;
+  * Google Analytics who receive technical information in relation to how you use our website and apps;
+  * sponsors who have provided prizes for competitions you have won. We may also share your name and contact details with sponsors where you have entered a competition and provided consent for your details to be shared for this purpose;
+  * BMA and other third parties for marketing purposes where we have your consent to share your information for this purpose.
 
-In the case of BMJ Learning and BMJ Portfolio only (and in accordance with clause 3 (vii)), we may disclose certain personal data to the British Medical Association ("BMA") including in relation to the fact you have signed up for access to BMJ Learning, the modules that you have started, completed, passed or failed and any feedback you have given in relation to the modules. 
 
-We reserve the right to release anonymised group data to third parties related to the use of specific modules. You are able to give feedback about a learning module after completing it, and in the learning resources section of the site. This information is visible to other users of the site, including guest users. We will also use it to improve our site.
 
- ** _1.3 Foundation Programme Users_**
+Your personal data will also be processed by BMJ for compliance with its legal and regulatory obligations such as:
 
-The forms you complete online and the learning modules you complete (including obtaining certificates of completion) are considered private. Our technicians have access to them in order to fix problems and maintain the site. However, we do not read this information unless necessary, and will not release it to other people or organisations, without your prior consent.
+  * the detection and prevention of crime and in order to assist the police and other competent authorities with investigations;
+  * to comply with tax legislation and subject access requests of others; and
+  * to comply with any regulatory obligations to which we are, or may become, subject.
 
- _ **1.4 Portfolio Users**_
 
-Subject to clause 3(vii), the data you enter into the BMJ Portfolio website, and any files you upload to it, is considered private. Our technicians have access to this data in order to fix problems and maintain the site. We may statistically analyse the information, in aggregate form, to learn more about the interests of our user base. These statistics may be used to provide functionality that recommends useful resources to other users of BMJ Portfolio. In no case will it be possible to identify an individual through such functionality, or through the underlying aggregate data.
 
- _ **1.5 BMJ Quality Improvement Programme Users**_
+In this respect, we may in specific circumstances need to share your personal data with third parties who have made legitimate requests under data protection law; the police and other law enforcement agencies; HMRC and BMJ's external auditors.
 
-Where you have registered and/or purchased access to a BMJ Quality Improvement Programme product or service, your name will be available for other users for the purpose of contacting you through the service. They will not have access to your contact information directly (unless such information is included on a report you have written, which is published) instead, you will be sent an invitation via your BMJ account and if you accept such invitation you may choose to communicate through these means.
+In some circumstances BMJ may seek your explicit consent to process your personal data: for example, if we wish to use your likeness or an attributed quote in our materials or where it is otherwise appropriate.
 
- _ **1.6 All users**_
+Where we process special categories of personal data, we do so under the following bases:
 
-As you browse our websites, we collect information about your use of the site including but not limited to traffic data and location data. Essentially this will normally be which pages you have visited, how long you stay online and where you are located. We will not be able to identify who you are from the information we store, but we will be able to identify where you are located - (see clause 1.7 below).
+  * to protect your vital interests; for example to inform an emergency contact, the NHS or emergency services in the event of your illness or other emergency;
+  * with your explicit consent, for example if you provide information about your health, ethnicity, sexual orientation or religious beliefs, etc in a survey for our market research or information about your BMA membership where this is relevant to access to (or a discount on) a product;
+  * where processing is necessary for the establishment, exercise or defence of a legal claim.
 
- _ **1.7 What else do we collect when you use one of our websites?**_
 
-Each time you use the internet, an Internet Protocol **(“IP”)** address is assigned to your computer or internet-capable device via the internet service provider. This number may either be the same or different each time you access the internet. Each time your computer or internet-capable device requests information from one of our websites, we log your IP address on our server. We may also log operating systems and browser types for the purposes of system administration and to report aggregate information. We may use this in order to gather information about the website traffic and usage.
 
-To clarify, whether you are a registered user or not, our web server collects certain information including (a) IP address; (b) host names (c) domain name (d) time and date information as requested (e) the browser version and platform when it is requested, (f) a record of which pages have been requested (g) location data from your IP address. Location data may be necessary for us to “geo-block” or regionalise our website content or services.
+We use personal characteristics such as age, gender, address, role, your expressed interests, your previous interactions with BMJ or geographical location to target our communications to a specific audience.
 
-If you contact us, we may keep a record of that correspondence and use it to contact you and/or to update our records. We may use all information we obtain to enforce our legal rights and protect against unauthorised access, use, activity and/or copying, either personally or via third party contractors and advisors. This may involve using your name and subscription details on a database with other publishers’ data for detection purposes.
+BMJ will, in limited circumstances, disclose personal data to third parties, or allow personal data to be stored or handled, in countries outside the European Economic Area. In these circumstances, your personal data will only be transferred on one of the following bases:
 
- _ **1.8 What else do we use personal information for?**_
+  * where the transfer is subject to one or more of the "appropriate safeguards" for international transfers prescribed by applicable law (e.g. standard data protection clauses adopted by the European Commission under Article 46(2)(c) GDPR).  If you wish to obtain a copy of the standard clauses we use, please contact us;
+  * under an approved certification mechanism such as Privacy Shield (Article 42 GDPR);
 
-Other than for fulfilling our obligations to you (where these exist), on some occasions we use the information you provide to produce aggregate statistics in relation to pages being accessed. We may also use it to monitor usage patterns on our websites in order to improve navigation and design features and to help you get information more easily. This information is provided to us as daily log files. In order to help us develop our websites and our services, we may provide such aggregate information to third parties. The statistics however will not include any information that can be used to identify any individual. We may contact you to notify you about changes to our service. We may also send you non marketing emails which includes for internal record keeping and to improve our services and/or for the purpose of inviting you to partake in surveys or market research which we conduct or which third parties are conducting.
 
-In addition to responding to complaints or claims received or discovered referred to above or any breaches of our Website Terms and Conditions, we may use all information supplied or collected on our Websites to enforce our legal rights and protect against unauthorised access, use, activity and/or copying, either personally or via third party contractors and advisors and/or protect the rights, property, or personal safety other users of the websites and the public. This may involve using any details supplied by you including your name and contact details.
+  * a European Commission decision provides that the country or territory to which the transfer is made ensures an adequate level of protection (Article 45 GDPR);
+  * there exists another situation where the transfer is permitted under applicable law (for example, where we have your explicit consent).
 
- _ **2\. How long do we keep the information we collect?**_
 
-We keep (including via our contractors) your personal information for as long as necessary to fulfil our obligations to you and to protect our legal interests or as otherwise stated to you when such data is collected.
 
- _ **3\. To whom will information be disclosed?**_
+We retain your data for as long as is required to provide our products to you or is necessary for our legal purposes or our legitimate interests. In particular, we generally retain data in relation to:
 
-Other than as expressly agreed by you or stated when data is collected or stated within this policy we will not disclose your personal data to any third parties other than:
+  * products provided by us for ten years after the product has been provided, unless our relationship with you continues for a longer period;
+  * information gained from the cookies we use on our website and apps for 30 days;
+  * competition entries for up to two years following the end of the competition, although where prize winners’ details are published, this data may be archived indefinitely;
+  * recordings of telephone calls made to our call centre for 12 months;
+  * marketing purposes until you inform us that you no longer wish to hear from us (for example, through clicking ‘unsubscribe’ on an email communication). If you express this preference we may retain your contact details on a suppression list so that you no longer receive communications from us.
 
-  1. to third parties authorised by us such as our co-owners (where applicable), licensors, contractors and advisers who must keep this data confidential. For the International Forum on Quality and Safety and certain other BMJ services, this may include transferring your data outside of the European Economic Area (“EEA”) including to the USA. This may also be the case for other co-owners or licensors;
-  2. as required for conferences such as to venue organisers who may be outside of the EEA or where you agree with an exhibitor or sponsor to be scanned at a conference and in which case your name, work details and all contact details will be supplied to them;
-  3. as required to enforce our legal rights (including property, safety, our customers or others);
-  4. fraud protection and credit risk reduction;
-  5. where you have opted for a publication of service which allows you to select a third party to see data you submit such as mentors for BMJ Quality Improvement or another BMJ service;
-  6. where our company or its assets (to which your data relates) are to be acquired by a new company location data may be shared;
-  7. in the case of BMJ Learning and BMJ Portfolio only to the BMA in relation to the fact that you have signed up for access to BMJ Learning, the modules that you have started, completed, passed or failed and any feedback you have given in relation to the modules;
-  8. in the case of registered GP’s in New Zealand who are official members of the Royal New Zealand College of GP’s, whilst we have an agreement with them, details of modules you have the modules that you have started,  completed, passed or failed and any feedback you have given in relation to the modules ;
-  9. in the case of registered GPs in Denmark, who are official members of the Danish Medical Association, whilst we have an agreement with them, details of modules you have the modules that you have started,  completed, passed or failed and any feedback you have given in relation to the modules ;
-  10. in the case of users whose access is provided by Harmoni, details of modules you have the modules that you have started,  completed, passed or failed and any feedback you have given in relation to the modules;
-  11. in the case that you are registered with the BMJ Learning Iraq channel then we may provide your personal data, including details of your usage of the site, including the modules that you have started,  completed, passed or failed and any feedback you have given in relation to the modules to the Iraq Ministry of Health;
-  12. to any member of our group, which means our subsidiaries and our ultimate holding company, the BMA; and
-  13. where we have your consent to do so, to third parties for the purposes of providing BMJ marketing communications to you.
 
 
+BMJ collects your personal data from the following sources:
 
- **4\. How personal information is stored and protected**
+  * From you, when you ** _:_**
+    * register and subscribe for BMJ Best Practice, BMJ Learning, OnExamination, BMJ Masterclasses or RTOP on our website or applications and when you use our online tools;
+    * complete feedback forms and surveys in connection to our products;
+    * correspond with us or make enquiries via our website or apps, email, post or telephone.
 
-Your personal data is stored in our databases or those of our contractors which is only available to our web administrators and our contractors and selected authorised people on a password protected basis (except where referred to in the final paragraph of clause 1.3 herein). The data that we collect from you (or which you supply to us by email or otherwise) may be transferred to and stored at a destination outside of the European Economic Area (“EEA”). It may also be processed by staff operating outside of the EEA who work for us or are of our suppliers. Such staff may be engaged in among other things, hosting the fulfilment of your order, processing of your payment details and the provision of support services by submitting your personal data, you agree to this transfer, storing or process. We will take all steps reasonably necessary to ensure that your data is treated securely by us and our contractors and in accordance with this privacy policy. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. Please do not share your password(s) with anyone.
 
- _ **4.1 Security**_
+  * From third parties such as: 
+    * your hospital, university, trust or other organisation who may have provided us with your details so that we can provide you with access to our products;
+    * British Medical Association ( **BMA** ), if BMA membership entitles you to access our products;
+    * Worldpay, our payment provider who will confirm details of your payment;
+    * Our software platform providers who host and operate our website and applications.
 
-We understand that the security of your information is important to you. We also understand that our continued success as a publisher on the web relies on our ability to communicate with you in a secure manner. We adhere to the highest standards of decency, fairness, and integrity in our operations. We use several measures to authenticate your identity when you visit our site. We also take steps to protect your information as it travels the internet, and to make sure all information is as secure as possible against unauthorised access and use (for example, by hackers). We review our security measures regularly. Despite our best efforts, and the best efforts of other firms, "perfect security" does not exist on the internet, or anywhere else. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk.
 
-Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
- _ **4.2 Authentication**_
+We collect the following categories of personal data:
 
-You should not share your user name and password with other people. If you think you might lose or forget these identifiers, write them down and keep each in a separate place.
+  * biographical information such as your name, title, date of birth, age and gender;
+  * your contact details including address, email address and phone number;
+  * log in details that you are assigned as part of registration;
 
- _ **4.3 Email**_
 
-Any email between you and BMJ is not encrypted.
 
- _ **4.4 Data within our walls**_
+  * your qualifications and professional experience;
+  * your hospital, university, trust or other organisation you belong to;
+  * your BMA membership number if this is relevant to the provision of our products;
+  * content you have accessed, courses and assessments you have attempted or completed and your assessment results, in connection to our products;
+  * reviews you post on our websites in relation to our products;
 
-The information we collect about people visiting the site is stored in secure environments that are not available to any other individual or party without our consent. We have mechanisms in place to protect data. One such mechanism is called a "firewall." A firewall is a barrier that allows only authorised traffic through. It safeguards our computer systems and your information. We also use system and application logs to track all access. We review these logs periodically and investigate any anomalies or discrepancies.
 
- **5\. Cookies**
 
- **5.1 What are cookies?**
+  * when you visit our website or use our apps we collect details of your Internet Protocol (IP) address, location (including institution), browser type and version, and operating system;
+  * details about how you use our website and apps including the content you accessed, any searches you conducted, your length of visit, login details, time and date of visit and what method you used to browse away from our website (for detailed information on the cookies we use and the purposes for which we use them please see our Cookie Policy <https://www.bmj.com/company/your-privacy/cookies-policy/>);
+  * information you provide in your communications with us;
+  * your opinion as you express it in chat, forums and interviews;
+  * information on the number and type of different devices you are using to access your BMJ accounts;
+  * confirmation of financial transactions;
 
-Cookies are small text files which a website may put on your computer or mobile device when you first visit a website. Cookies are widely used by websites to help remember small amounts of information and give you a better experience using the website. For example, a cookie will help the website to recognise your device the next time you visit so you don’t have to log on again, they will remember what items you placed in a shopping basket or recall your preferences such as which language you want to read a site in.
 
-Certain cookies contain a limited amount of personal information. For example, if you click “remember me” when logging in, a cookie will store your username. Most cookies won’t collect information that identifies **you** , and will instead collect more general information to help us analyse how well our website is performing overall so we can try and improve it.
 
- **5.2 How we use Cookies**
+  * details of trade union membership (such as BMA membership) where this is relevant to access to (or a discount on) our products;
 
-BMJ uses cookies on most of our websites to perform different functions. These are grouped into four main categories:
 
- _ **Technically Necessary Cookies**_
 
-Some essential functions of our websites are only possible if information is stored persistently between each page you look at. For instance, if you log in to a site to access subscriber only content, we use a cookie to remember that you are logged in, so you do not have to enter your details on each page you visit.
+We may process your personal data because it is necessary for the performance of a contract to deliver the products you have engaged us for, or in order to take steps at your request prior to entering into a contract. In this respect, we use your personal data for the following:
 
- _ **Customisation and Personalisation Cookies**_
+  * to create and administer your account and subscription payments;
+  * to enable you to use online tools and to track your usage for Continuing Medical Education and Career Professional Development purposes;
+  * access authentication and authorisation.
 
-In order to allow you as an individual, or our institutional customers, to customise our products and websites, we need to remember who you are and what you want. We use cookies to record your preferences regarding website appearance, what content you’ve already read, and to present the information that is most relevant to you.
 
- _ **Performance Monitoring Cookies**_
 
-We utilise other cookies to analyse how our visitors use our websites and to monitor website performance. This allows us to provide a high quality experience by customising our offering and quickly identifying and fixing any issues that arise. When we send marketing emails to users who have chosen to receive them, we use a cookie that lets us track the success of campaigns. We may use this information to determine which of our emails are more interesting to users, or to query whether users who do not open our emails wish to continue receiving them. We don’t use cookies to find out how specific individuals use our products, only to gather general statistics that can help us give you a better experience.
+In this respect we will provide your data to the following (but only for purposes connected with our fulfilling contracts with you):
 
- _ **Third Party Cookies**_
+  * our bank to whom payment details are provided in order to process a payment;
+  * our platform providers who host our websites and apps.
 
-BMJ websites sometimes integrate with other companies’ sites. For example, we integrate with social networking sites such as Twitter and Facebook, to make it easier for you to share what you have read. These sites place their own cookies on your browser as a result of us including their icons and ‘like’ or ‘share’ buttons on our sites. Like most commercial publishers we also sell advertising space, or ‘banner ads’ on some of our websites. These ads are served directly from a 3rd party advertising broker. They place cookies on your browser in order to track how many people have seen a particular ad, and for other technical reasons.
 
- **5.3 How to remove or block Cookies**
 
-Your internet browser has tools that allow you to remove or block cookies. More information can be found here: <http://www.aboutcookies.org/>
+Your personal data will also be processed because it is necessary for BMJ's legitimate interests or the legitimate interests of a third party. This will always be weighed against your rights, interests and expectations. Examples of where we process data for purposes that fall under legitimate interests include:
 
-**5.4 What will happen if I block BMJ Cookies?**
+  * marketing BMJ and its products online, or by post, telephone, SMS, social media and email (except where we provide material under contract, or in situations where it is required or appropriate to seek your consent);
 
-Depending on which cookies you block, the site may stop working, or certain features may stop working correctly. If the cookies marked below as ‘technically necessary’ are blocked, the site will probably not be usable.
 
- **5.5 BMJ Cookie List**
+  * recording calls to our call centres for staff training and quality assurance purposes (including for the purposes of establishing the existence of facts in connection to the content of a call);
 
-The list below shows the majority of cookies on used on our sites, or set by third parties from our sites. The list is subject to change.
 
- **  Cookie **|  **  Name Category **|  **  Purpose **|  **  Further Information**  
----|---|---|---  
-  
-  **_utma,**
+  * processing technical information about your use of our products to ensure that content is presented in the most effective manner and to allow you to use interactive features of our products;
+  * processing (and replying to) enquiries, complaints, surveys, feedback forms and to analyse our services;
+  * providing your data to a buyer or prospective buyer of the whole or a part of our business (except in circumstances where this is necessary for the performance of a contract to which you are a party);
+  * sharing information in relation to your use of our products (such as assessment results and content you have accessed) if your hospital, university, trust or other organisation has provided you with access to our products. BMJ will share this data with your parent organisation so that your organisation can offer you relevant support. Prior to sharing your data in this way BMJ will obtain assurances from your organisation as to how the data will be used;
+  * consulting our professional advisers where it is necessary for us to obtain their advice or assistance.
 
- **_utmb,**
 
- **_utmc,**
 
- **_utmz**
+In this respect, in addition to those parties named above, we will provide your data to the following:
 
-| 
+  * direct marketing providers;
+  * Google Analytics who receive technical information in relation to how you use our website and apps;
+  * BMA who will receive usage statistics of products for BMA members in order to allow it to assess the value of offering the product as part of its membership package;
+  * BMA and other third parties for marketing purposes (unless it is required or appropriate for us to request your consent to share your information for this purpose).
 
- _Performance  Monitoring,_ **Third party cookies**
 
-| 
 
- **Google Analytics sets these cookies. They are used for general aggregated usage statistics**
+Your personal data will also be processed by BMJ for compliance with its legal obligations. For example:
 
-| 
+  * for the detection and prevention of crime and in order to assist the police and other competent authorities with investigations;
 
-[ https://developers.google.com/analytics/resources/concepts/gaConceptsCookies](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)  
-  
-  **APISID,**
 
- **SAPISID,**
+  * to comply with tax legislation, safeguarding duties and subject access requests of others.
 
- **SID, SS,**
 
- **SSID**
 
-| 
+In this respect, we may in specific circumstances need to share your personal data with third parties who have made legitimate requests under data protection law; the police and other law enforcement agencies; HMRC and BMJ's external auditors.
 
- **  Third party Cookies**
+Where you provide information concerning your health or BMA membership we will only process this information where we have your explicit consent.
 
-| 
+We may use personal characteristics such as age, gender, address, role, your expressed interests, your previous interactions with BMJ or geographical location to target our communications to a specific audience.
 
- **This is used by the Google +1 recommendation service**
+BMJ also uses a range of advertising technologies like pixels, ad tags, cookies and mobile identifiers as well as specific services used by some websites and social media networks, such as Facebook, to present BMJ adverts to you when you are on other websites and apps. These adverts will be based on information we hold about you about your previous use of BMJ sites (for example, your BMJ search history, the content you accessed and the adverts you clicked on).
 
-|   
-  
- **AT**
+BMJ will, in limited circumstances, disclose personal data to third parties, or allow personal data to be stored or handled, in countries outside the European Economic Area (EEA).  For example, we may transfer data to your institution, for the purposes given above, which may be established outside of the EEA. We may also pass personal information to our agents outside the EEA (e.g. USA and Mexico) in order for them to contact users in relation to product support and for marketing purposes.
 
-| 
+In these circumstances, your personal data will only be transferred on one of the following bases:
 
- **Technically Necessary**
+  * where the transfer is subject to one or more of the "appropriate safeguards" for international transfers prescribed by applicable law (e.g. standard data protection clauses adopted by the European Commission under Article 46(2)(c) GDPR). Please contact us if you wish to obtain a copy of the standard clauses we use;
+  * a European Commission decision provides that the country or territory to which the transfer is made ensures an adequate level of protection (Article 45 GDPR);
+  * under an approved certification mechanism such as Privacy Shield (Article 42 GDPR);
+  * there exists another situation where the transfer is permitted under applicable law (for example, where we have your explicit consent).
 
-| 
 
- **This is used to handle authentication on some products**
 
-|     
-  
- adestra_ctrk
+We retain your data for as long as is required to provide our products to you or is necessary for our legal purposes or our legitimate interests. In particular, we generally retain data in relation to:
 
-| 
+  * our products for seven years after the product has been provided, unless our relationship with you otherwise continues for a longer period;
+  *  
+  * information gained from the cookies we use on our website and apps for 30 days;
+  *  
+  * recordings of telephone calls made to our call centre for 12 months;
+  *  
+  * marketing purposes until you inform us that you no longer wish to hear from us (for example, through clicking ‘unsubscribe’ on an email communication). If you express this preference we may retain your contact details on a suppression list so that you no longer receive communications from us;
+  * reviews you post on our website or apps are held for three years unless you delete or unpublish the review.
 
-  **Third party Cookies**
 
-| 
 
- **  This is used to track how many people open and respond to marketing emails**
+BMJ collects your personal data from the following sources:
 
-| 
+  * From you, when you: 
+    * register and subscribe for BMJ publications through our website, email, post, or by phone;
+    * correspond with us and make enquiries through our website or by post, email, phone or online customer services;
+    * when you complete feedback forms or surveys.
 
-[ http://www.adestra.com/home/cookie-policy/](http://www.adestra.com/home/cookie-policy/)  
-  
- adestra_ctrk_pref
 
-| 
+  * From third parties such as: 
+    * your hospital, university, trust or other organisation if they have subscribed on your behalf for BMJ's publications;
+    * British Medical Association ( **BMA** ) if you receive a subscription as part of your BMA membership;
+    * Worldpay, our payment provider who will confirm details of your payment;
+    * agents who advertise and process orders for our subscriptions on our behalf;
+    * aggregator platforms who provide access to our publications on their platforms;
+    * our platform providers who host and operate our website and apps.
 
-  **Third party Cookies**
 
-| 
 
- **  This is used to indicate if you have opted out of tracking in marketing emails**
+We collect the following categories of personal data:
 
-| 
+  * biographical information such as your name, title, date of birth, age and gender;
+  * your contact details including address, email address and phone number;
+  * log in details that you are assigned as part of registration.
 
-[ http://www.adestra.com/home/cookie-policy/](http://www.adestra.com/home/cookie-policy/)  
-  
-  **Auth_token,**
 
- **auth_token_session,**
 
- **guest_id, k, pid, t1, twll**
+  * your qualifications, licences and professional experience;
+  * your institution or the society you belong to;
+  * your ORCID ID (if you have one);
+  * your primary speciality (if applicable);
+  * your BMA membership number where this is required;
 
-| 
 
- **  Third Party Cookies**
 
-| 
+  * when you visit our website or use our apps we collect details of your Internet Protocol (IP) address, location (including institution), browser type and version, and operating system;
+  * information you provide in your communications with us;
+  * details about how you use our website and apps including the content you accessed, any searches you conducted, your length of visit, login details, time and date of visit and what method you used to browse away from our website (for detailed information on the cookies we use and the purposes for which we use them please see our Cookie Policy <https://www.bmj.com/company/your-privacy/cookies-policy/>);
+  * information on the number and type of different devices you are using to access your BMJ subscriptions;
+  * details of your current and previous subscriptions;
+  * payment details and your financial transactions in relation to your subscription;
 
- **  These are used by Twitter**
 
-| 
 
- <https://twitter.com/privacy>https://twitter.com/privacy  
-  
- avr_[numeric sequence]
+  * details of trade union membership (such as BMA membership) where this is relevant to access to (or a discount on) our subscriptions.
 
-| 
 
- **  Technically Necessary**
 
-| 
+We may process your personal data because it is necessary for the performance of a contract, for example, to deliver the subscriptions you have requested, or in order to take steps at your request prior to entering into a contract. In this respect, we use your personal data for the following purposes:
 
- **  This is used by our CDN service, Edgecast, to accelerate content delivery.**
+  * to administer and correspond with you about your subscriptions;
+  * to administer your subscription plan and payments;
+  * to provide you with access to the platforms, websites and apps on which our publications reside;
+  * to conclude transactions with you for the purchase of print or online subscriptions or individual articles;
 
-| 
 
-[ http://www.edgecast.com/privacy.html](http://www.edgecast.com/privacy.html)  
-  
- **  BIGipServercommunity.bmj.pluck.com-[numeric sequence]**
 
-| 
+In this respect we will provide your data to the following (but only for purposes connected with our fulfilling contracts with you):
 
- **  Technically Necessary**
+  * our website and app platform providers, who may store details such as name, email address and login details to enable online access;
+  * third party editorial offices;
+  * transport and distribution agents.
 
-| 
 
- **  Used by a Pluck, an online community platform we use on some sites.                      **
 
-|   
-  
- BMJLearning
+Your personal data will also be processed because it is necessary for BMJ's legitimate interests or the legitimate interests of a third party. This will always be weighed against your rights, interests and expectations. Examples of where we process data for purposes that fall under legitimate interests include:
 
-| 
+  * detecting breaches of our subscription terms and conditions;
+  * marketing BMJ and its products online, or by post, telephone, SMS, social media and email (except where we provide material under contract, or in situations where it is required or appropriate to seek your consent);
+  * recording calls to our call centres for staff training and quality assurance purposes (including for the purposes of establishing the existence of facts in connection to the content of a call);
+  * processing technical information about your use of our website and apps to ensure that content on our site is presented in the most effective manner and to allow you to use interactive features of our website and apps;
+  * processing enquiries, complaints, surveys, feedback forms and to analyse our services;
+  * providing your data to a buyer or prospective buyer of the whole or a part of our business (except in circumstances where this is necessary for the performance of a contract to which you are a party);
+  * consulting our professional advisers where it is necessary for us to obtain their advice or assistance.
 
- _  Performance  Monitoring_
 
-| 
 
-  **We use this to provide usage stats to institutional customers**
+In this respect, in addition to those parties named above, we will provide your data to the following:
 
-|   
-  
-  **BMJPortfolio**
+  * direct marketing providers;
+  * Google Analytics who receive technical information in relation to how you use our website and apps;
 
-| 
 
- _  Performance  Monitoring _
+  * BMA, co-owners of journals for marketing purposes (apart from where it is required or appropriate to have your consent to sharing your information for this purpose).
 
-| 
 
-  **We use this to provide usage stats to institutional customers**
 
-|   
----|---|---|---  
-  
-  **bpweb**
+Your personal data will also be processed by BMJ for compliance with its legal obligations. For example:
 
-| 
+  * for the detection and prevention of crime and in order to assist the police and other competent authorities with investigations.
 
- Performance  Monitoring 
 
-| 
 
-  **We use this to provide usage stats to institutional customers**
+In this respect, we may in specific circumstances need to share your personal data with third parties who have made legitimate requests under data protection law; the police and other law enforcement agencies; HMRC and BMJ's external auditors.
 
-|   
-  
- c_user,datr,locale, lu, xs
+Where we process special categories of personal data our bases for processing are:
 
-datr,locale, lu, xs
+  * your explicit consent, for example if we process information about your trade union membership;
+  * where processing is necessary for the establishment, exercise or defence of a legal claim.
 
-| 
 
-  **Third Party Cookies**
 
-| 
+We may use personal characteristics such as age, gender, address, role, your expressed interests, your previous interactions with BMJ or geographical location to target our communications to a specific audience.
 
-  **Facebook uses these cookies. We use Facebook buttons to help people share content they find interesting.**
+BMJ also uses a range of advertising technologies like pixels, ad tags, cookies and mobile identifiers as well as specific services used by some websites and social media networks, such as Facebook, to present BMJ adverts to you when you are on other websites and apps. These adverts will be based on information we hold about you about your previous use of BMJ sites (for example, your BMJ search history, the content you accessed and the adverts you clicked on).
 
-| 
+BMJ will, in limited circumstances, disclose personal data to third parties, or allow personal data to be stored or handled, in countries outside the European Economic Area.  For example, we will transfer data to our data storage providers, our journal platform provider or distribution agents (for example, in the USA and India).
 
-<http://www.facebook.com/help/?page=176591669064814>[ ](http://www.facebook.com/help/?page=176591669064814)  
-  
-  **clinical-evidence**
+In these circumstances, your personal data will only be transferred on one of the following bases:
 
-| 
+  * where the transfer is subject to one or more of the "appropriate safeguards" for international transfers prescribed by applicable law (e.g. standard data protection clauses adopted by the European Commission under Article 46(2)(c) GDPR). If you wish to obtain a copy of the standard clauses we use, please contact us;
 
- _  Performance  Monitoring_
 
-| 
+  * a European Commission decision provides that the country or territory to which the transfer is made ensures an adequate level of protection (Article 45 GDPR);
+  * under an approved certification mechanism such as Privacy Shield (Article 42 GDPR);
 
-  **We use this to provide usage stats to institutional customers**
 
-|   
-  
- D, mc
+  * there exists another situation where the transfer is permitted under applicable law (for example, where we have your explicit consent).
 
-| 
 
- **  Third Party Cookies,** _Performance  Monitoring_
 
-| 
+We retain your data for as long as is required to provide our products to you or is necessary for our legal purposes or our legitimate interests. In particular, we generally retain data in relation to:
 
-  **Quantserve measure site traffic independently.**
+  * subscriber data for our journals for ten years following the termination of your subscription, unless our relationship with you otherwise continues for a longer period;
+  * recordings of telephone calls made to our call centre for 12 months;
+  * information gained from the cookies we use on our website and apps for 30 days;
+  * marketing purposes until you inform us that you no longer wish to hear from us (for example, through clicking ‘unsubscribe’ on an email communication). If you express this preference we may retain your contact details on a suppression list so that you no longer receive communications from us.
 
-| 
 
-  **Web Stats and Traffic Monitoring**  
-  
-Demographics,
 
-HSID,
+BMJ collects your personal data from the following sources:
 
-LOGIN_INFO,
+  * From you, when you: 
+    * register or buy tickets for events through our website, email, post or phone
+    * make submissions for consideration of BMJ Awards (or any other BMJ-run awards event) through our website, email, post or phone;
+    * when you meet with one of our representatives or correspond with us through our website or by post, email and phone; in connection to events;
+    * when you complete feedback forms and surveys;
 
-PREF, SID,
 
-VISITOR_INFO1_LIVE
+  * From third parties such as: 
+    * ticketing agencies who sell tickets or process ticket orders on our behalf;
+    * your hospital, university, trust or other organisation who may purchase tickets on your behalf or register your details with us;
+    * our website and ticketing platform providers;
+    * Worldpay, our payment provider who will confirm details of your payment.
 
-| 
 
-  **Third Party Cookies**
 
-| 
+We collect the following categories of personal data, depending on the event:
 
- **  Youtube use these cookies. We use YouTube to distribute videos on some of our sites.**
+  * biographical information such as your name, title, date of birth, age and gender;
+  * your contact details including address, email address and phone number;
+  * your image and voice (for example, when captured on video at a BMJ event);
 
-| 
 
- <http://www.google.com/intl/en/policies/privacy/>  
-  
- **  has_js**
 
-| 
+  * your qualifications, licences and professional experience;
+  * your institution;
 
- **  Technically Necessary**
 
-| 
 
- **  Our websites use this to indicate if javascript is working on your browser**
+  * when you visit our website or use our apps we collect details of your Internet Protocol (IP) address, location (including institution), browser type and version, and operating system;
+  * information you provide in your communications with us;
+  * details about how you use our website and apps including the content you accessed, any searches you conducted, your length of visit, login details, time and date of visit and what method you used to browse away from our website (for detailed information on the cookies we use and the purposes for which we use them please see our Cookie Policy <https://www.bmj.com/company/your-privacy/cookies-policy/>);
+  * BMJ events you have attended in the past or for which you are registered to attend in the future;
+  * payment details and your financial transactions in relation to your purchase;
 
-|   
-  
- **  I18N_LANGUAGE**
 
-| 
 
-  _Customisation and Personalisation_
+  * where provided by you or your organisation we process data concerning your health in order to make appropriate adjustments to our event, for example, to accommodate access requirements or your catering needs;
 
-| 
 
-  **Some of our websites use this to store your language preference**
 
-|   
-  
- **  ICSMarker**
+details of trade union membership (such as your British Medical Association ( **BMA** ) membership number) if this is relevant to the event, for example if BMA membership provides discounted entry
 
-| 
+We may process your personal data because it is necessary for the performance of a contract, for example, to deliver the event you have engaged us for, or in order to take steps at your request prior to entering into a contract. In this respect, we use your personal data for the following (where tickets may have been bought on your behalf then we will conduct the following processing under our legitimate interests):
 
- **  Technically Necessary**
+  * to administer the event and your payment;
+  * to correspond with you about the event, including sending you pre-event information.
 
-| 
 
- **Our websites use this to enable single sign on across our products, so you don’t have to** log in **on each of our sites in turn.**
 
-|   
-  
- **  JSESSIONID**
+In this respect we will provide your data to the following (but only for purposes connected with our fulfilling contracts with you):
 
-| 
+  * third party contractors and service providers who we may engage to assist in delivering the event; for example, event organisers, conference providers, caterers, and instructors;
+  * our bank to whom payment details are provided in order to process a payment;
+  * our website provider, where attending an event may also involve attendees being provided with an online account.
 
-  **Technically Necessary** _Customisation and Personalisation_
 
-| 
 
-  **Our Java based websites use this for a wide range of technical purposes**
+Your personal data will also be processed because it is necessary for BMJ's legitimate interests or the legitimate interests of a third party. This will always be weighed against your rights, interests and expectations. Examples of where we process data for purposes that fall under legitimate interests include:
 
-|   
-  
- **NSC_[alphabetical sequence]**
+  * creating a delegate or speaker list and distributing the list to speakers and attendees;
+  * sharing attendee details with co-organisers, collaborators and sponsors of an event (except in circumstances where it is appropriate to gain your consent);
+  * marketing BMJ and its products online, or by post, telephone, SMS, social media and email (except where we provide material under contract, or in situations where it is required or appropriate to seek your consent;
+  * recording our events for promotional and educational purposes (for example, when interviewing attendees and recording speakers);
+  * recording calls to our call centres for staff training and quality assurance purposes (including for the purposes of establishing the existence of facts in connection to the content of a call);
+  * processing technical information about your use of BMJ websites to ensure that content on our site is presented in the most effective manner and to allow you to use interactive features of our website;
+  * consulting our professional advisers where it is necessary for us to obtain their advice or assistance;
+  * providing your data to a buyer or prospective buyer of the whole or a part of our business (except in circumstances where this is necessary for the performance of a contract to which you are a party);
+  * processing enquiries, complaints, surveys, feedback forms and to analyse our services.
 
-| 
 
- **Technically Necessary**
 
-| 
+In this respect, and in addition to those parties named above, we will provide your data to the following:
 
- **Our load balancers use this cookie to help direct traffic between different back end servers**
+  * direct marketing providers;
+  * Google Analytics who receive technical information in relation to how you use our website;
 
-|     
----|---|---|---  
-  
- **NXCLICK2,**
 
- **OAX**
+  * BMA for marketing purposes and to update you on products that you may be interested in (unless it is appropriate to gain your consent before sharing your information in this way).
 
-| 
 
- **Third Party Cookies**
 
-| 
+Your personal data will also be processed by BMJ for compliance with its legal obligations. For example:
 
- **Realmedia, our advertising partner, use this cookie to serve appropriate banner ads**
+  * for the detection and prevention of crime and in order to assist the police and other competent authorities with investigations.
 
-| 
 
-<http://www.247realmedia.com/EN-US/privacy-policy.html>  
-  
- **qualityid**
 
-| 
+In this respect, we may in specific circumstances need to share your personal data with third parties who have made legitimate requests under data protection law; the police and other law enforcement agencies; HMRC and BMJ's external auditors.
 
- **Technically Necessary  **
+Where we process special categories of personal data our bases for processing are:
 
-| 
+  * to protect your vital interests for example to inform your specified emergency contact, the NHS or emergency services in the event of your illness or other emergency;
+  * your explicit consent, for example if we require information about your BMA membership or dietary or access requirements that we need to process in relation to the event;
+  * where processing is necessary for the establishment, exercise or defence of a legal claim.
 
- **Used by one of our sites for session handling**
 
-|     
-  
- **SiteLifeHost**
 
-| 
+We may use personal characteristics such as age, gender, address, role, your expressed interests, your previous interactions with BMJ or geographical location to target our communications to a specific audience.
 
- **Technically Necessary  **
+BMJ also uses a range of advertising technologies like pixels, ad tags, cookies and mobile identifiers as well as specific services used by some websites and social media networks, such as Facebook, to present BMJ adverts to you when you are on other websites and apps. These adverts will be based on information we hold about you about your previous use of BMJ sites (for example, your BMJ search history, the content you accessed and the adverts you clicked on).
 
-| 
+BMJ will, in limited circumstances, disclose personal data to third parties, or allow personal data to be stored or handled, in countries outside the European Economic Area.  For example, where events may take place outside the EEA (such as the International Forum on Quality and Safety) we may transfer data to those countries. In these circumstances, your personal data will only be transferred on one of the following bases:
 
- **Used by Pluck, and online community platform we use on some sites**
+  * where the transfer is subject to one or more of the "appropriate safeguards" for international transfers prescribed by applicable law (e.g. standard data protection clauses adopted by the European Commission under Article 46(2)(c) GDPR). If you wish to obtain a copy of the standard clauses we use, please contact us;
 
-|     
-  
- **Uuid, uvc**
 
-| 
+  * a European Commission decision provides that the country or territory to which the transfer is made ensures an adequate level of protection (Article 45 GDPR);
+  * under an approved certification mechanism such as Privacy Shield (Article 42 GDPR);
 
- **Third Party Cookie**
 
-| 
+  * there exists another situation where the transfer is permitted under applicable law (for example, where we have your explicit consent) or where the transfer is necessary for the performance of a contract under Article 49.
 
- **Used by Lockerz, a social networking website**
 
-| 
 
-<http://support.lockerz.com/entries/515589-privacy-policy>  
-  
- **X-HighWire-Backend**
+We retain your data for as long as is required to provide our products to you or is necessary for our legal purposes or our legitimate interests. In particular, we generally retain data in relation to:
 
-| 
+  * a record of your attendance at the event for seven years following the event;
+  * recordings of telephone calls made to our call centre for 12 months;
+  * information gained from the cookies we use on our website and apps for 30 days;
+  * marketing purposes until you inform us that you no longer wish to hear from us (for example, through clicking ‘unsubscribe’ on an email communication). If you express this preference we may retain your contact details on a suppression list so that you no longer receive communications from us.
 
- **Technically Necessary  **
 
-| 
 
- **Used by Highwire Press, who deliver our journal sites**
+BMJ collects your personal data from the following sources:
 
-|     
-  
- **xsession,** **ga, session**
+  * From you, when you:
 
-| 
 
- **Technically necessary**
+  *     * correspond with us through our website, or by post, email and phone;
 
-| 
 
-Used by the Careers Fair website for session handling
+  *     * when you submit letters for publication or articles directly to BMJ;
 
-|    
-  
- **__utmz,**
 
- **__utmt_madgex,**
+  * From third parties such as: 
+    * those who operate the platform through which articles are submitted and reviewed;
+    * other peer reviewers who review your articles and provide feedback to BMJ's editorial teams;
+    * article authors and peer reviewers who may recommend you as a potential reviewer or editor;
+    * publicly available sources in order to identify potential contributors, editors and peer reviewers.
 
- **__utmt,**
 
- **__utmc,**
 
- **__utmb,**
+We collect the following categories of personal data:
 
- **__utma,**
+  * biographical information such as your name, title, date of birth, age and gender;
+  * your contact details including address, email address and phone number;
+  * log in details that you are assigned as part of registration for third party platforms;
 
- **FixedFacetDefaults,**
 
- **BrowserSession,**
 
- **AnonymousUserId**
+  * your qualifications and professional experience;
+  * your institution;
+  * any opinions and assessments provided in your article, or in your review of an article;
+  * any competing interests that may relate to an article you have submitted or reviewed;
 
-| 
 
-Third party cookies, technically necessary
 
-| 
+  * when you visit our website or use our apps we collect details of your Internet Protocol (IP) address, location (including institution), browser type and version, and operating system;
+  * information you provide in your communications with us;
+  * details about how you use our website and apps including the content you accessed, any searches you conducted, your length of visit, login details, time and date of visit and what method you used to browse away from our website (for detailed information on the cookies we use and the purposes for which we use them please see our Cookie Policy <https://www.bmj.com/company/your-privacy/cookies-policy/>);
+  * payment details and your financial transactions.
 
-Used by BMJ job boards ([jobs.bmj.com](http://jobs.bmj.com/) and [vetrecordjobs.com](http://vetrecordjobs.com/)) to maintain user sessions and manage personal log-ins in order to serve relevant jobs
 
-|    
-  
- **6\. Contact us**
 
-Please contact us if any of the data we hold about you becomes inaccurate and if you have any queries or concerns about the data we are holding about you. Also we welcome your feedback about what you like or don't like about our sites. Your feedback is stored on a secure internal system that allows the appropriate person to respond to you. Please contact us through our Contact us section.
+  * health information in relation to your medical situation where you are a 'Patient Reviewer' in relation to journal content.
 
- **7\. Linking to external sites**
 
-Occasionally, you will encounter links to other sites that are not related to BMJ. Please be aware that once you click to one of these sites, you are subject to that site's privacy policy and not to ours. You may wish to review the privacy policy for each site you visit.
 
- **8\. Your consent**
+We will process your personal data because it is necessary for the performance of a contract to deliver the services you have engaged us for, or in order to take steps at your request prior to entering into a contract. In this respect, we use your personal data for the following:
 
-By submitting your information, you consent to the use of that information as set out in this policy. You should review this policy regularly, to note any changes as to how we collect and use personal information.
+  * to edit, review and publish your article or letter;
+  * to process article processing charges ( **APC** );
+  * to check for plagiarism and to obtain copyright clearance;
 
-Thank you for reviewing this information.
 
-If you have any questions, please send us an e-mail through our [Contact us](http://www.bmj.com/company/contact-us/) section.
+  * to credit you as the author, researcher or reviewer of an article.
 
-Privacy policy last updated 23/09/2013
 
-Cookies policy (section 5) last updated 01/07/2015
+
+In this respect we will provide your data to the following (but only for purposes connected with our fulfilling contracts with you):
+
+  * peer reviewers;
+
+
+  * contractors who provide editorial, publishing and printing services;
+  * third parties who provide copyright clearance and collect APC;
+
+
+  * platforms that host our publications.
+
+
+
+Your personal data will also be processed because it is necessary for BMJ's legitimate interests or the legitimate interests of a third party. This will always be weighed against your rights, interests and expectations. Examples of where we process data for purposes that fall under legitimate interests include:
+
+  * researching you using publicly available sources in order to identify suitable reviewers and editors. Once we have identified you as suitable for these purposes we will add you to our reviewers’ database. We will write to you to inform you that this has happened and to give you an opportunity to object to such use of your personal data;  
+  * contacting authors and reviewers (and to allow the editorial team to do the same) in relation to the reviewing of articles;
+  * identifying your suitability to review a certain article – some authors may specifically request that certain individuals should not review their article, for example where there is a conflict of interest;
+  * marketing BMJ and its products online, or by post, telephone, SMS, social media and email (except where we provide material under contract, or in situations where it is required or appropriate to seek your consent);
+  * recording calls to our call centres for staff training and quality assurance purposes (including for the purposes of establishing the existence of facts in connection to the content of a call);
+  * processing technical information about your use of the BMJ website to ensure that content on our site is presented in the most effective manner and to allow you to use interactive features of our website;
+  * consulting our professional advisers where it is necessary for us to obtain their advice or assistance;
+
+
+  * processing enquiries, complaints, surveys, feedback forms and to analyse our services;
+  * providing your data to a buyer or prospective buyer of the whole or a part of our business (except in circumstances where this is necessary for the performance of a contract to which you are a party);
+
+
+  * to raise concerns with a research council, ethics committee or other supervisory body if we felt it was appropriate for us to do so;
+  * Sharing the lay summary of your journal article and the respective authors’ email addresses with Kudos ([www.growkudos.com](https://www.growkudos.com/)) who will contact the authors in relation to publishing the lay summary on the Kudos website.
+
+
+
+In this respect, in addition to those parties named above, we will provide your data to the following:
+
+  * direct marketing providers;
+  * Google Analytics who receive technical information in relation to how you use our website and apps;
+
+
+  * BMA and owners and co-owners of journals for marketing purposes and to update you on products that you may be interested in (unless it is appropriate to gain your consent before sharing your information in this way).
+
+
+
+Your personal data will also be processed by BMJ for compliance with the its legal obligations. For example:
+
+  * for the detection and prevention of crime and in order to assist the police and other competent authorities with investigations.
+
+
+
+In this respect, we may in specific circumstances need to share your personal data with third parties who have made legitimate requests under data protection law; the police and other law enforcement agencies.
+
+Where you have provided your data in relation to a research study or article we will request that the person submitting the article provides evidence of your written consent to publication. Where you are a Patient Reviewer we will request your explicit consent prior to processing information in relation to your health. We may also process this information for the establishment, exercise or defence of legal claims.
+
+We may use personal characteristics such as age, gender, address, role, your expressed interests, your previous interactions with BMJ or geographical location to target our communications to a specific audience.
+
+BMJ also uses a range of advertising technologies like pixels, ad tags, cookies and mobile identifiers as well as specific services used by some websites and social media networks, such as Facebook, to present BMJ adverts to you when you are on other websites and apps. These adverts will be based on information we hold about you about your previous use of BMJ sites (for example, your BMJ search history, the content you accessed and the adverts you clicked on).
+
+BMJ will, in limited circumstances, disclose personal data to third parties, or allow personal data to be stored or handled, in countries outside the European Economic Area.  For example, we will transfer data to our data storage providers and also to platforms that host our journals. In these circumstances, your personal data will only be transferred on one of the following bases:
+
+  * where the transfer is subject to one or more of the "appropriate safeguards" for international transfers prescribed by applicable law (e.g. standard data protection clauses adopted by the European Commission). If you wish to obtain a copy of the standard clauses we use, please contact us;
+  * under an approved certification mechanism such as Privacy Shield (Article 42 GDPR).
+
+
+
+We retain your data for as long as is required to provide our products to you or is necessary for our legal purposes or our legitimate interests. In particular, we generally retain data in relation to:
+
+  * journal articles and the peer review process indefinitely;
+  * information gained from the cookies we use on our website and apps for 30 days;
+  * recordings of telephone calls made to our call centre for 12 months;
+  * marketing purposes until you inform us that you no longer wish to hear from us (for example, through clicking ‘unsubscribe’ on an email communication). If you express this preference we may retain your contact details on a suppression list so that you no longer receive communications from us.
+
+
+
+BMJ collects your personal data from the following sources:
+
+  * From you, when you ** _:_**
+    * register for an account and subscribe for BMJ Careers on our website or app and when you use our online tools;
+    * upload your CV to our website or app;
+    * correspond with us or make enquiries via our website or app, email, post or telephone.
+
+
+  * From third parties such as: 
+    * our software platform providers who host and operate our website and applications.
+
+
+
+We collect the following categories of personal data:
+
+  * biographical information such as your name, title and gender;
+  * the country in which you are working or studying in;
+  * contact details such as your address, email address and phone number;
+  * log in details that you are assigned as part of registration;
+
+
+
+  * your qualifications, professional experience and any other detail you provide if you upload your CV or submit a job application;
+  * your job aspirations, profession and speciality when you create an account or register for email alerts;
+
+
+
+  * information you provide in your communications with us;
+  * when you visit our website or use our apps we collect details of your Internet Protocol (IP) address, location (including institution), browser type and version, and operating system;
+  * details about how you use our website and apps including the content you accessed, any searches you conducted, your length of visit, login details, time and date of visit and what method you used to browse away from our website (for detailed information on the cookies we use and the purposes for which we use them please see our Cookie Policy <https://www.bmj.com/company/your-privacy/cookies-policy/>
+
+
+
+Your personal data will also be processed because it is necessary for BMJ's legitimate interests or the legitimate interests of a third party. This will always be weighed against your rights, interests and expectations. Examples of where we process data for purposes that fall under legitimate interests include:
+
+  * to create and administer your account;
+  * to enable you to use online tools;
+  * to pass a job application you submit to us to a prospective employer or recruiter;
+  * marketing BMJ and its products online, or by post, telephone, SMS, social media and email (except in situations where it is required or appropriate to seek your consent);
+  * processing technical information about your use of our products to ensure that content is presented in the most effective manner, to allow you to use interactive features of our products and to operate our business;
+  * recording calls to our call centres for staff training and quality assurance purposes (including for the purposes of establishing the existence of facts in connection to the content of a call);
+  * processing (and replying to) enquiries, complaints, surveys, feedback forms and to analyse our services;
+  * providing your data to a buyer or prospective buyer of the whole or a part of our business (except in circumstances where this is necessary for the performance of a contract to which you are a party);
+  * consulting our professional advisers where it is necessary for us to obtain their advice or assistance.
+
+
+
+In this respect, in addition to those parties named above, we will provide your data to the following:
+
+  * our platform providers, who host our website and apps.
+  * direct marketing providers;
+  * BMA and other third parties for marketing purposes (apart from where it is required or appropriate for us to have your consent to share your information for this purpose).
+
+
+
+Your personal data will also be processed by BMJ for compliance with its legal obligations. For example:
+
+  * for the detection and prevention of crime and in order to assist the police and other competent authorities with investigations.
+
+
+
+In this respect, we may in specific circumstances need to share your personal data with the police and other law enforcement agencies.
+
+We may use personal characteristics such as age, gender, address, role, your expressed interests, your previous interactions with BMJ or geographical location to target our communications to a specific audience.
+
+BMJ also uses a range of advertising technologies like pixels, ad tags, cookies and mobile identifiers as well as specific services used by some websites and social media networks, such as Facebook, to present BMJ adverts to you when you are on other websites and apps. These adverts will be based on information we hold about you about your previous use of BMJ sites (for example, your BMJ search history, the content you accessed and the adverts you clicked on).
+
+BMJ uses Google Analytics who will transfer information gained from our use of cookies to its storage centres in the USA. In these circumstances, your personal data will only be transferred under the Privacy Shield gateway in accordance with Article 42 GDPR.
+
+We retain your data for as long as is required to provide our products to you or is necessary for our legal purposes or our legitimate interests. In particular, we generally retain data in relation to:
+
+  * information that you provide in relation to your job aspirations and searches (including your CV) until you close your account or amend your online profile;
+  * recordings of telephone calls made to our call centre for 12 months;
+  * information gained from the cookies we use on our website and apps for 30 days;
+  * marketing purposes until you inform us that you no longer wish to hear from us (for example, through clicking ‘unsubscribe’ on an email communication). If you express this preference we may retain your contact details on a suppression list so that you no longer receive communications from us.
+
+
+
+Prior to 25 May 2018, you have the following rights:
+
+  * To obtain access to, and copies of, the personal data we hold about you;
+  * To require that we cease processing your personal data if the processing is causing you damage or distress;
+  * To require us not to send you marketing communications;
+
+
+
+Once GDPR comes into force, from 25 May 2018 you will also have the following additional rights:
+
+  * To request that we erase your personal data;
+  * To request that we restrict our data processing activities in relation to your personal data;
+  * To receive from us the personal data we hold about you, which you have provided to us, in a reasonable format specified by you, including for the purpose of transmitting that personal data to another data controller; and
+  * To require us to correct the personal data we hold about you if it is incorrect.
+
+
+
+**Please note** that the above rights are not absolute, and requests may be refused where exceptions apply.
+
+To initiate this process please contact our Customer Services team, and they will record the immediate information we need and this will be followed up by our Data Protection Officer.
+
+If you are not satisfied with how your personal data is used by BMJ you can make a complaint to the Information Commissioner [(](https://www.ico.org.uk/)www.ico.org.uk). 
