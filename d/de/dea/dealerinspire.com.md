@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dealerinspire.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024233227id_/https%3A//www.dealerinspire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealerinspire.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215022910id_/https%3A//www.dealerinspire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dealer Inspire
 
 We only collect information from you when you submit your information on our site through a form. The information we collect includes your name, email address, mailing address, and phone number.
 
-**How We Use Your Information**  
+ **How We Use Your Information**  
 We will only use your information in three ways:
 
   1. To personalize your experience browsing our website. We use cookies for this purpose.
@@ -13,12 +13,12 @@ We will only use your information in three ways:
 
 
 
-**How We Protect Your Information**
+ **How We Protect Your Information**
 
 We will not sell, exchange, transfer, or give your information to other parties without your consent for any reason, with the exception of trusted third parties that assist us in operating our website and fulfilling your order; we will only share your information with such third parties that agree to maintain your confidentiality. We use a variety of security measures to ensure that your information is protected, including the use of a secure server and SSL (Secure Socket Layer) technology.
 
 We may release information when doing so is necessary to comply with the law, enforce our site’s policies, or to protect the rights, property, or safety of others. Information that is not personally identifiable may be provided to other parties for marketing, advertising, or other purposes.
 
-**Your Consent**
+ **Your Consent**
 
 By using our website, you agree to the terms of our privacy policy.
