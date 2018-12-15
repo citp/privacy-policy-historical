@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckmypakistanigf.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615124142id_/http%3A//www.fuckmypakistanigf.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckmypakistanigf.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215032050id_/http%3A//www.fuckmypakistanigf.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
