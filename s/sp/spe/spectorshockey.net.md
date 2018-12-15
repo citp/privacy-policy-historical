@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spectorshockey.net privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523132747id_/http%3A//www.spectorshockey.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectorshockey.net privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215125524id_/https%3A//www.spectorshockey.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Spectors Hockey
 
