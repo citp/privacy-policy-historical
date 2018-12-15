@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osn.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607223145id_/http%3A//www.osn.com/en-sa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osn.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215101211id_/http%3A//www.osn.com/en-sa/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Saudi Arabia - OSN
 
