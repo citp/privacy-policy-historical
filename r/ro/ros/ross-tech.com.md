@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ross-tech.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610063513id_/http%3A//www.ross-tech.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ross-tech.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215022644id_/http%3A//www.ross-tech.com/privacy.php) for the most accurate reproduction.*
 
 # Ross-Tech: Privacy
 
@@ -42,4 +42,4 @@
 > 
 > **6.3 The right to be forgotten:**  You may request that we delete any personal data we hold about you.. 
 > 
-> **6.4 Exercising these rights:**   In order to exercise these rights (or others that the GDPR may confer upon you) please [contact us](https://web.archive.org/web/20180610063513id_/http%3A//www.ross-tech.com/contact.php) us.  Understand that we may need to take additional steps to confirm your identity before we can comply with such requests. 
+> **6.4 Exercising these rights:**   In order to exercise these rights (or others that the GDPR may confer upon you) please [contact us](https://web.archive.org/web/20181215022644id_/http%3A//www.ross-tech.com/contact.php) us.  Understand that we may need to take additional steps to confirm your identity before we can comply with such requests. 
