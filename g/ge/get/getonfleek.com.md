@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getonfleek.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126165107id_/https%3A//getonfleek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getonfleek.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215044835id_/https%3A//getonfleek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Getonfleek
 
