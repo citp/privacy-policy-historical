@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipsandtricks-hq.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191249id_/https%3A//www.tipsandtricks-hq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsandtricks-hq.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215082018id_/https%3A//www.tipsandtricks-hq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tips and Tricks HQ
 
