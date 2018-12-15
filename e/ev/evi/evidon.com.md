@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evidon.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629092651id_/https%3A//www.evidon.com/resources/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evidon.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215231407id_/https%3A//www.evidon.com/resources/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Evidon
 
