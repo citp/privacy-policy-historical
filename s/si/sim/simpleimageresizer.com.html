@@ -1,0 +1,1072 @@
+<!--The following is the downloaded HTML source of the simpleimageresizer.com privacy policy that was archived on 2018-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181215104546id_/http%3A//www.simpleimageresizer.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"><html lang="en"><link rel="stylesheet" href="/static/css/jquery-ui-1.9.2.custom.min.css"><head>
+      <title>Privacy Policy of Simple Image Resizer</title>
+      <meta name="description" content="Privacy Policy of Simple Image Resizer - this is how we implemented privacy on our site">
+      <meta name="keywords" content="">
+
+      <link rel="stylesheet" type="text/css" href="/static/css/style.css?24865">
+
+      <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-36353530-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+        </script>
+
+    <link rel="shortcut icon" href="/static/images/favicon.ico">
+    <script src="/static/js/jquery-1.8.3.min.js"></script>
+
+     <style>
+    .ui-widget .ui-widget { font-size: 0.6em; }
+    .ui-widget-header { display:none; }
+    #dialog-modal p {text-align:center;}     
+     </style>
+
+<script type="text/javascript">
+    
+
+    
+
+    
+
+
+    $(document).ready(function() {
+
+           var $dialog = $('<div></div>')
+                .html('<div id="dialog-modal">\
+                    <p></p>\
+                    <p><img src="/static/images/dots64.gif" width="64" height="21"></p>\
+                    <p>Uploading image...</p>\
+                    </div>')
+                .dialog({
+                    height: 160,
+                    width: 400,
+                    title: 'titleee'});
+
+          $dialog.dialog('close');
+
+           $("#submit-resize-button").click(function(){
+               var fileName = $('#fileInput').val();
+               if (fileName !== ''){
+                   $dialog.dialog('open');
+               }
+        });
+
+        if (typeof lastHeight !== 'undefined') {
+            $('#height').val(lastHeight);
+        }
+        if (typeof lastWidth !== 'undefined') {
+            $('#width').val(lastWidth);
+        }
+
+
+        
+        var sliderValue = 50;
+        if (typeof lastUserSliderValue !== 'undefined') {
+            sliderValue = lastUserSliderValue;
+        }
+        if ($("#percent-resize") == "") {
+            sliderValue = $("#percent-resize").slider("value");
+        }
+
+        $("#percent-slider").slider({
+            min:1,
+            max:100,
+            value:sliderValue,
+            slide:function (event, ui) {
+                $("#percent-resize").val(ui.value);
+            }
+        });
+
+        $("#percent-resize").val(sliderValue);
+
+
+        if (typeof lastResizeMethod !== 'undefined') {
+            if (lastResizeMethod == "dimensions") {
+                dimensionsMethodSelected();
+            } else {
+                percentMethodSelected();
+            }
+        } else {
+            percentMethodSelected();
+        }
+
+        $('#percent-method').click(function () {
+            percentMethodSelected();
+        });
+
+        $('#dimensions-method').click(function () {
+            dimensionsMethodSelected();
+        });
+
+
+
+    });
+</script>
+
+  <meta name="google-site-verification" content="rJ6PYEKt6Ta9vdhrxF5tijOQ2UK0lxcCbbpHbqzcDX4">
+  </head>
+<body>
+<div id="fb-root"></div>
+<script>
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id))
+            return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="container">
+
+
+<div class="top_menu">
+    <div class="menu">
+        <ul>
+            <li><a class="" href="/">Image Resizer</a></li>
+            <li><a class="" href="/image-compressor">Image Compressor</a></li>
+            <li><a class="" href="/image-optimizer">Image Optimizer</a></li>
+            
+            <li><a class="" href="/online-image-converter">Image Converter</a></li>
+        </ul>
+    </div>
+
+    <div class="google_play_btn">
+        <a href="https://play.google.com/store/apps/details?id=com.simplemobilephotoresizer&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
+            <img alt="Get Photo &amp; Picture Resizer on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="height:60px">
+        </a>
+    </div>
+</div>
+
+    <a href="/">
+        <div class="logo">
+            <img src="/static/images/simple-image-resizer-128x128.png" alt="free online simple image resizer logo">
+            <div>Simple Image Resizer </div>
+            <div class="tagline">Resize image without losing quality!</div>
+        </div>
+
+    </a>
+
+<div class="clear_both"></div>
+
+<div class="content">
+    <div class="ad">
+        <script type="text/javascript"><!--
+        google_ad_client = "ca-pub-8547928010464291";
+        /* pierwsza-reklama */
+        google_ad_slot = "2530361561";
+        google_ad_width = 728;
+        google_ad_height = 90;
+        //-->
+        </script>
+        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+        </script>
+    </div>
+</div>
+<div class="left_column">
+    
+        
+    
+
+    
+        
+    
+
+    
+
+    <div>
+
+
+    <div class="iub_container iub_base_container">
+    <div id="wbars">
+    <div class="iub_content legal_pp">
+
+
+    <div class="iub_header">
+
+        <h1>Privacy Policy of <strong>www.simpleimageresizer.com</strong></h1>
+
+        <p>This Website collects some Personal Data from its Users.</p>
+
+        <p>Users may be subject to different protection standards and broader standards may therefore apply to some. In
+            order to learn more about the protection criteria, Users can refer to the applicability section.</p>
+    </div>
+    <!-- /header -->
+
+
+    <div class="one_line_col">
+
+        <h2 id="owner_of_the_data">Owner and Data Controller</h2>
+
+        <p>Simple Image Resizer</p>
+
+        <p><b>Owner contact email:</b> lightpixel.privacy@gmail.com</p>
+
+    </div>
+    <!-- /one_line_col -->
+
+
+    <div class="one_line_col">
+
+        <h2 id="types_of_data">Types of Data collected</h2>
+
+        <p>
+            Among the types of Personal Data that this Website collects, by itself or through third parties, there are:
+            Cookies, Usage Data and email address.
+        </p>
+
+
+        <p>Complete details on each type of Personal Data collected are provided in the dedicated sections of this
+            privacy policy or by specific explanation texts displayed prior to the Data collection.<br>Personal Data
+            may be freely provided by the User, or, in case of Usage Data, collected automatically when using this
+            Website.<br>Unless specified otherwise, all Data requested by this Website is mandatory and failure to
+            provide this Data may make it impossible for this Website to provide its services. In cases where this
+            Website specifically states that some Data is not mandatory, Users are free not to communicate this Data
+            without consequences to the availability or the functioning of the Service.<br>Users who are uncertain
+            about which Personal Data is mandatory are welcome to contact the Owner.<br>Any use of Cookies – or of
+            other tracking tools – by this Website or by the owners of third-party services used by this Website serves
+            the purpose of providing the Service required by the User, in addition to any other purposes described in
+            the present document and in the Cookie Policy, if available.</p>
+
+        <p>Users are responsible for any third-party Personal Data obtained, published or shared through this Website
+            and confirm that they have the third party's consent to provide the Data to the Owner.</p>
+
+    </div>
+    <!-- /one_line_col -->
+
+
+    <div class="one_line_col">
+
+        <h2 id="place_of_processing">Mode and place of processing the Data</h2>
+
+        <h3>Methods of processing</h3>
+
+        <p>The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or
+            unauthorized destruction of the Data.<br>The Data processing is carried out using computers and/or IT
+            enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In
+            addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge,
+            involved with the operation of this Website (administration, sales, marketing, legal, system administration)
+            or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT
+            companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated
+            list of these parties may be requested from the Owner at any time.</p>
+
+        <h3>Legal basis of processing</h3>
+
+        <p>The Owner may process Personal Data relating to Users if one of the following applies:</p>
+        <ul>
+            <li>Users have given their consent for one or more specific purposes. Note: Under some legislations the
+                Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”),
+                without having to rely on consent or any other of the following legal bases. This, however, does not
+                apply, whenever the processing of Personal Data is subject to European data protection law;
+            </li>
+            <li>provision of Data is necessary for the performance of an agreement with the User and/or for any
+                pre-contractual obligations thereof;
+            </li>
+            <li>processing is necessary for compliance with a legal obligation to which the Owner is subject;</li>
+            <li>processing is related to a task that is carried out in the public interest or in the exercise of
+                official authority vested in the Owner;
+            </li>
+            <li>processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third
+                party.
+            </li>
+        </ul>
+        <p>In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing,
+            and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a
+            requirement necessary to enter into a contract. </p>
+
+        <h3>Place</h3>
+
+        <p>The Data is processed at the Owner's operating offices and in any other places where the parties involved in
+            the processing are located.<br><br>
+            Depending on the User's location, data transfers may involve transferring the User's Data to a country other
+            than their own. To find out more about the place of processing of such transferred Data, Users can check the
+            section containing details about the processing of Personal Data.</p>
+
+        <p>If broader protection standards are applicable, Users are also entitled to learn about the legal basis of
+            Data transfers to a country outside the European Union or to any international organization governed by
+            public international law or set up by two or more countries, such as the UN, and about the security measures
+            taken by the Owner to safeguard their Data.<br><br>
+            If any such transfer takes place, Users can find out more by checking the relevant sections of this document
+            or inquire with the Owner using the information provided in the contact section.</p>
+
+        <h3>Retention time</h3>
+
+        <p>Personal Data shall be processed and stored for as long as required by the purpose they have been collected
+            for.</p>
+
+        <p>Therefore:</p>
+        <ul>
+            <li>Personal Data collected for purposes related to the performance of a contract between the Owner and the
+                User shall be retained until such contract has been fully performed.
+            </li>
+            <li>Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long
+                as needed to fulfill such purposes. Users may find specific information regarding the legitimate
+                interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.
+            </li>
+        </ul>
+        <p>The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to
+            such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain
+            Personal Data for a longer period whenever required to do so for the performance of a legal obligation or
+            upon order of an authority.<br><br>
+            Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right
+            to erasure, the right to rectification and the right to data portability cannot be enforced after expiration
+            of the retention period.</p>
+
+    </div>
+    <!-- /one_line_col -->
+
+
+    <div class="one_line_col">
+
+        <h2 id="use_collected_data">The purposes of processing</h2>
+
+        <p>
+            The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the
+            following purposes:
+            Analytics, Advertising, Interaction with external social networks and platforms, Hosting and backend
+            infrastructure and Contacting the User.
+        </p>
+
+
+        <p>Users can find further detailed information about such purposes of processing and about the specific Personal
+            Data used for each purpose in the respective sections of this document.</p>
+
+
+    </div>
+    <!-- /one_line_col -->
+
+
+    <div class="one_line_col">
+
+    <h2 id="data_processing_detailed_info">Detailed information on the processing of Personal Data</h2>
+
+    <p>Personal Data is collected for the following purposes and using the following services:</p>
+
+    <ul class="for_boxes">
+
+
+    <li>
+        <div class="box_primary box_10 expand">
+            <h3 class="expand-click w_icon_24 policyicon_purpose_5096674">Advertising</h3>
+
+            <div class="expand-content">
+
+                <p>This type of service allows User Data to be utilized for advertising communication purposes displayed
+                    in the form of banners and other advertisements on this Website, possibly based on User
+                    interests.<br>
+                    This does not mean that all Personal Data are used for this purpose. Information and conditions of
+                    use are shown below.<br>
+                    Some of the services listed below may use Cookies to identify Users or they may use the behavioral
+                    retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including
+                    those detected outside this Website. For more information, please check the privacy policies of the
+                    relevant services.<br>
+                    In addition to any opt out offered by any of the services below, the User may opt out of a
+                    third-party service's use of cookies by visiting the <a href="http://optout.networkadvertising.org/">Network Advertising Initiative opt-out page</a>.
+                </p>
+
+
+                <h4>Google AdSense (Google Inc.)</h4>
+
+                <div class="wrap">
+                    <p>Google AdSense is an advertising service provided by Google Inc. This service uses the
+                        “Doubleclick” Cookie, which tracks use of this Website and User behavior concerning ads,
+                        products and services offered.<br>
+                        Users may decide to disable all the Doubleclick Cookies by clicking on: <a href="https://www.google.com/settings/ads/onweb/optout">google.com/settings/ads/onweb/optout</a>.
+                    </p>
+                </div>
+
+
+                <p>
+                    Personal Data collected:
+                    Cookies and Usage Data.
+                </p>
+
+
+                <p>
+                    Place of processing:
+                    United States
+                    –
+                    <a href="https://www.google.com/policies/technologies/ads/" target="_blank" rel="noopener noreferrer">Privacy Policy</a> – <a href="https://www.google.com/settings/ads/onweb/optout">Opt Out</a>.
+                    Privacy Shield participant.
+                </p>
+
+
+            </div>
+            <!-- /expand-content -->
+        </div>
+        <!-- /expand -->
+    </li>
+
+
+    <li>
+        <div class="box_primary box_10 expand">
+            <h3 class="expand-click w_icon_24 policyicon_purpose_5096670">Analytics</h3>
+
+            <div class="expand-content">
+
+                <p>The services contained in this section enable the Owner to monitor and analyze web traffic and can be
+                    used to keep track of User behavior.</p>
+
+
+                <h4>Google Analytics (Google Inc.)</h4>
+
+                <div class="wrap">
+                    <p>Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes
+                        the Data collected to track and examine the use of this Website, to prepare reports on its
+                        activities and share them with other Google services.<br>
+                        Google may use the Data collected to contextualize and personalize the ads of its own
+                        advertising network.</p>
+                </div>
+
+
+                <p>
+                    Personal Data collected:
+                    Cookies and Usage Data.
+                </p>
+
+
+                <p>
+                    Place of processing:
+                    United States
+                    –
+                    <a href="https://www.google.com/intl/en/policies/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a> – <a href="https://tools.google.com/dlpage/gaoptout?hl=en" onclick="javascript:return tryFunc('tryGaOptOut',{href:'https://tools.google.com/dlpage/gaoptout?hl=en'})" target="_blank">Opt Out</a>.
+                    Privacy Shield participant.
+                </p>
+
+
+            </div>
+            <!-- /expand-content -->
+        </div>
+        <!-- /expand -->
+    </li>
+
+
+    <li>
+        <div class="box_primary box_10 expand">
+            <h3 class="expand-click w_icon_24 policyicon_purpose_5096826">Contacting the User</h3>
+
+            <div class="expand-content">
+
+
+                <h4>Contact form (this Website)</h4>
+
+                <div class="wrap">
+                    <p>By filling in the contact form with their Data, the User authorizes this Website to use these
+                        details to reply to requests for information, quotes or any other kind of request as indicated
+                        by the form’s header.</p>
+                </div>
+
+
+                <p>
+                    Personal Data collected:
+                    email address.
+                </p>
+
+
+            </div>
+            <!-- /expand-content -->
+        </div>
+        <!-- /expand -->
+    </li>
+
+
+    <li>
+        <div class="box_primary box_10 expand">
+            <h3 class="expand-click w_icon_24 policyicon_purpose_5096734">Hosting and backend infrastructure</h3>
+
+            <div class="expand-content">
+
+                <p>This type of service has the purpose of hosting Data and files that enable this Website to run and be
+                    distributed as well as to provide a ready-made infrastructure to run specific features or parts of
+                    this Website.
+                    Some of these services work through geographically distributed servers, making it difficult to
+                    determine the actual location where the Personal Data are stored.</p>
+
+
+                <h4>DigitalOcean (DigitalOcean Inc.)</h4>
+
+                <div class="wrap">
+                    <p>DigitalOcean is a hosting service provided by DigitalOcean Inc.</p>
+                </div>
+
+
+                <p>
+                    Personal Data collected:
+                    various types of Data as specified in the privacy policy of the service.
+                </p>
+
+
+                <p>
+                    Place of processing:
+                    United States
+                    –
+                    <a href="https://www.digitalocean.com/legal/privacy/" target="_blank" rel="noopener noreferrer">Privacy
+                        Policy</a>.
+                    Privacy Shield participant.
+                </p>
+
+
+            </div>
+            <!-- /expand-content -->
+        </div>
+        <!-- /expand -->
+    </li>
+
+
+    <li>
+        <div class="box_primary box_10 expand">
+            <h3 class="expand-click w_icon_24 policyicon_purpose_5096678">Interaction with external social networks and
+                platforms</h3>
+
+            <div class="expand-content">
+
+                <p>This type of service allows interaction with social networks or other external platforms directly
+                    from the pages of this Website.<br>
+                    The interaction and information obtained through this Website are always subject to the User’s
+                    privacy settings for each social network.<br>
+                    This type of service might still collect traffic data for the pages where the service is installed,
+                    even when Users do not use it.</p>
+
+
+                <h4>Facebook Like button and social widgets (Facebook, Inc.)</h4>
+
+                <div class="wrap">
+                    <p>The Facebook Like button and social widgets are services allowing interaction with the Facebook
+                        social network provided by Facebook, Inc.</p>
+                </div>
+
+
+                <p>
+                    Personal Data collected:
+                    Cookies and Usage Data.
+                </p>
+
+
+                <p>
+                    Place of processing:
+                    United States
+                    –
+                    <a href="https://www.facebook.com/privacy/explanation" target="_blank" rel="noopener noreferrer">Privacy
+                        Policy</a>.
+                    Privacy Shield participant.
+                </p>
+
+
+                <h4>AddThis (Addthis Inc.)</h4>
+
+                <div class="wrap">
+                    <p>AddThis is a service provided by Clearspring Technologies Inc., which displays a widget that
+                        allows interaction with social networks and external platforms as well as sharing the contents
+                        of this Website.<br>
+                        Depending on the configuration, this service can display widgets belonging to third parties such
+                        as the managers of social networks where interactions are shared. In this case, also the third
+                        parties that provide the widget will be informed of interactions and Usage Data on the pages
+                        where this service is installed.</p>
+                </div>
+
+
+                <p>
+                    Personal Data collected:
+                    Cookies and Usage Data.
+                </p>
+
+
+                <p>
+                    Place of processing:
+                    United States
+                    –
+                    <a href="https://www.addthis.com/privacy/privacy-policy" target="_blank" rel="noopener noreferrer">Privacy
+                        Policy</a>.
+
+                </p>
+
+
+            </div>
+            <!-- /expand-content -->
+        </div>
+        <!-- /expand -->
+    </li>
+
+
+    </ul>
+
+    </div>
+    <!-- /one_line_col -->
+
+
+    <div class="one_line_col">
+
+        <h2>The rights of Users</h2>
+
+        <p>Users may exercise certain rights regarding their Data processed by the Owner.</p>
+
+        <p>Users entitled to broader protection standards may exercise any of the rights described below. In all other
+            cases, Users may inquire with the Owner to find out which rights apply to them.</p>
+
+        <p>In particular, Users have the right to do the following:</p>
+
+        <ul>
+            <li><b>Withdraw their consent at any time.</b> Users have the right to withdraw consent where they have
+                previously given their consent to the processing of their Personal Data.
+            </li>
+            <li><b>Object to processing of their Data.</b> Users have the right to object to the processing of their
+                Data if the processing is carried out on a legal basis other than consent. Further details are provided
+                in the dedicated section below.
+            </li>
+            <li><b>Access their Data.</b> Users have the right to learn if Data is being processed by the Owner, obtain
+                disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing
+                processing.
+            </li>
+            <li><b>Verify and seek rectification.</b> Users have the right to verify the accuracy of their Data and ask
+                for it to be updated or corrected.
+            </li>
+            <li><b>Restrict the processing of their Data.</b> Users have the right, under certain circumstances, to
+                restrict the processing of their Data. In this case, the Owner will not process their Data for any
+                purpose other than storing it.
+            </li>
+            <li><b>Have their Personal Data deleted or otherwise removed.</b> Users have the right, under certain
+                circumstances, to obtain the erasure of their Data from the Owner.
+            </li>
+            <li><b>Receive their Data and have it transferred to another controller.</b> Users have the right to receive
+                their Data in a structured, commonly used and machine readable format and, if technically feasible, to
+                have it transmitted to another controller without any hindrance. This provision is applicable provided
+                that the Data is processed by automated means and that the processing is based on the User's consent, on
+                a contract which the User is part of or on pre-contractual obligations thereof.
+            </li>
+            <li><b>Lodge a complaint.</b> Users have the right to bring a claim before their competent data protection
+                authority.
+            </li>
+        </ul>
+
+        <h3>Details about the right to object to processing</h3>
+
+        <p>Where Personal Data is processed for a public interest, in the exercise of an official authority vested in
+            the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such
+            processing by providing a ground related to their particular situation to justify the objection.</p>
+
+        <p>Users must know that, however, should their Personal Data be processed for direct marketing purposes, they
+            can object to that processing at any time without providing any justification. To learn, whether the Owner
+            is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this
+            document. </p>
+
+        <h3>How to exercise these rights</h3>
+
+        <p>Any requests to exercise User rights can be directed to the Owner through the contact details provided in
+            this document. These requests can be exercised free of charge and will be addressed by the Owner as early as
+            possible and always within one month.</p>
+
+    </div>
+    <!-- /one_line_col -->
+
+    <div class="one_line_col">
+
+        <h2>Applicability of broader protection standards</h2>
+
+        <p>While most provisions of this document concern all Users, some provisions expressly only apply if the
+            processing of Personal Data is subject to broader protection standards.</p>
+
+        <p>Such broader protection standards apply when the processing:</p>
+
+        <ul>
+            <li>is performed by an Owner based within the EU;</li>
+            <li>concerns the Personal Data of Users who are in the EU and is related to the offering of paid or unpaid
+                goods or services, to such Users;
+            </li>
+            <li>concerns the Personal Data of Users who are in the EU and allows the Owner to monitor such Users’
+                behavior taking place in the EU.
+            </li>
+        </ul>
+
+    </div>
+    <!-- /one_line_col -->
+
+
+    <div class="one_line_col">
+
+        <h2 id="further_data_processing_info">Additional information about Data collection and processing</h2>
+
+        <h3>Legal action</h3>
+
+        <p>
+            The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to
+            possible legal action arising from improper use of this Website or the related Services.<br>The User
+            declares to be aware that the Owner may be required to reveal personal data upon request of public
+            authorities.
+        </p>
+
+        <h3>Additional information about User's Personal Data</h3>
+
+        <p>
+            In addition to the information contained in this privacy policy, this Website may provide the User with
+            additional and contextual information concerning particular Services or the collection and processing of
+            Personal Data upon request.
+        </p>
+
+        <h3>System logs and maintenance</h3>
+
+        <p>
+            For operation and maintenance purposes, this Website and any third-party services may collect files that
+            record interaction with this Website (System logs) use other Personal Data (such as the IP Address) for this
+            purpose.
+        </p>
+
+        <h3>Information not contained in this policy</h3>
+
+        <p>
+            More details concerning the collection or processing of Personal Data may be requested from the Owner at any
+            time. Please see the contact information at the beginning of this document.
+        </p>
+
+        <h3>How “Do Not Track” requests are handled</h3>
+
+        <p>
+            This Website does not support “Do Not Track” requests.<br>To determine whether any of the third-party
+            services it uses honor the “Do Not Track” requests, please read their privacy policies.
+        </p>
+
+        <h3>Changes to this privacy policy</h3>
+
+        <p>
+            The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its
+            Users on this page and possibly within this Website and/or - as far as technically and legally feasible -
+            sending a notice to Users via any contact information available to the Owner. It is strongly recommended to
+            check this page often, referring to the date of the last modification listed at the bottom. <br><br>
+            Should the changes affect processing activities performed on the basis of the User’s consent, the Owner
+            shall collect new consent from the User, where required.
+        </p>
+
+
+    </div>
+    <!-- /one_line_col -->
+
+    <div class="one_line_col">
+
+        <div class="box_primary box_10 definitions expand">
+
+            <h3 class="expand-click w_icon_24 icon_ribbon">
+                Definitions and legal references
+            </h3>
+
+            <div class="expand-content">
+
+                <h4>Personal Data (or Data)</h4>
+
+                <p>Any information that directly, indirectly, or in connection with other information — including a
+                    personal identification number — allows for the identification or identifiability of a natural
+                    person.</p>
+
+                <h4>Usage Data</h4>
+
+                <p>Information collected automatically through this Website (or third-party services employed in this
+                    Website), which can include: the IP addresses or domain names of the computers utilized by the Users
+                    who use this Website, the URI addresses (Uniform Resource Identifier), the time of the request, the
+                    method utilized to submit the request to the server, the size of the file received in response, the
+                    numerical code indicating the status of the server's answer (successful outcome, error, etc.), the
+                    country of origin, the features of the browser and the operating system utilized by the User, the
+                    various time details per visit (e.g., the time spent on each page within the Application) and the
+                    details about the path followed within the Application with special reference to the sequence of
+                    pages visited, and other parameters about the device operating system and/or the User's IT
+                    environment.</p>
+
+                <h4>User</h4>
+
+                <p>The individual using this Website who, unless otherwise specified, coincides with the Data
+                    Subject.</p>
+
+                <h4>Data Subject</h4>
+
+                <p>The natural person to whom the Personal Data refers.</p>
+
+                <h4>Data Processor (or Data Supervisor)</h4>
+
+                <p>The natural or legal person, public authority, agency or other body which processes Personal Data on
+                    behalf of the Controller, as described in this privacy policy.</p>
+
+                <h4>Data Controller (or Owner)</h4>
+
+                <p>The natural or legal person, public authority, agency or other body which, alone or jointly with
+                    others, determines the purposes and means of the processing of Personal Data, including the security
+                    measures concerning the operation and use of this Website. The Data Controller, unless otherwise
+                    specified, is the Owner of this Website.</p>
+
+                <h4>
+                    This Website
+                    (or this Application)
+                </h4>
+
+                <p>The means by which the Personal Data of the User is collected and processed.</p>
+
+                <h4>Service</h4>
+
+                <p>The service provided by this Website as described in the relative terms (if available) and on this
+                    site/application.</p>
+
+                <h4>European Union (or EU)
+                </h4>
+
+                <p>Unless otherwise specified, all references made within this document to the European Union include
+                    all current member states to the European Union and the European Economic Area.
+                </p>
+
+                <h4>Cookies</h4>
+
+                <p>Small sets of data stored in the User's device.</p>
+
+
+                <hr>
+
+                <h4>Legal information</h4>
+
+                <p>This privacy statement has been prepared based on provisions of multiple legislations, including Art.
+                    13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation).</p>
+
+                <p>This privacy policy relates solely to this Website, if not stated otherwise within this document.</p>
+
+            </div>
+            <!-- /expand-content -->
+
+        </div>
+        <!-- /box_primary -->
+
+    </div>
+    <!-- /one_line_col -->
+
+
+    <div class="iub_footer">
+
+        <p>
+            Latest update: May 30, 2018
+        </p>
+
+    </div>
+    <!-- /footer -->
+
+    <script type="text/javascript">
+        function tryFunc(fName, args) {
+            if (typeof window[fName] === 'function') {
+                window[fName](args);
+            } else {
+                if (args) {
+                    /* default behaviour is link */
+                    if (args.href) {
+                        /* default link is target='_blank' */
+                        window.open(args.href)
+                    }
+                }
+            }
+            return false;
+            /* inhibit default behaviour */
+        }
+    </script>
+
+
+    </div>
+    <!-- /content -->
+    </div>
+    <!-- /wbars -->
+
+
+    </div>
+    <!-- /container base_container -->
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<div class="ad-bottom">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- imageresizer_bottom -->
+<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8547928010464291" data-ad-slot="7311937969"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+    <div class="bottom_ad_right">
+        <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- image_resizer_bottom_right -->
+        <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8547928010464291" data-ad-slot="1814185966"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="clear_both"></div>
+</div>
+
+<div class="container">
+    <div class="space_before_feature_description"></div>
+    <div class="atsharing">
+            <!-- AddThis Button BEGIN -->
+            <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+                <a class="addthis_button_preferred_1"></a>
+                <a class="addthis_button_preferred_2"></a>
+                <a class="addthis_button_preferred_3"></a>
+                <a class="addthis_button_preferred_4"></a>
+                <a class="addthis_button_compact"></a>
+                <a class="addthis_counter addthis_bubble_style"></a>
+            </div>
+            <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+            <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50c6244e3c16bc1b"></script>
+            <!-- AddThis Button END -->
+    </div>
+    <div class="clear_both"></div>
+</div>
+
+<div class="feature_description_container">
+    <div class="feature_description">
+        
+        
+    </div>
+</div>
+
+<div class="container">
+    
+    
+    <div class="footer">
+    <div class="footer_item copyright ">Copyright © 2018</div>
+    <div class="footer_links">
+        <div class="footer_item contact"><a href="/image-optimizer">Image Optimizer</a></div>
+        <div class="footer_item about"><a href="/image-advice">Image Advice</a></div>
+        <div class="footer_item contact"><a href="/send-feedback">Send feedback</a></div>
+        <div class="footer_item contact"><a href="/faq">FAQ</a></div>
+        <div class="footer_item privacy"><a href="http://www.heapnote.com">Online notes</a></div>
+        <div class="footer_item about"><a href="/about">About</a>
+    </div>
+    </div>
+        <div class="footer_links footer_links_2">
+        <div class="footer_item privacy"><a href="/privacy">Image Privacy</a></div>
+        <div class="footer_item privacy"><a href="/cookie-policy">Cookie Policy</a></div>
+        <div class="footer_item privacy"><a href="/privacy-policy">Privacy Policy</a></div>
+    </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function closeFlashMessage()
+    {
+        var elements = document.getElementsByClassName('block-message');
+        for (i = 0; i < elements.length; i++){
+            elements[i].style.display = 'none';
+        }
+    }
+
+    function percentMethodSelected(){
+        $('#percent').show();
+        $('#dimensions').hide();
+        $('#percent-method').attr('checked', true);
+    }
+
+    function dimensionsMethodSelected(){
+        $('#percent').hide();
+        $('#dimensions').show();
+        $('#dimensions-method').attr('checked', true);
+    }
+
+    function triggerSelectFileDialog(){
+        document.getElementById('fileInput').click();
+    }
+
+    function updateFileInput(){
+        document.getElementById('filePath').value = document.getElementById('fileInput').value;
+    }
+
+</script>
+
+<script src="/static/js/jquery-ui-1.9.2.min.js"></script>
+
+<script>
+      var cb = function() {
+        var l = document.createElement('link'); l.rel = 'stylesheet';
+        l.href = '/static/css/jquery-ui-1.9.2.custom.min.css';
+        var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+      };
+      var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+          webkitRequestAnimationFrame || msRequestAnimationFrame;
+      if (raf) raf(cb);
+      else window.addEventListener('load', cb);
+    </script>
+
+
+
+
+
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-id-1" style="outline: 0px; z-index: 1001; position: relative; height: auto; width: 400px; top: -8270.56px; left: 475px; display: none;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">titleee</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div class="ui-dialog-content ui-widget-content" scrolltop="0" scrollleft="0" style="display: block; width: auto; min-height: 0px; height: 143px;"><div id="dialog-modal">                    <p></p>                    <p><img src="/static/images/dots64.gif" width="64" height="21"></p>                    <p>Uploading image...</p>                    </div></div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1000;"></div></div></body></html>
