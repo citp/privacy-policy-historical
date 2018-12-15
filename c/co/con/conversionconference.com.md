@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conversionconference.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715035232id_/http%3A//www.conversionconference.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversionconference.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215161945id_/http%3A//www.conversionconference.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Conversion Conference Digital Marketing Event
 
