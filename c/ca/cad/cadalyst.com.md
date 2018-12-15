@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cadalyst.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002224446id_/http%3A//www.cadalyst.com/cadalyst/privacy-statement-12678) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadalyst.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215035402id_/http%3A//www.cadalyst.com/cadalyst/privacy-statement-12678) for the most accurate reproduction.*
 
 # Privacy Statement | Cadalyst
 
 The following Privacy Statement summarizes the various ways that Longitude Media, LLC (“Longitude Media”) treats the information you provide while using any Longitude Media site. It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. This Privacy Statement does not cover information collected elsewhere, including offline and on sites linked to or from any of our sites.
 
-Please read this Privacy Statement carefully. Your use of, accessing, and/or registration on any aspect of our sites will constitute your agreement to this Privacy Statement. If you do not agree to these terms, please do not use our sites. If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@longitudemedia.com](mailto:privacy@longitudemedia.com)
+Please read this Privacy Statement carefully. Your use of, accessing, and/or registration on any aspect of our sites will constitute your agreement to this Privacy Statement. If you do not agree to these terms, please do not use our sites. If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at privacy (at) longitudemedia.com
 
 In addition to reviewing this Privacy Policy, please read our Terms of Use. Your use of the our sites constitutes agreement to its terms and conditions as well.
 
@@ -18,10 +18,13 @@ As you browse our sites, we collect log file, IP address of your computer, and o
 
 Portions of our sites may require you to give us personally identifiable information, such as your name, job title, company, physical mailing address, e-mail address, telephone and fax numbers and, if applicable, financial information such as your credit card information, for, among other purposes:
 
-* (i) | registration for attendance at certain Longitude Media trade shows, conferences and events;  
+* (i) | 
+
+registration for access to our white papers, guides, webinars and other information;  
+  
 ---|---  
-* (ii) | subscriptions to our publications, including e-newsletters; and  
-* (iii) | use of our websites.  
+* (ii) |  subscriptions to our publications, including e-newsletters; and  
+* (iii) |  use of our websites.  
   
 If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communications may be collected as personal information. You always have the option not to provide the information we request. If you choose not to provide the information we request, you can still visit most of our sites, but you may be unable to access certain options and services.
 
@@ -50,7 +53,7 @@ As a business-to-business company, we have created and maintain sites that are n
 
 **Updating Visitor Information**
 
-Many of our Site functions (but not all) provide you with the option of correcting, updating and modifying your personal and/or financial information, or visitor profile, at any time and as often as desired. The only item of information you cannot change is your username ID selected at registration for a trade show, event or conference.
+Many of our Site functions (but not all) provide you with the option of correcting, updating and modifying your personal and/or financial information, or visitor profile, at any time and as often as desired. The only item of information you cannot change is your username ID selected at registration for a trade show, event or conference. You may request to view current information we have collected from you with a request to privacy (at) longitudemedia.com.  You may request to have us delete the information we have in our audience database about you with a request to privacy (at) longitudemedia.com.
 
 **Third Party and Affiliated Links**
 
@@ -68,7 +71,7 @@ Many of our advertiser develop banner ads for our sites. These ads may contain c
 
 Visitors to our sites can decide if they want to receive targeted promotional information from Longitude Media or targeted promotional information sponsored by our marketing partners. On the visitor registration pages, prospective visitors can choose to request that we not e-mail them advertising and promotional information from Longitude Media or our partners. Should visitors accept promotional email from Longitude Media, any email they receive will include instructions on how to be removed from our promotional email list.
 
-If you do not wish to have your personally identifying information shared, or if you do not wish to receive future commercial communications from us by e-mail, you may change your preferences at any time simply by: (i) writing to us (and please include your e-mail address), or (ii) by following the unsubscribe instructions contained within the e-mail you receive from us. We will update your preferences as soon as is reasonably practicable. If you have registered on any part of our sites, please use the mechanism on our sites that allows you to change or update your profile, preferences or information, if available, to keep all such data accurate and up-to-date. The only item of information you cannot change is your username ID selected at registration for a trade show, event or conference.
+If you do not wish to have your personally identifying information shared, or if you do not wish to receive future commercial communications from us by e-mail, you may change your preferences at any time simply by: (i) writing to us (and please include your e-mail address), or (ii) by following the unsubscribe instructions contained within the e-mail you receive from us. We will update your preferences as soon as is reasonably practicable. If you have registered on any part of our sites, please use the mechanism on our sites that allows you to change or update your profile, preferences or information, if available, to keep all such data accurate and up-to-date. The only item of information you cannot change is your username ID selected at registration for a trade show, event or conference. You may request to have us delete the information we have in our audience database about you with a request to privacy (at) longitudemedia.com.
 
 Please note that if you opt-out as described above, we will not be able to remove your personal information from the databases of third parties with which we have already shared your personal information (i.e., to which we have provided your personal information prior to our receipt of your opt-out request).
 
@@ -87,6 +90,6 @@ PO Box 832
 Dover, MA 02030  
 Privacy at Longitudemedia com
 
-Copyright © 2013 Longitude Media, LLC Privacy Statement
+Copyright © 2018 Longitude Media, LLC Privacy Statement
 
-Revised and Posted As Of: February 4, 2013 
+Revised and Posted As Of: May 1, 2018
