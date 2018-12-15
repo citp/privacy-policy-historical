@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the iban.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317231542id_/https%3A//www.iban.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iban.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215164739id_/https%3A//www.iban.com/privacy) for the most accurate reproduction.*
 
 # IBAN Privacy Policy
 
 Please find below privacy policies that apply to all products and services provided by www.iban.com.  
 Information we collect from our customers and users of our websites may be used in the following ways. By using an www.iban.com website or service you consent to this collection and use of information.
 
-### Subscription Services
+#### Subscription Services
 
 Personal information provided as part of the registration process for any product or service is used to manage your subscription to enable us to provide a better service and to monitor compliance with password and other usage restrictions applicable to the relevant www.iban.com service.
 
-### Free/Demo Web Services
+#### Free/Demo Web Services
 
 All data (International Bank Account Numbers, Account Numbers, Bank Code etc .) submitted to our website's forms (IBAN Validator, IBAN Calculator, Sort Code search etc.) may be stored securely and used for statistical analysis and improvement of the quality and reliability of our services.
 
-### Contact details
+#### Contact details
 
 We will use contact details provided by you as part of any registration process (i.e. your name, job title, telephone and fax number and your email and postal addresses) to provide any product or services requested by you and also to tell you about important changes to relevant subscription services and their functionality.
 
 Contact details will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose. If you do not wish to be contacted for this purpose, you may change the preferences in your Client Area -> My Account section.
 
-### Cookies
+#### Cookies
 
 Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. www.iban.com’s products and services require cookies in order to operate fully. We also work with advertisers who place cookies on your computer to serve and target adverts more effectively when you visit the site.
 
