@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pin-fitness.com privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408124733id_/http%3A//pin-fitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pin-fitness.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215135159id_/http%3A//pin-fitness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pin Fitness
 
