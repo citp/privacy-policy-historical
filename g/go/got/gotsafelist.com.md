@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotsafelist.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615054113id_/http%3A//www.gotsafelist.com/privatepolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotsafelist.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215054705id_/http%3A//www.gotsafelist.com/privatepolicy.php) for the most accurate reproduction.*
 
 # Private Policy - The Most Responsive Free Internet Safelist Advertising since 2003!
 
@@ -9,7 +9,7 @@ PO BOX 590577
 Houston, TX 77259-0577  
 USA
 
-We can be reached via e-mail at [Contact Us](https://web.archive.org/web/20180615054113id_/http%3A//www.gotsafelist.com/contactus.php).
+We can be reached via e-mail at [Contact Us](https://web.archive.org/web/20181215054705id_/http%3A//www.gotsafelist.com/contactus.php).
 
 The information we collect is used to notify consumers about updates to our Web site, not shared with other organizations for commercial purposes and used for the safelist and solo ads.
 
