@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpornaccess.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612145327id_/http%3A//jpornaccess.com/eng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpornaccess.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216005204id_/http%3A//jpornaccess.com/eng/privacy.html) for the most accurate reproduction.*
 
 # JPornAccess.com | Privacy Policy
 
