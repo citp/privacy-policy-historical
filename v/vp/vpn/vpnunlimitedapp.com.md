@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpnunlimitedapp.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628054046id_/https%3A//www.keepsolid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpnunlimitedapp.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215191751id_/https%3A//www.keepsolid.com/privacy) for the most accurate reproduction.*
 
 # KEEPSOLID - Privacy Policy
 
@@ -24,7 +24,7 @@ KeepSolid Inc. takes reasonable precautions such as policy-based access control 
 
 KeepSolid Inc. may use collected non-personal user statistics (for example, the percent of customers which used a backup & restore option) for promotional presentations of our services to possible partners, reviewers, advertisers, distributors, and other third parties for lawful purposes. KeepSolid Inc. will never disclose any personal private data to third parties except when we must comply with laws that require such disclosure to law enforcement authorities or other government third party officials, such as subpoenas. 
 
-At any time you may deactivate your KeepSolid ID and delete your personal private data. Please, contact us at [support@keepsolid.com](mailto:support@keepsolid.com) clearly indicating your desire to deactivate and delete such data. 
+At any time you may deactivate your KeepSolid ID and delete your personal private data. Please, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c7b4b2b7b7a8b5b387aca2a2b7b4a8abaea3e9a4a8aa) clearly indicating your desire to deactivate and delete such data. 
 
 In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), KeepSolid Inc. does not intentionally collect nor solicit personally identifiable information from children under the age of thirteen (13) years of age. 
 
@@ -32,7 +32,7 @@ Other than as disclosed in this Privacy Policy, KeepSolid Inc. at no time will d
 
 ##  Passwords and private data 
 
-Your KeepSolid ID information, such as username and password, is encrypted using AES 256 algorithm, so only you will have access to it. The protection of the password, which gives access to the personal private data, is the user's responsibility. The password, which gives you access to the KeepSolid Inc. services and all your personal data, is known only by you. KeepSolid Inc. employees will have neither access to your password nor methods to decrypt it. KeepSolid Inc. or its representative will never ask you about your KeepSolid ID password. Please, notify us about any such attempts by emailing us at [support@keepsolid.com](mailto:support@keepsolid.com). 
+Your KeepSolid ID information, such as username and password, is encrypted using AES 256 algorithm, so only you will have access to it. The protection of the password, which gives access to the personal private data, is the user's responsibility. The password, which gives you access to the KeepSolid Inc. services and all your personal data, is known only by you. KeepSolid Inc. employees will have neither access to your password nor methods to decrypt it. KeepSolid Inc. or its representative will never ask you about your KeepSolid ID password. Please, notify us about any such attempts by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5a6a0a5a5baa7a195beb0b0a5a6bab9bcb1fbb6bab8). 
 
 ##  Cookies 
 
