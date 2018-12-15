@@ -1,125 +1,156 @@
-> *The following text is extracted and transformed from the lenscrafters.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115084506id_/http%3A//www.lenscrafters.com/lc-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenscrafters.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215054048id_/https%3A//www.lenscrafters.com/lc-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at LensCrafters
+# LensCrafters Privacy Policy
+
+This Policy describes how we, Luxottica Retail North America, Inc. and its subsidiary companies, handle information we learn about you from our website. If you have questions or wish to contact us about the Policy, direct inquiries to: 
 
 Privacy Office  
 Luxottica Retail North America, Inc.  
 4000 Luxottica Place   
 Mason, Ohio 45040   
 Phone: 513-765-4321  
-Email: privacyoffice@luxotticaretail.com
+Email: [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com)
 
-  * WHAT INFORMATION DO WE COLLECT?
+  * HOW WE COLLECT THE INFORMATION
 
   * HOW DO WE USE THIS INFORMATION
 
   * COOKIES
 
-  * COLLECTION AND USE OF HEALTH INFORMATION
+  * SHARING INFORMATION WITH THIRD PARTIES
 
-  * CALIFORNIA PRIVACY RIGHTS 
+  * E-MAIL OPT-OUT/UNSUBSCRIBE
 
-  * OPT OUT PROCEDURES
+  * DIRECT MAIL
 
-  * INFORMATION ACCESS
+  * CHILDREN’S PRIVACY
+
+  * ACCESS TO YOUR PERSONAL INFORMATION
 
   * SECURITY
 
-  * THIRD PARTY SITES
+  * OpenMarket
 
-  * CHANGES TO THIS POLICY
+  * TRANSPARENCY IN SUPPLY CHAIN DISCLOSURE
 
-  * QUESTIONS/CONCERNS
+  * UPDATES TO PRIVACY INFORMATION
 
 
 
 
 Top
 
-WHAT INFORMATION DO WE COLLECT?
+HOW WE COLLECT THE INFORMATION
 
-The information we collect depends on what you do when you visit our site. Please note that we do not collect personal information about you when you visit our site un-less you choose to provide such information to us. 
+There are many ways that We obtain information from you: (1) via signup on any Pearle Vision website(s); (2) from an online, email, retail, fax or telephone purchase; (3) from navigational information about where visitors go on our website; (4) when you enter a Pearle Vision sweepstakes/giveaway; (5) when you sign up at a Pearle Vision store; (7) upon contacting customer service to request Pearle Vision communications; (8) upon signing up at an event.  
+THE INFORMATION WE COLLECT  
+When you register on-line to receive our product information, you will need to provide us with your name, address and e-mail address. When you make a purchase through Pearle Vision's website, you also will need to give us your telephone number and credit card number so We can process your payment and contact you in the event of any problems with delivery. When you order through Pearle Vision’s website, we collect your name, billing address, shipping address, email address, phone number(s) and credit card number (with expiration date) or gift card number  
+If you contact our customer service department, you may need to provide Us with additional information so that We can respond to your questions or concerns as completely and thoroughly as possible.
 
-We collect personally-identifying information you provide to us in connection with purchases you make on our site, requests for services made through the site, the creation of a user account, any material you may post to the site, and your participation in surveys on the site. From time to time, we may provide you the opportunity to participate in contests or in other voluntary activities through the site. We may request personal information from you, along with other information, in order for you to participate. Participation in these activities is completely voluntary; therefore, you can elect not to dis-closure your personal information by not participating in the activity. 
+In order to provide users and subscribers with the most efficient and enhanced service and to better understand your preferences, We may request your gender, year of birth, sports of interest, shopping preference and product interest. Whether or not you provide this information is entirely up to you.
 
-In addition, for each visitor to our site, we automatically gather certain information and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We collect and store this information on an individual basis and in aggregate, or combined, form. We also collect both user-specific and aggregate information on what pages visitors access or visit. 
+We also may collect additional non-personally identifiable information (for example, browser version, IP address) which will provide information regarding the general use of our website. The navigational information allows Us to see which areas of our website are most visited and helps Us improve the quality of your online experience by recognizing and delivering more of the most desired features and services.
 
 Top
 
 HOW DO WE USE THIS INFORMATION
 
-We use the information we collect to analyze trends, to administer the site, to track users' movements around the site, and to gather demographic information about our user base as a whole. We also use this information to improve the content of our web pages, and to customize the content and layout of our pages. All of this is done with the intention of making our site more useful to visitors.
+This website is exclusively directed to individuals residing in the United States and by providing your personal information you confirm to reside in the United States. As such, all personal information that We obtain about you will be recorded, used and protected by Us in accordance with current United States data protection legislation and this privacy policy. By providing Us with your personal information, you consent to Us processing this personal information in one or more of the ways described in this privacy policy.
 
-We may share email addresses, postal addresses or telephone contact information or other personally-identifying information we collect across brands within the company. We do not rent or sell such information to any third parties.
+We will primarily use your personal information to provide products and services to you, for example:
 
-We use one or more third-party tracking services to track non- personally-identifying information about visitors to our site in the aggregate. These third-party services may use JavaScript, pixels, transparent GIF files, and other means to enable us to learn which advertisements bring users to our website. Any information we track in this manner is anonymous, limited to usage and volume statistics, and is used to provide insight into the effectiveness of our online marketing initiatives and strategies.
+1) To process and fulfill your order, including to send you emails to confirm your order status and shipment, and other related emails  
+2) To administer a contest, promotion, survey or other site feature and to provide you with the relevant products or services (for instance to deliver a prize you may have won in a contest).  
+3) To send you information/materials via e-mail or mail about products, offers and news We think could interest you. This information may relate to products, services, offers and news of Pearle Vision products or any other products and services by any company affiliated with Us.  
+4) To analyze visits to the website and learn about the interests of our visitors as well as visitor’s physical features in the aggregate so we can improve our products and services and deliver the best user experience.  
+The information obtained during an online purchase is utilized to improve your web experience by enabling you to obtain a faster checkout for purchases and/or opt-in to receive e-mails, which provide you with the latest and greatest information regarding our other products and services.  
+You may, upon placement of an order, opt to allow Us to save the information for a speedier checkout process the next time. Your payment information is then stored only for the purposes of faster checkout and is not used for any other purpose.
 
 Top
 
 COOKIES
 
-We use both session cookies and persistent cookies on this website. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We may link the information we store in cookies to your personal information in order to provide a faster and more pleasant online experience. If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.
+A cookie is a small removable data file that is stored by your web browser on your computer. Cookies are only used by Us to allow you to use our web site in the most efficient manner. Cookies allow you to place an order on our website and allow us to enhance and personalize your online surfing and shopping experience. For example, we use cookies to:  
+1) Remember the items in your shopping basket
 
-We use session cookies to make it easier for you to navigate our site. We use session cookies to record session information, such as which web pages a user has visited, and to track user activity on the site. We also use session cookies to store any passwords used on the site (such as a password associated with a user account), so you don't have to enter it more than once per session. Session cookies expire when you close your browser.
+2) Recognize you when you return to our website
 
-We use persistent cookies to track and target the interests of our users to enhance the experience on our site. Persistent cookies remain on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your browser's "help" file.
+3) Analyze visitor behaviorYou can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser settings. Please note, however, that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website.
 
-Top
-
-COLLECTION AND USE OF HEALTH INFORMATION
-
-We are required by applicable federal and state law to maintain the privacy of your health information. Please see our [HIPAA Privacy Statement](https://web.archive.org/lc-us/hipaa) for information on our privacy practices, our legal duties, and your rights concerning your health information. Any health information we collect from you on this site will be handled in accordance with the terms of our HIPAA Privacy Statement.
+We also work with other companies who use tracking technologies, including web beacons, to serve ads on our behalf across the internet. These companies may collect non-personally identifiable information about your visit to our websites about your interaction with our communications, including advertising and e-mails. If you object to web beacons, we recommend that you follow the instructions for deleting existing cookies and disabling future cookies. We will still know how many of our e-mails are opened and We will automatically receive your IP address, a unique identifier for your computer or other access device but we will not identify you as an individual.
 
 Top
 
-CALIFORNIA PRIVACY RIGHTS 
+SHARING INFORMATION WITH THIRD PARTIES
 
-If you are a California resident, you can request certain information about the sharing of your personal information with third parties for direct marketing purposes during the past year. Details concerning this process can be found [here](https://web.archive.org/lc-us/privacy-policy/california). 
+We will never sell any information about you to anyone.  
+We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, website evaluation, data analysis and, where applicable, data cleansing. We may need to share personal information with these third parties so that they can perform these services, however, We limit the personal information that We give to them and authorize them to use this information only for the purpose of performing those services.
+
+In proceeding with your online order, you agree that both your name and address and those of the delivery name and address (if different) will be checked using third parties such as credit agencies. If you are providing a delivery name and address which is not your own you must have that person’s permission to give us their personal information and for us to use it for the purposes specified. By providing it you are saying you have their permission.
+
+We share aggregated demographic information about our user base with our agents, including agencies or third party vendors so that they can provide marketing analysis and consult on advertising strategies. This information does not identify individual users. We also may share non-personal information, such as the number of users who visited the website during a specific time period or who purchased a specific product through the website, with our marketing partners, advertisers and others from time to time. This information generally is shared in an aggregated form.
+
+We may release personal information if we believe in good faith that: the law or legal process requires it; if We have been advised by counsel; We have received a valid administrative request from a law enforcement agency; or such release is necessary to protect the rights, property or safety of Pearle Vision, or any of our respective affiliates, business partners, customers or others.
+
+As with any business, it is possible that as our business develops, We might go through a business transition, such as a merger, acquisition by another company, sale of all or a portion of our assets or buying online stores or other assets. In such transactions, information about customers will likely be transferred. You will be notified via a prominent notice on our site for 30 days of any such change in ownership or control of your personal information. You will be deemed to have consented to the transfer of your personally identifiable information to any such successor entity unless you notify us via email to the contrary within the 30 day period.
+
+Personal information submitted to or collected through this website may be stored and/or processed in the United States or abroad, United Kingdom, Italy or Canada for the purposes described in this privacy policy. By using Pearle Vision products and services (including our website), you consent to any such transfer of information outside of your country.
+
+We do not share, sell or rent to other third parties any personal information that you provide to Us, except with your consent or as described in this Privacy Policy.
 
 Top
 
-OPT OUT PROCEDURES
+E-MAIL OPT-OUT/UNSUBSCRIBE
 
-If you do not wish to receive promotional emails from us, please let us know by using the opt-out response device that can be found at the bottom of every email we deliver or by emailing us at [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com). To help us process your request, please include sufficient information for us to identify you in our records. Please allow a reasonable time for us to process your request. Please note that, although you can opt not to receive promotional messages, we reserve the right to send you informational email messages about any user account you establish on this website or administrative notices regarding the site, as permitted under the CAN-SPAM Act (15 U.S.C. §7701 et seq.). 
+We have a company policy not to flood people with e-mail correspondence, but simply to give you periodic information so you can stay up to date on what We are offering.  
+YOU can easily unsubscribe at any time you want by contacting our customer service department or by following the instructions contained in the e-mail. It takes some time to put opt outs in effect so you may still receive emails from Us for several weeks after your request is received.
 
-If you do not wish to receive any promotional information from us, please let us know by sending your request to: Privacy Office, Luxottica Retail, 4000 Luxottica Place, Mason, Ohio 45040 or by email to [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com). To help us process your request, please include sufficient information to allow us to identify you in our records. Please allow a reasonable time for us to process your request. 
+We also use your e-mail address to confirm your order and to confirm shipment of your order and to respond to any inquiries you make on-line. All e-mails you receive will provide you with information as to how to get off the e-mail mailing list if you so desire.
 
 Top
 
-INFORMATION ACCESS
+DIRECT MAIL
 
-Upon request we provide site visitors with access to their own personally-identifying information (e.g., name, address, phone number) that we maintain about them. You can access this information by sending your request to: Privacy Office, Luxottica Retail, 4000 Luxottica Place, Mason, Ohio 45040 or by email to [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com). To help us process your request, please provide sufficient information to allow us to identify you in our records. 
+If you would like to update your mailing information or want your name and address removed from our direct mailing list you can contact our customer service department.
 
-We reserve the right to ask for information verifying your identity prior to disclosing any information to you. Should we ask for verification, the information you provide to verify your identity will be used only for that purpose, and all copies of this information in our possession will be destroyed when the process is complete.
+Top
 
-We also offer visitors the opportunity to have inaccuracies corrected in all information we maintain about them. Privacy Office, Luxottica Retail, 4000 Luxottica Place, Mason, Ohio 45040 or by email to [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com). To help us process your request, please provide sufficient information to allow us to identify you in our records.
+CHILDREN’S PRIVACY
+
+If you are under 14, you should surf PearleVision.com only with involvement of a parent or guardian. Although We do not specifically direct our websites, catalogs or e-mails to children, We strive to provide children with as much customer service as possible without violating their privacy rights. For their protection, We ask that anyone under 14 years of age not attempt to register with Pearle Vision or otherwise provide Pearle Vision with any personal information without the consent of a parent or legal guardian.
+
+Top
+
+ACCESS TO YOUR PERSONAL INFORMATION
+
+We will provide you with access to the personal information you provided to Us by allowing you to view, update or correct your information. In order to protect your privacy, We take steps to verify your identity before granting you access to the private information or enabling you to make corrections. We will accomplish this through the use of passwords and personal data.If you want to find out what personal information We hold about you, please contact our customer service department. We may charge you a small fee for providing this information.
 
 Top
 
 SECURITY
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, and to guard that information against loss, misuse or alteration. When you enter sensitive and/or personally-identifying information on our registration or during the ordering process, we encrypt transmissions involving such information using secure protocols.
-
-Please note, however, that no method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, while we use commercially-reasonable means to protect your personal information, we cannot guarantee its absolute security.
+Our web site’s bunker security system is armed with a sentry system to monitor activity and prevent any unauthorized disclosure of credit card numbers or other personal information. In addition, we utilize a licensed system for credit card authorization and fraud detection. We use industry standard SSL (Secure Sockets Layer) encryption to protect the confidentiality of your personal information.
 
 Top
 
-THIRD PARTY SITES
+OpenMarket
 
-This Privacy Policy applies only to information collected by this website.
-
-From time to time, this website may link you to other sites ("Linked Sites") that are not owned by Luxottica Retail. We do not control the collection or use of any information, including personally-identifying information, that occurs during your visit to the Linked Sites. Further, we make no representations about the privacy policies or practices of the Linked Sites, and Luxottica Retail is not responsible for the privacy practices of these Linked Sites.
-
-Be careful of disclosing any of your personally identifiable information when leaving our site. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
+OpenMarket respects your privacy. We will not share or use your mobile number for any other purpose. We will only use information you provide to transmit your text message. Nonetheless, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. When you complete forms online or otherwise provide us information in connection with the Service, you agree to provide accurate, complete and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any such information is untrue, inaccurate or incomplete, we may refuse you access to the Service and pursue any appropriate legal remedies.
 
 Top
 
-CHANGES TO THIS POLICY
+TRANSPARENCY IN SUPPLY CHAIN DISCLOSURE
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our Policy. If our information practices change materially at some time in the future, we will post the changes to our website and revise our Policy accordingly. In addition, if we have collected personally-identifying information from you, we will notify you about the changes and secure your consent prior to making use of your information in new ways. 
+Luxottica has adopted both a Code of Conduct and a Code of Ethics, with which employees, business partners and suppliers are expected to comply. Luxottica produces the vast majority of its products at facilities that it owns and where it controls hiring and employment practices. The Codes require that all associated with Luxottica behave ethically and within the bounds of the law, to respect the rights of people’s dignity, health and safety, and that also denounces the use of child labor. Luxottica promotes the safeguarding of workers’ rights, trade union freedom and freedom of association in general.
+
+Luxottica investigates the reputation and lawfulness of the suppliers it uses, and supervises the observance by its suppliers of its Code of Ethics through frequent company employee visits. The company is in the process to deploy a Global Audit program designed to cover Environmental, Health, Safety & Social aspect.
+
+Luxottica requires suppliers to comply with the laws of the jurisdiction in which the product is made and strives to ensure that the rights contemplated by the Universal Declaration of Human Rights are guaranteed in the different countries in which it operates.
+
+Luxottica supervises the observance of the Code of Ethics, providing information, prevention tools and controls and assuring the transparency of its operations and behaviors, intervening with remedial actions as necessary. Compliance with the Code of Ethics is a requirement for continued employment or business relationship with Luxottica.Regular training is a part of employment with Luxottica, including that related to compliance with the law. Specific training relating to human trafficking and slavery and mitigation of the risk of such practices with the supply chain is in the process of development.
 
 Top
 
-QUESTIONS/CONCERNS
+UPDATES TO PRIVACY INFORMATION
 
-If you believe that this site is not following its stated information policy, you may contact us at the above postal address, email address, or telephone number.
+Please review the site periodically to see any updates to the information provided here. This privacy policy was last updated on May 24, 2017.
