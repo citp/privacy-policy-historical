@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cet.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628145705id_/http%3A//www.cet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cet.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215064126id_/http%3A//www.cet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cutting Edge Communications
 
