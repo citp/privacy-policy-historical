@@ -1,15 +1,23 @@
-> *The following text is extracted and transformed from the moodle.org privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518033041id_/https%3A//moodle.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moodle.org privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215094651id_/https%3A//moodle.org/admin/tool/policy/view.php%3Fpolicyid%3D1) for the most accurate reproduction.*
 
-# Moodle.org: Privacy policy
+# Policies and agreements
 
-This policy covers all moodle.org, moodle.net and moodlemoot.org sites, including subdomains, like docs.moodle.org, learn.moodle.net and tracker.moodle.org.
+This privacy notice relates to user accounts created on this site.
 
-We value your privacy and will take all reasonable steps to protect your personal information. We do not share or distribute your personal information (including email address) to any third party, but it may be accessible to those volunteers and staff who administer the site and infrastructure. We may be required to share stored personal information by law.
+#### Privacy and personal data
 
-All information that you disclose in your public profile, in forum posts, comments, tracker, or other public portions of the moodle.org and moodle.net sites becomes public information. All content is made available under the [GNU General Public License](http://docs.moodle.org/dev/License), unless otherwise stated.
+We take your privacy very seriously. In order to provide access to this site, we need to collect and store personal information about you.
 
-IP addresses, URLs visited, and related information is recorded for all site visitors for the purpose of site traffic analytics and captured as part of normal operation in our server logs. Cookies are used to track logins, sessions, and collect anonymous traffic data.
+#### What is collected?
 
-If you have any questions about any of these practices or our use of your personal information, please email [privacy@moodle.com](mailto:%70%72%69%76ac%79@%6dood%6ce%2ec%6f%6d).
+We collect the data that you provide when creating an account, such as name and email. We also collect data about your activity on the site, including any contributions that you make.
 
-Last modified: Friday, 17 February 2017, 3:11 PM
+#### How is this information used?
+
+This information is only used to provide access to the online courses on this site.
+
+#### How long is my data stored?
+
+Your personal data is stored as long as your account is active on this site.
+
+For our full data privacy policy please see the [Moodle.com Privacy Notice](https://moodle.com/privacy-notice/) (link opens in a new window).
