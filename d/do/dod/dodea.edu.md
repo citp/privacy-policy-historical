@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dodea.edu privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225001504id_/http%3A//www.dodea.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodea.edu privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215130418id_/https%3A//www.dodea.edu/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Act Program
 
