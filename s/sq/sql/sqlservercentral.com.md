@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlservercentral.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520002947id_/http%3A//www.sqlservercentral.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlservercentral.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215092128id_/http%3A//www.sqlservercentral.com/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SQLServerCentral
 
@@ -148,7 +148,7 @@ If you have any questions regarding this policy, or wish to make a complaint abo
 
 ##  Reporting Security Issues 
 
-If you become aware of a security vulnerability in any of Redgate's products, services or websites, contact [security@red-gate.com](https://web.archive.org/web/20180520002947id_/http://www.sqlservercentral.com/About/Privacy/security@red-gate.com). 
+If you become aware of a security vulnerability in any of Redgate's products, services or websites, contact [security@red-gate.com](https://web.archive.org/web/20181215092128id_/http://www.sqlservercentral.com/About/Privacy/security@red-gate.com). 
 
 We encourage the responsible disclosure of security issues, and will act quickly on any vulnerabilities reported. We will not take legal action against you if you: 
 
