@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioonline.my privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611131806id_/http%3A//www.radioonline.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioonline.my privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215050958id_/http%3A//www.radioonline.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Radioonline.my
 
