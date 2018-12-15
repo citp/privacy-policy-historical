@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privateschoolreview.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170034id_/http%3A//www.privateschoolreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privateschoolreview.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215172213id_/https%3A//www.privateschoolreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PrivateSchoolReview.com
 
@@ -48,7 +48,7 @@ Do we use 'cookies'?
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**We use cookies to:**  
+ **We use cookies to:**  
 Understand and save user's preferences for future visits.  
 Keep track of advertisements.  
 Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.  
@@ -64,7 +64,7 @@ If you turn cookies off, Some of the features that make your site experience mor
 Third-party disclosure
     
 
-**Do we disclose the information we collect to Third-Parties?**  
+ **Do we disclose the information we collect to Third-Parties?**  
 We do not sell or trade children's information. However, when school brochures or applications are requested by a user, their info is sent to the school only with the user's consent / knowledge.
 
 Third-party links
@@ -82,15 +82,15 @@ We use Google AdSense Advertising on our website.
 
 Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
-**We have implemented the following:**  
+ **We have implemented the following:**  
 Remarketing with Google AdSense  
 Google Display Network Impression Reporting  
 Demographics and Interests Reporting  
 DoubleClick Platform Integration  
 
 
-**Opting out:**  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on. 
+ **Opting out:**  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
 
 California Online Privacy Protection Act
     
@@ -101,7 +101,7 @@ CalOPPA is the first state law in the nation to require commercial websites and 
 **According to CalOPPA, we agree to the following:**  
 Users can visit our site anonymously.  
 Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.  
-Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above. 
+Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
 
 You will be notified of any Privacy Policy changes:  
 On our Privacy Policy Page  
@@ -110,11 +110,11 @@ By emailing us
 By logging in to your account  
 
 
-**How does our site handle Do Not Track signals?**  
-We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+ **How does our site handle Do Not Track signals?**  
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-**Does our site allow third-party behavioral tracking?**  
-It's also important to note that we allow third-party behavioral tracking. 
+ **Does our site allow third-party behavioral tracking?**  
+It's also important to note that we allow third-party behavioral tracking. We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 COPPA (Children Online Privacy Protection Act)
     
@@ -128,7 +128,7 @@ Fair Information Practices
 
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**  
+ **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**  
 We will notify you via email  
 Within 7 business days  
 
@@ -140,14 +140,14 @@ CAN SPAM Act
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-**We collect your email address in order to:**  
+ **We collect your email address in order to:**  
 Send information, respond to inquiries, and/or other requests or questions  
 Process orders and to send information and updates pertaining to orders.  
 Send you additional information related to your product and/or service  
 Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.  
 
 
-**To be in accordance with CANSPAM, we agree to the following:**  
+ **To be in accordance with CANSPAM, we agree to the following:**  
 Not use false or misleading subjects or email addresses.  
 Identify the message as an advertisement in some reasonable way.  
 Include the physical address of our business or site headquarters.  
@@ -156,8 +156,8 @@ Honor opt-out/unsubscribe requests quickly.
 Allow users to unsubscribe by using the link at the bottom of each email.  
 
 
-**If at any time you would like to unsubscribe from receiving future emails, you can email us at**  
-[information@privateschoolreview.com](mailto:information@privateschoolreview.com) and we will promptly remove you from **ALL** correspondence. 
+ **If at any time you would like to unsubscribe from receiving future emails, you can email us at**  
+[information@privateschoolreview.com](mailto:information@privateschoolreview.com) and we will promptly remove you from **ALL** correspondence.
 
 Contacting Us
     
