@@ -1,180 +1,209 @@
-> *The following text is extracted and transformed from the gorkana.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605120146id_/http%3A//www.gorkana.com/about-gorkana/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorkana.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215191920id_/http%3A//www.gorkana.com/about-gorkana/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gorkana
 
-**1\. Introduction**  
-1.1 Gorkana and its affiliates (“Gorkana”, “we” or “us”) are committed to protecting and respecting your privacy.
+**About Cision**
 
-This policy explains how we obtain and use the information we collect about visitors to our website at www.gorkana.com, our customers and our media contacts; your rights under applicable data protection legislation; and the procedures we have in place to safeguard your information. This includes information on how we use cookies.
+Cision is a global communications group of companies that enables its customers to identify and connect with influencers, distribute meaningful public relations, corporate and marketing communications to those influencers and the public, and measure the impact of those communications, as well as monitoring various media for its customers.  Our products and services operate under a number of different brands, including Cision, Gorkana, PR Newswire, Hors Antenne, Data Presse, Argus de la Presse, CEDROM, Profnet, HARO and Prime.  In this policy, when we refer to “Cision”, “we” and “us,” we mean Cision US Inc. and its affiliates and their divisions, including but not limited to PR Newswire Association LLC, Bulletin Intelligence and MultiVu.
 
-This policy includes specific information about data regarding journalists and other media contacts that we collect and use in our Media Database which is dealt with separately under the heading [“Media Database”](http://www.gorkana.com/pr-products/media-database/).
+For the purposes of European Data Protection law [Cision] is the data controller of the personal data referred to in this policy.
 
-1.2 Please read this policy carefully to understand Gorkana’s views and practices regarding your information and how we will treat it.
+**Introduction to our Privacy Policy**
 
-1.3 By using our websites and other services you are indicating that you agree to this policy and that you consent to our use of cookies in accordance with the terms of this policy.
+This Privacy Policy and our related Privacy Notices (see below) describe how we collect, use, protect and share information about you that we obtain when you use our services, our websites or otherwise interact with us.  If you are the subject of any personal data we may process, this policy also explains what your rights are.
 
-1.4 For the purposes of European data protection laws, the data controller is Gorkana Group Limited of 5 Churchill Place, Canary Wharf, London, E14 5HU .
+This policy applies to our Services which include (i) all the websites on which it is published (the “Websites”) (ii) our mobile apps; (iii) other online products and services provided by us through our Websites or mobile apps; and (iv) databases, distribution services, articles, surveys, newsletters, webinars, media monitoring, and/or analytic reports.
 
-**What personal information do we collect about you?**  
-2.1 We may collect and retain in our records some or all of the following data about you (although this is not an exhaustive list):  
-a) information that you need to provide when you acquire or use our services. This information may include name, address, telephone number, email address, date of birth, credit/debit card information;
+Please click on the sections below to learn more about our Privacy Policy:
 
-b) other information which is optional for you to provide when you acquire or use our services;
+  * **HOW THIS POLICY WORKS WITH OUR OTHER PRIVACY NOTICES AND POLICIES**
+  * **HOW WE COLLECT INFORMATION FROM YOU**
+  * **HOW YOUR INFORMATION MAY BE USED**
+  * **HOW YOUR INFORMATION MAY BE SHARED**
+  * [**COOKIES & OTHER TRACKING MECHANISMS**](http://www.gorkana.com/cookie-policy/)
+  * [**DO NOT TRACK DISCLOSURE**](http://www.gorkana.com/cookie-policy/)
+  * [**YOUR CHOICES**](http://www.gorkana.com/cookie-policy/)
+  * **SECURING YOUR PERSONAL INFORMATION**
+  * **CHILDREN**
+  * **THIRD-PARTY INFORMATION COLLECTION**
+  * **TRANSFERS OF PERSONAL INFORMATION OUTSIDE THE EEA**
+  * **LEGAL BASIS FOR PROCESSING**
+  * **YOUR RIGHTS IN THE EU**
+  * **CHANGES TO OUR PRIVACY POLICY**
+  * **CONTACT**
 
-c) details of your correspondence with Gorkana and any other information you have given to Gorkana (e.g. if you choose to enter competitions, register for promotions or complete customer feedback forms);
 
-d) information that you provide to us for the purpose of registering with us and subscribing to our website services, email notifications and/or news alerts (including name, email, job title, phone number, service and product areas of interest and communication preferences);
 
-e) details of your visits to Gorkana’s websites including, but not limited to, traffic data, location data, web logs and other communication data which tells us about how you accessed our website and your browsing patterns;
+**_How this policy works with our other privacy notices and policies_**
 
-f) information about your computer and about your visits to and use of the website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, and website navigation); and
+This Policy should be read together with our related Privacy Notices, in particular our [**_Customer Privacy Notice_**](https://gdpr.cision.com/dataprivacynotice_customersprospects), our [**_Data Privacy Notice for Influencers and Other Media Contacts_**](https://gdpr.cision.com/dataprivacynotice_influencers), and our [**_Candidate Privacy Notice_**](https://careers.jobvite.com/cision-global/Cision-Candidate-Privacy-Policy-2018.pdf).  Depending on how you interact with us, we will collect and process your personal information as follows:
 
-g) information relating to any transactions carried out between you and us including information relating to any purchases you make of our reports and other services.
+If you are a **customer** of any of our services. | We will collect and process your individual contact information and other personal data in accordance with our [**_Customer Privacy Notice_**](https://gdpr.cision.com/dataprivacynotice_customersprospects) and any other agreement that we may have with your business.  
+---|---  
+If you are an **influencer or other media contact** in our media database. | We will collect and process your contact information and media profile in accordance with our [**_Data Privacy Notice – Influencers and Other Media Contacts_**](https://gdpr.cision.com/dataprivacynotice_influencers).  
+If you **visit or register with any of our websites** (other than as a Customer or Influencer). | We will collect and use your personal information in accordance with this Privacy Policy. In particular, we may see how you use our websites and what content you interact with and for how long.  This may involve the use of cookies which is explained in our [**_Cookie Policy_**](http://www.gorkana.com/cookie-policy/).  
+If you are a **supplier** and you or your company provides us with goods or services. | We may collect your individual contact information in order to communicate with you and may use other information that we need in order to manage our account with your business.  We will process such data in accordance with this Privacy Policy and any other agreement that we may have with you.  
+If you are **invited to or attend one or our events** | We will collect and process your contact information and any other information we may need to manage our invitation and your attendance (including for example dietary or special access requirements) in accordance with this Privacy Policy.  
+If you **apply for a job** with us | We will process your personal information in accordance with our [**_Candidate Privacy Notice_**](https://careers.jobvite.com/cision-global/Cision-Candidate-Privacy-Policy-2018.pdf) which will be sent to you when you apply.  
+If you are **employed** by us | We will process your personal information in accordance with our **_Employee Privacy Notice_** which will be provided to you when you join our staff.  
+  
+Note to Journalists, Experts and PR Professionals: News and journalism are public activities. Your name, business contact details, and professional interests and affiliations may _well_ already be publicly available, particularly if you are a journalist, a recognized expert, or a PR professional. We have created this Privacy Policy to inform you how we collect and process your personal information, and how we comply with our obligations to look after that information, and what your rights are.
 
-2.2 Providing some the information above is optional but if you choose not to provide such information it may not be possible for you to receive the relevant additional services.
+Please read this Privacy Policy carefully to understand how we will treat your information before you start to use our Websites or communicate with us. By using our Services or communicating with us about them, you acknowledge that your personal information will be processed in accordance with this Privacy Policy, and in any other applicable privacy notice or policy (see above) including any updates and amendments.  Your use of our Services and any dispute over privacy is subject to this Privacy Policy and any applicable Terms of Use, including any terms available at <http://www.cision.com/us/>, <http://www.prnewswire.com/terms-of-use-apply.html>, <http://www.prnewswire.com/customer-terms-conditions-landing-page.html> and/or any other agreements that you enter into with us.
 
-**3\. Information about other individuals**  
-You may give us information about other people on their behalf (e.g. your colleagues or employees). If you do, you confirm that the other person has agreed that you may provide this information on his/her behalf and that we may deal with such information in accordance with this policy.
+In the event that the provisions of any such agreements differ from or conflict with the provisions of this Privacy Policy, the applicable terms or agreement will apply.
 
-**4\. How we’ll use your information**  
-4.1 We will only use your data for the purposes for which it was collected. These purposes may include (although this is not an exhaustive list):
+**_How We Collect Information from You_**
 
-  * to help us identify you and any accounts you hold with us;
-  * to carry out our obligations arising from any contracts entered into between you and us;
-  * to send statements and invoices to you, and collect payments from you;
-  * to operate and improve our websites and services;
-  * to make our websites easier to use by removing the need for you to enter repeatedly the same information;
-  * to supply goods and services to you;
-  * performing research and analysis aimed at improving our services;
-  * to notify you of any changes to our websites or our services and products which may affect you;
-  * to enable us to offer you products and services customized to your preferences;
-  * to send you general (non-marketing) commercial communications;
-  * to send you email notifications which you have specifically requested;
-  * to send you our marketing communications and promotional offers relating to our products and services and those of our selected partners which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
-  * for statistical analysis (e.g. on the use of our websites);
-  * for fraud prevention and detection; and
-  * in connection with legal proceedings.
+**Information You Provide to Us**
 
+We collect information that you provide directly to us, including when you register for or order a Service; when a company, organization or individual authorizes you to manage its account or use our Services on its behalf; and/or when you subscribe to a newsletter, provide feedback about our Services or contact us with questions or comments about a Service.
 
+**Information We Collect Through Your Use of our Services**
 
-4.2 Where you submit personal information for publication on our websites, we will publish and otherwise use that information in accordance with the licence you grant to us.
+We collect certain technical information using cookies and other tracking mechanisms to help us operate and provide our Services to you. This information includes, without limitation:
 
-4.3 We will not without your consent provide your personal information to any third parties for the purpose of direct marketing.
+  * Information about the systems and device(s) you use to access our Services, including MAC address, IP address, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, device type, and device identifiers;
+  * Information about your visits to the Websites, including the full URL clickstream to, through and from the Websites (including date and time);
+  * Information about your use of our mobile apps, including the information you view in our mobile apps and the date and time you view it;
+  * Information to facilitate your use of our Services (including to provide access to third-party websites and services), such as URL requests, destination IP addresses, or device configuration details; and
+  * Pages you view or search for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), your engagement with certain variable/dynamic elements of a page and methods used to browse away from the page.
 
-**5\. Sharing your personal information**  
-5.1 In addition to the uses set out above, we may pass on your personal information to third parties and contractors who provide services to or for us. Such services may include sending mail, payment processing and marketing services which are necessary to provide you with the services you have requested.
 
-5.2 We will only disclose information to unrelated third parties without your consent if we are under a duty to disclose or share such information in order to comply with any legal obligation, or on the request of a legal or regulatory authority, or in order to enforce or apply our Terms and Conditions, or if we are otherwise permitted to do so in accordance with applicable data protection laws.
 
-5.3 Information relating to journalists in our Media Database may be shared with our corporate subscribers (see section 13).
+If you decline to have us collect such information (for example, by disabling cookies; see [_Cookies & Other Tracking Mechanisms_](https://www.cision.com/us/legal/cookie-policy.html) below), we may not be able to provide some or all of our Services to you.
 
-**6\. Storing and maintaining your personal information**  
-6.1 We will take appropriate security measures against unlawful or unauthorised processing of your information, and against the accidental loss of, or damage to, your information. The security of your personal information is very important to us and our objective is to maintain the confidentiality, integrity and availability of information as follows:
+**Information We Collect about You from Third Parties**
 
-  * Confidentiality – only authorised people can access the information.
-  * Integrity – information should be accurate and suitable for the purpose for which we use it.
-  * Availability – only authorised users should be able to access the data if they need it for authorised purposes.
+Our Services may also, from time to time, contain links to and from social media platforms. You may choose to connect with us through a social media platform and when you do, and to the extent available, we may collect additional information from you, such as your user names, profile picture, contact information, contact list, and the profile pictures of your contacts, through the social media platform. Please be advised that social media platforms may also collect information from you. We do not have control over the collection, use and sharing practices of social media platforms and encourage you to review their usage and disclosure policies and practices, including the data security practices, before using the social media platforms.
 
+We may combine the information we collect about you from the various sources described above.
 
+**_How Your Information May Be Used_**
 
-6.2 Whilst we will use all reasonable efforts to safeguard your information, you acknowledge that the use of the internet or the storage of information can never be entirely secure and for this reason we cannot guarantee the security or integrity of any information held by us.
+We may use any information we collect, including personal information and technical information, as described to you at the time of collection, for the following purposes:
 
-6.3 We will not retain data for longer than is necessary for the purposes for which it was collected.
+  * **_Providing, maintaining and improving our Services._** Operating and improving our Services ( _e.g._ , administration, troubleshooting, managing account access, protecting security); evaluating our Services; developing new features, products, or services; and for other customer service and support purposes.
+  * **_Tailoring content._** Personalizing the information and content we display to you, including marketing, promotional and sponsored content and advertising within the Services.
+  * **_Marketing and communications._** Contacting you directly about your use of an account or Service for which you are registered; providing you with information about products or services, from us or third parties that may interest you; serving advertisements to you; and responding to your requests, feedback or questions.
+  * **_Research and analytics._** Researching and analyzing how you interact with our Services, including to monitor usage and activity trends and for statistical purposes; creating reports for customers that may include both aggregate trends and the organizations that are viewing their releases, or accessing our Services or customer websites or otherwise using our Services; and measuring or understanding the effectiveness of content, communications, Website visits, web traffic, our Services, or advertising we or our customers serve to you and other customers like you, and to deliver relevant advertising to you and other customers like you.
+  * **_Legal compliance._** Complying with laws, regulations and requests from law enforcement or other governmental entities; carrying out our obligations and enforce our rights arising from any contracts; and using as evidence in litigation.
+  * **_Protecting rights and interests._** Protecting the safety, rights or property of Cision or any third party; investigating, preventing or otherwise addressing activity that Cision, in its sole discretion, may consider to be or pose a risk of being, an illegal, unethical, or legally questionable activity.
 
-**7\. Transfers of data outshide of the European Economic Area (“EEA”)**  
-7.1 Gorkana is an international company providing products and services outside the UK, in particular elsewhere in Europe and in the USA. Our databases (including the Media Database) are hosted on servers in the UK. Information on those databases may be accessed by our affiliates in other countries, and information collected by Gorkana may be transferred to, or stored and processed in, any other country where Gorkana carries out operations. Your personal data will be processed in accordance with European and applicable local data protection law.
 
-7.2 By submitting your personal data to us, you agree to this transfer. We will take all steps to ensure that your data is treated securely and in accordance with this privacy policy. If you live in the EU, any transfer of your data outside the EU will take place in accordance with EU and applicable national data protection law to ensure that adequate safeguards are in place for the protection of such information.
 
-**8\. Your rights**  
-8.1 Under UK data protection law you have the right to request that we update your personal data at any time. You also have the right to object if your personal data are being processed unlawfully (e.g. if the data are retained for longer than necessary for the purpose for which they were collected). If you wish to exercise these rights please email us at [privacy@gorkana.com](mailto:privacy@gorkana.com).
+We may also create aggregate or anonymous information about your and other users’ use of our Services for purposes similar to those listed above.
 
-8.2 You have the right to make a request for access to information held about you (a “subject access request”). If you would like to make a subject access request please email [privacy@gorkana.com](mailto:privacy@gorkana.com) and use the heading “SUBJECT ACCESS REQUEST” in your email. Your right of access will be handled in accordance with applicable data protection laws. In some countries, such access request may be subject to an administration fee as permitted by law. We will inform you if such a fee is applicable at the time we receive your request.
+**_How Your Information May Be Shared_**
 
-8.3 If you are a journalist and wish to be removed from the Media Database please email us at [privacy@gorkana.com](mailto:privacy@gorkana.com) (see more on this below).
+We may share any information, including personal information as follows:
 
-**9\. Links to third party sites**  
-Our site may have links or frames from other sites, which may or may not be our partners. If you follow a link to any of these sites, please note that these websites have their own privacy policies and practices and that we do not accept any responsibility or liability for them. Please check these policies before you submit any data to these websites.
+  * With our subsidiaries and affiliates, including any future subsidiaries or affiliates;
+  * With our service providers and sub-contractors to the extent reasonably necessary to enable us provide our Services ( _e.g._ , we use a third-party platform for e-mail and cannot communicate with you without disclosing your e-mail address to our third-party e-mail provider);
+  * With a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of any of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, including during planning or negotiations of such sale or transfer;
+  * With a third party with whom we must legally share information about you;
+  * With the company or organization you represent upon their request;
+  * With you or other third parties with your express consent;
+  * To comply with any court order, valid subpoena, law or legal process, including to respond to any government or regulatory request;
+  * To investigate potential unauthorized access or misuse of our Services or otherwise enforce or apply our Terms of Use and other agreements;
+  * To protect our assets or rights, including for billing and collection purposes;
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Cision, our customers or others, including exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction; and
+  * With any other entity disclosed by us when you provide the information.
 
-**10\. Monitoring**  
-10.1 We may monitor and record our communications with you (such as telephone conversations and emails) for the purposes of quality assurance, training, fraud prevention and compliance.
 
-10.2 When you use Gorkana’s websites, we may collect information about your computer, such as your IP address and/or browser, which we will use for administration purposes and statistical analysis. This information will not usually identify you personally.
 
-10.3 Some functionality within the Gorkana service enables our corporate subscribers to communicate direct with journalists on the Media Database via the Gorkana service. That functionality also includes tracking technology which will enable the sender to see when a message has been delivered and when it has been opened.
+We may also share aggregate or anonymous data for marketing, advertising, research, compliance, or other purposes.
 
-**11\. Cookies policy**  
-11.1 Gorkana’s websites use cookies to understand how you use our website so that we can enhance your experience. As required by the UK interpretation of EU law on Cookies, we have reviewed the cookies used by our services and give advice so that you can manage the use of cookies.
+In the event that we receive a request from a governmental entity to provide it with your personal information, we will take reasonable attempts to notify you of such request, to the extent reasonably possible and legally permissible.
 
-11.2 Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. They do not contain personally identifiable information such as your name or other personal details – simply a unique identified relevant to you.
+[**_Cookies & Other Tracking Mechanisms_**](http://www.gorkana.com/cookie-policy/)
 
-11.3 We use analytical/performance cookies which allow us to recognise and count the number of visitors to our website and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. We may also use functionality cookies to recognise you when you return to our website. This enables us to personalise our content for you and remember your preferences.
+**_Securing Your Personal Information_**
 
-11.4 The vast majority of web browsers accept cookies. However, you can change your browser settings so that cookies are not accepted. If you do this, you may lose some of the functionality of the websites. If you need more information about cookies such as what they do, how they work and how to enable/disable them, please go to [www.aboutcookies.org](http://www.aboutcookies.org/).
+The security of your information is important to Cision, and we have implemented administrative, technical, and physical safeguards designed to protect personal information against theft or misuse. Unfortunately, no system can guarantee complete security of your information. As a result, while we strive to protect your personal information from unauthorized third parties, Cision cannot ensure or warrant the security of such information. Thus, your use of the Services and communications with us is at your own risk. You are responsible for protecting your username(s) and password(s) and for the security of information that you transmit to us over the internet. __
 
-11.5 The services we use that use cookies are:  
-**a) Google Analytics.** We use Google Analytics to analyse the use of our websites. Google Analytics generates anonymous statistical and other information about websites by means of cookies, which are stored on users’ computers. The information generated in relation to our websites is used to create reports about the use of the websites. Google will store this information. Google’s privacy policy is available online.
+**_Children_**
 
-**b) Social Sharing Tools.** We use social sharing tools, widgets and plug-ins to allow our users to interact with different social networks. Cookies provided by ShareThis, AddThis, Facebook, Twitter and Google+ may collect information about your browser and usage data.
+Our Services are directed to working professionals. Our Services are not intended for children under 16 years of age or the relevant age of majority, and we do not knowingly collect personal information from children under that age. If you are under 13 years of age or the age of majority, you are not permitted to submit any personal information to us.
 
-**c) Vimeo and YouTube.** We use Vimeo and YouTube for providing videos across our websites. Both Vimeo and YouTube set cookies in videos we embed.
+**_Third-Party_** _  **Information Collection**_
 
-d) Wufoo and Survey Monkey. We sometimes link to online forms and surveys created using Wufoo and Survey Monkey. Cookies may be set if you follow one of these links to complete a form or survey.
+Our Services may contain links to third-party websites and services, including those of social media platforms, partner networks and advertisers. Please note that these websites and services may have their own privacy policies. We do not accept any responsibility or liability for the policies of any third parties. If you chose to access any websites or services linked from our Services, please check the applicable policies before you use or submit any personal information to such website or service.
 
-11.6 We do not use cookies for any kind of behavioural marketing or retargeting.
+Third parties unaffiliated with us may also collect information about you, including tracking your browsing history, when you use our Services. We do not have control over these third-party collection practices and advise you to adjust the settings of your browsers or install plug-ins and add-ins if you wish to minimize these third party collections.
 
-**12\. Phishing emails**  
-“Phishing emails” may circulate the Internet in the name of Gorkana which link to fake websites made to look like our website. These messages are not sent by Gorkana. Gorkana will never send you an email requesting your bank details, login or password, or asking you to make a payment into a bank account. If you have received a message requesting this information or with instructions to pay money into a bank account, please ignore it.
+**_Personal Information Transferred from EEA and/or Switzerland_**
 
-**Key safety tips:**  
-Be careful accessing Gorkana’s site through links contained in e-mails. The address that should appear on your web browser should always start with www.gorkana.com. Fraudsters may provide a link to a bogus site to trick you to disclose your personal information.
+We may share your personal data with entities within the Cision Group. Given that we are an international organisation with our headquarters in the USA, this may involve transferring your personal data outside of the European Economic Area (“EEA”). Some of the third parties to whom we transfer your personal data are also based outside of the EEA, so their processing of your personal data will likewise involve a transfer outside the EEA. Where your personal data is transferred outside of the EEA we will ensure that we appropriate mechanisms in place to ensure the protection of your personal information, including the use of specific contracts approved by the European Commission giving your personal data the same protection as it has in Europe.
 
-Watch out for SPAM emails with attachments. SPAM emails can be made to look as though they come from a safe source or a friend’s email address, however, once you open the attachment they can download a virus on to your computer. Be wary of suspicious looking attachments as even friends can unwittingly send you a virus by email.
+Such transfers may be made by or to us in our capacity as a data processor or as a data controller:
 
-**13\. Media database**  
-13.1 Gorkana takes great pride in the extent and accuracy of its database of media contacts – journalists, bloggers and media outlets – which we call the Media Database. The information we maintain in our Media Database, and how that information is used, depends on the information that has been provided to us, how we obtained that information, and how the media contact uses our services. This section describes what personal information we obtain about the media contacts on our Media Database and how that information is used. This section should be read in conjunction with the rest of this privacy policy which may also apply media contacts.
+  * **_Processor_** : Cision is a provider of software, services and tools intended to help customers manage all aspects of their marketing and PR campaigns. Cision does not own or control any of the information it processes on behalf of its customer. All such information is owned and controlled by Cision’s customer. In this capacity, Cision receives information transferred from the EU to the US merely as a processor on behalf of its customer, although such information may not be required by Cision.
+  * **_Data Controller_** : Cision also provides information products designed to help customers research and plan their campaigns more effectively. In this function, Cision acts as a data controller of the personal information contained in these products and processes this personal information as a data controller.
 
-  * What additional information do we collect about journalists on our Media Database?
 
 
+Further details of transfers of personal data outside the EEA are provided in our [_Customer Privacy Notice_](https://gdpr.cision.com/dataprivacynotice_customersprospects) and our [_Data Privacy Notice – Influencers and Other Media Contacts_](https://gdpr.cision.com/dataprivacynotice_influencers).
 
-13.2 In addition to the information referred to at 2.1 above, we may collect additional information about our media contacts which may include information such as your job title, contact information (including mobile phone number and personal email if you provide it to us), career history, beat, articles that you have written, personal interests and other information that may enhance the service that we provide for you and for our corporate subscribers.
+**Legal Basis for Processing**
 
-  * How do we obtain information about journalists that is stored in the Media Database?
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
+  * Where we need to process your information to perform the contract we are about to enter into or have entered into with you.
+  * Where we need to process your information to comply with a legal or regulatory obligation.
+  * Where it is in our legitimate interests to do so. Our legitimate interests include our legitimate commercial interests in operating the Cision Services and providing you with access to our Media Database. We make sure that we consider and balance any potential negative impact on you and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you.
+  * Where we have obtained your consent.
 
 
-13.3 In addition to the sources of information set out in section 2.1 above, the information we hold in relation to journalists on our Media Database comes from a variety of sources, including, in particular:
 
-a) information provided to us direct by journalists (for example, when signing up for one of our services, such as Media Alerts, or when responding to a request for information from Gorkana);
+**Your rights**
 
-b) from media outlets (newspapers, magazines etc), who will periodically provide information relating to journalists employed by or connected with them (e.g. current job titles, contact information, areas of interest);
+If you reside in the EU, or if your personal information is processed in connection with one of our European businesses, you have certain rights under European data protection laws and in particular the General Data Protection Regulation.  These rights include rights of access; the right to rectification; the right to erasure; the right to restrict processing; the right to data portability; and the right to object to processing.
 
-c) from publicly available sources (such as news stories, press releases, online media);
+Your rights include the right to:
 
-d) from other third party sources (for example, information provided by Gorkana’s customers or from other journalists).
+  * Access your personal information (via what is commonly known as a “data subject access request”).
+  * Require us to correct any mistakes in your information which we hold.
+  * Require the erasure of personal information concerning you in certain situations.
+  * Receive the personal information concerning you which you have provided to us, in a structured, commonly used and machine-readable format and have the right to transmit those data to a third party in certain situations.
+  * Object at any time to processing of personal information concerning you for direct marketing.
+  * Object to decisions being taken by automated means (including profiling) which produce legal effects concerning you or similarly significantly affect you.
+  * Object in certain other situations to our continued processing of your personal information.
+  * Otherwise restrict our processing of your personal information in certain circumstances.
 
-  * How the Media Database is used
 
 
+In some cases these will not apply to you, or to the particular use that we are making of your data, and there are exceptions (for example if we have to process the data to comply with our own legal obligations).
 
-13.4 In addition to the general uses in section 4.1, information about our journalists that is contained in the Media Database may be made available to our corporate subscribers who use our products and services. For example, Gorkana’s corporate PR customers that subscribe to our Media Database & Alerts service will have access to information about journalists (including their contact information) that we hold in the Media Database, and will be sent alerts providing information about changes to the database (for example, changes in job titles, journalist moves, and contact information). Our corporate customers may contact journalists direct (using the contact information we keep in the Media Database) to, for example, send press releases or other PR material which our customers may consider will be of interest to the journalist in question. Gorkana does not control and is not responsible for the content of any such communications.
+For further information on each of these rights, including the circumstances in which they apply, you should refer to guidance from your local Data Protection Authority: <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>
 
-  * Maintaining the Media Database
+You also have the right to make a complaint to your local data protection authority at any time.  We hope that we would be able to resolve any concerns that you may have before you approach your data protection authority so please do contact us in the first instance.
 
+**_How long will we use your personal data?_**
 
+We will keep your personal data only for as long as is necessary for the purposes set out in this privacy notice and to fulfil our legal obligations. We will not keep more data than we need.
 
-13.5 Gorkana prides itself in maintaining up to date and accurate data on the Media Database. We will update our records as soon as possible after receiving information that requires changes to our database. Such information may come to us from any of the sources referred to above. We may also receive information from other sources, for example, out of office messages. Where appropriate, we will notify the journalist of substantive changes, and may choose not to make any changes until they have been approved by the journalist.
+**_Changes to Our Privacy Policy_** _ _
 
-13.6 As a journalist you will always have the opportunity to review and request changes to the information we hold about you.
+We may change this Privacy Policy from time to time to align with changes to our business practices and/or changes to our legal requirements. We will post the updated Privacy Policy on this page and will indicate that the updates have been made by changing the effective date first written above. We urge you to check back periodically to see whether there have been updates to our Privacy Policy.
 
-13.7 If you no longer wish to be on the Media Database we will remove you from it. You may still receive other services (e.g. Media Alerts) even if you are no longer on the Media Database.
+Your continued use of the Services or communication with us about the Services after the updated Privacy Policy has been posted (or any other indication of your consent) will constitute your acceptance of the updated Privacy Policy.
 
-13.8 If, at any time, you wish to be removed from the Media Database, or if you would like to review your profile, please email us at [privacy@gorkana.com](mailto:privacy@gorkana.com).
+Please note that we may condition your continued access to our Services on your consent to changes to this Privacy Policy.
 
-**14\. Changes to the policy/ contact points**  
-14.1 Any changes that we make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
+**_Contact_**
 
-14.2 If you have any questions or concerns about how Gorkana handles your personal information, please contact our Data Protection Officer at [privacy@gorkana.com](mailto:privacy@gorkana.com).
+If you have questions, comments or requests relating to this Privacy Policy, or wish to opt out of any usage of your information as described herein, please e-mail us at [privacy@cision.com](mailto:privacy@cision.com) or write to us at:
 
-Last updated: May 2014
+Cision US, Inc.  
+Legal Dept. (Privacy)  
+12051 Indian Creek Court  
+Beltsville, MD 20705
+
+Or at
+
+Cision  
+5 Churchill Place  
+London E14 5HU
+
+**LAST UPDATED ON OCTOBER 3, 2018**
