@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panicaway.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615134004id_/http%3A//panicaway.com/word/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panicaway.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215051215id_/http%3A//www.panicaway.com/word/privacy) for the most accurate reproduction.*
 
 # Privacy – Panic Away
 
