@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totaljerkface.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610225111id_/http%3A//www.totaljerkface.com/privacy.tjf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaljerkface.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215052301id_/http%3A//www.totaljerkface.com/privacy.tjf) for the most accurate reproduction.*
 
 # Totaljerkface.com - Home Of Happy Wheels - Privacy
 
