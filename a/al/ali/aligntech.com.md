@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aligntech.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625022026id_/http%3A//www.aligntech.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aligntech.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215171423id_/http%3A//www.aligntech.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -121,7 +121,7 @@ If you are a user of Facebook, Twitter or other social media sites with public a
 
 By posting or otherwise making available any content about your Invisalign experience on a public social media platform, and responding “yes” if we ask for your permission to re-post content on our owned channels, such as Facebook ((<http://facebook.com/invisalign>), Pinterest (<http://pinterest.com/Invisalign>), Google+ (<http://google.com/+Invisalign>), YouTube (<http://youtube.com/invisalign> & <http://youtube.com/invisalignteen>), Twitter (<http://twitter.com/invisalign>), Instagram (<http://instagram.com/invisalign> & <http://instagram.com/invisalignteen>) Tumblr (<http://invisalignteen.tumblr.com/>), and others, you represent and warrant that you are thirteen (13) years of age or older and that you agree to the terms and conditions listed on our page on those websites.
 
-If a parent, guardian, or anyone else becomes aware of user generated content shared from an individual under the age of thirteen (13), please email us at [InvisalignTakedown@GoldPR.com](https://web.archive.org/web/20180625022026id_/http%3A//www.aligntech.com/InvisalignTakedown@GoldPR.com).
+If a parent, guardian, or anyone else becomes aware of user generated content shared from an individual under the age of thirteen (13), please email us at [InvisalignTakedown@GoldPR.com](https://web.archive.org/web/20181215171423id_/http%3A//www.aligntech.com/InvisalignTakedown@GoldPR.com).
 
 Back to Top
 
