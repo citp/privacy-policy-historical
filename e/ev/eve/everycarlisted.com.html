@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the everycarlisted.com privacy policy that was archived on 2018-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180614181515id_/http%3A//everycarlisted.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the everycarlisted.com privacy policy that was archived on 2018-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181215070235id_/http%3A//www.everycarlisted.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Stylesheets -->
-<link rel="stylesheet" type="text/css" href="http://content.everycarlisted.com/ecl/css/20150825-core.css-min.css">
+<link rel="stylesheet" type="text/css" href="https://content.everycarlisted.com/ecl/css/20150825-core.css-min.css">
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800">
-<link rel="icon" href="http://content.everycarlisted.com/ecl/images/favicon.ico">
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://content.everycarlisted.com/ecl/js/20150825-core.js-min.js"></script>
+<link rel="icon" href="https://content.everycarlisted.com/ecl/images/favicon.ico">
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://content.everycarlisted.com/ecl/js/20150825-core.js-min.js"></script>
 
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
@@ -32,12 +32,12 @@ $(document).ready(function(){
 </head>
 <body>
 <div class="container white-wrapper">	<div class="row white-wrapper">
-				<div class="text-center hidden-xs" style="padding: 10px 0px 10px 0px;">
-			<a href="https://acesecureapp.com/aWqF?aff_sub_id=ap00244" rel="nofollow"><img src="https://acesecureapp.com/images/728x90c.jpg" border="0"></a>
+				<div class="text-center" style="padding: 10px 0px 10px 0px;">
+			<a href="https://inbres.com/path/lp.php?trvid=10010&amp;trvx=2e32adb5&amp;ts=everycarlisted&amp;aff_sub=srp" target="_blank" rel="nofollow" class="ale-link" data-aff-sub="srp" data-res="728x90"><img src="/images/ale/ALE_728x90.png" width="728" height="90" class="img-responsive center-block" border="0"></a>
 		</div>
 				<div id="logo" class="col-sm-5">
 			<a href="http://www.everycarlisted.com/">
-				<img src="http://content.everycarlisted.com/ecl/images/logo.png" alt="everycarlistedlogo" class="img-responsive">
+				<img src="https://content.everycarlisted.com/ecl/images/logo.png" alt="everycarlistedlogo" class="img-responsive">
 			</a>
 		</div>
 		<div id="top-options" class="col-md-5 col-md-offset-2 col-sm-6 col-sm-offset-1 hidden-xs padding-top-15">
@@ -46,16 +46,16 @@ $(document).ready(function(){
 					<div id="socialFollowBar">
 						<a href="/dealerlogin" style="padding-right:8px; text-decoration:none; color:black;">Dealer Login</a>
 						<a href="https://twitter.com/everycarlisted" target="_blank">
-							<img src="http://content.everycarlisted.com/ecl/images/s_twitter.png" width="20" height="20" alt="Follow Us on Twitter!">
+							<img src="https://content.everycarlisted.com/ecl/images/s_twitter.png" width="20" height="20" alt="Follow Us on Twitter!">
 						</a>
 						<a href="https://www.facebook.com/EveryCarListed" target="_blank">
-							<img src="http://content.everycarlisted.com/ecl/images/s_facebook.png" width="20" height="20" alt="Like Us on Facebook!">
+							<img src="https://content.everycarlisted.com/ecl/images/s_facebook.png" width="20" height="20" alt="Like Us on Facebook!">
 						</a>
 						<a href="https://www.pinterest.com/everycarlisted/" target="_blank">
-							<img src="http://content.everycarlisted.com/ecl/images/s_pinterest.png" width="20" height="20" alt="Check Out EveryCarListed on Pinterest!">
+							<img src="https://content.everycarlisted.com/ecl/images/s_pinterest.png" width="20" height="20" alt="Check Out EveryCarListed on Pinterest!">
 						</a>
-						<a href="https://plus.google.com/share?url=http://www.everycarlisted.com/" target="_blank">
-							<img src="http://content.everycarlisted.com/ecl/images/s_googleplus.png" width="20" height="20" alt="Share EveryCarListed on Google+!">
+						<a href="https://plus.google.com/share?url=https://www.everycarlisted.com/" target="_blank">
+							<img src="https://content.everycarlisted.com/ecl/images/s_googleplus.png" width="20" height="20" alt="Share EveryCarListed on Google+!">
 						</a>
 					</div>
 				</div>
@@ -394,6 +394,22 @@ $(document).ready(function() {
 		event.preventDefault();
 		document.location.href = $(this).attr('action');
 	});
+
+	// Auto Loan Express (ALE) click-through
+	$('.ale-link').on('click', function(){
+		$.post(
+			'/link',
+			{
+				aff_sub: $(this).attr('data-aff-sub'),
+				img_res: $(this).attr('data-res'),
+				controller: 'site',
+				action: 'privacy'
+			},
+			function(){ return true; },
+			'json'
+		);
+		return true;
+	});
 });
 
 
@@ -461,7 +477,7 @@ _comscore.push({ c1: "2", c2: "17503305" });
 })();
 </script>
 <noscript>
-	<img src="http://b.scorecardresearch.com/p?c1=2&c2=17503305&cv=2.0&cj=1" />
+	<img src="https://sb.scorecardresearch.com/p?c1=2&c2=17503305&cv=2.0&cj=1" />
 </noscript>
 <!-- comScore Tag Ends -->
 <script type="text/javascript" src="https://a.vast.com/vimpressions.js"></script>
