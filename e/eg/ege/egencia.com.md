@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the egencia.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115061424id_/https%3A//www.egencia.com/public/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egencia.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215132338id_/https%3A//www.egencia.com/public/us/privacy) for the most accurate reproduction.*
 
-# Egencia privacy policy and terms of use | Egencia
+# Egencia privacy policy and terms of use - Egencia
 
 **PRIVACY POLICY**
 
@@ -19,7 +19,7 @@ This Privacy Statement sets out our information privacy practices as follows:
   * How you can access your information
   * External links
   * Where your data is stored
-  * EU-US Privacy Shields
+  * EU-US and Swiss-US Privacy Shields
   * Data Retention
   * Changes to this Privacy Statement
   * How to contact us
