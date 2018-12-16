@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chromecleanerpro.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607203522id_/http%3A//chromecleanerpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromecleanerpro.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216210539id_/http%3A//chromecleanerpro.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chrome Cleaner Pro
 
@@ -41,3 +41,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 ## Contact Us
 
 If there are any questions regarding this privacy policy you may contact us by email at [info@chromecleanerpro.com](mailto:info@chromecleanerpro.com). 
+
+Axel Division LP
