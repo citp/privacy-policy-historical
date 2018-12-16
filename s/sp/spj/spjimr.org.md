@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spjimr.org privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202085743id_/http%3A//www.spjimr.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spjimr.org privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216120018id_/http%3A//www.spjimr.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy | SPJIMR
 
@@ -30,4 +30,4 @@ This site has security measures in place to protect the loss, misuse and alterat
 
  **Contacting Us**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact us at [website.support@spjimr.org](https://web.archive.org/web/20171202085743id_/http%3A//www.spjimr.org/website.support@spjimr.org)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact us at [website.support@spjimr.org](mailto:website.support@spjimr.org)
