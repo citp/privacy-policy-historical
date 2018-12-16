@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paganspace.net privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610105108id_/http%3A//www.paganspace.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paganspace.net privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216164716id_/http%3A//www.paganspace.net/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PaganSpace.net The Social Network for the Occult Community
 
