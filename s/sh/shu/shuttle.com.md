@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shuttle.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617143940id_/http%3A//www.shuttle.com/Footer/PrivacyPolicy%3FLOCATION_Code%3DHQ) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shuttle.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216121852id_/http%3A//www.shuttle.com/Footer/PrivacyPolicy%3FLOCATION_Code%3DHQ) for the most accurate reproduction.*
 
 # Privacy Policy
 
