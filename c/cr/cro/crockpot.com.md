@@ -1,78 +1,153 @@
-> *The following text is extracted and transformed from the crockpot.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411195659id_/http%3A//www.crock-pot.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crockpot.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216181414id_/http%3A//www.crockpot.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at Crock-Pot.com.
+# Privacy Policy - Crock-Pot
 
-BY USING OR ACCESSING THIS WEBSITE YOU SIGNIFY YOUR ACKNOWLEDGMENT AND ASSENT TO THIS PRIVACY POLICY. PLEASE READ THIS POLICY CAREFULLY. IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE THIS WEBSITE.
+**Introduction**
 
-This policy is intended to help you understand how Newell Brands Inc., its subsidiaries and affiliates (collectively, "Newell Brands," "we" or "us") collect, use and safeguard the information you provide on this website. This policy covers this website and all Newell Brands websites except where otherwise indicated. Some Newell Brands websites may have policies that supplement this policy. We encourage you to read this policy and any supplemental policies on Newell Brands websites. In the event of any conflict between this policy and terms set forth in a supplemental policy, the latter will apply to the website on which such supplemental policy is posted.
+Crock-Pot is a trade mark of Sunbeam Products Inc, and is used by Sunbeam Corporation Limited under license. This privacy policy sets out how Sunbeam Corporation Limited Trading As Crockpot ( **Sunbeam** ) handles your personal information.
 
-## **Collection of Personal Information**
+Personal information is any information about you where your identity is apparent, or can reasonably be ascertained, from the information.
 
-If you browse any Newell Brands website, you may generally do so anonymously without providing any personal information. However, there are cases in which we may ask you for personal data. For example, we will occasionally conduct on-line surveys to better understand the needs and profile of our visitors. In addition, we may request personal information when you register to receive additional information regarding our products and services, download software, sign up for a newsletter or send us a question. In such cases, the personal information we request will typically consist of: your title, first and last name, mailing address and email address, as well as certain billing and credit card information for purposes of effecting payments. Additionally, we may provide you with the option of submitting information such as your birthday, anniversary date, information regarding the size and composition of your household and your preferred retailers, all of which are intended to enhance your experience, and inform you, of our product and service offerings Even if you choose not to give information we request, you can still visit most of the Newell Brands website, but you may be unable to access certain options, offers and services.
+Sunbeam’s privacy policy is based on openness. Where we request information from you, we will generally state the purpose(s) for its use and to whom it may be disclosed.
 
-## **Orders**
+Our website may contain links to third party websites.  We are not responsible for the privacy policies of any third party websites.  We recommend that you review the privacy policy of each website you visit.
 
-As noted above, when you place an order for a product or service, we need to know your name, e-mail address, mailing address, credit card number and expiration date. This personal information is required so that we can process and fulfill your order, send an order or shipping confirmation, as well as notify you of your order status. All Internet transactions with Newell Brands are performed on a secure server that encrypts your credit card information to ensure it is not read by unauthorized third parties.
+**  
+Collection of Personal Information**
 
-## **Newell Brands Mailings/Marketing Communications**
+The amount of personal information we collect about you depends on how you interact with us.  We will collect personal information from you if you:
 
-If you provide us with personal information, and choose to join a particular company's e-mail list, we will place you on that company's list to receive e-mail regarding product/service updates, special offers, important issues and new products and services from that company as well as other subsidiaries and affiliates of Newell Brands. The personal information that you provide to that particular company will be shared internally with other subsidiaries and affiliates of Newell Brands. If you do not wish to receive e-mail updates or other marketing communications from that particular company or other Newell Brands subsidiariesand affiliates, please contact us at the opt-out e-mail address specified below. 
+  * make a product or service enquiry;
+  * subscribe to one of our mailing lists;
+  * complete a product registration form or warranty card (as applicable);
+  * correspond with us, including on-line contacts or by email;
+  * complete an application or enter into an agreement;
+  * call our Customer Service line; or
+  * enter a promotion or competition.
 
-## **Sharing and Use of Personal Information**
 
-Personal information provided to us may be used for marketing and promotional purposes only by Newell Brands. Except as described in this policy, Newell Brands does not rent, sell or otherwise distribute to third parties, your personal information entered on this site without your consent, unless required by law or as disclosed to you when the information is collected. If you do provide us with consent to share your information with other third party companies, we may share your information with third party companies who offer products and services that may be of interest to you. These companies may then contact you directly with product or sample offers, personalized offers and information, or to ask for your feedback on products and programs that they think may be of interest to you.
 
-We may share your personal information with our third party service providers on a need-to-know basis. We engage third party service providers to perform certain services on our behalf. In order to perform those services, the service providers may need to know your personal information. We require that they protect this information and only use it to perform services on our behalf. For example, we may use outside shipping companies, credit card processing companies, resellers, distributors and content providers.
+The type of personal information you may provide to us includes your name, address, email address, telephone, mobile phone number, facsimile number, or business name
 
-Additionally, we may share statistical, anonymized or aggregated non-personal information about our users with advertisers, business partners, sponsors and other third parties. This data is used to customize Newell Brands website content and advertising to deliver a better experience to our users.
+If you choose to share any content with another person, we will ask you to provide a valid email address for that person.
 
-## **Special Cases**
+By providing your personal information to Sunbeam in this way, including by completing on-line forms and email, you agree to the collection of that information in accordance with this privacy policy.
 
-Newell Brands reserves the right to disclose user information in special cases, when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other Newell Brands website users or anyone else that could be harmed by such activities. We may disclose personal information without notice to you in response to a subpoena or when we believe in good faith that the law requires it or to respond to an emergency situation. We also may disclose personal information as part of a merger or acquisition.
+We collect personal information from you for a number of reasons, including to:
 
-## **Transfer of Personal Information**
+  * improve our service;
+  * send you direct marketing material by email regarding our Crockpot and Sunbeam products;
+  * respond to your questions or requests for information;
+  * manage warranty claims and provide after sales service;
+  * assist us forecast the future demand for our products and services;
+  * analyse our website usage;
+  * enhance the content of our website;
+  * keep a record of our dealings with each other; and
+  * comply with legal obligations.
 
-Depending on the country in which you are located, your personal information may be transferred to another country for data storage and processing. When we transfer personal information, we use commercially reasonable efforts to transfer the information in compliance with all applicable data protection laws.
 
-## **Cookies and IP Tracking**
 
-This site may use cookies for site administration purposes. If for any reason you wish to not take advantage of cookies, you may have your browser not accept them, although this may disable or render unusable some of the features of the Newell Brands website.
+If you do not provide us with your personal information, we may not be able to provide you with these services.
 
-This website also may detect and use your IP address or domain name for internal traffic monitoring and capacity purposes or to otherwise administer our website. No personal information is obtained; rather, just the patterns of usage of our various users may be tracked to provide you with improved service and content based on aggregate or statistical reviews of user site traffic patterns.
+If you choose to use our website to share content with another person, we will use the recipient’s email address to provide that service, but will not use that email address for any other purpose.
 
-## **Other Analytic Tools**
+Sunbeam’s direct marketing communications include sending you information about new developments, products, services and special offers of Crockpot or Sunbeam products by post, telephone or any form of electronic communication. You authorise us to use any email address or other contact information you provide to us at any time for this purpose.
 
-We may use Google Analytics and other analytic tools to gather aggregate, non-identifiable information. Such tools enable us to gather information such as what pages people visit, which products they look at, what device they use and where they are located. Additionally, we currently use CRM tools as part of our CRM program, which allows us to register users on our website and better understand what content they are browsing and which products are of interest to them for ranking and marketing purposes. 
+**  
+Credit Reporting Information**
 
-## **Do-Not-Track**
+Sunbeam also collects financial and trading information from customers in order to establish and manage business and customer relationships. This information is securely held for internal accounting and administration purposes associated with the provision of products and services (including the extension of commercial credit) to customers and in order to enhance our business relationship and level of service.
 
-Currently, (i) other parties (e.g. third-party advertising networks and analytics providers) may not collect personal information about your online activities over time and across different websites when you use our website or services, and (ii) we do not respond to, or take any specific action in connection with the receipt of, Do-Not-Track signals or other similar mechanisms regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party websites or online services.
+Collection of commercial credit information is undertaken only with consent. To complete an application to open an account or extend commercial credit we may ask you to provide information including your: business structure, trading history, details and value of trading premises, plant and equipment and forms of security over these assets.
 
-## **Policies for Children**
+Sunbeam may receive commercial credit information about you from a credit reporting body (currently Veda), or trade referees provided by you. Sunbeam may also disclose limited commercial credit information about you to third parties where you have nominated Sunbeam as a trade reference, solely to fulfil this purpose. Commercial credit information will only be used to assess your credit worthiness. It will not be used for the purposes of pre-screening of direct marketing by a credit provider, and will not be disclosed to entities outside Australia and New Zealand.
 
-Generally, our websites are not intended for children under the age of 13 and we do not knowingly collect information from children under such age; moreover, Newell Brands encourages parents and guardians to monitor and participate in their children's online activities. However, certain of our websites may be directed to such children and, in such cases, the privacy policy for such website will state this, and we shall use commercially reasonable efforts to comply with all applicable laws intended to protect such children, including the Children’s Online Privacy Protection Act of 1998. Unless you are viewing a website directed specifically to children, no information should be submitted to this site by users under 13 years of age, and users under 13 years of age are not allowed to register for newsletters, clubs or activities. In addition, users under 18 years of age are not allowed to make purchases or participate in contests, except for those specifically directed to children. Where appropriate, Newell Brands may ask you to indicate your age to verify compliance with these policies.
+To the extent that the customer is an unincorporated entity, this is personal information covered by this policy. Information about corporate customers, which is about an identifiable person, is also personal information covered by this policy. Sunbeam does not have a practice of collecting or holding consumer credit information covered by the Credit Reporting Privacy Code.
 
-## **Linked Sites**
+Enquiries for access to or correction of commercial credit information or credit eligibility information, or complaints about the failure of Sunbeam to comply with the Privacy Act 1988 (Cth) or the Credit Reporting Privacy Code (if this binds Sunbeam), can be made as set out below under “Access and Correction” and “Queries and Complaints”. ** **  
+**Rate and review**  
+If you provide a review or rating for a product using the Crockpot website, we reserve the right to publish part or all of your review or rating on our website, together with your first name and suburb.
 
-Please be advised that this website may contain links to third party websites. The linked sites are not under the control of Newell Brands, and we are not responsible for the content, or privacy practices or other activities of any linked site or any link on a linked site.
+**  
+Disclosure to Third Parties**
 
-## **Changes to the Privacy Policy**
+Sunbeam recognises the trust you place in us when you give us your personal information and so will not give your personal information to third parties unless:
 
-Newell Brands reserves the right to change or update this policy, or any other policy or practice, at any time. We will provide individuals who have submitted personal information to us with reasonable notice of material changes to this website. Additionally, you are encouraged from time to time to review any updated versions of this policy, as indicated by the effective date of this policy set forth below. Any changes or updates will be effective immediately upon posting to the Newell Brands site. Your use of this website after such changes or updates have been posted signifies your acceptance of the changed terms.
+  * you have given us your consent to do so;
+  * it is necessary for us to do so to fulfil the primary purpose(s) for which we collected your personal information;
+  * you would reasonably expect us to disclose it for a related purpose; or
+  * we are required to do so by law.
 
-## **Changes to your Personal Information**
 
-In case you have questions about this policy or our related practices, or wish to review, update or delete personal information about yourself submitted to or collected by us, we will endeavor to answer such questions, facilitate such review and correct, update or remove the personal data in question, as requested. In such case, please contact us via the contact points specified below:
 
-## **Ethics and Compliance Team**
+The third parties we will typically share your personal information with include companies in our own corporate group (including Sunbeam New Zealand and related Sunbeam entities in the US and Asia), your authorised representatives and service providers which we use to conduct our business, functions and activities. These organisations may be involved or conduct:
 
-Newell Brands Inc.  
-6655 Peachtree Dunwoody Road  
-Atlanta, Georgia 30328  
-[privacy@newellco.com](mailto:privacy@newellco.com)
+  * mailing, shipping or courier operations;
+  * information technology services;
+  * legal, auditing, accountancy or other professional services;
+  * credit reporting services;
+  * promotions and competitions;
+  * repair, installation or maintenance services;
+  * insurance services;
+  * market research
+  * billing and debt collecting functions
+  * website usage analysis
 
-Additionally, if you would like your e-mail address removed from our database, please send an e-mail to [optout@newellco.com](mailto:optout@newellco.com), and type the word "Remove" in the subject line. 
 
-Please note that questions about our products and services should not be directed to privacy@newellco.com or [optout@newellco.com](mailto:optout@newellco.com) and will not receive a reply. 
 
-Effective Date: This policy is effective as of December 16, 2016. 
+We will take reasonable steps to ensure that your personal information is disclosed to such third parties only in accordance with this privacy policy and on a confidential basis.
+
+**Information Transfer**
+
+If we disclose personal information in countries outside Australia & New Zealand, we will only do so in compliance with all applicable Australian and New Zealand data protection and privacy laws and if we reasonably believe that the information will remain subject to principles for fair handling of the information which are substantially similar to the applicable Australian & New Zealand privacy laws.  Some of Sunbeam’s data is stored in servers located outside Australia & New Zealand – in countries such as the United States and Japan.
+
+**  
+Website data and cookies**
+
+When you visit our website, we collect your server address, domain name and information regarding the pages which you visit and links that you click on.  This information is used for statistical and website development purposes only.
+
+A cookie is a piece of information that our web server may transfer to your hard drive for record-keeping purposes. The cookie is stored on your computer, but does not identify you or give us any information about your computer. Cookies can facilitate your ongoing access to and use of our website. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature. But you should note that cookies may be necessary to provide you with features such as browser history, merchandise transactions or registered services.
+
+**  
+Sensitive Information**
+
+We will only collect sensitive information from you relating to race, ethnic origin, membership of political bodies, religion or trade unions, sexual preferences or activities, criminal record, state of health and medical history with your consent and only use it for the purposes for which it is provided.  We do not typically collect such information.
+
+**  
+Security**
+
+The security of your personal information is of great importance to us, and we take reasonable steps to:
+
+  * keep your personal information secure in a combination of secure computer storage, hard copy files and other access-controlled records; and
+  * ensure your personal information is protected from misuse, interference, loss and from unauthorised access, modification or disclosure.
+
+
+
+You can help us keep your information secure by keeping any user names, passwords or profiles used on our website confidential.
+
+We will endeavour to destroy or de-identify your personal information when it is no longer needed for the purpose for which it was provided, unless a legal exception applies.
+
+**Access**
+
+We will take all reasonable steps to ensure that your personal information which we collect, use or disclose is relevant, accurate, complete and up-to-date. We appreciate you assisting us by letting us know if your personal information has changed.
+
+You have a right of access to most personal information we hold about you and the right to correct or update your personal information.  This right is subject to certain exceptions allowed by law.  To request access, please contact our privacy officer, whose contact details are set out below. We will need to verify your identity before meeting your request, which we may require in writing, and we will process it in a reasonable time.
+
+**  
+Queries and complaints**
+
+If you have any queries relating to our privacy policy, you have a concern or believe that a breach of this privacy policy may have occurred, you may contact our privacy policy by email, post or telephone as follows:
+
+The Privacy Officer  
+Sunbeam Corporation Limited  
+Unit 5-6, 13 Lord Street  
+Botany NSW 2019  
+P: (02) 9695 9991  
+E: privacyofficer@sunbeam.com.au
+
+If we become aware of any ongoing concerns or problems, we will take these issues seriously and work to address these concerns with you.  If, however, you are not satisfied with our response, you may contact the Office of the Australian Information Commissioner on 1300 363 992 or the Office of New Zealand Privacy Commissioner on 0800 803909.
+
+**  
+Updates**
+
+From time to time, Sunbeam’s policies will be reviewed and may be revised.  We reserve the right to change this privacy policy at any time and notify you by posting an updated version on our website at www.crockpot.com.au & www.crockpot.co.nz. You will be deemed to have consented to such variations by your continued use of the site or our services following such changes being made.
