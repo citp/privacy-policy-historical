@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614105506id_/https%3A//www.theaa.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216121352id_/https%3A//www.theaa.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | AA
 
@@ -31,7 +31,7 @@ We may change this privacy notice from time to time by updating this page in ord
 
 **The AA plc and our Data Protection Officer**
 
-We’re the AA PLC, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA. We are a data controller of your personal data. The AA company or companies which provide your product or service are named at the start of these terms and conditions. The AA Group of companies means AA PLC, together with any entity in which AA PLC directly or indirectly has at least a 50% shareholding and where we act in support of the AA Charitable Trust for Road Safety and the Environment. 
+We’re the AA PLC, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA. We are a data controller of your personal data. If you have a product or service with us, the AA company or companies which provide that product or service is the data controller and they are named in your product or service terms and conditions (usually at the start). The AA Group of companies means AA PLC, together with any entity in which AA PLC directly or indirectly has at least a 50% shareholding and where we act in support of the AA Charitable Trust for Road Safety and the Environment. 
 
 We have a dedicated data protection officer (“DPO”). You can contact the DPO using the details below or by writing to the above address, marking it for the attention of the DPO or going to [Contact Us](https://web.archive.org/help-support/contact-us).
 
@@ -173,7 +173,7 @@ a) Processing of your special categories of personal data such as about your hea
 We may share information with the following third parties for the purposes listed above:
 
   * AA Group companies and service providers
-  * Business partners (for example, financial services institutions, insurers), account beneficiaries, or others who are a part of providing your products and services or operating our business
+  * Business partners (for example, financial services institutions, insurers), account beneficiaries, or others who are a part of providing your products and services or operating our business including the Bank of Ireland (UK) plc, Northridge NIIB Group Ltd, trading as Northridge Finance and Marshall Leasing Ltd, trading as Marshall Leasing.
   * Governmental and regulatory bodies such as HMRC, the Financial Conduct Authority, the Prudential Regulation Authority, the Ombudsman, the Information Commissioner’s Office and under the Financial Services Compensation Scheme
   * Other organisations and businesses who provide services to us such as debt recovery agencies, back up and server hosting providers, IT software and maintenance providers, document storage providers and suppliers of other back office functions
   * Credit Reference and Fraud Prevention Agencies (see below)
