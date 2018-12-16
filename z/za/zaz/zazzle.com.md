@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zazzle.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623003556id_/https%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazzle.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216233428id_/https%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
 
 # Zazzle Privacy Policy
 
@@ -166,7 +166,7 @@ Unless stated otherwise, our current Privacy Policy applies to all information t
   * [User Agreement](https://www.zazzle.com/mk/policy/user_agreement)
   * [Privacy Policy](https://www.zazzle.com/mk/policy/privacy_policy)
   * [Designer License Agreement](https://www.zazzle.com/mk/policy/designer_license_agreement)
-  * [Zazzle Custom Stamps™ Agreement](https://www.zazzle.com/mk/policy/zazzle_custom_stamps_agreement)
+  * [PhotoStamps by Stamps.com Eligibility Criteria](https://www.zazzle.com/mk/policy/zazzle_custom_stamps_agreement)
   * [Volume Bonus Agreement](https://www.zazzle.com/mk/policy/volume_bonus_agreement)
   * [Associates Agreement](https://www.zazzle.com/mk/policy/associates_agreement)
   * [Shipping & Returns](https://www.zazzle.com/mk/policy/shippingreturns)
