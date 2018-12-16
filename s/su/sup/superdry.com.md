@@ -1,143 +1,127 @@
-> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115125400id_/https%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216160423id_/https%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Superdry
 
-Dedicated website helpline: +44 (0)333 3212222
-
 ### privacy policy
 
-superdry.com take your privacy very seriously and treat all your personal information as confidential. To find out more please click on the links to the left.
-
-### cookie consent
-
-A cookie is a small information file that is sent to your computer, mobile or other device when you visit a website and it will recognise your device on future visits. These types of files do a number of different jobs such as remembering your preferences and chosen items, assisting you to improve your site experience as well as trying to ensure that the adverts or offers you see online are more relevant to you. These "cookies" can be divided into 4 types each of which is outlined below.
-
-Category 1: Strictly Necessary Cookies
-
-These cookies are essential in order to enable the site to provide services you have asked for such as remembering your shopping bag items.
-
-Category 2: Performance Cookies
-
-This type collect anonymous information on how people use the site and the data is merged with other users to enable us to improve how the site operates. For example we utilise Google Analytics cookies to help us understand how customers arrive at our site, browse or use our site and highlight areas where we can improve areas such as navigation, shopping experience and marketing campaigns. The data stored by these cookies never shows personal details from which your individual identity can be established.
-
-Category 3: Functionality Cookies
-
-These remember choices you make such as language, search parameters such as size, colour or product line. These can then be used to provide you with an experience more appropriate with your selections and make the visits more tailored and pleasant. The information is also merged with other users on an anonymous basis to enable us to improve how the site operates. For example our Saved Items feature utilises a cookie to remember the products which you have expressed a wish to save whilst browsing our website.
-
-Category 4: Targeting Cookies or Advertising Cookies
-
-These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests. They remember the websites you have visited and that information is shared with other parties such as advertisers. For example we use 3rd party companies such as Criteo to provide you with more personalised adverts when visiting other websites.
-
-You can change the settings on your browser to prevent cookies being stored on your computer or mobile device without your explicit consent. Your browser "help" section will normally provide details on how to manage the cookie settings.
+Superdry takes your privacy very seriously and treats all your personal information as confidential. This privacy policy sets out how we treat your personal information and what we use it for. This policy applies whether you contact us through our website or through a store, promotion or any other channel.
 
 ### information about us
 
-For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is SuperGroup Internet Limited (we, our, us). We are registered in England and Wales under company number 07139044. Our registered office is at Unit 60, The Runnings, Cheltenham, Gloucestershire GL51 9NW.
-
-superdry.com is an online trading entity of SuperGroup Internet Limited, which is itself a trading company of SuperGroup Plc, (these companies, together with C-Retail Limited (Trading as Cult Retail); DKH Retail Limited (Trading as Laundry Athletics); Supergroup Retail Ireland Limited; Supergroup Concessions Limited and SuperGroup International Limited comprise the “Group”).
-
-### your information
-
-We will only use information about you in accordance with this Privacy Policy. By using our site or blog, you consent to such processing.
+Superdry is the trading name of the Superdry plc group of companies. Superdry plc or SuperGroup Internet Ltd is the data controller responsible for protecting personal information you provide to us. Both are an English companies, whose address is Unit 60, The Runnings, Cheltenham, Gloucestershire GL51 9NW, United Kingdom.
 
 ### information collected
 
-When setting up an account, you will be asked to provide us with your name, billing address and delivery address details, your email address, telephone number and a password. We will also require your credit/debit card details, when you are placing an order.
+Website: When you place an order or set up an account through one of our Superdry websites, SuperGroup Internet Ltd will collect your name, billing address, delivery address, contact details (including email and telephone numbers), gender and password. We will also keep details of all of your orders. We will collect information about your use of our website. We do not hold your payment card details. Financial transactions take place directly and securely with our payment provider.
 
-When commenting on our blog, you will be asked to provide your name and email address. We may also collect any information (e.g. your age) that you publish on our blog.
+E-receipts: If you sign up to receive e-receipts in a Superdry store, Superdry plc will collect your name, email address, home address, date of birth and gender. If you are an existing website customer, we will link this information through to your information held by SuperGroup Internet Ltd above so that you have one customer profile with us.
 
-We may also collect information about you such as your name, address and contact details where you enter a competition or prize-draw we are operating.
+Competitions, promotions: If you enter a competition or promotion we are running, Superdry plc may ask you to provide your name, email address, home address and gender.
 
-We may obtain information about your usage of our site to help us develop and improve it further.
+Customer services: If you contact our customer services representatives, Superdry plc will ask you to provide your name, email address and home address, and the reasons for contacting us.
 
-### what do we use your information for?
+Opting into direct marketing: When you contact us through any of these channels, we will ask you whether you want to opt into receiving our newsletter and other marketing communications from us. If you decide to opt in, SuperGroup Internet Ltd will record this opt in on your customer profile.
 
-We use your information for the following purposes:
+### what we use your information for
 
-  * We might target Superdry banners and ads to you when you are on other websites. We do this by sharing your email address with a variety of carefully selected social media platforms and third party partners. We use advertising technologies including: beacons; pixels; ad tags; cookies; and unique identifiers to target banners and ads to you. These banners and ads may be based on the content you have read and the products you have viewed online, or messaging and ads that you may have previously clicked on. 
-  * To serve website content to you
-  * To handle orders, deliver products, process payments and refunds and provide statements
-  * To communicate with you about your orders
-  * To provide your e-receipt to you
-  * To update our records and generally maintain your account with us
-  * If you contact us, we may keep a record of that correspondence and your contact details
-  * For our statistical or survey purposes to improve our site and blog and our services to you.
-  * To prevent or detect fraud or abuses of our site and enable third parties to carry out technical, logistical or other functions on our behalf
-  * To contact you by email, post, or telephone, to ask you for feedback and comments on our services
-  * If you consent, to notify you by email of Group products, promotions, competitions and special offers that may be of interest to you.
-  * Provide our blog to you and other users and to allow you to use and comment on our blog. 
-  * For our statistical, survey and customer service purposes to improve our site and blog and our services to you and other customers. 
+Web: When you place an order or set up an account through one of our Superdry websites, we will use your personal data to:
+
+  * process your orders, communicate with you about your orders, and deliver your products; 
+  * update our records and maintain your account with us; 
+  * prevent or detect fraud; 
+  * ask for feedback on our products, website and services; 
+  * conduct market research; 
+  * monitor your browsing history within our website so that we can (i) provide you with information and suggestions to help you to improve your browsing experience; and (ii) improve our website and any services we offer to you or the public.
 
 
+
+E-receipts: If you sign up to receive e-receipts in a Superdry store, we will use your personal data to send you an electronic receipt for the products you purchase in-store.
+
+Competitions, promotions: If you enter a competition or promotion, we will use your personal data to administer the competition or promotion.
+
+Customer services: If you contact our customer services representatives, we will use your personal data to investigate and resolve your query.
+
+Direct marketing: If you have opted in to receive marketing communications from us, we will use your personal data to notify you of Superdry products, promotions, competitions and special offers that may be of interest to you. These notifications will be sent to you online (either by email as a newsletter, or by social media or search engine as banners or adverts).
+
+### How Long We Keep Your Information For
+
+We will keep your information for the following periods of time:
+
+Web: If you set up an account through one of our Superdry websites, we will retain your personal data within the website for three years after your last order. If you use a guest check out without setting up an account, we will retain your personal data within the website database for 90 days. Data relating to each of your orders will be kept for seven years.
+
+E-receipts: If you sign up to receive e-receipts in a Superdry store, we will retain your personal data for seven years.
+
+Competitions, promotions: If you enter a competition or promotion, we will delete your personal data as soon as we have completed the competition or promotion.
+
+Customer services: If you contact our customer services representatives, we retain your personal data for seven years.
+
+### How To Opt Out
+
+If you have opted in to receiving marketing communications from us, you can opt out at any time by:
+
+  * emailing us at [care@superdry.com](mailto:care@superdry.com) with the word "unsubscribe" in the subject line; 
+  * clicking on "unsubscribe" on any marketing email you receive from us; or 
+  * logging into "My Account" on the website and editing your account details.
+
+
+
+Please allow up to 5 days for unsubscribe requests to be processed.
+
+For guidance on how to turn off cookies, see section 8. Cookies below.
 
 ### disclosure of your information
 
-We may disclose your information to members of our Group for the purposes listed above. 
+We may share your personal data with any company within the SuperGroup plc group of companies for the purposes listed in this policy.
 
-We will not disclose your information to any third party outside of the Group except under the following limited circumstances.
+We will not disclose your personal information to any third party except as follows:
 
-We may disclose your personal information to carefully selected service providers and agents who operate elements of our web site service and process data on our behalf. These may include businesses who provide technology services such as hosting for our servers and email distribution and business partners who provide delivery fulfilment services.
-
-From time to time we may also provide your information to social media platforms, carefully selected third parties and customer service agencies for research and analysis purposes, so that we can monitor and improve our services, products and marketing communications. These third parties may help us or complete research and insight on our behalf.
-
-Where such disclosures are made, this will be under contractual arrangements with us and carried out in accordance with the requirements of the Act.
-
-We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us develop the website and our services and may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual
-
-In assessing your request for goods or services, we may use your information for the purposes of the prevention and detection of fraud.
-
-We may also disclose your personal information to our subsidiaries and affiliated companies and any successors in title to our business.
-
-We do not hold your credit card details. Financial transactions take place directly and securely with our payment handling provider.
-
-If you believe your details are incorrect you can amend your details by logging onto your ‘My Account’ on our site.
-
-### direct marketing and newsletter
-
-You may sign up to our Newsletter by ticking the appropriate box during registration, or separately on our Newsletter sign up page if you do not wish to establish an account yet. If you wish to unsubscribe from our Newsletter contact list, you should:
-
-  * e-mail us at [care@superdry.com](mailto:care@superdry.com) with the word "unsubscribe" in the subject line.
-  * click on "unsubscribe" at the bottom of the email
-  * log into "My Account" on the website and edit your account details
+  * If you have opted in to receiving marketing communications, we may share your information our third party service providers who provide email distribution services or with social media companies providing digital marketing services. 
+  * We will provide your personal data to our business partners who provide, ordering, logistics, fulfilment, and other services in order to process your orders, deliver your products, and provide customer care. 
+  * We may provide your personal data to agencies undertaking market research and analysis on our behalf. They may contact you by email or telephone to ask you for your feedback and comments on our products, website and services.
 
 
 
-Please allow up to 5 days for unsubscribe requests to be processed
+All of these disclosures would be made under contractual arrangements to ensure confidentiality, and carried out in accordance with the requirements of the relevant Data Protection regulations.
 
-We sometimes run offers and promotions exclusive to newsletter subscribers, to understand if unsubscribing will affect your eligibility please read the terms and condition of the promotion you have entered. 
-
-### protecting your information
-
-Our site uses up-to-date industry procedures to protect your personal information. We also protect the security of your data during transmission using Secure Sockets Layer (SSL) encryption software. Further information on our security practices can be found by clicking on the following link: [information page](http://www.superdry.com/faqs).
-
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you via our site.
-
-### access to information
-
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You can exercise this right at any time by contacting us at [care@superdry.com](mailto:care@superdry.com).
+We may also use aggregated information and statistics for the purposes of monitoring website usage in order to help us develop the website and our services. We may provide such aggregated information to third parties, but these statistics will not include information that can be used to identify any individual.
 
 ### cookies
 
-A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser. We use cookies to keep track of your current shopping session, to personalise your experience and to store items in your shopping bag.
+A cookie is a small piece of information sent to your computer, mobile or other device when you visit a website. Cookies are sent by a web server to a web browser, to enable the server to collect information from the browser and recognise your device on future visits.
 
-Most browsers allow you to turn off cookies. If you want to know how to do this please look at the help menu on your browser. However, if you do not accept cookies your user experience on our site may be affected and you will be unable to purchase products from our site.
+When you first visit our website you will be asked if you accept our cookies. We use cookies to keep track of your current shopping session, to personalise your experience, to store items in your shopping bag, and trying to ensure that the adverts or offers you see online are more relevant to you.
 
-### third party services
-
-We may from time to time make available through our site certain services provided by third parties. To gain access to these services, you must register with these third parties and deal with them direct. Please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-### changes to our privacy policy
-
-To make changes easier to follow, we’ve summerised below the key points:
-
-  * We want to make it easier to share new products, promotions and brand content. We might do this by targeting Superdry banners and ads to you when you are on other websites. 
-  * We want to understand you better, so that we can improve our services, products and marketing communications. From time to time we may provide your information to social media platforms, carefully selected third parties and customer service agencies for research and analysis purposes. 
-  * We want to delight our followers which means some offers, promotions and events may be exclusive to email subscribers.
+  * If you click to accept cookies, you are opting-in to SuperGroup Internet Ltd using your personal information for these purposes. 
+  * If you do not accept our cookies, the functionality of our website will be severely limited.
 
 
 
-Please read privacy policy for full details and examples.
+Most browsers allow you to turn off cookies. If you want to know how to do this, look at the help menu on your browser. However, if you do not accept cookies your user experience on our website may be affected and you will be unable to purchase products from our website.
 
-### contact
+Cookies can be divided into four types:
 
-If you have any questions, comments or requests regarding this Privacy Policy, we will be happy to answer them - [care@superdry.com](mailto:care@superdry.com).
+Category 1: Strictly Necessary Cookies
+
+These cookies are essential for the website to provide services you have asked for such as remembering your shopping bag items.
+
+Category 2: Performance Cookies
+
+This type collect anonymous information on how people use our website and the data is merged with other users to enable us to improve how the website operates. For example, we utilise Google Analytics cookies to help us understand how customers arrive at our website, browse or use our website and highlight areas where we can improve areas such as navigation, shopping experience and marketing campaigns. The data stored by these cookies never shows personal details from which your individual identity can be established.
+
+Category 3: Functionality Cookies 
+
+These remember choices you make such as language, search parameters such as size, colour or product line. These can then be used to provide you with an experience more appropriate with your selections and make the visits more tailored and pleasant. The information is also merged with other users on an anonymous basis to enable us to improve how the website operates. For example our Saved Items feature utilises a cookie to remember the products which you have expressed a wish to save whilst browsing our website.
+
+Category 4: Targeting Cookies or Advertising Cookies
+
+These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests. They remember the websites you have visited and that information is shared with other parties such as advertisers. For example we use third party companies such as Criteo to provide you with more personalised adverts when visiting other websites.
+
+### protecting your information
+
+Our website uses up-to-date industry procedures to protect your personal information. We also protect the security of your data during transmission using Secure Sockets Layer (SSL) encryption software.
+
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you.
+
+### access, correcting and deleting your information
+
+If you would like to access information we hold about you, or would like us to correct or delete your information please contact us at [care@superdry.com](mailto:care@superdry.com) If you ask us to delete information, please be aware that we are entitled to keep a record of our transactions with you for legal and audit purposes, which we will retain for the period set out in section 5. How Long We Keep Your Information For.
