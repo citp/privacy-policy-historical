@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetozkids.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604074138id_/http%3A//www.planetozkids.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetozkids.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216111549id_/http%3A//www.planetozkids.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Planet Ozkids - A world of learning, fun and games for kids
 
@@ -6,7 +6,7 @@ The policies below are applicable to Ozkids.com and Planet Ozkkids.com and other
 
 #### The Legal Stuff
 
-By using our website, you confirm that you agree to our [terms and conditions of use](https://web.archive.org/web/20180604074138id_/http%3A//www.planetozkids.com/Terms_of_Use/terms_of_use.html) and the terms of our privacy policy, described below. We also reserve the right, at our soul discretion, to make additions, deletions, or other changes to our terms of use and privacy policy at any time. It is your responsibility to periodically check these terms for any changes. Continuing to use Planet Ozkids On-line following the publishing of these changes means you accept the changes. 
+By using our website, you confirm that you agree to our [terms and conditions of use](https://web.archive.org/web/20181216111549id_/http%3A//www.planetozkids.com/Terms_of_Use/terms_of_use.html) and the terms of our privacy policy, described below. We also reserve the right, at our soul discretion, to make additions, deletions, or other changes to our terms of use and privacy policy at any time. It is your responsibility to periodically check these terms for any changes. Continuing to use Planet Ozkids On-line following the publishing of these changes means you accept the changes. 
 
 Sorry about all the legal stuff but we have to protect our copyrighted material – and most importantly, keep our website fun and safe to use for the kids and their parents and teachers visiting this site.
 
@@ -32,9 +32,9 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 By using this site, you signify your assent to the Word Design Interactive Pty. Ltd. Privacy Policy. If you do not agree to this policy, please do not use our site. 
 
-Please also read our [Terms and Conditions of Use.](https://web.archive.org/web/20180604074138id_/http%3A//www.planetozkids.com/Terms_of_Use/terms_of_use.html)
+Please also read our [Terms and Conditions of Use.](https://web.archive.org/web/20181216111549id_/http%3A//www.planetozkids.com/Terms_of_Use/terms_of_use.html)
 
-If you have any questions regarding our Privacy Policy, please [contact us.](https://web.archive.org/web/20180604074138id_/http%3A//www.planetozkids.com/About_Site/contact.html)
+If you have any questions regarding our Privacy Policy, please [contact us.](https://web.archive.org/web/20181216111549id_/http%3A//www.planetozkids.com/About_Site/contact.html)
 
 Bob Smith  
 Planet Ozkids
