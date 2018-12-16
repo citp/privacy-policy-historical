@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novastor.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616182644id_/http%3A//novastor.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novastor.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216061514id_/http%3A//novastor.com/en/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NovaStor
 
@@ -155,6 +155,6 @@ If you have questions regarding this statement, you should first contact us.
 
 ##### Contacting Us
 
-NovaStor welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](https://web.archive.org/web/20180616182644id_/http%3A//novastor.com/en/company/contact). 
+NovaStor welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](https://web.archive.org/web/20181216061514id_/http%3A//novastor.com/en/company/contact). 
 
-For further Information on NovaStor offices, please go to our [contact page. ](https://web.archive.org/web/20180616182644id_/http%3A//novastor.com/en/company/contact)
+For further Information on NovaStor offices, please go to our [contact page. ](https://web.archive.org/web/20181216061514id_/http%3A//novastor.com/en/company/contact)
