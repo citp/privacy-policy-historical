@@ -1,111 +1,153 @@
-> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203091146id_/https%3A//www.crash.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216081657id_/http%3A//cmg.london/privacy-policy) for the most accurate reproduction.*
 
-# | Crash
+# Privacy Policy | CMG
 
-This Privacy Policy explains the practices employed by CMG (UK) Ltd in collecting and using your information and the ways in which you can influence these. This Privacy Policy relates to websites operated from time to time by CMG (UK) Ltd.
+**To see our cookie policy please[click here](https://web.archive.org/web/20181216081657id_/http%3A//cmg.london/cookie-policy)**
 
-CMG (UK) Ltd will collect various types of information about you through your use of our websites to process your requests and orders, to provide a more personalised web and shopping experience and to help us improve the services we offer. In doing this we may also collect anonymous information about you through the use of cookies. CMG (UK) Ltd will be the Data Controller of any personal data we collect about you.
+**Crash Media Group - Privacy Policy**
 
-## What information do we collect about you?
+Crash Media is a company that is registered in the UK with Company Number 3729433 and with a registered address at Crash Media Group, 78-80 St John's Street, London, EC1M 4EH. 
 
-Through CMG (UK) Ltd websites you can, amongst other things, order products and services, enter competitions, subscribe to our publications, vote in polls, play games, complete surveys and place postings on forums.
+**Our Data Promise to you**
 
-In order to process your requests and orders and other activities, it may be necessary to collect personally identifiable information about you. The type of personally identifiable information that may be collected includes, but is not limited to: your name, address, e-mail address, telephone number, and credit/debit card information. You may also be asked to provide additional (non-mandatory) pieces of information for our research purposes or choose to provide information by making a posting on a forum.
+Crash Media Group is absolutely committed to respecting and protecting your data whilst it is in our care. We collect your personal information because it helps us to understand your needs and guides the way in which we interact and communicate with you about our products and services now and in the future. We have strict policies and procedures in place to protect your data when you send it to us, when we process it in order to provide you with the services you have requested or, where you have given us your permission to do so, to send you information that we think you'll find interesting, and thereafter when we store your data on our secure servers. 
 
-In addition, we may collect anonymous information about you and your website usage through the use of cookies. Such information will not be personally identifiable to you. If you choose, you may opt out of allowing our cookies to collect information about you. For further information please go to the section on cookies below.
+We are notified with the Information Commissioner's Office, the regulator of the Data Protection Act 1998 and abide by its requirements. 
 
-Some CMG (UK) Ltd websites offer services that require you to set up an account prior to receiving such services. To create a secure account you may use your email address and a password or, if the CMG (UK) Ltd website offers a Facebook single-sign-on service, you will be able to register for and log in to your CMG (UK) Ltd website account using your Facebook account.
+**What personal data do we collect?**
 
-If you choose to use the Facebook single-sign-on service we will gain access, upon your explicit consent, to your basic Facebook profile information, such as your name, profile picture and list of friends and any other information notified to you by Facebook prior to you completing the single-sign-on authorisation process.
+Crash Media Group collects both Personal Data and Anonymous Data when you send us information or when you visit one of our websites. When we talk about Personal Data we mean any information that can identify you as an individual, such as your name and postal address. Anonymous Data doesn't identify you as a person but it might be used in aggregate, for instance when you participate in a survey. 
 
-## How will we use the information about you?
+**How do we keep it secure?**
 
-We will use the personal information you provide to us to process your orders and requests. We may also use this information to communicate with you directly, for example to notify you in the event you have won a competition or to contact you in relation to an account you hold with us.
+Our servers are protected using HTTP and SSL technology (where indicated), so whilst your data is in our care we know it's as secure as it can be. We are taking all reasonable steps to meet our obligations and responsibilities under the Data Protection Act 1998 and other privacy legislation, including the EU General Data Protection Regulation (GDPR). 
 
-We will use the anonymous information we collect about you to analyse web usage and compile aggregate statistics about our users. We will use this non-personally identifiable information, for advertising and marketing purposes and to enable us to provide a more personalised Internet experience. For further information please go to the section on cookies below.
+When we ask another organisation to provide a service for us, we ensure that they have appropriate security measures in place. If we or our service providers transfer any information out of the European Economic Area (EEA), it will only be transferred with the correct protection in place, as stated in UK law. 
 
-## Marketing
+The internet is not a totally secure medium and you acknowledge and agree that Crash Media Group shall not be responsible for unauthorised use, distribution, damage or destruction of personal data, except to the extent that we are required to accept such responsibility under the Data Protection Act 1998. 
 
-From time to time we will ask you whether you wish to receive marketing material from CMG (UK) Ltd containing information about our products and services. If you do not wish to receive such information please ensure that you opt-in or opt-out of receiving such information as appropriate. If you have consented to receiving such material you may opt-out at a later stage from:
+**How do we collect and use your Personal Data?**
 
- **Emails** \- by clicking on an email unsubscribe link;
+We collect your details when you register on one of our websites; subscribe to our services; subscribe to receive emails from us and our partners; participate in discussion boards or other social media functions on our website, or enter a competition or promotion. 
 
- **SMS** \- by following the instructions in any SMS message received;
+With regards to each of your visits to our websites we may automatically collect the following information: 
 
-Upon registration for competitions or other online services you may, in some cases, be automatically opted-in to receive e-mail marketing, newsletters or partner promotions containing material. If this is the case you may unsubscribe to receiving such marketing material at any time by clicking on the e-mail unsubscribe link.
+  * Technical information, including the Internet protocol (IP) address used to connect your device to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system, unique identifiers and other device platform information; 
 
-## What will we disclose to third parties?
+  * Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products or pages you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
 
-If you consent we may sell, rent or trade your personal information to third parties for their marketing purposes. Such third parties will be carefully selected and registered with the Information Commissioner.
+  * Information about your interactions with our email messages, such as the links you click on and whether you open or forward a message, the date and time of these interactions and the device you use to read emails;
 
-We may also pass your personal information to third parties to enable them to process a request, order or service; or to supply you with a prize in the event you win a competition or in order to obtain professional advice.
+  * Information collected through cookies, web beacons and other tracking technologies provided by our partners and affiliates
 
-We may provide anonymous, non-personally identifiable aggregate information to advertisers and our business partners, including information relating to sales and web-usage, to enable us to sell advertising and monitor the efficacy of our business partnerships. We may also pass such statistical information onto reputable third parties for onward sale.
 
-It is possible that CMG (UK) Ltd could merge or be acquired by another business. If this happens we may share the information that relates to you. You will be sent notice of such an event. CMG (UK) Ltd reserves the right to disclose personally identifiable information in order to comply with the law, applicable regulations and government requests. We also reserve the right to use such information in order to protect our operating systems and integrity as well as other users.
 
-Any third parties employed by us to process your data on our behalf are subject to contractual obligations to protect the security of your data in accordance with the terms of this Privacy Policy.
 
-## How do we protect your information?
+We will always be transparent about how we plan to use your data so that you have the choice whether or not to give it to us. We respect your preferences and will do our best to make sure that we keep our promises. 
 
-Once we have received your data we will ensure that it is treated with the utmost respect and in accordance with the Data Protection Act 1998 and any applicable regulations. Your data will be stored on our secure server within the UK. We follow strict security procedures in order that the data we collect is stored and disclosed appropriately and securely. Unfortunately the transmission of information via the Internet is not completely secure. Although CMG (UK) Ltd will do its best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk.
+If you give us your consent to send you further marketing messages we may contact you from time-to-time with carefully selected offers and promotions from ourselves or from our network of carefully selected partners, from which you may always opt-out or unsubscribe. It is not our practice to contact you if you have made it clear that you do not wish to hear from us about our products and services. 
 
-## Other Websites
+We may need to authenticate your identity to provide you with access to subscriber-only services. We might also send you surveys or invite you to enter a competition or receive a newsletter, for instance. If you do not wish to participate you may simply decline our invitations. 
 
-Please note that clicking on links and advertisements on our websites may result in your transferal to another website, where data privacy practices may vary to that of CMG (UK) Ltd. If transferred to another site you should consult their privacy policy as we are not responsible for and have no control over information that is submitted to or collected by these third parties.
+As part of our Google Analytics tracking we have implemented the following features: Remarketing, Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising by visiting here <https://tools.google.com/dlpage/gaoptout/>
 
-## Changes to our privacy policy
+We use this information for reporting purposes and to advertise online. Third-party vendors, including Google, may show your ads on sites across the Internet. We may use the cookies relating to Google Analytics together with third party cookies to inform, optimise and serve ads based on a user's part visits to our websites. 
 
-CMG (UK) Ltd keeps this privacy policy under review and may update it at any time. Any updates will be made on this page so that you can always find out what information we collect, how we use it and under what circumstances we will disclose it.
+For a full list of third parties we work with and links to their websites so you can see how they use cookies please go to [Crash Media Group's Cookie policy](http://www.cmg.london/cookie-policy). 
 
-## How to contact us
+**Do we share that data with any other companies?**
 
-If you have any queries relating to the CMG (UK) Ltd Privacy Policy please contact us by writing to **The Head of Database Marketing, 78/80 St Johns Street, London, EC1M 4EH.**
+Except as otherwise stated in this Privacy Policy or in the data collection statements that will always be visible when we collect your information and where we give you the opportunity to select your preferences, we may release your data to external companies that we use to process your orders, to supply you with a prize in the event you win a competition, for instance. Every supplier we use has to go through a rigorous up-front process to ensure that their processes are at least as good as our own. 
 
-## What is a cookie?
+However, you expressly consent to the sharing of your Personal Data with those suppliers with whom we contract in order to provide services to you, otherwise we may not be able to provide the level of service that we know you'll require. 
 
-A cookie is a small text file that we, and in certain circumstances third parties, place on your browser when you visit our websites or open some of our emails. Cookies, amongst other things, allow CMG (UK) Ltd to recognise you each time you re-visit one of our websites and provide you with a more personalised user experience. There are in existence a variety of different cookies, which are designed for use in specific sets of circumstances.
+If you send in a comment, we may post it on our site or use it as a testimonial without mentioning your full name or publishing any information that would identify you. Furthermore, in some circumstances we may display some of your information such as your username and age. Others may be able to see your personal data if you post any information in comments underneath articles or forums and may be used to send you unsolicited communications over which we have no control. 
 
-## How do third parties and we use cookies?
+We may share some of your information with advertisers, ad servers and ad networks to deliver targeted advertising both on our websites and on selected partner websites but this will not include any information which directly identifies you. However, by interacting with or viewing an advert, you should be aware that the third party may make the assumption that you meet the targeting criteria used to display the advert. 
 
-You should be aware that information on you might be collected through the use of cookies when you use CMG (UK) Ltd websites and/or selected third party sites. It is essential that we use some cookies in order to provide you with the services you have requested from us. Some cookies, however, whilst useful, are not essential, and when using CMG (UK) Ltd websites you agree to the use of these non-essential cookies unless you specifically set your browser to reject them. Please see 'How to manage or refuse cookies' below for further details.
+These activities may involve the use of cookies and other similar technologies. To learn more or to see how you can opt out of targeted advertising, for more information please read our [Cookie Policy](). 
 
-When you initially enter one of our sites we may place an anonymous cookie on your browser to enable us to recognise you the next time you visit the website. We may also place a further cookie on your browser when you register for one of our services, this will enable us to remember you next time you come to sign in, eliminating the need for you to re-enter your login details and customising your future uses of our sites.
+Please take care when using social networking sites too which we may invite you to join that you do not disclose anything that you might later wish to retract. 
 
-Cookies may also be used to track your use of CMG (UK) Ltd websites to better develop them, for example, determining which parts of the websites are more popular and determining content accordingly.
+There are certain times when we may be legally required to disclose your data in good faith where it is required by law or to respond to subpoenas or warrants served on us, or where we have a requirement to protect or defend the rights of Crash Media Group or any users of our servers. We will always ensure that those requesting the information have the legal right to do so. 
 
-We may also place cookies on your browser to provide you with behavioural advertising and monitor the advertising on our sites to, amongst other things, ensure that you are not subjected to intrusive advertising.
+If another company should acquire any of our companies or our assets, including our database, that company will have the right of possession to the Personal Data collected by us and will assume the rights and obligations formerly attributable to us and will use the data in line with the terms under which you submitted it or as described in this Privacy Policy. 
 
-Small pieces of code called pixel tags, web beacons or GIF files, are used in conjunction with cookies to help us manage and monitor our online advertising and wider business arrangements with third parties. These files will allow us to aggregate anonymous information relating to advertising and website usage. The type of information collected includes, but is not limited to, information relating to advertising responses, page views, promotion views and purchases made. Such pixel tags may be used to recognise third party cookies (cookies generated by third parties) and inform us and/or third parties of which advertisement or link brought you to our website, allowing us to monitor the efficacy of our business relationships with third parties. Please see the section below entitled 'Use of different cookies' for more detail on the various cookies in use by CMG (UK) Ltd and how they work.
+**The information we may collect from you about others**
 
-## How to manage or refuse cookies
+Sometimes we may offer you the chance to invite a family member or a friend to enjoy a particular service. In such circumstances, we will collect both your personal details and those of your friend or family member. We will ask your consent to mention your name when we contact the person or persons you have recommended and we will only use this information once and not save it in our database, unless they have entered a competition, for example, when the information will be stored purely for that purpose. If they decide to take up any of our invitations then their data will be treated exactly the same as your own, using the terms under which the data was collected and the information as described in this Privacy Policy. 
 
-If you do not want your browser to accept cookies and use them in the ways described above it is possible to change your browser settings. It is also possible to delete existing cookies from your browser. However blocking all cookies will affect your web experience and may result in some parts of CMG (UK) Ltd websites not functioning properly. Some cookies are designed to help save you time, for example, by remembering your contact details when you are making an order for the second time this means that you will not have to complete the contact section again unless your details have changed. The procedure for modifying your privacy preferences is different for each Internet browser and we recommend you visit the following websites for further information on altering your cookie settings:
+**Leaving our website and moving on to third party websites**
 
-## Use of different cookies
+When you click on advertisements or links on any of our sites, you will leave that site and go to a third-party site, which is outside of our control. When we place an advertisement on one of our sites, it does not signify that we are endorsing that advertiser's product or service. We do not accept responsibility for content, have no control over and our Privacy Policy does not apply to these companies, sites or content and if such third-party sites collect Personal Data, we cannot control how this data is processed, stored or used. We advise that you read their data collection statements, which accompany any registration and their Privacy Policies before you submit your personal information. 
 
-We will use different cookies at various different stages of your use of our websites.
+**Cookies and how we use them**
 
-###  _Tracking and Customisation Cookies_
+"Cookies" are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. Crash Media Group uses cookies for a number of reasons: 
 
-These are used to recognise repeat visitors to CMG (UK) Ltd websites and customise the visitor experience, as described above. They may also be used in conjunction with other information we or our third party partners hold to attempt to record specific browsing information (for example, regarding the way visitors arrive at CMG (UK) Ltd websites, pages viewed, options selected, information entered and the path taken through the CMG (UK) Ltd websites.
+  * To provide you with a more personal and interactive experience on our sites. 
 
-###  _Session Cookie_
+  * For statistical purposes to track how many users we have and how often they visit our websites. 
 
-These are used to maintain your session when you sign in on CMG (UK) Ltd websites, allowing you to access CMG (UK) Ltd online services without the need to sign in on every page you visit. The session cookie is used to tailor advertising to you on CMG (UK) Ltd online services and websites and selected third party websites. If you opt out of tailored advertising, we stop using this cookie for this purpose.
+  * We use organisations to collect anonymous user information so they can analyse how the website is being used and the number of visitors. 
 
-###  _Advertising Cookies_
+  * We and our advertisers may use statistical cookies to track who has seen an advert and clicked on it. 
 
-In addition CMG (UK) Ltd works with third parties for the purpose of delivering targeted behavioural advertising to the CMG (UK) Ltd websites. Through the use of cookies, anonymous information about your use of our websites and other websites will be used to provide more relevant adverts about goods and services of interest to you.
+  * To show you adverts that you may be interested in and to control the number of time you see them and measures the effectiveness of the ad campaign. 
+  * We may use 'Flash' cookies to store your preference for your media player. If we do not use them, it may not be possible for you to watch some video content. 
+  * You have the ability to accept or decline cookies, but please be aware that for some parts of our sites to work, you will need to accept cookies. For more information please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or [www.youronlinechoices.com](http://www.youronlinechoices.com/)
 
-For more information on online behavioural advertising and about how to turn this feature off, please visit <http://www.youronlinechoices.com/opt-out>.
 
-Google DoubleClick serves advertising to CMG (UK) Ltd websites. When an advertisement is requested by a website, DoubleClick receives information from your browser which influences the type of advertisement displayed. To opt-out of DoubleClick using this cookie data please visit <https://support.google.com/adsense/answer/2839090?hl=en-GB>.
 
-Opting out of behavioural advertising or DoubleClick tracking does not mean that you will no longer receive advertising when you are using CMG (UK) Ltd websites. It simply means the advertising you see will not be customised for you.
 
-More general information about behavioural advertising can be found at [www.youronlinechoices.com](http://www.youronlinechoices.com/).
+For more information on how Crash Media Group uses cookies please read [our Cookie Policy](http://www.cmg.london/cookie-policy). 
 
-Cookies placed independently by third parties
+**Logging in using social networking**
 
-Third parties will have placed the majority of adverts you see on CMG (UK) Ltd websites. These third parties may choose to generate their own cookies for the purposes of collecting anonymous information relating to the viewing of their advertising. The information collected cannot be used to personally identify someone. You can find out more about this method of advertising by visiting these sites:
+If you login to our sites using a Facebook login or a Google login, you are granting permission to Facebook and or Google login to share your user details with Crash Media Group. This will include your name, email address, date of birth and location which will then be used to form a Crash Media Group identity. This will also allow Crash Media Group and Facebook and/or Google login to share your networks, user ID and any other information you choose to share according to your Facebook and/or Google account settings. 
+
+**Opting Out on Receipt of Email Marketing Communications**
+
+If you receive a marketing email from us, you will have the option to "opt-out" by clicking on the unsubscribe link provided at the bottom of each and every message we send you. Please be aware that this will not unsubscribe you from our service based messages. 
+
+**Telephone and Mailing Preference Services**
+
+The Telephone Preference Service (TPS), the Corporate Telephone Preference Service (CTPS) and the Mailing Preference Service (MPS) allow you to choose to opt out of unsolicited marketing. However, if you are registered on any of the preference services, which are general opt-out registers, you may still receive marketing communications from us if you have given us your consent previously or if you subsequently give us that consent. 
+
+**Marketing to Children**
+
+We do not knowingly collect personal information from children under the age of 16 for marketing purposes. 
+
+**International Transfer:**
+
+For the purposes set out in this Privacy Policy, personal data may be transferred to, processed, stored and accessed by Crash Media Group and our affiliated service providers in the United States and in other jurisdictions where we or they operate. Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your personal data. By using our Services, you consent to this transfer, processing, storage and access of your personal data in and/or outside of the jurisdiction in which you reside. We will transfer your personal data subject to suitable safeguards, including standard contractual clauses where appropriate.
+
+**Using our websites from outside the UK**
+
+Some of our servers are situated in the EEA and when you submit your details, in whichever country you are situated, you agree to the data being transferred to the EEA and processed under the terms of the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not add your personal details on the website. 
+
+**How you can gain access to the personal data we collect about you**
+
+Under the Data Protection Act 1998, you have the right to see what information we hold about you and you may ask us to make any changes that you consider necessary to make the information accurate. If you want to apply to see the data we hold about you, please write to: 
+
+     The Data Protection Officer  
+Crash Media Group  
+78-80 St John's Street  
+London  
+EC1M 4EH 
+
+We will require that you satisfactorily identify yourself to demonstrate your entitlement to view this data. 
+
+**Questions regarding this Privacy Policy**
+
+If you have comments or questions related to this Privacy Policy please email [dataprotectionofficer@crash.net](mailto:dataprotectionofficer@crash.net) and we will respond as promptly and as fully as we can. 
+
+Complaints will be dealt with by the Data Protection Officer and will be responded to within 30 days. If you are not satisfied with the response you should refer your complaint to the ICO <https://ico.org.uk/concerns/>
+
+**Changes to this Privacy Policy**
+
+This Privacy Policy will be amended from time-to-time if we make any important changes in the way that we collect, store and use personal data. We may notify you by sending an email to your last known email address or writing to your last known postal address to direct you to the Privacy Policy if the changes are material. Our dispatch of a communication to you will, in any event, constitute notification. 
+
+Any changes will be effective immediately. 
+
+This Privacy Policy was last revised in May 2018. 
