@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weekadvisor.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017173859id_/http%3A//www.weekadvisor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weekadvisor.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216232825id_/http%3A//www.weekadvisor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : weekAdvisor.com
 
