@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607021245id_/http%3A//www.agriculture.gov.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216144407id_/http%3A//www.agriculture.gov.au/about/privacy) for the most accurate reproduction.*
 
 # Department of Agriculture and Water Resources Privacy policy - Department of Agriculture and Water Resources
 
-​​​​​​​​​​​​​​​The department provides the following Privacy Policy in accordance with the _Privacy Act 1988_.
+​​​​​​​​​​​​​​​​​​The department provides the following Privacy Policy in accordance with the _Privacy Act 1988_.
 
 ## Co​mple​​te privacy policy
 
@@ -211,4 +211,23 @@ Despite common myths, the cookies sent to your PC cannot read your hard drive, o
 
 You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of some websites. For more information about cookies and instructions on how to adjust your browser settings to restrict or disable cookies, see the [Office of the P​rivacy Commissioner website](https://www.oaic.gov.au/) or the [Interactive Advertising Bureau website](http://www.allaboutcookies.org/).  
   
-​​
+## ​​Privacy Impact Assessment Register
+
+This register includes Privacy Impact Assessments ( **PIA** ) in accordance with the [Privacy (Australian Government Agencies — Governance) APP Code 2017](https://www.legislation.gov.au/Details/F2017L01396).
+
+Date
+
+| 
+
+Title   
+  
+---|---  
+25 September 2018| Levy Payer Register  
+  
+11 July 2018
+
+| 
+
+Internal Staff Policy  
+  
+​​​
