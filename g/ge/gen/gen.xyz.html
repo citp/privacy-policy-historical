@@ -1,36 +1,65 @@
-<!--The following is the downloaded HTML source of the gen.xyz privacy policy that was archived on 2017-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170402185724id_/https%3A//gen.xyz/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gen.xyz privacy policy that was archived on 2018-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181217000604id_/https%3A//gen.xyz/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1">
-<meta http-equiv="x-ua-compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAQEWVFVGwIAVFRUBQUC"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
-<meta name="wot-verification" content="2655682be82717e4e2ae">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <meta name="wot-verification" content="2655682be82717e4e2ae">
+    <meta name="baidu-site-verification" content="aO9kSIpazY">
+
+    
+    <link rel="shortcut icon" type="image/x-icon" href="/wp-content/themes/xyz/favicon.ico">
+    <title>Privacy Policy | .xyz Domain Names | Join Generation XYZ</title>
+    <!--[if lte IE 9]>
+    <link rel="stylesheet" href="/wp-content/themes/xyz/css/ie.css?v=2" type="text/css" media="screen"/><![endif]-->
 
 
-<link rel="shortcut icon" type="image/x-icon" href="/wp-content/themes/xyz/favicon.ico">
-<title>Privacy Policy | .xyz Domain Names | Join Generation XYZ</title>
-<!--[if lte IE 9]><link rel="stylesheet" href="/wp-content/themes/xyz/css/ie.css?v=2" type="text/css" media="screen" /><![endif]-->
+    <link rel="stylesheet" href="/wp-content/themes/xyz/css/theme.css?v=69" id="gen-xyz-theme">
 
-<link rel="stylesheet" href="/wp-content/themes/xyz/css/theme.css?v=48">
+    
+    <script async="" src="//static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>(function () {
+            if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+                var e = document.createElement("style");
+                e.appendChild(document.createTextNode("@-ms-viewport{width:auto!important}"));
+                document.getElementsByTagName("head")[0].appendChild(e)
+            }
+        })()</script>
 
-<script>(function(){if("-ms-user-select"in document.documentElement.style&&navigator.userAgent.match(/IEMobile\/10\.0/)){var e=document.createElement("style");e.appendChild(document.createTextNode("@-ms-viewport{width:auto!important}"));document.getElementsByTagName("head")[0].appendChild(e)}})()</script>
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="/wp-content/themes/xyz/css/liquid-slider.min.css?v=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="/app/bower_components/c3/c3.min.css">
 
+    <link rel="stylesheet" type="text/css" media="screen" href="/wp-content/themes/xyz/css/slick.css?v=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="/wp-content/themes/xyz/css/slick-theme.css?v=1">
 
-<link rel="stylesheet" type="text/css" media="screen" href="/wp-content/themes/xyz/css/liquid-slider.min.css?v=1">
-<link rel="stylesheet" type="text/css" media="screen" href="/app/bower_components/c3/c3.min.css">
+    
+<!-- All in One SEO Pack 2.7.2 by Michael Torbert of Semper Fi Web Design[906,971] -->
+<meta name="description" content="Gen.xyz respects your privacy and we have created a privacy policy to demonstrate our commitment to our customers.">
 
-<link rel="stylesheet" type="text/css" media="screen" href="/wp-content/themes/xyz/css/slick.css?v=1">
-<link rel="stylesheet" type="text/css" media="screen" href="/wp-content/themes/xyz/css/slick-theme.css?v=1">
+<meta name="keywords" content="gen.xyz,xyz,privacy policy,privacy statement">
 
+<link rel="canonical" href="https://gen.xyz/privacy">
+<meta property="og:title" content="Privacy Policy | .xyz Domain Names | Join Generation XYZ">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://gen.xyz/privacy">
+<meta property="og:image" content="https://gen.xyz/wp-content/themes/xyz/images/facebook-square-logo.png">
+<meta property="og:site_name" content=".xyz">
+<meta property="og:description" content="Gen.xyz respects your privacy and we have created a privacy policy to demonstrate our commitment to our customers.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Privacy Policy | .xyz Domain Names | Join Generation XYZ">
+<meta name="twitter:description" content="Gen.xyz respects your privacy and we have created a privacy policy to demonstrate our commitment to our customers.">
+<meta name="twitter:image" content="https://gen.xyz/wp-content/themes/xyz/images/facebook-square-logo.png">
+<meta itemprop="image" content="https://gen.xyz/wp-content/themes/xyz/images/facebook-square-logo.png">
+<!-- /all in one seo pack -->
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title=".xyz Domain Names | Join Generation XYZ » Feed" href="https://gen.xyz/feed">
 <link rel="alternate" type="application/rss+xml" title=".xyz Domain Names | Join Generation XYZ » Comments Feed" href="https://gen.xyz/comments/feed">
 <link rel="alternate" type="application/rss+xml" title=".xyz Domain Names | Join Generation XYZ » Privacy Policy Comments Feed" href="https://gen.xyz/privacy/feed">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/gen.xyz\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
-			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://gen.xyz/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/gen.xyz\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://gen.xyz/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -48,31 +77,16 @@ img.emoji {
 <script type="text/javascript" src="https://gen.xyz/wp-content/themes/xyz/js/modernizr.custom.min.js?ver=2.8.3"></script>
 <script type="text/javascript" src="https://gen.xyz/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="https://gen.xyz/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://gen.xyz/wp-content/themes/xyz/js/lib/countUp.js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gen.xyz/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://gen.xyz/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.6.1">
+<meta name="generator" content="WordPress 4.9.8">
 <link rel="shortlink" href="https://gen.xyz/?p=93">
 <link rel="alternate" type="application/json+oembed" href="https://gen.xyz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgen.xyz%2Fprivacy">
 <link rel="alternate" type="text/xml+oembed" href="https://gen.xyz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgen.xyz%2Fprivacy&amp;format=xml">
 
-<!-- All in One SEO Pack 2.2.3.1 by Michael Torbert of Semper Fi Web Design[815,880] -->
-<meta name="description" itemprop="description" content="Gen.xyz respects your privacy and we have created a privacy policy to demonstrate our commitment to our customers.">
-
-<meta name="keywords" itemprop="keywords" content="gen.xyz, xyz, privacy policy, privacy statement">
-
-<link rel="canonical" href="https://gen.xyz/privacy">
-<meta property="og:title" content="Privacy Policy | .xyz Domain Names | Join Generation XYZ">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://gen.xyz/privacy">
-<meta property="og:image" content="http://gen.xyz/wp-content/themes/xyz/images/facebook-square-logo.png">
-<meta property="og:site_name" content=".xyz">
-<meta property="og:description" content="Gen.xyz respects your privacy and we have created a privacy policy to demonstrate our commitment to our customers.">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Gen.xyz respects your privacy and we have created a privacy policy to demonstrate our commitment to our customers.">
-<meta itemprop="image" content="http://gen.xyz/wp-content/themes/xyz/images/facebook-square-logo.png">
-<!-- /all in one seo pack -->
-
-<script>
+    
+    <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -83,159 +97,161 @@ img.emoji {
   ga('send', 'pageview');
 
 </script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
+    <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
 
-<!--[if lte IE 8]>
-<style type="text/css">
-        
+    <!--[if lte IE 8]>
+    <style type="text/css">
+
         #old-browser {
-                display: block;
-                position: fixed;
-                left: 0;
-                right: 0;
-                z-index: 5555;
-                
-                width: 100%;
-                min-height: 125px;
-                padding: 20px;
-                
-                background-color: #FFF532;
-                text-align: center;
-                line-height: 1.5;
+            display: block;
+            position: fixed;
+            left: 0;
+            right: 0;
+            z-index: 5555;
+            width: 100%;
+            min-height: 125px;
+            padding: 20px;
+            background-color: #FFF532;
+            text-align: center;
+            line-height: 1.5;
         }
-        
+
         #old-browser,
         #old-browser * {
-                box-sizing: border-box;
+            box-sizing: border-box;
         }
-        
+
         #old-browser p {
-                vertical-align: middle;
-                display: inline;
-                font-family: Bariol, Muli, Helvetica, Arial, sans-serif;
-                margin: 0 !important;
-                
+            vertical-align: middle;
+            display: inline;
+            font-family: Bariol, Muli, Helvetica, Arial, sans-serif;
+            margin: 0 !important;
         }
-        
+
         #old-browser b {
-                font-weight: bold;
+            font-weight: bold;
         }
-        
+
         .site-header {
-                top: 125px;
+            top: 125px;
         }
-        
+
         #old-browser a {
-                color: #5a5a5a !important;
-                text-decoration: underline;
+            color: #5a5a5a !important;
+            text-decoration: underline;
         }
-        
+
         #old-browser .old-browser-email {
-                vertical-align: -2px;
+            vertical-align: -2px;
         }
-        
+
         @media screen and (min-width: 866px) {
-                .main-content {
-                        padding-top: 195px;
-                }
+            .main-content {
+                padding-top: 195px;
+            }
         }
-        
+
         @media screen and (max-width: 865px) {
-                #old-browser { position: static; }
+            #old-browser { position: static; }
         }
-        
-</style>
+
+    </style>
+    <![endif]-->
+        <script type="text/javascript">
+        var ANNIVERSARY_PRICE_OVERRIDE = false;
+    </script>
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/app/js/gen.js?v=016" src="/app/js/gen.js?v=016"></script></head>
+
+
+<body class="page-template-default page page-id-93 featadjust">
+
+<!--[if lte IE 8]>
+
+<div id="old-browser">
+    <p>
+        <b><a href="http://whatbrowser.org/" target="_blank">Your browser</a> is out of date. It has known security
+            flaws and may not display all features of this and other websites.</b><br>
+        For questions or support please e-mail or call us.<br>
+        <img src="/wp-content/themes/xyz/images/old-browser-email.png" class="old-browser-email"
+             alt="hello at gen dot xyz"> | 1-800-789-2655
+    </p>
+</div>
+
 <![endif]-->
-<script type="text/javascript">
-  var ANNIVERSARY_PRICE_OVERRIDE = false;
-</script>
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/app/js/gen.js?v=006" src="/app/js/gen.js?v=006"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="/app/js/../bower_components/jquery/jquery.js?cache=015"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jqueryui" src="/app/js/../../wp-content/themes/xyz/js/jquery-ui.min.js?cache=015"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="datatablesTabletools" src="/app/js/../bower_components/datatables-tabletools/js/dataTables.tableTools.js?cache=015"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="slick" src="/app/js/../../wp-content/themes/xyz/js/lib/slick.min.js?cache=015"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="punyCode" src="/app/js/../../wp-content/themes/xyz/js/punycode.js?cache=015"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="datatables" src="/app/js/../bower_components/datatables/media/js/jquery.dataTables.js?cache=015"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jqueryjson" src="/app/js/../../wp-content/plugins/gravityforms/js/jquery.json-1.3.js?cache=015"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="gravityForms" src="/app/js/../../wp-content/plugins/gravityforms/js/gravityforms.js?cache=015"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="genXYZ" src="/app/js/../../wp-content/themes/xyz/js/theme.min.js?cache=015"></script></head>
+<header class="rs site-header" role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
+
+    <div class="rs__row">
+
+        <div class="header-logo" itemscope="" itemtype="http://schema.org/Brand">
+            <a href="/" itemprop="url" class="site-logo">
+                <img src="https://gen.xyz/wp-content/themes/xyz/images/xyz-white-logo.png" onerror="this.src='https://gen.xyz/wp-content/themes/xyz/images/xyz-white-logo.png';this.onerror=null;" alt=".xyz logo" itemprop="logo" title=".xyz logo">
+            </a>
+        </div>
 
 
-<body class="page page-id-93 page-template-default featadjust">
+        <div class="mobile-nav-toggle">
+            <button id="mobile-toggle" class="mobile-nav-button button__reset" aria-label="Toggle navigation visibility">
+                <img src="https://gen.xyz/wp-content/themes/xyz/images/mobile-toggle.png" onerror="this.src='https://gen.xyz/wp-content/themes/xyz/images/mobile-toggle.png';this.onerror=null;" alt="Toggle navigation visibilty" title="Navigation">
+            </button>
+        </div>
 
-        <!--[if lte IE 8]>
+        <nav class="header-nav site-nav" id="header-main-nav" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
 
-                <div id="old-browser">
-                        <p>
-                                <b><a href="http://whatbrowser.org/" target="_blank">Your browser</a> is out of date. It has known security flaws and may not display all features of this and other websites.</b><br>
-                                For questions or support please e-mail or call us.<br>
-                                <img src="/wp-content/themes/xyz/images/old-browser-email.png" class="old-browser-email" alt="hello at gen dot xyz"> | 1-800-789-2655
-                        </p>
-                </div>
+            <ul class="top-level-nav">
+
+
+                <li class="nav-item">
+                    <button type="button" class="button__reset main-nav-link dropdown-parent" id="nav-1-parent" aria-owns="nav-1-child" aria-controls="nav-1-child" aria-expanded="false" aria-label="Open sub navigation">About
+                    </button>
+                    <ul class="sub-level-nav" id="nav-1-child" role="group" aria-expanded="false" aria-labelledby="nav-1-parent">
+                        <li class="nav-item"><a class="sub-nav-link" href="/about">About .xyz</a></li>
+                        <li class="nav-item"><a class="sub-nav-link" href="/press">Media</a></li>
+                        <li class="nav-item"><a class="sub-nav-link" href="/live">#GenXYZ</a></li>
+                    </ul>
+                </li>
+
+                <li class="nav-item">
+                    <button type="button" class="button__reset main-nav-link dropdown-parent" id="nav-2-parent" aria-owns="nav-2-child" aria-controls="nav-2-child" aria-expanded="false" aria-label="Open sub navigation">Resources
+                    </button>
+                    <ul class="sub-level-nav" id="nav-2-child" role="group" aria-expanded="false" aria-labelledby="nav-2-parent">
+                        <li class="nav-item"><a class="sub-nav-link" href="/registrars">Registrars</a></li>
+                        <li class="nav-item"><a class="sub-nav-link" href="/xyz101">XYZ101</a></li>
+                        <li class="nav-item"><a class="sub-nav-link" href="/pricing">Pricing</a></li>
+                        <li class="nav-item"><a class="sub-nav-link" href="/premiums">Premium Names</a></li>
+                        <li class="nav-item"><a class="sub-nav-link" href="/tld-services">TLD Services</a></li>
+                        <li class="nav-item"><a class="sub-nav-link" href="/account/knowledgebase.php">FAQ</a></li>
+                        <li class="nav-item"><a class="sub-nav-link" href="/account/submitticket.php">Support Center</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="nav-item"><a class="main-nav-link" href="/blog">Blog</a></li>
+
+                <li class="nav-item"><a class="main-nav-link" href="http://shop.gen.xyz/" target="_blank" rel="noopener noreferrer">Apparel</a></li>
+
+                                    <li class="nav-item"><a class="main-nav-link" href="/contact">Contact</a></li>
                 
-        <![endif]-->
-        <header class="rs site-header" role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
-        
-                <div class="rs__row">
-                
-                        <div class="header-logo" itemscope="" itemtype="http://schema.org/Brand">
-                                <a href="/" itemprop="url" class="site-logo">
-                                        <img src="https://gen.xyz/wp-content/themes/xyz/images/xyz-white-logo.png" onerror="this.src='https://gen.xyz/wp-content/themes/xyz/images/xyz-white-logo.png';this.onerror=null;" alt=".xyz logo" itemprop="logo" title=".xyz logo">
-                                </a>
-                        </div>
-                        
-                        
-                        <div class="mobile-nav-toggle">
-                                <button id="mobile-toggle" class="mobile-nav-button button__reset" aria-label="Toggle navigation visibility">
-                                        <img src="https://gen.xyz/wp-content/themes/xyz/images/mobile-toggle.png" onerror="this.src='https://gen.xyz/wp-content/themes/xyz/images/mobile-toggle.png';this.onerror=null;" alt="Toggle navigation visibilty" title="Navigation">
-                                </button>
-                        </div>
-                                
-                        <nav class="header-nav site-nav" id="header-main-nav" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
-                                
-                                <ul class="top-level-nav">
-                                
-                                        
-                        
-                                        <li class="nav-item">
-                                                <button type="button" class="button__reset main-nav-link dropdown-parent" id="nav-1-parent" aria-owns="nav-1-child" aria-controls="nav-1-child" aria-expanded="false" aria-label="Open sub navigation">About</button>
-                                                <ul class="sub-level-nav" id="nav-1-child" role="group" aria-expanded="false" aria-labelledby="nav-1-parent">
-                                                        <li class="nav-item"><a class="sub-nav-link" href="/about">About .xyz</a></li>
-                                                        <li class="nav-item"><a class="sub-nav-link" href="/media">Media</a></li>
-                                                        <li class="nav-item"><a class="sub-nav-link" href="/live">#GenXYZ</a></li>
-                                                </ul>
-                                        </li>
-                                                
-                                        <li class="nav-item">
-                                                <button type="button" class="button__reset main-nav-link dropdown-parent" id="nav-2-parent" aria-owns="nav-2-child" aria-controls="nav-2-child" aria-expanded="false" aria-label="Open sub navigation">Resources</button>
-                                                <ul class="sub-level-nav" id="nav-2-child" role="group" aria-expanded="false" aria-labelledby="nav-2-parent">
-                                                        <li class="nav-item"><a class="sub-nav-link" href="/registrars">Registrars</a></li>
-                                                        <li class="nav-item"><a class="sub-nav-link" href="/xyz101">XYZ101</a></li>
-                                                        <li class="nav-item"><a class="sub-nav-link" href="/pricing">Pricing</a></li>
-                                                        <li class="nav-item"><a class="sub-nav-link" href="/webhosting">Hosting</a></li>
-                                                        <li class="nav-item"><a class="sub-nav-link" href="/premiums">Premium Names</a></li>
-                                                        <li class="nav-item"><a class="sub-nav-link" href="/tld-services">TLD Services</a></li>
-                                                        <li class="nav-item"><a class="sub-nav-link" href="/account/knowledgebase.php">FAQ</a></li>
-                                                        <li class="nav-item"><a class="sub-nav-link" href="/account/submitticket.php">Support Center</a></li>
-                                                </ul>
-                                        </li>
-                                        
-                                        <li class="nav-item"><a class="main-nav-link" href="/blog">Blog</a></li>
-                                        
-                                        
-                                                                                        <li class="nav-item"><a class="main-nav-link" href="/contact">Contact</a></li>
-                                                                                
-                                        <li class="nav-item">
-                                                <button type="button" class="button__reset main-nav-link dropdown-parent" id="nav-3-parent" aria-owns="nav-3-child" aria-controls="nav-3-child" aria-expanded="false" aria-label="Open sub navigation">Domains</button>
-                                                <ul class="sub-level-nav" id="nav-3-child" role="group" aria-expanded="false" aria-labelledby="nav-3-parent">
-                                                        <li class="nav-item"><a class="sub-nav-link" href="/register">Register</a></li>
-                                                        <li class="nav-item"><a class="sub-nav-link" href="/transfer">Transfer</a></li>
-                                                        <!-- <li class="nav-item"><a class="sub-nav-link" href="/account/clientarea.php">Manage</a></li> -->
-                                                        <li class="nav-item"><a class="sub-nav-link" href="/pricing">Pricing</a></li>
-                                                        <li class="nav-item"><a class="sub-nav-link" href="/account/clientarea.php">My Account</a></li>
-                                                </ul>
-                                        </li>
-                                        
-                                        <li class="button-nav-item nav-item"><a class="main-nav-link button__register" href="/register">Register</a></li>
-                                                                        </ul>
-                        </nav>
-                
-                </div>
-				
-				<div class="news-headlines"><ul><li><a href="https://gen.xyz/premiums#standard"><span class="medium-hide">Try our powerful tools for domain ideas and check out short domain lists!</span><span class="medium-show">Try our tools &amp; short domain lists!</span></a></li><a href="/abuse" class="report-abuse-link">Report Abuse</a></ul></div>        </header>
-        
-        <div class="toggle-zone" style="display:none;"></div> 
+                <li class="nav-item">
+                    <button type="button" class="button__reset main-nav-link dropdown-parent" id="nav-3-parent" aria-owns="nav-3-child" aria-controls="nav-3-child" aria-expanded="false" aria-label="Open sub navigation">Domains
+                    </button>
+                    <ul class="sub-level-nav" id="nav-3-child" role="group" aria-expanded="false" aria-labelledby="nav-3-parent">
+                        <li class="nav-item"><a class="sub-nav-link" href="/register">Register</a></li>
+                        <li class="nav-item"><a class="sub-nav-link" href="/account/cart.php?a=add&amp;domain=transfer">Transfer</a></li>
+                        <!-- <li class="nav-item"><a class="sub-nav-link" href="/account/clientarea.php">Manage</a></li> -->
+                        <li class="nav-item"><a class="sub-nav-link" href="/pricing">Pricing</a></li>
+                        <li class="nav-item"><a class="sub-nav-link" href="/account/clientarea.php">My Account</a></li>
+                    </ul>
+                </li>
+
+                <li class="button-nav-item nav-item"><a class="main-nav-link button__register" href="/register">Register</a></li>
+                            </ul>
+        </nav>
+
+    </div>
+
+    <div class="news-headlines"><ul><li><a href="https://gen.xyz/premiums"><span class="medium-hide">"Buy It Now" premium .xyz domain tiers now available with standard priced renewals!</span><span class="medium-show">New: 3 "Buy It Now" premium .xyz domain tiers!</span></a></li><a href="/account/submitticket.php?step=2&amp;deptid=6" class="report-abuse-link">Report Abuse</a></ul></div></header>
+
+<div class="toggle-zone" style="display:none;"></div>
 <div class="white-box">
 	<div class="container">
 		<div class="row">
@@ -245,20 +261,42 @@ img.emoji {
 
 				<div class="notRegister" id="content">
 					<br>
-					<p>Gen.xyz respects your privacy. We have created this privacy statement in order to demonstrate our commitment to you, our customer. This privacy statement discloses the privacy practices for this website, http://gen.xyz (the “Website”, “Us”, “Our”). By using the Website you agree to the privacy practices disclosed below.</p>
-<h2 style="padding-top: 14px; padding-bottom: 18px;">Privacy Practices</h2>
-<ul>
-<li style="list-style: disc;">We do not give third parties access to your personal information other than as outlined in this privacy policy.</li>
-<li style="list-style: disc;">If we determine that any account with us is being used for the purpose of sending spam or engaging in malicious activities, we will take action to shut it down as soon as possible.</li>
-</ul>
-<p style="padding-bottom: 15px;">We will never give any information about you to others without your express permission. Our site uses forms in which you give us contact information (like your name, address, phone number, and email address) so you can create an account, place orders, request information, etc. We may share specific information with business partners or contractors when the information is needed to fulfill your request for a product or service. We also use your contact information when it will be important for us to contact you regarding functionality changes to our products, our website, new services and special offers we think you’ll find valuable, and provide customer service.</p>
-<p style="padding-bottom: 15px;">We use information gathered about you from our site statistics via log files provided by third party tracking partners (for example your IP address) to help diagnose problems with our server, and to administer our website. We also gather broad demographic information from this data to help us improve our site and your experience. This information collection is not linked to any personally identifiable information. Our site uses cookies to keep track of your session information and to provide you with customized information. We do link the information we store in cookies to personally identifiable information you submit while on our site.</p>
-<p style="padding-bottom: 15px;">We may use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided by your internet browser (ex: Mozilla Firefox or Internet Explorer).</p>
-<p style="padding-bottom: 15px;">We also may use cookies to store your username if you request to remember your username during login. That information will be used to pre-fill the login form at a later time. If you are referred to our website through an ad or a partner, we will store the referral information in the cookies.</p>
-<p style="padding-bottom: 15px;">We, our affiliate(s) and/or third parties may also promote product and service offerings to you via email, sms-text message, or telephone. You may receive emails, sms-text messages, or telephone contacts for as long as you wish to continue to receive such contacts. You can be removed from our contact lists at any time with no questions asked. To remove your information from our database to not receive future marketing communications contact us at <a href="mailto:supportteam@gen.xyz">supportteam@gen.xyz</a>.</p>
-<p style="padding-bottom: 15px;">In addition to using cookies and related technologies as described above, we also may permit certain third party companies to help us tailor advertising that we think may be of interest to users and to collect and use other data about user activities on our Sites and/or Services (e.g., to allow them to tailor ads on third party services). These companies may deliver ads that might also place cookies and otherwise track user behavior.</p>
-<p style="padding-bottom: 15px;">We use Google Analytics’ 3rd-party audience data such as age, gender and interests to better understanding the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on this website or other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.</p>
-<p style="padding-bottom: 15px;">You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by editing your Google Display Network ads’ preferences at http://www.google.com/ads/preferences/. For further information regarding the privacy practices of our advertisement provider, please visit http://www.google.com/privacypolicy.html.</p>
+					<p>Last modified: May 17, 2018</p>
+<p>Gen.xyz (the “website”, “we”, “us”, “our”) respects your privacy. We have created this privacy policy in order to demonstrate our commitment to you, our customer. This privacy policy discloses the privacy practices for this website. This privacy policy may be revised periodically and this will be reflected by the date above. Please revisit this page to stay aware of any changes. By using the website you agree to the privacy practices disclosed below.</p>
+<h2 class="s__margin-bottom s__padding-top">What information do we ask you for and why?</h2>
+<p>The website uses forms where you give us personal information (like your name, address, phone number, payment information and email address) so you can create an account, place orders, request information, etc. If you do not provide this information, we may not be able to provide you with the services offered on this website.</p>
+<h2 class="s__margin-bottom s__padding-top">What do we do with your personal information?</h2>
+<p>We do not give third parties access to your personal information other than as outlined in this privacy policy. We will never give any information about you to others without your express permission.  We may share specific information with business partners or contractors when the information is needed to fulfill your request for a product or service. We also use your contact information when it will be important for us to contact you regarding functionality changes to our products, our website, new services and special offers we think you’ll find valuable and provide customer service. You can contact us at the email address at the bottom of this page if you would like to make any modification to the information you have provided us.</p>
+<h2 class="s__margin-bottom s__padding-top">How else do we get information about you?</h2>
+<p>We use information gathered about you from our site statistics via log files provided by third party tracking partners (for example your IP address) to help diagnose problems with our server, and to administer our website. We also gather broad demographic information from this data to help us improve our site and your experience. This information collection is not linked to any personally identifiable information. Our site uses cookies to keep track of your session information and to provide you with customized information. We do link the information we store in cookies to personally identifiable information you submit while on our site.</p>
+<p>We may use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided by your internet browser (ex: Mozilla Firefox or Internet Explorer).</p>
+<p>We also may use cookies to store your username if you request to remember your username during login. That information will be used to pre-fill the login form at a later time. If you are referred to our website through an ad or a partner, we will store the referral information in the cookies.</p>
+<h2 class="s__margin-bottom s__padding-top">Can we contact you?</h2>
+<p>We, our affiliate(s) and/or third parties may also promote products and service offerings to you via email, sms-text message, or telephone. You may receive emails, sms-text messages, or telephone contacts for as long as you wish to continue to receive such contacts. You can be removed from our contact lists at any time with no questions asked. To remove your information from our database to not receive future marketing communications contact us at <a href="mailto:hello@gen.xyz">hello@gen.xyz</a>.</p>
+<h2 class="s__margin-bottom s__padding-top">What other information may we collect?</h2>
+<p>In order to use this website, a user may first have to complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required.</p>
+<p>We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we’ll use this information to contact you.</p>
+<p>From time-to-time this website may request information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.</p>
+<h2 class="s__margin-bottom s__padding-top">Do we track you across third party websites?</h2>
+<p>We do not track our customers over time and across third party websites, and therefore do not respond to Do Not Track (DNT) signals. However, in addition to using cookies and related technologies as described above, we also may permit certain third party companies to help us tailor advertising that we think may be of interest to users and to collect and use other data about user activities on our Sites and/or Services (e.g., to allow them to tailor ads on third party services). These companies may deliver ads that might also place cookies and otherwise track user behavior across third party websites.</p>
+<p>We use Google Analytics’ 3rd-party audience data such as age, gender and interests to better understanding the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on this website or other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.</p>
+<p>You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by editing your Google Display Network ads’ preferences at <a href="http://www.google.com/ads/preferences/" target="_blank" rel="noopener noreferrer">http://www.google.com/ads/preferences/</a>. For further information regarding the privacy practices of our advertisement provider, please visit <a href="http://www.google.com/privacypolicy.html" target="_blank" rel="noopener noreferrer">http://www.google.com/privacypolicy.html</a>.</p>
+<h2 class="s__margin-bottom s__padding-top">What about Minors?</h2>
+<p>This website is not intended for children under the age of 13 and you may not use this website or submit any data to this website if you are under the age of 13. If we find we have collected ant data from anyone under the age of 13, we will delete it. </p>
+<h2 class="s__margin-bottom s__padding-top">How do we protect your data?</h2>
+<p>We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, transmission alteration, and disclosure. The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our website, you are responsible for keeping this password confidential. Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our website. Any transmission of personal information is at your own risk.</p>
+<h2 class="s__margin-bottom s__padding-top">For California Residents</h2>
+<p>California residents may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to <a href="mailto:hello@gen.xyz">hello@gen.xyz</a>.</p>
+<h2 class="s__margin-bottom s__padding-top">For Non-US Residents</h2>
+<p>The website is hosted in the US and is intended for and directed to users in the US. The laws of the US apply to your use of this website. By submitting information on this website, it is being transmitted to the US and you consent to that transfer. </p>
+<h2 class="s__margin-bottom s__padding-top">For EU Citizens</h2>
+<p>The website is hosted in the United States and is intended for and directed to users in the United States. Nevertheless, the following applied to any EU citizens that we collect data on. We are the controller of your data. Your right to be forgotten will be honored and if you request, we will permanently erase all collected data about you. Please email <a href="mailto:hello@gen.xyz">hello@gen.xyz</a> to make this request. Otherwise, your data will be stored indefinitely. Your data will not be transferred across borders, other than its initial transmission to the US when you submit your information to us. No automated processing of personal data that will take place (including profiling). </p>
+<h2 class="s__margin-bottom s__padding-top">Questions?</h2>
+<p>If you have any questions, please contact us at:</p>
+<p><a href="mailto:hello@gen.xyz">hello@gen.xyz</a><br>
+Generation.XYZ LLC<br>
+2800 Olympic Blvd Ste 100<br>
+Santa Monica, CA 90404</p>
 					<br>
 					<br>
 				</div>
@@ -296,8 +334,8 @@ img.emoji {
 												
 						<li class="our-tlds__item">
 							<a href="https://go.security" target="_blank" class="our-tlds__link">
-								<img src="/wp-content/themes/xyz/images/our-tlds/security-protection.png" alt=".Security &amp; .Protection" class="our-tlds__logo">
-								<span class="our-tlds__name">.Security &amp; .Protection</span>
+								<img src="/wp-content/themes/xyz/images/our-tlds/security-protection.png" alt=".Security/.Protection" class="our-tlds__logo">
+								<span class="our-tlds__name">.Security/.Protection</span>
 							</a>
 						</li>
 				
@@ -317,14 +355,25 @@ img.emoji {
 							</a>
 						</li>
 				
+												
+						<li class="our-tlds__item">
+							<a href="https://go.storage" target="_blank" class="our-tlds__link">
+								<img src="/wp-content/themes/xyz/images/our-tlds/storage.png" alt=".Storage" class="our-tlds__logo">
+								<span class="our-tlds__name">.Storage</span>
+							</a>
+						</li>
+				
 											</ul>
+
+                    <div class="copyright">Copyright 2018. All Rights Reserved.</div>
 			
 				</div>
 					
 					
 				<div class="fRight">
 					<div class="footer-logo-right">
-												<a href="//twitter.com/xyz" target="_blank"><img src="/wp-content/themes/xyz/images/icon-twitter.png" alt="Follow Us On Twitter"></a>
+						<a href="https://www.youtube.com/channel/UC_q3rNEf67KmJKQA78H1FJA" target="_blank"><img src="/wp-content/themes/xyz/images/icon-youtube.png" alt="Youtube Channel"></a>
+						<a href="//twitter.com/xyz" target="_blank"><img src="/wp-content/themes/xyz/images/icon-twitter.png" alt="Follow Us On Twitter"></a>
 						<a href="//instagram.com/xyz" target="_blank"><img src="/wp-content/themes/xyz/images/icon-instagram.png" alt="Follow Us on Instagram"></a>		<a href="//facebook.com/xyz" target="_blank"><img src="/wp-content/themes/xyz/images/icon-facebook.png" alt="Follow Us on Instagram"></a>
 					</div>
 					<div class="footer-links">
@@ -353,8 +402,8 @@ img.emoji {
                 <li><a href="/pricing">Pricing</a></li>
 				  <li><a href="/tld-services">TLD Services</a></li>
                 <li><a href="/account/knowledgebase.php">FAQ</a></li>
-                <li><a href="/media">Media/Press</a></li>
-                <li><a href="/careers">Careers</a></li>                            
+                <li><a href="/press">Media/Press</a></li>
+                <li><a href="http://careers.xyz/">Careers</a></li>
                 <li><a href="/sitemap">Sitemap</a></li>
             </ul>
 					</div>
@@ -365,11 +414,50 @@ img.emoji {
 </div>
 
 
-<script type="text/javascript" src="https://gen.xyz/wp-content/themes/xyz/js/lib/datatables.local.js?ver=4.6.1"></script>
-<script type="text/javascript" src="https://gen.xyz/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
-    <script data-main="/app/js/gen.js?v=006" src="/app/bower_components/requirejs/require.js"></script>
+<script type="text/javascript" src="https://gen.xyz/wp-content/themes/xyz/js/lib/datatables.local.js?ver=4.9.8"></script>
+<script type="text/javascript" src="https://gen.xyz/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
+    <script data-main="/app/js/gen.js?v=016" src="/app/bower_components/requirejs/require.js"></script>
 
 
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1729164704043487'); // Insert your pixel ID here.
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1729164704043487&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Linkedin tag code -->
+<script type="text/javascript">
+_linkedin_data_partner_id = "50162";
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=50162&fmt=gif" />
+</noscript>
+<!-- END Linkedin tag code -->
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nxecr');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
 
 <script type="text/javascript">
 /*
@@ -389,5 +477,5 @@ img.emoji {
 	
 </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"41ae5e0c3a","applicationID":"10056245","transactionName":"Z1VaNkVSDEoHVURcXV4feQFDWg1XSUZRUlc=","queueTime":0,"applicationTime":345,"atts":"SxJZQA1IH0Q=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 </body></html>
