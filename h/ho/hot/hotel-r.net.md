@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotel-r.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629164256id_/http%3A//www.hotel-r.net/pirvacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotel-r.net privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216180243id_/http%3A//www.hotel-r.net/pirvacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hotel-R
 
