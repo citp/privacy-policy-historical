@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidstockmanscontracorner.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612195543id_/http%3A//davidstockmanscontracorner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidstockmanscontracorner.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216133510id_/http%3A//davidstockmanscontracorner.com/privacy-policy) for the most accurate reproduction.*
 
 # Contra Corner » Privacy Policy
 
@@ -12,7 +12,7 @@ Any email you send to  _David Stockman's  Contra Corner_ is considered confide
 
 **Spam**
 
-If you believe that  _David Stockman's  Contra Corner_ has sent you unsolicited commercial e-mail (spam), please send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c6a2a7b0afa2b5b2a9a5adaba7a886a2a7b0afa2b5b2a9a5adaba7a8b5a5a9a8b2b4a7a5a9b4a8a3b4e8a5a9ab).
+If you believe that  _David Stockman's  Contra Corner_ has sent you unsolicited commercial e-mail (spam), please send an e-mail to [davidstockman@davidstockmanscontracorner.com](mailto:davidstockman@davidstockmanscontracorner.com).
 
 **Personal Information**
 
@@ -22,12 +22,9 @@ We will never ask you for personal information — your credit card number, for 
 
 When you give us your mailing address,  _David Stockman's  Contra Corner_ will use this information to fulfill your order or subscription and to send you information on other products that may suit your interests. If you don’t want  _David Stockman's  Contra Corner_ to send you this other information, please contact our Customer Service department:
 
-Order Processing Center
-
-Attn: Customer Service
-
-P.O. Box 925
-
+Order Processing Center  
+Attn: Customer Service  
+P.O. Box 925  
 Frederick, MD 21705
 
 **Cookies**
