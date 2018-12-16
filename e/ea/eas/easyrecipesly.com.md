@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyrecipesly.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605073329id_/http%3A//easyrecipesly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyrecipesly.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216012126id_/http%3A//easyrecipesly.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Easy Recipes
 
