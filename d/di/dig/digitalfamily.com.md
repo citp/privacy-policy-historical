@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalfamily.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615162621id_/http%3A//www.digitalfamily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalfamily.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216190042id_/http%3A//www.digitalfamily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
