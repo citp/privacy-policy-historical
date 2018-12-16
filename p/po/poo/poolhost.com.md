@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poolhost.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617160431id_/http%3A//poolhost.com/index.asp%3Fpage%3Dprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolhost.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216091133id_/http%3A//www.poolhost.com/index.asp%3Fpage%3Dprivacy.asp) for the most accurate reproduction.*
 
 # Office Pool Manager - privacy - PoolHost.com
 
@@ -98,3 +98,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 Seal Beach, CA 90740  
 USA  
 admin@poolhost.com
+
+Content Management Settings
