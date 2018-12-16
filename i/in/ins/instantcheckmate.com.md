@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190726id_/https%3A//www.instantcheckmate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216173952id_/https%3A//www.instantcheckmate.com/privacy-policy) for the most accurate reproduction.*
 
 # Instant Checkmate Terms of Use - The internet's #1 source for Background Checks
 
@@ -76,7 +76,7 @@ We may disclose Personal Information or other data to comply with law or legal r
 
 #### vi. Email Marketing
 
-By submitting your email address via the Site, you are expressly consenting to receive emails from Instant Checkmate, including from Instant Checkmate’s affiliates, and from third parties concerning offers and advertisements unrelated to Instant Checkmate.  To unsubscribe from receiving email messages from us, from our affiliates or from other third parties, click on the “Unsubscribe” link contained in each email.
+By submitting your email address via the Site, you are expressly consenting to receive emails from INSTANT CHECKMATE LLCuding from Instant Checkmate’s affiliates, and from third parties concerning offers and advertisements unrelated to Instant Checkmate.  To unsubscribe from receiving email messages from us, from our affiliates or from other third parties, click on the “Unsubscribe” link contained in each email.
 
 #### vii. Contests, Sweepstakes, Surveys
 
@@ -118,4 +118,4 @@ San Diego, CA 92108
 
 DISCLAIMER: You may not use our service to make decisions about consumer credit, employment, insurance, tenant screening, or any other purpose that would require FCRA compliance. Instant Checkmate does not provide consumer reports and is not a consumer reporting agency. (These terms have special meanings under the Fair Credit Reporting Act, ("FCRA"), which we incorporate here.) The information available may not be 100% accurate, complete, or up to date, so do not use it as a substitute for your own due diligence, especially if you have concerns about a person's criminal history. Instant Checkmate does not make any representation or warranty about the accuracy of our website or about the character or integrity of the person about whom you inquire. Please review Instant Checkmate [Terms of Use](https://web.archive.org/terms-of-use/). 
 
-Copyright © 2018 Instant Checkmate, Inc. All Rights Reserved. 
+Copyright © 2018 INSTANT CHECKMATE LLC All Rights Reserved. 
