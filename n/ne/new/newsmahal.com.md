@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the newsmahal.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523180608id_/http%3A//newsmahal.com/247-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmahal.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216144437id_/http%3A//newsmahal.com/247-2) for the most accurate reproduction.*
 
 # Privacy Policy » News Mahal
-
-[
 
 ### _News Mahal Privacy Policy_
 
 This Privacy Policy was last modified on Aug 2015
 
-News mahal (“us”, “we”, or “our”) operates www.newsmahal.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+News mahal (“us”, “we”, or “our”) operates newsmahal.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
 We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.News Mahal.com.
 
@@ -46,6 +44,4 @@ If you have any questions about this Privacy Policy, please contact us.
 
 Generated with permission from TermsFeed Generator.
 
-– See more at: http://www.newsmahal.com/privacy-policy/#sthash.7zP9tGE8.dpuf
-
-](http://newsmahal.com/telugu/)
+– See more at: http://newsmahal.com/privacy-policy/#sthash.7zP9tGE8.dpuf
