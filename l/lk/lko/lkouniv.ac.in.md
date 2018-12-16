@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lkouniv.ac.in privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604030649id_/http%3A//www.lkouniv.ac.in/en/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkouniv.ac.in privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216115635id_/http%3A//www.lkouniv.ac.in/en/page/privacy-policy) for the most accurate reproduction.*
 
 # Lucknow University / Privacy Policy
 
 ### Privacy Policy
 
-Thanks for visiting website of Lucknow University, Uttar Pradesh Lucknow, and reviewing our privacy policy.
+Thanks for visiting website University of Lucknow, Uttar Pradesh Lucknow, and reviewing our privacy policy.
 
 We collect no personal information, like names or addresses, when you visit our website. If you choose to provide that information to us, it is only used to fulfill your request for information.
 
