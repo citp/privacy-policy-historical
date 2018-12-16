@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btc.ms privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610014851id_/http%3A//btc.ms/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btc.ms privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216173125id_/http%3A//btc.ms/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,4 +92,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 **8\. Contacting Us**  
  
 
-Please feel free to contact to this address _[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_ with queries, requests, or comments you may have about our Privacy Policy.
+Please feel free to contact to this address _edwardkenway963@gmail.com_ with queries, requests, or comments you may have about our Privacy Policy.
