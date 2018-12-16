@@ -1,39 +1,84 @@
-> *The following text is extracted and transformed from the mkcl.org privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123045714id_/http%3A//www.mkcl.org/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mkcl.org privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217001439id_/http%3A//mkcl.org/privacy-policy) for the most accurate reproduction.*
 
-# MKCL - Privacy Policy
+# Privacy Policy | MKCL
 
-“MKCL's DBForms” is a comprehensive database forms application (“app”), designed and developed by Maharashtra Knowledge Corporation Ltd. (“MKCL”), India.  “MKCL's DBForms” is used as concurrent monitoring system which produces evidences about the happenings of monitoring key aspects in the projects by creating evidences with all the possible details required in terms of checklist with the use of Handheld device. MKCL’s DBForms is a Secure & Private Portal used as concurrent monitoring system.
+This Privacy Policy (the "Policy") describes how Maharashtra Knowledge Corporation Limited (hereinafter referred to as "MKCL"), collects, uses, shares and protects personal information that we collect from you, the end user of the MKCL website, applications (herein after called as "apps") and services (collectively, "MKCL Products").
 
-‘MKCL’s DBForms’ provides its services to you, subject to the following Terms of Service, which may be revised by us from time to time, without notice to you.
+While you use and enjoy our services, we want to keep you informed about our privacy policy towards management and security of your personal information. We value the trust you place in us, and hence insist upon the highest level of protection for securing your personal information. We are obligated to protect your personal information in accordance with applicable laws, and regulations.
 
-**Privacy Policy:** Personal information about you and your handheld device are subject to our “MKCL’s DBForms Privacy Policy”, defined at the bottom of this document. Your personal information belongs to you. We collect this type of information when you provide it, but we shall not share such information concerning our customers to any third parties for ANY reason.
+Registration or usage of any of MKCL services implies your express consent and agreement to this Policy.
 
-**User Account, Password and Security** : You are responsible for maintaining the confidentiality of the UserID and password provided to you for the use of app on handheld device by the Admin of “MKCL’s DBForms”, and is fully responsible for all activities that occur under your account. You agree to immediately notify Admin of ”MKCL’s DBForms” at [admindbforms@mkcl.orgof](mailto:admindbforms@mkcl.orgof) any unauthorized use of your password. ”MKCL’s DBForms” cannot and shall not be liable for any consequences directly and/or indirectly arising from your failure to comply with this Section.
+This Policy is subject to modification based on changes in the business, legal and regulatory requirements and will be made available to you online. We will make all efforts to communicate about significant changes to this policy. You are encouraged to periodically visit this page to review the policy and any changes.
 
-**Information collection, disclosure and abuse of service** : You understand that all information (such as written text in the forms, images or any other media) which you may have access to as part of, or through your use of ”MKCL’s DBForms” are the sole responsibility of the person from whom such content originated. ”MKCL’s DBForms” takes no responsibility for abusive content, and it is the responsibility of the users to regulate such content. ”MKCL’s DBForms” reserves the right to suspend its service to users involving in service abuse. ”MKCL’s DBForms” takes no responsibility for any data generated within ”MKCL’s DBForms” and published or distributed outside by the user.
+* * *
 
-**No Resale of Service:** You agree not to reproduce, duplicate, copy, sell, resell or exploit for any commercial purposes, any portion of the service, use of the Service, or access to the Service.
+###### Use of Information
 
-**Modifications to Service** : ”MKCL’s DBForms” reserves the right at any time to modify or discontinue, temporarily or permanently, the Service (or any part thereof). This will be done  with prior notice of 15 days  to you, so that you may retain the information assets created by you on ”MKCL’s DBForms”. Beyond the time given, you agree that ”MKCL’s DBForms” shall not be liable directly and/or indirectly to you or to any third party.
+  * The information provided by you to us is used for a number of purposes connected with our business operations which may include the following: 
+    1. Verify your identity, access, privileges assigned and relationship with us.
+    2. Provisioning of products/services, testing or improvement of services, recommending various products or services;
+    3. Processing your requests, enquiries and complaints, customer services and related activities;
+    4. Communicating to you about bills, invoices, existing or new offers, content, advertisements, surveys, key policies or other administrative information;
+    5. Analytics and reviews for improvement of our services;
+    6. Improving your experience while using our services by presenting advertising, products and offers tailored to you;
+    7. Completing your purchase;
+    8. Support to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law or anti-fraud activities/systems.
+  * We will strive to keep your personal information confidential and will place reasonable security controls to protect it. Your Personal Information will be kept confidential as required under applicable laws.
+  * However, any comments, messages, blogs, scribbles etc. posted / uploaded / conveyed / communicated by you on the public sections of the apps/website becomes published content and is not considered personal information subject to this Policy. You may request that such information be taken down and, we may attempt to remove any such information if it is technically feasible to do so and as per the applicable laws.
+  * Further, with respect to Non-Personal Information automatically collected and stored in files, we shall use this information to understand and analyze trends, to administer our services, to learn about user behavior on the apps and while using our services, to gather demographic information about the user base as a whole and to measure traffic patterns on our network and apps. As Non-Personal Information does not personally identify you, we may use and disclose Non-Personal Information at our discretion.
 
-“ **‘MKCL’s DBForms” Proprietary Rights:** You acknowledge and agree that the Service contain proprietary and confidential information that is protected by applicable intellectual property and other laws. Except as expressly authorized by ”MKCL’s DBForms”, you agree not to modify, rent, lease, loan, sell, distribute or create derivative works based on the Service, in whole or in part. You also agree NOT to extract the code or reverse-engineer it in any way. Any attempt at hacking or unlawful use of ”MKCL’s DBForms” can and will invite the maximum prosecution allowable under the law.
 
-**Warranties and Disclaimers** :  Our Warranties. We warrant that (i) the Services shall perform materially in accordance with the Documentation, and (ii) the functionality of the Services will not be materially decreased during a subscription term. For any breach of either such warranty, your exclusive remedy shall be Termination of Use.
 
-**”MKCL’s DBForms” Privacy Policy**
+* * *
 
-**Registration:**
+###### Sharing and Disclosure
 
-In order to be a registered user of this app to avail the various services offered by ’MKCL’s DBForms”, a user must contact MKCL for registration. During registration a user is required to give their Name, Contact information and handheld device information so that Admin of MKCL’s DBForms shall create user into the system. The registration information given by the user must always be accurate, correct and up to date. This information is used to contact the user.
+**We do not sell or rent personal information to any third party entities.** We limit the disclosure of the Personal Information to certain circumstances, as provided below:
 
-**User Information:**
+  * **Mergers or acquisitions:** In a scenario where we or our assets are merged or acquired by the other business entity, or during restructuring of business or re-organization, we may have to share information provided by you with the other business entities. Rest assured, if such a transaction occurs the other business entity or the newly combined business entity would be required to follow this Privacy Policy.
+  * **Partners:** We engage a number of vendors, consultants, contractors and take support of our group companies or affiliates (hereon referred to as our Partners). Our Partners provide a host of services including contact information verification, payment processing, customer service, website hosting, data analysis, infrastructure provision, IT services, and other similar services. These Partners play a key role in seamless delivery of our products and services to you. These Partners and their employees operate under a contract and strict security & confidentiality restrictions. We may provide our partners access to your information through our systems or may share your Personal Information with them to enable them to provide their services to you.
+  * **Government or judicial process:** We may share your Personal Information with the government / government authorities or agencies and legal or judicial authorities for any investigation or to comply with legal process or in response to a request by any of these authorities or to enforce applicable terms and conditions or to protect our, our users and Partners rights, privacy, safety or property.
+  * **Legal Reasons:** The information provided by you may be shared with our other entities and affiliates to help in detecting and preventing identity theft, frauds and other illegal activities; correlate or map related accounts to prevent misuse of our products & services and to provide you our services.
+  * **Protection of MKCL:** To protect your rights and/or those of our Partners, and to allow MKCL to pursue available remedies or limit the damages that it may sustain in case of unauthorized use / misuse of our products or the content thereon, by third parties.
 
-All information provided by the user is available only to the Admin of the MKCL’s DBForms. Please be aware of this.
 
-**Security:**
 
-This app takes every precaution to protect users' information. When users synchronize any information via forms available on handheld device to the server, the information is protected on servers. 
+* * *
 
-**Notification of Changes:**
+###### Storage, Retention and Security
 
-If we decide to change our privacy policy, we will post those changes so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+  1. We have adopted reasonable security practices and procedures, in line with international standard IS/ISO/IEC 27001, to include strategic, operational, managerial, technical, and physical security controls to safeguard and protect your data and information. We have implemented such measures, as stated above, to protect against unauthorized access to and unlawful interception of Personal Information. Additionally, we have adopted measures to ensure that your personal information is accessible to our employees or partners employees strictly on the need to know basis.
+  2. Our website, applications, portals, and network equipment have industry standard security precautions in place to protect the loss, misuse and alteration of information which is in our environment. Whenever you change or access your account information, we facilitate the use of secure systems. The information in our custody and control is protected by adherence to reasonable security procedures in order to safeguard against unauthorized access. We apply encryption or other appropriate security controls to protect Personal Information when stored or transmitted by us.
+  3. Your information or data will primarily be stored in electronic form. However, certain data can also be stored in physical form.
+
+
+
+We may enter into agreement with third parties to collect, store, process your information or data but under full compliance with applicable laws. These third parties may have their own security standards to safeguard your information or data and we will require such third parties to adopt reasonable security standards to safeguard your information / data on commercially reasonable basis.
+
+We have taken appropriate steps for the security and protection of all our digital platforms including internal applications, however, we shall not be responsible for any breach of security or the disclosure of Personal Information for reasons outside our control, such as hacking, social engineering, cyber terrorism, espionage by third parties, or any events by way of force majeure such as sabotage, fire, flood, explosion, acts of God, civil commotion, strikes or industrial action of any kind, riots, insurrection, war, acts of government.
+
+* * *
+
+###### Third Party Websites, Applications and Services
+
+MKCL Application/website may include links to other websites/applications. Such websites/applications are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the address bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the website/application you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these websites/applications via a link from the website's homepage, you should contact the website/application directly for more information.
+
+Whenever you request us to share your information with a third party website or application, we will provide a fresh notice and obtain consent from you regarding the details of the information that will be shared, before sharing the same. In such a case, MKCL will not be in control of the information (shared with the third party website/application or data generated based on your usage on that website/application) and MKCL’s privacy policy will not be applicable. The third party website/application will handle the information according to its own privacy policy. The customer shall read and provide consent to the third party’s privacy policy before requesting MKCL to share the information.
+
+* * *
+
+###### Access, Correction and Deletion
+
+We strive hard to keep our records updated and accurate with your latest information. You shall be responsible to ensure that the information or data you provide from time to time is and shall be correct, current and updated and you have all the rights, permissions and consent to provide such information or data.
+
+Based on technical feasibility, we will provide you with the access to all your personal and sensitive personal information that we maintain about you. We will perform verification before providing you access to this information.
+
+You may request access, correction or updation, and deletion of the information by contacting MKCL.
+
+You may note that deletion of certain information or withdrawal of consent may lead to cancellation of your registration with us or your access to our services. Additionally, we may not be able to process your request of correction, updation or deletion, in case the same is not supported by valid documents or data retention if required by the applicable law or law enforcement requests or under any judicial proceedings or it is extremely difficult to implement (such as requests related to backup copies or if a new system is required to process the request or change of technical design) or risks the privacy of other users.
+
+* * *
+
+###### Queries and complaints
+
+We are committed to protect your personal information collected and processed by us and look forward to your continued support for the same. In case of any feedback or concern regarding protection of your personal information, you can contact us at [mkcl@mkcl.org](mailto:mkcl@mkcl.org).
