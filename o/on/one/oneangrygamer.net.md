@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneangrygamer.net privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126033514id_/https%3A//www.oneangrygamer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneangrygamer.net privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216092447id_/https%3A//www.oneangrygamer.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - One Angry Gamer
 
@@ -12,7 +12,7 @@ We do not actively collect or seek to collect information or data from any perso
 
 **Third-Party Services**
 
-Third-party software services may request information from you for participating in their functionality, such as Disqus, Facebook or Twitter. We do not use or request visitor information for any purposes, unless otherwise intended for giveaways and contests.
+Third-party software services may request information from you for participating in their functionality, such as Disqus, Facebook, Twitter, or dedicated ad services. We do not use or request visitor information for any purposes, unless otherwise intended for giveaways and contests.
 
 Some of the websites linked on or through One Angry Gamer may also request personal or private information depending on the nature of the site. Some links that appear on One Angry Gamer may include, but are not limited to: contests, beta registration forms, sign-up pages, digital storefronts or official gaming websites. We do not provide user indemnity for whatever occurs off this site or through any links that may appear on One Angry Gamer, either in the form of an article or through a linked comment, social media service, page or ad.
 
