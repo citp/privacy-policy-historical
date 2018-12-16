@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickbuzzmedia.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505212432id_/http%3A//www.clickbuzzmedia.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickbuzzmedia.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216100605id_/http%3A//www.clickbuzzmedia.com/policy) for the most accurate reproduction.*
 
 # ClickBuzz Media
 
