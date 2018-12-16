@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527033827id_/https%3A//www.statefarm.com/customer-care/privacy-security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216030806id_/https%3A//www.statefarm.com/customer-care/privacy-security/privacy) for the most accurate reproduction.*
 
 # State Farm Notice of Privacy Policy - State Farm®
 
@@ -21,6 +21,7 @@ This Notice describes how we protect, collect, use, and share customer informati
     * you expressly authorize it; or
     * it is permitted or required by law; or
     * your insurance policy contract with us permits us to do so.
+  * We may share customer information and permit others to use that information if you give us your consent, it is necessary to complete a transaction you request, or it is otherwise permitted by law.
   * We handle information about former and prospective customers the same as existing customers.
 
 
