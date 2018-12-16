@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyauction.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617145025id_/http%3A//www.skyauction.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyauction.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216100953id_/http%3A//www.skyauction.com/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
