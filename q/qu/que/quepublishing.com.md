@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quepublishing.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609235924id_/http%3A//www.informit.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quepublishing.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216053204id_/http%3A//www.informit.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Notice | InformIT
 
@@ -40,7 +40,7 @@ We will share anonymous demographic information and/or webpage browsing patterns
 
 We use an outside credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
 
-From time-to-time we partner with outside service providers and other vendors that provide enhanced functionality on our website that may be of interest to you. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. For example, we may contact customers who have not checked out to follow up on abandoned shopping carts or to see if there was a problem with their use of the site. These parties are not allowed to use Personally Identifiable Information except for the purpose of providing these services. Like newsletters and promotional or special offers that we may send to you, you may opt out of receiving these abandoned cart reminders at any time by simply unsubscribing from this service. Simply click the unsubscribe link at the bottom of your abandoned cart reminder, and you will be able to manage and/or remove your account information.
+From time to time, we partner with outside service providers and other vendors that provide enhanced functionality on our website that may be of interest to you. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. For example, we may contact customers who have not checked out to follow up on abandoned shopping carts or to see if there was a problem with their use of the site. These parties are not allowed to use Personally Identifiable Information except for the purpose of providing these services. Like newsletters and promotional or special offers that we may send to you, you may opt out of receiving these abandoned cart reminders at any time by simply unsubscribing from this service. Simply click the unsubscribe link at the bottom of your abandoned cart reminder, and you will be able to manage and/or remove your account information.
 
 ### Links
 
@@ -48,7 +48,7 @@ This web site contains links to other sites. Please be aware that we are not res
 
 ### Newsletters
 
-If you have elected to receive email newsletters or promotional mailings and special offers but want to unsubscribe, simply visit **[www.informit.com/u.aspx](https://web.archive.org/u.aspx)** , enter your email address in the field supplied, and click the Submit button. On the resulting page, check the box of the particular item(s) you would no longer like to receive, and click the Unsubscribe button. 
+If you have elected to receive email newsletters or promotional mailings and special offers but want to unsubscribe, simply email [information@informit.com](mailto:information@informit.com?subject=Unsubscribe) and put "Unsubscribe" in the subject line or body of the message. 
 
 ### Service Announcements
 
