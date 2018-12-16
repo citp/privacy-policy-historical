@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacoste.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908081636id_/https%3A//www.lacoste.com/us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacoste.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216171925id_/https%3A//www.lacoste.com/us/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Lacoste
 
