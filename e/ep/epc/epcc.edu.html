@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the epcc.edu privacy policy that was archived on 2018-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180616193302id_/http%3A//www.epcc.edu/Site/Pages/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the epcc.edu privacy policy that was archived on 2018-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181216193139id_/http%3A//www.epcc.edu/Site/Pages/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html __expr-val-dir="ltr" dir="ltr"><head><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="GENERATOR" content="Microsoft SharePoint"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><title>
 	
@@ -72,13 +72,59 @@
 		
   		ga('create', 'UA-46930209-1', 'epcc.edu');
   		ga('send', 'pageview');
+  		
+  		var analyticsTimeout = setTimeout(
+        function(){
+        	addAnalyticsToDocuments();
+        	addAnalyticsToExternalLinks();
+        }, 500);
+
+
+        // Add Google Analytics pageview to document links (.pdf, .docx, .xlsx)
+        function addAnalyticsToDocuments() {
+            $('a[href$=".pdf"]').off('click').click(function () {
+                ga('send', {
+                    hitType: 'pageview',
+                    title: $(this).text(),
+                    location: $(this).prop('href')
+                });
+            });
+        }
+        
+        
+
+
+// Add Google Analytics tracking event to external links
+function addAnalyticsToExternalLinks() {
+    $('#main-container a').each(function () {
+        if (location.hostname !== this.hostname) {
+            if (this.href.indexOf('javascript:') === -1) {
+                var label = '';
+
+                if ($(this).text().trim().length)
+                    label += $(this).text() + ' - ';
+                label += $(this).prop('href') + ' from ' + location.href;
+
+                $(this).click(function () {
+                    ga('send', {
+                        hitType: 'event',
+                        eventCategory: 'External Link',
+                        eventAction: 'click',
+                        eventLabel: label
+                    });
+                })
+            }
+        }
+    });
+}
+
 		
 	</script>
 	
 	<link rel="shortcut icon" href="/images/favicon.ico"></head>
 <body onload="javascript:_spBodyOnLoadWrapper();" style="">
 	<div id="background-container"></div>
-	<form name="aspnetForm" method="post" action="/web/20180616193302id_/http%3A//www.epcc.edu/Site/Pages/Privacy.aspx" id="aspnetForm" class="main-form">
+	<form name="aspnetForm" method="post" action="/web/20181216193139id_/http%3A//www.epcc.edu/Site/Pages/Privacy.aspx" id="aspnetForm" class="main-form">
 <input type="hidden" name="__SPSCEditMenu" id="__SPSCEditMenu" value="true">
 <input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
 <input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
@@ -87,7 +133,7 @@
 <input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
 <input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
 <input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
-<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xD29873D6421726F0C00FB5AF098343B2094D303C7E908077B6CB910467054E6B8CFF71BDFE5C6C3678FAEF7D7B6AA43770C847D5110A42DF49D8573F074B1742,16 Jun 2018 19:33:02 -0000">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x463BA2F75AD7D5C878EDAF100FC54D3FED8757D93D66A47B0D5A2ADE15CAA7C882F9B500DD203A2797414C6F7794F341A9FFC117F17CE386C77171081A5C6F8F,16 Dec 2018 19:31:39 -0000">
 <input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="">
 <input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="">
 <input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
@@ -235,7 +281,6 @@
 															<a class="nav-box-title-link" href="http://www.epcc.edu/dualcredit/Pages/default.aspx"><h3 class="nav-box-title">Dual Credit Program:</h3></a>
 															<ul>							
 																<li><a href="http://www.epcc.edu/earlycollegehighschool/Pages/default.aspx">Early College High School</a></li>
-																<li><a href="http://www.epcc.edu/dualcredit/Pages/FAQs.aspx">FAQs</a></li>
 																<li><a href="http://www.epcc.edu/dualcredit/Pages/Parents.aspx">Parents</a></li>
 															</ul>												
 															
@@ -385,7 +430,7 @@
                                                             <li><a href="http://www.thecb.state.tx.us/apps/resumes/">Institutional Resume</a></li>
                                                             <li><a href="http://www.epcc.edu/AboutEPCC/Pages/Mission.aspx">Mission &amp; Goals</a></li>
                                                             <li><a href="http://www.epcc.edu/InstitutionalEffectiveness/Pages/Policies.aspx">Policies &amp; Procedures</a></li>
-                                                            <li><a href="http://www.epcc.edu/researchandaccountability/Pages/default.aspx">Research &amp; Accountability</a></li>
+                                                            <li><a href="http://www.epcc.edu/researchandaccountability/Pages/default.aspx">Research, Accreditation &amp; Planning</a></li>
                                                             <li><a href="http://www.epcc.edu/ConsumerInformation">Consumer Information</a></li>
                                                         </ul>
                                                     </div>
