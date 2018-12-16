@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidfeeds.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616074729id_/http%3A//www.rapidfeeds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidfeeds.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216223937id_/http%3A//www.rapidfeeds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RapidFeeds
 
