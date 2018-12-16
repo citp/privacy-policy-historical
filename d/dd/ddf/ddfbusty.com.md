@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddfbusty.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623065205id_/https%3A//ddfbusty.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddfbusty.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216153525id_/https%3A//ddfbusty.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -107,7 +107,13 @@ The Sites may contain links to other websites. Please be aware that we are not r
 
 ## How to Contact DDFBUSTY
 
-If you have comments or questions regarding our privacy policy, please contact us through our [support form](http://support.ddfprod.com/?ref=ddfbusty) or via email at support@ddfsupport.com.
+If you have comments or questions regarding our privacy policy, please contact us through our [support form](http://ddfsupport.com/) or via email at support@ddfsupport.com.
 
   
 
+
+[](https://web.archive.org/ "Home")
+
+DDFBUSTY is a site of DDF Communications, s.r.o. Krakovská 1366/25, Nové Město, 110 00 Praha 1
+
+DDF Busty is the hottest big tits porn videos site in the world with the best 4K porn videos for 2018 
