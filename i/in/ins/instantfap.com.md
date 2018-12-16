@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantfap.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606102835id_/http%3A//instantfap.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantfap.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216083740id_/http%3A//instantfap.com/terms-privacy) for the most accurate reproduction.*
 
 # InstantFap - Terms & Privacy
 
@@ -59,4 +59,4 @@ Jurisdiction
 
 These terms and conditions will be governed in accordance with the laws of Austria, and any disputes relating to these terms and conditions will be subject to the nonexclusive jurisdiction of the courts. 
 
-You may email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#563f38252237382230372616313b373f3a7835393b) if you have any questions or believe that somebody has misused any of these terms. 
+You may email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7811160b0c19160c1e1908381f15191114561b1715) if you have any questions or believe that somebody has misused any of these terms. 
