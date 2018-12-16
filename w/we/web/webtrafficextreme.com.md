@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtrafficextreme.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190250id_/http%3A//webtrafficextreme.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrafficextreme.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216212339id_/http%3A//webtrafficextreme.com/privacy.php) for the most accurate reproduction.*
 
 # Web Traffic Extreme! Free Traffic Exchange | Free Advertising Free Web Traffic
 
