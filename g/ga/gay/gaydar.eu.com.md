@@ -1,73 +1,72 @@
-> *The following text is extracted and transformed from the gaydar.eu.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313060115id_/http%3A//www.gaydar.net/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydar.eu.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217000604id_/https%3A//gen.xyz/privacy) for the most accurate reproduction.*
 
-# Gaydar - What you want, when you want it
+# Privacy Policy | .xyz Domain Names | Join Generation XYZ
 
-We take the privacy rights of users of this Site very seriously and seek to ensure the highest standards of compliance with UK Data Protection Laws and Regulations.
+Last modified: May 17, 2018
 
-This Privacy Policy is incorporated in and subject to the Site [Terms and Conditions](https://web.archive.org/info/tandcs.asp). This Privacy Policy explains to You how We may use Your Data when You register as a Member (as relevant) or otherwise use the Site.
+Gen.xyz (the “website”, “we”, “us”, “our”) respects your privacy. We have created this privacy policy in order to demonstrate our commitment to you, our customer. This privacy policy discloses the privacy practices for this website. This privacy policy may be revised periodically and this will be reflected by the date above. Please revisit this page to stay aware of any changes. By using the website you agree to the privacy practices disclosed below.
 
-  * 1\. Your Data
+## What information do we ask you for and why?
 
-    * 1.1 "Your Data" means any information about You which is personally identifiable, including, without limitation, Your name, address, telephone number, email address, financial details, Member Name, Password, comments, profiles, personal descriptions, photos and other information from which You can be identified and which You may disclose to Us or otherwise via the Site at any time.
-  * 2\. When do We collect Your data?
+The website uses forms where you give us personal information (like your name, address, phone number, payment information and email address) so you can create an account, place orders, request information, etc. If you do not provide this information, we may not be able to provide you with the services offered on this website.
 
-    * 2.1 If You register as a Member, We collect Data when You: 
-      * 2.1.1 register as a Member;
-      * 2.1.2 update Your Member Profile or Settings; and
-      * 2.1.3 post an entry on the Site.
-    * 2.2 If You otherwise use the Site (whether or not You are a Member), We collect Your Data from You: 
-      * 2.2.1 when You make a complaint or enquiry or provide other feedback to Us;
-      * 2.2.2 when You submit an entry to a competition or prize draw;
-      * 2.2.3 when You request to be sent Our Newsletter;
-      * 2.2.4 in monitoring Your communications sent via and use of the Site ensure and check compliance with the Terms and Conditions of Use or Membership Terms and Conditions or otherwise as required by law; and
-      * 2.2.5 when You disclose Your Data to Us or otherwise through the Site at any other point.
-  * 3\. How do We use Your Data:
+## What do we do with your personal information?
 
-    * 3.1 We use Your Data to: 
-      * 3.1.1 monitor, develop and improve the Site, Services and Your experience;
-      * 3.1.2 process Your registration as a Member and to process and administer Your Membership (where appropriate);
-      * 3.1.3 process and deal with any complaints or enquiries made by or about You;
-      * 3.1.4 investigate any suspected breach of the Terms and Conditions of Use or Membership Terms and Conditions (as relevant) made by or otherwise relating to You and to monitor compliance including by way of checking postings to the Site, retaining forum or chat room exchanges and using keyword triggers to investigate usage that may be inappropriate;
-      * 3.1.5 where (and only where) requested by You, to send You and keep You updated with information by email about existing and new services and special offers from Us;
-      * 3.1.6 where (and only where) requested by You, to send You information by e-mail about related products or services of selected third parties that may be of interest to You; and
-      * 3.1.7 where you are a prize winner, to publish or otherwise make available a list of prize winners.
-    * To opt-out of receiving any information pursuant to paragraphs 3.1.5 or 3.1.6, You can:
+We do not give third parties access to your personal information other than as outlined in this privacy policy. We will never give any information about you to others without your express permission. We may share specific information with business partners or contractors when the information is needed to fulfill your request for a product or service. We also use your contact information when it will be important for us to contact you regarding functionality changes to our products, our website, new services and special offers we think you’ll find valuable and provide customer service. You can contact us at the email address at the bottom of this page if you would like to make any modification to the information you have provided us.
 
-      * i. amend Your preferences accordingly in Your Profile or Settings;
-      * ii. use the facility contained in any such communication; or
-      * iii.email us at [privacypolicy@cpcconnect.co.uk](mailto:privacypolicy@cpcconnect.co.uk) stating Your Profile name, the Site You are registered with and who You do not wish to receive further communications from.
-  * 4\. Will we pass on Your Data to third parties?
+## How else do we get information about you?
 
-    * 4.1 We may pass Your Data to other parties as follows: 
-      * 4.1.1 Where relevant, Your Member Name and information you voluntarily provide in Your Member profile will be published on the Members' area of the site and this will be the identity by which You are known on the Site. Where other Members wish to chat or otherwise contact You, they will be able to identify You by Your Member Name and any other information You may yourself disclose via the Site.
-      * 4.1.2 To Our employees and agents to administer Your Membership and the services provided to You by Us now or in the future.
-      * 4.1.3 Some general statistical information about the Site User base, sales patterns, traffic volumes and related matters may be passed on to reputable third parties but these details will not include information personally identifying You.
-      * 4.1.4 We may disclose Your Data to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the Terms and Conditions of Use and (where appropriate) Membership Terms and Conditions by You or otherwise where required by law.
-    * 4.2 We do not pass or sell Your Data to third persons for any other purpose than those set out in 4.1 above. Any marketing under paragraph 3.1.6 is conducted by Us on behalf of third parties and they do not have any access to Your Data unless You Yourself choose to contact them.
-    * 4.3 Always think carefully before disclosing Your Data or other information to other Members or otherwise posting Your Data on the Site. It is important that You are aware that any of Your Data or other information which You disclose to another Member may then be disclosed on the Site by that Member. As stated in the [Terms and Conditions](https://web.archive.org/info/tandcs.asp), We have no responsibility or control over the contents of communications made between Members.
-  * 5\. Data Security
+We use information gathered about you from our site statistics via log files provided by third party tracking partners (for example your IP address) to help diagnose problems with our server, and to administer our website. We also gather broad demographic information from this data to help us improve our site and your experience. This information collection is not linked to any personally identifiable information. Our site uses cookies to keep track of your session information and to provide you with customized information. We do link the information we store in cookies to personally identifiable information you submit while on our site.
 
-    * 5.1 We endeavour to take all reasonable steps to protect Your Data. All the Data collected by Us is stored on a secure server. The secure server software encrypts all information You input before it is sent to Us.
-  * 6\. Cookies
+We may use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided by your internet browser (ex: Mozilla Firefox or Internet Explorer).
 
-    * 6.1 Cookies are small pieces of information stored by Your browser on Your computer's hard drive. We use cookies to allow Us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited, to determine the most popular areas of the Site and generally in order to monitor usage of the Site. Most web browsers automatically accept cookies, though You do not have to. We do not control the use of cookies by third parties. If You wish to disable cookies then You can do so by readjusting Your browser settings although please note that by disabling cookies You may not be able to register with or use all features of the Site.
-    * 6.2 For more information on cookies and how to disable them, You can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
-  * 7\. Access to and Updating Your Data
+We also may use cookies to store your username if you request to remember your username during login. That information will be used to pre-fill the login form at a later time. If you are referred to our website through an ad or a partner, we will store the referral information in the cookies.
 
-    * 7.1 Where You are a Member, You may access and update Your Data contained in Your Member Account accessed by the "Settings" link. You must make sure that You update Your Data as soon as possible with any and all relevant changes.
-    * 7.2 If You are not a Member but would like to update Your Data, then please contact Us at [privacypolicy@cpcconnect.co.uk](mailto:privacypolicy@cpcconnect.co.uk) setting out Your Profile name, the Site to which you are registered and the details that You wish to change.
-  * 8\. Other links
+## Can we contact you?
 
-    * 8.1 Please be aware that the Site may link to other web sites that may be accessed by You through Our Site. We are not responsible for the data policies, content or security of these linked web sites. We do not have any control over the use to which third parties may put Your Data where You choose to purchase products or services or otherwise to contact them via this Site.
-  * 9\. Transfer Outside the EEA
+We, our affiliate(s) and/or third parties may also promote products and service offerings to you via email, sms-text message, or telephone. You may receive emails, sms-text messages, or telephone contacts for as long as you wish to continue to receive such contacts. You can be removed from our contact lists at any time with no questions asked. To remove your information from our database to not receive future marketing communications contact us at [hello@gen.xyz](mailto:hello@gen.xyz).
 
-    * 9.1 This Site is accessible via the internet and therefore may potentially be accessed by anyone around the world. Other Members may also be or access the Site from outside the European Economic Area. This means that, where You post Your Data on the Site, this could be accessed from anywhere around the world and therefore a transfer of Your Data outside of the European Economic Area may be deemed to have occurred. You consent to such transfer of Your Data for and by way of this purpose.
-  * 10\. Contact Us
+## What other information may we collect?
 
-    * 10.1 If You have any comments or queries in connection with Our privacy policy, please contact Us by email at [privacypolicy@cpcconnect.co.uk](mailto:privacypolicy@cpcconnect.co.uk), or write to Us at CPC Connect Ltd, PO Box 113, Twickenham, TW1 4WY, stating Your Profile name, the Site to which You are registered and/or to which Your complaint relates.
+In order to use this website, a user may first have to complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required.
 
+We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we’ll use this information to contact you.
 
+From time-to-time this website may request information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-For banner advertising information contact [advertising@gaydar.net](mailto:advertising@gaydar.net)
+## Do we track you across third party websites?
 
-CPC Connect Limited is registered in England and Wales. Registration Number: 8449494. Registered Office: 26 Red Lion Square, London, WC1R 4AG, United Kingdom 
+We do not track our customers over time and across third party websites, and therefore do not respond to Do Not Track (DNT) signals. However, in addition to using cookies and related technologies as described above, we also may permit certain third party companies to help us tailor advertising that we think may be of interest to users and to collect and use other data about user activities on our Sites and/or Services (e.g., to allow them to tailor ads on third party services). These companies may deliver ads that might also place cookies and otherwise track user behavior across third party websites.
+
+We use Google Analytics’ 3rd-party audience data such as age, gender and interests to better understanding the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on this website or other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.
+
+You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by editing your Google Display Network ads’ preferences at <http://www.google.com/ads/preferences/>. For further information regarding the privacy practices of our advertisement provider, please visit <http://www.google.com/privacypolicy.html>.
+
+## What about Minors?
+
+This website is not intended for children under the age of 13 and you may not use this website or submit any data to this website if you are under the age of 13. If we find we have collected ant data from anyone under the age of 13, we will delete it. 
+
+## How do we protect your data?
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, transmission alteration, and disclosure. The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our website, you are responsible for keeping this password confidential. Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our website. Any transmission of personal information is at your own risk.
+
+## For California Residents
+
+California residents may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [hello@gen.xyz](mailto:hello@gen.xyz).
+
+## For Non-US Residents
+
+The website is hosted in the US and is intended for and directed to users in the US. The laws of the US apply to your use of this website. By submitting information on this website, it is being transmitted to the US and you consent to that transfer. 
+
+## For EU Citizens
+
+The website is hosted in the United States and is intended for and directed to users in the United States. Nevertheless, the following applied to any EU citizens that we collect data on. We are the controller of your data. Your right to be forgotten will be honored and if you request, we will permanently erase all collected data about you. Please email [hello@gen.xyz](mailto:hello@gen.xyz) to make this request. Otherwise, your data will be stored indefinitely. Your data will not be transferred across borders, other than its initial transmission to the US when you submit your information to us. No automated processing of personal data that will take place (including profiling). 
+
+## Questions?
+
+If you have any questions, please contact us at:
+
+[hello@gen.xyz](mailto:hello@gen.xyz)  
+Generation.XYZ LLC  
+2800 Olympic Blvd Ste 100  
+Santa Monica, CA 90404
