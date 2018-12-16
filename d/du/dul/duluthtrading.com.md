@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006152317id_/http%3A//www.duluthtrading.com/store/dtc-shared/customer-service/privacy-and-security/privacy-security-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216222031id_/https%3A//www.duluthtrading.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy & Security - Duluth Trading
+# Privacy & Security Policy - Duluth Trading Company | Duluth Trading Company
 
 This Privacy Policy describes the current policies and practices of Duluth Holdings Inc. d/b/a Duluth Trading Company ("DTC") with regard to Personal Data collected by DTC on its website, www.duluthtrading.com (the "Website"). "Personal Data" refers to personally identifiable information about you (such as your full name, birth date, e-mail address or mailing address, phone number and any other information that can be used to identify or contact you).
 
