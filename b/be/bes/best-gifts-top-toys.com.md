@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-gifts-top-toys.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625123013id_/https%3A//www.best-gifts-top-toys.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-gifts-top-toys.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216043319id_/https%3A//best-gifts-top-toys.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy - Best Gifts Top Toys
 
