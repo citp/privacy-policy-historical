@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightloss.com.au privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617033859id_/http%3A//www.weightloss.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightloss.com.au privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216022816id_/http%3A//www.weightloss.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -44,7 +44,7 @@ _Newsletters_. By checking the opt-in box on our contact page or typing your ema
 
 _Message board response notices_. You will be posted an email indicating when someone has responded to your message board posting. Upon use of our message board, you are granted the choice to opt-in for this reply service by checking the opt-in box.
 
-If you believe that you are a recipient of any other information not specified above which may or may not be interpreted as spam mail, please email security@weightloss.com.au immediately.  
+If you believe that you are a recipient of any other information not specified above which may or may not be interpreted as spam mail, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) immediately.  
 **  
 Log Files.**
 
