@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mixxmix.us privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530085922id_/http%3A//mixxmix.us/member/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixxmix.us privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216072858id_/http%3A//www.mixxmix.us/member/privacy.html) for the most accurate reproduction.*
 
 # mixxmix | OFFICIAL ENGLISH WEBSITE
 
-'MIXXMIX' (hereinafter referred to as the "Company") is committed in protecting your personal information and in complying with the Consumer Protection in Electronic Commerce Act. The Privacy Policy covers the purposes and ways of collecting your personal information and on how your information is secured by Company.
+\'MIXXMIX\' (hereinafter referred to as the "Company") is committed in protecting your personal information and in complying with the Consumer Protection in Electronic Commerce Act. The Privacy Policy covers the purposes and ways of collecting your personal information and on how your information is secured by Company.
 
 In case of any modifications in the Privacy Policy , Company will provide you notice through the site and/or by sending personal notification.  
   
