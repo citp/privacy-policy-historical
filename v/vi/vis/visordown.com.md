@@ -1,98 +1,153 @@
-> *The following text is extracted and transformed from the visordown.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405155809id_/http%3A//www.visordown.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visordown.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216081657id_/http%3A//cmg.london/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Visordown
+# Privacy Policy | CMG
 
-As set out above, Immediate is committed to safeguarding your personal information. Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998 (these laws are referred to collectively in this Privacy Policy as the “data protection laws”).
+**To see our cookie policy please[click here](https://web.archive.org/web/20181216081657id_/http%3A//cmg.london/cookie-policy)**
 
-Our websites may contain hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information which you submit or which is collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
+**Crash Media Group - Privacy Policy**
 
- **2\. WHAT INFORMATION WILL IMMEDIATE COLLECT ABOUT ME?**
+Crash Media is a company that is registered in the UK with Company Number 3729433 and with a registered address at Crash Media Group, 78-80 St John's Street, London, EC1M 4EH. 
 
-When you sign up to participate in or receive a service from Immediate, such as newsletters, competitions, magazine subscriptions, ordering products, readers’ offers, live chats, message boards, surveys or online registration we may ask for personal information about you. This can consist of information such as your name, e-mail address, postal address, telephone or mobile number or date of birth. Different services or webpages may ask for different personal information.
+**Our Data Promise to you**
 
-By entering your details in the fields requested, you enable Immediate and its service providers to provide you with the services you select.
+Crash Media Group is absolutely committed to respecting and protecting your data whilst it is in our care. We collect your personal information because it helps us to understand your needs and guides the way in which we interact and communicate with you about our products and services now and in the future. We have strict policies and procedures in place to protect your data when you send it to us, when we process it in order to provide you with the services you have requested or, where you have given us your permission to do so, to send you information that we think you'll find interesting, and thereafter when we store your data on our secure servers. 
 
-Please note that sometimes on particular services (e.g. chat forums) you may be asked to provide or you may volunteer additional personal information and sometimes sensitive personal information (e.g. your political opinions, religious beliefs, sex life or health).
+We are notified with the Information Commissioner's Office, the regulator of the Data Protection Act 1998 and abide by its requirements. 
 
-We may also use your IP address for some of our website services (see **section 3: How will Immediate use the information they collect about me? and section 12: Cookies Policy below** ).
+**What personal data do we collect?**
 
- **3\. HOW WILL IMMEDIATE USE THE INFORMATION THEY COLLECT ABOUT ME?**
+Crash Media Group collects both Personal Data and Anonymous Data when you send us information or when you visit one of our websites. When we talk about Personal Data we mean any information that can identify you as an individual, such as your name and postal address. Anonymous Data doesn't identify you as a person but it might be used in aggregate, for instance when you participate in a survey. 
 
-Immediate will use your personal information for a number of purposes including the following:
+**How do we keep it secure?**
 
- **4\. WILL IMMEDIATE SHARE MY PERSONAL INFORMATION WITH ANYONE ELSE?**
+Our servers are protected using HTTP and SSL technology (where indicated), so whilst your data is in our care we know it's as secure as it can be. We are taking all reasonable steps to meet our obligations and responsibilities under the Data Protection Act 1998 and other privacy legislation, including the EU General Data Protection Regulation (GDPR). 
 
-Generally, we will only use your information within the Immediate Media Company group of companies in order to provide the service/product you have requested.
+When we ask another organisation to provide a service for us, we ensure that they have appropriate security measures in place. If we or our service providers transfer any information out of the European Economic Area (EEA), it will only be transferred with the correct protection in place, as stated in UK law. 
 
-We will only disclose your data to third party data processors with your consent or where we need to do so in order to provide a service. The data processors to whom we may pass your data will be Immediate Media Company group companies and appropriately contracted third parties. Otherwise, we will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies) or as described in **section 7: Offensive or inappropriate content on Immediate’s websites below**.
+The internet is not a totally secure medium and you acknowledge and agree that Crash Media Group shall not be responsible for unauthorised use, distribution, damage or destruction of personal data, except to the extent that we are required to accept such responsibility under the Data Protection Act 1998. 
 
-Immediate will require all third party data processors to whom your information is disclosed to comply strictly with its instructions and Immediate will require that they do not use your personal information for their own business purposes.
+**How do we collect and use your Personal Data?**
 
-Where we share your information with third party companies which are situated outside the EEA we will ensure they treat your information with the same protection we do.
+We collect your details when you register on one of our websites; subscribe to our services; subscribe to receive emails from us and our partners; participate in discussion boards or other social media functions on our website, or enter a competition or promotion. 
 
- **5\. WHEN WILL IMMEDIATE CONTACT ME?**
+With regards to each of your visits to our websites we may automatically collect the following information: 
 
-Immediate may contact you:
+  * Technical information, including the Internet protocol (IP) address used to connect your device to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system, unique identifiers and other device platform information; 
 
-in relation to the functioning of any service you have signed up for in order to ensure that Immediate can deliver the services to you;  
-in relation to any contribution you have made to any Immediate website, message board or other service;  
-where you have opted to receive newsletters or other correspondence;  
-to invite you to participate in surveys about Immediate services (participation is always voluntary);  
-to carry out obligations arising from any contracts entered into between you and Immediate; and  
-for marketing purposes where you have specifically agreed to this (see **section 6: Will I be contacted for marketing purposes? below** ).
+  * Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products or pages you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
 
-Our magazines or websites will give you detailed information about how Immediate will contact you in relation to specific services.
+  * Information about your interactions with our email messages, such as the links you click on and whether you open or forward a message, the date and time of these interactions and the device you use to read emails;
 
- **6\. WILL I BE CONTACTED FOR MARKETING PURPOSES?**
+  * Information collected through cookies, web beacons and other tracking technologies provided by our partners and affiliates
 
-Immediate won’t contact you for marketing purposes, or promote new services to you unless you agree to be contacted for these purposes.
 
- **7\. OFFENSIVE OR INAPPROPRIATE CONTENT ON IMMEDIATE’S WEBSITES**
 
-If you post or send offensive, inappropriate or objectionable content anywhere on a Immediate website, or otherwise engage in any disruptive behaviour, Immediate may use your personal information to stop such behaviour.
 
-Where Immediate reasonably believes that you are or may be in breach of the law (e.g. because content you have posted may be defamatory), Immediate may use your personal information to inform relevant third parties such as your employer, school e-mail/Internet provider or law enforcement agencies about the content and your behaviour.
+We will always be transparent about how we plan to use your data so that you have the choice whether or not to give it to us. We respect your preferences and will do our best to make sure that we keep our promises. 
 
- **8\. WHAT IF I AM A USER AGED 16 OR UNDER?**
+If you give us your consent to send you further marketing messages we may contact you from time-to-time with carefully selected offers and promotions from ourselves or from our network of carefully selected partners, from which you may always opt-out or unsubscribe. It is not our practice to contact you if you have made it clear that you do not wish to hear from us about our products and services. 
 
-If you are aged 16 or under, please get your parent/guardian’s permission before you provide personal information to Immediate. Users without this consent are not allowed to provide us with personal information.
+We may need to authenticate your identity to provide you with access to subscriber-only services. We might also send you surveys or invite you to enter a competition or receive a newsletter, for instance. If you do not wish to participate you may simply decline our invitations. 
 
- **9\. HOW LONG WILL IMMEDIATE KEEP MY PERSONAL INFORMATION?**
+As part of our Google Analytics tracking we have implemented the following features: Remarketing, Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising by visiting here <https://tools.google.com/dlpage/gaoptout/>
 
-We will hold your personal information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with Immediate or Immediate’s corporate retention schedule. If you wish to cancel your registration with any of Immediate’s websites, you may do so by following the “unsubscribe” instructions on the relevant website. If you change your profile to opt-out of receiving communications, your record may stay on the system so we can ensure that we do not contact you in the future.
+We use this information for reporting purposes and to advertise online. Third-party vendors, including Google, may show your ads on sites across the Internet. We may use the cookies relating to Google Analytics together with third party cookies to inform, optimise and serve ads based on a user's part visits to our websites. 
 
-Where you contribute to a Immediate service or website, Immediate will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted.
+For a full list of third parties we work with and links to their websites so you can see how they use cookies please go to [Crash Media Group's Cookie policy](http://www.cmg.london/cookie-policy). 
 
- **10\. CAN I FIND OUT WHAT PERSONAL INFORMATION IMMEDIATE HOLDS ABOUT ME?**
+**Do we share that data with any other companies?**
 
-Under the Data Protection Act you have the right to request a copy of the personal information Immediate holds about you and to have any inaccuracies corrected. (We charge £10 for information requests and will require you to prove your identity with 2 pieces of approved photographic identification.) We will use reasonable efforts to supply, correct or delete personal information about you on our files.
+Except as otherwise stated in this Privacy Policy or in the data collection statements that will always be visible when we collect your information and where we give you the opportunity to select your preferences, we may release your data to external companies that we use to process your orders, to supply you with a prize in the event you win a competition, for instance. Every supplier we use has to go through a rigorous up-front process to ensure that their processes are at least as good as our own. 
 
-If you have any requests or questions about this or any other question about this Privacy Policy please see **section 13: Contacting Immediate about this Privacy Policy** at the bottom of this document.
+However, you expressly consent to the sharing of your Personal Data with those suppliers with whom we contract in order to provide services to you, otherwise we may not be able to provide the level of service that we know you'll require. 
 
- **11\. CHANGES TO IMMEDIATE’S PRIVACY POLICY**
+If you send in a comment, we may post it on our site or use it as a testimonial without mentioning your full name or publishing any information that would identify you. Furthermore, in some circumstances we may display some of your information such as your username and age. Others may be able to see your personal data if you post any information in comments underneath articles or forums and may be used to send you unsolicited communications over which we have no control. 
 
-This privacy policy may be updated from time to time so you may wish to check it each time you submit personal information to any Immediate service. The date of the most recent revisions will appear at the bottom of this page.
+We may share some of your information with advertisers, ad servers and ad networks to deliver targeted advertising both on our websites and on selected partner websites but this will not include any information which directly identifies you. However, by interacting with or viewing an advert, you should be aware that the third party may make the assumption that you meet the targeting criteria used to display the advert. 
 
- **12\. COOKIES POLICY**
+These activities may involve the use of cookies and other similar technologies. To learn more or to see how you can opt out of targeted advertising, for more information please read our [Cookie Policy](). 
 
- **a. What is a cookie?**
+Please take care when using social networking sites too which we may invite you to join that you do not disclose anything that you might later wish to retract. 
 
-A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a “device”) browser from a website’s computer and is stored on your device’s hard drive. Each website or third party service provider used by the website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website or third party service provider to access the cookies it has already sent to you, not the cookies sent to you by other sites or other third party service providers.
+There are certain times when we may be legally required to disclose your data in good faith where it is required by law or to respond to subpoenas or warrants served on us, or where we have a requirement to protect or defend the rights of Crash Media Group or any users of our servers. We will always ensure that those requesting the information have the legal right to do so. 
 
-Cookies record information about your online preferences and allow us to tailor the websites to your interests. Users have the opportunity to set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these means that certain personalised services cannot then be provided to that user and accordingly you may not be able to take full advantage of all of the Immediate features. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.
+If another company should acquire any of our companies or our assets, including our database, that company will have the right of possession to the Personal Data collected by us and will assume the rights and obligations formerly attributable to us and will use the data in line with the terms under which you submitted it or as described in this Privacy Policy. 
 
- **b. How does Immediate use cookies?**
+**The information we may collect from you about others**
 
-Information supplied by cookies can help us to analyse your profile when you visit and help us to provide you with a better user experience. For example: if on a previous visit to gardenersworld.com you requested the weather report for your area, then the next time you visited our cookie could enable us to recognise your machine and offer you the latest weather for your area without you having to re-enter your details.
+Sometimes we may offer you the chance to invite a family member or a friend to enjoy a particular service. In such circumstances, we will collect both your personal details and those of your friend or family member. We will ask your consent to mention your name when we contact the person or persons you have recommended and we will only use this information once and not save it in our database, unless they have entered a competition, for example, when the information will be stored purely for that purpose. If they decide to take up any of our invitations then their data will be treated exactly the same as your own, using the terms under which the data was collected and the information as described in this Privacy Policy. 
 
-Immediate also uses a number of independent measurement, advertising and research companies. They gather information regarding the visitors to Immediate sites on our behalf using cookies, log file data and code which is embedded on our website. Immediate uses this type of information to help improve the services it provides to its users. Immediate strictly requires that third parties do not use any of this type of information for their own business or other purposes (see **section 4: Will Immediate share my personal information with anyone else? above** ). Certain other areas of Immediate websites may use cookies for a specific reason – for example, to help an online game work effectively on your device. If this is the case, the local terms for that area of the website will make this clear and you should refer to those local terms for additional information.
+**Leaving our website and moving on to third party websites**
 
- **13\. CONTACTING IMMEDIATE ABOUT THIS PRIVACY POLICY**
+When you click on advertisements or links on any of our sites, you will leave that site and go to a third-party site, which is outside of our control. When we place an advertisement on one of our sites, it does not signify that we are endorsing that advertiser's product or service. We do not accept responsibility for content, have no control over and our Privacy Policy does not apply to these companies, sites or content and if such third-party sites collect Personal Data, we cannot control how this data is processed, stored or used. We advise that you read their data collection statements, which accompany any registration and their Privacy Policies before you submit your personal information. 
 
-If you have any questions or comments about this Privacy Policy please contact:
+**Cookies and how we use them**
 
-The Company Secretary, Immediate Media Company Limited, Media Centre, 201 Wood Lane, London, W12 7TQ, United Kingdom
+"Cookies" are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. Crash Media Group uses cookies for a number of reasons: 
 
-Email: dataprotection@immediate.co.uk 
+  * To provide you with a more personal and interactive experience on our sites. 
 
-**Last updated: October 2011**
+  * For statistical purposes to track how many users we have and how often they visit our websites. 
+
+  * We use organisations to collect anonymous user information so they can analyse how the website is being used and the number of visitors. 
+
+  * We and our advertisers may use statistical cookies to track who has seen an advert and clicked on it. 
+
+  * To show you adverts that you may be interested in and to control the number of time you see them and measures the effectiveness of the ad campaign. 
+  * We may use 'Flash' cookies to store your preference for your media player. If we do not use them, it may not be possible for you to watch some video content. 
+  * You have the ability to accept or decline cookies, but please be aware that for some parts of our sites to work, you will need to accept cookies. For more information please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or [www.youronlinechoices.com](http://www.youronlinechoices.com/)
+
+
+
+
+For more information on how Crash Media Group uses cookies please read [our Cookie Policy](http://www.cmg.london/cookie-policy). 
+
+**Logging in using social networking**
+
+If you login to our sites using a Facebook login or a Google login, you are granting permission to Facebook and or Google login to share your user details with Crash Media Group. This will include your name, email address, date of birth and location which will then be used to form a Crash Media Group identity. This will also allow Crash Media Group and Facebook and/or Google login to share your networks, user ID and any other information you choose to share according to your Facebook and/or Google account settings. 
+
+**Opting Out on Receipt of Email Marketing Communications**
+
+If you receive a marketing email from us, you will have the option to "opt-out" by clicking on the unsubscribe link provided at the bottom of each and every message we send you. Please be aware that this will not unsubscribe you from our service based messages. 
+
+**Telephone and Mailing Preference Services**
+
+The Telephone Preference Service (TPS), the Corporate Telephone Preference Service (CTPS) and the Mailing Preference Service (MPS) allow you to choose to opt out of unsolicited marketing. However, if you are registered on any of the preference services, which are general opt-out registers, you may still receive marketing communications from us if you have given us your consent previously or if you subsequently give us that consent. 
+
+**Marketing to Children**
+
+We do not knowingly collect personal information from children under the age of 16 for marketing purposes. 
+
+**International Transfer:**
+
+For the purposes set out in this Privacy Policy, personal data may be transferred to, processed, stored and accessed by Crash Media Group and our affiliated service providers in the United States and in other jurisdictions where we or they operate. Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your personal data. By using our Services, you consent to this transfer, processing, storage and access of your personal data in and/or outside of the jurisdiction in which you reside. We will transfer your personal data subject to suitable safeguards, including standard contractual clauses where appropriate.
+
+**Using our websites from outside the UK**
+
+Some of our servers are situated in the EEA and when you submit your details, in whichever country you are situated, you agree to the data being transferred to the EEA and processed under the terms of the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not add your personal details on the website. 
+
+**How you can gain access to the personal data we collect about you**
+
+Under the Data Protection Act 1998, you have the right to see what information we hold about you and you may ask us to make any changes that you consider necessary to make the information accurate. If you want to apply to see the data we hold about you, please write to: 
+
+     The Data Protection Officer  
+Crash Media Group  
+78-80 St John's Street  
+London  
+EC1M 4EH 
+
+We will require that you satisfactorily identify yourself to demonstrate your entitlement to view this data. 
+
+**Questions regarding this Privacy Policy**
+
+If you have comments or questions related to this Privacy Policy please email [dataprotectionofficer@crash.net](mailto:dataprotectionofficer@crash.net) and we will respond as promptly and as fully as we can. 
+
+Complaints will be dealt with by the Data Protection Officer and will be responded to within 30 days. If you are not satisfied with the response you should refer your complaint to the ICO <https://ico.org.uk/concerns/>
+
+**Changes to this Privacy Policy**
+
+This Privacy Policy will be amended from time-to-time if we make any important changes in the way that we collect, store and use personal data. We may notify you by sending an email to your last known email address or writing to your last known postal address to direct you to the Privacy Policy if the changes are material. Our dispatch of a communication to you will, in any event, constitute notification. 
+
+Any changes will be effective immediately. 
+
+This Privacy Policy was last revised in May 2018. 
