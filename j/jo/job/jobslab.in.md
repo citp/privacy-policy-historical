@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jobslab.in privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615224031id_/http%3A//www.jobslab.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobslab.in privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216172412id_/http%3A//www.jobslab.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - JobsLab
 
 The privacy of our visitors is important to us.
 
-JobsLab.in has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: “JobsLab.in” at http://www.jobslab.in. We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with any questions.
+JobsLab.in has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: “JobsLab.in” at http://www.jobslab.in. We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at jobslabin@gmail.com with any questions.
 
  **Cookies**  
 A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer’s hard drive. Cookies store information about your use of a particular Web site or service and are typically used to make services more convenient and personalized. Most cookies are “session cookies,” which are automatically deleted whenever you leave a Web site, although some cookies remain on your computer until you remove them.
@@ -47,4 +47,4 @@ JobsLab.in privacy practices may change periodically. JobsLab.in will notify use
 By using JobsLab.in, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time.
 
  **How to Contact Us**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: JobsLab.in by Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: JobsLab.in by Email: jobslabin@gmail.com
