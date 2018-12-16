@@ -1,16 +1,24 @@
-> *The following text is extracted and transformed from the fakespot.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628185254id_/https%3A//www.fakespot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakespot.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216165621id_/https%3A//www.fakespot.com/privacy-policy) for the most accurate reproduction.*
 
 # Fakespot
 
-**Fakespot Privacy Policy – Effective May 25, 2018**
+**Fakespot Privacy Policy – Effective October 3, 2018**
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you use our website ([www.fakespot.com](http://www.fakespot.com/)) and our applications (browser extensions/plugins and mobile apps) (the “Service”).
+INTRODUCTION
+
+Thank you for using Fakespot. Our mission is to bring transparency and trust back to the Internet. As part of that mission, we believe it is important to be open and clear with our users on what personal information we collect and how we use it. To be clear, we do not sell any user’s personal information. We may share your personal information only to maintain and improve the Service for you. This Privacy Policy describes how your personal information is collected, used, and shared when you use our website ([www.fakespot.com](http://www.fakespot.com/)) and our software applications (browser extensions/plugins and mobile apps) (collectively the "Service" or “Services”).
 
 PERSONAL INFORMATION WE COLLECT
 
-When you visit the Service, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Service, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Service, and information about how you interact with the Service. We refer to this automatically-collected information as “Device Information.”
+When you use our Services, we automatically collect the following information about you (collectively referred to as “Personal Information”):
 
-We collect Device Information using the following technologies:
+  * Your device information which includes, but is not limited to, information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. 
+  * Individual web pages or products that you view, what websites or search terms referred you to the Service, and information about how you interact with the Service. 
+  * Your email address. 
+
+
+
+We collect Personal Information using the following technologies:
 
    \- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit[http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
@@ -18,25 +26,21 @@ We collect Device Information using the following technologies:
 
    \- “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Service.
 
-Additionally when you make a purchase or attempt to make a purchase through the Service, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number. We refer to this information as “Order Information.”
+HOW DO WE USE YOUR PERSONAL INFORMATION? 
 
-When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
+We use your personal information in several ways:
 
-HOW DO WE USE YOUR PERSONAL INFORMATION?
+  * Serve you advertising from our advertising partners; 
+  * Provide you with information or advertising relating to our products or services;
+  * Store your product analysis and search history on the Service;
+  * Screen for potential risk and fraud (in particular, your IP address); and
+  * To improve and optimize our Service (for example, by generating analytics about how our customers browse and interact with the Service, and to assess the success of our marketing and advertising campaigns). 
 
-We use the Order Information that we collect generally to fulfill any orders placed through the Service (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:
 
-Communicate with you;
-
-Screen our orders for potential risk or fraud; and
-
-When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
-
-We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Service (for example, by generating analytics about how our customers browse and interact with the Service, and to assess the success of our marketing and advertising campaigns).
 
 SHARING YOUR PERSONAL INFORMATION
 
-We share your Personal Information with third parties to help us use your Personal Information, as described above. We use Google Analytics to help us understand how our customers use the Service. You can read more about how Google uses your Personal Information here: [https://www.google.com/intl/en/policies/privacy/.](https://www.google.com/intl/en/policies/privacy/) You can also opt-out of Google Analytics here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+We share your Personal Information with third parties to help us use your Personal Information, as described above. We use Google Analytics to help us understand how our customers use the Service. You can read more about how Google uses your Personal Information here: [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/). You can also opt-out of Google Analytics here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
 Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
@@ -44,7 +48,7 @@ As described above, we use your Personal Information to provide you with targete
 
 You can opt out of targeted advertising here:
 
-Google -[https://www.google.com/settings/ads/anonymous](https://www.google.com/settings/ads/anonymous)
+Google - [https://www.google.com/settings/ads/anonymous](https://www.google.com/settings/ads/anonymous)
 
 Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: [http://optout.aboutads.info/](http://optout.aboutads.info/).
 
@@ -56,7 +60,7 @@ YOUR RIGHTS
 
 If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Service), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to the United States.
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you, or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to the United States.
 
 DATA RETENTION
 
