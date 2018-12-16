@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616034015id_/https%3A//www.hdrinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216030656id_/http%3A//www.hdrinc.com/privacy) for the most accurate reproduction.*
 
 # Privacy | HDR
 
-Effective Date: February 20, 2018
+Last Revised on December 5, 2018
 
 HDR is committed to privacy. Before providing us with any of your details, please read the following important information that concerns the protection of your personal information.
 
-HDR, Inc. (8404 Indian Hills Drive, Omaha, NE 68114-4098, USA) and its family of companies ("HDR," “we,” or “us”) acknowledge and honor the privacy of visitors of [www.hdrinc.com](http://www.hdrinc.com/) (the “Website”). This privacy statement describes how your personal information will be treated in connection with your use of our Website. By continuing to use the Website you signify that you have read and understood this statement.  
+HDR, Inc. (1917 S. 67th Street, Omaha, NE 68106-2973, USA) and its family of companies ("HDR," “we,” or “us”) acknowledge and honor the privacy of visitors of [www.hdrinc.com](http://www.hdrinc.com/) (the “Website”). This privacy statement describes how your personal information will be treated in connection with your use of our Website. By continuing to use the Website you signify that you have read and understood this statement.  
 
 For more information regarding HDR’s privacy practices for data received offline in the normal course of business, please [contact us](https://web.archive.org/contact-us).
 
@@ -90,10 +90,15 @@ You may make requests regarding the purposes for which your personal information
 
 ### Contact Us
 
-For questions regarding these Website privacy practices, and all other requests relating to how your personal information is processed by HDR, please contact us at [privacy [at] hdrinc.com ">privacy [at] hdrinc.com](mailto:%3Cspan%20class=) or by regular mail at HDR’s address for the United States:
+For questions regarding these Website privacy practices, and all other requests relating to how your personal information is processed by HDR, please contact our Data Protection Officer at [privacy [at] hdrinc.com ">privacy [at] hdrinc.com](mailto:%3Cspan%20class=) or by regular mail at HDR’s address for the United States:
 
 HDR  
-8404 Indian Hills Drive  
-Omaha, NE 68114-4098
+1917 S. 67th Street  
+Omaha, NE 68106-2973
 
-This statement applies to HDR, Inc., and its subsidiaries and affiliates.
+This statement applies to HDR, Inc., and its subsidiaries and affiliates. HDR, Inc. is the data controller and party responsible for this website. HDR, Inc.’s representative for purposes of the GDPR is HDR GmbH (Germany):
+
+HDR GmbH  
+Josef-Gockeln-Straße 10  
+DE-40474 Düsseldorf  
+datenschutz [at] hdrinc.com
