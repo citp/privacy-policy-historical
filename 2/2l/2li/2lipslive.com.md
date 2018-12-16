@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2lipslive.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613072148id_/http%3A//www.2lipslive.com/info.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2lipslive.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216094236id_/http%3A//www.2lipslive.com/info.php%23privacy) for the most accurate reproduction.*
 
 # 2LIPSLIVE.com
 
