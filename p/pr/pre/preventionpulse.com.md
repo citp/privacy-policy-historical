@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preventionpulse.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521115149id_/http%3A//preventionpulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preventionpulse.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216214326id_/http%3A//preventionpulse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Prevention Pulse
 
